@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+
+<div id="particles-js"></div>
+
+<script src="/js/particles.min.js"></script>
+<script>
+particlesJS.load('particles-js', '/assets/particles.json', function() {
+  console.log('callback - particles.js config loaded');
+});
+</script>
+
+{{ partial "footer" . }}

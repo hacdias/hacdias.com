@@ -1,0 +1,4 @@
+<header class="sans">
+  <h1>{{ .Title }}</h1>
+  {{ if .IsPage }}{{ if eq .Type "post" }}{{ partial "article/meta" . }}{{ end }}{{ end }}
+</header>

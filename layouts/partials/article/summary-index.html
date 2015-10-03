@@ -1,0 +1,15 @@
+<div class="summary modern">
+  {{ if isset .Params "image" }}
+  <a href="{{ .Permalink }}"><div class="banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')"></div></a>
+  {{ end }}
+
+  <div class="container">
+    <div style="width: 100%; height: 1px; margin-bottom: -1px;"></div>
+    <h2><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a></h2>
+    {{ partial "article/meta" . }}
+    <a class="no-color" href="{{ .Permalink }}">
+      <p class="sum">{{ .Summary }}</p>
+      <p class="dots">&bull;&bull;&bull;</p>
+    </a>
+  </div>
+</div>

@@ -1,0 +1,5 @@
+<div class="summary">
+  <h2><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a></h2>
+  {{ partial "article/meta" . }}
+  <p class="sum">{{ .Summary }}</p>
+</div>

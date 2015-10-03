@@ -1,0 +1,11 @@
+{{ partial "header" . }}
+
+<main role="main">
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  {{ range $paginator.Pages }}
+  {{ partial "article/summary-index" . }}
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+</main>
+
+{{ partial "footer" . }}

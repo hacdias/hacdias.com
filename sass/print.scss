@@ -1,0 +1,24 @@
+@media print {
+  body {
+    text-rendering: geometricPrecision;
+    padding-top: 0;
+  }
+
+  .site-header {
+    position: static;
+    background: #111;
+    color: #fff;
+  }
+
+  header.imaged .banner {
+    margin-top: 0;
+  }
+
+  .discussion,
+  .addthis_sharing_toolbox,
+  .post-navigation,
+  .site-header div.right,
+  .site-footer {
+    display: none;
+  }
+}

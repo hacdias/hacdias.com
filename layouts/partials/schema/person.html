@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "email": "mailto:{{ .Site.Author.Email }}",
+  "image": "{{ .Site.BaseURL }}{{ .Site.Author.Image }}",
+  "jobTitle": "{{ .Site.Author.JobTitle }}",
+  "name": "{{ .Site.Author.Name }}",
+  "telephone": "{{ .Site.Author.Telephone }}",
+  "url": "{{ .Site.BaseURL }}",
+  "sameAs" : [ "http://www.facebook.com/{{ .Site.Social.Facebook }}",
+      "http://twitter.com/{{ .Site.Social.Twitter }}",
+      "http://instagram.com/{{ .Site.Social.Instagram }}",
+      "http://www.linkedin.com/in/{{ .Site.Social.Linkedin }}",
+      "http://plus.google.com/+{{ .Site.Social.GooglePlus }}"]
+}
+</script>

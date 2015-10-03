@@ -1,0 +1,14 @@
+<footer>
+  <div class="sharing">
+    <a target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Social.Twitter }}"><div class="twitter">Twitter</div></a>
+    <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"><div class="facebook">Facebook</div></a>
+    <a target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}"><div class="gplus">Google+</div></a>
+    <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias"><div class="linkedin">LinkedIn</div></a>
+  </div>
+  <div class="post-navigation">
+    {{ if .Next }}<a href="{{ .Next.Permalink  }}"><div class="prev">Previous</div></a>{{ end }}
+    {{ if .Prev }}<a href="{{ .Prev.Permalink  }}"><div class="next">Next</div></a>{{ end }}
+  </div>
+  <div style="clear:both"></div>
+  {{ partial "disqus" . }}
+</footer>

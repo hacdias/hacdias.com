@@ -1,0 +1,23 @@
+{{ partial "header" . }}
+<div class="single">
+{{ if isset .Params "image" }}{{ partial "article/banner" . }}{{ end }}
+
+<article class="container">
+  {{ partial "article/header" . }}
+
+  {{ .Content }}
+
+  {{ if eq .Type "post" }}
+  {{ partial "article/footer" . }}
+  {{ end }}
+</article>
+</div>
+
+<script>
+window.onscroll = function() {
+    var obj = document.getElementById("article-banner");
+    obj.style.top = ((window.pageYOffset | document.body.scrollTop) / 3) + "px";
+};
+</script>
+
+{{ partial "footer" . }}
