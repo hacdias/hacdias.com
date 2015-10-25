@@ -1,4 +1,4 @@
-baseurl = "https://henriquedias.com/"
+baseurl = "http://localhost:1313/"
 languageCode = "en_GB"
 title = "Henrique Dias"
 removePathAccents = true

@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "sitify",
+      "url": "https://www.npmjs.com/package/sitify",
+      "image": "images/sitify.jpg",
+      "description": "An hosts file manager and virtual hosts manager."
+    },
+    {
+      "title": "HackerRank Profile Widget",
+      "url": "https://wordpress.org/plugins/hackerrank-profile-widget/",
+      "image": "images/hackerrankwidget.jpg",
+      "description": "Shows some information about an HackerRank’s profile (like badges, contests, challenges, discussions)."
+    }
+  ]
+}

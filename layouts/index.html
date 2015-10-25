@@ -1,11 +1,46 @@
 {{ partial "header" . }}
 
+<style>
+.video-player {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+.video-player iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+</style>
+
 <main role="main">
   {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
   {{ range $paginator.Pages }}
   {{ partial "article/summary-index" . }}
   {{ end }}
   {{ template "_internal/pagination.html" . }}
+
+  <div class="container">
+
+    {{ range $.Site.Data.projects }}
+    <div class="projects">
+      {{ range . }}
+        <a href="{{ .url }}">
+          <div class="item">
+            <img src="{{ .Site.BaseURL }}{{ .image }}">
+            <div class="title">{{ .title }}</div>
+            <div class="description">{{ .description }}</div>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+  </div>
 </main>
 
 {{ partial "footer" . }}
