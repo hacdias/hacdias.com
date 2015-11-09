@@ -4,7 +4,8 @@ categories:
 - photography
 title: Journey to Porto
 description: "I went in a school trip for three days in a voyage to Porto, Portugal. I'm from south Portugal and I found it amazing."
-coordinates: "41.1560371, -8.6328281"
+lat: "41.1560371"
+lon: "-8.6328281"
 image: "/images/photography/journey-to-porto/00.jpg"
 ---
 

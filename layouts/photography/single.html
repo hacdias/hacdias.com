@@ -5,7 +5,7 @@
 <article class="container">
   <header class="sans">
     <h1>{{ .Title }}</h1>
-    <h2>Coordinates: {{ .Params.coordinates }}</h2>
+    <a href="https://www.google.com/maps/@{{ .Params.lat }},{{ .Params.lon }},13z"><h2>Coordinates: {{ .Params.lat }}, {{ .Params.lon }}</h2></a>
   </header>
 
   {{ .Content }}
