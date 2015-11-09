@@ -20,7 +20,7 @@ Hoje vamos dar continuação ao tutorial sobre como [adicionar menus de administ
 
 Na primeira parte, criámos duas funções e adicionámos uma opção ao menu de administração do WordPress sendo que ficámos com o seguinte código:
 
-{{< highlight php  >}}
+```php
 <?php
 
 function themeslug_admin_menus() {
@@ -34,7 +34,7 @@ function themeslug_options() {
 }
 
 add_action("admin_menu", "themeslug_admin_menus");
-{{< /highlight >}}
+```
 
 Hoje vamos dedicar-nos, principalmente, à segunda função (```themeslug_options()```) e à utilização de uma variável definida nas opções.
 
@@ -46,7 +46,7 @@ Resumindo, hoje vamos fazer o seguinte:
 
 Pode parecer complicado, mas vai ver que é simples. Vamos começar por substituir o comentário que está dentro da função themeslug_options  pelo seguinte:
 
-{{< highlight php  >}}
+```php
 <?php
 
 //...
@@ -132,7 +132,7 @@ if (isset($_POST["update_settings"])) {
     <?php /* Botão de submissão do formulário. */ ?>
     <input type="submit" name="submit" value="Guardar alterações" class="button button-primary" />
 </form>    <?php
-{{< /highlight >}}
+```
 
 O código acima está integralmente comentado. Se lerem os comentários de cima para baixo, não conhecendo o resto do código, é normal que sintam alguma confusão.
 

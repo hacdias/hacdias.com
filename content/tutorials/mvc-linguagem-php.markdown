@@ -21,7 +21,7 @@ Gostaria de dizer que esta exemplificação terá como base uma "framework base"
 
 Para a aplicação começar a ser construída, é necessário efetuar a estruturação da mesma. Esta estruturação passa pela disposição dos ficheiros pelas pastas. Irá ser utilizada a seguinte estrutura:
 
-{{< highlight bash >}}
+```bash
 | app_core (Application Core)
      | controllers
      | libs
@@ -35,7 +35,7 @@ Para a aplicação começar a ser construída, é necessário efetuar a estrutur
      | js
      | .htaccess
      | index.php
-{{< /highlight >}}
+```
 
 Visualizando a estruturação anterior, é possível verificar que existem duas pastas principais: a pasta ```app_core``` e a pasta ```public_html```. Cada uma das duas pastas tem a sua função específica. Vejamos então qual a finalidade de cada uma das pastas.
 
@@ -68,7 +68,7 @@ A pasta ```public_html``` será aquela que para a qual o servidor web, como po
 
 Iremos começar pelo ficheiro mais simples: o ficheiro ```config.php``` que está contido base do núcleo da aplicação (```app_core/config.php```). Este ficheiro, como já referido, irá conter as constantes principais. Ora veja:
 
-{{< highlight php >}}
+```php
 <?php
 
 /*
@@ -110,7 +110,7 @@ define('DB_PASS', 'dbpass');
 */
 error_reporting(-1);
 ini_set( 'display_errors','-1');
-{{< /highlight >}}
+```
 
 Crie um ficheiro com o código acima e guarde-o na pasta mencionada. Não se esqueça de alterar a constante URL, de forma a corresponder com o URL que vai utilizar para criar esta pequena aplicação. Altere também os dados da Configuração da Base de Dados.
 
@@ -122,15 +122,15 @@ Como pode ter reparado acima, eu estou a utilizar o link ```localhost/mvc```  
 
 Como fiz isto? Criei um [*link simbólico*](http://en.wikipedia.org/wiki/Symbolic_link) de forma a que C:WebServerApache24htdocsmvc  corresponda a D:Developmentmvcpublic_html . Para criar um link simbólico no Windows basta correr o seguinte comando na linha de comandos em modo de administrador:
 
-{{< highlight bash >}}
+```bash
 MKLINK /D <novo-link> <local-dos-ficheiros>
-{{< /highlight >}}
+```
 
 Onde ```<novo-link```> corresponde ao local a que irá corresponder o ```<local-dos-ficheiros>```. No meu caso, tive que executar o seguinte comando:
 
-{{< highlight bash >}}
+```bash
 MKLINK /D C:\WebServer\Apache24\htdocs\mvc D:\Development\mvc\public_html
-{{< /highlight >}}
+```
 
 Isto pode ser, obviamente, feito também em _linux_ e _OS X_ porém não sei como, mas caso tenha uma distribuição Linux ou OS X, recomendo a leitura desta [página](http://apple.stackexchange.com/questions/115646/how-can-i-create-a-symbolic-link-in-terminal).
 

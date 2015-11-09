@@ -62,49 +62,49 @@ Começa por abrir a linha de comandos/shell ou qualquer outra coisa que use o te
 
 Tem em atenção que, se abrires na pasta ```D:\dev```, o repositório vai ser clonado em ```D:\dev\nomeDoRepo```. Executa então o seguinte comando:
 
-{{< highlight bash >}}
+```bash
 git clone <URL-QUE-COPIASTE>
-{{< /highlight >}}
+```
 
 Agora é só esperar uns segundos até que o repositório seja clonado. Deves receber uma mensagem semelhante à seguinte:
 
-{{< highlight bash >}}
+```bash
 Cloning into 'RepositorioDeExemploCOXPE'...
 warning: You appear to have cloned an empty repository.
 Checking connectivity... done.
-{{< /highlight >}}
+```
 
 Agora naveguem até à pasta do repositório utilizando o comando cd <NOME-DO-REPO> . Agora que estão dentro da pasta, devem ver uma pasta chamada ```.git``` oculta.
 
 Vamos então criar o nosso primeiro ficheiro para enviar para o repositório. Comecem por executar o seguinte comando:
 
-{{< highlight bash >}}
+```bash
 echo Este é o meu primeiro repositório > README.md
-{{< /highlight >}}
+```
 
 Esse comando vai fazer com que seja criado um ficheiro ```README.md``` com o conteúdo "Este é o meu primeiro repositório" (sem aspas). Agora é hora de enviar este ficheiro para o servidor. Para isso executamos um dos seguintes comandos:
 
-{{< highlight bash >}}
+```bash
 #Para adicionar apenas UM ficheiro
 git add <nome-do-ficheiro>
 
 #Para adicionar todas as novas modificações
 git add -all
-{{< /highlight >}}
+```
 
 Agora temos que adicionar uma mensagem que vai identificar este envio. Para isso escreve o seguinte, substituindo "My Message" pelo que quiseres (mas sempre com aspas):
 
-{{< highlight bash >}}
+```bash
 git commit -m "My Message"
-{{< /highlight >}}
+```
 
 Agora é hora de enviar as mudanças para o repositório remoto. Para isso executa o seguinte comando que irá enviar as alterações para a "branch" master:
 
-{{< highlight bash >}}
+```bash
 git push origin
 
 #Depois insere os dados de utilizador quando pedido
-{{< /highlight >}}
+```
 
 ## Pronto...
 

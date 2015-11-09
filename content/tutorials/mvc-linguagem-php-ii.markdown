@@ -24,7 +24,7 @@ Hoje iremos trabalhar no coração da aplicação, ou seja, na diretoria ```app
 
 Vamos começar por criar um ficheiro denominado Bootstrap.php onde iremos colocar todo o seguinte código:
 
-{{< highlight php >}}
+```php
 <?php
 
 /**
@@ -152,13 +152,13 @@ class Bootstrap
     }
 
 }
-{{< /highlight >}}
+```
 
 O código acima é aquele que irá inicializar todo a aplicação. Em primeiro lugar, gostava de dizer que a estrutura do URL da aplicação será a seguinte:
 
-{{< highlight bash >}}
+```bash
     http://site/controlador/método/arg1/arg2/[arg...]
-{{< /highlight >}}
+```
 
 Vamos então ver, por partes, o que faz cada uma das funções declaradas acima.
 
@@ -201,7 +201,7 @@ Finalmente, temos a função de erro que irá inicializar o controlador dos erro
 
 De momento, o que foi feito até agora pode aparentar não ter muito sentido, mas com o encaixar das peças tudo irá ser mais claro. Vejamos agora a classe mãe dos Controladores.
 
-{{< highlight php >}}
+```php
 <?php
 
 /**
@@ -233,7 +233,7 @@ class Controller
     }
 
 }
-{{< /highlight >}}
+```
 
 Esta classe é claramente menos complexa que a anterior e conta apenas com o seu construtor que recebe o nome do controlador e inicializa, automaticamente, a *View*.
 
@@ -247,7 +247,7 @@ Mas, porque é que esta verificação é feita? Porque nem todas as páginas uti
 
 A classe Database vai estar intimamente ligada com a classe PDO e será com ela que inicializaremos a ligação à base de dados e não com a PDO, pois a Database  é baseada na PDO. Ora veja:
 
-{{< highlight php >}}
+```php
 <?php
 
 /**
@@ -348,7 +348,7 @@ class Database extends PDO
     }
 
 }
-{{< /highlight >}}
+```
 
 Não há muito a falar sobre esta classe visto que ela contém apenas algumas funções para agilizar diversas operações como inserções na base de dados, seleções, atualizações e eliminações.
 
@@ -359,7 +359,7 @@ Acrescento que o construtor deve receber todos aqueles itens que escrevemos nas 
 
 Vejamos então a classe superior de todos os modelos que irão constituir a nossa aplicação:
 
-{{< highlight php >}}
+```php
 <?php
 
 /**
@@ -379,7 +379,7 @@ class Model
     }
 
 }
-{{< /highlight >}}
+```
 
 
 Como pode ver, a classe é pequena e o seu construtor apenas inicializa uma instância da conexão à Base de Dados que será utilizada em todos os modelos.
@@ -389,7 +389,7 @@ Como pode ver, a classe é pequena e o seu construtor apenas inicializa uma inst
 
 O modelo da *View* que já foi muito falado acima também é muito pequeno.
 
-{{< highlight php >}}
+```php
 <?php
 
 /**
@@ -420,7 +420,7 @@ class View
     }
 
 }
-{{< /highlight >}}
+```
 
 
 Neste é inicializada uma variável chamada ```$_data ``` que irá conter todo o conteúdo que deverá ser enviado para o HTML de forma a ser imprimido.

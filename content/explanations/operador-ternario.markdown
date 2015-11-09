@@ -22,19 +22,19 @@ Já utilizava este operador há algum tempo mas estava reticente em relação à
 
 Este operador é excelente para pequenas e simples condições de ```if else``` onde não pretendemos utilizar muitas linhas.
 
-{{< highlight php  >}}
+```php
 $url = isset($_GET['url']) ? $_GET['url'] : null;
-{{< /highlight >}}
+```
 
 Esse excerto acima foi tirado do artigo que mencionei acima e faz o mesmo que o código abaixo:
 
-{{< highlight php  >}}
+```php
 if (isset($_GET['url']) {
       $url = $_GET['url'];
 } else {
       $url = null;
 }
-{{< /highlight >}}
+```
 
 Vendo isto, concluímos que o  operador ternário é mais simples de utilizar, porém um pouco mais difícil de ler.
 
@@ -44,7 +44,7 @@ A palavra "ternário" provém de "três" e é utilizada neste operador porque es
 
 Abaixo encontra-se mais um pequeno exemplo:
 
-{{< highlight php  >}}
+```php
 $n = rand(0,100);
 
 if ($n > 50) {
@@ -59,7 +59,7 @@ echo ($n > 50) ? 'O número é maior que 50!' : 'O número é menor que 50!';
 
 //O leitor Gustavo Rafael sugeriu uma forma mais simplificada:
 echo 'O número é ' . (($n > 50) ? 'maior' : 'menor') . ' que 50!';
-{{< /highlight >}}
+```
 
 Mais uma vez podemos concluir que utilizando  o operador ternário gastamos menos linhas e poupamos *bytes* no tamanho do ficheiro.
 

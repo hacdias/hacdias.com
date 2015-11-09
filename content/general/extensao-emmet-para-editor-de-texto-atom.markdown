@@ -24,7 +24,7 @@ A extensão [Emmet](http://emmet.io/) é, provavelmente, conhecida de quase todo
 
 Com esta extensão são ativados diversos atalhos e uma funcionalidade de abreviaturas. Se, por exemplo, escrevermos: ```ul#minha_lista>li*5``` e clicarmos na tecla "tab", o seguinte será produzido:
 
-{{< highlight html >}}
+```html
 <ul id="minha_lista">
  <li></li>
  <li></li>
@@ -32,7 +32,7 @@ Com esta extensão são ativados diversos atalhos e uma funcionalidade de abrevi
  <li></li>
  <li></li>
 </ul>
-{{< /highlight >}}
+```
 
 No vídeo abaixo mostro como instalar esta extensão além de vos mostrar como funciona o sistema de abreviaturas e alguns atalhos. [Não se esqueça de subscrever o canal](https://www.youtube.com/user/hacdias?sub_confirmation=1). :)
 

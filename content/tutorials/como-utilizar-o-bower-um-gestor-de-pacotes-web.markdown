@@ -25,20 +25,20 @@ Utilizar o [Bower](http://bower.io/) é bastante simples. Vamos começar com os 
 Depois de terem o node.js instalado no vosso computador, vamos instalar o Bower. Para isso, abram a linha de comandos do vosso SO, se for Windows corram como Administrador e escrevam o seguinte:
 
 
-{{< highlight bash >}}
+```bash
 npm install -g bower
-{{< /highlight >}}
+```
 
 Agora, existem várias formas de fazer o dowload dos pacotes que precisamos no nosso projeto. Nós vamos começar por analisar as "menos divertidas" e depois passaremos à que, talvez, possa ser considerada a "melhor"
 
-{{< highlight bash >}}
+```bash
 # Instala através do ficheiro bower.json
 bower install
 # Instala um pacote específico
 bower install package
 # Instala uma versão específica de um pacote
 bower install package#version
-{{< /highlight >}}
+```
 
 Como podem ver, existem essas três formas mencionadas acima. Podemos substituir **package** por diversos itens como:
 
@@ -50,13 +50,13 @@ Como podem ver, existem essas três formas mencionadas acima. Podemos substituir
 
 Assim, para instalar o jQuery, basta correr o seguinte comando para que seja criada uma pasta no caminho **bower_components\jquery**.
 
-{{< highlight bash >}}
+```bash
 bower install jquery
-{{< /highlight >}}
+```
 
 Agora vamos criar um ficheiro chamado ```bower.json``` para descarregar a versão 1.11.0 do jQuery e a versão mais recente do **angular.js**.
 
-{{< highlight json >}}
+```json
 {
   "name": "projeto-x",
   "version": "0.0.1",
@@ -65,18 +65,18 @@ Agora vamos criar um ficheiro chamado ```bower.json``` para descarregar a versã
     "angular": "master"
   }
 }
-{{< /highlight >}}
+```
 
 Agora basta correr o seguinte comando para efetuar o download dos pacotes:
 
-{{< highlight bash >}}
+```bash
 bower install
-{{< /highlight >}}
+```
 
 Agora, imaginando que saia uma nova versão do angular.js, bastava correr o seguinte comando para atualizar o angular e manter o jQuery na mesma versão:
 
-{{< highlight bash >}}
+```bash
 bower update
-{{< /highlight >}}
+```
 
 Como podem ver, é bastante simples fazer o download de pacotes utilizando o Bower. Para os chamar através do HTML basta fazermos como sempre: utilizar as tags ```<script>``` e utilizar o URL absoluto ou relativo para o local onde estão os ficheiros.

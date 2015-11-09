@@ -33,7 +33,7 @@ Neste tutorial assumo que os leitores sabem criar uma base de dados e/ou já tê
 
 Dentro da pasta onde estão colocados os documentos do servidor (o XAMPP usa normalmente a directoria "C:/xampp/htdocs") crie um ficheiro chamado **index.php**. Dentro deste copie e cole o seguinte código:
 
-{{< highlight php >}}
+```php
 <?php
 
 /* Coloque abaixo os dados de acesso à base de dados.
@@ -53,7 +53,7 @@ $password = 'password';
 
 //Utilizando a extensão PDO, criamos uma ligação à base de dados.
 $db = new PDO('mysql:host=' . $host . ';dbname=' . $db, $username, $password);
-{{< /highlight >}}
+```
 
 Se não conhecerem bem a extensão PDO, recomendo-vos uma pequena leitura no [manual oficial do PHP](http://php.net/manual/pt_BR/book.pdo.php). Não se esqueça de alterar os dados acima para ligar à base de dados.
 
@@ -65,7 +65,7 @@ Mas, quando escrevemos esse URL, o Apache assume que estamos a tentar aceder a 
 
 É crucial que o ficheiro tenha o nome mencionado. Neste copia e cola o seguinte código:
 
-{{< highlight apache >}}
+```apache
 <IfModule mod_rewrite.c>
 	RewriteEngine On
 
@@ -73,7 +73,7 @@ Mas, quando escrevemos esse URL, o Apache assume que estamos a tentar aceder a 
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteRule ^(.*) index.php?url=$1 [QSA,L]
 </IfModule>
-{{< /highlight >}}
+```
 
 Normalmente o ```mod_rewrite``` já vem ativado por padrão. Caso vocês tentem aceder a alguma página e dê algum erro, expliquem o que acontece nos comentários para eu ou outro leitor tentarmos ajudar.
 
@@ -81,7 +81,7 @@ Não vou explicar de forma profunda o código acima, mas este faz com que todo 
 
 Agora precisamos que o nosso ficheiro em PHP consiga saber qual a página em que estamos de forma a mais tarde mostrar apenas os itens referentes aquela página. Para isso copia e cola o código seguinte a seguir da ligação à base de dados:
 
-{{< highlight php  >}}
+```php
 /*
  * Utilizando o operador ternário, definimos
  * a variável $url.
@@ -110,7 +110,7 @@ if (empty($url[0])) {
  */
 
 $n = $url[0];
-{{< /highlight >}}
+```
 
 A explicação do código acima está feita nos comentários. Podes saber mais acerca do **operador ternário **[aqui](/explanations/operador-ternario/). Agora que já podemos saber o número da página e temos uma ligação à base de dados pronta, vamos avançar para a página e a listagem em si.
 
@@ -120,7 +120,7 @@ A explicação do código acima está feita nos comentários. Podes saber mais a
 
 Abaixo da tag ?> , copiem e colem o seguinte trecho de código HTML.
 
-{{< highlight html >}}
+```html
 <html>
 	<head>
 		<title>Listagem de uma tabela MySQL</title>
@@ -132,13 +132,13 @@ Abaixo da tag ?> , copiem e colem o seguinte trecho de código HTML.
 
 	</body>
 </html>
-{{< /highlight >}}
+```
 
 Penso que tudo o que está acima seja conhecido de todos vós por isso, vamos continuar.  O restante código será todo escrito no local do comentário acima. Faremos a listagem das linhas e os botões de navegação aí.
 
 Agora, no local do comentário copia o seguinte:
 
-{{< highlight php >}}
+```php
 <?php
 
 /*
@@ -252,7 +252,7 @@ if ($n > $maximoDePaginas || $n < 1) {
 }
 
 ?>
-{{< /highlight >}}
+```
 
 O código está todo comentado e explicado. Reforço novamente que, caso tenham  alguma dúvida, não hesitem em perguntar. Se quiserem saber mais sobre a função ceil , podem aceder a [esta página](http://php.net/manual/en/function.ceil.php).
 

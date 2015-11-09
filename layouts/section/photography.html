@@ -1,16 +1,14 @@
 {{ partial "header" . }}
 
-<article class="container">
-  {{ partial "article/header" . }}
-
+<article class="container photography list sans">
   <main role="main">
     {{ $paginator := .Paginate (where .Data.Pages "Type" "photography") }}
     {{ range $paginator.Pages }}
-    <div class="block" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')">
+    <a href="{{ .Permalink }}"><div class="block" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')">
       <div>
-        {{ .Title }}
+        <h2>{{ .Title }}</h2>
       </div>
-    </div>
+    </div></a>
     {{ end }}
     {{ template "_internal/pagination.html" . }}
   </main>

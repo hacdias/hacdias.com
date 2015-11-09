@@ -33,7 +33,7 @@ Depois de efetuar o _download_, irá ter que descompactar o ficheiro transferid
 
 Agora crie uma pasta cujo conteúdo seja semelhante ao seguinte:
 
-{{< highlight bash >}}
+```bash
 site-multi-lingua/
   | lib /
   |     | gettext.inc
@@ -46,7 +46,7 @@ site-multi-lingua/
   | config.php
   | i18n.php
    index.php
-{{< /highlight >}}
+```
 
 Como pode visualizar, os ficheiros do gettext foram colocados dentro de uma pasta chamada ```lib`` e ainda foram adicionados três outros ficheiros:
 
@@ -58,11 +58,11 @@ Inicialmente tem que ser definida uma linguagem padrão. Nós iremos utilizar "p
 
 Para isso, edite o seu ficheiro _config.php _e coloque o seguinte:
 
-{{< highlight php >}}
+```php
 <?php
 
 define('LANG','pt_PT');
-{{< /highlight >}}
+```
 
 ## Inicialização do Gettext
 
@@ -75,7 +75,7 @@ Agora que já existe uma linguagem padrão definida, a inicialização do gettex
 
 Agora, deve colocar no ficheiro **i18n.php **o seguinte conteúdo:
 
-{{< highlight php >}}
+```php
 <?php
 
 require_once('config.php');
@@ -104,7 +104,7 @@ _textdomain($textdomain);
 function _e($string) {
   echo __($string);
 }
-{{< /highlight >}}
+```
 
 Poça! Tanta coisa! Mas para que serve tudo isto? Na **linha 3**, o ficheiro ```config.php``` é chamado pois é este que contém a constante da linguagem. Assim podemos já podemos utilizar essa constante neste ficheiro.
 
@@ -122,7 +122,7 @@ De seguida é criada uma função chamada ```_e()``` que nos permite imprimir o 
 
 Agora, copiem e colem o seguinte no ```index.php```:
 
-{{< highlight php >}}
+```php
 <?php
 require_once('i18n.php');
 ?>
@@ -137,6 +137,6 @@ require_once('i18n.php');
     <h1><?php _e('Olá Mundo!'); ?></h1>
   </body>
 </html>
-{{< /highlight >}}
+```
 
 De momento, ainda não existe nada de extraordinário a acontecer. Na próxima parte deste tutorial iremos falar em como criar as traduções!

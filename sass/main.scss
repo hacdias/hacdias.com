@@ -2,7 +2,6 @@
 @charset "utf-8";
 @import 'normalize';
 @import 'roboto';
-@import 'syntax';
 
 html {
   font-size: 18px;
@@ -294,37 +293,6 @@ code {
   line-height: 1;
 }
 
-/* BLOCKS */
-.blocks {
-  width: 90%;
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.block {
-  position: relative;
-  width: 13em;
-  padding-bottom: 11em;
-  background-size: cover;
-  display: inline-flex;
-  margin-top: 1%;
-}
-
-.block div {
-  position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,0.4);
-    color: #fff;
-    text-align: center;
-    padding-top: 37%;
-    box-sizing: border-box;
-}
-
 /* ARTICLES */
 article header h1 {
     margin-bottom: 0;
@@ -612,22 +580,6 @@ form input[type="submit"]:hover {
   margin: 1.5em auto;
 }
 
-.photography img {
-  max-width: 90%;
-  padding: 1em 0;
-  border-top: 1px solid #212121;
-  display: block;
-  margin: 0 auto;
-}
-
-.photography img:first-of-type {
-  border-top: 0;
-}
-
-.photography p + img {
-  border-top: 0;
-}
-
 .photography article footer {
   max-width: 90%;
   margin: 0 auto;
@@ -636,6 +588,75 @@ form input[type="submit"]:hover {
 .photography article footer .discussion {
   max-width: 700px;
   margin: 0 auto;
+}
+
+.photo {
+  position: relative;
+  max-width: 90%;
+  padding: 1em 0;
+  border-top: 1px solid #212121;
+  display: block;
+  margin: 0 auto;
+}
+
+.photo:first-of-type {
+  border-top: 0;
+}
+
+.photo img {
+  display: block;
+}
+
+.photo .caption {
+  position: absolute;
+  width: 10em;
+  font-size: 0.8em;
+  color: #212121;
+}
+
+.photo p:first-of-type {
+  margin-top: 0;
+}
+
+.photo p:last-of-type {
+  margin-bottom: 0;
+}
+
+.photography.list {
+  max-width: none;
+  width: 100%;
+  background-color: #fff;
+  margin: 0 0 -1.5em;
+}
+
+.photography.list .block {
+  position: relative;
+  width: 100%;
+  padding-bottom: 38%;
+  background-size: cover;
+  background-position: center;
+}
+
+.photography.list .block div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.4);
+  color: #fff;
+  text-align: center;
+}
+
+.photography.list .block h2 {
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  position: relative;
+  margin: 0;
+  font-size: 5em;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 /* PORTFOLIO */

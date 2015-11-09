@@ -21,10 +21,10 @@ Para exemplificar, vamos utilizar valores **booleanos**, ou seja, ```false``` 
 
 Em primeiro lugar, vamos declarar duas variáveis, uma que seja igual a true  e outra igual a false como as seguintes:
 
-{{< highlight php  >}}
+```php
 $verdadeiro = true;
 $falso = false;
-{{< /highlight >}}
+```
 
 Antes de continuarmos, vou recordar algo parecido às regras da multiplicação/divisão com sinais diferentes, mas aqui para verdadeiros e falsos:
 
@@ -35,15 +35,15 @@ Antes de continuarmos, vou recordar algo parecido às regras da multiplicação/
 
 Esta tabela mostra o resultado de comparações feitas entre os vários valores booleanos. Continuando agora com o "nosso" PHP, vamos definir uma variável chamada, por exemplo, $comparacao e igualá-la a comparações entre as variáveis booleanas anteriormente definidas.
 
-{{< highlight php  >}}
+```php
 $comparacao = $verdadeiro && $falso;
-{{< /highlight >}}
+```
 
 Assim, concluímos que a variável ```$comparacao```  é igual a falso. Vamos agora utilizar o operador AND.
 
-{{< highlight php  >}}
+```php
 $comparacao = $verdadeiro AND $falso;
-{{< /highlight >}}
+```
 
 Olhando para a tabela e para a igualdade, pensamos logo que $comparacao  é igual a falso mas... está **errado!** ```$comparacao```  é agora igual a **verdadeiro**. Mas como assim?
 
@@ -51,10 +51,10 @@ Isto acontece devido ao **[nível de precedência](http://php.net/manual/pt_BR/
 
 As duas linhas acima são equivalentes às seguintes, respetivamente:
 
-{{< highlight php  >}}
+```php
 $comparacao = ( $verdadeiro && $falso );
 ( $comparacao = $verdadeiro ) AND $falso;
-{{< /highlight >}}
+```
 
 O nível de precedência do operador ```=```  é mais elevado que o do operador ```AND```. Porém, o nível de precedência do operador ```&&``` é mais elevado que o de ```=```.
 

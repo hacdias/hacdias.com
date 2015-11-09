@@ -25,25 +25,25 @@ Utilizando este método, o processador ficaria menos carregado de processos, o q
 
 Para limitar o número de resultados dados por uma consulta SQL num sistema MySQL a um intervalo de linhas, os comandos  LIMIT e OFFSET devem ser utilizados. Pode ver a consulta (*query*) abaixo para um exemplo ilustrativo.
 
-{{< highlight mysql >}}
+```sql
 SELECT * FROM `mytable` LIMIT 15
-{{< /highlight >}}
+```
 
 O resultado da consulta acima serão as primeiras 15 linhas da tabela ```mytable```. Mas, e se eu quiser as segundas 15 linhas e não as primeiras?
 
 Para o fazermos, apenas temos que utilizar o comando  OFFSET . Então, para obtermos as segundas quinze linhas de uma tabela MySQL, faríamos o seguinte:
 
-{{< highlight mysql >}}
+```sql
 SELECT * FROM `mytable` LIMIT 15 OFFSET 15
-{{< /highlight >}}
+```
 
 Em Português, *offset* quer dizer deslocamento. Podemos então dizer que a *query* está a ser deslocada para outro local da tabeça passando à frente das primeira 15 linhas, selecionando as segundas 15.
 
 Poderíamos ainda simplificar o código acima para o seguinte:
 
-{{< highlight mysql >}}
+```sql
 SELECT * FROM `mytable` LIMIT 15,15
-{{< /highlight >}}
+```
 
 Estes comandos podem ser utilizados com outros como o WHERE .
 

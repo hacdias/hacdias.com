@@ -22,13 +22,13 @@ Iremos analisar um exemplo prático: um  formulário de registo ou inscrição 
 
 Como vamos utilizar o método Ajax do jQuery, temos que importar, em primeiro lugar, a biblioteca jQuery. Na secção <head>  do vosso ficheiro onde vai estar o registo - vou chamar-lhe ```index.html``` - devem colocar o seguinte código:
 
-{{< highlight html >}}
+```html
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-{{< /highlight >}}
+```
 
 Esse pequeno trecho importa a versão 2.1.1 do jQuery e está armazenada nos servidores da Google e o seu uso é livre e qualquer um pode utilizar. Para criar o formulário de registo, vamos utilizar as tags ```<form>``` do HTML, criando assim, algo semelhante ao seguinte:
 
-{{< highlight html >}}
+```html
 <h1>Formulário de Registo</h1>
 
 <form id="registo" method="post" action="javascript:enviarRegisto();">
@@ -39,13 +39,13 @@ Esse pequeno trecho importa a versão 2.1.1 do jQuery e está armazenada nos ser
 	<input type="submit" value="Submeter">
 
 </form>
-{{< /highlight >}}
+```
 
 O título não é necessário para o  pleno funcionamento do formulário. Como podem ver, todos os <inputs>  estão identificados com um id. No final encontra-se um botão para submeter o formulário. Este botão direciona para a ação do formulário que, neste caso, é javascript:enviarRegisto(); .
 
 O método (method) não é necessário visto que este vai ser definido diretamente através do pedido em Ajax. Agora vamos à parte do servidor - registar o utilizador. Vamos criar um ficheiro com o nome ```processar.php``` o mesmo local onde temos o nosso ```index.html```. Neste ficheiro teremos o código seguinte ou semelhante:
 
-{{< highlight php >}}
+```php
 <?php
 
 /*
@@ -111,7 +111,7 @@ header('Content-type: application/json');
 echo json_encode($resultado);
 
 ?>
-{{< /highlight >}}
+```
 
 
 Podes ler mais sobre o formato **json** [aqui](http://json.org/). Antes de continuarmos, vamos estabelecer as diferenças entre os métodos POST e GET. Talvez a maior diferença entre estes dois métodos seja a visibilidade. O método **GET** leva a informação "agarrada" ao URL e qualquer pessoa pode ver. Os URLs com informações anexadas são do seguinte formato:
@@ -124,7 +124,7 @@ O **tipo de dados** é outra grande diferença: enquanto que o método GET só 
 
 Em primeiro lugar, criamos um novo ficheiro chamado, por exemplo, ```script.js``` e chamomo-lo logo a seguir ao jQuery no nosso ```index.html``` com um código semelhante ao seguinte:Agora, dentro do ficheiro de javascript, vamos ter que criar a função que anteriormente colocámos na ação do formulário, a função enviarRegisto().
 
-{{< highlight javascript >}}
+```javascript
 function enviarRegisto() {
 
     /*
@@ -192,7 +192,7 @@ function enviarRegisto() {
         console.log("Detalhes: " + desc + "nErro:" + err);
     });
 }
-{{< /highlight >}}
+```
 
 Relembro que todo o código neste artigo é para fins demonstrativos e que para fins profissionais devem ser aplicadas medidas de segurança de forma a que terceiros não consigam obter os dados que estão a ser transmitidos.
 

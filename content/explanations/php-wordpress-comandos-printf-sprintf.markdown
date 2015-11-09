@@ -21,17 +21,17 @@ Vou começar por analisar as duas funções em separado, explicando para que se
 
 O nome desta função quer dizer _print formatted_, ou seja, "imprimir dados formatados". Abaixo encontra um exemplo mais simples:
 
-{{< highlight php  >}}
+```php
 printf("Olá mundo!");
 
 //Olá mundo!
-{{< /highlight >}}
+```
 
 E agora você pergunta-me: que utilidade tem essa função se podemos fazer o mesmo com ```echo``` ou ```print```?
 
 É aqui que está função se destaca. Compare as seguintes impressões, todas vão imprimir o mesmo.
 
-{{< highlight php  >}}
+```php
 $foo = "Henrique";
 $bar = "14";
 $site = "COXPE";
@@ -44,7 +44,7 @@ echo "Chamo-me {$foo} tenho {$bar} anos e estou a navegar no {$site}.";
 
 printf("Chamo-me %s e tenho %d anos e estou a navegar no %s.",
 	$foo, $bar, $site);
-{{< /highlight >}}
+```
 
 Se repararmos, das três, a última é a que tem uma maior legibilidade, tal como o leitor Carlos Santos tinha mencionado.
 
@@ -62,9 +62,9 @@ Como pode ver, existe ali um ```%s``` e um``` %d``` que são substituídos pe
 
 Estes são os mais utilizados porém podem ver mais [aqui](http://php.net/manual/en/function.sprintf.php). Assim, para utilizar esta função, seguimos a seguinte sintaxe:
 
-{{< highlight php  >}}
+```php
 printf($formato[, $restantesArgumentos...])
-{{< /highlight >}}
+```
 
 O $formato  é a string que contém a frase a ser imprimida com as diversas diretivas que podem ser 0 ou mais. É indiferente.
 
@@ -82,14 +82,14 @@ Este CMS usa o sistema [Gettext](Gettext) para traduzir o conteúdo que nos é v
 
 O WordPress deve utilizar este sistema também pela simplicidade de leitura visto que os comandos de tradução do Gettext são um quanto "complicados" de ler.
 
-{{< highlight php  >}}
+```php
 //Exemplo de "printf" utilizado pelo WordPress
 printf( __( 'Ready to publish your first post? <a href="%1$s">Get started here</a>.', 'twentyfourteen' ), admin_url( 'post-new.php' ) );
 
 //Em Echo
 $url = admin_url( 'post-new.php' );
 echo __( "Ready to publish your first post? <a href="{$url}">Get started here</a>.", 'twentyfourteen' );
-{{< /highlight >}}
+```
 
 A forma que coloquei com echo poderia variar. Mas, como pode visualizar, o printf é mais simples de ler.
 

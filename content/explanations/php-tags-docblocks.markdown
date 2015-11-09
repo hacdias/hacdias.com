@@ -24,7 +24,7 @@ Os DocBlocks, ao contrário dos comentários tradicionais, começam sempre por `
 
 Estes blocos documentam o código a que precedem. Abaixo podem ver um simples exemplo:
 
-{{< highlight php  >}}
+```php
 /**
  * Função lorem faz x,y,z
  *
@@ -39,7 +39,7 @@ function lorem($sth = '') {
 
     return $sth;
 }
-{{< /highlight >}}
+```
 
 Normalmente, a estrutura destes blocos de documentação é:
 
@@ -48,7 +48,7 @@ Normalmente, a estrutura destes blocos de documentação é:
   * Tags
 Hoje vamos analisar o último ponto: as **tags**. Existem imensas e vamos apenas ver as principais e mais utilizadas.
 
-{{< highlight php  >}}
+```php
 /**
  * @author        Nome Do Autor <email@do.autor>    -> Autor do ficheiro
  * @copyright     Nome Data                         -> Info da Copyright
@@ -61,7 +61,7 @@ Hoje vamos analisar o último ponto: as **tags**. Existem imensas e vamos apen
  * @deprecated    Versão                            -> Definição de um método obsoleto a partir da versão xxxx
  * @version       Versão                            -> Utilizado para definir a versão de um ficheiro/método
  */
- {{< /highlight >}}
+ ```
 
 O código acima pode ser visivelmente dividido em três colunas. A primeira são as **tags**, a segunda a forma de **implementação** e a terceira, que começa com setas, são indicações a descrever para que servem as tags.
 

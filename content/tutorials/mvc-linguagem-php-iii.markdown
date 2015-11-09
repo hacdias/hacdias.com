@@ -22,29 +22,29 @@ Em primeiro lugar, quero referir algumas modificações que efetuei em alguns do
 
 Adicionei a constante ```SITE_TITLE``` ao ficheiro ```config.php```, ficando a primeira secção deste ficheiro da seguinte forma:
 
-{{< highlight php  >}}
+```php
 <?php //...
 //1. Base Constants
 define('ROOT', dirname(__FILE__) . '/');
 define('URL', 'http://localhost/mvc/');
 define('SITE_TITLE', 'Simple MVC Structure Model');
 //...
-{{< /highlight >}}
+```
 
 Na classe ```View``` foi adicionada uma função que permitirá ao utilizador definir o título (aquele que aparece na parte superior do _browser_).
 
-{{< highlight php  >}}
+```php
 public function setTitle($title)
 {
     $this->_pageInfo['title'] = $title . ' | ' . SITE_TITLE;
 }
-{{< /highlight >}}
+```
 
 ## ```public_html```
 
 Hoje vamos continuar a nossa jornada começando na pasta pública, ou seja, na pasta ```public_html```. Vamos começar com o nosso maravilhoso ```.htaccess```.
 
-{{< highlight apache >}}
+```apache
 ErrorDocument 404 /404
 ErrorDocument 500 /500
 
@@ -59,13 +59,13 @@ ErrorDocument 500 /500
     RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
 
 </IfModule>
-{{< /highlight >}}
+```
 
 Como pode ver, todos os pedidos serão direcionados para o ficheiro ```index.php``` com o URL completo na forma de parâmetro GET.
 
 Falando em ```index.php```, e que tal lhe darmos uma espreitadela? Este vai ser o ficheiro que vai iniciar toda a sequência de acontecimentos. Ora veja:
 
-{{< highlight php >}}
+```php
 <?php
 
 /**
@@ -84,7 +84,7 @@ spl_autoload_register('autoLoad');
 
 $bootstrap = new Bootstrap();
 $bootstrap->init();
-{{< /highlight >}}
+```
 
 Neste ficheiro, como pode ver, o ficheiro das configurações é chamado e, de seguida, é criado uma função de auto carregamento.
 
@@ -102,7 +102,7 @@ Estes dois ficheiros deverão estar localizados na diretoria ```app_core/views/
 
 A minha proposta para o ficheiro do cabeçalho é a seguinte:
 
-{{< highlight html >}}
+```html
 <!doctype html>
 <html lang='en-EN'>
 
@@ -125,7 +125,7 @@ A minha proposta para o ficheiro do cabeçalho é a seguinte:
 </div>
 
 <div id="wrap">
-{{< /highlight >}}
+```
 
 Onde já temos o título da página que será igual ao título que é definido utilizando a função que referi no início do artigo, ou apenas o nome do site.
 
@@ -133,7 +133,7 @@ Deixei também uma pequena introdução à estrutura HTML do site e uma pista à
 
 Estou também a utilizar o ```normalize.css``` e uma folha de estilos própria com alguns ajustes de forma a distinguir melhor cada uma das partes do site. Aqui está o ```template.css``` (deve ser colocado na pasta ```css```):
 
-{{< highlight css >}}
+```css
 #header,
 #wrap,
 #footer {
@@ -148,11 +148,11 @@ Estou também a utilizar o ```normalize.css``` e uma folha de estilos própria
   background: rgba(0,0,0,0.5);
   color: #fff;
 }
-{{< /highlight >}}
+```
 
 Vamos agora ver o rodapé. O rodapé está localizado no ficheiro ```app_core/views/footer.php``` e o conteúdo deve ser algo semelhante ao seguinte:
 
-{{< highlight html >}}
+```html
 </div>
 
 <footer id="footer">
@@ -161,13 +161,13 @@ Vamos agora ver o rodapé. O rodapé está localizado no ficheiro ```app_core/v
 
 </body>
 </html>
-{{< /highlight >}}
+```
 
 ## Controladores
 
 Depois de termos "montado" a estrutura, devemos passar à criação das páginas. Em primeiro lugar, vamos criar o controlador do erro.
 
-{{< highlight php >}}
+```php
 <?php
 
 namespace Controller;
@@ -202,7 +202,7 @@ class Error extends Controller
     }
 
 }
-{{< /highlight >}}
+```
 
 Os controladores devem pertencer à *namespace* Controller e devem ter, obrigatoriamente, o seu construtor presente no formato mostrado acima.
 
@@ -216,17 +216,17 @@ Falando em _view_, esta é renderizada logo de seguida. A _view _que colocá
 
 Vamos então visualizar a _view_ que corresponde à página de erro:
 
-{{< highlight php >}}
+```php
     <h1> <?php echo $this->_data['title'] ?></h1>
 
     <p><?php echo $this->_data['msg']; ?></p>
-{{< /highlight >}}
+```
 
 É simples. Serve apenas para mostrar que ocorreu um erro. Mas não podemos continuar assim pois ao abrirmos a página inicial estamos apenas a ver um erro.
 
 Vamos então criar o controlador da página inicial, que deve conter o seguinte código:
 
-{{< highlight php >}}
+```php
 <?php
 
 namespace Controller;
@@ -246,18 +246,18 @@ class Index extends Controller
     }
 
 }
-{{< /highlight >}}
+```
 
 
 E o ficheiro da sua _view _deverá ter qualquer coisa que deseje. Eu, por exemplo, coloquei:
 
-{{< highlight html >}}
+```html
 <h1>MVC PHP Bootstrap (MVCPHPB)</h1>
 
 <p>This is the main page of this website that is a simple mvc structure model example.</p>
 
 <p>Esta é a página principal deste site que é um exemplo de modelo de estrutura MVC simples.</p>
-{{< /highlight >}}
+```
 
 Coloque o que queira. De momento, se aceder à página inicial deverá visualizar a página inicial propriamente dita e se tentar, eventualmente, abrir qualquer outra possível página, irá ver a página de erro 404.
 

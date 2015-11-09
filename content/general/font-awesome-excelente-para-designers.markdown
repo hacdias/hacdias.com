@@ -28,9 +28,9 @@ Como assim? Através de um simples ficheiro CSS temos à nossa disposição uma 
 
 Existem diversas formas de utilizar a _Font Awesome_. A primeira e mais fácil forma é, simplesmente, chamar o ficheiro CSS da fonte no cabeçalho de um ficheiro HTML.
 
-{{< highlight html >}}
+```html
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-{{< /highlight >}}
+```
 
 Pode também descarregar os ficheiros da _Font Awesome_ [aqui](http://fortawesome.github.io/Font-Awesome/) e chamar o ficheiro CSS principal, o font-awesome.min.css font-awesome.min.css  através do HTML.
 
@@ -42,9 +42,9 @@ Existem outras formas mais complicadas que podem ser úteis em diversas situaç�
 
 A utilização da Font Awesomeé deveras simples. Para inserir ícones utilizamos a seguinte sintaxe:
 
-{{< highlight html >}}
+```html
 <i class="fa fa-nome fa-tamanho"></i>
-{{< /highlight >}}
+```
 
 No código HTML acima devemos substituir nome  pelo respetivo nome do ícone que pode encontrar [aqui](http://fortawesome.github.io/Font-Awesome/icons/) e, tamanho  por um dos seguintes:
 

@@ -22,18 +22,18 @@ Hoje vamos explicar como podemos utilizar o ficheiro ```.htaccess``` para faze
 
 Como devem ter previsto, o único ficheiro que é necessário modificar é o ```.htaccess```. Vamos começar por definir algumas ```php_flags``` de forma a não mostrar nenhum erro ao utilizador.
 
-{{< highlight apache >}}
+```apache
 # Não mostra erros de inicialização
 php_flag display_startup_errors off
 # Não mostra os restantes erros
 php_flag display_errors off
 # Não mostra erros de markup HTML
 php_flag html_errors off
-{{< /highlight >}}
+```
 
 O código acima, e o restante, está comentado para saber o que faz cada linha. Agora, depois de termos desativado os erros "ao público", vamos fazer com que estes sejam guardados num ficheiro.
 
-{{< highlight apache >}}
+```apache
 # Ativa o registo em log dos erros
 php_flag log_errors on
 # Desativa a ignoração a erros repetidos
@@ -54,24 +54,24 @@ php_value error_log /home/error.log
 php_value error_reporting -1
 # Desativa o tamanho máximo de erros
 php_value log_errors_max_len 0
-{{< /highlight >}}
+```
 
 Agora os erros já estão a ser guardados num ficheiro de log, mas continua a existir um problema. Se acedermos ao URL onde está guardado, vamos poder aceder ao ficheiro.
 
 Isto pode ser utilizado como arma por qualquer pessoa, nomeadamente por _hackers_. Vamos então proteger o ficheiro de forma a que o público não lhe tenha acesso.
 
-{{< highlight apache >}}
+```apache
 # Proteger o ficheiro
 <Files error.log>
  Order allow,deny
  Deny from all
  Satisfy All
 </Files>
-{{< /highlight >}}
+```
 
 Não se esqueçam de colocar o nome do ficheiro correto substituindo ```error.log``` pelo nome que querem. Alerto também para alterarem o caminho ```/home/error.log``` para o caminho em questão. Aqui está o código completo sem qualquer comentário, excelente para ser utilizado:
 
-{{< highlight apache >}}
+```apache
 php_flag display_startup_errors off
 php_flag display_errors off
 php_flag html_errors off
@@ -91,7 +91,7 @@ php_value log_errors_max_len 0
  Deny from all
  Satisfy All
 </Files>
-{{< /highlight >}}
+```
 
 Depois de fazerem as edições no caminho e nome do ficheiro, basta guardarem o vosso .htaccess  e verificam que os erros produzidos pelo PHP irão ser salvos no ficheiro em questão.
 

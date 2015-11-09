@@ -36,7 +36,7 @@ De momento tenho duas linhas inseridas nessa mesma tabela, ou seja, de momento t
 
 Como sempre, iremos começar com um simples controlador. De momento, o controlador deverá ser simples e ter apenas o seguinte:
 
-{{< highlight php >}}
+```php
 <?php
 
 namespace Controller;
@@ -58,7 +58,7 @@ class Posts extends Controller
     }
 
 }
-{{< /highlight >}}
+```
 
 De momento, apenas declaramos o construtor e também a função index  que será aquela que vai  ser acedida ao acedermos a ```URL/posts```.
 
@@ -66,7 +66,7 @@ De momento, apenas declaramos o construtor e também a função index  que ser
 
 Vamos então virar a nossa cara para os modelos. O modelo correspondente a este controlador deverá estar localizado em ```app_core/models/posts.php``` e deverá conter um código semelhante ao seguinte:
 
-{{< highlight php >}}
+```php
 <?php
 
 namespace Model;
@@ -84,7 +84,7 @@ class Posts extends Model
         return $this->db->select("SELECT * FROM posts");
     }
 }
-{{< /highlight >}}
+```
 
 Onde utilizamos o construtor para criar uma ligação à base de dados e criamos a função ```getPosts``` que irá buscar todos as as colunas da tabela *posts* da base de dados a que está ligada a nossa aplicação.
 
@@ -94,10 +94,10 @@ Como pode ver, este é um modelo bastante simples cuja única função é buscar
 
 Agora devemos voltar ao controlador e substituir o comentário que lá deixámos pelas seguintes duas linhas:
 
-{{< highlight php  >}}
+```php
 $data = $this->model->getPosts();
 $this->view->setData($data);
-{{< /highlight >}}
+```
 
 A função destas duas linhas é bastante simples: primeiro, declaramos uma variável que será igual ao retorno da função que criámos anteriormente para selecionar os artigos.
 
@@ -109,14 +109,14 @@ Agora só falta a parte que irá mostrar os itens na página: a _view_. Esta _
 
 Relembro que a localização do ficheiro é definida quando utilizamos a função render . Então, o conteúdo que coloquei nesta página é o seguinte:
 
-{{< highlight php >}}
+```php
 <h1>Posts</h1>
 
 <?php foreach ($this->_data as $post) : ?>
     <h2><?php echo $post['title']; ?></h2>
     <p><?php echo $post['content']; ?></p>
 <?php endforeach; ?>
-{{< /highlight >}}
+```
 
 Como pode ver, aqui percorremos todos os itens do array ```$_data``` que faz parte da vista e, de seguida, imprimimos o título e o conteúdo de cada _post_.
 

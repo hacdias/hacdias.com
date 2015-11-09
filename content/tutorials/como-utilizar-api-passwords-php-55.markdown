@@ -30,7 +30,7 @@ Cada uma tem uma função diferente porém estão todas relacionadas. Assim, vam
 
 Esta função pode ser considerada a principal do conjunto pois é com ela que criamos as *hash* e deve ser utilizada da seguinte forma:
 
-{{< highlight php  >}}
+```php
 $password = 'a_minha_password';
 
 /*
@@ -43,12 +43,12 @@ $password = 'a_minha_password';
  * Este comprimento pode alterar em novas versões do PHP.
  */
 password_hash($password, PASSWORD_DEFAULT);
-{{< /highlight >}}
+```
 
 
 Podemos ainda definir alguns parâmetros opcionais nomeadamente o ```cost``` ("custo") e o ```salt``` ("sal") da seguinte forma:
 
-{{< highlight php  >}}
+```php
 $password = 'a_minha_password';
 
 /*
@@ -69,7 +69,7 @@ $options = array(
   );
 
 password_hash($password, PASSWORD_BCRYPT, $options);
-{{< /highlight >}}
+```
 
 Acrescento ainda que a função retornará ```false``` em caso de erro.
 
@@ -78,7 +78,7 @@ Acrescento ainda que a função retornará ```false``` em caso de erro.
 
 Depois de criarmos a *hash* vamos precisar de, evidentemente, confirmá-la. Para confirmar se uma password corresponde a uma hash basta utilizarmos esta função da seguinte forma:
 
-{{< highlight php  >}}
+```php
 /*
  * Para utilizar esta função basta colocar a password
  * a verificar no primeiro parâmetro e a hash no segundo.
@@ -94,12 +94,12 @@ $password = 'teste';
 $hash = '$2y$10$M.3t0/gmB12IrSETmINf7uy9XhruDrmB8vjaktfd5vC8AfVPH695.';
 
 password_verify($password, $hash);
-{{< /highlight >}}
+```
 
 ## password_get_info
 Esta informação permite-nos obter a informação acerca de uma hash. A informação obtida corresponde ao algoritmo, o seu nome e as opções dadas quando criámos a hash. Exemplo:
 
-{{< highlight php  >}}
+```php
 //Criação de uma hash de exemplo
 
 $options = array(
@@ -126,13 +126,13 @@ $info = password_get_info($hash);
  *		{ ["cost"]=> int(13) }
  *	}
  */
-{{< /highlight >}}
+```
 
 ## password_needs_rehash
 
 Esta função permite-nos confirmar se uma hash já criada corresponde a uma array de opções e a um algoritmos. Podem observar mais no seguinte exemplo:
 
-{{< highlight php  >}}
+```php
 //Criação de uma hash de exemplo
 
 $options = array(
@@ -148,7 +148,7 @@ $hash = password_hash('a_minha_password', PASSWORD_BCRYPT, $options);
  */
 
 password_needs_rehash($hash, 0, $options);
-{{< /highlight >}}
+```
 
 Se tiver qualquer dúvida relacionada ao segundo parâmetro da função, sugiro-lhe a leitura [desta página](http://php.net/manual/pt_BR/password.constants.php) e também que verifique os valores obtidos com ```password_get_info```.
 

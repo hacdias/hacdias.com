@@ -17,7 +17,7 @@ Hoje vamos falar um pouco sobre PHP, mais precisamente no campo das strings, var
 
 Em primeiro lugar, vamos rever as formas de inserir variáveis dentro de _strings_ atualmente já existentes:
 
-{{< highlight php >}}
+```php
 <?php
 $foo = 'uma pessoa';
 
@@ -25,7 +25,7 @@ $bar = "Eu sou " . $foo . "!"; // => 1
 $bar = 'Eu sou ' . $foo . '!'; // => 2
 $bar = "Eu sou $foo!"; // => 3
 $bar = "Eu sou {$foo}!"; // => 4
-{{< /highlight >}}
+```
 
 Vamos analisar os quatro exemplos acima sendo que os primeiros dois é utilizada **concatenação** e nos últimos dois **interpolação**.
 
@@ -47,7 +47,7 @@ Depende! Geralmente, a interpolação é mais lenta porém, a concatenação pod
 
 Executei seguinte teste para confirmar as velocidades que cada um demora a correr (função [timeFunc](http://stackoverflow.com/questions/13620/speed-difference-in-using-inline-strings-vs-concatenation-in-php5) obtida aqui):
 
-{{< highlight php >}}
+```php
 <?php
 
 function timeFunc($function, $runs)
@@ -95,6 +95,6 @@ echo timeFunc('Method1', 10) . "n"; // => 0.0020885
 echo timeFunc('Method2', 10) . "n"; // => 0.0021168
 echo timeFunc('Method3', 10) . "n"; // => 0.0021132
 echo timeFunc('Method4', 10) . "n"; // => 0.0023884
-{{< /highlight >}}
+```
 
 Recebi os valores mencionados nos comentários. Como podem ver, não existem grandes diferenças no tempo de execução destes pequenos exemplos. Espero que o post tenha sido útil.

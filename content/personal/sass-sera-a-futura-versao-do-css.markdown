@@ -25,7 +25,7 @@ O SASS está na versão 3.4.3 e toda a versão três é mais conhecida por SCSS 
 
 Aqui está um pequeno exemplo que compara CSS com SCSS.
 
-{{< highlight sass >}}
+```css
 /* CSS */
 
 nav {
@@ -75,7 +75,7 @@ nav {
   }
 
 }
-{{< /highlight >}}
+```
 
 Sim, viram bem. Com SCSS podemos utilizar variáveis e também aninhar itens. Mas não acaba por aqui. Existem várias outras funcionalidades:
 
