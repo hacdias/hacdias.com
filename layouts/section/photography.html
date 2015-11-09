@@ -1,0 +1,21 @@
+{{ partial "header" . }}
+
+<article class="container">
+  {{ partial "article/header" . }}
+
+  <main role="main">
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "photography") }}
+    {{ range $paginator.Pages }}
+    <div class="block" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')">
+      <div>
+        {{ .Title }}
+      </div>
+    </div>
+    {{ end }}
+    {{ template "_internal/pagination.html" . }}
+  </main>
+</article>
+
+</div>
+
+{{ partial "footer" . }}

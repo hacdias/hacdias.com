@@ -20,6 +20,7 @@ pluralizelisttitles = false
   general = "/:section/:filename/"
   personal = "/:section/:filename/"
   tutorials = "/:section/:filename/"
+  photography = "/:section/:filename/"
 
 [params]
   Description = "I'm Henrique Dias, portuguese and I live in Portugal. I am attending secondary school in a course called “Science and Technology” that I hope finish in 2017."

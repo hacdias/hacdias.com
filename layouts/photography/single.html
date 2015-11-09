@@ -1,0 +1,29 @@
+{{ partial "header" . }}
+<div class="single">
+{{ if isset .Params "image" }}{{ partial "article/banner" . }}{{ end }}
+
+<article class="container">
+  <header class="sans">
+    <h1>{{ .Title }}</h1>
+    <h2>Coordinates: {{ .Params.coordinates }}</h2>
+  </header>
+
+  {{ .Content }}
+
+  {{ partial "article/footer" . }}
+</article>
+</div>
+
+<script>
+function init() {
+  var imgDefer = document.getElementsByTagName('img');
+  for (var i=0; i<imgDefer.length; i++) {
+    if(imgDefer[i].getAttribute('data-src')) {
+      imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+    }
+  }
+}
+window.onload = init;
+</script>
+
+{{ partial "footer" . }}

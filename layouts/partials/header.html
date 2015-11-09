@@ -15,8 +15,8 @@
 {{ partial "head/icons" .}}
 {{ partial "head/includes" .}}
 {{ partial "schema/person" . }}
-{{ if (not .IsHome) and (eq .Type "post") }}{{ partial "schema/article" . }}{{ end }}
+{{ if not .IsNode }}{{ if eq .Type "post" }}{{ partial "schema/article" . }}{{ end }}{{ end }}
 </head>
 
-<body>
+<body {{ if not .IsNode }}{{ if (eq .Type "photography") }}class="photography"{{ end }}{{ end }}>
   {{ partial "navbar" . }}

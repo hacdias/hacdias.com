@@ -115,14 +115,16 @@ code {
   height: 3em;
   width: 100%;
   background-color: #fff;
-  color: #000;
   box-shadow: 0 1px 5px rgba(0,0,0,0.15);
+  color: #000;
   position: fixed;
   top: 0;
   left: 0;
   padding: 0 5%;
   box-sizing: border-box;
   z-index: 9999;
+  display: flex;
+  justify-content: space-between;
 }
 
 .site-header a {
@@ -134,19 +136,16 @@ code {
   display: inline-block;
 }
 
-.site-header div.left {
+.site-header .site-title {
   text-transform: lowercase;
   font-size: 1.5em;
   line-height: 2em;
   height: 2em;
-  float: left;
 }
 
-.site-header div.right {
-  text-align: right;
+.site-header .site-nav {
   line-height: 3em;
   height: 3em;
-  float: right;
 }
 
 .site-header nav {
@@ -293,6 +292,37 @@ code {
   font-size: 2em;
   margin: 0.75em 0;
   line-height: 1;
+}
+
+/* BLOCKS */
+.blocks {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.block {
+  position: relative;
+  width: 13em;
+  padding-bottom: 11em;
+  background-size: cover;
+  display: inline-flex;
+  margin-top: 1%;
+}
+
+.block div {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+    color: #fff;
+    text-align: center;
+    padding-top: 37%;
+    box-sizing: border-box;
 }
 
 /* ARTICLES */
@@ -549,6 +579,134 @@ form input[type="submit"]:hover {
 	height: 100%;
 }
 
+/* PHOTOGRAPHY */
+.photography,
+.photography .container,
+.photography .site-header  {
+  background-color: #020202;
+  color: #fff;
+}
+
+.photography article header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 5%;
+  border-bottom: 1px solid #212121;
+  color: #eee;
+  align-items: center;
+}
+
+.photography article header h1 {
+  margin-top: 0;
+}
+
+.photography article header h2 {
+  margin: 0;
+  text-align: right;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+.photography p {
+  max-width: 600px;
+  margin: 1.5em auto;
+}
+
+.photography img {
+  max-width: 90%;
+  padding: 1em 0;
+  border-top: 1px solid #212121;
+  display: block;
+  margin: 0 auto;
+}
+
+.photography img:first-of-type {
+  border-top: 0;
+}
+
+.photography p + img {
+  border-top: 0;
+}
+
+.photography article footer {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.photography article footer .discussion {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* PORTFOLIO */
+.portfolio {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-bottom: -1.5em;
+}
+
+.portfolio .item {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-grow: 1;
+  flex-basis: 25%;
+  padding-bottom: 20%;
+  background-size: cover;
+  position: relative;
+}
+
+.item .image {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: .2;
+  background-size: cover;
+  background-position: center center;
+  transition: .2s ease all;
+}
+
+.item a:hover .image {
+  opacity: 1;
+}
+
+.item a:hover .info {
+  opacity: 0;
+}
+
+.item .info {
+  color: #fff;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  transition: .5s ease all;
+}
+
+.item .info h2,
+.item .info p {
+  max-width: 75%;
+}
+
+.item .info h2 {
+  text-align: center;
+  font-size: 1.4em;
+  margin: 0 auto 0.83em;
+}
+
+.item .info p {
+  margin: 0 auto;
+  text-align: left;
+  font-size: .8em;
+  font-weight: 500;
+}
+
 @media (min-width: 900px) {
   .single .banner {
     position: absolute;
@@ -570,11 +728,53 @@ form input[type="submit"]:hover {
     box-sizing: border-box;
     margin-top: 7em;
   }
+
+  .photography .banner {
+    position: relative;
+    padding-bottom: 34%;
+  }
+
+  .photography .banner + article {
+    margin-top: 0;
+  }
+
+  .photography .container {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color: #020202 !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .portfolio .item {
+    flex-basis: 33%;
+    padding-bottom: 25%;
+  }
+}
+
+@media (max-width: 900px) {
+  .portfolio .item {
+    flex-basis: 50%;
+    padding-bottom: 35%;
+  }
 }
 
 @media (max-width: 680px) {
   .site-footer .division {
     width: 50%;
+  }
+
+  .portfolio .item {
+    padding-bottom: 50%;
+  }
+}
+
+@media (max-width: 550px) {
+  .portfolio .item {
+    flex-basis: 100%;
+    padding-bottom: 55%;
   }
 }
 
