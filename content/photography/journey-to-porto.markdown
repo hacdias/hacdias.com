@@ -124,5 +124,3 @@ image: "/images/photography/journey-to-porto/00.jpg"
 {{< photo url="/images/photography/journey-to-porto/49.jpg" alt="São Domingos Cavern" >}}
 
 {{< photo url="/images/photography/journey-to-porto/50.jpg" alt="São Domingos Cavern" >}}
-
-{{< photo url="/images/photography/journey-to-porto/51.jpg" alt="São Domingos Cavern" >}}
