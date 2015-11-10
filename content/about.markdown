@@ -1,9 +1,9 @@
----
-type: page
-title: About
-description: "What do you want to know about me?"
-image: "images/about.jpg"
----
+{
+  "description": "What do you want to know about me?",
+  "image": "images/about.jpg",
+  "title": "About",
+  "type": "page"
+}
 
 <img src="/henrique.png" class="right">
 
