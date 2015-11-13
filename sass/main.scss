@@ -684,12 +684,14 @@ form input[type="submit"]:hover {
   padding-bottom: 20%;
   background-size: cover;
   position: relative;
+  background-color: rgb(148, 155, 146);
 }
 
 .item .image {
   height: 100%;
   width: 100%;
   position: absolute;
+  background-image: url('/images/default.jpg');
   top: 0;
   left: 0;
   opacity: .2;
@@ -699,11 +701,11 @@ form input[type="submit"]:hover {
 }
 
 .item a:hover .image {
-  opacity: 1;
-}
-
-.item a:hover .info {
-  opacity: 0.7;
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
 }
 
 .item .info {
@@ -712,7 +714,6 @@ form input[type="submit"]:hover {
   position: absolute;
   top: 50%;
   transform: translate(0, -50%);
-  transition: .5s ease all;
 }
 
 .item .info h2,

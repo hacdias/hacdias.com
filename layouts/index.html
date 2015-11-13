@@ -1,9 +1,26 @@
 {{ partial "header" . }}
-<main role="main">
+<main role="main" class="portfolio sans">
+	{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+	{{ range $paginator.Pages }}
+  <div class="item" style="background-color: {{ if .Params.color }}{{ safeCSS .Params.color }}{{ end }};">
+    <a href="{{ .Permalink }}">
+      <div class="image" {{ if .Params.image }}style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')"{{ end }}></div>
+      <div class="info">
+        <h2>{{ .Title }}</h2>
+        <p>{{.Description}}</p>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+
+	{{ template "_internal/pagination.html" . }}
+</main>
+
+<!-- <main role="main">
 	{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 	{{ range $paginator.Pages }}
 	{{ partial "article/summary-index" . }}
 	{{ end }}
 	{{ template "_internal/pagination.html" . }}
-</main>
+</main> -->
 {{ partial "footer" . }}

@@ -5,6 +5,7 @@ title:        "Operador Ternário ( ? ) em PHP"
 slug:         "operador-ternario"
 date:         2014-07-22 09:08:08+00:00
 image:        "images/operador-ternario.jpg"
+color:        "rgb(51, 52, 55)"
 description:  "O operador ? é, por vezes, intrigante. Chama-se operador ternário e explicamos para que serve este operador condicional em PHP."
 categories:
 - Explanations

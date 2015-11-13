@@ -5,6 +5,7 @@ title:          "GitHub Profile Widget for WordPress"
 date:           2015-08-06T09:45:00Z
 description:    "Now it is time for a new plugin. This time is for GitHub. Every developer should show their GitHub profile on their blog."
 image:          "images/github-widget.jpg"
+color: "rgb(25, 25, 27)"
 categories:
 - General
 tags:

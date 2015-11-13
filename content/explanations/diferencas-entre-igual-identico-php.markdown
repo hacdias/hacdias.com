@@ -6,6 +6,7 @@ slug:         "diferencas-entre-igual-identico-php"
 date:         2014-07-23 18:31:23+00:00
 image:        "images/diferencas-entre-igual-identico.jpg"
 description:  "Os operadores '==' e '===' por vezes podem confundir-nos um pouco em relação ao seu uso e para que servem. Fica aqui a explicação de cada um."
+color: "rgb(174, 116, 84)"
 categories:
 - Explanations
 tags:

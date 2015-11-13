@@ -5,6 +5,7 @@ title:          "Pi Day 2015"
 date: 2015-03-15 10:36:51+00:00
 description:    "Today, 14th march, is the Pi Day 2015. See this small video which talks a little bit about Pi."
 image:     "images/diadopi.png"
+color: "#ddd"
 categories:
 - General
 post_format:

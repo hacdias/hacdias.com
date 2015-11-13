@@ -5,6 +5,7 @@ title:          "The Society and the Objects"
 date:	2014-11-07 20:28:27+00:00
 description:    "Presently, the people love the objects. Sometimes, more than they love the people. Is this good? Or not?"
 image:     "images/things.jpg"
+color: "#ddd"
 categories:
 - Personal
 tags:

@@ -4,6 +4,7 @@ author:         "Henrique Dias"
 title:          "Modelo MVC - Uma breve explicação"
 date: 2014-11-22 16:02:56+00:00
 description:    "O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado nas aplicações web. Apresentamos uma breve explicação sobre este modelo."
+color: "rgb(95, 115, 207)"
 image:     "images/datacenter.jpg"
 categories:
 - Explanations

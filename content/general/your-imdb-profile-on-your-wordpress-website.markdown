@@ -5,6 +5,7 @@ title:          "Your IMDb Profile, on your WordPress website"
 date:           2015-06-23T22:00:00Z
 description:    "We created a new plugin. This time for IMDb. This WordPress plugin allows you to have a mini version of your IMDb profile on your website."
 image:          "images/imdb-widget.jpg"
+color: "rgb(155, 130, 98)"
 categories:
 - General
 tags:

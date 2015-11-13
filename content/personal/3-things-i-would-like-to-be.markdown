@@ -4,6 +4,7 @@ author:         "Henrique Dias"
 title:          "3 things I would like to be"
 date:	2015-04-06 20:05:27+00:00
 image:     "images/future.jpg"
+color: "rgb(170, 155, 22)"
 description:    "I don't want to be just one thing. Where's the fun of being just one thing? There are 3 things I would like to be and there is nothing in the way."
 categories:
 - Personal

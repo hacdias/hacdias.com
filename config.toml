@@ -3,7 +3,7 @@ languageCode = "en_GB"
 title = "Henrique Dias"
 removePathAccents = true
 disqusShortname = "hacdias"
-paginate = 7
+paginate = 24
 paginatePath = "page"
 pluralizelisttitles = false
 
