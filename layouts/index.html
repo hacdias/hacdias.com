@@ -1,4 +1,5 @@
 {{ partial "header" . }}
+
 <main role="main" class="portfolio sans">
 	{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 	{{ range $paginator.Pages }}

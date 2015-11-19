@@ -1,13 +1,37 @@
-<header id="navbar" class="site-header sans">
-  <div class="site-title">
-    <a href="{{ .Site.BaseURL }}">Henrique<strong>Dias</strong></a>
-  </div><div class="site-nav">
-    <nav>
-       <ul>
-           <a href="{{ .Site.BaseURL }}about"><li>About</li></a>
-           <a href="{{ .Site.BaseURL }}photography"><li>photography</li></a>
-           <a href="{{ .Site.BaseURL }}portfolio"><li>Portfolio</li></a>
-       </ul>
-    </nav>
+<input type="checkbox" hidden id="expand">
+<nav class="site-navigation">
+  <div class="content">
+    <div class="division">
+      <h3>Social</h3>
+      <nav>
+         <ul class="social">
+           <a href="https://twitter.com/{{ .Site.Social.Twitter }}"><li class="twitter">Twitter</li></a>
+           <a href="https://facebook.com/{{ .Site.Social.Facebook }}"><li class="fb">Facebook</li></a>
+           <a href="https://github.com/{{ .Site.Social.GitHub }}"><li class="gh">GitHub</li></a>
+           <a href="https://www.linkedin.com/in/{{ .Site.Social.Linkedin }}"><li class="linkin">LinkedIn</li></a>
+           <a href="https://plus.google.com/+{{ .Site.Social.GooglePlus }}"><li class="gplus">Google Plus</li></a>
+           <a href="https://instagram.com/{{ .Site.Social.Instagram }}"><li class="insta">Instagram</li></a>
+           <a href="https://youtube.com/channel/{{ .Site.Social.YouTube }}"><li class="yt">YouTube</li></a>
+         </ul>
+      </nav>
+    </div><div class="division">
+      <h3>More things</h3>
+      <nav>
+         <ul>
+             <a href="{{ .Site.BaseURL }}"><li>Home</li></a>
+             <a href="{{ .Site.BaseURL }}about/"><li>About</li></a>
+             <a href="{{ .Site.BaseURL }}contact/"><li>Contact</li></a>
+             <a href="{{ .Site.BaseURL }}photography/"><li>Photography</li></a>
+             <a href="{{ .Site.BaseURL }}portfolio/"><li>Portfolio</li></a>
+         </ul>
+      </nav>
+    </div><div class="division">
+      &copy; Henrique Dias 2015<br>
+      <small>Email <a href="mailto:me@henriquedias.com">me@henriquedias.com</a><br>
+      Everything on this website is copyrighted, except: source code (<a href="http://opensource.org/licenses/MIT">MIT license</a>), third-party photos, images and videos. Everything else which has a different license has it explicitly declared.</small>
+    </div>
   </div>
-</header>
+  <div class="title">
+    <em><a href="{{ .Site.BaseURL }}">Henrique Dias</a></em> | <label for="expand">▼</label>
+  </div>
+</nav>

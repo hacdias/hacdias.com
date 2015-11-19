@@ -1,0 +1,29 @@
+{{ partial "header" . }}
+
+<main role="main" class="container words">
+  <div class="words-title">
+    <small class="words-by">Words By</small>Henrique Afonso</a>
+  </div>
+
+  <article>
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  {{ .Content }}
+
+  <span class="meta">
+    {{ if .PublishDate.IsZero }}Posted on{{ else }}Updated on{{ end }} <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}
+    <span class="tags">
+      {{ range .Params.tags }}
+      #<a href="/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+      {{ end }}
+    </span>
+  </span>
+
+  {{ partial "article/footer" . }}
+</article>
+
+</main>
+
+{{ partial "footer" . }}
