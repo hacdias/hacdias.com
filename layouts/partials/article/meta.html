@@ -1,5 +1,5 @@
 <span class="meta sans">
-  <span class="category">{{ range .Params.categories }}<a href="/{{ . | urlize }}">{{ . }}</a>{{ end }}</span> |
+  {{ if eq .Type "post" }}<span class="category">{{ range .Params.categories }}<a href="/{{ . | urlize }}">{{ . }}</a>{{ end }}</span> |{{ end }}
   {{ if .PublishDate.IsZero }}Posted on{{ else }}Updated on{{ end }} <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}
   <span class="tags">
     {{ range .Params.tags }}

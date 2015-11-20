@@ -1,17 +1,11 @@
 {{ partial "header" . }}
 
-<article class="container">
-  {{ partial "article/header" . }}
+<main role="main" class="mosaic">
+	{{ range .Paginator.Pages }}
+  {{ partial "mosaic/common" . }}
+  {{ end }}
 
-  <main role="main">
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-    {{ range $paginator.Pages }}
-    {{ partial "article/summary" . }}
-    {{ end }}
-    {{ template "_internal/pagination.html" . }}
-  </main>
-</article>
-
-</div>
+	{{ template "_internal/pagination.html" . }}
+</main>
 
 {{ partial "footer" . }}

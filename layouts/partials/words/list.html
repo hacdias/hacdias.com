@@ -1,0 +1,13 @@
+{{ $paginator := .Paginate (where .Data.Pages "Type" "words") }}
+{{ range $paginator.Pages }}
+<div class="word">
+  <a href="{{ .Permalink }}">
+     <div class="info">
+      <h2>{{ .Title }}</h2>
+      <p>{{.Content}}</p>
+    </div>
+    <span class="share-your-opinion">Share your thoughts →</span>
+  </a>
+</div>
+{{ end }}
+{{ template "_internal/pagination.html" . }}

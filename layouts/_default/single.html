@@ -1,22 +1,23 @@
 {{ partial "header" . }}
+
 <div class="single">
-{{ if isset .Params "image" }}{{ partial "article/banner" . }}{{ end }}
+  {{ if isset .Params "image" }}
+  <div id="article-banner" class="single banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')"></div>
+  {{ end }}
 
-<article class="container">
+  <article class="container">
   {{ partial "article/header" . }}
-
   {{ .Content }}
-
   {{ if eq .Type "post" }}
   {{ partial "article/footer" . }}
   {{ end }}
-</article>
+  </article>
 </div>
 
 <script>
 window.onscroll = function() {
-    var obj = document.getElementById("article-banner");
-    obj.style.top = ((window.pageYOffset | document.body.scrollTop) / 3) + "px";
+  var obj = document.getElementById("article-banner");
+  obj.style.top = ((window.pageYOffset | document.body.scrollTop) / 3) + "px";
 };
 </script>
 

@@ -1,15 +1,9 @@
 {{ partial "header" . }}
-<main role="main" class="portfolio sans">
-  {{ range $.Site.Data.projects.projects }}
-  <div class="item" style="background-color: {{.color}};">
-    <a href="{{ .url }}">
-      <div class="image" style="background-image: url('{{ .Site.BaseURL }}{{ .image }}')"></div>
-      <div class="info">
-        <h2>{{ .title }}</h2>
-        <p>{{.description}}</p>
-      </div>
-    </a>
-  </div>
+
+<main role="main" class="mosaic">
+	{{ range $.Site.Data.projects.projects }}
+  {{ partial "mosaic/common" . }}
   {{ end }}
 </main>
+
 {{ partial "footer" . }}
