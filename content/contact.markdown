@@ -3,6 +3,7 @@ type: page
 title: Contact
 description: "Tell me something."
 image: "images/contact.jpg"
+color: "rgb(51, 43, 69)"
 ---
 
 <blockquote>“Somewhere, something incredible is waiting to be known.”  ― Carl Sagan</blockquote>

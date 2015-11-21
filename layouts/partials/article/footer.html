@@ -1,16 +1,26 @@
 <footer>
-  <div class="sharing">
-    <a target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Social.Twitter }}"><div class="twitter">Twitter</div></a>
-    <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"><div class="facebook">Facebook</div></a>
-    <a target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}"><div class="gplus">Google+</div></a>
-    <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias"><div class="linkedin">LinkedIn</div></a>
+  <div class="buttons">
+    {{ if not (eq .Type "photography") }}{{ if .Next }}
+    <a href="{{ .Next.Permalink  }}" class="prev">
+      <div>Previous</div>
+    </a>{{ end }}{{ end }}
+    <a class="twitter social" target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Social.Twitter }}">
+      <div><i class="fa fa-twitter"></i></div>
+    </a>
+    <a class="facebook social" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
+      <div><i class="fa fa-facebook"></i></div>
+    </a>
+    <a class="gplus social" target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}">
+      <div><i class="fa fa-google-plus"></i></div>
+    </a>
+    <a class="linkedin social" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias">
+      <div><i class="fa fa-linkedin"></i></div>
+    </a>
+    {{ if not (eq .Type "photography") }}{{ if .Prev }}
+    <a href="{{ .Prev.Permalink  }}" class="next">
+      <div>Next</div>
+    </a>{{ end }}{{ end }}
   </div>
-  {{ if not (eq .Type "photography") }}
-  <div class="post-navigation">
-    {{ if .Next }}<a href="{{ .Next.Permalink  }}"><div class="prev">Previous</div></a>{{ end }}
-    {{ if .Prev }}<a href="{{ .Prev.Permalink  }}"><div class="next">Next</div></a>{{ end }}
-  </div>
-  {{ end }}
   <div style="clear:both"></div>
   {{ partial "disqus" . }}
 </footer>

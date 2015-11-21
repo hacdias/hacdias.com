@@ -1,67 +1,39 @@
-<input type="checkbox" hidden id="expand">
-<nav class="site-navigation">
-  <div class="content">
-    <div class="division">
-      <h3>Social</h3>
-      <nav>
-         <ul class="social">
-           <a href="https://twitter.com/{{ .Site.Social.Twitter }}"><li class="twitter">Twitter</li></a>
-           <a href="https://facebook.com/{{ .Site.Social.Facebook }}"><li class="fb">Facebook</li></a>
-           <a href="https://github.com/{{ .Site.Social.GitHub }}"><li class="gh">GitHub</li></a>
-           <a href="https://www.linkedin.com/in/{{ .Site.Social.Linkedin }}"><li class="linkin">LinkedIn</li></a>
-           <a href="https://plus.google.com/+{{ .Site.Social.GooglePlus }}"><li class="gplus">Google Plus</li></a>
-           <a href="https://instagram.com/{{ .Site.Social.Instagram }}"><li class="insta">Instagram</li></a>
-           <a href="https://youtube.com/channel/{{ .Site.Social.YouTube }}"><li class="yt">YouTube</li></a>
-         </ul>
-      </nav>
-    </div><div class="division">
-      <h3>More</h3>
-      <nav>
-         <ul>
-             <a href="{{ .Site.BaseURL }}"><li>Home</li></a>
-             <a href="{{ .Site.BaseURL }}about/"><li>About</li></a>
-             <a href="{{ .Site.BaseURL }}contact/"><li>Contact</li></a>
-             <a href="{{ .Site.BaseURL }}photography/"><li>Photography</li></a>
-             <a href="{{ .Site.BaseURL }}portfolio/"><li>Portfolio</li></a>
-             <a href="{{ .Site.BaseURL }}words/"><li>Words</li></a>
-         </ul>
-      </nav>
-    </div><div class="division">
-      &copy; Henrique Dias 2015<br>
-      <small>Email <a href="mailto:me@henriquedias.com">me@henriquedias.com</a><br>
-      Everything on this website is copyrighted, except: source code (<a href="http://opensource.org/licenses/MIT">MIT license</a>), third-party photos, images and videos. Everything else which has a different license has it explicitly declared.</small>
-    </div>
+{{ if isset .Params "color" }}
+<header class="site-header" style="background-color: {{ safeCSS .Params.color }};">
+{{ else if eq .Title "Words" }}
+<header class="site-header" style="background-color: #f5f5f5; color: #484848">
+{{ else }} {{ if not .IsNode }} {{ if (eq .Type "words") }}
+<header class="site-header" style="background-color: #f5f5f5; color: #484848">
+{{ else }} <header class="site-header"> {{ end }} {{ else }}
+<header class="site-header">
+{{ end }} {{ end }}
+  <div class="site-title">
+    <a href="{{ .Site.BaseURL }}">
+      {{ if eq .Title "Words" }}<small>Words By</small>{{ end }}
+      <h2>Henrique Dias</h2>
+    </a>
   </div>
-  <div class="title">
-    <div><div id="nav-toggle"><span></span></div> <em>Henrique Dias</em></div>
-  <!--   <nav class="items hide-on-small">
-      <ul>
-        <a href="{{ .Site.BaseURL }}photography/"><li>Photography</li></a>
-        <a href="{{ .Site.BaseURL }}portfolio/"><li>Portfolio</li></a>
-        <a href="{{ .Site.BaseURL }}words/"><li>Words</li></a>
-      </ul>
-    </nav> -->
-  </div>
-</nav>
-
-<script>
-var alreadyClicked = false;
-
-document.querySelector( ".site-navigation .title" ).addEventListener( "click", function() {
-  document.querySelector(".site-navigation").classList.remove("animate");
-  document.querySelector("#nav-toggle").classList.toggle( "active" );
-  document.querySelector("#expand").click();
-  alreadyClicked = true;
-});
-
-setTimeout(function () {
-  if (!document.cookie.replace(/(?:(?:^|.*;\s*)bouncingbar\s*\=\s*([^;]*).*$)|^.*$/, "$1")) {
-    var date = new Date();
-    date.setDate(date.getDate() + 365);
-    document.cookie = 'bouncingbar=true; expires=' + date.toUTCString + '; path=/';
-    if (!alreadyClicked) {
-      document.querySelector( ".site-navigation" ).classList.toggle("animate")
-    }
-  }
-}, 5000);
-</script>
+  <nav class="site-nav">
+    <a class="site-small-title" href="{{ .Site.BaseURL }}">Henrique Dias</a>
+    <ul>
+      <a href="{{ .Site.BaseURL }}">
+        <li>Home</li>
+      </a>
+      <a href="{{ .Site.BaseURL }}about/">
+        <li>About</li>
+      </a>
+      <a href="{{ .Site.BaseURL }}contact/">
+        <li>Contact</li>
+      </a>
+      <a href="{{ .Site.BaseURL }}photography/">
+        <li>Photography</li>
+      </a>
+      <a href="{{ .Site.BaseURL }}portfolio/">
+        <li>Portfolio</li>
+      </a>
+      <a href="{{ .Site.BaseURL }}words/">
+        <li>Words</li>
+      </a>
+    </ul>
+  </nav>
+</header>

@@ -4,6 +4,7 @@
   ],
   "description": "I went in a school trip for three days to Porto, Portugal, which is an amaxing city in the northern Portuguese. We visited a lot of places in the way. The photos tell everything.",
   "image": "/images/photography/journey-to-porto/00.jpg",
+  "color": "rgb(141, 122, 100)",
   "lat": "41.1560371",
   "lon": "-8.6328281",
   "title": "Journey to Porto",

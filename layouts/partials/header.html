@@ -18,5 +18,7 @@
 {{ if not .IsNode }}{{ if eq .Type "post" }}{{ partial "schema/article" . }}{{ end }}{{ end }}
 </head>
 
-<body {{ if not .IsNode }}{{ if (eq .Type "photography") }}class="photography"{{ end }}{{ end }}>
+<body {{ if not .IsNode }}{{ if (eq .Type "photography") }}class="photography"{{ end }}{{ end }}
+      {{ if not .IsNode }}{{ if (eq .Type "words") }}class="words"{{ end }}{{ end }}
+      {{ if eq .Title "Words" }}class="words"{{ end }}>
   {{ partial "navbar" . }}

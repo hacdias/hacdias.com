@@ -2,6 +2,7 @@
   "description": "What do you want to know about me?",
   "image": "images/about.jpg",
   "title": "About",
+  "color": "rgb(44, 41, 38)",
   "type": "page"
 }
 
