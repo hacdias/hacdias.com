@@ -3,7 +3,7 @@
     "Title": "caddy-hugo",
     "Permalink": "https://github.com/hacdias/caddy-hugo",
     "Params": {
-      "image": "/images/portfolio/caddy-hugo.jpg",
+      "image": "portfolio/caddy-hugo",
       "color": "#BF360C"
     },
     "Description": "Powerful and easy static site generator with admin interface. It is a plugin for Caddy webserver."
@@ -11,7 +11,7 @@
     "Title": "Pplware",
     "Permalink": "http://pplware.com",
     "Params": {
-      "image": "/images/portfolio/pplware.jpg",
+      "image": "portfolio/pplware",
       "color": "#072559"
     },
 
@@ -20,7 +20,7 @@
     "Title": "GitHub Profile Widget",
     "Permalink": "//henriquedias.com/general/github-widget-wordpress/",
     "Params": {
-      "image": "/images/portfolio/github-widget.jpg",
+      "image": "portfolio/github-widget",
       "color": "#000"
     },
 
@@ -29,7 +29,7 @@
     "Title": "IMDB Profile Widget",
     "Permalink": "//henriquedias.com/general/your-imdb-profile-on-your-wordpress-website/",
     "Params": {
-      "image": "/images/portfolio/imdb-widget.jpg",
+      "image": "portfolio/imdb-widget",
       "color": "#FFC107"
     },
 
@@ -38,7 +38,7 @@
     "Title": "Smart Scraper",
     "Permalink": "https://github.com/refactors/smart-scraper",
     "Params": {
-      "image": "/images/portfolio/smart-scraper.jpg",
+      "image": "portfolio/smart-scraper",
       "color": "#4F5D95"
     },
 
@@ -47,7 +47,7 @@
     "Title": "WPSync",
     "Permalink": "https://github.com/hacdias/wpsync",
     "Params": {
-      "image": "/images/portfolio/wpsync.jpg",
+      "image": "portfolio/wpsync",
       "color": "#375eab"
     },
 
@@ -56,7 +56,7 @@
     "Title": "HackerRank Profile Widget",
     "Permalink": "https://henriquedias.com/general/hackerrank-widget-for-wordpress/",
     "Params": {
-      "image": "/images/portfolio/hackerrank-widget.jpg",
+      "image": "portfolio/hackerrank-widget",
       "color": "#2ec866"
     },
 
@@ -65,7 +65,7 @@
     "Title": "Aprenda a Programar",
     "Permalink": "//henriquedias.com/general/aprenda-a-programar-o-e-book-gratuito-e-essencial/",
     "Params": {
-      "image": "/images/portfolio/aprenda-a-programar.jpg",
+      "image": "portfolio/aprenda-a-programar",
       "color": "#2B91E5"
     },
 
@@ -74,7 +74,7 @@
     "Title": "sitify",
     "Permalink": "https://www.npmjs.com/package/sitify",
     "Params": {
-      "image": "/images/portfolio/sitify.jpg",
+      "image": "portfolio/sitify",
       "color": "#f1e05a"
     },
 
@@ -83,7 +83,7 @@
     "Title": "InMVC",
     "Permalink": "https://github.com/hacdias/inmvc",
     "Params": {
-      "image": "/images/portfolio/inmvc.jpg",
+      "image": "portfolio/inmvc",
       "color": "#2196F3"
     },
 
@@ -94,7 +94,7 @@
 
     "Params": {
       "color": "#92AFC8",
-      "image": "/images/portfolio/coxpe.jpg"
+      "image": "portfolio/coxpe"
     },
 
     "Description": "It was a blog where I posted a lot of tutorials about programming. In the end it merged with my personal website you're seeing now."
