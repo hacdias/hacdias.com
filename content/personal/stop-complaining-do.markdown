@@ -2,7 +2,7 @@
 type:           post
 title:          "Stop complaining. Do!"
 date:           2015-07-27 08:00:00+00:00
-image:          "images/change-the-world.jpg"
+image:          "change-the-world"
 color: "rgb(68, 140, 172)"
 description:    "Everyday I hear people complaining about almost everything. Complaining leads to nowhere. You have to DO!"
 categories:

@@ -4,6 +4,8 @@ author:         "Henrique Dias"
 title:          "PHP 5.6 - Funções Variádicas (Nova Sintaxe)"
 date:            2014-08-31 09:37:05+00:00
 description:    "O PHP 5.6.0 trouxe aos desenvolvedores novas funcionalidades e formas de trabalhar. Uma das melhores novidades é a nova sintaxe das funções variádicas."
+image: "php"
+color: "rgb(31, 31, 41)"
 categories:
 - Explanations
 tags:

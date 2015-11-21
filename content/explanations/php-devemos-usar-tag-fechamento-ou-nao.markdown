@@ -4,6 +4,8 @@ author:         "Henrique Dias"
 title:          "PHP - Devemos usar a tag de fechamento ou não?"
 date:           2014-08-27 09:15:18+00:00
 description:    "A tag de fechamento do PHP ( ?> ) pode causar alguma confusão visto que é omitida pela maioria dos desenvolvedores. Mas porquê?"
+image: "php"
+color: "rgb(31, 31, 41)"
 categories:
 - Explanations
 tags:

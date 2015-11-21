@@ -2,8 +2,7 @@
 
 <div class="single">
   {{ if isset .Params "image" }}
-  <!-- <div id="article-banner" class="single banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')"></div> -->
-  <img id="article-banner" class="single banner" src="{{ .Site.BaseURL }}{{ .Params.image }}">
+  <img id="article-banner" class="single banner" src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">
   {{ end }}
 
   <article class="container">

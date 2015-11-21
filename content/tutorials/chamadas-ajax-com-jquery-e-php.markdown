@@ -3,7 +3,8 @@ type: post
 author:         "Henrique Dias"
 title:          "Chamadas Ajax com jQuery e PHP"
 date:						2014-07-20 10:41:11+00:00
-image:     "images/chamadas-ajax-com-jquery-e-php.jpg"
+image:     "chamadas-ajax-com-jquery-e-php"
+color: "rgb(86, 109, 124)"
 description:    "Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder utilizando a linguagem de servidor PHP."
 categories:
 - Tutorials

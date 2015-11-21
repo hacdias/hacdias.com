@@ -4,6 +4,8 @@ author:         "Henrique Dias"
 title:          "Criar identificadores únicos em PHP"
 date:           2014-07-30 08:34:52+00:00
 description:    "Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo. Hône trago-vos uma das funções mais interessantes desta linguagem."
+image: "php"
+color: "rgb(31, 31, 41)"
 categories:
 - Tutorials
 tags:

@@ -4,7 +4,7 @@ author:         "Henrique Dias"
 title:          "Observação de microrganismos e células eucarióticas"
 date: 2015-04-02 16:44:45+00:00
 description:    "Relatório sobre a atividade laboratorial de Biologia: observação de células eucarióticas e microrganismos eucariontes."
-image:     "images/observacao-de-microrganismos-e-celulas-eucarioticas.jpg"
+image:     "observacao-de-microrganismos-e-celulas-eucarioticas"
 color: "rgb(207, 176, 16)"
 categories:
 - General

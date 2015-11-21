@@ -4,7 +4,7 @@ author:         "Henrique Dias"
 title:          "I have moved, again"
 date: 2015-02-11 22:19:40+00:00
 description:    "I have moved, again. From now until the end of the times, coxpe.com and henriquedias.com/blog are gone, and henriquedias.com is the unified version of both."
-image:     "images/moving.jpg"
+image:     "moving"
 color: "rgb(179, 116, 61)"
 categories:
 - Personal

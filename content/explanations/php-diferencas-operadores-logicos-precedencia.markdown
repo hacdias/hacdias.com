@@ -5,6 +5,8 @@ title:          "PHP - Diferenças entre '&&/||' e 'AND/OR'"
 publishDate:           2014-07-28 11:00:32+00:00
 date:          2015-06-10 15:01:00+00:00
 description:    "Depois de publicar um artigo sobre as diferenças entre os operadores '==' e '===', vou falar sobre as diferenças entre os operadores '&&/||' e 'AND/OR'."
+image: "php"
+color: "rgb(31, 31, 41)"
 categories:
 - Explanations
 tags:

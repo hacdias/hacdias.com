@@ -3,7 +3,8 @@ type: post
 author:         "Henrique Dias"
 title:          "WordPress: adicionar menus de administração [Parte 1]"
 date:            2014-08-02 11:27:37+00:00
-image:     "images/criacao-menus.jpg"
+image:     "criacao-menus"
+color: "rgb(224, 105, 55)"
 description:    "A criação de temas e plugins para o WordPres leva a uma necessidade constante de criar menus de administração. A criação dos mesmos é muito simples."
 categories:
 - Tutorials

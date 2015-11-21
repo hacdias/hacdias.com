@@ -4,6 +4,8 @@ author:         "Henrique Dias"
 title:          "Atom - Extensão Fancy New File"
 date:	          2014-08-25 12:25:12+00:00
 description:    "A extensão Fancy New File permite os utilizadores criarem ficheiros de forma muito simples e rápida."
+image: "atom"
+color: "rgb(35, 34, 41)"
 categories:
 - General
 tags:

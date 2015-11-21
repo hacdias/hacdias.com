@@ -4,7 +4,7 @@ author:         "Henrique Dias"
 title:          "Aprenda a Programar: o e-book gratuito e essencial"
 date: 2015-02-28 13:19:43+00:00
 description:    "Se quer aprender a programar e não apenas a utilizar uma linguagem, este e-book gratuito é indicado para si. Aprenda os conceitos básicos e transversais."
-image:     "images/aprendaaprogramar.jpg"
+image:     "aprendaaprogramar"
 color: "rgb(65, 142, 67)"
 categories:
 - General

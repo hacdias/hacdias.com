@@ -2,7 +2,7 @@
 type: page
 title: Contact
 description: "Tell me something."
-image: "images/contact.jpg"
+image: "contact"
 color: "rgb(51, 43, 69)"
 ---
 

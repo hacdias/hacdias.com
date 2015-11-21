@@ -4,7 +4,7 @@ author:         "Henrique Dias"
 title:          "Portugal is a beautiful country"
 date:    2014-11-14 20:34:01+00:00
 description:    "Portugal is one of the small big countries, in other words, Portugal have too many things to offer: history, monuments, culture, beauty!"
-image:     "images/zambujeira.jpg"
+image:     "zambujeira"
 color: "rgb(126, 159, 207)"
 categories:
 - Personal

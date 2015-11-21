@@ -4,6 +4,8 @@ author:         "Henrique Dias"
 title:          "Atom - Um excelente editor de texto da GitHub"
 date:           2014-08-07 18:50:03+00:00
 description:    "Os editores de texto são ferramentas obrigatórias a todos os programadores. Hoje damos a conhecer mais um que entrou neste competitivo mundo: o Atom."
+image: "atom"
+color: "rgb(35, 34, 41)"
 categories:
 - General
 tags:

@@ -4,6 +4,8 @@ author:         "Henrique Dias"
 title:          "Guardar os erros do PHP num ficheiro com o .htaccess"
 date:           2014-08-14 10:41:38+00:00
 description:    "Explicamos como fazer a listagem em log de todos os erros produzidos pela linguagem PHP num ficheiro através do .htaccess."
+image: "php"
+color: "rgb(31, 31, 41)"
 categories:
 - Tutorials
 tags:

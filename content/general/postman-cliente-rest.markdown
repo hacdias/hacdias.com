@@ -3,7 +3,7 @@ type: post
 author:         "Henrique Dias"
 title:          "POSTMAN - Um cliente REST"
 date:           2014-07-25 13:19:02+00:00
-image:     "images/postman.jpg"
+image:     "postman"
 color: "rgb(220, 131, 101)"
 description:    "Para todos os desenvolvedores web, o POSTMAN vai ser uma grande ajuda no desenvolvimento web, principalmente quando o assunto se refere a solicitações HTTP."
 categories:
@@ -25,7 +25,7 @@ Considero esta extensão excelente pois permite-nos "injetar" e receber dados mu
 
 Com esta extensão torna-se mais fácil encontrar um problema numa aplicação ou *website* que estejamos a desenvolver. Abaixo encontram um exemplo que pelo qual comecei a utilizar esta extensão.
 
->Recentemente estava a enviar pedidos POST para o servidor utilizando [jQuery e  Ajax](http://blog.henriquedias.com/post-get-ajax-resposta-php/) sendo que a resposta desses pedidos devia ser em JSON mas estava sempre a receber o erro ```unexpected character``` do lado do cliente.
+>Recentemente estava a enviar pedidos POST para o servidor utilizando [jQuery e  Ajax](//henriquedias.com/tutorials/chamadas-ajax-com-jquery-e-php/) sendo que a resposta desses pedidos devia ser em JSON mas estava sempre a receber o erro ```unexpected character``` do lado do cliente.
 >
 > Na altura sabia que o JS estava a receber uma página HTML em vez de dados em JSON o que queria dizer que havia um erro no lado do servidor, nos ficheiros PHP.
 >

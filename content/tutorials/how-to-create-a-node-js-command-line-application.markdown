@@ -4,7 +4,8 @@ author:         "Henrique Dias"
 title:          "How to create a Node.js command-line application"
 date: 2015-03-31 18:55:49+00:00
 description:    "Node.js is one of the trends in the programming world. Let's learn how to create node.js command-line applications."
-image:     "images/nodejscli.jpg"
+image:     "nodejscli"
+color: "rgb(64, 60, 50)"
 categories:
 - Tutorials
 tags:

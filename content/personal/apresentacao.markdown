@@ -3,7 +3,7 @@ type:         post
 author:       "Henrique Dias"
 title:        "Apresentação"
 date:         2014-07-12 14:05:48+00:00
-image:        "images/apresentacao.jpg"
+image:        "apresentacao"
 color: "rgb(105, 85, 67)"
 description: "Uma pequena apresentação sobre o blog e sobre o que quero fazer com ele. Quem sou eu? Que escreverei neste blog? Saberás tudo ao ler!"
 categories:

@@ -845,6 +845,10 @@ form input[type="submit"]:hover {
   margin: 1.5em auto;
 }
 
+.photography footer p {
+  margin: 1.5em auto 0;
+}
+
 .photography article footer {
   max-width: 90%;
   margin: 0 auto;
@@ -1071,6 +1075,9 @@ form input[type="submit"]:hover {
   .single {
     position: relative;
     padding-top: 7em;
+  }
+  .photography .single {
+    padding-top: 0;
   }
   .single .banner {
     position: absolute;

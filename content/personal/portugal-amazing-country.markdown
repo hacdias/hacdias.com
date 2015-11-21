@@ -4,7 +4,7 @@ author:         "Henrique Dias"
 title:          "Portugal is a beautiful country (again)"
 date:           2015-08-26 22:40:00+00:00
 description:    "Portugal is an amazing country. It has a lot of history behind. Know some of the places I visited this month. From Sintra to Redondo."
-image:           "images/campo-maior-streets.jpg"
+image:           "campo-maior-streets"
 color: "rgb(36, 118, 138)"
 categories:
 - Personal

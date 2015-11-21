@@ -3,7 +3,8 @@ type:           post
 author:         "Henrique Dias"
 title:          "Remover hash dos links \"Continuar a Ler\""
 date:           2014-07-14 13:36:38+00:00
-image:          "images/wordpress-logos.jpg"
+image:          "wordpress-logos"
+color: "#c4ac70"
 description:    "Por padrão, nos artigos do WordPress, quando se clica em \"Ler mais\", o utilizador é redirecionado para onde estava a ler. Aprenda a remover essa opção."
 categories:
 - Tutorials
