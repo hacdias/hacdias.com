@@ -9,7 +9,7 @@ body {
   margin: 0;
   font: normal 1em/1.6 'Lora', serif;
   color: #212121;
-  /* padding-top: 3em; */
+  padding-top: 3em;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
@@ -290,18 +290,18 @@ code {
   color: inherit;
 }
 .site-navigation .content {
+  background-color: #212121;
   padding: 2em;
 }
 .site-navigation .title {
-  background-color: #151515 !important;
-  width: 10em;
-  margin: 0 auto;
+  background-color: #151515;
+  width: 100%;
+  padding: 0 1em;
   height: 2.5em;
   line-height: 2.5em;
-  text-align: center;
-  border-bottom-left-radius: .5em;
-  border-bottom-right-radius: .5em;
   cursor: pointer;
+  display: flex;
+  justify-content: space-between;
 }
 .site-navigation .title .items {
 
@@ -317,7 +317,6 @@ display: inline-block;}
   display: inline-block;
 }
 .site-navigation .content, .site-navigation .title {
-  background-color: #212121;
   color: #fff;
   box-sizing: border-box;
 }

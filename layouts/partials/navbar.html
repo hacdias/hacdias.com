@@ -33,30 +33,19 @@
     </div>
   </div>
   <div class="title">
-    <div><div id="nav-toggle"><span></span></div> <em>Henrique Dias</em></div>
-  <!--   <nav class="items hide-on-small">
+    <div><label id="nav-toggle" for="expand"><span></span></label> <em><a href="{{ .Site.BaseURL }}">Henrique Dias</a></em></div>
+    <nav class="items hide-on-small">
       <ul>
         <a href="{{ .Site.BaseURL }}photography/"><li>Photography</li></a>
         <a href="{{ .Site.BaseURL }}portfolio/"><li>Portfolio</li></a>
         <a href="{{ .Site.BaseURL }}words/"><li>Words</li></a>
       </ul>
-    </nav> -->
+    </nav>
   </div>
 </nav>
 
 <script>
-var alreadyClicked = false;
-
-document.querySelector( ".site-navigation .title" ).addEventListener( "click", function() {
-  document.querySelector(".site-navigation").classList.remove("animate");
-  document.querySelector("#nav-toggle").classList.toggle( "active" );
-  document.querySelector("#expand").click();
-  alreadyClicked = true;
+document.querySelector( "#nav-toggle" ).addEventListener( "click", function() {
+  this.classList.toggle( "active" );
 });
-
-setTimeout(function () {
-    if (!alreadyClicked) {
-      document.querySelector( ".site-navigation" ).classList.toggle("animate")
-    }
-}, 5000);
 </script>
