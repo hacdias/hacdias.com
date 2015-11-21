@@ -204,6 +204,7 @@ code {
 }
 
 /* SITE HEADER */
+
 .site-header {
   background-color: #212121;
   color: #fff;
@@ -229,7 +230,9 @@ code {
   font: normal 35%/1.6 'Lora', serif;
   z-index: 1;
 }
+
 /* SITE NAVIGATION */
+
 .site-nav {
   background-color: rgba(0, 0, 0, 0.15);
   text-transform: lowercase;
@@ -243,8 +246,13 @@ code {
 }
 .site-nav a {
   display: inline-block;
-  padding: .5em;
+  padding: .5em .5em .3em .5em;
+  transition: .2s ease-in all;
+  border-bottom: .2em solid transparent;
 }
+.site-nav a:hover {
+
+border-bottom: .2em solid #fff;}
 .site-nav .site-small-title {
   display: none;
 }
@@ -263,7 +271,49 @@ code {
   display: inline-block;
 }
 
+/* TOGGLE BUTTON */
+
+#nav-toggle {
+  display: none;
+  vertical-align: super;
+}
+#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+  cursor: pointer;
+  border-radius: 1px;
+  height: 0.2em;
+  width: 1.23em;
+  background: white;
+  position: absolute;
+  display: block;
+  content: '';
+}
+#nav-toggle span:before {
+  top: -0.5em;
+}
+#nav-toggle span:after {
+  bottom: -0.5em;
+}
+#nav-toggle + em {
+  margin-left: 1.5em;
+}
+#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+  transition: all 500ms ease-in-out;
+}
+#nav-toggle.active span {
+  background-color: transparent;
+}
+#nav-toggle.active span:before, #nav-toggle.active span:after {
+  top: 0;
+}
+#nav-toggle.active span:before {
+  transform: rotate(45deg);
+}
+#nav-toggle.active span:after {
+  transform: rotate(-45deg);
+}
+
 /* OTHER */
+
 .sans {
   font: 300 1em/1.5 "Helvetica Neue", Arial, sans-serif;
 }
@@ -271,13 +321,9 @@ code {
   font-weight: 500;
 }
 .banner {
-  padding-bottom: 34%;
   width: 100%;
-  background: no-repeat center center;
-  background-attachment: fixed;
-  background-size: cover;
+  object-fit: cover;
 }
-
 
 /* FOOTER */
 
@@ -758,10 +804,13 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
   background-color: #aaa;
 }
 @media (min-width: 900px) {
+  .single {
+    position: relative;
+    padding-top: 7em;
+  }
   .single .banner {
     position: absolute;
-    top: 0;
-    height: 100%;
+    top: -48px;
     padding: 0;
     z-index: -5;
     background-attachment: scroll !important;
@@ -774,7 +823,6 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
     background-color: rgba(255, 255, 255, 0.95);
     padding: 1.6em 1.6em 0;
     box-sizing: border-box;
-    margin-top: 7em;
   }
 }
 @media (max-width: 1200px) {
@@ -805,11 +853,53 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
   }
 }
 @media (max-width: 550px) {
+  body {
+    padding-top: 3.5em;
+  }
   .mosaic .item {
     -webkit-flex-basis: 100%;
     -ms-flex-preferred-size: 100%;
     flex-basis: 100%;
     padding-bottom: 55%;
+  }
+  #nav-toggle {
+    display: inline-block;
+  }
+  #expand:checked + .site-header {
+    transform: translateY(0);
+  }
+  .site-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column-reverse;
+    z-index: 99999;
+    width: 100%;
+    transform: translateY(-100%) translateY(3.5em);
+    transition: .5s ease all;
+  }
+  .site-nav a {
+    width: 100%;
+    display: block;
+    text-align: left;
+    padding: .5em 1em;
+  }
+  .site-title {
+    font-size: 1em;
+    padding: .3em 1em;
+    position: relative;
+    text-align: left;
+    height: 2.5em;
+    line-height: 2.5em;
+  }
+  .site-title a {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 1.5em;
+  }
+  .site-title small {
+    display: none;
   }
 }
 @media (max-width: 400px) {

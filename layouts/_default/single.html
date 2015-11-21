@@ -2,7 +2,8 @@
 
 <div class="single">
   {{ if isset .Params "image" }}
-  <div id="article-banner" class="single banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')"></div>
+  <!-- <div id="article-banner" class="single banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')"></div> -->
+  <img id="article-banner" class="single banner" src="{{ .Site.BaseURL }}{{ .Params.image }}">
   {{ end }}
 
   <article class="container">
@@ -17,7 +18,7 @@
 <script>
 window.onscroll = function() {
   var obj = document.getElementById("article-banner");
-  obj.style.top = ((window.pageYOffset | document.body.scrollTop) / 3) + "px";
+  obj.style.top = ((window.pageYOffset | document.body.scrollTop) / 3 - 48) + "px";
 };
 </script>
 

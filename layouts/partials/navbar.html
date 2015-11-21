@@ -1,3 +1,5 @@
+<input type="checkbox" hidden id="expand">
+
 {{ if isset .Params "color" }}
 <header class="site-header" style="background-color: {{ safeCSS .Params.color }};">
 {{ else if eq .Title "Words" }}
@@ -8,6 +10,7 @@
 <header class="site-header">
 {{ end }} {{ end }}
   <div class="site-title">
+    <label id="nav-toggle" for="expand"><span></span></label>
     <a href="{{ .Site.BaseURL }}">
       {{ if eq .Title "Words" }}<small>Words By</small>{{ end }}
       <h2>Henrique Dias</h2>
@@ -37,3 +40,9 @@
     </ul>
   </nav>
 </header>
+
+<script>
+document.querySelector( "#nav-toggle" ).addEventListener( "click", function() {
+  this.classList.toggle( "active" );
+});
+</script>
