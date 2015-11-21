@@ -9,7 +9,7 @@ body {
   margin: 0;
   font: normal 1em/1.6 'Lora', serif;
   color: #212121;
-  padding-top: 3em;
+  /* padding-top: 3em; */
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
@@ -240,7 +240,7 @@ code {
   transform: translateY(-100%) translateY(3em);
 }
 .site-navigation.animate {
-    animation: example 2s infinite;
+  animation: example 2s infinite;
 }
 #nav-toggle {
   display: inline-block;
@@ -283,33 +283,30 @@ code {
 }
 #expand:checked + .site-navigation {
   -webkit-transform: translateY(0);
-      -ms-transform: translateY(0);
-          transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
 }
 .site-navigation a {
   color: inherit;
 }
 .site-navigation .content {
-  background-color: #212121;
   padding: 2em;
 }
 .site-navigation .title {
-  background-color: #151515;
-  width: 100%;
-  padding: 0 1em;
+  background-color: #151515 !important;
+  width: 10em;
+  margin: 0 auto;
   height: 2.5em;
   line-height: 2.5em;
+  text-align: center;
+  border-bottom-left-radius: .5em;
+  border-bottom-right-radius: .5em;
   cursor: pointer;
-  display: flex;
-  justify-content: space-between;
 }
 .site-navigation .title .items {
-
-display: inline-block;}
-
-.site-navigation .title .items ul {
-
+  display: inline-block;
 }
+.site-navigation .title .items ul {}
 .site-navigation .title .items li:before {
   content: ""
 }
@@ -317,6 +314,7 @@ display: inline-block;}
   display: inline-block;
 }
 .site-navigation .content, .site-navigation .title {
+  background-color: #212121;
   color: #fff;
   box-sizing: border-box;
 }
@@ -489,8 +487,8 @@ article footer .post-navigation div.next {
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 .sharing a {
   color: #fff;
@@ -498,8 +496,8 @@ article footer .post-navigation div.next {
   -webkit-transition: .5s ease all;
   transition: .5s ease all;
   -webkit-flex-basis: 23%;
-      -ms-flex-preferred-size: 23%;
-          flex-basis: 23%;
+  -ms-flex-preferred-size: 23%;
+  flex-basis: 23%;
 }
 .sharing a:hover {
   opacity: .8;
@@ -606,15 +604,15 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   padding: 1em 5%;
   border-bottom: 1px solid #212121;
   color: #eee;
   -webkit-box-align: center;
   -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 .photography article a {
   color: inherit;
@@ -727,11 +725,11 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
   display: flex;
   -webkit-box-flex: 1;
   -webkit-flex-grow: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
   -webkit-flex-basis: 25%;
-      -ms-flex-preferred-size: 25%;
-          flex-basis: 25%;
+  -ms-flex-preferred-size: 25%;
+  flex-basis: 25%;
   padding-bottom: 20%;
   background-size: cover;
   position: relative;
@@ -760,8 +758,8 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
   position: absolute;
   top: 50%;
   -webkit-transform: translate(0, -50%);
-      -ms-transform: translate(0, -50%);
-          transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
 }
 .item .info h2, .item .info p {
   max-width: 75%;
@@ -776,7 +774,9 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
   text-align: left;
   font-size: .8em;
 }
+
 /* WORDS */
+
 .words {
   max-width: 575px;
 }
@@ -790,7 +790,7 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
   font-family: 'Pacifico', cursive;
   font-size: 4em;
   text-align: center;
-  margin: .5em 0;
+  margin: 1em 0 .5em;
   z-index: 9999999;
 }
 .words-title a {
@@ -852,16 +852,16 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
 @media (max-width: 1200px) {
   .mosaic .item {
     -webkit-flex-basis: 33%;
-        -ms-flex-preferred-size: 33%;
-            flex-basis: 33%;
+    -ms-flex-preferred-size: 33%;
+    flex-basis: 33%;
     padding-bottom: 25%;
   }
 }
 @media (max-width: 900px) {
   .mosaic .item {
     -webkit-flex-basis: 50%;
-        -ms-flex-preferred-size: 50%;
-            flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
     padding-bottom: 35%;
   }
   .photography .caption {
@@ -879,8 +879,8 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
 @media (max-width: 550px) {
   .mosaic .item {
     -webkit-flex-basis: 100%;
-        -ms-flex-preferred-size: 100%;
-            flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
     padding-bottom: 55%;
   }
 }
@@ -892,11 +892,20 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
     margin: .3em 0;
   }
 }
-
 @keyframes example {
-    0% {transform: translateY(-100%) translateY(3em)}
-    25% {transform: translateY(-95%) translateY(3em)}
-    50% {transform: translateY(-100%) translateY(3em)}
-    75% {transform: translateY(-98%) translateY(3em)}
-    100% {transform: translateY(-100%) translateY(3em)}
+  0% {
+    transform: translateY(-100%) translateY(3em)
+  }
+  25% {
+    transform: translateY(-95%) translateY(3em)
+  }
+  50% {
+    transform: translateY(-100%) translateY(3em)
+  }
+  75% {
+    transform: translateY(-98%) translateY(3em)
+  }
+  100% {
+    transform: translateY(-100%) translateY(3em)
+  }
 }

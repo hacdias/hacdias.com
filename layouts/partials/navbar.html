@@ -15,7 +15,7 @@
          </ul>
       </nav>
     </div><div class="division">
-      <h3>More things</h3>
+      <h3>More</h3>
       <nav>
          <ul>
              <a href="{{ .Site.BaseURL }}"><li>Home</li></a>
@@ -33,19 +33,35 @@
     </div>
   </div>
   <div class="title">
-    <div><label id="nav-toggle" for="expand"><span></span></label> <em><a href="{{ .Site.BaseURL }}">Henrique Dias</a></em></div>
-    <nav class="items hide-on-small">
+    <div><div id="nav-toggle"><span></span></div> <em>Henrique Dias</em></div>
+  <!--   <nav class="items hide-on-small">
       <ul>
         <a href="{{ .Site.BaseURL }}photography/"><li>Photography</li></a>
         <a href="{{ .Site.BaseURL }}portfolio/"><li>Portfolio</li></a>
         <a href="{{ .Site.BaseURL }}words/"><li>Words</li></a>
       </ul>
-    </nav>
+    </nav> -->
   </div>
 </nav>
 
 <script>
-document.querySelector( "#nav-toggle" ).addEventListener( "click", function() {
-  this.classList.toggle( "active" );
+var alreadyClicked = false;
+
+document.querySelector( ".site-navigation .title" ).addEventListener( "click", function() {
+  document.querySelector(".site-navigation").classList.remove("animate");
+  document.querySelector("#nav-toggle").classList.toggle( "active" );
+  document.querySelector("#expand").click();
+  alreadyClicked = true;
 });
+
+setTimeout(function () {
+  if (!document.cookie.replace(/(?:(?:^|.*;\s*)bouncingbar\s*\=\s*([^;]*).*$)|^.*$/, "$1")) {
+    var date = new Date();
+    date.setDate(date.getDate() + 365);
+    document.cookie = 'bouncingbar=true; expires=' + date.toUTCString + '; path=/';
+    if (!alreadyClicked) {
+      document.querySelector( ".site-navigation" ).classList.toggle("animate")
+    }
+  }
+}, 5000);
 </script>
