@@ -1021,6 +1021,12 @@ form input[type="submit"]:hover {
   max-width: 575px;
 }
 
+.words #nav-toggle span,
+.words #nav-toggle span:before,
+.words #nav-toggle span:after {
+  background: #212121;
+}
+
 .words .site-nav {
   background-color: rgba(0, 0, 0, 0.05);
 }
