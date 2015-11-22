@@ -5,7 +5,7 @@ title:          "Que postura ter perante a Matemática"
 date: 2015-01-26 00:00:00+00:00
 description:    "Algumas dicas para o estudo de Matemática, uma das disciplinas em que os estudantes têm mais problemas. Prepara-te para os exames continuamente."
 image:     "math"
-color: "rgb(38, 64, 89)"
+color: "#264059"
 categories:
 - General
 tags:

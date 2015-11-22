@@ -5,7 +5,7 @@ title:          "HackerRank Widget for WordPress"
 date: 2015-03-07 16:04:40+00:00
 description:    "HackerRank is a competitive programming site and Luís Soares and I have created an HackerRank Widget for WordPress to show a small version of our profile."
 image:     "hackerrankwidget"
-color: "rgb(65, 142, 67)"
+color: "#418e43"
 categories:
 - General
 tags:

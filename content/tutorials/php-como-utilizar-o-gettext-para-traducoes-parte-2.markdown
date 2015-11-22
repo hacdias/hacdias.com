@@ -5,7 +5,7 @@ title:          "PHP - Como utilizar o Gettext para traduções [Parte 2]"
 date:	2014-09-28 15:06:47+00:00
 description:    "Depois de termos ensinado a configurar o plugin php-gettext com o PHP, agora é hora de saber como utilizar o plugin."
 image:     "gettext"
-color: "rgb(206, 198, 192)"
+color: "#cec6c0"
 categories:
 - Tutorials
 tags:

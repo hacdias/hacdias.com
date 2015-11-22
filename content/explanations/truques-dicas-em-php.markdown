@@ -5,7 +5,7 @@ title:          "5 truques e dicas em PHP"
 date:           2014-08-29 16:47:20+00:00
 description:    "A linguagem de programação PHP é das mais utilizadas atualmente do lado do servidor. Hoje trazemos 5 dicas que para vos ajudar!"
 image: "php"
-color: "rgb(31, 31, 41)"
+color: "#1f1f29"
 categories:
 - Explanations
 tags:

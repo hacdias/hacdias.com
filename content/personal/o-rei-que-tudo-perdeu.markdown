@@ -5,7 +5,7 @@ title:          "O Rei Que Tudo Perdeu"
 date: 2015-02-28 16:00:38+00:00
 description:    "Por vezes, a vontade de escrever é tanta que as letras deslizam pelo papel. Aqui está um pequeno poema, O Rei Que Tudo Perdeu, escrito em 2012."
 image:     "oreiquetudoperdeu"
-color: "rgb(198, 99, 61)"
+color: "#c6633d"
 categories:
 - Personal
 tags:

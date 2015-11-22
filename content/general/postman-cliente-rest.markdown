@@ -4,7 +4,7 @@ author:         "Henrique Dias"
 title:          "POSTMAN - Um cliente REST"
 date:           2014-07-25 13:19:02+00:00
 image:     "postman"
-color: "rgb(220, 131, 101)"
+color: "#dc8365"
 description:    "Para todos os desenvolvedores web, o POSTMAN vai ser uma grande ajuda no desenvolvimento web, principalmente quando o assunto se refere a solicitações HTTP."
 categories:
 - General

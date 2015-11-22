@@ -5,7 +5,7 @@ title:          "Is the technology a good or a bad thing?"
 date: 2015-03-13 12:20:46+00:00
 description:    "Technology, nowadays, means advance and progress. But is the technology a good or bad thing? Or both? Or neither? Here is my opinion."
 image:     "technology-good-or-bad"
-color: "rgb(28, 51, 69)"
+color: "#1c3345"
 categories:
 - Personal
 tags:

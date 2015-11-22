@@ -5,7 +5,7 @@ title:          "PHP - (Algumas) tags dos DOCBlocks"
 date:           2014-08-11 20:26:21+00:00
 description:    "Os DOCBlocks do PHP são extremamente úteis para os desenvolvedores que desejam partilhar o código. Venha conhecer as tags mais utilizadas."
 image: "php"
-color: "rgb(31, 31, 41)"
+color: "#1f1f29"
 categories:
 - Explanations
 tags:

@@ -5,7 +5,7 @@ title:          "Portugal is a beautiful country"
 date:    2014-11-14 20:34:01+00:00
 description:    "Portugal is one of the small big countries, in other words, Portugal have too many things to offer: history, monuments, culture, beauty!"
 image:     "zambujeira"
-color: "rgb(126, 159, 207)"
+color: "#7e9fcf"
 categories:
 - Personal
 tags:

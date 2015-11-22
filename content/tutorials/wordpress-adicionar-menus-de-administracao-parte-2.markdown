@@ -5,7 +5,7 @@ title:          "WordPress: adicionar menus de administração [Parte 2]"
 publishDate:           2014-08-04 12:01:37+00:00
 date:          2015-06-10 11:27:37+00:00
 image:     "criacao-menus"
-color: "rgb(224, 105, 55)"
+color: "#e06937"
 description:    "Esta é a continuação do tutorial sobre como adicionar menus de administração a temas e plugins do WordPress."
 categories:
 - Tutorials

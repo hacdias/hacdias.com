@@ -4,7 +4,7 @@ author:         "Henrique Dias"
 title:          "Selecionar um intervalo de linhas em MySQL"
 date:           2014-07-16 20:00:19+00:00
 image:     "selecionar-um-intervalo-de-linhas-em-mysql"
-color: "rgb(138, 175, 227)"
+color: "#8aafe3"
 description:    "Utilizar MySQL é muito simples. Neste tutorial ensino a selecionar apenas um intervalo de linhas em MySQL."
 categories:
 - Tutorials

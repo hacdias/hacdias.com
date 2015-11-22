@@ -5,7 +5,7 @@ title:          "PHP - Strings: interpolação e concatenação"
 date: 2014-09-09 15:19:43+00:00
 description:    "Já pensou em qual a melhor forma para inserir variáveis dentro de strings? A interpolação ou a concatenação. Venha ver."
 image: "php"
-color: "rgb(31, 31, 41)"
+color: "#1f1f29"
 categories:
 - Explanations
 tags:

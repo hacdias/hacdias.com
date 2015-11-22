@@ -4,7 +4,7 @@ title:          "Imperfections make us perfect"
 date:           2015-07-12 13:45:00+00:00
 description:    "I was thinking about why there are people who think we are perfect. This is a little reflexion about it and about those people."
 image:          "imperfections_wood"
-color: "rgb(152, 64, 40)"
+color: "#984028"
 categories:
 - Personal
 tags:

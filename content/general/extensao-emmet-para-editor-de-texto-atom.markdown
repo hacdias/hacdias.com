@@ -5,7 +5,7 @@ title:          "Extensão Emmet para o editor de texto Atom"
 date:           2014-08-08 13:14:25+00:00
 description:    "Hoje vamos falar da extensão Emmet que é muito útil para milhares de desenvolvedores web. Esta extensão permite agilizar e aumentar a produtividade."
 image: "atom"
-color: "rgb(35, 34, 41)"
+color: "#232229"
 categories:
 - General
 tags:

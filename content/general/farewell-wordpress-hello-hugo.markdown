@@ -5,7 +5,7 @@ title:          "Farewell, WordPress! Hello, Hugo"
 date:           2015-08-12T11:30:00Z
 description:    "I finally learned how to say goodbye to WordPress. Not forever. Nothing lasts forever. But for my blog. I'm using Hugo. A very simple static website generator."
 image:          "goodbye-wordpress"
-color: "rgb(226, 155, 100)"
+color: "#e29b64"
 categories:
 - General
 tags:

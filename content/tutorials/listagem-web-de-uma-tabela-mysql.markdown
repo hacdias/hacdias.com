@@ -4,7 +4,7 @@ author:         "Henrique Dias"
 title:          "Listagem web de uma tabela MySQL"
 date:            2014-07-17 14:51:56+00:00
 image:     "listagem-web-de-uma-tabela-mysql"
-color: "rgb(209, 203, 228)"
+color: "#d1cbe4"
 description:    "Como fazer a listagem de uma tabela MySQL com interface web, botões de navegação e limitação do número de linhas por página."
 categories:
 - Tutorials

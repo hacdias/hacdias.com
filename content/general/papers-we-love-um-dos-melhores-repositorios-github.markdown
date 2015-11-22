@@ -5,7 +5,7 @@ title:          "Papers We Love - Um dos melhores repositórios do GitHub"
 date:           2014-08-22 09:38:31+00:00
 description:    "O GitHub não contém apenas software e código. Contém também conhecimento. Um grande exemplo é o repositório Papers We Love."
 image: "paperswelove"
-color: "rgb(105, 97, 91)"
+color: "#69615b"
 categories:
 - General
 tags:
