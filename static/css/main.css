@@ -1183,3 +1183,38 @@ form input[type="submit"]:hover {
     display: none;
   }
 }
+
+@media print {
+  body {
+    padding-top: 0;
+  }
+  table, figure {
+    page-break-inside: auto;
+  }
+  .site-header {
+    position: relative;
+    transform: none;
+    padding: 0;
+  }
+  .site-title {
+    display: block;
+    width: 100%;
+    font-size: 2em;
+    padding: 0;
+    text-align: center;
+  }
+  .site-title a {
+    margin: 0;
+  }
+  #nav-toggle {
+    display: none;
+  }
+  .site-nav {
+    display: none;
+  }
+  .discussion,
+  .site-footer,
+  article footer {
+    display: none;
+  }
+}
