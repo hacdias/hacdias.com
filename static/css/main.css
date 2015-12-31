@@ -117,6 +117,12 @@ hr {
 
 pre {
   overflow: auto;
+  margin: 0 -1.6em;
+}
+
+.hljs {
+  padding: 1.6em !important;
+  background-color: rgba(0,0,0,0.07) !important;
 }
 
 code,
@@ -968,6 +974,7 @@ form input[type="submit"]:hover {
   background-color: rgb(148, 155, 146);
   -webkit-transition: .2s ease all;
   transition: .2s ease all;
+  min-height: 16em;
 }
 
 .mosaic .item:hover {
