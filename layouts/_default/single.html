@@ -1,11 +1,7 @@
 {{ partial "header" . }}
 
 <div class="single">
-  {{ if isset .Params "image" }}
-  <img id="article-banner" class="single banner" src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">
-  {{ end }}
-
-  <article class="container">
+  <article>
   {{ partial "article/header" . }}
   {{ .Content }}
   {{ if eq .Type "post" }}
@@ -13,12 +9,5 @@
   {{ end }}
   </article>
 </div>
-
-<script>
-window.onscroll = function() {
-  var obj = document.getElementById("article-banner");
-  obj.style.top = ((window.pageYOffset | document.body.scrollTop) / 3 - 48) + "px";
-};
-</script>
 
 {{ partial "footer" . }}

@@ -2,23 +2,13 @@
 
 {{ if isset .Params "color" }}
 <header class="site-header" style="background-color: {{ safeCSS .Params.color }};">
-{{ else if eq .Title "Words" }}
-<header class="site-header" style="background-color: #f5f5f5; color: #484848">
 {{ else }}
-  {{ if not .IsNode }}
-    {{ if (eq .Type "words") }}
-<header class="site-header" style="background-color: #f5f5f5; color: #484848">
-    {{ else }} <header class="site-header">
-    {{ end }}
-  {{ else }}
 <header class="site-header">
-{{ end }} {{ end }}
+{{ end }}
   <div class="site-title">
     <label id="nav-toggle" for="expand"><span></span></label>
     <a href="{{ .Site.BaseURL }}">
-      {{ if eq .Title "Words" }}<small>Words By</small>{{ end }}
-      {{ if not .IsNode }}{{ if (eq .Type "words") }}<small>Words By</small>{{ end }}{{ end }}
-      <h2>Henrique Dias</h2>
+      <img src="/images/logo.svg">
     </a>
   </div>
   <nav class="site-nav">
@@ -30,17 +20,11 @@
       <a href="{{ .Site.BaseURL }}about/">
         <li>About</li>
       </a>
-      <a href="{{ .Site.BaseURL }}contact/">
-        <li>Contact</li>
-      </a>
       <a href="{{ .Site.BaseURL }}photography/">
         <li>Photography</li>
       </a>
       <a href="{{ .Site.BaseURL }}portfolio/">
         <li>Portfolio</li>
-      </a>
-      <a href="{{ .Site.BaseURL }}words/">
-        <li>Words</li>
       </a>
     </ul>
   </nav>

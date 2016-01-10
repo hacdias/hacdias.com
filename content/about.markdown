@@ -22,8 +22,6 @@ My interest for computers started when I was a little child. My father bought hi
 
 Over the years, my curiosity about computers has increased because I’m always exploring new things and functionalities that I didn’t know that there were. Currently I’m improving my programming skills. Codecademy is one of the sites that I attend but there are others. Thanks, Codecademy!
 
-~~I want to become a programmer because all the reasons that I’ve talked about and many others. My favourite thing about programming is that we can make anything that we want with code. We can create, innovate, improve and have fun!~~
-
-**Edit (24th July):** right now I'm very confused. I don't really know which field I want to study deep. Yes, I always thought I wanted to study CompSci but now I've doubts. I like a lot of fields: Mathematics, Physics, Chemistry and Biology are on the top.  
+In spite of liking a lot science related subjects, I want to become a programmer because all the reasons that I’ve talked about and many others. My favourite thing about programming is that we can make anything that we want with code. We can create, innovate, improve and have fun!  
 
 I think that all the world should learn how to program because it is too much important in current days and it is a good form to have fun and practise our brain and estimulate our creativity.

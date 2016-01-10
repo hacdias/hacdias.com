@@ -1,5 +1,19 @@
-<footer class="site-footer">
-  <p>&copy; 2015 Henrique Dias.</p>
+<footer class="site-footer sans">
+
+  <div class="contact">
+    <span>email</span> <a href="mailto:hacdias@gmail.com">hacdias@gmail.com</a> <span>twitter</span> <a href="https://twitter.com/hacdias">@hacdias</a>
+  </div>
+
+  <ul>
+    <a href="https://facebook.com/{{ .Site.Social.Facebook }}"><li><i class="fa fa-facebook"></i></li></a>
+    <a href="https://linkedin.com/in/{{ .Site.Social.LinkedIn }}"><li><i class="fa fa-linkedin"></i></li></a>
+    <a href="https://youtube.com/channel/{{ .Site.Social.YouTube }}"><li><i class="fa fa-youtube"></i></li></a>
+    <a href="https://plus.google.com/+{{ .Site.Social.GooglePlus }}"><li><i class="fa fa-google-plus"></i></li></a>
+    <a href="https://github.com/{{ .Site.Social.GitHub }}"><li><i class="fa fa-github"></i></li></a>
+    <a href="https://instagram.com/{{ .Site.Social.Instagram }}"><li><i class="fa fa-instagram"></i></li></a>
+  </ul>
+
+  <p>Copyright &copy; 2014 - 2016 Henrique Dias</p>
 </footer>
 
 {{ partial "analytics.html" . }}

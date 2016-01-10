@@ -2,7 +2,7 @@
 
 <div class="single">
   {{ if isset .Params "image" }}
-  <img src="{{ .Site.BaseURL }}{{ .Params.image }}">
+  <img src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">
   {{ end }}
 
   <article class="container">

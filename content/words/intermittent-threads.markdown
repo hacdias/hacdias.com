@@ -1,10 +1,12 @@
 ---
-type:           words
-title:          "Intermittent Wires"
+type:           post
+title:          "Intermittent Threads"
 date:           2015-11-14 13:45:00+00:00
 description:    "I was there. I turn my head to the left and I see a bullet coming in my direction. The clock stops. I stop. I see myself doing nothing. "
+color: "rgb(28, 101, 63)"
+image: "threads"
 categories:
-- English
+- Words
 tags:
 - Reflexion
 - Death

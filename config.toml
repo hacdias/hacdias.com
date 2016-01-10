@@ -1,40 +1,32 @@
 baseurl = "https://henriquedias.com/"
-languageCode = "en_GB"
-title = "Henrique Dias"
-removePathAccents = true
 disqusShortname = "hacdias"
-paginate = 20
+languageCode = "en_GB"
+paginate = "20"
 paginatePath = "page"
 pluralizelisttitles = false
+removePathAccents = true
+title = "Henrique Dias"
 
 [author]
-  Name = "Henrique Dias"
   Email = "hacdias@gmail.com"
   Image = "henrique.png"
   JobTitle = "Author"
+  Name = "Henrique Dias"
   Telephone = ""
 
-[permalinks]
-  explanations = "/:section/:filename/"
-  general = "/:section/:filename/"
-  personal = "/:section/:filename/"
-  tutorials = "/:section/:filename/"
-  photography = "/:section/:filename/"
-
 [params]
+  Analytics = "59697241-1"
   Description = "I'm Henrique Dias, portuguese and I live in Portugal. I am attending secondary school in a course called “Science and Technology” that I hope finish in 2017."
   Image = "images/home.jpg"
-  Analytics = "59697241-1"
-
-[params.Webmaster]
-  Google = "nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY"
-  Bing = "B471CBBC9EF6900039C6BBF251EF277C"
+  [params.Webmaster]
+    Bing = "B471CBBC9EF6900039C6BBF251EF277C"
+    Google = "nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY"
 
 [social]
   Facebook = "hacdias"
-  Twitter = "hacdias"
   GitHub = "hacdias"
   GooglePlus = "HenriqueDias"
-  Linkedin = "hacdias"
-  YouTube = "UCEJe-YgDEvr351w1oNjzolw"
   Instagram = "hacdias"
+  LinkedIn = "hacdias"
+  Twitter = "hacdias"
+  YouTube = "UCEJe-YgDEvr351w1oNjzolw"

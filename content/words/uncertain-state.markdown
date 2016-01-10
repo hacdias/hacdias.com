@@ -1,10 +1,12 @@
 ---
-type:           words
+type:           post
 title:          "Uncertain State"
 date:           2015-11-14 13:45:00+00:00
 description:    "Death. It's the most heard word in the last days. Crime. And they say it was orders from their God. Who's the God? "
+color: "rgb(22, 17, 7)"
+image: "death-tale-of-three-brothers"
 categories:
-- English
+- Words
 tags:
 - Reflexion
 - Death
