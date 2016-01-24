@@ -687,7 +687,7 @@ article figure.small {
   display: inline-block;
   padding: .5em 0;
   margin: 0;
-  background-color: #37474F;
+  background-color: #455A64;
   width: 100%;
   text-align: center;
 }
@@ -1058,6 +1058,37 @@ form input[type="submit"]:hover {
   margin: 0 auto;
   text-align: left;
   font-size: .8em;
+}
+
+
+/* NEWSLETTER */
+
+.newsletter {
+  margin: -1.5em 0 1.5em;
+  background-color: #37474F;
+  padding: 1.5em;
+  text-align: center;
+}
+
+.newsletter h2 {
+  margin-top: 0;
+}
+
+.newsletter input[type="text"] {
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 0;
+  border-top-left-radius: 0.5em;
+  border-bottom-left-radius: 0.5em;
+  display: inline-block;
+  width: auto;
+  min-width: 16em;
+}
+
+.newsletter input[type="submit"] {
+  display: inline-block;
+  height: 45px;
+  border-top-right-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
 }
 
 @media (max-width: 1200px) {
