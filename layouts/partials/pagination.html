@@ -1,0 +1,16 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<ul class="pagination">
+    {{ if $pag.HasPrev }}
+    <li class="prev">
+      <a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous"><span aria-hidden="true">&laquo; previous</span></a>
+    </li>
+    {{ end }}
+    {{ if $pag.HasNext}}
+    <li>
+    <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next"><span aria-hidden="true">next &raquo;</span></a>
+    </li>
+    {{ end }}
+</ul>
+<div style="clear:both"></div>
+{{ end }}

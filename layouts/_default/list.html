@@ -1,11 +1,16 @@
 {{ partial "header" . }}
 
-<main role="main" class="mosaic">
-	{{ range .Paginator.Pages }}
-  {{ partial "mosaic/common" . }}
-  {{ end }}
+<main role="main" class="sans">
 
-	{{ template "_internal/pagination.html" . }}
+	<h1>{{ .Title }}</h1>
+
+	<div class="mosaic">
+		{{ range .Paginator.Pages }}
+		{{ partial "mosaic/common" . }}
+		{{ end }}
+		{{ partial "pagination" . }}
+	</div>
+
 </main>
 
 {{ partial "footer" . }}

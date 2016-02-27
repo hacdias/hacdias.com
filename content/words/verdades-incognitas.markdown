@@ -2,7 +2,7 @@
 type:           post
 title:          "Verdades Incógnitas"
 date:           2015-11-15 13:45:00+00:00
-description:    "stou a dormir. Ponto. Eu sei que estou a dormir. Sim, eu sei que mais tarde vou ter que me levantar. Não. Não és tu que dizes que eu devo ser."
+description:    "Estou a dormir. Ponto. Eu sei que estou a dormir. Sim, eu sei que mais tarde vou ter que me levantar. Não. Não és tu que dizes que eu devo ser."
 color: "rgb(32, 37, 21)"
 image: "paper-plane"
 categories:

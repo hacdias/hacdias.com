@@ -1,6 +1,7 @@
 <header class="sans">
-  <h1>{{ .Title }}</h1>
-  {{ if eq .Type "post" }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
-  {{ if isset .Params "color" }}<div class="foreground" style="background-color: {{ safeCSS .Params.color }};"></div>{{ end }}
-  {{ if isset .Params "image" }}<div class="background" style="background-image: url('{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg');"></div>{{ end }}
+  {{ if isset .Params "image" }}<img src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">{{ end }}
+  <div>
+    <h1>{{ .Title }}</h1>
+    {{ if eq .Type "post" }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
+  </div>
 </header>

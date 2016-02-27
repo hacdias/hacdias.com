@@ -1,19 +1,17 @@
 <input type="checkbox" hidden id="expand">
 
-{{ if isset .Params "color" }}
-<header class="site-header" style="background-color: {{ safeCSS .Params.color }};">
-{{ else }}
-<header class="site-header">
-{{ end }}
+<header class="site-header sans">
   <div class="site-title">
     <label id="nav-toggle" for="expand"><span></span></label>
     <a href="{{ .Site.BaseURL }}">
-      <img src="/images/logo.svg">
+      Henrique Dias
     </a>
   </div>
   <nav class="site-nav">
-    <a class="site-small-title" href="{{ .Site.BaseURL }}">Henrique Dias</a>
     <ul>
+      <a href="{{ .Site.BaseURL }}">
+        <li>Henrique Dias</li>
+      </a>
       <a href="{{ .Site.BaseURL }}">
         <li>Home</li>
       </a>

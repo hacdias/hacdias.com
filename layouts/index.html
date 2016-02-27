@@ -1,12 +1,20 @@
 {{ partial "header" . }}
 
-<main role="main" class="mosaic">
-	{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-	{{ range $paginator.Pages }}
-  {{ partial "mosaic/common" . }}
-  {{ end }}
+<main role="main">
 
-	{{ template "_internal/pagination.html" . }}
+	<div class="site-heading sans">
+		<img src="/henrique.png">
+		<h2>Henrique Dias</h2>
+	</div>
+
+	<div class="mosaic sans">
+		{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+		{{ range $paginator.Pages }}
+		{{ partial "mosaic/common" . }}
+		{{ end }}
+		{{ partial "pagination" . }}		
+	</div>
+
 </main>
 
 {{ partial "footer" . }}

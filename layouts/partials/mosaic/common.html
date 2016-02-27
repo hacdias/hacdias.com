@@ -1,4 +1,4 @@
-<div class="item" style="background-color: {{ if .Params.color }}{{ safeCSS .Params.color }}{{ end }};">
+<div class="item" style="/*background-color: {{ if .Params.color }}{{ safeCSS .Params.color }}{{ end }};*/">
   <a href="{{ .Permalink }}">
     <div class="image" {{ if .Params.image }}style="background-image: url('/images/{{ .Params.image }}-small.jpg')"{{ end }}></div>
     <div class="info">

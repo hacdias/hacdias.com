@@ -1,4 +1,4 @@
-<title>{{ .Title }} | {{ if .IsHome }}A CompSci Enthusiast{{ else }}{{ .Site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}It's Henrique Dias{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="publisher" href="https://plus.google.com/+{{ .Site.Social.GooglePlus }}"/>
