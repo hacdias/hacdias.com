@@ -5,7 +5,6 @@ title:          "Observação de microrganismos e células eucarióticas"
 date: 2015-04-02 16:44:45+00:00
 description:    "Relatório sobre a atividade laboratorial de Biologia: observação de células eucarióticas e microrganismos eucariontes."
 image:     "observacao-de-microrganismos-e-celulas-eucarioticas"
-color: "#cfb010"
 categories:
 - General
 tags:
@@ -20,23 +19,23 @@ Dia 29 de janeiro de 2015 realizámos (eu e uns colegas, turma 10º A da Escola 
 
 ## Resumo
 
-Na primeira fase da atividade laboratorial neste relatório relatada foram analisados diversos tecidos de forma a observar as suas células. Foram observadas células de um epitélio bucal, _Allium cepa_ (conhecida por cebola) e de _Elodea canadensis_ (conhecida por elódea).
+Na primeira fase da atividade laboratorial neste relatório relatada foram analisados diversos tecidos de forma a observar as suas células. Foram observadas células de um epitélio bucal, *Allium cepa* (conhecida por cebola) e de *Elodea canadensis* (conhecida por elódea).
 
-Verificou-se que as células presentes na _Allium cepa_ e na _Elodea canadensis_ são células eucarióticas vegetais, enquanto que as presentes no epitélio bucal são células eucarióticas animais.
+Verificou-se que as células presentes na *Allium cepa* e na *Elodea canadensis* são células eucarióticas vegetais, enquanto que as presentes no epitélio bucal são células eucarióticas animais.
 
 Chegámos à conclusão de que as células eucarióticas vegetais têm diferenças e semelhanças relativamente às células eucarióticas animais. As principais diferenças são o facto das células vegetais terem parede celular e um grande vacúolo, enquanto que as células animais não têm parede celular, apenas têm membrana, e o seu vacúolo é de reduzidas dimensões. Concluímos que a inexistência de parede celular nas células animais lhes dá uma maior mobilidade, podendo assumir diferentes formas, enquanto que as células vegetais têm formas mais fixas.
 
-Na segunda fase da atividade experimental, foram observadas infusões de forma a identificar os seres vivos eucariontes lá presentes. Conseguiram-se identificar quatro espécimes: _Paramecium_, _Opalina_, _Closterium_ e _Spirostomum_. O primeiro, _Paramecium_, foi o espécime encontrado em maior quantidade. Todos pertencem ao reino Protista, o que justifica a sua presença em habitats que a maioria dos seres vivos não teria capacidade para viver (habitats de reduzidas dimensões, por exemplo).
+Na segunda fase da atividade experimental, foram observadas infusões de forma a identificar os seres vivos eucariontes lá presentes. Conseguiram-se identificar quatro espécimes: *Paramecium*, *Opalina*, *Closterium* e *Spirostomum*. O primeiro, *Paramecium*, foi o espécime encontrado em maior quantidade. Todos pertencem ao reino Protista, o que justifica a sua presença em habitats que a maioria dos seres vivos não teria capacidade para viver (habitats de reduzidas dimensões, por exemplo).
 
 ## Introdução
 
-A atividade laboratorial relativa à observação de células do epitélio bucal, _Allium_ _cepa_ (conhecida por cebola), _Elodea canadensis_ (conhecida por elódea) e observação de microrganismos encontrados em infusões, teve como _objetivos_ principais a análise das diferenças e semelhanças entre células eucarióticas animais e vegetais, identificação dos diversos organelos das células e identificação de seres vivos eucariontes. Tudo isto recorrendo ao microscópio ótico comum (M.O.C.).
+A atividade laboratorial relativa à observação de células do epitélio bucal, *Allium cepa*, também conhecida por cebola, *Elodea canadensis*, também conhecida por elódea, e observação de microrganismos encontrados em infusões, teve como *objetivos* principais a análise das diferenças e semelhanças entre células eucarióticas animais e vegetais, identificação dos diversos organelos das células e identificação de seres vivos eucariontes. Tudo isto recorrendo ao microscópio ótico comum (M.O.C.).
 
 A **célula**, descoberta por [Robert Hooke em 1665](http://bitesizebio.com/166/history-of-cell-biology/), é um elemento de dimensões microscópicas e autónomo. É considerada a unidade básica estrutural e funcional de todos os seres vivos, ou seja, todos os seres vivos são constituídos por células. Existem dois tipos de células: as procarióticas e as eucarióticas.
 
-Células **procarióticas** (do grego _pro_ - anterior + _karyon_ - núcleo, núcleo primitivo) são o tipo de células mais simples. Não têm núcleo individualizado, contendo o material genético disperso no interior da célula, denominando-se **nucleoide**. São, também, células desprovidas de alguns **organelos** (partes constituintes das células), como as mitocôndrias, complexo de Golgi, etc. Este tipo de células encontra-se em bactérias e cianobactérias.
+Células **procarióticas** (do grego *pro* - anterior + <em>karyon</em> - núcleo, núcleo primitivo) são o tipo de células mais simples. Não têm núcleo individualizado, contendo o material genético disperso no interior da célula, denominando-se **nucleoide**. São, também, células desprovidas de alguns **organelos** (partes constituintes das células), como as mitocôndrias, complexo de Golgi, etc. Este tipo de células encontra-se em bactérias e cianobactérias.
 
-As células **eucarióticas** (do grego _eu_ - bom + _karyon_ - núcleo, núcleo funcional) são o tipo de células mais desenvolvidas. Têm núcleo, onde se encontra o material genético, e contam com diversos organelos, como mitocôndrias, centríolos, lisossomas, etc. Encontram-se em todos os seres vivos conhecidos, exceto bactérias e cianobactérias. As células eucarióticas subdividem-se em animais e vegetais. Estas têm **diferenças** e **semelhanças** entre si.
+As células **eucarióticas** (do grego <em>eu</em> - bom + *karyon* - núcleo, núcleo funcional) são o tipo de células mais desenvolvidas. Têm núcleo, onde se encontra o material genético, e contam com diversos organelos, como mitocôndrias, centríolos, lisossomas, etc. Encontram-se em todos os seres vivos conhecidos, exceto bactérias e cianobactérias. As células eucarióticas subdividem-se em animais e vegetais. Estas têm **diferenças** e **semelhanças** entre si.
 
 {{< figure src="/images/epitelio_bucal.jpg" alt="Células eucarióticas de um epitélio bucal" caption="Células eucarióticas de um epitélio bucal vistas ao M.O.C. (ampliação total de 600x)" >}}
 
@@ -60,35 +59,20 @@ Nesta secção encontra-se tudo o que se relaciona com o decorrer da atividade l
 ### Material e reagentes
 
   * Microscópio ótico composto;
-
   * Lâminas e lamelas;
-
   * Pinça;
-
   * Bisturi;
-
   * Palito;
-
   * Papel de filtro;
-
   * Papel de limpeza;
-
   * Material biológico;
-
   * Conta-gotas;
-
   * Infusões de material biológico diverso;
-
 
 Isto relativamente ao material propriamente dito. Relativamente aos reagentes, foram utilizados diversos corantes. Temos então:
 
-
   * Azul de metileno, corante que realça a azul os núcleos celulares;
-
-
   * Água iodada, solução que cora a parede celular e o núcleo de amarelo-castanho. Também indica a presença de amido caso fique azul-violácea;
-
-
   * Vermelho-neutro, capaz de realçar os vacúolos das células.
 
 
@@ -111,7 +95,7 @@ O procedimento experimental desta atividade laboratorial está divido em três p
   4. De seguida, cobriram-se as quatro preparações (três com corantes e uma sem corante) com as lamelas e observaram-se ao microscópio ótico. Então registaram-se as observações feitas.
 
 
-  5. Seguidamente foi retirada uma lâmina, removida uma película da planta aquática _Elodea canadensis_ recorrendo a uma pinça e preparada a respetiva amostra.
+  5. Seguidamente foi retirada uma lâmina, removida uma película da planta aquática *Elodea canadensis* recorrendo a uma pinça e preparada a respetiva amostra.
 
 
   6. Observou-se a amostra obtida em 5 no microscópio ótico e registaram-se as observações feitas.
@@ -147,26 +131,25 @@ Nesta secção encontram-se os resultados obtidos das diversas observações efe
 ### Células eucarióticas vegetais
 
 
-A primeira observação efetuada foi relativa a células eucarióticas vegetais. Esta observação dividiu-se em duas fases: observação de células de _Allium cepa_ e observação das células de _Elodea canadensis_.
+A primeira observação efetuada foi relativa a células eucarióticas vegetais. Esta observação dividiu-se em duas fases: observação de células de *Allium cepa* e observação das células de *Elodea canadensis*.
 
-#### Células de _Allium cepa_
+#### Células de *Allium cepa*
 
+Todos os esquemas seguintes, respetivos às células da *Allium cepa*, foram feitos com base nas observações ao M.O.C. com uma ampliação total de 400x.
 
-Todos os esquemas seguintes, respetivos às células da _Allium_ _cepa_, foram feitos com base nas observações ao M.O.C. com uma ampliação total de 400x.
+{{< figure src="/images/cebola00_400_ai.jpg" alt="Esquema da amostra de Allium cepa corada com água iodada" caption="Esquema da amostra de \"Allium cepa\" corada com água iodada" >}}
 
-{{< figure src="/images/cebola00_400_ai.jpg" alt="Esquema da amostra de Allium cepa corada com água iodada" caption="Esquema da amostra de <em>Allium cepa</em> corada com água iodada" >}}
+{{< figure src="/images/cebola01_400_am.jpg" alt="Esquema da amostra de Allium cepa corada com azul de metileno" caption="Esquema da amostra de \"Allium cepa\" corada com azul de metileno" >}}
 
-{{< figure src="/images/cebola01_400_am.jpg" alt="Esquema da amostra de Allium cepa corada com azul de metileno" caption="Esquema da amostra de <em>Allium cepa</em> corada com azul de metileno" >}}
+{{< figure src="/images/cebola02_400_vn.jpg" alt="Esquema da amostra de Allium cepa corada com vermelho-neutro" caption="Esquema da amostra de \"Allium cepa\" corada com vermelho-neutro" >}}
 
-{{< figure src="/images/cebola02_400_vn.jpg" alt="Esquema da amostra de Allium cepa corada com vermelho-neutro" caption="Esquema da amostra de <em>Allium cepa</em> corada com vermelho-neutro" >}}
+{{< figure src="/images/cebola03_400.jpg" alt="Esquema da amostra de Allium cepa sem corantes" caption="Esquema da amostra de \"Allium cepa\" sem corantes" >}}
 
-{{< figure src="/images/cebola03_400.jpg" alt="Esquema da amostra de Allium cepa sem corantes" caption="Esquema da amostra de <em>Allium cepa</em> sem corantes" >}}
+#### Células de *Elodea canadensis*
 
-#### Células de _Elodea canadensis_
+O esquema seguinte, respetivo às células da planta aquática *Elodea canadensis*, foi feito com base nas observações ao M.O.C. com uma ampliação total de 600x.
 
-O esquema seguinte, respetivo às células da planta aquática _Elodea canadensis_, foi feito com base nas observações ao M.O.C. com uma ampliação total de 600x.
-
-{{< figure src="/images/elodea00_600.jpg" alt="Esquema da amostra de Elodea canadensis" caption="Esquema da amostra de <em>Elodea canadensis</em>" >}}
+{{< figure src="/images/elodea00_600.jpg" alt="Esquema da amostra de Elodea canadensis" caption="Esquema da amostra de \"Elodea canadensis\"" >}}
 
 ### Células eucarióticas animais
 
@@ -186,13 +169,13 @@ Foram analisadas três infusões diferentes de forma a identificar diversos sere
 
 Abaixo encontram-se os esquemas dos quatro espécimes observados.
 
-{{< figure src="/images/paramecium.jpg" alt="Parameciuml" caption="<em>Paramecium</em>" >}}
+{{< figure src="/images/paramecium.jpg" alt="Parameciuml" caption="\"Paramecium\"" >}}
 
-{{< figure src="/images/opalina.jpg" alt="Opalina" caption="<em>Opalina</em>" >}}
+{{< figure src="/images/opalina.jpg" alt="Opalina" caption="\"Opalina\"" >}}
 
-{{< figure src="/images/closterium.jpg" alt="Closterium" caption="<em>Closterium</em>" >}}
+{{< figure src="/images/closterium.jpg" alt="Closterium" caption="\"Closterium\"" >}}
 
-{{< figure src="/images/spirostomum.jpg" alt="Spirostomum" caption="<em>Spirostomum</em>" >}}
+{{< figure src="/images/spirostomum.jpg" alt="Spirostomum" caption="\"Spirostomum\"" >}}
 
 
 ## Discussão
@@ -200,19 +183,19 @@ Abaixo encontram-se os esquemas dos quatro espécimes observados.
 ### Observação de células eucarióticas
 
 
-Relativamente à primeira parte da atividade experimental, **observação de células vegetais**, foram visualizadas as células de uma _Allium_ _cepa_ e de uma _Elodea_ _canadensis_ de forma correta, segura e, na generalidade, sem quaisquer problemas.
+Relativamente à primeira parte da atividade experimental, **observação de células vegetais**, foram visualizadas as células de uma <em>Allium cepa</em> e de uma <em>lodea canadensis</em> de forma correta, segura e, na generalidade, sem quaisquer problemas.
 
-Focando a observação de _Allium_ _cepa_, foi possível verificar a existência de núcleo, parede celular e de grandes vacúolos nas suas células. Também foi possível visualizar a união das diversas células, ou seja, a junção das suas paredes celulares, dando origem a um tecido com um reduzido espaço intercelular, algo característico de células vegetais (parecido a uma parede de tijolos).
+Focando a observação de *Allium cepa*, foi possível verificar a existência de núcleo, parede celular e de grandes vacúolos nas suas células. Também foi possível visualizar a união das diversas células, ou seja, a junção das suas paredes celulares, dando origem a um tecido com um reduzido espaço intercelular, algo característico de células vegetais (parecido a uma parede de tijolos).
 
 A utilização do corante água iodada funcionou como esperado: realçou as paredes celulares e os núcleos das células; porém os corantes azul de metileno e vermelho-neutro, que deveriam corar os núcleos e os vacúolos, respetivamente, não tiveram o resultado esperado, pois não foi possível verificar grande coloração. Este problema talvez se tenha devido à idade dos dois corantes utilizados.
 
-{{< figure src="/images/cebola04.jpg" alt="Esquema das componentes básicas de uma célula de Allium cepa" caption="Esquema das componentes básicas de uma célula de <em>Allium cepa</em>" >}}
+{{< figure src="/images/cebola04.jpg" alt="Esquema das componentes básicas de uma célula de Allium cepa" caption="Esquema das componentes básicas de uma célula de \"Allium cepa\"" >}}
 
-Na figura anterior encontra uma esquematização de uma célula de _Allium cepa_ de acordo com o observado na atividade laboratorial.
+Na figura anterior encontra uma esquematização de uma célula de *Allium cepa* de acordo com o observado na atividade laboratorial.
 
-No que diz respeito à observação da _Elodea canadensis_ ao M.O.C., tudo correu como esperado, sendo possível ver, extremamente bem, a existência de cloroplastos de coloração verde (com presença de clorofila). Nas células desta planta também se verificou a existência de paredes celulares e da junção das diversas células. Então é também composto por células eucarióticas vegetais.
+No que diz respeito à observação da *Elodea canadensis* ao M.O.C., tudo correu como esperado, sendo possível ver, extremamente bem, a existência de cloroplastos de coloração verde (com presença de clorofila). Nas células desta planta também se verificou a existência de paredes celulares e da junção das diversas células. Então é também composto por células eucarióticas vegetais.
 
-{{< figure src="/images/elodea01.jpg" alt="Esquema das componentes básicas de uma célula de Elodea canadensis" caption="Esquema das componentes básicas de uma célula de <em>Elodea canadensis</em>" >}}
+{{< figure src="/images/elodea01.jpg" alt="Esquema das componentes básicas de uma célula de Elodea canadensis" caption="Esquema das componentes básicas de uma célula de \"Elodea canadensis\"" >}}
 
 Quanto à **observação de células eucarióticas animais**, em que se visualizaram as células de um epitélio bucal, tudo correu normalmente. Verificou-se que, ao contrário do que acontece com as células vegetais, as células animais não possuem paredes celulares, apenas membrana celular, daí não se disporem "em tijolos". A figura 15 seguinte mostra o desenho referente a uma célula do epitélio bucal.
 
@@ -225,9 +208,9 @@ Comparando agora as células (eucarióticas) animais e as células (eucariótica
 ### Observação de microrganismos eucariontes
 
 
-Relativamente à segunda parte da atividade laboratorial, **observação de microrganismos eucariontes** presentes em infusões, visualizaram-se quatro microrganismos: _Paramecium_, _Opalina_, _Closterium _e _Spirostomum_. Todos estes quatro tipos de seres vivos pertencem ao reino _Protista_ e são seres unicelulares, ou seja, constituídos por uma única célula.
+Relativamente à segunda parte da atividade laboratorial, **observação de microrganismos eucariontes** presentes em infusões, visualizaram-se quatro microrganismos: *Paramecium*, *Opalina*, *Closterium* e *Spirostomum*. Todos estes quatro tipos de seres vivos pertencem ao reino <em>Protista</em> e são seres unicelulares, ou seja, constituídos por uma única célula.
 
-Relativamente à densidade populacional, os seres vivos _Paramecium_ foram aqueles que se verificaram em maior quantidade nas três infusões vistas. Destaca-se a existência de uma enorme quantidade dos mesmos na infusão B. Em segundo lugar, destacam-se os microrganismos _Opalina_, que foram possíveis encontrar na infusão A. Também se verificaram, mas em menor quantidade, os seres vivos _Closterium_ e _Spirostomum_}.
+Relativamente à densidade populacional, os seres vivos <em>Paramecium</em> foram aqueles que se verificaram em maior quantidade nas três infusões vistas. Destaca-se a existência de uma enorme quantidade dos mesmos na infusão B. Em segundo lugar, destacam-se os microrganismos *Opalina*, que foram possíveis encontrar na infusão A. Também se verificaram, mas em menor quantidade, os seres vivos <em>Closterium</em> e <em>Spirostomum</em>}.
 
 As infusões foram preparadas, não com a água da rede pública, mas com águas de outras fontes como, por exemplo, de um riacho. Não é aconselhável o uso de água da rede pública, pois como esta é tratada, acaba por ter uma quantidade ínfima de microrganismos, não se desenvolvendo quantidades razoáveis.
 
@@ -241,10 +224,10 @@ Em suma, o procedimento da atividade foi efetuado com sucesso, os resultados coi
 ## Referências
 
 
-[1] Grupo Virtuous. (s.d.). _Tecido epitelial._ Obtido em 18 de fevereiro de 2014, de Só Biologia: [sobiologia.com.br/conteudos/Histologia/epitelio3.php](http://sobiologia.com.br/conteudos/Histologia/epitelio3.php)
+[1] Grupo Virtuous. (s.d.). *Tecido epitelial.* Obtido em 18 de fevereiro de 2014, de Só Biologia: [sobiologia.com.br/conteudos/Histologia/epitelio3.php](http://sobiologia.com.br/conteudos/Histologia/epitelio3.php)
 
-[2] Porto Editora. (s.d.). _A célula – unidade de estrutura e função._ Obtido em 18 de fevereiro de 2014, de Escola Virtual: [escolavirtual.pt/assets/conteudos/downloads/cpbio/cpbioa1020401.pdf](http://escolavirtual.pt/assets/conteudos/downloads/cpbio/cpbioa1020401.pdf)
+[2] Porto Editora. (s.d.). *A célula – unidade de estrutura e função.* Obtido em 18 de fevereiro de 2014, de Escola Virtual: [escolavirtual.pt/assets/conteudos/downloads/cpbio/cpbioa1020401.pdf](http://escolavirtual.pt/assets/conteudos/downloads/cpbio/cpbioa1020401.pdf)
 
-[3] Priberam. (s.d.). _Dicionário Priberam da Língua Portuguesa._ Obtido em 18 de fevereiro de 2014, de Priberam: [priberam.pt](http://priberam.pt)
+[3] Priberam. (s.d.). *Dicionário Priberam da Língua Portuguesa.* Obtido em 18 de fevereiro de 2014, de Priberam: [priberam.pt](http://priberam.pt)
 
 [4] Vector Graphics Trees Nature, consultado a 22 de fevereiro de 2015 em [1zoom.me/en/wallpaper/356001/z5070.7](http://1zoom.me/en/wallpaper/356001/z5070.7)

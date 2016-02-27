@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -331,7 +335,7 @@ code {
 
 .site-header {
   background-color: #fff;
-  border-bottom: .1em solid rgba(0,0,0,0.1);
+  border-bottom: .1em solid rgba(0, 0, 0, 0.1);
 }
 
 .site-header.colored {
@@ -396,7 +400,7 @@ code {
 }
 
 .site-nav a:hover {
-  background-color: rgba(0,0,0,0.07);
+  background-color: rgba(0, 0, 0, 0.07);
 }
 
 
@@ -579,11 +583,19 @@ article header h1 {
 article p,
 article h2,
 article h3,
+article h4,
+article h5,
 article ul,
-article ol {
+article ol,
+article table {
   margin: 1em auto;
   width: 90%;
   max-width: 650px;
+}
+
+article ul,
+article ol {
+  padding-left: 3em;
 }
 
 article h2 {
@@ -603,14 +615,61 @@ article figure.small {
   width: 25em;
 }
 
+article table {
+  color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+article td,
+article th {
+  border: 1px solid transparent;
+  /* No more visible border */
+  height: 30px;
+  transition: all 0.3s;
+  /* Simple transition for hover effect */
+}
+
+article th {
+  background: #DFDFDF;
+  /* Darken header a bit */
+  font-weight: bold;
+}
+
+article td {
+  background: #FAFAFA;
+  text-align: center;
+}
+
+
+/* Cells in even rows (2,4,6...) are one color */
+
+tr:nth-child(even) td {
+  background: #F1F1F1;
+}
+
+
+/* Cells in odd rows (1,3,5...) are another (excludes header cells)  */
+
+tr:nth-child(odd) td {
+  background: #FEFEFE;
+}
+
+tr td:hover {
+  background: #666;
+  color: #FFF;
+}
+
+
+/* Hover cell effect! */
+
 
 /* ARTICLE FOOTER */
 
 .discussion {
-  background-color: #f1f1f1;
-  padding: 1em 0;
   box-sizing: border-box;
-  margin: 0 0 -1.5em 0;
+  margin-bottom: -1.5em;
 }
 
 .discussion h2 {
@@ -640,7 +699,7 @@ article figure.small {
   -webkit-flex-grow: 1;
   -ms-flex-positive: 1;
   flex-grow: 1;
-  border-radius: 1em;
+  /* border-radius: 1em; */
   box-sizing: content-box;
   display: inline-block;
   background-color: rgba(0, 0, 0, 0.84);
@@ -704,12 +763,12 @@ article figure.small {
 }
 
 .pagination > li:first-child > a {
-  float:left;
+  float: left;
   margin-left: -0.5em;
 }
 
 .pagination > li:last-child > a {
-  float:right;
+  float: right;
   margin-right: -0.5em;
 }
 
@@ -766,8 +825,9 @@ form textarea {
 form input[type="button"],
 form input[type="submit"] {
   border: 0;
-  background-color: #2CBBBB;
+  background-color: rgba(0, 0, 0, 0.5);
   display: inline-block;
+  transition: .2s ease all;
   cursor: pointer;
   color: #FFFFFF;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -779,9 +839,7 @@ form input[type="submit"] {
 
 form input[type="button"]:hover,
 form input[type="submit"]:hover {
-  background: -webkit-linear-gradient(top, #34CACA 5%, #30C9C9 100%);
-  background: linear-gradient(to bottom, #34CACA 5%, #30C9C9 100%);
-  background-color: #34CACA;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 #particles-js {
@@ -794,11 +852,16 @@ form input[type="submit"]:hover {
 }
 
 .video-player {
+  width: 100%;
+  margin: 1em auto;
+  max-width: 50em;
+  display: block;
   position: relative;
-  padding-bottom: 56.25%;
-  /* 16:9 */
-  padding-top: 25px;
-  height: 0;
+}
+.video-player:after {
+  padding-top: 56.25%;
+  display: block;
+  content: '';
 }
 
 .video-player iframe {
@@ -1035,9 +1098,11 @@ form input[type="submit"]:hover {
 /* NEWSLETTER */
 
 .newsletter {
-  margin: -1.5em 0 1.5em;
   padding: 1.5em;
+  box-sizing: border-box;
   text-align: center;
+  background-color: #FFC107;
+  color: #212121;
 }
 
 .newsletter h2 {
@@ -1045,13 +1110,14 @@ form input[type="submit"]:hover {
 }
 
 .newsletter input[type="text"] {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: #FFF;
   border: 0;
   border-top-left-radius: 0.5em;
   border-bottom-left-radius: 0.5em;
   display: inline-block;
   width: auto;
   min-width: 16em;
+  color: #212121;
 }
 
 .newsletter input[type="submit"] {
