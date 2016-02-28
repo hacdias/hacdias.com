@@ -16,8 +16,8 @@ title = "Henrique Dias"
 
 [params]
   Analytics = "59697241-1"
-  Description = "I'm Henrique Dias, portuguese and I live in Portugal. I am attending secondary school in a course called “Science and Technology” that I hope finish in 2017."
-  Image = "images/home.jpg"
+  Description = "Henrique Dias is a portuguese young student who loves to code and wants to help the humankind. Author at Pplware. Loves music too."
+  Image = "home"
   [params.Webmaster]
     Bing = "B471CBBC9EF6900039C6BBF251EF277C"
     Google = "nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY"
