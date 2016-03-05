@@ -1,18 +1,20 @@
----
-type: post
-author:         "Henrique Dias"
-title:          "How to create a Node.js command-line application"
-date: 2015-03-31 18:55:49+00:00
-description:    "Node.js is one of the trends in the programming world. Let's learn how to create node.js command-line applications."
-image:     "nodejscli"
-color: "#403c32"
-categories:
-- Tutorials
-tags:
-- JavaScript
-- Node.js
-- Tutorial
----
+{
+  "author": "Henrique Dias",
+  "categories": [
+    "Tutorials"
+  ],
+  "color": "#403c32",
+  "date": "2015-03-31T18:55:49",
+  "description": "Node.js is one of the trends in the programming world. Let's learn how to create node.js command-line applications.",
+  "image": "nodejscli",
+  "tags": [
+    "JavaScript",
+    "Node.js",
+    "Tutorial"
+  ],
+  "title": "How to create a Node.js command-line application",
+  "type": "post"
+}
 
 Nowadays, **[node.js](https://nodejs.org/)** is one of the technologies which is always talked about when the subject is related with real-time applications or even [CLI ](http://en.wikipedia.org/wiki/Command-line_interface)(Command-line interface) apps.
 
@@ -20,7 +22,7 @@ Node.js is a cross-platform platform (which is very redundant) built on Chrome's
 
 [Bower](/tutorials/como-utilizar-o-bower-um-gestor-de-pacotes-web/), for example, is a very useful tool built in the top of node.js. We can take advantage of the fact of node.js be cross-platform to create CLI apps which can serve  everyone.
 
-CLI application can be very useful to task automation, to do repetitive tasks we do everyday, etc. Bower, that I've already mentioned, is useful because it installs and updates all of the front-end dependencies automatically.
+CLI applications can be very useful to task automation, to do repetitive tasks we do everyday, etc. Bower, that I've already mentioned, is useful because it installs and updates all of the front-end dependencies automatically.
 
 So, the purpose of this article is helping you creating a command-line interface application with node.js.
 
@@ -91,9 +93,11 @@ The second one, bin , is used to tell the commands which will be available to u
 
 ## Output some data
 
-Then we are going to create the ```bin/mycliapp.js``` file which will have all of the application logic (in this case, it can be divided into various files). Create it, and simply add the following line of code to print an Hello World:
+Then we are going to create the ```bin/mycliapp.js``` file which will have all of the application logic (in this case, it can be divided into various files). Create it, and simply add the following code to print an Hello World:
 
 ```javascript
+#! /usr/bin/env node
+
 console.log('Hello, World!');
 ```
 
@@ -153,7 +157,7 @@ You can get more information about this module [here](https://nodejs.org/api/rea
 
 There are a lot of ways to read arguments. There's some third-party packages which helps the user doing it, like [```commander```](https://www.npmjs.com/package/commander), but we are going to do it manually to see how does it work.
 
-Remember the process  object? It also contains the arguments. Let's experiment. Write the following code of line in bin/mycliapp. You might remove all of the previous code or comment it.
+Remember the process  object? It also contains the arguments. Let's experiment. Write the following code of line in ```bin/mycliapp```. You might remove all of the previous code or comment it.
 
 ```javascript
 console.log(process.argv);
@@ -190,14 +194,6 @@ if (args[0] === 'sayhello') {
 ```
 
 
-Simple, but effective.
-
-
-
-* * *
-
-
-
-Now, go on and create your CLI application with Node.js :)
+Simple, but effective. Now, go on and create your CLI application with Node.js :)
 
 I hope you have enjoyed this tutorial of how to create node.js command-line applications. If you have some doubts, you may use the comments or the [contact page](/contact/).
