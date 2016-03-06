@@ -1,18 +1,18 @@
----
-draft: true
-type: post
-author:         "Henrique Dias"
-title:          "Hello, world!"
-date:           2016-03-05T10:25:00
-description:    ""
-image: "under-the-woods"
-categories:
-- Newsletters
-tags:
-- first newsletter
-- hello world
----
-
+{
+  "author": "Henrique Dias",
+  "categories": [
+    "Newsletters"
+  ],
+  "date": "2016-03-05T10:25:00",
+  "description": "This is the first newsletter issue I'm writing. Today, I leave you with some posts I recommend you, an inspiring phrase and the reasons made me start this!",
+  "image": "under-the-woods",
+  "tags": [
+    "first newsletter",
+    "hello world"
+  ],
+  "title": "Hello, World!",
+  "type": "post"
+}
 
 Hello, world!
 
@@ -31,6 +31,8 @@ And why calling it **Stuff I'm Thinking**? Hmm... well... the truth is it was on
 
 Right now, I'm not really sure about the frequency, but it will start being monthly, in the first weekend of each month, or twice a month. It's going to contain whatever I remember to put on it: images, quotes, posts, stupid stuff?
 
+This will also be published on my website, under [henriquedias.com/newsletters](https://henriquedias.com/newsletters). 
+
 ## Posts you should read
 
 + **O Cibernaura: 5 Stories to Read This Weekend:** this was the first post of [Malik Piarali](https://twitter.com/malikpiarali) as "O Cibernauta". He recommends 5 amazing posts that are well related with the current scenario of society, personal branding, technology.  [[Medium]](O Cibernauta: 5 Stories to Read This Weekend)
@@ -38,4 +40,4 @@ Right now, I'm not really sure about the frequency, but it will start being mont
 + **Why should I learn Programming?:** I personally love Quora. I see myself reading questions and answers all the time. This was one that interested me a lot, and mainly it's most up voted answer (from an anonymous user). Read it. [[Quora]](https://www.quora.com/Why-should-I-learn-Programming)
 + **10 Incredible Quotes To Guide Your Life:** a collection of 10 literally incredible quotes, along with the post author's  Jon Westenberg opinion. Those quotations can make  you think a little bit more about your life. [[Medium]](https://medium.com/life-learning/10-incredible-quotes-to-guide-your-life-355aab49fcf4)
 
-This is all for today! I'll catch you, later.
+This is all for today! I'll catch you, later. Don't forget to reply, and/or comment on that post. Am I doing well? What do you think about the stuff I sent to you? What do you want to see?

@@ -1,22 +1,26 @@
----
-type:           post
-author:         "Henrique Dias"
-title:          "GitHub Profile Widget for WordPress"
-date:           2015-08-06T09:45:00Z
-description:    "Now it is time for a new plugin. This time is for GitHub. Every developer should show their GitHub profile on their blog."
-image:          "github-widget"
-color: "#19191b"
-categories:
-- General
-tags:
-- WordPress
-- Plugins
-- GitHub
----
+{
+  "author": "Henrique Dias",
+  "categories": [
+    "General"
+  ],
+  "color": "#19191b",
+  "date": "2015-08-06T09:45:00",
+  "description": "Now it is time for a new plugin. This time is for GitHub. Every developer should show their GitHub profile on their blog.",
+  "image": "github-widget",
+  "tags": [
+    "WordPress",
+    "Plugins",
+    "GitHub"
+  ],
+  "title": "GitHub Profile Widget for WordPress",
+  "type": "post"
+}
 
 Luís Soares and I have created two plugins for WordPress: one for [HackerRank](/general/hackerrank-widget-for-wordpress/) and another for [IMDb](/general/your-imdb-profile-on-your-wordpress-website/). Today, we announce a new plugin for WordPress which has been available since last month: **GitHub Profile Widget**.
 
 Even the developers should have an easy way to show their work on their own blog. So we created this brand new plugin for WordPress. This plugin gives you a widget to show your GitHub profile or an organization's profile in your blog. It's very simples to setup.
+
+{{< figure src="/images/github-plugin-2.jpg" caption="The front-end" alt="The front-end" >}}
 
 ## Features
 
@@ -27,6 +31,8 @@ Even the developers should have an easy way to show their work on their own blog
 + The organizations where you are included.
 
 It is available for [download here](https://wordpress.org/plugins/github-profile-widget) or just search "GitHub Profile Widget" on your WordPress dashboard.
+
+{{< figure src="/images/github-plugin-1.jpg" caption="The back-end" alt="The back-end" >}}
 
 ## Technologies and Tips
 
