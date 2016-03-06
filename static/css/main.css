@@ -669,15 +669,10 @@ tr td:hover {
   color: #FFF;
 }
 
-
-/* Hover cell effect! */
-
-
 /* ARTICLE FOOTER */
 
 .discussion {
   box-sizing: border-box;
-  margin-bottom: -1.5em;
 }
 
 .discussion h2 {
@@ -1148,6 +1143,15 @@ form input[type="submit"]:hover {
   height: 45px;
   border-top-right-radius: 0.5em;
   border-bottom-right-radius: 0.5em;
+}
+
+@media (min-width: 400px) {
+  .buttons .prev div::after {
+    content: ' Previous'
+  }
+  .buttons .next div::before {
+    content: ' Next'
+  }
 }
 
 @media (max-width: 900px) {

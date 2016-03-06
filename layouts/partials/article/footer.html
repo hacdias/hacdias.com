@@ -2,7 +2,7 @@
   <div class="buttons container sans">
     {{ if not (eq .Type "photography") }}{{ if .Next }}
     <a href="{{ .Next.Permalink  }}" class="prev">
-      <div>Previous</div>
+      <div></div>
     </a>{{ end }}{{ end }}
     <a class="twitter social" target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Social.Twitter }}">
       <div><i class="fa fa-twitter"></i></div>
@@ -18,7 +18,7 @@
     </a>
     {{ if not (eq .Type "photography") }}{{ if .Prev }}
     <a href="{{ .Prev.Permalink  }}" class="next">
-      <div>Next</div>
+      <div></div>
     </a>{{ end }}{{ end }}
   </div>
   <div style="clear:both"></div>
