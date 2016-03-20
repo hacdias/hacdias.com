@@ -1,6 +1,6 @@
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}"/>
-<meta name="twitter:title" content="{{ if .IsHome }}It's Henrique Dias{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}"/>
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}"/>
 <meta name="twitter:site" content="@{{ .Site.Social.Twitter }}"/>
 <meta name="twitter:domain" content="{{ .Site.Title }}"/>
 <meta name="twitter:image:src" content="{{ .Site.BaseURL }}images/{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.Image }}{{ end }}.jpg"/>

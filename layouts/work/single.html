@@ -1,9 +1,0 @@
-{{ partial "header" . }}
-
-<main role="main" class="mosaic">
-	{{ range $.Site.Data.projects.projects }}
-  {{ partial "mosaic/common" . }}
-  {{ end }}
-</main>
-
-{{ partial "footer" . }}

@@ -128,7 +128,7 @@ pre {
 
 .hljs {
   padding: 1.6em !important;
-  max-width: 1000px;
+  max-width: 850px;
   background-color: #eee !important;
   margin: 0 auto;
 }
@@ -774,12 +774,12 @@ tr td:hover {
   padding: 0 .5em;
 }
 
-.pagination > li:first-child > a {
+.pagination > .prev > a {
   float: left;
   margin-left: -0.5em;
 }
 
-.pagination > li:last-child > a {
+.pagination > .next > a {
   float: right;
   margin-right: -0.5em;
 }
@@ -1250,6 +1250,7 @@ form input[type="submit"]:hover {
 @media print {
   body {
     padding-top: 0;
+    background-color: #fff;
   }
   table,
   figure {

@@ -1,0 +1,21 @@
+{{ partial "header" . }}
+
+<main role="main">
+
+  <article>
+    <header class="sans">
+			<div>
+      	<h1>Portfolio</h1>
+			</div>
+    </header>
+
+    <div class="mosaic">
+      {{ range $.Site.Data.projects.projects }}
+      {{ partial "mosaic/common" . }}
+      {{ end }}
+    </div>
+
+  </article>
+</main>
+
+{{ partial "footer" . }}

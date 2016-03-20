@@ -7,8 +7,8 @@
     </li>
     {{ end }}
     {{ if $pag.HasNext}}
-    <li>
-    <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next"><span aria-hidden="true">next &raquo;</span></a>
+    <li class="next">
+      <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next"><span aria-hidden="true">next &raquo;</span></a>
     </li>
     {{ end }}
 </ul>
