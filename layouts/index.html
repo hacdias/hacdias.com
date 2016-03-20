@@ -3,7 +3,8 @@
 <main role="main">
 
 	<div class="site-heading sans">
-		<img src="/henrique.png">
+		<img id="cover" src="/images/cover.jpg">
+		<img id="profile" src="/henrique.png">
 		<h2>Henrique Dias</h2>
 	</div>
 
@@ -12,7 +13,7 @@
 		{{ range $paginator.Pages }}
 		{{ partial "mosaic/common" . }}
 		{{ end }}
-		{{ partial "pagination" . }}		
+		{{ partial "pagination" . }}
 	</div>
 
 </main>

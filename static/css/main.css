@@ -320,14 +320,25 @@ code {
 /* SITE HEADING */
 
 .site-heading {
-  max-width: 95%;
-  margin: 1.5em auto;
+  margin: 0 auto 1.5em;
   text-align: center;
 }
 
-.site-heading img {
+.site-heading #profile {
   width: 7em;
+  height: 7em;
   border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.site-heading #cover {
+  display: block;
+  width: 100%;
+  max-height: 28em;
+  -o-object-fit: cover;
+  object-fit: cover;
+  margin-bottom: -4em;
 }
 
 .site-heading h2 {
@@ -586,6 +597,7 @@ article header h1 {
 
 .container,
 article p,
+article hr,
 article h2,
 article h3,
 article h4,
