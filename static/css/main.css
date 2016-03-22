@@ -320,7 +320,7 @@ code {
 /* SITE HEADING */
 
 .site-heading {
-  margin: 0 auto 1.5em;
+  margin: 1.5em auto;
   text-align: center;
 }
 
@@ -330,15 +330,6 @@ code {
   border-radius: 50%;
   display: block;
   margin: 0 auto;
-}
-
-.site-heading #cover {
-  display: block;
-  width: 100%;
-  max-height: 28em;
-  -o-object-fit: cover;
-  object-fit: cover;
-  margin-bottom: -4em;
 }
 
 .site-heading h2 {

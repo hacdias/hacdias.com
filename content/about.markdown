@@ -1,7 +1,7 @@
 {
   "color": "rgb(44, 41, 38)",
   "description": "What do you want to know about me?",
-  "image": "about",
+  "image": "cover",
   "title": "About",
   "type": "page"
 }
