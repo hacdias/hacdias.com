@@ -628,6 +628,7 @@ article figure {
 
 article figure.full {
   width: 100%;
+  max-width: 100%;
 }
 
 article figure.small {
