@@ -673,6 +673,7 @@ tr td:hover {
   color: #FFF;
 }
 
+
 /* ARTICLE FOOTER */
 
 .discussion {
@@ -893,8 +894,7 @@ form input[type="submit"]:hover {
 
 /* PHOTOGRAPHY */
 
-.photography,
-.photography .container {
+.photography {
   background-color: #020202;
   color: #fff;
 }
@@ -952,13 +952,14 @@ form input[type="submit"]:hover {
 }
 
 .photography article footer {
-  max-width: 90%;
-  margin: 0 auto;
+  max-width: 100%;
+  padding: 1em 0;
+  margin: 0 auto -1.5em;
+  background-color: #F1F1F1;
 }
 
 .photography article footer .discussion {
-  max-width: 700px;
-  margin: 0 auto;
+  color: #212121;
 }
 
 .photo {
@@ -1030,7 +1031,7 @@ form input[type="submit"]:hover {
   color: rgba(255, 255, 255, 0.8);
 }
 
-.photography .container {
+.photography article {
   max-width: 100% !important;
   width: 100% !important;
   padding: 0 !important;
