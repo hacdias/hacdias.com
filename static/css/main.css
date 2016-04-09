@@ -325,10 +325,11 @@ code {
 }
 
 .site-heading #profile {
-  width: 7em;
-  height: 7em;
+  width: 8em;
+  height: 8em;
   border-radius: 50%;
   display: block;
+  border: .2em solid #F1F1F1;
   margin: 0 auto;
 }
 
