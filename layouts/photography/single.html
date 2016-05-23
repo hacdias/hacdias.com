@@ -1,31 +1,79 @@
 {{ partial "header" . }}
 
-<div class="single">
-  {{ if isset .Params "image" }}
-  <img src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">
-  {{ end }}
+<link rel="stylesheet" href="/css/vendor/photoswipe.css">
+<link rel="stylesheet" href="/css/vendor/default-skin/default-skin.css">
 
-  <article class="container">
-    <header class="sans">
-      <h1>{{ .Title }}</h1>
-      <a href="https://www.google.com/maps/@{{ .Params.lat }},{{ .Params.lon }},13z"><h2>Coordinates: {{ .Params.lat }}, {{ .Params.lon }}</h2></a>
+<div class="single sans">
+  <article>
+    <header>
+      <h1>{{ .Title }}</h1><span> // <a href="https://www.google.com/maps/@{{ .Params.lat }},{{ .Params.lon }},13z">Coordinates: {{ .Params.lat }}, {{ .Params.lon }}</a></span>
+      <p>{{.Description}}</p>
     </header>
 
-    {{ .Content }}
+    {{ $photos := index .Site.Data .Params.data "gallery" }}
+    <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+        {{ range $photos }}
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="{{ .url }}" itemprop="contentUrl" data-size="2000x1124">
+                <img data-echo="{{ .url }}" src="/images/loading.gif" itemprop="thumbnail" alt="Image description" />
+            </a>
+            {{ if isset . "caption" }}
+            <figcaption itemprop="caption description">{{ .caption }}</figcaption>
+            {{ end }}
+        </figure>
+        {{ end }}
+    </div>
+
+
     {{ partial "article/footer" . }}
   </article>
 </div>
 
-<script src="/js/echo.min.js"></script>
-<script>
-echo.init({
-  offset: 100,
-  throttle: 250,
-  unload: false,
-  callback: function (element, op) {
-    console.log(element, 'has been', op + 'ed')
-  }
-});
-</script>
+<div class="pswp sans" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="/js/vendor/photoswipe.min.js"></script>
+<script src="/js/vendor/photoswipe-ui-default.min.js"></script>
+<script src="/js/vendor/echo.min.js"></script>
+<script src="/js/gallery.js"></script>
 
 {{ partial "footer" . }}
