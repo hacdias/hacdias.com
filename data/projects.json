@@ -14,7 +14,6 @@
       "image": "portfolio/pplware",
       "color": "#072559"
     },
-
     "Description": "It is a portuguese project which is mainly based on technology news and tutorials. But it also has a lot of other strands. I write news and articles about programming for Pplware."
   }, {
     "Title": "GitHub Profile Widget",
@@ -23,7 +22,6 @@
       "image": "portfolio/github-widget",
       "color": "#000"
     },
-
     "Description": "Shows your GitHub profile or organization in your WordPress blog. It's very easy to setup. You just have to put your username (or organization's slug) and select the things you want to show."
   }, {
     "Title": "IMDB Profile Widget",
@@ -32,7 +30,6 @@
       "image": "portfolio/imdb-widget",
       "color": "#FFC107"
     },
-
     "Description": "Show your IMDb profile in your WordPress blog as an widget. It's very simple to use. You just have to put your IMDb user id."
   }, {
     "Title": "Smart Scraper",
@@ -41,7 +38,6 @@
       "image": "portfolio/smart-scraper",
       "color": "#4F5D95"
     },
-
     "Description": "PHP scraper to scrape information from web pages. It can help you doing that horrible tasks in a very easy and smart way."
   }, {
     "Title": "WPSync",
@@ -50,7 +46,6 @@
       "image": "portfolio/wpsync",
       "color": "#375eab"
     },
-
     "Description": "Sync a Git or SVN repository with the WordPress Plugin's SVN. Useful for those who use a separate repository for development."
   }, {
     "Title": "HackerRank Profile Widget",
@@ -59,7 +54,6 @@
       "image": "portfolio/hackerrank-widget",
       "color": "#2ec866"
     },
-
     "Description": "Shows some information about an HackerRank’s profile. It supports badges, contests, challenges, discussions, etc."
   }, {
     "Title": "Aprenda a Programar",
@@ -68,7 +62,6 @@
       "image": "portfolio/aprenda-a-programar",
       "color": "#2B91E5"
     },
-
     "Description": "Ebook created with the objective to teach the young learners the amazing language C. It was made with the help of the Pplware community.."
   }, {
     "Title": "sitify",
@@ -77,7 +70,6 @@
       "image": "portfolio/sitify",
       "color": "#f1e05a"
     },
-
     "Description": "An hosts file manager and virtual hosts manager."
   }, {
     "Title": "InMVC",
@@ -86,17 +78,14 @@
       "image": "portfolio/inmvc",
       "color": "#2196F3"
     },
-
     "Description": "Homemade PHP framework that uses the MVC model."
   }, {
     "Title": "COXPE – Code Experts",
     "Permalink": "#",
-
     "Params": {
       "color": "#92AFC8",
       "image": "portfolio/coxpe"
     },
-
     "Description": "It was a blog where I posted a lot of tutorials about programming. In the end it merged with my personal website you're seeing now."
   }]
 }

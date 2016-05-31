@@ -1,20 +1,36 @@
 {{ partial "header" . }}
 
-<main role="main">
-
-	<div class="site-heading sans">
+<main role="main" class="home container sans">
+	<div class="site-heading">
 		<img id="profile" src="/henrique.png">
 		<h2>Henrique Dias</h2>
+		<p>I'm an young student at the age of 16. I write content at Pplware, a portuguese tech blog, and I'm passionate with programming and everything related to it. I am someone who loves the idea of improving the world using technology. Trying to be smart.</p>
 	</div>
 
-	<div class="mosaic sans">
-		{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-		{{ range $paginator.Pages }}
-		{{ partial "mosaic/common" . }}
-		{{ end }}
-		{{ partial "pagination" . }}
+	<h2>I do stuff</h2>
+
+	<div class="calendar">{{ partial "github" }}</div>
+
+	<h2>I like to write</h2>
+	<div class="mosaic">
+			{{ range first 6 (where .Data.Pages "Type" "post") }}
+			{{ partial "mosaic/common" . }}
+			{{ end }}
 	</div>
 
+	<h2>I capture moments</h2>
+
+	<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+			{{ range .Site.Data.instagram }}
+			<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+					<a href="{{ .link }}" itemprop="contentUrl">
+							<img src="{{ .url }}" itemprop="thumbnail" alt="{{ .caption }}" />
+					</a>
+			</figure>
+			{{ end }}
+	</div>
+
+	<h2>I get involved</h2>
 </main>
 
 {{ partial "footer" . }}
