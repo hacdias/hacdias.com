@@ -1,0 +1,21 @@
+{{ partial "header" . }}
+
+<main role="main" class="work">
+  {{ range $.Site.Data.projects }}
+  <article>
+    <header style="background-color: {{ .color }}" class="sans">
+      	<h2>{{ .title }}</h2>
+        {{ if .tagline }}<h3>{{ .tagline }}</h2>{{ end }}
+    </header>
+    <div class="container">
+    {{ if .short }}{{ partial (printf "work/%s.html" .short)  }}{{ end }}
+    <a href="{{ .link }}"><div class="button" style="background-color: {{.color}};" >
+      <div>{{ if .button }}{{ .button }}{{ else }}View website{{ end }}</div>
+    </div></a>
+    </div>
+
+  </article>
+  {{ end }}
+</main>
+
+{{ partial "footer" . }}

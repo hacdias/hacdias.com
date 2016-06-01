@@ -1,36 +1,45 @@
 {{ partial "header" . }}
 
-<main role="main" class="home container sans">
+<main role="main" class="home sans">
 	<div class="site-heading">
 		<img id="profile" src="/henrique.png">
 		<h2>Henrique Dias</h2>
-		<p>I'm an young student at the age of 16. I write content at Pplware, a portuguese tech blog, and I'm passionate with programming and everything related to it. I am someone who loves the idea of improving the world using technology. Trying to be smart.</p>
+		<p>I'm a young student at the age of 16. I'm passionate with programming and every single thing that can be related to it. I am someone who loves the idea of improving the world using technology. If there is so much bad things that can be done with technology, why not do good stuff instead? Trying to be smart.</p>
 	</div>
-
-	<h2>I do stuff</h2>
+	<hr style="    margin: 1em auto;
+    width: 95%;
+    max-width: 15em;">
 
 	<div class="calendar">{{ partial "github" }}</div>
 
-	<h2>I like to write</h2>
-	<div class="mosaic">
-			{{ range first 6 (where .Data.Pages "Type" "post") }}
-			{{ partial "mosaic/common" . }}
-			{{ end }}
+	<div>
+		<div class="container">
+			<h2>Sometimes I write</h2>
+			<hr>
+			<div class="mosaic">
+					{{ range first 6 (where .Data.Pages "Type" "post") }}
+					{{ partial "mosaic/common" . }}
+					{{ end }}
+			</div>
+		</div>
 	</div>
 
-	<h2>I capture moments</h2>
-
-	<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
-			{{ range .Site.Data.instagram }}
-			<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-					<a href="{{ .link }}" itemprop="contentUrl">
-							<img src="{{ .url }}" itemprop="thumbnail" alt="{{ .caption }}" />
-					</a>
-			</figure>
-			{{ end }}
+	<div class="container">
+		<h2>I capture moments</h2>
+		<hr>
+		<div class="moments" itemscope itemtype="http://schema.org/ImageGallery">
+				{{ range .Site.Data.instagram }}
+				<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+						<a href="{{ .link }}" itemprop="contentUrl">
+								<img src="{{ .url }}" itemprop="thumbnail" alt="{{ .caption }}" />
+						</a>
+				</figure>
+				{{ end }}
+		</div>
 	</div>
 
 	<h2>I get involved</h2>
+	<hr>
 </main>
 
 {{ partial "footer" . }}

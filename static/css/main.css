@@ -11,7 +11,7 @@ body {
     font: normal 1em/1.6 'Lora', serif;
     color: #212121;
     /* background-color: #90CAF9; */
-    padding: 4em 0 0 0;
+    padding: 0;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
     display: block;
@@ -44,8 +44,11 @@ dfn {
 }
 h1 {
     font-size: 2em;
-    margin: 0.67em 0;
+    /* margin: 0 0 0.67em; */
+    /* padding: 1.5em 0; */
     text-align: center;
+    /* background-color: #0D47A1; */
+    /* color: #fff; */
 }
 mark {
     background: #ff0;
@@ -223,41 +226,39 @@ code {
 /* SITE HEADING */
 
 .site-heading {
-    margin: 1.5em auto;
     text-align: center;
 }
 .site-heading #profile {
     width: 6em;
-    /* height: 8em; */
     border-radius: 50%;
     display: block;
-    /* border: .2em solid #F1F1F1; */
-    margin: 0 auto;
+    margin: 1em auto 0;
 }
 .site-heading h2 {
     margin: 0;
     font-size: 3em;
 }
 .site-heading p {
-  max-width: 600px;
-  width: 90%;
-  margin: 0 auto;
-  text-align: left;
-  color: rgba(0,0,0,0.7);
+    max-width: 600px;
+    width: 90%;
+    margin: 1em auto;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.7);
 }
 
 /* SITE HEADER */
 
 .site-header {
-    background-color: #fff;
+    background-color: #000;
     border-bottom: .1em solid rgba(0, 0, 0, 0.1);
-    border-top: .3em solid #1565C0;
-    position: fixed;
+    /* border-top: .3em solid #1565C0; */
+    /* position: fixed; */
     top: 0;
     left: 0;
     width: 100%;
     z-index: 999;
     /* color: #1565C0; */
+    /* box-shadow: 0 1px 3px rgba(0,0,0,.06),0 1px 2px rgba(0,0,0,.12); */
 }
 .site-header.colored {
     color: #fff;
@@ -268,7 +269,7 @@ code {
     margin: 0 auto;
 }
 .site-header a {
-    color: inherit;
+    color: #fff;
 }
 .site-title {
     display: none;
@@ -363,9 +364,6 @@ code {
 .sans {
     font: 400 1em/1.5 'Roboto', "Helvetica Neue", Arial, sans-serif;
 }
-.monospace {
-  font-family:'Roboto Mono', monospace;
-}
 .sans strong {
     font-weight: 500;
 }
@@ -374,78 +372,85 @@ code {
     -o-object-fit: cover;
     object-fit: cover;
 }
-
 .blink {
-  font-weight: 100;
-  font-size: 30px;
-  color: #2E3D48;
-  -webkit-animation: 1s blink step-end infinite;
-  -moz-animation: 1s blink step-end infinite;
-  -ms-animation: 1s blink step-end infinite;
-  -o-animation: 1s blink step-end infinite;
-  animation: 1s blink step-end infinite;
+    font-weight: 100;
+    font-size: 30px;
+    color: #2E3D48;
+    -webkit-animation: 1s blink step-end infinite;
+    -moz-animation: 1s blink step-end infinite;
+    -ms-animation: 1s blink step-end infinite;
+    -o-animation: 1s blink step-end infinite;
+    animation: 1s blink step-end infinite;
 }
-
 @keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+    from, to {
+        color: transparent;
+    }
+    50% {
+        color: white;
+    }
 }
-
 @-moz-keyframes blink {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+    from, to {
+        color: transparent;
+    }
+    50% {
+        color: white;
+    }
 }
-
 @-webkit-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+    from, to {
+        color: transparent;
+    }
+    50% {
+        color: white;
+    }
 }
-
 @-ms-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+    from, to {
+        color: transparent;
+    }
+    50% {
+        color: white;
+    }
 }
-
 @-o-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+    from, to {
+        color: transparent;
+    }
+    50% {
+        color: white;
+    }
 }
 
 /* HOME */
-.home.container {
-  max-width: 1000px !important;
-}
 
+.home .container {
+    max-width: 1000px !important;
+}
 .home .mosaic {
-  width: 100%;
-  max-width: none;
+    width: 100%;
+    max-width: none;
 }
-
-.home h2.monospace {
-  text-align: center;
-  /* padding: 2em 0; */
-  /* background-color: #000; */
-  /* color: #fff; */
+.home h2 {
+    text-align: center;
+    margin-bottom: .2em;
+}
+.home h2+hr {
+    margin: 0 auto 1.5em;
+    max-width: 9em;
+    border: 1px solid #2196F3;
+    width: 95%;
+}
+.home .moments {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    font-size: 0;
+}
+.home .moments figure {
+    flex-basis: 14%;
+    flex-grow: 1;
 }
 
 /* FOOTER */
@@ -542,6 +547,7 @@ article ul, article ol {
 }
 article h2 {
     margin: 0.83em auto;
+    text-align: center;
 }
 article figure.medium, article figure {
     max-width: 650px;
@@ -855,6 +861,7 @@ div.gallery:hover figure:hover {
     min-height: 16em;
     position: relative;
     /* background-color: #000; */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .06), 0 1px 2px rgba(0, 0, 0, .12);
 }
 .mosaic .item:hover {
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
@@ -884,8 +891,9 @@ div.gallery:hover figure:hover {
 }
 
 /* GITHUB CONTRIBUTIONS */
+
 .calendar {
-    width: 750px;
+    width: 600px;
     font-family: Helvetica, arial;
     /* border: 1px solid #DDDDDD; */
     /* border-radius: 3px; */
@@ -893,20 +901,20 @@ div.gallery:hover figure:hover {
     text-align: center;
     margin: 0 auto;
 }
-
-.calendar-graph text.wday,
-.calendar-graph text.month {
+.calendar-graph svg {
+    width: 100%;
+    height: auto;
+}
+.calendar-graph text.wday, .calendar-graph text.month {
     font-size: 10px;
     fill: #aaa;
 }
-
 .contrib-legend {
     text-align: right;
     padding: 0 14px 10px 0;
     display: inline-block;
     float: right;
 }
-
 .contrib-legend .legend {
     display: inline-block;
     list-style: none;
@@ -915,24 +923,20 @@ div.gallery:hover figure:hover {
     bottom: -1px;
     padding: 0;
 }
-
 .contrib-legend .legend li {
     display: inline-block;
     width: 10px;
     height: 10px;
 }
-
 .text-small {
     font-size: 12px;
     color: #767676;
 }
-
 .calendar-graph {
     padding: 5px 0 0;
-    height: 126px;
+    height: auto;
     text-align: center;
 }
-
 .contrib-column {
     padding: 15px 0;
     text-align: center;
@@ -940,11 +944,9 @@ div.gallery:hover figure:hover {
     border-top: 1px solid #ddd;
     font-size: 11px;
 }
-
 .contrib-column-first {
     border-left: 0;
 }
-
 .table-column {
     display: table-cell;
     width: 1%;
@@ -952,7 +954,6 @@ div.gallery:hover figure:hover {
     padding-left: 10px;
     vertical-align: top;
 }
-
 .contrib-number {
     font-weight: 300;
     line-height: 1.3em;
@@ -960,24 +961,20 @@ div.gallery:hover figure:hover {
     display: block;
     color: #333;
 }
-
 .calendar img.spinner {
     width: 70px;
     margin-top: 50px;
     min-height: 70px;
 }
-
 .monospace {
     text-align: center;
     color: #000;
     font-family: monospace;
 }
-
 .monospace a {
     color: #1D75AB;
     text-decoration: none;
 }
-
 .contrib-footer {
     font-size: 11px;
     padding: 0 10px 12px;
@@ -986,7 +983,6 @@ div.gallery:hover figure:hover {
     box-sizing: border-box;
     height: 26px;
 }
-
 .left.text-muted {
     float: left;
     margin-left: 9px;
@@ -996,11 +992,9 @@ div.gallery:hover figure:hover {
     color: #4078c0;
     text-decoration: none;
 }
-.left.text-muted a:hover,
-.monospace a:hover {
+.left.text-muted a:hover, .monospace a:hover {
     text-decoration: underline;
 }
-
 
 /* NEWSLETTER */
 
@@ -1161,4 +1155,53 @@ div.gallery:hover figure:hover {
     .discussion, .site-footer, article footer {
         display: none;
     }
+}
+
+/* WORK */
+
+.work article header {
+    background-color: #ccc;
+    padding: 16vh 0;
+    color: #fff;
+}
+.work article .container {
+    padding: 1em 0;
+    max-width: 100%;
+    width: 100%;
+}
+.work article img {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+.work article img.rounded {
+  border-radius: .3em;
+}
+.work .container a {
+    color: #212121;
+}
+.work h2 {
+    margin: 0 auto;
+}
+.work h3 {
+  text-align: center;
+  margin: 0 auto;
+  font-style: italic;
+  font-weight: 300;
+}
+.work .button {
+    text-align: center;
+    padding: 1px;
+    margin: 1em auto;
+    width: 100%;
+    max-width: 10em;
+}
+.work .button div {
+    background-color: #fff;
+    padding: .5em 1em;
+    transition: .1s ease all;
+}
+.work .button:hover div {
+    background-color: transparent;
+    color: #fff;
 }

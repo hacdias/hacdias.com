@@ -1,91 +1,40 @@
-{
-  "projects": [{
-    "Title": "caddy-hugo",
-    "Permalink": "https://github.com/hacdias/caddy-hugo",
-    "Params": {
-      "image": "portfolio/caddy-hugo",
-      "color": "#BF360C"
-    },
-    "Description": "Powerful and easy static site generator with admin interface. It is a plugin for Caddy webserver."
-  }, {
-    "Title": "Pplware",
-    "Permalink": "http://pplware.com",
-    "Params": {
-      "image": "portfolio/pplware",
-      "color": "#072559"
-    },
-    "Description": "It is a portuguese project which is mainly based on technology news and tutorials. But it also has a lot of other strands. I write news and articles about programming for Pplware."
-  }, {
-    "Title": "GitHub Profile Widget",
-    "Permalink": "//henriquedias.com/general/github-widget-wordpress/",
-    "Params": {
-      "image": "portfolio/github-widget",
-      "color": "#000"
-    },
-    "Description": "Shows your GitHub profile or organization in your WordPress blog. It's very easy to setup. You just have to put your username (or organization's slug) and select the things you want to show."
-  }, {
-    "Title": "IMDB Profile Widget",
-    "Permalink": "//henriquedias.com/general/your-imdb-profile-on-your-wordpress-website/",
-    "Params": {
-      "image": "portfolio/imdb-widget",
-      "color": "#FFC107"
-    },
-    "Description": "Show your IMDb profile in your WordPress blog as an widget. It's very simple to use. You just have to put your IMDb user id."
-  }, {
-    "Title": "Smart Scraper",
-    "Permalink": "https://github.com/refactors/smart-scraper",
-    "Params": {
-      "image": "portfolio/smart-scraper",
-      "color": "#4F5D95"
-    },
-    "Description": "PHP scraper to scrape information from web pages. It can help you doing that horrible tasks in a very easy and smart way."
-  }, {
-    "Title": "WPSync",
-    "Permalink": "https://github.com/hacdias/wpsync",
-    "Params": {
-      "image": "portfolio/wpsync",
-      "color": "#375eab"
-    },
-    "Description": "Sync a Git or SVN repository with the WordPress Plugin's SVN. Useful for those who use a separate repository for development."
-  }, {
-    "Title": "HackerRank Profile Widget",
-    "Permalink": "https://henriquedias.com/general/hackerrank-widget-for-wordpress/",
-    "Params": {
-      "image": "portfolio/hackerrank-widget",
-      "color": "#2ec866"
-    },
-    "Description": "Shows some information about an HackerRank’s profile. It supports badges, contests, challenges, discussions, etc."
-  }, {
-    "Title": "Aprenda a Programar",
-    "Permalink": "//henriquedias.com/general/aprenda-a-programar-o-e-book-gratuito-e-essencial/",
-    "Params": {
-      "image": "portfolio/aprenda-a-programar",
-      "color": "#2B91E5"
-    },
-    "Description": "Ebook created with the objective to teach the young learners the amazing language C. It was made with the help of the Pplware community.."
-  }, {
-    "Title": "sitify",
-    "Permalink": "https://www.npmjs.com/package/sitify",
-    "Params": {
-      "image": "portfolio/sitify",
-      "color": "#f1e05a"
-    },
-    "Description": "An hosts file manager and virtual hosts manager."
-  }, {
-    "Title": "InMVC",
-    "Permalink": "https://github.com/hacdias/inmvc",
-    "Params": {
-      "image": "portfolio/inmvc",
-      "color": "#2196F3"
-    },
-    "Description": "Homemade PHP framework that uses the MVC model."
-  }, {
-    "Title": "COXPE – Code Experts",
-    "Permalink": "#",
-    "Params": {
-      "color": "#92AFC8",
-      "image": "portfolio/coxpe"
-    },
-    "Description": "It was a blog where I posted a lot of tutorials about programming. In the end it merged with my personal website you're seeing now."
-  }]
-}
+[{
+    "title": "Hugo plugin for Caddy",
+    "tagline": "HTML, CSS, JS & Go",
+    "link": "https://caddyserver.com/docs/hugo",
+    "short": "caddy-hugo",
+    "color": "#00BCD4",
+    "button": "Learn more"
+}, {
+    "title": "GitHub Profile Widget",
+    "tagline": "HTML, CSS, JS, PHP & WordPress",
+    "link": "https://wordpress.org/plugins/github-profile-widget",
+    "short": "github-profile-widget",
+    "color": "#000",
+    "button": "Download"
+}, {
+    "title": "IMDb Profile Widget",
+    "tagline": "HTML, CSS, JS, PHP, WordPress & AngularJS",
+    "link": "https://wordpress.org/plugins/imdb-widget/",
+    "short": "imdb-profile-widget",
+    "color": "#FFC107",
+    "button": "Download"
+}, {
+    "title": "HackerRank Profile Widget",
+    "link": "https://wordpress.org/plugins/hackerrank-profile-widget/",
+    "short": "hackerrank-profile-widget",
+    "color": "#2ec866",
+    "button": "Download"
+}, {
+    "title": "Aprenda a Programar",
+    "tagline": "Writing & C",
+    "link": "https://aprenda-a-programar.github.io/",
+    "color": "#2B91E5",
+    "short": "aprenda-a-programar"
+}, {
+    "title": "Pplware",
+    "tagline": "Content writer",
+    "link": "http://pplware.com",
+    "color": "#072559",
+    "short": "pplware"
+}]

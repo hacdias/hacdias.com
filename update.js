@@ -27,7 +27,7 @@ httpsRequest(url + token, function(json) {
 
   for (info of json.data) {
     data.push({
-      url : info.images.standard_resolution.url,
+      url : info.images.thumbnail.url,
       link : info.link,
       caption : (info.caption != null) ? info.caption.text : ""
     });
@@ -48,6 +48,9 @@ var fetchCalendar = () => httpsRequest(url, (body) => {
   if (cal.find("include-fragment").length) {
     setTimeout(fetchCalendar, 500);
   } else {
+    let h = $('.js-calendar-graph-svg').attr('height');
+    let w = $('.js-calendar-graph-svg').attr('width');
+    $('.js-calendar-graph-svg').attr('viewBox', '0 0 ' + w + ' ' + h);
     fs.writeFile("layouts/partials/github.html", $("#contributions-calendar").html());
   }
 });
