@@ -44,11 +44,13 @@ dfn {
 }
 h1 {
     font-size: 2em;
-    /* margin: 0 0 0.67em; */
-    /* padding: 1.5em 0; */
     text-align: center;
-    /* background-color: #0D47A1; */
-    /* color: #fff; */
+}
+main > h1 {
+    margin: 0 0 0.67em;
+    padding: 10vh 0;
+    background-color: #1565C0;
+    color: #fff;
 }
 mark {
     background: #ff0;
@@ -294,25 +296,28 @@ code {
     padding: 0;
     list-style: none;
 }
-.site-nav a:first-of-type {
+.site-nav li:first-of-type {
     margin-left: -0.5em;
     font-weight: bold;
     float: left;
 }
-.site-nav a:nth-child(2) {
+.site-nav li:nth-child(2) {
     display: none;
 }
-.site-nav a:last-of-type {
+.site-nav li:last-of-type {
     margin-right: -0.5em;
 }
-.site-nav a {
+.site-nav li {
     display: inline-block;
     padding: 0 .5em;
+}
+.site-nav a {
     -webkit-transition: .1s ease-in all;
     transition: .1s ease-in all;
 }
 .site-nav a:hover {
-    color: #1565C0;
+    /* color: #00BCD4; */
+    border-bottom: 1px solid white;
 }
 
 /* TOGGLE BUTTON */
