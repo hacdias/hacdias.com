@@ -325,7 +325,7 @@ code {
     border-radius: 1px;
     height: 0.2em;
     width: 1.23em;
-    background: #212121;
+    background: #fff;
     position: absolute;
     display: block;
     content: '';
@@ -1085,20 +1085,21 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
         -webkit-transition: .5s ease all;
         transition: .5s ease all;
     }
-    .site-nav a {
+    .site-nav li {
         width: 100%;
         display: block;
         text-align: left;
-        padding: .5em 1em;
+        padding: 0;
+        line-height: 2em;
     }
-    .site-nav a:first-of-type {
+    .site-nav li:first-of-type {
         display: none;
     }
-    .site-nav a:nth-child(2) {
-        display: inline-block;
+    .site-nav li:nth-child(2) {
+        display: block;
     }
     .site-title {
-        padding: 0 .5em;
+        padding: 0 0.5em;
         position: relative;
         text-align: left;
         height: 2.5em;

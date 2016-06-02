@@ -10,7 +10,7 @@
   <nav class="site-nav">
     <ul>
         <li><a href="{{ .Site.BaseURL }}">Henrique Dias</a></li>
-        <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+        <li><a {{ if eq .Title .Site.Title }}class="active"{{end}} href="{{ .Site.BaseURL }}">Home</a></li>
         <li><a {{ if eq .Title "About" }}class="active"{{end}} href="{{ .Site.BaseURL }}about/">About</a></li>
         <li><a {{ if eq .Title "Blog" }}class="active"{{end}} href="{{ .Site.BaseURL }}blog/">Blog</a></li>
         <li><a {{ if eq .Title "Photography" }}class="active"{{end}} href="{{ .Site.BaseURL }}photography/">Photography</a></li>
