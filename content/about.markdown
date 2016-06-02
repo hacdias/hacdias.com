@@ -1,6 +1,6 @@
 {
   "color": "rgb(44, 41, 38)",
-  "description": "What do you want to know about me?",
+  "description": "I'm a young student at the age of 16. I love the idea of improving the world using technology.",
   "image": "cover",
   "title": "About",
   "type": "page"
@@ -8,7 +8,7 @@
 
 <img src="/henrique.png" class="right">
 
-Hi everyone!
+Hey!
 
 I'm Henrique Dias, a Portuguese young boy which is currently attending at high school in a scientific-humanistic course called "Science and Technology" I hope to finish in 2017.
 

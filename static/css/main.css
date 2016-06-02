@@ -228,23 +228,29 @@ code {
 
 .site-heading {
     text-align: center;
+    background-color: #2196F3;
+    color: #fff;
+    min-height: calc(100vh - 3.7em);
+    padding: 0;
+    position: relative;
+    padding: 2em 0;
 }
+
 .site-heading #profile {
-    width: 6em;
+    width: 12em;
     border-radius: 50%;
     display: block;
-    margin: 1em auto 0;
+    margin: 0 auto;
 }
 .site-heading h2 {
     margin: 0;
     font-size: 3em;
 }
 .site-heading p {
-    max-width: 600px;
-    width: 90%;
-    margin: 1em auto;
+    margin: 0;
     text-align: left;
-    color: rgba(0, 0, 0, 0.7);
+    font-size: 3em;
+    display: inline-block;
 }
 
 /* SITE HEADER */
@@ -370,15 +376,22 @@ code {
 /* HOME */
 
 .home .container {
-    max-width: 1000px !important;
+    max-width: 70em !important;
+    margin: 0 auto;
+    color: #fff;
+}
+.site-heading .container {
+  max-width: 70em !important;
+  margin: 0 auto;
 }
 .home .mosaic {
     width: 100%;
     max-width: none;
 }
 .home h2 {
-    text-align: center;
-    margin-bottom: .2em;
+    text-align: left;
+    margin-bottom: 0;
+    font-size: 3em;
 }
 .home h2+hr {
     margin: 0 auto 1.5em;
@@ -395,6 +408,12 @@ code {
 .home .moments figure {
     flex-basis: 14%;
     flex-grow: 1;
+}
+
+.home .pan {
+  min-height: 100vh;
+  background-color: #F1F1F1;
+  padding: 2em 0;
 }
 
 /* FOOTER */
@@ -805,7 +824,7 @@ form input[type="button"]:hover, form input[type="submit"]:hover {
     transition: .2s ease all;
     min-height: 16em;
     position: relative;
-    /* background-color: #000; */
+    background-color: #fff;
     box-shadow: 0 1px 3px rgba(0, 0, 0, .06), 0 1px 2px rgba(0, 0, 0, .12);
 }
 .mosaic .item:hover {

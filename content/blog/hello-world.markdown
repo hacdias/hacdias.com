@@ -31,7 +31,7 @@ And why calling it **Stuff I'm Thinking**? Hmm... well... the truth is it was on
 
 Right now, I'm not really sure about the frequency, but it will start being monthly, in the first weekend of each month, or twice a month. It's going to contain whatever I remember to put on it: images, quotes, posts, stupid stuff?
 
-This will also be published on my website, under [henriquedias.com/newsletters](https://henriquedias.com/newsletters). 
+This will also be published on my website, under [henriquedias.com/newsletters](https://henriquedias.com/newsletters).
 
 ## Posts you should read
 

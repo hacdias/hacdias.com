@@ -1,5 +1,5 @@
 ---
 type:     work
 title:    Work
-description: "What do I do?"
+description: "Know some of the biggest projects I've worked on."
 ---
