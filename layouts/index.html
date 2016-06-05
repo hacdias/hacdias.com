@@ -1,34 +1,20 @@
 {{ partial "header" . }}
 
-<main role="main" class="home sans">
+<main role="main" class="home">
 	<div class="site-heading">
-		<div class="container">
-			<!-- <div>
+		<div>
+			<div class="container">
 				<img id="profile" src="/henrique.png">
-			</div> -->
-			<p>I'm <em>Henrique Dias</em>, a portuguese young student at the age of 16. I'm <u>passionate</u> with programming and every single thing that can be related to it. I am someone who <u>loves the idea of improving the world using technology</u>. If there is so much bad things that can be done with technology, why not do good stuff instead? Trying to be smart.</p>
-		</div>
-	</div>
-
-<!-- 	<div class="pan">
-		<h2>I get involved</h2>
-		<div class="calendar">{{ partial "github" }}</div>
-
-	</div> -->
-
-	<div class="pan">
-		<div class="container">
-			<h2>Sometimes I write</h2>
-			<div class="mosaic">
-				{{ range first 6 (where .Data.Pages "Type" "post") }} {{ partial "mosaic/common" . }} {{ end }}
+				<div class="sans"><h1>Henrique Dias</h1></div>
+				<p>I'm a portuguese young student at the age of 16. I'm passionate with programming and every single thing that can be related to it. I am someone who loves the idea of improving the world using technology. If there is so much bad things that can be	done with technology, why not do good stuff instead? Trying to be smart.</p>
 			</div>
 		</div>
 	</div>
 
-	<div class="pan">
+	<div class="pan gray">
 		<div class="container">
 			<h2>I capture moments</h2>
-			<div class="moments" itemscope itemtype="http://schema.org/ImageGallery">
+			<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
 				{{ range .Site.Data.instagram }}
 				<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 					<a href="{{ .link }}" itemprop="contentUrl">
@@ -36,6 +22,24 @@
 					</a>
 				</figure>
 				{{ end }}
+			</div>
+			<a href="/photography" style="color: #212121"><div class="button photos" >
+	      <div>See more</div>
+	    </a>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="pan">
+		<div class="container">
+			<h2>Latest blog posts</h2>
+			<div class="mosaic sans">
+				{{ range first 6 (where .Data.Pages "Type" "post") }} {{ partial "mosaic/common" . }} {{ end }}
+			</div>
+			<a href="/blog" style="color: #212121"><div class="button" style="background-color: #212121 ;" >
+	      <div>Read more</div>
+	    </a>
 			</div>
 		</div>
 	</div>

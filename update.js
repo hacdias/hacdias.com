@@ -27,7 +27,7 @@ httpsRequest(url + token, function(json) {
 
   for (info of json.data) {
     data.push({
-      url : info.images.thumbnail.url,
+      url : info.images.standard_resolution.url,
       link : info.link,
       caption : (info.caption != null) ? info.caption.text : ""
     });
@@ -41,15 +41,15 @@ var username = "hacdias";
 var url = "https://github.com/" + username;
 
 var fetchCalendar = () => httpsRequest(url, (body) => {
-  let $ = cheerio.load(body);
-  let cal = $("#contributions-calendar");
+  var $ = cheerio.load(body);
+  var cal = $("#contributions-calendar");
   $("#contributions-calendar .left.text-muted").html(`Summary of pull requests, issues opened, and commits made by <a href="https://github.com/${username}" target="blank">@${username}</a>`);
 
   if (cal.find("include-fragment").length) {
     setTimeout(fetchCalendar, 500);
   } else {
-    let h = $('.js-calendar-graph-svg').attr('height');
-    let w = $('.js-calendar-graph-svg').attr('width');
+    var h = $('.js-calendar-graph-svg').attr('height');
+    var w = $('.js-calendar-graph-svg').attr('width');
     $('.js-calendar-graph-svg').attr('viewBox', '0 0 ' + w + ' ' + h);
     fs.writeFile("layouts/partials/github.html", $("#contributions-calendar").html());
   }
