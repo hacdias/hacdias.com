@@ -1,0 +1,13 @@
+<html>
+<script>
+var s = window.location.search.substring(6);
+var res = s.split("/");
+
+if (res.length > 1) {
+  window.location = "https://henriquedias.com/blog/" + res[1];
+} else {
+  window.location = "https://henriquedias.com/blog/";
+}
+</script>
+
+</html>
