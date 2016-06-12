@@ -1,5 +1,9 @@
 {
-  "title": "About"
+  "color": "rgb(44, 41, 38)",
+  "description": "I'm a young student at the age of 16. I love the idea of improving the world using technology.",
+  "image": "cover",
+  "title": "About",
+  "type": "page"
 }
 
 <img src="/henrique.png" class="right">

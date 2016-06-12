@@ -1,14 +1,11 @@
-baseurl = "http://localhost:1313/"
-description = "I'm a young student at the age of 16. I love the idea of improving the world using technology."
+baseurl = "https://henriquedias.com/"
 disqusShortname = "hacdias"
-image = "cover"
 languageCode = "en_GB"
 paginate = "18"
 paginatePath = ""
 pluralizelisttitles = false
 removePathAccents = true
 title = "It's Henrique Dias"
-type = "page"
 
 [author]
   Email = "hacdias@gmail.com"

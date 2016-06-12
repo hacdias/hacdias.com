@@ -1,26 +1,22 @@
-{
-  "author": "Henrique Dias",
-  "categories": [
-    "General",
-    "a",
-    "a"
-  ],
-  "color": "#232229",
-  "date": "2014-08-18T09:39:00",
-  "description": "A extensão Minimap permite que os utilizadores do editor de texto Atom tenham um mini-mapa com o código do ficheiro aberto facilitando a navegação no mesmo.",
-  "image": "atom",
-  "tags": [
-    "addons",
-    "Editores de Texto",
-    "Extensões",
-    "Ferramentas",
-    "GitHub",
-    "pluginsa",
-    "úteis"
-  ],
-  "title": "Editor de Texto Atom - Extensão Minimap",
-  "type": "post"
-}
+---
+type: post
+author:         "Henrique Dias"
+title:          "Editor de Texto Atom - Extensão Minimap"
+date:            2014-08-16 09:39:32+00:00
+description:    "A extensão Minimap permite que os utilizadores do editor de texto Atom tenham um mini-mapa com o código do ficheiro aberto facilitando a navegação no mesmo."
+image: "atom"
+color: "#232229"
+categories:
+- General
+tags:
+- addons
+- Editores de Texto
+- Extensões
+- Ferramentas
+- GitHub
+- pluginsa
+- úteis
+---
 
 Na semana passada, [apresentei-vos o editor de texto Atom](/general/atom-io-um-excelente-editor-de-texto-da-github/), da GitHub e ainda falei de uma das centenas de extensões disponíveis para ele, [a extensão Emmet](/general/extensao-emmet-para-editor-de-texto-atom/).
 
