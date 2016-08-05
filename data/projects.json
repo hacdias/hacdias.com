@@ -1,9 +1,16 @@
 [{
+    "title": "File Manager plugin for Caddy",
+    "tagline": "HTML, CSS, JS & Go",
+    "link": "https://caddyserver.com/docs/filemanager",
+    "short": "caddy-filemanager",
+    "color": "#68efad",
+    "button": "Learn more"
+}, {
     "title": "Hugo plugin for Caddy",
     "tagline": "HTML, CSS, JS & Go",
     "link": "https://caddyserver.com/docs/hugo",
     "short": "caddy-hugo",
-    "color": "#00BCD4",
+    "color": "#2196f3",
     "button": "Learn more"
 }, {
     "title": "GitHub Profile Widget",
