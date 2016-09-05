@@ -18,5 +18,14 @@
 {{ if not .IsNode }}{{ if eq .Type "post" }}{{ partial "schema/article" . }}{{ end }}{{ end }}
 </head>
 
-<body {{ if not .IsNode }}{{ if (eq .Type "photography") }}class="photography"{{ end }}{{ end }}>
-  {{ partial "navbar" . }}
+<body>
+    <nav>
+        <ul>
+            <li><a href="{{ .Site.BaseURL }}">Henrique Dias</a></li>
+            <li><a {{ if eq .Title "About" }}class="active"{{end}} href="{{ .Site.BaseURL }}about/">About</a></li>
+            <li><a {{ if eq .Title "Blog" }}class="active"{{end}} href="{{ .Site.BaseURL }}blog/">Blog</a></li>
+            <li><a {{ if eq .Title "Photography" }}class="active"{{end}} href="https://www.instagram.com/hacdias/">Photography</a></li>
+            <li><a {{ if eq .Title "Work" }}class="active"{{end}} href="{{ .Site.BaseURL }}work/">Work</a></li>
+          </a>
+        </ul>
+    </nav>

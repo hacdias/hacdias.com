@@ -1,0 +1,25 @@
+{{ partial "header" . }}
+
+<main role="main">
+    <h1>{{ .Title }}</h1>
+
+    <div class="work container">
+        {{ range .Paginator.Pages }}
+        <article>
+            <a href="{{ .Permalink }}">
+                <div class="image" style="background-image: url({{ if .Params.image }}/images/{{ .Params.image }}-small.jpg{{ else }}/images/default.jpg{{ end}})"></div>
+                <div>
+                    <div>
+                        <h2>{{ .Title }}</h2>
+                        <p>{{.Params.tagline}}</p>
+                    </div>
+                </div>
+            </a>
+        </article>
+        {{ end }}
+    </div>
+
+    {{ partial "pagination" . }}
+</main>
+
+{{ partial "footer" . }}
