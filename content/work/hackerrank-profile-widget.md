@@ -23,6 +23,6 @@ skills:
 - WordPress
 ---
 
-<p>This plugin can be used to show your HackerRank profile on a WordPress powered website. Besides being very easy to set up, it can display contestant's badges, contests, challenges, discussions and some more informations. <em>Made with <a href="luissoares.com">Luís Soares</a>.</em></p>
+This plugin can be used to show your HackerRank profile on a WordPress powered website. Besides being very easy to set up, it can display contestant's badges, contests, challenges, discussions and some more informations.
 
-<p><img src="/images/work/hackerrank-profile-widget/1.png" alt="HackerRank Profile Widget"></p>
+![Widget options](/images/work/hackerrank-profile-widget/2.jpg)

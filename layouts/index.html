@@ -17,38 +17,6 @@
 		</div>
 	</div>
 
-	<div class="pan gray">
-		<div class="container">
-			<h2>I capture moments</h2>
-			<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
-				{{ range .Site.Data.instagram }}
-				<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-					<a href="{{ .link }}" itemprop="contentUrl">
-						<img src="{{ .url }}" itemprop="thumbnail" alt="{{ .caption }}" />
-					</a>
-				</figure>
-				{{ end }}
-			</div>
-			<a href="/photography" style="color: #212121"><div class="button photos" >
-	      <div>See more</div>
-	    </a>
-			</div>
-		</div>
-
-	</div>
-
-	<div class="pan">
-		<div class="container">
-			<h2>Latest blog posts</h2>
-			<div class="mosaic sans">
-				{{ range first 6 (where .Data.Pages "Type" "post") }} {{ partial "mosaic/common" . }} {{ end }}
-			</div>
-			<a href="/blog" style="color: #212121"><div class="button" style="background-color: #212121 ;" >
-	      <div>Read more</div>
-	    </a>
-			</div>
-		</div>
-	</div>
 
 </main>
 

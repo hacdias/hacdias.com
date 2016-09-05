@@ -24,6 +24,6 @@ skills:
 - AngularJS
 ---
 
-<p>This plugin can be used to show your IMDb profile on a WordPress powered website. It's very easy to setup: you just have to write your user ID and check the information you want to show. <em>Made with <a href="luissoares.com">Luís Soares</a>.</em></p>
+This plugin can be used to show your IMDb profile on a WordPress powered website. It's very easy to setup: you just have to write your user ID and check the information you want to show. 
 
-<p><img src="/images/work/imdb-profile-widget/1.png" alt="IMDb Profile Widget"></p>
+![Widget options](/images/work/imdb-profile-widget/2.jpg)
