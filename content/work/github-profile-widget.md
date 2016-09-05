@@ -24,6 +24,6 @@ skills:
 - GitHub API
 ---
 
-<p>This plugin can be used to show a GitHub user or organization profile in a WordPress powered website. It's very easy to setup and it can display user's avatar, name, followers, repositories, organizations and some more informations.
+This plugin can be used to show a GitHub user or organization profile in a WordPress powered website. It's very easy to setup and it can display user's avatar, name, followers, repositories, organizations and some more informations.
 
 ![Widget options](/images/work/github-profile-widget/2.jpg)

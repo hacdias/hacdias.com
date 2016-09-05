@@ -1,6 +1,6 @@
 ---
 type:   work
-date:	2013-06-1 12:10:00+00:00
+date:	2013-06-11 12:10:00+00:00
 title: "Pplware"
 tagline: "Content writer"
 website:
