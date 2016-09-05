@@ -1,7 +1,5 @@
-<header class="sans">
-  {{ if isset .Params "image" }}<img src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">{{ end }}
-  <div>
+<header>
+    {{ if isset .Params "image" }}<img src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">{{ end }}
     <h1>{{ .Title }}</h1>
     {{ if eq .Type "post" }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
-  </div>
 </header>
