@@ -19,9 +19,10 @@
 </head>
 
 <body>
+    <input type="checkbox" id="expand">
     <nav>
         <ul>
-            <li><a href="{{ .Site.BaseURL }}">Henrique Dias</a></li>
+            <li><label for="expand" id="expand-button"><span>&#9660;</span></label><a href="{{ .Site.BaseURL }}">Henrique Dias</a></li>
             <li><a {{ if eq .Title "About" }}class="active"{{end}} href="{{ .Site.BaseURL }}about/">About</a></li>
             <li><a {{ if eq .Title "Blog" }}class="active"{{end}} href="{{ .Site.BaseURL }}blog/">Blog</a></li>
             <li><a {{ if eq .Title "Photography" }}class="active"{{end}} href="https://500px.com/hacdias/">Photography</a></li>

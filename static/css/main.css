@@ -139,9 +139,32 @@ figcaption {
 
 /* NAVIGATION */
 
+#expand {
+    display: none;
+}
+
+#expand-button {
+    border: 2px solid black;
+    padding: .2em;
+    display: inline-block;
+    vertical-align: middle;
+    background: none;
+    cursor: pointer;
+    margin-right: 1em;
+    border-radius: .2em;
+    display: none;
+}
+
+#expand-button~a {
+    vertical-align: middle;
+    display: inline-block;
+}
+
 body>nav {
     border-bottom: 1px dashed #333;
     background: #fff;
+    z-index: 9999;
+    transition: .2s ease-in-out all;
 }
 
 body>nav ul {
@@ -199,6 +222,17 @@ body>nav ul li:first-child a {
     }
     body>nav ul li a {
         margin: 1em 0;
+    }
+    #expand-button {
+        display: inline-block;
+    }
+
+    #expand:checked ~ nav {
+        transform: translateY(0);
+    }
+
+     #expand:checked ~ nav #expand-button {
+        transform: rotate(180deg);
     }
 }
 
