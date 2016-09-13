@@ -6,7 +6,7 @@
   "type": "page"
 }
 
-<img src="/henrique.png" class="right">
+## *This page is going to be restructured shorty.*
 
 Hey!
 
@@ -16,7 +16,15 @@ After that I want to study something. Right now, I don't really know what it sho
 
 > "Who looks outside, dreams. Who looks inside, awakes." - Carl Gustav Jung
 
-## Long version
+## Once upon a time...
+
+When I was a child, my parents bought their first computer, a desktop, heavy one. I was like 4 or 5 years old if I remember correctly. That day, he mounted the computer and I was left with the boxes where everything have arrived. There was a box for the keyboard, a box for the screen and and a box for the mouse. What have I done? I cut out the images of the gadgets and started “using” that computer. It was funny to play with a paper computer.
+
+Unfortunately, I can’t remember if my father allowed me to use it with that age. But I know that, sooner or later, he allowed me to use Microsoft Word. I was probably still very young because I didn’t know how to write yet. How do I know that? I remember that I clicked randomly in the keys of the Keyboard to make something happen. I also remember that he was always telling me not to click on the “F” keys. He didn’t know their function so we mustn’t click on them.
+
+Later, I have made something even funnier and interesting: my aunt has a mini marked so, she has a lot of paperboard boxes and stuff. I remember that I cut out a keyboard, a mouse and a monitor. But this time they hadn’t pretty images! As I’ve already “played” with a computer, I already knew some things and I drew the keys, the buttons, the taskbar (of Windows XP) and even the icons in the desktop. I spent the whole morning o that day playing with that “computer”.
+
+## So...?
 
 My interest for computers started when I was a little child. My father bought his first computer when I was 4 or 5 years old. I can't remember. Sometimes, my father simply opened Microsoft Word and I kept clicking randomly on the keys. I just clicked on numbers and letters of the alphabet because my father had told me to not click on the other keys. At that time I didn't know how to read and write yet. I just looked at the screen and clicked on the keys.
 

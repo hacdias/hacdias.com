@@ -51,10 +51,23 @@ var unlock = function(phrase) {
     return false;
 }
 
+var commands = {
+    'about': 'window.location="/about"',
+    'blog': 'window.location="/blog"',
+    'photography': 'window.location="https://500px.com/hacdias"',
+    'work': 'window.location="/work"',
+    'pgp': 'window.location="https://keybase.io/hacdias/key.asc"',
+    'man system': 'addLine(`Manual for \'System\'\n- about: get more information about me\n- blog: get into my blog\n- photography: see some of my best photographies\n- work: see my work\n- pgp: show my public PGP key`)'
+}
+
 var handleTerminal = function(terminal) {
     var writable = document.getElementById("writable");
     var user = document.getElementById('user');
     var firstLine = document.getElementById("first-line");
+
+    var adjustWritable = () => {
+        writable.style.width = firstLine.offsetWidth  - user.offsetWidth + "px";
+    }
 
     var addLine = (text) => {
         var user = document.getElementById('user');
@@ -65,10 +78,7 @@ var handleTerminal = function(terminal) {
         });
 
         terminal.scrollTop = terminal.scrollHeight;
-    }
-
-    var adjustWritable = () => {
-        writable.style.width = firstLine.offsetWidth  - user.offsetWidth + "px";
+        adjustWritable();
     }
 
     adjustWritable();
@@ -95,8 +105,12 @@ var handleTerminal = function(terminal) {
                 return true;
             }
 
-            addLine('Command `' + text + '` not found. Type `man henri` to get more information.');
-            adjustWritable(writable);
+            if (text in commands) {
+                eval(commands[text]);
+                return true;
+            }
+
+            addLine('Command `' + text + '` not found. Type `man system` to get more information.');
         }
     });
 }
@@ -104,6 +118,7 @@ var handleTerminal = function(terminal) {
 
 document.addEventListener('DOMContentLoaded', () => {
     console.log("Disclaimer: I know how to code.");
+    console.log("Usa este comando: aquilo que tu me chamas e que as vacas têm.")
 
     var terminal = document.getElementById("console");
     if (terminal != null) {
