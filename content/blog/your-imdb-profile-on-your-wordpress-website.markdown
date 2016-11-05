@@ -1,22 +1,21 @@
-{
-  "author": "Henrique Dias",
-  "categories": [
-    "General"
-  ],
-  "color": "#9b8262",
-  "date": "2015-06-23T22:00:00",
-  "description": "We created a new plugin. This time for IMDb. This WordPress plugin allows you to have a mini version of your IMDb profile on your website.",
-  "image": "imdb-widget",
-  "tags": [
-    "WordPress",
-    "Plugins",
-    "Development",
-    "PHP",
-    "IMDb"
-  ],
-  "title": "Your IMDb Profile, on your WordPress website",
-  "type": "post"
-}
+---
+author: Henrique Dias
+categories:
+- General
+color: '#9b8262'
+date: 2015-06-23T22:00:00
+description: We created a new plugin. This time for IMDb. This WordPress plugin allows you to have a mini version of your IMDb profile on your website.
+image: imdb-widget
+tags:
+- WordPress
+- Plugins
+- Development
+- PHP
+- IMDb
+title: Your IMDb Profile, on your WordPress website
+type: post
+---
+
 
 A few months ago, [Luís Soares](http://luissoares.com/) and I created a [plugin for WordPress](/general/hackerrank-widget-for-wordpress/) entirely dedicated to [HackerRank](https://www.hackerrank.com/). The main functionality of that plugin is to show a mini version of your HackerRank profile on your website as a widget.
 

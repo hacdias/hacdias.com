@@ -18,7 +18,7 @@
 {{ if not .IsNode }}{{ if eq .Type "post" }}{{ partial "schema/article" . }}{{ end }}{{ end }}
 </head>
 
-<body>
+<body class="{{ if .IsHome }}home{{ else if .IsPage }}page{{ else }}other{{ end }}">
     <input type="checkbox" id="expand">
     <nav>
         <ul>

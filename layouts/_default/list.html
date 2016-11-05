@@ -3,12 +3,19 @@
 <main role="main">
 	<h1>{{ .Title }}</h1>
 
-	<div class="mosaic">
+	<ul class="listing">
 		{{ range .Paginator.Pages }}
-		{{ partial "mosaic/common" . }}
+		<li class="item">
+			<a href="{{ .Permalink }}">
+				<span>About {{ .FuzzyWordCount  }} words &bull; {{ .ReadingTime  }} min read</span>
+				{{ if .Params.image }}<img class="image" src="/images/{{ .Params.image }}-small.jpg">{{ end }}
+				<h2>{{ .Title }}</h2>
+				<p>{{.Description}}</p>
+			</a>
+		</li>
 		{{ end }}
 		{{ partial "pagination" . }}
-	</div>
+	</ul>
 </main>
 
 {{ partial "footer" . }}

@@ -1,9 +1,0 @@
-<div class="item">
-  <a href="{{ .Permalink }}">
-    <img class="image" {{ if .Params.image }}src="/images/{{ .Params.image }}-small.jpg"{{ else }}src="/images/default.jpg"{{ end}}>
-    <div class="info">
-      <h2>{{ .Title }}</h2>
-      <p>{{.Description}}</p>
-    </div>
-  </a>
-</div>

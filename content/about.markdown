@@ -1,16 +1,14 @@
-{
-  "color": "rgb(44, 41, 38)",
-  "description": "I'm a young student at the age of 16. I love the idea of improving the world using technology.",
-  "image": "cover",
-  "title": "About",
-  "type": "page"
-}
+---
+color: rgb(44, 41, 38)
+description: I'm a young student at the age of 16. I love the idea of improving the world using technology.
+image: cover
+title: About
+type: page
+---
 
-## *This page is going to be restructured shorty.*
+Hi, I'm Henrique Dias!
 
-Hey!
-
-I'm Henrique Dias, a Portuguese young boy which is currently attending at high school in a scientific-humanistic course called "Science and Technology" I hope to finish in 2017.
+I'm a 17 years old Portuguese student passionated about programming and addicted to music and photography. I love the idea of improving the world using technology.
 
 After that I want to study something. Right now, I don't really know what it should be. Maybe Computer Science, maybe Physics, maybe Biology. My objective is very simple: **do something helpful to the humankind**.
 

@@ -5,7 +5,7 @@ paginate = "18"
 paginatePath = ""
 pluralizelisttitles = false
 removePathAccents = true
-title = "It's Henrique Dias"
+title = "Henrique Dias"
 
 [author]
   Email = "hacdias@gmail.com"

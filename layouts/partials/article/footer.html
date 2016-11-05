@@ -1,5 +1,5 @@
 <footer>
-  <div class="buttons container">
+  <div class="buttons">
     {{ if .Next }}
     <a href="{{ .Next.Permalink  }}" class="prev">
       <div></div>
@@ -22,5 +22,9 @@
     </a>{{ end }}
   </div>
   <div style="clear:both"></div>
-  {{ partial "disqus" . }}
+  <input type="checkbox" id="show_disqus">
+  <div>
+      <label for="show_disqus"><div class="buttons"><a>discussion</a></div></label>
+      <div>{{ template "_internal/disqus.html" . }}</div>
+  </div>
 </footer>
