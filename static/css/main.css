@@ -73,7 +73,7 @@ body.home {
     background-position: center, center;
     background-size: cover, cover;
     background-attachment: scroll;
-    background-image: url(/home/1.jpg);
+    background-image: url(/images/home.jpg);
     height: 100vh;
 }
 
