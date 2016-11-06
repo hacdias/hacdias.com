@@ -156,15 +156,23 @@ body.home {
     font-size: 1.5em;
     border: 1px solid;
     border-radius: 50%;
-    width: 1.65em;
-    height: 1.65em;
+    width: 1.7em;
+    height: 1.7em;
     text-align: center;
     transition: .2s ease all;
     margin: .1em;
+    position: relative;
 }
 
 .home main div a:hover {
     color: #11cfcb;
+}
+
+.home main div a i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 
