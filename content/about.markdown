@@ -1,18 +1,13 @@
 ---
-color: rgb(44, 41, 38)
-description: I'm a young student at the age of 16. I love the idea of improving the world using technology.
-image: cover
-title: About
+description: I'm a 17 years old Portuguese student passionate about programming and addicted to music and photography. I love the idea of improving the world using technology.
+show_description: true
+title: Hi, I'm Henrique Dias!
 type: page
 ---
 
-Hi, I'm Henrique Dias!
-
-I'm a 17 years old Portuguese student passionated about programming and addicted to music and photography. I love the idea of improving the world using technology.
-
 After that I want to study something. Right now, I don't really know what it should be. Maybe Computer Science, maybe Physics, maybe Biology. My objective is very simple: **do something helpful to the humankind**.
 
-> "Who looks outside, dreams. Who looks inside, awakes." - Carl Gustav Jung
+{{< figure src="/images/board.jpg" caption="I love to participate" class="" >}}
 
 ## Once upon a time...
 
