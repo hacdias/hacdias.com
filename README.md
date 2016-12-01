@@ -4,3 +4,4 @@ This is the source code of my personal website, which can be found on [henriqued
 
 [1]: https://henriquedias.com
 [2]: https://github.com/spf13/hugo
+
