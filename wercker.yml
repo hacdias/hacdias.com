@@ -7,7 +7,8 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - leipert/git-push@0.7.6:
+    - git-push:
          gh_oauth: $GIT_TOKEN
+         gh_pages: true
+         gh_pages_domain: henriquedias.com
          basedir: public
-         branch: gh-pages
