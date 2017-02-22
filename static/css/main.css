@@ -165,7 +165,7 @@ body.home {
 }
 
 .home main div a:hover {
-    color: #11cfcb;
+    color: #fe8810;
 }
 
 .home main div a i {
@@ -293,7 +293,7 @@ body>nav ul {
     padding: 0;
     margin: 0 auto;
     display: flex;
-    width: 90%;
+    width: calc(100% - 2em);
     line-height: 1;
 }
 
@@ -310,14 +310,6 @@ body>nav ul li a {
 body>nav ul li a:hover,
 body>nav ul li a.active {
     text-decoration: line-through;
-}
-
-body>nav ul li:first-child a {
-    margin-left: 0;
-}
-
-body>nav ul li:last-child a {
-    margin-right: 0;
 }
 
 body>nav ul li:first-child {
