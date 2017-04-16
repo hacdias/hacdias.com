@@ -1,4 +1,4 @@
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}">
-<link rel="publisher" href="https://plus.google.com/+{{ .Site.Social.GooglePlus }}"/>
+<link rel="publisher" href="https://plus.google.com/+{{ .Site.Params.Social.GooglePlus }}"/>

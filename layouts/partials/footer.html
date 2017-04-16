@@ -7,16 +7,16 @@
         <div>
             <p>Follow me</p>
             <ul>
-                <li><a href="https://facebook.com/{{ .Site.Social.Facebook }}">Facebook</a></li>
-                <li><a href="https://linkedin.com/in/{{ .Site.Social.LinkedIn }}">LinkedIn</a></li>
-                <li><a href="https://plus.google.com/+{{ .Site.Social.GooglePlus }}">Google+</a></li>
-                <li><a href="https://github.com/{{ .Site.Social.GitHub }}">GitHub</a></li>
-                <li><a href="https://instagram.com/{{ .Site.Social.Instagram }}">Instagram</a></li>
+                <li><a href="https://facebook.com/{{ .Site.Params.Social.Facebook }}">Facebook</a></li>
+                <li><a href="https://linkedin.com/in/{{ .Site.Params.Social.LinkedIn }}">LinkedIn</a></li>
+                <li><a href="https://plus.google.com/+{{ .Site.Params.Social.GooglePlus }}">Google+</a></li>
+                <li><a href="https://github.com/{{ .Site.Params.Social.GitHub }}">GitHub</a></li>
+                <li><a href="https://instagram.com/{{ .Site.Params.Social.Instagram }}">Instagram</a></li>
             </ul>
         </div>
     </div>
 
-    <p>&copy; {{ .Now.Year }} Henrique Dias. Some rights reserved.</p>
+    <p>&copy; {{ now.Year }} Henrique Dias. Some rights reserved.</p>
 </footer>
 
 {{ partial "analytics.html" . }}
