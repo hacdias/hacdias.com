@@ -11,7 +11,6 @@
 {{ partial "head/open_graph" . }}
 {{ partial "head/twitter" .}}
 {{ partial "head/webmaster" .}}
-{{ partial "head/rss" .}}
 {{ partial "head/icons" .}}
 {{ partial "head/includes" .}}
 {{ partial "schema/person" . }}
@@ -25,7 +24,6 @@
             <li><label for="expand" id="expand-button"><span>&#9660;</span></label><a href="{{ .Site.BaseURL }}">Henrique Dias</a></li>
             <li><a {{ if eq .Title "About" }}class="active"{{end}} href="{{ .Site.BaseURL }}about/">About</a></li>
             <li><a {{ if eq .Title "Blog" }}class="active"{{end}} href="{{ .Site.BaseURL }}blog/">Blog</a></li>
-            <li><a {{ if eq .Title "Photography" }}class="active"{{end}} href="https://500px.com/hacdias/">Photography</a></li>
             <li><a {{ if eq .Title "Work" }}class="active"{{end}} href="{{ .Site.BaseURL }}work/">Work</a></li>
           </a>
         </ul>
