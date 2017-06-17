@@ -1,5 +1,5 @@
 ---
-type:   work
+type:   page
 date:	2013-06-11 12:10:00+00:00
 title: "Pplware"
 tagline: "Content writer"

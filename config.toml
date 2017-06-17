@@ -1,8 +1,7 @@
 baseurl = "https://henriquedias.com/"
 disqusShortname = "hacdias"
 languageCode = "en_GB"
-paginate = "18"
-paginatePath = ""
+paginate = 10
 pluralizelisttitles = false
 removePathAccents = true
 title = "Henrique Dias"
@@ -11,12 +10,9 @@ title = "Henrique Dias"
   Analytics = "59697241-1"
   Description = "Student. 17. Passionate about programming. Music and photography addicted. I love the idea of improving the world using technology."
   Image = "home"
-  [params.Webmaster]
-    Bing = "B471CBBC9EF6900039C6BBF251EF277C"
-    Google = "nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY"
   [params.Author]
     Email = "hacdias@gmail.com"
-    Image = "henrique.png"
+    Image = "henrique.jpg"
     JobTitle = "Author"
     Name = "Henrique Dias"
     Telephone = ""
@@ -28,3 +24,6 @@ title = "Henrique Dias"
     LinkedIn = "hacdias"
     Twitter = "hacdias"
     YouTube = "UCEJe-YgDEvr351w1oNjzolw"
+  [params.Webmaster]
+    Bing = "B471CBBC9EF6900039C6BBF251EF277C"
+    Google = "nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY"

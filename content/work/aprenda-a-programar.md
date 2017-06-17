@@ -1,5 +1,5 @@
 ---
-type:   work
+type:   page
 date:	2015-02-25 12:10:00+00:00
 title: "Aprenda a Programar"
 tagline: "Writing & C"

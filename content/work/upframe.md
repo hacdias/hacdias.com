@@ -1,5 +1,5 @@
 ---
-type:   work
+type:   page
 date:	2017-04-11 12:10:00+00:00
 title:    "Upframe"
 tagline:  "Full Stack Developer"

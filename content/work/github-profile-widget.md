@@ -1,5 +1,5 @@
 ---
-type:   work
+type:   page
 date:	2015-06-22 12:10:00+00:00
 title: "GitHub Profile Widget"
 tagline: "HTML, CSS, JS, PHP & WordPress"

@@ -2,7 +2,7 @@
 {
   "@context": "http://schema.org",
   "@type": "Article",
-  "author": "{{ .Site.Author.Name }}",
+  "author": "{{ .Site.Params.Author.Name }}",
   "name": "{{ .Title }}",
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "headline": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}",

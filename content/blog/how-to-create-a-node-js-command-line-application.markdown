@@ -196,4 +196,4 @@ if (args[0] === 'sayhello') {
 
 Simple, but effective. Now, go on and create your CLI application with Node.js :)
 
-I hope you have enjoyed this tutorial of how to create node.js command-line applications. If you have some doubts, you may use the comments or the [contact page](/contact/).
+I hope you have enjoyed this tutorial of how to create node.js command-line applications. If you have some doubts, you may use the comments.

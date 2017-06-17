@@ -30,7 +30,7 @@ Na primeira coluna, todas as linhas estão numeradas automaticamente e na segund
 ## 1. Ligação à Base de Dados
 
 
-Neste tutorial assumo que os leitores sabem criar uma base de dados e/ou já têm uma criada. Caso tenham alguma dúvida não hesitem em perguntar, ou através dos comentários, ou da página [contacto](https://henriquedias.com/contact/).
+Neste tutorial assumo que os leitores sabem criar uma base de dados e/ou já têm uma criada. Caso tenham alguma dúvida não hesitem em perguntar através dos comentários.
 
 Dentro da pasta onde estão colocados os documentos do servidor (o XAMPP usa normalmente a directoria "C:/xampp/htdocs") crie um ficheiro chamado **index.php**. Dentro deste copie e cole o seguinte código:
 

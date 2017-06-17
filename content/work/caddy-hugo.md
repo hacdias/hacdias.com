@@ -1,5 +1,5 @@
 ---
-type:   work
+type:   page
 date:	2015-09-12 12:10:00+00:00
 title: "Hugo plugin for Caddy"
 tagline: "HTML, CSS, JS & Go"

@@ -1,17 +1,19 @@
 ---
-type: post
-author:         "Henrique Dias"
-title:          "Como utilizar o Bower, um gestor de pacotes web"
-date:           2014-08-18 12:01:12+00:00
-description:    "O Bower é um excelente gestor de pacotes web. Utilizando este gestor, torna-se mais fácil e prático adicionar e atualizar as diversas bibliotecas utilizadas"
+author: Henrique Dias
 categories:
 - Tutorials
+date: 2014-08-18T12:01:00
+description: O Bower é um excelente gestor de pacotes web. Utilizando este gestor,
+  torna-se mais fácil e prático adicionar e atualizar as diversas bibliotecas utilizadas
 tags:
 - Bower
 - Ferramentas
 - JavaScript
 - Node.js
 - Pacotes
+title: Como utilizar o Bower, um gestor de pacotes web
+type: post
+...
 ---
 
 O **Bower** é um excelente gestor de pacotes web. Utilizando este gestor, torna-se mais fácil e prático adicionar e atualizar as diversas bibliotecas que utilizamos nos nossos sites/web-apps.

@@ -1,5 +1,5 @@
 ---
-type:   work
+type:   page
 date:	2015-03-16 12:10:00+00:00
 title: "HackerRank Profile Widget"
 tagline: "HTML, CSS, JS, PHP & WordPress"

@@ -147,6 +147,6 @@ Para aplicar a variável no tema é muito simples. Como viram acima, utilizámos
 
 O código acima verifica se a opção ```themeslug_facebook``` foi definida e se sim, cria um link em HTML que direcionará para a página que foi definida nas opções do tema.
 
-É simples utilizar as opções nos temas do WordPress. Não se esqueçam, se não compreenderem qualquer coisa, podem sempre utilizar os comentários ou utilizar a [página de contacto](/contact).
+É simples utilizar as opções nos temas do WordPress. Não se esqueçam, se não compreenderem qualquer coisa, podem sempre utilizar os comentários.
 
 Espero que tenham gostado deste pequeno tutorial :)

@@ -1,16 +1,20 @@
 {{ partial "header" . }}
 
 <main role="main">
+	{{ if not (eq .Title "Blog") }}
 	<h1>{{ .Title }}</h1>
+	{{ end }}
 
 	<ul class="listing">
 		{{ range .Paginator.Pages }}
 		<li class="item">
 			<a href="{{ .Permalink }}">
-				<span>About {{ .FuzzyWordCount  }} words &bull; {{ .ReadingTime  }} min read</span>
 				{{ if .Params.image }}<img class="image" src="/images/{{ .Params.image }}-small.jpg">{{ end }}
-				<h2>{{ .Title }}</h2>
-				<p>{{.Description}}</p>
+				<div>
+					<span>{{ .ReadingTime  }} min read</span>
+					<h2>{{ .Title }}</h2>
+					<p>{{ .Description }}</p>
+				</div>
 			</a>
 		</li>
 		{{ end }}

@@ -1,5 +1,5 @@
 ---
-type:   work
+type:   page
 date:	2015-04-11 12:10:00+00:00
 title: "IMDb Profile Widget"
 tagline: "HTML, CSS, JS, PHP, WordPress & AngularJS"

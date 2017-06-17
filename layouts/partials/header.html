@@ -21,10 +21,17 @@
     <input type="checkbox" id="expand">
     <nav>
         <ul>
-            <li><label for="expand" id="expand-button"><span>&#9660;</span></label><a href="{{ .Site.BaseURL }}">Henrique Dias</a></li>
-            <li><a {{ if eq .Title "About" }}class="active"{{end}} href="{{ .Site.BaseURL }}about/">About</a></li>
-            <li><a {{ if eq .Title "Blog" }}class="active"{{end}} href="{{ .Site.BaseURL }}blog/">Blog</a></li>
-            <li><a {{ if eq .Title "Work" }}class="active"{{end}} href="{{ .Site.BaseURL }}work/">Work</a></li>
-          </a>
+            <li><label for="expand" id="expand-button"><span>&#9660;</span></label>
+                <a href="{{ .Site.BaseURL }}">
+                    <img src="/henrique.jpg">
+                    <div>
+                        <span class="name">Henrique Dias</span>
+                        <span class="tagline">Aspiring Programmer</span>
+                    </div>
+                </a>
+            </li>
+            <li><a href="{{ .Site.BaseURL }}about/">About</a></li>
+            <li><a href="{{ .Site.BaseURL }}blog/">Blog</a></li>
+            <li><a href="{{ .Site.BaseURL }}work/">Projects</a></li>
         </ul>
     </nav>
