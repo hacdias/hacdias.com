@@ -1,0 +1,24 @@
+{{ partial "header" . }}
+
+<main>
+	<div class="mosaic">
+        <h1>{{ .Title }}</h1>
+        <ul>
+            {{ range .Paginator.Pages }}
+            <li>
+                <a href="{{ .Permalink }}">
+                    {{ if .Params.image }}
+                        <img class="image" src="/images/{{ .Params.image }}-small.jpg">
+                    {{ end }}
+                    <div>
+                        <h3>{{ .Title }}</h3>
+                    </div>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+        {{ partial "pagination" . }}
+    </div>
+</main>
+
+{{ partial "footer" . }}

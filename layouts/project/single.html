@@ -1,0 +1,40 @@
+{{ partial "header" . }}
+
+<main role="main" class="single">
+    <article>
+        <header>
+            <h1>{{ .Title }}</h1>
+        </header>
+
+        <p class="skills">
+            {{- range .Params.skills -}}
+            <span>{{ . }}</span>
+            {{- end -}}
+        </p>       
+
+        {{ .Content }}
+
+        <footer>
+            <div class="nextprev">
+                <div>
+                    {{ if .PrevInSection }}
+                    <a href="{{ .PrevInSection.Permalink  }}">
+                        <h4>Previous Project</h4>
+                        <span>{{ .PrevInSection.Title }}</span>
+                    </a>
+                    {{ end }}
+                </div>
+                <div>
+                    {{ if .NextInSection }}
+                    <a href="{{ .NextInSection.Permalink  }}">
+                        <h4>Next Project</h4>
+                        <span>{{ .NextInSection.Title }}</span>
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+        </footer>
+    </article>
+</main>
+
+{{ partial "footer" . }}

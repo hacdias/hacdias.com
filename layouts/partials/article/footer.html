@@ -1,35 +1,44 @@
 <footer>
-  <div class="share">
-    {{ if .Prev }}
-    <a href="{{ .Prev.Permalink  }}">
-      <i class="fa fa-arrow-left"></i>
-    </a>
-    {{ end }}
-    <a class="twitter" target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Params.Social.Twitter }}">
+    <div class="share">
+        <a class="twitter" target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Params.Social.Twitter }}">
       <i class="fa fa-twitter"></i>
     </a>
-    <a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
+        <a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
       <i class="fa fa-facebook"></i>
     </a>
-    <label for="disqus">
+        <label for="disqus">
       <i class="fa fa-comments"></i>
     </label>
-    <a class="gplus" target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}">
+        <a class="gplus" target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}">
       <i class="fa fa-google-plus"></i>
     </a>
-    <a class="linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias">
+        <a class="linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias">
       <i class="fa fa-linkedin"></i>
     </a>
-    {{ if .Next }}
-    <a href="{{ .Next.Permalink  }}">
-      <i class="fa fa-arrow-right"></i>
-    </a>
-    {{ end }}
-  </div>
+    </div>
 
-  <div style="clear:both"></div>
-  <input type="checkbox" id="disqus">
-  <div>
-      <div>{{ template "_internal/disqus.html" . }}</div>
-  </div>
+    <div class="nextprev">
+        <div>
+            {{ if .PrevInSection }}
+            <a href="{{ .PrevInSection.Permalink  }}">
+                <h4>Previous Project</h4>
+                <span>{{ .PrevInSection.Title }}</span>
+            </a>
+            {{ end }}
+        </div>
+        <div>
+            {{ if .NextInSection }}
+            <a href="{{ .NextInSection.Permalink  }}">
+                <h4>Next Project</h4>
+                <span>{{ .NextInSection.Title }}</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+
+    <div style="clear:both"></div>
+    <input type="checkbox" id="disqus">
+    <div>
+        <div>{{ template "_internal/disqus.html" . }}</div>
+    </div>
 </footer>

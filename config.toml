@@ -1,7 +1,7 @@
 baseurl = "https://henriquedias.com/"
 disqusShortname = "hacdias"
 languageCode = "en_GB"
-paginate = 10
+paginate = 15
 pluralizelisttitles = false
 removePathAccents = true
 title = "Henrique Dias"
@@ -40,7 +40,7 @@ title = "Henrique Dias"
 [[menu.main]]
     name = "Projects"
     weight = 3
-    url = "/work/"
+    url = "/projects/"
 [[menu.main]]
     name = "Donate"
     weight = 4

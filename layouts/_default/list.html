@@ -1,21 +1,20 @@
 {{ partial "header" . }}
 
 <main role="main">
-	{{ if not (eq .Title "Blog") }}
-	<h1>{{ .Title }}</h1>
-	{{ end }}
-
-	<ul class="listing">
-		{{ range .Paginator.Pages }}
-		<article>
-		<a href="{{ .Permalink }}">{{ partial "article/header" . }}</a>
-		<p>{{ .Summary }}</p>
-
-		<p><a href="{{ .Permalink }}">Read more</a></p>
-		</article>
-		{{ end }}
+	<div class="listing">
+		<h1>{{ .Title }}</h1>
+		<ul>
+			{{ range .Paginator.Pages }}
+			<li>
+				<a href="{{ .Permalink }}">
+					<h3>{{ .Title }}</h3>
+					<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+				</a>
+			</li>
+			{{ end }}
+		</ul>
 		{{ partial "pagination" . }}
-	</ul>
+	</div>
 </main>
 
 {{ partial "footer" . }}
