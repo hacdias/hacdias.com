@@ -7,16 +7,12 @@
 
 	<ul class="listing">
 		{{ range .Paginator.Pages }}
-		<li class="item">
-			<a href="{{ .Permalink }}">
-				{{ if .Params.image }}<img class="image" src="/images/{{ .Params.image }}-small.jpg">{{ end }}
-				<div>
-					<span>{{ .ReadingTime  }} min read</span>
-					<h2>{{ .Title }}</h2>
-					<p>{{ .Description }}</p>
-				</div>
-			</a>
-		</li>
+		<article>
+		<a href="{{ .Permalink }}">{{ partial "article/header" . }}</a>
+		<p>{{ .Summary }}</p>
+
+		<p><a href="{{ .Permalink }}">Read more</a></p>
+		</article>
 		{{ end }}
 		{{ partial "pagination" . }}
 	</ul>

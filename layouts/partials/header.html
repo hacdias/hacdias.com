@@ -5,8 +5,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#fff">
-<link rel="icon" sizes="192x192" href="/icon.png">
-
 {{ partial "head/base" . }}
 {{ partial "head/open_graph" . }}
 {{ partial "head/twitter" .}}
@@ -17,21 +15,28 @@
 {{ if not .IsNode }}{{ if eq .Type "post" }}{{ partial "schema/article" . }}{{ end }}{{ end }}
 </head>
 
-<body class="{{ if .IsHome }}home{{ else if .IsPage }}page{{ else }}other{{ end }}">
-    <input type="checkbox" id="expand">
+<body>
     <nav>
+        <a href="{{ .Site.BaseURL }}">
+            Henrique Dias
+            <span>Programmer</span>
+        </a>
+
         <ul>
-            <li><label for="expand" id="expand-button"><span>&#9660;</span></label>
-                <a href="{{ .Site.BaseURL }}">
-                    <img src="/henrique.jpg">
-                    <div>
-                        <span class="name">Henrique Dias</span>
-                        <span class="tagline">Aspiring Programmer</span>
-                    </div>
-                </a>
-            </li>
-            <li><a href="{{ .Site.BaseURL }}about/">About</a></li>
-            <li><a href="{{ .Site.BaseURL }}blog/">Blog</a></li>
-            <li><a href="{{ .Site.BaseURL }}work/">Projects</a></li>
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}" {{if eq $currentPage.RelPermalink .URL }}class="active"{{end}}>{{ .Name }}</a></li>
+            {{end}}
         </ul>
+        
+        <div>
+            <a href="mailto:hacdias@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+            <a href="https://linkedin.com/in/{{ .Site.Params.Social.LinkedIn }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://github.com/{{ .Site.Params.Social.GitHub }}"><i class="fa fa-github" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/{{ .Site.Params.Social.Twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://instagram.com/{{ .Site.Params.Social.Instagram }}"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/{{ .Site.Params.Social.Facebook }}"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://stackoverflow.com/users/2681565/henrique-dias"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+            <a href="https://medium.com/@hacdias"><i class="fa fa-medium" aria-hidden="true"></i></a>
+        </div>
     </nav>

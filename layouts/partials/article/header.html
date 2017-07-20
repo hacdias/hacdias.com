@@ -1,6 +1,14 @@
 <header>
-    {{ if isset .Params "image" }}<img src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">{{ end }}
-    {{ if eq .Type "post" }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
+    {{ if isset .Params "image" -}}
+        <img src="{{ .Site.BaseURL }}images/{{ .Params.image }}.jpg">
+    {{- end }}
+    {{ if eq .Type "post" -}}
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    {{- end }}
     <h1>{{ .Title }}</h1>
-    {{ if isset .Params "show_description" }}{{ if .Params.show_description }}<p class="description">{{.Description}}</p>{{ end }}{{ end }}
+    {{ if isset .Params "show_description" -}}
+        {{- if .Params.show_description -}}
+            <p>{{.Description}}</p>
+        {{- end -}}
+    {{- end -}}
 </header>

@@ -27,3 +27,25 @@ title = "Henrique Dias"
   [params.Webmaster]
     Bing = "B471CBBC9EF6900039C6BBF251EF277C"
     Google = "nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY"
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    identifier = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url = "/blog/"
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "/work/"
+[[menu.main]]
+    name = "Donate"
+    weight = 4
+    url = "/donate/"
+[[menu.main]]
+    name = "PGP Key"
+    weight = 5
+    url = "/pgp/"

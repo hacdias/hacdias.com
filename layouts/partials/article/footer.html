@@ -1,38 +1,34 @@
 <footer>
-  <div class="share-buttons">
-    <a class="twitter social" target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Params.Social.Twitter }}">
-      <i class="fa fa-twitter"></i><span>Twitter</span>
-    </a>
-    <a class="facebook social" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
-      <i class="fa fa-facebook"></i><span>Facebook</span>
-    </a>
-    <label class="social" for="show_disqus">
-      <i class="fa fa-comments" aria-hidden="true"></i><span>Show comments</span>
-    </label>
-    <a class="gplus social" target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}">
-      <i class="fa fa-google-plus"></i><span>Google+</span>
-    </a>
-    <a class="linkedin social" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias">
-      <i class="fa fa-linkedin"></i><span>LinkedIn</span>
-    </a>
-  </div>
-
-  <div id="more">
+  <div class="share">
     {{ if .Prev }}
-    <a href="{{ .Prev.Permalink  }}" class="next">
-      <i class="fa fa-arrow-left" aria-hidden="true"></i><span>Previous</span>
+    <a href="{{ .Prev.Permalink  }}">
+      <i class="fa fa-arrow-left"></i>
     </a>
     {{ end }}
-
+    <a class="twitter" target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Params.Social.Twitter }}">
+      <i class="fa fa-twitter"></i>
+    </a>
+    <a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
+      <i class="fa fa-facebook"></i>
+    </a>
+    <label for="disqus">
+      <i class="fa fa-comments"></i>
+    </label>
+    <a class="gplus" target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}">
+      <i class="fa fa-google-plus"></i>
+    </a>
+    <a class="linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias">
+      <i class="fa fa-linkedin"></i>
+    </a>
     {{ if .Next }}
-    <a href="{{ .Next.Permalink  }}" class="prev">
-      <i class="fa fa-arrow-right" aria-hidden="true"></i><span>Next</span>
+    <a href="{{ .Next.Permalink  }}">
+      <i class="fa fa-arrow-right"></i>
     </a>
     {{ end }}
   </div>
 
   <div style="clear:both"></div>
-  <input type="checkbox" id="show_disqus">
+  <input type="checkbox" id="disqus">
   <div>
       <div>{{ template "_internal/disqus.html" . }}</div>
   </div>
