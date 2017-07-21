@@ -1,18 +1,14 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.LanguageCode }}">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#fff">
-{{ partial "head/base" . }}
-{{ partial "head/open_graph" . }}
-{{ partial "head/twitter" .}}
-{{ partial "head/webmaster" .}}
-{{ partial "head/icons" .}}
-{{ partial "head/includes" .}}
-{{ partial "schema/person" . }}
-{{ if not .IsNode }}{{ if eq .Type "post" }}{{ partial "schema/article" . }}{{ end }}{{ end }}
+    {{ partial "head/base" . }}
+    {{ partial "head/open_graph" . }}
+    {{ partial "head/twitter" .}}
+    {{ partial "head/webmaster" .}}
+    {{ partial "head/icons" .}}
+    {{ partial "head/includes" .}}
+    {{ partial "schema/person" . }}
+    {{ if not .IsNode }}{{ if eq .Type "post" }}{{ partial "schema/article" . }}{{ end }}{{ end }}
 </head>
 
 <body>
