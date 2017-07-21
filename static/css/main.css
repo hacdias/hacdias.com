@@ -285,7 +285,7 @@ article figure.medium {
 }
 
 article figure img {
-    /* width: 100%; */
+    width: 100%;
 }
 
 article figure figcaption {
