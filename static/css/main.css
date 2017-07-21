@@ -278,15 +278,14 @@ article p code {
 }
 
 article .video-player,
-article figure.medium,
-article figure {
+article figure.medium {
     max-width: 800px;
     margin: 2em auto;
     text-align: center;
 }
 
 article figure img {
-    width: 100%;
+    /* width: 100%; */
 }
 
 article figure figcaption {
