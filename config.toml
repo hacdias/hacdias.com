@@ -1,6 +1,6 @@
 baseurl = "https://henriquedias.com/"
 disqusShortname = "hacdias"
-languageCode = "en_GB"
+languageCode = "en"
 paginate = 15
 pluralizelisttitles = false
 removePathAccents = true

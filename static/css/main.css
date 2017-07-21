@@ -216,22 +216,7 @@ article p {
 .pagination,
 main>h1,
 body>footer,
-article .video-player,
-article time,
-article pre,
-article p,
-article hr,
-article h1,
-article h2,
-article h3,
-article h4,
-article h5,
-article ul,
-article ol,
-article blockquote,
-article table,
-article .discussion,
-article footer {
+article>* {
     width: calc(100% - 64px);
     max-width: 700px;
     margin-right: auto;
@@ -241,13 +226,12 @@ article footer {
 article .video-player,
 article figure.medium,
 article figure,
-article header img,
 article .video-player.full,
 article figure.full {
     width: calc(100% - 64px);
 }
 
-article header img {
+article figure#banner img {
     max-height: 28em;
     object-fit: cover;
     margin: 0 auto 1em;
@@ -311,7 +295,6 @@ article figure figcaption {
     color: rgba(0, 0, 0, 0.6);
 }
 
-article header img,
 article .video-player.full,
 article figure.full {
     max-width: 100%;
@@ -580,6 +563,51 @@ blockquote:after {
     color: #212121;
 }
 
+form {
+    padding: 1em;
+    display: flex;
+    background-color: #f5f5f5;
+}
+
+form input[type="email"],
+form input[type="text"],
+form input[type="submit"] {
+    flex-grow: 1;
+    width: auto;
+    display: inline-block;
+    outline: none;
+    font-size: 1em;
+}
+
+form input[type="email"],
+form input[type="text"] {
+    width: 0;
+    padding: 1em 0;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    margin-right: 1em;
+}
+
+form input[type="email"]:focus,
+form input[type="text"]:focus {
+    border-color: #2196F3;
+}
+
+form input[type="submit"] {
+    border: none;
+    background: #2196F3;
+    color: #fff;
+    cursor: pointer;
+    max-width: 7em;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin: 1.2em 0;
+}
+
 body>footer {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     padding: 1.2em 0;
@@ -819,5 +847,15 @@ body>footer:hover span {
     }
     div.slider button {
         opacity: 1;
+    }
+}
+
+@media (max-width: 450px) {
+    .mosaic ul {
+        flex-direction: column
+    }
+    .mosaic li {
+        width: 100%;
+        padding-bottom: 100%;
     }
 }
