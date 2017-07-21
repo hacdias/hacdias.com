@@ -193,6 +193,7 @@ div.slider button.right {
 div.slider p {
     font-size: 1.5em;
     max-width: 25em;
+    width: calc(100% - 4.5em);
     margin: 0 auto;
     text-align: center;
     transform: translateY(calc(50vh - 50%));
@@ -492,6 +493,8 @@ blockquote:after {
 .listing li a time {
     margin-left: auto;
     color: rgba(0, 0, 0, 0.3);
+    width: 7em;
+    text-align: right;
 }
 
 .mosaic ul {
@@ -808,10 +811,10 @@ body>footer:hover span {
         margin-left: .5em;
     }
     nav ul {
-        margin: 1em 0;
+        margin: 0.4em 0;
     }
     nav ul li {
-        display: inline;
+        display: inline-block;
         margin-right: 1em;
     }
     div.slider button {
