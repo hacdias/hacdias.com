@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en_GB">
+<html class="no-js" lang="en">
 <head>
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +9,7 @@
 <link rel="canonical" href="https://henriquedias.com/blog/remover-hash-dos-links-continuar-a-ler/">
 <link rel="publisher" href="https://plus.google.com/+HenriqueDias"/>
 
-    <meta property="og:locale" content="en_GB" />
+    <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Remover hash dos links &#34;Continuar a Ler&#34;" />
 <meta property="og:description" content="Por padrão, nos artigos do WordPress, quando se clica em &#34;Ler mais&#34;, o utilizador é redirecionado para onde estava a ler. Aprenda a remover essa opção." />
@@ -131,8 +131,8 @@
 
 <main role="main" class="single">
     <article>
-    <header>
-    <img src="https://henriquedias.com/images/wordpress-logos.jpg">
+     <figure id="banner" class="full"><img src="https://henriquedias.com/images/wordpress-logos.jpg"></figure>
+<header>
     <time datetime="2014-07-14">July 14, 2014</time>
     <h1>Remover hash dos links &#34;Continuar a Ler&#34;</h1>
     </header>
@@ -196,25 +196,6 @@ add_filter( 'the_content_more_link', 'remove_more_link_scroll' );
     </a>
     </div>
 
-    <div class="nextprev">
-        <div>
-            
-            <a href="https://henriquedias.com/blog/apresentacao/">
-                <h4>Previous Project</h4>
-                <span>Apresentação</span>
-            </a>
-            
-        </div>
-        <div>
-            
-            <a href="https://henriquedias.com/blog/selecionar-um-intervalo-de-linhas-em-mysql/">
-                <h4>Next Project</h4>
-                <span>Selecionar um intervalo de linhas em MySQL</span>
-            </a>
-            
-        </div>
-    </div>
-
     <div style="clear:both"></div>
     <input type="checkbox" id="disqus">
     <div>
@@ -234,13 +215,32 @@ add_filter( 'the_content_more_link', 'remove_more_link_scroll' );
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a></div>
     </div>
+
+    <div class="nextprev">
+        <div>
+            
+            <a href="https://henriquedias.com/blog/apresentacao/">
+                <h4>Previous Project</h4>
+                <span>Apresentação</span>
+            </a>
+            
+        </div>
+        <div>
+            
+            <a href="https://henriquedias.com/blog/selecionar-um-intervalo-de-linhas-em-mysql/">
+                <h4>Next Project</h4>
+                <span>Selecionar um intervalo de linhas em MySQL</span>
+            </a>
+            
+        </div>
+    </div>
 </footer>
     
     </article>
 </main>
 
 <footer>
-    <p>&copy; Henrique Dias - made with <a href="http://gohugo.io/">Hugo</a> and <span>&#10084;</span></p>
+    <p>&copy; Henrique Dias - made with <a href="http://gohugo.io/">Hugo</a> and <span><i class="fa fa-heart" aria-hidden="true"></i></span></p>
 </footer>
 
 <script>

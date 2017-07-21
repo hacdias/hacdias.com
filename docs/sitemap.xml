@@ -354,6 +354,10 @@
   </url>
   
   <url>
+    <loc>https://henriquedias.com/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://henriquedias.com/tags/addons/</loc>
     <lastmod>2014-08-16T09:39:32+00:00</lastmod>
     <priority>0</priority>
@@ -636,10 +640,6 @@
     <loc>https://henriquedias.com/</loc>
     <lastmod>2017-04-11T12:10:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://henriquedias.com/about/</loc>
   </url>
   
   <url>

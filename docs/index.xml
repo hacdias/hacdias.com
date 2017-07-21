@@ -5,7 +5,7 @@
     <link>https://henriquedias.com/</link>
     <description>Recent content on Henrique Dias</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en_GB</language>
+    <language>en</language>
     <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
     <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
     <lastBuildDate>Tue, 11 Apr 2017 12:10:00 +0000</lastBuildDate>
@@ -756,6 +756,15 @@ I&amp;rsquo;ve mainly played a part in Pplware Kids, which is a blog directed to
     </item>
     
     <item>
+      <title>About Me</title>
+      <link>https://henriquedias.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/about/</guid>
+      <description>Since I was very young, I&amp;rsquo;ve always wanted to do something with computers. I didn&amp;rsquo;t know why, but I knew that it would be related to what I wanted to do in future. Over the time, my interest in programming grew up a lot and I&amp;rsquo;ve been learning since I was 13 or 14… maybe? I can&amp;rsquo;t recall correctly but that&amp;rsquo;s not what matters. The present is what matters.</description>
+    </item>
+    
+    <item>
       <title>Donate</title>
       <link>https://henriquedias.com/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -765,16 +774,6 @@ I&amp;rsquo;ve mainly played a part in Pplware Kids, which is a blog directed to
 35pnYMF6yYvD2KaYzpYAmg83bUM5Z4GEzs  PayPal:
  paypal.me/henriquedias hacdias@gmail.com  Or, if you want to tip recurrently:
  gratipay.com/~hacdias  </description>
-    </item>
-    
-    <item>
-      <title>Hi, I&#39;m Henrique Dias!</title>
-      <link>https://henriquedias.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hacdias@gmail.com (Henrique Dias)</author>
-      <guid>https://henriquedias.com/about/</guid>
-      <description>I&amp;rsquo;m interested about many topics such as physics, biology, math, ethics, philosophy, but programming has taken a place above all of the other subjects (it doesn&amp;rsquo;t mean they aren&amp;rsquo;t worth exploring in the future).
-  I love to participate   Here&amp;rsquo;s a funny story about me: when I was a little boy, I liked to open Word on my father&amp;rsquo;s computer and type randomly. Once, his computer crashed at boot time and he blamed me, saying I clicked on one of the &amp;ldquo;F&amp;rdquo; keys while playing on Word.</description>
     </item>
     
     <item>
