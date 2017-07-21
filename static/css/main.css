@@ -99,7 +99,101 @@ nav div a {
 }
 
 main {
-    padding: 2em 2em 0;
+    margin-top: 2em;
+}
+
+.serif {
+    font-family: 'Merriweather', sans-serif;
+}
+
+mark.light {
+    background-color: #EEEEEE;
+}
+
+mark.dark {
+    background-color: #333;
+    color: #fff;
+}
+
+div.light {
+    background-color: #EEEEEE;
+}
+
+div.dark {
+    background-color: #212121;
+    color: #fff;
+}
+
+.home {
+    margin: 0;
+}
+
+div.slider figure {
+    position: relative;
+    height: 100%;
+    width: 500%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    text-align: left;
+    transition: .2s ease left;
+    display: flex;
+}
+
+div.slider figure img {
+    object-fit: cover;
+}
+
+div.slider figure>* {
+    width: 20%;
+    height: 100%;
+}
+
+div.slider {
+    height: 100vh;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+div.slider button {
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.15);
+    border: 0;
+    color: #fff;
+    height: 3em;
+    width: 2em;
+    z-index: 999;
+    cursor: pointer;
+    transition: .2s ease opacity;
+    outline: none;
+}
+
+div.slider:hover button {
+    opacity: 1;
+}
+
+div.slider button.left {
+    left: 0;
+}
+
+div.slider button.right {
+    right: 0;
+}
+
+div.slider p {
+    font-size: 1.5em;
+    max-width: 25em;
+    margin: 0 auto;
+    text-align: center;
+    transform: translateY(calc(50vh - 50%));
+}
+
+p.big {
+    font-size: 3em !important;
 }
 
 body>footer,
@@ -110,6 +204,8 @@ article p {
     line-height: 1.6;
 }
 
+.mosaic,
+.listing,
 .pagination,
 main>h1,
 body>footer,
@@ -129,16 +225,25 @@ article blockquote,
 article table,
 article .discussion,
 article footer {
-    margin: 1em auto;
-    width: 90%;
+    width: calc(100% - 64px);
     max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+article .video-player,
+article figure.medium,
+article figure,
+article header img,
+article .video-player.full,
+article figure.full {
+    width: calc(100% - 64px);
 }
 
 article header img {
     max-height: 28em;
     object-fit: cover;
-    width: 100%;
-    margin-bottom: 1em;
+    margin: 0 auto 1em;
     display: block;
 }
 
@@ -184,10 +289,13 @@ article p code {
 article .video-player,
 article figure.medium,
 article figure {
-    max-width: 750px;
-    width: 95%;
-    margin: 1em auto;
+    max-width: 800px;
+    margin: 2em auto;
     text-align: center;
+}
+
+article figure img {
+    width: 100%;
 }
 
 article figure figcaption {
@@ -196,9 +304,9 @@ article figure figcaption {
     color: rgba(0, 0, 0, 0.6);
 }
 
+article header img,
 article .video-player.full,
 article figure.full {
-    width: 100%;
     max-width: 100%;
 }
 
@@ -357,12 +465,6 @@ blockquote:after {
     font-weight: normal;
 }
 
-.listing {
-    margin: 1em auto;
-    width: 90%;
-    max-width: 700px;
-}
-
 .listing ul {
     margin: 0 auto;
     padding: 0;
@@ -384,11 +486,6 @@ blockquote:after {
 .listing li a time {
     margin-left: auto;
     color: rgba(0, 0, 0, 0.3);
-}
-
-.mosaic {
-    max-width: 700px;
-    margin: 0 auto;
 }
 
 .mosaic ul {
@@ -500,24 +597,6 @@ body>footer a {
 
 body>footer:hover span {
     color: red;
-}
-
-.home {
-    position: relative
-}
-
-.home p {
-    position: absolute;
-    top: 50vh;
-    transform: translate(-50%, -50%);
-    max-width: 26em;
-    width: 51%;
-    left: 50%;
-    font-family: 'Merriweather', sans-serif;
-    font-style: italic;
-    font-size: 1.5em;
-    line-height: 1.5;
-    margin: 0;
 }
 
 .glitch {

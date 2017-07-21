@@ -9,7 +9,7 @@ title = "Henrique Dias"
 [params]
   Analytics = "59697241-1"
   Description = "Student. 17. Passionate about programming. Music and photography addicted. I love the idea of improving the world using technology."
-  Image = "home"
+  Image = "home/1"
   [params.Author]
     Email = "hacdias@gmail.com"
     Image = "henrique.jpg"
