@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en_GB">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#fff">
+<title>MVC na linguagem PHP - III</title>
+<meta name="description" content="No seguimento da criação de uma framework PHP que utilize o modelo MVC, hoje explicamos como se criam os controladores.">
+<link rel="canonical" href="https://henriquedias.com/blog/mvc-linguagem-php-iii/">
+<link rel="publisher" href="https://plus.google.com/+HenriqueDias"/>
+
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="MVC na linguagem PHP - III" />
+<meta property="og:description" content="No seguimento da criação de uma framework PHP que utilize o modelo MVC, hoje explicamos como se criam os controladores." />
+<meta property="og:url" content="https://henriquedias.com/blog/mvc-linguagem-php-iii/" />
+<meta property="og:site_name" content="Henrique Dias" />
+<meta property="article:publisher" content="https://www.facebook.com/hacdias" />
+<meta property="article:author" content="https://www.facebook.com/hacdias" />
+<meta property="article:tag" content="MVC, PHP, Tutorial" />
+<meta property="article:section" content="Tutorials" />
+<meta property="article:published_time" content="2014-12-20T09:00:23&#43;00:00" />
+<meta property="article:modified_time" content="2014-12-20T09:00:23&#43;00:00" />
+<meta property="og:updated_time" content="2014-12-20T09:00:23&#43;00:00" /> 
+<meta property="og:image" content="https://henriquedias.com/images/home/1.jpg" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="No seguimento da criação de uma framework PHP que utilize o modelo MVC, hoje explicamos como se criam os controladores."/>
+<meta name="twitter:title" content="MVC na linguagem PHP - III"/>
+<meta name="twitter:site" content="@hacdias"/>
+<meta name="twitter:domain" content="Henrique Dias"/>
+<meta name="twitter:image:src" content="https://henriquedias.com/images/home/1.jpg"/>
+<meta name="twitter:creator" content="@hacdias"/>
+
+<meta name="msvalidate.01" content="B471CBBC9EF6900039C6BBF251EF277C" />
+<meta name="google-site-verification" content="nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY" />
+
+<link rel="shortcut icon" href="https://henriquedias.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://henriquedias.com/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="192x192" href="/icon.png">
+
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
+
+<link rel="stylesheet" href="https://henriquedias.com/css/normalize.css">
+<link rel="stylesheet" href="https://henriquedias.com/css/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script src="/app.js" async></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "email": "mailto:hacdias@gmail.com",
+  "image": "https://henriquedias.com/henrique.jpg",
+  "jobTitle": "Author",
+  "name": "Henrique Dias",
+  "telephone": "",
+  "url": "https://henriquedias.com/",
+  "sameAs" : [ "http://www.facebook.com/hacdias",
+      "http://twitter.com/hacdias",
+      "http://instagram.com/hacdias",
+      "http://www.linkedin.com/in/hacdias",
+      "http://plus.google.com/+HenriqueDias"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": "Henrique Dias",
+  "name": "MVC na linguagem PHP - III",
+  "datePublished": "2014-12-20",
+  "headline": "No seguimento da criação de uma framework PHP que utilize o modelo MVC, hoje explicamos como se criam os controladores.",
+  "image": "https://henriquedias.com/home/1"
+}
+</script>
+
+</head>
+
+<body>
+    <nav>
+        <a href="https://henriquedias.com/">
+            Henrique Dias
+            <span>Programmer</span>
+        </a>
+
+        <ul>
+            
+            
+            <li><a href="/about/" >About</a></li>
+            
+            <li><a href="/blog/" >Blog</a></li>
+            
+            <li><a href="/projects/" >Projects</a></li>
+            
+            <li><a href="/donate/" >Donate</a></li>
+            
+            <li><a href="/pgp/" >PGP Key</a></li>
+            
+        </ul>
+        
+        <div>
+            <a href="mailto:hacdias@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+            <a href="https://linkedin.com/in/hacdias"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://github.com/hacdias"><i class="fa fa-github" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/hacdias"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://instagram.com/hacdias"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/hacdias"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://stackoverflow.com/users/2681565/henrique-dias"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+            <a href="https://medium.com/@hacdias"><i class="fa fa-medium" aria-hidden="true"></i></a>
+        </div>
+    </nav>
+
+
+<main role="main" class="single">
+    <article>
+    <header>
+    
+    <time datetime="2014-12-20">December 20, 2014</time>
+    <h1>MVC na linguagem PHP - III</h1>
+    </header>
+
+    
+
+<p>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.</p>
+
+<p>A <a href="/tutorials/mvc-linguagem-php/">primeira</a> e <a href="/tutorials/mvc-linguagem-php-ii/">segunda</a> partes já foram publicadas e hoje é a vez da terceira onde tudo começa a tornar-se mais facilmente compreendido.</p>
+
+<p><img src="/images/mvcphp.jpg" alt="Modelo MVC – Uma exemplificação com PHP #3" /></p>
+
+<p>Em primeiro lugar, quero referir algumas modificações que efetuei em alguns dos ficheiros que já trabalhámos.</p>
+
+<p>Adicionei a constante <code>SITE_TITLE</code> ao ficheiro <code>config.php</code>, ficando a primeira secção deste ficheiro da seguinte forma:</p>
+
+<pre><code class="language-php">&lt;?php //...
+//1. Base Constants
+define('ROOT', dirname(__FILE__) . '/');
+define('URL', 'http://localhost/mvc/');
+define('SITE_TITLE', 'Simple MVC Structure Model');
+//...
+</code></pre>
+
+<p>Na classe <code>View</code> foi adicionada uma função que permitirá ao utilizador definir o título (aquele que aparece na parte superior do <em>browser</em>).</p>
+
+<pre><code class="language-php">public function setTitle($title)
+{
+    $this-&gt;_pageInfo['title'] = $title . ' | ' . SITE_TITLE;
+}
+</code></pre>
+
+<h2 id="public-html"><code>public_html</code></h2>
+
+<p>Hoje vamos continuar a nossa jornada começando na pasta pública, ou seja, na pasta <code>public_html</code>. Vamos começar com o nosso maravilhoso <code>.htaccess</code>.</p>
+
+<pre><code class="language-apache">ErrorDocument 404 /404
+ErrorDocument 500 /500
+
+&lt;IfModule mod_rewrite.c&gt;
+
+    RewriteEngine On
+
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-l
+
+    RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+
+&lt;/IfModule&gt;
+</code></pre>
+
+<p>Como pode ver, todos os pedidos serão direcionados para o ficheiro <code>index.php</code> com o URL completo na forma de parâmetro GET.</p>
+
+<p>Falando em <code>index.php</code>, e que tal lhe darmos uma espreitadela? Este vai ser o ficheiro que vai iniciar toda a sequência de acontecimentos. Ora veja:</p>
+
+<pre><code class="language-php">&lt;?php
+
+/**
+ * Main file.
+ *
+ * @package MVC PHP Bootstrap
+ */
+require '../app_core/config.php';
+
+function autoLoad($className)
+{
+    require DIR_LIBS . $className . '.php';
+}
+
+spl_autoload_register('autoLoad');
+
+$bootstrap = new Bootstrap();
+$bootstrap-&gt;init();
+</code></pre>
+
+<p>Neste ficheiro, como pode ver, o ficheiro das configurações é chamado e, de seguida, é criado uma função de auto carregamento.</p>
+
+<p>O que faz esta função? Simplesmente tenta carregar uma classe indefinida. Como pode ver, eu não importo a classe <code>Bootstrap</code>, mas logo de seguida uso-a.</p>
+
+<p>Consigo utilizá-la porque a a função de <em>auto load</em> chama esta classe automaticamente. Mas atenção! Este código apenas nos permite carregar automaticamente classes contidas na pasta <code>libs</code>.</p>
+
+<blockquote>
+<p>Se neste momento experimentar correr o código nesta pasta irá receber diversos erros porque ainda não foram criados nenhuns controladores. Nem mesmo o dos erros!</p>
+</blockquote>
+
+<h2 id="header-and-footer"><em>Header and Footer</em></h2>
+
+<p>Antes de continuarmos para a criação dos controladores, devemos criar os ficheiros do cabeçalho e do rodapé que são chamados quando executamos a função <em>render</em>.</p>
+
+<p>Estes dois ficheiros deverão estar localizados na diretoria <code>app_core/views/*.php</code>, onde <code>*</code> corresponde a <em>header</em> e a <em>footer</em>.</p>
+
+<p>A minha proposta para o ficheiro do cabeçalho é a seguinte:</p>
+
+<pre><code class="language-html">&lt;!doctype html&gt;
+&lt;html lang='en-EN'&gt;
+
+&lt;head&gt;
+    &lt;title&gt;&lt;?php echo (isset($this-&gt;_pageInfo['title'])) ? $this-&gt;_pageInfo['title'] : SITE_TITLE; ?&gt;&lt;/title&gt;
+
+    &lt;meta charset='utf-8'&gt;
+    &lt;meta name='viewport' content='width=device-width, initial-scale=1'&gt;
+
+    &lt;link rel='stylesheet' href='&lt;?php echo URL; ?&gt;css/template.css' type='text/css' media='all'/&gt;
+    &lt;link rel='stylesheet' href='&lt;?php echo URL; ?&gt;css/normalize.css' type='text/css' media='all'/&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;div id='header'&gt;
+    &lt;strong&gt;MVCPHPB&lt;/strong&gt;
+    | &lt;a href=&quot;&lt;?php echo URL; ?&gt;&quot;&gt;Home&lt;/a&gt;
+    | &lt;a href=&quot;&lt;?php echo URL; ?&gt;page&quot;&gt;Page&lt;/a&gt;
+    | &lt;a href=&quot;&lt;?php echo URL; ?&gt;posts&quot;&gt;Posts&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;wrap&quot;&gt;
+</code></pre>
+
+<p>Onde já temos o título da página que será igual ao título que é definido utilizando a função que referi no início do artigo, ou apenas o nome do site.</p>
+
+<p>Deixei também uma pequena introdução à estrutura HTML do site e uma pista àquilo que iremos criar: iremos criar uma página estática (<em>Page</em>) e uma página dinâmica com alguns itens de uma base de dados (<em>Posts</em>).</p>
+
+<p>Estou também a utilizar o <code>normalize.css</code> e uma folha de estilos própria com alguns ajustes de forma a distinguir melhor cada uma das partes do site. Aqui está o <code>template.css</code> (deve ser colocado na pasta <code>css</code>):</p>
+
+<pre><code class="language-css">#header,
+#wrap,
+#footer {
+  padding: 20px;
+}
+
+#header {
+  background: rgba(0,0,0,0.12);
+}
+
+#footer {
+  background: rgba(0,0,0,0.5);
+  color: #fff;
+}
+</code></pre>
+
+<p>Vamos agora ver o rodapé. O rodapé está localizado no ficheiro <code>app_core/views/footer.php</code> e o conteúdo deve ser algo semelhante ao seguinte:</p>
+
+<pre><code class="language-html">&lt;/div&gt;
+
+&lt;footer id=&quot;footer&quot;&gt;
+    &lt;strong&gt;&lt;strong&gt;MVCPHPB&lt;/strong&gt;&lt;/strong&gt; Footer
+&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<h2 id="controladores">Controladores</h2>
+
+<p>Depois de termos &ldquo;montado&rdquo; a estrutura, devemos passar à criação das páginas. Em primeiro lugar, vamos criar o controlador do erro.</p>
+
+<pre><code class="language-php">&lt;?php
+
+namespace Controller;
+
+class Error extends Controller
+{
+
+    function __construct()
+    {
+        parent::__construct('error');
+    }
+
+    function index($error = '404')
+    {
+        $data = array();
+
+        switch ($error) {
+            case '404':
+                $data['title'] = 'Error 404';
+                $data['msg'] = &quot;Not found. There is nothing here.&quot;;
+                break;
+            case '500':
+            default:
+                $data['title'] = 'Error 500';
+                $data['msg'] = &quot;Internal Server Error. Probably we did something wrong.&quot;;
+                break;
+        }
+
+        $this-&gt;view-&gt;setTitle($data['title']);
+        $this-&gt;view-&gt;setData($data);
+        $this-&gt;view-&gt;render('error/index');
+    }
+
+}
+</code></pre>
+
+<p>Os controladores devem pertencer à <em>namespace</em> Controller e devem ter, obrigatoriamente, o seu construtor presente no formato mostrado acima.</p>
+
+<p>Este é um controlador que só terá o método _index _relacionado com as páginas pois não irá ser utilizado mais nenhum. Acima pode visualizar que este método irá receber um argumento que, por padrão, é &lsquo;404&rsquo;.</p>
+
+<p>De seguida, algumas informações são atribuídas dependendo do erro em questão. Depois o título da página é definido e, mais tarde, os dados são enviados para a <em>view</em>.</p>
+
+<p>Falando em <em>view</em>, esta é renderizada logo de seguida. A _view _que colocámos é <code>error/index</code>, então o ficheiro PHP deverá encontrar-se em <code>app_core/views/error/index.php</code>.</p>
+
+<blockquote>
+<p>Se experimentar correr o código neste momento, deverá receber um erro por não encontrar a _View _da página de erro.</p>
+</blockquote>
+
+<p>Vamos então visualizar a <em>view</em> que corresponde à página de erro:</p>
+
+<pre><code class="language-php">    &lt;h1&gt; &lt;?php echo $this-&gt;_data['title'] ?&gt;&lt;/h1&gt;
+
+    &lt;p&gt;&lt;?php echo $this-&gt;_data['msg']; ?&gt;&lt;/p&gt;
+</code></pre>
+
+<p>É simples. Serve apenas para mostrar que ocorreu um erro. Mas não podemos continuar assim pois ao abrirmos a página inicial estamos apenas a ver um erro.</p>
+
+<p>Vamos então criar o controlador da página inicial, que deve conter o seguinte código:</p>
+
+<pre><code class="language-php">&lt;?php
+
+namespace Controller;
+
+class Index extends Controller
+{
+
+    function __construct()
+    {
+        parent::__construct('index');
+    }
+
+    function index()
+    {
+        $this-&gt;view-&gt;setTitle('Home');
+        $this-&gt;view-&gt;render('index/index');
+    }
+
+}
+</code></pre>
+
+<p>E o ficheiro da sua _view _deverá ter qualquer coisa que deseje. Eu, por exemplo, coloquei:</p>
+
+<pre><code class="language-html">&lt;h1&gt;MVC PHP Bootstrap (MVCPHPB)&lt;/h1&gt;
+
+&lt;p&gt;This is the main page of this website that is a simple mvc structure model example.&lt;/p&gt;
+
+&lt;p&gt;Esta é a página principal deste site que é um exemplo de modelo de estrutura MVC simples.&lt;/p&gt;
+</code></pre>
+
+<p>Coloque o que queira. De momento, se aceder à página inicial deverá visualizar a página inicial propriamente dita e se tentar, eventualmente, abrir qualquer outra possível página, irá ver a página de erro 404.</p>
+
+<p><strong>No próximo tutorial iremos ver a criação de uma página dinâmica com um modelo</strong>. Pode, entretanto, experimentar criar mais páginas ou até mesmo criar mais métodos para sub-páginas.</p>
+
+    
+    <footer>
+    <div class="share">
+        <a class="twitter" target="_blank" href="https://twitter.com/share?url=https%3a%2f%2fhenriquedias.com%2fblog%2fmvc-linguagem-php-iii%2f&via=hacdias">
+      <i class="fa fa-twitter"></i>
+    </a>
+        <a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fhenriquedias.com%2fblog%2fmvc-linguagem-php-iii%2f">
+      <i class="fa fa-facebook"></i>
+    </a>
+        <label for="disqus">
+      <i class="fa fa-comments"></i>
+    </label>
+        <a class="gplus" target="_blank" href="https://plus.google.com/share?url=https%3a%2f%2fhenriquedias.com%2fblog%2fmvc-linguagem-php-iii%2f">
+      <i class="fa fa-google-plus"></i>
+    </a>
+        <a class="linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fhenriquedias.com%2fblog%2fmvc-linguagem-php-iii%2f&title=MVC%20na%20linguagem%20PHP%20-%20III&source=Henrique%Dias">
+      <i class="fa fa-linkedin"></i>
+    </a>
+    </div>
+
+    <div class="nextprev">
+        <div>
+            
+            <a href="https://henriquedias.com/blog/mvc-linguagem-php-ii/">
+                <h4>Previous Project</h4>
+                <span>MVC na linguagem PHP - II</span>
+            </a>
+            
+        </div>
+        <div>
+            
+            <a href="https://henriquedias.com/blog/mvc-linguagem-php-iv/">
+                <h4>Next Project</h4>
+                <span>MVC na linguagem PHP - IV</span>
+            </a>
+            
+        </div>
+    </div>
+
+    <div style="clear:both"></div>
+    <input type="checkbox" id="disqus">
+    <div>
+        <div><div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'hacdias';
+    var disqus_identifier = 'https:\/\/henriquedias.com\/blog\/mvc-linguagem-php-iii\/';
+    var disqus_title = 'MVC na linguagem PHP - III';
+    var disqus_url = 'https:\/\/henriquedias.com\/blog\/mvc-linguagem-php-iii\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a></div>
+    </div>
+</footer>
+    
+    </article>
+</main>
+
+<footer>
+    <p>&copy; Henrique Dias - made with <a href="http://gohugo.io/">Hugo</a> and <span>&#10084;</span></p>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59697241-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

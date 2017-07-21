@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/php/</link>
+    <description>Recent content in Php on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Tue, 23 Jun 2015 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your IMDb Profile, on your WordPress website</title>
+      <link>https://henriquedias.com/blog/your-imdb-profile-on-your-wordpress-website/</link>
+      <pubDate>Tue, 23 Jun 2015 22:00:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/your-imdb-profile-on-your-wordpress-website/</guid>
+      <description>A few months ago, Luís Soares and I created a plugin for WordPress entirely dedicated to HackerRank. The main functionality of that plugin is to show a mini version of your HackerRank profile on your website as a widget.
+Now, we created a new one. Not for HackerRank, but for IMDb. Yes, you read correctly! For that amazing service which let us know more about (almost) any movie and serie. We called it IMDb Profile Widget!</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP - IV</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-iv/</link>
+      <pubDate>Sun, 21 Dec 2014 10:00:04 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-iv/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+A primeira, segunda e terceiras partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
+O que vamos fazer hoje é, simplesmente, criar uma página dinâmica que liste diversos posts que estão na base de dados da aplicação.
+Se bem se lembra, a ligação à base de dados é configurada no ficheiro config.</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP - III</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-iii/</link>
+      <pubDate>Sat, 20 Dec 2014 09:00:23 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-iii/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+A primeira e segunda partes já foram publicadas e hoje é a vez da terceira onde tudo começa a tornar-se mais facilmente compreendido.
+Em primeiro lugar, quero referir algumas modificações que efetuei em alguns dos ficheiros que já trabalhámos.
+Adicionei a constante SITE_TITLE ao ficheiro config.</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP - II</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-ii/</link>
+      <pubDate>Fri, 19 Dec 2014 12:26:59 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-ii/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+Depois de publicarmos a primeira parte, onde explicámos a estrutura da pequena framework que iremos criar, aqui está a segunda parte.
+Hoje iremos trabalhar no coração da aplicação, ou seja, na diretoria app_core/libs. Nesta pasta mãe, irão ser colocados todos os ficheiros PHP que serão as classes mãe de todos os outros ficheiros.</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php/</link>
+      <pubDate>Thu, 18 Dec 2014 22:55:34 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php/</guid>
+      <description>No último artigo publicado, foi falado acerca do Modelo MVC e sobre aquilo em que este consiste. O Modelo Model-View-Controller é amplamente utilizado nos dias de hoje.
+A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+Gostaria de dizer que esta exemplificação terá como base uma &amp;ldquo;framework base&amp;rdquo; MVC construída por mim através de vários tutoriais e ideias que encontrei online.</description>
+    </item>
+    
+    <item>
+      <title>Modelo MVC - Uma breve explicação</title>
+      <link>https://henriquedias.com/blog/mvc-uma-breve-explicacao/</link>
+      <pubDate>Sat, 22 Nov 2014 16:02:56 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-uma-breve-explicacao/</guid>
+      <description>A programação é algo fantástico que nos permite fazer qualquer coisa das mais diversas formas. Podemos criar, inovar, melhorar e até nos divertirmos. Existem várias formas de programar, várias maneiras.
+Cada um, ao longo do tempo, vai adotando diversas formas de programar, diversas idiossincrasias que o vai distinguir ao longo do tempo. Mas o que vos trazemos hoje não é nenhuma idiossincrasia, é o modelo MVC.
+MVC é um modelo de arquitetura de software que é muito utilizado atualmente mas, por vezes, pode tornar-se confuso inicialmente (como me aconteceu) mas, depois de alguma pesquisa, cheguei à conclusão de que é muito simples compreender este modelo.</description>
+    </item>
+    
+    <item>
+      <title>PHP - Como utilizar o Gettext para traduções [Parte 2]</title>
+      <link>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/</link>
+      <pubDate>Sun, 28 Sep 2014 15:06:47 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/</guid>
+      <description>Na primeira parte deste artigo, ensinámos a configurar o Gettext em conjunto com o PHP de forma a que hoje possamos criar as nossas primeiras traduções.
+Agora é hora de criarmos as nossas primeiras traduções. Para isso, podemos instalar um programa chamado Poedit que nos vai ajudar. Podem descarregá-lo aqui.
+Abra o Poedit e clique em Ficheiro → Novo e selecione a língua mãe do seu site. No nosso caso, é português de Portugal (pt-PT).</description>
+    </item>
+    
+    <item>
+      <title>PHP - Como utilizar o Gettext para traduções [Parte 1]</title>
+      <link>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes/</link>
+      <pubDate>Sun, 21 Sep 2014 11:07:03 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes/</guid>
+      <description>Como prometido no último artigo, hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
+Com o gettext podemos ter um site disponível em diversas linguagens de forma muito fácil e sem complicações. Nesta primeira parte, irá ser abordado como configurar o gettext e as suas funções.
+O gettext pode ser configurado no PHP através de uma extensão nativa ou através do uso de uma biblioteca separada.</description>
+    </item>
+    
+    <item>
+      <title>PHP e WordPress: comandos &#39;printf&#39; e &#39;sprintf&#39;</title>
+      <link>https://henriquedias.com/blog/php-wordpress-comandos-printf-sprintf/</link>
+      <pubDate>Sat, 13 Sep 2014 09:16:48 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-wordpress-comandos-printf-sprintf/</guid>
+      <description>No último artigo sugeriram-me falar sobre as funções printf e sprintf que são utilizadas em massa no Wordpress e é isso que vou fazer! Vamos analisar cada uma das funções.
+ Vou começar por analisar as duas funções em separado, explicando para que servem e dando alguns exemplos.
+printf O nome desta função quer dizer print formatted, ou seja, &amp;ldquo;imprimir dados formatados&amp;rdquo;. Abaixo encontra um exemplo mais simples:
+printf(&amp;quot;Olá mundo!</description>
+    </item>
+    
+    <item>
+      <title>PHP - Strings: interpolação e concatenação</title>
+      <link>https://henriquedias.com/blog/php-interpolacao-concatenacao/</link>
+      <pubDate>Tue, 09 Sep 2014 15:19:43 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-interpolacao-concatenacao/</guid>
+      <description>Hoje vamos falar um pouco sobre PHP, mais precisamente no campo das strings, variáveis e concatenações. Como sabem, existem várias formas de inserir o valor de variáveis dentro de strings, mas qual será a &amp;ldquo;melhor&amp;rdquo; e mais rápida?
+ Em primeiro lugar, vamos rever as formas de inserir variáveis dentro de strings atualmente já existentes:
+&amp;lt;?php $foo = &#39;uma pessoa&#39;; $bar = &amp;quot;Eu sou &amp;quot; . $foo . &amp;quot;!&amp;quot;; // =&amp;gt; 1 $bar = &#39;Eu sou &#39; .</description>
+    </item>
+    
+    <item>
+      <title>PHP 5.6 - Funções Variádicas (Nova Sintaxe)</title>
+      <link>https://henriquedias.com/blog/php-56-funcoes-variadicas-nova-sintaxe/</link>
+      <pubDate>Sun, 31 Aug 2014 09:37:05 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-56-funcoes-variadicas-nova-sintaxe/</guid>
+      <description>Há pouco mais de dois dias, foi lançada uma nova versão do PHP, a versão 5.6.0 que trouxe inúmeras novidades e incompatibilidades com as versões anteriores (ver aqui).
+Hoje vamos falar de uma das diversas grandes novidades desta esplêndida atualização, as funções variádicas.
+ Ao longo das versões 4.x e 5.x do PHP, os desenvolvedores já podiam utilizar funções variádicas através do uso da função func_get_args().
+Se, por exemplo, quiséssemos criar uma função que fizesse a soma de todos os valores passados nos argumentos, bastaria fazermos assim:</description>
+    </item>
+    
+    <item>
+      <title>5 truques e dicas em PHP</title>
+      <link>https://henriquedias.com/blog/truques-dicas-em-php/</link>
+      <pubDate>Fri, 29 Aug 2014 16:47:20 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/truques-dicas-em-php/</guid>
+      <description>A linguagem de programação PHP é das mais utilizadas atualmente do lado do servidor quando o assunto são páginas web.
+Para os iniciantes ou mesmo profissionais, aqui estão 5 simples e úteis truques e dicas para aplicarem quando estão a escrever em PHP.
+ 1. Utilizar o operador ternário Nós já escrevemos um artigo sobre este operador que podem ver aqui. Para laços (loops) simples, podemos utilizar o operador ternário de forma a poupar espaço como podem ver no exemplo seguinte:</description>
+    </item>
+    
+    <item>
+      <title>PHP - Devemos usar a tag de fechamento ou não?</title>
+      <link>https://henriquedias.com/blog/php-devemos-usar-tag-fechamento-ou-nao/</link>
+      <pubDate>Wed, 27 Aug 2014 09:15:18 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-devemos-usar-tag-fechamento-ou-nao/</guid>
+      <description>Recentemente comecei a reparar que muitos programadores omitiam a tag de fechamento dos ficheiros PHP e, obviamente, fiquei curioso.
+Depois de uma pesquisa, trago-vos o porquê de não utilizar a tag ?&amp;gt; no final dos ficheiros.
+ Em primeiro lugar, esta prática só deve ser realizada em ficheiros cujo seu conteúdo seja somente PHP e não contenha HTML, por exemplo.
+O que acontece se&amp;hellip;? Vamos começar por debater a pergunta que vocês vêm aí em cima: o que acontece se omitirmos a tag de fechamento.</description>
+    </item>
+    
+    <item>
+      <title>Como utilizar a API de Passwords do PHP 5.5&#43;</title>
+      <link>https://henriquedias.com/blog/como-utilizar-api-passwords-php-55/</link>
+      <pubDate>Wed, 20 Aug 2014 22:16:15 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/como-utilizar-api-passwords-php-55/</guid>
+      <description>Como muitas das novidades introduzidas na versão 5.5 do PHP, a API de passwords não passou despercebida aos desenvolvedores. Hoje vamos falar da criação de hash de passwords utilizando esta API.
+Antes de começarmos a analisar como se criam as passwords, vamos ver que novas funções trouxe esta API para o PHP:
+ password_get_info password_hash password_needs_rehash password_verify  Cada uma tem uma função diferente porém estão todas relacionadas. Assim, vamos falar de cada uma destas funções.</description>
+    </item>
+    
+    <item>
+      <title>Guardar os erros do PHP num ficheiro com o .htaccess</title>
+      <link>https://henriquedias.com/blog/guardar-os-erros-php-num-ficheiro-com-o-htaccess/</link>
+      <pubDate>Thu, 14 Aug 2014 10:41:38 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/guardar-os-erros-php-num-ficheiro-com-o-htaccess/</guid>
+      <description>Quando os programadores de soluções web estão a programar alguma aplicação é normal que possam surgir erros durante o desenvolvimento e a linguagem de programação, por norma, mostra-os no browser.
+Mesmo depois do desenvolvimento concluído e do produto lançado, podem surgir erros porém é pouco profissional mostrar os erros &amp;ldquo;à paisana&amp;rdquo; no browser do utilizador sendo até uma boa &amp;ldquo;ajuda&amp;rdquo; para hackers.
+Hoje vamos explicar como podemos utilizar o ficheiro .</description>
+    </item>
+    
+    <item>
+      <title>PHP - (Algumas) tags dos DOCBlocks</title>
+      <link>https://henriquedias.com/blog/php-tags-docblocks/</link>
+      <pubDate>Mon, 11 Aug 2014 20:26:21 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-tags-docblocks/</guid>
+      <description>Para quem desenvolve aplicações em PHP com outras pessoas ou mesmo sozinho, por vezes precisa de colocar comentários em vários locais para identificar os diversos processos que vão ocorrendo.
+Os DocBlocks são (quase) fundamentais na vida dos programadores e estão disponíveis em várias linguagens. Vamos analisar as tags que existem nos de PHP e como os utilizar.
+ Os DocBlocks em PHP são parte do PHPDoc, uma adaptação do sistema javadoc para a linguagem de programação PHP.</description>
+    </item>
+    
+    <item>
+      <title>PHP Ninja - A documentação na palma das tuas mãos!</title>
+      <link>https://henriquedias.com/blog/php-ninja-documentacao-na-palma-das-tuas-maos/</link>
+      <pubDate>Tue, 05 Aug 2014 15:07:28 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-ninja-documentacao-na-palma-das-tuas-maos/</guid>
+      <description>Recentemente falámos sobre uma pequena ferramenta que pode ser muito útil para desenvolvedores web, o POSTMAN. Hoje vamos falar de mais uma pequena grande ferramenta.
+Para quem trabalha com PHP e utiliza o Google Chrome, esta ferramenta será indispensável no seu trabalho. Chama-se PHP Ninja.
+]
+Esta extensão chegou aos meus ouvidos através do desenvolvedor Jonatan na comunidade PHP Brasil e fiquei deveras interessado na mesma.
+A extensão é muito simples e fácil de utilizar sendo também excelente e muito útil.</description>
+    </item>
+    
+    <item>
+      <title>Criar identificadores únicos em PHP</title>
+      <link>https://henriquedias.com/blog/criar-identificadores-unicos-php/</link>
+      <pubDate>Wed, 30 Jul 2014 08:34:52 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/criar-identificadores-unicos-php/</guid>
+      <description>Como deve saber, PHP é umas das linguagens de servidor mais utilizadas no mundo. Hoje vou mostrar-vos uma fantástica forma de gerar IDs (identificadores) únicos.
+O método para o fazer chama-se uniqid() e deve ser utilizado da seguinte forma.
+string uniqid ([ string $prefix = &amp;quot;&amp;quot; [, bool $more_entropy = false ]] )  Esta função cria um ID baseado nas horas atuais em microssegundos logo não são criados números aleatórios.</description>
+    </item>
+    
+    <item>
+      <title>Diferenças entre &#39;==&#39; e &#39;===&#39; em PHP</title>
+      <link>https://henriquedias.com/blog/diferencas-entre-igual-identico-php/</link>
+      <pubDate>Wed, 23 Jul 2014 18:31:23 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/diferencas-entre-igual-identico-php/</guid>
+      <description>É habitual utilizarem-se diversos operadores quando o assunto é programação. Existem vários até: aritméticos, comparativos e outros.
+Dentro de cada categoria existem vários sendo que a dos comparativos não é excepção e hoje trago-vos dois operadores comparativos, muito parecidos&amp;hellip; ou talvez não: == e ===.
+Há já algum tempo que me questionava em relação ao uso de ambos os operadores pois não tinha a certeza de qual devia utilizar nas diversas situações que me apareciam.</description>
+    </item>
+    
+    <item>
+      <title>Operador Ternário ( ? ) em PHP</title>
+      <link>https://henriquedias.com/blog/operador-ternario/</link>
+      <pubDate>Tue, 22 Jul 2014 09:08:08 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/operador-ternario/</guid>
+      <description>Recentemente, escrevi um artigo onde explicava como fazer uma listagem web de uma tabela MySQL onde utilizei um operador que não tinha a certeza absoluta do que fazia e deixei a explicação um pouco vaga.
+O operador em questão era o ponto de interrogação. Depois de uma pequena pesquisa, descobri que o seu nome é operador ternário e é um operador condicional.
+Já utilizava este operador há algum tempo mas estava reticente em relação à sua sintaxe pois não tinha a certeza se o que estava a fazer estava 100% correto por isso decidi pesquisar.</description>
+    </item>
+    
+    <item>
+      <title>Chamadas Ajax com jQuery e PHP</title>
+      <link>https://henriquedias.com/blog/chamadas-ajax-com-jquery-e-php/</link>
+      <pubDate>Sun, 20 Jul 2014 10:41:11 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/chamadas-ajax-com-jquery-e-php/</guid>
+      <description>A biblioteca jQuery é das mais conhecidas e utilizadas em JavaScript. Com esta biblioteca podemos proceder a chamadas ajax muito facilmente através de poucas linhas de código.
+Vamos aprender a efetuar pedidos POST e GET com Ajax, obtendo os dados do lado do servidor utilizando PHP e responder a essa mesma chamada.
+Iremos analisar um exemplo prático: um formulário de registo ou inscrição utilizando as tags &amp;lt;form&amp;gt; do HTML, Ajax para enviar os pedidos para o servidor e PHP processar os dados e enviar a resposta novamente para o lado do cliente onde será mostrada uma mensagem de sucesso ou erro conforme o sucedido.</description>
+    </item>
+    
+    <item>
+      <title>Listagem web de uma tabela MySQL</title>
+      <link>https://henriquedias.com/blog/listagem-web-de-uma-tabela-mysql/</link>
+      <pubDate>Thu, 17 Jul 2014 14:51:56 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/listagem-web-de-uma-tabela-mysql/</guid>
+      <description>No último artigo, falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.
+Aqui está ele. Abaixo encontram passo-a-passo como criar um pequeno sistema que liste todas as linhas de uma base de dados, separadas com páginas, cada uma com x linhas e botões de navegação.</description>
+    </item>
+    
+  </channel>
+</rss>

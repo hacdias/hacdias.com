@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funcionalidades on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/funcionalidades/</link>
+    <description>Recent content in Funcionalidades on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Fri, 05 Sep 2014 09:30:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/funcionalidades/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress 4.0 &#39;Benny&#39; chegou com novidades para todos.</title>
+      <link>https://henriquedias.com/blog/wordpress-4-chegou-com-novidades/</link>
+      <pubDate>Fri, 05 Sep 2014 09:30:25 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/wordpress-4-chegou-com-novidades/</guid>
+      <description>O WordPress é, como vocês sabem, um dos CMS mais utilizados atualmente estando instalado em milhões de sites por todo o mundo. Este CMS é feito em PHP, open-source e oferece muita flexibilidade.
+Já devem ter lido que a nova versão do WordPress chegou - a versão 4.0 - e hoje vamos falar das mudanças no painel de administração e também de algumas das funções introduzidas com esta nova versão.</description>
+    </item>
+    
+  </channel>
+</rss>

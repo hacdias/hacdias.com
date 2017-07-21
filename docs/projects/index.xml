@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Henrique Dias</title>
+    <link>https://henriquedias.com/projects/</link>
+    <description>Recent content in Projects on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Tue, 11 Apr 2017 12:10:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upframe</title>
+      <link>https://henriquedias.com/projects/upframe/</link>
+      <pubDate>Tue, 11 Apr 2017 12:10:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/projects/upframe/</guid>
+      <description>Upframe aims to become a global reference and authority in pre-acceleration, shaping the next generation of entrepreneurs by building an immersive experience, focused on young aspiring startup builders.
+I&amp;rsquo;ve been working on Upframe as a Full Stack Developer and my experience has taught me some things, which I described in a recent blog post, such as: how to work in a team with a designer, develop myself, hear the opinion of the others, etc.</description>
+    </item>
+    
+    <item>
+      <title>File Manager</title>
+      <link>https://henriquedias.com/projects/filemanager/</link>
+      <pubDate>Fri, 10 Jun 2016 12:10:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/projects/filemanager/</guid>
+      <description>File Manager provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.
+It was also implemented as a Caddy, a lightweight, fast, general-purpose, cross-platform HTTP/2 web server with automatic HTTPS, plugin.</description>
+    </item>
+    
+    <item>
+      <title>Caddy Plugins</title>
+      <link>https://henriquedias.com/projects/caddy-plugins/</link>
+      <pubDate>Sat, 12 Sep 2015 12:10:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/projects/caddy-plugins/</guid>
+      <description>Caddy is a HTTP/2 web server with automatic HTTPS. It&amp;rsquo;s easy to use, has no dependencies and it is already production-ready. One of the biggest advantagens of Caddy is that it is relatively simple to create plugins that extend its own native functionalities.
+Despite having contributed few times to Caddy itself, I&amp;rsquo;ve managed to create some useful plugins for the community:
+ http.minify implements minification on-the-fly for CSS, HTML, JSON, SVG and XML.</description>
+    </item>
+    
+    <item>
+      <title>Aprenda a Programar</title>
+      <link>https://henriquedias.com/projects/aprenda-a-programar/</link>
+      <pubDate>Wed, 25 Feb 2015 12:10:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/projects/aprenda-a-programar/</guid>
+      <description>This ebook was created with the goal of teaching the young (and the old too) learners the amazing language C. It was made with the help of Pplware community and was revised by a MSc Information Systems and Computer Eng. Luís Soares.
+Access the Ebook (in Portuguese)</description>
+    </item>
+    
+    <item>
+      <title>Pplware</title>
+      <link>https://henriquedias.com/projects/pplware/</link>
+      <pubDate>Tue, 11 Jun 2013 12:10:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/projects/pplware/</guid>
+      <description>Pplware is a portuguese project that delivers the most recent news about technology to everyone who speaks portuguese. It&amp;rsquo;s also a place where you can ask for help in the forum or sending a mail. It also includes &amp;ldquo;Pplware Fórum&amp;rdquo;​, &amp;ldquo;Pplware Usados&amp;rdquo;​, &amp;ldquo;Comunidade Pplware@Linux&amp;rdquo;​ and &amp;ldquo;Pplware Kids&amp;rdquo;.
+I&amp;rsquo;ve mainly played a part in Pplware Kids, which is a blog directed to everyone. We want to deliver concise information that can be understood by everyone.</description>
+    </item>
+    
+  </channel>
+</rss>

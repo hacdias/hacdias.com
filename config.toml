@@ -4,6 +4,7 @@ languageCode = "en_GB"
 paginate = 15
 pluralizelisttitles = false
 removePathAccents = true
+publishDir = "docs"
 title = "Henrique Dias"
 
 [params]

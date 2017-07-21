@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mvc on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/mvc/</link>
+    <description>Recent content in Mvc on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Sun, 21 Dec 2014 10:00:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/mvc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MVC na linguagem PHP - IV</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-iv/</link>
+      <pubDate>Sun, 21 Dec 2014 10:00:04 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-iv/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+A primeira, segunda e terceiras partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
+O que vamos fazer hoje é, simplesmente, criar uma página dinâmica que liste diversos posts que estão na base de dados da aplicação.
+Se bem se lembra, a ligação à base de dados é configurada no ficheiro config.</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP - III</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-iii/</link>
+      <pubDate>Sat, 20 Dec 2014 09:00:23 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-iii/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+A primeira e segunda partes já foram publicadas e hoje é a vez da terceira onde tudo começa a tornar-se mais facilmente compreendido.
+Em primeiro lugar, quero referir algumas modificações que efetuei em alguns dos ficheiros que já trabalhámos.
+Adicionei a constante SITE_TITLE ao ficheiro config.</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP - II</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-ii/</link>
+      <pubDate>Fri, 19 Dec 2014 12:26:59 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-ii/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+Depois de publicarmos a primeira parte, onde explicámos a estrutura da pequena framework que iremos criar, aqui está a segunda parte.
+Hoje iremos trabalhar no coração da aplicação, ou seja, na diretoria app_core/libs. Nesta pasta mãe, irão ser colocados todos os ficheiros PHP que serão as classes mãe de todos os outros ficheiros.</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php/</link>
+      <pubDate>Thu, 18 Dec 2014 22:55:34 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php/</guid>
+      <description>No último artigo publicado, foi falado acerca do Modelo MVC e sobre aquilo em que este consiste. O Modelo Model-View-Controller é amplamente utilizado nos dias de hoje.
+A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+Gostaria de dizer que esta exemplificação terá como base uma &amp;ldquo;framework base&amp;rdquo; MVC construída por mim através de vários tutoriais e ideias que encontrei online.</description>
+    </item>
+    
+    <item>
+      <title>Modelo MVC - Uma breve explicação</title>
+      <link>https://henriquedias.com/blog/mvc-uma-breve-explicacao/</link>
+      <pubDate>Sat, 22 Nov 2014 16:02:56 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-uma-breve-explicacao/</guid>
+      <description>A programação é algo fantástico que nos permite fazer qualquer coisa das mais diversas formas. Podemos criar, inovar, melhorar e até nos divertirmos. Existem várias formas de programar, várias maneiras.
+Cada um, ao longo do tempo, vai adotando diversas formas de programar, diversas idiossincrasias que o vai distinguir ao longo do tempo. Mas o que vos trazemos hoje não é nenhuma idiossincrasia, é o modelo MVC.
+MVC é um modelo de arquitetura de software que é muito utilizado atualmente mas, por vezes, pode tornar-se confuso inicialmente (como me aconteceu) mas, depois de alguma pesquisa, cheguei à conclusão de que é muito simples compreender este modelo.</description>
+    </item>
+    
+  </channel>
+</rss>

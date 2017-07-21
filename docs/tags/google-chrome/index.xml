@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Chrome on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/google-chrome/</link>
+    <description>Recent content in Google Chrome on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Fri, 25 Jul 2014 13:19:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/google-chrome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>POSTMAN - Um cliente REST</title>
+      <link>https://henriquedias.com/blog/postman-cliente-rest/</link>
+      <pubDate>Fri, 25 Jul 2014 13:19:02 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/postman-cliente-rest/</guid>
+      <description>Os desenvolvedores contam com diversas ferramentas que visam ajudar no desenvolvimento. Por vezes, existem excelentes ferramentas que passam despercebidas para muitos.
+Para todos os desenvolvedores web, o POSTMAN vai ser uma grande ajuda no desenvolvimento web, principalmente quando o assunto se refere a solicitações HTTP (HTTP requests).
+O POSTMAN é um cliente REST - pequena grande ferramenta - criada pela programador Abhinav Asthana e está disponível na forma de extensão para o Google Chrome.</description>
+    </item>
+    
+  </channel>
+</rss>

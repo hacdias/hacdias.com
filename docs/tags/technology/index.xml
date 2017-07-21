@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/technology/</link>
+    <description>Recent content in Technology on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Fri, 13 Mar 2015 12:20:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is the technology a good or a bad thing?</title>
+      <link>https://henriquedias.com/blog/technology-good-bad/</link>
+      <pubDate>Fri, 13 Mar 2015 12:20:46 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/technology-good-bad/</guid>
+      <description>Hello everyone! Today I&amp;rsquo;m going to talk a little bit about technology and if it is a good or a bad thing. This article is, of course, according to my point of view. The main question, for now, is &amp;ldquo;is the technology a good or a bad thing?&amp;rdquo;.
+What is technology? Firstly, what is technology? I think it is a difficult word to define but according to the dictionary, technology is the science whose objective is the application of technical and scientific knowledge for industrial and commercial purposes so technology isn’t only the Internet.</description>
+    </item>
+    
+  </channel>
+</rss>

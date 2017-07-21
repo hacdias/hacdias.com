@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Henrique Dias</title>
+    <link>https://henriquedias.com/categories/</link>
+    <description>Recent content in Categories on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    
+	<atom:link href="https://henriquedias.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Explanations</title>
+      <link>https://henriquedias.com/categories/explanations/</link>
+      <pubDate>Wed, 10 Jun 2015 15:01:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/categories/explanations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>https://henriquedias.com/categories/general/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newsletters</title>
+      <link>https://henriquedias.com/categories/newsletters/</link>
+      <pubDate>Sat, 05 Mar 2016 10:25:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/categories/newsletters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://henriquedias.com/categories/personal/</link>
+      <pubDate>Thu, 31 Dec 2015 12:00:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://henriquedias.com/categories/tutorials/</link>
+      <pubDate>Wed, 10 Jun 2015 11:27:37 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Words</title>
+      <link>https://henriquedias.com/categories/words/</link>
+      <pubDate>Sun, 15 Nov 2015 13:45:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/categories/words/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

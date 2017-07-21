@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informacao on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/informacao/</link>
+    <description>Recent content in Informacao on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Sat, 13 Sep 2014 09:16:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/informacao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHP e WordPress: comandos &#39;printf&#39; e &#39;sprintf&#39;</title>
+      <link>https://henriquedias.com/blog/php-wordpress-comandos-printf-sprintf/</link>
+      <pubDate>Sat, 13 Sep 2014 09:16:48 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-wordpress-comandos-printf-sprintf/</guid>
+      <description>No último artigo sugeriram-me falar sobre as funções printf e sprintf que são utilizadas em massa no Wordpress e é isso que vou fazer! Vamos analisar cada uma das funções.
+ Vou começar por analisar as duas funções em separado, explicando para que servem e dando alguns exemplos.
+printf O nome desta função quer dizer print formatted, ou seja, &amp;ldquo;imprimir dados formatados&amp;rdquo;. Abaixo encontra um exemplo mais simples:
+printf(&amp;quot;Olá mundo!</description>
+    </item>
+    
+    <item>
+      <title>PHP - Strings: interpolação e concatenação</title>
+      <link>https://henriquedias.com/blog/php-interpolacao-concatenacao/</link>
+      <pubDate>Tue, 09 Sep 2014 15:19:43 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-interpolacao-concatenacao/</guid>
+      <description>Hoje vamos falar um pouco sobre PHP, mais precisamente no campo das strings, variáveis e concatenações. Como sabem, existem várias formas de inserir o valor de variáveis dentro de strings, mas qual será a &amp;ldquo;melhor&amp;rdquo; e mais rápida?
+ Em primeiro lugar, vamos rever as formas de inserir variáveis dentro de strings atualmente já existentes:
+&amp;lt;?php $foo = &#39;uma pessoa&#39;; $bar = &amp;quot;Eu sou &amp;quot; . $foo . &amp;quot;!&amp;quot;; // =&amp;gt; 1 $bar = &#39;Eu sou &#39; .</description>
+    </item>
+    
+    <item>
+      <title>PHP - Devemos usar a tag de fechamento ou não?</title>
+      <link>https://henriquedias.com/blog/php-devemos-usar-tag-fechamento-ou-nao/</link>
+      <pubDate>Wed, 27 Aug 2014 09:15:18 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-devemos-usar-tag-fechamento-ou-nao/</guid>
+      <description>Recentemente comecei a reparar que muitos programadores omitiam a tag de fechamento dos ficheiros PHP e, obviamente, fiquei curioso.
+Depois de uma pesquisa, trago-vos o porquê de não utilizar a tag ?&amp;gt; no final dos ficheiros.
+ Em primeiro lugar, esta prática só deve ser realizada em ficheiros cujo seu conteúdo seja somente PHP e não contenha HTML, por exemplo.
+O que acontece se&amp;hellip;? Vamos começar por debater a pergunta que vocês vêm aí em cima: o que acontece se omitirmos a tag de fechamento.</description>
+    </item>
+    
+  </channel>
+</rss>

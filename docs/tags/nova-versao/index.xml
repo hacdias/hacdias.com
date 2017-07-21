@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nova Versao on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/nova-versao/</link>
+    <description>Recent content in Nova Versao on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Sun, 31 Aug 2014 09:37:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/nova-versao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHP 5.6 - Funções Variádicas (Nova Sintaxe)</title>
+      <link>https://henriquedias.com/blog/php-56-funcoes-variadicas-nova-sintaxe/</link>
+      <pubDate>Sun, 31 Aug 2014 09:37:05 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-56-funcoes-variadicas-nova-sintaxe/</guid>
+      <description>Há pouco mais de dois dias, foi lançada uma nova versão do PHP, a versão 5.6.0 que trouxe inúmeras novidades e incompatibilidades com as versões anteriores (ver aqui).
+Hoje vamos falar de uma das diversas grandes novidades desta esplêndida atualização, as funções variádicas.
+ Ao longo das versões 4.x e 5.x do PHP, os desenvolvedores já podiam utilizar funções variádicas através do uso da função func_get_args().
+Se, por exemplo, quiséssemos criar uma função que fizesse a soma de todos os valores passados nos argumentos, bastaria fazermos assim:</description>
+    </item>
+    
+  </channel>
+</rss>

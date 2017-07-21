@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/photo/</link>
+    <description>Recent content in Photo on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Fri, 14 Nov 2014 20:34:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portugal is a beautiful country</title>
+      <link>https://henriquedias.com/blog/portugal-beautiful-country/</link>
+      <pubDate>Fri, 14 Nov 2014 20:34:01 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/portugal-beautiful-country/</guid>
+      <description>Searching, exploring, walking, running, seeing, knowing, watching, meeting, taking photos, etc. All are verbs related with travelling which is one of the most amazing and important things in life.
+In the last summer, I&amp;rsquo;ve been visiting various places in my country, Portugal. One of them was Évora that is a city in Alentejo. This is an historical city and it&amp;rsquo;s also beautiful.
+After seeing this amazing city, I have searched about this city and I discover that Évora has some places that are considered World Heritage since 1986.</description>
+    </item>
+    
+  </channel>
+</rss>

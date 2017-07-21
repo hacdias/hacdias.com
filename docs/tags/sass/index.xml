@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sass on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/sass/</link>
+    <description>Recent content in Sass on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Sun, 07 Sep 2014 10:23:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/sass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SASS - Será a futura versão do CSS?</title>
+      <link>https://henriquedias.com/blog/sass-sera-a-futura-versao-do-css/</link>
+      <pubDate>Sun, 07 Sep 2014 10:23:57 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/sass-sera-a-futura-versao-do-css/</guid>
+      <description>Atualmente, uma das grandes vertentes da programação é a web e esta está muito difundida. Os desenvolvedores web, têm que utilizar várias linguagens de vários tipos: programação, marcação e estilo.
+A última versão do CSS (Cascading Style Sheet), o CSS3, trouxe muitas melhorias e novidades tornando-se mais poderoso. Mas será suficiente?
+Atualmente, existem várias &amp;ldquo;alternativas&amp;rdquo; e pré-processadores de CSS, como LESS e SASS. Este último, tem vindo a crescer e muitos acreditam que poderá ser a futura versão do CSS.</description>
+    </item>
+    
+  </channel>
+</rss>

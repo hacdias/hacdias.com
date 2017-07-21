@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programacao on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/programacao/</link>
+    <description>Recent content in Programacao on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Sat, 28 Feb 2015 13:19:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/programacao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aprenda a Programar: o e-book gratuito e essencial</title>
+      <link>https://henriquedias.com/blog/aprenda-a-programar-o-e-book-gratuito-e-essencial/</link>
+      <pubDate>Sat, 28 Feb 2015 13:19:43 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/aprenda-a-programar-o-e-book-gratuito-e-essencial/</guid>
+      <description>…baseado na saga “Introdução à Programação”.
+O mundo está em constante evolução: desde a mais pequena bactéria à espécie Humana. Tudo é extraordinário. A simplicidade só nos veio mostrar o quão complexo é o mundo. Evolução, mudança, futuro – são das palavras que mais ouvimos atualmente, bem como tecnologia.
+Se quer aprender a programar e ainda não começou, hoje trazemos um e-book gratuito que contém a compilação de todos os artigos da saga Introdução à Programação que foi publicada durante os últimos 6 meses.</description>
+    </item>
+    
+    <item>
+      <title>Modelo MVC - Uma breve explicação</title>
+      <link>https://henriquedias.com/blog/mvc-uma-breve-explicacao/</link>
+      <pubDate>Sat, 22 Nov 2014 16:02:56 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-uma-breve-explicacao/</guid>
+      <description>A programação é algo fantástico que nos permite fazer qualquer coisa das mais diversas formas. Podemos criar, inovar, melhorar e até nos divertirmos. Existem várias formas de programar, várias maneiras.
+Cada um, ao longo do tempo, vai adotando diversas formas de programar, diversas idiossincrasias que o vai distinguir ao longo do tempo. Mas o que vos trazemos hoje não é nenhuma idiossincrasia, é o modelo MVC.
+MVC é um modelo de arquitetura de software que é muito utilizado atualmente mas, por vezes, pode tornar-se confuso inicialmente (como me aconteceu) mas, depois de alguma pesquisa, cheguei à conclusão de que é muito simples compreender este modelo.</description>
+    </item>
+    
+    <item>
+      <title>PHP 5.6 - Funções Variádicas (Nova Sintaxe)</title>
+      <link>https://henriquedias.com/blog/php-56-funcoes-variadicas-nova-sintaxe/</link>
+      <pubDate>Sun, 31 Aug 2014 09:37:05 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-56-funcoes-variadicas-nova-sintaxe/</guid>
+      <description>Há pouco mais de dois dias, foi lançada uma nova versão do PHP, a versão 5.6.0 que trouxe inúmeras novidades e incompatibilidades com as versões anteriores (ver aqui).
+Hoje vamos falar de uma das diversas grandes novidades desta esplêndida atualização, as funções variádicas.
+ Ao longo das versões 4.x e 5.x do PHP, os desenvolvedores já podiam utilizar funções variádicas através do uso da função func_get_args().
+Se, por exemplo, quiséssemos criar uma função que fizesse a soma de todos os valores passados nos argumentos, bastaria fazermos assim:</description>
+    </item>
+    
+    <item>
+      <title>Papers We Love - Um dos melhores repositórios do GitHub</title>
+      <link>https://henriquedias.com/blog/papers-we-love-um-dos-melhores-repositorios-github/</link>
+      <pubDate>Fri, 22 Aug 2014 09:38:31 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/papers-we-love-um-dos-melhores-repositorios-github/</guid>
+      <description>Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.
+Recentemente encontrei um excelente repositório no GitHub chamado &amp;ldquo;Papers We Love&amp;rdquo; que contém muita informação sobre computer science.
+Computer Science traduz-se para &amp;ldquo;Ciência dos Computadores&amp;rdquo; ou &amp;ldquo;Ciência da Computação&amp;rdquo; e é uma área diretamente ligada com o mundo da informática.
+Neste repositório encontram das mais diversas informações relacionadas com este universo:</description>
+    </item>
+    
+    <item>
+      <title>Diferenças entre &#39;==&#39; e &#39;===&#39; em PHP</title>
+      <link>https://henriquedias.com/blog/diferencas-entre-igual-identico-php/</link>
+      <pubDate>Wed, 23 Jul 2014 18:31:23 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/diferencas-entre-igual-identico-php/</guid>
+      <description>É habitual utilizarem-se diversos operadores quando o assunto é programação. Existem vários até: aritméticos, comparativos e outros.
+Dentro de cada categoria existem vários sendo que a dos comparativos não é excepção e hoje trago-vos dois operadores comparativos, muito parecidos&amp;hellip; ou talvez não: == e ===.
+Há já algum tempo que me questionava em relação ao uso de ambos os operadores pois não tinha a certeza de qual devia utilizar nas diversas situações que me apareciam.</description>
+    </item>
+    
+    <item>
+      <title>Operador Ternário ( ? ) em PHP</title>
+      <link>https://henriquedias.com/blog/operador-ternario/</link>
+      <pubDate>Tue, 22 Jul 2014 09:08:08 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/operador-ternario/</guid>
+      <description>Recentemente, escrevi um artigo onde explicava como fazer uma listagem web de uma tabela MySQL onde utilizei um operador que não tinha a certeza absoluta do que fazia e deixei a explicação um pouco vaga.
+O operador em questão era o ponto de interrogação. Depois de uma pequena pesquisa, descobri que o seu nome é operador ternário e é um operador condicional.
+Já utilizava este operador há algum tempo mas estava reticente em relação à sua sintaxe pois não tinha a certeza se o que estava a fazer estava 100% correto por isso decidi pesquisar.</description>
+    </item>
+    
+    <item>
+      <title>Selecionar um intervalo de linhas em MySQL</title>
+      <link>https://henriquedias.com/blog/selecionar-um-intervalo-de-linhas-em-mysql/</link>
+      <pubDate>Wed, 16 Jul 2014 20:00:19 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/selecionar-um-intervalo-de-linhas-em-mysql/</guid>
+      <description>O sistema de base de dados MySQL é dos mais conhecidos mundialmente devido à sua facilidade, tanto de utilização como de implantação e ao facto de ser extremamente versátil.
+Quando estava a listar as linhas de uma tabela MySQL numa página web, deparei-me com um sobrecarregamento do CPU do meu computador, porque eu estava a listar todas as linhas da tabela. De seguida pensei: porque não listo por páginas, cada página com x linhas?</description>
+    </item>
+    
+    <item>
+      <title>Remover hash dos links &#34;Continuar a Ler&#34;</title>
+      <link>https://henriquedias.com/blog/remover-hash-dos-links-continuar-a-ler/</link>
+      <pubDate>Mon, 14 Jul 2014 13:36:38 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/remover-hash-dos-links-continuar-a-ler/</guid>
+      <description>O WordPress é um dos CMS (Sistema de Gestão de Conteúdo, em português) mais conhecidos do mundo, porque é muito simples de utilizar e tem milhares de temas e plugins gratuitos e pagos à disposição do utilizador.
+Por vezes precisamos de melhorar os temas ou alguma outra coisa. Quando estava a desenvolver o tema deste blog deparei-me com um simples problema: os links dos botões &amp;ldquo;Continuar a Ler&amp;rdquo; levavam o utilizador ao local onde havia colocado o código, mas eu não queria que isso acontecesse.</description>
+    </item>
+    
+  </channel>
+</rss>

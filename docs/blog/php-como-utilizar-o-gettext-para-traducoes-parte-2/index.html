@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en_GB">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#fff">
+<title>PHP - Como utilizar o Gettext para traduções [Parte 2]</title>
+<meta name="description" content="Depois de termos ensinado a configurar o plugin php-gettext com o PHP, agora é hora de saber como utilizar o plugin.">
+<link rel="canonical" href="https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/">
+<link rel="publisher" href="https://plus.google.com/+HenriqueDias"/>
+
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="PHP - Como utilizar o Gettext para traduções [Parte 2]" />
+<meta property="og:description" content="Depois de termos ensinado a configurar o plugin php-gettext com o PHP, agora é hora de saber como utilizar o plugin." />
+<meta property="og:url" content="https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/" />
+<meta property="og:site_name" content="Henrique Dias" />
+<meta property="article:publisher" content="https://www.facebook.com/hacdias" />
+<meta property="article:author" content="https://www.facebook.com/hacdias" />
+<meta property="article:tag" content="PHP, php-gettext, Tutorial" />
+<meta property="article:section" content="Tutorials" />
+<meta property="article:published_time" content="2014-09-28T15:06:47&#43;00:00" />
+<meta property="article:modified_time" content="2014-09-28T15:06:47&#43;00:00" />
+<meta property="og:updated_time" content="2014-09-28T15:06:47&#43;00:00" /> 
+<meta property="og:image" content="https://henriquedias.com/images/gettext.jpg" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Depois de termos ensinado a configurar o plugin php-gettext com o PHP, agora é hora de saber como utilizar o plugin."/>
+<meta name="twitter:title" content="PHP - Como utilizar o Gettext para traduções [Parte 2]"/>
+<meta name="twitter:site" content="@hacdias"/>
+<meta name="twitter:domain" content="Henrique Dias"/>
+<meta name="twitter:image:src" content="https://henriquedias.com/images/gettext.jpg"/>
+<meta name="twitter:creator" content="@hacdias"/>
+
+<meta name="msvalidate.01" content="B471CBBC9EF6900039C6BBF251EF277C" />
+<meta name="google-site-verification" content="nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY" />
+
+<link rel="shortcut icon" href="https://henriquedias.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://henriquedias.com/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="192x192" href="/icon.png">
+
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
+
+<link rel="stylesheet" href="https://henriquedias.com/css/normalize.css">
+<link rel="stylesheet" href="https://henriquedias.com/css/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script src="/app.js" async></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "email": "mailto:hacdias@gmail.com",
+  "image": "https://henriquedias.com/henrique.jpg",
+  "jobTitle": "Author",
+  "name": "Henrique Dias",
+  "telephone": "",
+  "url": "https://henriquedias.com/",
+  "sameAs" : [ "http://www.facebook.com/hacdias",
+      "http://twitter.com/hacdias",
+      "http://instagram.com/hacdias",
+      "http://www.linkedin.com/in/hacdias",
+      "http://plus.google.com/+HenriqueDias"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": "Henrique Dias",
+  "name": "PHP - Como utilizar o Gettext para traduções [Parte 2]",
+  "datePublished": "2014-09-28",
+  "headline": "Depois de termos ensinado a configurar o plugin php-gettext com o PHP, agora é hora de saber como utilizar o plugin.",
+  "image": "https://henriquedias.com/gettext"
+}
+</script>
+
+</head>
+
+<body>
+    <nav>
+        <a href="https://henriquedias.com/">
+            Henrique Dias
+            <span>Programmer</span>
+        </a>
+
+        <ul>
+            
+            
+            <li><a href="/about/" >About</a></li>
+            
+            <li><a href="/blog/" >Blog</a></li>
+            
+            <li><a href="/projects/" >Projects</a></li>
+            
+            <li><a href="/donate/" >Donate</a></li>
+            
+            <li><a href="/pgp/" >PGP Key</a></li>
+            
+        </ul>
+        
+        <div>
+            <a href="mailto:hacdias@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+            <a href="https://linkedin.com/in/hacdias"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://github.com/hacdias"><i class="fa fa-github" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/hacdias"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://instagram.com/hacdias"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/hacdias"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://stackoverflow.com/users/2681565/henrique-dias"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+            <a href="https://medium.com/@hacdias"><i class="fa fa-medium" aria-hidden="true"></i></a>
+        </div>
+    </nav>
+
+
+<main role="main" class="single">
+    <article>
+    <header>
+    <img src="https://henriquedias.com/images/gettext.jpg">
+    <time datetime="2014-09-28">September 28, 2014</time>
+    <h1>PHP - Como utilizar o Gettext para traduções [Parte 2]</h1>
+    </header>
+
+    <p>Na <a href="/tutorials/php-como-utilizar-o-gettext-para-traducoes/">primeira parte</a> deste artigo, ensinámos a configurar o Gettext em conjunto com o PHP de forma a que hoje possamos criar as nossas primeiras traduções.</p>
+
+<p>Agora é hora de criarmos as nossas primeiras traduções. Para isso, podemos instalar um programa chamado <strong>Poedit</strong> que nos vai ajudar. Podem descarregá-lo <a href="http://poedit.net/">aqui</a>.</p>
+
+<p>Abra o Poedit e clique em <strong>Ficheiro → Novo</strong> e selecione a língua <strong>mãe</strong> do seu site. No nosso caso, é português de Portugal (pt-PT). Depois disso, guarde o ficheiro em <code>lang/site_multi_lingua.pot</code>.</p>
+
+<p>Logo de seguida, clique em <strong>Extrair das fontes</strong>. Agora, adicione o caminho do seu site na seção <strong>Caminhos</strong> da aba <strong>Caminhos das fontes</strong>.</p>
+
+<p>De seguida, dirija-se à aba <strong>Propriedades da tradução</strong> e dê um nome ao projeto.Pode ainda escolher outras opções.</p>
+
+<p>Na última aba, <strong>Palavras-chave das fontes</strong>, adicione <code>__</code>  e <code>_e</code>. Depois clique em <strong>OK</strong> e espere que os ficheiros sejam analisados.</p>
+
+<p>Caso ocorra algum erro relacionado com caracteres não ASCII, clique em <strong>Catálogo → Propriedades → Codificação do código fonte</strong> e selecione UTF-8. Depois clique em <strong>Atualizar.</strong></p>
+
+<p>Agora deverá ver um ecrã semelhante ao seguinte:</p>
+
+<p><img src="/images/poedit00.jpg" alt="Poedit" /></p>
+
+<p>Guarde este ficheiro e depois vá a <strong>Novo → Novo de ficheiro POT/PO</strong>. Selecione o ficheiro base que gravou antes e escolha a nova língua.</p>
+
+<p>Agora basta clicar no item a traduzir e depois escrever a tradução na caixa de texto na parte de baixo do programa.</p>
+
+<p>Depois, grave o ficheiro em <code>lang/en_GB/LC_MESSAGES/site_multi_lingua.po</code>. Altere <code>en_GB</code> pela língua que criou.</p>
+
+<p>Agora, para testar se está tudo a funcionar, basta digital no URL <code>/?lang=en_GB</code> ou outra que queira testar.</p>
+
+<p>Pode ver <a href="https://github.com/hacdias/labs/tree/master/php/multi-lang">neste repositório do GitHub</a> todo o código que foi aqui produzido com alguns exemplos de linguagem adicionais.</p>
+
+<blockquote>
+<p>Refiro ainda que o Gettext faz _caching _de todas as <em>strings</em>.</p>
+</blockquote>
+
+    
+    <footer>
+    <div class="share">
+        <a class="twitter" target="_blank" href="https://twitter.com/share?url=https%3a%2f%2fhenriquedias.com%2fblog%2fphp-como-utilizar-o-gettext-para-traducoes-parte-2%2f&via=hacdias">
+      <i class="fa fa-twitter"></i>
+    </a>
+        <a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fhenriquedias.com%2fblog%2fphp-como-utilizar-o-gettext-para-traducoes-parte-2%2f">
+      <i class="fa fa-facebook"></i>
+    </a>
+        <label for="disqus">
+      <i class="fa fa-comments"></i>
+    </label>
+        <a class="gplus" target="_blank" href="https://plus.google.com/share?url=https%3a%2f%2fhenriquedias.com%2fblog%2fphp-como-utilizar-o-gettext-para-traducoes-parte-2%2f">
+      <i class="fa fa-google-plus"></i>
+    </a>
+        <a class="linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fhenriquedias.com%2fblog%2fphp-como-utilizar-o-gettext-para-traducoes-parte-2%2f&title=PHP%20-%20Como%20utilizar%20o%20Gettext%20para%20tradu%c3%a7%c3%b5es%20%5bParte%202%5d&source=Henrique%Dias">
+      <i class="fa fa-linkedin"></i>
+    </a>
+    </div>
+
+    <div class="nextprev">
+        <div>
+            
+            <a href="https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes/">
+                <h4>Previous Project</h4>
+                <span>PHP - Como utilizar o Gettext para traduções [Parte 1]</span>
+            </a>
+            
+        </div>
+        <div>
+            
+            <a href="https://henriquedias.com/blog/font-awesome-excelente-para-designers/">
+                <h4>Next Project</h4>
+                <span>Font Awesome - Excelente para designers.</span>
+            </a>
+            
+        </div>
+    </div>
+
+    <div style="clear:both"></div>
+    <input type="checkbox" id="disqus">
+    <div>
+        <div><div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'hacdias';
+    var disqus_identifier = 'https:\/\/henriquedias.com\/blog\/php-como-utilizar-o-gettext-para-traducoes-parte-2\/';
+    var disqus_title = 'PHP - Como utilizar o Gettext para traduções [Parte 2]';
+    var disqus_url = 'https:\/\/henriquedias.com\/blog\/php-como-utilizar-o-gettext-para-traducoes-parte-2\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a></div>
+    </div>
+</footer>
+    
+    </article>
+</main>
+
+<footer>
+    <p>&copy; Henrique Dias - made with <a href="http://gohugo.io/">Hugo</a> and <span>&#10084;</span></p>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59697241-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

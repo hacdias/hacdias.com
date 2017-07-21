@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atom on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/atom/</link>
+    <description>Recent content in Atom on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Mon, 25 Aug 2014 12:25:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atom - Extensão Fancy New File</title>
+      <link>https://henriquedias.com/blog/atom-extensao-fancy-new-file/</link>
+      <pubDate>Mon, 25 Aug 2014 12:25:12 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/atom-extensao-fancy-new-file/</guid>
+      <description>Como sabem, nas últimas semanas tenho vindo a publicar semanalmente uma extensão para o editor de texto Atom com um vídeo.
+A extensão que vos trazemos hoje chama-se Fancy New File e vai fazer com que a criação de ficheiros se torne mais rápida.
+Hoje, ao contrário dos outros dias, o artigo não irá estar acompanhado de vídeo visto que a extensão é deveras simples de utilizar. Vamos ver :)</description>
+    </item>
+    
+  </channel>
+</rss>

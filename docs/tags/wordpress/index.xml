@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Wed, 12 Aug 2015 11:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Farewell, WordPress! Hello, Hugo</title>
+      <link>https://henriquedias.com/blog/farewell-wordpress-hello-hugo/</link>
+      <pubDate>Wed, 12 Aug 2015 11:30:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/farewell-wordpress-hello-hugo/</guid>
+      <description>Firstly, a little bit of history - when I begun this blog, I&amp;rsquo;ve already been using WordPress on Pplware for a while. So, I tought: I know it, it&amp;rsquo;s simple, it&amp;rsquo;s easy to use, I&amp;rsquo;m going to use it on my personal blog.
+After deciding I was going to use WordPress, I bought a domain on GoDaddy (which I recommend) and paid for hosting on PTServidor. With the blog set up, I started writing posts in portuguese.</description>
+    </item>
+    
+    <item>
+      <title>GitHub Profile Widget for WordPress</title>
+      <link>https://henriquedias.com/blog/github-widget-wordpress/</link>
+      <pubDate>Thu, 06 Aug 2015 09:45:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/github-widget-wordpress/</guid>
+      <description>Luís Soares and I have created two plugins for WordPress: one for HackerRank and another for IMDb. Today, we announce a new plugin for WordPress which has been available since last month: GitHub Profile Widget.
+Even the developers should have an easy way to show their work on their own blog. So we created this brand new plugin for WordPress. This plugin gives you a widget to show your GitHub profile or an organization&amp;rsquo;s profile in your blog.</description>
+    </item>
+    
+    <item>
+      <title>Your IMDb Profile, on your WordPress website</title>
+      <link>https://henriquedias.com/blog/your-imdb-profile-on-your-wordpress-website/</link>
+      <pubDate>Tue, 23 Jun 2015 22:00:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/your-imdb-profile-on-your-wordpress-website/</guid>
+      <description>A few months ago, Luís Soares and I created a plugin for WordPress entirely dedicated to HackerRank. The main functionality of that plugin is to show a mini version of your HackerRank profile on your website as a widget.
+Now, we created a new one. Not for HackerRank, but for IMDb. Yes, you read correctly! For that amazing service which let us know more about (almost) any movie and serie. We called it IMDb Profile Widget!</description>
+    </item>
+    
+    <item>
+      <title>WordPress: adicionar menus de administração [Parte 2]</title>
+      <link>https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao-parte-2/</link>
+      <pubDate>Wed, 10 Jun 2015 11:27:37 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao-parte-2/</guid>
+      <description>O WordPress é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a remover a hash dos links &amp;ldquo;Ler mais&amp;rdquo;.
+Hoje vamos dar continuação ao tutorial sobre como adicionar menus de administração a temas e plugins do WordPress.
+Na primeira parte, criámos duas funções e adicionámos uma opção ao menu de administração do WordPress sendo que ficámos com o seguinte código:</description>
+    </item>
+    
+    <item>
+      <title>HackerRank Widget for WordPress</title>
+      <link>https://henriquedias.com/blog/hackerrank-widget-for-wordpress/</link>
+      <pubDate>Sat, 07 Mar 2015 16:04:40 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/hackerrank-widget-for-wordpress/</guid>
+      <description>HackerRank is a competitive programming platform that started in 2012. It offers a lot of programming problems in different domains of Computer Science.
+Unfortunately, WordPress had no plugin to show a small version of my HackerRank profile. So Luís Soares and I have created a plugin which adds an HackerRank Widget to WordPress.
+  The front-end   This plugin makes available a plugin that shows some information about a profile of HackerRank.</description>
+    </item>
+    
+    <item>
+      <title>WordPress 4.0 &#39;Benny&#39; chegou com novidades para todos.</title>
+      <link>https://henriquedias.com/blog/wordpress-4-chegou-com-novidades/</link>
+      <pubDate>Fri, 05 Sep 2014 09:30:25 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/wordpress-4-chegou-com-novidades/</guid>
+      <description>O WordPress é, como vocês sabem, um dos CMS mais utilizados atualmente estando instalado em milhões de sites por todo o mundo. Este CMS é feito em PHP, open-source e oferece muita flexibilidade.
+Já devem ter lido que a nova versão do WordPress chegou - a versão 4.0 - e hoje vamos falar das mudanças no painel de administração e também de algumas das funções introduzidas com esta nova versão.</description>
+    </item>
+    
+    <item>
+      <title>WordPress: adicionar menus de administração [Parte 1]</title>
+      <link>https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao/</link>
+      <pubDate>Sat, 02 Aug 2014 11:27:37 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao/</guid>
+      <description>O WordPress é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a remover a hash dos links &amp;ldquo;Ler mais&amp;rdquo;.
+Hoje vamos dar continuação às dicas e tutoriais sobre este CMS. Se vocês utilizam o WordPress com um tema pago, já devem ter reparado que este vem com um menu de personalização próprio criado pelo(s) autor(es) do tema.</description>
+    </item>
+    
+    <item>
+      <title>Remover hash dos links &#34;Continuar a Ler&#34;</title>
+      <link>https://henriquedias.com/blog/remover-hash-dos-links-continuar-a-ler/</link>
+      <pubDate>Mon, 14 Jul 2014 13:36:38 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/remover-hash-dos-links-continuar-a-ler/</guid>
+      <description>O WordPress é um dos CMS (Sistema de Gestão de Conteúdo, em português) mais conhecidos do mundo, porque é muito simples de utilizar e tem milhares de temas e plugins gratuitos e pagos à disposição do utilizador.
+Por vezes precisamos de melhorar os temas ou alguma outra coisa. Quando estava a desenvolver o tema deste blog deparei-me com um simples problema: os links dos botões &amp;ldquo;Continuar a Ler&amp;rdquo; levavam o utilizador ao local onde havia colocado o código, mas eu não queria que isso acontecesse.</description>
+    </item>
+    
+  </channel>
+</rss>

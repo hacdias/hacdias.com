@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Base De Dados on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/base-de-dados/</link>
+    <description>Recent content in Base De Dados on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Thu, 17 Jul 2014 14:51:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/base-de-dados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Listagem web de uma tabela MySQL</title>
+      <link>https://henriquedias.com/blog/listagem-web-de-uma-tabela-mysql/</link>
+      <pubDate>Thu, 17 Jul 2014 14:51:56 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/listagem-web-de-uma-tabela-mysql/</guid>
+      <description>No último artigo, falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.
+Aqui está ele. Abaixo encontram passo-a-passo como criar um pequeno sistema que liste todas as linhas de uma base de dados, separadas com páginas, cada uma com x linhas e botões de navegação.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Wed, 10 Jun 2015 11:27:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress: adicionar menus de administração [Parte 2]</title>
+      <link>https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao-parte-2/</link>
+      <pubDate>Wed, 10 Jun 2015 11:27:37 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao-parte-2/</guid>
+      <description>O WordPress é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a remover a hash dos links &amp;ldquo;Ler mais&amp;rdquo;.
+Hoje vamos dar continuação ao tutorial sobre como adicionar menus de administração a temas e plugins do WordPress.
+Na primeira parte, criámos duas funções e adicionámos uma opção ao menu de administração do WordPress sendo que ficámos com o seguinte código:</description>
+    </item>
+    
+    <item>
+      <title>How to create a Node.js command-line application</title>
+      <link>https://henriquedias.com/blog/how-to-create-a-node-js-command-line-application/</link>
+      <pubDate>Tue, 31 Mar 2015 18:55:49 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/how-to-create-a-node-js-command-line-application/</guid>
+      <description>Nowadays, node.js is one of the technologies which is always talked about when the subject is related with real-time applications or even CLI (Command-line interface) apps.
+Node.js is a cross-platform platform (which is very redundant) built on Chrome&amp;rsquo;s JavaScript runtime. They say that with Node.js we can create network applications, but we can do a lot more.
+Bower, for example, is a very useful tool built in the top of node.</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP - IV</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-iv/</link>
+      <pubDate>Sun, 21 Dec 2014 10:00:04 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-iv/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+A primeira, segunda e terceiras partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
+O que vamos fazer hoje é, simplesmente, criar uma página dinâmica que liste diversos posts que estão na base de dados da aplicação.
+Se bem se lembra, a ligação à base de dados é configurada no ficheiro config.</description>
+    </item>
+    
+    <item>
+      <title>MVC na linguagem PHP - III</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-iii/</link>
+      <pubDate>Sat, 20 Dec 2014 09:00:23 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-iii/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+A primeira e segunda partes já foram publicadas e hoje é a vez da terceira onde tudo começa a tornar-se mais facilmente compreendido.
+Em primeiro lugar, quero referir algumas modificações que efetuei em alguns dos ficheiros que já trabalhámos.
+Adicionei a constante SITE_TITLE ao ficheiro config.</description>
+    </item>
+    
+    <item>
+      <title>PHP - Como utilizar o Gettext para traduções [Parte 2]</title>
+      <link>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/</link>
+      <pubDate>Sun, 28 Sep 2014 15:06:47 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/</guid>
+      <description>Na primeira parte deste artigo, ensinámos a configurar o Gettext em conjunto com o PHP de forma a que hoje possamos criar as nossas primeiras traduções.
+Agora é hora de criarmos as nossas primeiras traduções. Para isso, podemos instalar um programa chamado Poedit que nos vai ajudar. Podem descarregá-lo aqui.
+Abra o Poedit e clique em Ficheiro → Novo e selecione a língua mãe do seu site. No nosso caso, é português de Portugal (pt-PT).</description>
+    </item>
+    
+    <item>
+      <title>PHP - Como utilizar o Gettext para traduções [Parte 1]</title>
+      <link>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes/</link>
+      <pubDate>Sun, 21 Sep 2014 11:07:03 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes/</guid>
+      <description>Como prometido no último artigo, hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
+Com o gettext podemos ter um site disponível em diversas linguagens de forma muito fácil e sem complicações. Nesta primeira parte, irá ser abordado como configurar o gettext e as suas funções.
+O gettext pode ser configurado no PHP através de uma extensão nativa ou através do uso de uma biblioteca separada.</description>
+    </item>
+    
+    <item>
+      <title>WordPress: adicionar menus de administração [Parte 1]</title>
+      <link>https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao/</link>
+      <pubDate>Sat, 02 Aug 2014 11:27:37 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao/</guid>
+      <description>O WordPress é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a remover a hash dos links &amp;ldquo;Ler mais&amp;rdquo;.
+Hoje vamos dar continuação às dicas e tutoriais sobre este CMS. Se vocês utilizam o WordPress com um tema pago, já devem ter reparado que este vem com um menu de personalização próprio criado pelo(s) autor(es) do tema.</description>
+    </item>
+    
+  </channel>
+</rss>

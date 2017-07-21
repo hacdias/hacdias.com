@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Literature on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/literature/</link>
+    <description>Recent content in Literature on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Sat, 28 Feb 2015 16:00:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O Rei Que Tudo Perdeu</title>
+      <link>https://henriquedias.com/blog/o-rei-que-tudo-perdeu/</link>
+      <pubDate>Sat, 28 Feb 2015 16:00:38 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/o-rei-que-tudo-perdeu/</guid>
+      <description>Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel sem qualquer esforço. Letra a letra. Partícula a partícula. Tudo se compõe.
+Trago-vos um pequeno poema (se se pode chamar isso!) que compus em 2012 e que se chama, como podem deduzir, O Rei Que Tudo Perdeu.
+ Eu antes tinha terras,
+poder e um reino,
+para lá governar.
+Mas agora sou só
+com o meu Bobo a sonhar.</description>
+    </item>
+    
+  </channel>
+</rss>

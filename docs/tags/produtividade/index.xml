@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Produtividade on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/produtividade/</link>
+    <description>Recent content in Produtividade on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Fri, 08 Aug 2014 13:14:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/produtividade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extensão Emmet para o editor de texto Atom</title>
+      <link>https://henriquedias.com/blog/extensao-emmet-para-editor-de-texto-atom/</link>
+      <pubDate>Fri, 08 Aug 2014 13:14:25 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/extensao-emmet-para-editor-de-texto-atom/</guid>
+      <description>Ontem fizemos uma breve apresentação ao editor de texto Atom da GitHub e referimos que, a partir de hoje, iríamos falar sobre algumas extensões disponíveis para o Atom.
+Assim, vamos começar hoje com a primeira: Emmet. Esta é uma extensão que vai ajudar na produtividade de todos os desenvolvedores web.
+A extensão Emmet é, provavelmente, conhecida de quase todos os desenvolvedores web pois permite agilizar a processo de criação e aumentar a produtividade.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en_GB">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#fff">
+<title>WordPress: adicionar menus de administração [Parte 1]</title>
+<meta name="description" content="A criação de temas e plugins para o WordPres leva a uma necessidade constante de criar menus de administração. A criação dos mesmos é muito simples.">
+<link rel="canonical" href="https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao/">
+<link rel="publisher" href="https://plus.google.com/+HenriqueDias"/>
+
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="WordPress: adicionar menus de administração [Parte 1]" />
+<meta property="og:description" content="A criação de temas e plugins para o WordPres leva a uma necessidade constante de criar menus de administração. A criação dos mesmos é muito simples." />
+<meta property="og:url" content="https://henriquedias.com/blog/wordpress-adicionar-menus-de-administracao/" />
+<meta property="og:site_name" content="Henrique Dias" />
+<meta property="article:publisher" content="https://www.facebook.com/hacdias" />
+<meta property="article:author" content="https://www.facebook.com/hacdias" />
+<meta property="article:tag" content="Dica, Tutorial, WordPress" />
+<meta property="article:section" content="Tutorials" />
+<meta property="article:published_time" content="2014-08-02T11:27:37&#43;00:00" />
+<meta property="article:modified_time" content="2014-08-02T11:27:37&#43;00:00" />
+<meta property="og:updated_time" content="2014-08-02T11:27:37&#43;00:00" /> 
+<meta property="og:image" content="https://henriquedias.com/images/criacao-menus.jpg" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="A criação de temas e plugins para o WordPres leva a uma necessidade constante de criar menus de administração. A criação dos mesmos é muito simples."/>
+<meta name="twitter:title" content="WordPress: adicionar menus de administração [Parte 1]"/>
+<meta name="twitter:site" content="@hacdias"/>
+<meta name="twitter:domain" content="Henrique Dias"/>
+<meta name="twitter:image:src" content="https://henriquedias.com/images/criacao-menus.jpg"/>
+<meta name="twitter:creator" content="@hacdias"/>
+
+<meta name="msvalidate.01" content="B471CBBC9EF6900039C6BBF251EF277C" />
+<meta name="google-site-verification" content="nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY" />
+
+<link rel="shortcut icon" href="https://henriquedias.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://henriquedias.com/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="192x192" href="/icon.png">
+
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
+
+<link rel="stylesheet" href="https://henriquedias.com/css/normalize.css">
+<link rel="stylesheet" href="https://henriquedias.com/css/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script src="/app.js" async></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "email": "mailto:hacdias@gmail.com",
+  "image": "https://henriquedias.com/henrique.jpg",
+  "jobTitle": "Author",
+  "name": "Henrique Dias",
+  "telephone": "",
+  "url": "https://henriquedias.com/",
+  "sameAs" : [ "http://www.facebook.com/hacdias",
+      "http://twitter.com/hacdias",
+      "http://instagram.com/hacdias",
+      "http://www.linkedin.com/in/hacdias",
+      "http://plus.google.com/+HenriqueDias"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": "Henrique Dias",
+  "name": "WordPress: adicionar menus de administração [Parte 1]",
+  "datePublished": "2014-08-02",
+  "headline": "A criação de temas e plugins para o WordPres leva a uma necessidade constante de criar menus de administração. A criação dos mesmos é muito simples.",
+  "image": "https://henriquedias.com/criacao-menus"
+}
+</script>
+
+</head>
+
+<body>
+    <nav>
+        <a href="https://henriquedias.com/">
+            Henrique Dias
+            <span>Programmer</span>
+        </a>
+
+        <ul>
+            
+            
+            <li><a href="/about/" >About</a></li>
+            
+            <li><a href="/blog/" >Blog</a></li>
+            
+            <li><a href="/projects/" >Projects</a></li>
+            
+            <li><a href="/donate/" >Donate</a></li>
+            
+            <li><a href="/pgp/" >PGP Key</a></li>
+            
+        </ul>
+        
+        <div>
+            <a href="mailto:hacdias@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+            <a href="https://linkedin.com/in/hacdias"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://github.com/hacdias"><i class="fa fa-github" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/hacdias"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://instagram.com/hacdias"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/hacdias"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://stackoverflow.com/users/2681565/henrique-dias"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+            <a href="https://medium.com/@hacdias"><i class="fa fa-medium" aria-hidden="true"></i></a>
+        </div>
+    </nav>
+
+
+<main role="main" class="single">
+    <article>
+    <header>
+    <img src="https://henriquedias.com/images/criacao-menus.jpg">
+    <time datetime="2014-08-02">August 2, 2014</time>
+    <h1>WordPress: adicionar menus de administração [Parte 1]</h1>
+    </header>
+
+    
+
+<p>O <strong>WordPress</strong> é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a <a href="/tutorials/remover-hash-dos-links-continuar-a-ler/">remover a hash dos links &ldquo;Ler mais&rdquo;</a>.</p>
+
+<p>Hoje vamos dar continuação às dicas e tutoriais sobre este CMS. Se vocês utilizam o WordPress com um tema pago, já devem ter reparado que este vem com um menu de personalização próprio criado pelo(s) autor(es) do tema. Hoje vamos ensinar-vos a criar estes menus.</p>
+
+<h3 id="1-criar-ficheiro-das-opções-e-chamá-lo">1. Criar ficheiro das opções e chamá-lo</h3>
+
+<p>*O tutorial é direcionado para <strong>temas</strong> porém a criação dos menus faz-se da mesma forma nos <strong>plugins</strong>.*</p>
+
+<p>Começaremos por criar um ficheiro chamado <code>admin.php</code> na pasta <code>inc</code> do vosso tema (ou plugin). Caso esta pasta não exista, podem criá-la ou colocá-lo numa outra pasta que queiram.</p>
+
+<p>Antes de continuarmos o desenvolvimento deste ficheiro, vamos chamar este ficheiro através do <code>functions.php</code>. <strong>Neste, coloquem o seguinte código:</strong></p>
+
+<pre><code class="language-php">//...
+
+require get_template_directory() . '/inc/admin.php';
+</code></pre>
+
+<p>Este pequeno trecho de código chama o ficheiro através do comando <code>require</code> e da localização do mesmo. Para obtermos a localização da pasta principal do tema utilizamos a função <code>get_template_directory()</code>.</p>
+
+<p>Depois concatenamos o caminho do tema ao resto do directório que, no nosso caso é <code>/inc/admin.php</code> . Se colocaram noutra pasta não se esqueçam de alterar o caminho.</p>
+
+<h3 id="2-hora-de-criar-as-opções">2. Hora de criar as opções</h3>
+
+<p>Agora sim, vamos virar-nos para o ficheiro <code>admin.php</code>. Neste ficheiro irá estar todo o código referente às opções de administração do tema.</p>
+
+<p>Neste tutorial, iremos criar uma variável com um dado que será depois utilizada no tema. Assim, aprendem como se faz e depois podem criar vocês próprios as opções que quiserem.</p>
+
+<p>Vamos começar por criar a seguinte função:</p>
+
+<pre><code class="language-php">&lt;?php
+
+function themeslug_admin_menus() {
+    //Colocaremos aqui os menus
+}
+
+add_action(&quot;admin_menu&quot;, &quot;themeslug_admin_menus&quot;);
+</code></pre>
+
+<p>Não se esqueça de substituir <code>themeslug</code> pelo prefixo das funções do seu tema. Criámos uma pequena função que vai servir para adicionar os menus à barra de administração do WordPress.</p>
+
+<p>Depois adicionamos essa função utilizando a função add_action . Este comando liga uma <strong>função</strong> a uma <strong>ação</strong>. Podem ler mais sobre a mesma <a href="http://codex.wordpress.org/Function_Reference/add_action">aqui</a>.</p>
+
+<p>Existem várias formas de adicionar um menu. Podemos adicionar um sub-menu ou um menu. Vou dar-vos um exemplo com algo já existente no WP:</p>
+
+<p><img src="/images/wpsubmenu.png" alt="WordPress Menu e Sub-menu" /></p>
+
+<ul>
+<li><p><strong>Settings</strong> é um menu.</p></li>
+
+<li><p><strong>Media</strong> é um sub-menu do menu <strong>Settings</strong>.</p></li>
+</ul>
+
+<p>Para adicionar um sub-menu a um menu, utilizamos a função <code>add_theme_page</code> que tem a seguinte sintaxe:</p>
+
+<pre><code class="language-php">add_theme_page( $titulo_da_pagina, $titulo_do_menu, $permissoes, $slug_do_menu, $funcao);
+</code></pre>
+
+<p>Vamos por partes:</p>
+
+<ul>
+<li><code>$titulo_da_pagina</code>  -&gt; Obviamente que é o título da página;</li>
+<li><code>$titulo_do_menu</code>  -&gt; Nome que irá aparecer na barra de administração;</li>
+<li><code>$permissoes</code>  -&gt; O mínimo de permissões que o utilizador deve ter para aceder à página;</li>
+<li><code>$slug_do_menu</code>  -&gt; O nome do menu sem caracteres especiais e sem maiúsculas para ser utilizado no URL;</li>
+<li><code>$funcao</code>  -&gt; A função que vai &ldquo;tratar&rdquo; deste sub-menu.</li>
+</ul>
+
+<p>Para criar um menu de nível principal (como <em>Settings</em>), utiliza-se a seguinte sintaxe:</p>
+
+<pre><code class="language-php">add_menu_page( $titulo_da_pag, $titulo_do_menu, $permissoes, $slug_do_menu, $funcao, $icon_url, $posicao );
+</code></pre>
+
+<p>A sintaxe é muito parecida mas conta com mais duas variáveis. A <code>$icon_url</code> serve para indicar o caminho do ícone e $posicao  é a posição na barra lateral da <em>dashboard</em>. Ambas são opções opcionais e podes ler mais sobre elas <a href="http://codex.wordpress.org/Function_Reference/add_menu_page">aqui</a>.</p>
+
+<p>Vamos, finalmente, criar o menu. Já conhecendo a sintaxe, vou substituir o comentário que escrevemos no ficheiro <code>admin.php</code> pela criação de um sub-menu ficando o código da seguinte forma:</p>
+
+<pre><code class="language-php">&lt;?php
+
+function themeslug_admin_menus() {
+
+    //Adição do sub-menu Opções ao menu principal Apresentação
+    add_theme_page('Opções', 'Opções', 'manage_options', 'opcoes', 'themeslug_options');
+}
+
+function themeslug_options() {
+    //Esta função vai conter a página &quot;Opções&quot;.
+}
+
+add_action(&quot;admin_menu&quot;, &quot;themeslug_admin_menus&quot;);
+</code></pre>
+
+<p>Agora, quando voltarem à <em>dashboard</em> do WordPress, já lá deverão ter o novo menu.</p>
+
+<p>Se abrirem a página vão ver que ainda não existe nada nessa página. Como este tutorial está a ficar um pouco extenso, deixarei a criação de uma opção e a sua aplicação para a segunda parte deste tutorial que <del>deve chegar dentro de dois ou três dias</del> podes encontrar <a href="/tutorials/wordpress-adicionar-menus-de-administracao-parte-2/">aqui</a>.</p>
+
+<p>Esperamos que o tutorial vos tenha sido útil.</p>
+
+    
+    <footer>
+    <div class="share">
+        <a class="twitter" target="_blank" href="https://twitter.com/share?url=https%3a%2f%2fhenriquedias.com%2fblog%2fwordpress-adicionar-menus-de-administracao%2f&via=hacdias">
+      <i class="fa fa-twitter"></i>
+    </a>
+        <a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fhenriquedias.com%2fblog%2fwordpress-adicionar-menus-de-administracao%2f">
+      <i class="fa fa-facebook"></i>
+    </a>
+        <label for="disqus">
+      <i class="fa fa-comments"></i>
+    </label>
+        <a class="gplus" target="_blank" href="https://plus.google.com/share?url=https%3a%2f%2fhenriquedias.com%2fblog%2fwordpress-adicionar-menus-de-administracao%2f">
+      <i class="fa fa-google-plus"></i>
+    </a>
+        <a class="linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fhenriquedias.com%2fblog%2fwordpress-adicionar-menus-de-administracao%2f&title=WordPress%3a%20adicionar%20menus%20de%20administra%c3%a7%c3%a3o%20%5bParte%201%5d&source=Henrique%Dias">
+      <i class="fa fa-linkedin"></i>
+    </a>
+    </div>
+
+    <div class="nextprev">
+        <div>
+            
+            <a href="https://henriquedias.com/blog/criar-identificadores-unicos-php/">
+                <h4>Previous Project</h4>
+                <span>Criar identificadores únicos em PHP</span>
+            </a>
+            
+        </div>
+        <div>
+            
+            <a href="https://henriquedias.com/blog/php-ninja-documentacao-na-palma-das-tuas-maos/">
+                <h4>Next Project</h4>
+                <span>PHP Ninja - A documentação na palma das tuas mãos!</span>
+            </a>
+            
+        </div>
+    </div>
+
+    <div style="clear:both"></div>
+    <input type="checkbox" id="disqus">
+    <div>
+        <div><div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'hacdias';
+    var disqus_identifier = 'https:\/\/henriquedias.com\/blog\/wordpress-adicionar-menus-de-administracao\/';
+    var disqus_title = 'WordPress: adicionar menus de administração [Parte 1]';
+    var disqus_url = 'https:\/\/henriquedias.com\/blog\/wordpress-adicionar-menus-de-administracao\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a></div>
+    </div>
+</footer>
+    
+    </article>
+</main>
+
+<footer>
+    <p>&copy; Henrique Dias - made with <a href="http://gohugo.io/">Hugo</a> and <span>&#10084;</span></p>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59697241-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

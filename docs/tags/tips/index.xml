@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/tips/</link>
+    <description>Recent content in Tips on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Wed, 30 Jul 2014 08:34:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criar identificadores únicos em PHP</title>
+      <link>https://henriquedias.com/blog/criar-identificadores-unicos-php/</link>
+      <pubDate>Wed, 30 Jul 2014 08:34:52 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/criar-identificadores-unicos-php/</guid>
+      <description>Como deve saber, PHP é umas das linguagens de servidor mais utilizadas no mundo. Hoje vou mostrar-vos uma fantástica forma de gerar IDs (identificadores) únicos.
+O método para o fazer chama-se uniqid() e deve ser utilizado da seguinte forma.
+string uniqid ([ string $prefix = &amp;quot;&amp;quot; [, bool $more_entropy = false ]] )  Esta função cria um ID baseado nas horas atuais em microssegundos logo não são criados números aleatórios.</description>
+    </item>
+    
+  </channel>
+</rss>

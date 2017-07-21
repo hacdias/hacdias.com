@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10º Ano on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/10%C2%BA-ano/</link>
+    <description>Recent content in 10º Ano on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Tue, 22 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/10%C2%BA-ano/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O Renascimento</title>
+      <link>https://henriquedias.com/blog/renascimento/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/renascimento/</guid>
+      <description>Baseado numa apresentação oral feita no âmbito da disciplina Português no 10º ano, a 6 de janeiro de 2015.
+Renascimento, Renascentismo e Renascença são os nomes dados ao período que decorreu entre os séculos XV e XVI e o seu nome deve-se à ressurreição de diversos aspetos das culturas clássicas, ou seja, das culturas Romana e Grega.
+Neste período muitas modificações foram concebidas ao saber: a visão que pela qual Deus é o centro do pensamento e do estudo Humano, a visão teocêntrica, foi abandonada, dando lugar à visão antropocêntrica que se foca no Homem como objeto de estudo.</description>
+    </item>
+    
+  </channel>
+</rss>

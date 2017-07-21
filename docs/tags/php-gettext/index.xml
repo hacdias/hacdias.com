@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php Gettext on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/php-gettext/</link>
+    <description>Recent content in Php Gettext on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Sun, 28 Sep 2014 15:06:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/php-gettext/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHP - Como utilizar o Gettext para traduções [Parte 2]</title>
+      <link>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/</link>
+      <pubDate>Sun, 28 Sep 2014 15:06:47 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/</guid>
+      <description>Na primeira parte deste artigo, ensinámos a configurar o Gettext em conjunto com o PHP de forma a que hoje possamos criar as nossas primeiras traduções.
+Agora é hora de criarmos as nossas primeiras traduções. Para isso, podemos instalar um programa chamado Poedit que nos vai ajudar. Podem descarregá-lo aqui.
+Abra o Poedit e clique em Ficheiro → Novo e selecione a língua mãe do seu site. No nosso caso, é português de Portugal (pt-PT).</description>
+    </item>
+    
+  </channel>
+</rss>

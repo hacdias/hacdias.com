@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentos on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/documentos/</link>
+    <description>Recent content in Documentos on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Fri, 22 Aug 2014 09:38:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/documentos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Papers We Love - Um dos melhores repositórios do GitHub</title>
+      <link>https://henriquedias.com/blog/papers-we-love-um-dos-melhores-repositorios-github/</link>
+      <pubDate>Fri, 22 Aug 2014 09:38:31 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/papers-we-love-um-dos-melhores-repositorios-github/</guid>
+      <description>Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.
+Recentemente encontrei um excelente repositório no GitHub chamado &amp;ldquo;Papers We Love&amp;rdquo; que contém muita informação sobre computer science.
+Computer Science traduz-se para &amp;ldquo;Ciência dos Computadores&amp;rdquo; ou &amp;ldquo;Ciência da Computação&amp;rdquo; e é uma área diretamente ligada com o mundo da informática.
+Neste repositório encontram das mais diversas informações relacionadas com este universo:</description>
+    </item>
+    
+  </channel>
+</rss>

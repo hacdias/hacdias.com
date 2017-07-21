@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operadores on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/operadores/</link>
+    <description>Recent content in Operadores on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Wed, 10 Jun 2015 15:01:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/operadores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHP - Diferenças entre &#39;&amp;&amp;/||&#39; e &#39;AND/OR&#39;</title>
+      <link>https://henriquedias.com/blog/php-diferencas-operadores-logicos-precedencia/</link>
+      <pubDate>Wed, 10 Jun 2015 15:01:00 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/php-diferencas-operadores-logicos-precedencia/</guid>
+      <description>Há alguns dias publiquei um artigo onde expliquei as diferenças entre os operadores == e ===. Depois de partilhar esse artigo no Google Plus, a comunidade PHP Brasil sugeriu-me que falasse sobre as diferenças entre os operadores &amp;amp;&amp;amp;/|| e AND/OR.
+Depois de ter pesquisado sobre estes quatro operadores, descobri que sim, realmente existem diferenças entre esses dois conjuntos de operadores.
+Para exemplificar, vamos utilizar valores booleanos, ou seja, false e true (ou 0 e 1, respetivamente), e os operadores AND e &amp;amp;&amp;amp;.</description>
+    </item>
+    
+    <item>
+      <title>Operador Ternário ( ? ) em PHP</title>
+      <link>https://henriquedias.com/blog/operador-ternario/</link>
+      <pubDate>Tue, 22 Jul 2014 09:08:08 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/operador-ternario/</guid>
+      <description>Recentemente, escrevi um artigo onde explicava como fazer uma listagem web de uma tabela MySQL onde utilizei um operador que não tinha a certeza absoluta do que fazia e deixei a explicação um pouco vaga.
+O operador em questão era o ponto de interrogação. Depois de uma pequena pesquisa, descobri que o seu nome é operador ternário e é um operador condicional.
+Já utilizava este operador há algum tempo mas estava reticente em relação à sua sintaxe pois não tinha a certeza se o que estava a fazer estava 100% correto por isso decidi pesquisar.</description>
+    </item>
+    
+  </channel>
+</rss>

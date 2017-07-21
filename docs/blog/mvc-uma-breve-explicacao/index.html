@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en_GB">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#fff">
+<title>Modelo MVC - Uma breve explicação</title>
+<meta name="description" content="O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado nas aplicações web. Apresentamos uma breve explicação sobre este modelo.">
+<link rel="canonical" href="https://henriquedias.com/blog/mvc-uma-breve-explicacao/">
+<link rel="publisher" href="https://plus.google.com/+HenriqueDias"/>
+
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Modelo MVC - Uma breve explicação" />
+<meta property="og:description" content="O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado nas aplicações web. Apresentamos uma breve explicação sobre este modelo." />
+<meta property="og:url" content="https://henriquedias.com/blog/mvc-uma-breve-explicacao/" />
+<meta property="og:site_name" content="Henrique Dias" />
+<meta property="article:publisher" content="https://www.facebook.com/hacdias" />
+<meta property="article:author" content="https://www.facebook.com/hacdias" />
+<meta property="article:tag" content="MVC, PHP, Programação" />
+<meta property="article:section" content="Explanations" />
+<meta property="article:published_time" content="2014-11-22T16:02:56&#43;00:00" />
+<meta property="article:modified_time" content="2014-11-22T16:02:56&#43;00:00" />
+<meta property="og:updated_time" content="2014-11-22T16:02:56&#43;00:00" /> 
+<meta property="og:image" content="https://henriquedias.com/images/datacenter.jpg" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado nas aplicações web. Apresentamos uma breve explicação sobre este modelo."/>
+<meta name="twitter:title" content="Modelo MVC - Uma breve explicação"/>
+<meta name="twitter:site" content="@hacdias"/>
+<meta name="twitter:domain" content="Henrique Dias"/>
+<meta name="twitter:image:src" content="https://henriquedias.com/images/datacenter.jpg"/>
+<meta name="twitter:creator" content="@hacdias"/>
+
+<meta name="msvalidate.01" content="B471CBBC9EF6900039C6BBF251EF277C" />
+<meta name="google-site-verification" content="nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY" />
+
+<link rel="shortcut icon" href="https://henriquedias.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://henriquedias.com/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="192x192" href="/icon.png">
+
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
+
+<link rel="stylesheet" href="https://henriquedias.com/css/normalize.css">
+<link rel="stylesheet" href="https://henriquedias.com/css/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script src="/app.js" async></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "email": "mailto:hacdias@gmail.com",
+  "image": "https://henriquedias.com/henrique.jpg",
+  "jobTitle": "Author",
+  "name": "Henrique Dias",
+  "telephone": "",
+  "url": "https://henriquedias.com/",
+  "sameAs" : [ "http://www.facebook.com/hacdias",
+      "http://twitter.com/hacdias",
+      "http://instagram.com/hacdias",
+      "http://www.linkedin.com/in/hacdias",
+      "http://plus.google.com/+HenriqueDias"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": "Henrique Dias",
+  "name": "Modelo MVC - Uma breve explicação",
+  "datePublished": "2014-11-22",
+  "headline": "O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado nas aplicações web. Apresentamos uma breve explicação sobre este modelo.",
+  "image": "https://henriquedias.com/datacenter"
+}
+</script>
+
+</head>
+
+<body>
+    <nav>
+        <a href="https://henriquedias.com/">
+            Henrique Dias
+            <span>Programmer</span>
+        </a>
+
+        <ul>
+            
+            
+            <li><a href="/about/" >About</a></li>
+            
+            <li><a href="/blog/" >Blog</a></li>
+            
+            <li><a href="/projects/" >Projects</a></li>
+            
+            <li><a href="/donate/" >Donate</a></li>
+            
+            <li><a href="/pgp/" >PGP Key</a></li>
+            
+        </ul>
+        
+        <div>
+            <a href="mailto:hacdias@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+            <a href="https://linkedin.com/in/hacdias"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://github.com/hacdias"><i class="fa fa-github" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/hacdias"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://instagram.com/hacdias"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/hacdias"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://stackoverflow.com/users/2681565/henrique-dias"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+            <a href="https://medium.com/@hacdias"><i class="fa fa-medium" aria-hidden="true"></i></a>
+        </div>
+    </nav>
+
+
+<main role="main" class="single">
+    <article>
+    <header>
+    <img src="https://henriquedias.com/images/datacenter.jpg">
+    <time datetime="2014-11-22">November 22, 2014</time>
+    <h1>Modelo MVC - Uma breve explicação</h1>
+    </header>
+
+    
+
+<p>A programação é algo fantástico que nos permite fazer qualquer coisa das mais diversas formas. Podemos criar, inovar, melhorar e até nos divertirmos. Existem várias formas de programar, várias maneiras.</p>
+
+<p>Cada um, ao longo do tempo, vai adotando diversas formas de programar, diversas idiossincrasias que o vai distinguir ao longo do tempo. Mas o que vos trazemos hoje não é nenhuma idiossincrasia, é o modelo <strong>MVC</strong>.</p>
+
+<p><strong>MVC</strong> é um modelo de arquitetura de software que é muito utilizado atualmente mas, por vezes, pode tornar-se confuso inicialmente (como me aconteceu) mas, depois de alguma pesquisa, cheguei à conclusão de que é muito simples <strong>compreender</strong> este modelo.</p>
+
+<h2 id="o-que-quer-dizer-mvc">O que quer dizer MVC?</h2>
+
+<p>Em primeiro lugar, é importante saber o que quer dizer MVC e o que é e para que serve cada uma das suas componentes.</p>
+
+<p><strong>MVC</strong> quer dizer, em inglês, <em>model-view-controller</em> e, em português, podemos traduzir para <strong>modelo-vista-controlador</strong>. Estas são também as três componentes base deste modelo.</p>
+
+<h2 id="vista">Vista</h2>
+
+
+<figure >
+    
+        <img src="/images/olho.jpg" />
+    
+    
+    <figcaption>
+        <h4>As vistas são os olhos da aplicação</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>A camada <strong>Vista</strong> (<em>View</em>) é aquela que é mostrada ao utilizador, aquela que com a qual o utilizador vai interagir. É a <strong>camada de apresentação</strong>. A camada dos estilos, do <em>design</em>.</p>
+
+<p>Geralmente, esta camada não conta com lógica de programação podendo, por vezes, ser &ldquo;puro&rdquo; HTML com alguns bocados de outra linguagem para, por exemplo, inserir algum dado necessário.</p>
+
+<h2 id="controladores">Controladores</h2>
+
+
+<figure >
+    
+        <img src="/images/cerebro.jpg" />
+    
+    
+    <figcaption>
+        <h4>Os controladores, o cérebro</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>A segunda camada a ser mencionada é a dos <strong>Controladores</strong> (<em>Controllers</em>) e é nela que <strong>a magia acontece</strong>. É a camada intermédia do padrão MVC e toda a lógica está aqui contida.</p>
+
+<p>Quando acedemos a um site cujo modelo de programação tenha sido MVC, automaticamente acedemos ao controlador que vai receber o nosso pedido. Logo de seguida, ele coordena todos os processos seguintes: pedir informação, receber informação, mostrar a página (<strong>Vista</strong>) ao utilizador, etc,</p>
+
+<h2 id="modelos">Modelos</h2>
+
+
+<figure >
+    
+        <img src="/images/sist-nev.jpg" />
+    
+    
+    <figcaption>
+        <h4>E o sistema nervoso</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>Esta é a camada mais invisível ao utilizador. É nela que tudo o que tem haver com dados é feito: pedir coisas à base de dados, inserir coisas, eliminar coisas, trocar coisas, etc.</p>
+
+<p>O controlador (mencionado acima), envia informação para o modelo armazenar/apagar/etc da base de dados. De forma generalizada, o <strong>modelo</strong> trabalha com os dados.</p>
+
+<h2 id="é-útil">É útil?</h2>
+
+<p>Diga-me você! Existem várias vantagens e desvantagens em trabalhar com o modelo MVC. Por um lado, é bom porque cada coisa está no seu devido sítio sendo mais fácil trabalhar e alterar estruturas.</p>
+
+<p>Por outro lado, não é recomendado para pequenas aplicações visto que a sua complexidade pode prejudicar um pouco a performance e também o design. <strong>Qual a sua opinião acerca do modelo MVC?</strong></p>
+
+    
+    <footer>
+    <div class="share">
+        <a class="twitter" target="_blank" href="https://twitter.com/share?url=https%3a%2f%2fhenriquedias.com%2fblog%2fmvc-uma-breve-explicacao%2f&via=hacdias">
+      <i class="fa fa-twitter"></i>
+    </a>
+        <a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fhenriquedias.com%2fblog%2fmvc-uma-breve-explicacao%2f">
+      <i class="fa fa-facebook"></i>
+    </a>
+        <label for="disqus">
+      <i class="fa fa-comments"></i>
+    </label>
+        <a class="gplus" target="_blank" href="https://plus.google.com/share?url=https%3a%2f%2fhenriquedias.com%2fblog%2fmvc-uma-breve-explicacao%2f">
+      <i class="fa fa-google-plus"></i>
+    </a>
+        <a class="linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fhenriquedias.com%2fblog%2fmvc-uma-breve-explicacao%2f&title=Modelo%20MVC%20-%20Uma%20breve%20explica%c3%a7%c3%a3o&source=Henrique%Dias">
+      <i class="fa fa-linkedin"></i>
+    </a>
+    </div>
+
+    <div class="nextprev">
+        <div>
+            
+            <a href="https://henriquedias.com/blog/portugal-beautiful-country/">
+                <h4>Previous Project</h4>
+                <span>Portugal is a beautiful country</span>
+            </a>
+            
+        </div>
+        <div>
+            
+            <a href="https://henriquedias.com/blog/mvc-linguagem-php/">
+                <h4>Next Project</h4>
+                <span>MVC na linguagem PHP</span>
+            </a>
+            
+        </div>
+    </div>
+
+    <div style="clear:both"></div>
+    <input type="checkbox" id="disqus">
+    <div>
+        <div><div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'hacdias';
+    var disqus_identifier = 'https:\/\/henriquedias.com\/blog\/mvc-uma-breve-explicacao\/';
+    var disqus_title = 'Modelo MVC - Uma breve explicação';
+    var disqus_url = 'https:\/\/henriquedias.com\/blog\/mvc-uma-breve-explicacao\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a></div>
+    </div>
+</footer>
+    
+    </article>
+</main>
+
+<footer>
+    <p>&copy; Henrique Dias - made with <a href="http://gohugo.io/">Hugo</a> and <span>&#10084;</span></p>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59697241-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

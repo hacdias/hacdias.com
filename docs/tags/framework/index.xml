@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Framework on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/framework/</link>
+    <description>Recent content in Framework on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Fri, 19 Dec 2014 12:26:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/framework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MVC na linguagem PHP - II</title>
+      <link>https://henriquedias.com/blog/mvc-linguagem-php-ii/</link>
+      <pubDate>Fri, 19 Dec 2014 12:26:59 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/mvc-linguagem-php-ii/</guid>
+      <description>A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
+Depois de publicarmos a primeira parte, onde explicámos a estrutura da pequena framework que iremos criar, aqui está a segunda parte.
+Hoje iremos trabalhar no coração da aplicação, ou seja, na diretoria app_core/libs. Nesta pasta mãe, irão ser colocados todos os ficheiros PHP que serão as classes mãe de todos os outros ficheiros.</description>
+    </item>
+    
+  </channel>
+</rss>

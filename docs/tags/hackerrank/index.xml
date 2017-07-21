@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackerrank on Henrique Dias</title>
+    <link>https://henriquedias.com/tags/hackerrank/</link>
+    <description>Recent content in Hackerrank on Henrique Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_GB</language>
+    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
+    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
+    <lastBuildDate>Sat, 07 Mar 2015 16:04:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://henriquedias.com/tags/hackerrank/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HackerRank Widget for WordPress</title>
+      <link>https://henriquedias.com/blog/hackerrank-widget-for-wordpress/</link>
+      <pubDate>Sat, 07 Mar 2015 16:04:40 +0000</pubDate>
+      <author>hacdias@gmail.com (Henrique Dias)</author>
+      <guid>https://henriquedias.com/blog/hackerrank-widget-for-wordpress/</guid>
+      <description>HackerRank is a competitive programming platform that started in 2012. It offers a lot of programming problems in different domains of Computer Science.
+Unfortunately, WordPress had no plugin to show a small version of my HackerRank profile. So Luís Soares and I have created a plugin which adds an HackerRank Widget to WordPress.
+  The front-end   This plugin makes available a plugin that shows some information about a profile of HackerRank.</description>
+    </item>
+    
+  </channel>
+</rss>
