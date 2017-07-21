@@ -223,14 +223,6 @@ article>* {
     margin-left: auto;
 }
 
-article .video-player,
-article figure.medium,
-article figure,
-article .video-player.full,
-article figure.full {
-    width: calc(100% - 64px);
-}
-
 article figure#banner img {
     max-height: 28em;
     object-fit: cover;
@@ -297,6 +289,7 @@ article figure figcaption {
 article .video-player.full,
 article figure.full {
     max-width: 100%;
+    margin: 2em auto;
 }
 
 article figure.small {
@@ -336,7 +329,7 @@ table img {
 blockquote {
     background: #f9f9f9;
     border-left: 0.625em solid #ccc;
-    margin: 1.5em;
+    margin: 1.5em auto;
     padding: 1em;
 }
 
