@@ -17,4 +17,5 @@ PayPal:
 
 Or, if you want to tip recurrently:
 
+- [patreon](https://www.patreon.com/hacdias)
 - [gratipay.com/~hacdias](https://gratipay.com/~hacdias/)
