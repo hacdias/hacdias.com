@@ -27,7 +27,7 @@
         <div>
             {{ if .PrevInSection }}
             <a href="{{ .PrevInSection.Permalink  }}">
-                <h4>Previous Project</h4>
+                <h4>Previous Post</h4>
                 <span>{{ .PrevInSection.Title }}</span>
             </a>
             {{ end }}
@@ -35,7 +35,7 @@
         <div>
             {{ if .NextInSection }}
             <a href="{{ .NextInSection.Permalink  }}">
-                <h4>Next Project</h4>
+                <h4>Next Post</h4>
                 <span>{{ .NextInSection.Title }}</span>
             </a>
             {{ end }}
