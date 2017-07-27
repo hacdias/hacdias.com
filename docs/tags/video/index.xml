@@ -1,27 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Video on Henrique Dias</title>
-    <link>https://henriquedias.com/tags/video/</link>
-    <description>Recent content in Video on Henrique Dias</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>hacdias@gmail.com (Henrique Dias)</managingEditor>
-    <webMaster>hacdias@gmail.com (Henrique Dias)</webMaster>
-    <lastBuildDate>Sun, 15 Mar 2015 10:36:51 +0000</lastBuildDate>
-    
-	<atom:link href="https://henriquedias.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Pi Day 2015</title>
-      <link>https://henriquedias.com/blog/pi-day-2015/</link>
-      <pubDate>Sun, 15 Mar 2015 10:36:51 +0000</pubDate>
-      <author>hacdias@gmail.com (Henrique Dias)</author>
-      <guid>https://henriquedias.com/blog/pi-day-2015/</guid>
-      <description>Do you know? Today is the Pi Day 2015. Below there is a small video I made about this marvelous day.
-I hope you enjoy :)</description>
-    </item>
-    
-  </channel>
-</rss>
