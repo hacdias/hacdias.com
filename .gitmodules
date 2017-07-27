@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/hacdias/hacdias.github.io.git
+	branch = master
