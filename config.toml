@@ -36,7 +36,7 @@ title = "Henrique Dias"
 [[menu.main]]
     name = "Blog"
     weight = 2
-    url = "/blog/"
+    url = "https://medium.com/@hacdias"
 [[menu.main]]
     name = "Projects"
     weight = 3
