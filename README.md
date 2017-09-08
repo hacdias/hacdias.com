@@ -5,7 +5,7 @@ This is the source code of the personal website of Henrique Dias, which can be f
 **Update submodules after cloning**
 
 ```
-git submodule update --recursive --remote
+git submodule update --init --recursive --remote
 ```
 
 [1]: https://henriquedias.com
