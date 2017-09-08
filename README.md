@@ -9,4 +9,4 @@ git submodule update --init --recursive --remote
 ```
 
 [1]: https://henriquedias.com
-[2]: https://github.com/spf13/hugo
+[2]: http://gohugo.io/
