@@ -37,21 +37,46 @@ h1, h2, h3 {
 
 header h1 {
     margin: 0;
+    font-size: 3em;
+}
+
+header a {
+    color: #2196F3;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 header ul {
-    list-style: none;
     padding: 0;
     margin: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 header ul li {
     display: inline;
 }
 
+header li::after{
+    margin: 0 .5em;
+    content: '\2022';
+    color: #E91E63;
+}
+
+header li:last-child::after{
+    margin: 0;
+    content: '';
+}
+
 h2 {
-    margin: 5em 0 0 0;
+    margin: 5em 0 0.3em;
     font-size: 1em;
+    color: #E91E63;
+}
+
+h2 ~ p {
+    margin-top: 0.3em;
 }
 
 main > *:first-child {
@@ -75,4 +100,11 @@ pre {
     padding: 2em;
     white-space: pre-wrap;
     word-wrap: break-word;
+}
+
+#pic {
+    max-width: 8em;
+    float: right;
+    margin: 0 0 1em 1em;
+    border-radius: 50%;
 }

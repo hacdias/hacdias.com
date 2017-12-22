@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Henrique Dias
+description: Hi, my name is Henrique and I'm a devleoper focused on open-source projects and on the web. I'm really excited about new technologies.
 ---
 
 ## About me
 
+<img id="pic" src="/img/me.jpg">
 Hi, my name’s Henrique! I’m a developer focused on open-source projects for the web. I love to learn and I have no fear to grab and try out new technologies. Currently, I’m based in Lisbon and enrolled in a degree in Information Systems and Computer Engineering at Instituto Superior Técnico. Also, I am mainly working with JavaScript and Go right now.
 
 ## Projects
@@ -30,3 +32,4 @@ articles about tech news, curiosities, tutorials and much more.
 Here I leave some links of projects I'm proud of or some stuff I found out to be interesting:
 
 + [Ask me anything](https://github.com/hacdias/ama)
++ [How did I start working remotely in a startup](https://medium.com/@hacdias/how-to-work-remotely-in-a-startup-3e35c59f2d3e)
