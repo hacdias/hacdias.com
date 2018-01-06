@@ -3,7 +3,7 @@
 }
 
 body {
-    padding: 0 5em;
+    padding: 0 6vw;
     margin: 0;
     background: #ffffff;
     color: #212121;
@@ -23,7 +23,7 @@ footer {
 }
 
 header {
-    padding: 5em 0 0 0;
+    padding: 6vw 0 0 0;
 }
 
 main {

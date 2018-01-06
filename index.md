@@ -6,7 +6,7 @@ description: Hi, my name is Henrique and I'm a devleoper focused on open-source 
 
 ## About me
 
-<img id="pic" src="/img/me.jpg">
+<img id="pic" src="./img/me.jpg">
 Hi, my name’s Henrique! I’m a developer focused on open-source projects for the web. I love to learn and I have no fear to grab and try out new technologies. Currently, I’m based in Lisbon and enrolled in a degree in Information Systems and Computer Engineering at Instituto Superior Técnico. Also, I am mainly working with JavaScript and Go right now.
 
 ## Projects
