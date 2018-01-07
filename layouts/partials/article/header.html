@@ -1,0 +1,12 @@
+ {{ if isset .Params "image" -}}
+<figure id="banner" class="full"><img src="{{ .Site.BaseURL }}/images/{{ .Params.image }}.jpg"></figure>
+{{- end }}
+<header>
+    {{ if eq .Type "post" -}}
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    {{- end }}
+    <h1>{{ .Title }}</h1>
+    {{ if isset .Params "subtitle" -}}
+        <p>{{.Params.subtitle}}</p>
+    {{- end -}}
+</header>

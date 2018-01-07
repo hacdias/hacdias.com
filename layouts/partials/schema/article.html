@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": "{{ .Site.Params.Author.Name }}",
+  "name": "{{ .Title }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "headline": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}",
+  "image": "{{ .Site.BaseURL }}{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.Image }}{{ end }}"
+}
+</script>

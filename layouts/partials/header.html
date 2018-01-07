@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "head/base" . }}
+  {{ partial "head/open_graph" . }}
+  {{ partial "head/twitter" .}}
+  {{ partial "head/webmaster" .}}
+  {{ partial "head/icons" .}}
+  {{ partial "head/includes" .}}
+  {{ partial "schema/person" . }}
+  {{ if not .IsNode }}{{ if eq .Type "post" }}{{ partial "schema/article" . }}{{ end }}{{ end }}
+</head>
+
+<body {{ if .IsHome }}class='home'{{ end }}>
+  <nav>
+    <a href="{{ .Site.BaseURL }}">@hacdias</a>
+
+    <ul>
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main -}}
+        <li><a href="{{ .URL }}" {{if eq $currentPage.RelPermalink .URL }}class="active"{{end}}>{{ .Name }}</a></li>
+      {{end}}
+    </ul>
+  </nav>
