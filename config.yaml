@@ -4,7 +4,8 @@ languageCode: en
 paginate: 15
 pluralizelisttitles: false
 removePathAccents: true
-title: Henrique Dias
+title: Henrique Dias (@hacdias)
+pygmentsStyle: github
 
 params:
   Analytics: 59697241-1
