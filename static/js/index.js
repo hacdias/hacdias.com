@@ -1,6 +1,7 @@
 var sentences = [
   'I study Computer Engineering.',
-  'I am an Open Source advocate.'
+  'I am an Open Source advocate.',
+  'I also enjoy writing and photography.'
 ]
 
 var which = 0
