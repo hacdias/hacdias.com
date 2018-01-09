@@ -23,8 +23,6 @@ Everything was running fine until I formatted my computer. And then I tought: no
 
 Hugo is a really nice and easy to use static website generator, built using Go (one of the languages I admire), that have standalone executables. It **doesn't have dependencies**. It's simple, easy. Why not?
 
-{{< figure src="/images/writing-post.png" alt="Writing a post" caption="Writing a post" >}}
-
 I moved everything to this new system and created a new template (the black one before the current one). It's very simple to [create themes](http://gohugo.io/themes/overview/) for Hugo. All of my blog's code is on [```henriquedias-source```][6] at GitHub. Then, I just have to deploy it to [```hacdias.github.io```][7] repository so I can use GitHub Pages hosting which is free.
 
 I also configured [CloudFlare][8] and my website is very fast now. It's delivered by their CDN and I'm using SSL. **I defend that every website should be using HTTPS**.
