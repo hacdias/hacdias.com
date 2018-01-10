@@ -12,13 +12,12 @@ params:
   Description: >-
     I study Information Systems and Computer Engineering at Instituto Superior Técnico.
     Developer at Upframe and digging into the decentralized web with IPFS.
-  image: home/1
+  image: macbook-office
   Author:
     Email: hacdias@gmail.com
     image: henrique.jpg
     JobTitle: Developer
     Name: Henrique Dias
-    Telephone: 
   Social:
     Facebook: hacdias
     GitHub: hacdias
@@ -30,13 +29,3 @@ params:
   Webmaster:
     Bing: B471CBBC9EF6900039C6BBF251EF277C
     Google: nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY
-
-menu:
-  main:
-    - name: About
-      weight: 1
-      identifier: about
-      url: /about/
-    - name: Blog
-      weight: 2
-      url: /blog/
