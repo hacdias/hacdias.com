@@ -60,7 +60,7 @@ Now, you should have something like this:
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Henrique Dias <hacdias@gmail.com> (http://henriquedias.com)",
+  "author": "Henrique Dias <hacdias@gmail.com>",
   "license": "MIT"
 }
 {{< / highlight >}}

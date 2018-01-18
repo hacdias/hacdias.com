@@ -6,7 +6,7 @@ image: "future"
 description:    "I don't want to be just one thing. Where's the fun of being just one thing? There are 3 things I would like to be and there is nothing in the way."
 ---
 
-If you've been following me through the past time,  you probably know I want to go further in technology field (if you didn't know, read my [about page](https://henriquedias.com/about/)). But it is not the unique thing I would like to be because there are 3 things I would like to be.
+If you've been following me through the past time,  you probably know I want to go further in technology field (if you didn't know, read my [about page](/about/)). But it is not the unique thing I would like to be because there are 3 things I would like to be.
 
 When we choose to be something or to follow some field of study, we should think a lot about it to find out if we are sure we want to follow it.
 
