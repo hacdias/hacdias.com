@@ -1,24 +1,33 @@
 <footer>
-    <div class="share">
-        <a class="twitter" target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Params.Social.Twitter }}">
-      <i class="fab fa-twitter"></i>
-    </a>
-        <a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
-      <i class="fab fa-facebook"></i>
-    </a>
-        <label for="disqus">
-      <i class="fa fa-comments"></i>
-    </label>
-        <a class="gplus" target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}">
-      <i class="fab fa-google-plus"></i>
-    </a>
-        <a class="linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias">
-      <i class="fab fa-linkedin"></i>
-    </a>
+    <div class='on-scroll-down floating-bottom'>
+        <div class="share">
+            <a class="twitter" target="_blank" rel='noopener' href="https://twitter.com/share?url={{ .Permalink }}&via={{ .Site.Params.Social.Twitter }}">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a class="facebook" target="_blank" rel='noopener' href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
+                <i class="fab fa-facebook"></i>
+            </a>
+            <a class="gplus" target="_blank" rel='noopener' href="https://plus.google.com/share?url={{ .Permalink }}">
+                <i class="fab fa-google-plus"></i>
+            </a>
+            <a class="linkedin" target="_blank" rel='noopener' href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&source=Henrique%Dias">
+                <i class="fab fa-linkedin"></i>
+            </a>
+        </div>
+
+        <div>
+            <a class='patreon' href='https://www.patreon.com/hacdias' target='blank' rel='noopener'>
+                <i class="mobile fab fa-patreon"></i>
+                <span class='no-mobile'>Support me on Patreon</span>
+            </a>
+            <a class='coffee' href='https://www.buymeacoffee.com/hacdias' target='blank' rel='noopener'>
+                <i class="mobile fas fa-coffee"></i>
+                <span class='no-mobile'>Buy me a coffee</span>
+            </a>
+        </div>
     </div>
 
     <div style="clear:both"></div>
-    <input type="checkbox" id="disqus">
     <div>
         <div>{{ template "_internal/disqus.html" . }}</div>
     </div>

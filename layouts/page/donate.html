@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<main role="main">
+  <canvas id="confetti"></canvas>
+  <p class='sans'>
+    You're <strong>awesome</strong>! If you want to contribute to my work on Open Source projects, you can
+    <a class='patreon' href='https://www.patreon.com/hacdias' target='blank' rel='noopener'>support me on Patreon</a>
+    or <a class='coffee' href='https://www.buymeacoffee.com/hacdias' target='blank' rel='noopener'>buy me a coffee</a>
+  </p>
+</main>
+
+<script src='https://unpkg.com/confetti-js@0.0.11/dist/index.min.js'></script>
+<script>
+var confettiSettings = { target: 'confetti' }
+var confetti = new ConfettiGenerator(confettiSettings)
+confetti.render()
+</script>
+
+{{ partial "footer" . }}

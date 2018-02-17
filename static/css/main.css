@@ -12,6 +12,10 @@ a {
     text-decoration: none;
 }
 
+.mobile {
+    display: none !important;
+}
+
 a:hover {
     color: inherit;
 }
@@ -36,6 +40,10 @@ body {
     font-family: 'Noto Sans', sans-serif;
     line-height: 1.3;
     color: #212121;
+}
+
+body.blog {
+    padding-bottom: 3em;
 }
 
 nav {
@@ -203,7 +211,7 @@ article header time {
     text-transform: uppercase;
     margin: 2em auto 1em;
     font-size: .8em;
-    color: rgba(0, 0, 0, .5)!important;
+    color: rgba(0, 0, 0, .5) !important;
 }
 
 article header h1 {
@@ -263,6 +271,119 @@ article figure.full {
 
 article figure.small {
     width: 25em;
+}
+
+
+.floating-bottom {
+    position: fixed;
+    bottom: -5rem;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border-top: 1px solid #eee;
+    padding: 1em 2em;
+    display: flex;
+    justify-content: space-between;
+    transition: .2s ease bottom;
+}
+
+.floating-bottom.visible {
+    bottom: 0;
+}
+
+.floating-bottom>div {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.floating-bottom a {
+    cursor: pointer;
+    padding: .5em;
+    transition: .5s ease all;
+    height: 2rem;
+    font-size: .8em;
+    border-radius: 3px;
+    display: flex;
+    margin-right: 0.5em;
+    justify-content: center;
+    align-items: center;
+    box-shadow: none;
+    border: 1px solid black;
+}
+
+.floating-bottom>div:first-of-type a {
+    width: 2rem
+}
+
+.floating-bottom a:hover {
+    opacity: .8;
+}
+
+.floating-bottom .twitter {
+    border-color: #00aced;
+    color: #00aced;
+}
+
+.floating-bottom .facebook {
+    border-color: #3b5998;
+    color: #3b5998;
+}
+
+.floating-bottom .gplus {
+    color: #dd4b39;
+    border-color: #dd4b39;
+}
+
+.floating-bottom .linkedin {
+    border-color: #007bb6;
+    color: #007bb6;
+}
+
+.floating-bottom .patreon,
+.floating-bottom .coffee {
+    font-weight: bold;
+}
+
+.donate .patreon,
+.floating-bottom .patreon {
+    background-color: rgb(249, 104, 84);
+    color: white;
+    border-color: rgb(249, 104, 84);
+}
+
+.donate .coffee,
+.floating-bottom .coffee {
+    background-color: #fd0;
+    border-color: #fd0;
+}
+
+.donate main {
+    width: calc(100% - 4rem);
+    margin: 0 auto;
+    font-size: 4em;
+    line-height: 1.5;
+}
+
+.donate footer {
+    display: none;
+}
+
+.donate main a {
+    box-shadow: none;
+    padding: 0 0.2em;
+    font-weight: bold;
+}
+
+.donate main p {
+    margin: 2em auto;
+}
+
+.donate #confetti {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
 
 table {
@@ -327,54 +448,6 @@ blockquote:after {
     left: 0;
     width: 100%;
     height: 100%;
-}
-
-#disqus {
-    display: none;
-}
-
-#disqus+div>div {
-    display: none;
-}
-
-#disqus:checked+div>div {
-    display: block;
-}
-
-.share {
-    text-align: center;
-    display: flex;
-    justify-content: space-between;
-}
-
-.share>* {
-    cursor: pointer;
-    color: #fff;
-    padding: .5em;
-    background-color: rgba(0, 0, 0, 0.84);
-    transition: .5s ease all;
-    width: 18%;
-}
-
-.share>*:hover {
-    color: #fff;
-    opacity: .8;
-}
-
-.share .twitter {
-    background-color: #00aced;
-}
-
-.share .facebook {
-    background-color: #3b5998;
-}
-
-.share .gplus {
-    background-color: #dd4b39;
-}
-
-.share .linkedin {
-    background-color: #007bb6;
 }
 
 .nextprev {
@@ -492,11 +565,11 @@ body>footer {
 
 body>footer p {
     color: rgba(0, 0, 0, 0.2);
-    font-size: .9em;
+    font-size: .8em;
     line-height: 1;
     margin: 0;
-    text-align: right;
     font-family: 'Noto Sans';
+    text-align: center;
 }
 
 body>footer span {
@@ -534,11 +607,27 @@ body>footer:hover span {
     .home .big {
         font-size: 10vw;
     }
+    .donate main {
+        font-size: 2em;
+    }
 }
 
 @media (max-width: 750px) {
     .glitch {
         font-size: 4em;
+    }
+}
+
+@media (max-width: 600px) {
+    .mobile {
+        display: inherit !important;
+    }
+    .patreon,
+    .coffee {
+        width: 2rem;
+    }
+    .no-mobile {
+        display: none;
     }
 }
 

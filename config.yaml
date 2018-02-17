@@ -39,3 +39,6 @@ menu:
     - name: Blog
       weight: 2
       url: /blog/
+    - name: Tip
+      weight: 3
+      url: /donate/
