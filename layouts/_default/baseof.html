@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "head" . }}
+</head>
+<body class='lh-title dark-gray sans-serif'>
+  {{ partial "navbar" . }}
+  {{ block "main" . }}{{ end }}
+  {{ partial "footer" . }}
+  <script src='/js/app.js'></script>
+  {{ partial "analytics" . }}
+</body>
+</html>

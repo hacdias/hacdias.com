@@ -1,18 +1,19 @@
 baseurl: 'https://hacdias.com/'
 disqusShortname: hacdias
 languageCode: en
-paginate: 15
+paginate: 10
 pluralizelisttitles: false
 removePathAccents: true
 title: Henrique Dias (@hacdias)
 pygmentsStyle: github
+summarylength: 30
 
 params:
   Analytics: 59697241-1
   Description: >-
     I study Information Systems and Computer Engineering at Instituto Superior Técnico.
     Digging into the decentralized web with IPFS.
-  image: macbook-office
+  image: images/lamps.jpg
   Author:
     Email: hacdias@gmail.com
     image: henrique.jpg
@@ -21,11 +22,9 @@ params:
   Social:
     Facebook: hacdias
     GitHub: hacdias
-    GooglePlus: HenriqueDias
     Instagram: hacdias
     LinkedIn: hacdias
     Twitter: hacdias
-    YouTube: UCEJe-YgDEvr351w1oNjzolw
   Webmaster:
     Bing: B471CBBC9EF6900039C6BBF251EF277C
     Google: nVQ4_x6m6ZTRAzclMPNxpB0iMgK-xoIj_d-l85u32nY
@@ -35,10 +34,34 @@ menu:
     - name: About
       weight: 1
       identifier: about
+      pre: 🧑
       url: /about/
-    - name: Blog
+    - name: Writing
       weight: 2
+      pre: 📰
       url: /blog/
-    - name: Tip
-      weight: 3
-      url: /donate/
+    - name: Projects
+      weigth: 3
+      pre: 📦
+      url: /projects/
+    - name: PGP Key
+      weight: 4
+      pre: 🔑
+      url: https://keybase.io/hacdias/pgp_keys.asc?fingerprint=4dc16358711be325fb3633cf2e80d38374cd55aa
+  social:
+    - name: Email
+      weight: 1
+      pre: 📧
+      url: mailto:hacdias@gmail.com
+    - name: GitHub
+      weight: 2
+      pre: 👨‍💻
+      url: https://github.com/hacdias
+    - name: Twitter
+      weigth: 3
+      pre: 🕊️
+      url: https://twitter.com/hacdias
+    - name: Instagram
+      weight: 4
+      pre: 📷
+      url: https://instagram.com/hacdias

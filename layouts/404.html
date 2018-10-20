@@ -1,9 +1,7 @@
-{{ partial "header" . }}
+{{ define "main" }}
 
-<main role="main" class="error">
-    <audio src="/assets/interference.mp3" autoplay loop hidden="true"></audio>
-    <div class="glitch" data-text="404 Not Found">404 Not Found</div>
+<main role="main" class="container mt4">
+  <div class="b f3 glitch" data-text="404 Not Found">404 Not Found</div>
 </main>
 
-</body>
-</html>
+{{ end }}

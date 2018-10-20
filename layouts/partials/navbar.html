@@ -1,0 +1,29 @@
+<nav class='ma0 w5-l w-100 h-100-l fixed-l top-0 left-0 bg-near-white flex flex-column justify-between pa4'>
+  <div>
+    <a class='b' href='{{ .Site.BaseURL }}'>
+      <p class='ma0 b glitch f4' data-text='Henrique Dias'>Henrique Dias</p>
+      <p class='ma0 b gray'>aka <span class='glitch' data-text='@hacdias'>@hacdias</span></p>
+    </a>
+  </div>
+
+  <ul class='list mh0 pa0 mv3 db'>
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main -}}
+      <li class='mv2 mv3-l mr3 mr0-l db-l dib'>
+        <a href='{{ .URL }}' {{if eq $currentPage.RelPermalink .URL }}class='b' {{end}}>
+          <span {{if eq $currentPage.RelPermalink .URL }}class='glitch' data-text='{{ .Pre }}' {{end}}>{{ .Pre }}</span>
+          <span>{{ .Name }}</span>
+        </a>
+      </li>
+    {{end}}
+  </ul>
+
+  <ul class='list ma0 pa0'>
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.social -}}
+      <li class='dib mr1'>
+        <a target='_blank' title='{{ .Name }}' href='{{ .URL }}'>{{ .Pre }}</a>
+      </li>
+    {{end}}
+  </ul>
+</nav>

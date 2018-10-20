@@ -1,22 +1,23 @@
-{{ partial "header" . }}
+{{ define "main" }}
 
 <main>
-  <p class='big'>Hi! I am<br>Henrique Dias!</p>
+  <section class='center mv6 mw7 w-80'>
+    <div class='tc'>
+      <h1 class='center dib f2 glitch ma0' data-text='🎉🦄💻'>🎉🦄💻</h1>
+    </div>
 
-  <p class='medium serif'>I study Computer Engineering.</p>
+    <div class='tc'>
+      <h1 class='center dib f1-m f-subheadline-l glitch ma0' data-text='Henrique Dias'>Henrique Dias</h1>
+    </div>
+  </section>
 
-  <p class='info serif'>
-    I study Information Systems and Computer Engineering at <a href="https://tecnico.ulisboa.pt/en/">
-    Instituto Superior Técnico</a>. Digging
-    into the decentralized web with <a href="https://ipfs.io">IPFS</a>.
-  </p>
-
-  <ul class='contacts serif'>
-    <li><a rel="noopener" href="mailto:hacdias@gmail.com">hacdias@gmail.com</a></li>
-    <li><a rel="noopener" target="_blank" href="https://github.com/hacdias">github</a></li>
-    <li><a rel="noopener" target="_blank" href="https://twitter.com/hacdias">twitter</a></li>
-  </ul>
+  <section class='center mv6 mw7 w-80'>
+    <p>
+      Hi! 👋 I study Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal while
+      working at the most fascinating open-source projects, just like <a target='_blank' href='https://ipfs.io'>IPFS</a>.
+      Want to know more about me and maybe why's my handle "hacdias"? <a href="/about">You're in the right track!</a>
+    </p>
+  </section>
 </main>
 
-<script src="{{ .Site.BaseURL }}/js/index.js" type="application/javascript"></script>
-{{ partial "footer" . }}
+{{ end }}

@@ -1,12 +1,14 @@
- {{ if isset .Params "image" -}}
-<figure id="banner" class="full"><img src="{{ .Site.BaseURL }}/images/{{ .Params.image }}.jpg"></figure>
-{{- end }}
-<header>
-    {{ if eq .Type "post" -}}
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-    {{- end }}
-    <h1>{{ .Title }}</h1>
-    {{ if isset .Params "subtitle" -}}
-        <p>{{.Params.subtitle}}</p>
-    {{- end -}}
+{{ $img := .Page.Resources.GetMatch "featured*" }}
+{{ if $img }}
+  <figure class='full'>
+    <img id='banner' class='db mt0 mb3' src='{{ $img.Permalink }}'>
+  </figure>
+{{ end }}
+
+<header {{ if not $img }}class='mt4'{{ end }}>
+  {{ if eq .Type "post" -}}
+    <time class='db ttu mt4 mb3 f6 gray' datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "January 2, 2006" }}</time>
+  {{- end }}
+
+  <h1 class='mv2 ttu tracked-tight'>{{ .Title }}</h1>
 </header>

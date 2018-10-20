@@ -1,0 +1,54 @@
+{{ $title := or .Title .Site.Title }}
+{{ $description := or .Description .Site.Params.Description }}
+{{ $img := .Page.Resources.GetMatch "featured*" }}
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@{{ .Site.Params.Social.Twitter }}"/>
+<meta name="twitter:title" content="{{ $title }}"/>
+<meta name="twitter:description" content="{{ $description }}"/>
+<meta name="twitter:creator" content="@{{ .Site.Params.Social.Twitter }}"/>
+
+<!-- Open Graph -->
+<meta property="og:locale" content="{{ .Site.LanguageCode }}" />
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+<meta property="og:title" content="{{ $title }}" />
+<meta property="og:description" content="{{ $description }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+
+{{ if .IsPage }}
+  <meta property="article:publisher" content="https://www.facebook.com/{{ .Site.Params.Social.Facebook }}" />
+  <meta property="article:author" content="https://www.facebook.com/{{ .Site.Params.Social.Facebook }}" />
+  {{ if not .Date.IsZero }}
+    {{ $date := .Date.Format "2006-01-02T15:04:05-07:00" }}
+    <meta property="article:published_time" content="{{ if .PublishDate.IsZero }}{{ $date }}{{ else }}{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}{{ end }}" />
+    <meta property="article:modified_time" content="{{ $date }}" />
+    <meta property="og:updated_time" content="{{ $date }}" />
+  {{ end }}
+{{ end }}
+
+{{ if $img }}
+  <meta property="og:image" content="{{ $img.Permalink }}" />
+  <meta name="twitter:image:src" content="{{ $img.Permalink }}"/>
+{{ else }}
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.Image }}" />
+  <meta name="twitter:image:src" content="{{ .Site.BaseURL }}{{ .Site.Params.Image }}"/>
+{{ end }}
+
+<meta name="msvalidate.01" content="{{ .Site.Params.Webmaster.Bing }}" />
+<meta name="google-site-verification" content="{{ .Site.Params.Webmaster.Google }}" />
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet">
+
+<!-- Styles -->
+<link rel="stylesheet" href="{{ .Site.BaseURL}}css/tachyons.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL}}css/main.css">
