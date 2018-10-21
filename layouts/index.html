@@ -1,23 +1,9 @@
 {{ define "main" }}
 
-<main>
-  <section class='center mv6 mw7 w-80'>
-    <div class='tc'>
-      <h1 class='center dib f2 glitch ma0' data-text='🎉🦄💻'>🎉🦄💻</h1>
-    </div>
-
-    <div class='tc'>
-      <h1 class='center dib f1-m f-subheadline-l glitch ma0' data-text='Henrique Dias'>Henrique Dias</h1>
-    </div>
-  </section>
-
-  <section class='center mv6 mw7 w-80'>
-    <p>
-      Hi! 👋 I study Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal while
-      working at the most fascinating open-source projects, just like <a target='_blank' href='https://ipfs.io'>IPFS</a>.
-      Want to know more about me and maybe why's my handle "hacdias"? <a href="/about">You're in the right track!</a>
-    </p>
-  </section>
+<main role='main'>
+  <article class='mt4 nested-copy-line-height'>
+    {{ .Content }}
+  </article>
 </main>
 
 {{ end }}
