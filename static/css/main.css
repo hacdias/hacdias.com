@@ -55,20 +55,19 @@ nav a:hover {
 article li,
 article p {
     font-size: 1.1em;
-    line-height: 1.6;
 }
 
 .container,
 article .highlight>pre,
-article>* {
+article > * {
     width: calc(100% - 4rem);
-    max-width: 48rem;
-    margin-right: auto;
-    margin-left: auto;
+    max-width: 48rem; /* .mw7 */
+    margin-right: auto; /* .center */
+    margin-left: auto; /* .center */
 }
 
 article .highlight {
-    max-width: 850px;
+    max-width: 56rem; /* .mw8 */
 }
 
 article img#banner {
@@ -363,14 +362,20 @@ hr {
     background: #f4f4f4;
 }
 
+.grid-item {
+    width: calc(50% - 1rem);
+}
+
 .project {
-    width: calc(50% - 1em);
     padding-bottom: calc(50% - 1em);
 }
 
 @media screen and (max-width: 500px) {
-    .project {
+    .grid-item {
         width: 100%;
+    }
+
+    .project {
         padding-bottom: 100%;
     }
 }

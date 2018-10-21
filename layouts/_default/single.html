@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-<main role="main" class="single">
-  <article>
+<main role='main'>
+  <article class='nested-copy-line-height'>
   {{ partial "article/header" . }}
   {{ .Content }}
   {{ if eq .Type "post" }}

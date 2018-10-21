@@ -1,10 +1,10 @@
 {{ define "main" }}
 
 <main role='main' class='container mt4 center'>
-  <h1>{{ .Title }}</h1>
-  <ul class='list ma0 pa0 justify-between flex flex-wrap'>
+  <h1 class='f2 mt0 mb4'>{{ .Title }}</h1>
+  <ul class='list ma0 pa0 justify-between flex flex-wrap' style='margin-top: -2rem'>
     {{ range .Paginator.Pages }}
-    <li class='project flex-grow-0 flex-shrink-0 mb4 relative'>
+    <li class='grid-item project flex-grow-0 flex-shrink-0 mt4 relative'>
       <a href='{{ .Permalink }}'>
         {{ $img := .Resources.GetMatch "thumbnail*" }}
         <img class='absolute top-0 left-0 w-100 h-100' src='{{ $img.Permalink }}'>
