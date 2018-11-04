@@ -10,7 +10,7 @@ tags:
 - school
 ---
 
-Dia 29 de janeiro de 2015 realizámos (eu e uns colegas, turma 10º A da Escola EB2,3/S de Ourique)  uma atividade prática, na aula de Biologia, relativa à observação de células eucarióticas e microrganismos eucariontes. Aqui está o relatório ([versão pdf](/downloads/observacao-de-microrganismos-e-celulas-eucarioticas.pdf)).
+Dia 29 de janeiro de 2015 realizámos (eu e uns colegas, turma 10º A da Escola EB2,3/S de Ourique)  uma atividade prática, na aula de Biologia, relativa à observação de células eucarióticas e microrganismos eucariontes.
 
 >Deste modo, é a partir da guerra da natureza, da escassez e da mortalidade que surge o acontecimento mais elevado que somos capazes de conceber: a produção dos animais superiores. Há uma grandiosidade inerente a esta visão da vida: o Criador concentrou os diversos poderes da vida num pequeno número de formas, ou apenas numa; e enquanto este planeta girava de acordo com a lei da gravitação universal, a partir de um princípio tão simples, foram desenvolvidas, e continuam a desenvolver-se, infinitas formas do mais belo e maravilhoso que há.<br><br>- Charles Darwin, A Origem das Espécies
 
