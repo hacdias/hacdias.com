@@ -2,13 +2,24 @@
 type:   project
 date:	  2013-06-11 12:10:00+00:00
 title:  "Pplware"
+description: >
+  Pplware is a portuguese project that delivers the most recent
+  news about technology to the Portuguese-speaking community.
 ---
 
 {{< skills "WordPress" "Content Writing" "Online Journalism" >}}
 
-Pplware is a portuguese project that delivers the most recent news about technology to everyone who speaks portuguese. It's also a place where you can ask for help in the forum or sending a mail. It also includes "Pplware Fórum"​, "Pplware Usados"​, "Comunidade Pplware@Linux"​ and "Pplware Kids".
+Pplware is a portuguese project that delivers the most recent news about technology
+to the Portuguese-speaking community. It's also a place where you can ask for help
+in their forum or just by sending an email.
 
-I've mainly played a part in Pplware Kids, which is a blog directed to everyone. We want to deliver concise information that can be understood by everyone. We have "how to" tutorials, security tips for everyone. For kids, we give some tips to create good school works. For parents we have tutorials to protect their PC for the use of their children.
+This project is also home of some other sub-projects such as "Pplware Fórum", "Pplware
+Usados", "Comunidade Pplware@Linux" and "Pplware Kids".
+
+I've mainly played a part in Pplware Kids, which is a blog directed to everyone. The
+main goal was to deliver concise information that could be understood by everyone, from
+the youngest to the eldest. I wrote everything from school work tips to "how to" tutorials
+and security tips.
 
 [Visit the Site](http://pplware.com)
 

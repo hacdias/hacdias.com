@@ -61,7 +61,7 @@ article p {
 article .highlight>pre,
 article > * {
     width: calc(100% - 4rem);
-    max-width: 48rem; /* .mw7 */
+    max-width: 40rem;
     margin-right: auto; /* .center */
     margin-left: auto; /* .center */
 }

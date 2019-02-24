@@ -12,19 +12,11 @@ relativeURLs: true
 params:
   Analytics: 59697241-1
   Description: >-
-    I study Information Systems and Computer Engineering at Instituto Superior Técnico.
-    Digging into the decentralized web with IPFS.
+    Hi there! I'm Henrique and I'm a BSc student in Information Systems and Computer.
+    Currently working at Protocol Labs on decentralizing the web.
   image: images/lamps.jpg
-  Author:
-    Email: hacdias@gmail.com
-    image: henrique.jpg
-    JobTitle: Developer
-    Name: Henrique Dias
   Social:
     Facebook: hacdias
-    GitHub: hacdias
-    Instagram: hacdias
-    LinkedIn: hacdias
     Twitter: hacdias
   Webmaster:
     Bing: B471CBBC9EF6900039C6BBF251EF277C

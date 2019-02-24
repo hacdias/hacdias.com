@@ -50,5 +50,7 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet">
 
 <!-- Styles -->
-<link rel="stylesheet" href="{{ .Site.BaseURL}}css/tachyons.min.css">
-<link rel="stylesheet" href="{{ .Site.BaseURL}}css/main.css">
+{{ $tachyons := resources.Get "css/tachyons.min.css" }}
+{{ $main := resources.Get "css/main.css" }}
+{{ $css := slice $tachyons $main | resources.Concat "css/styles.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">

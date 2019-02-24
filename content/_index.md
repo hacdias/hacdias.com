@@ -9,12 +9,10 @@ more about me and maybe why's my handle "hacdias"? [You're in the right track!][
 
 I haven't been writing for a while. But here are some featured and reflexive [blog posts][1]:
 
-- [How did I start working remotely at a startup](/blog/how-did-i-start-working-remotely-at-a-startup/)
-- [Something about the future](/blog/something-about-future/)
-- [Is technology a good or a bad thing?](/blog/technology-good-bad/)
-- [The Society and the Objets](/blog/the-society-and-the-objects/)
+- [Working at Protocol Labs](./blog/working-at-protocol-labs/)
+- [How did I start working remotely at a startup](./blog/how-did-i-start-working-remotely-at-a-startup/)
 
 {{< figure src="/images/lamps.jpg" class="medium" caption="Just a picture I'm proud of" >}}
 
-[0]: /about
-[1]: /blog
+[0]: ./about
+[1]: ./blog

@@ -7,6 +7,9 @@ description: >-
     A story of a 17 years old boy who met someone
     and one year later was invited to join a startup
     as a Full Stack Developer.
+tags:
+    - projects
+    - startup
 ---
 
 _The experience and opinion of a 17 years old boy working remotely as a developer for a startup._
