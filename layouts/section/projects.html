@@ -5,9 +5,9 @@
   <ul class='list ma0 pa0 justify-between flex flex-wrap' style='margin-top: -2rem'>
     {{ range .Paginator.Pages }}
     <li class='grid-item project flex-grow-0 flex-shrink-0 mt4 relative'>
-      <a href='{{ .Permalink }}'>
+      <a href='{{ .RelPermalink }}'>
         {{ $img := .Resources.GetMatch "thumbnail*" }}
-        <img class='absolute top-0 left-0 w-100 h-100' src='{{ $img.Permalink }}'>
+        <img class='absolute top-0 left-0 w-100 h-100' src='{{ $img.RelPermalink }}'>
         <div class='absolute top-0 left-0 w-100 h-100 bg-animate bg-black-10 hover-bg-black-50 white'>
           <h3 class='ma3'>{{ .Title }}</h3>
         </div>
