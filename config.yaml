@@ -7,6 +7,7 @@ removePathAccents: true
 title: Henrique Dias (@hacdias)
 pygmentsStyle: github
 summarylength: 30
+relativeURLs: true
 
 params:
   Analytics: 59697241-1
