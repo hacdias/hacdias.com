@@ -1,5 +1,5 @@
 {{ range $index, $res := .Resources.Match "*.js" }}
-  <script src="{{ $res.Permalink }}"></script>
+  <script src="{{ $res.RelPermalink }}"></script>
 {{ end }}
 
 {{ $js :=  resources.Get "js/common.js" | resources.Minify }}

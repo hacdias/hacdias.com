@@ -59,7 +59,7 @@
 {{ end }}
 
 {{ range $index, $res := .Resources.Match "*.css" }}
-  <link rel="stylesheet" href="{{ $res.Permalink }}">
+  <link rel="stylesheet" href="{{ $res.RelPermalink }}">
 {{ end }}
 
 {{ if $emoji}}
