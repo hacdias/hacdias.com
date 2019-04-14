@@ -1,5 +1,6 @@
 {{ $title := or .Title .Site.Title }}
 {{ $description := or .Description .Site.Params.Description }}
+{{ $emoji := or .Params.emoji .Site.Params.Emoji }}
 {{ $img := .Page.Resources.GetMatch "featured*" }}
 
 <meta charset="utf-8">
@@ -46,11 +47,21 @@
 <meta name="msvalidate.01" content="{{ .Site.Params.Webmaster.Bing }}" />
 <meta name="google-site-verification" content="{{ .Site.Params.Webmaster.Google }}" />
 
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet">
+{{ if not .Params.raw }}
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet">
 
-<!-- Styles -->
-{{ $tachyons := resources.Get "css/tachyons.min.css" }}
-{{ $main := resources.Get "css/main.css" }}
-{{ $css := slice $tachyons $main | resources.Concat "css/styles.css" | resources.Minify }}
-<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  <!-- Styles -->
+  {{ $tachyons := resources.Get "css/tachyons.min.css" }}
+  {{ $main := resources.Get "css/main.css" }}
+  {{ $css := slice $tachyons $main | resources.Concat "css/styles.css" | resources.Minify }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ end }}
+
+{{ range $index, $res := .Resources.Match "*.css" }}
+  <link rel="stylesheet" href="{{ $res.Permalink }}">
+{{ end }}
+
+{{ if $emoji}}
+  <link rel="icon" data-emoji="{{ $emoji }}" type="image/png">
+{{ end }}

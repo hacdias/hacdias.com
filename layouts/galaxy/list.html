@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "head" . }}
+</head>
+<body>
+  <div class="star">
+    <div class="roof horizontal">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <div class="roof vertical">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
+
+  <div class="container">
+    <h1>💫 @hacdias galaxy</h1>
+
+    <p>A galaxy, a black hole, a trashbin, whatever you wanna call it. This is a place for some weird and creepy experiments. Weird things can happen, you can feel dizzy, be aware of dragons. 🐉 Be aware! Or they will bite you.</p>
+
+    {{ range .Pages }}
+    <a class="exp" href='{{ .Permalink }}'>{{ .Params.emoji }} {{ .Title }}</a>
+    {{ end }}
+  </div>
+
+  {{ partial "scripts" . }}
+</body>
+</html>

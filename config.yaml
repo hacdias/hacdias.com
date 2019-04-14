@@ -10,6 +10,7 @@ summarylength: 30
 relativeURLs: true
 
 params:
+  Emoji: 🧙‍♂️
   Analytics: 59697241-1
   Description: >-
     Hi there! I'm Henrique and I'm a BSc student in Information Systems and Computer.

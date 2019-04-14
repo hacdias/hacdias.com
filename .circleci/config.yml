@@ -15,7 +15,7 @@ jobs:
 
   deploy:
     docker:
-      - image: olizilla/ipfs-dns-deploy:1.1
+      - image: olizilla/ipfs-dns-deploy:1.2
         environment:
           DOMAIN: hacdias.com
           BUILD_DIR: public
