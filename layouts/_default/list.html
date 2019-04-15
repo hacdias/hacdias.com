@@ -1,7 +1,8 @@
 {{ define "main" }}
 
 <main role='main' class='container mt4 center'>
-	<h1 class='f2 mt0 mb4'>{{ .Title }}</h1>
+	<h1 class='small-caps f1 mt0 mb4'>{{ .Title }}</h1>
+
 	{{ .Content }}
 	{{ partial "pagination" .Paginator }}
 </main>

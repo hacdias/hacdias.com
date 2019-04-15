@@ -1,14 +1,15 @@
 {{ $img := .Page.Resources.GetMatch "featured*" }}
-{{ if $img }}
+{{ $useImg := (and $img (not (eq .Section "projects"))) }}
+{{ if $useImg }}
   <figure class='full'>
     <img id='banner' class='db mt0 mb3' src='{{ $img.RelPermalink }}'>
   </figure>
 {{ end }}
 
-<header {{ if not $img }}class='mt4'{{ end }}>
+<header {{ if not $useImg }}class='mt4'{{ end }}>
   {{ if eq .Type "post" -}}
     <time class='db ttu mt4 mb3 f6 gray' datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "January 2, 2006" }}</time>
   {{- end }}
 
-  <h1 class='mv2 ttu tracked-tight'>{{ .Title }}</h1>
+  <h1 class='mv2 small-caps f1'>{{ .Title }}</h1>
 </header>
