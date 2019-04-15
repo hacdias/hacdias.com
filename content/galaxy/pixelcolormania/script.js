@@ -1,4 +1,4 @@
-const dpi = 5
+const dpi = window.devicePixelRatio || 1
 
 const colors = [
   '#E70000',
