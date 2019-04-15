@@ -1,29 +1,38 @@
-<nav class='ma0 w5-l w-100 h-100-l fixed-l top-0 left-0 bg-near-white flex flex-column justify-between pa4'>
-  <div>
-    <a class='b' href='{{ relURL .Site.BaseURL }}'>
-      <p class='ma0 b glitch f4' data-text='Henrique Dias'>Henrique Dias</p>
-      <p class='ma0 b gray'>aka <span class='glitch' data-text='@hacdias'>@hacdias</span></p>
+{{ $isGalaxy := (eq .Section "galaxy") }}
+
+<header class='container mv3' id='header'>
+  <div class='flex-ns items-center'>
+    <a class='{{ if $isGalaxy }}white hover-near-white{{ end }} no-shadow db flex b items-center justify-center justify-left-ns' href='{{ relURL .Site.BaseURL }}'>
+      <div class='f2 mr2'>
+        🧙‍♂️
+      </div>
+      <div>
+        <p class='ma0 b glitch f4' data-text='Henrique Dias'>Henrique Dias</p>
+        <p class='ma0 b {{ if $isGalaxy }}light-gray{{ else }}gray{{ end }}'>aka <span class='glitch' data-text='@hacdias'>@hacdias</span></p>
+      </div>
     </a>
+
+    <ul class='list f4 mv3 tc pa0 ml-auto-ns ma0'>
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.social -}}
+        <li class='dib mr1'>
+          <a target='_blank' title='{{ .Name }}' href='{{ .URL }}' class='no-shadow'>{{ .Pre }}</a>
+        </li>
+      {{end}}
+    </ul>
   </div>
 
-  <ul class='list mh0 pa0 mv3 db'>
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.main -}}
-      <li class='mv2 mv3-l mr3 mr0-l db-l dib'>
-        <a href='{{ .URL }}' {{if eq $currentPage.RelPermalink .URL }}class='b' {{end}}>
-          <span {{if eq $currentPage.RelPermalink .URL }}class='glitch' data-text='{{ .Pre }}' {{end}}>{{ .Pre }}</span>
-          <span>{{ .Name }}</span>
-        </a>
-      </li>
-    {{end}}
-  </ul>
-
-  <ul class='list ma0 pa0'>
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.social -}}
-      <li class='dib mr1'>
-        <a target='_blank' title='{{ .Name }}' href='{{ .URL }}'>{{ .Pre }}</a>
-      </li>
-    {{end}}
-  </ul>
-</nav>
+  <nav>
+    <ul class='list b bold br2 justify-around flex-ns pa0 mv3 {{ if $isGalaxy }}bg-yellow near-black{{ else }}bg-dark-blue white{{ end }}'>
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main -}}
+        <li class='flex-grow-1'>
+          <a href='{{ .URL }}' class='br2 no-shadow pa2 tc db w-100 bg-animate {{ if $isGalaxy }}hover-bg-black-10{{ else }}hover-bg-black-20{{ end }}'>
+            <span>{{ .Pre }}</span>
+            <span>{{ .Name }}</span>
+          </a>
+        </li>
+      {{end}}
+    </ul>
+  </nav>
+</header>

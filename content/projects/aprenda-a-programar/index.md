@@ -2,6 +2,10 @@
 type:   project
 date:	  2015-02-25 12:10:00+00:00
 title:  "Aprenda a Programar"
+description: >
+  In 2015, with only 15 years old, I wrote an ebook teaching how to program in C.
+  That ebook consists in the compilation of a series of blog posts on Pplware
+  into a beautiful and easily readable PDF.
 ---
 
 {{< skills "C" "Writing" >}}

@@ -1,4 +1,6 @@
-<footer class='container mv4 o-30'>
+{{ $isGalaxy := (eq .Section "galaxy") }}
+
+<footer class='container mv4 o-30 {{ if $isGalaxy }}white{{ end }}'>
   <div class='flex flex-wrap justify-between center'>
     <span>&copy; Henrique Dias</span>
   

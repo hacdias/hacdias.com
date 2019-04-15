@@ -2,28 +2,8 @@
 
 <main role='main' class='container mt4 center'>
 	<h1 class='f2 mt0 mb4'>{{ .Title }}</h1>
-	<ul class='list ma0 pa0 flex flex-wrap justify-between' style='margin-top: -2rem'>
-		{{ range .Paginator.Pages }}
-		<li class='grow mt4 grid-item bg-near-white'>
-			<a href='{{ .RelPermalink }}'>
-				{{ $img := .Resources.GetMatch "featured*" }}
-				{{ if $img }}
-					<img class='db' src='{{ ($img.Fill "800x400 q80 Center").RelPermalink }}'>
-				{{ end }}
-
-				<div class='pa3'>
-					<h3 class='mt0 mb1 ttu'>{{ .Title }}</h3>
-					<time class='f6 db gray ttu mt1 mb3' datetime='{{ .Date.Format "2006-01-02" }}'>
-						{{ .Date.Format "Jan 2, 2006" }}
-					</time>
-					<p class='lh-copy'>{{ .Summary }}</p>
-					<div class='mt2 b tr'>Read more ➡️</div>
-				</div>
-			</a>
-		</li>
-		{{ end }}
-	</ul>
-	{{ partial "pagination" . }}
+	{{ .Content }}
+	{{ partial "pagination" .Paginator }}
 </main>
 
 {{ end }}
