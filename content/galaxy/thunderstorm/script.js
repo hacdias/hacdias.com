@@ -30,7 +30,11 @@ class Thunderstorm {
     window.addEventListener('resize', this._initRainLines.bind(this))
 
     let audio = new window.Audio(`${src}/assets/rain.mp3`)
-    audio.play()
+    audio.loop = true
+
+    audio.play().catch(() => {
+      document.addEventListener('click', () => { audio.play() })
+    })
   }
 
   _createCanvas () {
@@ -148,6 +152,17 @@ class Thunderstorm {
   _initLightening () {
     this.lightening.current = 0
     this.lightening.total = 0
+    this.lightening.playing = false
+  }
+
+  _thunder () {
+    if (this.lightening.playing) return
+    this.lightening.playing = true
+    let audio = new window.Audio(`${src}/assets/strike-${Math.floor(random(1, 3))}.mp3`)
+    audio.play()
+    setTimeout(() => {
+      this.lightening.playing = false
+    }, 3000) // 3 seconds seems to be a good amount of time instead of 'ended'
   }
 
   _clearLightening () {
@@ -226,8 +241,7 @@ class Thunderstorm {
 
     if (this.lightening.current >= this.lightening.total) {
       this._createLightning()
-      let audio = new window.Audio(`${src}/assets/strike-${Math.floor(random(1, 3))}.mp3`)
-      audio.play()
+      this._thunder()
       this.lightening.current = 0
       this.lightening.total = random(100, 200)
     }
