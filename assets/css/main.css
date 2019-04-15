@@ -34,6 +34,10 @@ html {
   min-height: 100%;
 }
 
+body {
+  background: #f9f9f9;
+}
+
 @media screen and (max-width: 960px) {
   body {
     padding-left: 0;
@@ -287,7 +291,7 @@ hr {
   text-shadow: -1px 0 red;
   top: 0;
   color: currentColor;
-  background: #fff;
+  background: #f9f9f9;
   overflow: hidden;
   clip: rect(0, 900px, 0, 0);
   animation: noise-anim 2s infinite linear alternate-reverse;
@@ -386,20 +390,10 @@ hr {
   text-shadow: 1px 0 blue;
   top: 0;
   color: currentColor;
-  background: #fff;
+  background: #f9f9f9;
   overflow: hidden;
   clip: rect(0, 900px, 0, 0);
   animation: noise-anim-2 3s infinite linear alternate-reverse;
-}
-
-.bg-near-white .glitch::before,
-.bg-near-white .glitch::after {
-  background: #f4f4f4;
-}
-
-.bg-dark-blue .glitch::before,
-.bg-dark-blue .glitch::after {
-  background: #00449e;
 }
 
 #header nav ul {
