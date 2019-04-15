@@ -47,10 +47,15 @@ button {
   cursor: pointer;
   color: white;
   outline: 0;
+  margin: 1em 0;
 }
 
 button:active,
 button:hover {
   outline: 0;
   box-shadow: inset 0 0 25px rgba(0, 0, 0, 0.5);
+}
+
+button:last-of-type {
+  margin-bottom: 0;
 }

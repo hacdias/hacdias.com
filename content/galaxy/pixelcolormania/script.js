@@ -57,6 +57,17 @@ function reset () {
   redo()
 }
 
+function toggle (event) {
+  if (interval) {
+    clearInterval(interval)
+    interval = null
+    event.currentTarget.innerHTML = 'Resume'
+  } else {
+    interval = draw(canvas, options)
+    event.currentTarget.innerHTML = 'Stop'
+  }
+}
+
 function redo () {
   clearInterval(interval)
   interval = draw(canvas, options)
@@ -64,10 +75,10 @@ function redo () {
 
 function set (event, what) {
   options[what] = event.currentTarget.checked
-  redo()
+  if (interval) redo()
 }
 
 function setSize (event) {
   options.size = parseInt(event.currentTarget.value)
-  redo()
+  if (interval) redo()
 }

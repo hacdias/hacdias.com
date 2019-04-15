@@ -22,5 +22,6 @@ raw: true
     <label>Size</label>
     <input onchange="setSize(event)" type="range" min="10" max="500" value="100">
   </div>
-  <button onclick="reset()">Clear Canvas</button>
+  <button onclick="reset()">Restart</button>
+  <button onclick="toggle(event)">Stop</button>
 </div>
