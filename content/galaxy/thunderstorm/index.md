@@ -4,8 +4,8 @@ emoji: ⛈
 title: Thunderstorm
 date:  2019-04-15
 description: >
-  A little colorful experiment where you can randomly create squares, lines and
-  adjust their size and sobreposition settings.
+  A thunderstorm experiment with two different kinds of rain and lightenings.
+  It is based on some code I found online, with reworked code and added sound.
 raw: true
 ---
 
