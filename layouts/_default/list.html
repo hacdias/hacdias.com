@@ -3,6 +3,10 @@
 <main role='main' class='container mt4 center'>
 	<h1 class='small-caps f1 mt0 mb4'>{{ .Title }}</h1>
 
+	{{ if .Params.showDescription }}
+		<p>{{ .Description }}</p>
+	{{ end }}
+
 	{{ .Content }}
 	{{ partial "pagination" .Paginator }}
 </main>

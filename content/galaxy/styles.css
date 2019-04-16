@@ -1,11 +1,6 @@
 :root {
   --galaxy: #131956;
-  --red: #E70000;
-  --orange: #FF8C00;
   --yellow: #FFEF00;
-  --green: #00811F;
-  --blue: #0044FF;
-  --purple: #760089;
 }
 
 .glitch::before,
@@ -50,4 +45,4 @@ h3 {
   font-weight: bold;
   margin: 1em 0;
   display: block;
-} 
+}
