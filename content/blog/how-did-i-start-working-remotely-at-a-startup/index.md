@@ -22,7 +22,7 @@ Festival](https://festival.landing.jobs/) — a tech jobs event organised by
 that matters, I have to thank a lot to them because they were my ground floor.
 
 {{< figure
-    src="landing-fest.jpg"
+    src="landing-fest-thumb.jpg"
     caption="A bit of Landing.jobs Festival 2015" >}}
 
 In that same day, there was someone who saw me and asked me if I was Henrique

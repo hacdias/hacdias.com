@@ -28,7 +28,7 @@
       {{ range .Site.Menus.main -}}
         <li class='flex-grow-1'>
           <a href='{{ .URL }}' class='br2 no-shadow pa2 tc db w-100 bg-animate {{ if $isGalaxy }}hover-bg-black-10{{ else }}hover-bg-black-20{{ end }}'>
-            <span>{{ .Pre }}</span>
+            <span>{{ with .Page }}{{ .Params.emoji }}{{ else }}{{ .Pre }}{{ end }}</span>
             <span>{{ .Name }}</span>
           </a>
         </li>

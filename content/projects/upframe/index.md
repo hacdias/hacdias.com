@@ -19,7 +19,7 @@ work in a team with a designer, how to develop myself, how to hear the opinion o
 
 [Check the Code](https://github.com/upframe)
 
-{{< figure src="1.jpg" class="full" >}}
+{{< figure src="1-social.jpg" class="full" >}}
 {{< figure src="2.jpg" class="full" >}}
 {{< figure src="abo1.jpg" class="full" >}}
 {{< figure src="abo2.jpg" class="full" >}}

@@ -8,35 +8,27 @@ title: Henrique Dias (@hacdias)
 pygmentsStyle: github
 summarylength: 30
 relativeURLs: true
+enableRobotsTXT: true
+googleAnalytics: 59697241-1
+
+social:
+  facebook: hacdias
+  twitter: hacdias
 
 params:
-  Emoji: 🧙‍♂️
-  Analytics: 59697241-1
+  emoji: 🧙‍♂️
   Description: >-
     Hi there! I'm Henrique and I'm a BSc student in Information Systems and Computer.
     Currently working at Protocol Labs on decentralizing the web.
-  image: images/lamps.jpg
-  Social:
-    Facebook: hacdias
-    Twitter: hacdias
+
+# Disable categories since I don't use them.
+taxonomies:
+  tag: tags
 
 menu:
   main:
-    - name: About
-      weight: 1
-      identifier: about
-      pre: 🧑
-      url: /about/
-    - name: Writing
-      weight: 2
-      pre: 📰
-      url: /blog/
-    - name: Projects
-      weigth: 3
-      pre: 📦
-      url: /projects/
     - name: PGP Key
-      weight: 4
+      weight: 3
       pre: 🔑
       url: https://keybase.io/hacdias/pgp_keys.asc?fingerprint=4dc16358711be325fb3633cf2e80d38374cd55aa
   social:

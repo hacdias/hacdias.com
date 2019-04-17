@@ -23,6 +23,6 @@ and security tips.
 
 [Visit the Site](http://pplware.com)
 
-{{< figure src="1.jpg" class="full" >}}
+{{< figure src="1-social.jpg" class="full" >}}
 {{< figure src="2.jpg" class="full" >}}
 {{< figure src="3.jpg" class="full" >}}

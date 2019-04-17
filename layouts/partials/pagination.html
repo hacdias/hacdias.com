@@ -1,14 +1,14 @@
 <ul class="list pa0 ma0">
   {{ range $i, $p := .Pages }}
-  {{ $img := $p.Resources.GetMatch "featured*" }}
+  {{ $img := $p.Resources.GetMatch "*thumb*" }}
     <li>
       <a class="db flex-l no-shadow ba b--lightest-blue grow navy mt4 br2 bg-washed-blue {{if and $img (not (modBool $i 2))}}flex-row-reverse{{end}}" href='{{ .RelPermalink }}'>
         {{ if $img }}
           <img class='dn db-l h5 br2 {{ if not (modBool $i 2) }}br--right{{ else }}br--left{{ end }}' src='{{ ($img.Fill "400x400 q80 Center").RelPermalink }}'>
         {{ end }}
-        
+
         <div class='pa3'>
-          <h3 class='mt0 mb1 ttu'>{{ if $p.Params.emoji }}{{ $p.Params.emoji }}{{ end }}{{ $p.Title }}</h3>
+          <h3 class='mt0 mb1 ttu'>{{ with $p.Params.emoji }}{{ . }}{{ end }}{{ $p.Title }}</h3>
           <time class='f6 db gray ttu mt1 mb3' datetime='{{ $p.Date.Format "2006-01-02" }}'>
             {{ $p.Date.Format "Jan 2, 2006" }}
           </time>

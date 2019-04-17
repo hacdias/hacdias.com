@@ -1,33 +1,33 @@
-{{ $title := or .Title .Site.Title }}
-{{ $description := or .Description .Site.Params.Description }}
-{{ $emoji := or .Params.emoji .Site.Params.Emoji }}
-{{ $img := .Page.Resources.GetMatch "featured*" }}
+{{- $description := or .Description .Site.Params.Description }}
+{{- $img := or (.Page.Resources.GetMatch "*social*") (.Page.Resources.GetMatch "*cover*") (.Page.Resources.GetMatch "*thumb*") }}
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ $title }}</title>
+<title>{{ .Title }}</title>
 <meta name="description" content="{{ $description }}">
 <link rel="canonical" href="{{ .Permalink }}">
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:site" content="@{{ .Site.Params.Social.Twitter }}"/>
-<meta name="twitter:title" content="{{ $title }}"/>
+<meta name="twitter:site" content="@{{ .Site.Social.twitter }}"/>
+<meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ $description }}"/>
-<meta name="twitter:creator" content="@{{ .Site.Params.Social.Twitter }}"/>
+<meta name="twitter:creator" content="@{{ .Site.Social.twitter }}"/>
+{{ with $img }}<meta name="twitter:image:src" content="{{ .Permalink }}"/>{{ end }}
 
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ .Site.LanguageCode }}" />
-<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
-<meta property="og:title" content="{{ $title }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ $description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
+{{ with $img }}<meta property="og:image" content="{{ .Permalink }}" />{{ end }}
 
 {{ if .IsPage }}
-  <meta property="article:publisher" content="https://www.facebook.com/{{ .Site.Params.Social.Facebook }}" />
-  <meta property="article:author" content="https://www.facebook.com/{{ .Site.Params.Social.Facebook }}" />
+  <meta property="article:publisher" content="https://www.facebook.com/{{ .Site.Social.facebook }}" />
+  <meta property="article:author" content="https://www.facebook.com/{{ .Site.Social.facebook }}" />
   {{ if not .Date.IsZero }}
     {{ $date := .Date.Format "2006-01-02T15:04:05-07:00" }}
     <meta property="article:published_time" content="{{ if .PublishDate.IsZero }}{{ $date }}{{ else }}{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}{{ end }}" />
@@ -36,32 +36,20 @@
   {{ end }}
 {{ end }}
 
-{{ if $img }}
-  <meta property="og:image" content="{{ $img.Permalink }}" />
-  <meta name="twitter:image:src" content="{{ $img.Permalink }}"/>
-{{ else }}
-  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.Image }}" />
-  <meta name="twitter:image:src" content="{{ .Site.BaseURL }}{{ .Site.Params.Image }}"/>
-{{ end }}
-
-{{ if not .Params.raw }}
+{{- if not .Params.raw -}}
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet">
-
   <!-- Styles -->
-  {{ $tachyons := resources.Get "css/tachyons.min.css" }}
-  {{ $glitch := resources.Get "css/glitch.css" }}
-  {{ $main := resources.Get "css/main.css" }}
-  {{ $css := slice $tachyons $main $glitch | resources.Concat "css/styles.css" | resources.Minify }}
+  {{- $tachyons := resources.Get "css/tachyons.min.css" }}
+  {{- $glitch := resources.Get "css/glitch.css" }}
+  {{- $main := resources.Get "css/main.css" }}
+  {{- $css := slice $tachyons $main $glitch | resources.Concat "css/styles.css" | resources.Minify }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ end }}
 
-{{ range $index, $res := .Resources.Match "*.css" }}
+{{- range $index, $res := .Resources.Match "*.css" }}
   <link rel="stylesheet" href="{{ $res.RelPermalink }}">
 {{ end }}
 
-{{ if $emoji}}
-  <link rel="icon" data-emoji="{{ $emoji }}" type="image/png">
-{{ end }}
-
+{{- with or .Params.emoji .Site.Params.emoji }}<link rel="icon" data-emoji="{{ . }}" type="image/png">{{ end }}
 {{ partial "analytics" . }}

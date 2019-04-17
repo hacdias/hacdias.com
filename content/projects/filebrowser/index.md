@@ -19,7 +19,7 @@ with automatic HTTPS, [plugin](https://caddyserver.com/docs/http.filebrowser).
 
 [Visit the Code](https://github.com/filebrowser/filebrowser)
 
-{{< figure src="1.jpg" class="full" >}}
+{{< figure src="1-social.jpg" class="full" >}}
 {{< figure src="2.jpg" class="full" >}}
 {{< figure src="3.jpg" class="full" >}}
 {{< figure src="4.jpg" class="full" >}}

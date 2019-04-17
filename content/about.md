@@ -1,9 +1,13 @@
 ---
 type:         page
 title:        About
+emoji:        🧑
 description:  >
   Hi there 👋! Currently, I am studying Information Systems and Computer Engineering
   at Técnico in Lisbon.
+menu:
+  main:
+    weight: 1
 ---
 
 Hi there 👋! I'm Henrique and I'm a BSc student 🎓 in Information Systems and Computer Engineering
@@ -42,4 +46,4 @@ that I happen to enjoy.
 [3]: https://upframe.io
 [4]: https://protocol.ai
 [5]: https://ipfs.io
-[6]: https://github.com/hacdias 
+[6]: https://github.com/hacdias
