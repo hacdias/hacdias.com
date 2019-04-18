@@ -1,15 +1,20 @@
-const message = '◕‿◕-hi!'
+const message = '(◕‿◕) Hi! Welcome :)'
 
 function welcomeMessage () {
+  const title = document.title
   let index = 0
 
   const update = () => {
-    window.location.hash = message.slice(0, ++index)
-    if (index === message.length) return
-    setTimeout(update, 1000 - index * 100)
+    document.title = message.slice(0, ++index)
+
+    if (index === message.length) {
+      setTimeout(() => { document.title = title }, 1000)
+    } else {
+      setTimeout(update, Math.max(1000 - index * 100, 200))
+    }
   }
 
-  update()
+  setTimeout(update, 1000)
 }
 
 welcomeMessage()
