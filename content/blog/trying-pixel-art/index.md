@@ -34,12 +34,12 @@ and I actually happen to like them. So I've started by doing so.
 
 <div class="flex-l w-100 items-center justify-between">
   {{< figure
-    class="mr3"
+    class="mr3-l"
     src="magician.png"
     caption="A magician, wizard ? 🧙‍♂️" >}}
 
   {{< figure
-    class="ml3"
+    class="ml3-l"
     src="cat.png"
     caption="A Cat" >}}
 </div>
