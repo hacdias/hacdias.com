@@ -53,7 +53,7 @@ showing you first the last one I've done but that I don't actually enjoy that mu
 the central building of my university.
 
 {{< figure
-  src="tecnico-central.jpg"
+  src="tecnico-central-social.jpg"
   caption="Técnico - Central Building" >}}
 
 Then - or should I say, before? - I've done something much more interesting: my university
