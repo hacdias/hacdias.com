@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background: #f9f9f9;
+}
+
 img {
   max-width: 100%;
 }
@@ -30,40 +34,55 @@ a:hover {
   color: #fff;
 }
 
-html {
-  min-height: 100%;
+figure {
+  margin-left: 0;
+  margin-right: 0;
 }
 
-body {
-  background: #f9f9f9;
-}
-
-@media screen and (max-width: 960px) {
-  body {
-    padding-left: 0;
-  }
+figure img {
+  width: 100%;
 }
 
 .sans-serif {
   font-family: 'Montserrat', sans-serif;
 }
 
-article li,
-article p {
-  font-size: 1.1em;
-}
-
-.container,
-article .highlight>pre,
-article > * {
+.container {
   width: calc(100% - 4rem);
   max-width: 40rem;
-  margin-right: auto; /* .center */
-  margin-left: auto; /* .center */;
+  margin-right: auto;
+  margin-left: auto;
 }
 
-article .highlight {
-  max-width: 56rem; /* .mw8 */;
+.container .full {
+  margin: 2em auto;
+  margin-left: calc(50% - 50vw + 2em);
+  margin-right: calc(50% - 50vw + 2em);
+  width: calc(100vw - 4em);
+}
+
+.container .left,
+.container .right {
+    max-width: 25em;
+    text-align: center;
+    margin: 1rem auto;
+}
+
+@media screen and (min-width: 64rem) {
+    .container .left,
+    .container .right {
+        margin: 1rem 2rem;
+    }
+
+    .container .left {
+        float: left;
+        margin-left: -10rem;
+    }
+
+    .container .right {
+        float: right;
+        margin-right: -10rem;
+    }
 }
 
 article img#banner {
@@ -71,53 +90,20 @@ article img#banner {
   object-fit: cover;
 }
 
+article li,
+article p {
+  font-size: 1.1em;
+}
+
 article ul,
 article ol {
   padding-left: 3em;
 }
 
-article .highlight,
-article p code,
-article pre {
-  background-color: #f8f8f8 !important;
-}
-
-article .highlight {
-  padding: 2em;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-}
-
-article p code {
-  font-size: .8em;
-  padding: .2em .5em;
-}
-
-article .video-player,
-article figure.medium {
-  max-width: 56rem;
-  margin: 2em auto;
-  text-align: center;
-}
-
-article figure img {
-  width: 100%;
-}
-
-article figure figcaption {
+article figure figcaption p {
   text-align: center;
   font-size: .8em;
   color: rgba(0, 0, 0, 0.6);
-}
-
-article .video-player.full,
-article figure.full {
-  max-width: 100%;
-  margin: 2em auto;
-}
-
-article figure.small {
-  width: 25em;
 }
 
 table {
@@ -187,6 +173,12 @@ hr {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   margin: 1.2em auto;
+}
+
+.highlight pre {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
 }
 
 #header nav ul {
