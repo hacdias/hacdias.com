@@ -22,9 +22,8 @@ h1 {
   color: white;
 }
 
-h1 + p {
+main > p {
   color: white;
-  font-family: fantasy;
 }
 
 canvas {
