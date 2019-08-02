@@ -32,6 +32,13 @@ jobs:
             echo "Website added to IPFS: https://ipfs.io/ipfs/$hash"
 
             if [ "$CIRCLE_BRANCH" == "master" ] ; then
+              curl -X POST \
+                -H "Content-Type: application/json" \
+                -H "pinata_api_key: $PINATA_API" \
+                -H "pinata_secret_api_key: $PINATA_SECRET" \
+                -d "{\"hashToPin\":\"$hash\"}" \
+                https://api.pinata.cloud/pinning/addHashToPinQueue
+
               npx dnslink-cloudflare -d $DOMAIN -r _dnslink -l /ipfs/$hash
             fi
 workflows:
