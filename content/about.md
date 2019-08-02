@@ -10,7 +10,7 @@ menu:
     weight: 1
 ---
 
-Hi there 👋! I'm Henrique and I'm a BSc student 🎓 in Information Systems and Computer Engineering
+Hi there 👋! I'm Henrique and I'm a B.Sc. student 🎓 in Information Systems and Computer Engineering
 at [Instituto Superior Técnico][1], in Lisbon. Currently working at [Protocol Labs][4] on
 decentralizing the web.
 
