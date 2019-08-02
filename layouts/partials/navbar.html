@@ -1,6 +1,6 @@
 {{ $isGalaxy := (eq .Section "galaxy") }}
 
-<header class='container mv3' id='header'>
+<div class='container mv3' id='header'>
   <div class='flex-ns items-center'>
     <a class='{{ if $isGalaxy }}white hover-near-white{{ end }} no-shadow db flex b items-center justify-center justify-left-ns' href='{{ relURL .Site.BaseURL }}'>
       <div class='f2 mr2'>
@@ -35,4 +35,4 @@
       {{end}}
     </ul>
   </nav>
-</header>
+</div>
