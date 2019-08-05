@@ -184,26 +184,3 @@ hr {
 #header nav ul {
   box-shadow: 3px 3px 0 0px #357EDD;
 }
-
-#shooting-star {
-  left: -3em;
-  bottom: -3em;
-  animation-delay: 10s;
-  animation: fall ease-in-out 15s;
-  z-index: 1;
-  animation-fill-mode: forwards;
-}
-
-@keyframes fall {
-  0% {
-    left: -3em;
-    top: -3em;
-    opacity: 0;
-  }
-
-  100% {
-    left: calc(100% - 2em);
-    top: calc(100% - 2em);
-    opacity: 0.3;
-  }
-}
