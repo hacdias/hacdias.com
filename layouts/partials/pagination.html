@@ -4,7 +4,7 @@
     <li>
       <a class="db flex-l no-shadow ba b--lightest-blue grow navy mt4 br2 bg-washed-blue {{if and $img (not (modBool $i 2))}}flex-row-reverse{{end}}" href='{{ .RelPermalink }}'>
         {{ if $img }}
-          <img class='dn db-l h5 br2 {{ if not (modBool $i 2) }}br--right{{ else }}br--left{{ end }}' src='{{ ($img.Fill "400x400 q80 Center").RelPermalink }}'>
+          <img loading="lazy" class='dn db-l h5 br2 {{ if not (modBool $i 2) }}br--right{{ else }}br--left{{ end }}' src='{{ ($img.Fill "400x400 q80 Center").RelPermalink }}'>
         {{ end }}
 
         <div class='pa3'>
