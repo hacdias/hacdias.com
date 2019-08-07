@@ -28,8 +28,6 @@ jobs:
           command: |
             if [ "$CIRCLE_BRANCH" == "master" ] ; then
               npx ipfs-deploy /tmp/workspace/$BUILD_DIR -C -O -u ipfs-cluster -p pinata -d cloudflare
-            else
-              npx ipfs-deploy /tmp/workspace/$BUILD_DIR -C -O -u ipfs-cluster -p pinata
             fi
 workflows:
   version: 2
