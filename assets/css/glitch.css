@@ -201,3 +201,11 @@
   clip: rect(0, 900px, 0, 0);
   animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
+
+
+@media (prefers-color-scheme: dark) {
+  .glitch:after,
+  .glitch:before {
+    background:  #111111
+  }
+}

@@ -12,8 +12,6 @@ tags:
     - startup
 ---
 
-_The experience and opinion of a 17 years old boy working remotely as a developer for a startup._
-
 On 18th June 2015 I went to Lisbon to attend the [Landing
 Festival](https://festival.landing.jobs/) — a tech jobs event organised by
 [Landing.jobs](https://landing.jobs/). I was 15. And now you ask: what was a

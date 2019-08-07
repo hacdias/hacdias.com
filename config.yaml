@@ -1,5 +1,4 @@
 baseurl: 'https://hacdias.com/'
-disqusShortname: hacdias
 languageCode: en
 paginate: 10
 pluralizelisttitles: false

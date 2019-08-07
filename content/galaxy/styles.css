@@ -45,3 +45,10 @@ h3 {
   margin: 1em 0;
   display: block;
 }
+
+@media (prefers-color-scheme: dark) {
+  h3 {
+    color: white;
+    text-shadow: #357EDD 1px 1px;
+  }
+}

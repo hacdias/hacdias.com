@@ -1,6 +1,7 @@
 <footer>
-  <div style="clear:both"></div>
-  <div>
-    <div>{{ template "_internal/disqus.html" . }}</div>
-  </div>
+  {{ if eq .Type "post" -}}
+  <p class='f6'>
+    <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "January 2, 2006"}}</time>
+  </p>
+  {{- end }}
 </footer>

@@ -1,5 +1,5 @@
 ---
-title:        Blog
+title:        Writing
 emoji:        📰
 description:  >
   Sometimes I decide I need to write a bit. Know a bit more about me,

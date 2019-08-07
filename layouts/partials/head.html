@@ -37,8 +37,6 @@
 {{ end }}
 
 {{- if not .Params.raw -}}
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet">
   <!-- Styles -->
   {{- $tachyons := resources.Get "css/tachyons.min.css" }}
   {{- $glitch := resources.Get "css/glitch.css" }}
