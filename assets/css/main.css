@@ -51,7 +51,7 @@ figure img {
 
 .container {
   width: calc(100% - 4rem);
-  max-width: 40rem;
+  max-width: 38rem;
   margin-right: auto;
   margin-left: auto;
 }
