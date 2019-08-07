@@ -12,7 +12,6 @@ pygmentsCodeFences: true
 pygmentsStyle: vim
 
 social:
-  facebook: hacdias
   twitter: hacdias
 
 params:
