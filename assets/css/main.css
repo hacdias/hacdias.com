@@ -216,5 +216,9 @@ hr {
   .black-50 {
     color: rgba(255, 255, 255, 0.50)
   }
+
+  article figure figcaption p {
+    color: rgba(255, 255, 255, 0.6);
+  }
 }
 
