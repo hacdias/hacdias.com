@@ -10,7 +10,6 @@ relativeURLs: true
 enableRobotsTXT: true
 pygmentsCodeFences: true
 pygmentsStyle: vim
-googleAnalytics: 59697241-1
 
 social:
   facebook: hacdias
