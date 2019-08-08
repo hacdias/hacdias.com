@@ -4,12 +4,11 @@ paginate: 10
 pluralizelisttitles: false
 removePathAccents: true
 title: Henrique Dias (@hacdias)
-pygmentsStyle: github
+pygmentsStyle: native
 summarylength: 30
 relativeURLs: true
 enableRobotsTXT: true
 pygmentsCodeFences: true
-pygmentsStyle: vim
 
 social:
   twitter: hacdias

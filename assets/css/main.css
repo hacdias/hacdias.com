@@ -133,23 +133,9 @@ table img {
 }
 
 blockquote {
-  background: #f9f9f9;
-  border-left: 0.625em solid #ccc;
-  margin: 1.5em auto;
-  padding: 1em;
-}
-
-blockquote p {
-  color: rgba(0, 0, 0, 0.7);
-  display: inline;
-}
-
-blockquote:after {
-  color: #ccc;
-  display: block;
-  content: "</blockquote>";
-  margin-top: 0.5em;
-  font-size: .8em;
+  padding: 0 2em 0;
+  margin: 1em 0;
+  font-style: italic;
 }
 
 .video-player div {
