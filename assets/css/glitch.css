@@ -205,7 +205,7 @@
 @media (prefers-color-scheme: dark) {
   .glitch:after,
   .glitch:before {
-    background:  #111111
+    background: #111111;
   }
 }
 

@@ -2,7 +2,7 @@
 
 <div class='container mv3' id='header'>
   <div class='flex-ns items-center'>
-    <a class='{{ if $isGalaxy }}white hover-near-white{{ end }} no-shadow db flex b items-center justify-center justify-left-ns' href='{{ relURL .Site.BaseURL }}'>
+    <a class='{{ if $isGalaxy }}white hover-near-white{{ end }} no-link db flex b items-center justify-center justify-left-ns' href='{{ relURL .Site.BaseURL }}'>
       <div class='f2 mr2'>
         🧙‍♂️
       </div>
@@ -16,7 +16,7 @@
       {{ $currentPage := . }}
       {{ range .Site.Menus.social -}}
         <li class='dib mr1'>
-          <a target='_blank' title='{{ .Name }}' href='{{ .URL }}' class='no-shadow'>{{ .Pre }}</a>
+          <a target='_blank' title='{{ .Name }}' href='{{ .URL }}' class='no-link'>{{ .Pre }}</a>
         </li>
       {{end}}
     </ul>
@@ -27,7 +27,7 @@
       {{ $currentPage := . }}
       {{ range .Site.Menus.main -}}
         <li class='flex-grow-1'>
-          <a href='{{ .URL }}' class='br2 no-shadow pa2 tc db w-100 bg-animate {{ if $isGalaxy }}hover-bg-black-10{{ else }}hover-bg-black-20{{ end }}'>
+          <a href='{{ .URL }}' class='br2 no-link pa2 tc db w-100 bg-animate {{ if $isGalaxy }}hover-bg-black-10{{ else }}hover-bg-black-20{{ end }}'>
             <span>{{ with .Page }}{{ .Params.emoji }}{{ else }}{{ .Pre }}{{ end }}</span>
             <span>{{ .Name }}</span>
           </a>

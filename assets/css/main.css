@@ -1,3 +1,12 @@
+:root {
+  --light-blue: #96CCFF;
+  --blue: #357EDD;
+  --dark-blue: #00449E;
+  --dark-rose: #E91E63;
+  --white-50: rgba(255, 255, 255, 0.50);
+  --white-05: rgba(255, 255, 255, 0.05);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -14,22 +23,27 @@ img {
 }
 
 a {
-  color: inherit;
-  box-shadow: inset 0 -1px 0 #03A9F4;
+  color: var(--blue);
   text-decoration: none;
 }
 
-.no-shadow {
-  box-shadow: none;
+a:visited {
+  color: var(--dark-blue);
 }
 
-::selection {
-  background: #E91E63;
-  color: #fff;
+.no-link,
+.no-link:active,
+.no-link:visited {
+  color: inherit;
 }
 
 ::-moz-selection {
-  background: #E91E63;
+  background: var(--dark-rose);
+  color: #fff;
+}
+
+::selection {
+  background: var(--dark-rose);
   color: #fff;
 }
 
@@ -65,26 +79,26 @@ figure img {
 
 .container .left,
 .container .right {
-    max-width: 25em;
-    text-align: center;
-    margin: 1rem auto;
+  max-width: 25em;
+  text-align: center;
+  margin: 1rem auto;
 }
 
 @media screen and (min-width: 64rem) {
-    .container .left,
+  .container .left,
     .container .right {
-        margin: 1rem 2rem;
-    }
+    margin: 1rem 2rem;
+  }
 
-    .container .left {
-        float: left;
-        margin-left: -10rem;
-    }
+  .container .left {
+    float: left;
+    margin-left: -10rem;
+  }
 
-    .container .right {
-        float: right;
-        margin-right: -10rem;
-    }
+  .container .right {
+    float: right;
+    margin-right: -10rem;
+  }
 }
 
 article img#banner {
@@ -165,21 +179,29 @@ hr {
 }
 
 #header nav ul {
-  box-shadow: 3px 3px 0 0px #357EDD;
+  box-shadow: 3px 3px 0 0px var(--blue);
 }
 
 @media (prefers-color-scheme: dark) {
   body {
-    background:  #111111
+    background: #111111;
+  }
+
+  a {
+    color: var(--light-blue);
+  }
+
+  a:visited {
+    color: var(--blue);
   }
 
   .navy,
   .dark-gray {
-    color: #eee
+    color: #eee;
   }
 
   .bg-washed-blue {
-    background: black
+    background: black;
   }
 
   .b--light-blue,
@@ -188,7 +210,7 @@ hr {
   }
 
   .bg-lightest-blue {
-    background: black
+    background: black;
   }
 
   .gray {
@@ -196,15 +218,15 @@ hr {
   }
 
   .bg-black-05 {
-    background-color: rgba(255, 255, 255, 0.05)
+    background-color: var(--white-05);
   }
-  
+
   .black-50 {
-    color: rgba(255, 255, 255, 0.50)
+    color: var(--white-50);
   }
 
   article figure figcaption p {
-    color: rgba(255, 255, 255, 0.6);
+    color: var(--white-50);
   }
 
   img:not([src*=".svg"]) {

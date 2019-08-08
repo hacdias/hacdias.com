@@ -2,7 +2,7 @@
   {{ range $i, $p := .Pages }}
   {{ $img := $p.Resources.GetMatch "*thumb*" }}
     <li>
-      <a class="db flex-l no-shadow ba b--lightest-blue grow mt4 br2 bg-washed-blue {{if and $img (not (modBool $i 2))}}flex-row-reverse{{end}}" href='{{ .RelPermalink }}'>
+      <a class="db flex-l no-link ba b--lightest-blue grow mt4 br2 bg-washed-blue {{if and $img (not (modBool $i 2))}}flex-row-reverse{{end}}" href='{{ .RelPermalink }}'>
         {{ if $img }}
           <img loading="lazy" class='dn db-l h5 br2 {{ if not (modBool $i 2) }}br--right{{ else }}br--left{{ end }}' src='{{ ($img.Fill "400x400 q80 Center").RelPermalink }}'>
         {{ end }}
@@ -22,10 +22,10 @@
 {{ if gt .TotalPages 1 }}
 <div class='mv4 b ttu w-100 flex justify-between'>
   {{ if .HasPrev }}
-  <a class='no-shadow pa2 ba b--light-blue grow navy br2 bg-lightest-blue mr-auto' href='{{ .Prev.URL }}'>Previous</a>
+  <a class='no-link pa2 ba b--light-blue grow navy br2 bg-lightest-blue mr-auto' href='{{ .Prev.URL }}'>Previous</a>
   {{ end }}
   {{ if .HasNext }}
-  <a class='no-shadow pa2 ba b--light-blue grow navy br2 bg-lightest-blue ml-auto' href='{{ .Next.URL }}'>Next</a>
+  <a class='no-link pa2 ba b--light-blue grow navy br2 bg-lightest-blue ml-auto' href='{{ .Next.URL }}'>Next</a>
   {{ end }}
 </div>
 {{ end }}
