@@ -8,3 +8,6 @@ menu:
   main:
     weight: 2
 ---
+
+<small>**Note**: if you decide to read my old posts, please bear in mind that those were written
+when I was in high school or before!</small>
