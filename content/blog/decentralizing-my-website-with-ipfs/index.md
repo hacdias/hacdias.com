@@ -91,7 +91,7 @@ Start by installing [IPFS Desktop][12], which installs you an IPFS daemon and le
 Happy decentralization!
 
 [0]: http://daviddias.me
-[1]: AddCompanionLink
+[1]: https://github.com/ipfs-shipyard/ipfs-companion#install
 [2]: https://gohugo.io/
 [3]: https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml
 [4]: https://github.com/ipfs-shipyard/ipfs-deploy
