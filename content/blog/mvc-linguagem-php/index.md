@@ -115,7 +115,7 @@ Crie um ficheiro com o código acima e guarde-o na pasta mencionada. Não se esq
 
 Como pode ter reparado acima, eu estou a utilizar o link `localhost/mvc`  que redirecionará para a pasta pública da aplicação, sendo que a base dos documentos do meu servidor é `C:\Web\Server\Apache24\htdocs`  e a aplicação está localizada em `D:\Development\mvc`.
 
-Como fiz isto? Criei um [*link simbólico*](http://en.wikipedia.org/wiki/Symbolic_link) de forma a que C:WebServerApache24htdocsmvc  corresponda a D:Developmentmvcpublic_html . Para criar um link simbólico no Windows basta correr o seguinte comando na linha de comandos em modo de administrador:
+Como fiz isto? Criei um [*link simbólico*](http://en.wikipedia.org/wiki/Symbolic_link) de forma a que `C:\Web\Server\Apache24\htdocs` corresponda a `D:\Development\mvc`. Para criar um link simbólico no Windows basta correr o seguinte comando na linha de comandos em modo de administrador:
 
 ```bash
 MKLINK /D <novo-link> <local-dos-ficheiros>
