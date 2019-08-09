@@ -11,6 +11,14 @@ function emojiToDataURL (emoji, size = '64') {
   return canvas.toDataURL()
 }
 
+function handleExternalLinks () {
+  for (const link of document.links) {
+    if (link.hostname !== window.location.hostname) {
+      link.target = '_blank'
+    }
+  }
+}
+
 if (favicon) {
   const emoji = favicon.getAttribute('data-emoji')
 
@@ -18,3 +26,5 @@ if (favicon) {
     favicon.href = emojiToDataURL(emoji)
   }
 }
+
+handleExternalLinks()
