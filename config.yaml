@@ -28,7 +28,7 @@ menu:
     - name: PGP Key
       weight: 3
       pre: 🔑
-      url: https://keybase.io/hacdias/pgp_keys.asc?fingerprint=4dc16358711be325fb3633cf2e80d38374cd55aa
+      url: https://keybase.io/hacdias/pgp_keys.asc
   social:
     - name: Email
       weight: 1
