@@ -1,6 +1,6 @@
 ---
 type:   project
-date:	  2019-09-14 12:10:00+00:00
+date:	  2019-09-14 09:00:00+00:00
 title:  Protocol Labs
 description: >
   Protocol Labs is a research and development institution for improving the Internet
