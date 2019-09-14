@@ -9,17 +9,15 @@ description: >
 
 {{< skills "WordPress" "Content Writing" "Online Journalism" >}}
 
-Pplware is a portuguese project that delivers the most recent news about technology
-to the Portuguese-speaking community. It's also a place where you can ask for help
-in their forum or just by sending an email.
+Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.
 
-This project is also home of some other sub-projects such as "Pplware Fórum", "Pplware
-Usados", "Comunidade Pplware@Linux" and "Pplware Kids".
+## Achievements
 
-I've mainly played a part in Pplware Kids, which is a blog directed to everyone. The
-main goal was to deliver concise information that could be understood by everyone, from
-the youngest to the eldest. I wrote everything from school work tips to "how to" tutorials
-and security tips.
+- Wrote over 400 posts about tech news, events, tips and tutorials ([Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/), [Pplware](https://pplware.sapo.pt/author/henrique_dias/)).
+- Published a 60 page [e-book](../aprenda-a-programar/) on how to program in C for beginners.
+- Moderated article comments.
+
+---
 
 [Visit the Site](http://pplware.com)
 
