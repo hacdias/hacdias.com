@@ -11,11 +11,8 @@ description: >
 
 File Browser (formerly known as File Manager) provides a file managing interface within a
 specified directory and it can be used to upload, delete, preview, rename and edit your files.
-It allows the creation of multiple users and each user can have its own directory.
-
-This software can be either used as a standalone application or as a middleware. It was also
-implemented as a Caddy, a lightweight, fast, general-purpose, cross-platform HTTP/2 web server
-with automatic HTTPS, [plugin](https://caddyserver.com/docs/http.filebrowser).
+It allows the creation of multiple users and each user can have its own directory. This software can
+be either used as a standalone application or as a middleware.
 
 [Visit the Code](https://github.com/filebrowser/filebrowser)
 
