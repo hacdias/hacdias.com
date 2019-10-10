@@ -81,7 +81,7 @@ every frame, I had to recreate the whole animation. And this happened like 5 tim
 
 Well... after creating lots of frames and moving the car forward in different speeds, I thought:
 "I'm not changing this any more times, let's make it final". I exported it to a GIF
-and shared it on [Twitter][3], where I received some positive feedback ❤️.
+and shared it on [Twitter][2], where I received some positive feedback ❤️.
 
 **tl;dr** I've really enjoyed this experience and I'm looking forward to learn a bit
 more about this world and sharing the results here. What do you think?
