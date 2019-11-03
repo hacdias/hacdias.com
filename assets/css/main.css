@@ -34,7 +34,7 @@ a:visited {
 .no-link,
 .no-link:active,
 .no-link:visited {
-  color: inherit;
+  color: inherit !important;
 }
 
 ::-moz-selection {
@@ -57,7 +57,7 @@ figure img {
 }
 
 .sans-serif {
-  font-family: -apple-system, BlinkMacSystemFont, 
+  font-family: -apple-system, BlinkMacSystemFont,
     'avenir next', avenir, helvetica,
     'helvetica neue', ubuntu, roboto, noto,
     'segoe ui', arial, sans-serif;
@@ -178,63 +178,95 @@ hr {
   overflow-x: auto;
 }
 
+.hide-light,
+#dark .hide-dark {
+  display: none;
+}
+
+#dark .hide-light {
+  display: block;
+}
+
+#header {
+  user-select: none;
+}
+
 #header nav ul {
   box-shadow: 3px 3px 0 0px var(--blue);
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #111111;
-  }
+#theme-picker {
+  top: 0;
+  right: 0;
+  background: white;
+  width: 5rem;
+  display: none;
+}
 
-  hr {
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
-  }
+#theme-picker-checkbox {
+  display: none;
+}
 
-  a {
-    color: var(--light-blue);
-  }
+#theme-picker-checkbox:checked + #theme-picker {
+  display: block;
+}
 
-  a:visited {
-    color: var(--blue);
-  }
+#dark #theme-picker {
+  background: black;
+}
 
-  .navy,
-  .dark-gray {
-    color: #eee;
-  }
+body#dark {
+  background: #111111;
+}
 
-  .bg-washed-blue {
-    background: black;
-  }
+#dark hr {
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
 
-  .b--light-blue,
-  .b--lightest-blue {
-    border-color: black;
-  }
+#dark a {
+  color: var(--light-blue);
+}
 
-  .bg-lightest-blue {
-    background: black;
-  }
+#dark a:visited {
+  color: var(--blue);
+}
 
-  .gray {
-    color: #bbb;
-  }
+#dark .navy,
+#dark.dark-gray,
+#dark .dark-gray {
+  color: #eee;
+}
 
-  .bg-black-05 {
-    background-color: var(--white-05);
-  }
+#dark .bg-washed-blue {
+  background: black;
+}
 
-  .black-50 {
-    color: var(--white-50);
-  }
+#dark .b--light-blue,
+#dark .b--lightest-blue {
+  border-color: black;
+}
 
-  article figure figcaption p {
-    color: var(--white-50);
-  }
+#dark .bg-lightest-blue {
+  background: black;
+}
 
-  img:not([src*=".svg"]) {
-    filter: grayscale(50%);
-  }
+#dark .gray {
+  color: #bbb;
+}
+
+#dark .bg-black-05 {
+  background-color: var(--white-05);
+}
+
+#dark .black-50 {
+  color: var(--white-50);
+}
+
+#dark article figure figcaption p {
+  color: var(--white-50);
+}
+
+#dark img:not([src*=".svg"]) {
+  filter: grayscale(50%);
 }
 

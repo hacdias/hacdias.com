@@ -202,11 +202,9 @@
   animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
 
-@media (prefers-color-scheme: dark) {
-  .glitch:after,
-  .glitch:before {
-    background: #111111;
-  }
+#dark .glitch:after,
+#dark .glitch:before {
+  background: #111111;
 }
 
 @media (prefers-reduced-motion: reduce) {

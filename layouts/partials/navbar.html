@@ -19,6 +19,16 @@
           <a target='_blank' title='{{ .Name }}' href='{{ .URL }}' class='no-link'>{{ .Pre }}</a>
         </li>
       {{end}}
+
+      <li class='dib relative'>
+        <label for='theme-picker-checkbox' class='pointer'>🌓</label>
+        <input type='checkbox' id='theme-picker-checkbox' />
+        <div class='absolute tr shadow-5 bg-white br2' id='theme-picker'>
+          <p class='hide-light pointer f6 ma0 pa1' onclick="javascript:toggleTheme('l');">Light  🌕</p>
+          <p class='hide-dark pointer f6 ma0 pa1' onclick="javascript:toggleTheme('d');">Dark  🌑</p>
+          <p class='pointer f6 ma0 pa1' onclick="javascript:toggleTheme();">Default  🌓</p>
+        </div>
+      </li>
     </ul>
   </div>
 

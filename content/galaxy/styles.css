@@ -46,9 +46,7 @@ h3 {
   display: block;
 }
 
-@media (prefers-color-scheme: dark) {
-  h3 {
-    color: white;
-    text-shadow: #357EDD 1px 1px;
-  }
+#dark h3 {
+  color: white;
+  text-shadow: #357EDD 1px 1px;
 }
