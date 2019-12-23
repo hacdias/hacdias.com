@@ -1,31 +1,11 @@
 <ul class="list pa0 ma0">
   {{ range $i, $p := .Pages }}
-  {{ $img := $p.Resources.GetMatch "*thumb*" }}
-    <li>
-      <a class="db flex-l no-link ba b--lightest-blue grow mt4 br2 bg-washed-blue {{if and $img (not (modBool $i 2))}}flex-row-reverse{{end}}" href='{{ .RelPermalink }}'>
-        {{ if $img }}
-          <img loading="lazy" class='dn db-l h5 br2 {{ if not (modBool $i 2) }}br--right{{ else }}br--left{{ end }}' src='{{ ($img.Fill "400x400 q80 Center").RelPermalink }}'>
-        {{ end }}
-
-        <div class='pa3'>
-          <h3 class='mt0 mb1 ttu'>{{ with $p.Params.emoji }}{{ . }}{{ end }}{{ $p.Title }}</h3>
-          <time class='f6 db gray ttu mt1 mb3' datetime='{{ $p.Date.Format "2006-01-02" }}'>
-            {{ $p.Date.Format "Jan 2, 2006" }}
-          </time>
-          <p class='lh-copy'>{{ $p.Description }}</p>
-        </div>
+  {{ $date := $p.Date.Format "2006-01-02" }}
+    <li class="mv2">
+      <a class="db flex-ns no-link" href='{{ .RelPermalink }}'>
+        <h3 class='ma0 mr-auto fw5 f5'>{{ $p.Title }}</h3>
+        <time class='ma0 db gray f5' datetime='{{ $date }}' style='font-variant-numeric: tabular-nums;'>{{ $date }}</time>
       </a>
     </li>
   {{ end }}
 </ul>
-
-{{ if gt .TotalPages 1 }}
-<div class='mv4 b ttu w-100 flex justify-between'>
-  {{ if .HasPrev }}
-  <a class='no-link pa2 ba b--light-blue grow navy br2 bg-lightest-blue mr-auto' href='{{ .Prev.URL }}'>Previous</a>
-  {{ end }}
-  {{ if .HasNext }}
-  <a class='no-link pa2 ba b--light-blue grow navy br2 bg-lightest-blue ml-auto' href='{{ .Next.URL }}'>Next</a>
-  {{ end }}
-</div>
-{{ end }}

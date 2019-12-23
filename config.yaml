@@ -1,6 +1,6 @@
 baseurl: 'https://hacdias.com/'
 languageCode: en
-paginate: 10
+paginate: 20
 pluralizelisttitles: false
 removePathAccents: true
 title: Henrique Dias (@hacdias)
