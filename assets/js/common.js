@@ -12,14 +12,6 @@ function emojiToDataURL (emoji, size = '64') {
   return canvas.toDataURL()
 }
 
-function handleExternalLinks () {
-  for (const link of document.links) {
-    if (link.hostname !== window.location.hostname) {
-      link.target = '_blank'
-    }
-  }
-}
-
 function toggleTheme (to) {
   if (to) {
     localStorage.setItem('t', to)
@@ -58,5 +50,4 @@ if (favicon) {
   }
 }
 
-handleExternalLinks()
 setupTheme()

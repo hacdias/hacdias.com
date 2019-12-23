@@ -16,7 +16,7 @@
       {{ $currentPage := . }}
       {{ range .Site.Menus.social -}}
         <li class='dib mr1'>
-          <a target='_blank' title='{{ .Name }}' href='{{ .URL }}' class='no-link'>{{ .Pre }}</a>
+          <a target='_blank' rel='noopener noreferrer' title='{{ .Name }}' href='{{ .URL }}' class='no-link'>{{ .Pre }}</a>
         </li>
       {{end}}
 
