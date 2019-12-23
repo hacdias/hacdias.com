@@ -4,7 +4,8 @@
     <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
   {{- end }}
   {{ $img := ($.Page.Resources.GetMatch (.Get "src")) }}
-  <img loading="lazy" src="{{ if $img }}{{ $img.RelPermalink }}{{ else }}{{ .Get "src" }}{{ end }}"
+  {{ $lowfi := $img.Resize "100x" }} 
+  <img class="lazyload blur-up" src="{{ $lowfi.RelPermalink }}" data-src="{{ $img.RelPermalink }}"
     {{- if or (.Get "alt") (.Get "caption") }}
     alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
     {{- end -}}
