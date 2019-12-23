@@ -32,6 +32,7 @@ a:visited {
 .no-link:active,
 .no-link:visited {
   text-decoration: none;
+  color: inherit;
 }
 
 ::-moz-selection {

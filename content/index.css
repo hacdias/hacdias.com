@@ -1,50 +1,10 @@
-html {
-  min-height: 100%;
-  background: linear-gradient(135deg, #fcdf8a 0%, #f38381 100%);
-  color: #333;
+.f0 {
+  font-size: 4em;
 }
 
-footer {
-  display: none;
-}
-
-.container.big {
-  max-width: calc(100% - 12em);
-}
-
-main {
-  margin: 0 auto;
-}
-
-main .big {
-  font-size: 5em;
-  font-weight: bold;
-}
-
-main .medium {
-  font-size: 2em;
-}
-
-main .contacts,
-main .info {
-  max-width: 700px;
-  font-size: 1.1em;
-  line-height: 1.5;
-}
-
-main .contacts {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-main .contacts li {
-  display: inline-block;
-  margin-right: 0.7em;
-}
-
-main .contacts li a {
-  box-shadow: none;
-  color: #007bb6;
-  font-style: italic;
+.latest-posts {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: inherit;
+  grid-column-gap: 2em;
 }

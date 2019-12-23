@@ -1,21 +1,38 @@
+{{ define "posts" }}
+{{ $date := .Date.Format "2006-01-02" }}
+<div class="mv2">
+  <a class="no-link" href='{{ .RelPermalink }}'>
+    <h3 class='ma0 mr-auto fw5 f4'>{{ .Title }}</h3>
+  </a>
+</div>
+{{ end }}
+
 {{ define "main" }}
 
 <main role='main' class='big container'>
-  <p class='big'>Hi! 👋 I'm Herique!</p>
+  <img class='br-100 w5 h5 center db mv4' src="./me.jpeg">
 
-  <p class='medium serif'>I study Computer Engineering.</p>
+  <p class="tc f1 fw5 ma0 mt1">Hi! 👋 It's Henrique!</p>
+  <p class='tc f3 medium ma0'>I study Computer Engineering.</p>
 
-  <p class='info serif'>
-    I study Information Systems and Computer Engineering at <a href="https://tecnico.ulisboa.pt/en/">
-    Instituto Superior Técnico</a>. Digging
-    into the decentralized web with <a href="https://ipfs.io">IPFS</a>.
-  </p>
+  <h2 class='f2 mt5'>Latest posts</h2>
 
-  <ul class='contacts serif'>
-    <li><a rel="noopener" href="mailto:hacdias@gmail.com">hacdias@gmail.com</a></li>
-    <li><a rel="noopener" target="_blank" href="https://github.com/hacdias">github</a></li>
-    <li><a rel="noopener" target="_blank" href="https://twitter.com/hacdias">twitter</a></li>
-  </ul>
+  <div class='latest-posts'>
+    <div>
+      {{ range first 5 (where .Site.RegularPages "Type" "post") }}
+        {{ block "posts" . }}{{ end }}
+      {{ end }}
+    </div>
+
+    <div>
+      {{ range first 5 (after 5 (where .Site.RegularPages "Type" "post")) }}
+        {{ block "posts" . }}{{ end }}
+      {{ end }}
+    </div>
+
+  </div>
+  Read more →
+
 </main>
 
 {{ end }}
