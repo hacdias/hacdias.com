@@ -23,6 +23,11 @@ params:
 taxonomies:
   tag: tags
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 menu:
   main:
     - name: PGP Key
