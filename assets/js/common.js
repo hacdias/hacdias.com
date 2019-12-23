@@ -19,7 +19,6 @@ function toggleTheme (to) {
     localStorage.removeItem('t')
   }
   
-  document.getElementById('theme-picker-checkbox').checked = false
   handleTheme()
 }
 

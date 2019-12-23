@@ -22,6 +22,8 @@ other social networks, just search for `hacdias` 😃.
 You can also find me on [twitter][tw] and [instagram][ig], or you can always contact me
 by [email][mail]. For the crypto-aware people out there, here you have my PGP [key][pgp].
 
+In addition, if you're interested in supporting my work, you can [buy me a coffee][bmc]!
+
 ## 📰 A bit of history
 
 In **2013**, I started working as an **Editor** on [Pplware][2], which is a Portuguese project
@@ -55,3 +57,4 @@ that I happen to enjoy.
 [ig]: https://instagram.com/hacdias
 [mail]: mailto:hacdias@gmail.com
 [pgp]: https://keybase.io/hacdias/pgp_keys.asc
+[bmc]: https://www.buymeacoffee.com/hacdias
