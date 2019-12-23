@@ -27,27 +27,3 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
-menu:
-  main:
-    - name: PGP Key
-      weight: 3
-      pre: 🔑
-      url: https://keybase.io/hacdias/pgp_keys.asc
-  social:
-    - name: Email
-      weight: 1
-      pre: 📧
-      url: mailto:hacdias@gmail.com
-    - name: GitHub
-      weight: 2
-      pre: 👨‍💻
-      url: https://github.com/hacdias
-    - name: Twitter
-      weigth: 3
-      pre: 🕊️
-      url: https://twitter.com/hacdias
-    - name: Instagram
-      weight: 4
-      pre: 📷
-      url: https://instagram.com/hacdias

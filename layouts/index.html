@@ -4,11 +4,6 @@
   <article class='container mt4 nested-copy-line-height'>
     {{ .Content }}
   </article>
-
-  <div class='container'>
-    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "!=" "") }}
-    {{ partial "pagination" $paginator }}
-  </div>
 </main>
 
 {{ end }}

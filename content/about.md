@@ -37,6 +37,8 @@ to manage a node. [Read more →][4]
 
 ## 🤔 The (un)story of my handle
 
+TODO: amke this a post of its own
+
 Most likely you've already noticed that my handle, `@hacdias`, reminds of the word 'hack'.
 Although, I can assure you they have nothing to do with each other. It was a mere coincidence
 between the first letters of my first name and middle names - 'hac' - and last name - 'dias' -
@@ -48,3 +50,32 @@ that I happen to enjoy.
 [4]: ../projects/protocol-labs/
 [5]: https://ipfs.io
 [6]: https://github.com/hacdias
+
+## Meta
+
+TODO: make this a post
+
+- Nov 2019, [A Quick Dive Into the Dweb with IPFS - BarcampLX](https://www.youtube.com/watch?v=EmxUyuCD37Q)
+
+
+
+TODO: add buy me a coffe link in the page https://www.buymeacoffee.com/hacdias
+
+TODO: add PGP key link here or actually dump it https://keybase.io/hacdias/pgp_keys.asc
+
+ - name: Email
+      weight: 1
+      pre: 📧
+      url: mailto:hacdias@gmail.com
+    - name: GitHub
+      weight: 2
+      pre: 👨‍💻
+      url: https://github.com/hacdias
+    - name: Twitter
+      weigth: 3
+      pre: 🕊️
+      url: https://twitter.com/hacdias
+    - name: Instagram
+      weight: 4
+      pre: 📷
+      url: https://instagram.com/hacdias
