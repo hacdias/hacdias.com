@@ -11,13 +11,16 @@ menu:
 ---
 
 Hi there 👋! I'm Henrique and I'm a B.Sc. student 🎓 in Information Systems and Computer Engineering
-at [Instituto Superior Técnico][1], in Lisbon. Currently working at [Protocol Labs][4] on
+at [Instituto Superior Técnico][ist], in Lisbon. Currently working at [Protocol Labs][4] on
 decentralizing the web.
 
 I believe in the transparency and openness of the web and when creating software so you
-can probably say I'm an Open Source advocate. You can check out [my GitHub profile][6]
+can probably say I'm an Open Source advocate. You can check out my [GitHub profile][gh]
 if you want to know more about what I'm doing right now. If you want to find me in any
 other social networks, just search for `hacdias` 😃.
+
+You can also find me on [twitter][tw] and [instagram][ig], or you can always contact me
+by [email][mail]. For the crypto-aware people out there, here you have my PGP [key][pgp].
 
 ## 📰 A bit of history
 
@@ -31,51 +34,24 @@ such as design and economics, to name a few. The goal was to boost the growth of
 technology panorama. [Read more →][3]
 
 In late **2017**, I was offered an Open Source Scholarship at [Protocol Labs][4], which is the
-creator of [IPFS][5] - the InterPlanetary File System, a decentralized and peer-to-peer protocol.
+creator of [IPFS][ipfs] - the InterPlanetary File System, a decentralized and peer-to-peer protocol.
 On this project, my focus relies mostly on IPFS Desktop and WebUI which are graphical interfaces
 to manage a node. [Read more →][4]
 
 ## 🤔 The (un)story of my handle
-
-TODO: amke this a post of its own
 
 Most likely you've already noticed that my handle, `@hacdias`, reminds of the word 'hack'.
 Although, I can assure you they have nothing to do with each other. It was a mere coincidence
 between the first letters of my first name and middle names - 'hac' - and last name - 'dias' -
 that I happen to enjoy.
 
-[1]: https://tecnico.ulisboa.pt/en/
 [2]: ../projects/pplware/
 [3]: ../projects/upframe/
 [4]: ../projects/protocol-labs/
-[5]: https://ipfs.io
-[6]: https://github.com/hacdias
-
-## Meta
-
-TODO: make this a post
-
-- Nov 2019, [A Quick Dive Into the Dweb with IPFS - BarcampLX](https://www.youtube.com/watch?v=EmxUyuCD37Q)
-
-
-
-TODO: add buy me a coffe link in the page https://www.buymeacoffee.com/hacdias
-
-TODO: add PGP key link here or actually dump it https://keybase.io/hacdias/pgp_keys.asc
-
- - name: Email
-      weight: 1
-      pre: 📧
-      url: mailto:hacdias@gmail.com
-    - name: GitHub
-      weight: 2
-      pre: 👨‍💻
-      url: https://github.com/hacdias
-    - name: Twitter
-      weigth: 3
-      pre: 🕊️
-      url: https://twitter.com/hacdias
-    - name: Instagram
-      weight: 4
-      pre: 📷
-      url: https://instagram.com/hacdias
+[ist]: https://tecnico.ulisboa.pt/en/
+[ipfs]: https://ipfs.io
+[tw]:  https://twitter.com/hacdias
+[gh]: https://github.com/hacdias
+[ig]: https://instagram.com/hacdias
+[mail]: mailto:hacdias@gmail.com
+[pgp]: https://keybase.io/hacdias/pgp_keys.asc
