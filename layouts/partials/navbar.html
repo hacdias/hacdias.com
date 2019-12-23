@@ -1,13 +1,11 @@
-{{ $isGalaxy := (eq .Section "galaxy") }}
-
 <div class='big container mv3 flex-ns items-center' id='header'>
-  <a class='{{ if $isGalaxy }}white hover-near-white{{ end }} no-link db flex b items-center justify-center justify-left-ns' href='{{ relURL .Site.BaseURL }}'>
+  <a class='no-link db flex b items-center justify-center justify-left-ns' href='{{ relURL .Site.BaseURL }}'>
     <div class='f2 mr2'>
       🧙‍♂️
     </div>
-    <div class='{{ if $isGalaxy }}white{{ end }}'>
+    <div>
       <p class='ma0 b glitch f4' data-text='Henrique Dias'>Henrique Dias</p>
-      <p class='ma0 b {{ if $isGalaxy }}light-gray{{ else }}gray{{ end }}'>aka <span class='glitch' data-text='@hacdias'>@hacdias</span></p>
+      <p class='ma0 b gray'>aka <span class='glitch' data-text='@hacdias'>@hacdias</span></p>
     </div>
   </a>
 

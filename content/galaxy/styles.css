@@ -1,17 +1,3 @@
-:root {
-  --galaxy: #131956;
-  --yellow: #FFEF00;
-}
-
-.glitch::before,
-.glitch::after {
-  background: var(--galaxy);
-}
-
-body {
-  background-color: var(--galaxy);
-}
-
 #header nav ul {
   box-shadow: 3px 3px 0 0 black;
 }
@@ -19,34 +5,5 @@ body {
 h1 {
   font-variant: small-caps;
   text-shadow: #cc00ff 2px 2px;
-  color: white;
-}
-
-main > div > p {
-  color: white;
-}
-
-canvas {
-  width: 100%;
-  height: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 10000;
-  pointer-events: none;
-}
-
-h3 {
-  font-style: italic;
-  color: black;
-  text-shadow: var(--yellow) 1px 1px;
-  font-size: 1.2em;
-  font-weight: bold;
-  margin: 1em 0;
-  display: block;
-}
-
-#dark h3 {
-  color: white;
-  text-shadow: #357EDD 1px 1px;
+  color: blue;
 }
