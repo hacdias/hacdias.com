@@ -84,6 +84,7 @@ figure img {
   max-width: 25em;
   text-align: center;
   margin: 1rem auto;
+  width: 100%;
 }
 
 @media screen and (min-width: 60rem) {
@@ -240,7 +241,7 @@ body#dark {
   display: grid;
   grid-template-columns: repeat(3,1fr);
   grid-gap: 30px;
-  padding-top: 5px;  
+  padding-top: 5px;
 }
 
 .blur-up {
