@@ -186,7 +186,7 @@ hr {
 }
 
 #dark .hide-light {
-  display: block;
+  display: initial;
 }
 
 #header {
