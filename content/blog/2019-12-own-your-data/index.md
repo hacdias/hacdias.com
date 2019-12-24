@@ -12,7 +12,7 @@ Data, data, data.
 
 Big data, buzz words. I have been wanting to write about data for quite a long time already, but I’ve never found a moment where that would be opportune for me. Data is one of the most important resources for companies right now even though we don’t acknowledge it most of the times.
 
-{{< figure alt="Guy asking 'What is data?'" class="invert" src="data-guy.png" >}}
+{{< figure alt="Guy asking 'What is data?'" class="invert" src="data-guy.jpg" >}}
 
 Everything we generate is data. Some is more important than others, but every single tiny bit we generate on our computers, on the web, is data. Is it ours? Does it belong to us? Can we easily collect it in a way that we can analyse it and transform it the way we want?
 
@@ -33,7 +33,7 @@ This is not just a principle, but something I think we should convey as a societ
 
 For years, we’ve been trapped into using so many platforms that make everything easy.  Despite not living in the 90s, looking at what [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) was just gives me chills. People actually created and built websites in that time! They would learn what HTML, CSS and JavaScript is and make the most creative websites… we might argue that they’re not the most conforming to today’s “design principles”, but they’re creative, they show a personality.
 
-{{< figure alt="Computer with data on the screen" class="invert" src="data-computer.png" >}}
+{{< figure alt="Computer with data on the screen" class="invert" src="data-computer.jpg" >}}
 
 Nowadays, we “all” use Facebook, Instagram, Twitter… does anyone still create websites and make them look like their personality? No! Yes, there is a much bigger learning curve on creating your own website and I’m not talking about using some template someone created that makes every website look exactly the same. I’m talking about writing your own website and making it look as you want it.
 
