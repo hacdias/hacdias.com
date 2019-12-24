@@ -1,5 +1,5 @@
 var sentences = [
-  'I study Computer Engineering.',
+  'I study Computer Science.',
   'I am an Open Source advocate.',
   'I also enjoy writing and photography.'
 ]
