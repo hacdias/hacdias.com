@@ -167,7 +167,7 @@ De seguida, esta função define a página como index caso nenhuma página est
 
 Esta função recebe a variável url que foi passada através do método GET (em breve veremos as modificações que têm que ser efetuadas no `.htaccess` para que seja passada esta variável).
 
-Aqui é utilizado o [operador ternário](/explanations/operador-ternario/) de forma a que a variável `$url` seja igual a null  caso não haja nenhum conteúdo na variável url que foi passada através do método GET.
+Aqui é utilizado o [operador ternário](../../../2014/07/operador-ternario/) de forma a que a variável `$url` seja igual a null  caso não haja nenhum conteúdo na variável url que foi passada através do método GET.
 
 Depois é removida a última barra (/) da variável com a função `rtrim`. De seguida é aplicado um filtro à array  de forma a remover todos os caracteres não permitidos aqui.
 

@@ -9,7 +9,7 @@ tags:
 - php
 ---
 
-Há pouco mais de dois dias, foi lançada uma nova versão do PHP, [a versão 5.6.0](http://php.net/archive/2014.php#id2014-08-28-1) que trouxe inúmeras novidades e incompatibilidades com as versões anteriores [(ver aqui)](http://pt2.php.net/manual/en/migration56.php).
+Há pouco mais de dois dias, foi lançada uma nova versão do PHP, [a versão 5.6.0](http://php.net/archive/2014.php#id2014-08-28-1) que trouxe inúmeras novidades e incompatibilidades com as versões anteriores [(ver aqui)](https://www.php.net/manual/pt_BR/migration56.php).
 
 Hoje vamos falar de uma das diversas grandes novidades desta esplêndida atualização, as **funções variádicas**.
 
@@ -90,7 +90,7 @@ Simples, não é? Outra grande vantagem é a **legibilidade** visto que o códi
 ## Conclusão
 
 
-Falando mais no geral e vendo a lista de [novas funcionalidades/alterações](http://pt2.php.net/manual/pt_BR/migration56.new-features.php) da nova versão do PHP, podemos verificar que a versão traz muitas melhorias.
+Falando mais no geral e vendo a lista de [novas funcionalidades/alterações](https://www.php.net/manual/pt_BR/migration56.new-features.php) da nova versão do PHP, podemos verificar que a versão traz muitas melhorias.
 
 
 > O que acham vocês, leitores e desenvolvedores, desta nova versão do PHP?

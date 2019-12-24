@@ -76,7 +76,7 @@ A única diferença entre esta função e a `printf`  é que esta **retorna**
 
 O WordPress usa estas funções em massa juntamente com o sistema de tradução tornando esta função extremamente potente.
 
-Este CMS usa o sistema [Gettext](Gettext) para traduzir o conteúdo que nos é visível. Agora não vamos entrar em detalhes sobre a ativação deste sistema (se tiverem qualquer dúvida coloquem).
+Este CMS usa o sistema Gettext para traduzir o conteúdo que nos é visível. Agora não vamos entrar em detalhes sobre a ativação deste sistema (se tiverem qualquer dúvida coloquem).
 
 O WordPress deve utilizar este sistema também pela simplicidade de leitura visto que os comandos de tradução do Gettext são um quanto "complicados" de ler.
 

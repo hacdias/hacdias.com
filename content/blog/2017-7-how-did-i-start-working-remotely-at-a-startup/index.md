@@ -40,12 +40,12 @@ After arriving home I thought it would have been better to seem stupid and know
 his name than having really been stupid and not knowing his name. So, I went to
 the Facebook Landing.festival group and searched his face among hundreds and
 hundreds of members it had. And then I found him: [Malik
-Piarali](https://www.linkedin.com/in/malikpiarali/)! I sent him a friendship
+Piarali](https://www.linkedin.com/in/malikpiara/)! I sent him a friendship
 request on Facebook and he accepted.
 
 Since then, we exchanged words sometimes on Facebook or even by phone call.
 Eventually, he started giving me hints about ideas he was getting until he told
-me about [Upframe](https://upframe.xyz/) last year. Upframe is a
+me about [Upframe](https://upframe.co/) last year. Upframe is a
 pre-acceleration programme for students and recent graduates and is incubated at
 [Startup Lisboa](http://www.startuplisboa.com/).
 

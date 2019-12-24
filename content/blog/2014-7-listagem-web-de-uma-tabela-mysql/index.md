@@ -110,7 +110,7 @@ if (empty($url[0])) {
 $n = $url[0];
 ```
 
-A explicação do código acima está feita nos comentários. Podes saber mais acerca do **operador ternário **[aqui](/explanations/operador-ternario/). Agora que já podemos saber o número da página e temos uma ligação à base de dados pronta, vamos avançar para a página e a listagem em si.
+A explicação do código acima está feita nos comentários. Podes saber mais acerca do **operador ternário** [aqui](../../../2014/07/operador-ternario/). Agora que já podemos saber o número da página e temos uma ligação à base de dados pronta, vamos avançar para a página e a listagem em si.
 
 
 ## 3. Um pouco de HTML... e PHP

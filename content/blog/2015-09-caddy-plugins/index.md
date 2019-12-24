@@ -20,6 +20,6 @@ Despite having contributed few times to Caddy itself, I've managed to create som
 
 ## Deprecated
 
-+ **http.filebrowser** is an implementation of my [File Browser project](../filebrowser/) as a plugin for Caddy.
++ **http.filebrowser** is an implementation of my [File Browser project](../../../2016/06/filebrowser/) as a plugin for Caddy.
 + **http.hugo** is a web interface for [Hugo](https://gohugo.io) static website generator.
 + **http.jekyll** is a web interface for [Jekyll](https://jekyllrb.com/) static website generator.
