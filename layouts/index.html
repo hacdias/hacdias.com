@@ -1,9 +1,7 @@
 {{ define "posts" }}
 {{ $date := .Date.Format "2006-01-02" }}
 <div class="mv2">
-  <a class="no-link" href='{{ .RelPermalink }}'>
-    <h3 class='ma0 mr-auto fw5 f4'>{{ .Title }}</h3>
-  </a>
+  <a class="no-link ma0 mr-auto fw5 f4" href='{{ .RelPermalink }}'>{{ .Title }}</a>
 </div>
 {{ end }}
 
@@ -14,7 +12,6 @@
 
   <p class="tc f1 fw5 ma0 mt1">Hi! 👋 It's Henrique!</p>
   <p class='tc f3 medium ma0'>I study Computer Engineering.</p>
-
   <h2 class='f2 mt5'>Latest posts</h2>
 
   <div class='latest-posts'>
@@ -29,10 +26,9 @@
         {{ block "posts" . }}{{ end }}
       {{ end }}
     </div>
-
   </div>
-  Read more →
 
+  <a href="./blog">Read more →</a>
 </main>
 
 {{ end }}
