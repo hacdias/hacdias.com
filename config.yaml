@@ -23,6 +23,9 @@ params:
 taxonomies:
   tag: tags
 
+permalinks:
+  blog: /blog/:year/:month/:slug/
+
 markup:
   goldmark:
     renderer:
