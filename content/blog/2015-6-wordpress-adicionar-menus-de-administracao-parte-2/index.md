@@ -10,9 +10,9 @@ tags:
 - php
 ---
 
-O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](../remover-hash-dos-links-continuar-a-ler/).
+O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](../../../2014/07/remover-hash-dos-links-continuar-a-ler/).
 
-Hoje vamos dar continuação ao tutorial sobre como [adicionar menus de administração](../wordpress-adicionar-menus-de-administracao/) a temas e plugins do WordPress.
+Hoje vamos dar continuação ao tutorial sobre como [adicionar menus de administração](../../../2014/08/wordpress-adicionar-menus-de-administracao/) a temas e plugins do WordPress.
 
 Na primeira parte, criámos duas funções e adicionámos uma opção ao menu de administração do WordPress sendo que ficámos com o seguinte código:
 
