@@ -1,24 +1,20 @@
-<div class='big container mv3 flex-ns items-center' id='header'>
+<div class='big container mv3 flex-l items-center' id='header'>
   <a class='no-link db flex b items-center justify-center justify-left-ns' href='{{ relURL .Site.BaseURL }}'>
-    <div class='f2 mr2'>
-      🧙‍♂️
-    </div>
-    <div>
-      <p class='ma0 b glitch f4' data-text='Henrique Dias'>Henrique Dias</p>
-      <p class='ma0 b gray'>aka <span class='glitch' data-text='@hacdias'>@hacdias</span></p>
-    </div>
-  </a>
+    <p class='ma0 b glitch f4' data-text='Henrique Dias'>Henrique Dias</p>
+  </a> 
 
-  <ul class='ml-auto-ns list b bold br2 justify-around flex-ns pa0'>
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.main -}}
-      <li class='flex-grow-1 ml2'>
-        {{ $isHere := hasPrefix $currentPage.RelPermalink .URL }}
-        <a href='{{ .URL }}' class='br2 no-link pa2 tc db w-100 bg-animate {{ if $isHere }}bg-yellow{{ else }}hover-bg-black-10{{ end }}'>
-          <span>{{ with .Page }}{{ .Params.emoji }}{{ else }}{{ .Pre }}{{ end }}</span>
-          <span>{{ .Name }}</span>
-        </a>
-      </li>
-    {{end}}
-  </ul>
+  <nav class='ml-auto-ns'>
+    <ul class='list b flex-ns pa0 ma0 mv3'>
+      {{ $root := . }}
+      {{ $menu := .Site.Menus.main }}
+      {{ range .Site.Menus.main -}}
+        <li class='flex-grow-1 ml2'>
+          <a href='{{ .URL }}' class='br2 no-link pa2 tc db w-100 bg-animate {{ if $root.IsMenuCurrent "main" . }}bg-yellow{{ else }}hover-bg-black-10{{ end }}'>
+            <span>{{ with .Page }}{{ .Params.emoji }}{{ else }}{{ .Pre }}{{ end }}</span>
+            <span>{{ .Name }}</span>
+          </a>
+        </li>
+      {{end}}
+    </ul>
+  </nav>
 </div>

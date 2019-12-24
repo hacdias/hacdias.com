@@ -86,7 +86,7 @@ figure img {
   margin: 1rem auto;
 }
 
-@media screen and (min-width: 64rem) {
+@media screen and (min-width: 60rem) {
   .container .left,
   .container .right {
     margin: 1rem 2rem;
@@ -193,25 +193,6 @@ hr {
   user-select: none;
 }
 
-#theme-picker {
-  top: 0;
-  right: 0;
-  background: white;
-  width: 5rem;
-  display: none;
-}
-
-#theme-picker-checkbox {
-  display: none;
-}
-
-#theme-picker-checkbox:checked + #theme-picker {
-  display: block;
-}
-
-#dark #theme-picker {
-  background: black;
-}
 
 body#dark {
   background: #111111;
