@@ -233,7 +233,7 @@ body#dark {
 }
 
 #dark img:not([src*=".svg"]) {
-  filter: grayscale(50%);
+  filter: grayscale(25%);
 }
 
 .projects {
