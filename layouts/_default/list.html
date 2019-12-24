@@ -11,8 +11,9 @@
 		<div class="projects">
 			{{ range $i, $p := .Pages }}
 			{{ $img := $p.Resources.GetMatch "*thumb*" }}
+			{{ $lowfi := $img.Resize "100x" }}
 			<a href='{{ .RelPermalink }}' class='no-link'>
-				<img class='mb2' loading="lazy" src='{{ ($img.Fill "400x400 q80 Center").RelPermalink }}'>
+				<img class="mb2 w-100 lazyload blur-up" src="{{ $lowfi.RelPermalink }}" data-src='{{ $img.RelPermalink }}'>
 				<h2 class='f6 ma0'>{{ .Title }}</h2>
 			</a>
 			{{ end }}
@@ -28,7 +29,7 @@
 					</a>
 				</li>
 			{{ end }}
-		</ul>	
+		</ul>
 	{{ end }}
 </main>
 
