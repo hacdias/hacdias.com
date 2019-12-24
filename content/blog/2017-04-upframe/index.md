@@ -12,7 +12,7 @@ description: >
 Upframe is a movement built by students, professors, companies, incubators and startup founders worldwide with the mission to promote the development of an entrepreneurial mindset in students.
 
 I've worked as an **Head of Technology** and my experience has taught me some things, which I
-describe in a [blog post](../../blog/2017/07/how-did-i-start-working-remotely-at-a-startup/), such as: how to
+describe in a [blog post](../../2017/07/how-did-i-start-working-remotely-at-a-startup/), such as: how to
 work in a team with a designer, how to develop myself, how to hear the opinion of other people, etc.
 
 ## Achievements

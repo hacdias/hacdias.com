@@ -1,7 +1,8 @@
 ---
+slug:   pplware
 type:   project
-date:	  2013-06-11 12:10:00+00:00
-title:  "Pplware"
+date:	  2016-09-11 12:10:00+00:00
+title:  "Working on Pplware"
 description: >
   Pplware is a portuguese project that delivers the most recent
   news about technology to the Portuguese-speaking community.
@@ -10,6 +11,8 @@ description: >
 {{< skills "WordPress" "Content Writing" "Online Journalism" >}}
 
 Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.
+
+I started writing at Pplware on June 2013.
 
 ## Achievements
 

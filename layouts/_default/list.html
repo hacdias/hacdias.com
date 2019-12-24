@@ -7,32 +7,19 @@
 		{{ .Content }}
 	</div>
 
-	{{ if eq .Section "projects" }}
-		<div class="projects">
-			{{ range $i, $p := .Pages }}
-			{{ $img := $p.Resources.GetMatch "*thumb*" }}
-			{{ $lowfi := $img.Resize "100x" }}
-			<a href='{{ .RelPermalink }}' class='no-link'>
-				<img class="mb2 w-100 lazyload blur-up" src="{{ $lowfi.RelPermalink }}" data-src='{{ $img.RelPermalink }}'>
-				<h2 class='f6 ma0'>{{ .Title }}</h2>
-			</a>
-			{{ end }}
-		</div>
-	{{ else }}
-		<ul class="list pa0 ma0">
-			{{ range $i, $p := .Pages }}
-			{{ $date := $p.Date.Format "2006-01-02" }}
-				<li class="mv2">
-					<a class="db flex no-link" href='{{ .RelPermalink }}'>
-						<h3 class='ma0 mr-auto fw5 f5 truncate'>{{ $p.Title }}</h3>
-						{{ if eq .Section "blog" }}
-						<time class='ma0 ml1 db gray f5 nowrap' datetime='{{ $date }}' style='font-variant-numeric: tabular-nums;'>{{ $date }}</time>
-						{{ end }}
-					</a>
-				</li>
-			{{ end }}
-		</ul>
-	{{ end }}
+	<ul class="list pa0 ma0">
+		{{ range $i, $p := .Pages }}
+		{{ $date := $p.Date.Format "2006-01-02" }}
+			<li class="mv2">
+				<a class="db flex no-link" href='{{ .RelPermalink }}'>
+					<h3 class='ma0 mr-auto fw5 f5 truncate'>{{ $p.Title }}</h3>
+					{{ if eq .Section "blog" }}
+					<time class='ma0 ml1 db gray f5 nowrap' datetime='{{ $date }}' style='font-variant-numeric: tabular-nums;'>{{ $date }}</time>
+					{{ end }}
+				</a>
+			</li>
+		{{ end }}
+	</ul>
 </main>
 
 {{ end }}

@@ -1,4 +1,5 @@
 ---
+slug:   filebrowser
 type:   project
 date:	  2016-06-10 12:10:00+00:00
 title:  "File Browser"

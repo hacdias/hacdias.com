@@ -1,0 +1,7 @@
+{{ $url := urls.Parse ( (.Get "url") | safeURL )}}
+<a class='no-link' href="{{ .Get "url" }}" {{ if $url.IsAbs }}rel='noopener noreferrer' target='_blank'{{ end }}>
+  {{ $img := .Page.Resources.GetMatch (.Get "img") }}
+  {{ $lowfi := $img.Resize "100x" }}
+  <img class="mb2 w-100 lazyload blur-up" src="{{ $lowfi.RelPermalink }}" data-src='{{ $img.RelPermalink }}'>
+  <p class='ma0'><span class='fw6'>{{ .Get "title" }}</span> — {{ .Get "desc" }}</p>
+</a>

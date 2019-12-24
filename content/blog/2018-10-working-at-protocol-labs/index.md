@@ -1,7 +1,7 @@
 ---
 slug: working-at-protocol-labs
 type:         post
-title:        Working at Protocol Labs
+title:        First year at Protocol Labs
 description:  >
   I joined Protocol Labs in November 2017 and it is being an incredible experience
   so far.

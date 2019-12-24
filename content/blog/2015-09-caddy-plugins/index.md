@@ -1,6 +1,7 @@
 ---
+slug:       caddy-plugins
 type:       project
-date:	    2015-09-12 12:10:00+00:00
+date:	      2015-09-12 12:10:00+00:00
 title:      "Caddy Plugins"
 description: >
   Caddy is a lightweight, fast, general-purpose, cross-platform HTTP/2 web server

@@ -1,7 +1,8 @@
 ---
+slug:   protocol-labs
 type:   project
 date:	  2019-09-14 09:00:00+00:00
-title:  Protocol Labs
+title:  Almost two years at Protocol Labs
 description: >
   Protocol Labs is a research and development institution for improving the Internet
   technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.
@@ -22,4 +23,4 @@ In late **2017**, I was offered an Open Source Scholarship at Protocol Labs with
 [1]: https://awesome.ipfs.io
 [2]: https://github.com/ipfs-shipyard/ipfs-desktop
 [3]: https://github.com/ipfs-shipyard/ipfs-webui
-[4]: ../../blog/2018/10/working-at-protocol-labs/
+[4]: ../../2018/10/working-at-protocol-labs/
