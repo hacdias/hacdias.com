@@ -1,7 +1,7 @@
 ---
 type:         page
 title:        Henrique Dias (@hacdias)
-emoji:        🧑
+emoji:        🧙‍♂️
 description:  >
   Hi there 👋! Currently, I am studying Information Systems and Computer Engineering
   at Técnico in Lisbon.
@@ -11,12 +11,12 @@ menu:
     weight: 1
 ---
 
-{{< figure class="left dn db-l" src="me.jpg" >}}
+{{< figure class="left dn db-l" alt="Me!" src="me.jpg" >}}
 
 <p class='f1-l f2 fw5 ma0'>Hi there! 👋</p>
 <p class='f2-l f3 fw5 ma0'>I'm Henrique!</p>
 
-{{< figure class="dn-l" src="me.jpg" >}}
+{{< figure class="dn-l" alt="Me!" src="me.jpg" >}}
 
 I'm a B.Sc. student 🎓 in Information Systems and Computer Engineering
 at [Instituto Superior Técnico][ist], in Lisbon. Currently working at [Protocol Labs][4] on
