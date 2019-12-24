@@ -51,3 +51,5 @@ There are just the two first ideas and steps for owning my own data. Maybe I’l
 ---
 
 **P.S.:** With all of this being said, I was looking at my Medium’s account and I found out old drafts that I think they were actually published in the past… I’m thinking about just moving them here and deleting everything from Medium.
+
+Oh, and by the way, Merry Christmas!
