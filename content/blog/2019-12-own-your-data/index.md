@@ -33,7 +33,7 @@ This is not just a principle, but something I think we should convey as a societ
 
 For years, we’ve been trapped into using so many platforms that make everything easy.  Despite not living in the 90s, looking at what [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) was just gives me chills. People actually created and built websites in that time! They would learn what HTML, CSS and JavaScript is and make the most creative websites… we might argue that they’re not the most conforming to today’s “design principles”, but they’re creative, they show a personality.
 
-{{< figure alt="Computer with data on the screen" class="invert" src="data-computer.jpg" >}}
+{{< figure alt="Computer with data on the screen" class="invert" src="data-computer-social.jpg" >}}
 
 Nowadays, we “all” use Facebook, Instagram, Twitter… does anyone still create websites and make them look like their personality? No! Yes, there is a much bigger learning curve on creating your own website and I’m not talking about using some template someone created that makes every website look exactly the same. I’m talking about writing your own website and making it look as you want it.
 
