@@ -5,7 +5,6 @@ jobs:
       - image: cibuilds/hugo:0.62
     working_directory: ~/hugo
     steps:
-      - run: apk update && apk add git
       - checkout
       - run: hugo --gc --minify
       - persist_to_workspace:
