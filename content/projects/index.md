@@ -10,6 +10,9 @@ menu:
     weight: 4
 ---
 
+These are some of the projects I am working on or have worked on in the past. If you're curious about
+everything else I have done, please check my [GitHub](https://github.com/hacdias).
+
 <div class="projects">
   {{< project title="Testground" desc="Testing decentralized systems." img="testground.jpg" url="https://github.com/ipfs/testground" >}}
   {{< project title="IPFS Desktop" desc="IPFS official desktop client." img="ipfs-desktop.jpg" url="https://github.com/ipfs-shipyard/ipfs-desktop" >}}
