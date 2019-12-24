@@ -1,12 +1,13 @@
-{
-  "date": "2015-03-31T18:55:49",
-  "description": "Node.js is one of the trends in the programming world. Let's learn how to create node.js command-line applications.",
-  "tags": [
-    "javascript"
-  ],
-  "title": "How to create a Node.js command-line application",
-  "type": "post"
-}
+---
+date: 2015-03-31T18:55:49
+description: >-
+  Node.js is one of the trends in the programming world. Let's learn how to
+  create node.js command-line applications.
+tags:
+  - javascript
+title: How to create a Node.js command-line application
+type: post
+---
 
 Nowadays, **[node.js](https://nodejs.org/)** is one of the technologies which is always talked about when the subject is related with real-time applications or even [CLI ](http://en.wikipedia.org/wiki/Command-line_interface)(Command-line interface) apps.
 

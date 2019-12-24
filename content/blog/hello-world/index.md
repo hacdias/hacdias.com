@@ -1,12 +1,13 @@
-{
-  "date": "2016-03-05T10:25:00",
-  "description": "This is the first newsletter issue I'm writing. Today, I leave you with some posts I recommend you, an inspiring phrase and the reasons made me start this!",
-  "tags": [
-    "newsletter"
-  ],
-  "title": "Hello, World!",
-  "type": "post"
-}
+---
+date: 2016-03-05T10:25:00
+description: >-
+  This is the first newsletter issue I'm writing. Today, I leave you with some
+  posts I recommend you, an inspiring phrase and the reasons made me start this!
+tags:
+  - newsletter
+title: 'Hello, World!'
+type: post
+---
 
 Hello, world!
 
