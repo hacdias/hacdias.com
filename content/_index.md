@@ -24,11 +24,11 @@ decentralizing the web.
 
 I believe in the transparency and openness of the web and when creating software so you
 can probably say I'm an Open Source advocate. You can check out my [GitHub profile][gh]
-if you want to know more about what I'm doing right now. If you want to find me in any
-other social networks, just search for `hacdias` 😃.
+if you want to know more about what I'm doing right now.
 
 You can also find me on [twitter][tw] and [instagram][ig], or you can always contact me
 by [email][mail]. For the crypto-aware people out there, here you have my PGP [key][pgp].
+For other social networks, try searching for `hacdias` 😃.
 
 In addition, if you're interested in supporting my work, you can [buy me a coffee][bmc]!
 
