@@ -179,12 +179,12 @@ In this case, we wrote Hello World!\n which means that what is going to be print
 
 The backslash (\) is used to insert special characters.
 
-| Símbolo | Significado |
+| Symbol | Meaning |
 | --------|-------------|
-| \%      | Por cento   |
+| \%      | Percentage   |
 | \t      | Tab         |
-| \r      | Carriage Return (coloca o cursor no início da linha) |
-| \a e \7 | Alguns sons |
+| \r      | Carriage Return |
+| \a e \7 | Some sounds |
 
 ## Directive return
 
