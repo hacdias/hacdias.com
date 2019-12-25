@@ -181,7 +181,7 @@ The backslash (\) is used to insert special characters.
 
 | Symbol | Meaning |
 | --------|-------------|
-| \%      | Percentage   |
+| \\%      | Percentage   |
 | \t      | Tab         |
 | \r      | Carriage Return |
 | \a e \7 | Some sounds |
