@@ -177,7 +177,7 @@ The first parameter is a string, it means, is a sequence of characters. This seq
 
 In this case, we wrote Hello World!\n which means that what is going to be printed is the message Hello World! and a new line \n.
 
-The backslash (\) is used to insert special characters.
+The backslash (\\) is used to insert special characters.
 
 | Symbol | Meaning |
 | --------|-------------|
