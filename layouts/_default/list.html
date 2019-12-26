@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $kind := .Kind }}
 
 <main role='main' class='container mt4 center'>
 	<h1 class='f2 mt0 mv2'>{{ .Title }}</h1>
@@ -13,8 +14,10 @@
 			<li class="mv2">
 				<a class="db flex no-link" href='{{ .RelPermalink }}'>
 					<h3 class='ma0 mr-auto fw5 f5 truncate'>{{ $p.Title }}</h3>
-					{{ if eq .Section "blog" }}
-					<time class='ma0 ml1 db gray f5 nowrap' datetime='{{ $date }}' style='font-variant-numeric: tabular-nums;'>{{ $date }}</time>
+					{{ if eq $kind "taxonomyTerm" }}
+						<span class='ma0 ml1 db gray f5 nowrap'>{{ len $p.Pages }} posts</span>
+					{{ else }}
+						<time class='ma0 ml1 db gray f5 nowrap' datetime='{{ $date }}' style='font-variant-numeric: tabular-nums;'>{{ $date }}</time>
 					{{ end }}
 				</a>
 			</li>
