@@ -14,7 +14,7 @@ title: Operador Ternário ( ? ) em PHP
 
 ---
 
-Recentemente, escrevi um artigo onde explicava como fazer uma [listagem web de uma tabela MySQL](../listagem-web-de-uma-tabela-mysql/) onde utilizei um operador que não tinha a certeza absoluta do que fazia e deixei a explicação um pouco vaga.
+Recentemente, escrevi um artigo onde explicava como fazer uma [listagem web de uma tabela MySQL](../../../../../2014/07/17/01/listagem-web-de-uma-tabela-mysql/) onde utilizei um operador que não tinha a certeza absoluta do que fazia e deixei a explicação um pouco vaga.
 
 O operador em questão era o ponto de interrogação. Depois de uma pequena pesquisa, descobri que o seu nome é **operador ternário** e é um operador condicional.
 
