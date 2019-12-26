@@ -49,6 +49,15 @@
 
 {{- with or .Params.emoji .Site.Params.emoji }}<link rel="icon" data-emoji="{{ . }}" type="image/png">{{ end }}
 
+<!-- OpenID delegation -->
+<link rel="openid.delegate" href="https://hacdias.com/" />
+<link rel="openid.server" href="https://openid.indieauth.com/openid" />
+
+<!-- IndieAuth methods -->
 <link href="https://twitter.com/hacdias" rel="me">
 <link href="https://github.com/hacdias" rel="me">
+<link href="https://facebook.com/hacdias" rel="me">
+<link href="https://instagram.com/hacdias" rel="me">
+<link href="https://keybase.io/hacdias" rel="me">
+<link href="https://linkedin.com/in/hacdias" rel="me">
 <link href="mailto:hacdias@gmail.com" rel="me">
