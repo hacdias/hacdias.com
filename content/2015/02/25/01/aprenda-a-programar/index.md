@@ -21,4 +21,4 @@ into a beautiful and easily readable PDF.
 It was made with the help of Pplware community and revised by the MSc Information
 Systems and Computer Engineering [Luís Soares](http://luissoares.com).
 
-[Download the ebook (in Portuguese)](../../../downloads/aprenda_a_programar.pdf)
+[Download the ebook (in Portuguese)](../../../../../downloads/aprenda_a_programar.pdf)

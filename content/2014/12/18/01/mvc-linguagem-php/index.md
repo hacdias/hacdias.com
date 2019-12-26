@@ -13,7 +13,7 @@ title: MVC na linguagem PHP
 
 ---
 
-No último artigo publicado, foi falado acerca do [**Modelo MVC**](../../11/mvc-uma-breve-explicacao/) e sobre aquilo em que este consiste. O Modelo _Model-View-Controller_ é amplamente utilizado nos dias de hoje.
+No último artigo publicado, foi falado acerca do [**Modelo MVC**](../../../../../2014/11/22/01/mvc-uma-breve-explicacao/) e sobre aquilo em que este consiste. O Modelo _Model-View-Controller_ é amplamente utilizado nos dias de hoje.
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
 
