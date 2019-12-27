@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<main role='main' class='container mt4 center'>
+	<h1 class='f2 mt0 mv2'>{{ .Title }}</h1>
+
+  <div class='nested-copy-line-height'>
+		{{ .Content }}
+	</div>
+
+	<ul class="list pa0 ma0">
+		{{ range $i, $p := .Pages }}
+		{{ $date := $p.Date.Format "2006-01-02" }}
+			<li class="mv2">
+				<a class="db flex no-link" href='{{ .RelPermalink }}'>
+					<h3 class='ma0 mr-auto fw5 f5 truncate'>{{ $p.Title }}</h3>
+						<time class='ma0 ml1 db gray f5 nowrap' datetime='{{ $date }}' style='font-variant-numeric: tabular-nums;'>{{ $date }}</time>
+				</a>
+			</li>
+		{{ end }}
+	</ul>
+</main>
+
+{{ end }}
