@@ -1,7 +1,7 @@
 ---
 aliases: []
 categories:
-  - bookmark
+  - bookmarks
 date: 2019-12-27T18:05:40.779Z
 description: null
 properties:
