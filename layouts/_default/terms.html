@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<main role='main' class='container center'>
+	<h1 class='f2 mt0 mv2'>{{ .Title }}</h1>
+
+	<ul class="list pa0 ma0">
+		{{ range $i, $p := .Pages }}
+		{{ $date := $p.Date.Format "2006-01-02" }}
+			<li class="ma1 dib">
+				<a class="no-link" href='{{ .RelPermalink }}'>
+          <span class="dib pa2 f6 bg-black-05 black-50">{{ $p.Title }} ({{ len $p.Pages }} {{ cond (eq (len $p.Pages) 1) "post" "posts" }})</span>
+				</a>
+			</li>
+		{{ end }}
+	</ul>
+</main>
+
+{{ end }}
