@@ -61,32 +61,50 @@
       {{ $data := .Content | transform.Unmarshal }}
       {{ $likes := where $data "wm-property" "like-of" }}
 
-      <div style="margin-left: 0.6em;">
-        {{ range  $likes}}
-        <span class="p-like h-cite" style="margin-left: -0.6rem">
-          <a href="{{ .url }}" class="u-url no-link">
-            <span class="p-author h-card">
-              <img class="w2 h2 br-100 u-photo" src="{{ .author.photo }}">
-              <a style="display:none;" class="p-name u-url" href="{{ .author.url }}   ">{{ .author.name }}</a>
-            </span>
-          </a>
-        </span>
-        {{ end }}
-      </div>
+      {{ if gt (len $likes) 0 }}
+        <p class="b f5 ma0 mb2">Likes from</p>
 
-      <!--
+        <div style="margin-left: 0.6em;" class="mb3">
+          {{ range  $likes}}
+          <span class="p-like h-cite" style="margin-left: -0.6rem">
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="u-url no-link">
+              <span class="p-author h-card">
+                <img class="w2 h2 br-100 u-photo" src="{{ .author.photo }}">
+                <a style="display:none;" class="p-name u-url" href="{{ .author.url }}   ">{{ .author.name }}</a>
+              </span>
+            </a>
+          </span>
+          {{ end }}
+        </div>
+      {{ end }}
 
-      {{ len $likes }} 👍
+      {{ $nonLikes := where $data "wm-property" "!=" "like-of" }}
+      {{ if gt (len $nonLikes) 0 }}
+        <p class="b f5 ma0 mb2">More interactions</p>
+      
+        <ul class="list pa0 ma0">
+          {{ range  $nonLikes}}
+          <li class="p-comment h-cite mb3 flex f6">
+            <div class="p-author h-card mw3 w-100">
+              <img class="u-photo db br-100" src="{{ .author.photo }}" />
+              <a class="p-name db u-url fw5 no-link truncate" href="{{ .author.url }}">{{ .author.name }}</a>
+            </div>
 
-      {{ $replies := where $data "wm-property" "in-reply-to" }}
-      {{ len $replies }} replies
-
-      {{ $repost := where $data "wm-property" "repost-of" }}
-      {{ len $repost }} repost
-
-      {{ $mention := where $data "wm-property" "mention-of" }}
-      {{ len $mention }} mention
-      -->
+            <div class="flex-grow-1 ml2">
+              <p class="e-content p-name comment-content mt0 mb2">
+                {{- .content.text -}}
+              </p>
+      
+              <a href="{{ .url }}" class="u-url f7 ma0">
+                <time class='dt-published' datetime='{{ dateFormat "2006-01-02T15:04:05-07:00" .published }}'>
+                  {{ dateFormat "Mon, 02 Jan 2006 3:04pm MST" .published }}
+                </time>
+              </a>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
     {{ end }}
   </footer>
 </article>
