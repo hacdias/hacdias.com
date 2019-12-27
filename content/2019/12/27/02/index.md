@@ -2,7 +2,7 @@
 aliases:
   - /2019/12/27/02/
 categories:
-  - bookmark
+  - bookmarks
 date: 2019-12-27T13:59:14.450Z
 description: null
 properties:

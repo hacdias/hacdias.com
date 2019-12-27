@@ -12,7 +12,7 @@ properties:
   location:
     - 'geo:37.50651,-8.29791;u=7114'
 tags: *ref_0
-title: ''
+title: 'This is my first note...'
 ---
 
 This is my first note using micropub! It won't be published right away, but I'm using [Quill](https://quill.p3k.io) and this is awesome! A lot of work still to do 😃

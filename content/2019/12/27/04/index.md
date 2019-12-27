@@ -2,7 +2,7 @@
 aliases:
   - /2019/12/27/04/
 categories:
-  - bookmark
+  - bookmarks
 date: 2019-12-27T13:59:59.679Z
 description: null
 properties:
@@ -12,8 +12,6 @@ properties:
     - papers
     - awesome
 tags: *ref_0
-title: >-
-  the morning paper – a random walk through Computer Science research, by Adrian
-  Colyer
+title: the morning paper
 ---
 
