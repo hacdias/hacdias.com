@@ -41,7 +41,7 @@
 
   <footer>
     <div class='ma0 flex items-center f6 mv3'>
-      <time class='dib' datetime='{{ .Glob.Date.Format "2006-01-02" }}'>
+      <time class='dib dt-published' datetime='{{ .Glob.Date.Format "2006-01-02" }}'>
         {{- if eq .Mode "list"}}<a href="{{ .Glob.RelPermalink }}">{{ end }}
         {{- .Glob.Date.Format "Mon, 02 Jan 2006 3:04pm MST" }}
         {{- if eq .Mode "list"}}</a>{{ end -}}
