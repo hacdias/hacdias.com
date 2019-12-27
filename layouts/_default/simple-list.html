@@ -3,9 +3,9 @@
 <main role='main' class='container mt4 center'>
 	<h1 class='f2 mt0 mv2'>{{ .Title }}</h1>
 
-  <div class='nested-copy-line-height'>
-		{{ .Content }}
-	</div>
+	{{ with .Content }}
+		<div class='nested-copy-line-height'>{{ . }}</div>
+	{{ end }}
 
 	<ul class="list pa0 ma0">
 		{{ range $i, $p := .Pages }}

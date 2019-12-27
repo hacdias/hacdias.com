@@ -3,6 +3,10 @@
 <main role='main' class='container center'>
 	<h1 class='f2 mt0 mv2'>{{ .Title }}</h1>
 
+	{{ with .Content }}
+		<div class='nested-copy-line-height'>{{ . }}</div>
+	{{ end }}
+
 	<ul class="list pa0 ma0">
 		{{ range $i, $p := .Pages }}
 		{{ $date := $p.Date.Format "2006-01-02" }}
