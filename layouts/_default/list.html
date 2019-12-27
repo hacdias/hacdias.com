@@ -1,28 +1,17 @@
 {{ define "main" }}
-{{ $kind := .Kind }}
 
-<main role='main' class='container mt4 center'>
+<main role='main' class='container center'>
 	<h1 class='f2 mt0 mv2'>{{ .Title }}</h1>
 
-	<div class='nested-copy-line-height'>
-		{{ .Content }}
-	</div>
+	{{ with .Content }}
+		<div class='nested-copy-line-height'>{{ . }}</div>
+	{{ end }}
 
-	<ul class="list pa0 ma0">
-		{{ range $i, $p := .Pages }}
-		{{ $date := $p.Date.Format "2006-01-02" }}
-			<li class="mv2">
-				<a class="db flex no-link" href='{{ .RelPermalink }}'>
-					<h3 class='ma0 mr-auto fw5 f5 truncate'>{{ $p.Title }}</h3>
-					{{ if eq $kind "taxonomyTerm" }}
-						<span class='ma0 ml1 db gray f5 nowrap'>{{ len $p.Pages }} posts</span>
-					{{ else }}
-						<time class='ma0 ml1 db gray f5 nowrap' datetime='{{ $date }}' style='font-variant-numeric: tabular-nums;'>{{ $date }}</time>
-					{{ end }}
-				</a>
-			</li>
-		{{ end }}
-	</ul>
+	{{ range $i, $p := .Pages }}
+		{{ $type := (lower (index (or $p.Params.categories (slice "")) 0 )) }}
+		{{ $data := (dict "Glob" $p "Type" $type "Mode" "list") }}
+		{{ partial "post" $data }}
+	{{ end }}
 </main>
 
 {{ end }}

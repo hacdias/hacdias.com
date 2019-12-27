@@ -1,0 +1,59 @@
+<article class='nested-copy-line-height h-entry {{ if or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") }}boxed ba ph3 br2 b--light-gray{{ end }} {{ if eq .Mode "list" }}mv3{{ end }}'>
+  {{ if or (eq .Type "blog") (eq .Type "") }}
+    {{ if eq .Mode "list" }}
+    <header>
+      <h1 class='mv2 p-name f3'>{{ .Glob.Title }}</h1>
+    </header>
+
+    <div class='p-summary'>
+      {{ .Glob.Summary }}
+    </div>
+
+    {{ else }}
+    {{ $img := .Glob.Page.Resources.GetMatch "*cover*" }}
+
+    {{ with $img }}
+      <figure class='full'>
+        <img loading='lazy' id='banner' class='db mt0 mb3' src='{{ .RelPermalink }}'>
+      </figure>
+    {{ end }}
+
+    <header {{ if not $img }}class='mt4'{{ end }}>
+      <h1 class='mv2 p-name f2'>{{ .Glob.Title }}</h1>
+    </header>
+
+    <div class='e-content'>
+      {{ .Glob.Content }}
+    </div>
+    {{ end }}
+  {{ else if eq .Type "bookmarks" }}
+    {{ $url := index (index .Glob.Params.properties "bookmark-of") 0 }}
+    <p class='fw5'>🔖 <a class='u-bookmark-of h-cite p-name' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a> ({{ $url }})</p>
+
+    <div class='e-content'>
+      {{ .Glob.Content }}
+    </div>
+  {{ else }}
+    <div class='e-content p-name'>
+      {{ .Glob.Content }}
+    </div>
+  {{ end }}
+
+  <footer>
+    <div class='ma0 flex items-center f6 mv3'>
+      <time class='dib' datetime='{{ .Glob.Date.Format "2006-01-02" }}'>
+        {{- if eq .Mode "list"}}<a href="{{ .Glob.RelPermalink }}">{{ end }}
+        {{- .Glob.Date.Format "Mon, 02 Jan 2006 3:04pm MST" }}
+        {{- if eq .Mode "list"}}</a>{{ end -}}
+      </time>
+
+      <ul class='list pa0 ma0 dib ml-auto'>
+        {{ range $i, $tag := .Glob.Params.tags }}
+        {{ with $.Glob.Site.GetPage (printf "/tags/%s" $tag) }}
+          <li class='dib'><a class="p-category" href="{{ .RelPermalink }}">#{{ $tag }}</a></li>
+        {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </footer>
+</article>

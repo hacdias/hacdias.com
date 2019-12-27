@@ -1,28 +1,9 @@
 {{ define "main" }}
 
-<main role='main'>
-  <article class='container nested-copy-line-height'>
-    {{ $img := .Page.Resources.GetMatch "*cover*" }}
-
-    {{ with $img }}
-      <figure class='full'>
-        <img loading='lazy' id='banner' class='db mt0 mb3' src='{{ .RelPermalink }}'>
-      </figure>
-    {{ end }}
-
-    <header {{ if not $img }}class='mt4'{{ end }}>
-      <h1 class='mv2 f2'>{{ .Title }}</h1>
-    </header>
-
-    {{ .Content }}
-
-    <footer>
-      <p class='mt4'>
-        <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "January 2, 2006"}}</time>
-        <a class='ml2' target='_blank' rel='noreferrer noopener' href='https://twitter.com/@hacdias'>@hacdias</a>
-      </p>
-    </footer>
-  </article>
+<main role='main' class='container'>
+  {{ $type := (lower (index (or .Page.Params.categories (slice "")) 0 )) }}
+  {{ $data := (dict "Glob" . "Type" $type "Mode" "sigle") }}
+  {{ partial "post" $data }}
 </main>
 
 {{ end }}
