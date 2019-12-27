@@ -63,17 +63,21 @@
 
       <div style="margin-left: 0.6em;">
         {{ range  $likes}}
-          <a href="{{ .url }}" class="no-link p-like h-cite u-url p-author h-card">
-            <img style="margin-left: -0.6em;" class="w2 h2 br-100 u-photo" src="{{ .author.photo }}">
-            <a style="display:none;" class="p-name" href="">{{ .author.name }}</a>
+        <span class="p-like h-cite" style="margin-left: -0.6rem">
+          <a href="{{ .url }}" class="u-url no-link">
+            <span class="p-author h-card">
+              <img class="w2 h2 br-100 u-photo" src="{{ .author.photo }}">
+              <a style="display:none;" class="p-name u-url" href="{{ .author.url }}   ">{{ .author.name }}</a>
+            </span>
           </a>
+        </span>
         {{ end }}
       </div>
 
       <!--
-      
+
       {{ len $likes }} 👍
-      
+
       {{ $replies := where $data "wm-property" "in-reply-to" }}
       {{ len $replies }} replies
 
