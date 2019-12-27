@@ -251,6 +251,10 @@ body#dark {
   color: var(--white-50);
 }
 
+#dark .b--light-gray {
+  border-color: #111;
+}
+
 #dark article figure figcaption p {
   color: var(--white-50);
 }
