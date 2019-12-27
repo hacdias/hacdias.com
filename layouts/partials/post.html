@@ -55,5 +55,34 @@
         {{ end }}
       </ul>
     </div>
+
+    {{ $js := .Glob.Page.Resources.GetMatch "data/webmentions.json" }}
+    {{ with $js }}
+      {{ $data := .Content | transform.Unmarshal }}
+      {{ $likes := where $data "wm-property" "like-of" }}
+
+      <div style="margin-left: 0.6em;">
+        {{ range  $likes}}
+          <a href="{{ .url }}" class="no-link p-like h-cite u-url p-author h-card">
+            <img style="margin-left: -0.6em;" class="w2 h2 br-100 u-photo" src="{{ .author.photo }}">
+            <a style="display:none;" class="p-name" href="">{{ .author.name }}</a>
+          </a>
+        {{ end }}
+      </div>
+
+      <!--
+      
+      {{ len $likes }} 👍
+      
+      {{ $replies := where $data "wm-property" "in-reply-to" }}
+      {{ len $replies }} replies
+
+      {{ $repost := where $data "wm-property" "repost-of" }}
+      {{ len $repost }} repost
+
+      {{ $mention := where $data "wm-property" "mention-of" }}
+      {{ len $mention }} mention
+      -->
+    {{ end }}
   </footer>
 </article>
