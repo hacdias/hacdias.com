@@ -12,7 +12,6 @@ tags:
   - html
   - mysql
 title: Listagem web de uma tabela MySQL
-
 ---
 
 No [último artigo](../../../../../2014/07/16/01/selecionar-um-intervalo-de-linhas-em-mysql/), falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um  pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.

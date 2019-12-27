@@ -5,7 +5,6 @@ categories:
   - blog
 date: 2017-09-08T00:00:00.000Z
 title: How to create a web server
-
 ---
 
 Go is a relatively new player in the world of programming, having been around since 2009. It was created by Google and many open-source contributors.

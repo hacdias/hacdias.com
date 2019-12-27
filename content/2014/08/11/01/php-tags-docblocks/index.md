@@ -10,7 +10,6 @@ description: >-
 tags:
   - php
 title: PHP - (Algumas) tags dos DOCBlocks
-
 ---
 
 Para quem desenvolve aplicações em PHP com outras pessoas ou mesmo sozinho, por vezes precisa de colocar **comentários** em vários locais para identificar os diversos processos que vão ocorrendo.

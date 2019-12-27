@@ -10,7 +10,6 @@ description: >-
 tags:
   - php
 title: 'PHP e WordPress: comandos ''printf'' e ''sprintf'''
-
 ---
 
 No [último artigo](../../../../../2014/09/09/01/php-interpolacao-concatenacao/) sugeriram-me falar sobre as funções printf  e  sprintf  que são utilizadas em massa no Wordpress e é isso que vou fazer! Vamos analisar cada uma das funções.

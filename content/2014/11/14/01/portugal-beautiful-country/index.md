@@ -11,7 +11,6 @@ description: >-
 tags:
   - portugal
 title: Portugal is a beautiful country
-
 ---
 
 Searching, exploring, walking, running, seeing, knowing, watching, meeting, taking photos, etc. All are verbs related with travelling which is one of the most amazing and *important* things in life.

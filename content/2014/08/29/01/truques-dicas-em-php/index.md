@@ -10,7 +10,6 @@ description: >-
 tags:
   - php
 title: 5 truques e dicas em PHP
-
 ---
 
 A linguagem de programação PHP é das mais utilizadas atualmente do lado do servidor quando o assunto são páginas web.

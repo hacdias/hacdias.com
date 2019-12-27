@@ -11,7 +11,6 @@ description: >-
 tags:
   - videos
 title: Pi Day 2015
-
 ---
 
 Do you know? Today is the Pi Day 2015. Below there is a small video I made about this marvelous day.

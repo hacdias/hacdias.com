@@ -10,7 +10,6 @@ description: >
   building a decentralised, P2P and content-addressable network for
   future-proofing the web.
 title: Almost two years at Protocol Labs
-
 ---
 
 {{< skills "React" "HTML" "CSS" "JavaScript" >}}

@@ -10,7 +10,6 @@ description: >-
 tags:
   - mysql
 title: Selecionar um intervalo de linhas em MySQL
-
 ---
 
 O sistema de base de dados **MySQL** é dos mais conhecidos mundialmente devido à sua facilidade, tanto de utilização como de implantação e ao facto de ser extremamente versátil.

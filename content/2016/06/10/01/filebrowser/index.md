@@ -8,7 +8,6 @@ description: >
   File Browser provides a file managing interface within a specified directory
   and it can be used to upload, delete, preview, rename and edit your files.
 title: File Browser
-
 ---
 
 {{< skills "Go" "JavaScript" "Vue.js Framework" "CSS" "HTML" >}}

@@ -13,7 +13,6 @@ tags:
   - sociedade
   - society
 title: The Society and the Objects
-
 ---
 
 Presently, the people love the objects. Sometimes, more than they love the people. Is this good? Or not?

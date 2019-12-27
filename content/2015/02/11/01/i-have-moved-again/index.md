@@ -11,7 +11,6 @@ description: >-
 tags:
   - meta
 title: 'I have moved, again'
-
 ---
 
 I have moved, again. From now until the end of the times, **coxpe.com** and **henriquedias.com/blog** are gone, and **henriquedias.com** is the unified version of both.

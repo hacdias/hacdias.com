@@ -9,7 +9,6 @@ description: >
   shaping the next generation of entrepreneurs by building an immersive
   experience.
 title: Upframe
-
 ---
 
 {{< skills "Server Admin" "HTML" "CSS" "Go" "JavaScript" >}}

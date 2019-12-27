@@ -10,7 +10,6 @@ description: >-
 tags:
   - javascript
 title: How to create a Node.js command-line application
-
 ---
 
 Nowadays, **[node.js](https://nodejs.org/)** is one of the technologies which is always talked about when the subject is related with real-time applications or even [CLI ](http://en.wikipedia.org/wiki/Command-line_interface)(Command-line interface) apps.

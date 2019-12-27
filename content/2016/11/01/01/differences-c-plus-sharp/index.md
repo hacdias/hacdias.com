@@ -5,7 +5,6 @@ categories:
   - blog
 date: 2016-11-01T00:00:00.000Z
 title: 'Differences between C, C++ and C#'
-
 ---
 
 There is one thing in common with the languages C, C++ and

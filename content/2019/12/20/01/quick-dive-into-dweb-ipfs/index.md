@@ -12,7 +12,6 @@ tags:
   - talk
   - ipfs
 title: A quick dive into the dWeb with IPFS
-
 ---
 
 Some days ago, on the 30th of November, I gave my first talk at [BarcampLX](https://www.meetup.com/BarcampLx/events/265593046/),

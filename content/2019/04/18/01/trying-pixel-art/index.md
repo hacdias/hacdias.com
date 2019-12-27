@@ -13,7 +13,6 @@ tags:
   - pixelart
 emoji: "\U0001F3A8"
 title: Trying Pixel Art
-
 ---
 
 Recently I've been wanting to try out more things in my life. Perhaps not recently,

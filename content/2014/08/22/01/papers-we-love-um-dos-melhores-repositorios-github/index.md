@@ -14,7 +14,6 @@ tags:
   - Programação
   - Repositórios
 title: Papers We Love - Um dos melhores repositórios do GitHub
-
 ---
 
 Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.

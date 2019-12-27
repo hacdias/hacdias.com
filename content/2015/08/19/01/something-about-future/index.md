@@ -14,7 +14,6 @@ tags:
   - Life
   - Future
 title: Something about the future. Is it real? Does it exist?
-
 ---
 
 

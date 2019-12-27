@@ -10,7 +10,6 @@ description: >-
 tags:
   - newsletter
 title: 'Hello, World!'
-
 ---
 
 Hello, world!

@@ -11,7 +11,6 @@ description: >-
 tags:
   - opinion
 title: The first day at your brand new job
-
 ---
 
 You got a job! And today’s the first day, what are you going to do? Let’s make a party and make everyone dance! What? No… wait! You’re nervous, you don’t have to be. Let’s talk.

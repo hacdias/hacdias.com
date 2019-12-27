@@ -10,7 +10,6 @@ description: >-
 tags:
   - git
 title: Git - Uma história e repositórios do GitHub"
-
 ---
 
 **Git** é um sistema de controlo de versão e gestão de código fonte extremamente utilizado em todos os cantos do mundo.

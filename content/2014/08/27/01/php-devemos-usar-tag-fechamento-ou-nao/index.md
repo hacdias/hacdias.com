@@ -10,7 +10,6 @@ description: >-
 tags:
   - php
 title: PHP - Devemos usar a tag de fechamento ou não?
-
 ---
 
 Recentemente comecei a reparar que muitos programadores omitiam a tag de fechamento dos ficheiros PHP e, obviamente, fiquei curioso.

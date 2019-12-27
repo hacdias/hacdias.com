@@ -8,7 +8,6 @@ description: >
   Caddy is a lightweight, fast, general-purpose, cross-platform HTTP/2 web
   server with automatic HTTPS with support for plugins. I've created some.
 title: Caddy Plugins
-
 ---
 
 {{< skills "Go" "HTML" "JavaScript" "CSS" >}}

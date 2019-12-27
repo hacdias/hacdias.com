@@ -10,7 +10,6 @@ description: >-
 tags:
   - meta
 title: Apresentação
-
 ---
 
 Olá!

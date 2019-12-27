@@ -12,7 +12,6 @@ tags:
   - code
   - decentralization
 title: Mirroring xkcd comics to IPFS
-
 ---
 
 As many of you probably know, xkcd is a web comic created in 2005 by Randall Munroe. Its tagline is "A webcomic of romance, sarcasm, math, and language". You can read more about the web comic itself on their [website](https://xkcd.com/about/).

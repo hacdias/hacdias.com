@@ -9,7 +9,6 @@ description: >
   C. That ebook consists in the compilation of a series of blog posts on Pplware
   into a beautiful and easily readable PDF.
 title: Aprenda a Programar
-
 ---
 
 {{< skills "C" "Writing" >}}

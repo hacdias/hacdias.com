@@ -5,7 +5,6 @@ categories:
   - blog
 date: 2016-11-24T00:00:00.000Z
 title: How to remove the query string from static assets on WordPress
-
 ---
 
 When we were creating our theme and setting up our WordPress installation, we noticed that every single static asset had a query string in the end of the URL like `?ver=3.5` and we didn't want that because we were using Cloudflare and we were having problems updating the cache. So, we decided to remove that from our URLs. But how?

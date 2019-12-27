@@ -11,7 +11,6 @@ tags:
   - php
   - javascript
 title: Chamadas Ajax com jQuery e PHP
-
 ---
 
 A biblioteca [jQuery](http://jquery.com/) é das mais conhecidas e utilizadas em JavaScript. Com esta biblioteca podemos proceder a chamadas **ajax** muito facilmente através de poucas linhas de código.

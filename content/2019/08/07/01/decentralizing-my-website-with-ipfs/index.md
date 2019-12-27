@@ -16,7 +16,6 @@ tags:
   - dnslink
   - meta
 title: Decentralizing my website with IPFS
-
 ---
 
 It was about two years ago, in 2017, that I got to know IPFS through [David Dias][0]. This is not the first time I talk about IPFS here, in my website, but here's a brief description of what it is: IPFS stands for InterPlanetary File System and it is a peer-to-peer, content-addressed and decentralized protocol.

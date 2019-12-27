@@ -8,7 +8,6 @@ description: >
   Pplware is a portuguese project that delivers the most recent news about
   technology to the Portuguese-speaking community.
 title: Working on Pplware
-
 ---
 
 {{< skills "WordPress" "Content Writing" "Online Journalism" >}}

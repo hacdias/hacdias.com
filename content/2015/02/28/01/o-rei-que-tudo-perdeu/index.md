@@ -11,7 +11,6 @@ tags:
   - literature
   - poetry
 title: O Rei Que Tudo Perdeu
-
 ---
 
 Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel sem qualquer esforço. Letra a letra. Partícula a partícula. Tudo se compõe.

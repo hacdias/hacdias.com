@@ -5,7 +5,6 @@ categories:
   - blog
 date: 2016-11-11T00:00:00.000Z
 title: 'The Fundamentals of Programming #2: Constants and Variables'
-
 ---
 
 Today we are going to discuss about constants and variables,

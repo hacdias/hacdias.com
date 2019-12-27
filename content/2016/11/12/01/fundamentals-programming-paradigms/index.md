@@ -5,7 +5,6 @@ categories:
   - blog
 date: 2016-11-12T00:00:00.000Z
 title: 'The Fundamentals of Programming #3: Paradigms'
-
 ---
 
 Every single programming language has its own characteristics

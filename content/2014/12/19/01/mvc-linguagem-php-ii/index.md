@@ -10,7 +10,6 @@ description: >-
 tags:
   - php
 title: MVC na linguagem PHP - II
-
 ---
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.

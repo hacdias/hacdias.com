@@ -5,7 +5,6 @@ categories:
   - blog
 date: 2016-11-10T00:00:00.000Z
 title: "The Fundamentals of Programming #1:\_Beginning"
-
 ---
 
 This is the first article of The Fundamentals of Programming Using

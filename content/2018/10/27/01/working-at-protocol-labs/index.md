@@ -8,7 +8,6 @@ description: >
   I joined Protocol Labs in November 2017 and it is being an incredible
   experience so far.
 title: First year at Protocol Labs
-
 ---
 
 I've been wanting to write about my journey at [Protocol Labs][4] for a while already. Well,

@@ -11,7 +11,6 @@ tags:
   - projects
   - startup
 title: How did I start working remotely in a startup
-
 ---
 
 On 18th June 2015 I went to Lisbon to attend the [Landing
