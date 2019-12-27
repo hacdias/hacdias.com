@@ -1,26 +1,21 @@
 [
   {
-    "source": "https://brid-gy.appspot.com/like/twitter/hacdias/1209572902426828806/1028353082206367744",
-    "target": "https://hacdias.com/2019/12/24/01/own-your-data/",
-    "private": false,
-    "post": {
-      "type": "entry",
-      "author": {
-        "type": "card",
-        "name": "Malik",
-        "photo": "https://webmention.io/avatar/pbs.twimg.com/f7313b1cb4a56fd1db3c2722cf657abdc51c1de55ab9fbfacc2557d1288cadc4.jpg",
-        "url": "https://twitter.com/malikpiara"
-      },
-      "url": "https://twitter.com/hacdias/status/1209572902426828806#favorited-by-1028353082206367744",
-      "published": null,
-      "wm-received": "2019-12-27T21:17:44Z",
-      "wm-id": 738277,
-      "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1209572902426828806/1028353082206367744",
-      "wm-target": "https://hacdias.com/2019/12/24/01/own-your-data/",
-      "like-of": "https://hacdias.com/2019/12/24/01/own-your-data/",
-      "wm-property": "like-of",
-      "wm-private": false
-    }
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Malik",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7313b1cb4a56fd1db3c2722cf657abdc51c1de55ab9fbfacc2557d1288cadc4.jpg",
+      "url": "https://twitter.com/malikpiara"
+    },
+    "url": "https://twitter.com/hacdias/status/1209572902426828806#favorited-by-1028353082206367744",
+    "published": null,
+    "wm-received": "2019-12-27T21:17:44Z",
+    "wm-id": 738277,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1209572902426828806/1028353082206367744",
+    "wm-target": "https://hacdias.com/2019/12/24/01/own-your-data/",
+    "like-of": "https://hacdias.com/2019/12/24/01/own-your-data/",
+    "wm-property": "like-of",
+    "wm-private": false
   },
   {
     "type": "entry",
