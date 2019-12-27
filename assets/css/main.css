@@ -102,29 +102,11 @@ figure img {
     float: right;
     margin-right: -10rem;
   }
-
-  .container .boxed .left,
-  .container .boxed .right {
-    max-width: 17em;
-  }
-
-  .container .boxed .left {
-    margin-left: 0;
-  }
-
-  .container .boxed .right {
-    margin-right: 0;
-  }
 }
 
 article img#banner {
   max-height: 28em;
   object-fit: cover;
-}
-
-.container .boxed .full {
-  margin: 1em auto auto auto;
-  width: 100%;
 }
 
 article ul,
