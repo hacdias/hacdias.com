@@ -47,11 +47,6 @@
     {{ $contentClass = "e-content p-name" }}
   {{ end }}
 
-  <!--
-    TODO: add author
-     <a class="u-author" href="/">I</a> ate a cheese sandwich
-  -->
-
   {{ with .Glob.Content }}
     <div class='{{ $contentClass }}'>{{ . }}</div>
   {{ end }}
