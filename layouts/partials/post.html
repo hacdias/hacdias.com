@@ -23,10 +23,6 @@
     <header {{ if not $img }}class='mt4'{{ end }}>
       <h1 class='mv2 p-name f2'>{{ .Glob.Title }}</h1>
     </header>
-
-    <div class='e-content'>
-      {{ .Glob.Content }}
-    </div>
     {{ end }}
   {{ else if eq .Type "bookmarks" }}
     {{ $url := index (index .Glob.Params.properties "bookmark-of") 0 }}
