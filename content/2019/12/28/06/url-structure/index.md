@@ -52,8 +52,11 @@ Why not leaving them per month as I had before? Since I’m going to have more p
 Now: how did I achieve this with Hugo?
 
 It was quite easy! I just structure the directories inside content like the URLs and then gave each file a category (blog for articles, notes and bookmarks). Why not create types? True, it would’ve been much easier and I could simply create a layout file for each one, but it would be harder to create listing directories. But… is it worth the hassle?
-- - - -
-### See Also
+
+---
+
+**See Also**
+
 * [Restructuring The Way That My Site’s Content Types Work](https://www.jvt.me/posts/2019/08/18/restructure-content-types/)
 * [Making it easier to determine the `kind` of content for Indie posts](https://www.jvt.me/posts/2019/08/28/content-kind/)
 * [post on IndieWeb](https://indieweb.org/post)
