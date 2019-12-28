@@ -1,0 +1,17 @@
+<footer>
+  <div class='ma0 flex items-center f6 mv3'>
+    <time class='dib dt-published' datetime='{{ .Glob.Date.Format "2006-01-02" }}'>
+      {{- if eq .Mode "list"}}<a href="{{ .Glob.RelPermalink }}">{{ end }}
+      {{- .Glob.Date.Format "Mon, 02 Jan 2006 3:04pm MST" }}
+      {{- if eq .Mode "list"}}</a>{{ end -}}
+    </time>
+
+    <ul class='list pa0 ma0 dib ml-auto'>
+      {{ range $i, $tag := .Glob.Params.tags }}
+      {{ with $.Glob.Site.GetPage (printf "/tags/%s" $tag) }}
+        <li class='dib ml1'><a class="p-category" href="{{ .RelPermalink }}">#{{ $tag }}</a></li>
+      {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+</footer>
