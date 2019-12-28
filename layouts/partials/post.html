@@ -38,6 +38,9 @@
   {{ else if eq .Type "likes" }}
     {{ $url := index (index .Glob.Params.properties "like-of") 0 }}
     <p class='fw5'>⭐️ <a class='u-like-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
+  {{ else if eq .Type "reposts" }}
+    {{ $url := index (index .Glob.Params.properties "repost-of") 0 }}
+    <p class='fw5'>📣 <a class='u-repost-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
   {{ else }}
     {{ $contentClass = "e-content p-name" }}
   {{ end }}
