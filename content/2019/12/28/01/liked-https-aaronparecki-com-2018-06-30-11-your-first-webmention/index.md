@@ -2,7 +2,7 @@
 aliases:
   - /2019/12/28/01/
 categories:
-  - notes
+  - likes
 date: 2019-12-28T12:33:28.834Z
 description: null
 properties:

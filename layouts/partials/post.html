@@ -31,12 +31,13 @@
   {{ else if eq .Type "bookmarks" }}
     {{ $url := index (index .Glob.Params.properties "bookmark-of") 0 }}
     <p class='fw5'>🔖 <a class='u-bookmark-of h-cite p-name' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a> ({{ $url }})</p>
-  {{ else if eq .Type "notes" }}
+    {{ else if eq .Type "notes" }}
     {{ $contentClass = "p-content p-name" }}
-  {{ else if eq .Type "replies" }}
+    {{ else if eq .Type "replies" }}
     <!-- <a href="http://example.com/note123" class="u-in-reply-to">Some note with a point</a> -->
   {{ else if eq .Type "likes" }}
-
+    {{ $url := index (index .Glob.Params.properties "like-of") 0 }}
+    <p class='fw5'>⭐️ <a class='u-like-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
   {{ else }}
     {{ $contentClass = "e-content p-name" }}
   {{ end }}
