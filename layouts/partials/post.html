@@ -35,15 +35,6 @@
     <p class='fw5'>💬 <a href="{{ $url }}" class="u-in-reply-to">Reply to {{ $url }}</a></p>
   {{ else if eq .Type "likes" }}
     {{ $url := index (index .Glob.Params.properties "like-of") 0 }}
-
-    {{ $data := index .Glob.Site.Data.xray (sha256 $url) }}
-
-    {{ with $data.data }}
-    <p>{{ .author.name }}</p>
-    <img src="{{ .author.photo }}">
-    <p>{{ .content.text }}</p>
-    {{ end }}
-
     <p class='fw5'>👍 <a class='u-like-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
   {{ else if eq .Type "reposts" }}
     {{ $url := index (index .Glob.Params.properties "repost-of") 0 }}
