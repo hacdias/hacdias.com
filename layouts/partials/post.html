@@ -3,6 +3,7 @@
 <article class='nested-copy-line-height h-entry {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
   {{ $contentClass := "e-content" -}}
   {{ $dataToShow := false -}}
+  {{ $class := "" }}
 
   {{ if or (eq .Type "blog") (eq .Type "") -}}
     {{ if $isList -}}
@@ -31,6 +32,7 @@
   {{ else if eq .Type "replies" }}
     <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">💬 Reply</div>
     {{ $contentClass = "p-content p-name ph3" }}
+    {{ $class = "u-in-reply-to" }}
     {{ $url := index (index .Glob.Params.properties "in-reply-to") 0 }}
     {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
     {{ if not $dataToShow }}
@@ -38,6 +40,7 @@
     {{ end }}
   {{ else if eq .Type "likes" }}
     <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">👍 Like</div>
+    {{ $class = "u-like-of" }}
     {{ $url := index (index .Glob.Params.properties "like-of") 0 }}
     {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
     {{ if not $dataToShow }}
@@ -45,6 +48,7 @@
     {{ end }}
   {{ else if eq .Type "reposts" }}
     <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">📣 Repost</div>
+    {{ $class = "u-repost-of" }}
     {{ $url := index (index .Glob.Params.properties "repost-of") 0 }}
     {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
     {{ if not $dataToShow }}
@@ -56,7 +60,7 @@
 
   {{ with $dataToShow }}
   <div class='bg-near-white pa3'>
-    {{ partial "person" (dict "Wm" . "IsReply" (eq $.Type "replies")) }}
+    {{ partial "person" (dict "Wm" . "Class" $class) }}
   </div>
   {{ end }}
 

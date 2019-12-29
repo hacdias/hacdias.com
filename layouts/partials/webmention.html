@@ -27,7 +27,7 @@
 
     {{ range $i, $data := $nonLikes -}}
     <div {{ if $i }}class="mt4"{{ end }}>
-      {{ partial "person" (dict "Wm" $data "IsReply" (eq .Type "replies")) -}}
+      {{ partial "person" (dict "Wm" $data "Class" "") -}}
     </div>
     {{ end -}}
   {{ end -}}
