@@ -26,3 +26,26 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+outputFormats:
+  rss:
+    baseName: feed
+  jsonfeed:
+    mediaType: application/json
+    baseName: feed
+    isPlainText: true
+
+outputs:
+  home:
+    - html
+    - jsonfeed
+  section:
+    - html
+    - jsonfeed
+  taxonomy:
+    - html
+    - jsonfeed
+  taxonomyTerm:
+    - html
+  page:
+    - html

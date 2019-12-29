@@ -1,0 +1,9 @@
+{
+  {{ partial "jsonfeed/head.json" . }}
+  "items": [
+    {{ range $index, $entry := first 50 .Pages }}
+    {{- if $index }}, {{ end }}
+    {{ partial "jsonfeed/item.json" . }}
+    {{- end }}
+  ]
+}

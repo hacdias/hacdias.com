@@ -8,6 +8,10 @@
 <meta name="description" content="{{ $description }}">
 <link rel="canonical" href="{{ .Permalink }}">
 
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@{{ .Site.Social.twitter }}"/>
