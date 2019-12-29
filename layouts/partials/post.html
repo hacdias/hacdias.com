@@ -28,10 +28,10 @@
     {{ $url := index (index .Glob.Params.properties "bookmark-of") 0 }}
     <p class='fw5 ph3'><a class='u-bookmark-of h-cite p-name' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a> ({{ $url }})</p>
   {{ else if eq .Type "notes" }}
-    {{ $contentClass = "p-content p-name ph3" }}
+    {{ $contentClass = "e-content p-name ph3" }}
   {{ else if eq .Type "replies" }}
     <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">💬 Reply</div>
-    {{ $contentClass = "p-content p-name ph3" }}
+    {{ $contentClass = "e-content p-name ph3" }}
     {{ $class = "u-in-reply-to" }}
     {{ $url := index (index .Glob.Params.properties "in-reply-to") 0 }}
     {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
