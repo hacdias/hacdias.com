@@ -1,51 +1,74 @@
-<article class='nested-copy-line-height h-entry {{ if or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") }}ba ph3 br2 b--light-gray{{ end }} {{ if eq .Mode "list" }}mv3{{ end }}'>
-  {{ $contentClass := "e-content" }}
+{{ $box := or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") -}}
+{{ $isList := eq .Mode "list" -}}
+<article class='nested-copy-line-height h-entry {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
+  {{ $contentClass := "e-content" -}}
+  {{ $dataToShow := false -}}
 
-  {{ if or (eq .Type "blog") (eq .Type "") }}
-    {{ if eq .Mode "list" }}
-    <header>
-      <h1 class='mv2 p-name f3'>{{ .Glob.Title }}</h1>
-    </header>
+  {{ if or (eq .Type "blog") (eq .Type "") -}}
+    {{ if $isList -}}
+      <header>
+        <h1 class='mv2 p-name f3'>{{ .Glob.Title }}</h1>
+      </header>
 
-    <div class='p-summary'>
-      {{ .Glob.Summary }}
-    </div>
-
-    {{ else }}
-    {{ $img := .Glob.Page.Resources.GetMatch "*cover*" }}
-
-    {{ with $img }}
-      <figure class='full'>
-        <img loading='lazy' id='banner' class='db mt0 mb3' src='{{ .RelPermalink }}'>
-      </figure>
-    {{ end }}
-
-    <header {{ if not $img }}class='mt4'{{ end }}>
-      <h1 class='mv2 p-name f2'>{{ .Glob.Title }}</h1>
-    </header>
+      <div class='p-summary'>{{ .Glob.Summary }}</div>
+    {{ else -}}
+      {{ $img := .Glob.Page.Resources.GetMatch "*cover*" -}}
+      {{ with $img -}}
+        <figure class='full'>
+          <img loading='lazy' id='banner' class='db mt0 mb3' src='{{ .RelPermalink }}'>
+        </figure>
+      {{ end -}}
+      <header {{ if not $img }}class='mt4'{{ end }}>
+        <h1 class='mv2 p-name f2'>{{ .Glob.Title }}</h1>
+      </header>
     {{ end }}
   {{ else if eq .Type "bookmarks" }}
+    <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">🔖 Bookmark</div>
     {{ $url := index (index .Glob.Params.properties "bookmark-of") 0 }}
-    <p class='fw5'>🔖 <a class='u-bookmark-of h-cite p-name' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a> ({{ $url }})</p>
+    <p class='fw5 ph3'><a class='u-bookmark-of h-cite p-name' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a> ({{ $url }})</p>
   {{ else if eq .Type "notes" }}
-    {{ $contentClass = "p-content p-name" }}
+    {{ $contentClass = "p-content p-name ph3" }}
   {{ else if eq .Type "replies" }}
-    {{ $contentClass = "p-content p-name" }}
+    <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">💬 Reply</div>
+    {{ $contentClass = "p-content p-name ph3" }}
     {{ $url := index (index .Glob.Params.properties "in-reply-to") 0 }}
-    <p class='fw5'>💬 <a href="{{ $url }}" class="u-in-reply-to">Reply to {{ $url }}</a></p>
+    {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
+    {{ if not $dataToShow }}
+    <p class='fw5 fh3'><a href="{{ $url }}"  rel='noopener noreferrer' target='_blank' class="u-in-reply-to">Reply to {{ $url }}</a></p>
+    {{ end }}
   {{ else if eq .Type "likes" }}
+    <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">👍 Like</div>
     {{ $url := index (index .Glob.Params.properties "like-of") 0 }}
-    <p class='fw5'>👍 <a class='u-like-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
+    {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
+    {{ if not $dataToShow }}
+    <p class='fw5 fh3'><a class='u-like-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
+    {{ end }}
   {{ else if eq .Type "reposts" }}
+    <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">📣 Repost</div>
     {{ $url := index (index .Glob.Params.properties "repost-of") 0 }}
-    <p class='fw5'>📣 <a class='u-repost-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
+    {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
+    {{ if not $dataToShow }}
+    <p class='fw5 fh3'><a class='u-repost-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
+    {{ end }}
   {{ else }}
     {{ $contentClass = "e-content p-name" }}
+  {{ end }}
+
+  {{ with $dataToShow }}
+  <div class='bg-near-white pa3'>
+    {{ partial "person" (dict "Wm" . "IsReply" (eq $.Type "replies")) }}
+  </div>
   {{ end }}
 
   {{ with .Glob.Content }}
     <div class='{{ $contentClass }}'>{{ . }}</div>
   {{ end }}
 
-  {{ partial "post/footer" . }}
+  {{ if $box }}<div class='ph3'>{{ end -}}
+    {{ partial "post/footer" . }}
+  {{ if $box }}</div>{{ end -}}
+
+  {{ if not $isList -}}
+  <!-- {{ partial "webmention" . -}} -->
+  {{ end }}
 </article>

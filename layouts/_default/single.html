@@ -2,7 +2,7 @@
 
 <main role='main' class='container'>
   {{ $type := (lower (index (or .Page.Params.categories (slice "")) 0 )) }}
-  {{ $data := (dict "Glob" . "Type" $type "Mode" "sigle") }}
+  {{ $data := (dict "Glob" . "Type" $type "Mode" "single") }}
   {{ partial "post" $data }}
 </main>
 
