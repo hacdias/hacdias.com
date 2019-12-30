@@ -1,10 +1,7 @@
+{{ $layout := or (index .Glob.Site.Data.layout .Type) (index .Glob.Site.Data.layout "default") }}
 {{ $box := or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") -}}
 {{ $isList := eq .Mode "list" -}}
 <article class='nested-copy-line-height h-entry {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
-  {{ $contentClass := "e-content" -}}
-  {{ $dataToShow := false -}}
-  {{ $class := "" }}
-
   {{ if or (eq .Type "blog") (eq .Type "") -}}
     {{ if $isList -}}
       <header>
@@ -23,49 +20,32 @@
         <h1 class='mv2 p-name f2'>{{ .Glob.Title }}</h1>
       </header>
     {{ end }}
-  {{ else if eq .Type "bookmarks" }}
-    <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">🔖 Bookmark</div>
-    {{ $url := index (index .Glob.Params.properties "bookmark-of") 0 }}
-    <p class='fw5 ph3'><a class='u-bookmark-of h-cite p-name' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a> ({{ $url }})</p>
-  {{ else if eq .Type "notes" }}
-    {{ $contentClass = "e-content p-name ph3" }}
-  {{ else if eq .Type "replies" }}
-    <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">💬 Reply</div>
-    {{ $contentClass = "e-content p-name ph3" }}
-    {{ $class = "u-in-reply-to" }}
-    {{ $url := index (index .Glob.Params.properties "in-reply-to") 0 }}
-    {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
-    {{ if not $dataToShow }}
-    <p class='fw5 fh3'><a href="{{ $url }}"  rel='noopener noreferrer' target='_blank' class="u-in-reply-to">Reply to {{ $url }}</a></p>
-    {{ end }}
-  {{ else if eq .Type "likes" }}
-    <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">👍 Like</div>
-    {{ $class = "u-like-of" }}
-    {{ $url := index (index .Glob.Params.properties "like-of") 0 }}
-    {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
-    {{ if not $dataToShow }}
-    <p class='fw5 fh3'><a class='u-like-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
-    {{ end }}
-  {{ else if eq .Type "reposts" }}
-    <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">📣 Repost</div>
-    {{ $class = "u-repost-of" }}
-    {{ $url := index (index .Glob.Params.properties "repost-of") 0 }}
-    {{ $dataToShow = index .Glob.Site.Data.xray (sha256 $url) }}
-    {{ if not $dataToShow }}
-    <p class='fw5 fh3'><a class='u-repost-of' rel='noopener noreferrer' target='_blank' href="{{ $url }}">{{ .Glob.Title }}</a></p>
-    {{ end }}
-  {{ else }}
-    {{ $contentClass = "e-content p-name" }}
   {{ end }}
 
-  {{ with $dataToShow }}
-  <div class='bg-near-white pa3'>
-    {{ partial "person" (dict "Wm" . "Class" $class) }}
-  </div>
+  {{ with $layout.info }}
+  <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">{{ . }}</div>
+  {{ end }}
+
+  {{ if .Glob.Params.properties }}
+    {{ $arr := index .Glob.Params.properties $layout.property }}
+    {{ if $arr }}
+      {{ $url := index $arr 0 }}
+      {{ $dataToShow := index .Glob.Site.Data.xray (sha256 $url) }}
+      {{ if $dataToShow }}
+      <div class='bg-near-white pa3'>
+        {{ partial "person" (dict "Wm" $dataToShow "Class" $layout.class) }}
+      </div>
+      {{ else }}
+      <p class='fw5 ph3'>
+        <a href="{{ $url }}"  rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">{{ .Glob.Title }}</a>
+        ({{ $url }})
+      </p>
+      {{ end }}
+    {{ end}}
   {{ end }}
 
   {{ with .Glob.Content }}
-    <div class='{{ $contentClass }}'>{{ . }}</div>
+    <div class='{{ $layout.contentClass }}'>{{ . }}</div>
   {{ end }}
 
   {{ if $box }}<div class='ph3'>{{ end -}}
