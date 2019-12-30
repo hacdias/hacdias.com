@@ -1,7 +1,7 @@
 {{ $layout := or (index .Glob.Site.Data.layout .Type) (index .Glob.Site.Data.layout "default") }}
 {{ $box := or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") -}}
 {{ $isList := eq .Mode "list" -}}
-<article class='nested-copy-line-height h-entry {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
+<article class='h-entry {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
   {{ if or (eq .Type "blog") (eq .Type "") -}}
     {{ if $isList -}}
       <header>
@@ -45,7 +45,7 @@
   {{ end }}
 
   {{ with .Glob.Content }}
-    <div class='{{ $layout.contentClass }}'>{{ . }}</div>
+    <div class='nested-copy-line-height {{ $layout.contentClass }}'>{{ . }}</div>
   {{ end }}
 
   {{ if $box }}<div class='ph3'>{{ end -}}
