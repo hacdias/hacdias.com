@@ -1,14 +1,15 @@
 {{ $layout := or (index .Glob.Site.Data.layout .Type) (index .Glob.Site.Data.layout "default") }}
 {{ $box := or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") -}}
 {{ $isList := eq .Mode "list" -}}
+{{ $useSummary := false }}
 <article class='h-entry {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
   {{ if or (eq .Type "blog") (eq .Type "") -}}
     {{ if $isList -}}
       <header>
-        <h1 class='mv2 p-name f3'>{{ .Glob.Title }}</h1>
+        <h1 class='mv2 p-name f3 ph3'>{{ .Glob.Title }}</h1>
       </header>
 
-      <div class='p-summary'>{{ .Glob.Summary }}</div>
+      {{ $useSummary = true}}
     {{ else -}}
       {{ $img := .Glob.Page.Resources.GetMatch "*cover*" -}}
       {{ with $img -}}
@@ -48,8 +49,14 @@
     {{ end}}
   {{ end }}
 
+  {{ if $useSummary}}
+    <div class='p-summary ph3'>{{ .Glob.Summary }}</div>
+  {{ else }}
+
   {{ with .Glob.Content }}
     <div class='nested-copy-line-height {{ $layout.contentClass }}'>{{ . }}</div>
+  {{ end }}
+
   {{ end }}
 
   {{ if $box }}<div class='ph3'>{{ end -}}
