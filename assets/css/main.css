@@ -252,7 +252,7 @@ body#dark {
 }
 
 #dark .b--light-gray {
-  border-color: #111;
+  border-color: #333333;
 }
 
 #dark article figure figcaption p {
@@ -290,4 +290,12 @@ body#dark {
   height: 3rem;
   left: 0;
   top: 0;
+}
+
+#dark .bg-near-white {
+  background-color: #555555;
+}
+
+#dark .bg-light-gray {
+  background-color: #333333;
 }
