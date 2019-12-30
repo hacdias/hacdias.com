@@ -27,7 +27,7 @@
 
     {{ range $i, $data := $nonLikes -}}
     <div {{ if $i }}class="mt4"{{ end }}>
-      {{ partial "person" (dict "Wm" $data "Class" "") -}}
+      {{ partial "posts/entry" (dict "Wm" $data "Class" "") -}}
     </div>
     {{ end -}}
   {{ end -}}

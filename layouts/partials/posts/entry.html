@@ -4,7 +4,7 @@
       <img class="u-photo br-100 absolute" src="{{ .Wm.author.photo }}">
       <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link fw5" href="{{ .Wm.author.url }}">{{ .Wm.author.name }}</a>
     </span>
-    <a rel="noopener noreferrer" target="_link" href="{{ .Wm.url }}" class="u-url f7 no-link">{{ dateFormat "02 Jan 2006 3:04pm" .Wm.published }}</a>
+    <a rel="noopener noreferrer" target="_link" href="{{ .Wm.url }}" class="u-url f7">{{ dateFormat "02 Jan 2006 15:04" .Wm.published }}</a>
   </p>
-  <div class="post-text e-content p-name f6">{{ .Wm.content.text | safeHTML | truncate 300 }}</div>
+  <div class="post-text e-content p-name f6">{{ .Wm.content.text | truncate 300 | safeHTML }}</div>
 </div>

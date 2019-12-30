@@ -22,24 +22,28 @@
     {{ end }}
   {{ end }}
 
-  {{ with $layout.info }}
-  <div class="ph3 pv2 fw5 tracked ttu bg-light-gray">{{ . }}</div>
-  {{ end }}
-
   {{ if .Glob.Params.properties }}
     {{ $arr := index .Glob.Params.properties $layout.property }}
     {{ if $arr }}
       {{ $url := index $arr 0 }}
+      {{ $parsed := urls.Parse $url }}
+      {{ with $layout.info }}
+        <div class="ph3 pv2 bg-light-gray">
+          <span class="tracked ttu fw5">{{ . }}</span>
+        </div>
+      {{ end }}
+
       {{ $dataToShow := index .Glob.Site.Data.xray (sha256 $url) }}
-      {{ if $dataToShow }}
-      <div class='bg-near-white pa3'>
-        {{ partial "person" (dict "Wm" $dataToShow "Class" $layout.class) }}
-      </div>
+      {{ $partName := printf "posts/%s.html" (or $dataToShow.type "")}}
+      {{ if and $dataToShow (templates.Exists (printf "partials/%s" $partName )) }}
+        <div class='bg-near-white pa3'>
+          {{ partial $partName (dict "Wm" $dataToShow "Class" $layout.class) }}
+        </div>
       {{ else }}
-      <p class='fw5 ph3'>
-        <a href="{{ $url }}"  rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">{{ .Glob.Title }}</a>
-        ({{ $url }})
-      </p>
+        <p class='fw5 ph3'>
+          <a href="{{ $url }}"  rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">{{ .Glob.Title }}</a>
+          ({{ $parsed.Host }}{{ $parsed.Path }})
+        </p>
       {{ end }}
     {{ end}}
   {{ end }}
