@@ -1,7 +1,7 @@
+{{ $js := .Glob.Page.Resources.GetMatch "data/webmentions.json" -}}
+{{ with $js -}}
+{{ $data := .Content | transform.Unmarshal -}}
 <div class="bg-near-white pa3">
-  {{ $js := .Glob.Page.Resources.GetMatch "data/webmentions.json" -}}
-  {{ with $js -}}
-  {{ $data := .Content | transform.Unmarshal -}}
   {{ $likes := where $data "wm-property" "like-of" -}}
 
   {{ if gt (len $likes) 0 -}}
@@ -25,11 +25,11 @@
   {{ if gt (len $nonLikes) 0 -}}
     <p class="b f5 ma0 mb2">Webmentions</p>
 
-    {{ range $i, $data := $nonLikes -}}
+    {{ range $i, $data := sort $nonLikes "wm-received" "asc" -}}
     <div {{ if $i }}class="mt4"{{ end }}>
       {{ partial "posts/entry" (dict "Wm" $data "Class" "") -}}
     </div>
     {{ end -}}
   {{ end -}}
-  {{ end -}}
 </div>
+{{ end -}}
