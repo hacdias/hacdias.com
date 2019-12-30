@@ -2,8 +2,8 @@
 <script src="{{ $lazy.RelPermalink }}"></script>
 
 {{ $js := resources.Get "js/common.js" | resources.Minify }}
-<script src="{{ $js.RelPermalink }}"></script>
+<script src="{{ $js.RelPermalink }}?hash={{ md5 $js.Content }}"></script>
 
 {{ range $index, $res := .Resources.Match "*.js" }}
-  <script src="{{ $res.RelPermalink }}"></script>
+  <script src="{{ $res.RelPermalink }}?hash={{ md5 $res.Content }}"></script>
 {{ end }}

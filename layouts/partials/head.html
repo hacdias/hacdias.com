@@ -42,11 +42,11 @@
   {{- $glitch := resources.Get "css/glitch.css" }}
   {{- $main := resources.Get "css/main.css" }}
   {{- $css := slice $tachyons $main $glitch | resources.Concat "css/styles.css" | resources.Minify }}
-  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}?hash={{ md5 $css.Content }}">
 {{ end }}
 
 {{- range $index, $res := .Resources.Match "*.css" }}
-  <link rel="stylesheet" href="{{ $res.RelPermalink }}">
+  <link rel="stylesheet" href="{{ $res.RelPermalink }}?hash={{ md5 $res.Content }}">
 {{ end }}
 
 {{- with or .Params.emoji .Site.Params.emoji }}<link rel="icon" data-emoji="{{ . }}" type="image/png">{{ end }}
