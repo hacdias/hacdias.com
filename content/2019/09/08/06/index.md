@@ -4,7 +4,7 @@ categories:
 date: 2019-09-08T12:26:06.000Z
 properties:
   in-reply-to:
-    - 'https://twitter.com/hacdias/status/1170674605838802944'
+    - /2019/09/08/07/
   syndication:
     - 'https://twitter.com/hacdias/status/1170674672775704576'
 title: '3/ Um caso interessante para os alunos de Informática, é o f...'
