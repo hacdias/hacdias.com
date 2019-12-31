@@ -1,0 +1,13 @@
+---
+categories:
+  - notes
+date: 2017-09-11T16:02:30.000Z
+properties:
+  photo:
+    - 'https://pbs.twimg.com/media/DJdIHBkWAAAydKO.jpg'
+  syndication:
+    - 'https://twitter.com/hacdias/status/907273154002857984'
+title: Next time I'll be more careful when buying yoghurts in sale....
+---
+
+Next time I'll be more careful when buying yoghurts in sale. These are spicy!

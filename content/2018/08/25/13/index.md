@@ -1,0 +1,19 @@
+---
+categories:
+  - notes
+date: 2018-08-25T08:24:05.000Z
+properties:
+  categories: &ref_0
+    - ipfs
+  photo:
+    - 'https://pbs.twimg.com/media/DlboWfwWsAEjYRW.jpg'
+    - 'https://pbs.twimg.com/media/DlboWgTXgAAnxDR.jpg'
+    - 'https://pbs.twimg.com/media/DlboWh1XsAAcSli.jpg'
+    - 'https://pbs.twimg.com/media/DlboWjQX4AARGyU.jpg'
+  syndication:
+    - 'https://twitter.com/hacdias/status/1033268764849201152'
+tags: *ref_0
+title: 'Really excited about the new #IPFS WebUI - it has a lot of n...'
+---
+
+Really excited about the new #IPFS WebUI - it has a lot of new features and a much better design thanks to everyone involved! [@olizilla](https://twitter.com/olizilla) [@\_alanshaw](https://twitter.com/_alanshaw) [@agata\_krych](https://twitter.com/agata_krych) [@\_fsdiogo](https://twitter.com/_fsdiogo)
