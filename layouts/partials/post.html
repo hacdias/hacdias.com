@@ -57,6 +57,18 @@
     {{ end }}
   {{ end }}
 
+  {{ with .Glob.Params.properties.photo }}
+    {{ range .}}
+      <img class="u-photo" src="{{ . }}">
+    {{ end }}
+  {{ end }}
+
+  {{ with .Glob.Params.properties.video }}
+    {{ range .}}
+      <video class="u-video db center" src="{{ . }}" autoplay loop></video>
+    {{ end }}
+  {{ end }}
+
   {{ if $box }}<div class='ph3'>{{ end -}}
     {{ partial "post/footer" . }}
   {{ if $box }}</div>{{ end -}}
