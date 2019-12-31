@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Temporal | IPFSTemporal.eth",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/e31fdd7cc627b3dc3c87cbfad7e7f565680185795b2a02d38bcd287dcc5eab66.jpg",
+    "url": "https://twitter.com/Temporalcloud"
+  },
+  "url": "https://twitter.com/hacdias/status/1174802705006628865#favorited-by-1143620130393296898",
+  "published": null,
+  "wm-received": "2019-12-31T19:35:30Z",
+  "wm-id": 739370,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1174802705006628865/1143620130393296898",
+  "wm-target": "https://hacdias.com/2019/09/19/18/",
+  "like-of": "https://hacdias.com/2019/09/19/18/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

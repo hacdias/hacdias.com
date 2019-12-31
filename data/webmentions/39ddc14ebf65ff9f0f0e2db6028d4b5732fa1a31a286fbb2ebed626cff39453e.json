@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Upframe",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/08fe12ed6b10aa0d750bbfb286dc9aea98e75cfb0d315b3dc78aa192247a1a1d.jpg",
+    "url": "https://twitter.com/upframed"
+  },
+  "url": "https://twitter.com/hacdias/status/1208187419616595969#favorited-by-1153734814958333952",
+  "published": null,
+  "wm-received": "2019-12-31T19:52:10Z",
+  "wm-id": 739389,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1208187419616595969/1153734814958333952",
+  "wm-target": "https://hacdias.com/2019/12/21/04/",
+  "like-of": "https://hacdias.com/2019/12/21/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

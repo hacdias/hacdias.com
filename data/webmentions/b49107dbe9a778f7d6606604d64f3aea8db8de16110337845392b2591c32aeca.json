@@ -1,0 +1,21 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Florian Weil",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/d954331103b32edc3ca10edc0f21fb7fb4a01992a216aee5bca96129eb6530d9.png",
+    "url": "https://twitter.com/derhess"
+  },
+  "url": "https://twitter.com/derhess/status/1208295833201975296",
+  "published": "2019-12-21T07:59:10+00:00",
+  "wm-received": "2019-12-31T19:52:15Z",
+  "wm-id": 739391,
+  "wm-source": "https://brid-gy.appspot.com/repost/twitter/hacdias/1208187419616595969/1208295833201975296",
+  "wm-target": "https://hacdias.com/2019/12/21/04/",
+  "content": {
+    "text": "A quick dive into the dWeb with IPFS at @BarcampLx youtube.com/watch?v=EmxUyu…"
+  },
+  "repost-of": "https://hacdias.com/2019/12/21/04/",
+  "wm-property": "repost-of",
+  "wm-private": false
+}

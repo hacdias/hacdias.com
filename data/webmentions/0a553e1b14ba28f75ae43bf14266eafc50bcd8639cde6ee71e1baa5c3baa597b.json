@@ -1,0 +1,21 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Hector",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/91327952c086e734e64fc636b00348edb579dfe0bf5060c606a9b451e8b4aaeb.png",
+    "url": "https://twitter.com/hecturchi"
+  },
+  "url": "https://twitter.com/hecturchi/status/1208295785684713472",
+  "published": "2019-12-21T07:58:59+00:00",
+  "wm-received": "2019-12-31T19:52:16Z",
+  "wm-id": 739392,
+  "wm-source": "https://brid-gy.appspot.com/repost/twitter/hacdias/1208187419616595969/1208295785684713472",
+  "wm-target": "https://hacdias.com/2019/12/21/04/",
+  "content": {
+    "text": "A quick dive into the dWeb with IPFS at @BarcampLx youtube.com/watch?v=EmxUyu…"
+  },
+  "repost-of": "https://hacdias.com/2019/12/21/04/",
+  "wm-property": "repost-of",
+  "wm-private": false
+}

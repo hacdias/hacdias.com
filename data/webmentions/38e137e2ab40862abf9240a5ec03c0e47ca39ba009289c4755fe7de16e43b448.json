@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Ulisses Ferreira",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/d1a890fcf9904328162f7eccc9654a7066a3f41327c31c1edeb38168816f020b.jpg",
+    "url": "https://twitter.com/ulissesvf"
+  },
+  "url": "https://twitter.com/hacdias/status/1208187419616595969#favorited-by-952396703147200513",
+  "published": null,
+  "wm-received": "2019-12-31T19:51:41Z",
+  "wm-id": 739386,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1208187419616595969/952396703147200513",
+  "wm-target": "https://hacdias.com/2019/12/21/04/",
+  "like-of": "https://hacdias.com/2019/12/21/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

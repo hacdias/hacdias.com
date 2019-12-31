@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "STPHN",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/f83ffd08fb1904084bdc6b20e5052238f32f5526762527349a5decc238b9a7c4.jpg",
+    "url": "https://twitter.com/stphndrt"
+  },
+  "url": "https://twitter.com/hacdias/status/1178722388026036230#favorited-by-1058043971027517440",
+  "published": null,
+  "wm-received": "2019-12-31T19:50:04Z",
+  "wm-id": 739375,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1178722388026036230/1058043971027517440",
+  "wm-target": "https://hacdias.com/2019/09/30/02/",
+  "like-of": "https://hacdias.com/2019/09/30/02/",
+  "wm-property": "like-of",
+  "wm-private": false
+}
