@@ -1,0 +1,12 @@
+---
+categories:
+  - reposts
+date: 2019-10-10T15:18:50.000Z
+properties:
+  repost-of:
+    - 'https://twitter.com/machawk1/status/1181929288569950211'
+  syndication:
+    - 'https://twitter.com/hacdias/status/1182314554363121665'
+title: 'A toggle built into @brave enables IPFS, which previously re...'
+---
+
