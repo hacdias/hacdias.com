@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "url": "https://twitter.com/hacdias/status/1174739380633780225",
+  "author": {
+    "type": "card",
+    "nickname": "hacdias",
+    "location": "Portugal",
+    "bio": "Studying Computer Engineering at @istecnico. Digging into the decentralized web at @ProtocolLabs.",
+    "name": "Henrique Dias",
+    "url": "https://twitter.com/hacdias",
+    "photo": "https://pbs.twimg.com/profile_images/1133325379970711552/nA18D3Fg_normal.jpg"
+  },
+  "content": {
+    "text": "Hey Sawood! We're using Electron Builder to build IPFS Desktop and as of now it doesn't support building for Flatback. And it doesn't seem to be something they'll add in the near future unfortunately :'( https://github.com/electron-userland/electron-builder/issues/512",
+    "html": "Hey Sawood! We're using Electron Builder to build IPFS Desktop and as of now it doesn't support building for Flatback. And it doesn't seem to be something they'll add in the near future unfortunately :'( <a href=\"https://github.com/electron-userland/electron-builder/issues/512\">https://github.com/electron-userland/electron-builder/issues/512</a>"
+  },
+  "published": "2019-09-19T17:37:48+00:00",
+  "in-reply-to": [
+    "https://twitter.com/ibnesayeed/status/1174735040267210752"
+  ],
+  "post-type": "reply"
+}

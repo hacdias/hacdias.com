@@ -1,0 +1,21 @@
+{
+  "type": "entry",
+  "url": "https://twitter.com/hacdias/status/964593392561868801",
+  "author": {
+    "type": "card",
+    "nickname": "hacdias",
+    "location": "Portugal",
+    "bio": "Studying Computer Engineering at @istecnico. Digging into the decentralized web at @ProtocolLabs.",
+    "name": "Henrique Dias",
+    "url": "https://twitter.com/hacdias",
+    "photo": "https://pbs.twimg.com/profile_images/1133325379970711552/nA18D3Fg_normal.jpg"
+  },
+  "content": {
+    "text": "NP. Thank you 😄"
+  },
+  "published": "2018-02-16T20:12:40+00:00",
+  "in-reply-to": [
+    "https://twitter.com/andybons/status/964593056837140480"
+  ],
+  "post-type": "reply"
+}

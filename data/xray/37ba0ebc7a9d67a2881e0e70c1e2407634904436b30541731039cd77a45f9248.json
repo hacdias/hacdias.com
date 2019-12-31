@@ -1,0 +1,19 @@
+{
+  "type": "entry",
+  "url": "https://twitter.com/hacdias/status/1027615196112740354",
+  "author": {
+    "type": "card",
+    "nickname": "hacdias",
+    "location": "Portugal",
+    "bio": "Studying Computer Engineering at @istecnico. Digging into the decentralized web at @ProtocolLabs.",
+    "name": "Henrique Dias",
+    "url": "https://twitter.com/hacdias",
+    "photo": "https://pbs.twimg.com/profile_images/1133325379970711552/nA18D3Fg_normal.jpg"
+  },
+  "content": {
+    "text": "@travisci hello! I had a project on your .com (https://travis-ci.com/filebrowser/filebrowser/builds) and everything was building well until today. This morning the PRs stopped building and now it just says 'This project hasn’t been migrated'.",
+    "html": "<a href=\"https://twitter.com/travisci\">@travisci</a> hello! I had a project on your .com (<a href=\"https://travis-ci.com/filebrowser/filebrowser/builds\">https://travis-ci.com/filebrowser/filebrowser/builds</a>) and everything was building well until today. This morning the PRs stopped building and now it just says 'This project hasn’t been migrated'."
+  },
+  "published": "2018-08-09T17:58:49+00:00",
+  "post-type": "note"
+}

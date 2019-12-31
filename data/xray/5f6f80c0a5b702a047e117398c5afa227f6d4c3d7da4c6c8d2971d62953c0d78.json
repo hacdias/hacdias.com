@@ -1,0 +1,27 @@
+{
+  "type": "entry",
+  "url": "https://twitter.com/hacdias/status/1047590428923584512",
+  "author": {
+    "type": "card",
+    "nickname": "hacdias",
+    "location": "Portugal",
+    "bio": "Studying Computer Engineering at @istecnico. Digging into the decentralized web at @ProtocolLabs.",
+    "name": "Henrique Dias",
+    "url": "https://twitter.com/hacdias",
+    "photo": "https://pbs.twimg.com/profile_images/1133325379970711552/nA18D3Fg_normal.jpg"
+  },
+  "content": {
+    "text": "What about a new #IPFS Desktop? More connected to Web UI than ever with support to different connections and prettier! /cc @olizilla @_fsdiogo @daviddias",
+    "html": "What about a new #IPFS Desktop? More connected to Web UI than ever with support to different connections and prettier! /cc <a href=\"https://twitter.com/olizilla\">@olizilla</a> <a href=\"https://twitter.com/_fsdiogo\">@_fsdiogo</a> <a href=\"https://twitter.com/daviddias\">@daviddias</a>"
+  },
+  "published": "2018-10-03T20:53:16+00:00",
+  "category": [
+    "IPFS"
+  ],
+  "photo": [
+    "https://pbs.twimg.com/media/DonJhJxX4AAXID8.jpg",
+    "https://pbs.twimg.com/media/DonJoGaXUAA0A5Y.jpg",
+    "https://pbs.twimg.com/media/DonJoHXW0AEQmME.jpg"
+  ],
+  "post-type": "photo"
+}
