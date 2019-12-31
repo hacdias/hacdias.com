@@ -1,0 +1,17 @@
+---
+categories:
+  - notes
+date: 2019-01-28T16:14:00.000Z
+properties:
+  categories: &ref_0
+    - ipfs
+    - ipfsdesktop
+  syndication:
+    - 'https://twitter.com/hacdias/status/1089919531932364802'
+  video:
+    - 'https://video.twimg.com/tweet_video/DyAr-xAW0AAIhJJ.mp4'
+tags: *ref_0
+title: 'You''ll be able to add stuff to #IPFS via a context menu opti...'
+---
+
+You'll be able to add stuff to #IPFS via a context menu option on Windows! All of this through #IPFSDesktop! [https://github.com/ipfs-shipyard/ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop)
