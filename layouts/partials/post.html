@@ -42,7 +42,7 @@
         </div>
       {{ else }}
         <p class='fw5 ph3'>
-          <a href="{{ $url }}"  rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">{{ .Glob.Title }}</a>
+          <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">{{ .Glob.Title }}</a>
           ({{ $parsed.Host }}{{ $parsed.Path }})
         </p>
       {{ end }}
@@ -52,11 +52,9 @@
   {{ if $useSummary}}
     <div class='p-summary ph3'>{{ .Glob.Summary }}</div>
   {{ else }}
-
-  {{ with .Glob.Content }}
-    <div class='nested-copy-line-height {{ $layout.contentClass }}'>{{ . }}</div>
-  {{ end }}
-
+    {{ with .Glob.Content }}
+      <div class='nested-copy-line-height {{ $layout.contentClass }}'>{{ . }}</div>
+    {{ end }}
   {{ end }}
 
   {{ if $box }}<div class='ph3'>{{ end -}}
