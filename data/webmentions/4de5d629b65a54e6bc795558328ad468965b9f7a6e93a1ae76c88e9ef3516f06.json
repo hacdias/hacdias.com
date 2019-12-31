@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Carson Farmer",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/07a50937da935ec5297e073abd9a27bdc77630dbf1d495376c21589dcd1aabbc.jpg",
+    "url": "https://twitter.com/carsonfarmer"
+  },
+  "url": "https://twitter.com/hacdias/status/1174710214077112325#favorited-by-600943290",
+  "published": null,
+  "wm-received": "2019-12-31T19:17:13Z",
+  "wm-id": 739338,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1174710214077112325/600943290",
+  "wm-target": "https://hacdias.com/2019/09/19/04/",
+  "like-of": "https://hacdias.com/2019/09/19/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "@herestomwiththeweather@mastodon.social",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/ce4f2f04b015ad5bd826584ceac5e6dbf0c8c1b9be2bdce80df7bc7a1d83bdcd.jpeg",
+    "url": "https://twitter.com/tomwiththeweath"
+  },
+  "url": "https://twitter.com/hacdias/status/1174710214077112325#favorited-by-961661",
+  "published": null,
+  "wm-received": "2019-12-31T19:16:35Z",
+  "wm-id": 739334,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1174710214077112325/961661",
+  "wm-target": "https://hacdias.com/2019/09/19/04/",
+  "like-of": "https://hacdias.com/2019/09/19/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

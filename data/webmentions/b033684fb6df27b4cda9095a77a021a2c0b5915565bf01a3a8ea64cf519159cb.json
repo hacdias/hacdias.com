@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Filipe Dias",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/e9e542c477831abc26be82eae08225d8cf3c03761b4188fd09229882a168c8cd.jpg",
+    "url": "https://twitter.com/filipediasf"
+  },
+  "url": "https://twitter.com/hacdias/status/1174710214077112325#favorited-by-343922817",
+  "published": null,
+  "wm-received": "2019-12-31T19:17:26Z",
+  "wm-id": 739340,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1174710214077112325/343922817",
+  "wm-target": "https://hacdias.com/2019/09/19/04/",
+  "like-of": "https://hacdias.com/2019/09/19/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Lucid00",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/bd744c93cecead69e8d15b9fb917d6a83e70bd8a6e126528434521514fce2b1e.jpg",
+    "url": "https://twitter.com/Lucid00"
+  },
+  "url": "https://twitter.com/hacdias/status/1174710214077112325#favorited-by-3158131",
+  "published": null,
+  "wm-received": "2019-12-31T19:17:08Z",
+  "wm-id": 739337,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1174710214077112325/3158131",
+  "wm-target": "https://hacdias.com/2019/09/19/04/",
+  "like-of": "https://hacdias.com/2019/09/19/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Mat Kelly",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/371fa111ddaf8777bf99dd9e48ed2810ccbcdb3a06d0b0e348a0ce9beccdd87a.jpg",
+    "url": "https://twitter.com/machawk1"
+  },
+  "url": "https://twitter.com/hacdias/status/1174710214077112325#favorited-by-479894950",
+  "published": null,
+  "wm-received": "2019-12-31T19:18:32Z",
+  "wm-id": 739349,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1174710214077112325/479894950",
+  "wm-target": "https://hacdias.com/2019/09/19/04/",
+  "like-of": "https://hacdias.com/2019/09/19/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Molly",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/2b07531cff28ae39df24edc5557fbbdb8364e14f43fff9dbb7c0a129c978bde6.jpg",
+    "url": "https://twitter.com/momack28"
+  },
+  "url": "https://twitter.com/hacdias/status/1174710214077112325#favorited-by-2190757022",
+  "published": null,
+  "wm-received": "2019-12-31T19:16:58Z",
+  "wm-id": 739336,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1174710214077112325/2190757022",
+  "wm-target": "https://hacdias.com/2019/09/19/04/",
+  "like-of": "https://hacdias.com/2019/09/19/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

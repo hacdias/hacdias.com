@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "NukeManDan",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/0d46c73ec3a37594e50f783874d8ab9935add8230686ddad88f47bd105565cf4.jpg",
+    "url": "https://twitter.com/NukeManDan"
+  },
+  "url": "https://twitter.com/hacdias/status/1174710214077112325#favorited-by-961864393070792704",
+  "published": null,
+  "wm-received": "2019-12-31T19:16:49Z",
+  "wm-id": 739335,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1174710214077112325/961864393070792704",
+  "wm-target": "https://hacdias.com/2019/09/19/04/",
+  "like-of": "https://hacdias.com/2019/09/19/04/",
+  "wm-property": "like-of",
+  "wm-private": false
+}
