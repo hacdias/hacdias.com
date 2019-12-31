@@ -4,7 +4,7 @@ categories:
 date: 2018-02-16T20:13:37.000Z
 properties:
   in-reply-to:
-    - 'https://twitter.com/hacdias/status/964593392561868801'
+    - /2018/02/16/08/
   photo:
     - 'https://pbs.twimg.com/media/DWLsyy4WkAEjbQp.jpg'
   syndication:

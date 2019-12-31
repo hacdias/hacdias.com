@@ -4,7 +4,7 @@ categories:
 date: 2019-01-29T14:45:57.000Z
 properties:
   in-reply-to:
-    - 'https://twitter.com/hacdias/status/1090259721712427008'
+    - /2019/01/29/04/
   syndication:
     - 'https://twitter.com/hacdias/status/1090259760593592321'
   video:

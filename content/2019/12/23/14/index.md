@@ -4,7 +4,7 @@ categories:
 date: 2019-12-23T11:12:47.000Z
 properties:
   in-reply-to:
-    - 'https://twitter.com/hacdias/status/1209069124606996480'
+    - /2019/12/23/04/
   syndication:
     - 'https://twitter.com/hacdias/status/1209069336507375616'
 title: 'Here''s a video: https://www.nist.gov/si-redefinition...'

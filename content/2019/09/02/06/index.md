@@ -4,7 +4,7 @@ categories:
 date: 2019-09-02T18:33:30.000Z
 properties:
   in-reply-to:
-    - 'https://twitter.com/hacdias/status/1168582321102086144'
+    - /2019/09/02/08/
   photo:
     - 'https://pbs.twimg.com/media/EDes9WWX4AAmv--.jpg'
   syndication:
