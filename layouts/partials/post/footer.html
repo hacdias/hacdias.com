@@ -15,5 +15,11 @@
     </ul>
   </div>
 
+  {{ with .Glob.Params.properties.syndication }}
+  {{ range . }}
+    <a class='u-syndication dn' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
+  {{ end }}
+  {{ end }}
+
   {{ partial "author-meta" }}
 </footer>
