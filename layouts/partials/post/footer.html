@@ -1,6 +1,6 @@
 <footer>
   <div class='ma0 flex items-center f6 mv3'>
-    <time class='dib dt-published' datetime='{{ .Glob.Date.Format "2006-01-02" }}'>
+    <time class='dib dt-published' datetime='{{ .Glob.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
       <a href="{{ .Glob.RelPermalink }}" class="u-url {{ if eq .Mode "single"}}no-link{{ end }}">
       {{- .Glob.Date.Format "02 Jan 2006 15:04" }}
      </a>
