@@ -22,6 +22,7 @@ img {
 
 a {
   color: inherit;
+  word-wrap: break-word;
 }
 
 a:visited {
