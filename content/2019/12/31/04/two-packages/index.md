@@ -9,6 +9,8 @@ properties:
     - packages
     - indieauth
     - micropub
+  syndication:
+    - https://twitter.com/hacdias/status/1211996203514290176
   location:
     - properties:
         country: PRT
