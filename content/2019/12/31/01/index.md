@@ -15,8 +15,6 @@ properties:
         longitude: -8.29768
         region: Beja
       type: h-adr
-  photo:
-    - 'https://media.hacdias.com/file.jpg'
 tags: *ref_0
 title: 'Replied to https://mrkapowski.com/2019/12/10328.html'
 ---

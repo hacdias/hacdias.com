@@ -1,0 +1,13 @@
+---
+categories:
+  - replies
+date: 2017-08-13T19:51:00.000Z
+properties:
+  in-reply-to:
+    - 'https://twitter.com/hacdias/status/896821323632128001'
+  syndication:
+    - 'https://twitter.com/hacdias/status/896821408411656192'
+title: "Think about this when feeling down \U0001F602\U0001F602..."
+---
+
+Think about this when feeling down 😂😂
