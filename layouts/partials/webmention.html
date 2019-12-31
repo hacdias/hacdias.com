@@ -6,7 +6,7 @@
   {{ if gt (len .likes) 0 -}}
     <p class="b f5 ma0 mb2">Likes</p>
 
-    <div style="margin-left: 0.6em;" class="mb3">
+    <div style="margin-left: 0.6em;">
       {{ range .likes -}}
       {{ with index $webmentions . }}
       <span class="p-like h-cite" style="margin-left: -0.6rem">
@@ -23,7 +23,7 @@
   {{ end -}}
 
   {{ if gt (len .others) 0 -}}
-    <p class="b f5 ma0 mb2">Webmentions</p>
+    <p class="b f5 ma0 mt3 mb2">Webmentions</p>
 
     {{ range $i, $sha := .others -}}
     <div {{ if $i }}class="mt4"{{ end }}>
