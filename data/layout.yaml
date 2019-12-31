@@ -1,5 +1,5 @@
 default: &default
-  contentClass: e-content
+  contentClass: e-content ph3
 
 notes:
   <<: *default
