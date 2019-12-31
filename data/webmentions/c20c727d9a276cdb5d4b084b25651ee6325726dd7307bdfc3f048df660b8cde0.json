@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Aaron Parecki",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/f07249c434b454a7b67209ca9ea1ee9d32768a0d9c368561b128566c441c27aa.png",
+    "url": "https://twitter.com/aaronpk"
+  },
+  "url": "https://twitter.com/hacdias/status/1211996203514290176#favorited-by-14447132",
+  "published": null,
+  "wm-received": "2019-12-31T16:48:25Z",
+  "wm-id": 739292,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1211996203514290176/14447132",
+  "wm-target": "https://hacdias.com/2019/12/31/04/two-packages/",
+  "like-of": "https://hacdias.com/2019/12/31/04/two-packages/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

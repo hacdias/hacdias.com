@@ -1,14 +1,14 @@
-{{ $js := .Glob.Page.Resources.GetMatch "data/webmentions.json" -}}
+{{ $webmentions := .Glob.Site.Data.webmentions -}}
+{{ $index := $webmentions.index }}
+{{ $js := index $index .Glob.RelPermalink -}}
 {{ with $js -}}
-{{ $data := .Content | transform.Unmarshal -}}
 <div class="bg-near-white pa3">
-  {{ $likes := where $data "wm-property" "like-of" -}}
-
-  {{ if gt (len $likes) 0 -}}
+  {{ if gt (len .likes) 0 -}}
     <p class="b f5 ma0 mb2">Likes</p>
 
     <div style="margin-left: 0.6em;" class="mb3">
-      {{ range  $likes -}}
+      {{ range .likes -}}
+      {{ with index $webmentions . }}
       <span class="p-like h-cite" style="margin-left: -0.6rem">
         <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="u-url no-link">
           <span class="p-author h-card">
@@ -18,16 +18,16 @@
         </a>
       </span>
       {{ end -}}
+      {{ end -}}
     </div>
   {{ end -}}
 
-  {{ $nonLikes := where $data "wm-property" "!=" "like-of" -}}
-  {{ if gt (len $nonLikes) 0 -}}
+  {{ if gt (len .others) 0 -}}
     <p class="b f5 ma0 mb2">Webmentions</p>
 
-    {{ range $i, $data := sort $nonLikes "wm-received" "asc" -}}
+    {{ range $i, $sha := .others -}}
     <div {{ if $i }}class="mt4"{{ end }}>
-      {{ partial "posts/entry" (dict "Wm" $data "Class" "") -}}
+      {{ partial "posts/entry" (dict "Wm" (index $webmentions $sha) "Class" "") -}}
     </div>
     {{ end -}}
   {{ end -}}

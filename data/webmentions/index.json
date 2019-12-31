@@ -1,0 +1,62 @@
+{
+  "/2019/12/31/04/two-packages/": {
+    "likes": [
+      "c20c727d9a276cdb5d4b084b25651ee6325726dd7307bdfc3f048df660b8cde0",
+      "3d595d496e9fb69f5b37e69be3919c562afd2d1d532568f5db4d5204dcac6f87",
+      "61de09a795daf29872c86cedd43bf49c9a4002b870c0942999e1813bd5c71453"
+    ],
+    "others": []
+  },
+  "/": {
+    "likes": [
+      "3d595d496e9fb69f5b37e69be3919c562afd2d1d532568f5db4d5204dcac6f87",
+      "beedb824977b6537d6d988f370b4de3432d44250b387a462292e9df5b649ef79"
+    ],
+    "others": [
+      "7fcb60a21a3b374c7adc2d4be6085e3188571b6e450563c33e777a906734730e",
+      "e7cb4d7e68b6fa81d7920755e3ab8d0882642a02c5f3ad88bf78718ea71d6c89"
+    ]
+  },
+  "/2019/12/30/09/using-indieauth/": {
+    "likes": [
+      "beedb824977b6537d6d988f370b4de3432d44250b387a462292e9df5b649ef79",
+      "5826da7dc2a8ed55d2d589c1ba45533f8b2be419350e9590ac7148e6b05af42d",
+      "31b615e5f969b08f59ff34bcbe5aa3b1505864aa50d0df627b42d85602e7d70e"
+    ],
+    "others": [
+      "29289e5e974b07429e5d1d00fe24e7ce984ace9efc170555208971c386f13dd5"
+    ]
+  },
+  "/2019/12/30/05/webmention-test/": {
+    "likes": [],
+    "others": [
+      "95428226fd3b76110499a641c42b0043a96063ee001005c95dccd405a981fc2d"
+    ]
+  },
+  "/2019/12/29/06/": {
+    "likes": [],
+    "others": [
+      "7fcb60a21a3b374c7adc2d4be6085e3188571b6e450563c33e777a906734730e"
+    ]
+  },
+  "/2019/12/29/02/": {
+    "likes": [],
+    "others": [
+      "e7cb4d7e68b6fa81d7920755e3ab8d0882642a02c5f3ad88bf78718ea71d6c89"
+    ]
+  },
+  "/2019/12/24/01/own-your-data/": {
+    "likes": [
+      "fb84e4b1dd47590b54a64b1d82ee8e562d3f242b30d70dbcdcdebb066ed61b21",
+      "863a83eeb1373d778462418a405169769072edc671e1a5b4099898f508325d92",
+      "55bf8ae082d07ef8dfeb17b6ba3444299ad546b6e412fe5a96aa9d20955cc240"
+    ],
+    "others": [
+      "f860fcc6f640789ff6576f3400433df83447e840d8bc407505877b3e4bfc1064",
+      "84397744d144bae73de554d0d2b2bf4eabd70187298c1234012c0072f0fb8b50",
+      "2a43bd81d58dee90863324ca1966fed308a39237f2f8f60388e70afdfa67d542",
+      "8d22a180fb1885106c5b6904070e5c560ff601c34f5fb4880255de8a79139fea",
+      "a73dacc20540c878521dabdeb833279e71d6e44ef28be87821307f0e4463e3b3"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Matej Nemček 孔子 💫🎋",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/4b21931e89650087648df28e93a826f4d8c5a4ae5565a96cc3aefd1119b3d9b1.jpg",
+    "url": "https://twitter.com/yangWao"
+  },
+  "url": "https://twitter.com/yangWao/status/1209783690437500928",
+  "published": "2019-12-25T10:31:23+00:00",
+  "wm-received": "2019-12-27T17:48:21Z",
+  "wm-id": 738206,
+  "wm-source": "https://brid-gy.appspot.com/post/twitter/hacdias/1209783690437500928",
+  "wm-target": "https://hacdias.com/2019/12/24/01/own-your-data/",
+  "content": {
+    "html": "Do you realize we are living in cages of bigger companies? \nThat's what we call web 2.0\n\nCustomize your cover, avatar, desc,..\nAdd collections, achievements, life events\nShare with network.\n\nLearning curve of making own web is steep.\n\n<a href=\"https://twitter.com/search?q=%23ownyourdata\">#ownyourdata</a> <a href=\"https://hacdias.com/2019/12/own-your-data/\">hacdias.com/2019/12/own-yo…</a>\n\n<a class=\"u-mention\" href=\"https://hacdias.com/2019/12/24/01/own-your-data/\"></a>",
+    "text": "Do you realize we are living in cages of bigger companies? \nThat's what we call web 2.0\n\nCustomize your cover, avatar, desc,..\nAdd collections, achievements, life events\nShare with network.\n\nLearning curve of making own web is steep.\n\n#ownyourdata hacdias.com/2019/12/own-yo…"
+  },
+  "mention-of": "https://hacdias.com/2019/12/24/01/own-your-data/",
+  "wm-property": "mention-of",
+  "wm-private": false
+}

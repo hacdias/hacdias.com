@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "André Breda 🍞",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/e4799b1dd38c71b32dacb74f0a2fcc2e5217b9330e674d678276d37014a245e9.jpg",
+    "url": "https://twitter.com/abredabread"
+  },
+  "url": "https://twitter.com/hacdias/status/1209572902426828806#favorited-by-802279955480645632",
+  "published": null,
+  "wm-received": "2019-12-27T20:54:51Z",
+  "wm-id": 738268,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1209572902426828806/802279955480645632",
+  "wm-target": "https://hacdias.com/2019/12/24/01/own-your-data/",
+  "like-of": "https://hacdias.com/2019/12/24/01/own-your-data/",
+  "wm-property": "like-of",
+  "wm-private": false
+}

@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Matej Nemček 孔子 💫🎋",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/4b21931e89650087648df28e93a826f4d8c5a4ae5565a96cc3aefd1119b3d9b1.jpg",
+    "url": "https://twitter.com/yangWao"
+  },
+  "url": "https://twitter.com/yangWao/status/1209783879458054144",
+  "published": "2019-12-25T10:32:08+00:00",
+  "wm-received": "2019-12-27T21:20:43Z",
+  "wm-id": 738280,
+  "wm-source": "https://brid-gy.appspot.com/comment/twitter/hacdias/1209572902426828806/1209783879458054144",
+  "wm-target": "https://hacdias.com/2019/12/24/01/own-your-data/",
+  "content": {
+    "html": "Well written 👏💆\nRT'd with thoughts 😋\n<a href=\"https://twitter.com/search?q=%23ownyourdata\">#ownyourdata</a>\n\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+    "text": "Well written 👏💆\nRT'd with thoughts 😋\n#ownyourdata"
+  },
+  "in-reply-to": "https://hacdias.com/2019/12/24/01/own-your-data/",
+  "wm-property": "in-reply-to",
+  "wm-private": false
+}
