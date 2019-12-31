@@ -19,6 +19,22 @@
     "photo": "https://hacdias.com/me.jpg"
   },
   "post-type": "reply",
+  "refs": {
+    "https://hacdias.com/2019/09/02/04/": {
+      "type": "entry",
+      "url": "https://hacdias.com/2019/09/02/04/",
+      "content": {
+        "text": "Tenho o comboio às 19.55 na Funcheira. Era para ter saído de Faro às 18.15. Mas… que serviço é este? Ainda nem saiu e já tem 35 minutos de atraso… and counting!"
+      },
+      "author": {
+        "type": "card",
+        "name": "Henrique Dias",
+        "url": "https://hacdias.com/",
+        "photo": "https://hacdias.com/me.jpg"
+      },
+      "post-type": "note"
+    }
+  },
   "rels": {
     "canonical": "https://hacdias.com/2019/09/02/08/"
   }
