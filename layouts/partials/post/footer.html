@@ -1,9 +1,9 @@
 <footer>
   <div class='ma0 flex items-center f6 mv3'>
     <time class='dib dt-published' datetime='{{ .Glob.Date.Format "2006-01-02" }}'>
-      {{- if eq .Mode "list"}}<a href="{{ .Glob.RelPermalink }}">{{ end }}
+      <a href="{{ .Glob.RelPermalink }}" class="u-url {{ if eq .Mode "single"}}no-link{{ end }}">
       {{- .Glob.Date.Format "02 Jan 2006 15:04" }}
-      {{- if eq .Mode "list"}}</a>{{ end -}}
+     </a>
     </time>
 
     <ul class='list pa0 ma0 dib ml-auto'>
