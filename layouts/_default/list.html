@@ -7,11 +7,13 @@
 		<div class='nested-copy-line-height'>{{ . }}</div>
 	{{ end }}
 
-	{{ range $i, $p := .Pages }}
-		{{ $type := (lower (index (or $p.Params.categories (slice "")) 0 )) }}
-		{{ $data := (dict "Glob" $p "Type" $type "Mode" "list") }}
+	{{ range .Paginator.Pages }}
+		{{ $type := (lower (index (or .Params.categories (slice "")) 0 )) }}
+		{{ $data := (dict "Glob" . "Type" $type "Mode" "list") }}
 		{{ partial "post" $data }}
 	{{ end }}
+
+	{{ partial "pagination" . -}}
 </main>
 
 {{ end }}
