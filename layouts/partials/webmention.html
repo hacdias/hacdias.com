@@ -8,16 +8,18 @@
 
     <div style="margin-left: 0.6em;">
       {{ range .likes -}}
-      {{ with index $webmentions . }}
-      <span class="p-like h-cite" style="margin-left: -0.6rem">
-        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="u-url no-link">
-          <span class="p-author h-card">
-            <img class="w2 h2 br-100 u-photo" src="{{ .author.photo }}">
-            <a style="display:none;" class="p-name u-url" href="{{ .author.url }}   ">{{ .author.name -}}</a>
-          </span>
-        </a>
-      </span>
-      {{ end -}}
+        {{ with index $webmentions . -}}
+          {{ if not (eq (index . "wm-private") "true") -}}
+            <span class="p-like h-cite" style="margin-left: -0.6rem">
+              <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="u-url no-link">
+                <span class="p-author h-card">
+                  <img class="w2 h2 br-100 u-photo" src="{{ .author.photo }}">
+                  <a style="display:none;" class="p-name u-url" href="{{ .author.url }}   ">{{ .author.name -}}</a>
+                </span>
+              </a>
+            </span>
+          {{ end -}}
+        {{ end -}}
       {{ end -}}
     </div>
   {{ end -}}
@@ -26,9 +28,13 @@
     <p class="b f5 ma0 mt3 mb2">Webmentions</p>
 
     {{ range $i, $sha := .others -}}
-    <div {{ if $i }}class="mt4"{{ end }}>
-      {{ partial "posts/entry" (dict "Wm" (index $webmentions $sha) "Class" "") -}}
-    </div>
+      {{ with (index $webmentions $sha) -}}
+        {{ if not (eq (index . "wm-private") "true") -}}
+          <div {{ if $i }}class="mt4"{{ end }}>
+            {{ partial "posts/entry" (dict "Wm" . "Class" "") -}}
+          </div>
+        {{ end -}}
+      {{ end -}}
     {{ end -}}
   {{ end -}}
 </div>
