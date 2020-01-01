@@ -13,6 +13,8 @@ properties:
         longitude: -8.29791
         region: Beja
       type: h-adr
+  syndication:
+    - https://twitter.com/hacdias/status/1212163359480700928
 title: "Welcome 2020 \U0001F387"
 ---
 
