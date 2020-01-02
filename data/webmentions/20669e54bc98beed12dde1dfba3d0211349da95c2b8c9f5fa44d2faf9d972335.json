@@ -1,0 +1,25 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Henrique Dias",
+    "photo": "https://webmention.io/avatar/hacdias.com/6cc1ed2bbaedaa80116524ef8fe89556c057b5c4cf116875bf979dd5390f5b33.jpg",
+    "url": "https://hacdias.com/"
+  },
+  "url": "https://hacdias.com/2020/01/02/7/",
+  "published": "2020-01-02T23:45:24",
+  "wm-received": "2020-01-02T23:45:35Z",
+  "wm-id": 740215,
+  "wm-source": "https://hacdias.com/2020/01/02/7/",
+  "wm-target": "https://hacdias.com/2020/01/02/6/dynamic-static/",
+  "content": {
+    "html": "<p>@aaronpk @t I would personally love some of your thoughts or pointers on this :) Any advice?</p>",
+    "text": "@aaronpk @t I would personally love some of your thoughts or pointers on this :) Any advice?"
+  },
+  "in-reply-to": "https://hacdias.com/2020/01/02/6/dynamic-static/",
+  "wm-property": "in-reply-to",
+  "wm-private": false,
+  "rels": {
+    "canonical": "https://hacdias.com/2020/01/02/7/"
+  }
+}
