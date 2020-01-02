@@ -1,0 +1,39 @@
+{
+  "type": "entry",
+  "url": "https://twitter.com/DARA3G_/status/1212537909934526464",
+  "author": {
+    "type": "card",
+    "nickname": "DARA3G_",
+    "location": "",
+    "bio": "",
+    "name": "x",
+    "url": "https://twitter.com/DARA3G_",
+    "photo": "https://pbs.twimg.com/profile_images/1192600634501074944/rsAebUIy_normal.jpg"
+  },
+  "content": {
+    "text": "Part 2"
+  },
+  "published": "2020-01-02T00:55:40+00:00",
+  "quotation-of": "https://twitter.com/hacdias/status/1212329437066342400",
+  "refs": {
+    "https://twitter.com/hacdias/status/1212329437066342400": {
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1212329437066342400",
+      "author": {
+        "type": "card",
+        "nickname": "hacdias",
+        "location": "Portugal",
+        "bio": "Studying Computer Engineering at @istecnico. Digging into the decentralized web at @ProtocolLabs.",
+        "name": "Henrique Dias",
+        "url": "https://twitter.com/hacdias",
+        "photo": "https://pbs.twimg.com/profile_images/1133325379970711552/nA18D3Fg_normal.jpg"
+      },
+      "content": {
+        "text": "I wonder... how automatic this is?"
+      },
+      "published": "2020-01-01T11:07:16+00:00",
+      "post-type": "note"
+    }
+  },
+  "post-type": "note"
+}

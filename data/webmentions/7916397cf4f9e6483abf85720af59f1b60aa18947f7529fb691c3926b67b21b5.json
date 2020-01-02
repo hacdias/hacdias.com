@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "x",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/dcb35f7bda9c08a8eca4ed7e3794500e015cf302d79b43e9184b6b7d4390faa7.jpg",
+    "url": "https://twitter.com/DARA3G_"
+  },
+  "url": "https://twitter.com/DARA3G_/status/1212537943593750528",
+  "published": "2020-01-02T00:55:48+00:00",
+  "wm-received": "2020-01-02T08:25:38Z",
+  "wm-id": 739952,
+  "wm-source": "https://brid-gy.appspot.com/post/twitter/hacdias/1212537943593750528",
+  "wm-target": "https://hacdias.com/2020/01/01/05/meta/",
+  "content": {
+    "html": "Part 3\n<a class=\"u-mention\" href=\"https://hacdias.com/2020/01/01/05/meta/\"></a>",
+    "text": "Part 3"
+  },
+  "mention-of": "https://hacdias.com/2020/01/01/05/meta/",
+  "wm-property": "mention-of",
+  "wm-private": false
+}
