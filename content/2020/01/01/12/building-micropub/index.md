@@ -29,7 +29,7 @@ Apart from that, I’m mostly calling APIs directly: I’m relying a lot on some
 
 The current status is that I pass almost all the tests provided by [micropub.rocks](https://micropub.rocks) even though I’m not satisfied with the solution I’ve come across. Why?
 
-First of all, if you’ve been following me for more time, you might’ve came across an [old blog post] talking about how I am using [Hugo](https://gohugo.io) to generate my website. But that is not the only “problem” of this: I’m also using IPFS to store my website for the folks using it. So there’s quite a few constraints.
+First of all, if you’ve been following me for more time, you might’ve came across an [old blog post](../../../../../2015/08/12/01/farewell-wordpress-hello-hugo/) talking about how I am using [Hugo](https://gohugo.io) to generate my website. But that is not the only “problem” of this: I’m also using IPFS to store my website for the folks using it. So there’s quite a few constraints.
 
 ## Problems
 ### Build Speed and Complexity
@@ -37,7 +37,7 @@ It needs to build fast so every time I post something new, I don’t need to wai
 
 It takes ~1s to build on my machine and ~3s on my server which is definitely not ideal. I don’t know why this is taking so much time.
 
-In addition, the complexity of my themes is really big and that might be caused by the not-so-high flexibility of Hugo and Go templates. There are template languages that are more flexible and static website generators that allow plugins, such as Jekyll — not an option since I need speed —or 11ty.
+In addition, the complexity of my themes is really big and that might be caused by the not-so-high flexibility of Hugo and Go templates. There are template languages that are more flexible and static website generators that allow plugins, such as Jekyll — not an option since I need speed — or 11ty.
 
 ### Static
 All links must be relative and the site must be 100% static. Any dynamic stuff must be done on the client-side so it plays well with IPFS and other distributed technologies that don’t support server-side rendering.
