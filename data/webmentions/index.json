@@ -235,9 +235,18 @@
     ]
   },
   "/2020/01/02/6/dynamic-static/": {
-    "likes": [],
+    "likes": [
+      "13c1a0afe44b7fc0aa10091ce9c7a0fc5616d86521111ec075c91ca367166554"
+    ],
     "others": [
-      "20669e54bc98beed12dde1dfba3d0211349da95c2b8c9f5fa44d2faf9d972335"
+      "20669e54bc98beed12dde1dfba3d0211349da95c2b8c9f5fa44d2faf9d972335",
+      "4a80e24329c5d4ee01eea931e05932478e0873f79ea60006cdae72f7e8f82994"
     ]
+  },
+  "/2020/01/02/7/": {
+    "likes": [
+      "25cd9446a71b1a3cacfd8f05fdccd26f508c2903359f76af2eddeb162980db55"
+    ],
+    "others": []
   }
 }
