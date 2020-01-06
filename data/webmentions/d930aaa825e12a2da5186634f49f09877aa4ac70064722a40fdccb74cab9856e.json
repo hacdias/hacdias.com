@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Diogo Redin",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/72ff63cb0c754e92d4b38d36e73699a7e3ef38b4ef8927bde628f63d1493ce6f.jpg",
+    "url": "https://twitter.com/DiogoRedin"
+  },
+  "url": "https://twitter.com/hacdias/status/1214322750963290112#favorited-by-144560866",
+  "published": null,
+  "wm-received": "2020-01-06T23:55:32Z",
+  "wm-id": 741942,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1214322750963290112/144560866",
+  "wm-target": "https://hacdias.com/2020/01/06/1/it-s-been-quite/",
+  "like-of": "https://hacdias.com/2020/01/06/1/it-s-been-quite/",
+  "wm-property": "like-of",
+  "wm-private": false
+}
