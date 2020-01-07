@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Malik",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/f7313b1cb4a56fd1db3c2722cf657abdc51c1de55ab9fbfacc2557d1288cadc4.jpg",
+    "url": "https://twitter.com/malikpiara"
+  },
+  "url": "https://twitter.com/hacdias/status/1214322750963290112#favorited-by-1028353082206367744",
+  "published": null,
+  "wm-received": "2020-01-07T01:15:46Z",
+  "wm-id": 741976,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1214322750963290112/1028353082206367744",
+  "wm-target": "https://hacdias.com/2020/01/06/1/it-s-been-quite/",
+  "like-of": "https://hacdias.com/2020/01/06/1/it-s-been-quite/",
+  "wm-property": "like-of",
+  "wm-private": false
+}
