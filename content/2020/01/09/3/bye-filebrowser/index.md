@@ -5,6 +5,8 @@ categories:
   - notes
 date: 2020-01-09T18:14:56.589Z
 properties:
+  syndication:
+    - https://twitter.com/hacdias/status/1215336460888477696
   category: &ref_0
     - goals
     - opensource
