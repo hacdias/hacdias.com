@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Yusadolat ☸ 🐳",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/a7389112bab9c3e079d5613121c65df4050dce933b84b0dc3b5308281fe93d46.jpg",
+    "url": "https://twitter.com/Yusadolat"
+  },
+  "url": "https://twitter.com/Yusadolat/status/1215338522498027520",
+  "published": "2020-01-09T18:24:18+00:00",
+  "wm-received": "2020-01-09T19:50:49Z",
+  "wm-id": 742785,
+  "wm-source": "https://brid-gy.appspot.com/comment/twitter/hacdias/1215336460888477696/1215338522498027520",
+  "wm-target": "https://hacdias.com/2020/01/09/3/bye-filebrowser/",
+  "content": {
+    "html": "Our internal Media server runs on File browser and we enjoy it.\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+    "text": "Our internal Media server runs on File browser and we enjoy it."
+  },
+  "in-reply-to": "https://hacdias.com/2020/01/09/3/bye-filebrowser/",
+  "wm-property": "in-reply-to",
+  "wm-private": false
+}

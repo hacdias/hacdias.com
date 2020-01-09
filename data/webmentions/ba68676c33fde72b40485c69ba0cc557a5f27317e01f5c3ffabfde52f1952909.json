@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "dietrich",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/e34186d95cc5ea4219d1d1b7f31bc3c3f96dde2da1522da324c39de2daa8cbfb.jpg",
+    "url": "https://twitter.com/dietrich"
+  },
+  "url": "https://twitter.com/dietrich/status/1215325001294856192",
+  "published": "2020-01-09T17:30:34+00:00",
+  "wm-received": "2020-01-09T19:53:08Z",
+  "wm-id": 742791,
+  "wm-source": "https://brid-gy.appspot.com/comment/twitter/hacdias/1215294494511452169/1215325001294856192",
+  "wm-target": "https://hacdias.com/2020/01/09/1/finally-the-ma/",
+  "content": {
+    "html": "I want interop between both, and also the Android app. SSB spec seems a bit fluxy.\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+    "text": "I want interop between both, and also the Android app. SSB spec seems a bit fluxy."
+  },
+  "in-reply-to": "https://hacdias.com/2020/01/09/1/finally-the-ma/",
+  "wm-property": "in-reply-to",
+  "wm-private": false
+}

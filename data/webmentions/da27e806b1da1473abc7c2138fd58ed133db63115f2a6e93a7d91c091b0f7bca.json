@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Henrique Dias",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/927fff5318454f2cd3c794045620c71cb1023ab0c5fd2663b02ee71668566c6e.jpg",
+    "url": "https://twitter.com/hacdias"
+  },
+  "url": "https://twitter.com/hacdias/status/1215354456717611008",
+  "published": "2020-01-09T19:27:37+00:00",
+  "wm-received": "2020-01-09T19:51:32Z",
+  "wm-id": 742786,
+  "wm-source": "https://brid-gy.appspot.com/comment/twitter/hacdias/1215336460888477696/1215354456717611008",
+  "wm-target": "https://hacdias.com/2020/01/09/3/bye-filebrowser/",
+  "content": {
+    "html": "@Yusadolat Unless you want me to hand you over the project so you maintain it, I'm not unarchiving the repositories. You can still download the published releases. Or fork it.\n<a class=\"u-mention\" href=\"https://twitter.com/Yusadolat\"></a>",
+    "text": "@Yusadolat Unless you want me to hand you over the project so you maintain it, I'm not unarchiving the repositories. You can still download the published releases. Or fork it."
+  },
+  "in-reply-to": "https://hacdias.com/2020/01/09/3/bye-filebrowser/",
+  "wm-property": "in-reply-to",
+  "wm-private": false
+}
