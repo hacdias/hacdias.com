@@ -1,0 +1,9 @@
+{
+  "type": "card",
+  "name": "Daniel Goldsmith",
+  "url": "https://ascraeus.org/",
+  "photo": "https://ascraeus.org/pictures/marvin.png",
+  "rels": {
+    "canonical": "https://ascraeus.org/"
+  }
+}
