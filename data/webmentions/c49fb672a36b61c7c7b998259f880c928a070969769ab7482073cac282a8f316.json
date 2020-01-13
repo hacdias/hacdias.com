@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Franklin",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/61f36d83303a872dd1b04e359d5eddc27ce71da2581314cca4d11ecc17b75732.jpg",
+    "url": "https://twitter.com/chinamanblue"
+  },
+  "url": "https://twitter.com/hacdias/status/1215294494511452169#favorited-by-29209753",
+  "published": null,
+  "wm-received": "2020-01-13T04:03:09Z",
+  "wm-id": 743693,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1215294494511452169/29209753",
+  "wm-target": "https://hacdias.com/2020/01/09/1/finally-the-ma/",
+  "like-of": "https://hacdias.com/2020/01/09/1/finally-the-ma/",
+  "wm-property": "like-of",
+  "wm-private": false
+}
