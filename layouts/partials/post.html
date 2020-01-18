@@ -36,7 +36,7 @@
       {{ $dataToShow := index .Glob.Site.Data.xray (sha256 $url) }}
       {{ $partName := printf "posts/%s.html" (or $dataToShow.type "")}}
       {{ if and $dataToShow (templates.Exists (printf "partials/%s" $partName )) }}
-        <div class='bg-near-white pa3'>
+        <div class='bg-near-white br2 br--top pa3'>
           {{ partial $partName (dict "Wm" $dataToShow "Class" $layout.class) }}
         </div>
       {{ else }}

@@ -295,7 +295,7 @@ body#dark {
 }
 
 #dark .bg-near-white {
-  background-color: #555555;
+  background-color: #121212;
 }
 
 #dark .bg-light-gray {
@@ -312,4 +312,9 @@ body#dark {
   border: 1px solid #eee;
   background: #fff;
   text-align: center;
+}
+
+#dark .badge {
+  border-color: #333;
+  background: #000;
 }
