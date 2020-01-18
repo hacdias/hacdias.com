@@ -2,7 +2,7 @@
 {{ $box := or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") -}}
 {{ $isList := eq .Mode "list" -}}
 {{ $useSummary := false }}
-<article class='h-entry {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
+<article class='h-entry relative {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
   {{ if or (eq .Type "blog") (eq .Type "") -}}
     {{ if $isList -}}
       <header>
@@ -28,10 +28,9 @@
     {{ if $arr }}
       {{ $url := index $arr 0 }}
       {{ $parsed := urls.Parse $url }}
-      {{ with $layout.info }}
-        <div class="ph3 pv2 bg-light-gray">
-          <span class="tracked ttu fw5">{{ . }}</span>
-        </div>
+
+      {{ with $layout.emoji }}
+        <span class="absolute badge">{{ . }}</span>
       {{ end }}
 
       {{ $dataToShow := index .Glob.Site.Data.xray (sha256 $url) }}

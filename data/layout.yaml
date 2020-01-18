@@ -7,25 +7,25 @@ notes:
 
 bookmarks:
   <<: *default
-  info: 🔖 Bookmark
+  emoji: 🔖
   property: bookmark-of
   class: u-bookmark-of h-cite p-name
 
 replies:
   <<: *default
-  info: 💬 Reply
+  emoji: 💬
   property: in-reply-to
   class: u-in-reply-to
   contentClass: e-content p-name ph3
 
 likes:
   <<: *default
-  info: 👍 Like
+  emoji: 👍
   property: like-of
   class: u-like-of
 
 reposts:
   <<: *default
-  info: 📣 Repost
+  emoji: 📣
   property: repost-of
   class: u-repost-of

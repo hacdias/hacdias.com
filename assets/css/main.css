@@ -301,3 +301,15 @@ body#dark {
 #dark .bg-light-gray {
   background-color: #333333;
 }
+
+.badge {
+  right: -0.5rem;
+  top: -0.5rem;
+  border-radius: 100%;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.2rem 0.4rem;
+  border: 1px solid #eee;
+  background: #fff;
+  text-align: center;
+}
