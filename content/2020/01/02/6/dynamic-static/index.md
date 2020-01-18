@@ -11,6 +11,8 @@ tags:
   - dogfood
 categories:
   - blog
+aliases:
+  - /2020/01/02/6/
 ---
 
 After digressing a bit about [building a Micropub](../../../../../2020/01/01/12/building-micropub/) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.
