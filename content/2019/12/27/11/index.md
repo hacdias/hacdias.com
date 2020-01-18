@@ -6,7 +6,7 @@ date: 2019-12-27T22:25:55.226Z
 description: null
 properties:
   bookmark-of:
-    - 'https://devhints.io/'
+    - 'https://devhints.io'
   category: &ref_0
     - webdev
 tags: *ref_0

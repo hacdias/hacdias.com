@@ -4,7 +4,7 @@ categories:
 date: 2019-12-29T15:50:55.132Z
 properties:
   bookmark-of:
-    - 'https://pinata.cloud/'
+    - 'https://pinata.cloud'
   category: &ref_0
     - ipfs
     - dweb

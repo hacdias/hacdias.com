@@ -6,7 +6,7 @@ date: 2019-12-27T19:53:50.223Z
 description: null
 properties:
   bookmark-of:
-    - 'https://scuttlebutt.nz/'
+    - 'https://scuttlebutt.nz'
   category: &ref_0
     - dweb
     - ssb
