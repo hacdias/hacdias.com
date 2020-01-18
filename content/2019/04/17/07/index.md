@@ -8,7 +8,7 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1118443012420452353'
   video:
-    - 'https://video.twimg.com/tweet_video/D4WB0I9WAAEmDOh.mp4'
+    - D4WB0I9WAAEmDOh.mp4
 tags: *ref_0
 title: 'My first attempt at #pixelart: [@istecnico](https://twitter....'
 ---

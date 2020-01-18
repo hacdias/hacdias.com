@@ -6,7 +6,7 @@ properties:
   in-reply-to:
     - /2018/02/16/08/
   photo:
-    - 'https://pbs.twimg.com/media/DWLsyy4WkAEjbQp.jpg'
+    - DWLsyy4WkAEjbQp.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/964593630861316096'
 title: Uh?...

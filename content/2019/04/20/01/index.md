@@ -8,7 +8,7 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1119567421910724608'
   video:
-    - 'https://video.twimg.com/tweet_video/D4mAkijW4AEb36F.mp4'
+    - D4mAkijW4AEb36F.mp4
 title: "Some extravaganza for those who enjoy it \U0001F308..."
 ---
 

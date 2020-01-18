@@ -8,7 +8,7 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/901809045346111490'
   video:
-    - 'https://video.twimg.com/tweet_video/DIPeiGxWAAA96p9.mp4'
+    - DIPeiGxWAAA96p9.mp4
 title: "Shame... \U0001F6CE Shame... \U0001F6CE #got #walkofshame #gameofthrones #du..."
 ---
 

@@ -6,7 +6,7 @@ properties:
   categories: &ref_0
     - opensource
   photo:
-    - 'https://pbs.twimg.com/media/DFkT04AXgAAmjym.jpg'
+    - DFkT04AXgAAmjym.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/889764392073666560'
 tags: *ref_0

@@ -6,9 +6,9 @@ properties:
   categories: &ref_0
     - ipfs
   photo:
-    - 'https://pbs.twimg.com/media/DonJhJxX4AAXID8.jpg'
-    - 'https://pbs.twimg.com/media/DonJoGaXUAA0A5Y.jpg'
-    - 'https://pbs.twimg.com/media/DonJoHXW0AEQmME.jpg'
+    - DonJhJxX4AAXID8.jpg
+    - DonJoGaXUAA0A5Y.jpg
+    - DonJoHXW0AEQmME.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/1047590428923584512'
 tags: *ref_0

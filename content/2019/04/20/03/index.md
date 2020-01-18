@@ -9,7 +9,7 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1119566555141017605'
   video:
-    - 'https://video.twimg.com/tweet_video/D4l_xxzXsAIe1Kg.mp4'
+    - D4l_xxzXsAIe1Kg.mp4
 tags: *ref_0
 title: Here's an animation with some creatures only Portuguese peop...
 ---

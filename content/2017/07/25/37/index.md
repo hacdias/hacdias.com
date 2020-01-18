@@ -8,7 +8,7 @@ properties:
     - paint3d
     - fakenews
   photo:
-    - 'https://pbs.twimg.com/media/DFkhGTiXoAADkSf.jpg'
+    - DFkhGTiXoAADkSf.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/889778974741716992'
 tags: *ref_0

@@ -6,7 +6,7 @@ properties:
   categories: &ref_0
     - pixel\_dailies
   photo:
-    - 'https://pbs.twimg.com/media/D4eJ4CkWsAALLOx.jpg'
+    - D4eJ4CkWsAALLOx.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/1119014633778614272'
 tags: *ref_0

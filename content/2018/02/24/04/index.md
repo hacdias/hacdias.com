@@ -6,7 +6,7 @@ properties:
   categories: &ref_0
     - prolog
   photo:
-    - 'https://pbs.twimg.com/media/DW0olkZVAAAxRLj.png'
+    - DW0olkZVAAAxRLj.png
   syndication:
     - 'https://twitter.com/hacdias/status/967474209940295680'
 tags: *ref_0

@@ -6,10 +6,10 @@ properties:
   categories: &ref_0
     - ipfs
   photo:
-    - 'https://pbs.twimg.com/media/DlboWfwWsAEjYRW.jpg'
-    - 'https://pbs.twimg.com/media/DlboWgTXgAAnxDR.jpg'
-    - 'https://pbs.twimg.com/media/DlboWh1XsAAcSli.jpg'
-    - 'https://pbs.twimg.com/media/DlboWjQX4AARGyU.jpg'
+    - DlboWfwWsAEjYRW.jpg
+    - DlboWgTXgAAnxDR.jpg
+    - DlboWh1XsAAcSli.jpg
+    - DlboWjQX4AARGyU.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/1033268764849201152'
 tags: *ref_0

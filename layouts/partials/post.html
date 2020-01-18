@@ -58,13 +58,15 @@
 
   {{ with .Glob.Params.properties.photo }}
     {{ range .}}
-      <img class="u-photo db mv2 center" src="{{ . }}">
+      {{ $img := $.Glob.Page.Resources.GetMatch . -}}
+      <img class="u-photo db mv2 center" src="{{ $img.RelPermalink }}">
     {{ end }}
   {{ end }}
 
   {{ with .Glob.Params.properties.video }}
     {{ range .}}
-      <video class="u-video db mv2 center" src="{{ . }}" autoplay loop></video>
+      {{ $video := $.Glob.Page.Resources.GetMatch . -}}
+      <video class="u-video db mv2 center" src="{{ $video.RelPermalink }}" autoplay loop></video>
     {{ end }}
   {{ end }}
 

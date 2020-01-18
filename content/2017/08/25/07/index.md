@@ -8,7 +8,7 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/901108306873376768'
   video:
-    - 'https://video.twimg.com/tweet_video/DIFhOMaXgAAwa9z.mp4'
+    - DIFhOMaXgAAwa9z.mp4
 title: Aquele momento em que só descobri a série do Sherlock 7 anos...
 ---
 

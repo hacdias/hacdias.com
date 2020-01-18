@@ -4,7 +4,7 @@ categories:
 date: 2017-07-28T06:57:49.000Z
 properties:
   photo:
-    - 'https://pbs.twimg.com/media/DFzb5e4WsAAjZkP.jpg'
+    - DFzb5e4WsAAjZkP.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/890828625695715328'
 title: '"Our task is to find singular ways to create the new things...'

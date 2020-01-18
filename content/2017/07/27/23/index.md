@@ -7,7 +7,7 @@ properties:
     - windows
     - design
   photo:
-    - 'https://pbs.twimg.com/media/DFwvxtsXUAAinv7.jpg'
+    - DFwvxtsXUAAinv7.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/890639504197005313'
 tags: *ref_0

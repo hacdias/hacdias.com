@@ -6,7 +6,7 @@ properties:
   categories: &ref_0
     - hyperjs
   photo:
-    - 'https://pbs.twimg.com/media/DTfrlmGWsAAUZ9d.jpg'
+    - DTfrlmGWsAAUZ9d.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/952489124434448384'
 tags: *ref_0

@@ -8,8 +8,7 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1191011348303536128'
   video:
-    - >-
-      https://video.twimg.com/ext_tw_video/1191011239511629825/pu/vid/592x1280/8yfauepva2RFLaE3.mp4?tag=10
+    - 8yfauepva2RFLaE3.mp4
 tags: *ref_0
 title: Just added a manual toggle to my website where you can pick...
 ---

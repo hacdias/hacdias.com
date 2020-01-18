@@ -7,7 +7,7 @@ properties:
     - golang
     - trending
   photo:
-    - 'https://pbs.twimg.com/media/DFw4t0jXcAAkElO.jpg'
+    - DFw4t0jXcAAkElO.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/890649342293495808'
 tags: *ref_0

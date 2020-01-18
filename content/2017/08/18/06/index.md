@@ -4,7 +4,7 @@ categories:
 date: 2017-08-18T09:56:00.000Z
 properties:
   photo:
-    - 'https://pbs.twimg.com/media/DHgN9cUXsAEm4Oe.jpg'
+    - DHgN9cUXsAEm4Oe.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/898483609673379841'
 title: 'File Manager just got a thousand stars on [@github](https://...'

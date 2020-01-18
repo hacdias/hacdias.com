@@ -8,7 +8,7 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/889551338962649088'
   video:
-    - 'https://video.twimg.com/tweet_video/DFhSMsVXkAITO-z.mp4'
+    - DFhSMsVXkAITO-z.mp4
 tags: *ref_0
 title: 'Here''s a gif of filemanager''s plugin for [@caddyserver](http...'
 ---

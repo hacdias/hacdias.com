@@ -4,7 +4,7 @@ categories:
 date: 2018-08-06T17:35:55.000Z
 properties:
   photo:
-    - 'https://pbs.twimg.com/media/Dj7wWzSXcAAa9ri.jpg'
+    - Dj7wWzSXcAAa9ri.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/1026522267398885376'
 title: '[@NotionHQ](https://twitter.com/NotionHQ) some suggestion fo...'

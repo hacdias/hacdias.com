@@ -9,7 +9,7 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1089919531932364802'
   video:
-    - 'https://video.twimg.com/tweet_video/DyAr-xAW0AAIhJJ.mp4'
+    - DyAr-xAW0AAIhJJ.mp4
 tags: *ref_0
 title: 'You''ll be able to add stuff to #IPFS via a context menu opti...'
 ---

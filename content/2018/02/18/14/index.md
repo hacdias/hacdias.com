@@ -4,7 +4,7 @@ categories:
 date: 2018-02-18T09:09:40.000Z
 properties:
   photo:
-    - 'https://pbs.twimg.com/media/DWTn3C7WsAEiS8-.jpg'
+    - DWTn3C7WsAEiS8-.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/965151318007537664'
 title: '[@disqus](https://twitter.com/disqus) the Status report seem...'

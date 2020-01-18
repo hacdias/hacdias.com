@@ -8,7 +8,7 @@ properties:
     - london
     - photography
   photo:
-    - 'https://pbs.twimg.com/media/DFgPBTrXcAAdZHF.jpg'
+    - DFgPBTrXcAAdZHF.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/889477645943148544'
 tags: *ref_0

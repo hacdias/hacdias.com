@@ -6,7 +6,7 @@ properties:
   categories: &ref_0
     - studentlife
   photo:
-    - 'https://pbs.twimg.com/media/DWakRJzX0AA-9G3.jpg'
+    - DWakRJzX0AA-9G3.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/965639889546108928'
 tags: *ref_0

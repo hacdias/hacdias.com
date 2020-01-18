@@ -4,7 +4,7 @@ categories:
 date: 2018-01-17T21:27:06.000Z
 properties:
   photo:
-    - 'https://pbs.twimg.com/media/DTxd4vEXUAU79NR.jpg'
+    - DTxd4vEXUAU79NR.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/953740488439410690'
 title: 'Lovely error messages [@github](https://twitter.com/github)...'

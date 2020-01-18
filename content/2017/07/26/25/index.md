@@ -7,7 +7,7 @@ properties:
     - trending
     - opensource
   photo:
-    - 'https://pbs.twimg.com/media/DFprhu8XkAYjxRF.jpg'
+    - DFprhu8XkAYjxRF.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/890142138582929408'
 tags: *ref_0
