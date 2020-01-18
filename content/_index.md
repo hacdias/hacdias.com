@@ -63,6 +63,6 @@ that I happen to enjoy.
 [tw]:  https://twitter.com/hacdias
 [gh]: https://github.com/hacdias
 [ig]: https://instagram.com/hacdias
-[mail]: mailto:hacdias@gmail.com
+[mail]: mailto:mail@hacdias.com
 [pgp]: https://keybase.io/hacdias/pgp_keys.asc
 [bmc]: https://www.buymeacoffee.com/hacdias
