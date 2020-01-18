@@ -204,7 +204,7 @@
 
 #dark .glitch:after,
 #dark .glitch:before {
-  background: #111111;
+  background: #000000;
 }
 
 @media (prefers-reduced-motion: reduce) {
