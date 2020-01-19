@@ -318,3 +318,7 @@ body#dark {
   border-color: #333;
   background: #000;
 }
+
+#dark .hover-bg-black-10:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
