@@ -1,0 +1,18 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Moellus",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/90282703213bbec786fa77ec027bd9fe4152fb16613dff5942790db7182e7a72.jpg",
+    "url": "https://twitter.com/moellus"
+  },
+  "url": "https://twitter.com/hacdias/status/1215294494511452169#favorited-by-1161481",
+  "published": null,
+  "wm-received": "2020-01-11T11:22:02Z",
+  "wm-id": 743316,
+  "wm-source": "https://brid-gy.appspot.com/like/twitter/hacdias/1215294494511452169/1161481",
+  "wm-target": "https://hacdias.com/2020/01/09/1/finally-the-ma/",
+  "like-of": "https://hacdias.com/2020/01/09/1/finally-the-ma/",
+  "wm-property": "like-of",
+  "wm-private": false
+}
