@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Miguel Hugo Regouga",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/0b63680fae14d6368be2329b609df8144eddc375f0399280e9c2a9f678ed50ff.jpg",
+    "url": "https://twitter.com/regouga"
+  },
+  "url": "https://twitter.com/regouga/status/1219029693455917056",
+  "published": "2020-01-19T22:51:42+00:00",
+  "wm-received": "2020-01-19T23:15:45Z",
+  "wm-id": 746127,
+  "wm-source": "https://brid-gy.appspot.com/comment/twitter/hacdias/1219029282074300416/1219029693455917056",
+  "wm-target": "https://hacdias.com/2020/01/19/6/",
+  "content": {
+    "html": "Dava para levar mesmo para fora do Spotify, para até conseguires ir mais atrás. Por exemplo ao fazeres scan dos barcodes dos CDs que tens em casa e que ouvias quando eras puto\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+    "text": "Dava para levar mesmo para fora do Spotify, para até conseguires ir mais atrás. Por exemplo ao fazeres scan dos barcodes dos CDs que tens em casa e que ouvias quando eras puto"
+  },
+  "in-reply-to": "https://hacdias.com/2020/01/19/6/",
+  "wm-property": "in-reply-to",
+  "wm-private": false
+}

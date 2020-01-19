@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+    "type": "card",
+    "name": "Henrique Dias",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/927fff5318454f2cd3c794045620c71cb1023ab0c5fd2663b02ee71668566c6e.jpg",
+    "url": "https://twitter.com/hacdias"
+  },
+  "url": "https://twitter.com/hacdias/status/1219030992683487233",
+  "published": "2020-01-19T22:56:51+00:00",
+  "wm-received": "2020-01-19T23:15:51Z",
+  "wm-id": 746128,
+  "wm-source": "https://brid-gy.appspot.com/comment/twitter/hacdias/1219029282074300416/1219030992683487233",
+  "wm-target": "https://hacdias.com/2020/01/19/6/",
+  "content": {
+    "html": "Pronto, para quem tem, seria bastante interessante. No meu caso, só tenho lá uns 4 CDs haha. O resto era dos meus pais, mas sim, seria bastante interessante.\n<a class=\"u-mention\" href=\"https://twitter.com/regouga\"></a>",
+    "text": "Pronto, para quem tem, seria bastante interessante. No meu caso, só tenho lá uns 4 CDs haha. O resto era dos meus pais, mas sim, seria bastante interessante."
+  },
+  "in-reply-to": "https://hacdias.com/2020/01/19/6/",
+  "wm-property": "in-reply-to",
+  "wm-private": false
+}
