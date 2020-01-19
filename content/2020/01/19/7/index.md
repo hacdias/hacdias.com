@@ -9,6 +9,8 @@ properties:
     - software
   in-reply-to:
     - 'https://twitter.com/regouga/status/1219029693455917056'
+  syndication:
+    - https://twitter.com/hacdias/status/1219030992683487233
   location:
     - 'geo:38.74488,-9.13456;u=5088'
 tags: *ref_0
