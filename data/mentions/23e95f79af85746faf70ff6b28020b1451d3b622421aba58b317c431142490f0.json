@@ -1,0 +1,14 @@
+[
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1212517049035038720#favorited-by-799574",
+    "date": "2020-01-02T00:14:38.000Z",
+    "private": false,
+    "wm-id": 739838,
+    "author": {
+      "name": "dietrich",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e34186d95cc5ea4219d1d1b7f31bc3c3f96dde2da1522da324c39de2daa8cbfb.jpg",
+      "url": "https://twitter.com/dietrich"
+    }
+  }
+]

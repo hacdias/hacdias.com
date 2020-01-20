@@ -1,0 +1,62 @@
+[
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1214322750963290112#favorited-by-167414251",
+    "date": "2020-01-07T11:16:58.000Z",
+    "private": false,
+    "wm-id": 742102,
+    "author": {
+      "name": "tmk 🏳️‍🌈",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad287adf2e1f233b5fc6299342005b3127d2ea91b1b55efea6c01b1db0074ddc.jpg",
+      "url": "https://twitter.com/TheMrKiko"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1214322750963290112#favorited-by-841224515816427520",
+    "date": "2020-01-07T08:28:35.000Z",
+    "private": false,
+    "wm-id": 742068,
+    "author": {
+      "name": "Agata Krych",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20303b77da8fe90aca4a472e41910324950608252d07e4fc9fe16fba35980b85.jpg",
+      "url": "https://twitter.com/agata_krych"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1214322750963290112#favorited-by-1028353082206367744",
+    "date": "2020-01-07T01:15:46.000Z",
+    "private": false,
+    "wm-id": 741976,
+    "author": {
+      "name": "Malik",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7313b1cb4a56fd1db3c2722cf657abdc51c1de55ab9fbfacc2557d1288cadc4.jpg",
+      "url": "https://twitter.com/malikpiara"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1214322750963290112#favorited-by-740760151",
+    "date": "2020-01-07T00:54:08.000Z",
+    "private": false,
+    "wm-id": 741970,
+    "author": {
+      "name": "Sil",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d9a387ed0ca46cd04af04e874fbca7b62ca393fd86e93af83a632dc7724c662c.jpg",
+      "url": "https://twitter.com/DanielSil30"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1214322750963290112#favorited-by-144560866",
+    "date": "2020-01-06T23:55:32.000Z",
+    "private": false,
+    "wm-id": 741942,
+    "author": {
+      "name": "Diogo Redin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/72ff63cb0c754e92d4b38d36e73699a7e3ef38b4ef8927bde628f63d1493ce6f.jpg",
+      "url": "https://twitter.com/DiogoRedin"
+    }
+  }
+]

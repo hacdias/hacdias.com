@@ -1,0 +1,66 @@
+[
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1215294494511452169#favorited-by-29209753",
+    "date": "2020-01-13T04:03:09.000Z",
+    "private": false,
+    "wm-id": 743693,
+    "author": {
+      "name": "Franklin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/61f36d83303a872dd1b04e359d5eddc27ce71da2581314cca4d11ecc17b75732.jpg",
+      "url": "https://twitter.com/chinamanblue"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1215294494511452169#favorited-by-1161481",
+    "date": "2020-01-11T11:22:02.000Z",
+    "private": false,
+    "wm-id": 743316,
+    "author": {
+      "name": "Moellus",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/90282703213bbec786fa77ec027bd9fe4152fb16613dff5942790db7182e7a72.jpg",
+      "url": "https://twitter.com/moellus"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1215294494511452169#favorited-by-772442381450878977",
+    "date": "2020-01-11T09:54:03.000Z",
+    "private": false,
+    "wm-id": 743305,
+    "author": {
+      "name": "William Richard Shaw",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/006f5ef8926391ec104cc9b9c4933c770b7050e342203dc68ad97d3c5c7364a7.jpg",
+      "url": "https://twitter.com/wrichard_shaw"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1215294494511452169#favorited-by-35444603",
+    "date": "2020-01-10T13:16:50.000Z",
+    "private": false,
+    "wm-id": 743138,
+    "author": {
+      "name": "Alan Shaw",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/545502011b12a54fdb5206e81cbc96447f9b0b134bd62902549824dd69e05f9d.jpg",
+      "url": "https://twitter.com/_alanshaw"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://twitter.com/dietrich/status/1215325001294856192",
+    "date": "2020-01-09T17:30:34.000Z",
+    "private": false,
+    "wm-id": 742791,
+    "content": {
+      "html": "I want interop between both, and also the Android app. SSB spec seems a bit fluxy.\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+      "text": "I want interop between both, and also the Android app. SSB spec seems a bit fluxy."
+    },
+    "author": {
+      "name": "dietrich",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e34186d95cc5ea4219d1d1b7f31bc3c3f96dde2da1522da324c39de2daa8cbfb.jpg",
+      "url": "https://twitter.com/dietrich"
+    }
+  }
+]

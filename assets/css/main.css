@@ -284,12 +284,10 @@ body#dark {
 }
 
 .comment {
-  min-height: 3rem;
+  min-height: 2rem;
 }
 
 .comment .u-photo {
-  width: 3rem;
-  height: 3rem;
   left: 0;
   top: 0;
 }
@@ -321,4 +319,23 @@ body#dark {
 
 #dark .hover-bg-black-10:hover {
   background-color: rgba(255, 255, 255, 0.2);
+}
+
+.mentions {
+  line-height: 1;
+}
+
+.mentions .u-photo {
+  top: 0;
+  left: 0;
+}
+
+.mentions > div > div {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+  min-height: 1rem;
+}
+
+.mentions > div:last-child > div {
+  margin-bottom: 0;
 }

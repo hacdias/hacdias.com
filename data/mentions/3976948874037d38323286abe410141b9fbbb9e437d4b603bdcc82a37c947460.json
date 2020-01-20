@@ -1,0 +1,53 @@
+[
+  {
+    "type": "repost",
+    "url": "https://twitter.com/ZipperHost/status/1211886342088613888",
+    "date": "2019-12-31T05:46:34.000Z",
+    "private": false,
+    "wm-id": 739215,
+    "content": {
+      "text": "Here's how to enable #indieauth on your own website! It's a really interesting authorization method I've never heard about before searching"
+    },
+    "author": {
+      "name": "ZipperHost",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/89e4a1a488a9bdbf87206044697ddded5e51ae40df0323df063a6d0e4d5b5296.jpg",
+      "url": "https://twitter.com/ZipperHost"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://aaronparecki.com/2019/12/30/22/",
+    "date": "2019-12-30T00:00:00.000Z",
+    "private": false,
+    "wm-id": 739073,
+    "author": {
+      "name": "Aaron Parecki",
+      "photo": "https://webmention.io/avatar/aaronparecki.com/41061f9de825966faa22e9c42830e1d4a614a321213b4575b9488aa93f89817a.jpg",
+      "url": "https://aaronparecki.com/"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1211797283525812224#favorited-by-1205973839970222083",
+    "date": "2019-12-31T00:17:01.000Z",
+    "private": false,
+    "wm-id": 739036,
+    "author": {
+      "name": "ZipperHost",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/89e4a1a488a9bdbf87206044697ddded5e51ae40df0323df063a6d0e4d5b5296.jpg",
+      "url": "https://twitter.com/ZipperHost"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1211797283525812224#favorited-by-844035216",
+    "date": "2019-12-31T00:17:01.000Z",
+    "private": false,
+    "wm-id": 739035,
+    "author": {
+      "name": "prince biomass",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/07b660ff3d6d09f0d324b2b663a7d4b509c6c423f8ba378242f000c0acb84858.jpg",
+      "url": "https://twitter.com/princebiomass"
+    }
+  }
+]
