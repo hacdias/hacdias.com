@@ -12,3 +12,4 @@ This is a sorted list of blogs I follow:
 - [Jan-Lukas Else](https://jlelse.blog/)
 - [Jeff Atwood](https://blog.codinghorror.com/)
 - [Tantek Çelik](http://tantek.com/)
+- [Tom MacWright](https://macwright.org/)
