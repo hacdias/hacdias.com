@@ -6,7 +6,7 @@ description:  >
   and creepy experiments. Weird things can happen, you can feel dizzy, be aware of dragons. 🐉
   Be aware! Or they will bite you.
 menu:
-  main:
+  footer:
     weight: 5
 layout: simple-list
 ---
