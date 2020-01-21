@@ -1,8 +1,12 @@
 ---
-type:  page
-title: Now
-emoji: ⏱
-date:  2020-01-21T15:06:00.000Z
+type:         page
+title:        Now
+emoji:        ⏱
+date:         2020-01-21T15:06:00.000Z
+description:  >
+  This is a simple page for me to join the nownownow movement.
+  You can find information about what I'm doing at the moment and
+  some other curious information.
 menu:
   main:
     weight: 5
