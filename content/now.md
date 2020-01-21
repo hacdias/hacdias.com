@@ -8,7 +8,7 @@ menu:
     weight: 5
 ---
 
-It is ⏱<span id="hours"></span>, 🌡<span id="weather_c"></span>ºC  and <span id="weather_desc"></span> in my location. My phone is <span id="plugged"></span> and its battery is at 🔋<span id="battery"></span>%.
+<span id="info">Loading information...</span>
 
 ---
 
@@ -19,10 +19,6 @@ fetch('https://hacdias.com/api/now')
   .then(b => b.json())
   .then(({ time, battery, plugged, weather }) => {
     const date = new Date(time)
-    document.getElementById('hours').innerText = `${date.getHours()}:${date.getMinutes()}`
-    document.getElementById('weather_c').innerText = weather.value.toFixed(1)
-    document.getElementById('weather_desc').innerText = weather.desc.toLowerCase()
-    document.getElementById('plugged').innerText = plugged ? 'plugged' : 'unplugged'
-    document.getElementById('battery').innerText = Math.floor(battery * 100)
+    document.getElementById('info').innerHTML = `It is ⏱${date.getHours()}:${date.getMinutes()}, 🌡${weather.value.toFixed(1)}ºC and ${weather.desc.toLowerCase()} in my location. My phone is ${plugged ? 'plugged' : 'unplugged'} and its battery is at 🔋${Math.floor(battery * 100)}%.`
   })
 </script>
