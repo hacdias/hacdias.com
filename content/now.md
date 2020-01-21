@@ -19,6 +19,6 @@ fetch('https://hacdias.com/api/now')
   .then(b => b.json())
   .then(({ time, battery, plugged, weather }) => {
     const date = new Date(time)
-    document.getElementById('info').innerHTML = `It is ⏱${date.getHours()}:${date.getMinutes()}, 🌡${weather.value.toFixed(1)}ºC and ${weather.desc.toLowerCase()} in my location. My phone is ${plugged ? 'plugged' : 'unplugged'} and its battery is at 🔋${Math.floor(battery * 100)}%.`
+    document.getElementById('info').innerHTML = `It is ⏱${date.getHours()}:${date.getMinutes().toString().padStart(2, '0')}, 🌡${weather.value.toFixed(1)}ºC and ${weather.desc.toLowerCase()} in my location. My phone is ${plugged ? 'plugged' : 'unplugged'} and its battery is at 🔋${Math.floor(battery * 100)}%.`
   })
 </script>
