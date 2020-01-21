@@ -9,6 +9,7 @@ summarylength: 30
 relativeURLs: true
 enableRobotsTXT: true
 pygmentsCodeFences: true
+summaryLength: 150
 
 social:
   twitter: hacdias

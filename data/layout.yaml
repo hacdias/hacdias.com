@@ -3,7 +3,7 @@ default: &default
 
 notes:
   <<: *default
-  contentClass: e-content p-name ph3
+  contentClass: e-content p-name ph3-ns
 
 bookmarks:
   <<: *default
@@ -16,7 +16,7 @@ replies:
   emoji: 💬
   property: in-reply-to
   class: u-in-reply-to
-  contentClass: e-content p-name ph3
+  contentClass: e-content p-name ph3-ns
 
 likes:
   <<: *default
