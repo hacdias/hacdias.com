@@ -2,11 +2,11 @@
 {{ $box := or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") -}}
 {{ $isList := eq .Mode "list" -}}
 {{ $useSummary := false }}
-<article style='word-break: break-word;' class='h-entry relative {{ if $box }}ba-ns bb br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
+<article style='word-break: break-word;' class='h-entry relative {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
   {{ if or (eq .Type "blog") (eq .Type "") -}}
     {{ if $isList -}}
       <header>
-        <h1 class='mv2 p-name f3 ph3-ns'>{{ .Glob.Title }}</h1>
+        <h1 class='mv2 p-name f3 ph3'>{{ .Glob.Title }}</h1>
       </header>
 
       {{ $useSummary = true}}
@@ -49,7 +49,7 @@
   {{ end }}
 
   {{ if $useSummary}}
-    <div class='p-summary ph3-ns'>{{ .Glob.Summary }}</div>
+    <div class='p-summary ph3'>{{ .Glob.Summary }}</div>
   {{ else }}
     {{ with .Glob.Content }}
       <div class='nested-copy-line-height {{ $layout.contentClass }}'>{{ . }}</div>
@@ -70,7 +70,7 @@
     {{ end }}
   {{ end }}
 
-  {{ if $box }}<div class='ph3-ns'>{{ end -}}
+  {{ if $box }}<div class='ph3'>{{ end -}}
     {{ partial "post/footer" . }}
   {{ if $box }}</div>{{ end -}}
 
