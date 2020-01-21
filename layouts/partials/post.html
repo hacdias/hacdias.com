@@ -2,25 +2,14 @@
 {{ $box := or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") -}}
 {{ $isList := eq .Mode "list" -}}
 {{ $useSummary := false }}
-<article style='word-break: break-word;' class='h-entry relative {{ if $box }}ba br2 b--light-gray{{ end }} {{ if $isList }}mv3{{ end }}'>
+<article class='h-entry {{ if $box }}box{{ end }}'>
   {{ if or (eq .Type "blog") (eq .Type "") -}}
-    {{ if $isList -}}
-      <header>
-        <h1 class='mv2 p-name f3 ph3'>{{ .Glob.Title }}</h1>
-      </header>
-
-      {{ $useSummary = true}}
-    {{ else -}}
-      {{ $img := .Glob.Page.Resources.GetMatch "*cover*" -}}
-      {{ with $img -}}
-        <figure class='full'>
-          <img loading='lazy' id='banner' class='db mt0 mb3' src='{{ .RelPermalink }}'>
-        </figure>
-      {{ end -}}
-      <header {{ if not $img }}class='mt4'{{ end }}>
-        <h1 class='mv2 p-name f2'>{{ .Glob.Title }}</h1>
-      </header>
+    {{ if not .Params.hideTitle }}
+    <header>
+      <h1 class='p-name'>{{ .Glob.Title }}</h1>
+    </header>
     {{ end }}
+    {{ $useSummary = $isList }}
   {{ end }}
 
   {{ if .Glob.Params.properties }}
@@ -30,17 +19,15 @@
       {{ $parsed := urls.Parse $url }}
 
       {{ with $layout.emoji }}
-        <span class="absolute badge">{{ . }}</span>
+        <div class="badge"><span>{{ . }}</span></div>
       {{ end }}
 
       {{ $dataToShow := index .Glob.Site.Data.xray (sha256 $url) }}
       {{ $partName := printf "posts/%s.html" (or $dataToShow.type "")}}
       {{ if and $dataToShow (templates.Exists (printf "partials/%s" $partName )) }}
-        <div class='bg-near-white br2 br--top pa3'>
-          {{ partial $partName (dict "Wm" $dataToShow "Class" $layout.class) }}
-        </div>
+        {{ partial $partName (dict "Wm" $dataToShow "Class" $layout.class) }}
       {{ else }}
-        <p class='fw5 ph3-ns'>
+        <p class='copy'>
           <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">{{ .Glob.Title }}</a>
           ({{ $parsed.Host }}{{ $parsed.Path }})
         </p>
@@ -49,30 +36,28 @@
   {{ end }}
 
   {{ if $useSummary}}
-    <div class='p-summary ph3'>{{ .Glob.Summary }}</div>
+    <div class='copy p-summary'><p>{{ .Glob.Summary }}</p></div>
   {{ else }}
     {{ with .Glob.Content }}
-      <div class='nested-copy-line-height {{ $layout.contentClass }}'>{{ . }}</div>
+      <div class='copy {{ $layout.contentClass }}'>{{ . }}</div>
     {{ end }}
   {{ end }}
 
   {{ with .Glob.Params.properties.photo }}
     {{ range .}}
       {{ $img := $.Glob.Page.Resources.GetMatch . -}}
-      <img class="u-photo db mv2 center" src="{{ $img.RelPermalink }}">
+      <img style="margin: 1rem auto; display: block;" class="u-photo" src="{{ $img.RelPermalink }}">
     {{ end }}
   {{ end }}
 
   {{ with .Glob.Params.properties.video }}
     {{ range .}}
       {{ $video := $.Glob.Page.Resources.GetMatch . -}}
-      <video class="u-video db mv2 center" src="{{ $video.RelPermalink }}" autoplay loop></video>
+      <video style="margin: 1rem auto; display: block;" class="u-video" src="{{ $video.RelPermalink }}" autoplay loop></video>
     {{ end }}
   {{ end }}
 
-  {{ if $box }}<div class='ph3'>{{ end -}}
-    {{ partial "post/footer" . }}
-  {{ if $box }}</div>{{ end -}}
+  {{ partial "post/footer" . }}
 
   {{ if not $isList -}}
     {{ partial "webmention" . -}}

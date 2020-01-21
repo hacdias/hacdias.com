@@ -19,14 +19,14 @@ Recently I've been wanting to try out more things in my life. Perhaps not recent
 I always have this urge to try out this "new" things that I haven't done before
 and that they seem to be... I don't know... interesting to me.
 
-I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
-around and I thought: this is really pretty and interesting, what if I try doing some
-stuff like this?
-
 {{< figure
   class="left"
   src="blinking-eye.gif"
   caption="Blinking Eye" >}}
+
+I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
+around and I thought: this is really pretty and interesting, what if I try doing some
+stuff like this?
 
 I guess that my interest for "drawing arts" isn't new: two years ago I have done some
 illustrations just to try out and I actually enjoyed them - at least the process, they weren't
@@ -38,14 +38,14 @@ called [aseprite][1] to try out this art.
 At first, I thought about reconstructing some of the illustrations I've done in the past
 and I actually happen to like them. So I've started by doing so.
 
-<div class="flex-l w-100 items-center justify-between">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   {{< figure
-    class="mr3-l"
+    style="margin-right: 1rem"
     src="magician.png"
     caption="A magician, wizard ? 🧙‍♂️" >}}
 
   {{< figure
-    class="ml3-l"
+    style="margin-left: 1rem"
     src="cat.png"
     caption="A Cat" >}}
 </div>

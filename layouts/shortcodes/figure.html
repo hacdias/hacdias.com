@@ -1,17 +1,21 @@
 <!-- https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/shortcodes/figure.html -->
-<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }} {{ with .Get "style" }}style="{{ . }}"{{ end }}>
   {{- if .Get "link" -}}
     <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
   {{- end }}
-  {{ $img := ($.Page.Resources.GetMatch (.Get "src")) }}
-  {{ $lowfi := $img.Resize "100x" }} 
-  <img class="lazyload blur-up" src="{{ $lowfi.RelPermalink }}" data-src="{{ $img.RelPermalink }}"
-    {{- if or (.Get "alt") (.Get "caption") }}
-    alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-    {{- end -}}
-    {{- with .Get "width" }} width="{{ . }}"{{ end -}}
-    {{- with .Get "height" }} height="{{ . }}"{{ end -}}
-  /> <!-- Closing img tag -->
+  {{ $original := $.Page.Resources.GetMatch (.Get "src") }}
+  {{ $1000 := $original.Resize "1000x" }}
+  {{ $2000 := $original.Resize "2000x" }}
+
+  <picture>
+    <source srcset="{{ $1000.RelPermalink }} 1000w, {{ $2000.RelPermalink }} 2000w">
+    <img src="{{ $original.RelPermalink }}"
+      {{- if or (.Get "alt") (.Get "caption") }}
+      alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+      {{- end -}}
+      {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+      {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
+  </picture>
   {{- if .Get "link" }}</a>{{ end -}}
   {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
     <figcaption>

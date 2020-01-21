@@ -1,6 +1,3 @@
-{{ $lazy := resources.Get "js/lazysizes.min.js" }}
-<script src="{{ $lazy.RelPermalink }}"></script>
-
 {{ $js := resources.Get "js/common.js" | resources.Minify }}
 <script src="{{ $js.RelPermalink }}?hash={{ md5 $js.Content }}"></script>
 

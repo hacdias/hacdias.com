@@ -38,10 +38,9 @@
 
 {{- if not .Params.raw -}}
   <!-- Styles -->
-  {{- $tachyons := resources.Get "css/tachyons.min.css" }}
-  {{- $glitch := resources.Get "css/glitch.css" }}
-  {{- $main := resources.Get "css/main.css" }}
-  {{- $css := slice $tachyons $main $glitch | resources.Concat "css/styles.css" | resources.Minify }}
+  {{- $normalize := resources.Get "css/normalize.css" }}
+  {{- $styles := resources.Get "css/styles.css" }}
+  {{- $css := slice $normalize $styles | resources.Concat "css/styles.css" | resources.Minify }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}?hash={{ md5 $css.Content }}">
 {{ end }}
 

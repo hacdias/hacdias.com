@@ -1,27 +1,29 @@
-<footer>
-  <div class='ma0 flex items-center f6 mv3'>
-    {{ if not .Glob.Date.IsZero }}
-    <time class='dib dt-published' datetime='{{ .Glob.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-      <a href="{{ .Glob.RelPermalink }}" class="u-url {{ if eq .Mode "single"}}no-link{{ end }}">
-      {{- .Glob.Date.Format "02 Jan 2006 15:04" }}
-     </a>
-    </time>
-    {{ end }}
+<footer class='page-footer'>
+  {{ if not .Glob.Date.IsZero }}
+  <time class='dt-published' datetime='{{ .Glob.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+    <a href="{{ .Glob.RelPermalink }}" class="u-url {{ if eq .Mode "single"}}no-link{{ end }}">{{- .Glob.Date.Format "02 Jan 2006 15:04" }}</a>
+  </time>
+  {{ end }}
 
-    <ul class='list pa0 ma0 dib ml-auto'>
-      {{ range $i, $tag := .Glob.Params.tags }}
-      {{ with $.Glob.Site.GetPage (printf "/tags/%s" $tag) }}
-        <li class='dib ml1'><a class="p-category" href="{{ .RelPermalink }}">#{{ $tag }}</a></li>
-      {{ end }}
-      {{ end }}
-    </ul>
+  {{ if .Glob.Params.tags }}
+  <ul>
+    {{ range $i, $tag := .Glob.Params.tags -}}
+    {{ with $.Glob.Site.GetPage (printf "/tags/%s" $tag) -}}
+      <li><a class="p-category" href="{{ .RelPermalink }}">#{{ $tag }}</a></li>
+    {{ end -}}
+    {{ end -}}
+  </ul>
+  {{ end }}
+
+  {{ with .Glob.Params.properties.syndication -}}
+  {{ range . -}}
+    <a style='display: none;' class='u-syndication' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
+  {{ end -}}
+  {{ end -}}
+
+  <!-- Author metadata -->
+  <div class="h-card u-author" style="display: none;">
+    <img src="https://hacdias.com/me-256.jpg" class="u-photo">
+    <a href="https://hacdias.com/" class="u-url p-name">Henrique Dias</a>
   </div>
-
-  {{ with .Glob.Params.properties.syndication }}
-  {{ range . }}
-    <a class='u-syndication dn' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
-  {{ end }}
-  {{ end }}
-
-  {{ partial "author-meta" }}
 </footer>

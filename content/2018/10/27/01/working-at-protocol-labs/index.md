@@ -18,6 +18,8 @@ In November 2017, just one month after I've started my first year at university,
 about the existence of [IPFS][0] and what it was. Immediately I saw the potential of this
 technology and the benefits it an bring to the society in the future and in the present.
 
+{{< figure src="cover_thumb.jpg" alt="Part of the team" caption="Part of the team" >}}
+
 All the IPFS related work is open-source and you can find it on GitHub. In the meanwhile,
 I was offered a position at Protocol Labs (PL), which is the company created to back this
 project.

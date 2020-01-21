@@ -1,19 +1,57 @@
 {{ define "main" }}
 
-<main role='main' class='container center'>
-	<h1 class='f2 mt0 mv2'>{{ .Title }}</h1>
+<style>
+	.list {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+	}
 
-	{{ with .Content }}
-		<div class='nested-copy-line-height'>{{ . }}</div>
+	.list li {
+		margin: 0.5rem 0;
+	}
+
+	.list a {
+		display: flex;
+	}
+
+	.list h3 {
+		white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 1rem;
+    margin: 0;
+		font-weight: 500;
+		margin-right: auto;
+	}
+
+	.list time {
+		white-space: nowrap;
+    font-size: 1rem;
+    margin-left: .25rem;
+    margin: 0;
+    color: var(--gray);
+    display: block;
+		font-variant-numeric: tabular-nums;
+	}
+</style>
+
+<main role='main'>
+	{{ if not .Params.hideTitle }}
+	<h1>{{ .Title }}</h1>
 	{{ end }}
 
-	<ul class="list pa0 ma0">
+	{{ with .Content }}
+		<div class='copy'>{{ . }}</div>
+	{{ end }}
+
+	<ul class="list">
 		{{ range $i, $p := .Pages }}
 		{{ $date := $p.Date.Format "2006-01-02" }}
-			<li class="mv2">
-				<a class="db flex no-link" href='{{ .RelPermalink }}'>
-					<h3 class='ma0 mr-auto fw5 f5 truncate'>{{ $p.Title }}</h3>
-						<time class='ma0 ml1 db gray f5 nowrap' datetime='{{ $date }}' style='font-variant-numeric: tabular-nums;'>{{ $date }}</time>
+			<li>
+				<a class="no-link" href='{{ .RelPermalink }}'>
+					<h3>{{ $p.Title }}</h3>
+					<time datetime='{{ $date }}'>{{ $date }}</time>
 				</a>
 			</li>
 		{{ end }}

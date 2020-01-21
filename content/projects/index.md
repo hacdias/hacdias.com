@@ -10,6 +10,20 @@ menu:
     weight: 3
 ---
 
+<style>
+.projects {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2em;
+}
+
+@media screen and (max-width: 40rem) {
+  .projects {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+</style>
+
 These are some of the projects I am working on or have worked on in the past. If you're curious about
 everything else I have done, please check my [GitHub](https://github.com/hacdias).
 

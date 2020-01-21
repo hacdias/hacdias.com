@@ -1,17 +1,21 @@
 {{ define "main" }}
 
-<main role='main' class='container center'>
-	<h1 class='f2 mt0 mv2'>{{ .Title }}</h1>
+<main role='main'>
+	{{ if not .Params.hideTitle }}
+	<h1>{{ .Title }}</h1>
+	{{ end }}
 
 	{{ with .Content }}
-		<div class='nested-copy-line-height'>{{ . }}</div>
+		<div class='copy'>{{ . }}</div>
 	{{ end }}
 
-	{{ range .Paginator.Pages }}
-		{{ $type := (lower (index (or .Params.categories (slice "")) 0 )) }}
-		{{ $data := (dict "Glob" . "Type" $type "Mode" "list") }}
-		{{ partial "post" $data }}
-	{{ end }}
+	<div class='h-feed'>
+		{{ range .Paginator.Pages }}
+			{{ $type := (lower (index (or .Params.categories (slice "")) 0 )) }}
+			{{ $data := (dict "Glob" . "Type" $type "Mode" "list") }}
+			{{ partial "post" $data }}
+		{{ end }}
+	</div>
 
 	{{ partial "pagination" . -}}
 </main>

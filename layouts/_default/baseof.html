@@ -3,10 +3,12 @@
 <head>
   {{ partial "head" . -}}
 </head>
-<body class='lh-title dark-gray sans-serif'>
-  {{ partial "navbar" . -}}
-  {{ block "main" . -}}{{ end }}
-  {{ partial "footer" . -}}
+<body>
+  <div class='container'>
+    {{ partial "navbar" . -}}
+    {{ block "main" . -}}{{ end }}
+    {{ partial "footer" . -}}
+  </div>
   {{ partial "scripts" . .}}
 </body>
 </html>

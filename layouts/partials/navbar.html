@@ -1,18 +1,16 @@
-<div class='big container mt3 mb4 flex-l items-center' id='header'>
-  <a class='no-link db flex b items-center justify-center justify-left-ns' href='{{ relURL .Site.BaseURL }}'>
-    <p class='ma0 b glitch f4' data-text='Henrique Dias'>Henrique Dias</p>
-  </a> 
+<div id='header'>
+  <div>
+    <a class='no-link' href='{{ relURL .Site.BaseURL }}'>
+      <p>Henrique Dias</p>
+      <p>Engineering student & enthusiast.</p>
+    </a>
+  </div>
 
-  <nav class='ml-auto-ns'>
-    <ul class='list b flex-ns pa0 ma0 mv3'>
-      {{ range .Site.Menus.main -}}
-        <li class='flex-grow-1 ml2'>
-          <a href='{{ .URL }}' class='br2 no-link pa2 tc db w-100 bg-animate {{ if $.IsMenuCurrent "main" . }}bg-yellow{{ else }}hover-bg-black-10{{ end }}'>
-            <span>{{ with .Page }}{{ .Params.emoji }}{{ else }}{{ .Pre }}{{ end }}</span>
-            <span>{{ .Name }}</span>
-          </a>
-        </li>
-      {{end}}
-    </ul>
+  <input type="checkbox" id="toggler">
+  <nav>
+    <label for="toggler"><a>Menu</a></label>
+    {{- range .Site.Menus.main -}}
+      <a href='{{ .URL }}' class='no-link {{ if $.IsMenuCurrent "main" . }}a{{ end }}'>{{ .Name -}}</a>
+    {{- end -}}
   </nav>
 </div>

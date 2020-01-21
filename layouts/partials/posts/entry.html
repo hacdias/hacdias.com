@@ -1,12 +1,12 @@
-<div class="h-cite pl5 relative comment {{ .Class }}">
-  <p class="ma0 mb1">
+<div class="h-cite e-entry {{ .Class }}">
+  <p>
     <span class="p-author h-card">
-      <img style="width: 48px; height: 48px;" class="u-photo br-100 absolute" src="{{ .Wm.author.photo }}">
-      <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link fw5" href="{{ .Wm.author.url }}">{{ .Wm.author.name }}</a>
+      <img class="u-photo" src="{{ .Wm.author.photo }}">
+      <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link" href="{{ .Wm.author.url }}">{{ .Wm.author.name }}</a>
     </span>
     {{ with .Wm.published}}
-    <a rel="noopener noreferrer" target="_link" href="{{ $.Wm.url }}" class="u-url f7">{{ dateFormat "02 Jan 2006 15:04" . }}</a>
+    <a rel="noopener noreferrer" target="_link" href="{{ $.Wm.url }}" class="u-url date">{{ dateFormat "02 Jan 2006 15:04" . }}</a>
     {{ end }}
   </p>
-  <div class="post-text e-content p-name f6">{{ .Wm.content.text | truncate 300 | safeHTML }}</div>
+  <div class="e-content p-name">{{ .Wm.content.text | truncate 300 | safeHTML }}</div>
 </div>

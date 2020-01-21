@@ -1,25 +1,25 @@
-<footer class='container mv4 o-50 f6 tl-ns tc'>
-  <div class='flex-ns flex-wrap'>
-    <div class='mr-auto mr1 mb2'>&copy; Henrique Dias</div>
+<footer class='site-footer'>
+  <div>
+    <div style="margin-right: auto">&copy; Henrique Dias</div>
 
-    <ul class='list pa0 ma0 mb2'>
+    <ul>
       {{ range $i, $m := .Site.Menus.footer -}}
-        {{ if $i }}<li class='dib mh1'>|</li>{{ end }}
-        <li class='flex-grow-1 dib'>
-          <a href='{{ .URL }}' class='no-link {{ if $.IsMenuCurrent "footer" . }}b{{ end }}'>{{ .Name }}</a>
+        {{ if $i }}<li style="margin: 0 0.25rem;">|</li>{{ end }}
+        <li>
+          <a href='{{ .URL }}' class='no-link {{ if $.IsMenuCurrent "footer" . }}a{{ end }}'>{{ .Name }}</a>
         </li>
       {{end}}
     </ul>
   </div>
 
-  <div class='flex-ns'>
-    <div class='mb2'>
-      <a title="IndieWeb Webring (Previous)" class="no-link" target="_blank" rel="noreferrer noopener" href="https://xn--sr8hvo.ws/%F0%9F%91%99%F0%9F%88%B6%F0%9F%98%BD/previous">←</a class="no-link" target="_blank" rel="noreferrer noopener">
+  <div>
+    <div style="margin-right: auto">
+      <a title="IndieWeb Webring (Previous)" class="no-link" target="_blank" rel="noreferrer noopener" href="https://xn--sr8hvo.ws/%F0%9F%91%99%F0%9F%88%B6%F0%9F%98%BD/previous">←</a>
       🕸💍
       <a title="IndieWeb Webring (Next) "class="no-link" target="_blank" rel="noreferrer noopener" href="https://xn--sr8hvo.ws/%F0%9F%91%99%F0%9F%88%B6%F0%9F%98%BD/next">→</a>
     </div>
 
-    <span class='ml-auto hide-light pointer' onclick="javascript:toggleTheme('l');">go to the bright side</span>
-    <span class='ml-auto hide-dark pointer' onclick="javascript:toggleTheme('d');">go to the dark side</span>
+    <span style="cursor: pointer;" class='hide-light' onclick="javascript:toggleTheme('l');">go to the bright side</span>
+    <span style="cursor: pointer;" class='hide-dark' onclick="javascript:toggleTheme('d');">go to the dark side</span>
   </div>
 </footer>

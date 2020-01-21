@@ -1,11 +1,11 @@
 {{ $pag := $.Paginator -}}
 {{ if gt $pag.TotalPages 1 -}}
-<p class="flex f6">
+<p style="display: flex; font-size: var(--f6)">
   {{ if $pag.HasPrev -}}
-  <a href="{{ $pag.Prev.URL }}" class="mr-auto">← Previous</a>
+  <a href="{{ $pag.Prev.URL }}" style="margin-right: auto;">← Previous</a>
   {{ end -}}
   {{ if $pag.HasNext -}}
-  <a href="{{ $pag.Next.URL }}" class="ml-auto">Next →</a>
+  <a href="{{ $pag.Next.URL }}" style="margin-left: auto;">Next →</a>
   {{ end -}}
 </p>
 {{ end -}}
