@@ -3,6 +3,9 @@ type:         page
 emoji:        🧻
 title:        Blogroll
 description:  A sorted list of the blogs I follow.
+menu:
+  footer:
+    weight: 5
 ---
 
 This is a sorted list of blogs I follow:

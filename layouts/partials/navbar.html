@@ -5,11 +5,9 @@
 
   <nav class='ml-auto-ns'>
     <ul class='list b flex-ns pa0 ma0 mv3'>
-      {{ $root := . }}
-      {{ $menu := .Site.Menus.main }}
       {{ range .Site.Menus.main -}}
         <li class='flex-grow-1 ml2'>
-          <a href='{{ .URL }}' class='br2 no-link pa2 tc db w-100 bg-animate {{ if $root.IsMenuCurrent "main" . }}bg-yellow{{ else }}hover-bg-black-10{{ end }}'>
+          <a href='{{ .URL }}' class='br2 no-link pa2 tc db w-100 bg-animate {{ if $.IsMenuCurrent "main" . }}bg-yellow{{ else }}hover-bg-black-10{{ end }}'>
             <span>{{ with .Page }}{{ .Params.emoji }}{{ else }}{{ .Pre }}{{ end }}</span>
             <span>{{ .Name }}</span>
           </a>
