@@ -1,6 +1,8 @@
 body {
-  --dark-rose: #E91E63;
-  --navy: #001B44;
+  --main: #001B44;
+  --accent: #E91E63;
+  --accent-darker: #b5003d;
+
   --dark-gray: #333;
   --gray: #777;
   --white: #ffffff;
@@ -55,12 +57,13 @@ h1 {
 }
 
 a {
-  color: inherit;
+  color: var(--accent);
+  text-decoration: none;
   word-wrap: break-word;
 }
 
 a:visited {
-  color: var(--gray);
+  color: var(--accent-darker);
 }
 
 .no-link,
@@ -71,12 +74,12 @@ a:visited {
 }
 
 ::-moz-selection {
-  background: var(--dark-rose);
+  background: var(--accent);
   color: #fff;
 }
 
 ::selection {
-  background: var(--dark-rose);
+  background: var(--accent);
   color: #fff;
 }
 
@@ -92,17 +95,20 @@ a:visited {
   margin: 0;
   font-size: 2rem;
   font-weight: 700;
+  line-height: 1;
+  color: var(--accent-darker);
 }
 
 #header div p:last-child {
-  margin: 0;
+  margin: .5rem 0 0;
   font-size: .875rem;
+  line-height: 1;
 }
 
 #header nav {
   margin: 1rem 0;
-  background-color: var(--navy);
-  box-shadow: .25rem .25rem var(--dark-rose);
+  background-color: var(--main);
+  box-shadow: .25rem .25rem var(--accent);
   text-transform: uppercase;
 }
 
@@ -121,7 +127,7 @@ a:visited {
 
 #header nav a.a:hover,
 #header nav a.a {
-  background: var(--dark-rose);
+  background: var(--accent-darker);
 }
 
 #header nav a {
@@ -185,7 +191,7 @@ table img {
 }
 
 blockquote {
-  padding: 0 2em 0;
+  padding-left: 1.5rem;
   margin: 1em 0;
   font-style: italic;
 }
@@ -444,6 +450,8 @@ figure.right {
 }
 
 #dark {
+  --accent: #FFFF00;
+  --accent-darker: #FFB700;
   --dark-gray: #eee;
   --gray: #bbb;
   --white: #000000;
