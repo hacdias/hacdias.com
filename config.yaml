@@ -40,12 +40,15 @@ outputs:
   home:
     - html
     - jsonfeed
+    - rss
   section:
     - html
     - jsonfeed
+    - rss
   taxonomy:
     - html
     - jsonfeed
+    - rss
   taxonomyTerm:
     - html
   page:
