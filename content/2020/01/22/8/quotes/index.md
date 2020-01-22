@@ -1,0 +1,29 @@
+---
+aliases:
+  - /2020/01/22/8/
+categories:
+  - notes
+date: 2020-01-22T15:17:16.219Z
+properties:
+  category: &ref_0
+    - quotes
+    - simplicity
+  location:
+    - 'geo:38.74488,-9.13456;u=5088'
+tags: *ref_0
+title: Just found a fi...
+---
+
+Just found a file with some quotes about simplicity I noted some time ago. I thought it'd be nice to save them here!
+
+The first one comes from a well-known writer:
+
+> "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." - **Antoine de Saint-Exupéry**
+
+And now from a painter:
+
+> "Simplicity is the ultimate sophistication." - **Leonardo da Vinci**
+
+Finally, but not least, from the [Agile Manifesto](https://agilemanifesto.org):
+
+> "Simplicity - the art of maximizing the amount of work not done - is essential." - **Agile Manifesto**
