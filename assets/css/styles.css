@@ -418,6 +418,10 @@ figure.right {
     display: block;
   }
 
+  .page-footer li:first-child {
+    margin-left: 0;
+  }
+
   .page-footer > * {
     margin: 1rem 0;
     display: block;
