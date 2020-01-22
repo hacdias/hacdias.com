@@ -14,5 +14,17 @@
       "photo": "https://webmention.io/avatar/pbs.twimg.com/dcb35f7bda9c08a8eca4ed7e3794500e015cf302d79b43e9184b6b7d4390faa7.jpg",
       "url": "https://twitter.com/DARA3G_"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1212330976787009536#favorited-by-167414251",
+    "date": "2020-01-22T09:25:47.000Z",
+    "private": false,
+    "wm-id": 747075,
+    "author": {
+      "name": "tmk 🏳️‍🌈",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad287adf2e1f233b5fc6299342005b3127d2ea91b1b55efea6c01b1db0074ddc.jpg",
+      "url": "https://twitter.com/TheMrKiko"
+    }
   }
 ]

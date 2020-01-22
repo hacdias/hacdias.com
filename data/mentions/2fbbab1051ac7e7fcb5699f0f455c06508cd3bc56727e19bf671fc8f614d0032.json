@@ -26,5 +26,17 @@
       "photo": "https://webmention.io/avatar/pbs.twimg.com/e34186d95cc5ea4219d1d1b7f31bc3c3f96dde2da1522da324c39de2daa8cbfb.jpg",
       "url": "https://twitter.com/dietrich"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1212163359480700928#favorited-by-708447943733420032",
+    "date": "2020-01-22T09:23:58.000Z",
+    "private": false,
+    "wm-id": 747072,
+    "author": {
+      "name": "gui is my name",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c96d6f31512fa3e6edfdcf8ddc7f4cce0eecaefdad4ea9d2c4a927893e73b29b.jpg",
+      "url": "https://twitter.com/wutafuckinhoe"
+    }
   }
 ]
