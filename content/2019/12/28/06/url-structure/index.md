@@ -28,14 +28,14 @@ So, first of all, let’s think about the URL structure I want to have and then 
 
 Before starting this, this is what I had:
 
-```
+```plaintext
 hacdias.com/YYYY/MM/post-slug
 hacdias.com/blog
 ```
 
 After jotting down 4 different ideas, I decided to choose none of them and pick this one:
 
-```
+```plaintext
 hacdias.com/YYYY/MM/DD/XX/post-slug     <— article
 hacdias.com/YYYY/MM/DD/XX/              <- notes
 hacdias.com/YYYY/MM/DD/XX/              <- bookmarks
