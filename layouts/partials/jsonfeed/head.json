@@ -1,6 +1,0 @@
-"version": "https://jsonfeed.org/version/1",
-"title": "{{ .Site.Title }}",
-"home_page_url": {{ .Permalink | jsonify }},
-"feed_url": {{ with .OutputFormats.Get "jsonfeed" -}}
-  {{- .Permalink | jsonify -}}
-{{- end }},

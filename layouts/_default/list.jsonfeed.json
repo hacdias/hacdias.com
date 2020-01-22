@@ -1,9 +1,32 @@
+{{- $pctx := . -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pages := $pctx.RegularPages -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+{{- $pages = $pages | first $limit -}}
+{{- end -}}
 {
-  {{ partial "jsonfeed/head.json" . }}
+  "version": "https://jsonfeed.org/version/1",
+  "title": "{{ .Site.Title }}",
+	"description": "{{ .Site.Params.description }}",
+  "home_page_url": "{{ .Permalink}}",
+  "feed_url": "{{ .Permalink }}feed.json",
+	"author": {
+		"name": "{{ .Site.Author.name }}",
+		"url": "{{ .Site.Author.link }}"
+  },
   "items": [
-    {{ range $index, $entry := first 50 .Pages }}
-    {{- if $index }}, {{ end }}
-    {{ partial "jsonfeed/item.json" . }}
-    {{- end }}
+    {{ range $index, $pages := $pages }}
+    {{ if ge $index 1 }}, {{end}}{
+      "id": "{{ .Permalink }}",
+      "url": "{{ .Permalink }}",
+      "title": {{ .Title | jsonify }},
+      "content_html": {{ .Content | jsonify }},
+      "summary": {{ .Summary | jsonify }},
+      "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
+      "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }},
+      "tags": {{ .Params.Tags | jsonify }}
+    }
+    {{ end }}
   ]
 }
