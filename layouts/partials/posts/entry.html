@@ -4,9 +4,11 @@
       <img class="u-photo" src="{{ .Wm.author.photo }}">
       <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link" href="{{ .Wm.author.url }}">{{ .Wm.author.name }}</a>
     </span>
-    {{ with .Wm.published}}
-    <a rel="noopener noreferrer" target="_link" href="{{ $.Wm.url }}" class="u-url date">{{ dateFormat "02 Jan 2006 15:04" . }}</a>
-    {{ end }}
+    {{ with .Wm.published -}}
+      <a rel="noopener noreferrer" target="_link" href="{{ $.Wm.url }}" class="u-url date">{{ dateFormat "02 Jan 2006 15:04" . }}</a>
+    {{ else -}}
+      <a rel="noopener noreferrer" target="_link" href="{{ $.Wm.url }}" class="u-url">Original Post</a>
+    {{ end -}}
   </p>
   <div class="e-content p-name">{{ .Wm.content.text | truncate 300 | safeHTML }}</div>
 </div>
