@@ -4,7 +4,7 @@
 {{ $useSummary := false }}
 <article class='h-entry {{ if $box }}box{{ end }}'>
   {{ if or (eq .Type "blog") (eq .Type "") -}}
-    {{ if not .Params.hideTitle }}
+    {{ if not .Glob.Params.hideTitle }}
     <header>
       <h1 class='p-name'>{{ .Glob.Title }}</h1>
     </header>
