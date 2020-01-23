@@ -6,7 +6,11 @@
   {{ if or (eq .Type "blog") (eq .Type "") -}}
     {{ if not .Glob.Params.hideTitle }}
     <header>
-      <h1 class='p-name'>{{ .Glob.Title }}</h1>
+      <h1 class='p-name'>
+        {{ if $isList }}<a href="{{ .Glob.RelPermalink }}">{{ end }}
+        {{- .Glob.Title -}}
+        {{ if $isList }}</a>{{ end }}
+      </h1>
     </header>
     {{ end }}
     {{ $useSummary = $isList }}
