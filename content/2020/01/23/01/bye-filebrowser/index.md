@@ -8,10 +8,14 @@ description: >-
   After 5 years of maintaining this project and failing due to my
   limited time, it was time to say goodbye to File Browser.
 title: Goodbye File Browser!
-tags:
-  - opensource
-  - go
-  - lessons
+properties:
+  categories: &ref_0
+    - opensource
+    - go
+    - lessons
+  syndication:
+    - https://twitter.com/hacdias/status/1220274794068959232
+tags: *ref_0
 categories:
 - blog
 ---
