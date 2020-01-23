@@ -15,9 +15,11 @@ aliases:
   - /2020/01/02/6/
 ---
 
-After digressing a bit about [building a Micropub](../../../../../2020/01/01/12/building-micropub/) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.
+After digressing a bit about [building a Micropub](/2020/01/01/12/building-micropub/) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.
 
 I opened a topic on [Hugo’s discourse](https://discourse.gohugo.io/t/use-hugo-watch-in-production/22599/14) to see to which point it would be reliable to use the watch mode of Hugo in production and it seems, as I was expecting, that it wasn’t made for that and there is no way of making incremental builds as of right now. And I don’t blame Hugo developers — I understand that’s quite a big issue and it needs to be a really thoughtful process.
+
+<!--more-->
 
 In addition to that, the biggest issue I might be having is actually with my templates. If I remove them, I cut the build time from ~1s to ~0.5ms, which is half the time!
 
@@ -39,7 +41,7 @@ Finally, experimentation! Building my custom server “thingy” could actually 
 
 So, I’ve been thinking quite a bit about this. Firstly, I must say that I don’t know yet if I should divide the website itself from the API. Should it be the same application? Or different ones?
 
-About the language: Node.js is “new” and shiny and I’ve been using it **a lot** on my past projects. But I don’t think I would use it here even though I have published [two packages](../../../../../2019/12/31/04/two-packages/) for helping building Micropub applications a few days ago. “Why?” you ask.
+About the language: Node.js is “new” and shiny and I’ve been using it **a lot** on my past projects. But I don’t think I would use it here even though I have published [two packages](/2019/12/31/04/two-packages/) for helping building Micropub applications a few days ago. “Why?” you ask.
 
 PHP is old, but it has had really impactful improvements since the last time I tried it and there are a lot of PHP packages already built by other IndieWeb lovers such as [Aaron](https://aaronparecki.com/) and [Tantek](http://tantek.com/) I could leverage. Also, as far as I remember, templating and outputting stuff with PHP is really… simple.
 

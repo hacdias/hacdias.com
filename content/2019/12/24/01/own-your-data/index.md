@@ -19,6 +19,8 @@ Data, data, data.
 
 Big data, buzz words. I have been wanting to write about data for quite a long time already, but I’ve never found a moment where that would be opportune for me. Data is one of the most important resources for companies right now even though we don’t acknowledge it most of the times.
 
+<!--more-->
+
 {{< figure alt="Guy asking 'What is data?'" class="invert" src="data-guy.jpg" >}}
 
 Everything we generate is data. Some is more important than others, but every single tiny bit we generate on our computers, on the web, is data. Is it ours? Does it belong to us? Can we easily collect it in a way that we can analyse it and transform it the way we want?

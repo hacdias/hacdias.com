@@ -19,6 +19,8 @@ title: Something about the future. Is it real? Does it exist?
 
 A word can be a very powerful thing. A word can change lifes, a [word can destroy worlds][4], a word can lead us to other words, a word can make us stop breathing, a word can make us lively, a word can kill us. As you can see, each word is a very special thing. But I'm not here to talk about words, am I? No, I'm not, but I'm going to start with a word: **[time][0]**.
 
+<!--more-->
+
 If you want, you may listen to this music (The Swings of Central Park by Alexandre Desplat) while reading:
 
 {{< youtube NE3pgjnrPAc >}}

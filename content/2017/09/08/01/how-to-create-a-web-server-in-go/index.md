@@ -11,6 +11,8 @@ Go is a relatively new player in the world of programming, having been around si
 
 It has recently reached version 1.9 and 2.0 is on [its way](https://blog.golang.org/toward-go2). Despite having only 8 years, its popularity has been increasing exponentially, mainly on networking and web server fields.
 
+<!--more-->
+
 {{< figure
   src="graph.jpg"
   caption="TIOBE Index for September 2017"

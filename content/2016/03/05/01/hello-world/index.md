@@ -16,6 +16,8 @@ Hello, world!
 
 This is how I start my first newsletter: the same way I started programming. If you're receiving this on your mail inbox, that means you probably know me. Anyway, I'm Henrique Dias, a 16 years old student who loves music and programming stuff.
 
+<!--more-->
+
 First things first: why are you creating a newsletter? There are some basic reasons for that:
 
 + I want to write more and I found out that this could be an interesting way to do so.

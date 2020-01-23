@@ -11,6 +11,8 @@ In our beginning articles, we mentioned that there are some
 types of variables and constants and that is what we are going to talk today.
 This is part of our Fundamentals of Programming Using C series.
 
+<!--more-->
+
 **Data types** consist in a variety of values and operations that a
 variable/constant of that kind can support. They're needed so the compiler (or
 interpreter) knows which conversations are needed to get the data from memory.

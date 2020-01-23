@@ -16,11 +16,11 @@ Recentemente comecei a reparar que muitos programadores omitiam a tag de fechame
 
 Depois de uma pesquisa, trago-vos o **porquê** de não utilizar a tag `?>` no final dos ficheiros.
 
+<!--more-->
+
 Em primeiro lugar, esta prática só deve ser realizada em ficheiros cujo seu conteúdo seja **somente PHP** e não contenha HTML, por exemplo.
 
-
 ## O que acontece se...?
-
 
 Vamos começar por debater a pergunta que vocês vêm aí em cima: **o que acontece** se omitirmos a *tag* de fechamento.
 

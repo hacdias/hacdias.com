@@ -17,6 +17,8 @@ O **WordPress** é um dos CMS (Sistema de Gestão de Conteúdo, em português) 
 
 Por vezes precisamos de melhorar os temas ou alguma outra coisa. Quando estava a desenvolver o tema deste blog deparei-me com um simples problema: os links dos botões "Continuar a Ler" levavam o utilizador ao local onde havia colocado o código, mas eu não queria que isso acontecesse.
 
+<!--more-->
+
 Depois de uma rápida pesquisa deparei-me com um fórum onde explicavam, em Inglês, como proceder. Afinal é bastante simples. No ficheiro `functions.php` do vosso tema basta colarem o seguinte código:
 
 

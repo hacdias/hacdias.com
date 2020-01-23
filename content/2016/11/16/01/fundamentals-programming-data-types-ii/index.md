@@ -11,6 +11,8 @@ In our beginning articles, we mentioned that there are some
 types of variables and constants and that is what we are going to talk today.
 This is part of our Fundamentals of Programming Using C series.
 
+<!--more-->
+
 ## Integer numbers
 
 We will start by talking about integer numbers (e.g.: 4500, 5, -250). This type

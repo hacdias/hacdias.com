@@ -17,6 +17,8 @@ Todos os anos os professores costumam relembrar os alunos do facto de terem de e
 
 A Matemática é, talvez, a disciplina a que mais alunos demonstram dificuldades ou onde os resultados são piores, mas como Salman Khan disse **"Qualquer um pode aprender qualquer coisa"**. A grande questão é como aprender Matemática de forma efetiva e produtiva.
 
+<!--more-->
+
 A resposta a esta questão é muito simples e passa por dois pontos que alteram tudo: a postura em sala de aula e a postura a estudar, tanto de forma proposta (trabalhos de casa, fichas, etc) como de forma autónoma. Isto porque a Matemática não é aquela disciplina que basta ler e decorar. É necessário **pensar**.
 
 ## Postura em Sala de Aula

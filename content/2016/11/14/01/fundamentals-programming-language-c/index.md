@@ -12,6 +12,8 @@ AT&T Bell Labs because it was when the programming language C was mostly
 developed. This is part of The Fundamentals of Programming Using
 C series.
 
+<!--more-->
+
 The main developer of this language was **Dennis Ritchie** who described the
 year of 1972 as the most productive and creative one.
 
@@ -35,7 +37,7 @@ with the hardware.
 ## C language characteristics
 
 C is a structured, imperative and procedural programming language. Do you
-remember the [paradigms](../../../../../2016/11/12/01/fundamentals-programming-paradigms/)?
+remember the [paradigms](/2016/11/12/01/fundamentals-programming-paradigms/)?
 Other characteristics of this language are being standardized by ISO and being
 of general purpose.
 

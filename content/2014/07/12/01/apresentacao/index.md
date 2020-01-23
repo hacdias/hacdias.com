@@ -18,6 +18,8 @@ Antes de mais, vou fazer-vos uma breve apresentação minha. O meu nome é **He
 
 Penso que todos deveriam aprender a programar porque além de ser algo muito importante nos dias de hoje, é uma boa forma de nos divertirmos e também treinar o nosso cérebro, estimulando a criatividade.
 
+<!--more-->
+
 Atualmente escrevo para um *blog* chamado [Pplware Kids](http://kids.pplware.com), parte do projeto nacional [Pplware](http://pplware.com). Já há algum tempo que queria criar um *site/blog* em que pudesses escrever outras coisas não relacionadas com os temas do Pplware Kids e, quando surgiu a oportunidade, criei-o.
 
 Espero escrever, principalmente, artigos relacionados com o mundo de desenvolvimento *web* e de *software* e também relacionados com outros temas.

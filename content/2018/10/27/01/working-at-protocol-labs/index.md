@@ -14,6 +14,8 @@ I've been wanting to write about my journey at [Protocol Labs][4] for a while al
 for a big while but unfortunately I haven't had the time nor the disposition to write: the
 last post I wrote was in June 2017. This is something I want to change.
 
+<!--more-->
+
 In November 2017, just one month after I've started my first year at university, I learned
 about the existence of [IPFS][0] and what it was. Immediately I saw the potential of this
 technology and the benefits it an bring to the society in the future and in the present.

@@ -20,6 +20,8 @@ title: Decentralizing my website with IPFS
 
 It was about two years ago, in 2017, that I got to know IPFS through [David Dias][0]. This is not the first time I talk about IPFS here, in my website, but here's a brief description of what it is: IPFS stands for InterPlanetary File System and it is a peer-to-peer, content-addressed and decentralized protocol.
 
+<!--more-->
+
 By decentralizing my website, I want you to fetch it from the nearest source you can. If your accessing this through HTTP, that might not be what's really happening (_kinda_, will explain later). But if you already know IPFS and you're using [IPFS Companion][1], changes might be that you're loading this through a decentralized network.
 
 First of all, I use a static website generator called [Hugo][2] which does its job immensely well and I give my props to its creator and maintainers. However, we're not here to talk about static website generators, but about how does my website work and how you can do the same about yours.

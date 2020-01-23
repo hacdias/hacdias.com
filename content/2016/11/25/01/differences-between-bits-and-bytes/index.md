@@ -14,6 +14,8 @@ Nowadays, we are used to hear about bits and bytes and sometimes, in the adverti
 
 **Bit** stands for Binary Digit and it is the smallest unit of information that can be stored or transmitted. A bit can only hold one out of two values: 0 and 1, in other words, the binary code. Bits are represented by a lower case "b".
 
+<!--more-->
+
 **Byte** stands for Binary Term and it is a data type in computation. It's generally used to specify the amount of memory or capacity of a device. It is represented by a upper case "B". By default:
 
 - **1 Byte** = 8 bits (octect)

@@ -14,11 +14,13 @@ aliases:
   - /2020/01/01/12/
 ---
  
-Recently, I have talked about [restructuring the URLs](../../../../../2019/12/28/06/url-structure/) of my website and [adding IndieAuth](../../../../../2019/12/30/09/using-indieauth/) so I could use my domain as my main  online identity to login into services. Along those lines, I came across [Micropub](https://www.w3.org/TR/micropub/). In their own words:
+Recently, I have talked about [restructuring the URLs](/2019/12/28/06/url-structure/) of my website and [adding IndieAuth](/2019/12/30/09/using-indieauth/) so I could use my domain as my main  online identity to login into services. Along those lines, I came across [Micropub](https://www.w3.org/TR/micropub/). In their own words:
 
 > The Micropub protocol is used to create, update and delete posts on one’s own domain using third-party clients.   
 
 So it’s basically a simple common protocol that could let any website get updated using an arbitrary CMS (Content Management Software) or application that supports it. I really enjoyed the spec and there’s [suggestions and issues](https://github.com/w3c/Micropub/issues) being worked on.
+
+<!--more-->
 
 What I’ve been trying to do is to implement this on my own website. There aren’t  many open source [server implementations](https://indieweb.org/Micropub/Servers) unfortunately. However, I understand the reason: most of them are highly specific for their author’s website and so is the one I’m building.
 
@@ -31,7 +33,7 @@ Apart from that, I’m mostly calling APIs directly: I’m relying a lot on some
 
 The current status is that I pass almost all the tests provided by [micropub.rocks](https://micropub.rocks) even though I’m not satisfied with the solution I’ve come across. Why?
 
-First of all, if you’ve been following me for more time, you might’ve came across an [old blog post](../../../../../2015/08/12/01/farewell-wordpress-hello-hugo/) talking about how I am using [Hugo](https://gohugo.io) to generate my website. But that is not the only “problem” of this: I’m also using IPFS to store my website for the folks using it. So there’s quite a few constraints.
+First of all, if you’ve been following me for more time, you might’ve came across an [old blog post](/2015/08/12/01/farewell-wordpress-hello-hugo/) talking about how I am using [Hugo](https://gohugo.io) to generate my website. But that is not the only “problem” of this: I’m also using IPFS to store my website for the folks using it. So there’s quite a few constraints.
 
 ## Problems
 ### Build Speed and Complexity

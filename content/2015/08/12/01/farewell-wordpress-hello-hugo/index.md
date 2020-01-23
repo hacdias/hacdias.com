@@ -17,6 +17,8 @@ Firstly, a little bit of history - when I begun this blog, I've already been usi
 
 After deciding I was going to use WordPress, I bought a domain on [GoDaddy][1] (which I recommend) and paid for hosting on [PTServidor][2]. With the blog set up, I started writing posts in portuguese. I did it for some time.
 
+<!--more-->
+
 Less than an year afterwards, I moved my blog to [DigitalOcean][3] (which I recommend too). I had 100$ from GitHub Education for free to use on DigitalOcean and I give it a try. It was a nice and useful experience: I learned how to set up a server, apache and some of other things in a production environment.
 
 I was using a cache plugin to speed up the blog and also using the Yoast SEO plugin. I think both are really useful and I recommend them if you're using WordPress.

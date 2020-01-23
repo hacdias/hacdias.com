@@ -1,8 +1,6 @@
 ---
 aliases:
   - /2020/01/23/01/
-categories:
-  - blog
 date: 2020-01-23T09:10:00.000Z
 description: >-
   After 5 years of maintaining this project and failing due to my

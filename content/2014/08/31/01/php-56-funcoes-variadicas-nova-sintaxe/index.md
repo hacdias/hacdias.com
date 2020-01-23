@@ -16,6 +16,8 @@ Há pouco mais de dois dias, foi lançada uma nova versão do PHP, [a versão 5.
 
 Hoje vamos falar de uma das diversas grandes novidades desta esplêndida atualização, as **funções variádicas**.
 
+<!--more-->
+
 Ao longo das versões 4.x e 5.x do PHP, os desenvolvedores já podiam utilizar funções variádicas através do uso da função ```func_get_args()```.
 
 Se, por exemplo, quiséssemos criar uma função que fizesse a soma de todos os valores passados nos argumentos, bastaria fazermos assim:

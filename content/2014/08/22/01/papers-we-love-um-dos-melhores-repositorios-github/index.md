@@ -20,6 +20,8 @@ Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa 
 
 Recentemente encontrei um excelente repositório no [GitHub](https://github.com) chamado ["Papers We Love"](https://github.com/papers-we-love/papers-we-love) que contém muita informação sobre _computer science_.
 
+<!--more-->
+
 _Computer Science_ traduz-se para "Ciência dos Computadores" ou "Ciência da Computação" e é uma área diretamente ligada com o mundo da informática.
 
 Neste repositório encontram das mais diversas informações relacionadas com este universo:

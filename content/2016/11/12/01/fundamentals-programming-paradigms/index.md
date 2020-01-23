@@ -13,6 +13,8 @@ paradigms they follow. That is something very important to understand how some
 programming languages work. This is part of The Fundamentals of Programming
 Using C series.
 
+<!--more-->
+
 **Programming paradigms** are styles or patterns that tell the "way" to program
 in that language. There are many of them.
 

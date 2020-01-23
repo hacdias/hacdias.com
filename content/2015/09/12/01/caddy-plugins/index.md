@@ -14,6 +14,8 @@ title: Caddy Plugins
 
 [Caddy](https://caddyserver.com) is a HTTP/2 web server with automatic HTTPS. It's easy to use, has no dependencies and it is already production-ready. One of the biggest advantagens of Caddy is that it is relatively simple to create plugins that extend its own native functionalities.
 
+<!--more-->
+
 Despite having contributed few times to Caddy itself, I've managed to create some useful plugins for the community:
 
 + [**http.minify**](https://caddyserver.com/docs/http.minify) implements minification on-the-fly for CSS, HTML, JSON, SVG and XML. It uses [tdewolff's minify library](https://github.com/tdewolff/minify).
@@ -22,6 +24,6 @@ Despite having contributed few times to Caddy itself, I've managed to create som
 
 ## Deprecated
 
-+ **http.filebrowser** is an implementation of my [File Browser project](../../../../../2016/06/10/01/filebrowser/) as a plugin for Caddy.
++ **http.filebrowser** is an implementation of my [File Browser project](/2016/06/10/01/filebrowser/) as a plugin for Caddy.
 + **http.hugo** is a web interface for [Hugo](https://gohugo.io) static website generator.
 + **http.jekyll** is a web interface for [Jekyll](https://jekyllrb.com/) static website generator.

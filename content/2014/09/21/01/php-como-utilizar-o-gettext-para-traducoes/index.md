@@ -12,15 +12,15 @@ tags:
 title: 'PHP - Como utilizar o Gettext para traduções [Parte 1]'
 ---
 
-Como prometido no [último artigo](../../../../../2014/09/13/01/php-wordpress-comandos-printf-sprintf/), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
+Como prometido no [último artigo](/2014/09/13/01/php-wordpress-comandos-printf-sprintf/), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
 
 Com o **gettext** podemos ter um site disponível em diversas linguagens de forma muito fácil e sem complicações. Nesta primeira parte, irá ser abordado como **configurar o gettext** e as suas **funções**.
 
+<!--more-->
+
 O gettext pode ser configurado no PHP através de uma extensão nativa ou através do uso de uma biblioteca separada.Nós iremos utilizar o segundo método por ser mais simples e fácil de configurar.
 
-
 ## Download e estruturação
-
 
 Antes de mais nada, aviso que é **necessário** ter a extensão *mbstring* ativada nas definições do PHP. Em primeiro lugar, deve fazer o _download_ do **php-gettext** nesta [página](https://launchpad.net/php-gettext/).
 

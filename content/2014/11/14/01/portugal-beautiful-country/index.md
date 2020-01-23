@@ -17,6 +17,8 @@ Searching, exploring, walking, running, seeing, knowing, watching, meeting, taki
 
 In the last summer, I've been visiting various places in my country, Portugal. One of them was Évora that is a city in Alentejo. This is an historical city and it's also beautiful.
 
+<!--more-->
+
 After seeing this amazing city, I have searched about this city and I discover that Évora has some places that are considered World Heritage since 1986.
 
 {{< youtube nXWNG55qUDY >}}

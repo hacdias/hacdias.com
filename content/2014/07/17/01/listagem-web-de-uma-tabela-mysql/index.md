@@ -14,10 +14,11 @@ tags:
 title: Listagem web de uma tabela MySQL
 ---
 
-No [último artigo](../../../../../2014/07/16/01/selecionar-um-intervalo-de-linhas-em-mysql/), falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um  pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.
+No [último artigo](/2014/07/16/01/selecionar-um-intervalo-de-linhas-em-mysql/), falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um  pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.
 
 Aqui está ele. Abaixo encontram passo-a-passo como criar um pequeno sistema que liste todas as linhas de uma base de dados, separadas com páginas, cada uma com ```x``` linhas e botões de navegação.
 
+<!--more-->
 
 Para seguir este tutorial é necessário o Apache e o MySQL instalados no computador. Pode utilizar, por exemplo, o tudo-em-um [XAMPP](https://www.apachefriends.org/pt_br/index.html) que já conta com o Apache e MySQL e é muito fácil de instalar.
 
@@ -112,7 +113,7 @@ if (empty($url[0])) {
 $n = $url[0];
 ```
 
-A explicação do código acima está feita nos comentários. Podes saber mais acerca do **operador ternário** [aqui](../../../../../2014/07/22/01/operador-ternario/). Agora que já podemos saber o número da página e temos uma ligação à base de dados pronta, vamos avançar para a página e a listagem em si.
+A explicação do código acima está feita nos comentários. Podes saber mais acerca do **operador ternário** [aqui](/2014/07/22/01/operador-ternario/). Agora que já podemos saber o número da página e temos uma ligação à base de dados pronta, vamos avançar para a página e a listagem em si.
 
 
 ## 3. Um pouco de HTML... e PHP

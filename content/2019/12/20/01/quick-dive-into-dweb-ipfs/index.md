@@ -20,3 +20,5 @@ which is a really nice and open event you can go to and present! If you're inter
 Here's the talk:
 
 {{< youtube EmxUyuCD37Q >}}
+
+<!--more-->

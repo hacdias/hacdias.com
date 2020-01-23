@@ -12,6 +12,8 @@ C#: their first letter. The fact of their name be similar makes some people
 think that these languages are almost the same thing. But… is it true? Are there
 any more similarities between these languages beyond their name?
 
+<!--more-->
+
 ## **Language C**
 
 The programming language C was created at Bell Labs by a computer scientist

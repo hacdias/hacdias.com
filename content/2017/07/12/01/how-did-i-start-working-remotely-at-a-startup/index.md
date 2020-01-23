@@ -20,6 +20,8 @@ Festival](https://festival.landing.jobs/) — a tech jobs event organised by
 [Pplware](http://pplware.sapo.pt/). Though that's not the piece of information
 that matters, I have to thank a lot to them because they were my ground floor.
 
+<!--more-->
+
 {{< figure
     src="landing-fest-thumb.jpg"
     caption="A bit of Landing.jobs Festival 2015" >}}

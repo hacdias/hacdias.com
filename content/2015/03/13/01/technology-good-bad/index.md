@@ -14,6 +14,8 @@ title: Is the technology a good or a bad thing?
 
 Hello everyone! Today I'm going to talk a little bit about technology and if it is a good or a bad thing. This article is, of course, according to my point of view. The main question, for now, is "is the technology a good or a bad thing?".
 
+<!--more-->
+
 ## What is technology?
 
 Firstly, what is technology? I think it is a difficult word to define but according to the dictionary, technology is the science whose objective is the application of technical and scientific knowledge for industrial and commercial purposes so technology isn’t only the Internet.

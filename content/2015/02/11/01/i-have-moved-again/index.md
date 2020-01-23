@@ -19,6 +19,8 @@ I have moved, again. From now until the end of the times, **coxpe.com** and **he
 
 The quote above tells the **main reason** I have made this change. The content created by me was dispersed on the web so I moved it all to one place. I **took away** some things, trying to achieve the perfection.
 
+<!--more-->
+
 I don't want to have a lot of things, dispersed. One thing, one place, is better. Everything is concentrated. Everything is here. There is nothing left to take away, but there is something more to add.
 
 The second reason was that COXPE was receiving a small amount of visits a month and I don't want to maintain two domains with few content.

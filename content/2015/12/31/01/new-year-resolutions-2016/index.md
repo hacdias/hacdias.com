@@ -13,6 +13,8 @@ title: New Year's Resolutions for 2016
 
 One year more has passed. It seems like yesterday I was turning thirteen. Nostalgia. 2015 has been very turbulent and troubled year, but still amazing and meaningful. It has been very antithetical in so many ways I can't tell you. But being that way helped me to grow more than in the years before - growing is a continuous process we should never fear.
 
+<!--more-->
+
 > "Was it worth doing? Everything’s worth doing / If the soul of the doer isn’t small." - Fernando Pessoa
 
 After making a review of what happened this year, I have chosen some objectives to reach in 2016, some New Year's resolutions. I think some of them are... I don't know... a bit ambitious, but only the time can tell if I can achieve them. See it for yourself.

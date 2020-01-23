@@ -11,6 +11,8 @@ Today we are going to discuss about constants and variables,
 which are the "things" that can hold data for us. This is part of The
 Fundamentals of Programming Using C series.
 
+<!--more-->
+
 Look at this code:
 
 ```

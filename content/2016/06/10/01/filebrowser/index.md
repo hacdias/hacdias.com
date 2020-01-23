@@ -17,6 +17,8 @@ specified directory and it can be used to upload, delete, preview, rename and ed
 It allows the creation of multiple users and each user can have its own directory. This software can
 be either used as a standalone application or as a middleware.
 
+<!--more-->
+
 [Visit the Code](https://github.com/filebrowser/filebrowser)
 
 {{< figure src="1-social.jpg" class="full" >}}

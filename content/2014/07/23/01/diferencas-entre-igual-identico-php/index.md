@@ -17,6 +17,8 @@ title: Diferenças entre '==' e '===' em PHP
 
 Dentro de cada categoria existem vários sendo que a dos **comparativos** não é excepção e hoje trago-vos dois operadores comparativos, muito parecidos... ou talvez não: ```==``` e ```===```.
 
+<!--more-->
+
 Há já algum tempo que me questionava em relação ao uso de ambos os operadores pois não tinha a certeza de qual devia utilizar nas diversas situações que me apareciam.
 
 Depois de uma pequena pesquisa, encontrei esta tabela na resposta a uma pergunta no [Stackoverflow](http://stackoverflow.com/) e tomei a liberdade de a transcrever para aqui:

@@ -17,6 +17,8 @@ A biblioteca [jQuery](http://jquery.com/) é das mais conhecidas e utilizadas e
 
 Vamos aprender a efetuar pedidos POST e GET com Ajax, obtendo os dados do lado do servidor utilizando PHP e responder a essa mesma chamada.
 
+<!--more-->
+
 Iremos analisar um exemplo prático: um  formulário de registo ou inscrição  utilizando as tags ```<form>``` do HTML, Ajax para enviar os pedidos para o servidor e  PHP processar os dados e enviar a resposta novamente para o lado do cliente onde será mostrada uma mensagem de sucesso ou erro conforme o sucedido.
 
 Como vamos utilizar o método Ajax do jQuery, temos que importar, em primeiro lugar, a biblioteca jQuery. Na secção <head>  do vosso ficheiro onde vai estar o registo - vou chamar-lhe ```index.html``` - devem colocar o seguinte código:

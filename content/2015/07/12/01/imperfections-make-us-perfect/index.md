@@ -14,6 +14,8 @@ title: Imperfections make us perfect
 
 Sometimes, I look through a window. My bedroom window. It faces the road. I see cars. There are thousand of them. All different: in shape, in colour, in size. But that's only the outside. Their inside is all made of the same essence.
 
+<!--more-->
+
 ## Racism
 
 We are all different. That can lead us to a very big problem: racism. "He has a different colour, let's take him down!" - no! That shouldn't happen, neither here, nor there. We, just like cars, are all made of the same things: blood, bones, cells. We are all very similar, very equal, we are all human beings. So, **say no to racism!** Racism is a problem.

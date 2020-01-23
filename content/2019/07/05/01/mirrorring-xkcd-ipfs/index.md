@@ -18,6 +18,8 @@ As many of you probably know, xkcd is a web comic created in 2005 by Randall Mun
 
 As part of wanting to contribute to [IPFS Archives](https://github.com/ipfs/archives), I decided to look at the issues and find the most interesting one for me, and I did: xkcd! There were some clones already built, but all of them were out of date and weren't automatically updated.
 
+<!--more-->
+
 So I started by building a small tool that would fetch all the comics and their info. I called it... as you might image... [`xkcd-clone`](https://github.com/hacdias/xkcd-clone). It doesn't actually clone the whole website, but only the comics and their metadata.
 
 {{< figure src="2165-thumb-social.jpg" caption="Comic 2165" >}}

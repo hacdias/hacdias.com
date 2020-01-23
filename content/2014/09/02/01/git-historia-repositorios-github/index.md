@@ -16,6 +16,8 @@ title: Git - Uma história e repositórios do GitHub"
 
 Hoje vamos aprender a criar um simples repositório no GitHub e fazer a primeira "commit" ou seja, enviar os primeiros dados para o repositório.
 
+<!--more-->
+
 ## Um pouco de história...
 
 O kernel (ou núcleo) do Linux é um projeto de código aberto com um tamanho muito grande. No período de 1991 a 2002 houveram grandes mudanças no kernel do Linux visto que foi o período onde a manutenção foi maior.

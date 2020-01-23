@@ -19,6 +19,8 @@ Recently I've been wanting to try out more things in my life. Perhaps not recent
 I always have this urge to try out this "new" things that I haven't done before
 and that they seem to be... I don't know... interesting to me.
 
+<!--more-->
+
 {{< figure
   class="left"
   src="blinking-eye.gif"

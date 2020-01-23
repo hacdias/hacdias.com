@@ -19,11 +19,11 @@ A programação é algo fantástico que nos permite fazer qualquer coisa das mai
 
 Cada um, ao longo do tempo, vai adotando diversas formas de programar, diversas idiossincrasias que o vai distinguir ao longo do tempo. Mas o que vos trazemos hoje não é nenhuma idiossincrasia, é o modelo **MVC**.
 
+<!--more-->
+
 **MVC** é um modelo de arquitetura de software que é muito utilizado atualmente mas, por vezes, pode tornar-se confuso inicialmente (como me aconteceu) mas, depois de alguma pesquisa, cheguei à conclusão de que é muito simples **compreender** este modelo.
 
-
 ## O que quer dizer MVC?
-
 
 Em primeiro lugar, é importante saber o que quer dizer MVC e o que é e para que serve cada uma das suas componentes.
 

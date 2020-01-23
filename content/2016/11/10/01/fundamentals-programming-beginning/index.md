@@ -13,6 +13,8 @@ we are going to show you some useful concepts about the programming world. We
 will start by using pseudocode (explained below), advancing gradually until we
 reach the desired language: C.
 
+<!--more-->
+
 ## Programming Languages
 
 Just like any human language, a programming language allows us to communicate.

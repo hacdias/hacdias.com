@@ -16,6 +16,8 @@ Para quem desenvolve aplicações em PHP com outras pessoas ou mesmo sozinho, po
 
 Os **DocBlocks** são (quase) fundamentais na vida dos programadores e estão disponíveis em várias linguagens. Vamos analisar as **tags** que existem nos de PHP e como os utilizar.
 
+<!--more-->
+
 Os DocBlocks em PHP são parte do PHPDoc, uma adaptação do sistema **javadoc** para a linguagem de programação PHP.
 
 Os DocBlocks, ao contrário dos comentários tradicionais, começam sempre por `/**` ao invés de `/*` ou `//`.

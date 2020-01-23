@@ -14,7 +14,9 @@ title: MVC na linguagem PHP - IV
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
 
-A [primeira](../../../../../2014/12/18/01/mvc-linguagem-php/), [segunda](../../../../../2014/12/19/01/mvc-linguagem-php-ii/) e [terceiras](../../../../../2014/12/20/01/mvc-linguagem-php-iii/) partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
+A [primeira](/2014/12/18/01/mvc-linguagem-php/), [segunda](/2014/12/19/01/mvc-linguagem-php-ii/) e [terceiras](/2014/12/20/01/mvc-linguagem-php-iii/) partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
+
+<!--more-->
 
 O que vamos fazer hoje é, simplesmente, criar uma página dinâmica que liste diversos _posts_ que estão na base de dados da aplicação.
 

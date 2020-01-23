@@ -16,6 +16,8 @@ Nowadays, **[node.js](https://nodejs.org/)** is one of the technologies which is
 
 Node.js is a cross-platform platform (which is very redundant) built on Chrome's JavaScript runtime. They say that with Node.js we can create network applications, but we can do a lot more.
 
+<!--more-->
+
 Bow, for example, is a very useful tool built in the top of node.js. We can take advantage of the fact of node.js be cross-platform to create CLI apps which can serve  everyone.
 
 CLI applications can be very useful to task automation, to do repetitive tasks we do everyday, etc. Bower, that I've already mentioned, is useful because it installs and updates all of the front-end dependencies automatically.
