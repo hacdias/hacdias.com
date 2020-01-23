@@ -16,31 +16,44 @@ This is a [uses] page where you can find some of the technology I use. This page
 ## Hardware
 
 - **Laptop**: Macbook Pro 13"
-- **Smartphone**: iPhone 11
+- **Smartphone**: iPhone 11 Pro
 - **Tablet**: iPad Pro
 - **Watch**: FitBit Charge 2
 
 ## Software
 
 - **Editor**: [Visual Studio Code][vscode]
+  - On the terminal, I try to use [vim].
 - **Terminal**: [iTerm][iterm]
 - **Shell**: zsh with [oh my zsh]
 - **Browser**: Chrome and Safari
-- Hugo
+- [Hugo][hugo]
+- My [dotfiles]
 
 ### Hosted services
 
-- DigitalOcean
-- Namecheap
-- GitHub
+- [DigitalOcean][do]
+- [Namecheap][namecheap]
+- [GitHub][gh]
+- [Cloudflare][cloudflare]
 
 ### Self-hosted services
 
-- Caddy
-- Compass
-- Miniflux
+- [Caddy][caddy]
+- [Compass][compass]
+- [Miniflux][miniflux]
 
 [uses]: https://uses.tech/
+[vim]: https://www.vim.org/
 [vscode]: https://code.visualstudio.com/
 [iterm]: https://iterm2.com/
 [oh my zsh]: https://ohmyz.sh/
+[hugo]: https://gohugo.io/
+[do]: https://www.digitalocean.com/
+[namecheap]: https://www.namecheap.com/
+[gh]: https://github.com
+[caddy]: https://caddyserver.com/
+[compass]: https://github.com/aaronpk/Compass
+[miniflux]: https://miniflux.app/
+[cloudflare]: https://www.cloudflare.com/
+[dotfiles]: https://github.com/hacdias/dotfiles
