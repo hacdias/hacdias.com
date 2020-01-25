@@ -8,7 +8,6 @@ description:  >
 menu:
   footer:
     weight: 5
-layout: simple-list
 ---
 
 A galaxy, a black hole, a trashbin, whatever you wanna call it. This is a place for some weird

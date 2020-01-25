@@ -7,7 +7,6 @@ description:  >
 menu:
   main:
     weight: 2
-layout: simple-list
 ---
 
 <small>**Note**: if you decide to read my old posts, please bear in mind that those were written
