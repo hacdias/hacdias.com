@@ -3,6 +3,8 @@ categories:
   - notes
 date: 2020-01-24T11:33:44.527Z
 properties:
+  syndication:
+    - https://twitter.com/hacdias/status/1220671045545484288
   category: &ref_0
     - trains
     - winter
