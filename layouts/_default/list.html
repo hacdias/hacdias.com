@@ -10,6 +10,13 @@
 	{{ end }}
 
 	<div class='h-feed'>
+		{{ $paginator := slice }}
+		{{ if .Params.categoriesToList }}
+			{{ $paginator = .Paginate (where .Site.Pages ".Params.categories" "intersect" .Params.categoriesToList) }}
+		{{ else }}
+			{{ $paginator = .Paginator}}
+		{{ end }}
+
 		{{ range .Paginator.Pages }}
 			{{ $type := (lower (index (or .Params.categories (slice "")) 0 )) }}
 			{{ $data := (dict "Glob" . "Type" $type "Mode" "list") }}

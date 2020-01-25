@@ -2,6 +2,6 @@
 title: Bookmarks
 emoji: 🔖
 menu:
-  footer:
-    weight: 1
+  main:
+    weight: 3
 ---

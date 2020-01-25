@@ -6,7 +6,7 @@ description:  A sorted list of the blogs I follow.
 date:         2020-01-22T09:02:00.000Z
 menu:
   footer:
-    weight: 5
+    weight: 6
 ---
 
 This is an alphabetically sorted list of blogs and websites that I follow. I do not include news websites:

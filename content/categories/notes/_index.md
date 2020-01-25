@@ -2,6 +2,6 @@
 title: Notes
 emoji: ✏️
 menu:
-  main:
-    weight: 4
+  footer:
+    weight: 2
 ---

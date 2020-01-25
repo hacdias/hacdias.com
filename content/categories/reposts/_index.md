@@ -3,5 +3,5 @@ title: Reposts
 emoji: 📣
 menu:
   footer:
-    weight: 3
+    weight: 4
 ---

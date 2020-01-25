@@ -1,6 +1,6 @@
-{{- $pctx := . -}}
-{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
-{{- $pages := $pctx.RegularPages -}}
+{{- $pages := .RegularPages -}}
+{{- if .IsHome -}}{{ $pages = .Site.RegularPages }}{{- end -}}
+{{- if .Params.categoriesToList -}}{{ $pages = where .Site.Pages ".Params.categories" "intersect" .Params.categoriesToList }}{{- end -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}

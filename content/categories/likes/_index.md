@@ -3,5 +3,5 @@ title: Likes
 emoji: 👍
 menu:
   footer:
-    weight: 4
+    weight: 5
 ---

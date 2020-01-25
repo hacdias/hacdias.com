@@ -7,7 +7,7 @@ description:  >
   Be aware! Or they will bite you.
 menu:
   footer:
-    weight: 5
+    weight: 7
 ---
 
 A galaxy, a black hole, a trashbin, whatever you wanna call it. This is a place for some weird

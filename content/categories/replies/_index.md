@@ -3,5 +3,5 @@ title: Replies
 emoji: 💬
 menu:
   footer:
-    weight: 2
+    weight: 3
 ---
