@@ -237,10 +237,20 @@ blockquote {
   height: 100%;
 }
 
-.highlight pre {
-  padding: 1rem;
-  border-radius: 0.5rem;
+.highlight {
+  margin: 1rem 0;
+  border: 1px solid var(--light-white);
+}
+
+.highlight > pre {
+  margin: 0;
+  padding: 0.5rem;
   overflow-x: auto;
+  filter: invert(1);
+}
+
+#dark .highlight > pre {
+  filter: invert(0)
 }
 
 .container {
@@ -512,8 +522,8 @@ figure.right {
 }
 
 #dark {
-  --accent: #FFFF00;
-  --accent-darker: #FFB700;
+  --accent: #0ff;
+  --accent-darker: #0cf;
   --accent-text: black;
   --dark-gray: #eee;
   --gray: #bbb;
