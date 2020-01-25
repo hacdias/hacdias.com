@@ -36,8 +36,8 @@
   <meta property="og:updated_time" content="{{ $date }}" />
 {{ end }}
 
+<!-- Styles -->
 {{- if not .Params.raw -}}
-  <!-- Styles -->
   {{- $normalize := resources.Get "css/normalize.css" }}
   {{- $styles := resources.Get "css/styles.css" }}
   {{- $css := slice $normalize $styles | resources.Concat "css/styles.css" | resources.Minify }}
@@ -46,6 +46,14 @@
 
 {{- range $index, $res := .Resources.Match "*.css" }}
   <link rel="stylesheet" href="{{ $res.RelPermalink }}?hash={{ md5 $res.Content }}">
+{{ end }}
+
+<!-- Scripts -->
+{{ $js := resources.Get "js/common.js" | resources.Minify }}
+<script defer src="{{ $js.RelPermalink }}?hash={{ md5 $js.Content }}"></script>
+
+{{ range $index, $res := .Resources.Match "*.js" }}
+  <script defer src="{{ $res.RelPermalink }}?hash={{ md5 $res.Content }}"></script>
 {{ end }}
 
 {{- with or .Params.emoji .Site.Params.emoji }}<link rel="icon" data-emoji="{{ . }}" type="image/png">{{ end }}
