@@ -40,10 +40,10 @@
   {{ end }}
 
   {{ if $useSummary}}
-    <div class='copy p-summary'><p>{{ .Glob.Summary }}</p></div>
+    <div class='content copy p-summary'><p>{{ .Glob.Summary }}</p></div>
   {{ else }}
     {{ with .Glob.Content }}
-      <div class='copy {{ $layout.contentClass }}'>{{ . }}</div>
+      <div class='content copy {{ $layout.contentClass }}'>{{ . }}</div>
     {{ end }}
   {{ end }}
 

@@ -2,12 +2,13 @@ body {
   --main: #001B44;
   --accent: #E91E63;
   --accent-darker: #b5003d;
+  --accent-text: white;
 
   --dark-gray: #333;
   --gray: #777;
   --white: #ffffff;
   --near-white: #f4f4f4;
-  --light-white: #eee;
+  --light-white: #ddd;
   --f6: .875rem;
   --f7: .75rem;
 }
@@ -81,6 +82,31 @@ a:visited {
 ::selection {
   background: var(--accent);
   color: #fff;
+}
+
+input {
+  padding: .5rem;
+  border: 1px solid var(--light-white);
+  outline: 0;
+  background: var(--white);
+  color: var(--dark-gray);
+}
+
+button,
+input[type="submit"] {
+  background-color: var(--accent);
+  border: 1px solid var(--accent);
+  font-weight: 700;
+  padding: 0.5rem 1rem;
+  color: var(--accent-text);
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+button:hover,
+input[type="submit"]:hover {
+  background-color: var(--accent-darker);
+  border-color: var(--accent-darker);
 }
 
 #header {
@@ -241,7 +267,7 @@ article.box {
 }
 
 article.box header,
-article.box .copy,
+article.box .content,
 article.box footer {
   padding: 0 1rem;
 }
@@ -327,38 +353,70 @@ article.box footer {
 
 .mentions {
   background: var(--near-white);
-  line-height: 1;
   font-size: var(--f6);
   padding: 1rem;
 }
 
-.mentions .p-author .p-name {
+.mentions .contents {
+  line-height: 1;
+}
+
+.mentions .contents .p-author .p-name {
   font-weight: 600;
 }
 
-.mentions .date {
+.mentions .contents .date {
   font-size: var(--f7);
   font-style: italic;
 }
 
-.mentions > div {
+.mentions .contents > div {
   padding-left: 1.5rem;
   margin-bottom: 1rem;
   min-height: 1rem;
   position: relative;
 }
 
-.mentions > div:last-child {
+.mentions .contents > div:last-child {
   margin-bottom: 0;
 }
 
-.mentions .u-photo {
+.mentions .contents .u-photo {
   top: 0;
   left: 0;
   border-radius: 100%;
   width: 1rem;
   height: 1rem;
   position: absolute;
+}
+
+.mentions > form:first-of-type,
+.mentions > div:first-of-type {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.mentions > form:first-of-type > *:first-child,
+.mentions > div:first-of-type > *:first-child {
+  flex-grow: 1;
+}
+
+.mentions input[type="submit"] {
+  margin-left: 1rem;
+  width: 11rem;
+}
+
+.mentions > div:first-of-type p {
+  margin: 0;
+}
+
+.mentions .contents {
+  border-top: 1px solid var(--light-white);
+  padding-top: 1rem;
+}
+
+.mentions > *:last-child {
+  margin-bottom: 0 !important;
 }
 
 figure.full {
@@ -442,6 +500,18 @@ figure.right {
   #header input:checked + nav a {
     display: block;
   }
+
+  .mentions > form:first-of-type,
+  .mentions > div:first-of-type {
+    display: block;
+  }
+
+  .mentions input[type=submit],
+  .mentions input[type=url] {
+    display: block;
+    width: 100%;
+    margin: 1rem 0 0;
+  }
 }
 
 .hide-light,
@@ -456,11 +526,12 @@ figure.right {
 #dark {
   --accent: #FFFF00;
   --accent-darker: #FFB700;
+  --accent-text: black;
   --dark-gray: #eee;
   --gray: #bbb;
   --white: #000000;
   --near-white: #121212;
-  --light-white: #333;
+  --light-white: #222;
 }
 
 #dark img:not([src*=".svg"]) {
