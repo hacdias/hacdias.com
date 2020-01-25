@@ -154,6 +154,7 @@ input[type="submit"]:hover {
 #header nav a.a:hover,
 #header nav a.a {
   background: var(--accent-darker);
+  color: var(--accent-text);
 }
 
 #header nav a {

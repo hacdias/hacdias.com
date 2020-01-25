@@ -1,7 +1,7 @@
 {{ $wm := .Glob.Site.Data.mentions -}}
 {{ $mentions := index $wm (sha256 .Glob.RelPermalink) -}}
 <div class="mentions">
-  <form action="https://webmention.io/hacdias.com/webmention" method="post" class="flex-grow-first">
+  <form action="https://webmention.io/hacdias.com/webmention" method="post">
     <input name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
     <input name="target" value="{{ .Glob.Permalink }}" type="hidden">
     <input value="Send Webmention" type="submit">
