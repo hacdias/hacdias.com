@@ -11,6 +11,6 @@ categoriesToList:
 I'm also working on decentralizing the web with [IPFS](https://ipfs.io). In this homepage, you can find my [articles],
 [notes] and [replies].
 
-[articles]: /blog
-[notes]: /notes
-[replies]: /replies
+[articles]: /blog/
+[notes]: /notes/
+[replies]: /replies/

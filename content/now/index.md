@@ -2,7 +2,8 @@
 type:         page
 title:        Now
 emoji:        ⏱
-date:         2020-01-21T15:06:00.000Z
+publishDate:  2020-01-21T15:06:00.000Z
+date:         2020-01-25T22:53:00.000Z
 description:  >
   This is a simple page for me to join the nownownow movement.
   You can find information about what I'm doing at the moment and
@@ -12,11 +13,17 @@ menu:
     weight: 5
 ---
 
+At the moment, I'm focusing on the following things:
+
+- Finishing my university exams;
+- Improving this website;
+- And getting back to work.
+
 <span id="info">Loading information...</span>
 
 ---
 
-This is a now page, inspired by the [nownownow](https://nownownow.com/about) movement.
+This page is inspired by the [now](https://nownownow.com/about) movement.
 
 <script>
 fetch('https://hacdias.com/api/now')

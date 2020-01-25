@@ -1,25 +1,15 @@
 <footer class='site-footer'>
   <div>
-    <div style="margin-right: auto">&copy; Henrique Dias</div>
-
-    <ul>
-      {{ range $i, $m := .Site.Menus.footer -}}
-        {{ if $i }}<li style="margin: 0 0.25rem;">|</li>{{ end }}
-        <li>
-          <a href='{{ .URL }}' class='no-link {{ if $.IsMenuCurrent "footer" . }}a{{ end }}'>{{ .Name }}</a>
-        </li>
-      {{end}}
-    </ul>
-  </div>
-
-  <div>
     <div style="margin-right: auto">
+      &copy; Henrique Dias |
+      <span style="cursor: pointer;" class='hide-light' onclick="javascript:toggleTheme('l');">go to the bright side</span>
+      <span style="cursor: pointer;" class='hide-dark' onclick="javascript:toggleTheme('d');">go to the dark side</span>
+    </div>
+
+    <div>
       <a title="IndieWeb Webring (Previous)" class="no-link" target="_blank" rel="noreferrer noopener" href="https://xn--sr8hvo.ws/%F0%9F%91%99%F0%9F%88%B6%F0%9F%98%BD/previous">←</a>
       🕸💍
       <a title="IndieWeb Webring (Next) "class="no-link" target="_blank" rel="noreferrer noopener" href="https://xn--sr8hvo.ws/%F0%9F%91%99%F0%9F%88%B6%F0%9F%98%BD/next">→</a>
     </div>
-
-    <span style="cursor: pointer;" class='hide-light' onclick="javascript:toggleTheme('l');">go to the bright side</span>
-    <span style="cursor: pointer;" class='hide-dark' onclick="javascript:toggleTheme('d');">go to the dark side</span>
   </div>
 </footer>

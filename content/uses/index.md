@@ -1,9 +1,6 @@
 ---
 date: 2020-01-21T15:39:00.000Z
 emoji: "\U0001F6E0"
-menu:
-  main:
-    weight: 6
 properties:
   category: &ref_0 []
 tags: *ref_0

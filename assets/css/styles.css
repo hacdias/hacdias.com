@@ -340,7 +340,6 @@ article.box footer {
   margin-right: auto;
 }
 
-.site-footer ul,
 .page-footer ul {
   margin: 0;
   padding: 0;
@@ -453,14 +452,6 @@ figure.right {
 
 .site-footer > div {
   display: flex;
-}
-
-.site-footer ul li {
-  display: inline-block;
-}
-
-.site-footer ul li a.a {
-  font-weight: 600;
 }
 
 .site-footer > div > * {
