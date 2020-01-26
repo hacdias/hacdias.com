@@ -221,7 +221,7 @@ table img {
 
 blockquote {
   padding-left: 0.75rem;
-  margin: 1em 0 1rem 1.5rem;
+  margin: 1em 0 1rem 1rem;
   border-left: .25rem solid var(--accent);
 }
 
@@ -241,7 +241,7 @@ blockquote {
 
 .highlight {
   margin: 1rem 0;
-  border: 1px solid var(--light-white);
+  border: 1px dashed var(--light-white);
 }
 
 .highlight > pre {
@@ -269,9 +269,7 @@ blockquote {
 }
 
 article.box {
-  border-color: var(--light-white);
-  border-style: solid;
-  border-width: 1px;
+  border: 1px solid var(--light-white);
   position: relative;
 }
 
