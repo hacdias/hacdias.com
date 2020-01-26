@@ -268,15 +268,12 @@ blockquote {
   line-height: 1.5;
 }
 
-article.box {
-  border: 1px solid var(--light-white);
-  position: relative;
+.h-feed article {
+  border-bottom: 1px solid var(--light-white);
 }
 
-article.box header,
-article.box .content,
-article.box footer {
-  padding: 0 1rem;
+.h-feed article:first-of-type {
+  border-top: 1px solid var(--light-white);
 }
 
 .h-feed article {
@@ -288,35 +285,11 @@ article.box footer {
   margin: 1rem 0;
 }
 
-.badge {
-  right: -.5rem;
-  top: -.5rem;
-  border-radius: 100%;
-  width: 2rem;
-  height: 2rem;
-  border: 1px solid var(--light-white);
-  background: var(--white);
-  position: absolute;
-  box-sizing: border-box;
-  z-index: 999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  line-height: 1;
-}
-
-.badge span {
-  margin-right: -0.25rem;
-}
-
 .e-entry {
   background-color: var(--near-white);
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
   padding: 1rem;
   position: relative;
-  margin-bottom: 1rem;
-  min-height: 3rem;
+  margin: 1rem 0;
 }
 
 .e-entry > p {

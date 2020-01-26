@@ -1,8 +1,7 @@
 {{ $layout := or (index .Glob.Site.Data.layout .Type) (index .Glob.Site.Data.layout "default") }}
-{{ $box := or (and (ne .Type "blog") (ne .Type "") ) (eq .Mode "list") -}}
 {{ $isList := eq .Mode "list" -}}
 {{ $useSummary := false }}
-<article class='h-entry {{ if $box }}box{{ end }}'>
+<article class='h-entry'>
   {{ if or (eq .Type "blog") (eq .Type "") -}}
     {{ if not .Glob.Params.hideTitle }}
     <header>
@@ -20,10 +19,6 @@
     {{ $arr := index .Glob.Params.properties $layout.property }}
     {{ if $arr }}
       {{ $url := index $arr 0 }}
-
-      {{ with $layout.emoji }}
-        <div class="badge"><span>{{ . }}</span></div>
-      {{ end }}
 
       {{ $dataToShow := index .Glob.Site.Data.xray (sha256 $url) }}
       {{ if eq $dataToShow.type "entry" }}
@@ -69,7 +64,7 @@
       {{- end -}}
       {{- with .Type -}}
         {{- with $.Glob.Site.GetPage (printf "/categories/%s" .) -}}
-          in <a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+          in <a href="{{ .RelPermalink }}">{{ with .Params.emoji }}{{ . }}{{ end }}{{ .Title }}</a></span>
         {{- end -}}
       {{- end -}}
     </span>
