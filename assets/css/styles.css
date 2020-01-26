@@ -268,10 +268,6 @@ blockquote {
   line-height: 1.5;
 }
 
-article {
-  word-break: break-word;
-}
-
 article.box {
   border-color: var(--light-white);
   border-style: solid;
