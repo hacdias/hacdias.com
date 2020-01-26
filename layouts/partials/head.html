@@ -37,7 +37,7 @@
 {{ end }}
 
 <!-- Styles -->
-{{- if not .Params.raw -}}
+{{- if not (eq .Type "html") -}}
   {{- $normalize := resources.Get "css/normalize.css" }}
   {{- $styles := resources.Get "css/styles.css" }}
   {{- $css := slice $normalize $styles | resources.Concat "css/styles.css" | resources.Minify }}

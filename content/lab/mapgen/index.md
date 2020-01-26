@@ -6,7 +6,6 @@ date:  2018-11-27
 description: >
   A (unfortunately not as fast as I wanted) procedural map generator
   using Perlin noise.
-raw: true
 ---
 
 <div id="frame">
