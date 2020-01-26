@@ -7,7 +7,7 @@
     {{ if not .Glob.Params.hideTitle }}
     <header>
       <h1 class='p-name'>
-        {{ if $isList }}<a href="{{ .Glob.RelPermalink }}">{{ end }}
+        {{ if $isList }}<a href="{{ .Glob.RelPermalink }}" class='no-link'>{{ end }}
         {{- .Glob.Title -}}
         {{ if $isList }}</a>{{ end }}
       </h1>
