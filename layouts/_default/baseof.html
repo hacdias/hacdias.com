@@ -4,6 +4,8 @@
   {{ partial "head" . -}}
 </head>
 <body>
+  {{ $js := resources.Get "js/theme.js" }}
+  <script>{{ $js.Content | safeJS }}</script>
   <div class='container'>
     {{ partial "navbar" . -}}
     {{ block "main" . -}}{{ end }}
