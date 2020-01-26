@@ -6,6 +6,7 @@ date:  2019-04-15
 description: >
   A thunderstorm experiment with two different kinds of rain and lightenings.
   It is based on some code I found online, with reworked code and added sound.
+descAsSummary: true
 ---
 
 <div id="thunderstorm"></div>

@@ -6,6 +6,7 @@ date:  2019-04-14
 description: >
   A little colorful experiment where you can randomly create squares, lines and
   adjust their size and sobreposition settings.
+descAsSummary: true
 ---
 
 <div>

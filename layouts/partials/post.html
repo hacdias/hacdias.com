@@ -33,7 +33,9 @@
     {{ end}}
   {{ end }}
 
-  {{ if $useSummary}}
+  {{ if .Glob.Params.descAsSummary }}
+    <div class='content copy p-summary'><p>{{ .Glob.Description }}</p></div>
+  {{ else if $useSummary}}
     <div class='content copy p-summary'><p>{{ .Glob.Summary }}</p></div>
   {{ else }}
     {{ with .Glob.Content }}

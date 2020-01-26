@@ -6,6 +6,7 @@ date:  2016-05-11
 description: >
   Do you remember those Blue Screen of Death on Windows XP and before?
   They were scary. This is my recreation of one as it was on Windows 98/95.
+descAsSummary: true
 ---
 
 <div class="container">
