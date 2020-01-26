@@ -220,9 +220,9 @@ table img {
 }
 
 blockquote {
-  padding-left: 1.5rem;
-  margin: 1em 0;
-  font-style: italic;
+  padding-left: 0.75rem;
+  margin: 1em 0 1rem 1.5rem;
+  border-left: .25rem solid var(--accent);
 }
 
 .video-player div {
