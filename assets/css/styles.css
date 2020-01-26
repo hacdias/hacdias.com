@@ -88,6 +88,7 @@ input {
   padding: .5rem;
   border: 1px solid var(--light-white);
   outline: 0;
+  border-radius: 0;
   background: var(--white);
   color: var(--dark-gray);
 }
@@ -101,6 +102,7 @@ input[type="submit"] {
   color: var(--accent-text);
   text-transform: uppercase;
   cursor: pointer;
+  border-radius: 0;
 }
 
 button:hover,
