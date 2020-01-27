@@ -16,7 +16,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: This is a quick...
 ---
 
 This is a quick post to check if location parsing is working.

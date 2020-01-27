@@ -7,7 +7,6 @@ properties:
     - DfHHo9wWsAUSFod.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/1004803790585942016'
-title: '[@JakeWrightUK](https://twitter.com/JakeWrightUK) checking i...'
 ---
 
 [@JakeWrightUK](https://twitter.com/JakeWrightUK) checking if you had a new video and oh, look, you just hit 131k subscribers

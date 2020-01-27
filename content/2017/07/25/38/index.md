@@ -10,7 +10,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/889764392073666560'
 tags: *ref_0
-title: '[@caddyserver](https://twitter.com/caddyserver) filemanager...'
 ---
 
 [@caddyserver](https://twitter.com/caddyserver) filemanager plugin is trending today on [@github](https://twitter.com/github) 😊#golang #opensource

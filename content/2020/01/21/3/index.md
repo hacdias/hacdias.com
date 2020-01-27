@@ -10,7 +10,6 @@ properties:
   location:
     - 'geo:38.74488,-9.13456;u=5088'
 tags: *ref_0
-title: I also noticed...
 ---
 
 I also noticed my CSS is giant (~77KB). I was using [Tachyons](https://tachyons.io/) to make it faster to develop the website. I'm thinking about removing it, reducing the CSS size. I also want to remove the image lazy loading that I'm using and use an approach like [Tom's](https://macwright.org/2019/02/28/photos.html).

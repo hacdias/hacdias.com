@@ -7,7 +7,6 @@ properties:
     - DTxd4vEXUAU79NR.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/953740488439410690'
-title: 'Lovely error messages [@github](https://twitter.com/github)...'
 ---
 
 Lovely error messages [@github](https://twitter.com/github)

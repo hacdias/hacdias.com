@@ -12,7 +12,6 @@ properties:
   location:
     - 'geo:38.74488,-9.13456;u=5088'
 tags: *ref_0
-title: Weather in the...
 ---
 
 Weather in the terminal:

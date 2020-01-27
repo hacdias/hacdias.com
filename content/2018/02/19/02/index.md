@@ -10,7 +10,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/965639889546108928'
 tags: *ref_0
-title: 'This is SO annoying. #studentLife...'
 ---
 
 This is SO annoying. #studentLife

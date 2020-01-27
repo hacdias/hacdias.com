@@ -9,7 +9,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/891403408061714432'
 tags: *ref_0
-title: 'Bash on Windows might be really good, but sometimes I''d pref...'
 ---
 
 Bash on Windows might be really good, but sometimes I'd prefer to be running a system which would have it natively #windows #developer

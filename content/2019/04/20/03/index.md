@@ -11,7 +11,6 @@ properties:
   video:
     - D4l_xxzXsAIe1Kg.mp4
 tags: *ref_0
-title: Here's an animation with some creatures only Portuguese peop...
 ---
 
 Here's an animation with some creatures only Portuguese people will understand. We'd call them "Magic Fireflies". Do you still buy them? #PirilampoMagico #pixelart

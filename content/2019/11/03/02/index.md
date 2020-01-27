@@ -10,7 +10,6 @@ properties:
   video:
     - 8yfauepva2RFLaE3.mp4
 tags: *ref_0
-title: Just added a manual toggle to my website where you can pick...
 ---
 
 Just added a manual toggle to my website where you can pick between dark and light theme, overriding your system settings! #css

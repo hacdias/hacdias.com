@@ -16,7 +16,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: I'm now part of...
 ---
 
 I'm now part of the IndieWeb Webring and the system just gave me this emoji combination — 👙🈶😽 — I just don't understand why!

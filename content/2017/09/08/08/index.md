@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/906148669602357249'
 tags: *ref_0
-title: 'Just noticed  #git is absolutely amazing. I''m going through...'
 ---
 
 Just noticed  #git is absolutely amazing. I'm going through all of the versions of my website since I use git. Nostalgia and amusement.

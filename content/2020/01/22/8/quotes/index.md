@@ -11,7 +11,6 @@ properties:
   location:
     - 'geo:38.74488,-9.13456;u=5088'
 tags: *ref_0
-title: Just found a fi...
 ---
 
 Just found a file with some quotes about simplicity I noted some time ago. I thought it'd be nice to save them here!

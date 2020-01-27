@@ -9,7 +9,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/965234648153542657'
 tags: *ref_0
-title: "22C in Portugal. Is this right? \U0001F62E #weather #portugal..."
 ---
 
 22C in Portugal. Is this right? 😮 #weather #portugal

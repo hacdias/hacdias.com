@@ -7,7 +7,6 @@ properties:
     - DSm8n5JWkAA2nb8.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/948496620571766784'
-title: Life at university be like....
 ---
 
 Life at university be like.

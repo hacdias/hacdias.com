@@ -10,7 +10,6 @@ properties:
     - software
     - terminal
 tags: *ref_0
-title: Watch a movie t...
 ---
 
 Watch a movie through telnet:

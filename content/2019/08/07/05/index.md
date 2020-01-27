@@ -7,7 +7,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1159178442274988033'
 tags: *ref_0
-title: "How does my website work? \U0001F914https://hacdias.com/blog/decent..."
 ---
 
 How does my website work? 🤔  

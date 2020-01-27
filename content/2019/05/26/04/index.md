@@ -9,7 +9,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1132587793736241152'
 tags: *ref_0
-title: 'I voted! Did you? Don''t underestimate the power of vote. #EU...'
 ---
 
 I voted! Did you? Don't underestimate the power of vote. #EUelections2019   #ThisTimeImVoting

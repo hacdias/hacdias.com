@@ -13,7 +13,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1033268764849201152'
 tags: *ref_0
-title: 'Really excited about the new #IPFS WebUI - it has a lot of n...'
 ---
 
 Really excited about the new #IPFS WebUI - it has a lot of new features and a much better design thanks to everyone involved! [@olizilla](https://twitter.com/olizilla) [@\_alanshaw](https://twitter.com/_alanshaw) [@agata\_krych](https://twitter.com/agata_krych) [@\_fsdiogo](https://twitter.com/_fsdiogo)

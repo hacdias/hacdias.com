@@ -9,7 +9,6 @@ properties:
   location:
     - 'geo:38.74488,-9.13456;u=5088'
 tags: *ref_0
-title: "\U0001F1F5\U0001F1F9 Uma citaçã..."
 ---
 
 🇵🇹 Uma citação da qual sempre gostei imenso, de um livro que não esperava ler. Fica aqui, for the record:

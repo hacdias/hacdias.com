@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/889514110546829312'
 tags: *ref_0
-title: 'The truth of #SocialMedia: "Social media is becoming an enga...'
 ---
 
 The truth of #SocialMedia: "Social media is becoming an engagement channel." via [@alfred\_lua](https://twitter.com/alfred_lua) [http://buff.ly/2upNLTO](http://buff.ly/2upNLTO)

@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/896302353653084160'
 tags: *ref_0
-title: 'Love the #opensource community!! Just received a Japanese tr...'
 ---
 
 Love the #opensource community!! Just received a Japanese translation for File Manager! [https://github.com/hacdias/filemanager/pull/200](https://github.com/hacdias/filemanager/pull/200)

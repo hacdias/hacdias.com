@@ -10,7 +10,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/897889771724394496'
 tags: *ref_0
-title: 'Just made some pretty, huge, beautiful cookies!! #cookieteam...'
 ---
 
 Just made some pretty, huge, beautiful cookies!! #cookieteam

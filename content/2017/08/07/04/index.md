@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/894685228547158018'
 tags: *ref_0
-title: 'Why is #GameOfThrones so good? Why???...'
 ---
 
 Why is #GameOfThrones so good? Why???

@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/981618598736203778'
 tags: *ref_0
-title: 'I''ve got a pair of tickets to #CollisionConf in New Orleans...'
 ---
 
 I've got a pair of tickets to #CollisionConf in New Orleans but I'm not using them. Do any of you want them? Or know someone that might want them? RT please.

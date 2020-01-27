@@ -12,7 +12,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/982365068452122624'
 tags: *ref_0
-title: 'The new cover albums of [@eltonofficial](https://twitter.com...'
 ---
 
 The new cover albums of [@eltonofficial](https://twitter.com/eltonofficial)'s musics are just awesome! #Revamp and #Restoration 👏👏👏

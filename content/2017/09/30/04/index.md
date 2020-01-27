@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/914219837848735744'
 tags: *ref_0
-title: Just tried peanut butter for the first time. It tastes sooo...
 ---
 
 Just tried peanut butter for the first time. It tastes sooo good! 👅 #peanutbutter

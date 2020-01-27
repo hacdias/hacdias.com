@@ -9,7 +9,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1212337716999970818'
 tags: *ref_0
-title: What do you thi...
 ---
 
 What do you think: is 2020 the beginning of the new decade or is that 2021?

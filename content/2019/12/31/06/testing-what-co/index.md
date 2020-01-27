@@ -16,7 +16,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: Testing what co...
 ---
 
 Testing what commands look like behind the scenes! :O

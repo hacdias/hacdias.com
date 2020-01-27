@@ -10,7 +10,6 @@ properties:
   location:
     - 'geo:37.50651,-8.29791;u=7114'
 tags: *ref_0
-title: 2020 just begun...
 ---
 
 2020 just begun and I already started breaking my Micropub server 😢

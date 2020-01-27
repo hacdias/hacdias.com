@@ -17,7 +17,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: Uuuhhhh.. I now...
 ---
 
 Uuuhhhh.. I now have nice rich previews thanks to [xray](https://github.com/aaronpk/XRay)!

@@ -12,7 +12,6 @@ properties:
   location:
     - 'geo:37.50625,-8.29768;u=7507'
 tags: *ref_0
-title: I just added a...
 ---
 
 I just added a little form in the webmentions section on the posts so you can send your webmention manually if it didn't hit my website. Or, you can also use the button 'Write a comment' to create a comment (that can be anonymous) through the [comment parade](https://commentpara.de/) service.

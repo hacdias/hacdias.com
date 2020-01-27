@@ -7,7 +7,6 @@ properties:
     - DFzb5e4WsAAjZkP.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/890828625695715328'
-title: '"Our task is to find singular ways to create the new things...'
 ---
 
 "Our task is to find singular ways to create the new things that will make the future not just different, but better - to go from 0 to 1."

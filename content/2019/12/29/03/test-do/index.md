@@ -16,7 +16,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: Moved from Netl...
 ---
 
 Moved from Netlify to my DO droplet to help me organize better the workflow of updating the website... This is a test post!

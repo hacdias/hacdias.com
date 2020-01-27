@@ -7,7 +7,6 @@ properties:
     - Dj7wWzSXcAAa9ri.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/1026522267398885376'
-title: '[@NotionHQ](https://twitter.com/NotionHQ) some suggestion fo...'
 ---
 
 [@NotionHQ](https://twitter.com/NotionHQ) some suggestion for Windows' app:  

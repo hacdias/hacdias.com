@@ -7,7 +7,6 @@ properties:
     - DGE8mlnWsAAWSXv.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/892060851426951168'
-title: '[@github](https://twitter.com/github) [@GitHubHelp](https://...'
 ---
 
 [@github](https://twitter.com/github) [@GitHubHelp](https://twitter.com/GitHubHelp)? 😢

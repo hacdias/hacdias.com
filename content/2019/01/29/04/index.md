@@ -12,7 +12,6 @@ properties:
   video:
     - DyFhZf8UYAAlnCn.mp4
 tags: *ref_0
-title: 'What about supporting ipfs:// (ipns and dweb) links in your...'
 ---
 
 What about supporting ipfs:// (ipns and dweb) links in your browser? #IPFS #protocols #dweb

@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/889034620230094848'
 tags: *ref_0
-title: 'I''m resetting my #Twitter account :)...'
 ---
 
 I'm resetting my #Twitter account :)

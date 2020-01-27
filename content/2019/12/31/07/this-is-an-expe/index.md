@@ -5,8 +5,6 @@ categories:
   - notes
 date: 2019-12-31T20:57:38.604Z
 properties:
-  syndication:
-    - https://twitter.com/hacdias/status/1212115638002556929
   location:
     - properties:
         country: PRT
@@ -15,7 +13,8 @@ properties:
         longitude: -8.29768
         region: Beja
       type: h-adr
-title: This is an expe...
+  syndication:
+    - 'https://twitter.com/hacdias/status/1212115638002556929'
 ---
 
 This is an experiment...

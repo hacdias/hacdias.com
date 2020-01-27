@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/hacdias/status/892478516125716480'
   video:
     - DGK4c6IXsAILUHO.mp4
-title: Internationalization is going to be a thing in the next rele...
 ---
 
 Internationalization is going to be a thing in the next release of File Manager! Thanks @toyo13140010096 for your translation 😁 [@caddyserver](https://twitter.com/caddyserver)

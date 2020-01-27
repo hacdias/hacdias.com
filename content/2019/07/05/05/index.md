@@ -9,7 +9,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1147179960123252737'
 tags: *ref_0
-title: 'Created a clone of #xkcd to keep it archived on the decentra...'
 ---
 
 Created a clone of #xkcd to keep it archived on the decentralised web with #ipfs. Read more about it [https://hacdias.com/blog/mirrorring-xkcd-ipfs/](https://hacdias.com/blog/mirrorring-xkcd-ipfs/)!

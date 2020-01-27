@@ -9,7 +9,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/891965418688184320'
 tags: *ref_0
-title: 'Which is the best #VueJS internationalization plugin? #javas...'
 ---
 
 Which is the best #VueJS internationalization plugin? #javascript

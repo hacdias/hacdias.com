@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/890663165653950464'
 tags: *ref_0
-title: 'Some #Trump administration''s spelling errors. This is kinda...'
 ---
 
 Some #Trump administration's spelling errors. This is kinda hilarious but... [https://www.youtube.com/watch?time\_continue=61&v=gLYD9sLoRY4](https://www.youtube.com/watch?time_continue=61&v=gLYD9sLoRY4)

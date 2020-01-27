@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/905858684932251648'
 tags: *ref_0
-title: '@Kurz_Gesagt has brilliantly fed my curiosity on what would...'
 ---
 
 [@Kurz\_Gesagt](https://twitter.com/Kurz_Gesagt) has brilliantly fed my curiosity on what would happen if we brought sun to #Earth [https://youtu.be/J0ldO87Pprc](https://youtu.be/J0ldO87Pprc)

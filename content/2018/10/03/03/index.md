@@ -12,7 +12,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1047590428923584512'
 tags: *ref_0
-title: 'What about a new #IPFS Desktop? More connected to Web UI tha...'
 ---
 
 What about a new #IPFS Desktop? More connected to Web UI than ever with support to different connections and prettier! /cc [@olizilla](https://twitter.com/olizilla) [@\_fsdiogo](https://twitter.com/_fsdiogo) [@daviddias](https://twitter.com/daviddias)

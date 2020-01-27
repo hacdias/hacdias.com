@@ -10,7 +10,6 @@ properties:
   video:
     - DFhSMsVXkAITO-z.mp4
 tags: *ref_0
-title: 'Here''s a gif of filemanager''s plugin for [@caddyserver](http...'
 ---
 
 Here's a gif of filemanager's plugin for [@caddyserver](https://twitter.com/caddyserver)! #golang [https://github.com/hacdias/filemanager](https://github.com/hacdias/filemanager)

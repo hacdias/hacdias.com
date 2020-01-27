@@ -11,7 +11,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/890639504197005313'
 tags: *ref_0
-title: 'Too much inconsistency across [@Windows](https://twitter.com...'
 ---
 
 Too much inconsistency across [@Windows](https://twitter.com/Windows) 10 context menus. [@windowsdev](https://twitter.com/windowsdev) what's up with this? #windows #design

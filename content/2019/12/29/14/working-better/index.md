@@ -17,7 +17,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: Working better...
 ---
 
 Working better now, but there's still some permissions issues and for some reason I'm not being able to fix them...

@@ -12,7 +12,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1214322750963290112'
 tags: *ref_0
-title: It’s been quite...
 ---
 
 It’s been quite a few days since I last posted. But I decided that this year I’ll post more. I have about three posts on the queue to write ✏️ I’ve also been working on the backend of this website and I’m quite happy with the progress. Updates soon.

@@ -11,7 +11,6 @@ properties:
   location:
     - 'geo:37.50625,-8.29768;u=7507'
 tags: *ref_0
-title: Just made a few...
 ---
 
 Just made a few updates to my website:

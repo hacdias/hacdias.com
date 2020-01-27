@@ -16,7 +16,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: This is the fin...
 ---
 
 This is the final check down…. Tururu

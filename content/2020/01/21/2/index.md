@@ -9,7 +9,6 @@ properties:
   location:
     - 'geo:38.74488,-9.13456;u=5088'
 tags: *ref_0
-title: I wanted to hav...
 ---
 
 I wanted to have a cleaner look on this website and make an about page instead of dumping that on the frontpage. However, I don't feel like the current [All page](/all) looks that good so... I don't know.

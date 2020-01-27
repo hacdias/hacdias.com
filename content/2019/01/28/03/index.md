@@ -11,7 +11,6 @@ properties:
   video:
     - DyAr-xAW0AAIhJJ.mp4
 tags: *ref_0
-title: 'You''ll be able to add stuff to #IPFS via a context menu opti...'
 ---
 
 You'll be able to add stuff to #IPFS via a context menu option on Windows! All of this through #IPFSDesktop! [https://github.com/ipfs-shipyard/ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop)

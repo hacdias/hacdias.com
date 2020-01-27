@@ -7,7 +7,6 @@ properties:
     - DFlzUDRWsAATdg5.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/889869316858015745'
-title: 'File Manager is trending on 2nd place for [@golang](https://...'
 ---
 
 File Manager is trending on 2nd place for [@golang](https://twitter.com/golang) on [@github](https://twitter.com/github) 😀😊

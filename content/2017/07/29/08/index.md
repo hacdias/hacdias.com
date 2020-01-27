@@ -10,7 +10,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/891347897698136064'
 tags: *ref_0
-title: What is the 'best' country to study Computer Science in Euro...
 ---
 
 What is the 'best' country to study Computer Science in Europe? #compsci #study #europe

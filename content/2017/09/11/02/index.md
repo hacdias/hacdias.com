@@ -7,7 +7,6 @@ properties:
     - DJdIHBkWAAAydKO.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/907273154002857984'
-title: Next time I'll be more careful when buying yoghurts in sale....
 ---
 
 Next time I'll be more careful when buying yoghurts in sale. These are spicy!

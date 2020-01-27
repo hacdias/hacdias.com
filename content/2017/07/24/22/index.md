@@ -8,7 +8,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/889415897005211648'
 tags: *ref_0
-title: 'The goals and constraints of Go 2. #golang  https://blog.gol...'
 ---
 
 The goals and constraints of Go 2. #golang [https://blog.golang.org/](https://blog.golang.org/)

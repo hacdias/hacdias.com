@@ -9,8 +9,6 @@ properties:
     - packages
     - indieauth
     - micropub
-  syndication:
-    - https://twitter.com/hacdias/status/1211996203514290176
   location:
     - properties:
         country: PRT
@@ -19,8 +17,9 @@ properties:
         longitude: -8.29768
         region: Beja
       type: h-adr
+  syndication:
+    - 'https://twitter.com/hacdias/status/1211996203514290176'
 tags: *ref_0
-title: Just published...
 ---
 
 Just published two minimal packages to help building micropub applications!
