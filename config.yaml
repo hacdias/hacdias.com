@@ -3,7 +3,7 @@ languageCode: en
 paginate: 20
 pluralizelisttitles: false
 removePathAccents: true
-title: Henrique Dias
+title: "@hacdias's blog"
 pygmentsStyle: swapoff
 summarylength: 30
 relativeURLs: true
