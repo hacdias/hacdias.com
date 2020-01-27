@@ -12,8 +12,6 @@ description: >
 title: Almost two years at Protocol Labs
 ---
 
-{{< skills "React" "HTML" "CSS" "JavaScript" >}}
-
 Protocol Labs (PL) is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.
 
 <!--more-->

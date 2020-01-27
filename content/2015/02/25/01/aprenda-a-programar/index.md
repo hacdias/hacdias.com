@@ -9,9 +9,9 @@ description: >
   C. That ebook consists in the compilation of a series of blog posts on Pplware
   into a beautiful and easily readable PDF.
 title: Aprenda a Programar
+tags:
+  - projects
 ---
-
-{{< skills "C" "Writing" >}}
 
 In 2015, with only 15 years old, I wrote an ebook teaching how to program in C.
 That ebook consists in the compilation of a series of blog posts on [Pplware](/2016/09/11/01/pplware/)

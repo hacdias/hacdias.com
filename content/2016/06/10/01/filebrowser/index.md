@@ -8,9 +8,9 @@ description: >
   File Browser provides a file managing interface within a specified directory
   and it can be used to upload, delete, preview, rename and edit your files.
 title: File Browser
+tags:
+  - projects
 ---
-
-{{< skills "Go" "JavaScript" "Vue.js Framework" "CSS" "HTML" >}}
 
 File Browser (formerly known as File Manager) provides a file managing interface within a
 specified directory and it can be used to upload, delete, preview, rename and edit your files.

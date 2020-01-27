@@ -9,9 +9,9 @@ description: >
   shaping the next generation of entrepreneurs by building an immersive
   experience.
 title: Upframe
+tags:
+  - projects
 ---
-
-{{< skills "Server Admin" "HTML" "CSS" "Go" "JavaScript" >}}
 
 Upframe is a movement built by students, professors, companies, incubators and startup founders worldwide with the mission to promote the development of an entrepreneurial mindset in students.
 
