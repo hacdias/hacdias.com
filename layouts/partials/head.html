@@ -1,21 +1,25 @@
 {{- $description := or .Description .Site.Params.Description }}
 {{- $img := or (.Page.Resources.GetMatch "*social*") (.Page.Resources.GetMatch "*cover*") (.Page.Resources.GetMatch "*thumb*") }}
+{{- $shortTitle := or .Title .Site.Title -}}
+{{- $longTitle := (printf "%s - %s" $shortTitle .Site.Title) -}}
+{{- if .IsHome -}}{{ $longTitle = .Site.Title }}{{- end -}}
+{{- if not .Title -}}{{ $longTitle = $shortTitle }}{{- end -}}
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ .Title }}{{ if not .IsHome }} - {{ .Site.Title }}{{ end }}</title>
+<title>{{ $longTitle }}</title>
 <meta name="description" content="{{ $description }}">
 <link rel="canonical" href="{{ .Permalink }}">
 
 {{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@{{ .Site.Social.twitter }}"/>
-<meta name="twitter:title" content="{{ .Title }}"/>
+<meta name="twitter:title" content="{{ $shortTitle }}"/>
 <meta name="twitter:description" content="{{ $description }}"/>
 <meta name="twitter:creator" content="@{{ .Site.Social.twitter }}"/>
 {{ with $img }}<meta name="twitter:image:src" content="{{ .Permalink }}"/>{{ end }}
@@ -23,11 +27,11 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ .Site.LanguageCode }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:title" content="{{ $shortTitle }}" />
 <meta property="og:description" content="{{ $description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-{{ with $img }}<meta property="og:image" content="{{ .Permalink }}" />{{ end }}
+{{- with $img }}<meta property="og:image" content="{{ .Permalink }}" />{{ end -}}
 
 {{ if and .IsPage (not .Date.IsZero) }}
   {{ $date := .Date.Format "2006-01-02T15:04:05-07:00" }}
