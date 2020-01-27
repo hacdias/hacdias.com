@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/1125808069705789440'
   syndication:
     - 'https://twitter.com/hacdias/status/1125896558480961537'
-title: Oh no....
 ---
 

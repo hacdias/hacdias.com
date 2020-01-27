@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/PascalPrecht/status/1037717571154468867'
   syndication:
     - 'https://twitter.com/hacdias/status/1037788713177292801'
-title: Happy to see "Content Identifiers in @IPFSbot" made it into...
 ---
 

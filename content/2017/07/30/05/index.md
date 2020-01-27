@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/jplur_/status/891358168688754688'
   syndication:
     - 'https://twitter.com/hacdias/status/891674735616065536'
-title: javascript is wild...
 ---
 

@@ -7,7 +7,6 @@ properties:
     - /2017/08/02/04/
   syndication:
     - 'https://twitter.com/hacdias/status/892850858882289665'
-title: It wasn't on purpose......
 ---
 
 It wasn't on purpose...

@@ -9,7 +9,6 @@ properties:
     - 'https://twitter.com/hacdias/status/1119567421910724608'
   video:
     - D4mAkijW4AEb36F.mp4
-title: "Some extravaganza for those who enjoy it \U0001F308..."
 ---
 
 Some extravaganza for those who enjoy it 🌈

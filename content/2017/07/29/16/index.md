@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/richturn_ms/status/891045519555928064'
   syndication:
     - 'https://twitter.com/hacdias/status/891183175287926784'
-title: Awesome!...
 ---
 
 Awesome!

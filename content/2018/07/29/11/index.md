@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/98MigRocha/status/1023507456759087104'
   syndication:
     - 'https://twitter.com/hacdias/status/1023522457947398144'
-title: Um tweet...
 ---
 
 Um tweet

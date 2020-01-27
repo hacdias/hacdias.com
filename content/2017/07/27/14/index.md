@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/mrgan/status/890634900071526400'
   syndication:
     - 'https://twitter.com/hacdias/status/890664083690672130'
-title: "Oh god \U0001F602\U0001F602\U0001F602\U0001F602\U0001F602\U0001F602..."
 ---
 
 Oh god 😂😂😂😂😂😂

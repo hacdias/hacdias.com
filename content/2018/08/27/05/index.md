@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/1034055822270193670'
   syndication:
     - 'https://twitter.com/hacdias/status/1034085091520249859'
-title: 'I upgraded the #IPLD explorer CLI tool to support all the ex...'
 ---
 

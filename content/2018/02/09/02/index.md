@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/rafahari/status/961912782290673664'
   syndication:
     - 'https://twitter.com/hacdias/status/961913373641277440'
-title: 'Hey! Obrigado, já funciona. No entanto, antes funcionava com...'
 ---
 
 Hey! Obrigado, já funciona. No entanto, antes funcionava com o uBlock ativado :)

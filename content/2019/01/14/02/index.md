@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/GameOfThrones/status/1084631184804433921'
   syndication:
     - 'https://twitter.com/hacdias/status/1084721520096743424'
-title: 'April 14. #ForTheThrone...'
 ---
 

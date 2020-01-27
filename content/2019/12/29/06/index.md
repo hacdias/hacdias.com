@@ -16,7 +16,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: 'Replied to https://aaronparecki.com/2018/06/30/11/your-first-webmention'
 ---
 
 Not my first webmention, but trying them out to make sure they work!

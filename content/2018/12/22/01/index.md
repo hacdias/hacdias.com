@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/IPFSbot/status/1076260321373896704'
   syndication:
     - 'https://twitter.com/hacdias/status/1076394505635618816'
-title: 'Happy Friday, would you like an upgraded IPFS desktop client...'
 ---
 

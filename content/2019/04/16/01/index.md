@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/FuwanekoGames/status/1117806011283333120'
   syndication:
     - 'https://twitter.com/hacdias/status/1118144239551045632'
-title: 'My favorite #sphere and her friend! #pixel_dailies @pixel_da...'
 ---
 

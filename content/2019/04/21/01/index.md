@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/agata_krych/status/1119849104505491457'
   syndication:
     - 'https://twitter.com/hacdias/status/1119867648773369857'
-title: "Thanks \U0001F60A..."
 ---
 
 Thanks 😊

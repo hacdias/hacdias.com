@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/Punk__R0ck/status/1128367846713700352'
   syndication:
     - 'https://twitter.com/hacdias/status/1128368837739581440'
-title: I did. And they worked. Don't forget that this is an automat...
 ---
 
 I did. And they worked. Don't forget that this is an automatic process (releasing and publishing) and that not all edge cases can be tested. Also, don't forget that "latest" is equivalent to "master". You didn't tell what's wrong though.

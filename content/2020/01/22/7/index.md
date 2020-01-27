@@ -10,7 +10,6 @@ properties:
   in-reply-to:
     - 'https://aaronparecki.com/2020/01/22/1/'
 tags: *ref_0
-title: Thanks for the...
 ---
 
 Thanks for the info :D Will probably do something similar when I have more data to create more interesting "maps".

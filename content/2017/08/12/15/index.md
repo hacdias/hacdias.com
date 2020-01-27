@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/anarlguerra/status/896380297494880257'
   syndication:
     - 'https://twitter.com/hacdias/status/896405043724906500'
-title: Me - *bounces head while working* Friend - Why are you so ha...
 ---
 

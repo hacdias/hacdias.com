@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/BarbaraCorcoran/status/891328777502035968'
   syndication:
     - 'https://twitter.com/hacdias/status/891347733814140928'
-title: Every single failure has an equally great upside if you are...
 ---
 

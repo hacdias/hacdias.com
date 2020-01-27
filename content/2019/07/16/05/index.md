@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/TheMrKiko/status/1150819844272660481'
   syndication:
     - 'https://twitter.com/hacdias/status/1150905718079401985'
-title: Esqueci-me...
 ---
 
 Esqueci-me

@@ -7,8 +7,5 @@ properties:
     - 'https://twitter.com/erinfranmc/status/1148986961207730176'
   syndication:
     - 'https://twitter.com/hacdias/status/1149085475665317889'
-title: |-
-  expect(umbrellaOpens).toBe(true) 
-  tests: 1 passed, 1 total...
 ---
 

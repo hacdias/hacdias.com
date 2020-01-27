@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/clerigo/status/1096069699069267968'
   syndication:
     - 'https://twitter.com/hacdias/status/1096100082733203456'
-title: Ugh. Isso é bastante triste e não compreendo o porquê de dem...
 ---
 
 Ugh. Isso é bastante triste e não compreendo o porquê de demorar tanto tempo. Let's see. Talvez este ano

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/IPFSbot/status/968885979455963136'
   syndication:
     - 'https://twitter.com/hacdias/status/969154144538939392'
-title: 'Looking for an IPFS meetup in Beijing, Delhi, London, Boston...'
 ---
 

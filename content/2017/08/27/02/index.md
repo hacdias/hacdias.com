@@ -9,6 +9,5 @@ properties:
     - 'https://twitter.com/hacdias/status/901809045346111490'
   video:
     - DIPeiGxWAAA96p9.mp4
-title: "Shame... \U0001F6CE Shame... \U0001F6CE #got #walkofshame #gameofthrones #du..."
 ---
 

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/caddyserver/status/900426870520291328'
   syndication:
     - 'https://twitter.com/hacdias/status/900475955801665536'
-title: "\U0001F631\U0001F631\U0001F631..."
 ---
 
 😱😱😱

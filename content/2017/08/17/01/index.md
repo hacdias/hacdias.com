@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/gustavocpimenta/status/898076254318080000'
   syndication:
     - 'https://twitter.com/hacdias/status/898127062246072320'
-title: "\U0001F602\U0001F602\U0001F602..."
 ---
 
 😂😂😂

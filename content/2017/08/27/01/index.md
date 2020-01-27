@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/dialexnunes/status/901871727134871553'
   syndication:
     - 'https://twitter.com/hacdias/status/901894584510361601'
-title: Unfortunately I think it's a feature. They recently changed...
 ---
 
 Unfortunately I think it's a feature. They recently changed from "recommendations" to "claps".

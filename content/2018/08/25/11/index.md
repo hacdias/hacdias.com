@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/PascalPrecht/status/1033294756271542272'
   syndication:
     - 'https://twitter.com/hacdias/status/1033295070034837504'
-title: 'You can try it out now: https://github.com/ipfs-shipyard/ipf...'
 ---
 
 You can try it out now: [https://github.com/ipfs-shipyard/ipfs-webui/tree/revamp](https://github.com/ipfs-shipyard/ipfs-webui/tree/revamp) 😁

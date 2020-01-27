@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/sindresorhus/status/890296040661897216'
   syndication:
     - 'https://twitter.com/hacdias/status/890297780039757824'
-title: I've never seen it in that perspective but it actually makes...
 ---
 
 I've never seen it in that perspective but it actually makes sense. Only when they saw a lot of devs moving to other platforms

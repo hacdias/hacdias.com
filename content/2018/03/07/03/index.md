@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/brianleroux/status/971187824333537280'
   syndication:
     - 'https://twitter.com/hacdias/status/971448892825972738'
-title: when the frontend dev spots a bug and opens the browser devt...
 ---
 

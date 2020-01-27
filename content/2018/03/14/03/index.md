@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/Kurz_Gesagt/status/973966381766111234'
   syndication:
     - 'https://twitter.com/hacdias/status/973970891905425408'
-title: In honor of Stephen Hawking. One of the greatest minds of ou...
 ---
 

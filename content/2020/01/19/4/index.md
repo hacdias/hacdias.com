@@ -9,7 +9,6 @@ properties:
   in-reply-to:
     - 'https://jlelse.blog/thoughts/2020/01/optimizing-software/'
 tags: *ref_0
-title: '> Wouldn''t it b...'
 ---
 
 > Wouldn't it be better to start where minutes or even hours are regularly wasted?

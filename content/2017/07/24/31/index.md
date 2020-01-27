@@ -7,7 +7,6 @@ properties:
     - /2017/07/24/32/
   syndication:
     - 'https://twitter.com/hacdias/status/889560501876928514'
-title: In a positive way ofc @why_channel!...
 ---
 
 In a positive way ofc @why_channel!

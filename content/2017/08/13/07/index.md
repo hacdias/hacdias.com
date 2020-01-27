@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/levelsio/status/895180870927233024'
   syndication:
     - 'https://twitter.com/hacdias/status/896822042233888771'
-title: So awesome!!...
 ---
 
 So awesome!!

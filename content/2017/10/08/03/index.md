@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/916808841513205761'
   syndication:
     - 'https://twitter.com/hacdias/status/916939850590281728'
-title: 'Thanks, @hacdias, for the @caddyserver webdav plugin! I''m us...'
 ---
 

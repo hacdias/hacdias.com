@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/Kurz_Gesagt/status/889538455306473473'
   syndication:
     - 'https://twitter.com/hacdias/status/889538777286397954'
-title: "Such a wonderful soundtrack \U0001F600 Looking forward to see the ne..."
 ---
 
 Such a wonderful soundtrack 😀 Looking forward to see the new video!

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/josepostiga/status/890143099393118208'
   syndication:
     - 'https://twitter.com/hacdias/status/890153870776815616'
-title: '2/ Eu já usei mas já foi há algum tempo. De momento, como nã...'
 ---
 
 2/ Eu já usei mas já foi há algum tempo. De momento, como não preciso, não uso para isso.

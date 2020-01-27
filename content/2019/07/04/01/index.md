@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/kvlly/status/1146492365886185472'
   syndication:
     - 'https://twitter.com/hacdias/status/1146853575777312768'
-title: my feelings towards javascript are undefined...
 ---
 

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/rafahari/status/961913659818733569'
   syndication:
     - 'https://twitter.com/hacdias/status/961913934512082944'
-title: 'uuh! thanks! :)...'
 ---
 
 uuh! thanks! :)

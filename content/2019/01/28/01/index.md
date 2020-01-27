@@ -7,7 +7,6 @@ properties:
     - /2019/01/28/03/
   syndication:
     - 'https://twitter.com/hacdias/status/1089919791434031104'
-title: /cc @IPFSbot...
 ---
 
 /cc [@IPFSbot](https://twitter.com/IPFSbot)

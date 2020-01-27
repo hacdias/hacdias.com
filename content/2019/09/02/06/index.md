@@ -9,7 +9,6 @@ properties:
     - EDes9WWX4AAmv--.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/1168592805318598658'
-title: Status....
 ---
 
 Status.

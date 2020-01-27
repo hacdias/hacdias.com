@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/sallylepage/status/889790247881646080'
   syndication:
     - 'https://twitter.com/hacdias/status/889793691531055104'
-title: NEW SOFA SCIENCE! @drjoehanson and I chat about going from P...
 ---
 

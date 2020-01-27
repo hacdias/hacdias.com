@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/romiem/status/1030438339390910464'
   syndication:
     - 'https://twitter.com/hacdias/status/1031219203095842816'
-title: Which of these books do you own?...
 ---
 

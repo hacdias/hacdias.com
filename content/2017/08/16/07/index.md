@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/ana_ccsoares/status/897913564442263552'
   syndication:
     - 'https://twitter.com/hacdias/status/897920928960663552'
-title: Hahaha...
 ---
 
 Hahaha

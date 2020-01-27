@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/stphndrt/status/1200453914400841728'
   syndication:
     - 'https://twitter.com/hacdias/status/1200467788822921217'
-title: Primeira!...
 ---
 
 Primeira!

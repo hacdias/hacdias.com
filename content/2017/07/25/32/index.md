@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/anarlguerra/status/885172835567775745'
   syndication:
     - 'https://twitter.com/hacdias/status/889765518718230528'
-title: Help @anarlguerra with this survey for her masters dissertat...
 ---
 
 Help [@anarlguerra](https://twitter.com/anarlguerra) with this survey for her masters dissertation! 😀

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/feross/status/1118743408695074817'
   syndication:
     - 'https://twitter.com/hacdias/status/1118907369465970688'
-title: I'm marrying an option...
 ---
 
 I'm marrying an option

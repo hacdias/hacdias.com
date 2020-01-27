@@ -9,7 +9,6 @@ properties:
     - DWLuRPoXcAIBw5y.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/964595253213827074'
-title: "Done! \U0001F601..."
 ---
 
 Done! 😁

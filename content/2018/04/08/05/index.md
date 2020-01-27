@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/dcacho23/status/982977591215828992'
   syndication:
     - 'https://twitter.com/hacdias/status/982990696692043777'
-title: Rip....
 ---
 
 Rip.

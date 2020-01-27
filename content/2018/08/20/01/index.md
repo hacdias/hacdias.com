@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/iliketomakestuf/status/1031326223069274112'
   syndication:
     - 'https://twitter.com/hacdias/status/1031477077189566464'
-title: This one made me laugh....
 ---
 

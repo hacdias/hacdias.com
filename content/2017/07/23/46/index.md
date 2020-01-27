@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/sallylepage/status/888789657210769408'
   syndication:
     - 'https://twitter.com/hacdias/status/889102670618910721'
-title: Try those marvelous frappucinos by @Starbucks! The ones with...
 ---
 
 Try those marvelous frappucinos by [@Starbucks](https://twitter.com/Starbucks)! The ones with coffee are just awesome.

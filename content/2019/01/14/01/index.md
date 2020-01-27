@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/1084865082050387970'
   syndication:
     - 'https://twitter.com/hacdias/status/1084912803994058753'
-title: 'Oh wow, @ProtoSchool just got launched at https://proto.scho...'
 ---
 

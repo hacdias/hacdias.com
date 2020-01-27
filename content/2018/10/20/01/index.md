@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/darylginn/status/1053646859686809600'
   syndication:
     - 'https://twitter.com/hacdias/status/1053729663191801856'
-title: Every website in 2018...
 ---
 

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/976847191854731268'
   syndication:
     - 'https://twitter.com/hacdias/status/976940933425090560'
-title: don't shout at git...
 ---
 

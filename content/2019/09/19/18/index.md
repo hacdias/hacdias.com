@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/TrailMarks/status/1174776551818313728'
   syndication:
     - 'https://twitter.com/hacdias/status/1174802705006628865'
-title: 'We should definitely have those on IPFS and even on http://d...'
 ---
 
 We should definitely have those on IPFS and even on [http://dist.ipfs.io](http://dist.ipfs.io). Will see what I can do!

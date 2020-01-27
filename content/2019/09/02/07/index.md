@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/ana_ccsoares/status/1168592128785735680'
   syndication:
     - 'https://twitter.com/hacdias/status/1168592294024556546'
-title: Muito çáde. Ainda bem que vi antes de sair para a estação. J...
 ---
 
 Muito çáde. Ainda bem que vi antes de sair para a estação. Já vai com 40 mins.

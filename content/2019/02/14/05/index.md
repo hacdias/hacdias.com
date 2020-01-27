@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/MineFilecoin/status/1096129268742905856'
   syndication:
     - 'https://twitter.com/hacdias/status/1096175218681352193'
-title: "Happy Valentine’s Day, Internet \U0001F49D! We love you so much that..."
 ---
 

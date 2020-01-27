@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/sindresorhus/status/890294387850260481'
   syndication:
     - 'https://twitter.com/hacdias/status/890295062017527808'
-title: 'Yeah, I agree that Apple is more perfectionist and their des...'
 ---
 
 Yeah, I agree that Apple is more perfectionist and their design is way better. Although, I think that Windows 10 is getting better.

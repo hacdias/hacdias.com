@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/cassidoo/status/1158535579727851520'
   syndication:
     - 'https://twitter.com/hacdias/status/1158790031965917190'
-title: Of cors this would happen...
 ---
 

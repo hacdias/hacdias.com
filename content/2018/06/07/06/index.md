@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/NotionHQ/status/1004807789238050816'
   syndication:
     - 'https://twitter.com/hacdias/status/1004809846212964355'
-title: Like if I set "remind buy milk everyday at 9am" it would ale...
 ---
 
 Like if I set "remind buy milk everyday at 9am" it would alert me every day at 9am. The checkbox would reset at midnight :)

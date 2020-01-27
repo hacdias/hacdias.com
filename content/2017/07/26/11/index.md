@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/890240153133883392'
   syndication:
     - 'https://twitter.com/hacdias/status/890253428508819456'
-title: These last few Caddy releases (and next one) have been heavi...
 ---
 

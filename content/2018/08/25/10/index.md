@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/regouga/status/1033434840547422208'
   syndication:
     - 'https://twitter.com/hacdias/status/1033435100007092225'
-title: "\U0001F631..."
 ---
 
 😱

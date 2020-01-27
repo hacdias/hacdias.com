@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/Pseudonymium_/status/889852158555934721'
   syndication:
     - 'https://twitter.com/hacdias/status/889885092927213571'
-title: Good luck for you science channel!...
 ---
 
 Good luck for you science channel!

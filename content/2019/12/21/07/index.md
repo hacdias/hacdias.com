@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/abredabread/status/1208336594106798080'
   syndication:
     - 'https://twitter.com/hacdias/status/1208336708191830016'
-title: Sad...
 ---
 
 Sad

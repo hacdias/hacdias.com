@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/clerigo/status/1096345995019984896'
   syndication:
     - 'https://twitter.com/hacdias/status/1096346222993031169'
-title: Uh. Estará relacionado com a licença bancária? Podes mandar...
 ---
 
 Uh. Estará relacionado com a licença bancária? Podes mandar link sfv?

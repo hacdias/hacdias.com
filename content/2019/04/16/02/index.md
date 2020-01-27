@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/1117987225910648832'
   syndication:
     - 'https://twitter.com/hacdias/status/1118120479104094209'
-title: "\U0001F4D8 Here it is... \"After HTTPS: Indicating Risk Instead of Se..."
 ---
 

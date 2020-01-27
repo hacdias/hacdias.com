@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/dnsimple/status/889756912383905792'
   syndication:
     - 'https://twitter.com/hacdias/status/889758282679803904'
-title: "Glad you enjoyed this. \U0001F64C..."
 ---
 

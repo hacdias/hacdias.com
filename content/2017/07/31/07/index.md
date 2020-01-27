@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/Fardokbk/status/892066108987109381'
   syndication:
     - 'https://twitter.com/hacdias/status/892067636628074496'
-title: I'll think about it. Maybe some day this week....
 ---
 
 I'll think about it. Maybe some day this week.

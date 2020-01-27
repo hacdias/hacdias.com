@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/sindresorhus/status/1001355913930858502'
   syndication:
     - 'https://twitter.com/hacdias/status/1001380772597633024'
-title: 'React: Make the simple things hard and the hard things simpl...'
 ---
 

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/TheMrKiko/status/978345240754049025'
   syndication:
     - 'https://twitter.com/hacdias/status/978361230573424640'
-title: Quim Barreiros?...
 ---
 
 Quim Barreiros?

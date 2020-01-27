@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/arcalinea/status/1119337442505420800'
   syndication:
     - 'https://twitter.com/hacdias/status/1121404858094030848'
-title: Looks like a Tron dev just accidentally opened a PR on IPFS...
 ---
 

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/malikpiara/status/1200956630172610560'
   syndication:
     - 'https://twitter.com/hacdias/status/1201051467525824512'
-title: Soon!...
 ---
 
 Soon!

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/hankgreen/status/1164926393957797888'
   syndication:
     - 'https://twitter.com/hacdias/status/1164969493371719685'
-title: It's pretty wild that a tweet from Donald Trump hurts the st...
 ---
 

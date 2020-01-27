@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/web3foundation/status/1184799177353629696'
   syndication:
     - 'https://twitter.com/hacdias/status/1185111557543473152'
-title: '“Some Web3 values are: freedom of speech(secure self-publish...'
 ---
 

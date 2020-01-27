@@ -9,6 +9,5 @@ properties:
     - DXcwY-jXkAAShxa.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/970297457136545792'
-title: Não consigo ver isso ahaha...
 ---
 

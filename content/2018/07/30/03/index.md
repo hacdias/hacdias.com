@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/98MigRocha/status/1023989648853553152'
   syndication:
     - 'https://twitter.com/hacdias/status/1023989914097119233'
-title: "\U0001F198..."
 ---
 
 🆘

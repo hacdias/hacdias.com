@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/perborgen/status/889536894861799424'
   syndication:
     - 'https://twitter.com/hacdias/status/889945899308392448'
-title: I just published “JavaScript Closures Explained in 3 Minutes...
 ---
 

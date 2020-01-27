@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/hankgreen/status/897858719131721729'
   syndication:
     - 'https://twitter.com/hacdias/status/897876562619584513'
-title: Fox News Right Now....
 ---
 

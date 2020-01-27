@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/anarlguerra/status/965285603129675776'
   syndication:
     - 'https://twitter.com/hacdias/status/965300348121485312'
-title: 'Yey!!!!!!!!!! :D...'
 ---
 
 Yey!!!!!!!!!! :D

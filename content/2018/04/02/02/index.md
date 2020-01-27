@@ -9,7 +9,6 @@ properties:
     - DZz15q0WkAA56ys.jpg
   syndication:
     - 'https://twitter.com/hacdias/status/980929221676752896'
-title: (stealing someone's meme)...
 ---
 
 (stealing someone's meme)

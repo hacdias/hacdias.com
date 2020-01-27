@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/891035651780390912'
   syndication:
     - 'https://twitter.com/hacdias/status/891048948668018689'
-title: 'Yesterday, @Firefox telemetry shows that more than 60% of al...'
 ---
 

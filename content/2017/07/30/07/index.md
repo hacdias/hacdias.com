@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/891549207802204160'
   syndication:
     - 'https://twitter.com/hacdias/status/891569184995454977'
-title: 'Hey @litespeedtech, sorry, but you weren''t first for either....'
 ---
 

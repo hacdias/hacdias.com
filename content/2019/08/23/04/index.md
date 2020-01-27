@@ -7,8 +7,5 @@ properties:
     - 'https://twitter.com/_Vs_The_World/status/1164406803138043904'
   syndication:
     - 'https://twitter.com/hacdias/status/1164967176316620807'
-title: |-
-  The rich: - Fly on private jets everywhere
-  - Make billion do...
 ---
 

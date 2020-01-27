@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/983638307669266434'
   syndication:
     - 'https://twitter.com/hacdias/status/983944794916511745'
-title: I've been working on the newest version of the IPFS Companio...
 ---
 

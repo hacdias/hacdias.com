@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/Punk__R0ck/status/1128367846713700352'
   syndication:
     - 'https://twitter.com/hacdias/status/1128368884879380481'
-title: The latest images only contain bug fixes...
 ---
 
 The latest images only contain bug fixes

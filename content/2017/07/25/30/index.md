@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/ThePracticalDev/status/889812487721410564'
   syndication:
     - 'https://twitter.com/hacdias/status/889824252010135552'
-title: '@ChromeDevTools is a mystery box!...'
 ---
 
 [@ChromeDevTools](https://twitter.com/ChromeDevTools) is a mystery box!

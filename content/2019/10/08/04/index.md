@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/regouga/status/1181487790778925056'
   syndication:
     - 'https://twitter.com/hacdias/status/1181489509155905538'
-title: 'Honestamente, depende bastante da aplicação/contexto....'
 ---
 
 Honestamente, depende bastante da aplicação/contexto.

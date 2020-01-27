@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/Readdle/status/1033999336286420992'
   syndication:
     - 'https://twitter.com/hacdias/status/1033999781155295232'
-title: "Thanks! I'm looking forward for it. The iOS app is amazing"
 ---
 
 Thanks! I'm looking forward for it. The iOS app is amazing 😁

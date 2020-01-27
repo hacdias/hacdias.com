@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/tomayac/status/1159203126966136839'
   syndication:
     - 'https://twitter.com/hacdias/status/1159206384778514432'
-title: "Uuuhh! Didn't know we could do that \U0001F635 Just implemented both..."
 ---
 
 Uuuhh! Didn't know we could do that 😵 Just implemented both of those tricks! Thank you

@@ -7,13 +7,5 @@ properties:
     - 'https://twitter.com/GoogleIndia/status/1089857735666085888'
   syndication:
     - 'https://twitter.com/hacdias/status/1090291948445974528'
-title: |-
-  We really
-  really
-  really
-    really
-      really
-      really
-     re...
 ---
 

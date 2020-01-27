@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/caddyserver/status/978613422102257664'
   syndication:
     - 'https://twitter.com/hacdias/status/978648502258622464'
-title: Caddy 0.10.12 released! Full support for @letsencrypt ACMEv2...
 ---
 

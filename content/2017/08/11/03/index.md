@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/caddyserver/status/895807310903169024'
   syndication:
     - 'https://twitter.com/hacdias/status/895899034317185024'
-title: 'Oooo, two new plugins around the corner: http.jekyll (like t...'
 ---
 

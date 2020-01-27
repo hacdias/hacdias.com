@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/josepostiga/status/890133082271076352'
   syndication:
     - 'https://twitter.com/hacdias/status/890139511170232320'
-title: 'Both :)...'
 ---
 
 Both :)

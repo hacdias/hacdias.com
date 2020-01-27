@@ -9,6 +9,5 @@ properties:
     - 'https://twitter.com/hacdias/status/1209024713839824896'
   video:
     - EMdRkIJXkAUqWS5.mp4
-title: Já desisti há algum tempo... Vale a pena voltar?...
 ---
 

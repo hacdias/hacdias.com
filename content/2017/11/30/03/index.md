@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/pgte/status/936334647256080385'
   syndication:
     - 'https://twitter.com/hacdias/status/936348812611850240'
-title: Hexacat...
 ---
 

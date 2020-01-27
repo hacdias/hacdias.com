@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/TheMrKiko/status/970297557208457216'
   syndication:
     - 'https://twitter.com/hacdias/status/970297642310828032'
-title: "\U0001F602 good luck..."
 ---
 
 😂 good luck

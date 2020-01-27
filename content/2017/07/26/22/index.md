@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/josepostiga/status/890139782503960576'
   syndication:
     - 'https://twitter.com/hacdias/status/890141117609631745'
-title: 'São VPS. Suportam o que quiseres instalar :P A própria DO te...'
 ---
 
 São VPS. Suportam o que quiseres instalar :P A própria DO tem uma página com inúmeros tutoriais (muito bons btw) [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/polluterofminds/status/1092068755834892289'
   syndication:
     - 'https://twitter.com/hacdias/status/1092069319117295616'
-title: This is pretty effing cool...
 ---
 

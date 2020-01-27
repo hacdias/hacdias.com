@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/anahnarciso/status/900780148898836480'
   syndication:
     - 'https://twitter.com/hacdias/status/900809612827512833'
-title: "Oh god \U0001F602\U0001F602\U0001F602\U0001F602..."
 ---
 
 Oh god 😂😂😂😂

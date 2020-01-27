@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/WIRED/status/890136304222167041'
   syndication:
     - 'https://twitter.com/hacdias/status/890142217263878144'
-title: The story behind the world's longest (and scariest) glass pe...
 ---
 

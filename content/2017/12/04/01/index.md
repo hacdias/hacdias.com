@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/igargi_/status/937467247160971264'
   syndication:
     - 'https://twitter.com/hacdias/status/937583804872642560'
-title: "If you need any help, tell me \U0001F642\U0001F642..."
 ---
 
 If you need any help, tell me 🙂🙂

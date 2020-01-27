@@ -7,6 +7,5 @@ properties:
     - 'https://aaronparecki.com/2019/12/28/23/one-thousand'
   summary:
     - 'Liked: https://aaronparecki.com/2019/12/28/23/one-thousand'
-title: 'Liked https://aaronparecki.com/2019/12/28/23/one-thousand'
 ---
 

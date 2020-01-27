@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/happykitten62/status/1083878330846273536'
   syndication:
     - 'https://twitter.com/hacdias/status/1084524373078409217'
-title: 'Student:" is the cactus the wavefunction in the Schrödinger...'
 ---
 

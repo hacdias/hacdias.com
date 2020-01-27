@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/Cloudflare/status/1151372849711648773'
   syndication:
     - 'https://twitter.com/hacdias/status/1151386070082293761'
-title: 'Cloudflare''s new Lisbon office - https://cfl.re/2JA3ze9...'
 ---
 

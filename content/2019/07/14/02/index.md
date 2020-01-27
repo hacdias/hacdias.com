@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/decasppereira/status/1150507924541906944'
   syndication:
     - 'https://twitter.com/hacdias/status/1150510302036934657'
-title: 'Trueeeee. Nem vi. Mas credo: uma perspetiva bué feia da pont...'
 ---
 
 Trueeeee. Nem vi. Mas credo: uma perspetiva bué feia da ponte 😂

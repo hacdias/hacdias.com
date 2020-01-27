@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/976700716906524672'
   syndication:
     - 'https://twitter.com/hacdias/status/976736467920805889'
-title: 'Caddy 0.11 will introduce new telemetry features: Live stati...'
 ---
 

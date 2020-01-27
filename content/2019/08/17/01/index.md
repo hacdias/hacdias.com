@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/stphndrt/status/1162448421111902209'
   syndication:
     - 'https://twitter.com/hacdias/status/1162625805337411585'
-title: "Verde. Mas conheço quem use a amarela \U0001F914..."
 ---
 
 Verde. Mas conheço quem use a amarela 🤔

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/engadget/status/889839162685370368'
   syndication:
     - 'https://twitter.com/hacdias/status/889839394114473985'
-title: 'Musk and Zuckerberg bicker over the future of AI http://engt...'
 ---
 

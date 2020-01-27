@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/b0rk/status/1161997141876903936'
   syndication:
     - 'https://twitter.com/hacdias/status/1162020056433401856'
-title: how URLs work...
 ---
 

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/stphndrt/status/1190586109979443210'
   syndication:
     - 'https://twitter.com/hacdias/status/1190594040158412800'
-title: Todos os anos a mesma porcaria....
 ---
 
 Todos os anos a mesma porcaria.

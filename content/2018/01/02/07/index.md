@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/x2plusy2/status/948307190678351872'
   syndication:
     - 'https://twitter.com/hacdias/status/948312141353889801'
-title: 'Do not autoplay a video when I go to your site, no audio, no...'
 ---
 

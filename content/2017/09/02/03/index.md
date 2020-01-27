@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/anarlguerra/status/903992560343023616'
   syndication:
     - 'https://twitter.com/hacdias/status/903999625769742336'
-title: Proof...
 ---
 

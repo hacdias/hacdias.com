@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/abiosoft/status/889110057673269248'
   syndication:
     - 'https://twitter.com/hacdias/status/889110670905679872'
-title: Some of these features should be more explicit. This video h...
 ---
 
 Some of these features should be more explicit. This video has already taught me how to select the text using the keyboard 😂

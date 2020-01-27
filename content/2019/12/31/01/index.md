@@ -16,7 +16,6 @@ properties:
         region: Beja
       type: h-adr
 tags: *ref_0
-title: 'Replied to https://mrkapowski.com/2019/12/10328.html'
 ---
 
 Completely agreed! Anxiously waiting for the second season.

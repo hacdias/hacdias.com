@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/daviddias/status/953388140785418240'
   syndication:
     - 'https://twitter.com/hacdias/status/953395327553409029'
-title: Distributed Verifiable Claims project presentation by @itsjo...
 ---
 

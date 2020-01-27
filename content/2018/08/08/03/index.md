@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/agata_krych/status/1026759048820150272'
   syndication:
     - 'https://twitter.com/hacdias/status/1027084832969510913'
-title: 'Interplanetary coffee stand #labday @protocollabs @IPFSbot...'
 ---
 

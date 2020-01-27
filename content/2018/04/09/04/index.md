@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/TheMrKiko/status/983241731117285377'
   syndication:
     - 'https://twitter.com/hacdias/status/983242140804374529'
-title: "Oi \U0001F602..."
 ---
 
 Oi 😂

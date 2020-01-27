@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/Kurz_Gesagt/status/889538455306473473'
   syndication:
     - 'https://twitter.com/hacdias/status/889538684298592256'
-title: Special preview. The music of the next video. If nothing goe...
 ---
 

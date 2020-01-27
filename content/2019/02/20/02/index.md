@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/nickfost_/status/1097871079496998912'
   syndication:
     - 'https://twitter.com/hacdias/status/1098161926666928128'
-title: Did you manage to get it working?...
 ---
 
 Did you manage to get it working?

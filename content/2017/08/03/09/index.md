@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/NathanBrown929/status/892896279231176704'
   syndication:
     - 'https://twitter.com/hacdias/status/892990569697423360'
-title: 'File Manager: A stylish web file manager. Plugins for #Docke...'
 ---
 

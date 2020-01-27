@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/daviddias/status/1022824309537026048'
   syndication:
     - 'https://twitter.com/hacdias/status/1022840699421708289'
-title: 'js-libp2p just got its first _official_ release #libp2p #JS...'
 ---
 

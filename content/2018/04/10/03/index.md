@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/protocollabs/status/983631632262299648'
   syndication:
     - 'https://twitter.com/hacdias/status/983759648112209920'
-title: Research is at the core of Protocol Labs. Today we're announ...
 ---
 

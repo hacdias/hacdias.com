@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/iamdevloper/status/1078774188868071424'
   syndication:
     - 'https://twitter.com/hacdias/status/1079000916706103296'
-title: Programming is like a CHOOSE YOUR OWN ADVENTURE GAME except...
 ---
 

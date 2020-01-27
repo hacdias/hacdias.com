@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/974937707699953664'
   syndication:
     - 'https://twitter.com/hacdias/status/974966251679375362'
-title: 'Waaa most things are work! https://youtu.be/jXkTEBdM6aA...'
 ---
 

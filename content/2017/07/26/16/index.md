@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/sindresorhus/status/890294387850260481'
   syndication:
     - 'https://twitter.com/hacdias/status/890295541598474240'
-title: Microsoft has been changing a lot and Windows has improved....
 ---
 
 Microsoft has been changing a lot and Windows has improved. But there is still a lot of stuff to clean.

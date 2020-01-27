@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/mholt6/status/970403889093718016'
   syndication:
     - 'https://twitter.com/hacdias/status/970562973273124864'
-title: Enjoy Spain!...
 ---
 
 Enjoy Spain!

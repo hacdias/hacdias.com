@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/1118931901291663362'
   syndication:
     - 'https://twitter.com/hacdias/status/1119177952942534658'
-title: I... did not know satellites could do this. WOW....
 ---
 

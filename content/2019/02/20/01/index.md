@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/Twitter/status/1097982503716093952'
   syndication:
     - 'https://twitter.com/hacdias/status/1098262655310225408'
-title: "a \U0001F9F5..."
 ---
 

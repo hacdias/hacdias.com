@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/daviddias/status/953641880096407552'
   syndication:
     - 'https://twitter.com/hacdias/status/953642064104828939'
-title: "2nd Lisbon IPFS Lisbon Talk published\U0001F31F This time we have @p..."
 ---
 

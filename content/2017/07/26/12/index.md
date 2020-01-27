@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/Kurz_Gesagt/status/890184213902884864'
   syndication:
     - 'https://twitter.com/hacdias/status/890186697765474305'
-title: 'NEW VIDEO: Optimistic Nihilism – https://www.youtube.com/wat...'
 ---
 

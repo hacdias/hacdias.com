@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/ProductHuntHi/status/892760136460238851'
   syndication:
     - 'https://twitter.com/hacdias/status/892849142548111360'
-title: '@hacdias FYI, you''ve been added as a maker of File Manager o...'
 ---
 

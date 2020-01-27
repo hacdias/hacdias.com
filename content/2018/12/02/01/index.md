@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/1068875293287419905'
   syndication:
     - 'https://twitter.com/hacdias/status/1069151478558965761'
-title: a dream within a dream...
 ---
 

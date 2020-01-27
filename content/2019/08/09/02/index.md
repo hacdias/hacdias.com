@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/genericpointer/status/1157424031286603777'
   syndication:
     - 'https://twitter.com/hacdias/status/1159894398836105216'
-title: Às vezes também funciona no IC... Sometimes....
 ---
 
 Às vezes também funciona no IC... Sometimes.

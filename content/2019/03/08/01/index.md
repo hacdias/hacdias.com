@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/IPFSbot/status/1103978064764121088'
   syndication:
     - 'https://twitter.com/hacdias/status/1104043279123927040'
-title: 'Applications are now open for the first ever #IPFS Camp. Joi...'
 ---
 

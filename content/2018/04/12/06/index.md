@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/daviddias/status/984378014287806464'
   syndication:
     - 'https://twitter.com/hacdias/status/984386746724028416'
-title: You can now equip your browser with super powers thanks to t...
 ---
 

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/1030059189534633985'
   syndication:
     - 'https://twitter.com/hacdias/status/1049634554875695105'
-title: '#libdweb enables experimental p2p APIs for web extensions in...'
 ---
 

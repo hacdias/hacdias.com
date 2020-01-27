@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/sindresorhus/status/900791010497671168'
   syndication:
     - 'https://twitter.com/hacdias/status/900810099245150213'
-title: 'Have you tried @golang? It''s a pretty nice language too, for...'
 ---
 
 Have you tried [@golang](https://twitter.com/golang)? It's a pretty nice language too, for a different purpose though.

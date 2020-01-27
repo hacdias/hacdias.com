@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/golang/status/956640171050586113'
   syndication:
     - 'https://twitter.com/hacdias/status/956640334745886721'
-title: "\U0001F389 Go 1.10 RC1 is released! \n\U0001F3C3‍♀️ Run it in dev. Run it in..."
 ---
 

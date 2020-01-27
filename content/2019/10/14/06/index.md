@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/joehudsonsmall/status/1183498688045502464'
   syndication:
     - 'https://twitter.com/hacdias/status/1183527401483112449'
-title: Enrique I...
 ---
 
 Enrique I

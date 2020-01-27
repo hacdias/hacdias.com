@@ -7,8 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/1201345919494455297'
   syndication:
     - 'https://twitter.com/hacdias/status/1201631539488083968'
-title: |-
-  I hope it has: 
-  * Must contain SQL injection...
 ---
 

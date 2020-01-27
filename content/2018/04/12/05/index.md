@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/984434253206294528'
   syndication:
     - 'https://twitter.com/hacdias/status/984541839607894016'
-title: "hacking on graphing #IPFS node bandwidth \U0001F4C8 using #chartjs a..."
 ---
 

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/JakeWrightUK/status/899747142302134272'
   syndication:
     - 'https://twitter.com/hacdias/status/899770523101671425'
-title: Why are banks actually allowed to store online banking passw...
 ---
 

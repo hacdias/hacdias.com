@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/stphndrt/status/1190606819040866304'
   syndication:
     - 'https://twitter.com/hacdias/status/1190607032438665218'
-title: "\U0001F602..."
 ---
 
 😂

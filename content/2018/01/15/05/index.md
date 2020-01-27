@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/CodeWisdom/status/952979074221305859'
   syndication:
     - 'https://twitter.com/hacdias/status/953011611995918336'
-title: '"Documentation is a love letter that you write to your futur...'
 ---
 

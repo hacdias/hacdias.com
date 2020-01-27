@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/930979470495715328'
   syndication:
     - 'https://twitter.com/hacdias/status/931134923838316544'
-title: No red X's on the @caddyserver row. And it might be the only...
 ---
 

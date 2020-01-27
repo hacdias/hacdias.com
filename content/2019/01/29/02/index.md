@@ -9,7 +9,6 @@ properties:
     - 'https://twitter.com/hacdias/status/1090259760593592321'
   video:
     - DyFhcZpVAAIaQJF.mp4
-title: "\U0001F631\U0001F631\U0001F631\U0001F631\U0001F631 what if works everywhere?..."
 ---
 
 😱😱😱😱😱 what if works everywhere?

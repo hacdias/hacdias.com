@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/1131145571408986112'
   syndication:
     - 'https://twitter.com/hacdias/status/1131154839101149184'
-title: 'A wild and excitable JS #IPFS 0.36 just darted across the st...'
 ---
 

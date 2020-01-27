@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/ProgressBar201X/status/1146025939429724160'
   syndication:
     - 'https://twitter.com/hacdias/status/1146171547473842176'
-title: 2019 is 50% complete....
 ---
 

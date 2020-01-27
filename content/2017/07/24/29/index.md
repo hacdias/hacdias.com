@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/newscientist/status/889438798190346240'
   syndication:
     - 'https://twitter.com/hacdias/status/889439433174523904'
-title: The cosmic dance of three dead stars could break relativity...
 ---
 

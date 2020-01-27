@@ -10,7 +10,6 @@ properties:
   syndication:
     - 'https://twitter.com/hacdias/status/1016422912742559745'
 tags: *ref_0
-title: 'Bem vindo à #CamionetasDePortugal....'
 ---
 
 Bem vindo à #CamionetasDePortugal.

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/DaAleksandersen/status/1100498347822071810'
   syndication:
     - 'https://twitter.com/hacdias/status/1100502608987541504'
-title: That's a good question and I'm not the best person to answer...
 ---
 
 That's a good question and I'm not the best person to answer you that. I see that you've already left some comments on that issue and that's awesome. I think that's the best place to have this chat :)

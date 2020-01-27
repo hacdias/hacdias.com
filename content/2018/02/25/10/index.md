@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/rgllm/status/967726170744778752'
   syndication:
     - 'https://twitter.com/hacdias/status/967740270967214080'
-title: I think we're only going to work with Prolog. Thanks though....
 ---
 
 I think we're only going to work with Prolog. Thanks though. I'll let you know if I need TP2 😀

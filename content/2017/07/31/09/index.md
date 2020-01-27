@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/litespeedtech/status/892038913585553408'
   syndication:
     - 'https://twitter.com/hacdias/status/892051943631224832'
-title: Oh... never heard about you @litespeedtech. But I heard abou...
 ---
 
 Oh... never heard about you [](https://twitter.com/litespeedtech)[@litespeedtech](https://twitter.com/litespeedtech). But I heard about [](https://twitter.com/caddyserver)[@caddyserver](https://twitter.com/caddyserver) 🤔🤔

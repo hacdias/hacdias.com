@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/tauntz/status/992407866538708992'
   syndication:
     - 'https://twitter.com/hacdias/status/992842635789393920'
-title: I sit in a dark room and project code straight to my face wh...
 ---
 

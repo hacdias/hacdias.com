@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/kelseyhightower/status/893482483345268736'
   syndication:
     - 'https://twitter.com/hacdias/status/893502486564278273'
-title: Yesterday I met someone at a tech conference. They introduce...
 ---
 

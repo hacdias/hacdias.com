@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/juanbenet/status/967017827914797057'
   syndication:
     - 'https://twitter.com/hacdias/status/967154036846850048'
-title: 'Q: How much utility do YOU derive from pieces like these? If...'
 ---
 

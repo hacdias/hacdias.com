@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/lilianapborges/status/1174356505543553025'
   syndication:
     - 'https://twitter.com/hacdias/status/1174364175696617473'
-title: A Polícia Judiciária pode passar pela minha casa depois de d...
 ---
 

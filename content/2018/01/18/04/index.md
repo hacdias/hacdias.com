@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/iAWriter/status/953902581453021184'
   syndication:
     - 'https://twitter.com/hacdias/status/953904248428916736'
-title: That's really cool!!...
 ---
 
 That's really cool!!

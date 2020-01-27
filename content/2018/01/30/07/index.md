@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/mholt6/status/958344208443559937'
   syndication:
     - 'https://twitter.com/hacdias/status/958351989020217345'
-title: 'Did you know: You can write ANY kind of server as a @caddyse...'
 ---
 

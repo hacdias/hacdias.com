@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/jachands/status/910909139467063297'
   syndication:
     - 'https://twitter.com/hacdias/status/910980723049365505'
-title: Hey! I believe it would be helpful for many people but I sta...
 ---
 
 Hey! I believe it would be helpful for many people but I started uni this week and I'm still getting used to the rhythm and everything else.

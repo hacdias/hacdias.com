@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/_alanshaw/status/1022827122551865346'
   syndication:
     - 'https://twitter.com/hacdias/status/1022840722494500864'
-title: "\U0001F6A8 Guess what? A brand new #JS #IPFS will set sail just in t..."
 ---
 

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/richturn_ms/status/891045519555928064'
   syndication:
     - 'https://twitter.com/hacdias/status/891183110238461953'
-title: 'Blogged: Windows Subsystem for Linux out of Beta! https://bl...'
 ---
 

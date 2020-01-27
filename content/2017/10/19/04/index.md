@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/IDavim/status/920925057681108994'
   syndication:
     - 'https://twitter.com/hacdias/status/921050562359160833'
-title: Holy sh**!...
 ---
 
 Holy sh**!

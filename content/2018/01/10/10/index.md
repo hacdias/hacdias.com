@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/VictorBjelkholm/status/951035327560474625'
   syndication:
     - 'https://twitter.com/hacdias/status/951037316939776001'
-title: 'That would be a nice bet, if .as wasn''t a ccTLD. And they ha...'
 ---
 
 That would be a nice bet, if .as wasn't a ccTLD. And they have a really ugly website ([https://www.nic.as](https://www.nic.as)) 😆

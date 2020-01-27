@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/naveenthilaka/status/889121807189516290'
   syndication:
     - 'https://twitter.com/hacdias/status/889121891449008129'
-title: "\U0001F602\U0001F602\U0001F602\U0001F602..."
 ---
 
 😂😂😂😂

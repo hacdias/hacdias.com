@@ -7,7 +7,6 @@ properties:
     - /2019/09/19/23/
   syndication:
     - 'https://twitter.com/hacdias/status/1174718166372704258'
-title: custom*...
 ---
 
 custom*

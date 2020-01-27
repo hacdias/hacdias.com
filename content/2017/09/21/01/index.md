@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/jachands/status/910984493909016576'
   syndication:
     - 'https://twitter.com/hacdias/status/910992349882445824'
-title: 'Thank you :)...'
 ---
 
 Thank you :)

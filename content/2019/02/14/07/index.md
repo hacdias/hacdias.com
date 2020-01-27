@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/clerigo/status/1096062158281105410'
   syndication:
     - 'https://twitter.com/hacdias/status/1096067513664835584'
-title: Se bem que em alguns países foram bancos a anunciar em prime...
 ---
 
 Se bem que em alguns países foram bancos a anunciar em primeira mão o Apple Pay. I wonder se é a Apple quem o decide ou os bancos nacionais.

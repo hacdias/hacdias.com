@@ -7,8 +7,5 @@ properties:
     - 'https://twitter.com/jachands/status/900434773717524480'
   syndication:
     - 'https://twitter.com/hacdias/status/900627238303010816'
-title: |-
-  This is how you know a program is written in Go 
-  #golang...
 ---
 

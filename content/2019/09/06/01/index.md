@@ -7,9 +7,5 @@ properties:
     - 'https://twitter.com/msexcel/status/1169757603183943680'
   syndication:
     - 'https://twitter.com/hacdias/status/1169928739494551553'
-title: |-
-  I              took         just               a
-
-       D...
 ---
 

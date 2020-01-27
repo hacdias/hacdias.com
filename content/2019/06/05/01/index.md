@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/DagnaDraws/status/1136349581292298240'
   syndication:
     - 'https://twitter.com/hacdias/status/1136365918173483009'
-title: '"Senventior Disthine Molenko!" ✨@OldSchoolRS @RuneScape...'
 ---
 

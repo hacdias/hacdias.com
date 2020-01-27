@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/sindresorhus/status/504655843879813120'
   syndication:
     - 'https://twitter.com/hacdias/status/890660263778631680'
-title: True....
 ---
 
 True.

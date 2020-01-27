@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/ScottHYoung/status/1190397997743403009'
   syndication:
     - 'https://twitter.com/hacdias/status/1190641201705345024'
-title: 'Some things society deems lazy but are actually productive:...'
 ---
 

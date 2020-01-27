@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/digitalocean/status/893540169558708228'
   syndication:
     - 'https://twitter.com/hacdias/status/894206232835313664'
-title: Here's a simple guide to serve your @Wordpress site with @ca...
 ---
 

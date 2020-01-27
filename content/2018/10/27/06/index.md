@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/mholt6/status/1056244177128742912'
   syndication:
     - 'https://twitter.com/hacdias/status/1056245315643367424'
-title: "Thanks Matt \U0001F604..."
 ---
 
 Thanks Matt 😄

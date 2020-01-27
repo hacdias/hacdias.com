@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/agata_krych/status/1154732986065129473'
   syndication:
     - 'https://twitter.com/hacdias/status/1154735468057124865'
-title: It was near Poland. Berlin to Prague. We ended up 2 hours 30...
 ---
 
 It was near Poland. Berlin to Prague. We ended up 2 hours 30 minutes late...

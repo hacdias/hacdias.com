@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/farbodsaraf/status/1159090851122991104'
   syndication:
     - 'https://twitter.com/hacdias/status/1159457340724322304'
-title: 'Teaching chemistry using augmented reality https://t.co/rH9H...'
 ---
 

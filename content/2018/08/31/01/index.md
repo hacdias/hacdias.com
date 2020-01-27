@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/ScottHYoung/status/1035301395447001088'
   syndication:
     - 'https://twitter.com/hacdias/status/1035416734746992641'
-title: Do stuff. See what works. Repeat....
 ---
 

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/hankgreen/status/1167259959593013248'
   syndication:
     - 'https://twitter.com/hacdias/status/1167467819673554946'
-title: "I'm marrying an idea \U0001F602..."
 ---
 
 I'm marrying an idea 😂

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/agata_krych/status/1025456984609501189'
   syndication:
     - 'https://twitter.com/hacdias/status/1025459080306077696'
-title: 'I am proud of our team, everything looks soooooo damn good ;...'
 ---
 

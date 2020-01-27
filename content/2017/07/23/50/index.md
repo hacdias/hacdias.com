@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/caddyserver/status/887421761230221312'
   syndication:
     - 'https://twitter.com/hacdias/status/889067324065685508'
-title: "Hope you like it \U0001F601..."
 ---
 
 Hope you like it 😁

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/anarlguerra/status/897729535952789504'
   syndication:
     - 'https://twitter.com/hacdias/status/897731428833783808'
-title: 'Hustling my #music article on @anchor! If you''re an Artist o...'
 ---
 

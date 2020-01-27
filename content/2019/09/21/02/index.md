@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/stphndrt/status/1175409179705692160'
   syndication:
     - 'https://twitter.com/hacdias/status/1175480172591689728'
-title: O meu e resistente à água. Ainda bem. Já levou com uma Coca...
 ---
 
 O meu e resistente à água. Ainda bem. Já levou com uma Coca Cola inteira derramada em cima e uma somersby. Melhor? Nunca fui a derramar nenhuma das duas.

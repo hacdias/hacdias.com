@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/anarlguerra/status/892745710592028672'
   syndication:
     - 'https://twitter.com/hacdias/status/892755965908537344'
-title: Hopefully it won't happen. I still have a bit of hope that t...
 ---
 
 Hopefully it won't happen. I still have a bit of hope that the Brexit won't happen.

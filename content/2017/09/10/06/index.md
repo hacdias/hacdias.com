@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/Sapragus/status/906944774086721536'
   syndication:
     - 'https://twitter.com/hacdias/status/906946385525735424'
-title: I think I've been always organised enough. Let's see what ha...
 ---
 
 I think I've been always organised enough. Let's see what happens now

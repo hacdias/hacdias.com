@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/Fardokbk/status/888807675525574661'
   syndication:
     - 'https://twitter.com/hacdias/status/889067858298376192'
-title: What happens with webdav?)...
 ---
 

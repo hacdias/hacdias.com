@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/europecoinEUORG/status/1015195339945598976'
   syndication:
     - 'https://twitter.com/hacdias/status/1015223309854797824'
-title: "Thanks haha \U0001F604..."
 ---
 
 Thanks haha 😄

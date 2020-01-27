@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/TheMrKiko/status/1118443869836857344'
   syndication:
     - 'https://twitter.com/hacdias/status/1118443932554342400'
-title: Muito obrigado haha...
 ---
 
 Muito obrigado haha

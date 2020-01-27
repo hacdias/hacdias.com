@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/GitHubHelp/status/892061055979065346'
   syndication:
     - 'https://twitter.com/hacdias/status/892061166515519488'
-title: 'Thank you :)...'
 ---
 
 Thank you :)

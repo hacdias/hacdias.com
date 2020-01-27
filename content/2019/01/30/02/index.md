@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/daviddias/status/1090609531418275840'
   syndication:
     - 'https://twitter.com/hacdias/status/1090660552806989830'
-title: "The #JS #IPFS page is now translated to \U0001F1E8\U0001F1F3 Chinese https:/..."
 ---
 

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/TheMrKiko/status/983248537600348160'
   syndication:
     - 'https://twitter.com/hacdias/status/983248655653187585'
-title: "Nahh \U0001F602..."
 ---
 
 Nahh 😂

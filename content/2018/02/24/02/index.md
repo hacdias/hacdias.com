@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/rgllm/status/967488957981384706'
   syndication:
     - 'https://twitter.com/hacdias/status/967491617736331264'
-title: ':U thanks :)...'
 ---
 
 :U thanks :)

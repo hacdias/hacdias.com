@@ -12,7 +12,6 @@ properties:
   location:
     - 'geo:38.74488,-9.13456;u=5088'
 tags: *ref_0
-title: I enjoy showing...
 ---
 
 I enjoy showing the webmention and the context (reply to what? repost of what? like of what?) because, as you know, the content on the Internet is ephemeral and if I don't store it, I don't have assurance that it will remain available. And that's the main reason why I show the webmentions.

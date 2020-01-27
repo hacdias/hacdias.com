@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/TheMrKiko/status/1150913924809838592'
   syndication:
     - 'https://twitter.com/hacdias/status/1151034361875243008'
-title: Eu apaguei a minha conta há uns anos porque não dava para mu...
 ---
 
 Eu apaguei a minha conta há uns anos porque não dava para mudar a data de nascimento e criei outra. Por isso não sei.

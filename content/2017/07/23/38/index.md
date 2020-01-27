@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/abiosoft/status/889113227518521345'
   syndication:
     - 'https://twitter.com/hacdias/status/889115014799523840'
-title: 'iOS stands out in that point: less fragmentation. Almost eve...'
 ---
 
 iOS stands out in that point: less fragmentation. Almost every device gets the newest version of iOS. Of course this is easier for [@Apple](https://twitter.com/Apple)

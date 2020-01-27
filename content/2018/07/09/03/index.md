@@ -7,8 +7,5 @@ properties:
     - 'https://twitter.com/ThePracticalDev/status/1016356325926883332'
   syndication:
     - 'https://twitter.com/hacdias/status/1016360281214201856'
-title: |-
-  Why I hate Infinite Scrolling: 
-  1. I can't find your menubar...
 ---
 

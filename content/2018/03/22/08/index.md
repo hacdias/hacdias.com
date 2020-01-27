@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/dcacho23/status/976661933331025932'
   syndication:
     - 'https://twitter.com/hacdias/status/976737938120871937'
-title: 'Yeah, I feel you....'
 ---
 
 Yeah, I feel you.

@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/agentofuser/status/1158889354602983424'
   syndication:
     - 'https://twitter.com/hacdias/status/1158985682481811456'
-title: "- \U0001F527 ipfs-deploy now has a new home at @protocollabs, who ha..."
 ---
 

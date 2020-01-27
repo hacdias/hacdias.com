@@ -7,8 +7,5 @@ properties:
     - 'https://twitter.com/Felipether/status/1096592894964699136'
   syndication:
     - 'https://twitter.com/hacdias/status/1097086571449380866'
-title: |-
-  1/  
-  Many dismiss Filecoin for "taking years" after one of t...
 ---
 

@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/Windows/status/890720420823019522'
   syndication:
     - 'https://twitter.com/hacdias/status/890809248095055873'
-title: 'I will :)...'
 ---
 
 I will :)

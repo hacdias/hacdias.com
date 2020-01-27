@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/sindresorhus/status/887991944613433344'
   syndication:
     - 'https://twitter.com/hacdias/status/889535855743963136'
-title: From side is more sexy....
 ---
 
 From side is more sexy.

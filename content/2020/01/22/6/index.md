@@ -10,7 +10,6 @@ properties:
   in-reply-to:
     - 'https://aaronparecki.com/gps/'
 tags: *ref_0
-title: Hey Aaron! What...
 ---
 
 Hey Aaron! What software/library are you using to generate those maps with your location? Can they be considered heat maps? And what about the animated video?

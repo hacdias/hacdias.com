@@ -7,7 +7,6 @@ properties:
     - /2018/10/03/03/
   syndication:
     - 'https://twitter.com/hacdias/status/1047598457828114437'
-title: "/cc @lidelOrg \U0001F601..."
 ---
 
 /cc [@lidelOrg](https://twitter.com/lidelOrg) 😁

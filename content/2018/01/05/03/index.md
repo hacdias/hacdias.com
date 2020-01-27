@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/daviddias/status/949311278962573312'
   syndication:
     - 'https://twitter.com/hacdias/status/949375944183238656'
-title: 'I''m pumped for the #IPFS Lisbon Meetup that me @pgte, @vmx a...'
 ---
 

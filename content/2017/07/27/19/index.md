@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/JakeWrightUK/status/890564419188645889'
   syndication:
     - 'https://twitter.com/hacdias/status/890610217607725058'
-title: Congratz Jake!...
 ---
 
 Congratz Jake!

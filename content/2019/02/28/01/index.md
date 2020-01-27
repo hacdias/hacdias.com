@@ -7,6 +7,5 @@ properties:
     - 'https://twitter.com/IPFSbot/status/1101145543189975042'
   syndication:
     - 'https://twitter.com/hacdias/status/1101145647170887681'
-title: Discover an InterPlanetary Web at the first IPFS Camp in Bar...
 ---
 

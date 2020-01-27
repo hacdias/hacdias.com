@@ -7,7 +7,6 @@ properties:
     - 'https://twitter.com/mholt6/status/1174726154952957952'
   syndication:
     - 'https://twitter.com/hacdias/status/1174802259311570945'
-title: That would be interesting as Caddy can be extended to suppor...
 ---
 
 That would be interesting as Caddy can be extended to support additional protocols. I’m just wondering how’d we fit IPFS there. IPFS has a Go implementation so that would be quite easy to import I believe
