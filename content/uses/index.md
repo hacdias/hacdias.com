@@ -1,8 +1,9 @@
 ---
-date: 2020-01-21T15:39:00.000Z
+date: 2020-01-27T12:20:46.922Z
 emoji: "\U0001F6E0"
 properties:
   category: &ref_0 []
+publishDate: 2020-01-21T15:39:00.000Z
 tags: *ref_0
 title: Uses
 type: page
@@ -38,7 +39,6 @@ This is a [uses] page where you can find some of the technology I use. This page
 
 - [Caddy][caddy]
 - [Compass][compass]
-- [Miniflux][miniflux]
 
 [uses]: https://uses.tech/
 [vim]: https://www.vim.org/
@@ -51,6 +51,5 @@ This is a [uses] page where you can find some of the technology I use. This page
 [gh]: https://github.com
 [caddy]: https://caddyserver.com/
 [compass]: https://github.com/aaronpk/Compass
-[miniflux]: https://miniflux.app/
 [cloudflare]: https://www.cloudflare.com/
 [dotfiles]: https://github.com/hacdias/dotfiles
