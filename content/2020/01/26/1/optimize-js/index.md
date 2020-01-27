@@ -6,9 +6,9 @@ categories:
 date: 2020-01-26T10:38:10.206Z
 properties:
   category: &ref_0
-    - optimize
     - design
     - javascript
+    - optimization
   location:
     - 'geo:37.50625,-8.29768;u=7507'
 tags: *ref_0
