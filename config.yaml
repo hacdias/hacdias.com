@@ -1,6 +1,7 @@
 baseurl: 'https://hacdias.com/'
 languageCode: en
 paginate: 20
+rssLimit: 20
 pluralizelisttitles: false
 removePathAccents: true
 title: "@hacdias's blog"
@@ -10,6 +11,7 @@ relativeURLs: true
 enableRobotsTXT: true
 pygmentsCodeFences: true
 summaryLength: 150
+
 
 author:
   name: Henrique Dias
