@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://jlelse.blog/micro/2020/01/2020-01-28-ohlec/",
+    "date": "2020-01-28T11:02:00.000Z",
+    "private": false,
+    "wm-id": 749467,
+    "content": {
+      "html": "<p>I also follow “<a href=\"https://heyokyay.com/\">Hey ok yay?</a>” (English) and “<a href=\"https://islieb.de/\">Is lieb?</a>” (German, by the same author).</p>",
+      "text": "I also follow “Hey ok yay?” (English) and “Is lieb?” (German, by the same author)."
+    },
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://webmention.io/avatar/jlelse.dev/aca2c85df020dd9b98c29e4475aad0566f609e3b6ce35a688bec0e2b0c7fc41f.jpg",
+      "url": "https://jlelse.dev/"
+    }
+  }
+]
