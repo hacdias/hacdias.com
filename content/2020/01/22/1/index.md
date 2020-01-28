@@ -1,14 +1,13 @@
 ---
 categories:
   - replies
-date: 2020-01-28T14:14:56.030Z
 properties:
   category: &ref_0
     - security
     - webmention
   in-reply-to:
     - 'https://jlelse.blog/thoughts/2020/01/security-risk-embedding/'
-publishDate: 2020-01-22T09:20:22.592Z
+date: 2020-01-22T09:20:22.592Z
 tags: *ref_0
 ---
 
