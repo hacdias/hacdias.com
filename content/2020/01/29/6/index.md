@@ -76,6 +76,6 @@ tags:
   - classic
 ```
 
-This would be easier for the templates. But then, I would need to make more transformations when receiving, updating and generating the microformats on the micropub endpoint.
+This would be easier for the templates. But then, I would need to make more transformations when receiving, updating and generating the microformats on the micropub endpoint. I could also get rid of `properties` altogether and just add that level during transformations.
 
-I'll add this as a TODO and, if I have time, I'll tackle that. For now, I have a nice read logs page and a working bookshelf!
+I'll add this as a ToDo and, if I have time, I'll tackle that. For now, I have a nice read logs page and a working bookshelf!
