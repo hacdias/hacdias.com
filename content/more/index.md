@@ -1,9 +1,13 @@
 ---
-title: More
-date:  2020-01-25T22:56:00.000Z
+date: 2020-01-29T22:22:32.621Z
 menu:
   main:
     weight: 7
+properties:
+  category: &ref_0 []
+publishDate: 2020-01-25T22:56:00.000Z
+tags: *ref_0
+title: More
 ---
 
 Here's the list of all the pages on this website (which might even lead to other
@@ -11,6 +15,7 @@ pages that aren't listed here - _paradox_):
 
 - [About](/about/)
 - [Blogroll](/blogroll/)
+- [Books](/books/) - my bookshelf with the books I've read.
 - [Categories](/categories/) (post types: replies, likes, etc)
 - [Lab](/lab/)
 - [Now](/now/)
