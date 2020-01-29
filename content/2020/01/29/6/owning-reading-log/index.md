@@ -1,5 +1,7 @@
 ---
 title: Owning my reading log
+aliases:
+  - /2020/01/29/6/
 categories:
   - blog
 date: 2020-01-29T23:50:00.000Z
