@@ -4,14 +4,17 @@ categories:
 date: 2020-01-15T00:00:00.000Z
 properties:
   read-of:
-    - author:
-        - Steve Kinney
-      name:
-        - Electron in Action
-      rating:
-        - 3
-      uid:
-        - 'isbn:9781617294143'
+    - properties:
+        author:
+          - Steve Kinney
+        name:
+          - Electron in Action
+        rating:
+          - 3
+        uid:
+          - 'isbn:9781617294143'
+      type:
+        - h-cite
   read-status:
     - finished
 ---

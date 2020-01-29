@@ -1,4 +1,4 @@
-{{ $read := index (index .Glob.Params.properties "read-of") 0 }}
+{{ $read := (index (index .Glob.Params.properties "read-of") 0).properties }}
 {{ $readStatus := index (index .Glob.Params.properties "read-status") 0 }}
 {{ with $read }}
 <p class='copy content p-summary e-entry'>

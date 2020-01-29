@@ -4,14 +4,17 @@ categories:
 date: 2016-08-24T23:00:00.000Z
 properties:
   read-of:
-    - author:
-        - Ana Maria Magalhães
-      name:
-        - Uma Aventura no Deserto
-      rating:
-        - 0
-      uid:
-        - 'isbn:9789722100205'
+    - properties:
+        author:
+          - Ana Maria Magalhães
+        name:
+          - Uma Aventura no Deserto
+        rating:
+          - 0
+        uid:
+          - 'isbn:9789722100205'
+      type:
+        - h-cite
   read-status:
     - finished
 ---

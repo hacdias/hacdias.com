@@ -4,14 +4,17 @@ categories:
 date: 2015-08-01T23:00:00.000Z
 properties:
   read-of:
-    - author:
-        - Stephen Hawking
-      name:
-        - 'Breve História do Tempo: do Big Bang aos Buracos Negros'
-      rating:
-        - 5
-      uid:
-        - 'isbn:9789726620105'
+    - properties:
+        author:
+          - Stephen Hawking
+        name:
+          - 'Breve História do Tempo: do Big Bang aos Buracos Negros'
+        rating:
+          - 5
+        uid:
+          - 'isbn:9789726620105'
+      type:
+        - h-cite
   read-status:
     - finished
 ---

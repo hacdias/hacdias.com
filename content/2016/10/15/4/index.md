@@ -4,14 +4,17 @@ categories:
 date: 2016-10-14T23:00:00.000Z
 properties:
   read-of:
-    - author:
-        - George Orwell
-      name:
-        - Nineteen Eighty-Four
-      rating:
-        - 4
-      uid:
-        - 'isbn:9780141393049'
+    - properties:
+        author:
+          - George Orwell
+        name:
+          - Nineteen Eighty-Four
+        rating:
+          - 4
+        uid:
+          - 'isbn:9780141393049'
+      type:
+        - h-cite
   read-status:
     - finished
 ---

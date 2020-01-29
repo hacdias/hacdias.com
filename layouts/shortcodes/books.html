@@ -29,7 +29,7 @@
 <div class="bookshelf">
   {{- range $i, $book := $books -}}
     {{- $cover := $book.Resources.GetMatch "cover.jpg" -}}
-    {{- $read := index (index $book.Params.properties "read-of") 0 -}}
+    {{- $read := (index (index $book.Params.properties "read-of") 0).properties -}}
     {{- $readStatus := index (index $book.Params.properties "read-status") 0 -}}
     {{- $title := printf "%s by %s" (index $read.name 0) (index $read.author 0) -}}
 
