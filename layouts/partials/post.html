@@ -24,10 +24,10 @@
       {{ if eq $dataToShow.type "entry" }}
         {{ partial "embedded-entry"  (dict "Wm" $dataToShow "Class" $layout.class) }}
       {{ else }}
-        {{ $parsed := urls.Parse $url }}
-        <p class='copy content'>
-          <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">{{ .Glob.Title }}</a>
-          ({{ $parsed.Host }}{{ $parsed.Path }})
+        <p class='copy content e-entry'>
+          <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">
+            {{- with .Glob.Title }}{{ . }}{{ else }}{{ $url}}{{ end -}}
+          </a>
         </p>
       {{ end }}
     {{ end}}
