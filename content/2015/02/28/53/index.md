@@ -8,9 +8,7 @@ properties:
         author:
           - Rick Riordan
         name:
-          - >-
-            Percy Jackson e a Maldição do Titã (Percy Jackson and the Olympians,
-            #3)
+          - Percy Jackson e a Maldição do Titã
         rating:
           - 4
         uid:

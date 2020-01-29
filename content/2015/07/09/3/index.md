@@ -8,7 +8,7 @@ properties:
         author:
           - Veronica Roth
         name:
-          - 'Quatro – Histórias da Série Divergente (Divergente, #0.1 - 0.4)'
+          - 'Quatro – Histórias da Série Divergente'
         rating:
           - 0
         uid:

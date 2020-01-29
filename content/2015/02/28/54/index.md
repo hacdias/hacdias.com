@@ -8,9 +8,7 @@ properties:
         author:
           - Rick Riordan
         name:
-          - >-
-            Percy Jackson e o Último Olimpiano (Percy Jackson and the Olympians,
-            #5)
+          - Percy Jackson e o Último Olimpiano
         rating:
           - 5
         uid:
