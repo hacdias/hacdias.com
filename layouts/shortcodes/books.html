@@ -35,8 +35,8 @@
 
     {{- if eq $readStatus "finished" -}}
       {{- with $cover }}
-        {{- $100 := $cover.Fill "100x150 q50" -}}
-        {{- $200 := $cover.Fill "210x300 q50" -}}
+        {{- $100 := $cover.Fill "100x150 Center q50" -}}
+        {{- $200 := $cover.Fill "210x300 Center q50" -}}
         <a href="{{ $book.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}">
           <picture>
             <source srcset="{{ $100.RelPermalink }} 100w, {{ $200.RelPermalink }} 200w">
