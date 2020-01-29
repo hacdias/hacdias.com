@@ -1,0 +1,49 @@
+<style>
+.bookshelf {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 1rem;
+}
+
+@media screen and (max-width: 40rem) {
+  .bookshelf {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media screen and (max-width: 35rem) {
+  .bookshelf {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media screen and (max-width: 30rem) {
+  .bookshelf {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+</style>
+
+{{- $books := (.Site.GetPage "/categories/reads").Pages -}}
+
+<div class="bookshelf">
+  {{- range $i, $book := $books -}}
+    {{- $cover := $book.Resources.GetMatch "cover.jpg" -}}
+    {{- $read := index (index $book.Params.properties "read-of") 0 -}}
+    {{- $readStatus := index (index $book.Params.properties "read-status") 0 -}}
+    {{- $title := printf "%s by %s" (index $read.name 0) (index $read.author 0) -}}
+
+    {{- if eq $readStatus "finished" -}}
+      {{- with $cover }}
+        {{- $100 := $cover.Fill "100x150 q50" -}}
+        {{- $200 := $cover.Fill "210x300 q50" -}}
+        <a href="{{ $book.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}">
+          <picture>
+            <source srcset="{{ $100.RelPermalink }} 100w, {{ $200.RelPermalink }} 200w">
+            <img src="{{ $cover.RelPermalink }}" />
+          </picture>
+        </a>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+</div>
