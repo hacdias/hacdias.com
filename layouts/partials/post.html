@@ -33,6 +33,10 @@
     {{ end}}
   {{ end }}
 
+  {{ if eq .Type "reads" }}
+    {{ partial "book-status" . }}
+  {{ end }}
+
   {{ if .Glob.Params.descAsSummary }}
     <div class='content copy p-summary'><p>{{ .Glob.Description }}</p></div>
   {{ else if $useSummary}}

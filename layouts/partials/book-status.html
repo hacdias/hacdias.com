@@ -1,0 +1,20 @@
+{{ $read := index (index .Glob.Params.properties "read-of") 0 }}
+{{ $readStatus := index (index .Glob.Params.properties "read-status") 0 }}
+{{ with $read }}
+<p class='copy content p-summary e-entry'>
+  <data class="p-read-status" value="{{ $readStatus }}">
+    {{- if eq $readStatus "to-read" -}}
+      Want to read
+    {{- else if eq $readStatus "finished" -}}
+      Finished reading
+    {{- else -}}
+      Currently reading
+    {{- end -}}
+  </data>
+  <span class="p-read-of h-cite">
+    <cite class="p-name">{{ index .name 0 }}</cite> by
+    <span class="p-author">{{ index .author 0 }}</span>,
+    ISBN: <span class="p-uid">{{ strings.TrimPrefix "isbn:" (index .uid 0) }}</span>
+  </span>
+</p>
+{{ end }}
