@@ -13,7 +13,7 @@ properties:
         name:
           - Alice's Adventures in Wonderland and Through the Looking Glass
         uid:
-          - 'isbn:9781853260025'
+          - 'isbn:9780141439761'
       type:
         - h-cite
   read-status:
