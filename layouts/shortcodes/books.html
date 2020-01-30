@@ -24,7 +24,7 @@
 }
 </style>
 
-{{- $books := (.Site.GetPage "/categories/reads").Pages -}}
+{{- $books := sort (.Site.GetPage "/categories/reads").Pages "Date" "desc" -}}
 
 <div class="bookshelf">
   {{- range $i, $book := $books -}}
