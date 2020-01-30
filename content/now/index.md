@@ -13,17 +13,17 @@ menu:
     weight: 5
 ---
 
+This is a [now](https://nownownow.com/about) page. <span id="info">Loading information...</span>
+
 At the moment, I'm focusing on the following things:
 
 - Finishing my university exams;
 - Improving this website;
 - And getting back to work.
 
-<span id="info">Loading information...</span>
+I'm also reading the following books:
 
----
-
-This page is inspired by the [now](https://nownownow.com/about) movement.
+{{< books type="reading" >}}
 
 <script>
 fetch('https://hacdias.com/api/now')
