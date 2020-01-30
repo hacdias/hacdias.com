@@ -1,25 +1,27 @@
 ---
-type:         page
-title:        Now
-emoji:        ⏱
-publishDate:  2020-01-21T15:06:00.000Z
-date:         2020-01-25T22:53:00.000Z
-description:  >
-  This is a simple page for me to join the nownownow movement.
-  You can find information about what I'm doing at the moment and
-  some other curious information.
+date: 2020-01-30T14:05:45.350Z
+description: >
+  This is a simple page for me to join the nownownow movement. You can find
+  information about what I'm doing at the moment and some other curious
+  information.
+emoji: ⏱
 menu:
   main:
     weight: 5
+properties:
+  category: &ref_0 []
+publishDate: 2020-01-21T15:06:00.000Z
+tags: *ref_0
+title: Now
+type: page
 ---
 
-This is a [now](https://nownownow.com/about) page. <span id="info">Loading information...</span>
+This is a [now](https://nownownow.com/about) page. <span id="info"></span>
 
 At the moment, I'm focusing on the following things:
 
-- Finishing my university exams;
-- Improving this website;
-- And getting back to work.
+- Improving this website; and
+- Decentralizing the web!
 
 I'm also reading the following books:
 
