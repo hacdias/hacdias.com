@@ -10,6 +10,8 @@ properties:
     - 'https://twitter.com/anarlguerra/status/1222824668740100097'
   location:
     - 'geo:38.73532,-9.1394;u=65'
+  syndication:
+    - https://twitter.com/hacdias/status/1222843405404864512
 tags: *ref_0
 ---
 
