@@ -1,0 +1,19 @@
+{{ $scratch := newScratch }}
+
+{{ if eq .Type "all" }}
+  {{ $cats := .Site.Taxonomies.categories }}
+  {{ $scratch.Add "categories" slice }}
+
+  {{ range $key, $v := $cats }}
+    {{ $scratch.Add "categories" (slice $key) }}
+  {{ end }}
+
+  {{ $scratch.Add "pages" (where .Site.RegularPages ".Params.categories" "intersect" ($scratch.Get "categories")) }}
+{{ else if .IsHome }}
+  {{ $categories := slice "notes" "blog" "replies" "reads" }}
+  {{ $scratch.Add "pages" (where .Site.RegularPages ".Params.categories" "intersect" $categories) }}
+{{ else }}
+  {{ $scratch.Add "pages" .RegularPages }}
+{{ end }}
+
+{{ return $scratch.Get "pages" }}

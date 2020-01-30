@@ -1,27 +1,21 @@
 {{ define "main" }}
 
 <main role='main'>
-	{{ if not .Params.hideTitle }}
+	{{- if not .Params.hideTitle -}}
 	<h1>{{ .Title }}</h1>
-	{{ end }}
+	{{- end -}}
 
-	{{ with .Content }}
+	{{- with .Content }}
 		<div class='copy'>{{ . }}</div>
-	{{ end }}
+	{{- end }}
 
 	<div class='h-feed'>
-		{{ $paginator := slice }}
-		{{ if .Params.categoriesToList }}
-			{{ $paginator = .Paginate (where .Site.Pages ".Params.categories" "intersect" .Params.categoriesToList) }}
-		{{ else }}
-			{{ $paginator = .Paginator}}
-		{{ end }}
-
-		{{ range .Paginator.Pages }}
-			{{ $type := (lower (index (or .Params.categories (slice "")) 0 )) }}
-			{{ $data := (dict "Glob" . "Type" $type "Mode" "list") }}
-			{{ partial "post" $data }}
-		{{ end }}
+		{{- $paginator := .Paginate (partial "get-pages" .) -}}
+		{{- range .Paginator.Pages -}}
+			{{- $type := (lower (index (or .Params.categories (slice "")) 0 )) -}}
+			{{- $data := (dict "Glob" . "Type" $type "Mode" "list") -}}
+			{{- partial "post" $data -}}
+		{{- end -}}
 	</div>
 
 	{{ partial "pagination" . -}}

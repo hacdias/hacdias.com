@@ -1,14 +1,6 @@
 ---
 title:  All
 layout: list
-type:   all
-categoriesToList:
-  - likes
-  - notes
-  - blog
-  - replies
-  - bookmarks
-  - reposts
 ---
 
 This page is just an unfiltered [`h-feed`][hfeed] with all posts from all [categories] of this website.
