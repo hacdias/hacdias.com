@@ -7,6 +7,8 @@ properties:
     - posse
     - twitter
     - rfc
+  syndication:
+    - https://twitter.com/hacdias/status/1223022519936016385
 tags: *ref_0
 ---
 
