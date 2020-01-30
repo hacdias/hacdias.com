@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://hacdias.com/2020/01/30/7/",
+    "date": "2020-01-30T22:34:26.000Z",
+    "private": false,
+    "wm-id": 750341,
+    "content": {
+      "html": "<p>Actually it didn’t because it didn’t POSSE correctly to Twitter. There seem to be some beautiful things about the Twitter API that make this fail once in a while and I haven’t yet discovered why.</p>",
+      "text": "Actually it didn’t because it didn’t POSSE correctly to Twitter. There seem to be some beautiful things about the Twitter API that make this fail once in a while and I haven’t yet discovered why."
+    },
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://webmention.io/avatar/hacdias.com/664891eacca0e5248f8e6c7b5849da5c82f3a7d58fe9693e730338d01513b117.jpg",
+      "url": "https://hacdias.com/"
+    }
+  }
+]
