@@ -1,3 +1,4 @@
+{{- if not (.Page.Scratch.Get "has-books-styles") -}}
 <style>
 .bookshelf {
   display: grid;
@@ -23,27 +24,43 @@
   }
 }
 </style>
+{{- end }}
+{{- .Page.Scratch.Set "has-books-styles" true -}}
 
 {{- $books := sort (.Site.Taxonomies.categories.reads).Pages "Date" "desc" -}}
+{{- $type := .Get "type" -}}
+{{- $scratchBook := newScratch -}}
+{{- $scratchBook.Add "books" slice -}}
+{{- range $i, $book := $books -}}
+  {{- $readStatus := index (index $book.Params.properties "read-status") 0 -}}
+  {{- if and (eq $readStatus $type) (not (in .Params.tags "noshelf")) -}}
+    {{- $scratchBook.Add "books" (slice $book) -}}
+  {{- end -}}
+{{- end -}}
 
-<div class="bookshelf">
-  {{- range $i, $book := $books -}}
-    {{- $cover := $book.Resources.GetMatch "cover.jpg" -}}
-    {{- $read := (index (index $book.Params.properties "read-of") 0).properties -}}
-    {{- $readStatus := index (index $book.Params.properties "read-status") 0 -}}
-    {{- $title := printf "%s by %s" (index $read.name 0) (index $read.author 0) -}}
+{{- $books = $scratchBook.Get "books" -}}
 
-    {{- if eq $readStatus "finished" -}}
-      {{- with $cover }}
-        {{- $100 := $cover.Fill "100x150 Center q50" -}}
-        {{- $200 := $cover.Fill "210x300 Center q50" -}}
-        <a href="{{ $book.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}">
+{{- if gt (len $books) 0 -}}
+  <div class="bookshelf">
+    {{- range $i, $book := $books -}}
+      {{- $cover := $book.Resources.GetMatch "cover.jpg" -}}
+      {{- $read := (index (index $book.Params.properties "read-of") 0).properties -}}
+      {{- $readStatus := index (index $book.Params.properties "read-status") 0 -}}
+      {{- $title := printf "%s by %s" (index $read.name 0) (index $read.author 0) -}}
+      <a href="{{ $book.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}">
+        {{- with $cover }}
+          {{- $100 := $cover.Fill "100x150 Center q50" -}}
+          {{- $200 := $cover.Fill "210x300 Center q50" -}}
           <picture>
             <source srcset="{{ $100.RelPermalink }} 100w, {{ $200.RelPermalink }} 200w">
             <img src="{{ $cover.RelPermalink }}" />
           </picture>
-        </a>
-      {{- end -}}
+        {{- else -}}
+          <span>{{ $title }}</span>
+        {{- end -}}
+      </a>
     {{- end -}}
-  {{- end -}}
-</div>
+  </div>
+{{- else -}}
+  <p>This bookshelf is empty at the moment.</p>
+{{- end -}}
