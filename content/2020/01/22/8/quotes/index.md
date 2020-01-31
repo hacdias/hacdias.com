@@ -5,12 +5,11 @@ categories:
   - notes
 date: 2020-01-22T15:17:16.219Z
 properties:
-  category: &ref_0
-    - quotes
-    - simplicity
   location:
     - 'geo:38.74488,-9.13456;u=5088'
-tags: *ref_0
+tags:
+  - quotes
+  - simplicity
 ---
 
 Just found a file with some quotes about simplicity I noted some time ago. I thought it'd be nice to save them here!

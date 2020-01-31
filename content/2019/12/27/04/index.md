@@ -6,10 +6,9 @@ description: null
 properties:
   bookmark-of:
     - 'https://blog.acolyer.org'
-  category: &ref_0
-    - papers
-    - awesome
-tags: *ref_0
+tags:
+  - papers
+  - awesome
 title: the morning paper
 ---
 

@@ -7,7 +7,6 @@ description: null
 properties:
   bookmark-of:
     - 'https://squoosh.app'
-tags: []
 title: Squoosh
 ---
 

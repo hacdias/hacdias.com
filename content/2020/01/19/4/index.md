@@ -3,12 +3,11 @@ categories:
   - replies
 date: 2020-01-19T19:36:11.549Z
 properties:
-  category: &ref_0
-    - software
-    - micropub
   in-reply-to:
     - 'https://jlelse.blog/thoughts/2020/01/optimizing-software/'
-tags: *ref_0
+tags:
+  - software
+  - micropub
 ---
 
 > Wouldn't it be better to start where minutes or even hours are regularly wasted?

@@ -1,14 +1,13 @@
 ---
 categories:
   - replies
+date: 2020-01-22T09:20:22.592Z
 properties:
-  category: &ref_0
-    - security
-    - webmention
   in-reply-to:
     - 'https://jlelse.blog/thoughts/2020/01/security-risk-embedding/'
-date: 2020-01-22T09:20:22.592Z
-tags: *ref_0
+tags:
+  - security
+  - webmention
 ---
 
 This is actually the next thing I want to "fix". Other problem of twitter is that, if the user changes the profile picture, the previous one gets unavailable. For webmentions, I'm using the images provided by webmention.io, but for replies, likes and reposts context, I'm using the original source and I don't like it.

@@ -5,15 +5,15 @@ categories:
   - blog
 date: 2019-12-30T23:50:00.000Z
 description: >
-  After updating the structure of my URLs, I now needed to start enabling
-  some IndieWeb features... here's how to enable IndieAuth!
+  After updating the structure of my URLs, I now needed to start enabling some
+  IndieWeb features... here's how to enable IndieAuth!
 properties:
   syndication:
-    - https://twitter.com/hacdias/status/1211797283525812224
-title: Enabling IndieAuth on my website
+    - 'https://twitter.com/hacdias/status/1211797283525812224'
 tags:
-- indieweb
-- indieauth
+  - indieweb
+  - indieauth
+title: Enabling IndieAuth on my website
 ---
 
 This is going to be a quick post — I hope. 

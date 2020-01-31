@@ -6,12 +6,11 @@ description: null
 properties:
   bookmark-of:
     - 'https://howhttps.works'
-  category: &ref_0
-    - comics
-    - http
-    - https
-    - education
-tags: *ref_0
+tags:
+  - comics
+  - http
+  - https
+  - education
 title: How HTTPS works
 ---
 

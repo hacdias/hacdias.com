@@ -5,8 +5,6 @@ categories:
   - notes
 date: 2019-12-30T21:33:23.650Z
 properties:
-  category: &ref_0
-    - meta
   location:
     - properties:
         country: PRT
@@ -15,7 +13,8 @@ properties:
         longitude: -8.29768
         region: Beja
       type: h-adr
-tags: *ref_0
+tags:
+  - meta
 ---
 
 Testing with [Webmention.rocks](https://webmention.rocks):

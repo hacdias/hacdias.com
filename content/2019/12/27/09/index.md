@@ -7,11 +7,10 @@ description: null
 properties:
   bookmark-of:
     - 'https://scuttlebutt.nz'
-  category: &ref_0
-    - dweb
-    - ssb
-    - social
-tags: *ref_0
+tags:
+  - dweb
+  - ssb
+  - social
 title: Scuttlebutt
 ---
 

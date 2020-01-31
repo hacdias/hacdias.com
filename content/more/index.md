@@ -3,10 +3,8 @@ date: 2020-01-29T22:22:32.621Z
 menu:
   main:
     weight: 7
-properties:
-  category: &ref_0 []
+properties: {}
 publishDate: 2020-01-25T22:56:00.000Z
-tags: *ref_0
 title: More
 ---
 

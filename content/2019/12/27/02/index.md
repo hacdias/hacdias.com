@@ -6,12 +6,11 @@ description: null
 properties:
   bookmark-of:
     - 'https://howdns.works'
-  category: &ref_0
-    - comics
-    - education
-    - dns
-    - networks
-tags: *ref_0
+tags:
+  - comics
+  - education
+  - dns
+  - networks
 title: How DNS works
 ---
 

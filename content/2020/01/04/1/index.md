@@ -6,9 +6,8 @@ properties:
   bookmark-of:
     - >-
       https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/
-  category: &ref_0
-    - funny
-tags: *ref_0
+tags:
+  - funny
 title: My Business Card Runs Linux
 ---
 

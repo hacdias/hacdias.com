@@ -2,11 +2,10 @@
 categories:
   - notes
 date: 2020-01-27T23:32:49.353Z
-properties:
-  category: &ref_0
-    - personal
-    - time
-tags: *ref_0
+properties: {}
+tags:
+  - personal
+  - time
 title: ''
 ---
 

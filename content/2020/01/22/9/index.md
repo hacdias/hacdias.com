@@ -3,12 +3,11 @@ categories:
   - notes
 date: 2020-01-22T21:17:18.565Z
 properties:
-  category: &ref_0
-    - citation
-    - books
   location:
     - 'geo:38.74488,-9.13456;u=5088'
-tags: *ref_0
+tags:
+  - citation
+  - books
 ---
 
 🇵🇹 Uma citação da qual sempre gostei imenso, de um livro que não esperava ler. Fica aqui, for the record:

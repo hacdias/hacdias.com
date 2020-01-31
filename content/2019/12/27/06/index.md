@@ -7,10 +7,9 @@ description: null
 properties:
   bookmark-of:
     - 'https://dat.foundation'
-  category: &ref_0
-    - dat
-    - dweb
-tags: *ref_0
+tags:
+  - dat
+  - dweb
 title: Dat Protocol Foundation
 ---
 

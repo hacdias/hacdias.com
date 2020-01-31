@@ -3,10 +3,6 @@ categories:
   - reads
 date: 2020-01-29T23:19:58.372Z
 properties:
-  category: &ref_0
-    - story
-    - classic
-    - noshelf
   read-of:
     - properties:
         author:
@@ -19,6 +15,9 @@ properties:
         - h-cite
   read-status:
     - to-read
-tags: *ref_0
+tags:
+  - story
+  - classic
+  - noshelf
 ---
 

@@ -4,12 +4,11 @@ aliases:
 categories:
   - notes
 date: 2020-01-20T22:23:22.202Z
-properties:
-  category: &ref_0
-    - telnet
-    - software
-    - terminal
-tags: *ref_0
+properties: {}
+tags:
+  - telnet
+  - software
+  - terminal
 ---
 
 Watch a movie through telnet:

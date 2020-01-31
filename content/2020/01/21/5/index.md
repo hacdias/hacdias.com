@@ -3,13 +3,12 @@ categories:
   - notes
 date: 2020-01-21T22:30:58.354Z
 properties:
-  category: &ref_0
-    - meta
-    - design
-    - optimization
   location:
     - 'geo:38.74488,-9.13456;u=5088'
-tags: *ref_0
+tags:
+  - meta
+  - design
+  - optimization
 ---
 
 Just made a few updates to my website:

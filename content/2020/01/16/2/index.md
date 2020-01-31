@@ -6,11 +6,10 @@ properties:
   bookmark-of:
     - >-
       https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/
-  category: &ref_0
-    - static-websites
-    - development
-    - meta
-tags: *ref_0
+tags:
+  - static-websites
+  - development
+  - meta
 title: 'Using A Static Site Generator At Scale: Lessons Learned — Smashing Magazine'
 ---
 

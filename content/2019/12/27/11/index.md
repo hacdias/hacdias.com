@@ -7,9 +7,8 @@ description: null
 properties:
   bookmark-of:
     - 'https://devhints.io'
-  category: &ref_0
-    - webdev
-tags: *ref_0
+tags:
+  - webdev
 title: Devhints — TL;DR for developer documentation
 ---
 

@@ -3,8 +3,6 @@ categories:
   - reads
 date: 2020-01-30T19:20:04.861Z
 properties:
-  category: &ref_0
-    - lgbt
   read-of:
     - properties:
         author:
@@ -17,6 +15,7 @@ properties:
         - h-cite
   read-status:
     - to-read
-tags: *ref_0
+tags:
+  - lgbt
 ---
 

@@ -5,10 +5,6 @@ categories:
   - notes
 date: 2019-12-31T13:01:18.887Z
 properties:
-  category: &ref_0
-    - packages
-    - indieauth
-    - micropub
   location:
     - properties:
         country: PRT
@@ -19,7 +15,10 @@ properties:
       type: h-adr
   syndication:
     - 'https://twitter.com/hacdias/status/1211996203514290176'
-tags: *ref_0
+tags:
+  - packages
+  - indieauth
+  - micropub
 ---
 
 Just published two minimal packages to help building micropub applications!

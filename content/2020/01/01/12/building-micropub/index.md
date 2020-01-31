@@ -1,19 +1,19 @@
 ---
-title: Adding support for Micropub endpoint
+aliases:
+  - /2020/01/01/12/
 categories:
   - blog
-date: 2020-01-01T23:30:00Z
+date: 2020-01-01T23:30:00.000Z
 properties:
   syndication:
-    - https://twitter.com/hacdias/status/1212517049035038720
+    - 'https://twitter.com/hacdias/status/1212517049035038720'
 tags:
   - indiweb
   - micropub
   - ownyourowndata
-aliases:
-  - /2020/01/01/12/
+title: Adding support for Micropub endpoint
 ---
- 
+
 Recently, I have talked about [restructuring the URLs](/2019/12/28/06/url-structure/) of my website and [adding IndieAuth](/2019/12/30/09/using-indieauth/) so I could use my domain as my main  online identity to login into services. Along those lines, I came across [Micropub](https://www.w3.org/TR/micropub/). In their own words:
 
 > The Micropub protocol is used to create, update and delete posts on one’s own domain using third-party clients.   

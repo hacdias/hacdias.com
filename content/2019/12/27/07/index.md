@@ -7,10 +7,9 @@ description: null
 properties:
   bookmark-of:
     - 'https://boom.fyi'
-  category: &ref_0
-    - ipfs
-    - dweb
-tags: *ref_0
+tags:
+  - ipfs
+  - dweb
 title: boom.fyi - ipfs link shortener
 ---
 

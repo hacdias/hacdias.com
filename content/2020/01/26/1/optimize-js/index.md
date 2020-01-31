@@ -5,13 +5,12 @@ categories:
   - notes
 date: 2020-01-26T10:38:10.206Z
 properties:
-  category: &ref_0
-    - design
-    - javascript
-    - optimization
   location:
     - 'geo:37.50625,-8.29768;u=7507'
-tags: *ref_0
+tags:
+  - design
+  - javascript
+  - optimization
 ---
 
 Just fixed the flickering issue by inlining the required JavaScript, which is a really small snippet. If you're curious about the code I'm using to toggle between the dark and light themes, following the user's choice and falling back to the OS settings, here it is:

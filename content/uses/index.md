@@ -1,10 +1,8 @@
 ---
 date: 2020-01-28T14:25:25.682Z
 emoji: "\U0001F6E0"
-properties:
-  category: &ref_0 []
+properties: {}
 publishDate: 2020-01-21T15:39:00.000Z
-tags: *ref_0
 title: Uses
 type: page
 ---

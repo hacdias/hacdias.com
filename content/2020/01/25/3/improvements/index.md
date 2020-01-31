@@ -5,12 +5,11 @@ categories:
   - notes
 date: 2020-01-25T23:45:22.486Z
 properties:
-  category: &ref_0
-    - meta
-    - design
   location:
     - 'geo:37.50625,-8.29768;u=7507'
-tags: *ref_0
+tags:
+  - meta
+  - design
 ---
 
 Just made a few updates to my website:

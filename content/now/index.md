@@ -8,10 +8,8 @@ emoji: ⏱
 menu:
   main:
     weight: 5
-properties:
-  category: &ref_0 []
+properties: {}
 publishDate: 2020-01-21T15:06:00.000Z
-tags: *ref_0
 title: Now
 type: page
 ---

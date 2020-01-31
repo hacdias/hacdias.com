@@ -3,9 +3,6 @@ categories:
   - reads
 date: 2020-01-29T23:21:46.563Z
 properties:
-  category: &ref_0
-    - classic
-    - story
   read-of:
     - properties:
         author:
@@ -18,6 +15,8 @@ properties:
         - h-cite
   read-status:
     - to-read
-tags: *ref_0
+tags:
+  - classic
+  - story
 ---
 

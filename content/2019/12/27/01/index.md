@@ -6,10 +6,9 @@ description: null
 properties:
   bookmark-of:
     - 'https://xkcd.com'
-  category: &ref_0
-    - comics
-    - web
-tags: *ref_0
+tags:
+  - comics
+  - web
 title: xkcd
 ---
 
