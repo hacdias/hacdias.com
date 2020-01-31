@@ -6,6 +6,7 @@ properties:
   category: &ref_0
     - story
     - classic
+    - noshelf
   read-of:
     - properties:
         author:
