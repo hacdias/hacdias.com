@@ -43,8 +43,9 @@
 {{- if gt (len $books) 0 -}}
   <div class="bookshelf">
     {{- range $i, $book := $books -}}
-      {{- $cover := $book.Resources.GetMatch "cover.jpg" -}}
       {{- $read := (index (index $book.Params.properties "read-of") 0).properties -}}
+      {{- $isbn := strings.TrimPrefix "isbn:" (index $read.uid 0) -}}
+      {{- $cover := resources.Get (printf "images/books/%s.jpg" $isbn) -}}
       {{- $readStatus := index (index $book.Params.properties "read-status") 0 -}}
       {{- $title := printf "%s by %s" (index $read.name 0) (index $read.author 0) -}}
       <a href="{{ $book.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}">
