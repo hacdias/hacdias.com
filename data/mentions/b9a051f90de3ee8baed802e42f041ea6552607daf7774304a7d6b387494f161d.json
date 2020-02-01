@@ -1,0 +1,17 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e27603900180c0008671d5a/6fa0049b5924bf3cb0a664c5f00d3b87",
+    "date": "2020-01-21T20:34:01.000Z",
+    "private": false,
+    "wm-id": 750786,
+    "content": {
+      "text": "What's that old saying? \"If you didn't check in on Swarm, did it even happen?\" Well you were here, and now it's official."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/809026e121e4bc0431b29136faf96f67f1bd68b756e68134ac3ed65048d56ca6.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

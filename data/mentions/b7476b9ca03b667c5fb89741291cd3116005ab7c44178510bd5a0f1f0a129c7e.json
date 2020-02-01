@@ -1,0 +1,62 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1c8d5963fe1900086f6e48/cc6cc97e4cc46ab40bfc0a6762e0d34e",
+    "date": "2020-01-13T15:31:37.000Z",
+    "private": false,
+    "wm-id": 750795,
+    "content": {
+      "text": "First check-in in Alvalade."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1c8d5963fe1900086f6e48/5ef89067a05d83026500345db9a8c20d",
+    "date": "2020-01-13T15:31:37.000Z",
+    "private": false,
+    "wm-id": 750796,
+    "content": {
+      "text": "There's a lot going on inside Roma-Areeiro Train Station! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1c8d5963fe1900086f6e48/8bb9cb6e30637d2aa550dccb71aee367",
+    "date": "2020-01-13T15:31:37.000Z",
+    "private": false,
+    "wm-id": 750797,
+    "content": {
+      "text": "That's 3 straight weeks at Train Stations. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1c8d5963fe1900086f6e48/cc5276a020be1b2dd96a296fe66512d3",
+    "date": "2020-01-13T15:31:37.000Z",
+    "private": false,
+    "wm-id": 750798,
+    "content": {
+      "text": "First check-in at Roma-Areeiro Train Station."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

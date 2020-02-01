@@ -1,0 +1,47 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2ddccbf9c12b0008485176/ad030157a318a92c87ed3055f832872e",
+    "date": "2020-01-26T18:39:07.000Z",
+    "private": false,
+    "wm-id": 750765,
+    "content": {
+      "text": "Your first check-in at this Starbucks!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2ddccbf9c12b0008485176/63ce72c7ee22b7119c4d5e251fff12c8",
+    "date": "2020-01-26T18:39:07.000Z",
+    "private": false,
+    "wm-id": 750766,
+    "content": {
+      "text": "Keep checking in to places inside El Corte Inglés for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2ddccbf9c12b0008485176/11cb89b3babf8b38f7c9c2ef3d81e4c3",
+    "date": "2020-01-26T18:39:07.000Z",
+    "private": false,
+    "wm-id": 750767,
+    "content": {
+      "text": "Your first Coffee Shop!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

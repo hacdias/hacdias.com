@@ -1,0 +1,17 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2a3253d726910008d14025/59431d234cd87da24e041c1ff69c52b6",
+    "date": "2020-01-23T23:54:59.000Z",
+    "private": false,
+    "wm-id": 750778,
+    "content": {
+      "text": "There's a new Mayor in town!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/96fe3389ef056db8717e827a9d0d136c945ab4383641feb80e6596e9ce4a5ad2.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

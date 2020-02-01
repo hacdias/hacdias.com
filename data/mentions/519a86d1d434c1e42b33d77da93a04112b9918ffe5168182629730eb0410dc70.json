@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2df3c8332ff0000831da4c/7f2b79ed98daaebd100992d28f979d7c",
+    "date": "2020-01-26T20:17:12.000Z",
+    "private": false,
+    "wm-id": 750762,
+    "content": {
+      "text": "First check-in at Metro Baixa-Chiado [AZ,VD]."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2df3c8332ff0000831da4c/aa2bcfd8384de1ed1cc1dc3acc47bc70",
+    "date": "2020-01-26T20:17:12.000Z",
+    "private": false,
+    "wm-id": 750763,
+    "content": {
+      "text": "That's 4 straight weeks at Metro Stations. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

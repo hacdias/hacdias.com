@@ -1,0 +1,47 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2dcfd87dfc9d0008605e4e/a11e13f60c5c548a54b63e8100307741",
+    "date": "2020-01-26T17:43:52.000Z",
+    "private": false,
+    "wm-id": 750768,
+    "content": {
+      "text": "Your first check-in at Sete Rios Train Station!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2dcfd87dfc9d0008605e4e/cc8319289e122cdf5c0a68088291078b",
+    "date": "2020-01-26T17:43:52.000Z",
+    "private": false,
+    "wm-id": 750769,
+    "content": {
+      "text": "There's a lot going on inside Sete Rios Train Station! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2dcfd87dfc9d0008605e4e/a91c67dc9cf7b6f5e43666e66c2aaf37",
+    "date": "2020-01-26T17:43:52.000Z",
+    "private": false,
+    "wm-id": 750770,
+    "content": {
+      "text": "First check-in in São Domingos de Benfica."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2dcd246d4789000728f610/bad5592f790582829f8c1ce86877d57b",
+    "date": "2020-01-26T17:32:20.000Z",
+    "private": false,
+    "wm-id": 750771,
+    "content": {
+      "text": "First check-in at Estação Ferroviária do Pragal."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2dcd246d4789000728f610/7e2d7195e3da5327d16611187816e62c",
+    "date": "2020-01-26T17:32:20.000Z",
+    "private": false,
+    "wm-id": 750772,
+    "content": {
+      "text": "Happy Chinese New Year! 🧧We have a feeling this year is going to be RAT-ical, and in a good way."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/e7471bdbf5ea9819192d91d38853816b973ef363f9bc48a9838651a179458f61.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2dcd246d4789000728f610/7cd6384bc4a22910b9c720f8fee7ceb0",
+    "date": "2020-01-26T17:32:20.000Z",
+    "private": false,
+    "wm-id": 750773,
+    "content": {
+      "text": "First check-in in Setúbal."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e2dcd246d4789000728f610/ae36ffbabf08db4ba9dd8c1b83003cd6",
+    "date": "2020-01-26T17:32:20.000Z",
+    "private": false,
+    "wm-id": 750774,
+    "content": {
+      "text": "Wow! That's 10 check-ins at Train Stations!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/09a9b94d2eba2a4602113e36b90b7be11ef442d71ba9b115d8524561a88c6be2.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]
