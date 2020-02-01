@@ -14,7 +14,7 @@
     "text": "I upgraded the #IPLD explorer CLI tool to support all the exotic node types that IPLD can resolve! https://youtu.be/O0PbC2ElRPI https://www.npmjs.com/package/ipld-explorer-cli #IPFS #git",
     "html": "I upgraded the #IPLD explorer CLI tool to support all the exotic node types that IPLD can resolve! <a href=\"https://youtu.be/O0PbC2ElRPI\">https://youtu.be/O0PbC2ElRPI</a> <a href=\"https://www.npmjs.com/package/ipld-explorer-cli\">https://www.npmjs.com/package/ipld-explorer-cli</a> #IPFS #git"
   },
-  "published": "2018-08-27T12:31:34+00:00",
+  "published": "2018-08-27T12:31:34.000Z",
   "category": [
     "IPLD",
     "IPFS",

@@ -14,7 +14,7 @@
     "text": "I can see an #AppImage file along with #deb, #rpm, and #snap, YAY!\n\n#Flatpak is missing though! ;-)",
     "html": "I can see an #AppImage file along with #deb, #rpm, and #snap, YAY!<br>\n<br>\n#Flatpak is missing though! ;-)"
   },
-  "published": "2019-09-19T17:20:33+00:00",
+  "published": "2019-09-19T17:20:33.000Z",
   "category": [
     "AppImage",
     "deb",

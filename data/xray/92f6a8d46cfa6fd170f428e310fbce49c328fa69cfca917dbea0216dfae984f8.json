@@ -1,6 +1,6 @@
 {
   "type": "entry",
-  "published": "2019-09-08T12:25:50Z",
+  "published": "2019-09-08T12:25:50.000Z",
   "url": "https://hacdias.com/2019/09/08/07/",
   "syndication": [
     "https://twitter.com/hacdias/status/1170674605838802944"
@@ -9,14 +9,14 @@
     "https://hacdias.com/2019/09/08/08/"
   ],
   "content": {
-    "text": "2/ É preciso que haja condições para ser possível aumentar as vagas atuais: mais professores e melhores instalações. Uma universidade com mais de um século, com salas de aula centenárias (I'm looking at you, Pav. Central e Química!).",
-    "html": "<p>2/ É preciso que haja condições para ser possível aumentar as vagas atuais: mais professores e melhores instalações. Uma universidade com mais de um século, com salas de aula centenárias (I'm looking at you, Pav. Central e Química!).</p>"
+    "text": "2/ É preciso que haja condições para ser possível aumentar as vagas atuais: mais professores e melhores instalações. Uma universidade com mais de um século, com salas de aula centenárias (I’m looking at you, Pav. Central e Química!).",
+    "html": "<p>2/ É preciso que haja condições para ser possível aumentar as vagas atuais: mais professores e melhores instalações. Uma universidade com mais de um século, com salas de aula centenárias (I’m looking at you, Pav. Central e Química!).</p>"
   },
   "author": {
     "type": "card",
     "name": "Henrique Dias",
     "url": "https://hacdias.com/",
-    "photo": "https://hacdias.com/me.jpg"
+    "photo": "https://hacdias.com/me-256.jpg"
   },
   "post-type": "reply",
   "refs": {
@@ -30,7 +30,7 @@
         "type": "card",
         "name": "Henrique Dias",
         "url": "https://hacdias.com/",
-        "photo": "https://hacdias.com/me.jpg"
+        "photo": null
       },
       "post-type": "note"
     }

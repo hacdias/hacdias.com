@@ -1,14 +1,14 @@
 {
   "type": "entry",
-  "published": "2018-10-03T20:53:16Z",
+  "published": "2018-10-03T20:53:16.000Z",
   "url": "https://hacdias.com/2018/10/03/03/",
   "category": [
     "ipfs"
   ],
   "photo": [
-    "https://pbs.twimg.com/media/DonJhJxX4AAXID8.jpg",
-    "https://pbs.twimg.com/media/DonJoGaXUAA0A5Y.jpg",
-    "https://pbs.twimg.com/media/DonJoHXW0AEQmME.jpg"
+    "https://hacdias.com/2018/10/03/03/DonJhJxX4AAXID8.jpg",
+    "https://hacdias.com/2018/10/03/03/DonJoGaXUAA0A5Y.jpg",
+    "https://hacdias.com/2018/10/03/03/DonJoHXW0AEQmME.jpg"
   ],
   "syndication": [
     "https://twitter.com/hacdias/status/1047590428923584512"
@@ -21,7 +21,7 @@
     "type": "card",
     "name": "Henrique Dias",
     "url": "https://hacdias.com/",
-    "photo": "https://hacdias.com/me.jpg"
+    "photo": "https://hacdias.com/me-256.jpg"
   },
   "post-type": "photo",
   "rels": {

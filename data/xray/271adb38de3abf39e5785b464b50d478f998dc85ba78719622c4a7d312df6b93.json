@@ -13,7 +13,7 @@
   "content": {
     "text": "Ye. Json is enough    Or a rest api:   host:port/adduser?name=john&pass=xxx&path=dir"
   },
-  "published": "2017-07-31T16:55:08+00:00",
+  "published": "2017-07-31T16:55:08.000Z",
   "in-reply-to": [
     "https://twitter.com/hacdias/status/891570940877975552"
   ],

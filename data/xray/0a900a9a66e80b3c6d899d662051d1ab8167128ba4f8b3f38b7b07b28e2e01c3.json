@@ -14,7 +14,7 @@
     "text": "Nice job on the dark mode implementation! One more tip for the images: https://web.dev/prefers-color-scheme/#re-colorize-and-darken-photographic-images.\n\nAnother #a11y idea for the header font effect: I love it, but it can be distracting to some: https://developers.google.com/web/updates/2019/03/prefers-reduced-motion.",
     "html": "Nice job on the dark mode implementation! One more tip for the images: <a href=\"https://web.dev/prefers-color-scheme/#re-colorize-and-darken-photographic-images\">https://web.dev/prefers-color-scheme/#re-colorize-and-darken-photographic-images</a>.<br>\n<br>\nAnother #a11y idea for the header font effect: I love it, but it can be distracting to some: <a href=\"https://developers.google.com/web/updates/2019/03/prefers-reduced-motion\">https://developers.google.com/web/updates/2019/03/prefers-reduced-motion</a>."
   },
-  "published": "2019-08-07T20:42:17+00:00",
+  "published": "2019-08-07T20:42:17.000Z",
   "category": [
     "a11y"
   ],

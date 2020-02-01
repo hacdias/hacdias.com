@@ -14,7 +14,7 @@
     "text": ".@olizilla and I are building `chrome.protocol.registerStreamProtocol` in @brave and it actually now streams files **directly** from our #IPFS node via the #ipfsCompanion web extension. THIS IS A BIG EXCITEMENT FOR ME :D",
     "html": ".<a href=\"https://twitter.com/olizilla\">@olizilla</a> and I are building `chrome.protocol.registerStreamProtocol` in <a href=\"https://twitter.com/brave\">@brave</a> and it actually now streams files **directly** from our #IPFS node via the #ipfsCompanion web extension. THIS IS A BIG EXCITEMENT FOR ME :D"
   },
-  "published": "2018-03-01T16:51:44+00:00",
+  "published": "2018-03-01T16:51:44.000Z",
   "category": [
     "IPFS",
     "ipfsCompanion"

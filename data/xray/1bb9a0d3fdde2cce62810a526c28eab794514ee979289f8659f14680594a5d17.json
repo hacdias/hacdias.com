@@ -1,6 +1,6 @@
 {
   "type": "entry",
-  "published": "2019-09-19T16:13:24Z",
+  "published": "2019-09-19T16:13:24.000Z",
   "url": "https://hacdias.com/2019/09/19/23/",
   "syndication": [
     "https://twitter.com/hacdias/status/1174718142087667714"
@@ -16,7 +16,7 @@
     "type": "card",
     "name": "Henrique Dias",
     "url": "https://hacdias.com/",
-    "photo": "https://hacdias.com/me.jpg"
+    "photo": "https://hacdias.com/me-256.jpg"
   },
   "post-type": "reply",
   "refs": {
@@ -30,7 +30,7 @@
         "type": "card",
         "name": "Mat Kelly",
         "url": "https://twitter.com/machawk1",
-        "photo": "https://pbs.twimg.com/profile_images/1187461597377089539/8RtYQShf_normal.jpg"
+        "photo": null
       },
       "post-type": "note"
     }

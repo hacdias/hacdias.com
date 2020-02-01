@@ -14,7 +14,7 @@
     "text": "#libdweb enables experimental p2p APIs for web extensions in #Firefox.  This video demonstrates how #JS #IPFS can take advantage of them to  discover and talk to other IPFS nodes on the local network! https://youtu.be/LDHFqwC8Syg #MDNS #TCP",
     "html": "#libdweb enables experimental p2p APIs for web extensions in #Firefox.  This video demonstrates how #JS #IPFS can take advantage of them to  discover and talk to other IPFS nodes on the local network! <a href=\"https://youtu.be/LDHFqwC8Syg\">https://youtu.be/LDHFqwC8Syg</a> #MDNS #TCP"
   },
-  "published": "2018-08-16T11:50:23+00:00",
+  "published": "2018-08-16T11:50:23.000Z",
   "category": [
     "libdweb",
     "Firefox",

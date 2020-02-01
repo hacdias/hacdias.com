@@ -5,7 +5,7 @@
     "type": "card",
     "nickname": "arcalinea",
     "location": "",
-    "bio": "Building @happeningdotnet. Helped launch Zcash, worked on open internet campaigns.",
+    "bio": "Built @happeningdotnet. Helped launch Zcash, interested in p2p and privacy tech, social networks.",
     "name": "Jay Graber",
     "url": "https://twitter.com/arcalinea",
     "photo": "https://pbs.twimg.com/profile_images/1091241678034198528/GdWRrdGl_normal.jpg"
@@ -13,7 +13,7 @@
   "content": {
     "text": "Looks like a Tron dev just accidentally opened a PR on IPFS master that renames \"IPFS\" to \"BTFS\". Such contribution, much wow. Planning to market it as something BitTorrent acquisition related? 👀"
   },
-  "published": "2019-04-19T20:30:17+00:00",
+  "published": "2019-04-19T20:30:17.000Z",
   "photo": [
     "https://pbs.twimg.com/media/D4itvNbU4AAe2Hj.jpg"
   ],

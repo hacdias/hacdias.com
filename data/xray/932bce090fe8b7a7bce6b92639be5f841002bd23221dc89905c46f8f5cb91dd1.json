@@ -14,7 +14,7 @@
     "text": "Oneliner to generate a new age private key and show a QR code of the public key:\n\nage-keygen | tee key.txt | awk '/public key/{print $4}' | qrencode -t ansiutf8",
     "html": "Oneliner to generate a new age private key and show a QR code of the public key:<br>\n<br>\nage-keygen | tee key.txt | awk '/public key/{print $4}' | qrencode -t ansiutf8"
   },
-  "published": "2019-12-30T18:31:40+00:00",
+  "published": "2019-12-30T18:31:40.000Z",
   "in-reply-to": [
     "https://twitter.com/FiloSottile/status/1211450553026396162"
   ],

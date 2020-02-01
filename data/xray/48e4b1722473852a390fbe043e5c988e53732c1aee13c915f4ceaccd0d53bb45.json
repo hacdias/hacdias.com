@@ -6,8 +6,8 @@
     "https://hacdias.com/2020/01/22/1/"
   ],
   "content": {
-    "text": "I don't show webmention content at all. 😅 Instead I just show a link to the “interaction”. That removes a lot of complexity with parsing, storing etc. but probably isn't as intuitive: it requires opening the “interactions” section below the post and visiting the link.",
-    "html": "<p>I don't show webmention content at all. 😅 Instead I just show a link to the “interaction”. That removes a lot of complexity with parsing, storing etc. but probably isn't as intuitive: it requires opening the “interactions” section below the post and visiting the link.</p>"
+    "text": "I don’t show webmention content at all. 😅 Instead I just show a link to the “interaction”. That removes a lot of complexity with parsing, storing etc. but probably isn’t as intuitive: it requires opening the “interactions” section below the post and visiting the link.",
+    "html": "<p>I don’t show webmention content at all. 😅 Instead I just show a link to the “interaction”. That removes a lot of complexity with parsing, storing etc. but probably isn’t as intuitive: it requires opening the “interactions” section below the post and visiting the link.</p>"
   },
   "author": {
     "type": "card",

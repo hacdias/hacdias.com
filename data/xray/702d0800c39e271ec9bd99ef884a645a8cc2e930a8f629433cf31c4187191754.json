@@ -13,6 +13,6 @@
   "content": {
     "text": "Doing some yearly cleaning and running `find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +` (deleting all node_modules dirs recursively from current dir) freed up 62GB. Not sure how this is even possible..."
   },
-  "published": "2020-01-06T11:43:08+00:00",
+  "published": "2020-01-06T11:43:08.000Z",
   "post-type": "note"
 }

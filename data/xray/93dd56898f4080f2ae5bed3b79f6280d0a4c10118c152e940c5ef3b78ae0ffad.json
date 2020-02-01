@@ -1,6 +1,6 @@
 {
   "type": "entry",
-  "published": "2019-01-29T14:45:48Z",
+  "published": "2019-01-29T14:45:48.000Z",
   "url": "https://hacdias.com/2019/01/29/04/",
   "category": [
     "ipfs",
@@ -8,7 +8,7 @@
     "dweb"
   ],
   "video": [
-    "https://video.twimg.com/tweet_video/DyFhZf8UYAAlnCn.mp4"
+    "https://hacdias.com/2019/01/29/04/DyFhZf8UYAAlnCn.mp4"
   ],
   "syndication": [
     "https://twitter.com/hacdias/status/1090259721712427008"
@@ -21,7 +21,7 @@
     "type": "card",
     "name": "Henrique Dias",
     "url": "https://hacdias.com/",
-    "photo": "https://hacdias.com/me.jpg"
+    "photo": "https://hacdias.com/me-256.jpg"
   },
   "post-type": "video",
   "rels": {

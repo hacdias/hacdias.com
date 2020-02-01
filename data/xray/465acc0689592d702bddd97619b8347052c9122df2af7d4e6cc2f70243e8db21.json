@@ -14,7 +14,7 @@
     "text": "Saturday is treat day 🍭...but we couldn't wait that long to tell you that JS #IPFS v0.33 is shipping with a brand new Web UI 🕹. Install it now `npm i ipfs@0.33.0-rc.1` and tell us what you think! All the infos: https://github.com/ipfs/js-ipfs/issues/1635",
     "html": "Saturday is treat day 🍭...but we couldn't wait that long to tell you that JS #IPFS v0.33 is shipping with a brand new Web UI 🕹. Install it now `npm i ipfs@0.33.0-rc.1` and tell us what you think! All the infos: <a href=\"https://github.com/ipfs/js-ipfs/issues/1635\">https://github.com/ipfs/js-ipfs/issues/1635</a>"
   },
-  "published": "2018-10-19T20:30:24+00:00",
+  "published": "2018-10-19T20:30:24.000Z",
   "category": [
     "IPFS"
   ],

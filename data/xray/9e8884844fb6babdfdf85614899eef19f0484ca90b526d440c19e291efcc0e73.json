@@ -13,7 +13,7 @@
   "content": {
     "text": "I want to use webdav for a lot of users (>1000)  so i need a simple rest api"
   },
-  "published": "2017-07-29T22:25:17+00:00",
+  "published": "2017-07-29T22:25:17.000Z",
   "in-reply-to": [
     "https://twitter.com/hacdias/status/891286214892032000"
   ],

@@ -5,7 +5,7 @@
     "type": "card",
     "nickname": "dcacho23",
     "location": "Lisbon, Portugal",
-    "bio": "21 | IST - LEIC-A | UDW",
+    "bio": "",
     "name": "Cacho",
     "url": "https://twitter.com/dcacho23",
     "photo": "https://pbs.twimg.com/profile_images/1148508313874849793/AT23og22_normal.jpg"
@@ -13,6 +13,6 @@
   "content": {
     "text": "Some people are just meant to be alone"
   },
-  "published": "2018-03-22T03:28:45+00:00",
+  "published": "2018-03-22T03:28:45.000Z",
   "post-type": "note"
 }

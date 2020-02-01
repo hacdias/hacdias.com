@@ -14,6 +14,6 @@
     "text": "Just released a new version of go-ipfs, v0.4.17! It contains a few goodies in preparation for the Decentralized Web Summit next week! Check out the changelog here: https://github.com/ipfs/go-ipfs/blob/master/CHANGELOG.md#0417-2018-07-27",
     "html": "Just released a new version of go-ipfs, v0.4.17! It contains a few goodies in preparation for the Decentralized Web Summit next week! Check out the changelog here: <a href=\"https://github.com/ipfs/go-ipfs/blob/master/CHANGELOG.md#0417-2018-07-27\">https://github.com/ipfs/go-ipfs/blob/master/CHANGELOG.md#0417-2018-07-27</a>"
   },
-  "published": "2018-07-28T08:02:20+00:00",
+  "published": "2018-07-28T08:02:20.000Z",
   "post-type": "note"
 }

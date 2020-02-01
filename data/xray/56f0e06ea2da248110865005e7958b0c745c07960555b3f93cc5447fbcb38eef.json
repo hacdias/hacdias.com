@@ -14,7 +14,7 @@
     "text": "IPFS Desktop is looking fantastic! Thank you so much for all the care you, @hacdias, and  team have put into it, it such a joy to use it. I also love the \"easter egg\" of enabling npm-on-ipfs just with one checkbox ✅ 👌🏽",
     "html": "IPFS Desktop is looking fantastic! Thank you so much for all the care you, <a href=\"https://twitter.com/hacdias\">@hacdias</a>, and  team have put into it, it such a joy to use it. I also love the \"easter egg\" of enabling npm-on-ipfs just with one checkbox ✅ 👌🏽"
   },
-  "published": "2019-09-19T16:18:17+00:00",
+  "published": "2019-09-19T16:18:17.000Z",
   "quotation-of": "https://twitter.com/hacdias/status/1174710214077112325",
   "refs": {
     "https://twitter.com/hacdias/status/1174710214077112325": {
@@ -24,7 +24,7 @@
         "type": "card",
         "nickname": "hacdias",
         "location": "Portugal",
-        "bio": "Studying Computer Engineering at @istecnico. Digging into the decentralized web at @ProtocolLabs.",
+        "bio": "Studying Computer Engineering at @istecnico. Digging into the decentralized web at @ProtocolLabs. #opensource advocate.",
         "name": "Henrique Dias",
         "url": "https://twitter.com/hacdias",
         "photo": "https://pbs.twimg.com/profile_images/1133325379970711552/nA18D3Fg_normal.jpg"

@@ -14,7 +14,7 @@
     "text": "I've been working on the newest version of the IPFS Companion browser extension. IT IS SO ACE. Check it out if you're interested in #IPFS or the distributed web. Install #chrome: https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch or #firefox: https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/ release notes: https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.2.0",
     "html": "I've been working on the newest version of the IPFS Companion browser extension. IT IS SO ACE. Check it out if you're interested in #IPFS or the distributed web. Install #chrome: <a href=\"https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch\">https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch</a> or #firefox: <a href=\"https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/\">https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/</a> release notes: <a href=\"https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.2.0\">https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.2.0</a>"
   },
-  "published": "2018-04-10T09:30:22+00:00",
+  "published": "2018-04-10T09:30:22.000Z",
   "category": [
     "IPFS",
     "chrome",

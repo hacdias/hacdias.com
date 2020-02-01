@@ -1,6 +1,6 @@
 {
   "type": "entry",
-  "published": "2018-08-09T17:58:49Z",
+  "published": "2018-08-09T17:58:49.000Z",
   "url": "https://hacdias.com/2018/08/09/07/",
   "syndication": [
     "https://twitter.com/hacdias/status/1027615196112740354"
@@ -13,7 +13,7 @@
     "type": "card",
     "name": "Henrique Dias",
     "url": "https://hacdias.com/",
-    "photo": "https://hacdias.com/me.jpg"
+    "photo": "https://hacdias.com/me-256.jpg"
   },
   "post-type": "note",
   "rels": {

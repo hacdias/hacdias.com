@@ -1,6 +1,6 @@
 {
   "type": "entry",
-  "published": "2019-09-02T17:51:51Z",
+  "published": "2019-09-02T17:51:51.000Z",
   "url": "https://hacdias.com/2019/09/02/08/",
   "syndication": [
     "https://twitter.com/hacdias/status/1168582321102086144"
@@ -16,7 +16,7 @@
     "type": "card",
     "name": "Henrique Dias",
     "url": "https://hacdias.com/",
-    "photo": "https://hacdias.com/me.jpg"
+    "photo": "https://hacdias.com/me-256.jpg"
   },
   "post-type": "reply",
   "refs": {
@@ -30,7 +30,7 @@
         "type": "card",
         "name": "Henrique Dias",
         "url": "https://hacdias.com/",
-        "photo": "https://hacdias.com/me.jpg"
+        "photo": null
       },
       "post-type": "note"
     }

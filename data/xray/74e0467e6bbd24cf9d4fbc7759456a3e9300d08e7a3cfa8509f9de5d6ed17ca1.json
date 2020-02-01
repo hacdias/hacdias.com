@@ -14,7 +14,7 @@
     "text": "I get a lot of questions of how the IPFS is capable to provide a content addressing. Fun fact is that IPFS core is small, most of the heavy lifting happens on its networking stack, @libp2p. Today, I want to share an overview with y’all on why it exists and why it is so important.",
     "html": "I get a lot of questions of how the IPFS is capable to provide a content addressing. Fun fact is that IPFS core is small, most of the heavy lifting happens on its networking stack, <a href=\"https://twitter.com/libp2p\">@libp2p</a>. Today, I want to share an overview with y’all on why it exists and why it is so important."
   },
-  "published": "2018-04-26T08:58:34+00:00",
+  "published": "2018-04-26T08:58:34.000Z",
   "photo": [
     "https://pbs.twimg.com/media/Dbskkj9W0AAKrUz.jpg"
   ],

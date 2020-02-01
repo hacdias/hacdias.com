@@ -1,6 +1,6 @@
 {
   "type": "entry",
-  "published": "2018-01-10T10:25:40Z",
+  "published": "2018-01-10T10:25:40.000Z",
   "url": "https://hacdias.com/2018/01/10/10/",
   "syndication": [
     "https://twitter.com/hacdias/status/951037316939776001"
@@ -9,14 +9,14 @@
     "https://twitter.com/VictorBjelkholm/status/951035327560474625"
   ],
   "content": {
-    "text": "That would be a nice bet, if .as wasn't a ccTLD. And they have a really ugly website (https://www.nic.as) 😆",
-    "html": "<p>That would be a nice bet, if .as wasn't a ccTLD. And they have a really ugly website (<a href=\"https://www.nic.as\">https://www.nic.as</a>) 😆</p>"
+    "text": "That would be a nice bet, if .as wasn’t a ccTLD. And they have a really ugly website (https://www.nic.as) 😆",
+    "html": "<p>That would be a nice bet, if .as wasn’t a ccTLD. And they have a really ugly website (<a href=\"https://www.nic.as\">https://www.nic.as</a>) 😆</p>"
   },
   "author": {
     "type": "card",
     "name": "Henrique Dias",
     "url": "https://hacdias.com/",
-    "photo": "https://hacdias.com/me.jpg"
+    "photo": "https://hacdias.com/me-256.jpg"
   },
   "post-type": "reply",
   "refs": {
@@ -30,7 +30,7 @@
         "type": "card",
         "name": "ᴠɪᴄᴛᴏʀ ʙ‏ᴊᴇʟᴋʜᴏʟᴍ",
         "url": "https://twitter.com/VictorBjelkholm",
-        "photo": "https://pbs.twimg.com/profile_images/822084603796213761/GplJ5WWH_normal.jpg"
+        "photo": null
       },
       "post-type": "note"
     }

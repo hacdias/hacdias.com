@@ -14,7 +14,7 @@
     "text": "Well, I am slightly impressed. I've been able to migrate my whole nginx configuration (80 lines) to just 20 lines of Caddy2 configuration.  Thanks a lot @caddyserver",
     "html": "Well, I am slightly impressed. I've been able to migrate my whole nginx configuration (80 lines) to just 20 lines of Caddy2 configuration.  Thanks a lot <a href=\"https://twitter.com/caddyserver\">@caddyserver</a>"
   },
-  "published": "2020-01-05T18:51:20+00:00",
+  "published": "2020-01-05T18:51:20.000Z",
   "photo": [
     "https://pbs.twimg.com/media/ENifxWZW4AAPIy0.png"
   ],
