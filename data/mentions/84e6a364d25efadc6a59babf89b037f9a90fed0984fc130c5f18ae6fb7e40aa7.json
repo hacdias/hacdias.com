@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e18972649b28900077d4e96/7e941cd0df2f38c0ef351d01a5ab2acc",
+    "date": "2020-01-10T15:24:22.000Z",
+    "private": false,
+    "wm-id": 750813,
+    "content": {
+      "text": "25 check-ins! You sure get out a lot!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/09a9b94d2eba2a4602113e36b90b7be11ef442d71ba9b115d8524561a88c6be2.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e18972649b28900077d4e96/dcc25d956a8070c9d56a3f695484e57a",
+    "date": "2020-01-10T15:24:22.000Z",
+    "private": false,
+    "wm-id": 750814,
+    "content": {
+      "text": "There's a lot going on inside Entrecampos Train Station! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

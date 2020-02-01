@@ -1,0 +1,47 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e14c285a7af2a0008fa7e9d/c86e5b4cdd4598797c6b48aa6e4eca71",
+    "date": "2020-01-07T17:40:21.000Z",
+    "private": false,
+    "wm-id": 750832,
+    "content": {
+      "text": "Your first Fountain!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e14c285a7af2a0008fa7e9d/d36bc366b26cde91aae011459e017c1a",
+    "date": "2020-01-07T17:40:21.000Z",
+    "private": false,
+    "wm-id": 750833,
+    "content": {
+      "text": "Your first check-in at Fonte Luminosa!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e14c285a7af2a0008fa7e9d/718580582de2b1de697c628753d42eb8",
+    "date": "2020-01-07T17:40:21.000Z",
+    "private": false,
+    "wm-id": 750834,
+    "content": {
+      "text": "Keep checking in to places inside Parque da Fonte Luminosa for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

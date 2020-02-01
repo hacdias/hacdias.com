@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0e30cc2c5eeb0007da88e4/b294c5cc29e03bb95da1dcd31bb434ff",
+    "date": "2020-01-02T18:05:00.000Z",
+    "private": false,
+    "wm-id": 750849,
+    "content": {
+      "text": "Your first check-in at Metro Saldanha [AM,VM]!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0e30cc2c5eeb0007da88e4/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-01-02T18:05:00.000Z",
+    "private": false,
+    "wm-id": 750850,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

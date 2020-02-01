@@ -1,0 +1,47 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e14dd34796283000816eb34/49b70014d78b8e57667242e8916eff74",
+    "date": "2020-01-07T19:34:12.000Z",
+    "private": false,
+    "wm-id": 750826,
+    "content": {
+      "text": "Your first check-in at Campo Pequeno!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e14dd34796283000816eb34/f5109d0dc7429a497f012b2b6723b1fc",
+    "date": "2020-01-07T19:34:12.000Z",
+    "private": false,
+    "wm-id": 750827,
+    "content": {
+      "text": "Your first Plaza!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e14dd34796283000816eb34/444414972eaf3772c9f569e9740dd714",
+    "date": "2020-01-07T19:34:12.000Z",
+    "private": false,
+    "wm-id": 750828,
+    "content": {
+      "text": "There's a lot going on inside Campo Pequeno! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

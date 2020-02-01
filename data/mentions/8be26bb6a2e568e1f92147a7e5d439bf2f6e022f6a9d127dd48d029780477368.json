@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0f2377d320dc0008c45db9/08b12a0b7b5de7d4904e29983fdc614d",
+    "date": "2020-01-03T11:20:23.000Z",
+    "private": false,
+    "wm-id": 750847,
+    "content": {
+      "text": "Keep checking in to places inside IST - Instituto Superior Técnico for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0f2377d320dc0008c45db9/f80cbdcf410729497d6efb9d3a13b467",
+    "date": "2020-01-03T11:20:23.000Z",
+    "private": false,
+    "wm-id": 750848,
+    "content": {
+      "text": "Your first check-in at Pavilhão de Informática I!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

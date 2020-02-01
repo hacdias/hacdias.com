@@ -1,0 +1,47 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1476ae74b7330009d16def/0018133198a00dc715639d46ce733171",
+    "date": "2020-01-07T12:16:46.000Z",
+    "private": false,
+    "wm-id": 750836,
+    "content": {
+      "text": "Your first check-in at Cantina do Social!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1476ae74b7330009d16def/2b100ec02d0f3e33784777a3ca2a6682",
+    "date": "2020-01-07T12:16:46.000Z",
+    "private": false,
+    "wm-id": 750837,
+    "content": {
+      "text": "Your first College Cafeteria!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1476ae74b7330009d16def/1c316d13954d621c7f56c1ad9357aae0",
+    "date": "2020-01-07T12:16:46.000Z",
+    "private": false,
+    "wm-id": 750838,
+    "content": {
+      "text": "That's 2 check-ins inside IST - Instituto Superior Técnico today! Keep going for more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

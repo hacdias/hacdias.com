@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0dc9e0761c680008d412e4/1e249b8633f6e5fe641dc1da9b4305ef",
+    "date": "2020-01-02T10:45:52.000Z",
+    "private": false,
+    "wm-id": 750860,
+    "content": {
+      "text": "Your first check-in at Caixa Geral de Depósitos - Ourique!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0dc9e0761c680008d412e4/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-01-02T10:45:52.000Z",
+    "private": false,
+    "wm-id": 750861,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

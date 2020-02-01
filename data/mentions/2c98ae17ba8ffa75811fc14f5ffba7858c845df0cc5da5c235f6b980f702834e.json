@@ -1,0 +1,62 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0dca5435373b0008ee5a63/fa582cfbf0c36049471d2f18b1f7303c",
+    "date": "2020-01-02T10:47:48.000Z",
+    "private": false,
+    "wm-id": 750856,
+    "content": {
+      "text": "Your first check-in at Barbeiro Ricardo!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0dca5435373b0008ee5a63/782da319ed2cdcf3ef1db7fe09982825",
+    "date": "2020-01-02T10:47:48.000Z",
+    "private": false,
+    "wm-id": 750857,
+    "content": {
+      "text": "Your first Salon / Barbershop!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0dca5435373b0008ee5a63/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-01-02T10:47:48.000Z",
+    "private": false,
+    "wm-id": 750858,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0dca5435373b0008ee5a63/74b8e5488d60cc974c8b990c414911f3",
+    "date": "2020-01-02T10:47:48.000Z",
+    "private": false,
+    "wm-id": 750859,
+    "content": {
+      "text": "Clippy sticker bonus!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/fastly.4sqi.net/e690be03c7866ebf45c5e7cb72adc525faf68489a6b978debee650ddead202a4.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0e0ea94a7a6c000861beaf/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-01-02T15:39:21.000Z",
+    "private": false,
+    "wm-id": 750853,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0e0ea94a7a6c000861beaf/48a815c6f048408f3422086ea169ae93",
+    "date": "2020-01-02T15:39:21.000Z",
+    "private": false,
+    "wm-id": 750854,
+    "content": {
+      "text": "There's a lot going on inside Estação Ferroviária da Funcheira! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e0e0ea94a7a6c000861beaf/a610da7bc49ee7000157587c5a303c6c",
+    "date": "2020-01-02T15:39:21.000Z",
+    "private": false,
+    "wm-id": 750855,
+    "content": {
+      "text": "Your first check-in at Estação Ferroviária da Funcheira!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

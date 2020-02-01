@@ -1,0 +1,47 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e151928685e120008c2b329/9c6779980022ad1c46ac08694cc46f67",
+    "date": "2020-01-07T23:50:00.000Z",
+    "private": false,
+    "wm-id": 750821,
+    "content": {
+      "text": "Your first Movie Theater!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e151928685e120008c2b329/f641ea952b1e0f07b7e1f19092823a46",
+    "date": "2020-01-07T23:50:00.000Z",
+    "private": false,
+    "wm-id": 750822,
+    "content": {
+      "text": "Your first check-in at Cinema City Campo Pequeno!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e151928685e120008c2b329/35d40796fcd15265dad4a8fe11199bb8",
+    "date": "2020-01-07T23:50:00.000Z",
+    "private": false,
+    "wm-id": 750823,
+    "content": {
+      "text": "Keep checking in to places inside Praça de Touros do Campo Pequeno for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

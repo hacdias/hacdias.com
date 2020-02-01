@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e15c94401ea65000846cd16/0994b1dc38abe47dcf4fa0f3b59884a5",
+    "date": "2020-01-08T12:21:24.000Z",
+    "private": false,
+    "wm-id": 750818,
+    "content": {
+      "text": "Your first Tapas Restaurant!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e15c94401ea65000846cd16/10e582d2657c74d1cc16c8abf73522cc",
+    "date": "2020-01-08T12:21:24.000Z",
+    "private": false,
+    "wm-id": 750819,
+    "content": {
+      "text": "Your first check-in at 100 Montaditos!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1892f07036e40007a10594/42207a8cf412f8a127ede045a7e0c234",
+    "date": "2020-01-10T15:06:24.000Z",
+    "private": false,
+    "wm-id": 750811,
+    "content": {
+      "text": "There's a lot going on inside Atrium Saldanha! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "url": "https://swarmapp.com/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e1892f07036e40007a10594/74328a223be4ee02d48715d307207248",
+    "date": "2020-01-10T15:06:24.000Z",
+    "private": false,
+    "wm-id": 750810,
+    "content": {
+      "text": "Your first check-in at Atrium Saldanha!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    }
+  }
+]
