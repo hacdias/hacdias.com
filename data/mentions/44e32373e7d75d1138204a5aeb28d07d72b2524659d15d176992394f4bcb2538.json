@@ -10,9 +10,10 @@
     },
     "author": {
       "name": "Swarm",
-      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
       "url": "https://swarmapp.com/"
-    }
+    },
+    "swarm-coins": 2
   },
   {
     "type": "reply",
@@ -25,8 +26,9 @@
     },
     "author": {
       "name": "Swarm",
-      "photo": "https://webmention.io/avatar/ss1.4sqi.net/96fe3389ef056db8717e827a9d0d136c945ab4383641feb80e6596e9ce4a5ad2.png",
+      "photo": "https://cdn.hacdias.com/webmentions/ddd5b39dddcd436bc9cdad25993b924be5ddd3adedb1975bac0cbe53931daa3e.png",
       "url": "https://swarmapp.com/"
-    }
+    },
+    "swarm-coins": 10
   }
 ]

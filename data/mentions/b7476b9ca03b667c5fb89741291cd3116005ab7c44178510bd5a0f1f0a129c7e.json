@@ -10,9 +10,10 @@
     },
     "author": {
       "name": "Swarm",
-      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
       "url": "https://swarmapp.com/"
-    }
+    },
+    "swarm-coins": 3
   },
   {
     "type": "reply",
@@ -25,9 +26,10 @@
     },
     "author": {
       "name": "Swarm",
-      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
       "url": "https://swarmapp.com/"
-    }
+    },
+    "swarm-coins": 1
   },
   {
     "type": "reply",
@@ -40,9 +42,10 @@
     },
     "author": {
       "name": "Swarm",
-      "photo": "https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
       "url": "https://swarmapp.com/"
-    }
+    },
+    "swarm-coins": 10
   },
   {
     "type": "reply",
@@ -55,8 +58,9 @@
     },
     "author": {
       "name": "Swarm",
-      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
       "url": "https://swarmapp.com/"
-    }
+    },
+    "swarm-coins": 5
   }
 ]

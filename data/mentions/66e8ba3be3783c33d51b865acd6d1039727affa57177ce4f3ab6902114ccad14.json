@@ -10,8 +10,9 @@
     },
     "author": {
       "name": "Swarm",
-      "photo": "https://webmention.io/avatar/ss1.4sqi.net/96fe3389ef056db8717e827a9d0d136c945ab4383641feb80e6596e9ce4a5ad2.png",
+      "photo": "https://cdn.hacdias.com/webmentions/ddd5b39dddcd436bc9cdad25993b924be5ddd3adedb1975bac0cbe53931daa3e.png",
       "url": "https://swarmapp.com/"
-    }
+    },
+    "swarm-coins": 3
   }
 ]
