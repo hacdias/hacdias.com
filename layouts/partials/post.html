@@ -35,6 +35,8 @@
 
   {{ if eq .Type "reads" }}
     {{ partial "book-status" . }}
+  {{ else if eq .Type "checkins" }}
+    {{ partial "checkin" . }}
   {{ end }}
 
   {{ if .Glob.Params.descAsSummary }}
