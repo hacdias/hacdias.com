@@ -1,0 +1,15 @@
+{{ $watch := (index .Glob.Params.properties "watch-of").properties }}
+{{ $type := $watch.type }}
+
+
+<p class='copy content e-content e-entry'>
+  {{- if eq $type "movie" -}}🎬{{ else if eq $type "episode" -}}📺{{- end -}}
+  Watched
+  {{ with $watch.url }}<a target="_blank" rel="noopener noreferrer" href="{{ . }}">{{ end -}}
+  {{ $watch.title  }}
+  {{ with $watch.url }}</a>{{ end }}
+  {{ if eq $type "episode" -}}
+  (S{{ $watch.season }}E{{ $watch.episode }} of <a target="_blank" rel="noopener noreferrer" href="{{ $watch.show.properties.url }}">{{ $watch.show.properties.title }}</a>)
+  {{- end -}}
+</p>
+

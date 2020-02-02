@@ -35,6 +35,8 @@
     {{ partial "book-status" . }}
   {{ else if eq .Type "checkins" }}
     {{ partial "checkin" . }}
+  {{ else if eq .Type "watches" }}
+    {{ partial "watch" . }}
   {{ end }}
 
   {{ if .Glob.Params.descAsSummary }}
