@@ -1,14 +1,10 @@
-{{- $checkin := (index (index .Glob.Params.properties "checkin") 0).properties -}}
-{{- $name := (index ($checkin.name) 0) -}}
-{{- $url := (index ($checkin.url) 0) -}}
-{{- $lat := (index ($checkin.latitude) 0) -}}
-{{- $long := (index ($checkin.longitude) 0) -}}
+{{- $checkin := .Glob.Params.properties.checkin.properties -}}
 <p class='copy content p-summary e-entry'>
   <span class="p-name">At
     <span class="u-checkin h-card">
-      <a target="_blank" rel="noopener noreferrer" href="{{ $url }}" class="p-name">{{ $name }}</a>
-      <data class="p-latitude" value="{{ $lat }}"></data>
-      <data class="p-longitude" value="{{ $long }}"></data>
+      <a target="_blank" rel="noopener noreferrer" href="{{ $checkin.url }}" class="p-name">{{ $checkin.name }}</a>
+      <data class="p-latitude" value="{{ $checkin.latitude }}"></data>
+      <data class="p-longitude" value="{{ $checkin.longitude }}"></data>
     </span>
   </span>
 </p>

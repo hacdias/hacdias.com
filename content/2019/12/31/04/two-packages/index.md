@@ -5,16 +5,7 @@ categories:
   - notes
 date: 2019-12-31T13:01:18.887Z
 properties:
-  location:
-    - properties:
-        country: PRT
-        latitude: 37.50625
-        locality: Ourique
-        longitude: -8.29768
-        region: Beja
-      type: h-adr
-  syndication:
-    - 'https://twitter.com/hacdias/status/1211996203514290176'
+  syndication: 'https://twitter.com/hacdias/status/1211996203514290176'
 tags:
   - packages
   - indieauth

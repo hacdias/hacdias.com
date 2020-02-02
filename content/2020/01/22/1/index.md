@@ -3,8 +3,7 @@ categories:
   - replies
 date: 2020-01-22T09:20:22.592Z
 properties:
-  in-reply-to:
-    - 'https://jlelse.blog/thoughts/2020/01/security-risk-embedding/'
+  in-reply-to: 'https://jlelse.blog/thoughts/2020/01/security-risk-embedding/'
 tags:
   - security
   - webmention

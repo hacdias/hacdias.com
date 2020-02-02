@@ -3,8 +3,7 @@ categories:
   - notes
 date: 2020-01-30T23:16:46.642Z
 properties:
-  syndication:
-    - 'https://twitter.com/hacdias/status/1223022519936016385'
+  syndication: 'https://twitter.com/hacdias/status/1223022519936016385'
 tags:
   - posse
   - twitter

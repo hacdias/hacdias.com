@@ -5,8 +5,7 @@ categories:
   - blog
 date: 2020-01-01T23:30:00.000Z
 properties:
-  syndication:
-    - 'https://twitter.com/hacdias/status/1212517049035038720'
+  syndication: 'https://twitter.com/hacdias/status/1212517049035038720'
 tags:
   - indiweb
   - micropub

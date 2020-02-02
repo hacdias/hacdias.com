@@ -5,8 +5,7 @@ categories:
   - notes
 date: 2020-01-26T10:38:10.206Z
 properties:
-  location:
-    - 'geo:37.50625,-8.29768;u=7507'
+  location: 'geo:37.50625,-8.29768;u=7507'
 tags:
   - design
   - javascript

@@ -3,8 +3,7 @@ categories:
   - notes
 date: 2020-01-19T19:28:27.380Z
 properties:
-  location:
-    - 'geo:38.74488,-9.13456;u=5088'
+  location: 'geo:38.74488,-9.13456;u=5088'
 tags:
   - webmentions
   - meta

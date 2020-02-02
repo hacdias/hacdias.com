@@ -3,8 +3,7 @@ categories:
   - replies
 date: 2020-01-19T19:36:11.549Z
 properties:
-  in-reply-to:
-    - 'https://jlelse.blog/thoughts/2020/01/optimizing-software/'
+  in-reply-to: 'https://jlelse.blog/thoughts/2020/01/optimizing-software/'
 tags:
   - software
   - micropub

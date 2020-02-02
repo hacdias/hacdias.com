@@ -5,10 +5,8 @@ categories:
   - notes
 date: 2020-01-06T23:07:54.430Z
 properties:
-  location:
-    - 'geo:38.7353,-9.13946;u=65'
-  syndication:
-    - 'https://twitter.com/hacdias/status/1214322750963290112'
+  location: 'geo:38.7353,-9.13946;u=65'
+  syndication: 'https://twitter.com/hacdias/status/1214322750963290112'
 tags:
   - '2020'
 ---

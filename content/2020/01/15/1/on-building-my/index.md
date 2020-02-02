@@ -5,8 +5,7 @@ categories:
   - notes
 date: 2020-01-15T09:16:15.422Z
 properties:
-  location:
-    - 'geo:38.74488,-9.13456;u=5088'
+  location: 'geo:38.74488,-9.13456;u=5088'
 tags:
   - meta
   - indieweb

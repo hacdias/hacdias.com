@@ -4,15 +4,6 @@ aliases:
 categories:
   - notes
 date: 2019-12-29T13:24:08.885Z
-properties:
-  location:
-    - properties:
-        country: PRT
-        latitude: 37.50651
-        locality: Ourique
-        longitude: -8.29791
-        region: Beja
-      type: h-adr
 tags:
   - meta
 ---

@@ -16,10 +16,8 @@
   {{ end }}
 
   {{ if .Glob.Params.properties }}
-    {{ $arr := index .Glob.Params.properties $layout.property }}
-    {{ if $arr }}
-      {{ $url := index $arr 0 }}
-
+    {{ $url := index .Glob.Params.properties $layout.property }}
+    {{ if $url }}
       {{ $dataToShow := index .Glob.Site.Data.xray (sha256 $url) }}
       {{ if eq $dataToShow.type "entry" }}
         {{ partial "embedded-entry"  (dict "Wm" $dataToShow "Class" $layout.class) }}
@@ -50,14 +48,16 @@
   {{ end }}
 
   {{ with .Glob.Params.properties.photo }}
-    {{ range .}}
+    {{ $arr := partial "must-slice" . }}
+    {{ range $arr }}
       {{ $img := $.Glob.Page.Resources.GetMatch . -}}
       <img style="margin: 1rem auto; display: block;" class="u-photo" src="{{ $img.RelPermalink }}">
     {{ end }}
   {{ end }}
 
   {{ with .Glob.Params.properties.video }}
-    {{ range .}}
+    {{ $arr := partial "must-slice" . }}
+    {{ range $arr }}
       {{ $video := $.Glob.Page.Resources.GetMatch . -}}
       <video style="margin: 1rem auto; display: block;" class="u-video" src="{{ $video.RelPermalink }}" autoplay loop></video>
     {{ end }}
@@ -88,9 +88,10 @@
     {{ end }}
 
     {{ with .Glob.Params.properties.syndication -}}
-    {{ range . -}}
-      <a style='display: none;' class='u-syndication' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
-    {{ end -}}
+      {{ $arr := partial "must-slice" . }}
+      {{ range $arr -}}
+        <a style='display: none;' class='u-syndication' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
+      {{ end -}}
     {{ end -}}
 
     <!-- Author metadata -->

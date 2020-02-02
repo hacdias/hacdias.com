@@ -3,8 +3,7 @@ categories:
   - replies
 date: 2020-01-22T11:35:36.168Z
 properties:
-  in-reply-to:
-    - 'https://aaronparecki.com/gps/'
+  in-reply-to: 'https://aaronparecki.com/gps/'
 tags:
   - gps
   - data

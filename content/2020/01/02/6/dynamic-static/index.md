@@ -5,8 +5,7 @@ categories:
   - blog
 date: 2020-01-02T23:40:00.000Z
 properties:
-  syndication:
-    - 'https://twitter.com/hacdias/status/1212881805096996864'
+  syndication: 'https://twitter.com/hacdias/status/1212881805096996864'
 tags:
   - meta
   - indieweb

@@ -32,7 +32,7 @@
 {{- $scratchBook := newScratch -}}
 {{- $scratchBook.Add "books" slice -}}
 {{- range $i, $book := $books -}}
-  {{- $readStatus := index (index $book.Params.properties "read-status") 0 -}}
+  {{- $readStatus := index $book.Params.properties "read-status" -}}
   {{- if and (eq $readStatus $type) (not (in .Params.tags "noshelf")) -}}
     {{- $scratchBook.Add "books" (slice $book) -}}
   {{- end -}}
@@ -43,11 +43,11 @@
 {{- if gt (len $books) 0 -}}
   <div class="bookshelf">
     {{- range $i, $book := $books -}}
-      {{- $read := (index (index $book.Params.properties "read-of") 0).properties -}}
-      {{- $isbn := strings.TrimPrefix "isbn:" (index $read.uid 0) -}}
+      {{- $read := (index $book.Params.properties "read-of").properties -}}
+      {{- $isbn := strings.TrimPrefix "isbn:" $read.uid -}}
       {{- $cover := resources.Get (printf "images/books/%s.jpg" $isbn) -}}
-      {{- $readStatus := index (index $book.Params.properties "read-status") 0 -}}
-      {{- $title := printf "%s by %s" (index $read.name 0) (index $read.author 0) -}}
+      {{- $readStatus := index $book.Params.properties "read-status" -}}
+      {{- $title := printf "%s by %s" $read.name $read.author -}}
       <a href="{{ $book.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}">
         {{- with $cover }}
           {{- $100 := $cover.Fill "100x150 Center q50" -}}

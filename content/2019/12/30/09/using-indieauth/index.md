@@ -8,8 +8,7 @@ description: >
   After updating the structure of my URLs, I now needed to start enabling some
   IndieWeb features... here's how to enable IndieAuth!
 properties:
-  syndication:
-    - 'https://twitter.com/hacdias/status/1211797283525812224'
+  syndication: 'https://twitter.com/hacdias/status/1211797283525812224'
 tags:
   - indieweb
   - indieauth

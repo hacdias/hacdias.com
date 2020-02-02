@@ -5,10 +5,8 @@ categories:
   - notes
 date: 2020-01-09T15:29:15.575Z
 properties:
-  location:
-    - 'geo:38.73531,-9.13972;u=65'
-  syndication:
-    - 'https://twitter.com/hacdias/status/1215294494511452169'
+  location: 'geo:38.73531,-9.13972;u=65'
+  syndication: 'https://twitter.com/hacdias/status/1215294494511452169'
 tags:
   - dweb
   - ssb

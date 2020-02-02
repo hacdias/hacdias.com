@@ -1,5 +1,5 @@
-{{ $read := (index (index .Glob.Params.properties "read-of") 0).properties }}
-{{ $readStatus := index (index .Glob.Params.properties "read-status") 0 }}
+{{ $read := (index .Glob.Params.properties "read-of").properties }}
+{{ $readStatus := index .Glob.Params.properties "read-status" }}
 {{ with $read }}
 <p class='copy content p-summary e-entry'>
   <data class="p-read-status" value="{{ $readStatus }}">
@@ -12,9 +12,9 @@
     {{- end -}}
   </data>
   <span class="p-read-of h-cite">
-    <cite class="p-name">{{ index .name 0 }}</cite> by
-    <span class="p-author">{{ index .author 0 }}</span>,
-    ISBN: <span class="p-uid">{{ strings.TrimPrefix "isbn:" (index .uid 0) }}</span>
+    <cite class="p-name">{{ .name }}</cite> by
+    <span class="p-author">{{ .author }}</span>,
+    ISBN: <span class="p-uid">{{ strings.TrimPrefix "isbn:" .uid }}</span>
   </span>
 </p>
 {{ end }}

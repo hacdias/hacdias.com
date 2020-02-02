@@ -3,8 +3,7 @@ categories:
   - replies
 date: 2020-01-22T14:16:31.926Z
 properties:
-  in-reply-to:
-    - 'https://aaronparecki.com/2020/01/22/1/'
+  in-reply-to: 'https://aaronparecki.com/2020/01/22/1/'
 tags:
   - maps
   - software

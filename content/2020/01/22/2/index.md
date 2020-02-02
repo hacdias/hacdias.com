@@ -3,10 +3,8 @@ categories:
   - replies
 date: 2020-01-22T09:33:03.207Z
 properties:
-  in-reply-to:
-    - 'https://jlelse.blog/micro/2020/01/2020-01-22-fryan/'
-  location:
-    - 'geo:38.74488,-9.13456;u=5088'
+  in-reply-to: 'https://jlelse.blog/micro/2020/01/2020-01-22-fryan/'
+  location: 'geo:38.74488,-9.13456;u=5088'
 tags:
   - meta
   - optimization

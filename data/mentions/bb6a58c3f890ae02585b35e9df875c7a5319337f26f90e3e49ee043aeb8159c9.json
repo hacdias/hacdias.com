@@ -14,5 +14,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3708f089d9220008a85849/26f56d5e9113a8875c17f4fde522fab6",
+    "date": "2020-02-02T17:37:52.000Z",
+    "private": false,
+    "wm-id": 751269,
+    "content": {
+      "text": "Your first check-in at Ponte 25 de Abril!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]
