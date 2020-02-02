@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3706ab1224e90007f55db7/94eded37caa558063b9bae8432349b05",
+    "date": "2020-02-02T17:28:11.000Z",
+    "private": false,
+    "wm-id": 751262,
+    "content": {
+      "text": "You just became Mayor!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/ddd5b39dddcd436bc9cdad25993b924be5ddd3adedb1975bac0cbe53931daa3e.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 10
+  }
+]

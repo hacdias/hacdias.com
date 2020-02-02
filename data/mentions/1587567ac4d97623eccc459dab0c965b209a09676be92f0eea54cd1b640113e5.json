@@ -1,0 +1,66 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e370c630accad00088bc3de/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-02T17:52:35.000Z",
+    "private": false,
+    "wm-id": 751276,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e370c630accad00088bc3de/ca2adafa70a1ec5f5ebdddf0375df5ec",
+    "date": "2020-02-02T17:52:35.000Z",
+    "private": false,
+    "wm-id": 751275,
+    "content": {
+      "text": "That's 5 straight weeks at Metro Stations. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 15
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e370c630accad00088bc3de/3ce3e3e59ac214af0b4caa8a44d0f247",
+    "date": "2020-02-02T17:52:35.000Z",
+    "private": false,
+    "wm-id": 751277,
+    "content": {
+      "text": "First check-in at Metro Entrecampos [AM]."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e370c630accad00088bc3de/dff22adc161060f77ac9ca671f599771",
+    "date": "2020-02-02T17:52:35.000Z",
+    "private": false,
+    "wm-id": 751278,
+    "content": {
+      "text": "Wow! That's 5 check-ins at Metro Stations!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/f555f9cac763a5b3acccc2eff7dfc35a05e37a4bc25a3f10e77e0e41797b946a.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

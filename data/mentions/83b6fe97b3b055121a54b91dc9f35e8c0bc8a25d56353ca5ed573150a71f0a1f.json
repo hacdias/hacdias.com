@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e370b742d2c2a0008dd25b5/dcc25d956a8070c9d56a3f695484e57a",
+    "date": "2020-02-02T17:48:36.000Z",
+    "private": false,
+    "wm-id": 751273,
+    "content": {
+      "text": "There's a lot going on inside Entrecampos Train Station! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 1
+  }
+]
