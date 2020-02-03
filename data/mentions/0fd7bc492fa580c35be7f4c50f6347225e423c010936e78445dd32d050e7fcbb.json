@@ -14,5 +14,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 10
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3706ab1224e90007f55db7/8afb2f8b3e62ea5f1dabc83c5aec26f1",
+    "date": "2020-02-02T17:28:11.000Z",
+    "private": false,
+    "wm-id": 751585,
+    "content": {
+      "text": "More photos = more coins 💰"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/c376a4a568cecb013dc7577c32074bba30d492b160df0f4319d7f433ff1d297b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

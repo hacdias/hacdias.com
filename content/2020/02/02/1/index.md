@@ -1,7 +1,7 @@
 ---
 categories:
   - checkins
-date: 2020-02-02T17:28:11.000Z
+date: 2020-02-03T10:29:45.339Z
 properties:
   checkin:
     properties:
@@ -26,6 +26,10 @@ properties:
       region: Distrito de Setúbal
       street-address: Av. Jorge Peixinho
     type: h-adr
+  photo: >-
+    https://fastly.4sqi.net/img/general/original/476184554_THkuegO0q8WnA2BbjxRGFV53evyik4tWeQU0oFvd-wE.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3706ab1224e90007f55db7'
+publishDate: 2020-02-02T17:28:11.000Z
+tags: []
 ---
 
