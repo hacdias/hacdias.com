@@ -26,6 +26,8 @@ properties:
     type: h-adr
   photo: >-
     https://fastly.4sqi.net/img/general/original/476184554_1apyMhKNgFaGiYip9N4LqbZh_zGgvFLhKYxOCFyOoo8.jpg
+  photos: >-
+    https://cdn.hacdias.com/images/1e34d699644a0983318089b8b092fae05f2c092c826f534eebcf6e6d706de6dd.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e370c630accad00088bc3de'
 tags: []
 ---
