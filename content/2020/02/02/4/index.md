@@ -27,8 +27,6 @@ properties:
       street-address: A2 / IP7
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_cIJdzodsQGVRF3iXvNNeAR4u5bgSsRS4gGQULsYGV1M.jpg
-  photos: >-
     https://cdn.hacdias.com/images/f1fe6d829baf11c6f564d18bc8ebeeac536c2ae22afb11e30bc2e8b43616fb86.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3708f089d9220008a85849'
 tags: []
