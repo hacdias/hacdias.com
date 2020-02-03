@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3800ef222e2c00088140db/9f983aea8e2b00ed8934ea7cef7e3461",
+    "date": "2020-02-03T11:15:59.000Z",
+    "private": false,
+    "wm-id": 751600,
+    "content": {
+      "text": "Still got the crown! Just don't get Joffrey'd."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/ddd5b39dddcd436bc9cdad25993b924be5ddd3adedb1975bac0cbe53931daa3e.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  }
+]

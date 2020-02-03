@@ -1,0 +1,98 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e388b53f35deb0008ce60ae/8a21a6ce2868a9ace5a9418286cc97d5",
+    "date": "2020-02-03T21:06:27.000Z",
+    "private": false,
+    "wm-id": 751815,
+    "content": {
+      "text": "Trendsetter! You're one of the first 50 people to check in here!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/055fb4910083fdb2858d47242c10c18b5a7b11d1c1dc26f559f4c87fd7b23e92.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 10
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e388b53f35deb0008ce60ae/9e1fe52b23dbd938cef42a87f93df15d",
+    "date": "2020-02-03T21:06:27.000Z",
+    "private": false,
+    "wm-id": 751816,
+    "content": {
+      "text": "First check-in in Luxembourg."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 4
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e388b53f35deb0008ce60ae/85006cade72736f8e974e070b47882a5",
+    "date": "2020-02-03T21:06:27.000Z",
+    "private": false,
+    "wm-id": 751817,
+    "content": {
+      "text": "Your first Pizza Place!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e388b53f35deb0008ce60ae/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-03T21:06:27.000Z",
+    "private": false,
+    "wm-id": 751818,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e388b53f35deb0008ce60ae/5ce32fbad0029d1dfc15397d4a98a89c",
+    "date": "2020-02-03T21:06:27.000Z",
+    "private": false,
+    "wm-id": 751819,
+    "content": {
+      "text": "First of your friends to check into Luxembourg!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e388b53f35deb0008ce60ae/acf322a8ef5acf6cb78fd6d237d10028",
+    "date": "2020-02-03T21:06:27.000Z",
+    "private": false,
+    "wm-id": 751820,
+    "content": {
+      "text": "First check-in at this Domino's Pizza."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

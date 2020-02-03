@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3834d187f7c00007ad312e/decfa75c4312f4ae84f5a70ad6b0edc6",
+    "date": "2020-02-03T14:57:21.000Z",
+    "private": false,
+    "wm-id": 751658,
+    "content": {
+      "text": "Your first check-in at Security Check!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3834d187f7c00007ad312e/173e501b1c61cfec3b42c563aad42d40",
+    "date": "2020-02-03T14:57:21.000Z",
+    "private": false,
+    "wm-id": 751659,
+    "content": {
+      "text": "Your first Airport Service!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3834d187f7c00007ad312e/b5fafe226985561425f99dc9a72f77aa",
+    "date": "2020-02-03T14:57:21.000Z",
+    "private": false,
+    "wm-id": 751660,
+    "content": {
+      "text": "That's 2 check-ins inside Lisbon Humberto Delgado Airport today! Keep going for more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  }
+]

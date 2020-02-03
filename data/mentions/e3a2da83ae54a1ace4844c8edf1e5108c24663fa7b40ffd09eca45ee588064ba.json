@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3833cea4af1b00088c93ba/7c07d8218949a1f3a410eb7b5f8f7fed",
+    "date": "2020-02-03T14:53:02.000Z",
+    "private": false,
+    "wm-id": 751645,
+    "content": {
+      "text": "Lisbon Humberto Delgado Airport is swarming! 102 people here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/a700842b33bf5759e37c002502d5a82b71d1296a59ae6cb91a0535884639b734.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3833cea4af1b00088c93ba/ab21b0f6fa6ac28e7085810704c4d8fd",
+    "date": "2020-02-03T14:53:02.000Z",
+    "private": false,
+    "wm-id": 751646,
+    "content": {
+      "text": "Your first check-in at Terminal 2!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3833cea4af1b00088c93ba/10630895f233b99c608333b07990d3bc",
+    "date": "2020-02-03T14:53:02.000Z",
+    "private": false,
+    "wm-id": 751647,
+    "content": {
+      "text": "Your first Airport Terminal!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]
