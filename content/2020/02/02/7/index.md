@@ -1,7 +1,7 @@
 ---
 categories:
   - checkins
-date: 2020-02-03T10:54:47.304Z
+date: 2020-02-03T10:34:51.838Z
 properties:
   checkin:
     properties:
