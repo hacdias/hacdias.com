@@ -53,7 +53,7 @@
     {{ $arr := partial "must-slice" . }}
     {{ range $arr }}
       {{ $img := $.Glob.Page.Resources.GetMatch . -}}
-      <img style="margin: 1rem auto; display: block;" class="u-photo" src="{{ $img.RelPermalink }}">
+      <img style="margin: 1rem auto; display: block;" class="u-photo" src="{{ with $img }}{{ .RelPermalink }}{{ else }}{{ . }}{{ end }}">
     {{ end }}
   {{ end }}
 
@@ -61,7 +61,7 @@
     {{ $arr := partial "must-slice" . }}
     {{ range $arr }}
       {{ $video := $.Glob.Page.Resources.GetMatch . -}}
-      <video style="margin: 1rem auto; display: block;" class="u-video" src="{{ $video.RelPermalink }}" autoplay loop></video>
+      <video style="margin: 1rem auto; display: block;" class="u-video" src="{{ with $video }}{{ .RelPermalink }}{{ else }}{{ . }}{{ end }}" autoplay loop></video>
     {{ end }}
   {{ end }}
 
