@@ -1,7 +1,7 @@
 ---
 categories:
   - checkins
-date: 2020-02-02T17:52:35.000Z
+date: 2020-02-03T10:54:47.304Z
 properties:
   checkin:
     properties:
@@ -24,6 +24,9 @@ properties:
       region: Lisbon
       street-address: Av. da República
     type: h-adr
+  photo: >-
+    https://fastly.4sqi.net/img/general/original/476184554_1apyMhKNgFaGiYip9N4LqbZh_zGgvFLhKYxOCFyOoo8.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e370c630accad00088bc3de'
+tags: []
 ---
 
