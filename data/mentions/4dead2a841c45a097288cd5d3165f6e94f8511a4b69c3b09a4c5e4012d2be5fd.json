@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3968f82af20400083b875f/8770ab22c2b691b1574648ff6868aa4f",
+    "date": "2020-02-04T12:52:08.000Z",
+    "private": false,
+    "wm-id": 752160,
+    "content": {
+      "text": "Your first check-in at Snooze!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3968f82af20400083b875f/c71d7c6eb9b71bb4f852e56fd166c45f",
+    "date": "2020-02-04T12:52:08.000Z",
+    "private": false,
+    "wm-id": 752161,
+    "content": {
+      "text": "Your first Burger Joint!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3968f82af20400083b875f/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-04T12:52:08.000Z",
+    "private": false,
+    "wm-id": 752162,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

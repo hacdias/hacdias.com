@@ -1,0 +1,66 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e393e18801e1100071debf4/23c5ecf3dc72f0617d0109c23ab094c2",
+    "date": "2020-02-04T09:49:12.000Z",
+    "private": false,
+    "wm-id": 752091,
+    "content": {
+      "text": "Your first check-in at Skatepark Pétrusse!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e393e18801e1100071debf4/2b5b05c49631d096ee756d166c3bb44f",
+    "date": "2020-02-04T09:49:12.000Z",
+    "private": false,
+    "wm-id": 752092,
+    "content": {
+      "text": "Your first Skate Park!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e393e18801e1100071debf4/3c55aa62bdb2f9baf2ee57b93ed37817",
+    "date": "2020-02-04T09:49:12.000Z",
+    "private": false,
+    "wm-id": 752093,
+    "content": {
+      "text": "Keep checking in to places inside Vallée de la Pétrusse for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e393e18801e1100071debf4/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-04T09:49:12.000Z",
+    "private": false,
+    "wm-id": 752094,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e39382a23984c000707b7d1/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-04T09:23:54.000Z",
+    "private": false,
+    "wm-id": 752083,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e39382a23984c000707b7d1/5478a01358d3a350c0665312826c809c",
+    "date": "2020-02-04T09:23:54.000Z",
+    "private": false,
+    "wm-id": 752084,
+    "content": {
+      "text": "Your first check-in at Viaduc de la Pétrusse!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]
