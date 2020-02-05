@@ -1,0 +1,66 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3acb8b4f8c180009b70776/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-05T14:04:59.000Z",
+    "private": false,
+    "wm-id": 752537,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3acb8b4f8c180009b70776/46176c240f7216a71e0b89dd74cc19b8",
+    "date": "2020-02-05T14:04:59.000Z",
+    "private": false,
+    "wm-id": 752539,
+    "content": {
+      "text": "That's 6 straight weeks at Train Stations. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 15
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3acb8b4f8c180009b70776/5b6045a3bb84578c533e9850a2fec5ec",
+    "date": "2020-02-05T14:04:59.000Z",
+    "private": false,
+    "wm-id": 752540,
+    "content": {
+      "text": "First check-in at Brussels-North Railway Station."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3acb8b4f8c180009b70776/4c75d59cbfdafbb517ec8f78a912b4c8",
+    "date": "2020-02-05T14:04:59.000Z",
+    "private": false,
+    "wm-id": 752541,
+    "content": {
+      "text": "Keep checking in to places inside Centre de Communication Nord / Communicatiecentrum Noord for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

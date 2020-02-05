@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3a996e0da3ce0007b9bb4d/95669c02fc58d688d9c413c79350095a",
+    "date": "2020-02-05T10:31:10.000Z",
+    "private": false,
+    "wm-id": 752512,
+    "content": {
+      "text": "Your first check-in at P+R Bouillon!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

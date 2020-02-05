@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3b022697776500086058c2/f9363b70158a63dc2fc5e7e64f1cad03",
+    "date": "2020-02-05T17:57:58.000Z",
+    "private": false,
+    "wm-id": 752630,
+    "content": {
+      "text": "Your first check-in at Chez Léon!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3b022697776500086058c2/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-05T17:57:58.000Z",
+    "private": false,
+    "wm-id": 752631,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3b022697776500086058c2/27964c71899a65558d813422d211155e",
+    "date": "2020-02-05T17:57:58.000Z",
+    "private": false,
+    "wm-id": 752632,
+    "content": {
+      "text": "Your first Belgian Restaurant!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3aee260da3ce00075032c3/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-05T16:32:38.000Z",
+    "private": false,
+    "wm-id": 752581,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3aee260da3ce00075032c3/d82c5dee6e816b28c882a2d8b7623961",
+    "date": "2020-02-05T16:32:38.000Z",
+    "private": false,
+    "wm-id": 752582,
+    "content": {
+      "text": "Your first check-in at Arcades du Cinquantenaire / Triomfboog van het Jubelpark!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3aee260da3ce00075032c3/cf635cb3deb6366520346bf76207bd04",
+    "date": "2020-02-05T16:32:38.000Z",
+    "private": false,
+    "wm-id": 752583,
+    "content": {
+      "text": "Keep checking in to places inside Jubelpark / Parc du Cinquantenaire for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]
