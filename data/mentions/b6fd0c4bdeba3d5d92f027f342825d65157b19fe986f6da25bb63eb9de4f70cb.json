@@ -1,0 +1,66 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c058698716a0008ab61cb/c8286ad48365fbecae54978e270ec8fd",
+    "date": "2020-02-06T12:24:38.000Z",
+    "private": false,
+    "wm-id": 752854,
+    "content": {
+      "text": "First of your friends to check into Mutsaard!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c058698716a0008ab61cb/a6b9ea6527c3d1461cb07477c73696b9",
+    "date": "2020-02-06T12:24:38.000Z",
+    "private": false,
+    "wm-id": 752855,
+    "content": {
+      "text": "First check-in in Mutsaard."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c058698716a0008ab61cb/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-06T12:24:38.000Z",
+    "private": false,
+    "wm-id": 752856,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c058698716a0008ab61cb/6c2b465e28aab3fcfdd7019171c398c9",
+    "date": "2020-02-06T12:24:38.000Z",
+    "private": false,
+    "wm-id": 752857,
+    "content": {
+      "text": "Your first check-in at Musea van het Verre Oosten / Musées d’Extrême-Orient!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]
