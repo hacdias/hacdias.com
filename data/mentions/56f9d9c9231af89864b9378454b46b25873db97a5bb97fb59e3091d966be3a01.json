@@ -1,0 +1,82 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c3d418565690008b5728f/8befad52badd1ca0be13e84d6700e096",
+    "date": "2020-02-06T16:22:25.000Z",
+    "private": false,
+    "wm-id": 753059,
+    "content": {
+      "text": "Your first check-in at Harry Potter!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c3d418565690008b5728f/eb2eb75deafa225fe3e8d6b06410015e",
+    "date": "2020-02-06T16:22:25.000Z",
+    "private": false,
+    "wm-id": 753060,
+    "content": {
+      "text": "Your first Comic Shop!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c3d418565690008b5728f/d87fe0d1244893d8fc5aaa6a7868634d",
+    "date": "2020-02-06T16:22:25.000Z",
+    "private": false,
+    "wm-id": 753061,
+    "content": {
+      "text": "First check-in in Dansaert."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c3d418565690008b5728f/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-06T16:22:25.000Z",
+    "private": false,
+    "wm-id": 753062,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c3d418565690008b5728f/ea276f752de1d4cdf67ec12fd18e0309",
+    "date": "2020-02-06T16:22:25.000Z",
+    "private": false,
+    "wm-id": 753063,
+    "content": {
+      "text": "First of your friends to check into Dansaert!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

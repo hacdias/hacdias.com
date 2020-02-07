@@ -1,0 +1,66 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d34a199b9fb00088eb721/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-07T09:57:53.000Z",
+    "private": false,
+    "wm-id": 753210,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d34a199b9fb00088eb721/a5c4ed906b4f396b0edc00284b98a5f6",
+    "date": "2020-02-07T09:57:53.000Z",
+    "private": false,
+    "wm-id": 753211,
+    "content": {
+      "text": "Your first check-in at Royal Palace!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d34a199b9fb00088eb721/e0b5ed22af21343adf5c8286eb1d0162",
+    "date": "2020-02-07T09:57:53.000Z",
+    "private": false,
+    "wm-id": 753212,
+    "content": {
+      "text": "First check-in in Quartier Royal."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d34a199b9fb00088eb721/81787b724fbc9cc1f62fc9049a838a9e",
+    "date": "2020-02-07T09:57:53.000Z",
+    "private": false,
+    "wm-id": 753213,
+    "content": {
+      "text": "First of your friends to check into Quartier Royal!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

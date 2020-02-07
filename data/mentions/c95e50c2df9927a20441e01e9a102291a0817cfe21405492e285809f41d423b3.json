@@ -1,0 +1,82 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d39d8cd7f6500074bb89f/7cc4ef803e8846569c2ab5216325d25e",
+    "date": "2020-02-07T10:20:08.000Z",
+    "private": false,
+    "wm-id": 753228,
+    "content": {
+      "text": "First check-in at Madou (MIVB / STIB | De Lijn)."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d39d8cd7f6500074bb89f/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-07T10:20:08.000Z",
+    "private": false,
+    "wm-id": 753230,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d39d8cd7f6500074bb89f/1f25e66f92de40bf81667a77bcdaa68f",
+    "date": "2020-02-07T10:20:08.000Z",
+    "private": false,
+    "wm-id": 753231,
+    "content": {
+      "text": "There's a lot going on inside Madou (MIVB / STIB | De Lijn)! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d39d8cd7f6500074bb89f/386da4b5a201ff994a38dca927dc5084",
+    "date": "2020-02-07T10:20:08.000Z",
+    "private": false,
+    "wm-id": 753232,
+    "content": {
+      "text": "First check-in in Saint-Josse."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d39d8cd7f6500074bb89f/0b2e681653f36a1ea8459d54843a31c2",
+    "date": "2020-02-07T10:20:08.000Z",
+    "private": false,
+    "wm-id": 753233,
+    "content": {
+      "text": "First of your friends to check into Saint-Josse!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

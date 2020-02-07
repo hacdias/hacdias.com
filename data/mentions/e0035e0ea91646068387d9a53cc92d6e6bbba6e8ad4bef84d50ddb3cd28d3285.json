@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d51f32893aa0007854d38/1c47f012e741c12ced1553a83b80209b",
+    "date": "2020-02-07T12:02:59.000Z",
+    "private": false,
+    "wm-id": 753263,
+    "content": {
+      "text": "Your first Zoo!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d51f32893aa0007854d38/6f861bf031b636f0865c878329a84c6b",
+    "date": "2020-02-07T12:02:59.000Z",
+    "private": false,
+    "wm-id": 753264,
+    "content": {
+      "text": "There's a lot going on inside Zoo Antwerpen! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d51f32893aa0007854d38/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-07T12:02:59.000Z",
+    "private": false,
+    "wm-id": 753265,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

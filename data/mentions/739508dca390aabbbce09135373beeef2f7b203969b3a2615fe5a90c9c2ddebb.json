@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d7510f1f6080007a02df1/f8eaabe2183aab5308fd9d81114f53d5",
+    "date": "2020-02-07T14:32:48.000Z",
+    "private": false,
+    "wm-id": 753316,
+    "content": {
+      "text": "Hanging out with Rodrigo!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/7ed5c3e46a827d15bd2365885b910deddacd7efe3e9be2876f8d55990e005b61.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d7510f1f6080007a02df1/dbbdd2aacbc1d5557c4478c474723426",
+    "date": "2020-02-07T14:32:48.000Z",
+    "private": false,
+    "wm-id": 753317,
+    "content": {
+      "text": "First check-in in Historisch Centrum."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d7510f1f6080007a02df1/4018e73fc3b80b4a04d5861d0b5df252",
+    "date": "2020-02-07T14:32:48.000Z",
+    "private": false,
+    "wm-id": 753318,
+    "content": {
+      "text": "Your first check-in at Cathedral of Our Lady!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

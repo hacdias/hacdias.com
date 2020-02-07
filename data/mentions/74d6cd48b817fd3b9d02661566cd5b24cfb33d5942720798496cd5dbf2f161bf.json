@@ -1,0 +1,66 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d77d336c1290008ef8b23/b42b0b84bb0fca00ad586145dd457de4",
+    "date": "2020-02-07T14:44:35.000Z",
+    "private": false,
+    "wm-id": 753326,
+    "content": {
+      "text": "First check-in in Linkeroever."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d77d336c1290008ef8b23/c545042ae6b660329462728851df52ee",
+    "date": "2020-02-07T14:44:35.000Z",
+    "private": false,
+    "wm-id": 753327,
+    "content": {
+      "text": "Your first River!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d77d336c1290008ef8b23/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-07T14:44:35.000Z",
+    "private": false,
+    "wm-id": 753328,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d77d336c1290008ef8b23/e1d5ac0bccee1cbbbf9a8063b3045811",
+    "date": "2020-02-07T14:44:35.000Z",
+    "private": false,
+    "wm-id": 753329,
+    "content": {
+      "text": "First of your friends to check into Linkeroever!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

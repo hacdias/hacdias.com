@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d3db248522f00085476b9/491e0a5bcf8c34763217ac00b7e5ca17",
+    "date": "2020-02-07T10:36:34.000Z",
+    "private": false,
+    "wm-id": 753240,
+    "content": {
+      "text": "Your first check-in at FlixBus Stop!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d3db248522f00085476b9/d46bd22e8894cc34804729ada0b9ae7f",
+    "date": "2020-02-07T10:36:34.000Z",
+    "private": false,
+    "wm-id": 753241,
+    "content": {
+      "text": "Your first Bus Stop!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d3db248522f00085476b9/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-07T10:36:34.000Z",
+    "private": false,
+    "wm-id": 753242,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]
