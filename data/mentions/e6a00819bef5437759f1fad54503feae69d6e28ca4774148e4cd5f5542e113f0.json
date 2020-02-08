@@ -1,0 +1,82 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9dc23c45d3000744327e/533b41feac01d295d9a54c51e1acf65b",
+    "date": "2020-02-08T11:38:42.000Z",
+    "private": false,
+    "wm-id": 753607,
+    "content": {
+      "text": "First check-in in Indische Buurt West."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9dc23c45d3000744327e/2fd5d1aec28b84bd4ea321c7122b11f4",
+    "date": "2020-02-08T11:38:42.000Z",
+    "private": false,
+    "wm-id": 753608,
+    "content": {
+      "text": "Your first check-in at Stayokay Amsterdam Oost!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9dc23c45d3000744327e/c505934beadd353fcbf9add51d5a2162",
+    "date": "2020-02-08T11:38:42.000Z",
+    "private": false,
+    "wm-id": 753609,
+    "content": {
+      "text": "Your first Hostel!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9dc23c45d3000744327e/e7cd2fe29726e592b9ae7171efca9c37",
+    "date": "2020-02-08T11:38:42.000Z",
+    "private": false,
+    "wm-id": 753610,
+    "content": {
+      "text": "First of your friends to check into Indische Buurt West!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9dc23c45d3000744327e/304e03a60191c62d50f316d81bd6e50e",
+    "date": "2020-02-08T11:38:42.000Z",
+    "private": false,
+    "wm-id": 753611,
+    "content": {
+      "text": "There's a lot going on inside Stayokay Amsterdam Oost! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 1
+  }
+]

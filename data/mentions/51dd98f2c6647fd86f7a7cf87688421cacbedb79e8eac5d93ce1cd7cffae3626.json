@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3dca1822f5a20007221e8d/f8eaabe2183aab5308fd9d81114f53d5",
+    "date": "2020-02-07T20:35:36.000Z",
+    "private": false,
+    "wm-id": 753475,
+    "content": {
+      "text": "Hanging out with Rodrigo!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/7ed5c3e46a827d15bd2365885b910deddacd7efe3e9be2876f8d55990e005b61.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3dca1822f5a20007221e8d/a5de7c8a624f08e1e6da50d1a6bbfe1a",
+    "date": "2020-02-07T20:35:36.000Z",
+    "private": false,
+    "wm-id": 753476,
+    "content": {
+      "text": "Your first Fondue Restaurant!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3dca1822f5a20007221e8d/55d48550f7b2fc064e88e95ad4439b5e",
+    "date": "2020-02-07T20:35:36.000Z",
+    "private": false,
+    "wm-id": 753477,
+    "content": {
+      "text": "Your first check-in at Lyly's Fondue!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9096a3db190008f47840/c3d68fbd8860ba4bfc61f4cbcbab7335",
+    "date": "2020-02-08T10:42:30.000Z",
+    "private": false,
+    "wm-id": 753600,
+    "content": {
+      "text": "First check-in in Amsterdam."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 4
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9096a3db190008f47840/2aeece69f068b6a7884b31b12f441734",
+    "date": "2020-02-08T10:42:30.000Z",
+    "private": false,
+    "wm-id": 753601,
+    "content": {
+      "text": "There's a lot going on inside Amsterdam Central Railway Station! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 1
+  }
+]

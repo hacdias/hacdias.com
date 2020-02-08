@@ -1,0 +1,66 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e8d86b2162500079ef147/51b50baa0cd929f048b22641faa56b94",
+    "date": "2020-02-08T10:29:26.000Z",
+    "private": false,
+    "wm-id": 753594,
+    "content": {
+      "text": "Amsterdam Airport Schiphol is swarming! 215 people here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/a700842b33bf5759e37c002502d5a82b71d1296a59ae6cb91a0535884639b734.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e8d86b2162500079ef147/f8eaabe2183aab5308fd9d81114f53d5",
+    "date": "2020-02-08T10:29:26.000Z",
+    "private": false,
+    "wm-id": 753595,
+    "content": {
+      "text": "Hanging out with Rodrigo!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/7ed5c3e46a827d15bd2365885b910deddacd7efe3e9be2876f8d55990e005b61.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e8d86b2162500079ef147/0d13c74245144d1143e3d90c57f6c58e",
+    "date": "2020-02-08T10:29:26.000Z",
+    "private": false,
+    "wm-id": 753596,
+    "content": {
+      "text": "First check-in in Provincie Noord-Holland."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e8d86b2162500079ef147/66dc87a05776061fd9671bee93d89778",
+    "date": "2020-02-08T10:29:26.000Z",
+    "private": false,
+    "wm-id": 753597,
+    "content": {
+      "text": "Keep checking in to places inside Amsterdam Airport Schiphol for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3eb9cd6325c20008844b46/906e6ec09a97f60545a1ee27a32457d5",
+    "date": "2020-02-08T13:38:21.000Z",
+    "private": false,
+    "wm-id": 753630,
+    "content": {
+      "text": "That's 3 straight days at Plazas. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 10
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3eb9cd6325c20008844b46/f8eaabe2183aab5308fd9d81114f53d5",
+    "date": "2020-02-08T13:38:21.000Z",
+    "private": false,
+    "wm-id": 753631,
+    "content": {
+      "text": "Hanging out with Rodrigo!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/7ed5c3e46a827d15bd2365885b910deddacd7efe3e9be2876f8d55990e005b61.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]
