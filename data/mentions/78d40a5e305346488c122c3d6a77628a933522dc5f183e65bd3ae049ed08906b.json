@@ -1,0 +1,34 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4007e171a40700085f8958/2659b6f09ebbcbcf21e3c939dcdb20dd",
+    "date": "2020-02-09T13:23:45.000Z",
+    "private": false,
+    "wm-id": 753864,
+    "content": {
+      "text": "Your first check-in at Metrostation Amsterdam Centraal!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4007e171a40700085f8958/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-09T13:23:45.000Z",
+    "private": false,
+    "wm-id": 753865,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

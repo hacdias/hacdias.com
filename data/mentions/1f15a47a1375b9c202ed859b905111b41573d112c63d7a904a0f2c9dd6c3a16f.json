@@ -1,0 +1,34 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3f2283f718ad0008187e4d/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-08T21:05:07.000Z",
+    "private": false,
+    "wm-id": 753743,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3f2283f718ad0008187e4d/eadbbf979a46512dea6223f9237557d2",
+    "date": "2020-02-08T21:05:07.000Z",
+    "private": false,
+    "wm-id": 753744,
+    "content": {
+      "text": "Your first check-in at Quartier Putain!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

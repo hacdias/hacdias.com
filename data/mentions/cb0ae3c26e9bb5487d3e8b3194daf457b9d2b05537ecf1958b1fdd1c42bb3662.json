@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4035ba40efa9000749d178/a27a6e4b0b013cda9cf9cda1a0ca5165",
+    "date": "2020-02-09T16:39:22.000Z",
+    "private": false,
+    "wm-id": 753898,
+    "content": {
+      "text": "Your first check-in at Metro 52 Noord-Zuid!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

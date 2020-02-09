@@ -1,0 +1,82 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3eebc144e5b00008bb6352/9b77ae9ace08abfccb74911b61f7f17b",
+    "date": "2020-02-08T17:11:29.000Z",
+    "private": false,
+    "wm-id": 753748,
+    "content": {
+      "text": "That's 5 straight days at Monuments / Landmarks. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 15
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3eebc144e5b00008bb6352/a02eb594d4d57edd8c11b662986266f5",
+    "date": "2020-02-08T17:11:29.000Z",
+    "private": false,
+    "wm-id": 753749,
+    "content": {
+      "text": "That's 5 straight days at Government Buildings. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 15
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3eebc144e5b00008bb6352/8ce63fed7f419124d16a5960f374ce10",
+    "date": "2020-02-08T17:11:29.000Z",
+    "private": false,
+    "wm-id": 753750,
+    "content": {
+      "text": "First check-in at National Monument on Dam Square."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3eebc144e5b00008bb6352/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-08T17:11:29.000Z",
+    "private": false,
+    "wm-id": 753751,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3eebc144e5b00008bb6352/b47f8600139bb9f5d4582f88b8717192",
+    "date": "2020-02-08T17:11:29.000Z",
+    "private": false,
+    "wm-id": 753752,
+    "content": {
+      "text": "Keep checking in to places inside Dam Square for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

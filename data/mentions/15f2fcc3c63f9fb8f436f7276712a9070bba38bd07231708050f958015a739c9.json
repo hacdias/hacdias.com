@@ -1,0 +1,34 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4043ec63366a000800debb/91bd03dfcf19cd7f028934750f5c4034",
+    "date": "2020-02-09T17:39:56.000Z",
+    "private": false,
+    "wm-id": 753920,
+    "content": {
+      "text": "First check-in at Tramhalte Molukkenstraat."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4043ec63366a000800debb/f8eaabe2183aab5308fd9d81114f53d5",
+    "date": "2020-02-09T17:39:56.000Z",
+    "private": false,
+    "wm-id": 753921,
+    "content": {
+      "text": "Hanging out with Rodrigo!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/7ed5c3e46a827d15bd2365885b910deddacd7efe3e9be2876f8d55990e005b61.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

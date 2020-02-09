@@ -1,0 +1,82 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3fd354f718ad000839cb06/0387f35ebf80d9e1164c1084a695f117",
+    "date": "2020-02-09T09:39:32.000Z",
+    "private": false,
+    "wm-id": 753823,
+    "content": {
+      "text": "First check-in in Jordaan."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3fd354f718ad000839cb06/fba93179923baa3694f58f918b7e42eb",
+    "date": "2020-02-09T09:39:32.000Z",
+    "private": false,
+    "wm-id": 753824,
+    "content": {
+      "text": "Your first Café!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3fd354f718ad000839cb06/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-09T09:39:32.000Z",
+    "private": false,
+    "wm-id": 753825,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3fd354f718ad000839cb06/da1e457fb79e289e825f87e1eaa33460",
+    "date": "2020-02-09T09:39:32.000Z",
+    "private": false,
+    "wm-id": 753826,
+    "content": {
+      "text": "Your first check-in at Winkel 43!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3fd354f718ad000839cb06/80671d42114a1bbfcb6e617a57586645",
+    "date": "2020-02-09T09:39:32.000Z",
+    "private": false,
+    "wm-id": 753827,
+    "content": {
+      "text": "First of your friends to check into Jordaan!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]
