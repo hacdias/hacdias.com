@@ -9,5 +9,5 @@
       <a rel="noopener noreferrer" target="_link" href="{{ $.Wm.url }}" class="u-url original">Original Post</a>
     {{ end -}}
   </p>
-  <div class="e-content p-name">{{ .Wm.content.text | truncate 300 | safeHTML }}</div>
+  <div class="e-content p-name">{{ (or .Wm.content.text .Wm.summary) | truncate 300 | safeHTML }}</div>
 </div>
