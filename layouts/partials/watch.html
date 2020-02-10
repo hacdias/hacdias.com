@@ -1,6 +1,8 @@
-{{ $watch := (index .Glob.Params.properties "watch-of").properties }}
-{{ $type := $watch.type }}
-
+{{- $watch := (index .Glob.Params.properties "watch-of").properties -}}
+{{- $type := "movie" -}}
+{{- if and $watch.episode $watch.season -}}
+  {{- $type = "episode" -}}
+{{- end -}}
 
 <p class='copy content e-content e-entry'>
   {{- if eq $type "movie" -}}🎬{{ else if eq $type "episode" -}}📺{{- end -}}
@@ -12,4 +14,3 @@
   (S{{ $watch.season }}E{{ $watch.episode }} of <a target="_blank" rel="noopener noreferrer" href="{{ $watch.show.properties.url }}">{{ $watch.show.properties.title }}</a>)
   {{- end -}}
 </p>
-
