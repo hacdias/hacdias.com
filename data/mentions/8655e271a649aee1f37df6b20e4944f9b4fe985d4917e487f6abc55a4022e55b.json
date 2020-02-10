@@ -14,5 +14,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4127e7089e950007559e08/d0459b1d3ba02ecc5621da338badb592",
+    "date": "2020-02-10T09:52:39.000Z",
+    "private": false,
+    "wm-id": 754227,
+    "content": {
+      "text": "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/c376a4a568cecb013dc7577c32074bba30d492b160df0f4319d7f433ff1d297b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

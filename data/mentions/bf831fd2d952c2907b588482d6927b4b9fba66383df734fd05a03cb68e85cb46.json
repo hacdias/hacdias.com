@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3ea610b49cb8000851fa55/09be8d873dfdec3ca52ae89ce8956f12",
+    "date": "2020-02-08T12:14:08.000Z",
+    "private": false,
+    "wm-id": 753615,
+    "content": {
+      "text": "Explorer! It's your first check-in in De Wallen!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  }
+]

@@ -62,5 +62,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e400a3454db2b0007d8e467/0b1dcd0eb514a24cb5119fedec951033",
+    "date": "2020-02-09T13:33:40.000Z",
+    "private": false,
+    "wm-id": 753869,
+    "content": {
+      "text": "First check-in in Weesperbuurt en Plantage."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
   }
 ]

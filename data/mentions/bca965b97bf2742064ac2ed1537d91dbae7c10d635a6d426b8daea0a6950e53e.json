@@ -30,5 +30,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3ee682216f9c0007033528/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-08T16:49:06.000Z",
+    "private": false,
+    "wm-id": 753693,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
   }
 ]

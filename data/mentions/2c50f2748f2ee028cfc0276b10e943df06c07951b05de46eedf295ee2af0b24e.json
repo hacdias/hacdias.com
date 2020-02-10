@@ -30,5 +30,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3ed664216f9c0007e517e7/9a958029388b2887c468479caf835205",
+    "date": "2020-02-08T15:40:20.000Z",
+    "private": false,
+    "wm-id": 753665,
+    "content": {
+      "text": "Your first check-in at Tramhalte Soembawastraat!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://webmention.io/avatar/ss1.4sqi.net/50d47c253c4c17ad7b6a97cdd52ac8f6ab290eba5b9a60b62791522126af0713.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e403079ce608000083a24c3/f8eaabe2183aab5308fd9d81114f53d5",
+    "date": "2020-02-09T16:16:57.000Z",
+    "private": false,
+    "wm-id": 753895,
+    "content": {
+      "text": "Hanging out with Rodrigo!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/7ed5c3e46a827d15bd2365885b910deddacd7efe3e9be2876f8d55990e005b61.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

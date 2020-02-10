@@ -30,5 +30,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e411b63a022600007164ebd/52f1da46b7445ebe7bae34a24e33c3af",
+    "date": "2020-02-10T08:59:15.000Z",
+    "private": false,
+    "wm-id": 754221,
+    "content": {
+      "text": "Your first check-in at Stayokay Restaurant!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

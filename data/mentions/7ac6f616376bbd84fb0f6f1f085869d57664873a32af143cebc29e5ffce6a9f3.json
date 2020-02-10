@@ -78,5 +78,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e403c7ae3a64800089c5e7c/e61b9531ce25f51c1ee66bccc526284e",
+    "date": "2020-02-09T17:08:10.000Z",
+    "private": false,
+    "wm-id": 753905,
+    "content": {
+      "text": "First check-in in Oostelijke Eilanden en Kadijken."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
   }
 ]

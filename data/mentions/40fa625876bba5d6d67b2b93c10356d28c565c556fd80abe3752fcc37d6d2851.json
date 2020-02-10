@@ -14,5 +14,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e413e353444dc000840f924/8fa5b05355e0381c94e27a0d5edd8c59",
+    "date": "2020-02-10T11:27:49.000Z",
+    "private": false,
+    "wm-id": 754256,
+    "content": {
+      "text": "Amsterdam Airport Schiphol is swarming! 304 people here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/a700842b33bf5759e37c002502d5a82b71d1296a59ae6cb91a0535884639b734.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 10
   }
 ]
