@@ -19,7 +19,7 @@ properties:
       longitude: 4.396111
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_gb3vCgFIkSePVBMmhn80WnXXn3GsLvRmRUUpffbotZM.jpg
+    https://cdn.hacdias.com/images/86bce913ca8e461780ea3edea9e734d2020bdc156c961b1c8a74bcafde6f8798.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3d78c1e293640008985ed6'
 tags: []
 ---

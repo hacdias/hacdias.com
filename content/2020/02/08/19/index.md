@@ -25,7 +25,7 @@ properties:
       street-address: Staalstraat
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_etbyZb0jiBR4XJIoMJvk4yjSrOwoRELFf9rs4FR8VxE.jpg
+    https://cdn.hacdias.com/images/009a53d247b1879df678ed427ae393d4dfe0ae3c72235317788b2ebb293ad641.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3ee1e12a81c40008c53adf'
 ---
 

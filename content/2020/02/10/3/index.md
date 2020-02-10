@@ -27,7 +27,7 @@ properties:
       street-address: Funenkade 5
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_Jikoi_7z3se_ThSILJDGDxOLa6G47x2NW-jovTrS76U.jpg
+    https://cdn.hacdias.com/images/0e276a1cf9905a106ba6f2d33c6ce5fa690fe27a69890ad1bbaa4ddb9029cb20.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e4127e7089e950007559e08'
 ---
 

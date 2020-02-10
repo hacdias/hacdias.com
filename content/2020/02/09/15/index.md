@@ -27,7 +27,7 @@ properties:
       street-address: Damrak 41
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_CXkLzmRwi13x8t2Zfpg9lIcVhciOTotvkkNkR4E3Xc8.jpg
+    https://cdn.hacdias.com/images/cde94213ffafba854b1dadcd4d72c7a591815899d28754180565b3f80f617b10.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e402cac50c1900008837093'
 ---
 

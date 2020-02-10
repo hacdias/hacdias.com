@@ -27,7 +27,7 @@ properties:
       street-address: Park van Laken / Parc de Laeken
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_uBKf3cgTgngKoNhtlln3q6UvoPhEZyPfKY0Z4bCf7Nw.jpg
+    https://cdn.hacdias.com/images/1427be11181e9f72e5fa76c089fcc9a0bccd7a6481a1444188aa1a7879941f64.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3bfe3e56a7d000083c32fb'
 tags: []
 ---

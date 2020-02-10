@@ -27,7 +27,7 @@ properties:
       street-address: Natieplein 1 Place de la Nation
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_E46I89zpoqOOhYyGuioHPJ2_DgCdaF3ynlP_Yvo4bMo.jpg
+    https://cdn.hacdias.com/images/358be1308b32a0c44c3dfc6c7c19274f5c505d61276c1c93b396247889cf677f.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3d35818b37090008f6da99'
 tags: []
 ---

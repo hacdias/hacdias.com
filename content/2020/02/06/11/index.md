@@ -27,7 +27,7 @@ properties:
       street-address: Getrouwheidsgang 4A Impasse de la Fidélité
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_HwBEOM8zbRZu51lGBan28tuHGtebJBixV7ewnZsE5m4.jpg
+    https://cdn.hacdias.com/images/cc996fb61b214c262f995bac07b46c57397931ece2eedc0b8eaf1ee1a7880422.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3c7882cb96ed0007110ff0'
 ---
 

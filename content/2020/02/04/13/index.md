@@ -27,7 +27,7 @@ properties:
       street-address: '20, rue du Marché-aux-Herbes'
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_6gywwO5WLmm04s6w9IPVpXFtfm_o-FVR9QnNUYBzqeQ.jpg
+    https://cdn.hacdias.com/images/781feb3438ee1eef27f23ebfc48f6719a30f449bb693923cc9a86b7c7fe5df0b.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3956988c5100000877d1ed'
 ---
 

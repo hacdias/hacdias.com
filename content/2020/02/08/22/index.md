@@ -23,7 +23,7 @@ properties:
       region: North Holland
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_bYDMIQa7rwjTbO_GmnzdggAXVH8FPa8lGeVC7Wel17o.jpg
+    https://cdn.hacdias.com/images/698a15dd98f672cfbd299dc7cf6af48f4b2d84f5890dba7f050bad30c7347913.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3ee59cf5aca100084e9df3'
 tags: []
 ---

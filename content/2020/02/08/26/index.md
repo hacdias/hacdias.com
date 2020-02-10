@@ -27,7 +27,7 @@ properties:
       street-address: Dam
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_f_OrQtn9bDoWBtDXSzja6e5g2gmL6ZQXDyy6q0AvMoY.jpg
+    https://cdn.hacdias.com/images/3663652357d1dc75cd12e8e2086cacb21a6f7283c9de04d42b6cad80d2b73d4f.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3eebc144e5b00008bb6352'
 ---
 

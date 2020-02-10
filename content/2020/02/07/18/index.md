@@ -27,7 +27,7 @@ properties:
       street-address: Grote Markt
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_hn1r3Vyry6-XdvmiupjxtbYNLZWgGKJOpe_SqgTDpjE.jpg
+    https://cdn.hacdias.com/images/bb494ae5e3a2d1780d2cbc0d1e4970744c4ed04d206bb7307af3b45cb960f05e.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3d76a04c6bed0008401e0b'
 tags: []
 ---

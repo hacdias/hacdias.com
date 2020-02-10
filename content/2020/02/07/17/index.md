@@ -27,7 +27,7 @@ properties:
       street-address: Handschoenmarkt
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_zXnVIK_gFdIKBhxLAyX-Od9qp1to7MJd64CSx90KnSg.jpg
+    https://cdn.hacdias.com/images/08e09aaa10e87468ad623840a9a09a80b30eefe4653e7689cc0976e140a6cb4c.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3d753993d8280007f902ac'
 tags: []
 ---
