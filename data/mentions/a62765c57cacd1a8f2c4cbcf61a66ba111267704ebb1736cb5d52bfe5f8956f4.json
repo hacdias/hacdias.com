@@ -1,0 +1,34 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e41334229211500071d3f17/14d85f0e87122e669da9ea3b9fc82f64",
+    "date": "2020-02-10T10:41:06.000Z",
+    "private": false,
+    "wm-id": 754241,
+    "content": {
+      "text": "There's a lot going on inside Dam Square! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e41334229211500071d3f17/6ac348031017f75b8c5df476c3c24e8c",
+    "date": "2020-02-10T10:41:06.000Z",
+    "private": false,
+    "wm-id": 754242,
+    "content": {
+      "text": "Wow! That's 10 check-ins at Plazas!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/f555f9cac763a5b3acccc2eff7dfc35a05e37a4bc25a3f10e77e0e41797b946a.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

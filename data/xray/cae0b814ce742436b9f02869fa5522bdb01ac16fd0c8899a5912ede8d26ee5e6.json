@@ -1,0 +1,14 @@
+{
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2020/02/2020-02-07-jvwap/",
+  "published": "2020-02-07T09:48:06.000Z",
+  "summary": "I think I finally got ActivityPub support for this blog working. On Mastodon, you can search for @en@jlelse.blog and @de@jlelse.blog to follow the English and German blog. You should also be able to search for the URL of any post and reply to it. But remember that it&rsquo;s only possible for the reply to appear in the &ldquo;Interactions&rdquo; if your profile isn&rsquo;t locked (so your reply is visible to the public).",
+  "author": {
+    "type": "card",
+    "name": "jlelse's Blog",
+    "url": null,
+    "photo": "https://jlelse.dev/profile-128.jpg",
+    "nickname": "en"
+  },
+  "post-type": "note"
+}
