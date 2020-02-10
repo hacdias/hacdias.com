@@ -46,5 +46,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3bbde9e3c83b0008aebdef/6d49ecad33815b36e5797abd5fa283e0",
+    "date": "2020-02-06T07:19:05.000Z",
+    "private": false,
+    "wm-id": 752746,
+    "content": {
+      "text": "First of your friends to check into Anderlecht!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
   }
 ]

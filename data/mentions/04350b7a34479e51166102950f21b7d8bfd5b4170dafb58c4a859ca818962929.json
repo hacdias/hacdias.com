@@ -14,5 +14,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d5b664b16ba000836e4d4/771a216ad4ec5c9b4dfa3cbf20d6f163",
+    "date": "2020-02-07T12:43:18.000Z",
+    "private": false,
+    "wm-id": 753280,
+    "content": {
+      "text": "Your first check-in at this Five Guys!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

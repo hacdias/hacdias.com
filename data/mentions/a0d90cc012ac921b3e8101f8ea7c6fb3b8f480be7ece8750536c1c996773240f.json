@@ -62,5 +62,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3bec203be0f60008dd8f40/712446bbeb3ee190b04d527267cc2739",
+    "date": "2020-02-06T10:36:16.000Z",
+    "private": false,
+    "wm-id": 752791,
+    "content": {
+      "text": "That's 3 straight days at Government Buildings. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 10
   }
 ]

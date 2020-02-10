@@ -46,5 +46,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d76a04c6bed0008401e0b/3b70344759755b92c6a7d15ba8eb99c1",
+    "date": "2020-02-07T14:39:28.000Z",
+    "private": false,
+    "wm-id": 753323,
+    "content": {
+      "text": "Your first check-in at Grote Markt!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

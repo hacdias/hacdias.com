@@ -46,5 +46,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d3db248522f00085476b9/4c75d59cbfdafbb517ec8f78a912b4c8",
+    "date": "2020-02-07T10:36:34.000Z",
+    "private": false,
+    "wm-id": 753239,
+    "content": {
+      "text": "Keep checking in to places inside Centre de Communication Nord / Communicatiecentrum Noord for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
   }
 ]

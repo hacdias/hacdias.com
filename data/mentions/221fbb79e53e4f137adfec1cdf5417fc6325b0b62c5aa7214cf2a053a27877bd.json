@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9059244b1800085f47d4/cb9ada6090ccfe668b764ceab22b644a",
+    "date": "2020-02-08T10:41:29.000Z",
+    "private": false,
+    "wm-id": 753598,
+    "content": {
+      "text": "Explorer! It's your first check-in in Stadsdeel Centrum!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  }
+]

@@ -14,5 +14,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3a8fa079a35600075b2326/0ad08c8fb63e1b701072c5bc75a5413e",
+    "date": "2020-02-05T09:49:20.000Z",
+    "private": false,
+    "wm-id": 752505,
+    "content": {
+      "text": "Your first check-in at Parc de Merl!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

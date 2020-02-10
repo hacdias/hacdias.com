@@ -30,5 +30,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d580696e20d0008638e65/b0bec947aa6f8f355adcfbf0b9379630",
+    "date": "2020-02-07T12:28:54.000Z",
+    "private": false,
+    "wm-id": 753275,
+    "content": {
+      "text": "Your first check-in at MediaMarkt!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

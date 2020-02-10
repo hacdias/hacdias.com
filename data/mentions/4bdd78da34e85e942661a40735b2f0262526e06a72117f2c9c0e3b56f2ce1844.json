@@ -1,0 +1,19 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e86aa2bd3d10008b91ebf/a43225d901bb9dd389db35b1e7ba7558",
+    "date": "2020-02-08T10:00:10.000Z",
+    "private": false,
+    "wm-id": 753584,
+    "content": {
+      "html": "That's 4 straight days at States &amp; Municipalities. You set a new record!",
+      "text": "That's 4 straight days at States & Municipalities. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 15
+  }
+]

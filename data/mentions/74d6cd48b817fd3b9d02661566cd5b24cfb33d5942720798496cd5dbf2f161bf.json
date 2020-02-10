@@ -62,5 +62,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d77d336c1290008ef8b23/114dd9906db03cf7c4c7ff9a505fc575",
+    "date": "2020-02-07T14:44:35.000Z",
+    "private": false,
+    "wm-id": 753325,
+    "content": {
+      "text": "Your first check-in at Scheldt!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

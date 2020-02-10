@@ -62,5 +62,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e393e307aa5280008222312/82871940353a5f97608d81fd0e67a930",
+    "date": "2020-02-04T09:49:36.000Z",
+    "private": false,
+    "wm-id": 752095,
+    "content": {
+      "text": "Nice photo. You're gonna want some 3x5 glossy doubles."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/c376a4a568cecb013dc7577c32074bba30d492b160df0f4319d7f433ff1d297b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

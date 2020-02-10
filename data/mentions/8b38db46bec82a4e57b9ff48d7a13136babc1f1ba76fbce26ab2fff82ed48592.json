@@ -62,5 +62,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e866c93d8280007c7fbf7/24b2e1c2623e3c495697c6735dc293bd",
+    "date": "2020-02-08T09:59:08.000Z",
+    "private": false,
+    "wm-id": 753579,
+    "content": {
+      "text": "First check-in at Rotterdam Central Station."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

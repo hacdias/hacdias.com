@@ -62,5 +62,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3936eeb9f60900086dd341/f5714d8add3961695387e3dfb02638eb",
+    "date": "2020-02-04T09:18:38.000Z",
+    "private": false,
+    "wm-id": 752073,
+    "content": {
+      "text": "First check-in in Gare de Luxembourg."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
   }
 ]

@@ -14,5 +14,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 3
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3800ef222e2c00088140db/08b12a0b7b5de7d4904e29983fdc614d",
+    "date": "2020-02-03T11:15:59.000Z",
+    "private": false,
+    "wm-id": 751599,
+    "content": {
+      "text": "Keep checking in to places inside IST - Instituto Superior Técnico for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
   }
 ]

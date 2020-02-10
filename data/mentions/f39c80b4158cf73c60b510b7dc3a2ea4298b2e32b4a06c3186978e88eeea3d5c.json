@@ -62,5 +62,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3982f02af20400086a2cf0/8ffc9343a5db96aa79bef31ee7490ff6",
+    "date": "2020-02-04T14:42:56.000Z",
+    "private": false,
+    "wm-id": 752175,
+    "content": {
+      "text": "Your first Museum!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

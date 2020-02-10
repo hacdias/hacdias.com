@@ -62,5 +62,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3acb8b4f8c180009b70776/bbf5747170702be119896ba8e2b57ad3",
+    "date": "2020-02-05T14:04:59.000Z",
+    "private": false,
+    "wm-id": 752538,
+    "content": {
+      "text": "First check-in in Brussels Capital."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

@@ -78,5 +78,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e386e23e293640008e0a695/eb82b7e87fa4e5dc1020e6a12c5e41ee",
+    "date": "2020-02-03T19:01:55.000Z",
+    "private": false,
+    "wm-id": 751747,
+    "content": {
+      "text": "1065 miles since last check-in"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/59c7f806a284e99b04117d33982e5677d77e639e087451bb3a2fab4f66b55940.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

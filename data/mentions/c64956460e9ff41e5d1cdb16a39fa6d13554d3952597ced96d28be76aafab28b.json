@@ -30,5 +30,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e9096a3db190008f47840/790bdcaf2f48949d3af778a6326cf0e1",
+    "date": "2020-02-08T10:42:30.000Z",
+    "private": false,
+    "wm-id": 753599,
+    "content": {
+      "text": "Your first check-in at Amsterdam Central Railway Station!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

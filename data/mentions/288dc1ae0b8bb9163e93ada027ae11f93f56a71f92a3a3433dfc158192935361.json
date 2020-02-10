@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3e7f00089e9500077e1694/a5ccaaaab431fd66be6d2fecd3f0d910",
+    "date": "2020-02-08T09:27:28.000Z",
+    "private": false,
+    "wm-id": 753575,
+    "content": {
+      "text": "There's a lot going on inside Antwerp-Central Railway Station! Check in to more places here to earn more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 1
+  }
+]

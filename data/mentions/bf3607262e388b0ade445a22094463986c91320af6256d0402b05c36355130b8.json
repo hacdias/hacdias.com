@@ -46,5 +46,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3b0424210a0200077cd2c8/8c9ff554673b8badd83d311347ddcc59",
+    "date": "2020-02-05T18:06:28.000Z",
+    "private": false,
+    "wm-id": 752685,
+    "content": {
+      "text": "First check-in at Le Coin de l'Ecailler."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]

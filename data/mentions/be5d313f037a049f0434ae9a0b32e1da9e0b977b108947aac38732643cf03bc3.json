@@ -30,5 +30,22 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 2
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3c3da93c363b0007bc41f2/dd7b735198ef01165100eee32330632d",
+    "date": "2020-02-06T16:24:09.000Z",
+    "private": false,
+    "wm-id": 753055,
+    "content": {
+      "html": "That's 3 straight weeks at Food &amp; Drink Shops. You set a new record!",
+      "text": "That's 3 straight weeks at Food & Drink Shops. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 10
   }
 ]
