@@ -27,7 +27,7 @@ properties:
       street-address: '22, Avenue Monterey'
     type: h-adr
   photo: >-
-    https://fastly.4sqi.net/img/general/original/476184554_YwsZ960bR2zcC_BzaQEE2QjD9thFRJUMHpvjDP9t554.jpg
+    https://cdn.hacdias.com/images/43f103ce01245af37883b7781f1bdae0b88c6897f812f63d7720c41ea2cb88bc.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e388b53f35deb0008ce60ae'
 tags: []
 ---
