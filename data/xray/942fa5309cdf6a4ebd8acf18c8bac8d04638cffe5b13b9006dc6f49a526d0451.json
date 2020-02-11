@@ -1,0 +1,14 @@
+{
+  "type": "entry",
+  "url": "https://jlelse.blog/dev/activitystreams-hugo/",
+  "published": "2020-02-10T17:39:00.000Z",
+  "summary": "I promised and people already asked, so here is the first part of the documentation about how I enabled ActivityPub support on my Hugo-based blog:\nThe first step to enable ActivityPub support, was to get Hugo to generate ActivityStreams representations for posts and the ActivityPub actor. I did this by adding a custom output format and published the code as a Hugo module on Codeberg. See the README file there to learn about how to use it.",
+  "author": {
+    "type": "card",
+    "name": "jlelse's Blog",
+    "url": null,
+    "photo": "https://jlelse.dev/profile-128.jpg",
+    "nickname": "en"
+  },
+  "post-type": "note"
+}
