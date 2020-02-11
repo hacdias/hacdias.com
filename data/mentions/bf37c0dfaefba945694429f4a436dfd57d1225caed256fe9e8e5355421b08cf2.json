@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e41a2bd40efa90007f25dc7/9014e83ea219e650c699e2a1f8a963de",
+    "date": "2020-02-10T18:36:45.000Z",
+    "private": false,
+    "wm-id": 754648,
+    "content": {
+      "text": "That's 7 straight weeks at Metro Stations. You set a new record!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 15
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e41a2bd40efa90007f25dc7/617dac650b8e1a6aed875e606e99f3c4",
+    "date": "2020-02-10T18:36:45.000Z",
+    "private": false,
+    "wm-id": 754649,
+    "content": {
+      "text": "First check-in at Metro Aeroporto [VM]."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e41a2bd40efa90007f25dc7/b5fafe226985561425f99dc9a72f77aa",
+    "date": "2020-02-10T18:36:45.000Z",
+    "private": false,
+    "wm-id": 754650,
+    "content": {
+      "text": "That's 2 check-ins inside Lisbon Humberto Delgado Airport today! Keep going for more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  }
+]

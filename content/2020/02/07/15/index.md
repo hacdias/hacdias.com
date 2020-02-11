@@ -26,6 +26,9 @@ properties:
       region: Antwerp
       street-address: De Keyserlei 11
     type: h-adr
+  photo: >-
+    https://fastly.4sqi.net/img/general/original/476184554_stLVzEEtBAE6uRvmmtogyeouKSxjmXpVZYypfgMSo5E.jpg
   syndication: 'https://www.swarmapp.com/user/476184554/checkin/5e3d5b664b16ba000836e4d4'
+tags: []
 ---
 

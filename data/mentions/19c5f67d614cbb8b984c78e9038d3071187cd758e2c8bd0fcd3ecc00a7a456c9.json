@@ -1,0 +1,50 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e41b834685557000788220e/0a74cf00679a2d71696f698bb31816b8",
+    "date": "2020-02-10T20:08:20.000Z",
+    "private": false,
+    "wm-id": 754644,
+    "content": {
+      "text": "Your first check-in at Prego Gourmet!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e41b834685557000788220e/7a17e9d2e1413c50556c3d8b4bdf9568",
+    "date": "2020-02-10T20:08:20.000Z",
+    "private": false,
+    "wm-id": 754645,
+    "content": {
+      "text": "Your first Steakhouse!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e41b834685557000788220e/22088167c6ea6c6f51995fd3acb6684f",
+    "date": "2020-02-10T20:08:20.000Z",
+    "private": false,
+    "wm-id": 754646,
+    "content": {
+      "text": "Keep checking in to places inside Atrium Saldanha for more coins!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
+  }
+]

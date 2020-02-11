@@ -30,5 +30,37 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d5b664b16ba000836e4d4/8afb2f8b3e62ea5f1dabc83c5aec26f1",
+    "date": "2020-02-07T12:43:18.000Z",
+    "private": false,
+    "wm-id": 754825,
+    "content": {
+      "text": "More photos = more coins 💰"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/c376a4a568cecb013dc7577c32074bba30d492b160df0f4319d7f433ff1d297b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e3d5b664b16ba000836e4d4/901d2062fe377d8f54b57d96cafc0d5b",
+    "date": "2020-02-07T12:43:18.000Z",
+    "private": false,
+    "wm-id": 754826,
+    "content": {
+      "text": "First of your friends to check in here."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 2
   }
 ]
