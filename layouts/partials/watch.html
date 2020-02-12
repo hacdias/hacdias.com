@@ -5,7 +5,6 @@
 {{- end -}}
 
 <p class='copy content e-content e-entry'>
-  {{- if eq $type "movie" -}}🎬{{ else if eq $type "episode" -}}📺{{- end -}}
   Watched
   {{ with $watch.url }}<a target="_blank" rel="noopener noreferrer" href="{{ . }}">{{ end -}}
   {{ $watch.title  }}
