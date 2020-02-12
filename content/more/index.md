@@ -1,5 +1,5 @@
 ---
-date: 2020-01-29T22:22:32.621Z
+date: 2020-02-12T21:25:00.000Z
 menu:
   main:
     weight: 7
@@ -17,6 +17,7 @@ pages that aren't listed here - _paradox_):
 - [Categories](/categories/) (post types: replies, likes, etc)
 - [Lab](/lab/)
 - [Now](/now/)
+- [Pins](/pins/)
 - [Projects](/projects/)
 - [Tags](/tags/)
 - [Uses](/uses/)
