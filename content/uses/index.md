@@ -1,8 +1,10 @@
 ---
 date: 2020-01-28T14:25:25.682Z
 emoji: "\U0001F6E0"
-properties: {}
+properties:
+  published: '2020-02-13T19:58:00.000Z'
 publishDate: 2020-01-21T15:39:00.000Z
+tags: []
 title: Uses
 type: page
 ---
@@ -47,6 +49,7 @@ This is a [uses] page where you can find some of the technology I use. This page
 
 - [Caddy][caddy]
 - [Compass][compass]
+- [OwnYourTrakt][ownyourtrakt]
 
 [uses]: https://uses.tech/
 [vim]: https://www.vim.org/
@@ -61,3 +64,4 @@ This is a [uses] page where you can find some of the technology I use. This page
 [compass]: https://github.com/aaronpk/Compass
 [cloudflare]: https://www.cloudflare.com/
 [dotfiles]: https://github.com/hacdias/dotfiles
+[ownyourtrakt]: https://github.com/hacdias/ownyourtrakt
