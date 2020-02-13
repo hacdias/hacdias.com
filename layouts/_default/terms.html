@@ -35,7 +35,7 @@
 		{{ range $i, $p := .Pages }}
 		{{ $date := $p.Date.Format "2006-01-02" }}
 			<li>
-				<a href='{{ .RelPermalink }}'>{{ $p.Title }} ({{ len $p.Pages }} {{ cond (eq (len $p.Pages) 1) "post" "posts" }})</a>
+				<a href='{{ .RelPermalink }}'>{{ $p.Title }}</a>
 			</li>
 		{{ end }}
 	</ul>
