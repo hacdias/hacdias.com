@@ -1,5 +1,5 @@
 ---
-date: 2020-02-15T18:21:00.000Z
+date: 2020-02-15T18:30:00.000Z
 description: >
   This is a simple page for me to join the nownownow movement. You can find
   information about what I'm doing at the moment and some other curious
@@ -10,13 +10,14 @@ menu:
     weight: 4
 properties: {}
 publishDate: 2020-01-21T15:06:00.000Z
+tags: []
 title: Now
 type: page
 ---
 
-This is a [now](https://nownownow.com/about) page. <span id="info"></span>
+<span id="info"></span>
 
-At the moment, I'm focusing on the following things:
+This is a [now](https://nownownow.com/about) page. Here you can find what I'm focusing right now:
 
 - Getting back to university
 - Improving this website; and
