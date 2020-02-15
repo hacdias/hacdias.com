@@ -7,7 +7,6 @@ description:  >
   at Técnico in Lisbon.
 menu:
   main:
-    name: About
     weight: 1
 ---
 

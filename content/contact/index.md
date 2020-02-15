@@ -4,7 +4,6 @@ title: Contact
 emoji: ✉️
 menu:
   main:
-    name: Contact
     weight: 5
 ---
 
@@ -14,9 +13,9 @@ find me on almost any social media I'm in.
 
 Prefered comunication means:
 
-1. [Telegram][tg].
-2. [Twitter][tw] direct or private message.
-3. [E-mail][mail] for longer conversations or if you don't have any of the above.
+1. [Telegram (@hacdias)][tg].
+2. [Twitter (@hacdias)][tw] direct or private message.
+3. [E-mail (mail@hacdias.com)][mail] for longer conversations or if you don't have any of the above.
 
 ## PGP Key
 
