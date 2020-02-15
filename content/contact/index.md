@@ -9,7 +9,7 @@ menu:
 ---
 
 There are many ways you can contact me privately, but I prefer to keep them to
-on this means. My preferred username is `@hacdias` so that's how you'll able to
+this means. My preferred username is `@hacdias` so that's how you'll able to
 find me on almost any social media I'm in.
 
 Prefered comunication means:
