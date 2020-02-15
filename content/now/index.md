@@ -1,5 +1,5 @@
 ---
-date: 2020-01-30T14:05:45.350Z
+date: 2020-02-15T18:21:00.000Z
 description: >
   This is a simple page for me to join the nownownow movement. You can find
   information about what I'm doing at the moment and some other curious
@@ -18,6 +18,7 @@ This is a [now](https://nownownow.com/about) page. <span id="info"></span>
 
 At the moment, I'm focusing on the following things:
 
+- Getting back to university
 - Improving this website; and
 - Decentralizing the web!
 
