@@ -19,29 +19,24 @@ decentralizing the web.
 
 I believe in the transparency and openness of the web and when creating software so you
 can probably say I'm an Open Source advocate. You can check out my [GitHub profile][gh]
-if you want to know more about what I'm doing right now.
-
-You can also find me on [twitter][tw] and [instagram][ig], or you can always contact me
-by [email][mail]. For the crypto-aware people out there, here you have my PGP [key][pgp].
-For other social networks, try searching for `hacdias` 😃.
-
-In addition, if you're interested in supporting my work, you can [buy me a coffee][bmc]!
+if you want to know more about what I'm doing right now. In addition, if you're interested in
+supporting my work, you can [buy me a coffee][bmc]!
 
 ## 📰 A bit of history
 
-In **2013**, I started working as an **Editor** on [Pplware][2], which is a Portuguese project
+In **2013**, I started working as an **Editor** on [Pplware][pplware], which is a Portuguese project
 that delivers the most recent news about technology to the Portuguese speaking community.
-It has a blog, a forum, a "sell your used stuff" kind of platform and many discussion groups. [Read more →][2]
+It has a blog, a forum, a "sell your used stuff" kind of platform and many discussion groups. [Read more →][pplware]
 
-In late **2016**, I joined a project called [Upframe][3] as _Head of Technology_ in which
+In late **2016**, I joined a project called [Upframe][upframe] as _Head of Technology_ in which
 I had the opportunity to talk and to work with people from different educational backgrounds,
 such as design and economics, to name a few. The goal was to boost the growth of the Portuguese
-technology panorama. [Read more →][3]
+technology panorama. [Read more →][upframe]
 
-In late **2017**, I was offered an Open Source Scholarship at [Protocol Labs][4], which is the
+In late **2017**, I was offered an Open Source Scholarship at [Protocol Labs][pl], which is the
 creator of [IPFS][ipfs] - the InterPlanetary File System, a decentralized and peer-to-peer protocol.
 On this project, my focus relies mostly on IPFS Desktop and WebUI which are graphical interfaces
-to manage a node. [Read more →][4]
+to manage a node. [Read more →][pl]
 
 ## 🤔 The (un)story of my handle
 
@@ -50,14 +45,10 @@ Although, I can assure you they have nothing to do with each other. It was a mer
 between the first letters of my first name and middle names - 'hac' - and last name - 'dias' -
 that I happen to enjoy.
 
-[2]: /2016/09/11/01/pplware
-[3]: /2017/04/11/01/upframe
-[4]: /2019/09/14/01/protocol-labs
+[pplware]: /2016/09/11/01/pplware
+[upframe]: /2017/04/11/01/upframe
+[pl]: /2019/09/14/01/protocol-labs
 [ist]: https://tecnico.ulisboa.pt/en/
 [ipfs]: https://ipfs.io
-[tw]:  https://twitter.com/hacdias
 [gh]: https://github.com/hacdias
-[ig]: https://instagram.com/hacdias
-[mail]: mailto:mail@hacdias.com
-[pgp]: https://keybase.io/hacdias/pgp_keys.asc
 [bmc]: https://www.buymeacoffee.com/hacdias

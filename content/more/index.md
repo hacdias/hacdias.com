@@ -2,23 +2,19 @@
 date: 2020-02-12T21:25:00.000Z
 menu:
   main:
-    weight: 7
+    weight: 6
 properties: {}
 publishDate: 2020-01-25T22:56:00.000Z
 title: More
 ---
 
-Here's the list of all the pages on this website (which might even lead to other
-pages that aren't listed here - _paradox_):
+Here's the list of other pages on this website that are not listed on the visible menus:
 
-- [About](/about/)
 - [Blogroll](/blogroll/)
 - [Books](/books/) - my bookshelf with the books I've read.
-- [Categories](/categories/) (post types: replies, likes, etc)
+- [Categories](/categories/) - post types: replies, likes, etc.
 - [Lab](/lab/)
-- [Now](/now/)
 - [Pins](/pins/)
-- [Projects](/projects/)
 - [Tags](/tags/)
 - [Uses](/uses/)
 
