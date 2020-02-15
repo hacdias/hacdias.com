@@ -1,8 +1,7 @@
 ---
-date: 2020-01-28T14:25:25.682Z
+date: 2020-02-13T19:58:00.000Z
 emoji: "\U0001F6E0"
-properties:
-  published: '2020-02-13T19:58:00.000Z'
+properties: {}
 publishDate: 2020-01-21T15:39:00.000Z
 tags: []
 title: Uses
