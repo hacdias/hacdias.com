@@ -31,6 +31,15 @@
     {{ end}}
   {{ end }}
 
+  {{ if and (eq .Glob.Section "kb") (eq .Mode "single") }}
+  <aside id="toc">
+    <header>
+      <h2>Table of Contents</h2>
+    </header>
+    {{.Glob.TableOfContents}}
+  </aside>
+  {{ end }}
+
   {{ if eq .Glob.Section "reads" }}
     {{ partial "book-status" . }}
   {{ else if eq .Glob.Section "checkins" }}

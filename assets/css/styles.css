@@ -511,3 +511,19 @@ figure.right {
 #dark .invert {
   filter: invert(1);
 }
+
+#toc {
+  padding: 1rem;
+  background: var(--near-white);
+  border: 1px dashed var(--main);
+  color: var(--accent-darker);
+}
+
+#toc h2 {
+  margin-top: 0;
+  text-align: center
+}
+
+#toc ul {
+  margin: 0;
+}
