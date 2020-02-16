@@ -11,19 +11,20 @@
   "feed_url": "{{ .Permalink }}feed.json",
 	"author": {
 		"name": "{{ .Site.Author.name }}",
-		"url": "{{ .Site.Author.link }}"
+		"url": "{{ .Site.Author.url }}",
+		"avatar": "{{ .Site.Author.avatar }}"
   },
   "items": [
     {{ range $index, $pages := $pages }}
     {{ if ge $index 1 }}, {{end}}{
+      {{ with .Params.tags }}"tags": {{ . | jsonify }},{{ end }}
       "id": "{{ .Permalink }}",
       "url": "{{ .Permalink }}",
       "title": {{ .Title | jsonify }},
       "content_html": {{ .Content | jsonify }},
       "summary": {{ .Summary | jsonify }},
       "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
-      "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }},
-      "tags": {{ or .Params.tags (slice) | jsonify }}
+      "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }}
     }
     {{ end }}
   ]

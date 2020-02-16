@@ -15,7 +15,8 @@ disableAliases: true
 
 author:
   name: Henrique Dias
-  link: https://hacdias.com
+  avatar: https://hacdias.com/me-256.jpg
+  url: https://hacdias.com
 
 social:
   twitter: hacdias
