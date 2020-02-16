@@ -1,12 +1,13 @@
 ---
-date: 2020-02-12T21:25:00.000Z
+date: 2020-02-16T10:50:00.000Z
 menu:
   main:
     weight: 6
 properties: {}
 publishDate: 2020-01-25T22:56:00.000Z
-type:  page
+tags: []
 title: More
+type: page
 ---
 
 Here's the list of other pages on this website that are not listed on the visible menus:
@@ -29,7 +30,7 @@ Here's the list of other pages on this website that are not listed on the visibl
 
 ## Feeds
 
-All listing pages, such as any category (notes, replies, etc) and any tag have two
+All listing pages, such as any category (notes, articles, etc) and any tag have two
 feeds attached: a JSON and a RSS one. You can access them by appending `/feed.json`
 for the JSON feed, or `/feed.xml` for the RSS feed.
 
