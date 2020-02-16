@@ -1,8 +1,7 @@
 {{ define "main" }}
 
 <main role='main'>
-  {{ $type := (lower (index (or .Page.Params.categories (slice "")) 0 )) }}
-  {{ $data := (dict "Glob" . "Type" $type "Mode" "single") }}
+  {{ $data := (dict "Glob" . "Mode" "single") }}
   {{ partial "post" $data }}
 </main>
 

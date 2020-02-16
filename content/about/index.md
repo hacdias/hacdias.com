@@ -44,9 +44,9 @@ Although, I can assure you they have nothing to do with each other. It was a mer
 between the first letters of my first name and middle names - 'hac' - and last name - 'dias' -
 that I happen to enjoy.
 
-[pplware]: /2016/09/11/01/pplware
-[upframe]: /2017/04/11/01/upframe
-[pl]: /2019/09/14/01/protocol-labs
+[pplware]: /articles/2016/09/11/1/pplware/
+[upframe]: /articles/2017/04/11/1/upframe/
+[pl]: /articles/2019/09/14/1/protocol-labs/
 [ist]: https://tecnico.ulisboa.pt/en/
 [ipfs]: https://ipfs.io
 [gh]: https://github.com/hacdias

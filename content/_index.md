@@ -1,6 +1,11 @@
 ---
 title: Henrique Dias (@hacdias)
 hideTitle: true
+categoriesToShow:
+  - notes
+  - articles
+  - replies
+  - reads
 ---
 
 **Hi!** 👋 I'm Henrique and I'm a 20 years-old Computer Engineering student and technology enthusiast in Lisbon.

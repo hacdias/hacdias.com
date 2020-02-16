@@ -12,7 +12,6 @@ enableRobotsTXT: true
 pygmentsCodeFences: true
 summaryLength: 150
 
-
 author:
   name: Henrique Dias
   link: https://hacdias.com
@@ -26,8 +25,8 @@ params:
     Hi there! I'm Henrique and I'm a B.Sc. student in Information Systems and Computer.
     Currently working at Protocol Labs on decentralizing the web.
 
-permalinks:
-  categories: /:slug
+taxonomies:
+  tag: tags
 
 markup:
   goldmark:

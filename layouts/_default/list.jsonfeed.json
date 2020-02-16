@@ -1,4 +1,4 @@
-{{- $pages := (partial "get-pages" .) -}}
+{{- $pages := (partialCached "get-pages" . .Type .IsHome .Title) -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}

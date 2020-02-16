@@ -27,7 +27,7 @@
 {{- end }}
 {{- .Page.Scratch.Set "has-books-styles" true -}}
 
-{{- $books := sort (.Site.Taxonomies.categories.reads).Pages "Date" "desc" -}}
+{{- $books := sort (where .Site.RegularPages ".Type" "eq" "reads") "Date" "desc" -}}
 {{- $type := .Get "type" -}}
 {{- $scratchBook := newScratch -}}
 {{- $scratchBook.Add "books" slice -}}

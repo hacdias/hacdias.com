@@ -10,10 +10,9 @@
 	{{- end }}
 
 	<div class='h-feed'>
-		{{- $paginator := .Paginate (partial "get-pages" .) -}}
+		{{- $paginator := .Paginate (partialCached "get-pages" . .Type .IsHome .Title) -}}
 		{{- range .Paginator.Pages -}}
-			{{- $type := (lower (index (or .Params.categories (slice "")) 0 )) -}}
-			{{- $data := (dict "Glob" . "Type" $type "Mode" "list") -}}
+			{{- $data := (dict "Glob" . "Mode" "list") -}}
 			{{- partial "post" $data -}}
 		{{- end -}}
 	</div>

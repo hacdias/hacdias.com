@@ -1,9 +1,0 @@
----
-categories:
-  - replies
-date: 2020-01-30T22:21:16.521Z
-properties:
-  in-reply-to: 'https://jlelse.blog/thoughts/2020/01/telegram-features/'
----
-
-Uh! That's pretty awesome. In my case, over 50% of the people I talk every day are not on telegram. I've convinced some (including my parents!) with the arguments you mentioned, but others are just to lazy to change or they don't bother about the eventual benefits even if they complain about things that Telegram would solve when compared to other services: storage usage is my favorite point here. Also, cross-platform syncing and not losing everything just because you changed systems...
