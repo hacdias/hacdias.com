@@ -47,5 +47,21 @@
       "url": "https://swarmapp.com/"
     },
     "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e429a8b0da4e00009e2bb46/c3ff673a045db95a1cbe616ba260385e",
+    "date": "2020-02-11T12:14:03.000Z",
+    "private": false,
+    "wm-id": 754897,
+    "content": {
+      "text": "First check-in at Pingo Doce."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
   }
 ]
