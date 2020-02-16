@@ -11,6 +11,7 @@ relativeURLs: true
 enableRobotsTXT: true
 pygmentsCodeFences: true
 summaryLength: 150
+disableAliases: true
 
 author:
   name: Henrique Dias
@@ -28,6 +29,10 @@ params:
 taxonomies:
   tag: tags
 
+module:
+  imports:
+  - path: github.com/hacdias/hugo-caddy-redirs
+
 markup:
   goldmark:
     renderer:
@@ -40,11 +45,6 @@ outputFormats:
     mediaType: application/json
     baseName: feed
     isPlainText: true
-  redir:
-    mediaType: text/plain
-    baseName: redirects
-    isPlainText: true
-    notAlternative: true
 
 outputs:
   home:
