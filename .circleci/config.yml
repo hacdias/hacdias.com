@@ -2,13 +2,9 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/golang:latest
+      - image: quay.io/jlelse/hugo
     working_directory: ~/hugo
     steps:
-      - run: sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
-      - run: echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >>~/.profile
-      - run: eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
-      - run: brew install hugo
       - checkout
       - run: hugo --gc --minify
       - persist_to_workspace:
