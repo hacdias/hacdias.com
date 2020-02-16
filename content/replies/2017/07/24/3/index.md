@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/24/32/
 date: 2017-07-24T18:57:45.000Z
 properties:
   in-reply-to: 'https://twitter.com/WHY_CHANNEL/status/889559730884050944'

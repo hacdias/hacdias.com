@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/11/15/1/
+  - /2015/11/15/01/verdades-incognitas/
+  - /2015/11/15/01/
+  - /2015/11/verdades-incognitas/
+  - /blog/2015/11/verdades-incognitas/
+  - /blog/verdades-incognitas/
 date: 2015-11-15T13:45:00.000Z
 description: >-
   Estou a dormir. Ponto. Eu sei que estou a dormir. Sim, eu sei que mais tarde

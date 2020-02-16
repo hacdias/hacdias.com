@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2004/04/02/5/
 date: 2004-04-02T00:00:00.000Z
 properties:
   watch-of:

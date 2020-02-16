@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/03/22/08/
 date: 2018-03-22T08:30:46.000Z
 properties:
   in-reply-to: 'https://twitter.com/dcacho23/status/976661933331025932'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/09/11/02/
 date: 2017-09-11T16:02:30.000Z
 properties:
   photo: DJdIHBkWAAAydKO.jpg

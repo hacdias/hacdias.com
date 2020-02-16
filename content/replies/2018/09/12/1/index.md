@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/09/12/03/
 date: 2018-09-12T20:04:06.000Z
 properties:
   in-reply-to: 'https://twitter.com/inboxbygmail/status/1039952354450309121'

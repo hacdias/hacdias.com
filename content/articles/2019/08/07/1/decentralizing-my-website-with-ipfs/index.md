@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2019/08/07/1/
+  - /2019/08/07/01/decentralizing-my-website-with-ipfs/
+  - /2019/08/07/01/
+  - /2019/08/decentralizing-my-website-with-ipfs/
+  - /blog/2019/08/decentralizing-my-website-with-ipfs/
+  - /blog/decentralizing-my-website-with-ipfs/
 date: 2019-08-07T18:45:00.000Z
 description: >-
   How does my website work with IPFS? Where does the content go? What happens

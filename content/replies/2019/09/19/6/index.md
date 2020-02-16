@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/19/23/
 date: 2019-09-19T16:13:24.000Z
 properties:
   in-reply-to: 'https://twitter.com/machawk1/status/1174716220773257222'

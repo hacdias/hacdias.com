@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/04/06/1/
+  - /2015/04/06/01/3-things-i-would-like-to-be/
+  - /2015/04/06/01/
+  - /2015/04/3-things-i-would-like-to-be/
+  - /blog/2015/04/3-things-i-would-like-to-be/
+  - /blog/3-things-i-would-like-to-be/
 date: 2015-04-06T20:05:27.000Z
 description: >-
   I don't want to be just one thing. Where's the fun of being just one thing?

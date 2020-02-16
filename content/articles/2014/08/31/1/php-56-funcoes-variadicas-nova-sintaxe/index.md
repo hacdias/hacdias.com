@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/08/31/1/
+  - /2014/08/31/01/php-56-funcoes-variadicas-nova-sintaxe/
+  - /2014/08/31/01/
+  - /2014/08/php-56-funcoes-variadicas-nova-sintaxe/
+  - /blog/2014/08/php-56-funcoes-variadicas-nova-sintaxe/
+  - /blog/php-56-funcoes-variadicas-nova-sintaxe/
 date: 2014-08-31T09:37:05.000Z
 description: >-
   O PHP 5.6.0 trouxe aos desenvolvedores novas funcionalidades e formas de

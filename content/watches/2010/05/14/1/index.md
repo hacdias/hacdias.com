@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2010/05/14/5/
 date: 2010-05-14T00:00:00.000Z
 properties:
   watch-of:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2000/05/01/5/
 date: 2000-05-01T00:00:00.000Z
 properties:
   watch-of:

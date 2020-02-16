@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/07/22/1/
+  - /2014/07/22/01/operador-ternario/
+  - /2014/07/22/01/
+  - /2014/07/operador-ternario/
+  - /blog/2014/07/operador-ternario/
+  - /blog/operador-ternario/
 color: '#333437'
 date: 2014-07-22T09:08:08.000Z
 description: >-

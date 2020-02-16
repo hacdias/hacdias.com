@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/07/10/01/
 date: 2019-07-10T22:38:21.000Z
 properties:
   repost-of: 'https://twitter.com/erinfranmc/status/1148986961207730176'

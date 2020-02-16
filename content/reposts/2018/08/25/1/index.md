@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/08/25/09/
 date: 2018-08-25T22:00:43.000Z
 properties:
   repost-of: 'https://twitter.com/hecturchi/status/1033074533551538176'

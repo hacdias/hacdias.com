@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/05/14/02/
 date: 2019-05-14T18:37:49.000Z
 properties:
   in-reply-to: 'https://twitter.com/Punk__R0ck/status/1128367846713700352'

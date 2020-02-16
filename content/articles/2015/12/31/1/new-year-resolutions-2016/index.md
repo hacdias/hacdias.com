@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/12/31/1/
+  - /2015/12/31/01/new-year-resolutions-2016/
+  - /2015/12/31/01/
+  - /2015/12/new-year-resolutions-2016/
+  - /blog/2015/12/new-year-resolutions-2016/
+  - /blog/new-year-resolutions-2016/
 color: '#212121'
 date: 2015-12-31T12:00:00.000Z
 description: >-

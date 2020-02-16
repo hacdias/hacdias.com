@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/07/28/03/
 date: 2018-07-28T11:07:30.000Z
 properties:
   repost-of: 'https://twitter.com/Whyrusleeping/status/1023116433113247746'

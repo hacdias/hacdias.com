@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/24/27/
 date: 2017-07-24T16:18:16.000Z
 properties:
   repost-of: 'https://twitter.com/andr3/status/689418927835770880'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/30/5/
 date: 2020-01-30T22:21:16.521Z
 properties:
   in-reply-to: 'https://jlelse.blog/thoughts/2020/01/telegram-features/'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/08/23/01/
 date: 2019-08-23T18:38:52.000Z
 properties:
   repost-of: 'https://twitter.com/markdalgleish/status/1164760351914618880'

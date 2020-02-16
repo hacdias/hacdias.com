@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/08/07/09/
 date: 2019-08-07T20:55:13.000Z
 properties:
   in-reply-to: 'https://twitter.com/tomayac/status/1159203126966136839'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/01/17/09/
 date: 2018-01-17T21:27:06.000Z
 properties:
   photo: DTxd4vEXUAU79NR.jpg

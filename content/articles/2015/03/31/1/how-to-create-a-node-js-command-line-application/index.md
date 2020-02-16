@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/03/31/1/
+  - /2015/03/31/01/how-to-create-a-node-js-command-line-application/
+  - /2015/03/31/01/
+  - /2015/03/how-to-create-a-node-js-command-line-application/
+  - /blog/2015/03/how-to-create-a-node-js-command-line-application/
+  - /blog/how-to-create-a-node-js-command-line-application/
 date: 2015-03-31T18:55:49.000Z
 description: >-
   Node.js is one of the trends in the programming world. Let's learn how to

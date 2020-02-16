@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2020/01/20/2/
+  - /2020/01/20/5/movie-telnet/
+  - /2020/01/20/5/
 date: 2020-01-20T22:23:22.202Z
 properties: {}
 tags:

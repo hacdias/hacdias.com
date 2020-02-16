@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/19/18/
 date: 2019-09-19T21:49:26.000Z
 properties:
   in-reply-to: 'https://twitter.com/TrailMarks/status/1174776551818313728'

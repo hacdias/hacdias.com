@@ -1,6 +1,10 @@
 ---
 aliases:
   - /articles/2015/02/25/1/
+  - /2015/02/25/01/aprenda-a-programar/
+  - /2015/02/25/01/
+  - /2015/02/aprenda-a-programar/
+  - /projects/aprenda-a-programar/
 date: 2015-02-25T12:10:00.000Z
 description: >
   In 2015, with only 15 years old, I wrote an ebook teaching how to program in

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2013/03/05/5/
 date: 2013-03-05T01:30:00.000Z
 properties:
   watch-of:

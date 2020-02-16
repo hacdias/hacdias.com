@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/06/21/01/
 date: 2019-06-21T06:47:17.000Z
 properties:
   repost-of: 'https://twitter.com/JaneScott/status/1141730005203865606'

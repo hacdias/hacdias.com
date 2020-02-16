@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/08/25/13/
 date: 2018-08-25T08:24:05.000Z
 properties:
   photo:

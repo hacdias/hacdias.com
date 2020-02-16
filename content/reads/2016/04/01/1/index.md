@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2016/04/01/3/
 date: 2016-03-31T23:00:00.000Z
 properties:
   read-of:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/30/4/
 date: 2020-01-30T20:13:26.617Z
 properties:
   in-reply-to: 'https://jlelse.blog/links/2020/01/whatsapp-dangerous/'

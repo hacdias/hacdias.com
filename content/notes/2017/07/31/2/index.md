@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/31/12/
 date: 2017-07-31T16:34:15.000Z
 properties:
   photo: DGE8mlnWsAAWSXv.jpg

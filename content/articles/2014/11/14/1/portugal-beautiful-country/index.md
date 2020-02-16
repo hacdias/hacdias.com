@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/11/14/1/
+  - /2014/11/14/01/portugal-beautiful-country/
+  - /2014/11/14/01/
+  - /2014/11/portugal-beautiful-country/
+  - /blog/2014/11/portugal-beautiful-country/
+  - /blog/portugal-beautiful-country/
 color: '#7e9fcf'
 date: 2014-11-14T20:34:01.000Z
 description: >-

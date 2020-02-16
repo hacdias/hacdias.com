@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/07/11/02/
 date: 2018-07-11T06:26:32.000Z
 properties:
   in-reply-to: 'https://twitter.com/TheMrKiko/status/1016816782110347264'

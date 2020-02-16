@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/17/07/
 date: 2018-02-17T22:57:31.000Z
 properties:
   repost-of: 'https://twitter.com/samantha_ming/status/964977650375696384'

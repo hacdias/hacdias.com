@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/23/48/
 date: 2017-07-23T10:21:06.000Z
 properties:
   in-reply-to: 'https://twitter.com/Fardokbk/status/888807675525574661'

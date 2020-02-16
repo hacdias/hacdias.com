@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/22/2/
 date: 2020-01-22T09:33:03.207Z
 properties:
   in-reply-to: 'https://jlelse.blog/micro/2020/01/2020-01-22-fryan/'

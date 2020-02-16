@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/25/10/
 date: 2018-02-25T12:37:15.000Z
 properties:
   in-reply-to: 'https://twitter.com/rgllm/status/967726170744778752'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/02/11/5/
 date: 2020-02-11T13:58:19.007Z
 properties:
   in-reply-to: 'https://jlelse.blog/dev/activitystreams-hugo/'

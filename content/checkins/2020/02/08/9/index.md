@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/02/08/18/
 checkinWith:
   - properties:
       name:

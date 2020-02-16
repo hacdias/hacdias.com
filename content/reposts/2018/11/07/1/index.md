@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/11/07/01/
 date: 2018-11-07T22:12:30.000Z
 properties:
   repost-of: 'https://twitter.com/DTNConf/status/1059928926800080896'

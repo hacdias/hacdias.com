@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/10/16/02/
 date: 2019-10-15T23:08:11.000Z
 properties:
   in-reply-to: 'https://twitter.com/GitHubEducation/status/1173997632978608128'

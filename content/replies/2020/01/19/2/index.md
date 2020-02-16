@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/19/6/
 date: 2020-01-19T22:49:57.992Z
 properties:
   in-reply-to: 'https://twitter.com/regouga/status/1219028097770688514'

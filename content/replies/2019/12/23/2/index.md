@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/12/23/15/
 date: 2019-12-23T08:15:29.000Z
 properties:
   in-reply-to: 'https://twitter.com/JohnGrandson/status/1208899615598292993'

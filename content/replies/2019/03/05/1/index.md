@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/03/05/01/
 date: 2019-03-05T17:53:40.000Z
 properties:
   in-reply-to: 'https://twitter.com/DanielSil30/status/1102990349826433024'

@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2019/12/30/2/
+  - /2019/12/30/05/webmention-test/
+  - /2019/12/30/05/
 date: 2019-12-30T21:33:23.650Z
 properties: {}
 tags:

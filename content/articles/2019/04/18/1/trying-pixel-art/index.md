@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2019/04/18/1/
+  - /2019/04/18/01/trying-pixel-art/
+  - /2019/04/18/01/
+  - /2019/04/trying-pixel-art/
+  - /blog/2019/04/trying-pixel-art/
+  - /blog/trying-pixel-art/
 date: 2019-04-18T00:00:00.000Z
 description: >
   Recently I've been wanting to try out more things in my life. And one of them

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/25/30/
 date: 2017-07-25T12:26:48.000Z
 properties:
   in-reply-to: 'https://twitter.com/ThePracticalDev/status/889812487721410564'

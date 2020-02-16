@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/04/19/04/
 date: 2019-04-18T23:07:33.000Z
 properties:
   photo: D4eJ4CkWsAALLOx.jpg

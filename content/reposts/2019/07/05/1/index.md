@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/07/05/06/
 date: 2019-07-05T18:23:14.000Z
 properties:
   repost-of: 'https://twitter.com/stphndrt/status/1147207415626194944'

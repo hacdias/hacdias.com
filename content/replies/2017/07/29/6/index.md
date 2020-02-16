@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/29/16/
 date: 2017-07-29T06:26:41.000Z
 properties:
   in-reply-to: 'https://twitter.com/richturn_ms/status/891045519555928064'

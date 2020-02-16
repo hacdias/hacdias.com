@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/02/06/
 date: 2019-09-02T18:33:30.000Z
 properties:
   in-reply-to: /replies/2019/09/02/4/

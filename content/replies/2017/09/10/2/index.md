@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/09/10/06/
 date: 2017-09-10T18:24:03.000Z
 properties:
   in-reply-to: 'https://twitter.com/Sapragus/status/906944774086721536'

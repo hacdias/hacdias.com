@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/02/17/01/
 date: 2019-02-17T10:53:16.000Z
 properties:
   repost-of: 'https://twitter.com/Felipether/status/1096592894964699136'

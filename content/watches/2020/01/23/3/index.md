@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/23/12/
 date: 2020-01-23T10:55:50.000Z
 properties:
   watch-of:

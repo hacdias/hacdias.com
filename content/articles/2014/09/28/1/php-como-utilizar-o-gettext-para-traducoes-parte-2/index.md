@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/09/28/1/
+  - /2014/09/28/01/php-como-utilizar-o-gettext-para-traducoes-parte-2/
+  - /2014/09/28/01/
+  - /2014/09/php-como-utilizar-o-gettext-para-traducoes-parte-2/
+  - /blog/2014/09/php-como-utilizar-o-gettext-para-traducoes-parte-2/
+  - /blog/php-como-utilizar-o-gettext-para-traducoes-parte-2/
 date: 2014-09-28T15:06:47.000Z
 description: >-
   Depois de termos ensinado a configurar o plugin php-gettext com o PHP, agora é

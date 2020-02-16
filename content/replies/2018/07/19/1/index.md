@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/07/19/02/
 date: 2018-07-19T08:43:46.000Z
 properties:
   in-reply-to: 'https://twitter.com/textileio/status/1019634108354449409'

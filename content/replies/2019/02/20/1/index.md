@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/02/20/02/
 date: 2019-02-20T10:06:20.000Z
 properties:
   in-reply-to: 'https://twitter.com/nickfost_/status/1097871079496998912'

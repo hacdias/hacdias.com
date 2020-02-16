@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/25/23/
 date: 2017-07-25T13:26:58.000Z
 properties:
   repost-of: 'https://twitter.com/engadget/status/889839162685370368'

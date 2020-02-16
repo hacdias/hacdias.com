@@ -1,6 +1,10 @@
 ---
 aliases:
   - /articles/2016/06/10/1/
+  - /2016/06/10/01/filebrowser/
+  - /2016/06/10/01/
+  - /2016/06/filebrowser/
+  - /projects/filebrowser/
 date: 2016-06-10T12:10:00.000Z
 description: >
   File Browser provides a file managing interface within a specified directory

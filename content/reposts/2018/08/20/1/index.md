@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/08/20/01/
 date: 2018-08-20T09:44:33.000Z
 properties:
   repost-of: 'https://twitter.com/iliketomakestuf/status/1031326223069274112'

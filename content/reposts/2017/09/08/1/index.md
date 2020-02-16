@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/09/08/12/
 date: 2017-09-08T15:50:40.000Z
 properties:
   repost-of: 'https://twitter.com/pierangelo1982/status/906180931869868033'

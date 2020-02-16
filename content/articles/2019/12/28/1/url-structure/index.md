@@ -1,6 +1,8 @@
 ---
 aliases:
   - /articles/2019/12/28/1/
+  - /2019/12/28/06/url-structure/
+  - /2019/12/28/06/
 date: 2019-12-28T15:30:00.000Z
 description: >
   Data is a topic I've been wanting to write about for quite some time. Do we

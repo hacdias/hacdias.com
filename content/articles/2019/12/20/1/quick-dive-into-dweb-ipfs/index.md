@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2019/12/20/1/
+  - /2019/12/20/01/quick-dive-into-dweb-ipfs/
+  - /2019/12/20/01/
+  - /2019/12/quick-dive-into-dweb-ipfs/
+  - /blog/2019/12/quick-dive-into-dweb-ipfs/
+  - /blog/quick-dive-into-dweb-ipfs/
 date: 2019-12-20T15:00:00.000Z
 description: >
   I gave my first talk ever on BarcampLX #4 and I gave an introduction to the

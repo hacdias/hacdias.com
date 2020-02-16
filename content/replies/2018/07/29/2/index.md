@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/07/29/11/
 date: 2018-07-29T10:55:44.000Z
 properties:
   in-reply-to: 'https://twitter.com/98MigRocha/status/1023507456759087104'

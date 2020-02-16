@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/28/5/
 date: 2020-01-28T13:30:57.532Z
 properties:
   in-reply-to: 'https://jlelse.blog/micro/2020/01/2020-01-28-ohlec/'

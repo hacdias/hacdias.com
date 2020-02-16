@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/24/33/
 date: 2017-07-24T18:52:10.000Z
 properties:
   in-reply-to: 'https://twitter.com/engadget/status/889556530135269376'

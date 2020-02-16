@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/08/29/1/
+  - /2014/08/29/01/truques-dicas-em-php/
+  - /2014/08/29/01/
+  - /2014/08/truques-dicas-em-php/
+  - /blog/2014/08/truques-dicas-em-php/
+  - /blog/truques-dicas-em-php/
 date: 2014-08-29T16:47:20.000Z
 description: >-
   A linguagem de programação PHP é das mais utilizadas atualmente do lado do

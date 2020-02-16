@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/09/12/01/
 date: 2017-09-12T07:39:53.000Z
 properties:
   in-reply-to: 'https://twitter.com/juauz/status/907508764898680832'

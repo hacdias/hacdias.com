@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/07/30/1/
+  - /2014/07/30/01/criar-identificadores-unicos-php/
+  - /2014/07/30/01/
+  - /2014/07/criar-identificadores-unicos-php/
+  - /blog/2014/07/criar-identificadores-unicos-php/
+  - /blog/criar-identificadores-unicos-php/
 date: 2014-07-30T08:34:52.000Z
 description: >-
   Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo.

@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/02/11/1/
+  - /2015/02/11/01/i-have-moved-again/
+  - /2015/02/11/01/
+  - /2015/02/i-have-moved-again/
+  - /blog/2015/02/i-have-moved-again/
+  - /blog/i-have-moved-again/
 date: 2015-02-11T22:19:40.000Z
 description: >-
   I have moved, again. From now until the end of the times, coxpe.com and

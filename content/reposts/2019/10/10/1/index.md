@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/10/10/07/
 date: 2019-10-10T15:19:25.000Z
 properties:
   repost-of: 'https://twitter.com/dietrich/status/1181796318504607745'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/02/07/
 date: 2019-09-02T18:31:28.000Z
 properties:
   in-reply-to: 'https://twitter.com/ana_ccsoares/status/1168592128785735680'

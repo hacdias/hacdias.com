@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/01/26/1/
+  - /2015/01/26/01/postura-perante-matematica/
+  - /2015/01/26/01/
+  - /2015/01/postura-perante-matematica/
+  - /blog/2015/01/postura-perante-matematica/
+  - /blog/postura-perante-matematica/
 color: '#264059'
 date: 2015-01-26T00:00:00.000Z
 description: >-

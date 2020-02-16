@@ -1,6 +1,10 @@
 ---
 aliases:
   - /articles/2015/09/12/1/
+  - /2015/09/12/01/caddy-plugins/
+  - /2015/09/12/01/
+  - /2015/09/caddy-plugins/
+  - /projects/caddy-plugins/
 date: 2015-09-12T12:10:00.000Z
 description: >
   Caddy is a lightweight, fast, general-purpose, cross-platform HTTP/2 web

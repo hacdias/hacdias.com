@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/11/03/01/
 date: 2018-11-03T22:16:01.000Z
 properties:
   repost-of: 'https://twitter.com/momack28/status/1058029407229497344'

@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2020/01/30/2/
+  - /2020/01/30/12/dead-deadlock/
+  - /2020/01/30/12/
 date: 2020-01-30T23:45:37.147Z
 properties:
   location: 'geo:38.74488,-9.13456;u=5088'

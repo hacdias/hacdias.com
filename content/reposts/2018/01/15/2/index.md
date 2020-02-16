@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/01/15/06/
 date: 2018-01-15T19:43:37.000Z
 properties:
   repost-of: 'https://twitter.com/Lilobase/status/952504781515509761'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/08/30/03/
 date: 2019-08-30T15:59:46.000Z
 properties:
   repost-of: 'https://twitter.com/dzesika/status/1167463176553713665'

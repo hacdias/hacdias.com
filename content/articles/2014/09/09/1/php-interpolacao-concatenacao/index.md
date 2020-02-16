@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/09/09/1/
+  - /2014/09/09/01/php-interpolacao-concatenacao/
+  - /2014/09/09/01/
+  - /2014/09/php-interpolacao-concatenacao/
+  - /blog/2014/09/php-interpolacao-concatenacao/
+  - /blog/php-interpolacao-concatenacao/
 date: 2014-09-09T15:19:43.000Z
 description: >-
   Já pensou em qual a melhor forma para inserir variáveis dentro de strings? A

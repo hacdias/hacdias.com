@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2016/03/05/1/
+  - /2016/03/05/01/hello-world/
+  - /2016/03/05/01/
+  - /2016/03/hello-world/
+  - /blog/2016/03/hello-world/
+  - /blog/hello-world/
 date: 2016-03-05T10:25:00.000Z
 description: >-
   This is the first newsletter issue I'm writing. Today, I leave you with some

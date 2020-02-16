@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/22/7/
 date: 2020-01-22T14:16:31.926Z
 properties:
   in-reply-to: 'https://aaronparecki.com/2020/01/22/1/'

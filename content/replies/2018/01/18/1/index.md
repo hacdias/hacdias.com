@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/01/18/04/
 date: 2018-01-18T08:17:50.000Z
 properties:
   in-reply-to: 'https://twitter.com/iAWriter/status/953902581453021184'

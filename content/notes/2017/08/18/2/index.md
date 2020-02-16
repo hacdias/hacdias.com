@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/08/18/06/
 date: 2017-08-18T09:56:00.000Z
 properties:
   photo: DHgN9cUXsAEm4Oe.jpg

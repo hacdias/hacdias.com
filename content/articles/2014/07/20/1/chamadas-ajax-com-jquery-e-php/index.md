@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/07/20/1/
+  - /2014/07/20/01/chamadas-ajax-com-jquery-e-php/
+  - /2014/07/20/01/
+  - /2014/07/chamadas-ajax-com-jquery-e-php/
+  - /blog/2014/07/chamadas-ajax-com-jquery-e-php/
+  - /blog/chamadas-ajax-com-jquery-e-php/
 date: 2014-07-20T10:41:11.000Z
 description: >-
   Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder

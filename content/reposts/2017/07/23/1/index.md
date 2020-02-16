@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/23/27/
 date: 2017-07-23T13:01:39.000Z
 properties:
   repost-of: 'https://twitter.com/Spotify/status/889107847648333826'

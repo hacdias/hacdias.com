@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/11/07/1/
+  - /2014/11/07/01/the-society-and-the-objects/
+  - /2014/11/07/01/
+  - /2014/11/the-society-and-the-objects/
+  - /blog/2014/11/the-society-and-the-objects/
+  - /blog/the-society-and-the-objects/
 color: '#be3839'
 date: 2014-11-07T20:28:27.000Z
 description: >-

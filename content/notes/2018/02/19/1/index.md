@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/19/02/
 date: 2018-02-19T17:31:05.000Z
 properties:
   photo: DWakRJzX0AA-9G3.jpg

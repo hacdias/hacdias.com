@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/16/08/
 date: 2018-02-16T20:12:40.000Z
 properties:
   in-reply-to: 'https://twitter.com/andybons/status/964593056837140480'

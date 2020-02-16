@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/02/28/1/
+  - /2015/02/28/01/o-rei-que-tudo-perdeu/
+  - /2015/02/28/01/
+  - /2015/02/o-rei-que-tudo-perdeu/
+  - /blog/2015/02/o-rei-que-tudo-perdeu/
+  - /blog/o-rei-que-tudo-perdeu/
 date: 2015-02-28T16:00:38.000Z
 description: >-
   Por vezes, a vontade de escrever é tanta que as letras deslizam pelo papel.

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/04/19/02/
 date: 2019-04-19T12:51:05.000Z
 properties:
   in-reply-to: /notes/2019/04/19/1/

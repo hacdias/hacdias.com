@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/08/26/1/
+  - /2015/08/26/01/portugal-amazing-country/
+  - /2015/08/26/01/
+  - /2015/08/portugal-amazing-country/
+  - /blog/2015/08/portugal-amazing-country/
+  - /blog/portugal-amazing-country/
 color: '#24768a'
 date: 2015-08-26T22:40:00.000Z
 description: >-

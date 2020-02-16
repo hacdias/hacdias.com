@@ -1,6 +1,9 @@
 ---
 aliases:
   - /articles/2019/12/24/1/
+  - /2019/12/24/01/own-your-data/
+  - /2019/12/24/01/
+  - /2019/12/own-your-data/
 date: 2019-12-24T20:00:00.000Z
 description: >
   Data is a topic I've been wanting to write about for quite some time. Do we

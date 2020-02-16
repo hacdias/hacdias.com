@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/23/35/
 date: 2017-07-23T13:57:07.000Z
 properties:
   in-reply-to: 'https://twitter.com/efemoney_/status/889121946033696768'

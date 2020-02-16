@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/12/27/04/
 date: 2019-12-27T13:59:59.679Z
 description: null
 properties:

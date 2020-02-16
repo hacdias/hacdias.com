@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/12/29/06/
 date: 2019-12-29T16:09:34.158Z
 properties:
   in-reply-to: 'https://aaronparecki.com/2018/06/30/11/your-first-webmention'

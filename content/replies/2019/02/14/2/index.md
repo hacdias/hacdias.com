@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/02/14/07/
 date: 2019-02-14T15:23:53.000Z
 properties:
   in-reply-to: 'https://twitter.com/clerigo/status/1096062158281105410'

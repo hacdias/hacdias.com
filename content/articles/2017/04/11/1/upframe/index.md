@@ -1,6 +1,10 @@
 ---
 aliases:
   - /articles/2017/04/11/1/
+  - /2017/04/11/01/upframe/
+  - /2017/04/11/01/
+  - /2017/04/upframe/
+  - /projects/upframe/
 date: 2017-04-11T12:10:00.000Z
 description: >
   Upframe aims to become a global reference and authority in pre-acceleration,

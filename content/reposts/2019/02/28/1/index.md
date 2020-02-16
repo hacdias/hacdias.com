@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/02/28/01/
 date: 2019-02-28T15:42:35.000Z
 properties:
   repost-of: 'https://twitter.com/IPFSbot/status/1101145543189975042'

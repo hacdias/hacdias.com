@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/08/13/07/
 date: 2017-08-13T19:53:31.000Z
 properties:
   in-reply-to: 'https://twitter.com/levelsio/status/895180870927233024'

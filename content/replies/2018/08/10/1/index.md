@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/08/10/01/
 date: 2018-08-10T17:45:36.000Z
 properties:
   in-reply-to: 'https://twitter.com/travisci/status/1027971845851684864'

@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/08/14/1/
+  - /2014/08/14/01/guardar-os-erros-php-num-ficheiro-com-o-htaccess/
+  - /2014/08/14/01/
+  - /2014/08/guardar-os-erros-php-num-ficheiro-com-o-htaccess/
+  - /blog/2014/08/guardar-os-erros-php-num-ficheiro-com-o-htaccess/
+  - /blog/guardar-os-erros-php-num-ficheiro-com-o-htaccess/
 date: 2014-08-14T10:41:38.000Z
 description: >-
   Explicamos como fazer a listagem em log de todos os erros produzidos pela

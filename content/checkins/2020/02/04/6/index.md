@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/02/04/14/
 date: 2020-02-04T12:33:18.000Z
 properties:
   checkin:

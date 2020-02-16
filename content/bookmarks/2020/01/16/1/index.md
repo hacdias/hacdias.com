@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/16/2/
 date: 2020-01-16T20:16:20.594Z
 properties:
   bookmark-of: >-

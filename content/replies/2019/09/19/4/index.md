@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/19/21/
 date: 2019-09-19T17:37:48.000Z
 properties:
   in-reply-to: 'https://twitter.com/ibnesayeed/status/1174735040267210752'

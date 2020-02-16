@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/25/29/
 date: 2017-07-25T14:49:43.000Z
 properties:
   in-reply-to: 'https://twitter.com/spf13/status/889851947284664320'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/08/03/10/
 date: 2017-08-03T06:08:56.000Z
 properties:
   in-reply-to: 'https://twitter.com/NathanBrown929/status/892896279231176704'

@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/03/15/1/
+  - /2015/03/15/01/pi-day-2015/
+  - /2015/03/15/01/
+  - /2015/03/pi-day-2015/
+  - /blog/2015/03/pi-day-2015/
+  - /blog/pi-day-2015/
 color: '#ddd'
 date: 2015-03-15T10:36:51.000Z
 description: >-

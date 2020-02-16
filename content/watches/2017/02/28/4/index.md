@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/02/28/32/
 date: 2017-02-28T16:29:35.000Z
 properties:
   watch-of:

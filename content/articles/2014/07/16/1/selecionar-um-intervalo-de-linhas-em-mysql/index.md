@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/07/16/1/
+  - /2014/07/16/01/selecionar-um-intervalo-de-linhas-em-mysql/
+  - /2014/07/16/01/
+  - /2014/07/selecionar-um-intervalo-de-linhas-em-mysql/
+  - /blog/2014/07/selecionar-um-intervalo-de-linhas-em-mysql/
+  - /blog/selecionar-um-intervalo-de-linhas-em-mysql/
 date: 2014-07-16T20:00:19.000Z
 description: >-
   Utilizar MySQL é muito simples. Neste tutorial ensino a selecionar apenas um

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/26/09/
 date: 2017-07-26T19:10:39.000Z
 properties:
   repost-of: 'https://twitter.com/AskAaronLee/status/890228474169892864'

@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2020/01/15/1/
+  - /2020/01/15/1/on-building-my/
+  - /2020/01/15/1/
 date: 2020-01-15T09:16:15.422Z
 properties:
   location: 'geo:38.74488,-9.13456;u=5088'

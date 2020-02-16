@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/11/14/1/
+  - /2015/11/14/01/intermittent-threads/
+  - /2015/11/14/01/
+  - /2015/11/intermittent-threads/
+  - /blog/2015/11/intermittent-threads/
+  - /blog/intermittent-threads/
 date: 2015-11-14T13:45:00.000Z
 description: >-
   I was there. I turn my head to the left and I see a bullet coming in my

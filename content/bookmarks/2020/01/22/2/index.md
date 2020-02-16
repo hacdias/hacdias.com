@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/22/5/
 date: 2020-01-22T10:36:47.942Z
 properties:
   bookmark-of: 'https://mjanja.ch/2015/06/replacing-cron-jobs-with-systemd-timers/'

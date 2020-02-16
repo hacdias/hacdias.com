@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/06/10/2/
+  - /2015/06/10/02/wordpress-adicionar-menus-de-administracao-parte-2/
+  - /2015/06/10/02/
+  - /2015/06/wordpress-adicionar-menus-de-administracao-parte-2/
+  - /blog/2015/06/wordpress-adicionar-menus-de-administracao-parte-2/
+  - /blog/wordpress-adicionar-menus-de-administracao-parte-2/
 date: 2015-06-10T11:27:37.000Z
 description: >-
   Esta é a continuação do tutorial sobre como adicionar menus de administração a

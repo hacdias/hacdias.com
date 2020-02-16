@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/02/15/7/
 date: 2020-02-15T20:34:08.394Z
 properties:
   bookmark-of: 'https://beyondgrep.com/'

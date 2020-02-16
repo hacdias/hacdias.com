@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/24/24/
 date: 2017-07-24T17:32:03.000Z
 properties:
   repost-of: 'https://twitter.com/Kurz_Gesagt/status/889538455306473473'

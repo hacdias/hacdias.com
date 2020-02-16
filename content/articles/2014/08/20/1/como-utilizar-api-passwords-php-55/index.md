@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/08/20/1/
+  - /2014/08/20/01/como-utilizar-api-passwords-php-55/
+  - /2014/08/20/01/
+  - /2014/08/como-utilizar-api-passwords-php-55/
+  - /blog/2014/08/como-utilizar-api-passwords-php-55/
+  - /blog/como-utilizar-api-passwords-php-55/
 date: 2014-08-20T22:16:15.000Z
 description: >-
   A API de passwords introduzida na versão 5.5 do PHP é excelente. Trouxe quatro

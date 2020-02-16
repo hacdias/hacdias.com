@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/08/06/08/
 date: 2017-08-06T11:17:15.000Z
 properties:
   in-reply-to: 'https://twitter.com/JulianXhokaxhiu/status/894154287647002624'

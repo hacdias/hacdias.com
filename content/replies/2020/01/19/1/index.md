@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/19/4/
 date: 2020-01-19T19:36:11.549Z
 properties:
   in-reply-to: 'https://jlelse.blog/thoughts/2020/01/optimizing-software/'

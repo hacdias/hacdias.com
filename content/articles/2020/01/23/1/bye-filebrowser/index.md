@@ -1,6 +1,8 @@
 ---
 aliases:
   - /articles/2020/01/23/1/
+  - /2020/01/23/01/bye-filebrowser/
+  - /2020/01/23/01/
 date: 2020-01-23T09:10:00.000Z
 description: >-
   After 5 years of maintaining this project and failing due to my limited time,

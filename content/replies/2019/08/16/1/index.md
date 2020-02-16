@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/08/16/03/
 date: 2019-08-16T15:31:55.000Z
 properties:
   in-reply-to: 'https://twitter.com/Echoisweird/status/1159291289113808897'

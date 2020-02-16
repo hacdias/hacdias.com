@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/02/7/
 date: 2020-01-02T23:45:24.733Z
 properties:
   in-reply-to: 'https://hacdias.com/2020/01/02/6/dynamic-static/'

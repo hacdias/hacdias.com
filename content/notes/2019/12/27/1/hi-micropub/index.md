@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2019/12/27/1/
+  - /2019/12/27/05/hi-micropub/
+  - /2019/12/27/05/
 date: 2019-12-27T14:01:30.924Z
 description: null
 properties:

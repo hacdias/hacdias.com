@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2015/07/17/90/
 date: 2015-07-17T08:20:09.000Z
 properties:
   watch-of:

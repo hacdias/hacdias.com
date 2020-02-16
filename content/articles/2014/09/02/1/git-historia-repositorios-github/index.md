@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/09/02/1/
+  - /2014/09/02/01/git-historia-repositorios-github/
+  - /2014/09/02/01/
+  - /2014/09/git-historia-repositorios-github/
+  - /blog/2014/09/git-historia-repositorios-github/
+  - /blog/git-historia-repositorios-github/
 date: 2014-09-02T14:09:59.000Z
 description: >-
   O Git é dos sistemas de controlo de versão mais utilizados por todo o mundo.

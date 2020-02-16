@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/06/26/01/
 date: 2019-06-26T07:10:31.000Z
 properties:
   in-reply-to: 'https://twitter.com/regouga/status/1143662389948289025'

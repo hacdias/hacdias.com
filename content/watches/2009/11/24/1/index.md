@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2009/11/24/5/
 date: 2009-11-24T00:00:00.000Z
 properties:
   watch-of:

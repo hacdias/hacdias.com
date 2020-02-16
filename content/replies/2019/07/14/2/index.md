@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/07/14/03/
 date: 2019-07-14T20:05:13.000Z
 properties:
   in-reply-to: 'https://twitter.com/lalamaguire/status/1150495961615077382'

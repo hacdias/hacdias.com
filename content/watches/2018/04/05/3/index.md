@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/04/05/15/
 date: 2018-04-05T08:22:21.000Z
 properties:
   watch-of:

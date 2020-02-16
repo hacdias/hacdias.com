@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/10/10/10/
 date: 2019-10-10T10:14:06.000Z
 properties:
   in-reply-to: 'https://twitter.com/dietrich/status/1182097776202530816'

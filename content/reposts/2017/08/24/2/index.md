@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/08/24/10/
 date: 2017-08-24T16:22:33.000Z
 properties:
   repost-of: 'https://twitter.com/SparkMailApp/status/900388689574014977'

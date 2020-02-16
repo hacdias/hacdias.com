@@ -1,6 +1,8 @@
 ---
 aliases:
   - /articles/2020/01/02/1/
+  - /2020/01/02/6/dynamic-static/
+  - /2020/01/02/6/
 date: 2020-01-02T23:40:00.000Z
 properties:
   syndication: 'https://twitter.com/hacdias/status/1212881805096996864'

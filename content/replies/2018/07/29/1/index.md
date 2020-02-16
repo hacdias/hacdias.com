@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/07/29/10/
 date: 2018-07-29T19:02:35.000Z
 properties:
   in-reply-to: 'https://twitter.com/satazor/status/1023637414638743552'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/06/07/06/
 date: 2018-06-07T19:38:30.000Z
 properties:
   in-reply-to: 'https://twitter.com/NotionHQ/status/1004807789238050816'

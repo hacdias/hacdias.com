@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/01/03/02/
 date: 2018-01-03T10:09:51.000Z
 properties:
   photo: DSm8n5JWkAA2nb8.jpg

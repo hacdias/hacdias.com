@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/04/20/03/
 date: 2019-04-20T11:40:41.000Z
 properties:
   syndication: 'https://twitter.com/hacdias/status/1119566555141017605'

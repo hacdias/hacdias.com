@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/06/10/1/
+  - /2015/06/10/01/php-diferencas-operadores-logicos-precedencia/
+  - /2015/06/10/01/
+  - /2015/06/php-diferencas-operadores-logicos-precedencia/
+  - /blog/2015/06/php-diferencas-operadores-logicos-precedencia/
+  - /blog/php-diferencas-operadores-logicos-precedencia/
 date: 2015-06-10T15:01:00.000Z
 description: >-
   Depois de publicar um artigo sobre as diferenças entre os operadores '==' e

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/12/10/05/
 date: 2017-12-10T11:04:21.000Z
 properties:
   photo: DQri9dqW0AAnwOO.jpg

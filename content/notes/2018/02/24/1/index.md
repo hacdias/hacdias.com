@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/24/04/
 date: 2018-02-24T19:00:01.000Z
 properties:
   photo: DW0olkZVAAAxRLj.png

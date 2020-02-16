@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/08/12/1/
+  - /2015/08/12/01/farewell-wordpress-hello-hugo/
+  - /2015/08/12/01/
+  - /2015/08/farewell-wordpress-hello-hugo/
+  - /blog/2015/08/farewell-wordpress-hello-hugo/
+  - /blog/farewell-wordpress-hello-hugo/
 date: 2015-08-12T11:30:00.000Z
 description: >-
   I finally learned how to say goodbye to WordPress. Not forever. Nothing lasts

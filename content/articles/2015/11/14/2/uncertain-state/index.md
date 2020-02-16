@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/11/14/2/
+  - /2015/11/14/02/uncertain-state/
+  - /2015/11/14/02/
+  - /2015/11/uncertain-state/
+  - /blog/2015/11/uncertain-state/
+  - /blog/uncertain-state/
 date: 2015-11-14T13:45:00.000Z
 description: >-
   Death. It's the most heard word in the last days. Crime. And they say it was

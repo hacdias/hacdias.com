@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2020/01/06/1/
+  - /2020/01/06/1/it-s-been-quite/
+  - /2020/01/06/1/
 date: 2020-01-06T23:07:54.430Z
 properties:
   location: 'geo:38.7353,-9.13946;u=65'

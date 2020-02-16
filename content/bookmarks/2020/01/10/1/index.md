@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/10/1/
 date: 2020-01-10T14:25:50.061Z
 properties:
   bookmark-of: 'https://taraskaduk.com/2019/03/23/apple-health/'

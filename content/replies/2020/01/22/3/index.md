@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/22/6/
 date: 2020-01-22T11:35:36.168Z
 properties:
   in-reply-to: 'https://aaronparecki.com/gps/'

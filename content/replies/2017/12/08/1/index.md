@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/12/08/04/
 date: 2017-12-08T13:23:20.000Z
 properties:
   in-reply-to: 'https://twitter.com/denull/status/939119907517722624'

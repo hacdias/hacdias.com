@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/27/17/
 date: 2017-07-27T19:04:09.000Z
 properties:
   in-reply-to: 'https://twitter.com/rafaelcpalmeida/status/890648732449906688'

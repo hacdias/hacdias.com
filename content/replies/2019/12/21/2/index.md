@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/12/21/08/
 date: 2019-12-21T10:20:37.000Z
 properties:
   in-reply-to: 'https://twitter.com/abredabread/status/1208325884802928641'

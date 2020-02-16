@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/08/06/02/
 date: 2018-08-06T17:35:55.000Z
 properties:
   photo: Dj7wWzSXcAAa9ri.jpg

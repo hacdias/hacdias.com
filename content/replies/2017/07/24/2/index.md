@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/24/31/
 date: 2017-07-24T18:58:45.000Z
 properties:
   in-reply-to: /replies/2017/07/24/3/

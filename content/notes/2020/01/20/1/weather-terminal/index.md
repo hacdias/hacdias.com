@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2020/01/20/1/
+  - /2020/01/20/4/weather-terminal/
+  - /2020/01/20/4/
 date: 2020-01-20T22:13:42.439Z
 properties:
   location: 'geo:38.74488,-9.13456;u=5088'

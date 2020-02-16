@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/07/12/1/
+  - /2014/07/12/01/apresentacao/
+  - /2014/07/12/01/
+  - /2014/07/apresentacao/
+  - /blog/2014/07/apresentacao/
+  - /blog/apresentacao/
 date: 2014-07-12T14:05:48.000Z
 description: >-
   Uma pequena apresentação sobre o blog e sobre o que quero fazer com ele. Quem

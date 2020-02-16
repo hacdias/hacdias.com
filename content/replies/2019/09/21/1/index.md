@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/21/02/
 date: 2019-09-21T18:41:27.000Z
 properties:
   in-reply-to: 'https://twitter.com/stphndrt/status/1175409179705692160'

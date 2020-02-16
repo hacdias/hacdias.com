@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2019/12/27/2/
+  - /2019/12/27/12/webmentions/
+  - /2019/12/27/12/
 date: 2019-12-27T23:30:26.757Z
 description: null
 properties: {}

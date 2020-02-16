@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/02/18/02/
 date: 2019-02-18T14:38:13.000Z
 properties:
   in-reply-to: 'https://twitter.com/mholt6/status/1097501213073932288'

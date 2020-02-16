@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/08/02/1/
+  - /2014/08/02/01/wordpress-adicionar-menus-de-administracao/
+  - /2014/08/02/01/
+  - /2014/08/wordpress-adicionar-menus-de-administracao/
+  - /blog/2014/08/wordpress-adicionar-menus-de-administracao/
+  - /blog/wordpress-adicionar-menus-de-administracao/
 color: '#e06937'
 date: 2014-08-02T11:27:37.000Z
 description: >-

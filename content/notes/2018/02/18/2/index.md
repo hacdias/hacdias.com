@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/18/08/
 date: 2018-02-18T14:40:47.000Z
 properties:
   syndication: 'https://twitter.com/hacdias/status/965234648153542657'

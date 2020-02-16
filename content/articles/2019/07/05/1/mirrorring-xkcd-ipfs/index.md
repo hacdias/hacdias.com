@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2019/07/05/1/
+  - /2019/07/05/01/mirrorring-xkcd-ipfs/
+  - /2019/07/05/01/
+  - /2019/07/mirrorring-xkcd-ipfs/
+  - /blog/2019/07/mirrorring-xkcd-ipfs/
+  - /blog/mirrorring-xkcd-ipfs/
 date: 2019-07-05T16:20:00.000Z
 description: |
   How I built a cloner for xkcd and keep the clone up to date on IPFS.

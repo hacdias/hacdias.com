@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/06/05/
 date: 2019-09-06T10:17:03.000Z
 properties:
   photo:

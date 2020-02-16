@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/07/17/01/
 date: 2019-07-17T07:00:05.000Z
 properties:
   repost-of: 'https://twitter.com/Cloudflare/status/1151372849711648773'

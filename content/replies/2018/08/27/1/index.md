@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/08/27/06/
 date: 2018-08-27T08:48:53.000Z
 properties:
   in-reply-to: 'https://twitter.com/Readdle/status/1033999336286420992'

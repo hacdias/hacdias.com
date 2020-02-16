@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/08/24/13/
 date: 2017-08-24T20:00:38.000Z
 properties:
   in-reply-to: 'https://twitter.com/sindresorhus/status/900791010497671168'

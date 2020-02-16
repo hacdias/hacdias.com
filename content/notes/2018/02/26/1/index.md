@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/26/02/
 date: 2018-02-26T16:36:14.000Z
 properties:
   photo: DW-a7j1WAAI0Pyy.jpg

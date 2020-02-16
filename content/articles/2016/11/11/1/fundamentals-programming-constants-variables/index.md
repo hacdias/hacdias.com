@@ -1,6 +1,9 @@
 ---
 aliases:
   - /articles/2016/11/11/1/
+  - /2016/11/11/01/fundamentals-programming-constants-variables/
+  - /2016/11/11/01/
+  - /2016/11/fundamentals-programming-constants-variables/
 date: 2016-11-11T00:00:00.000Z
 properties: {}
 title: 'The Fundamentals of Programming #2: Constants and Variables'

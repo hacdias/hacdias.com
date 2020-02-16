@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/08/27/1/
+  - /2014/08/27/01/php-devemos-usar-tag-fechamento-ou-nao/
+  - /2014/08/27/01/
+  - /2014/08/php-devemos-usar-tag-fechamento-ou-nao/
+  - /blog/2014/08/php-devemos-usar-tag-fechamento-ou-nao/
+  - /blog/php-devemos-usar-tag-fechamento-ou-nao/
 date: 2014-08-27T09:15:18.000Z
 description: >-
   A tag de fechamento do PHP ( ?> ) pode causar alguma confusão visto que é

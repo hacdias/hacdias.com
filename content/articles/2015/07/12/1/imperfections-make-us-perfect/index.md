@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/07/12/1/
+  - /2015/07/12/01/imperfections-make-us-perfect/
+  - /2015/07/12/01/
+  - /2015/07/imperfections-make-us-perfect/
+  - /blog/2015/07/imperfections-make-us-perfect/
+  - /blog/imperfections-make-us-perfect/
 date: 2015-07-12T13:45:00.000Z
 description: >-
   I was thinking about why there are people who think we are perfect. This is a

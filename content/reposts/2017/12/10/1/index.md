@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/12/10/03/
 date: 2017-12-10T12:23:23.000Z
 properties:
   repost-of: 'https://twitter.com/mholt6/status/939690463514173440'

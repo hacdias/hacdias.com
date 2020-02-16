@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/06/26/6/
 date: 2018-06-25T23:00:00.000Z
 properties:
   read-of:

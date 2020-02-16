@@ -40,12 +40,18 @@ outputFormats:
     mediaType: application/json
     baseName: feed
     isPlainText: true
+  redir:
+    mediaType: text/plain
+    baseName: redirects
+    isPlainText: true
+    notAlternative: true
 
 outputs:
   home:
     - html
     - jsonfeed
     - rss
+    - redir
   section:
     - html
     - jsonfeed

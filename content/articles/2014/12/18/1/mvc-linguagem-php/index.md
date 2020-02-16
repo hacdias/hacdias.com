@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/12/18/1/
+  - /2014/12/18/01/mvc-linguagem-php/
+  - /2014/12/18/01/
+  - /2014/12/mvc-linguagem-php/
+  - /blog/2014/12/mvc-linguagem-php/
+  - /blog/mvc-linguagem-php/
 date: 2014-12-18T22:55:34.000Z
 description: >-
   O modelo MVC é algo muito utilizado atualmente. Nesta primeira parte iremos

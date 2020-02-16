@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/07/09/05/
 date: 2018-07-09T20:44:41.000Z
 properties:
   in-reply-to: 'https://twitter.com/joaojtmarques/status/1016411149498310656'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/23/41/
 date: 2017-07-23T13:25:56.000Z
 properties:
   in-reply-to: 'https://twitter.com/abiosoft/status/889113227518521345'

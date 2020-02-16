@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/10/13/03/
 date: 2017-10-13T06:52:58.000Z
 properties:
   repost-of: 'https://twitter.com/ProgressBar201X/status/918518639942406144'

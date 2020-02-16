@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/02/05/
 date: 2019-09-02T18:34:16.000Z
 properties:
   in-reply-to: 'https://twitter.com/fabiofcferreira/status/1168592777023807488'

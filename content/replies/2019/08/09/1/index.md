@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/08/09/01/
 date: 2019-08-09T22:17:13.000Z
 properties:
   in-reply-to: 'https://twitter.com/_patmurray/status/1159949195437936640'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/01/06/01/
 date: 2019-01-06T19:07:36.000Z
 properties:
   repost-of: 'https://twitter.com/TheWeirdWorld/status/1081951528901066752'

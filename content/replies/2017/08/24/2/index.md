@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/08/24/14/
 date: 2017-08-24T19:58:42.000Z
 properties:
   in-reply-to: 'https://twitter.com/anahnarciso/status/900780148898836480'

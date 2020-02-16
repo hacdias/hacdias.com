@@ -1,6 +1,10 @@
 ---
 aliases:
   - /articles/2019/09/14/1/
+  - /2019/09/14/01/protocol-labs/
+  - /2019/09/14/01/
+  - /2019/09/protocol-labs/
+  - /projects/protocol-labs/
 date: 2019-09-14T09:00:00.000Z
 description: >
   Protocol Labs is a research and development institution for improving the

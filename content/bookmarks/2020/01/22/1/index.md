@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/22/3/
 date: 2020-01-22T09:49:23.559Z
 properties:
   bookmark-of: 'https://github.com/nvbn/thefuck'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/07/09/07/
 date: 2018-07-09T18:19:44.000Z
 properties:
   photo: DhruAN4W4AI8t-i.jpg

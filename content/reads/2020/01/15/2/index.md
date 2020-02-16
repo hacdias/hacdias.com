@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/15/24/
 date: 2020-01-15T00:00:00.000Z
 properties:
   read-of:

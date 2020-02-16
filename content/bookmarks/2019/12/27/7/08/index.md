@@ -1,6 +1,7 @@
 ---
 aliases:
   - /bookmarks/2019/12/27/7/
+  - /2019/12/27/08/
 date: 2019-12-27T19:51:35.017Z
 description: null
 properties:

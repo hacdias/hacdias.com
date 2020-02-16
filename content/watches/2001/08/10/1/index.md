@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2001/08/10/5/
 date: 2001-08-10T00:00:00.000Z
 properties:
   watch-of:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2007/11/29/5/
 date: 2007-11-29T00:00:00.000Z
 properties:
   watch-of:

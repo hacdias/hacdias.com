@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/02/02/2/
 date: 2020-02-02T17:32:40.000Z
 expiryDate: 2020-02-02T17:37:09.804Z
 properties:

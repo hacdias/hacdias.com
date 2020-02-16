@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/30/7/
 date: 2020-01-30T22:34:26.001Z
 properties:
   in-reply-to: 'https://hacdias.com/2020/01/30/6/'

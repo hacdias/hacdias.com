@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/07/27/1/
+  - /2015/07/27/01/stop-complaining-do/
+  - /2015/07/27/01/
+  - /2015/07/stop-complaining-do/
+  - /blog/2015/07/stop-complaining-do/
+  - /blog/stop-complaining-do/
 date: 2015-07-27T08:00:00.000Z
 description: >-
   Everyday I hear people complaining about almost everything. Complaining leads

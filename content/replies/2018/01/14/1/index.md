@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/01/14/01/
 date: 2018-01-14T15:15:50.000Z
 properties:
   in-reply-to: 'https://twitter.com/equim_chan/status/952540315553968129'

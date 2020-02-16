@@ -1,6 +1,8 @@
 ---
 aliases:
   - /articles/2020/01/29/1/
+  - /2020/01/29/6/owning-reading-log/
+  - /2020/01/29/6/
 date: 2020-01-29T23:50:00.000Z
 description: >
   It's now time to own my own reading log. I started by creating a reading logs

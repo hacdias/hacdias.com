@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/12/20/1/
+  - /2014/12/20/01/mvc-linguagem-php-iii/
+  - /2014/12/20/01/
+  - /2014/12/mvc-linguagem-php-iii/
+  - /blog/2014/12/mvc-linguagem-php-iii/
+  - /blog/mvc-linguagem-php-iii/
 date: 2014-12-20T09:00:23.000Z
 description: >-
   No seguimento da criação de uma framework PHP que utilize o modelo MVC, hoje

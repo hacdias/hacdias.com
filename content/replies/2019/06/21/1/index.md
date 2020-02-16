@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/06/21/02/
 date: 2019-06-21T13:27:03.000Z
 properties:
   in-reply-to: 'https://twitter.com/VictorBjelkholm/status/1142060011637678081'

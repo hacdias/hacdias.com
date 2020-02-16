@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/08/22/1/
+  - /2014/08/22/01/papers-we-love-um-dos-melhores-repositorios-github/
+  - /2014/08/22/01/
+  - /2014/08/papers-we-love-um-dos-melhores-repositorios-github/
+  - /blog/2014/08/papers-we-love-um-dos-melhores-repositorios-github/
+  - /blog/papers-we-love-um-dos-melhores-repositorios-github/
 color: '#69615b'
 date: 2014-08-22T09:38:31.000Z
 description: >-

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/29/11/
 date: 2017-07-29T17:59:53.000Z
 properties:
   in-reply-to: 'https://twitter.com/IDavim/status/891353335260905472'

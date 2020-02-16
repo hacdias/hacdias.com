@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2007/05/01/2/
 date: 2007-05-01T08:00:00.000Z
 properties:
   watch-of:

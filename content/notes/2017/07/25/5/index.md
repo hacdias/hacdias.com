@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/25/37/
 date: 2017-07-25T09:26:53.000Z
 properties:
   photo: DFkhGTiXoAADkSf.jpg

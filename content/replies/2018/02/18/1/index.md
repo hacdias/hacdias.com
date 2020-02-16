@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/18/11/
 date: 2018-02-18T19:01:52.000Z
 properties:
   in-reply-to: 'https://twitter.com/anarlguerra/status/965285603129675776'

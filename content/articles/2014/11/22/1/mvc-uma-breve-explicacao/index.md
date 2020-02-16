@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/11/22/1/
+  - /2014/11/22/01/mvc-uma-breve-explicacao/
+  - /2014/11/22/01/
+  - /2014/11/mvc-uma-breve-explicacao/
+  - /blog/2014/11/mvc-uma-breve-explicacao/
+  - /blog/mvc-uma-breve-explicacao/
 color: '#5f73cf'
 date: 2014-11-22T16:02:56.000Z
 description: >-

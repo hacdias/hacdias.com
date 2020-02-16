@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/09/11/1/
+  - /2015/09/11/01/the-first-day-at-your-brand-new-job/
+  - /2015/09/11/01/
+  - /2015/09/the-first-day-at-your-brand-new-job/
+  - /blog/2015/09/the-first-day-at-your-brand-new-job/
+  - /blog/the-first-day-at-your-brand-new-job/
 date: 2015-09-11T08:00:00.000Z
 description: >-
   You got a job! And today’s the first day, what are you going to do? Let’s make

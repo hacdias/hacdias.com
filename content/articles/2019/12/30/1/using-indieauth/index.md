@@ -1,6 +1,8 @@
 ---
 aliases:
   - /articles/2019/12/30/1/
+  - /2019/12/30/09/using-indieauth/
+  - /2019/12/30/09/
 date: 2019-12-30T23:50:00.000Z
 description: >
   After updating the structure of my URLs, I now needed to start enabling some

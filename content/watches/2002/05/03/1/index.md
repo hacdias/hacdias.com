@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2002/05/03/5/
 date: 2002-05-03T00:00:00.000Z
 properties:
   watch-of:

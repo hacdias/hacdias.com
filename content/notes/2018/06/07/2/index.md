@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/06/07/08/
 date: 2018-06-07T19:14:26.000Z
 properties:
   photo: DfHHo9wWsAUSFod.jpg

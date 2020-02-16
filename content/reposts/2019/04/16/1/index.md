@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/04/16/01/
 date: 2019-04-16T13:28:55.000Z
 properties:
   repost-of: 'https://twitter.com/FuwanekoGames/status/1117806011283333120'

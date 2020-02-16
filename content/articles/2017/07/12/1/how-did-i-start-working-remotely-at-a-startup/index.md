@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2017/07/12/1/
+  - /2017/07/12/01/how-did-i-start-working-remotely-at-a-startup/
+  - /2017/07/12/01/
+  - /2017/07/how-did-i-start-working-remotely-at-a-startup/
+  - /blog/2017/07/how-did-i-start-working-remotely-at-a-startup/
+  - /blog/how-did-i-start-working-remotely-at-a-startup/
 date: 2017-07-12T11:30:00.000Z
 description: >-
   A story of a 17 years old boy who met someone and one year later was invited

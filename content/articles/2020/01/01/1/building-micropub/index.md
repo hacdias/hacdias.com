@@ -1,6 +1,8 @@
 ---
 aliases:
   - /articles/2020/01/01/1/
+  - /2020/01/01/12/building-micropub/
+  - /2020/01/01/12/
 date: 2020-01-01T23:30:00.000Z
 properties:
   syndication: 'https://twitter.com/hacdias/status/1212517049035038720'

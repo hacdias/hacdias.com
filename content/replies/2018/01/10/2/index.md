@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/01/10/10/
 date: 2018-01-10T10:25:40.000Z
 properties:
   in-reply-to: 'https://twitter.com/VictorBjelkholm/status/951035327560474625'

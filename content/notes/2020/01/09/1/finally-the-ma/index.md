@@ -1,6 +1,8 @@
 ---
 aliases:
   - /notes/2020/01/09/1/
+  - /2020/01/09/1/finally-the-ma/
+  - /2020/01/09/1/
 date: 2020-01-09T15:29:15.575Z
 properties:
   location: 'geo:38.73531,-9.13972;u=65'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2003/12/02/5/
 date: 2003-12-02T00:00:00.000Z
 properties:
   watch-of:

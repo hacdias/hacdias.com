@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/09/03/01/
 date: 2017-09-03T07:03:40.000Z
 properties:
   in-reply-to: 'https://twitter.com/ProductHunt/status/904228744210006016'

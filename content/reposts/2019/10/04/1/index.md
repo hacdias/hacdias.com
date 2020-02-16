@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/10/04/04/
 date: 2019-10-04T22:00:33.000Z
 properties:
   repost-of: 'https://twitter.com/w3c/status/1179909748147343361'

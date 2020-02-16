@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/02/26/01/
 date: 2019-02-26T21:07:22.000Z
 properties:
   in-reply-to: 'https://twitter.com/DaAleksandersen/status/1100498347822071810'

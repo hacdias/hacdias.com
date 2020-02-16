@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/06/03/
 date: 2019-09-06T14:52:18.000Z
 properties:
   in-reply-to: 'https://twitter.com/pedrojdoc/status/1169977520567066624'

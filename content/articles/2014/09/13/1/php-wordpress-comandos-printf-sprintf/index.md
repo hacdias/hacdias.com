@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/09/13/1/
+  - /2014/09/13/01/php-wordpress-comandos-printf-sprintf/
+  - /2014/09/13/01/
+  - /2014/09/php-wordpress-comandos-printf-sprintf/
+  - /blog/2014/09/php-wordpress-comandos-printf-sprintf/
+  - /blog/php-wordpress-comandos-printf-sprintf/
 date: 2014-09-13T09:16:48.000Z
 description: >-
   Existem vários comandos que nos permitem imprimir frases. Porque é que existem

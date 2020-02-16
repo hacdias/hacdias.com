@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/04/11/03/
 date: 2018-04-11T05:48:14.000Z
 properties:
   repost-of: 'https://twitter.com/_alanshaw/status/983638307669266434'

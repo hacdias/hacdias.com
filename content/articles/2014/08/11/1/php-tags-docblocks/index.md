@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/08/11/1/
+  - /2014/08/11/01/php-tags-docblocks/
+  - /2014/08/11/01/
+  - /2014/08/php-tags-docblocks/
+  - /blog/2014/08/php-tags-docblocks/
+  - /blog/php-tags-docblocks/
 date: 2014-08-11T20:26:21.000Z
 description: >-
   Os DOCBlocks do PHP são extremamente úteis para os desenvolvedores que desejam

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/03/04/05/
 date: 2018-03-04T14:00:39.000Z
 properties:
   in-reply-to: 'https://twitter.com/ulissesvf/status/970275064980615168'

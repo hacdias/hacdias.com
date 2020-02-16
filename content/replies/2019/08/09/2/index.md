@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/08/09/02/
 date: 2019-08-09T18:29:09.000Z
 properties:
   in-reply-to: 'https://twitter.com/genericpointer/status/1157424031286603777'

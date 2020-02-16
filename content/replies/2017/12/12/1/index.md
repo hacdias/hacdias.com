@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/12/12/01/
 date: 2017-12-12T10:42:48.000Z
 properties:
   in-reply-to: 'https://twitter.com/JakeWrightUK/status/940530997090766848'

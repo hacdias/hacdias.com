@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/08/19/01/
 date: 2018-08-19T16:39:51.000Z
 properties:
   repost-of: 'https://twitter.com/romiem/status/1030438339390910464'

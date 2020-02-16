@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2014/07/17/1/
+  - /2014/07/17/01/listagem-web-de-uma-tabela-mysql/
+  - /2014/07/17/01/
+  - /2014/07/listagem-web-de-uma-tabela-mysql/
+  - /blog/2014/07/listagem-web-de-uma-tabela-mysql/
+  - /blog/listagem-web-de-uma-tabela-mysql/
 date: 2014-07-17T14:51:56.000Z
 description: >-
   Como fazer a listagem de uma tabela MySQL com interface web, botões de

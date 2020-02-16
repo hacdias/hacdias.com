@@ -1,6 +1,10 @@
 ---
 aliases:
   - /articles/2016/09/11/1/
+  - /2016/09/11/01/pplware/
+  - /2016/09/11/01/
+  - /2016/09/pplware/
+  - /projects/pplware/
 date: 2016-09-11T12:10:00.000Z
 description: >
   Pplware is a portuguese project that delivers the most recent news about

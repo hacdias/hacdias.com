@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/23/33/
 date: 2017-07-23T16:32:38.000Z
 properties:
   in-reply-to: 'https://twitter.com/BarbaraCorcoran/status/889153397798166531'

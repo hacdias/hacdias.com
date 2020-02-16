@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/23/45/
 date: 2017-07-23T13:01:15.000Z
 properties:
   in-reply-to: 'https://twitter.com/Spotify/status/889107847648333826'

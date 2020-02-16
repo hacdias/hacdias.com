@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/03/13/1/
+  - /2015/03/13/01/technology-good-bad/
+  - /2015/03/13/01/
+  - /2015/03/technology-good-bad/
+  - /blog/2015/03/technology-good-bad/
+  - /blog/technology-good-bad/
 date: 2015-03-13T12:20:46.000Z
 description: >-
   Technology, nowadays, means advance and progress. But is the technology a good

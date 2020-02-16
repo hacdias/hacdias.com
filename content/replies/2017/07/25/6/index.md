@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/25/32/
 date: 2017-07-25T08:33:25.000Z
 properties:
   in-reply-to: 'https://twitter.com/anarlguerra/status/885172835567775745'

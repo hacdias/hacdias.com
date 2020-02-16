@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/08/02/07/
 date: 2017-08-02T20:53:27.000Z
 properties:
   in-reply-to: /notes/2017/08/02/1/

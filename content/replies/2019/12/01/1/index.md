@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/12/01/02/
 date: 2019-12-01T08:12:38.000Z
 properties:
   in-reply-to: 'https://twitter.com/malikpiara/status/1200956630172610560'

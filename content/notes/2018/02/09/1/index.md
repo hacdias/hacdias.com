@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/09/04/
 date: 2018-02-09T10:38:03.000Z
 properties:
   photo:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/12/23/5/
 date: 2017-12-23T00:00:00.000Z
 properties:
   read-of:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/26/10/
 date: 2017-07-26T16:53:54.000Z
 properties:
   repost-of: 'https://twitter.com/rafaelcpalmeida/status/890247001195065344'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/22/1/
 date: 2020-01-22T09:20:22.592Z
 properties:
   in-reply-to: 'https://jlelse.blog/thoughts/2020/01/security-risk-embedding/'

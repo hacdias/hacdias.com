@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2011/01/02/5/
 date: 2011-01-02T01:30:00.000Z
 properties:
   watch-of:

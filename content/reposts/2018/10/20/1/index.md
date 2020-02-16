@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/10/20/01/
 date: 2018-10-20T19:28:23.000Z
 properties:
   repost-of: 'https://twitter.com/darylginn/status/1053646859686809600'

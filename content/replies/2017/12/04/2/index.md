@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/12/04/02/
 date: 2017-12-04T07:26:00.000Z
 properties:
   in-reply-to: 'https://twitter.com/igargi_/status/937467247160971264'

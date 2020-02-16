@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/26/20/
 date: 2017-07-26T10:16:35.000Z
 properties:
   in-reply-to: 'https://twitter.com/josepostiga/status/890143099393118208'

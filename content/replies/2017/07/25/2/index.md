@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/25/28/
 date: 2017-07-25T15:46:56.000Z
 properties:
   in-reply-to: 'https://twitter.com/ejcx_/status/889872878564290561'

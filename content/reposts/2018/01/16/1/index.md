@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/01/16/03/
 date: 2018-01-16T22:35:33.000Z
 properties:
   repost-of: 'https://twitter.com/daviddias/status/953388140785418240'

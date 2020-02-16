@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/08/07/06/
 date: 2019-08-07T06:37:35.000Z
 properties:
   repost-of: 'https://twitter.com/agentofuser/status/1158889352954621953'

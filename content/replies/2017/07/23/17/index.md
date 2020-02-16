@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/23/46/
 date: 2017-07-23T12:39:30.000Z
 properties:
   in-reply-to: 'https://twitter.com/sallylepage/status/888789657210769408'

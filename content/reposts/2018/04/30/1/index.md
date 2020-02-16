@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/04/30/03/
 date: 2018-04-30T12:45:44.000Z
 properties:
   repost-of: 'https://twitter.com/iamdevloper/status/990934748582301701'

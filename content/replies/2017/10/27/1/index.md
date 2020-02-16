@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/10/27/01/
 date: 2017-10-27T19:02:42.000Z
 properties:
   in-reply-to: 'https://twitter.com/jamierelay/status/923941622282366977'

@@ -1,6 +1,9 @@
 ---
 aliases:
   - /articles/2016/11/25/1/
+  - /2016/11/25/01/differences-between-bits-and-bytes/
+  - /2016/11/25/01/
+  - /2016/11/differences-between-bits-and-bytes/
 date: 2016-11-25T00:00:00.000Z
 description: >
   For some, the difference between bits and bytes may be subtle and it can lead

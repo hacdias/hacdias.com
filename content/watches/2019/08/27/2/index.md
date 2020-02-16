@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/08/27/9/
 date: 2019-08-27T16:01:39.000Z
 properties:
   watch-of:

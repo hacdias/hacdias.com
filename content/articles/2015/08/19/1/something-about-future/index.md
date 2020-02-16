@@ -1,6 +1,11 @@
 ---
 aliases:
   - /articles/2015/08/19/1/
+  - /2015/08/19/01/something-about-future/
+  - /2015/08/19/01/
+  - /2015/08/something-about-future/
+  - /blog/2015/08/something-about-future/
+  - /blog/something-about-future/
 color: '#63506d'
 date: 2015-08-19T08:30:00.000Z
 description: >-

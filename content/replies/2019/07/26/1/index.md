@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/07/26/01/
 date: 2019-07-26T12:49:24.000Z
 properties:
   in-reply-to: 'https://twitter.com/agata_krych/status/1154732986065129473'

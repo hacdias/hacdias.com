@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/07/28/08/
 date: 2017-07-28T05:40:49.000Z
 properties:
   in-reply-to: 'https://twitter.com/Windows/status/890720420823019522'

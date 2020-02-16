@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/09/19/19/
 date: 2019-09-19T21:47:40.000Z
 properties:
   in-reply-to: 'https://twitter.com/mholt6/status/1174726154952957952'

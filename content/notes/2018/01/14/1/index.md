@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/01/14/03/
 date: 2018-01-14T10:34:38.000Z
 properties:
   photo: DTfrlmGWsAAUZ9d.jpg

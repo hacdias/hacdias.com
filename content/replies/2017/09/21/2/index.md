@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2017/09/21/02/
 date: 2017-09-21T21:35:21.000Z
 properties:
   in-reply-to: 'https://twitter.com/jachands/status/910909139467063297'

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2020/01/27/2/
 date: 2020-01-27T23:32:49.353Z
 properties: {}
 tags:

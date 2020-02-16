@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2018/02/16/07/
 date: 2018-02-16T20:13:37.000Z
 properties:
   in-reply-to: /replies/2018/02/16/3/

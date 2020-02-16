@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2019/10/06/04/
 date: 2019-10-06T20:41:49.000Z
 properties:
   repost-of: 'https://twitter.com/daviddias/status/989428513232089094'
