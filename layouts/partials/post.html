@@ -1,8 +1,8 @@
-{{ $layout := or (index .Glob.Site.Data.layout .Glob.Type) (index .Glob.Site.Data.layout "default") }}
+{{ $layout := or (index .Glob.Site.Data.layout .Glob.Section) (index .Glob.Site.Data.layout "default") }}
 {{ $isList := eq .Mode "list" -}}
 {{ $useSummary := false }}
 <article class='h-entry'>
-  {{ if or (eq .Glob.Type "articles") (eq .Glob.Type "page") -}}
+  {{ if in (slice "articles" "kb" "") .Glob.Section }}
     {{ if not .Glob.Params.hideTitle }}
     <header>
       <h1 class='p-name'>
@@ -31,11 +31,11 @@
     {{ end}}
   {{ end }}
 
-  {{ if eq .Glob.Type "reads" }}
+  {{ if eq .Glob.Section "reads" }}
     {{ partial "book-status" . }}
-  {{ else if eq .Glob.Type "checkins" }}
+  {{ else if eq .Glob.Section "checkins" }}
     {{ partial "checkin" . }}
-  {{ else if eq .Glob.Type "watches" }}
+  {{ else if eq .Glob.Section "watches" }}
     {{ partial "watch" . }}
   {{ end }}
 
@@ -72,7 +72,7 @@
         <a href="{{ .Glob.RelPermalink }}" class="u-url {{ if eq .Mode "single"}}no-link{{ end }}">{{- .Glob.Date.Format "02 Jan 2006 15:04" }}</a>
       </time>
       {{- end -}}
-      {{- with .Glob.Type -}}
+      {{- with .Glob.Section -}}
         {{- with $.Glob.Site.GetPage (printf "/%s" .) -}}
           in <a href="{{ .RelPermalink }}">{{ with .Params.emoji }}{{ . }}{{ end }}{{ .Title }}</a></span>
         {{- end -}}
