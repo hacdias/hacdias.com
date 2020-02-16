@@ -1,5 +1,0 @@
-{{- range $p := .Site.Pages -}}
-{{ range .Aliases }}
-{{  . | printf "%-70s" }}	{{ $p.RelPermalink -}}
-{{ end -}}
-{{- end -}}
