@@ -5,14 +5,8 @@ jobs:
       - image: circleci/golang:latest
     working_directory: ~/hugo
     steps:
-      - run:
-          name: Install Hugo
-          command: >
-            cd ~
-            mkdir hugo_dl
-            curl -L https://github.com/gohugoio/hugo/releases/download/v0.64.1/hugo_extended_0.64.1_Linux-64bit.tar.gz | tar xvz
-            mv hugo /usr/local/bin/hugo
-            cd ~/hugo
+      - run: sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+      - run: brew install hugo
       - checkout
       - run: hugo --gc --minify
       - persist_to_workspace:
