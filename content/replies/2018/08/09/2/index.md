@@ -1,7 +1,7 @@
 ---
 date: 2018-08-09T17:58:49.000Z
 properties:
-  in-reply-to: /2018/08/09/07/
+  in-reply-to: /notes/2018/08/09/1/
   syndication: 'https://twitter.com/hacdias/status/1027615197823942663'
 ---
 
