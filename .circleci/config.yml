@@ -6,6 +6,8 @@ jobs:
     working_directory: ~/hugo
     steps:
       - run: sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+      - run: echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >>~/.profile
+      - run: eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
       - run: brew install hugo
       - checkout
       - run: hugo --gc --minify
