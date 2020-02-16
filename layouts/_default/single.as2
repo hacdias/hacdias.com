@@ -14,5 +14,5 @@
   "id": "{{ .Permalink }}",
   "url": "{{ .Permalink }}",
   "type": "Article",
-  "attributedTo": "{{ "" | absLangURL }}",
+  "attributedTo": "{{ "" | absLangURL }}"
 }
