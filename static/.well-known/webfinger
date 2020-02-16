@@ -1,0 +1,10 @@
+{
+	"subject": "acct:hacdias@hacdias.com",
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://hacdias.com/"
+		}
+	]
+}
