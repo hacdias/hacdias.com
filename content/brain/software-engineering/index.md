@@ -1,5 +1,6 @@
 ---
 title: Software Engineering
+draft: true
 ---
 
 ## What is Software Engineering?
