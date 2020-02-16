@@ -13,12 +13,15 @@
       "url": "{{ . | absURL }}"
   }
   {{- end }}
-  {{ with .Site.Params.activitypub.inbox -}}
+  {{ with .Site.Params.activityPub.inbox -}}
   ,"inbox": "{{ . }}"
   {{- end }}
-  {{ with .Site.Params.activitypub.publickeypem -}}
+  {{ with .Site.Params.activityPub.outbox -}}
+  ,"outbox": "{{ . }}"
+  {{- end }}
+  {{ with .Site.Params.activityPub.publicKeyPem -}}
   ,"publicKey": {
-      "id": "{{ "" | absLangURL }}#main-key",
+      "id": "{{ "" | absLangURL }}#key",
       "owner": "{{ "" | absLangURL }}",
       "publicKeyPem": "{{ . }}"
   }
