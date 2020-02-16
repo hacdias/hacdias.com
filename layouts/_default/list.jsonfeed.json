@@ -6,21 +6,21 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "{{ .Site.Title }}",
-	"description": "{{ .Site.Params.description }}",
+  "description": "{{ .Site.Params.description }}",
   "home_page_url": "{{ .Permalink}}",
   "feed_url": "{{ .Permalink }}feed.json",
-	"author": {
-		"name": "{{ .Site.Author.name }}",
-		"url": "{{ .Site.Author.url }}",
-		"avatar": "{{ .Site.Author.avatar }}"
+  "author": {
+    "name": "{{ .Site.Author.name }}",
+    "url": "{{ .Site.Author.url }}",
+    "avatar": "{{ .Site.Author.avatar }}"
   },
   "items": [
-    {{ range $index, $pages := $pages }}
+    {{- range $index, $pages := $pages }}
     {{ if ge $index 1 }}, {{end}}{
-      {{ with .Params.tags }}"tags": {{ . | jsonify }},{{ end }}
+      {{- with .Params.tags }}"tags": {{ . | jsonify }},{{ end }}
+      {{- with .Title }}"title": {{ . | jsonify }},{{ end }}
       "id": "{{ .Permalink }}",
       "url": "{{ .Permalink }}",
-      "title": {{ .Title | jsonify }},
       "content_html": {{ .Content | jsonify }},
       "summary": {{ .Summary | jsonify }},
       "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
