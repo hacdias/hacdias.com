@@ -1,0 +1,26 @@
+{
+  "@context": [
+      "https://www.w3.org/ns/activitystreams"
+  ],
+  "id": "{{ "/" | absLangURL }}",
+  "type": "Person",
+  "name": "{{ .Site.Author.name }}",
+  "summary": {{ .Site.Params.description | jsonify }},
+  "preferredUsername": "{{ .Site.Author.username }}"
+  {{ with .Site.Author.avatar -}}
+  ,"icon": {
+      "type": "Image",
+      "url": "{{ . | absURL }}"
+  }
+  {{- end }}
+  {{ with .Site.Params.activitypub.inbox -}}
+  ,"inbox": "{{ . }}"
+  {{- end }}
+  {{ with .Site.Params.activitypub.publickeypem -}}
+  ,"publicKey": {
+      "id": "{{ "" | absLangURL }}#main-key",
+      "owner": "{{ "" | absLangURL }}",
+      "publicKeyPem": "{{ . }}"
+  }
+  {{- end }}
+}

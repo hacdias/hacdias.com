@@ -14,6 +14,7 @@ summaryLength: 150
 disableAliases: true
 
 author:
+  username: hacdias
   name: Henrique Dias
   avatar: https://hacdias.com/me-256.jpg
   url: https://hacdias.com
@@ -39,12 +40,21 @@ markup:
     renderer:
       unsafe: true
 
+mediaTypes:
+  application/activity+json:
+    suffixes:
+    - as2
+
 outputFormats:
   rss:
     baseName: feed
   jsonfeed:
     mediaType: application/json
     baseName: feed
+    isPlainText: true
+  as2:
+    mediaType: "application/activity+json"
+    baseName: index
     isPlainText: true
 
 outputs:
@@ -53,6 +63,7 @@ outputs:
     - jsonfeed
     - rss
     - redir
+    - as2
   section:
     - html
     - jsonfeed
@@ -65,3 +76,4 @@ outputs:
     - html
   page:
     - html
+    - as2
