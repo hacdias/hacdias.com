@@ -8,6 +8,7 @@
   "title": {{ .Title | jsonify }},
   "content": {{ .Content | jsonify }},
   "mediaType": "text/html",
+  "summary": {{ .Summary | jsonify }},
   "published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
   "updated": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }},
   "id": "{{ .Permalink }}",
