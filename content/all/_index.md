@@ -2,15 +2,13 @@
 title:  All
 layout: list
 categoriesToShow:
-  - articles
-  - bookmarks
-  - checkins
-  - likes
   - notes
-  - reads
+  - articles
   - replies
+  - reads
+  - bookmarks
+  - likes
   - reposts
-  - watches
 ---
 
 This page is just an unfiltered [`h-feed`][hfeed] with all posts from all types of this website.

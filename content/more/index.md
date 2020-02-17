@@ -16,7 +16,6 @@ Here's the list of other pages on this website that are not listed on the visibl
 - [Blogroll](/blogroll/)
 - [Bookmarks](/bookmarks/)
 - [Books](/books/) - my bookshelf with the books I've read.
-- [Checkins](/checkins/)
 - [Lab](/lab/)
 - [Likes](/likes/)
 - [Notes](/notes/)
@@ -26,7 +25,6 @@ Here's the list of other pages on this website that are not listed on the visibl
 - [Reposts](/reposts/)
 - [Tags](/tags/)
 - [Uses](/uses/)
-- [Watches](/watches/)
 
 ## Feeds
 

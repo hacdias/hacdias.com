@@ -42,10 +42,6 @@
 
   {{ if eq .Glob.Section "reads" }}
     {{ partial "book-status" . }}
-  {{ else if eq .Glob.Section "checkins" }}
-    {{ partial "checkin" . }}
-  {{ else if eq .Glob.Section "watches" }}
-    {{ partial "watch" . }}
   {{ end }}
 
   {{ if .Glob.Params.descAsSummary }}
