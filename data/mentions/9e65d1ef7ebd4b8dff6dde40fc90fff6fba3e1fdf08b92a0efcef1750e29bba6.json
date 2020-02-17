@@ -1,0 +1,34 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4a9f295bda670008266c64/2486f1d2d3cc333930872501d63f53d9",
+    "date": "2020-02-17T14:11:53.000Z",
+    "private": false,
+    "wm-id": 757201,
+    "content": {
+      "text": "That's 4 check-ins inside IST - Instituto Superior Técnico today! Keep going for more coins."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/4388c8870f8bc9f49a2e9c5db89653aa683fc71f953f8e5f92e2e86be2a0e0b5.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 10
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4a9f295bda670008266c64/aca2ca94a4c8a62cae875b2803e8ec0c",
+    "date": "2020-02-17T14:11:53.000Z",
+    "private": false,
+    "wm-id": 757200,
+    "content": {
+      "text": "You're the mayor!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/ddd5b39dddcd436bc9cdad25993b924be5ddd3adedb1975bac0cbe53931daa3e.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 3
+  }
+]

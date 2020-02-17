@@ -1,0 +1,66 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4a8a236dbed60008f83ff1/cdd7c1850249ea0153722275634f6f0c",
+    "date": "2020-02-17T12:42:11.000Z",
+    "private": false,
+    "wm-id": 757189,
+    "content": {
+      "text": "Your first College Auditorium!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4a8a236dbed60008f83ff1/af6aacabe8cd8cbb2d35f5ff86b40154",
+    "date": "2020-02-17T12:42:11.000Z",
+    "private": false,
+    "wm-id": 757188,
+    "content": {
+      "text": "Your first check-in at IST — Room VA3!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4a8a236dbed60008f83ff1/969124acd316ceb918fc85bf3d321ef2",
+    "date": "2020-02-17T12:42:11.000Z",
+    "private": false,
+    "wm-id": 757190,
+    "content": {
+      "text": "Fun Fact! The Quaker Oats guy has a name – Larry. Really, Larry?! Not Edgar or Horace or Whittaker?"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/130b03c2b896475dbfc6798079aeec4db0b1025c1fbe1f0c97121ca5e78e6e62.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 1
+  },
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4a8a236dbed60008f83ff1/083d7f644c1e34b7d56103840736b7b1",
+    "date": "2020-02-17T12:42:11.000Z",
+    "private": false,
+    "wm-id": 757187,
+    "content": {
+      "text": "5 check-ins with Isabel!"
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/48151f596bac0cef3241892658d28289cffb59b618b97a62f7ecb0d67a577d6d.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]

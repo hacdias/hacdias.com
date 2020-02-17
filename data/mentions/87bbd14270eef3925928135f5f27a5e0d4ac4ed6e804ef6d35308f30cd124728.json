@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://ownyourswarm.p3k.io/checkin/5e4aa9389a30a40007f06f81/86de561dafe4fa78661dec1ec30f4d0c",
+    "date": "2020-02-17T14:54:48.000Z",
+    "private": false,
+    "wm-id": 757225,
+    "content": {
+      "text": "First check-in at Torre Sul."
+    },
+    "author": {
+      "name": "Swarm",
+      "photo": "https://cdn.hacdias.com/webmentions/cb99a64686682c8c4285881fdc907085896cc222d9f3f3b23161eb99f26e576b.png",
+      "url": "https://swarmapp.com/"
+    },
+    "swarm-coins": 5
+  }
+]
