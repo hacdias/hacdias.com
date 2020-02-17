@@ -27,39 +27,27 @@
 {{- end }}
 {{- .Page.Scratch.Set "has-books-styles" true -}}
 
-{{- $books := sort (where .Site.RegularPages ".Type" "eq" "reads") "Date" "desc" -}}
-{{- $type := .Get "type" -}}
-{{- $scratchBook := newScratch -}}
-{{- $scratchBook.Add "books" slice -}}
-{{- range $i, $book := $books -}}
-  {{- $readStatus := index $book.Params.properties "read-status" -}}
-  {{- if and (eq $readStatus $type) (not (in .Params.tags "noshelf")) -}}
-    {{- $scratchBook.Add "books" (slice $book) -}}
-  {{- end -}}
-{{- end -}}
 
-{{- $books = $scratchBook.Get "books" -}}
+{{- $type := .Get "type" -}}
+{{- $books := sort (index .Site.Data.reads $type) "date" "desc"  -}}
 
 {{- if gt (len $books) 0 -}}
   <div class="bookshelf">
     {{- range $i, $book := $books -}}
-      {{- $read := (index $book.Params.properties "read-of").properties -}}
-      {{- $isbn := strings.TrimPrefix "isbn:" $read.uid -}}
-      {{- $cover := resources.Get (printf "images/books/%s.jpg" $isbn) -}}
-      {{- $readStatus := index $book.Params.properties "read-status" -}}
-      {{- $title := printf "%s by %s" $read.name $read.author -}}
-      <a href="{{ $book.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}">
+      {{- $cover := resources.Get (printf "images/books/%s.jpg" $book.isbn) -}}
+      {{- $title := printf "%s by %s" $book.name $book.author -}}
+      {{- with $book.url -}}<a href="{{ . }}">{{ end }}
         {{- with $cover }}
           {{- $100 := $cover.Fill "100x150 Center q50" -}}
           {{- $200 := $cover.Fill "210x300 Center q50" -}}
           <picture>
             <source srcset="{{ $100.RelPermalink }} 100w, {{ $200.RelPermalink }} 200w">
-            <img src="{{ $cover.RelPermalink }}" />
+            <img src="{{ $cover.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}" />
           </picture>
         {{- else -}}
           <span>{{ $title }}</span>
         {{- end -}}
-      </a>
+      {{- with $book.url -}}</a>{{ end }}
     {{- end -}}
   </div>
 {{- else -}}

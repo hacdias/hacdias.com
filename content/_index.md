@@ -5,7 +5,6 @@ categoriesToShow:
   - notes
   - articles
   - replies
-  - reads
 ---
 
 <div class="h-card" style="display: none;">

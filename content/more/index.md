@@ -20,7 +20,6 @@ Here's the list of other pages on this website that are not listed on the visibl
 - [Likes](/likes/)
 - [Notes](/notes/)
 - [Pins](/pins/)
-- [Reads](/reads/)
 - [Replies](/replies/)
 - [Reposts](/reposts/)
 - [Tags](/tags/)

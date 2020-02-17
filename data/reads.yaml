@@ -1,0 +1,436 @@
+finished:
+  - date: 2015-02-28T00:00:00.000Z
+    author: C.S. Lewis
+    name: 'O Leão, a Feiticeira e o Guarda-Roupa'
+    isbn: '9789722330206'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: Jeff Kinney
+    name: O Rodrick é Terrível
+    isbn: '9789896680060'
+    rating: 5
+  - date: 2015-02-28T00:00:00.000Z
+    author: C.S. Lewis
+    name: A Viagem do Caminheiro da Alvorada
+    isbn: '9789722331326'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: C.S. Lewis
+    name: A Última Batalha
+    isbn: '9789722332200'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: C.S. Lewis
+    name: O Trono de Prata
+    isbn: '9789722331685'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: C.S. Lewis
+    name: O Cavalo e o Seu Rapaz
+    isbn: '9789722330558'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: C.S. Lewis
+    name: O Príncipe Caspian
+    isbn: '9789722330978'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: C.S. Lewis
+    name: O Sobrinho do Mágico
+    isbn: '9789722329989'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: Afonso Cruz
+    name: Os Livros Que Devoraram o Meu Pai
+    isbn: '9789722120951'
+    rating: 5
+  - date: 2015-02-28T00:00:00.000Z
+    author: Rosa Lobato de Faria
+    name: O Prenúncio das Águas
+    isbn: '9789724129709'
+    rating: 4
+  - date: 2015-02-28T00:00:00.000Z
+    author: Rick Riordan
+    name: Percy Jackson e a Maldição do Titã
+    isbn: '9789724620251'
+    rating: 4
+  - date: 2015-02-28T00:00:00.000Z
+    author: Tim Collins
+    name: Diário de Um Vampiro Banana
+    isbn: '9789898260840'
+    rating: 5
+  - date: 2015-02-28T00:00:00.000Z
+    author: Rick Riordan
+    name: Percy Jackson e o Último Olimpiano
+    isbn: '9789724622415'
+    rating: 5
+  - date: 2015-02-28T00:00:00.000Z
+    author: Rick Riordan
+    name: O Herói Desaparecido
+    isbn: '9789896574918'
+    rating: 4
+  - date: 2015-02-28T00:00:00.000Z
+    author: Marion Zimmer Bradley
+    name: A Senhora da Magia
+    isbn: '9789896373986'
+    rating: 5
+  - date: 2015-02-28T00:00:00.000Z
+    author: Caragh M. O'Brien
+    name: Apreciada
+    isbn: '9789895018987'
+    rating: 4
+  - date: 2015-02-28T00:00:00.000Z
+    author: Caragh M. O'Brien
+    name: Marcados à Nascença
+    isbn: '9789895015870'
+    rating: 4
+  - date: 2015-02-28T00:00:00.000Z
+    author: Tim Collins
+    name: Príncipe da Tansilvânia
+    isbn: '9789897070211'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: Tim Collins
+    name: O Diário de Um Lobisomem Banana
+    isbn: '9789897070730'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: Jeff Kinney
+    name: O Emplastro
+    isbn: '9789897071188'
+    rating: 5
+  - date: 2015-02-28T00:00:00.000Z
+    author: Jeff Kinney
+    name: Tirem-me Daqui!
+    isbn: '9789897071102'
+    rating: 4
+  - date: 2015-02-28T00:00:00.000Z
+    author: Jeff Kinney
+    name: A Verdade Nua e Crua
+    isbn: '9789897070433'
+    rating: 4
+  - date: 2015-02-28T00:00:00.000Z
+    author: Jeff Kinney
+    name: Um Dia de Cão
+    isbn: '9789896680596'
+    rating: 3
+  - date: 2015-02-28T00:00:00.000Z
+    author: Jeff Kinney
+    name: A Última Gota
+    isbn: '9789896680589'
+    rating: 5
+  - date: 2015-03-06T00:00:00.000Z
+    author: Tim Collins
+    name: Bananus Maximus
+    isbn: '9789897071140'
+  - date: 2015-03-09T00:00:00.000Z
+    author: Jorge Amado
+    name: Capitães da Areia
+    isbn: '9789896530075'
+    rating: 4
+  - date: 2015-03-09T00:00:00.000Z
+    author: Veronica Roth
+    name: Insurgente
+    isbn: '9789720043825'
+    rating: 5
+  - date: 2015-03-09T00:00:00.000Z
+    author: Eça de Queirós
+    name: Contos
+    isbn: '9789897110047'
+    rating: 3
+  - date: 2015-03-26T00:00:00.000Z
+    author: Afonso Cruz
+    name: Para Onde Vão Os Guarda-Chuvas
+    isbn: '9789896721978'
+    rating: 4
+  - date: 2015-03-29T00:00:00.000Z
+    author: Lois Lowry
+    name: The Giver
+    isbn: '9780385732550'
+    rating: 5
+  - date: 2015-03-29T23:00:00.000Z
+    author: José Eduardo Agualusa
+    name: A Vida no Céu
+    isbn: '9789897221101'
+    rating: 4
+  - date: 2015-04-04T23:00:00.000Z
+    author: Veronica Roth
+    name: Divergente
+    isbn: '9789720043818'
+    rating: 5
+  - date: 2015-04-23T23:00:00.000Z
+    author: Brigitte Giraud
+    name: 'Um Ano Estrangeiro '
+    isbn: '9789727707638'
+    rating: 4
+  - date: 2015-05-04T23:00:00.000Z
+    author: Veronica Roth
+    name: Convergente
+    isbn: '9789720043832'
+    rating: 5
+  - date: 2015-07-08T23:00:00.000Z
+    author: Veronica Roth
+    name: Quatro – Histórias da Série Divergente
+    isbn: '9789720047250'
+  - date: 2015-08-01T23:00:00.000Z
+    author: Stephen Hawking
+    name: 'Breve História do Tempo: do Big Bang aos Buracos Negros'
+    isbn: '9789726620105'
+    rating: 5
+  - date: 2015-09-16T23:00:00.000Z
+    author: Daniel H. Pink
+    name: A Nova Inteligência
+    isbn: '9789724746203'
+  - date: 2015-10-29T00:00:00.000Z
+    author: John Green
+    name: Cidades de Papel
+    isbn: '9789722352925'
+  - date: 2015-11-12T00:00:00.000Z
+    author: John Green
+    name: O Teorema Katherine
+    isbn: '9789892326337'
+  - date: 2016-03-31T23:00:00.000Z
+    author: Eça de Queirós
+    name: Os Maias
+    isbn: '9780811216494'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério do Saco da Roupa
+    isbn: '9789897410543'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério da Casa Queimada
+    isbn: '9789895554591'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: Os Cinco na Ilha do Tesouro
+    isbn: '9789895557745'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: Os Cinco e os Contrabandistas
+    isbn: '9789895558360'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Geronimo Stilton
+    name: Naufrágio na Ilha dos Piratas
+    isbn: '9789722339360'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Geronimo Stilton
+    name: Pânico nos Himalaias
+    isbn: '9789722336390'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Geronimo Stilton
+    name: O Mistério do Olho de Esmeralda
+    isbn: '9789722335157'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Geronimo Stilton
+    name: O Manuscrito Misterioso
+    isbn: '9789722334723'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura no Pulo do Lobo
+    isbn: '9789722121026'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura na Amazónia
+    isbn: '9789722120388'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura no Labirinto Misterioso
+    isbn: '9789722118606'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério do Príncipe Desaparecido
+    isbn: '9789895560202'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura no Comboio
+    isbn: '9789722117906'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura Secreta
+    isbn: '9789722114677'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura na Casa Assombrada
+    isbn: '9789722111225'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura na Praia
+    isbn: '9789722108997'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura na Serra da Estrela
+    isbn: '9789722108379'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura no Verão
+    isbn: '9789722107747'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura no Bosque
+    isbn: '9789722100045'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura no Deserto
+    isbn: '9789722100205'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura em Lisboa
+    isbn: '9789722100212'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura entre Douro e Minho
+    isbn: '9789722100052'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério do Ladrão Invisível
+    isbn: '9789895559541'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Ana Maria Magalhães
+    name: Uma Aventura nas Férias do Natal
+    isbn: '9789722100014'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério do Gato Cómico
+    isbn: '9789895557738'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério da Casa Invisível
+    isbn: '9789895555673'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério do Colar Desaparecido
+    isbn: '9789895555222'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Misterio das Cartas Anónimas
+    isbn: '9789895554836'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério do Quarto Secreto
+    isbn: '9789897415005'
+  - date: 2016-08-24T23:00:00.000Z
+    author: Enid Blyton
+    name: O Mistério da Gata Desaparecida
+    isbn: '9789895554607'
+  - date: 2016-09-22T23:00:00.000Z
+    author: Luís de Sttau Monteiro
+    name: Felizmente Há Luar!
+    isbn: '9789726277446'
+    rating: 4
+  - date: 2016-09-23T23:00:00.000Z
+    author: John Osborne
+    name: Look Back in Anger
+    isbn: '9780571322763'
+  - date: 2016-10-14T23:00:00.000Z
+    author: George Orwell
+    name: Nineteen Eighty-Four
+    isbn: '9780141393049'
+    rating: 4
+  - date: 2017-01-01T00:00:00.000Z
+    author: J.K. Rowling
+    name: Harry Potter and the Philosopher's Stone
+    isbn: '9781408855652'
+  - date: 2017-01-09T00:00:00.000Z
+    author: J.K. Rowling
+    name: Harry Potter and the Chamber of Secrets
+    isbn: '9781408855669'
+    rating: 4
+  - date: 2017-01-14T00:00:00.000Z
+    author: J.K. Rowling
+    name: Harry Potter and the Prisoner of Azkaban
+    isbn: '9781408855676'
+    rating: 4
+  - date: 2017-01-20T00:00:00.000Z
+    author: J.K. Rowling
+    name: Harry Potter and the Goblet of Fire
+    isbn: '9781408855683'
+    rating: 4
+  - date: 2017-01-24T00:00:00.000Z
+    author: J.K. Rowling
+    name: Harry Potter and the Order of the Phoenix
+    isbn: '9781408855690'
+    rating: 4
+  - date: 2017-01-26T00:00:00.000Z
+    author: J.K. Rowling
+    name: Harry Potter and the Half-Blood Prince
+    isbn: '9781408855706'
+    rating: 5
+  - date: 2017-01-29T00:00:00.000Z
+    author: J.K. Rowling
+    name: Harry Potter and the Deathly Hallows
+    isbn: '9781408855713'
+    rating: 5
+  - date: 2017-01-30T00:00:00.000Z
+    author: J.K. Rowling
+    name: 'Fantastic Beasts and Where to Find Them: The Original Screenplay'
+    isbn: '9781408708989'
+  - date: 2017-05-09T23:00:00.000Z
+    author: José Saramago
+    name: Memorial do Convento
+    isbn: '9789720046710'
+    rating: 4
+  - date: 2017-05-09T23:00:00.000Z
+    author: Peter Thiel
+    name: 'Zero to One: Notes on Start Ups, or How to Build the Future'
+    isbn: '9780753555200'
+  - date: 2017-12-08T00:00:00.000Z
+    author: Ray Bradbury
+    name: Fahrenheit 451
+    isbn: '9780007181704'
+  - date: 2017-12-23T00:00:00.000Z
+    author: George Orwell
+    name: Animal Farm
+    isbn: '9780141036137'
+  - date: 2017-12-30T00:00:00.000Z
+    author: Aldous Huxley
+    name: Brave New World
+    isbn: '9781784870140'
+    rating: 5
+  - date: 2018-01-01T00:00:00.000Z
+    author: Stephen Chbosky
+    name: The Perks of Being a Wallflower
+    isbn: '9781847394071'
+    rating: 4
+  - date: 2018-06-25T23:00:00.000Z
+    author: Brian W. Kernighan
+    name: The Practice of Programming (Addison-Wesley Professional Computing Series)
+    isbn: '9780201615869'
+  - date: 2020-01-15T00:00:00.000Z
+    author: Steve Kinney
+    name: Electron in Action
+    isbn: '9781617294143'
+    rating: 3
+  - date: 2020-01-15T00:00:00.000Z
+    author: Yevgeniy Brikman
+    name: 'Terraform: Up and Running: Writing Infrastructure as Code'
+    isbn: '9789352135462'
+    rating: 4
+  - date: 2020-01-15T00:00:00.000Z
+    author: Jerry Weissman
+    name: 'Presenting to Win: The Art of Telling Your Story'
+    isbn: '9780130464132'
+    rating: 4
+  - date: 2020-01-15T00:00:00.000Z
+    author: Edward Snowden
+    name: Permanent Record
+    isbn: '9781250237231'
+    rating: 4
+to-read:
+  - date: 2020-01-29T23:01:26.079Z
+    author: Alex Bellos
+    name: Alex's Adventures In Numberland
+    isbn: '9781408809594'
+  - date: 2020-01-29T23:21:46.563Z
+    author: Robert Louis Stevenson
+    name: The Strange Case of Dr Jekyll and Mr Hyde
+    isbn: '9781847493781'
+  - date: 2020-01-30T19:20:04.861Z
+    author: André Aciman
+    name: Call Me By Your Name
+    isbn: '9781786495259'
+reading:
+  - date: 2020-01-31T21:03:46.419Z
+    author: Lewis Carroll
+    name: Alice's Adventures in Wonderland and Through the Looking Glass
+    isbn: '9780141439761'

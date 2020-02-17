@@ -40,10 +40,6 @@
   </aside>
   {{ end }}
 
-  {{ if eq .Glob.Section "reads" }}
-    {{ partial "book-status" . }}
-  {{ end }}
-
   {{ if .Glob.Params.descAsSummary }}
     <div class='content copy p-summary'><p>{{ .Glob.Description }}</p></div>
   {{ else if $useSummary}}

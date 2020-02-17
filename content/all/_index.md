@@ -5,7 +5,6 @@ categoriesToShow:
   - notes
   - articles
   - replies
-  - reads
   - bookmarks
   - likes
   - reposts

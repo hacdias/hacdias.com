@@ -8,7 +8,7 @@ description: >
 ---
 
 Here you can find the books I've read in the past or that I want to read. For what I'm reading at the moment,
-please check out my [now page](/now/). These shelfs are generated from my reading [logs](/reads/).
+please check out my [now page](/now/).
 
 ## Want to Read
 
