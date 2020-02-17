@@ -1,5 +1,5 @@
 ---
-date: 2020-02-13T19:58:00.000Z
+date: 2020-02-17T21:46:00.000Z
 emoji: "\U0001F6E0"
 properties: {}
 publishDate: 2020-01-21T15:39:00.000Z
@@ -33,6 +33,7 @@ This is a [uses] page where you can find some of the technology I use. This page
 - [Namecheap][namecheap]
 - [GitHub][gh]
 - [Cloudflare][cloudflare]
+- [BunnyCDN](https://bunnycdn.com/)
 
 #### IndieWeb related services:
 
@@ -48,7 +49,6 @@ This is a [uses] page where you can find some of the technology I use. This page
 
 - [Caddy][caddy]
 - [Compass][compass]
-- [OwnYourTrakt][ownyourtrakt]
 
 [uses]: https://uses.tech/
 [vim]: https://www.vim.org/
@@ -63,4 +63,3 @@ This is a [uses] page where you can find some of the technology I use. This page
 [compass]: https://github.com/aaronpk/Compass
 [cloudflare]: https://www.cloudflare.com/
 [dotfiles]: https://github.com/hacdias/dotfiles
-[ownyourtrakt]: https://github.com/hacdias/ownyourtrakt
