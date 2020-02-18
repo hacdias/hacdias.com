@@ -60,6 +60,11 @@
   <script defer src="{{ $res.RelPermalink }}?hash={{ md5 $res.Content }}"></script>
 {{ end }}
 
+{{ if .Params.math }}
+<!-- TODO: serve it myself -->
+<script defer async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{{ end }}
+
 {{- with or .Params.emoji .Site.Params.emoji }}<link rel="icon" data-emoji="{{ . }}" type="image/png" />{{ end }}
 
 {{ if .IsHome }}
