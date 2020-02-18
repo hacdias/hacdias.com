@@ -31,7 +31,7 @@
     {{ end}}
   {{ end }}
 
-  {{ if and (eq .Glob.Section "kb") (eq .Mode "single") }}
+  {{ if .Glob.Params.toc }}
   <aside id="toc">
     <header>
       <h2>Table of Contents</h2>
