@@ -9,59 +9,7 @@
 		<div class='copy'>{{ . }}</div>
   {{- end }}
 
-	<div>
-    <input id="search" placeholder="Search...">
-    <div id="results"></div>
-	</div>
+  {{ partial "rec-sitemap" . }}
 </main>
-
-{{ $js := resources.Get "js/elasticlunr.min.js" | resources.Minify }}
-<script src="{{ $js.RelPermalink }}?hash={{ md5 $js.Content }}"></script>
-
-<script>const docs = [
-  {{- range $index, $p := .Pages }}
-  {{ if ge $index 1 }}, {{end}}{
-    permalink: "{{ $p.RelPermalink | safeJS }}",
-    title: "{{ $p.Title | safeJS }}",
-    content: "{{ $p.Content | plainify | safeJS }}",
-    tags: {{ or $p.Params.tags slice | jsonify | safeJS }}
-  }
-  {{- end -}}
-]</script>
-
-<script>
-const idx = elasticlunr(function() {
-  this.setRef('permalink')
-  this.addField('title')
-  this.addField('content')
-
-  docs.forEach(doc => this.addDoc(doc))
-})
-
-const searchInput = document.getElementById('search')
-const resultsDiv = document.getElementById('results')
-
-searchInput.addEventListener('input', e => {
-  const results = idx.search(searchInput.value, {
-    fields: {
-        title: {boost: 2, bool: 'AND'},
-        content: {boost: 1}
-    },
-    expand: true,
-    boolean: "OR"
-  })
-  
-  resultsDiv.innerHTML = results.map(({ doc }) => `<div>
-    <a href="${doc.permalink}">${doc.title}</a>
-
-    <p>${doc.content.substr(0, 200)}</p>
-
-    <ul>
-      ${doc.tags.map(tag => `<li><a href="../tags/${tag}">#${tag}</a></li>`).join('\n')}
-    </ul>
-  </div>`).join('\n')
-})
-</script>
-
 
 {{ end }}
