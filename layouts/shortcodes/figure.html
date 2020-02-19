@@ -4,11 +4,13 @@
     <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
   {{- end }}
   {{ $original := $.Page.Resources.GetMatch (.Get "src") }}
-  {{ $1000 := $original.Resize "1000x" }}
-  {{ $2000 := $original.Resize "2000x" }}
 
   <picture>
-    <source srcset="{{ $1000.RelPermalink }} 1000w, {{ $2000.RelPermalink }} 2000w">
+    {{ if not (in $original.MediaType.Suffixes "gif") }}
+      {{ $1000 := $original.Resize "1000x" }}
+      {{ $2000 := $original.Resize "2000x" }}
+      <source srcset="{{ $1000.RelPermalink }} 1000w, {{ $2000.RelPermalink }} 2000w">
+    {{ end }}
     <img src="{{ $original.RelPermalink }}"
       {{- if or (.Get "alt") (.Get "caption") }}
       alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
