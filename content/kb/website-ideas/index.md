@@ -2,6 +2,7 @@
 title: Website and random ideas
 ---
 
+- Git webhook to pull & build.
 - Backup my email.
 - Sync https://hacdias.com/pins/ with Piñata.
 - Serve my blog over `dat://`
