@@ -1,6 +1,5 @@
 ---
 title: Sorting Algorithms
-draft: true
 math: true
 date: 2018-09-23
 tags:
