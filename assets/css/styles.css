@@ -513,17 +513,34 @@ figure.right {
 }
 
 #toc {
-  padding: 1rem;
-  background: var(--near-white);
-  border: 1px dashed var(--main);
-  color: var(--accent-darker);
+  display: none;
+}
+
+/* 
+article {
+  position: relative;
+}
+
+#toc {
+  padding: 0 2rem;
+  width: 20rem;
+  position: absolute;
+  top: 0;
+  right: -20rem;
 }
 
 #toc h2 {
-  margin-top: 0;
-  text-align: center
+  margin: 0 0 0.25rem 0;
+  font-size: 1rem;
+  color: var(--accent-darker);
 }
 
 #toc ul {
   margin: 0;
+  list-style: none;
+  padding-left: 1rem;
 }
+
+#toc > nav > ul {
+  padding: 0;
+} */

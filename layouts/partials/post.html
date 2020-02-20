@@ -1,5 +1,6 @@
 {{ $layout := or (index .Glob.Site.Data.layout .Glob.Section) (index .Glob.Site.Data.layout "default") }}
 {{ $isList := eq .Mode "list" -}}
+{{ $isKb := eq .Glob.Section "kb" }}
 {{ $useSummary := false }}
 <article class='h-entry'>
   {{ if in (slice "articles" "kb" "") .Glob.Section }}
@@ -31,10 +32,10 @@
     {{ end}}
   {{ end }}
 
-  {{ if .Glob.Params.toc }}
+  {{ if $isKb }}
   <aside id="toc">
     <header>
-      <h2>Table of Contents</h2>
+      <h2>Contents</h2>
     </header>
     {{.Glob.TableOfContents}}
   </aside>
@@ -104,7 +105,7 @@
     </div>
   </footer>
 
-  {{ if not $isList -}}
+  {{ if and (not $isList) (not $isKb) -}}
     {{ partial "webmention" . -}}
   {{ end }}
 </article>
