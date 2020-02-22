@@ -1,3 +1,0 @@
----
-title: Computation and Society
----
