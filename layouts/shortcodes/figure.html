@@ -1,23 +1,26 @@
-<!-- https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/shortcodes/figure.html -->
+{{ $original := $.Page.Resources.GetMatch (.Get "src") }}
 <figure {{ with .Get "class" }}class="{{ . }}"{{ end }} {{ with .Get "style" }}style="{{ . }}"{{ end }}>
   {{- if .Get "link" -}}
     <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
   {{- end }}
-  {{ $original := $.Page.Resources.GetMatch (.Get "src") }}
 
-  <picture>
-    {{ if not (in $original.MediaType.Suffixes "gif") }}
-      {{ $1000 := $original.Resize "1000x" }}
-      {{ $2000 := $original.Resize "2000x" }}
-      <source srcset="{{ $1000.RelPermalink }} 1000w, {{ $2000.RelPermalink }} 2000w">
-    {{ end }}
-    <img src="{{ $original.RelPermalink }}"
-      {{- if or (.Get "alt") (.Get "caption") }}
-      alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-      {{- end -}}
-      {{- with .Get "width" }} width="{{ . }}"{{ end -}}
-      {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
-  </picture>
+  {{ if in $original.MediaType.Suffixes "svg" }}
+    {{ $original.Content | safeHTML }}
+  {{ else }}
+    <picture>
+      {{ if not (in $original.MediaType.Suffixes "gif") }}
+        {{ $1000 := $original.Resize "1000x" }}
+        {{ $2000 := $original.Resize "2000x" }}
+        <source srcset="{{ $1000.RelPermalink }} 1000w, {{ $2000.RelPermalink }} 2000w">
+      {{ end }}
+      <img src="{{ $original.RelPermalink }}"
+        {{- if or (.Get "alt") (.Get "caption") }}
+        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+        {{- end -}}
+        {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+        {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
+    </picture>
+  {{ end }}
   {{- if .Get "link" }}</a>{{ end -}}
   {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
     <figcaption>
