@@ -24,6 +24,7 @@ Here's the list of other pages on this website that are not listed on the visibl
 - [Reposts](/reposts/)
 - [Tags](/tags/)
 - [Uses](/uses/)
+- [Watches](/watches/)
 
 ## Feeds
 
