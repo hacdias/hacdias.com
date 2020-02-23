@@ -415,6 +415,10 @@ figure.right {
 }
 
 @media screen and (max-width: 40rem) {
+  body {
+    background: var(--white);
+  }
+
   .container {
     width: 100%;
     max-width: 100%;
