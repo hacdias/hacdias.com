@@ -5,7 +5,9 @@ date: 2020-02-22T22:05:00.000Z
 description: >
   I now have a watch log again and decided to analyse 2019's
   habits of TV shows and movie watching.
-properties: {}
+properties:
+  syndication:
+    - https://twitter.com/hacdias/status/1231484792027348994
 tags:
   - meta
   - movies
