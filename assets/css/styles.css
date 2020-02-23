@@ -514,3 +514,19 @@ figure.right {
 #dark .invert {
   filter: invert(1);
 }
+
+#TableOfContents > ul {
+  float: right;
+  width: 17rem;
+  border: 1px solid var(--light-white);
+  border-top: 0;
+  border-right: 0;
+  margin: 0 0 1rem 1rem;
+  padding: 1rem;
+  font-size: var(--f6);
+}
+
+#TableOfContents ul {
+  list-style: none;
+  padding-left: 1rem;
+}

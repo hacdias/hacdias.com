@@ -2,7 +2,7 @@
 {{ $isList := eq .Mode "list" -}}
 {{ $useSummary := false }}
 <article class='h-entry'>
-  {{ if in (slice "articles" "") .Glob.Section }}
+  {{ if in (slice "articles" "kb" "") .Glob.Section }}
     {{ if not .Glob.Params.hideTitle }}
     <header>
       <h1 class='p-name'>
@@ -29,6 +29,10 @@
         </p>
       {{ end }}
     {{ end}}
+  {{ end }}
+
+  {{ if (eq .Glob.Section "kb") }}
+    {{.Glob.TableOfContents}}
   {{ end }}
 
   {{ if .Glob.Params.descAsSummary }}
@@ -95,7 +99,7 @@
     </div>
   </footer>
 
-  {{ if (not $isList) -}}
+  {{ if not (or $isList (eq .Glob.Section "kb")) -}}
     {{ partial "webmention" . -}}
   {{ end }}
 </article>
