@@ -2,7 +2,7 @@
 date: 2020-02-16T10:50:00.000Z
 menu:
   main:
-    weight: 6
+    weight: 7
 properties: {}
 publishDate: 2020-01-25T22:56:00.000Z
 tags: []
@@ -18,7 +18,6 @@ Here's the list of other pages on this website that are not listed on the visibl
 - [Books](/books/) - my bookshelf with the books I've read.
 - [Lab](/lab/)
 - [Likes](/likes/)
-- [Notes](/notes/)
 - [Pins](/pins/)
 - [Replies](/replies/)
 - [Reposts](/reposts/)
