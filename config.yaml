@@ -8,7 +8,6 @@ title: "@hacdias's blog"
 summarylength: 30
 relativeURLs: true
 enableRobotsTXT: true
-pygmentsCodeFences: true
 summaryLength: 150
 disableAliases: true
 
@@ -42,7 +41,7 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    noClasses: false
+    style: bw
 
 mediaTypes:
   application/activity+json:

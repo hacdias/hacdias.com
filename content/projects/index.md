@@ -13,8 +13,14 @@ menu:
 <style>
 .projects {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 2em;
+}
+
+@media screen and (max-width: 45rem) {
+  .projects {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media screen and (max-width: 40rem) {

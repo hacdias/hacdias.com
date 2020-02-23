@@ -1,11 +1,9 @@
 body {
-  --main: #001B44;
-  --accent: #E91E63;
-  --accent-darker: #b5003d;
+  --accent: #575fcf;
+  --accent-darker: #3c40c6;
   --accent-text: white;
 
   --dark-gray: #333;
-  --gray: #777;
   --white: #ffffff;
   --near-white: #f4f4f4;
   --light-white: #ddd;
@@ -36,6 +34,14 @@ body {
     segoe ui,
     arial,
     sans-serif;
+
+  background-image: linear-gradient(45deg,var(--accent) 25%,transparent 25%),
+    linear-gradient(-45deg,var(--accent) 25%,transparent 25%),
+    linear-gradient(45deg,transparent 75%,var(--accent) 75%),
+    linear-gradient(-45deg,transparent 75%,var(--accent) 75%);
+  background-size: 2px 2px;
+  background-position: 0 0,1px 0,1px -1px,0 1px;
+  background-attachment: fixed;
 }
 
 video,
@@ -53,7 +59,6 @@ figure img {
 }
 
 h1 {
-  font-size: 2.25rem;
   margin: .5rem 0;
 }
 
@@ -103,6 +108,7 @@ input[type="submit"] {
   text-transform: uppercase;
   cursor: pointer;
   border-radius: 0;
+  outline: 0;
 }
 
 button:hover,
@@ -111,33 +117,11 @@ input[type="submit"]:hover {
   border-color: var(--accent-darker);
 }
 
-#header {
-  margin-bottom: 2rem;
-}
-
-#header div {
-  margin: 1.5rem 0;
-}
-
-#header div p:first-child {
-  margin: 0;
-  font-size: 2rem;
-  font-weight: 700;
-  line-height: 1;
-  color: var(--accent-darker);
-}
-
-#header div p:last-child {
-  margin: .5rem 0 0;
-  font-size: .875rem;
-  line-height: 1;
-}
-
 #header nav {
-  margin: 1rem 0;
-  background-color: var(--main);
-  box-shadow: .25rem .25rem var(--accent);
-  text-transform: uppercase;
+  margin-bottom: 1rem;
+  text-transform: lowercase;
+  border-bottom: .08rem solid var(--accent);
+  padding-bottom: 0.2rem;
 }
 
 #header nav label a,
@@ -149,21 +133,23 @@ input[type="submit"]:hover {
   text-align: right;
 }
 
-#header nav a:hover {
-  background: rgba(255, 255, 255, 0.25);
+#header nav a:first-of-type {
+  font-weight: bold;
+}
+
+#header nav a:first-of-type::after {
+  content: '•';
+  margin-left: 0.5rem;
 }
 
 #header nav a.a:hover,
 #header nav a.a {
-  background: var(--accent-darker);
-  color: var(--accent-text);
+  color: var(--accent);
 }
 
 #header nav a {
-  color: white;
-  padding: 0.5rem 1rem;
+  margin-right: 0.5rem;
   display: inline-block;
-  font-weight: 700;
   cursor: pointer;
 }
 
@@ -248,18 +234,17 @@ blockquote {
   margin: 0;
   padding: 0.5rem;
   overflow-x: auto;
-  filter: invert(1);
-}
-
-#dark .highlight > pre {
-  filter: invert(0)
+  background-color: transparent !important;
 }
 
 .container {
   width: calc(100% - 3rem);
-  max-width: 40rem;
-  margin-right: auto;
-  margin-left: auto;
+  padding: 1.5rem;
+  max-width: 50rem;
+  margin: 1.5rem auto;
+  background: var(--white);
+  border: 1px solid var(--accent-darker);
+  box-shadow: .25rem .25rem var(--accent-darker);
 }
 
 .copy ol,
@@ -421,7 +406,7 @@ figure.right {
 
 .site-footer {
   opacity: 0.5;
-  margin: 2rem 0;
+  margin-top: 2rem;
   font-size: var(--f6);
 }
 
@@ -429,14 +414,22 @@ figure.right {
   display: flex;
 }
 
-.site-footer > div > * {
-  margin-bottom: 0.5rem;
-}
+@media screen and (max-width: 40rem) {
+  .container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+  }
 
-@media screen and (max-width: 43rem) {
   .site-footer > div {
     display: block;
     text-align: center;
+  }
+
+  .site-footer > div > * {
+    margin-bottom: 0.5rem;
   }
 
   .page-footer {
@@ -452,12 +445,17 @@ figure.right {
     display: block;
   }
 
+  #header nav a:first-of-type::after {
+    content: '';
+  }
+
   #header div {
     text-align: center;
   }
 
   #header nav label a {
     display: block !important;
+    margin-right: 0;
   }
 
   #header nav a {
@@ -498,10 +496,15 @@ figure.right {
   --accent-darker: #0cf;
   --accent-text: black;
   --dark-gray: #eee;
-  --gray: #bbb;
   --white: #000000;
   --near-white: #121212;
   --light-white: #222;
+
+  background: var(--white);
+}
+
+#dark .container {
+  box-shadow: none;
 }
 
 #dark img:not([src*=".svg"]) {
@@ -511,36 +514,3 @@ figure.right {
 #dark .invert {
   filter: invert(1);
 }
-
-#toc {
-  display: none;
-}
-
-/* 
-article {
-  position: relative;
-}
-
-#toc {
-  padding: 0 2rem;
-  width: 20rem;
-  position: absolute;
-  top: 0;
-  right: -20rem;
-}
-
-#toc h2 {
-  margin: 0 0 0.25rem 0;
-  font-size: 1rem;
-  color: var(--accent-darker);
-}
-
-#toc ul {
-  margin: 0;
-  list-style: none;
-  padding-left: 1rem;
-}
-
-#toc > nav > ul {
-  padding: 0;
-} */
