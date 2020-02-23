@@ -5,7 +5,6 @@ rssLimit: 20
 pluralizelisttitles: false
 removePathAccents: true
 title: "@hacdias's blog"
-pygmentsStyle: swapoff
 summarylength: 30
 relativeURLs: true
 enableRobotsTXT: true
@@ -42,6 +41,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  highlight:
+    noClasses: false
 
 mediaTypes:
   application/activity+json:
