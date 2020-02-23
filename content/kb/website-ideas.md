@@ -1,17 +1,15 @@
 ---
-date: '2020-02-22T15:23:58.152Z'
+date: '2020-02-23T20:58:01.289Z'
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
 ---
 
-- [ ] Git webhook to pull & build.
-- [ ] Backup my email.
-- [x] Sync https://hacdias.com/pins/ with Pinata (I'm actually fetching my pins **from** Pinata).
-- [ ] Serve my blog over `dat://`
-- [ ] Add schema.org
-- [ ] Automatic blogroll from Aperture
-- [ ] Import my.flightradar24.com and create some visualisation tool.
-- [ ] https://blog.usejournal.com/what-color-is-your-name-a-new-synesthesia-project-will-show-you-51bb3f0dc638
+- Backup my email.
+- Serve my blog over `dat://`
+- Add schema.org
+- Automatic blogroll from Aperture
+- Import my.flightradar24.com and create some visualisation tool.
+- https://synesthesia.me/see-your-name
 
 ## Media Endpoint
 
@@ -24,6 +22,11 @@ title: Website Ideas
 ## Knowledge Base / Wiki
 
 Using Notable right now, which supports both Mermaid and $\LaTeX$. However, what I want is to have a public knowledge base where I can post everything I enjoy. Idea is: if I end up enjoying Notable as much as I hope, I can create a script (maybe using Pandoc) that converts this Markdown and generates the Math and Diagrams beforehand so it doesn't put a heavy JavaScript load under my website.
+
+Missing support for:
+
+- Latex math: $\LaTeX$
+- Mermaid diagrams
 
 ## ActivityPub
 
