@@ -1,9 +1,9 @@
 ---
-date: '2020-02-22T14:46:53.600Z'
+date: '2020-02-23T14:10:01.374Z'
 publishDate: '2020-02-22T10:42:47.993Z'
 tags:
   - leic
 title: Distributed Systems
 ---
 
-# Distributed Systems
+TODO
