@@ -414,9 +414,32 @@ figure.right {
   display: flex;
 }
 
+#TableOfContents > ul {
+  float: right;
+  width: 17rem;
+  border: 1px solid var(--light-white);
+  border-top: 0;
+  border-right: 0;
+  margin: 0 0 1rem 1rem;
+  padding: 1rem;
+  font-size: var(--f6);
+}
+
+#TableOfContents ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
 @media screen and (max-width: 40rem) {
   body {
     background: var(--white);
+  }
+
+  #TableOfContents > ul {
+    margin: 0;
+    float: none;
+    border: 1px solid var(--light-white);
+    width: auto;
   }
 
   .container {
@@ -517,20 +540,4 @@ figure.right {
 
 #dark .invert {
   filter: invert(1);
-}
-
-#TableOfContents > ul {
-  float: right;
-  width: 17rem;
-  border: 1px solid var(--light-white);
-  border-top: 0;
-  border-right: 0;
-  margin: 0 0 1rem 1rem;
-  padding: 1rem;
-  font-size: var(--f6);
-}
-
-#TableOfContents ul {
-  list-style: none;
-  padding-left: 1rem;
 }
