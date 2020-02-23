@@ -228,12 +228,12 @@ blockquote {
 .highlight {
   margin: 1rem 0;
   border: 1px dashed var(--light-white);
+  overflow: auto;
 }
 
 .highlight > pre {
   margin: 0;
   padding: 0.5rem;
-  overflow-x: auto;
   background-color: transparent !important;
 }
 
