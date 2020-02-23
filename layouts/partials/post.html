@@ -31,7 +31,7 @@
     {{ end}}
   {{ end }}
 
-  {{ if (eq .Glob.Section "kb") }}
+  {{ if and (eq .Glob.Section "kb") (not $isList) }}
     {{.Glob.TableOfContents}}
   {{ end }}
 
