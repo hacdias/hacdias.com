@@ -1,13 +1,14 @@
-{{ $layout := or (index .Glob.Site.Data.layout .Glob.Section) (index .Glob.Site.Data.layout "default") }}
 {{ $isList := eq .Mode "list" -}}
+{{ with .Glob }}
+{{ $layout := or (index .Site.Data.layout .Section) (index .Site.Data.layout "default") }}
 {{ $useSummary := false }}
 <article class='h-entry'>
-  {{ if in (slice "articles" "kb" "") .Glob.Section }}
-    {{ if not .Glob.Params.hideTitle }}
+  {{ if in (slice "articles" "kb" "") .Section }}
+    {{ if not .Params.hideTitle }}
     <header>
       <h1 class='p-name'>
-        {{ if $isList }}<a href="{{ .Glob.RelPermalink }}" class='no-link'>{{ end }}
-        {{- .Glob.Title -}}
+        {{ if $isList }}<a href="{{ .RelPermalink }}" class='no-link'>{{ end }}
+        {{- .Title -}}
         {{ if $isList }}</a>{{ end }}
       </h1>
     </header>
@@ -15,77 +16,77 @@
     {{ $useSummary = $isList }}
   {{ end }}
 
-  {{ if .Glob.Params.properties }}
-    {{ $url := index .Glob.Params.properties $layout.property }}
+  {{ if .Params.properties }}
+    {{ $url := index .Params.properties $layout.property }}
     {{ if $url }}
-      {{ $dataToShow := index .Glob.Site.Data.xray (sha256 $url) }}
+      {{ $dataToShow := index .Site.Data.xray (sha256 $url) }}
       {{ if eq $dataToShow.type "entry" }}
         {{ partial "embedded-entry"  (dict "Wm" $dataToShow "Class" $layout.class) }}
       {{ else }}
         <p class='copy content e-entry'>
           <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">
-            {{- with .Glob.Title }}{{ . }}{{ else }}{{ $url}}{{ end -}}
+            {{- with .Title }}{{ . }}{{ else }}{{ $url}}{{ end -}}
           </a>
         </p>
       {{ end }}
     {{ end}}
   {{ end }}
 
-  {{ if and (eq .Glob.Section "kb") (not $isList) }}
-    {{.Glob.TableOfContents}}
+  {{ if and (eq .Section "kb") (not $isList) }}
+    {{.TableOfContents}}
   {{ end }}
 
-  {{ if .Glob.Params.descAsSummary }}
-    <div class='content copy p-summary'><p>{{ .Glob.Description }}</p></div>
+  {{ if .Params.descAsSummary }}
+    <div class='content copy p-summary'><p>{{ .Description }}</p></div>
   {{ else if $useSummary}}
-    <div class='content copy p-summary'><p>{{ .Glob.Summary }}</p></div>
+    <div class='content copy p-summary'><p>{{ .Summary }}</p></div>
   {{ else }}
-    {{ with .Glob.Content }}
+    {{ with .Content }}
       <div class='content copy {{ $layout.contentClass }}'>{{ . }}</div>
     {{ end }}
   {{ end }}
 
-  {{ with .Glob.Params.properties.photo }}
+  {{ with .Params.properties.photo }}
     {{ $arr := partial "must-slice" . }}
     {{ range $arr }}
-      {{ $img := $.Glob.Page.Resources.GetMatch . -}}
+      {{ $img := $.Page.Resources.GetMatch . -}}
       <img style="margin: 1rem auto; display: block;" class="u-photo" src="{{ with $img }}{{ .RelPermalink }}{{ else }}{{ . }}{{ end }}">
     {{ end }}
   {{ end }}
 
-  {{ with .Glob.Params.properties.video }}
+  {{ with .Params.properties.video }}
     {{ $arr := partial "must-slice" . }}
     {{ range $arr }}
-      {{ $video := $.Glob.Page.Resources.GetMatch . -}}
+      {{ $video := $.Page.Resources.GetMatch . -}}
       <video style="margin: 1rem auto; display: block;" class="u-video" src="{{ with $video }}{{ .RelPermalink }}{{ else }}{{ . }}{{ end }}" autoplay loop></video>
     {{ end }}
   {{ end }}
 
   <footer class='page-footer'>
     <span>
-      {{- if not .Glob.Date.IsZero -}}
-      <time class='dt-published' datetime='{{ .Glob.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-        <a href="{{ .Glob.RelPermalink }}" class="u-url {{ if eq .Mode "single"}}no-link{{ end }}">{{- .Glob.Date.Format "02 Jan 2006 15:04" }}</a>
+      {{- if not .Date.IsZero -}}
+      <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+        <a href="{{ .RelPermalink }}" class="u-url {{ if not $isList}}no-link{{ end }}">{{- .Date.Format "02 Jan 2006 15:04" }}</a>
       </time>
       {{- end -}}
-      {{- with .Glob.Section -}}
-        {{- with $.Glob.Site.GetPage (printf "/%s" .) -}}
+      {{- with .Section -}}
+        {{- with $.Site.GetPage (printf "/%s" .) -}}
           in <a href="{{ .RelPermalink }}">{{ with .Params.emoji }}{{ . }}{{ end }}{{ .Title }}</a></span>
         {{- end -}}
       {{- end -}}
     </span>
 
-    {{ if .Glob.Params.tags }}
+    {{ if .Params.tags }}
     <ul>
-      {{ range $i, $tag := .Glob.Params.tags -}}
-      {{ with $.Glob.Site.GetPage (printf "/tags/%s" $tag) -}}
+      {{ range $i, $tag := .Params.tags -}}
+      {{ with $.Site.GetPage (printf "/tags/%s" $tag) -}}
         <li><a class="p-category" href="{{ .RelPermalink }}">#{{ $tag }}</a></li>
       {{ end -}}
       {{ end -}}
     </ul>
     {{ end }}
 
-    {{ with .Glob.Params.properties.syndication -}}
+    {{ with .Params.properties.syndication -}}
       {{ $arr := partial "must-slice" . }}
       {{ range $arr -}}
         <a style='display: none;' class='u-syndication' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
@@ -94,12 +95,13 @@
 
     <!-- Author metadata -->
     <div class="h-card u-author" style="display: none;">
-      <data class='u-photo' value="{{ .Glob.Site.Author.avatar }}">Picture</data>
-      <a href="{{ .Glob.Site.Author.url }}" class="u-url p-name">{{ .Glob.Site.Author.name }}</a>
+      <data class='u-photo' value="{{ .Site.Author.avatar }}">Picture</data>
+      <a href="{{ .Site.Author.url }}" class="u-url p-name">{{ .Site.Author.name }}</a>
     </div>
   </footer>
 
-  {{ if not (or $isList (eq .Glob.Section "kb")) -}}
+  {{ if not (or $isList (eq .Section "kb")) -}}
     {{ partial "webmention" . -}}
   {{ end }}
 </article>
+{{ end }}
