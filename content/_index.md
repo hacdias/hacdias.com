@@ -8,7 +8,7 @@ categoriesToShow:
 ---
 
 <div class="h-card" style="display: none;">
-  <img src="https://hacdias.com/me-256.jpg" class="u-photo">
+  <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
   <a href="https://hacdias.com/" class="u-uid u-url p-name">Henrique Dias</a>
   <a href="mailto:hacdias@hacdias.com" rel="me" class="u-email">hacdias@hacdias.com</a>
   <a class="u-key" href="/public.key">public PGP key</a>
