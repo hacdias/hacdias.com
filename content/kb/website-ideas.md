@@ -1,5 +1,5 @@
 ---
-date: '2020-02-24T09:57:23.568Z'
+date: '2020-02-24T22:03:08.675Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -27,7 +27,7 @@ Using Notable right now, which supports both Mermaid and $\LaTeX$. However, what
 
 Missing support for:
 
-- Latex math: $\LaTeX$
+- Latex math: $\LaTeX$ - **it works now**!
 - Mermaid diagrams
 
 ## ActivityPub
