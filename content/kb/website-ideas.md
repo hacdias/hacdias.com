@@ -1,8 +1,8 @@
 ---
-date: '2020-02-24T09:49:04.688Z'
+date: '2020-02-24T09:57:23.568Z'
+math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
-math: true
 ---
 
 - Backup my email.
@@ -11,7 +11,7 @@ math: true
 - Automatic blogroll from Aperture
 - Import my.flightradar24.com and create some visualisation tool.
 - https://synesthesia.me/see-your-name
-- Simplify bookmarks page to list all of them in a list form.
+- Simplify bookmarks page to list all of them in a list form (today).
 
 ## Media Endpoint
 
@@ -29,8 +29,6 @@ Missing support for:
 
 - Latex math: $\LaTeX$
 - Mermaid diagrams
-
-$$\LaTeX$$
 
 ## ActivityPub
 

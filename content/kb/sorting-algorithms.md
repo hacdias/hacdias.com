@@ -1,8 +1,8 @@
 ---
 date: '2020-02-22T15:34:59.712Z'
+math: true
 publishDate: '2020-02-22T10:08:10.775Z'
 title: Sorting Algorithms
-math: true
 ---
 
 ```c
