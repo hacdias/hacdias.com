@@ -1,5 +1,5 @@
 ---
-date: 2020-02-16T10:50:00.000Z
+date: 2020-02-24T22:46:00.000Z
 menu:
   main:
     weight: 7
@@ -16,6 +16,7 @@ Here's the list of other pages on this website that are not listed on the visibl
 - [Blogroll](/blogroll/)
 - [Bookmarks](/bookmarks/)
 - [Books](/books/) - my bookshelf with the books I've read.
+- [Knowledge Base](/kb/)
 - [Lab](/lab/)
 - [Likes](/likes/)
 - [Pins](/pins/)
