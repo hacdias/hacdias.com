@@ -1,5 +1,5 @@
 ---
-date: '2020-02-24T22:03:08.675Z'
+date: '2020-02-24T22:52:36.646Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -11,7 +11,8 @@ title: Website Ideas
 - Automatic blogroll from Aperture
 - Import my.flightradar24.com and create some visualisation tool.
 - https://synesthesia.me/see-your-name
-- Simplify bookmarks page to list all of them in a list form (today).
+- Simplify bookmarks page to list all of them in a list form.
+- Should I add date [above the posts](https://jlelse.blog/thoughts/2019/11/dates-above/)? My main problem with this is information scattering. I didn't want to have the tags separated from the date and category. On the other hand, it may be useful to have the category and date in the beginning.
 
 ## Media Endpoint
 
@@ -21,7 +22,7 @@ title: Website Ideas
 - Stop using BunnyCDN and just use images/assets?
 - Webmentions photos on website itself?
 
-## Knowledge Base / Wiki
+## Knowledge Base
 
 Using Notable right now, which supports both Mermaid and $\LaTeX$. However, what I want is to have a public knowledge base where I can post everything I enjoy. Idea is: if I end up enjoying Notable as much as I hope, I can create a script (maybe using Pandoc) that converts this Markdown and generates the Math and Diagrams beforehand so it doesn't put a heavy JavaScript load under my website.
 
