@@ -2,6 +2,7 @@
 date: '2020-02-24T09:49:04.688Z'
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
+math: true
 ---
 
 - Backup my email.
@@ -28,6 +29,8 @@ Missing support for:
 
 - Latex math: $\LaTeX$
 - Mermaid diagrams
+
+$$\LaTeX$$
 
 ## ActivityPub
 

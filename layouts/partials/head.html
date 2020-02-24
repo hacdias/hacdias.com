@@ -42,7 +42,7 @@
 
 <!-- Styles -->
 {{- if not (eq .Type "html") -}}
-  {{- $normalize := resources.Get "css/normalize.css" }}
+  {{- $normalize := resources.Get "css/vendor/normalize.css" }}
   {{- $styles := resources.Get "css/styles.css" }}
   {{- $css := slice $normalize $styles | resources.Concat "css/styles.css" | resources.Minify }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}?hash={{ md5 $css.Content }}" />
@@ -61,8 +61,7 @@
 {{ end }}
 
 {{ if .Params.math }}
-<!-- TODO: serve it myself -->
-<script defer async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{{ partial "head/katex" . }}
 {{ end }}
 
 {{- with or .Params.emoji .Site.Params.emoji }}<link rel="icon" data-emoji="{{ . }}" type="image/png" />{{ end }}
