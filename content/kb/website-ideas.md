@@ -1,5 +1,5 @@
 ---
-date: '2020-02-23T20:58:01.289Z'
+date: '2020-02-24T09:49:04.688Z'
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
 ---
@@ -10,6 +10,7 @@ title: Website Ideas
 - Automatic blogroll from Aperture
 - Import my.flightradar24.com and create some visualisation tool.
 - https://synesthesia.me/see-your-name
+- Simplify bookmarks page to list all of them in a list form.
 
 ## Media Endpoint
 
