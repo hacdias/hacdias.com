@@ -2,7 +2,8 @@ body {
   --accent: #575fcf;
   --accent-darker: #3c40c6;
   --accent-text: white;
-
+  --background-dots: var(--accent);
+  --background-sheet: var(--accent-darker);
   --dark-gray: #333;
   --white: #ffffff;
   --near-white: #f4f4f4;
@@ -35,10 +36,10 @@ body {
     arial,
     sans-serif;
 
-  background-image: linear-gradient(45deg,var(--accent) 25%,transparent 25%),
-    linear-gradient(-45deg,var(--accent) 25%,transparent 25%),
-    linear-gradient(45deg,transparent 75%,var(--accent) 75%),
-    linear-gradient(-45deg,transparent 75%,var(--accent) 75%);
+  background-image: linear-gradient(45deg,var(--background-dots) 25%,transparent 25%),
+    linear-gradient(-45deg,var(--background-dots) 25%,transparent 25%),
+    linear-gradient(45deg,transparent 75%,var(--background-dots) 75%),
+    linear-gradient(-45deg,transparent 75%,var(--background-dots) 75%);
   background-size: 2px 2px;
   background-position: 0 0,1px 0,1px -1px,0 1px;
   background-attachment: fixed;
@@ -243,8 +244,8 @@ blockquote {
   max-width: 50rem;
   margin: 1.5rem auto;
   background: var(--white);
-  border: 1px solid var(--accent-darker);
-  box-shadow: .25rem .25rem var(--accent-darker);
+  border: 1px solid var(--background-sheet);
+  box-shadow: .25rem .25rem var(--background-sheet);
 }
 
 .copy ol,
@@ -519,19 +520,15 @@ figure.right {
 }
 
 #dark {
-  --accent: #0ff;
-  --accent-darker: #0cf;
+  --accent: #ddd;
+  --accent-darker: #aaa;
   --accent-text: black;
   --dark-gray: #eee;
   --white: #000000;
   --near-white: #121212;
   --light-white: #222;
-
-  background: var(--white);
-}
-
-#dark .container {
-  box-shadow: none;
+  --background-dots: #111;
+  --background-sheet: #212121;
 }
 
 #dark img:not([src*=".svg"]) {
