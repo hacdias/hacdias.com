@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T14:08:18.810Z'
+date: '2020-02-25T14:12:24.722Z'
 publishDate: '2020-02-22T10:42:15.443Z'
 tags:
   - leic
@@ -106,9 +106,9 @@ It is illegal to make illicit copies and/or distribute them.
 
 **Warez** is pirated software.
 
-### General Data Protection Regulation (GDPR)
+### General Data Protection Regulation
 
-The GDPR refers to all EU citizens and has the following goals:
+The General Data Protection Regulation (GDPR) refers to all EU citizens and has the following goals:
 
 - Give data's holders control about them.
 - Give responsability to companies and other data controllers.
@@ -173,12 +173,29 @@ TODO
 
 ### Bias
 
-TODO
+**Bias** is disproportionate weight in favor of or against an idea or thing, usually in a way that unfair.
+
+With the development of the AI, some question if we may be adding to technology our own biases.
 
 ## Social Networks
 
-TODO
+Today
+
+Hoje em dia, estamos cada vez mais ligados uns aos outros, atrav ́es das diversas formas de redes sociais. Em certos casos, as redes sociais inclusivamente tˆem vindo a substituir os meios de comunica ̧ca ̃o social tradicionais.
+Por isso,  ́e importante compreendermos como sa ̃o feitas as liga ̧co ̃es nos mesmos.
+A estrutura das redes  ́e tipo a ́rvore: ha ́ poucos no ́s com muitas liga ̧co ̃es, e a maioria liga-se a estes no ́s centralizadores.
+A propaga ̧ca ̃o de conteu ́dos (conta ́gio) acontece  ́e classificada de duas formas.
+Defini ̧ca ̃o (Conta ́gio Simples). Entrar em contacto com o conteu ́do  ́e suficiente
+Defini ̧ca ̃o (Conta ́gio Complexo). Sa ̃o necessa ́rias mu ́ltiplas exposi ̧co ̃es para o conta ́gio se dar.
+No caso das redes sociais, observa-se acontecer o conta ́gio complexo.
+ ́
+E importante ter em aten ̧ca ̃o que as redes socias podem ser utilizadas (atrav ́es de produtores de conteu ́dos
+falsos) como ferramentas de controlo pu ́blico (e.g. elei ̧co ̃es nos EUA).
 
 ### Advertisement
 
-TODO
+**Advertisement** is the usage of a network to promote benefits of products and services.
+
+- Banners
+- Viral Marketing
+- AdvertGames
