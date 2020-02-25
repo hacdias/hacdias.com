@@ -1,5 +1,6 @@
 ---
-date: '2020-02-25T14:27:13.059Z'
+date: '2020-02-25T14:42:00.248Z'
+mermaid: true
 publishDate: '2020-02-22T10:42:15.443Z'
 tags:
   - leic
@@ -137,11 +138,38 @@ TODO
 
 ### Intelectual Property Rights
 
+The protected value is of the creation. There are many types:
+
+- Patent: lasts for 20 years of exclusivity.
+- Utility Model: lasts for 6+2+2 years of exclusivity.
+- 
+
 TODO
+
+**Trade secrets** are confidential intelectual property of a company.
+
+There are advantages:
+
+- They have no time limit.
+- They don't need to be registred.
+- They don't need to be disclosed.
+
+And disadvantages:
+
+- Hard to license and value.
+- Hard to keep confidentiality.
+- Hard to fight for the rights.
+- Can be patented by others.
+
+**Trademark** is an identifier for each product of a company.
 
 ## Information Technologies Impact
 
-TODO
+With the advent of computing, the social structure has been changing rapidly and dramatically. There are, of course, certain questions to discuss:
+
+- In which way is the technological revolution changing the way we organize?
+- In which way does that change our human rights:
+  - Mainly, the freedom of speech.
 
 ### Privacy
 
@@ -169,11 +197,25 @@ The AI has been changing the work market in a drastic way, affecting worker's pr
 
 **Productivity** is the quotient between the amount of work and the retail value of a product. Or the amount of work done per input unit. It can be measured by GDP (gross domestic product) per hour.
 
-The economic inequality 
+Economic inequality has been worsening. However, developed countries may not feel the change in productivity in increasing inequality. In other contries, however, this has been felt as a sudden change.
 
 ## AI and Autonomy
 
-TODO
+**Autonomy** is the ability of a machine to determine how and when to hit its own goals and execute its tasks without any external control.
+
+```mermaid
+graph TD
+  dc(Direct Control) --> Teleoperation
+  Teleoperation --> Mediatedteleoperation
+  Mediatedteleoperation --> sr[Supervisory Control]
+  sr --> cc[Collaborative Control]
+  cc --> ptp[Peer-to-peer collaboration]
+  ptp --> da(Dynamic Autonomy)
+```
+
+This scale (**Sheridan scale**) establishes levels between a machine being fully operated by a human and being completely autonomous, not needing human intervention to execute actions.
+
+With the improvement of machine's autonomy, it is clear that people are delegating more of their tasks to machines. For example, through voice assistants, such as Google Assistant, Siri and Alexa. These are technological changes that have the power to deeply change our society.
 
 ### Autonomous Agents
 
