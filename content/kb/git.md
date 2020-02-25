@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T11:46:21.434Z'
+date: '2020-02-25T11:52:28.202Z'
 mermaid: true
 publishDate: '2020-02-25T11:23:40.793Z'
 title: Git
@@ -75,7 +75,17 @@ $ git branch -d <branch-name>
 
 ## Reset
 
-If, for some reason, I do a `git reset HEAD~`, I can revert it with `git reset 'HEAD@{1}'`.
+We can reset a file to another commit via:
+
+```bash
+$ git reset <commit> <file...>
+```
+
+- By default, the command just unstages the files.
+- By omitting the file, the entire repository will be reverted.
+- By adding the flag `--hard`, the entire repository reverts to the specified commit.
+
+### Revert (reflog)
 
 Git keeps a log of all ref updates (checkout, reset, commits, merges, etc). It can be viewed with:
 
@@ -84,4 +94,7 @@ $ git reflog
 
 # Ref log for specific branches
 $ git reflog show <branch>
+
+# Revert last `git reset`
+$ git reset 'HEAD@{1}'
 ```
