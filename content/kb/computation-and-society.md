@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T14:12:24.722Z'
+date: '2020-02-25T14:27:13.059Z'
 publishDate: '2020-02-22T10:42:15.443Z'
 tags:
   - leic
@@ -145,19 +145,31 @@ TODO
 
 ### Privacy
 
-TODO
+**Privacy** is a right described in the Universal Declaration of Human Rights, where everyone must be given **confidentiality** to their communications and **privacy** to their data.
 
-### Net-Neutrality
+The privacy on the Internet is a complex problem since there are techniques such as Canvas Fingerprinting, Cookies and many other vulnerabilities.
 
-TODO
+Some recent outrages about the right of privacy include the Chinese social credit system, the British surveillance system and the right to be forgotten (discussed in the EU due to the GDPR).
+
+### Net Neutrality
+
+**Net neutrality** is the principle that Internet service providers (ISPs) must treat all Internet communications equally, and not discriminate or charge differently based on user, content, website, platform, application, type of equipment, source address, destination address, or method of communication.
 
 ### Freedom of Speech
 
-TODO
+**Freedom of speech** is the individual and collective right to express and spread one's opinion by speaking in an unlimited way.
+
+Freedom of speech is one of the pillars of the Internet. However, this breaks a timeless flow that has been unbreakable for many years: from the traditional communication media (that adhere to a code of ethics) to reads. Currently, this flow is not directed in a particular way, being done from everyone to everyone.
+
+**Hate speech** is defined as a public speech that expresses hate or encourages violence towards a person or group based on something.
 
 ### AI and Equality
 
-TODO
+The AI has been changing the work market in a drastic way, affecting worker's productivity.
+
+**Productivity** is the quotient between the amount of work and the retail value of a product. Or the amount of work done per input unit. It can be measured by GDP (gross domestic product) per hour.
+
+The economic inequality 
 
 ## AI and Autonomy
 
@@ -179,18 +191,16 @@ With the development of the AI, some question if we may be adding to technology 
 
 ## Social Networks
 
-Today
+Today we are more and more connected to each other through many forms of social networks. In some cases, social networks have completely replaced our traditional social media. Thus, it is important to understand how these connections are made.
 
-Hoje em dia, estamos cada vez mais ligados uns aos outros, atrav ́es das diversas formas de redes sociais. Em certos casos, as redes sociais inclusivamente tˆem vindo a substituir os meios de comunica ̧ca ̃o social tradicionais.
-Por isso,  ́e importante compreendermos como sa ̃o feitas as liga ̧co ̃es nos mesmos.
-A estrutura das redes  ́e tipo a ́rvore: ha ́ poucos no ́s com muitas liga ̧co ̃es, e a maioria liga-se a estes no ́s centralizadores.
-A propaga ̧ca ̃o de conteu ́dos (conta ́gio) acontece  ́e classificada de duas formas.
-Defini ̧ca ̃o (Conta ́gio Simples). Entrar em contacto com o conteu ́do  ́e suficiente
-Defini ̧ca ̃o (Conta ́gio Complexo). Sa ̃o necessa ́rias mu ́ltiplas exposi ̧co ̃es para o conta ́gio se dar.
-No caso das redes sociais, observa-se acontecer o conta ́gio complexo.
- ́
-E importante ter em aten ̧ca ̃o que as redes socias podem ser utilizadas (atrav ́es de produtores de conteu ́dos
-falsos) como ferramentas de controlo pu ́blico (e.g. elei ̧co ̃es nos EUA).
+The networks' structure are tree-like: there are few nodes with tons of connections, and most of them connect to this centralized nodes.
+
+Usually, content propagation occurs in two ways:
+
+- **Simple ways**: being in touch with the content is enough.
+- **Complex ways**: multiple exposures to the content are needed.
+
+In the social network context, we observe a complex content propagation system. It is important to note that social media can be used as a mass media manipulation tool.
 
 ### Advertisement
 
