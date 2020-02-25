@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T14:42:00.248Z'
+date: '2020-02-25T14:48:02.831Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:15.443Z'
 tags:
@@ -141,10 +141,22 @@ TODO
 The protected value is of the creation. There are many types:
 
 - Patent: lasts for 20 years of exclusivity.
-- Utility Model: lasts for 6+2+2 years of exclusivity.
-- 
+- Utility model: lasts for 6+2+2 years of exclusivity.
+- Industrial design rights: lasts for 25 years and can be renewed every 5 years.
+- Unregistred industrial design.
 
-TODO
+**Patent** is a legal document that allows the owner to stop the manufacture, usage and comercialization of an invention by other people. It can protect products or production methods and has geographic limits. The first one to register it, gains the rights.
+
+A patent requires:
+
+- Be something **new**.
+- It can't be **obvious**.
+- Must have an **industrial application**.
+
+Aditionally, it is also required:
+
+- **Sufficiency**: the request must have enough detail to allow for repeatability.
+- **Support**: the request must show what the invention does.
 
 **Trade secrets** are confidential intelectual property of a company.
 
