@@ -1,12 +1,12 @@
 ---
-date: '2020-02-25T13:37:37.933Z'
+date: '2020-02-25T13:57:10.342Z'
 publishDate: '2020-02-22T10:42:15.443Z'
 tags:
   - leic
 title: Computation and Society
 ---
 
-_This is mostly a translation to English of the notes originally provided by [Baltasar Dinis](https://www.edenbox.org/index.php/s/edenbox?path=%2FLEIC%2F3%C2%BA%20Ano%2F2%C2%BA%20Semestre%2FCS%2FResumos#pdfviewer)._
+> This is mostly a translation to English of the notes originally provided by [Baltasar Dinis](https://www.edenbox.org/index.php/s/edenbox?path=%2FLEIC%2F3%C2%BA%20Ano%2F2%C2%BA%20Semestre%2FCS%2FResumos#pdfviewer).
 
 ## Ethics
 
@@ -83,4 +83,33 @@ The **ACM's Code of Conduct** is based on 8 principles:
 
 Some attacks:
 
-- **Sniffing**: interception and
+- **Sniffing**: consists on intercepting and capturing data on a network.
+- **DDoS** (Distributed Denial of Service): use a distributed network of computers to flood a target's network, making it slow.
+- **Carding**: steal credit card information.
+- **Trojan**: computer malware that misleads the user intent.
+- **Phishing**: obtain sensitive information such as usernames, passwords and credit card details by disguising oneself as a trustworthy entity in an electronic communication.
+- **Spear Phishing**: phishing targeted to specific companies and individuals.
+- **Smishing**: phishing through SMS.
+- **Ransomware**: malware that requires the user to pay to retrieve their data.
+- **Defacing**: is an act of vandalism where a website gets modified.
+
+The main solution for the cyber crimes that invole the user's action is giving users awareness and help on how to filter emails.
+
+The Portuguese law 109/2009 suplements the penal code with information about cybercrimes.
+
+- **ANACOM** (Autoridade NAcional de COMunicações): the national authority of communications.
+- **CNPD** (Comissão Nacional de Proteção de Dados): the national data protection authority.
+
+### Software Reproduction
+
+It is illegal to make illicit copies and/or distribute them.
+
+**Warez** is pirated software.
+
+### General Data Protection Regulation (GDPR)
+
+The GDPR refers to all EU citizens and has the following goals:
+
+- Give data's holders control about them.
+- Give responsability to companies and other data controllers.
+- Give transparency to how the data is processed.
