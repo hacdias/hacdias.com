@@ -1,5 +1,6 @@
 ---
-date: '2020-02-25T12:09:44.390Z'
+date: '2020-02-25T12:26:20.830Z'
+mermaid: true
 publishDate: '2020-02-22T10:43:21.781Z'
 tags:
   - leic
@@ -60,6 +61,20 @@ See [git](/kb/git).
 ## Verification and Validation
 
 Developers are human and that leads to bugs. An human error creates a fault, which generates an error, which may generate more errors and lead to a failure. Usually, the biggest problem is to identify the faults and not to fix them.
+
+- **Human error**: an human action which produces software faults.
+- **Fault**: an omission, a defect, in the software caused by an human error.
+- **Error**: an unexpected change in the system behaviour caused by a fault.
+- **Failure**: an observable error.
+
+```mermaid
+graph LR
+  he[Human Error] --> Fault
+  Fault --> Error
+  Error --> Error
+  Error --> Failure
+  Failure --> Error
+```
 
 [^cl]: https://antonioritosilva.org/software-engineering-companion/project-management/common-language/
 [^to]: https://antonioritosilva.org/software-engineering-companion/project-management/team-organization/
