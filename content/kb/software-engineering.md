@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T12:26:20.830Z'
+date: '2020-02-25T12:36:18.172Z'
 mermaid: true
 publishDate: '2020-02-22T10:43:21.781Z'
 tags:
@@ -75,6 +75,23 @@ graph LR
   Error --> Failure
   Failure --> Error
 ```
+
+- **Verification** is done according to the specifications.
+- **Validation** is done accoring to the client's needs.
+
+## Testing
+
+Testing requires:
+
+- Programmers
+- Clients
+- Quality Assurance (QA) Engineers
+
+Testing strategies:
+
+- Testing the specification.
+- **Black-box testing**: tests the functionality. Gives the input and check if the input is correct. Does not know anything about the inner working of the application.
+- **White-box testing**: tests internal structures or working of an application.
 
 [^cl]: https://antonioritosilva.org/software-engineering-companion/project-management/common-language/
 [^to]: https://antonioritosilva.org/software-engineering-companion/project-management/team-organization/
