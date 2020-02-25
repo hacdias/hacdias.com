@@ -1,5 +1,6 @@
 ---
 date: '2020-02-23T12:22:26.533Z'
+mermaid: true
 publishDate: '2020-02-22T10:43:34.224Z'
 tags:
   - leic
