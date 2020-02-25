@@ -1,6 +1,6 @@
 .PHONY: make-dirs pinata normalize katex all clean
 
-all: clean make-dirs pinata normalize katex
+all: clean make-dirs pinata normalize katex mermaid
 
 make-dirs:
 	mkdir -p assets/css/vendor
@@ -22,6 +22,9 @@ katex:
 	mv katex/fonts static/css/vendor/fonts
 	rm katex.tar.gz
 	rm -rf katex
+
+mermaid:
+	wget https://unpkg.com/mermaid@8.4.8/dist/mermaid.min.js -O assets/js/vendor/mermaid.min.js
 
 clean:
 	rm -rf assets/css/vendor

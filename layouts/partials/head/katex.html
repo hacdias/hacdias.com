@@ -3,7 +3,7 @@
 
 {{- $k1 := resources.Get "js/vendor/katex.min.js" }}
 {{- $k2 := resources.Get "js/vendor/auto-render.min.js" }}
-{{- $js := slice $k1 $k2 | resources.Concat "js/katex.js" | resources.Minify }}
+{{- $js := slice $k1 $k2 | resources.Concat "js/katex.min.js" | resources.Minify }}
 <script defer src="{{ $js.RelPermalink }}?hash={{ md5 $js.Content }}"></script>
 
 <script>

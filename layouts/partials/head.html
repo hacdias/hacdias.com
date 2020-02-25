@@ -64,6 +64,10 @@
 {{ partial "head/katex" . }}
 {{ end }}
 
+{{ if .Params.mermaid }}
+{{ partial "head/mermaid" . }}
+{{ end }}
+
 {{- with or .Params.emoji .Site.Params.emoji }}<link rel="icon" data-emoji="{{ . }}" type="image/png" />{{ end }}
 
 {{ if .IsHome }}

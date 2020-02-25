@@ -45,9 +45,15 @@ body {
   background-attachment: fixed;
 }
 
+svg,
 video,
 img {
   max-width: 100%;
+}
+
+.language-mermaid svg {
+  margin: 0 auto;
+  display: block;
 }
 
 figure {
