@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T13:22:22.350Z'
+date: '2020-02-25T13:37:37.933Z'
 publishDate: '2020-02-22T10:42:15.443Z'
 tags:
   - leic
@@ -20,7 +20,7 @@ It is relevant to study Ethics in Computer Science due to the impact this field 
 
 #### Morality Variation Factors
 
-- Age -> _Generational Ethics_
+- Age → _Generational Ethics_
 - Cultural group
 - Ethnicity
 - Religion
@@ -32,7 +32,55 @@ An individual has **integrity** if their actions are based upon their own opinio
 
 **Making ethical decisions**:
 
-1.
-2. Identify alternatives
-3. Evaluate and pick an alternative
-4. Take the decision
+1. Identify the problem and describe it in a concise way.
+2. Identify alternatives.
+3. Evaluate and pick an alternative.
+4. Take the decision.
+
+### Professional Responsability
+
+The globalization and generalization of Information Technologies makes it even more important to study Ethics in the context of technology.
+
+It is important to promote ethical conducts because we need to act correctly. However, it is also important from the business point of view:
+
+- Connection to the communicty.
+- Organization consistency.
+- It's a good practice.
+- Protects the organization and the employees from litigation.
+- Avoids bad advertising.
+
+### Ethics in Organizations
+
+In an organization, is it important to:
+
+- Have an ethics manager.
+- Define (by the administration board) the ethical norms of the organization.
+  - Define, carry them out and enforce them.
+- Have an ethical code of conduct with the key ethical questions.
+
+The ethical code of conducts - like [ACM's](https://www.acm.org/diversity-inclusion/code-of-ethics), which is a standard among organizations in the field - stipulate the fundamental principles. However, it requires an ethical judgement in order to understand it.
+
+The **ACM's Code of Conduct** is based on 8 principles:
+
+1. Public Interest
+2. Client and Employer
+3. Product
+4. Common Sense
+5. Management
+6. Profession
+7. Colleagues and Teams
+8. Yourself
+
+## Security and Computer-oriented Crimes
+
+**Computer-oriented crimes** are crimes where computers are used.
+
+**Cybercrimes** are crimes that happen on the cyberspace.
+
+**Computer virus** is a malicious program that propagates itself on files and programs, "infecting" them. Tipically, user action is required.
+
+**Worm** is a malicious program that replicates itself in order to propagate to other computers.
+
+Some attacks:
+
+- **Sniffing**: interception and
