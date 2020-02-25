@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T11:42:27.192Z'
+date: '2020-02-25T11:46:21.434Z'
 mermaid: true
 publishDate: '2020-02-25T11:23:40.793Z'
 title: Git
@@ -28,8 +28,14 @@ sequenceDiagram
 ## Stage
 
 ```bash
-$
+# Stage all
+$ git add -A
 
+# Add specific files
+$ git add paths...
+
+# Remove specific files
+$ git rm paths...
 ```
 
 ## Branching
@@ -65,4 +71,17 @@ $ git merge hotfix
 
 ```bash
 $ git branch -d <branch-name>
+```
+
+## Reset
+
+If, for some reason, I do a `git reset HEAD~`, I can revert it with `git reset 'HEAD@{1}'`.
+
+Git keeps a log of all ref updates (checkout, reset, commits, merges, etc). It can be viewed with:
+
+```bash
+$ git reflog
+
+# Ref log for specific branches
+$ git reflog show <branch>
 ```
