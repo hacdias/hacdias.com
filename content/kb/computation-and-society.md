@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T13:57:10.342Z'
+date: '2020-02-25T14:08:18.810Z'
 publishDate: '2020-02-22T10:42:15.443Z'
 tags:
   - leic
@@ -113,3 +113,72 @@ The GDPR refers to all EU citizens and has the following goals:
 - Give data's holders control about them.
 - Give responsability to companies and other data controllers.
 - Give transparency to how the data is processed.
+- Reduce the vulnerabilities related to personal data.
+- Improve the cooperation between authorities that supervise personal data processing.
+
+**Personal information** is any information that can be related to someone that is or can be identified.
+
+The GDPR is based on 6 principles about personal information:
+
+1. **Lawfulness, fairness and transparency**: the data are processed in a legal, just and transparent way.
+2. **Purpose limitation**: data must be collected for specific, explicit and legitimate purposes.
+3. **Data minimisation**: collected data must be adequate, relevant and limited to the strict needs.
+4. **Accuracy**: data must be precise and updated when required.
+5. **Storage limitation**: data must be kept in a way that they cna be easily identified and remove when not necessary.
+6. **Integrity and confidentiality**: the data processing must have enough security measures to protect them.
+
+## Intelectual Property
+
+**Intelectual property** is the legal concept that deals with intellectual property and its exclusivity rights.
+
+### Author's Rights
+
+TODO
+
+### Intelectual Property Rights
+
+TODO
+
+## Information Technologies Impact
+
+TODO
+
+### Privacy
+
+TODO
+
+### Net-Neutrality
+
+TODO
+
+### Freedom of Speech
+
+TODO
+
+### AI and Equality
+
+TODO
+
+## AI and Autonomy
+
+TODO
+
+### Autonomous Agents
+
+TODO
+
+### Anthropomorphism
+
+TODO
+
+### Bias
+
+TODO
+
+## Social Networks
+
+TODO
+
+### Advertisement
+
+TODO
