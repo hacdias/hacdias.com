@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T11:11:30.330Z'
+date: '2020-02-25T11:23:29.377Z'
 publishDate: '2020-02-22T10:43:21.781Z'
 tags:
   - leic
@@ -42,3 +42,20 @@ Software project management addresses the size complexity of software developmen
 ### Team
 
 Communication is needed between the members of a team and the quality of the communication itself depends on the use of a shared common language in order to reduce the risk of noise. For example, defining [code conventions](https://en.wikipedia.org/wiki/Coding_conventions) can be considered a step to enhance communication.
+
+A **common language**[^cl] improves the quality of communication among the team members by standardizing the information that flows through the communication channels. Even though some expressiveness of language might be lost, it's more advantageous to have a strict common language where both the client and the team can communicate with less risks.
+
+**Team organization**[^to] encompasses a set of rules to define how to group people in an organization, by taking into account their competences, skills and the organization's needs. In addition, it defines the communication channels, their number and the type and amount of flowing information.
+
+TODO:
+
+- See https://antonioritosilva.org/software-engineering-companion/project-management/
+- See https://antonioritosilva.org//software-engineering-companion/project-management/planning-and-estimation/
+- See https://antonioritosilva.org/software-engineering-companion/project-management/scrum/
+
+## Git
+
+See [[git]] page.
+
+[^cl]: https://antonioritosilva.org/software-engineering-companion/project-management/common-language/
+[^to]: https://antonioritosilva.org/software-engineering-companion/project-management/team-organization/
