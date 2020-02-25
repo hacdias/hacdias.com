@@ -1,11 +1,11 @@
 ---
-date: '2020-02-25T11:52:28.202Z'
+date: '2020-02-25T12:02:55.055Z'
 mermaid: true
 publishDate: '2020-02-25T11:23:40.793Z'
 title: Git
 ---
 
-Git is a distributed version control system for tracking changes in source code during software development.
+Git is a [distributed](/kb/distributed) version control system for tracking changes in source code during software development.
 
 ```mermaid
 sequenceDiagram

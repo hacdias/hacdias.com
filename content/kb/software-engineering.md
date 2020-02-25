@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T11:23:29.377Z'
+date: '2020-02-25T12:09:44.390Z'
 publishDate: '2020-02-22T10:43:21.781Z'
 tags:
   - leic
@@ -55,7 +55,11 @@ TODO:
 
 ## Git
 
-See [[git]] page.
+See [git](/kb/git).
+
+## Verification and Validation
+
+Developers are human and that leads to bugs. An human error creates a fault, which generates an error, which may generate more errors and lead to a failure. Usually, the biggest problem is to identify the faults and not to fix them.
 
 [^cl]: https://antonioritosilva.org/software-engineering-companion/project-management/common-language/
 [^to]: https://antonioritosilva.org/software-engineering-companion/project-management/team-organization/
