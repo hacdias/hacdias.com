@@ -1,5 +1,5 @@
 ---
-date: '2020-02-25T12:36:18.172Z'
+date: '2020-02-26T11:17:25.078Z'
 mermaid: true
 publishDate: '2020-02-22T10:43:21.781Z'
 tags:
@@ -56,7 +56,7 @@ TODO:
 
 ## Git
 
-See [git](/kb/git).
+See [Git](/kb/git).
 
 ## Verification and Validation
 
