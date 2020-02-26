@@ -1,5 +1,5 @@
 ---
-date: '2020-02-26T17:44:02.079Z'
+date: '2020-02-26T17:50:53.760Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -24,14 +24,21 @@ title: Website Ideas
 
 ## Knowledge Base
 
-Using Notable right now, which supports both Mermaid and $\LaTeX$. However, what I want is to have a public knowledge base where I can post everything I enjoy. Idea is: if I end up enjoying Notable as much as I hope, I can create a script (maybe using Pandoc) that converts this Markdown and generates the Math and Diagrams beforehand so it doesn't put a heavy JavaScript load under my website.
-
-Missing support for:
-
-- Latex math: $\LaTeX$ - **it works now**!
-- Mermaid diagrams
+Right now, I render all the Mermaid diagrams and $\LaTeX$ on the fly on the client side. It would be interesting if I rendered those first on the client side. It would certainly be better in terms of performance. The only downsite would be that the import script could take a little longer, which isn't a really big downside from my POV.
 
 ### Things to import
+
+- Calculus I cheatsheet
+- Calculus II cheatsheet
+- Complex Analysis cheatsheet / notes
+- Differential Equations cheatsheet / notes
+- Programming Fundamentals notes
+- Logic for Programming notes
+- Discreet Mathematics notes
+- Computer Architecture cheatsheet
+- Analysis and Synthesis of Algorithms notes
+- Electromagnetism and Waves notes
+
 
 ## ActivityPub
 
