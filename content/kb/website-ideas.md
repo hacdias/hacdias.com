@@ -1,5 +1,5 @@
 ---
-date: '2020-02-24T22:52:36.646Z'
+date: '2020-02-26T17:44:02.079Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -30,6 +30,8 @@ Missing support for:
 
 - Latex math: $\LaTeX$ - **it works now**!
 - Mermaid diagrams
+
+### Things to import
 
 ## ActivityPub
 
