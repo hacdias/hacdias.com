@@ -1,0 +1,18 @@
+[
+  {
+    "type": "reply",
+    "url": "https://jlelse.blog/micro/2020/02/2020-02-26-maakb/",
+    "date": "2020-02-26T22:17:00.000Z",
+    "private": false,
+    "wm-id": 761571,
+    "content": {
+      "html": "<p>Could you share more information or code about how you transform your knowledge base notes into Hugo pages? I tried creating a wiki or knowledge base on my website too, but somehow I still miss a good workflow to make more use of it. And do you create all notes directly in English or do you translate them later?</p>",
+      "text": "Could you share more information or code about how you transform your knowledge base notes into Hugo pages? I tried creating a wiki or knowledge base on my website too, but somehow I still miss a good workflow to make more use of it. And do you create all notes directly in English or do you translate them later?"
+    },
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://cdn.hacdias.com/webmentions/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg",
+      "url": "https://jlelse.dev/"
+    }
+  }
+]
