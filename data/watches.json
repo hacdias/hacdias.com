@@ -1568,6 +1568,11 @@
   ],
   "series": [
     {
+      "title": "The Magicians",
+      "watched": "2020-02-27T19:00:18.000Z",
+      "url": "https://trakt.tv/shows/the-magicians-2015"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2020-02-25T10:07:44.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
@@ -1581,11 +1586,6 @@
       "title": "#CasaDoCais",
       "watched": "2020-02-20T23:54:53.000Z",
       "url": "https://trakt.tv/shows/casadocais"
-    },
-    {
-      "title": "The Magicians",
-      "watched": "2020-02-20T16:56:14.000Z",
-      "url": "https://trakt.tv/shows/the-magicians-2015"
     },
     {
       "title": "The New Pope",
