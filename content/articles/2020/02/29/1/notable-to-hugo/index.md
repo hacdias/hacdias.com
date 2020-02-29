@@ -9,7 +9,7 @@ emoji: 📓
 tags:
   - meta
   - notes
-title: How I generate my knowledge base
+title: How do I generate my knowledge base
 ---
 
 For quite a few time, I used [Bear](https://bear.app/) as my go-to Notes application for two reasons: it was single to use and the syntax was quite similar to markdown. However, it is not markdown and it does not support some things that'd like to see on such software: diagrams, mathematics, wiki-like links, etc.
