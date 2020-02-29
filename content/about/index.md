@@ -13,7 +13,7 @@ menu:
 {{< figure alt="Me!" src="hac.jpeg" caption="Taken by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
 
 I'm a B.Sc. student 🎓 in Information Systems and Computer Engineering
-at [Instituto Superior Técnico][ist], in Lisbon. Currently working at [Protocol Labs][4] on
+at [Instituto Superior Técnico][ist], in Lisbon. Currently working at [Protocol Labs][pl] on
 decentralizing the web.
 
 I believe in the transparency and openness of the web and when creating software so you
