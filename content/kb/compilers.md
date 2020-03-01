@@ -1,5 +1,5 @@
 ---
-date: '2020-03-01T23:41:22.230Z'
+date: '2020-03-01T23:47:36.616Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:26.092Z'
 tags:
@@ -51,24 +51,29 @@ This phase is usually called **parsing**. It takes the tokens produced by the le
 
 After generating the parse tree, it is important to check if every element of the tree follows the rules. For example, check if you assign the right type of literal to the right type of variable. In addition, this phase tracks identifiers, types and expressions; it knows whether identifiers are declared before used or not. The output is called an annotated syntax tree.
 
+### Intermediate Code Generation
+
+After the semantic analysis, the compiler generates an intermediate code of the source code that is note coupled to a certain machine. It is somewhat translate to connect between this code and the target machine code.
+
+### Code Optimization
+
+<small>_This is an optional phase._</small>
+
+After generating the intermediate phase, a code optimizer might be used to optimize what the compiler have so far. Optimization can be assumed as a phase that removes unnecessary code lines and rearrages the statements for best performance.
+
+### Code Generation
+
+Finally, the code generator takes the optimized representation of the intermediate code and maps it to the target machine language. The output of this phase can be executed by the target machine.
+
 <!--
-
-Intermediate Code Generation
-After semantic analysis the compiler generates an intermediate code of the source code for the target machine. It represents a program for some abstract machine. It is in between the high-level language and the machine language. This intermediate code should be generated in such a way that it makes it easier to be translated into the target machine code.
-
-Code Optimization
-The next phase does code optimization of the intermediate code. Optimization can be assumed as something that removes unnecessary code lines, and arranges the sequence of statements in order to speed up the program execution without wasting resources (CPU, memory).
-
-Code Generation
-In this phase, the code generator takes the optimized representation of the intermediate code and maps it to the target machine language. The code generator translates the intermediate code into a sequence of (generally) re-locatable machine code. Sequence of instructions of machine code performs the task as the intermediate code would do.
 
 Symbol Table
 It is a data-structure maintained throughout all the phases of a compiler. All the identifier's names along with their types are stored here. The symbol table makes it easier for the compiler to quickly search the identifier record and retrieve it. The symbol table is also used for scope management.
 
 -->
 
-## To Check Later
+## References
 
+- https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/T%C3%B3picos_sobre_Constru%C3%A7%C3%A3o_de_Compiladores
 - https://efxa.org/2014/05/17/techniques-for-resolving-common-grammar-conflicts-in-parsers/
-- https://compiladores-novenoa.blogspot.com/2011/11/fases-de-un-compilador.html
 - https://www.gnu.org/software/bison/manual/html_node/Shift_002fReduce.html
