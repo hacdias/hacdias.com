@@ -1,5 +1,5 @@
 ---
-date: '2020-03-01T23:28:45.588Z'
+date: '2020-03-01T23:38:56.707Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:26.092Z'
 tags:
@@ -39,15 +39,17 @@ graph LR
 
 ### Lexical Analysis
 
-TODO
+This phase scans the input file and converts it into tokens. It converts a stream of lexems into a stream of tokens. Usually, tokens can be defined as regular expressions that are understood by the lexical analyzer.
+
+[Read more.](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Theoretical_Aspects_of_Lexical_Analysis)
 
 ### Syntactic Analysis
 
-TODO
+This phase is usually called **parsing**. It takes the tokens produced by the lexical analysis as input and generates a parse tree (a.k.a. syntax tree). In this phase, token arrangements are checked against the source code grammar. If the tokens are not in the correct format, errors must be thrown.
 
 ### Semantic Analysis
 
-TODO
+ It verifies the parse tree, whether it’s meaningful or not. It furthermore produces a verified parse tree.It also does type checking, Label checking and Flow control checking.
 
 ## References
 
