@@ -13,5 +13,7 @@
   "mediaType": "text/html",
   {{ with .Title }}"name": {{ . | jsonify }},{{ end }}
   "type": "{{ if eq .Section "articles" }}Article{{ else }}Note{{ end }}",
-  "attributedTo": "{{ "" | absLangURL }}"
+  "attributedTo": "{{ "" | absLangURL }}"{{ if eq .Section "replies" }},
+  "inReplyTo": "{{ index .Params.properties "in-reply-to" }}"
+  {{ end }}
 }

@@ -27,6 +27,7 @@ params:
     Currently working at Protocol Labs on decentralizing the web.
   activityPub:
     inbox:  https://api.hacdias.com/activitypub/inbox
+    outbox:  https://api.hacdias.com/activitypub/outbox
     publicKeyPem: -----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAswX3r01Aty1jxNrEdrmN\nwKHtKKgGh32pUbk80UkHea8Nv3mIjUG5KSG6c6A7kiM9VjXRnnSJuuQfaLFW+Xz/\njC28bmuaKKVQEX+h4rc+VMxWPNjnM/PyLezWKPZEfMpcl4wyaii1Dpm3/AKkeJx1\nSPU6U1XwfSKIEvjxHK80ItGCMK/nIoJ6oPqZFXAl28avIlHjjb9NYo4+Ji9q6K1y\n33V3K8lQlfcUh9/fp6xS+poLQBbovWjD5tSTZAETS4skfCajjbnzqOI12H1UX5Iy\nVbEdXHu10cjUXntZF78KxhluUX+2/RHqwTQBH4J9ZsQbMxwyLuehL/29zzq3WDe3\nWQIDAQAB\n-----END PUBLIC KEY-----
 
 taxonomies:
