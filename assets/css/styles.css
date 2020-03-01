@@ -516,31 +516,57 @@ figure.right {
   }
 }
 
-.hide-light,
-#dark .hide-dark {
-  display: none;
+@media not print {
+  .hide-light,
+  #dark .hide-dark {
+    display: none;
+  }
+
+  #dark .hide-light {
+    display: initial;
+  }
+
+  #dark {
+    --accent: #ddd;
+    --accent-darker: #aaa;
+    --accent-text: black;
+    --dark-gray: #eee;
+    --white: #000000;
+    --near-white: #121212;
+    --light-white: #222;
+    --background-dots: #111;
+    --background-sheet: #212121;
+  }
+
+  #dark img:not([src*=".svg"]) {
+    filter: grayscale(10%);
+  }
+
+  #dark .invert {
+    filter: invert(1);
+  }
 }
 
-#dark .hide-light {
-  display: initial;
-}
+@media print {
+  body {
+    background: white;
+  }
 
-#dark {
-  --accent: #ddd;
-  --accent-darker: #aaa;
-  --accent-text: black;
-  --dark-gray: #eee;
-  --white: #000000;
-  --near-white: #121212;
-  --light-white: #222;
-  --background-dots: #111;
-  --background-sheet: #212121;
-}
+  a[href]::after {
+    content: " (" attr(href) ")"
+  }
 
-#dark img:not([src*=".svg"]) {
-  filter: grayscale(10%);
-}
+  .container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-shadow: none;
+  }
 
-#dark .invert {
-  filter: invert(1);
+  #header,
+  .mentions {
+    display: none;
+  }
 }
