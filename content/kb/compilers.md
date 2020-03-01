@@ -1,11 +1,13 @@
 ---
-date: '2020-03-01T23:12:20.001Z'
+date: '2020-03-01T23:18:33.897Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:26.092Z'
 tags:
   - leic
 title: Compilers
 ---
+
+The generic phases of a compiler:
 
 ```mermaid
 graph LR
@@ -20,6 +22,14 @@ graph LR
   sem --> err
   co --> err
 ```
+
+**Lexical Analysis** is TODO
+
+**Syntactic Analysis** is TODO
+
+**Semantical Analysis** is TODO
+
+## References
 
 - https://efxa.org/2014/05/17/techniques-for-resolving-common-grammar-conflicts-in-parsers/
 - https://compiladores-novenoa.blogspot.com/2011/11/fases-de-un-compilador.html
