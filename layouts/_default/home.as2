@@ -6,9 +6,6 @@
   "id": "{{ "/" | absLangURL }}",
   "type": "Person",
   "name": "{{ .Site.Author.name }}",
-  "alsoKnownAs": [
-    "https://mastodon.social/users/hacdias"
-  ],
   "summary": {{ .Site.Params.description | jsonify }},
   "preferredUsername": "{{ .Site.Author.username }}"
   {{ with .Site.Author.avatar -}}
