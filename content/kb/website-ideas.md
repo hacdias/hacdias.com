@@ -1,5 +1,5 @@
 ---
-date: '2020-02-26T17:50:53.760Z'
+date: '2020-03-01T17:44:50.564Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -38,13 +38,6 @@ Right now, I render all the Mermaid diagrams and $\LaTeX$ on the fly on the clie
 - Computer Architecture cheatsheet
 - Analysis and Synthesis of Algorithms notes
 - Electromagnetism and Waves notes
-
-
-## ActivityPub
-
-- https://www.w3.org/TR/activitypub/#undo-activity-inbox
-- https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/
-- [jlelse/hugo-activitystreams: ActivityStreams for Hugo -  hugo-activitystreams - Codeberg.org](https://codeberg.org/jlelse/hugo-activitystreams)
 
 ## Recipes Section
 
