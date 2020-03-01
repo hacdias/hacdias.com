@@ -7,7 +7,10 @@
   "type": "Person",
   "name": "{{ .Site.Author.name }}",
   "summary": {{ .Site.Params.description | jsonify }},
-  "preferredUsername": "{{ .Site.Author.username }}"
+  "preferredUsername": "{{ .Site.Author.username }}",
+  "alsoKnownAs": [
+    "https://mstdn.social/users/hacdias"
+  ]
   {{ with .Site.Author.avatar -}}
   ,"icon": {
       "type": "Image",
