@@ -1,6 +1,16 @@
 {
   "movies": [
     {
+      "title": "Frozen II",
+      "watched": "2020-02-29T15:03:36.000Z",
+      "url": "https://trakt.tv/movies/frozen-ii-2019"
+    },
+    {
+      "title": "Bad Boys for Life",
+      "watched": "2020-02-29T01:02:01.000Z",
+      "url": "https://trakt.tv/movies/bad-boys-for-life-2020"
+    },
+    {
       "title": "Airplane Mode",
       "watched": "2020-01-27T07:57:30.000Z",
       "url": "https://trakt.tv/movies/airplane-mode-2020"
@@ -1568,6 +1578,11 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race",
+      "watched": "2020-02-29T11:04:35.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "The Magicians",
       "watched": "2020-02-27T19:00:18.000Z",
       "url": "https://trakt.tv/shows/the-magicians-2015"
@@ -1596,11 +1611,6 @@
       "title": "RuPaul's Drag Race All Stars",
       "watched": "2020-01-25T14:51:26.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2020-01-21T23:01:51.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "Sex Education",
