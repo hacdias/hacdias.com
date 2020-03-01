@@ -1,5 +1,5 @@
 ---
-date: '2020-03-01T23:47:36.616Z'
+date: '2020-03-01T23:48:01.354Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:26.092Z'
 tags:
@@ -57,7 +57,7 @@ After the semantic analysis, the compiler generates an intermediate code of the 
 
 ### Code Optimization
 
-<small>_This is an optional phase._</small>
+<small>This is an optional phase.</small>
 
 After generating the intermediate phase, a code optimizer might be used to optimize what the compiler have so far. Optimization can be assumed as a phase that removes unnecessary code lines and rearrages the statements for best performance.
 
