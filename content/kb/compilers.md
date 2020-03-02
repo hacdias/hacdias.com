@@ -1,5 +1,5 @@
 ---
-date: '2020-03-01T23:48:01.354Z'
+date: '2020-03-02T08:03:48.142Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:26.092Z'
 tags:
@@ -43,9 +43,13 @@ This phase scans the input file and converts it into tokens. It converts a strea
 
 [Read more.](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Theoretical_Aspects_of_Lexical_Analysis)
 
+See [Flex](/kb/flex).
+
 ### Syntactic Analysis
 
 This phase is usually called **parsing**. It takes the tokens produced by the lexical analysis as input and generates a parse tree (a.k.a. syntax tree). In this phase, token arrangements are checked against the source code grammar. If the tokens are not in the correct format, errors must be thrown.
+
+See [YACC](/kb/yacc).
 
 ### Semantic Analysis
 
