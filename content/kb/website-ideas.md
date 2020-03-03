@@ -1,5 +1,5 @@
 ---
-date: '2020-03-02T18:26:59.908Z'
+date: '2020-03-02T23:38:17.826Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -13,6 +13,13 @@ title: Website Ideas
 - https://synesthesia.me/see-your-name
 - Simplify bookmarks page to list all of them in a list form.
 - Should I add date [above the posts](https://jlelse.blog/thoughts/2019/11/dates-above/)? My main problem with this is information scattering. I didn't want to have the tags separated from the date and category. On the other hand, it may be useful to have the category and date in the beginning.
+
+## URLs and Dates
+
+- Maybe change the URL format I'm using for most stuff to include a slug and remove the `id`. I think most of the URLs are too big for no reason.
+  - /articles/2020/01/article-slug ; or
+  - /a/2020/01/article-slug
+  - Remove the day and add a slug most of the times. If no slug, just a number or random slug.
 - Opinions change kind of box with 1year+ posts.
 
 ## Media Endpoint
