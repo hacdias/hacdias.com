@@ -1578,6 +1578,11 @@
   ],
   "series": [
     {
+      "title": "#CasaDoCais",
+      "watched": "2020-03-02T21:50:07.000Z",
+      "url": "https://trakt.tv/shows/casadocais"
+    },
+    {
       "title": "RuPaul's Drag Race",
       "watched": "2020-02-29T11:04:35.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
@@ -1596,11 +1601,6 @@
       "title": "Young Sheldon",
       "watched": "2020-02-22T14:39:07.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "#CasaDoCais",
-      "watched": "2020-02-20T23:54:53.000Z",
-      "url": "https://trakt.tv/shows/casadocais"
     },
     {
       "title": "The New Pope",
