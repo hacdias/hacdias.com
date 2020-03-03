@@ -17,8 +17,8 @@ title: Website Ideas
 ## URLs and Dates
 
 - Maybe change the URL format I'm using for most stuff to include a slug and remove the `id`. I think most of the URLs are too big for no reason.
-  - /articles/2020/01/article-slug ; or
-  - /a/2020/01/article-slug
+  - `/articles/2020/01/article-slug` ; or
+  - `/a/2020/01/article-slug`
   - Remove the day and add a slug most of the times. If no slug, just a number or random slug.
 - Opinions change kind of box with 1year+ posts.
 
