@@ -21,11 +21,9 @@ This is a [now](https://nownownow.com/about) page. Here you can find what I'm fo
 
 - Getting back to university
 - Improving this website; and
-- Decentralizing the web!
+- Learning a bit about photography...
 
-I'm also reading the following books:
-
-{{< books type="reading" >}}
+I've currently paused my work at Protocol Labs. You can see why [here](/notes/2020/03/02/1/). 😕
 
 <script>
 fetch('https://hacdias.com/api/now')

@@ -1,0 +1,14 @@
+{{- $cover := resources.Get (printf "images/books/%s.jpg" .isbn) -}}
+{{- $title := printf "%s by %s" .name .author -}}
+{{- with .url -}}<a href="{{ . }}">{{ end }}
+  {{- with $cover }}
+    {{- $100 := $cover.Fill "100x150 Center q50" -}}
+    {{- $200 := $cover.Fill "210x300 Center q50" -}}
+    <picture>
+      <source srcset="{{ $100.RelPermalink }} 100w, {{ $200.RelPermalink }} 200w">
+      <img src="{{ $cover.RelPermalink }}" alt="{{ $title }}" title="{{ $title }}" />
+    </picture>
+  {{- else -}}
+    <span>{{ $title }}</span>
+  {{- end -}}
+{{- with .url -}}</a>{{ end }}

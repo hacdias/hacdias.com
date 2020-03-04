@@ -7,13 +7,6 @@ description: >
   I would like to read.
 ---
 
-Here you can find the books I've read in the past or that I want to read. For what I'm reading at the moment,
-please check out my [now page](/now/).
+Here you can find the books I'm reading, that I want to read and the ones I've read in the past.
 
-## Want to Read
-
-{{< books type="to-read" >}}
-
-## Read 
-
-{{< books type="finished" >}}
+{{< books >}}
