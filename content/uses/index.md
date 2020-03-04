@@ -1,5 +1,5 @@
 ---
-date: 2020-02-17T21:46:00.000Z
+date: 2020-03-04T07:45:00.000Z
 emoji: "\U0001F6E0"
 properties: {}
 publishDate: 2020-01-21T15:39:00.000Z
@@ -15,7 +15,7 @@ This is a [uses] page where you can find some of the technology I use. This page
 - **Laptop**: Macbook Pro 13"
 - **Smartphone**: iPhone 11 Pro
 - **Tablet**: iPad Pro
-- **Watch**: FitBit Charge 2
+- **Watch**: FitBit Charge 3
 
 ## Software
 
