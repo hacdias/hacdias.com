@@ -1578,6 +1578,11 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2020-03-03T17:50:54.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "#CasaDoCais",
       "watched": "2020-03-02T21:50:07.000Z",
       "url": "https://trakt.tv/shows/casadocais"
@@ -1591,11 +1596,6 @@
       "title": "The Magicians",
       "watched": "2020-02-27T19:00:18.000Z",
       "url": "https://trakt.tv/shows/the-magicians-2015"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2020-02-25T10:07:44.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Young Sheldon",
