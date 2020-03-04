@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+<style>
+.picture,
+.content,
+.site-footer {
+  max-width: var(--max-width);
+  margin: 2rem auto;
+}
+
+.picture {
+  max-width: calc(var(--max-width) + 20rem);
+}
+
+.site-footer {
+  margin-bottom: 0;
+}
+
+.content > p,
+.content > h1 {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
+</style>
+
+<main role='main'>
+  <article class='h-entry'>
+    {{ $arr := partial "must-slice" .Params.properties.photo }}
+    {{ $sha := index $arr 0 }}
+    <section class='picture'>
+      <picture>
+        <source srcset="https://cdn.hacdias.com/photos/{{ $sha }}_1000x.webp 1000w, https://cdn.hacdias.com/photos/{{ $sha }}_2000x.webp 2000w" type="image/webp">
+        <source srcset="https://cdn.hacdias.com/photos/{{ $sha }}_1000x.jpeg 1000w, https://cdn.hacdias.com/photos/{{ $sha }}_2000x.jpeg 2000w">
+        <img class="u-photo" alt="{{ .Title }}" title="{{ .Title }}" src="https://cdn.hacdias.com/photos/{{ $sha }}_2000x.jpeg">
+      </picture>
+    </section>
+
+    <section class='content'>
+      <h1 class='p-name'>{{ .Title }}</h1>
+      <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{- .Date.Format "January 02, 2006" }}</time>
+    </section>
+
+    {{ with .Content }}
+    <section class='content'>
+      <div class='copy e-content'>{{ . }}</div>
+    </section>
+    {{ end }}
+  </article>
+</main>
+
+{{ end }}

@@ -8,7 +8,7 @@ description:  >
   my thoughts, my adventures and my progress in life.
 menu:
   main:
-    weight: 3
+    weight: 4
 ---
 
 <small>**Note**: if you decide to read my old posts, please bear in mind that those were written

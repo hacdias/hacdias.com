@@ -8,6 +8,7 @@ body {
   --white: #ffffff;
   --near-white: #f4f4f4;
   --light-white: #ddd;
+  --max-width: 50rem;
   --f6: .875rem;
   --f7: .75rem;
 }
@@ -246,8 +247,8 @@ blockquote {
 
 .container {
   width: calc(100% - 3rem);
+  max-width: var(--max-width);
   padding: 1.5rem;
-  max-width: 50rem;
   margin: 1.5rem auto;
   background: var(--white);
   border: 1px solid var(--background-sheet);
@@ -569,4 +570,20 @@ figure.right {
   .mentions {
     display: none;
   }
+}
+
+.section-photos {
+  background: var(--white);
+}
+
+.section-photos #header nav {
+  border-bottom: 0;
+}
+
+.section-photos .container {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  border: 0;
+  box-shadow: none;
 }

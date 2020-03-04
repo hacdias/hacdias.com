@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<style>
+.h-feed {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-gap: 1rem;
+	margin: 2rem 0;
+	line-height: 0;
+}
+</style>
+
+<main role='main'>
+  <div class='h-feed'>
+		{{- range $i, $page := .Pages -}}
+			{{ $arr := partial "must-slice" $page.Params.properties.photo }}
+			{{ $sha := index $arr 0 }}
+			<div  class='photo h-entry'>
+				<a href="{{ $page.RelPermalink }}" class='u-url'>
+					<picture>
+						<source srcset="https://cdn.hacdias.com/photos/{{ $sha }}_600x400.webp" type="image/webp">
+						<source srcset="https://cdn.hacdias.com/photos/{{ $sha }}_600x400.jpeg">
+						<img class="u-photo" alt="{{ $page.Title }}" title="{{ $page.Title }}" src="https://cdn.hacdias.com/photos/{{ $sha }}_600x400.jpeg">
+					</picture>
+				</a>
+			</div>
+		{{ end }}
+	</div>
+</main>
+
+{{ end }}

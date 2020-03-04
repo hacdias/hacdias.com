@@ -3,7 +3,7 @@ title: Knowledge Base
 emoji: 🧠
 menu:
   main:
-    weight: 6
+    weight: 7
     name: kb
 ---
 
