@@ -9,7 +9,11 @@
 		<div class='copy'>{{ . }}</div>
   {{- end }}
 
-  {{ partial "rec-sitemap" . }}
+  <ul>
+		{{ range .Pages }}
+			<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+		{{ end }}
+	</ul>	
 </main>
 
 {{ end }}
