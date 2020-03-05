@@ -1,5 +1,5 @@
 ---
-date: '2020-03-02T23:38:17.826Z'
+date: '2020-03-05T08:41:05.431Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -54,8 +54,10 @@ Right now, I render all the Mermaid diagrams and $\LaTeX$ on the fly on the clie
 
 ## Import Photos from Instagram
 
-- What to consider on `Photos` page? Every post with photos? Or the best photos only?
-- While doing this, cleanup my Instagram page and remove old pictures I don’t want there anymore.
+- Add `Photos` page with the latest _X_ pictures.
+  - Consider pagination.
+- Then, add an archive page that should be Instagram-like with miniatures.
+- While doing this, cleanup my Instagram page and link the profile to my pictures page.
 - Write post about it and tell the world!
 
 ## Search
