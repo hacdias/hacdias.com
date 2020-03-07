@@ -1,5 +1,5 @@
 ---
-date: '2020-03-05T08:41:05.431Z'
+date: '2020-03-07T17:04:37.416Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -51,6 +51,10 @@ Right now, I render all the Mermaid diagrams and $\LaTeX$ on the fly on the clie
 
 - `h-recipe`
 - [Classic Chocolate Chip Cookies Recipe | Yummly](https://www.yummly.com/recipe/Classic-Chocolate-Chip-Cookies-2455312?prm-v1)
+
+## `upload` script
+
+Move upload script elsewhere and make it more powerful. Have some presets obviously.
 
 ## Import Photos from Instagram
 
