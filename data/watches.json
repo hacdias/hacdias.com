@@ -1578,6 +1578,21 @@
   ],
   "series": [
     {
+      "title": "Tales of the City",
+      "watched": "2020-03-06T16:32:41.000Z",
+      "url": "https://trakt.tv/shows/tales-of-the-city"
+    },
+    {
+      "title": "Young Sheldon",
+      "watched": "2020-03-06T09:02:08.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "The Magicians",
+      "watched": "2020-03-06T08:34:40.000Z",
+      "url": "https://trakt.tv/shows/the-magicians-2015"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2020-03-03T17:50:54.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
@@ -1591,16 +1606,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2020-02-29T11:04:35.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "The Magicians",
-      "watched": "2020-02-27T19:00:18.000Z",
-      "url": "https://trakt.tv/shows/the-magicians-2015"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2020-02-22T14:39:07.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "The New Pope",
