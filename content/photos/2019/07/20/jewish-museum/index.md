@@ -2,5 +2,5 @@
 title: Jewish Museum
 date: 2019-07-20
 properties:
-  photo: 7ccc40476219f69b68a348841d89140688667492568bcbcab536a284a11799c1
+  photo: 600ba3dac8e897eeba6263d197f148cfa964e6b0277bf4ad894637f413c429ee
 ---
