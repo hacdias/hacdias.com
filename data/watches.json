@@ -1578,6 +1578,11 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race",
+      "watched": "2020-03-07T09:44:43.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "Tales of the City",
       "watched": "2020-03-06T16:32:41.000Z",
       "url": "https://trakt.tv/shows/tales-of-the-city"
@@ -1601,11 +1606,6 @@
       "title": "#CasaDoCais",
       "watched": "2020-03-02T21:50:07.000Z",
       "url": "https://trakt.tv/shows/casadocais"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2020-02-29T11:04:35.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "The New Pope",
