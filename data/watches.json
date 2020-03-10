@@ -1578,6 +1578,11 @@
   ],
   "series": [
     {
+      "title": "#CasaDoCais",
+      "watched": "2020-03-09T20:51:42.000Z",
+      "url": "https://trakt.tv/shows/casadocais"
+    },
+    {
       "title": "Tales of the City",
       "watched": "2020-03-08T22:34:35.000Z",
       "url": "https://trakt.tv/shows/tales-of-the-city"
@@ -1601,11 +1606,6 @@
       "title": "The Good Doctor",
       "watched": "2020-03-03T17:50:54.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "#CasaDoCais",
-      "watched": "2020-03-02T21:50:07.000Z",
-      "url": "https://trakt.tv/shows/casadocais"
     },
     {
       "title": "The New Pope",
