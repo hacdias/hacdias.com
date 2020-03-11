@@ -4,433 +4,529 @@ finished:
     name: 'O Leão, a Feiticeira e o Guarda-Roupa'
     isbn: '9789722330206'
     rating: 3
+    photo: 09e2d05295e38bd31f79f9d311d84b64417ab8ece63f794d935b6317ee4dccb5
   - date: 2015-02-28T00:00:00.000Z
     author: Jeff Kinney
     name: O Rodrick é Terrível
     isbn: '9789896680060'
     rating: 5
+    photo: 1d6e8224a09191f5d5fb26d491b584cfa63065ebcac295d85ed52f600239c320
   - date: 2015-02-28T00:00:00.000Z
     author: C.S. Lewis
     name: A Viagem do Caminheiro da Alvorada
     isbn: '9789722331326'
     rating: 3
+    photo: 21c9bc5eb6302dc8bf20b8b3e5b8e47b57d442d665facbd50a8b41cd859c9047
   - date: 2015-02-28T00:00:00.000Z
     author: C.S. Lewis
     name: A Última Batalha
     isbn: '9789722332200'
     rating: 3
+    photo: 222f2fac9cee91ca694c87b2e78b2c1bce5962c48cb293306176d2d238c7031c
   - date: 2015-02-28T00:00:00.000Z
     author: C.S. Lewis
     name: O Trono de Prata
     isbn: '9789722331685'
     rating: 3
+    photo: 8d827ecb695fb97f5dbe0c59b11e9900d17b263dd210877cc2d9c94de12e58bc
   - date: 2015-02-28T00:00:00.000Z
     author: C.S. Lewis
     name: O Cavalo e o Seu Rapaz
     isbn: '9789722330558'
     rating: 3
+    photo: 1dc9bc5c29eb348316cefd0d212ff48b69b8df71dc3d3640ceaee5e13b5808f6
   - date: 2015-02-28T00:00:00.000Z
     author: C.S. Lewis
     name: O Príncipe Caspian
     isbn: '9789722330978'
     rating: 3
+    photo: 7870ea84c617536a273343ade649097bfae9ca8de1027c530832fded83311a0c
   - date: 2015-02-28T00:00:00.000Z
     author: C.S. Lewis
     name: O Sobrinho do Mágico
     isbn: '9789722329989'
     rating: 3
+    photo: 169988798e890b4d64c9cf710733535b9b5992be10430a3884a4377eaa9abfdb
   - date: 2015-02-28T00:00:00.000Z
     author: Afonso Cruz
     name: Os Livros Que Devoraram o Meu Pai
     isbn: '9789722120951'
     rating: 5
+    photo: 81e346e387da652b7b2a150fa91b68d7bb6528148b9308cff5bb72203ec807c3
   - date: 2015-02-28T00:00:00.000Z
     author: Rosa Lobato de Faria
     name: O Prenúncio das Águas
     isbn: '9789724129709'
     rating: 4
+    photo: cf494cd5955417f9dd04191b343e6d8384a3da7142152bdb68d6ae60ca214e69
   - date: 2015-02-28T00:00:00.000Z
     author: Rick Riordan
     name: Percy Jackson e a Maldição do Titã
     isbn: '9789724620251'
     rating: 4
+    photo: 898bb3381cfb797a6366bb134717901da7cbc2894d9867a43b3f0a54bda7d55d
   - date: 2015-02-28T00:00:00.000Z
     author: Tim Collins
     name: Diário de Um Vampiro Banana
     isbn: '9789898260840'
     rating: 5
+    photo: 7f68644813f7d62b28fbb8ca0a890e5f89eccd307ded855ad169cd912702c27a
   - date: 2015-02-28T00:00:00.000Z
     author: Rick Riordan
     name: Percy Jackson e o Último Olimpiano
     isbn: '9789724622415'
     rating: 5
+    photo: 3ff4e5cf6ebb019363dfc95fd5d0d0cf1ff5595ec1f0919ae7a98955b350b726
   - date: 2015-02-28T00:00:00.000Z
     author: Rick Riordan
     name: O Herói Desaparecido
     isbn: '9789896574918'
     rating: 4
+    photo: 152bc0ccd8132f4539eaa8577d10ad8b3296cc3b799a8a5939548dbb2f570aba
   - date: 2015-02-28T00:00:00.000Z
     author: Marion Zimmer Bradley
     name: A Senhora da Magia
     isbn: '9789896373986'
     rating: 5
+    photo: 390e2bc502f7db83c85596ed88fe648fee2548a6009f3737c8ce5b0699379f04
   - date: 2015-02-28T00:00:00.000Z
     author: Caragh M. O'Brien
     name: Apreciada
     isbn: '9789895018987'
     rating: 4
+    photo: ee5f3d1f43cce08cc765989311dfaee1539a8f74736dad93567c5d4be1688bc8
   - date: 2015-02-28T00:00:00.000Z
     author: Caragh M. O'Brien
     name: Marcados à Nascença
     isbn: '9789895015870'
     rating: 4
+    photo: a7d942ffbff7d0bc6fddca3922d4846ec1f5e91dad2a3c1e62bd37dde230ce38
   - date: 2015-02-28T00:00:00.000Z
     author: Tim Collins
     name: Príncipe da Tansilvânia
     isbn: '9789897070211'
     rating: 3
+    photo: 59cb11542222f674a73dbac5d1079a6d92006a63798ae976180f35fa787043b7
   - date: 2015-02-28T00:00:00.000Z
     author: Tim Collins
     name: O Diário de Um Lobisomem Banana
     isbn: '9789897070730'
     rating: 3
+    photo: f269bcf31a37bd64122846d57c0351bb5eb9d7a6a23e2d8aaa46a868d8dba65d
   - date: 2015-02-28T00:00:00.000Z
     author: Jeff Kinney
     name: O Emplastro
     isbn: '9789897071188'
     rating: 5
+    photo: c36eed1c77f2a80fd4c218b5768f81fe3eda25af3d3e7025c9854bd7b5277439
   - date: 2015-02-28T00:00:00.000Z
     author: Jeff Kinney
     name: Tirem-me Daqui!
     isbn: '9789897071102'
     rating: 4
+    photo: 7a59535e1679f2edde9e6416c7b83b746f24561eafff1f1d4fc07d281e00d5c4
   - date: 2015-02-28T00:00:00.000Z
     author: Jeff Kinney
     name: A Verdade Nua e Crua
     isbn: '9789897070433'
     rating: 4
+    photo: 82604e7e63ee7fe8c5264547b859dcc0a6a24e6d22525027e2308e4dde19331f
   - date: 2015-02-28T00:00:00.000Z
     author: Jeff Kinney
     name: Um Dia de Cão
     isbn: '9789896680596'
     rating: 3
+    photo: 647a808ffe93cb0bf02101e322c692d31bd0ef8393307a2e9ba8e9f52ffe45b0
   - date: 2015-02-28T00:00:00.000Z
     author: Jeff Kinney
     name: A Última Gota
     isbn: '9789896680589'
     rating: 5
+    photo: 9a7ee73011a088baa577fe7939a1c8afc3e2aba8a50e50a03a2340d3ba4fbd13
   - date: 2015-03-06T00:00:00.000Z
     author: Tim Collins
     name: Bananus Maximus
     isbn: '9789897071140'
+    photo: 127ab7c7d6477df271f380780f4abcebf1b90931ef2941044d1cb88bf32e55be
   - date: 2015-03-09T00:00:00.000Z
     author: Jorge Amado
     name: Capitães da Areia
     isbn: '9789896530075'
     rating: 4
+    photo: 5b39390801351259c3093457162e246420eb06f64cedafce91578ef8f9a36e1d
   - date: 2015-03-09T00:00:00.000Z
     author: Veronica Roth
     name: Insurgente
     isbn: '9789720043825'
     rating: 5
+    photo: ca199ccf7e05017f5882c0164b88bc3bee3c00b873db0398749e7603b308efe5
   - date: 2015-03-09T00:00:00.000Z
     author: Eça de Queirós
     name: Contos
     isbn: '9789897110047'
     rating: 3
+    photo: a3f8a8102cde7072fde3208a7aa66f39acc75b4564e25beb451ed0367daf0a76
   - date: 2015-03-26T00:00:00.000Z
     author: Afonso Cruz
     name: Para Onde Vão Os Guarda-Chuvas
     isbn: '9789896721978'
     rating: 4
+    photo: 2349bfb31043be4b498dbe122e3d2ef28cf78912a1b147f37dff4fdd0dcc7e5d
   - date: 2015-03-29T00:00:00.000Z
     author: Lois Lowry
     name: The Giver
     isbn: '9780385732550'
     rating: 5
+    photo: d20693556b44a74b5a1aaf0df2e59a18628ff40228a8da061da90226127a6721
   - date: 2015-03-29T23:00:00.000Z
     author: José Eduardo Agualusa
     name: A Vida no Céu
     isbn: '9789897221101'
     rating: 4
+    photo: e3f26e3b3a2e92dacc9887570b6178ac464485960839bab249bcd554d5e2136f
   - date: 2015-04-04T23:00:00.000Z
     author: Veronica Roth
     name: Divergente
     isbn: '9789720043818'
     rating: 5
+    photo: d4e4b29e6ab5aad8edb399208666d1b90a5d65b015fed35655ef882b3e0bc10a
   - date: 2015-04-23T23:00:00.000Z
     author: Brigitte Giraud
     name: 'Um Ano Estrangeiro '
     isbn: '9789727707638'
     rating: 4
+    photo: 15edfa9998e2a67844579e23e7ec240fbecb96703c28e887be45352f2431b4ae
   - date: 2015-05-04T23:00:00.000Z
     author: Veronica Roth
     name: Convergente
     isbn: '9789720043832'
     rating: 5
+    photo: 48639886821a4aa9bb7a516ef823dbc74e5b92799b3adc6e69443c09242332d0
   - date: 2015-07-08T23:00:00.000Z
     author: Veronica Roth
     name: Quatro – Histórias da Série Divergente
     isbn: '9789720047250'
+    photo: 185dda132202eb4d73e86d499f9762f53f8ae614461d82f796bff589e213deb2
   - date: 2015-08-01T23:00:00.000Z
     author: Stephen Hawking
     name: 'Breve História do Tempo: do Big Bang aos Buracos Negros'
     isbn: '9789726620105'
     rating: 5
+    photo: 6c8f788d1f833dd15c636f9e586cbb894ad1f0f8e99b9c9f86f76c935f9f7694
   - date: 2015-09-16T23:00:00.000Z
     author: Daniel H. Pink
     name: A Nova Inteligência
     isbn: '9789724746203'
+    photo: 498a2bd529ca210e965dce4f089846b4c1e22e20e405bb2db70294c4943ec26e
   - date: 2015-10-29T00:00:00.000Z
     author: John Green
     name: Cidades de Papel
     isbn: '9789722352925'
+    photo: 3fae0586b9d65fc34fb29d02983d8ca73cc007b7227a4df7460707f1d5e153a5
   - date: 2015-11-12T00:00:00.000Z
     author: John Green
     name: O Teorema Katherine
     isbn: '9789892326337'
+    photo: 80872e45b48c7644ad3dffcdb1d0801a52ff5d84bd0a222463cedc290e77188a
   - date: 2016-03-31T23:00:00.000Z
     author: Eça de Queirós
     name: Os Maias
     isbn: '9780811216494'
+    photo: 54d1c8cb43301595868325ff19ab53650cd96be86620c47bf2ebc1d576252fab
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério do Saco da Roupa
     isbn: '9789897410543'
+    photo: 0ce6e94fa93fbc109526af13510fbba4f9413327cc99df811e1893953602576d
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério da Casa Queimada
     isbn: '9789895554591'
+    photo: 5da41a0a11a9223ba878a43f0a4e5cb9ea33f94792320bd756668f90a0446186
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: Os Cinco na Ilha do Tesouro
     isbn: '9789895557745'
+    photo: b654f33b58d6d729f1db604efc02846a0b0dfd2c9b635d3b03e339abca291a0b
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: Os Cinco e os Contrabandistas
     isbn: '9789895558360'
+    photo: 8fd200adcd3e95bb20325f534268c415bb0050b49d9f2fddd1132f3cc99a5a85
   - date: 2016-08-24T23:00:00.000Z
     author: Geronimo Stilton
     name: Naufrágio na Ilha dos Piratas
     isbn: '9789722339360'
+    photo: f16a23bb36fd11f1a0f876f268e21608b96a21d2c4f3599aa747619900406155
   - date: 2016-08-24T23:00:00.000Z
     author: Geronimo Stilton
     name: Pânico nos Himalaias
     isbn: '9789722336390'
+    photo: e8d50c370e99ede0bc42f9d96e5abd386adf9ad5c0af744c85af3b2b6804d204
   - date: 2016-08-24T23:00:00.000Z
     author: Geronimo Stilton
     name: O Mistério do Olho de Esmeralda
     isbn: '9789722335157'
+    photo: 9b26cdbdd024355ecdc63c667833253acab917d8c85144cda73f4146737de311
   - date: 2016-08-24T23:00:00.000Z
     author: Geronimo Stilton
     name: O Manuscrito Misterioso
     isbn: '9789722334723'
+    photo: ac1afb2aaae08bfb186371ee508a87eef408848f559beb06806d75f8fe92b9a6
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura no Pulo do Lobo
     isbn: '9789722121026'
+    photo: 8bd908bfe27c13743358afc372b1d84715d4025db915f9f42c8585a95eda00e7
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura na Amazónia
     isbn: '9789722120388'
+    photo: fc723b04d9c1946230f50a03f77cc70b1d3f5e76086630183809d690ea5251b4
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura no Labirinto Misterioso
     isbn: '9789722118606'
+    photo: 0b3f7a7f3be3ec4081cfa51480823934119b818414cce25e23a23ef657e7e5ff
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério do Príncipe Desaparecido
     isbn: '9789895560202'
+    photo: 50474636076e91b296fec0f99bd229730d38fbc8b1a70f6397fffbb6081bc05f
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura no Comboio
     isbn: '9789722117906'
+    photo: 0a69a442b41f8f35cef15de874a58b1b1bb462b98c4deef5246c4c8d691395c2
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura Secreta
     isbn: '9789722114677'
+    photo: fa3c7104ed4322b35fb47c97ae8e03a30fd22bd555a25c94c5a636f91437d9c9
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura na Casa Assombrada
     isbn: '9789722111225'
+    photo: 825dfdf4179a6e8ecac3b3e36b9c4824ac9e94b7ef3db833f1bbfad30b5a2157
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura na Praia
     isbn: '9789722108997'
+    photo: 526232f03e24f15f9043a7b90a5d6a5c369dbf2bae68a5cf897ea23b3cdc4c33
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura na Serra da Estrela
     isbn: '9789722108379'
+    photo: c3683dcfc58fa9112fdfbd1221f4b7b22ac2aa4270ccf8261332b26251dd00fd
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura no Verão
     isbn: '9789722107747'
+    photo: 6a1827f1d56c6a4108d673b9f412d763e4fed2cf028b166f03decaa766f1ac8a
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura no Bosque
     isbn: '9789722100045'
+    photo: aa93307846596cdd4a39eb17cdc9681d6326e1699e048b9305b693e64f32c6df
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura no Deserto
     isbn: '9789722100205'
+    photo: f911f8294bbdd9c65e1b952912e3cd6053ff64d793add8658bd55d8c230f66f7
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura em Lisboa
     isbn: '9789722100212'
+    photo: ab77fc33c3220e4ca8d305354959e15228a3478fc1cd6a6b83afe50d872d38b9
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura entre Douro e Minho
     isbn: '9789722100052'
+    photo: 34b07b36e9ba8cdc70088037ccf1d82e4de819eb606fd74cb0e3cf6e4292ad0c
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério do Ladrão Invisível
     isbn: '9789895559541'
+    photo: 93c8c0aa56e6c47f9ebd87215bde3d93eb89e1d6f944bf86d01b3b471f2a0211
   - date: 2016-08-24T23:00:00.000Z
     author: Ana Maria Magalhães
     name: Uma Aventura nas Férias do Natal
     isbn: '9789722100014'
+    photo: fb2ff909ba408841039c02b581081c5c96f90eea7c9191d69ece913ad05f351c
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério do Gato Cómico
     isbn: '9789895557738'
+    photo: b1c36a4f0e3b00f4cc84d82a8429e1c613c99181ca890141a3d9aaa2b1a6da5f
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério da Casa Invisível
     isbn: '9789895555673'
+    photo: 27a10332e74fb5e9586c6c6200f318cdef3ac1d89b433824027b38166a4228ae
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério do Colar Desaparecido
     isbn: '9789895555222'
+    photo: 68a42ffa0b8199aeb8012cc27993245c57ba1c55d231b04742d6a3e83872a3b4
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Misterio das Cartas Anónimas
     isbn: '9789895554836'
+    photo: 2ef532ba2828fb392f2feb759c9e8636e101b7518c4f58350a73aae7e60da83e
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério do Quarto Secreto
     isbn: '9789897415005'
+    photo: 8977754e78ac3cd3ebc9430a7f5f49e2859d7abf636fb06a93a623f5d8698596
   - date: 2016-08-24T23:00:00.000Z
     author: Enid Blyton
     name: O Mistério da Gata Desaparecida
     isbn: '9789895554607'
+    photo: 7ea6fb2bdd42364cec4261e37e811aaa89180d75500629727972c78189f416df
   - date: 2016-09-22T23:00:00.000Z
     author: Luís de Sttau Monteiro
     name: Felizmente Há Luar!
     isbn: '9789726277446'
     rating: 4
+    photo: 15b97bc16d7d3b3dc67ba62d0f7a3752130f97b71834f46359d275eaa06f319e
   - date: 2016-09-23T23:00:00.000Z
     author: John Osborne
     name: Look Back in Anger
     isbn: '9780571322763'
+    photo: 83b884076f5ed7db7d4557b909b2b61d4e45cfcc758059f664c9e9c6f9c6b4b2
   - date: 2016-10-14T23:00:00.000Z
     author: George Orwell
     name: Nineteen Eighty-Four
     isbn: '9780141393049'
     rating: 4
+    photo: b71755b0f35a60c35a62e75fe92f346ad4509782d05c7c40084716507853cd96
   - date: 2017-01-01T00:00:00.000Z
     author: J.K. Rowling
     name: Harry Potter and the Philosopher's Stone
     isbn: '9781408855652'
+    photo: 41fa0d58985a6d0cbfd86b69a10753cb9685ac1ce2847d62896015945d988b50
   - date: 2017-01-09T00:00:00.000Z
     author: J.K. Rowling
     name: Harry Potter and the Chamber of Secrets
     isbn: '9781408855669'
     rating: 4
+    photo: 22fcc4f6568af5b3347cc6c69189e5714d5dc39aa7e770f6972b98d47836322f
   - date: 2017-01-14T00:00:00.000Z
     author: J.K. Rowling
     name: Harry Potter and the Prisoner of Azkaban
     isbn: '9781408855676'
     rating: 4
+    photo: 24064b22cdb98b3028ddcc4c10fc6845c9aa00ea35608fda334de628fb50a864
   - date: 2017-01-20T00:00:00.000Z
     author: J.K. Rowling
     name: Harry Potter and the Goblet of Fire
     isbn: '9781408855683'
     rating: 4
+    photo: ee72c05be398257727a724e09cd314e2097add23d84f0433cf1e812041ab27c1
   - date: 2017-01-24T00:00:00.000Z
     author: J.K. Rowling
     name: Harry Potter and the Order of the Phoenix
     isbn: '9781408855690'
     rating: 4
+    photo: 84c0e1fd38ebbe5b60df23cee44b0360d08f0c3fef140a0b7b287d7d5db60759
   - date: 2017-01-26T00:00:00.000Z
     author: J.K. Rowling
     name: Harry Potter and the Half-Blood Prince
     isbn: '9781408855706'
     rating: 5
+    photo: e99c1a393e08ed3ffd0e43e500e98a3c4e810debb4bfa42d6f43ff86a58b4d37
   - date: 2017-01-29T00:00:00.000Z
     author: J.K. Rowling
     name: Harry Potter and the Deathly Hallows
     isbn: '9781408855713'
     rating: 5
+    photo: 5b88860ab440b1b98c4fd0f002c01b635a2c68d27d8c859b1fb6074b45d81003
   - date: 2017-01-30T00:00:00.000Z
     author: J.K. Rowling
     name: 'Fantastic Beasts and Where to Find Them: The Original Screenplay'
     isbn: '9781408708989'
+    photo: bba2a52c40497af76e51143f871dcad3f64a0fd4c93448c0b0630168e00ea51d
   - date: 2017-05-09T23:00:00.000Z
     author: José Saramago
     name: Memorial do Convento
     isbn: '9789720046710'
     rating: 4
+    photo: 44fe420caceacf1e23cf9f0e87ed06255f8adbae278d3e720074850fcbe2f5f8
   - date: 2017-05-09T23:00:00.000Z
     author: Peter Thiel
     name: 'Zero to One: Notes on Start Ups, or How to Build the Future'
     isbn: '9780753555200'
+    photo: 8178902b071541933747d2681cdf16232dd3ed318b1125b2c10e3bf4a7b7ea92
   - date: 2017-12-08T00:00:00.000Z
     author: Ray Bradbury
     name: Fahrenheit 451
     isbn: '9780007181704'
+    photo: a65d7c82bd443d294f6d1a439df7d59137a21647edf7894d3bdcd9f4b9b6fe96
   - date: 2017-12-23T00:00:00.000Z
     author: George Orwell
     name: Animal Farm
     isbn: '9780141036137'
+    photo: 0f1d8ed465684665b525bd7161476e075ebeae2743de454bb182c04bbbd21326
   - date: 2017-12-30T00:00:00.000Z
     author: Aldous Huxley
     name: Brave New World
     isbn: '9781784870140'
     rating: 5
+    photo: 321b557fb115a16a92c82da7cbea9c11a53b9e4124edca3ff35ca73b6bd80c57
   - date: 2018-01-01T00:00:00.000Z
     author: Stephen Chbosky
     name: The Perks of Being a Wallflower
     isbn: '9781847394071'
     rating: 4
+    photo: 5786388f8fa0c4a5ab5d8eba24025d1992fa6a7ef9d7de77e155558e68bc16f3
   - date: 2018-06-25T23:00:00.000Z
     author: Brian W. Kernighan
     name: The Practice of Programming (Addison-Wesley Professional Computing Series)
     isbn: '9780201615869'
+    photo: 71fce4bcdb2b17eb375939813f4a7a28a47804de749293ff9d36bd1f4042e9e3
   - date: 2020-01-15T00:00:00.000Z
     author: Steve Kinney
     name: Electron in Action
     isbn: '9781617294143'
     rating: 3
+    photo: 8dc4a289bbeb441240a749552092fe148d273ddd28de81b9ae9ed2b4a08f5f6e
   - date: 2020-01-15T00:00:00.000Z
     author: Yevgeniy Brikman
     name: 'Terraform: Up and Running: Writing Infrastructure as Code'
     isbn: '9789352135462'
     rating: 4
+    photo: 1c81bb6d9205a3f715df9521c5c0081cf635b000f7ecaf6d1ccc88e9af54ba93
   - date: 2020-01-15T00:00:00.000Z
     author: Jerry Weissman
     name: 'Presenting to Win: The Art of Telling Your Story'
     isbn: '9780130464132'
     rating: 4
+    photo: 899f98caa7513f55519cff63d3a4e683fa88d59f7a3f6280619a7102f8dfd3ce
   - date: 2020-01-15T00:00:00.000Z
     author: Edward Snowden
     name: Permanent Record
     isbn: '9781250237231'
     rating: 4
+    photo: de8d3b8d6aed51a6032a4cca8b71e7794f70b6ad1256a8c29821dfdfffdc57c0
 to-read:
   - date: 2020-01-29T23:01:26.079Z
     author: Alex Bellos
     name: Alex's Adventures In Numberland
     isbn: '9781408809594'
+    photo: df26beafb5c21f9cf8cad2732c7081044000cc21e22ab44be055d0f1df31446a
   - date: 2020-01-29T23:21:46.563Z
     author: Robert Louis Stevenson
     name: The Strange Case of Dr Jekyll and Mr Hyde
     isbn: '9781847493781'
+    photo: 8ec9fa1bc8e9341c4b937b8ed29c4baa47aba357f2cef9ea35aa30d214a11466
   - date: 2020-01-30T19:20:04.861Z
     author: André Aciman
     name: Call Me By Your Name
     isbn: '9781786495259'
+    photo: 19890aef1dc72b41e50dd4674f6d3d1b56988c69a128d7ebf5768aaeb00e6fc6
 reading:
   - date: 2020-01-31T21:03:46.419Z
     author: Lewis Carroll
     name: Alice's Adventures in Wonderland and Through the Looking Glass
     isbn: '9780141439761'
+    photo: 6631c6b81d7198ec3ae304c513487a98e733563d4a8f1e5a15317ca02e50e4d8
