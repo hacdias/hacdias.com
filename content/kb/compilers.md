@@ -1,5 +1,5 @@
 ---
-date: '2020-03-02T08:03:48.142Z'
+date: '2020-03-11T08:27:42.679Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:26.092Z'
 tags:
@@ -48,6 +48,8 @@ See [Flex](/kb/flex).
 ### Syntactic Analysis
 
 This phase is usually called **parsing**. It takes the tokens produced by the lexical analysis as input and generates a parse tree (a.k.a. syntax tree). In this phase, token arrangements are checked against the source code grammar. If the tokens are not in the correct format, errors must be thrown.
+
+[Read more.](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Introduction_to_Syntax)
 
 See [YACC](/kb/yacc).
 
