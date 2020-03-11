@@ -1,5 +1,5 @@
 ---
-date: '2020-03-07T18:01:51.545Z'
+date: '2020-03-11T09:15:23.334Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -24,11 +24,10 @@ title: Website Ideas
 
 ## Media Endpoint
 
-- Fix photos to CDN. Keep using CDN or just assets/ or images/?
+- Fix photos to CDN.
+- Move all pictures to CDN.
 - Media entry point
 	- Resize automatically through params.
-- Stop using BunnyCDN and just use images/assets?
-- Webmentions photos on website itself?
 
 ## Knowledge Base
 
