@@ -1578,6 +1578,11 @@
   ],
   "series": [
     {
+      "title": "Tales of the City",
+      "watched": "2020-03-11T17:53:51.000Z",
+      "url": "https://trakt.tv/shows/tales-of-the-city"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2020-03-10T23:21:49.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
@@ -1586,11 +1591,6 @@
       "title": "#CasaDoCais",
       "watched": "2020-03-09T20:51:42.000Z",
       "url": "https://trakt.tv/shows/casadocais"
-    },
-    {
-      "title": "Tales of the City",
-      "watched": "2020-03-08T22:34:35.000Z",
-      "url": "https://trakt.tv/shows/tales-of-the-city"
     },
     {
       "title": "RuPaul's Drag Race",
