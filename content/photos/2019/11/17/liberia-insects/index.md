@@ -2,5 +2,5 @@
 title: Liberia Insects
 date: 2019-11-17
 properties:
-  photo: ba5bbfe3d904497a9976957ccf9e2f163d000fd5d3b2f9cb505b7c19038f8631
+  photo: 20c2e77ef91d1dca9780ab1e0e663f74b9bfc28e4d845cb401a6f925aab6b142
 ---

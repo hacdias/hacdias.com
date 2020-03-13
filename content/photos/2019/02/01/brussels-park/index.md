@@ -2,5 +2,5 @@
 title: Brussels Park
 date: 2019-02-01
 properties:
-  photo: 764ca0f709a8d9b4c98592ccb600f5103413b798f1ed6cb73b944458ad16eeb1
+  photo: f299f0c11adb051ea3df6fa953ed1593e04f1cf5594e446e4d92ca3265aed0f0
 ---

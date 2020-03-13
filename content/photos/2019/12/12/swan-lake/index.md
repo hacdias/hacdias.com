@@ -2,5 +2,5 @@
 title: Swan Lake
 date: 2019-12-12
 properties:
-  photo: 0af15d2bdd8cf84a94364fd9f656e9c43e400d082766b84bc1dbe382cd21e444
+  photo: 18d01d75663d2f454cf57ad2dadf1c16c1d2893a8e50207f026c095a1d9b6faa
 ---

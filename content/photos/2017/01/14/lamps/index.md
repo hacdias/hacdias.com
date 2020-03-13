@@ -2,5 +2,5 @@
 title: Lamps
 date: 2017-01-14
 properties:
-  photo: de8c45ea20927267b939405bef8fb060d94b3a911bc2c1dfcdbbc0ef50fc0ec7
+  photo: 3e7931f1e91eaaf50e4cdb0e34ae162fbb02a3c6bdc2ab0a9434bc6bebc86b6e
 ---

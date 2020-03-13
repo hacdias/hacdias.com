@@ -2,5 +2,5 @@
 title: Infinite Stairs
 date: 2019-10-17
 properties:
-  photo: d649cc32faae6c7d7d162cad9b03fa57dc00c58f97c0902fdf988bd1511bb7d3
+  photo: 69f8cbaf84508a9c056fe2c22f8ce8b25b4db15db695d900fa69c002b853c3c1
 ---

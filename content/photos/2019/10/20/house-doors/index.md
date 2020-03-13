@@ -2,5 +2,5 @@
 title: House Doors
 date: 2019-10-20
 properties:
-  photo: 5f051e3fdaa757675aa5c95ed8352cbae0eb55da4ee91c944470f8a9bc0ef7ca
+  photo: 649fad8fe6986bcfafba68859695a2c3fd7307f9a3bf00a8e4ff431a48969649
 ---

@@ -2,7 +2,7 @@
 title: Camden Mirror
 date: 2019-02-06
 properties:
-  photo: 085e2748d1df42b34e418764000c9ecfd6d11cf6856a97b16092becefa39ed5a
+  photo: 10fb068e988bf934bace686c64afffe17f40ab978b68565e4aa6ad914322a7a8
 ---
 
 Is it... upside down?

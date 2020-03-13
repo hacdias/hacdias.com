@@ -2,5 +2,5 @@
 title: Umbrellas
 date: 2018-03-30
 properties:
-  photo: 669eaa6f4615e8d1f4cf36327d42b977bea2b18d229fa2334754ee4d9612dd12
+  photo: c31f885f20c82a11aa0345a525b27640b0317f8850d936dc0f2050f95b18dd3d
 ---

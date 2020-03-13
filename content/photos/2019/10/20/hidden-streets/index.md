@@ -2,5 +2,5 @@
 title: Hidden Streets
 date: 2019-10-20
 properties:
-  photo: eabcec13589b4ee79b5f4aa75ffc4e80ec46f8e76184c40990b8e95088a20ef9
+  photo: 4dce14d19bba1551443bf9b17dc01808ef5841727b4cfb1b772008bd545625c5
 ---
