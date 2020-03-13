@@ -13,8 +13,8 @@ description: >
 emoji: "\U0001F578"
 properties: {}
 tags:
-  - talk
   - ipfs
+  - talks
 title: A quick dive into the dWeb with IPFS
 ---
 
@@ -24,5 +24,7 @@ which is a really nice and open event you can go to and present! If you're inter
 Here's the talk:
 
 {{< youtube EmxUyuCD37Q >}}
+
+The [slides deck](https://cdn.hacdias.com/uploads/39b734cd0db2d8cce10bd561a3aa3cdf9ae481c47a65a865a84b507995743c14.pdf).
 
 <!--more-->
