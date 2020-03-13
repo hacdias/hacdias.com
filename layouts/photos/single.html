@@ -29,9 +29,9 @@
     {{ $sha := index $arr 0 }}
     <section class='picture'>
       <picture>
-        <source srcset="https://cdn.hacdias.com/photos/{{ $sha }}_1000x.webp 1000w, https://cdn.hacdias.com/photos/{{ $sha }}_2000x.webp 2000w" type="image/webp">
-        <source srcset="https://cdn.hacdias.com/photos/{{ $sha }}_1000x.jpeg 1000w, https://cdn.hacdias.com/photos/{{ $sha }}_2000x.jpeg 2000w">
-        <img class="u-photo" alt="{{ .Title }}" title="{{ .Title }}" src="https://cdn.hacdias.com/photos/{{ $sha }}_2000x.jpeg">
+        <source srcset="https://cdn.hacdias.com/photos/t/{{ $sha }}_1000x.webp 1000w, https://cdn.hacdias.com/photos/t/{{ $sha }}_2000x.webp 2000w" type="image/webp">
+        <source srcset="https://cdn.hacdias.com/photos/t/{{ $sha }}_1000x.jpeg 1000w, https://cdn.hacdias.com/photos/t/{{ $sha }}_2000x.jpeg 2000w">
+        <img class="u-photo" alt="{{ .Title }}" title="{{ .Title }}" src="https://cdn.hacdias.com/photos/t/{{ $sha }}_2000x.jpeg">
       </picture>
     </section>
 
