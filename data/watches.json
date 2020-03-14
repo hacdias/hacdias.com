@@ -1578,9 +1578,19 @@
   ],
   "series": [
     {
+      "title": "Elite",
+      "watched": "2020-03-13T15:51:42.000Z",
+      "url": "https://trakt.tv/shows/elite"
+    },
+    {
       "title": "Tales of the City",
-      "watched": "2020-03-12T22:48:31.000Z",
+      "watched": "2020-03-13T11:14:08.000Z",
       "url": "https://trakt.tv/shows/tales-of-the-city"
+    },
+    {
+      "title": "Young Sheldon",
+      "watched": "2020-03-13T10:17:29.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "The Magicians",
@@ -1601,11 +1611,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2020-03-07T09:44:43.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2020-03-06T09:02:08.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "The New Pope",
@@ -1651,11 +1656,6 @@
       "title": "Britain's Busiest Airport: Heathrow",
       "watched": "2019-10-18T00:07:50.000Z",
       "url": "https://trakt.tv/shows/britain-s-busiest-airport-heathrow"
-    },
-    {
-      "title": "Elite",
-      "watched": "2019-09-18T14:25:20.000Z",
-      "url": "https://trakt.tv/shows/elite"
     },
     {
       "title": "13 Reasons Why",
