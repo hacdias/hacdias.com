@@ -387,13 +387,6 @@ blockquote {
   margin-bottom: 0 !important;
 }
 
-figure.full {
-  margin: 2em auto;
-  margin-left: calc(50% - 50vw + 2em);
-  margin-right: calc(50% - 50vw + 2em);
-  width: calc(100vw - 4em);
-}
-
 figure.left,
 figure.right {
   max-width: 20em;
