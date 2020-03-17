@@ -1578,6 +1578,16 @@
   ],
   "series": [
     {
+      "title": "#CasaDoCais",
+      "watched": "2020-03-16T20:34:29.000Z",
+      "url": "https://trakt.tv/shows/casadocais"
+    },
+    {
+      "title": "Westworld",
+      "watched": "2020-03-16T11:28:29.000Z",
+      "url": "https://trakt.tv/shows/westworld"
+    },
+    {
       "title": "Elite",
       "watched": "2020-03-15T13:33:25.000Z",
       "url": "https://trakt.tv/shows/elite"
@@ -1606,11 +1616,6 @@
       "title": "The Good Doctor",
       "watched": "2020-03-10T23:21:49.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "#CasaDoCais",
-      "watched": "2020-03-09T20:51:42.000Z",
-      "url": "https://trakt.tv/shows/casadocais"
     },
     {
       "title": "The New Pope",
@@ -1721,11 +1726,6 @@
       "title": "Scorpion",
       "watched": "2018-08-12T09:12:53.000Z",
       "url": "https://trakt.tv/shows/scorpion"
-    },
-    {
-      "title": "Westworld",
-      "watched": "2018-08-02T19:20:40.000Z",
-      "url": "https://trakt.tv/shows/westworld"
     },
     {
       "title": "The Young Pope",
