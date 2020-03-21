@@ -1,6 +1,16 @@
 {
   "movies": [
     {
+      "title": "Naked",
+      "watched": "2020-03-20T22:35:17.000Z",
+      "url": "https://trakt.tv/movies/naked-2017"
+    },
+    {
+      "title": "Sextuplets",
+      "watched": "2020-03-20T13:52:25.000Z",
+      "url": "https://trakt.tv/movies/sextuplets-2019"
+    },
+    {
       "title": "Frozen II",
       "watched": "2020-02-29T15:03:36.000Z",
       "url": "https://trakt.tv/movies/frozen-ii-2019"
