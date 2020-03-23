@@ -1,0 +1,18 @@
+[
+  {
+    "type": "like",
+    "url": "https://jlelse.blog/micro/2020/03/lifethroughlenses/",
+    "date": "2020-03-23T13:46:08.000Z",
+    "private": false,
+    "wm-id": 774001,
+    "content": {
+      "html": "<p>I like to look at <a href=\"https://hacdias.com/notes/2020/03/21/lifethroughlenses/\">nice</a> <a href=\"https://hacdias.com/notes/2020/03/22/lifethroughlenses/\">photos</a>. And if the photographer publishes them on his own site (in <a href=\"https://indieweb.org/\">IndieWeb</a> style), I like it even more. I am looking forward to see more photos in your series “<a href=\"https://hacdias.com/tags/lifethroughlenses/\">#LifeThroughLenses</a>\", Henrique! 😍👍</p>",
+      "text": "I like to look at nice photos. And if the photographer publishes them on his own site (in IndieWeb style), I like it even more. I am looking forward to see more photos in your series “#LifeThroughLenses\", Henrique! 😍👍"
+    },
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://cdn.hacdias.com/webmentions/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg",
+      "url": "https://jlelse.dev/"
+    }
+  }
+]
