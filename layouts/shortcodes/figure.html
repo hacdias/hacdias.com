@@ -1,10 +1,22 @@
 {{ $original := $.Page.Resources.GetMatch (.Get "src") }}
+{{ $hash := .Get "hash" }}
 <figure {{ with .Get "class" }}class="{{ . }}"{{ end }} {{ with .Get "style" }}style="{{ . }}"{{ end }}>
   {{- if .Get "link" -}}
     <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
   {{- end }}
 
-  {{ if in $original.MediaType.Suffixes "svg" }}
+  {{ if $hash }}
+    <picture>
+      <source srcset="https://cdn.hacdias.com/photos/t/{{ $hash }}_1000x.webp 1000w, https://cdn.hacdias.com/photos/t/{{ $hash }}_2000x.webp 2000w" type="image/webp">
+      <source srcset="https://cdn.hacdias.com/photos/t/{{ $hash }}_1000x.jpeg 1000w, https://cdn.hacdias.com/photos/t/{{ $hash }}_2000x.jpeg 2000w">
+      <img src="https://cdn.hacdias.com/photos/t/{{ $hash }}_2000x.jpeg"
+        {{- if or (.Get "alt") (.Get "caption") }}
+        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+        {{- end -}}
+        {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+        {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
+    </picture>
+  {{ else if in $original.MediaType.Suffixes "svg" }}
     {{ $original.Content | safeHTML }}
   {{ else }}
     <picture>
@@ -21,7 +33,9 @@
         {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
     </picture>
   {{ end }}
+
   {{- if .Get "link" }}</a>{{ end -}}
+
   {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
     <figcaption>
       {{ with (.Get "title") -}}
