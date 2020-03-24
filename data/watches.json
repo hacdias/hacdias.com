@@ -1593,6 +1593,16 @@
   ],
   "series": [
     {
+      "title": "#CasaDoCais",
+      "watched": "2020-03-23T20:22:38.000Z",
+      "url": "https://trakt.tv/shows/casadocais"
+    },
+    {
+      "title": "Westworld",
+      "watched": "2020-03-23T19:21:11.000Z",
+      "url": "https://trakt.tv/shows/westworld"
+    },
+    {
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2020-03-21T15:04:20.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
@@ -1606,16 +1616,6 @@
       "title": "The Magicians",
       "watched": "2020-03-19T14:39:33.000Z",
       "url": "https://trakt.tv/shows/the-magicians-2015"
-    },
-    {
-      "title": "#CasaDoCais",
-      "watched": "2020-03-16T20:34:29.000Z",
-      "url": "https://trakt.tv/shows/casadocais"
-    },
-    {
-      "title": "Westworld",
-      "watched": "2020-03-16T11:28:29.000Z",
-      "url": "https://trakt.tv/shows/westworld"
     },
     {
       "title": "Elite",
