@@ -564,19 +564,3 @@ figure.right {
     display: none;
   }
 }
-
-.section-photos {
-  background: var(--white);
-}
-
-.section-photos #header nav {
-  border-bottom: 0;
-}
-
-.section-photos .container {
-  width: 100%;
-  max-width: 100%;
-  margin: 0;
-  border: 0;
-  box-shadow: none;
-}
