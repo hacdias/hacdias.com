@@ -1,5 +1,5 @@
 ---
-date: '2020-03-11T09:15:23.334Z'
+date: '2020-03-26T14:44:15.031Z'
 math: true
 publishDate: '2020-02-22T10:18:48.473Z'
 title: Website Ideas
@@ -50,14 +50,6 @@ Right now, I render all the Mermaid diagrams and $\LaTeX$ on the fly on the clie
 
 - `h-recipe`
 - [Classic Chocolate Chip Cookies Recipe | Yummly](https://www.yummly.com/recipe/Classic-Chocolate-Chip-Cookies-2455312?prm-v1)
-
-## Import Photos from Instagram
-
-- Add `Photos` page with the latest _X_ pictures.
-  - Consider pagination.
-- Then, add an archive page that should be Instagram-like with miniatures.
-- While doing this, cleanup my Instagram page and link the profile to my pictures page.
-- Write post about it and tell the world!
 
 ## Search
 
