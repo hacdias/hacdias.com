@@ -62,3 +62,23 @@ I am making an effort to try to save everything the closest to the microformats 
 There's a spec for a minimal version of microformats called [jf2](http://microformats.org/wiki/jf2) which looks promising. Perhaps I'll try  doing that. The previous example could be compressed to something like:
 
 ```yaml
+---
+categories:
+  - reads
+date: 2020-01-29T23:19:58.372Z
+properties:
+  read-of:
+  	properties:
+     author: Lewis Carroll
+     name: Alice's Adventures in Wonderland and Through the Looking Glass
+     uid: "isbn:9781853260025"
+    type: h-cite
+  read-status: to-read
+tags:
+  - story
+  - classic
+```
+
+This would be easier for the templates. But then, I would need to make more transformations when receiving, updating and generating the microformats on the micropub endpoint. I could also get rid of `properties` altogether and just add that level during transformations.
+
+I'll add this as a ToDo and, if I have time, I'll tackle that. For now, I have a nice read logs page and a working bookshelf!
