@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "A Star Is Born",
+      "watched": "2020-03-26T23:09:25.000Z",
+      "url": "https://trakt.tv/movies/a-star-is-born-2018"
+    },
+    {
       "title": "The Knight Before Christmas",
       "watched": "2020-03-21T23:01:44.000Z",
       "url": "https://trakt.tv/movies/the-knight-before-christmas-2019"
@@ -1593,6 +1598,11 @@
   ],
   "series": [
     {
+      "title": "The Magicians",
+      "watched": "2020-03-26T10:05:05.000Z",
+      "url": "https://trakt.tv/shows/the-magicians-2015"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2020-03-24T10:53:21.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
@@ -1616,11 +1626,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2020-03-21T15:00:00.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "The Magicians",
-      "watched": "2020-03-19T14:39:33.000Z",
-      "url": "https://trakt.tv/shows/the-magicians-2015"
     },
     {
       "title": "Elite",
