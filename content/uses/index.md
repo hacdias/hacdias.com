@@ -1,5 +1,5 @@
 ---
-date: 2020-03-04T07:45:00.000Z
+date: 2020-03-28T12:11:00.000Z
 emoji: "\U0001F6E0"
 properties: {}
 publishDate: 2020-01-21T15:39:00.000Z
@@ -48,7 +48,6 @@ This is a [uses] page where you can find some of the technology I use. This page
 ### Self-hosted services
 
 - [Caddy][caddy]
-- [Compass][compass]
 
 [uses]: https://uses.tech/
 [vim]: https://www.vim.org/
