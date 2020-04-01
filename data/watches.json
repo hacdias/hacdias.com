@@ -1598,6 +1598,16 @@
   ],
   "series": [
     {
+      "title": "Westworld",
+      "watched": "2020-03-31T14:01:31.000Z",
+      "url": "https://trakt.tv/shows/westworld"
+    },
+    {
+      "title": "The Good Doctor",
+      "watched": "2020-03-31T07:38:11.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2020-03-28T10:35:17.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
@@ -1613,19 +1623,9 @@
       "url": "https://trakt.tv/shows/the-magicians-2015"
     },
     {
-      "title": "The Good Doctor",
-      "watched": "2020-03-24T10:53:21.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
       "title": "#CasaDoCais",
       "watched": "2020-03-23T20:22:38.000Z",
       "url": "https://trakt.tv/shows/casadocais"
-    },
-    {
-      "title": "Westworld",
-      "watched": "2020-03-23T19:21:11.000Z",
-      "url": "https://trakt.tv/shows/westworld"
     },
     {
       "title": "Elite",
