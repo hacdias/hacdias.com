@@ -1598,6 +1598,11 @@
   ],
   "series": [
     {
+      "title": "The Magicians",
+      "watched": "2020-04-02T17:11:17.000Z",
+      "url": "https://trakt.tv/shows/the-magicians-2015"
+    },
+    {
       "title": "Westworld",
       "watched": "2020-03-31T14:01:31.000Z",
       "url": "https://trakt.tv/shows/westworld"
@@ -1616,11 +1621,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2020-03-28T10:08:56.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "The Magicians",
-      "watched": "2020-03-26T10:05:05.000Z",
-      "url": "https://trakt.tv/shows/the-magicians-2015"
     },
     {
       "title": "#CasaDoCais",
