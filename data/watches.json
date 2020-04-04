@@ -1598,6 +1598,16 @@
   ],
   "series": [
     {
+      "title": "How to Get Away with Murder",
+      "watched": "2020-04-03T17:16:01.000Z",
+      "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
+    },
+    {
+      "title": "Young Sheldon",
+      "watched": "2020-04-03T16:17:03.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "The Magicians",
       "watched": "2020-04-02T17:11:17.000Z",
       "url": "https://trakt.tv/shows/the-magicians-2015"
@@ -1638,11 +1648,6 @@
       "url": "https://trakt.tv/shows/tales-of-the-city"
     },
     {
-      "title": "Young Sheldon",
-      "watched": "2020-03-13T10:17:29.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
       "title": "The New Pope",
       "watched": "2020-02-15T18:05:17.000Z",
       "url": "https://trakt.tv/shows/the-new-pope"
@@ -1676,11 +1681,6 @@
       "title": "Degrassi: Next Class",
       "watched": "2019-12-01T21:02:45.000Z",
       "url": "https://trakt.tv/shows/degrassi-next-class"
-    },
-    {
-      "title": "How to Get Away with Murder",
-      "watched": "2019-11-24T16:45:43.000Z",
-      "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
     },
     {
       "title": "Britain's Busiest Airport: Heathrow",
