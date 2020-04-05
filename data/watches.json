@@ -1598,6 +1598,21 @@
   ],
   "series": [
     {
+      "title": "Money Heist",
+      "watched": "2020-04-04T15:56:47.000Z",
+      "url": "https://trakt.tv/shows/money-heist"
+    },
+    {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2020-04-04T10:35:15.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2020-04-04T09:53:35.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "How to Get Away with Murder",
       "watched": "2020-04-03T17:16:01.000Z",
       "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
@@ -1621,16 +1636,6 @@
       "title": "The Good Doctor",
       "watched": "2020-03-31T07:38:11.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2020-03-28T10:35:17.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2020-03-28T10:08:56.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "#CasaDoCais",
@@ -1696,11 +1701,6 @@
       "title": "The Handmaid's Tale",
       "watched": "2019-08-14T13:46:56.000Z",
       "url": "https://trakt.tv/shows/the-handmaid-s-tale"
-    },
-    {
-      "title": "Money Heist",
-      "watched": "2019-07-21T20:53:29.000Z",
-      "url": "https://trakt.tv/shows/money-heist"
     },
     {
       "title": "Stranger Things",
