@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "The Hangover",
+      "watched": "2020-04-05T22:07:50.000Z",
+      "url": "https://trakt.tv/movies/the-hangover-2009"
+    },
+    {
       "title": "A Star Is Born",
       "watched": "2020-03-26T23:09:25.000Z",
       "url": "https://trakt.tv/movies/a-star-is-born-2018"
