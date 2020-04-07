@@ -30,5 +30,21 @@
       "photo": "https://cdn.hacdias.com/webmentions/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png",
       "url": "https://pointers.dailywebthing.com/author/admin/"
     }
+  },
+  {
+    "type": "mention",
+    "url": "https://hub.iwebthings.com/04-07-20/",
+    "date": "2020-04-07T09:14:13.000Z",
+    "private": false,
+    "wm-id": 779498,
+    "content": {
+      "html": "<ul><li><a title=\"@hacdias's blog\" href=\"https://hacdias.com/articles/\">Henrique Dias</a></li>\n<li><a title=\"Duncan Stephen\" href=\"https://duncanstephen.net/blog/\">Duncan Stephen</a></li>\n<li><a title=\"Ben Stern\" href=\"https://benstern.co/\">Ben Stern</a></li>\n</ul><p><a href=\"https://fed.brid.gy/\"></a></p>\n\n<p><span style=\"font-size:.8em;font-weight:500;background-color:#eee;border:1px solid #cdcdcd;padding:0 4px;float:right;\"><a href=\"https://pointers.dailywebthing.com/\">visit the daily pointers</a></span></p>",
+      "text": "Henrique Dias\nDuncan Stephen\nBen Stern\n\n\nvisit the daily pointers"
+    },
+    "author": {
+      "name": "joe jenett",
+      "photo": "https://cdn.hacdias.com/webmentions/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png",
+      "url": "https://hub.iwebthings.com/author/admin/"
+    }
   }
 ]
