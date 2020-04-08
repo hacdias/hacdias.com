@@ -1,6 +1,6 @@
 ---
 aliases:
-  - /notes/2020/04/1/1/
+  - /notes/2020/04/01/1/
 date: 2020-04-01T12:02:00.000Z
 properties: {}
 tags:
