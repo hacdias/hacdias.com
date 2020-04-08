@@ -16,22 +16,33 @@
         {{- with .Get "width" }} width="{{ . }}"{{ end -}}
         {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
     </picture>
-  {{ else if in $original.MediaType.Suffixes "svg" }}
-    {{ $original.Content | safeHTML }}
+  {{ else if $original }}
+    {{ if in $original.MediaType.Suffixes "svg" }}
+      {{ $original.Content | safeHTML }}
+    {{ else }}
+      <picture>
+        {{ if not (in $original.MediaType.Suffixes "gif") }}
+          {{ $1000 := $original.Resize "1000x" }}
+          {{ $2000 := $original.Resize "2000x" }}
+          <source srcset="{{ $1000.RelPermalink }} 1000w, {{ $2000.RelPermalink }} 2000w">
+        {{ end }}
+        <img src="{{ $original.RelPermalink }}"
+          {{- if or (.Get "alt") (.Get "caption") }}
+          alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+          {{- end -}}
+          {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+          {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
+      </picture>
+    {{ end }}
   {{ else }}
-    <picture>
-      {{ if not (in $original.MediaType.Suffixes "gif") }}
-        {{ $1000 := $original.Resize "1000x" }}
-        {{ $2000 := $original.Resize "2000x" }}
-        <source srcset="{{ $1000.RelPermalink }} 1000w, {{ $2000.RelPermalink }} 2000w">
-      {{ end }}
-      <img src="{{ $original.RelPermalink }}"
-        {{- if or (.Get "alt") (.Get "caption") }}
-        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-        {{- end -}}
-        {{- with .Get "width" }} width="{{ . }}"{{ end -}}
-        {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
-    </picture>
+  <picture>
+    <img src="{{ .Get "src" }}"
+      {{- if or (.Get "alt") (.Get "caption") }}
+      alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+      {{- end -}}
+      {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+      {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
+  </picture>
   {{ end }}
 
   {{- if .Get "link" }}</a>{{ end -}}
