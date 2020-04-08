@@ -1,11 +1,12 @@
 ---
-date: '2020-04-07T09:35:27.985Z'
+date: '2020-04-08T16:46:45.854Z'
 publishDate: '2020-02-22T10:12:37.829Z'
 title: Pixel Art
 ---
 
 https://lospec.com/palette-list
 https://community.aseprite.org/t/bkd32-color-palette/136
+http://www.androidarts.com/pixtut/pixelart.htm
 
 ## Ideas
 
