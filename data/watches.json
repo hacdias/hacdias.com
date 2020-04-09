@@ -1603,14 +1603,14 @@
   ],
   "series": [
     {
+      "title": "Money Heist",
+      "watched": "2020-04-08T16:21:31.000Z",
+      "url": "https://trakt.tv/shows/money-heist"
+    },
+    {
       "title": "Westworld",
       "watched": "2020-04-06T15:23:42.000Z",
       "url": "https://trakt.tv/shows/westworld"
-    },
-    {
-      "title": "Money Heist",
-      "watched": "2020-04-04T15:56:47.000Z",
-      "url": "https://trakt.tv/shows/money-heist"
     },
     {
       "title": "RuPaul's Drag Race: Untucked!",
