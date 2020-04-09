@@ -217,5 +217,17 @@
       "photo": "https://cdn.hacdias.com/webmentions/55da34d2d071f1b344ecbbb69a705ecb1bba93eb31613e0aa5368ee8d9e9606e.jpg",
       "url": "https://twitter.com/wutafuckinhoe"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1247801115342540800#favorited-by-1212839788748763136",
+    "date": "2020-04-09T12:05:27.000Z",
+    "private": false,
+    "wm-id": 780262,
+    "author": {
+      "name": "ununu",
+      "photo": "https://cdn.hacdias.com/webmentions/ae2a2cbc7a03ba74f48c2dfa7c3ffe410ca7f081081fdde73393be4d9e788971.jpg",
+      "url": "https://twitter.com/_abcquenz"
+    }
   }
 ]

@@ -1,5 +1,5 @@
 ---
-date: 2020-02-23T08:20:28.209Z
+date: 2020-04-09T09:20:28.209Z
 description: A sorted list of the blogs I follow.
 emoji: "\U0001F9FB"
 properties: {}
@@ -13,9 +13,11 @@ This is an alphabetically sorted list of blogs and websites that I follow. I do 
 
 - [Aaron Parecki](https://aaronparecki.com/)
 - [Adrian Colyer](https://blog.acolyer.org/)
+- [Jan Boddez](https://janboddez.tech/)
 - [Jan-Lukas Else](https://jlelse.blog/)
 - [Jeff Atwood](https://blog.codinghorror.com/)
 - [Martin Borchert](https://martin.to/)
+- [Sebastiaan Andeweg](https://seblog.nl/)
 - [Tantek Çelik](http://tantek.com/)
 - [Tom MacWright](https://macwright.org/)
 - [Volker Mische](https://vmx.cx/)
