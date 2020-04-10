@@ -1,6 +1,21 @@
 {
   "movies": [
     {
+      "title": "Girls Trip",
+      "watched": "2020-04-09T22:26:47.000Z",
+      "url": "https://trakt.tv/movies/girls-trip-2017"
+    },
+    {
+      "title": "I Am Jonas",
+      "watched": "2020-04-09T16:23:16.000Z",
+      "url": "https://trakt.tv/movies/i-am-jonas-2018"
+    },
+    {
+      "title": "The Package",
+      "watched": "2020-04-09T11:54:30.000Z",
+      "url": "https://trakt.tv/movies/the-package-2018"
+    },
+    {
       "title": "The Hangover",
       "watched": "2020-04-05T22:07:50.000Z",
       "url": "https://trakt.tv/movies/the-hangover-2009"
