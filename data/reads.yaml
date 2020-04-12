@@ -508,6 +508,11 @@ finished:
     isbn: '9781250237231'
     rating: 4
     photo: de8d3b8d6aed51a6032a4cca8b71e7794f70b6ad1256a8c29821dfdfffdc57c0
+  - date: 2020-01-31T21:03:46.419Z
+    author: Lewis Carroll
+    name: Alice's Adventures in Wonderland and Through the Looking Glass
+    isbn: '9780141439761'
+    photo: 6631c6b81d7198ec3ae304c513487a98e733563d4a8f1e5a15317ca02e50e4d8
 to-read:
   - date: 2020-01-29T23:01:26.079Z
     author: Alex Bellos
@@ -524,9 +529,4 @@ to-read:
     name: Call Me By Your Name
     isbn: '9781786495259'
     photo: 19890aef1dc72b41e50dd4674f6d3d1b56988c69a128d7ebf5768aaeb00e6fc6
-reading:
-  - date: 2020-01-31T21:03:46.419Z
-    author: Lewis Carroll
-    name: Alice's Adventures in Wonderland and Through the Looking Glass
-    isbn: '9780141439761'
-    photo: 6631c6b81d7198ec3ae304c513487a98e733563d4a8f1e5a15317ca02e50e4d8
+reading: []
