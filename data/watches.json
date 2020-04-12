@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "The Hangover Part II",
+      "watched": "2020-04-11T21:55:12.000Z",
+      "url": "https://trakt.tv/movies/the-hangover-part-ii-2011"
+    },
+    {
       "title": "Girls Trip",
       "watched": "2020-04-09T22:26:47.000Z",
       "url": "https://trakt.tv/movies/girls-trip-2017"
@@ -1618,6 +1623,16 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race",
+      "watched": "2020-04-11T08:48:33.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2020-04-11T08:48:28.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
       "title": "How to Get Away with Murder",
       "watched": "2020-04-10T09:44:09.000Z",
       "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
@@ -1631,16 +1646,6 @@
       "title": "Westworld",
       "watched": "2020-04-06T15:23:42.000Z",
       "url": "https://trakt.tv/shows/westworld"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2020-04-04T10:35:15.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2020-04-04T09:53:35.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "Young Sheldon",
