@@ -1628,6 +1628,11 @@
   ],
   "series": [
     {
+      "title": "Glee",
+      "watched": "2020-04-14T20:59:28.000Z",
+      "url": "https://trakt.tv/shows/glee"
+    },
+    {
       "title": "Westworld",
       "watched": "2020-04-13T14:01:13.000Z",
       "url": "https://trakt.tv/shows/westworld"
