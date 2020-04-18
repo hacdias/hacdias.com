@@ -1628,6 +1628,11 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2020-04-17T21:53:06.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "Glee",
       "watched": "2020-04-16T20:58:32.000Z",
       "url": "https://trakt.tv/shows/glee"
@@ -1656,11 +1661,6 @@
       "title": "Money Heist",
       "watched": "2020-04-08T16:21:31.000Z",
       "url": "https://trakt.tv/shows/money-heist"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2020-04-03T16:17:03.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "The Magicians",
