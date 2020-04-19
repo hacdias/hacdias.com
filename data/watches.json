@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Crazy, Stupid, Love.",
+      "watched": "2020-04-18T22:13:53.000Z",
+      "url": "https://trakt.tv/movies/crazy-stupid-love-2011"
+    },
+    {
       "title": "The Hangover Part III",
       "watched": "2020-04-12T21:58:38.000Z",
       "url": "https://trakt.tv/movies/the-hangover-part-iii-2013"
@@ -1628,34 +1633,34 @@
   ],
   "series": [
     {
+      "title": "Glee",
+      "watched": "2020-04-18T13:47:00.000Z",
+      "url": "https://trakt.tv/shows/glee"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2020-04-18T11:25:48.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2020-04-18T11:24:33.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "How to Get Away with Murder",
+      "watched": "2020-04-18T08:48:06.000Z",
+      "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2020-04-17T21:53:06.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
-      "title": "Glee",
-      "watched": "2020-04-16T20:58:32.000Z",
-      "url": "https://trakt.tv/shows/glee"
-    },
-    {
       "title": "Westworld",
       "watched": "2020-04-13T14:01:13.000Z",
       "url": "https://trakt.tv/shows/westworld"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2020-04-11T08:48:33.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2020-04-11T08:48:28.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "How to Get Away with Murder",
-      "watched": "2020-04-10T09:44:09.000Z",
-      "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
     },
     {
       "title": "Money Heist",
