@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Set It Up",
+      "watched": "2020-04-19T21:46:02.000Z",
+      "url": "https://trakt.tv/movies/set-it-up-2018"
+    },
+    {
       "title": "Crazy, Stupid, Love.",
       "watched": "2020-04-18T22:13:53.000Z",
       "url": "https://trakt.tv/movies/crazy-stupid-love-2011"
@@ -1634,7 +1639,7 @@
   "series": [
     {
       "title": "Glee",
-      "watched": "2020-04-18T13:47:00.000Z",
+      "watched": "2020-04-19T15:58:20.000Z",
       "url": "https://trakt.tv/shows/glee"
     },
     {
