@@ -1639,8 +1639,13 @@
   "series": [
     {
       "title": "Glee",
-      "watched": "2020-04-19T15:58:20.000Z",
+      "watched": "2020-04-20T21:41:14.000Z",
       "url": "https://trakt.tv/shows/glee"
+    },
+    {
+      "title": "Westworld",
+      "watched": "2020-04-20T09:18:00.000Z",
+      "url": "https://trakt.tv/shows/westworld"
     },
     {
       "title": "RuPaul's Drag Race",
@@ -1661,11 +1666,6 @@
       "title": "Young Sheldon",
       "watched": "2020-04-17T21:53:06.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "Westworld",
-      "watched": "2020-04-13T14:01:13.000Z",
-      "url": "https://trakt.tv/shows/westworld"
     },
     {
       "title": "Money Heist",
