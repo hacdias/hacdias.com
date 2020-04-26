@@ -32,4 +32,4 @@ clean:
 	rm -rf static/css/vendor
 
 watch:
-	hugo server --watch --navigateToChanged --minify
+	hugo server --watch --navigateToChanged --minify --buildDrafts
