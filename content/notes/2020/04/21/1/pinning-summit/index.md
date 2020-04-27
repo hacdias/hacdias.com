@@ -10,4 +10,4 @@ tags:
   - summit
 ---
 
-Thought about sharing this if anyone’s interested: https://ipfspinningsummit.com/ #dweb #ipfs #summit
+Thought about sharing this if anyone’s interested: https://ipfspinningsummit.com/
