@@ -1638,8 +1638,13 @@
   ],
   "series": [
     {
+      "title": "Westworld",
+      "watched": "2020-04-27T14:26:56.000Z",
+      "url": "https://trakt.tv/shows/westworld"
+    },
+    {
       "title": "Glee",
-      "watched": "2020-04-26T21:55:33.000Z",
+      "watched": "2020-04-27T13:29:16.000Z",
       "url": "https://trakt.tv/shows/glee"
     },
     {
@@ -1656,11 +1661,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2020-04-25T09:22:24.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "Westworld",
-      "watched": "2020-04-20T09:18:00.000Z",
-      "url": "https://trakt.tv/shows/westworld"
     },
     {
       "title": "How to Get Away with Murder",
