@@ -1638,6 +1638,11 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2020-05-01T21:47:15.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "Westworld",
       "watched": "2020-04-27T14:26:56.000Z",
       "url": "https://trakt.tv/shows/westworld"
@@ -1666,11 +1671,6 @@
       "title": "How to Get Away with Murder",
       "watched": "2020-04-18T08:48:06.000Z",
       "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2020-04-17T21:53:06.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "Money Heist",
