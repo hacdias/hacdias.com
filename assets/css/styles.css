@@ -2,13 +2,11 @@ body {
   --accent: #575fcf;
   --accent-darker: #3c40c6;
   --accent-text: white;
-  --background-dots: var(--accent);
-  --background-sheet: var(--accent-darker);
   --dark-gray: #333;
   --white: #ffffff;
   --near-white: #f4f4f4;
   --light-white: #ddd;
-  --max-width: 50rem;
+  --max-width: 40rem;
   --f6: .875rem;
   --f7: .75rem;
 }
@@ -36,14 +34,16 @@ body {
     segoe ui,
     arial,
     sans-serif;
+}
 
-  background-image: linear-gradient(45deg,var(--background-dots) 25%,transparent 25%),
-    linear-gradient(-45deg,var(--background-dots) 25%,transparent 25%),
-    linear-gradient(45deg,transparent 75%,var(--background-dots) 75%),
-    linear-gradient(-45deg,transparent 75%,var(--background-dots) 75%);
-  background-size: 2px 2px;
-  background-position: 0 0,1px 0,1px -1px,0 1px;
-  background-attachment: fixed;
+::-moz-selection {
+  background: var(--accent);
+  color: #fff;
+}
+
+::selection {
+  background: var(--accent);
+  color: #fff;
 }
 
 svg,
@@ -70,6 +70,10 @@ h1 {
   margin: .5rem 0;
 }
 
+h2 {
+  margin: 2.5rem 0 1rem;
+}
+
 a {
   color: var(--accent);
   text-decoration: none;
@@ -85,16 +89,6 @@ a:visited {
 .no-link:visited {
   text-decoration: none;
   color: inherit;
-}
-
-::-moz-selection {
-  background: var(--accent);
-  color: #fff;
-}
-
-::selection {
-  background: var(--accent);
-  color: #fff;
 }
 
 input {
@@ -125,11 +119,10 @@ input[type="submit"]:hover {
   border-color: var(--accent-darker);
 }
 
-#header nav {
-  margin-bottom: 1rem;
-  text-transform: lowercase;
-  border-bottom: .08rem solid var(--accent);
-  padding-bottom: 0.2rem;
+#header {
+  position: absolute;
+  width: 8rem;
+  left: -9rem;
 }
 
 #header nav label a,
@@ -143,21 +136,15 @@ input[type="submit"]:hover {
 
 #header nav a:first-of-type {
   font-weight: bold;
+  margin-bottom: 0.5rem;
 }
 
-#header nav a:first-of-type::after {
-  content: '•';
-  margin-left: 0.5rem;
-}
-
-#header nav a.a:hover,
-#header nav a.a {
-  color: var(--accent);
+#header nav a.a::after {
+  content: '⇠';
 }
 
 #header nav a {
-  margin-right: 0.5rem;
-  display: inline-block;
+  display: block;
   cursor: pointer;
 }
 
@@ -248,11 +235,9 @@ blockquote {
 .container {
   width: calc(100% - 3rem);
   max-width: var(--max-width);
-  padding: 1.5rem;
-  margin: 1.5rem auto;
+  margin: 3rem auto 1.5rem auto;
   background: var(--white);
-  border: 1px solid var(--background-sheet);
-  box-shadow: .25rem .25rem var(--background-sheet);
+  position: relative;
 }
 
 .copy ol,
@@ -431,33 +416,48 @@ figure.right {
   padding-left: 1rem;
 }
 
-@media screen and (max-width: 40rem) {
-  body {
-    background: var(--white);
+@media screen and (max-width: 62rem) {
+  .container {
+    margin: 1.5rem auto;
   }
 
+  #header {
+    position: static;
+    width: 100%;
+  }
+
+  #header nav {
+    margin-bottom: 1rem;
+    padding-bottom: 0.2rem;
+    border-bottom: .08rem solid var(--accent);
+  }
+
+  #header nav label a {
+    display: block !important;
+    margin-right: 0;
+  }
+
+  #header nav a {
+    margin-right: 0.5rem;
+    display: none;
+    text-transform: lowercase;
+  }
+
+  #header nav a:first-of-type {
+    margin-bottom: 0;
+  }
+
+  #header input:checked + nav a {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 40rem) {
   #TableOfContents > ul {
     margin: 0;
     float: none;
     border: 1px solid var(--light-white);
     width: auto;
-  }
-
-  .container {
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-    border: 0;
-    box-shadow: none;
-  }
-
-  .site-footer > div {
-    display: block;
-    text-align: center;
-  }
-
-  .site-footer > div > * {
-    margin-bottom: 0.5rem;
   }
 
   .page-footer {
@@ -473,25 +473,13 @@ figure.right {
     display: block;
   }
 
-  #header nav a:first-of-type::after {
-    content: '';
-  }
-
-  #header div {
+  .site-footer > div {
+    display: block;
     text-align: center;
   }
 
-  #header nav label a {
-    display: block !important;
-    margin-right: 0;
-  }
-
-  #header nav a {
-    display: none;
-  }
-
-  #header input:checked + nav a {
-    display: block;
+  .site-footer > div > * {
+    margin-bottom: 0.5rem;
   }
 
   .mentions > form:first-of-type,
@@ -528,8 +516,6 @@ figure.right {
     --white: #000000;
     --near-white: #121212;
     --light-white: #222;
-    --background-dots: #111;
-    --background-sheet: #212121;
   }
 
   #dark img:not([src*=".svg"]) {
@@ -542,24 +528,19 @@ figure.right {
 }
 
 @media print {
-  body {
-    background: white;
+  .container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
   }
 
   a[href]::after {
     content: " (" attr(href) ")"
   }
 
-  .container {
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-    border: 0;
-    padding: 0;
-    box-shadow: none;
-  }
-
   #header,
+  .site-footer,
   .mentions {
     display: none;
   }
