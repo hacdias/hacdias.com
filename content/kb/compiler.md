@@ -1,10 +1,10 @@
 ---
-date: '2020-03-11T08:27:42.679Z'
+date: '2020-05-03T21:46:18.673Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:26.092Z'
 tags:
   - leic
-title: Compilers
+title: Compiler
 ---
 
 A compiler is a program that transforms a program written in the source language - taken as input - and produces a file in a different language. Usually, it's a binary file that can be executed by the machine, but it doesn't need to.
@@ -37,35 +37,17 @@ graph LR
   gen --> err
 ```
 
-### Lexical Analysis
+### [Lexical Analysis](/kb/lexical-analysis)
 
-This phase scans the input file and converts it into tokens. It converts a stream of lexems into a stream of tokens. Usually, tokens can be defined as regular expressions that are understood by the lexical analyzer.
+### [Syntactic Analysis](/kb/syntactic-analysis)
 
-[Read more.](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Theoretical_Aspects_of_Lexical_Analysis)
-
-See [Flex](/kb/flex).
-
-### Syntactic Analysis
-
-This phase is usually called **parsing**. It takes the tokens produced by the lexical analysis as input and generates a parse tree (a.k.a. syntax tree). In this phase, token arrangements are checked against the source code grammar. If the tokens are not in the correct format, errors must be thrown.
-
-[Read more.](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Introduction_to_Syntax)
-
-See [YACC](/kb/yacc).
-
-### Semantic Analysis
-
-After generating the parse tree, it is important to check if every element of the tree follows the rules. For example, check if you assign the right type of literal to the right type of variable. In addition, this phase tracks identifiers, types and expressions; it knows whether identifiers are declared before used or not. The output is called an annotated syntax tree.
+### [Semantic Analysis](/kb/semantic-analysis)
 
 ### Intermediate Code Generation
 
 After the semantic analysis, the compiler generates an intermediate code of the source code that is note coupled to a certain machine. It is somewhat translate to connect between this code and the target machine code.
 
-### Code Optimization
-
-<small>This is an optional phase.</small>
-
-After generating the intermediate phase, a code optimizer might be used to optimize what the compiler have so far. Optimization can be assumed as a phase that removes unnecessary code lines and rearrages the statements for best performance.
+### [Code Optimization](/kb/code-optimization)
 
 ### Code Generation
 
