@@ -1,5 +1,5 @@
 ---
-date: '2020-05-03T21:46:18.673Z'
+date: '2020-05-04T06:45:42.691Z'
 mermaid: true
 publishDate: '2020-02-22T10:42:26.092Z'
 tags:
@@ -37,21 +37,14 @@ graph LR
   gen --> err
 ```
 
-### [Lexical Analysis](/kb/lexical-analysis)
-
-### [Syntactic Analysis](/kb/syntactic-analysis)
-
-### [Semantic Analysis](/kb/semantic-analysis)
-
-### Intermediate Code Generation
-
-After the semantic analysis, the compiler generates an intermediate code of the source code that is note coupled to a certain machine. It is somewhat translate to connect between this code and the target machine code.
-
-### [Code Optimization](/kb/code-optimization)
-
-### Code Generation
-
-Finally, the code generator takes the optimized representation of the intermediate code and maps it to the target machine language. The output of this phase can be executed by the target machine.
+1. [Lexical Analysis](/kb/lexical-analysis)
+2. [Syntactic Analysis](/kb/syntactic-analysis)
+3. [Semantic Analysis](/kb/semantic-analysis)
+4. Intermediate Code Generation
+    - After the semantic analysis, the compiler generates an intermediate code of the source code that is note coupled to a certain machine. It is somewhat translate to connect between this code and the target machine code.
+5. [Code Optimization](/kb/code-optimization)
+6. Code Generation
+    - Finally, the code generator takes the optimized representation of the intermediate code and maps it to the target machine language. The output of this phase can be executed by the target machine.
 
 <!--
 
