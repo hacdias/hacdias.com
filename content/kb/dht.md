@@ -1,5 +1,5 @@
 ---
-date: '2020-05-04T07:57:04.814Z'
+date: '2020-05-04T08:12:19.316Z'
 publishDate: '2020-05-04T06:46:12.170Z'
 title: DHT
 ---
@@ -10,28 +10,9 @@ DHTs are Distributed Hash Tables which are P2P algorithms.
 - Nodes store index info about other resources
 - Flat architecture: no special nodes
 
-## Chord
+## Algorithms
 
-Chord is a [Distributed Hash Table](/kb/distributed-hash-table) (DHT) protocol and algorithm. It is one of the four original DHT protocols, along with [CAN|Content Addressable Network](/kb/canorcontent-addressable-network)
-
-- Hash file --> key k
-- Node have id (160 bit)
-- Resources have key (160 bit)
-- Node with ID X will store the resource with key X which makes search easy
-- To insert data
-  - Take file
-  - Hash file --> Key k
-  - Store it on node k
-- To search data
-  - Knowing K
-  - Route to find K
-- Key space = ID space
-- When the node K does not exist, the resource should be handled by the next available node.
-- When a new node Y joins the network, the node that was storing the Y's keys needs to be updated
-- When a node Y leaves the network, the next available node managed keys' must be updated.
-- Each node has a routing (finger) table
-  - More than one entry
-  - 1, 2, 4, 8 positions way on a 16 sized network
-  - If the position does not exist, keep route to next node
-  - Efficiency between low-amount of stored keys and fast search
-  - Send query to the closest node to the final key
+- [Chord|Chord (DHT)](/kb/chordorchord-(dht))
+- [Content Addressable Network|Content Addressable Network (DHT)](/kb/content-addressable-networkorcontent-addressable-network-(dht))
+- [Tapestry|Tapestry (DHT)](/kb/tapestryortapestry-(dht))
+- [Pastry|Pastry (DHT)](/kb/pastryorpastry-(dht))
