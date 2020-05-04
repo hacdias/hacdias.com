@@ -1,5 +1,5 @@
 ---
-date: '2020-05-04T07:35:49.969Z'
+date: '2020-05-04T07:57:04.814Z'
 publishDate: '2020-05-04T06:46:12.170Z'
 title: DHT
 ---
@@ -11,6 +11,8 @@ DHTs are Distributed Hash Tables which are P2P algorithms.
 - Flat architecture: no special nodes
 
 ## Chord
+
+Chord is a [Distributed Hash Table](/kb/distributed-hash-table) (DHT) protocol and algorithm. It is one of the four original DHT protocols, along with [CAN|Content Addressable Network](/kb/canorcontent-addressable-network)
 
 - Hash file --> key k
 - Node have id (160 bit)
@@ -29,7 +31,7 @@ DHTs are Distributed Hash Tables which are P2P algorithms.
 - When a node Y leaves the network, the next available node managed keys' must be updated.
 - Each node has a routing (finger) table
   - More than one entry
-  - 1, 2, 4, 8 positions way
+  - 1, 2, 4, 8 positions way on a 16 sized network
   - If the position does not exist, keep route to next node
   - Efficiency between low-amount of stored keys and fast search
   - Send query to the closest node to the final key
