@@ -5,7 +5,7 @@ publishDate: '2020-02-25T11:23:40.793Z'
 title: Git
 ---
 
-Git is a [distributed](/kb/distributed) version control system for tracking changes in source code during software development.
+Git is a [distributed](/kb/distributed/) version control system for tracking changes in source code during software development.
 
 ```mermaid
 sequenceDiagram
@@ -98,3 +98,6 @@ $ git reflog show <branch>
 # Revert last `git reset`
 $ git reset 'HEAD@{1}'
 ```
+## Referenced In
+
+- [Software Engineering](/kb/software-engineering)

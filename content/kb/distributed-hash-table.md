@@ -12,7 +12,10 @@ DHTs are Distributed Hash Tables which are P2P algorithms.
 
 ## Algorithms
 
-- [Chord|Chord (DHT)](/kb/chordorchord-(dht))
-- [Content Addressable Network|Content Addressable Network (DHT)](/kb/content-addressable-networkorcontent-addressable-network-(dht))
-- [Tapestry|Tapestry (DHT)](/kb/tapestryortapestry-(dht))
-- [Pastry|Pastry (DHT)](/kb/pastryorpastry-(dht))
+- [Chord](/kb/chord-dht/)
+- [Content Addressable Network](/kb/content-addressable-network-dht/)
+- [Tapestry](/kb/tapestry-dht/)
+- [Pastry](/kb/pastry-dht/)
+## Referenced In
+
+- [Chord (DHT)](/kb/chord-dht)

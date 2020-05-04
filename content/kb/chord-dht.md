@@ -5,9 +5,9 @@ publishDate: '2020-05-04T08:12:22.058Z'
 title: Chord (DHT)
 ---
 
-Chord is a [Distributed Hash Table](/kb/distributed-hash-table) (DHT) protocol and algorithm. It is one of the four original DHT protocols, along with [CAN|Content Addressable Network (DHT)](/kb/canorcontent-addressable-network-(dht)), [Tapestry|Tapestry (DHT)](/kb/tapestryortapestry-(dht)) and [Pastry|Pastry (DHT)](/kb/pastryorpastry-(dht)).
+Chord is a [Distributed Hash Table](/kb/distributed-hash-table/) (DHT) protocol and algorithm. It is one of the four original DHT protocols, along with [CAN](/kb/content-addressable-network-dht/), [Tapestry](/kb/tapestry-dht/) and [Pastry](/kb/pastry-dht/).
 
-- Nodes and keys are assigned an _m_-bit identifier using an [hashing algorithm|Hashing Algorithm](/kb/hashing-algorithmorhashing-algorithm). The nodes and keys are distributed accross the same identifier space.
+- Nodes and keys are assigned an _m_-bit identifier using an [hashing algorithm](/kb/hashing-algorithm/). The nodes and keys are distributed accross the same identifier space.
 - The nodes are theoretically arranged as a circle with at most $2^m$ nodes, starting from 0 to $2^m-1$.
 - Each node keeps a finger (routing) table with up to $m$ entries. The $i^{th}$ entry should contain the $(n+2^{i-1}) \mod 2^m$. If the node does not exist, it should then contain the next available successor.
     - For example, in a network with a key-size 4 (unrealistic), there are, at most 16 nodes. Each node stores the addresses for 4 nodes that are located 1, 2, 4 and 8 positions away from them, unless they do not exust.
@@ -25,3 +25,6 @@ Chord is a [Distributed Hash Table](/kb/distributed-hash-table) (DHT) protocol a
 ## References
 
 - [ITS413, Lecture 21, 29 Mar 2012](https://www.youtube.com/watch?v=qqv4OJ5Lc4E)
+## Referenced In
+
+- [Distributed Hash Table](/kb/distributed-hash-table)

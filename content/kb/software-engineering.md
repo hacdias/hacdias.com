@@ -56,7 +56,7 @@ TODO:
 
 ## Git
 
-See [Git](/kb/git).
+See [Git](/kb/git/).
 
 ## Verification and Validation
 

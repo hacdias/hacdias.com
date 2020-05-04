@@ -37,12 +37,12 @@ graph LR
   gen --> err
 ```
 
-1. [Lexical Analysis](/kb/lexical-analysis)
-2. [Syntactic Analysis](/kb/syntactic-analysis)
-3. [Semantic Analysis](/kb/semantic-analysis)
+1. [Lexical Analysis](/kb/lexical-analysis/)
+2. [Syntactic Analysis](/kb/syntactic-analysis/)
+3. [Semantic Analysis](/kb/semantic-analysis/)
 4. Intermediate Code Generation
     - After the semantic analysis, the compiler generates an intermediate code of the source code that is note coupled to a certain machine. It is somewhat translate to connect between this code and the target machine code.
-5. [Code Optimization](/kb/code-optimization)
+5. [Code Optimization](/kb/code-optimization/)
 6. Code Generation
     - Finally, the code generator takes the optimized representation of the intermediate code and maps it to the target machine language. The output of this phase can be executed by the target machine.
 
@@ -58,3 +58,6 @@ It is a data-structure maintained throughout all the phases of a compiler. All t
 - https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/T%C3%B3picos_sobre_Constru%C3%A7%C3%A3o_de_Compiladores
 - https://efxa.org/2014/05/17/techniques-for-resolving-common-grammar-conflicts-in-parsers/
 - https://www.gnu.org/software/bison/manual/html_node/Shift_002fReduce.html
+## Referenced In
+
+- [Code Optimization](/kb/code-optimization)
