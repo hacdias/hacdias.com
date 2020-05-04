@@ -1,5 +1,5 @@
 ---
-date: '2020-05-04T07:20:01.029Z'
+date: '2020-05-04T07:35:49.969Z'
 publishDate: '2020-05-04T06:46:12.170Z'
 title: DHT
 ---
@@ -27,3 +27,9 @@ DHTs are Distributed Hash Tables which are P2P algorithms.
 - When the node K does not exist, the resource should be handled by the next available node.
 - When a new node Y joins the network, the node that was storing the Y's keys needs to be updated
 - When a node Y leaves the network, the next available node managed keys' must be updated.
+- Each node has a routing (finger) table
+  - More than one entry
+  - 1, 2, 4, 8 positions way
+  - If the position does not exist, keep route to next node
+  - Efficiency between low-amount of stored keys and fast search
+  - Send query to the closest node to the final key
