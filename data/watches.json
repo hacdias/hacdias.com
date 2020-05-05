@@ -1638,6 +1638,11 @@
   ],
   "series": [
     {
+      "title": "Westworld",
+      "watched": "2020-05-04T14:48:33.000Z",
+      "url": "https://trakt.tv/shows/westworld"
+    },
+    {
       "title": "Secret Celebrity RuPaul's Drag Race",
       "watched": "2020-05-02T10:57:35.000Z",
       "url": "https://trakt.tv/shows/secret-celebrity-rupaul-s-drag-race"
@@ -1661,11 +1666,6 @@
       "title": "Young Sheldon",
       "watched": "2020-05-01T21:47:15.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "Westworld",
-      "watched": "2020-04-27T14:26:56.000Z",
-      "url": "https://trakt.tv/shows/westworld"
     },
     {
       "title": "Glee",
