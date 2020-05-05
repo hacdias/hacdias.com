@@ -1,5 +1,5 @@
 ---
-date: '2020-05-04T08:12:46.979Z'
+date: '2020-05-05T13:32:36.451Z'
 publishDate: '2020-05-04T06:46:12.170Z'
 title: Distributed Hash Table
 ---
@@ -16,6 +16,7 @@ DHTs are Distributed Hash Tables which are P2P algorithms.
 - [Content Addressable Network](/kb/content-addressable-network-dht/)
 - [Tapestry](/kb/tapestry-dht/)
 - [Pastry](/kb/pastry-dht/)
+- [Kademlia](/kb/kademlia-dht/)
 ## Referenced In
 
 - [Chord (DHT)](/kb/chord-dht)
