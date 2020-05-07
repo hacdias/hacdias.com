@@ -13,6 +13,7 @@ title: Website Ideas
 - https://synesthesia.me/see-your-name
 - Simplify bookmarks page to list all of them in a list form.
 - Should I add date [above the posts](https://jlelse.blog/thoughts/2019/11/dates-above/)? My main problem with this is information scattering. I didn't want to have the tags separated from the date and category. On the other hand, it may be useful to have the category and date in the beginning.
+- Use IPFS instead of BunnyCDN for larger file storage.
 
 ## URLs and Dates
 
