@@ -15,3 +15,5 @@ So, Tracy in LxJS talked about how to solve conflicts between developers mainly 
 - Avoid fights and don't mention stupid irrelevant points.
 - Try to understand the conflict and suggest resolutions.
 - Communicate with the opposition is also key.
+
+[adas](./non-existing.md)
