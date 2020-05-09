@@ -1,5 +1,5 @@
 ---
-date: 2020-03-28T12:11:00.000Z
+date: 2020-05-09T12:11:00.000Z
 emoji: "\U0001F6E0"
 properties: {}
 publishDate: 2020-01-21T15:39:00.000Z
@@ -21,6 +21,7 @@ This is a [uses] page where you can find some of the technology I use. This page
 
 - **Editor**: [Visual Studio Code][vscode]
   - On the terminal, I try to use [vim].
+  - [Fira Mono][fm] font.
 - **Terminal**: [iTerm][iterm]
 - **Shell**: zsh with [oh my zsh]
 - **Browser**: Chrome and Safari
@@ -62,3 +63,4 @@ This is a [uses] page where you can find some of the technology I use. This page
 [compass]: https://github.com/aaronpk/Compass
 [cloudflare]: https://www.cloudflare.com/
 [dotfiles]: https://github.com/hacdias/dotfiles
+[fm]: https://github.com/tonsky/FiraCode
