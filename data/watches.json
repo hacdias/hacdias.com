@@ -1638,6 +1638,11 @@
   ],
   "series": [
     {
+      "title": "How to Get Away with Murder",
+      "watched": "2020-05-08T18:57:38.000Z",
+      "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
+    },
+    {
       "title": "Westworld",
       "watched": "2020-05-04T14:48:33.000Z",
       "url": "https://trakt.tv/shows/westworld"
@@ -1656,11 +1661,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2020-05-02T09:37:33.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "How to Get Away with Murder",
-      "watched": "2020-05-02T08:34:48.000Z",
-      "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
     },
     {
       "title": "Young Sheldon",
