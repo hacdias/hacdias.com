@@ -23,9 +23,7 @@
 </style>
 
 <main role='main'>
-	{{ if not .Params.hideTitle }}
 	<h1>{{ .Title }}</h1>
-	{{ end }}
 
 	{{ with .Content }}
 		<div>{{ . }}</div>

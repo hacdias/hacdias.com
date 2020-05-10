@@ -1,7 +1,0 @@
----
-date: 2020-04-13T20:56:56.509Z
-properties:
-  in-reply-to: 'https://jlelse.blog/links/2020/04/eleventy/'
----
-
-Please let me know how it goes! I thought about moving to 11ty when I was setting up my whole "IndieWeb system" but I ended up not doing so. However, sometimes I feel like it'd be much better/simpler to have it all in JavaScript since all the scripts I use to fetch information from here and there are in JS. And it also seems more _flexible_!

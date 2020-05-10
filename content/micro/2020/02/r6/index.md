@@ -1,0 +1,13 @@
+---
+aliases:
+  - /replies/2020/02/29/1/
+date: 2020-02-29T22:19:56.901Z
+properties:
+  in-reply-to: 'https://www.jvt.me/posts/2020/01/12/webmention-notifications/'
+tags:
+  - telegram
+  - notifications
+  - webmentions
+---
+
+That's a lovely idea. I'm personally using Telegram's [Bot API](https://telegram.org/blog/bot-revolution) which is quite powerful!

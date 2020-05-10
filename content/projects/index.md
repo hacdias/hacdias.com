@@ -7,7 +7,7 @@ description:  >
   If you're curious, check also my GitHub page and my blog posts.
 menu:
   main:
-    weight: 2
+    weight: 4
 ---
 
 <style>

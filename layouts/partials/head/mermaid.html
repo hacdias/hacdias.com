@@ -1,8 +1,0 @@
-{{- $mermaid := resources.Get "js/vendor/mermaid.min.js" }}
-<script defer src="{{ $mermaid.RelPermalink }}?hash={{ md5 $mermaid.Content }}"></script>
-
-<script>
-document.addEventListener('DOMContentLoaded', () =>{
-  mermaid.init('.language-mermaid')
-})
-</script>

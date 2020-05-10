@@ -1,0 +1,12 @@
+---
+aliases:
+  - /replies/2020/04/09/2/
+date: 2020-04-09T08:34:32.149Z
+home: true
+properties:
+  in-reply-to: 'https://seblog.nl/2020/04/09/2/reply'
+---
+
+You've made good points: if I want to show something, I'll always need to fetch it. I'm actually using [XRay](https://xray.p3k.app/) for it right now which is really straightforward to use. However, as simple as it might be, I'm not happy with the code of my backend API. Some places feel more complex than they should be. I'll need to revisit it soon.
+
+Thanks for letting me know your opinion on this. I'll probably be keeping it as it is right now.

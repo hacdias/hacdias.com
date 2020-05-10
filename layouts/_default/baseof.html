@@ -6,8 +6,8 @@
 <body {{ with .Section }}class="section-{{ . }}"{{ end }}>
   {{ $js := resources.Get "js/theme.js" }}
   <script>{{ $js.Content | safeJS }}</script>
+  {{ partial "navbar" . -}}
   <div class='container'>
-    {{ partial "navbar" . -}}
     {{ block "main" . -}}{{ end }}
     {{ partial "footer" . -}}
   </div>

@@ -1,8 +1,15 @@
 {{ $pages := .RegularPages }}
 {{ $regularPages := .Site.RegularPages  }}
+{{ $isAll := eq .Title "All" }}
 
-{{ with .Params.categoriesToShow }}
-  {{ $pages = where $regularPages ".Type" "in" . }}
+{{ if or .IsHome $isAll }}
+  {{ $articles :=  where $regularPages ".Section" "=" "articles" }}
+  {{ $micro :=  where $regularPages ".Section" "=" "micro" }}
+  {{ if not $isAll }}
+    {{ $micro = where $micro ".Params.home" "=" true }}
+  {{ end }}
+  {{ $pages = union $articles $micro }}
+  {{ $pages = sort $pages "Date" "desc" }}
 {{ end }}
 
 {{ return $pages }}

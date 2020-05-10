@@ -1,34 +1,33 @@
 {{ $isList := eq .Mode "list" -}}
 {{ with .Glob }}
-{{ $layout := or (index .Site.Data.layout .Section) (index .Site.Data.layout "default") }}
 {{ $useSummary := false }}
+{{ $isMicro := (eq .Section "micro") }}
 <article class='h-entry'>
-  {{ if in (slice "articles" "kb" "") .Section }}
-    {{ if not .Params.hideTitle }}
-    <header>
-      <h1 class='p-name'>
-        {{ if $isList }}<a href="{{ .RelPermalink }}" class='no-link'>{{ end }}
-        {{- .Title -}}
-        {{ if $isList }}</a>{{ end }}
-      </h1>
-    </header>
-    {{ end }}
+  {{ if not $isMicro }}
     {{ $useSummary = $isList }}
   {{ end }}
 
-  {{ if .Params.properties }}
-    {{ $url := index .Params.properties $layout.property }}
-    {{ if $url }}
-      {{ $dataToShow := index .Site.Data.xray (sha256 $url) }}
-      {{ if eq $dataToShow.type "entry" }}
-        {{ partial "embedded-entry"  (dict "Wm" $dataToShow "Class" $layout.class) }}
-      {{ else }}
-        <p class='copy content e-entry'>
-          <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="{{ $layout.class }}">
-            {{- with .Title }}{{ . }}{{ else }}{{ $url}}{{ end -}}
-          </a>
-        </p>
-      {{ end }}
+  {{ if not $isMicro }}
+  <header>
+    <h1 class='p-name'>
+      {{ if $isList }}<a href="{{ .RelPermalink }}" class='no-link'>{{ end }}
+      {{- .Title -}}
+      {{ if $isList }}</a>{{ end }}
+    </h1>
+  </header>
+  {{ end }}
+
+  {{ if and .Params.properties (isset .Params.properties "in-reply-to") }}
+    {{ $url := index .Params.properties "in-reply-to" }}
+    {{ $dataToShow := index .Site.Data.xray (sha256 $url) }}
+    {{ if eq $dataToShow.type "entry" }}
+      {{ partial "embedded-entry"  (dict "Wm" $dataToShow "Class" "u-in-reply-to") }}
+    {{ else }}
+      <p class='copy content e-entry'>
+        <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="u-in-reply-to">
+          {{- with .Title }}{{ . }}{{ else }}{{ $url}}{{ end -}}
+        </a>
+      </p>
     {{ end}}
   {{ end }}
 
@@ -36,13 +35,11 @@
     {{.TableOfContents}}
   {{ end }}
 
-  {{ if .Params.descAsSummary }}
-    <div class='content copy p-summary'><p>{{ .Description }}</p></div>
-  {{ else if $useSummary}}
+  {{ if $useSummary}}
     <div class='content copy p-summary'><p>{{ .Summary }}</p></div>
   {{ else }}
     {{ with .Content }}
-      <div class='content copy {{ $layout.contentClass }}'>{{ . }}</div>
+      <div class='content copy e-content {{ if $isMicro }}p-name{{ end }}'>{{ . }}</div>
     {{ end }}
   {{ end }}
 

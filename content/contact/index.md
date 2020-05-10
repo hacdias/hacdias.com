@@ -4,7 +4,7 @@ title: Contact
 emoji: ✉️
 menu:
   main:
-    weight: 8
+    weight: 5
 ---
 
 There are many ways you can contact me privately, but I prefer to keep them to

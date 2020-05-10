@@ -1,6 +1,6 @@
 baseurl: 'https://hacdias.com/'
 languageCode: en
-paginate: 20
+paginate: 10
 rssLimit: 20
 pluralizelisttitles: false
 removePathAccents: true

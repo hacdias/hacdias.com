@@ -60,14 +60,6 @@
   <script defer src="{{ $res.RelPermalink }}?hash={{ md5 $res.Content }}"></script>
 {{ end }}
 
-{{ if .Params.math }}
-{{ partial "head/katex" . }}
-{{ end }}
-
-{{ if .Params.mermaid }}
-{{ partial "head/mermaid" . }}
-{{ end }}
-
 {{- with or .Params.emoji .Site.Params.emoji }}<link rel="icon" data-emoji="{{ . }}" type="image/png" />{{ end }}
 
 {{ if .IsHome }}

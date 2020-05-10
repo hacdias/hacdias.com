@@ -1,0 +1,10 @@
+---
+aliases:
+  - /replies/2020/04/08/1/
+date: 2020-04-08T17:31:19.635Z
+properties:
+  in-reply-to: 'https://twitter.com/neptzoo/status/1247856377642565633'
+  syndication: 'https://twitter.com/hacdias/status/1247940117999878149'
+---
+
+@neptzoo thank you so much! I will work on improving and getting to more irregular figures. I really want to do so but not much confident. Need to try it out.
