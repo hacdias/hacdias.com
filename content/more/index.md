@@ -1,5 +1,5 @@
 ---
-date: 2020-05-10T23:00:00.000Z
+date: 2020-05-10T22:00:00.000Z
 menu:
   main:
     weight: 7
@@ -12,7 +12,6 @@ type: page
 
 Here's the list of other pages on this website that are not listed on the visible menus:
 
-- [Articles](/articles/)
 - [Blogroll](/blogroll/)
 - [Books](/books/) - my bookshelf with the books I've read.
 - ~~Knowledge Base~~ stay tuned!
