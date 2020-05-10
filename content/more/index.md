@@ -1,5 +1,5 @@
 ---
-date: 2020-03-03T08:20:00.000Z
+date: 2020-05-10T23:00:00.000Z
 menu:
   main:
     weight: 7
@@ -39,8 +39,8 @@ All listing pages, such as any category (micro, articles, etc) and any tag have 
 feeds attached: a JSON and a RSS one. You can access them by appending `/feed.json`
 for the JSON feed, or `/feed.xml` for the RSS feed.
 
-Example for the [micro](/micro) page:
+Example for the [all](/all) page (includes micro and articles):
 
-- **Canonical URL**: [https://hacdias.com/micro/](/micro/)
-- **RSS feed URL**: [https://hacdias.com/micro/feed.xml](/micro/feed.xml)
-- **JSON feed URL**: [https://hacdias.com/micro/feed.json](/micro/feed.json)
+- **Canonical URL**: [https://hacdias.com/all/](/all/)
+- **RSS feed URL**: [https://hacdias.com/all/feed.xml](/all/feed.xml)
+- **JSON feed URL**: [https://hacdias.com/all/feed.json](/all/feed.json)
