@@ -14,7 +14,7 @@ menu:
 
 I'm a B.Sc. student 🎓 in Information Systems and Computer Engineering
 at [Instituto Superior Técnico][ist], in Lisbon. Currently working at [Protocol Labs][pl] on
-decentralizing the web.
+decentralizing the web. Check out my [resume]!
 
 I believe in the transparency and openness of the web and when creating software so you
 can probably say I'm an Open Source advocate. You can check out my [GitHub profile][gh]
@@ -51,3 +51,4 @@ that I happen to enjoy.
 [ipfs]: https://ipfs.io
 [gh]: https://github.com/hacdias
 [bmc]: https://www.buymeacoffee.com/hacdias
+[resume]: /resume.pdf
