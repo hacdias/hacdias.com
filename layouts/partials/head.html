@@ -19,10 +19,7 @@
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@{{ .Site.Social.twitter }}"/>
-<meta name="twitter:title" content="{{ $shortTitle }}"/>
-<meta name="twitter:description" content="{{ $description }}"/>
 <meta name="twitter:creator" content="@{{ .Site.Social.twitter }}"/>
-{{ with $img }}<meta name="twitter:image:src" content="{{ .Permalink }}"/>{{ end }}
 
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ .Site.LanguageCode }}" />
