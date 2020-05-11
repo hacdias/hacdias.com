@@ -16,12 +16,10 @@
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
 
-<!-- Twitter Cards -->
+<!-- Social Media -->
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@{{ .Site.Social.twitter }}"/>
 <meta name="twitter:creator" content="@{{ .Site.Social.twitter }}"/>
-
-<!-- Open Graph -->
 <meta property="og:locale" content="{{ .Site.LanguageCode }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:title" content="{{ $shortTitle }}" />
