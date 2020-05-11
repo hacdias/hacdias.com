@@ -1638,6 +1638,21 @@
   ],
   "series": [
     {
+      "title": "Secret Celebrity RuPaul's Drag Race",
+      "watched": "2020-05-10T10:55:42.000Z",
+      "url": "https://trakt.tv/shows/secret-celebrity-rupaul-s-drag-race"
+    },
+    {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2020-05-10T09:31:23.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2020-05-10T09:12:25.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "How to Get Away with Murder",
       "watched": "2020-05-08T18:57:38.000Z",
       "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
@@ -1646,21 +1661,6 @@
       "title": "Westworld",
       "watched": "2020-05-04T14:48:33.000Z",
       "url": "https://trakt.tv/shows/westworld"
-    },
-    {
-      "title": "Secret Celebrity RuPaul's Drag Race",
-      "watched": "2020-05-02T10:57:35.000Z",
-      "url": "https://trakt.tv/shows/secret-celebrity-rupaul-s-drag-race"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2020-05-02T10:05:54.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2020-05-02T09:37:33.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "Young Sheldon",
