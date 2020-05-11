@@ -21,6 +21,7 @@
     "photo": "https://jlelse.dev/profile-128.jpg"
   },
   "post-type": "like",
+  "url": "https://jlelse.blog/thoughts/2020/05/git-is-great/",
   "rels": {
     "canonical": "https://jlelse.blog/thoughts/2020/05/git-is-great/"
   }
