@@ -7,4 +7,4 @@ tags:
   - dht
 ---
 
-RT This is actually a really nice and easy way to explain the concept! 👏
+This is actually a really nice and easy way to explain the concept! 👏
