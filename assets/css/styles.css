@@ -1,6 +1,6 @@
 body {
-  --accent: #575fcf;
-  --accent-darker: #3c40c6;
+  --accent: #4b7bec;
+  --accent-darker: #3867d6;
   --accent-text: white;
   --dark-gray: #333;
   --white: #ffffff;
@@ -482,9 +482,9 @@ figure.right {
   }
 
   #dark {
-    --accent: #ddd;
-    --accent-darker: #aaa;
-    --accent-text: black;
+    --accent: #fc5c65;
+    --accent-darker: #eb3b5a;
+    --accent-text: #fff;
     --dark-gray: #eee;
     --white: #000000;
     --near-white: #121212;
