@@ -16,6 +16,7 @@ photos as I intend to. Soon, I'll remove that page and post the pictures here.
 
 The posts on this series may or may not be accompanied by text.
 
+<div class="grid">
 {{< figure hash="5fe99112bed907f3b45a0a9464433273a212d4d172fd708b0e34fc425f0a8f7d"
   link="https://cdn.hacdias.com/photos/5fe99112bed907f3b45a0a9464433273a212d4d172fd708b0e34fc425f0a8f7d.jpeg" >}}
 
@@ -24,3 +25,4 @@ The posts on this series may or may not be accompanied by text.
 
 {{< figure hash="c7f9f8b381381189386bb0de868195c9dcc90531ac21559dff8ed7c33d8a3438"
   link="https://cdn.hacdias.com/photos/c7f9f8b381381189386bb0de868195c9dcc90531ac21559dff8ed7c33d8a3438.jpeg" >}}
+</div>

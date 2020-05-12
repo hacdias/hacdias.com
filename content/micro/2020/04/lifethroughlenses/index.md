@@ -11,6 +11,7 @@ tags:
 Today I decided to dedicate this gallery post to my hometown, Santana da Serra and some of the views
 you can get in there.
 
+<div class="grid">
 {{< figure hash="1702f8c1375792b31db113385f788f9a9b075a89afa91a83733314a61d0e960c"
   link="https://cdn.hacdias.com/photos/1702f8c1375792b31db113385f788f9a9b075a89afa91a83733314a61d0e960c.jpeg" >}}
 
@@ -37,3 +38,4 @@ you can get in there.
 
 {{< figure hash="d295d3be38b23120e551df1df697448476871cda030d4c50e6ae15638229201e"
   link="https://cdn.hacdias.com/photos/d295d3be38b23120e551df1df697448476871cda030d4c50e6ae15638229201e.jpeg" >}}
+</div>

@@ -7,6 +7,7 @@ tags:
   - LifeThroughLenses
 ---
 
+<div class="grid">
 {{< figure hash="f40bc6eee19e7a9c37fbd5a527afd0f3cf248f8a8b70bdf6083cd4e501773ee6"
   link="https://cdn.hacdias.com/photos/f40bc6eee19e7a9c37fbd5a527afd0f3cf248f8a8b70bdf6083cd4e501773ee6.jpeg" >}}
 
@@ -15,6 +16,7 @@ tags:
 
 {{< figure hash="8036c5de4e69ef1091d1928f2c490dd548816469a7915bc5a19b134834f09e83"
   link="https://cdn.hacdias.com/photos/8036c5de4e69ef1091d1928f2c490dd548816469a7915bc5a19b134834f09e83.jpeg" >}}
+</div>
 
 I took my first night sky picture. Even though I wasn't in the best conditions, I was able
 to bump up the shadows. It's also a bit out of focus, but I'm proud of it.
