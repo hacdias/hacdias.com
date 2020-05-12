@@ -55,7 +55,7 @@
     {{ $arr := partial "must-slice" . }}
     {{ range $arr }}
       {{ $video := $.Glob.Page.Resources.GetMatch . -}}
-      <video style="margin: 1rem auto; display: block;" class="u-video" src="{{ with $video }}{{ .RelPermalink }}{{ else }}{{ . }}{{ end }}" autoplay loop></video>
+      <video style="margin: 1rem auto; display: block;" class="u-video" src="{{ with $video }}{{ .RelPermalink }}{{ else }}{{ . }}{{ end }}" autoplay muted loop></video>
     {{ end }}
   {{ end }}
 

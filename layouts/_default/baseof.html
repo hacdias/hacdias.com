@@ -3,7 +3,7 @@
 <head>
   {{ partial "head" . -}}
 </head>
-<body {{ with .Section }}class="section-{{ . }}"{{ end }}>
+<body>
   {{ $js := resources.Get "js/theme.js" }}
   <script>{{ $js.Content | safeJS }}</script>
   {{ partial "navbar" . -}}
