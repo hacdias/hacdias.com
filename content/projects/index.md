@@ -10,18 +10,10 @@ menu:
     weight: 4
 ---
 
-<style>
-.projects {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px,1fr));
-  grid-gap: 1rem;
-}
-</style>
-
 These are some of the projects I am working on or have worked on in the past. If you're curious about
 everything else I have done, please check my [GitHub](https://github.com/hacdias).
 
-<div class="projects">
+<div class="grid">
   {{< project title="Testground" desc="Testing decentralized systems." img="testground.jpg" url="https://github.com/ipfs/testground" >}}
   {{< project title="IPFS Desktop" desc="IPFS official desktop client." img="ipfs-desktop.jpg" url="https://github.com/ipfs-shipyard/ipfs-desktop" >}}
   {{< project title="IPFS Web UI" desc="IPFS management UI." img="ipfs-webui.jpg" url="https://github.com/ipfs-shipyard/ipfs-webui" >}}
