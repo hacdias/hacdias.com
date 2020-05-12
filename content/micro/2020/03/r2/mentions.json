@@ -1,0 +1,13 @@
+[
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1234224439144964097#favorited-by-61255762",
+    "date": "2020-03-01T21:47:43.000Z",
+    "wm-id": 762997,
+    "author": {
+      "name": "🧗‍♂️ Matt Holt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a9c6f10350d87a5f2de6d66614fa5ebc3639987d37ad7bae2a24f2aadaf3237b.jpg",
+      "url": "https://twitter.com/mholt6"
+    }
+  }
+]

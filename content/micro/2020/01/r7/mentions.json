@@ -1,0 +1,17 @@
+[
+  {
+    "type": "reply",
+    "url": "https://jlelse.blog/micro/2020/01/2020-01-22-fryan/",
+    "date": "2020-01-22T10:28:00.000Z",
+    "wm-id": 747076,
+    "content": {
+      "html": "<p>I don't show webmention content at all. 😅 Instead I just show a link to the “interaction”. That removes a lot of complexity with parsing, storing etc. but probably isn't as intuitive: it requires opening the “interactions” section below the post and visiting the link.</p>",
+      "text": "I don't show webmention content at all. 😅 Instead I just show a link to the “interaction”. That removes a lot of complexity with parsing, storing etc. but probably isn't as intuitive: it requires opening the “interactions” section below the post and visiting the link."
+    },
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://webmention.io/avatar/jlelse.dev/aca2c85df020dd9b98c29e4475aad0566f609e3b6ce35a688bec0e2b0c7fc41f.jpg",
+      "url": "https://jlelse.dev/"
+    }
+  }
+]

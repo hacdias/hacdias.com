@@ -1,0 +1,17 @@
+[
+  {
+    "type": "reply",
+    "url": "https://aaronparecki.com/2019/12/29/5/",
+    "date": "2019-12-29T16:17:55.000Z",
+    "wm-id": 738736,
+    "content": {
+      "html": "Cool! You can also test with <a href=\"https://webmention.rocks\"><span>https://</span>webmention.rocks</a>",
+      "text": "Cool! You can also test with https://webmention.rocks"
+    },
+    "author": {
+      "name": "Aaron Parecki",
+      "photo": "https://webmention.io/avatar/aaronparecki.com/41061f9de825966faa22e9c42830e1d4a614a321213b4575b9488aa93f89817a.jpg",
+      "url": "https://aaronparecki.com/"
+    }
+  }
+]

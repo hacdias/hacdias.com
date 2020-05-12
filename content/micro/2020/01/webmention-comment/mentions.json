@@ -1,0 +1,31 @@
+[
+  {
+    "type": "like",
+    "url": "https://robertvanbregt.nl/2020/02/01/3887/",
+    "date": "2020-02-01T05:27:23.000Z",
+    "wm-id": 750723,
+    "content": {
+      "html": "<span style=\"max-height:1rem;margin-right:.5rem;\" title=\"Like\"></span><a href=\"https://hacdias.com/2020/01/25/1/webmention-comment/\" class=\"p-name u-url\">a post</a> by <a href=\"https://hacdias.com/\" class=\"h-card p-author\"><img class=\"u-photo\" src=\"https://hacdias.com/me-256.jpg\" alt=\"Henrique Dias\" width=\"32\" height=\"32\" />Henrique Dias</a><blockquote class=\"e-summary\"><p>I just added a little form in the webmentions section on the posts so you can send your webmention manually if it didn’t hit my website. Or, you can also use the button ‘Write a comment’ to create a comment (that can be anonymous) through the comment parade service.<br />\nFor the curious ones out th…</p></blockquote>",
+      "text": "a post by Henrique DiasI just added a little form in the webmentions section on the posts so you can send your webmention manually if it didn’t hit my website. Or, you can also use the button ‘Write a comment’ to create a comment (that can be anonymous) through the comment parade service.\n\nFor the curious ones out th…"
+    },
+    "author": {
+      "name": "Robert van Bregt",
+      "photo": "https://webmention.io/avatar/secure.gravatar.com/03c8766a3a445da9ebacd9166b97053ad98a4b386d597a17e4ccf4f4925a0019.jpg",
+      "url": "https://robertvanbregt.nl/"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://commentpara.de/comment/505.htm",
+    "date": "2020-01-25T15:40:17.000Z",
+    "wm-id": 748658,
+    "content": {
+      "text": "If you're seeing this, it's because the 'Write a comment' button above is actually working as it should. Let's discuss  💬 and put our thoughts out there."
+    },
+    "author": {
+      "name": "Anonymous",
+      "photo": "https://webmention.io/avatar/commentpara.de/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
+      "url": ""
+    }
+  }
+]

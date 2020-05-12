@@ -1,4 +1,4 @@
-.PHONY: make-dirs pinata normalize all clean
+.PHONY: make-dirs pinata normalize all clean build
 
 all: clean make-dirs pinata normalize
 
@@ -16,6 +16,9 @@ clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
 	rm -rf static/css/vendor
+
+build:
+	hugo --gc --minify --cleanDestinationDir
 
 watch:
 	hugo server --watch --minify --buildDrafts

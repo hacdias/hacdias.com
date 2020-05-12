@@ -1,5 +1,6 @@
 {{ $wm := .Site.Data.mentions -}}
-{{ $mentions := index $wm (sha256 .RelPermalink) -}}
+{{ $mentions := .Resources.GetMatch "mentions.json" }}
+{{ if $mentions }}{{ $mentions = unmarshal $mentions.Content }}{{ end }}
 <div class="mentions">
   <form action="https://webmention.io/hacdias.com/webmention" method="post">
     <input name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>

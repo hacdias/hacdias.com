@@ -1,0 +1,17 @@
+[
+  {
+    "type": "reply",
+    "url": "https://jlelse.blog/micro/2020/02/2020-02-11-ujfjb/",
+    "date": "2020-02-11T15:22:00.000Z",
+    "wm-id": 755389,
+    "content": {
+      "html": "<p>You’re right, I just took another look at the specs and corrected the template and added the “mediaType” attribute and set it to HTML. Now <a href=\"https://github.com/tsileo/microblog.pub\">microblog.pub</a> shows the summary correctly (even with rendered HTML), Pleroma shows the content correctly (without markup), but Mastodon shows the raw HTML code of the summary. 🤔</p>",
+      "text": "You’re right, I just took another look at the specs and corrected the template and added the “mediaType” attribute and set it to HTML. Now microblog.pub shows the summary correctly (even with rendered HTML), Pleroma shows the content correctly (without markup), but Mastodon shows the raw HTML code of the summary. 🤔"
+    },
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://webmention.io/avatar/jlelse.dev/3656e1a5a9e6f6e2c1cf5694c940bfc8e44902ee0fbc85102aaecc95a97d2892.jpg",
+      "url": "https://jlelse.dev/"
+    }
+  }
+]

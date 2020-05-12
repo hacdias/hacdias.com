@@ -1,0 +1,46 @@
+[
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1183853021039648770#favorited-by-952396703147200513",
+    "date": "2019-12-31T19:50:08.000Z",
+    "wm-id": 739379,
+    "author": {
+      "name": "Ulisses Ferreira",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d1a890fcf9904328162f7eccc9654a7066a3f41327c31c1edeb38168816f020b.jpg",
+      "url": "https://twitter.com/ulissesvf"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1183853021039648770#favorited-by-9834062",
+    "date": "2019-12-31T19:50:06.000Z",
+    "wm-id": 739378,
+    "author": {
+      "name": "Eric Ronne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2deb62eefa7f7170fdfd4dacc9518d6f4c938e40443cca539eb3cffa3365a67d.jpg",
+      "url": "https://twitter.com/ericronne"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1183853021039648770#favorited-by-2256629600",
+    "date": "2019-12-31T19:50:06.000Z",
+    "wm-id": 739377,
+    "author": {
+      "name": "Fábio Ferreira",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5bdc288128e23b562e9d24c9f2d503975e3d373e196ee1a1b1ab1de59fe6f8a.jpg",
+      "url": "https://twitter.com/fabiofcferreira"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1183853021039648770#favorited-by-144560866",
+    "date": "2019-12-31T19:50:05.000Z",
+    "wm-id": 739376,
+    "author": {
+      "name": "Diogo Redin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/72ff63cb0c754e92d4b38d36e73699a7e3ef38b4ef8927bde628f63d1493ce6f.jpg",
+      "url": "https://twitter.com/DiogoRedin"
+    }
+  }
+]

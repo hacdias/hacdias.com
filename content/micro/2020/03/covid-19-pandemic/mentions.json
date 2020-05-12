@@ -1,0 +1,24 @@
+[
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1237847135539703808#favorited-by-1956574819",
+    "date": "2020-03-11T22:45:45.000Z",
+    "wm-id": 768303,
+    "author": {
+      "name": "Tomás Santiago",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/11ef79bd6a0ec4a22ddf636d9fbe7e7d9684e9fbdbbf17da7c531936449be698.png",
+      "url": "https://twitter.com/mrtomasantiago"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1237847135539703808#favorited-by-2879623251",
+    "date": "2020-03-11T21:44:50.000Z",
+    "wm-id": 768287,
+    "author": {
+      "name": "Pedro Carvalho",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6276c2d20003f785b885ba2ea03b547f5b0cda7125aa83f25f39155b3a08b266.jpg",
+      "url": "https://twitter.com/pmvrmc"
+    }
+  }
+]

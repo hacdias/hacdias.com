@@ -1,0 +1,35 @@
+[
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1259613814854647809#favorited-by-952396703147200513",
+    "date": "2020-05-11T10:47:07.000Z",
+    "wm-id": 795173,
+    "author": {
+      "name": "Ulisses Ferreira",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d1a890fcf9904328162f7eccc9654a7066a3f41327c31c1edeb38168816f020b.jpg",
+      "url": "https://twitter.com/ulissesvf"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1259613814854647809#favorited-by-1956574819",
+    "date": "2020-05-11T07:03:18.000Z",
+    "wm-id": 795118,
+    "author": {
+      "name": "Tomás Santiago",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/11ef79bd6a0ec4a22ddf636d9fbe7e7d9684e9fbdbbf17da7c531936449be698.png",
+      "url": "https://twitter.com/mrtomasantiago"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1259613814854647809#favorited-by-1028353082206367744",
+    "date": "2020-05-11T07:03:17.000Z",
+    "wm-id": 795117,
+    "author": {
+      "name": "Malik",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/24f5dfa3f84c99e79982e109cfa2f2704e53bcee96e4841bfd646d5652e8205d.jpg",
+      "url": "https://twitter.com/malikpiara"
+    }
+  }
+]

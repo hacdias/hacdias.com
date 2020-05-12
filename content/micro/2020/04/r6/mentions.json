@@ -1,0 +1,17 @@
+[
+  {
+    "type": "reply",
+    "url": "https://jlelse.blog/micro/2020/04/staying-with-hugo/",
+    "date": "2020-04-13T21:10:27.000Z",
+    "wm-id": 782028,
+    "content": {
+      "html": "<p>I played a bit with 11ty today and came to the conclusion to stay with Hugo for now. Much of what Hugo brings with it (multilingual websites, taxonomies etc.) has to be done manually. Sure, 11ty is much more flexible and everything is somehow possible, but somehow it’s too much effort for me (at least for the moment). I have a working Hugo site and it would be best to stick with it for now and start thinking more about things I can blog about instead of just the site itself. <em>And I should also focus on my studies…</em></p><p><del><em>Or maybe I should build my own static site generator? 😂</em></del></p>",
+      "text": "I played a bit with 11ty today and came to the conclusion to stay with Hugo for now. Much of what Hugo brings with it (multilingual websites, taxonomies etc.) has to be done manually. Sure, 11ty is much more flexible and everything is somehow possible, but somehow it’s too much effort for me (at least for the moment). I have a working Hugo site and it would be best to stick with it for now and start thinking more about things I can blog about instead of just the site itself. And I should also focus on my studies…Or maybe I should build my own static site generator? 😂"
+    },
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://webmention.io/avatar/jlelse.dev/3656e1a5a9e6f6e2c1cf5694c940bfc8e44902ee0fbc85102aaecc95a97d2892.jpg",
+      "url": "https://jlelse.dev/"
+    }
+  }
+]

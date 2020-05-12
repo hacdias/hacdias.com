@@ -1,0 +1,109 @@
+[
+  {
+    "type": "reply",
+    "url": "https://twitter.com/yangWao/status/1209783879458054144",
+    "date": "2019-12-25T10:32:08.000Z",
+    "wm-id": 738280,
+    "content": {
+      "html": "Well written 👏💆\nRT'd with thoughts 😋\n<a href=\"https://twitter.com/search?q=%23ownyourdata\">#ownyourdata</a>\n\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+      "text": "Well written 👏💆\nRT'd with thoughts 😋\n#ownyourdata"
+    },
+    "author": {
+      "name": "Matej Nemček 孔子 💫🎋",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b21931e89650087648df28e93a826f4d8c5a4ae5565a96cc3aefd1119b3d9b1.jpg",
+      "url": "https://twitter.com/yangWao"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://twitter.com/hacdias/status/1209786826409545728",
+    "date": "2019-12-25T10:43:50.000Z",
+    "wm-id": 738279,
+    "content": {
+      "html": "Thank you very much! :) I’ll probably start following some steps about data collecting from other people and soon publish something about it. Let’s see. I’ve got some TODOs to start putting more effort on my own website instead of other social media. 😀\n<a class=\"u-mention\" href=\"https://twitter.com/yangWao\"></a>",
+      "text": "Thank you very much! :) I’ll probably start following some steps about data collecting from other people and soon publish something about it. Let’s see. I’ve got some TODOs to start putting more effort on my own website instead of other social media. 😀"
+    },
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/927fff5318454f2cd3c794045620c71cb1023ab0c5fd2663b02ee71668566c6e.jpg",
+      "url": "https://twitter.com/hacdias"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1209572902426828806#favorited-by-144560866",
+    "date": "2019-12-27T21:18:43.000Z",
+    "wm-id": 738278,
+    "author": {
+      "name": "Diogo Redin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/72ff63cb0c754e92d4b38d36e73699a7e3ef38b4ef8927bde628f63d1493ce6f.jpg",
+      "url": "https://twitter.com/DiogoRedin"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1209572902426828806#favorited-by-1028353082206367744",
+    "date": "2019-12-27T21:17:44.000Z",
+    "wm-id": 738277,
+    "author": {
+      "name": "Malik",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7313b1cb4a56fd1db3c2722cf657abdc51c1de55ab9fbfacc2557d1288cadc4.jpg",
+      "url": "https://twitter.com/malikpiara"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://twitter.com/yangWao/status/1209788562016739328",
+    "date": "2019-12-25T10:50:44.000Z",
+    "wm-id": 738276,
+    "content": {
+      "html": "That's great. \n\nBoth DAT and IPFS protocols have huge power to fuel data ownership thesis.\nI think <a href=\"https://twitter.com/BeakerBrowser\">@BeakerBrowser</a> could be mentioned there as you can host your very own web page by yourself :)\n\nAlso how to put your website on IPFS could be timeless guide :)\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+      "text": "That's great. \n\nBoth DAT and IPFS protocols have huge power to fuel data ownership thesis.\nI think @BeakerBrowser could be mentioned there as you can host your very own web page by yourself :)\n\nAlso how to put your website on IPFS could be timeless guide :)"
+    },
+    "author": {
+      "name": "Matej Nemček 孔子 💫🎋",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b21931e89650087648df28e93a826f4d8c5a4ae5565a96cc3aefd1119b3d9b1.jpg",
+      "url": "https://twitter.com/yangWao"
+    }
+  },
+  {
+    "type": "repost",
+    "url": "https://twitter.com/malikpiara/status/1209827344879439873",
+    "date": "2019-12-25T13:24:51.000Z",
+    "wm-id": 738269,
+    "content": {
+      "text": "Jotting down some thoughts about data before the Christmas extravaganza! hacdias.com/2019/12/own-yo…"
+    },
+    "author": {
+      "name": "Malik",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7313b1cb4a56fd1db3c2722cf657abdc51c1de55ab9fbfacc2557d1288cadc4.jpg",
+      "url": "https://twitter.com/malikpiara"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1209572902426828806#favorited-by-802279955480645632",
+    "date": "2019-12-27T20:54:51.000Z",
+    "wm-id": 738268,
+    "author": {
+      "name": "André Breda 🍞",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4799b1dd38c71b32dacb74f0a2fcc2e5217b9330e674d678276d37014a245e9.jpg",
+      "url": "https://twitter.com/abredabread"
+    }
+  },
+  {
+    "type": "mention",
+    "url": "https://twitter.com/yangWao/status/1209783690437500928",
+    "date": "2019-12-25T10:31:23.000Z",
+    "wm-id": 738206,
+    "content": {
+      "html": "Do you realize we are living in cages of bigger companies? \nThat's what we call web 2.0\n\nCustomize your cover, avatar, desc,..\nAdd collections, achievements, life events\nShare with network.\n\nLearning curve of making own web is steep.\n\n<a href=\"https://twitter.com/search?q=%23ownyourdata\">#ownyourdata</a> <a href=\"https://hacdias.com/2019/12/own-your-data/\">hacdias.com/2019/12/own-yo…</a>\n\n<a class=\"u-mention\" href=\"https://hacdias.com/2019/12/24/01/own-your-data/\"></a>",
+      "text": "Do you realize we are living in cages of bigger companies? \nThat's what we call web 2.0\n\nCustomize your cover, avatar, desc,..\nAdd collections, achievements, life events\nShare with network.\n\nLearning curve of making own web is steep.\n\n#ownyourdata hacdias.com/2019/12/own-yo…"
+    },
+    "author": {
+      "name": "Matej Nemček 孔子 💫🎋",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b21931e89650087648df28e93a826f4d8c5a4ae5565a96cc3aefd1119b3d9b1.jpg",
+      "url": "https://twitter.com/yangWao"
+    }
+  }
+]

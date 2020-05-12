@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://seblog.nl/2020/04/09/2/reply",
+    "date": "2020-04-09T07:07:16.000Z",
+    "wm-id": 780169,
+    "content": {
+      "html": "<p>As you can see on my site: at the time of writing I don't have them. I do show a line with a summary of the post. It shows the author's name, the post's title or just 'a post' if nothing is available. I have been planning for a long time to add context to it, but I would only do that on the detail-pages: on feeds I would keep it as is. I think that might work very nicely for your design too! But: as long as you show any preview at all, you're not cutting the complexity of the Mf2-fetching.</p>",
+      "text": "As you can see on my site: at the time of writing I don't have them. I do show a line with a summary of the post. It shows the author's name, the post's title or just 'a post' if nothing is available. I have been planning for a long time to add context to it, but I would only do that on the detail-pages: on feeds I would keep it as is. I think that might work very nicely for your design too! But: as long as you show any preview at all, you're not cutting the complexity of the Mf2-fetching."
+    },
+    "author": {
+      "name": "Sebastiaan Andeweg",
+      "photo": "https://webmention.io/avatar/seblog.nl/df346916d2a97b05f18c3fd39e70c55885af4642f71d07b2094aca1d28d5c3cf.jpg",
+      "url": "https://seblog.nl/"
+    }
+  },
+  {
+    "type": "mention",
+    "url": "https://janboddez.tech/notes/14ce942433",
+    "date": "2020-04-09T06:10:00.000Z",
+    "wm-id": 780164,
+    "content": {
+      "html": "<p><i>In reply to <a href=\"https://hacdias.com/notes/2020/04/08/3/context-boxes/\">https://hacdias.com/notes/2020/04/08/3/context-boxes/</a>.</i></p>\n<p>Definitely useful! (I’m also still searching for a better way to display such context, and for now tend to explicitly mention the URL I’m referring to do, and maybe a blockquote. Minimal, but works for now.)</p>\n<p>I still mostly follow blogs via RSS, however, and items in quite a few feeds out there (including yours, it seems) don’t show much context at all, which honestly <em>can</em> be a bit confusing.</p>",
+      "text": "In reply to https://hacdias.com/notes/2020/04/08/3/context-boxes/.\nDefinitely useful! (I’m also still searching for a better way to display such context, and for now tend to explicitly mention the URL I’m referring to do, and maybe a blockquote. Minimal, but works for now.)\nI still mostly follow blogs via RSS, however, and items in quite a few feeds out there (including yours, it seems) don’t show much context at all, which honestly can be a bit confusing."
+    },
+    "author": {
+      "name": "Jan Boddez",
+      "photo": "https://webmention.io/avatar/janboddez.tech/49a60f70d36201296dfb5ef9aa779f53d345a234de944f319218665d071b11c4.jpg",
+      "url": "https://janboddez.tech/"
+    }
+  }
+]
