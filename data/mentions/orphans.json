@@ -1,56 +1,32 @@
 [
   {
-    "post": {
-      "type": "entry",
-      "author": {
-        "type": "card",
-        "name": "Jan-Lukas Else",
-        "photo": "https://webmention.io/avatar/jlelse.dev/3656e1a5a9e6f6e2c1cf5694c940bfc8e44902ee0fbc85102aaecc95a97d2892.jpg",
-        "url": "https://jlelse.dev/"
-      },
-      "url": "https://jlelse.blog/micro/2020/03/lifethroughlenses/",
-      "published": "2020-03-23T14:46:08+01:00",
-      "wm-received": "2020-03-23T13:47:02Z",
-      "wm-id": 774004,
-      "wm-source": "https://jlelse.blog/micro/2020/03/lifethroughlenses/",
-      "wm-target": "https://hacdias.com/tags/lifethroughlenses/",
-      "content": {
-        "html": "<p>I like to look at <a href=\"https://hacdias.com/notes/2020/03/21/lifethroughlenses/\">nice</a> <a href=\"https://hacdias.com/notes/2020/03/22/lifethroughlenses/\">photos</a>. And if the photographer publishes them on his own site (in <a href=\"https://indieweb.org/\">IndieWeb</a> style), I like it even more. I am looking forward to see more photos in your series “<a href=\"https://hacdias.com/tags/lifethroughlenses/\">#LifeThroughLenses</a>\", Henrique! 😍👍</p>",
-        "text": "I like to look at nice photos. And if the photographer publishes them on his own site (in IndieWeb style), I like it even more. I am looking forward to see more photos in your series “#LifeThroughLenses\", Henrique! 😍👍"
-      },
-      "like-of": "https://hacdias.com/tags/lifethroughlenses/",
-      "wm-property": "like-of",
-      "wm-private": false,
-      "rels": {
-        "canonical": "https://jlelse.blog/micro/2020/03/lifethroughlenses/"
-      }
+    "type": "like",
+    "url": "https://jlelse.blog/micro/2020/03/lifethroughlenses/",
+    "date": "2020-03-23T13:46:08.000Z",
+    "wm-id": 774004,
+    "content": {
+      "html": "<p>I like to look at <a href=\"https://hacdias.com/notes/2020/03/21/lifethroughlenses/\">nice</a> <a href=\"https://hacdias.com/notes/2020/03/22/lifethroughlenses/\">photos</a>. And if the photographer publishes them on his own site (in <a href=\"https://indieweb.org/\">IndieWeb</a> style), I like it even more. I am looking forward to see more photos in your series “<a href=\"https://hacdias.com/tags/lifethroughlenses/\">#LifeThroughLenses</a>\", Henrique! 😍👍</p>",
+      "text": "I like to look at nice photos. And if the photographer publishes them on his own site (in IndieWeb style), I like it even more. I am looking forward to see more photos in your series “#LifeThroughLenses\", Henrique! 😍👍"
     },
-    "target": "https://hacdias.com/tags/lifethroughlenses/"
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://cdn.hacdias.com/webmentions/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg",
+      "url": "https://jlelse.dev/"
+    }
   },
   {
-    "post": {
-      "type": "entry",
-      "author": {
-        "type": "card",
-        "name": "Webmention Rocks!",
-        "photo": "https://webmention.io/avatar/webmention.rocks/e08155b03da96cb1bdfd161ea24efdfad8d85d06afcee540ec246f1f613eb5a9.png",
-        "url": ""
-      },
-      "url": "https://webmention.rocks/receive/1",
-      "published": "2020-01-01T03:54:54-08:00",
-      "wm-received": "2020-01-01T11:54:58Z",
-      "wm-id": 739562,
-      "wm-source": "https://webmention.rocks/receive/1/8e127a711366f44047b8410ab1dd68c0",
-      "wm-target": "https://hacdias.com/2020/01/01/07/i-made-some-upd/",
-      "name": "Receiver Test #1",
-      "content": {
-        "html": "<p>This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the <a href=\"https://www.w3.org/TR/webmention/#receiving-webmentions\">appropriate headers</a>.</p>\n        <p>If your endpoint returns HTTP 201, then it MUST also return a <code>Location</code> header. If it returns HTTP 200 or 202, then it MUST NOT include a <code>Location</code> header.</p>",
-        "text": "This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the appropriate headers.\n        If your endpoint returns HTTP 201, then it MUST also return a Location header. If it returns HTTP 200 or 202, then it MUST NOT include a Location header."
-      },
-      "in-reply-to": "https://hacdias.com/2020/01/01/07/i-made-some-upd/",
-      "wm-property": "in-reply-to",
-      "wm-private": false
+    "type": "reply",
+    "url": "https://webmention.rocks/receive/1",
+    "date": "2020-01-01T11:54:54.000Z",
+    "wm-id": 739562,
+    "content": {
+      "html": "<p>This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the <a href=\"https://www.w3.org/TR/webmention/#receiving-webmentions\">appropriate headers</a>.</p>\n        <p>If your endpoint returns HTTP 201, then it MUST also return a <code>Location</code> header. If it returns HTTP 200 or 202, then it MUST NOT include a <code>Location</code> header.</p>",
+      "text": "This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the appropriate headers.\n        If your endpoint returns HTTP 201, then it MUST also return a Location header. If it returns HTTP 200 or 202, then it MUST NOT include a Location header."
     },
-    "target": "https://hacdias.com/2020/01/01/07/i-made-some-upd/"
+    "author": {
+      "name": "Webmention Rocks!",
+      "photo": "https://cdn.hacdias.com/webmentions/753468e7a57e7c7bd962172c4b589c8121bb2f95bfa07d943dc550b6439ae2d0.png",
+      "url": ""
+    }
   }
 ]
