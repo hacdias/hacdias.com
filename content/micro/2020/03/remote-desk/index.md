@@ -12,4 +12,4 @@ tags:
 
 So... I'm in my hometown now and not in Lisbon. While I'm here, I don't usually work on my bedroom where I have my own desk but on the living room desk so this is __definately__ going to be interesting:
 
-{{< figure hash="dc6dbfae3028cd9e75619b903e12a74f85f58bf9799a88aad4f2eae3d696a8c3" alt="My Desk" >}}
+{{< cdnfig name="2020-03-25-desk" alt="My Desk" >}}
