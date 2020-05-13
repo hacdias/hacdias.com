@@ -9,20 +9,5 @@
       "photo": "https://cdn.hacdias.com/webmentions/04ab0ea0b5a609cc0b711a702b027c951ca509e82f444b96b977fe1b96ee533e.jpg",
       "url": "https://twitter.com/BouBlast"
     }
-  },
-  {
-    "type": "reply",
-    "url": "https://twitter.com/BeAkira_SEO/status/1260539378209681408",
-    "date": "2020-05-13T11:56:22.000Z",
-    "wm-id": 795638,
-    "content": {
-      "html": "Love the website! Get in touch at <a href=\"https://www.beakira.com\">beakira.com</a> asap! We can help you get LOTS of new visitors and customers!!!\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
-      "text": "Love the website! Get in touch at beakira.com asap! We can help you get LOTS of new visitors and customers!!!"
-    },
-    "author": {
-      "name": "BeAkira.com",
-      "photo": "https://cdn.hacdias.com/webmentions/2ab130e85d7a3581534bc3efed575c1f770dcb8eb2b63a5004856b3120dd99e3.jpg",
-      "url": "https://twitter.com/BeAkira_SEO"
-    }
   }
 ]
