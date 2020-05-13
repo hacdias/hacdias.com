@@ -17,7 +17,6 @@
 {{ end -}}
 
 <!-- Social Media -->
-<meta name="twitter:card" content="summary"/>
 <meta name="twitter:site" content="@{{ .Site.Social.twitter }}"/>
 <meta name="twitter:creator" content="@{{ .Site.Social.twitter }}"/>
 <meta property="og:locale" content="{{ .Site.LanguageCode }}" />
@@ -27,8 +26,10 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 {{- with $img }}
+  <meta name="twitter:card" content="summary_large_image"/>
   <meta property="og:image" content="{{ .Permalink }}" />
 {{ else -}}
+  <meta name="twitter:card" content="summary"/>
   <meta property="og:image" content="https://hacdias.com/me-512.jpg" />
 {{ end }}
 
