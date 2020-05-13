@@ -26,7 +26,11 @@
 <meta property="og:description" content="{{ $description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-{{- with $img }}<meta property="og:image" content="{{ .Permalink }}" />{{ end -}}
+{{- with $img }}
+  <meta property="og:image" content="{{ .Permalink }}" />
+{{ else -}}
+  <meta property="og:image" content="https://hacdias.com/me-512.jpg" />
+{{ end }}
 
 {{ if and .IsPage (not .Date.IsZero) }}
   {{ $date := .Date.Format "2006-01-02T15:04:05-07:00" }}
