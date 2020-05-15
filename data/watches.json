@@ -1,6 +1,16 @@
 {
   "movies": [
     {
+      "title": "The Internet's Own Boy: The Story of Aaron Swartz",
+      "watched": "2020-05-14T20:47:35.000Z",
+      "url": "https://trakt.tv/movies/the-internet-s-own-boy-the-story-of-aaron-swartz-2014"
+    },
+    {
+      "title": "Revolution OS",
+      "watched": "2020-05-14T10:05:01.000Z",
+      "url": "https://trakt.tv/movies/revolution-os-2001"
+    },
+    {
       "title": "Unbroken Ground",
       "watched": "2020-05-11T07:53:52.000Z",
       "url": "https://trakt.tv/movies/unbroken-ground-2016"
