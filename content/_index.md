@@ -6,7 +6,7 @@ title: Henrique Dias (@hacdias)
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
   <a href="https://hacdias.com/" class="u-uid u-url p-name">Henrique Dias</a>
   <a href="mailto:hacdias@hacdias.com" rel="me" class="u-email">hacdias@hacdias.com</a>
-  <a class="u-key" href="/public.key">public PGP key</a>
+  <a class="u-key" href="/pubkey.txt">public PGP key</a>
 </div>
 
 **Hi!** 👋 I'm Henrique and I'm studying Computer Science and Engineering @ [Técnico]. Also working on the most fascinating topics of decentralizing the web with [IPFS]. This page contains my [articles](/articles/) and some curated [micro](/micro/) posts.
