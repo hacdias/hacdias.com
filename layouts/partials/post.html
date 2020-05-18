@@ -17,18 +17,20 @@
   </header>
   {{ end }}
 
-  {{ if and .Params.properties (isset .Params.properties "in-reply-to") }}
-    {{ $url := index .Params.properties "in-reply-to" }}
-    {{ $dataToShow := index .Site.Data.xray (sha256 $url) }}
-    {{ if eq $dataToShow.type "entry" }}
-      {{ partial "embedded-entry"  (dict "Wm" $dataToShow "Class" "u-in-reply-to") }}
-    {{ else }}
-      <p class='copy content e-entry'>
-        <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="u-in-reply-to">
-          {{- with .Title }}{{ . }}{{ else }}{{ $url}}{{ end -}}
-        </a>
-      </p>
-    {{ end}}
+  {{ if .Params.properties }}
+    {{ if isset .Params.properties "in-reply-to" }}
+      {{ $url := index .Params.properties "in-reply-to" }}
+      {{ $dataToShow := index .Site.Data.xray (sha256 $url) }}
+      {{ if eq $dataToShow.type "entry" }}
+        {{ partial "embedded-entry"  (dict "Wm" $dataToShow "Class" "u-in-reply-to") }}
+      {{ else }}
+        <p class='copy content e-entry'>
+          <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="u-in-reply-to">
+            {{- with .Title }}{{ . }}{{ else }}{{ $url}}{{ end -}}
+          </a>
+        </p>
+      {{ end}}
+    {{ end }}
   {{ end }}
 
   {{ if and (eq .Section "kb") (not $isList) }}
