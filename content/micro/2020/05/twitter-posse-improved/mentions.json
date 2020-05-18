@@ -31,5 +31,16 @@
       "photo": "https://cdn.hacdias.com/webmentions/7349d98cb7d1938e3adfe7111d543882e90e7914a9cc97fb8ab6c2edc5956e9d.jpg",
       "url": "https://twitter.com/malikpiara"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1260520601715904512#favorited-by-1168135695329873921",
+    "date": "2020-05-18T09:24:35.000Z",
+    "wm-id": 797623,
+    "author": {
+      "name": "351 | Portuguese Startup Community",
+      "photo": "https://cdn.hacdias.com/webmentions/22080c425d5df92770cadb456ef21103b4f64c424c51651292012cd08cd232fc.jpg",
+      "url": "https://twitter.com/351network"
+    }
   }
 ]
