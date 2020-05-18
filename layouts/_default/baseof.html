@@ -4,7 +4,7 @@
   {{ partial "head" . -}}
 </head>
 <body>
-  {{ $js := resources.Get "js/theme.js" }}
+  {{ $js := resources.Get "js/script.js" }}
   <script>{{ $js.Content | safeJS }}</script>
   {{ partial "navbar" . -}}
   <div class='container'>
