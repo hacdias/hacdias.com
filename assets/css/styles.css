@@ -371,6 +371,10 @@ blockquote {
   margin: 0;
 }
 
+.wm > *:last-child {
+  margin-bottom: 0;
+}
+
 .wm .contents {
   border-top: 1px solid var(--light-white);
   padding-top: 1rem;
