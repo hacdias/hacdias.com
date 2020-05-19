@@ -57,3 +57,63 @@ await fs.outputFile(
   `---
 title: Knowledge Base
 emoji: 🧠
+---`
+)
+
+const files = await fs.readdir(src)
+
+for (const index of files) {
+  const path = join(src, index)
+  if (fs.statSync(path).isDirectory()) {
+    continue
+  }
+
+  const file = (await fs.readFile(path)).toString()
+  let [frontmatter, content] = file.split('\n---')
+  const meta = yaml.safeLoad(frontmatter)
+
+  // Ignore notes with 'private' tag and deleted ones.
+  if ((meta.tags && meta.tags.includes('private')) || meta.deleted) {
+    continue
+  }
+
+  meta.date = meta.modified
+  meta.publishDate = meta.created
+
+  delete meta.modified
+  delete meta.created
+  delete meta.pinned
+
+  content = content.trim()
+
+  // Remove the initial heading.
+  if (content[0] === '#') {
+    content = content.substring(content.indexOf('\n')).trim()
+  }
+
+  // Check if there's some LaTeX going on so I know whether to require
+  // Katex or not. You may not need this.
+  if (content.match(/(\$\$.*?\$\$|\$.*?\$)/g)) {
+    meta.math = true
+  }
+
+  // Check if there's some mermaid diagrams going on so I know whether to require
+  // Mermaid or not. You may not need this either.
+  if (content.includes('```mermaid')) {
+    meta.mermaid = true
+  }
+
+  // Replace wiki links by true links that work with Hugo's.
+  content = content.replace(/\[\[(.*?)\]\]/g, (match, val) => `[${val}](/kb/${slugify(val.toLowerCase())})`)
+
+  // Outputs the final file!
+  await fs.outputFile(
+    join(dst, `${slugify(meta.title.toLowerCase())}.md`),
+    `---\n${yaml.safeDump(meta, { sortKeys: true })}---\n\n${content.trim()}`
+  )
+}
+```
+
+After running this quick script, the website gets regenerated through hugo's commands. That's it. It's quite easy and the best part: I don't need to do anything manually. It usually goes smoothly. Nevertheless, it is good to check the logs from time to time.
+
+Next steps? You can see them on my ~~knowledge base~~!
