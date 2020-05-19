@@ -354,6 +354,9 @@ blockquote {
 .wm > form:first-of-type,
 .wm > div:first-of-type {
   display: flex;
+}
+
+.wm > form:first-of-type {
   margin-bottom: 1rem;
 }
 
@@ -371,13 +374,10 @@ blockquote {
   margin: 0;
 }
 
-.wm > *:last-child {
-  margin-bottom: 0;
-}
-
 .wm .contents {
   border-top: 1px solid var(--light-white);
   padding-top: 1rem;
+  margin-top: 1rem;
 }
 
 figure.left,
