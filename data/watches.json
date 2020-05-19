@@ -1,6 +1,16 @@
 {
   "movies": [
     {
+      "title": "The Blockchain and Us",
+      "watched": "2020-05-18T14:08:34.000Z",
+      "url": "https://trakt.tv/movies/the-blockchain-and-us-2017"
+    },
+    {
+      "title": "Bitcoin: The End of Money as We Know It",
+      "watched": "2020-05-18T12:13:19.000Z",
+      "url": "https://trakt.tv/movies/bitcoin-the-end-of-money-as-we-know-it-2015"
+    },
+    {
       "title": "The Internet's Own Boy: The Story of Aaron Swartz",
       "watched": "2020-05-14T20:47:35.000Z",
       "url": "https://trakt.tv/movies/the-internet-s-own-boy-the-story-of-aaron-swartz-2014"
@@ -1448,7 +1458,7 @@
     {
       "title": "Avalon High",
       "watched": "2010-11-12T00:00:00.000Z",
-      "url": "https://trakt.tv/movies/avalon-high-2010"
+      "url": "https://trakt.tv/movies/avalon-high-2011"
     },
     {
       "title": "The Social Network",
