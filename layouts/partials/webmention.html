@@ -1,7 +1,7 @@
 {{ $wm := .Site.Data.mentions -}}
 {{ $mentions := .Resources.GetMatch "mentions.json" }}
 {{ if $mentions }}{{ $mentions = unmarshal $mentions.Content }}{{ end }}
-<div class="mentions">
+<div class="wm">
   <form action="https://webmention.io/hacdias.com/webmention" method="post">
     <input name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
     <input name="target" value="{{ .Permalink }}" type="hidden">
@@ -9,7 +9,7 @@
   </form>
 
   <div>
-    <p class='copy'>
+    <p>
       Or if you don't know what a <a target="_blank" rel="noopener noreferrer" href="https://indieweb.org/responses">response</a>
       is, you can always write a webmention comment (you don't need to know what that is).
     </p>

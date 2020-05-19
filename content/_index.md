@@ -2,7 +2,7 @@
 title: Henrique Dias (@hacdias)
 ---
 
-<div class="h-card" style="display: none;">
+<div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
   <a href="https://hacdias.com/" class="u-uid u-url p-name">Henrique Dias</a>
   <a href="mailto:hacdias@hacdias.com" rel="me" class="u-email">hacdias@hacdias.com</a>

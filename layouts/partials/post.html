@@ -61,7 +61,7 @@
     {{ end }}
   {{ end }}
 
-  <footer class='page-footer'>
+  <footer class='footer'>
     <span>
       {{- if not .Date.IsZero -}}
       <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
@@ -88,12 +88,12 @@
     {{ with .Params.properties.syndication -}}
       {{ $arr := partial "must-slice" . }}
       {{ range $arr -}}
-        <a style='display: none;' class='u-syndication' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
+        <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
       {{ end -}}
     {{ end -}}
 
     <!-- Author metadata -->
-    <div class="h-card u-author" style="display: none;">
+    <div class="h-card u-author dn">
       <data class='u-photo' value="{{ .Site.Author.avatar }}">Picture</data>
       <a href="{{ .Site.Author.url }}" class="u-url p-name">{{ .Site.Author.name }}</a>
     </div>
