@@ -92,5 +92,27 @@
       "photo": "https://cdn.hacdias.com/webmentions/5b3ad9b37230195e7e190f2433daa332381aa16a2bfda1eb19a3b07a59732eba.jpg",
       "url": "https://twitter.com/derrickfoote86"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-15461779",
+    "date": "2020-05-20T04:52:31.000Z",
+    "wm-id": 798671,
+    "author": {
+      "name": "Juan Benet",
+      "photo": "https://cdn.hacdias.com/webmentions/1f3013155434a2187f29fcfd024c584bef6cbbc154158af97ae3ff677d7231be.png",
+      "url": "https://twitter.com/juanbenet"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-841224515816427520",
+    "date": "2020-05-20T05:33:19.000Z",
+    "wm-id": 798675,
+    "author": {
+      "name": "Agata Krych",
+      "photo": "https://cdn.hacdias.com/webmentions/4d6bd69a13b16e5325e1896ef170c57fd6f8e68ed4cd022a2485271ec6bfae2d.jpg",
+      "url": "https://twitter.com/agata_krych"
+    }
   }
 ]

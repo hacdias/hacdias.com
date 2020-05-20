@@ -1,20 +1,22 @@
 ---
-type:         page
-title:        Projects
-emoji:        📦
-description:  >
-  Some projects I've been envolved with, from the most recent to the oldest.
-  If you're curious, check also my GitHub page and my blog posts.
+description: >
+  Some projects I've been envolved with, from the most recent to the oldest. If
+  you're curious, check also my GitHub page and my blog posts.
+emoji: "\U0001F4E6"
 menu:
   main:
     weight: 4
+properties: {}
+tags: []
+title: Projects
+type: page
 ---
 
 These are some of the projects I am working on or have worked on in the past. If you're curious about
 everything else I have done, please check my [GitHub](https://github.com/hacdias).
 
 <div class="grid">
-  {{< project title="Testground" desc="Testing decentralized systems." img="testground.jpg" url="https://github.com/ipfs/testground" >}}
+  {{< project title="Testground" desc="Testing decentralized systems." img="testground.jpg" url="http://testground.ai/" >}}
   {{< project title="IPFS Desktop" desc="IPFS official desktop client." img="ipfs-desktop.jpg" url="https://github.com/ipfs-shipyard/ipfs-desktop" >}}
   {{< project title="IPFS Web UI" desc="IPFS management UI." img="ipfs-webui.jpg" url="https://github.com/ipfs-shipyard/ipfs-webui" >}}
   {{< project title="Upframe" desc="Helping young entrepreneurs." img="upframe.jpg" url="../2017/04/11/01/upframe/" >}}
