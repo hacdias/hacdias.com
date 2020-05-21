@@ -16,7 +16,7 @@ with the social distancing thing, I'm lucky to be able to enjoy such nice views.
 </div>
 
 <div class="grid">
-  {{< cdnfig size="thumb" name="2020-05-21-Nature-01" alt="My Dog, Lara" >}}
-  {{< cdnfig size="thumb" name="2020-05-21-Nature-03" alt="My Dog, Lara" >}}
-  {{< cdnfig size="thumb" name="2020-05-21-Nature-04" alt="My Dog, Lara" >}}
+  {{< cdnfig size="thumb" name="2020-05-21-Nature-01" alt="Trees" >}}
+  {{< cdnfig size="thumb" name="2020-05-21-Nature-03" alt="Lake" >}}
+  {{< cdnfig size="thumb" name="2020-05-21-Nature-04" alt="Lake" >}}
 </div>
