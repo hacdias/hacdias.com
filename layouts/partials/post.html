@@ -33,10 +33,6 @@
     {{ end }}
   {{ end }}
 
-  {{ if and (eq .Section "kb") (not $isList) }}
-    {{.TableOfContents}}
-  {{ end }}
-
   {{ if $useSummary}}
     <div class='content copy p-summary'><p>{{ .Summary }}</p></div>
   {{ else }}
@@ -99,7 +95,7 @@
     </div>
   </footer>
 
-  {{ if not (or $isList (eq .Section "kb")) -}}
+  {{ if not $isList -}}
     {{ partial "webmention" . -}}
   {{ end }}
 </article>
