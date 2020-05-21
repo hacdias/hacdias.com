@@ -245,7 +245,6 @@ blockquote {
   width: calc(100% - 3rem);
   max-width: var(--max-width);
   margin: 1.5rem auto;
-  background: var(--white);
   position: relative;
 }
 
