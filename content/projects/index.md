@@ -8,6 +8,7 @@ menu:
     weight: 3
 properties: {}
 tags: []
+hideMentions: true
 title: Projects
 type: page
 ---

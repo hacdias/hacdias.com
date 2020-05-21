@@ -100,7 +100,7 @@
     </div>
   </footer>
 
-  {{ if not $isList -}}
+  {{ if not (or $isList .Params.hideMentions) -}}
     {{ partial "webmention" . -}}
   {{ end }}
 </article>

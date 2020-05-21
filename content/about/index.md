@@ -1,6 +1,7 @@
 ---
 type:         page
 title:        About
+hideMentions: true
 emoji:        👨‍💻
 description:  >
   Hi there 👋! Currently, I am studying Information Systems and Computer Engineering
