@@ -17,10 +17,18 @@ type: page
 
 This is a [now](https://nownownow.com/about) page. Here you can find what I'm focusing right now:
 
-- Three weeks to go to finish my Bachelor's degree classes!
+- One week to go to finish my Bachelor's degree classes!
 - Improving this website.
 - Learning a bit more about photography.
 - Learning and reading more about the decentralized web.
 - Taking notes!
 
 I've currently paused my work at Protocol Labs. You can see why [here](/notes/2020/03/02/1/). 😕
+
+**Interesting topics** to look into:
+
+- Decentralization of the web.
+- Web of trust.
+- Blockchain.
+- Owning our own data.
+- Decentralized identity.
