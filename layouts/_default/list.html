@@ -2,7 +2,7 @@
 
 <main role='main'>
 	{{- if not .IsHome -}}
-	<h1>{{ .Title }}</h1>
+	<h1>{{ if eq .Kind "taxonomy" }}#{{ end }}{{ .Title }}</h1>
 	{{- end -}}
 
 	{{- with .Content }}
