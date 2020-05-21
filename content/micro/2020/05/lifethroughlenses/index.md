@@ -1,6 +1,8 @@
 ---
 date:   2020-05-21T22:50:00.000+01:00
 home: true
+properties:
+  syndication: 'https://twitter.com/hacdias/status/1263591512387928065'
 tags:
   - LifeThroughLenses
 ---
