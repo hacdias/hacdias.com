@@ -2,7 +2,7 @@
 date: 2020-05-10T22:00:00.000Z
 menu:
   main:
-    weight: 7
+    weight: 5
 properties: {}
 publishDate: 2020-01-25T22:56:00.000Z
 tags: []
@@ -10,15 +10,16 @@ title: More
 type: page
 ---
 
-Here's the list of other pages on this website that are not listed on the visible menus:
+Here's a list of other pages you can find on this website:
 
-- [Blogroll](/blogroll/)
-- [Books](/books/) - my bookshelf with the books I've read.
-- ~~Knowledge Base~~ stay tuned!
-- [Pins](/pins/)
-- [Tags](/tags/)
-- [Uses](/uses/)
-- [Watches](/watches/)
+- [✏️ Articles](/articles/) - full page articles.
+- [🧻 Blogroll](/blogroll/)
+- [📕 Books](/books/) - my bookshelf with the books I've read.
+- [💬 Micro](/micro/) - micro blogging.
+- [📌 Pins](/pins/)
+- [🏷Tags](/tags/)
+- [🛠️ Uses](/uses/)
+- [🍿 Watches](/watches/)
 
 ## Experiments
 

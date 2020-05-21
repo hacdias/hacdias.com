@@ -7,7 +7,7 @@ description: >
 emoji: ⏱
 menu:
   main:
-    weight: 3
+    weight: 2
 properties: {}
 publishDate: 2020-01-21T15:06:00.000Z
 tags: []

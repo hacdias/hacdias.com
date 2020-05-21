@@ -9,7 +9,8 @@ title: Henrique Dias (@hacdias)
   <a class="u-key" href="/pubkey.txt">public PGP key</a>
 </div>
 
-**Hi!** 👋 I'm Henrique and I'm studying Computer Science and Engineering @ [Técnico]. Also working on the most fascinating topics of decentralizing the web with [IPFS]. This page contains my [articles](/articles/) and some curated [micro](/micro/) posts.
+**Hi!** 👋 I'm Henrique and I'm finishing my Bachelor's degree in Computer Science and Engineering @ [Técnico]. Currently working @ [Protocol Labs] on some of the most fascinating topics on decentralizing the web.
 
 [Técnico]: https://tecnico.ulisboa.pt/
+[Protocol Labs]: https://protocol.ai
 [IPFS]: https://ipfs.io

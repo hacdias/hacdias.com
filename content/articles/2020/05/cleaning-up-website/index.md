@@ -10,6 +10,8 @@ title: Cleaning up my website
 
 I decided to make a few updates on my website - again. However, this are a bit more than visuals and I'm mostly reinventing the way I manage IndieWeb posts, namely likes, reposts, notes and replies.
 
+<!--more-->
+
 ## What about your bookmarks?
 
 Well, that's a great question. I also removed the bookmarks section and merged it with my [pins](/pins/) where I add interesting links I find on the web. I noticed I wasn't even using the bookmarks and most of them were just repetitions of what I have on my [blogroll](/blogroll/).
