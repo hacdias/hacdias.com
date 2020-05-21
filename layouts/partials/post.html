@@ -61,7 +61,7 @@
     <span>
       {{- if not .Date.IsZero -}}
       <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-        <a href="{{ .RelPermalink }}" class="u-url {{ if not $isList}}no-link{{ end }}">{{- .Date.Format "02 Jan 2006 15:04" }}</a>
+        <a href="{{ .RelPermalink }}" class="u-url no-link">{{- .Date.Format "2 Jan 2006" }}</a>
       </time>
       {{- end -}}
       {{- with .Section -}}
