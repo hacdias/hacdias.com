@@ -101,8 +101,8 @@ input {
 
 button,
 input[type="submit"] {
-  background-color: var(--accent);
-  border: 1px solid var(--accent);
+  background-color: var(--accent-darker);
+  border: 1px solid var(--accent-darker);
   font-weight: 700;
   padding: 0.5rem 1rem;
   color: var(--accent-text);
@@ -114,8 +114,8 @@ input[type="submit"] {
 
 button:hover,
 input[type="submit"]:hover {
-  background-color: var(--accent-darker);
-  border-color: var(--accent-darker);
+  background-color: var(--accent);
+  border-color: var(--accent);
 }
 
 #header {
@@ -234,9 +234,10 @@ blockquote {
 
 .highlight > pre,
 .content > pre {
-  background: transparent !important;
+  background: 0 0!important;
   overflow: auto;
-  padding-left: 1.5rem;
+  padding: 0.5rem;
+  border: 1px solid var(--near-white);
 }
 
 #header nav,
