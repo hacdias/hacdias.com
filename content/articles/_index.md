@@ -8,5 +8,4 @@ description:  >
   my thoughts, my adventures and my progress in life.
 ---
 
-<small>**Note**: if you decide to read my old posts, please bear in mind that those were written
-when I was in high school or before!</small>
+<small>**Note**: opinions change and older posts were written when I was in high school or before.</small>
