@@ -120,6 +120,8 @@ input[type="submit"]:hover {
 
 #header {
   border-bottom: 1px solid var(--light-white);
+  border-top: 5px solid var(--accent);
+  color: var(--accent);
 }
 
 #header label,
