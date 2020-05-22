@@ -11,7 +11,7 @@
 <title>{{ $longTitle }}</title>
 <meta name="description" content="{{ $description }}">
 <link rel="canonical" href="{{ .Permalink }}">
-<link rel="icon" href="{{ relURL "/favicon.png" }}" type=image/x-icon>
+<link rel="icon" href="{{ relURL "/favicon.ico" }}" type=image/x-icon>
 
 {{ range .AlternativeOutputFormats -}}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
