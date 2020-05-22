@@ -9,7 +9,6 @@ summarylength: 30
 relativeURLs: true
 enableRobotsTXT: true
 summaryLength: 150
-disableAliases: true
 
 author:
   username: hacdias
