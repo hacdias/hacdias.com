@@ -18,7 +18,7 @@ clean:
 	rm -rf static/css/vendor
 
 build:
-	hugo --gc --minify --cleanDestinationDir
+	hugo --gc --minify --cleanDestinationDir --path-warnings
 
 watch:
-	hugo server --watch --minify --buildDrafts
+	hugo server --watch --minify --buildDrafts --path-warnings
