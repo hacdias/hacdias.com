@@ -50,5 +50,27 @@
       "photo": "https://cdn.hacdias.com/webmentions/33d590e688094847806f0b84950d70788957025288210fd2cf897b842a4fbd61.jpg",
       "url": "https://twitter.com/a_sevans"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1263591512387928065#favorited-by-1069685640596459520",
+    "date": "2020-05-22T03:58:37.000Z",
+    "wm-id": 800182,
+    "author": {
+      "name": "Duki?",
+      "photo": "https://cdn.hacdias.com/webmentions/26fcfe5fa54a639429955fc611ae521636a343cabfb93cd002b3c426eca6bc6a.jpg",
+      "url": "https://twitter.com/DARA3G_"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1263591512387928065#favorited-by-16401507",
+    "date": "2020-05-22T06:45:01.000Z",
+    "wm-id": 800217,
+    "author": {
+      "name": "Pedro Teixeira",
+      "photo": "https://cdn.hacdias.com/webmentions/734547e8a2ceea06f913bf7f70e0b2bc49cabe286946a4529198d00e43a1fcde.jpg",
+      "url": "https://twitter.com/pgte"
+    }
   }
 ]
