@@ -2,9 +2,7 @@
 date: 2020-05-13T20:45:28.200Z
 description: A sorted list of the blogs I follow.
 emoji: "\U0001F9FB"
-properties: {}
 publishDate: 2020-01-22T09:02:00.000Z
-tags: []
 title: Blogroll
 type: page
 ---
@@ -26,5 +24,5 @@ This is an alphabetically sorted list of blogs and websites that I follow. I do 
 
 ## Comics
 
-- [XKCD](https://xkcd.com/) (see how I [mirror](/articles/2019/07/05/1/mirrorring-xkcd-ipfs/) it!)
+- [XKCD](https://xkcd.com/) (see how I [mirror](/articles/2019/07/mirrorring-xkcd-ipfs/) it!)
 - [Hey Ok Yay?](https://heyokyay.com)

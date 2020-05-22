@@ -6,8 +6,6 @@ emoji: "\U0001F4E6"
 menu:
   main:
     weight: 3
-properties: {}
-tags: []
 hideMentions: true
 title: Projects
 type: page

@@ -3,9 +3,7 @@ date: 2020-05-10T22:00:00.000Z
 menu:
   main:
     weight: 5
-properties: {}
 publishDate: 2020-01-25T22:56:00.000Z
-tags: []
 title: More
 type: page
 ---

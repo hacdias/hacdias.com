@@ -45,11 +45,11 @@ Although, I can assure you they have nothing to do with each other. It was a mer
 between the first letters of my first name and middle names - 'hac' - and last name - 'dias' -
 that I happen to enjoy.
 
-[pplware]: /articles/2016/09/11/1/pplware/
-[upframe]: /articles/2017/04/11/1/upframe/
-[pl]: /articles/2019/09/14/1/protocol-labs/
+[pplware]: /articles/2016/09/pplware/
+[upframe]: /articles/2017/04/upframe/
+[pl]: /articles/2019/09/protocol-labs/
+[resume]: /resume.pdf
 [ist]: https://tecnico.ulisboa.pt/en/
 [ipfs]: https://ipfs.io
 [gh]: https://github.com/hacdias
 [bmc]: https://www.buymeacoffee.com/hacdias
-[resume]: /resume.pdf
