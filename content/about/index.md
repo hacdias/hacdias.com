@@ -1,17 +1,19 @@
 ---
-type:         page
-title:        About
+description: "Hi there \U0001F44B! Currently, I am studying Information Systems and Computer Engineering at Técnico in Lisbon.\n"
+emoji: "\U0001F468‍\U0001F4BB"
 hideMentions: true
-emoji:        👨‍💻
-description:  >
-  Hi there 👋! Currently, I am studying Information Systems and Computer Engineering
-  at Técnico in Lisbon.
 menu:
   main:
     weight: 1
+properties: {}
+tags: []
+title: About
+type: page
 ---
 
 {{< figure alt="Me!" src="hac.jpeg" caption="Taken by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
+
+Hi, I'm Henrique (he/him)! 👋
 
 I'm a B.Sc. student 🎓 in Information Systems and Computer Engineering
 at [Instituto Superior Técnico][ist], in Lisbon. Currently working at [Protocol Labs][pl] on
