@@ -28,7 +28,7 @@
     {{- range $i, $data := $mentions }}
     <div class="h-cite">
       <span class="p-author h-card">
-        <img class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
+        <img alt="{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
         <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
       {{ if eq .type "like" }}
       liked this post.
