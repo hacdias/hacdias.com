@@ -29,9 +29,11 @@
 {{- with $img }}
   <meta name="twitter:card" content="summary_large_image"/>
   <meta property="og:image" content="{{ .Permalink }}" />
-{{ else -}}
-  <meta name="twitter:card" content="summary"/>
-  <meta property="og:image" content="https://hacdias.com/me-512.jpg" />
+{{ else }}
+  {{ if .IsHome -}}
+    <meta name="twitter:card" content="summary"/>
+    <meta property="og:image" content="https://hacdias.com/me-512.jpg" />
+  {{ end }}
 {{ end }}
 
 {{ if and .IsPage (not .Date.IsZero) }}
