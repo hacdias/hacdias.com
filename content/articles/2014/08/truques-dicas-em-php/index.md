@@ -25,7 +25,7 @@ Para os iniciantes ou mesmo profissionais, aqui estão 5 simples e úteis truque
 
 ## 1. Utilizar o operador ternário
 
-Nós já escrevemos um artigo sobre este operador que podem ver [aqui](/articles/2014/07/22/1/operador-ternario/). Para laços (*loops*) simples, podemos utilizar o operador ternário de forma a poupar espaço como podem ver no exemplo seguinte:
+Nós já escrevemos um artigo sobre este operador que podem ver [aqui](/articles/2014/07/operador-ternario/). Para laços (*loops*) simples, podemos utilizar o operador ternário de forma a poupar espaço como podem ver no exemplo seguinte:
 
 ```php
 <?php

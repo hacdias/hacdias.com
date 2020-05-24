@@ -18,7 +18,7 @@ title: Aprenda a Programar
 ---
 
 In 2015, with only 15 years old, I wrote an ebook teaching how to program in C.
-That ebook consists in the compilation of a series of blog posts on [Pplware](/articles/2016/09/11/1/pplware/)
+That ebook consists in the compilation of a series of blog posts on [Pplware](/articles/2016/09/pplware/)
 into a beautiful and easily readable PDF.
 
 <!--more-->

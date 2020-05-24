@@ -18,7 +18,7 @@ tags:
 title: 'PHP - Como utilizar o Gettext para traduções [Parte 1]'
 ---
 
-Como prometido no [último artigo](/articles/2014/09/13/1/php-wordpress-comandos-printf-sprintf/), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
+Como prometido no [último artigo](/articles/2014/09/php-wordpress-comandos-printf-sprintf/), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
 
 Com o **gettext** podemos ter um site disponível em diversas linguagens de forma muito fácil e sem complicações. Nesta primeira parte, irá ser abordado como **configurar o gettext** e as suas **funções**.
 

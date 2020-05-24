@@ -41,7 +41,7 @@ with the hardware.
 ## C language characteristics
 
 C is a structured, imperative and procedural programming language. Do you
-remember the [paradigms](/articles/2016/11/12/1/fundamentals-programming-paradigms/)?
+remember the [paradigms](/articles/2016/11/fundamentals-programming-paradigms/)?
 Other characteristics of this language are being standardized by ISO and being
 of general purpose.
 

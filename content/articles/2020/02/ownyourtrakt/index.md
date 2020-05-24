@@ -20,7 +20,7 @@ title: OwnYourTrakt
 
 For quite some time, I have been getting more and more into the IndieWeb world and trying to own my own data. I have started publishing more to my website and using it as a place to store most of my public data, i.e., data I already published on other social media and platforms.
 
-It now holds my web interactions, such as [replies](/replies/), [likes](/likes/) and ~~reposts~~, as well as my [reading log](/articles/2020/01/29/1/owning-reading-log/). Since the beginning, I also wanted to this website as a place to store my watch logs. With watch I mean watching movies and TV series.
+It now holds my web interactions, such as [replies](/micro/), [likes](/micro/) and ~~reposts~~, as well as my [reading log](/articles/2020/01/owning-reading-log/). Since the beginning, I also wanted to this website as a place to store my watch logs. With watch I mean watching movies and TV series.
 
 <!--more-->
 

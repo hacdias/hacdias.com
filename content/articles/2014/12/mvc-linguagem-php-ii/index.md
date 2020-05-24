@@ -19,7 +19,7 @@ title: MVC na linguagem PHP - II
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
 
-Depois de publicarmos a [primeira parte](/articles/2014/12/18/1/mvc-linguagem-php/), onde explicámos a estrutura da pequena _framework_ que iremos criar, aqui está a segunda parte.
+Depois de publicarmos a [primeira parte](/articles/2014/12/mvc-linguagem-php/), onde explicámos a estrutura da pequena _framework_ que iremos criar, aqui está a segunda parte.
 
 <!--more-->
 
@@ -177,7 +177,7 @@ De seguida, esta função define a página como index caso nenhuma página est
 
 Esta função recebe a variável url que foi passada através do método GET (em breve veremos as modificações que têm que ser efetuadas no `.htaccess` para que seja passada esta variável).
 
-Aqui é utilizado o [operador ternário](/articles/2014/07/22/1/operador-ternario/) de forma a que a variável `$url` seja igual a null  caso não haja nenhum conteúdo na variável url que foi passada através do método GET.
+Aqui é utilizado o [operador ternário](/articles/2014/07/operador-ternario/) de forma a que a variável `$url` seja igual a null  caso não haja nenhum conteúdo na variável url que foi passada através do método GET.
 
 Depois é removida a última barra (/) da variável com a função `rtrim`. De seguida é aplicado um filtro à array  de forma a remover todos os caracteres não permitidos aqui.
 

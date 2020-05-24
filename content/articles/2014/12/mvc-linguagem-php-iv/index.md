@@ -19,7 +19,7 @@ title: MVC na linguagem PHP - IV
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
 
-A [primeira](/articles/2014/12/18/1/mvc-linguagem-php/), [segunda](/articles/2014/12/19/1/mvc-linguagem-php-ii/) e [terceiras](/articles/2014/12/20/1/mvc-linguagem-php-iii/) partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
+A [primeira](/articles/2014/12/mvc-linguagem-php/), [segunda](/articles/2014/12/mvc-linguagem-php-ii/) e [terceiras](/articles/2014/12/mvc-linguagem-php-iii/) partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
 
 <!--more-->
 

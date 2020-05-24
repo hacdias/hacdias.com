@@ -15,7 +15,7 @@ tags:
 title: Build a dynamic website… or not?
 ---
 
-After digressing a bit about [building a Micropub](/articles/2020/01/01/1/building-micropub/) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.
+After digressing a bit about [building a Micropub](/articles/2020/01/building-micropub/) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.
 
 I opened a topic on [Hugo’s discourse](https://discourse.gohugo.io/t/use-hugo-watch-in-production/22599/14) to see to which point it would be reliable to use the watch mode of Hugo in production and it seems, as I was expecting, that it wasn’t made for that and there is no way of making incremental builds as of right now. And I don’t blame Hugo developers — I understand that’s quite a big issue and it needs to be a really thoughtful process.
 

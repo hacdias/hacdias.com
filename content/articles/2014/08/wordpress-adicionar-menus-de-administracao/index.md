@@ -19,7 +19,7 @@ tags:
 title: 'WordPress: adicionar menus de administração [Parte 1]'
 ---
 
-O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](/articles/2014/07/14/1/remover-hash-dos-links-continuar-a-ler/).
+O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](/articles/2014/07/remover-hash-dos-links-continuar-a-ler/).
 
 Hoje vamos dar continuação às dicas e tutoriais sobre este CMS. Se vocês utilizam o WordPress com um tema pago, já devem ter reparado que este vem com um menu de personalização próprio criado pelo(s) autor(es) do tema. Hoje vamos ensinar-vos a criar estes menus.
 
@@ -120,6 +120,6 @@ add_action("admin_menu", "themeslug_admin_menus");
 
 Agora, quando voltarem à *dashboard* do WordPress, já lá deverão ter o novo menu.
 
-Se abrirem a página vão ver que ainda não existe nada nessa página. Como este tutorial está a ficar um pouco extenso, deixarei a criação de uma opção e a sua aplicação para a segunda parte deste tutorial que <del>deve chegar dentro de dois ou três dias</del> podes encontrar [aqui](/articles/2015/06/10/2/wordpress-adicionar-menus-de-administracao-parte-2/).
+Se abrirem a página vão ver que ainda não existe nada nessa página. Como este tutorial está a ficar um pouco extenso, deixarei a criação de uma opção e a sua aplicação para a segunda parte deste tutorial que <del>deve chegar dentro de dois ou três dias</del> podes encontrar [aqui](/articles/2015/06/wordpress-adicionar-menus-de-administracao-parte-2/).
 
 Esperamos que o tutorial vos tenha sido útil.

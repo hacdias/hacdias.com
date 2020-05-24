@@ -25,5 +25,5 @@ I started writing at Pplware on June 2013.
 ## Achievements
 
 - Wrote over 400 posts about tech news, events, tips and tutorials ([Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/), [Pplware](https://pplware.sapo.pt/author/henrique_dias/)).
-- Published a 60 page [e-book](/articles/2015/02/25/1/aprenda-a-programar/) on how to program in C for beginners.
+- Published a 60 page [e-book](/articles/2015/02/aprenda-a-programar/) on how to program in C for beginners.
 - Moderated article comments.
