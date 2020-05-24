@@ -6,7 +6,7 @@ date: 2020-02-17T21:39:35.885Z
 properties: {}
 ---
 
-After [wondering](/notes/2020/02/17/1/) whether or not I should keep the check-ins and watches on my website, I decided not to. I know... I change my mind quite a lot. But here are some reasons why:
+After [wondering](/micro/2020/02/n4/) whether or not I should keep the check-ins and watches on my website, I decided not to. I know... I change my mind quite a lot. But here are some reasons why:
 
 - I don't believe I need one post for _each_ checkin and for each watch since I don't actually add content to it besides the fact that I've been there or watched something.
 - Check-ins? Privacy! Which is important. I like to collect data about myself, but not to make everything public.

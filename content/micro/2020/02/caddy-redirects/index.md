@@ -4,7 +4,7 @@ aliases:
   - /replies/2020/02/16/1/caddy-redirects/
 date: 2020-02-16T14:32:39.871Z
 properties:
-  in-reply-to: 'https://hacdias.com/notes/2020/02/16/1/updates/'
+  in-reply-to: /micro/2020/02/updates/
 tags:
   - meta
   - hugo

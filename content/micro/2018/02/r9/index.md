@@ -4,7 +4,7 @@ aliases:
   - /replies/2018/02/18/2/
 date: 2018-02-18T09:11:30.000Z
 properties:
-  in-reply-to: /notes/2018/02/18/3/
+  in-reply-to: /micro/2018/02/n5/
   syndication: 'https://twitter.com/hacdias/status/965151778424664064'
 ---
 

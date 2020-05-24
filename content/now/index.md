@@ -21,7 +21,7 @@ This is a [now](https://nownownow.com/about) page. Here you can find what I'm fo
 - Improving this website.
 - Learning a bit more about photography.
 - Learning and reading more about the decentralized web.
-- I've currently paused my work at Protocol Labs. You can see why [here](/notes/2020/03/02/1/). 😕
+- I've currently paused my work at Protocol Labs. You can see why [here](/micro/2020/03/n2/). 😕
 
 ## Problems I care about
 

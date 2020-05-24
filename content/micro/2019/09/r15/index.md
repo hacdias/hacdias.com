@@ -4,7 +4,7 @@ aliases:
   - /replies/2019/09/19/3/
 date: 2019-09-19T17:38:15.000Z
 properties:
-  in-reply-to: /replies/2019/09/19/4/
+  in-reply-to: /micro/2019/09/r16/
   syndication: 'https://twitter.com/hacdias/status/1174739492697268226'
 ---
 

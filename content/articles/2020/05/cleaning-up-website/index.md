@@ -22,7 +22,7 @@ One of the decisions I made was to remove the likes. "What about the own your ow
 
 I was only using this section for Twitter purposes and let's be honest: I don't have the time, nor the patient to hit 3 more buttons every time I just want to press like and then wait for my server to reply. It makes my likes being much more selective which, in some situations, may be good, but that's not what I want to do.
 
-For now, I prefer to just hit the like button on Twitter. Also, having the likes I do on Twitter reflected on my website doesn't add much information. If I want to share something I really care about or I think it's really important, I will do a [note](/notes/) where I add some content.
+For now, I prefer to just hit the like button on Twitter. Also, having the likes I do on Twitter reflected on my website doesn't add much information. If I want to share something I really care about or I think it's really important, I will do a [note](/micro/) where I add some content.
 
 ## Reposts?
 
