@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<style>
+  .articles .h-entry {
+    display: grid;
+    grid-template-columns: auto 100px;
+    grid-gap: 1rem;
+    margin: 1rem 0;
+  }
+
+  .articles time {
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -.012em;
+    white-space: pre;
+    text-align: right;
+  }
+
+  .articles a {
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+</style>
+
+<main role='main'>
+  {{- if not .IsHome -}}
+  <h1>{{ .Title }}</h1>
+  {{- end -}}
+
+  {{- with .Content }}
+    <div class='copy'>{{ . }}</div>
+  {{- end }}
+
+  <div class='articles h-feed'>
+    {{- $pages := (partialCached "get-pages" . .Type .IsHome .Title) -}}
+    {{- range $pages -}}
+    <div class='h-entry'>
+      <a class='u-url p-name no-link' href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <time class='dt-published' datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+    </div>
+    {{- end -}}
+  </div>
+</main>
+
+{{ end }}

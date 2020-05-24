@@ -1,23 +1,23 @@
 {{ define "main" }}
 
 <main role='main'>
-	{{- if not .IsHome -}}
-	<h1>{{ if eq .Kind "taxonomy" }}#{{ end }}{{ .Title }}</h1>
-	{{- end -}}
+  {{- if not .IsHome -}}
+  <h1>{{ if eq .Kind "taxonomy" }}#{{ end }}{{ .Title }}</h1>
+  {{- end -}}
 
-	{{- with .Content }}
-		<div class='copy'>{{ . }}</div>
-	{{- end }}
+  {{- with .Content }}
+    <div class='copy'>{{ . }}</div>
+  {{- end }}
 
-	<div class='h-feed'>
-		{{- $paginator := .Paginate (partialCached "get-pages" . .Type .IsHome .Title) -}}
-		{{- range .Paginator.Pages -}}
-			{{- $data := (dict "Glob" . "Mode" "list") -}}
-			{{- partial "post" $data -}}
-		{{- end -}}
-	</div>
+  <div class='h-feed'>
+    {{- $paginator := .Paginate (partialCached "get-pages" . .Type .IsHome .Title) -}}
+    {{- range .Paginator.Pages -}}
+      {{- $data := (dict "Glob" . "Mode" "list") -}}
+      {{- partial "post" $data -}}
+    {{- end -}}
+  </div>
 
-	{{ partial "pagination" . -}}
+  {{ partial "pagination" . -}}
 </main>
 
 {{ end }}
