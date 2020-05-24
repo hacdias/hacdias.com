@@ -23,7 +23,7 @@ With university, work and… life… I stop reading as much as I did before. But
 
 <!--more-->
 
-At my [reads](/reads/), you can visualize my reading logs: basically, it's just a big list of 'I want to read X', 'I finished reading Y' or 'I am now reading Z'. I will be primarily using the [indiebookclub](https://indiebookclub.biz/) service for now to create this kind of posts.
+At my [reads](/books/), you can visualize my reading logs: basically, it's just a big list of 'I want to read X', 'I finished reading Y' or 'I am now reading Z'. I will be primarily using the [indiebookclub](https://indiebookclub.biz/) service for now to create this kind of posts.
 
 On my [books](/books/), you can find my bookshelf of the books I have read in the past. Of course, you won't be able to find _all_ the books I've read. That list's missing at least three hundred comic books I have in my hometown. I know, that's a lot.
 
