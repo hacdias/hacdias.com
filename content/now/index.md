@@ -1,5 +1,5 @@
 ---
-date: 2020-05-11T14:41:00.000Z
+date: 2020-05-24T09:26:00.000Z
 description: >
   This is a simple page for me to join the nownownow movement. You can find
   information about what I'm doing at the moment and some other curious
@@ -21,14 +21,13 @@ This is a [now](https://nownownow.com/about) page. Here you can find what I'm fo
 - Improving this website.
 - Learning a bit more about photography.
 - Learning and reading more about the decentralized web.
-- Taking notes!
+- I've currently paused my work at Protocol Labs. You can see why [here](/notes/2020/03/02/1/). 😕
 
-I've currently paused my work at Protocol Labs. You can see why [here](/notes/2020/03/02/1/). 😕
+## Problems I care about
 
-**Interesting topics** to look into:
+Back in 2014, I wrote my first ever post, in Portuguese, where I said my goal as a Software Engineer was to [improve the world](/articles/2014/07/apresentacao/) somehow. Even though that sounds like a cliché, it doesn't mean it's not true. So here are some problems that I think solving would be a great step on improving the web we have nowadays, hence improving the world:
 
-- Decentralization of the web.
+- Decentralized storage.
+- Decentralized identities.
+- Blockchain for transactions and smart contracts.
 - Web of trust.
-- Blockchain.
-- Owning our own data.
-- Decentralized identity.

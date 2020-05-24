@@ -3,21 +3,23 @@ date: 2020-05-10T22:00:00.000Z
 menu:
   main:
     weight: 5
+properties: {}
 publishDate: 2020-01-25T22:56:00.000Z
+tags: []
 title: More
 type: page
 ---
 
 Here's a list of other pages you can find on this website:
 
-- [✏️ Articles](/articles/) - full page articles.
-- [🧻 Blogroll](/blogroll/)
-- [📕 Books](/books/) - my bookshelf with the books I've read.
-- [💬 Micro](/micro/) - micro blogging.
-- [📌 Pins](/pins/)
-- [🏷Tags](/tags/)
-- [🛠️ Uses](/uses/)
-- [🍿 Watches](/watches/)
+- ✏️ [Articles](/articles/) - full page articles.
+- 🧻 [Blogroll](/blogroll/)
+- 📕 [Books](/books/) - my bookshelf with the books I've read.
+- 💬 [Micro](/micro/) - micro blogging.
+- 📌 [Pins](/pins/)
+- 🏷[Tags](/tags/)
+- 🛠️ [Uses](/uses/)
+- 🍿 [Watches](/watches/)
 
 ## Experiments
 
@@ -25,11 +27,11 @@ A galaxy, a black hole, a trash bin, whatever you wanna call it. This is a place
 and creepy experiments. Weird things can happen, you can feel dizzy, be aware of dragons. 🐉
 Be aware! Or they will bite you.
 
-- [🔵 Blue Screen of Death](/minisites/bsod/)
-- [🗺 Procedural Map Generator](/minisites/mapgen/)
-- [🏳️‍🌈 PixelColorMania](/minisites/pixelcolormania/)
-- [⛈ Thunderstorm](/minisites/thunderstorm/)
-- [📺 TV Noise](/minisites/tv-noise/)
+- 🔵 [Blue Screen of Death](/minisites/bsod/)
+- 🗺 [Procedural Map Generator](/minisites/mapgen/)
+- 🏳️‍🌈 [PixelColorMania](/minisites/pixelcolormania/)
+- ⛈ [Thunderstorm](/minisites/thunderstorm/)
+- 📺 [TV Noise](/minisites/tv-noise/)
 
 ## Feeds
 
