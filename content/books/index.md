@@ -7,6 +7,6 @@ description: >
   I would like to read.
 ---
 
-Here you can find the books I'm reading, that I want to read and the ones I've read in the past.
+This is my bookshelf with all books (that I remember!) I read in the past. I also include the ones I want to read or that I'm reading at the moment.
 
 {{< books >}}

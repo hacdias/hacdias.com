@@ -8,6 +8,6 @@ title: Watches
 type: page
 ---
 
-This is an extensive list of movies and TV shows I've watched or I'm watching. Why didn't I include the posters like I did on [/books](/books)? Too many pictures and the page would get slow. Maybe sometime in the future I'll do it with pagination! Some dates _might_ not be correct.
+This is an extensive list of movies and TV shows I've watched or that I'm watching. I use Trakt to record what I watch and I created a [script](https://github.com/hacdias/trakt-collector) to collect that information. Some dates are not be correct.
 
 {{< watches >}}

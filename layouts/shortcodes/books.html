@@ -27,21 +27,27 @@
 {{- $finished := sort (index .Site.Data.reads "finished") "date" "desc"  -}}
 
 <div class="bookshelf">
-  <div class="invert"><p>Reading</p></div>
+  {{- if len $reading -}}
+    <div class="invert"><p>Reading</p></div>
 
-  {{- range $i, $book := $reading -}}
-   {{ partial "books/for.html" . }}
+    {{- range $i, $book := $reading -}}
+    {{ partial "books/for.html" . }}
+    {{- end -}}
   {{- end -}}
 
-  <div class="invert"><p>To Read</p></div>
+  {{- if len $toRead -}}
+    <div class="invert"><p>To Read</p></div>
 
-  {{- range $i, $book := $toRead -}}
-   {{ partial "books/for.html" . }}
+    {{- range $i, $book := $toRead -}}
+    {{ partial "books/for.html" . }}
+    {{- end -}}
   {{- end -}}
 
-  <div class="invert"><p>Finished</p></div>
+  {{- if len $finished -}}
+    <div class="invert"><p>Finished</p></div>
 
-  {{- range $i, $book := $finished -}}
-   {{ partial "books/for.html" . }}
+    {{- range $i, $book := $finished -}}
+    {{ partial "books/for.html" . }}
+    {{- end -}}
   {{- end -}}
 </div>
