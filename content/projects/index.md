@@ -18,9 +18,9 @@ everything else I have done, please check my [GitHub](https://github.com/hacdias
   {{< project title="Testground" desc="Testing decentralized systems." img="testground.jpg" url="http://testground.ai/" >}}
   {{< project title="IPFS Desktop" desc="IPFS official desktop client." img="ipfs-desktop.jpg" url="https://github.com/ipfs-shipyard/ipfs-desktop" >}}
   {{< project title="IPFS Web UI" desc="IPFS management UI." img="ipfs-webui.jpg" url="https://github.com/ipfs-shipyard/ipfs-webui" >}}
-  {{< project title="Upframe" desc="Helping young entrepreneurs." img="upframe.jpg" url="../2017/04/11/01/upframe/" >}}
-  {{< project title="File Browser" desc="Lightweight web file manager." img="filebrowser.jpg" url="../2016/06/10/01/filebrowser/" >}}
-  {{< project title="Caddy Plugins" desc="Adding functionality to Caddy." img="caddy.jpg" url="../2015/09/12/01/caddy-plugins/" >}}
-  {{< project title="Apreda a Programar" desc="C ebook for beginners." img="aprenda-a-programar.jpg" url="../2015/02/25/01/aprenda-a-programar/" >}}
-  {{< project title="Pplware" desc="Largest portuguese tech blog." img="pplware.jpg" url="../2016/09/11/01/pplware/" >}}
+  {{< project title="Upframe" desc="Helping young entrepreneurs." img="upframe.jpg" url="../articles/2017/04/upframe/" >}}
+  {{< project title="File Browser" desc="Lightweight web file manager." img="filebrowser.jpg" url="../articles/2016/06/filebrowser/" >}}
+  {{< project title="Caddy Plugins" desc="Adding functionality to Caddy." img="caddy.jpg" url="../articles/2015/09/caddy-plugins/" >}}
+  {{< project title="Apreda a Programar" desc="C ebook for beginners." img="aprenda-a-programar.jpg" url="../articles/2015/02/aprenda-a-programar/" >}}
+  {{< project title="Pplware" desc="Largest portuguese tech blog." img="pplware.jpg" url="../articles/2016/09/pplware/" >}}
 </div>
