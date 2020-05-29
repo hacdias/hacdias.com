@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Citizenfour",
+      "watched": "2020-05-25T08:56:31.000Z",
+      "url": "https://trakt.tv/movies/citizenfour-2014"
+    },
+    {
       "title": "Terms and Conditions May Apply",
       "watched": "2020-05-21T11:07:42.000Z",
       "url": "https://trakt.tv/movies/terms-and-conditions-may-apply-2013"
@@ -1668,14 +1673,19 @@
   ],
   "series": [
     {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2020-05-16T10:15:57.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+      "title": "Control Z",
+      "watched": "2020-05-28T16:29:15.000Z",
+      "url": "https://trakt.tv/shows/control-z"
     },
     {
       "title": "RuPaul's Drag Race",
-      "watched": "2020-05-16T10:03:14.000Z",
+      "watched": "2020-05-23T13:37:16.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2020-05-16T10:15:57.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
     },
     {
       "title": "How to Get Away with Murder",
