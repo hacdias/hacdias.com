@@ -1,9 +1,0 @@
-{{- $photo := .photo -}}
-{{- $title := printf "%s by %s" .name .author -}}
-{{- with .url -}}<a href="{{ . }}">{{ end }}
-  <picture>
-    <source srcset="https://cdn.hacdias.com/books/t/{{ $photo }}_100x150.webp 100w, https://cdn.hacdias.com/books/t/{{ $photo }}_200x300.webp 200w" type="image/webp">
-    <source srcset="https://cdn.hacdias.com/books/t/{{ $photo }}_100x150.jpeg 100w, https://cdn.hacdias.com/books/t/{{ $photo }}_200x300.jpeg 200w">
-    <img src="https://cdn.hacdias.com/books/t/{{ $photo }}_200x300.jpeg" alt="{{ $title }}" title="{{ $title }}" />
-  </picture>
-{{- with .url -}}</a>{{ end }}

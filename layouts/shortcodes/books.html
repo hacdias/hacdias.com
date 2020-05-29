@@ -1,53 +1,26 @@
-<style>
-.bookshelf {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(70px,1fr));
-  grid-gap: 1rem;
-}
+{{- $toRead := sort (index .Site.Data.reads "to-read") "name" "asc"  -}}
+{{- $reading := sort (index .Site.Data.reads "reading") "name" "asc"  -}}
+{{- $finished := sort (index .Site.Data.reads "finished") "name" "asc"  -}}
 
-.bookshelf > div {
-  background: black;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.bookshelf p {
-  text-transform: uppercase;
-  font-weight: 700;
-  margin: 0;
-  transform: rotate(-45deg);
-}
-</style>
-
-{{- $type := .Get "type" -}}
-{{- $toRead := sort (index .Site.Data.reads "to-read") "date" "desc"  -}}
-{{- $reading := sort (index .Site.Data.reads "reading") "date" "desc"  -}}
-{{- $finished := sort (index .Site.Data.reads "finished") "date" "desc"  -}}
-
-<div class="bookshelf">
-  {{- if len $reading -}}
-    <div class="invert"><p>Reading</p></div>
-
-    {{- range $i, $book := $reading -}}
-    {{ partial "books/for.html" . }}
-    {{- end -}}
+{{ define "reading-block" }}
+<ul>
+  {{- range $i, $book := . -}}
+  <li><a target="_blank" href="https://duckduckgo.com/?q={{ .isbn }}+{{ .name }}">{{ .name }}</a> <small>by {{ .author }}</small></li>
   {{- end -}}
+</ul>
+{{ end }}
 
-  {{- if len $toRead -}}
-    <div class="invert"><p>To Read</p></div>
+{{- if len $toRead -}}
+<h2>To Read</h2>
+{{ template "reading-block" $toRead }}
+{{- end -}}
 
-    {{- range $i, $book := $toRead -}}
-    {{ partial "books/for.html" . }}
-    {{- end -}}
-  {{- end -}}
+{{- if len $reading -}}
+<h2>Reading</h2>
+{{ template "reading-block" $reading }}
+{{- end -}}
 
-  {{- if len $finished -}}
-    <div class="invert"><p>Finished</p></div>
-
-    {{- range $i, $book := $finished -}}
-    {{ partial "books/for.html" . }}
-    {{- end -}}
-  {{- end -}}
-</div>
+{{- if len $finished -}}
+<h2>Finished</h2>
+{{ template "reading-block" $finished }}
+{{- end -}}
