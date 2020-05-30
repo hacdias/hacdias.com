@@ -1673,6 +1673,11 @@
   ],
   "series": [
     {
+      "title": "Champions",
+      "watched": "2020-05-29T20:16:14.000Z",
+      "url": "https://trakt.tv/shows/champions"
+    },
+    {
       "title": "Control Z",
       "watched": "2020-05-28T16:29:15.000Z",
       "url": "https://trakt.tv/shows/control-z"
