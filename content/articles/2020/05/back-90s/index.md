@@ -4,6 +4,8 @@ date: 2020-05-31T22:24:00.000+01:00
 description: >
   Do you remember the old days of the web? Where everyone had their own website,
   made by hand, emanating personality. We should bring that back!
+properties:
+  syndication: 'https://twitter.com/hacdias/status/1267207180698169345'
 tags:
   - ownyourowndata
   - meta
