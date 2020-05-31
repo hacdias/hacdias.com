@@ -1,0 +1,16 @@
+[
+  {
+    "type": "reply",
+    "url": "https://commentpara.de/comment/597.htm",
+    "date": "2020-05-31T12:07:16.000Z",
+    "wm-id": 804301,
+    "content": {
+      "text": "This is a test comment to make sure it works :)"
+    },
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://cdn.hacdias.com/webmentions/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg",
+      "url": ""
+    }
+  }
+]
