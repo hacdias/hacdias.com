@@ -151,9 +151,10 @@ input[type="submit"]:hover {
   display: flex;
 }
 
-/* #footer img {
+#footer img {
   image-rendering: pixelated;
-} */
+  margin-right: 0.25rem;
+}
 
 hr {
   border: 0;
