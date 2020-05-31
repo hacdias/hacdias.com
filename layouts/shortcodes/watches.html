@@ -1,16 +1,10 @@
-{{ define "watches-block" }}
+{{ $type := .Get "type" }}
+{{ $watches := index .Site.Data.watches $type }}
+{{ $year := now.Format "2006" }}
+
 <ul>
-  {{ range $i, $movie := .col }}
+  {{ range $i, $movie := $watches }}
     {{ $watchedYear := dateFormat "2006" $movie.watched }}
-    <li><a target="_blank" rel="noopener noreferrer" href="{{ $movie.url }}">{{ $movie.title }}</a> <small>last watched in {{ if eq $.year $watchedYear }}{{ dateFormat "January" $movie.watched }}{{ else }}{{ dateFormat "2006" $movie.watched }}{{ end }}</small></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="{{ $movie.url }}">{{ $movie.title }}</a> <small>last watched in {{ if eq $year $watchedYear }}{{ dateFormat "January" $movie.watched }}{{ else }}1{{ dateFormat "2006" $movie.watched }} HE{{ end }}</small></li>
   {{ end }}
 </ul>
-{{ end }}
-
-<h2>Series</h2>
-
-{{ template "watches-block" (dict "col" .Site.Data.watches.series "year" (now.Format "2006")) }}
-
-<h2>Movies</h2>
-
-{{ template "watches-block" (dict "col" .Site.Data.watches.movies "year" (now.Format "2006")) }}

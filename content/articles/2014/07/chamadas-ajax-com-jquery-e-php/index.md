@@ -206,4 +206,4 @@ Relembro que todo o código neste artigo é para fins demonstrativos e que para
 
 Depois de guardar o ficheiro, podemos abrir o formulário, preenchê-lo, enviá-lo e ver se tudo foi bem sucedido.
 
-Qualquer dúvida que tenham procurado e não tenham conseguido resolver, não hesitem em perguntar mas nunca se esqueçam: antes de **perguntar**, devem **procurar** e **tentar **porque só assim é que vão realmente compreender a 100% :)
+Qualquer dúvida que tenham procurado e não tenham conseguido resolver, não hesitem em perguntar mas nunca se esqueçam: antes de **perguntar**, devem **procurar** e **tentar** porque só assim é que vão realmente compreender a 100% :)

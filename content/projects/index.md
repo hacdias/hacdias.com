@@ -1,7 +1,7 @@
 ---
 description: >
-  Some projects I've been envolved with, from the most recent to the oldest. If
-  you're curious, check also my GitHub page and my blog posts.
+  A non-exhaustive list of the most impactful and important projects
+  I have been involved with in the past.
 emoji: "\U0001F4E6"
 menu:
   main:
@@ -11,8 +11,7 @@ title: Projects
 type: page
 ---
 
-These are some of the projects I am working on or have worked on in the past. If you're curious about
-everything else I have done, please check my [GitHub](https://github.com/hacdias).
+This is a non-exhaustive show case of some of the most important and impactful projects I have worked on so far. If you're curious about everything else I have done, I am pretty active on my [GitHub](https://github.com/hacdias).
 
 <div class="grid">
   {{< project title="Testground" desc="Testing decentralized systems." img="testground.jpg" url="http://testground.ai/" >}}

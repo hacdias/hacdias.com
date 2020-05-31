@@ -7,11 +7,11 @@ type: page
 
 This is a collection of interesting websites I found on the Internet during my years navigating it. This are more interesting than my browser's bookmarks! The "pinned" section are pinned on [IPFS](https://ipfs.io).
 
-## Pinned
+## 📌 Pinned
 
 {{< pins >}}
 
-## Other
+## 🕸 Other
 
 - [How DNS works](https://howdns.works)
 - [How HTTPS works](https://howhttps.works)

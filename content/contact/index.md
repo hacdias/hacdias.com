@@ -1,10 +1,8 @@
 ---
 type:  page
 title: Contact
+hideMentions: true
 emoji: ✉️
-menu:
-  main:
-    weight: 4
 ---
 
 My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in.
@@ -14,7 +12,7 @@ However, if you want to contact me, here are my preferred ways to do so:
 2. [Twitter (@hacdias)][tw] direct or private message.
 3. [E-mail (mail@hacdias.com)][mail] for longer conversations or if you don't have any of the above.
 
-## PGP Key
+### PGP 🗝
 
 If you want to encrypt any of the messages you send to me, you can find my public
 key directly on this [website][pgp] or on [keybase][keybase]. Here's the fingerprint:

@@ -48,7 +48,8 @@
   {{- $normalize := resources.Get "css/vendor/normalize.css" }}
   {{- $styles := resources.Get "css/styles.css" }}
   {{- $css := slice $normalize $styles | resources.Concat "css/styles.css" | resources.Minify }}
-  <style>{{ $css.Content | safeCSS }}</style>
+  <!-- <style>{{ $css.Content | safeCSS }}</style> -->
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ end }}
 
 {{ if .IsHome }}

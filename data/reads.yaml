@@ -530,6 +530,7 @@ to-read:
     isbn: '9781786495259'
     photo: 19890aef1dc72b41e50dd4674f6d3d1b56988c69a128d7ebf5768aaeb00e6fc6
 reading:
-  - author: Steinmetz, Ralf, Wehrle, Klaus
+  - date: 2020-05-30
+    author: Steinmetz, Ralf, Wehrle, Klaus
     name: Peer-to-Peer Systems and Applications
     isbn: '9783540320470'

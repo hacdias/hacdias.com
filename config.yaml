@@ -41,7 +41,7 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    style: bw
+    style: dracula
 
 mediaTypes:
   application/activity+json:
@@ -63,8 +63,6 @@ outputFormats:
 outputs:
   home:
     - html
-    - jsonfeed
-    - rss
     - redir
     - as2
   section:

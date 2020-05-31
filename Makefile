@@ -22,3 +22,4 @@ build:
 
 watch:
 	hugo server --watch --minify --buildDrafts --path-warnings
+	#hugo server --watch --minify --buildDrafts --path-warnings --baseURL http://192.168.1.90:1313 --bind 0.0.0.0

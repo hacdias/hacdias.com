@@ -1,6 +1,14 @@
 ---
-title: Henrique Dias (@hacdias)
+title: hacdias.com
 ---
+
+<style>
+@media screen and (min-width: 40rem) {
+  body {
+    background: #000 url(space.gif);
+  }
+}
+</style>
 
 <div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
@@ -9,10 +17,43 @@ title: Henrique Dias (@hacdias)
   <a class="u-key" href="/pubkey.txt">public PGP key</a>
 </div>
 
-**Hi!** 👋 I'm Henrique and I'm finishing my Bachelor's degree in Computer Science and Engineering @ [Técnico]. Currently working @ [Protocol Labs] on some of the most fascinating topics on decentralizing the web. Check my [articles] and [micro] interactions!
+# 🧙‍♂️ Henrique Dias
 
-[Técnico]: https://tecnico.ulisboa.pt/
-[Protocol Labs]: https://protocol.ai
-[IPFS]: https://ipfs.io
-[articles]: /articles
-[micro]: /micro
+Hi! 👋 I'm from Portugal 🇵🇹 and I'm now finishing my Bachelor's degree 🎓 in Computer Science and Engineering at [Técnico](https://tecnico.ulisboa.pt/), in Lisbon. Currently, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
+
+I believe in the transparency and openness of the world, in an united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈. If you're interested, you can [read more](/about/) about me.
+
+## ✏️ Writing
+
+This is a list of some of my favorite articles I have written. Check out my [articles](/articles/) page for all the articles I wrote in the past, and check my [micro blog](/micro/) for other smaller interactions.
+
+- [**Life Through Lenses**](/tags/lifethroughlenses/), a saga os posts where I publish some of my favorite pictures I take while traveling or even to the most insignificant thing.
+- [**Analyzing my shows and movie habits**](/articles/2020/02/trakt-analysis/), about how I used Trakt API and some data visualization libraries to analyse how many TV shows and movies I watched.
+- [**Build a dynamic website… or not?**](/articles/2020/01/dynamic-static/), about why or not we should build dynamic websites. What are the advantages and disadvantages?
+- [**We don't own our data, do we?**](/articles/2019/12/own-your-data/), where I decided to write a bit about our data and its ownership on the multiple platforms we use on a daily basis.
+- [**Decentralizing my website with IPFS**](/2019/08/decentralizing-my-website-with-ipfs/), about how to use IPFS and Cloudflare to build a decentralized website and be part of the web3.
+
+## ⏱ Now
+
+This is a quick, automated, summary of what's been happening to me on the past days. Take a look at my [now](/now/) page to know more.
+
+- 📚 {{< latest-read >}}
+- 🎬 The [last movie](/watches/#movies) I watched was **{{< latest-watch type="movies" >}}**.
+- 📺 The [last episode](/watches/#series) I watched was **{{< latest-watch type="series" >}}**.
+- 🛠️ The tools I'm [using](/uses/).
+
+## 📝 Guestbook
+
+Hey, I have a guestbook. If you have something to say, even if it's just an hello, please check out my 90s-style inspired [**guestbook**](/guestbook/)!
+
+## 🥐 Stuff
+
+There's a lot more on this website than the pages linked above. Here is a list of *some* of the pages that you can find on this website. Check these out!
+
+- 🧻 [**Blogroll**](/blogroll/), a list of the blogs and people I follow.
+- ✉️ [**Contact**](/contact/), on how my preferred ways to be contacted.
+- 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
+- 🧲 [**Follow**](/follow/), on how to follow this website.
+- 📌 [**Pins**](/pins/), a collection of interesting websites that I find worth sharing.
+- 📦 [**Projects**](/projects/), the major projects I've worked on.
+- 🏷[**Tags**](/tags/), uh, finding posts by tags.

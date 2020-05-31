@@ -24,16 +24,14 @@
 </style>
 
 <main role='main'>
-  {{- if not .IsHome -}}
   <h1>{{ .Title }}</h1>
-  {{- end -}}
 
   {{- with .Content }}
     <div class='copy'>{{ . }}</div>
   {{- end }}
 
   <div class='articles h-feed'>
-    {{- $pages := (partialCached "get-pages" . .Type .IsHome .Title) -}}
+    {{- $pages := (partialCached "get-pages" . .Type .Title) -}}
     {{- range $pages -}}
     <div class='h-entry'>
       <a class='u-url p-name no-link' href="{{ .RelPermalink }}">{{ .Title }}</a>

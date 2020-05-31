@@ -1,29 +1,38 @@
-body {
+:root {
   --black: #222;
   --dark-gray: #333;
   --gray: #444;
+  --light-gray: #555;
   --light-white: #ddd;
   --near-white: #f4f4f4;
   --white: #ffffff;
   --accent: #4b7bec;
   --accent-darker: #3867d6;
   --accent-text: white;
-  --max-width: 40rem;
+  --fold: 32px;
+  --space: 3rem;
+  --max-width: 46rem;
   --f6: .875rem;
   --f7: .75rem;
+  --shadow: drop-shadow(2px 4px 6px var(--light-gray));
 }
 
 * {
   box-sizing: border-box;
 }
 
+html {
+  min-height: 100%;
+}
+
 body {
   color: var(--dark-gray);
-  background: var(--white);
+  background: var(--black);
   line-height: 1.25;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  padding: var(--space);
   font-family: -apple-system,
     BlinkMacSystemFont,
     avenir next,
@@ -39,12 +48,12 @@ body {
 }
 
 ::-moz-selection {
-  background: var(--accent);
+  background: var(--black);
   color: #fff;
 }
 
 ::selection {
-  background: var(--accent);
+  background: var(--black);
   color: #fff;
 }
 
@@ -52,6 +61,13 @@ svg,
 video,
 img {
   max-width: 100%;
+}
+
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
 }
 
 figure {
@@ -72,13 +88,13 @@ h2 {
 }
 
 a {
-  color: var(--black);
+  color: inherit;
   text-decoration: underline;
   word-wrap: break-word;
 }
 
-a:visited {
-  color: var(--gray);
+a:hover {
+  background: cornsilk;
 }
 
 .no-link,
@@ -88,11 +104,16 @@ a:visited {
   color: inherit;
 }
 
+.no-link:hover {
+  background: none;
+}
+
 .dn {
   display: none !important;
 }
 
-input {
+input,
+textarea {
   padding: .5rem;
   border: 1px solid var(--light-white);
   outline: 0;
@@ -120,39 +141,6 @@ input[type="submit"]:hover {
   border-color: var(--accent);
 }
 
-#header {
-  border-bottom: 1px solid var(--light-white);
-  border-top: 5px solid var(--accent);
-}
-
-#header label,
-#header input {
-  display: none;
-}
-
-#header label {
-  text-align: right;
-}
-
-#header nav {
-  display: flex;
-}
-
-#header a {
-  margin-left: 0.75rem;
-  cursor: pointer;
-}
-
-#header a.a {
-  text-decoration: underline;
-}
-
-#header a:first-of-type {
-  font-weight: bold;
-  margin-right: auto;
-  margin-left: 0;
-}
-
 #footer {
   opacity: 0.5;
   margin-top: 2rem;
@@ -162,6 +150,10 @@ input[type="submit"]:hover {
 #footer > div {
   display: flex;
 }
+
+/* #footer img {
+  image-rendering: pixelated;
+} */
 
 hr {
   border: 0;
@@ -187,7 +179,7 @@ article figure figcaption p {
 }
 
 table {
-  display: block;
+  width: 100%;
   overflow: auto;
   border-collapse: collapse;
 }
@@ -203,7 +195,7 @@ table td {
 }
 
 table tr {
-  background-color: table(--white);
+  background-color: var(--white);
   border-top: 1px solid var(--light-white);;
 }
 
@@ -237,27 +229,48 @@ blockquote {
 
 .highlight > pre,
 .content > pre {
-  background: 0 0!important;
   overflow: auto;
-  padding: 0.5rem;
-  border: 1px solid var(--near-white);
+  border: 0;
+  width: calc(100% + 2 * var(--space));
+  margin-left: calc(var(--space) * -1);
+  padding: var(--space);
+  background: var(--dark-gray) !important;
+  color: var(--white);
 }
 
-#header nav,
+#home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: var(--near-white);
+  height: var(--fold);
+  font-size: var(--f6);
+  padding: calc(var(--fold)/4);
+  line-height: 1;
+  width: 100%;
+  z-index: 99;
+}
+
 .container {
-  width: calc(100% - 3rem);
+  width: 100%;
   max-width: var(--max-width);
-  margin: 1.5rem auto;
   position: relative;
+  padding: 3rem;
+  clip-path: polygon(0 0, calc(100% - var(--fold)) 0, 100% var(--fold), 100% 100%, 0 100%);
+  background: var(--white);
 }
 
-/*
-.container .full {
-  margin: 2em auto;
-  margin-left: calc(50% - 50vw + 2em);
-  margin-right: calc(50% - 50vw + 2em);
-  width: calc(100vw - 4em);
-} */
+.container:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-width: 0 var(--fold) var(--fold) 0;
+  border-style: solid;
+  border-color: var(--light-white) transparent;
+  filter: drop-shadow(1px 1px 2px var(--light-gray));
+  z-index: 999;
+}
 
 .copy ol,
 .copy p,
@@ -283,8 +296,8 @@ blockquote {
 
 .e-entry {
   background-color: var(--near-white);
-  padding: 1rem;
   position: relative;
+  padding: 1rem;
   margin: 1rem 0;
 }
 
@@ -399,27 +412,14 @@ figure.right {
   width: 100%;
 }
 
-/*
-@media screen and (min-width: 60rem) {
-  .container .left {
-    float: left;
-    margin-left: -8rem;
-  }
-
-  .container .right {
-    float: right;
-    margin-right: -8rem;
-  }
-}*/
-
 figure.left {
   float: left;
-  margin: 1rem 1rem 1rem 0;
+  margin-right: 1.5rem;
 }
 
 figure.right {
   float: right;
-  margin: 1rem 0 1rem 1rem;
+  margin-left: 1.5rem;
 }
 
 .grid {
@@ -434,26 +434,28 @@ figure.right {
 }
 
 @media screen and (max-width: 40rem) {
-  #header nav {
-    display: block;
+  :root {
+    --space: 1.5rem;
   }
 
-  #header label a,
-  #header label,
-  #header a {
-    display: block;
-    margin: 0;
-    text-transform: lowercase;
+  body {
+    background: var(--white) !important;
+    filter: none;
   }
 
-  #header input:checked + nav a {
-    display: block;
+  .container {
+    padding: 0;
+    clip-path: none;
+    box-shadow: none;
   }
 
-  #header a {
-    margin-right: 0.5rem;
-    display: none;
-    text-transform: lowercase;
+  .container:before {
+    content: unset;
+  }
+
+  #home::before,
+  #home {
+    position: static;
   }
 
   #footer > div {
@@ -494,47 +496,29 @@ figure.right {
   }
 }
 
-@media not print {
-  .hide-light,
-  #dark .hide-dark {
-    display: none;
-  }
-
-  #dark .hide-light {
-    display: initial;
-  }
-
-  #dark {
-    --black: #fff;
-    --dark-gray: #eee;
-    --gray: #ddd;
-    --light-white: #333333;
-    --near-white: #222222;
-    --white: #121212;
-  }
-
-  #dark img:not([src*=".svg"]) {
-    filter: grayscale(10%);
-  }
-
-  #dark .invert {
-    filter: invert(1);
-  }
-}
-
 @media print {
+  body {
+    background: white !important;
+    filter: none;
+  }
+
   .container {
     width: 100%;
     max-width: 100%;
     margin: 0;
     padding: 0;
+    clip-path: none;
+    box-shadow: none;
+  }
+
+  .container:before {
+    content: unset;
   }
 
   a[href]::after {
     content: " (" attr(href) ")"
   }
 
-  #header,
   #footer,
   .wm {
     display: none;
