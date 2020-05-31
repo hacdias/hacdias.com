@@ -1,6 +1,6 @@
-.PHONY: make-dirs pinata normalize all clean build
+.PHONY: make-dirs pinata normalize all clean build twemoji
 
-all: clean make-dirs pinata normalize
+all: clean make-dirs pinata normalize twemoji
 
 make-dirs:
 	mkdir -p assets/css/vendor
@@ -12,6 +12,9 @@ pinata:
 normalize:
 	wget https://necolas.github.io/normalize.css/8.0.1/normalize.css -O assets/css/vendor/normalize.css
 
+twemoji:
+	wget https://twemoji.maxcdn.com/v/latest/twemoji.min.js -O assets/js/vendor/twemoji.min.js
+
 clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
@@ -22,4 +25,3 @@ build:
 
 watch:
 	hugo server --watch --minify --buildDrafts --path-warnings
-	#hugo server --watch --minify --buildDrafts --path-warnings --baseURL http://192.168.1.90:1313 --bind 0.0.0.0

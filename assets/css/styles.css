@@ -245,7 +245,7 @@ blockquote {
   background: var(--near-white);
   height: var(--fold);
   font-size: var(--f6);
-  padding: calc(var(--fold)/4);
+  padding: 9px;
   line-height: 1;
   width: 100%;
   z-index: 99;

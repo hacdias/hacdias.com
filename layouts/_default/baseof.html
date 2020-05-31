@@ -12,10 +12,13 @@
     {{ partial "footer" . -}}
   </div>
 
-  <!-- <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+  {{ $js := resources.Get "js/vendor/twemoji.min.js" }}
+  {{ $secureJS := $js | resources.Fingerprint "sha512" }}
+  <script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
   <script>twemoji.parse(document.body, {
+    base: 'https://cdn.hacdias.com/emojis/13.0.0/',
     folder: 'svg',
     ext: '.svg'
-  });</script> -->
+  });</script>
 </body>
 </html>
