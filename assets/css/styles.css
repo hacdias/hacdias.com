@@ -440,13 +440,12 @@ figure.right {
 
   body {
     background: var(--white) !important;
-    filter: none;
+    filter: none !important;
   }
 
   .container {
     padding: 0;
     clip-path: none;
-    box-shadow: none;
   }
 
   .container:before {
