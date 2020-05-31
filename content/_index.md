@@ -35,7 +35,7 @@ This is a list of some of my favorite articles I have written. Check out my [art
 
 ## ⏱ Now
 
-This is a quick, automated, summary of what's been happening to me on the past days. Take a look at my [now](/now/) page to know more.
+This is a quick, automated, summary of what's been happening to me on the past days. Take a look at my [**now**](/now/) page to know more.
 
 - 📚 {{< latest-read >}}
 - 🎬 The [last movie](/watches/#movies) I watched was **{{< latest-watch type="movies" >}}**.
@@ -56,4 +56,4 @@ There's a lot more on this website than the pages linked above. Here is a list o
 - 🧲 [**Follow**](/follow/), on how to follow this website.
 - 📌 [**Pins**](/pins/), a collection of interesting websites that I find worth sharing.
 - 📦 [**Projects**](/projects/), the major projects I've worked on.
-- 🏷[**Tags**](/tags/), uh, finding posts by tags.
+- 🏷 [**Tags**](/tags/), uh, finding posts by tags.
