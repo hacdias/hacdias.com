@@ -27,6 +27,7 @@ I believe in the transparency and openness of the world, in an united Europe ðŸ‡
 
 This is a list of some of my favorite articles I have written. Check out my [articles](/articles/) page for all the articles I wrote in the past, and check my [micro blog](/micro/) for other smaller interactions.
 
+- [**Back to the 90s**](/articles/2020/05/back-90s/), about the old web where everyone had their own website made by hand, creatively, emanating personality.
 - [**Life Through Lenses**](/tags/lifethroughlenses/), a saga os posts where I publish some of my favorite pictures I take while traveling or even to the most insignificant thing.
 - [**Analyzing my shows and movie habits**](/articles/2020/02/trakt-analysis/), about how I used Trakt API and some data visualization libraries to analyse how many TV shows and movies I watched.
 - [**Build a dynamic websiteâ€¦ or not?**](/articles/2020/01/dynamic-static/), about why or not we should build dynamic websites. What are the advantages and disadvantages?

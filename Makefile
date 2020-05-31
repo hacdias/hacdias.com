@@ -24,4 +24,4 @@ build:
 	hugo --gc --minify --cleanDestinationDir --path-warnings
 
 watch:
-	hugo server --watch --minify --buildDrafts --path-warnings
+	hugo server --watch --minify --buildFuture --buildDrafts --path-warnings
