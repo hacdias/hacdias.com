@@ -40,6 +40,7 @@
 
   {{ $url := printf "https://quill.p3k.io/?dontask=1&%s" (querify "me" "https://commentpara.de/" "reply" .Permalink) }}
   <div class='copy'>
+    {{ .Content }}
     <p>
       This guestbook is powered by <a href="https://indieweb.org/Webmention" rel="noopener noreferrer" target="_blank">webmentions</a>. If your website doesn't support webmentions or you don't know what that is, you can still <a rel="noopener noreferrer" target="_blank" href="{{ $url }}"><strong>post an entry!</strong></a> Bear in mind that this page may not reflect changes immediately.
     </p>
