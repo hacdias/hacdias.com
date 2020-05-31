@@ -44,7 +44,7 @@ This is a quick, automated, summary of what's been happening to me on the past d
 
 ## 📝 Guestbook
 
-{{< figure src="book.gif" alt="Open Book" class="right" style="max-width: 40px; margin-top: 0;" >}}
+{{< figure src="book.gif" alt="Open Book" class="right pixelated" style="max-width: 60px; margin-top: 0; margin-left: 1rem;" >}}
 
 Hey, I have a guestbook. If you have something to say, even if it's just an hello, please check out my 90s-style inspired [**guestbook**](/guestbook/)!
 

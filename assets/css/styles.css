@@ -152,8 +152,11 @@ input[type="submit"]:hover {
 }
 
 #footer img {
-  image-rendering: pixelated;
   margin-right: 0.25rem;
+}
+
+.pixelated {
+  image-rendering: pixelated;
 }
 
 hr {
