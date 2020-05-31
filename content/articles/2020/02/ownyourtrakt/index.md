@@ -13,7 +13,7 @@ tags:
   - meta
   - movies
   - series
-  - ownyourdata
+  - ownyourowndata
   - indieweb
 title: OwnYourTrakt
 ---

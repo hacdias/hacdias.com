@@ -13,7 +13,7 @@ tags:
   - meta
   - movies
   - series
-  - ownyourdata
+  - ownyourowndata
   - analyse
 title: Analyzing my shows and movie habits
 ---
