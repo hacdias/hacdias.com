@@ -5,4 +5,4 @@ properties:
   syndication: 'https://twitter.com/hacdias/status/1267356723205099520'
 ---
 
-Update: already got one! Thanks @jlelse!
+Update: already got one! Thanks [@jlelse](https://jlelse.blog/)!
