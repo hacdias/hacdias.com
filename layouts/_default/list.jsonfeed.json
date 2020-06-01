@@ -27,7 +27,7 @@
       "summary": {{ .Summary | jsonify }},
       "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
       "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }},
-      "__indieweb": {
+      "_indieweb": {
         "type": "{{ if eq .Section "articles" }}article{{ else if $isReply }}reply{{ else }}note{{ end }}"{{ if $isReply }},
         "in-reply-to": "{{ index .Params.properties "in-reply-to" }}" {{ end }}
       }
