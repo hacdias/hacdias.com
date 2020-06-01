@@ -75,5 +75,56 @@
       "photo": "https://cdn.hacdias.com/webmentions/7349d98cb7d1938e3adfe7111d543882e90e7914a9cc97fb8ab6c2edc5956e9d.jpg",
       "url": "https://twitter.com/malikpiara"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1267207180698169345#favorited-by-9834062",
+    "date": "2020-06-01T04:08:06.000Z",
+    "wm-id": 804549,
+    "author": {
+      "name": "Eric Ronne",
+      "photo": "https://cdn.hacdias.com/webmentions/a160c2c034486f70b0fc885fd33cec19024fd71640b9aad7cba197240ed327d2.jpg",
+      "url": "https://twitter.com/ericronne"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1267207180698169345#favorited-by-799113148238331905",
+    "date": "2020-06-01T05:43:59.000Z",
+    "wm-id": 804570,
+    "author": {
+      "name": "Abdessalam",
+      "photo": "https://cdn.hacdias.com/webmentions/e4e76b858cca8d507823e864cbe281870f5a73583eb28f43b87a527e3df0dfc9.jpg",
+      "url": "https://twitter.com/itsabdessalam"
+    }
+  },
+  {
+    "type": "repost",
+    "url": "https://twitter.com/itsabdessalam/status/1267322319334244352",
+    "date": "2020-06-01T05:09:21.000Z",
+    "wm-id": 804571,
+    "content": {
+      "text": "Just wrote a post about the \"old\" web I didn't have the opportunity to experience and how I'm trying to bring a bit of the #90s vibe to my w"
+    },
+    "author": {
+      "name": "Abdessalam",
+      "photo": "https://cdn.hacdias.com/webmentions/e4e76b858cca8d507823e864cbe281870f5a73583eb28f43b87a527e3df0dfc9.jpg",
+      "url": "https://twitter.com/itsabdessalam"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://jlelse.blog/micro/2020/06/90s-web/",
+    "date": "2020-06-01T05:43:52.000Z",
+    "wm-id": 804572,
+    "content": {
+      "html": "<p>That’s an awesome approach to <a href=\"https://hacdias.com/articles/2020/05/back-90s/\">combine the 90s web with the IndieWeb</a>, Henrique. I really like your new 90s web-inspired website style, well done!</p>",
+      "text": "That’s an awesome approach to combine the 90s web with the IndieWeb, Henrique. I really like your new 90s web-inspired website style, well done!"
+    },
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://cdn.hacdias.com/webmentions/6ba3ad40db26e74cb47cc332c5887d9f15bc5fb7880d87e7e6addda91859e4d3.png",
+      "url": "https://jlelse.dev/"
+    }
   }
 ]
