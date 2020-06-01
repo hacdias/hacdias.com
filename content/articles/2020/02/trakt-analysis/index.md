@@ -82,10 +82,6 @@ Meanwhile, I thought: "what about doing some pseudo-analysis to the data I've be
 all, Trakt's "Year in a Review" feature is for premium users, which I'm not. So I've never been able
 to get yearly statistics.
 
-<small style="cursor:pointer"  class="hide-light" onclick="toggleT('l');">There are graphs below that I find to look better with
-the light theme. Consider changing by clicking on this message. You can revert this
-option on the end (footer) of the page.</small>
-
 I decided to use a library I discovered recently on Hacker News called [`vega-lite`](https://vega.github.io/vega-lite/)
 which allows me to produce beautiful SVGs representing the data. All the code needed to produce the
 figures you'll see below can be found on the [repository](https://github.com/hacdias/trakt-collector/blob/master/bin/analyse.js).
