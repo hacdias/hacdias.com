@@ -82,5 +82,38 @@
       "photo": "https://cdn.hacdias.com/webmentions/4f9ef6e7d9bc095c92c90d0ead66a5301829737f00f5851710a08e99114cb71d.jpg",
       "url": "https://twitter.com/wutafuckinhoe"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1267370752111755264#favorited-by-1058043971027517440",
+    "date": "2020-06-01T11:10:36.000Z",
+    "wm-id": 804622,
+    "author": {
+      "name": "STPHN 🏳️‍🌈",
+      "photo": "https://cdn.hacdias.com/webmentions/e2efd1d859031244d597ca022e7a1ccd9b5da9b6fa3f3630f69585b15245964c.jpg",
+      "url": "https://twitter.com/stphndrt"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1267370752111755264#favorited-by-2587160494",
+    "date": "2020-06-01T11:10:36.000Z",
+    "wm-id": 804623,
+    "author": {
+      "name": "D",
+      "photo": "https://cdn.hacdias.com/webmentions/e44278d903bc9085c0fa7ece8f3cc7cb15640e52b83ce73668d305e9a4518bea.jpg",
+      "url": "https://twitter.com/softboi_dan"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1267370752111755264#favorited-by-3535192156",
+    "date": "2020-06-01T12:02:56.000Z",
+    "wm-id": 804658,
+    "author": {
+      "name": "DUDINHA",
+      "photo": "https://cdn.hacdias.com/webmentions/5441f7df1b59bcc1c7dcc8c81736493d2bbc5b3fa49c1de4d4a79a0712cee617.jpg",
+      "url": "https://twitter.com/CallMeDudinha"
+    }
   }
 ]
