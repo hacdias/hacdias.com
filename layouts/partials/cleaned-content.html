@@ -1,0 +1,4 @@
+{{- $html := htmlUnescape .Content | safeHTML -}}
+{{- $html = $html | replaceRE "href=\"/([^\"]*)\"" ( printf "href=\"%s$1\"" ( "" | absURL ) ) -}}
+{{- $html = $html | replaceRE "src=\"/([^\"]*)\"" ( printf "src=\"%s$1\"" ( "" | absURL ) ) -}}
+{{ return $html }}
