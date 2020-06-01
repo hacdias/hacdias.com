@@ -187,5 +187,16 @@
       "photo": "https://cdn.hacdias.com/webmentions/92396e44fe24c60b71555e4eaf32299610276cf6ce4ebbef030ec74f4530c015.jpg",
       "url": "https://twitter.com/3amphilosopher"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1267370752111755264#favorited-by-14713973",
+    "date": "2020-06-01T17:09:31.000Z",
+    "wm-id": 804724,
+    "author": {
+      "name": "Jessica Schilling",
+      "photo": "https://cdn.hacdias.com/webmentions/3c428ebda4fd8f76f9944bf51f392786aab662805f1703b58e8e2d4227eb444f.jpg",
+      "url": "https://twitter.com/dzesika"
+    }
   }
 ]
