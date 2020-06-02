@@ -32,7 +32,7 @@ This is a list of some of my favorite articles I have written. Check out my [art
 - [**Analyzing my shows and movie habits**](/articles/2020/02/trakt-analysis/), about how I used Trakt API and some data visualization libraries to analyse how many TV shows and movies I watched.
 - [**Build a dynamic website… or not?**](/articles/2020/01/dynamic-static/), about why or not we should build dynamic websites. What are the advantages and disadvantages?
 - [**We don't own our data, do we?**](/articles/2019/12/own-your-data/), where I decided to write a bit about our data and its ownership on the multiple platforms we use on a daily basis.
-- [**Decentralizing my website with IPFS**](/2019/08/decentralizing-my-website-with-ipfs/), about how to use IPFS and Cloudflare to build a decentralized website and be part of the web3.
+- [**Decentralizing my website with IPFS**](/articles/2019/08/decentralizing-my-website-with-ipfs/), about how to use IPFS and Cloudflare to build a decentralized website and be part of the web3.
 
 ## ⏱ Now
 

@@ -89,7 +89,7 @@
     {{ with .Params.properties.syndication -}}
       {{ $arr := partial "must-slice" . }}
       {{ range $arr -}}
-        <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href='{{ . }}'>{{ . }}</a>
+        <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ . }}</a>
       {{ end -}}
     {{ end -}}
 
