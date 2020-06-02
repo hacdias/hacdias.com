@@ -1,0 +1,96 @@
+{
+  "genres": [
+    {
+      "name": "pop",
+      "count": 27,
+      "weight": 10
+    },
+    {
+      "name": "dance pop",
+      "count": 16,
+      "weight": 6
+    },
+    {
+      "name": "post-teen pop",
+      "count": 12,
+      "weight": 4
+    },
+    {
+      "name": "rock",
+      "count": 7,
+      "weight": 3
+    },
+    {
+      "name": "pop rock",
+      "count": 7,
+      "weight": 3
+    },
+    {
+      "name": "europop",
+      "count": 6,
+      "weight": 2
+    },
+    {
+      "name": "mellow gold",
+      "count": 4,
+      "weight": 1
+    },
+    {
+      "name": "soft rock",
+      "count": 4,
+      "weight": 1
+    },
+    {
+      "name": "soundtrack",
+      "count": 3,
+      "weight": 1
+    },
+    {
+      "name": "portuguese pop",
+      "count": 3,
+      "weight": 1
+    }
+  ],
+  "artists": [
+    {
+      "name": "Lady Gaga",
+      "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+    },
+    {
+      "name": "Imagine Dragons",
+      "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+    },
+    {
+      "name": "Sia",
+      "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+    },
+    {
+      "name": "MIKA",
+      "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+    },
+    {
+      "name": "Alexandre Desplat",
+      "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+    },
+    {
+      "name": "Coldplay",
+      "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+    },
+    {
+      "name": "Pink Floyd",
+      "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    {
+      "name": "ABBA",
+      "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+    },
+    {
+      "name": "The Gift",
+      "url": "https://open.spotify.com/artist/3jswqFEYoWlyyLcIsWYWiC"
+    },
+    {
+      "name": "The Script",
+      "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+    }
+  ]
+}

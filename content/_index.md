@@ -41,6 +41,7 @@ This is a quick, automated, summary of what's been happening to me on the past d
 - 📚 {{< latest-read >}}
 - 🎬 The [last movie](/watches/#movies) I watched was **{{< latest-watch type="movies" >}}**.
 - 📺 The [last episode](/watches/#series) I watched was **{{< latest-watch type="series" >}}**.
+- 🎵 The artist I've been [listening](/music/) to the most is **{{< recent-artist >}}**.
 - 🛠️ The tools I'm [using](/uses/).
 
 ## 📝 Guestbook
