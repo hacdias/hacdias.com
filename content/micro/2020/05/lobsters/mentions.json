@@ -13,5 +13,20 @@
       "photo": "https://cdn.hacdias.com/webmentions/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
       "url": ""
     }
+  },
+  {
+    "type": "reply",
+    "url": "https://twitter.com/bixamon/status/1268239059253473280",
+    "date": "2020-06-03T17:52:09.000Z",
+    "wm-id": 805289,
+    "content": {
+      "html": "can you inviting me ?\ni'd like to join <a href=\"http://lobste.rs\">lobste.rs</a>\n\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://lobste.rs/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+      "text": "can you inviting me ?\ni'd like to join lobste.rs"
+    },
+    "author": {
+      "name": "Bi",
+      "photo": "https://cdn.hacdias.com/webmentions/36aa1542bc8301fd68e46475c52dcdf0696bbd1c049d7cc9a70576579b168e99.jpg",
+      "url": "https://twitter.com/bixamon"
+    }
   }
 ]
