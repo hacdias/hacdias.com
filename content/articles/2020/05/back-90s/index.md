@@ -1,5 +1,5 @@
 ---
-title: Back to the 90s
+title: Back to the web of the 90s
 date: 2020-05-31T22:24:00.000+01:00
 description: >
   Do you remember the old days of the web? Where everyone had their own website,
