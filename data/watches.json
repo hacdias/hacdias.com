@@ -1678,8 +1678,18 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race All Stars",
+      "watched": "2020-06-07T15:39:42.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
+    },
+    {
+      "title": "13 Reasons Why",
+      "watched": "2020-06-07T13:56:17.000Z",
+      "url": "https://trakt.tv/shows/13-reasons-why"
+    },
+    {
       "title": "Modern Family",
-      "watched": "2020-06-06T07:01:23.000Z",
+      "watched": "2020-06-07T11:27:04.000Z",
       "url": "https://trakt.tv/shows/modern-family"
     },
     {
@@ -1763,11 +1773,6 @@
       "url": "https://trakt.tv/shows/the-new-pope"
     },
     {
-      "title": "RuPaul's Drag Race All Stars",
-      "watched": "2020-01-25T14:51:26.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
-    },
-    {
       "title": "Sex Education",
       "watched": "2020-01-20T22:44:39.000Z",
       "url": "https://trakt.tv/shows/sex-education"
@@ -1796,11 +1801,6 @@
       "title": "Britain's Busiest Airport: Heathrow",
       "watched": "2019-10-18T00:07:50.000Z",
       "url": "https://trakt.tv/shows/britain-s-busiest-airport-heathrow"
-    },
-    {
-      "title": "13 Reasons Why",
-      "watched": "2019-08-31T12:49:44.000Z",
-      "url": "https://trakt.tv/shows/13-reasons-why"
     },
     {
       "title": "The Handmaid's Tale",
