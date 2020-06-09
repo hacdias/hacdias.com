@@ -54,5 +54,20 @@
       "photo": "https://cdn.hacdias.com/webmentions/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png",
       "url": "https://pointers.dailywebthing.com/author/admin/"
     }
+  },
+  {
+    "type": "mention",
+    "url": "https://pointers.dailywebthing.com/06-09-20/",
+    "date": "2020-06-09T05:17:31.000Z",
+    "wm-id": 808065,
+    "content": {
+      "html": "<ul><li><a title=\"mimi smartypants\" href=\"https://mimismartypants.com/\">mimi smartypants</a></li>\n<li><a title=\"hacdias\" href=\"https://hacdias.com/articles/\">hacdias</a></li>\n<li><a title=\"p5aholic\" href=\"https://p5aholic.me/\">p5aholic</a></li>\n</ul><p><a href=\"https://fed.brid.gy/\"></a>\n</p><p><a href=\"https://pointers.dailywebthing.com/06-09-20/\">https://pointers.dailywebthing.com/06-09-20/</a></p>",
+      "text": "mimi smartypants\nhacdias\np5aholic\n\nhttps://pointers.dailywebthing.com/06-09-20/"
+    },
+    "author": {
+      "name": "joe jenett",
+      "photo": "https://cdn.hacdias.com/webmentions/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png",
+      "url": "https://pointers.dailywebthing.com/author/admin/"
+    }
   }
 ]
