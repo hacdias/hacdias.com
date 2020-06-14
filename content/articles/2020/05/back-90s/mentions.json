@@ -257,5 +257,20 @@
       "photo": "https://cdn.hacdias.com/webmentions/e861d8c2f9c08e0aa66695c248273191ad1bbd5bee895fc30810ba0bf2ce9702.png",
       "url": "https://fosstodon.org/@kev"
     }
+  },
+  {
+    "type": "reply",
+    "url": "https://mas.to/@nemo/104339371347031469",
+    "date": "2020-06-13T23:54:18.000Z",
+    "wm-id": 810260,
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@kev\" class=\"u-url\">@<span>kev</span></a></span> hah cool i also use a thinkpad with PopOS😂 👍</p>\n<a class=\"u-mention\" href=\"https://hacdias.com/articles/2020/05/back-90s/\"></a>",
+      "text": "@kev hah cool i also use a thinkpad with PopOS😂 👍"
+    },
+    "author": {
+      "name": "nemo",
+      "photo": "https://cdn.hacdias.com/webmentions/c702ad6d80c5802dd21d372878316efa52d499b2ad25b14925ff79be3a2ef8b0.png",
+      "url": "https://mas.to/@nemo"
+    }
   }
 ]
