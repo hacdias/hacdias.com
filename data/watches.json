@@ -1678,8 +1678,13 @@
   ],
   "series": [
     {
+      "title": "Modern Family",
+      "watched": "2020-06-14T17:50:44.000Z",
+      "url": "https://trakt.tv/shows/modern-family"
+    },
+    {
       "title": "13 Reasons Why",
-      "watched": "2020-06-13T21:35:35.000Z",
+      "watched": "2020-06-14T11:03:25.000Z",
       "url": "https://trakt.tv/shows/13-reasons-why"
     },
     {
@@ -1691,11 +1696,6 @@
       "title": "RuPaul's Drag Race All Stars",
       "watched": "2020-06-13T08:14:16.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
-    },
-    {
-      "title": "Modern Family",
-      "watched": "2020-06-13T06:57:31.000Z",
-      "url": "https://trakt.tv/shows/modern-family"
     },
     {
       "title": "Champions",
