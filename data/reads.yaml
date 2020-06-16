@@ -479,11 +479,11 @@ finished:
     isbn: '9781847394071'
     rating: 4
     photo: 5786388f8fa0c4a5ab5d8eba24025d1992fa6a7ef9d7de77e155558e68bc16f3
-  #- date: 2018-06-25T23:00:00.000Z
-  #  author: Brian W. Kernighan
-  #  name: The Practice of Programming (Addison-Wesley Professional Computing Series)
-  #  isbn: '9780201615869'
-  #  photo: 71fce4bcdb2b17eb375939813f4a7a28a47804de749293ff9d36bd1f4042e9e3
+  - date: 2018-06-25T23:00:00.000Z
+    author: Brian W. Kernighan
+    name: The Practice of Programming (Addison-Wesley Professional Computing Series)
+    isbn: '0-201-61586-X'
+    photo: 71fce4bcdb2b17eb375939813f4a7a28a47804de749293ff9d36bd1f4042e9e3
   - date: 2020-01-15T00:00:00.000Z
     author: Steve Kinney
     name: Electron in Action
