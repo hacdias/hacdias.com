@@ -1679,8 +1679,13 @@
   "series": [
     {
       "title": "Modern Family",
-      "watched": "2020-06-16T21:18:09.000Z",
+      "watched": "2020-06-17T21:35:07.000Z",
       "url": "https://trakt.tv/shows/modern-family"
+    },
+    {
+      "title": "Love, Victor",
+      "watched": "2020-06-17T13:12:03.000Z",
+      "url": "https://trakt.tv/shows/love-victor"
     },
     {
       "title": "13 Reasons Why",
