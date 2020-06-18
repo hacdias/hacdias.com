@@ -10,21 +10,21 @@
     {
       "date": null,
       "author": "Annabeth Albert",
-      "name": "Conventionally Yours (True Colors, #1)",
+      "name": "Conventionally Yours",
       "isbn": "9781728200293",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Becky Albertalli",
-      "name": "Simon vs. the Homo Sapiens Agenda (Simonverse, #1)",
+      "name": "Simon vs. the Homo Sapiens Agenda",
       "isbn": "9780062348678",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "André Aciman",
-      "name": "Find Me (Call Me By Your Name, #2)",
+      "name": "Find Me",
       "isbn": "9780374155018",
       "rating": "N/A"
     },
@@ -110,7 +110,7 @@
     {
       "date": null,
       "author": "Lois Lowry",
-      "name": "The Giver (The Giver, #1)",
+      "name": "The Giver",
       "isbn": "9780385732550",
       "rating": 5
     },
@@ -166,7 +166,7 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério das Cartas Anónimas (Mistério, #3)",
+      "name": "O Mistério das Cartas Anónimas",
       "isbn": {
         "$": {
           "nil": "true"
@@ -177,7 +177,7 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério da Casa Invisível (Mistério, #6)",
+      "name": "O Mistério da Casa Invisível",
       "isbn": {
         "$": {
           "nil": "true"
@@ -188,7 +188,7 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério do Ladrão Invisível (Mistério, #8)",
+      "name": "O Mistério do Ladrão Invisível",
       "isbn": {
         "$": {
           "nil": "true"
@@ -199,7 +199,7 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério do Príncipe Desaparecido (Mistério, #9)",
+      "name": "O Mistério do Príncipe Desaparecido",
       "isbn": {
         "$": {
           "nil": "true"
@@ -210,7 +210,7 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério do Saco da Roupa (Mistério, #10)",
+      "name": "O Mistério do Saco da Roupa",
       "isbn": {
         "$": {
           "nil": "true"
@@ -239,42 +239,42 @@
     {
       "date": null,
       "author": "Veronica Roth",
-      "name": "Divergente (Divergente, #1)",
+      "name": "Divergente",
       "isbn": "9789720043818",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Veronica Roth",
-      "name": "Insurgente (Divergente, #2)",
+      "name": "Insurgente",
       "isbn": "9789720043825",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Veronica Roth",
-      "name": "Convergente (Divergente, #3)",
+      "name": "Convergente",
       "isbn": "9789720043832",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Caragh M. O'Brien",
-      "name": "Marcados à Nascença (Birthmarked #1)",
+      "name": "Marcados à Nascença",
       "isbn": "9789895015870",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Veronica Roth",
-      "name": "Quatro – Histórias da Série Divergente (Divergente, #0.1 - 0.4)",
+      "name": "Quatro – Histórias da Série Divergente",
       "isbn": "9789720047250",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Caragh M. O'Brien",
-      "name": "Apreciada (Birthmarked, #2)",
+      "name": "Apreciada",
       "isbn": "9789895018987",
       "rating": "N/A"
     },
@@ -288,42 +288,42 @@
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "O Sobrinho do Mágico (As Crónicas de Nárnia, #1)",
+      "name": "O Sobrinho do Mágico",
       "isbn": "9789722329989",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "O Cavalo e o Seu Rapaz (As Crónicas de Nárnia, #3)",
+      "name": "O Cavalo e o Seu Rapaz",
       "isbn": "9789722330558",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "A Viagem do Caminheiro da Alvorada (As Crónicas de Nárnia, #5)",
+      "name": "A Viagem do Caminheiro da Alvorada",
       "isbn": "9789722331326",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "O Príncipe Caspian (As Crónicas de Nárnia, #4)",
+      "name": "O Príncipe Caspian",
       "isbn": "9789722330978",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "A Última Batalha (As Crónicas de Nárnia, #7)",
+      "name": "A Última Batalha",
       "isbn": "9789722332200",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "O Trono de Prata (As Crónicas de Nárnia, #6)",
+      "name": "O Trono de Prata",
       "isbn": "9789722331685",
       "rating": "N/A"
     },
@@ -365,14 +365,14 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério da Gata Desaparecida (Colecção Mistério, #2)",
+      "name": "O Mistério da Gata Desaparecida",
       "isbn": "9789895554607",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério da Casa Queimada (Colecção Mistério, #1)",
+      "name": "O Mistério da Casa Queimada",
       "isbn": "9789895554591",
       "rating": "N/A"
     },
@@ -386,7 +386,7 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério do Quarto Secreto (Colecção Mistério, #3)",
+      "name": "O Mistério do Quarto Secreto",
       "isbn": "9789895554829",
       "rating": "N/A"
     },
@@ -400,21 +400,21 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "Os Cinco na Ilha do Tesouro (Famous Five, #1)",
+      "name": "Os Cinco na Ilha do Tesouro",
       "isbn": "9789895557745",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "Os Cinco e os Contrabandistas (Famous Five, #4)",
+      "name": "Os Cinco e os Contrabandistas",
       "isbn": "9789895558360",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Geronimo Stilton",
-      "name": "Naufrágio na Ilha dos Piratas (Geronimo Stilton #22)",
+      "name": "Naufrágio na Ilha dos Piratas",
       "isbn": "9789722339360",
       "rating": "N/A"
     },
@@ -428,14 +428,14 @@
     {
       "date": null,
       "author": "Geronimo Stilton",
-      "name": "Pânico nos Himalaias (Geronimo Stilton #10)",
+      "name": "Pânico nos Himalaias",
       "isbn": "9789722336390",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Geronimo Stilton",
-      "name": "O Manuscrito Misterioso (Geronimo Stilton #1)",
+      "name": "O Manuscrito Misterioso",
       "isbn": "9789722334723",
       "rating": "N/A"
     },
@@ -463,49 +463,49 @@
     {
       "date": null,
       "author": "Rick Riordan",
-      "name": "O Herói Desaparecido (Os Heróis do Olimpo, #1)",
+      "name": "O Herói Desaparecido",
       "isbn": "9789896574918",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Rick Riordan",
-      "name": "Percy Jackson e a Batalha do Labirinto (Percy Jackson and the Olympians, #4)",
+      "name": "Percy Jackson e a Batalha do Labirinto",
       "isbn": "9789724620855",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Rick Riordan",
-      "name": "Percy Jackson e a Maldição do Titã (Percy Jackson and the Olympians, #3)",
+      "name": "Percy Jackson e a Maldição do Titã",
       "isbn": "9789724620251",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Rick Riordan",
-      "name": "Percy Jackson e o mar dos Monstros (Percy Jackson e os Olimpianos, #2)",
+      "name": "Percy Jackson e o mar dos Monstros",
       "isbn": "9789724622514",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Marion Zimmer Bradley",
-      "name": "A Senhora da Magia (As Brumas de Avalon, #1)",
+      "name": "A Senhora da Magia",
       "isbn": "9789896373986",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Rick Riordan",
-      "name": "Percy Jackson e o Último Olimpiano (Percy Jackson and the Olympians, #5)",
+      "name": "Percy Jackson e o Último Olimpiano",
       "isbn": "9789724622415",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "A Última Gota (O Diário de Um Banana, #3)",
+      "name": "A Última Gota",
       "isbn": "9789896680589",
       "rating": "N/A"
     },
@@ -519,56 +519,56 @@
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "Um Dia de Cão (O Diário de Um Banana, #4)",
+      "name": "Um Dia de Cão",
       "isbn": "9789896680596",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "A Verdade Nua e Crua (O Diário de Um Banana, #5)",
+      "name": "A Verdade Nua e Crua",
       "isbn": "9789897070433",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "O Emplastro (O Diário de um Banana, #7)",
+      "name": "O Emplastro",
       "isbn": "9789897071188",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "Tirem-me Daqui! (O Diário de um Banana, #6)",
+      "name": "Tirem-me Daqui!",
       "isbn": "9789897071102",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Tim    Collins",
-      "name": "Diário de Um Vampiro Banana (Vampiro Banana, #1)",
+      "name": "Diário de Um Vampiro Banana",
       "isbn": "9789898260840",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Tim    Collins",
-      "name": "O Diário de Um Lobisomem Banana (Vampiro Banana, #3)",
+      "name": "O Diário de Um Lobisomem Banana",
       "isbn": "9789897070730",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Tim Collins",
-      "name": "Bananus Maximus (Bananus Maximus, #1)",
+      "name": "Bananus Maximus",
       "isbn": "9789897071140",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Tim    Collins",
-      "name": "Príncipe da Tansilvânia (Vampiro Banana, #2)",
+      "name": "Príncipe da Tansilvânia",
       "isbn": "9789897070211",
       "rating": "N/A"
     },
@@ -701,7 +701,7 @@
     {
       "date": null,
       "author": "Suzanne Collins",
-      "name": "Os Jogos da Fome (Os Jogos da Fome, #1)",
+      "name": "Os Jogos da Fome",
       "isbn": "9789722342391",
       "rating": "N/A"
     },
@@ -743,49 +743,49 @@
     {
       "date": "2017-01-01T08:00:00.000Z",
       "author": "J.K. Rowling",
-      "name": "Harry Potter and the Philosopher's Stone (Harry Potter, #1)",
+      "name": "Harry Potter and the Philosopher's Stone",
       "isbn": "9781408855652",
       "rating": 5
     },
     {
       "date": "2017-01-09T08:00:00.000Z",
       "author": "J.K. Rowling",
-      "name": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+      "name": "Harry Potter and the Chamber of Secrets",
       "isbn": "9781408855669",
       "rating": 5
     },
     {
       "date": "2017-01-14T08:00:00.000Z",
       "author": "J.K. Rowling",
-      "name": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "name": "Harry Potter and the Prisoner of Azkaban",
       "isbn": "9781408855676",
       "rating": 5
     },
     {
       "date": "2017-01-20T08:00:00.000Z",
       "author": "J.K. Rowling",
-      "name": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+      "name": "Harry Potter and the Goblet of Fire",
       "isbn": "9781408855683",
       "rating": 5
     },
     {
       "date": "2017-01-24T08:00:00.000Z",
       "author": "J.K. Rowling",
-      "name": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+      "name": "Harry Potter and the Order of the Phoenix",
       "isbn": "9781408855690",
       "rating": 5
     },
     {
       "date": "2017-01-26T08:00:00.000Z",
       "author": "J.K. Rowling",
-      "name": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+      "name": "Harry Potter and the Half-Blood Prince",
       "isbn": "9781408855706",
       "rating": 5
     },
     {
       "date": "2017-01-29T08:00:00.000Z",
       "author": "J.K. Rowling",
-      "name": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "name": "Harry Potter and the Deathly Hallows",
       "isbn": "9781408855713",
       "rating": 5
     },
@@ -876,21 +876,21 @@
     {
       "date": "2020-01-31T08:00:00.000Z",
       "author": "Lewis Carroll",
-      "name": "Alice's Adventures in Wonderland and Through the Looking-Glass (Alice's Adventures in Wonderland, #1-2)",
+      "name": "Alice's Adventures in Wonderland and Through the Looking-Glass",
       "isbn": "9780141439761",
       "rating": 4
     },
     {
       "date": "2015-02-28T08:00:00.000Z",
       "author": "Jeff Kinney",
-      "name": "O Rodrick é Terrível (O Diário de Um Banana, #2)",
+      "name": "O Rodrick é Terrível",
       "isbn": "9789896680060",
       "rating": "N/A"
     },
     {
       "date": "2015-02-28T08:00:00.000Z",
       "author": "C.S. Lewis",
-      "name": "O Leão, a Feiticeira e o Guarda-Roupa (As Crónicas de Nárnia, #2)",
+      "name": "O Leão, a Feiticeira e o Guarda-Roupa",
       "isbn": "9789722330206",
       "rating": "N/A"
     }
@@ -906,7 +906,7 @@
     {
       "date": "2020-06-17T22:38:49.000Z",
       "author": "André Aciman",
-      "name": "Call Me By Your Name (Call Me By Your Name, #1)",
+      "name": "Call Me By Your Name",
       "isbn": "9781786495259",
       "rating": "N/A"
     }
