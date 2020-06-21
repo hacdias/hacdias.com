@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Feel the Beat",
+      "watched": "2020-06-20T22:02:24.000Z",
+      "url": "https://trakt.tv/movies/feel-the-beat-2020"
+    },
+    {
       "title": "Neighbors",
       "watched": "2020-06-01T21:26:40.000Z",
       "url": "https://trakt.tv/movies/neighbors-2014"
@@ -1679,8 +1684,18 @@
   "series": [
     {
       "title": "Modern Family",
-      "watched": "2020-06-19T21:31:19.000Z",
+      "watched": "2020-06-20T20:12:44.000Z",
       "url": "https://trakt.tv/shows/modern-family"
+    },
+    {
+      "title": "RuPaul's Drag Race All Stars",
+      "watched": "2020-06-20T08:56:41.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
+    },
+    {
+      "title": "RuPaul's Drag Race All Stars: Untucked!",
+      "watched": "2020-06-20T08:56:19.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
     },
     {
       "title": "Love, Victor",
@@ -1691,16 +1706,6 @@
       "title": "13 Reasons Why",
       "watched": "2020-06-14T11:03:25.000Z",
       "url": "https://trakt.tv/shows/13-reasons-why"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars: Untucked!",
-      "watched": "2020-06-13T08:14:31.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars",
-      "watched": "2020-06-13T08:14:16.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
     },
     {
       "title": "Champions",
