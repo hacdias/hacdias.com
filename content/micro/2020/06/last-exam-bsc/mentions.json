@@ -183,5 +183,49 @@
       "photo": "https://cdn.hacdias.com/webmentions/4e91af514b923db3d112d6562de982ffb80b8c3ed5d1f9087beede8065d8cb79.jpg",
       "url": "https://twitter.com/OReiDestaMerdaG"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1275839486061051904#favorited-by-14713973",
+    "date": "2020-06-25T00:06:33.000Z",
+    "wm-id": 814559,
+    "author": {
+      "name": "Jessica Schilling",
+      "photo": "https://cdn.hacdias.com/webmentions/3c428ebda4fd8f76f9944bf51f392786aab662805f1703b58e8e2d4227eb444f.jpg",
+      "url": "https://twitter.com/dzesika"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1275839486061051904#favorited-by-15839929",
+    "date": "2020-06-25T06:42:18.000Z",
+    "wm-id": 814652,
+    "author": {
+      "name": "Jim Pick",
+      "photo": "https://cdn.hacdias.com/webmentions/6a8b902fad6e84042bb5fe06a234020242c1ad04e0b248cc75d06d91445293dc.jpeg",
+      "url": "https://twitter.com/jimpick"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1275839486061051904#favorited-by-1168135695329873921",
+    "date": "2020-06-25T07:32:59.000Z",
+    "wm-id": 814682,
+    "author": {
+      "name": "351 | Portuguese Startup Community",
+      "photo": "https://cdn.hacdias.com/webmentions/22080c425d5df92770cadb456ef21103b4f64c424c51651292012cd08cd232fc.jpg",
+      "url": "https://twitter.com/startup351"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1275839486061051904#favorited-by-22577946",
+    "date": "2020-06-25T18:47:37.000Z",
+    "wm-id": 814870,
+    "author": {
+      "name": "Jenn Turner",
+      "photo": "https://cdn.hacdias.com/webmentions/f499a6a2719a5d54ef3e05aebdb93a8184c90b957cdaebef2e92edab1e3b2756.jpg",
+      "url": "https://twitter.com/jennwrites"
+    }
   }
 ]
