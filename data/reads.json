@@ -2,6 +2,13 @@
   "to-read": [
     {
       "date": null,
+      "author": "R.C. Colaço",
+      "name": "A Conspiração de Atlântida",
+      "isbn": "9789898979520",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
       "author": "Harper Lee",
       "name": "To Kill a Mockingbird",
       "isbn": {
@@ -264,13 +271,6 @@
     {
       "date": null,
       "author": "Veronica Roth",
-      "name": "Convergente",
-      "isbn": "9789720043832",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Veronica Roth",
       "name": "Insurgente",
       "isbn": "9789720043825",
       "rating": "N/A"
@@ -278,8 +278,8 @@
     {
       "date": null,
       "author": "Veronica Roth",
-      "name": "Quatro – Histórias da Série Divergente",
-      "isbn": "9789720047250",
+      "name": "Convergente",
+      "isbn": "9789720043832",
       "rating": "N/A"
     },
     {
@@ -287,6 +287,13 @@
       "author": "Caragh M. O'Brien",
       "name": "Marcados à Nascença",
       "isbn": "9789895015870",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Veronica Roth",
+      "name": "Quatro – Histórias da Série Divergente",
+      "isbn": "9789720047250",
       "rating": "N/A"
     },
     {
@@ -334,15 +341,15 @@
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "A Última Batalha",
-      "isbn": "9789722332200",
+      "name": "O Trono de Prata",
+      "isbn": "9789722331685",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "O Trono de Prata",
-      "isbn": "9789722331685",
+      "name": "A Última Batalha",
+      "isbn": "9789722332200",
       "rating": "N/A"
     },
     {
@@ -355,15 +362,15 @@
     {
       "date": null,
       "author": "John Green",
-      "name": "Cidades de Papel",
-      "isbn": "9789722352925",
+      "name": "O Teorema Katherine",
+      "isbn": "9789892326337",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "John Green",
-      "name": "O Teorema Katherine",
-      "isbn": "9789892326337",
+      "name": "Cidades de Papel",
+      "isbn": "9789722352925",
       "rating": "N/A"
     },
     {
@@ -383,15 +390,15 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério da Gata Desaparecida",
-      "isbn": "9789895554607",
+      "name": "O Mistério da Casa Queimada",
+      "isbn": "9789895554591",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério da Casa Queimada",
-      "isbn": "9789895554591",
+      "name": "O Mistério da Gata Desaparecida",
+      "isbn": "9789895554607",
       "rating": "N/A"
     },
     {
@@ -432,13 +439,6 @@
     {
       "date": null,
       "author": "Geronimo Stilton",
-      "name": "Quatro Ratos no Faroeste!",
-      "isbn": "9789722344968",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Geronimo Stilton",
       "name": "Naufrágio na Ilha dos Piratas",
       "isbn": "9789722339360",
       "rating": "N/A"
@@ -446,8 +446,8 @@
     {
       "date": null,
       "author": "Geronimo Stilton",
-      "name": "Pânico nos Himalaias",
-      "isbn": "9789722336390",
+      "name": "Quatro Ratos no Faroeste!",
+      "isbn": "9789722344968",
       "rating": "N/A"
     },
     {
@@ -455,6 +455,13 @@
       "author": "Geronimo Stilton",
       "name": "O Manuscrito Misterioso",
       "isbn": "9789722334723",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Geronimo Stilton",
+      "name": "Pânico nos Himalaias",
+      "isbn": "9789722336390",
       "rating": "N/A"
     },
     {
@@ -473,13 +480,6 @@
     },
     {
       "date": null,
-      "author": "Sophia de Mello Breyner Andresen",
-      "name": "O Rapaz de Bronze",
-      "isbn": "9789726612032",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
       "author": "Rick Riordan",
       "name": "O Herói Desaparecido",
       "isbn": "9789896574918",
@@ -487,9 +487,9 @@
     },
     {
       "date": null,
-      "author": "Rick Riordan",
-      "name": "Percy Jackson e a Maldição do Titã",
-      "isbn": "9789724620251",
+      "author": "Sophia de Mello Breyner Andresen",
+      "name": "O Rapaz de Bronze",
+      "isbn": "9789726612032",
       "rating": "N/A"
     },
     {
@@ -504,6 +504,13 @@
       "author": "Rick Riordan",
       "name": "Percy Jackson e o mar dos Monstros",
       "isbn": "9789724622514",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Rick Riordan",
+      "name": "Percy Jackson e a Maldição do Titã",
+      "isbn": "9789724620251",
       "rating": "N/A"
     },
     {
@@ -551,22 +558,15 @@
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "Tirem-me Daqui!",
-      "isbn": "9789897071102",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Jeff Kinney",
       "name": "O Emplastro",
       "isbn": "9789897071188",
       "rating": "N/A"
     },
     {
       "date": null,
-      "author": "Tim    Collins",
-      "name": "O Diário de Um Lobisomem Banana",
-      "isbn": "9789897070730",
+      "author": "Jeff Kinney",
+      "name": "Tirem-me Daqui!",
+      "isbn": "9789897071102",
       "rating": "N/A"
     },
     {
@@ -574,6 +574,13 @@
       "author": "Tim    Collins",
       "name": "Diário de Um Vampiro Banana",
       "isbn": "9789898260840",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Tim    Collins",
+      "name": "O Diário de Um Lobisomem Banana",
+      "isbn": "9789897070730",
       "rating": "N/A"
     },
     {
@@ -607,13 +614,6 @@
     {
       "date": null,
       "author": "Ana Maria Magalhães",
-      "name": "Uma Aventura no Bosque",
-      "isbn": "9789722100045",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Ana Maria Magalhães",
       "name": "Uma Aventura entre Douro e Minho",
       "isbn": "9789722100052",
       "rating": "N/A"
@@ -621,8 +621,8 @@
     {
       "date": null,
       "author": "Ana Maria Magalhães",
-      "name": "Uma Aventura no Deserto",
-      "isbn": "9789722100205",
+      "name": "Uma Aventura no Bosque",
+      "isbn": "9789722100045",
       "rating": "N/A"
     },
     {
@@ -630,6 +630,13 @@
       "author": "Ana Maria Magalhães",
       "name": "Uma Aventura em Lisboa",
       "isbn": "9789722100212",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Ana Maria Magalhães",
+      "name": "Uma Aventura no Deserto",
+      "isbn": "9789722100205",
       "rating": "N/A"
     },
     {
@@ -649,15 +656,15 @@
     {
       "date": null,
       "author": "Álvaro Magalhães",
-      "name": "A última noite do mundo",
-      "isbn": "9789892317465",
+      "name": "A Feiticeira de Paris",
+      "isbn": "9789892321011",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Álvaro Magalhães",
-      "name": "A Feiticeira de Paris",
-      "isbn": "9789892321011",
+      "name": "A última noite do mundo",
+      "isbn": "9789892317465",
       "rating": "N/A"
     },
     {
