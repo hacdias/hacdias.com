@@ -1,4 +1,13 @@
 {
+  "currently-reading": [
+    {
+      "date": "2020-07-03T16:10:28.000Z",
+      "author": "Ralf Steinmetz",
+      "name": "Peer-To-Peer Systems and Applications",
+      "isbn": "9783540291923",
+      "rating": "N/A"
+    }
+  ],
   "to-read": [
     {
       "date": null,
@@ -924,15 +933,6 @@
       "author": "C.S. Lewis",
       "name": "O Leão, a Feiticeira e o Guarda-Roupa",
       "isbn": "9789722330206",
-      "rating": "N/A"
-    }
-  ],
-  "currently-reading": [
-    {
-      "date": "2020-06-16T13:45:38.000Z",
-      "author": "Ralf Steinmetz",
-      "name": "Peer-To-Peer Systems and Applications",
-      "isbn": "9783540291923",
       "rating": "N/A"
     }
   ]
