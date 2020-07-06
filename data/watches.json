@@ -1683,8 +1683,23 @@
   ],
   "series": [
     {
+      "title": "The Politician",
+      "watched": "2020-07-05T21:02:39.000Z",
+      "url": "https://trakt.tv/shows/the-politician"
+    },
+    {
+      "title": "RuPaul's Drag Race All Stars: Untucked!",
+      "watched": "2020-07-05T13:06:20.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race All Stars",
+      "watched": "2020-07-05T12:56:26.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
+    },
+    {
       "title": "Warrior Nun",
-      "watched": "2020-07-03T21:44:53.000Z",
+      "watched": "2020-07-05T09:06:46.000Z",
       "url": "https://trakt.tv/shows/warrior-nun"
     },
     {
@@ -1701,16 +1716,6 @@
       "title": "Modern Family",
       "watched": "2020-06-28T09:14:32.000Z",
       "url": "https://trakt.tv/shows/modern-family"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars",
-      "watched": "2020-06-27T09:22:06.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars: Untucked!",
-      "watched": "2020-06-27T09:20:23.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
     },
     {
       "title": "Love, Victor",
