@@ -1684,8 +1684,13 @@
   "series": [
     {
       "title": "The Politician",
-      "watched": "2020-07-06T09:47:36.000Z",
+      "watched": "2020-07-07T16:32:49.000Z",
       "url": "https://trakt.tv/shows/the-politician"
+    },
+    {
+      "title": "Snowpiercer",
+      "watched": "2020-07-07T14:19:04.000Z",
+      "url": "https://trakt.tv/shows/snowpiercer"
     },
     {
       "title": "RuPaul's Drag Race All Stars: Untucked!",
