@@ -1683,6 +1683,11 @@
   ],
   "series": [
     {
+      "title": "The Order",
+      "watched": "2020-07-08T21:26:33.000Z",
+      "url": "https://trakt.tv/shows/the-order"
+    },
+    {
       "title": "The Politician",
       "watched": "2020-07-07T16:32:49.000Z",
       "url": "https://trakt.tv/shows/the-politician"
