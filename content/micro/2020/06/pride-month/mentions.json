@@ -198,5 +198,16 @@
       "photo": "https://cdn.hacdias.com/webmentions/3c428ebda4fd8f76f9944bf51f392786aab662805f1703b58e8e2d4227eb444f.jpg",
       "url": "https://twitter.com/dzesika"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1267370752111755264#favorited-by-1260619666621296640",
+    "date": "2020-07-12T11:05:08.000Z",
+    "wm-id": 825007,
+    "author": {
+      "name": "Nyabazar_education",
+      "photo": "https://cdn.hacdias.com/webmentions/ebb11fa764f44e37c93e19ff5b9b04f6d32664a94a9e916895958541b96ca301.jpg",
+      "url": "https://twitter.com/NyabazarE"
+    }
   }
 ]

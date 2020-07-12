@@ -114,5 +114,16 @@
       "photo": "https://cdn.hacdias.com/webmentions/4d6bd69a13b16e5325e1896ef170c57fd6f8e68ed4cd022a2485271ec6bfae2d.jpg",
       "url": "https://twitter.com/agata_krych"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-1260619666621296640",
+    "date": "2020-07-12T11:05:32.000Z",
+    "wm-id": 825012,
+    "author": {
+      "name": "Nyabazar_education",
+      "photo": "https://cdn.hacdias.com/webmentions/ebb11fa764f44e37c93e19ff5b9b04f6d32664a94a9e916895958541b96ca301.jpg",
+      "url": "https://twitter.com/NyabazarE"
+    }
   }
 ]

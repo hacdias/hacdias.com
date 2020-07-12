@@ -42,5 +42,27 @@
       "photo": "https://cdn.hacdias.com/webmentions/22080c425d5df92770cadb456ef21103b4f64c424c51651292012cd08cd232fc.jpg",
       "url": "https://twitter.com/351network"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1260520602651295744#favorited-by-1260619666621296640",
+    "date": "2020-07-12T11:05:38.000Z",
+    "wm-id": 825013,
+    "author": {
+      "name": "Nyabazar_education",
+      "photo": "https://cdn.hacdias.com/webmentions/ebb11fa764f44e37c93e19ff5b9b04f6d32664a94a9e916895958541b96ca301.jpg",
+      "url": "https://twitter.com/NyabazarE"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1260520601715904512#favorited-by-1260619666621296640",
+    "date": "2020-07-12T11:05:43.000Z",
+    "wm-id": 825014,
+    "author": {
+      "name": "Nyabazar_education",
+      "photo": "https://cdn.hacdias.com/webmentions/ebb11fa764f44e37c93e19ff5b9b04f6d32664a94a9e916895958541b96ca301.jpg",
+      "url": "https://twitter.com/NyabazarE"
+    }
   }
 ]
