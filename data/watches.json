@@ -1688,6 +1688,11 @@
   ],
   "series": [
     {
+      "title": "Snowpiercer",
+      "watched": "2020-07-13T10:15:23.000Z",
+      "url": "https://trakt.tv/shows/snowpiercer"
+    },
+    {
       "title": "The Politician",
       "watched": "2020-07-12T15:36:53.000Z",
       "url": "https://trakt.tv/shows/the-politician"
@@ -1706,11 +1711,6 @@
       "title": "The Order",
       "watched": "2020-07-10T10:48:41.000Z",
       "url": "https://trakt.tv/shows/the-order"
-    },
-    {
-      "title": "Snowpiercer",
-      "watched": "2020-07-07T14:19:04.000Z",
-      "url": "https://trakt.tv/shows/snowpiercer"
     },
     {
       "title": "Warrior Nun",
