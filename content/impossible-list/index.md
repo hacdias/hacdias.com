@@ -25,7 +25,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Finish my master's degree
 - ~~Give a talk~~ (November 2019, [link](/articles/2019/12/quick-dive-into-dweb-ipfs/))
 - Give a talk to more than 100 people
-- Write a book
+- ~~Write a self-published book~~  (February 2015, [link](/2015/02/aprenda-a-programar/))
+- Write a fiction book
 
 ## Skill Goals
 
