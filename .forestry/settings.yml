@@ -1,0 +1,121 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/watches
+  label: Watches
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/uses
+  label: Uses
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tags
+  label: Tags
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/projects
+  label: Projects
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pins
+  label: Pins
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/now
+  label: Now
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/music
+  label: Music
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/micro
+  label: Micro
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/legal
+  label: Legal
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/impossible-list
+  label: Impossible list
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/guestbook
+  label: Guestbook
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/follow
+  label: Follow
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/experiments
+  label: Experiments
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact
+  label: Contact
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/books
+  label: Books
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blogroll
+  label: Blogroll
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/articles
+  label: Articles
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/all
+  label: All
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/about
+  label: About
+  create: all
+  match: "**/*"
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.71.1
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.71.1
