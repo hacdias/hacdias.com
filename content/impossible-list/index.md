@@ -1,8 +1,6 @@
 ---
-date: 2020-07-15T00:00:00.000Z
-properties: {}
-tags: []
 title: Impossible List
+date: 2020-07-15
 ---
 
 <style>
@@ -15,7 +13,7 @@ title: Impossible List
 }
 </style>
 
-This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It is kind of a bucket list, but with a twist. Here's the best explanation I found:
+This is kind of a bucket list, but improved. It's inspired by Thomas Frank and Unjaded Jade's lists. As Thomas said:
 
 > Put simply, the impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. This is mine, which is, of course, ever-evolving. - Thomas Frank
 
@@ -37,34 +35,34 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## Travel & Miscellaneous
 
-- ~~Visit England~~ (April 2017, London)
-  - ~~twice~~ (February 2018, London)
-  - ~~thrice~~ (February 2019, London & Cambridge)
-- ~~Visit Scotland~~ (October 2018, Glasgow)
-- ~~Visit The Netherlands~~ (February 2020, Amsterdam)
-- ~~Visit Costa Rica~~ (November 2019, San Jose & Peninsula Papagayo)
-- ~~Visit Switzerland~~ (December 2019, Zurich & Mountains)
-- ~~Visit Czech Republic~~ (July 2019, Prague)
-- ~~Visit Germany~~ (July 2019, Berlin)
-- ~~Visit Luxembourg~~ (February 2020)
+- Visit Australia
+- Visit Austria
+- ~~Visit Azores~~ (July 2017)
 - ~~Visit Belgium~~ (February 2018, FOSDEM conference)
   - ~~twice~~ (January 2019, FOSDEM conference)
   - ~~thrice~~ (February 2020, Brussels & Antwerp)
 - Visit California, USA
-- Visit New York, USA
-- Visit Yellowstone National Park, USA
-- Visit Japan
-- Visit France
+- ~~Visit Costa Rica~~ (November 2019, San Jose & Peninsula Papagayo)
+- ~~Visit Czech Republic~~ (July 2019, Prague)
 - Visit Denmark
+- ~~Visit England~~ (April 2017, London)
+  - ~~twice~~ (February 2018, London)
+  - ~~thrice~~ (February 2019, London & Cambridge)
+- Visit France
+- ~~Visit Germany~~ (July 2019, Berlin)
+- Visit Greece
 - Visit Iceland
 - Visit Italy
-- Visit Greece
-- Visit some African country
-- Visit Thailand
-- Visit Australia
-- Visit Austria
-- ~~Visit Azores~~ (July 2019)
+- Visit Japan
 - Visit Madeira
+- Visit New York, USA
+- ~~Visit Luxembourg~~ (February 2020)
+- ~~Visit Scotland~~ (October 2018, Glasgow)
+- ~~Visit Switzerland~~ (December 2019, Zurich & Mountains)
+- Visit Thailand
+- ~~Visit The Netherlands~~ (February 2020, Amsterdam)
+- Visit Yellowstone National Park, USA
+- Visit some African country
 - See the Aurora Borealis
 
 ## Life
