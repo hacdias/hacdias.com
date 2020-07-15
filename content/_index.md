@@ -58,6 +58,7 @@ There's a lot more on this website than the pages linked above. Here is a list o
 - ✉️ [**Contact**](/contact/), on how my preferred ways to be contacted.
 - 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
 - 🧲 [**Follow**](/follow/), on how to follow this website.
+- 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
 - 📌 [**Pins**](/pins/), a collection of interesting websites that I find worth sharing.
 - 📦 [**Projects**](/projects/), the major projects I've worked on.
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.

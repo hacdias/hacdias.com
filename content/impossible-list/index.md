@@ -67,5 +67,12 @@ This is kind of a bucket list, but improved. It's inspired by Thomas Frank and U
 
 ## Life
 
+- ~~Start studying Computer Science~~ (September 2017)
 - Live abroad for more than 4 months
 - Help people by volunteering
+- ~~Make my parents fly~~ (July 2019)
+- Study abroad on Master's
+
+## Random
+
+- Drive a subway train
