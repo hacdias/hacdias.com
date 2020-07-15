@@ -15,7 +15,7 @@ title: Impossible List
 }
 </style>
 
-This is kind of a bucket list, but improved. It's inspired by Thomas Frank and Unjaded Jade's lists. As Thomas said:
+This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It is kind of a bucket list, but with a twist. Here's the best explanation I found:
 
 > Put simply, the impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. This is mine, which is, of course, ever-evolving. - Thomas Frank
 
