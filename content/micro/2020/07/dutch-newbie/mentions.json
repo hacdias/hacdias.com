@@ -69,5 +69,35 @@
       "photo": "https://cdn.hacdias.com/webmentions/250e9e9449d7c024daf8563ea895fcf1c48be62cd04373495b132b33d909c5d4.jpg",
       "url": "https://jan.boddez.net/"
     }
+  },
+  {
+    "type": "reply",
+    "url": "https://micro.blog/toddgrotenhuis/9936291",
+    "date": "2020-07-15T03:27:40.000Z",
+    "wm-id": 827038,
+    "content": {
+      "html": "<p><a href=\"https://micro.blog/hacdias\">@hacdias</a> following this conversation...</p>",
+      "text": "@hacdias following this conversation..."
+    },
+    "author": {
+      "name": "toddgrotenhuis",
+      "photo": "https://cdn.hacdias.com/webmentions/7c5040293780eec2dcbbd31550d7affb1696f2f45d7934ac9996040b03bae4a0.png",
+      "url": "https://micro.blog/toddgrotenhuis"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://twitter.com/bexysiggetje/status/1283263188084166656",
+    "date": "2020-07-15T04:52:40.000Z",
+    "wm-id": 827060,
+    "content": {
+      "html": "Veel lezen en het proberen\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>",
+      "text": "Veel lezen en het proberen"
+    },
+    "author": {
+      "name": "Bexysiggetje",
+      "photo": "https://cdn.hacdias.com/webmentions/4aac8bf4353eb89eb1343a181b4857ae81eb652ed19dca6b0775d2420f378c59.jpg",
+      "url": "https://twitter.com/bexysiggetje"
+    }
   }
 ]
