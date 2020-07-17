@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Pitch Perfect 3",
+      "watched": "2020-07-17T13:16:43.000Z",
+      "url": "https://trakt.tv/movies/pitch-perfect-3-2017"
+    },
+    {
       "title": "The F**k-It List",
       "watched": "2020-07-12T19:51:50.000Z",
       "url": "https://trakt.tv/movies/the-f-k-it-list-2020"
@@ -1696,6 +1701,11 @@
       "title": "The Politician",
       "watched": "2020-07-12T15:36:53.000Z",
       "url": "https://trakt.tv/shows/the-politician"
+    },
+    {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2020-07-12T07:00:00.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "RuPaul's Drag Race All Stars: Untucked!",
