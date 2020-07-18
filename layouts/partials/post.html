@@ -61,7 +61,7 @@
     <span>
       {{- if not .Date.IsZero -}}
       <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-        <a href="{{ .RelPermalink }}" class="u-url no-link">{{ printf "%s 1%s HE" (.Date.Format "2 Jan") (.Date.Format "2006") }}</a>
+        <a href="{{ .RelPermalink }}" class="u-url no-link">{{ .Date.Format "2 Jan 2006" }}</a>
       </time>
       {{- end -}}
       {{- with .Section -}}
