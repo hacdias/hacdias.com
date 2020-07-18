@@ -1,96 +1,116 @@
 {
-  "genres": [
-    {
-      "name": "pop",
-      "count": 27,
-      "weight": 10
-    },
-    {
-      "name": "dance pop",
-      "count": 16,
-      "weight": 6
-    },
-    {
-      "name": "post-teen pop",
-      "count": 12,
-      "weight": 4
-    },
-    {
-      "name": "rock",
-      "count": 7,
-      "weight": 3
-    },
-    {
-      "name": "pop rock",
-      "count": 7,
-      "weight": 3
-    },
-    {
-      "name": "europop",
-      "count": 6,
-      "weight": 2
-    },
-    {
-      "name": "mellow gold",
-      "count": 4,
-      "weight": 1
-    },
-    {
-      "name": "soft rock",
-      "count": 4,
-      "weight": 1
-    },
-    {
-      "name": "soundtrack",
-      "count": 3,
-      "weight": 1
-    },
-    {
-      "name": "portuguese pop",
-      "count": 3,
-      "weight": 1
-    }
-  ],
   "artists": [
     {
       "name": "Lady Gaga",
-      "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      "count": 34,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Imagine Dragons",
-      "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+      "name": "Dorian Electra",
+      "count": 22,
+      "url": "https://www.last.fm/music/Dorian+Electra"
+    },
+    {
+      "name": "Mika",
+      "count": 10,
+      "url": "https://www.last.fm/music/Mika"
+    },
+    {
+      "name": "4Taste",
+      "count": 8,
+      "url": "https://www.last.fm/music/4Taste"
     },
     {
       "name": "Sia",
-      "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+      "count": 6,
+      "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "MIKA",
-      "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      "name": "Christiaan Bloo",
+      "count": 5,
+      "url": "https://www.last.fm/music/Christiaan+Bloo"
     },
     {
-      "name": "Alexandre Desplat",
-      "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-    },
-    {
-      "name": "Coldplay",
-      "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-    },
-    {
-      "name": "Pink Floyd",
-      "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-    },
-    {
-      "name": "ABBA",
-      "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+      "name": "David Guetta",
+      "count": 5,
+      "url": "https://www.last.fm/music/David+Guetta"
     },
     {
       "name": "The Gift",
-      "url": "https://open.spotify.com/artist/3jswqFEYoWlyyLcIsWYWiC"
+      "count": 5,
+      "url": "https://www.last.fm/music/The+Gift"
     },
     {
-      "name": "The Script",
-      "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+      "name": "TT",
+      "count": 5,
+      "url": "https://www.last.fm/music/TT"
+    },
+    {
+      "name": "RuPaul",
+      "count": 4,
+      "url": "https://www.last.fm/music/RuPaul"
+    }
+  ],
+  "tracks": [
+    {
+      "name": "Adam & Steve",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Adam+&+Steve",
+      "count": 3,
+      "artist": "Dorian Electra"
+    },
+    {
+      "name": "Desta Vez Eu Não Te Vou Perdoar",
+      "url": "https://www.last.fm/music/4Taste/_/Desta+Vez+Eu+N%C3%A3o+Te+Vou+Perdoar",
+      "count": 2,
+      "artist": "4Taste"
+    },
+    {
+      "name": "Só Tu Podes Alcançar",
+      "url": "https://www.last.fm/music/4Taste/_/S%C3%B3+Tu+Podes+Alcan%C3%A7ar",
+      "count": 2,
+      "artist": "4Taste"
+    },
+    {
+      "name": "When We Were Young",
+      "url": "https://www.last.fm/music/Adele/_/When+We+Were+Young",
+      "count": 2,
+      "artist": "Adele"
+    },
+    {
+      "name": "Amazing",
+      "url": "https://www.last.fm/music/Aerosmith/_/Amazing",
+      "count": 2,
+      "artist": "Aerosmith"
+    },
+    {
+      "name": "A vida faz-me bem",
+      "url": "https://www.last.fm/music/Anjos/_/A+vida+faz-me+bem",
+      "count": 2,
+      "artist": "Anjos"
+    },
+    {
+      "name": "Do I Wanna Know?",
+      "url": "https://www.last.fm/music/Arctic+Monkeys/_/Do+I+Wanna+Know%3F",
+      "count": 2,
+      "artist": "Arctic Monkeys"
+    },
+    {
+      "name": "Now or Never",
+      "url": "https://www.last.fm/music/Blair+St.+Clair/_/Now+or+Never",
+      "count": 2,
+      "artist": "Blair St. Clair"
+    },
+    {
+      "name": "Call Me Maybe",
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
+      "count": 2,
+      "artist": "Carly Rae Jepsen"
+    },
+    {
+      "name": "i finally understand",
+      "url": "https://www.last.fm/music/Charli+XCX/_/i+finally+understand",
+      "count": 2,
+      "artist": "Charli XCX"
     }
   ]
 }
