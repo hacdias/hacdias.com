@@ -17,16 +17,12 @@ body {
 
 {{< figure src="cd.gif" alt="Popcorn" class="left pixelated" style="max-width: 50px; margin-top: 0; margin-right: 1rem" >}}
 
-This is a short summary of my most listened artists and genres 🎶 over the past 4 weeks. I use [Spotify's API](https://developer.spotify.com/documentation/web-api/reference-beta/#category-personalization) to gather the information.
+This is a short summary of my most listened artists and tracks 🎶 over the past week. I use [Last.fm's API](https://www.last.fm/api) to gather the information.
 
-<div class="grid">
-  <div>
-    <h2>Artists</h2>
-    {{< artists >}}
-  </div>
+## Artists
 
-  <div>
-    <h2>Genres</h2>
-    {{< genres >}}
-  </div>
-</div>
+{{< artists >}}
+
+## Tracks
+
+{{< tracks >}}

@@ -1,7 +1,0 @@
-{{ $genres := index .Site.Data.music.genres }}
-
-<ul>
-  {{ range $i, $movie := $genres }}
-    <li>{{ strings.Repeat  .weight "▓" }}{{ strings.Repeat (sub 10 .weight) "░" }} {{ humanize .name }} </li>
-  {{ end }}
-</ul>
