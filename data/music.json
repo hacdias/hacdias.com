@@ -7,7 +7,7 @@
     },
     {
       "name": "Dorian Electra",
-      "count": 22,
+      "count": 31,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
@@ -36,6 +36,11 @@
       "url": "https://www.last.fm/music/David+Guetta"
     },
     {
+      "name": "Sharon Needles",
+      "count": 5,
+      "url": "https://www.last.fm/music/Sharon+Needles"
+    },
+    {
       "name": "The Gift",
       "count": 5,
       "url": "https://www.last.fm/music/The+Gift"
@@ -44,73 +49,68 @@
       "name": "TT",
       "count": 5,
       "url": "https://www.last.fm/music/TT"
-    },
-    {
-      "name": "RuPaul",
-      "count": 4,
-      "url": "https://www.last.fm/music/RuPaul"
     }
   ],
   "tracks": [
     {
       "name": "Adam & Steve",
       "url": "https://www.last.fm/music/Dorian+Electra/_/Adam+&+Steve",
-      "count": 3,
+      "count": 4,
       "artist": "Dorian Electra"
     },
     {
-      "name": "Desta Vez Eu Não Te Vou Perdoar",
-      "url": "https://www.last.fm/music/4Taste/_/Desta+Vez+Eu+N%C3%A3o+Te+Vou+Perdoar",
-      "count": 2,
-      "artist": "4Taste"
-    },
-    {
-      "name": "Só Tu Podes Alcançar",
-      "url": "https://www.last.fm/music/4Taste/_/S%C3%B3+Tu+Podes+Alcan%C3%A7ar",
-      "count": 2,
-      "artist": "4Taste"
-    },
-    {
-      "name": "When We Were Young",
-      "url": "https://www.last.fm/music/Adele/_/When+We+Were+Young",
-      "count": 2,
-      "artist": "Adele"
-    },
-    {
-      "name": "Amazing",
-      "url": "https://www.last.fm/music/Aerosmith/_/Amazing",
-      "count": 2,
-      "artist": "Aerosmith"
-    },
-    {
-      "name": "A vida faz-me bem",
-      "url": "https://www.last.fm/music/Anjos/_/A+vida+faz-me+bem",
-      "count": 2,
-      "artist": "Anjos"
-    },
-    {
-      "name": "Do I Wanna Know?",
-      "url": "https://www.last.fm/music/Arctic+Monkeys/_/Do+I+Wanna+Know%3F",
-      "count": 2,
-      "artist": "Arctic Monkeys"
-    },
-    {
-      "name": "Now or Never",
-      "url": "https://www.last.fm/music/Blair+St.+Clair/_/Now+or+Never",
-      "count": 2,
-      "artist": "Blair St. Clair"
+      "name": "Your Kinda Guy",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Your+Kinda+Guy",
+      "count": 4,
+      "artist": "Dorian Electra"
     },
     {
       "name": "Call Me Maybe",
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
-      "count": 2,
+      "count": 3,
       "artist": "Carly Rae Jepsen"
     },
     {
       "name": "i finally understand",
       "url": "https://www.last.fm/music/Charli+XCX/_/i+finally+understand",
-      "count": 2,
+      "count": 3,
       "artist": "Charli XCX"
+    },
+    {
+      "name": "Career Boy",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Career+Boy",
+      "count": 3,
+      "artist": "Dorian Electra"
+    },
+    {
+      "name": "Flamboyant",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Flamboyant",
+      "count": 3,
+      "artist": "Dorian Electra"
+    },
+    {
+      "name": "Man to Man",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Man+to+Man",
+      "count": 3,
+      "artist": "Dorian Electra"
+    },
+    {
+      "name": "Let You Know",
+      "url": "https://www.last.fm/music/Flume/_/Let+You+Know",
+      "count": 3,
+      "artist": "Flume"
+    },
+    {
+      "name": "Anxious Alien",
+      "url": "https://www.last.fm/music/Hana/_/Anxious+Alien",
+      "count": 3,
+      "artist": "Hana"
+    },
+    {
+      "name": "I Don't Want It at All",
+      "url": "https://www.last.fm/music/Kim+Petras/_/I+Don%27t+Want+It+at+All",
+      "count": 3,
+      "artist": "Kim Petras"
     }
   ]
 }
