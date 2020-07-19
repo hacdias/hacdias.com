@@ -1693,6 +1693,16 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race All Stars: Untucked!",
+      "watched": "2020-07-18T11:25:38.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race All Stars",
+      "watched": "2020-07-18T11:06:02.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
+    },
+    {
       "title": "Snowpiercer",
       "watched": "2020-07-13T10:15:23.000Z",
       "url": "https://trakt.tv/shows/snowpiercer"
@@ -1706,16 +1716,6 @@
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2020-07-12T07:00:00.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars: Untucked!",
-      "watched": "2020-07-11T21:58:12.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars",
-      "watched": "2020-07-11T21:54:25.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
     },
     {
       "title": "The Order",
