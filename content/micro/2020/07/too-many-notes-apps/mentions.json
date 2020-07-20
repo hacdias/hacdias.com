@@ -1,0 +1,17 @@
+[
+  {
+    "type": "like",
+    "url": "https://jan.boddez.net/likes/60588c2db2",
+    "date": "2020-07-20T11:17:05.000Z",
+    "wm-id": 829138,
+    "content": {
+      "html": "<p><i>Liked <a class=\"u-like-of\" href=\"https://hacdias.com/micro/2020/07/too-many-notes-apps/\">https://hacdias.com/micro/2020/07/too-many-notes-apps/</a>.</i></p>",
+      "text": "Liked https://hacdias.com/micro/2020/07/too-many-notes-apps/."
+    },
+    "author": {
+      "name": "Jan Boddez",
+      "photo": "https://cdn.hacdias.com/webmentions/250e9e9449d7c024daf8563ea895fcf1c48be62cd04373495b132b33d909c5d4.jpg",
+      "url": "https://jan.boddez.net/"
+    }
+  }
+]
