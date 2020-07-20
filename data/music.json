@@ -2,13 +2,18 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 47,
+      "count": 60,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Dorian Electra",
       "count": 39,
       "url": "https://www.last.fm/music/Dorian+Electra"
+    },
+    {
+      "name": "Sia",
+      "count": 11,
+      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Mika",
@@ -21,9 +26,9 @@
       "url": "https://www.last.fm/music/4Taste"
     },
     {
-      "name": "Sia",
-      "count": 8,
-      "url": "https://www.last.fm/music/Sia"
+      "name": "Harry Styles",
+      "count": 7,
+      "url": "https://www.last.fm/music/Harry+Styles"
     },
     {
       "name": "Ava Max",
@@ -36,19 +41,14 @@
       "url": "https://www.last.fm/music/Calvin+Harris"
     },
     {
+      "name": "Dua Lipa",
+      "count": 6,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
       "name": "Sharon Needles",
       "count": 6,
       "url": "https://www.last.fm/music/Sharon+Needles"
-    },
-    {
-      "name": "Christiaan Bloo",
-      "count": 5,
-      "url": "https://www.last.fm/music/Christiaan+Bloo"
-    },
-    {
-      "name": "David Guetta",
-      "count": 5,
-      "url": "https://www.last.fm/music/David+Guetta"
     }
   ],
   "tracks": [
