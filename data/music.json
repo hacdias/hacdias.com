@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 60,
+      "count": 81,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Dorian Electra",
-      "count": 39,
+      "count": 41,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
@@ -22,33 +22,33 @@
     },
     {
       "name": "4Taste",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/4Taste"
     },
     {
+      "name": "Above & Beyond",
+      "count": 8,
+      "url": "https://www.last.fm/music/Above+&+Beyond"
+    },
+    {
       "name": "Harry Styles",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Harry+Styles"
     },
     {
+      "name": "The Gift",
+      "count": 8,
+      "url": "https://www.last.fm/music/The+Gift"
+    },
+    {
       "name": "Ava Max",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Ava+Max"
     },
     {
       "name": "Calvin Harris",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Calvin+Harris"
-    },
-    {
-      "name": "Dua Lipa",
-      "count": 6,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
-      "name": "Sharon Needles",
-      "count": 6,
-      "url": "https://www.last.fm/music/Sharon+Needles"
     }
   ],
   "tracks": [
@@ -59,10 +59,34 @@
       "artist": "Dorian Electra"
     },
     {
+      "name": "Career Boy",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Career+Boy",
+      "count": 5,
+      "artist": "Dorian Electra"
+    },
+    {
       "name": "Your Kinda Guy",
       "url": "https://www.last.fm/music/Dorian+Electra/_/Your+Kinda+Guy",
       "count": 5,
       "artist": "Dorian Electra"
+    },
+    {
+      "name": "Let You Know",
+      "url": "https://www.last.fm/music/Flume/_/Let+You+Know",
+      "count": 5,
+      "artist": "Flume"
+    },
+    {
+      "name": "Anxious Alien",
+      "url": "https://www.last.fm/music/Hana/_/Anxious+Alien",
+      "count": 5,
+      "artist": "Hana"
+    },
+    {
+      "name": "Ghost Town",
+      "url": "https://www.last.fm/music/Adam+Lambert/_/Ghost+Town",
+      "count": 4,
+      "artist": "Adam Lambert"
     },
     {
       "name": "Call Me Maybe",
@@ -77,40 +101,16 @@
       "artist": "Charli XCX"
     },
     {
-      "name": "Career Boy",
-      "url": "https://www.last.fm/music/Dorian+Electra/_/Career+Boy",
-      "count": 4,
-      "artist": "Dorian Electra"
-    },
-    {
       "name": "Flamboyant",
       "url": "https://www.last.fm/music/Dorian+Electra/_/Flamboyant",
       "count": 4,
       "artist": "Dorian Electra"
     },
     {
-      "name": "Man to Man",
-      "url": "https://www.last.fm/music/Dorian+Electra/_/Man+to+Man",
+      "name": "Live By the Sword",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Live+By+the+Sword",
       "count": 4,
       "artist": "Dorian Electra"
-    },
-    {
-      "name": "Let You Know",
-      "url": "https://www.last.fm/music/Flume/_/Let+You+Know",
-      "count": 4,
-      "artist": "Flume"
-    },
-    {
-      "name": "Anxious Alien",
-      "url": "https://www.last.fm/music/Hana/_/Anxious+Alien",
-      "count": 4,
-      "artist": "Hana"
-    },
-    {
-      "name": "I Don't Want It at All",
-      "url": "https://www.last.fm/music/Kim+Petras/_/I+Don%27t+Want+It+at+All",
-      "count": 4,
-      "artist": "Kim Petras"
     }
   ]
 }
