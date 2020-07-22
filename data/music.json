@@ -2,18 +2,43 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 81,
+      "count": 124,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Dorian Electra",
-      "count": 41,
+      "count": 49,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "Sia",
-      "count": 11,
+      "count": 12,
       "url": "https://www.last.fm/music/Sia"
+    },
+    {
+      "name": "Harry Styles",
+      "count": 11,
+      "url": "https://www.last.fm/music/Harry+Styles"
+    },
+    {
+      "name": "Marina",
+      "count": 11,
+      "url": "https://www.last.fm/music/Marina"
+    },
+    {
+      "name": "Ava Max",
+      "count": 10,
+      "url": "https://www.last.fm/music/Ava+Max"
+    },
+    {
+      "name": "Calvin Harris",
+      "count": 10,
+      "url": "https://www.last.fm/music/Calvin+Harris"
+    },
+    {
+      "name": "Dua Lipa",
+      "count": 10,
+      "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Mika",
@@ -24,92 +49,67 @@
       "name": "4Taste",
       "count": 9,
       "url": "https://www.last.fm/music/4Taste"
-    },
-    {
-      "name": "Above & Beyond",
-      "count": 8,
-      "url": "https://www.last.fm/music/Above+&+Beyond"
-    },
-    {
-      "name": "Harry Styles",
-      "count": 8,
-      "url": "https://www.last.fm/music/Harry+Styles"
-    },
-    {
-      "name": "The Gift",
-      "count": 8,
-      "url": "https://www.last.fm/music/The+Gift"
-    },
-    {
-      "name": "Ava Max",
-      "count": 7,
-      "url": "https://www.last.fm/music/Ava+Max"
-    },
-    {
-      "name": "Calvin Harris",
-      "count": 7,
-      "url": "https://www.last.fm/music/Calvin+Harris"
     }
   ],
   "tracks": [
     {
       "name": "Adam & Steve",
       "url": "https://www.last.fm/music/Dorian+Electra/_/Adam+&+Steve",
-      "count": 5,
+      "count": 6,
       "artist": "Dorian Electra"
     },
     {
       "name": "Career Boy",
       "url": "https://www.last.fm/music/Dorian+Electra/_/Career+Boy",
-      "count": 5,
+      "count": 6,
       "artist": "Dorian Electra"
     },
     {
       "name": "Your Kinda Guy",
       "url": "https://www.last.fm/music/Dorian+Electra/_/Your+Kinda+Guy",
-      "count": 5,
+      "count": 6,
       "artist": "Dorian Electra"
     },
     {
       "name": "Let You Know",
       "url": "https://www.last.fm/music/Flume/_/Let+You+Know",
-      "count": 5,
+      "count": 6,
       "artist": "Flume"
     },
     {
       "name": "Anxious Alien",
       "url": "https://www.last.fm/music/Hana/_/Anxious+Alien",
-      "count": 5,
+      "count": 6,
       "artist": "Hana"
     },
     {
       "name": "Ghost Town",
       "url": "https://www.last.fm/music/Adam+Lambert/_/Ghost+Town",
-      "count": 4,
+      "count": 5,
       "artist": "Adam Lambert"
+    },
+    {
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
+      "count": 5,
+      "artist": "Calvin Harris"
     },
     {
       "name": "Call Me Maybe",
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
-      "count": 4,
+      "count": 5,
       "artist": "Carly Rae Jepsen"
     },
     {
       "name": "i finally understand",
       "url": "https://www.last.fm/music/Charli+XCX/_/i+finally+understand",
-      "count": 4,
+      "count": 5,
       "artist": "Charli XCX"
     },
     {
       "name": "Flamboyant",
       "url": "https://www.last.fm/music/Dorian+Electra/_/Flamboyant",
-      "count": 4,
-      "artist": "Dorian Electra"
-    },
-    {
-      "name": "Live By the Sword",
-      "url": "https://www.last.fm/music/Dorian+Electra/_/Live+By+the+Sword",
-      "count": 4,
+      "count": 5,
       "artist": "Dorian Electra"
     }
   ]
