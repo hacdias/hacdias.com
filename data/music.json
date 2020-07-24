@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 138,
+      "count": 125,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Dorian Electra",
-      "count": 51,
+      "count": 36,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
@@ -16,9 +16,14 @@
       "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "Harry Styles",
+      "name": "The Barden Bellas",
+      "count": 16,
+      "url": "https://www.last.fm/music/The+Barden+Bellas"
+    },
+    {
+      "name": "Calvin Harris",
       "count": 12,
-      "url": "https://www.last.fm/music/Harry+Styles"
+      "url": "https://www.last.fm/music/Calvin+Harris"
     },
     {
       "name": "Marina",
@@ -26,9 +31,9 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Calvin Harris",
+      "name": "Scott BradLee's Postmodern Jukebox",
       "count": 11,
-      "url": "https://www.last.fm/music/Calvin+Harris"
+      "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
     },
     {
       "name": "Ava Max",
@@ -41,76 +46,71 @@
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
-      "name": "4Taste",
+      "name": "Harry Styles",
       "count": 9,
-      "url": "https://www.last.fm/music/4Taste"
-    },
-    {
-      "name": "Scott BradLee's Postmodern Jukebox",
-      "count": 9,
-      "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
+      "url": "https://www.last.fm/music/Harry+Styles"
     }
   ],
   "tracks": [
     {
-      "name": "Your Kinda Guy",
-      "url": "https://www.last.fm/music/Dorian+Electra/_/Your+Kinda+Guy",
-      "count": 7,
-      "artist": "Dorian Electra"
-    },
-    {
       "name": "Ghost Town",
       "url": "https://www.last.fm/music/Adam+Lambert/_/Ghost+Town",
-      "count": 6,
+      "count": 7,
       "artist": "Adam Lambert"
     },
     {
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
-      "count": 6,
+      "count": 7,
       "artist": "Calvin Harris"
-    },
-    {
-      "name": "Adam & Steve",
-      "url": "https://www.last.fm/music/Dorian+Electra/_/Adam+&+Steve",
-      "count": 6,
-      "artist": "Dorian Electra"
-    },
-    {
-      "name": "Career Boy",
-      "url": "https://www.last.fm/music/Dorian+Electra/_/Career+Boy",
-      "count": 6,
-      "artist": "Dorian Electra"
     },
     {
       "name": "Love The Way You Lie",
       "url": "https://www.last.fm/music/Eminem/_/Love+The+Way+You+Lie",
-      "count": 6,
+      "count": 7,
       "artist": "Eminem"
     },
     {
       "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
       "url": "https://www.last.fm/music/Felix+Jaehn/_/Ain%27t+Nobody+(Loves+Me+Better)+(feat.+Jasmine+Thompson)",
-      "count": 6,
+      "count": 7,
       "artist": "Felix Jaehn"
     },
     {
       "name": "Hot Couture",
       "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture",
-      "count": 6,
+      "count": 7,
       "artist": "Manila Luzon"
+    },
+    {
+      "name": "Bellas Finals: Price Tag/Don’t You (Forget About Me)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around",
+      "url": "https://www.last.fm/music/The+Barden+Bellas/_/Bellas+Finals:+Price+Tag%2FDon%E2%80%99t+You+(Forget+About+Me)%2FGive+Me+Everything%2FJust+The+Way+You+Are%2FParty+In+The+U.S.A.%2FTurn+The+Beat+Around",
+      "count": 7,
+      "artist": "The Barden Bellas"
     },
     {
       "name": "Youngblood",
       "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood",
-      "count": 5,
+      "count": 6,
       "artist": "5 Seconds of Summer"
     },
     {
-      "name": "Call Me Maybe",
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
-      "count": 5,
-      "artist": "Carly Rae Jepsen"
+      "name": "Fly Away",
+      "url": "https://www.last.fm/music/Lenny+Kravitz/_/Fly+Away",
+      "count": 6,
+      "artist": "Lenny Kravitz"
+    },
+    {
+      "name": "La La La",
+      "url": "https://www.last.fm/music/Naughty+Boy/_/La+La+La",
+      "count": 6,
+      "artist": "Naughty Boy"
+    },
+    {
+      "name": "Dead Girls Never Say No",
+      "url": "https://www.last.fm/music/Sharon+Needles/_/Dead+Girls+Never+Say+No",
+      "count": 6,
+      "artist": "Sharon Needles"
     }
   ]
 }
