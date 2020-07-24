@@ -56,5 +56,16 @@
       "photo": "https://cdn.hacdias.com/webmentions/bf8cc100eaa39b6d97e9c3a68f2f91de91ef11ac5decd67ff70bd3b5283c304e.jpg",
       "url": "https://twitter.com/com01evi"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1285866484187697153#favorited-by-22577946",
+    "date": "2020-07-24T03:02:36.000Z",
+    "wm-id": 830493,
+    "author": {
+      "name": "Jenn Turner",
+      "photo": "https://cdn.hacdias.com/webmentions/f499a6a2719a5d54ef3e05aebdb93a8184c90b957cdaebef2e92edab1e3b2756.jpg",
+      "url": "https://twitter.com/jennwrites"
+    }
   }
 ]
