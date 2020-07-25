@@ -22,7 +22,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## Professional Goals
 
-- ~~Finish my bachelor's degree~~ (July, 2020)
+- ~~Finish my bachelor's degree~~ (July 2020)
 - Finish my master's degree
 - ~~Give a talk~~ (November 2019, [link](/articles/2019/12/quick-dive-into-dweb-ipfs/))
 - Give a talk to more than 100 people
