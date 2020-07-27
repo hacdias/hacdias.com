@@ -57,5 +57,27 @@
       "photo": "https://cdn.hacdias.com/webmentions/8c0c3e3472764e00de4a764f3cfa927e5f9b371d4e856c647bcb0d467c19b65f.jpg",
       "url": "https://twitter.com/vascosantos10"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1287367979446009862#favorited-by-799574",
+    "date": "2020-07-27T02:12:01.000Z",
+    "wm-id": 832355,
+    "author": {
+      "name": "dietrich",
+      "photo": "https://cdn.hacdias.com/webmentions/a316694311fc8436d1addf37e984d27726f9ceca11be0e8cd4d46c815c3b6829.jpg",
+      "url": "https://twitter.com/dietrich"
+    }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1287367979446009862#favorited-by-1200082629602824194",
+    "date": "2020-07-27T12:50:28.000Z",
+    "wm-id": 832430,
+    "author": {
+      "name": "Isabel Soares",
+      "photo": "https://cdn.hacdias.com/webmentions/f4d9fb2b35e80c29053b5a42740cd320eade1e6307f4d1d675fb5b76c65a4c95.jpg",
+      "url": "https://twitter.com/isabelsrsoares"
+    }
   }
 ]
