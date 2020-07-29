@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 117,
+      "count": 82,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "name": "Dorian Electra",
-      "count": 33,
+      "count": 26,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "The Barden Bellas",
-      "count": 25,
+      "count": 24,
       "url": "https://www.last.fm/music/The+Barden+Bellas"
     },
     {
@@ -26,90 +26,90 @@
       "url": "https://www.last.fm/music/Taylor+Swift"
     },
     {
-      "name": "Ava Max",
+      "name": "Scott BradLee's Postmodern Jukebox",
       "count": 9,
+      "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
+    },
+    {
+      "name": "Ava Max",
+      "count": 6,
       "url": "https://www.last.fm/music/Ava+Max"
     },
     {
+      "name": "Dave Bixby",
+      "count": 6,
+      "url": "https://www.last.fm/music/Dave+Bixby"
+    },
+    {
       "name": "Dua Lipa",
-      "count": 9,
+      "count": 6,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Calvin Harris",
-      "count": 8,
+      "count": 5,
       "url": "https://www.last.fm/music/Calvin+Harris"
-    },
-    {
-      "name": "Marina",
-      "count": 8,
-      "url": "https://www.last.fm/music/Marina"
-    },
-    {
-      "name": "Scott BradLee's Postmodern Jukebox",
-      "count": 8,
-      "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
     }
   ],
   "tracks": [
     {
       "name": "Bellas Finals: Price Tag/Don’t You (Forget About Me)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around",
       "url": "https://www.last.fm/music/The+Barden+Bellas/_/Bellas+Finals:+Price+Tag%2FDon%E2%80%99t+You+(Forget+About+Me)%2FGive+Me+Everything%2FJust+The+Way+You+Are%2FParty+In+The+U.S.A.%2FTurn+The+Beat+Around",
-      "count": 7,
-      "artist": "The Barden Bellas"
-    },
-    {
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
       "count": 6,
-      "artist": "Calvin Harris"
+      "artist": "The Barden Bellas"
     },
     {
       "name": "Youngblood",
       "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood",
-      "count": 5,
+      "count": 4,
       "artist": "5 Seconds of Summer"
     },
     {
       "name": "Ghost Town",
       "url": "https://www.last.fm/music/Adam+Lambert/_/Ghost+Town",
-      "count": 5,
+      "count": 4,
       "artist": "Adam Lambert"
+    },
+    {
+      "name": "Love Me Wrong",
+      "url": "https://www.last.fm/music/Allie+X/_/Love+Me+Wrong",
+      "count": 4,
+      "artist": "Allie X"
+    },
+    {
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
+      "count": 4,
+      "artist": "Calvin Harris"
     },
     {
       "name": "Call Me Maybe",
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
-      "count": 5,
+      "count": 4,
       "artist": "Carly Rae Jepsen"
+    },
+    {
+      "name": "Your Kinda Guy",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Your+Kinda+Guy",
+      "count": 4,
+      "artist": "Dorian Electra"
     },
     {
       "name": "Love The Way You Lie",
       "url": "https://www.last.fm/music/Eminem/_/Love+The+Way+You+Lie",
-      "count": 5,
+      "count": 4,
       "artist": "Eminem"
     },
     {
       "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
       "url": "https://www.last.fm/music/Felix+Jaehn/_/Ain%27t+Nobody+(Loves+Me+Better)+(feat.+Jasmine+Thompson)",
-      "count": 5,
+      "count": 4,
       "artist": "Felix Jaehn"
     },
     {
       "name": "Alice",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Alice",
-      "count": 5,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "Chromatica I",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Chromatica+I",
-      "count": 5,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "Chromatica II",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Chromatica+II",
-      "count": 5,
+      "count": 4,
       "artist": "Lady Gaga"
     }
   ]
