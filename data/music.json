@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 67,
+      "count": 63,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -11,14 +11,14 @@
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Dorian Electra",
-      "count": 31,
-      "url": "https://www.last.fm/music/Dorian+Electra"
+      "name": "Troye Sivan",
+      "count": 38,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "The Barden Bellas",
-      "count": 23,
-      "url": "https://www.last.fm/music/The+Barden+Bellas"
+      "name": "Dorian Electra",
+      "count": 25,
+      "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "Taylor Swift",
@@ -26,79 +26,43 @@
       "url": "https://www.last.fm/music/Taylor+Swift"
     },
     {
-      "name": "Scott BradLee's Postmodern Jukebox",
-      "count": 9,
-      "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
-    },
-    {
-      "name": "Dua Lipa",
-      "count": 7,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
-      "name": "Ava Max",
-      "count": 6,
-      "url": "https://www.last.fm/music/Ava+Max"
-    },
-    {
-      "name": "Calvin Harris",
-      "count": 6,
-      "url": "https://www.last.fm/music/Calvin+Harris"
+      "name": "The Barden Bellas",
+      "count": 12,
+      "url": "https://www.last.fm/music/The+Barden+Bellas"
     },
     {
       "name": "Carly Rae Jepsen",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
+    },
+    {
+      "name": "Scott BradLee's Postmodern Jukebox",
+      "count": 6,
+      "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
+    },
+    {
+      "name": "Calvin Harris",
+      "count": 5,
+      "url": "https://www.last.fm/music/Calvin+Harris"
+    },
+    {
+      "name": "Naughty Boy",
+      "count": 5,
+      "url": "https://www.last.fm/music/Naughty+Boy"
     }
   ],
   "tracks": [
     {
       "name": "La La La",
       "url": "https://www.last.fm/music/Naughty+Boy/_/La+La+La",
-      "count": 6,
+      "count": 5,
       "artist": "Naughty Boy"
-    },
-    {
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
-      "count": 5,
-      "artist": "Calvin Harris"
-    },
-    {
-      "name": "Call Me Maybe",
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
-      "count": 5,
-      "artist": "Carly Rae Jepsen"
-    },
-    {
-      "name": "Good Time",
-      "url": "https://www.last.fm/music/Owl+City/_/Good+Time",
-      "count": 5,
-      "artist": "Owl City"
     },
     {
       "name": "Papaoutai",
       "url": "https://www.last.fm/music/Stromae/_/Papaoutai",
       "count": 5,
       "artist": "Stromae"
-    },
-    {
-      "name": "Bellas Finals: Price Tag/Don’t You (Forget About Me)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around",
-      "url": "https://www.last.fm/music/The+Barden+Bellas/_/Bellas+Finals:+Price+Tag%2FDon%E2%80%99t+You+(Forget+About+Me)%2FGive+Me+Everything%2FJust+The+Way+You+Are%2FParty+In+The+U.S.A.%2FTurn+The+Beat+Around",
-      "count": 5,
-      "artist": "The Barden Bellas"
-    },
-    {
-      "name": "Youngblood",
-      "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood",
-      "count": 4,
-      "artist": "5 Seconds of Summer"
-    },
-    {
-      "name": "Ghost Town",
-      "url": "https://www.last.fm/music/Adam+Lambert/_/Ghost+Town",
-      "count": 4,
-      "artist": "Adam Lambert"
     },
     {
       "name": "That's So Us",
@@ -111,6 +75,42 @@
       "url": "https://www.last.fm/music/Calum+Scott/_/Dancing+On+My+Own",
       "count": 4,
       "artist": "Calum Scott"
+    },
+    {
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
+      "count": 4,
+      "artist": "Calvin Harris"
+    },
+    {
+      "name": "Call Me Maybe",
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
+      "count": 4,
+      "artist": "Carly Rae Jepsen"
+    },
+    {
+      "name": "Your Kinda Guy",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Your+Kinda+Guy",
+      "count": 4,
+      "artist": "Dorian Electra"
+    },
+    {
+      "name": "Good Time",
+      "url": "https://www.last.fm/music/Owl+City/_/Good+Time",
+      "count": 4,
+      "artist": "Owl City"
+    },
+    {
+      "name": "Easy",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
+      "count": 4,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Youngblood",
+      "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood",
+      "count": 3,
+      "artist": "5 Seconds of Summer"
     }
   ]
 }
