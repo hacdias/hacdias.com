@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 63,
+      "count": 62,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Troye Sivan",
-      "count": 38,
+      "count": 40,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
@@ -21,19 +21,19 @@
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
-      "name": "Taylor Swift",
-      "count": 22,
-      "url": "https://www.last.fm/music/Taylor+Swift"
-    },
-    {
-      "name": "The Barden Bellas",
-      "count": 12,
-      "url": "https://www.last.fm/music/The+Barden+Bellas"
-    },
-    {
       "name": "Carly Rae Jepsen",
       "count": 7,
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
+    },
+    {
+      "name": "Taylor Swift",
+      "count": 7,
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    {
+      "name": "Calvin Harris",
+      "count": 6,
+      "url": "https://www.last.fm/music/Calvin+Harris"
     },
     {
       "name": "Scott BradLee's Postmodern Jukebox",
@@ -41,17 +41,23 @@
       "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
     },
     {
-      "name": "Calvin Harris",
-      "count": 5,
-      "url": "https://www.last.fm/music/Calvin+Harris"
-    },
-    {
       "name": "Naughty Boy",
       "count": 5,
       "url": "https://www.last.fm/music/Naughty+Boy"
+    },
+    {
+      "name": "Stromae",
+      "count": 5,
+      "url": "https://www.last.fm/music/Stromae"
     }
   ],
   "tracks": [
+    {
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
+      "count": 5,
+      "artist": "Calvin Harris"
+    },
     {
       "name": "La La La",
       "url": "https://www.last.fm/music/Naughty+Boy/_/La+La+La",
@@ -77,12 +83,6 @@
       "artist": "Calum Scott"
     },
     {
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
-      "count": 4,
-      "artist": "Calvin Harris"
-    },
-    {
       "name": "Call Me Maybe",
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
       "count": 4,
@@ -95,22 +95,22 @@
       "artist": "Dorian Electra"
     },
     {
+      "name": "Alice",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Alice",
+      "count": 4,
+      "artist": "Lady Gaga"
+    },
+    {
+      "name": "Chromatica I",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Chromatica+I",
+      "count": 4,
+      "artist": "Lady Gaga"
+    },
+    {
       "name": "Good Time",
       "url": "https://www.last.fm/music/Owl+City/_/Good+Time",
       "count": 4,
       "artist": "Owl City"
-    },
-    {
-      "name": "Easy",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 4,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Youngblood",
-      "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood",
-      "count": 3,
-      "artist": "5 Seconds of Summer"
     }
   ]
 }
