@@ -1,8 +1,13 @@
 {
   "artists": [
     {
+      "name": "Troye Sivan",
+      "count": 78,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
       "name": "Lady Gaga",
-      "count": 62,
+      "count": 63,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -11,19 +16,19 @@
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Troye Sivan",
-      "count": 40,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
       "name": "Dorian Electra",
       "count": 25,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "Carly Rae Jepsen",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
+    },
+    {
+      "name": "Robyn",
+      "count": 7,
+      "url": "https://www.last.fm/music/Robyn"
     },
     {
       "name": "Taylor Swift",
@@ -41,22 +46,59 @@
       "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
     },
     {
-      "name": "Naughty Boy",
+      "name": "Calum Scott",
       "count": 5,
-      "url": "https://www.last.fm/music/Naughty+Boy"
-    },
-    {
-      "name": "Stromae",
-      "count": 5,
-      "url": "https://www.last.fm/music/Stromae"
+      "url": "https://www.last.fm/music/Calum+Scott"
     }
   ],
   "tracks": [
+    {
+      "name": "Easy",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
+      "count": 8,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Animal",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Animal",
+      "count": 6,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "TALK ME DOWN",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/TALK+ME+DOWN",
+      "count": 6,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Dancing On My Own",
+      "url": "https://www.last.fm/music/Calum+Scott/_/Dancing+On+My+Own",
+      "count": 5,
+      "artist": "Calum Scott"
+    },
     {
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
       "count": 5,
       "artist": "Calvin Harris"
+    },
+    {
+      "name": "Alice",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Alice",
+      "count": 5,
+      "artist": "Lady Gaga"
+    },
+    {
+      "name": "Chromatica I",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Chromatica+I",
+      "count": 5,
+      "artist": "Lady Gaga"
+    },
+    {
+      "name": "Rain on Me (with Ariana Grande)",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Rain+on+Me+(with+Ariana+Grande)",
+      "count": 5,
+      "artist": "Lady Gaga"
     },
     {
       "name": "La La La",
@@ -69,48 +111,6 @@
       "url": "https://www.last.fm/music/Stromae/_/Papaoutai",
       "count": 5,
       "artist": "Stromae"
-    },
-    {
-      "name": "That's So Us",
-      "url": "https://www.last.fm/music/Allie+X/_/That%27s+So+Us",
-      "count": 4,
-      "artist": "Allie X"
-    },
-    {
-      "name": "Dancing On My Own",
-      "url": "https://www.last.fm/music/Calum+Scott/_/Dancing+On+My+Own",
-      "count": 4,
-      "artist": "Calum Scott"
-    },
-    {
-      "name": "Call Me Maybe",
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
-      "count": 4,
-      "artist": "Carly Rae Jepsen"
-    },
-    {
-      "name": "Your Kinda Guy",
-      "url": "https://www.last.fm/music/Dorian+Electra/_/Your+Kinda+Guy",
-      "count": 4,
-      "artist": "Dorian Electra"
-    },
-    {
-      "name": "Alice",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Alice",
-      "count": 4,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "Chromatica I",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Chromatica+I",
-      "count": 4,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "Good Time",
-      "url": "https://www.last.fm/music/Owl+City/_/Good+Time",
-      "count": 4,
-      "artist": "Owl City"
     }
   ]
 }
