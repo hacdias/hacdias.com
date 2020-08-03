@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 78,
+      "count": 96,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Lady Gaga",
-      "count": 63,
+      "count": 48,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -19,6 +19,16 @@
       "name": "Dorian Electra",
       "count": 25,
       "url": "https://www.last.fm/music/Dorian+Electra"
+    },
+    {
+      "name": "Alexandre Desplat",
+      "count": 19,
+      "url": "https://www.last.fm/music/Alexandre+Desplat"
+    },
+    {
+      "name": "Bli",
+      "count": 12,
+      "url": "https://www.last.fm/music/Bli"
     },
     {
       "name": "Carly Rae Jepsen",
@@ -36,37 +46,45 @@
       "url": "https://www.last.fm/music/Taylor+Swift"
     },
     {
-      "name": "Calvin Harris",
+      "name": "Lost Frequencies",
       "count": 6,
-      "url": "https://www.last.fm/music/Calvin+Harris"
-    },
-    {
-      "name": "Scott BradLee's Postmodern Jukebox",
-      "count": 6,
-      "url": "https://www.last.fm/music/Scott+BradLee%27s+Postmodern+Jukebox"
-    },
-    {
-      "name": "Calum Scott",
-      "count": 5,
-      "url": "https://www.last.fm/music/Calum+Scott"
+      "url": "https://www.last.fm/music/Lost+Frequencies"
     }
   ],
   "tracks": [
     {
       "name": "Easy",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 8,
+      "count": 11,
       "artist": "Troye Sivan"
     },
     {
       "name": "Animal",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Animal",
-      "count": 6,
+      "count": 8,
       "artist": "Troye Sivan"
     },
     {
       "name": "TALK ME DOWN",
       "url": "https://www.last.fm/music/Troye+Sivan/_/TALK+ME+DOWN",
+      "count": 8,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Lucky Strike",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
+      "count": 7,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Take Yourself Home",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
+      "count": 6,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "WILD",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/WILD",
       "count": 6,
       "artist": "Troye Sivan"
     },
@@ -77,40 +95,22 @@
       "artist": "Calum Scott"
     },
     {
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
+      "name": "BITE",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/BITE",
       "count": 5,
-      "artist": "Calvin Harris"
+      "artist": "Troye Sivan"
     },
     {
-      "name": "Alice",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Alice",
-      "count": 5,
-      "artist": "Lady Gaga"
+      "name": "That's So Us",
+      "url": "https://www.last.fm/music/Allie+X/_/That%27s+So+Us",
+      "count": 4,
+      "artist": "Allie X"
     },
     {
-      "name": "Chromatica I",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Chromatica+I",
-      "count": 5,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "Rain on Me (with Ariana Grande)",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Rain+on+Me+(with+Ariana+Grande)",
-      "count": 5,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "La La La",
-      "url": "https://www.last.fm/music/Naughty+Boy/_/La+La+La",
-      "count": 5,
-      "artist": "Naughty Boy"
-    },
-    {
-      "name": "Papaoutai",
-      "url": "https://www.last.fm/music/Stromae/_/Papaoutai",
-      "count": 5,
-      "artist": "Stromae"
+      "name": "Call Me Maybe",
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
+      "count": 4,
+      "artist": "Carly Rae Jepsen"
     }
   ]
 }
