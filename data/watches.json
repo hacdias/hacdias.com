@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "The Old Guard",
+      "watched": "2020-08-02T21:52:23.000Z",
+      "url": "https://trakt.tv/movies/the-old-guard-2020"
+    },
+    {
       "title": "Pitch Perfect 3",
       "watched": "2020-07-17T13:16:43.000Z",
       "url": "https://trakt.tv/movies/pitch-perfect-3-2017"
