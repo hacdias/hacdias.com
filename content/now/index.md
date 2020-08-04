@@ -1,5 +1,5 @@
 ---
-date: 2020-07-24T00:00:00.000Z
+date: 2020-08-04T00:00:00.000Z
 description: >
   This is a simple page for me to join the nownownow movement. You can find
   information about what I'm doing at the moment and some other curious
@@ -22,11 +22,8 @@ Due to the Covid-19 pandemic, lockdowns and university closures, I'm now staying
 
 Here's a small list of things I'm doing _right now_ by no particular order:
 
-- Improving this website.
-- Learning more about photography.
-- Working on the decentralized web.
-- Recovering from a tonsillectomy.
-- Arranging my move to the Netherlands.
-- Trying to learn a tiny bit of Dutch.
+- Working on the future of the web.
+- Moving to the Netherlands.
+- Learning Dutch.
 
 <!-- <small>The GIF above is sourced from [pinclipart.com](https://www.pinclipart.com/maxpin/bohRbo/).</small> -->
