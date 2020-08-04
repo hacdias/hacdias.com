@@ -2,22 +2,17 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 96,
+      "count": 103,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Lady Gaga",
-      "count": 48,
+      "count": 41,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Allie X",
-      "count": 43,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
       "name": "Dorian Electra",
-      "count": 25,
+      "count": 21,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
@@ -31,36 +26,47 @@
       "url": "https://www.last.fm/music/Bli"
     },
     {
-      "name": "Carly Rae Jepsen",
-      "count": 8,
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
-    },
-    {
       "name": "Robyn",
-      "count": 7,
+      "count": 10,
       "url": "https://www.last.fm/music/Robyn"
     },
     {
-      "name": "Taylor Swift",
-      "count": 7,
-      "url": "https://www.last.fm/music/Taylor+Swift"
+      "name": "Lost Frequencies",
+      "count": 9,
+      "url": "https://www.last.fm/music/Lost+Frequencies"
     },
     {
-      "name": "Lost Frequencies",
-      "count": 6,
-      "url": "https://www.last.fm/music/Lost+Frequencies"
+      "name": "Benny",
+      "count": 7,
+      "url": "https://www.last.fm/music/Benny"
+    },
+    {
+      "name": "Carly Rae Jepsen",
+      "count": 7,
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
+    },
+    {
+      "name": "Alec Benjamin",
+      "count": 5,
+      "url": "https://www.last.fm/music/Alec+Benjamin"
     }
   ],
   "tracks": [
     {
       "name": "Easy",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 11,
+      "count": 13,
       "artist": "Troye Sivan"
     },
     {
       "name": "Animal",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Animal",
+      "count": 8,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Lucky Strike",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
       "count": 8,
       "artist": "Troye Sivan"
     },
@@ -71,28 +77,16 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Lucky Strike",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
-      "count": 7,
-      "artist": "Troye Sivan"
-    },
-    {
       "name": "Take Yourself Home",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
-      "count": 6,
+      "count": 7,
       "artist": "Troye Sivan"
     },
     {
       "name": "WILD",
       "url": "https://www.last.fm/music/Troye+Sivan/_/WILD",
-      "count": 6,
+      "count": 7,
       "artist": "Troye Sivan"
-    },
-    {
-      "name": "Dancing On My Own",
-      "url": "https://www.last.fm/music/Calum+Scott/_/Dancing+On+My+Own",
-      "count": 5,
-      "artist": "Calum Scott"
     },
     {
       "name": "BITE",
@@ -101,16 +95,22 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "That's So Us",
-      "url": "https://www.last.fm/music/Allie+X/_/That%27s+So+Us",
+      "name": "Live By the Sword",
+      "url": "https://www.last.fm/music/Dorian+Electra/_/Live+By+the+Sword",
       "count": 4,
-      "artist": "Allie X"
+      "artist": "Dorian Electra"
     },
     {
-      "name": "Call Me Maybe",
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
+      "name": "Dear Future Husband",
+      "url": "https://www.last.fm/music/Meghan+Trainor/_/Dear+Future+Husband",
       "count": 4,
-      "artist": "Carly Rae Jepsen"
+      "artist": "Meghan Trainor"
+    },
+    {
+      "name": "FOOLS",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/FOOLS",
+      "count": 4,
+      "artist": "Troye Sivan"
     }
   ]
 }
