@@ -2,23 +2,18 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 105,
+      "count": 139,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Bli",
-      "count": 53,
+      "count": 63,
       "url": "https://www.last.fm/music/Bli"
     },
     {
       "name": "Lady Gaga",
-      "count": 34,
+      "count": 36,
       "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Dorian Electra",
-      "count": 20,
-      "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "Alexandre Desplat",
@@ -27,27 +22,32 @@
     },
     {
       "name": "Lost Frequencies",
-      "count": 12,
+      "count": 18,
       "url": "https://www.last.fm/music/Lost+Frequencies"
     },
     {
       "name": "Robyn",
-      "count": 11,
+      "count": 13,
       "url": "https://www.last.fm/music/Robyn"
     },
     {
+      "name": "Dorian Electra",
+      "count": 12,
+      "url": "https://www.last.fm/music/Dorian+Electra"
+    },
+    {
+      "name": "Allie X",
+      "count": 11,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
       "name": "Benny",
-      "count": 8,
+      "count": 11,
       "url": "https://www.last.fm/music/Benny"
     },
     {
-      "name": "Carly Rae Jepsen",
-      "count": 7,
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
-    },
-    {
       "name": "Alec Benjamin",
-      "count": 6,
+      "count": 8,
       "url": "https://www.last.fm/music/Alec+Benjamin"
     }
   ],
@@ -55,62 +55,62 @@
     {
       "name": "Easy",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 14,
+      "count": 21,
       "artist": "Troye Sivan"
     },
     {
       "name": "Doomscrolling - BLI Edit",
       "url": "https://www.last.fm/music/Bli/_/Doomscrolling+-+BLI+Edit",
-      "count": 10,
+      "count": 12,
       "artist": "Bli"
     },
     {
-      "name": "Animal",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Animal",
-      "count": 8,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Lucky Strike",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
-      "count": 8,
+      "name": "Take Yourself Home",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
+      "count": 12,
       "artist": "Troye Sivan"
     },
     {
       "name": "TALK ME DOWN",
       "url": "https://www.last.fm/music/Troye+Sivan/_/TALK+ME+DOWN",
-      "count": 8,
+      "count": 11,
       "artist": "Troye Sivan"
     },
     {
-      "name": "Take Yourself Home",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
-      "count": 7,
+      "name": "Animal",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Animal",
+      "count": 10,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Lucky Strike",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
+      "count": 10,
       "artist": "Troye Sivan"
     },
     {
       "name": "WILD",
       "url": "https://www.last.fm/music/Troye+Sivan/_/WILD",
-      "count": 7,
+      "count": 9,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "Ekphrasis",
+      "url": "https://www.last.fm/music/Bli/_/Ekphrasis",
+      "count": 8,
+      "artist": "Bli"
     },
     {
       "name": "Lonely",
       "url": "https://www.last.fm/music/Bli/_/Lonely",
-      "count": 6,
+      "count": 8,
       "artist": "Bli"
     },
     {
-      "name": "Abyss",
-      "url": "https://www.last.fm/music/Bli/_/Abyss",
-      "count": 5,
-      "artist": "Bli"
-    },
-    {
-      "name": "Belladonna & All That It Could Be but Isn't Because I'm Lost",
-      "url": "https://www.last.fm/music/Bli/_/Belladonna+&+All+That+It+Could+Be+but+Isn%27t+Because+I%27m+Lost",
-      "count": 5,
-      "artist": "Bli"
+      "name": "Boys Will Be Boys",
+      "url": "https://www.last.fm/music/Benny/_/Boys+Will+Be+Boys",
+      "count": 7,
+      "artist": "Benny"
     }
   ]
 }
