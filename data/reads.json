@@ -1,6 +1,13 @@
 {
   "currently-reading": [
     {
+      "date": "2020-08-05T20:21:09.000Z",
+      "author": "Brendan Burns",
+      "name": "Kubernetes: Up and Running: Dive Into the Future of Infrastructure",
+      "isbn": "9781492046530",
+      "rating": "N/A"
+    },
+    {
       "date": "2020-07-03T16:10:28.000Z",
       "author": "Ralf Steinmetz",
       "name": "Peer-To-Peer Systems and Applications",
@@ -314,16 +321,16 @@
     },
     {
       "date": null,
-      "author": "Caragh M. O'Brien",
-      "name": "Prometidos",
-      "isbn": "9789895018994",
+      "author": "C.S. Lewis",
+      "name": "O Sobrinho do Mágico",
+      "isbn": "9789722329989",
       "rating": "N/A"
     },
     {
       "date": null,
-      "author": "C.S. Lewis",
-      "name": "O Sobrinho do Mágico",
-      "isbn": "9789722329989",
+      "author": "Caragh M. O'Brien",
+      "name": "Prometidos",
+      "isbn": "9789895018994",
       "rating": "N/A"
     },
     {
@@ -336,15 +343,15 @@
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "O Príncipe Caspian",
-      "isbn": "9789722330978",
+      "name": "A Viagem do Caminheiro da Alvorada",
+      "isbn": "9789722331326",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "A Viagem do Caminheiro da Alvorada",
-      "isbn": "9789722331326",
+      "name": "O Príncipe Caspian",
+      "isbn": "9789722330978",
       "rating": "N/A"
     },
     {
@@ -399,13 +406,6 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério da Casa Queimada",
-      "isbn": "9789895554591",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Enid Blyton",
       "name": "O Mistério da Gata Desaparecida",
       "isbn": "9789895554607",
       "rating": "N/A"
@@ -413,8 +413,8 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério do Quarto Secreto",
-      "isbn": "9789895554829",
+      "name": "O Mistério da Casa Queimada",
+      "isbn": "9789895554591",
       "rating": "N/A"
     },
     {
@@ -427,6 +427,13 @@
     {
       "date": null,
       "author": "Enid Blyton",
+      "name": "O Mistério do Quarto Secreto",
+      "isbn": "9789895554829",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Enid Blyton",
       "name": "Os Cinco na Ilha do Tesouro",
       "isbn": "9789895557745",
       "rating": "N/A"
@@ -434,15 +441,15 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério do Gato Cómico",
-      "isbn": "9789895557738",
+      "name": "Os Cinco e os Contrabandistas",
+      "isbn": "9789895558360",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "Os Cinco e os Contrabandistas",
-      "isbn": "9789895558360",
+      "name": "O Mistério do Gato Cómico",
+      "isbn": "9789895557738",
       "rating": "N/A"
     },
     {
@@ -462,15 +469,15 @@
     {
       "date": null,
       "author": "Geronimo Stilton",
-      "name": "O Manuscrito Misterioso",
-      "isbn": "9789722334723",
+      "name": "Pânico nos Himalaias",
+      "isbn": "9789722336390",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Geronimo Stilton",
-      "name": "Pânico nos Himalaias",
-      "isbn": "9789722336390",
+      "name": "O Manuscrito Misterioso",
+      "isbn": "9789722334723",
       "rating": "N/A"
     },
     {
@@ -504,15 +511,15 @@
     {
       "date": null,
       "author": "Rick Riordan",
-      "name": "Percy Jackson e a Batalha do Labirinto",
-      "isbn": "9789724620855",
+      "name": "Percy Jackson e o mar dos Monstros",
+      "isbn": "9789724622514",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Rick Riordan",
-      "name": "Percy Jackson e o mar dos Monstros",
-      "isbn": "9789724622514",
+      "name": "Percy Jackson e a Batalha do Labirinto",
+      "isbn": "9789724620855",
       "rating": "N/A"
     },
     {
@@ -524,13 +531,6 @@
     },
     {
       "date": null,
-      "author": "Rick Riordan",
-      "name": "Percy Jackson e o Último Olimpiano",
-      "isbn": "9789724622415",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
       "author": "Marion Zimmer Bradley",
       "name": "A Senhora da Magia",
       "isbn": "9789896373986",
@@ -538,9 +538,9 @@
     },
     {
       "date": null,
-      "author": "Jeff Kinney",
-      "name": "A Última Gota",
-      "isbn": "9789896680589",
+      "author": "Rick Riordan",
+      "name": "Percy Jackson e o Último Olimpiano",
+      "isbn": "9789724622415",
       "rating": "N/A"
     },
     {
@@ -553,8 +553,8 @@
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "A Verdade Nua e Crua",
-      "isbn": "9789897070433",
+      "name": "A Última Gota",
+      "isbn": "9789896680589",
       "rating": "N/A"
     },
     {
@@ -562,6 +562,13 @@
       "author": "Jeff Kinney",
       "name": "Um Dia de Cão",
       "isbn": "9789896680596",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Jeff Kinney",
+      "name": "A Verdade Nua e Crua",
+      "isbn": "9789897070433",
       "rating": "N/A"
     },
     {
@@ -637,15 +644,15 @@
     {
       "date": null,
       "author": "Ana Maria Magalhães",
-      "name": "Uma Aventura em Lisboa",
-      "isbn": "9789722100212",
+      "name": "Uma Aventura no Deserto",
+      "isbn": "9789722100205",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Ana Maria Magalhães",
-      "name": "Uma Aventura no Deserto",
-      "isbn": "9789722100205",
+      "name": "Uma Aventura em Lisboa",
+      "isbn": "9789722100212",
       "rating": "N/A"
     },
     {
@@ -665,15 +672,15 @@
     {
       "date": null,
       "author": "Álvaro Magalhães",
-      "name": "A Feiticeira de Paris",
-      "isbn": "9789892321011",
+      "name": "A última noite do mundo",
+      "isbn": "9789892317465",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Álvaro Magalhães",
-      "name": "A última noite do mundo",
-      "isbn": "9789892317465",
+      "name": "A Feiticeira de Paris",
+      "isbn": "9789892321011",
       "rating": "N/A"
     },
     {
