@@ -1698,6 +1698,11 @@
   ],
   "series": [
     {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2020-08-06T14:15:10.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "RuPaul's Drag Race All Stars",
       "watched": "2020-07-25T18:24:54.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
@@ -1716,11 +1721,6 @@
       "title": "The Politician",
       "watched": "2020-07-12T15:36:53.000Z",
       "url": "https://trakt.tv/shows/the-politician"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2020-07-12T07:00:00.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "The Order",
