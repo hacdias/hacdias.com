@@ -3,6 +3,9 @@ type:  page
 title: Contact
 hideMentions: true
 emoji: ✉️
+menu:
+  main:
+    weight: 4
 ---
 
 My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in.

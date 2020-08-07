@@ -4,9 +4,6 @@ description: >
   involved with in the past.
 emoji: "\U0001F4E6"
 hideMentions: true
-menu:
-  main:
-    weight: 3
 properties: {}
 tags: []
 title: Projects

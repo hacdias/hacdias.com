@@ -1,5 +1,9 @@
 ---
 title: hacdias.com
+menu:
+  main:
+    weight: 1
+    name: '@hacdias'
 ---
 
 <style>

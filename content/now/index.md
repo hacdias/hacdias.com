@@ -10,6 +10,9 @@ publishDate: 2020-01-21T15:06:00.000Z
 tags: []
 title: Now
 type: page
+menu:
+  main:
+    weight: 3
 ---
 
 <p style="margin-top: -1rem;"><small>This is a <a href="https://nownownow.com/about" rel="noopener noreferrer" target="_blank">now</a> page.</small></p>

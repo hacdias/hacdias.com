@@ -6,6 +6,10 @@ emoji: 🧙‍♂️
 description: >
   Henrique is finishing his Bachelor's degree in Computer Science and Engineering
   while working on the most fascinating projects to decentralize the web.
+menu:
+  main:
+    weight: 2
+    name: About
 ---
 
 {{< figure alt="Me!" src="hac.jpeg" caption="Taken by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}

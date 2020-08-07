@@ -5,9 +5,16 @@
 </head>
 <body>
   <div class='container'>
-    {{ if not .IsHome }}
-      <a id="home" alt="Return home" class="no-link" href="{{ relURL .Site.BaseURL }}"><span>← back home</span></a>
-    {{ end }}
+    <div id='header'>
+      <input type="checkbox" id="toggler">
+      <nav>
+        <label for="toggler"><a class='no-link'>Menu</a></label>
+        {{- range .Site.Menus.main -}}
+          <a href='{{ .URL }}' class='no-link {{ if $.IsMenuCurrent "main" . }}a{{ end }}'>{{ .Name -}}</a>
+        {{- end -}}
+      </nav>
+    </div>
+
     {{ block "main" . -}}{{ end }}
     {{ partial "footer" . -}}
   </div>
