@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Malibu Rescue: The Next Wave",
+      "watched": "2020-08-07T21:48:14.000Z",
+      "url": "https://trakt.tv/movies/malibu-rescue-the-next-wave-2020"
+    },
+    {
       "title": "The Old Guard",
       "watched": "2020-08-02T21:52:23.000Z",
       "url": "https://trakt.tv/movies/the-old-guard-2020"
