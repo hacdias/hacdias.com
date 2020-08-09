@@ -1,139 +1,12 @@
 {
-  "currently-reading": [
+  "read": [
     {
-      "date": "2020-08-05T20:21:09.000Z",
+      "date": "2020-08-08T10:11:35.000Z",
       "author": "Brendan Burns",
       "name": "Kubernetes: Up and Running: Dive Into the Future of Infrastructure",
       "isbn": "9781492046530",
       "rating": "N/A"
     },
-    {
-      "date": "2020-07-03T16:10:28.000Z",
-      "author": "Ralf Steinmetz",
-      "name": "Peer-To-Peer Systems and Applications",
-      "isbn": "9783540291923",
-      "rating": "N/A"
-    }
-  ],
-  "to-read": [
-    {
-      "date": null,
-      "author": "R.C. Colaço",
-      "name": "A Conspiração de Atlântida",
-      "isbn": "9789898979520",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Harper Lee",
-      "name": "To Kill a Mockingbird",
-      "isbn": {
-        "$": {
-          "nil": "true"
-        }
-      },
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Kevin van Whye",
-      "name": "Date Me, Bryson Keller",
-      "isbn": "9780593126042",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Alexis  Hall",
-      "name": "Boyfriend Material",
-      "isbn": "9781728206141",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Annabeth Albert",
-      "name": "Conventionally Yours",
-      "isbn": "9781728200293",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Becky Albertalli",
-      "name": "Simon vs. the Homo Sapiens Agenda",
-      "isbn": "9780062348678",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "André Aciman",
-      "name": "Find Me",
-      "isbn": "9780374155018",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Saifedean Ammous",
-      "name": "The Bitcoin Standard: The Decentralized Alternative to Central Banking",
-      "isbn": "9781119473862",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Karl Fogel",
-      "name": "Producing Open Source Software: How to Run a Successful Free Software Project",
-      "isbn": "9780596007591",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "José Saramago",
-      "name": "O Ano da Morte de Ricardo Reis",
-      "isbn": "9789720048820",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Eça de Queirós",
-      "name": "O Crime do Padre Amaro",
-      "isbn": "9789720049636",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Margaret Atwood",
-      "name": "The Handmaid's Tale",
-      "isbn": "9781784871444",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Alexandre Arlène",
-      "name": "Bloody Harry: La BD dont il ne faut pas prononcer le nom",
-      "isbn": "9782822214339",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Steven Levy",
-      "name": "Hackers: Heroes of the Computer Revolution",
-      "isbn": "9780141000510",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Alex Bellos",
-      "name": "Alex's Adventures in Numberland: Dispatches from the Wonderful World of Mathematics",
-      "isbn": "9781408809594",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Robert Louis Stevenson",
-      "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
-      "isbn": "9781847493781",
-      "rating": "N/A"
-    }
-  ],
-  "read": [
     {
       "date": null,
       "author": "António Vieira",
@@ -940,6 +813,133 @@
       "author": "C.S. Lewis",
       "name": "O Leão, a Feiticeira e o Guarda-Roupa",
       "isbn": "9789722330206",
+      "rating": "N/A"
+    }
+  ],
+  "currently-reading": [
+    {
+      "date": "2020-07-03T16:10:28.000Z",
+      "author": "Ralf Steinmetz",
+      "name": "Peer-To-Peer Systems and Applications",
+      "isbn": "9783540291923",
+      "rating": "N/A"
+    }
+  ],
+  "to-read": [
+    {
+      "date": null,
+      "author": "R.C. Colaço",
+      "name": "A Conspiração de Atlântida",
+      "isbn": "9789898979520",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Harper Lee",
+      "name": "To Kill a Mockingbird",
+      "isbn": {
+        "$": {
+          "nil": "true"
+        }
+      },
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Kevin van Whye",
+      "name": "Date Me, Bryson Keller",
+      "isbn": "9780593126042",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Alexis  Hall",
+      "name": "Boyfriend Material",
+      "isbn": "9781728206141",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Annabeth Albert",
+      "name": "Conventionally Yours",
+      "isbn": "9781728200293",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Becky Albertalli",
+      "name": "Simon vs. the Homo Sapiens Agenda",
+      "isbn": "9780062348678",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "André Aciman",
+      "name": "Find Me",
+      "isbn": "9780374155018",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Saifedean Ammous",
+      "name": "The Bitcoin Standard: The Decentralized Alternative to Central Banking",
+      "isbn": "9781119473862",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Karl Fogel",
+      "name": "Producing Open Source Software: How to Run a Successful Free Software Project",
+      "isbn": "9780596007591",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "José Saramago",
+      "name": "O Ano da Morte de Ricardo Reis",
+      "isbn": "9789720048820",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Eça de Queirós",
+      "name": "O Crime do Padre Amaro",
+      "isbn": "9789720049636",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Margaret Atwood",
+      "name": "The Handmaid's Tale",
+      "isbn": "9781784871444",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Alexandre Arlène",
+      "name": "Bloody Harry: La BD dont il ne faut pas prononcer le nom",
+      "isbn": "9782822214339",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Steven Levy",
+      "name": "Hackers: Heroes of the Computer Revolution",
+      "isbn": "9780141000510",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Alex Bellos",
+      "name": "Alex's Adventures in Numberland: Dispatches from the Wonderful World of Mathematics",
+      "isbn": "9781408809594",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Robert Louis Stevenson",
+      "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
+      "isbn": "9781847493781",
       "rating": "N/A"
     }
   ]
