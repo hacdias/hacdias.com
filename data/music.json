@@ -2,23 +2,18 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 97,
+      "count": 81,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Bli",
-      "count": 87,
+      "count": 75,
       "url": "https://www.last.fm/music/Bli"
     },
     {
-      "name": "Lost Frequencies",
-      "count": 21,
-      "url": "https://www.last.fm/music/Lost+Frequencies"
-    },
-    {
-      "name": "Alexandre Desplat",
-      "count": 18,
-      "url": "https://www.last.fm/music/Alexandre+Desplat"
+      "name": "Lady Gaga",
+      "count": 20,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Allie X",
@@ -26,14 +21,9 @@
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Dorian Electra",
-      "count": 13,
-      "url": "https://www.last.fm/music/Dorian+Electra"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 13,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "name": "Lost Frequencies",
+      "count": 15,
+      "url": "https://www.last.fm/music/Lost+Frequencies"
     },
     {
       "name": "Benny",
@@ -42,33 +32,37 @@
     },
     {
       "name": "Alec Benjamin",
-      "count": 10,
+      "count": 9,
       "url": "https://www.last.fm/music/Alec+Benjamin"
     },
     {
       "name": "Miss Benny",
       "count": 8,
       "url": "https://www.last.fm/music/Miss+Benny"
+    },
+    {
+      "name": "Robyn",
+      "count": 7,
+      "url": "https://www.last.fm/music/Robyn"
+    },
+    {
+      "name": "Ava Max",
+      "count": 6,
+      "url": "https://www.last.fm/music/Ava+Max"
     }
   ],
   "tracks": [
     {
       "name": "Doomscrolling - BLI Edit",
       "url": "https://www.last.fm/music/Bli/_/Doomscrolling+-+BLI+Edit",
-      "count": 16,
+      "count": 14,
       "artist": "Bli"
     },
     {
       "name": "Easy",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 16,
+      "count": 14,
       "artist": "Troye Sivan"
-    },
-    {
-      "name": "Ekphrasis",
-      "url": "https://www.last.fm/music/Bli/_/Ekphrasis",
-      "count": 13,
-      "artist": "Bli"
     },
     {
       "name": "rager teenager!",
@@ -77,16 +71,10 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Lonely",
-      "url": "https://www.last.fm/music/Bli/_/Lonely",
-      "count": 10,
+      "name": "Ekphrasis",
+      "url": "https://www.last.fm/music/Bli/_/Ekphrasis",
+      "count": 12,
       "artist": "Bli"
-    },
-    {
-      "name": "Take Yourself Home",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
-      "count": 10,
-      "artist": "Troye Sivan"
     },
     {
       "name": "Boys Will Be Boys",
@@ -95,21 +83,33 @@
       "artist": "Benny"
     },
     {
+      "name": "Lonely",
+      "url": "https://www.last.fm/music/Bli/_/Lonely",
+      "count": 8,
+      "artist": "Bli"
+    },
+    {
+      "name": "Take Yourself Home",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
+      "count": 8,
+      "artist": "Troye Sivan"
+    },
+    {
       "name": "Abyss",
       "url": "https://www.last.fm/music/Bli/_/Abyss",
-      "count": 8,
+      "count": 7,
       "artist": "Bli"
     },
     {
       "name": "Belladonna & All That It Could Be but Isn't Because I'm Lost",
       "url": "https://www.last.fm/music/Bli/_/Belladonna+&+All+That+It+Could+Be+but+Isn%27t+Because+I%27m+Lost",
-      "count": 8,
+      "count": 7,
       "artist": "Bli"
     },
     {
       "name": "Litost // Nonplussed, Pt. 1",
       "url": "https://www.last.fm/music/Bli/_/Litost+%2F%2F+Nonplussed,+Pt.+1",
-      "count": 8,
+      "count": 7,
       "artist": "Bli"
     }
   ]
