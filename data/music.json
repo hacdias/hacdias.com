@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 81,
+      "count": 78,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
@@ -12,43 +12,43 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 20,
+      "count": 22,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Allie X",
-      "count": 17,
+      "count": 19,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Lost Frequencies",
-      "count": 15,
+      "count": 12,
       "url": "https://www.last.fm/music/Lost+Frequencies"
     },
     {
-      "name": "Benny",
-      "count": 12,
-      "url": "https://www.last.fm/music/Benny"
-    },
-    {
-      "name": "Alec Benjamin",
-      "count": 9,
-      "url": "https://www.last.fm/music/Alec+Benjamin"
-    },
-    {
-      "name": "Miss Benny",
-      "count": 8,
-      "url": "https://www.last.fm/music/Miss+Benny"
-    },
-    {
-      "name": "Robyn",
-      "count": 7,
-      "url": "https://www.last.fm/music/Robyn"
+      "name": "Dorian Electra",
+      "count": 10,
+      "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "Ava Max",
       "count": 6,
       "url": "https://www.last.fm/music/Ava+Max"
+    },
+    {
+      "name": "Dua Lipa",
+      "count": 6,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
+      "name": "Tove Lo",
+      "count": 6,
+      "url": "https://www.last.fm/music/Tove+Lo"
+    },
+    {
+      "name": "Alec Benjamin",
+      "count": 5,
+      "url": "https://www.last.fm/music/Alec+Benjamin"
     }
   ],
   "tracks": [
@@ -59,15 +59,9 @@
       "artist": "Bli"
     },
     {
-      "name": "Easy",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 14,
-      "artist": "Troye Sivan"
-    },
-    {
       "name": "rager teenager!",
       "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
-      "count": 13,
+      "count": 14,
       "artist": "Troye Sivan"
     },
     {
@@ -77,22 +71,16 @@
       "artist": "Bli"
     },
     {
-      "name": "Boys Will Be Boys",
-      "url": "https://www.last.fm/music/Benny/_/Boys+Will+Be+Boys",
-      "count": 8,
-      "artist": "Benny"
+      "name": "Easy",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
+      "count": 12,
+      "artist": "Troye Sivan"
     },
     {
       "name": "Lonely",
       "url": "https://www.last.fm/music/Bli/_/Lonely",
       "count": 8,
       "artist": "Bli"
-    },
-    {
-      "name": "Take Yourself Home",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
-      "count": 8,
-      "artist": "Troye Sivan"
     },
     {
       "name": "Abyss",
@@ -111,6 +99,18 @@
       "url": "https://www.last.fm/music/Bli/_/Litost+%2F%2F+Nonplussed,+Pt.+1",
       "count": 7,
       "artist": "Bli"
+    },
+    {
+      "name": "Woe // Nonplussed, Pt. 2",
+      "url": "https://www.last.fm/music/Bli/_/Woe+%2F%2F+Nonplussed,+Pt.+2",
+      "count": 7,
+      "artist": "Bli"
+    },
+    {
+      "name": "Take Yourself Home",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
+      "count": 7,
+      "artist": "Troye Sivan"
     }
   ]
 }
