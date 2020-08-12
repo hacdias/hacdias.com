@@ -7,12 +7,12 @@
     },
     {
       "name": "Bli",
-      "count": 75,
+      "count": 34,
       "url": "https://www.last.fm/music/Bli"
     },
     {
       "name": "Lady Gaga",
-      "count": 22,
+      "count": 23,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -21,9 +21,9 @@
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Lost Frequencies",
-      "count": 12,
-      "url": "https://www.last.fm/music/Lost+Frequencies"
+      "name": "Only Fire",
+      "count": 16,
+      "url": "https://www.last.fm/music/Only+Fire"
     },
     {
       "name": "Dorian Electra",
@@ -31,33 +31,27 @@
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
+      "name": "Lost Frequencies",
+      "count": 9,
+      "url": "https://www.last.fm/music/Lost+Frequencies"
+    },
+    {
       "name": "Ava Max",
-      "count": 6,
+      "count": 8,
       "url": "https://www.last.fm/music/Ava+Max"
     },
     {
       "name": "Dua Lipa",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Tove Lo",
       "count": 6,
       "url": "https://www.last.fm/music/Tove+Lo"
-    },
-    {
-      "name": "Alec Benjamin",
-      "count": 5,
-      "url": "https://www.last.fm/music/Alec+Benjamin"
     }
   ],
   "tracks": [
-    {
-      "name": "Doomscrolling - BLI Edit",
-      "url": "https://www.last.fm/music/Bli/_/Doomscrolling+-+BLI+Edit",
-      "count": 14,
-      "artist": "Bli"
-    },
     {
       "name": "rager teenager!",
       "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
@@ -65,45 +59,15 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Ekphrasis",
-      "url": "https://www.last.fm/music/Bli/_/Ekphrasis",
-      "count": 12,
-      "artist": "Bli"
-    },
-    {
       "name": "Easy",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 12,
+      "count": 11,
       "artist": "Troye Sivan"
     },
     {
-      "name": "Lonely",
-      "url": "https://www.last.fm/music/Bli/_/Lonely",
+      "name": "Ekphrasis",
+      "url": "https://www.last.fm/music/Bli/_/Ekphrasis",
       "count": 8,
-      "artist": "Bli"
-    },
-    {
-      "name": "Abyss",
-      "url": "https://www.last.fm/music/Bli/_/Abyss",
-      "count": 7,
-      "artist": "Bli"
-    },
-    {
-      "name": "Belladonna & All That It Could Be but Isn't Because I'm Lost",
-      "url": "https://www.last.fm/music/Bli/_/Belladonna+&+All+That+It+Could+Be+but+Isn%27t+Because+I%27m+Lost",
-      "count": 7,
-      "artist": "Bli"
-    },
-    {
-      "name": "Litost // Nonplussed, Pt. 1",
-      "url": "https://www.last.fm/music/Bli/_/Litost+%2F%2F+Nonplussed,+Pt.+1",
-      "count": 7,
-      "artist": "Bli"
-    },
-    {
-      "name": "Woe // Nonplussed, Pt. 2",
-      "url": "https://www.last.fm/music/Bli/_/Woe+%2F%2F+Nonplussed,+Pt.+2",
-      "count": 7,
       "artist": "Bli"
     },
     {
@@ -111,6 +75,42 @@
       "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
       "count": 7,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "TALK ME DOWN",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/TALK+ME+DOWN",
+      "count": 7,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Doomscrolling - BLI Edit",
+      "url": "https://www.last.fm/music/Bli/_/Doomscrolling+-+BLI+Edit",
+      "count": 6,
+      "artist": "Bli"
+    },
+    {
+      "name": "FOOLS",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/FOOLS",
+      "count": 5,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "I Built A Friend (2020)",
+      "url": "https://www.last.fm/music/Alec+Benjamin/_/I+Built+A+Friend+(2020)",
+      "count": 4,
+      "artist": "Alec Benjamin"
+    },
+    {
+      "name": "Boys Will Be Boys",
+      "url": "https://www.last.fm/music/Benny/_/Boys+Will+Be+Boys",
+      "count": 4,
+      "artist": "Benny"
+    },
+    {
+      "name": "Lonely",
+      "url": "https://www.last.fm/music/Bli/_/Lonely",
+      "count": 4,
+      "artist": "Bli"
     }
   ]
 }
