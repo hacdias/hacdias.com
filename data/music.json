@@ -2,28 +2,38 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 78,
+      "count": 52,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Bli",
-      "count": 34,
+      "count": 24,
       "url": "https://www.last.fm/music/Bli"
     },
     {
       "name": "Lady Gaga",
-      "count": 23,
+      "count": 22,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Allie X",
-      "count": 19,
-      "url": "https://www.last.fm/music/Allie+X"
+      "name": "Kim Petras",
+      "count": 18,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Only Fire",
-      "count": 16,
+      "count": 18,
       "url": "https://www.last.fm/music/Only+Fire"
+    },
+    {
+      "name": "Allie X",
+      "count": 14,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Ava Max",
+      "count": 13,
+      "url": "https://www.last.fm/music/Ava+Max"
     },
     {
       "name": "Dorian Electra",
@@ -31,86 +41,76 @@
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
-      "name": "Lost Frequencies",
+      "name": "Marina",
       "count": 9,
-      "url": "https://www.last.fm/music/Lost+Frequencies"
-    },
-    {
-      "name": "Ava Max",
-      "count": 8,
-      "url": "https://www.last.fm/music/Ava+Max"
+      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Dua Lipa",
-      "count": 7,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
-      "name": "Tove Lo",
       "count": 6,
-      "url": "https://www.last.fm/music/Tove+Lo"
+      "url": "https://www.last.fm/music/Dua+Lipa"
     }
   ],
   "tracks": [
     {
       "name": "rager teenager!",
       "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
-      "count": 14,
+      "count": 9,
       "artist": "Troye Sivan"
     },
     {
       "name": "Easy",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 11,
+      "count": 6,
       "artist": "Troye Sivan"
     },
     {
       "name": "Ekphrasis",
       "url": "https://www.last.fm/music/Bli/_/Ekphrasis",
-      "count": 8,
+      "count": 5,
       "artist": "Bli"
     },
     {
-      "name": "Take Yourself Home",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
-      "count": 7,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "TALK ME DOWN",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/TALK+ME+DOWN",
-      "count": 7,
-      "artist": "Troye Sivan"
+      "name": "Eternal Self",
+      "url": "https://www.last.fm/music/Arush+Mandal/_/Eternal+Self",
+      "count": 4,
+      "artist": "Arush Mandal"
     },
     {
       "name": "Doomscrolling - BLI Edit",
       "url": "https://www.last.fm/music/Bli/_/Doomscrolling+-+BLI+Edit",
-      "count": 6,
+      "count": 4,
       "artist": "Bli"
     },
     {
-      "name": "FOOLS",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/FOOLS",
-      "count": 5,
+      "name": "Burqa (2012 Demo Leak)",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Burqa+(2012+Demo+Leak)",
+      "count": 4,
+      "artist": "Lady Gaga"
+    },
+    {
+      "name": "Stuor Muorkke",
+      "url": "https://www.last.fm/music/Laponia/_/Stuor+Muorkke",
+      "count": 4,
+      "artist": "Laponia"
+    },
+    {
+      "name": "Let's Have a Kiki",
+      "url": "https://www.last.fm/music/Scissor+Sisters/_/Let%27s+Have+a+Kiki",
+      "count": 4,
+      "artist": "Scissor Sisters"
+    },
+    {
+      "name": "21 Songs Every Gay Knows 🏳️‍🌈",
+      "url": "https://www.last.fm/music/todrickhall/_/21+Songs+Every+Gay+Knows+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88",
+      "count": 4,
+      "artist": "todrickhall"
+    },
+    {
+      "name": "TALK ME DOWN",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/TALK+ME+DOWN",
+      "count": 4,
       "artist": "Troye Sivan"
-    },
-    {
-      "name": "I Built A Friend (2020)",
-      "url": "https://www.last.fm/music/Alec+Benjamin/_/I+Built+A+Friend+(2020)",
-      "count": 4,
-      "artist": "Alec Benjamin"
-    },
-    {
-      "name": "Boys Will Be Boys",
-      "url": "https://www.last.fm/music/Benny/_/Boys+Will+Be+Boys",
-      "count": 4,
-      "artist": "Benny"
-    },
-    {
-      "name": "Lonely",
-      "url": "https://www.last.fm/music/Bli/_/Lonely",
-      "count": 4,
-      "artist": "Bli"
     }
   ]
 }
