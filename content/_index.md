@@ -64,6 +64,5 @@ There's a lot more on this website than the pages linked above. Here is a list o
 - 🧲 [**Follow**](/follow/), on how to follow this website.
 - 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
 - 📌 [**Pins**](/pins/), a collection of interesting websites that I find worth sharing.
-- 📓 [**Notes**](https://notes.hacdias.com/), my digital garden.
 - 📦 [**Projects**](/projects/), the major projects I've worked on.
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.
