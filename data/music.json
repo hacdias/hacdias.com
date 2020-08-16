@@ -1,24 +1,19 @@
 {
   "artists": [
     {
-      "name": "Troye Sivan",
-      "count": 41,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "name": "Kim Petras",
+      "count": 39,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Kim Petras",
-      "count": 36,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "name": "Troye Sivan",
+      "count": 23,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Only Fire",
       "count": 19,
       "url": "https://www.last.fm/music/Only+Fire"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 17,
-      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Ava Max",
@@ -27,8 +22,13 @@
     },
     {
       "name": "Dorian Electra",
-      "count": 14,
+      "count": 13,
       "url": "https://www.last.fm/music/Dorian+Electra"
+    },
+    {
+      "name": "Lady Gaga",
+      "count": 13,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Allie X",
@@ -42,25 +42,31 @@
     },
     {
       "name": "Girls Aloud",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Girls+Aloud"
     },
     {
-      "name": "RuPaul",
-      "count": 7,
-      "url": "https://www.last.fm/music/RuPaul"
+      "name": "Carly Rae Jepsen",
+      "count": 6,
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
     }
   ],
   "tracks": [
     {
       "name": "On the Metro",
       "url": "https://www.last.fm/music/Girls+Aloud/_/On+the+Metro",
-      "count": 6,
+      "count": 7,
       "artist": "Girls Aloud"
     },
     {
       "name": "Close Your Eyes",
       "url": "https://www.last.fm/music/Kim+Petras/_/Close+Your+Eyes",
+      "count": 6,
+      "artist": "Kim Petras"
+    },
+    {
+      "name": "Turn Off The Light (feat. Elvira, Mistress of the Dark)",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Turn+Off+The+Light+(feat.+Elvira,+Mistress+of+the+Dark)",
       "count": 5,
       "artist": "Kim Petras"
     },
@@ -77,28 +83,10 @@
       "artist": "Ava Max"
     },
     {
-      "name": "Turn Off The Light (feat. Elvira, Mistress of the Dark)",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Turn+Off+The+Light+(feat.+Elvira,+Mistress+of+the+Dark)",
+      "name": "There Will Be Blood",
+      "url": "https://www.last.fm/music/Kim+Petras/_/There+Will+Be+Blood",
       "count": 4,
       "artist": "Kim Petras"
-    },
-    {
-      "name": "Easy",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 4,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Seventeen",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Seventeen",
-      "count": 4,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "The Good Side",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/The+Good+Side",
-      "count": 4,
-      "artist": "Troye Sivan"
     },
     {
       "name": "Hourglass",
@@ -111,6 +99,18 @@
       "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
       "count": 3,
       "artist": "Allie X"
+    },
+    {
+      "name": "So Am I",
+      "url": "https://www.last.fm/music/Ava+Max/_/So+Am+I",
+      "count": 3,
+      "artist": "Ava Max"
+    },
+    {
+      "name": "Sweet but Psycho",
+      "url": "https://www.last.fm/music/Ava+Max/_/Sweet+but+Psycho",
+      "count": 3,
+      "artist": "Ava Max"
     }
   ]
 }
