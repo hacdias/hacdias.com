@@ -1703,14 +1703,24 @@
   ],
   "series": [
     {
-      "title": "Good Girls",
-      "watched": "2020-08-16T09:26:06.000Z",
-      "url": "https://trakt.tv/shows/good-girls"
+      "title": "The Umbrella Academy",
+      "watched": "2020-08-17T22:24:41.000Z",
+      "url": "https://trakt.tv/shows/the-umbrella-academy"
+    },
+    {
+      "title": "Secret Celebrity RuPaul's Drag Race",
+      "watched": "2020-08-17T14:04:31.000Z",
+      "url": "https://trakt.tv/shows/secret-celebrity-rupaul-s-drag-race"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2020-08-06T14:15:10.000Z",
+      "watched": "2020-08-17T11:42:36.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
+      "title": "Good Girls",
+      "watched": "2020-08-16T09:26:06.000Z",
+      "url": "https://trakt.tv/shows/good-girls"
     },
     {
       "title": "RuPaul's Drag Race All Stars",
@@ -1791,11 +1801,6 @@
       "title": "How to Get Away with Murder",
       "watched": "2020-05-15T13:46:46.000Z",
       "url": "https://trakt.tv/shows/how-to-get-away-with-murder"
-    },
-    {
-      "title": "Secret Celebrity RuPaul's Drag Race",
-      "watched": "2020-05-10T10:55:42.000Z",
-      "url": "https://trakt.tv/shows/secret-celebrity-rupaul-s-drag-race"
     },
     {
       "title": "Westworld",
