@@ -2,17 +2,12 @@
   "artists": [
     {
       "name": "Kim Petras",
-      "count": 53,
+      "count": 56,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Only Fire",
-      "count": 23,
-      "url": "https://www.last.fm/music/Only+Fire"
-    },
-    {
       "name": "Troye Sivan",
-      "count": 22,
+      "count": 25,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
@@ -21,9 +16,9 @@
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
     },
     {
-      "name": "Ava Max",
+      "name": "Allie X",
       "count": 12,
-      "url": "https://www.last.fm/music/Ava+Max"
+      "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Girls Aloud",
@@ -31,31 +26,36 @@
       "url": "https://www.last.fm/music/Girls+Aloud"
     },
     {
-      "name": "Allie X",
+      "name": "Ava Max",
       "count": 10,
-      "url": "https://www.last.fm/music/Allie+X"
+      "url": "https://www.last.fm/music/Ava+Max"
+    },
+    {
+      "name": "Dorian Electra",
+      "count": 8,
+      "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "Marina",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Marina"
+    },
+    {
+      "name": "Only Fire",
+      "count": 7,
+      "url": "https://www.last.fm/music/Only+Fire"
     },
     {
       "name": "Alice Chater",
       "count": 6,
       "url": "https://www.last.fm/music/Alice+Chater"
-    },
-    {
-      "name": "Hayley Kiyoko",
-      "count": 6,
-      "url": "https://www.last.fm/music/Hayley+Kiyoko"
     }
   ],
   "tracks": [
     {
       "name": "On the Metro",
       "url": "https://www.last.fm/music/Girls+Aloud/_/On+the+Metro",
-      "count": 10,
+      "count": 11,
       "artist": "Girls Aloud"
     },
     {
@@ -83,6 +83,18 @@
       "artist": "Allie X"
     },
     {
+      "name": "Heart to Break",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Heart+to+Break",
+      "count": 6,
+      "artist": "Kim Petras"
+    },
+    {
+      "name": "Slow It Down",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Slow+It+Down",
+      "count": 6,
+      "artist": "Kim Petras"
+    },
+    {
       "name": "There Will Be Blood",
       "url": "https://www.last.fm/music/Kim+Petras/_/There+Will+Be+Blood",
       "count": 6,
@@ -99,18 +111,6 @@
       "url": "https://www.last.fm/music/Hayley+Kiyoko/_/Wanna+Be+Missed",
       "count": 5,
       "artist": "Hayley Kiyoko"
-    },
-    {
-      "name": "Heart to Break",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Heart+to+Break",
-      "count": 5,
-      "artist": "Kim Petras"
-    },
-    {
-      "name": "Hillside Boys",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Hillside+Boys",
-      "count": 5,
-      "artist": "Kim Petras"
     }
   ]
 }
