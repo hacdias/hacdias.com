@@ -2,13 +2,8 @@
   "artists": [
     {
       "name": "Kim Petras",
-      "count": 56,
+      "count": 45,
       "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
-      "name": "Troye Sivan",
-      "count": 25,
-      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Carly Rae Jepsen",
@@ -16,8 +11,13 @@
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
     },
     {
+      "name": "Troye Sivan",
+      "count": 20,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
       "name": "Allie X",
-      "count": 12,
+      "count": 11,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
@@ -26,9 +26,9 @@
       "url": "https://www.last.fm/music/Girls+Aloud"
     },
     {
-      "name": "Ava Max",
+      "name": "Lady Gaga",
       "count": 10,
-      "url": "https://www.last.fm/music/Ava+Max"
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Dorian Electra",
@@ -36,19 +36,19 @@
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
-      "name": "Marina",
-      "count": 8,
-      "url": "https://www.last.fm/music/Marina"
-    },
-    {
-      "name": "Only Fire",
-      "count": 7,
-      "url": "https://www.last.fm/music/Only+Fire"
-    },
-    {
       "name": "Alice Chater",
       "count": 6,
       "url": "https://www.last.fm/music/Alice+Chater"
+    },
+    {
+      "name": "Hayley Kiyoko",
+      "count": 6,
+      "url": "https://www.last.fm/music/Hayley+Kiyoko"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 6,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     }
   ],
   "tracks": [
@@ -61,13 +61,19 @@
     {
       "name": "Close Your Eyes",
       "url": "https://www.last.fm/music/Kim+Petras/_/Close+Your+Eyes",
-      "count": 8,
+      "count": 9,
       "artist": "Kim Petras"
     },
     {
       "name": "Turn Off The Light (feat. Elvira, Mistress of the Dark)",
       "url": "https://www.last.fm/music/Kim+Petras/_/Turn+Off+The+Light+(feat.+Elvira,+Mistress+of+the+Dark)",
       "count": 8,
+      "artist": "Kim Petras"
+    },
+    {
+      "name": "There Will Be Blood",
+      "url": "https://www.last.fm/music/Kim+Petras/_/There+Will+Be+Blood",
+      "count": 7,
       "artist": "Kim Petras"
     },
     {
@@ -83,34 +89,28 @@
       "artist": "Allie X"
     },
     {
-      "name": "Heart to Break",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Heart+to+Break",
-      "count": 6,
-      "artist": "Kim Petras"
-    },
-    {
-      "name": "Slow It Down",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Slow+It+Down",
-      "count": 6,
-      "artist": "Kim Petras"
-    },
-    {
-      "name": "There Will Be Blood",
-      "url": "https://www.last.fm/music/Kim+Petras/_/There+Will+Be+Blood",
-      "count": 6,
-      "artist": "Kim Petras"
-    },
-    {
       "name": "Run Away with Me",
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Run+Away+with+Me",
-      "count": 5,
+      "count": 6,
       "artist": "Carly Rae Jepsen"
+    },
+    {
+      "name": "Midnight Sky",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
+      "count": 6,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "Wanna Be Missed",
       "url": "https://www.last.fm/music/Hayley+Kiyoko/_/Wanna+Be+Missed",
       "count": 5,
       "artist": "Hayley Kiyoko"
+    },
+    {
+      "name": "Heart to Break",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Heart+to+Break",
+      "count": 5,
+      "artist": "Kim Petras"
     }
   ]
 }
