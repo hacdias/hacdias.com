@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Kim Petras",
-      "count": 45,
+      "count": 47,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
@@ -17,12 +17,12 @@
     },
     {
       "name": "Allie X",
-      "count": 11,
+      "count": 13,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Girls Aloud",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Girls+Aloud"
     },
     {
@@ -32,8 +32,13 @@
     },
     {
       "name": "Dorian Electra",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/Dorian+Electra"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 7,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Alice Chater",
@@ -41,40 +46,41 @@
       "url": "https://www.last.fm/music/Alice+Chater"
     },
     {
-      "name": "Hayley Kiyoko",
+      "name": "Ava Max",
       "count": 6,
-      "url": "https://www.last.fm/music/Hayley+Kiyoko"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 6,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "url": "https://www.last.fm/music/Ava+Max"
     }
   ],
   "tracks": [
     {
       "name": "On the Metro",
       "url": "https://www.last.fm/music/Girls+Aloud/_/On+the+Metro",
-      "count": 11,
+      "count": 10,
       "artist": "Girls Aloud"
     },
     {
       "name": "Close Your Eyes",
       "url": "https://www.last.fm/music/Kim+Petras/_/Close+Your+Eyes",
-      "count": 9,
-      "artist": "Kim Petras"
-    },
-    {
-      "name": "Turn Off The Light (feat. Elvira, Mistress of the Dark)",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Turn+Off+The+Light+(feat.+Elvira,+Mistress+of+the+Dark)",
       "count": 8,
       "artist": "Kim Petras"
     },
     {
-      "name": "There Will Be Blood",
-      "url": "https://www.last.fm/music/Kim+Petras/_/There+Will+Be+Blood",
+      "name": "Run Away with Me",
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Run+Away+with+Me",
+      "count": 7,
+      "artist": "Carly Rae Jepsen"
+    },
+    {
+      "name": "Turn Off The Light (feat. Elvira, Mistress of the Dark)",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Turn+Off+The+Light+(feat.+Elvira,+Mistress+of+the+Dark)",
       "count": 7,
       "artist": "Kim Petras"
+    },
+    {
+      "name": "Midnight Sky",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
+      "count": 7,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "Hourglass",
@@ -89,27 +95,21 @@
       "artist": "Allie X"
     },
     {
-      "name": "Run Away with Me",
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Run+Away+with+Me",
-      "count": 6,
-      "artist": "Carly Rae Jepsen"
-    },
-    {
-      "name": "Midnight Sky",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
-      "count": 6,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Wanna Be Missed",
-      "url": "https://www.last.fm/music/Hayley+Kiyoko/_/Wanna+Be+Missed",
-      "count": 5,
-      "artist": "Hayley Kiyoko"
-    },
-    {
       "name": "Heart to Break",
       "url": "https://www.last.fm/music/Kim+Petras/_/Heart+to+Break",
-      "count": 5,
+      "count": 6,
+      "artist": "Kim Petras"
+    },
+    {
+      "name": "Slow It Down",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Slow+It+Down",
+      "count": 6,
+      "artist": "Kim Petras"
+    },
+    {
+      "name": "There Will Be Blood",
+      "url": "https://www.last.fm/music/Kim+Petras/_/There+Will+Be+Blood",
+      "count": 6,
       "artist": "Kim Petras"
     }
   ]
