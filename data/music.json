@@ -2,18 +2,23 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 57,
+      "count": 66,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Kim Petras",
-      "count": 38,
+      "count": 42,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Allie X",
-      "count": 15,
+      "count": 18,
       "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 12,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Lady Gaga",
@@ -21,96 +26,91 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Miley Cyrus",
+      "name": "The xx",
       "count": 10,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "url": "https://www.last.fm/music/The+xx"
     },
     {
       "name": "Carly Rae Jepsen",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
     },
     {
-      "name": "Cher Lloyd",
-      "count": 7,
-      "url": "https://www.last.fm/music/Cher+Lloyd"
-    },
-    {
-      "name": "Kash Doll",
-      "count": 7,
-      "url": "https://www.last.fm/music/Kash+Doll"
-    },
-    {
       "name": "M83",
-      "count": 7,
+      "count": 9,
       "url": "https://www.last.fm/music/M83"
     },
     {
-      "name": "Alice Chater",
-      "count": 6,
-      "url": "https://www.last.fm/music/Alice+Chater"
+      "name": "Cher Lloyd",
+      "count": 8,
+      "url": "https://www.last.fm/music/Cher+Lloyd"
+    },
+    {
+      "name": "Christine and the Queens",
+      "count": 8,
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     }
   ],
   "tracks": [
     {
       "name": "Midnight Sky",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
-      "count": 10,
+      "count": 12,
       "artist": "Miley Cyrus"
     },
     {
       "name": "Easy",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 10,
+      "count": 12,
       "artist": "Troye Sivan"
     },
     {
       "name": "rager teenager!",
       "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
+      "count": 10,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "in a dream",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/in+a+dream",
       "count": 9,
       "artist": "Troye Sivan"
     },
     {
+      "name": "Hello",
+      "url": "https://www.last.fm/music/Allie+X/_/Hello",
+      "count": 8,
+      "artist": "Allie X"
+    },
+    {
       "name": "Lost",
       "url": "https://www.last.fm/music/Cher+Lloyd/_/Lost",
-      "count": 7,
+      "count": 8,
       "artist": "Cher Lloyd"
     },
     {
       "name": "How It’s Done (with Kim Petras, ALMA, Stefflon Don)",
       "url": "https://www.last.fm/music/Kash+Doll/_/How+It%E2%80%99s+Done+(with+Kim+Petras,+ALMA,+Stefflon+Don)",
-      "count": 7,
+      "count": 8,
       "artist": "Kash Doll"
     },
     {
       "name": "Close Your Eyes",
       "url": "https://www.last.fm/music/Kim+Petras/_/Close+Your+Eyes",
-      "count": 7,
+      "count": 8,
       "artist": "Kim Petras"
     },
     {
-      "name": "Turn Off The Light (feat. Elvira, Mistress of the Dark)",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Turn+Off+The+Light+(feat.+Elvira,+Mistress+of+the+Dark)",
-      "count": 7,
-      "artist": "Kim Petras"
-    },
-    {
-      "name": "in a dream",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/in+a+dream",
-      "count": 7,
+      "name": "STUD",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/STUD",
+      "count": 8,
       "artist": "Troye Sivan"
     },
     {
-      "name": "Hourglass",
-      "url": "https://www.last.fm/music/Alice+Chater/_/Hourglass",
-      "count": 6,
-      "artist": "Alice Chater"
-    },
-    {
-      "name": "Girl of the Year",
-      "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
-      "count": 6,
-      "artist": "Allie X"
+      "name": "Take Yourself Home",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
+      "count": 8,
+      "artist": "Troye Sivan"
     }
   ]
 }
