@@ -16,7 +16,7 @@ menu:
 
 Hi, I'm Henrique (he/him)! 👋
 
-I'm from a little a town in Portugal 🇵🇹 and I'm now starting my Master's degree 🎓 in Computer Science and Engineering at [TU/e][tue], in Lisbon. Currently, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web. For more things that are happening to me right now, please check my [now](/now/) page.
+I'm from a little a town in Portugal 🇵🇹 and I'm now starting my Master's degree 🎓 in Computer Science and Engineering at [TU/e][tue], in Eindhoven. Currently, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web. For more things that are happening to me right now, please check my [now](/now/) page.
 
 I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈. There are a lot of problems in the world and we all are part of them and should work towards correcting them, making Earth a better place for all of us to live.
 
