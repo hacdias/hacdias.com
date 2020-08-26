@@ -23,7 +23,7 @@ menu:
 
 # 🧙‍♂️ Henrique Dias
 
-Hi! 👋 I'm from Portugal 🇵🇹 and I'm now finishing my Bachelor's degree 🎓 in Computer Science and Engineering at [Técnico](https://tecnico.ulisboa.pt/), in Lisbon. Currently, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
+Hi! 👋 I'm from Portugal 🇵🇹 and I'm now starting my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Lisbon. Currently, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
 
 I believe in the transparency and openness of the world, in an united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈. If you're interested, you can [read more](/about/) about me.
 
