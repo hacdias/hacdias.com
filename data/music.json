@@ -2,33 +2,43 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 65,
+      "count": 49,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Kim Petras",
-      "count": 26,
+      "count": 18,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Allie X",
-      "count": 13,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
       "name": "Miley Cyrus",
-      "count": 13,
+      "count": 15,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Christine and the Queens",
+      "name": "Todrick Hall",
+      "count": 14,
+      "url": "https://www.last.fm/music/Todrick+Hall"
+    },
+    {
+      "name": "Allie X",
       "count": 12,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Kiesza",
+      "count": 12,
+      "url": "https://www.last.fm/music/Kiesza"
     },
     {
       "name": "M83",
       "count": 12,
       "url": "https://www.last.fm/music/M83"
+    },
+    {
+      "name": "Christine and the Queens",
+      "count": 11,
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
       "name": "The xx",
@@ -37,50 +47,16 @@
     },
     {
       "name": "Carly Rae Jepsen",
-      "count": 8,
+      "count": 5,
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
-    },
-    {
-      "name": "Cher Lloyd",
-      "count": 7,
-      "url": "https://www.last.fm/music/Cher+Lloyd"
-    },
-    {
-      "name": "Alice Chater",
-      "count": 6,
-      "url": "https://www.last.fm/music/Alice+Chater"
     }
   ],
   "tracks": [
-    {
-      "name": "Easy",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 13,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Midnight Sky",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
-      "count": 12,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "rager teenager!",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
-      "count": 12,
-      "artist": "Troye Sivan"
-    },
     {
       "name": "Je disparais dans tes bras",
       "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
       "count": 11,
       "artist": "Christine and the Queens"
-    },
-    {
-      "name": "in a dream",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/in+a+dream",
-      "count": 11,
-      "artist": "Troye Sivan"
     },
     {
       "name": "I Need You",
@@ -89,28 +65,52 @@
       "artist": "M83"
     },
     {
-      "name": "STUD",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/STUD",
+      "name": "Easy",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
       "count": 10,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "in a dream",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/in+a+dream",
+      "count": 10,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "rager teenager!",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
+      "count": 10,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Midnight Sky",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
+      "count": 9,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "Take Yourself Home",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
-      "count": 10,
+      "count": 9,
       "artist": "Troye Sivan"
     },
     {
-      "name": "Lost",
-      "url": "https://www.last.fm/music/Cher+Lloyd/_/Lost",
+      "name": "glitter",
+      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
       "count": 7,
-      "artist": "Cher Lloyd"
+      "artist": "Todrick Hall"
     },
     {
-      "name": "Hourglass",
-      "url": "https://www.last.fm/music/Alice+Chater/_/Hourglass",
+      "name": "STUD",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/STUD",
+      "count": 7,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "All of the Feelings",
+      "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
       "count": 6,
-      "artist": "Alice Chater"
+      "artist": "Kiesza"
     }
   ]
 }
