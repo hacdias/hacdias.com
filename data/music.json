@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 49,
+      "count": 32,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
@@ -11,34 +11,24 @@
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
+      "name": "Kiesza",
+      "count": 16,
+      "url": "https://www.last.fm/music/Kiesza"
+    },
+    {
       "name": "Miley Cyrus",
       "count": 15,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Todrick Hall",
-      "count": 14,
+      "count": 15,
       "url": "https://www.last.fm/music/Todrick+Hall"
     },
     {
       "name": "Allie X",
-      "count": 12,
+      "count": 13,
       "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
-      "name": "Kiesza",
-      "count": 12,
-      "url": "https://www.last.fm/music/Kiesza"
-    },
-    {
-      "name": "M83",
-      "count": 12,
-      "url": "https://www.last.fm/music/M83"
-    },
-    {
-      "name": "Christine and the Queens",
-      "count": 11,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
       "name": "The xx",
@@ -46,42 +36,22 @@
       "url": "https://www.last.fm/music/The+xx"
     },
     {
-      "name": "Carly Rae Jepsen",
-      "count": 5,
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
+      "name": "Christine and the Queens",
+      "count": 8,
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
+    },
+    {
+      "name": "Lady Gaga",
+      "count": 8,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "M83",
+      "count": 7,
+      "url": "https://www.last.fm/music/M83"
     }
   ],
   "tracks": [
-    {
-      "name": "Je disparais dans tes bras",
-      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
-      "count": 11,
-      "artist": "Christine and the Queens"
-    },
-    {
-      "name": "I Need You",
-      "url": "https://www.last.fm/music/M83/_/I+Need+You",
-      "count": 10,
-      "artist": "M83"
-    },
-    {
-      "name": "Easy",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 10,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "in a dream",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/in+a+dream",
-      "count": 10,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "rager teenager!",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
-      "count": 10,
-      "artist": "Troye Sivan"
-    },
     {
       "name": "Midnight Sky",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
@@ -89,28 +59,58 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "Take Yourself Home",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
-      "count": 9,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "glitter",
-      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
-      "count": 7,
-      "artist": "Todrick Hall"
-    },
-    {
-      "name": "STUD",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/STUD",
-      "count": 7,
-      "artist": "Troye Sivan"
+      "name": "Je disparais dans tes bras",
+      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
+      "count": 8,
+      "artist": "Christine and the Queens"
     },
     {
       "name": "All of the Feelings",
       "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
-      "count": 6,
+      "count": 8,
       "artist": "Kiesza"
+    },
+    {
+      "name": "glitter",
+      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
+      "count": 8,
+      "artist": "Todrick Hall"
+    },
+    {
+      "name": "I Need You",
+      "url": "https://www.last.fm/music/M83/_/I+Need+You",
+      "count": 7,
+      "artist": "M83"
+    },
+    {
+      "name": "in a dream",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/in+a+dream",
+      "count": 7,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Girl of the Year",
+      "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
+      "count": 6,
+      "artist": "Allie X"
+    },
+    {
+      "name": "Easy",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
+      "count": 6,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "rager teenager!",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
+      "count": 6,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Take Yourself Home",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
+      "count": 6,
+      "artist": "Troye Sivan"
     }
   ]
 }
