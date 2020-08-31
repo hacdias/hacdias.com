@@ -6,19 +6,14 @@
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Kim Petras",
-      "count": 18,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
       "name": "Kiesza",
-      "count": 17,
+      "count": 18,
       "url": "https://www.last.fm/music/Kiesza"
     },
     {
-      "name": "Miley Cyrus",
+      "name": "Kim Petras",
       "count": 16,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Todrick Hall",
@@ -26,8 +21,13 @@
       "url": "https://www.last.fm/music/Todrick+Hall"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 14,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Allie X",
-      "count": 13,
+      "count": 11,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "Christine and the Queens",
-      "count": 9,
+      "count": 8,
       "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
@@ -53,22 +53,10 @@
   ],
   "tracks": [
     {
-      "name": "Je disparais dans tes bras",
-      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
-      "count": 9,
-      "artist": "Christine and the Queens"
-    },
-    {
       "name": "All of the Feelings",
       "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
       "count": 9,
       "artist": "Kiesza"
-    },
-    {
-      "name": "Midnight Sky",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
-      "count": 9,
-      "artist": "Miley Cyrus"
     },
     {
       "name": "glitter",
@@ -77,10 +65,22 @@
       "artist": "Todrick Hall"
     },
     {
+      "name": "Je disparais dans tes bras",
+      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
+      "count": 8,
+      "artist": "Christine and the Queens"
+    },
+    {
       "name": "I Need You",
       "url": "https://www.last.fm/music/M83/_/I+Need+You",
       "count": 8,
       "artist": "M83"
+    },
+    {
+      "name": "Midnight Sky",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
+      "count": 7,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "in a dream",
@@ -101,16 +101,16 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Girl of the Year",
-      "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
-      "count": 6,
-      "artist": "Allie X"
-    },
-    {
       "name": "Slide Away",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
       "count": 6,
       "artist": "Miley Cyrus"
+    },
+    {
+      "name": "Easy",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
+      "count": 6,
+      "artist": "Troye Sivan"
     }
   ]
 }
