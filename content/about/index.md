@@ -35,6 +35,8 @@ In late **2017**, I was offered an Open Source Scholarship at [Protocol Labs][pl
 
 In the meanwhile, I was promoted to Software Engineer at Protocol Labs and my focus has shifted to [Testground][testground], a testing, benchmarking and simulating platform for decentralized systems.
 
+In June **2020** I finished my Bachelor's degree in Information Systems and Computer Engineering at [Técnico][ist], Lisboa ([certificate][istcert]). Then, I moved to Eindhoven, in the Netherlands, to start my Master's degree in Computer Science and Engineering at [TU/e][tue].
+
 Take a look at my [projects](/projects/) page and at my [GitHub profile][gh] to know more about what I've been working on recently. In addition, you can support my work, [buying me a coffee][bmc]!
 
 ## 🤔 The (un)story of my handle
@@ -46,6 +48,7 @@ Most likely you've already noticed that my handle, `@hacdias`, reminds of the wo
 [pl]: /articles/2019/09/protocol-labs/
 [resume]: /resume.pdf
 [ist]: https://tecnico.ulisboa.pt/en/
+[istcert]: https://cdn.hacdias.com/uploads/b46c4b5b2ecc0d859ced90ed5ad0977aae09887f6b4a017f480aab5e7a1d4499.pdf
 [tue]: https://tue.nl
 [ipfs]: https://ipfs.io
 [gh]: https://github.com/hacdias
