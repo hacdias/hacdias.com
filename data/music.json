@@ -2,114 +2,114 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 34,
+      "count": 35,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Kiesza",
-      "count": 18,
+      "count": 29,
       "url": "https://www.last.fm/music/Kiesza"
     },
     {
-      "name": "Kim Petras",
-      "count": 16,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
       "name": "Todrick Hall",
-      "count": 16,
+      "count": 22,
       "url": "https://www.last.fm/music/Todrick+Hall"
     },
     {
       "name": "Miley Cyrus",
-      "count": 14,
+      "count": 17,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Allie X",
-      "count": 11,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
-      "name": "The xx",
-      "count": 10,
-      "url": "https://www.last.fm/music/The+xx"
-    },
-    {
-      "name": "Christine and the Queens",
-      "count": 8,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 8,
+      "count": 12,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
+      "name": "Christine and the Queens",
+      "count": 11,
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
+    },
+    {
+      "name": "Harry Styles",
+      "count": 11,
+      "url": "https://www.last.fm/music/Harry+Styles"
+    },
+    {
       "name": "M83",
-      "count": 8,
+      "count": 11,
       "url": "https://www.last.fm/music/M83"
+    },
+    {
+      "name": "Allie X",
+      "count": 8,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 6,
+      "url": "https://www.last.fm/music/Kim+Petras"
     }
   ],
   "tracks": [
     {
+      "name": "glitter",
+      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
+      "count": 15,
+      "artist": "Todrick Hall"
+    },
+    {
       "name": "All of the Feelings",
       "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
-      "count": 9,
+      "count": 14,
       "artist": "Kiesza"
     },
     {
-      "name": "glitter",
-      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
-      "count": 9,
-      "artist": "Todrick Hall"
+      "name": "Slide Away",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
+      "count": 12,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "Je disparais dans tes bras",
       "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
-      "count": 8,
+      "count": 11,
       "artist": "Christine and the Queens"
     },
     {
       "name": "I Need You",
       "url": "https://www.last.fm/music/M83/_/I+Need+You",
-      "count": 8,
+      "count": 11,
       "artist": "M83"
     },
     {
-      "name": "Midnight Sky",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
-      "count": 7,
-      "artist": "Miley Cyrus"
+      "name": "Giant in My Heart",
+      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
+      "count": 10,
+      "artist": "Kiesza"
     },
     {
-      "name": "in a dream",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/in+a+dream",
-      "count": 7,
+      "name": "Watermelon Sugar",
+      "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
+      "count": 9,
+      "artist": "Harry Styles"
+    },
+    {
+      "name": "Take Yourself Home",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
+      "count": 9,
       "artist": "Troye Sivan"
     },
     {
       "name": "rager teenager!",
       "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
-      "count": 7,
+      "count": 8,
       "artist": "Troye Sivan"
     },
     {
-      "name": "Take Yourself Home",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
+      "name": "in a dream",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/in+a+dream",
       "count": 7,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Slide Away",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
-      "count": 6,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Easy",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Easy",
-      "count": 6,
       "artist": "Troye Sivan"
     }
   ]
