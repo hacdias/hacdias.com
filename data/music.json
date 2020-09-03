@@ -2,23 +2,28 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 35,
+      "count": 37,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Kiesza",
-      "count": 29,
+      "count": 31,
       "url": "https://www.last.fm/music/Kiesza"
     },
     {
       "name": "Todrick Hall",
-      "count": 22,
+      "count": 23,
       "url": "https://www.last.fm/music/Todrick+Hall"
     },
     {
       "name": "Miley Cyrus",
-      "count": 17,
+      "count": 21,
       "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Harry Styles",
+      "count": 14,
+      "url": "https://www.last.fm/music/Harry+Styles"
     },
     {
       "name": "Lady Gaga",
@@ -31,43 +36,38 @@
       "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
-      "name": "Harry Styles",
-      "count": 11,
-      "url": "https://www.last.fm/music/Harry+Styles"
-    },
-    {
       "name": "M83",
       "count": 11,
       "url": "https://www.last.fm/music/M83"
     },
     {
-      "name": "Allie X",
-      "count": 8,
-      "url": "https://www.last.fm/music/Allie+X"
+      "name": "Kim Petras",
+      "count": 10,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Kim Petras",
-      "count": 6,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "name": "Allie X",
+      "count": 7,
+      "url": "https://www.last.fm/music/Allie+X"
     }
   ],
   "tracks": [
     {
       "name": "glitter",
       "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
-      "count": 15,
+      "count": 16,
       "artist": "Todrick Hall"
     },
     {
       "name": "All of the Feelings",
       "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
-      "count": 14,
+      "count": 15,
       "artist": "Kiesza"
     },
     {
       "name": "Slide Away",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
-      "count": 12,
+      "count": 13,
       "artist": "Miley Cyrus"
     },
     {
@@ -77,21 +77,21 @@
       "artist": "Christine and the Queens"
     },
     {
+      "name": "Giant in My Heart",
+      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
+      "count": 11,
+      "artist": "Kiesza"
+    },
+    {
       "name": "I Need You",
       "url": "https://www.last.fm/music/M83/_/I+Need+You",
       "count": 11,
       "artist": "M83"
     },
     {
-      "name": "Giant in My Heart",
-      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
-      "count": 10,
-      "artist": "Kiesza"
-    },
-    {
       "name": "Watermelon Sugar",
       "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
-      "count": 9,
+      "count": 10,
       "artist": "Harry Styles"
     },
     {
