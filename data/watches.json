@@ -6,7 +6,7 @@
       "url": "https://trakt.tv/movies/hurricane-bianca-from-russia-with-hate-2018"
     },
     {
-      "title": "Phineas and Ferb The Movie: Candace Against the Universe",
+      "title": "Phineas and Ferb – The Movie: Candace Against the Universe",
       "watched": "2020-08-29T09:27:13.000Z",
       "url": "https://trakt.tv/movies/phineas-and-ferb-the-movie-candace-against-the-universe-2020"
     },
@@ -1718,6 +1718,11 @@
   ],
   "series": [
     {
+      "title": "Heathrow: Britain's Busiest Airport",
+      "watched": "2020-09-01T17:49:37.000Z",
+      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
+    },
+    {
       "title": "The Umbrella Academy",
       "watched": "2020-08-20T08:22:30.000Z",
       "url": "https://trakt.tv/shows/the-umbrella-academy"
@@ -1891,11 +1896,6 @@
       "title": "Degrassi: Next Class",
       "watched": "2019-12-01T21:02:45.000Z",
       "url": "https://trakt.tv/shows/degrassi-next-class"
-    },
-    {
-      "title": "Britain's Busiest Airport: Heathrow",
-      "watched": "2019-10-18T00:07:50.000Z",
-      "url": "https://trakt.tv/shows/britain-s-busiest-airport-heathrow"
     },
     {
       "title": "The Handmaid's Tale",
