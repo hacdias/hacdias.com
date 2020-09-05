@@ -2,23 +2,18 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 36,
+      "count": 32,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Kiesza",
-      "count": 29,
-      "url": "https://www.last.fm/music/Kiesza"
-    },
-    {
       "name": "Miley Cyrus",
-      "count": 25,
+      "count": 22,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Todrick Hall",
-      "count": 20,
-      "url": "https://www.last.fm/music/Todrick+Hall"
+      "name": "Kiesza",
+      "count": 18,
+      "url": "https://www.last.fm/music/Kiesza"
     },
     {
       "name": "Lady Gaga",
@@ -32,7 +27,7 @@
     },
     {
       "name": "Christine and the Queens",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
@@ -46,41 +41,22 @@
       "url": "https://www.last.fm/music/RuPaul"
     },
     {
-      "name": "M83",
+      "name": "Todrick Hall",
       "count": 9,
+      "url": "https://www.last.fm/music/Todrick+Hall"
+    },
+    {
+      "name": "M83",
+      "count": 8,
       "url": "https://www.last.fm/music/M83"
     }
   ],
   "tracks": [
     {
-      "name": "All of the Feelings",
-      "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
-      "count": 13,
-      "artist": "Kiesza"
-    },
-    {
-      "name": "glitter",
-      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
-      "count": 13,
-      "artist": "Todrick Hall"
-    },
-    {
-      "name": "Slide Away",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
-      "count": 12,
-      "artist": "Miley Cyrus"
-    },
-    {
       "name": "Je disparais dans tes bras",
       "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
-      "count": 11,
+      "count": 10,
       "artist": "Christine and the Queens"
-    },
-    {
-      "name": "Giant in My Heart",
-      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
-      "count": 11,
-      "artist": "Kiesza"
     },
     {
       "name": "Watermelon Sugar",
@@ -89,9 +65,27 @@
       "artist": "Harry Styles"
     },
     {
+      "name": "All of the Feelings",
+      "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
+      "count": 10,
+      "artist": "Kiesza"
+    },
+    {
+      "name": "glitter",
+      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
+      "count": 9,
+      "artist": "Todrick Hall"
+    },
+    {
+      "name": "Giant in My Heart",
+      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
+      "count": 8,
+      "artist": "Kiesza"
+    },
+    {
       "name": "I Need You",
       "url": "https://www.last.fm/music/M83/_/I+Need+You",
-      "count": 9,
+      "count": 8,
       "artist": "M83"
     },
     {
@@ -101,15 +95,21 @@
       "artist": "Miley Cyrus"
     },
     {
+      "name": "Slide Away",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
+      "count": 8,
+      "artist": "Miley Cyrus"
+    },
+    {
       "name": "Take Yourself Home",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home",
-      "count": 8,
+      "count": 7,
       "artist": "Troye Sivan"
     },
     {
       "name": "rager teenager!",
       "url": "https://www.last.fm/music/Troye+Sivan/_/rager+teenager!",
-      "count": 7,
+      "count": 6,
       "artist": "Troye Sivan"
     }
   ]
