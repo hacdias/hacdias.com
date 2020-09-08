@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Tenet",
+      "watched": "2020-09-07T14:29:54.000Z",
+      "url": "https://trakt.tv/movies/tenet-2020"
+    },
+    {
       "title": "Hurricane Bianca: From Russia with Hate",
       "watched": "2020-08-30T07:16:13.000Z",
       "url": "https://trakt.tv/movies/hurricane-bianca-from-russia-with-hate-2018"
