@@ -6,13 +6,8 @@
       "url": "https://www.last.fm/music/Bli"
     },
     {
-      "name": "Troye Sivan",
-      "count": 23,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
       "name": "Miley Cyrus",
-      "count": 21,
+      "count": 18,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
@@ -31,24 +26,29 @@
       "url": "https://www.last.fm/music/Alexandre+Desplat"
     },
     {
+      "name": "Troye Sivan",
+      "count": 15,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
       "name": "Lady Gaga",
-      "count": 14,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Kiesza",
       "count": 13,
-      "url": "https://www.last.fm/music/Kiesza"
-    },
-    {
-      "name": "Harry Styles",
-      "count": 11,
-      "url": "https://www.last.fm/music/Harry+Styles"
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Allie X",
       "count": 8,
       "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Kiesza",
+      "count": 8,
+      "url": "https://www.last.fm/music/Kiesza"
+    },
+    {
+      "name": "Harry Styles",
+      "count": 7,
+      "url": "https://www.last.fm/music/Harry+Styles"
     }
   ],
   "tracks": [
@@ -59,58 +59,58 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "Watermelon Sugar",
-      "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
-      "count": 7,
-      "artist": "Harry Styles"
-    },
-    {
-      "name": "Giant in My Heart",
-      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
-      "count": 7,
-      "artist": "Kiesza"
-    },
-    {
-      "name": "Slide Away",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
-      "count": 6,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "glitter",
-      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
-      "count": 6,
-      "artist": "Todrick Hall"
-    },
-    {
       "name": "Mood Ring (By Demand) - Pride Remix",
       "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
-      "count": 5,
+      "count": 6,
       "artist": "Britney Spears"
-    },
-    {
-      "name": "Je disparais dans tes bras",
-      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
-      "count": 5,
-      "artist": "Christine and the Queens"
-    },
-    {
-      "name": "Issues",
-      "url": "https://www.last.fm/music/Julia+Michaels/_/Issues",
-      "count": 5,
-      "artist": "Julia Michaels"
-    },
-    {
-      "name": "All of the Feelings",
-      "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
-      "count": 5,
-      "artist": "Kiesza"
     },
     {
       "name": "Sissy That Walk",
       "url": "https://www.last.fm/music/RuPaul/_/Sissy+That+Walk",
       "count": 5,
       "artist": "RuPaul"
+    },
+    {
+      "name": "Issues",
+      "url": "https://www.last.fm/music/Julia+Michaels/_/Issues",
+      "count": 4,
+      "artist": "Julia Michaels"
+    },
+    {
+      "name": "Giant in My Heart",
+      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
+      "count": 4,
+      "artist": "Kiesza"
+    },
+    {
+      "name": "Cover Girl",
+      "url": "https://www.last.fm/music/RuPaul/_/Cover+Girl",
+      "count": 4,
+      "artist": "RuPaul"
+    },
+    {
+      "name": "glitter",
+      "url": "https://www.last.fm/music/Todrick+Hall/_/glitter",
+      "count": 4,
+      "artist": "Todrick Hall"
+    },
+    {
+      "name": "Hourglass",
+      "url": "https://www.last.fm/music/Alice+Chater/_/Hourglass",
+      "count": 3,
+      "artist": "Alice Chater"
+    },
+    {
+      "name": "Lost",
+      "url": "https://www.last.fm/music/Cher+Lloyd/_/Lost",
+      "count": 3,
+      "artist": "Cher Lloyd"
+    },
+    {
+      "name": "In the Middle (Sad Banger)",
+      "url": "https://www.last.fm/music/Chl%C3%B6e+Howl/_/In+the+Middle+(Sad+Banger)",
+      "count": 3,
+      "artist": "Chlöe Howl"
     }
   ]
 }
