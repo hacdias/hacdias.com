@@ -1723,6 +1723,11 @@
   ],
   "series": [
     {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2020-09-09T05:37:53.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "Heathrow: Britain's Busiest Airport",
       "watched": "2020-09-06T08:03:03.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
@@ -1736,11 +1741,6 @@
       "title": "Secret Celebrity RuPaul's Drag Race",
       "watched": "2020-08-17T14:04:31.000Z",
       "url": "https://trakt.tv/shows/secret-celebrity-rupaul-s-drag-race"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2020-08-17T11:42:36.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "Good Girls",
