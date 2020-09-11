@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Kill Bill: Vol. 1",
+      "watched": "2020-09-10T21:24:06.000Z",
+      "url": "https://trakt.tv/movies/kill-bill-vol-1-2003"
+    },
+    {
       "title": "Tenet",
       "watched": "2020-09-07T14:29:54.000Z",
       "url": "https://trakt.tv/movies/tenet-2020"
