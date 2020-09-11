@@ -6,24 +6,9 @@
       "url": "https://www.last.fm/music/Bli"
     },
     {
-      "name": "RuPaul",
-      "count": 16,
-      "url": "https://www.last.fm/music/RuPaul"
-    },
-    {
       "name": "Alexandre Desplat",
       "count": 15,
       "url": "https://www.last.fm/music/Alexandre+Desplat"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 13,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 13,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Kim Petras",
@@ -31,56 +16,53 @@
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Troye Sivan",
-      "count": 8,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "name": "Lady Gaga",
+      "count": 7,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 7,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Britney Spears",
-      "count": 7,
-      "url": "https://www.last.fm/music/Britney+Spears"
-    },
-    {
-      "name": "Allie X",
       "count": 6,
-      "url": "https://www.last.fm/music/Allie+X"
+      "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
       "name": "Kiesza",
       "count": 6,
       "url": "https://www.last.fm/music/Kiesza"
+    },
+    {
+      "name": "RuPaul",
+      "count": 6,
+      "url": "https://www.last.fm/music/RuPaul"
+    },
+    {
+      "name": "Allie X",
+      "count": 5,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Troye Sivan",
+      "count": 4,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     }
   ],
   "tracks": [
     {
       "name": "Mood Ring (By Demand) - Pride Remix",
       "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
-      "count": 6,
+      "count": 5,
       "artist": "Britney Spears"
-    },
-    {
-      "name": "Midnight Sky",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
-      "count": 5,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Sissy That Walk",
-      "url": "https://www.last.fm/music/RuPaul/_/Sissy+That+Walk",
-      "count": 5,
-      "artist": "RuPaul"
     },
     {
       "name": "Issues",
       "url": "https://www.last.fm/music/Julia+Michaels/_/Issues",
-      "count": 4,
+      "count": 3,
       "artist": "Julia Michaels"
-    },
-    {
-      "name": "Cover Girl",
-      "url": "https://www.last.fm/music/RuPaul/_/Cover+Girl",
-      "count": 4,
-      "artist": "RuPaul"
     },
     {
       "name": "Giant in My Heart",
@@ -95,22 +77,40 @@
       "artist": "Todrick Hall"
     },
     {
-      "name": "Ghost Town",
-      "url": "https://www.last.fm/music/Adam+Lambert/_/Ghost+Town",
-      "count": 2,
-      "artist": "Adam Lambert"
-    },
-    {
       "name": "Obliviate",
       "url": "https://www.last.fm/music/Alexandre+Desplat/_/Obliviate",
       "count": 2,
       "artist": "Alexandre Desplat"
     },
     {
-      "name": "Hourglass",
-      "url": "https://www.last.fm/music/Alice+Chater/_/Hourglass",
+      "name": "Le Castellet",
+      "url": "https://www.last.fm/music/Antoine+Minot/_/Le+Castellet",
       "count": 2,
-      "artist": "Alice Chater"
+      "artist": "Antoine Minot"
+    },
+    {
+      "name": "Doomscrolling - BLI Edit",
+      "url": "https://www.last.fm/music/Bli/_/Doomscrolling+-+BLI+Edit",
+      "count": 2,
+      "artist": "Bli"
+    },
+    {
+      "name": "Ekphrasis",
+      "url": "https://www.last.fm/music/Bli/_/Ekphrasis",
+      "count": 2,
+      "artist": "Bli"
+    },
+    {
+      "name": "Mentha Piperita",
+      "url": "https://www.last.fm/music/Bli/_/Mentha+Piperita",
+      "count": 2,
+      "artist": "Bli"
+    },
+    {
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
+      "count": 2,
+      "artist": "Calvin Harris"
     }
   ]
 }
