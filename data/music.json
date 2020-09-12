@@ -11,29 +11,34 @@
       "url": "https://www.last.fm/music/Alexandre+Desplat"
     },
     {
-      "name": "Kim Petras",
-      "count": 9,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 7,
+      "count": 15,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 7,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Britney Spears",
-      "count": 6,
-      "url": "https://www.last.fm/music/Britney+Spears"
+      "name": "Kim Petras",
+      "count": 10,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Kiesza",
-      "count": 6,
+      "count": 8,
       "url": "https://www.last.fm/music/Kiesza"
+    },
+    {
+      "name": "Alma",
+      "count": 7,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Allie X",
+      "count": 6,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 6,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "RuPaul",
@@ -41,34 +46,53 @@
       "url": "https://www.last.fm/music/RuPaul"
     },
     {
-      "name": "Allie X",
+      "name": "Britney Spears",
       "count": 5,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
-      "name": "Troye Sivan",
-      "count": 4,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "url": "https://www.last.fm/music/Britney+Spears"
     }
   ],
   "tracks": [
     {
+      "name": "Giant in My Heart",
+      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
+      "count": 5,
+      "artist": "Kiesza"
+    },
+    {
       "name": "Mood Ring (By Demand) - Pride Remix",
       "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
-      "count": 5,
+      "count": 4,
       "artist": "Britney Spears"
     },
     {
       "name": "Issues",
       "url": "https://www.last.fm/music/Julia+Michaels/_/Issues",
-      "count": 3,
+      "count": 4,
       "artist": "Julia Michaels"
     },
     {
-      "name": "Giant in My Heart",
-      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
+      "name": "Good Vibes",
+      "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
       "count": 3,
-      "artist": "Kiesza"
+      "artist": "Alma"
+    },
+    {
+      "name": "Watermelon Sugar",
+      "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
+      "count": 3,
+      "artist": "Harry Styles"
+    },
+    {
+      "name": "Midnight Sky",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
+      "count": 3,
+      "artist": "Miley Cyrus"
+    },
+    {
+      "name": "Rendezvous",
+      "url": "https://www.last.fm/music/Miss+Benny/_/Rendezvous",
+      "count": 3,
+      "artist": "Miss Benny"
     },
     {
       "name": "glitter",
@@ -83,34 +107,10 @@
       "artist": "Alexandre Desplat"
     },
     {
-      "name": "Le Castellet",
-      "url": "https://www.last.fm/music/Antoine+Minot/_/Le+Castellet",
+      "name": "Girl of the Year",
+      "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
       "count": 2,
-      "artist": "Antoine Minot"
-    },
-    {
-      "name": "Doomscrolling - BLI Edit",
-      "url": "https://www.last.fm/music/Bli/_/Doomscrolling+-+BLI+Edit",
-      "count": 2,
-      "artist": "Bli"
-    },
-    {
-      "name": "Ekphrasis",
-      "url": "https://www.last.fm/music/Bli/_/Ekphrasis",
-      "count": 2,
-      "artist": "Bli"
-    },
-    {
-      "name": "Mentha Piperita",
-      "url": "https://www.last.fm/music/Bli/_/Mentha+Piperita",
-      "count": 2,
-      "artist": "Bli"
-    },
-    {
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa)",
-      "count": 2,
-      "artist": "Calvin Harris"
+      "artist": "Allie X"
     }
   ]
 }
