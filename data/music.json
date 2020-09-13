@@ -12,13 +12,18 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 15,
+      "count": 12,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Kim Petras",
-      "count": 10,
+      "count": 9,
       "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Alma",
+      "count": 8,
+      "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Kiesza",
@@ -26,29 +31,24 @@
       "url": "https://www.last.fm/music/Kiesza"
     },
     {
-      "name": "Alma",
-      "count": 7,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
-      "name": "Allie X",
-      "count": 6,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
       "name": "Miley Cyrus",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "RuPaul",
-      "count": 6,
-      "url": "https://www.last.fm/music/RuPaul"
+      "name": "Britney Spears",
+      "count": 4,
+      "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
-      "name": "Britney Spears",
-      "count": 5,
-      "url": "https://www.last.fm/music/Britney+Spears"
+      "name": "Allie X",
+      "count": 3,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Harry Styles",
+      "count": 3,
+      "url": "https://www.last.fm/music/Harry+Styles"
     }
   ],
   "tracks": [
@@ -59,40 +59,34 @@
       "artist": "Kiesza"
     },
     {
+      "name": "Good Vibes",
+      "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
+      "count": 4,
+      "artist": "Alma"
+    },
+    {
       "name": "Mood Ring (By Demand) - Pride Remix",
       "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
-      "count": 4,
+      "count": 3,
       "artist": "Britney Spears"
     },
     {
       "name": "Issues",
       "url": "https://www.last.fm/music/Julia+Michaels/_/Issues",
-      "count": 4,
+      "count": 3,
       "artist": "Julia Michaels"
     },
     {
-      "name": "Good Vibes",
-      "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
+      "name": "All of the Feelings",
+      "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
       "count": 3,
-      "artist": "Alma"
+      "artist": "Kiesza"
     },
     {
-      "name": "Watermelon Sugar",
-      "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
-      "count": 3,
-      "artist": "Harry Styles"
-    },
-    {
-      "name": "Midnight Sky",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
+      "name": "Slide Away",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
       "count": 3,
       "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Rendezvous",
-      "url": "https://www.last.fm/music/Miss+Benny/_/Rendezvous",
-      "count": 3,
-      "artist": "Miss Benny"
     },
     {
       "name": "glitter",
@@ -111,6 +105,12 @@
       "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
       "count": 2,
       "artist": "Allie X"
+    },
+    {
+      "name": "Le Castellet",
+      "url": "https://www.last.fm/music/Antoine+Minot/_/Le+Castellet",
+      "count": 2,
+      "artist": "Antoine Minot"
     }
   ]
 }
