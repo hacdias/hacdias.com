@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Kill Bill: Vol. 2",
+      "watched": "2020-09-12T22:16:03.000Z",
+      "url": "https://trakt.tv/movies/kill-bill-vol-2-2004"
+    },
+    {
       "title": "Kill Bill: Vol. 1",
       "watched": "2020-09-10T21:24:06.000Z",
       "url": "https://trakt.tv/movies/kill-bill-vol-1-2003"
@@ -1728,14 +1733,14 @@
   ],
   "series": [
     {
+      "title": "Heathrow: Britain's Busiest Airport",
+      "watched": "2020-09-12T07:30:55.000Z",
+      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
+    },
+    {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2020-09-09T05:37:53.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
-    },
-    {
-      "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2020-09-06T08:03:03.000Z",
-      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
     },
     {
       "title": "The Umbrella Academy",
