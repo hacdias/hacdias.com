@@ -2,13 +2,18 @@
   "artists": [
     {
       "name": "Alma",
-      "count": 11,
+      "count": 13,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Lady Gaga",
       "count": 10,
       "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 8,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Kiesza",
@@ -21,6 +26,11 @@
       "url": "https://www.last.fm/music/M83"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 5,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Tove Lo",
       "count": 5,
       "url": "https://www.last.fm/music/Tove+Lo"
@@ -31,31 +41,21 @@
       "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 4,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Christine and the Queens",
-      "count": 3,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
-    },
-    {
       "name": "Harry Styles",
-      "count": 3,
+      "count": 4,
       "url": "https://www.last.fm/music/Harry+Styles"
     },
     {
-      "name": "Julia Michaels",
-      "count": 3,
-      "url": "https://www.last.fm/music/Julia+Michaels"
+      "name": "Troye Sivan",
+      "count": 4,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     }
   ],
   "tracks": [
     {
       "name": "Good Vibes",
       "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
-      "count": 5,
+      "count": 6,
       "artist": "Alma"
     },
     {
@@ -71,10 +71,10 @@
       "artist": "Britney Spears"
     },
     {
-      "name": "Je disparais dans tes bras",
-      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
+      "name": "Watermelon Sugar",
+      "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
       "count": 3,
-      "artist": "Christine and the Queens"
+      "artist": "Harry Styles"
     },
     {
       "name": "Issues",
@@ -89,28 +89,28 @@
       "artist": "Tame Impala"
     },
     {
-      "name": "Le Castellet",
-      "url": "https://www.last.fm/music/Antoine+Minot/_/Le+Castellet",
+      "name": "Girl of the Year",
+      "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
       "count": 2,
-      "artist": "Antoine Minot"
+      "artist": "Allie X"
     },
     {
-      "name": "Monopoly",
-      "url": "https://www.last.fm/music/Easyfun/_/Monopoly",
+      "name": "Je disparais dans tes bras",
+      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
       "count": 2,
-      "artist": "Easyfun"
+      "artist": "Christine and the Queens"
     },
     {
-      "name": "I Will Survive",
-      "url": "https://www.last.fm/music/Gloria+Gaynor/_/I+Will+Survive",
+      "name": "Fuego",
+      "url": "https://www.last.fm/music/Eleni+Foureira/_/Fuego",
       "count": 2,
-      "artist": "Gloria Gaynor"
+      "artist": "Eleni Foureira"
     },
     {
-      "name": "Watermelon Sugar",
-      "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
+      "name": "All of the Feelings",
+      "url": "https://www.last.fm/music/Kiesza/_/All+of+the+Feelings",
       "count": 2,
-      "artist": "Harry Styles"
+      "artist": "Kiesza"
     }
   ]
 }
