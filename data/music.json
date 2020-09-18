@@ -2,53 +2,53 @@
   "artists": [
     {
       "name": "Alma",
-      "count": 16,
+      "count": 17,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Lady Gaga",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Kim Petras",
-      "count": 8,
+      "count": 10,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 7,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
       "name": "Kiesza",
-      "count": 6,
+      "count": 8,
       "url": "https://www.last.fm/music/Kiesza"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 8,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Tove Lo",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Tove+Lo"
     },
     {
+      "name": "Troye Sivan",
+      "count": 7,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
       "name": "M83",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/M83"
+    },
+    {
+      "name": "Tame Impala",
+      "count": 5,
+      "url": "https://www.last.fm/music/Tame+Impala"
     },
     {
       "name": "Britney Spears",
       "count": 4,
       "url": "https://www.last.fm/music/Britney+Spears"
-    },
-    {
-      "name": "Julia Michaels",
-      "count": 4,
-      "url": "https://www.last.fm/music/Julia+Michaels"
-    },
-    {
-      "name": "Only Fire",
-      "count": 4,
-      "url": "https://www.last.fm/music/Only+Fire"
     }
   ],
   "tracks": [
@@ -57,6 +57,18 @@
       "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
       "count": 8,
       "artist": "Alma"
+    },
+    {
+      "name": "Giant in My Heart",
+      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
+      "count": 5,
+      "artist": "Kiesza"
+    },
+    {
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
+      "count": 5,
+      "artist": "Tame Impala"
     },
     {
       "name": "Mood Ring (By Demand) - Pride Remix",
@@ -71,46 +83,34 @@
       "artist": "Julia Michaels"
     },
     {
-      "name": "Giant in My Heart",
-      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
-      "count": 4,
-      "artist": "Kiesza"
-    },
-    {
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
-      "count": 4,
-      "artist": "Tame Impala"
-    },
-    {
-      "name": "Watermelon Sugar",
-      "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
-      "count": 3,
-      "artist": "Harry Styles"
-    },
-    {
       "name": "Lose You to Love Me",
       "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
-      "count": 3,
+      "count": 4,
       "artist": "Selena Gomez"
     },
     {
       "name": "Sweettalk My Heart",
       "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
-      "count": 3,
+      "count": 4,
       "artist": "Tove Lo"
-    },
-    {
-      "name": "Girl of the Year",
-      "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
-      "count": 2,
-      "artist": "Allie X"
     },
     {
       "name": "Bad News Baby",
       "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
-      "count": 2,
+      "count": 3,
       "artist": "Alma"
+    },
+    {
+      "name": "Je disparais dans tes bras",
+      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Je+disparais+dans+tes+bras",
+      "count": 3,
+      "artist": "Christine and the Queens"
+    },
+    {
+      "name": "Fuego",
+      "url": "https://www.last.fm/music/Eleni+Foureira/_/Fuego",
+      "count": 3,
+      "artist": "Eleni Foureira"
     }
   ]
 }
