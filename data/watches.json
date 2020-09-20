@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "The Social Dilemma",
+      "watched": "2020-09-19T19:43:13.000Z",
+      "url": "https://trakt.tv/movies/the-social-dilemma-2020"
+    },
+    {
       "title": "Coraline",
       "watched": "2020-09-18T20:02:05.000Z",
       "url": "https://trakt.tv/movies/coraline-2009"
@@ -1739,7 +1744,7 @@
   "series": [
     {
       "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2020-09-12T07:30:55.000Z",
+      "watched": "2020-09-19T18:08:55.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
     },
     {
