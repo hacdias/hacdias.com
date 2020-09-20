@@ -3,5 +3,15 @@ title: Micro
 emoji: 💬
 menu:
   main:
-    weight: 6
+    weight: 3
 ---
+
+<style>
+@media screen and (min-width: 38rem) {
+  body {
+    background: white url(pattern.jpg);
+    background-size: 400px;
+    background-attachment: fixed;
+  }
+}
+</style>

@@ -10,10 +10,14 @@ type: page
 ---
 
 <style>
-@media screen and (min-width: 40rem) {
+:root {
+  --action: #8e4a1f;
+}
+
+@media screen and (min-width: 38rem) {
   body {
-    background-image: url(wood.jpg);
-    background-size: 200px;
+    background: #8e4a1f url(shelf.jpg);
+    background-size: 400px;
     background-attachment: fixed;
   }
 }

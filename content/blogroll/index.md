@@ -10,11 +10,14 @@ type: page
 ---
 
 <style>
-@media screen and (min-width: 40rem) {
+:root {
+  --action: #6db85c;
+}
+
+@media screen and (min-width: 38rem) {
   body {
     background: #316bb3 url(people.jpg);
     background-size: 512px;
-    filter: var(--shadow);
   }
 }
 </style>

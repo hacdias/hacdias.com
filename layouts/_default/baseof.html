@@ -6,14 +6,29 @@
 <body>
   <div class='container'>
     <div id='header'>
-      <input type="checkbox" id="toggler">
-      <nav>
-        <label for="toggler"><a class='no-link'>Menu</a></label>
-        {{- range .Site.Menus.main -}}
-          <a href='{{ .URL }}' class='no-link {{ if $.IsMenuCurrent "main" . }}a{{ end }}'>{{ .Name -}}</a>
-        {{- end -}}
-      </nav>
+      <a class='no-link' href='{{ relURL .Site.BaseURL }}'>
+        <div class='emoji'>🧙‍♂️</div>
+        <div>
+          <p class='name glitch' data-text="Henrique Dias">Henrique Dias</p>
+          <p class='aka'>aka <span class='glitch' data-text='@hacdias'>@hacdias</span></p>
+        </div>
+      </a>
     </div>
+    
+    <nav id='navbar' class='full-width'>
+      <input type="checkbox" id="toggler">
+      <ul>
+        <label for="toggler"><a class='no-link'>🍔 Menu</a></label>
+        {{ range .Site.Menus.main -}}
+          <li>
+            <a href='{{ .URL }}' class='no-link'>
+              <span>{{ with .Page }}{{ .Params.emoji }}{{ end}}</span>
+              <span>{{ .Name }}</span>
+            </a>
+          </li>
+        {{end}}
+      </ul>
+    </nav>
 
     {{ block "main" . -}}{{ end }}
     {{ partial "footer" . -}}

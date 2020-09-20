@@ -9,10 +9,12 @@ type: page
 ---
 
 <style>
+:root {
+  --action: #25a9e1;
+}
 body {
-  background: url(prisms.jpg);
-  background-size: 512px;
-  filter: var(--shadow);
+  background: url(discs.jpg);
+  background-size: 400px;
 }
 </style>
 

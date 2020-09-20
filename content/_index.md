@@ -1,13 +1,9 @@
 ---
 title: hacdias.com
-menu:
-  main:
-    weight: 1
-    name: '@hacdias'
 ---
 
 <style>
-@media screen and (min-width: 40rem) {
+@media screen and (min-width: 38rem) {
   body {
     background: #000 url(space.gif);
   }
@@ -21,11 +17,7 @@ menu:
   <a class="u-key" href="/pubkey.txt">public PGP key</a>
 </div>
 
-# 🧙‍♂️ Henrique Dias
-
-Hi! 👋 I'm from Portugal 🇵🇹 and I'm now starting my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven. Currently, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
-
-I believe in the transparency and openness of the world, in an united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈. If you're interested, you can [read more](/about/) about me.
+Hi! 👋 I'm from Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in an united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
 
 ## ✏️ Writing
 
@@ -38,31 +30,24 @@ This is a list of some of my favorite articles I have written. Check out my [art
 - [**We don't own our data, do we?**](/articles/2019/12/own-your-data/), where I decided to write a bit about our data and its ownership on the multiple platforms we use on a daily basis.
 - [**Decentralizing my website with IPFS**](/articles/2019/08/decentralizing-my-website-with-ipfs/), about how to use IPFS and Cloudflare to build a decentralized website and be part of the web3.
 
-## ⏱ Now
+## 🥐 Stuff
 
-This is a quick, automated, summary of what's been happening to me on the past days. Take a look at my [**now**](/now/) page to know more.
+There's a lot more on this website than the pages linked above. Here is a list of *some* of the pages that you can find on this website. Check these out!
 
 - 📚 {{< latest-read >}}
 - 🎬 The [last movie](/watches/#movies) I watched was **{{< latest-watch type="movies" >}}**.
 - 📺 The [last episode](/watches/#series) I watched was **{{< latest-watch type="series" >}}**.
 - 🎶 The artist I've been [listening](/music/) the most is **{{< recent-artist >}}**.
 - 🛠️ The tools I'm [using](/uses/).
+- 🧻 [**Blogroll**](/blogroll/), a list of the blogs and people I follow.
+- 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
+- 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
+- 📌 [**Pins**](/pins/), a collection of interesting websites that I find worth sharing.
+- 📦 [**Projects**](/projects/), the major projects I've worked on.
+- 🏷 [**Tags**](/tags/), uh, finding posts by tags.
 
 ## 📝 Guestbook
 
 {{< figure src="book.gif" alt="Open Book" class="right pixelated" style="max-width: 60px; margin-top: 0; margin-left: 1rem;" >}}
 
-Hey, I have a guestbook. If you have something to say, even if it's just an hello, please check out my 90s-style inspired [**guestbook**](/guestbook/)!
-
-## 🥐 Stuff
-
-There's a lot more on this website than the pages linked above. Here is a list of *some* of the pages that you can find on this website. Check these out!
-
-- 🧻 [**Blogroll**](/blogroll/), a list of the blogs and people I follow.
-- ✉️ [**Contact**](/contact/), on how my preferred ways to be contacted.
-- 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
-- 🧲 [**Follow**](/follow/), on how to follow this website.
-- 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
-- 📌 [**Pins**](/pins/), a collection of interesting websites that I find worth sharing.
-- 📦 [**Projects**](/projects/), the major projects I've worked on.
-- 🏷 [**Tags**](/tags/), uh, finding posts by tags.
+Hey! Please check out my 90s-style inspired [**guestbook**](/guestbook/) if you liked the website and drop a few lines or just an 'hey'!

@@ -8,9 +8,15 @@ type: page
 ---
 
 <style>
-body {
-  background-color: #cc0202;
-  filter: var(--shadow);
+:root {
+  --action: #c0749d;
+}
+@media screen and (min-width: 38rem) {
+  body {
+    background: #48084f url(pattern.jpg);
+    background-size: 300px;
+    background-attachment: fixed;
+  }
 }
 </style>
 

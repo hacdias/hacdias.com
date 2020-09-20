@@ -8,6 +8,16 @@ menu:
     weight: 4
 ---
 
+<style>
+@media screen and (min-width: 38rem) {
+  body {
+    background: #fecb00 url(mail.jpg);
+    background-size: 400px;
+    background-attachment: fixed;
+  }
+}
+</style>
+
 My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in.
 However, if you want to contact me, here are my preferred ways to do so:
 

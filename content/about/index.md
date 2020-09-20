@@ -1,22 +1,33 @@
 ---
 hideMentions: true
-title: About Me
+title: About
 type: page
-emoji: 🧙‍♂️
-description: >
-  Henrique is finishing his Bachelor's degree in Computer Science and Engineering
-  while working on the most fascinating projects to decentralize the web.
+emoji: 🧔
 menu:
   main:
-    weight: 2
-    name: About
+    weight: 1
 ---
+
+<style>
+:root {
+  --action: #036b74;
+}
+
+@media screen and (min-width: 38rem) {
+  body {
+    background: #036b74 url(space.jpg);
+    background-size: 400px;
+    background-attachment: fixed;
+  }
+}
+</style>
+
 
 {{< figure alt="Me!" src="hac.jpeg" caption="Taken by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
 
 Hi, I'm Henrique (he/him)! 👋
 
-I'm from a little a town in Portugal 🇵🇹 and I'm now starting my Master's degree 🎓 in Computer Science and Engineering at [TU/e][tue], in Eindhoven. Currently, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web. For more things that are happening to me right now, please check my [now](/now/) page.
+I'm from a little a town in Portugal 🇵🇹 and I'm now starting my Master's degree 🎓 in Computer Science and Engineering at [TU/e][tue], in Eindhoven. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
 
 I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈. There are a lot of problems in the world and we all are part of them and should work towards correcting them, making Earth a better place for all of us to live.
 

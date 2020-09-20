@@ -13,7 +13,7 @@ tags:
 ---
 
 <style>
-@media screen and (min-width: 40rem) {
+@media screen and (min-width: 38rem) {
   body {
     background: #010d2a url(sea.jpg);
     background-size: 300px;

@@ -1,20 +1,15 @@
 :root {
-  --black: #222;
+  --black: #111;
   --dark-gray: #333;
-  --gray: #444;
-  --light-gray: #555;
   --light-white: #ddd;
   --near-white: #f4f4f4;
+  --action: #00449e;
   --white: #ffffff;
-  --accent: #4b7bec;
-  --accent-darker: #3867d6;
-  --accent-text: white;
-  --fold: 32px;
-  --space: 3rem;
-  --max-width: 46rem;
+  --space: 2.5rem;
+  --half-space: 1.25rem;
+  --max-width: 48rem;
   --f6: .875rem;
   --f7: .75rem;
-  --shadow: drop-shadow(2px 4px 6px var(--light-gray));
 }
 
 * {
@@ -32,7 +27,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  padding: var(--space);
   font-family: -apple-system,
     BlinkMacSystemFont,
     avenir next,
@@ -91,6 +85,7 @@ a {
   color: inherit;
   text-decoration: underline;
   word-wrap: break-word;
+  cursor: pointer;
 }
 
 a:hover {
@@ -124,11 +119,11 @@ textarea {
 
 button,
 input[type="submit"] {
-  background-color: var(--accent-darker);
-  border: 1px solid var(--accent-darker);
+  background-color: var(--black);
+  border: 1px solid var(--black);
   font-weight: 700;
   padding: 0.5rem 1rem;
-  color: var(--accent-text);
+  color: var(--white);
   text-transform: uppercase;
   cursor: pointer;
   border-radius: 0;
@@ -137,8 +132,8 @@ input[type="submit"] {
 
 button:hover,
 input[type="submit"]:hover {
-  background-color: var(--accent);
-  border-color: var(--accent);
+  background-color: var(--dark-gray);
+  border-color: var(--dark-gray);
 }
 
 #footer {
@@ -214,7 +209,7 @@ table img {
 blockquote {
   padding-left: 0.75rem;
   margin: 1em 0 1rem 1rem;
-  border-left: .25rem solid var(--accent);
+  border-left: .25rem solid var(--black);
 }
 
 .video-player div {
@@ -235,68 +230,80 @@ blockquote {
 .content > pre {
   overflow: auto;
   border: 0;
-  width: calc(100% + 2 * var(--space));
-  margin-left: calc(var(--space) * -1);
   padding: var(--space);
   background: var(--dark-gray) !important;
   color: var(--white);
 }
 
-#header {
-  position: absolute;
-  top: 0;
-  left: 0;
-  background: var(--near-white);
-  height: var(--fold);
-  font-size: var(--f6);
-  padding: 0.5rem 0;
-  line-height: 1;
-  width: 100%;
-  z-index: 99;
-  padding-right: var(--fold);
+.highlight > pre,
+.content > pre,
+.full-width {
+  width: calc(100% + 2 * var(--space));
+  margin-left: calc(var(--space) * -1);
 }
 
-#header label,
-#header input {
-  display: none;
-}
-
-#header nav {
+#header a {
   display: flex;
 }
 
-#header nav a:first-of-type {
-  margin-right: auto;
+#header p {
+  margin: 0;
 }
 
-#header nav > * {
-  cursor: pointer;
-  margin: 0 0.5rem;
+#header .emoji {
+  font-size: 2.6rem;
+  margin-right: 0.2rem;
 }
 
-#header a.a {
+#header .name {
   font-weight: bold;
+  font-size: 1.5rem;
+}
+
+#navbar label,
+#navbar input {
+  display: none;
+}
+
+#navbar {
+  background-color: var(--black);
+  color: var(--white);
+  margin-top: var(--half-space);
+  margin-bottom: var(--half-space);
+}
+
+#navbar ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#navbar li {
+  flex-grow: 1;
+}
+
+#navbar a {
+  text-align: center;
+  display: block;
+  padding: 0.6rem;
+  font-weight: bold;
+}
+
+#navbar a:hover {
+  background-color: var(--dark-gray);
+}
+
+#navbar li:last-of-type a {
+  background: var(--action);
 }
 
 .container {
   width: 100%;
   max-width: var(--max-width);
-  position: relative;
-  padding: 3rem;
-  clip-path: polygon(0 0, calc(100% - var(--fold)) 0, 100% var(--fold), 100% 100%, 0 100%);
+  margin: 0 auto;
+  padding: var(--half-space) var(--space);
   background: var(--white);
-}
-
-.container:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  border-width: 0 var(--fold) var(--fold) 0;
-  border-style: solid;
-  border-color: var(--light-white) transparent;
-  filter: drop-shadow(1px 1px 2px var(--light-gray));
-  z-index: 999;
 }
 
 .copy ol,
@@ -366,7 +373,7 @@ blockquote {
 .wm {
   background: var(--near-white);
   font-size: var(--f6);
-  padding: 1rem;
+  padding: 1rem var(--space);
 }
 
 .wm .contents {
@@ -460,62 +467,36 @@ figure.right {
   margin: 0;
 }
 
-@media screen and (max-width: 40rem) {
+@media screen and (max-width: 38rem) {
   :root {
     --space: 1.5rem;
+    --half-space: 1rem;
   }
 
-  body {
-    background: var(--white) !important;
-    filter: none !important;
-  }
-
-  .container {
-    padding: 0;
-    clip-path: none;
-  }
-
-  .container:before {
-    content: unset;
-  }
-
-  #header {
-    position: static;
-    height: auto;
-    padding: 0;
-    font-size: 1rem;
-  }
-
-  #header nav {
+  #navbar ul {
     display: block;
   }
 
-  #header nav > * {
-    display: block;
-    padding: 0.5rem;
-    margin: 0;
-  }
-
-  #header nav > a {
+  #navbar li {
     display: none;
   }
 
-  #header label {
+  #navbar label {
+    display: block;
+  }
+
+  #navbar label a {
     text-align: right;
-    font-weight: bold;
   }
 
-  #header #toggler:checked + nav > a {
+  #navbar a {
+    text-align: left;
+    padding-left: var(--space);
+    padding-right: var(--space);
+  }
+
+  #navbar #toggler:checked + ul > li {
     display: block;
-  }
-
-  #footer > div {
-    display: block;
-    text-align: center;
-  }
-
-  #footer > div > * {
-    margin-bottom: 0.5rem;
   }
 
   .footer {
@@ -550,7 +531,6 @@ figure.right {
 @media print {
   body {
     background: white !important;
-    filter: none;
   }
 
   .container {
@@ -566,10 +546,8 @@ figure.right {
     content: unset;
   }
 
-  a[href]::after {
-    content: " (" attr(href) ")"
-  }
-
+  #header,
+  #navbar,
   #footer,
   .wm {
     display: none;

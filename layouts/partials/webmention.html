@@ -1,6 +1,6 @@
 {{ $mentions := .Resources.GetMatch "mentions.json" }}
 {{ if $mentions }}{{ $mentions = unmarshal $mentions.Content }}{{ end }}
-<div class="wm bar">
+<div class="wm full-width">
   <form action="https://webmention.io/hacdias.com/webmention" method="post">
     <input aria-label="Webmention Source" name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
     <input name="target" value="{{ .Permalink }}" type="hidden">
