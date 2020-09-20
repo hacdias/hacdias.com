@@ -1,5 +1,5 @@
 ---
-date: 2020-07-20T00:00:00.000Z
+date: 2020-09-01T00:00:00.000Z
 properties: {}
 publishDate: 2020-07-15T00:00:00.000Z
 tags: []
@@ -81,7 +81,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Live abroad for more than 4 months
 - Help people by volunteering
 - ~~Make my parents fly~~ (July 2019)
-- Study abroad on Master's
+- ~~Study abroad on Master's~~ (September 2020)
 - Interrail
 
 ## Random
