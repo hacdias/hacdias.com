@@ -41,16 +41,6 @@ body {
     sans-serif;
 }
 
-::-moz-selection {
-  background: var(--black);
-  color: #fff;
-}
-
-::selection {
-  background: var(--black);
-  color: #fff;
-}
-
 svg,
 video,
 img {
@@ -137,7 +127,7 @@ input[type="submit"]:hover {
 }
 
 #footer {
-  opacity: 0.5;
+  opacity: 0.8;
   margin-top: 2rem;
   font-size: var(--f6);
 }
@@ -295,6 +285,7 @@ blockquote {
 }
 
 #navbar li:last-of-type a {
+  margin-left: auto;
   background: var(--action);
 }
 
