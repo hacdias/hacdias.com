@@ -6,13 +6,18 @@
       "title": "Aaron Parecki"
     },
     {
+      "feed": "https://adlrocha.substack.com/feed",
+      "site": "https://adlrocha.substack.com",
+      "title": "Alfonso de la Rocha"
+    },
+    {
       "feed": "https://annoying.technology/index.xml",
-      "site": "https://annoying.technology/index.xml",
+      "site": "https://annoying.technology/",
       "title": "Annoying Technology"
     },
     {
       "feed": "https://blog.benjojo.co.uk/rss.xml",
-      "site": "https://blog.benjojo.co.uk/",
+      "site": "https://blog.benjojo.co.uk",
       "title": "Ben Cox"
     },
     {
@@ -26,8 +31,8 @@
       "title": "Filippo Valsorda"
     },
     {
-      "feed": "https://janboddez.tech/articles/feed",
-      "site": "https://janboddez.tech/",
+      "feed": "https://jan.boddez.net/articles/feed",
+      "site": "https://jan.boddez.net",
       "title": "Jan Boddez"
     },
     {
@@ -41,14 +46,24 @@
       "title": "Jethro Kuan"
     },
     {
-      "feed": "https://martin.to/feeds/pulp.atom",
-      "site": "https://nt-5.com/pulp.html",
-      "title": "Martin Borchert"
+      "feed": "https://pudesse-eu.tumblr.com/rss",
+      "site": "https://pudesse-eu.tumblr.com/",
+      "title": "mig"
+    },
+    {
+      "feed": "https://oscarbenedito.com/blog/index.xml",
+      "site": "https://oscarbenedito.com/blog/",
+      "title": "Oscar's Blog"
     },
     {
       "feed": "https://neustadt.fr/rss.xml",
       "site": "https://neustadt.fr/",
       "title": "Parimal Satyal"
+    },
+    {
+      "feed": "https://nt-5.com/feeds/pulp.atom",
+      "site": "https://nt-5.com/pulp.html",
+      "title": "pulp at nt-5.com"
     },
     {
       "feed": "https://seblog.nl/feed.rss",
@@ -62,12 +77,12 @@
     },
     {
       "feed": "https://blog.acolyer.org/feed/",
-      "site": "https://blog.acolyer.org/",
+      "site": "https://blog.acolyer.org",
       "title": "The Morning Paper"
     },
     {
-      "feed": "https://macwright.org/rss.xml",
-      "site": "https://macwright.org/",
+      "feed": "https://macwright.com/rss.xml",
+      "site": "https://macwright.com",
       "title": "Tom MacWright"
     },
     {
@@ -89,7 +104,7 @@
   "comics": [
     {
       "feed": "https://heyokyay.com/feed/",
-      "site": "https://heyokyay.com/",
+      "site": "https://heyokyay.com",
       "title": "Hey Ok Yay?"
     },
     {
