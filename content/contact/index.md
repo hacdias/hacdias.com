@@ -11,7 +11,7 @@ menu:
 <style>
 @media screen and (min-width: 38rem) {
   body {
-    background: #fecb00 url(mail.jpg);
+    background: #91748c url(mail.jpg);
     background-size: 400px;
     background-attachment: fixed;
   }
