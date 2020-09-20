@@ -1,39 +1,44 @@
 {
   "artists": [
     {
-      "name": "Miley Cyrus",
-      "count": 18,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 16,
+      "count": 31,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Troye Sivan",
-      "count": 14,
+      "count": 27,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Alma",
-      "count": 12,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 10,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
       "name": "Allie X",
-      "count": 9,
+      "count": 19,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 19,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 17,
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
       "name": "Dorian Electra",
-      "count": 8,
+      "count": 15,
       "url": "https://www.last.fm/music/Dorian+Electra"
+    },
+    {
+      "name": "Alma",
+      "count": 13,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Taylor Swift",
+      "count": 10,
+      "url": "https://www.last.fm/music/Taylor+Swift"
     },
     {
       "name": "M83",
@@ -41,14 +46,9 @@
       "url": "https://www.last.fm/music/M83"
     },
     {
-      "name": "Tove Lo",
+      "name": "Lost Frequencies",
       "count": 7,
-      "url": "https://www.last.fm/music/Tove+Lo"
-    },
-    {
-      "name": "Kiesza",
-      "count": 6,
-      "url": "https://www.last.fm/music/Kiesza"
+      "url": "https://www.last.fm/music/Lost+Frequencies"
     }
   ],
   "tracks": [
@@ -69,6 +69,12 @@
       "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
       "count": 4,
       "artist": "Alma"
+    },
+    {
+      "name": "Heart to Break",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Heart+to+Break",
+      "count": 4,
+      "artist": "Kim Petras"
     },
     {
       "name": "I Need You",
@@ -105,12 +111,6 @@
       "url": "https://www.last.fm/music/Years+&+Years/_/King",
       "count": 4,
       "artist": "Years & Years"
-    },
-    {
-      "name": "Mood Ring (By Demand) - Pride Remix",
-      "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
-      "count": 3,
-      "artist": "Britney Spears"
     }
   ]
 }
