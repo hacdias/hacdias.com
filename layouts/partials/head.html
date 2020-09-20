@@ -10,7 +10,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ $longTitle }}</title>
 <meta name="description" content="{{ $description }}">
-<link rel="canonical" href="{{ .Permalink }}">
+{{ with .Page.Params.canonical}}
+  <link rel="canonical" href="{{ . }}">
+{{ else }}
+  <link rel="canonical" href="{{ .Permalink }}">
+{{ end }}
 <link rel="icon" href="{{ relURL "/favicon.ico" }}" type=image/x-icon>
 
 {{ range .AlternativeOutputFormats -}}
