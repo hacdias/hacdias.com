@@ -49,7 +49,7 @@ The winter is coming and I'm pretty sure there's some Covid coming with it. I fe
 
 ## Meta!
 
-No, I'm not talking about Metaforum, the central building at my university. I'm talking about this website! I made quite a few design updates over the last days. Hope you enjoyed them. I feel they made the website cleaner and better looking.
+No, I'm not talking about Metaforum, the central building at my university. I'm talking about this website! I made quite a few design updates over the last days. Hope you enjoyed them. I feel they made the website cleaner and better looking while keeping a 90s-inspired look.
 
 In the meanwhile, I also automated the [blogroll](/blogroll/) page... finally! Now, it's always up to date! I recommend you to check it. There's a lot of good content in there!
 
