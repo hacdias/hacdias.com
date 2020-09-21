@@ -37,7 +37,7 @@ Besides university and people, I have been dedicating a bit more time to photogr
 
 {{< cdnfig name="fujixt30" alt="Fujifilm X-T30" >}}
 
-For the next couple of months, I want to try taking some night sky pictures, but I will need to find a relatively nice place close by. In addition, light trails are also on my agenda, but that won't be that hard. Despite that, I also want to take ore landscape pictures. All of this requires a tripod and I _finally_ convinced myself to order one! It's on the way. Maybe next month I will talk a bit more about this.
+For the next couple of months, I want to try taking some night sky pictures, but I will need to find a relatively nice place close by. In addition, light trails are also on my agenda, but that won't be that hard. Despite that, I also want to take more landscape pictures. All of this requires a tripod and I _finally_ convinced myself to order one! It's on the way. Maybe next month I will talk a bit more about this.
 
 I absolutely love photography and I also wanted to try out the old film camera I have in my hometown. I found it out during quarantine but completely forgot to bring it and since I didn't have film rolls at the time, I didn't try it. It's a Minolta point-and-shoot. Definitely not the fanciest, but I really want to try it out!
 
