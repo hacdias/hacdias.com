@@ -3,6 +3,8 @@ date: 2020-09-21T09:30:00.000+02:00
 title: Recently
 description: >
   A small update.
+properties:
+  syndication: 'https://twitter.com/hacdias/status/1307946612258492418'
 aliases:
   - /now/
 tags:
