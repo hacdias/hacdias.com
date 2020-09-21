@@ -27,12 +27,12 @@
     },
     {
       "name": "Dorian Electra",
-      "count": 15,
+      "count": 16,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "Alma",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/Alma"
     },
     {
@@ -55,14 +55,8 @@
     {
       "name": "Good Vibes",
       "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
-      "count": 6,
-      "artist": "Alma"
-    },
-    {
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
       "count": 5,
-      "artist": "Tame Impala"
+      "artist": "Alma"
     },
     {
       "name": "Bad News Baby",
@@ -99,6 +93,12 @@
       "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
       "count": 4,
       "artist": "Selena Gomez"
+    },
+    {
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
+      "count": 4,
+      "artist": "Tame Impala"
     },
     {
       "name": "Sweettalk My Heart",
