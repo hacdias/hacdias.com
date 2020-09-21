@@ -367,8 +367,20 @@ blockquote {
   padding: 1rem var(--space);
 }
 
+.wm details {
+  border-top: 1px solid var(--light-white);
+  padding-top: 1rem;
+  margin-top: 1rem;
+}
+
+.wm summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
 .wm .contents {
   line-height: 1;
+  margin-top: 1rem;
 }
 
 .wm .contents .p-author .p-name {
@@ -421,12 +433,6 @@ blockquote {
 
 .wm > div:first-of-type p {
   margin: 0;
-}
-
-.wm .contents {
-  border-top: 1px solid var(--light-white);
-  padding-top: 1rem;
-  margin-top: 1rem;
 }
 
 figure.left,
