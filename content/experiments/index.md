@@ -32,6 +32,7 @@ and creepy experiments. Weird things can happen, you can feel dizzy, be aware of
 Be aware! Or they will bite you.
 
 - 🔵 [Blue Screen of Death](/minisites/bsod/)
+- 📡 [Glitch](/minisites/glitch/)
 - 🗺 [Procedural Map Generator](/minisites/mapgen/)
 - 🏳️‍🌈 [PixelColorMania](/minisites/pixelcolormania/)
 - ⛈ [Thunderstorm](/minisites/thunderstorm/)
