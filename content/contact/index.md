@@ -37,5 +37,5 @@ AE95 7E3A 2905 B55A 6950 E762 4454 5566 F552 F631
 [tg]: https://t.me/hacdias
 [tw]:  https://twitter.com/hacdias
 [mail]: mailto:mail@hacdias.com
-[pgp]: https://hacdias.com/pubkey.txt
+[pgp]: /pubkey.txt
 [keybase]: https://keybase.io/hacdias

@@ -21,8 +21,9 @@ Hi! 👋 I'm from Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in
 
 ## ✏️ Writing
 
-This is a list of some of my favorite articles I have written. Check out my [articles](/articles/) page for all the articles I wrote in the past, and check my [micro blog](/micro/) for other smaller interactions.
+This is a brief list of my favorite and latest [articles](/articles/). Please check out all my [articles](/articles/) and my [micro blog](/micro/) for other smaller interactions.
 
+- [**Recently**](/now/), a monthly post I write about the updates on my life, things I've learned, or basically anything else that comes to mind.
 - [**Back to the 90s**](/articles/2020/05/back-90s/), about the old web where everyone had their own website made by hand, creatively, emanating personality.
 - [**Life Through Lenses**](/tags/lifethroughlenses/), a saga os posts where I publish some of my favorite pictures I take while traveling or even to the most insignificant thing.
 - [**Analyzing my shows and movie habits**](/articles/2020/02/trakt-analysis/), about how I used Trakt API and some data visualization libraries to analyse how many TV shows and movies I watched.
