@@ -42,5 +42,16 @@
       "photo": "https://cdn.hacdias.com/webmentions/35dec6c427f02e4242500b85739d88d83d9b9e3e4490a240fe3a117aac1e6de2.jpg",
       "url": "https://twitter.com/GodefroyPrime"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1284373188231790592#favorited-by-3430582036",
+    "date": "2020-09-21T08:14:36.000Z",
+    "wm-id": 854106,
+    "author": {
+      "name": "Raquel",
+      "photo": "https://cdn.hacdias.com/webmentions/53cc91ade71691bd98cf462a52ec4e0ccb8de0a5818ec80cf95daafae138be29.jpg",
+      "url": "https://twitter.com/raquelbs29"
+    }
   }
 ]
