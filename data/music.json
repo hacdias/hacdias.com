@@ -1,29 +1,29 @@
 {
   "artists": [
     {
+      "name": "Troye Sivan",
+      "count": 36,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
       "name": "Lady Gaga",
       "count": 31,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Troye Sivan",
-      "count": 27,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
       "name": "Allie X",
-      "count": 19,
+      "count": 22,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 19,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "name": "Kim Petras",
+      "count": 18,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Kim Petras",
-      "count": 17,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "name": "Miley Cyrus",
+      "count": 18,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Dorian Electra",
@@ -32,18 +32,18 @@
     },
     {
       "name": "Alma",
-      "count": 12,
+      "count": 13,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Taylor Swift",
-      "count": 10,
+      "count": 9,
       "url": "https://www.last.fm/music/Taylor+Swift"
     },
     {
-      "name": "M83",
+      "name": "Carly Rae Jepsen",
       "count": 8,
-      "url": "https://www.last.fm/music/M83"
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
     },
     {
       "name": "Lost Frequencies",
@@ -59,8 +59,38 @@
       "artist": "Alma"
     },
     {
+      "name": "Fuego",
+      "url": "https://www.last.fm/music/Eleni+Foureira/_/Fuego",
+      "count": 5,
+      "artist": "Eleni Foureira"
+    },
+    {
+      "name": "First Time He Kissed a Boy",
+      "url": "https://www.last.fm/music/Kadie+Elder/_/First+Time+He+Kissed+a+Boy",
+      "count": 5,
+      "artist": "Kadie Elder"
+    },
+    {
+      "name": "King",
+      "url": "https://www.last.fm/music/Years+&+Years/_/King",
+      "count": 5,
+      "artist": "Years & Years"
+    },
+    {
+      "name": "I Built A Friend (2020)",
+      "url": "https://www.last.fm/music/Alec+Benjamin/_/I+Built+A+Friend+(2020)",
+      "count": 4,
+      "artist": "Alec Benjamin"
+    },
+    {
       "name": "Bad News Baby",
       "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
+      "count": 4,
+      "artist": "Alma"
+    },
+    {
+      "name": "Lonely Night",
+      "url": "https://www.last.fm/music/Alma/_/Lonely+Night",
       "count": 4,
       "artist": "Alma"
     },
@@ -69,12 +99,6 @@
       "url": "https://www.last.fm/music/Kim+Petras/_/Heart+to+Break",
       "count": 4,
       "artist": "Kim Petras"
-    },
-    {
-      "name": "I Need You",
-      "url": "https://www.last.fm/music/M83/_/I+Need+You",
-      "count": 4,
-      "artist": "M83"
     },
     {
       "name": "Maneater (From The Tonight Show Starring Jimmy Fallon)",
@@ -87,30 +111,6 @@
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
       "count": 4,
       "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Lose You to Love Me",
-      "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
-      "count": 4,
-      "artist": "Selena Gomez"
-    },
-    {
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
-      "count": 4,
-      "artist": "Tame Impala"
-    },
-    {
-      "name": "Sweettalk My Heart",
-      "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
-      "count": 4,
-      "artist": "Tove Lo"
-    },
-    {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 4,
-      "artist": "Years & Years"
     }
   ]
 }
