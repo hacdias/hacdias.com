@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 36,
+      "count": 32,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
@@ -12,18 +12,8 @@
     },
     {
       "name": "Allie X",
-      "count": 22,
+      "count": 21,
       "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 18,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 18,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Dorian Electra",
@@ -31,9 +21,24 @@
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 16,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Alma",
       "count": 13,
       "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 10,
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Carly Rae Jepsen",
+      "count": 9,
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
     },
     {
       "name": "Taylor Swift",
@@ -41,64 +46,23 @@
       "url": "https://www.last.fm/music/Taylor+Swift"
     },
     {
-      "name": "Carly Rae Jepsen",
-      "count": 8,
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
-    },
-    {
-      "name": "Lost Frequencies",
-      "count": 7,
-      "url": "https://www.last.fm/music/Lost+Frequencies"
+      "name": "Charli XCX",
+      "count": 5,
+      "url": "https://www.last.fm/music/Charli+XCX"
     }
   ],
   "tracks": [
+    {
+      "name": "Bad News Baby",
+      "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
+      "count": 5,
+      "artist": "Alma"
+    },
     {
       "name": "Good Vibes",
       "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
       "count": 5,
       "artist": "Alma"
-    },
-    {
-      "name": "Fuego",
-      "url": "https://www.last.fm/music/Eleni+Foureira/_/Fuego",
-      "count": 5,
-      "artist": "Eleni Foureira"
-    },
-    {
-      "name": "First Time He Kissed a Boy",
-      "url": "https://www.last.fm/music/Kadie+Elder/_/First+Time+He+Kissed+a+Boy",
-      "count": 5,
-      "artist": "Kadie Elder"
-    },
-    {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 5,
-      "artist": "Years & Years"
-    },
-    {
-      "name": "I Built A Friend (2020)",
-      "url": "https://www.last.fm/music/Alec+Benjamin/_/I+Built+A+Friend+(2020)",
-      "count": 4,
-      "artist": "Alec Benjamin"
-    },
-    {
-      "name": "Bad News Baby",
-      "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
-      "count": 4,
-      "artist": "Alma"
-    },
-    {
-      "name": "Lonely Night",
-      "url": "https://www.last.fm/music/Alma/_/Lonely+Night",
-      "count": 4,
-      "artist": "Alma"
-    },
-    {
-      "name": "Heart to Break",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Heart+to+Break",
-      "count": 4,
-      "artist": "Kim Petras"
     },
     {
       "name": "Maneater (From The Tonight Show Starring Jimmy Fallon)",
@@ -107,10 +71,46 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "Slide Away",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
       "count": 4,
-      "artist": "Miley Cyrus"
+      "artist": "Tame Impala"
+    },
+    {
+      "name": "Sweettalk My Heart",
+      "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
+      "count": 4,
+      "artist": "Tove Lo"
+    },
+    {
+      "name": "King",
+      "url": "https://www.last.fm/music/Years+&+Years/_/King",
+      "count": 4,
+      "artist": "Years & Years"
+    },
+    {
+      "name": "I Built A Friend (2020)",
+      "url": "https://www.last.fm/music/Alec+Benjamin/_/I+Built+A+Friend+(2020)",
+      "count": 3,
+      "artist": "Alec Benjamin"
+    },
+    {
+      "name": "Downtown",
+      "url": "https://www.last.fm/music/Allie+X/_/Downtown",
+      "count": 3,
+      "artist": "Allie X"
+    },
+    {
+      "name": "Learning In Public",
+      "url": "https://www.last.fm/music/Allie+X/_/Learning+In+Public",
+      "count": 3,
+      "artist": "Allie X"
+    },
+    {
+      "name": "That's So Us",
+      "url": "https://www.last.fm/music/Allie+X/_/That%27s+So+Us",
+      "count": 3,
+      "artist": "Allie X"
     }
   ]
 }
