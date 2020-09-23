@@ -68,5 +68,16 @@
       "photo": "https://cdn.hacdias.com/webmentions/fe9282b6657255201309c7fc06115ebf64a3cb514d077f8d673c56a827b6161a.jpg",
       "url": "https://twitter.com/likpiara"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1308666709239377920#favorited-by-952396703147200513",
+    "date": "2020-09-23T21:50:29.000Z",
+    "wm-id": 855181,
+    "author": {
+      "name": "Ulisses Ferreira",
+      "photo": "https://cdn.hacdias.com/webmentions/85496c49a65f64cf5e29e2a7ea1f56eee7a95a76144be3dbaa556ca0560128fc.jpg",
+      "url": "https://twitter.com/ulissesvf"
+    }
   }
 ]
