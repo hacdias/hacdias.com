@@ -16,6 +16,9 @@
   <link rel="canonical" href="{{ .Permalink }}">
 {{ end }}
 <link rel="icon" href="{{ relURL "/favicon.ico" }}" type=image/x-icon>
+{{ if .Params.noindex }}
+ <meta name="robots" content="noindex">
+{{ end }}
 
 {{ range .AlternativeOutputFormats -}}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
