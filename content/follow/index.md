@@ -1,8 +1,9 @@
 ---
-date: 2020-09-20
+date: 2020-09-23
 publishDate: 2020-01-30
 title: Follow
 type: page
+hideMentions: true
 emoji: ⚡️
 menu:
   main:
@@ -10,14 +11,12 @@ menu:
 ---
 
 <style>
-.inline-form {
-  display:flex;
+:root {
+  --action: #f39c12
 }
-.inline-form input:first-of-type {
-  flex-grow: 1;
-}
-.inline-form input[type="submit"] {
-  margin-left: 1rem;
+
+#navbar li:last-of-type a {
+  background: var(--black)
 }
 
 @media screen and (min-width: 38rem) {
@@ -25,17 +24,6 @@ menu:
     background: #fecb00 url(mailbox.jpg);
     background-size: 400px;
     background-attachment: fixed;
-  }
-}
-
-@media screen and (max-width: 38rem) {
-  .inline-form,
-  .inline-form input {
-    display:block;
-    width: 100%
-  }
-  .inline-form input[type="submit"] {
-    margin: 1rem 0 0 0;
   }
 }
 </style>
@@ -46,11 +34,7 @@ menu:
 
 I am starting a weekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. I haven't started sending out posts, but as soon as I start, I will commit to one each Monday. Are you interested?
 
-<form action="https://buttondown.email/api/emails/embed-subscribe/hacdias" method="post" target="_blank" class="inline-form">
-  <input aria-label="Your Email" type="email" name="email" placeholder="Your Email"></input>
-  <input type="hidden" value="1" name="embed"></input>
-  <input type="submit" value="Join the Tribe"></input>
-</form>
+{{< newsletter >}}
 
 ## Feeds
 

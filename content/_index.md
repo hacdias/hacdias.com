@@ -13,11 +13,19 @@ title: hacdias.com
 <div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
   <a href="https://hacdias.com/" class="u-uid u-url p-name">Henrique Dias</a>
-  <a href="mailto:hacdias@hacdias.com" rel="me" class="u-email">hacdias@hacdias.com</a>
+  <a href="mailto:mail@hacdias.com" rel="me" class="u-email">mail@hacdias.com</a>
   <a class="u-key" href="/pubkey.txt">public PGP key</a>
 </div>
 
 Hi! 👋 I'm from Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in an united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
+
+## 🗞 Newsletter
+
+{{< figure src="follow/mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
+
+I am starting a weekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. I haven't started sending out posts, but as soon as I start, I will commit to one each Monday. Are you interested?
+
+{{< newsletter >}}
 
 ## ✏️ Writing
 
