@@ -41,7 +41,7 @@ This is a brief list of my favorite and latest [articles](/articles/). Please ch
 
 ## 🥐 Stuff
 
-There's a lot more on this website than the pages linked above. Here is a list of *some* of the pages that you can find on this website. Check these out!
+There's much more going on with this website than you might think at first sight 👀. Here are *some* other pages and interesting informations you can explore:
 
 - 📚 {{< latest-read >}}
 - 🎬 The [last movie](/watches/#movies) I watched was **{{< latest-watch type="movies" >}}**.
