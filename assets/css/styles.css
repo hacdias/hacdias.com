@@ -240,9 +240,9 @@ blockquote {
   margin: 0;
 }
 
-#header .emoji {
-  font-size: 2.6rem;
-  margin-right: 0.2rem;
+#header img {
+  width: 3rem;
+  margin-right: 0.5rem;
 }
 
 #header .name {
