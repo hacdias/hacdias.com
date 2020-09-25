@@ -13,11 +13,15 @@
 
   .picture img {
     max-height: calc(100vh - 6rem);
-    max-width: calc(100vw - 6rem);
+  }
+
+  .h-entry {
+    margin: var(--space) 0;
   }
 
   .info,
   .content {
+    width: calc(100% - var(--space));
     max-width: 48rem;
     margin: 0 auto;
   }
@@ -28,6 +32,10 @@
 
   .info .p-name {
     font-weight: bold;
+  }
+
+  .footer {
+    display: none;
   }
 </style>
 
