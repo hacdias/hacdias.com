@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 37,
+      "count": 34,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Lady Gaga",
-      "count": 31,
+      "count": 30,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Allie X",
-      "count": 23,
+      "count": 24,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
@@ -21,24 +21,24 @@
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
+      "name": "Carly Rae Jepsen",
+      "count": 16,
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
+    },
+    {
       "name": "Dorian Electra",
       "count": 16,
       "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
-      "name": "Carly Rae Jepsen",
-      "count": 14,
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
-    },
-    {
-      "name": "Alma",
-      "count": 11,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
       "name": "Kim Petras",
       "count": 11,
       "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Alma",
+      "count": 9,
+      "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Taylor Swift",
@@ -53,34 +53,28 @@
   ],
   "tracks": [
     {
+      "name": "Hello",
+      "url": "https://www.last.fm/music/Allie+X/_/Hello",
+      "count": 4,
+      "artist": "Allie X"
+    },
+    {
       "name": "Bad News Baby",
       "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
-      "count": 5,
+      "count": 4,
       "artist": "Alma"
     },
     {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 5,
-      "artist": "Years & Years"
-    },
-    {
-      "name": "I Need You",
-      "url": "https://www.last.fm/music/M83/_/I+Need+You",
-      "count": 4,
-      "artist": "M83"
-    },
-    {
-      "name": "Slide Away",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
+      "name": "Midnight Sky",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
       "count": 4,
       "artist": "Miley Cyrus"
     },
     {
-      "name": "Sweettalk My Heart",
-      "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
+      "name": "King",
+      "url": "https://www.last.fm/music/Years+&+Years/_/King",
       "count": 4,
-      "artist": "Tove Lo"
+      "artist": "Years & Years"
     },
     {
       "name": "I Built A Friend (2020)",
@@ -95,12 +89,6 @@
       "artist": "Allie X"
     },
     {
-      "name": "Hello",
-      "url": "https://www.last.fm/music/Allie+X/_/Hello",
-      "count": 3,
-      "artist": "Allie X"
-    },
-    {
       "name": "Learning In Public",
       "url": "https://www.last.fm/music/Allie+X/_/Learning+In+Public",
       "count": 3,
@@ -111,6 +99,18 @@
       "url": "https://www.last.fm/music/Allie+X/_/That%27s+So+Us",
       "count": 3,
       "artist": "Allie X"
+    },
+    {
+      "name": "Lonely Night",
+      "url": "https://www.last.fm/music/Alma/_/Lonely+Night",
+      "count": 3,
+      "artist": "Alma"
+    },
+    {
+      "name": "Cai neve em Nova York",
+      "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
+      "count": 3,
+      "artist": "Amor Electro"
     }
   ]
 }
