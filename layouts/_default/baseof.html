@@ -5,33 +5,17 @@
 </head>
 <body>
   <div class='container'>
-    <div id='header'>
-      <a class='no-link' href='{{ relURL .Site.BaseURL }}'>
-        <img src="{{ relURL "logo.svg" }}">
-        <div>
-          <p class='name glitch' data-text="Henrique Dias">Henrique Dias</p>
-          <p class='aka'>aka <span class='glitch' data-text='@hacdias'>@hacdias</span></p>
-        </div>
-      </a>
-    </div>
+    {{ partial "header" . }}
 
-    <nav id='navbar' class='full-width'>
-      <input type="checkbox" id="toggler">
-      <ul>
-        <label for="toggler"><a class='no-link'>🍔 Menu</a></label>
-        {{ range .Site.Menus.main -}}
-          <li>
-            <a href='{{ .URL }}' class='no-link'>
-              <span>{{ with .Page }}{{ .Params.emoji }}{{ end}}</span>
-              <span>{{ .Name }}</span>
-            </a>
-          </li>
-        {{end}}
-      </ul>
-    </nav>
+    {{- if not (eq .Section "darkroom") }}
+      {{ partial "navbar" . }}
+    {{- end }}
 
     {{ block "main" . -}}{{ end }}
-    {{ partial "footer" . -}}
+
+    {{- if not (eq .Section "darkroom") }}
+      {{ partial "footer" . -}}
+    {{- end }}
   </div>
 
   {{ $js := resources.Get "js/vendor/twemoji.min.js" }}

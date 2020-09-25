@@ -7,7 +7,7 @@ hideMentions: true
 emoji: ⚡️
 menu:
   main:
-    weight: 5
+    weight: 6
 ---
 
 <style>

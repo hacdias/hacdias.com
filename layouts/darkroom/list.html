@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+<style>
+  {{ safeCSS (partial "darkroom/styles.css") }}
+
+  .h-feed {
+    margin: var(--space) 0;
+  }
+
+ .h-entry {
+    justify-content: center;
+    height: 100vh;
+    min-width: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+  .h-entry img {
+    max-height: calc(100vh - 6rem);
+    max-width: calc(100vw - 6rem);
+  } 
+</style>
+
+<main role='main'>
+  <div class='h-feed'>
+    {{- $pages := (where .Site.Pages "Section" "darkroom") -}}
+    {{- range $page := $pages -}}
+      {{- with .Params.pictures }}
+        {{- range . }}
+          {{- if not .hide }}
+          <div class='h-entry'>
+            <a href="{{ $page.RelPermalink }}" class="no-link u-url">
+              <picture>
+                <source srcset="https://cdn.hacdias.com/photos/t/{{ .slug }}-1000x.webp 1x, https://cdn.hacdias.com/photos/t/{{ .slug }}-2000x.webp 2x" type="image/webp">
+                <source srcset="https://cdn.hacdias.com/photos/t/{{ .slug }}-1000x.jpeg 1x, https://cdn.hacdias.com/photos/t/{{ .slug }}-2000x.jpeg 2x">
+                <img class='u-photo' src="https://cdn.hacdias.com/photos/t/{{ .slug }}-2000x.jpeg" alt="{{ .title }}" title="{{ .title }}">
+              </picture>
+            </a>
+          </div>
+          {{- end }}
+        {{- end }}
+      {{- end -}}
+    {{- end -}}
+  </div>
+</main>
+
+{{ end }}
+

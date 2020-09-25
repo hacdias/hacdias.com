@@ -232,7 +232,7 @@ blockquote {
   margin-left: calc(var(--space) * -1);
 }
 
-#header a {
+#header > a {
   display: flex;
 }
 

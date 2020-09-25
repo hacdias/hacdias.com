@@ -5,7 +5,7 @@ hideMentions: true
 emoji: ✉️
 menu:
   main:
-    weight: 4
+    weight: 5
 ---
 
 <style>
