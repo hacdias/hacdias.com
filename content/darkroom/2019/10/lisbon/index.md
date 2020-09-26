@@ -4,4 +4,5 @@ title: Lisbon
 pictures:
   - title: Lisbon
     slug: 2019-10-Lisbon
+    hide: true
 ---
