@@ -1,0 +1,32 @@
+[
+  {
+    "type": "reply",
+    "url": "https://twitter.com/the_basebandit/status/1309759820300419073",
+    "date": "2020-09-26T07:40:49.000Z",
+    "wm-id": 858008,
+    "content": {
+      "html": "Am curious? explain further, do you mind?\n<a class=\"u-mention\" href=\"https://hacdias.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/code\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hacdias\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mholt6\"></a>",
+      "text": "Am curious? explain further, do you mind?"
+    },
+    "author": {
+      "name": "Basebandit",
+      "photo": "https://cdn.hacdias.com/webmentions/1cf60f3299e83ee9b83cc90717cb02b139b3262648414287cfed7e1d6c839469.png",
+      "url": "https://twitter.com/the_basebandit"
+    }
+  },
+  {
+    "type": "reply",
+    "url": "https://twitter.com/hacdias/status/1309789712958328832",
+    "date": "2020-09-26T09:39:36.000Z",
+    "wm-id": 858024,
+    "content": {
+      "html": "@the_basebandit oh, it was just a joke! 😅\n<a class=\"u-mention\" href=\"https://twitter.com/code\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mholt6\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/the_basebandit\"></a>",
+      "text": "@the_basebandit oh, it was just a joke! 😅"
+    },
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://cdn.hacdias.com/webmentions/ddd8a83c019c39f33d14179baf4e78d11e7aae39c460f54df45c9d1fe598bcb0.jpg",
+      "url": "https://twitter.com/hacdias"
+    }
+  }
+]
