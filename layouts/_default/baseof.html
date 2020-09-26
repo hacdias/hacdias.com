@@ -21,10 +21,23 @@
   {{ $js := resources.Get "js/vendor/twemoji.min.js" }}
   {{ $secureJS := $js | resources.Fingerprint "sha512" }}
   <script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
-  <script>twemoji.parse(document.body, {
-    base: 'https://cdn.hacdias.com/emojis/13.0.0/',
-    folder: 'svg',
-    ext: '.svg'
-  });</script>
+  <script>
+    twemoji.parse(document.body, {
+      base: 'https://cdn.hacdias.com/emojis/13.0.0/',
+      folder: 'svg',
+      ext: '.svg'
+    });
+
+    {{ if .Params.math }}
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      }
+    };
+    {{ end }}
+  </script>
+  {{ if .Params.math }}
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+  {{ end }}
 </body>
 </html>
