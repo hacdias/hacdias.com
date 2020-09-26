@@ -1,13 +1,12 @@
 {{ $isList := eq .Mode "list" -}}
 {{ with .Glob }}
 {{ $useSummary := false }}
-{{ $isMicro := (eq .Section "micro") }}
 <article class='h-entry'>
-  {{ if not $isMicro }}
+  {{ if not (in (slice "micro" "darkroom") .Section) }}
     {{ $useSummary = $isList }}
   {{ end }}
 
-  {{ if not $isMicro }}
+  {{ if .Title }}
   <header>
     <h1 class='p-name'>
       {{ if $isList }}<a href="{{ .RelPermalink }}" class='no-link'>{{ end }}
@@ -33,11 +32,13 @@
     {{ end }}
   {{ end }}
 
+  {{ partial "darkroom/full-figures" . }}
+
   {{ if $useSummary}}
     <div class='content copy p-summary'><p>{{ .Summary }}</p></div>
   {{ else }}
     {{ with .Content }}
-      <div class='content copy e-content {{ if $isMicro }}p-name{{ end }}'>{{ . }}</div>
+      <div class='content copy e-content {{ if not $.Glob.Page.Title }}p-name{{ end }}'>{{ . }}</div>
     {{ end }}
   {{ end }}
 
@@ -72,7 +73,7 @@
     </span>
 
     {{ if $isList }}
-      <a class="more" href="{{ .RelPermalink }}">{{ if $isMicro }}Comment{{ else }}Read more{{ end }} →</a>
+      <a class="more" href="{{ .RelPermalink }}">{{ if $useSummary }}Read more{{ else }}Comment{{ end }} →</a>
     {{ else }}
       {{ if .Params.tags }}
       <ul>
