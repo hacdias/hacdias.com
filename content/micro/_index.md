@@ -9,7 +9,7 @@ menu:
 <style>
 @media screen and (min-width: 38rem) {
   body {
-    background: white url(pattern.jpg);
+    background: white url(/micro/pattern.jpg);
     background-size: 400px;
     background-attachment: fixed;
   }
