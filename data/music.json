@@ -7,18 +7,28 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 30,
+      "count": 28,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Allie X",
-      "count": 24,
+      "count": 25,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Miley Cyrus",
-      "count": 19,
+      "count": 21,
       "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Alma",
+      "count": 17,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Dorian Electra",
+      "count": 17,
+      "url": "https://www.last.fm/music/Dorian+Electra"
     },
     {
       "name": "Carly Rae Jepsen",
@@ -26,91 +36,81 @@
       "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
     },
     {
-      "name": "Dorian Electra",
-      "count": 16,
-      "url": "https://www.last.fm/music/Dorian+Electra"
-    },
-    {
       "name": "Kim Petras",
-      "count": 11,
+      "count": 14,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Alma",
+      "name": "Tove Lo",
       "count": 9,
-      "url": "https://www.last.fm/music/Alma"
+      "url": "https://www.last.fm/music/Tove+Lo"
     },
     {
-      "name": "Taylor Swift",
-      "count": 9,
-      "url": "https://www.last.fm/music/Taylor+Swift"
-    },
-    {
-      "name": "Dua Lipa",
-      "count": 5,
-      "url": "https://www.last.fm/music/Dua+Lipa"
+      "name": "Amor Electro",
+      "count": 8,
+      "url": "https://www.last.fm/music/Amor+Electro"
     }
   ],
   "tracks": [
     {
-      "name": "Hello",
-      "url": "https://www.last.fm/music/Allie+X/_/Hello",
-      "count": 4,
-      "artist": "Allie X"
-    },
-    {
       "name": "Bad News Baby",
       "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
-      "count": 4,
-      "artist": "Alma"
-    },
-    {
-      "name": "Midnight Sky",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Midnight+Sky",
-      "count": 4,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 4,
-      "artist": "Years & Years"
-    },
-    {
-      "name": "I Built A Friend (2020)",
-      "url": "https://www.last.fm/music/Alec+Benjamin/_/I+Built+A+Friend+(2020)",
-      "count": 3,
-      "artist": "Alec Benjamin"
-    },
-    {
-      "name": "Downtown",
-      "url": "https://www.last.fm/music/Allie+X/_/Downtown",
-      "count": 3,
-      "artist": "Allie X"
-    },
-    {
-      "name": "Learning In Public",
-      "url": "https://www.last.fm/music/Allie+X/_/Learning+In+Public",
-      "count": 3,
-      "artist": "Allie X"
-    },
-    {
-      "name": "That's So Us",
-      "url": "https://www.last.fm/music/Allie+X/_/That%27s+So+Us",
-      "count": 3,
-      "artist": "Allie X"
-    },
-    {
-      "name": "Lonely Night",
-      "url": "https://www.last.fm/music/Alma/_/Lonely+Night",
-      "count": 3,
+      "count": 8,
       "artist": "Alma"
     },
     {
       "name": "Cai neve em Nova York",
       "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
-      "count": 3,
+      "count": 8,
       "artist": "Amor Electro"
+    },
+    {
+      "name": "Sweettalk My Heart",
+      "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
+      "count": 8,
+      "artist": "Tove Lo"
+    },
+    {
+      "name": "King",
+      "url": "https://www.last.fm/music/Years+&+Years/_/King",
+      "count": 7,
+      "artist": "Years & Years"
+    },
+    {
+      "name": "Good Vibes",
+      "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
+      "count": 6,
+      "artist": "Alma"
+    },
+    {
+      "name": "Slide Away",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
+      "count": 6,
+      "artist": "Miley Cyrus"
+    },
+    {
+      "name": "Lose You to Love Me",
+      "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
+      "count": 6,
+      "artist": "Selena Gomez"
+    },
+    {
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
+      "count": 6,
+      "artist": "Tame Impala"
+    },
+    {
+      "name": "Mood Ring (By Demand) - Pride Remix",
+      "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
+      "count": 5,
+      "artist": "Britney Spears"
+    },
+    {
+      "name": "I Don't Want It at All",
+      "url": "https://www.last.fm/music/Kim+Petras/_/I+Don%27t+Want+It+at+All",
+      "count": 5,
+      "artist": "Kim Petras"
     }
   ]
 }
