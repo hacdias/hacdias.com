@@ -17,12 +17,19 @@
 
   .h-entry img {
     max-height: calc(100vh - 6rem);
-  } 
+  }
+
+  main > p {
+    text-align: center;
+    font-size: var(--f6);
+    margin: 2rem 0;
+}
+  }
 </style>
 
 <main role='main'>
   <div class='h-feed'>
-    {{- $pages := (where .Site.Pages "Section" "darkroom") -}}
+    {{- $pages := first 10 (where .Site.Pages "Section" "darkroom") -}}
     {{- range $page := $pages -}}
       {{- with .Params.pictures }}
         {{- range . }}
@@ -41,6 +48,7 @@
       {{- end -}}
     {{- end -}}
   </div>
+  <p><a hreF="{{ relURL "/darkroom/gallery" }}">view archive</a></p>
 </main>
 
 {{ end }}
