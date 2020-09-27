@@ -46,6 +46,11 @@
       "title": "Jethro Kuan"
     },
     {
+      "feed": "https://martin.to/feeds/most.atom",
+      "site": "https://martin.to",
+      "title": "Martin Borchert"
+    },
+    {
       "feed": "https://pudesse-eu.tumblr.com/rss",
       "site": "https://pudesse-eu.tumblr.com/",
       "title": "mig"
@@ -59,11 +64,6 @@
       "feed": "https://neustadt.fr/rss.xml",
       "site": "https://neustadt.fr/",
       "title": "Parimal Satyal"
-    },
-    {
-      "feed": "https://nt-5.com/feeds/pulp.atom",
-      "site": "https://nt-5.com/pulp.html",
-      "title": "pulp at nt-5.com"
     },
     {
       "feed": "https://seblog.nl/feed.rss",
