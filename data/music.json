@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 23,
+      "count": 27,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Alma",
-      "count": 17,
+      "count": 16,
       "url": "https://www.last.fm/music/Alma"
     },
     {
@@ -26,16 +26,6 @@
       "url": "https://www.last.fm/music/Alec+Benjamin"
     },
     {
-      "name": "Carly Rae Jepsen",
-      "count": 10,
-      "url": "https://www.last.fm/music/Carly+Rae+Jepsen"
-    },
-    {
-      "name": "Tove Lo",
-      "count": 10,
-      "url": "https://www.last.fm/music/Tove+Lo"
-    },
-    {
       "name": "Britney Spears",
       "count": 9,
       "url": "https://www.last.fm/music/Britney+Spears"
@@ -49,6 +39,16 @@
       "name": "Kim Petras",
       "count": 9,
       "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Tove Lo",
+      "count": 9,
+      "url": "https://www.last.fm/music/Tove+Lo"
+    },
+    {
+      "name": "Years & Years",
+      "count": 9,
+      "url": "https://www.last.fm/music/Years+&+Years"
     }
   ],
   "tracks": [
@@ -59,28 +59,28 @@
       "artist": "Amor Electro"
     },
     {
-      "name": "Sweettalk My Heart",
-      "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
-      "count": 10,
-      "artist": "Tove Lo"
-    },
-    {
-      "name": "Bad News Baby",
-      "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
-      "count": 9,
-      "artist": "Alma"
-    },
-    {
       "name": "Who Owns My Heart",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
       "count": 9,
       "artist": "Miley Cyrus"
     },
     {
+      "name": "Sweettalk My Heart",
+      "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
+      "count": 9,
+      "artist": "Tove Lo"
+    },
+    {
       "name": "King",
       "url": "https://www.last.fm/music/Years+&+Years/_/King",
       "count": 9,
       "artist": "Years & Years"
+    },
+    {
+      "name": "Bad News Baby",
+      "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
+      "count": 8,
+      "artist": "Alma"
     },
     {
       "name": "Good Vibes",
