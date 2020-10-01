@@ -5,8 +5,6 @@ description: >
   A small update.
 properties:
   syndication: 'https://twitter.com/hacdias/status/1307946612258492418'
-aliases:
-  - /now/
 tags:
   - recently
 ---
