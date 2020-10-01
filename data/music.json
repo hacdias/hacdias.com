@@ -11,11 +11,6 @@
       "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Amor Electro",
-      "count": 13,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
       "name": "Pink Floyd",
       "count": 13,
       "url": "https://www.last.fm/music/Pink+Floyd"
@@ -26,19 +21,19 @@
       "url": "https://www.last.fm/music/Alec+Benjamin"
     },
     {
-      "name": "Britney Spears",
-      "count": 9,
-      "url": "https://www.last.fm/music/Britney+Spears"
+      "name": "Amor Electro",
+      "count": 11,
+      "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "Kiesza",
-      "count": 9,
+      "count": 10,
       "url": "https://www.last.fm/music/Kiesza"
     },
     {
-      "name": "Kim Petras",
+      "name": "Britney Spears",
       "count": 9,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
       "name": "Tove Lo",
@@ -49,19 +44,24 @@
       "name": "Years & Years",
       "count": 9,
       "url": "https://www.last.fm/music/Years+&+Years"
+    },
+    {
+      "name": "Julia Michaels",
+      "count": 8,
+      "url": "https://www.last.fm/music/Julia+Michaels"
     }
   ],
   "tracks": [
     {
       "name": "Cai neve em Nova York",
       "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
-      "count": 13,
+      "count": 11,
       "artist": "Amor Electro"
     },
     {
       "name": "Who Owns My Heart",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
-      "count": 9,
+      "count": 10,
       "artist": "Miley Cyrus"
     },
     {
