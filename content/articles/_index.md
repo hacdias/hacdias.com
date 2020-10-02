@@ -12,4 +12,14 @@ menu:
     weight: 2
 ---
 
+<style>
+@media screen and (min-width: 38rem) {
+  body {
+    background: #f2ede7 url(newspaper.jpg);
+    background-size: 240px;
+    background-attachment: fixed;
+  }
+}
+</style>
+
 <small>**Note**: opinions change and older posts were written when I was in high school or before.</small>
