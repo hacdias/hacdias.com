@@ -1,5 +1,6 @@
 ---
 title: Articles
+layout: articles
 aliases:
   - /blog/
 emoji: ✏️
