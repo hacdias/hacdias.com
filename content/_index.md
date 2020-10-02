@@ -23,7 +23,7 @@ Hi! 👋 I'm from Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in
 
 {{< figure src="follow/mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
 
-I am starting a weekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. I haven't started sending out posts, but as soon as I start, I will commit to one each Monday. Are you interested?
+I recently started a weekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. You can check out the posts I've [sent out](/tags/mondayletter/) so far! Are you interested?
 
 {{< newsletter >}}
 
