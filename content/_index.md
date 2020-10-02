@@ -38,6 +38,12 @@ This is a brief list of my favorite and latest [articles](/articles/). Please ch
 - [**We don't own our data, do we?**](/articles/2019/12/own-your-data/), where I decided to write a bit about our data and its ownership on the multiple platforms we use on a daily basis.
 - [**Decentralizing my website with IPFS**](/articles/2019/08/decentralizing-my-website-with-ipfs/), about how to use IPFS and Cloudflare to build a decentralized website and be part of the web3.
 
+## 📝 Guestbook
+
+{{< figure src="book.gif" alt="Open Book" class="right pixelated" style="max-width: 60px; margin-top: 0; margin-left: 1rem;" >}}
+
+Hey! Please check out my 90s-style inspired [**guestbook**](/guestbook/). Feel free to drop a few lines or just say 'hi' if you enjoyed navigating my corner in the Internet!
+
 ## 🥐 Stuff
 
 There's much more going on with this website than you might think at first sight 👀. Here are *some* other pages and interesting informations you can explore:
@@ -53,9 +59,3 @@ There's much more going on with this website than you might think at first sight
 - 📌 [**Pins**](/pins/), a collection of interesting websites that I find worth sharing.
 - 📦 [**Projects**](/projects/), the major projects I've worked on.
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.
-
-## 📝 Guestbook
-
-{{< figure src="book.gif" alt="Open Book" class="right pixelated" style="max-width: 60px; margin-top: 0; margin-left: 1rem;" >}}
-
-Hey! Please check out my 90s-style inspired [**guestbook**](/guestbook/) if you liked the website and drop a few lines or just an 'hey'!
