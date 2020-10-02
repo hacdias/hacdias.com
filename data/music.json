@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 27,
+      "count": 30,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
@@ -16,14 +16,14 @@
       "url": "https://www.last.fm/music/Pink+Floyd"
     },
     {
+      "name": "Amor Electro",
+      "count": 12,
+      "url": "https://www.last.fm/music/Amor+Electro"
+    },
+    {
       "name": "Alec Benjamin",
       "count": 11,
       "url": "https://www.last.fm/music/Alec+Benjamin"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 11,
-      "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "Kiesza",
@@ -55,13 +55,13 @@
     {
       "name": "Cai neve em Nova York",
       "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
-      "count": 11,
+      "count": 12,
       "artist": "Amor Electro"
     },
     {
       "name": "Who Owns My Heart",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
-      "count": 10,
+      "count": 11,
       "artist": "Miley Cyrus"
     },
     {
