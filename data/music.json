@@ -2,67 +2,61 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 35,
+      "count": 32,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Pink Floyd",
-      "count": 13,
-      "url": "https://www.last.fm/music/Pink+Floyd"
+      "name": "Lady Gaga",
+      "count": 15,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Alec Benjamin",
-      "count": 11,
-      "url": "https://www.last.fm/music/Alec+Benjamin"
+      "name": "Imagine Dragons",
+      "count": 10,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
+    },
+    {
+      "name": "Britney Spears",
+      "count": 9,
+      "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
       "name": "Alma",
-      "count": 10,
+      "count": 8,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Amor Electro",
-      "count": 9,
+      "count": 8,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
-      "name": "Britney Spears",
+      "name": "Maroon 5",
+      "count": 7,
+      "url": "https://www.last.fm/music/Maroon+5"
+    },
+    {
+      "name": "David Guetta",
       "count": 6,
-      "url": "https://www.last.fm/music/Britney+Spears"
-    },
-    {
-      "name": "Years & Years",
-      "count": 6,
-      "url": "https://www.last.fm/music/Years+&+Years"
-    },
-    {
-      "name": "Julia Michaels",
-      "count": 5,
-      "url": "https://www.last.fm/music/Julia+Michaels"
-    },
-    {
-      "name": "Kiesza",
-      "count": 5,
-      "url": "https://www.last.fm/music/Kiesza"
+      "url": "https://www.last.fm/music/David+Guetta"
     },
     {
       "name": "RuPaul",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/RuPaul"
+    },
+    {
+      "name": "Tove Lo",
+      "count": 6,
+      "url": "https://www.last.fm/music/Tove+Lo"
     }
   ],
   "tracks": [
     {
       "name": "Cai neve em Nova York",
       "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
-      "count": 9,
+      "count": 7,
       "artist": "Amor Electro"
-    },
-    {
-      "name": "Who Owns My Heart",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
-      "count": 9,
-      "artist": "Miley Cyrus"
     },
     {
       "name": "Unholy",
@@ -71,28 +65,10 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 6,
-      "artist": "Years & Years"
-    },
-    {
-      "name": "Bad News Baby",
-      "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
-      "count": 5,
-      "artist": "Alma"
-    },
-    {
-      "name": "Good Vibes",
-      "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
-      "count": 5,
-      "artist": "Alma"
-    },
-    {
-      "name": "Mood Ring (By Demand) - Pride Remix",
-      "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
-      "count": 5,
-      "artist": "Britney Spears"
+      "name": "Who Owns My Heart",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
+      "count": 7,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "Heart of Glass (Live from the iHeart Music Festival)",
@@ -101,16 +77,40 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "Lose You to Love Me",
-      "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
+      "name": "King",
+      "url": "https://www.last.fm/music/Years+&+Years/_/King",
       "count": 5,
-      "artist": "Selena Gomez"
+      "artist": "Years & Years"
     },
     {
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
-      "count": 5,
-      "artist": "Tame Impala"
+      "name": "Bad News Baby",
+      "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
+      "count": 4,
+      "artist": "Alma"
+    },
+    {
+      "name": "Good Vibes",
+      "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
+      "count": 4,
+      "artist": "Alma"
+    },
+    {
+      "name": "Mood Ring (By Demand) - Pride Remix",
+      "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
+      "count": 4,
+      "artist": "Britney Spears"
+    },
+    {
+      "name": "Bad Romance",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Bad+Romance",
+      "count": 4,
+      "artist": "Lady Gaga"
+    },
+    {
+      "name": "Heart of Glass (Blondie Cover)",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Blondie+Cover)",
+      "count": 4,
+      "artist": "Miley Cyrus"
     }
   ]
 }
