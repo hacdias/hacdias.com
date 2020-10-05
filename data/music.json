@@ -2,56 +2,68 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 32,
+      "count": 40,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Lady Gaga",
-      "count": 15,
+      "count": 22,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Imagine Dragons",
-      "count": 10,
+      "count": 17,
       "url": "https://www.last.fm/music/Imagine+Dragons"
     },
     {
-      "name": "Britney Spears",
-      "count": 9,
-      "url": "https://www.last.fm/music/Britney+Spears"
-    },
-    {
       "name": "Alma",
-      "count": 8,
+      "count": 12,
       "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Amor Electro",
-      "count": 8,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Maroon 5",
-      "count": 7,
-      "url": "https://www.last.fm/music/Maroon+5"
+      "name": "Britney Spears",
+      "count": 11,
+      "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
       "name": "David Guetta",
-      "count": 6,
+      "count": 10,
       "url": "https://www.last.fm/music/David+Guetta"
     },
     {
-      "name": "RuPaul",
-      "count": 6,
-      "url": "https://www.last.fm/music/RuPaul"
+      "name": "Maroon 5",
+      "count": 10,
+      "url": "https://www.last.fm/music/Maroon+5"
+    },
+    {
+      "name": "Amor Electro",
+      "count": 9,
+      "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "Tove Lo",
-      "count": 6,
+      "count": 8,
       "url": "https://www.last.fm/music/Tove+Lo"
+    },
+    {
+      "name": "Katy Perry",
+      "count": 7,
+      "url": "https://www.last.fm/music/Katy+Perry"
     }
   ],
   "tracks": [
+    {
+      "name": "Unholy",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Unholy",
+      "count": 9,
+      "artist": "Miley Cyrus"
+    },
+    {
+      "name": "Who Owns My Heart",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
+      "count": 8,
+      "artist": "Miley Cyrus"
+    },
     {
       "name": "Cai neve em Nova York",
       "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
@@ -59,58 +71,46 @@
       "artist": "Amor Electro"
     },
     {
-      "name": "Unholy",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Unholy",
-      "count": 7,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Who Owns My Heart",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
-      "count": 7,
-      "artist": "Miley Cyrus"
-    },
-    {
       "name": "Heart of Glass (Live from the iHeart Music Festival)",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Live+from+the+iHeart+Music+Festival)",
-      "count": 5,
+      "count": 7,
       "artist": "Miley Cyrus"
-    },
-    {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 5,
-      "artist": "Years & Years"
     },
     {
       "name": "Bad News Baby",
       "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
-      "count": 4,
+      "count": 6,
       "artist": "Alma"
     },
     {
       "name": "Good Vibes",
       "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
-      "count": 4,
+      "count": 6,
       "artist": "Alma"
     },
     {
       "name": "Mood Ring (By Demand) - Pride Remix",
       "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
-      "count": 4,
+      "count": 6,
       "artist": "Britney Spears"
     },
     {
-      "name": "Bad Romance",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Bad+Romance",
-      "count": 4,
-      "artist": "Lady Gaga"
+      "name": "Lose You to Love Me",
+      "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
+      "count": 6,
+      "artist": "Selena Gomez"
     },
     {
-      "name": "Heart of Glass (Blondie Cover)",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Blondie+Cover)",
-      "count": 4,
-      "artist": "Miley Cyrus"
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
+      "count": 6,
+      "artist": "Tame Impala"
+    },
+    {
+      "name": "King",
+      "url": "https://www.last.fm/music/Years+&+Years/_/King",
+      "count": 6,
+      "artist": "Years & Years"
     }
   ]
 }
