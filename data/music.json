@@ -7,12 +7,12 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 24,
+      "count": 25,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Imagine Dragons",
-      "count": 20,
+      "count": 21,
       "url": "https://www.last.fm/music/Imagine+Dragons"
     },
     {
@@ -107,10 +107,10 @@
       "artist": "Lady Gaga"
     },
     {
-      "name": "Lose You to Love Me",
-      "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
+      "name": "The Edge of Glory",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/The+Edge+of+Glory",
       "count": 5,
-      "artist": "Selena Gomez"
+      "artist": "Lady Gaga"
     }
   ]
 }
