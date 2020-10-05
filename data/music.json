@@ -2,27 +2,32 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 40,
+      "count": 37,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Lady Gaga",
-      "count": 22,
+      "count": 24,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Imagine Dragons",
-      "count": 17,
+      "count": 20,
       "url": "https://www.last.fm/music/Imagine+Dragons"
     },
     {
+      "name": "Maroon 5",
+      "count": 11,
+      "url": "https://www.last.fm/music/Maroon+5"
+    },
+    {
       "name": "Alma",
-      "count": 12,
+      "count": 10,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Britney Spears",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
@@ -31,24 +36,19 @@
       "url": "https://www.last.fm/music/David+Guetta"
     },
     {
-      "name": "Maroon 5",
-      "count": 10,
-      "url": "https://www.last.fm/music/Maroon+5"
+      "name": "Troye Sivan",
+      "count": 9,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Amor Electro",
-      "count": 9,
+      "count": 8,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
-      "name": "Tove Lo",
-      "count": 8,
-      "url": "https://www.last.fm/music/Tove+Lo"
-    },
-    {
-      "name": "Katy Perry",
+      "name": "Bruno Mars",
       "count": 7,
-      "url": "https://www.last.fm/music/Katy+Perry"
+      "url": "https://www.last.fm/music/Bruno+Mars"
     }
   ],
   "tracks": [
@@ -59,58 +59,58 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "Who Owns My Heart",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
-      "count": 8,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Cai neve em Nova York",
-      "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
-      "count": 7,
-      "artist": "Amor Electro"
-    },
-    {
       "name": "Heart of Glass (Live from the iHeart Music Festival)",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Live+from+the+iHeart+Music+Festival)",
       "count": 7,
       "artist": "Miley Cyrus"
     },
     {
+      "name": "Who Owns My Heart",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
+      "count": 7,
+      "artist": "Miley Cyrus"
+    },
+    {
+      "name": "Cai neve em Nova York",
+      "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
+      "count": 6,
+      "artist": "Amor Electro"
+    },
+    {
       "name": "Bad News Baby",
       "url": "https://www.last.fm/music/Alma/_/Bad+News+Baby",
-      "count": 6,
+      "count": 5,
       "artist": "Alma"
     },
     {
       "name": "Good Vibes",
       "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
-      "count": 6,
+      "count": 5,
       "artist": "Alma"
     },
     {
       "name": "Mood Ring (By Demand) - Pride Remix",
       "url": "https://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)+-+Pride+Remix",
-      "count": 6,
+      "count": 5,
       "artist": "Britney Spears"
+    },
+    {
+      "name": "Titanium (feat. Sia)",
+      "url": "https://www.last.fm/music/David+Guetta/_/Titanium+(feat.+Sia)",
+      "count": 5,
+      "artist": "David Guetta"
+    },
+    {
+      "name": "Judas",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Judas",
+      "count": 5,
+      "artist": "Lady Gaga"
     },
     {
       "name": "Lose You to Love Me",
       "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
-      "count": 6,
+      "count": 5,
       "artist": "Selena Gomez"
-    },
-    {
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
-      "count": 6,
-      "artist": "Tame Impala"
-    },
-    {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 6,
-      "artist": "Years & Years"
     }
   ]
 }
