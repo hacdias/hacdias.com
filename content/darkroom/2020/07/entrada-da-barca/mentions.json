@@ -79,5 +79,16 @@
       "photo": "https://cdn.hacdias.com/webmentions/f4d9fb2b35e80c29053b5a42740cd320eade1e6307f4d1d675fb5b76c65a4c95.jpg",
       "url": "https://twitter.com/isabelsrsoares"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1287367979446009862#favorited-by-1167540865675476996",
+    "date": "2020-10-08T19:18:58.000Z",
+    "wm-id": 869417,
+    "author": {
+      "name": "Emir Sağol",
+      "photo": "https://cdn.hacdias.com/webmentions/291cea0ad65f32f2f37d3874f248e957bdb914b57b99816484de28bb44f08f58.jpg",
+      "url": "https://twitter.com/emrsgl"
+    }
   }
 ]
