@@ -4,6 +4,7 @@
       "https://w3id.org/security/v1"
   ],
   "id": "{{ "" | absLangURL }}",
+  "url": "{{ "" | absLangURL }}",
   "type": "Person",
   "name": "{{ .Site.Author.name }}",
   "summary": {{ .Site.Params.description | jsonify }},
