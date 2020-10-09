@@ -1,7 +1,9 @@
 ---
 date: 2020-02-12T21:00:00.000Z
-emoji: 📌
-title: Pins
+emoji: 🔗
+title: Links
+aliases:
+  - /pins
 type: page
 ---
 
