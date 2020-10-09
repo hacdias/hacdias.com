@@ -1,5 +1,5 @@
 ---
-date: 2020-05-09T12:11:00.000Z
+date: 2020-10-09T12:11:00.000Z
 emoji: "\U0001F6E0"
 properties: {}
 publishDate: 2020-01-21T15:39:00.000Z
@@ -39,8 +39,6 @@ This is a [uses] page where you can find some of the technology I use. This page
 #### IndieWeb related services:
 
 - [Webmention.io](https://webmention.io/)
-- [Aperture](https://aperture.p3k.io/)
-- [Monocle](https://monocle.p3k.io/)
 - [Bridgy](https://brid.gy/)
 - [Telegraf](https://telegraph.p3k.io/)
 - [XRay](https://xray.p3k.app/)
