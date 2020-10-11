@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<style>
+  .articles .h-entry {
+    display: grid;
+    grid-template-columns: auto 100px;
+    grid-gap: 1rem;
+    margin: 0.5rem 0;
+  }
+
+  .articles a {
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+</style>
+
+<main role='main'>
+  <h1>{{ .Title }}</h1>
+
+  {{- with .Content }}
+    <div class='copy'>{{ . }}</div>
+  {{- end }}
+
+  <div class='articles h-feed'>
+    {{- $pages := (partialCached "get-pages" . .Type .Title) -}}
+    {{- range $pages.ByTitle -}}
+    <div class='h-entry'>
+      <a class='u-url p-name no-link' href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </div>
+    {{- end -}}
+  </div>
+</main>
+
+{{ end }}
