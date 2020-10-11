@@ -465,6 +465,18 @@ figure.right {
   margin: 0;
 }
 
+.inline-form {
+  display:flex;
+}
+
+.inline-form input:first-of-type {
+  flex-grow: 1;
+}
+
+.inline-form input[type="submit"] {
+  margin-left: 1rem;
+}
+
 @media screen and (max-width: 38rem) {
   :root {
     --space: 1.5rem;
@@ -523,6 +535,15 @@ figure.right {
 
   .wm input[type=submit] {
     margin: 1rem 0 0;
+  }
+
+  .inline-form,
+  .inline-form input {
+    display:block;
+    width: 100%
+  }
+  .inline-form input[type="submit"] {
+    margin: 1rem 0 0 0;
   }
 }
 

@@ -1,26 +1,3 @@
-<style>
-.inline-form {
-  display:flex;
-}
-.inline-form input:first-of-type {
-  flex-grow: 1;
-}
-.inline-form input[type="submit"] {
-  margin-left: 1rem;
-}
-
-@media screen and (max-width: 38rem) {
-  .inline-form,
-  .inline-form input {
-    display:block;
-    width: 100%
-  }
-  .inline-form input[type="submit"] {
-    margin: 1rem 0 0 0;
-  }
-}
-</style>
-
 <form action="https://buttondown.email/api/emails/embed-subscribe/hacdias" method="post" target="_blank" class="inline-form">
   <input aria-label="Your Email" required type="email" name="email" placeholder="Your Email"></input>
   <input type="hidden" value="1" name="embed"></input>
