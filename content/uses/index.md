@@ -1,8 +1,8 @@
 ---
-date: 2020-10-09T12:11:00.000Z
+date: "2020-10-11T12:11:00.000Z"
 emoji: "\U0001F6E0"
 properties: {}
-publishDate: 2020-01-21T15:39:00.000Z
+publishDate: "2020-01-21T15:39:00.000Z"
 tags: []
 title: Uses
 type: page
@@ -30,7 +30,7 @@ This is a [uses] page where you can find some of the technology I use. This page
 
 ### Hosted services
 
-- [DigitalOcean][do]
+- [Hetzner][hetzner]
 - [Namecheap][namecheap]
 - [GitHub][gh]
 - [Cloudflare][cloudflare]
@@ -62,3 +62,4 @@ This is a [uses] page where you can find some of the technology I use. This page
 [cloudflare]: https://www.cloudflare.com/
 [dotfiles]: https://github.com/hacdias/dotfiles
 [fm]: https://github.com/tonsky/FiraCode
+[hetzner]: https://www.hetzner.com/
