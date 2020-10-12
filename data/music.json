@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 65,
+      "count": 64,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
@@ -17,63 +17,51 @@
     },
     {
       "name": "Alma",
-      "count": 22,
+      "count": 18,
       "url": "https://www.last.fm/music/Alma"
     },
     {
+      "name": "Astra King",
+      "count": 17,
+      "url": "https://www.last.fm/music/Astra+King"
+    },
+    {
       "name": "Kiesza",
-      "count": 21,
+      "count": 17,
       "url": "https://www.last.fm/music/Kiesza"
     },
     {
-      "name": "Amor Electro",
-      "count": 17,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
       "name": "Kim Petras",
-      "count": 16,
+      "count": 17,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Selena Gomez",
+      "name": "Amor Electro",
       "count": 16,
+      "url": "https://www.last.fm/music/Amor+Electro"
+    },
+    {
+      "name": "Imagine Dragons",
+      "count": 14,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
+    },
+    {
+      "name": "Selena Gomez",
+      "count": 14,
       "url": "https://www.last.fm/music/Selena+Gomez"
-    },
-    {
-      "name": "Britney Spears",
-      "count": 14,
-      "url": "https://www.last.fm/music/Britney+Spears"
-    },
-    {
-      "name": "Tove Lo",
-      "count": 14,
-      "url": "https://www.last.fm/music/Tove+Lo"
     }
   ],
   "tracks": [
     {
       "name": "Epiphany",
       "url": "https://www.last.fm/music/Astra+King/_/Epiphany",
-      "count": 13,
+      "count": 17,
       "artist": "Astra King"
-    },
-    {
-      "name": "Heart of Glass (Live from the iHeart Music Festival)",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Live+from+the+iHeart+Music+Festival)",
-      "count": 13,
-      "artist": "Miley Cyrus"
     },
     {
       "name": "Unholy",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Unholy",
-      "count": 13,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Slide Away",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
-      "count": 12,
+      "count": 15,
       "artist": "Miley Cyrus"
     },
     {
@@ -83,33 +71,45 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "Lose You to Love Me",
-      "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
-      "count": 12,
-      "artist": "Selena Gomez"
-    },
-    {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 12,
-      "artist": "Years & Years"
-    },
-    {
       "name": "Cai neve em Nova York",
       "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
       "count": 11,
       "artist": "Amor Electro"
     },
     {
-      "name": "Giant in My Heart",
-      "url": "https://www.last.fm/music/Kiesza/_/Giant+in+My+Heart",
+      "name": "Heart of Glass (Live from the iHeart Music Festival)",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Live+from+the+iHeart+Music+Festival)",
       "count": 11,
-      "artist": "Kiesza"
+      "artist": "Miley Cyrus"
+    },
+    {
+      "name": "King",
+      "url": "https://www.last.fm/music/Years+&+Years/_/King",
+      "count": 11,
+      "artist": "Years & Years"
+    },
+    {
+      "name": "Lose You to Love Me",
+      "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
+      "count": 10,
+      "artist": "Selena Gomez"
+    },
+    {
+      "name": "Sweettalk My Heart",
+      "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
+      "count": 10,
+      "artist": "Tove Lo"
+    },
+    {
+      "name": "Slide Away",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
+      "count": 9,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "Feels Like We Only Go Backwards",
       "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
-      "count": 11,
+      "count": 9,
       "artist": "Tame Impala"
     }
   ]
