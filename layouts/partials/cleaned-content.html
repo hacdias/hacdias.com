@@ -1,10 +1,5 @@
 {{ $html := htmlUnescape .Content | safeHTML }}
 
-{{ if eq .Section "darkroom"}}
-  {{ $pics := htmlUnescape (partial "darkroom/full-figures" .) | safeHTML }}
-  {{ $html = printf "%s %s" $html $pics }}
-{{ end }}
-
 {{ $hrefs := findRE "href=\"([^\"]*)\"" $html }}
 {{ range $href := $hrefs}}
   {{ $absHref := strings.TrimPrefix "href=\"" $href  }}
@@ -39,4 +34,5 @@
   {{ $html = replace $html $set $newSrcset }}
 {{ end }}
 
-{{ return $html }}
+{{ $html = (trim $html " ") }}
+{{ return (trim $html "\n") }}
