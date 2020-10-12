@@ -6,4 +6,4 @@
 {{ end }}
 
 {{ $html = (trim $html " ") }}
-{{ return (trim $html "\n") }}
+{{ return (chomp $html) }}

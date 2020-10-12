@@ -6,11 +6,10 @@ tags:
 - eagle
 - activitypub
 - mondayletter
-title: Rebuilding Eagle, my website's CMS
+title: Rebuilding Eagle, my website CMS
 ---
 
-My website is growing, not in terms of views, because I'm not aware of that. Maybe I should add some non-intrusive analytics. Anyways, it's growing in terms of functionality. 
-However, since I'm using a static website generator, it makes it complicated to add some interactive functionalities.
+My website is growing, not in terms of views, because I'm not aware of that. Maybe I should add some non-intrusive analytics. Anyways, it's growing in terms of functionality. However, since I'm using a static website generator, it makes it complicated to add some interactive functionalities.
 
 One of those features is [ActivityPub](https://www.w3.org/TR/activitypub/). ActivityPub is, in the words of the spec:
 
