@@ -6,7 +6,7 @@ tags:
 - eagle
 - activitypub
 - mondayletter
-title: Rebuilding Eagle, my website CMS
+title: Rebuilding Eagle, my website's CMS
 ---
 
 My website is growing, not in terms of views, because I'm not aware of that. Maybe I should add some non-intrusive analytics. Anyways, it's growing in terms of functionality. 
