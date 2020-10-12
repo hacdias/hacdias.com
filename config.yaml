@@ -52,16 +52,10 @@ outputFormats:
     mediaType: 'application/activity+json'
     baseName: index
     isPlainText: true
-  redir:
-    mediaType: text/plain
-    baseName: redirects
-    isPlainText: true
-    notAlternative: true
 
 outputs:
   home:
     - html
-    - redir
     - as2
   section:
     - html

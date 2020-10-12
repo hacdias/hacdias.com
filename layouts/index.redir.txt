@@ -1,7 +1,0 @@
-{{- range $p := .Site.Pages -}}
-{{ range .Aliases }}
-{{- $trimmed := ( strings.TrimSuffix "/" ( strings.TrimPrefix "/" . ) ) }}
-redir /{{ $trimmed }} {{ $p.RelPermalink }} 301
-redir /{{ $trimmed }}/ {{ $p.RelPermalink }} 301
-{{ end -}}
-{{- end -}}
