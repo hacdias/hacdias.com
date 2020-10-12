@@ -1,10 +1,12 @@
 ---
-title: Rebuilding Eagle, my website CMS
-date: 2020-10-12T09:00:00.000+02:00
+date: "2020-10-12T09:00:00.000+02:00"
+properties: {}
 tags:
 - meta
 - eagle
 - activitypub
+- mondayletter
+title: Rebuilding Eagle, my website CMS
 ---
 
 My website is growing, not in terms of views, because I'm not aware of that. Maybe I should add some non-intrusive analytics. Anyways, it's growing in terms of functionality. 
