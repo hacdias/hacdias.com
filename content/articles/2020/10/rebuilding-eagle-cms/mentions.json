@@ -1,0 +1,17 @@
+[
+  {
+    "type": "reply",
+    "url": "https://jan.boddez.net/notes/b0a62edbe0",
+    "date": "2020-10-12T15:12:00+02:00",
+    "wm-id": 873061,
+    "content": {
+      "text": "In reply to https://hacdias.com/articles/2020/10/rebuilding-eagle-cms/.\nInterestingly, your h-feeds seem (somewhat) broken now. Like, could your entries be missing a u-url? I also seem to be missing photos in older posts—again, in my h-feed reader. I’d dig a bit deeper, but “posting from my phone,” etc.",
+      "html": "\u003cp\u003e\u003ci\u003eIn reply to \u003ca class=\"u-in-reply-to\" href=\"https://hacdias.com/articles/2020/10/rebuilding-eagle-cms/\"\u003ehttps://hacdias.com/articles/2020/10/rebuilding-eagle-cms/\u003c/a\u003e.\u003c/i\u003e\u003c/p\u003e\n\u003cp\u003eInterestingly, your h-feeds seem (somewhat) broken now. Like, could your entries be missing a \u003ccode\u003eu-url\u003c/code\u003e? I also seem to be missing photos in older posts—again, in my h-feed reader. I’d dig a bit deeper, but “posting from my phone,” etc.\u003c/p\u003e"
+    },
+    "author": {
+      "name": "Jan Boddez",
+      "url": "https://jan.boddez.net/",
+      "photo": "https://cdn.hacdias.com/webmentions/250e9e9449d7c024daf8563ea895fcf1c48be62cd04373495b132b33d909c5d4.jpg"
+    }
+  }
+]
