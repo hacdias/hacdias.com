@@ -20,6 +20,7 @@
  <meta name="robots" content="noindex">
 {{ end }}
 
+<link rel='alternate' type='application/mf2+json' href='{{ printf "%s%s" .Permalink "index.mf2" }}'>
 {{ range .AlternativeOutputFormats -}}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
