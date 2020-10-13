@@ -1,15 +1,16 @@
 ---
-title: Articles
-layout: articles
 aliases:
-  - /blog/
+- /blog/
+description: |
+  Sometimes I decide I need to write a bit. Know a bit more about me, my thoughts, my adventures and my progress in life.
 emoji: ✏️
-description:  >
-  Sometimes I decide I need to write a bit. Know a bit more about me,
-  my thoughts, my adventures and my progress in life.
+layout: articles
 menu:
   main:
     weight: 2
+properties: {}
+tags: []
+title: Articles
 ---
 
 <style>
@@ -22,4 +23,4 @@ menu:
 }
 </style>
 
-<small>**Note**: opinions change and older posts were written when I was in high school or before.</small>
+<small>**Note**: opinions change and older posts were written when I was in high school or even before.</small>
