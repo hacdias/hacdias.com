@@ -8,12 +8,12 @@ aliases:
   - /blog/wordpress-adicionar-menus-de-administracao-parte-2/
   - >-
     /articles/2015/06/10/2/wordpress-adicionar-menus-de-administracao-parte-2
-date: 2015-06-10T11:27:37.000Z
+lastmod: 2015-06-10T11:27:37.000Z
 description: >-
   Esta é a continuação do tutorial sobre como adicionar menus de administração a
   temas e plugins do WordPress.
 properties: {}
-publishDate: 2014-08-04T12:01:37.000Z
+date: 2014-08-04T12:01:37.000Z
 tags:
   - php
 title: 'WordPress: adicionar menus de administração [Parte 2]'

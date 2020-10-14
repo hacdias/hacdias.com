@@ -1,6 +1,6 @@
 ---
+lastmod: 2020-05-30
 date: 2020-05-30
-publishDate: 2020-05-30
 title: Experiments
 type: page
 ---

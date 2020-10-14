@@ -1,6 +1,6 @@
 ---
-date: 2020-09-23
-publishDate: 2020-01-30
+lastmod: 2020-09-23
+date: 2020-01-30
 title: Follow
 type: page
 hideMentions: true

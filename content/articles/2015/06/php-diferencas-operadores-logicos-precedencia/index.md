@@ -8,12 +8,12 @@ aliases:
   - /blog/php-diferencas-operadores-logicos-precedencia/
   - >-
     /articles/2015/06/10/1/php-diferencas-operadores-logicos-precedencia
-date: 2015-06-10T15:01:00.000Z
+lastmod: 2015-06-10T15:01:00.000Z
 description: >-
   Depois de publicar um artigo sobre as diferenças entre os operadores '==' e
   '===', vou falar sobre as diferenças entre os operadores '&&/||' e 'AND/OR'.
 properties: {}
-publishDate: 2014-07-28T11:00:32.000Z
+date: 2014-07-28T11:00:32.000Z
 tags:
   - php
 title: PHP - Diferenças entre '&&/||' e 'AND/OR'

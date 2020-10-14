@@ -1,7 +1,7 @@
 ---
-date: 2020-09-01T00:00:00.000Z
+lastmod: 2020-09-01T00:00:00.000Z
 properties: {}
-publishDate: 2020-07-15T00:00:00.000Z
+date: 2020-07-15T00:00:00.000Z
 tags: []
 title: Impossible List
 ---
