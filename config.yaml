@@ -25,7 +25,9 @@ params:
   Description: >-
     Henrique is doing his Master's in Computer Science and Engineering while working on the
     most fascinating projects to decentralize the web at Protocol Labs.
-
+  activityPub:
+    inbox:  https://hacdias.com/activitypub/inbox
+    publicKeyPem: -----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArCRGYxKnhx7FpnOeXtli\nK3ZF/dyBNeSLKmKqMCSz4t4PTq0O4cJezlHCeYpxA0b18Ad+6sxSLeIAZbRHr9DA\nHuybVoKTj/twrNEtCqTV6R2lkNNMy8GZhOrGuVSAcra4ek0XWNnZkatD6QmyImcN\naAFJjmOgOqLeE3VbJxUcg37trEsoe+DHBc9DbtirjRgVvJzy3j5xqK/BA80rk6Kw\nJH+7ti+/lWCoUH+/+MmNZ3OQ/xTlsS115fM0Hv67OGQvWeR3UvwwcBs/3gzbyz8d\n5upLfUsorknzYPm37psTfqADSRRVCOsIl32nGcDwv0GiPy/AqpdM70o1m9UApzzc\njQIDAQAB\n-----END PUBLIC KEY-----
 taxonomies:
   tag: tags
 
