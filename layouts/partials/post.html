@@ -60,10 +60,15 @@
 
   <footer class='footer'>
     <span>
-      {{- if not .Date.IsZero -}}
-      <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-        <a href="{{ .RelPermalink }}" class="u-url no-link">{{ .Date.Format "2 Jan 2006" }}</a>
-      </time>
+      {{- if .Lastmod.After .Date -}}
+        <time class='dt-updated' datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
+          <a href="{{ .RelPermalink }}" class="u-url no-link">{{ .Lastmod.Format "2 Jan 2006" }}</a>
+        </time>
+        <time class='dt-published dn' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "2 Jan 2006" }}</time>
+      {{- else if not .Date.IsZero -}}
+        <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+          <a href="{{ .RelPermalink }}" class="u-url no-link">{{ .Date.Format "2 Jan 2006" }}</a>
+        </time>
       {{- end -}}
       {{- with .Section -}}
         {{- with $.Glob.Site.GetPage (printf "/%s" .) -}}
