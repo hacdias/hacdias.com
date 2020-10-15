@@ -1,13 +1,15 @@
 ---
-lastmod: 2020-09-23
-date: 2020-01-30
-title: Follow
-type: page
-hideMentions: true
+date: "2020-01-30"
 emoji: ⚡️
+hideMentions: true
+lastmod: "2020-10-15"
 menu:
   main:
     weight: 6
+properties: {}
+tags: []
+title: Follow
+type: page
 ---
 
 <style>
@@ -38,13 +40,15 @@ I recently started a weekly Monday newsletter about what I'm studying, working o
 
 ## Feeds
 
-This website also provides many RSS and JSON feeds, besides fully supporting [Microformats](https://microformats.org/). All listing and tags pages, such as [micro](/micro/) and [articles](/articles/), have two feeds attached: a JSON and an RSS feed. Your RSS reader should pick up the feeds automagically.
+All listing and tag pages, such as [micro](/micro/) and [articles](/articles/), have three feeds attached to them: HTML/[Microformats](https://microformats.org/), JSON and an RSS feed. Your reader should pick up the feeds automagically. For example, for the [`/all`](/all) page:
 
-You can access them by appending `/feed.json` for the JSON feed, or `/feed.xml` for the RSS feed, to the URL. For example, for the `/articles` page:
+- **HTML/Microformats**: [https://hacdias.com/all](/all/)
+- **RSS Feed**: [https://hacdias.com/all/feed.xml](/all/feed.xml)
+- **JSON Feed**: [https://hacdias.com/all/feed.json](/all/feed.json)
 
-- **Canonical**: [https://hacdias.com/articles](/articles/)
-- **RSS Feed**: [https://hacdias.com/articles/feed.xml](/articles/feed.xml)
-- **JSON Feed**: [https://hacdias.com/articles/feed.json](/articles/feed.json)
+## Fediverse
+
+You can follow me on Mastodon, Pleroma, or any other software that supports ActivityPub. Just search for `@hacdias@hacdias.com` and you should find me!
 
 ## Social Media
 
