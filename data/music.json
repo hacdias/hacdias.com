@@ -2,13 +2,8 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 64,
+      "count": 50,
       "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Troye Sivan",
-      "count": 35,
-      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Alexandre Desplat",
@@ -16,101 +11,106 @@
       "url": "https://www.last.fm/music/Alexandre+Desplat"
     },
     {
-      "name": "Alma",
-      "count": 18,
-      "url": "https://www.last.fm/music/Alma"
+      "name": "Imagine Dragons",
+      "count": 15,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
+    },
+    {
+      "name": "Amor Electro",
+      "count": 14,
+      "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "Astra King",
-      "count": 17,
+      "count": 13,
       "url": "https://www.last.fm/music/Astra+King"
     },
     {
       "name": "Kiesza",
-      "count": 17,
+      "count": 11,
       "url": "https://www.last.fm/music/Kiesza"
     },
     {
-      "name": "Kim Petras",
-      "count": 17,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "name": "Paulo Gonzo",
+      "count": 11,
+      "url": "https://www.last.fm/music/Paulo+Gonzo"
     },
     {
-      "name": "Amor Electro",
-      "count": 16,
-      "url": "https://www.last.fm/music/Amor+Electro"
+      "name": "Tove Lo",
+      "count": 11,
+      "url": "https://www.last.fm/music/Tove+Lo"
     },
     {
-      "name": "Imagine Dragons",
-      "count": 14,
-      "url": "https://www.last.fm/music/Imagine+Dragons"
+      "name": "Alma",
+      "count": 10,
+      "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Selena Gomez",
-      "count": 14,
-      "url": "https://www.last.fm/music/Selena+Gomez"
+      "name": "Aly & AJ",
+      "count": 10,
+      "url": "https://www.last.fm/music/Aly+&+AJ"
     }
   ],
   "tracks": [
     {
       "name": "Epiphany",
       "url": "https://www.last.fm/music/Astra+King/_/Epiphany",
-      "count": 17,
+      "count": 13,
       "artist": "Astra King"
     },
     {
       "name": "Unholy",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Unholy",
-      "count": 15,
+      "count": 12,
       "artist": "Miley Cyrus"
+    },
+    {
+      "name": "Quem de Nós Dois (feat. Ana Carolina)",
+      "url": "https://www.last.fm/music/Paulo+Gonzo/_/Quem+de+N%C3%B3s+Dois+(feat.+Ana+Carolina)",
+      "count": 11,
+      "artist": "Paulo Gonzo"
+    },
+    {
+      "name": "Joan of Arc on the Dance Floor",
+      "url": "https://www.last.fm/music/Aly+&+AJ/_/Joan+of+Arc+on+the+Dance+Floor",
+      "count": 10,
+      "artist": "Aly & AJ"
     },
     {
       "name": "Who Owns My Heart",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Who+Owns+My+Heart",
-      "count": 12,
+      "count": 9,
       "artist": "Miley Cyrus"
     },
     {
       "name": "Cai neve em Nova York",
       "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
-      "count": 11,
+      "count": 7,
       "artist": "Amor Electro"
     },
     {
-      "name": "Heart of Glass (Live from the iHeart Music Festival)",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Live+from+the+iHeart+Music+Festival)",
-      "count": 11,
+      "name": "Heart Of Glass (Live from the iHeart Festival)",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+Of+Glass+(Live+from+the+iHeart+Festival)",
+      "count": 7,
       "artist": "Miley Cyrus"
     },
     {
-      "name": "King",
-      "url": "https://www.last.fm/music/Years+&+Years/_/King",
-      "count": 11,
-      "artist": "Years & Years"
+      "name": "Slide Away",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
+      "count": 6,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "Lose You to Love Me",
       "url": "https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me",
-      "count": 10,
+      "count": 6,
       "artist": "Selena Gomez"
     },
     {
       "name": "Sweettalk My Heart",
       "url": "https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart",
-      "count": 10,
+      "count": 6,
       "artist": "Tove Lo"
-    },
-    {
-      "name": "Slide Away",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Slide+Away",
-      "count": 9,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards",
-      "count": 9,
-      "artist": "Tame Impala"
     }
   ]
 }
