@@ -15,17 +15,7 @@
   "type": "{{ if eq .Section "articles" }}Article{{ else }}Note{{ end }}",
   "attributedTo": "{{ "" | absLangURL }}"{{ if .Params.properties }}{{ if isset .Params.properties "in-reply-to" }},
   "inReplyTo": "{{ index .Params.properties "in-reply-to" }}"
-  {{ end }}{{ end }}{{ with .Params.tags }},
-  "tag": [
-    {{- range $i, $tag := . -}}
-    {{- with $.Site.GetPage (printf "/tags/%s" $tag) -}}
-    {{- if not (eq $i 0) }},{{end}}{
-      "type": "Hashtag",
-      "id": {{ .Permalink | jsonify }},
-      "name": {{ $tag | jsonify }}
-    }
-    {{- end -}}
-    {{- end -}}
-  ]{{- end }},
+  {{ end }}{{ end }},
+  "tag": {{ partial "get-as2-tags" . | jsonify}},
   "attachment": {{ (partial "get-attachments" . ) | jsonify }}
 }
