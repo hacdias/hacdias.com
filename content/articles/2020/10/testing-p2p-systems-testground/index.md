@@ -1,11 +1,13 @@
 ---
-date: 2020-10-19T09:00:00.000+02:00
-title: Testing peer-to-peer systems with Testground
+date: "2020-10-19T09:00:00.000+02:00"
+properties:
+  syndication: https://twitter.com/hacdias/status/1318089432113815553
 tags:
-  - testing
-  - decentralization
-  - testground
-  - mondayletter
+- testing
+- decentralization
+- testground
+- mondayletter
+title: Testing peer-to-peer systems with Testground
 ---
 
 "Test, test, test" is a well known sentence right now due to the current circumstances. However, it does not apply only to Covid-19 or other diseases. Testing is one word that all of us have dreamt - or had nightmares - about in the past. It is also one crucial part and step in the Software Engineering and Development process, as it allows to verify and ensure that a certain system behaves as expected. At least, for known cases!
@@ -325,4 +327,3 @@ MESSAGE << single[000] (a5d263) >> ping RTT was 208.659726ms [200ms, 250ms]
 We're now working on TaaS, [Testground as a Service](https://github.com/testground/testground/issues/1148), something we've wanted to do for some time. Having Testground running as a service will allow us to easily integrate it with CIs or even having online dashboards to check tests results and analyse data.
 
 If you're interested, don't hesitate to [read more](https://github.com/testground/testground) about the project!
-
