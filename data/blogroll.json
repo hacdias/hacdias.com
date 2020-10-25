@@ -1,26 +1,4 @@
 {
-  "comics": [
-    {
-      "feed": "https://www.commitstrip.com/en/feed/?",
-      "site": "https://www.commitstrip.com",
-      "title": "ComitStrip"
-    },
-    {
-      "feed": "https://dilbert.com/feed",
-      "site": "http://dilbert.com",
-      "title": "Dilbert"
-    },
-    {
-      "feed": "https://heyokyay.com/feed/",
-      "site": "https://heyokyay.com",
-      "title": "Hey Ok Yay?"
-    },
-    {
-      "feed": "https://xkcd.com/rss.xml",
-      "site": "https://xkcd.com/",
-      "title": "XKCD"
-    }
-  ],
   "following": [
     {
       "feed": "https://aaronparecki.com/feed.json",
@@ -191,6 +169,28 @@
       "feed": "https://schollz.com/index.xml",
       "site": "https://schollz.com/",
       "title": "Zack Scholl"
+    }
+  ],
+  "comics": [
+    {
+      "feed": "https://www.commitstrip.com/en/feed/?",
+      "site": "https://www.commitstrip.com",
+      "title": "ComitStrip"
+    },
+    {
+      "feed": "https://dilbert.com/feed",
+      "site": "http://dilbert.com",
+      "title": "Dilbert"
+    },
+    {
+      "feed": "https://heyokyay.com/feed/",
+      "site": "https://heyokyay.com",
+      "title": "Hey Ok Yay?"
+    },
+    {
+      "feed": "https://xkcd.com/rss.xml",
+      "site": "https://xkcd.com/",
+      "title": "XKCD"
     }
   ]
 }
