@@ -1748,13 +1748,23 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2020-11-04T16:47:57.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
+      "title": "Drag Race Holland",
+      "watched": "2020-11-03T19:56:25.000Z",
+      "url": "https://trakt.tv/shows/drag-race-holland"
+    },
+    {
       "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2020-10-23T20:49:55.000Z",
+      "watched": "2020-10-30T18:20:17.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2020-10-08T13:13:21.000Z",
+      "watched": "2020-10-30T17:59:02.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
@@ -1876,11 +1886,6 @@
       "title": "The Magicians",
       "watched": "2020-04-02T17:11:17.000Z",
       "url": "https://trakt.tv/shows/the-magicians-2015"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2020-03-31T07:38:11.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "#CasaDoCais",
