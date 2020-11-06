@@ -1748,19 +1748,19 @@
   ],
   "series": [
     {
-      "title": "The Good Doctor",
-      "watched": "2020-11-04T16:47:57.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
       "title": "Drag Race Holland",
-      "watched": "2020-11-03T19:56:25.000Z",
+      "watched": "2020-11-06T22:42:56.000Z",
       "url": "https://trakt.tv/shows/drag-race-holland"
     },
     {
       "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2020-10-30T18:20:17.000Z",
+      "watched": "2020-11-06T18:25:28.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
+    },
+    {
+      "title": "The Good Doctor",
+      "watched": "2020-11-04T16:47:57.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
