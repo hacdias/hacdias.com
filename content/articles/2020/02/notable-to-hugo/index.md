@@ -14,7 +14,7 @@ tags:
 title: How do I generate my knowledge base
 ---
 
-For quite a few time, I used [Bear](https://bear.app/) as my go-to Notes application for two reasons: it was single to use and the syntax was quite similar to markdown. However, it is not markdown and it does not support some things that'd like to see on such software: diagrams, mathematics, wiki-like links, etc.
+For quite a few time, I used [Bear](https://bear.app/) as my go-to Notes application for two reasons: it was simple to use and the syntax was quite similar to markdown. However, it is not markdown and it does not support some things that'd like to see on such software: diagrams, mathematics, wiki-like links, etc.
 
 After searching for a bit I found out an app called [Notable](https://notable.md/). In addition to having all the features I wanted from Bear, it is also storage independent, meaning everything is stored as markdown plain-files that I can version control with Git or some similar software.
 
@@ -35,7 +35,7 @@ cd /path/of/my/notes
 (git add -A && git commit -m "$(date)" && git push) || echo "no changes"
 ```
 
-For the curious, I'm using macOS's [`lunchd`](https://en.wikipedia.org/wiki/Launchd) to run this script every fifteen minutes. After pushing to GitHub, it will trigger a [webhook](https://developer.github.com/webhooks/) that makes a request to my website API saying "there's new commits available, you should pull them" and that's what I do.
+For the curious, I'm using macOS's [`launchd`](https://en.wikipedia.org/wiki/Launchd) to run this script every fifteen minutes. After pushing to GitHub, it will trigger a [webhook](https://developer.github.com/webhooks/) that makes a request to my website API saying "there's new commits available, you should pull them" and that's what I do.
 
 As soon as the server receives the hook request, it runs `git pull` on the server copy of the notes repository. Then, it runs a script that looks like this to convert the Notable notes to Hugo posts:
 
