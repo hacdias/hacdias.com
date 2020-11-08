@@ -1,7 +1,9 @@
 ---
-title: Monday Letter
-emoji: 🗞
+emoji: "\U0001F5DE"
 layout: articles
+properties: {}
+tags: []
+title: Monday Letter
 ---
 
 <style>
@@ -20,7 +22,7 @@ layout: articles
 
 {{< figure src="../../follow/mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
 
-I recently started a weekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. Here you can find the past issues. Are you interested?
+This is my biweekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. Here you can find the past issues. Are you interested?
 
 {{< newsletter >}}
 

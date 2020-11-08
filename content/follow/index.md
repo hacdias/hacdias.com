@@ -34,7 +34,7 @@ type: page
 
 {{< figure src="mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
 
-I recently started a weekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. You can check out the posts I've [sent out](/tags/mondayletter/) so far! Are you interested?
+I recently started a biweekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. You can check out the posts I've [sent out](/tags/mondayletter/) so far! Are you interested?
 
 {{< newsletter >}}
 
