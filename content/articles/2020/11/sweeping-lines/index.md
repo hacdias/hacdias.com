@@ -26,4 +26,4 @@ Let's look at the algorithm now:
 
 In total, the algorithm takes _O(n log n)_ time. Try to picture it. Does it make sense? It makes sense to me and I hope it's correct. 
 
-What do you think about this kind of problems? There's many other variations of this, such as find interesections and find the smallest circles in a set of points.
+What do you think about this kind of problems? There's many other variations of this, such as find intersections and find the smallest circles in a set of points.
