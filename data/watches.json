@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Holidate",
+      "watched": "2020-11-08T15:34:42.000Z",
+      "url": "https://trakt.tv/movies/holidate-2020"
+    },
+    {
       "title": "Brahms: The Boy II",
       "watched": "2020-09-20T20:35:11.000Z",
       "url": "https://trakt.tv/movies/brahms-the-boy-ii-2020"
@@ -1748,24 +1753,34 @@
   ],
   "series": [
     {
+      "title": "The Haunting",
+      "watched": "2020-11-15T14:46:27.000Z",
+      "url": "https://trakt.tv/shows/the-haunting"
+    },
+    {
+      "title": "Young Sheldon",
+      "watched": "2020-11-15T10:50:45.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "The Good Doctor",
+      "watched": "2020-11-13T08:58:49.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2020-11-12T21:40:03.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "Drag Race Holland",
-      "watched": "2020-11-06T22:42:56.000Z",
+      "watched": "2020-11-07T09:33:35.000Z",
       "url": "https://trakt.tv/shows/drag-race-holland"
     },
     {
       "title": "Heathrow: Britain's Busiest Airport",
       "watched": "2020-11-06T18:25:28.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2020-11-04T16:47:57.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2020-10-30T17:59:02.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "The Umbrella Academy",
@@ -1813,9 +1828,9 @@
       "url": "https://trakt.tv/shows/warrior-nun"
     },
     {
-      "title": "Bangkok Love Stories 2: Innocence",
+      "title": "Bangkok Love Stories: Innocence",
       "watched": "2020-07-03T08:52:03.000Z",
-      "url": "https://trakt.tv/shows/bangkok-love-stories-2-innocence"
+      "url": "https://trakt.tv/shows/bangkok-love-stories-innocence"
     },
     {
       "title": "Please Like Me",
@@ -1866,11 +1881,6 @@
       "title": "Westworld",
       "watched": "2020-05-04T14:48:33.000Z",
       "url": "https://trakt.tv/shows/westworld"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2020-05-01T21:47:15.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "Glee",
@@ -2059,7 +2069,7 @@
     },
     {
       "title": "House of Anubis",
-      "watched": "2013-04-12T00:30:00.000Z",
+      "watched": "2013-06-18T00:30:00.000Z",
       "url": "https://trakt.tv/shows/house-of-anubis"
     }
   ]
