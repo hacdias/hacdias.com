@@ -341,13 +341,6 @@
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "A Viagem do Caminheiro da Alvorada",
-      "isbn": "9789722331326",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "C.S. Lewis",
       "name": "O Príncipe Caspian",
       "isbn": "9789722330978",
       "rating": "N/A"
@@ -355,8 +348,8 @@
     {
       "date": null,
       "author": "C.S. Lewis",
-      "name": "O Trono de Prata",
-      "isbn": "9789722331685",
+      "name": "A Viagem do Caminheiro da Alvorada",
+      "isbn": "9789722331326",
       "rating": "N/A"
     },
     {
@@ -364,6 +357,13 @@
       "author": "C.S. Lewis",
       "name": "A Última Batalha",
       "isbn": "9789722332200",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "C.S. Lewis",
+      "name": "O Trono de Prata",
+      "isbn": "9789722331685",
       "rating": "N/A"
     },
     {
@@ -404,6 +404,13 @@
     {
       "date": null,
       "author": "Enid Blyton",
+      "name": "O Mistério da Casa Queimada",
+      "isbn": "9789895554591",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Enid Blyton",
       "name": "O Mistério da Gata Desaparecida",
       "isbn": "9789895554607",
       "rating": "N/A"
@@ -411,8 +418,8 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério da Casa Queimada",
-      "isbn": "9789895554591",
+      "name": "O Mistério do Quarto Secreto",
+      "isbn": "9789895554829",
       "rating": "N/A"
     },
     {
@@ -425,8 +432,8 @@
     {
       "date": null,
       "author": "Enid Blyton",
-      "name": "O Mistério do Quarto Secreto",
-      "isbn": "9789895554829",
+      "name": "O Mistério do Gato Cómico",
+      "isbn": "9789895557738",
       "rating": "N/A"
     },
     {
@@ -441,13 +448,6 @@
       "author": "Enid Blyton",
       "name": "Os Cinco e os Contrabandistas",
       "isbn": "9789895558360",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Enid Blyton",
-      "name": "O Mistério do Gato Cómico",
-      "isbn": "9789895557738",
       "rating": "N/A"
     },
     {
@@ -494,6 +494,13 @@
     },
     {
       "date": null,
+      "author": "Sophia de Mello Breyner Andresen",
+      "name": "O Rapaz de Bronze",
+      "isbn": "9789726612032",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
       "author": "Rick Riordan",
       "name": "O Herói Desaparecido",
       "isbn": "9789896574918",
@@ -501,9 +508,9 @@
     },
     {
       "date": null,
-      "author": "Sophia de Mello Breyner Andresen",
-      "name": "O Rapaz de Bronze",
-      "isbn": "9789726612032",
+      "author": "Rick Riordan",
+      "name": "Percy Jackson e a Maldição do Titã",
+      "isbn": "9789724620251",
       "rating": "N/A"
     },
     {
@@ -523,8 +530,8 @@
     {
       "date": null,
       "author": "Rick Riordan",
-      "name": "Percy Jackson e a Maldição do Titã",
-      "isbn": "9789724620251",
+      "name": "Percy Jackson e o Último Olimpiano",
+      "isbn": "9789724622415",
       "rating": "N/A"
     },
     {
@@ -532,13 +539,6 @@
       "author": "Marion Zimmer Bradley",
       "name": "A Senhora da Magia",
       "isbn": "9789896373986",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Rick Riordan",
-      "name": "Percy Jackson e o Último Olimpiano",
-      "isbn": "9789724622415",
       "rating": "N/A"
     },
     {
@@ -558,13 +558,6 @@
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "Um Dia de Cão",
-      "isbn": "9789896680596",
-      "rating": "N/A"
-    },
-    {
-      "date": null,
-      "author": "Jeff Kinney",
       "name": "A Verdade Nua e Crua",
       "isbn": "9789897070433",
       "rating": "N/A"
@@ -572,8 +565,8 @@
     {
       "date": null,
       "author": "Jeff Kinney",
-      "name": "O Emplastro",
-      "isbn": "9789897071188",
+      "name": "Um Dia de Cão",
+      "isbn": "9789896680596",
       "rating": "N/A"
     },
     {
@@ -581,6 +574,13 @@
       "author": "Jeff Kinney",
       "name": "Tirem-me Daqui!",
       "isbn": "9789897071102",
+      "rating": "N/A"
+    },
+    {
+      "date": null,
+      "author": "Jeff Kinney",
+      "name": "O Emplastro",
+      "isbn": "9789897071188",
       "rating": "N/A"
     },
     {
@@ -599,16 +599,16 @@
     },
     {
       "date": null,
-      "author": "Tim    Collins",
-      "name": "Príncipe da Tansilvânia",
-      "isbn": "9789897070211",
+      "author": "Tim Collins",
+      "name": "Bananus Maximus",
+      "isbn": "9789897071140",
       "rating": "N/A"
     },
     {
       "date": null,
-      "author": "Tim Collins",
-      "name": "Bananus Maximus",
-      "isbn": "9789897071140",
+      "author": "Tim    Collins",
+      "name": "Príncipe da Tansilvânia",
+      "isbn": "9789897070211",
       "rating": "N/A"
     },
     {
