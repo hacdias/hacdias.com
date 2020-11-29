@@ -2,115 +2,115 @@
   "artists": [
     {
       "name": "Alma",
-      "count": 34,
+      "count": 42,
       "url": "https://www.last.fm/music/Alma"
     },
     {
+      "name": "Dua Lipa",
+      "count": 36,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
       "name": "Grimes",
-      "count": 17,
+      "count": 27,
       "url": "https://www.last.fm/music/Grimes"
     },
     {
       "name": "Miley Cyrus",
-      "count": 14,
+      "count": 17,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Fernando Daniel",
-      "count": 11,
-      "url": "https://www.last.fm/music/Fernando+Daniel"
-    },
-    {
-      "name": "a.Rose",
-      "count": 10,
-      "url": "https://www.last.fm/music/a.Rose"
-    },
-    {
-      "name": "Ace of Base",
-      "count": 10,
-      "url": "https://www.last.fm/music/Ace+of+Base"
-    },
-    {
       "name": "Caroline Polachek",
-      "count": 9,
+      "count": 13,
       "url": "https://www.last.fm/music/Caroline+Polachek"
     },
     {
+      "name": "a.Rose",
+      "count": 12,
+      "url": "https://www.last.fm/music/a.Rose"
+    },
+    {
+      "name": "Fernando Daniel",
+      "count": 12,
+      "url": "https://www.last.fm/music/Fernando+Daniel"
+    },
+    {
+      "name": "Ace of Base",
+      "count": 11,
+      "url": "https://www.last.fm/music/Ace+of+Base"
+    },
+    {
       "name": "CYN",
-      "count": 7,
+      "count": 11,
       "url": "https://www.last.fm/music/CYN"
     },
     {
       "name": "Christine and the Queens",
-      "count": 6,
+      "count": 8,
       "url": "https://www.last.fm/music/Christine+and+the+Queens"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 6,
-      "url": "https://www.last.fm/music/Lady+Gaga"
     }
   ],
   "tracks": [
     {
       "name": "Sour Sweet Sad Eyes",
       "url": "https://www.last.fm/music/a.Rose/_/Sour+Sweet+Sad+Eyes",
-      "count": 10,
+      "count": 12,
       "artist": "a.Rose"
     },
     {
       "name": "All That She Wants",
       "url": "https://www.last.fm/music/Ace+of+Base/_/All+That+She+Wants",
-      "count": 10,
+      "count": 11,
       "artist": "Ace of Base"
-    },
-    {
-      "name": "Melodia Da Saudade - Radio Edit",
-      "url": "https://www.last.fm/music/Fernando+Daniel/_/Melodia+Da+Saudade+-+Radio+Edit",
-      "count": 10,
-      "artist": "Fernando Daniel"
     },
     {
       "name": "Loser",
       "url": "https://www.last.fm/music/Alma/_/Loser",
-      "count": 9,
+      "count": 11,
       "artist": "Alma"
     },
     {
       "name": "My Girl",
       "url": "https://www.last.fm/music/Alma/_/My+Girl",
-      "count": 9,
+      "count": 11,
       "artist": "Alma"
+    },
+    {
+      "name": "Melodia Da Saudade - Radio Edit",
+      "url": "https://www.last.fm/music/Fernando+Daniel/_/Melodia+Da+Saudade+-+Radio+Edit",
+      "count": 11,
+      "artist": "Fernando Daniel"
     },
     {
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Prisoner+(feat.+Dua+Lipa)",
-      "count": 9,
+      "count": 11,
       "artist": "Miley Cyrus"
     },
     {
       "name": "King of the Castle",
       "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
-      "count": 8,
+      "count": 10,
       "artist": "Alma"
     },
     {
       "name": "Worst Behaviour",
       "url": "https://www.last.fm/music/Alma/_/Worst+Behaviour",
-      "count": 8,
+      "count": 10,
       "artist": "Alma"
     },
     {
       "name": "Vanessa",
       "url": "https://www.last.fm/music/Grimes/_/Vanessa",
-      "count": 5,
+      "count": 7,
       "artist": "Grimes"
     },
     {
-      "name": "So Hot You're Hurting My Feelings",
-      "url": "https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings",
-      "count": 4,
-      "artist": "Caroline Polachek"
+      "name": "Talking Body",
+      "url": "https://www.last.fm/music/Tove+Lo/_/Talking+Body",
+      "count": 7,
+      "artist": "Tove Lo"
     }
   ]
 }
