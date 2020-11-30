@@ -1,9 +1,10 @@
 ---
-title: Access your home network behind a Carrier Grade NAT with Wireguard
 date: "2020-11-30T09:00:00.000+01:00"
+properties: {}
 tags:
 - mondayletter
 - network
+title: Access your home network behind a Carrier Grade NAT with Wireguard
 ---
 
 I recently moved from the place where I was staying at to my own studio. In addition, since I was building a computer, I wanted to be able to access remotely to its capabitities, as well as any other device I have at home. Thus, I thought: let's set up a VPN!
@@ -142,12 +143,12 @@ The client (your smartphone, computer, etc) is the easiest. Here's the configura
 
 ```conf
 [Interface]
-PrivateKey = client_privatekey
+PrivateKey = <client_privatekey>
 Address = 10.200.200.3/24
 DNS = 1.1.1.1                     # you can use your own!
 
 [Peer]
-PublicKey = vps_publickey
+PublicKey = <vps_publickey>
 AllowedIPs = 0.0.0.0/0
 Endpoint = <vps ip>:37466
 PersistentKeepalive = 25
