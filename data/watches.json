@@ -1753,14 +1753,14 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2020-12-02T20:26:43.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "The Haunting of Hill House",
       "watched": "2020-11-30T19:18:48.000Z",
       "url": "https://trakt.tv/shows/the-haunting-of-hill-house"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2020-11-30T19:18:26.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "The Haunting of Bly Manor",
