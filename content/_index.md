@@ -9,6 +9,11 @@ title: hacdias.com
   body {
     background: #000 url(snow.gif);
   }
+
+  :root {
+    --action: #165b33;
+    --black: #Ea4630
+  }
 }
 </style>
 
