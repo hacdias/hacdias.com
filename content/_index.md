@@ -7,7 +7,7 @@ title: hacdias.com
 <style>
 @media screen and (min-width: 38rem) {
   body {
-    background: #000 url(space.gif);
+    background: #000 url(snow.gif);
   }
 }
 </style>
