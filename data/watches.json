@@ -1753,8 +1753,13 @@
   ],
   "series": [
     {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2020-12-05T22:51:28.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "The Queen's Gambit",
-      "watched": "2020-12-04T21:30:09.000Z",
+      "watched": "2020-12-05T22:50:29.000Z",
       "url": "https://trakt.tv/shows/the-queen-s-gambit"
     },
     {
@@ -1781,11 +1786,6 @@
       "title": "Young Sheldon",
       "watched": "2020-11-20T08:25:44.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2020-11-12T21:40:03.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "Drag Race Holland",
