@@ -7,17 +7,17 @@
     },
     {
       "name": "Melodysheep",
-      "count": 36,
+      "count": 37,
       "url": "https://www.last.fm/music/Melodysheep"
     },
     {
       "name": "Alma",
-      "count": 32,
+      "count": 28,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Miley Cyrus",
-      "count": 25,
+      "count": 24,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
-      "name": "Tove Lo",
-      "count": 8,
-      "url": "https://www.last.fm/music/Tove+Lo"
+      "name": "CYN",
+      "count": 7,
+      "url": "https://www.last.fm/music/CYN"
     }
   ],
   "tracks": [
@@ -83,20 +83,8 @@
       "artist": "Dua Lipa"
     },
     {
-      "name": "Talking Body",
-      "url": "https://www.last.fm/music/Tove+Lo/_/Talking+Body",
-      "count": 8,
-      "artist": "Tove Lo"
-    },
-    {
       "name": "Find Me",
       "url": "https://www.last.fm/music/Alma/_/Find+Me",
-      "count": 7,
-      "artist": "Alma"
-    },
-    {
-      "name": "King of the Castle",
-      "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
       "count": 7,
       "artist": "Alma"
     },
@@ -107,10 +95,22 @@
       "artist": "Dua Lipa"
     },
     {
-      "name": "Prisoner (feat. Dua Lipa)",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Prisoner+(feat.+Dua+Lipa)",
+      "name": "Talking Body",
+      "url": "https://www.last.fm/music/Tove+Lo/_/Talking+Body",
       "count": 7,
-      "artist": "Miley Cyrus"
+      "artist": "Tove Lo"
+    },
+    {
+      "name": "King of the Castle",
+      "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
+      "count": 6,
+      "artist": "Alma"
+    },
+    {
+      "name": "Break My Heart",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Break+My+Heart",
+      "count": 6,
+      "artist": "Dua Lipa"
     }
   ]
 }
