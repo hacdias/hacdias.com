@@ -1753,6 +1753,11 @@
   ],
   "series": [
     {
+      "title": "The Queen's Gambit",
+      "watched": "2020-12-04T21:30:09.000Z",
+      "url": "https://trakt.tv/shows/the-queen-s-gambit"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2020-12-02T20:26:43.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
