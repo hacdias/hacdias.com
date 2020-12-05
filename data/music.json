@@ -95,12 +95,6 @@
       "artist": "Dua Lipa"
     },
     {
-      "name": "Talking Body",
-      "url": "https://www.last.fm/music/Tove+Lo/_/Talking+Body",
-      "count": 7,
-      "artist": "Tove Lo"
-    },
-    {
       "name": "King of the Castle",
       "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
       "count": 6,
@@ -111,6 +105,12 @@
       "url": "https://www.last.fm/music/Dua+Lipa/_/Break+My+Heart",
       "count": 6,
       "artist": "Dua Lipa"
+    },
+    {
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Prisoner+(feat.+Dua+Lipa)",
+      "count": 6,
+      "artist": "Miley Cyrus"
     }
   ]
 }
