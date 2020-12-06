@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "The Christmas Chronicles",
+      "watched": "2020-12-06T14:48:57.000Z",
+      "url": "https://trakt.tv/movies/the-christmas-chronicles-2018"
+    },
+    {
       "title": "Holidate",
       "watched": "2020-11-08T15:34:42.000Z",
       "url": "https://trakt.tv/movies/holidate-2020"
@@ -1753,6 +1758,11 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2020-12-06T08:57:35.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2020-12-05T22:51:28.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
@@ -1781,11 +1791,6 @@
       "title": "The Bureau of Magical Things",
       "watched": "2020-11-25T18:47:33.000Z",
       "url": "https://trakt.tv/shows/the-bureau-of-magical-things"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2020-11-20T08:25:44.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "Drag Race Holland",
@@ -2084,7 +2089,7 @@
     },
     {
       "title": "House of Anubis",
-      "watched": "2013-06-18T00:30:00.000Z",
+      "watched": "2013-04-12T00:30:00.000Z",
       "url": "https://trakt.tv/shows/house-of-anubis"
     }
   ]
