@@ -2,18 +2,18 @@
   "artists": [
     {
       "name": "Melodysheep",
-      "count": 39,
+      "count": 55,
       "url": "https://www.last.fm/music/Melodysheep"
     },
     {
       "name": "Dua Lipa",
-      "count": 31,
+      "count": 35,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 21,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "name": "Alma",
+      "count": 26,
+      "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Alexandre Desplat",
@@ -21,23 +21,23 @@
       "url": "https://www.last.fm/music/Alexandre+Desplat"
     },
     {
-      "name": "Alma",
-      "count": 20,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 13,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Grimes",
-      "count": 10,
+      "count": 15,
       "url": "https://www.last.fm/music/Grimes"
     },
     {
+      "name": "Lady Gaga",
+      "count": 15,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 12,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Caroline Polachek",
-      "count": 6,
+      "count": 8,
       "url": "https://www.last.fm/music/Caroline+Polachek"
     },
     {
@@ -55,7 +55,7 @@
     {
       "name": "Find Me",
       "url": "https://www.last.fm/music/Alma/_/Find+Me",
-      "count": 7,
+      "count": 9,
       "artist": "Alma"
     },
     {
@@ -67,20 +67,38 @@
     {
       "name": "Chilly Wonka",
       "url": "https://www.last.fm/music/Melodysheep/_/Chilly+Wonka",
-      "count": 6,
+      "count": 7,
+      "artist": "Melodysheep"
+    },
+    {
+      "name": "Oh My!",
+      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
+      "count": 7,
       "artist": "Melodysheep"
     },
     {
       "name": "Don't Start Now",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
-      "count": 5,
+      "count": 6,
       "artist": "Dua Lipa"
     },
     {
       "name": "Future Nostalgia",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
-      "count": 5,
+      "count": 6,
       "artist": "Dua Lipa"
+    },
+    {
+      "name": "Levitating",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Levitating",
+      "count": 6,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "King of the Castle",
+      "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
+      "count": 5,
+      "artist": "Alma"
     },
     {
       "name": "Hallucinate",
@@ -89,28 +107,10 @@
       "artist": "Dua Lipa"
     },
     {
-      "name": "Levitating",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Levitating",
+      "name": "Physical",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
       "count": 5,
       "artist": "Dua Lipa"
-    },
-    {
-      "name": "Oh My!",
-      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
-      "count": 5,
-      "artist": "Melodysheep"
-    },
-    {
-      "name": "Obliviate",
-      "url": "https://www.last.fm/music/Alexandre+Desplat/_/Obliviate",
-      "count": 4,
-      "artist": "Alexandre Desplat"
-    },
-    {
-      "name": "King of the Castle",
-      "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
-      "count": 4,
-      "artist": "Alma"
     }
   ]
 }
