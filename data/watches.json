@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "The Christmas Chronicles: Part Two",
+      "watched": "2020-12-08T06:43:20.000Z",
+      "url": "https://trakt.tv/movies/the-christmas-chronicles-part-two-2020"
+    },
+    {
       "title": "The Christmas Chronicles",
       "watched": "2020-12-06T14:48:57.000Z",
       "url": "https://trakt.tv/movies/the-christmas-chronicles-2018"
