@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "The Prom",
+      "watched": "2020-12-13T13:28:01.000Z",
+      "url": "https://trakt.tv/movies/the-prom-2020-12-02"
+    },
+    {
       "title": "The Christmas Chronicles: Part Two",
       "watched": "2020-12-08T06:43:20.000Z",
       "url": "https://trakt.tv/movies/the-christmas-chronicles-part-two-2020"
