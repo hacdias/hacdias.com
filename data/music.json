@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Dua Lipa",
-      "count": 26,
+      "count": 20,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Alma",
-      "count": 20,
+      "count": 18,
       "url": "https://www.last.fm/music/Alma"
     },
     {
@@ -17,13 +17,8 @@
     },
     {
       "name": "a.Rose",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/a.Rose"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 11,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Grimes",
@@ -31,14 +26,14 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Kim Petras",
-      "count": 8,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "name": "Miley Cyrus",
+      "count": 10,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Troye Sivan",
+      "name": "Kim Petras",
       "count": 7,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Caroline Polachek",
@@ -46,70 +41,75 @@
       "url": "https://www.last.fm/music/Caroline+Polachek"
     },
     {
-      "name": "Tove Lo",
+      "name": "Troye Sivan",
       "count": 6,
-      "url": "https://www.last.fm/music/Tove+Lo"
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
+      "name": "Britney Spears",
+      "count": 5,
+      "url": "https://www.last.fm/music/Britney+Spears"
     }
   ],
   "tracks": [
     {
       "name": "Sour Sweet Sad Eyes",
       "url": "https://www.last.fm/music/a.Rose/_/Sour+Sweet+Sad+Eyes",
-      "count": 6,
+      "count": 5,
       "artist": "a.Rose"
     },
     {
       "name": "Dance in the Dark",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Dance+in+the+Dark",
-      "count": 6,
+      "count": 5,
       "artist": "Lady Gaga"
     },
     {
       "name": "All That She Wants",
       "url": "https://www.last.fm/music/Ace+of+Base/_/All+That+She+Wants",
-      "count": 5,
+      "count": 4,
       "artist": "Ace of Base"
     },
     {
       "name": "Find Me",
       "url": "https://www.last.fm/music/Alma/_/Find+Me",
-      "count": 5,
+      "count": 4,
       "artist": "Alma"
     },
     {
       "name": "Don't Start Now",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
-      "count": 5,
+      "count": 4,
       "artist": "Dua Lipa"
     },
     {
       "name": "Future Nostalgia",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
-      "count": 5,
+      "count": 4,
       "artist": "Dua Lipa"
     },
     {
       "name": "Melodia Da Saudade - Radio Edit",
       "url": "https://www.last.fm/music/Fernando+Daniel/_/Melodia+Da+Saudade+-+Radio+Edit",
-      "count": 5,
+      "count": 4,
       "artist": "Fernando Daniel"
     },
     {
       "name": "Oh My!",
       "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
-      "count": 5,
+      "count": 4,
       "artist": "Melodysheep"
     },
     {
       "name": "Talking Body",
       "url": "https://www.last.fm/music/Tove+Lo/_/Talking+Body",
-      "count": 5,
+      "count": 4,
       "artist": "Tove Lo"
     },
     {
-      "name": "Loser",
-      "url": "https://www.last.fm/music/Alma/_/Loser",
-      "count": 4,
+      "name": "King of the Castle",
+      "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
+      "count": 3,
       "artist": "Alma"
     }
   ]
