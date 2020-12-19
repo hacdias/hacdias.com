@@ -12,13 +12,18 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 15,
+      "count": 13,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "a.Rose",
       "count": 12,
       "url": "https://www.last.fm/music/a.Rose"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 11,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Grimes",
@@ -31,9 +36,9 @@
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Kim Petras",
-      "count": 7,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "name": "Troye Sivan",
+      "count": 8,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Caroline Polachek",
@@ -41,14 +46,9 @@
       "url": "https://www.last.fm/music/Caroline+Polachek"
     },
     {
-      "name": "Troye Sivan",
-      "count": 6,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
-      "name": "Britney Spears",
+      "name": "Tove Lo",
       "count": 5,
-      "url": "https://www.last.fm/music/Britney+Spears"
+      "url": "https://www.last.fm/music/Tove+Lo"
     }
   ],
   "tracks": [
