@@ -62,3 +62,4 @@ There's much more going on with this website than you might think at first sight
 - 📦 [**Projects**](/projects/), the major projects I've worked on.
 - 🔎 [**Search**](/search/), yes, this website can be searched on!
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.
+- 💥 I maintain an [XKCD clone](http://xkcd.hacdias.com/) on the IPFS network.
