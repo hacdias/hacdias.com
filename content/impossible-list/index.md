@@ -1,7 +1,7 @@
 ---
-lastmod: 2020-09-01T00:00:00.000Z
+date: "2020-07-15T00:00:00.000Z"
+lastmod: "2020-12-19T00:00:00.000Z"
 properties: {}
-date: 2020-07-15T00:00:00.000Z
 tags: []
 title: Impossible List
 ---
@@ -37,8 +37,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 - Learn to play an instrument
 - ~~Become proficient in a second language~~ (September 2019, English C1)
-- Become fluent in English
-  - proficiency =/= fluency, need more confidence
+- ~~Become fluent in English~~
 - Become proficient and/or fluent in a third language
   - Dutch?
 - Learn a new sport

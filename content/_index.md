@@ -58,7 +58,7 @@ There's much more going on with this website than you might think at first sight
 - 🧻 [**Blogroll**](/blogroll/), a list of the blogs and people I follow.
 - 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
 - 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
-- 📌 [**Pins**](/pins/), a collection of interesting websites that I find worth sharing.
+- 📌 [**Links**](/links/), a collection of interesting websites that I find worth sharing.
 - 📦 [**Projects**](/projects/), the major projects I've worked on.
 - 🔎 [**Search**](/search/), yes, this website can be searched on!
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.
