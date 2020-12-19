@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "A California Christmas",
+      "watched": "2020-12-19T21:46:25.000Z",
+      "url": "https://trakt.tv/movies/a-california-christmas-2020"
+    },
+    {
       "title": "The Prom",
       "watched": "2020-12-13T13:28:01.000Z",
       "url": "https://trakt.tv/movies/the-prom-2020-12-02"
@@ -1768,6 +1773,11 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2020-12-19T10:12:41.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2020-12-17T11:09:27.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
@@ -1776,11 +1786,6 @@
       "title": "Selena: The Series",
       "watched": "2020-12-17T11:09:22.000Z",
       "url": "https://trakt.tv/shows/selena-the-series"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2020-12-06T08:57:35.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "The Queen's Gambit",
