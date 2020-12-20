@@ -2,23 +2,23 @@
   "artists": [
     {
       "name": "Dua Lipa",
-      "count": 20,
+      "count": 26,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Alma",
-      "count": 18,
+      "count": 20,
       "url": "https://www.last.fm/music/Alma"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 13,
-      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "a.Rose",
       "count": 12,
       "url": "https://www.last.fm/music/a.Rose"
+    },
+    {
+      "name": "Lady Gaga",
+      "count": 12,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Kim Petras",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Tove Lo",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/Tove+Lo"
     }
   ],
@@ -59,10 +59,28 @@
       "artist": "a.Rose"
     },
     {
+      "name": "Don't Start Now",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
+      "count": 5,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "Future Nostalgia",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
+      "count": 5,
+      "artist": "Dua Lipa"
+    },
+    {
       "name": "Dance in the Dark",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Dance+in+the+Dark",
       "count": 5,
       "artist": "Lady Gaga"
+    },
+    {
+      "name": "Talking Body",
+      "url": "https://www.last.fm/music/Tove+Lo/_/Talking+Body",
+      "count": 5,
+      "artist": "Tove Lo"
     },
     {
       "name": "All That She Wants",
@@ -77,40 +95,22 @@
       "artist": "Alma"
     },
     {
-      "name": "Don't Start Now",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
-      "count": 4,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Future Nostalgia",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
-      "count": 4,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Melodia Da Saudade - Radio Edit",
-      "url": "https://www.last.fm/music/Fernando+Daniel/_/Melodia+Da+Saudade+-+Radio+Edit",
-      "count": 4,
-      "artist": "Fernando Daniel"
-    },
-    {
-      "name": "Oh My!",
-      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
-      "count": 4,
-      "artist": "Melodysheep"
-    },
-    {
-      "name": "Talking Body",
-      "url": "https://www.last.fm/music/Tove+Lo/_/Talking+Body",
-      "count": 4,
-      "artist": "Tove Lo"
-    },
-    {
       "name": "King of the Castle",
       "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
-      "count": 3,
+      "count": 4,
       "artist": "Alma"
+    },
+    {
+      "name": "Fever",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
+      "count": 4,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "Hallucinate",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Hallucinate",
+      "count": 4,
+      "artist": "Dua Lipa"
     }
   ]
 }
