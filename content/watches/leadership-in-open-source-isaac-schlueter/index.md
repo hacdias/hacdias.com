@@ -1,5 +1,5 @@
 ---
-title: Leadership in Open Source - Isaac Schlueter
+title: Leadership in Open Source by Isaac Schlueter
 aliases:
   - /notes/leadership-in-open-source-isaac-schlueter/
 tags:

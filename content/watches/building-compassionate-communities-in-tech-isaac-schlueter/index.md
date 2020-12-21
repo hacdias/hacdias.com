@@ -1,5 +1,5 @@
 ---
-title: Building Compassionate Communities in Tech - Isaac Schlueter
+title: Building Compassionate Communities in Tech by Isaac Schlueter
 aliases:
   - /notes/building-compassionate-communities-in-tech-isaac-schlueter/
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Open Source - Jan Lehnardt
+title: Open Source by Jan Lehnardt
 aliases:
 - /notes/open-source-jan-lehnardt/
 tags:

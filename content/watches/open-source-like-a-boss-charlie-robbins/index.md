@@ -1,5 +1,5 @@
 ---
-title: Open Source Like a Boss - Charlie Robbins
+title: Open Source Like a Boss by Charlie Robbins
 aliases:
 - /notes/open-source-like-a-boss-charlie-robbins/
 tags:

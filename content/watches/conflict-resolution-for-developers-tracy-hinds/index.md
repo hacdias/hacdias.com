@@ -1,5 +1,5 @@
 ---
-title: Conflict Resolution for Developers - Tracy Hinds
+title: Conflict Resolution for Developers by Tracy Hinds
 aliases:
   - /notes/conflict-resolution-for-developers-tracy-hinds/
 tags:

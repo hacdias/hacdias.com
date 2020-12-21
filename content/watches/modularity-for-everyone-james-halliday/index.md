@@ -1,5 +1,5 @@
 ---
-title: Modularity for Everyone - James Halliday
+title: Modularity for Everyone by James Halliday
 aliases:
 - /notes/modularity-for-everyone-james-halliday/
 tags:

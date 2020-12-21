@@ -1,5 +1,5 @@
 ---
-title: An End to Negativity - Chris Williams
+title: An End to Negativity by Chris Williams
 aliases:
   - /notes/an-end-to-negativity-chris-williams/
 tags:
