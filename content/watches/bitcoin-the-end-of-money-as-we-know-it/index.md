@@ -1,5 +1,7 @@
 ---
 title: Bitcoin - The End of Money As We Know It
+aliases:
+  - /notes/bitcoin-the-end-of-money-as-we-know-it/
 tags:
 - movies
 - documentaries

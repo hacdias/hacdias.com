@@ -1,5 +1,7 @@
 ---
 title: The Internet's Own Boy
+aliases:
+  - /notes/the-internets-own-boy/
 tags:
 - movies
 - documentaries

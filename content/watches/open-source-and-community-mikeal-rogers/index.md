@@ -1,5 +1,7 @@
 ---
 title: Open Source and Community - Mikeal Rogers
+aliases:
+- /notes/open-source-and-community-mikeal-rogers/
 tags:
 - opensource
 - talks

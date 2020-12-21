@@ -1,5 +1,7 @@
 ---
 title: Intentionally Tiny Leaders - Adam Brault
+aliases:
+  - /notes/intentionally-tiny-leaders-adam-brault/
 tags:
 - talks
 - adam_brault

@@ -1,5 +1,7 @@
 ---
 title: Unbroken Ground
+aliases:
+  - /notes/unbroken-ground/
 tags:
 - movies
 - documentaries

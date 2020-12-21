@@ -1,5 +1,7 @@
 ---
 title: Open Source - Jan Lehnardt
+aliases:
+- /notes/open-source-jan-lehnardt/
 tags:
 - opensource
 - talks
