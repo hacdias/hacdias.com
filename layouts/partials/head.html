@@ -68,18 +68,6 @@
   <link rel="microsub" href="https://aperture.p3k.io/microsub/455" />
 {{ end }}
 
-{{ if .Params.mermaid }}
-  {{- $mermaid := resources.Get "js/vendor/mermaid.min.js" }}
-  <script defer src="{{ $mermaid.RelPermalink }}?hash={{ md5 $mermaid.Content }}"></script>
-
-  <script>
-  document.addEventListener('DOMContentLoaded', () =>{
-    mermaid.initialize({ theme: 'forest' })
-    mermaid.init('.language-mermaid')
-  })
-  </script>
-{{ end }}
-
 <!-- OpenID delegation -->
 <link rel="openid.delegate" href="https://hacdias.com/" />
 <link rel="openid.server" href="https://openid.indieauth.com/openid" />

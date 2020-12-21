@@ -27,17 +27,6 @@
       folder: 'svg',
       ext: '.svg'
     });
-
-    {{ if .Params.math }}
-    MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
-      }
-    };
-    {{ end }}
   </script>
-  {{ if .Params.math }}
-    <script async src="https://cdn.hacdias.com/mathjax/3.1.2/tex-chtml.js"></script>
-  {{ end }}
 </body>
 </html>
