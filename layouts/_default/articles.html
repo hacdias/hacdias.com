@@ -35,7 +35,9 @@
     {{- range $pages -}}
     <div class='h-entry'>
       <a class='u-url p-name no-link' href="{{ .RelPermalink }}">{{ .Title }}</a>
-      <time class='dt-published' datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      {{ if not .Date.IsZero }}
+        <time class='dt-published' datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      {{ end }}
     </div>
     {{- end -}}
   </div>

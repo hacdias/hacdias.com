@@ -1,6 +1,6 @@
 ---
 title: Notes
-layout: notes
+layout: articles
 emoji: 📓
 ---
 

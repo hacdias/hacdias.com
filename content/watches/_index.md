@@ -5,7 +5,7 @@ emoji: "\U0001F37F"
 properties: {}
 title: Watches
 type: page
-layout: notes
+layout: bullet-list
 ---
 
 <style>
