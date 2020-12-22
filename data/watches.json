@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Operation Christmas Drop",
+      "watched": "2020-12-22T21:37:02.000Z",
+      "url": "https://trakt.tv/movies/operation-christmas-drop-2020"
+    },
+    {
       "title": "A Cinderella Story: Christmas Wish",
       "watched": "2020-12-20T22:19:01.000Z",
       "url": "https://trakt.tv/movies/a-cinderella-story-christmas-wish-2019"
