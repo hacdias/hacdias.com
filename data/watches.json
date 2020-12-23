@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Christmas Wonderland",
+      "watched": "2020-12-23T22:19:51.000Z",
+      "url": "https://trakt.tv/movies/christmas-wonderland-2018"
+    },
+    {
       "title": "Operation Christmas Drop",
       "watched": "2020-12-22T21:37:02.000Z",
       "url": "https://trakt.tv/movies/operation-christmas-drop-2020"
