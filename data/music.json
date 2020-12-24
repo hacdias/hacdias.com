@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Dua Lipa",
-      "count": 22,
+      "count": 21,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
@@ -12,13 +12,8 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 15,
+      "count": 12,
       "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 11,
-      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Grimes",
@@ -26,19 +21,24 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Caroline Polachek",
+      "name": "Kim Petras",
       "count": 9,
-      "url": "https://www.last.fm/music/Caroline+Polachek"
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Miley Cyrus",
-      "count": 8,
+      "count": 7,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Troye Sivan",
-      "count": 8,
+      "count": 7,
       "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
+      "name": "Caroline Polachek",
+      "count": 6,
+      "url": "https://www.last.fm/music/Caroline+Polachek"
     },
     {
       "name": "Christine and the Queens",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Iggy Azalea",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Iggy+Azalea"
     }
   ],
@@ -55,13 +55,13 @@
     {
       "name": "Switch",
       "url": "https://www.last.fm/music/Iggy+Azalea/_/Switch",
-      "count": 6,
+      "count": 5,
       "artist": "Iggy Azalea"
     },
     {
       "name": "John Wayne",
       "url": "https://www.last.fm/music/Lady+Gaga/_/John+Wayne",
-      "count": 6,
+      "count": 5,
       "artist": "Lady Gaga"
     },
     {
@@ -75,12 +75,6 @@
       "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
       "count": 4,
       "artist": "Alma"
-    },
-    {
-      "name": "Don't Start Now",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
-      "count": 4,
-      "artist": "Dua Lipa"
     },
     {
       "name": "Fever",
@@ -111,6 +105,12 @@
       "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
       "count": 4,
       "artist": "Melodysheep"
+    },
+    {
+      "name": "King of the Castle",
+      "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
+      "count": 3,
+      "artist": "Alma"
     }
   ]
 }
