@@ -7,51 +7,57 @@
     },
     {
       "name": "Alma",
-      "count": 19,
+      "count": 14,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Lady Gaga",
-      "count": 12,
+      "count": 10,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Grimes",
-      "count": 10,
+      "count": 5,
       "url": "https://www.last.fm/music/Grimes"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 9,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 7,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Troye Sivan",
-      "count": 7,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
-      "name": "Caroline Polachek",
-      "count": 6,
-      "url": "https://www.last.fm/music/Caroline+Polachek"
-    },
-    {
-      "name": "Christine and the Queens",
-      "count": 6,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
       "name": "Iggy Azalea",
       "count": 5,
       "url": "https://www.last.fm/music/Iggy+Azalea"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 5,
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Grindr",
+      "count": 4,
+      "url": "https://www.last.fm/music/Grindr"
+    },
+    {
+      "name": "Melodysheep",
+      "count": 4,
+      "url": "https://www.last.fm/music/Melodysheep"
+    },
+    {
+      "name": "Caroline Polachek",
+      "count": 3,
+      "url": "https://www.last.fm/music/Caroline+Polachek"
+    },
+    {
+      "name": "sugarrluck",
+      "count": 3,
+      "url": "https://www.last.fm/music/sugarrluck"
     }
   ],
   "tracks": [
+    {
+      "name": "Stay All Night",
+      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
+      "count": 5,
+      "artist": "Alma"
+    },
     {
       "name": "Switch",
       "url": "https://www.last.fm/music/Iggy+Azalea/_/Switch",
@@ -67,12 +73,6 @@
     {
       "name": "Find Me",
       "url": "https://www.last.fm/music/Alma/_/Find+Me",
-      "count": 4,
-      "artist": "Alma"
-    },
-    {
-      "name": "Stay All Night",
-      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
       "count": 4,
       "artist": "Alma"
     },
@@ -107,10 +107,10 @@
       "artist": "Melodysheep"
     },
     {
-      "name": "King of the Castle",
-      "url": "https://www.last.fm/music/Alma/_/King+of+the+Castle",
+      "name": "Don't Start Now",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
       "count": 3,
-      "artist": "Alma"
+      "artist": "Dua Lipa"
     }
   ]
 }
