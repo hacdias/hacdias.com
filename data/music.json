@@ -21,19 +21,14 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Iggy Azalea",
-      "count": 5,
-      "url": "https://www.last.fm/music/Iggy+Azalea"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 5,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
       "name": "Grindr",
       "count": 4,
       "url": "https://www.last.fm/music/Grindr"
+    },
+    {
+      "name": "Iggy Azalea",
+      "count": 4,
+      "url": "https://www.last.fm/music/Iggy+Azalea"
     },
     {
       "name": "Melodysheep",
@@ -49,6 +44,11 @@
       "name": "sugarrluck",
       "count": 3,
       "url": "https://www.last.fm/music/sugarrluck"
+    },
+    {
+      "name": "Tove Lo",
+      "count": 3,
+      "url": "https://www.last.fm/music/Tove+Lo"
     }
   ],
   "tracks": [
@@ -57,18 +57,6 @@
       "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
       "count": 5,
       "artist": "Alma"
-    },
-    {
-      "name": "Switch",
-      "url": "https://www.last.fm/music/Iggy+Azalea/_/Switch",
-      "count": 5,
-      "artist": "Iggy Azalea"
-    },
-    {
-      "name": "John Wayne",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/John+Wayne",
-      "count": 5,
-      "artist": "Lady Gaga"
     },
     {
       "name": "Find Me",
@@ -95,8 +83,20 @@
       "artist": "Dua Lipa"
     },
     {
+      "name": "Switch",
+      "url": "https://www.last.fm/music/Iggy+Azalea/_/Switch",
+      "count": 4,
+      "artist": "Iggy Azalea"
+    },
+    {
       "name": "Dance in the Dark",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Dance+in+the+Dark",
+      "count": 4,
+      "artist": "Lady Gaga"
+    },
+    {
+      "name": "John Wayne",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/John+Wayne",
       "count": 4,
       "artist": "Lady Gaga"
     },
