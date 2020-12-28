@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Dua Lipa",
-      "count": 21,
+      "count": 18,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Alma",
-      "count": 13,
+      "count": 11,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Lady Gaga",
-      "count": 11,
+      "count": 9,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -26,14 +26,9 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Iggy Azalea",
-      "count": 5,
-      "url": "https://www.last.fm/music/Iggy+Azalea"
-    },
-    {
-      "name": "Melodysheep",
+      "name": "Adriana Calcanhotto",
       "count": 4,
-      "url": "https://www.last.fm/music/Melodysheep"
+      "url": "https://www.last.fm/music/Adriana+Calcanhotto"
     },
     {
       "name": "sugarrluck",
@@ -49,68 +44,73 @@
       "name": "Fernando Daniel",
       "count": 3,
       "url": "https://www.last.fm/music/Fernando+Daniel"
+    },
+    {
+      "name": "Iggy Azalea",
+      "count": 3,
+      "url": "https://www.last.fm/music/Iggy+Azalea"
     }
   ],
   "tracks": [
-    {
-      "name": "Stay All Night",
-      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
-      "count": 5,
-      "artist": "Alma"
-    },
-    {
-      "name": "Switch",
-      "url": "https://www.last.fm/music/Iggy+Azalea/_/Switch",
-      "count": 5,
-      "artist": "Iggy Azalea"
-    },
-    {
-      "name": "John Wayne",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/John+Wayne",
-      "count": 5,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "Find Me",
-      "url": "https://www.last.fm/music/Alma/_/Find+Me",
-      "count": 4,
-      "artist": "Alma"
-    },
-    {
-      "name": "Fever",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
-      "count": 4,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Hallucinate",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Hallucinate",
-      "count": 4,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Levitating",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Levitating",
-      "count": 4,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Dance in the Dark",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Dance+in+the+Dark",
-      "count": 4,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "Oh My!",
-      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
-      "count": 4,
-      "artist": "Melodysheep"
-    },
     {
       "name": "Calma",
       "url": "https://www.last.fm/music/sugarrluck/_/Calma",
       "count": 4,
       "artist": "sugarrluck"
+    },
+    {
+      "name": "Fico Assim Sem Você",
+      "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
+      "count": 3,
+      "artist": "Adriana Calcanhotto"
+    },
+    {
+      "name": "Find Me",
+      "url": "https://www.last.fm/music/Alma/_/Find+Me",
+      "count": 3,
+      "artist": "Alma"
+    },
+    {
+      "name": "Stay All Night",
+      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
+      "count": 3,
+      "artist": "Alma"
+    },
+    {
+      "name": "Don't Start Now",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
+      "count": 3,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "Fever",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
+      "count": 3,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "Future Nostalgia",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
+      "count": 3,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "Hallucinate",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Hallucinate",
+      "count": 3,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "Levitating",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Levitating",
+      "count": 3,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "Physical",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
+      "count": 3,
+      "artist": "Dua Lipa"
     }
   ]
 }
