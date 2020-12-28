@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "We Can Be Heroes",
+      "watched": "2020-12-28T10:21:13.000Z",
+      "url": "https://trakt.tv/movies/we-can-be-heroes-2020"
+    },
+    {
       "title": "My Christmas Inn",
       "watched": "2020-12-27T08:10:27.000Z",
       "url": "https://trakt.tv/movies/my-christmas-inn-2018"
@@ -1797,6 +1802,11 @@
     }
   ],
   "series": [
+    {
+      "title": "Bridgerton",
+      "watched": "2020-12-28T13:25:06.000Z",
+      "url": "https://trakt.tv/shows/bridgerton"
+    },
     {
       "title": "Big Mouth",
       "watched": "2020-12-27T10:15:33.000Z",
