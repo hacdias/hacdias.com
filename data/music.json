@@ -2,28 +2,23 @@
   "artists": [
     {
       "name": "Dua Lipa",
-      "count": 18,
+      "count": 12,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
-      "name": "Alma",
-      "count": 11,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 9,
+      "count": 6,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Grindr",
-      "count": 6,
-      "url": "https://www.last.fm/music/Grindr"
+      "name": "Alma",
+      "count": 5,
+      "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Grimes",
+      "name": "Grindr",
       "count": 5,
-      "url": "https://www.last.fm/music/Grimes"
+      "url": "https://www.last.fm/music/Grindr"
     },
     {
       "name": "Adriana Calcanhotto",
@@ -32,32 +27,31 @@
     },
     {
       "name": "sugarrluck",
-      "count": 4,
+      "count": 3,
       "url": "https://www.last.fm/music/sugarrluck"
     },
     {
-      "name": "Caroline Polachek",
-      "count": 3,
-      "url": "https://www.last.fm/music/Caroline+Polachek"
+      "name": "Coldplay",
+      "count": 2,
+      "url": "https://www.last.fm/music/Coldplay"
+    },
+    {
+      "name": "David Guetta",
+      "count": 2,
+      "url": "https://www.last.fm/music/David+Guetta"
     },
     {
       "name": "Fernando Daniel",
-      "count": 3,
+      "count": 2,
       "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
-      "name": "Iggy Azalea",
-      "count": 3,
-      "url": "https://www.last.fm/music/Iggy+Azalea"
+      "name": "Girls Aloud",
+      "count": 2,
+      "url": "https://www.last.fm/music/Girls+Aloud"
     }
   ],
   "tracks": [
-    {
-      "name": "Calma",
-      "url": "https://www.last.fm/music/sugarrluck/_/Calma",
-      "count": 4,
-      "artist": "sugarrluck"
-    },
     {
       "name": "Fico Assim Sem Você",
       "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
@@ -65,51 +59,57 @@
       "artist": "Adriana Calcanhotto"
     },
     {
+      "name": "Calma",
+      "url": "https://www.last.fm/music/sugarrluck/_/Calma",
+      "count": 3,
+      "artist": "sugarrluck"
+    },
+    {
       "name": "Find Me",
       "url": "https://www.last.fm/music/Alma/_/Find+Me",
-      "count": 3,
+      "count": 2,
       "artist": "Alma"
     },
     {
       "name": "Stay All Night",
       "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
-      "count": 3,
+      "count": 2,
       "artist": "Alma"
     },
     {
       "name": "Don't Start Now",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
-      "count": 3,
+      "count": 2,
       "artist": "Dua Lipa"
     },
     {
       "name": "Fever",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
-      "count": 3,
+      "count": 2,
       "artist": "Dua Lipa"
     },
     {
       "name": "Future Nostalgia",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
-      "count": 3,
+      "count": 2,
       "artist": "Dua Lipa"
     },
     {
       "name": "Hallucinate",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Hallucinate",
-      "count": 3,
+      "count": 2,
       "artist": "Dua Lipa"
     },
     {
       "name": "Levitating",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Levitating",
-      "count": 3,
+      "count": 2,
       "artist": "Dua Lipa"
     },
     {
       "name": "Physical",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
-      "count": 3,
+      "count": 2,
       "artist": "Dua Lipa"
     }
   ]
