@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Death to 2020",
+      "watched": "2020-12-30T09:31:34.000Z",
+      "url": "https://trakt.tv/movies/death-to-2020-2020"
+    },
+    {
       "title": "We Can Be Heroes",
       "watched": "2020-12-28T10:21:13.000Z",
       "url": "https://trakt.tv/movies/we-can-be-heroes-2020"
@@ -1802,6 +1807,11 @@
     }
   ],
   "series": [
+    {
+      "title": "The Unlisted",
+      "watched": "2020-12-30T09:32:11.000Z",
+      "url": "https://trakt.tv/shows/the-unlisted"
+    },
     {
       "title": "Bridgerton",
       "watched": "2020-12-29T21:58:12.000Z",
