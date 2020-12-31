@@ -7,38 +7,38 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Alma",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Grindr",
-      "count": 5,
-      "url": "https://www.last.fm/music/Grindr"
-    },
-    {
       "name": "Adriana Calcanhotto",
-      "count": 4,
+      "count": 5,
       "url": "https://www.last.fm/music/Adriana+Calcanhotto"
     },
     {
+      "name": "Grindr",
+      "count": 4,
+      "url": "https://www.last.fm/music/Grindr"
+    },
+    {
       "name": "sugarrluck",
-      "count": 3,
+      "count": 4,
       "url": "https://www.last.fm/music/sugarrluck"
+    },
+    {
+      "name": "David Guetta",
+      "count": 3,
+      "url": "https://www.last.fm/music/David+Guetta"
     },
     {
       "name": "Coldplay",
       "count": 2,
       "url": "https://www.last.fm/music/Coldplay"
-    },
-    {
-      "name": "David Guetta",
-      "count": 2,
-      "url": "https://www.last.fm/music/David+Guetta"
     },
     {
       "name": "Fernando Daniel",
@@ -55,13 +55,13 @@
     {
       "name": "Fico Assim Sem Você",
       "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
-      "count": 3,
+      "count": 4,
       "artist": "Adriana Calcanhotto"
     },
     {
       "name": "Calma",
       "url": "https://www.last.fm/music/sugarrluck/_/Calma",
-      "count": 3,
+      "count": 4,
       "artist": "sugarrluck"
     },
     {
