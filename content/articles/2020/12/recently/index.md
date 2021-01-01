@@ -3,8 +3,6 @@ date: 2020-12-01T08:20:00.000+01:00
 title: Recently
 description: >
   A small update.
-aliases:
-  - /now/
 tags:
   - recently
 ---
