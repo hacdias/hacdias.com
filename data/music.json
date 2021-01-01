@@ -2,18 +2,8 @@
   "artists": [
     {
       "name": "Dua Lipa",
-      "count": 12,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 7,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Alma",
       "count": 6,
-      "url": "https://www.last.fm/music/Alma"
+      "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Adriana Calcanhotto",
@@ -21,14 +11,14 @@
       "url": "https://www.last.fm/music/Adriana+Calcanhotto"
     },
     {
-      "name": "Grindr",
-      "count": 4,
-      "url": "https://www.last.fm/music/Grindr"
+      "name": "Lady Gaga",
+      "count": 5,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "sugarrluck",
+      "name": "Alma",
       "count": 4,
-      "url": "https://www.last.fm/music/sugarrluck"
+      "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "David Guetta",
@@ -36,19 +26,29 @@
       "url": "https://www.last.fm/music/David+Guetta"
     },
     {
+      "name": "sugarrluck",
+      "count": 3,
+      "url": "https://www.last.fm/music/sugarrluck"
+    },
+    {
       "name": "Coldplay",
       "count": 2,
       "url": "https://www.last.fm/music/Coldplay"
     },
     {
-      "name": "Fernando Daniel",
-      "count": 2,
-      "url": "https://www.last.fm/music/Fernando+Daniel"
-    },
-    {
       "name": "Girls Aloud",
       "count": 2,
       "url": "https://www.last.fm/music/Girls+Aloud"
+    },
+    {
+      "name": "Grindr",
+      "count": 2,
+      "url": "https://www.last.fm/music/Grindr"
+    },
+    {
+      "name": "Imagine Dragons",
+      "count": 2,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
     }
   ],
   "tracks": [
@@ -61,56 +61,56 @@
     {
       "name": "Calma",
       "url": "https://www.last.fm/music/sugarrluck/_/Calma",
-      "count": 4,
+      "count": 3,
       "artist": "sugarrluck"
+    },
+    {
+      "name": "Hey Now You're an Allstar",
+      "url": "https://www.last.fm/music/John+Counter/_/Hey+Now+You%27re+an+Allstar",
+      "count": 2,
+      "artist": "John Counter"
+    },
+    {
+      "name": "Desta Vez Eu Não Te Vou Perdoar",
+      "url": "https://www.last.fm/music/4Taste/_/Desta+Vez+Eu+N%C3%A3o+Te+Vou+Perdoar",
+      "count": 1,
+      "artist": "4Taste"
+    },
+    {
+      "name": "Set Fire to the Rain",
+      "url": "https://www.last.fm/music/Adele/_/Set+Fire+to+the+Rain",
+      "count": 1,
+      "artist": "Adele"
+    },
+    {
+      "name": "Gatinha Manhosa",
+      "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Gatinha+Manhosa",
+      "count": 1,
+      "artist": "Adriana Calcanhotto"
+    },
+    {
+      "name": "Girl on Fire",
+      "url": "https://www.last.fm/music/Alicia+Keys/_/Girl+on+Fire",
+      "count": 1,
+      "artist": "Alicia Keys"
+    },
+    {
+      "name": "Girl of the Year",
+      "url": "https://www.last.fm/music/Allie+X/_/Girl+of+the+Year",
+      "count": 1,
+      "artist": "Allie X"
     },
     {
       "name": "Find Me",
       "url": "https://www.last.fm/music/Alma/_/Find+Me",
-      "count": 2,
+      "count": 1,
       "artist": "Alma"
     },
     {
-      "name": "Stay All Night",
-      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
-      "count": 2,
+      "name": "Good Vibes",
+      "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
+      "count": 1,
       "artist": "Alma"
-    },
-    {
-      "name": "Don't Start Now",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
-      "count": 2,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Fever",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
-      "count": 2,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Future Nostalgia",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
-      "count": 2,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Hallucinate",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Hallucinate",
-      "count": 2,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Levitating",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Levitating",
-      "count": 2,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Physical",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
-      "count": 2,
-      "artist": "Dua Lipa"
     }
   ]
 }
