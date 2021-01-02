@@ -1808,8 +1808,23 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2021-01-02T15:57:00.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-01-02T15:56:44.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
+      "title": "Locke & Key",
+      "watched": "2021-01-02T11:53:17.000Z",
+      "url": "https://trakt.tv/shows/locke-key"
+    },
+    {
       "title": "The Unlisted",
-      "watched": "2020-12-30T09:32:11.000Z",
+      "watched": "2021-01-02T08:39:47.000Z",
       "url": "https://trakt.tv/shows/the-unlisted"
     },
     {
@@ -1948,19 +1963,9 @@
       "url": "https://trakt.tv/shows/champions"
     },
     {
-      "title": "RuPaul's Drag Race",
-      "watched": "2020-05-30T08:45:38.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
       "title": "Control Z",
       "watched": "2020-05-28T16:29:15.000Z",
       "url": "https://trakt.tv/shows/control-z"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2020-05-16T10:15:57.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
     },
     {
       "title": "How to Get Away with Murder",
