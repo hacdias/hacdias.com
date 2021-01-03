@@ -1,24 +1,9 @@
 {
   "artists": [
     {
-      "name": "Dua Lipa",
-      "count": 6,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
       "name": "Adriana Calcanhotto",
-      "count": 5,
+      "count": 3,
       "url": "https://www.last.fm/music/Adriana+Calcanhotto"
-    },
-    {
-      "name": "Alma",
-      "count": 5,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 4,
-      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "David Guetta",
@@ -31,55 +16,52 @@
       "url": "https://www.last.fm/music/RuPaul"
     },
     {
+      "name": "Alma",
+      "count": 2,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Imagine Dragons",
+      "count": 2,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
+    },
+    {
+      "name": "Lady Gaga",
+      "count": 2,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Maroon 5",
+      "count": 2,
+      "url": "https://www.last.fm/music/Maroon+5"
+    },
+    {
       "name": "Sia",
-      "count": 3,
+      "count": 2,
       "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "sugarrluck",
-      "count": 3,
-      "url": "https://www.last.fm/music/sugarrluck"
+      "name": "The Weeknd",
+      "count": 2,
+      "url": "https://www.last.fm/music/The+Weeknd"
     },
     {
-      "name": "Coldplay",
+      "name": "Tribalistas",
       "count": 2,
-      "url": "https://www.last.fm/music/Coldplay"
-    },
-    {
-      "name": "Girls Aloud",
-      "count": 2,
-      "url": "https://www.last.fm/music/Girls+Aloud"
+      "url": "https://www.last.fm/music/Tribalistas"
     }
   ],
   "tracks": [
     {
       "name": "Fico Assim Sem Você",
       "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
-      "count": 4,
-      "artist": "Adriana Calcanhotto"
-    },
-    {
-      "name": "Calma",
-      "url": "https://www.last.fm/music/sugarrluck/_/Calma",
       "count": 3,
-      "artist": "sugarrluck"
-    },
-    {
-      "name": "Stay All Night",
-      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
-      "count": 2,
-      "artist": "Alma"
-    },
-    {
-      "name": "Hey Now You're an Allstar",
-      "url": "https://www.last.fm/music/John+Counter/_/Hey+Now+You%27re+an+Allstar",
-      "count": 2,
-      "artist": "John Counter"
+      "artist": "Adriana Calcanhotto"
     },
     {
       "name": "I'm a Winner, Baby",
       "url": "https://www.last.fm/music/RuPaul/_/I%27m+a+Winner,+Baby",
-      "count": 2,
+      "count": 3,
       "artist": "RuPaul"
     },
     {
@@ -89,28 +71,46 @@
       "artist": "Tribalistas"
     },
     {
-      "name": "Desta Vez Eu Não Te Vou Perdoar",
-      "url": "https://www.last.fm/music/4Taste/_/Desta+Vez+Eu+N%C3%A3o+Te+Vou+Perdoar",
-      "count": 1,
-      "artist": "4Taste"
-    },
-    {
       "name": "Set Fire to the Rain",
       "url": "https://www.last.fm/music/Adele/_/Set+Fire+to+the+Rain",
       "count": 1,
       "artist": "Adele"
     },
     {
-      "name": "Gatinha Manhosa",
-      "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Gatinha+Manhosa",
-      "count": 1,
-      "artist": "Adriana Calcanhotto"
-    },
-    {
       "name": "Statues",
       "url": "https://www.last.fm/music/Alexandre+Desplat/_/Statues",
       "count": 1,
       "artist": "Alexandre Desplat"
+    },
+    {
+      "name": "Good Vibes",
+      "url": "https://www.last.fm/music/Alma/_/Good+Vibes",
+      "count": 1,
+      "artist": "Alma"
+    },
+    {
+      "name": "Stay All Night",
+      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
+      "count": 1,
+      "artist": "Alma"
+    },
+    {
+      "name": "On a Roll",
+      "url": "https://www.last.fm/music/Ashley+O/_/On+a+Roll",
+      "count": 1,
+      "artist": "Ashley O"
+    },
+    {
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://www.last.fm/music/Belinda+Carlisle/_/Heaven+Is+a+Place+on+Earth",
+      "count": 1,
+      "artist": "Belinda Carlisle"
+    },
+    {
+      "name": "Call Me",
+      "url": "https://www.last.fm/music/Blondie/_/Call+Me",
+      "count": 1,
+      "artist": "Blondie"
     }
   ]
 }
