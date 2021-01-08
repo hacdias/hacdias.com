@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Soul",
+      "watched": "2021-01-05T20:43:28.000Z",
+      "url": "https://trakt.tv/movies/soul-2020"
+    },
+    {
       "title": "Death to 2020",
       "watched": "2020-12-30T09:31:34.000Z",
       "url": "https://trakt.tv/movies/death-to-2020-2020"
