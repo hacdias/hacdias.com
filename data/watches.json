@@ -1813,19 +1813,19 @@
   ],
   "series": [
     {
-      "title": "Greenhouse Academy",
-      "watched": "2021-01-08T22:17:01.000Z",
-      "url": "https://trakt.tv/shows/greenhouse-academy"
-    },
-    {
       "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2021-01-02T15:57:00.000Z",
+      "watched": "2021-01-09T19:29:43.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
     },
     {
       "title": "RuPaul's Drag Race",
-      "watched": "2021-01-02T15:56:44.000Z",
+      "watched": "2021-01-09T19:29:36.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
+      "title": "Greenhouse Academy",
+      "watched": "2021-01-08T22:17:01.000Z",
+      "url": "https://trakt.tv/shows/greenhouse-academy"
     },
     {
       "title": "Locke & Key",
