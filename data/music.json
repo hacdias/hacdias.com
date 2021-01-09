@@ -21,19 +21,14 @@
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Sia",
+      "name": "Grimes",
       "count": 5,
-      "url": "https://www.last.fm/music/Sia"
+      "url": "https://www.last.fm/music/Grimes"
     },
     {
       "name": "Adriana Calcanhotto",
       "count": 4,
       "url": "https://www.last.fm/music/Adriana+Calcanhotto"
-    },
-    {
-      "name": "Grimes",
-      "count": 4,
-      "url": "https://www.last.fm/music/Grimes"
     },
     {
       "name": "Kandi",
@@ -49,6 +44,11 @@
       "name": "Little Mix",
       "count": 4,
       "url": "https://www.last.fm/music/Little+Mix"
+    },
+    {
+      "name": "Sia",
+      "count": 4,
+      "url": "https://www.last.fm/music/Sia"
     }
   ],
   "tracks": [
@@ -77,6 +77,12 @@
       "artist": "Allie X"
     },
     {
+      "name": "IDORU",
+      "url": "https://www.last.fm/music/Grimes/_/IDORU",
+      "count": 5,
+      "artist": "Grimes"
+    },
+    {
       "name": "Angels Like You",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Angels+Like+You",
       "count": 5,
@@ -87,12 +93,6 @@
       "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
       "count": 4,
       "artist": "Adriana Calcanhotto"
-    },
-    {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 4,
-      "artist": "Grimes"
     },
     {
       "name": "Used To Love Me",
