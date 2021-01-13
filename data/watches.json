@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-01-13T14:55:23.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Greenhouse Academy",
       "watched": "2021-01-11T09:26:17.000Z",
       "url": "https://trakt.tv/shows/greenhouse-academy"
@@ -1866,11 +1871,6 @@
       "title": "The Queen's Gambit",
       "watched": "2020-12-05T22:50:29.000Z",
       "url": "https://trakt.tv/shows/the-queen-s-gambit"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2020-12-02T20:26:43.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "The Haunting of Hill House",
