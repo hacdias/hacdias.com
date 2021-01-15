@@ -16,14 +16,14 @@
       "url": "https://www.last.fm/music/Nathan+Kawanishi"
     },
     {
-      "name": "Allie X",
-      "count": 6,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
       "name": "Guustavv",
       "count": 6,
       "url": "https://www.last.fm/music/Guustavv"
+    },
+    {
+      "name": "Allie X",
+      "count": 5,
+      "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Lady Gaga",
@@ -46,29 +46,17 @@
       "url": "https://www.last.fm/music/goosetaf"
     },
     {
-      "name": "MØ",
+      "name": "Sia",
       "count": 4,
-      "url": "https://www.last.fm/music/M%C3%98"
+      "url": "https://www.last.fm/music/Sia"
     }
   ],
   "tracks": [
     {
       "name": "Madame X",
       "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
-      "count": 4,
-      "artist": "Allie X"
-    },
-    {
-      "name": "On & On - Mixed",
-      "url": "https://www.last.fm/music/M%C3%98/_/On+&+On+-+Mixed",
-      "count": 4,
-      "artist": "MØ"
-    },
-    {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
       "count": 3,
-      "artist": "Grimes"
+      "artist": "Allie X"
     },
     {
       "name": "Crooked Teeth",
@@ -109,6 +97,18 @@
     {
       "name": "Flower Garden",
       "url": "https://www.last.fm/music/Bli/_/Flower+Garden",
+      "count": 2,
+      "artist": "Bli"
+    },
+    {
+      "name": "Hammock",
+      "url": "https://www.last.fm/music/Bli/_/Hammock",
+      "count": 2,
+      "artist": "Bli"
+    },
+    {
+      "name": "Hitherto",
+      "url": "https://www.last.fm/music/Bli/_/Hitherto",
       "count": 2,
       "artist": "Bli"
     }
