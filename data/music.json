@@ -59,6 +59,12 @@
       "artist": "Allie X"
     },
     {
+      "name": "Le Rêve d'une note",
+      "url": "https://www.last.fm/music/RIOPY/_/Le+R%C3%AAve+d%27une+note",
+      "count": 3,
+      "artist": "RIOPY"
+    },
+    {
       "name": "Crooked Teeth",
       "url": "https://www.last.fm/music/.anxious./_/Crooked+Teeth",
       "count": 2,
@@ -103,12 +109,6 @@
     {
       "name": "Hammock",
       "url": "https://www.last.fm/music/Bli/_/Hammock",
-      "count": 2,
-      "artist": "Bli"
-    },
-    {
-      "name": "Hitherto",
-      "url": "https://www.last.fm/music/Bli/_/Hitherto",
       "count": 2,
       "artist": "Bli"
     }
