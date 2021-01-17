@@ -21,19 +21,9 @@
       "url": "https://www.last.fm/music/Guustavv"
     },
     {
-      "name": "Allie X",
-      "count": 5,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
       "name": "Lady Gaga",
       "count": 5,
       "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "RuPaul",
-      "count": 5,
-      "url": "https://www.last.fm/music/RuPaul"
     },
     {
       "name": "Alec Benjamin",
@@ -41,23 +31,27 @@
       "url": "https://www.last.fm/music/Alec+Benjamin"
     },
     {
+      "name": "Allie X",
+      "count": 4,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
       "name": "goosetaf",
       "count": 4,
       "url": "https://www.last.fm/music/goosetaf"
     },
     {
-      "name": "Sia",
+      "name": "RuPaul",
       "count": 4,
-      "url": "https://www.last.fm/music/Sia"
+      "url": "https://www.last.fm/music/RuPaul"
+    },
+    {
+      "name": "Dusty Decks",
+      "count": 3,
+      "url": "https://www.last.fm/music/Dusty+Decks"
     }
   ],
   "tracks": [
-    {
-      "name": "Madame X",
-      "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
-      "count": 3,
-      "artist": "Allie X"
-    },
     {
       "name": "Le Rêve d'une note",
       "url": "https://www.last.fm/music/RIOPY/_/Le+R%C3%AAve+d%27une+note",
@@ -75,6 +69,12 @@
       "url": "https://www.last.fm/music/Alec+Benjamin/_/Let+Me+Down+Slowly",
       "count": 2,
       "artist": "Alec Benjamin"
+    },
+    {
+      "name": "Madame X",
+      "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
+      "count": 2,
+      "artist": "Allie X"
     },
     {
       "name": "Awry",
