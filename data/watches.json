@@ -1813,6 +1813,16 @@
   ],
   "series": [
     {
+      "title": "Good Witch",
+      "watched": "2021-01-18T21:00:11.000Z",
+      "url": "https://trakt.tv/shows/good-witch"
+    },
+    {
+      "title": "Alice in Borderland",
+      "watched": "2021-01-18T11:02:53.000Z",
+      "url": "https://trakt.tv/shows/alice-in-borderland-2020-170654"
+    },
+    {
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2021-01-16T08:37:25.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
