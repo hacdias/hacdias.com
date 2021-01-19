@@ -2,23 +2,23 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 9,
+      "count": 10,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Amor Electro",
-      "count": 4,
+      "count": 5,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
-      "name": "goosetaf",
+      "name": "Carolina Deslandes",
       "count": 4,
-      "url": "https://www.last.fm/music/goosetaf"
+      "url": "https://www.last.fm/music/Carolina+Deslandes"
     },
     {
-      "name": "Allie X",
+      "name": "Fernando Daniel",
       "count": 3,
-      "url": "https://www.last.fm/music/Allie+X"
+      "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
       "name": "Lady Gaga",
@@ -26,9 +26,9 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Nathan Kawanishi",
+      "name": "Mariza",
       "count": 3,
-      "url": "https://www.last.fm/music/Nathan+Kawanishi"
+      "url": "https://www.last.fm/music/Mariza"
     },
     {
       "name": "RIOPY",
@@ -36,19 +36,19 @@
       "url": "https://www.last.fm/music/RIOPY"
     },
     {
-      "name": ".anxious.",
-      "count": 2,
-      "url": "https://www.last.fm/music/.anxious."
+      "name": "The Gift",
+      "count": 3,
+      "url": "https://www.last.fm/music/The+Gift"
     },
     {
-      "name": "Blair St. Clair",
+      "name": "Allie X",
       "count": 2,
-      "url": "https://www.last.fm/music/Blair+St.+Clair"
+      "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Dusty Decks",
+      "name": "João Pedro Pais",
       "count": 2,
-      "url": "https://www.last.fm/music/Dusty+Decks"
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     }
   ],
   "tracks": [
@@ -59,22 +59,22 @@
       "artist": "RIOPY"
     },
     {
-      "name": "Crooked Teeth",
-      "url": "https://www.last.fm/music/.anxious./_/Crooked+Teeth",
+      "name": "A Máquina (Acordou)",
+      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
       "count": 2,
-      "artist": ".anxious."
+      "artist": "Amor Electro"
     },
     {
-      "name": "Madame X",
-      "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
+      "name": "Quem Me Dera",
+      "url": "https://www.last.fm/music/Mariza/_/Quem+Me+Dera",
       "count": 2,
-      "artist": "Allie X"
+      "artist": "Mariza"
     },
     {
-      "name": "Disque Magique",
-      "url": "https://www.last.fm/music/Dusty+Decks/_/Disque+Magique",
+      "name": "Golden G String",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Golden+G+String",
       "count": 2,
-      "artist": "Dusty Decks"
+      "artist": "Miley Cyrus"
     },
     {
       "name": "Heart of Glass (Live from the iHeart Festival)",
@@ -83,16 +83,22 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "Rained In",
-      "url": "https://www.last.fm/music/Nathan+Kawanishi/_/Rained+In",
+      "name": "quilted hills",
+      "url": "https://www.last.fm/music/Ocha/_/quilted+hills",
       "count": 2,
-      "artist": "Nathan Kawanishi"
+      "artist": "Ocha"
     },
     {
-      "name": "Someday",
-      "url": "https://www.last.fm/music/%C3%96nigirisu/_/Someday",
-      "count": 2,
-      "artist": "Önigirisu"
+      "name": "Crooked Teeth",
+      "url": "https://www.last.fm/music/.anxious./_/Crooked+Teeth",
+      "count": 1,
+      "artist": ".anxious."
+    },
+    {
+      "name": "Diz-me que sim",
+      "url": "https://www.last.fm/music/4Taste/_/Diz-me+que+sim",
+      "count": 1,
+      "artist": "4Taste"
     },
     {
       "name": "Balada de Despedida da Academia de Lisboa 2017/18",
@@ -105,12 +111,6 @@
       "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
       "count": 1,
       "artist": "Adelaide Ferreira"
-    },
-    {
-      "name": "Smear",
-      "url": "https://www.last.fm/music/Alan+Peach/_/Smear",
-      "count": 1,
-      "artist": "Alan Peach"
     }
   ]
 }
