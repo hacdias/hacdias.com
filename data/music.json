@@ -7,8 +7,13 @@
     },
     {
       "name": "Amor Electro",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/Amor+Electro"
+    },
+    {
+      "name": "Mariza",
+      "count": 5,
+      "url": "https://www.last.fm/music/Mariza"
     },
     {
       "name": "Carolina Deslandes",
@@ -17,18 +22,18 @@
     },
     {
       "name": "Fernando Daniel",
-      "count": 3,
+      "count": 4,
       "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
       "name": "Lady Gaga",
-      "count": 3,
+      "count": 4,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Mariza",
-      "count": 3,
-      "url": "https://www.last.fm/music/Mariza"
+      "name": "The Gift",
+      "count": 4,
+      "url": "https://www.last.fm/music/The+Gift"
     },
     {
       "name": "RIOPY",
@@ -36,22 +41,23 @@
       "url": "https://www.last.fm/music/RIOPY"
     },
     {
-      "name": "The Gift",
-      "count": 3,
-      "url": "https://www.last.fm/music/The+Gift"
-    },
-    {
-      "name": "Allie X",
-      "count": 2,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
       "name": "João Pedro Pais",
       "count": 2,
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
+    },
+    {
+      "name": "Ornatos Violeta",
+      "count": 2,
+      "url": "https://www.last.fm/music/Ornatos+Violeta"
     }
   ],
   "tracks": [
+    {
+      "name": "Quem Me Dera",
+      "url": "https://www.last.fm/music/Mariza/_/Quem+Me+Dera",
+      "count": 3,
+      "artist": "Mariza"
+    },
     {
       "name": "Le Rêve d'une note",
       "url": "https://www.last.fm/music/RIOPY/_/Le+R%C3%AAve+d%27une+note",
@@ -65,8 +71,20 @@
       "artist": "Amor Electro"
     },
     {
-      "name": "Quem Me Dera",
-      "url": "https://www.last.fm/music/Mariza/_/Quem+Me+Dera",
+      "name": "Miúda do café",
+      "url": "https://www.last.fm/music/Amor+Electro/_/Mi%C3%BAda+do+caf%C3%A9",
+      "count": 2,
+      "artist": "Amor Electro"
+    },
+    {
+      "name": "Melodia Da Saudade - Radio Edit",
+      "url": "https://www.last.fm/music/Fernando+Daniel/_/Melodia+Da+Saudade+-+Radio+Edit",
+      "count": 2,
+      "artist": "Fernando Daniel"
+    },
+    {
+      "name": "Melhor de Mim",
+      "url": "https://www.last.fm/music/Mariza/_/Melhor+de+Mim",
       "count": 2,
       "artist": "Mariza"
     },
@@ -83,34 +101,16 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "quilted hills",
-      "url": "https://www.last.fm/music/Ocha/_/quilted+hills",
+      "name": "Ouvi Dizer",
+      "url": "https://www.last.fm/music/Ornatos+Violeta/_/Ouvi+Dizer",
       "count": 2,
-      "artist": "Ocha"
+      "artist": "Ornatos Violeta"
     },
     {
-      "name": "Crooked Teeth",
-      "url": "https://www.last.fm/music/.anxious./_/Crooked+Teeth",
-      "count": 1,
-      "artist": ".anxious."
-    },
-    {
-      "name": "Diz-me que sim",
-      "url": "https://www.last.fm/music/4Taste/_/Diz-me+que+sim",
-      "count": 1,
-      "artist": "4Taste"
-    },
-    {
-      "name": "Balada de Despedida da Academia de Lisboa 2017/18",
-      "url": "https://www.last.fm/music/Ad+Lucem+Grupo+de+Fado+da+Academia+de+Lisboa/_/Balada+de+Despedida+da+Academia+de+Lisboa+2017%2F18",
-      "count": 1,
-      "artist": "Ad Lucem Grupo de Fado da Academia de Lisboa"
-    },
-    {
-      "name": "Papel Principal",
-      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
-      "count": 1,
-      "artist": "Adelaide Ferreira"
+      "name": "Amélia dos Olhos Doces (with Orquestra do Norte)",
+      "url": "https://www.last.fm/music/Tuna+Universit%C3%A1ria+do+Instituto+Superior+T%C3%A9cnico/_/Am%C3%A9lia+dos+Olhos+Doces+(with+Orquestra+do+Norte)",
+      "count": 2,
+      "artist": "Tuna Universitária do Instituto Superior Técnico"
     }
   ]
 }
