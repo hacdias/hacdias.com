@@ -1,11 +1,6 @@
 {
   "artists": [
     {
-      "name": "Miley Cyrus",
-      "count": 10,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
       "name": "Amor Electro",
       "count": 6,
       "url": "https://www.last.fm/music/Amor+Electro"
@@ -14,6 +9,11 @@
       "name": "Mariza",
       "count": 5,
       "url": "https://www.last.fm/music/Mariza"
+    },
+    {
+      "name": "Wun Two",
+      "count": 5,
+      "url": "https://www.last.fm/music/Wun+Two"
     },
     {
       "name": "Carolina Deslandes",
@@ -26,9 +26,9 @@
       "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
-      "name": "Lady Gaga",
+      "name": "Sarah, the Illstrumentalist",
       "count": 4,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "url": "https://www.last.fm/music/Sarah,+the+Illstrumentalist"
     },
     {
       "name": "The Gift",
@@ -36,19 +36,19 @@
       "url": "https://www.last.fm/music/The+Gift"
     },
     {
+      "name": "jobii",
+      "count": 3,
+      "url": "https://www.last.fm/music/jobii"
+    },
+    {
+      "name": "Nathan Kawanishi",
+      "count": 3,
+      "url": "https://www.last.fm/music/Nathan+Kawanishi"
+    },
+    {
       "name": "RIOPY",
       "count": 3,
       "url": "https://www.last.fm/music/RIOPY"
-    },
-    {
-      "name": "João Pedro Pais",
-      "count": 2,
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
-    },
-    {
-      "name": "Ornatos Violeta",
-      "count": 2,
-      "url": "https://www.last.fm/music/Ornatos+Violeta"
     }
   ],
   "tracks": [
@@ -89,22 +89,22 @@
       "artist": "Mariza"
     },
     {
-      "name": "Golden G String",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Golden+G+String",
+      "name": "1am in nyc",
+      "url": "https://www.last.fm/music/Oh,+the+Joy./_/1am+in+nyc",
       "count": 2,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Heart of Glass (Live from the iHeart Festival)",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Live+from+the+iHeart+Festival)",
-      "count": 2,
-      "artist": "Miley Cyrus"
+      "artist": "Oh, the Joy."
     },
     {
       "name": "Ouvi Dizer",
       "url": "https://www.last.fm/music/Ornatos+Violeta/_/Ouvi+Dizer",
       "count": 2,
       "artist": "Ornatos Violeta"
+    },
+    {
+      "name": "Morphine Dreams",
+      "url": "https://www.last.fm/music/Peter+Kind/_/Morphine+Dreams",
+      "count": 2,
+      "artist": "Peter Kind"
     },
     {
       "name": "Amélia dos Olhos Doces (with Orquestra do Norte)",
