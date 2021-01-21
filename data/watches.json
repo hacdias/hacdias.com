@@ -1813,14 +1813,14 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-01-21T16:49:43.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Good Witch",
       "watched": "2021-01-20T06:08:45.000Z",
       "url": "https://trakt.tv/shows/good-witch"
-    },
-    {
-      "title": "Alice in Borderland",
-      "watched": "2021-01-18T11:02:53.000Z",
-      "url": "https://trakt.tv/shows/alice-in-borderland-2020-170654"
     },
     {
       "title": "RuPaul's Drag Race: Untucked!",
@@ -1836,11 +1836,6 @@
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-01-14T20:32:33.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-01-13T14:55:23.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Greenhouse Academy",
