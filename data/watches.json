@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2021-01-23T21:12:29.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2021-01-23T06:55:40.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
@@ -1831,11 +1836,6 @@
       "title": "Good Witch",
       "watched": "2021-01-20T06:08:45.000Z",
       "url": "https://trakt.tv/shows/good-witch"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2021-01-16T08:37:25.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
     },
     {
       "title": "RuPaul's Drag Race",
