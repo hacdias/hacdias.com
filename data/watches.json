@@ -1813,6 +1813,16 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2021-01-23T06:55:40.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "RuPaul's Drag Race UK",
+      "watched": "2021-01-22T20:38:38.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2021-01-21T16:49:43.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
@@ -1831,11 +1841,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2021-01-16T08:36:16.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "RuPaul's Drag Race UK",
-      "watched": "2021-01-14T20:32:33.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
       "title": "Greenhouse Academy",
@@ -1861,11 +1866,6 @@
       "title": "Big Mouth",
       "watched": "2020-12-27T10:15:33.000Z",
       "url": "https://trakt.tv/shows/big-mouth"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2020-12-19T10:12:41.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
