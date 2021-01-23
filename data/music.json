@@ -11,6 +11,11 @@
       "url": "https://www.last.fm/music/Sarah,+the+Illstrumentalist"
     },
     {
+      "name": "Bli",
+      "count": 8,
+      "url": "https://www.last.fm/music/Bli"
+    },
+    {
       "name": "Guustavv",
       "count": 7,
       "url": "https://www.last.fm/music/Guustavv"
@@ -29,11 +34,6 @@
       "name": "Ocha",
       "count": 6,
       "url": "https://www.last.fm/music/Ocha"
-    },
-    {
-      "name": "Bli",
-      "count": 5,
-      "url": "https://www.last.fm/music/Bli"
     },
     {
       "name": "Fernando Daniel",
