@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Winx Club: The Secret of the Lost Kingdom",
+      "watched": "2021-01-24T11:47:23.000Z",
+      "url": "https://trakt.tv/movies/winx-club-the-secret-of-the-lost-kingdom-2007"
+    },
+    {
       "title": "Soul",
       "watched": "2021-01-05T20:43:28.000Z",
       "url": "https://trakt.tv/movies/soul-2020"
@@ -1696,11 +1701,6 @@
       "url": "https://trakt.tv/movies/the-secret-of-nimh-1982"
     },
     {
-      "title": "Winx Club: The Secret of the Lost Kingdom",
-      "watched": "2007-11-29T00:00:00.000Z",
-      "url": "https://trakt.tv/movies/winx-club-the-secret-of-the-lost-kingdom-2007"
-    },
-    {
       "title": "Shrek the Halls",
       "watched": "2007-11-28T00:00:00.000Z",
       "url": "https://trakt.tv/movies/shrek-the-halls-2007"
@@ -1813,6 +1813,16 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-01-24T07:59:08.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
+      "title": "Fate: The Winx Saga",
+      "watched": "2021-01-24T07:58:49.000Z",
+      "url": "https://trakt.tv/shows/fate-the-winx-saga"
+    },
+    {
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2021-01-23T21:12:29.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
@@ -1836,11 +1846,6 @@
       "title": "Good Witch",
       "watched": "2021-01-20T06:08:45.000Z",
       "url": "https://trakt.tv/shows/good-witch"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-01-16T08:36:16.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "Greenhouse Academy",
