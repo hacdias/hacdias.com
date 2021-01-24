@@ -19,7 +19,7 @@ title: hacdias.com
   <a class="u-key" href="/pubkey.txt">public PGP key</a>
 </div>
 
-Hi! 👋 I'm from Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in an united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
+Hi! 👋 I'm from Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
 
 ## 🗞 Newsletter
 
