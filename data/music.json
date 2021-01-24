@@ -16,19 +16,14 @@
       "url": "https://www.last.fm/music/Bli"
     },
     {
+      "name": "Eevee",
+      "count": 7,
+      "url": "https://www.last.fm/music/Eevee"
+    },
+    {
       "name": "Guustavv",
       "count": 7,
       "url": "https://www.last.fm/music/Guustavv"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 6,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Eevee",
-      "count": 6,
-      "url": "https://www.last.fm/music/Eevee"
     },
     {
       "name": "Ocha",
@@ -46,6 +41,11 @@
       "url": "https://www.last.fm/music/iamalex"
     },
     {
+      "name": "jazzinuf",
+      "count": 5,
+      "url": "https://www.last.fm/music/jazzinuf"
+    },
+    {
       "name": "Mariza",
       "count": 5,
       "url": "https://www.last.fm/music/Mariza"
@@ -55,8 +55,14 @@
     {
       "name": "where you want to go?",
       "url": "https://www.last.fm/music/Eevee/_/where+you+want+to+go%3F",
-      "count": 4,
+      "count": 5,
       "artist": "Eevee"
+    },
+    {
+      "name": "Soul Mates",
+      "url": "https://www.last.fm/music/jazzinuf/_/Soul+Mates",
+      "count": 5,
+      "artist": "jazzinuf"
     },
     {
       "name": "Forest Canopy",
@@ -65,10 +71,22 @@
       "artist": "iamalex"
     },
     {
-      "name": "Soul Mates",
-      "url": "https://www.last.fm/music/jazzinuf/_/Soul+Mates",
+      "name": "Painting My Thoughts",
+      "url": "https://www.last.fm/music/Obie+Hans/_/Painting+My+Thoughts",
       "count": 4,
-      "artist": "jazzinuf"
+      "artist": "Obie Hans"
+    },
+    {
+      "name": "Lemon Sour in Shinjuku",
+      "url": "https://www.last.fm/music/taiyo+ky/_/Lemon+Sour+in+Shinjuku",
+      "count": 4,
+      "artist": "taiyo ky"
+    },
+    {
+      "name": "Afterlife",
+      "url": "https://www.last.fm/music/XXIII/_/Afterlife",
+      "count": 4,
+      "artist": "XXIII"
     },
     {
       "name": "i brought her flowers.",
@@ -93,24 +111,6 @@
       "url": "https://www.last.fm/music/karavelo/_/Cashmere",
       "count": 3,
       "artist": "karavelo"
-    },
-    {
-      "name": "Witchcraft",
-      "url": "https://www.last.fm/music/Malia+L%C3%B8u/_/Witchcraft",
-      "count": 3,
-      "artist": "Malia Løu"
-    },
-    {
-      "name": "Quem Me Dera",
-      "url": "https://www.last.fm/music/Mariza/_/Quem+Me+Dera",
-      "count": 3,
-      "artist": "Mariza"
-    },
-    {
-      "name": "Opulence",
-      "url": "https://www.last.fm/music/Nathan+Kawanishi/_/Opulence",
-      "count": 3,
-      "artist": "Nathan Kawanishi"
     }
   ]
 }
