@@ -31,14 +31,14 @@
       "url": "https://www.last.fm/music/Ocha"
     },
     {
+      "name": "Wun Two",
+      "count": 5,
+      "url": "https://www.last.fm/music/Wun+Two"
+    },
+    {
       "name": "Fernando Daniel",
       "count": 5,
       "url": "https://www.last.fm/music/Fernando+Daniel"
-    },
-    {
-      "name": "iamalex",
-      "count": 5,
-      "url": "https://www.last.fm/music/iamalex"
     },
     {
       "name": "jazzinuf",
@@ -46,9 +46,9 @@
       "url": "https://www.last.fm/music/jazzinuf"
     },
     {
-      "name": "Mariza",
+      "name": "taiyo ky",
       "count": 5,
-      "url": "https://www.last.fm/music/Mariza"
+      "url": "https://www.last.fm/music/taiyo+ky"
     }
   ],
   "tracks": [
