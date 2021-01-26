@@ -1,11 +1,13 @@
 ---
+emoji: "\U0001F9D4"
 hideMentions: true
-title: About
-type: page
-emoji: 🧔
 menu:
   main:
     weight: 1
+properties: {}
+tags: []
+title: About
+type: page
 ---
 
 <style>
@@ -27,7 +29,7 @@ menu:
 
 Hi, I'm Henrique (he/him)! 👋
 
-I'm from a little a town in Portugal 🇵🇹 and I'm now starting my Master's degree 🎓 in Computer Science and Engineering at [TU/e][tue], in Eindhoven. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
+I'm from a little a town in Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in Computer Science and Engineering at [TU/e][tue], in Eindhoven 🇳🇱. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
 
 I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈. There are a lot of problems in the world and we all are part of them and should work towards correcting them, making Earth a better place for all of us to live.
 
