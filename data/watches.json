@@ -1813,6 +1813,16 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-01-26T18:13:34.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
+      "title": "Snowpiercer",
+      "watched": "2021-01-26T13:51:00.000Z",
+      "url": "https://trakt.tv/shows/snowpiercer"
+    },
+    {
       "title": "RuPaul's Drag Race",
       "watched": "2021-01-24T07:59:08.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
@@ -1836,11 +1846,6 @@
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-01-22T20:38:38.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-01-21T16:49:43.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Good Witch",
@@ -1936,11 +1941,6 @@
       "title": "RuPaul's Drag Race All Stars: Untucked!",
       "watched": "2020-07-25T18:23:21.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
-    },
-    {
-      "title": "Snowpiercer",
-      "watched": "2020-07-13T10:15:23.000Z",
-      "url": "https://trakt.tv/shows/snowpiercer"
     },
     {
       "title": "The Politician",
