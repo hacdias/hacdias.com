@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "BONDiNG",
+      "watched": "2021-01-27T19:39:17.000Z",
+      "url": "https://trakt.tv/shows/bonding"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2021-01-26T18:13:34.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
@@ -2071,11 +2076,6 @@
       "title": "Black Mirror",
       "watched": "2019-06-08T14:26:57.000Z",
       "url": "https://trakt.tv/shows/black-mirror"
-    },
-    {
-      "title": "BONDiNG",
-      "watched": "2019-05-31T18:34:44.000Z",
-      "url": "https://trakt.tv/shows/bonding"
     },
     {
       "title": "EastSiders",
