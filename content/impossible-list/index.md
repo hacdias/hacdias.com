@@ -1,6 +1,6 @@
 ---
 date: "2020-07-15T00:00:00.000Z"
-lastmod: "2020-12-19T00:00:00.000Z"
+lastmod: "2021-01-28T00:00:00.000Z"
 properties: {}
 tags: []
 title: Impossible List
@@ -77,7 +77,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 ## Life
 
 - ~~Start studying Computer Science~~ (September 2017)
-- Live abroad for more than 4 months
+- ~~Live abroad for more than 4 months~~ (January 2021)
 - Help people by volunteering
 - ~~Make my parents fly~~ (July 2019)
 - ~~Study abroad on Master's~~ (September 2020)
