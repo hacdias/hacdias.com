@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race UK",
+      "watched": "2021-01-29T19:05:16.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
+    },
+    {
       "title": "BONDiNG",
       "watched": "2021-01-27T19:39:17.000Z",
       "url": "https://trakt.tv/shows/bonding"
@@ -1846,11 +1851,6 @@
       "title": "Young Sheldon",
       "watched": "2021-01-23T06:55:40.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "RuPaul's Drag Race UK",
-      "watched": "2021-01-22T20:38:38.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
       "title": "Good Witch",
