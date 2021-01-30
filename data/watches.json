@@ -1813,6 +1813,21 @@
   ],
   "series": [
     {
+      "title": "The Good Place",
+      "watched": "2021-01-30T16:05:00.000Z",
+      "url": "https://trakt.tv/shows/the-good-place"
+    },
+    {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2021-01-30T11:04:38.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-01-30T11:04:32.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-01-29T19:05:16.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
@@ -1833,19 +1848,9 @@
       "url": "https://trakt.tv/shows/snowpiercer"
     },
     {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-01-24T07:59:08.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
       "title": "Fate: The Winx Saga",
       "watched": "2021-01-24T07:58:49.000Z",
       "url": "https://trakt.tv/shows/fate-the-winx-saga"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2021-01-23T21:12:29.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
     },
     {
       "title": "Young Sheldon",
