@@ -22,7 +22,7 @@
     },
     {
       "name": "Allie X",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
@@ -36,14 +36,14 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "RIOPY",
-      "count": 10,
-      "url": "https://www.last.fm/music/RIOPY"
-    },
-    {
       "name": "MØ",
       "count": 9,
       "url": "https://www.last.fm/music/M%C3%98"
+    },
+    {
+      "name": "RIOPY",
+      "count": 9,
+      "url": "https://www.last.fm/music/RIOPY"
     },
     {
       "name": "Kandi",
@@ -55,20 +55,20 @@
     {
       "name": "Madame X",
       "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
-      "count": 12,
+      "count": 11,
       "artist": "Allie X"
-    },
-    {
-      "name": "Le Rêve d'une note",
-      "url": "https://www.last.fm/music/RIOPY/_/Le+R%C3%AAve+d%27une+note",
-      "count": 10,
-      "artist": "RIOPY"
     },
     {
       "name": "On & On - Mixed",
       "url": "https://www.last.fm/music/M%C3%98/_/On+&+On+-+Mixed",
       "count": 9,
       "artist": "MØ"
+    },
+    {
+      "name": "Le Rêve d'une note",
+      "url": "https://www.last.fm/music/RIOPY/_/Le+R%C3%AAve+d%27une+note",
+      "count": 9,
+      "artist": "RIOPY"
     },
     {
       "name": "Used To Love Me",
