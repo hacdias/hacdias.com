@@ -1,9 +1,11 @@
 ---
-date: 2021-02-01T12:00:00.000+01:00
+date: 2021-02-01T09:00:00.000+01:00
 title: Moving to a different country during a pandemic
 description: >
   My experience on moving to a different country to study during a pandemic
   and the overview until now.
+aliases:
+  - /now/
 tags:
   - recently
   - mondayletter

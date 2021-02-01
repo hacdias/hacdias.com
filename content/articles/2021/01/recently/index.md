@@ -3,8 +3,6 @@ date: 2021-01-01T08:00:00.000+01:00
 title: "Recently: 2020 Edition"
 description: >
   A small update.
-aliases:
-  - /now/
 tags:
   - recently
 ---
