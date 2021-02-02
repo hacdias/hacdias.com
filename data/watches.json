@@ -1813,8 +1813,13 @@
   ],
   "series": [
     {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-02-02T09:06:18.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "The Good Place",
-      "watched": "2021-01-31T11:00:49.000Z",
+      "watched": "2021-02-02T09:05:31.000Z",
       "url": "https://trakt.tv/shows/the-good-place"
     },
     {
@@ -1886,11 +1891,6 @@
       "title": "Big Mouth",
       "watched": "2020-12-27T10:15:33.000Z",
       "url": "https://trakt.tv/shows/big-mouth"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2020-12-17T11:09:27.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "Selena: The Series",
