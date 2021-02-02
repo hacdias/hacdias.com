@@ -28,5 +28,20 @@
       "url": "",
       "photo": "https://cdn.hacdias.com/webmentions/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://social.johanbove.info/2021/02/02/decentralizing-my-website-with-ipfs---hacdiass-blog",
+    "date": "2021-02-02T21:58:58+01:00",
+    "wm-id": 1014304,
+    "content": {
+      "text": "",
+      "html": ""
+    },
+    "author": {
+      "name": "Johan Bové",
+      "url": "https://social.johanbove.info/profile/johan",
+      "photo": "https://cdn.hacdias.com/webmentions/ec1394a2d5d6fcacc33898644619faf8b6382ff3376cf64545812087c118e195.jpg"
+    }
   }
 ]
