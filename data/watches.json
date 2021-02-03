@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "Snowpiercer",
+      "watched": "2021-02-03T19:07:58.000Z",
+      "url": "https://trakt.tv/shows/snowpiercer"
+    },
+    {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-02-02T09:06:18.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
@@ -1846,11 +1851,6 @@
       "title": "The Good Doctor",
       "watched": "2021-01-26T18:13:34.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "Snowpiercer",
-      "watched": "2021-01-26T13:51:00.000Z",
-      "url": "https://trakt.tv/shows/snowpiercer"
     },
     {
       "title": "Fate: The Winx Saga",
