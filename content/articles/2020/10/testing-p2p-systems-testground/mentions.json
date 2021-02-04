@@ -58,5 +58,20 @@
       "url": "https://twitter.com/_johnnymatthews",
       "photo": "https://cdn.hacdias.com/webmentions/fa22f5fe4b138724230874b3ab09e162c7cc78087f02b12faccac45fff8d5967.jpg"
     }
+  },
+  {
+    "type": "like",
+    "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-200749589",
+    "date": "2021-02-04T12:11:31Z",
+    "wm-id": 1016932,
+    "content": {
+      "text": "",
+      "html": ""
+    },
+    "author": {
+      "name": "David Dias",
+      "url": "https://twitter.com/daviddias",
+      "photo": "https://cdn.hacdias.com/webmentions/807841da08aa01707220ffafccbdf6d62122125d13e714dcbf5578c41278e084.jpg"
+    }
   }
 ]
