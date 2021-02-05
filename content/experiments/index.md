@@ -7,7 +7,7 @@ type: page
 
 <style>
 body {
-  background: #000 url(fire.gif) bottom repeat-x;
+  background: #000 url(https://cdn.hacdias.com/uploads/fire.gif) bottom repeat-x;
   background-size: 100px;
 }
 </style>
