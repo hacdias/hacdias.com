@@ -25,7 +25,7 @@ type: page
 </style>
 
 
-{{< figure alt="Me!" src="hac.jpeg" caption="Taken by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
+{{< cdnfig alt="Me!" name="2019-06-henrique" caption="Taken by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
 
 Hi, I'm Henrique (he/him)! 👋
 
