@@ -36,13 +36,13 @@ Everything was running fine until I formatted my computer. And then I tought: no
 
 Hugo is a really nice and easy to use static website generator, built using Go (one of the languages I admire), that have standalone executables. It **doesn't have dependencies**. It's simple, easy. Why not?
 
-{{< figure src="writing-post.png" alt="Writing a post" caption="Writing a post" >}}
+{{< figure src="https://cdn.hacdias.com/uploads/2015-08-writing-post.jpeg" alt="Writing a post" caption="Writing a post" >}}
 
 I moved everything to this new system and created a new template (the black one before the current one). It's very simple to [create themes](http://gohugo.io/themes/overview/) for Hugo. All of my blog's code is on [```henriquedias-source```][6] at GitHub. Then, I just have to deploy it to [```hacdias.github.io```][7] repository so I can use GitHub Pages hosting which is free.
 
 I also configured [CloudFlare][8] and my website is very fast now. It's delivered by their CDN and I'm using SSL. **I defend that every website should be using HTTPS**.
 
-{{< figure src="speed-insights.png" alt="My blog score's on Speed Insights" caption="My blog score's on Speed Insights" >}}
+{{< figure src="https://cdn.hacdias.com/uploads/2015-08-speed-insights.jpeg" alt="My blog score's on Speed Insights" caption="My blog score's on Speed Insights" >}}
 
 Concluding, I'm saving money because I'm only paying the domain. I'm using a easy to use system (of course Hugo is not for everyone, but it's simple). My blog is faster than ever. Google Page Speed Insights gives me a very high score. I'm very satisfied with Hugo.
 

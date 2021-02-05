@@ -48,12 +48,12 @@ and I actually happen to like them. So I've started by doing so.
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   {{< figure
     style="margin-right: 1rem"
-    src="magician.png"
+    src="https://cdn.hacdias.com/uploads/2019-04-magician.jpeg"
     caption="A magician, wizard ? 🧙‍♂️" >}}
 
   {{< figure
     style="margin-left: 1rem"
-    src="cat.png"
+    src="https://cdn.hacdias.com/uploads/2019-04-cat.jpeg"
     caption="A Cat" >}}
 </div>
 
