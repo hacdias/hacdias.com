@@ -1,12 +1,11 @@
 ---
 date: "2020-12-10T07:13:00Z"
 properties:
-  category[]:
+  in-reply-to: https://jlelse.blog/thoughts/2020/12/crypto-bs
+tags:
   - blockchain
   - cryptocurrencies
   - ethereum
-  in-reply-to: https://jlelse.blog/thoughts/2020/12/crypto-bs
-  syndication: []
 ---
 
 Well, I'm going to try to quickly explain the best I can. First of all, blockchain and cryptocurrencies are not interchangeable. Secondly, "crypto" was historically used to refer to cryptography and not cryptocurrencies. I don't agree with whoever started this trend.
