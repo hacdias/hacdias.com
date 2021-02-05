@@ -28,7 +28,7 @@ and that they seem to be... I don't know... interesting to me.
 
 {{< figure
   class="left pixelated"
-  src="blinking-eye.gif"
+  src="https://cdn.hacdias.com/uploads/blinking-eye.gif"
   caption="Blinking Eye" >}}
 
 I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
@@ -76,7 +76,7 @@ coming.
 
 {{< figure
   class="right pixelated"
-  src="tecnico-tower-thumb.gif"
+  src="https://cdn.hacdias.com/uploads/tecnico-tower-thumb.gif"
   caption="Técnico - Chemistry Tower" >}}
 
 I started by drawing the tower itself and the windows. Then, I moved to the building in front

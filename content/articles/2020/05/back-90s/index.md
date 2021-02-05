@@ -26,8 +26,8 @@ title: Back to the web of the 90s
 Over the past months, I have been reading more and more posts where people are [saying][faith-web] they miss the vibe of the [90s web][small-web]. Even though I wasn't alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser.
 
 <div style="display: flex; justify-content: center">
-{{< figure src="netscape.gif" alt="Best viewed with Netscape" class="pixelated" style="width:100%; max-width: 10rem; margin-right: 1rem"  >}}
-{{< figure src="iexplorer.gif" alt="Best viewed with Internet Explorer" class="pixelated" style="width:100%; max-width: 10rem;"  >}}
+{{< figure src="https://cdn.hacdias.com/uploads/netscape.gif" alt="Best viewed with Netscape" class="pixelated" style="width:100%; max-width: 10rem; margin-right: 1rem"  >}}
+{{< figure src="https://cdn.hacdias.com/uploads/iexplorer.gif" alt="Best viewed with Internet Explorer" class="pixelated" style="width:100%; max-width: 10rem;"  >}}
 </div>
 
 We know those kinds of websites are a mirage nowadays, but some of them are still accessible via the [Internet Archive][archive]. There is one really interesting service called [Neocities][neocities], which I talked about in the [past][own-your-data], that aims to bring the glory of the Geocities to today's web.
@@ -38,7 +38,7 @@ I barely remember when I first created this website, but I believe it was by han
 
 On his [essay][small-web], Parimal talks about how today's websites are mainly built towards product selling or marketing. It's a really good post and I recommend you all to read it.
 
-{{< figure src="bulb.gif" class="left pixelated" style="max-width: 5rem;" >}}
+{{< figure src="https://cdn.hacdias.com/uploads/bulb.gif" class="left pixelated" style="max-width: 5rem;" >}}
 
 With all of thing being said, I have been tweaking my website. ["Again?"][meta], you ask. "Yes, again", I say. My website has changed a lot over the few years since it exists (5 years I believe), but mostly on the past months, probably due to my discovery of the [IndieWeb][indieweb] and the pandemic we're living right now. 
 
@@ -52,7 +52,7 @@ With this update, I'm hoping to make this website more alive. Even though the mo
 
 A more subtle change I made was to change the dates on this website to use the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar) which adds exactly 10 000 years to the current year, being the first year placed in the beginning of the Holocene era.
 
-{{< figure alt="Writing on a guestbook" src="guestbook.gif" class="right pixelated" style="max-width: 10rem; margin: 0 0 0 1rem;" link="/guestbook" >}}
+{{< figure alt="Writing on a guestbook" src="https://cdn.hacdias.com/uploads/guestbook.gif" class="right pixelated" style="max-width: 10rem; margin: 0 0 0 1rem;" link="/guestbook" >}}
 
 **Let's bring the web more personality, more presence, more uniqueness. Let's be the painters 🎨 of our own identity.**
 
