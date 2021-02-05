@@ -8,7 +8,6 @@ date: 2020-02-13T20:50:00.000Z
 description: >
   It's now time to own my own watch log. I use Trakt to keep up with the series
   and movies I'm watching and now I'm going to PESOS to my website!
-properties: {}
 tags:
   - meta
   - movies

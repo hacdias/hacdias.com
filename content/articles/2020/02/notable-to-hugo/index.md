@@ -7,7 +7,6 @@ description: >
   Here I describe my small journey so far with Notable and how I sync my
   website's Knowledge Base it with.
 emoji: "\U0001F4D3"
-properties: {}
 tags:
   - meta
   - notes

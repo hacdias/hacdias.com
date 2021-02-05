@@ -5,7 +5,6 @@ aliases:
   - /2020/01/20/5/
   - /notes/2020/01/20/2/movie-telnet/
 date: 2020-01-20T22:23:22.202Z
-properties: {}
 tags:
   - telnet
   - software

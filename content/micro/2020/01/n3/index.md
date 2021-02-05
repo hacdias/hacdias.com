@@ -3,7 +3,6 @@ aliases:
   - /2020/01/19/5/
   - /notes/2020/01/19/3/
 date: 2020-01-19T19:54:38.041Z
-properties: {}
 tags:
   - disqus
   - comments

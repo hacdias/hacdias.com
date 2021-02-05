@@ -12,7 +12,6 @@ date: 2014-11-14T20:34:01.000Z
 description: >-
   Portugal is one of the small big countries, in other words, Portugal have too
   many things to offer: history, monuments, culture, beauty!
-properties: {}
 tags:
   - portugal
 title: Portugal is a beautiful country

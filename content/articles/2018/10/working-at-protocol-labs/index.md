@@ -11,7 +11,6 @@ date: 2018-10-27T00:00:00.000Z
 description: >
   I joined Protocol Labs in November 2017 and it is being an incredible
   experience so far.
-properties: {}
 title: First year at Protocol Labs
 ---
 

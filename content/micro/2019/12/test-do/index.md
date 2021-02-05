@@ -5,7 +5,6 @@ aliases:
   - /2019/12/29/03/
   - /notes/2019/12/29/1/test-do/
 date: 2019-12-29T13:24:08.885Z
-properties: {}
 tags:
   - meta
 ---

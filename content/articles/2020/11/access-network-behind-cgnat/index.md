@@ -1,6 +1,5 @@
 ---
 date: "2020-11-30T09:00:00.000+01:00"
-properties: {}
 tags:
 - mondayletter
 - network

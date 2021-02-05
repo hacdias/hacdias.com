@@ -12,7 +12,6 @@ description: >
   I gave my first talk ever on BarcampLX #4 and I gave an introduction to the
   dWeb world using IPFS as a gateway.
 emoji: "\U0001F578"
-properties: {}
 tags:
   - ipfs
   - talks

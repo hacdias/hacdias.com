@@ -1,8 +1,6 @@
 ---
 emoji: "\U0001F50E"
 hideMentions: true
-properties: {}
-tags: []
 title: Search
 ---
 

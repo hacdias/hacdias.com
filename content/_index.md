@@ -1,6 +1,4 @@
 ---
-properties: {}
-tags: []
 title: hacdias.com
 ---
 

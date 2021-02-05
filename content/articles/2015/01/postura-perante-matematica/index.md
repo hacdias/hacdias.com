@@ -12,7 +12,6 @@ date: 2015-01-26T00:00:00.000Z
 description: >-
   Algumas dicas para o estudo de Matemática, uma das disciplinas em que os
   estudantes têm mais problemas. Prepara-te para os exames continuamente.
-properties: {}
 tags:
   - maths
 title: Que postura ter perante a Matemática

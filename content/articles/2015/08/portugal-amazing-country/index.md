@@ -12,7 +12,6 @@ date: 2015-08-26T22:40:00.000Z
 description: >-
   Portugal is an amazing country. It has a lot of history behind. Know some of
   the places I visited this month. From Sintra to Redondo.
-properties: {}
 tags:
   - portugal
 title: Portugal is a beautiful country (again)

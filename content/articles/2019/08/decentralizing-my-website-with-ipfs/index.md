@@ -13,7 +13,6 @@ description: >-
   when my website is accessed through HTTP? Here's a tale that explains of what
   happens.
 emoji: "\U0001F310"
-properties: {}
 tags:
   - ipfs
   - dns

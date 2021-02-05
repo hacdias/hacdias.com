@@ -8,7 +8,6 @@ aliases:
   - >-
     /articles/2016/11/24/1/how-to-remove-the-query-string-from-static-assets-on-wordpress
 date: 2016-11-24T00:00:00.000Z
-properties: {}
 title: How to remove the query string from static assets on WordPress
 ---
 

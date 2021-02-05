@@ -12,7 +12,6 @@ lastmod: 2015-06-10T11:27:37.000Z
 description: >-
   Esta é a continuação do tutorial sobre como adicionar menus de administração a
   temas e plugins do WordPress.
-properties: {}
 date: 2014-08-04T12:01:37.000Z
 tags:
   - php

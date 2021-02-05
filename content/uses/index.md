@@ -1,9 +1,7 @@
 ---
 lastmod: "2020-10-11T12:11:00.000Z"
 emoji: "\U0001F6E0"
-properties: {}
 date: "2020-01-21T15:39:00.000Z"
-tags: []
 title: Uses
 type: page
 ---

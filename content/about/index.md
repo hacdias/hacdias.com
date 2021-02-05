@@ -4,8 +4,6 @@ hideMentions: true
 menu:
   main:
     weight: 1
-properties: {}
-tags: []
 title: About
 type: page
 ---

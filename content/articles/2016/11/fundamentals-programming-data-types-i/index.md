@@ -7,7 +7,6 @@ aliases:
   - >-
     /articles/2016/11/15/1/fundamentals-programming-data-types-i
 date: 2016-11-15T00:00:00.000Z
-properties: {}
 title: 'The Fundamentals of Programming #5: Data Types I'
 ---
 

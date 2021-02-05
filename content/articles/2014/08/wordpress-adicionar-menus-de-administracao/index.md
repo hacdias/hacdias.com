@@ -13,7 +13,6 @@ date: 2014-08-02T11:27:37.000Z
 description: >-
   A criação de temas e plugins para o WordPres leva a uma necessidade constante
   de criar menus de administração. A criação dos mesmos é muito simples.
-properties: {}
 tags:
   - php
 title: 'WordPress: adicionar menus de administração [Parte 1]'

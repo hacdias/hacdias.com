@@ -6,7 +6,6 @@ aliases:
   - /2016/11/differences-c-plus-sharp/
   - /articles/2016/11/01/1/differences-c-plus-sharp
 date: 2016-11-01T00:00:00.000Z
-properties: {}
 title: 'Differences between C, C++ and C#'
 ---
 

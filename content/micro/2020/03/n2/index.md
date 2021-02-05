@@ -3,7 +3,6 @@ aliases:
   - /notes/2020/03/02/1/
 date: 2020-03-02T18:31:30.487Z
 home: true
-properties: {}
 tags:
   - uni
   - work

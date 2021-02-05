@@ -10,7 +10,6 @@ date: 2016-09-11T12:10:00.000Z
 description: >
   Pplware is a portuguese project that delivers the most recent news about
   technology to the Portuguese-speaking community.
-properties: {}
 tags:
   - projects
 title: Working on Pplware

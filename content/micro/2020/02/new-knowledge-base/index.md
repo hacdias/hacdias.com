@@ -3,7 +3,6 @@ aliases:
   - /notes/2020/02/26/1/
   - /notes/2020/02/26/1/new-knowledge-base/
 date: 2020-02-26T19:01:30.545Z
-properties: {}
 tags:
   - meta
   - website

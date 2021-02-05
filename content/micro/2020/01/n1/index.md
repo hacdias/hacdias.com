@@ -3,7 +3,6 @@ aliases:
   - /2020/01/19/1/
   - /notes/2020/01/19/1/
 date: 2020-01-19T11:36:57.867Z
-properties: {}
 tags:
   - meta
   - indieweb

@@ -12,7 +12,6 @@ date: 2014-07-16T20:00:19.000Z
 description: >-
   Utilizar MySQL é muito simples. Neste tutorial ensino a selecionar apenas um
   intervalo de linhas em MySQL.
-properties: {}
 tags:
   - mysql
 title: Selecionar um intervalo de linhas em MySQL

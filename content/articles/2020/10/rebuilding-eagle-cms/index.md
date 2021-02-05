@@ -1,6 +1,5 @@
 ---
 date: "2020-10-12T09:00:00.000+02:00"
-properties: {}
 tags:
 - meta
 - eagle

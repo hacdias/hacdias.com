@@ -10,7 +10,6 @@ date: 2016-11-25T00:00:00.000Z
 description: >
   For some, the difference between bits and bytes may be subtle and it can lead
   to a lot of mistakes and false advertisement.
-properties: {}
 title: Differences between bits and bytes
 ---
 

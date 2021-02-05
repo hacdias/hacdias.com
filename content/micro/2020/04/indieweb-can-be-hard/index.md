@@ -3,7 +3,6 @@ aliases:
   - /notes/2020/04/08/2/
   - /notes/2020/04/08/2/indieweb-can-be-hard/
 date: 2020-04-08T11:23:10.389Z
-properties: {}
 home: true
 tags:
   - meta

@@ -11,7 +11,6 @@ date: 2014-12-20T09:00:23.000Z
 description: >-
   No seguimento da criação de uma framework PHP que utilize o modelo MVC, hoje
   explicamos como se criam os controladores.
-properties: {}
 tags:
   - MVC
   - PHP

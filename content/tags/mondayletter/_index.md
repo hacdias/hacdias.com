@@ -1,8 +1,6 @@
 ---
 emoji: "\U0001F5DE"
 layout: articles
-properties: {}
-tags: []
 title: Monday Letter
 ---
 

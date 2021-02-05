@@ -11,7 +11,6 @@ date: 2015-04-06T20:05:27.000Z
 description: >-
   I don't want to be just one thing. Where's the fun of being just one thing?
   There are 3 things I would like to be and there is nothing in the way."
-properties: {}
 tags:
   - opinions
 title: 3 things I would like to be

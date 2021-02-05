@@ -12,7 +12,6 @@ date: 2014-08-14T10:41:38.000Z
 description: >-
   Explicamos como fazer a listagem em log de todos os erros produzidos pela
   linguagem PHP num ficheiro através do .htaccess.
-properties: {}
 tags:
   - php
 title: Guardar os erros do PHP num ficheiro com o .htaccess

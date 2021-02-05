@@ -10,7 +10,6 @@ date: 2016-06-10T12:10:00.000Z
 description: >
   File Browser provides a file managing interface within a specified directory
   and it can be used to upload, delete, preview, rename and edit your files.
-properties: {}
 tags:
   - projects
 title: File Browser

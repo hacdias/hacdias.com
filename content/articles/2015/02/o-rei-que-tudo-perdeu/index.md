@@ -11,7 +11,6 @@ date: 2015-02-28T16:00:38.000Z
 description: >-
   Por vezes, a vontade de escrever é tanta que as letras deslizam pelo papel.
   Aqui está um pequeno poema, O Rei Que Tudo Perdeu, escrito em 2012.
-properties: {}
 tags:
   - literature
   - poetry

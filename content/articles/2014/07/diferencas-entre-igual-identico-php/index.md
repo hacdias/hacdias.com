@@ -12,7 +12,6 @@ date: 2014-07-23T18:31:23.000Z
 description: >-
   Os operadores '==' e '===' por vezes podem confundir-nos um pouco em relação
   ao seu uso e para que servem. Fica aqui a explicação de cada um."
-properties: {}
 tags:
   - php
   - javascript

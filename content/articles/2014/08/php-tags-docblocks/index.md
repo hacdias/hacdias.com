@@ -11,7 +11,6 @@ date: 2014-08-11T20:26:21.000Z
 description: >-
   Os DOCBlocks do PHP são extremamente úteis para os desenvolvedores que desejam
   partilhar o código. Venha conhecer as tags mais utilizadas.
-properties: {}
 tags:
   - php
 title: PHP - (Algumas) tags dos DOCBlocks

@@ -3,7 +3,6 @@ aliases:
   - /notes/2020/03/01/2/
   - /notes/2020/03/01/2/i-now-have-activitypub/
 date: 2020-03-01T17:48:59.838Z
-properties: {}
 tags:
   - meta
   - activitypub

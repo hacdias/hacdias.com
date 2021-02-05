@@ -6,7 +6,6 @@ aliases:
   - /notes/2019/12/27/2/webmentions/
 date: 2019-12-27T23:30:26.757Z
 description: null
-properties: {}
 tags:
   - indieweb
   - webmentions

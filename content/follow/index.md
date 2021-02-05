@@ -6,8 +6,6 @@ lastmod: "2020-10-15"
 menu:
   main:
     weight: 6
-properties: {}
-tags: []
 title: Follow
 type: page
 ---

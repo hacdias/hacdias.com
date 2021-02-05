@@ -11,7 +11,6 @@ date: 2014-09-09T15:19:43.000Z
 description: >-
   Já pensou em qual a melhor forma para inserir variáveis dentro de strings? A
   interpolação ou a concatenação. Venha ver.
-properties: {}
 tags:
   - php
 title: 'PHP - Strings: interpolação e concatenação'

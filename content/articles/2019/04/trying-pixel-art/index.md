@@ -13,7 +13,6 @@ description: >
   is more artistic than I'm used to: pixel art! This is where I share how was my
   first contact with this pixelized world.
 emoji: "\U0001F3A8"
-properties: {}
 tags:
   - art
   - pixelart

@@ -1,7 +1,6 @@
 ---
 date: 2020-05-13T10:40:46.716Z
 expiryDate: 2020-05-13T10:41:02.735Z
-properties: {}
 tags:
   - meta
   - twitter

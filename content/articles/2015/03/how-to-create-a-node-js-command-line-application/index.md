@@ -12,7 +12,6 @@ date: 2015-03-31T18:55:49.000Z
 description: >-
   Node.js is one of the trends in the programming world. Let's learn how to
   create node.js command-line applications.
-properties: {}
 tags:
   - javascript
 title: How to create a Node.js command-line application

@@ -10,7 +10,6 @@ aliases:
 date: 2019-07-05T16:20:00.000Z
 description: |
   How I built a cloner for xkcd and keep the clone up to date on IPFS.
-properties: {}
 tags:
   - ipfs
   - clone

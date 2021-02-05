@@ -11,7 +11,6 @@ date: 2014-08-29T16:47:20.000Z
 description: >-
   A linguagem de programação PHP é das mais utilizadas atualmente do lado do
   servidor. Hoje trazemos 5 dicas que para vos ajudar!
-properties: {}
 tags:
   - php
 title: 5 truques e dicas em PHP

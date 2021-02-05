@@ -11,7 +11,6 @@ description: >
   In 2015, with only 15 years old, I wrote an ebook teaching how to program in
   C. That ebook consists in the compilation of a series of blog posts on Pplware
   into a beautiful and easily readable PDF.
-properties: {}
 tags:
   - projects
 title: Aprenda a Programar

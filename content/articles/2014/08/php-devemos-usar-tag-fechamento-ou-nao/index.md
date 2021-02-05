@@ -12,7 +12,6 @@ date: 2014-08-27T09:15:18.000Z
 description: >-
   A tag de fechamento do PHP ( ?> ) pode causar alguma confusão visto que é
   omitida pela maioria dos desenvolvedores. Mas porquê?
-properties: {}
 tags:
   - php
 title: PHP - Devemos usar a tag de fechamento ou não?

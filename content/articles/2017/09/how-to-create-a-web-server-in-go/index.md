@@ -7,7 +7,6 @@ aliases:
   - >-
     /articles/2017/09/08/1/how-to-create-a-web-server-in-go
 date: 2017-09-08T00:00:00.000Z
-properties: {}
 tags:
   - server
   - web

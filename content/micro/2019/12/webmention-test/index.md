@@ -5,7 +5,6 @@ aliases:
   - /2019/12/30/05/
   - /notes/2019/12/30/2/webmention-test/
 date: 2019-12-30T21:33:23.650Z
-properties: {}
 tags:
   - meta
 ---

@@ -13,7 +13,6 @@ description: >-
   Is the future real? Does it exists? Who are we? What are we going to be? Time?
   Death. Is that real? What's the difference from life? Some interesting
   questions no one can answer.
-properties: {}
 tags:
   - Opinion
   - Life

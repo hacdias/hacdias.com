@@ -5,7 +5,6 @@ aliases:
   - /2019/12/29/09/
   - /notes/2019/12/29/3/rich-previews/
 date: 2019-12-29T23:12:07.931Z
-properties: {}
 tags:
   - meta
   - indieweb

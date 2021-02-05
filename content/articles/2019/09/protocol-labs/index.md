@@ -12,7 +12,6 @@ description: >
   Internet technology. Focusing on IPFS, the InterPlanetary File System, we're
   building a decentralised, P2P and content-addressable network for
   future-proofing the web.
-properties: {}
 title: Almost two years at Protocol Labs
 ---
 

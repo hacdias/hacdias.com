@@ -7,7 +7,6 @@ aliases:
   - >-
     /articles/2016/11/12/1/fundamentals-programming-paradigms
 date: 2016-11-12T00:00:00.000Z
-properties: {}
 title: 'The Fundamentals of Programming #3: Paradigms'
 ---
 

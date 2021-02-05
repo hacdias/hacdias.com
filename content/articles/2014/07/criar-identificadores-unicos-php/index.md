@@ -12,7 +12,6 @@ date: 2014-07-30T08:34:52.000Z
 description: >-
   Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo.
   Hoje trago-vos uma das funções mais interessantes desta linguagem.
-properties: {}
 tags:
   - pgp
 title: Criar identificadores únicos em PHP"

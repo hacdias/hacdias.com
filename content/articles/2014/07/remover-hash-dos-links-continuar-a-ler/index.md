@@ -13,7 +13,6 @@ description: >-
   Por padrão, nos artigos do WordPress, quando se clica em "Ler mais", o
   utilizador é redirecionado para onde estava a ler. Aprenda a remover essa
   opção.
-properties: {}
 tags:
   - php
 title: Remover hash dos links "Continuar a Ler"

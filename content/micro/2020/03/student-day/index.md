@@ -3,7 +3,6 @@ aliases:
   - /notes/2020/03/25/1/
   - /notes/2020/03/25/1/student-day/
 date: 2020-03-25T17:25:06.510Z
-properties: {}
 tags:
   - portugal
   - student

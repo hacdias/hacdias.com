@@ -1,7 +1,6 @@
 ---
 date: "2020-10-14T16:04:13Z"
 lastmod: "2020-10-14T17:04:13Z"
-properties: {}
 tags:
 - covid
 ---

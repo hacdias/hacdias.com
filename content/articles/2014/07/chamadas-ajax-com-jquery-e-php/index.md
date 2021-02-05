@@ -11,7 +11,6 @@ date: 2014-07-20T10:41:11.000Z
 description: >-
   Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder
   utilizando a linguagem de servidor PHP.
-properties: {}
 tags:
   - php
   - javascript

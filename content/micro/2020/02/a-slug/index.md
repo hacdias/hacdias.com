@@ -6,7 +6,6 @@ aliases:
   - /notes/2020/02/02/1/a-slug/
 lastmod: 2020-02-02T19:41:26.832Z
 expiryDate: 2020-02-02T19:41:48.159Z
-properties: {}
 date: 2020-02-02T19:40:31.415Z
 tags:
   - category_test

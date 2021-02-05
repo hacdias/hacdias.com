@@ -13,7 +13,6 @@ date: 2014-08-22T09:38:31.000Z
 description: >-
   O GitHub não contém apenas software e código. Contém também conhecimento. Um
   grande exemplo é o repositório Papers We Love.
-properties: {}
 tags:
   - Documentos
   - GitHub

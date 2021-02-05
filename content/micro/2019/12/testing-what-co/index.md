@@ -5,7 +5,6 @@ aliases:
   - /2019/12/31/06/
   - /notes/2019/12/31/3/testing-what-co/
 date: 2019-12-31T20:29:54.663Z
-properties: {}
 tags:
   - meta
 ---

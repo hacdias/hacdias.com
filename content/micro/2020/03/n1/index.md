@@ -2,7 +2,6 @@
 aliases:
   - /notes/2020/03/01/1/
 date: 2020-03-01T13:25:34.893Z
-properties: {}
 tags:
   - activitypub
   - meta

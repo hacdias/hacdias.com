@@ -7,7 +7,6 @@ aliases:
   - >-
     /articles/2016/11/10/1/fundamentals-programming-beginning
 date: 2016-11-10T00:00:00.000Z
-properties: {}
 title: "The Fundamentals of Programming #1:\_Beginning"
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-05-14T21:36:29.879Z
 home: true
-properties: {}
 tags:
   - automation
   - dns

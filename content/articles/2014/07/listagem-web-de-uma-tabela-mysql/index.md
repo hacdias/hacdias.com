@@ -12,7 +12,6 @@ date: 2014-07-17T14:51:56.000Z
 description: >-
   Como fazer a listagem de uma tabela MySQL com interface web, botões de
   navegação e limitação do número de linhas por página.
-properties: {}
 tags:
   - php
   - html

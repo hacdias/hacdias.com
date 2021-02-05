@@ -2,7 +2,6 @@
 aliases:
   - /notes/2020/02/21/1/
 date: 2020-02-21T21:15:34.107Z
-properties: {}
 tags:
   - wiki
   - meta

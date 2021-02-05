@@ -11,7 +11,6 @@ description: >
   Upframe aims to become a global reference and authority in pre-acceleration,
   shaping the next generation of entrepreneurs by building an immersive
   experience.
-properties: {}
 tags:
   - projects
 title: Upframe

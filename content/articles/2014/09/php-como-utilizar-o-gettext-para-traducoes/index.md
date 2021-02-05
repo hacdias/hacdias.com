@@ -12,7 +12,6 @@ date: 2014-09-21T11:07:03.000Z
 description: >-
   A linguagem PHP está repleta de extensões. Uma muito utilizada e útil é o
   Gettext que nos permite traduzir um site muito facilmente.
-properties: {}
 tags:
   - php
 title: 'PHP - Como utilizar o Gettext para traduções [Parte 1]'

@@ -12,7 +12,6 @@ date: 2017-07-12T11:30:00.000Z
 description: >-
   A story of a 17 years old boy who met someone and one year later was invited
   to join a startup as a Full Stack Developer.
-properties: {}
 tags:
   - projects
   - startup

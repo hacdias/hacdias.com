@@ -8,8 +8,6 @@ layout: articles
 menu:
   main:
     weight: 2
-properties: {}
-tags: []
 title: Articles
 ---
 

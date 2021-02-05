@@ -12,7 +12,6 @@ date: 2014-11-07T20:28:27.000Z
 description: >-
   Presently, the people love the objects. Sometimes, more than they love the
   people. Is this good? Or not?
-properties: {}
 tags:
   - reflexão
   - sociedade

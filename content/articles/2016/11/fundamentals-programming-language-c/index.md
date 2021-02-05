@@ -7,7 +7,6 @@ aliases:
   - >-
     /articles/2016/11/14/1/fundamentals-programming-language-c
 date: 2016-11-14T00:00:00.000Z
-properties: {}
 title: 'The Fundamentals of Programming #4: Language C'
 ---
 

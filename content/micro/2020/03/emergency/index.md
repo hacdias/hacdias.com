@@ -3,7 +3,6 @@ aliases:
   - /notes/2020/03/18/1/
   - /notes/2020/03/18/1/emergency/
 date: 2020-03-18T21:45:08.313Z
-properties: {}
 tags:
   - covid19
 ---

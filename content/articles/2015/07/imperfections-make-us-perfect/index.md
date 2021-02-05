@@ -11,7 +11,6 @@ date: 2015-07-12T13:45:00.000Z
 description: >-
   I was thinking about why there are people who think we are perfect. This is a
   little reflexion about it and about those people.
-properties: {}
 tags:
   - opinion
 title: Imperfections make us perfect

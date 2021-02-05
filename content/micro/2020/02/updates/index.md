@@ -3,7 +3,6 @@ aliases:
   - /notes/2020/02/16/1/
   - /notes/2020/02/16/1/updates/
 date: 2020-02-16T11:06:57.887Z
-properties: {}
 tags:
   - meta
   - organization

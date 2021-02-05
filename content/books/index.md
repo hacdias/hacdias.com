@@ -3,8 +3,6 @@ description: >
   A bookshelf of the books I have read in the past and the books I would like to
   read.
 emoji: "\U0001F4D5"
-properties: {}
-tags: []
 title: Books
 type: page
 ---

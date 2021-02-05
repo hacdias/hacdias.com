@@ -21,7 +21,6 @@ pictures:
     slug: 2020-04-01-hometown-08
   - title: Shiny Lake
     slug: 2020-04-01-hometown-09
-properties: {}
 title: Santana da Serra
 ---
 

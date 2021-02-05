@@ -12,7 +12,6 @@ description: >-
   I finally learned how to say goodbye to WordPress. Not forever. Nothing lasts
   forever. But for my blog. I'm using Hugo. A very simple static website
   generator."
-properties: {}
 tags:
   - meta
 title: 'Farewell, WordPress! Hello, Hugo'
