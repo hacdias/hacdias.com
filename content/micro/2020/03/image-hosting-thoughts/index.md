@@ -6,7 +6,6 @@ date: 2020-03-06T11:57:08.634Z
 home: true
 properties:
   in-reply-to: 'https://jlelse.blog/micro/2020/03/photos-workflow/'
-  location: 'geo:38.74488,-9.13456;u=5088'
 ---
 
 That's a great way to put it. Thanks for sharing how you're doing it. I'm using the HTML [`picture`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) element to serve pictures in different formats and sizes. Right now, besides the original, Hugo's generating two more that are compressed and resized.

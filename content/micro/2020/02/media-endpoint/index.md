@@ -5,8 +5,6 @@ aliases:
   - /2020/02/01/1/
   - /notes/2020/02/01/1/media-endpoint/
 date: 2020-02-01T14:52:09.397Z
-properties:
-  location: 'geo:38.74488,-9.13456;u=5088'
 tags:
   - meta
   - cdn

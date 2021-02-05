@@ -5,9 +5,6 @@ aliases:
   - /2019/12/27/05/
   - /notes/2019/12/27/1/hi-micropub/
 date: 2019-12-27T14:01:30.924Z
-description: null
-properties:
-  location: 'geo:37.50651,-8.29791;u=7114'
 tags:
   - indieweb
   - micropub

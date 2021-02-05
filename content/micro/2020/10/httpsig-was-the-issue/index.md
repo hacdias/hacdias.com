@@ -2,7 +2,6 @@
 date: "2020-10-14T11:38:45Z"
 properties:
   in-reply-to: https://jan.boddez.net/notes/046185c328
-  syndication: []
 tags:
 - activitypub
 ---

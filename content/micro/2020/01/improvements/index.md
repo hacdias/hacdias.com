@@ -5,8 +5,6 @@ aliases:
   - /2020/01/25/3/
   - /notes/2020/01/25/2/improvements/
 date: 2020-01-25T23:45:22.486Z
-properties:
-  location: 'geo:37.50625,-8.29768;u=7507'
 tags:
   - meta
   - design

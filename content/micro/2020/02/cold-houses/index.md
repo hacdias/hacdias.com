@@ -5,8 +5,6 @@ aliases:
   - /2020/02/12/1/
   - /notes/2020/02/12/1/cold-houses/
 date: 2020-02-12T09:13:24.415Z
-properties:
-  location: 'geo:37.50625,-8.29768;u=7507'
 tags:
   - portugal
   - construction

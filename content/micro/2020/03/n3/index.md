@@ -2,8 +2,6 @@
 aliases:
   - /notes/2020/03/05/1/
 date: 2020-03-05T22:31:58.056Z
-properties:
-  location: 'geo:38.74488,-9.13456;u=5088'
 tags:
   - meta
   - photos

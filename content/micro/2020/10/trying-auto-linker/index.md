@@ -6,8 +6,6 @@ mentions:
   name: '@hacdias_test'
 - href: https://mastodon.online/@hacdias_test
   name: '@hacdias_test@mastodon.online'
-properties:
-  syndication: []
 ---
 
 Just trying my new auto-linker. Will remove this post later.

@@ -5,8 +5,6 @@ aliases:
   - /2020/01/30/12/
   - /notes/2020/01/30/2/dead-deadlock/
 lastmod: 2020-01-30T23:45:37.147Z
-properties:
-  location: 'geo:38.74488,-9.13456;u=5088'
 date: 2020-01-30T23:40:31.938Z
 tags:
   - meta

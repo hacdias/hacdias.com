@@ -1,7 +1,5 @@
 ---
 date: "2020-10-12T10:29:44Z"
-properties:
-  syndication: []
 tags:
 - software
 ---

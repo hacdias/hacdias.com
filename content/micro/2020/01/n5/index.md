@@ -3,8 +3,6 @@ aliases:
   - /2020/01/21/3/
   - /notes/2020/01/21/2/
 date: 2020-01-21T13:35:06.761Z
-properties:
-  location: 'geo:38.74488,-9.13456;u=5088'
 tags:
   - design
   - meta

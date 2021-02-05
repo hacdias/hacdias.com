@@ -1,7 +1,5 @@
 ---
 date: "2020-10-14T08:43:22Z"
-properties:
-  syndication: []
 tags:
 - activitypub
 ---

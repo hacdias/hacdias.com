@@ -3,8 +3,6 @@ aliases:
   - /2020/01/19/3/
   - /notes/2020/01/19/2/
 date: 2020-01-19T19:28:27.380Z
-properties:
-  location: 'geo:38.74488,-9.13456;u=5088'
 tags:
   - webmentions
   - meta

@@ -3,7 +3,6 @@ aliases:
   - /notes/2020/03/09/1/
 date: 2020-03-09T22:49:13.918Z
 properties:
-  location: 'geo:38.73521,-9.13953;u=65'
   syndication: 'https://twitter.com/hacdias/status/1237148487164272640'
 ---
 

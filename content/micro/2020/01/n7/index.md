@@ -3,8 +3,6 @@ aliases:
   - /2020/01/22/9/
   - /notes/2020/01/22/2/
 date: 2020-01-22T21:17:18.565Z
-properties:
-  location: 'geo:38.74488,-9.13456;u=5088'
 tags:
   - citation
   - books

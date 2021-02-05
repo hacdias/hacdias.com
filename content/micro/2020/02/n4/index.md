@@ -2,8 +2,6 @@
 aliases:
   - /notes/2020/02/17/1/
 date: 2020-02-17T15:52:18.930Z
-properties:
-  location: 'geo:38.73643,-9.13853;u=65'
 tags:
   - meta
   - indieweb
