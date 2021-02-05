@@ -4,7 +4,6 @@ title: The Future is Decentralized
 description: >
   Combining blockchain and open protocols can create a Web 3.0 free from the power of
   centralized mega-corporations like Amazon, Google, and Facebook is within grasp.
-canonical: https://modernconsensus.com/commentary/the-future-is-decentralized/
 tags:
   - decentralization
   - web3
