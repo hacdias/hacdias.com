@@ -7,7 +7,6 @@ aliases:
   - /blog/2015/12/new-year-resolutions-2016/
   - /blog/new-year-resolutions-2016/
   - /articles/2015/12/31/1/new-year-resolutions-2016
-color: '#212121'
 date: 2015-12-31T12:00:00.000Z
 description: >-
   2015 has been a very meaningful year. 2016 needs to be better than 2015 and so

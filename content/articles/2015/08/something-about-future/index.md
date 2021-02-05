@@ -7,7 +7,6 @@ aliases:
   - /blog/2015/08/something-about-future/
   - /blog/something-about-future/
   - /articles/2015/08/19/1/something-about-future
-color: '#63506d'
 date: 2015-08-19T08:30:00.000Z
 description: >-
   Is the future real? Does it exists? Who are we? What are we going to be? Time?

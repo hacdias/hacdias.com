@@ -7,7 +7,6 @@ aliases:
   - /blog/2015/08/portugal-amazing-country/
   - /blog/portugal-amazing-country/
   - /articles/2015/08/26/1/portugal-amazing-country
-color: '#24768a'
 date: 2015-08-26T22:40:00.000Z
 description: >-
   Portugal is an amazing country. It has a lot of history behind. Know some of

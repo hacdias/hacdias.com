@@ -8,7 +8,6 @@ aliases:
   - /blog/wordpress-adicionar-menus-de-administracao/
   - >-
     /articles/2014/08/02/1/wordpress-adicionar-menus-de-administracao
-color: '#e06937'
 date: 2014-08-02T11:27:37.000Z
 description: >-
   A criação de temas e plugins para o WordPres leva a uma necessidade constante

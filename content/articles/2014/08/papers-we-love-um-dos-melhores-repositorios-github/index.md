@@ -8,7 +8,6 @@ aliases:
   - /blog/papers-we-love-um-dos-melhores-repositorios-github/
   - >-
     /articles/2014/08/22/1/papers-we-love-um-dos-melhores-repositorios-github
-color: '#69615b'
 date: 2014-08-22T09:38:31.000Z
 description: >-
   O GitHub não contém apenas software e código. Contém também conhecimento. Um

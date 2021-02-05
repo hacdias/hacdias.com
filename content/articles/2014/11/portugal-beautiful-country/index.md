@@ -7,7 +7,6 @@ aliases:
   - /blog/2014/11/portugal-beautiful-country/
   - /blog/portugal-beautiful-country/
   - /articles/2014/11/14/1/portugal-beautiful-country
-color: '#7e9fcf'
 date: 2014-11-14T20:34:01.000Z
 description: >-
   Portugal is one of the small big countries, in other words, Portugal have too

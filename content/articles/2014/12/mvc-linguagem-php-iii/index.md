@@ -152,8 +152,7 @@ Estou também a utilizar o `normalize.css` e uma folha de estilos própria com
 
 #footer {
   background: rgba(0,0,0,0.5);
-  color: #fff;
-}
+  }
 ```
 
 Vamos agora ver o rodapé. O rodapé está localizado no ficheiro `app_core/views/footer.php` e o conteúdo deve ser algo semelhante ao seguinte:

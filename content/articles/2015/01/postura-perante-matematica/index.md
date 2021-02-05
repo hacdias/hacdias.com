@@ -7,7 +7,6 @@ aliases:
   - /blog/2015/01/postura-perante-matematica/
   - /blog/postura-perante-matematica/
   - /articles/2015/01/26/1/postura-perante-matematica
-color: '#264059'
 date: 2015-01-26T00:00:00.000Z
 description: >-
   Algumas dicas para o estudo de Matemática, uma das disciplinas em que os

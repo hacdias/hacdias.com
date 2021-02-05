@@ -7,7 +7,6 @@ aliases:
   - /blog/2015/03/pi-day-2015/
   - /blog/pi-day-2015/
   - /articles/2015/03/15/1/pi-day-2015
-color: '#ddd'
 date: 2015-03-15T10:36:51.000Z
 description: >-
   Today, 14th march, is the Pi Day 2015. See this small video which talks a

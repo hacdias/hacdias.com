@@ -7,7 +7,6 @@ aliases:
   - /blog/2014/07/operador-ternario/
   - /blog/operador-ternario/
   - /articles/2014/07/22/1/operador-ternario
-color: '#333437'
 date: 2014-07-22T09:08:08.000Z
 description: >-
   O operador ? é, por vezes, intrigante. Chama-se operador ternário e explicamos
