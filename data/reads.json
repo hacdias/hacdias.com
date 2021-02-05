@@ -11,11 +11,7 @@
       "date": null,
       "author": "Harper Lee",
       "name": "To Kill a Mockingbird",
-      "isbn": {
-        "$": {
-          "nil": "true"
-        }
-      },
+      "isbn": "",
       "rating": "N/A"
     },
     {
@@ -206,55 +202,35 @@
       "date": null,
       "author": "Enid Blyton",
       "name": "O Mistério das Cartas Anónimas",
-      "isbn": {
-        "$": {
-          "nil": "true"
-        }
-      },
+      "isbn": "",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Enid Blyton",
       "name": "O Mistério da Casa Invisível",
-      "isbn": {
-        "$": {
-          "nil": "true"
-        }
-      },
+      "isbn": "",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Enid Blyton",
       "name": "O Mistério do Ladrão Invisível",
-      "isbn": {
-        "$": {
-          "nil": "true"
-        }
-      },
+      "isbn": "",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Enid Blyton",
       "name": "O Mistério do Príncipe Desaparecido",
-      "isbn": {
-        "$": {
-          "nil": "true"
-        }
-      },
+      "isbn": "",
       "rating": "N/A"
     },
     {
       "date": null,
       "author": "Enid Blyton",
       "name": "O Mistério do Saco da Roupa",
-      "isbn": {
-        "$": {
-          "nil": "true"
-        }
-      },
+      "isbn": "",
       "rating": "N/A"
     },
     {
@@ -268,11 +244,7 @@
       "date": null,
       "author": "Ana Maria Magalhães",
       "name": "Uma Aventura Secreta",
-      "isbn": {
-        "$": {
-          "nil": "true"
-        }
-      },
+      "isbn": "",
       "rating": "N/A"
     },
     {
