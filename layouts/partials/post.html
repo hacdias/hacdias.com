@@ -42,22 +42,6 @@
     {{ end }}
   {{ end }}
 
-  {{ with .Params.properties.photo }}
-    {{ $arr := partial "must-slice" . }}
-    {{ range $arr }}
-      {{ $img := $.Glob.Page.Resources.GetMatch . -}}
-      <img style="margin: 1rem auto; display: block;" class="u-photo" src="{{ with $img }}{{ .RelPermalink }}{{ else }}{{ . }}{{ end }}">
-    {{ end }}
-  {{ end }}
-
-  {{ with .Params.properties.video }}
-    {{ $arr := partial "must-slice" . }}
-    {{ range $arr }}
-      {{ $video := $.Glob.Page.Resources.GetMatch . -}}
-      <video style="margin: 1rem auto; display: block;" class="u-video" src="{{ with $video }}{{ .RelPermalink }}{{ else }}{{ . }}{{ end }}" autoplay muted loop></video>
-    {{ end }}
-  {{ end }}
-
   <footer class='footer'>
     <span>
       {{- if .Lastmod.After .Date -}}
