@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 21,
+      "count": 25,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "name": "Alma",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/Alma"
     },
     {
@@ -65,10 +65,22 @@
       "artist": "Miley Cyrus"
     },
     {
+      "name": "Stay All Night",
+      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
+      "count": 5,
+      "artist": "Alma"
+    },
+    {
       "name": "IDORU",
       "url": "https://www.last.fm/music/Grimes/_/IDORU",
       "count": 5,
       "artist": "Grimes"
+    },
+    {
+      "name": "Switch",
+      "url": "https://www.last.fm/music/Iggy+Azalea/_/Switch",
+      "count": 5,
+      "artist": "Iggy Azalea"
     },
     {
       "name": "Used To Love Me",
@@ -77,40 +89,28 @@
       "artist": "Kandi"
     },
     {
+      "name": "Plastic Hearts",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Plastic+Hearts",
+      "count": 5,
+      "artist": "Miley Cyrus"
+    },
+    {
       "name": "Snowman",
       "url": "https://www.last.fm/music/Sia/_/Snowman",
       "count": 5,
       "artist": "Sia"
     },
     {
+      "name": "Fico Assim Sem Você",
+      "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
+      "count": 4,
+      "artist": "Adriana Calcanhotto"
+    },
+    {
       "name": "Madame X",
       "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
       "count": 4,
       "artist": "Allie X"
-    },
-    {
-      "name": "Stay All Night",
-      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
-      "count": 4,
-      "artist": "Alma"
-    },
-    {
-      "name": "Switch",
-      "url": "https://www.last.fm/music/Iggy+Azalea/_/Switch",
-      "count": 4,
-      "artist": "Iggy Azalea"
-    },
-    {
-      "name": "Poor Fake",
-      "url": "https://www.last.fm/music/Kelsey+Lu/_/Poor+Fake",
-      "count": 4,
-      "artist": "Kelsey Lu"
-    },
-    {
-      "name": "Sweet Melody",
-      "url": "https://www.last.fm/music/Little+Mix/_/Sweet+Melody",
-      "count": 4,
-      "artist": "Little Mix"
     }
   ]
 }
