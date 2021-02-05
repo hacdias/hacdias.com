@@ -27,7 +27,7 @@ and that they seem to be... I don't know... interesting to me.
 <!--more-->
 
 {{< figure
-  class="left"
+  class="left pixelated"
   src="blinking-eye.gif"
   caption="Blinking Eye" >}}
 
@@ -67,6 +67,7 @@ the central building of my university.
 
 {{< figure
   src="tecnico-central-social.jpg"
+  class="pixelated"
   caption="Técnico - Central Building" >}}
 
 Then - or should I say, before? - I've done something much more interesting: my university
@@ -74,7 +75,7 @@ has two twelve floor towers, which are really beautiful. So I believe you alread
 coming.
 
 {{< figure
-  class="right"
+  class="right pixelated"
   src="tecnico-tower-thumb.gif"
   caption="Técnico - Chemistry Tower" >}}
 

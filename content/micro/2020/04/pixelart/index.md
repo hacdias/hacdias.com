@@ -12,4 +12,4 @@ tags:
 
 I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it.
 
-{{< figure src="https://cdn.hacdias.com/uploads/2ad78b8a493f29b77ddcfb050bbdc8d0339f935af32ccbc653656b083f05cc4e.gif" >}}
+{{< figure class="pixelated" src="https://hacdias.b-cdn.net/uploads/2020-04-pixel-house.gif" >}}
