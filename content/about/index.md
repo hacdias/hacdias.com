@@ -61,7 +61,7 @@ Most likely you've already noticed that my handle, `@hacdias`, reminds of the wo
 [pl]: /articles/2019/09/protocol-labs/
 [resume]: /resume.pdf
 [ist]: https://tecnico.ulisboa.pt/en/
-[istcert]: https://cdn.hacdias.com/uploads/b46c4b5b2ecc0d859ced90ed5ad0977aae09887f6b4a017f480aab5e7a1d4499.pdf
+[istcert]: https://cdn.hacdias.com/uploads/bsc-certificate.pdf
 [tue]: https://tue.nl
 [ipfs]: https://ipfs.io
 [gh]: https://github.com/hacdias

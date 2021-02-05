@@ -26,6 +26,6 @@ Here's the talk:
 
 {{< youtube EmxUyuCD37Q >}}
 
-The [slides deck](https://cdn.hacdias.com/uploads/39b734cd0db2d8cce10bd561a3aa3cdf9ae481c47a65a865a84b507995743c14.pdf).
+The [slides deck](https://cdn.hacdias.com/uploads/2019-12-quick-dive-into-dweb-ipfs.pdf).
 
 <!--more-->
