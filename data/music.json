@@ -1,53 +1,53 @@
 {
   "artists": [
     {
+      "name": "Dua Lipa",
+      "count": 21,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
       "name": "Miley Cyrus",
-      "count": 25,
+      "count": 20,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Lady Gaga",
-      "count": 15,
+      "count": 18,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Sia",
-      "count": 15,
+      "count": 16,
       "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "Allie X",
-      "count": 11,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
       "name": "Alma",
-      "count": 11,
+      "count": 14,
       "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Dua Lipa",
-      "count": 10,
-      "url": "https://www.last.fm/music/Dua+Lipa"
+      "name": "Allie X",
+      "count": 12,
+      "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Slayyyter",
-      "count": 9,
+      "count": 12,
       "url": "https://www.last.fm/music/Slayyyter"
     },
     {
       "name": "Troye Sivan",
-      "count": 9,
+      "count": 12,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Grimes",
-      "count": 7,
-      "url": "https://www.last.fm/music/Grimes"
+      "name": "Kim Petras",
+      "count": 9,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Imagine Dragons",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Imagine+Dragons"
     }
   ],
@@ -55,26 +55,14 @@
     {
       "name": "Courage To Change",
       "url": "https://www.last.fm/music/Sia/_/Courage+To+Change",
-      "count": 7,
+      "count": 6,
       "artist": "Sia"
     },
     {
-      "name": "Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Edge+of+Midnight+(Midnight+Sky+Remix)+(feat.+Stevie+Nicks)",
-      "count": 6,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Stay All Night",
-      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
+      "name": "Don't Start Now",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
       "count": 5,
-      "artist": "Alma"
-    },
-    {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 5,
-      "artist": "Grimes"
+      "artist": "Dua Lipa"
     },
     {
       "name": "Switch",
@@ -83,34 +71,46 @@
       "artist": "Iggy Azalea"
     },
     {
+      "name": "Oh My!",
+      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
+      "count": 5,
+      "artist": "Melodysheep"
+    },
+    {
+      "name": "Troubled Paradise",
+      "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
+      "count": 5,
+      "artist": "Slayyyter"
+    },
+    {
+      "name": "Stay All Night",
+      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
+      "count": 4,
+      "artist": "Alma"
+    },
+    {
+      "name": "Fever",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
+      "count": 4,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "IDORU",
+      "url": "https://www.last.fm/music/Grimes/_/IDORU",
+      "count": 4,
+      "artist": "Grimes"
+    },
+    {
       "name": "Used To Love Me",
       "url": "https://www.last.fm/music/Kandi/_/Used+To+Love+Me",
-      "count": 5,
+      "count": 4,
       "artist": "Kandi"
     },
     {
-      "name": "Plastic Hearts",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Plastic+Hearts",
-      "count": 5,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Snowman",
-      "url": "https://www.last.fm/music/Sia/_/Snowman",
-      "count": 5,
-      "artist": "Sia"
-    },
-    {
-      "name": "Fico Assim Sem Você",
-      "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
+      "name": "Dance in the Dark",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Dance+in+the+Dark",
       "count": 4,
-      "artist": "Adriana Calcanhotto"
-    },
-    {
-      "name": "Madame X",
-      "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
-      "count": 4,
-      "artist": "Allie X"
+      "artist": "Lady Gaga"
     }
   ]
 }
