@@ -1813,6 +1813,16 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2021-02-07T12:58:26.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "The Rain",
+      "watched": "2021-02-07T12:33:54.000Z",
+      "url": "https://trakt.tv/shows/the-rain"
+    },
+    {
       "title": "RuPaul's Drag Race",
       "watched": "2021-02-06T16:00:15.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
@@ -1841,11 +1851,6 @@
       "title": "The Good Place",
       "watched": "2021-02-02T09:05:31.000Z",
       "url": "https://trakt.tv/shows/the-good-place"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2021-01-30T11:04:38.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
     },
     {
       "title": "BONDiNG",
