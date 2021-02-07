@@ -1,29 +1,34 @@
 {
   "artists": [
     {
+      "name": "Sia",
+      "count": 33,
+      "url": "https://www.last.fm/music/Sia"
+    },
+    {
       "name": "Dua Lipa",
-      "count": 21,
+      "count": 24,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Miley Cyrus",
-      "count": 20,
+      "count": 21,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Lady Gaga",
-      "count": 18,
+      "count": 20,
       "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Sia",
-      "count": 16,
-      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Alma",
       "count": 14,
       "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Troye Sivan",
+      "count": 14,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Allie X",
@@ -34,11 +39,6 @@
       "name": "Slayyyter",
       "count": 12,
       "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
-      "name": "Troye Sivan",
-      "count": 12,
-      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Kim Petras",
@@ -59,8 +59,20 @@
       "artist": "Sia"
     },
     {
+      "name": "Snowman",
+      "url": "https://www.last.fm/music/Sia/_/Snowman",
+      "count": 6,
+      "artist": "Sia"
+    },
+    {
       "name": "Don't Start Now",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
+      "count": 5,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "Fever",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
       "count": 5,
       "artist": "Dua Lipa"
     },
@@ -71,10 +83,10 @@
       "artist": "Iggy Azalea"
     },
     {
-      "name": "Oh My!",
-      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
+      "name": "Used To Love Me",
+      "url": "https://www.last.fm/music/Kandi/_/Used+To+Love+Me",
       "count": 5,
-      "artist": "Melodysheep"
+      "artist": "Kandi"
     },
     {
       "name": "Troubled Paradise",
@@ -89,28 +101,16 @@
       "artist": "Alma"
     },
     {
-      "name": "Fever",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
+      "name": "Future Nostalgia",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
       "count": 4,
       "artist": "Dua Lipa"
     },
     {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
+      "name": "Physical",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
       "count": 4,
-      "artist": "Grimes"
-    },
-    {
-      "name": "Used To Love Me",
-      "url": "https://www.last.fm/music/Kandi/_/Used+To+Love+Me",
-      "count": 4,
-      "artist": "Kandi"
-    },
-    {
-      "name": "Dance in the Dark",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Dance+in+the+Dark",
-      "count": 4,
-      "artist": "Lady Gaga"
+      "artist": "Dua Lipa"
     }
   ]
 }
