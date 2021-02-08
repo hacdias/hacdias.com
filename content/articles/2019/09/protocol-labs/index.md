@@ -7,6 +7,7 @@ aliases:
   - /projects/protocol-labs/
   - /articles/2019/09/14/1/protocol-labs
 date: 2019-09-14T09:00:00.000Z
+expiryDate: 2021-02-02T09:00:00.000Z
 description: >
   Protocol Labs is a research and development institution for improving the
   Internet technology. Focusing on IPFS, the InterPlanetary File System, we're
@@ -23,11 +24,8 @@ In late **2017**, I was offered an Open Source Scholarship at Protocol Labs with
 
 ## Achievements
 
-- Shipped the [Awesome IPFS][1] website, a compilation of the most fascinating projects, datasets, tools and other material built using IPFS technology.
-- Lead maintainer of [IPFS Desktop][2], an Electron application with over 800 weekly users and the most widely used IPFS client.
-- Shipped [IPFS Web UI][3], a React-based web application used as a front-end to the IPFS world.
+- Shipped the [Awesome IPFS][https://awesome.ipfs.io] website, a compilation of the most fascinating projects, datasets, tools and other material built using IPFS technology.
+- Lead maintainer of [IPFS Desktop][https://github.com/ipfs-shipyard/ipfs-desktop], an Electron application with over 800 weekly users and the most widely used IPFS client.
+- Shipped [IPFS Web UI][https://github.com/ipfs-shipyard/ipfs-webui], a React-based web application used as a front-end to the IPFS world.
 
-[1]: https://awesome.ipfs.io
-[2]: https://github.com/ipfs-shipyard/ipfs-desktop
-[3]: https://github.com/ipfs-shipyard/ipfs-webui
 [4]: /articles/2018/10/working-at-protocol-labs/

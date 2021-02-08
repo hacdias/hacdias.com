@@ -7,6 +7,7 @@ aliases:
   - /projects/pplware/
   - /articles/2016/09/11/1/pplware
 date: 2016-09-11T12:10:00.000Z
+expiryDate: 2021-02-02T09:00:00.000Z
 description: >
   Pplware is a portuguese project that delivers the most recent news about
   technology to the Portuguese-speaking community.

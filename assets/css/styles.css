@@ -454,17 +454,6 @@ figure.right {
   margin-left: 1.5rem;
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
-  grid-gap: 1rem;
-  margin: 1rem 0;
-}
-
-.grid figure {
-  margin: 0;
-}
-
 .inline-form {
   display:flex;
 }
@@ -550,6 +539,7 @@ figure.right {
 @media print {
   body {
     background: white !important;
+    font-size: 11pt;
   }
 
   .container {
@@ -557,12 +547,6 @@ figure.right {
     max-width: 100%;
     margin: 0;
     padding: 0;
-    clip-path: none;
-    box-shadow: none;
-  }
-
-  .container:before {
-    content: unset;
   }
 
   #header,

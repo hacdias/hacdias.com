@@ -7,6 +7,7 @@ aliases:
   - /projects/upframe/
   - /articles/2017/04/11/1/upframe
 date: 2017-04-11T12:10:00.000Z
+expiryDate: 2021-02-02T09:00:00.000Z
 description: >
   Upframe aims to become a global reference and authority in pre-acceleration,
   shaping the next generation of entrepreneurs by building an immersive
