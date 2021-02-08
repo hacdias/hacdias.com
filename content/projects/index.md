@@ -24,7 +24,7 @@ type: page
 This is a list of some of my most important and interesting projects I've worked on. Please check out my [GitHub](https://github.com/hacdias) for more packages!
 
 <div class="grid">
-  {{< project title="Testground" desc="Testing decentralized systems." img="testground.jpg" url="http://testground.ai/" >}}
+  {{< project title="Testground" desc="Testing decentralized systems." img="testground.png" url="http://testground.ai/" >}}
   {{< project title="IPFS Desktop" desc="IPFS official desktop client." img="ipfs-desktop.jpg" url="https://github.com/ipfs-shipyard/ipfs-desktop" >}}
   {{< project title="IPFS Web UI" desc="IPFS management UI." img="ipfs-webui.jpg" url="https://github.com/ipfs-shipyard/ipfs-webui" >}}
   {{< project title="Upframe" desc="Helping young entrepreneurs." img="upframe.jpg" url="../about/#upframe" >}}
