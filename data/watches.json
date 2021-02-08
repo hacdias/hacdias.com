@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "Tiny Pretty Things",
+      "watched": "2021-02-08T19:29:37.000Z",
+      "url": "https://trakt.tv/shows/tiny-pretty-things"
+    },
+    {
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2021-02-07T12:58:26.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
@@ -1831,11 +1836,6 @@
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-02-06T11:20:48.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "Tiny Pretty Things",
-      "watched": "2021-02-04T22:28:02.000Z",
-      "url": "https://trakt.tv/shows/tiny-pretty-things"
     },
     {
       "title": "Snowpiercer",
