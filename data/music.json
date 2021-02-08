@@ -2,12 +2,17 @@
   "artists": [
     {
       "name": "Sia",
-      "count": 33,
+      "count": 34,
       "url": "https://www.last.fm/music/Sia"
     },
     {
+      "name": "Lady Gaga",
+      "count": 26,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
       "name": "Dua Lipa",
-      "count": 24,
+      "count": 25,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
@@ -16,13 +21,8 @@
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Lady Gaga",
-      "count": 20,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Alma",
-      "count": 14,
+      "count": 15,
       "url": "https://www.last.fm/music/Alma"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "name": "Allie X",
-      "count": 12,
+      "count": 13,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Slayyyter",
-      "count": 12,
+      "count": 13,
       "url": "https://www.last.fm/music/Slayyyter"
     },
     {
@@ -46,17 +46,17 @@
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Imagine Dragons",
-      "count": 8,
-      "url": "https://www.last.fm/music/Imagine+Dragons"
+      "name": "Grimes",
+      "count": 7,
+      "url": "https://www.last.fm/music/Grimes"
     }
   ],
   "tracks": [
     {
-      "name": "Courage To Change",
-      "url": "https://www.last.fm/music/Sia/_/Courage+To+Change",
+      "name": "Fever",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
       "count": 6,
-      "artist": "Sia"
+      "artist": "Dua Lipa"
     },
     {
       "name": "Snowman",
@@ -65,14 +65,14 @@
       "artist": "Sia"
     },
     {
-      "name": "Don't Start Now",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
-      "count": 5,
-      "artist": "Dua Lipa"
+      "name": "Troubled Paradise",
+      "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
+      "count": 6,
+      "artist": "Slayyyter"
     },
     {
-      "name": "Fever",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
+      "name": "Don't Start Now",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
       "count": 5,
       "artist": "Dua Lipa"
     },
@@ -89,10 +89,10 @@
       "artist": "Kandi"
     },
     {
-      "name": "Troubled Paradise",
-      "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
-      "count": 5,
-      "artist": "Slayyyter"
+      "name": "Loser",
+      "url": "https://www.last.fm/music/Alma/_/Loser",
+      "count": 4,
+      "artist": "Alma"
     },
     {
       "name": "Stay All Night",
