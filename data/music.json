@@ -7,33 +7,33 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 26,
+      "count": 32,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Dua Lipa",
-      "count": 25,
+      "count": 24,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Miley Cyrus",
-      "count": 21,
+      "count": 23,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Alma",
-      "count": 15,
-      "url": "https://www.last.fm/music/Alma"
+      "name": "Allie X",
+      "count": 16,
+      "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Troye Sivan",
-      "count": 14,
+      "count": 16,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Allie X",
-      "count": 13,
-      "url": "https://www.last.fm/music/Allie+X"
+      "name": "Alma",
+      "count": 14,
+      "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Slayyyter",
@@ -42,13 +42,13 @@
     },
     {
       "name": "Kim Petras",
-      "count": 9,
+      "count": 12,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Grimes",
-      "count": 7,
-      "url": "https://www.last.fm/music/Grimes"
+      "name": "Imagine Dragons",
+      "count": 11,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
     }
   ],
   "tracks": [
@@ -71,12 +71,6 @@
       "artist": "Slayyyter"
     },
     {
-      "name": "Don't Start Now",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
-      "count": 5,
-      "artist": "Dua Lipa"
-    },
-    {
       "name": "Switch",
       "url": "https://www.last.fm/music/Iggy+Azalea/_/Switch",
       "count": 5,
@@ -95,10 +89,10 @@
       "artist": "Alma"
     },
     {
-      "name": "Stay All Night",
-      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
+      "name": "Don't Start Now",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
       "count": 4,
-      "artist": "Alma"
+      "artist": "Dua Lipa"
     },
     {
       "name": "Future Nostalgia",
@@ -111,6 +105,12 @@
       "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
       "count": 4,
       "artist": "Dua Lipa"
+    },
+    {
+      "name": "Icy",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Icy",
+      "count": 4,
+      "artist": "Kim Petras"
     }
   ]
 }
