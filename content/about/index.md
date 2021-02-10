@@ -21,7 +21,7 @@ noMentions: true
 
 {{< cdnfig alt="Me!" name="2019-06-henrique" caption="Photo by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
 
-Hi, I'm Henrique (he/him)! 👋
+Hi, I'm Henrique! 👋
 
 I'm from a little a town in Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl), in Eindhoven 🇳🇱. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
 
