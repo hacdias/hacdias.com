@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: quay.io/jlelse/hugo:0.69.2
+      - image: registry.gitlab.com/pages/hugo/hugo_extended:0.80.0
     working_directory: ~/hugo
     steps:
       - checkout
