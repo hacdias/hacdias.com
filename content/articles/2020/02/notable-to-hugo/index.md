@@ -1,16 +1,15 @@
 ---
-aliases:
-  - /articles/2020/02/29/1/
-  - /articles/2020/02/29/1/notable-to-hugo
-date: 2020-02-29T21:37:00.000Z
-description: >
-  Here I describe my small journey so far with Notable and how I sync my
-  website's Knowledge Base it with.
-emoji: "\U0001F4D3"
-tags:
-  - meta
-  - notes
 title: How do I generate my knowledge base
+description: |
+  Here I describe my small journey so far with Notable and how I sync my website's Knowledge Base it with.
+tags:
+- meta
+- notes
+date: 2020-02-29T21:37:00Z
+aliases:
+- /articles/2020/02/29/1/
+- /articles/2020/02/29/1/notable-to-hugo
+emoji: "\U0001F4D3"
 ---
 
 For quite a few time, I used [Bear](https://bear.app/) as my go-to Notes application for two reasons: it was simple to use and the syntax was quite similar to markdown. However, it is not markdown and it does not support some things that'd like to see on such software: diagrams, mathematics, wiki-like links, etc.

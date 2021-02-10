@@ -1,14 +1,14 @@
 ---
-aliases:
-  - /notes/2020/01/26/1/
-  - /2020/01/26/1/optimize-js/
-  - /2020/01/26/1/
-  - /notes/2020/01/26/1/optimize-js/
-date: 2020-01-26T10:38:10.206Z
 tags:
-  - design
-  - javascript
-  - optimization
+- design
+- javascript
+- optimization
+date: 2020-01-26T10:38:10.206Z
+aliases:
+- /notes/2020/01/26/1/
+- /2020/01/26/1/optimize-js/
+- /2020/01/26/1/
+- /notes/2020/01/26/1/optimize-js/
 ---
 
 Just fixed the flickering issue by inlining the required JavaScript, which is a really small snippet. If you're curious about the code I'm using to toggle between the dark and light themes, following the user's choice and falling back to the OS settings, here it is:

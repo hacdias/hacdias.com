@@ -1,8 +1,8 @@
 ---
-date: 2020-07-18T09:25:47.181Z
 tags:
-  - meta
-  - activitypub
+- meta
+- activitypub
+date: 2020-07-18T09:25:47.181Z
 ---
 
 I've been in spring cleanup mode since yesterday and I started on GitHub and ended up archiving and deprecating dozens of repos that were either unmaintained or actually supposed to be deprecated.

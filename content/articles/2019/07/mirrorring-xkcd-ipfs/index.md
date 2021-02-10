@@ -1,21 +1,21 @@
 ---
-aliases:
-  - /articles/2019/07/05/1/
-  - /2019/07/05/01/mirrorring-xkcd-ipfs/
-  - /2019/07/05/01/
-  - /2019/07/mirrorring-xkcd-ipfs/
-  - /blog/2019/07/mirrorring-xkcd-ipfs/
-  - /blog/mirrorring-xkcd-ipfs/
-  - /articles/2019/07/05/1/mirrorring-xkcd-ipfs
-date: 2019-07-05T16:20:00.000Z
+title: Mirroring xkcd comics to IPFS
 description: |
   How I built a cloner for xkcd and keep the clone up to date on IPFS.
 tags:
-  - ipfs
-  - clone
-  - code
-  - decentralization
-title: Mirroring xkcd comics to IPFS
+- ipfs
+- clone
+- code
+- decentralization
+date: 2019-07-05T16:20:00Z
+aliases:
+- /articles/2019/07/05/1/
+- /2019/07/05/01/mirrorring-xkcd-ipfs/
+- /2019/07/05/01/
+- /2019/07/mirrorring-xkcd-ipfs/
+- /blog/2019/07/mirrorring-xkcd-ipfs/
+- /blog/mirrorring-xkcd-ipfs/
+- /articles/2019/07/05/1/mirrorring-xkcd-ipfs
 ---
 
 As many of you probably know, xkcd is a web comic created in 2005 by Randall Munroe. Its tagline is "A webcomic of romance, sarcasm, math, and language". You can read more about the web comic itself on their [website](https://xkcd.com/about/).

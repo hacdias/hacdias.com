@@ -1,10 +1,10 @@
 ---
 title: An End to Negativity by Chris Williams
-aliases:
-  - /notes/an-end-to-negativity-chris-williams/
 tags:
 - talks
 - chris_williams
+aliases:
+- /notes/an-end-to-negativity-chris-williams/
 ---
 
 {{< youtube 17rkSdkc5TI >}}

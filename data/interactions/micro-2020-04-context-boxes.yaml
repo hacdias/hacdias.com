@@ -1,0 +1,27 @@
+- wm-id: 780169
+  type: reply
+  url: https://seblog.nl/2020/04/09/2/reply
+  content: 'As you can see on my site: at the time of writing I don''t have them.
+    I do show a line with a summary of the post. It shows the author''s name, the
+    post''s title or just ''a post'' if nothing is available. I have been planning
+    for a long time to add context to it, but I would only do that on the detail-pages:
+    on feeds I would keep it as is. I think that might work very nicely for your design
+    too! But: as long as you show any preview at all, you''re not cutting the complexity
+    of the Mf2-fetching.'
+  date: 2020-04-09T07:07:16Z
+  author:
+    name: Sebastiaan Andeweg
+    url: https://seblog.nl/
+    photo: https://cdn.hacdias.com/webmentions/ed4100396ff7c8fbc29627af47d1e2dd6daef53107e79055e066a391d3299129.jpg
+- wm-id: 780164
+  type: mention
+  url: https://janboddez.tech/notes/14ce942433
+  content: |-
+    In reply to https://hacdias.com/notes/2020/04/08/3/context-boxes/.
+    Definitely useful! (I’m also still searching for a better way to display such context, and for now tend to explicitly mention the URL I’m referring to do, and maybe a blockquote. Minimal, but works for now.)
+    I still mostly follow blogs via RSS, however, and items in quite a few feeds out there (including yours, it seems) don’t show much context at all, which honestly can be a bit confusing.
+  date: 2020-04-09T06:10:00Z
+  author:
+    name: Jan Boddez
+    url: https://janboddez.tech/
+    photo: https://cdn.hacdias.com/webmentions/98256c604ea58c7ee1f914e7bba9884c09ecd538cf5675f1c4b4ce7b481f8417.jpg

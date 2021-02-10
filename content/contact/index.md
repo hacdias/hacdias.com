@@ -1,11 +1,7 @@
 ---
-type:  page
 title: Contact
-hideMentions: true
 emoji: ✉️
-menu:
-  main:
-    weight: 5
+noMentions: true
 ---
 
 <style>

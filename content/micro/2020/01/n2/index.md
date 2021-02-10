@@ -1,11 +1,11 @@
 ---
-aliases:
-  - /2020/01/19/3/
-  - /notes/2020/01/19/2/
-date: 2020-01-19T19:28:27.380Z
 tags:
-  - webmentions
-  - meta
+- webmentions
+- meta
+date: 2020-01-19T19:28:27.38Z
+aliases:
+- /2020/01/19/3/
+- /notes/2020/01/19/2/
 ---
 
 Oopsie doopsie. Just found a bug on my webmention endpoint where I was not writing the webmentions to the correct endpoint. Right now, I'm storing them as plain webmentions from webmention.io. Probably I should think about a simpler way to store them to parse them easily later on the theme.

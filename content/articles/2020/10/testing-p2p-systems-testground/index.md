@@ -1,13 +1,13 @@
 ---
-date: "2020-10-19T09:00:00.000+02:00"
-properties:
-  syndication: https://twitter.com/hacdias/status/1318089432113815553
+title: Testing peer-to-peer systems with Testground
 tags:
 - testing
 - decentralization
 - testground
 - mondayletter
-title: Testing peer-to-peer systems with Testground
+date: 2020-10-19T09:00:00+02:00
+syndication:
+- https://twitter.com/hacdias/status/1318089432113815553
 ---
 
 "Test, test, test" is a well known sentence right now due to the current circumstances. However, it does not apply only to Covid-19 or other diseases. Testing is one word that all of us have dreamt - or had nightmares - about in the past. It is also one crucial part and step in the Software Engineering and Development process, as it allows to verify and ensure that a certain system behaves as expected. At least, for known cases!

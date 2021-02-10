@@ -1,10 +1,22 @@
 ---
-date: 2020-06-01T13:51:07.720Z
-properties:
-  in-reply-to: 'https://janboddez.tech/notes/b6b59a1630'
 tags:
-  - meta
-  - thanks
+- meta
+- thanks
+date: 2020-06-01T13:51:07.72Z
+replyTo:
+  url: https://janboddez.tech/notes/b6b59a1630
+  content: 'In reply to https://hacdias.com/articles/2020/05/back-90s/. Love the animated
+    GIFs! The background! One thing: my feed reader has a hard time handling the relative
+    image URLs in your RSS … (Hint: https://validator.w3.org/feed/docs/warning/ContainsRelRef.html.
+    [I only know about this link because I ran into the same thing —different blog,
+    though—earlier this week.]) (Also, I couldn’t help but notice that RSS items lack
+    the “context” that makes replies and such so much more understandable. Not a huge
+    issue, just thought I’d let you know.)'
+  date: 2020-06-01T13:20:27Z
+  author:
+    name: Jan Boddez
+    url: https://janboddez.tech/
+    photo: https://janboddez.tech/uploads/avatars/mastodon-social-janboddez.jpg
 ---
 
 > Love the animated GIFs! The background!

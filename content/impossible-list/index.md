@@ -1,7 +1,7 @@
 ---
-date: "2020-07-15T00:00:00.000Z"
-lastmod: "2021-01-28T00:00:00.000Z"
 title: Impossible List
+date: 2020-07-15T00:00:00Z
+lastmod: 2021-01-28T00:00:00Z
 ---
 
 <style>

@@ -1,21 +1,20 @@
 ---
-aliases:
-  - /articles/2020/02/22/1/
-  - /articles/2020/02/22/1/trakt-analysis
-date: 2020-02-22T22:05:00.000Z
-description: >
-  I now have a watch log again and decided to analyse 2019's habits of TV shows
-  and movie watching.
-emoji: "\U0001F3AC"
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1231484792027348994'
-tags:
-  - meta
-  - movies
-  - series
-  - ownyourowndata
-  - analyse
 title: Analyzing my shows and movie habits
+description: |
+  I now have a watch log again and decided to analyse 2019's habits of TV shows and movie watching.
+tags:
+- meta
+- movies
+- series
+- ownyourowndata
+- analyse
+date: 2020-02-22T22:05:00Z
+syndication:
+- https://twitter.com/hacdias/status/1231484792027348994
+aliases:
+- /articles/2020/02/22/1/
+- /articles/2020/02/22/1/trakt-analysis
+emoji: "\U0001F3AC"
 ---
 
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of

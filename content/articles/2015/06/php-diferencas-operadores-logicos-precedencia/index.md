@@ -1,21 +1,19 @@
 ---
-aliases:
-  - /articles/2015/06/10/1/
-  - /2015/06/10/01/php-diferencas-operadores-logicos-precedencia/
-  - /2015/06/10/01/
-  - /2015/06/php-diferencas-operadores-logicos-precedencia/
-  - /blog/2015/06/php-diferencas-operadores-logicos-precedencia/
-  - /blog/php-diferencas-operadores-logicos-precedencia/
-  - >-
-    /articles/2015/06/10/1/php-diferencas-operadores-logicos-precedencia
-lastmod: 2015-06-10T15:01:00.000Z
-description: >-
-  Depois de publicar um artigo sobre as diferenças entre os operadores '==' e
-  '===', vou falar sobre as diferenças entre os operadores '&&/||' e 'AND/OR'.
-date: 2014-07-28T11:00:32.000Z
-tags:
-  - php
 title: PHP - Diferenças entre '&&/||' e 'AND/OR'
+description: Depois de publicar um artigo sobre as diferenças entre os operadores
+  '==' e '===', vou falar sobre as diferenças entre os operadores '&&/||' e 'AND/OR'.
+tags:
+- php
+date: 2014-07-28T11:00:32Z
+lastmod: 2015-06-10T15:01:00Z
+aliases:
+- /articles/2015/06/10/1/
+- /2015/06/10/01/php-diferencas-operadores-logicos-precedencia/
+- /2015/06/10/01/
+- /2015/06/php-diferencas-operadores-logicos-precedencia/
+- /blog/2015/06/php-diferencas-operadores-logicos-precedencia/
+- /blog/php-diferencas-operadores-logicos-precedencia/
+- /articles/2015/06/10/1/php-diferencas-operadores-logicos-precedencia
 ---
 
 Há alguns dias publiquei um artigo onde expliquei as [diferenças entre os operadores `==` e `===`](/articles/2014/07/diferencas-entre-igual-identico-php/). Depois de partilhar esse artigo no Google Plus, a comunidade PHP Brasil sugeriu-me que falasse sobre as diferenças entre os operadores `&&`/`||` e `AND`/`OR`.

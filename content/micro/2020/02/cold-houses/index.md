@@ -1,13 +1,13 @@
 ---
-aliases:
-  - /notes/2020/02/12/1/
-  - /2020/02/12/1/cold-houses/
-  - /2020/02/12/1/
-  - /notes/2020/02/12/1/cold-houses/
-date: 2020-02-12T09:13:24.415Z
 tags:
-  - portugal
-  - construction
+- portugal
+- construction
+date: 2020-02-12T09:13:24.415Z
+aliases:
+- /notes/2020/02/12/1/
+- /2020/02/12/1/cold-houses/
+- /2020/02/12/1/
+- /notes/2020/02/12/1/cold-houses/
 ---
 
 Why are houses in Portugal so cold in general? Ugh... it seems we don't know how to build houses. Everywhere we go in Europe, we can see warm houses. Ours are cold in the winter and some can even be cold enough in summer to be uncomfortable.

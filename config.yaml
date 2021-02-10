@@ -31,6 +31,27 @@ params:
 taxonomies:
   tag: tags
 
+menu:
+  main:
+  - name: 🧔 About
+    url: /about/
+    weight: 1
+  - name: ✏️ Articles
+    url: /articles/
+    weight: 2
+  - name: 💬 Micro
+    url: /micro/
+    weight: 3
+  - name: 📷 Darkroom
+    url: /darkroom/
+    weight: 4
+  - name: ✉️ Contact
+    url: /contact/
+    weight: 5
+  - name: ⚡️ Follow
+    url: /follow/
+    weight: 6
+
 markup:
   goldmark:
     renderer:

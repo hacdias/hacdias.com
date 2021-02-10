@@ -1,21 +1,20 @@
 ---
-aliases:
-  - /articles/2014/11/07/1/
-  - /2014/11/07/01/the-society-and-the-objects/
-  - /2014/11/07/01/
-  - /2014/11/the-society-and-the-objects/
-  - /blog/2014/11/the-society-and-the-objects/
-  - /blog/the-society-and-the-objects/
-  - /articles/2014/11/07/1/the-society-and-the-objects
-date: 2014-11-07T20:28:27.000Z
-description: >-
-  Presently, the people love the objects. Sometimes, more than they love the
-  people. Is this good? Or not?
-tags:
-  - reflexão
-  - sociedade
-  - society
 title: The Society and the Objects
+description: Presently, the people love the objects. Sometimes, more than they love
+  the people. Is this good? Or not?
+tags:
+- reflexão
+- sociedade
+- society
+date: 2014-11-07T20:28:27Z
+aliases:
+- /articles/2014/11/07/1/
+- /2014/11/07/01/the-society-and-the-objects/
+- /2014/11/07/01/
+- /2014/11/the-society-and-the-objects/
+- /blog/2014/11/the-society-and-the-objects/
+- /blog/the-society-and-the-objects/
+- /articles/2014/11/07/1/the-society-and-the-objects
 ---
 
 Presently, the people love the objects. Sometimes, more than they love the people. Is this good? Or not?

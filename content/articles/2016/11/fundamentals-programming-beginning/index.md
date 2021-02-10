@@ -1,13 +1,12 @@
 ---
+title: 'The Fundamentals of Programming #1: Beginning'
+date: 2016-11-10T00:00:00Z
 aliases:
-  - /articles/2016/11/10/1/
-  - /2016/11/10/01/fundamentals-programming-beginning/
-  - /2016/11/10/01/
-  - /2016/11/fundamentals-programming-beginning/
-  - >-
-    /articles/2016/11/10/1/fundamentals-programming-beginning
-date: 2016-11-10T00:00:00.000Z
-title: "The Fundamentals of Programming #1:\_Beginning"
+- /articles/2016/11/10/1/
+- /2016/11/10/01/fundamentals-programming-beginning/
+- /2016/11/10/01/
+- /2016/11/fundamentals-programming-beginning/
+- /articles/2016/11/10/1/fundamentals-programming-beginning
 ---
 
 This is the first article of The Fundamentals of Programming Using

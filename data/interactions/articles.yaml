@@ -1,0 +1,62 @@
+- wm-id: 785203
+  type: mention
+  url: https://kevq.uk/blogroll/
+  date: 2020-04-21T09:06:13Z
+- wm-id: 779498
+  type: mention
+  url: https://hub.iwebthings.com/04-07-20/
+  content: |-
+    Henrique Dias
+    Duncan Stephen
+    Ben Stern
+
+
+    visit the daily pointers
+  date: 2020-04-07T09:14:13Z
+  author:
+    name: joe jenett
+    url: https://hub.iwebthings.com/author/admin/
+    photo: https://cdn.hacdias.com/webmentions/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png
+- wm-id: 744449
+  type: mention
+  url: https://hub.iwebthings.com/01-06-20/
+  content: |-
+    Henrique Dias (new)
+
+
+    Jan Erik Moström ＋
+
+    Joel Simon
+  date: 2020-01-06T10:28:00Z
+  author:
+    name: joe jenett
+    url: https://hub.iwebthings.com/
+    photo: https://cdn.hacdias.com/webmentions/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png
+- wm-id: 741159
+  type: mention
+  url: https://pointers.dailywebthing.com/01-06-20/
+  content: |-
+    Henrique Dias (new)
+    Jan Erik Moström ＋
+    Joel Simon
+
+    https://pointers.dailywebthing.com/01-06-20/
+  date: 2020-01-06T05:28:00Z
+  author:
+    name: joe jenett
+    url: https://pointers.dailywebthing.com/author/admin/
+    photo: https://cdn.hacdias.com/webmentions/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png
+- wm-id: 808065
+  type: mention
+  url: https://pointers.dailywebthing.com/06-09-20/
+  content: |-
+    mimi smartypants
+    hacdias
+    p5aholic
+
+    https://pointers.dailywebthing.com/06-09-20/
+  date: 2020-06-09T05:17:31Z
+  author:
+    name: joe jenett
+    url: https://pointers.dailywebthing.com/author/admin/
+    photo: https://cdn.hacdias.com/webmentions/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png

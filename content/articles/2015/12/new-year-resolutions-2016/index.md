@@ -1,17 +1,16 @@
 ---
-aliases:
-  - /articles/2015/12/31/1/
-  - /2015/12/31/01/new-year-resolutions-2016/
-  - /2015/12/31/01/
-  - /2015/12/new-year-resolutions-2016/
-  - /blog/2015/12/new-year-resolutions-2016/
-  - /blog/new-year-resolutions-2016/
-  - /articles/2015/12/31/1/new-year-resolutions-2016
-date: 2015-12-31T12:00:00.000Z
-description: >-
-  2015 has been a very meaningful year. 2016 needs to be better than 2015 and so
-  on. Here are my New Year's resolutions.
 title: New Year's Resolutions for 2016
+description: 2015 has been a very meaningful year. 2016 needs to be better than 2015
+  and so on. Here are my New Year's resolutions.
+date: 2015-12-31T12:00:00Z
+aliases:
+- /articles/2015/12/31/1/
+- /2015/12/31/01/new-year-resolutions-2016/
+- /2015/12/31/01/
+- /2015/12/new-year-resolutions-2016/
+- /blog/2015/12/new-year-resolutions-2016/
+- /blog/new-year-resolutions-2016/
+- /articles/2015/12/31/1/new-year-resolutions-2016
 ---
 
 One year more has passed. It seems like yesterday I was turning thirteen. Nostalgia. 2015 has been very turbulent and troubled year, but still amazing and meaningful. It has been very antithetical in so many ways I can't tell you. But being that way helped me to grow more than in the years before - growing is a continuous process we should never fear.

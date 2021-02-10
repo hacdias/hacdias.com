@@ -1,17 +1,16 @@
 ---
-aliases:
-  - /articles/2018/10/27/1/
-  - /2018/10/27/01/working-at-protocol-labs/
-  - /2018/10/27/01/
-  - /2018/10/working-at-protocol-labs/
-  - /blog/2018/10/working-at-protocol-labs/
-  - /blog/working-at-protocol-labs/
-  - /articles/2018/10/27/1/working-at-protocol-labs
-date: 2018-10-27T00:00:00.000Z
-description: >
-  I joined Protocol Labs in November 2017 and it is being an incredible
-  experience so far.
 title: First year at Protocol Labs
+description: |
+  I joined Protocol Labs in November 2017 and it is being an incredible experience so far.
+date: 2018-10-27T00:00:00Z
+aliases:
+- /articles/2018/10/27/1/
+- /2018/10/27/01/working-at-protocol-labs/
+- /2018/10/27/01/
+- /2018/10/working-at-protocol-labs/
+- /blog/2018/10/working-at-protocol-labs/
+- /blog/working-at-protocol-labs/
+- /articles/2018/10/27/1/working-at-protocol-labs
 ---
 
 I've been wanting to write about my journey at [Protocol Labs][4] for a while already. Well,

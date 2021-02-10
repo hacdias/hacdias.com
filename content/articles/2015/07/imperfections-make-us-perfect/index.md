@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2015/07/12/1/
-  - /2015/07/12/01/imperfections-make-us-perfect/
-  - /2015/07/12/01/
-  - /2015/07/imperfections-make-us-perfect/
-  - /blog/2015/07/imperfections-make-us-perfect/
-  - /blog/imperfections-make-us-perfect/
-  - /articles/2015/07/12/1/imperfections-make-us-perfect
-date: 2015-07-12T13:45:00.000Z
-description: >-
-  I was thinking about why there are people who think we are perfect. This is a
-  little reflexion about it and about those people.
-tags:
-  - opinion
 title: Imperfections make us perfect
+description: I was thinking about why there are people who think we are perfect. This
+  is a little reflexion about it and about those people.
+tags:
+- opinion
+date: 2015-07-12T13:45:00Z
+aliases:
+- /articles/2015/07/12/1/
+- /2015/07/12/01/imperfections-make-us-perfect/
+- /2015/07/12/01/
+- /2015/07/imperfections-make-us-perfect/
+- /blog/2015/07/imperfections-make-us-perfect/
+- /blog/imperfections-make-us-perfect/
+- /articles/2015/07/12/1/imperfections-make-us-perfect
 ---
 
 Sometimes, I look through a window. My bedroom window. It faces the road. I see cars. There are thousand of them. All different: in shape, in colour, in size. But that's only the outside. Their inside is all made of the same essence.

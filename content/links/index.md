@@ -1,11 +1,10 @@
 ---
-aliases:
-  - /pins
-lastmod: 2020-10-09T16:00:00.000Z
-emoji: "\U0001F517"
-date: 2020-02-12T21:00:00.000Z
 title: Links
-type: page
+date: 2020-02-12T21:00:00Z
+lastmod: 2020-10-09T16:00:00Z
+aliases:
+- /pins
+emoji: "\U0001F517"
 layout: bookmarks
 ---
 

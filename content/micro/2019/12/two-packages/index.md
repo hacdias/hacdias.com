@@ -1,16 +1,16 @@
 ---
-aliases:
-  - /notes/2019/12/31/1/
-  - /2019/12/31/04/two-packages/
-  - /2019/12/31/04/
-  - /notes/2019/12/31/1/two-packages/
-date: 2019-12-31T13:01:18.887Z
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1211996203514290176'
 tags:
-  - packages
-  - indieauth
-  - micropub
+- packages
+- indieauth
+- micropub
+date: 2019-12-31T13:01:18.887Z
+syndication:
+- https://twitter.com/hacdias/status/1211996203514290176
+aliases:
+- /notes/2019/12/31/1/
+- /2019/12/31/04/two-packages/
+- /2019/12/31/04/
+- /notes/2019/12/31/1/two-packages/
 ---
 
 Just published two minimal packages to help building micropub applications!

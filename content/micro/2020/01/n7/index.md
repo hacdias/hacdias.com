@@ -1,11 +1,11 @@
 ---
-aliases:
-  - /2020/01/22/9/
-  - /notes/2020/01/22/2/
-date: 2020-01-22T21:17:18.565Z
 tags:
-  - citation
-  - books
+- citation
+- books
+date: 2020-01-22T21:17:18.565Z
+aliases:
+- /2020/01/22/9/
+- /notes/2020/01/22/2/
 ---
 
 🇵🇹 Uma citação da qual sempre gostei imenso, de um livro que não esperava ler. Fica aqui, for the record:

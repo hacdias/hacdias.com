@@ -1,10 +1,10 @@
 ---
 title: Building Compassionate Communities in Tech by Isaac Schlueter
-aliases:
-  - /notes/building-compassionate-communities-in-tech-isaac-schlueter/
 tags:
 - opensource
 - talks
+aliases:
+- /notes/building-compassionate-communities-in-tech-isaac-schlueter/
 ---
 
 {{< youtube 8kLIonLrKdQ >}}

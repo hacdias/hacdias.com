@@ -1,9 +1,8 @@
 ---
 title: Darkroom
-emoji: 📷
 aliases:
-  - /tags/lifethroughlenses/
-menu:
-  main:
-    weight: 4
+- /tags/lifethroughlenses/
+emoji: "\U0001F4F7"
 ---
+
+

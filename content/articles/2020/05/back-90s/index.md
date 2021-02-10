@@ -1,16 +1,15 @@
 ---
-date: 2020-05-31T21:24:00.000Z
-description: >
-  Do you remember the old days of the web? Where everyone had their own website,
-  made by hand, emanating personality. We should bring that back!
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1267207180698169345'
-tags:
-  - ownyourowndata
-  - meta
-  - web
-  - decentralization
 title: Back to the web of the 90s
+description: |
+  Do you remember the old days of the web? Where everyone had their own website, made by hand, emanating personality. We should bring that back!
+tags:
+- ownyourowndata
+- meta
+- web
+- decentralization
+date: 2020-05-31T21:24:00Z
+syndication:
+- https://twitter.com/hacdias/status/1267207180698169345
 ---
 
 <style>

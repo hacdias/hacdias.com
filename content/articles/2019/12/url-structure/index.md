@@ -1,18 +1,17 @@
 ---
-aliases:
-  - /articles/2019/12/28/1/
-  - /2019/12/28/06/url-structure/
-  - /2019/12/28/06/
-  - /articles/2019/12/28/1/url-structure
-date: 2019-12-28T15:30:00.000Z
-description: >
-  Data is a topic I've been wanting to write about for quite some time. Do we
-  own our data? What should we do about it?
-tags:
-  - indieweb
-  - url
-  - meta
 title: URL Structure
+description: |
+  Data is a topic I've been wanting to write about for quite some time. Do we own our data? What should we do about it?
+tags:
+- indieweb
+- url
+- meta
+date: 2019-12-28T15:30:00Z
+aliases:
+- /articles/2019/12/28/1/
+- /2019/12/28/06/url-structure/
+- /2019/12/28/06/
+- /articles/2019/12/28/1/url-structure
 ---
 
 I’m now working on making my website more IndieWeb friendly, which was triggered by my searches after writing my last post about [owning our own data](/articles/2019/12/own-your-data/). It has been… harder than I though. But in a positive way!

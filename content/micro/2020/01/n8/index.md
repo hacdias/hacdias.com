@@ -1,13 +1,13 @@
 ---
-aliases:
-  - /2020/01/24/2/
-  - /notes/2020/01/24/1/
-date: 2020-01-24T11:33:44.527Z
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1220671045545484288'
 tags:
-  - trains
-  - winter
+- trains
+- winter
+date: 2020-01-24T11:33:44.527Z
+syndication:
+- https://twitter.com/hacdias/status/1220671045545484288
+aliases:
+- /2020/01/24/2/
+- /notes/2020/01/24/1/
 ---
 
 It’s so freezing inside this train. I don’t understand why they need to have the always cold AC on when it’s winter and it’s cold outside.

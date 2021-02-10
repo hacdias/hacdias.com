@@ -1,10 +1,10 @@
 ---
-date: 2020-09-28T09:00:00.000+02:00
 title: A take on approximation algorithms
-math: true
 tags:
-  - algorithms
-  - mondayletter
+- algorithms
+- mondayletter
+date: 2020-09-28T09:00:00+02:00
+math: true
 ---
 
 I recently started my Master's degree in Computer Science and Engineering (MSCE) and one of the first courses I am following is Advanced Algorithms. It is actually the only single course that is mandatory for all MSCE students, independently of the track/stream they chose. I chose the Web Stream.

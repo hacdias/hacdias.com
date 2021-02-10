@@ -1,11 +1,23 @@
 ---
-date: "2020-12-10T07:13:00Z"
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2020/12/crypto-bs
 tags:
-  - blockchain
-  - cryptocurrencies
-  - ethereum
+- blockchain
+- cryptocurrencies
+- ethereum
+date: 2020-12-10T07:13:00Z
+replyTo:
+  url: https://jlelse.blog/thoughts/2020/12/crypto-bs
+  content: One keeps hearing about some cryptocurrency projects and how people got
+    rich with Bitcoin. But somehow I don’t understand the whole purpose behind it
+    and I’m beginning to suspect that it’s just a pyramid scheme.Wouldn’t there be
+    much better ways to exchange money anonymously and uncensored? In order to generate
+    any kind of coins, a lot of electricity is used (also from fossil fuels or atomic
+    energy), but until today no project based on cryptocurrencies or the blockchain
+    principle has really caught on. Or am I wrong?
+  date: 2020-12-09T19:37:13Z
+  author:
+    name: Jan-Lukas Else
+    url: https://jlelse.dev/
+    photo: https://jlelse.dev/profile.png
 ---
 
 Well, I'm going to try to quickly explain the best I can. First of all, blockchain and cryptocurrencies are not interchangeable. Secondly, "crypto" was historically used to refer to cryptography and not cryptocurrencies. I don't agree with whoever started this trend.

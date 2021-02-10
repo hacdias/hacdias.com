@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2016/03/05/1/
-  - /2016/03/05/01/hello-world/
-  - /2016/03/05/01/
-  - /2016/03/hello-world/
-  - /blog/2016/03/hello-world/
-  - /blog/hello-world/
-  - /articles/2016/03/05/1/hello-world
-date: 2016-03-05T10:25:00.000Z
-description: >-
-  This is the first newsletter issue I'm writing. Today, I leave you with some
-  posts I recommend you, an inspiring phrase and the reasons made me start this!
+title: Hello, World!
+description: This is the first newsletter issue I'm writing. Today, I leave you with
+  some posts I recommend you, an inspiring phrase and the reasons made me start this!
 tags:
-  - newsletter
-title: 'Hello, World!'
+- newsletter
+date: 2016-03-05T10:25:00Z
+aliases:
+- /articles/2016/03/05/1/
+- /2016/03/05/01/hello-world/
+- /2016/03/05/01/
+- /2016/03/hello-world/
+- /blog/2016/03/hello-world/
+- /blog/hello-world/
+- /articles/2016/03/05/1/hello-world
 ---
 
 Hello, world!

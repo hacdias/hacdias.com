@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2014/08/31/1/
-  - /2014/08/31/01/php-56-funcoes-variadicas-nova-sintaxe/
-  - /2014/08/31/01/
-  - /2014/08/php-56-funcoes-variadicas-nova-sintaxe/
-  - /blog/2014/08/php-56-funcoes-variadicas-nova-sintaxe/
-  - /blog/php-56-funcoes-variadicas-nova-sintaxe/
-  - >-
-    /articles/2014/08/31/1/php-56-funcoes-variadicas-nova-sintaxe
-date: 2014-08-31T09:37:05.000Z
-description: >-
-  O PHP 5.6.0 trouxe aos desenvolvedores novas funcionalidades e formas de
-  trabalhar. Uma das melhores novidades é a nova sintaxe das funções variádicas.
-tags:
-  - php
 title: PHP 5.6 - Funções Variádicas (Nova Sintaxe)
+description: O PHP 5.6.0 trouxe aos desenvolvedores novas funcionalidades e formas
+  de trabalhar. Uma das melhores novidades é a nova sintaxe das funções variádicas.
+tags:
+- php
+date: 2014-08-31T09:37:05Z
+aliases:
+- /articles/2014/08/31/1/
+- /2014/08/31/01/php-56-funcoes-variadicas-nova-sintaxe/
+- /2014/08/31/01/
+- /2014/08/php-56-funcoes-variadicas-nova-sintaxe/
+- /blog/2014/08/php-56-funcoes-variadicas-nova-sintaxe/
+- /blog/php-56-funcoes-variadicas-nova-sintaxe/
+- /articles/2014/08/31/1/php-56-funcoes-variadicas-nova-sintaxe
 ---
 
 Há pouco mais de dois dias, foi lançada uma nova versão do PHP, [a versão 5.6.0](http://php.net/archive/2014.php#id2014-08-28-1) que trouxe inúmeras novidades e incompatibilidades com as versões anteriores [(ver aqui)](https://www.php.net/manual/pt_BR/migration56.php).

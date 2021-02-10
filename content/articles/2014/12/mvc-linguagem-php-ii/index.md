@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2014/12/19/1/
-  - /2014/12/19/01/mvc-linguagem-php-ii/
-  - /2014/12/19/01/
-  - /2014/12/mvc-linguagem-php-ii/
-  - /blog/2014/12/mvc-linguagem-php-ii/
-  - /blog/mvc-linguagem-php-ii/
-  - /articles/2014/12/19/1/mvc-linguagem-php-ii
-date: 2014-12-19T12:26:59.000Z
-description: >-
-  Continuamos a construir a nossa framework que terá como base o modelo MVC.
-  Neste artigo criamos o coração da nossa framework.
-tags:
-  - php
 title: MVC na linguagem PHP - II
+description: Continuamos a construir a nossa framework que terá como base o modelo
+  MVC. Neste artigo criamos o coração da nossa framework.
+tags:
+- php
+date: 2014-12-19T12:26:59Z
+aliases:
+- /articles/2014/12/19/1/
+- /2014/12/19/01/mvc-linguagem-php-ii/
+- /2014/12/19/01/
+- /2014/12/mvc-linguagem-php-ii/
+- /blog/2014/12/mvc-linguagem-php-ii/
+- /blog/mvc-linguagem-php-ii/
+- /articles/2014/12/19/1/mvc-linguagem-php-ii
 ---
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.

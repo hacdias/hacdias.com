@@ -1,13 +1,12 @@
 ---
-aliases:
-  - /articles/2016/11/14/1/
-  - /2016/11/14/01/fundamentals-programming-language-c/
-  - /2016/11/14/01/
-  - /2016/11/fundamentals-programming-language-c/
-  - >-
-    /articles/2016/11/14/1/fundamentals-programming-language-c
-date: 2016-11-14T00:00:00.000Z
 title: 'The Fundamentals of Programming #4: Language C'
+date: 2016-11-14T00:00:00Z
+aliases:
+- /articles/2016/11/14/1/
+- /2016/11/14/01/fundamentals-programming-language-c/
+- /2016/11/14/01/
+- /2016/11/fundamentals-programming-language-c/
+- /articles/2016/11/14/1/fundamentals-programming-language-c
 ---
 
 The years between 1969 and 1973 were very exciting for the

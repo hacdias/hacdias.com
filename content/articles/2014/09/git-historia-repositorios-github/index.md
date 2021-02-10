@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2014/09/02/1/
-  - /2014/09/02/01/git-historia-repositorios-github/
-  - /2014/09/02/01/
-  - /2014/09/git-historia-repositorios-github/
-  - /blog/2014/09/git-historia-repositorios-github/
-  - /blog/git-historia-repositorios-github/
-  - >-
-    /articles/2014/09/02/1/git-historia-repositorios-github
-date: 2014-09-02T14:09:59.000Z
-description: >-
-  O Git é dos sistemas de controlo de versão mais utilizados por todo o mundo.
-  Hoje é hora de falar um pouco da história do Git e do GitHub."
-tags:
-  - git
 title: Git - Uma história e repositórios do GitHub"
+description: O Git é dos sistemas de controlo de versão mais utilizados por todo o
+  mundo. Hoje é hora de falar um pouco da história do Git e do GitHub."
+tags:
+- git
+date: 2014-09-02T14:09:59Z
+aliases:
+- /articles/2014/09/02/1/
+- /2014/09/02/01/git-historia-repositorios-github/
+- /2014/09/02/01/
+- /2014/09/git-historia-repositorios-github/
+- /blog/2014/09/git-historia-repositorios-github/
+- /blog/git-historia-repositorios-github/
+- /articles/2014/09/02/1/git-historia-repositorios-github
 ---
 
 **Git** é um sistema de controlo de versão e gestão de código fonte extremamente utilizado em todos os cantos do mundo.

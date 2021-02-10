@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2014/08/27/1/
-  - /2014/08/27/01/php-devemos-usar-tag-fechamento-ou-nao/
-  - /2014/08/27/01/
-  - /2014/08/php-devemos-usar-tag-fechamento-ou-nao/
-  - /blog/2014/08/php-devemos-usar-tag-fechamento-ou-nao/
-  - /blog/php-devemos-usar-tag-fechamento-ou-nao/
-  - >-
-    /articles/2014/08/27/1/php-devemos-usar-tag-fechamento-ou-nao
-date: 2014-08-27T09:15:18.000Z
-description: >-
-  A tag de fechamento do PHP ( ?> ) pode causar alguma confusão visto que é
-  omitida pela maioria dos desenvolvedores. Mas porquê?
-tags:
-  - php
 title: PHP - Devemos usar a tag de fechamento ou não?
+description: A tag de fechamento do PHP ( ?> ) pode causar alguma confusão visto que
+  é omitida pela maioria dos desenvolvedores. Mas porquê?
+tags:
+- php
+date: 2014-08-27T09:15:18Z
+aliases:
+- /articles/2014/08/27/1/
+- /2014/08/27/01/php-devemos-usar-tag-fechamento-ou-nao/
+- /2014/08/27/01/
+- /2014/08/php-devemos-usar-tag-fechamento-ou-nao/
+- /blog/2014/08/php-devemos-usar-tag-fechamento-ou-nao/
+- /blog/php-devemos-usar-tag-fechamento-ou-nao/
+- /articles/2014/08/27/1/php-devemos-usar-tag-fechamento-ou-nao
 ---
 
 Recentemente comecei a reparar que muitos programadores omitiam a tag de fechamento dos ficheiros PHP e, obviamente, fiquei curioso.

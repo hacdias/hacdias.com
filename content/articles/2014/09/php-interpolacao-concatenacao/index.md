@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2014/09/09/1/
-  - /2014/09/09/01/php-interpolacao-concatenacao/
-  - /2014/09/09/01/
-  - /2014/09/php-interpolacao-concatenacao/
-  - /blog/2014/09/php-interpolacao-concatenacao/
-  - /blog/php-interpolacao-concatenacao/
-  - /articles/2014/09/09/1/php-interpolacao-concatenacao
-date: 2014-09-09T15:19:43.000Z
-description: >-
-  Já pensou em qual a melhor forma para inserir variáveis dentro de strings? A
-  interpolação ou a concatenação. Venha ver.
-tags:
-  - php
 title: 'PHP - Strings: interpolação e concatenação'
+description: Já pensou em qual a melhor forma para inserir variáveis dentro de strings?
+  A interpolação ou a concatenação. Venha ver.
+tags:
+- php
+date: 2014-09-09T15:19:43Z
+aliases:
+- /articles/2014/09/09/1/
+- /2014/09/09/01/php-interpolacao-concatenacao/
+- /2014/09/09/01/
+- /2014/09/php-interpolacao-concatenacao/
+- /blog/2014/09/php-interpolacao-concatenacao/
+- /blog/php-interpolacao-concatenacao/
+- /articles/2014/09/09/1/php-interpolacao-concatenacao
 ---
 
 Hoje vamos falar um pouco sobre PHP, mais precisamente no campo das strings, variáveis e concatenações. Como sabem, existem várias formas de inserir o valor de variáveis dentro de strings, mas qual será a "melhor" e mais rápida?

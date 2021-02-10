@@ -1,8 +1,7 @@
 ---
-lastmod: 2020-05-30
-date: 2020-05-30
 title: Experiments
-type: page
+date: 2020-05-30T00:00:00Z
+lastmod: 2020-05-30T00:00:00Z
 ---
 
 <style>

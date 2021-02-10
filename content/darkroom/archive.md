@@ -1,7 +1,9 @@
 ---
 title: Darkroom Archive
-emoji: 📷
-layout: gallery
 aliases:
-  - /darkroom/gallery/
+- /darkroom/gallery/
+emoji: "\U0001F4F7"
+layout: gallery
 ---
+
+

@@ -1,7 +1,7 @@
 ---
-emoji: "\U0001F50E"
-hideMentions: true
 title: Search
+emoji: "\U0001F50E"
+noMentions: true
 ---
 
 <style>

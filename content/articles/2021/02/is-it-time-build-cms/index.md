@@ -1,13 +1,12 @@
 ---
-date: 2021-02-04T22:22:00.000+01:00
 title: Is it time to build my own CMS?
-description: >
+description: |
   After some considering, I think it is time to build my own CMS.
 tags:
-  - cms
-  - meta
+- cms
+- meta
+date: 2021-02-04T22:22:00+01:00
 ---
-
 
 Today I have been thinking about the possibility of writing my own CMS. A very simple CMS. I even [hinted](/micro/2021/02/am-i-building-a-cmd/) that on a small micro post today. This is not a new idea. I'm not going to look at the previous posts where I talked about this, but it's definitely at least 2 or 3.
 

@@ -1,11 +1,9 @@
 ---
-description: >
-  A non-exhaustive list of the most impactful and important projects I have been
-  involved with in the past.
-emoji: "\U0001F4E6"
-hideMentions: true
 title: Projects
-type: page
+description: |
+  A non-exhaustive list of the most impactful and important projects I have been involved with in the past.
+emoji: "\U0001F4E6"
+noMentions: true
 ---
 
 <style>

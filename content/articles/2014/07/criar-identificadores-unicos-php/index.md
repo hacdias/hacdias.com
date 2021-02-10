@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2014/07/30/1/
-  - /2014/07/30/01/criar-identificadores-unicos-php/
-  - /2014/07/30/01/
-  - /2014/07/criar-identificadores-unicos-php/
-  - /blog/2014/07/criar-identificadores-unicos-php/
-  - /blog/criar-identificadores-unicos-php/
-  - >-
-    /articles/2014/07/30/1/criar-identificadores-unicos-php
-date: 2014-07-30T08:34:52.000Z
-description: >-
-  Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo.
+title: Criar identificadores únicos em PHP"
+description: Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo.
   Hoje trago-vos uma das funções mais interessantes desta linguagem.
 tags:
-  - pgp
-title: Criar identificadores únicos em PHP"
+- pgp
+date: 2014-07-30T08:34:52Z
+aliases:
+- /articles/2014/07/30/1/
+- /2014/07/30/01/criar-identificadores-unicos-php/
+- /2014/07/30/01/
+- /2014/07/criar-identificadores-unicos-php/
+- /blog/2014/07/criar-identificadores-unicos-php/
+- /blog/criar-identificadores-unicos-php/
+- /articles/2014/07/30/1/criar-identificadores-unicos-php
 ---
 
 Como deve saber, PHP é umas das linguagens de servidor mais utilizadas no mundo. Hoje vou mostrar-vos uma fantástica forma de gerar **IDs (identificadores) únicos**.

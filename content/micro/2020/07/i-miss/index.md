@@ -1,9 +1,9 @@
 ---
-date: 2020-07-16T17:01:05.464Z
 tags:
-  - writing
-  - poem
-  - covid19
+- writing
+- poem
+- covid19
+date: 2020-07-16T17:01:05.464Z
 ---
 
 Last night before going to sleep... well actually while falling asleep I thought about writing this. It's such a basic poem, but lemme just share it here.

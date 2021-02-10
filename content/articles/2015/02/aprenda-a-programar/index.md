@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2015/02/25/1/
-  - /2015/02/25/01/aprenda-a-programar/
-  - /2015/02/25/01/
-  - /2015/02/aprenda-a-programar/
-  - /projects/aprenda-a-programar/
-  - /articles/2015/02/25/1/aprenda-a-programar
-date: 2015-02-25T12:10:00.000Z
-expiryDate: 2021-02-02T09:00:00.000Z
-description: >
-  In 2015, with only 15 years old, I wrote an ebook teaching how to program in
-  C. That ebook consists in the compilation of a series of blog posts on Pplware
-  into a beautiful and easily readable PDF.
-tags:
-  - projects
 title: Aprenda a Programar
+description: |
+  In 2015, with only 15 years old, I wrote an ebook teaching how to program in C. That ebook consists in the compilation of a series of blog posts on Pplware into a beautiful and easily readable PDF.
+tags:
+- projects
+date: 2015-02-25T12:10:00Z
+expiryDate: 2021-02-02T09:00:00Z
+aliases:
+- /articles/2015/02/25/1/
+- /2015/02/25/01/aprenda-a-programar/
+- /2015/02/25/01/
+- /2015/02/aprenda-a-programar/
+- /projects/aprenda-a-programar/
+- /articles/2015/02/25/1/aprenda-a-programar
 ---
 
 In 2015, with only 15 years old, I wrote an ebook teaching how to program in C.

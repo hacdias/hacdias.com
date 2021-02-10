@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2014/08/11/1/
-  - /2014/08/11/01/php-tags-docblocks/
-  - /2014/08/11/01/
-  - /2014/08/php-tags-docblocks/
-  - /blog/2014/08/php-tags-docblocks/
-  - /blog/php-tags-docblocks/
-  - /articles/2014/08/11/1/php-tags-docblocks
-date: 2014-08-11T20:26:21.000Z
-description: >-
-  Os DOCBlocks do PHP são extremamente úteis para os desenvolvedores que desejam
-  partilhar o código. Venha conhecer as tags mais utilizadas.
-tags:
-  - php
 title: PHP - (Algumas) tags dos DOCBlocks
+description: Os DOCBlocks do PHP são extremamente úteis para os desenvolvedores que
+  desejam partilhar o código. Venha conhecer as tags mais utilizadas.
+tags:
+- php
+date: 2014-08-11T20:26:21Z
+aliases:
+- /articles/2014/08/11/1/
+- /2014/08/11/01/php-tags-docblocks/
+- /2014/08/11/01/
+- /2014/08/php-tags-docblocks/
+- /blog/2014/08/php-tags-docblocks/
+- /blog/php-tags-docblocks/
+- /articles/2014/08/11/1/php-tags-docblocks
 ---
 
 Para quem desenvolve aplicações em PHP com outras pessoas ou mesmo sozinho, por vezes precisa de colocar **comentários** em vários locais para identificar os diversos processos que vão ocorrendo.

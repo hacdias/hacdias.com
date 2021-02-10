@@ -1,10 +1,10 @@
 ---
 title: Node.js is Everywhere by Mikeal Rogers
-aliases:
-- /notes/node-js-is-everywhere-mikeal-rogers/
 tags:
 - mikeal_rogers
 - talks
+aliases:
+- /notes/node-js-is-everywhere-mikeal-rogers/
 ---
 
 {{< youtube Qkkmz5VZoMQ >}}

@@ -1,25 +1,23 @@
 ---
-aliases:
-  - /articles/2019/08/07/1/
-  - /2019/08/07/01/decentralizing-my-website-with-ipfs/
-  - /2019/08/07/01/
-  - /2019/08/decentralizing-my-website-with-ipfs/
-  - /blog/2019/08/decentralizing-my-website-with-ipfs/
-  - /blog/decentralizing-my-website-with-ipfs/
-  - /articles/2019/08/07/1/decentralizing-my-website-with-ipfs
-date: 2019-08-07T18:45:00.000Z
-description: >-
-  How does my website work with IPFS? Where does the content go? What happens
-  when my website is accessed through HTTP? Here's a tale that explains of what
-  happens.
-emoji: "\U0001F310"
-tags:
-  - ipfs
-  - dns
-  - dnslink
-  - meta
-  - decentralization
 title: Decentralizing my website with IPFS
+description: How does my website work with IPFS? Where does the content go? What happens
+  when my website is accessed through HTTP? Here's a tale that explains of what happens.
+tags:
+- ipfs
+- dns
+- dnslink
+- meta
+- decentralization
+date: 2019-08-07T18:45:00Z
+aliases:
+- /articles/2019/08/07/1/
+- /2019/08/07/01/decentralizing-my-website-with-ipfs/
+- /2019/08/07/01/
+- /2019/08/decentralizing-my-website-with-ipfs/
+- /blog/2019/08/decentralizing-my-website-with-ipfs/
+- /blog/decentralizing-my-website-with-ipfs/
+- /articles/2019/08/07/1/decentralizing-my-website-with-ipfs
+emoji: "\U0001F310"
 ---
 
 It was about two years ago, in 2017, that I got to know IPFS through [David Dias][0]. This is not the first time I talk about IPFS here, in my website, but here's a brief description of what it is: IPFS stands for InterPlanetary File System and it is a peer-to-peer, content-addressed and decentralized protocol.

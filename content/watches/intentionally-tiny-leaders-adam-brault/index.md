@@ -1,10 +1,10 @@
 ---
 title: Intentionally Tiny Leaders by Adam Brault
-aliases:
-  - /notes/intentionally-tiny-leaders-adam-brault/
 tags:
 - talks
 - adam_brault
+aliases:
+- /notes/intentionally-tiny-leaders-adam-brault/
 ---
 
 - **talk**: https://vimeo.com/52639927

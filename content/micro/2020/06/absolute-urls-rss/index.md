@@ -1,10 +1,22 @@
 ---
-date: 2020-06-01T18:44:39.020Z
-properties:
-  in-reply-to: 'https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/'
 tags:
-  - meta
-  - hugo
+- meta
+- hugo
+date: 2020-06-01T18:44:39.02Z
+replyTo:
+  url: https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/
+  content: That’ll be hard to do with Hugo. There’s no way to tell it to use absolute
+    URLs in the feeds only. I’ll need to set up an extra step of some kind. I’ll check
+    it out.I use a partial in my Hugo theme to replace relative links with absolute
+    links in the content in XML (RSS) and JSON (JSON Feed, ActivityStream) files.
+    It has a regular expression to find and replace all relative links with their
+    abolute version. It’s probably easy to modify to replace relative image sources
+    too.
+  date: 2020-06-01T18:11:18Z
+  author:
+    name: Jan-Lukas Else
+    url: https://jlelse.dev/
+    photo: https://jlelse.dev/profile.png
 ---
 
 Wow! Thanks Jan. I'm still trying to understand why replacing links that start with `/` work because my feed was printing relative URLs with `..`. It seems to work though. I'm happy 🤯

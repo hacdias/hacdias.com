@@ -1,0 +1,14 @@
+- wm-id: 873358
+  type: mention
+  url: https://jlelse.blog/links/2020/10/awfice/
+  content: |-
+    Thanks to @hacdias, I found this nice project: Awfice - the world smallest office suite.a word processor, a spreadsheet, a drawing app and a presentation maker
+    each less than 1KB of plain JavaScript
+    each is literally just one line of code
+    packaged as data URLs, so you can use them right away, without downloading or installing
+    The tools are very minimal, but it’s nice to see what’s possible with under 1 kilobyte of code. There’s also an article with some background information.https://github.com/zserge/awfice
+  date: 2020-10-12T23:06:08+02:00
+  author:
+    name: Jan-Lukas Else
+    url: https://jlelse.dev/
+    photo: https://cdn.hacdias.com/webmentions/6ba3ad40db26e74cb47cc332c5887d9f15bc5fb7880d87e7e6addda91859e4d3.png

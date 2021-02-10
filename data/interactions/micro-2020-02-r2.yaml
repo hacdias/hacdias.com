@@ -1,0 +1,13 @@
+- wm-id: 755389
+  type: reply
+  url: https://jlelse.blog/micro/2020/02/2020-02-11-ujfjb/
+  content: "You’re right, I just took another look at the specs and corrected the
+    template and added the “mediaType” attribute and set it to HTML. Now microblog.pub
+    shows the summary correctly (even with rendered HTML), Pleroma shows the content
+    correctly (without markup), but Mastodon shows the raw HTML code of the summary.
+    \U0001F914"
+  date: 2020-02-11T15:22:00Z
+  author:
+    name: Jan-Lukas Else
+    url: https://jlelse.dev/
+    photo: https://cdn.hacdias.com/webmentions/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg

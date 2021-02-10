@@ -1,6 +1,6 @@
 ---
-date: "2020-10-17T12:10:10Z"
-expiryDate: "2020-10-17T12:13:41Z"
+date: 2020-10-17T12:10:10Z
+expiryDate: 2020-10-17T12:13:41Z
 mentions:
 - href: https://twitter.com/hacdias_test
   name: '@hacdias_test'

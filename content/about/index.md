@@ -1,11 +1,7 @@
 ---
-emoji: "\U0001F9D4"
-hideMentions: true
-menu:
-  main:
-    weight: 1
 title: About
-type: page
+emoji: "\U0001F9D4"
+noMentions: true
 ---
 
 <style>

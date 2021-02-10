@@ -1,6 +1,6 @@
 ---
 title: Legal
-hideMentions: true
+noMentions: true
 ---
 
 All the conditions below are applicable except where otherwise noted:

@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2015/08/12/1/
-  - /2015/08/12/01/farewell-wordpress-hello-hugo/
-  - /2015/08/12/01/
-  - /2015/08/farewell-wordpress-hello-hugo/
-  - /blog/2015/08/farewell-wordpress-hello-hugo/
-  - /blog/farewell-wordpress-hello-hugo/
-  - /articles/2015/08/12/1/farewell-wordpress-hello-hugo
-date: 2015-08-12T11:30:00.000Z
-description: >-
-  I finally learned how to say goodbye to WordPress. Not forever. Nothing lasts
-  forever. But for my blog. I'm using Hugo. A very simple static website
-  generator."
+title: Farewell, WordPress! Hello, Hugo
+description: I finally learned how to say goodbye to WordPress. Not forever. Nothing
+  lasts forever. But for my blog. I'm using Hugo. A very simple static website generator."
 tags:
-  - meta
-title: 'Farewell, WordPress! Hello, Hugo'
+- meta
+date: 2015-08-12T11:30:00Z
+aliases:
+- /articles/2015/08/12/1/
+- /2015/08/12/01/farewell-wordpress-hello-hugo/
+- /2015/08/12/01/
+- /2015/08/farewell-wordpress-hello-hugo/
+- /blog/2015/08/farewell-wordpress-hello-hugo/
+- /blog/farewell-wordpress-hello-hugo/
+- /articles/2015/08/12/1/farewell-wordpress-hello-hugo
 ---
 
 Firstly, a little bit of history - when I begun this blog, I've already been using WordPress on Pplware for a while. So, I tought: I know it, it's simple, it's easy to use, I'm going to use it on my personal blog.

@@ -1,12 +1,12 @@
 ---
-aliases:
-  - /notes/2019/12/30/2/
-  - /2019/12/30/05/webmention-test/
-  - /2019/12/30/05/
-  - /notes/2019/12/30/2/webmention-test/
-date: 2019-12-30T21:33:23.650Z
 tags:
-  - meta
+- meta
+date: 2019-12-30T21:33:23.65Z
+aliases:
+- /notes/2019/12/30/2/
+- /2019/12/30/05/webmention-test/
+- /2019/12/30/05/
+- /notes/2019/12/30/2/webmention-test/
 ---
 
 Testing with [Webmention.rocks](https://webmention.rocks):

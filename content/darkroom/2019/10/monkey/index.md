@@ -1,7 +1,9 @@
 ---
-date: 2019-10-15
 title: Monkey
+date: 2019-10-15T00:00:00Z
 pictures:
-  - title: Monkey
-    slug: 2019-10-Monkey
+- title: Monkey
+  slug: 2019-10-Monkey
 ---
+
+

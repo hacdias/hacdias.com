@@ -1,14 +1,14 @@
 ---
-aliases:
-  - /notes/2020/01/20/2/
-  - /2020/01/20/5/movie-telnet/
-  - /2020/01/20/5/
-  - /notes/2020/01/20/2/movie-telnet/
-date: 2020-01-20T22:23:22.202Z
 tags:
-  - telnet
-  - software
-  - terminal
+- telnet
+- software
+- terminal
+date: 2020-01-20T22:23:22.202Z
+aliases:
+- /notes/2020/01/20/2/
+- /2020/01/20/5/movie-telnet/
+- /2020/01/20/5/
+- /notes/2020/01/20/2/movie-telnet/
 ---
 
 Watch a movie through telnet:

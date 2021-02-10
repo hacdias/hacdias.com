@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2016/06/10/1/
-  - /2016/06/10/01/filebrowser/
-  - /2016/06/10/01/
-  - /2016/06/filebrowser/
-  - /projects/filebrowser/
-  - /articles/2016/06/10/1/filebrowser
-date: 2016-06-10T12:10:00.000Z
-expiryDate: 2021-02-02T09:00:00.000Z
-description: >
-  File Browser provides a file managing interface within a specified directory
-  and it can be used to upload, delete, preview, rename and edit your files.
-tags:
-  - projects
 title: File Browser
+description: |
+  File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files.
+tags:
+- projects
+date: 2016-06-10T12:10:00Z
+expiryDate: 2021-02-02T09:00:00Z
+aliases:
+- /articles/2016/06/10/1/
+- /2016/06/10/01/filebrowser/
+- /2016/06/10/01/
+- /2016/06/filebrowser/
+- /projects/filebrowser/
+- /articles/2016/06/10/1/filebrowser
 ---
 
 File Browser (formerly known as File Manager) provides a file managing interface within a

@@ -13,9 +13,9 @@
   "mediaType": "text/html",
   {{ with .Title }}"name": {{ . | jsonify }},{{ end }}
   "type": "{{ if eq .Section "articles" }}Article{{ else }}Note{{ end }}",
-  "attributedTo": "{{ "" | absLangURL }}"{{ if .Params.properties }}{{ if isset .Params.properties "in-reply-to" }},
-  "inReplyTo": "{{ index .Params.properties "in-reply-to" }}"
-  {{ end }}{{ end }},
+  "attributedTo": "{{ "" | absLangURL }}"{{ if .Params.replyTo }},
+  "inReplyTo": "{{ .Params.replyTo.url }}"
+  {{ end }},
   "tag": {{ partial "get-as2-tags" . | jsonify}},
   "attachment": {{ (partial "get-attachments" . ) | jsonify }}
 }

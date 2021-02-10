@@ -1,10 +1,10 @@
 ---
-date: 2020-11-01T09:00:00.000+01:00
 title: Recently
-description: >
+description: |
   A small update.
 tags:
-  - recently
+- recently
+date: 2020-11-01T09:00:00+01:00
 ---
 
 Here we are again, one more month has passed. Today - or tomorrow because I'm writing this yesetday - is the first day of November! So here comes another "Recently" post. Even though October was packed with joyfullness, happiness, adventures and some stress, this post will be rather short.

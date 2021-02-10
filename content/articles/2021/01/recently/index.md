@@ -1,10 +1,10 @@
 ---
-date: 2021-01-01T08:00:00.000+01:00
-title: "Recently: 2020 Edition"
-description: >
+title: 'Recently: 2020 Edition'
+description: |
   A small update.
 tags:
-  - recently
+- recently
+date: 2021-01-01T08:00:00+01:00
 ---
 
 2020 has come to an end. It was a very troublesome year regarding worldwide events. However, I must say that it was quite a fantastic year personally.

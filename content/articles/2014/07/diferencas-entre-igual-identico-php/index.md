@@ -1,21 +1,19 @@
 ---
-aliases:
-  - /articles/2014/07/23/1/
-  - /2014/07/23/01/diferencas-entre-igual-identico-php/
-  - /2014/07/23/01/
-  - /2014/07/diferencas-entre-igual-identico-php/
-  - /blog/2014/07/diferencas-entre-igual-identico-php/
-  - /blog/diferencas-entre-igual-identico-php/
-  - >-
-    /articles/2014/07/23/1/diferencas-entre-igual-identico-php
-date: 2014-07-23T18:31:23.000Z
-description: >-
-  Os operadores '==' e '===' por vezes podem confundir-nos um pouco em relação
-  ao seu uso e para que servem. Fica aqui a explicação de cada um."
-tags:
-  - php
-  - javascript
 title: Diferenças entre '==' e '===' em PHP
+description: Os operadores '==' e '===' por vezes podem confundir-nos um pouco em
+  relação ao seu uso e para que servem. Fica aqui a explicação de cada um."
+tags:
+- php
+- javascript
+date: 2014-07-23T18:31:23Z
+aliases:
+- /articles/2014/07/23/1/
+- /2014/07/23/01/diferencas-entre-igual-identico-php/
+- /2014/07/23/01/
+- /2014/07/diferencas-entre-igual-identico-php/
+- /blog/2014/07/diferencas-entre-igual-identico-php/
+- /blog/diferencas-entre-igual-identico-php/
+- /articles/2014/07/23/1/diferencas-entre-igual-identico-php
 ---
 
 É habitual utilizarem-se diversos operadores quando o assunto é programação. Existem vários até: aritméticos, comparativos e outros.

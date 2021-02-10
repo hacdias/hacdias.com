@@ -1,21 +1,20 @@
 ---
-aliases:
-  - /articles/2014/11/22/1/
-  - /2014/11/22/01/mvc-uma-breve-explicacao/
-  - /2014/11/22/01/
-  - /2014/11/mvc-uma-breve-explicacao/
-  - /blog/2014/11/mvc-uma-breve-explicacao/
-  - /blog/mvc-uma-breve-explicacao/
-  - /articles/2014/11/22/1/mvc-uma-breve-explicacao
-date: 2014-11-22T16:02:56.000Z
-description: >-
-  O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado nas
-  aplicações web. Apresentamos uma breve explicação sobre este modelo.
-tags:
-  - MVC
-  - PHP
-  - Programação
 title: Modelo MVC - Uma breve explicação
+description: O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado
+  nas aplicações web. Apresentamos uma breve explicação sobre este modelo.
+tags:
+- MVC
+- PHP
+- Programação
+date: 2014-11-22T16:02:56Z
+aliases:
+- /articles/2014/11/22/1/
+- /2014/11/22/01/mvc-uma-breve-explicacao/
+- /2014/11/22/01/
+- /2014/11/mvc-uma-breve-explicacao/
+- /blog/2014/11/mvc-uma-breve-explicacao/
+- /blog/mvc-uma-breve-explicacao/
+- /articles/2014/11/22/1/mvc-uma-breve-explicacao
 ---
 
 A programação é algo fantástico que nos permite fazer qualquer coisa das mais diversas formas. Podemos criar, inovar, melhorar e até nos divertirmos. Existem várias formas de programar, várias maneiras.

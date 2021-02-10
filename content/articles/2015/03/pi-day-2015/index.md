@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2015/03/15/1/
-  - /2015/03/15/01/pi-day-2015/
-  - /2015/03/15/01/
-  - /2015/03/pi-day-2015/
-  - /blog/2015/03/pi-day-2015/
-  - /blog/pi-day-2015/
-  - /articles/2015/03/15/1/pi-day-2015
-date: 2015-03-15T10:36:51.000Z
-description: >-
-  Today, 14th march, is the Pi Day 2015. See this small video which talks a
-  little bit about Pi.
-tags:
-  - videos
 title: Pi Day 2015
+description: Today, 14th march, is the Pi Day 2015. See this small video which talks
+  a little bit about Pi.
+tags:
+- videos
+date: 2015-03-15T10:36:51Z
+aliases:
+- /articles/2015/03/15/1/
+- /2015/03/15/01/pi-day-2015/
+- /2015/03/15/01/
+- /2015/03/pi-day-2015/
+- /blog/2015/03/pi-day-2015/
+- /blog/pi-day-2015/
+- /articles/2015/03/15/1/pi-day-2015
 ---
 
 Do you know? Today is the Pi Day 2015. Below there is a small video I made about this marvelous day.

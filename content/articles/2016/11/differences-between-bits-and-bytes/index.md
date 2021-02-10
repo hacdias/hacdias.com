@@ -1,16 +1,14 @@
 ---
-aliases:
-  - /articles/2016/11/25/1/
-  - /2016/11/25/01/differences-between-bits-and-bytes/
-  - /2016/11/25/01/
-  - /2016/11/differences-between-bits-and-bytes/
-  - >-
-    /articles/2016/11/25/1/differences-between-bits-and-bytes
-date: 2016-11-25T00:00:00.000Z
-description: >
-  For some, the difference between bits and bytes may be subtle and it can lead
-  to a lot of mistakes and false advertisement.
 title: Differences between bits and bytes
+description: |
+  For some, the difference between bits and bytes may be subtle and it can lead to a lot of mistakes and false advertisement.
+date: 2016-11-25T00:00:00Z
+aliases:
+- /articles/2016/11/25/1/
+- /2016/11/25/01/differences-between-bits-and-bytes/
+- /2016/11/25/01/
+- /2016/11/differences-between-bits-and-bytes/
+- /articles/2016/11/25/1/differences-between-bits-and-bytes
 ---
 
 Nowadays, we are used to hear about bits and bytes and sometimes, in the advertising, we see that the Internet speed is about 100 Mbps. Is that 100 megabytes per second? No, it isn't. There are some differences between bits and bytes. Let's see.

@@ -1,7 +1,7 @@
 ---
+title: Monday Letter
 emoji: "\U0001F5DE"
 layout: articles
-title: Monday Letter
 ---
 
 <style>

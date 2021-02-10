@@ -1,22 +1,20 @@
 ---
-aliases:
-  - /articles/2014/07/17/1/
-  - /2014/07/17/01/listagem-web-de-uma-tabela-mysql/
-  - /2014/07/17/01/
-  - /2014/07/listagem-web-de-uma-tabela-mysql/
-  - /blog/2014/07/listagem-web-de-uma-tabela-mysql/
-  - /blog/listagem-web-de-uma-tabela-mysql/
-  - >-
-    /articles/2014/07/17/1/listagem-web-de-uma-tabela-mysql
-date: 2014-07-17T14:51:56.000Z
-description: >-
-  Como fazer a listagem de uma tabela MySQL com interface web, botões de
+title: Listagem web de uma tabela MySQL
+description: Como fazer a listagem de uma tabela MySQL com interface web, botões de
   navegação e limitação do número de linhas por página.
 tags:
-  - php
-  - html
-  - mysql
-title: Listagem web de uma tabela MySQL
+- php
+- html
+- mysql
+date: 2014-07-17T14:51:56Z
+aliases:
+- /articles/2014/07/17/1/
+- /2014/07/17/01/listagem-web-de-uma-tabela-mysql/
+- /2014/07/17/01/
+- /2014/07/listagem-web-de-uma-tabela-mysql/
+- /blog/2014/07/listagem-web-de-uma-tabela-mysql/
+- /blog/listagem-web-de-uma-tabela-mysql/
+- /articles/2014/07/17/1/listagem-web-de-uma-tabela-mysql
 ---
 
 No [último artigo](/articles/2014/07/selecionar-um-intervalo-de-linhas-em-mysql/), falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um  pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.

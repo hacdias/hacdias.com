@@ -1,13 +1,12 @@
 ---
-aliases:
-  - /articles/2016/11/12/1/
-  - /2016/11/12/01/fundamentals-programming-paradigms/
-  - /2016/11/12/01/
-  - /2016/11/fundamentals-programming-paradigms/
-  - >-
-    /articles/2016/11/12/1/fundamentals-programming-paradigms
-date: 2016-11-12T00:00:00.000Z
 title: 'The Fundamentals of Programming #3: Paradigms'
+date: 2016-11-12T00:00:00Z
+aliases:
+- /articles/2016/11/12/1/
+- /2016/11/12/01/fundamentals-programming-paradigms/
+- /2016/11/12/01/
+- /2016/11/fundamentals-programming-paradigms/
+- /articles/2016/11/12/1/fundamentals-programming-paradigms
 ---
 
 Every single programming language has its own characteristics

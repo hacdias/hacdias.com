@@ -1,5 +1,5 @@
 ---
-title:  All
+title: All
 layout: list
 ---
 

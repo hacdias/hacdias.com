@@ -1,13 +1,12 @@
 ---
-aliases:
-  - /articles/2016/11/15/1/
-  - /2016/11/15/01/fundamentals-programming-data-types-i/
-  - /2016/11/15/01/
-  - /2016/11/fundamentals-programming-data-types-i/
-  - >-
-    /articles/2016/11/15/1/fundamentals-programming-data-types-i
-date: 2016-11-15T00:00:00.000Z
 title: 'The Fundamentals of Programming #5: Data Types I'
+date: 2016-11-15T00:00:00Z
+aliases:
+- /articles/2016/11/15/1/
+- /2016/11/15/01/fundamentals-programming-data-types-i/
+- /2016/11/15/01/
+- /2016/11/fundamentals-programming-data-types-i/
+- /articles/2016/11/15/1/fundamentals-programming-data-types-i
 ---
 
 In our beginning articles, we mentioned that there are some

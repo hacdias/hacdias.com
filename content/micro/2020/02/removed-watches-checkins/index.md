@@ -1,8 +1,8 @@
 ---
-aliases:
-  - /notes/2020/02/17/2/
-  - /notes/2020/02/17/2/removed-watches-checkins/
 date: 2020-02-17T21:39:35.885Z
+aliases:
+- /notes/2020/02/17/2/
+- /notes/2020/02/17/2/removed-watches-checkins/
 ---
 
 After [wondering](/micro/2020/02/n4/) whether or not I should keep the check-ins and watches on my website, I decided not to. I know... I change my mind quite a lot. But here are some reasons why:

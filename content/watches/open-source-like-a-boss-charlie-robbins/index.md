@@ -1,11 +1,11 @@
 ---
 title: Open Source Like a Boss by Charlie Robbins
-aliases:
-- /notes/open-source-like-a-boss-charlie-robbins/
 tags:
 - opensource
 - talks
 - charlie_robbins
+aliases:
+- /notes/open-source-like-a-boss-charlie-robbins/
 ---
 
 {{< youtube 9PK68ZKcSEk >}}

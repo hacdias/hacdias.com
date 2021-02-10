@@ -1,12 +1,11 @@
 ---
-aliases:
-  - /notes/2020/03/27/1/
-  - /notes/2020/03/27/1/backup/
-date: 2020-03-27T19:27:01.885Z
-home: true
 tags:
-  - backup
-  - ideas
+- backup
+- ideas
+date: 2020-03-27T19:27:01.885Z
+aliases:
+- /notes/2020/03/27/1/
+- /notes/2020/03/27/1/backup/
 ---
 
 Do you have any backup system in place? If so, how is it?

@@ -1,20 +1,19 @@
 ---
-aliases:
-  - /articles/2014/07/20/1/
-  - /2014/07/20/01/chamadas-ajax-com-jquery-e-php/
-  - /2014/07/20/01/
-  - /2014/07/chamadas-ajax-com-jquery-e-php/
-  - /blog/2014/07/chamadas-ajax-com-jquery-e-php/
-  - /blog/chamadas-ajax-com-jquery-e-php/
-  - /articles/2014/07/20/1/chamadas-ajax-com-jquery-e-php
-date: 2014-07-20T10:41:11.000Z
-description: >-
-  Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder
+title: Chamadas Ajax com jQuery e PHP
+description: Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder
   utilizando a linguagem de servidor PHP.
 tags:
-  - php
-  - javascript
-title: Chamadas Ajax com jQuery e PHP
+- php
+- javascript
+date: 2014-07-20T10:41:11Z
+aliases:
+- /articles/2014/07/20/1/
+- /2014/07/20/01/chamadas-ajax-com-jquery-e-php/
+- /2014/07/20/01/
+- /2014/07/chamadas-ajax-com-jquery-e-php/
+- /blog/2014/07/chamadas-ajax-com-jquery-e-php/
+- /blog/chamadas-ajax-com-jquery-e-php/
+- /articles/2014/07/20/1/chamadas-ajax-com-jquery-e-php
 ---
 
 A biblioteca [jQuery](http://jquery.com/) é das mais conhecidas e utilizadas em JavaScript. Com esta biblioteca podemos proceder a chamadas **ajax** muito facilmente através de poucas linhas de código.

@@ -1,8 +1,7 @@
 ---
+title: Blogroll
 description: A sorted list of the blogs I follow.
 emoji: "\U0001F9FB"
-title: Blogroll
-type: page
 ---
 
 <style>

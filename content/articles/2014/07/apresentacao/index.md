@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2014/07/12/1/
-  - /2014/07/12/01/apresentacao/
-  - /2014/07/12/01/
-  - /2014/07/apresentacao/
-  - /blog/2014/07/apresentacao/
-  - /blog/apresentacao/
-  - /articles/2014/07/12/1/apresentacao
-date: 2014-07-12T14:05:48.000Z
-description: >-
-  Uma pequena apresentação sobre o blog e sobre o que quero fazer com ele. Quem
-  sou eu? Que escreverei neste blog? Saberás tudo ao ler!"
-tags:
-  - meta
 title: Apresentação
+description: Uma pequena apresentação sobre o blog e sobre o que quero fazer com ele.
+  Quem sou eu? Que escreverei neste blog? Saberás tudo ao ler!"
+tags:
+- meta
+date: 2014-07-12T14:05:48Z
+aliases:
+- /articles/2014/07/12/1/
+- /2014/07/12/01/apresentacao/
+- /2014/07/12/01/
+- /2014/07/apresentacao/
+- /blog/2014/07/apresentacao/
+- /blog/apresentacao/
+- /articles/2014/07/12/1/apresentacao
 ---
 
 Olá!

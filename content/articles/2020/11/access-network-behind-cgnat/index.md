@@ -1,9 +1,9 @@
 ---
-date: "2020-11-30T09:00:00.000+01:00"
+title: Access a network behind a Carrier Grade NAT with Wireguard
 tags:
 - mondayletter
 - network
-title: Access a network behind a Carrier Grade NAT with Wireguard
+date: 2020-11-30T09:00:00+01:00
 ---
 
 I recently moved from the place where I was staying at to my own studio. In addition, since I was building a computer, I wanted to be able to access remotely to its capabitities, as well as any other device I have at home. Thus, I thought: let's set up a VPN!

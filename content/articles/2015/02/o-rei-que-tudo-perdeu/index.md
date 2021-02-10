@@ -1,20 +1,19 @@
 ---
-aliases:
-  - /articles/2015/02/28/1/
-  - /2015/02/28/01/o-rei-que-tudo-perdeu/
-  - /2015/02/28/01/
-  - /2015/02/o-rei-que-tudo-perdeu/
-  - /blog/2015/02/o-rei-que-tudo-perdeu/
-  - /blog/o-rei-que-tudo-perdeu/
-  - /articles/2015/02/28/1/o-rei-que-tudo-perdeu
-date: 2015-02-28T16:00:38.000Z
-description: >-
-  Por vezes, a vontade de escrever é tanta que as letras deslizam pelo papel.
-  Aqui está um pequeno poema, O Rei Que Tudo Perdeu, escrito em 2012.
-tags:
-  - literature
-  - poetry
 title: O Rei Que Tudo Perdeu
+description: Por vezes, a vontade de escrever é tanta que as letras deslizam pelo
+  papel. Aqui está um pequeno poema, O Rei Que Tudo Perdeu, escrito em 2012.
+tags:
+- literature
+- poetry
+date: 2015-02-28T16:00:38Z
+aliases:
+- /articles/2015/02/28/1/
+- /2015/02/28/01/o-rei-que-tudo-perdeu/
+- /2015/02/28/01/
+- /2015/02/o-rei-que-tudo-perdeu/
+- /blog/2015/02/o-rei-que-tudo-perdeu/
+- /blog/o-rei-que-tudo-perdeu/
+- /articles/2015/02/28/1/o-rei-que-tudo-perdeu
 ---
 
 Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel sem qualquer esforço. Letra a letra. Partícula a partícula. Tudo se compõe.

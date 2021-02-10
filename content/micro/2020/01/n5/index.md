@@ -1,12 +1,12 @@
 ---
-aliases:
-  - /2020/01/21/3/
-  - /notes/2020/01/21/2/
-date: 2020-01-21T13:35:06.761Z
 tags:
-  - design
-  - meta
-  - optimization
+- design
+- meta
+- optimization
+date: 2020-01-21T13:35:06.761Z
+aliases:
+- /2020/01/21/3/
+- /notes/2020/01/21/2/
 ---
 
 I also noticed my CSS is giant (~77KB). I was using [Tachyons](https://tachyons.io/) to make it faster to develop the website. I'm thinking about removing it, reducing the CSS size. I also want to remove the image lazy loading that I'm using and use an approach like [Tom's](https://macwright.org/2019/02/28/photos.html).

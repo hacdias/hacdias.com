@@ -1,12 +1,12 @@
 ---
-date: 2020-10-01T09:00:00.000+02:00
 title: Recently
-description: >
+description: |
   A small update.
 tags:
-  - recently
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1311562183856320512'
+- recently
+date: 2020-10-01T09:00:00+02:00
+syndication:
+- https://twitter.com/hacdias/status/1311562183856320512
 ---
 
 Today's the first day of a new month, so here's a new "recently" post. Since I decided to start this series after [mid-september](/articles/2020/09/recently/), there's not that many news since. However, I'm more than happy to write a few words about what's been happening lately.

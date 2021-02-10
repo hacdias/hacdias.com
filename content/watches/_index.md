@@ -1,9 +1,8 @@
 ---
+title: Watches
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
 emoji: "\U0001F37F"
-title: Watches
-type: page
 layout: bullet-list
 ---
 
@@ -32,4 +31,4 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 
 {{< watches type="movies" >}}
 
-## 💬 Reviews 
+## 💬 Reviews

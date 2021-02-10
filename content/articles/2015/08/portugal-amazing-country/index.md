@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2015/08/26/1/
-  - /2015/08/26/01/portugal-amazing-country/
-  - /2015/08/26/01/
-  - /2015/08/portugal-amazing-country/
-  - /blog/2015/08/portugal-amazing-country/
-  - /blog/portugal-amazing-country/
-  - /articles/2015/08/26/1/portugal-amazing-country
-date: 2015-08-26T22:40:00.000Z
-description: >-
-  Portugal is an amazing country. It has a lot of history behind. Know some of
-  the places I visited this month. From Sintra to Redondo.
-tags:
-  - portugal
 title: Portugal is a beautiful country (again)
+description: Portugal is an amazing country. It has a lot of history behind. Know
+  some of the places I visited this month. From Sintra to Redondo.
+tags:
+- portugal
+date: 2015-08-26T22:40:00Z
+aliases:
+- /articles/2015/08/26/1/
+- /2015/08/26/01/portugal-amazing-country/
+- /2015/08/26/01/
+- /2015/08/portugal-amazing-country/
+- /blog/2015/08/portugal-amazing-country/
+- /blog/portugal-amazing-country/
+- /articles/2015/08/26/1/portugal-amazing-country
 ---
 
 Last year, I published a post about [how amazing Portugal is](/articles/2014/11/portugal-beautiful-country/). And now I'm posting about it again! I'm not trying to "sell" Portugal, I'm trying to show how beautiful it is, because it's true!

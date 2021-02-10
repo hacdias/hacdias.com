@@ -1,18 +1,18 @@
 ---
-aliases:
-  - /articles/2020/01/02/1/
-  - /2020/01/02/6/dynamic-static/
-  - /2020/01/02/6/
-  - /articles/2020/01/02/1/dynamic-static
-date: 2020-01-02T23:40:00.000Z
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1212881805096996864'
-tags:
-  - meta
-  - indieweb
-  - micropub
-  - dogfood
 title: Build a dynamic website… or not?
+tags:
+- meta
+- indieweb
+- micropub
+- dogfood
+date: 2020-01-02T23:40:00Z
+syndication:
+- https://twitter.com/hacdias/status/1212881805096996864
+aliases:
+- /articles/2020/01/02/1/
+- /2020/01/02/6/dynamic-static/
+- /2020/01/02/6/
+- /articles/2020/01/02/1/dynamic-static
 ---
 
 After digressing a bit about [building a Micropub](/articles/2020/01/building-micropub/) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.

@@ -1,8 +1,10 @@
 ---
-date: 2019-10-02
 title: Lisbon
+date: 2019-10-02T00:00:00Z
 pictures:
-  - title: Lisbon
-    slug: 2019-10-Lisbon
-    hide: true
+- title: Lisbon
+  slug: 2019-10-Lisbon
+  hide: true
 ---
+
+

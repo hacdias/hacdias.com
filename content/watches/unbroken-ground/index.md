@@ -1,10 +1,10 @@
 ---
 title: Unbroken Ground
-aliases:
-  - /notes/unbroken-ground/
 tags:
 - movies
 - documentaries
+aliases:
+- /notes/unbroken-ground/
 ---
 
 {{< youtube 3Ezkp7Cteys >}}

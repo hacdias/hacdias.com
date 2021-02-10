@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2015/03/13/1/
-  - /2015/03/13/01/technology-good-bad/
-  - /2015/03/13/01/
-  - /2015/03/technology-good-bad/
-  - /blog/2015/03/technology-good-bad/
-  - /blog/technology-good-bad/
-  - /articles/2015/03/13/1/technology-good-bad
-date: 2015-03-13T12:20:46.000Z
-description: >-
-  Technology, nowadays, means advance and progress. But is the technology a good
-  or bad thing? Or both? Or neither? Here is my opinion.
-tags:
-  - opinion
 title: Is the technology a good or a bad thing?
+description: Technology, nowadays, means advance and progress. But is the technology
+  a good or bad thing? Or both? Or neither? Here is my opinion.
+tags:
+- opinion
+date: 2015-03-13T12:20:46Z
+aliases:
+- /articles/2015/03/13/1/
+- /2015/03/13/01/technology-good-bad/
+- /2015/03/13/01/
+- /2015/03/technology-good-bad/
+- /blog/2015/03/technology-good-bad/
+- /blog/technology-good-bad/
+- /articles/2015/03/13/1/technology-good-bad
 ---
 
 Hello everyone! Today I'm going to talk a little bit about technology and if it is a good or a bad thing. This article is, of course, according to my point of view. The main question, for now, is "is the technology a good or a bad thing?".

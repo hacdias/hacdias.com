@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2014/08/02/1/
-  - /2014/08/02/01/wordpress-adicionar-menus-de-administracao/
-  - /2014/08/02/01/
-  - /2014/08/wordpress-adicionar-menus-de-administracao/
-  - /blog/2014/08/wordpress-adicionar-menus-de-administracao/
-  - /blog/wordpress-adicionar-menus-de-administracao/
-  - >-
-    /articles/2014/08/02/1/wordpress-adicionar-menus-de-administracao
-date: 2014-08-02T11:27:37.000Z
-description: >-
-  A criação de temas e plugins para o WordPres leva a uma necessidade constante
+title: 'WordPress: adicionar menus de administração [Parte 1]'
+description: A criação de temas e plugins para o WordPres leva a uma necessidade constante
   de criar menus de administração. A criação dos mesmos é muito simples.
 tags:
-  - php
-title: 'WordPress: adicionar menus de administração [Parte 1]'
+- php
+date: 2014-08-02T11:27:37Z
+aliases:
+- /articles/2014/08/02/1/
+- /2014/08/02/01/wordpress-adicionar-menus-de-administracao/
+- /2014/08/02/01/
+- /2014/08/wordpress-adicionar-menus-de-administracao/
+- /blog/2014/08/wordpress-adicionar-menus-de-administracao/
+- /blog/wordpress-adicionar-menus-de-administracao/
+- /articles/2014/08/02/1/wordpress-adicionar-menus-de-administracao
 ---
 
 O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](/articles/2014/07/remover-hash-dos-links-continuar-a-ler/).

@@ -4,8 +4,7 @@
     <label for="toggler"><a class='no-link'>🍔 Menu</a></label>
     {{ range .Site.Menus.main -}}
       <li>
-        <a href='{{ .URL }}' class='no-link'>
-          <span>{{ with .Page }}{{ .Params.emoji }}{{ end}}</span>
+        <a href='{{ relURL .URL }}' class='no-link'>
           <span>{{ .Name }}</span>
         </a>
       </li>

@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2014/07/22/1/
-  - /2014/07/22/01/operador-ternario/
-  - /2014/07/22/01/
-  - /2014/07/operador-ternario/
-  - /blog/2014/07/operador-ternario/
-  - /blog/operador-ternario/
-  - /articles/2014/07/22/1/operador-ternario
-date: 2014-07-22T09:08:08.000Z
-description: >-
-  O operador ? é, por vezes, intrigante. Chama-se operador ternário e explicamos
+title: Operador Ternário ( ? ) em PHP
+description: O operador ? é, por vezes, intrigante. Chama-se operador ternário e explicamos
   para que serve este operador condicional em PHP.
 tags:
-  - php
-title: Operador Ternário ( ? ) em PHP
+- php
+date: 2014-07-22T09:08:08Z
+aliases:
+- /articles/2014/07/22/1/
+- /2014/07/22/01/operador-ternario/
+- /2014/07/22/01/
+- /2014/07/operador-ternario/
+- /blog/2014/07/operador-ternario/
+- /blog/operador-ternario/
+- /articles/2014/07/22/1/operador-ternario
 ---
 
 Recentemente, escrevi um artigo onde explicava como fazer uma [listagem web de uma tabela MySQL](/articles/2014/07/listagem-web-de-uma-tabela-mysql/) onde utilizei um operador que não tinha a certeza absoluta do que fazia e deixei a explicação um pouco vaga.

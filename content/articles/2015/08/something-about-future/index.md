@@ -1,22 +1,21 @@
 ---
-aliases:
-  - /articles/2015/08/19/1/
-  - /2015/08/19/01/something-about-future/
-  - /2015/08/19/01/
-  - /2015/08/something-about-future/
-  - /blog/2015/08/something-about-future/
-  - /blog/something-about-future/
-  - /articles/2015/08/19/1/something-about-future
-date: 2015-08-19T08:30:00.000Z
-description: >-
-  Is the future real? Does it exists? Who are we? What are we going to be? Time?
-  Death. Is that real? What's the difference from life? Some interesting
+title: Something about the future. Is it real? Does it exist?
+description: Is the future real? Does it exists? Who are we? What are we going to
+  be? Time? Death. Is that real? What's the difference from life? Some interesting
   questions no one can answer.
 tags:
-  - Opinion
-  - Life
-  - Future
-title: Something about the future. Is it real? Does it exist?
+- Opinion
+- Life
+- Future
+date: 2015-08-19T08:30:00Z
+aliases:
+- /articles/2015/08/19/1/
+- /2015/08/19/01/something-about-future/
+- /2015/08/19/01/
+- /2015/08/something-about-future/
+- /blog/2015/08/something-about-future/
+- /blog/something-about-future/
+- /articles/2015/08/19/1/something-about-future
 ---
 
 A word can be a very powerful thing. A word can change lifes, a [word can destroy worlds][4], a word can lead us to other words, a word can make us stop breathing, a word can make us lively, a word can kill us. As you can see, each word is a very special thing. But I'm not here to talk about words, am I? No, I'm not, but I'm going to start with a word: **[time][0]**.

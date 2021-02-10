@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2015/07/27/1/
-  - /2015/07/27/01/stop-complaining-do/
-  - /2015/07/27/01/
-  - /2015/07/stop-complaining-do/
-  - /blog/2015/07/stop-complaining-do/
-  - /blog/stop-complaining-do/
-  - /articles/2015/07/27/1/stop-complaining-do
-date: 2015-07-27T08:00:00.000Z
-description: >-
-  Everyday I hear people complaining about almost everything. Complaining leads
-  to nowhere. You have to DO!
-tags:
-  - opinion
 title: Stop complaining. Do!
+description: Everyday I hear people complaining about almost everything. Complaining
+  leads to nowhere. You have to DO!
+tags:
+- opinion
+date: 2015-07-27T08:00:00Z
+aliases:
+- /articles/2015/07/27/1/
+- /2015/07/27/01/stop-complaining-do/
+- /2015/07/27/01/
+- /2015/07/stop-complaining-do/
+- /blog/2015/07/stop-complaining-do/
+- /blog/stop-complaining-do/
+- /articles/2015/07/27/1/stop-complaining-do
 ---
 
 Everyday I hear people complaining here and there. They complain about almost everything: from the pencil which isn't on its place to the government's rules. I think is doesn't occurs only here, of course. Maybe it's a problem of adults (some of them, no offense). I see them complaining every single second. If you're not this type of person, I believe you should have seen some of them.

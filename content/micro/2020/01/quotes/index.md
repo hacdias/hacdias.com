@@ -1,13 +1,13 @@
 ---
-aliases:
-  - /notes/2020/01/22/1/
-  - /2020/01/22/8/quotes/
-  - /2020/01/22/8/
-  - /notes/2020/01/22/1/quotes/
-date: 2020-01-22T15:17:16.219Z
 tags:
-  - quotes
-  - simplicity
+- quotes
+- simplicity
+date: 2020-01-22T15:17:16.219Z
+aliases:
+- /notes/2020/01/22/1/
+- /2020/01/22/8/quotes/
+- /2020/01/22/8/
+- /notes/2020/01/22/1/quotes/
 ---
 
 Just found a file with some quotes about simplicity I noted some time ago. I thought it'd be nice to save them here!

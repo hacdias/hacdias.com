@@ -1,14 +1,13 @@
 ---
-date: 2021-02-01T09:00:00.000+01:00
 title: Moving to a different country during a pandemic
-description: >
-  My experience on moving to a different country to study during a pandemic
-  and the overview until now.
-aliases:
-  - /now/
+description: |
+  My experience on moving to a different country to study during a pandemic and the overview until now.
 tags:
-  - recently
-  - mondayletter
+- recently
+- mondayletter
+date: 2021-02-01T09:00:00+01:00
+aliases:
+- /now/
 ---
 
 It's been quite a while since I sent my last newsletter. And now the ferocious winter winds are storming outside. I'm looking at my screen wondering what to write and why write. Since August, I have been living in the Netherlands and I thought it would be a great ideas to talk a bit about the experience of moving during a pandemic.

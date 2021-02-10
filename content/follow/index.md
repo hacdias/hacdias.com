@@ -1,13 +1,9 @@
 ---
-date: "2020-01-30"
-emoji: ⚡️
-hideMentions: true
-lastmod: "2020-10-15"
-menu:
-  main:
-    weight: 6
 title: Follow
-type: page
+date: 2020-01-30T00:00:00Z
+lastmod: 2020-10-15T00:00:00Z
+emoji: ⚡️
+noMentions: true
 ---
 
 <style>

@@ -1,13 +1,12 @@
 ---
-aliases:
-  - /articles/2016/11/11/1/
-  - /2016/11/11/01/fundamentals-programming-constants-variables/
-  - /2016/11/11/01/
-  - /2016/11/fundamentals-programming-constants-variables/
-  - >-
-    /articles/2016/11/11/1/fundamentals-programming-constants-variables
-date: 2016-11-11T00:00:00.000Z
 title: 'The Fundamentals of Programming #2: Constants and Variables'
+date: 2016-11-11T00:00:00Z
+aliases:
+- /articles/2016/11/11/1/
+- /2016/11/11/01/fundamentals-programming-constants-variables/
+- /2016/11/11/01/
+- /2016/11/fundamentals-programming-constants-variables/
+- /articles/2016/11/11/1/fundamentals-programming-constants-variables
 ---
 
 Today we are going to discuss about constants and variables,

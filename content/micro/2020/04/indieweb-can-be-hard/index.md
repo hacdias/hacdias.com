@@ -1,12 +1,11 @@
 ---
-aliases:
-  - /notes/2020/04/08/2/
-  - /notes/2020/04/08/2/indieweb-can-be-hard/
-date: 2020-04-08T11:23:10.389Z
-home: true
 tags:
-  - meta
-  - indieweb
+- meta
+- indieweb
+date: 2020-04-08T11:23:10.389Z
+aliases:
+- /notes/2020/04/08/2/
+- /notes/2020/04/08/2/indieweb-can-be-hard/
 ---
 
 The IndieWeb own-your-data-thing can be complicated sometimes. Since there are no full fledged systems that allow us to interact with other social media without having to implement it ourselves, sometimes we get to the point where we feel kind of limited. I'm trying not to use other services or, if I do, I'm just POSSE'ing to them. Sometimes it's hard because there are communities that are more connected on some social media (e.g., Twitter) and the bridge is not always perfect.

@@ -1,17 +1,17 @@
 ---
-aliases:
-  - /articles/2020/01/01/1/
-  - /2020/01/01/12/building-micropub/
-  - /2020/01/01/12/
-  - /articles/2020/01/01/1/building-micropub
-date: 2020-01-01T23:30:00.000Z
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1212517049035038720'
-tags:
-  - indiweb
-  - micropub
-  - ownyourowndata
 title: Adding support for Micropub endpoint
+tags:
+- indiweb
+- micropub
+- ownyourowndata
+date: 2020-01-01T23:30:00Z
+syndication:
+- https://twitter.com/hacdias/status/1212517049035038720
+aliases:
+- /articles/2020/01/01/1/
+- /2020/01/01/12/building-micropub/
+- /2020/01/01/12/
+- /articles/2020/01/01/1/building-micropub
 ---
 
 Recently, I have talked about [restructuring the URLs](/articles/2019/12/url-structure/) of my website and [adding IndieAuth](/articles/2019/12/using-indieauth/) so I could use my domain as my main  online identity to login into services. Along those lines, I came across [Micropub](https://www.w3.org/TR/micropub/). In their own words:

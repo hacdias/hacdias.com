@@ -1,13 +1,12 @@
 ---
-aliases:
-  - /articles/2016/11/16/1/
-  - /2016/11/16/01/fundamentals-programming-data-types-ii/
-  - /2016/11/16/01/
-  - /2016/11/fundamentals-programming-data-types-ii/
-  - >-
-    /articles/2016/11/16/1/fundamentals-programming-data-types-ii
-date: 2016-11-16T00:00:00.000Z
 title: 'The Fundamentals of Programming #6: Data Types II'
+date: 2016-11-16T00:00:00Z
+aliases:
+- /articles/2016/11/16/1/
+- /2016/11/16/01/fundamentals-programming-data-types-ii/
+- /2016/11/16/01/
+- /2016/11/fundamentals-programming-data-types-ii/
+- /articles/2016/11/16/1/fundamentals-programming-data-types-ii
 ---
 
 In our beginning articles, we mentioned that there are some

@@ -1,17 +1,16 @@
 ---
-aliases:
-  - /articles/2017/09/08/1/
-  - /2017/09/08/01/how-to-create-a-web-server-in-go/
-  - /2017/09/08/01/
-  - /2017/09/how-to-create-a-web-server-in-go/
-  - >-
-    /articles/2017/09/08/1/how-to-create-a-web-server-in-go
-date: 2017-09-08T00:00:00.000Z
-tags:
-  - server
-  - web
-  - go
 title: How to create a web server in Go
+tags:
+- server
+- web
+- go
+date: 2017-09-08T00:00:00Z
+aliases:
+- /articles/2017/09/08/1/
+- /2017/09/08/01/how-to-create-a-web-server-in-go/
+- /2017/09/08/01/
+- /2017/09/how-to-create-a-web-server-in-go/
+- /articles/2017/09/08/1/how-to-create-a-web-server-in-go
 ---
 
 Go is a relatively new player in the world of programming, having been around since 2009. It was created by Google and many open-source contributors.

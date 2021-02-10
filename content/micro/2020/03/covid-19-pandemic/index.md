@@ -1,13 +1,12 @@
 ---
-aliases:
-  - /notes/2020/03/11/1/
-  - /notes/2020/03/11/1/covid-19-pandemic/
-date: 2020-03-11T21:05:24.478Z
-home: true
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1237847135539703808'
 tags:
-  - covid19
+- covid19
+date: 2020-03-11T21:05:24.478Z
+syndication:
+- https://twitter.com/hacdias/status/1237847135539703808
+aliases:
+- /notes/2020/03/11/1/
+- /notes/2020/03/11/1/covid-19-pandemic/
 ---
 
 About COVID-19: WHO just declared that this novel coronavirus is a pandemic. Okay. Portugal is closing universities and schools. Makes sense to prevent further propagation of the virus so it doesn't scale as much. But what do you see? You see dozens, hundreds or even thousands of students thinking this is vacation and going to the beach - it was 26ºC in Lisbon today - or going to the mall just because.

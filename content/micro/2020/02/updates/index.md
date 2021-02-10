@@ -1,11 +1,11 @@
 ---
-aliases:
-  - /notes/2020/02/16/1/
-  - /notes/2020/02/16/1/updates/
-date: 2020-02-16T11:06:57.887Z
 tags:
-  - meta
-  - organization
+- meta
+- organization
+date: 2020-02-16T11:06:57.887Z
+aliases:
+- /notes/2020/02/16/1/
+- /notes/2020/02/16/1/updates/
 ---
 
 So I just made a few changes to my website and I hope it didn't break anything like feeds and such. Here's a small changelog of the changes:

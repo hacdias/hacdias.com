@@ -1,13 +1,30 @@
 ---
-aliases:
-  - /2020/01/19/4/
-  - /replies/2020/01/19/1/
-date: 2020-01-19T19:36:11.549Z
-properties:
-  in-reply-to: 'https://jlelse.blog/thoughts/2020/01/optimizing-software/'
 tags:
-  - software
-  - micropub
+- software
+- micropub
+date: 2020-01-19T19:36:11.549Z
+replyTo:
+  url: https://jlelse.blog/thoughts/2020/01/optimizing-software/
+  content: After talking to @jlelse, I finally decided not to trouble myself with
+    writing my own static website generator and just improve what I have right now.Optimizing
+    software to run faster is a good thing in itself. If you have to wait less for
+    the software to run, you have more time for other things. But if you invest hours
+    or days to save a few seconds in the end, then I question if this is a good idea.
+    Wouldn’t it be better to start where minutes or even hours are regularly wasted?When
+    I invest time in my own software projects, I use most of it to create new features
+    that allow me to do new things. This morning, I invested a few hours in a feature
+    that allows me to create posts with photos on my blog via an app from my smartphone.But
+    what I haven’t done yet, and what I will do only when there is a more important
+    reason to do so, is rewriting the software, which allows me to receive HTML forms
+    via email, from NodeJS to Go.
+  date: 2020-01-19T12:53:00Z
+  author:
+    name: Jan-Lukas Else
+    url: https://jlelse.dev/
+    photo: https://jlelse.dev/profile-512.jpg
+aliases:
+- /2020/01/19/4/
+- /replies/2020/01/19/1/
 ---
 
 > Wouldn't it be better to start where minutes or even hours are regularly wasted?

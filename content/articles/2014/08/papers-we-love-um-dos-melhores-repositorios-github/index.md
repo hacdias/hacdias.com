@@ -1,23 +1,21 @@
 ---
-aliases:
-  - /articles/2014/08/22/1/
-  - /2014/08/22/01/papers-we-love-um-dos-melhores-repositorios-github/
-  - /2014/08/22/01/
-  - /2014/08/papers-we-love-um-dos-melhores-repositorios-github/
-  - /blog/2014/08/papers-we-love-um-dos-melhores-repositorios-github/
-  - /blog/papers-we-love-um-dos-melhores-repositorios-github/
-  - >-
-    /articles/2014/08/22/1/papers-we-love-um-dos-melhores-repositorios-github
-date: 2014-08-22T09:38:31.000Z
-description: >-
-  O GitHub não contém apenas software e código. Contém também conhecimento. Um
-  grande exemplo é o repositório Papers We Love.
-tags:
-  - Documentos
-  - GitHub
-  - Programação
-  - Repositórios
 title: Papers We Love - Um dos melhores repositórios do GitHub
+description: O GitHub não contém apenas software e código. Contém também conhecimento.
+  Um grande exemplo é o repositório Papers We Love.
+tags:
+- Documentos
+- GitHub
+- Programação
+- Repositórios
+date: 2014-08-22T09:38:31Z
+aliases:
+- /articles/2014/08/22/1/
+- /2014/08/22/01/papers-we-love-um-dos-melhores-repositorios-github/
+- /2014/08/22/01/
+- /2014/08/papers-we-love-um-dos-melhores-repositorios-github/
+- /blog/2014/08/papers-we-love-um-dos-melhores-repositorios-github/
+- /blog/papers-we-love-um-dos-melhores-repositorios-github/
+- /articles/2014/08/22/1/papers-we-love-um-dos-melhores-repositorios-github
 ---
 
 Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.

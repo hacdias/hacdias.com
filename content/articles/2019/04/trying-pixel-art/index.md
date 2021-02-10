@@ -1,22 +1,20 @@
 ---
-aliases:
-  - /articles/2019/04/18/1/
-  - /2019/04/18/01/trying-pixel-art/
-  - /2019/04/18/01/
-  - /2019/04/trying-pixel-art/
-  - /blog/2019/04/trying-pixel-art/
-  - /blog/trying-pixel-art/
-  - /articles/2019/04/18/1/trying-pixel-art
-date: 2019-04-18T00:00:00.000Z
-description: >
-  Recently I've been wanting to try out more things in my life. And one of them
-  is more artistic than I'm used to: pixel art! This is where I share how was my
-  first contact with this pixelized world.
-emoji: "\U0001F3A8"
-tags:
-  - art
-  - pixelart
 title: Trying Pixel Art
+description: |
+  Recently I've been wanting to try out more things in my life. And one of them is more artistic than I'm used to: pixel art! This is where I share how was my first contact with this pixelized world.
+tags:
+- art
+- pixelart
+date: 2019-04-18T00:00:00Z
+aliases:
+- /articles/2019/04/18/1/
+- /2019/04/18/01/trying-pixel-art/
+- /2019/04/18/01/
+- /2019/04/trying-pixel-art/
+- /blog/2019/04/trying-pixel-art/
+- /blog/trying-pixel-art/
+- /articles/2019/04/18/1/trying-pixel-art
+emoji: "\U0001F3A8"
 ---
 
 Recently I've been wanting to try out more things in my life. Perhaps not recently,

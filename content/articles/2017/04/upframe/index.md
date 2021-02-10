@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2017/04/11/1/
-  - /2017/04/11/01/upframe/
-  - /2017/04/11/01/
-  - /2017/04/upframe/
-  - /projects/upframe/
-  - /articles/2017/04/11/1/upframe
-date: 2017-04-11T12:10:00.000Z
-expiryDate: 2021-02-02T09:00:00.000Z
-description: >
-  Upframe aims to become a global reference and authority in pre-acceleration,
-  shaping the next generation of entrepreneurs by building an immersive
-  experience.
-tags:
-  - projects
 title: Upframe
+description: |
+  Upframe aims to become a global reference and authority in pre-acceleration, shaping the next generation of entrepreneurs by building an immersive experience.
+tags:
+- projects
+date: 2017-04-11T12:10:00Z
+expiryDate: 2021-02-02T09:00:00Z
+aliases:
+- /articles/2017/04/11/1/
+- /2017/04/11/01/upframe/
+- /2017/04/11/01/
+- /2017/04/upframe/
+- /projects/upframe/
+- /articles/2017/04/11/1/upframe
 ---
 
 Upframe is a movement built by students, professors, companies, incubators and startup founders worldwide with the mission to promote the development of an entrepreneurial mindset in students.

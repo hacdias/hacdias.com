@@ -1,8 +1,8 @@
 ---
 title: Sad to see you go
-hideMentions: true
-noindex: true
 url: /newsletter/goodbye
+noIndex: true
+noMentions: true
 ---
 
 {{< figure src="https://cdn.hacdias.com/uploads/sad.gif" alt="Goodbye" class="right pixelated" style="width:100%; max-width: 6rem; margin-top: 0;" >}}

@@ -1,10 +1,10 @@
 ---
 title: The Internet's Own Boy
-aliases:
-  - /notes/the-internets-own-boy/
 tags:
 - movies
 - documentaries
+aliases:
+- /notes/the-internets-own-boy/
 ---
 
 {{< youtube 9vz06QO3UkQ >}}

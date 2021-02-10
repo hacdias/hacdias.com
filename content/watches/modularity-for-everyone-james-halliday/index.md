@@ -1,11 +1,11 @@
 ---
 title: Modularity for Everyone by James Halliday
-aliases:
-- /notes/modularity-for-everyone-james-halliday/
 tags:
 - javascript
 - talks
 - james_halliday
+aliases:
+- /notes/modularity-for-everyone-james-halliday/
 ---
 
 {{< youtube DCQNm6yiZh0 >}}

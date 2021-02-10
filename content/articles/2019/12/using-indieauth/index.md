@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2019/12/30/1/
-  - /2019/12/30/09/using-indieauth/
-  - /2019/12/30/09/
-  - /articles/2019/12/30/1/using-indieauth
-date: 2019-12-30T23:50:00.000Z
-description: >
-  After updating the structure of my URLs, I now needed to start enabling some
-  IndieWeb features... here's how to enable IndieAuth!
-properties:
-  syndication: 'https://twitter.com/hacdias/status/1211797283525812224'
-tags:
-  - indieweb
-  - indieauth
 title: Enabling IndieAuth on my website
+description: |
+  After updating the structure of my URLs, I now needed to start enabling some IndieWeb features... here's how to enable IndieAuth!
+tags:
+- indieweb
+- indieauth
+date: 2019-12-30T23:50:00Z
+syndication:
+- https://twitter.com/hacdias/status/1211797283525812224
+aliases:
+- /articles/2019/12/30/1/
+- /2019/12/30/09/using-indieauth/
+- /2019/12/30/09/
+- /articles/2019/12/30/1/using-indieauth
 ---
 
 This is going to be a quick post — I hope. 

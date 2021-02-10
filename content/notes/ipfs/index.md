@@ -39,4 +39,3 @@ Read more at https://blog.ipfs.io/2020-07-20-dht-deep-dive/.
 ## Compared to [DAT](/notes/dat/)
 
 - TODO
-

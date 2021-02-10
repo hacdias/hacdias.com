@@ -16,20 +16,22 @@
   </header>
   {{ end }}
 
-  {{ if .Params.properties }}
-    {{ if isset .Params.properties "in-reply-to" }}
-      {{ $url := index .Params.properties "in-reply-to" }}
-      {{ $dataToShow := index .Site.Data.xray (sha256 $url) }}
-      {{ if eq $dataToShow.type "entry" }}
-        {{ partial "embedded-entry"  (dict "Wm" $dataToShow "Class" "u-in-reply-to") }}
-      {{ else }}
-        <p class='copy content e-entry bar'>
-          <a href="{{ $url }}" rel='noopener noreferrer' target='_blank' class="u-in-reply-to">
-            {{- with .Title }}{{ . }}{{ else }}{{ $url}}{{ end -}}
-          </a>
-        </p>
-      {{ end}}
-    {{ end }}
+  {{ with .Params.replyTo }}
+    <div class="h-cite e-entry bar u-in-reply-to">
+      <p>
+        <span class="p-author h-card">
+          <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link" {{ with .author.url }}href="{{ . }}"{{ end }}>{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a>
+        </span>
+        {{- if .date -}}
+          <a rel="noopener noreferrer" target="_link" href="{{ .url }}" class="u-url original date">{{ dateFormat "02 Jan 2006 15:04" .date }}</a>
+        {{- else -}}
+          <a rel="noopener noreferrer" target="_link" href="{{ .url }}" class="u-url original">Original Post</a>
+        {{- end -}}
+      </p>
+      {{- with .content -}}
+        <div class="e-content p-name">{{ . | truncate 300 | safeHTML }}</div>
+      {{- end -}}
+    </div>
   {{ end }}
 
   {{ partial "darkroom/full-figures" . }}
@@ -75,7 +77,7 @@
       {{ end }}
     {{ end }}
 
-    {{ with .Params.properties.syndication -}}
+    {{ with .Params.syndication -}}
       {{ $arr := partial "must-slice" . }}
       {{ range $arr -}}
         <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ . }}</a>
@@ -85,7 +87,7 @@
     {{ partialCached "author-metadata" . }}
   </footer>
 
-  {{ if not (or $isList .Params.hideMentions) -}}
+  {{ if not (or $isList .Params.noMentions) -}}
     {{ partial "webmention" . -}}
   {{ end }}
 </article>

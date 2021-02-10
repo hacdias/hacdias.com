@@ -1,12 +1,12 @@
 ---
-aliases:
-  - /2020/01/21/5/
-  - /notes/2020/01/21/3/
-date: 2020-01-21T22:30:58.354Z
 tags:
-  - meta
-  - design
-  - optimization
+- meta
+- design
+- optimization
+date: 2020-01-21T22:30:58.354Z
+aliases:
+- /2020/01/21/5/
+- /notes/2020/01/21/3/
 ---
 
 Just made a few updates to my website:

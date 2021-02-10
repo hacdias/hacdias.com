@@ -1,8 +1,8 @@
 ---
 title: Replication
-math: true
 tags:
 - distributed
+math: true
 ---
 
 **Data replication** happens when the same data is stored on multiple storage devices that might not be on the same network.

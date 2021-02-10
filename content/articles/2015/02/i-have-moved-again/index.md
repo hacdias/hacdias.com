@@ -1,20 +1,18 @@
 ---
-aliases:
-  - /articles/2015/02/11/1/
-  - /2015/02/11/01/i-have-moved-again/
-  - /2015/02/11/01/
-  - /2015/02/i-have-moved-again/
-  - /blog/2015/02/i-have-moved-again/
-  - /blog/i-have-moved-again/
-  - /articles/2015/02/11/1/i-have-moved-again
-date: 2015-02-11T22:19:40.000Z
-description: >-
-  I have moved, again. From now until the end of the times, coxpe.com and
-  henriquedias.com/blog are gone, and henriquedias.com is the unified version of
-  both.
+title: I have moved, again
+description: I have moved, again. From now until the end of the times, coxpe.com and
+  henriquedias.com/blog are gone, and henriquedias.com is the unified version of both.
 tags:
-  - meta
-title: 'I have moved, again'
+- meta
+date: 2015-02-11T22:19:40Z
+aliases:
+- /articles/2015/02/11/1/
+- /2015/02/11/01/i-have-moved-again/
+- /2015/02/11/01/
+- /2015/02/i-have-moved-again/
+- /blog/2015/02/i-have-moved-again/
+- /blog/i-have-moved-again/
+- /articles/2015/02/11/1/i-have-moved-again
 ---
 
 I have moved, again. From now until the end of the times, **coxpe.com** and **henriquedias.com/blog** are gone, and **henriquedias.com** is the unified version of both.

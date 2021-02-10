@@ -1,11 +1,11 @@
 ---
-date: "2020-10-05T09:00:00.000+02:00"
-properties:
-  syndication: https://twitter.com/hacdias/status/1317859153185001474
+title: Thinking out loud about my future master's project
 tags:
 - masters
 - mondayletter
-title: Thinking out loud about my future master's project
+date: 2020-10-05T09:00:00+02:00
+syndication:
+- https://twitter.com/hacdias/status/1317859153185001474
 ---
 
 I'm now in my first year of my Master's degree in Computer Science and Engineering which means that next year I am supposed to start (and hopefully finish) my Master's project and thesis. As a consequence of that, I have been thinking a lot about it lately. I don't want to make a rushed choice that will make me work on something I don't enjoy for over half an year.

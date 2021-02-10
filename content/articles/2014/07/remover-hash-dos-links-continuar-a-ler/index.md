@@ -1,21 +1,18 @@
 ---
-aliases:
-  - /articles/2014/07/14/1/
-  - /2014/07/14/01/remover-hash-dos-links-continuar-a-ler/
-  - /2014/07/14/01/
-  - /2014/07/remover-hash-dos-links-continuar-a-ler/
-  - /blog/2014/07/remover-hash-dos-links-continuar-a-ler/
-  - /blog/remover-hash-dos-links-continuar-a-ler/
-  - >-
-    /articles/2014/07/14/1/remover-hash-dos-links-continuar-a-ler
-date: 2014-07-14T13:36:38.000Z
-description: >-
-  Por padrão, nos artigos do WordPress, quando se clica em "Ler mais", o
-  utilizador é redirecionado para onde estava a ler. Aprenda a remover essa
-  opção.
-tags:
-  - php
 title: Remover hash dos links "Continuar a Ler"
+description: Por padrão, nos artigos do WordPress, quando se clica em "Ler mais",
+  o utilizador é redirecionado para onde estava a ler. Aprenda a remover essa opção.
+tags:
+- php
+date: 2014-07-14T13:36:38Z
+aliases:
+- /articles/2014/07/14/1/
+- /2014/07/14/01/remover-hash-dos-links-continuar-a-ler/
+- /2014/07/14/01/
+- /2014/07/remover-hash-dos-links-continuar-a-ler/
+- /blog/2014/07/remover-hash-dos-links-continuar-a-ler/
+- /blog/remover-hash-dos-links-continuar-a-ler/
+- /articles/2014/07/14/1/remover-hash-dos-links-continuar-a-ler
 ---
 
 O **WordPress** é um dos CMS (Sistema de Gestão de Conteúdo, em português) mais conhecidos do mundo, porque é muito simples de utilizar e tem milhares de temas e *plugins* gratuitos e pagos à disposição do utilizador.

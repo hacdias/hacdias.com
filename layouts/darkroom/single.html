@@ -62,7 +62,7 @@
     {{ end }}
 
     <footer class='footer'>  
-      {{ with .Params.properties.syndication -}}
+      {{ with .Params.syndication -}}
         {{ $arr := partial "must-slice" . }}
         {{ range $arr -}}
           <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ . }}</a>

@@ -1,13 +1,13 @@
 ---
-aliases:
-  - /notes/2020/01/25/2/
-  - /2020/01/25/3/improvements/
-  - /2020/01/25/3/
-  - /notes/2020/01/25/2/improvements/
-date: 2020-01-25T23:45:22.486Z
 tags:
-  - meta
-  - design
+- meta
+- design
+date: 2020-01-25T23:45:22.486Z
+aliases:
+- /notes/2020/01/25/2/
+- /2020/01/25/3/improvements/
+- /2020/01/25/3/
+- /notes/2020/01/25/2/improvements/
 ---
 
 Just made a few updates to my website:

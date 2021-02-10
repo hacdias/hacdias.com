@@ -1,9 +1,8 @@
 ---
-lastmod: "2020-10-11T12:11:00.000Z"
-emoji: "\U0001F6E0"
-date: "2020-01-21T15:39:00.000Z"
 title: Uses
-type: page
+date: 2020-01-21T15:39:00Z
+lastmod: 2020-10-11T12:11:00Z
+emoji: "\U0001F6E0"
 ---
 
 This is a [uses] page where you can find some of the technology I use. This page might not be 100% up to date, but I'll always try to update it if something changes!

@@ -1,21 +1,19 @@
 ---
-aliases:
-  - /articles/2015/06/10/2/
-  - /2015/06/10/02/wordpress-adicionar-menus-de-administracao-parte-2/
-  - /2015/06/10/02/
-  - /2015/06/wordpress-adicionar-menus-de-administracao-parte-2/
-  - /blog/2015/06/wordpress-adicionar-menus-de-administracao-parte-2/
-  - /blog/wordpress-adicionar-menus-de-administracao-parte-2/
-  - >-
-    /articles/2015/06/10/2/wordpress-adicionar-menus-de-administracao-parte-2
-lastmod: 2015-06-10T11:27:37.000Z
-description: >-
-  Esta é a continuação do tutorial sobre como adicionar menus de administração a
-  temas e plugins do WordPress.
-date: 2014-08-04T12:01:37.000Z
-tags:
-  - php
 title: 'WordPress: adicionar menus de administração [Parte 2]'
+description: Esta é a continuação do tutorial sobre como adicionar menus de administração
+  a temas e plugins do WordPress.
+tags:
+- php
+date: 2014-08-04T12:01:37Z
+lastmod: 2015-06-10T11:27:37Z
+aliases:
+- /articles/2015/06/10/2/
+- /2015/06/10/02/wordpress-adicionar-menus-de-administracao-parte-2/
+- /2015/06/10/02/
+- /2015/06/wordpress-adicionar-menus-de-administracao-parte-2/
+- /blog/2015/06/wordpress-adicionar-menus-de-administracao-parte-2/
+- /blog/wordpress-adicionar-menus-de-administracao-parte-2/
+- /articles/2015/06/10/2/wordpress-adicionar-menus-de-administracao-parte-2
 ---
 
 O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](/articles/2014/07/remover-hash-dos-links-continuar-a-ler/).

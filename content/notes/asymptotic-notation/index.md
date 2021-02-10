@@ -31,6 +31,3 @@ Cases:
 They usually end up with a geometric series:
 
 $$\sum_{i=0}^n{r^i}=\frac{r^{i-1}-1}{r-1}$$
-
-
-

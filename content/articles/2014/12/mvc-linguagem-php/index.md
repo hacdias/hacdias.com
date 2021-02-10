@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2014/12/18/1/
-  - /2014/12/18/01/mvc-linguagem-php/
-  - /2014/12/18/01/
-  - /2014/12/mvc-linguagem-php/
-  - /blog/2014/12/mvc-linguagem-php/
-  - /blog/mvc-linguagem-php/
-  - /articles/2014/12/18/1/mvc-linguagem-php
-date: 2014-12-18T22:55:34.000Z
-description: >-
-  O modelo MVC é algo muito utilizado atualmente. Nesta primeira parte iremos
-  explicar a estrutura base de uma aplicação MVC e criar o ficheiro principal
-tags:
-  - php
 title: MVC na linguagem PHP
+description: O modelo MVC é algo muito utilizado atualmente. Nesta primeira parte
+  iremos explicar a estrutura base de uma aplicação MVC e criar o ficheiro principal
+tags:
+- php
+date: 2014-12-18T22:55:34Z
+aliases:
+- /articles/2014/12/18/1/
+- /2014/12/18/01/mvc-linguagem-php/
+- /2014/12/18/01/
+- /2014/12/mvc-linguagem-php/
+- /blog/2014/12/mvc-linguagem-php/
+- /blog/mvc-linguagem-php/
+- /articles/2014/12/18/1/mvc-linguagem-php
 ---
 
 No último artigo publicado, foi falado acerca do [**Modelo MVC**](/articles/2014/11/mvc-uma-breve-explicacao/) e sobre aquilo em que este consiste. O Modelo _Model-View-Controller_ é amplamente utilizado nos dias de hoje.

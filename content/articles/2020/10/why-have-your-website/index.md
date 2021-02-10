@@ -1,9 +1,9 @@
 ---
-date: "2020-10-26T09:00:00.000+01:00"
+title: Why should you have your own website?
 tags:
 - ownyourdata
 - mondayletter
-title: Why should you have your own website?
+date: 2020-10-26T09:00:00+01:00
 ---
 
 Hello 👋

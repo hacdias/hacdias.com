@@ -1,12 +1,12 @@
 ---
+title: Differences between C, C++ and C#
+date: 2016-11-01T00:00:00Z
 aliases:
-  - /articles/2016/11/01/1/
-  - /2016/11/01/01/differences-c-plus-sharp/
-  - /2016/11/01/01/
-  - /2016/11/differences-c-plus-sharp/
-  - /articles/2016/11/01/1/differences-c-plus-sharp
-date: 2016-11-01T00:00:00.000Z
-title: 'Differences between C, C++ and C#'
+- /articles/2016/11/01/1/
+- /2016/11/01/01/differences-c-plus-sharp/
+- /2016/11/01/01/
+- /2016/11/differences-c-plus-sharp/
+- /articles/2016/11/01/1/differences-c-plus-sharp
 ---
 
 There is one thing in common with the languages C, C++ and

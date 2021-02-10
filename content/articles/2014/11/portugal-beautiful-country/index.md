@@ -1,19 +1,18 @@
 ---
-aliases:
-  - /articles/2014/11/14/1/
-  - /2014/11/14/01/portugal-beautiful-country/
-  - /2014/11/14/01/
-  - /2014/11/portugal-beautiful-country/
-  - /blog/2014/11/portugal-beautiful-country/
-  - /blog/portugal-beautiful-country/
-  - /articles/2014/11/14/1/portugal-beautiful-country
-date: 2014-11-14T20:34:01.000Z
-description: >-
-  Portugal is one of the small big countries, in other words, Portugal have too
-  many things to offer: history, monuments, culture, beauty!
-tags:
-  - portugal
 title: Portugal is a beautiful country
+description: 'Portugal is one of the small big countries, in other words, Portugal
+  have too many things to offer: history, monuments, culture, beauty!'
+tags:
+- portugal
+date: 2014-11-14T20:34:01Z
+aliases:
+- /articles/2014/11/14/1/
+- /2014/11/14/01/portugal-beautiful-country/
+- /2014/11/14/01/
+- /2014/11/portugal-beautiful-country/
+- /blog/2014/11/portugal-beautiful-country/
+- /blog/portugal-beautiful-country/
+- /articles/2014/11/14/1/portugal-beautiful-country
 ---
 
 Searching, exploring, walking, running, seeing, knowing, watching, meeting, taking photos, etc. All are verbs related with travelling which is one of the most amazing and *important* things in life.
