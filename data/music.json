@@ -1,24 +1,29 @@
 {
   "artists": [
     {
+      "name": "Lady Gaga",
+      "count": 35,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
       "name": "Sia",
       "count": 34,
       "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "Lady Gaga",
-      "count": 32,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Dua Lipa",
-      "count": 24,
+      "count": 27,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Miley Cyrus",
-      "count": 23,
+      "count": 25,
       "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Troye Sivan",
+      "count": 19,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Allie X",
@@ -26,36 +31,31 @@
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Troye Sivan",
-      "count": 16,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
       "name": "Alma",
       "count": 14,
       "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Slayyyter",
-      "count": 13,
-      "url": "https://www.last.fm/music/Slayyyter"
+      "name": "Imagine Dragons",
+      "count": 12,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
     },
     {
       "name": "Kim Petras",
-      "count": 12,
+      "count": 11,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Imagine Dragons",
+      "name": "Slayyyter",
       "count": 11,
-      "url": "https://www.last.fm/music/Imagine+Dragons"
+      "url": "https://www.last.fm/music/Slayyyter"
     }
   ],
   "tracks": [
     {
       "name": "Fever",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
-      "count": 6,
+      "count": 7,
       "artist": "Dua Lipa"
     },
     {
@@ -65,10 +65,10 @@
       "artist": "Sia"
     },
     {
-      "name": "Troubled Paradise",
-      "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
-      "count": 6,
-      "artist": "Slayyyter"
+      "name": "Physical",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
+      "count": 5,
+      "artist": "Dua Lipa"
     },
     {
       "name": "Switch",
@@ -77,16 +77,28 @@
       "artist": "Iggy Azalea"
     },
     {
-      "name": "Used To Love Me",
-      "url": "https://www.last.fm/music/Kandi/_/Used+To+Love+Me",
+      "name": "Oh My!",
+      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
       "count": 5,
-      "artist": "Kandi"
+      "artist": "Melodysheep"
+    },
+    {
+      "name": "Troubled Paradise",
+      "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
+      "count": 5,
+      "artist": "Slayyyter"
     },
     {
       "name": "Loser",
       "url": "https://www.last.fm/music/Alma/_/Loser",
       "count": 4,
       "artist": "Alma"
+    },
+    {
+      "name": "Wicked Game",
+      "url": "https://www.last.fm/music/Chris+Isaak/_/Wicked+Game",
+      "count": 4,
+      "artist": "Chris Isaak"
     },
     {
       "name": "Don't Start Now",
@@ -99,18 +111,6 @@
       "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
       "count": 4,
       "artist": "Dua Lipa"
-    },
-    {
-      "name": "Physical",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
-      "count": 4,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "Icy",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Icy",
-      "count": 4,
-      "artist": "Kim Petras"
     }
   ]
 }
