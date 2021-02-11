@@ -4,10 +4,11 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
+lastmod: 2021-02-11T19:45:02.779123154Z
 ---
 
 - **search**
-    - consider search while typing
+	- consider search while typing
 - **comments**
 	- system to submit comments directly on my website
 	- should i publish them under another page so I can easily reply through micro interactions? that could create too much trouble and content on my website. 
@@ -34,16 +35,9 @@ date: 2021-02-10T19:09:57.974475866Z
 
 [Eagle](https://github.com/hacdias/eagle) powers my website.
 
-- Sync every 24h
-- Add lastmod automatically?
+- ~~Sync every 24h~~ This technically already happens every day when the silos updater goes into action.
 - Replace basic auth by something more secure
-- Improve editing interface (maybe use Svetle and PWA kinda thing?)
 - Add drafts list
-- Remove ActivityPub support
-    - Too cumbersome
-    - No followers
-    - Keep profile / .as2 types for files though
-- Simplify syndication logic (delete Twitter?)
 - CLI for local management
 - **flatten** content directory
 	- move all media to bunnyCDN?
