@@ -22,11 +22,15 @@
   {{ $secureJS := $js | resources.Fingerprint "sha512" }}
   <script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
   <script>
-    twemoji.parse(document.body, {
-      base: 'https://cdn.hacdias.com/emojis/13.0.0/',
-      folder: 'svg',
-      ext: '.svg'
-    });
+    function parseEmojis (el) {
+      twemoji.parse(el, {
+        base: 'https://cdn.hacdias.com/emojis/13.0.0/',
+        folder: 'svg',
+        ext: '.svg'
+      });
+    }
+
+    parseEmojis(document.body)
 
     {{ if .Params.math }}
     MathJax = {

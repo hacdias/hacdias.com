@@ -22,33 +22,8 @@
 	color: var(--white)
 }
 
-.result div {
-	display: grid;
-	grid-template-columns: auto 100px;
-	grid-gap: 1rem
-}
-
-.result time {
-	font-variant-numeric: tabular-nums;
-	letter-spacing: -.012em;
-	white-space: pre;
-	text-align: right
-}
-
-.result span {
-	font-weight: 700;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis
-}
-
-.result {
-	margin: 1rem 0
-}
-
-.result p {
-	margin-top: .25rem;
-	font-size: var(--f6)
+.result .title {
+  font-weight: bold;
 }
 </style>
 
@@ -66,7 +41,7 @@
     <div id='sections'>
       {{ range .Site.Sections }}
         {{ if .Params.emoji }}
-          <span class='section' data-section='{{ lower .Title }}'>{{.Params.emoji}} {{ .Title }}</span>
+          <span class='section' data-emoji='{{.Params.emoji}}' data-section='{{ lower .Title }}'>{{.Params.emoji}} {{ .Title }}</span>
         {{ end }}
       {{ end }}
     </div>
@@ -89,7 +64,12 @@ const input = document.querySelector('#search-form input[type="text"]')
 const results = document.querySelector('#search-results')
 const more = document.querySelector('#more-results')
 const moreButton = more.querySelector('button')
+const emojis = sections.reduce((acc, e) => {
+  acc[e.dataset.section] = e.dataset.emoji
+  return acc
+}, {})
 
+console.log(emojis)
 function fromHex(h) {
   var s = ''
   for (var i = 0; i < h.length; i += 2) {
@@ -147,22 +127,13 @@ async function search(pressed) {
   try {
     more.classList.add('dn')
     const page = Number.parseInt(moreButton.dataset.page)
-    const state = stateFromURL()
 
-    if (!state.query) {
+    if (!stateFromURL().query) {
       results.innerHTML = `<p>You haven't searched yet!</p>`
       return
     }
 
-    const query = new URLSearchParams()
-    query.set("q", state.query)
-    query.set("p", page)
-
-    if (state.sections.length) {
-      query.set("f", '(' + state.sections.map(sec => `section="${sec}"`).join(' OR ') + ')')
-    }
-
-    const url = `../search.json?${query.toString()}`
+    const url = `../search.json${window.location.search}`
     const res = await fetch(url)
     const data = await res.json()
 
@@ -179,34 +150,40 @@ async function search(pressed) {
       results.innerHTML = ''
     }
 
-    for (let { _formatted: { content, tags, id, title, date } } of data) {
+    for (let { _formatted: { content, id, title, date, section } } of data) {
       id = '..' + fromHex(id)
-      title = title || 'A note'
+      emoji = emojis[section] || '🕸'
+
+      if (!title) {
+        if (content) {
+          title = content
+          if (!(title.endsWith('.') || title.endsWith('?') || title.endsWith('!'))) title += "…"
+        } else {
+          title = 'A note'
+        }
+      }
 
       if (date) {
         date = new Date(date)
         const year = date.getFullYear()
-        const month = (date.getMonth() + 1).toString().padStart(2, '0')
-        const day = date.getDate().toString().padStart(2, '0')
-        date = `${year}-${month}-${day}`
+        const month = date.toLocaleString('en', { month: 'long' })
+        if (year === 1) {
+          date = ''
+        } else {
+          date = `<small> on ${month} ${year}</small>`
+        }
       } else {
-        date = 'Unknown date'
+        date = ''
       }
 
-      results.innerHTML += `<div class="result">
-  <a href="${id}" class="no-link">
-    <div>
-      <span>${title}</span>
-      <time>${date}</time>
-    </div>
-    <p>…${content}…</p>
-  </a>
-</div>`
+      results.innerHTML += `<p><a href="${id}" class="result no-link">${emoji} <span class="title">${title}</span> ${date}</a></p>`
     }
 
     if (data.length == 20) {
       more.classList.remove('dn')
     }
+
+    parseEmojis(results)
   } catch (err) {
     results.innerHTML = `<p style="color:red">An error occurred: ${err.toString()}</p>`
   }
