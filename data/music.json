@@ -2,60 +2,60 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 35,
+      "count": 43,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Sia",
-      "count": 34,
+      "count": 33,
       "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "Dua Lipa",
-      "count": 27,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
       "name": "Miley Cyrus",
-      "count": 25,
+      "count": 26,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
+      "name": "Dua Lipa",
+      "count": 24,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
       "name": "Troye Sivan",
-      "count": 19,
+      "count": 16,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Allie X",
-      "count": 16,
+      "count": 14,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Alma",
-      "count": 14,
+      "count": 13,
       "url": "https://www.last.fm/music/Alma"
     },
     {
       "name": "Imagine Dragons",
-      "count": 12,
+      "count": 13,
       "url": "https://www.last.fm/music/Imagine+Dragons"
     },
     {
       "name": "Kim Petras",
-      "count": 11,
+      "count": 9,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Slayyyter",
-      "count": 11,
-      "url": "https://www.last.fm/music/Slayyyter"
+      "name": "RuPaul",
+      "count": 8,
+      "url": "https://www.last.fm/music/RuPaul"
     }
   ],
   "tracks": [
     {
       "name": "Fever",
       "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
-      "count": 7,
+      "count": 6,
       "artist": "Dua Lipa"
     },
     {
@@ -77,22 +77,10 @@
       "artist": "Iggy Azalea"
     },
     {
-      "name": "Oh My!",
-      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
-      "count": 5,
-      "artist": "Melodysheep"
-    },
-    {
-      "name": "Troubled Paradise",
-      "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
-      "count": 5,
-      "artist": "Slayyyter"
-    },
-    {
-      "name": "Loser",
-      "url": "https://www.last.fm/music/Alma/_/Loser",
+      "name": "Call Me Maybe",
+      "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe",
       "count": 4,
-      "artist": "Alma"
+      "artist": "Carly Rae Jepsen"
     },
     {
       "name": "Wicked Game",
@@ -101,16 +89,28 @@
       "artist": "Chris Isaak"
     },
     {
-      "name": "Don't Start Now",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Don%27t+Start+Now",
+      "name": "Hallucinate",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Hallucinate",
       "count": 4,
       "artist": "Dua Lipa"
     },
     {
-      "name": "Future Nostalgia",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Future+Nostalgia",
+      "name": "Used To Love Me",
+      "url": "https://www.last.fm/music/Kandi/_/Used+To+Love+Me",
       "count": 4,
-      "artist": "Dua Lipa"
+      "artist": "Kandi"
+    },
+    {
+      "name": "911",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/911",
+      "count": 4,
+      "artist": "Lady Gaga"
+    },
+    {
+      "name": "Oh My!",
+      "url": "https://www.last.fm/music/Melodysheep/_/Oh+My!",
+      "count": 4,
+      "artist": "Melodysheep"
     }
   ]
 }
