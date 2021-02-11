@@ -7,9 +7,7 @@ date: 2021-02-10T19:09:57.974475866Z
 ---
 
 - **search**
-    - faster frontend with more responsiveness
-    - add more options in the frontend
-    - Allow the URL to indicate what we are searching
+    - consider search while typing
 - **comments**
 	- system to submit comments directly on my website
 	- should i publish them under another page so I can easily reply through micro interactions? that could create too much trouble and content on my website. 
