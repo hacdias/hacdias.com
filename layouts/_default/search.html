@@ -1,0 +1,231 @@
+{{ define "main" }}
+
+<style>
+#sections {
+	margin: 1rem -.25rem
+}
+
+.section {
+	text-decoration: none;
+	margin: .25rem;
+	font-size: .875rem;
+	padding: .5rem;
+	background-color: var(--near-white);
+	color: var(--gray);
+	display: inline-block;
+	cursor: pointer;
+	user-select: none
+}
+
+.section.active {
+	background: var(--action);
+	color: var(--white)
+}
+
+.result div {
+	display: grid;
+	grid-template-columns: auto 100px;
+	grid-gap: 1rem
+}
+
+.result time {
+	font-variant-numeric: tabular-nums;
+	letter-spacing: -.012em;
+	white-space: pre;
+	text-align: right
+}
+
+.result span {
+	font-weight: 700;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis
+}
+
+.result {
+	margin: 1rem 0
+}
+
+.result p {
+	margin-top: .25rem;
+	font-size: var(--f6)
+}
+</style>
+
+<main role='main'>
+  <h1>{{ .Title }}</h1>
+
+  <div class='copy'>
+    {{ with .Content }}{{ . }}{{ end }}
+
+    <form id='search-form' class='inline-form'>
+      <input aria-label="Search terms" required type='text' name='query' placeholder="What do you want to search for?" />
+      <input type='submit' value='Search' style="background-color: var(--action); border-color: var(--action)" />
+    </form>
+
+    <div id='sections'>
+      {{ range .Site.Sections }}
+        {{ if .Params.emoji }}
+          <span class='section' data-section='{{ lower .Title }}'>{{.Params.emoji}} {{ .Title }}</span>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <hr>
+
+    <div id='search-results'>
+      <p>You haven't searched yet!</p>
+    </div>
+
+    <p id='more-results' class='dn' style='display: flex; font-size: var(--f6)'>
+      <button style='margin-left: auto' data-page='0' onclick='search(true)'>More results…</button>
+    </p>
+  </div>
+</main>
+
+<script>
+const sections = Array.from(document.querySelectorAll('.section'))
+const input = document.querySelector('#search-form input[type="text"]')
+const results = document.querySelector('#search-results')
+const more = document.querySelector('#more-results')
+const moreButton = more.querySelector('button')
+
+function fromHex(h) {
+  var s = ''
+  for (var i = 0; i < h.length; i += 2) {
+    s += String.fromCharCode(parseInt(h.substr(i, 2), 16))
+  }
+  return decodeURIComponent(escape(s))
+}
+
+sections.map(el => {
+  el.addEventListener('click', () => {
+    el.classList.toggle('active')
+    buildURL()
+  })
+})
+
+document.getElementById('search-form').addEventListener('submit', event => {
+  event.preventDefault()
+  buildURL()
+})
+
+function buildURL() {
+  moreButton.dataset.page = 0
+
+  const state = {
+    sections: sections
+      .filter(el => el.classList.contains('active'))
+      .map(el => el.dataset.section),
+    query: input.value
+  }
+
+  const url = new URLSearchParams()
+  url.set("s", state.sections.join(','))
+  url.set("q", state.query)
+  history.pushState(state, "Search", `?${url.toString()}`)
+
+  search()
+}
+
+function stateFromURL() {
+  const url = new URLSearchParams(window.location.search)
+  const sections = (url.get('s') || '').split(',').filter(l => l)
+  const query = url.get('q') || ''
+
+  return {
+    sections,
+    query
+  }
+}
+
+async function search(pressed) {
+  if (pressed) {
+    moreButton.dataset.page++
+  }
+
+  try {
+    more.classList.add('dn')
+    const page = Number.parseInt(moreButton.dataset.page)
+    const state = stateFromURL()
+
+    if (!state.query) {
+      results.innerHTML = `<p>You haven't searched yet!</p>`
+      return
+    }
+
+    const query = new URLSearchParams()
+    query.set("q", state.query)
+    query.set("p", page)
+
+    if (state.sections.length) {
+      query.set("f", '(' + state.sections.map(sec => `section="${sec}"`).join(' OR ') + ')')
+    }
+
+    const url = `../search.json?${query.toString()}`
+    const res = await fetch(url)
+    const data = await res.json()
+
+    if (!Array.isArray(data)) {
+      throw new Error('response is not array')
+    }
+
+    if (data.length === 0 && page === 0) {
+      results.innerHTML = '<p>No results found for this search…</p>'
+      return
+    }
+
+    if (page === 0) {
+      results.innerHTML = ''
+    }
+
+    for (let { _formatted: { content, tags, id, title, date } } of data) {
+      id = '..' + fromHex(id)
+      title = title || 'A note'
+
+      if (date) {
+        date = new Date(date)
+        const year = date.getFullYear()
+        const month = (date.getMonth() + 1).toString().padStart(2, '0')
+        const day = date.getDate().toString().padStart(2, '0')
+        date = `${year}-${month}-${day}`
+      } else {
+        date = 'Unknown date'
+      }
+
+      results.innerHTML += `<div class="result">
+  <a href="${id}" class="no-link">
+    <div>
+      <span>${title}</span>
+      <time>${date}</time>
+    </div>
+    <p>…${content}…</p>
+  </a>
+</div>`
+    }
+
+    if (data.length == 20) {
+      more.classList.remove('dn')
+    }
+  } catch (err) {
+    results.innerHTML = `<p style="color:red">An error occurred: ${err.toString()}</p>`
+  }
+}
+
+(() => {
+  const state = stateFromURL()
+  input.value = state.query
+  sections.forEach(s => s.classList
+    .toggle('active', state.sections
+      .includes(s.dataset.section)
+    )
+  )
+
+  search()
+  window.addEventListener('popstate', () => search())
+})()
+</script>
+
+<noscript>Unfortunately, this page doesn't work without JavaScript enabled 😭</noscript>
+
+{{ end }}
