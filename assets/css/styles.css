@@ -466,6 +466,11 @@ figure.right {
   margin-left: 1rem;
 }
 
+.warning {
+  background: #f1c40f;
+  padding: 0.5rem;
+}
+
 @media screen and (max-width: 38rem) {
   :root {
     --space: 1.5rem;
