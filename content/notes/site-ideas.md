@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-11T19:45:02.779123154Z
+lastmod: 2021-02-11T23:02:47.222626183Z
 ---
 
 - **search**
@@ -36,7 +36,6 @@ lastmod: 2021-02-11T19:45:02.779123154Z
 [Eagle](https://github.com/hacdias/eagle) powers my website.
 
 - ~~Sync every 24h~~ This technically already happens every day when the silos updater goes into action.
-- Replace basic auth by something more secure
 - Add drafts list
 - CLI for local management
 - **flatten** content directory
