@@ -19,7 +19,7 @@ emoji: "\U0001F4D5"
 }
 </style>
 
-{{< figure src="book.gif" alt="Book" class="left pixelated" style="max-width: 100px; margin-top: -0.5rem; margin-right: 1rem;" >}}
+{{< figure src="https://cdn.hacdias.com/uploads/book.gif" alt="Book" class="left pixelated" style="max-width: 100px; margin-top: -0.5rem; margin-right: 1rem;" >}}
 
 This is my bookshelf with all books 📖 I remember reading in the past, or that I'm reading now or want to read in the near future. Most of them are in Portuguese since I read them thorough my childhood and teenage years. All this information comes from my [GoodReads page](https://goodreads.com/hacdias)!
 
