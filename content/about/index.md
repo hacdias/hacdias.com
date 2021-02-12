@@ -1,5 +1,6 @@
 ---
 title: About
+lastmod: 2021-02-12T10:38:23.275529534Z
 emoji: "\U0001F9D4"
 noMentions: true
 ---
@@ -34,7 +35,7 @@ Back in 2014, I wrote my first ever post in this website, in Portuguese, where I
 
 ## 💼 Experience
 
-### Protocol Labs, Software Engineer | <small>2017 - now</small> {#protocol-lab}
+### Protocol Labs, Software Engineer | <small>2017 - ∞</small> {#protocol-lab}
 
 > Protocol Labs is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.
 
