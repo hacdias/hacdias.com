@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-12T19:47:08.548026693Z
+lastmod: 2021-02-12T22:00:14.548794415Z
 ---
 
 ## Posts
@@ -14,6 +14,8 @@ lastmod: 2021-02-12T19:47:08.548026693Z
     - https://www.wired.com/story/how-to-make-a-tree-with-fractals/
     - https://en.wikipedia.org/wiki/Pythagoras_tree_(fractal)
     - https://en.wikipedia.org/wiki/Newton_fractal
+    - https://en.wikipedia.org/wiki/Koch_snowflakel
+    - https://www.cs.utoronto.ca/~noam/fractal.html
 
 ## Features
 
