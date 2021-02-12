@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2021-02-12T14:07:43.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "Snowpiercer",
       "watched": "2021-02-10T21:20:51.000Z",
       "url": "https://trakt.tv/shows/snowpiercer"
@@ -1866,11 +1871,6 @@
       "title": "Fate: The Winx Saga",
       "watched": "2021-01-24T07:58:49.000Z",
       "url": "https://trakt.tv/shows/fate-the-winx-saga"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2021-01-23T06:55:40.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "Good Witch",
