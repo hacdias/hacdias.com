@@ -7,8 +7,8 @@ function createCanvas (dpi = 1) {
   const width = parseInt(window.getComputedStyle(frame).width)
   const height = parseInt(window.getComputedStyle(frame).height)
 
-  canvas.width = width
-  canvas.height = height
+  canvas.width = width / 2
+  canvas.height = height / 2
   canvas.style.width = width
   canvas.style.height = height
 

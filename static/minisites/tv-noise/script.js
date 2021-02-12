@@ -2,8 +2,8 @@ var AudioContext = window.AudioContext || window.webkitAudioContext
 
 function createCanvas () {
   let canvas = document.createElement('canvas')
-  canvas.width = window.innerWidth / 2
-  canvas.height = window.innerHeight / 2
+  canvas.width = window.innerWidth / 4
+  canvas.height = window.innerHeight / 4
 
   document.body.appendChild(canvas)
   return canvas
