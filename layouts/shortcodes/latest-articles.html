@@ -1,0 +1,8 @@
+{{ $articles :=  where .Site.RegularPages ".Section" "=" "articles" }}
+{{ $articles = sort $articles "Date" "desc" }}
+
+<ul>
+  {{ range first 10 $articles }}
+  <li><strong><a href={{ .RelPermalink }}>{{ .Title }}</a></strong> <small>on {{ dateFormat "January 02, 2006" .Date }}</small></li>
+  {{ end }}
+</ul>

@@ -29,14 +29,9 @@ I recently started a biweekly Monday newsletter about what I'm studying, working
 
 ## ✏️ Writing
 
-This is a brief list of my favorite and latest [articles](/articles/). Please check out all my [articles](/articles/) and my [micro blog](/micro/) for other smaller interactions.
+This is a brief list of my latest [articles](/articles/). Please check out all my [articles](/articles/) and my [micro blog](/micro/) for other smaller interactions.
 
-- [**Recently**](/now/), a monthly post I write about the updates on my life, things I've learned, or basically anything else that comes to mind.
-- [**Back to the 90s**](/articles/2020/05/back-90s/), about the old web where everyone had their own website made by hand, creatively, emanating personality.
-- [**Analyzing my shows and movie habits**](/articles/2020/02/trakt-analysis/), about how I used Trakt API and some data visualization libraries to analyse how many TV shows and movies I watched.
-- [**Build a dynamic website… or not?**](/articles/2020/01/dynamic-static/), about why or not we should build dynamic websites. What are the advantages and disadvantages?
-- [**We don't own our data, do we?**](/articles/2019/12/own-your-data/), where I decided to write a bit about our data and its ownership on the multiple platforms we use on a daily basis.
-- [**Decentralizing my website with IPFS**](/articles/2019/08/decentralizing-my-website-with-ipfs/), about how to use IPFS and Cloudflare to build a decentralized website and be part of the web3.
+{{< latest-articles >}}
 
 ## 📝 Guestbook
 
