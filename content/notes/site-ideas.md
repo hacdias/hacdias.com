@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-11T23:02:47.222626183Z
+lastmod: 2021-02-12T08:00:02.200064031Z
 ---
 
 - **search**
@@ -12,6 +12,7 @@ lastmod: 2021-02-11T23:02:47.222626183Z
 - **comments**
 	- system to submit comments directly on my website
 	- should i publish them under another page so I can easily reply through micro interactions? that could create too much trouble and content on my website. 
+- add recent posts to homepage
 -  **bookmarks**
     - allow tags and make them their own page
     - add link to starred repositories on Github
@@ -35,7 +36,6 @@ lastmod: 2021-02-11T23:02:47.222626183Z
 
 [Eagle](https://github.com/hacdias/eagle) powers my website.
 
-- ~~Sync every 24h~~ This technically already happens every day when the silos updater goes into action.
 - Add drafts list
 - CLI for local management
 - **flatten** content directory

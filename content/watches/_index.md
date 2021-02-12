@@ -23,11 +23,11 @@ layout: bullet-list
 
 This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that I'm watching. I use Trakt to record what I watch and I created a [script](https://github.com/hacdias/trakt-collector) to collect that information. Some dates are not be correct.
 
-## 📺 Series
+## 📺 Series {#series}
 
 {{< watches type="series" >}}
 
-## 🎬 Movies
+## 🎬 Movies {#movies}
 
 {{< watches type="movies" >}}
 
