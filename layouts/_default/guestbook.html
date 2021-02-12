@@ -46,9 +46,8 @@
     </p>
   </div>
 
-  {{ $mentions := .Resources.GetMatch "mentions.json" }}
+  {{ $mentions := .Site.Data.interactions.guestbook }}
   {{ if $mentions }}
-    {{ $mentions = unmarshal $mentions }}
     {{ $mentions = where $mentions "type" "ne" "like" }}
     {{ $mentions = where $mentions "type" "ne" "repost" }}
     {{ $mentions = sort $mentions "date" "desc" }}
@@ -77,7 +76,7 @@
           </span><br>
         {{ end }}
 
-        {{ with .content.text }}
+        {{ with .content }}
           <br><span>{{ . |  safeHTML }}</span>
         {{ end }}
       </div>
