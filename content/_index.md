@@ -1,5 +1,6 @@
 ---
 title: hacdias.com
+lastmod: 2021-02-12T20:23:31.029541972Z
 ---
 
 <style>
@@ -52,6 +53,7 @@ There's much more going on with this website than you might think at first sight
 - 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
 - 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
 - 📌 [**Links**](/links/), a collection of interesting websites that I find worth sharing.
+- 📓 [**Notes**](/notes/), my digital garden.
 - 📦 [**Projects**](/projects/), the major projects I've worked on.
 - 🔎 [**Search**](/search/), yes, this website can be searched on!
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.
