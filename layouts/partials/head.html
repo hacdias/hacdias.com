@@ -1,5 +1,4 @@
 {{- $description := or .Description .Site.Params.Description }}
-{{- $img := or (.Page.Resources.GetMatch "*social*") (.Page.Resources.GetMatch "*cover*") (.Page.Resources.GetMatch "*thumb*") }}
 {{- $shortTitle := or .Title .Site.Title -}}
 {{- $longTitle := (printf "%s - %s" $shortTitle .Site.Title) -}}
 {{- if .IsHome -}}{{ $longTitle = .Site.Title }}{{- end -}}
@@ -29,9 +28,9 @@
 <meta property="og:description" content="{{ $description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-{{- with $img }}
+{{- with .Params.image }}
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta property="og:image" content="{{ .Permalink }}" />
+  <meta property="og:image" content="{{ . }}" />
 {{ else }}
   {{ if .IsHome -}}
     <meta name="twitter:card" content="summary"/>
@@ -60,18 +59,6 @@
   <link rel="feed" href="https://hacdias.com/all" />
   <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
   <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
-{{ end }}
-
-{{ if .Params.mermaid }}
-  {{- $mermaid := resources.Get "js/vendor/mermaid.min.js" }}
-  <script defer src="{{ $mermaid.RelPermalink }}?hash={{ md5 $mermaid.Content }}"></script>
-
-  <script>
-  document.addEventListener('DOMContentLoaded', () =>{
-    mermaid.initialize({ theme: 'forest' })
-    mermaid.init('.language-mermaid')
-  })
-  </script>
 {{ end }}
 
 <!-- OpenID delegation -->

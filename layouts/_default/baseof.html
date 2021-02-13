@@ -18,9 +18,14 @@
     {{- end }}
   </div>
 
-  {{ $js := resources.Get "js/vendor/twemoji.min.js" }}
-  {{ $secureJS := $js | resources.Fingerprint "sha512" }}
-  <script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+  {{ $js := resources.Get "js/vendor/twemoji.min.js" | resources.Fingerprint "sha512" }}
+  <script type="text/javascript" src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+
+  {{ if .Params.mermaid }}
+    {{- $mermaid := resources.Get "js/vendor/mermaid.min.js" | resources.Fingerprint "sha512" }}
+    <script type="text/javascript" src="{{ $mermaid.RelPermalink }}" integrity="{{ $mermaid.Data.Integrity }}"></script>
+  {{ end }}
+
   <script>
     function parseEmojis (el) {
       twemoji.parse(el, {
@@ -28,16 +33,21 @@
         folder: 'svg',
         ext: '.svg'
       });
-    }
+    };
 
-    parseEmojis(document.body)
+    parseEmojis(document.body);
 
     {{ if .Params.math }}
-    MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
-      }
-    };
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+      };
+    {{ end }}
+
+    {{ if .Params.mermaid }}
+      mermaid.initialize({ theme: 'forest' });
+      mermaid.init('.language-mermaid');
     {{ end }}
   </script>
   {{ if .Params.math }}
