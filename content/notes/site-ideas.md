@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-12T22:00:14.548794415Z
+lastmod: 2021-02-13T13:11:19.441899267Z
 ---
 
 ## Posts
@@ -44,6 +44,7 @@ lastmod: 2021-02-12T22:00:14.548794415Z
 - Serve my website over Gemini
 - Serve my website over TOR
 - **articles**: move out of year/month folders
+- use .rawcontent for twitter oir remove html
 
 ### Not very important
 
