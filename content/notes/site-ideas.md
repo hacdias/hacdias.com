@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-13T13:11:19.441899267Z
+lastmod: 2021-02-13T16:32:37.280197638Z
 ---
 
 ## Posts
@@ -16,6 +16,11 @@ lastmod: 2021-02-13T13:11:19.441899267Z
     - https://en.wikipedia.org/wiki/Newton_fractal
     - https://en.wikipedia.org/wiki/Koch_snowflakel
     - https://www.cs.utoronto.ca/~noam/fractal.html
+
+## CDN Structure
+
+- `/u/` - random uploads and pictures that do NOT need resizing
+- `/i/` - pictures that NEED resizing and compressing
 
 ## Features
 
@@ -48,7 +53,5 @@ lastmod: 2021-02-13T13:11:19.441899267Z
 
 ### Not very important
 
-- create rule to decide which assets to put on the CDN and which don't. Size based?
-- bring GIFs back under assets/ or static/
 - flatten content directory. Yes or no? Files in bundles or asssets/static?
 - consider using .html instead of / with .html stripped in the end URL
