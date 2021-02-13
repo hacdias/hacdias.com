@@ -5,7 +5,7 @@
   author:
     name: Tomáš Jakl
     url: https://nest.jakl.one/
-    photo: https://cdn.hacdias.com/webmentions/0861f5687fd05109b9090e723aa3b5adee77bab9822234b38772316d34eaa91d.webp
+    photo: https://cdn.hacdias.com/wm/0861f5687fd05109b9090e723aa3b5adee77bab9822234b38772316d34eaa91d.webp
 - wm-id: 946523
   type: mention
   url: https://jlelse.blog/thoughts/2020/12/crypto-bs
@@ -29,4 +29,4 @@
   author:
     name: Jan-Lukas Else
     url: https://jlelse.dev/
-    photo: https://cdn.hacdias.com/webmentions/6ba3ad40db26e74cb47cc332c5887d9f15bc5fb7880d87e7e6addda91859e4d3.png
+    photo: https://cdn.hacdias.com/wm/6ba3ad40db26e74cb47cc332c5887d9f15bc5fb7880d87e7e6addda91859e4d3.png

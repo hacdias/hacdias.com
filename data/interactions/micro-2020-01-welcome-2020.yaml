@@ -5,7 +5,7 @@
   author:
     name: gui is my name
     url: https://twitter.com/wutafuckinhoe
-    photo: https://cdn.hacdias.com/webmentions/3fc1ceb31285895ed11d5201c19b1130d1e1d211af28507e6c43973574fe3bec.jpg
+    photo: https://cdn.hacdias.com/wm/3fc1ceb31285895ed11d5201c19b1130d1e1d211af28507e6c43973574fe3bec.jpg
 - wm-id: 739546
   type: reply
   url: https://twitter.com/dietrich/status/1212196581937565696
@@ -14,7 +14,7 @@
   author:
     name: dietrich
     url: https://twitter.com/dietrich
-    photo: https://cdn.hacdias.com/webmentions/a2610f84987064d4fbeaf92c7c5ce3c81fb6f9081e92ee0cce78d69e38924b56.jpg
+    photo: https://cdn.hacdias.com/wm/a2610f84987064d4fbeaf92c7c5ce3c81fb6f9081e92ee0cce78d69e38924b56.jpg
 - wm-id: 739545
   type: like
   url: https://twitter.com/hacdias/status/1212163359480700928#favorited-by-799574
@@ -22,4 +22,4 @@
   author:
     name: dietrich
     url: https://twitter.com/dietrich
-    photo: https://cdn.hacdias.com/webmentions/a2610f84987064d4fbeaf92c7c5ce3c81fb6f9081e92ee0cce78d69e38924b56.jpg
+    photo: https://cdn.hacdias.com/wm/a2610f84987064d4fbeaf92c7c5ce3c81fb6f9081e92ee0cce78d69e38924b56.jpg

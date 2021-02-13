@@ -5,7 +5,7 @@
   date: 2020-06-01T07:24:38Z
   author:
     name: Henrique Dias
-    photo: https://cdn.hacdias.com/webmentions/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg
+    photo: https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg
 - wm-id: 805289
   type: reply
   url: https://twitter.com/bixamon/status/1268239059253473280
@@ -16,7 +16,7 @@
   author:
     name: Bi
     url: https://twitter.com/bixamon
-    photo: https://cdn.hacdias.com/webmentions/36aa1542bc8301fd68e46475c52dcdf0696bbd1c049d7cc9a70576579b168e99.jpg
+    photo: https://cdn.hacdias.com/wm/36aa1542bc8301fd68e46475c52dcdf0696bbd1c049d7cc9a70576579b168e99.jpg
 - wm-id: 825009
   type: like
   url: https://twitter.com/hacdias/status/1267210269903720454#favorited-by-1260619666621296640
@@ -24,4 +24,4 @@
   author:
     name: Nyabazar_education
     url: https://twitter.com/NyabazarE
-    photo: https://cdn.hacdias.com/webmentions/ebb11fa764f44e37c93e19ff5b9b04f6d32664a94a9e916895958541b96ca301.jpg
+    photo: https://cdn.hacdias.com/wm/ebb11fa764f44e37c93e19ff5b9b04f6d32664a94a9e916895958541b96ca301.jpg

@@ -16,7 +16,7 @@
   author:
     name: joe jenett
     url: https://hub.iwebthings.com/author/admin/
-    photo: https://cdn.hacdias.com/webmentions/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png
+    photo: https://cdn.hacdias.com/wm/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png
 - wm-id: 744449
   type: mention
   url: https://hub.iwebthings.com/01-06-20/
@@ -31,7 +31,7 @@
   author:
     name: joe jenett
     url: https://hub.iwebthings.com/
-    photo: https://cdn.hacdias.com/webmentions/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png
+    photo: https://cdn.hacdias.com/wm/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png
 - wm-id: 741159
   type: mention
   url: https://pointers.dailywebthing.com/01-06-20/
@@ -45,7 +45,7 @@
   author:
     name: joe jenett
     url: https://pointers.dailywebthing.com/author/admin/
-    photo: https://cdn.hacdias.com/webmentions/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png
+    photo: https://cdn.hacdias.com/wm/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png
 - wm-id: 808065
   type: mention
   url: https://pointers.dailywebthing.com/06-09-20/
@@ -59,4 +59,4 @@
   author:
     name: joe jenett
     url: https://pointers.dailywebthing.com/author/admin/
-    photo: https://cdn.hacdias.com/webmentions/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png
+    photo: https://cdn.hacdias.com/wm/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png

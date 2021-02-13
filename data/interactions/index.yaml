@@ -9,7 +9,7 @@
   author:
     name: Robert van Bregt
     url: https://robertvanbregt.nl/
-    photo: https://cdn.hacdias.com/webmentions/98755147f2919eaf81d954c6ab1e8adc42f09fa83fd02939201432195b1afc67.jpg
+    photo: https://cdn.hacdias.com/wm/98755147f2919eaf81d954c6ab1e8adc42f09fa83fd02939201432195b1afc67.jpg
 - wm-id: 749550
   type: mention
   url: https://jlelse.blog/dev/auto-blogroll-hugo/
@@ -80,7 +80,7 @@
   author:
     name: Jan-Lukas Else
     url: https://jlelse.dev/
-    photo: https://cdn.hacdias.com/webmentions/fc6ea73177b3cf82aeeeb3f42ba5cc5919521699bc3718aae694ef9f64520461.jpg
+    photo: https://cdn.hacdias.com/wm/fc6ea73177b3cf82aeeeb3f42ba5cc5919521699bc3718aae694ef9f64520461.jpg
 - wm-id: 748890
   type: mention
   url: https://boffosocko.com/2020/01/24/followed-henrique-dias/
@@ -95,7 +95,7 @@
   author:
     name: Aaron Parecki
     url: https://aaronparecki.com/
-    photo: https://cdn.hacdias.com/webmentions/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
+    photo: https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
 - wm-id: 739285
   type: like
   url: https://aaronparecki.com/2019/12/31/4/
@@ -103,7 +103,7 @@
   author:
     name: Aaron Parecki
     url: https://aaronparecki.com/
-    photo: https://cdn.hacdias.com/webmentions/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
+    photo: https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
 - wm-id: 739072
   type: like
   url: https://aaronparecki.com/2019/12/30/22/
@@ -111,7 +111,7 @@
   author:
     name: Aaron Parecki
     url: https://aaronparecki.com/
-    photo: https://cdn.hacdias.com/webmentions/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
+    photo: https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
 - wm-id: 738735
   type: reply
   url: https://aaronparecki.com/2019/12/29/5/
@@ -120,7 +120,7 @@
   author:
     name: Aaron Parecki
     url: https://aaronparecki.com/
-    photo: https://cdn.hacdias.com/webmentions/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
+    photo: https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
 - wm-id: 738548
   type: reply
   url: https://aaronparecki.com/2019/12/28/26/
@@ -129,7 +129,7 @@
   author:
     name: Aaron Parecki
     url: https://aaronparecki.com/
-    photo: https://cdn.hacdias.com/webmentions/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
+    photo: https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg
 - wm-id: 795601
   type: mention
   url: https://jlelse.blog/blogroll/
@@ -284,4 +284,4 @@
   author:
     name: Jan-Lukas Else
     url: https://jlelse.dev/
-    photo: https://cdn.hacdias.com/webmentions/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg
+    photo: https://cdn.hacdias.com/wm/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg

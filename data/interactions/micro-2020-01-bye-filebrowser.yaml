@@ -7,7 +7,7 @@
   author:
     name: Nathanael Dalliard
     url: https://twitter.com/ndalliard
-    photo: https://cdn.hacdias.com/webmentions/a2e7fd813cbc665d67db4a810c9a16620a7a0ed02a8e764f3e5c445354c26060.jpg
+    photo: https://cdn.hacdias.com/wm/a2e7fd813cbc665d67db4a810c9a16620a7a0ed02a8e764f3e5c445354c26060.jpg
 - wm-id: 742789
   type: like
   url: https://twitter.com/hacdias/status/1215336460888477696#favorited-by-167414251
@@ -15,7 +15,7 @@
   author:
     name: "tmk \U0001F3F3️‍\U0001F308"
     url: https://twitter.com/TheMrKiko
-    photo: https://cdn.hacdias.com/webmentions/73ed7e3913a818f52acbddba56acc3683734d7b122c5f87d49d1ee1469ab5c30.jpg
+    photo: https://cdn.hacdias.com/wm/73ed7e3913a818f52acbddba56acc3683734d7b122c5f87d49d1ee1469ab5c30.jpg
 - wm-id: 742788
   type: like
   url: https://twitter.com/hacdias/status/1215336460888477696#favorited-by-1209422731974004736
@@ -23,7 +23,7 @@
   author:
     name: Nathanael Dalliard
     url: https://twitter.com/ndalliard
-    photo: https://cdn.hacdias.com/webmentions/a2e7fd813cbc665d67db4a810c9a16620a7a0ed02a8e764f3e5c445354c26060.jpg
+    photo: https://cdn.hacdias.com/wm/a2e7fd813cbc665d67db4a810c9a16620a7a0ed02a8e764f3e5c445354c26060.jpg
 - wm-id: 742787
   type: like
   url: https://twitter.com/hacdias/status/1215336460888477696#favorited-by-16401507
@@ -31,7 +31,7 @@
   author:
     name: Pedro Teixeira
     url: https://twitter.com/pgte
-    photo: https://cdn.hacdias.com/webmentions/734547e8a2ceea06f913bf7f70e0b2bc49cabe286946a4529198d00e43a1fcde.jpg
+    photo: https://cdn.hacdias.com/wm/734547e8a2ceea06f913bf7f70e0b2bc49cabe286946a4529198d00e43a1fcde.jpg
 - wm-id: 742786
   type: reply
   url: https://twitter.com/hacdias/status/1215354456717611008
@@ -42,7 +42,7 @@
   author:
     name: Henrique Dias
     url: https://twitter.com/hacdias
-    photo: https://cdn.hacdias.com/webmentions/0f3c3d37581c611de93d0c6a18da787cda9c63d01d41d0ffad8d7cc662225e4b.jpg
+    photo: https://cdn.hacdias.com/wm/0f3c3d37581c611de93d0c6a18da787cda9c63d01d41d0ffad8d7cc662225e4b.jpg
 - wm-id: 742785
   type: reply
   url: https://twitter.com/Yusadolat/status/1215338522498027520
@@ -51,7 +51,7 @@
   author:
     name: "Yusadolat ☸ \U0001F433"
     url: https://twitter.com/Yusadolat
-    photo: https://cdn.hacdias.com/webmentions/70c9203f76a4c305f26cd9e36db1087e2b3dd66b24386e2fcca455bae021c438.jpg
+    photo: https://cdn.hacdias.com/wm/70c9203f76a4c305f26cd9e36db1087e2b3dd66b24386e2fcca455bae021c438.jpg
 - wm-id: 742784
   type: reply
   url: https://twitter.com/hacdias/status/1215349442230001669
@@ -60,7 +60,7 @@
   author:
     name: Henrique Dias
     url: https://twitter.com/hacdias
-    photo: https://cdn.hacdias.com/webmentions/0f3c3d37581c611de93d0c6a18da787cda9c63d01d41d0ffad8d7cc662225e4b.jpg
+    photo: https://cdn.hacdias.com/wm/0f3c3d37581c611de93d0c6a18da787cda9c63d01d41d0ffad8d7cc662225e4b.jpg
 - wm-id: 742783
   type: reply
   url: https://twitter.com/Yusadolat/status/1215337173182042113
@@ -69,7 +69,7 @@
   author:
     name: "Yusadolat ☸ \U0001F433"
     url: https://twitter.com/Yusadolat
-    photo: https://cdn.hacdias.com/webmentions/70c9203f76a4c305f26cd9e36db1087e2b3dd66b24386e2fcca455bae021c438.jpg
+    photo: https://cdn.hacdias.com/wm/70c9203f76a4c305f26cd9e36db1087e2b3dd66b24386e2fcca455bae021c438.jpg
 - wm-id: 742782
   type: reply
   url: https://twitter.com/mholt6/status/1215339799839510530
@@ -78,4 +78,4 @@
   author:
     name: "\U0001F9D7‍♂️ Matt Holt"
     url: https://twitter.com/mholt6
-    photo: https://cdn.hacdias.com/webmentions/a6b5d84cf987f7fb1e274830acd0b146b729558d7f87ac3363ae23e718c4b614.png
+    photo: https://cdn.hacdias.com/wm/a6b5d84cf987f7fb1e274830acd0b146b729558d7f87ac3363ae23e718c4b614.png

@@ -6,7 +6,7 @@
   author:
     name: "Matej Nemček 孔子 \U0001F4AB\U0001F38B"
     url: https://twitter.com/yangWao
-    photo: https://cdn.hacdias.com/webmentions/2338e2a23535281fd0394e09a500922af6650f1b5e1cf6599efd6ba6494d7fb6.jpg
+    photo: https://cdn.hacdias.com/wm/2338e2a23535281fd0394e09a500922af6650f1b5e1cf6599efd6ba6494d7fb6.jpg
 - wm-id: 738279
   type: reply
   url: https://twitter.com/hacdias/status/1209786826409545728
@@ -18,7 +18,7 @@
   author:
     name: Henrique Dias
     url: https://twitter.com/hacdias
-    photo: https://cdn.hacdias.com/webmentions/0f3c3d37581c611de93d0c6a18da787cda9c63d01d41d0ffad8d7cc662225e4b.jpg
+    photo: https://cdn.hacdias.com/wm/0f3c3d37581c611de93d0c6a18da787cda9c63d01d41d0ffad8d7cc662225e4b.jpg
 - wm-id: 738278
   type: like
   url: https://twitter.com/hacdias/status/1209572902426828806#favorited-by-144560866
@@ -26,7 +26,7 @@
   author:
     name: Diogo Redin
     url: https://twitter.com/DiogoRedin
-    photo: https://cdn.hacdias.com/webmentions/f044a5890b29d775b1d09ee567dfeec9e85a17c4cfdd66aa677868d02ecdcf85.jpg
+    photo: https://cdn.hacdias.com/wm/f044a5890b29d775b1d09ee567dfeec9e85a17c4cfdd66aa677868d02ecdcf85.jpg
 - wm-id: 738277
   type: like
   url: https://twitter.com/hacdias/status/1209572902426828806#favorited-by-1028353082206367744
@@ -34,7 +34,7 @@
   author:
     name: Malik
     url: https://twitter.com/malikpiara
-    photo: https://cdn.hacdias.com/webmentions/15cb3e1317e34858bc265a4a32a4cce19262380b0ee51a58dfd6c6b6962ff495.jpg
+    photo: https://cdn.hacdias.com/wm/15cb3e1317e34858bc265a4a32a4cce19262380b0ee51a58dfd6c6b6962ff495.jpg
 - wm-id: 738276
   type: reply
   url: https://twitter.com/yangWao/status/1209788562016739328
@@ -46,7 +46,7 @@
   author:
     name: "Matej Nemček 孔子 \U0001F4AB\U0001F38B"
     url: https://twitter.com/yangWao
-    photo: https://cdn.hacdias.com/webmentions/2338e2a23535281fd0394e09a500922af6650f1b5e1cf6599efd6ba6494d7fb6.jpg
+    photo: https://cdn.hacdias.com/wm/2338e2a23535281fd0394e09a500922af6650f1b5e1cf6599efd6ba6494d7fb6.jpg
 - wm-id: 738269
   type: repost
   url: https://twitter.com/malikpiara/status/1209827344879439873
@@ -56,7 +56,7 @@
   author:
     name: Malik
     url: https://twitter.com/malikpiara
-    photo: https://cdn.hacdias.com/webmentions/15cb3e1317e34858bc265a4a32a4cce19262380b0ee51a58dfd6c6b6962ff495.jpg
+    photo: https://cdn.hacdias.com/wm/15cb3e1317e34858bc265a4a32a4cce19262380b0ee51a58dfd6c6b6962ff495.jpg
 - wm-id: 738268
   type: like
   url: https://twitter.com/hacdias/status/1209572902426828806#favorited-by-802279955480645632
@@ -64,7 +64,7 @@
   author:
     name: "André Breda \U0001F35E"
     url: https://twitter.com/abredabread
-    photo: https://cdn.hacdias.com/webmentions/964e34ee28f5aecbf1fb5469b86bbd218d149ee9a6a1e377602ddac988ff9a80.jpg
+    photo: https://cdn.hacdias.com/wm/964e34ee28f5aecbf1fb5469b86bbd218d149ee9a6a1e377602ddac988ff9a80.jpg
 - wm-id: 738206
   type: mention
   url: https://twitter.com/yangWao/status/1209783690437500928
@@ -76,14 +76,14 @@
   author:
     name: "Matej Nemček 孔子 \U0001F4AB\U0001F38B"
     url: https://twitter.com/yangWao
-    photo: https://cdn.hacdias.com/webmentions/2338e2a23535281fd0394e09a500922af6650f1b5e1cf6599efd6ba6494d7fb6.jpg
+    photo: https://cdn.hacdias.com/wm/2338e2a23535281fd0394e09a500922af6650f1b5e1cf6599efd6ba6494d7fb6.jpg
 - wm-id: 825428
   type: reply
   url: https://commentpara.de/comment/616.htm
   date: 2020-07-12T21:03:37Z
   author:
     name: Anonymous
-    photo: https://cdn.hacdias.com/webmentions/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg
+    photo: https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg
 - wm-id: 825429
   type: reply
   url: https://commentpara.de/comment/617.htm
@@ -93,4 +93,4 @@
   date: 2020-07-12T21:05:58Z
   author:
     name: Anonymous
-    photo: https://cdn.hacdias.com/webmentions/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg
+    photo: https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg
