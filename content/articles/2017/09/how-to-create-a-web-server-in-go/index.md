@@ -19,11 +19,6 @@ It has recently reached version 1.9 and 2.0 is on [its way](https://blog.golang.
 
 <!--more-->
 
-{{< figure
-  src="graph.jpg"
-  caption="TIOBE Index for September 2017"
-  alt="TIOBE Index for September 2017" >}}
-
 Go is an incredible effective language to create web servers and web services thanks to its powerful standard library that can help us to do whatever we want with the web.
 Start by [downloading](https://golang.org/doc/install) and installing Go on your computer. It's pretty straightforward. You can check if it was correctly installed by running go version on your console.
 

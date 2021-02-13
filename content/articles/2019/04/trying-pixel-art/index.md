@@ -25,7 +25,7 @@ and that they seem to be... I don't know... interesting to me.
 
 {{< figure
   class="left pixelated"
-  src="https://cdn.hacdias.com/uploads/blinking-eye.gif"
+  src="https://cdn.hacdias.com/u/2019-04-blinking-eye.gif"
   caption="Blinking Eye" >}}
 
 I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
@@ -45,12 +45,12 @@ and I actually happen to like them. So I've started by doing so.
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   {{< figure
     style="margin-right: 1rem"
-    src="https://cdn.hacdias.com/uploads/2019-04-magician.jpeg"
+    src="https://cdn.hacdias.com/u/2019-04-magician.jpeg"
     caption="A magician, wizard ? 🧙‍♂️" >}}
 
   {{< figure
     style="margin-left: 1rem"
-    src="https://cdn.hacdias.com/uploads/2019-04-cat.jpeg"
+    src="https://cdn.hacdias.com/u/2019-04-cat.jpeg"
     caption="A Cat" >}}
 </div>
 
@@ -63,7 +63,7 @@ showing you first the last one I've done but that I don't actually enjoy that mu
 the central building of my university.
 
 {{< figure
-  src="tecnico-central-social.jpg"
+  src="https://cdn.hacdias.com/u/2019-04-tecnico-central.jpg"
   class="pixelated"
   caption="Técnico - Central Building" >}}
 
@@ -73,7 +73,7 @@ coming.
 
 {{< figure
   class="right pixelated"
-  src="https://cdn.hacdias.com/uploads/tecnico-tower-thumb.gif"
+  src="https://cdn.hacdias.com/u/2019-04-tecnico-tower.gif"
   caption="Técnico - Chemistry Tower" >}}
 
 I started by drawing the tower itself and the windows. Then, I moved to the building in front

@@ -88,7 +88,7 @@ figures you'll see below can be found on the [repository](https://github.com/hac
 First of all, I wanted to know which genres I've been watching more. I separated shows (collections of episodes) from movies
 to get an overview and this is what I got:
 
-{{< figure class="invert small-svg" src="genres-general.svg" >}}
+{{< figure class="small-svg" src="genres-general.svg" >}}
 
 The unique shows are marked as {{< color "#fed330" >}} and the movies marked as {{< color "#3867d6" >}}. It's clear
 that most of the content I watch is drama-related or comedy. Also, please note that a movie or show can be categorized
@@ -97,20 +97,20 @@ as more than one genre.
 After that, I decided it would be interesting to see how's my monthly activity. In this case, I did not reduce the show's episode.
 Here, I'm counting every episode as one and every movie as one.
 
-{{< figure class="invert" src="monthly.svg" >}}
+{{< figure src="monthly.svg" >}}
 
 It's clear that most of what I watch are TV shows, but that's normal due to their intrinsic nature. It's also interesting
 to see that November and December were the months where I watched most TV shows. However, I think this might've been an exception
 that happened last year. In addition, it may also be related to the schedule of the shows I watch. Most of them may be released on that time of the year.
 
-{{< figure class="invert smaller-svg" src="weekday.svg" >}}
+{{< figure class="smaller-svg" src="weekday.svg" >}}
 
 Regarding to which day of the week I usually watch more TV shows - colored with {{< color "#eb3b5a" >}} -, it seems it doesn't matter
 much. Please note that this chart takes the sum of all episodes and movies I watched on each weekday through 2019. In opposition to TV shows, it seems that I clearly watch more movies on Saturdays and Sundays.
 
 And... I decided to leave the most exciting graph to the end. Here's a year map where you can visualize in which days of the year I watched more media.
 
-{{< figure class="invert" src="year-dist.svg" >}}
+{{< figure src="year-dist.svg" >}}
 
 The closer a square is to {{< color "#3867d6" >}}, the more episodes or movies I watched on that day. By looking
 to the graph, I'd say that I watched something on about 50% of the days of the year, if not more.

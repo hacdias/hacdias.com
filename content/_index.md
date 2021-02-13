@@ -22,7 +22,7 @@ Hi! 👋 I'm from Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in
 
 ## 🗞 Newsletter
 
-{{< figure src="https://cdn.hacdias.com/uploads/mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
+{{< figure src="https://cdn.hacdias.com/u/2021-02-mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
 
 I recently started a biweekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. You can check out the posts I've [sent out](/tags/mondayletter/) so far! Are you interested?
 
@@ -36,7 +36,7 @@ This is a brief list of my latest [articles](/articles/). Please check out all m
 
 ## 📝 Guestbook
 
-{{< figure src="https://cdn.hacdias.com/uploads/small-book.gif" alt="Open Book" class="right pixelated" style="max-width: 60px; margin-top: 0; margin-left: 1rem;" >}}
+{{< figure src="https://cdn.hacdias.com/u/2021-02-book-icon.gif" alt="Open Book" class="right pixelated" style="max-width: 60px; margin-top: 0; margin-left: 1rem;" >}}
 
 Hey! Please check out my 90s-style inspired [**guestbook**](/guestbook/). Feel free to drop a few lines or just say 'hi' if you enjoyed navigating my corner in the Internet!
 

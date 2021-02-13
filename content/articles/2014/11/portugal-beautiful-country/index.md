@@ -29,7 +29,7 @@ The portugueses thinks that his own country - Portugal - is horrible and that ha
 
 Portugal have various problems related with the work world, economy... but the rest of the world also has this problems.
 
-{{< figure src="mosteiro-alcobaca.jpg" alt="Monastery of Alcobaça" caption="Monastery of Alcobaça" >}}
+{{< figure cdn="2014-11-mosteiro-alcobaca" alt="Monastery of Alcobaça" caption="Monastery of Alcobaça" >}}
 
 We should look at the "light side". Why many tourists visits Portugal? They have some reasons and one of them is that Portugal is splendid.
 

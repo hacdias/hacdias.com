@@ -26,7 +26,7 @@ that matters, I have to thank a lot to them because they were my ground floor.
 <!--more-->
 
 {{< figure
-    src="landing-fest-thumb.jpg"
+    cdn="2017-07-landing-fest-thumb"
     caption="A bit of Landing.jobs Festival 2015" >}}
 
 In that same day, there was someone who saw me and asked me if I was Henrique
@@ -87,7 +87,7 @@ astonishing to be in Lisbon once more but this time accompanied by two excellent
 people.
 
 {{< figure
-    src="startup-lx.jpg"
+    cdn="2017-07-startup-lx"
     caption="A sneak peek inside Startup Lisboa." >}}
 
 I stayed three days in Lisbon. I have to thank a lot to Malik and to my parents,
@@ -114,7 +114,7 @@ from your mistakes and don't repeat them. Also, be careful when choosing your
 friends. Your friendships matter as much as your own sanity.
 
 {{< figure
-    src="fresh-ideas.jpg"
+    cdn="2017-07-fresh-ideas"
     caption="'Fresh ideas here' on Startup Lisboa" >}}
 
 Now, I think it's a really good time to tell you a bit of background information
@@ -125,7 +125,7 @@ inhabitants aren't even centralized. It doesn't seem really comfortable, doesn't
 it? But that's where I live.
 
 {{< figure
-    src="santana-da-serra.jpg"
+    cdn="2017-07-santana-da-serra"
     class="full"
     caption="Santana da Serra." >}}
 
@@ -176,7 +176,7 @@ but for me it has been incredible to work with more people, even if only
 remotely.
 
 {{< figure
-    src="web-summit-2016.jpg"
+    cdn="2017-07-web-summit-2016"
     caption="Left to the right: Malik, Fábio and I at Web Summit 2016." >}}
 
 It's great because you can learn how other people work, how other people think,

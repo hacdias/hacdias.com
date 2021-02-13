@@ -18,7 +18,7 @@ layout: articles
 }
 </style>
 
-{{< figure src="https://cdn.hacdias.com/uploads/mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
+{{< figure src="https://cdn.hacdias.com/u/2021-02-mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
 
 This is my biweekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. Here you can find the past issues. Are you interested?
 

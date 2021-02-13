@@ -11,4 +11,4 @@ aliases:
 
 I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it.
 
-{{< figure class="pixelated" src="https://cdn.hacdias.com/uploads/2020-04-pixel-house.gif" >}}
+{{< figure class="pixelated" src="https://cdn.hacdias.com/u/2020-04-pixel-house.gif" >}}

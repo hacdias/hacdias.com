@@ -3,8 +3,35 @@
     <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
   {{- end }}
 
+  {{ $cdn := .Get "cdn" }}
+  {{ $src := .Get "src" }}
   {{ $media := $.Page.Resources.GetMatch (.Get "src") }}
-  {{ if $media }}
+
+  {{ if $cdn }}
+    {{- $size := or (.Get "size") "regular" -}}
+    {{- $lowres := "1000x" -}}
+    {{- $highres := "2000x" -}}
+
+    {{- if eq $size "thumb" -}}
+      {{ $lowres = "250x" -}}
+      {{ $highres = "500x" -}}
+    {{- else if eq $size "small" -}}
+      {{ $lowres = "500x" -}}
+      {{ $highres = "1000x" -}}
+    {{- end -}}
+
+    <picture>
+      <source srcset="https://cdn.hacdias.com/i/t/{{ $cdn }}-{{ $lowres }}.webp 1000w, https://cdn.hacdias.com/i/t/{{ $cdn }}-{{ $highres }}.webp 2000w" type="image/webp">
+      <source srcset="https://cdn.hacdias.com/i/t/{{ $cdn }}-{{ $lowres }}.jpeg 1000w, https://cdn.hacdias.com/i/t/{{ $cdn }}-{{ $highres }}.jpeg 2000w">
+      <img src="https://cdn.hacdias.com/i/t/{{ $cdn }}-2000x.jpeg"
+      {{- if or (.Get "alt") (.Get "caption") }}
+      alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+      {{- end -}}
+      {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+      {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
+    </picture>
+    <!-- TODO: replace cdnfig -->
+  {{ else if $media }}
     {{ if in $media.MediaType.Suffixes "svg" }}
       {{ $media.Content | safeHTML }}
     {{ else }}

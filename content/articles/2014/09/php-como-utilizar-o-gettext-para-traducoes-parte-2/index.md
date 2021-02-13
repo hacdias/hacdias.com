@@ -33,9 +33,7 @@ Caso ocorra algum erro relacionado com caracteres não ASCII, clique em **Catá
 
 Agora deverá ver um ecrã semelhante ao seguinte:
 
-{{< figure
-    src="poedit00.jpg"
-    caption="Poedit" >}}
+{{< figure src="https://cdn.hacdias.com/u/2014-09-poedit.jpg" caption="Poedit" >}}
 
 Guarde este ficheiro e depois vá a **Novo → Novo de ficheiro POT/PO**. Selecione o ficheiro base que gravou antes e escolha a nova língua.
 

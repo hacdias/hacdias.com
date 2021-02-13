@@ -37,14 +37,15 @@ work in a team with a designer, how to develop myself, how to hear the opinion o
 - Upframe. Startup Lisboa lança programa para estudantes e recém-licenciados. [[Observador]](https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/)
 - Upframe. Startup Lisboa ajuda os fazedores a dar os primeiros passos. [[Dinheiro Vivo]](https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/)
 
-{{< figure src="1-social.jpg" class="full" >}}
-{{< figure src="2.jpg" class="full" >}}
-{{< figure src="abo1.jpg" class="full" >}}
-{{< figure src="abo2.jpg" class="full" >}}
-{{< figure src="apply.jpg" class="full" >}}
-{{< figure src="ment1.jpg" class="full" >}}
-{{< figure src="ment2.jpg" class="full" >}}
-{{< figure src="ment3.jpg" class="full" >}}
-{{< figure src="prog1.jpg" class="full" >}}
-{{< figure src="prog2.jpg" class="full" >}}
-{{< figure src="prog3.jpg" class="full" >}}
+{{< figure cdn="2017-04-upframe-00" class="full" >}}
+{{< figure cdn="2017-04-upframe-01" class="full" >}}
+{{< figure cdn="2017-04-upframe-02" class="full" >}}
+{{< figure cdn="2017-04-upframe-03" class="full" >}}
+{{< figure cdn="2017-04-upframe-04" class="full" >}}
+{{< figure cdn="2017-04-upframe-05" class="full" >}}
+{{< figure cdn="2017-04-upframe-06" class="full" >}}
+{{< figure cdn="2017-04-upframe-07" class="full" >}}
+{{< figure cdn="2017-04-upframe-08" class="full" >}}
+{{< figure cdn="2017-04-upframe-09" class="full" >}}
+{{< figure cdn="2017-04-upframe-10" class="full" >}}
+{{< figure cdn="2017-04-upframe-11" class="full" >}}
