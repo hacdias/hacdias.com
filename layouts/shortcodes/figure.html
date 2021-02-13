@@ -30,7 +30,6 @@
       {{- with .Get "width" }} width="{{ . }}"{{ end -}}
       {{- with .Get "height" }} height="{{ . }}"{{ end -}} >
     </picture>
-    <!-- TODO: replace cdnfig -->
   {{ else if $media }}
     {{ if in $media.MediaType.Suffixes "svg" }}
       {{ $media.Content | safeHTML }}
