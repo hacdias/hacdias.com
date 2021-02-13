@@ -64,7 +64,7 @@ body {
 </style>
 
 <video autoplay muted loop>
-  <source src="https://cdn.hacdias.com/uploads/2021-08-snow-eindhoven.mp4" type="video/mp4">
+  <source src="https://cdn.hacdias.com/u/2021-02-snow-eindhoven.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

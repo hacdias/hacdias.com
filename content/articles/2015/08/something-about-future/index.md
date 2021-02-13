@@ -48,7 +48,7 @@ Some days ago, I was talking with [Matthew Carrozo][1], and we started talking a
 
 I like this thought and I agree with it. But does that matter? I can agree, I can believe in it, but that doesn't make it real. But I hope so. I don't see myself living for millenia as Matt does, but I see a **longer lifetime** for my children, and then for their children, and so on.
 
-{{< figure src="ex-machina-ava.jpg" alt="Ava from Ex Machina" caption="Ava from Ex Machina" >}}
+{{< figure cdn="2015-08-ex-machina-ava" alt="Ava from Ex Machina" caption="Ava from Ex Machina" >}}
 
 Someday, I hope the immortality can be reached, or **not**. What can the humans do being immortal? Good things, but also very bad things. If we were immortal, Albert Einstein could be alive, Pitágoras too, helping the science. But if we lived forever, there would be a lot of problems:
 

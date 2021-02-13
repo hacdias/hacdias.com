@@ -34,9 +34,7 @@ Yes, I know that those three things does not have a lot in common. But I like th
 
 ## Why do you want to be Software Engineer?
 
-{{< figure
-    src="technology-solutions.jpg"
-    caption="Finding solutions" >}}
+{{< figure cdn="2015-04-technology-solutions" caption="Finding solutions" >}}
 
 I like technology since I was a little child. It always fascinated me. Technology is a way to **create** things, to **do** things, to **help** people in a big number of ways.
 
@@ -46,9 +44,7 @@ I would like to be [Software Engineer](https://en.wikipedia.org/wiki/Software_en
 
 ## Why do you want to be Writer?
 
-{{< figure
-    src="writing-thumb.jpg"
-    caption="Writing... it appears to be amazing." >}}
+{{< figure cdn="2015-04-writing-thumb" caption="Writing... it appears to be amazing." >}}
 
 Being [writer](https://en.wikipedia.org/wiki/Writer) is an amazing thing, it isn't? It appears to be. A writer could **create** his own stories, **make** his own worlds, **build** his own characters, **shape** his own society, **develop** his own system and... an infinity of possibilities.
 
@@ -56,9 +52,7 @@ That infinity of possibilities is what attracts me more. The ability to create, 
 
 ## Why do you want to be Photographer?
 
-{{< figure
-    src="mosteiro-jeronimos.jpg"
-    caption="Jerónimos Monastery" >}}
+{{< figure cdn="2015-04-mosteiro-jeronimos" caption="Jerónimos Monastery" >}}
 
 Photographs are simply amazing things. They record a moment of our lives (or not): something which happens in a determined space-time. They simply record it.
 

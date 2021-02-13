@@ -24,9 +24,10 @@ be either used as a standalone application or as a middleware.
 
 [Visit the Code](https://github.com/filebrowser/filebrowser)
 
-{{< figure src="1-social.jpg" class="full" >}}
-{{< figure src="2.jpg" class="full" >}}
-{{< figure src="3.jpg" class="full" >}}
-{{< figure src="4.jpg" class="full" >}}
-{{< figure src="5.jpg" class="full" >}}
-{{< figure src="6.jpg" class="full" >}}
+{{< figure cdn="2016-06-filebrowser-1" class="full" >}}
+{{< figure cdn="2016-06-filebrowser-2" class="full" >}}
+{{< figure cdn="2016-06-filebrowser-3" class="full" >}}
+{{< figure cdn="2016-06-filebrowser-4" class="full" >}}
+{{< figure cdn="2016-06-filebrowser-5" class="full" >}}
+{{< figure cdn="2016-06-filebrowser-6" class="full" >}}
+

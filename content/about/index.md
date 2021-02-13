@@ -88,7 +88,7 @@ Check out my [projects](/projects/) page.
 ## 🎓 Education
 
 - **∞** | M.Sc. in Computer Science and Engineering, [Eindhoven University of Technology](https://tue.nl)
-- **2020** | B.Sc. in Information Systems and Computer Engineering, [Instituto Superior Técnico](https://cdn.hacdias.com/uploads/bsc-certificate.pdf)
+- **2020** | B.Sc. in Information Systems and Computer Engineering, [Instituto Superior Técnico](https://tecnico.ulisboa.pt)
 
 <!--
 ## 🤔 The (un)story of my handle

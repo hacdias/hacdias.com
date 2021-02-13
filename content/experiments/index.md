@@ -6,7 +6,7 @@ lastmod: 2020-05-30T00:00:00Z
 
 <style>
 body {
-  background: #000 url(https://cdn.hacdias.com/uploads/fire.gif) bottom repeat-x;
+  background: #000 url(https://cdn.hacdias.com/u/2021-02-fire.gif) bottom repeat-x;
   background-size: 100px;
 }
 </style>

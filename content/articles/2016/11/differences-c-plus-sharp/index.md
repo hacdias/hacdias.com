@@ -24,7 +24,7 @@ another language called B. C can be considered the most popular programming
 language ever made. On of the biggest reasons for that is that programs written
 in C can run on a lot of operating systems (from Macs to Windows, for example).
 
-{{< figure src="bell-labs.jpg"
+{{< figure cdn="2016-11-bell-labs"
   caption="Bell Laboratories in Murray Hill, New Jersey"
   alt="Bell Laboratories in Murray Hill, New Jersey" >}}
 
@@ -45,7 +45,7 @@ called "C with Classes"; it was only renamed in 1983. C++ added a lot of new
 features to C, designed to make programming more efficient and give the
 developer more options on how they would like to code.
 
-{{< figure src="bjarne-social.jpg"
+{{< figure cdn="2016-11-bjarne-social"
   caption="Bjarne Stroustrup, the creator of C++"
   alt="Bjarne Stroustrup, the creator of C++" >}}
 
