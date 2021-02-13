@@ -41,6 +41,14 @@ body {
     sans-serif;
 }
 
+code, kbd, samp, pre {
+  font-family: SFMono-Regular,
+    Consolas,
+    Liberation Mono,
+    Menlo,
+    monospace;
+}
+
 svg,
 video,
 img {
@@ -202,6 +210,10 @@ blockquote {
   border-left: .25rem solid var(--black);
 }
 
+details {
+  cursor: pointer;
+}
+
 .video-player div {
   position: relative;
   padding-bottom: 56.25%;
@@ -220,16 +232,15 @@ blockquote {
 .content > pre {
   overflow: auto;
   border: 0;
-  padding: var(--space);
-  background: var(--dark-gray) !important;
-  color: var(--white);
+  padding-left: var(--half-space);
+  margin: 1rem 0;
 }
 
-.highlight > pre,
-.content > pre,
 .full-width {
   width: calc(100% + 2 * var(--space));
   margin-left: calc(var(--space) * -1);
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 #header > a {

@@ -57,7 +57,7 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    style: dracula
+    style: xcode
 
 mediaTypes:
   application/activity+json:

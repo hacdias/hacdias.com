@@ -12,6 +12,8 @@ Today I have been thinking about the possibility of writing my own CMS. A very s
 
 "But why?", you ask. Well, the answer is more complicated than I would like it to be. There is a number of features that I want to implement that will just make my website inherently more dynamic. And as @jlelse once [said](https://jlelse.blog/thoughts/2020/07/own-cms) "it’s almost questionable why I use a static page generator at all".
 
+<!--more-->
+
 ## Let's talk about features!
 
 Right now, my ["CMS"](/articles/2020/10/rebuilding-eagle-cms/) is, in fact, a simple wrapper around Hugo with a few bells and whistles. Also, besides wanting to have a simple CMS, I also want to build a simple CLI that allows me to locally search, list, add and edit files, as if it was my own notebook. For that, I am taking some inspirations from [nb](https://github.com/xwmx/nb), which the authors perfectly describe as:

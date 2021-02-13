@@ -16,3 +16,5 @@ From the lockdown to moving to a different country, all this experiences changed
 I am hoping that the vaccines will have a long lasting effect in most people so that we can surpass this challenge together. The pandemic is far from its end. It's just the end of the beginning, not the beginning of the end!
 
 I wish you all a fantastic 2021 and hope great things will happen this year!
+
+<!--more-->

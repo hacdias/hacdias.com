@@ -12,6 +12,8 @@ aliases:
 
 It's been quite a while since I sent my last newsletter. And now the ferocious winter winds are storming outside. I'm looking at my screen wondering what to write and why write. Since August, I have been living in the Netherlands and I thought it would be a great ideas to talk a bit about the experience of moving during a pandemic.
 
+<!--more-->
+
 ## The decision and the process
 
 Even before I started my bachelor's degree, I already wanted to study abroad. I even considered doing my bachelor's abroad. However, that dream was never accomplished. In 2019, with the push of [David](https://gateway.ipfs.io/ipns/daviddias.me/), the idea to study abroad reignited. The arguments were the usual: new experiences, different culture, different mentalities, different people. It would be a decision that would forever shape me.

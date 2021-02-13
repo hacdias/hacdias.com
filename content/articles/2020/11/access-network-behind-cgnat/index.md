@@ -40,7 +40,7 @@ wg genkey | tee client_privatekey | wg pubkey > client_publickey
 
 Configuration file ```/etc/wireguard/wg0.conf```:
 
-```conf
+```toml
 [Interface]
 Address = 10.200.200.1/24
 PrivateKey = <vps_privatekey>
@@ -96,7 +96,7 @@ $ sudo wg show
 
 For the host in the local network, we will create a file ```/etc/wireguard/wg0-client.conf``` with the following configuration:
 
-```conf
+```toml
 [Interface]
 Address = 10.200.200.2/24                  
 PrivateKey = <pi_privatekey>
@@ -140,7 +140,7 @@ So far, from the VPS, you should be able to ping any device on your local networ
 
 The client (your smartphone, computer, etc) is the easiest. Here's the configuration:
 
-```conf
+```toml
 [Interface]
 PrivateKey = <client_privatekey>
 Address = 10.200.200.3/24
