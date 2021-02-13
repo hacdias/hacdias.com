@@ -7,6 +7,18 @@ noMentions: true
 ---
 
 <style>
+:root {
+  --action: #8e44ad;
+}
+
+body {
+  background-color: #9b59b6;
+  background-image:  linear-gradient(30deg, #8e44ad 12%, transparent 12.5%, transparent 87%, #8e44ad 87.5%, #8e44ad), linear-gradient(150deg, #8e44ad 12%, transparent 12.5%, transparent 87%, #8e44ad 87.5%, #8e44ad), linear-gradient(30deg, #8e44ad 12%, transparent 12.5%, transparent 87%, #8e44ad 87.5%, #8e44ad), linear-gradient(150deg, #8e44ad 12%, transparent 12.5%, transparent 87%, #8e44ad 87.5%, #8e44ad), linear-gradient(60deg, #8e44ad77 25%, transparent 25.5%, transparent 75%, #8e44ad77 75%, #8e44ad77), linear-gradient(60deg, #8e44ad77 25%, transparent 25.5%, transparent 75%, #8e44ad77 75%, #8e44ad77);
+  background-size: 46px 81px;
+  background-position: 0 0, 0 0, 23px 40px, 23px 40px, 0 0, 23px 40px;
+  background-attachment: fixed;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px,1fr));

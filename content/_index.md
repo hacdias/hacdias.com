@@ -59,3 +59,7 @@ There's much more going on with this website than you might think at first sight
 - 🔎 [**Search**](/search/), yes, this website can be searched on!
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.
 - 💥 I maintain an [XKCD clone](http://xkcd.hacdias.com/) on the IPFS network.
+
+## ☕️ Buy me a coffee!
+
+Did you like what you read or saw? Do you use any of the open source projects I work on and would like to contribute? You can always [**buy me a coffee**](https://www.buymeacoffee.com/hacdias)!
