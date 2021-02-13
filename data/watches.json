@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race UK",
+      "watched": "2021-02-13T17:07:36.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2021-02-12T14:07:43.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
@@ -1841,11 +1846,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2021-02-06T16:00:15.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "RuPaul's Drag Race UK",
-      "watched": "2021-02-06T11:20:48.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
