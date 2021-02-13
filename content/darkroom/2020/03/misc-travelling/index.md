@@ -7,15 +7,15 @@ aliases:
 - /micro/2020/03/lifethroughlenses28/
 pictures:
 - title: Camden Mirror
-  slug: 2020-03-28-camden-mirror
+  slug: 2020-03-camden-mirror
 - title: Glasgow Tunnel
-  slug: 2020-03-28-glasgow-tunnel
+  slug: 2020-03-glasgow-tunnel
 - title: Swiss Snow
-  slug: 2020-03-28-swiss-snow-01
+  slug: 2020-03-swiss-snow-01
 - title: Swiss Snow
-  slug: 2020-03-28-swiss-snow-02
+  slug: 2020-03-swiss-snow-02
 - title: Snowy Brussels
-  slug: 2020-03-28-brussels
+  slug: 2020-03-brussels
 ---
 
 Usually, I would not post lyrics of musics but... today I'm feeling like I should do it. It's not even from my favorite artists, but here it goes:

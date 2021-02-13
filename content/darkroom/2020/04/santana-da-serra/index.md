@@ -7,21 +7,21 @@ aliases:
 - /micro/2020/04/lifethroughlenses24/
 pictures:
 - title: Church Peak
-  slug: 2020-04-01-hometown-01
+  slug: 2020-04-hometown-01
 - title: Santana da Serra
-  slug: 2020-04-01-hometown-02
+  slug: 2020-04-hometown-02
 - title: Storks
-  slug: 2020-04-01-hometown-04
+  slug: 2020-04-hometown-04
 - title: Happiness
-  slug: 2020-04-01-hometown-05
+  slug: 2020-04-hometown-05
 - title: River Flowers
-  slug: 2020-04-01-hometown-06
+  slug: 2020-04-hometown-06
 - title: Flowers
-  slug: 2020-04-01-hometown-07
+  slug: 2020-04-hometown-07
 - title: Storm is Coming
-  slug: 2020-04-01-hometown-08
+  slug: 2020-04-hometown-08
 - title: Shiny Lake
-  slug: 2020-04-01-hometown-09
+  slug: 2020-04-hometown-09
 ---
 
 Today I decided to dedicate this gallery post to my hometown, Santana da Serra and some of the views

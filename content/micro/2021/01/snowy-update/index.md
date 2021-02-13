@@ -9,6 +9,6 @@ Hey y'all! I know I've been quite silent recently and haven't even send out my n
 
 A few days ago, it snowed here in Eindhoven and I was quite happy. I come from a place where it doesn't snow and even though I've seen snow before, it's not something that is usually part of my life.
 
-{{< cdnfig name="eindhoven-snow" alt="Eindhoven Snow 2021" >}}
+{{< figure cdn="2021-02-eindhoven-snow" alt="Eindhoven Snow 2021" >}}
 
 Stay safe! 🤗

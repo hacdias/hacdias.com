@@ -6,11 +6,11 @@ aliases:
 - /micro/2020/03/lifethroughlenses21/
 pictures:
 - title: My Dog, Lara
-  slug: 2020-03-21-home-01
+  slug: 2020-03-home-01
 - title: Some Flower Pots
-  slug: 2020-03-21-home-02
+  slug: 2020-03-home-02
 - title: The Death Rise Again
-  slug: 2020-03-21-home-03
+  slug: 2020-03-home-03
 ---
 
 I decided to create a new series of post called [#LifeThroughLenses](/tags/lifethroughlenses) in which I am going to post

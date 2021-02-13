@@ -6,13 +6,13 @@ aliases:
 - /micro/2020/03/lifethroughlenses24/
 pictures:
 - title: Downtown Doors
-  slug: 2020-03-24-lisbon-01
+  slug: 2020-03-lisbon-01
 - title: Ponte 25 de Abril
-  slug: 2020-03-24-lisbon-02
+  slug: 2020-03-lisbon-02
 - title: Fonte Luminosa
-  slug: 2020-03-24-lisbon-03
+  slug: 2020-03-lisbon-03
 - title: Entrecampos Poente
-  slug: 2020-03-24-lisbon-04
+  slug: 2020-03-lisbon-04
 ---
 
 Today I decided to finally remove my old photos page so I'm publishing a few here. The theme is Lisbon.
