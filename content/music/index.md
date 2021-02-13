@@ -12,6 +12,7 @@ emoji: "\U0001F37F"
 body {
   background: url(discs.jpg);
   background-size: 400px;
+  background-attachment: fixed;
 }
 </style>
 

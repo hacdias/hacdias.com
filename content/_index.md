@@ -7,6 +7,7 @@ lastmod: 2021-02-12T20:23:31.029541972Z
 @media screen and (min-width: 38rem) {
   body {
     background: #000 url(https://cdn.hacdias.com/u/2021-02-space.gif);
+    background-attachment: fixed;
   }
 }
 </style>

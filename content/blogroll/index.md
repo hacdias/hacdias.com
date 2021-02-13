@@ -13,6 +13,7 @@ emoji: "\U0001F9FB"
   body {
     background: #316bb3 url(people.jpg);
     background-size: 512px;
+    background-attachment: fixed;
   }
 }
 </style>
