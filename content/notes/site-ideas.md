@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-13T17:24:53.507707953Z
+lastmod: 2021-02-14T06:10:22.630167461Z
 ---
 
 ## Posts
@@ -28,6 +28,7 @@ lastmod: 2021-02-13T17:24:53.507707953Z
 [Eagle](https://github.com/hacdias/eagle) powers my website.
 
 - dashboard: drafts list
+- when sync, check for updated files via `git show --name-only --format=tformat: SHA1..SHA2` and update search index.
 - cli for local management
 - **comments**
 	- system to submit comments directly on my website
