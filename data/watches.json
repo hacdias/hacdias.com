@@ -1813,6 +1813,16 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-02-14T18:53:00.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2021-02-14T17:53:36.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-02-13T17:07:36.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
@@ -1833,19 +1843,9 @@
       "url": "https://trakt.tv/shows/tiny-pretty-things"
     },
     {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2021-02-07T12:58:26.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
       "title": "The Rain",
       "watched": "2021-02-07T12:33:54.000Z",
       "url": "https://trakt.tv/shows/the-rain"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-02-06T16:00:15.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
