@@ -64,6 +64,12 @@ body {
 #controls input {
   width: 80%;
 }
+
+@media screen and (max-width: 30rem) {
+  .snowflakes {
+    height: 20rem;
+  }
+}
 </style>
 
 <video autoplay muted loop>
