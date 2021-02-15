@@ -16,3 +16,14 @@
     name: "\U0001F9D7‍♂️ Matt Holt"
     url: https://twitter.com/mholt6
     photo: https://cdn.hacdias.com/wm/c6f3d9e61a093979ba76db723867857f03cc94a8b70a1730c5216e6e8fabac6b.jpg
+- wm-id: 1031947
+  type: mention
+  url: https://jlelse.blog/links/2021/02/fractal-snowflakes
+  content: Henrique from Portugal is currently experiencing real snow for the first
+    time in the Netherlands. Inspired by this he programmed a little tool to generate
+    snowflake fractals using HTML, CSS and JavaScript. Very cool idea!https://hacdias.com/articles/2021/02/magic-fractal-snowflakes/
+  date: 2021-02-15T08:41:18+01:00
+  author:
+    name: Jan-Lukas Else
+    url: https://jlelse.blog/
+    photo: https://cdn.hacdias.com/wm/6ba3ad40db26e74cb47cc332c5887d9f15bc5fb7880d87e7e6addda91859e4d3.png
