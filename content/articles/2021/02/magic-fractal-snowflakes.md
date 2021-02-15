@@ -1,13 +1,15 @@
 ---
 title: The magic of fractal snowflakes
-date: 2021-02-15T09:00:00Z
-description: >
-  This post goes through the magic of generating fractal snowflakes using
-  the JavaScript Canvas API that is available on all modern browsers.
+description: |
+  This post goes through the magic of generating fractal snowflakes using the JavaScript Canvas API that is available on all modern browsers.
 tags:
 - mondayletter
 - experiments
 - fractals
+date: 2021-02-15T06:30:00Z
+lastmod: 2021-02-15T06:49:43.435183405Z
+syndication:
+- https://twitter.com/hacdias/status/1361206419266154499
 ---
 
 <p class=dn>
@@ -72,7 +74,7 @@ However, it is not the weather of the Netherlands that brought you here. Due to 
 
 After a bit of digging, I found quite a nice [video](https://www.youtube.com/watch?v=HXTC5LSep3M) where it was explained how to create a fractal snowflake in JavaScript. I'm basing this post on that same code, with some slight changes and the possibility for you to try it out, live!
 
-First and foremost: what is a fractal? I found this definition [online](https://iternal.us/what-is-a-fractal) that I think explains pretty welll what a fractal is:
+First and foremost: what is a fractal? I found this definition [online](https://iternal.us/what-is-a-fractal) that I think explains pretty well what a fractal is:
 
 > A Fractal is a type of mathematical shape that are infinitely complex. In essence, a Fractal is a pattern that repeats forever, and every part of the Fractal, regardless of how zoomed in, or zoomed out you are, it looks very similar to the whole image.
 
@@ -291,7 +293,7 @@ The first translation and scale define where we start drawing the next branch. T
   ```
 </details>
 
-In order to actually draw the branches, we now rotate the context by the angle and call `draw` recursively for the next leve. Then, we do exactly the same for the symmetric angle so we draw leafs coming out of each side of the branch.
+In order to actually draw the branches, we now rotate the context by the angle and call `draw` recursively for the next level. Then, we do exactly the same for the symmetric angle so we draw leafs coming out of each side of the branch.
 
 <figure class="full-width">
   <div class="snowflakes">
