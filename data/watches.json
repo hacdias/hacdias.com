@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-02-16T17:52:26.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Shadowhunters",
       "watched": "2021-02-15T14:55:33.000Z",
       "url": "https://trakt.tv/shows/shadowhunters"
@@ -1866,11 +1871,6 @@
       "title": "BONDiNG",
       "watched": "2021-01-27T19:39:17.000Z",
       "url": "https://trakt.tv/shows/bonding"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-01-26T18:13:34.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Fate: The Winx Saga",
