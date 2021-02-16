@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-15T11:14:19.23095001Z
+lastmod: 2021-02-16T19:05:13.122079116Z
 ---
 
 ## Posts
@@ -29,9 +29,10 @@ lastmod: 2021-02-15T11:14:19.23095001Z
 
 - dashboard: drafts list
 - On sync:
-  - update index on changed files
-  - purge cloudflare cache
-- add caching headers so Cloudflare actually caches
+  - Add caching headers
+  - Phase 1: update index on changed files && purge ALL cloudflare cache
+  - Phase 2: update SOME index && purge SOME cloudflare cache
+  - https://api.cloudflare.com/#zone-purge-all-files
 - cli for local management
 - **comments**
 	- system to submit comments directly on my website

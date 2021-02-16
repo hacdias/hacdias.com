@@ -6,6 +6,7 @@ tags:
 - cms
 - meta
 date: 2021-02-04T22:22:00+01:00
+lastmod: 2021-02-16T20:20:27.750516656Z
 ---
 
 Today I have been thinking about the possibility of writing my own CMS. A very simple CMS. I even [hinted](/micro/2021/02/am-i-building-a-cmd/) that on a small micro post today. This is not a new idea. I'm not going to look at the previous posts where I talked about this, but it's definitely at least 2 or 3.
@@ -41,9 +42,9 @@ That's a very good question. I have **never** used Rust in my life, but everyone
 
 So you know, these are my current inspirations:
 
-- [https://github.com/hacdias/eagle](https://github.com/xwmx/nb)
-- [https://git.jlel.se/jlelse/GoBlog](https://github.com/xwmx/nb)
-- [https://github.com/Xe/site](https://github.com/xwmx/nb)
+- [https://github.com/hacdias/eagle](https://github.com/hacdias/eagle)
+- [https://git.jlel.se/jlelse/GoBlog](https://git.jlel.se/jlelse/GoBlog)
+- [https://github.com/Xe/site](https://github.com/Xe/site)
 - [https://github.com/xwmx/nb](https://github.com/xwmx/nb)
 
 Only `Xe/site` is in Rust. Ugh. I don't really know. I tried to setup a small CLI in Rust and it too so much time to compile! Besides, I'm afraid of going deeper into Rust and then regretting.
