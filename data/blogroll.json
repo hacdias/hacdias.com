@@ -1,6 +1,11 @@
 {
   "following": [
     {
+      "feed": "https://blog.astrosnail.pt.eu.org/feed.atom",
+      "site": "https://blog.astrosnail.pt.eu.org/",
+      "title": "/weblog/"
+    },
+    {
       "feed": "https://aaronparecki.com/feed.json",
       "site": "https://aaronparecki.com/",
       "title": "Aaron Parecki"
