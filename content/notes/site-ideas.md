@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-16T19:05:13.122079116Z
+lastmod: 2021-02-17T06:49:53.206958871Z
 ---
 
 ## Posts
@@ -37,12 +37,6 @@ lastmod: 2021-02-16T19:05:13.122079116Z
 - **comments**
 	- system to submit comments directly on my website
 	- should i publish them under another page so I can easily reply through micro interactions? that could create too much trouble and content on my website. 
--  **bookmarks**
-    - allow tags and make them their own page
-    - add link to starred repositories on Github
-    - format: /bookmarks/{slug}
-    - listing should be table like Name | tags
-    - Searchable table???
 - **search**: consider search while typing
 - move newsletter/thanks and goodbye to other places
 - **pixelart**: add custom section or tag.

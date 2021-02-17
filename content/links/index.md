@@ -1,11 +1,12 @@
 ---
 title: Links
 date: 2020-02-12T21:00:00Z
-lastmod: 2021-02-17T06:00:00Z
+lastmod: 2021-02-17T06:53:31.562015483Z
 aliases:
 - /pins
 - /bookmarks
 emoji: "\U0001F517"
+noMentions: true
 ---
 
 <style>
@@ -51,4 +52,6 @@ This is a non-exhaustive collection of interesting links and websites I found on
 - [Old Internet Files](https://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am.ipfs.dweb.link/) [#️⃣](ipfs://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am)
 - [ITCorp](https://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy.ipfs.dweb.link/) [#️⃣](ipfs://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy)
 
+## 🧻 Blogroll {#blogroll}
 
+Check out the [blogroll](/blogroll) page.
