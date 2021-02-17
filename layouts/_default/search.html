@@ -124,7 +124,7 @@ async function search(pressed) {
       return
     }
 
-    const url = `../search.json${window.location.search}`
+    const url = `../search.json${window.location.search}&p=${page}`
     const res = await fetch(url)
     const data = await res.json()
 
