@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-02-17T15:36:01.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2021-02-16T17:52:26.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
@@ -1856,11 +1861,6 @@
       "title": "The Rain",
       "watched": "2021-02-07T12:33:54.000Z",
       "url": "https://trakt.tv/shows/the-rain"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2021-02-02T09:06:18.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "The Good Place",
