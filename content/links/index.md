@@ -9,6 +9,9 @@ emoji: "\U0001F517"
 ---
 
 <style>
+:root {
+  --action: #dd2e44;
+}
 body {
   background: url(pin.svg);
   background-size: 3rem;
