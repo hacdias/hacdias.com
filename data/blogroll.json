@@ -31,9 +31,19 @@
       "title": "Aral Balkan"
     },
     {
+      "feed": "https://benjamincongdon.me/feed.xml",
+      "site": "https://benjamincongdon.me/",
+      "title": "Ben Congdon"
+    },
+    {
       "feed": "https://blog.benjojo.co.uk/rss.xml",
       "site": "https://blog.benjojo.co.uk",
       "title": "Ben Cox"
+    },
+    {
+      "feed": "https://chriswiegman.com/feed/",
+      "site": "https://chriswiegman.com",
+      "title": "Chris Wiegman"
     },
     {
       "feed": "https://christine.website/blog.json",
@@ -56,6 +66,11 @@
       "title": "Filippo Valsorda"
     },
     {
+      "feed": "https://rakhim.org/index.xml",
+      "site": "https://rakhim.org/",
+      "title": "Home on Rakhim.org"
+    },
+    {
       "feed": "https://zerokspot.com/index.xml",
       "site": "https://zerokspot.com/",
       "title": "Horst Gutmann"
@@ -66,9 +81,19 @@
       "title": "Jake Bauer"
     },
     {
+      "feed": "https://jfenn.me/blog/feed.xml",
+      "site": "https://jfenn.me/",
+      "title": "James Fenn"
+    },
+    {
       "feed": "https://feeds.feedburner.com/fennifith",
       "site": "https://jfenn.me",
       "title": "James Fenn"
+    },
+    {
+      "feed": "https://jamiesnotes.com/feed/",
+      "site": "https://jamiesnotes.com",
+      "title": "Jamie’s Notes"
     },
     {
       "feed": "https://jan.boddez.net/articles/feed",
@@ -111,6 +136,11 @@
       "title": "Mike Stone"
     },
     {
+      "feed": "https://mtlynch.io/index.xml",
+      "site": "https://mtlynch.io/",
+      "title": "mtlynch.io"
+    },
+    {
       "feed": "https://oscarbenedito.com/blog/index.xml",
       "site": "https://oscarbenedito.com/blog/",
       "title": "Oscar's Blog"
@@ -119,6 +149,11 @@
       "feed": "https://neustadt.fr/rss.xml",
       "site": "https://neustadt.fr/",
       "title": "Parimal Satyal"
+    },
+    {
+      "feed": "https://paulstamatiou.com/posts.xml",
+      "site": "https://paulstamatiou.com",
+      "title": "Paul Stamatiou"
     },
     {
       "feed": "https://pudesse-eu.tumblr.com/rss",
