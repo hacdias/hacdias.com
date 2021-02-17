@@ -3,6 +3,8 @@ title: About
 lastmod: 2021-02-12T10:38:23.275529534Z
 emoji: "\U0001F9D4"
 noMentions: true
+aliases:
+- /resume
 ---
 
 <style>
