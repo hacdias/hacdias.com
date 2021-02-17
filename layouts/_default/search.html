@@ -180,7 +180,7 @@ async function search(pressed) {
   }
 }
 
-(() => {
+document.addEventListener('DOMContentLoaded', () => {
   const state = stateFromURL()
   input.value = state.query
   sections.forEach(s => s.classList
@@ -191,7 +191,7 @@ async function search(pressed) {
 
   search()
   window.addEventListener('popstate', () => search())
-})()
+})
 </script>
 
 <noscript>Unfortunately, this page doesn't work without JavaScript enabled 😭</noscript>
