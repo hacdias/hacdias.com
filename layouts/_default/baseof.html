@@ -4,6 +4,16 @@
   {{ partial "head" . -}}
 </head>
 <body>
+  <script>
+    function parseEmojis (el) {
+      twemoji.parse(el, {
+        base: 'https://cdn.hacdias.com/emojis/13.0.0/',
+        folder: 'svg',
+        ext: '.svg'
+      });
+    };
+  </script>
+
   <div class='container'>
     {{ partial "header" . }}
 
@@ -27,14 +37,6 @@
   {{ end }}
 
   <script>
-    function parseEmojis (el) {
-      twemoji.parse(el, {
-        base: 'https://cdn.hacdias.com/emojis/13.0.0/',
-        folder: 'svg',
-        ext: '.svg'
-      });
-    };
-
     parseEmojis(document.body);
 
     {{ if .Params.math }}
