@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-17T06:49:53.206958871Z
+lastmod: 2021-02-17T10:51:20.581158627Z
 ---
 
 ## Posts
@@ -27,7 +27,6 @@ lastmod: 2021-02-17T06:49:53.206958871Z
 
 [Eagle](https://github.com/hacdias/eagle) powers my website.
 
-- dashboard: drafts list
 - On sync:
   - Add caching headers
   - Phase 1: update index on changed files && purge ALL cloudflare cache
