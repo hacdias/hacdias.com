@@ -150,6 +150,7 @@ input[type="submit"]:hover {
 
 .pixelated {
   image-rendering: pixelated;
+  image-rendering: crisp-edges;
 }
 
 hr {
