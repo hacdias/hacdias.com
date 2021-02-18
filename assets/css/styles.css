@@ -90,6 +90,10 @@ a:hover {
   background: cornsilk;
 }
 
+::marker {
+  color: var(--action)
+}
+
 .no-link,
 .no-link:active,
 .no-link:visited {
