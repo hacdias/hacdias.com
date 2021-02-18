@@ -4,14 +4,15 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-18T11:57:34.347078248Z
+lastmod: 2021-02-18T21:55:05.477028611Z
 ---
 
 - Update /uses
-- Merge /blogroll with /links
+- ~~Merge /blogroll with /links~~ experiment done.
+- Improve /links content and visual.
 - Clean up old articles somehow? New ones?
 - Merge contact with /legal or /about?
-- Maybe create about this website (/meta) where I have info about how the websaite is built
+- Maybe create about this website (/meta) where I have info about how the website is built
 
 ## Posts
 
