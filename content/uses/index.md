@@ -1,8 +1,9 @@
 ---
 title: Things I use
 date: 2020-01-21T15:39:00Z
-lastmod: 2020-10-11T12:11:00Z
+lastmod: 2021-02-18T21:36:32.368732968Z
 emoji: "\U0001F6E0"
+noMentions: true
 ---
 
 This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you the things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be a 100% up to date, but I will try to keep an eye on it to keep it alive!
