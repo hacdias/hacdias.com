@@ -5,6 +5,7 @@ lastmod: 2021-02-17T06:53:31.562015483Z
 aliases:
 - /pins
 - /bookmarks
+- /blogroll
 emoji: "\U0001F517"
 noMentions: true
 ---
@@ -54,4 +55,6 @@ This is a non-exhaustive collection of interesting links and websites I found on
 
 ## 🧻 Blogroll {#blogroll}
 
-Check out the [blogroll](/blogroll) page.
+An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
+
+{{< blogroll category="following" >}}

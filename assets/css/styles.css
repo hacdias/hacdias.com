@@ -212,7 +212,7 @@ table img {
 blockquote {
   padding-left: 0.75rem;
   margin: 1em 0 1rem 1rem;
-  border-left: .25rem solid var(--black);
+  border-left: .25rem solid var(--action);
 }
 
 details {

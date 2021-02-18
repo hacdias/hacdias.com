@@ -50,7 +50,7 @@ There's much more going on with this website than you might think at first sight
 - 📺 The [last episode](/watches/#series) I watched was **{{< latest-watch type="series" >}}**.
 - 🎶 The artist I've been [listening](/music/) the most is **{{< recent-artist >}}**.
 - 🛠️ The tools I'm [using](/uses/).
-- 🧻 [**Blogroll**](/blogroll/), a list of the blogs and people I follow.
+- 🧻 [**Blogroll**](/links/#blogroll), a list of the blogs and people I follow.
 - 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
 - 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
 - 📌 [**Links**](/links/), a collection of interesting websites that I find worth sharing.
