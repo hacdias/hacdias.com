@@ -4,14 +4,14 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-18T22:15:17.723487915Z
+lastmod: 2021-02-18T22:19:39.482310687Z
 ---
 
 - Update /uses
 - ~~Merge /blogroll with /links~~ experiment done.
-- Improve /links content and visual.
-- Change /music to /listens (MAKE ALIAS)
-- Change /books to /reads (MAKE ALIAS)
+- Improve /links content and visual (blue bg? ocean? pixelart?)
+- ~~Change /music to /listens (MAKE ALIAS)~~
+- ~~Change /books to /reads (MAKE ALIAS)~~
 - Clean up old articles somehow? New ones?
 - consider full width code again
 - Merge contact w/ /follow?
