@@ -1,5 +1,5 @@
 ---
-title: Uses
+title: Things I use
 date: 2020-01-21T15:39:00Z
 lastmod: 2020-10-11T12:11:00Z
 emoji: "\U0001F6E0"
