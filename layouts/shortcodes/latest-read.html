@@ -3,7 +3,7 @@
 
 {{- if len $reading -}}
   {{ $book := index $reading 0 }}
-  Currently <a href="{{ relURL "/books/#reading" }}">reading</a> <strong>{{ $book.name }}</strong>{{- if gt (len $reading) 1 }} and {{ sub (len $reading) 1 }} more{{- end -}}.
+  Currently <a href="{{ relURL "/reads/#reading" }}">reading</a> <strong>{{ $book.name }}</strong>{{- if gt (len $reading) 1 }} and {{ sub (len $reading) 1 }} more{{- end -}}.
 {{- else -}}
-  Not <a href="{{ relURL "/books/" }}">reading</a> any books at the moment.
+  Not <a href="{{ relURL "/reads/" }}">reading</a> any books at the moment.
 {{- end -}}

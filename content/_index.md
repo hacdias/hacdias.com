@@ -48,7 +48,7 @@ There's much more going on with this website than you might think at first sight
 - 📚 {{< latest-read >}}
 - 🎬 The [last movie](/watches/#movies) I watched was **{{< latest-watch type="movies" >}}**.
 - 📺 The [last episode](/watches/#series) I watched was **{{< latest-watch type="series" >}}**.
-- 🎶 The artist I've been [listening](/music/) the most is **{{< recent-artist >}}**.
+- 🎶 The artist I've been [listening](/listens/) the most is **{{< recent-artist >}}**.
 - 🛠️ The tools I'm [using](/uses/).
 - 🧻 [**Blogroll**](/links/#blogroll), a list of the blogs and people I follow.
 - 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
