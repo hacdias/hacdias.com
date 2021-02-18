@@ -5,15 +5,36 @@ lastmod: 2020-10-11T12:11:00Z
 emoji: "\U0001F6E0"
 ---
 
-This is a [uses] page where you can find some of the technology I use. This page might not be 100% up to date, but I'll always try to update it if something changes!
+This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you the things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be a 100% up to date, but I will try to keep an eye on it to keep it alive!
 
 ## Hardware
 
-- **Laptop**: Macbook Pro 13"
-- **Smartphone**: iPhone 11 Pro
-- **Tablet**: iPad Pro
-- **Watch**: FitBit Charge 3
+Despite trying to be as minimal as possible with my devices, I ended up having some "not as required" devices on my list.
 
+### My desk
+
+My desk contains my "essential" devices, i.e., the devices I use on a regular basis for work, university of just for fun, as well as devices for entertainment. This encompasses everything from my smartphone to my monitor.
+
+- **Laptop**: 2018 Macbook Pro 13"
+- **Laptop stand:** Rain mStand
+- **Monitor**: Asus VG27A
+- **Speakers**: Logitech Z213
+- **Dock**: CalDigit TS3 Plus
+- **Smartphone:** iPhone 11 Pro
+- **Tablet**: 2018 iPad Pro 11"
+- **Headphones:** JBL Live 5000BT
+- **Earphones:** Airpods (2nd Gen)
+- Raspberry Pi 4 Model B
+- **Keyboard:** Ducky One 2 Mini
+- **Mouse:** Asus Strix Impact
+- **Console:** Nintendo Switch
+- Yubikey 5C
+
+### Photography
+
+- **Camera:** Fujifilm X-T30
+- **Lens:** Fujinon XF 18-55mm f/2.8-4.0 OIS
+- **Tripod:** Manfrotto Befree
 ## Software
 
 - **Editor**: [Visual Studio Code][vscode]
