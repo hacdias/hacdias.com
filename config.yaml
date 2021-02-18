@@ -42,7 +42,7 @@ menu:
   - name: 💬 Micro
     url: /micro/
     weight: 3
-  - name: 📷 Darkroom
+  - name: 📷 Photos
     url: /darkroom/
     weight: 4
   - name: ✉️ Contact
