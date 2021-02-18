@@ -1,8 +1,10 @@
 ---
-title: Music
+title: Listens
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
 emoji: "\U0001F37F"
+alaises:
+- /music
 ---
 
 <style>
