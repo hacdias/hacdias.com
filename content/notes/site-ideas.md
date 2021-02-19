@@ -17,10 +17,16 @@ lastmod: 2021-02-19T09:45:00.170908384Z
 - Consider full-width code blocks again
 - Delete follow? Put feeds in meta/? link in home?
 - Create Meta (/meta) where I have info about how the website is built and its features
-- TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
 - Revamp homepage
   - Put some pictures?
   - Larger?
+- Clean notes
+- Allow for larger pictures.
+  - How can that work with so many custom backgrounds?
+- Improvements
+  - Footnotes content on hover ([h](https://discourse.gohugo.io/t/how-to-add-title-tooltip-with-footnote-content-to-footnote-link/25498/5))
+  - TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
+  - Reading progress
 
 ## Posts
 
