@@ -2,33 +2,38 @@
   "artists": [
     {
       "name": "Sia",
-      "count": 40,
+      "count": 39,
       "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Miley Cyrus",
-      "count": 33,
+      "count": 36,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Grimes",
-      "count": 20,
-      "url": "https://www.last.fm/music/Grimes"
-    },
-    {
-      "name": "Dua Lipa",
-      "count": 19,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 18,
+      "count": 27,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Alma",
-      "count": 17,
+      "count": 25,
       "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Dua Lipa",
+      "count": 25,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
+      "name": "Grimes",
+      "count": 25,
+      "url": "https://www.last.fm/music/Grimes"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 14,
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Slayyyter",
@@ -41,14 +46,9 @@
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Kim Petras",
-      "count": 12,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
-      "name": "RIOPY",
+      "name": "Christine and the Queens",
       "count": 10,
-      "url": "https://www.last.fm/music/RIOPY"
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     }
   ],
   "tracks": [
