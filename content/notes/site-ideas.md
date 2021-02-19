@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-19T06:09:48.430707517Z
+lastmod: 2021-02-19T06:58:42.743796219Z
 ---
 
 - Update /uses
@@ -19,6 +19,7 @@ lastmod: 2021-02-19T06:09:48.430707517Z
 - Merge articles and notes under the same "umbrella" ("posts")?
   - Clean notes?
   - Advantages?
+- TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
 
 ## Posts
 
