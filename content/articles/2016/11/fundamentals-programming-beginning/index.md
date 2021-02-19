@@ -1,5 +1,5 @@
 ---
-title: 'The Fundamentals of Programming #1: Beginning'
+title: 'Fundamentals of Programming #1: Beginning'
 date: 2016-11-10T00:00:00Z
 aliases:
 - /articles/2016/11/10/1/

@@ -3,6 +3,7 @@ tags:
 - meta
 - twitter
 date: 2020-01-01T11:07:12.733Z
+expiryDate: 2021-02-19T12:29:43.445426591Z
 syndication:
 - https://twitter.com/hacdias/status/1212329437066342400
 aliases:

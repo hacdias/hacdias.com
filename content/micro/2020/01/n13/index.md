@@ -4,6 +4,7 @@ tags:
 - systems
 - programming
 date: 2020-01-30T22:32:30.865Z
+expiryDate: 2021-02-19T12:30:20.246636084Z
 aliases:
 - /2020/01/30/6/
 - /notes/2020/01/30/3/

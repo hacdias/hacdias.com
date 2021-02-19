@@ -28,6 +28,6 @@ There are **Binary Prefixes (IEC)** which are names and symbols used to measure 
 
 On the other hand, there is the **International System of Units (SI)** notation which is more common. This ones represent the multiplication by a power of 10. For example, a megabyte (MB) is the same as 10 to the power of 6 bytes.
 
-### What about ads?
+## What about ads?
 
 Now, a little advice from me. When you see an ad telling that the Internet they offer is about 12 Mbps for example, take care! 12 Mb (megabits) is only 1.5 megabytes! The ad is correct, but the majority of the population doesn't know this difference and they will think that they offer a super fast Internet when they don't.

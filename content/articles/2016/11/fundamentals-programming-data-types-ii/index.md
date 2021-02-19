@@ -1,5 +1,5 @@
 ---
-title: 'The Fundamentals of Programming #6: Data Types II'
+title: 'Fundamentals of Programming #6: Data Types II'
 date: 2016-11-16T00:00:00Z
 aliases:
 - /articles/2016/11/16/1/

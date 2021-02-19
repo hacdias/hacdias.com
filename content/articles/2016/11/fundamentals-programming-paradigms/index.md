@@ -1,5 +1,5 @@
 ---
-title: 'The Fundamentals of Programming #3: Paradigms'
+title: 'Fundamentals of Programming #3: Paradigms'
 date: 2016-11-12T00:00:00Z
 aliases:
 - /articles/2016/11/12/1/

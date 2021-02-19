@@ -4,6 +4,7 @@ tags:
 - posse
 - indieweb
 date: 2020-01-30T22:34:26.001Z
+expiryDate: 2021-02-19T12:30:28.811882815Z
 replyTo:
   url: https://hacdias.com/2020/01/30/6/
   content: 'Just found a deadlock on my micropub endpoint! I KNEW IT!P.S.: This post

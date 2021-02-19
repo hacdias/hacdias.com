@@ -2,6 +2,7 @@
 tags:
 - meta
 date: 2019-12-30T21:33:23.65Z
+expiryDate: 2021-02-19T12:29:06.157651118Z
 aliases:
 - /notes/2019/12/30/2/
 - /2019/12/30/05/webmention-test/

@@ -4,15 +4,13 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-19T09:45:00.170908384Z
+lastmod: 2021-02-19T12:50:27.576601816Z
 ---
 
 - Uses
   - Finish Software section
 - Reads
   - Add Indieweb meta tags. Make it different? include reviews from goodreads that I did and stars?
-- Articles and micro
-  - Quickly go over and check if somthing needs toi be fixed/removed
 - Move all images to CDN (except svg)
 - Consider full-width code blocks again
 - Delete follow? Put feeds in meta/? link in home?

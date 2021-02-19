@@ -16,7 +16,7 @@ any more similarities between these languages beyond their name?
 
 <!--more-->
 
-## **Language C**
+## Language C
 
 The programming language C was created at Bell Labs by a computer scientist
 whose name is Dennis Ritchie. This was back in 1969. The language C was based on
