@@ -44,5 +44,4 @@ não tenho lugar para onde ir,<br>
 por isso termino aqui,<br>
 mas continuarei sempre a rir!
 
-
-Espero que tenham gostado deste breve poema. Já agora, se quiserem ver o vídeo de onde a imagem que está no início do artigo foi tirada, basta [clicarem](https://www.youtube.com/watch?v=y6ZmMjMdrqs) aqui.
+Espero que tenham gostado deste breve poema.

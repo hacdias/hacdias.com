@@ -63,6 +63,9 @@ Besides the camera itself, I also have two **lenses**:
 I also own a **tripod**: a Manfrotto Befree.
 ## Software
 
+<div class="box yellow word" data-word="Warning">
+  This section is a work in progress.
+</div>
 
 - **Code editor:** my all round code editor is [Visual Studio Code][vscode]. For some Go specific projects, I use [Golang][goland]. On the terminal, I prefer [vim]. My font of choice for programming is [Fira Mono][fm].
 - **Terminal:** my terminal app on macOS is [iTerm][iterm]. I use [zsh] as my shell with [oh my zsh] installed. This installation is all customized via my [dotfiles].

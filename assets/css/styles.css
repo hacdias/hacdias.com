@@ -71,12 +71,12 @@ figure img {
   width: 100%;
 }
 
-h1 {
-  margin: 1rem 0;
+h1, h2, h3, h4, h5 {
+  margin: 2.5rem 0 1rem;
 }
 
-h2 {
-  margin: 2rem 0 1rem;
+h1 {
+  margin-top: 0;
 }
 
 a {
@@ -487,11 +487,6 @@ figure.right {
   margin-left: 1rem;
 }
 
-.warning {
-  background: #f1c40f;
-  padding: 0.5rem;
-}
-
 @media screen and (max-width: 38rem) {
   :root {
     --space: 1.5rem;
@@ -581,4 +576,68 @@ figure.right {
   .wm {
     display: none;
   }
+}
+
+:root {
+  --blue: 52, 152, 219;
+  --yellow: 241, 196, 15;
+  --red: 231, 76, 60;
+  --green: 46, 204, 113;
+}
+
+.box {
+  padding: 0.5rem;
+  border: 3px solid black;
+  margin: 1rem 0;
+}
+
+.box > *:first-child {
+  margin-top: 0;
+}
+
+.box > *:last-child {
+  margin-bottom: 0;
+}
+
+.box.word::before {
+  content: attr(data-word);
+  margin-right: .5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.box.red {
+  border-color: rgb(var(--red));
+  background-color: rgba(var(--red), 0.1);
+}
+
+.box.red::before {
+  color: rgb(var(--red));
+}
+
+.box.blue {
+  border-color: rgb(var(--blue));
+  background-color: rgba(var(--blue), 0.1);
+}
+
+.box.blue::before {
+  color: rgb(var(--blue));
+}
+
+.box.yellow {
+  border-color: rgb(var(--yellow));
+  background-color: rgba(var(--yellow), 0.1);
+}
+
+.box.yellow::before {
+  color: rgb(var(--yellow));
+}
+
+.box.green {
+  border-color: rgb(var(--green));
+  background-color: rgba(var(--green), 0.1);
+}
+
+.box.green::before {
+  color: rgb(var(--green));
 }

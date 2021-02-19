@@ -19,7 +19,7 @@
   {{ if and (not .Lastmod.IsZero) (not $isList) }}
     {{ $diff := math.Floor (div (now.Sub .Lastmod).Hours 8760)}}
     {{ if ge $diff 1 }}
-      <p class="warning">This post is over {{ $diff }} year{{ if gt $diff 2 }}s{{ end }} old. Facts and opinions may have changed since the publication date. Please <a href="{{ relURL "/contact" }}">contact me</a> for any clarifications or before jumping into any conclusions.</p>
+      <p class="box yellow word" data-word="Attention">This post is over {{ $diff }} year{{ if gt $diff 2 }}s{{ end }} old. Facts and opinions may have changed since the publication date. <a href="{{ relURL "/contact" }}">Contact me</a> for any clarifications before jumping into any conclusions.</p>
     {{ end }}
   {{ end }}
 
