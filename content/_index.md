@@ -20,6 +20,8 @@ I recently started a biweekly Monday newsletter about what I'm studying, working
 
 {{< newsletter >}}
 
+You can also follow me via any of the [feeds](/meta/#feeds).
+
 ## ✏️ Writing {#writing}
 
 This is a brief list of my latest [articles](/articles/). Please check out all my [articles](/articles/) and my [micro blog](/micro/), where I have smaller, more spontaneous, content.

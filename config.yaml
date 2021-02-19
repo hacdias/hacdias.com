@@ -48,8 +48,8 @@ menu:
   - name: ✉️ Contact
     url: /contact/
     weight: 5
-  - name: 🗞 Follow
-    url: /follow/
+  - name: 🔎 Search
+    url: /search/
     weight: 6
 
 markup:

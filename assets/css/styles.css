@@ -568,6 +568,10 @@ figure.right {
   font-weight: bold;
 }
 
+.box.word > *:first-child {
+  display: inline-block;
+}
+
 .box.red {
   border-color: rgb(var(--red));
   background-color: rgba(var(--red), 0.1);
