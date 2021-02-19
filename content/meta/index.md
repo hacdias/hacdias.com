@@ -3,11 +3,11 @@ title: About this website
 noMentions: true
 ---
 
+<p class="subtitle">I have been running this website since 2014. Since then, a lot has changed. My repository shows over 3000 commits and that's just the changes after I migrated to a static website.</p>
+
 <div class="box yellow word" data-word="Warning">
   This page is a work in progress.
 </div>
-
-I have been running this website since 2014. Since then, a lot has changed. My repository shows over 3000 commits and that's just the changes after I migrated to a static website.
 
 This website was started in 2014, when I was 14. The [first post](/articles/2014/07/apresentacao/) was still in Portuguese and that's where I said my "Hello, World" in a Portuguese fashion. For quite some time, I had different blogs and then I ended up [merging everything](/articles/2015/02/i-have-moved-again/) under my main domain, which, at the time, was **henriquedias.com**.
 

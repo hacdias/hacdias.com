@@ -1,15 +1,32 @@
 :root {
+  /* Font sizes. Nice website: https://type-scale.com/ */
+  --f1: 2.488rem;
+  --f2: 1.728rem;
+  --f3: 1.44rem;
+  --f4: 1.2rem;
+  --f5: 1rem;
+  --f6: 0.875rem;
+  --f7: 0.75rem;
+
+  /* Some colors */
+  --blue: 52, 152, 219;
+  --yellow: 241, 196, 15;
+  --red: 231, 76, 60;
+  --green: 46, 204, 113;
+
+  /* Blacks to whites */
   --black: #111;
   --dark-gray: #333;
+  --light-gray: #888;
   --light-white: #ddd;
   --near-white: #f4f4f4;
   --action: #00449e;
   --white: #ffffff;
+
+  /* Spacings */
   --space: 2.5rem;
   --half-space: 1.25rem;
   --max-width: 48rem;
-  --f6: .875rem;
-  --f7: .75rem;
 }
 
 * {
@@ -72,11 +89,34 @@ figure img {
 }
 
 h1, h2, h3, h4, h5 {
-  margin: 2.5rem 0 1rem;
+  font-weight: bold;
+  line-height: 1.3;
+  margin: 1em 0 1rem;
 }
 
 h1 {
   margin-top: 0;
+  font-size: var(--f1)
+}
+
+h2 {
+  font-size: var(--f2);
+}
+
+h3 {
+  font-size: var(--f3);
+}
+
+h4 {
+  font-size: var(--f4);
+}
+
+h5 {
+  font-size: var(--f5);
+}
+
+small {
+  font-size: var(--f6);
 }
 
 a {
@@ -487,6 +527,80 @@ figure.right {
   margin-left: 1rem;
 }
 
+.subtitle {
+  color: var(--light-gray);
+  font-weight: 500;
+  font-size: var(--f4);
+  margin-top: -1rem;
+}
+
+.subtitle::after {
+  content: " ";
+  display: block;
+  width: 30%;
+  background: var(--light-white);
+  height: 3px;
+  margin: 0.5rem 0 1rem;
+}
+
+
+.box {
+  padding: 0.5rem;
+  border: 3px solid black;
+  margin: 1rem 0;
+}
+
+.box > *:first-child {
+  margin-top: 0;
+}
+
+.box > *:last-child {
+  margin-bottom: 0;
+}
+
+.box.word::before {
+  content: attr(data-word);
+  margin-right: .5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.box.red {
+  border-color: rgb(var(--red));
+  background-color: rgba(var(--red), 0.1);
+}
+
+.box.red::before {
+  color: rgb(var(--red));
+}
+
+.box.blue {
+  border-color: rgb(var(--blue));
+  background-color: rgba(var(--blue), 0.1);
+}
+
+.box.blue::before {
+  color: rgb(var(--blue));
+}
+
+.box.yellow {
+  border-color: rgb(var(--yellow));
+  background-color: rgba(var(--yellow), 0.1);
+}
+
+.box.yellow::before {
+  color: rgb(var(--yellow));
+}
+
+.box.green {
+  border-color: rgb(var(--green));
+  background-color: rgba(var(--green), 0.1);
+}
+
+.box.green::before {
+  color: rgb(var(--green));
+}
+
 @media screen and (max-width: 38rem) {
   :root {
     --space: 1.5rem;
@@ -576,68 +690,4 @@ figure.right {
   .wm {
     display: none;
   }
-}
-
-:root {
-  --blue: 52, 152, 219;
-  --yellow: 241, 196, 15;
-  --red: 231, 76, 60;
-  --green: 46, 204, 113;
-}
-
-.box {
-  padding: 0.5rem;
-  border: 3px solid black;
-  margin: 1rem 0;
-}
-
-.box > *:first-child {
-  margin-top: 0;
-}
-
-.box > *:last-child {
-  margin-bottom: 0;
-}
-
-.box.word::before {
-  content: attr(data-word);
-  margin-right: .5rem;
-  text-transform: uppercase;
-  font-weight: bold;
-}
-
-.box.red {
-  border-color: rgb(var(--red));
-  background-color: rgba(var(--red), 0.1);
-}
-
-.box.red::before {
-  color: rgb(var(--red));
-}
-
-.box.blue {
-  border-color: rgb(var(--blue));
-  background-color: rgba(var(--blue), 0.1);
-}
-
-.box.blue::before {
-  color: rgb(var(--blue));
-}
-
-.box.yellow {
-  border-color: rgb(var(--yellow));
-  background-color: rgba(var(--yellow), 0.1);
-}
-
-.box.yellow::before {
-  color: rgb(var(--yellow));
-}
-
-.box.green {
-  border-color: rgb(var(--green));
-  background-color: rgba(var(--green), 0.1);
-}
-
-.box.green::before {
-  color: rgb(var(--green));
 }
