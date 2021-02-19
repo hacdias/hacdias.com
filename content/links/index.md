@@ -10,18 +10,6 @@ emoji: "\U0001F517"
 noMentions: true
 ---
 
-<style>
-:root {
-  --action: #2980b9;
-}
-body {
-  background: url(wave.svg), linear-gradient(180deg, #3498db 0%, #2980b9 100%);
-  background-attachment: fixed;
-  background-position: bottom;
-  background-repeat: no-repeat;
-}
-</style>
-
 This is a non-exhaustive collection of interesting links and websites I found on the Internet during my "surfing" 🌊. These are definitely more interesting than my browser's bookmarks! Links with a #️⃣ icon are IPFS links!
 
 ## ✏️ Articles {#articles}
@@ -43,9 +31,9 @@ This is a non-exhaustive collection of interesting links and websites I found on
 
 ## 📚 Educational {#educational}
 
-- [**How DNS works**](https://howdns.works/) - comics from dnsimple explaining how DNS works. As they say "road trips will never be the same".
-- [**How HTTPS works**](https://howhttps.works/) - comics from dnsimple explaining how HTTPS works.
-- [**ProtoSchool**](https://proto.school/) - a fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There's courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.
+- [How DNS works](https://howdns.works/) - comics from dnsimple explaining how DNS works. As they say "road trips will never be the same".
+- [How HTTPS works](https://howhttps.works/) - comics from dnsimple explaining how HTTPS works.
+- [ProtoSchool](https://proto.school/) - a fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There's courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.
 
 ## 🌍 Others {#others}
 
