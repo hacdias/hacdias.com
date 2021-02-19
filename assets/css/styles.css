@@ -90,6 +90,10 @@ a:hover {
   background: cornsilk;
 }
 
+li {
+  margin: 0.25em 0;
+}
+
 ::marker {
   color: var(--action)
 }
@@ -288,6 +292,7 @@ details {
 
 #navbar li {
   flex-grow: 1;
+  margin: 0;
 }
 
 #navbar a {
