@@ -15,7 +15,7 @@ I kept writing in Portuguese until the beginning of 2015. Then, I aimed for some
 
 Some more years passed, and now we're here, at **hacdias.com**. The old domain still exists, I still have it, and it merely redirects here. Since 2014, this website suffered, at least, 16 complete redesigns. For the future, I will try holding off more redesigns. I'm not yet 100% happy with the current design, which I have since September 2020.
 
-## Why does this website exist?
+## 💡 Why does this website exist? {#why}
 
 Everyone that creates content does so for some reason and I am no exception, of course. I honestly don't remember the reason why I created the website in the first place, but I can tell you the reasons that lead me to keep it nowadays.
 
@@ -27,7 +27,7 @@ Everyone that creates content does so for some reason and I am no exception, of 
 
 - **Less social media:** almost everyone uses social media. Despite being useful, they are also locked silos where you store your data. The data you create. The data you should own. Using my website as the medium to share whatever I want to share in first hand allows me to own my data a little bit more.
 
-## How does this website work?
+## ⚙️ How does this website work? {#how}
 
 Over the time, this website has suffered imense changes. Sometimes I think how crazy it feels to have a website for over 6 years already and I'm just 21. I guess that is one of the perks of being born in this age. I wonder what the future generations will have.
 
@@ -70,11 +70,29 @@ For many times, I [wondered](/2020/01/building-micropub/) [whether](/2020/01/dyn
 
 </div>
 
-## The features
+## 🍇 The features {#features}
 
-### Microformats
+Nowadays, this website provides more features than ever before. Even though it is technically static, it is updated quite frequently with data from multiple services I use to track movies, TV shows, songs I listen to, books I read, etc.
+
+### The data
+
+As I said before, my website feds from data from some other services I use to keep track of certain things. Now you may ask me "but wasn't the point to own your own data? why are you using external services?". Well, my reply to that is that those external services work very well and are very convinent.
+
+I wrote a bunch of [scripts](https://github.com/hacdias/silos-collector) that collect data from a few silos daily and updates the website:
+
+- 📚 [**GoodReads**](https://www.goodreads.com/) provides information for my [reading](/reads/) page so I can keep track of the books I've read in the past and that I am currently reading. However, I have been considering lately to ditch GoodReads completely and replace it by a "home baked" alternative where I just keep track of my readings in this website.
+
+- 📺 [**Trakt**](https://trakt.tv) feeds into my [watches](/watches/) page, which contains the series and movies I watched. Currently, I don't keep track of each episode on my website and I keep it simple by stating the last time I watched each series or movie.
+
+- 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contraty to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens/) page which has the current top artists and tracks I've been listening too. It's probably the "worse" looking page from the bunch.
+
+- 🙍 [**Miniflux**](https://miniflux.app/) is a simple RSS reader that I self-host. It has a really neat API and I use to track down my blogroll, which can be found in the [links](/links/#blogroll) page. I believe it is important to let others know we follow them and to share that with the blogosphere. 
 
 ### Webmentions
+
+- [Webmention.io](https://webmention.io/)
+- [Bridgy](https://brid.gy/)
+- [Telegraf](https://telegraph.p3k.io/)
 
 microformats?
 

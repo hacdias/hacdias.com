@@ -74,17 +74,10 @@ I also own a **tripod**: a Manfrotto Befree.
 
 Other software:
 
-- [Hugo][hugo]
 - **Hosted services**
-  - [Hetzner][hetzner]
   - [Namecheap][namecheap]
   - [GitHub][gh]
-  - [Cloudflare][cloudflare]
-  - [BunnyCDN](https://bunnycdn.com/)
 - **IndieWeb related services:**
-  - [Webmention.io](https://webmention.io/)
-  - [Bridgy](https://brid.gy/)
-  - [Telegraf](https://telegraph.p3k.io/)
   - [XRay](https://xray.p3k.app/)
   - [Granary](https://granary.io/)
 - **Self hosted**
