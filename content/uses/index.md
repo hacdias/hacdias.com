@@ -6,19 +6,6 @@ emoji: "\U0001F6E0"
 noMentions: true
 ---
 
-<style>
-:root {
-  --action:  #2c3e50;
-}
-
-body {
-  background-color: #2c3e50;
-  background: radial-gradient(circle, transparent 20%, #2c3e50 20%, #2c3e50 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #2c3e50 20%, #2c3e50 80%, transparent 80%, transparent) 40px 40px, linear-gradient(#ecf0f1 3.2px, transparent 3.2px) 0 -1.6px, linear-gradient(90deg, #ecf0f1 3.2px, #2c3e50 3.2px) -1.6px 0;
-  background-size: 80px 80px, 80px 80px, 40px 40px, 40px 40px;
-  background-attachment: fixed;
-}
-</style>
-
 This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you the things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be a 100% up to date, but I will try to keep an eye on it to keep it alive!
 
 ## Hardware

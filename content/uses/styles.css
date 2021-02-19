@@ -1,0 +1,13 @@
+:root {
+  --action:  #2c3e50;
+}
+
+body {
+  background-color: #2c3e50;
+  background: radial-gradient(circle, transparent 20%, #2c3e50 20%, #2c3e50 80%, transparent 80%, transparent),
+    radial-gradient(circle, transparent 20%, #2c3e50 20%, #2c3e50 80%, transparent 80%, transparent) 40px 40px,
+    linear-gradient(#ecf0f1 3.2px, transparent 3.2px) 0 -1.6px,
+    linear-gradient(90deg, #ecf0f1 3.2px, #2c3e50 3.2px) -1.6px 0;
+  background-size: 80px 80px, 80px 80px, 40px 40px, 40px 40px;
+  background-attachment: fixed;
+}

@@ -52,7 +52,12 @@
   {{- $glitch := resources.Get "css/glitch.css" }}
   {{- $styles := resources.Get "css/styles.css" }}
   {{- $css := slice $normalize $glitch $styles | resources.Concat "css/styles.css" | resources.Minify }}
-  <style>{{ $css.Content | safeCSS }}</style>
+  <style>
+    {{- $css.Content | safeCSS }}
+    {{- with .Resources.GetMatch "styles.css"}}
+      {{- .Content | safeCSS }}
+    {{- end }}
+  </style>
 {{ end }}
 
 {{ if .IsHome }}
