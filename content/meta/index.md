@@ -17,6 +17,16 @@ Some more years passed, and now we're here, at **hacdias.com**. The old domain s
 
 ## Why does this website exist?
 
+Everyone that creates content does so for some reason and I am no exception, of course. I honestly don't remember the reason why I created the website in the first place, but I can tell you the reasons that lead me to keep it nowadays.
+
+- **Personality:** I want this website to show who I am, what I am doing and what I like. Nowadays, most websites are very plain and look the same. This is my corner, and I'm trying to make it pleasant and, at the same time, [unique](/articles/2020/05/back-90s/).
+
+- **Knowledge:** doubtfully the reason why I started this website. However, one of the main goals for me is to share my opinions and possibly help anyone along the way. By writing, I also learn. It is a method of consolidating existing knowledge.
+
+- **Photography:** I love photography and taking pictures with my [camera](/uses/#photography). I am not a big fan of social media apps such as Instagram because I can't chose to have a layout as I wish. I might get less "views" here, but what matters is the content and that it can be presented and customized how I want.
+
+- **Less social media:** almost everyone uses social media. Despite being useful, they are also locked silos where you store your data. The data you create. The data you should own. Using my website as the medium to share whatever I want to share in first hand allows me to own my data a little bit more.
+
 ## How does this website work?
 
 - where / how it is hosted
