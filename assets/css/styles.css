@@ -569,7 +569,7 @@ figure.right {
 }
 
 .box.word > *:first-child {
-  display: inline-block;
+  display: inline;
 }
 
 .box.red {
