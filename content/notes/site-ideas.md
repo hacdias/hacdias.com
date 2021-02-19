@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-19T06:58:42.743796219Z
+lastmod: 2021-02-19T09:45:00.170908384Z
 ---
 
 - Update /uses
@@ -20,6 +20,7 @@ lastmod: 2021-02-19T06:58:42.743796219Z
   - Clean notes?
   - Advantages?
 - TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
+- Put some pictures on homepage?
 
 ## Posts
 
