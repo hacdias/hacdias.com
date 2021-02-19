@@ -1,5 +1,8 @@
 ---
 title: Access a network behind a Carrier Grade NAT with Wireguard
+description: >
+  Nowadays, a lot of ISPs are putting their clients behind giant NATs
+  which blocks us from easily accessing local services from the outside.
 tags:
 - mondayletter
 - network

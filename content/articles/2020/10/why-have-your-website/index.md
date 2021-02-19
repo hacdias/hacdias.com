@@ -1,5 +1,9 @@
 ---
 title: Why should you have your own website?
+description: >
+  We live in a world with increasingly larger social media platforms.
+  Everyone's profile looks the same, barely distinguishable. Why not
+  have a website?
 tags:
 - ownyourdata
 - mondayletter

@@ -1,7 +1,8 @@
 ---
 title: Is it time to build my own CMS?
-description: |
-  After some considering, I think it is time to build my own CMS.
+description: >
+  This website has become increasingly dynamic. However, I love the idea of a static generator and
+  being able to bring the website with me wherever I need.
 tags:
 - cms
 - meta

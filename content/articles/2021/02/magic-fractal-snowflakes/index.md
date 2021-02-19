@@ -1,7 +1,8 @@
 ---
 title: The magic of fractal snowflakes
-description: |
-  This post goes through the magic of generating fractal snowflakes using the JavaScript Canvas API that is available on all modern browsers.
+description: >
+  I have been wishing snow for a long time and the winter has finally come. That made me have
+  the idea of generating fractal snowflakes using the JavaScript.
 tags:
 - mondayletter
 - experiments

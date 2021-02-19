@@ -1,5 +1,8 @@
 ---
 title: How to effectively backup your emails
+description: >
+  E-mail is one of the most important communication methods nowadays.
+  But do you back it up? What if the service you use goes out of service?
 tags:
 - ownyourdata
 - mondayletter

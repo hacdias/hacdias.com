@@ -1,7 +1,8 @@
 ---
 title: Moving to a different country during a pandemic
-description: |
-  My experience on moving to a different country to study during a pandemic and the overview until now.
+description: >
+  Moving to a different country is never an easy and seamless experience. I moved
+  during a pandemic and this is my experience. Was it worth it?
 tags:
 - recently
 - mondayletter
