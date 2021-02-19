@@ -7,19 +7,17 @@ date: 2021-02-10T19:09:57.974475866Z
 lastmod: 2021-02-19T19:42:05.425549366Z
 ---
 
-- Uses
-  - Finish Software section
+- Finish [uses](/uses)
+- Finish [meta](/meta)
 - Reads
   - Add Indieweb meta tags. Make it different? include reviews from goodreads that I did and stars?
 - Move all images to CDN (except svg)
-- Delete follow? Put feeds in meta/? link in home?
-- Create Meta (/meta) where I have info about how the website is built and its features
 - Revamp homepage
   - Put some pictures?
   - Larger?
+  - More predominance to latest articles (maybe revamp listings)
+  - More predominance to whats happening now
 - Clean notes
-- Allow for larger pictures.
-  - How can that work with so many custom backgrounds?
 - Improvements
   - Footnotes content on hover ([h](https://discourse.gohugo.io/t/how-to-add-title-tooltip-with-footnote-content-to-footnote-link/25498/5))
   - TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
@@ -27,6 +25,7 @@ lastmod: 2021-02-19T19:42:05.425549366Z
 
 ## Posts
 
+- Gallery of snowy pictures
 - Fractals series:
     - https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
     - https://www.wired.com/story/how-to-make-a-tree-with-fractals/
