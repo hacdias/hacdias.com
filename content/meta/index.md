@@ -1,5 +1,6 @@
 ---
 title: About this website
+lastmod: 2021-02-19T22:44:54.003530875Z
 noMentions: true
 ---
 
@@ -41,7 +42,7 @@ This website is, for the most part, static. That is not a lie. The website is st
 Regarding storage, it is a bit more complicated than it seems. This website is directly served from a **VPS** I have with [Hetzner](https://www.hetzner.com/) and it goes through [Cloudflare](https://www.cloudflare.com/) for caching. That is the main entry point of this website. In addition, it is also stored in the IPFS network.
 
 <div class="box red">
-  Right now, Cloudflare is actually not caching my website due to a misconfiguration of my end. This will be fixed soon.
+  Right now, Cloudflare is actually not caching my website due to a misconfiguration on my end. This will be fixed soon.
 </div>
 
 [**IPFS**](https://ipfs.io/) is a peer-to-peer hypermedia protocol whose goal is to eventually replace HTTP. For browsers equipped with IPFS capabilities, this website will be directly served from the network instead of hitting my server. In the past, I wrote about the [publishing workflow](/articles/2019/08/decentralizing-my-website-with-ipfs/) on the IPFS network.
@@ -58,7 +59,7 @@ For many times, I [wondered](/2020/01/building-micropub/) [whether](/2020/01/dyn
 
 - **Git synchronizer:** every time I update the website manually on my computer and commit it to git, it gets automatically updated.
 
-- **Search:** I provide a full-text search entrypoint, which I go into more detail on the next [section](#search).
+- **Search:** I provide a full-text search endpoint, which I go into more detail on the next [section](#search).
 
 - **Webmentions** and **ActivityPub handlers**: this website supports [webmentions](#webmentions) and [AcivityPub](https://www.w3.org/TR/activitypub/). All the handlers and processments happen within Eagle.
 
@@ -76,7 +77,7 @@ Nowadays, this website provides more features than ever before. Even though it i
 
 ### The data
 
-As I said before, my website feds from data from some other services I use to keep track of certain things. Now you may ask me "but wasn't the point to own your own data? why are you using external services?". Well, my reply to that is that those external services work very well and are very convinent.
+As I said before, my website feds from data from some other services I use to keep track of certain things. Now you may ask me "but wasn't the point to own your own data? why are you using external services?". Well, my reply to that is that those external services work very well and are very convenient.
 
 I wrote a bunch of [scripts](https://github.com/hacdias/silos-collector) that collect data from a few silos daily and updates the website:
 
@@ -84,7 +85,7 @@ I wrote a bunch of [scripts](https://github.com/hacdias/silos-collector) that co
 
 - 📺 [**Trakt**](https://trakt.tv) feeds into my [watches](/watches/) page, which contains the series and movies I watched. Currently, I don't keep track of each episode on my website and I keep it simple by stating the last time I watched each series or movie.
 
-- 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contraty to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens/) page which has the current top artists and tracks I've been listening too. It's probably the "worse" looking page from the bunch.
+- 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contrary to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens/) page which has the current top artists and tracks I've been listening to. It's probably the "worse" looking page from the bunch.
 
 - 🙍 [**Miniflux**](https://miniflux.app/) is a simple RSS reader that I self-host. It has a really neat API and I use to track down my blogroll, which can be found in the [links](/links/#blogroll) page. I believe it is important to let others know we follow them and to share that with the blogosphere. 
 
