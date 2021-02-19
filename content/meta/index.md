@@ -19,8 +19,6 @@ Some more years passed, and now we're here, at **hacdias.com**. The old domain s
 
 ## How does this website work?
 
-- how is the website build?
-- goals of the website
 - where / how it is hosted
 - ipfs
 
@@ -28,3 +26,11 @@ https://hacdias.com/articles/2015/08/farewell-wordpress-hello-hugo/
 https://hacdias.com/articles/2020/01/building-micropub/
 https://hacdias.com/articles/2020/01/dynamic-static/
 https://hacdias.com/articles/2020/10/rebuilding-eagle-cms/
+## The features
+
+- feeds
+- interesting pages
+- webmentions
+- microformats
+- indieweb
+- guestbook
