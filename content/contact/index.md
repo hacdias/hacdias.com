@@ -5,21 +5,30 @@ noMentions: true
 ---
 
 <style>
+:root {
+  --action: #fecb00
+}
+
+#navbar li:last-of-type a {
+  color: var(--black)
+}
+
 @media screen and (min-width: 38rem) {
   body {
-    background: #91748c url(mail.jpg);
+    background: #fecb00 url(mailbox.jpg);
     background-size: 400px;
     background-attachment: fixed;
   }
 }
 </style>
 
-My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in.
-However, if you want to contact me, here are my preferred ways to do so:
+My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. However, if you want to contact me directly, here are my preferred ways to do so:
 
-1. [Telegram (@hacdias)][tg].
-2. [Twitter (@hacdias)][tw] direct or private message.
-3. [E-mail (mail@hacdias.com)][mail] for longer conversations or if you don't have any of the above.
+1. ☎️ [Telegram (@hacdias)][tg].
+2. 🐦 [Twitter (@hacdias)][tw] direct or private message.
+3. ✉️ [E-mail (mail@hacdias.com)][mail] for longer conversations or if you don't have any of the above.
+
+Other relevant platforms where I am are 💻 [**GitHub**](https://github.com/hacdias), 📷 [**Instagram**](https://instagram.com/hacdias) and 💼 [**LinkedIn**](https://linkedin.com/in/hacdias).
 
 ### PGP 🗝
 
