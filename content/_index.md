@@ -1,8 +1,8 @@
 ---
 title: hacdias.com
+lastmod: 2021-02-12T20:23:31.029541972Z
 aliases:
 - /follow
-lastmod: 2021-02-12T20:23:31.029541972Z
 ---
 
 <div class="h-card dn">
@@ -47,7 +47,7 @@ There's much more going on with this website than you might think at first sight
 - 🛠️ The tools I'm [using](/uses/).
 - 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
 - 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
-- 📌 [**Links**](/links/) and 🧻 [**Blogroll**](/links/#blogroll), a collection of interesting websites that I find worth sharing.
+- 📌 [**Links**](/links/), a collection of interesting websites that I follow or find worth sharing.
 - 📓 [**Notes**](/notes/), my digital garden.
 - 📦 [**Projects**](/projects/), the major projects I've worked on.
 - 🔎 [**Search**](/search/), yes, this website can be searched on!
