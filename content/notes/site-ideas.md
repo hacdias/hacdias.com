@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-19T12:50:27.576601816Z
+lastmod: 2021-02-19T19:42:05.425549366Z
 ---
 
 - Uses
@@ -12,7 +12,6 @@ lastmod: 2021-02-19T12:50:27.576601816Z
 - Reads
   - Add Indieweb meta tags. Make it different? include reviews from goodreads that I did and stars?
 - Move all images to CDN (except svg)
-- Consider full-width code blocks again
 - Delete follow? Put feeds in meta/? link in home?
 - Create Meta (/meta) where I have info about how the website is built and its features
 - Revamp homepage
