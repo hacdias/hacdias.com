@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-18T22:19:39.482310687Z
+lastmod: 2021-02-19T06:09:48.430707517Z
 ---
 
 - Update /uses
@@ -12,10 +12,13 @@ lastmod: 2021-02-18T22:19:39.482310687Z
 - Improve /links content and visual (blue bg? ocean? pixelart?)
 - ~~Change /music to /listens (MAKE ALIAS)~~
 - ~~Change /books to /reads (MAKE ALIAS)~~
-- Clean up old articles somehow? New ones?
+- Clean up old articles and micro somehow? New ones? 
 - consider full width code again
 - Merge contact w/ /follow?
 - Maybe create about this website (/meta) where I have info about how the website is built
+- Merge articles and notes under the same "umbrella" ("posts")?
+  - Clean notes?
+  - Advantages?
 
 ## Posts
 

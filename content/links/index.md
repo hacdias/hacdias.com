@@ -1,7 +1,7 @@
 ---
 title: Links
 date: 2020-02-12T21:00:00Z
-lastmod: 2021-02-17T06:53:31.562015483Z
+lastmod: 2021-02-19T06:03:51.563164597Z
 aliases:
 - /pins
 - /bookmarks
@@ -45,6 +45,7 @@ This is a non-exhaustive collection of interesting links and websites I found on
 
 - [How DNS works](https://howdns.works/) - comics from dnsimple explaining how DNS works.
 - [How HTTPS works](https://howhttps.works/) - comics from dnsimple explaining how HTTPS works.
+- [ProtoSchool](https://proto.school/) - a fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There's courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.
 
 ## 🌍 Others {#others}
 
