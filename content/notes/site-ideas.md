@@ -7,20 +7,20 @@ date: 2021-02-10T19:09:57.974475866Z
 lastmod: 2021-02-19T09:45:00.170908384Z
 ---
 
-- Update /uses
-- ~~Merge /blogroll with /links~~ experiment done.
-- Improve /links content and visual (blue bg? ocean? pixelart?)
-- ~~Change /music to /listens (MAKE ALIAS)~~
-- ~~Change /books to /reads (MAKE ALIAS)~~
-- Clean up old articles and micro somehow? New ones? 
-- consider full width code again
-- Merge contact w/ /follow?
-- Maybe create about this website (/meta) where I have info about how the website is built
-- Merge articles and notes under the same "umbrella" ("posts")?
-  - Clean notes?
-  - Advantages?
+- Uses
+  - Finish Software section
+- Reads
+  - Add Indieweb meta tags. Make it different? include reviews from goodreads that I did and stars?
+- Articles and micro
+  - Quickly go over and check if somthing needs toi be fixed/removed
+- Move all images to CDN (except svg)
+- Consider full-width code blocks again
+- Delete follow? Put feeds in meta/? link in home?
+- Create Meta (/meta) where I have info about how the website is built and its features
 - TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
-- Put some pictures on homepage?
+- Revamp homepage
+  - Put some pictures?
+  - Larger?
 
 ## Posts
 
@@ -62,8 +62,3 @@ lastmod: 2021-02-19T09:45:00.170908384Z
 - Serve my website over Gemini
 - Serve my website over TOR
 - **articles**: move out of year/month folders
-
-### Not very important
-
-- flatten content directory. Yes or no? Files in bundles or asssets/static?
-- consider using .html instead of / with .html stripped in the end URL
