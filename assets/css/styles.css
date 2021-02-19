@@ -281,10 +281,12 @@ details {
 .content > pre {
   overflow: auto;
   border: 0;
-  padding-left: var(--half-space);
-  margin: 1rem 0;
+  padding: var(--space);
+  background: var(--near-white) !important;
 }
 
+.highlight > pre,
+.content > pre,
 .full-width {
   width: calc(100% + 2 * var(--space));
   margin-left: calc(var(--space) * -1);
