@@ -131,14 +131,14 @@
       "title": "mcol.xyz"
     },
     {
+      "feed": "https://mtlynch.io/index.xml",
+      "site": "https://mtlynch.io/",
+      "title": "Michael Lynch"
+    },
+    {
       "feed": "https://mikestone.me/feed.xml",
       "site": "https://mikestone.me/",
       "title": "Mike Stone"
-    },
-    {
-      "feed": "https://mtlynch.io/index.xml",
-      "site": "https://mtlynch.io/",
-      "title": "mtlynch.io"
     },
     {
       "feed": "https://oscarbenedito.com/blog/index.xml",
