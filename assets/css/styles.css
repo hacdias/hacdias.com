@@ -379,8 +379,9 @@ details {
   margin-bottom: 1rem;
 }
 
-.h-feed article h1 {
+.h-feed article h2 {
   font-size: 1.5rem;
+  margin-top: 0;
 }
 
 .e-entry {

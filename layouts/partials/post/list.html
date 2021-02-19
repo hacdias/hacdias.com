@@ -1,0 +1,36 @@
+<article class='h-entry'>
+  {{ if .Title }}
+  <header>
+    <h2 class='p-name'>
+      <a href="{{ .RelPermalink }}" class='no-link'>{{- .Title -}}</a>
+    </h2>
+  </header>
+  {{ end }}
+
+  {{- partialCached "post/embedded" . .Permalink }}
+  {{ partial "darkroom/full-figures" . }}
+
+  {{ if not (eq .Section "micro") }}
+    <div class='content copy p-summary'><p>{{ .Summary }}</p></div>
+  {{ else }}
+    {{ with .Content }}
+      <div class='content copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
+    {{ end }}
+  {{ end }}
+
+  <footer class='footer'>
+    <span>
+      {{- partialCached "post/date" . .Permalink }}
+      {{- with .Section -}}
+        {{- with $.Site.GetPage (printf "/%s" .) -}}
+          in <a href="{{ .RelPermalink }}">{{ with .Params.emoji }}{{ . }}{{ end }} {{ .Title }}</a></span>
+        {{- end -}}
+      {{- end -}}
+    </span>
+
+    <a class="more" href="{{ .RelPermalink }}">Read more →</a>
+
+    {{- partialCached "post/syndication" . .Permalink }}
+    {{- partialCached "author-metadata" . }}
+  </footer>
+</article>

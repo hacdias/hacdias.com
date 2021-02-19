@@ -1,8 +1,7 @@
 {{ define "main" }}
 
 <main role='main'>
-  {{ $data := (dict "Glob" . "Mode" "single") }}
-  {{ partial "post" $data }}
+  {{ partial "post/single" . }}
 </main>
 
 {{ end }}

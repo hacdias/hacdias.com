@@ -10,8 +10,7 @@
   <div class='h-feed'>
     {{- $paginator := .Paginate (partialCached "get-pages" . .Type .Title) -}}
     {{- range .Paginator.Pages -}}
-      {{- $data := (dict "Glob" . "Mode" "list") -}}
-      {{- partial "post" $data -}}
+      {{- partial "post/list" . -}}
     {{- end -}}
   </div>
 

@@ -1,0 +1,5 @@
+{{ with .Params.syndication -}}
+  {{ range . -}}
+    <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ . }}</a>
+  {{ end -}}
+{{ end -}}
