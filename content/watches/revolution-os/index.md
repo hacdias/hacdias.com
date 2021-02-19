@@ -3,9 +3,11 @@ title: Revolution OS
 tags:
 - movies
 - opensource
+aliases:
+- /notes/revolution-os
 ---
 
-{{< youtube 1h4RNetLbg >}}
+{{< youtube 4vW62KqKJ5A >}}
 
 - You're never supposed to use an OS. people  use programs
 - An OS just helps creating programs
