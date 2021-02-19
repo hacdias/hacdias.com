@@ -24,55 +24,6 @@ Since then, I've only seen snow a few other times when traveling, but never that
 
 <!--more-->
 
-<style>
-:root {
-  --action: #3867d6;
-}
-
-body {
-  background-color: #4b7bec;
-  background-image: url(snowflake.svg);
-  background-size: 50px;
-  background-attachment: fixed;
-}
-
-.snowflakes {
-  background: radial-gradient(#4b7bec, #3867d6);
-  height: 25rem;
-  position: relative;
-}
-
-.snowflakes canvas {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  height: 100%;
-}
-
-#controls {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
-  text-align: center;
-  margin: 1rem auto;
-}
-
-#controls label {
-  font-weight: bold;
-  display:block;
-}
-
-#controls input {
-  width: 80%;
-}
-
-@media screen and (max-width: 30rem) {
-  .snowflakes {
-    height: 20rem;
-  }
-}
-</style>
-
 <video autoplay muted loop>
   <source src="https://cdn.hacdias.com/u/2021-02-snow-eindhoven.mp4" type="video/mp4">
   Your browser does not support the video tag.

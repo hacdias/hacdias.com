@@ -3,15 +3,6 @@ title: hacdias.com
 lastmod: 2021-02-12T20:23:31.029541972Z
 ---
 
-<style>
-@media screen and (min-width: 38rem) {
-  body {
-    background: #000 url(https://cdn.hacdias.com/u/2021-02-space.gif);
-    background-attachment: fixed;
-  }
-}
-</style>
-
 <div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
   <a href="https://hacdias.com/" class="u-uid u-url p-name">Henrique Dias</a>
