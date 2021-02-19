@@ -48,7 +48,7 @@ menu:
   - name: ✉️ Contact
     url: /contact/
     weight: 5
-  - name: ⚡️ Follow
+  - name: 🗞 Follow
     url: /follow/
     weight: 6
 

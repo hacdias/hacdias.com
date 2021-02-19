@@ -12,12 +12,12 @@ noMentions: true
 }
 
 #navbar li:last-of-type a {
-  background: var(--black)
+  color: var(--black)
 }
 
 @media screen and (min-width: 38rem) {
   body {
-    background: #fecb00 url(mailbox.jpg);
+    background: #fecb00 url(../contact/mailbox.jpg);
     background-size: 400px;
     background-attachment: fixed;
   }
@@ -42,13 +42,8 @@ All listing and tag pages, such as [micro](/micro/) and [articles](/articles/), 
 
 ## Fediverse
 
-You can follow me on Mastodon, Pleroma, or any other software that supports ActivityPub. Just search for `@hacdias@hacdias.com` and you should find me!
+You can follow me on Mastodon, Pleroma, or any other software that supports ActivityPub. Just search for `@hacdias@hacdias.com` and you should find me! I do not guarantee that this works. Please use it at your own risk.
 
 ## Social Media
 
-Here's some social media websites where yoiu can find me:
-
-- 🐦 [Twitter](https://twitter.com/hacdias)
-- 💻 [GitHub](https://github.com/hacdias)
-- 📷 [Instagram](https://instagram.com/hacdias)
-- 💼 [LinkedIn](https://linkedin.com/in/hacdias)
+See my [contact](/contact) page.
