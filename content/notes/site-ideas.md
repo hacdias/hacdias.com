@@ -19,7 +19,6 @@ lastmod: 2021-02-20T06:53:47.358549417Z
   - More predominance to whats happening now
 - Clean notes
 - Improvements
-  - Footnotes content on hover ([h](https://discourse.gohugo.io/t/how-to-add-title-tooltip-with-footnote-content-to-footnote-link/25498/5))
   - TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
   - Reading progress
 - Gallery of Winter pics?
