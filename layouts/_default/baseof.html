@@ -23,35 +23,8 @@
   {{ end }}
 
   <script>
-    function parseEmojis (el) {
-      twemoji.parse(el, {
-        base: 'https://cdn.hacdias.com/emojis/13.0.0/',
-        folder: 'svg',
-        ext: '.svg'
-      });
-    };
-
-    parseEmojis(document.body);
-
-    {{ if .Params.math }}
-      MathJax = {
-        tex: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']]
-        }
-      };
-    {{ end }}
-
-    {{ if .Params.mermaid }}
-      mermaid.initialize({ theme: 'forest' });
-      mermaid.init('.language-mermaid');
-    {{ end }}
-
-    console.log(
-      "%cHi! 👋 It's Henrique and welcome to my corner of the Interweb. Feel free to explore. If you have any questions, ping me @hacdias.",
-      "background-color: #00449e ; color: white ; font-weight: bold ; " +
-      "font-size: 30px ; " +
-      "font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif; text-shadow: 1px 1px 3px black ;"
-    );
+    {{ $js := resources.Get "js/app.js" }}
+    {{ $js.Content | safeJS }}
   </script>
   {{ if .Params.math }}
     <script async src="https://cdn.hacdias.com/mathjax/3.1.2/tex-chtml.js"></script>
