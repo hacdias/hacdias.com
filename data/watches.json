@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race UK",
+      "watched": "2021-02-20T21:24:16.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
+    },
+    {
       "title": "Shadowhunters",
       "watched": "2021-02-19T21:22:05.000Z",
       "url": "https://trakt.tv/shows/shadowhunters"
@@ -1841,11 +1846,6 @@
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2021-02-14T17:53:36.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race UK",
-      "watched": "2021-02-13T17:07:36.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
       "title": "Young Sheldon",
