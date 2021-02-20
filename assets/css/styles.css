@@ -350,11 +350,6 @@ details {
   background-color: var(--dark-gray);
 }
 
-#navbar li:last-of-type a {
-  margin-left: auto;
-  background: var(--action);
-}
-
 .container {
   width: 100%;
   max-width: var(--max-width);

@@ -9,10 +9,6 @@ noMentions: true
   --action: #fecb00
 }
 
-#navbar li:last-of-type a {
-  color: var(--black)
-}
-
 @media screen and (min-width: 38rem) {
   body {
     background: #fecb00 url(mailbox.jpg);
