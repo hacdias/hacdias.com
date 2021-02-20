@@ -7,10 +7,6 @@
   <div class='container'>
     {{ partial "header" . }}
 
-    {{- if not (eq .Section "darkroom") }}
-      {{ partial "navbar" . }}
-    {{- end }}
-
     {{ block "main" . -}}{{ end }}
 
     {{- if not (eq .Section "darkroom") }}
