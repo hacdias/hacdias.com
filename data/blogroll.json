@@ -16,6 +16,11 @@
       "title": "Alfonso de la Rocha"
     },
     {
+      "feed": "https://alistairshepherd.uk/feed.xml",
+      "site": "https://www.alistairshepherd.uk/",
+      "title": "Alistair Shepherd"
+    },
+    {
       "feed": "https://ohhelloana.blog/feed.xml",
       "site": "https://ohhelloana.blog",
       "title": "Ana Rodrigues"
@@ -51,6 +56,11 @@
       "title": "Christine Dodrill"
     },
     {
+      "feed": "https://codersblock.com/rss.xml",
+      "site": "https://codersblock.com",
+      "title": "Coder's Block"
+    },
+    {
       "feed": "https://blog.codinghorror.com/rss/",
       "site": "https://blog.codinghorror.com/",
       "title": "Coding Horror"
@@ -81,13 +91,13 @@
       "title": "Jake Bauer"
     },
     {
-      "feed": "https://jfenn.me/blog/feed.xml",
-      "site": "https://jfenn.me/",
+      "feed": "https://feeds.feedburner.com/fennifith",
+      "site": "https://jfenn.me",
       "title": "James Fenn"
     },
     {
-      "feed": "https://feeds.feedburner.com/fennifith",
-      "site": "https://jfenn.me",
+      "feed": "https://jfenn.me/blog/feed.xml",
+      "site": "https://jfenn.me/",
       "title": "James Fenn"
     },
     {
