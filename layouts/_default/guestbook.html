@@ -46,8 +46,9 @@
     </p>
   </div>
 
-  {{ $mentions := .Site.Data.interactions.guestbook }}
+  {{ $mentions := .Resources.GetMatch "interactions.yaml" }}
   {{ if $mentions }}
+    {{ $mentions = unmarshal $mentions.Content }}
     {{ $mentions = where $mentions "type" "ne" "like" }}
     {{ $mentions = where $mentions "type" "ne" "repost" }}
     {{ $mentions = sort $mentions "date" "desc" }}

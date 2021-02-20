@@ -1,8 +1,5 @@
-{{ $san := strings.TrimSuffix "/" .RelPermalink }}
-{{ $san = strings.TrimPrefix "/" $san }}
-{{ $san = replace $san "/" "-" }}
-{{ $san = or $san "index" }}
-{{ $mentions := index .Site.Data.interactions $san }}
+{{ $mentions := .Resources.GetMatch "interactions.yaml" }}
+{{ if $mentions }}{{ $mentions = unmarshal $mentions.Content }}{{ end }}
 <div class="wm full-width">
   <form action="https://webmention.io/hacdias.com/webmention" method="post">
     <input aria-label="Webmention Source" name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
