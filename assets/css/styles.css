@@ -546,17 +546,20 @@ figure.right {
   margin: 0.5rem 0 1rem;
 }
 
-
+.footnotes,
 .box {
   padding: 0.5rem;
-  border: 3px solid black;
+  border: 3px solid var(--light-white);
+  background-color: var(--near-white);
   margin: 1rem 0;
 }
 
+.footnotes > *:first-child,
 .box > *:first-child {
   margin-top: 0;
 }
 
+.footnotes > *:first-child,
 .box > *:last-child {
   margin-bottom: 0;
 }
@@ -697,4 +700,73 @@ figure.right {
   .wm {
     display: none;
   }
+}
+
+#footnote {
+  position: absolute;
+  max-width: 20rem;
+  padding: 1.5rem 0.5rem 0.5rem 0.5rem;
+  background: var(--white);
+  border: .25rem solid var(--light-white);
+  font-size: var(--f6);
+}
+
+#footnote::before {
+  content: "Footnote";
+  color: var(--light-gray);
+  background: var(--light-white);
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1.25rem;
+  line-height: 1.25rem;
+  padding-left: .5rem;
+  box-sizing: border-box;
+  font-size: var(--f7);
+}
+
+.footnotes hr {
+  display: none;
+}
+
+.footnotes ol {
+  counter-reset: footnote;
+  list-style-type: none;
+}
+
+.footnotes li {
+  position: relative;
+}
+
+.footnote-backref::before,
+.footnote-ref {
+  background: var(--light-white);
+  color: var(--light-gray);
+  padding: 1px 3px;
+  text-decoration: none;
+  font-weight: 800;
+  border-radius: 4px;
+  margin-left: 1px;
+  font-size: var(--f7);
+}
+
+.footnote-ref:hover {
+  background: var(--light-white);
+}
+
+.footnote-backref {
+  font-size: 0;
+  text-decoration: none;
+  position: absolute;
+  top: 5px;
+  left: -1.5rem;
+  margin: 0;
+}
+
+.footnote-backref::before {
+  counter-increment: footnote;
+  content: counters(footnote, "."); 
 }
