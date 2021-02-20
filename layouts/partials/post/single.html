@@ -1,6 +1,12 @@
 <article class='h-entry'>
   {{ with .Title }}
   <header>
+    {{ if not (eq $.Section "micro") }}
+    <p>
+      {{- partialCached "post/date" $ "single" $.Permalink }}
+      {{- partialCached "post/section" $ "single" $.Permalink }}
+    </p>
+    {{ end }}
     <h1 class='p-name'>{{- . -}}</h1>
   </header>
   {{ end }}
@@ -16,12 +22,8 @@
 
   <footer class='footer'>
     <span>
-      {{- partialCached "post/date" . .Permalink }}
-      {{- with .Section -}}
-        {{- with $.Site.GetPage (printf "/%s" .) -}}
-          in <a href="{{ .RelPermalink }}">{{ with .Params.emoji }}{{ . }}{{ end }} {{ .Title }}</a></span>
-        {{- end -}}
-      {{- end -}}
+      {{- partialCached "post/date" . "single" .Permalink }}
+      {{- partialCached "post/section" . "single" .Permalink }}
     </span>
 
     {{ if .Params.tags }}

@@ -207,11 +207,6 @@ hr {
   margin: 1.2em auto;
 }
 
-article img#banner {
-  max-height: 28em;
-  object-fit: cover;
-}
-
 article ul,
 article ol {
   padding-left: 2em;
@@ -222,6 +217,13 @@ article figure figcaption p {
   font-size: var(--f6);
   color: var(--dark-gray);
   margin: 0.25rem 0 1rem;
+}
+
+article header p {
+  font-size: var(--f6);
+  color: var(--light-gray);
+  font-weight: 500;
+  margin: 0;
 }
 
 table {

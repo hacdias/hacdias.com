@@ -20,12 +20,8 @@
 
   <footer class='footer'>
     <span>
-      {{- partialCached "post/date" . .Permalink }}
-      {{- with .Section -}}
-        {{- with $.Site.GetPage (printf "/%s" .) -}}
-          in <a href="{{ .RelPermalink }}">{{ with .Params.emoji }}{{ . }}{{ end }} {{ .Title }}</a></span>
-        {{- end -}}
-      {{- end -}}
+      {{- partialCached "post/date" . "list" .Permalink }}
+      {{- partialCached "post/section" . "list" .Permalink }}
     </span>
 
     <a class="more" href="{{ .RelPermalink }}">Read more →</a>
