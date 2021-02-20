@@ -91,11 +91,19 @@ I wrote a bunch of [scripts](https://github.com/hacdias/silos-collector) that co
 
 ### Webmentions
 
-- [Webmention.io](https://webmention.io/)
-- [Bridgy](https://brid.gy/)
-- [Telegraf](https://telegraph.p3k.io/)
+This website supports [Webmentions](https://indieweb.org/Webmention). **Webmention** is simply a web standard that allows for interactions and conversations across the Internet. They can be in the form of a comment, a like, a repost or some other interactions and they're a key component in the decentralized web.
 
-microformats?
+When you visit one of my posts, you'll be able to see on the bottom a box where interactions should be. Right now, I'm not handling the Webmentions completely by myself. I rely on three main external services:
+
+- [**Webmention.io**](https://webmention.io/) for receiving webmentions. This service already parses the webmention and streamlines the format that "arrives" at my server.
+- [**Bridgy**](https://brid.gy/) for creating webmention for Twitter likes, replies and reposts.
+- [**Telegraf**](https://telegraph.p3k.io/) for sending webmentions without having to deal with all the issues that any decentralized system might have when one machine goes offline for a bit.
+
+<div class="box green word" data-word="Microformats">
+  
+  My website also complies with [Microformats](https://microformats.org/) which, on the surface, is a set of HTML classes that allows for very easy parsing of my website's content. They can be used for [feeds](#feeds) for example.
+
+</div>
 
 ### Feeds
 
@@ -112,5 +120,9 @@ All pages that list posts, such as [micro](/micro/) and [articles](/articles/), 
 </div>
 
 ### Search
+
+One very important feature, personally, is the search feature. Right now, the search feature is available through the [search](/search) page only. However, in the future, I want to be able to search from any point of the website.
+
+The search is **not** static. I am self-hosting an instance of [MeiliSearch](https://docs.meilisearch.com/), an open-source and super fast search engine. It is very fast to index, very quick to search and allows for full-text search.
 
 ### Guestbook
