@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-19T19:42:05.425549366Z
+lastmod: 2021-02-20T06:53:47.358549417Z
 ---
 
 - Finish [uses](/uses)
@@ -22,6 +22,7 @@ lastmod: 2021-02-19T19:42:05.425549366Z
   - Footnotes content on hover ([h](https://discourse.gohugo.io/t/how-to-add-title-tooltip-with-footnote-content-to-footnote-link/25498/5))
   - TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
   - Reading progress
+- Gallery of Winter pics?
 
 ## Posts
 
