@@ -55,3 +55,21 @@ Where:
 - $I$ is the [Current](#current)
 - $V$ is the [Voltage](#voltage)
 - $R$ is the [Resistance](#resistance)
+
+## Time Constant
+
+- How much time it takes to charge 63%
+
+$$\tau=RC$$
+
+- $R$ in Ω cm
+- $C$ in F
+
+## Length Constant
+
+- Distance it takes for a potential change to fall off ~37%.
+
+$$\lambda=\sqrt{\frac{R_{membrane}}{R_{axial}}}$$
+
+- $R_{membrane}$ in Ω cm
+- $R_{axial}$ in Ω / cm

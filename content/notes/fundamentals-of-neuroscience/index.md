@@ -331,12 +331,26 @@ l
 
 Formulas:
 
-- [Nernst Potential](/notes/nernst-potential/)
-- [GHK Equation](/notes/ghk-equation/)
-- [Driving Force](/notes/driving-force/)
-- [Ohm's Law](/notes/ohms-law/)
-- [Length Constant](/notes/length-constant/)
-- [Time Constant](/notes/time-constant/)
+- [Ohm's Law](/notes/physics/)
+- [Length Constant](/notes/physics/)
+- [Time Constant](/notes/physics/)
+
+## Nernst Potential
+
+- Membrane potential at which, given certain conditions, a single ion is at an equilibrium.
+- $E_{\ce{K+}}=-90$ mV
+- $E_{\ce{Na+}}=55$ mV
+- $E_{\ce{Cl-}}=-65$ mV
+
+$$E_{ion}=\frac{RT}{zF}\ln\frac{[ion]_o}{[ion]_i}$$
+
+
+## Driving Force
+
+$$DF = V_{membrane}-E_{ion}$$
+### GHK Equation
+
+$$V_m=\frac{RT}{zF}\ln\frac{P_k[K]_o+P_{Na}[Na]_{o}+P_{Cl}[Cl]_i}{P_k[K]_i+P_{Na}[Na]_i+P_{Cl}[Cl]_o}$$
 
 ## References
 
