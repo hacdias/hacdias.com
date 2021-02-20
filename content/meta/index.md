@@ -67,7 +67,7 @@ For many times, I [wondered](/2020/01/building-micropub/) [whether](/2020/01/dyn
 
   I am considering removing the ActivityPub support from my website. Right now, my website is able to provide posts formatted as ActivityPub entries; post to my followers when I write new content; and receive comments via ActivityPub.
 
-  What bother me is that the logic is a bit flaky and it fails quite often. Besides, I only have 2 followers and one of them is a testing account of mine. Removing it would cleanup the code and possibly not hurt anyone.
+  What bothers me is that the logic is a bit flaky and it fails quite often. Besides, I only have 2 followers and one of them is a testing account of mine. Removing it would cleanup the code and possibly not hurt anyone.
 
 </div>
 
