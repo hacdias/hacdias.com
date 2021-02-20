@@ -2,7 +2,7 @@
 title: HTTP
 ---
 
-The **Hypertext Transfer Protocol** (HTTP) is an [Application Layer](/notes/application-layer/) protocol.
+The **Hypertext Transfer Protocol** (HTTP) is an [Application Layer](/notes/osi-model/) protocol.
 
 ## Verbs
 

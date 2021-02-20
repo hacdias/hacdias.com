@@ -15,7 +15,7 @@ mermaid: true
 
 - Procedure calls can behave synchronously.
 - Simplifies remote calls by building, marshalling and unmarshalling the messages.
-- Hides [Transport Layer](/notes/transport-layer/) specifics, such as addressing, receiving and sending messages, as well as error handling.
+- Hides [Transport Layer](/notes/osi-model/) specifics, such as addressing, receiving and sending messages, as well as error handling.
 - Simplifies the documentation process, as the interface is independent of the transport protocols.
 
 

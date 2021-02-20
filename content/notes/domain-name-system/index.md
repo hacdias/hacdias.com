@@ -2,7 +2,7 @@
 title: Domain Name System (DNS)
 ---
 
-The **Domain Name System (DNS)** is a decentralized [Naming System](/notes/naming-system/) for machines in a network. It's an [Application Layer](/notes/application-layer/) protocol.
+The **Domain Name System (DNS)** is a decentralized [Naming System](/notes/naming-system/) for machines in a network. It's an [Application Layer](/notes/osi-model/) protocol.
 
 - Namespace: hierarchical and homogenous
 - There are global and local names.
