@@ -659,8 +659,7 @@ figure.right {
   padding: 1px 3px;
   text-decoration: none;
   font-weight: 800;
-  border-radius: 4px;
-  margin-left: 1px;
+  margin-left: 2px;
   font-size: var(--f7);
 }
 
