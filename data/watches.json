@@ -1813,14 +1813,29 @@
   ],
   "series": [
     {
+      "title": "Shadowhunters",
+      "watched": "2021-02-21T19:44:24.000Z",
+      "url": "https://trakt.tv/shows/shadowhunters"
+    },
+    {
+      "title": "Young Sheldon",
+      "watched": "2021-02-21T13:09:33.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2021-02-21T09:06:04.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-02-21T08:48:26.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-02-20T21:24:16.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "Shadowhunters",
-      "watched": "2021-02-19T21:22:05.000Z",
-      "url": "https://trakt.tv/shows/shadowhunters"
     },
     {
       "title": "Snowpiercer",
@@ -1836,21 +1851,6 @@
       "title": "The Good Doctor",
       "watched": "2021-02-16T17:52:26.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-02-14T18:53:00.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2021-02-14T17:53:36.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2021-02-12T14:07:43.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "Tiny Pretty Things",
