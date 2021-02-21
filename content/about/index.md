@@ -14,8 +14,8 @@ aliases:
 
 @media screen and (min-width: 38rem) {
   body {
-    background: #036b74 url(space.jpg);
-    background-size: 400px;
+    background: #036b74 url(pattern.svg);
+    background-size: 35rem;
     background-attachment: fixed;
   }
 }
