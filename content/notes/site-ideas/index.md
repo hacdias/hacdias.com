@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-20T06:53:47.358549417Z
+lastmod: 2021-02-21T12:05:25.633413434Z
 ---
 
 - Finish [uses](/uses)
@@ -22,6 +22,7 @@ lastmod: 2021-02-20T06:53:47.358549417Z
   - TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
   - Reading progress
 - Gallery of Winter pics?
+- Take pictures of old versions of my website
 
 ## Posts
 
