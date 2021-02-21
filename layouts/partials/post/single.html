@@ -1,5 +1,4 @@
 <article class='h-entry'>
-  {{ with .Title }}
   <header>
     {{ if not (eq $.Section "micro") }}
     <p>
@@ -7,9 +6,8 @@
       {{- partialCached "post/section" $ "single" $.Permalink }}
     </p>
     {{ end }}
-    <h1 class='p-name'>{{- . -}}</h1>
+    {{ with .Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
   </header>
-  {{ end }}
 
   {{- partialCached "post/outdated" . .Permalink }}
   {{- partialCached "post/embedded" . .Permalink }}
