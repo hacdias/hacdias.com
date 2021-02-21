@@ -21,8 +21,7 @@
     margin: var(--space) 0;
   }
 
-  .info,
-  .content {
+  .copy {
     width: calc(100% - var(--space));
     max-width: 48rem;
     margin: 0 auto;
@@ -32,7 +31,7 @@
     margin: 0;
   }
 
-  .info .p-name {
+  .copy .p-name {
     font-weight: bold;
   }
 
@@ -58,7 +57,7 @@
     </div>
 
     {{ with .Content }}
-    <div class='content copy e-content'>{{ . }}</div>
+    <div class='copy e-content'>{{ . }}</div>
     {{ end }}
 
     <footer class='footer'>  

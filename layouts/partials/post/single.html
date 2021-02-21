@@ -17,7 +17,7 @@
   {{ partial "darkroom/full-figures" . }}
 
   {{ with .Content }}
-    <div class='content copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
+    <div class='copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
   {{ end }}
 
   <footer class='footer'>

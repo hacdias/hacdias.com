@@ -207,12 +207,12 @@ hr {
   margin: 1.2em auto;
 }
 
-article ul,
-article ol {
+ul,
+ol {
   padding-left: 2em;
 }
 
-article figure figcaption p {
+figcaption p {
   text-align: center;
   font-size: var(--f6);
   color: var(--dark-gray);
@@ -280,7 +280,7 @@ details {
 }
 
 .highlight > pre,
-.content > pre {
+.copy > pre {
   overflow: auto;
   border: 0;
   padding: var(--space);
@@ -288,7 +288,7 @@ details {
 }
 
 .highlight > pre,
-.content > pre,
+.copy > pre,
 .full-width {
   width: calc(100% + 2 * var(--space));
   margin-left: calc(var(--space) * -1);

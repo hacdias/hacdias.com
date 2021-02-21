@@ -11,10 +11,10 @@
   {{ partial "darkroom/full-figures" . }}
 
   {{ if not (eq .Section "micro") }}
-    <div class='content copy p-summary'><p>{{ .Summary }}</p></div>
+    <div class='copy p-summary'><p>{{ .Summary }}</p></div>
   {{ else }}
     {{ with .Content }}
-      <div class='content copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
+      <div class='copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
     {{ end }}
   {{ end }}
 
