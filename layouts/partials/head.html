@@ -1,7 +1,6 @@
 {{- $description := or .Description .Site.Params.Description }}
 {{- $shortTitle := or .Title .Site.Title -}}
 {{- $longTitle := (printf "%s - %s" $shortTitle .Site.Title) -}}
-{{- if .IsHome -}}{{ $longTitle = .Site.Title }}{{- end -}}
 {{- if not .Title -}}{{ $longTitle = $shortTitle }}{{- end -}}
 
 <meta charset="utf-8">
