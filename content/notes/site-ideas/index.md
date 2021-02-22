@@ -4,7 +4,7 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-22T12:46:24.647286708Z
+lastmod: 2021-02-22T21:32:18.576853499Z
 ---
 
 - Finish [uses](/uses)
@@ -21,9 +21,9 @@ lastmod: 2021-02-22T12:46:24.647286708Z
   - More predominance to latest articles (maybe revamp listings)
   - More predominance to whats happening now
 - Clean notes
-- Improvements
-  - TOC for long posts (fixed in the bottom on mobile with arrow up) https://gohugo.io/content-management/toc/
-  - Reading progress
+- Improvements: Reading progress
+- Cleanup TOC
+- Consider removing tags
 - Gallery of Winter pics?
 - Take pictures of old versions of my website
 - Clean articles (descriptions and tags and titles)
