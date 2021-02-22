@@ -1,8 +1,6 @@
 ---
 title: How to create a web server in Go
 tags:
-- server
-- web
 - go
 date: 2017-09-08T00:00:00Z
 aliases:

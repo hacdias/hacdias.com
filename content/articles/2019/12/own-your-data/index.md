@@ -3,10 +3,8 @@ title: We don't own our data, do we?
 description: |
   Data is a topic I've been wanting to write about for quite some time. Do we own our data? What should we do about it?
 tags:
-- data
-- indieweb
+- reflection
 - privacy
-- self
 date: 2019-12-24T20:00:00Z
 aliases:
 - /articles/2019/12/24/1/

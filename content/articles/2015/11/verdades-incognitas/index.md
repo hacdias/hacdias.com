@@ -2,8 +2,6 @@
 title: Verdades Incógnitas
 description: Estou a dormir. Ponto. Eu sei que estou a dormir. Sim, eu sei que mais
   tarde vou ter que me levantar. Não. Não és tu que dizes que eu devo ser.
-tags:
-- opinion
 date: 2015-11-15T13:45:00Z
 aliases:
 - /articles/2015/11/15/1/

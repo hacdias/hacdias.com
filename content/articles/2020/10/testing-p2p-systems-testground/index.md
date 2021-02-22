@@ -5,8 +5,7 @@ description: >
   constraints and network scenarios that might happen. Testground can help!
 tags:
 - testing
-- decentralization
-- testground
+- web3
 - mondayletter
 date: 2020-10-19T09:00:00+02:00
 syndication:

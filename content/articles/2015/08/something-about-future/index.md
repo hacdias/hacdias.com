@@ -4,9 +4,7 @@ description: Is the future real? Does it exists? Who are we? What are we going t
   be? Time? Death. Is that real? What's the difference from life? Some interesting
   questions no one can answer.
 tags:
-- Opinion
-- Life
-- Future
+- reflection
 date: 2015-08-19T08:30:00Z
 aliases:
 - /articles/2015/08/19/1/

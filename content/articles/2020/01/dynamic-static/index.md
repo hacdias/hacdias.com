@@ -3,8 +3,6 @@ title: Build a dynamic website… or not?
 tags:
 - meta
 - indieweb
-- micropub
-- dogfood
 date: 2020-01-02T23:40:00Z
 syndication:
 - https://twitter.com/hacdias/status/1212881805096996864

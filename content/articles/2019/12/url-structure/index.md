@@ -3,8 +3,6 @@ title: URL Structure
 description: |
   Data is a topic I've been wanting to write about for quite some time. Do we own our data? What should we do about it?
 tags:
-- indieweb
-- url
 - meta
 date: 2019-12-28T15:30:00Z
 aliases:

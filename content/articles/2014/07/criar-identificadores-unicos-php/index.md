@@ -3,7 +3,7 @@ title: Criar identificadores únicos em PHP"
 description: Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo.
   Hoje trago-vos uma das funções mais interessantes desta linguagem.
 tags:
-- pgp
+- php
 date: 2014-07-30T08:34:52Z
 aliases:
 - /articles/2014/07/30/1/

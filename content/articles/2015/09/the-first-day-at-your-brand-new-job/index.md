@@ -3,8 +3,6 @@ title: The first day at your brand new job
 description: You got a job! And today’s the first day, what are you going to do? Let’s
   make a party and make everyone dance! What? No… wait! You’re nervous, you don’t
   have to be. Let’s talk.
-tags:
-- opinion
 date: 2015-09-11T08:00:00Z
 aliases:
 - /articles/2015/09/11/1/

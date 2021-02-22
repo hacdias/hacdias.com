@@ -4,9 +4,7 @@ description: |
   How I built a cloner for xkcd and keep the clone up to date on IPFS.
 tags:
 - ipfs
-- clone
-- code
-- decentralization
+- web3
 date: 2019-07-05T16:20:00Z
 aliases:
 - /articles/2019/07/05/1/

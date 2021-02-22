@@ -3,9 +3,8 @@ title: The Society and the Objects
 description: Presently, the people love the objects. Sometimes, more than they love
   the people. Is this good? Or not?
 tags:
-- reflexão
-- sociedade
 - society
+- reflection
 date: 2014-11-07T20:28:27Z
 aliases:
 - /articles/2014/11/07/1/

@@ -3,7 +3,7 @@ title: Intermittent Threads
 description: 'I was there. I turn my head to the left and I see a bullet coming in
   my direction. The clock stops. I stop. I see myself doing nothing. '
 tags:
-- reflexion
+- reflection
 date: 2015-11-14T13:45:00Z
 aliases:
 - /articles/2015/11/14/1/

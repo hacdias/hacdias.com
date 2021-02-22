@@ -5,7 +5,6 @@ description: >
   Everyone's profile looks the same, barely distinguishable. Why not
   have a website?
 tags:
-- ownyourdata
 - mondayletter
 date: 2020-10-26T09:00:00+01:00
 ---

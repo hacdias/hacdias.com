@@ -3,8 +3,7 @@ title: How did I start working remotely in a startup
 description: A story of a 17 years old boy who met someone and one year later was
   invited to join a startup as a Full Stack Developer.
 tags:
-- projects
-- startup
+- reflection
 date: 2017-07-12T11:30:00Z
 aliases:
 - /articles/2017/07/12/1/

@@ -5,9 +5,8 @@ description: How does my website work with IPFS? Where does the content go? What
 tags:
 - ipfs
 - dns
-- dnslink
 - meta
-- decentralization
+- web3
 date: 2019-08-07T18:45:00Z
 aliases:
 - /articles/2019/08/07/1/

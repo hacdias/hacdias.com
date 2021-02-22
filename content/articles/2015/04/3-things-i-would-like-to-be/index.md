@@ -2,8 +2,6 @@
 title: 3 things I would like to be
 description: I don't want to be just one thing. Where's the fun of being just one
   thing? There are 3 things I would like to be and there is nothing in the way."
-tags:
-- opinions
 date: 2015-04-06T20:05:27Z
 aliases:
 - /articles/2015/04/06/1/

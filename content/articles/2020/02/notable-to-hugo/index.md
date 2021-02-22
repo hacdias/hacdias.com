@@ -4,7 +4,6 @@ description: |
   Here I describe my small journey so far with Notable and how I sync my website's Knowledge Base it with.
 tags:
 - meta
-- notes
 date: 2020-02-29T21:37:00Z
 aliases:
 - /articles/2020/02/29/1/

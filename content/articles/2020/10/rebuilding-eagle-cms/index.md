@@ -5,8 +5,6 @@ description: >
   It is full of new features, such as search and ActivityPub.
 tags:
 - meta
-- eagle
-- activitypub
 - mondayletter
 date: 2020-10-12T09:00:00+02:00
 ---

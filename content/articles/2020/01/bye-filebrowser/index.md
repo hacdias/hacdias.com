@@ -3,9 +3,8 @@ title: Goodbye File Browser!
 description: After 5 years of maintaining this project and failing due to my limited
   time, it was time to say goodbye to File Browser.
 tags:
-- opensource
 - go
-- lessons
+- reflection
 date: 2020-01-23T09:10:00Z
 syndication:
 - https://twitter.com/hacdias/status/1220274794068959232
