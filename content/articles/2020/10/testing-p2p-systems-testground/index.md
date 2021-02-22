@@ -1,5 +1,8 @@
 ---
 title: Testing peer-to-peer systems with Testground
+description: >
+  P2P systems are not always easy to test. Due to their nature, there's a lot of 
+  constraints and network scenarios that might happen. Testground can help!
 tags:
 - testing
 - decentralization
