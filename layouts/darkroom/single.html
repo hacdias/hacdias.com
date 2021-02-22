@@ -34,10 +34,6 @@
   .copy .p-name {
     font-weight: bold;
   }
-
-  .footer {
-    display: none;
-  }
 </style>
 
 <main role='main'>
@@ -60,9 +56,7 @@
     <div class='copy e-content'>{{ . }}</div>
     {{ end }}
 
-    <footer class='footer'>  
-      {{ partialCached "post/metadata" . .Permalink }}
-    </footer>
+    {{ partialCached "post/metadata" . .Permalink }}
   </article>
 </main>
 
