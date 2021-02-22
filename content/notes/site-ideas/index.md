@@ -4,11 +4,14 @@ tags:
 - meta
 - ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-21T12:05:25.633413434Z
+lastmod: 2021-02-22T12:46:24.647286708Z
 ---
 
 - Finish [uses](/uses)
 - Finish [meta](/meta)
+- Get rid of .Params.images; make .Params.social be a CDN image and use it for thumbnails too.
+- Photos: make them more gallery like (per place?)
+- Reword darkroom links (do not put month at least)
 - Reads
   - Add Indieweb meta tags. Make it different? include reviews from goodreads that I did and stars?
 - Move all images to CDN (except svg)
@@ -23,6 +26,7 @@ lastmod: 2021-02-21T12:05:25.633413434Z
   - Reading progress
 - Gallery of Winter pics?
 - Take pictures of old versions of my website
+- Clean articles (descriptions and tags and titles)
 
 ## Posts
 
