@@ -76,7 +76,6 @@ function toc () {
   })
 }
 
-
 // For MathJax enabled pages
 MathJax = {
   tex: {
