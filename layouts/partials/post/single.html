@@ -11,6 +11,14 @@
   </header>
   {{ end }}
 
+  {{ if or .Params.toc (eq .Section "notes") }}
+  <div id="toc">
+    <p>Table of Contents</p>
+    {{ .TableOfContents }}
+    <p>{{ .ReadingTime }} min read</p>
+  </div>
+  {{ end }}
+
   {{- partialCached "post/outdated" . .Permalink }}
   {{- partialCached "post/embedded" . .Permalink }}
 

@@ -55,6 +55,28 @@ function footnotes () {
   })
 }
 
+function toc () {
+  if (!document.getElementById("toc")) {
+    return
+  }
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      const id = entry.target.getAttribute('id');
+      if (entry.intersectionRatio > 0) {
+        document.querySelector(`#toc a[href="#${id}"]`).classList.add('active');
+      } else {
+        document.querySelector(`#toc a[href="#${id}"]`).classList.remove('active');
+      }
+    })
+  })
+
+  document.querySelectorAll('h2[id], h3[id]').forEach((section) => {
+    observer.observe(section);
+  })
+}
+
+
 // For MathJax enabled pages
 MathJax = {
   tex: {
@@ -69,3 +91,4 @@ if (window.mermaid) {
 
 parseEmojis(document.body)
 footnotes()
+toc()
