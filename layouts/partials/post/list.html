@@ -26,7 +26,6 @@
 
     <a class="more" href="{{ .RelPermalink }}">Read more →</a>
 
-    {{- partialCached "post/syndication" . .Permalink }}
-    {{- partialCached "author-metadata" . }}
+    {{ partialCached "post/metadata" . .Permalink }}
   </footer>
 </article>

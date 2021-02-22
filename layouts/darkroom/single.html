@@ -61,13 +61,7 @@
     {{ end }}
 
     <footer class='footer'>  
-      {{ with .Params.syndication -}}
-        {{ range . -}}
-          <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ . }}</a>
-        {{ end -}}
-      {{ end -}}
-  
-      {{ partialCached "author-metadata" . }}
+      {{ partialCached "post/metadata" . .Permalink }}
     </footer>
   </article>
 </main>

@@ -44,8 +44,7 @@
     </ul>
     {{ end }}
 
-    {{- partialCached "post/syndication" . .Permalink }}
-    {{ partialCached "author-metadata" . }}
+    {{ partialCached "post/metadata" . .Permalink }}
   </footer>
 
   {{ if not .Params.noMentions -}}
