@@ -2,8 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-22T22:37:59.098601476Z
+lastmod: 2021-02-23T17:54:26.039954056Z
 ---
 
 Next:
@@ -39,6 +38,10 @@ Then:
   - Larger?
   - More predominance to latest articles (maybe revamp listings)
   - More predominance to whats happening now
+
+May be useful: https://developer.mozilla.org/en-US/docs/Web/CSS/display
+
+display: flow-root
 
 ## Posts
 
