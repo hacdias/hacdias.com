@@ -2,44 +2,30 @@
 title: Site Ideas
 tags:
 - meta
-- ideas
 date: 2021-02-10T19:09:57.974475866Z
-lastmod: 2021-02-22T22:37:59.098601476Z
+lastmod: 2021-02-22T21:32:18.576853499Z
 ---
 
-Next:
-
-1. Rework darkroom:
-    - Replace `.Params.social` by `.Params.cover` - it is a CDN image.
-    - Remove `.Params.images`. Use figure for the pictures to allow more customization.
-    - Rework current photos into small "collections" (Misc travels, Hometown Corona)
-    - Merge `_index.md` with `archive.md`. Use styles from design branch as "card".
-2. Clean up TAGS and TITLES in all sections:
-    - micro
-    - articles
-    - notes
-3. Cleanup TOC and make it work on mobile
-
-Then:
-
-- Reads
-  - Indieweb meta tags?
-  - Include reviews from goodreads that I did and stars?
-  - Picture or list like
-  - Do not depend on GoodReads? Each own a post?
 - Finish [uses](/uses)
 - Finish [meta](/meta)
+- Get rid of .Params.images; make .Params.social be a CDN image and use it for thumbnails too.
+- Photos: make them more gallery like (per place?)
+- Reword darkroom links (do not put month at least)
+- Reads
+  - Add Indieweb meta tags. Make it different? include reviews from goodreads that I did and stars?
 - Move all images to CDN (except svg)
-- Clean notes
-- Remove tags?
-- Gallery of Winter pics?
-- Take pictures of old versions of my website
-- Improvements: Reading progress?
 - Revamp homepage
   - Put some pictures?
   - Larger?
   - More predominance to latest articles (maybe revamp listings)
   - More predominance to whats happening now
+- Clean notes
+- Improvements: Reading progress
+- Cleanup TOC
+- Consider removing tags
+- Gallery of Winter pics?
+- Take pictures of old versions of my website
+- Clean articles (descriptions and tags and titles)
 
 ## Posts
 

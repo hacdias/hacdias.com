@@ -1,7 +1,5 @@
 ---
 title: IPFS Whitepaper Draft 3
-tags:
-- ipfs
 ---
 
 - **paper**: https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf

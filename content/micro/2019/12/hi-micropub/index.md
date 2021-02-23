@@ -1,7 +1,6 @@
 ---
 tags:
 - indieweb
-- micropub
 date: 2019-12-27T14:01:30.924Z
 aliases:
 - /notes/2019/12/27/1/

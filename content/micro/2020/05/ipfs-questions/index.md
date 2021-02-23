@@ -2,6 +2,7 @@
 tags:
 - ipfs
 - dweb
+- web3
 date: 2020-05-19T10:19:48.523Z
 syndication:
 - https://twitter.com/hacdias/status/1262689444219535361

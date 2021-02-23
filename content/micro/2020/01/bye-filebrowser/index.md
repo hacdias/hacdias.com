@@ -1,7 +1,4 @@
 ---
-tags:
-- goals
-- opensource
 date: 2020-01-09T18:14:56.589Z
 syndication:
 - https://twitter.com/hacdias/status/1215336460888477696

@@ -1,7 +1,6 @@
 ---
 tags:
 - meta
-- winter
 date: 2021-01-18T21:15:57Z
 ---
 

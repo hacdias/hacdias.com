@@ -1,8 +1,7 @@
 ---
 tags:
 - blockchain
-- cryptocurrencies
-- ethereum
+- cryptocurrency
 date: 2020-12-10T07:13:00Z
 replyTo:
   url: https://jlelse.blog/thoughts/2020/12/crypto-bs

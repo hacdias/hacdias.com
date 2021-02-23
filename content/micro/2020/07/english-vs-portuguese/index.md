@@ -1,7 +1,6 @@
 ---
 tags:
 - meta
-- languages
 date: 2020-07-01T06:36:39.609Z
 replyTo:
   url: https://jlelse.blog/thoughts/2020/06/blogging-german/

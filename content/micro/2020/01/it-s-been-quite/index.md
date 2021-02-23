@@ -1,6 +1,4 @@
 ---
-tags:
-- "2020"
 date: 2020-01-06T23:07:54.43Z
 syndication:
 - https://twitter.com/hacdias/status/1214322750963290112

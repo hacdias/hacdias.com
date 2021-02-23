@@ -1,7 +1,5 @@
 ---
 title: Replication
-tags:
-- distributed
 math: true
 ---
 

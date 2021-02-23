@@ -1,7 +1,4 @@
 ---
-tags:
-- covid19
-- mask
 date: 2020-07-18T06:23:16.254Z
 syndication:
 - https://twitter.com/hacdias/status/1284373188231790592

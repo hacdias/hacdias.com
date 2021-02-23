@@ -1,7 +1,7 @@
 ---
 tags:
 - dweb
-- ssb
+- web3
 date: 2020-01-09T15:29:15.575Z
 syndication:
 - https://twitter.com/hacdias/status/1215294494511452169

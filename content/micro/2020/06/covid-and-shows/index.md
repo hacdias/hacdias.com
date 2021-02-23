@@ -1,8 +1,6 @@
 ---
 tags:
-- personal
-- shows
-- covid19
+- life
 date: 2020-06-30T19:59:59.922Z
 ---
 

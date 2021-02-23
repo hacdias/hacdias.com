@@ -1,7 +1,6 @@
 ---
 tags:
 - meta
-- fixes
 date: 2020-01-30T23:40:31.938Z
 lastmod: 2020-01-30T23:45:37.147Z
 aliases:

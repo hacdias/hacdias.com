@@ -1,6 +1,7 @@
 ---
 tags:
-- activitypub
+- meta
+- indieweb
 date: 2020-10-14T11:38:45Z
 replyTo:
   url: https://jan.boddez.net/notes/046185c328

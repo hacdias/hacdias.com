@@ -2,7 +2,6 @@
 tags:
 - meta
 - indieweb
-- micropub
 date: 2020-01-19T11:36:57.867Z
 aliases:
 - /2020/01/19/1/

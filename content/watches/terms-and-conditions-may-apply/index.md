@@ -1,8 +1,8 @@
 ---
 title: Terms and Conditions May Apply
 tags:
-- documentaries
-- movies
+- documentary
+- movie
 aliases:
 - /notes/terms-and-conditions-may-apply/
 ---

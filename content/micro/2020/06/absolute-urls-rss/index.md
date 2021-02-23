@@ -1,7 +1,6 @@
 ---
 tags:
 - meta
-- hugo
 date: 2020-06-01T18:44:39.02Z
 replyTo:
   url: https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/

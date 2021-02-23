@@ -1,7 +1,6 @@
 ---
 tags:
 - meta
-- software
 date: 2020-09-26T07:23:15.116Z
 ---
 

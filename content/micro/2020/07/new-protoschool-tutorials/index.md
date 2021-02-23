@@ -1,8 +1,7 @@
 ---
 tags:
-- protoschool
-- tutorials
 - dweb
+- web3
 date: 2020-07-22T09:17:08.039Z
 syndication:
 - https://twitter.com/hacdias/status/1285866484187697153

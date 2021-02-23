@@ -1,8 +1,7 @@
 ---
 title: An End to Negativity by Chris Williams
 tags:
-- talks
-- chris_williams
+- talk
 aliases:
 - /notes/an-end-to-negativity-chris-williams/
 ---

@@ -4,6 +4,7 @@ description: |
   Recently I've been wanting to try out more things in my life. And one of them is more artistic than I'm used to: pixel art! This is where I share how was my first contact with this pixelized world.
 tags:
 - pixelart
+- art
 date: 2019-04-18T00:00:00Z
 aliases:
 - /articles/2019/04/18/1/

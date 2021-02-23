@@ -2,8 +2,7 @@
 title: Modularity for Everyone by James Halliday
 tags:
 - javascript
-- talks
-- james_halliday
+- talk
 aliases:
 - /notes/modularity-for-everyone-james-halliday/
 ---

@@ -1,7 +1,5 @@
 ---
 title: The Practice of Programming
-tags:
-- books
 ---
 
 - **isbn**: 0-201-61586-X

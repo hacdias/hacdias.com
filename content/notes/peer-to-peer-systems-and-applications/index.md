@@ -1,7 +1,5 @@
 ---
 title: Peer-to-Peer Systems and Applications
-tags:
-- books
 ---
 
 - **isbn**: 978-3-540-29192-3

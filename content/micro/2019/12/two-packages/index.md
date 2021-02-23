@@ -1,8 +1,6 @@
 ---
 tags:
-- packages
-- indieauth
-- micropub
+- indieweb
 date: 2019-12-31T13:01:18.887Z
 syndication:
 - https://twitter.com/hacdias/status/1211996203514290176

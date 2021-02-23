@@ -1,9 +1,7 @@
 ---
 title: Leadership in Open Source by Isaac Schlueter
 tags:
-- opensource
-- talks
-- isaac_schlueter
+- talk
 aliases:
 - /notes/leadership-in-open-source-isaac-schlueter/
 ---

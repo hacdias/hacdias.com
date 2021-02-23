@@ -1,6 +1,4 @@
 ---
-tags:
-- example
 date: 2021-02-16T20:21:25.185559963Z
 replyTo:
   url: https://ybbond.id/responses/#date-2021-02-17-0255

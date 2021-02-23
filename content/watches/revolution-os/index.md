@@ -1,8 +1,7 @@
 ---
 title: Revolution OS
 tags:
-- movies
-- opensource
+- movie
 aliases:
 - /notes/revolution-os
 ---

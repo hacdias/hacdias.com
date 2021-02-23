@@ -1,7 +1,5 @@
 ---
 title: Kubernetes - Up and Running
-tags:
-- books
 ---
 
 - **isbn**: 978-1492046530

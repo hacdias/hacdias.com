@@ -1,7 +1,6 @@
 ---
 tags:
 - meta
-- bunnycdn
 date: 2021-02-13T13:05:56.054699792Z
 syndication:
 - https://twitter.com/hacdias/status/1360576327087230976

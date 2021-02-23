@@ -1,8 +1,8 @@
 ---
 tags:
 - dweb
+- web3
 - ipfs
-- summit
 date: 2020-04-21T22:15:51.362Z
 syndication:
 - https://twitter.com/hacdias/status/1252722765767086081

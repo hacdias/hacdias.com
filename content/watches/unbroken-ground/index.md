@@ -1,8 +1,8 @@
 ---
 title: Unbroken Ground
 tags:
-- movies
-- documentaries
+- movie
+- documentary
 aliases:
 - /notes/unbroken-ground/
 ---

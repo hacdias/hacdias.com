@@ -1,7 +1,6 @@
 ---
 tags:
 - meta
-- thanks
 date: 2020-06-01T13:51:07.72Z
 replyTo:
   url: https://janboddez.tech/notes/b6b59a1630
