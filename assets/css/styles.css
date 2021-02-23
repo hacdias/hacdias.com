@@ -406,21 +406,19 @@ details {
   font-weight: 500;
 }
 
-.footer {
+.more,
+.tags {
   font-size: var(--f6);
-  align-items: center;
-  display: flex;
-  margin: 1rem 0;
+  text-align: right;
 }
 
-.footer .more,
-.footer ul {
-  margin: 0 0 0 auto;
+.tags {
+  margin: 1rem 0;
   padding: 0;
   list-style: none;
 }
 
-.footer li {
+.tags li {
   display: inline-block;
   margin-left: 0.25rem;
 }
@@ -776,17 +774,8 @@ figure.right {
     display: block;
   }
 
-  .footer {
-    display: block;
-  }
-
-  .footer li:first-child {
-    margin-left: 0;
-  }
-
-  .footer > * {
-    margin: 1rem 0;
-    display: block;
+  .tags {
+    text-align: left;
   }
 
   .wm > form:first-of-type,

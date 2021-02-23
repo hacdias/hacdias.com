@@ -1,11 +1,11 @@
 <article class='h-entry'>
-  {{ if .Title }}
   <header>
-    <h2 class='p-name'>
-      <a href="{{ .RelPermalink }}" class='no-link'>{{- .Title -}}</a>
-    </h2>
+    <p>
+      {{- partialCached "post/date" . "single" .Permalink }}
+      {{- partialCached "post/section" . "single" .Permalink }}
+    </p>
+    {{ with .Title }}<h2 class='p-name'><a href="{{ $.RelPermalink }}" class='no-link'>{{- . -}}</a></h2>{{ end }}
   </header>
-  {{ end }}
 
   {{- partialCached "post/embedded" . .Permalink }}
   {{ partial "darkroom/full-figures" . }}
@@ -20,14 +20,9 @@
     {{ end }}
   {{ end }}
 
-  <footer class='footer'>
-    <span>
-      {{- partialCached "post/date" . "list" .Permalink }}
-      {{- partialCached "post/section" . "list" .Permalink }}
-    </span>
+  <p class="more">
+    <a href="{{ .RelPermalink }}">Read more →</a>
+  </p>
 
-    <a class="more" href="{{ .RelPermalink }}">Read more →</a>
-
-    {{ partialCached "post/metadata" . .Permalink }}
-  </footer>
+  {{ partialCached "post/metadata" . .Permalink }}
 </article>
