@@ -1,35 +1,30 @@
 ---
 title: Henrique Dias
 lastmod: 2021-02-12T20:23:31.029541972Z
-aliases:
-- /follow
 ---
 
 ## Hi, I'm Henrique! 👋
 
 Born in Portugal 🇵🇹 . I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working at [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
 
-### 🗞 Newsletter {#newsletter}
+### ☄️ Latest {#latest}
 
-{{< figure src="https://cdn.hacdias.com/u/2021-02-mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
+I publish a variety of content: from [articles](/articles/) and [photos](/darkroom/) to my [micro blog](/micro/), where I share smaller, more spontaneous, thoughts. You can also check my [stream](/all/) with all the content.
 
-I recently started a biweekly Monday newsletter about what I'm studying, working on or some topic that lighted a spark on me. You can check out the posts I've [sent out](/tags/mondayletter/) so far! Are you interested?
+<div id="grid">
+  <div>
+    {{< latest section="articles" n=4 >}}
+    <a class="cl" href="./articles/">✏️ More articles</a>
+  </div>
+  <div>
+    {{< latest section="darkroom" n=5 >}}
+    <a class="cl" href="./darkroom/">📸 More pictures</a>
+  </div>
+</div>
 
-{{< newsletter >}}
+### ⚡️ Subscribe {#subscribe}
 
-You can also follow me via any of the [feeds](/meta/#feeds).
-
-### ✏️ Writing {#writing}
-
-This is a brief list of my latest [articles](/articles/). Please check out all my [articles](/articles/) and my [micro blog](/micro/), where I have smaller, more spontaneous, content.
-
-{{< latest-articles >}}
-
-### 📝 Guestbook {#guestbook}
-
-{{< figure src="https://cdn.hacdias.com/u/2021-02-book-icon.gif" alt="Open Book" class="left pixelated" style="max-width: 60px; margin-top: 0; margin-right: 1rem;" >}}
-
-Hey! Please check out my 90s-style inspired [**guestbook**](/guestbook/). Feel free to drop a few lines or just say 'hi' if you enjoyed navigating my corner in the Internet!
+Are you interested in subscribing to this website? Know [how to](/subscribe/)!
 
 ### 🥐 Stuff {#stuff}
 
@@ -48,6 +43,12 @@ There's much more going on with this website than you might think at first sight
 - 🔎 [**Search**](/search/), yes, this website can be searched on!
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.
 - 💥 I maintain an [XKCD clone](http://xkcd.hacdias.com/) on the IPFS network.
+
+### 📝 Guestbook {#guestbook}
+
+{{< figure src="https://cdn.hacdias.com/u/2021-02-book-icon.gif" alt="Open Book" class="left pixelated" style="max-width: 60px; margin-top: 0; margin-right: 1rem;" >}}
+
+Hey! Please check out my 90s-style inspired [**guestbook**](/guestbook/). Feel free to drop a few lines or just say 'hi' if you enjoyed navigating my corner in the Internet!
 
 ### ☕️ Buy me a coffee! {#buy-me-a-coffee}
 

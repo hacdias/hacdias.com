@@ -4,3 +4,144 @@
     background-attachment: fixed;
   }
 }
+
+#grid {
+  display: grid;
+  grid-template-columns: auto 15rem;
+  grid-gap: 1rem;
+  margin-bottom: -1rem;
+}
+
+.cl {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+
+:root {
+  --border: 3px;
+  --box-padding: 1rem;
+  --radius: 0.4rem;
+}
+
+.card {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.card > div {
+  padding: var(--box-padding);
+  border: var(--border) solid var(--near-white);
+}
+
+.card > div,
+.card .link,
+.card.s-darkroom {
+  border-radius: var(--radius);
+}
+
+.card .link {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: box-shadow .2s ease;
+  z-index: 9999;
+}
+
+.card .link:hover {
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05);
+}
+
+.card .copy > *:last-child {
+  margin-bottom: 0;
+}
+
+.card .link:hover + figure {
+  transform: scale(1.1);
+}
+
+.card h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+.card.s-articles {
+  padding-bottom: 2rem;
+}
+
+.card.s-articles > div {
+  border-bottom: none;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  height: 100%;
+}
+
+.card.s-articles::after {
+  content: "Read More";
+  background: var(--near-white);
+  color: var(--light-gray);
+  width: 100%;
+  display: block;
+  line-height: 2rem;
+  padding-left: 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+  font-size: var(--f6);
+}
+
+.card.s-darkroom {
+  overflow: hidden;
+}
+
+.card.s-darkroom > div {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(33,36,37,0) 0, rgba(33,36,37,.7) 50%, rgba(33,36,37,.84) 100%);
+  color: var(--white);
+  border-radius: var(--radius);
+  border: 0;
+}
+
+.card.s-darkroom h2 {
+  margin-bottom: 0;
+}
+
+.card.s-darkroom p {
+  color: var(--light-white);
+}
+
+.card.s-darkroom figure {
+  position: relative;
+  margin: 0;
+  width: 100%;
+  font-size: 0;
+  transition: all 4s ease;
+}
+
+.card .highlight > pre,
+.card .copy > pre,
+.card .full-width {
+  width: 100%;
+  margin-left: 0;
+}
+
+@media screen and (max-width: 38rem) {
+  #grid {
+    display: block;
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,36 @@
+<article class='h-entry card s-{{ .Section }}'>
+  <a href="{{ .RelPermalink }}" class="u-url no-link link"></a>
+
+  {{ if eq .Section "darkroom" }}
+    {{ if .Params.pictures}}
+      {{ $pic := index .Params.pictures 0 }}
+      <figure>
+        <picture>
+          <source srcset="https://cdn.hacdias.com/i/t/{{ $pic.slug }}-1000x.webp 1000w, https://cdn.hacdias.com/i/t/{{ $pic.slug }}-2000x.webp 2000w" type="image/webp">
+          <source srcset="https://cdn.hacdias.com/i/t/{{ $pic.slug }}-1000x.jpeg 1000w, https://cdn.hacdias.com/i/t/{{ $pic.slug }}-2000x.jpeg 2000w">
+          <img class='u-photo' src="https://cdn.hacdias.com/i/t/{{ $pic.slug }}-2000x.jpeg" alt="{{ $pic.title }}" title="{{ $pic.title }}">
+        </picture>
+      </figure>
+    {{ else }}
+      <!-- FIX THIS: ITS ARCHIVE -->
+    {{ end }}
+  {{ end }}
+
+  <div>
+    <header>
+      <p>{{- partialCached "post/date" . "list" .Permalink }}</p>
+      {{ with .Title }}<h2 class='p-name'>{{- . -}}</h2>{{ end }}
+    </header>
+
+    {{ if eq .Section "micro" }}
+      {{- partialCached "post/embedded" . .Permalink }}
+      {{ with .Content }}
+        <div class='copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
+      {{ end }}
+    {{ else if eq .Section "articles" }}
+      {{ with .Description }}<div class='copy p-summary'><p>{{ . }}</p></div>{{ end }}
+    {{ end }}
+  </div>
+
+  {{- partialCached "post/metadata" . .Permalink }}
+</article>
