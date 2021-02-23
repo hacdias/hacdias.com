@@ -2,18 +2,13 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 33,
+      "count": 34,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "The xx",
-      "count": 29,
+      "count": 30,
       "url": "https://www.last.fm/music/The+xx"
-    },
-    {
-      "name": "Sia",
-      "count": 26,
-      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Allie X",
@@ -22,27 +17,32 @@
     },
     {
       "name": "Dua Lipa",
-      "count": 20,
+      "count": 21,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 19,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Grimes",
-      "count": 18,
-      "url": "https://www.last.fm/music/Grimes"
-    },
-    {
       "name": "Alma",
-      "count": 16,
+      "count": 17,
       "url": "https://www.last.fm/music/Alma"
     },
     {
+      "name": "Grimes",
+      "count": 17,
+      "url": "https://www.last.fm/music/Grimes"
+    },
+    {
+      "name": "Sia",
+      "count": 17,
+      "url": "https://www.last.fm/music/Sia"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 15,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Kim Petras",
-      "count": 13,
+      "count": 14,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
@@ -55,14 +55,8 @@
     {
       "name": "IDORU",
       "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 7,
-      "artist": "Grimes"
-    },
-    {
-      "name": "Troubled Paradise",
-      "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
       "count": 6,
-      "artist": "Slayyyter"
+      "artist": "Grimes"
     },
     {
       "name": "When We Were Young",
@@ -77,16 +71,10 @@
       "artist": "Adriana Calcanhotto"
     },
     {
-      "name": "Wonderland (My Name Is Alice)",
-      "url": "https://www.last.fm/music/Alice+Chater/_/Wonderland+(My+Name+Is+Alice)",
+      "name": "Fever",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
       "count": 5,
-      "artist": "Alice Chater"
-    },
-    {
-      "name": "Madame X",
-      "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
-      "count": 5,
-      "artist": "Allie X"
+      "artist": "Dua Lipa"
     },
     {
       "name": "Icy",
@@ -95,22 +83,34 @@
       "artist": "Kim Petras"
     },
     {
-      "name": "Sweet Melody",
-      "url": "https://www.last.fm/music/Little+Mix/_/Sweet+Melody",
-      "count": 5,
-      "artist": "Little Mix"
+      "name": "All That She Wants",
+      "url": "https://www.last.fm/music/Ace+of+Base/_/All+That+She+Wants",
+      "count": 4,
+      "artist": "Ace of Base"
     },
     {
-      "name": "Courage To Change",
-      "url": "https://www.last.fm/music/Sia/_/Courage+To+Change",
-      "count": 5,
-      "artist": "Sia"
+      "name": "Stay All Night",
+      "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
+      "count": 4,
+      "artist": "Alma"
     },
     {
-      "name": "Snowflake",
-      "url": "https://www.last.fm/music/Sia/_/Snowflake",
-      "count": 5,
-      "artist": "Sia"
+      "name": "So Hot You're Hurting My Feelings",
+      "url": "https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings",
+      "count": 4,
+      "artist": "Caroline Polachek"
+    },
+    {
+      "name": "Physical",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
+      "count": 4,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "You've Got the Love",
+      "url": "https://www.last.fm/music/Florence+%252B+the+Machine/_/You%27ve+Got+the+Love",
+      "count": 4,
+      "artist": "Florence + the Machine"
     }
   ]
 }
