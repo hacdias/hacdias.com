@@ -5,16 +5,11 @@ aliases:
 - /follow
 ---
 
-<div class="h-card dn">
-  <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
-  <a href="https://hacdias.com/" class="u-uid u-url p-name">Henrique Dias</a>
-  <a href="mailto:mail@hacdias.com" rel="me" class="u-email">mail@hacdias.com</a>
-  <a class="u-key" href="/pubkey.txt">public PGP key</a>
-</div>
+## Hi, I'm Henrique! 👋
 
-Hi! 👋 I'm from Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
+Born in Portugal 🇵🇹 . I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working at [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
 
-## 🗞 Newsletter {#newsletter}
+### 🗞 Newsletter {#newsletter}
 
 {{< figure src="https://cdn.hacdias.com/u/2021-02-mailbox.gif" alt="MailBox" class="right pixelated" style="width:100%; max-width: 9rem; margin-top: 0;"  >}}
 
@@ -24,19 +19,19 @@ I recently started a biweekly Monday newsletter about what I'm studying, working
 
 You can also follow me via any of the [feeds](/meta/#feeds).
 
-## ✏️ Writing {#writing}
+### ✏️ Writing {#writing}
 
 This is a brief list of my latest [articles](/articles/). Please check out all my [articles](/articles/) and my [micro blog](/micro/), where I have smaller, more spontaneous, content.
 
 {{< latest-articles >}}
 
-## 📝 Guestbook {#guestbook}
+### 📝 Guestbook {#guestbook}
 
 {{< figure src="https://cdn.hacdias.com/u/2021-02-book-icon.gif" alt="Open Book" class="left pixelated" style="max-width: 60px; margin-top: 0; margin-right: 1rem;" >}}
 
 Hey! Please check out my 90s-style inspired [**guestbook**](/guestbook/). Feel free to drop a few lines or just say 'hi' if you enjoyed navigating my corner in the Internet!
 
-## 🥐 Stuff {#stuff}
+### 🥐 Stuff {#stuff}
 
 There's much more going on with this website than you might think at first sight 👀. Here are *some* other pages and interesting informations you can explore:
 
@@ -54,6 +49,13 @@ There's much more going on with this website than you might think at first sight
 - 🏷 [**Tags**](/tags/), uh, finding posts by tags.
 - 💥 I maintain an [XKCD clone](http://xkcd.hacdias.com/) on the IPFS network.
 
-## ☕️ Buy me a coffee! {#buy-me-a-coffee}
+### ☕️ Buy me a coffee! {#buy-me-a-coffee}
 
 Did you like what you read or saw? Do you use any of the open source projects I work on and would like to contribute? You can always [**buy me a coffee**](https://www.buymeacoffee.com/hacdias)!
+
+<div class="h-card dn">
+  <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
+  <a href="https://hacdias.com/" class="u-uid u-url p-name">Henrique Dias</a>
+  <a href="mailto:mail@hacdias.com" rel="me" class="u-email">mail@hacdias.com</a>
+  <a class="u-key" href="/pubkey.txt">public PGP key</a>
+</div>
