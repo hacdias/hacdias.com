@@ -367,11 +367,11 @@ details {
 }
 
 .h-feed article {
-  border-bottom: 1px solid var(--near-white);
+  border-bottom: 1px solid var(--light-white);
 }
 
 .h-feed article:first-of-type {
-  border-top: 1px solid var(--near-white);
+  border-top: 1px solid var(--light-white);
   padding-top: 1rem;
 }
 
