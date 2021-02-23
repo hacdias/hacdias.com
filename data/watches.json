@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-02-23T07:14:36.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Shadowhunters",
       "watched": "2021-02-21T19:44:24.000Z",
       "url": "https://trakt.tv/shows/shadowhunters"
@@ -1846,11 +1851,6 @@
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-02-17T15:36:01.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-02-16T17:52:26.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Tiny Pretty Things",
