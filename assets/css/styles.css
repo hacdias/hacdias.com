@@ -372,6 +372,7 @@ details {
 
 .h-feed article:first-of-type {
   border-top: 1px solid var(--near-white);
+  padding-top: 1rem;
 }
 
 .h-feed article {
