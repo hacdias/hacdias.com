@@ -27,6 +27,10 @@
   --space: 2.5rem;
   --half-space: 1.25rem;
   --max-width: 48rem;
+
+  --border: 3px;
+  --box-padding: 1rem;
+  --radius: 0.4rem;
 }
 
 * {
@@ -366,23 +370,6 @@ details {
   line-height: 1.5;
 }
 
-.h-feed article {
-  border-bottom: 1px solid var(--light-white);
-}
-
-.h-feed article:first-of-type {
-  border-top: 1px solid var(--light-white);
-  padding-top: 1rem;
-}
-
-.h-feed article {
-  margin-bottom: 1rem;
-}
-
-.h-feed article h3 {
-  margin-top: 0;
-}
-
 .e-entry {
   background-color: var(--near-white);
   position: relative;
@@ -674,6 +661,118 @@ figure.right {
 .footnote-backref::before {
   counter-increment: footnote;
   content: counters(footnote, ".");
+}
+
+.card {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.card > div {
+  padding: var(--box-padding);
+  border: var(--border) solid var(--near-white);
+}
+
+.card > div,
+.card .link,
+.card.darkroom {
+  border-radius: var(--radius);
+}
+
+.card .link {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: box-shadow .2s ease;
+  z-index: 9999;
+}
+
+.card .link:hover {
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05);
+}
+
+.card .copy > *:last-child {
+  margin-bottom: 0;
+}
+
+.card .link:hover + figure {
+  transform: scale(1.1);
+}
+
+.card h3 {
+  margin: 0;
+}
+
+.card .highlight > pre,
+.card .copy > pre,
+.card .full-width {
+  width: 100%;
+  margin-left: 0;
+}
+
+.card.articles {
+  padding-bottom: 2rem;
+}
+
+.card.articles > div {
+  border-bottom: none;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  height: 100%;
+}
+
+.card.articles::after {
+  content: "Read More";
+  background: var(--near-white);
+  color: var(--light-gray);
+  width: 100%;
+  display: block;
+  line-height: 2rem;
+  padding-left: 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+  font-size: var(--f6);
+}
+
+.card.darkroom {
+  overflow: hidden;
+}
+
+.card.darkroom > div {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(33,36,37,0) 0, rgba(33,36,37,.7) 50%, rgba(33,36,37,.84) 100%);
+  color: var(--white);
+  border-radius: var(--radius);
+  border: 0;
+}
+
+.card.darkroom h2 {
+  margin-bottom: 0;
+}
+
+.card.darkroom p {
+  color: var(--light-white);
+}
+
+.card.darkroom figure {
+  position: relative;
+  margin: 0;
+  width: 100%;
+  font-size: 0;
+  transition: all 4s ease;
 }
 
 #toc {

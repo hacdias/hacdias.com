@@ -10,7 +10,7 @@
   <div class='h-feed'>
     {{- $paginator := .Paginate (partialCached "get-pages" . .Type .Title) -}}
     {{- range .Paginator.Pages -}}
-      {{- partial "post/list" . -}}
+      {{- partial "post/card" . -}}
     {{- end -}}
   </div>
 
