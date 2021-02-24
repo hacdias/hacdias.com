@@ -440,3 +440,42 @@ Solution: facilitate
 This notes are not yet finished. As of right now, they're heavily based on a friend's (Nimo), notes which you can find [here](https://www.notion.so/Exam-preparation-944e9fd3317e41edaa72849ef02de048).
 
 </div>
+
+<!--
+ 
+Encryption in Building Automation Systems (BAS) is:Available but rarely used
+
+An attacker could perform a Man in the Middle attack to a Surveillance System (IP Cameras + Network Video Recorder) if: He has access to at least one device on the local network
+
+What framework is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. MITRE ATT&CK
+
+What would not be a typical objective for a nation state attacker when targeting OT- infrastructures? Extortion for money
+
+WHAT WOULD BE: Strategic signaling that they possess a capability and are able to use it.
+Establishing persistent access for future attacks
+Disrupting the target’s mission
+
+The ransomware attacks on Garmin (July 2020) and the one against the University of Maastricht (December 2019) are two examples of a new type of attack. Explain, in one page max, (a) why are they new (b) how the business model of the attacker is different than that of older ransomware attacks (c) what has changed in the last years in terms of technical possibility of the attackers that makes it possible to carry out such attack today.
+key point: targeted vs non-targeted
+Substantial Additional Arguments
+Full discussion
+
+Leukfeldt and Yar in "Applying routine activity theory to cybercrime: A theoretical and empirical analysis." (Deviant Behavior, 2016) used Routine Activities Theory to examine the relationship between “value”, “visibility”, “accessibility”, “technical capable guardianship”, and “personal capable guardianship” and an increased risk of victimization of six cybercrimes. The results show that "Visibility" is significantly related to victimization via: malware, threat, consumer fraud.
+
+According to what reported in Leukfeldt, Rutger et al., "The Use of Online Crime Markets by Cybercriminal Networks: A View From Within." (American Behavioral Scientist, 2017), which functions do online offender convergence settings have for cybercriminal networks? Learning, market, social, all.
+
+Behaviour is defined as a function of ability, motivation, and opportunity. Which of the following options are true? Select all that hold:
+All conditions must always be present to obtain the desired behaviour.
+To change those conditions, it is important to always perform a tailored evaluation of the conditions in an organization, for the specific employees whom behaviour one wants to change.
+
+
+
+Stimulus, perception, attention, System-1/2 cognition, behaviour, and {attacker,target} parameters constitute the "building blocks" of the human cognitive process. Which of the following statements is true?
+Perception is in charge of translating stimuli in "percepts" generated from long term memory and put in working memory. These percepts are then passed on in the computation process and can influence its outcome. 
+The attacker parameters describe what the attacker assumes of the target. The more overlap between the attacker assumptions and the real target parameters, the more likely it is the target will fall for the attack.
+
+
+Explain the problem of information asymmetry in the underground markets, and how anonymous (i.e., TOR-based) ecommerce platforms and forum-based markets address it. Hint: break down discussion over the principles of adverse selection and moral hazard.
+
+Which of the following impersonation models is DKIM effective against? address spoofer
+-->
