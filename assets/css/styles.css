@@ -92,6 +92,7 @@ figure img {
   width: 100%;
 }
 
+.footnotes::before,
 h1, h2, h3, h4, h5 {
   font-weight: bold;
   line-height: 1.3;
@@ -530,20 +531,17 @@ figure.right {
   margin: 0.5rem 0 1rem;
 }
 
-.footnotes,
 .box {
   padding: 0.5rem;
-  border: 3px solid var(--light-white);
+  border: var(--border) solid var(--light-white);
   background-color: var(--near-white);
   margin: 1rem 0;
 }
 
-.footnotes > *:first-child,
 .box > *:first-child {
   margin-top: 0;
 }
 
-.footnotes > *:first-child,
 .box > *:last-child {
   margin-bottom: 0;
 }
@@ -619,6 +617,11 @@ figure.right {
   padding-left: .5rem;
   box-sizing: border-box;
   font-size: var(--f7);
+}
+
+.footnotes::before {
+  content: "Footnotes";
+  font-size: var(--f3);
 }
 
 .footnotes hr {
