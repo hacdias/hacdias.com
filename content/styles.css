@@ -65,9 +65,8 @@
   transform: scale(1.1);
 }
 
-.card h2 {
-  font-size: 1.5rem;
-  margin-top: 0;
+.card h3 {
+  margin: 0;
 }
 
 .card.s-articles {

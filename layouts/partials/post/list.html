@@ -4,7 +4,7 @@
       {{- partialCached "post/date" . "single" .Permalink }}
       {{- partialCached "post/section" . "single" .Permalink }}
     </p>
-    {{ with .Title }}<h2 class='p-name'><a href="{{ $.RelPermalink }}" class='no-link'>{{- . -}}</a></h2>{{ end }}
+    {{ with .Title }}<h3 class='p-name'><a href="{{ $.RelPermalink }}" class='no-link'>{{- . -}}</a></h3>{{ end }}
   </header>
 
   {{- partialCached "post/embedded" . .Permalink }}

@@ -19,7 +19,7 @@
   <div>
     <header>
       <p>{{- partialCached "post/date" . "list" .Permalink }}</p>
-      {{ with .Title }}<h2 class='p-name'>{{- . -}}</h2>{{ end }}
+      {{ with .Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
     </header>
 
     {{ if eq .Section "micro" }}
