@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <style>
-  {{ safeCSS (partial "darkroom/styles.css") }}
+  {{ safeCSS (partial "photos/styles.css") }}
 
   .h-feed {
     margin: var(--space) 0;
@@ -28,7 +28,7 @@
 
 <main role='main'>
   <div class='h-feed'>
-    {{- $pages := first 10 (where .Site.Pages "Section" "darkroom") -}}
+    {{- $pages := first 10 (where .Site.Pages "Section" "photos") -}}
     {{- range $page := $pages -}}
       {{- with .Params.pictures }}
         {{- range . }}
@@ -47,7 +47,7 @@
       {{- end -}}
     {{- end -}}
   </div>
-  <p><a hreF="{{ relURL "/darkroom/archive" }}">view archive</a></p>
+  <p><a hreF="{{ relURL "/photos/archive" }}">view archive</a></p>
 </main>
 
 {{ end }}

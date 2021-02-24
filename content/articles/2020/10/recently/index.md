@@ -15,11 +15,11 @@ First of all, I decided to create a [newsletter](/follow/) even though all posts
 
 ## Darkroom
 
-Regarding photography I have two updates. The first one is related to this website. I decided to give my photography its own beautiful page instead of just a tag (remember #lifethroughlenses?). From now on, you can visit my photography in the [darkroom](/darkroom). It's obviously not a darkroom, but I thought it would be a great name for that page.
+Regarding photography I have two updates. The first one is related to this website. I decided to give my photography its own beautiful page instead of just a tag (remember #lifethroughlenses?). From now on, you can visit my photography in the [darkroom](/photos). It's obviously not a darkroom, but I thought it would be a great name for that page.
 
 Over the years I have had many photos pages on this website but always ended up removing them in order to simplify the website. However, I'm in that point where I no longer think that "less is more" regarding this website. Not saying more is better though! I don't want to solely relay on Instagram for my photography and this way I have flexibility over its presentation.
 
-{{< figure cdn="2020-09-silhouette" link="/darkroom/2020/09/silhouette/" caption="Silhouette" >}}
+{{< figure cdn="2020-09-silhouette" link="/photos/2020/09/silhouette/" caption="Silhouette" >}}
 
 The second update is as simple as this: I decided to join the Eindhoven Film and Photography association. It's called [Dekate Mousa](http://dekatemousa.nl/) and there's activities all Tuesdays at night related to either photography or film.
 

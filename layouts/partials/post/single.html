@@ -18,7 +18,7 @@
   {{- partialCached "post/outdated" . .Permalink }}
   {{- partialCached "post/embedded" . .Permalink }}
 
-  {{ partial "darkroom/full-figures" . }}
+  {{ partial "photos/full-figures" . }}
 
   {{ with .Content }}
     <div class='copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>

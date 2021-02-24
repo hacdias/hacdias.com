@@ -9,7 +9,7 @@ Born in Portugal 🇵🇹 . I am a Master's student 🎓 in Computer Science and
 
 ### ☄️ Latest {#latest}
 
-I publish a variety of content: from [articles](/articles/) and [photos](/darkroom/) to my [micro blog](/micro/), where I share smaller, more spontaneous, thoughts. You can also check my [stream](/all/) with all the content.
+I publish a variety of content: from [articles](/articles/) and [photos](/photos/) to my [micro blog](/micro/), where I share smaller, more spontaneous, thoughts. You can also check my [stream](/all/) with all the content.
 
 <div id="grid">
   <div>
@@ -17,8 +17,8 @@ I publish a variety of content: from [articles](/articles/) and [photos](/darkro
     <a class="cl" href="./articles/">✏️ More articles</a>
   </div>
   <div>
-    {{< latest section="darkroom" n=5 >}}
-    <a class="cl" href="./darkroom/">📸 More pictures</a>
+    {{< latest section="photos" n=5 >}}
+    <a class="cl" href="./photos/">📸 More photos</a>
   </div>
 </div>
 

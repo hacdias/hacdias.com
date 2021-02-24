@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <style>
-  {{ safeCSS (partial "darkroom/styles.css") }}
+  {{ safeCSS (partial "photos/styles.css") }}
 
   figure {
     justify-content: center;
@@ -38,7 +38,7 @@
 
 <main role='main'>
   <article class='h-entry'>
-    {{ partial "darkroom/full-figures" . }}
+    {{ partial "photos/full-figures" . }}
 
     <div class='info copy'>
       <p class='p-name'>{{- .Title -}}</p>

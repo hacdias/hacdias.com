@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <style>
-  {{ safeCSS (partial "darkroom/styles.css") }}
+  {{ safeCSS (partial "photos/styles.css") }}
 
   .h-feed {
     display: grid;
@@ -19,7 +19,7 @@
 
 <main role='main'>
   <div class='h-feed'>
-    {{- $pages := (where .Site.Pages "Section" "darkroom") -}}
+    {{- $pages := (where .Site.Pages "Section" "photos") -}}
     {{- range $page := $pages -}}
       {{- with .Params.pictures }}
         {{- range . }}

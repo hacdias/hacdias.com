@@ -43,7 +43,7 @@ menu:
     url: /micro/
     weight: 3
   - name: 📸 Photos
-    url: /darkroom/
+    url: /photos/
     weight: 4
   - name: ✉️ Contact
     url: /contact/

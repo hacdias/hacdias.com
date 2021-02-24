@@ -5,8 +5,8 @@
 {{ if $isAll }}
   {{ $articles :=  where $regularPages ".Section" "=" "articles" }}
   {{ $micro :=  where $regularPages ".Section" "=" "micro" }}
-  {{ $darkroom :=  where $regularPages ".Section" "=" "darkroom" }}
-  {{ $pages = union (union $articles $micro) $darkroom }}
+  {{ $photos :=  where $regularPages ".Section" "=" "photos" }}
+  {{ $pages = union (union $articles $micro) $photos }}
   {{ $pages = sort $pages "Date" "desc" }}
 {{ end }}
 

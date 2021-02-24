@@ -682,7 +682,7 @@ figure.right {
 
 .card .link,
 .card.micro > div,
-.card.darkroom {
+.card.photos {
   border-radius: var(--radius);
 }
 
@@ -744,21 +744,21 @@ figure.right {
   font-size: var(--f6);
 }
 
-.card.darkroom,
+.card.photos,
 .card.micro {
   padding-bottom: 0;
 }
 
 .card.micro::after,
-.card.darkroom::after {
+.card.photos::after {
   content: "";
 }
 
-.card.darkroom {
+.card.photos {
   overflow: hidden;
 }
 
-.card.darkroom > div {
+.card.photos > div {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -769,15 +769,15 @@ figure.right {
   border: 0;
 }
 
-.card.darkroom h2 {
+.card.photos h2 {
   margin-bottom: 0;
 }
 
-.card.darkroom p {
+.card.photos p {
   color: var(--light-white);
 }
 
-.card.darkroom figure {
+.card.photos figure {
   position: relative;
   margin: 0;
   width: 100%;

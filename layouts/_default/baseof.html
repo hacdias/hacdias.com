@@ -9,7 +9,7 @@
 
     {{ block "main" . -}}{{ end }}
 
-    {{- if not (eq .Section "darkroom") }}
+    {{- if not (eq .Section "photos") }}
       {{ partial "footer" . -}}
     {{- end }}
   </div>

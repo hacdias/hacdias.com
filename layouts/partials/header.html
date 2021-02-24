@@ -1,9 +1,9 @@
 <div id='header'>
-  {{ if eq .Section "darkroom" }}
+  {{ if eq .Section "photos" }}
   <ul>
     <li><a class='no-link' href='{{ relURL .Site.BaseURL }}'>home</a></li>
-    <li><a class='no-link' href='{{ relURL "/darkroom" }}'>darkroom</a></li>
-    <li><a class='no-link' href='{{ relURL "/darkroom/archive" }}'>archive</a></li>
+    <li><a class='no-link' href='{{ relURL "/photos" }}'>photos</a></li>
+    <li><a class='no-link' href='{{ relURL "/photos/archive" }}'>archive</a></li>
   </ul>
   {{ end }}
   <a class='no-link' href='{{ relURL .Site.BaseURL }}'>
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-{{- if not (eq .Section "darkroom") }}
+{{- if not (eq .Section "photos") }}
   <nav id='navbar' class='full-width'>
     <input type="checkbox" id="toggler">
     <ul>
