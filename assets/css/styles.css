@@ -669,17 +669,25 @@ figure.right {
 .card {
   position: relative;
   margin-bottom: 1rem;
+  padding-bottom: 2rem;
 }
 
 .card > div {
   padding: var(--box-padding);
+  border-top-left-radius: var(--radius);
+  border-top-right-radius: var(--radius);
   border: var(--border) solid var(--near-white);
+  border-bottom: none;
 }
 
-.card > div,
 .card .link,
+.card.micro > div,
 .card.darkroom {
   border-radius: var(--radius);
+}
+
+.card.micro > div {
+  border: var(--border) solid var(--near-white);
 }
 
 .card .link {
@@ -716,18 +724,7 @@ figure.right {
   margin-left: 0;
 }
 
-.card.articles {
-  padding-bottom: 2rem;
-}
-
-.card.articles > div {
-  border-bottom: none;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-  height: 100%;
-}
-
-.card.articles::after {
+.card::after {
   content: "Read More";
   background: var(--near-white);
   color: var(--light-gray);
@@ -745,6 +742,16 @@ figure.right {
   border-bottom-left-radius: var(--radius);
   border-bottom-right-radius: var(--radius);
   font-size: var(--f6);
+}
+
+.card.darkroom,
+.card.micro {
+  padding-bottom: 0;
+}
+
+.card.micro::after,
+.card.darkroom::after {
+  content: "";
 }
 
 .card.darkroom {

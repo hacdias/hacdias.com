@@ -18,7 +18,13 @@
 
   <div>
     <header>
-      <p>{{- partialCached "post/date" . "list" .Permalink }}</p>
+      <p>
+        {{- partialCached "post/date" . "list" .Permalink }}
+        {{ if not (in  (slice "micro" "articles" "darkroom") .Section)}}
+          {{- partialCached "post/section" . "single" .Permalink }}
+        {{ end }}
+      </p>
+
       {{ with .Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
     </header>
 
