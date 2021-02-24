@@ -2,11 +2,14 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-02-23T17:54:26.039954056Z
+lastmod: 2021-02-24T06:58:04.26246479Z
 ---
 
 Next:
 
+1. Card updates:
+    - Make READ MORE by default and remove on Micro and photos
+    - Add section for everything != [micro articles darkroom]
 1. Rework darkroom:
     - Replace `.Params.social` by `.Params.cover` - it is a CDN image.
     - Remove `.Params.images`. Use figure for the pictures to allow more customization.
