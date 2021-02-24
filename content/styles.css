@@ -19,7 +19,6 @@
   margin: 1rem 0;
 }
 
-
 :root {
   --border: 3px;
   --box-padding: 1rem;
@@ -38,7 +37,7 @@
 
 .card > div,
 .card .link,
-.card.s-darkroom {
+.card.darkroom {
   border-radius: var(--radius);
 }
 
@@ -69,18 +68,25 @@
   margin: 0;
 }
 
-.card.s-articles {
+.card .highlight > pre,
+.card .copy > pre,
+.card .full-width {
+  width: 100%;
+  margin-left: 0;
+}
+
+.card.articles {
   padding-bottom: 2rem;
 }
 
-.card.s-articles > div {
+.card.articles > div {
   border-bottom: none;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
   height: 100%;
 }
 
-.card.s-articles::after {
+.card.articles::after {
   content: "Read More";
   background: var(--near-white);
   color: var(--light-gray);
@@ -100,11 +106,11 @@
   font-size: var(--f6);
 }
 
-.card.s-darkroom {
+.card.darkroom {
   overflow: hidden;
 }
 
-.card.s-darkroom > div {
+.card.darkroom > div {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -115,27 +121,20 @@
   border: 0;
 }
 
-.card.s-darkroom h2 {
+.card.darkroom h2 {
   margin-bottom: 0;
 }
 
-.card.s-darkroom p {
+.card.darkroom p {
   color: var(--light-white);
 }
 
-.card.s-darkroom figure {
+.card.darkroom figure {
   position: relative;
   margin: 0;
   width: 100%;
   font-size: 0;
   transition: all 4s ease;
-}
-
-.card .highlight > pre,
-.card .copy > pre,
-.card .full-width {
-  width: 100%;
-  margin-left: 0;
 }
 
 @media screen and (max-width: 38rem) {
