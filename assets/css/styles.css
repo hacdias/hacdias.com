@@ -851,7 +851,7 @@ figure.right {
   }
 }
 
-@media screen and (max-width: 38rem) {
+@media screen and (max-width: 40rem) {
   :root {
     --space: 1.5rem;
     --half-space: 1rem;
