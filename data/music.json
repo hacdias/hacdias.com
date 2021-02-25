@@ -7,23 +7,13 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 26,
+      "count": 25,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Allie X",
-      "count": 21,
+      "count": 19,
       "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
-      "name": "Sia",
-      "count": 17,
-      "url": "https://www.last.fm/music/Sia"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 15,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Dua Lipa",
@@ -31,14 +21,9 @@
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
-      "name": "Grimes",
-      "count": 11,
-      "url": "https://www.last.fm/music/Grimes"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 11,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "name": "Sia",
+      "count": 14,
+      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Alma",
@@ -46,29 +31,32 @@
       "url": "https://www.last.fm/music/Alma"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 10,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Grimes",
+      "count": 9,
+      "url": "https://www.last.fm/music/Grimes"
+    },
+    {
       "name": "Adele",
       "count": 7,
       "url": "https://www.last.fm/music/Adele"
+    },
+    {
+      "name": "Florence + the Machine",
+      "count": 6,
+      "url": "https://www.last.fm/music/Florence+%252B+the+Machine"
     }
   ],
   "tracks": [
-    {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 5,
-      "artist": "Grimes"
-    },
     {
       "name": "When We Were Young",
       "url": "https://www.last.fm/music/Adele/_/When+We+Were+Young",
       "count": 4,
       "artist": "Adele"
-    },
-    {
-      "name": "Fico Assim Sem Você",
-      "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
-      "count": 4,
-      "artist": "Adriana Calcanhotto"
     },
     {
       "name": "Fever",
@@ -83,24 +71,6 @@
       "artist": "Florence + the Machine"
     },
     {
-      "name": "Icy",
-      "url": "https://www.last.fm/music/Kim+Petras/_/Icy",
-      "count": 4,
-      "artist": "Kim Petras"
-    },
-    {
-      "name": "Courage To Change",
-      "url": "https://www.last.fm/music/Sia/_/Courage+To+Change",
-      "count": 4,
-      "artist": "Sia"
-    },
-    {
-      "name": "Madame X",
-      "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
-      "count": 3,
-      "artist": "Allie X"
-    },
-    {
       "name": "Susie Save Your Love",
       "url": "https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love",
       "count": 3,
@@ -111,6 +81,36 @@
       "url": "https://www.last.fm/music/Alma/_/Stay+All+Night",
       "count": 3,
       "artist": "Alma"
+    },
+    {
+      "name": "Do I Wanna Know?",
+      "url": "https://www.last.fm/music/Arctic+Monkeys/_/Do+I+Wanna+Know%3F",
+      "count": 3,
+      "artist": "Arctic Monkeys"
+    },
+    {
+      "name": "So Hot You're Hurting My Feelings",
+      "url": "https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings",
+      "count": 3,
+      "artist": "Caroline Polachek"
+    },
+    {
+      "name": "Physical",
+      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
+      "count": 3,
+      "artist": "Dua Lipa"
+    },
+    {
+      "name": "IDORU",
+      "url": "https://www.last.fm/music/Grimes/_/IDORU",
+      "count": 3,
+      "artist": "Grimes"
+    },
+    {
+      "name": "Icy",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Icy",
+      "count": 3,
+      "artist": "Kim Petras"
     }
   ]
 }
