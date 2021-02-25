@@ -1813,14 +1813,19 @@
   ],
   "series": [
     {
+      "title": "Shadowhunters",
+      "watched": "2021-02-25T08:49:37.000Z",
+      "url": "https://trakt.tv/shows/shadowhunters"
+    },
+    {
+      "title": "Snowpiercer",
+      "watched": "2021-02-25T08:49:23.000Z",
+      "url": "https://trakt.tv/shows/snowpiercer"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2021-02-23T07:14:36.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "Shadowhunters",
-      "watched": "2021-02-21T19:44:24.000Z",
-      "url": "https://trakt.tv/shows/shadowhunters"
     },
     {
       "title": "Young Sheldon",
@@ -1841,11 +1846,6 @@
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-02-20T21:24:16.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "Snowpiercer",
-      "watched": "2021-02-18T06:16:43.000Z",
-      "url": "https://trakt.tv/shows/snowpiercer"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
