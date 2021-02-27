@@ -91,13 +91,13 @@
       "title": "Jake Bauer"
     },
     {
-      "feed": "https://feeds.feedburner.com/fennifith",
-      "site": "https://jfenn.me",
+      "feed": "https://jfenn.me/blog/feed.xml",
+      "site": "https://jfenn.me/",
       "title": "James Fenn"
     },
     {
-      "feed": "https://jfenn.me/blog/feed.xml",
-      "site": "https://jfenn.me/",
+      "feed": "https://feeds.feedburner.com/fennifith",
+      "site": "https://jfenn.me",
       "title": "James Fenn"
     },
     {
@@ -226,11 +226,6 @@
       "feed": "https://www.commitstrip.com/en/feed/?",
       "site": "https://www.commitstrip.com",
       "title": "ComitStrip"
-    },
-    {
-      "feed": "https://dilbert.com/feed",
-      "site": "http://dilbert.com",
-      "title": "Dilbert"
     },
     {
       "feed": "https://heyokyay.com/feed/",
