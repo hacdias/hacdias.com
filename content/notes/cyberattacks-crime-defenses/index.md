@@ -66,6 +66,7 @@ Notes for the course [2IMS20](https://www.win.tue.nl/~setalle/CCD.html).
 
 ## SQL Injection
 
+- Processing in the DB
 - **Prevention**
   - Bind variables (distinguish code and data)
   - Sanitization
@@ -73,17 +74,42 @@ Notes for the course [2IMS20](https://www.win.tue.nl/~setalle/CCD.html).
 
 ### XSS
 
+- Processing in the browser
 - **Types**
   - Reflected (non-persistent): `work.com/error.php?message=<script>...</script>`
-  - Stored (persistent): post message on forum containing `<script>`
-- **Rules**
+  - Stored (persistent): post message on forum containing `<script>`, harder to see.
+- **Browser Rules**
   - Arbitrary scripts can't read cookies
   - Cookies cannot be read from another domain
 - **Prevention**
   - Sanitization
   - Signature-based Filters
 
+---
+
+- Scripts are incorrectly assumed to contain code and not data.
+- Persistent cookies aggravate the risk.
+
+## Concepts
+
+- **Cyber Kill Chain**
+  1. Recoinassance
+  2. Weaponization
+  3. Delivery
+  4. Exploitation (first infection)
+  5. Installation
+  6. Command and control
+  7. Action and objectives
+- **Zero-day exploit**: you don't know it's there!
+- **Exploit**: carry a payload/code to use a vulnerability
+
 ## Targeted attacks
+
+- Attacker has specific interest in your business.
+- High impact and success rate.
+- Reconnaisance takes long time.
+- Low number of attacks and victims.
+- **Examples**: speer phishing, botnet, supply chain.
 
 **Watering Hole Attacks**
 - Attack website that is often used by targeted victims
@@ -94,7 +120,15 @@ Notes for the course [2IMS20](https://www.win.tue.nl/~setalle/CCD.html).
 - Once inside the network, use credentials to do damage through legitimate channels
 - Hard to detect
 
-## Critical infrastructure
+## Untargeted attacks
+
+- Attackers don't discriminate
+- Low success rate
+- Small reconaissance
+- High number of victims and attacjers
+- **Examples**: phishing, etc.
+
+## Critical infrastructure (targeted attacks)
 
 **SCADA**
 - Supervisory Control And Data Acquisition
@@ -108,11 +142,59 @@ Notes for the course [2IMS20](https://www.win.tue.nl/~setalle/CCD.html).
 - Got inside the network through USB stick with 0-day exploits
 - Targeted attack, but spread all over the world
 - Provided false feedback to controllers
+- How
+  - USB Stick of Maintenance people
+  - Phase 1
+    - Get inside LAN with USB sticks
+    - Inside LAN: sticks on print spoolers, etc
+    - Rootkit installation for invisibility
+    - Checks which antivirus is active and chooses target vulnerability
+  - Phase 2
+    - Looks for systems running wincc and scans management preys
+    - Finds them even offline (USB sticks)
+    - Attack by
+      - Hard wired pwd (wincc)
+      - Uploads as stored procedures
+    - Hooks into specific DLLs to communicate with PLCs
+    - Replaces PLCs code
+    - Hides by rootkit techniques
+  - Phase 3
+    - Designed to hit specific port
+    - Changes output frequencies and notes speeds gradually over months
+    - Changes UI so that change is not seen behind the console
+- Duqu:
+  - info gathering + keylogger
+  - spreading: MS Word document with a 0day exploit that waits until computer is idle for 10 mins + other conditions. Copies itself into a shared folder
+  - building platform: same vector with stuxnet, different payload. By default, wipes itself off after 30 days.
+
+--- 
+
+**Flame**
+- Information collecting malware
+- Lateral movement: print spooler and LNC explloit (same as Stuxnet)
+- MD5 hash collision attack that enabled Flame to masquerade as a proxy for Windwos Update
+- Collected info: sent to remote C&C servers. If no network, save gathered info to USB and infect other computers of the network.
+
+**Gauss**
+- Steal credentials.
+- Goedel module is encrypted in such a way that it can only be decrypted in the target system => protected from reverse engineering.
+
+**Red October**
+- Governmental and diplomatic espionage
+- Low profile infection, well organized and orchestrated
+- Resistant to C&C takeover
+- Ressurection module
+
+---
 
 **HAVEX**
 - Goal: gather information and gain persistent access
 - Focus on energy companies
 - Likely state-sponsored
+- Different vectors: emails, watering hole attacks, vendor websites, etc.
+- Targeting legitimate software bundles of 3 ICS manufacturers
+- Analysis by timestamps
+- Detection: network scan movement, C&C connection
 
 **BlackEnergy 3 (2015)**
 - Attack on Ukranian power grid
@@ -120,11 +202,32 @@ Notes for the course [2IMS20](https://www.win.tue.nl/~setalle/CCD.html).
 - Network reconnaisance and develop malware using in-house devices
 - Attack transmission substations by opening breakers
 - DoS attack on customer support
+- Stages
+  - Stage 1
+    - Spear Phishing by Word doc
+    - BlackEnergy 3 connected to C&C
+    - attackers toe sbalish permanent  access
+    - Credential harvest (keylogger) to connect to VPN
+  - Stage 2  - prep
+    - How to interact with DMS + noise.
+    - Malicius firmware for serial to ethernet devices
+    - Install KillDish
+  - Stage 2 - attack
+    - upload new firmweare to s2e devices
+- detection
+  - C&C connection
+  - network whitelisting in internal network
 
 **Industroyer (2016)**
 - Attack on Ukranian power grid (again)
 - More automated than BlackEnergy
 - Attacked distribution substations
+- First malware specifically for Electrical Grids
+- Modular and specialized components
+
+**Indian Energy Sector (2019)**
+- Malware: DTrack (keylogging, gather host IPs, info on networks, etc)
+- Reconnaissace ce and dropper for other malware payloads
 
 ## Case studies
 
@@ -319,6 +422,12 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 - Reduce risk of exit scam (by market owners)
 
 ## Human factor in cybercrime (Leukfeldt)
+
+**Rule factors**
+- background characteristcs
+- Value
+- Visibility
+- Accessibility
 
 **Risk factors for cybercrime victims**
 - Young people
