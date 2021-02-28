@@ -2,33 +2,23 @@
   "artists": [
     {
       "name": "Allie X",
-      "count": 18,
+      "count": 19,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Lady Gaga",
-      "count": 13,
+      "count": 11,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Sia",
-      "count": 13,
-      "url": "https://www.last.fm/music/Sia"
-    },
-    {
-      "name": "Dua Lipa",
-      "count": 9,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
       "name": "Slayyyter",
-      "count": 7,
+      "count": 11,
       "url": "https://www.last.fm/music/Slayyyter"
     },
     {
-      "name": "Ellie Goulding",
-      "count": 6,
-      "url": "https://www.last.fm/music/Ellie+Goulding"
+      "name": "Sia",
+      "count": 9,
+      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Miley Cyrus",
@@ -36,27 +26,43 @@
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Jessie Ware",
-      "count": 5,
-      "url": "https://www.last.fm/music/Jessie+Ware"
-    },
-    {
-      "name": "Kylie Minogue",
-      "count": 5,
-      "url": "https://www.last.fm/music/Kylie+Minogue"
-    },
-    {
       "name": "RuPaul",
       "count": 5,
       "url": "https://www.last.fm/music/RuPaul"
+    },
+    {
+      "name": "Alec Benjamin",
+      "count": 4,
+      "url": "https://www.last.fm/music/Alec+Benjamin"
+    },
+    {
+      "name": "Dua Lipa",
+      "count": 4,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
+      "name": "Grimes",
+      "count": 4,
+      "url": "https://www.last.fm/music/Grimes"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 4,
+      "url": "https://www.last.fm/music/Kim+Petras"
     }
   ],
   "tracks": [
     {
       "name": "Clouds",
       "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 6,
+      "count": 8,
       "artist": "Slayyyter"
+    },
+    {
+      "name": "IDORU",
+      "url": "https://www.last.fm/music/Grimes/_/IDORU",
+      "count": 4,
+      "artist": "Grimes"
     },
     {
       "name": "Mind Is A Prison",
@@ -65,16 +71,10 @@
       "artist": "Alec Benjamin"
     },
     {
-      "name": "Fever",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Fever",
+      "name": "i love you",
+      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
       "count": 3,
-      "artist": "Dua Lipa"
-    },
-    {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 3,
-      "artist": "Grimes"
+      "artist": "Billie Eilish"
     },
     {
       "name": "Courage To Change",
@@ -83,8 +83,26 @@
       "artist": "Sia"
     },
     {
+      "name": "Troubled Paradise",
+      "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
+      "count": 3,
+      "artist": "Slayyyter"
+    },
+    {
+      "name": "Wonderland (My Name Is Alice)",
+      "url": "https://www.last.fm/music/Alice+Chater/_/Wonderland+(My+Name+Is+Alice)",
+      "count": 2,
+      "artist": "Alice Chater"
+    },
+    {
       "name": "Love Me Wrong",
       "url": "https://www.last.fm/music/Allie+X/_/Love+Me+Wrong",
+      "count": 2,
+      "artist": "Allie X"
+    },
+    {
+      "name": "Madame X",
+      "url": "https://www.last.fm/music/Allie+X/_/Madame+X",
       "count": 2,
       "artist": "Allie X"
     },
@@ -93,24 +111,6 @@
       "url": "https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love",
       "count": 2,
       "artist": "Allie X"
-    },
-    {
-      "name": "i love you",
-      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
-      "count": 2,
-      "artist": "Billie Eilish"
-    },
-    {
-      "name": "So Hot You're Hurting My Feelings",
-      "url": "https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings",
-      "count": 2,
-      "artist": "Caroline Polachek"
-    },
-    {
-      "name": "Physical",
-      "url": "https://www.last.fm/music/Dua+Lipa/_/Physical",
-      "count": 2,
-      "artist": "Dua Lipa"
     }
   ]
 }
