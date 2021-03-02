@@ -7,23 +7,23 @@
     },
     {
       "name": "Sia",
-      "count": 12,
+      "count": 11,
       "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Allie X",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Grimes",
+      "name": "RuPaul",
       "count": 5,
-      "url": "https://www.last.fm/music/Grimes"
+      "url": "https://www.last.fm/music/RuPaul"
     },
     {
-      "name": "Lady Gaga",
+      "name": "Troye Sivan",
       "count": 5,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Alec Benjamin",
@@ -36,14 +36,14 @@
       "url": "https://www.last.fm/music/Billie+Eilish"
     },
     {
-      "name": "RuPaul",
+      "name": "Grimes",
       "count": 4,
-      "url": "https://www.last.fm/music/RuPaul"
+      "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Troye Sivan",
+      "name": "Lady Gaga",
       "count": 4,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Alice Chater",
@@ -59,22 +59,16 @@
       "artist": "Slayyyter"
     },
     {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 5,
-      "artist": "Grimes"
-    },
-    {
       "name": "i love you",
       "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
       "count": 4,
       "artist": "Billie Eilish"
     },
     {
-      "name": "Courage To Change",
-      "url": "https://www.last.fm/music/Sia/_/Courage+To+Change",
+      "name": "IDORU",
+      "url": "https://www.last.fm/music/Grimes/_/IDORU",
       "count": 4,
-      "artist": "Sia"
+      "artist": "Grimes"
     },
     {
       "name": "Troubled Paradise",
@@ -93,6 +87,12 @@
       "url": "https://www.last.fm/music/Alice+Chater/_/Wonderland+(My+Name+Is+Alice)",
       "count": 3,
       "artist": "Alice Chater"
+    },
+    {
+      "name": "Courage To Change",
+      "url": "https://www.last.fm/music/Sia/_/Courage+To+Change",
+      "count": 3,
+      "artist": "Sia"
     },
     {
       "name": "Snowflake",
