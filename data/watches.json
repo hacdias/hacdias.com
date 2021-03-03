@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "Snowpiercer",
+      "watched": "2021-03-03T20:34:52.000Z",
+      "url": "https://trakt.tv/shows/snowpiercer"
+    },
+    {
       "title": "Shadowhunters",
       "watched": "2021-03-01T06:57:50.000Z",
       "url": "https://trakt.tv/shows/shadowhunters"
@@ -1826,11 +1831,6 @@
       "title": "Young Sheldon",
       "watched": "2021-02-27T07:48:53.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "Snowpiercer",
-      "watched": "2021-02-25T08:49:23.000Z",
-      "url": "https://trakt.tv/shows/snowpiercer"
     },
     {
       "title": "The Good Doctor",
