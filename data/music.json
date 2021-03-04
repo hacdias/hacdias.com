@@ -36,14 +36,14 @@
       "url": "https://www.last.fm/music/Billie+Eilish"
     },
     {
-      "name": "Grimes",
-      "count": 4,
-      "url": "https://www.last.fm/music/Grimes"
-    },
-    {
       "name": "Alice Chater",
       "count": 3,
       "url": "https://www.last.fm/music/Alice+Chater"
+    },
+    {
+      "name": "Grimes",
+      "count": 3,
+      "url": "https://www.last.fm/music/Grimes"
     },
     {
       "name": "Britney Spears",
@@ -65,12 +65,6 @@
       "artist": "Billie Eilish"
     },
     {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 4,
-      "artist": "Grimes"
-    },
-    {
       "name": "Troubled Paradise",
       "url": "https://www.last.fm/music/Slayyyter/_/Troubled+Paradise",
       "count": 4,
@@ -81,6 +75,12 @@
       "url": "https://www.last.fm/music/Alice+Chater/_/Wonderland+(My+Name+Is+Alice)",
       "count": 3,
       "artist": "Alice Chater"
+    },
+    {
+      "name": "IDORU",
+      "url": "https://www.last.fm/music/Grimes/_/IDORU",
+      "count": 3,
+      "artist": "Grimes"
     },
     {
       "name": "Courage To Change",
