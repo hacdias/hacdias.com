@@ -1813,14 +1813,14 @@
   ],
   "series": [
     {
+      "title": "Shadowhunters",
+      "watched": "2021-03-04T10:40:05.000Z",
+      "url": "https://trakt.tv/shows/shadowhunters"
+    },
+    {
       "title": "Snowpiercer",
       "watched": "2021-03-03T20:34:52.000Z",
       "url": "https://trakt.tv/shows/snowpiercer"
-    },
-    {
-      "title": "Shadowhunters",
-      "watched": "2021-03-01T06:57:50.000Z",
-      "url": "https://trakt.tv/shows/shadowhunters"
     },
     {
       "title": "RuPaul's Drag Race UK",
