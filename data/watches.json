@@ -1813,24 +1813,24 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2021-03-05T22:13:58.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "RuPaul's Drag Race UK",
+      "watched": "2021-03-05T21:48:33.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
+    },
+    {
       "title": "Shadowhunters",
-      "watched": "2021-03-04T10:40:05.000Z",
+      "watched": "2021-03-05T09:44:35.000Z",
       "url": "https://trakt.tv/shows/shadowhunters"
     },
     {
       "title": "Snowpiercer",
       "watched": "2021-03-03T20:34:52.000Z",
       "url": "https://trakt.tv/shows/snowpiercer"
-    },
-    {
-      "title": "RuPaul's Drag Race UK",
-      "watched": "2021-02-27T20:11:15.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2021-02-27T07:48:53.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "The Good Doctor",
