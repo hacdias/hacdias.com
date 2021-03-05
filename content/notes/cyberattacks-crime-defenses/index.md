@@ -1,9 +1,11 @@
 ---
 title: Cyberattacks, Crime and Defenses
-lastmod: 2021-02-24T16:37:41.015178055Z
+lastmod: 2021-03-05T12:24:58.996063155Z
 ---
 
-Notes for the course [2IMS20](https://www.win.tue.nl/~setalle/CCD.html).
+<div class="box yellow word" data-word="Disclaimer">
+	These are notes for the 2IMS20 course at TU/e.
+</div>
 
 ## Web apps and attack principles
 
@@ -639,12 +641,6 @@ Solution: facilitate
 - **Scareware**: fake antivirus
 - **Booter service**: DDoS
 - **Explot-as-a-service**: exploit kitsj
-
-<div class="box red word" data-word="Disclaimer">
-
-This notes are not yet finished. As of right now, they're heavily based on a friend's (Nimo), notes which you can find [here](https://www.notion.so/Exam-preparation-944e9fd3317e41edaa72849ef02de048).
-
-</div>
 
 <!--
  
