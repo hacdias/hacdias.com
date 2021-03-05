@@ -229,42 +229,99 @@ Notes for the course [2IMS20](https://www.win.tue.nl/~setalle/CCD.html).
 - Malware: DTrack (keylogging, gather host IPs, info on networks, etc)
 - Reconnaissace ce and dropper for other malware payloads
 
+## Ransomware
+
+**Ransomware** encrypts your files and asks for money to unlock them.
+
 ## Case studies
 
 **CryptoLocker (2013)**
+- First with serious and replicable business case.
+- Vector: spam email attachment with hidden extension.
+  - creates a window and activates a downloader (trojan)
+  - spreading through a botnet
+  - RSA encryption
 - Breakthrough of ransomware
 - Encrypts host data
 
+**TeslaCrypt**
+- Smart encryption of specific files
+
+**SimpleLocker**
+- Mobile ransomware for android
+
 **Petya (2016)**
-- Overwrites boot record (no encryption)
-- Spreads without human intervention
+- Overwrites boot record (no encryption), files are there but cannot be easily accessed
+- Spreads: attachments then without human intervention
 
 **WannaCry (2017)**
 - Highest damage ransomware
 - Encrypts host data
-- Spreads without human intervention
+- Spreads without human intervention, like a worm
 - Used ExternalBlue (SMB) exploit
 
 **NotPetya (2017)**
-- Encrypts host data
+- Spread: no human intervention, various mechanisms
+- EternalBlue + EternalRomance exploits
+- Encrypts host data with random encryption key (cannot be reverted!)
 - Asks for ransom, but files are never decrypted (actually not a ransomware)
 
 **Equifax Hack (2017)**
 - Exposed personal data
 - Used vulnerability in Apache web server
+  - HTTP header manipulation
+- Needs quick action since it allows for direct attacks and opportunistic attacks
 
 **DDoS**
 - Prevention: make it harder to use (e.g. banned by PayPal)
 - Rate limit requests
+- Can be
+  - Sophisticated: specialized, by professionals
+  - Unsophisticated: low cost DDoS, subscription model
+- There are websites where users can buy DDoS attacks
 
+**Apt 28 and 29**
+- 28
+  - Subverting democracy, information exfiltration
+  - Against US and Europe governments + WADA (2016)
+- 29
+  - Targetrs multiple industries
+  - Phishing with zip with Cobalt Strike Beacon (customized to blend in with usual traffic)
+  - Shared tech artifacts
+  - Known for fast transition from phishing implants after initial compromise
 ## Building automation security
 
 **Operational Technology (OT)**
 - Hardware and software that controls or monitors physical processes
-- Building Automation Systems (BAS)
-- Programmable Logic Controllers (PLC)
-- Supervisory Control And Data Acquisition (SCADA)
-- Industrial Control Systems (ICS)
+- Exs:
+  - Building Automation Systems (BAS)
+  - Programmable Logic Controllers (PLC)
+  - Supervisory Control And Data Acquisition (SCADA)
+  - Industrial Control Systems (ICS)
+
+**Critical Infrastructure**
+- Assets that are essential for the fixing of a society/economy.
+
+**OT Risks**
+- OT networks are no longer physically separated
+- Threats vary between cyber and physical dimensions
+- Vulnerable assets that can be rarely patched
+  **Logging systems** (usually)
+  - No encryption
+  - No authentication
+  **Connectivity** (usual)
+  - Default ports
+  - Default passwords
+
+**Attacking BAC**
+- Build mockup with common controllers and software
+
+**Protocols**
+- BACnet: used for control
+- RTSP (Real time streaming protocol): control cameras (TCP)
+- RTP (real-time transport protocol): audio/video transfer for cameras (UDP)
+
+### Attacking smart buildings
 
 **Building automation network**
 - Management: workstations
@@ -272,18 +329,33 @@ Notes for the course [2IMS20](https://www.win.tue.nl/~setalle/CCD.html).
 - Field: room controllers, cameras
 - BACnet often used over all layers
 
-**Attacking BAC**
-- Build mockup with common controllers and software
+**Scenario #1 - Disrupt HVAC**
+- Leveraging BACnet protocols
+- Can cause discomfort and data centers to go offline
+- **Spoofing and DoS attacks**
+  - Req: the attacker is inside the network
+  - Req: the attacker knows BACnet protocol and simple scripting
 
-**Protocols**
-- BACnet: used for control
-- RTSP: control cameras
-- RTP: audio/video transfer for cameras
+**Scenario #2 - Tamper with Access Control**
+- Leverage 0-days of bulding controllers
+- Bloc/allow access to authorized/unauthorized users
+- -
+  - Gain access (ex: through surveillance system)
+  - Lateral movement until reaching the access control system
+  - Disrupt access control!
+
+**Scenario #3 - Corrupt Suveillance Systems**
+- Leveraging RTP/RTSP protocols
+- Replacing footage with fake ones
+- **Attack Anatomy**
+  1. Establish a man in the middle
+  2. Eavesdrop the traffic and record the video footage
+  3. Replace RTSP command <get param> with <teardown>
+  4. Replay the pre-captured stream to the NVR
 
 **Prevention**
 - Monitoring
 - Network segregation
-
 ## Evolution of attacks
 
 **Targeted ransomware**
@@ -453,10 +525,22 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 
 ## Advanced social engineering
 
+**Social Engineering**
+- Identified set of attack techniques to persuade humans to perform actions solicited by the attackers.
+
+**Prescreening**
+- Mediocre written email to check if victim is manipulatable.
+
 **Elaboration Likelihood Model (ELM)**
 - How humans change their attitude
-- Peripheral route: unconscious communication (system 1)
-- Central route: stimuli carefully processed (system 2)
+- **Peripheral route** aka *System 1*
+  - Unconscious communication
+  - Susceptible to cognitive biases
+- **Central Route** aka *System 2*
+  - Stimuli carefully processed
+  - Complex reasoning
+  - Rational
+  - Controlled
 
 **Human persuasion factors**
 1. **Reciprocation**: subjects feels obligated to help each other (normative commitment).
@@ -479,6 +563,9 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 1. **Stimulus**: sensory information that triggers a cognitive process.
 2. **Perception**: translates the stimulus into "percepts" and fetches memories from LTM.
 3. **Attention**: modulates access to consciousness.
+  - Exogenous: controlled by stimulus => automatic process
+    - Exploited by attackers to leave our rationality and consciousness
+  - Endogenous: consciously good oriented => By central executive
 4. **System 1**/**System 2**: fast/slow thinking.
 5. **Behavior**
 
@@ -488,9 +575,18 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 - Competing with system 2 (scarcity, authority)
 - Avoiding anomalies (typos, detection of spoofing)
 
+**Can be targeted**
+- Extensive reconnaissance
+- Privileged access to victim network
+
 ## People are not the weakest link (Wetzer)
 
 - How to influence behavior?
+
+**To change behaviour**
+- Behaviour = Ability X Motivation X Opportunity
+- Define expected behaviour
+- Assess what is witholding people
 
 **What we typically do**
 - Make people aware
@@ -586,5 +682,23 @@ The attacker parameters describe what the attacker assumes of the target. The mo
 
 Explain the problem of information asymmetry in the underground markets, and how anonymous (i.e., TOR-based) ecommerce platforms and forum-based markets address it. Hint: break down discussion over the principles of adverse selection and moral hazard.
 
-Which of the following impersonation models is DKIM effective against? address spoofer
 -->
+
+## Impersonation in Email
+
+**Impersonation Model**
+- Address spoofs allowed by the STMP protocol
+- Name spoofer
+- Lateral attackers spoofed real identity
+
+**DomainKeys Identified Mail (DKIM)**
+- Designed to detected forged sender address (address **spoofing**)
+- DKIM works by:
+  - Add signature to the headers of an email message
+  - Signature can be validated against a public key that is located in the domain's DNS in a TXT record
+  - The domain owner must publish the key
+
+**DMARC (Domain-based Message Authentication, Reporting and Conformance)**
+- DMARC policy allows the sender to indicate that their email is protected by DKIM (address **spoofing**)
+- Tells the receiver what to do if the checks don't pass
+- Published in DNS records
