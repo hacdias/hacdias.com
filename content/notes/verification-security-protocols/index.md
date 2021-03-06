@@ -1,7 +1,6 @@
 ---
 title: Verification of Security Protocols
-date: 2021-03-05T09:18:56.469579734Z
-lastmod: 2021-03-05T09:38:09.391947031Z
+lastmod: 2021-03-06T08:14:48.602411188Z
 ---
 
 <div class="box yellow word" data-word="Disclaimer">
@@ -103,3 +102,12 @@ lastmod: 2021-03-05T09:38:09.391947031Z
 	- Perfect random numbers: cannot be guessed.
 	- Perfect hashes: one-way and collision-free.
 	- "Injectivity" for all primitives.
+
+**Threat models**
+- **External threat model**
+	- There are intruders.
+	- All regular protocol participants are honest.
+- **Internal threat model**
+	- Possible external attacks.
+	- Compromised participants.
+	- Modeled by publishing the secrets of one of the agents (compromised user or machine, spy).

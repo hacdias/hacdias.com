@@ -1,6 +1,6 @@
 ---
 title: OSI Model
-date: 2021-02-20T08:23:17.215494821Z
+lastmod: 2021-02-20T08:23:17.215494821Z
 ---
 
 1. Physical Layer

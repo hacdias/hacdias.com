@@ -1,6 +1,6 @@
 ---
 title: Physics
-date: 2021-02-20T08:10:30.394181874Z
+lastmod: 2021-02-20T08:10:30.394181874Z
 math: true
 ---
 
