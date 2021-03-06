@@ -1,20 +1,22 @@
 ---
 title: Verification of Security Protocols
-lastmod: 2021-03-06T08:14:48.602411188Z
+lastmod: 2021-03-06T16:48:43.455357126Z
 ---
 
 <div class="box yellow word" data-word="Disclaimer">
 	These are notes for the 2IMS15 course at TU/e. This content may be based on the course material, and thus, copyrighted. This notes are not extensive.
 </div>
 
-**Agents**
+## Agents
+
 - **Honest**: participate in the protocol in cooperation to achieve the protocol goal.
 - **Dishonest** (aka **attackers**): claim to be regular participants, but try to subvert the protocol or act on their own advantage against the protocol rules. Examples:
 	- Compromised machines where attackers got hold of cryptographic keys.
 	- Compromised users that somehow got their cryptographic keys certified.
 	- Electronic merchants that falsely deny receiving a payment, clients of electronic merchant that falsely deny making an order.
 
-**Channels**
+## Channels
+
 - **Trusted**: no hostile agents have access to the communication medium to interfere with the protocol.
 - **Untrusted**: hostile agents that do not participate in the regular protocol have access to the communication medium and have an interest in subverting the protocol.
 	- How?
@@ -25,7 +27,8 @@ lastmod: 2021-03-06T08:14:48.602411188Z
 		- Internet.
 		- Internet banking.
 
-**Communication Protocol**
+## Communication Protocol
+
 - Set of rules that governs the interaction between agents.
 - Examples:
 	- TCP governs computer interactions over an IP network.
@@ -35,7 +38,8 @@ lastmod: 2021-03-06T08:14:48.602411188Z
 	- Trusted channels.
 	- Honest participants.
 
-**Security Protocol**
+## Security Protocol
+
 - Communication protocol
 - Assumes:
 	- Untrusted channels; and/or
@@ -49,14 +53,16 @@ lastmod: 2021-03-06T08:14:48.602411188Z
 	- Random number generation.
 - Defined by standards: TLS is defined by RFC2246 (80 pages) for example.
 
-**‌Cryptographic Algorithms**
+### Cryptographic Algorithms
+
 - Symmetric encryption: DES, AES, IDEA, etc.
 - Public key encryption: RSA, etc.
 - Digital signing: ElGamal, DSA, etc.
 - Cryptographic hash functions: SHA256, MD5, etc.
 - Cryptographic algorithms alone is not enough. Even with the perfect crypto algorithm, things may go wrong.
 
-**Security Protocol Goals**
+### Security Protocol Goals
+
 1. **Secrecy** (aka confidentiality): prevention of unauthorized disclosure of information. Weak version: attackers cannot deduce content of messages. Strong version: attackers cannot deduce content, length or any other information of the messages.
 2. **! Authentication**: verify that claimed identity of a user (user auth); verify that a message comes from the agent it claims to come from (message auth).
 3. **! Integrity**: prevention of unauthorized modification of information. Can be seen as an instance of message authentication.
@@ -73,7 +79,8 @@ lastmod: 2021-03-06T08:14:48.602411188Z
 	- Incompatible: anonymity and authentication.
 	- Etc.
 
-**Common Security Protocols**
+### Common Security Protocols
+
 - Transport Layer Security (SSL/TLS): secrecy, authentication, message integrity.
 - Network Layer Security (IPsec): secrecy, authentication, message integrity. Example: VPN.
 - Application Layer Security (S/Mime, PGP): secrecy, authentication and message integrity
@@ -92,7 +99,7 @@ lastmod: 2021-03-06T08:14:48.602411188Z
 	- **Interactive Theorem Proving**: we find a proof ourselves and the tool checks its correctness.
 	- **Type Checking**: annotate the protocol with types. An automatic type checker checks if the protocol is well-types. Type systems for security protocols are designed so that well-types protocols are robustly safe for secrecy and authenticity. Limitation: there are safe protocols that cannot be proven safe by type checkers.
 
-**Attacker model (Dolev-Yao DY)**
+## Attacker model (Dolev-Yao DY)
 - Security verification thus also requires an attacker model.
 - The attacker controls the communication medium. They an: eavesdrop, redirect and inject messages, apply cryptographic operation on the data, etc.
 - Perfect cryptography assumptions
@@ -103,7 +110,7 @@ lastmod: 2021-03-06T08:14:48.602411188Z
 	- Perfect hashes: one-way and collision-free.
 	- "Injectivity" for all primitives.
 
-**Threat models**
+## Threat models
 - **External threat model**
 	- There are intruders.
 	- All regular protocol participants are honest.
@@ -111,3 +118,98 @@ lastmod: 2021-03-06T08:14:48.602411188Z
 	- Possible external attacks.
 	- Compromised participants.
 	- Modeled by publishing the secrets of one of the agents (compromised user or machine, spy).
+
+## Safe for secrecy
+
+- A closed process P is safe for secrecy iff P→<sub>*</sub>Q implies that Q is not an error state.
+
+## Robustly safe for secrecy
+
+- A closed process P is safe iff for all opponent processes O, P|O is safe for secrecy.
+
+## Conditional secrecy
+
+- Used to check for attackers in internal threats.
+
+## (Some) Attacks
+
+### Type Flaw Attack
+
+A type flaw attack happens when there is margin for misinterpretation of formats, i.e., when the types are not well defined and that makes it easy for an attacker to manipulate the requests.
+
+**Protocol example**
+
+- A → B: ({s, p}<sub>k</sub>, {p', s'}<sub>k</sub>)
+- B → A: (p, p')
+
+**Attack**
+
+- A → I: ({s, p}<sub>k</sub>, {p', s'}<sub>k</sub>)
+- I → B: ({p', s'}<sub>k</sub>, {s, p}<sub>k</sub>) (Elements swapped)
+- B → A: (s', s)
+
+### Basic Attack
+
+- A → B: A
+- B → A: {|(Nb)|}<sub>pkA</sub>
+- A → B: {|(Nb)|}<sub>pkB</sub>
+
+**Attack**
+
+- A → I: A
+- I → B: A
+- B → I: {|(Nb)|}<sub>pkA</sub>
+- I → A: {|(Nb)|}<sub>pkA</sub>
+- A → I: {|(Nb)|}<sub>pkI</sub>
+- I → B: {|(Nb)|}<sub>pkB</sub>
+
+### Needham-Schroeder Protocol (1978)
+
+- A → B: {|(A, Na)|}<sub>pkB</sub>
+- B → A: {|(Na, Nb)|}<sub>pkA</sub>
+- A → B: {|(Nb)|}<sub>pkB</sub>
+
+Problem:
+
+- Na and Nb are disclosed
+
+**Attack** (only found in 1995)
+
+C "thinks" it's talking to A, while it's talking to B.
+
+- A → B: {|(A, Na)|}<sub>pkB</sub>
+- B(A) → C: {|(A, Na)|}<sub>pkC</sub>
+- C → A: {|(Na, Nb)|}<sub>pkA</sub>
+- A → B: {|(Nb)|}<sub>pkB</sub>
+- B(A) → C: {|(Nb)|}<sub>pkC</sub>
+
+**Solution**
+
+- A → B: {|(A, Na)|}<sub>pkB</sub>
+- B → A: {|(Na, Nb, B)|}<sub>pkA</sub> (add a B on the message)
+- A → B: {|(Nb)|}<sub>pkB</sub>
+
+### Denning-Sacco Key Distribution Attack
+
+Goal: establish a symmetric key between A and B.
+
+- A → B: {|{|kAB|}<sub>skA</sub>|}<sub>pkB</sub>
+- B → A: {s}<sub>kAB</sub>
+
+**Attack**
+
+- A → M: {|{|k|}<sub>skA</sub>|}<sub>pkM</sub>
+- M(A) → B: {|{|k|}<sub>skA</sub>|}<sub>pkB</sub>
+- B → M(A): {s}<sub>k</sub>
+
+
+**Solution**
+
+- A → B: {|{|pkB, kAB|}<sub>skA</sub>|}<sub>pkB</sub>
+- B → A: {s}<sub>kAB</sub>
+
+**No Attack**
+
+- A → M: {|{|pkM,k|}<sub>skA</sub>|}<sub>pkM</sub>
+- M(A) → B: {|{|pkM,k|}<sub>skA</sub>|}<sub>pkB</sub>
+- Will fail because pkM != pKB
