@@ -37,10 +37,10 @@ menu:
     url: /about/
     weight: 1
   - name: ✏️ Articles
-    url: /all/
+    url: /articles/
     weight: 2
   - name: 💬 Micro
-    url: /all/
+    url: /micro/
     weight: 3
   - name: 📸 Photos
     url: /photos/
