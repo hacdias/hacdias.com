@@ -1813,6 +1813,21 @@
   ],
   "series": [
     {
+      "title": "Shadowhunters",
+      "watched": "2021-03-07T21:48:16.000Z",
+      "url": "https://trakt.tv/shows/shadowhunters"
+    },
+    {
+      "title": "RuPaul's Drag Race All Stars: Untucked!",
+      "watched": "2021-03-07T08:26:40.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-03-07T08:26:13.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2021-03-05T22:13:58.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
@@ -1821,11 +1836,6 @@
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-03-05T21:48:33.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "Shadowhunters",
-      "watched": "2021-03-05T09:44:35.000Z",
-      "url": "https://trakt.tv/shows/shadowhunters"
     },
     {
       "title": "Snowpiercer",
@@ -1841,11 +1851,6 @@
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2021-02-21T09:06:04.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-02-21T08:48:26.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
@@ -1961,11 +1966,6 @@
       "title": "RuPaul's Drag Race All Stars",
       "watched": "2020-07-25T18:24:54.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars: Untucked!",
-      "watched": "2020-07-25T18:23:21.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars-untucked"
     },
     {
       "title": "The Politician",
