@@ -46,9 +46,9 @@
       "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
-      "name": "Gidge",
+      "name": "Drag Queens Trixie Mattel & Katya React to The Queen's Gambit",
       "count": 2,
-      "url": "https://www.last.fm/music/Gidge"
+      "url": "https://www.last.fm/music/Drag+Queens+Trixie+Mattel+&+Katya+React+to+The+Queen%27s+Gambit"
     }
   ],
   "tracks": [
@@ -63,6 +63,12 @@
       "url": "https://www.last.fm/music/%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C/_/Solved+Quick",
       "count": 2,
       "artist": "||||||||||||||||||||"
+    },
+    {
+      "name": "I Like to Watch",
+      "url": "https://www.last.fm/music/Drag+Queens+Trixie+Mattel+&+Katya+React+to+The+Queen%27s+Gambit/_/I+Like+to+Watch",
+      "count": 2,
+      "artist": "Drag Queens Trixie Mattel & Katya React to The Queen's Gambit"
     },
     {
       "name": "Quasar",
@@ -105,12 +111,6 @@
       "url": "https://www.last.fm/music/Above+&+Beyond/_/Strength+from+Inside",
       "count": 1,
       "artist": "Above & Beyond"
-    },
-    {
-      "name": "Balada de Despedida da Academia de Lisboa 2017/18",
-      "url": "https://www.last.fm/music/Ad+Lucem+Grupo+de+Fado+da+Academia+de+Lisboa/_/Balada+de+Despedida+da+Academia+de+Lisboa+2017%2F18",
-      "count": 1,
-      "artist": "Ad Lucem Grupo de Fado da Academia de Lisboa"
     }
   ]
 }
