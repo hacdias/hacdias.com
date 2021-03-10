@@ -1813,9 +1813,19 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-03-10T18:22:50.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Shadowhunters",
       "watched": "2021-03-09T18:48:06.000Z",
       "url": "https://trakt.tv/shows/shadowhunters"
+    },
+    {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-03-09T08:00:00.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "RuPaul's Drag Race All Stars: Untucked!",
@@ -1843,19 +1853,9 @@
       "url": "https://trakt.tv/shows/snowpiercer"
     },
     {
-      "title": "The Good Doctor",
-      "watched": "2021-02-23T07:14:36.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2021-02-21T09:06:04.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2021-02-17T15:36:01.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "Tiny Pretty Things",
