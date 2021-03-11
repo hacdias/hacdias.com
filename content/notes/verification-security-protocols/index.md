@@ -1,6 +1,7 @@
 ---
 title: Verification of Security Protocols
-lastmod: 2021-03-10T19:37:04.928039053Z
+lastmod: 2021-03-11T08:37:15.414256628Z
+math: true
 ---
 
 <div class="box yellow word" data-word="Disclaimer">
@@ -130,6 +131,20 @@ lastmod: 2021-03-10T19:37:04.928039053Z
 ## Conditional secrecy
 
 - Used to check for attackers in internal threats.
+
+## Non-interference (strong secrecy)
+
+Let $P(\overline x)$ be some process that depends on variables $\overline x$. $P$ preserves strong secrecy of $\overline x$ iff $P(\overline M) \simeq P(\overline N)$ for all closed messages $\overline M$, $\overline N$.
+
+Other definition: $P$ preserves strong secrecy when $P(\overline M)|O \Downarrow c \Leftrightarrow P(\overline {M'}) \Downarrow c $ for every opponent $O$ and channel $c$.
+
+It prevents both direct data flows and implicit information flows.
+
+**Example**
+
+P(x, y) == new k; (out net {x} k ; | out net {y} k ; )
+
+P(x, y) does not preserve strong secrecy of x, y because we can see that P(M, M) != P(M, N) when M != N.
 
 ## Correspondence Assertions
 
