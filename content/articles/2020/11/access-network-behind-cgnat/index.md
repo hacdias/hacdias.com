@@ -1,12 +1,15 @@
 ---
 title: Access a network behind a Carrier Grade NAT with Wireguard
-description: >
-  Nowadays, a lot of ISPs are putting their clients behind giant NATs
-  which blocks us from easily accessing local services from the outside.
+description: |
+  Nowadays, a lot of ISPs are putting their clients behind giant NATs which blocks us from easily accessing local services from the outside.
 tags:
 - mondayletter
 - network
 date: 2020-11-30T09:00:00+01:00
+lastmod: 2021-03-11T21:13:42.254895185Z
+mentions:
+- href: https://twitter.com/@wg0
+  name: '@wg0'
 ---
 
 I recently moved from the place where I was staying at to my own studio. In addition, since I was building a computer, I wanted to be able to access remotely to its capabitities, as well as any other device I have at home. Thus, I thought: let's set up a VPN!
@@ -86,7 +89,7 @@ $ wg-quick up wg0
 You can also turn it on on boot:
 
 ```shell
-$ sudo systemctl enable wg-quick@wg0
+$ sudo systemctl enable wg-quick<a href='https://twitter.com/@wg0' rel='noopener noreferrer' target='_blank'>@wg0</a>
 ```
 
 To check if everything looks fine:
@@ -94,6 +97,8 @@ To check if everything looks fine:
 ```shell
 $ sudo wg show
 ```
+
+Don't forget to open the `ListenPort` on your VPS' firewall.
 
 ## The local host (aka the Raspberry Pi)
 
