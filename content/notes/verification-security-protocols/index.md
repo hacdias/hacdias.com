@@ -5,7 +5,7 @@ math: true
 ---
 
 <div class="box yellow word" data-word="Disclaimer">
-	These are notes for the 2IMS15 course at TU/e. This content may be based on the course material, and thus, copyrighted. This notes are not extensive.
+	These are notes for the 2IMS15 course at TU/e. This content may be based on the course material, and thus, may be copyrighted. This notes are not extensive.
 </div>
 
 ## Agents
@@ -120,31 +120,22 @@ math: true
 	- Compromised participants.
 	- Modeled by publishing the secrets of one of the agents (compromised user or machine, spy).
 
-## Safe for secrecy
+## Secrecy
 
-- A closed process P is safe for secrecy iff P→<sub>*</sub>Q implies that Q is not an error state.
-
-## Robustly safe for secrecy
-
-- A closed process P is safe iff for all opponent processes O, P|O is safe for secrecy.
-
-## Conditional secrecy
-
-- Used to check for attackers in internal threats.
-
-## Non-interference (strong secrecy)
-
-Let $P(\overline x)$ be some process that depends on variables $\overline x$. $P$ preserves strong secrecy of $\overline x$ iff $P(\overline M) \simeq P(\overline N)$ for all closed messages $\overline M$, $\overline N$.
-
-Other definition: $P$ preserves strong secrecy when $P(\overline M)|O \Downarrow c \Leftrightarrow P(\overline {M'}) \Downarrow c $ for every opponent $O$ and channel $c$.
-
-It prevents both direct data flows and implicit information flows.
-
-**Example**
-
-P(x, y) == new k; (out net {x} k ; | out net {y} k ; )
-
-P(x, y) does not preserve strong secrecy of x, y because we can see that P(M, M) != P(M, N) when M != N.
+- Conditional secrecy is used to check for attackers in internal threats.
+- **Safe for secrecy**
+  - A closed process $P$ is safe for secrecy iff $P \rightarrow_* Q$ implies that Q is not an error state.
+- **Robustly safe for secrecy**
+  - A closed process $P$ is robustly safe for secrecy iff for all opponent processes $O$, $P|O$ is safe for secrecy.
+- **Strong Secrecy (non-interference)**
+  - Let $P(\overline x)$ be some process that depends on variables $\overline x$.
+  - **Definition 1**: $P$ preserves strong secrecy of $\overline x$ iff $P(\overline M) \simeq P(\overline N)$ for all closed messages $\overline M$, $\overline N$.
+  - **Definition 2**: $P$ preserves strong secrecy when $P(\overline M)|O \Downarrow c \Leftrightarrow P(\overline {M'}) \Downarrow c $ for every opponent $O$ and channel $c$.
+  - Prevents both direct data flows and implicit information flows.
+  - Example
+    - P(x, y) == new k; (out net {x} k; | out net {y} k; )
+    - P(x, y) does not preserve strong secrecy of x and y because we can see that P(M, N) != P(M, N) when M != N.
+    - Could be solved with non-deterministic encryption. That way, all processes would output different values, even with the same message.
 
 ## Correspondence Assertions
 
@@ -189,6 +180,20 @@ Tagging is used to give messages a type. It allows preventing type flaw attacks 
 
 - **Type Checking**: Checking that a program follows a certain set of rules.
 - **Type Soundness**: If P is well-typed for secrecy, then P is robustly safe for secrecy. Being well-typed for secrecy means that n<sub>1</sub> : Un, ..., n<sub>i</sub> : Un ⊢ P : ok with n<sub>1</sub> : Un, ..., n<sub>i</sub> being the free names in P, holds in the type system.
+
+Other:
+
+- When typing in Abadi's type system for strong secrecy:
+  - The names get a message in addition to a type.
+  - The environment is ordered (sequence, not set).
+  - The confounder (e.g. nonce), required for non-deterministic encryption, can only be used for one message so it needs to be linked to that message.
+  - Lack of key-types, uses secret instead. 
+  - Encryption only supports one type of message. We can think of it as implicitly tagged with sec-pub-any-confounder.
+  - Split only allows Secret and Untrusted messages to be split, just like the rule Cond.
+    - If not there would be the risk to distinguish n and (n, n). Example:
+    - P(x) = split x is (y, z); out c pair
+    - The process P would not output pair if x was not actually a pair. This breaks strong secrecy of x.
+    - Arguments are of type Any.
 
 ## (Some) Attacks
 
