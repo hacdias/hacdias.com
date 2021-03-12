@@ -91,13 +91,13 @@
       "title": "Jake Bauer"
     },
     {
-      "feed": "https://jfenn.me/blog/feed.xml",
-      "site": "https://jfenn.me/",
+      "feed": "https://feeds.feedburner.com/fennifith",
+      "site": "https://jfenn.me",
       "title": "James Fenn"
     },
     {
-      "feed": "https://feeds.feedburner.com/fennifith",
-      "site": "https://jfenn.me",
+      "feed": "https://jfenn.me/blog/feed.xml",
+      "site": "https://jfenn.me/",
       "title": "James Fenn"
     },
     {
@@ -119,6 +119,11 @@
       "feed": "https://blog.jethro.dev/index.xml",
       "site": "https://blog.jethro.dev/",
       "title": "Jethro Kuan"
+    },
+    {
+      "feed": "https://maliks.blog/feed.xml",
+      "site": "https://maliks.blog",
+      "title": "Malik's Blog"
     },
     {
       "feed": "https://martin.to/feeds/most.atom",
