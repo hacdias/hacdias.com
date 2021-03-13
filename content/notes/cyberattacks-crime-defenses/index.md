@@ -297,6 +297,7 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 - Hardware and software that controls or monitors physical processes
 - Exs:
   - Building Automation Systems (BAS)
+    - Encryption available but rarely used.
   - Programmable Logic Controllers (PLC)
   - Supervisory Control And Data Acquisition (SCADA)
   - Industrial Control Systems (ICS)
@@ -361,14 +362,47 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 ## Evolution of attacks
 
 **Targeted ransomware**
+- More reconnaissance, more disruptive
 - Growing in popularity
 - Higher damages
 
+**Garmin ransomware attack (WastedLocker)**
+- Users noticed and reported inaccessible website features.
+- WastedLocker encrypts key data on company's digital infrastructure.
+- This attack does not steal identifying information and hold it for ransom. Instead, it renders programs useless until decrypted (new attack!).
+- Related to Evil Corp, a known hacking group.
+
+**Norsk Hydro ransomware attack**
+- Victim did not pay the ransom.
+- Infected email from trusted customer.
+
 **Maastricht ransomware attack**
-- Started with phishing
+- Started with phishing: malicious document containing SDBBot malware (Office macro).
 - Lateral movement (e.g. privilege escalation through outdated OS vulnerability)
-- Disable antivirus
-- Actual ransomware attack
+- Unnoticed antivirus warnings, disabled antivirus.
+- Actual ransomware attack.
+- Different tools and exploits used: Sage, Swaqp, CobalStrike, PingCastle, EternalBlue, Meterpreter, PowerSploit, etc.
+- Why Maastricht? Random.
+- New business model:
+  - Service hostage, not data.
+  - Single target, big ransom.
+- 2 new malware families.
+- ServHelper backdoor with two variants and FlawedGrace remote access trojan (RAT)
+
+**Tunnel campaign**
+- Delivered new variant of ServHelper
+- Malware in MS Word macros by phishing emails.
+
+**Downloader campaign**
+- Similar to Tunnel but larger.
+- Malware in documents via phishing emails.
+
+**FlawedGrade campaign**
+- Malware in fake Adobe PDF plugin, word documents, etc.
+
+**ServHelper Analysis**
+- Best classified as backdoor.
+- Tunnel variant: set up reverse SSH tunnels, infect host via RDP. Establishes remote desktop access and then hijacks legitimate users.
 
 **Targeted phishing**
 - The volume of phishing is going down, because attacks are more targeted
@@ -381,6 +415,14 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 - Use of 0-days decrasing
 
 ## Read teaming in OT
+
+**Killchain**
+- Planning
+- Reconnaissance
+- Exploitation
+- Post-Exploitation
+- Exfiltration
+- Clean closure
 
 **Red teaming**
 - Independent group
@@ -400,6 +442,14 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 - Living off the land
 - Codification of OT knowledge
 - Attack amplification (damaging infrastructure, disrupting incident response)
+
+**Supply chain attacks**
+- Infiltration of well-protected orgs by using a trusted channel.
+- Fast distribution as users upgrade the software.
+- Targeting specific regions or sectors.
+- Infiltration of isolated targets, such as industrial environments.
+- Difficult for victims to identify attacks as trusted processed as misused.
+- May provide attacker with elevated privileges during installation.
 
 ## IoT and detection
 
@@ -475,7 +525,22 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 
 ## Cybercrime markets
 
+**Cybercrime market operations**
+- Tech systems can be vehicle/target to crime. Migration of some offline crime to online.
+- Problem? everything is illegal so you can't enforce contracts.
+
+**Fair trade**
+- Contracts between agents => market only works if contracts are valid/satisfied.
+
+**Agency theory**
+- Principal: asks for services
+- Agent: provides services
+- Principal X Agent: The information they have is key for market equilibrium.
+
 **Information assymetry**
+- Problem?
+  - Agent knows more about the product than the principal.
+  - Principal has no way of verifying that agents respected the contract.
 - Information must be shared between buyer and seller
 - Information must be verifiable
 - Otherwise all good sellers are pushed out of the market
@@ -486,6 +551,36 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 **Moral hazard**
 - Buyer/seller change their behavior after sale (break of trust)
 
+**Markets**
+- Competition leads to technological advancement.
+- **Forum based**
+  - Malware: niche market, repeated trade limited, vulnerability & exploit are complex.
+  - Products hard to evaluate.
+  - Closed access forums may enforce contracts.
+  - Moral hazards
+    - Fear of punishment
+    - High cost of entry
+    - History of trade
+    - Reputation system
+  - Adverse selection
+    - Product samples
+    - Feedback mechanism
+- **E-commerce**
+  - Drugs and illegal goods: larger market, customers come back, repeated purchases.
+  - Anonymity is key.
+
+**Onion (TOR) Services**
+- Ensure network anonymity of both servers and participants.
+- Requests pass through many onion routers.
+- Circuits of requests always different.
+- Example
+  - Bob picks an introduction point and builds circuits to them.
+  - Bob advertises his service (xyz.onion) at the DB.
+  - Alice hears about xyz.onion and she requests more info from the DB. She sets up a rendezvous point (could be done before).
+  - Alice writes a message to Bob (encrypted) listing the rendezvous point and a one time secret. Asks for an introduction point to deliver it to Bob.
+  - Bob connects to Alice's rendezvous point and provides her with one one-time secret.
+  - Bob and Alice proceed toi use their Tor circuits like normal.
+
 **Mitigation**
 - Reputation systems
 - Third party moderation
@@ -494,6 +589,42 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 **Multi-signature escrow**
 - Need 2 out of 3 parties to approve
 - Reduce risk of exit scam (by market owners)
+
+**Emergence of underground markets**
+- A single entity cannot provide all aspects of a service usually since products nowadays and attacks are complex and require many different things.
+- Spam to sell counterfeit products: victims tricked into buying counterfeit goods.
+- Spam techniques are used to advertise: stolen email accounts, social networks, mobile phone/calls.
+- **Click fraud**
+  - Attackers register with ad network.
+  - Infected systems to generate clicks as secure advertisement.
+  - Hard to distinguish between legitimate and fake click.
+- **Scareware**: uses social engineering + malware infection to scare users to buy a product.
+- **Booter services**: DDoS attacks hired!
+- **Exploit as a service and PPIs**: platforms to deliver malware. Self replicating malware is not attractive for monetization due to high visibility and visible effects.
+  - Full infrastructure that
+    - Selects potential targets with specific characteristics.
+    - Redirects victim to an exploit kit.
+    - Drops malware.
+  - PPI:  pay per install
+
+**Exploit Kits (EK)**
+- Websites that serve vulnerability exploits and ultimately malware.
+- Client side vulnerabilities affected.
+- Drop malware and successful exploitation => fully controlable.
+- Typically < 10 exploits.
+- Defensive components
+  - IP Blocking (majority)
+  - Crawler aware
+  - Obfuscation
+  - Neither (minotiry)
+
+**Third party traffic**
+- Exploit kit only works if they receive victim traffic.
+- Underground markets have services that trade connections.
+- Attackers "buy" connections from specific users with specific configurations.
+- EK owner buys connections from a traffic broker/hacker.
+- Traffic broker attacks iframes on popular websites (e.g. through ads).
+- User visits popular website and gets attacked.
 
 ## Human factor in cybercrime (Leukfeldt)
 
@@ -643,10 +774,6 @@ Solution: facilitate
 - **Explot-as-a-service**: exploit kitsj
 
 <!--
- 
-Encryption in Building Automation Systems (BAS) is:Available but rarely used
-
-An attacker could perform a Man in the Middle attack to a Surveillance System (IP Cameras + Network Video Recorder) if: He has access to at least one device on the local network
 
 What framework is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. MITRE ATT&CK
 
@@ -655,11 +782,6 @@ What would not be a typical objective for a nation state attacker when targeting
 WHAT WOULD BE: Strategic signaling that they possess a capability and are able to use it.
 Establishing persistent access for future attacks
 Disrupting the target’s mission
-
-The ransomware attacks on Garmin (July 2020) and the one against the University of Maastricht (December 2019) are two examples of a new type of attack. Explain, in one page max, (a) why are they new (b) how the business model of the attacker is different than that of older ransomware attacks (c) what has changed in the last years in terms of technical possibility of the attackers that makes it possible to carry out such attack today.
-key point: targeted vs non-targeted
-Substantial Additional Arguments
-Full discussion
 
 Leukfeldt and Yar in "Applying routine activity theory to cybercrime: A theoretical and empirical analysis." (Deviant Behavior, 2016) used Routine Activities Theory to examine the relationship between “value”, “visibility”, “accessibility”, “technical capable guardianship”, and “personal capable guardianship” and an increased risk of victimization of six cybercrimes. The results show that "Visibility" is significantly related to victimization via: malware, threat, consumer fraud.
 
