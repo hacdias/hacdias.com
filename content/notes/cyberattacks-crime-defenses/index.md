@@ -416,14 +416,6 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 
 ## Read teaming in OT
 
-**Killchain**
-- Planning
-- Reconnaissance
-- Exploitation
-- Post-Exploitation
-- Exfiltration
-- Clean closure
-
 **Red teaming**
 - Independent group
 - Targeting organization as a whole
