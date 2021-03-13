@@ -7,7 +7,7 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -21,19 +21,24 @@
       "url": "https://www.last.fm/music/Sia"
     },
     {
+      "name": "Alma",
+      "count": 5,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
       "name": "Cardio Hits! Workout",
       "count": 5,
       "url": "https://www.last.fm/music/Cardio+Hits!+Workout"
     },
     {
-      "name": "Alma",
-      "count": 4,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
       "name": "Billie Eilish",
       "count": 4,
       "url": "https://www.last.fm/music/Billie+Eilish"
+    },
+    {
+      "name": "David Guetta",
+      "count": 4,
+      "url": "https://www.last.fm/music/David+Guetta"
     },
     {
       "name": "Grimes",
@@ -44,11 +49,6 @@
       "name": "Liam Mour",
       "count": 4,
       "url": "https://www.last.fm/music/Liam+Mour"
-    },
-    {
-      "name": "Bicep",
-      "count": 3,
-      "url": "https://www.last.fm/music/Bicep"
     }
   ],
   "tracks": [
