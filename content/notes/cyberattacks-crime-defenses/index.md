@@ -540,7 +540,7 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 ## Defensive policies
 
 **Example of policies**
-- Change password often
+- Password: change often, length, composition, do not share, do not write down, do not reuse.
 - Encryption
 
 **Encryption in ICS networks**
@@ -548,6 +548,21 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 - Can negatively affect security
 - Complicated troubleshooting
 - Why: the endpoint is much more vulnerable than the cable
+
+**Needed**
+- User/device authentication
+- Message authenticity
+
+**E2E for**
+- Long haul connection over untrusted networks.
+- Confidentiality when it is crucial.
+
+**Attacks**
+- Online: no way to try all possibilities
+- Offline: can eavesdrop and look at the password
+- **Cost/benefit of attack**
+  - Direct cost: zero sum
+  - Indirect cost: high to masive
 
 **So long, and no thanks for the externalities**
 - Users rejection of security advice is rational from economic perspective
