@@ -302,6 +302,28 @@ lastmod: 2021-03-05T12:24:58.996063155Z
   - Supervisory Control And Data Acquisition (SCADA)
   - Industrial Control Systems (ICS)
 
+**IT vs OT (e.g. ICS)**
+- IT
+  - Thousands of hosts, hundreds of applications.
+  - Devices' behavior difficult to predict.
+  - Behavior patterns change frequently.
+- OT
+  - Different devices, protocols.
+  - Proprietary protocols.
+  - Privileges availability over security.
+  - Difficult to patch.
+  - Non-standard.
+  - Closed system.
+  - Legacy systems without security in mind.
+  - No auth nor integrity check.
+  - Impossible to use preventive measures.
+  - Impossible to use host-based systems.
+  - Same operations over and over.
+- For the defender:
+  - OT is more predictable but in OT signature based systems don't work.
+  - Whitelisting works better in OT than in IT.
+- OT requires more knowledge.
+
 **Critical Infrastructure**
 - Assets that are essential for the fixing of a society/economy.
 
@@ -340,12 +362,11 @@ lastmod: 2021-03-05T12:24:58.996063155Z
   - Req: the attacker knows BACnet protocol and simple scripting
 
 **Scenario #2 - Tamper with Access Control**
-- Leverage 0-days of bulding controllers
-- Bloc/allow access to authorized/unauthorized users
-- -
-  - Gain access (ex: through surveillance system)
-  - Lateral movement until reaching the access control system
-  - Disrupt access control!
+- Leverage 0-days of building controllers
+- Block/allow access to authorized/unauthorized users
+- Gain access (ex: through surveillance system)
+- Lateral movement until reaching the access control system
+- Disrupt access control!
 
 **Scenario #3 - Corrupt Suveillance Systems**
 - Leveraging RTP/RTSP protocols
@@ -426,6 +447,16 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 - Incorrect attribution of real attacks
 - Loss of trust from employees
 
+**Mitigation**
+- Screening of red team
+- Clear coordination between teams
+- Rules of engagement
+- Ethical code of conduct
+- Switching toa acceptance environment
+
+**Purple Teaming**
+- Integration of offense (red) and defense (blue) teams.
+
 **Trends**
 - Spear phishing
 - Watering hole
@@ -450,20 +481,33 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 - Move to IP increased risk
 - Commonly targeted for botnets
 
-**Rejection-based detection (knowledge-based)**
-- Signatures
-- Heuristics
-- False positive problem
-- Largely ineffective
+**Rejection-based detection (knowledge-based/blacklisting)**
+- Methods: signatures, heuristics.
+- Pros: low false positives; intrusion prevention; when detected, have info on what it is; no reconfiguration needed when system is reconfigured.
+- Cons: false negatives problem; no signatures for 0-days; timely to deploy; easy to evade signatures and heuristics.
 
-**Acceptance-based detection (behaviour-based)**
+**Acceptance-based detection (behavior-based/whitelisting)**
 - Allowlist (manual)
 - Anomaly detection (automatic)
-  - Flows (quantitative, analyse patterns in network)
-  - Payload (qualitative, analyse individual packets)
 - Only effective for predictable environments (such as OT)
+- Pros: don't need to know the attack; low false positives if correctly configured.
+- Cons: easy to deceive unless very accurate; expensive to setup and maintain; reconfiguration needed if system is reconfigured; gives little info about attack.
+
+**Anomaly detection**
+- Quantitative (flows): analyse patterns in network
+  - False positives
+  - Situational awareness
+  - Cannot tell what's going on
+  - "If there's too many things happening, there is something fishy going on".
+- Qualitative (payloads): analyse individual packets
+- Pros: little setup cost, may see 0-day attacks. Quantitative: gives interesting info. Qualitative: when it works is ideal.
+- Cons: applicability depends heavily on particular instance of target system, buckets of false positives; give less information than whitelisting.
 
 Both rejection and acceptance-based can be configured with *different accuracy levels* to balance false positives and false negatives.
+
+**Where can you detect things?**
+- Analyse the host data and processes.
+- Analyse incoming and outgoing traffic.
 
 ## Monitorability
 
@@ -475,9 +519,18 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 
 **How to evaluate intrusion detection systems**
 - False positives, false negatives
-- Actionability
-- Adaptability
-- Scalability
+- Actionability: how much info is given to prepare response.
+- Adaptability: adapt to changing systems.
+- Scalability: cost according to scale.
+
+**Anomaly Detection (2)**
+- Blackbox: ML approaches, too many false positives.
+- Whitebox: works but on specific systems, good useability for SCADA. Not about intrusion detection, about understanding what happens in the target system.
+
+**Supervisable software**
+- Allows people who monitor it to understand what it's doing.
+- Only way to make systems more secure.
+- Supervisability x 
 
 **What should we do**
 - Write software to make it easier to monitor (supervise)
@@ -512,8 +565,17 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 
 - Identify critical assets
 - Segment the network
+  - Add metadata: owner, security contact, data type, relevance score, etc.
+  - Iterative process.
+  - Demilitarized Zone is NOT a zero trust segment.
 - Enforce policies
 - Monitor
+- Deny all by default
+- Detect attacks most likely to cause damage (negative model, known vs unknown).
+- Nothing allowed unless explicitly allowed (positive model, good vs unknown).
+- Indicators of Compromise (IoC): known artifacts that indicate intrusion.
+- Behavioral Indicator of Compromise (BIoC): detect process behavior, registry filed, network activity.
+- Configurations: visibility and control, policy controls, inspection, validation of control coverage.
 
 ## Cybercrime markets
 
@@ -788,9 +850,6 @@ To change those conditions, it is important to always perform a tailored evaluat
 Stimulus, perception, attention, System-1/2 cognition, behaviour, and {attacker,target} parameters constitute the "building blocks" of the human cognitive process. Which of the following statements is true?
 Perception is in charge of translating stimuli in "percepts" generated from long term memory and put in working memory. These percepts are then passed on in the computation process and can influence its outcome. 
 The attacker parameters describe what the attacker assumes of the target. The more overlap between the attacker assumptions and the real target parameters, the more likely it is the target will fall for the attack.
-
-
-Explain the problem of information asymmetry in the underground markets, and how anonymous (i.e., TOR-based) ecommerce platforms and forum-based markets address it. Hint: break down discussion over the principles of adverse selection and moral hazard.
 
 -->
 
