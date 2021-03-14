@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Lana Del Rey",
-      "count": 20,
+      "count": 21,
       "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Slayyyter",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/Slayyyter"
     },
     {
@@ -26,14 +26,14 @@
       "url": "https://www.last.fm/music/Alma"
     },
     {
+      "name": "Billie Eilish",
+      "count": 5,
+      "url": "https://www.last.fm/music/Billie+Eilish"
+    },
+    {
       "name": "Cardio Hits! Workout",
       "count": 5,
       "url": "https://www.last.fm/music/Cardio+Hits!+Workout"
-    },
-    {
-      "name": "Billie Eilish",
-      "count": 4,
-      "url": "https://www.last.fm/music/Billie+Eilish"
     },
     {
       "name": "David Guetta",
@@ -55,19 +55,19 @@
     {
       "name": "Diet Mountain Dew",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 7,
+      "count": 8,
       "artist": "Lana Del Rey"
     },
     {
       "name": "Clouds",
       "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 7,
+      "count": 8,
       "artist": "Slayyyter"
     },
     {
       "name": "i love you",
       "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
-      "count": 4,
+      "count": 5,
       "artist": "Billie Eilish"
     },
     {
