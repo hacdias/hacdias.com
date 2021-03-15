@@ -1,7 +1,6 @@
 @media print {
   html, body {
-    font-size: 10.8px;
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
   }
 
   p, ul, ol {
