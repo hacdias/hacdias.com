@@ -1,10 +1,10 @@
 ---
 title: Cyberattacks, Crime and Defenses
-lastmod: 2021-03-05T12:24:58.996063155Z
+lastmod: 2021-03-15T11:16:40.770351056Z
 ---
 
 <div class="box yellow word" data-word="Disclaimer">
-	These are notes for the 2IMS20 course at TU/e.
+	These are notes for the 2IMS20 course at TU/e. This content may be based on the course material, and thus, may be copyrighted.
 </div>
 
 ## Web apps and attack principles
