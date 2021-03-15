@@ -11,23 +11,22 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 
 **GET Parameters**:
 - Passed in the URL
-- Vulnerable to XSS[^eavesdropping]
-- Only to request data, not modify[^eavesdropping]
-- Recorded in browser history[^eavesdropping]
+- Vulnerable to XSS\*
+- Only to request data, not modify\*
+- Recorded in browser history\*
 
 **POST Parameters**:
 - Parameters hidden
 - Data sent to server on HTTP request body
-- Does not get recorded in browser history[^eavesdropping]
+- Does not get recorded in browser history\*
+
+\*: Prevents only eavesdropping (Internet Cafe Attacks)
 
 **HTTP Week Sessions** (exception: HTTP keep-alive, reuse TCP)
 - HTTP is connectionless and stateless, does not have a state.
 - All info needed to process a request is stored in the browser
 
 **SSL**: Secure Sockets Layer. Protocol that allows authentication, encryption of data over the Internet.
-
-[^eavesdropping]: Prevents only eavesdropping (Internet Cafe Attacks)
-
 ### OWASP Top 10
 
 1. **Injection**: untrusted data sent to interpreter.
@@ -345,6 +344,7 @@ lastmod: 2021-03-05T12:24:58.996063155Z
 - BACnet: used for control
 - RTSP (Real time streaming protocol): control cameras (TCP)
 - RTP (real-time transport protocol): audio/video transfer for cameras (UDP)
+- Only need access of one device in the network to make a MITM attack.
 
 ### Attacking smart buildings
 
@@ -685,7 +685,7 @@ Both rejection and acceptance-based can be configured with *different accuracy l
   - IP Blocking (majority)
   - Crawler aware
   - Obfuscation
-  - Neither (minotiry)
+  - Neither (minority)
 
 **Third party traffic**
 - Exploit kit only works if they receive victim traffic.
@@ -698,7 +698,7 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 ## Human factor in cybercrime (Leukfeldt)
 
 **Rule factors**
-- background characteristcs
+- background characteristics
 - Value
 - Visibility
 - Accessibility
@@ -763,7 +763,7 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 
 **Information Processing Model**
 1. **Stimulus**: sensory information that triggers a cognitive process.
-2. **Perception**: translates the stimulus into "percepts" and fetches memories from LTM.
+2. **Perception**: translates the stimulus into "percepts" and fetches memories from LTM. Passed on in the computation process and can influence its outcome.
 3. **Attention**: modulates access to consciousness.
   - Exogenous: controlled by stimulus => automatic process
     - Exploited by attackers to leave our rationality and consciousness
@@ -785,10 +785,12 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 
 - How to influence behavior?
 
-**To change behaviour**
-- Behaviour = Ability X Motivation X Opportunity
-- Define expected behaviour
-- Assess what is witholding people
+**To change behavior**
+- Behavior = Ability X Motivation X Opportunity
+- Define expected behavior
+- Assess what is withholding people
+- All conditions must be present to obtain desired behavior.
+- To change conditions, it is needed to perform evaluation of the conditions in an organization, for the specific employees whom behavior one wants to change.
 
 **What we typically do**
 - Make people aware
@@ -840,33 +842,7 @@ Solution: facilitate
 - **Fraud:** fake clicks on ads, pump and dump, credit hard theft
 - **Scareware**: fake antivirus
 - **Booter service**: DDoS
-- **Explot-as-a-service**: exploit kitsj
-
-<!--
-
-What framework is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. MITRE ATT&CK
-
-What would not be a typical objective for a nation state attacker when targeting OT- infrastructures? Extortion for money
-
-WHAT WOULD BE: Strategic signaling that they possess a capability and are able to use it.
-Establishing persistent access for future attacks
-Disrupting the target’s mission
-
-Leukfeldt and Yar in "Applying routine activity theory to cybercrime: A theoretical and empirical analysis." (Deviant Behavior, 2016) used Routine Activities Theory to examine the relationship between “value”, “visibility”, “accessibility”, “technical capable guardianship”, and “personal capable guardianship” and an increased risk of victimization of six cybercrimes. The results show that "Visibility" is significantly related to victimization via: malware, threat, consumer fraud.
-
-According to what reported in Leukfeldt, Rutger et al., "The Use of Online Crime Markets by Cybercriminal Networks: A View From Within." (American Behavioral Scientist, 2017), which functions do online offender convergence settings have for cybercriminal networks? Learning, market, social, all.
-
-Behaviour is defined as a function of ability, motivation, and opportunity. Which of the following options are true? Select all that hold:
-All conditions must always be present to obtain the desired behaviour.
-To change those conditions, it is important to always perform a tailored evaluation of the conditions in an organization, for the specific employees whom behaviour one wants to change.
-
-
-
-Stimulus, perception, attention, System-1/2 cognition, behaviour, and {attacker,target} parameters constitute the "building blocks" of the human cognitive process. Which of the following statements is true?
-Perception is in charge of translating stimuli in "percepts" generated from long term memory and put in working memory. These percepts are then passed on in the computation process and can influence its outcome. 
-The attacker parameters describe what the attacker assumes of the target. The more overlap between the attacker assumptions and the real target parameters, the more likely it is the target will fall for the attack.
-
--->
+- **Exploit-as-a-service**: exploit kits
 
 ## Impersonation in Email
 
@@ -886,3 +862,7 @@ The attacker parameters describe what the attacker assumes of the target. The mo
 - DMARC policy allows the sender to indicate that their email is protected by DKIM (address **spoofing**)
 - Tells the receiver what to do if the checks don't pass
 - Published in DNS records
+
+## Others
+
+- MITRE ATT&CK os a globally accessible knowdlege base of adversary tactics and techniques based on real-world observations.
