@@ -278,6 +278,30 @@ ML algorithms consist of 3 components:
 
 ## Linear Models
 
+- Predictions using a linear function of the input $X$: $f_{\mathbf{w}}(\mathbf{x}) = \sum_{i=1}^{p} w_i \cdot x_i + w_{0}$
+- Learn $w$ from $X$, given a loss function $\mathcal{L}$: $\underset{\mathbf{w}}{\operatorname{argmin}} \mathcal{L}(f_\mathbf{w}(X))$
+- Many algorithms with different loss functions: Least squares, ridge, lasso, logistic regression, linear SVMs, etc
+- Can be very powerful (and fast), especially for large datasets with many features
+- Can be generalized to learn non-linear patterns: Generalized Linear Models
+  - Features can be augmented with polynomials of the original features
+  - Features can be transformed according to a distribution (Poisson, Tweedie, Gamma, etc)
+  - Some linear models (e.g. SVMs) can be kernelized to learn non-linear functions
+
+### Regression
+
+- Prediction formula for input features $X$:
+  - $w_1$...$w_n$ usually called **weights** or **coefficients**, $w_0$ the **bias** or **intercept**
+  - Assumes that errors are $N(0,\sigma)$
+
+$$\hat{y} = \mathbf{w}\mathbf{x} + w_0 = \sum_{i=1}^{p} w_i \cdot x_i + w_0 = w_1 \cdot x_1 + w_2 \cdot x_2 + ... + w_p \cdot x_p + w_0 $$
+
+**Linear Regression (Ordinary Least Squares)**
+- Loss function is the sum of squared errors (SSE) between predictions $\hat{y}_i$ and true regression targets $y_i$ on the training set
+
+$$\mathcal{L}\_{SSE} = \sum\_{n=1}^{N} (y_n-\hat{y}\_n)^2 = \sum\_{n=1}^{N} (y\_n-(\mathbf{w}\mathbf{x\_n} + w\_0))^2$$
+
+**TODO**
+
 ## Kernelization
 
 ## Model Selection
@@ -285,6 +309,21 @@ ML algorithms consist of 3 components:
 ## Ensemble Learning
 
 ## Decision Trees
+
+- Representation: assume we can represent the concept we wanna learn with a decision tree
+  - Repeatedly split the data based on one feature at a time.
+  - Oblique trees can split on combinations of features.
+- Evaluation/loss: one tree is better than another tree according to some heuristic
+  - Classification: instances in a leaf are all of the same class (pure leafs)
+  - Regression: instances in a leaf have values close to each other
+- Optimization: recursive, heuristic greedy search (Hunt's algorithm)
+  - Make first split based heuristic
+  - In each branch, repeat splitting in the same way
+
+**Heuristics**
+- We start from a dataset of $n$ points 
+
+**TODO**
 
 ## Data Preprocessing
 
