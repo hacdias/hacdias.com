@@ -276,3 +276,24 @@ ML algorithms consist of 3 components:
 - Training is very fast, but predicting is slow for large datasets
 - Bad at high-dimensional and sparse data (Curse of Dimensionality)
 - Nearest centroid is a useful parametric alternative, but only if data is near linearly separable
+
+## Linear Models
+
+## Kernelization
+
+## Model Selection
+
+## Ensemble Learning
+
+## Decision Trees
+
+## Data Preprocessing
+
+## Bayesian Learning
+
+## Neural Networks
+
+## Convolutional Neural Networks
+
+## Neural Networks for Text
+
