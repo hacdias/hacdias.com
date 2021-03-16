@@ -1,7 +1,6 @@
 ---
-draft: true
 title: Machine Learning Engineering
-date: 2021-03-04T09:44:12.108105254Z
+lastmod: 2021-03-16T08:09:06.652718873Z
 math: true
 ---
 
@@ -296,4 +295,3 @@ ML algorithms consist of 3 components:
 ## Convolutional Neural Networks
 
 ## Neural Networks for Text
-
