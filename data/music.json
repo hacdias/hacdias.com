@@ -2,13 +2,8 @@
   "artists": [
     {
       "name": "Sia",
-      "count": 24,
+      "count": 22,
       "url": "https://www.last.fm/music/Sia"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 10,
-      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "The Best Coach Songs in the Blind Auditions of The Voice 2020",
@@ -16,9 +11,14 @@
       "url": "https://www.last.fm/music/The+Best+Coach+Songs+in+the+Blind+Auditions+of+The+Voice+2020"
     },
     {
-      "name": "Alma",
+      "name": "Olly Murs",
+      "count": 6,
+      "url": "https://www.last.fm/music/Olly+Murs"
+    },
+    {
+      "name": "a.Rose",
       "count": 5,
-      "url": "https://www.last.fm/music/Alma"
+      "url": "https://www.last.fm/music/a.Rose"
     },
     {
       "name": "Coaches giving the Blind Auditions a try on The Voice",
@@ -26,9 +26,9 @@
       "url": "https://www.last.fm/music/Coaches+giving+the+Blind+Auditions+a+try+on+The+Voice"
     },
     {
-      "name": "Olly Murs",
+      "name": "HAIM",
       "count": 5,
-      "url": "https://www.last.fm/music/Olly+Murs"
+      "url": "https://www.last.fm/music/HAIM"
     },
     {
       "name": "The most ICONIC Movie Songs on The Voice",
@@ -36,9 +36,9 @@
       "url": "https://www.last.fm/music/The+most+ICONIC+Movie+Songs+on+The+Voice"
     },
     {
-      "name": "David Guetta",
+      "name": "Blanche",
       "count": 4,
-      "url": "https://www.last.fm/music/David+Guetta"
+      "url": "https://www.last.fm/music/Blanche"
     },
     {
       "name": "The MOST UNIQUE & SURPRISING Blind Auditions of 2020 on The Voice",
@@ -46,29 +46,41 @@
       "url": "https://www.last.fm/music/The+MOST+UNIQUE+&+SURPRISING+Blind+Auditions+of+2020+on+The+Voice"
     },
     {
-      "name": "Lost Frequencies",
+      "name": "Billie Eilish",
       "count": 3,
-      "url": "https://www.last.fm/music/Lost+Frequencies"
+      "url": "https://www.last.fm/music/Billie+Eilish"
     }
   ],
   "tracks": [
     {
       "name": "Wrapped Up (feat. Travie McCoy)",
       "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 5,
+      "count": 6,
       "artist": "Olly Murs"
     },
     {
       "name": "i love you",
       "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
-      "count": 2,
+      "count": 3,
       "artist": "Billie Eilish"
     },
     {
       "name": "Diet Mountain Dew",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 2,
+      "count": 3,
       "artist": "Lana Del Rey"
+    },
+    {
+      "name": "Clouds",
+      "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
+      "count": 3,
+      "artist": "Slayyyter"
+    },
+    {
+      "name": "Drama Queen",
+      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
+      "count": 2,
+      "artist": "a.Rose"
     },
     {
       "name": "Floating through Space",
@@ -99,18 +111,6 @@
       "url": "https://www.last.fm/music/Sia/_/Together",
       "count": 2,
       "artist": "Sia"
-    },
-    {
-      "name": "Clouds",
-      "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 2,
-      "artist": "Slayyyter"
-    },
-    {
-      "name": "Strength from Inside",
-      "url": "https://www.last.fm/music/Above+&+Beyond/_/Strength+from+Inside",
-      "count": 1,
-      "artist": "Above & Beyond"
     }
   ]
 }
