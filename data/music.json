@@ -26,29 +26,29 @@
       "url": "https://www.last.fm/music/Coaches+giving+the+Blind+Auditions+a+try+on+The+Voice"
     },
     {
+      "name": "Coldplay",
+      "count": 5,
+      "url": "https://www.last.fm/music/Coldplay"
+    },
+    {
+      "name": "Daði Freyr",
+      "count": 5,
+      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
+    },
+    {
       "name": "HAIM",
       "count": 5,
       "url": "https://www.last.fm/music/HAIM"
     },
     {
+      "name": "Lady Gaga",
+      "count": 5,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
       "name": "The most ICONIC Movie Songs on The Voice",
       "count": 5,
       "url": "https://www.last.fm/music/The+most+ICONIC+Movie+Songs+on+The+Voice"
-    },
-    {
-      "name": "Blanche",
-      "count": 4,
-      "url": "https://www.last.fm/music/Blanche"
-    },
-    {
-      "name": "The MOST UNIQUE & SURPRISING Blind Auditions of 2020 on The Voice",
-      "count": 4,
-      "url": "https://www.last.fm/music/The+MOST+UNIQUE+&+SURPRISING+Blind+Auditions+of+2020+on+The+Voice"
-    },
-    {
-      "name": "Billie Eilish",
-      "count": 3,
-      "url": "https://www.last.fm/music/Billie+Eilish"
     }
   ],
   "tracks": [
@@ -57,6 +57,12 @@
       "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
       "count": 6,
       "artist": "Olly Murs"
+    },
+    {
+      "name": "10 Years",
+      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
+      "count": 5,
+      "artist": "Daði Freyr"
     },
     {
       "name": "i love you",
@@ -83,34 +89,28 @@
       "artist": "a.Rose"
     },
     {
-      "name": "Floating through Space",
-      "url": "https://www.last.fm/music/Sia/_/Floating+through+Space",
+      "name": "Paradise",
+      "url": "https://www.last.fm/music/Coldplay/_/Paradise",
       "count": 2,
-      "artist": "Sia"
+      "artist": "Coldplay"
     },
     {
-      "name": "Hey Boy",
-      "url": "https://www.last.fm/music/Sia/_/Hey+Boy",
+      "name": "Anxious Alien",
+      "url": "https://www.last.fm/music/Hana/_/Anxious+Alien",
       "count": 2,
-      "artist": "Sia"
+      "artist": "Hana"
     },
     {
-      "name": "Oblivion (feat. Labrinth)",
-      "url": "https://www.last.fm/music/Sia/_/Oblivion+(feat.+Labrinth)",
+      "name": "Sexxx Dreams",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Sexxx+Dreams",
       "count": 2,
-      "artist": "Sia"
+      "artist": "Lady Gaga"
     },
     {
-      "name": "Saved My Life",
-      "url": "https://www.last.fm/music/Sia/_/Saved+My+Life",
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://www.last.fm/music/Roxette/_/It+Must+Have+Been+Love+-+From+the+Film+%22Pretty+Woman%22",
       "count": 2,
-      "artist": "Sia"
-    },
-    {
-      "name": "Together",
-      "url": "https://www.last.fm/music/Sia/_/Together",
-      "count": 2,
-      "artist": "Sia"
+      "artist": "Roxette"
     }
   ]
 }
