@@ -1813,6 +1813,16 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2021-03-20T19:44:59.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-03-20T19:44:51.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-03-18T21:18:52.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
@@ -1826,16 +1836,6 @@
       "title": "Good Girls",
       "watched": "2021-03-14T10:24:37.000Z",
       "url": "https://trakt.tv/shows/good-girls"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2021-03-13T21:49:33.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-03-13T21:32:11.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "Heathrow: Britain's Busiest Airport",
