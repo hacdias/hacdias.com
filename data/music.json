@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Sia",
-      "count": 22,
+      "count": 21,
       "url": "https://www.last.fm/music/Sia"
     },
     {
@@ -65,28 +65,22 @@
       "artist": "Daði Freyr"
     },
     {
-      "name": "i love you",
-      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
-      "count": 3,
-      "artist": "Billie Eilish"
-    },
-    {
-      "name": "Diet Mountain Dew",
-      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 3,
-      "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Clouds",
-      "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 3,
-      "artist": "Slayyyter"
-    },
-    {
       "name": "Drama Queen",
       "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
       "count": 2,
       "artist": "a.Rose"
+    },
+    {
+      "name": "i love you",
+      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
+      "count": 2,
+      "artist": "Billie Eilish"
+    },
+    {
+      "name": "Wolf at Your Door",
+      "url": "https://www.last.fm/music/Chloe+x+Halle/_/Wolf+at+Your+Door",
+      "count": 2,
+      "artist": "Chloe x Halle"
     },
     {
       "name": "Paradise",
@@ -105,6 +99,12 @@
       "url": "https://www.last.fm/music/Lady+Gaga/_/Sexxx+Dreams",
       "count": 2,
       "artist": "Lady Gaga"
+    },
+    {
+      "name": "Diet Mountain Dew",
+      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
+      "count": 2,
+      "artist": "Lana Del Rey"
     },
     {
       "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
