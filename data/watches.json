@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-03-22T18:21:43.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "Heathrow: Britain's Busiest Airport",
       "watched": "2021-03-21T06:11:20.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
@@ -1821,11 +1826,6 @@
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2021-03-20T19:44:59.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-03-20T19:44:51.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "RuPaul's Drag Race UK",
