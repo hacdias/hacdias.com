@@ -1,6 +1,6 @@
 ---
 title: Verification of Security Protocols
-lastmod: 2021-03-11T08:37:15.414256628Z
+lastmod: 2021-03-23T13:30:59.394545617Z
 math: true
 ---
 
@@ -122,7 +122,7 @@ math: true
 
 ## Secrecy
 
-- Conditional secrecy is used to check for attackers in internal threats.
+- **Conditional secrecy**: if not talking to spy, then message remains secret; is used to check for attackers in internal threats.
 - **Safe for secrecy**
   - A closed process $P$ is safe for secrecy iff $P \rightarrow_* Q$ implies that Q is not an error state.
 - **Robustly safe for secrecy**
