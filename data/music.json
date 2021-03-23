@@ -2,18 +2,43 @@
   "artists": [
     {
       "name": "Daði Freyr",
-      "count": 6,
+      "count": 9,
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
     },
     {
       "name": "a.Rose",
-      "count": 5,
+      "count": 8,
       "url": "https://www.last.fm/music/a.Rose"
+    },
+    {
+      "name": "Slayyyter",
+      "count": 7,
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    {
+      "name": "SZA",
+      "count": 7,
+      "url": "https://www.last.fm/music/SZA"
+    },
+    {
+      "name": "Olly Murs",
+      "count": 6,
+      "url": "https://www.last.fm/music/Olly+Murs"
+    },
+    {
+      "name": "Sia",
+      "count": 6,
+      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Coldplay",
       "count": 5,
       "url": "https://www.last.fm/music/Coldplay"
+    },
+    {
+      "name": "Ellie Goulding",
+      "count": 5,
+      "url": "https://www.last.fm/music/Ellie+Goulding"
     },
     {
       "name": "HAIM",
@@ -24,45 +49,38 @@
       "name": "Lady Gaga",
       "count": 5,
       "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Olly Murs",
-      "count": 5,
-      "url": "https://www.last.fm/music/Olly+Murs"
-    },
-    {
-      "name": "Blanche",
-      "count": 4,
-      "url": "https://www.last.fm/music/Blanche"
-    },
-    {
-      "name": "Chloe x Halle",
-      "count": 4,
-      "url": "https://www.last.fm/music/Chloe+x+Halle"
-    },
-    {
-      "name": "Ellie Goulding",
-      "count": 4,
-      "url": "https://www.last.fm/music/Ellie+Goulding"
-    },
-    {
-      "name": "SZA",
-      "count": 4,
-      "url": "https://www.last.fm/music/SZA"
     }
   ],
   "tracks": [
     {
       "name": "10 Years",
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
-      "count": 6,
+      "count": 9,
       "artist": "Daði Freyr"
+    },
+    {
+      "name": "Power Is Power (feat. The Weeknd & Travis Scott)",
+      "url": "https://www.last.fm/music/SZA/_/Power+Is+Power+(feat.+The+Weeknd+&+Travis+Scott)",
+      "count": 7,
+      "artist": "SZA"
     },
     {
       "name": "Wrapped Up (feat. Travie McCoy)",
       "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 5,
+      "count": 6,
       "artist": "Olly Murs"
+    },
+    {
+      "name": "Drama Queen",
+      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
+      "count": 5,
+      "artist": "a.Rose"
+    },
+    {
+      "name": "i love you",
+      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
+      "count": 4,
+      "artist": "Billie Eilish"
     },
     {
       "name": "Wolf at Your Door",
@@ -71,46 +89,28 @@
       "artist": "Chloe x Halle"
     },
     {
-      "name": "Power Is Power (feat. The Weeknd & Travis Scott)",
-      "url": "https://www.last.fm/music/SZA/_/Power+Is+Power+(feat.+The+Weeknd+&+Travis+Scott)",
-      "count": 4,
-      "artist": "SZA"
-    },
-    {
       "name": "Hollow Crown",
       "url": "https://www.last.fm/music/Ellie+Goulding/_/Hollow+Crown",
-      "count": 3,
+      "count": 4,
       "artist": "Ellie Goulding"
+    },
+    {
+      "name": "Diet Mountain Dew",
+      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
+      "count": 4,
+      "artist": "Lana Del Rey"
     },
     {
       "name": "Kingdom of One",
       "url": "https://www.last.fm/music/Maren+Morris/_/Kingdom+of+One",
-      "count": 3,
+      "count": 4,
       "artist": "Maren Morris"
     },
     {
-      "name": "Nightshade",
-      "url": "https://www.last.fm/music/The+Lumineers/_/Nightshade",
-      "count": 3,
-      "artist": "The Lumineers"
-    },
-    {
-      "name": "Baptize Me",
-      "url": "https://www.last.fm/music/X+Ambassadors/_/Baptize+Me",
-      "count": 3,
-      "artist": "X Ambassadors"
-    },
-    {
-      "name": "Drama Queen",
-      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
-      "count": 2,
-      "artist": "a.Rose"
-    },
-    {
-      "name": "Too Many Gods",
-      "url": "https://www.last.fm/music/A$AP+Rocky/_/Too+Many+Gods",
-      "count": 2,
-      "artist": "A$AP Rocky"
+      "name": "Clouds",
+      "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
+      "count": 4,
+      "artist": "Slayyyter"
     }
   ]
 }
