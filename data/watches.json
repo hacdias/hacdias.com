@@ -1813,6 +1813,11 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-03-24T11:28:17.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Heathrow: Britain's Busiest Airport",
       "watched": "2021-03-21T06:11:20.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
@@ -1851,11 +1856,6 @@
       "title": "Shadowhunters",
       "watched": "2021-03-12T12:16:22.000Z",
       "url": "https://trakt.tv/shows/shadowhunters"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-03-10T18:22:50.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
