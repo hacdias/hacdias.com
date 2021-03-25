@@ -2,33 +2,38 @@
   "artists": [
     {
       "name": "Daði Freyr",
-      "count": 12,
+      "count": 14,
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
     },
     {
-      "name": "SZA",
-      "count": 10,
-      "url": "https://www.last.fm/music/SZA"
-    },
-    {
       "name": "a.Rose",
-      "count": 10,
+      "count": 12,
       "url": "https://www.last.fm/music/a.Rose"
     },
     {
-      "name": "Slayyyter",
-      "count": 9,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
-      "name": "Sia",
-      "count": 7,
-      "url": "https://www.last.fm/music/Sia"
+      "name": "SZA",
+      "count": 11,
+      "url": "https://www.last.fm/music/SZA"
     },
     {
       "name": "Olly Murs",
-      "count": 7,
+      "count": 10,
       "url": "https://www.last.fm/music/Olly+Murs"
+    },
+    {
+      "name": "Slayyyter",
+      "count": 10,
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    {
+      "name": "Lana Del Rey",
+      "count": 7,
+      "url": "https://www.last.fm/music/Lana+Del+Rey"
+    },
+    {
+      "name": "Sia",
+      "count": 6,
+      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Coldplay",
@@ -41,51 +46,46 @@
       "url": "https://www.last.fm/music/HAIM"
     },
     {
-      "name": "Lana Del Rey",
-      "count": 5,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
-    },
-    {
-      "name": "Blanche",
+      "name": "Alice Chater",
       "count": 4,
-      "url": "https://www.last.fm/music/Blanche"
+      "url": "https://www.last.fm/music/Alice+Chater"
     }
   ],
   "tracks": [
     {
       "name": "10 Years",
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
-      "count": 12,
+      "count": 14,
       "artist": "Daði Freyr"
     },
     {
       "name": "Power Is Power (feat. The Weeknd & Travis Scott)",
       "url": "https://www.last.fm/music/SZA/_/Power+Is+Power+(feat.+The+Weeknd+&+Travis+Scott)",
-      "count": 10,
+      "count": 11,
       "artist": "SZA"
-    },
-    {
-      "name": "Drama Queen",
-      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
-      "count": 7,
-      "artist": "a.Rose"
     },
     {
       "name": "Wrapped Up (feat. Travie McCoy)",
       "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 7,
+      "count": 10,
       "artist": "Olly Murs"
+    },
+    {
+      "name": "Drama Queen",
+      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
+      "count": 9,
+      "artist": "a.Rose"
     },
     {
       "name": "Diet Mountain Dew",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 5,
+      "count": 7,
       "artist": "Lana Del Rey"
     },
     {
       "name": "Clouds",
       "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 5,
+      "count": 6,
       "artist": "Slayyyter"
     },
     {
