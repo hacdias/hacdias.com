@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Daði Freyr",
-      "count": 17,
+      "count": 12,
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
     },
     {
@@ -27,8 +27,13 @@
     },
     {
       "name": "Sia",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Sia"
+    },
+    {
+      "name": "Ellie Goulding",
+      "count": 6,
+      "url": "https://www.last.fm/music/Ellie+Goulding"
     },
     {
       "name": "Lana Del Rey",
@@ -36,26 +41,21 @@
       "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
-      "name": "Chloe x Halle",
-      "count": 5,
-      "url": "https://www.last.fm/music/Chloe+x+Halle"
-    },
-    {
-      "name": "Ellie Goulding",
-      "count": 5,
-      "url": "https://www.last.fm/music/Ellie+Goulding"
-    },
-    {
       "name": "Maren Morris",
       "count": 5,
       "url": "https://www.last.fm/music/Maren+Morris"
+    },
+    {
+      "name": "The Lumineers",
+      "count": 5,
+      "url": "https://www.last.fm/music/The+Lumineers"
     }
   ],
   "tracks": [
     {
       "name": "10 Years",
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
-      "count": 17,
+      "count": 12,
       "artist": "Daði Freyr"
     },
     {
@@ -83,12 +83,6 @@
       "artist": "Lana Del Rey"
     },
     {
-      "name": "Wolf at Your Door",
-      "url": "https://www.last.fm/music/Chloe+x+Halle/_/Wolf+at+Your+Door",
-      "count": 5,
-      "artist": "Chloe x Halle"
-    },
-    {
       "name": "Hollow Crown",
       "url": "https://www.last.fm/music/Ellie+Goulding/_/Hollow+Crown",
       "count": 5,
@@ -111,6 +105,12 @@
       "url": "https://www.last.fm/music/The+Lumineers/_/Nightshade",
       "count": 5,
       "artist": "The Lumineers"
+    },
+    {
+      "name": "Baptize Me",
+      "url": "https://www.last.fm/music/X+Ambassadors/_/Baptize+Me",
+      "count": 5,
+      "artist": "X Ambassadors"
     }
   ]
 }
