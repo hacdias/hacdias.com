@@ -6,9 +6,9 @@
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
     },
     {
-      "name": "SZA",
-      "count": 12,
-      "url": "https://www.last.fm/music/SZA"
+      "name": "Slayyyter",
+      "count": 11,
+      "url": "https://www.last.fm/music/Slayyyter"
     },
     {
       "name": "a.Rose",
@@ -16,13 +16,8 @@
       "url": "https://www.last.fm/music/a.Rose"
     },
     {
-      "name": "Slayyyter",
-      "count": 10,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
       "name": "Olly Murs",
-      "count": 9,
+      "count": 10,
       "url": "https://www.last.fm/music/Olly+Murs"
     },
     {
@@ -31,24 +26,29 @@
       "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "Ellie Goulding",
-      "count": 6,
-      "url": "https://www.last.fm/music/Ellie+Goulding"
+      "name": "SZA",
+      "count": 8,
+      "url": "https://www.last.fm/music/SZA"
     },
     {
       "name": "Grimes",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Grimes"
     },
     {
+      "name": "Lady Gaga",
+      "count": 7,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
       "name": "Lana Del Rey",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
-      "name": "Maren Morris",
-      "count": 6,
-      "url": "https://www.last.fm/music/Maren+Morris"
+      "name": "Britney Spears",
+      "count": 5,
+      "url": "https://www.last.fm/music/Britney+Spears"
     }
   ],
   "tracks": [
@@ -59,12 +59,6 @@
       "artist": "Daði Freyr"
     },
     {
-      "name": "Power Is Power (feat. The Weeknd & Travis Scott)",
-      "url": "https://www.last.fm/music/SZA/_/Power+Is+Power+(feat.+The+Weeknd+&+Travis+Scott)",
-      "count": 12,
-      "artist": "SZA"
-    },
-    {
       "name": "Drama Queen",
       "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
       "count": 10,
@@ -73,44 +67,50 @@
     {
       "name": "Wrapped Up (feat. Travie McCoy)",
       "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 9,
+      "count": 10,
       "artist": "Olly Murs"
+    },
+    {
+      "name": "Power Is Power (feat. The Weeknd & Travis Scott)",
+      "url": "https://www.last.fm/music/SZA/_/Power+Is+Power+(feat.+The+Weeknd+&+Travis+Scott)",
+      "count": 8,
+      "artist": "SZA"
     },
     {
       "name": "Diet Mountain Dew",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 6,
+      "count": 7,
       "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Kingdom of One",
-      "url": "https://www.last.fm/music/Maren+Morris/_/Kingdom+of+One",
-      "count": 6,
-      "artist": "Maren Morris"
-    },
-    {
-      "name": "Hollow Crown",
-      "url": "https://www.last.fm/music/Ellie+Goulding/_/Hollow+Crown",
-      "count": 5,
-      "artist": "Ellie Goulding"
     },
     {
       "name": "IDORU",
       "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 5,
+      "count": 6,
       "artist": "Grimes"
-    },
-    {
-      "name": "From the Grave",
-      "url": "https://www.last.fm/music/James+Arthur/_/From+the+Grave",
-      "count": 5,
-      "artist": "James Arthur"
     },
     {
       "name": "Clouds",
       "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 5,
+      "count": 6,
       "artist": "Slayyyter"
+    },
+    {
+      "name": "Wonderland (My Name Is Alice)",
+      "url": "https://www.last.fm/music/Alice+Chater/_/Wonderland+(My+Name+Is+Alice)",
+      "count": 4,
+      "artist": "Alice Chater"
+    },
+    {
+      "name": "i love you",
+      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
+      "count": 4,
+      "artist": "Billie Eilish"
+    },
+    {
+      "name": "From the Grave",
+      "url": "https://www.last.fm/music/James+Arthur/_/From+the+Grave",
+      "count": 3,
+      "artist": "James Arthur"
     }
   ]
 }
