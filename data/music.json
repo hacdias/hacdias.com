@@ -1,14 +1,14 @@
 {
   "artists": [
     {
-      "name": "Daði Freyr",
-      "count": 10,
-      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
-    },
-    {
       "name": "a.Rose",
       "count": 8,
       "url": "https://www.last.fm/music/a.Rose"
+    },
+    {
+      "name": "Daði Freyr",
+      "count": 7,
+      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
     },
     {
       "name": "Lady Gaga",
@@ -17,13 +17,13 @@
     },
     {
       "name": "Olly Murs",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Olly+Murs"
     },
     {
-      "name": "Slayyyter",
+      "name": "September",
       "count": 6,
-      "url": "https://www.last.fm/music/Slayyyter"
+      "url": "https://www.last.fm/music/September"
     },
     {
       "name": "Britney Spears",
@@ -31,33 +31,27 @@
       "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
-      "name": "Grimes",
+      "name": "Slayyyter",
       "count": 5,
-      "url": "https://www.last.fm/music/Grimes"
+      "url": "https://www.last.fm/music/Slayyyter"
     },
     {
       "name": "Lana Del Rey",
-      "count": 5,
+      "count": 4,
       "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
-      "name": "SZA",
-      "count": 5,
-      "url": "https://www.last.fm/music/SZA"
+      "name": "Grimes",
+      "count": 3,
+      "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "September",
-      "count": 4,
-      "url": "https://www.last.fm/music/September"
+      "name": "Imagine Dragons",
+      "count": 3,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
     }
   ],
   "tracks": [
-    {
-      "name": "10 Years",
-      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
-      "count": 10,
-      "artist": "Daði Freyr"
-    },
     {
       "name": "Drama Queen",
       "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
@@ -65,34 +59,28 @@
       "artist": "a.Rose"
     },
     {
+      "name": "10 Years",
+      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
+      "count": 7,
+      "artist": "Daði Freyr"
+    },
+    {
       "name": "Wrapped Up (feat. Travie McCoy)",
       "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 7,
+      "count": 6,
       "artist": "Olly Murs"
-    },
-    {
-      "name": "Diet Mountain Dew",
-      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 5,
-      "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Power Is Power (feat. The Weeknd & Travis Scott)",
-      "url": "https://www.last.fm/music/SZA/_/Power+Is+Power+(feat.+The+Weeknd+&+Travis+Scott)",
-      "count": 5,
-      "artist": "SZA"
-    },
-    {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 4,
-      "artist": "Grimes"
     },
     {
       "name": "Cry For You",
       "url": "https://www.last.fm/music/September/_/Cry+For+You",
-      "count": 4,
+      "count": 6,
       "artist": "September"
+    },
+    {
+      "name": "Diet Mountain Dew",
+      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
+      "count": 4,
+      "artist": "Lana Del Rey"
     },
     {
       "name": "Clouds",
@@ -107,10 +95,22 @@
       "artist": "Billie Eilish"
     },
     {
+      "name": "IDORU",
+      "url": "https://www.last.fm/music/Grimes/_/IDORU",
+      "count": 2,
+      "artist": "Grimes"
+    },
+    {
       "name": "From the Grave",
       "url": "https://www.last.fm/music/James+Arthur/_/From+the+Grave",
       "count": 2,
       "artist": "James Arthur"
+    },
+    {
+      "name": "Bad Romance",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Bad+Romance",
+      "count": 2,
+      "artist": "Lady Gaga"
     }
   ]
 }
