@@ -1,9 +1,19 @@
 {
   "artists": [
     {
-      "name": "Daði Freyr",
+      "name": "September",
+      "count": 8,
+      "url": "https://www.last.fm/music/September"
+    },
+    {
+      "name": "Slayyyter",
+      "count": 8,
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    {
+      "name": "a.Rose",
       "count": 7,
-      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
+      "url": "https://www.last.fm/music/a.Rose"
     },
     {
       "name": "Lady Gaga",
@@ -11,14 +21,14 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "September",
-      "count": 7,
-      "url": "https://www.last.fm/music/September"
+      "name": "Billie Eilish",
+      "count": 6,
+      "url": "https://www.last.fm/music/Billie+Eilish"
     },
     {
-      "name": "a.Rose",
+      "name": "Daði Freyr",
       "count": 6,
-      "url": "https://www.last.fm/music/a.Rose"
+      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
     },
     {
       "name": "Britney Spears",
@@ -26,89 +36,79 @@
       "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
-      "name": "Slayyyter",
-      "count": 5,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
-      "name": "Billie Eilish",
-      "count": 3,
-      "url": "https://www.last.fm/music/Billie+Eilish"
-    },
-    {
       "name": "Grimes",
-      "count": 3,
+      "count": 5,
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Imagine Dragons",
-      "count": 3,
-      "url": "https://www.last.fm/music/Imagine+Dragons"
+      "name": "Lana Del Rey",
+      "count": 4,
+      "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
-      "name": "Lana Del Rey",
-      "count": 3,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
+      "name": "Olly Murs",
+      "count": 4,
+      "url": "https://www.last.fm/music/Olly+Murs"
     }
   ],
   "tracks": [
     {
-      "name": "10 Years",
-      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
-      "count": 7,
-      "artist": "Daði Freyr"
-    },
-    {
       "name": "Cry For You",
       "url": "https://www.last.fm/music/September/_/Cry+For+You",
-      "count": 7,
+      "count": 8,
       "artist": "September"
     },
     {
       "name": "Drama Queen",
       "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
-      "count": 6,
+      "count": 7,
       "artist": "a.Rose"
     },
     {
       "name": "i love you",
       "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
-      "count": 3,
+      "count": 6,
       "artist": "Billie Eilish"
     },
     {
-      "name": "Diet Mountain Dew",
-      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 3,
-      "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Wrapped Up (feat. Travie McCoy)",
-      "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 3,
-      "artist": "Olly Murs"
+      "name": "10 Years",
+      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
+      "count": 6,
+      "artist": "Daði Freyr"
     },
     {
       "name": "Clouds",
       "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 3,
+      "count": 6,
       "artist": "Slayyyter"
     },
     {
       "name": "IDORU",
       "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 2,
+      "count": 4,
       "artist": "Grimes"
     },
     {
-      "name": "From the Grave",
-      "url": "https://www.last.fm/music/James+Arthur/_/From+the+Grave",
-      "count": 2,
-      "artist": "James Arthur"
+      "name": "Diet Mountain Dew",
+      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
+      "count": 4,
+      "artist": "Lana Del Rey"
+    },
+    {
+      "name": "Wrapped Up (feat. Travie McCoy)",
+      "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
+      "count": 4,
+      "artist": "Olly Murs"
     },
     {
       "name": "Bad Romance",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Bad+Romance",
+      "count": 2,
+      "artist": "Lady Gaga"
+    },
+    {
+      "name": "Telephone (feat. Beyoncé)",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Telephone+(feat.+Beyonc%C3%A9)",
       "count": 2,
       "artist": "Lady Gaga"
     }
