@@ -1813,6 +1813,16 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race: Untucked!",
+      "watched": "2021-04-03T20:11:22.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-04-03T20:11:17.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2021-04-02T12:10:33.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
@@ -1831,16 +1841,6 @@
       "title": "Heathrow: Britain's Busiest Airport",
       "watched": "2021-03-28T20:44:59.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-03-27T21:55:43.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "RuPaul's Drag Race: Untucked!",
-      "watched": "2021-03-20T19:44:59.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
     },
     {
       "title": "RuPaul's Drag Race UK",
