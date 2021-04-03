@@ -1,6 +1,11 @@
 {
   "artists": [
     {
+      "name": "Lady Gaga",
+      "count": 8,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
       "name": "September",
       "count": 8,
       "url": "https://www.last.fm/music/September"
@@ -16,14 +21,14 @@
       "url": "https://www.last.fm/music/a.Rose"
     },
     {
-      "name": "Lady Gaga",
-      "count": 7,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Billie Eilish",
       "count": 6,
       "url": "https://www.last.fm/music/Billie+Eilish"
+    },
+    {
+      "name": "Britney Spears",
+      "count": 6,
+      "url": "https://www.last.fm/music/Britney+Spears"
     },
     {
       "name": "Daði Freyr",
@@ -31,24 +36,19 @@
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
     },
     {
-      "name": "Britney Spears",
-      "count": 5,
-      "url": "https://www.last.fm/music/Britney+Spears"
-    },
-    {
       "name": "Grimes",
       "count": 5,
       "url": "https://www.last.fm/music/Grimes"
     },
     {
+      "name": "Just Girls",
+      "count": 4,
+      "url": "https://www.last.fm/music/Just+Girls"
+    },
+    {
       "name": "Lana Del Rey",
       "count": 4,
       "url": "https://www.last.fm/music/Lana+Del+Rey"
-    },
-    {
-      "name": "Olly Murs",
-      "count": 4,
-      "url": "https://www.last.fm/music/Olly+Murs"
     }
   ],
   "tracks": [
@@ -101,14 +101,14 @@
       "artist": "Olly Murs"
     },
     {
-      "name": "Bad Romance",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Bad+Romance",
-      "count": 2,
+      "name": "Telephone (feat. Beyoncé)",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Telephone+(feat.+Beyonc%C3%A9)",
+      "count": 3,
       "artist": "Lady Gaga"
     },
     {
-      "name": "Telephone (feat. Beyoncé)",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Telephone+(feat.+Beyonc%C3%A9)",
+      "name": "Bad Romance",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Bad+Romance",
       "count": 2,
       "artist": "Lady Gaga"
     }
