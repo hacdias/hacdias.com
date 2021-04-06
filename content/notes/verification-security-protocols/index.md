@@ -1,6 +1,6 @@
 ---
 title: Verification of Security Protocols
-lastmod: 2021-03-23T13:30:59.394545617Z
+lastmod: 2021-04-06T14:43:11.724828334Z
 math: true
 ---
 
@@ -11,10 +11,11 @@ math: true
 ## Agents
 
 - **Honest**: participate in the protocol in cooperation to achieve the protocol goal.
-- **Dishonest** (aka **attackers**): claim to be regular participants, but try to subvert the protocol or act on their own advantage against the protocol rules. Examples:
+- **Dishonest**: claim to be regular participants, but try to subvert the protocol or act on their own advantage against the protocol rules. Examples:
 	- Compromised machines where attackers got hold of cryptographic keys.
 	- Compromised users that somehow got their cryptographic keys certified.
 	- Electronic merchants that falsely deny receiving a payment, clients of electronic merchant that falsely deny making an order.
+- **Hostile agents** are both dishonest participants and outsiders are called **attackers**.
 
 ## Channels
 
@@ -35,16 +36,12 @@ math: true
 	- TCP governs computer interactions over an IP network.
 	- HTTP governs the exchange of data in HTML format.
 	- SMTP governs the exchange of e-mail.
-- Usually assume:
-	- Trusted channels.
-	- Honest participants.
+- Usually assumes: trusted channels, honest participants.
 
 ## Security Protocol
 
-- Communication protocol
-- Assumes:
-	- Untrusted channels; and/or
-	- Among untrusted agents.
+- Communication protocol.
+- Usually assumes: untrusted channels and/or dishonest agents.
 - Often to provide security services, such as authentication.
 - Use cryptographic primitives:
 	- Symmetric and asymmetric encryption.
@@ -64,7 +61,7 @@ math: true
 
 ### Security Protocol Goals
 
-1. **Secrecy** (aka confidentiality): prevention of unauthorized disclosure of information. Weak version: attackers cannot deduce content of messages. Strong version: attackers cannot deduce content, length or any other information of the messages.
+1. **Secrecy** (aka confidentiality): prevention of unauthorized disclosure of information.
 2. **! Authentication**: verify that claimed identity of a user (user auth); verify that a message comes from the agent it claims to come from (message auth).
 3. **! Integrity**: prevention of unauthorized modification of information. Can be seen as an instance of message authentication.
 4. **Anonymity**: prevent identification specific properties of individual events within a set of events. Examples: voter anonymity, anonymous network.
@@ -132,6 +129,7 @@ math: true
   - **Definition 1**: $P$ preserves strong secrecy of $\overline x$ iff $P(\overline M) \simeq P(\overline N)$ for all closed messages $\overline M$, $\overline N$.
   - **Definition 2**: $P$ preserves strong secrecy when $P(\overline M)|O \Downarrow c \Leftrightarrow P(\overline {M'}) \Downarrow c $ for every opponent $O$ and channel $c$.
   - Prevents both direct data flows and implicit information flows.
+  - Intuitive: attackers cannot deduce content, length or any other information of the messages.
   - Example
     - P(x, y) == new k; (out net {x} k; | out net {y} k; )
     - P(x, y) does not preserve strong secrecy of x and y because we can see that P(M, N) != P(M, N) when M != N.
