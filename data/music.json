@@ -16,24 +16,9 @@
       "url": "https://www.last.fm/music/Just+Girls"
     },
     {
-      "name": "Lana Del Rey",
+      "name": "Lady Gaga",
       "count": 4,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
-    },
-    {
-      "name": "Slayyyter",
-      "count": 4,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
-      "name": "a.Rose",
-      "count": 3,
-      "url": "https://www.last.fm/music/a.Rose"
-    },
-    {
-      "name": "Billie Eilish",
-      "count": 3,
-      "url": "https://www.last.fm/music/Billie+Eilish"
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Grimes",
@@ -41,9 +26,24 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Lady Gaga",
+      "name": "Lana Del Rey",
       "count": 3,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "url": "https://www.last.fm/music/Lana+Del+Rey"
+    },
+    {
+      "name": "Slayyyter",
+      "count": 3,
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    {
+      "name": "a.Rose",
+      "count": 2,
+      "url": "https://www.last.fm/music/a.Rose"
+    },
+    {
+      "name": "Billie Eilish",
+      "count": 2,
+      "url": "https://www.last.fm/music/Billie+Eilish"
     },
     {
       "name": "Britney Spears",
@@ -55,20 +55,8 @@
     {
       "name": "Clouds",
       "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 4,
+      "count": 3,
       "artist": "Slayyyter"
-    },
-    {
-      "name": "Drama Queen",
-      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
-      "count": 3,
-      "artist": "a.Rose"
-    },
-    {
-      "name": "i love you",
-      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
-      "count": 3,
-      "artist": "Billie Eilish"
     },
     {
       "name": "Esticar a corda",
@@ -77,10 +65,16 @@
       "artist": "4Taste"
     },
     {
-      "name": "10 Years",
-      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
+      "name": "Drama Queen",
+      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
       "count": 2,
-      "artist": "Daði Freyr"
+      "artist": "a.Rose"
+    },
+    {
+      "name": "i love you",
+      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
+      "count": 2,
+      "artist": "Billie Eilish"
     },
     {
       "name": "IDORU",
@@ -89,28 +83,34 @@
       "artist": "Grimes"
     },
     {
+      "name": "Just Dance",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Just+Dance",
+      "count": 2,
+      "artist": "Lady Gaga"
+    },
+    {
       "name": "Born to Die",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Born+to+Die",
       "count": 2,
       "artist": "Lana Del Rey"
     },
     {
-      "name": "Diet Mountain Dew",
-      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 2,
-      "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Wrapped Up (feat. Travie McCoy)",
-      "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 2,
-      "artist": "Olly Murs"
-    },
-    {
       "name": "Start Me Up",
       "url": "https://www.last.fm/music/Patricia/_/Start+Me+Up",
       "count": 2,
       "artist": "Patricia"
+    },
+    {
+      "name": "Pon de Replay",
+      "url": "https://www.last.fm/music/Rihanna/_/Pon+de+Replay",
+      "count": 2,
+      "artist": "Rihanna"
+    },
+    {
+      "name": "Dancing on My Own",
+      "url": "https://www.last.fm/music/Robyn/_/Dancing+on+My+Own",
+      "count": 2,
+      "artist": "Robyn"
     }
   ]
 }
