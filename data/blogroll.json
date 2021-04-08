@@ -6,7 +6,7 @@
       "title": "/weblog/"
     },
     {
-      "feed": "https://aaronparecki.com/feed.json",
+      "feed": "https://aaronparecki.com/feed.xml",
       "site": "https://aaronparecki.com/",
       "title": "Aaron Parecki"
     },
@@ -91,13 +91,13 @@
       "title": "Jake Bauer"
     },
     {
-      "feed": "https://feeds.feedburner.com/fennifith",
-      "site": "https://jfenn.me",
+      "feed": "https://jfenn.me/blog/feed.xml",
+      "site": "https://jfenn.me/",
       "title": "James Fenn"
     },
     {
-      "feed": "https://jfenn.me/blog/feed.xml",
-      "site": "https://jfenn.me/",
+      "feed": "https://feeds.feedburner.com/fennifith",
+      "site": "https://jfenn.me",
       "title": "James Fenn"
     },
     {
