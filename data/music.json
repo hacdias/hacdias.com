@@ -6,99 +6,87 @@
       "url": "https://www.last.fm/music/Alexandre+Desplat"
     },
     {
-      "name": "4Taste",
-      "count": 4,
-      "url": "https://www.last.fm/music/4Taste"
-    },
-    {
-      "name": "Just Girls",
-      "count": 4,
-      "url": "https://www.last.fm/music/Just+Girls"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 4,
+      "count": 5,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Grimes",
-      "count": 3,
-      "url": "https://www.last.fm/music/Grimes"
-    },
-    {
-      "name": "Lana Del Rey",
-      "count": 3,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
-    },
-    {
-      "name": "Slayyyter",
-      "count": 3,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
-      "name": "a.Rose",
-      "count": 2,
-      "url": "https://www.last.fm/music/a.Rose"
-    },
-    {
-      "name": "Billie Eilish",
-      "count": 2,
-      "url": "https://www.last.fm/music/Billie+Eilish"
-    },
-    {
       "name": "Britney Spears",
-      "count": 2,
+      "count": 3,
       "url": "https://www.last.fm/music/Britney+Spears"
+    },
+    {
+      "name": "Ellie Goulding",
+      "count": 3,
+      "url": "https://www.last.fm/music/Ellie+Goulding"
+    },
+    {
+      "name": "Just Girls",
+      "count": 3,
+      "url": "https://www.last.fm/music/Just+Girls"
+    },
+    {
+      "name": "Allie X",
+      "count": 2,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Amy Macdonald",
+      "count": 2,
+      "url": "https://www.last.fm/music/Amy+Macdonald"
+    },
+    {
+      "name": "Eden",
+      "count": 2,
+      "url": "https://www.last.fm/music/Eden"
+    },
+    {
+      "name": "Kiesza",
+      "count": 2,
+      "url": "https://www.last.fm/music/Kiesza"
+    },
+    {
+      "name": "Kim Petras",
+      "count": 2,
+      "url": "https://www.last.fm/music/Kim+Petras"
     }
   ],
   "tracks": [
     {
-      "name": "Clouds",
-      "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 3,
-      "artist": "Slayyyter"
-    },
-    {
-      "name": "Esticar a corda",
-      "url": "https://www.last.fm/music/4Taste/_/Esticar+a+corda",
-      "count": 2,
-      "artist": "4Taste"
-    },
-    {
-      "name": "Drama Queen",
-      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
-      "count": 2,
-      "artist": "a.Rose"
-    },
-    {
-      "name": "i love you",
-      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
-      "count": 2,
-      "artist": "Billie Eilish"
-    },
-    {
-      "name": "IDORU",
-      "url": "https://www.last.fm/music/Grimes/_/IDORU",
-      "count": 2,
-      "artist": "Grimes"
-    },
-    {
       "name": "Just Dance",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Just+Dance",
-      "count": 2,
+      "count": 3,
       "artist": "Lady Gaga"
+    },
+    {
+      "name": "This Is the Life",
+      "url": "https://www.last.fm/music/Amy+Macdonald/_/This+Is+the+Life",
+      "count": 2,
+      "artist": "Amy Macdonald"
+    },
+    {
+      "name": "Circus",
+      "url": "https://www.last.fm/music/Britney+Spears/_/Circus",
+      "count": 2,
+      "artist": "Britney Spears"
+    },
+    {
+      "name": "Flux",
+      "url": "https://www.last.fm/music/Ellie+Goulding/_/Flux",
+      "count": 2,
+      "artist": "Ellie Goulding"
+    },
+    {
+      "name": "Hillside Boys",
+      "url": "https://www.last.fm/music/Kim+Petras/_/Hillside+Boys",
+      "count": 2,
+      "artist": "Kim Petras"
     },
     {
       "name": "Born to Die",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Born+to+Die",
       "count": 2,
       "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Start Me Up",
-      "url": "https://www.last.fm/music/Patricia/_/Start+Me+Up",
-      "count": 2,
-      "artist": "Patricia"
     },
     {
       "name": "Pon de Replay",
@@ -111,6 +99,18 @@
       "url": "https://www.last.fm/music/Robyn/_/Dancing+on+My+Own",
       "count": 2,
       "artist": "Robyn"
+    },
+    {
+      "name": "Jean Grey",
+      "url": "https://www.last.fm/music/Tunde+Olaniran/_/Jean+Grey",
+      "count": 2,
+      "artist": "Tunde Olaniran"
+    },
+    {
+      "name": "P'ra Te Ver",
+      "url": "https://www.last.fm/music/4Taste/_/P%27ra+Te+Ver",
+      "count": 1,
+      "artist": "4Taste"
     }
   ]
 }
