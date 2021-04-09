@@ -61,12 +61,12 @@ math: true
 
 ### Security Protocol Goals
 
-1. **Secrecy** (aka confidentiality): prevention of unauthorized disclosure of information.
-2. **! Authentication**: verify that claimed identity of a user (user auth); verify that a message comes from the agent it claims to come from (message auth).
-3. **! Integrity**: prevention of unauthorized modification of information. Can be seen as an instance of message authentication.
-4. **Anonymity**: prevent identification specific properties of individual events within a set of events. Examples: voter anonymity, anonymous network.
-5. **Unlinkability**: attacker cannot make connections between events. Example: attacker cannot understand whether an RFID tag he has seen is now communicating with the base station or not.
-6. **Non-repudiation**: preventing a sender (receiver) of a message from falsely denying that he has sent (received) the message. Example: a merchant may deny that he has received a payment, a client may deny that he made an order.
+1. **Secrecy** (confidentiality): prevention of unauthorized disclosure of information.
+2. **Authentication**: verify claimed identity of a user (user authentication); or verify that message comes from agent it claims to come from (message authentication).
+	-	**Integrity**: prevention of unauthorized modification of information. Can be seen as an instance of message authentication.
+3. **Anonymity**: prevent identification specific properties of individual events within a set of events. Examples: voter anonymity, anonymous network.
+4. **Unlinkability**: attacker cannot make connections between events. Example: attacker cannot understand whether an RFID tag he has seen is now communicating with the base station or not.
+5. **Non-repudiation**: preventing a sender (receiver) of a message from falsely denying that he has sent (received) the message. Example: a merchant may deny that he has received a payment, a client may deny that he made an order.
 	- **Fairness**: no participant can gain advantage over another by aborting a protocol. Example: online payments.
 	- **Availability**: prevention of unauthorized withholding of services and resources. More related to safety than security. Except DoS which is security.
 		- Safety: things don't go wrong when no attacker is present.
