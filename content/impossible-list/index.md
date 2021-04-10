@@ -22,7 +22,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 > Put simply, the impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. This is mine, which is, of course, ever-evolving. - Thomas Frank
 
-## Professional Goals
+## Professional / Education
 
 - ~~Finish my bachelor's degree~~ (July 2020)
 - Finish my master's degree
@@ -30,9 +30,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Give a talk to more than 100 people
 - ~~Write a self-published book~~  (February 2015, [link](/articles/2015/02/aprenda-a-programar/))
 - Write a fiction book
-
-## Skill Goals
-
 - Learn to play an instrument
 - ~~Become proficient in a second language~~ (September 2019, English C1)
 - ~~Become fluent in English~~
@@ -76,7 +73,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 - ~~Start studying Computer Science~~ (September 2017)
 - ~~Live abroad for more than 4 months~~ (January 2021)
-- Help people by volunteering
+- Help people by volunteering more
 - ~~Make my parents fly~~ (July 2019)
 - ~~Study abroad on Master's~~ (September 2020)
 - Interrail
