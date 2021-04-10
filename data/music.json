@@ -6,75 +6,99 @@
       "url": "https://www.last.fm/music/Alexandre+Desplat"
     },
     {
-      "name": "Lady Gaga",
-      "count": 5,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "name": "Miley Cyrus",
+      "count": 8,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Britney Spears",
-      "count": 3,
-      "url": "https://www.last.fm/music/Britney+Spears"
+      "name": "Dua Lipa",
+      "count": 6,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
+      "name": "Slayyyter",
+      "count": 6,
+      "url": "https://www.last.fm/music/Slayyyter"
     },
     {
       "name": "Ellie Goulding",
-      "count": 3,
+      "count": 4,
       "url": "https://www.last.fm/music/Ellie+Goulding"
     },
     {
-      "name": "Just Girls",
+      "name": "Lady Gaga",
+      "count": 4,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Lana Del Rey",
+      "count": 4,
+      "url": "https://www.last.fm/music/Lana+Del+Rey"
+    },
+    {
+      "name": "September",
+      "count": 4,
+      "url": "https://www.last.fm/music/September"
+    },
+    {
+      "name": "Sia",
+      "count": 4,
+      "url": "https://www.last.fm/music/Sia"
+    },
+    {
+      "name": "a.Rose",
       "count": 3,
-      "url": "https://www.last.fm/music/Just+Girls"
-    },
-    {
-      "name": "Allie X",
-      "count": 2,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
-      "name": "Amy Macdonald",
-      "count": 2,
-      "url": "https://www.last.fm/music/Amy+Macdonald"
-    },
-    {
-      "name": "Eden",
-      "count": 2,
-      "url": "https://www.last.fm/music/Eden"
-    },
-    {
-      "name": "Kiesza",
-      "count": 2,
-      "url": "https://www.last.fm/music/Kiesza"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 2,
-      "url": "https://www.last.fm/music/Kim+Petras"
+      "url": "https://www.last.fm/music/a.Rose"
     }
   ],
   "tracks": [
     {
-      "name": "Just Dance",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Just+Dance",
-      "count": 3,
-      "artist": "Lady Gaga"
-    },
-    {
-      "name": "This Is the Life",
-      "url": "https://www.last.fm/music/Amy+Macdonald/_/This+Is+the+Life",
-      "count": 2,
-      "artist": "Amy Macdonald"
-    },
-    {
-      "name": "Circus",
-      "url": "https://www.last.fm/music/Britney+Spears/_/Circus",
-      "count": 2,
-      "artist": "Britney Spears"
+      "name": "Cry For You",
+      "url": "https://www.last.fm/music/September/_/Cry+For+You",
+      "count": 4,
+      "artist": "September"
     },
     {
       "name": "Flux",
       "url": "https://www.last.fm/music/Ellie+Goulding/_/Flux",
-      "count": 2,
+      "count": 3,
       "artist": "Ellie Goulding"
+    },
+    {
+      "name": "I'm a Winner, Baby",
+      "url": "https://www.last.fm/music/RuPaul/_/I%27m+a+Winner,+Baby",
+      "count": 3,
+      "artist": "RuPaul"
+    },
+    {
+      "name": "Clouds",
+      "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
+      "count": 3,
+      "artist": "Slayyyter"
+    },
+    {
+      "name": "Drama Queen",
+      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
+      "count": 2,
+      "artist": "a.Rose"
+    },
+    {
+      "name": "Hot",
+      "url": "https://www.last.fm/music/Avril+Lavigne/_/Hot",
+      "count": 2,
+      "artist": "Avril Lavigne"
+    },
+    {
+      "name": "i love you",
+      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
+      "count": 2,
+      "artist": "Billie Eilish"
+    },
+    {
+      "name": "10 Years",
+      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
+      "count": 2,
+      "artist": "Daði Freyr"
     },
     {
       "name": "Hillside Boys",
@@ -87,30 +111,6 @@
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Born+to+Die",
       "count": 2,
       "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Pon de Replay",
-      "url": "https://www.last.fm/music/Rihanna/_/Pon+de+Replay",
-      "count": 2,
-      "artist": "Rihanna"
-    },
-    {
-      "name": "Dancing on My Own",
-      "url": "https://www.last.fm/music/Robyn/_/Dancing+on+My+Own",
-      "count": 2,
-      "artist": "Robyn"
-    },
-    {
-      "name": "Jean Grey",
-      "url": "https://www.last.fm/music/Tunde+Olaniran/_/Jean+Grey",
-      "count": 2,
-      "artist": "Tunde Olaniran"
-    },
-    {
-      "name": "P'ra Te Ver",
-      "url": "https://www.last.fm/music/4Taste/_/P%27ra+Te+Ver",
-      "count": 1,
-      "artist": "4Taste"
     }
   ]
 }
