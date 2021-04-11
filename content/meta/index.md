@@ -6,10 +6,6 @@ noMentions: true
 
 <p class="subtitle">I have been running this website since 2014. Since then, a lot has changed. My repository shows over 3000 commits and that's just the changes after I migrated to a static website.</p>
 
-<div class="box yellow word" data-word="Warning">
-  This page is a work in progress.
-</div>
-
 This website was started in 2014, when I was 14. The [first post](/articles/2014/07/apresentacao/) was still in Portuguese and that's where I said my "Hello, World" in a Portuguese fashion. For quite some time, I had different blogs and then I ended up [merging everything](/articles/2015/02/i-have-moved-again/) under my main domain, which, at the time, was **henriquedias.com**.
 
 I kept writing in Portuguese until the beginning of 2015. Then, I aimed for something more: to write in English. As a 15 year old, I felt the urge to develop my English skills and I thought having a blog would help. In retrospective, I am pretty sure it did!
@@ -105,6 +101,7 @@ When you visit one of my posts, you'll be able to see on the bottom a box where 
 
 </div>
 
+<!--
 ### Feeds
 
 All pages that list posts, such as [micro](/micro/) and [articles](/articles/), have three feeds attached to them: HTML ([Microformats](https://microformats.org/)), JSON and an RSS feed. If you want to follow all my posts, you can use the feed at the ["all"](/all) page. If you feed your RSS reader the page URL, it should be able to automatically detect the feed locations.
@@ -119,10 +116,10 @@ All pages that list posts, such as [micro](/micro/) and [articles](/articles/), 
 
 </div>
 
+-->
+
 ### Search
 
 One very important feature, personally, is the search feature. Right now, the search feature is available through the [search](/search) page only. However, in the future, I want to be able to search from any point of the website.
 
 The search is **not** static. I am self-hosting an instance of [MeiliSearch](https://docs.meilisearch.com/), an open-source and super fast search engine. It is very fast to index, very quick to search and allows for full-text search.
-
-### Guestbook
