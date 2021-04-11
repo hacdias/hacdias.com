@@ -25,16 +25,6 @@ Then:
 - Clean notes
 - Gallery of Winter pics?
 - Take pictures of old versions of my website
-- Improvements: Reading progress?
-- Revamp homepage
-  - Put some pictures?
-  - Larger?
-  - More predominance to latest articles (maybe revamp listings)
-  - More predominance to whats happening now
-
-May be useful: https://developer.mozilla.org/en-US/docs/Web/CSS/display
-
-display: flow-root
 
 ## Posts
 

@@ -45,14 +45,14 @@ menu:
   - name: 📸 Photos
     url: /photos/
     weight: 4
-  - name: 📓 Notes
-    url: /notes/
-    weight: 5
   - name: 📌 Links
     url: /links/
-    weight: 6
-  - name: ⚡️ Follow
+    weight: 5
+  - name: ⚡️ Subscribe
     url: /subscribe/
+    weight: 6
+  - name: 🌈 More
+    url: /more/
     weight: 7
 
 markup:

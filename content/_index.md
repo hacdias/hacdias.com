@@ -22,28 +22,6 @@ I publish a variety of content: from [articles](/articles/) and [photos](/photos
   </div>
 </div>
 
-### ⚡️ Subscribe {#subscribe}
-
-Do you like my content? [**Subscribe**](/subscribe/)!
-
-### 🥐 Stuff {#stuff}
-
-There's much more going on with this website than you might think at first sight 👀. Here are *some* other pages:
-
-- 📚 {{< latest-read >}}
-- 🎬 The [last movie](/watches/#movies) I watched was **{{< latest-watch type="movies" >}}**.
-- 📺 The [last episode](/watches/#series) I watched was **{{< latest-watch type="series" >}}**.
-- 🎶 The artist I've been [listening](/listens/) the most is **{{< recent-artist >}}**.
-- 🛠️ The tools I'm [using](/uses/).
-- ✉️ [**Contact**](/contact/), how to get in touch with me.
-- 🧪 [**Experiments**](/experiments/), a collection of weird experiments I made.
-- 🤯 [**Impossible List**](/impossible-list/), my, uh... impossible list.
-- 📌 [**Links**](/links/), a collection of interesting websites that I follow or find worth sharing.
-- 📓 [**Notes**](/notes/), my digital garden.
-- 📦 [**Projects**](/projects/), the major projects I've worked on.
-- 🔎 [**Search**](/search/), yes, this website can be searched on!
-- 🏷 [**Tags**](/tags/), uh, finding posts by tags.
-- 💥 I maintain an [XKCD clone](http://xkcd.hacdias.com/) on the IPFS network.
 ### 📝 Guestbook {#guestbook}
 
 {{< figure src="https://cdn.hacdias.com/u/2021-02-book-icon.gif" alt="Open Book" class="left pixelated" style="max-width: 60px; margin-top: 0; margin-right: 1rem;" >}}
