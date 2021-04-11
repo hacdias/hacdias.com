@@ -20,23 +20,21 @@ noMentions: true
 
 My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. However, if you want to contact me directly, here are my preferred ways to do so:
 
-1. ☎️ [Telegram (@hacdias)][tg].
-2. 🐦 [Twitter (@hacdias)][tw] direct or private message.
-3. ✉️ [E-mail (mail@hacdias.com)][mail] for longer conversations or if you don't have any of the above.
+- ☎️ [Telegram (@hacdias)](https://t.me/hacdias)
+- ✉️ [E-mail (mail@hacdias.com)](mailto:mail@hacdias.com)
 
-Other relevant platforms where I am are 💻 [**GitHub**](https://github.com/hacdias), 📷 [**Instagram**](https://instagram.com/hacdias) and 💼 [**LinkedIn**](https://linkedin.com/in/hacdias).
+Other relevant platforms where I am are:
 
-### PGP 🗝
+- 💻 [GitHub (@hacdias)](https://github.com/hacdias)
+- 📷 [Instagram (@hacdias)](https://instagram.com/hacdias)
+- 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
+- 💼 [LinkedIn](https://linkedin.com/in/hacdias)
+
+#### 🗝 PGP
 
 If you want to encrypt any of the messages you send to me, you can find my public
-key directly on this [website][pgp] or on [keybase][keybase]. Here's the fingerprint:
+key directly on this [website](/pubkey.txt) or on [keybase](https://keybase.io/hacdias). Here's the fingerprint:
 
 ```
 AE95 7E3A 2905 B55A 6950 E762 4454 5566 F552 F631
 ```
-
-[tg]: https://t.me/hacdias
-[tw]:  https://twitter.com/hacdias
-[mail]: mailto:mail@hacdias.com
-[pgp]: /pubkey.txt
-[keybase]: https://keybase.io/hacdias
