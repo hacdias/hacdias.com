@@ -8,9 +8,8 @@ lastmod: 2021-04-11T17:11:00.693632331Z
 Next:
 
 1. Clean up TAGS and TITLES in all sections:
-    - micro
-    - articles
-    - notes
+ - micro
+  - notes
 2. Cleanup TOC and make it work on mobile
 
 Then:
@@ -55,7 +54,8 @@ Then:
 - cli for local management
 - **comments**
 	- system to submit comments directly on my website
-	- should i publish them under another page so I can easily reply through micro interactions? that could create too much trouble and content on my website. 
+	- should i publish them under another page so I can easily reply through micro interactions? that could create too much trouble and content on my website.  NO.
+	- simple POST in page.
 - **search**: consider search while typing
 - move newsletter/thanks and goodbye to other places
 - **pixelart**: add custom section or tag.
