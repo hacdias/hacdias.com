@@ -119,21 +119,16 @@ math: true
 
 ## Secrecy
 
+- **Safe for secrecy**: a closed process $P$ is safe for secrecy iff $P \rightarrow^* Q$ implies that Q is not an error state. 
+- **Error state**: when $Q$ = new $n_1$, ..., $n_i$; (secret($M$); | out $c$ $M$; $Q'$ | $Q''$ )
+- **Robustly safe for secrecy**: a closed process $P$ is robustly safe for secrecy iff $P|O$ is safe for secrecy for all opponent processes $O$.
+- **Notation**
+  - $P \Downarrow c$: $P$ outputs on $c$.
+  - $(P|O) \Downarrow c$: $P$ passes test $(O, c)$.
+  - $P \simeq Q$: $P$ tests equivalent to $Q$ when $\forall O, c: (P|O) \Downarrow c \Leftrightarrow (Q|O) \Downarrow c$ .
+- **Strong secrecy** (non-interference): $P$ preserves strong secrecy of its arguments iff $P(\overline M) \simeq P(\overline N)$ for all closed messages $\overline M$, $\overline N$.
+  - Intuitive: attackers cannot deduce any information about the messages.
 - **Conditional secrecy**: if not talking to spy, then message remains secret; is used to check for attackers in internal threats.
-- **Safe for secrecy**
-  - A closed process $P$ is safe for secrecy iff $P \rightarrow_* Q$ implies that Q is not an error state.
-- **Robustly safe for secrecy**
-  - A closed process $P$ is robustly safe for secrecy iff for all opponent processes $O$, $P|O$ is safe for secrecy.
-- **Strong Secrecy (non-interference)**
-  - Let $P(\overline x)$ be some process that depends on variables $\overline x$.
-  - **Definition 1**: $P$ preserves strong secrecy of $\overline x$ iff $P(\overline M) \simeq P(\overline N)$ for all closed messages $\overline M$, $\overline N$.
-  - **Definition 2**: $P$ preserves strong secrecy when $P(\overline M)|O \Downarrow c \Leftrightarrow P(\overline {M'}) \Downarrow c $ for every opponent $O$ and channel $c$.
-  - Prevents both direct data flows and implicit information flows.
-  - Intuitive: attackers cannot deduce content, length or any other information of the messages.
-  - Example
-    - P(x, y) == new k; (out net {x} k; | out net {y} k; )
-    - P(x, y) does not preserve strong secrecy of x and y because we can see that P(M, N) != P(M, N) when M != N.
-    - Could be solved with non-deterministic encryption. That way, all processes would output different values, even with the same message.
 
 ## Correspondence Assertions
 
@@ -155,6 +150,12 @@ It is called **robustly** safe for authenticity if P | O is safe for authenticit
 - An injective agreement is a one-to-one correspondence.
 	- begin(M); P -> begun(M) | P
 
+Example of protocol that is safe for authentication but not robustly safe for authentication:
+
+- A begins Send(A, m, B)
+- A → S: {|(A, B, m)|}<sub>kas</sub>
+- S → B: {|(A, m)|}<sub>kbs</sub>
+- B ends Send(A, m, B)
 ## Timeliness
 
 Timeliness prevents accepting messaged that are older than acceptable. We usually use this with injective arguments and nonces.
@@ -192,6 +193,36 @@ Other:
     - P(x) = split x is (y, z); out c pair
     - The process P would not output pair if x was not actually a pair. This breaks strong secrecy of x.
     - Arguments are of type Any.
+
+## Confounder
+
+- Each agent keep track of their own nonces.
+- Secrecy:
+  - Symmetric encryption: confounder does not need to be secret. Attacker cannot cypher text themselves so knowing the nonce won't help.
+  - Asymmetric encryption: confounder must remain secret. Attacker can cypher text with public key so they cannot have nonce.
+
+## Proverif
+
+Proverif is a verification protocol software.
+
+- **Phases**: global synchronization point. Processes start in phase 0.
+  - `query attacker: x phase n` checks if `x` remains secret up to the end of phase `n`.
+  - After moving to a new phase, all steps from previous phases are blocked.
+- **Fairness**: for (x, y), both x and y occur or neither occur.
+- **TTP**: a trusted third party.
+
+## Example Protocols
+
+- **eVoting protocol**
+  - **Goals**: fairness, eligibility, privacy, individual verifiability, universal verifiability, receipt freeness.
+  - **Phases**:
+    - Legitimization phase: admin legitimizes the votes.
+    - Voting phase: voters send votes to collectors.
+    - Opening phase: collector publishes votes.
+- **Certified email protocol**
+  - **Goals**: fairness, non-repudiation of origin and receipt.
+  - Sender should get receipt iff receiver gets message.
+  - Problem? Fairness requires reliability of messages!
 
 ## (Some) Attacks
 
