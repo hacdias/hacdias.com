@@ -4,6 +4,7 @@ description: O modelo MVC é algo muito utilizado atualmente. Nesta primeira par
   iremos explicar a estrutura base de uma aplicação MVC e criar o ficheiro principal
 tags:
 - php
+- portuguese
 date: 2014-12-18T22:55:34Z
 aliases:
 - /articles/2014/12/18/1/

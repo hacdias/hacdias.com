@@ -1,6 +1,8 @@
 ---
 title: How to remove the query string from static assets on WordPress
 date: 2016-11-24T00:00:00Z
+tags:
+- php
 aliases:
 - /articles/2016/11/24/1/
 - /2016/11/24/01/how-to-remove-the-query-string-from-static-assets-on-wordpress/

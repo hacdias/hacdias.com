@@ -4,6 +4,7 @@ description: No último tutorial sobre a criação de uma framework que segue o 
   MVC, criamos uma página dinâmica com acesso à base de dados.
 tags:
 - php
+- portuguese
 date: 2014-12-21T10:00:04Z
 aliases:
 - /articles/2014/12/21/1/

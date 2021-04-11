@@ -5,6 +5,7 @@ description: Efetuar pedidos POST e GET utilizando a função ajax do jQuery e r
 tags:
 - php
 - javascript
+- portuguese
 date: 2014-07-20T10:41:11Z
 aliases:
 - /articles/2014/07/20/1/

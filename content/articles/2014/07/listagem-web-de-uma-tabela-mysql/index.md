@@ -6,6 +6,7 @@ tags:
 - php
 - html
 - mysql
+- portuguese
 date: 2014-07-17T14:51:56Z
 aliases:
 - /articles/2014/07/17/1/

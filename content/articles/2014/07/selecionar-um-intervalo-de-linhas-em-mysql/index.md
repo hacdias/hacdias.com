@@ -4,6 +4,8 @@ description: Utilizar MySQL é muito simples. Neste tutorial ensino a selecionar
   um intervalo de linhas em MySQL.
 tags:
 - mysql
+- portuguese
+- sql
 date: 2014-07-16T20:00:19Z
 aliases:
 - /articles/2014/07/16/1/

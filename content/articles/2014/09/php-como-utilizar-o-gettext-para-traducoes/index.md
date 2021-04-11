@@ -4,6 +4,7 @@ description: A linguagem PHP está repleta de extensões. Uma muito utilizada e 
   é o Gettext que nos permite traduzir um site muito facilmente.
 tags:
 - php
+- portuguese
 date: 2014-09-21T11:07:03Z
 aliases:
 - /articles/2014/09/21/1/

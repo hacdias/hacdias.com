@@ -4,6 +4,7 @@ description: Esta é a continuação do tutorial sobre como adicionar menus de a
   a temas e plugins do WordPress.
 tags:
 - php
+- portuguese
 date: 2014-08-04T12:01:37Z
 lastmod: 2015-06-10T11:27:37Z
 aliases:

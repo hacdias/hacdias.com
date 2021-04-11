@@ -4,6 +4,7 @@ description: Explicamos como fazer a listagem em log de todos os erros produzido
   pela linguagem PHP num ficheiro através do .htaccess.
 tags:
 - php
+- portuguese
 date: 2014-08-14T10:41:38Z
 aliases:
 - /articles/2014/08/14/1/

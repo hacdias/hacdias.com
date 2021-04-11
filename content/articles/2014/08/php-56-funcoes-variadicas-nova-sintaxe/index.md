@@ -4,6 +4,7 @@ description: O PHP 5.6.0 trouxe aos desenvolvedores novas funcionalidades e form
   de trabalhar. Uma das melhores novidades é a nova sintaxe das funções variádicas.
 tags:
 - php
+- portuguese
 date: 2014-08-31T09:37:05Z
 aliases:
 - /articles/2014/08/31/1/

@@ -11,6 +11,9 @@ aliases:
 - /blog/2015/03/pi-day-2015/
 - /blog/pi-day-2015/
 - /articles/2015/03/15/1/pi-day-2015
+tags:
+- mathematics
+- portuguese
 ---
 
 Do you know? Today is the Pi Day 2015. Below there is a small video I made about this marvelous day.

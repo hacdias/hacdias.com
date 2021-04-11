@@ -4,6 +4,7 @@ description: A tag de fechamento do PHP ( ?> ) pode causar alguma confusão vist
   é omitida pela maioria dos desenvolvedores. Mas porquê?
 tags:
 - php
+- portuguese
 date: 2014-08-27T09:15:18Z
 aliases:
 - /articles/2014/08/27/1/

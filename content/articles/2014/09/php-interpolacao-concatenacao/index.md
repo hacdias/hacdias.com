@@ -4,6 +4,7 @@ description: Já pensou em qual a melhor forma para inserir variáveis dentro de
   A interpolação ou a concatenação. Venha ver.
 tags:
 - php
+- portuguese
 date: 2014-09-09T15:19:43Z
 aliases:
 - /articles/2014/09/09/1/

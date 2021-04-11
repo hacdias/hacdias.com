@@ -4,6 +4,7 @@ description: Como você sabe, PHP é das linguagens de servidor mais utilizadas 
   Hoje trago-vos uma das funções mais interessantes desta linguagem.
 tags:
 - php
+- portuguese
 date: 2014-07-30T08:34:52Z
 aliases:
 - /articles/2014/07/30/1/

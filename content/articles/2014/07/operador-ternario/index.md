@@ -4,6 +4,7 @@ description: O operador ? é, por vezes, intrigante. Chama-se operador ternário
   para que serve este operador condicional em PHP.
 tags:
 - php
+- portuguese
 date: 2014-07-22T09:08:08Z
 aliases:
 - /articles/2014/07/22/1/

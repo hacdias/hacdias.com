@@ -4,6 +4,7 @@ description: A criação de temas e plugins para o WordPres leva a uma necessida
   de criar menus de administração. A criação dos mesmos é muito simples.
 tags:
 - php
+- portuguese
 date: 2014-08-02T11:27:37Z
 aliases:
 - /articles/2014/08/02/1/

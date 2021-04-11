@@ -11,6 +11,8 @@ aliases:
 - /blog/2014/08/papers-we-love-um-dos-melhores-repositorios-github/
 - /blog/papers-we-love-um-dos-melhores-repositorios-github/
 - /articles/2014/08/22/1/papers-we-love-um-dos-melhores-repositorios-github
+tags:
+- portuguese
 ---
 
 Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.

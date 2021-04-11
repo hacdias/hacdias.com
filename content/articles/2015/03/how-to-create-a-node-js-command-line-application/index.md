@@ -4,6 +4,7 @@ description: Node.js is one of the trends in the programming world. Let's learn 
   to create node.js command-line applications.
 tags:
 - javascript
+- nodejs
 date: 2015-03-31T18:55:49Z
 aliases:
 - /articles/2015/03/31/1/

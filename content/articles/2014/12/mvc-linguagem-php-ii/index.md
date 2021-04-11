@@ -4,6 +4,7 @@ description: Continuamos a construir a nossa framework que terá como base o mod
   MVC. Neste artigo criamos o coração da nossa framework.
 tags:
 - php
+- portuguese
 date: 2014-12-19T12:26:59Z
 aliases:
 - /articles/2014/12/19/1/

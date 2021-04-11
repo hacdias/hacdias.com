@@ -4,6 +4,7 @@ description: Uma pequena apresentação sobre o blog e sobre o que quero fazer c
   Quem sou eu? Que escreverei neste blog? Saberás tudo ao ler!"
 tags:
 - meta
+- portuguese
 date: 2014-07-12T14:05:48Z
 aliases:
 - /articles/2014/07/12/1/

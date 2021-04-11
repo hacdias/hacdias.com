@@ -4,6 +4,7 @@ description: A linguagem de programação PHP é das mais utilizadas atualmente 
   do servidor. Hoje trazemos 5 dicas que para vos ajudar!
 tags:
 - php
+- portuguese
 date: 2014-08-29T16:47:20Z
 aliases:
 - /articles/2014/08/29/1/

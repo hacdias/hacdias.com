@@ -4,6 +4,7 @@ description: Existem vários comandos que nos permitem imprimir frases. Porque �
   existem vários? Alguns tornam o texto mais claro, como o 'printf' e o 'sprint'.
 tags:
 - php
+- portuguese
 date: 2014-09-13T09:16:48Z
 aliases:
 - /articles/2014/09/13/1/

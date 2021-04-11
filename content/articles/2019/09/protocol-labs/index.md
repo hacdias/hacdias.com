@@ -11,6 +11,8 @@ aliases:
 - /2019/09/protocol-labs/
 - /projects/protocol-labs/
 - /articles/2019/09/14/1/protocol-labs
+tags:
+- reflection
 ---
 
 Protocol Labs (PL) is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.

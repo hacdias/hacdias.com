@@ -4,6 +4,7 @@ description: Os DOCBlocks do PHP são extremamente úteis para os desenvolvedore
   desejam partilhar o código. Venha conhecer as tags mais utilizadas.
 tags:
 - php
+- portuguese
 date: 2014-08-11T20:26:21Z
 aliases:
 - /articles/2014/08/11/1/

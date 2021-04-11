@@ -11,6 +11,9 @@ aliases:
 - /blog/2015/07/imperfections-make-us-perfect/
 - /blog/imperfections-make-us-perfect/
 - /articles/2015/07/12/1/imperfections-make-us-perfect
+tags:
+- creative
+- reflection
 ---
 
 Sometimes, I look through a window. My bedroom window. It faces the road. I see cars. There are thousand of them. All different: in shape, in colour, in size. But that's only the outside. Their inside is all made of the same essence.

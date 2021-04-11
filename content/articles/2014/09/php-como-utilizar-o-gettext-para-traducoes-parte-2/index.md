@@ -4,6 +4,7 @@ description: Depois de termos ensinado a configurar o plugin php-gettext com o P
   agora é hora de saber como utilizar o plugin.
 tags:
 - php
+- portuguese
 date: 2014-09-28T15:06:47Z
 aliases:
 - /articles/2014/09/28/1/

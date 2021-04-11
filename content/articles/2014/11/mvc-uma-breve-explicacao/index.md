@@ -4,6 +4,7 @@ description: O modelo MVC (Model-View-Controller) é um modelo extremamente util
   nas aplicações web. Apresentamos uma breve explicação sobre este modelo.
 tags:
 - php
+- portuguese
 date: 2014-11-22T16:02:56Z
 aliases:
 - /articles/2014/11/22/1/

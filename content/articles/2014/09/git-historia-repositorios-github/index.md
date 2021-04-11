@@ -4,6 +4,7 @@ description: O Git é dos sistemas de controlo de versão mais utilizados por to
   mundo. Hoje é hora de falar um pouco da história do Git e do GitHub."
 tags:
 - git
+- portuguese
 date: 2014-09-02T14:09:59Z
 aliases:
 - /articles/2014/09/02/1/

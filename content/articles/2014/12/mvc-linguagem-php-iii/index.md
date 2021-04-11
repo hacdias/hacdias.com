@@ -4,6 +4,7 @@ description: No seguimento da criação de uma framework PHP que utilize o model
   hoje explicamos como se criam os controladores.
 tags:
 - php
+- portuguese
 date: 2014-12-20T09:00:23Z
 aliases:
 - /articles/2014/12/20/1/

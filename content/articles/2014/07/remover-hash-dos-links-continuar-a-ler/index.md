@@ -4,6 +4,7 @@ description: Por padrão, nos artigos do WordPress, quando se clica em "Ler mais
   o utilizador é redirecionado para onde estava a ler. Aprenda a remover essa opção.
 tags:
 - php
+- portuguese
 date: 2014-07-14T13:36:38Z
 aliases:
 - /articles/2014/07/14/1/
