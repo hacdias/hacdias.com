@@ -8,8 +8,8 @@ lastmod: 2021-04-11T17:11:00.693632331Z
 Next:
 
 1. Clean up TAGS and TITLES in all sections:
- - micro
-  - notes
+   - micro
+   - notes
 2. Cleanup TOC and make it work on mobile
 
 Then:
