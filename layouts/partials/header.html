@@ -6,7 +6,7 @@
     <li><a class='no-link' href='{{ relURL "/photos/archive" }}'>archive</a></li>
   </ul>
   {{ end }}
-  <a class='no-link' href='{{ relURL .Site.BaseURL }}'>
+  <a class='no-link' href='{{ if eq .Section "photos" }}{{ relURL "/photos" }}{{ else }}{{ relURL .Site.BaseURL }}{{ end }}'>
     <img src="{{ relURL "/logo.svg" }}">
     <div>
       <p class='name glitch' data-text="Henrique Dias">Henrique Dias</p>
