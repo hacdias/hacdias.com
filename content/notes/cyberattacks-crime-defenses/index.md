@@ -126,7 +126,7 @@ lastmod: 2021-03-15T11:16:40.770351056Z
 - Attackers don't discriminate
 - Low success rate
 - Small reconaissance
-- High number of victims and attacjers
+- High number of victims and attackers
 - **Examples**: phishing, etc.
 
 ## Critical infrastructure (targeted attacks)
@@ -172,8 +172,8 @@ lastmod: 2021-03-15T11:16:40.770351056Z
 
 **Flame**
 - Information collecting malware
-- Lateral movement: print spooler and LNC explloit (same as Stuxnet)
-- MD5 hash collision attack that enabled Flame to masquerade as a proxy for Windwos Update
+- Lateral movement: print spooler and LNC exploit (same as Stuxnet)
+- MD5 hash collision attack that enabled Flame to masquerade as a proxy for Windows Update
 - Collected info: sent to remote C&C servers. If no network, save gathered info to USB and infect other computers of the network.
 
 **Gauss**
@@ -184,7 +184,7 @@ lastmod: 2021-03-15T11:16:40.770351056Z
 - Governmental and diplomatic espionage
 - Low profile infection, well organized and orchestrated
 - Resistant to C&C takeover
-- Ressurection module
+- Resurrection module
 
 ---
 
@@ -207,27 +207,27 @@ lastmod: 2021-03-15T11:16:40.770351056Z
   - Stage 1
     - Spear Phishing by Word doc
     - BlackEnergy 3 connected to C&C
-    - attackers toe sbalish permanent  access
+    - attackers toe establish permanent  access
     - Credential harvest (keylogger) to connect to VPN
   - Stage 2  - prep
     - How to interact with DMS + noise.
-    - Malicius firmware for serial to ethernet devices
+    - Malicious firmware for serial to ethernet devices
     - Install KillDish
   - Stage 2 - attack
-    - upload new firmweare to s2e devices
+    - upload new firmware to s2e devices
 - detection
   - C&C connection
   - network whitelisting in internal network
 
 **Industroyer (2016)**
-- Attack on Ukranian power grid (again)
+- Attack on Ukrainian power grid (again)
 - More automated than BlackEnergy
 - Attacked distribution substations
 - First malware specifically for Electrical Grids
 - Modular and specialized components
 
 **Indian Energy Sector (2019)**
-- Malware: DTrack (keylogging, gather host IPs, info on networks, etc)
+- Malware: DTrack (keyloggers, gather host IPs, info on networks, etc)
 - Reconnaissace ce and dropper for other malware payloads
 
 ## Ransomware
@@ -286,7 +286,7 @@ lastmod: 2021-03-15T11:16:40.770351056Z
   - Subverting democracy, information exfiltration
   - Against US and Europe governments + WADA (2016)
 - 29
-  - Targetrs multiple industries
+  - Targeted multiple industries
   - Phishing with zip with Cobalt Strike Beacon (customized to blend in with usual traffic)
   - Shared tech artifacts
   - Known for fast transition from phishing implants after initial compromise
@@ -330,12 +330,12 @@ lastmod: 2021-03-15T11:16:40.770351056Z
 - OT networks are no longer physically separated
 - Threats vary between cyber and physical dimensions
 - Vulnerable assets that can be rarely patched
-  **Logging systems** (usually)
-  - No encryption
-  - No authentication
-  **Connectivity** (usual)
-  - Default ports
-  - Default passwords
+  + **Logging systems** (usually)
+    - No encryption
+    - No authentication
+  + **Connectivity** (usual)
+    - Default ports
+    - Default passwords
 
 **Attacking BAC**
 - Build mockup with common controllers and software
@@ -429,11 +429,11 @@ lastmod: 2021-03-15T11:16:40.770351056Z
 - The volume of phishing is going down, because attacks are more targeted
 
 **Other results from 2020 SonicWall report**
-- Formjacking new entry
+- Form-jacking new entry
 - Living off the land and supply chain attacks are increasing
 - Mobile malware increasing
 - IoT attacks increasing
-- Use of 0-days decrasing
+- Use of 0-days decreasing
 
 ## Read teaming in OT
 
@@ -530,7 +530,6 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 **Supervisable software**
 - Allows people who monitor it to understand what it's doing.
 - Only way to make systems more secure.
-- Supervisability x 
 
 **What should we do**
 - Write software to make it easier to monitor (supervise)
@@ -562,7 +561,7 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 - Offline: can eavesdrop and look at the password
 - **Cost/benefit of attack**
   - Direct cost: zero sum
-  - Indirect cost: high to masive
+  - Indirect cost: high to massive
 
 **So long, and no thanks for the externalities**
 - Users rejection of security advice is rational from economic perspective
@@ -572,7 +571,7 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 - Many attacks cannot be made profitable, even when many profitable targets exist
 - There are many more users than attackers
 
-**Unfalsifiablity of security claims**
+**Unfalsifiability of security claims**
 - Evidence to provide insecurity is easy, evidence to prove security is hard
 - Potential way to "prove" security: collect data on attacks
 
@@ -606,7 +605,7 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 - Agent: provides services
 - Principal X Agent: The information they have is key for market equilibrium.
 
-**Information assymetry**
+**Information asymmetry**
 - Problem?
   - Agent knows more about the product than the principal.
   - Principal has no way of verifying that agents respected the contract.
@@ -679,7 +678,7 @@ Both rejection and acceptance-based can be configured with *different accuracy l
 **Exploit Kits (EK)**
 - Websites that serve vulnerability exploits and ultimately malware.
 - Client side vulnerabilities affected.
-- Drop malware and successful exploitation => fully controlable.
+- Drop malware and successful exploitation => fully controllable.
 - Typically < 10 exploits.
 - Defensive components
   - IP Blocking (majority)
