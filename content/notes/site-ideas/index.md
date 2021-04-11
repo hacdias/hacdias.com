@@ -2,21 +2,16 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-02-24T10:40:52.733379303Z
+lastmod: 2021-04-11T17:11:00.693632331Z
 ---
 
 Next:
 
-1. Rework darkroom:
-    - Replace `.Params.social` by `.Params.cover` - it is a CDN image.
-    - Remove `.Params.images`. Use figure for the pictures to allow more customization.
-    - Rework current photos into small "collections" (Misc travels, Hometown Corona)
-    - Merge `_index.md` with `archive.md`. Use styles from design branch as "card".
-2. Clean up TAGS and TITLES in all sections:
+1. Clean up TAGS and TITLES in all sections:
     - micro
     - articles
     - notes
-3. Cleanup TOC and make it work on mobile
+2. Cleanup TOC and make it work on mobile
 
 Then:
 
