@@ -6,7 +6,8 @@ syndication:
 aliases:
 - /micro/2020/05/lifethroughlenses24/
 pictures:
-- title: Flowers
+- &cover
+  title: Flowers
   slug: 2020-05-nature-01
   hide: true
 - title: Sunset
@@ -18,6 +19,7 @@ pictures:
   hide: true
 - title: Lake
   slug: 2020-05-nature-05
+cover: *cover
 ---
 
 A few more photos of the nature that surrounds my hometown. Even though it's been a tough time

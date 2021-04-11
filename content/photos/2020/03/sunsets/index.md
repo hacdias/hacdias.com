@@ -5,7 +5,8 @@ aliases:
 - /notes/2020/03/22/lifethroughlenses/
 - /micro/2020/03/lifethroughlenses22/
 pictures:
-- title: Chimney
+- &cover
+  title: Chimney
   slug: 2020-03-chimney
 - title: A Tree in the Sunset
   slug: 2020-03-sunset-tree
@@ -13,6 +14,7 @@ pictures:
   slug: 2020-03-sunset
 - title: Night Sky
   slug: 2020-03-night-sky
+cover: *cover
 ---
 
 I took my first night sky picture. Even though I wasn't in the best conditions, I was able

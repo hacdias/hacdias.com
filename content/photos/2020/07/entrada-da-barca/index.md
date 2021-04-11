@@ -6,7 +6,8 @@ syndication:
 aliases:
 - /micro/2020/07/lifethroughlenses/
 pictures:
-- title: Entrada da Barca
+- &cover
+  title: Entrada da Barca
   slug: 2020-06-costa-alentejana-1
   hide: true
 - title: Boats
@@ -17,6 +18,7 @@ pictures:
   slug: 2020-06-costa-alentejana-4
 - title: Lonely Boat
   slug: 2020-06-costa-alentejana-5
+cover: *cover
 ---
 
 A few weeks ago I had the opportunity to travel through a bit of the Portuguese coast, which can be mesmerizing in some places. Here's a few pictures I took at Entrada da Barca.

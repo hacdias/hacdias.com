@@ -6,7 +6,8 @@ aliases:
 - /notes/2020/04/01/1/lifethroughlenses/
 - /micro/2020/04/lifethroughlenses24/
 pictures:
-- title: Church Peak
+- &cover
+  title: Church Peak
   slug: 2020-04-hometown-01
 - title: Santana da Serra
   slug: 2020-04-hometown-02
@@ -22,6 +23,7 @@ pictures:
   slug: 2020-04-hometown-08
 - title: Shiny Lake
   slug: 2020-04-hometown-09
+cover: *cover
 ---
 
 Today I decided to dedicate this gallery post to my hometown, Santana da Serra and some of the views
