@@ -13,7 +13,7 @@ I publish a variety of content: from [articles](/articles/) and [photos](/photos
 
 <div id="grid">
   <div>
-    {{< latest section="articles" n=4 >}}
+    {{< latest section="articles" n=5 >}}
     <a class="cl" href="./articles/">✏️ More articles</a>
   </div>
   <div>
