@@ -1,6 +1,6 @@
 ---
 title: Industrial Strijp-s
-date: 2021-04-13T00:00:00Z
+date: 2021-04-11T17:00:00Z
 pictures:
 - &cover
   title: Industrial Strijp-s
