@@ -9,14 +9,12 @@ pictures:
 - &cover
   title: Flowers
   slug: 2020-05-nature-01
-  hide: true
 - title: Sunset
   slug: 2020-05-nature-02
 - title: Trees
   slug: 2020-05-nature-03
 - title: Lake
   slug: 2020-05-nature-04
-  hide: true
 - title: Lake
   slug: 2020-05-nature-05
 cover: *cover

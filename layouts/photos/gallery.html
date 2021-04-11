@@ -23,7 +23,6 @@
     {{- range $page := $pages -}}
       {{- with .Params.pictures }}
         {{- range . }}
-          {{- if not .hide }}
           <div class='h-entry'>
             <a href="{{ $page.RelPermalink }}" class="no-link u-url">
               <picture>
@@ -33,7 +32,6 @@
               </picture>
             </a>
           </div>
-          {{- end }}
         {{- end }}
       {{- end}}
     {{- end -}}

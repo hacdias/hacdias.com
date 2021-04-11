@@ -9,7 +9,6 @@ pictures:
 - &cover
   title: Entrada da Barca
   slug: 2020-06-costa-alentejana-1
-  hide: true
 - title: Boats
   slug: 2020-06-costa-alentejana-2
 - title: Splashing Water
