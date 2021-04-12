@@ -11,9 +11,9 @@ layout: articles
 <style>
 @media screen and (min-width: 38rem) {
   body {
-    background: #f2ede7 url(newspaper.jpg);
-    background-size: 240px;
-    background-attachment: fixed;
+    background-color: #ffcc4d;
+    background-size: 40px 40px;
+    background-image: repeating-linear-gradient(0deg, #e95e73, #e95e73 2px, #ffcc4d 2px, #ffcc4d);
   }
 }
 </style>
