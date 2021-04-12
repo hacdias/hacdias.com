@@ -1,10 +1,10 @@
 ---
 title: About
-lastmod: 2021-02-12T10:38:23.275529534Z
-emoji: "\U0001F9D4"
-noMentions: true
+lastmod: 2021-04-12T13:05:11.440497995Z
 aliases:
 - /resume
+emoji: "\U0001F9D4"
+noMentions: true
 ---
 
 <style>
@@ -59,6 +59,7 @@ Back in 2014, I wrote my first ever post in this website, in Portuguese, where I
 2. **Banking** through blockchain. Instead of relying on institutions, use blockchain technology for verifiable, autonomous, anonymous banking. Smart contracts, for example, can be used as inviolable contracts to ensure trust.
 
 <ul class='terms'>
+  <li><a title="Contact" href="../contact/">✉️ Contact</a></li>
   <li><a title="Resume" href="../resume/">📄 Resume</a></li>
   <li><a title="Projects" href="../projects/">📦 Projects</a></li>
   <li><a title="Meta" href="../meta/">⚙️ Meta</a></li>
