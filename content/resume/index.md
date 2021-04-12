@@ -58,7 +58,7 @@ human-computer interaction.
 
 ## Projects
 
-### File Browser <small>[2015] [[code]](https://github.com/filebrowser/filebrowser)</small>
+### File Browser <small>[2015 - 2019] <span class='dnp'>[[code]](https://github.com/filebrowser/filebrowser)</span></small>
 
 > File Browser is a client-server software for creating and using file hosting services, allowing you to create your own cloud.
 

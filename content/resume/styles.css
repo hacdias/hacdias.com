@@ -59,6 +59,14 @@ h3, h4 {
   grid-gap: 1rem;
 }
 
+@media screen and (max-width: 60rem) {
+  .copy.e-content {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-gap: 1rem;
+  }
+}
+
 @media not print {
   div > h2 {
     margin-top: 0;
