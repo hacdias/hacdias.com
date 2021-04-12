@@ -2,28 +2,17 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-04-11T17:11:00.693632331Z
+lastmod: 2021-04-12T06:06:11.499334886Z
 ---
 
-Next:
-
-1. Clean up TAGS and TITLES in all sections:
-   - micro
-   - notes
-2. Cleanup TOC and make it work on mobile
-
-Then:
-
-- Reads
-  - Indieweb meta tags?
-  - Include reviews from goodreads that I did and stars?
-  - Picture or list like
-  - Do not depend on GoodReads? Each own a post?
+- Notes: clean up titles, tags and notes in general.
+- Make TOC better (sidebar?) and make it work on mobile.
 - Finish [uses](/uses)
-- Move all images to CDN (except svg)
-- Clean notes
-- Gallery of Winter pics?
-- Take pictures of old versions of my website
+- Take pictures of old versions of my website, publish: `/meta/historical`.
+- Gallery of Winter pictures?
+- Remove `.Params.social` and replace by `.Params.cover`.
+- Add `.Params.cover` to Eagle.
+- Move all images to CDN except SVGs?
 
 ## Posts
 
@@ -64,6 +53,9 @@ Then:
 	- stop relying on GoodReads for my readings section
 	- create interface that allows me to edit the reads / progress / info
 	- add link for possible review
+	- indieweb meta tags?
+	- include the few reviews I did as well as stars?
+	- pictures for covers?
 - Serve my website over Gemini
 - Serve my website over TOR
 - **articles**: move out of year/month folders
