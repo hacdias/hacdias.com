@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Miley Cyrus",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
@@ -31,14 +31,9 @@
       "url": "https://www.last.fm/music/Coldplay"
     },
     {
-      "name": "Ellie Goulding",
+      "name": "Kim Petras",
       "count": 5,
-      "url": "https://www.last.fm/music/Ellie+Goulding"
-    },
-    {
-      "name": "Lana Del Rey",
-      "count": 5,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
+      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Pink Floyd",
@@ -46,23 +41,40 @@
       "url": "https://www.last.fm/music/Pink+Floyd"
     },
     {
-      "name": "Allie X",
+      "name": "September",
+      "count": 5,
+      "url": "https://www.last.fm/music/September"
+    },
+    {
+      "name": "a.Rose",
       "count": 4,
-      "url": "https://www.last.fm/music/Allie+X"
+      "url": "https://www.last.fm/music/a.Rose"
     }
   ],
   "tracks": [
     {
       "name": "Cry For You",
       "url": "https://www.last.fm/music/September/_/Cry+For+You",
-      "count": 4,
+      "count": 5,
       "artist": "September"
     },
     {
-      "name": "Clouds",
-      "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
+      "name": "10 Years",
+      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
       "count": 4,
-      "artist": "Slayyyter"
+      "artist": "Daði Freyr"
+    },
+    {
+      "name": "I'm a Winner, Baby",
+      "url": "https://www.last.fm/music/RuPaul/_/I%27m+a+Winner,+Baby",
+      "count": 4,
+      "artist": "RuPaul"
+    },
+    {
+      "name": "Drama Queen",
+      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
+      "count": 3,
+      "artist": "a.Rose"
     },
     {
       "name": "Diamond Heart",
@@ -71,10 +83,10 @@
       "artist": "Alan Walker"
     },
     {
-      "name": "10 Years",
-      "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
+      "name": "Hot",
+      "url": "https://www.last.fm/music/Avril+Lavigne/_/Hot",
       "count": 3,
-      "artist": "Daði Freyr"
+      "artist": "Avril Lavigne"
     },
     {
       "name": "Flux",
@@ -89,28 +101,16 @@
       "artist": "Kim Petras"
     },
     {
+      "name": "Show Me How",
+      "url": "https://www.last.fm/music/Men+I+Trust/_/Show+Me+How",
+      "count": 3,
+      "artist": "Men I Trust"
+    },
+    {
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Prisoner+(feat.+Dua+Lipa)",
       "count": 3,
       "artist": "Miley Cyrus"
-    },
-    {
-      "name": "I'm a Winner, Baby",
-      "url": "https://www.last.fm/music/RuPaul/_/I%27m+a+Winner,+Baby",
-      "count": 3,
-      "artist": "RuPaul"
-    },
-    {
-      "name": "Drama Queen",
-      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
-      "count": 2,
-      "artist": "a.Rose"
-    },
-    {
-      "name": "Fico Assim Sem Você",
-      "url": "https://www.last.fm/music/Adriana+Calcanhotto/_/Fico+Assim+Sem+Voc%C3%AA",
-      "count": 2,
-      "artist": "Adriana Calcanhotto"
     }
   ]
 }
