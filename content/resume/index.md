@@ -12,7 +12,7 @@ human-computer interaction.
 
 ## Education
 
-### [Eindhoven University of Technology](https://tue.nl) <small>[2020 - ∞]</small>
+### [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
 
 - M.Sc. in Computer Science and Engineering (Web Science track)
 - Current GPA of 8 out of 10
@@ -24,7 +24,7 @@ human-computer interaction.
 
 ## Experience
 
-### [Protocol Labs](https://protocol.ai) — Software Engineer <small>[2017 - ∞]</small> {#protocol-labs}
+### [Protocol Labs](https://protocol.ai) — Software Engineer <small>[2017 - present]</small> {#protocol-labs}
 
 > Protocol Labs is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.
 
@@ -52,7 +52,7 @@ human-computer interaction.
 
 > Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.
 
-- Wrote over 400 posts about tech news, events, tips and tutorials ([Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/), [Pplware](https://pplware.sapo.pt/author/henrique_dias/)).
+- Wrote over 400 posts about tech news, events, tips and tutorials. <small class='dnp'>[[pplware]](https://pplware.sapo.pt/author/henrique_dias/) [[pplware kids]](https://kids.pplware.sapo.pt/author/henrique_dias/)</small>
 - Published a 60 page [e-book](/downloads/aprenda_a_programar.pdf) on how to program in C for beginners.
 - Moderated article comments.
 

@@ -59,14 +59,6 @@ h3, h4 {
   grid-gap: 1rem;
 }
 
-@media screen and (max-width: 60rem) {
-  .copy.e-content {
-    display: grid;
-    grid-template-columns: 100%;
-    grid-gap: 1rem;
-  }
-}
-
 @media not print {
   div > h2 {
     margin-top: 0;
@@ -76,6 +68,18 @@ h3, h4 {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     padding: var(--space);
     margin: var(--space) 0;
+  }
+}
+
+@media screen and (max-width: 60rem) {
+  .copy.e-content {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-gap: 1rem;
+    padding: 0;
+    margin: 0;
+    margin-top: var(--space);
+    box-shadow: none;
   }
 }
 
