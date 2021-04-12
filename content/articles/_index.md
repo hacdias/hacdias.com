@@ -11,9 +11,8 @@ layout: articles
 <style>
 @media screen and (min-width: 38rem) {
   body {
-    background-color: #ffcc4d;
-    background-size: 40px 40px;
-    background-image: repeating-linear-gradient(0deg, #e95e73, #e95e73 2px, #ffcc4d 2px, #ffcc4d);
+    background: #f1c40f url(pencils.svg) repeat-x bottom;
+    background-attachment: fixed;
   }
 }
 </style>
