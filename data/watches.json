@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Thunder Force",
+      "watched": "2021-04-11T14:17:54.000Z",
+      "url": "https://trakt.tv/movies/thunder-force-2021"
+    },
+    {
       "title": "Winx Club: The Secret of the Lost Kingdom",
       "watched": "2021-01-24T11:47:23.000Z",
       "url": "https://trakt.tv/movies/winx-club-the-secret-of-the-lost-kingdom-2007"
@@ -1813,6 +1818,11 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2021-04-09T16:51:39.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "RuPaul's Drag Race: Untucked!",
       "watched": "2021-04-03T20:11:22.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-untucked"
@@ -1821,11 +1831,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2021-04-03T20:11:17.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2021-04-02T12:10:33.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "Snowpiercer",
