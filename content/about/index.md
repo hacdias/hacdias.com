@@ -19,6 +19,29 @@ aliases:
     background-attachment: fixed;
   }
 }
+
+/* TODO: deduplicate it? Search, Tags, Here */
+.terms {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.terms li {
+  display: inline-block;
+}
+
+.terms a,
+.terms a:visited {
+  text-decoration: none;
+  margin: .25rem;
+  font-size: .875rem;
+  padding: .5rem;
+  background-color: var(--near-white);
+  color: var(--gray);
+  display: inline-block;
+  font-weight: bold;
+}
 </style>
 
 
@@ -35,62 +58,11 @@ Back in 2014, I wrote my first ever post in this website, in Portuguese, where I
 1. **Decentralization** of the web in general, in which all of us become a functional part of the web instead of just a passive individual, liberating ourselves from silos, and having power over our own data.
 2. **Banking** through blockchain. Instead of relying on institutions, use blockchain technology for verifiable, autonomous, anonymous banking. Smart contracts, for example, can be used as inviolable contracts to ensure trust.
 
-## 💼 Experience
-
-### Protocol Labs, Software Engineer | <small>2017 - ∞</small> {#protocol-lab}
-
-> Protocol Labs is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.
-
-Re-designed and fully owned the implementation of a new IPFS Desktop, an ReactJS + Electron application with over 800 weekly users (growing approximately 30% every month) and the most widely used IPFS client.
-
-Took part of the re-design and creation of the new IPFS Web UI, a ReactJS web application used to browse files, explore Merkle trees and manage an IPFS node. This application comes with all IPFS implementations and with IPFS Desktop.
-
-Shipped the Awesome IPFS website, a compilation of the most fascinating projects, datasets, tools and other material built using IPFS technology.
-
-
-#### Highlights
-
-- Worked on [Testground](http://testground.ai/), a testing, benchmarking and simulating platform for decentralized systems.
-- Lead maintainer of [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop), an Electron application with over 800 weekly users and the most widely used IPFS client.
-- Shipped and completely revived [IPFS Web UI](https://github.com/ipfs-shipyard/ipfs-webui), a React-based web application used as a front-end to the IPFS world.
-- Shipped [Awesome IPFS](https://awesome.ipfs.io), a compilation of the most fascinating projects, datasets, tools and other material built using IPFS technology.
-
-### Upframe, Head of Technology | <small>2016 - 2018</small> {#upframe}
-
-> Upframe is a movement built by students, professors, companies, incubators and startup founders worldwide with a mission to promote the development of an entrepreneurial mindset in students.
-
-#### Achievements
-
-- Helped organise a mentorship-driven program where we connected mentors from well known companies (such as Tesla, Twitter, Spotify, etc) to first-time entrepreneurs with over 150 applications.
-- Developed a Slack bot, using Go, to manage the enrolments to the program.
-- Built a REST API for managing email transactions, newsletters and enrolments in the program.
-- Developed a back office website which allowed to see who was at the office, to send emails and to manage the newsletters.
-
-#### On the media
-
-- Upframe, ou o programa de pré-aceleração que a Startup Lisboa fez seu. [[Eco]](https://eco.sapo.pt/2017/03/21/upframe-ou-o-programa-de-pre-aceleracao-que-a-startup-lisboa-fez-seu/)
-- Upframe: o novo programa de pré-aceleração powered by Startup Lisboa. [[Startup Lisboa]](https://www.startuplisboa.com/startuplisboanews/upframe-o-novo-programa-de-pr-acelerao-powered-by-startup-lisboa)
-- Upframe. Startup Lisboa lança programa para estudantes e recém-licenciados. [[Observador]](https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/)
-- Upframe. Startup Lisboa ajuda os fazedores a dar os primeiros passos. [[Dinheiro Vivo]](https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/)
-
-### Pplware, Editor | <small>2013 - 2016</small> {#pplware}
-
-> Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.
-
-#### Highlights
-
-- Wrote over 400 posts about tech news, events, tips and tutorials ([Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/), [Pplware](https://pplware.sapo.pt/author/henrique_dias/)).
-- Published a 60 page [e-book](/downloads/aprenda_a_programar.pdf) on how to program in C for beginners.
-- Moderated article comments.
-
-## 📦 Projects
-
-Check out my [projects](/projects/) page.
-
-## 🎓 Education
-
-- **∞** | M.Sc. in Computer Science and Engineering, [Eindhoven University of Technology](https://tue.nl)
-- **2020** | B.Sc. in Information Systems and Computer Engineering, [Instituto Superior Técnico](https://tecnico.ulisboa.pt)
+<ul class='terms'>
+  <li><a title="Resume" href="../resume/">📄 Resume</a></li>
+  <li><a title="Projects" href="../projects/">📦 Projects</a></li>
+  <li><a title="Meta" href="../meta/">⚙️ Meta</a></li>
+</ul>
 
 <!--
 ## 🤔 The (un)story of my handle
