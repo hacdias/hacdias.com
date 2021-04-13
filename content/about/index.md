@@ -29,12 +29,12 @@ noMentions: true
 
 .terms li {
   display: inline-block;
+  margin: 0 .5rem .5rem 0;
 }
 
 .terms a,
 .terms a:visited {
   text-decoration: none;
-  margin: .25rem;
   font-size: .875rem;
   padding: .5rem;
   background-color: var(--near-white);
@@ -47,16 +47,13 @@ noMentions: true
 
 {{< figure alt="Me!" cdn="2019-06-henrique" caption="Photo by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
 
-Hi, I'm Henrique! (he/him) 👋
+Hi, I'm Henrique (he/him)!
 
-I'm from a little a town in Portugal 🇵🇹 and I'm now doing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl), in Eindhoven 🇳🇱. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on the decentralization of the web.
+I'm from a little town in Portugal 🇵🇹 and I'm now pursuing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl), in Eindhoven. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on fascinating projects to help decentralize the web.
 
-I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈. There are a lot of problems in the world and we all are part of them and should work towards correcting them, making Earth a better place for all of us to live.
+I believe in transparency and openness, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈.. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
 
-Back in 2014, I wrote my first ever post in this website, in Portuguese, where I said my life goal as a Software Engineer was to [improve the world](/articles/2014/07/apresentacao/) somehow. Even though that is a cliché, it doesn't mean it is not true. So, here  are some interesting problems I think solving would be a great step on improving the web we have nowadays, hence improving the world:
-
-1. **Decentralization** of the web in general, in which all of us become a functional part of the web instead of just a passive individual, liberating ourselves from silos, and having power over our own data.
-2. **Banking** through blockchain. Instead of relying on institutions, use blockchain technology for verifiable, autonomous, anonymous banking. Smart contracts, for example, can be used as inviolable contracts to ensure trust.
+Back in 2014, when I started this website, I wrote my first ever post, in Portuguese, where I said my goal as a Software Engineer would be to [improve the world](/articles/2014/07/apresentacao/) somehow. Even though it is a cliché, it doesn't mean it is not true. I enjoy helping people, and we all should never forget that we live in a society so our actions matter.
 
 <ul class='terms'>
   <li><a title="Contact" href="../contact/">✉️ Contact</a></li>
