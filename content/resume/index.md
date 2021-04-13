@@ -15,12 +15,14 @@ human-computer interaction.
 ### [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
 
 - M.Sc. in Computer Science and Engineering (Web Science track)
-- Current GPA of 8 out of 10
+- Current GPA of 8 out of 10.
 
 ### [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
 
 - B.Sc. in Information Systems and Computer Engineering
-- Graduated with GPA of 16 out of 20
+- Graduated with GPA of 16 out of 20.
+- Student Mentor for 2 years.
+- Academic Merit Award, 2017/2018.
 
 ## Experience
 
@@ -76,6 +78,12 @@ human-computer interaction.
 - Deputy at District’s Youth Parliament, 2013 <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2013/index.html)</small>
 - Secretary of District’s Youth Parliament and National Youth Parliament, 2012 <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2012/index.html)</small>
 
+## Licenses and Certifications
+
+- MCB80x: Fundamentals of Neuroscience <small>[June 2020] <span class='dnp'>[[certificate]](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)</span></small>
+- IELTS Academic (7.5 out of 9.0, C1) <small>[September 2019]</small>
+- LFS101x.2: Introduction to Linux <small>[July 2015] <span class='dnp'>[[certificate]](https://s3.amazonaws.com/verify.edx.org/downloads/6025d361aa504358ac589cdae4e002da/Certificate.pdf)</span></small>
+
 </div>
 
 <div>
@@ -85,6 +93,7 @@ human-computer interaction.
 - **w:** [https://hacdias.com](https://hacdias.com)
 - **e:** [mail@hacdias.com](mailto:mail@hacdias.com)
 - **g:** [github.com/hacdias](https://github.com/hacdias)
+- **l:** [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
 ## Languages
 
 - English (Proficient)
