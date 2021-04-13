@@ -34,7 +34,10 @@
     {{- $pages := (partialCached "get-pages" . .Type .Title) -}}
     {{- range $pages -}}
     <div class='h-entry'>
-      <a class='u-url p-name no-link' href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <a class='u-url no-link' href="{{ .RelPermalink }}">
+        <span class="p-name">{{ .Title }}</span>
+        {{ if in .Params.tags "portuguese"}}<span alt="This post is in Portuguese">🇵🇹</span>{{ end }}
+      </a>
       {{ if not .Date.IsZero }}
         <time class='dt-published' datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
       {{ end }}
