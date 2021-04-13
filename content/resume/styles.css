@@ -36,6 +36,8 @@ h3 {
   font-size: var(--f4);
 }
 
+li small,
+p small,
 h3 small {
   font-weight: normal;
   color: var(--light-gray);
