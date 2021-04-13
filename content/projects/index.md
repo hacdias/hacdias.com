@@ -41,7 +41,7 @@ This is a list of some of my most important and interesting projects I've worked
   {{< project title="File Browser" desc="Lightweight web file manager." img="filebrowser.jpg" url="https://github.com/filebrowser/filebrowser" >}}
   {{< project title="Caddy Plugins" desc="Adding functionality to Caddy." img="caddy.jpg" url="../articles/2015/09/caddy-plugins/" >}}
   {{< project title="Aprenda a Programar" desc="C ebook for beginners." img="aprenda-a-programar.jpg" url="../downloads/aprenda_a_programar.pdf" >}}
-  {{< project title="Pplware" desc="Largest portuguese tech blog." img="pplware.jpg" url="../about/#pplware" >}}
+  {{< project title="Pplware" desc="Largest portuguese tech blog." img="pplware.jpg" url="https://pplware.sapo.pt" >}}
 </div>
 
 <small>If you're interested in support my work, [buy me a coffee](https://www.buymeacoffee.com/hacdias)!</small>
