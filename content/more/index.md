@@ -27,6 +27,7 @@ noMentions: true
 - 📌 [Links](/links/)
 - ⚙️ [Meta](/meta/) (about this website)
 - 📦 [Projects](/projects/)
+- 📄 [Resume](/resume/)
 - 🔎 [Search](/search/)
 - ⚡️ [Subscribe](/subscribe/)
 - 🏷 [Tags](/tags/)
