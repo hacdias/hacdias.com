@@ -1,23 +1,11 @@
 {{ define "main" }}
 
 <style>
-#sections {
-	margin: 1rem -.25rem
+.terms {
+	margin: 1rem 0;
 }
 
-.section {
-	text-decoration: none;
-	margin: .25rem;
-	font-size: .875rem;
-	padding: .5rem;
-	background-color: var(--near-white);
-	color: var(--gray);
-	display: inline-block;
-	cursor: pointer;
-	user-select: none
-}
-
-.section.active {
+.terms a.active {
 	background: var(--action);
 	color: var(--white)
 }
@@ -38,13 +26,13 @@
       <input type='submit' value='Search' style="background-color: var(--action); border-color: var(--action)" />
     </form>
 
-    <div id='sections'>
+    <ul class="terms">
       {{ range .Site.Sections }}
         {{ if .Params.emoji }}
-          <span class='section' data-emoji='{{.Params.emoji}}' data-section='{{ lower .Title }}'>{{.Params.emoji}} {{ .Title }}</span>
+          <li><a class='section' data-emoji='{{.Params.emoji}}' data-section='{{ lower .Title }}'>{{.Params.emoji}} {{ .Title }}</a></li>
         {{ end }}
       {{ end }}
-    </div>
+    </ul>
 
     <hr>
 

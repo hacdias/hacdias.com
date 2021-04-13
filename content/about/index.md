@@ -20,26 +20,8 @@ noMentions: true
   }
 }
 
-/* TODO: deduplicate it? Search, Tags, Here */
-.terms {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-.terms li {
-  display: inline-block;
-  margin: 0 .5rem .5rem 0;
-}
-
 .terms a,
 .terms a:visited {
-  text-decoration: none;
-  font-size: .875rem;
-  padding: .5rem;
-  background-color: var(--near-white);
-  color: var(--gray);
-  display: inline-block;
   font-weight: bold;
 }
 </style>
