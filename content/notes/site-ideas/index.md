@@ -2,17 +2,52 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-04-12T06:06:11.499334886Z
+lastmod: 2021-04-13T12:06:11.499334886Z
 ---
 
-- Notes: clean up titles, tags and notes in general.
-- Make TOC better (sidebar?) and make it work on mobile.
-- Finish [uses](/uses)
-- Take pictures of old versions of my website, publish: `/meta/historical`.
-- Gallery of Winter pictures?
+<p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
+
+<div class="box blue">
+
+Wanna know more about the website? Check out the [meta page](/meta)!
+
+</div>
+
+- Finish [**uses**](/uses).
+- Create `/meta/historical` with pictures of old versions of my website.
 - Remove `.Params.social` and replace by `.Params.cover`.
 - Add `.Params.cover` to Eagle.
 - Move all images to CDN except SVGs?
+- **Travelling** tracker
+  - Map visualization with places I have been to.
+  - [Stammy](https://paulstamatiou.com/) has really nice map animations.
+  - Perhaps import my.flightradar24.com account with the flights I have done?
+- **Notes** section
+  - Clean up titles.
+  - Clean up tags.
+  - Clean up content.
+- **Table of Contents**
+  - Perhaps add sidebar on Notes pages with TOC.
+  - Work on mobile.
+- **Comments**
+  - Submit directly from post with form: name, website, comment (mandatory).
+  - Should I publish them under another page so I can easily reply through micro interactions? Seems like it could create too much trouble and content on my website.
+- **Articles**
+  - Move out of year/month folder structure.
+- **Protocol support**
+  - TOR
+  - Gemini
+- **Reading** section
+  - Delete GoodReads account.
+  - Create backend interface to edit reads / progress / info.
+  - Allow for review and stars.
+  - IndieWeb meta tags.
+  - Pictures for covers?
+- Improved **caching**
+  - Add caching headers
+  - Phase 1: update all search index on changed files & purge ALL CloudFlare cache.
+  - Phase 2: update modified search index & purge SOME CloudFlare cache.
+  - https://api.cloudflare.com/#zone-purge-all-files
 
 ## Posts
 
@@ -29,33 +64,3 @@ lastmod: 2021-04-12T06:06:11.499334886Z
 
 - `/u/` - random uploads and pictures that do NOT need resizing
 - `/i/` - pictures that NEED resizing and compressing
-
-## Features
-
-
-[Eagle](https://github.com/hacdias/eagle) powers my website.
-
-- On sync:
-  - Add caching headers
-  - Phase 1: update index on changed files && purge ALL cloudflare cache
-  - Phase 2: update SOME index && purge SOME cloudflare cache
-  - https://api.cloudflare.com/#zone-purge-all-files
-- cli for local management
-- **comments**
-	- system to submit comments directly on my website
-	- should i publish them under another page so I can easily reply through micro interactions? that could create too much trouble and content on my website.  NO.
-	- simple POST in page.
-- **search**: consider search while typing
-- move newsletter/thanks and goodbye to other places
-- **pixelart**: add custom section or tag.
-- Import _my.flightradar24.com_ and make a visualization map and table. Maybe ditch Flightradar24 completely.
-- **goodreads** farewell
-	- stop relying on GoodReads for my readings section
-	- create interface that allows me to edit the reads / progress / info
-	- add link for possible review
-	- indieweb meta tags?
-	- include the few reviews I did as well as stars?
-	- pictures for covers?
-- Serve my website over Gemini
-- Serve my website over TOR
-- **articles**: move out of year/month folders
