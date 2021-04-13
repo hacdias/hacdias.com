@@ -90,7 +90,7 @@ human-computer interaction.
 
 ## Contact Info
 
-- **w:** [https://hacdias.com](https://hacdias.com)
+- **w:** [hacdias.com](https://hacdias.com)
 - **e:** [mail@hacdias.com](mailto:mail@hacdias.com)
 - **g:** [github.com/hacdias](https://github.com/hacdias)
 - **l:** [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
