@@ -7,8 +7,7 @@ noMentions: true
 
 ## Interests
 
-Computer networking, distributed systems, peer-to-peer infrastructures, storage methods,
-human-computer interaction.
+Decentralized infrastructure, distributed systems, peer-to-peer systems, web infrastructure, web systems, human-computer interaction, logic.
 
 ## Education
 
