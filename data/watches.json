@@ -1823,6 +1823,16 @@
   ],
   "series": [
     {
+      "title": "The Irregulars",
+      "watched": "2021-04-14T11:04:48.000Z",
+      "url": "https://trakt.tv/shows/the-irregulars"
+    },
+    {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-04-14T09:27:31.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "RuPaul's Drag Race",
       "watched": "2021-04-12T10:27:27.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
@@ -1866,11 +1876,6 @@
       "title": "Shadowhunters",
       "watched": "2021-03-12T12:16:22.000Z",
       "url": "https://trakt.tv/shows/shadowhunters"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2021-03-09T08:00:00.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "RuPaul's Drag Race All Stars: Untucked!",
