@@ -37,16 +37,13 @@ I believe in transparency and openness, in a united Europe 🇪🇺 and that all
 
 Back in 2014, when I started this website, I wrote my first ever post, in Portuguese, where I said my goal as a Software Engineer would be to [improve the world](/articles/2014/07/apresentacao/) somehow. Even though it is a cliché, it doesn't mean it is not true. I enjoy helping people, and we all should never forget that we live in a society so our actions matter.
 
+### 🤔 The (un)story of my handle
+
+Most likely you've already noticed that my handle, `@hacdias`, reminds of the word 'hack'. However, I can assure you they have nothing to do with each other. It was a mere coincidence between the first letters of my first name and middle names - 'hac' - and last name - 'dias' - that I happen to enjoy.
+
 <ul class='terms'>
   <li><a title="Contact" href="../contact/">✉️ Contact</a></li>
   <li><a title="Resume" href="../resume/">📄 Resume</a></li>
   <li><a title="Projects" href="../projects/">📦 Projects</a></li>
   <li><a title="Meta" href="../meta/">⚙️ Meta</a></li>
 </ul>
-
-<!--
-## 🤔 The (un)story of my handle
-
-Most likely you've already noticed that my handle, `@hacdias`, reminds of the word 'hack'. However, I can assure you they have nothing to do with each other. It was a mere coincidence between the first letters of my first name and middle names - 'hac' - and last name - 'dias' - that I happen to enjoy.
-
--->
