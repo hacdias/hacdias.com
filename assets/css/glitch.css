@@ -209,3 +209,11 @@
     animation: none;
   }
 }
+
+@media print {
+  .glitch:before,
+  .glitch:after {
+    content: '';
+    animation: none;
+  }
+}
