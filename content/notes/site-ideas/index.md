@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-04-13T12:06:11.499334886Z
+lastmod: 2021-04-14T07:36:36.006975542Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -36,7 +36,7 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Move out of year/month folder structure.
 - **Protocol support**
   - TOR
-  - Gemini
+  - Gemini [post](https://brainbaking.com/post/2021/04/using-hugo-to-launch-a-gemini-capsule/)
 - **Reading** section
   - Delete GoodReads account.
   - Create backend interface to edit reads / progress / info.
