@@ -395,21 +395,13 @@ details {
   font-weight: 500;
 }
 
-.more,
-.tags {
-  font-size: var(--f6);
-  text-align: right;
-}
-
-.tags {
-  margin: 1rem 0;
-  padding: 0;
-  list-style: none;
-}
-
-.tags li {
-  display: inline-block;
-  margin-left: 0.25rem;
+.tag {
+  background-color: var(--near-white);
+  color: var(--gray);
+  padding: .25em .5em;
+  text-decoration: none;
+  border-radius: var(--radius);
+  font-size: var(--f7);
 }
 
 .wm {

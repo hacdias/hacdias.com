@@ -1,5 +1,5 @@
 {{- with .Section -}}
     {{- with $.Site.GetPage (printf "/%s" .) -}}
-    in {{ with .Params.emoji }}{{ . }}{{ end }} <a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+    · {{ with .Params.emoji }}{{ . }}{{ end }} <a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
   {{- end -}}
 {{- end -}}
