@@ -46,6 +46,11 @@
       "title": "Ben Cox"
     },
     {
+      "feed": "https://brainbaking.com/index.xml",
+      "site": "https://brainbaking.com/",
+      "title": "Brain Baking"
+    },
+    {
       "feed": "https://chriswiegman.com/feed/",
       "site": "https://chriswiegman.com",
       "title": "Chris Wiegman"
@@ -69,6 +74,21 @@
       "feed": "https://dannyvankooten.com/feed.xml",
       "site": "https://dannyvankooten.com/",
       "title": "Danny van Kooten"
+    },
+    {
+      "feed": "https://daverupert.com/atom.xml",
+      "site": "https://daverupert.com",
+      "title": "Dave Rupert"
+    },
+    {
+      "feed": "https://explog.in/rss.xml",
+      "site": "https://explog.in/",
+      "title": "ExpLog"
+    },
+    {
+      "feed": "https://feross.org/atom.xml",
+      "site": "https://feross.org",
+      "title": "Feross Aboukhadijeh"
     },
     {
       "feed": "https://blog.filippo.io/rss/",
@@ -116,9 +136,29 @@
       "title": "Jethro Kuan"
     },
     {
+      "feed": "https://blog.jim-nielsen.com/feed.xml",
+      "site": "https://blog.jim-nielsen.com",
+      "title": "Jim Nielsen"
+    },
+    {
+      "feed": "https://jvns.ca/atom.xml",
+      "site": "http://jvns.ca",
+      "title": "Julia Evans"
+    },
+    {
       "feed": "https://maliks.blog/feed.xml",
       "site": "https://maliks.blog",
       "title": "Malik's Blog"
+    },
+    {
+      "feed": "https://mariosfakiolas.com/feed.xml",
+      "site": "https://mariosfakiolas.com/",
+      "title": "Marios Fakiolas"
+    },
+    {
+      "feed": "https://feeds.feedburner.com/mariusschulz",
+      "site": "https://mariusschulz.com/",
+      "title": "Marius Schulz"
     },
     {
       "feed": "https://martin.to/feeds/most.atom",
