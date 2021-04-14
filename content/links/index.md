@@ -1,7 +1,7 @@
 ---
 title: Links
 date: 2020-02-12T21:00:00Z
-lastmod: 2021-02-19T06:03:51.563164597Z
+lastmod: 2021-04-14T06:10:48.706799564Z
 aliases:
 - /pins
 - /bookmarks
@@ -47,3 +47,9 @@ This is a non-exhaustive collection of interesting links and websites I found on
 An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
 
 {{< blogroll category="following" >}}
+
+Other blogrolls/personal website lists that I find interesting:
+
+- [Darek Kay's Blogroll](https://darekkay.com/personal-blogs/)
+- [The Big List of Personal Websites](http://biglist.terraaeon.com/)
+- [PersonalSit.es](https://personalsit.es/)
