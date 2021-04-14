@@ -1,6 +1,5 @@
 ---
 title: About
-lastmod: 2021-04-12T13:05:11.440497995Z
 aliases:
 - /resume
 emoji: "\U0001F9D4"
