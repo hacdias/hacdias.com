@@ -2,23 +2,28 @@
   "artists": [
     {
       "name": "Sia",
-      "count": 12,
+      "count": 13,
       "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Slayyyter",
-      "count": 12,
+      "count": 13,
       "url": "https://www.last.fm/music/Slayyyter"
     },
     {
       "name": "Lady Gaga",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Miley Cyrus",
       "count": 10,
       "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Avril Lavigne",
+      "count": 8,
+      "url": "https://www.last.fm/music/Avril+Lavigne"
     },
     {
       "name": "RuPaul",
@@ -34,11 +39,6 @@
       "name": "a.Rose",
       "count": 7,
       "url": "https://www.last.fm/music/a.Rose"
-    },
-    {
-      "name": "Avril Lavigne",
-      "count": 7,
-      "url": "https://www.last.fm/music/Avril+Lavigne"
     },
     {
       "name": "Daði Freyr",
@@ -89,6 +89,12 @@
       "artist": "Men I Trust"
     },
     {
+      "name": "Diet Mountain Dew",
+      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
+      "count": 5,
+      "artist": "Lana Del Rey"
+    },
+    {
       "name": "Wrapped Up (feat. Travie McCoy)",
       "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
       "count": 5,
@@ -105,12 +111,6 @@
       "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
       "count": 4,
       "artist": "Billie Eilish"
-    },
-    {
-      "name": "Diet Mountain Dew",
-      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 4,
-      "artist": "Lana Del Rey"
     }
   ]
 }
