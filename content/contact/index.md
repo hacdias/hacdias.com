@@ -25,7 +25,7 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 
 Other relevant platforms where I am are:
 
-- 💻 [GitHub (@hacdias)](https://github.com/hacdias)
+- 🐙 [GitHub (@hacdias)](https://github.com/hacdias)
 - 📷 [Instagram (@hacdias)](https://instagram.com/hacdias)
 - 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
 - 💼 [LinkedIn](https://linkedin.com/in/hacdias)
