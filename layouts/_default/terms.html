@@ -8,7 +8,7 @@
   {{ end }}
 
   <ul class='terms'>
-    {{ range $i, $p := .Pages }}
+    {{ range $i, $p := .Pages.ByTitle }}
     {{ $date := $p.Date.Format "2006-01-02" }}
       <li>
         <a href="{{ .RelPermalink }}">{{ $p.Title }}</a>
