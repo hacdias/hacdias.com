@@ -1,6 +1,7 @@
 ---
 tags:
-- pixelart
+- pixelary
+- art
 date: 2020-04-08T08:15:00Z
 syndication:
 - https://twitter.com/hacdias/status/1247801115342540800
