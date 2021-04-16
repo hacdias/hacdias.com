@@ -65,9 +65,8 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 
 > <small>Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.</small>
 
-- Wrote over 400 posts about tech news, events, tips and tutorials. <small class='dnp'>[[pplware]](https://pplware.sapo.pt/author/henrique_dias/) [[pplware kids]](https://kids.pplware.sapo.pt/author/henrique_dias/)</small>
+- Wrote over 400 tutorials, tech news and other posts. <small class='dnp'>[[pplware]](https://pplware.sapo.pt/author/henrique_dias/) [[pplware kids]](https://kids.pplware.sapo.pt/author/henrique_dias/)</small>
 - Published a 60 page [e-book](/downloads/aprenda_a_programar.pdf) on how to program in C for beginners.
-- Moderated article comments.
 
 ## Projects
 
