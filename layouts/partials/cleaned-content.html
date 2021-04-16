@@ -35,4 +35,12 @@
 {{ end }}
 
 {{ $html = (trim $html " ") }}
+{{ $html = (chomp $html) }}
+
+{{ if eq .Section "photos"}}
+  {{ $pics := htmlUnescape (partial "photos/full-figures" .) | safeHTML }}
+  {{ $html = printf "%s %s" $html $pics }}
+{{ end }}
+
+{{ $html = (trim $html " ") }}
 {{ return (chomp $html) }}

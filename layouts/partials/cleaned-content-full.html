@@ -1,9 +1,0 @@
-{{ $html := partialCached "cleaned-content.html" . .Permalink }}
-
-{{ if eq .Section "photos"}}
-  {{ $pics := htmlUnescape (partial "photos/full-figures" .) | safeHTML }}
-  {{ $html = printf "%s %s" $html $pics }}
-{{ end }}
-
-{{ $html = (trim $html " ") }}
-{{ return (chomp $html) }}
