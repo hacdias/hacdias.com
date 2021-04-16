@@ -1,6 +1,10 @@
 ---
 title: Resume
 noMentions: true
+aliases:
+- /cv/
+- /curriculum/
+- /curriculum-vitae/
 ---
 
 <div>
