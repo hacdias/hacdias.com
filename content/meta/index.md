@@ -1,6 +1,6 @@
 ---
 title: About this website
-lastmod: 2021-02-19T22:44:54.003530875Z
+lastmod: 2021-04-16T08:50:47.494916583Z
 noMentions: true
 ---
 
@@ -57,15 +57,7 @@ For many times, I [wondered](/2020/01/building-micropub/) [whether](/2020/01/dyn
 
 - **Search:** I provide a full-text search endpoint, which I go into more detail on the next [section](#search).
 
-- **Webmentions** and **ActivityPub handlers**: this website supports [webmentions](#webmentions) and [AcivityPub](https://www.w3.org/TR/activitypub/). All the handlers and processments happen within Eagle.
-
-<div class="box yellow word" data-word="ActivityPub">
-
-  I am considering removing the ActivityPub support from my website. Right now, my website is able to provide posts formatted as ActivityPub entries; post to my followers when I write new content; and receive comments via ActivityPub.
-
-  What bothers me is that the logic is a bit flaky and it fails quite often. Besides, I only have 2 followers and one of them is a testing account of mine. Removing it would cleanup the code and possibly not hurt anyone.
-
-</div>
+- **Webmentions**: this website supports [webmentions](#webmentions). All the handlers and processments happen within Eagle.
 
 ## 🍇 The features {#features}
 
