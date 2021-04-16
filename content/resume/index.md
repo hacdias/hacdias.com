@@ -25,33 +25,41 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 
 ## Experience
 
-### [Protocol Labs](https://protocol.ai) — Software Engineer <small>[2017 - present]</small> {#protocol-labs}
+### [Protocol Labs][pl] — Software Engineer <small>[2017 - present]</small> {#protocol-labs}
 
-> Protocol Labs is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.
+> <small>Protocol Labs is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.</small>
 
-- Worked on [Testground](http://testground.ai/), a testing, benchmarking and simulating platform for decentralized systems.
-- Lead maintainer of [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop), an Electron application with over 800 weekly users and the most widely used IPFS client.
-- Shipped and completely revived [IPFS Web UI](https://github.com/ipfs-shipyard/ipfs-webui), a React-based web application used as a front-end to the IPFS world.
-- Shipped [Awesome IPFS](https://awesome.ipfs.io), a compilation of the most fascinating projects, datasets, tools and other material built using IPFS technology
+- Developed [Testground][pl:testground]: a testing, benchmarking and simulating platform for decentralized systems built in Go.
+- Lead maintainer of [IPFS Desktop][pl:desktop]: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron.
+- Shipped and completely revamped [IPFS Web UI][pl:webui]: a React-based web application used as a front-end for IPFS.
+- Designed and built [Awesome IPFS][pl:awesome]: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS.
 
-### [Upframe](https://upframe.io) — Head of Technology <small>[2016 - 2018]</small> {#upframe}
+[pl]: https://protocol.ai
+[pl:testground]: http://testground.ai/
+[pl:desktop]: https://github.com/ipfs/ipfs-desktop
+[pl:webui]: https://github.com/ipfs/ipfs-webui
+[pl:awesome]: https://awesome.ipfs.io
 
-> Upframe is a movement built by students, professors, companies, incubators and startup founders worldwide with a mission to promote the development of an entrepreneurial mindset in students.
+### [Upframe][upframe] — Head of Technology <small>[2016 - 2018]</small> {#upframe}
+
+> <small>Upframe is a movement built by students, professors, companies, incubators and startup founders worldwide with a mission to promote the development of an entrepreneurial mindset in students.</small>
 
 - Helped organize a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.
 - Developed a Slack bot, in Go, to manage enrollments to the program.
 - Built a REST API for managing email transactions, newsletters and enrollments in the program.
 - Developed a back-office website which allowed to see who was at the office, to send emails and to manage newsletters.
-#### On the media
+- **In the news**: [Eco][upframe:eco], [Startup Lisboa][upframe:sl], [Observador][upframe:obs] & [Dinheiro Vivo][upframe:dv].
 
-- Upframe, ou o programa de pré-aceleração que a Startup Lisboa fez seu. [[Eco]](https://eco.sapo.pt/2017/03/21/upframe-ou-o-programa-de-pre-aceleracao-que-a-startup-lisboa-fez-seu/)
-- Upframe: o novo programa de pré-aceleração powered by Startup Lisboa. [[Startup Lisboa]](https://www.startuplisboa.com/startuplisboanews/upframe-o-novo-programa-de-pr-acelerao-powered-by-startup-lisboa)
-- Upframe. Startup Lisboa lança programa para estudantes e recém-licenciados. [[Observador]](https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/)
-- Upframe. Startup Lisboa ajuda os fazedores a dar os primeiros passos. [[Dinheiro Vivo]](https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/)
+[upframe]: https://upframe.io
+[upframe:eco]: https://eco.sapo.pt/2017/03/21/upframe-ou-o-programa-de-pre-aceleracao-que-a-startup-lisboa-fez-seu/
+[upframe:sl]: https://www.startuplisboa.com/startuplisboanews/upframe-o-novo-programa-de-pr-acelerao-powered-by-startup-lisboa
+[upframe:obs]: https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/
+[upframe:dv]: https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/
+
 
 ### [Pplware](https://pplware.sapo.pt) — Content Writer <small>[2013 - 2016]</small> {#pplware}
 
-> Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.
+> <small>Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.</small>
 
 - Wrote over 400 posts about tech news, events, tips and tutorials. <small class='dnp'>[[pplware]](https://pplware.sapo.pt/author/henrique_dias/) [[pplware kids]](https://kids.pplware.sapo.pt/author/henrique_dias/)</small>
 - Published a 60 page [e-book](/downloads/aprenda_a_programar.pdf) on how to program in C for beginners.
@@ -61,7 +69,7 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 
 ### File Browser <small>[2015 - 2019] <span class='dnp'>[[code]](https://github.com/filebrowser/filebrowser)</span></small>
 
-> File Browser is a client-server software for creating and using file hosting services, allowing you to create your own cloud.
+> <small>File Browser is a client-server software for creating and using file hosting services, allowing you to create your own cloud.</small>
 
 - More than 10 000 000 downloads.
 - More than 9 000 stars on GitHub.
