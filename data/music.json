@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Slayyyter",
-      "count": 15,
+      "count": 14,
       "url": "https://www.last.fm/music/Slayyyter"
     },
     {
@@ -11,24 +11,14 @@
       "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "Lady Gaga",
+      "name": "RuPaul",
       "count": 11,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "url": "https://www.last.fm/music/RuPaul"
     },
     {
       "name": "Avril Lavigne",
       "count": 10,
       "url": "https://www.last.fm/music/Avril+Lavigne"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 10,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "RuPaul",
-      "count": 10,
-      "url": "https://www.last.fm/music/RuPaul"
     },
     {
       "name": "September",
@@ -46,6 +36,16 @@
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
     },
     {
+      "name": "Kim Petras",
+      "count": 9,
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Lady Gaga",
+      "count": 9,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
       "name": "Lana Del Rey",
       "count": 9,
       "url": "https://www.last.fm/music/Lana+Del+Rey"
@@ -55,7 +55,7 @@
     {
       "name": "I'm a Winner, Baby",
       "url": "https://www.last.fm/music/RuPaul/_/I%27m+a+Winner,+Baby",
-      "count": 10,
+      "count": 11,
       "artist": "RuPaul"
     },
     {
@@ -65,28 +65,28 @@
       "artist": "September"
     },
     {
+      "name": "Hot",
+      "url": "https://www.last.fm/music/Avril+Lavigne/_/Hot",
+      "count": 9,
+      "artist": "Avril Lavigne"
+    },
+    {
       "name": "10 Years",
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
       "count": 9,
       "artist": "Daði Freyr"
     },
     {
+      "name": "Show Me How",
+      "url": "https://www.last.fm/music/Men+I+Trust/_/Show+Me+How",
+      "count": 9,
+      "artist": "Men I Trust"
+    },
+    {
       "name": "Drama Queen",
       "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
       "count": 8,
       "artist": "a.Rose"
-    },
-    {
-      "name": "Hot",
-      "url": "https://www.last.fm/music/Avril+Lavigne/_/Hot",
-      "count": 8,
-      "artist": "Avril Lavigne"
-    },
-    {
-      "name": "Show Me How",
-      "url": "https://www.last.fm/music/Men+I+Trust/_/Show+Me+How",
-      "count": 8,
-      "artist": "Men I Trust"
     },
     {
       "name": "Diet Mountain Dew",
@@ -107,10 +107,10 @@
       "artist": "Slayyyter"
     },
     {
-      "name": "i love you",
-      "url": "https://www.last.fm/music/Billie+Eilish/_/i+love+you",
-      "count": 5,
-      "artist": "Billie Eilish"
+      "name": "Last Thing On My Mind",
+      "url": "https://www.last.fm/music/Steps/_/Last+Thing+On+My+Mind",
+      "count": 6,
+      "artist": "Steps"
     }
   ]
 }
