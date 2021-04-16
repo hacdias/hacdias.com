@@ -83,8 +83,8 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 - 10th place on National Olympiad in Informatics <small>[2016]</small>  <small class='dnp'>[[website]](http://oni.dcc.fc.up.pt/2016/)</small>
 - Deputy at District’s Youth Parliament <small>[2016]</small> <small class='dnp'>[[website]](https://jovens.parlamento.pt/index_2016.html)</small>
 - Deputy at District’s Youth Parliament <small>[2013]</small> <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2013/index.html)</small>
-- Secretary of District’s Youth Parliament and National Youth Parliament <small>[2012]</small> <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2012/index.html)</small>
-
+- Secretary of National Youth Parliament <small>[2012]</small> <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2012/index.html)</small>
+- Secretary of District’s Youth Parliament <small>[2012]</small> <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2012/index.html)</small>
 ## Licenses and Certifications
 
 - MCB80x: Fundamentals of Neuroscience <small>[June 2020] <span class='dnp'>[[certificate]](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)</span></small>
