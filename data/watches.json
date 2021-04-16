@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Love and Monsters",
+      "watched": "2021-04-16T19:55:00.000Z",
+      "url": "https://trakt.tv/movies/love-and-monsters-2020"
+    },
+    {
       "title": "What Men Want",
       "watched": "2021-04-13T19:11:42.000Z",
       "url": "https://trakt.tv/movies/what-men-want-2019"
@@ -1823,8 +1828,13 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2021-04-16T13:20:29.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "The Irregulars",
-      "watched": "2021-04-15T19:02:39.000Z",
+      "watched": "2021-04-16T12:41:41.000Z",
       "url": "https://trakt.tv/shows/the-irregulars"
     },
     {
@@ -1836,11 +1846,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2021-04-12T10:27:27.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2021-04-09T16:51:39.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "RuPaul's Drag Race: Untucked!",
