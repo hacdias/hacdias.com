@@ -1,6 +1,7 @@
 ---
 tags:
-- pixelary
+- pixelart
+- creative
 - art
 date: 2020-04-08T08:15:00Z
 syndication:

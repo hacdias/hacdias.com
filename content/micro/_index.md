@@ -1,5 +1,5 @@
 ---
-title: Micro
+title: Microblog
 emoji: "\U0001F4AC"
 ---
 
