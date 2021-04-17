@@ -17,6 +17,7 @@ TODO:
 - move interests to end or make it smaller?
 - maybe make education smaller
 - remove languages
+- remove useless certificates
 
 -->
 
