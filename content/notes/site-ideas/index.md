@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-04-14T07:36:36.006975542Z
+lastmod: 2021-04-17T06:46:33.173267627Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -14,6 +14,7 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 </div>
 
 - Finish [**uses**](/uses).
+- https://cleanuptheweb.org/
 - Create `/meta/historical` with pictures of old versions of my website.
 - Remove `.Params.social` and replace by `.Params.cover`.
 - Add `.Params.cover` to Eagle.
