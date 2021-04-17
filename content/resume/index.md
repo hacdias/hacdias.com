@@ -7,6 +7,18 @@ aliases:
 - /curriculum-vitae/
 ---
 
+<!-- 
+TODO:
+- check book tips
+- make printed version more compact
+- make header without logo and contact details
+- printed version color is darker
+- consider company descriptions, convert some to bullet points?
+- move interests to end or make it smaller?
+- maybe make education smaller
+
+-->
+
 <div>
 
 ## Interests
