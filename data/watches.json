@@ -1828,14 +1828,14 @@
   ],
   "series": [
     {
+      "title": "The Irregulars",
+      "watched": "2021-04-17T11:46:37.000Z",
+      "url": "https://trakt.tv/shows/the-irregulars"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2021-04-16T13:20:29.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "The Irregulars",
-      "watched": "2021-04-16T12:41:41.000Z",
-      "url": "https://trakt.tv/shows/the-irregulars"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
