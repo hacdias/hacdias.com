@@ -7,31 +7,45 @@ aliases:
 - /curriculum-vitae/
 ---
 
+<div class="head">
+
+<div>
+
+# Henrique Dias
+
+[hacdias.com](https://hacdias.com) // [mail@hacdias.com](mailto:mail@hacdias.com)
+
+</div>
+
+<div>
+
+- [github.com/hacdias](https://github.com/hacdias)
+- [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
+
+</div>
+
+</div>
+
+I am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and logic.
+
 <!-- 
 TODO:
 - check book tips
 - make printed version more compact
 - make header without logo and contact details
-- printed version color is darker
 - consider company descriptions, convert some to bullet points?
-- move interests to end or make it smaller?
 - maybe make education smaller
-- remove languages
 - remove useless certificates
-
 -->
-
-<div>
-
-## Interests
-
-Decentralized infrastructure, distributed systems, peer-to-peer systems, web infrastructure, web systems, human-computer interaction, logic.
 
 ## Education
 
+<!-- - **M.Sc. Computer Science and Engineering**, [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
+- **B.Sc. Information Systems and Computer Engineering**, [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small> -->
+
 ### [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
 
-- M.Sc. in Computer Science and Engineering (Web Science track)
+- M.Sc. in Computer Science and Engineering
 - Current GPA of 8 out of 10.
 
 ### [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
@@ -39,7 +53,6 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 - B.Sc. in Information Systems and Computer Engineering
 - Graduated with GPA of 16 out of 20.
 - Student Mentor for 2 years.
-- Academic Merit Award, 2017/2018.
 
 ## Experience
 
@@ -49,7 +62,7 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 
 - Developed [Testground][pl:testground]: a testing, benchmarking and simulating platform for decentralized systems built in Go.
 - Lead maintainer of [IPFS Desktop][pl:desktop]: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron.
-- Shipped and completely revamped [IPFS Web UI][pl:webui]: a React-based web application used as a front-end for IPFS.
+- Completely revamped and shipped [IPFS Web UI][pl:webui]: a React-based web application used as a front-end for IPFS.
 - Designed and built [Awesome IPFS][pl:awesome]: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS.
 
 [pl]: https://protocol.ai
@@ -66,7 +79,7 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 - Developed a Slack bot, in Go, to manage enrollments to the program.
 - Built a REST API for managing email transactions, newsletters and enrollments in the program.
 - Developed a back-office website which allowed to see who was at the office, to send emails and to manage newsletters.
-- **In the news**: [Eco][upframe:eco], [Startup Lisboa][upframe:sl], [Observador][upframe:obs] & [Dinheiro Vivo][upframe:dv].
+- In the news: [Eco][upframe:eco], [Startup Lisboa][upframe:sl], [Observador][upframe:obs] & [Dinheiro Vivo][upframe:dv].
 
 [upframe]: https://upframe.io
 [upframe:eco]: https://eco.sapo.pt/2017/03/21/upframe-ou-o-programa-de-pre-aceleracao-que-a-startup-lisboa-fez-seu/
@@ -79,12 +92,14 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 
 > <small>Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.</small>
 
-- Wrote over 400 tutorials, tech news and other posts. <small class='dnp'>[[pplware]](https://pplware.sapo.pt/author/henrique_dias/) [[pplware kids]](https://kids.pplware.sapo.pt/author/henrique_dias/)</small>
+- Wrote over 400 tutorials, tech news and other posts. <small class='dnp'>[[pplware](https://pplware.sapo.pt/author/henrique_dias/)] [[pplware kids](https://kids.pplware.sapo.pt/author/henrique_dias/)]</small>
 - Published a 60 page [e-book](/downloads/aprenda_a_programar.pdf) on how to program in C for beginners.
 
 ## Projects
 
-### File Browser <small>[2015 - 2019] <span class='dnp'>[[code]](https://github.com/filebrowser/filebrowser)</span></small>
+<!-- ### Personal Website <small>[2014 - present]</small> -->
+
+### File Browser <small>[2015 - 2019] <span class='dnp'>[[code](https://github.com/filebrowser/filebrowser)]</span></small>
 
 > <small>File Browser is a client-server software for creating and using file hosting services, allowing you to create your own cloud.</small>
 
@@ -96,31 +111,13 @@ Decentralized infrastructure, distributed systems, peer-to-peer systems, web inf
 
 ## Achievements
 
-- 6th place on National Olympiad in Informatics <small>[2017]</small> <small class='dnp'>[[website]](http://oni.dcc.fc.up.pt/2017/)</small>
-- 10th place on National Olympiad in Informatics <small>[2016]</small>  <small class='dnp'>[[website]](http://oni.dcc.fc.up.pt/2016/)</small>
-- Deputy at District’s Youth Parliament <small>[2016]</small> <small class='dnp'>[[website]](https://jovens.parlamento.pt/index_2016.html)</small>
-- Deputy at District’s Youth Parliament <small>[2013]</small> <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2013/index.html)</small>
-- Secretary of National Youth Parliament <small>[2012]</small> <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2012/index.html)</small>
-- Secretary of District’s Youth Parliament <small>[2012]</small> <small class='dnp'>[[website]](https://app.parlamento.pt/Webjovem2012/index.html)</small>
-## Licenses and Certifications
+- 6th place on National Olympiad in Informatics <small>[2017]</small> <small class='dnp'>[[website](http://oni.dcc.fc.up.pt/2017/)]</small>
+- 10th place on National Olympiad in Informatics <small>[2016]</small>  <small class='dnp'>[[website](http://oni.dcc.fc.up.pt/2016/)]</small>
+- Deputy at District’s Youth Parliament <small>[2016]</small> <small class='dnp'>[[website](https://jovens.parlamento.pt/index_2016.html)]</small>
+- Deputy at District’s Youth Parliament <small>[2013]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2013/index.html)]</small>
+- Secretary of National Youth Parliament <small>[2012]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
+- Secretary of District’s Youth Parliament <small>[2012]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
+## Certifications and Courses
 
-- MCB80x: Fundamentals of Neuroscience <small>[June 2020] <span class='dnp'>[[certificate]](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)</span></small>
+- MCB80x: Fundamentals of Neuroscience <small>[June 2020] <span class='dnp'>[[certificate](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</span></small>
 - IELTS Academic (7.5 out of 9.0, C1) <small>[September 2019]</small>
-- LFS101x.2: Introduction to Linux <small>[July 2015] <span class='dnp'>[[certificate]](https://s3.amazonaws.com/verify.edx.org/downloads/6025d361aa504358ac589cdae4e002da/Certificate.pdf)</span></small>
-
-</div>
-
-<div>
-
-## Contact Info
-
-- **w:** [hacdias.com](https://hacdias.com)
-- **e:** [mail@hacdias.com](mailto:mail@hacdias.com)
-- **g:** [github.com/hacdias](https://github.com/hacdias)
-- **l:** [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
-## Languages
-
-- English (Proficient)
-- Portuguese (Native)
-
-</div>
