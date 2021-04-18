@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Moana",
+      "watched": "2021-04-18T16:58:35.000Z",
+      "url": "https://trakt.tv/movies/moana-2016"
+    },
+    {
       "title": "Love and Monsters",
       "watched": "2021-04-16T19:55:00.000Z",
       "url": "https://trakt.tv/movies/love-and-monsters-2020"
@@ -1828,6 +1833,16 @@
   ],
   "series": [
     {
+      "title": "Good Girls",
+      "watched": "2021-04-18T16:58:23.000Z",
+      "url": "https://trakt.tv/shows/good-girls"
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "watched": "2021-04-18T07:44:15.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
+    },
+    {
       "title": "The Irregulars",
       "watched": "2021-04-17T11:46:37.000Z",
       "url": "https://trakt.tv/shows/the-irregulars"
@@ -1841,11 +1856,6 @@
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-04-14T09:27:31.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "watched": "2021-04-12T10:27:27.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race"
     },
     {
       "title": "RuPaul's Drag Race: Untucked!",
@@ -1871,11 +1881,6 @@
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-03-18T21:18:52.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "Good Girls",
-      "watched": "2021-03-14T10:24:37.000Z",
-      "url": "https://trakt.tv/shows/good-girls"
     },
     {
       "title": "Shadowhunters",
