@@ -17,13 +17,10 @@ footer {
   justify-content: center;
 }
 
-a {
-  color: var(--action);
-}
 
-h1 a,
-h2 a,
-h3 a {
+h1 > a,
+h2 > a,
+h3 > a {
   text-decoration: none;
 }
 
@@ -31,6 +28,7 @@ h2 {
   border-bottom: 1px solid var(--light-white);
   font-size: var(--f3);
   line-height: 1.5;
+  color: var(--action);
 }
 
 h3 {
@@ -68,10 +66,6 @@ h3, h4 {
   padding-bottom: 1em;
 }
 
-@page {
-  margin: 1cm;
-}
-
 .head ul {
   list-style: none;
 }
@@ -106,9 +100,14 @@ h3, h4 {
   }
 }
 
+@page {
+  margin: 1cm;
+}
+
 @media print {
   :root {
-    --dark-gray: black
+    --dark-gray: black;
+    -webkit-print-color-adjust: exact;
   }
 
   .dnp {
@@ -119,9 +118,7 @@ h3, h4 {
     margin-bottom: 0;
   }
 
-  small a,
-  a {
-    color: inherit;
-    text-decoration: underline;
+  a:hover {
+    background: none;
   }
 }

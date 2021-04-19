@@ -13,7 +13,7 @@ aliases:
 
 # Henrique Dias
 
-Eindhoven, Netherlands — [mail@hacdias.com](mailto:mail@hacdias.com)
+📍 Eindhoven, Netherlands — [mail@hacdias.com](mailto:mail@hacdias.com)
 
 </div>
 
@@ -31,9 +31,6 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 <!-- 
 TODO:
-- check book tips
-- make printed version more compact
-- make header without logo and contact details
 - consider company descriptions, convert some to bullet points?
 - maybe make education smaller
 - remove useless certificates
@@ -41,21 +38,12 @@ TODO:
 
 ## Education
 
-<!-- - **M.Sc. Computer Science and Engineering**, [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
-- **B.Sc. Information Systems and Computer Engineering**, [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small> -->
-
-### [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
-
-- M.Sc. in Computer Science and Engineering
-- Current GPA of 8 out of 10.
-
-### [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
-
-- B.Sc. in Information Systems and Computer Engineering
-- Graduated with GPA of 16 out of 20.
-- Student Mentor for 2 years.
-- Academic Merit Award, 2017/2018.
-
+- **MSc Computer Science and Engineering**, [Eindhoven University of Technology](https://tue.nl) <small>[2020 - now]</small>
+  - Current GPA of 8 out of 10.
+- **BSc Information Systems and Computer Engineering**, [Técnico Lisboa](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
+  - Graduated with GPA of 16 out of 20.
+  - Student Mentor for 2 years.
+  - Academic Merit Award, 2017/2018. 
 ## Experience
 
 ### [Protocol Labs][pl] — Software Engineer <small>[2017 - present]</small> {#protocol-labs}
@@ -99,7 +87,12 @@ TODO:
 ## Projects
 
 <!--
-### Personal Website <small>[2014 - present]</small>
+### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
+
+- Wrote over 90 articles, technical and non-technical.
+- Over 5 000 unique visitors per month.
+- Minimal frontend statically generated with [Hugo](https://gohugo.io/).
+- Backend CMS built in Go that implements features such as post creation and editing, Webmentions, Microformats, GitHub webhooks and full-text search with MeiliSearch. More about the used [technologies](/meta/).
 
 ### Caddy Plugins <small>[2015 - 2020]</small>
 
@@ -114,6 +107,12 @@ TODO:
 - Over 9 000 stars on GitHub.
 - Built with Go and JavaScript (Vue.js).
 
+<!-- ## Technologies and Languages
+
+- Languages: Java, Go, Swift, Kotlin, {other languages}
+- Technologies: MySQL, Postgres, AWS, Git, {other technologies}
+- Other: Data structures and algorithms, {other relevant skills} -->
+
 <!-- ## Talks -->
 
 ## Achievements
@@ -124,6 +123,11 @@ TODO:
 - Deputy at District’s Youth Parliament <small>[2013]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2013/index.html)]</small>
 - Secretary of National Youth Parliament <small>[2012]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
 - Secretary of District’s Youth Parliament <small>[2012]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
+<!-- - Highest GPA of Secondary School (18.1 out of 20) <small>[2017]</small>
+- Highest National Exam Grade of Secondary School (19 out of 20) <small>[2017]</small>
+- Highest GPA of 3rd Cycle (4.78 out of 5) <small>[2014]</small>
+- Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small> -->
+
 ## Certifications and Courses
 
 - MCB80x: Fundamentals of Neuroscience <small>[June 2020] <span class='dnp'>[[certificate](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</span></small>
