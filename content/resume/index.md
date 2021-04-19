@@ -41,7 +41,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ### [Protocol Labs][pl] — Software Engineer <small>[2017 - present]</small> {#protocol-labs}
 
-> Research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.
+> Protocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.
 
 - Developed [Testground][pl:testground]: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.
 - Lead maintainer of [IPFS Desktop][pl:desktop]: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron.
@@ -56,8 +56,6 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ### [Upframe][upframe] — Lead Software Engineer <small>[2016 - 2018]</small> {#upframe}
 
-> Upframe is a movement built by students, professors, companies, incubators and startup founders worldwide with a mission to promote the development of an entrepreneurial mindset in students.
-
 - Helped organize a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.
 - Built a REST API for managing email transactions, newsletters and enrollments in the program.
 - Built a Slack bot to manage enrollments to the program, in Go.
@@ -69,7 +67,6 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 [upframe:sl]: https://www.startuplisboa.com/startuplisboanews/upframe-o-novo-programa-de-pr-acelerao-powered-by-startup-lisboa
 [upframe:obs]: https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/
 [upframe:dv]: https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/
-
 
 ### [Pplware](https://pplware.sapo.pt) — Content Writer <small>[2013 - 2016]</small> {#pplware}
 
