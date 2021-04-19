@@ -81,13 +81,14 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 - Wrote over 90 articles, technical and non-technical.
 - Over 5 000 unique visitors per month.
 - Minimal frontend statically generated with [Hugo](https://gohugo.io/).
-- Backend CMS built in Go that implements features such as post creation and editing, Webmentions, Microformats, GitHub webhooks and full-text search with MeiliSearch. More about the used [technologies](/meta/).
+- Backend CMS built in Go that implements features such as post creation and editing, Webmentions, Microformats, GitHub webhooks and full-text search with MeiliSearch. More about the used [technologies](/meta/). -->
 
 ### Caddy Plugins <small>[2015 - 2020]</small>
 
-- [Caddy](https://caddyserver.com/) is a fast, HTTP/2 web server with automatic HTTPS built in Go.
-- Wrote [multiple plugins](/articles/2015/09/caddy-plugins/) for Caddy 1 to add functionalities requested by the community, such as minification on-the-fly, WebDav capabilities and installation as a service.
-- Over 1 000 000 downloads. -->
+- [Caddy](https://caddyserver.com/) is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.
+- Built [multiple plugins](/articles/2015/09/caddy-plugins/) for Caddy to add functionalities requested by the community.
+- Plugins functionalities include: on-the-fly minification, WebDav support and installation as a service.
+<!-- - Over 1 000 000 downloads. -->
 
 ### File Browser <small>[2015 - 2019] [[code](https://github.com/filebrowser/filebrowser)]</small>
 

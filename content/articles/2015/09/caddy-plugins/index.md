@@ -17,7 +17,7 @@ aliases:
 
 <!--more-->
 
-Despite having contributed few times to Caddy itself, I've managed to create some useful plugins for the first version of Caddy. In the meanwhile, a second version of Caddy was released and I chose not to update my plugins, discontinuing them. Some of the reasons regard the usage, popularity, "easyness" of migration and alternatives.
+Despite having contributed few times to Caddy itself, I have developed some useful plugins for the first version of Caddy. In the meanwhile, a second major version of Caddy was released and the plugins were discontinued.
 
 + **http.filebrowser** is an implementation of my [File Browser project](/articles/2016/06/filebrowser/) as a plugin for Caddy.
 + **http.hugo** is a web interface for [Hugo](https://gohugo.io) static website generator.
