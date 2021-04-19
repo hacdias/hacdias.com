@@ -57,7 +57,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ### [Upframe][upframe] — Lead Software Engineer <small>[2016 - 2018]</small> {#upframe}
 
-- Helped organize a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.
+- Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.
 - Built a REST API for managing email transactions, newsletters and enrollments in the program.
 - Built a Slack bot to manage enrollments to the program, in Go.
 - Built a backend which allowed to see who was at the office, to send emails and to manage newsletters.
@@ -93,8 +93,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 ### File Browser <small>[2015 - 2019] [[code](https://github.com/filebrowser/filebrowser)]</small>
 
 - Client-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained.
-- Over 10 000 000 downloads through Docker and GitHub.
-- Over 9 000 stars on GitHub.
+- Over 10 000 000 downloads through Docker and GitHub and more than 9 000 stars on GitHub.
 - Built with Go and JavaScript (Vue.js).
 
 <!-- ### WordPress Widgets <small>[2015 - 2017] [deprecated]</small>
