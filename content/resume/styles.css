@@ -56,7 +56,7 @@ h3, h4 {
 
 .head {
   display: grid;
-  grid-template-columns: repeat(2,1fr);
+  grid-template-columns: 65% 35%;
   border-bottom: 1px dashed var(--light-white);
   padding-bottom: 1em;
 }
@@ -70,6 +70,7 @@ h3, h4 {
 .head ul,
 .head li {
   margin: 0;
+  padding: 0;
 }
 
 .head > div:nth-child(2) {
@@ -92,6 +93,18 @@ h3, h4 {
   .container {
     margin: 0;
     box-shadow: none;
+  }
+}
+
+@media screen and (max-width: 45rem) {
+  .head {
+    grid-template-columns: 100%;
+    grid-gap: 1rem;
+  }
+
+  .head,
+  .head > div:nth-child(2) {
+    text-align: center;
   }
 }
 

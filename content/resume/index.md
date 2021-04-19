@@ -44,7 +44,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 > Protocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.
 
 - Developed [Testground][pl:testground]: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.
-- Lead maintainer of [IPFS Desktop][pl:desktop]: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron.
+- Lead maintainer of [IPFS Desktop][pl:desktop]: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month.
 - Revamped and shipped [IPFS Web UI][pl:webui]: a React-based web application used as a front-end for IPFS.
 - Designed and built [Awesome IPFS][pl:awesome]: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS.
 
