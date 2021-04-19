@@ -63,7 +63,13 @@ h3, h4 {
 
 .head {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2,1fr);
+  border-bottom: 1px dashed var(--light-white);
+  padding-bottom: 1em;
+}
+
+@page {
+  margin: 1cm;
 }
 
 .head ul {
@@ -113,7 +119,9 @@ h3, h4 {
     margin-bottom: 0;
   }
 
+  small a,
   a {
     color: inherit;
+    text-decoration: underline;
   }
 }

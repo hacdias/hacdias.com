@@ -13,12 +13,13 @@ aliases:
 
 # Henrique Dias
 
-[hacdias.com](https://hacdias.com) // [mail@hacdias.com](mailto:mail@hacdias.com)
+Eindhoven, Netherlands — [mail@hacdias.com](mailto:mail@hacdias.com)
 
 </div>
 
 <div>
 
+- [hacdias.com](https://hacdias.com)
 - [github.com/hacdias](https://github.com/hacdias)
 - [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
 
@@ -53,6 +54,7 @@ TODO:
 - B.Sc. in Information Systems and Computer Engineering
 - Graduated with GPA of 16 out of 20.
 - Student Mentor for 2 years.
+- Academic Merit Award, 2017/2018.
 
 ## Experience
 
@@ -90,22 +92,27 @@ TODO:
 
 ### [Pplware](https://pplware.sapo.pt) — Content Writer <small>[2013 - 2016]</small> {#pplware}
 
-> <small>Pplware is a Portuguese project which includes a tech news and tips blog, a forum, a kids-directed website and many subject-specific groups on social networks. The main goal was to deliver the most recent news, guides and tutorials for the Portuguese-speaking community.</small>
-
-- Wrote over 400 tutorials, tech news and other posts. <small class='dnp'>[[pplware](https://pplware.sapo.pt/author/henrique_dias/)] [[pplware kids](https://kids.pplware.sapo.pt/author/henrique_dias/)]</small>
-- Published a 60 page [e-book](/downloads/aprenda_a_programar.pdf) on how to program in C for beginners.
+- Largest Portuguese technology website with over 100 000 daily visitors.
+- Wrote over 400 tutorials, tech news and other articles on both [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
+- Published a 60 page [e-book](/downloads/aprenda_a_programar.pdf) on how to program in C for beginners when I was 15 years old.
 
 ## Projects
 
-<!-- ### Personal Website <small>[2014 - present]</small> -->
+<!--
+### Personal Website <small>[2014 - present]</small>
 
-### File Browser <small>[2015 - 2019] <span class='dnp'>[[code](https://github.com/filebrowser/filebrowser)]</span></small>
+### Caddy Plugins <small>[2015 - 2020]</small>
 
-> <small>File Browser is a client-server software for creating and using file hosting services, allowing you to create your own cloud.</small>
+- [Caddy](https://caddyserver.com/) is a fast, HTTP/2 web server with automatic HTTPS built in Go.
+- Wrote [multiple plugins](/articles/2015/09/caddy-plugins/) for Caddy 1 to add functionalities requested by the community, such as minification on-the-fly, WebDav capabilities and installation as a service.
+- Over 1 000 000 downloads. -->
 
-- More than 10 000 000 downloads.
-- More than 9 000 stars on GitHub.
-- Built with Go and Vue.js (JavaScript).
+### File Browser <small>[2015 - 2019] [[code](https://github.com/filebrowser/filebrowser)]</small>
+
+- Client-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained.
+- Over 10 000 000 downloads through Docker and GitHub.
+- Over 9 000 stars on GitHub.
+- Built with Go and JavaScript (Vue.js).
 
 <!-- ## Talks -->
 
