@@ -2,8 +2,13 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 18,
+      "count": 48,
       "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Sia",
+      "count": 11,
+      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Avril Lavigne",
@@ -11,14 +16,14 @@
       "url": "https://www.last.fm/music/Avril+Lavigne"
     },
     {
+      "name": "Lana Del Rey",
+      "count": 9,
+      "url": "https://www.last.fm/music/Lana+Del+Rey"
+    },
+    {
       "name": "RuPaul",
       "count": 9,
       "url": "https://www.last.fm/music/RuPaul"
-    },
-    {
-      "name": "Lana Del Rey",
-      "count": 8,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
       "name": "Men I Trust",
@@ -31,9 +36,9 @@
       "url": "https://www.last.fm/music/September"
     },
     {
-      "name": "Sia",
+      "name": "Slayyyter",
       "count": 8,
-      "url": "https://www.last.fm/music/Sia"
+      "url": "https://www.last.fm/music/Slayyyter"
     },
     {
       "name": "a.Rose",
@@ -44,11 +49,6 @@
       "name": "Daði Freyr",
       "count": 7,
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 7,
-      "url": "https://www.last.fm/music/Kim+Petras"
     }
   ],
   "tracks": [
@@ -89,27 +89,27 @@
       "artist": "Daði Freyr"
     },
     {
+      "name": "Diet Mountain Dew",
+      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
+      "count": 7,
+      "artist": "Lana Del Rey"
+    },
+    {
+      "name": "Wrapped Up (feat. Travie McCoy)",
+      "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
+      "count": 7,
+      "artist": "Olly Murs"
+    },
+    {
       "name": "Last Thing On My Mind",
       "url": "https://www.last.fm/music/Steps/_/Last+Thing+On+My+Mind",
       "count": 7,
       "artist": "Steps"
     },
     {
-      "name": "Diet Mountain Dew",
-      "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 6,
-      "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Wrapped Up (feat. Travie McCoy)",
-      "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 6,
-      "artist": "Olly Murs"
-    },
-    {
       "name": "Clouds",
       "url": "https://www.last.fm/music/Slayyyter/_/Clouds",
-      "count": 4,
+      "count": 5,
       "artist": "Slayyyter"
     }
   ]
