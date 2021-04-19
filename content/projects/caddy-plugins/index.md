@@ -2,20 +2,17 @@
 title: Caddy Plugins
 description: |
   Caddy is a lightweight, fast, general-purpose, cross-platform HTTP/2 web server with automatic HTTPS with support for plugins. I've created some.
-date: 2015-09-12T12:10:00Z
-lastmod: 2021-01-28T12:10:00Z
 aliases:
 - /articles/2015/09/12/1/
 - /2015/09/12/01/caddy-plugins/
 - /2015/09/12/01/
 - /2015/09/caddy-plugins/
-- /projects/caddy-plugins/
 - /articles/2015/09/12/1/caddy-plugins
+- /articles/2015/09/caddy-plugins/
+noMentions: true
 ---
 
 [Caddy](https://caddyserver.com) is a HTTP/2 web server with automatic HTTPS. It's easy to use, has no dependencies and it is already production-ready. One of the biggest advantages of Caddy is that it is relatively simple to create plugins that extend its own native functionalities.
-
-<!--more-->
 
 Despite having contributed few times to Caddy itself, I have developed some useful plugins for the first version of Caddy. In the meanwhile, a second major version of Caddy was released and the plugins were discontinued.
 

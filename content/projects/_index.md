@@ -4,34 +4,10 @@ description: |
   A non-exhaustive list of the most impactful and important projects I have been involved with in the past.
 emoji: "\U0001F4E6"
 noMentions: true
+layout: single
 ---
 
-<style>
-:root {
-  --action: #8e44ad;
-}
-
-body {
-  background-color: #9b59b6;
-  background-image:  linear-gradient(30deg, #8e44ad 12%, transparent 12.5%, transparent 87%, #8e44ad 87.5%, #8e44ad), linear-gradient(150deg, #8e44ad 12%, transparent 12.5%, transparent 87%, #8e44ad 87.5%, #8e44ad), linear-gradient(30deg, #8e44ad 12%, transparent 12.5%, transparent 87%, #8e44ad 87.5%, #8e44ad), linear-gradient(150deg, #8e44ad 12%, transparent 12.5%, transparent 87%, #8e44ad 87.5%, #8e44ad), linear-gradient(60deg, #8e44ad77 25%, transparent 25.5%, transparent 75%, #8e44ad77 75%, #8e44ad77), linear-gradient(60deg, #8e44ad77 25%, transparent 25.5%, transparent 75%, #8e44ad77 75%, #8e44ad77);
-  background-size: 46px 81px;
-  background-position: 0 0, 0 0, 23px 40px, 23px 40px, 0 0, 23px 40px;
-  background-attachment: fixed;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
-  grid-gap: 2.5rem 1.5rem;
-  margin: 1rem 0;
-}
-
-.grid figure {
-  margin: 0;
-}
-</style>
-
-This is a list of some of my most important and interesting projects I've worked on. Please check out my [GitHub](https://github.com/hacdias) for more packages!
+This is a list of some of my most important and interesting projects I've worked on. Please check out my [GitHub](https://github.com/hacdias) for more projects!
 
 <div class="grid">
   {{< project title="Testground"
@@ -57,7 +33,7 @@ This is a list of some of my most important and interesting projects I've worked
   {{< project title="Caddy Plugins"
     desc="Adding functionality to Caddy."
     img="caddy.jpg"
-    url="../articles/2015/09/caddy-plugins/" >}}
+    url="./caddy-plugins/" >}}
   {{< project title="Aprenda a Programar"
     desc="C ebook for beginners."
     img="aprenda-a-programar.jpg"

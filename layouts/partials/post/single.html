@@ -1,10 +1,12 @@
 <article class='h-entry'>
   <header>
+    {{ if not .IsNode }}
     <p>
       {{- partialCached "post/date" . "single" .Permalink }}
       {{- partialCached "post/section" . "single" .Permalink }}
       {{- partialCached "post/tags" . "single" .Permalink }}
     </p>
+    {{ end }}
     {{ with .Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
   </header>
 
