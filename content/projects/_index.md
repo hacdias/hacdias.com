@@ -7,7 +7,7 @@ noMentions: true
 layout: single
 ---
 
-This is a list of some of my most important and interesting projects I've worked on. Please check out my [GitHub](https://github.com/hacdias) for more projects!
+This is a display of some of the projects I have worked on. Please check out my [GitHub](https://github.com/hacdias) for my contributions to the open-source world and other projects.
 
 <div class="grid">
   {{< project title="Testground"
@@ -34,6 +34,10 @@ This is a list of some of my most important and interesting projects I've worked
     desc="Adding functionality to Caddy."
     img="caddy.jpg"
     url="./caddy-plugins/" >}}
+  {{< project title="WordPress Widgets"
+    desc="User profile widgets."
+    img="wordpress.jpg"
+    url="./wordpress-widgets/" >}}
   {{< project title="Aprenda a Programar"
     desc="C ebook for beginners."
     img="aprenda-a-programar.jpg"
@@ -44,4 +48,3 @@ This is a list of some of my most important and interesting projects I've worked
     url="https://pplware.sapo.pt" >}}
 </div>
 
-<small>If you're interested in support my work, [buy me a coffee](https://www.buymeacoffee.com/hacdias)!</small>

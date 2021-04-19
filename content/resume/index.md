@@ -100,7 +100,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 <!-- ### WordPress Widgets <small>[2015 - 2017] [deprecated]</small>
 
 - Built 3 WordPress widgets to display information of the user's GitHub, IMDb and HackerRank profiles.
-- Required knowledge in PHP, GitHub API, HackerRank API, IMDb scraping.
+- Required knowledge in PHP, GitHub API, HackerRank API and web scraping for IMDb.
 - Over 7 000 downloads. -->
 
 <!-- ## Technologies and Languages
