@@ -29,13 +29,6 @@ aliases:
 
 I am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and logic.
 
-<!-- 
-TODO:
-- consider company descriptions, convert some to bullet points?
-- maybe make education smaller
-- remove useless certificates
--->
-
 ## Education
 
 - **MSc Computer Science and Engineering**, [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
@@ -61,7 +54,7 @@ TODO:
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
-### [Upframe][upframe] — Head of Technology <small>[2016 - 2018]</small> {#upframe}
+### [Upframe][upframe] — Lead Software Engineer <small>[2016 - 2018]</small> {#upframe}
 
 > Upframe is a movement built by students, professors, companies, incubators and startup founders worldwide with a mission to promote the development of an entrepreneurial mindset in students.
 
@@ -86,8 +79,7 @@ TODO:
 
 ## Projects
 
-<!--
-### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
+<!-- ### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
 
 - Wrote over 90 articles, technical and non-technical.
 - Over 5 000 unique visitors per month.
@@ -109,7 +101,7 @@ TODO:
 
 <!-- ## Technologies and Languages
 
-- Languages: Java, Go, Swift, Kotlin, {other languages}
+- Languages: JavaScript, Go
 - Technologies: MySQL, Postgres, AWS, Git, {other technologies}
 - Other: Data structures and algorithms, {other relevant skills} -->
 
@@ -129,6 +121,6 @@ TODO:
 - Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small> -->
 
 ## Certifications and Courses
-
+<!-- Remove? -->
 - MCB80x: Fundamentals of Neuroscience <small>[June 2020] <span class='dnp'>[[certificate](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</span></small>
 - IELTS Academic (7.5 out of 9.0, C1) <small>[September 2019]</small>
