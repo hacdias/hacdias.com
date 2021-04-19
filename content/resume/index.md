@@ -72,21 +72,21 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 - Largest Portuguese technology website with over 100 000 daily visitors.
 - Wrote over 400 tutorials, tech news and other articles on both [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
-- Published a 60 page [e-book](/downloads/aprenda_a_programar.pdf) on how to program in C for beginners when I was 15 years old.
+- Published a 60 page [e-book](https://hacdias.com/downloads/aprenda_a_programar.pdf) on how to program in C for beginners when I was 15 years old.
 
 ## Projects
 
-<!-- ### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
+<!-- TODO: ### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
 
 - Wrote over 90 articles, technical and non-technical.
 - Over 5 000 unique visitors per month.
 - Minimal frontend statically generated with [Hugo](https://gohugo.io/).
-- Backend CMS built in Go that implements features such as post creation and editing, Webmentions, Microformats, GitHub webhooks and full-text search with MeiliSearch. More about the used [technologies](/meta/). -->
+- Backend CMS built in Go that implements features such as post creation and editing, Webmentions, Microformats, GitHub webhooks and full-text search with MeiliSearch. More about the used [technologies](https://hacdias.com/meta/). -->
 
 ### Caddy Plugins <small>[2015 - 2020]</small>
 
 - [Caddy](https://caddyserver.com/) is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.
-- Built [multiple plugins](/articles/2015/09/caddy-plugins/) for Caddy to add functionalities requested by the community.
+- Built [multiple plugins](https://hacdias.com/articles/2015/09/caddy-plugins/) for Caddy to add functionalities requested by the community.
 - Plugins functionalities include: on-the-fly minification, WebDav support and installation as a service.
 <!-- - Over 1 000 000 downloads. -->
 
@@ -97,13 +97,21 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 - Over 9 000 stars on GitHub.
 - Built with Go and JavaScript (Vue.js).
 
+<!-- ### WordPress Widgets <small>[2015 - 2017] [deprecated]</small>
+
+- Built 3 WordPress widgets to display information of the user's GitHub, IMDb and HackerRank profiles.
+- Required knowledge in PHP, GitHub API, HackerRank API, IMDb scraping.
+- Over 7 000 downloads. -->
+
 <!-- ## Technologies and Languages
 
-- Languages: JavaScript, Go
-- Technologies: MySQL, Postgres, AWS, Git, {other technologies}
+- Languages: JavaScript, Go.
+- Technologies: Node.js, AWS, Git, Electron.
 - Other: Data structures and algorithms, {other relevant skills} -->
 
-<!-- ## Talks -->
+<!-- ## Talks
+
+- A quick dive into the dWeb with IPFS <small>[[talk](https://hacdias.com/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small> -->
 
 ## Achievements
 
