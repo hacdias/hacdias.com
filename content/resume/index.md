@@ -33,6 +33,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 - **MSc Computer Science and Engineering**, [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
   - Current GPA of 8 out of 10.
+  - Expected to graduate in the summer of 2022.
 - **BSc Information Systems and Computer Engineering**, [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
   - Graduated with GPA of 16 out of 20.
   - Student Mentor for 2 years.
