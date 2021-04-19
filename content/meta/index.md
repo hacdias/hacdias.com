@@ -1,6 +1,6 @@
 ---
 title: About this website
-lastmod: 2021-04-16T08:55:42.937953412Z
+lastmod: 2021-04-19T10:01:31.777150016Z
 noMentions: true
 ---
 
@@ -16,7 +16,7 @@ This website was started in 2014, when I was 14. The [first post](/articles/2014
 
 I kept writing in Portuguese until the beginning of 2015. Then, I aimed for something more: to write in English. As a 15 year old, I felt the urge to develop my English skills and I thought having a blog would help. In retrospective, I am pretty sure it did!
 
-Some more years passed, and now we're here, at **hacdias.com**. The old domain still exists, I still have it, and it merely redirects here. Since 2014, this website suffered, at least, 16 complete redesigns. For the future, I will try holding off more redesigns. I'm not yet 100% happy with the current design, which I have since September 2020.
+Some more years passed, I created a few other blogs, and now we're here, at **hacdias.com**. The old domain still exists, I still have it, and it merely redirects here. Since 2014, this website suffered, at least, 16 complete redesigns. For the future, I will try holding off more redesigns. I'm not yet 100% happy with the current design, which I have since September 2020.
 
 ## 💡 Why does this website exist? {#why}
 
