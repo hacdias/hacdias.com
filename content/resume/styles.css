@@ -42,11 +42,6 @@ h3 small {
   color: var(--light-gray);
 }
 
-blockquote p small {
-  color: inherit;
-  font-weight: inherit;
-}
-
 h4 {
   font-size: var(--f5);
 }
