@@ -76,19 +76,18 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ## Projects
 
-<!-- TODO: ### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
+### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
 
-- Wrote over 90 articles, technical and non-technical.
-- Over 5 000 unique visitors per month.
-- Minimal frontend statically generated with [Hugo](https://gohugo.io/).
-- Backend CMS built in Go that implements features such as post creation and editing, Webmentions, Microformats, GitHub webhooks and full-text search with MeiliSearch. More about the used [technologies](https://hacdias.com/meta/). -->
+- Running my [personal website](https://hacdias.com) since 2014, allowing me to experiment with different technologies. Nowadays, it is composed by a mix of a static generator, plus a custom backend built in Go.
+- Custom backend supports post management, full-text search, interaction with a few services' APIs, among other features. Read more about [how it works](https://hacdias.com/meta/).
+- The blog contains both technical and non-technical articles and receives over 5 000 unique visitors per month.
 
 ### Caddy Plugins <small>[2015 - 2020]</small>
 
 - [Caddy](https://caddyserver.com/) is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.
 - Built [multiple plugins](https://hacdias.com/articles/2015/09/caddy-plugins/) for Caddy to add functionalities requested by the community.
 - Plugins functionalities include: on-the-fly minification, WebDav support and installation as a service.
-<!-- - Over 1 000 000 downloads. -->
+- Over 50 000 downloads. <!-- TODO; maybe get better estimate -->
 
 ### File Browser <small>[2015 - 2019] [[code](https://github.com/filebrowser/filebrowser)]</small>
 

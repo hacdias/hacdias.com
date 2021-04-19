@@ -12,7 +12,7 @@ aliases:
 noMentions: true
 ---
 
-[Caddy](https://caddyserver.com) is a HTTP/2 web server with automatic HTTPS. It's easy to use, has no dependencies and it is already production-ready. One of the biggest advantages of Caddy is that it is relatively simple to create plugins that extend its own native functionalities.
+[Caddy](https://caddyserver.com) is a HTTP/2 web server with automatic HTTPS. It's easy to use, has no dependencies and it is already production-ready. One of the biggest advantages of Caddy is that it is relatively simple to create plugins that extend its own native functionalities, using Go.
 
 Despite having contributed few times to Caddy itself, I have developed some useful plugins for the first version of Caddy. In the meanwhile, a second major version of Caddy was released and the plugins were discontinued.
 
