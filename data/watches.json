@@ -1833,6 +1833,11 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-04-21T18:05:28.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Good Girls",
       "watched": "2021-04-18T16:58:23.000Z",
       "url": "https://trakt.tv/shows/good-girls"
@@ -1866,11 +1871,6 @@
       "title": "Snowpiercer",
       "watched": "2021-04-02T11:46:25.000Z",
       "url": "https://trakt.tv/shows/snowpiercer"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-03-30T20:32:55.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Heathrow: Britain's Busiest Airport",
