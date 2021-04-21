@@ -42,7 +42,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ### [Protocol Labs][pl] — Software Engineer <small>[2017 - present]</small> {#protocol-labs}
 
-> Protocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.
+> <small>Protocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.</small>
 
 - Developed [Testground][pl:testground]: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.
 - Lead maintainer of [IPFS Desktop][pl:desktop]: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month.
@@ -56,6 +56,8 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 [pl:awesome]: https://awesome.ipfs.io
 
 ### [Upframe][upframe] — Lead Software Engineer <small>[2016 - 2018]</small> {#upframe}
+
+> <small>Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.</small>
 
 - Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.
 - Built a REST API for managing email transactions, newsletters and enrollments in the program.
@@ -71,7 +73,8 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ### [Pplware](https://pplware.sapo.pt) — Content Writer <small>[2013 - 2016]</small> {#pplware}
 
-- Largest Portuguese technology website with over 100 000 daily visitors.
+> <small>Pplware is a the largest Portuguese technology website with over 100 000 daily visitors.</small>
+
 - Wrote over 400 tutorials, tech news and other articles on both [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
 - Published a 60 page [e-book](https://hacdias.com/downloads/aprenda_a_programar.pdf) on how to program in C for beginners when I was 15 years old.
 

@@ -77,6 +77,10 @@ h3, h4 {
   text-align: right;
 }
 
+blockquote p small {
+  color: inherit;
+}
+
 @media not print {
   div > h2 {
     margin-top: 0;
