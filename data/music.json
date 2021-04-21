@@ -2,23 +2,13 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 47,
+      "count": 46,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Sia",
-      "count": 9,
-      "url": "https://www.last.fm/music/Sia"
-    },
-    {
-      "name": "Avril Lavigne",
-      "count": 8,
-      "url": "https://www.last.fm/music/Avril+Lavigne"
-    },
-    {
-      "name": "Lana Del Rey",
-      "count": 8,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
+      "name": "Charli XCX",
+      "count": 7,
+      "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
       "name": "Men I Trust",
@@ -26,55 +16,47 @@
       "url": "https://www.last.fm/music/Men+I+Trust"
     },
     {
-      "name": "RuPaul",
-      "count": 7,
-      "url": "https://www.last.fm/music/RuPaul"
-    },
-    {
-      "name": "September",
-      "count": 7,
-      "url": "https://www.last.fm/music/September"
-    },
-    {
-      "name": "Slayyyter",
-      "count": 7,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
       "name": "Steps",
       "count": 7,
       "url": "https://www.last.fm/music/Steps"
     },
     {
-      "name": "a.Rose",
+      "name": "Avril Lavigne",
       "count": 6,
+      "url": "https://www.last.fm/music/Avril+Lavigne"
+    },
+    {
+      "name": "Lana Del Rey",
+      "count": 6,
+      "url": "https://www.last.fm/music/Lana+Del+Rey"
+    },
+    {
+      "name": "RuPaul",
+      "count": 6,
+      "url": "https://www.last.fm/music/RuPaul"
+    },
+    {
+      "name": "September",
+      "count": 6,
+      "url": "https://www.last.fm/music/September"
+    },
+    {
+      "name": "Slayyyter",
+      "count": 6,
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    {
+      "name": "a.Rose",
+      "count": 5,
       "url": "https://www.last.fm/music/a.Rose"
     }
   ],
   "tracks": [
     {
-      "name": "Hot",
-      "url": "https://www.last.fm/music/Avril+Lavigne/_/Hot",
-      "count": 7,
-      "artist": "Avril Lavigne"
-    },
-    {
       "name": "Show Me How",
       "url": "https://www.last.fm/music/Men+I+Trust/_/Show+Me+How",
       "count": 7,
       "artist": "Men I Trust"
-    },
-    {
-      "name": "I'm a Winner, Baby",
-      "url": "https://www.last.fm/music/RuPaul/_/I%27m+a+Winner,+Baby",
-      "count": 7,
-      "artist": "RuPaul"
-    },
-    {
-      "name": "Cry For You",
-      "url": "https://www.last.fm/music/September/_/Cry+For+You",
-      "count": 7,
-      "artist": "September"
     },
     {
       "name": "Last Thing On My Mind",
@@ -83,34 +65,52 @@
       "artist": "Steps"
     },
     {
+      "name": "Hot",
+      "url": "https://www.last.fm/music/Avril+Lavigne/_/Hot",
+      "count": 6,
+      "artist": "Avril Lavigne"
+    },
+    {
+      "name": "I'm a Winner, Baby",
+      "url": "https://www.last.fm/music/RuPaul/_/I%27m+a+Winner,+Baby",
+      "count": 6,
+      "artist": "RuPaul"
+    },
+    {
+      "name": "Cry For You",
+      "url": "https://www.last.fm/music/September/_/Cry+For+You",
+      "count": 6,
+      "artist": "September"
+    },
+    {
       "name": "Drama Queen",
       "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
-      "count": 6,
+      "count": 5,
       "artist": "a.Rose"
+    },
+    {
+      "name": "Monster",
+      "url": "https://www.last.fm/music/BOY+SIM/_/Monster",
+      "count": 5,
+      "artist": "BOY SIM"
+    },
+    {
+      "name": "Stay Away",
+      "url": "https://www.last.fm/music/Charli+XCX/_/Stay+Away",
+      "count": 5,
+      "artist": "Charli XCX"
     },
     {
       "name": "10 Years",
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
-      "count": 6,
+      "count": 5,
       "artist": "Daði Freyr"
     },
     {
       "name": "Diet Mountain Dew",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 6,
+      "count": 5,
       "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Wrapped Up (feat. Travie McCoy)",
-      "url": "https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+(feat.+Travie+McCoy)",
-      "count": 6,
-      "artist": "Olly Murs"
-    },
-    {
-      "name": "Monster",
-      "url": "https://www.last.fm/music/BOY+SIM/_/Monster",
-      "count": 4,
-      "artist": "BOY SIM"
     }
   ]
 }
