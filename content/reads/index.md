@@ -2,9 +2,10 @@
 title: Reads
 description: |
   A bookshelf of the books I have read in the past and the books I would like to read.
-emoji: "\U0001F4D5"
 aliases:
 - /books
+emoji: "\U0001F4D5"
+noMentions: true
 ---
 
 <style>
