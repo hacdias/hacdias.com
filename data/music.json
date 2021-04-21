@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 46,
+      "count": 47,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -41,14 +41,14 @@
       "url": "https://www.last.fm/music/September"
     },
     {
-      "name": "Slayyyter",
-      "count": 6,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
       "name": "a.Rose",
       "count": 5,
       "url": "https://www.last.fm/music/a.Rose"
+    },
+    {
+      "name": "BOY SIM",
+      "count": 5,
+      "url": "https://www.last.fm/music/BOY+SIM"
     }
   ],
   "tracks": [
