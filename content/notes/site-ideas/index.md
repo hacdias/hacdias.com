@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-04-17T06:46:33.173267627Z
+lastmod: 2021-04-22T05:47:34.775140369Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -23,6 +23,7 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Map visualization with places I have been to.
   - [Stammy](https://paulstamatiou.com/) has really nice map animations.
   - Perhaps import my.flightradar24.com account with the flights I have done?
+  - Use partially swarm?
 - **Notes** section
   - Clean up titles.
   - Clean up tags.
@@ -44,6 +45,8 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Allow for review and stars.
   - IndieWeb meta tags.
   - Pictures for covers?
+- **Listens** section
+  - Make more interesting graphs
 - Improved **caching**
   - Add caching headers
   - Phase 1: update all search index on changed files & purge ALL CloudFlare cache.

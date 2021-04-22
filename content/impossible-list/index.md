@@ -1,7 +1,8 @@
 ---
 title: Impossible List
 date: 2020-07-15T00:00:00Z
-lastmod: 2021-01-28T00:00:00Z
+lastmod: 2021-04-22T05:45:45.197172973Z
+noMentions: true
 ---
 
 <style>
@@ -30,6 +31,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Give a talk to more than 100 people
 - ~~Write a self-published book~~  (February 2015, [link](/articles/2015/02/aprenda-a-programar/))
 - Write a fiction book
+- Write a non-fiction book
 - Learn to play an instrument
 - ~~Become proficient in a second language~~ (September 2019, English C1)
 - ~~Become fluent in English~~
