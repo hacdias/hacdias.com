@@ -7,13 +7,23 @@
     },
     {
       "name": "Charli XCX",
-      "count": 7,
+      "count": 9,
       "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
+      "name": "BOY SIM",
+      "count": 7,
+      "url": "https://www.last.fm/music/BOY+SIM"
     },
     {
       "name": "Men I Trust",
       "count": 7,
       "url": "https://www.last.fm/music/Men+I+Trust"
+    },
+    {
+      "name": "Sia",
+      "count": 7,
+      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Steps",
@@ -26,32 +36,34 @@
       "url": "https://www.last.fm/music/Avril+Lavigne"
     },
     {
-      "name": "Lana Del Rey",
-      "count": 6,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
-    },
-    {
       "name": "RuPaul",
       "count": 6,
       "url": "https://www.last.fm/music/RuPaul"
     },
     {
+      "name": "Lana Del Rey",
+      "count": 5,
+      "url": "https://www.last.fm/music/Lana+Del+Rey"
+    },
+    {
       "name": "September",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/September"
-    },
-    {
-      "name": "a.Rose",
-      "count": 5,
-      "url": "https://www.last.fm/music/a.Rose"
-    },
-    {
-      "name": "BOY SIM",
-      "count": 5,
-      "url": "https://www.last.fm/music/BOY+SIM"
     }
   ],
   "tracks": [
+    {
+      "name": "Monster",
+      "url": "https://www.last.fm/music/BOY+SIM/_/Monster",
+      "count": 7,
+      "artist": "BOY SIM"
+    },
+    {
+      "name": "Stay Away",
+      "url": "https://www.last.fm/music/Charli+XCX/_/Stay+Away",
+      "count": 7,
+      "artist": "Charli XCX"
+    },
     {
       "name": "Show Me How",
       "url": "https://www.last.fm/music/Men+I+Trust/_/Show+Me+How",
@@ -79,37 +91,25 @@
     {
       "name": "Cry For You",
       "url": "https://www.last.fm/music/September/_/Cry+For+You",
-      "count": 6,
+      "count": 5,
       "artist": "September"
     },
     {
       "name": "Drama Queen",
       "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
-      "count": 5,
+      "count": 4,
       "artist": "a.Rose"
-    },
-    {
-      "name": "Monster",
-      "url": "https://www.last.fm/music/BOY+SIM/_/Monster",
-      "count": 5,
-      "artist": "BOY SIM"
-    },
-    {
-      "name": "Stay Away",
-      "url": "https://www.last.fm/music/Charli+XCX/_/Stay+Away",
-      "count": 5,
-      "artist": "Charli XCX"
     },
     {
       "name": "10 Years",
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
-      "count": 5,
+      "count": 4,
       "artist": "Daði Freyr"
     },
     {
       "name": "Diet Mountain Dew",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Diet+Mountain+Dew",
-      "count": 5,
+      "count": 4,
       "artist": "Lana Del Rey"
     }
   ]
