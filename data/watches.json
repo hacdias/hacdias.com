@@ -1833,6 +1833,11 @@
   ],
   "series": [
     {
+      "title": "The Shannara Chronicles",
+      "watched": "2021-04-26T12:25:48.000Z",
+      "url": "https://trakt.tv/shows/the-shannara-chronicles"
+    },
+    {
       "title": "RuPaul's Drag Race",
       "watched": "2021-04-24T20:18:08.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
@@ -1841,11 +1846,6 @@
       "title": "Young Sheldon",
       "watched": "2021-04-24T16:06:47.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "The Shannara Chronicles",
-      "watched": "2021-04-24T06:48:13.000Z",
-      "url": "https://trakt.tv/shows/the-shannara-chronicles"
     },
     {
       "title": "The Good Doctor",
