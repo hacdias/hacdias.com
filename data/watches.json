@@ -1833,6 +1833,16 @@
   ],
   "series": [
     {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-04-28T05:06:52.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
+      "title": "The Good Doctor",
+      "watched": "2021-04-28T05:06:50.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "The Shannara Chronicles",
       "watched": "2021-04-26T12:25:48.000Z",
       "url": "https://trakt.tv/shows/the-shannara-chronicles"
@@ -1848,11 +1858,6 @@
       "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
-      "title": "The Good Doctor",
-      "watched": "2021-04-21T18:05:28.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
       "title": "Good Girls",
       "watched": "2021-04-18T16:58:23.000Z",
       "url": "https://trakt.tv/shows/good-girls"
@@ -1861,11 +1866,6 @@
       "title": "The Irregulars",
       "watched": "2021-04-17T11:46:37.000Z",
       "url": "https://trakt.tv/shows/the-irregulars"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2021-04-14T09:27:31.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "RuPaul's Drag Race: Untucked!",
