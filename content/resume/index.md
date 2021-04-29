@@ -36,7 +36,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
   - Expected to graduate in the summer of 2022.
 - **BSc Information Systems and Computer Engineering**, [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
   - Graduated with GPA of 16 out of 20.
-  - Student Mentor for 2 years.
+  - Volunteered as Student Mentor for 2 years.
   - Academic Merit Award, 2017/2018. 
 ## Experience
 
