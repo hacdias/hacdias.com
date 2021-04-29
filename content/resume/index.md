@@ -117,12 +117,12 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ## Achievements
 
-- 6th place on National Olympiad in Informatics <small>[2017]</small> <small class='dnp'>[[website](http://oni.dcc.fc.up.pt/2017/)]</small>
-- 10th place on National Olympiad in Informatics <small>[2016]</small>  <small class='dnp'>[[website](http://oni.dcc.fc.up.pt/2016/)]</small>
-- Deputy at District’s Youth Parliament <small>[2016]</small> <small class='dnp'>[[website](https://jovens.parlamento.pt/index_2016.html)]</small>
-- Deputy at District’s Youth Parliament <small>[2013]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2013/index.html)]</small>
-- Secretary of National Youth Parliament <small>[2012]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
-- Secretary of District’s Youth Parliament <small>[2012]</small> <small class='dnp'>[[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
+- 6th place on National Olympiad in Informatics <small>[2017] [[website](http://oni.dcc.fc.up.pt/2017/)]</small>
+- 10th place on National Olympiad in Informatics <small>[2016] [[website](http://oni.dcc.fc.up.pt/2016/)]</small>
+- Deputy at District’s Youth Parliament <small>[2016] [[website](https://jovens.parlamento.pt/index_2016.html)]</small>
+- Deputy at District’s Youth Parliament <small>[2013] [[website](https://app.parlamento.pt/Webjovem2013/index.html)]</small>
+- Secretary of National Youth Parliament <small>[2012] [[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
+- Secretary of District’s Youth Parliament <small>[2012] [[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
 <!-- - Highest GPA of Secondary School (18.1 out of 20) <small>[2017]</small>
 - Highest National Exam Grade of Secondary School (19 out of 20) <small>[2017]</small>
 - Highest GPA of 3rd Cycle (4.78 out of 5) <small>[2014]</small>
@@ -130,5 +130,5 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ## Certifications and Courses
 <!-- Remove? -->
-- MCB80x: Fundamentals of Neuroscience <small>[June 2020] <span class='dnp'>[[certificate](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</span></small>
+- MCB80x: Fundamentals of Neuroscience <small>[June 2020] [[certificate](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
 - IELTS Academic (7.5 out of 9.0, C1) <small>[September 2019]</small>
