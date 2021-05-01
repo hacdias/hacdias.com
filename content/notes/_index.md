@@ -6,10 +6,6 @@ layout: articles
 ---
 
 <style>
-:root {
-  --action: #16a085;
-}
-
 body {
   background-color: #1abc9c;
   background-image:  repeating-radial-gradient(circle at 0 0, transparent 0, #1abc9c 20px), repeating-linear-gradient(#16a08555, #16a085);

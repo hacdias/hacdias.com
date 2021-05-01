@@ -10,7 +10,7 @@
     {{ with .Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
   </header>
 
-  {{ if or .Params.toc (eq .Section "notes") }}
+  {{ if eq .Section "notes" }}
   <div id="toc">
     <p>Table of Contents</p>
     {{ .TableOfContents }}

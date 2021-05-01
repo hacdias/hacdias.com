@@ -55,6 +55,9 @@
   {{- with .Resources.GetMatch "styles.css"}}
     {{- .Content | safeCSS }}
   {{- end }}
+  {{ if eq .Section "notes" }}
+    {{- (resources.Get "css/notes.css" | resources.Minify).Content | safeCSS -}}
+  {{ end }}
 </style>
 
 {{ if .IsHome }}
