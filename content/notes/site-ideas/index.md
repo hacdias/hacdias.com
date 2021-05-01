@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-04-22T05:47:34.775140369Z
+lastmod: 2021-05-01T08:51:00.199924847Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
