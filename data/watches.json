@@ -1833,14 +1833,14 @@
   ],
   "series": [
     {
+      "title": "The Shannara Chronicles",
+      "watched": "2021-05-02T19:06:03.000Z",
+      "url": "https://trakt.tv/shows/the-shannara-chronicles"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2021-05-01T09:11:11.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
-    },
-    {
-      "title": "The Shannara Chronicles",
-      "watched": "2021-05-01T06:45:29.000Z",
-      "url": "https://trakt.tv/shows/the-shannara-chronicles"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
