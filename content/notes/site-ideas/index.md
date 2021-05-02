@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-05-01T08:51:00.199924847Z
+lastmod: 2021-05-02T21:02:32.938000798Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -31,9 +31,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 - **Table of Contents**
   - Perhaps add sidebar on Notes pages with TOC.
   - Work on mobile.
-- **Comments**
-  - Submit directly from post with form: name, website, comment (mandatory).
-  - Should I publish them under another page so I can easily reply through micro interactions? Seems like it could create too much trouble and content on my website.
 - **Articles**
   - Move out of year/month folder structure.
 - **Protocol support**
