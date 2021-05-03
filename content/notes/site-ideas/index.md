@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-05-03T08:05:39.238014146Z
+lastmod: 2021-05-03T21:33:56.177675454Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -13,6 +13,19 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 
 </div>
 
+- **Reading** section
+  - Add reading type to Eagle
+  - Add `.Params.reading` to Eagle
+  - Create backend interface to edit reads / progress / info.
+  - IndieWeb meta tags?
+- **Notes** section
+  - Merge small notes if possible.
+  - Clean up titles.
+  - Clean up (add!) tags.
+  - Clean up content.
+  - Back-links references.
+- **Articles**
+  - Move out of year/month folder structure.
 - Finish [**uses**](/uses).
 - https://cleanuptheweb.org/
 - Create `/meta/historical` with pictures of old versions of my website.
@@ -24,22 +37,9 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - [Stammy](https://paulstamatiou.com/) has really nice map animations.
   - Perhaps import my.flightradar24.com account with the flights I have done?
   - Use partially swarm?
-- **Notes** section
-  - ~~Remove empty notes.~~
-  - Move readings to /reads.
-  - Merge small notes if possible.
-  - Clean up titles.
-  - Clean up (add!) tags.
-  - Clean up content.
-  - Back-links references.
-- **Articles**
-  - Move out of year/month folder structure.
 - **Protocol support**
   - TOR
   - Gemini [post](https://brainbaking.com/post/2021/04/using-hugo-to-launch-a-gemini-capsule/)
-- **Reading** section
-  - Create backend interface to edit reads / progress / info.
-  - IndieWeb meta tags.
 - **Listens** section
   - Make more interesting graphs
 - Improved **caching**
