@@ -26,7 +26,7 @@ IPFS uses [BitSwap](BitSwap), a [BitTorrent](BitTorrent) inspired data exchange 
 ### Objects
 
 - Objects are content addresses just like in [Git](Git) by their cryptographic hash.
-- Links to other objects are embedded, forming a Merkle DAG (**it now uses the [IPLD](IPLD) instead!!!**).
+- Links to other objects are embedded, forming a Merkle DAG (**it now uses the IPLD instead!!!**).
 
 ### Self-Certified File Systems
 
@@ -59,7 +59,7 @@ File systems in which their address location self certufues the server.
     - maximize the trade performance for the node
     - prevent exploitation from freeloaders
 - **Objects**
-  - Uses [IPLD](IPLD)
+  - Uses IPLD
   - Deduplication of blocks
   - Content-addressed
   - Can use different storage backends
@@ -71,6 +71,5 @@ File systems in which their address location self certufues the server.
   - `tree`: represents a directory, maps names to hashes.
   - `commit`: snapshot in the version history of any object. (_is this still up to date?_)
   - splitting files into lists
-- **Naming**
-  - See [IPNS](IPNS)
+- **Naming**: IPNS
 - (OPINION) "Using IPFS" section: it's a bit sad to see that most of the points are yet to be feasible nowadays. However, the protocol has evolved a lot in the past months and years.

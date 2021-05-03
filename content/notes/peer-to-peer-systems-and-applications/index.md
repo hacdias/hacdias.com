@@ -18,15 +18,15 @@ Main requirements for future Internet-based apps:
 
 Decentralized resources:
 - Data is addressed by the data itself, not by location
-- Note: people usually associate [P2P](/notes/p2p/) with file-sharing but there's a lot possibilities than that: distributed computations, verifiable elections, blockchains...
+- Note: people usually associate p2p with file-sharing but there's a lot possibilities than that: distributed computations, verifiable elections, blockchains...
 
 ## Part II: Unstructured Systems
 - Page 36: good table comparing different categories of P2P systems
 - Explains how some early p2p systems worked:
-	-  [Gnutella](/notes/gnutella/)
-	-  [Napster](/notes/napster/)
+	-  Gnutella
+	-  Napster
 
-Definition of [P2P](/notes/p2p/) system:
+Definition of p2p system:
 
 > A Peer-to-Peer system consists of computing elements that are:
 > 1. connected by a network,

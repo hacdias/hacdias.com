@@ -4,7 +4,7 @@ title: gRPC
 
 **gRPC** (gRPC Remote Procedure Calls) is a modern [Remote Procedure Call](/notes/remote-procedure-call/) mechanism, similar to traditional RPC, but developed with cloud services in mind. It was started  in 2015 by Google and it is an open source project.
 
-This implementation is built on top of [HTTP/2](/notes/http/), [TLS](/notes/tls/) and [TCP](/notes/tcp/) protocols.  Besides, it provides implementations for many programming languages.
+This implementation is built on top of [HTTP/2](/notes/http/), TLS and TCP protocols.  Besides, it provides implementations for many programming languages.
 
 For its [IDL](Interface%20Description%20Language), it uses [Protocol Buffers](/notes/protocol-buffers/). The lower level layers of gPRC do not depend on the IDL so, in theory, it would be possible to use other alternatives to protocol buffers.
 

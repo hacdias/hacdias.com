@@ -39,11 +39,11 @@ Content-Type: text/html
 
 ## HTTP 1.0
 
-- One [TCP](/notes/tcp/) connection for each request.
+- One TCP connection for each request.
 
 ## HTTP 1.1
 
-- One [TCP](/notes/tcp/) connection can make one or more requests.
+- One TCP connection can make one or more requests.
 - Requests can have arbitrary size.
 - Blockage is still possible (*Head of Line*): replies arrive on the same order.
 

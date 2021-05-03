@@ -4,11 +4,11 @@ title: IPFS
 
 - **specs**: https://github.com/ipfs/specs
 
-IPFS is a [P2P](/notes/p2p/) protocol
+IPFS is a p2p protocol
 
 ## Stack
 
-- [IPLD](/notes/ipld/)
+- IPLD
 - [BitSwap](/notes/bitswap/)
 - [Distributed Hash Table](/notes/distributed-hash-table/)
 

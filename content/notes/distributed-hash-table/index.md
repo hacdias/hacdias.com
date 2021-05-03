@@ -44,7 +44,7 @@ DHTs are Distributed Hash Tables which are P2P algorithms.
 
 ## Chord
 
-- Nodes and keys are assigned an _m_-bit identifier using an [Hashing Algorithm](/notes/hashing-algorithm/). The nodes and keys are distributed across the same identifier space.
+- Nodes and keys are assigned an _m_-bit identifier using a hashing algorithm. The nodes and keys are distributed across the same identifier space.
 - The nodes are theoretically arranged as a circle with at most $2^m$ nodes, starting from 0 to $2^m-1$.
 - Each node keeps a finger (routing) table with up to $m$ entries. The $i^{th}$ entry should contain the $(n+2^{i-1}) \mod 2^m$. If the node does not exist, it should then contain the next available successor.
     - For example, in a network with a key-size 4 (unrealistic), there are, at most 16 nodes. Each node stores the addresses for 4 nodes that are located 1, 2, 4 and 8 positions away from them, unless they do not exust.
