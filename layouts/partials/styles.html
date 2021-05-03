@@ -11,7 +11,7 @@
     {{ $notes.Content | safeCSS }}
   {{ end }}
 
-  {{ $listsWithoutCards := slice "photos" "watches" "projects" "articles" "notes" }}
+  {{ $listsWithoutCards := slice "photos" "watches" "projects" "articles" "notes" "reads" }}
   {{ if and .IsNode (not (in $listsWithoutCards .Section)) }}
     {{ $cards.Content | safeCSS }}
   {{ end }}

@@ -1,20 +1,34 @@
 {{- $type := .Get "type" -}}
-{{- $books := sort (index .Site.Data.reads $type) "name" "asc"  -}}
+{{- $books := index .Site.Data.reads $type -}}
+
+{{ if eq $type "read" }}
+  {{ range $page := where .Site.RegularPages ".Section" "=" "reads" }}
+    {{ $read := .Params.reading | merge (dict "name" .Title "permalink" .RelPermalink "date" .Date) }}
+    {{ $books = $books | append $read }}
+  {{ end }}
+{{ end }}
+
+{{- $books := sort $books "name" "asc"  -}}
 
 {{- if len $books -}}
-<table>
-  <tr>
-    <th width="65%">Name</th>
-    <th width="35%">Author</th>
-  </tr>
-
+<ul>
   {{- range $i, $book := $books -}}
-  <tr>
-    <td><a target="_blank" href="https://duckduckgo.com/?q={{ .isbn }}+{{ .name }}">{{ .name }}</a></td>
-    <td>{{ $book.author }}</td>
-  </tr>
-  {{- end -}}
-</table>
+  <li>
+    {{ if .permalink }}
+    <a href="{{ .permalink }}">{{ .name }}</a>
+    {{ else }}
+    <a target="_blank" href="https://duckduckgo.com/?q={{ .isbn }}+{{ .name }}">{{ .name }}</a>
+    {{ end }}
+    <small>
+      by {{ $book.author }}
+      {{ if in .tags "technical"}}<span title="Technical">🛠</span>{{end}}
+      {{ if in .tags "good"}}<span title="Good">⭐️</span>{{end}}
+      {{ if in .tags "favorite"}}<span title="Favorite">☄️</span>{{end}}
+      {{ if .permalink }}<span title="Notes">📄</span>{{end }}
+    </small>
+  </li>
+  {{ end }}
+</ul>
 {{- else -}}
   <p>This list seems to be empty for now 😞</p>
 {{- end -}}

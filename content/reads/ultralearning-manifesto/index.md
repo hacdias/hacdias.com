@@ -1,5 +1,9 @@
 ---
-title: Ultralearning Manifesto by Scott Young
+title: Ultralearning Manifesto
+aliases:
+- /notes/ultralearning-manifesto-by-scott-young
+reading:
+  author: Scott Young
 ---
 
 > Learning is the foundation of success in nearly every aspect of life.

@@ -1,10 +1,13 @@
 ---
 title: The Practice of Programming
+date: 2018-06-25T07:00:00.000Z
+aliases:
+- /notes/the-practice-of-programming
+reading:
+  author: Brian W. Kernighan
+  isbn: '9780201615869'
+  tags: [technical]
 ---
-
-- **isbn**: 0-201-61586-X
-- **initial read**: 2018-05-25
-- **quick reread**: 2020-06-16
 
 A quick note about the book: a lot of the things are C-specific and do not apply to other languages such as tips with macros, etc. This is basically a "how to be a good programmer" book.
 
@@ -93,3 +96,5 @@ A quick note about the book: a lot of the things are C-specific and do not apply
 - Version compatibilities
 
 ## Chapter 9: Notation
+
+N/A

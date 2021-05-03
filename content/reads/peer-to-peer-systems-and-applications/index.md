@@ -1,12 +1,15 @@
 ---
 title: Peer-to-Peer Systems and Applications
+date: 2020-10-07T13:21:26.000Z
+aliases:
+- /notes/peer-to-peer-systems-and-applications
+reading:
+  author: Ralf Steinmetz
+  isbn: '9783540291923'
+  tags: [technical]
 ---
 
-- **isbn**: 978-3-540-29192-3
-
----
-
-- Use the book more as a reference book.
+- Good reference book.
 
 ## C1 & Part I: Notion, Areas, History, Future
 These are introductory chapters and mostly talk about the reasons why this book was written and what are peer-to-peer systems about, as well as some history and application areas.
@@ -32,7 +35,7 @@ Definition of p2p system:
 > 1. connected by a network,
 > 2. addressable in a unique way, and
 > 3. share a common commmunication protocol.
-> 
+>
 > All computing elements, synonymously called nodes or peers, have comparable roles and share responsability and costs for resources.
 
 Conditions to make P2P infrastructure useful:
@@ -54,10 +57,3 @@ Network models:
 ## Part III: Structured Systems
 - [Distributed Hash Table](/notes/distributed-hash-table/)
 
-## Part IV
-## Part V
-## Part VI
-## Part VII
-## Part VIII
-## Part IX
-## Part X

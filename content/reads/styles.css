@@ -1,0 +1,32 @@
+:root {
+  --action: #8e4a1f;
+}
+
+.box {
+  max-height: 50vh;
+  overflow: auto;
+}
+
+.shelf {
+  display: grid;
+  grid-template-columns: 1fr .75fr min-content 6rem;
+  grid-gap: 0.5rem;
+}
+
+.shelf a {
+
+}
+
+.shelf span {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media screen and (min-width: 38rem) {
+  body {
+    background: #8e4a1f url(shelf.jpg);
+    background-size: 400px;
+    background-attachment: fixed;
+  }
+}

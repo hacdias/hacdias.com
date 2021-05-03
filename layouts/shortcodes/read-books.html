@@ -1,0 +1,27 @@
+{{- $books := .Site.Data.reads.read -}}
+
+{{ range $page := where .Site.RegularPages ".Section" "=" "reads" }}
+  {{ $read := .Params.reading | merge (dict "name" .Title "permalink" .RelPermalink) }}
+  {{ $books = $books | append $read }}
+{{ end }}
+
+{{- $books := sort $books "name" "asc"  -}}
+
+<ul>
+  {{- range $i, $book := $books -}}
+  <li>
+    {{ if .permalink }}
+    <a href="{{ .permalink }}">{{ .name }}</a>
+    {{ else }}
+    <a target="_blank" href="https://duckduckgo.com/?q={{ .isbn }}+{{ .name }}">{{ .name }}</a>
+    {{ end }}
+    <small>
+      by {{ $book.author }}
+      {{ if in .tags "technical"}}<span title="Technical">🛠</span>{{end}}
+      {{ if in .tags "good"}}<span title="Good">⭐️</span>{{end}}
+      {{ if in .tags "favorite"}}<span title="Favorite">☄️</span>{{end}}
+      {{ if .permalink }}<span title="Notes">📄</span>{{end }}
+    </small>
+  </li>
+  {{ end }}
+</ul>
