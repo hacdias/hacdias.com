@@ -1,0 +1,26 @@
+{{- $normalize := resources.Get "css/vendor/normalize.css" }}
+{{- $base := resources.Get "css/base.css" }}
+{{- $notes := resources.Get "css/notes.css" }}
+{{- $cards := resources.Get "css/cards.css" }}
+{{- $webmentions := resources.Get "css/webmentions.css" }}
+<style>
+  {{ $normalize.Content | safeCSS }}
+  {{ $base.Content | safeCSS }}
+
+  {{ if eq .Section "notes" }}
+    {{ $notes.Content | safeCSS }}
+  {{ end }}
+
+  {{ $listWithoutCards := not (in (slice "photos" "articles" "notes") .Section) }}
+  {{ if and .IsNode $listWithoutCards }}
+    {{ $cards.Content | safeCSS }}
+  {{ end }}
+
+  {{ if and .IsPage (not .Params.noMentions) }}
+    {{ $webmentions.Content | safeCSS }}
+  {{ end }}
+
+  {{- with .Resources.GetMatch "styles.css"}}
+    {{- .Content | safeCSS }}
+  {{- end }}
+</style>

@@ -45,19 +45,7 @@
   <meta property="og:updated_time" content="{{ $lastmod }}" />
 {{ end }}
 
-<!-- Styles -->
-{{- $normalize := resources.Get "css/vendor/normalize.css" }}
-{{- $styles := resources.Get "css/styles.css" }}
-{{- $css := slice $normalize $styles | resources.Concat "css/styles.css" | resources.Minify }}
-<style>
-  {{- $css.Content | safeCSS }}
-  {{- with .Resources.GetMatch "styles.css"}}
-    {{- .Content | safeCSS }}
-  {{- end }}
-  {{ if eq .Section "notes" }}
-    {{- (resources.Get "css/notes.css" | resources.Minify).Content | safeCSS -}}
-  {{ end }}
-</style>
+{{ partial "styles" . }}
 
 {{ if .IsHome }}
   <link rel="feed" href="https://hacdias.com/all" />
