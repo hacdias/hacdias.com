@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-05-02T21:02:32.938000798Z
+lastmod: 2021-05-03T08:05:39.238014146Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -28,9 +28,7 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Clean up titles.
   - Clean up tags.
   - Clean up content.
-- **Table of Contents**
-  - Perhaps add sidebar on Notes pages with TOC.
-  - Work on mobile.
+  - Back-links references.
 - **Articles**
   - Move out of year/month folder structure.
 - **Protocol support**
