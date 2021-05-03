@@ -5,10 +5,10 @@
 #toc {
   position: fixed;
   font-size: var(--f6);
-  width: 20rem;
+  width: 23.5rem;
   top: 50%;
   left: 0;
-  transform: translateY(-50%);
+  transform: translate(calc(3.5rem - 100%),-50%);
   background-color: var(--white);
   max-height: 90vh;
   overflow: auto;
@@ -19,9 +19,14 @@
   transition: .2s ease all;
 }
 
+#toc-toggler:checked + #toc {
+  transform: translate(0, -50%);
+}
+
 #toc nav {
   padding: 0 var(--half-space);
   margin-bottom: var(--half-space);
+  width: 20rem;
 }
 
 #toc ul {
@@ -65,7 +70,7 @@
   transform: translateY(-50%);
   font-size: 1.5rem;
   height: 100%;
-  display: none;
+  display: flex;
   align-items: center;
   filter: grayscale(1);
   opacity: 0.6;
@@ -84,24 +89,6 @@
 #toc a.active {
   color: var(--dark-gray);
   border-color: var(--action);
-}
-
-@media screen and (max-width: 88rem) {
-  #toc {
-    transform: translate(calc(3.5rem - 100%),-50%);
-  }
-
-  #toc-toggler:checked + #toc {
-    transform: translate(0, -50%);
-  }
-
-  #toc nav {
-    width: 17.5rem;
-  }
-
-  #toc label:last-of-type {
-    display: flex;
-  }
 }
 
 @media screen and (max-width: 55rem) {
