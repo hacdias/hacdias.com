@@ -4,14 +4,30 @@
 
 #toc {
   position: fixed;
+  font-size: var(--f6);
   width: 20rem;
   top: 50%;
   left: 0;
   transform: translateY(-50%);
-  padding: var(--half-space);
-  color: var(--light-gray);
-  font-size: var(--f6);
   background-color: var(--white);
+  max-height: 90vh;
+  overflow: auto;
+  border-top-right-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+  box-shadow: rgba(0,0,0,.4) 0 30px 90px;
+  z-index: 9999;
+  transition: .2s ease all;
+}
+
+#toc nav {
+  padding: 0 var(--half-space);
+  margin-bottom: var(--half-space);
+}
+
+#toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 #toc a {
@@ -23,31 +39,36 @@
   background: none;
 }
 
-#toc img {
+#toc-toggler,
+#toc ul img {
   display: none;
 }
 
-#toc p {
-  color: var(--light-white);
-  transition: 0.1s ease-in color;
-  line-height: 1;
-}
-
-#toc > p:first-of-type {
+#toc label {
   text-transform: uppercase;
-  font-weight: bold;
-  margin-top: 0;
-}
-
-#toc > p:last-of-type {
   font-weight: 700;
-  font-size: var(--f6);
-  margin-bottom: 0;
+  margin-top: 0;
+  line-height: 1;
+  padding: 1rem;
+  display: block;
+  cursor: pointer;
 }
 
-#toc ul {
-  list-style: none;
-  padding: 0;
+#toc label p {
+  margin: 0;
+}
+
+#toc label:last-of-type {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  height: 100%;
+  display: none;
+  align-items: center;
+  filter: grayscale(1);
+  opacity: 0.6;
 }
 
 #toc a {
@@ -57,14 +78,7 @@
   display: block;
   border-left: 2px solid var(--light-white);
   padding-left: 0.5rem;
-}
-
-#toc:hover > p:last-of-type {
   color: var(--light-gray);
-}
-
-#toc:hover > p:first-of-type {
-  color: var(--dark-gray);
 }
 
 #toc a.active {
@@ -72,8 +86,50 @@
   border-color: var(--action);
 }
 
-@media screen and (max-width: 90rem) {
+@media screen and (max-width: 88rem) {
   #toc {
+    transform: translate(calc(3.5rem - 100%),-50%);
+  }
+
+  #toc-toggler:checked + #toc {
+    transform: translate(0, -50%);
+  }
+
+  #toc nav {
+    width: 17.5rem;
+  }
+
+  #toc label:last-of-type {
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 55rem) {
+  #toc {
+    width: 100%;
+    bottom: 0;
+    top: unset;
+    border-top-right-radius: var(--radius);
+    border-top-left-radius: var(--radius);
+    border-bottom-right-radius: 0;
+    transform: translateY(calc(100% - 3rem));
+    max-height: 75vh;
+    overflow: auto;
+  }
+
+  #toc-toggler:checked + #toc {
+    transform: translateY(0);
+  }
+
+  #toc label {
+    text-align: center;
+  }
+
+  #toc nav {
+    width: 100%;
+  }
+
+  #toc label:last-of-type {
     display: none;
   }
 }

@@ -11,10 +11,11 @@
   </header>
 
   {{ if eq .Section "notes" }}
+  <input type="checkbox" id="toc-toggler">
   <div id="toc">
-    <p>Table of Contents</p>
+    <label for="toc-toggler"><p>Table of Contents</p></label>
     {{ .TableOfContents }}
-    <p>{{ .ReadingTime }} min read</p>
+    <label for="toc-toggler"><p>📖</p></label>
   </div>
   {{ end }}
 
