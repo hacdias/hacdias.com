@@ -75,8 +75,6 @@ As I said before, my website feds from data from some other services I use to ke
 
 I wrote a bunch of [scripts](https://github.com/hacdias/silos-collector) that collect data from a few silos daily and updates the website:
 
-- 📚 [**GoodReads**](https://www.goodreads.com/) provides information for my [reading](/reads/) page so I can keep track of the books I've read in the past and that I am currently reading. However, I have been considering lately to ditch GoodReads completely and replace it by a "home baked" alternative where I just keep track of my readings in this website.
-
 - 📺 [**Trakt**](https://trakt.tv) feeds into my [watches](/watches/) page, which contains the series and movies I watched. Currently, I don't keep track of each episode on my website and I keep it simple by stating the last time I watched each series or movie.
 
 - 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contrary to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens/) page which has the current top artists and tracks I've been listening to. It's probably the "worse" looking page from the bunch.
