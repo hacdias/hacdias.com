@@ -25,8 +25,11 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Perhaps import my.flightradar24.com account with the flights I have done?
   - Use partially swarm?
 - **Notes** section
+  - ~~Remove empty notes.~~
+  - Move readings to /reads.
+  - Merge small notes if possible.
   - Clean up titles.
-  - Clean up tags.
+  - Clean up (add!) tags.
   - Clean up content.
   - Back-links references.
 - **Articles**

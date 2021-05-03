@@ -1,5 +1,5 @@
 ---
-title: Domain Name System (DNS)
+title: Domain Name System
 ---
 
 The **Domain Name System (DNS)** is a decentralized [Naming System](/notes/naming-system/) for machines in a network. It's an [Application Layer](/notes/osi-model/) protocol.
