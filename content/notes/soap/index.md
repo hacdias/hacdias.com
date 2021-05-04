@@ -4,7 +4,7 @@ title: SOAP
 
 - **Simple Object Access Protocol (SOAP)**
 - Defines a message structure
-- Uses [XML](/notes/xml/)
+- Uses XML
 - Can be used with any transport protocol
 
 ![SOAP](/images/soap.svg)
