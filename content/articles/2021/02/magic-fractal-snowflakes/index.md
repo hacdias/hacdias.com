@@ -10,8 +10,7 @@ tags:
 date: 2021-02-15T06:30:00Z
 lastmod: 2021-02-15T06:49:43.435183405Z
 cover:
-  slug: 2021-02-magic-fractal-snowflakes.jpg
-  raw: true
+  slug: 2021-02-eindhoven-magical-snowflakes
 syndication:
 - https://twitter.com/hacdias/status/1361206419266154499
 ---
