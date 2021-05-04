@@ -1,19 +1,24 @@
 {
   "artists": [
     {
+      "name": "Lady Gaga",
+      "count": 18,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
       "name": "Taylor Swift",
       "count": 12,
       "url": "https://www.last.fm/music/Taylor+Swift"
     },
     {
-      "name": "Lady Gaga",
+      "name": "Katy Perry",
       "count": 10,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "url": "https://www.last.fm/music/Katy+Perry"
     },
     {
-      "name": "Katy Perry",
-      "count": 9,
-      "url": "https://www.last.fm/music/Katy+Perry"
+      "name": "Miley Cyrus",
+      "count": 10,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Lana Del Rey",
@@ -22,13 +27,18 @@
     },
     {
       "name": "Tove Lo",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Tove+Lo"
     },
     {
-      "name": "Ariana Grande",
-      "count": 6,
-      "url": "https://www.last.fm/music/Ariana+Grande"
+      "name": "Dua Lipa",
+      "count": 7,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
+      "name": "Grimes",
+      "count": 7,
+      "url": "https://www.last.fm/music/Grimes"
     },
     {
       "name": "Ellie Goulding",
@@ -39,16 +49,6 @@
       "name": "Florence + the Machine",
       "count": 6,
       "url": "https://www.last.fm/music/Florence+%252B+the+Machine"
-    },
-    {
-      "name": "Grimes",
-      "count": 6,
-      "url": "https://www.last.fm/music/Grimes"
-    },
-    {
-      "name": "Years & Years",
-      "count": 6,
-      "url": "https://www.last.fm/music/Years+&+Years"
     }
   ],
   "tracks": [
@@ -77,6 +77,12 @@
       "artist": "Grimes"
     },
     {
+      "name": "Diamonds",
+      "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
+      "count": 4,
+      "artist": "Rihanna"
+    },
+    {
       "name": "What the Hell",
       "url": "https://www.last.fm/music/Avril+Lavigne/_/What+the+Hell",
       "count": 3,
@@ -89,6 +95,12 @@
       "artist": "BØRNS"
     },
     {
+      "name": "Heart Attack",
+      "url": "https://www.last.fm/music/Demi+Lovato/_/Heart+Attack",
+      "count": 3,
+      "artist": "Demi Lovato"
+    },
+    {
       "name": "Make Me Feel",
       "url": "https://www.last.fm/music/Janelle+Mon%C3%A1e/_/Make+Me+Feel",
       "count": 3,
@@ -99,18 +111,6 @@
       "url": "https://www.last.fm/music/Katy+Perry/_/Firework",
       "count": 3,
       "artist": "Katy Perry"
-    },
-    {
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://www.last.fm/music/Kelly+Clarkson/_/Stronger+(What+Doesn%27t+Kill+You)",
-      "count": 3,
-      "artist": "Kelly Clarkson"
-    },
-    {
-      "name": "Always Remember Us This Way",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Always+Remember+Us+This+Way",
-      "count": 3,
-      "artist": "Lady Gaga"
     }
   ]
 }
