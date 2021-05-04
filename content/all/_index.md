@@ -1,6 +1,9 @@
 ---
-title: Stream
+title: Log
+emoji: 🪵
 layout: list
 ---
 
-This page contains a living stream of [articles](/articles/), [micro posts](/micro/) and [photos](/photos/).
+<p class="subtitle">
+  🪵 A living log combining my main feeds: articles, micro and photos.
+</p>
