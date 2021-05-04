@@ -1,7 +1,7 @@
 ---
 title: Impossible List
 date: 2020-07-15T00:00:00Z
-lastmod: 2021-04-22T05:45:45.197172973Z
+lastmod: 2021-05-04T08:03:00.825964882Z
 noMentions: true
 ---
 
@@ -43,7 +43,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 - Visit Australia
 - Visit Austria
-- ~~Visit Azores~~ (July 2017)
+- ~~Visit Azores~~ (July 2019)
 - ~~Visit Belgium~~ (February 2018, FOSDEM conference)
   - ~~twice~~ (January 2019, FOSDEM conference)
   - ~~thrice~~ (February 2020, Brussels & Antwerp)

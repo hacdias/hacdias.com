@@ -1,6 +1,6 @@
 ---
 title: About this website
-lastmod: 2021-04-19T10:01:31.777150016Z
+lastmod: 2021-05-04T08:07:02.922752363Z
 noMentions: true
 ---
 
@@ -53,7 +53,7 @@ Not everything is stored in my VPS and/or IPFS. All my media content (photos, vi
 
 ### Eagle
 
-For many times, I [wondered](/2020/01/building-micropub/) [whether](/2020/01/dynamic-static/) or [not](/2020/10/rebuilding-eagle-cms/) I should use a full blown CMS - Content Management System -, like WordPress to manage my website. Every time I came to the same conclusion: **not worth it**. Instead, I created a wrapper "CMS" around my website that modifies my Hugo source files: Eagle.
+For many times, I wondered whether or not I should use a full blown CMS - Content Management System -, like WordPress to manage my website. Every time I came to the same conclusion: **not worth it**. Instead, I created a wrapper "CMS" around my website that modifies my Hugo source files: Eagle.
 
 **[Eagle](https://github.com/hacdias/eagle)** is a little piece of software I wrote in Go and it is a simple wrapper around the static files produced by Hugo. Among others, here are some of the main features:
 
