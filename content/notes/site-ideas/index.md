@@ -27,7 +27,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 - Finish [**uses**](/uses).
 - https://cleanuptheweb.org/
 - Create `/meta/historical` with pictures of old versions of my website.
-- Remove `.Params.social` (and from Eagle) and replace by `.Params.cover`.
 - Move all images to CDN except SVGs?
 - **Travelling** tracker
   - Map visualization with places I have been to.

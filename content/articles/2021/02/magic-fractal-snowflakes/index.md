@@ -9,7 +9,9 @@ tags:
 - art
 date: 2021-02-15T06:30:00Z
 lastmod: 2021-02-15T06:49:43.435183405Z
-social: https://cdn.hacdias.com/u/2021-02-magic-fractal-snowflakes.jpg
+cover:
+  slug: 2021-02-magic-fractal-snowflakes.jpg
+  raw: true
 syndication:
 - https://twitter.com/hacdias/status/1361206419266154499
 ---

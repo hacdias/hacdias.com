@@ -27,9 +27,13 @@
 <meta property="og:description" content="{{ $description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-{{- with .Params.social }}
+{{- with .Params.cover }}
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta property="og:image" content="{{ absURL . }}" />
+  {{ if .raw -}}
+    <meta property="og:image" content="https://cdn.hacdias.com/u/{{ .slug }}" />
+  {{ else -}}
+    <meta property="og:image" content="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.jpeg" />
+  {{ end }}
 {{ else }}
   {{ if .IsHome -}}
     <meta name="twitter:card" content="summary"/>

@@ -1,14 +1,16 @@
 <article class='h-entry card{{ with .Section }} {{ . }}{{ end }}'>
   <a href="{{ .RelPermalink }}" class="u-url no-link link"></a>
 
-  {{ with .Params.cover }}
-  <figure>
-    <picture>
-      <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.webp 1000w, https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.webp 2000w" type="image/webp">
-      <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.jpeg 1000w, https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.jpeg 2000w">
-      <img class='u-photo' src="https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.jpeg" alt="{{ .title }}" title="{{ .title }}">
-    </picture>
-  </figure>
+  {{ if eq .Section "photos" }}
+    {{ with .Params.cover }}
+    <figure>
+      <picture>
+        <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.webp 1000w, https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.webp 2000w" type="image/webp">
+        <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.jpeg 1000w, https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.jpeg 2000w">
+        <img class='u-photo' src="https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.jpeg" alt="{{ .title }}" title="{{ .title }}">
+      </picture>
+    </figure>
+    {{ end }}
   {{ end }}
 
   <div>
