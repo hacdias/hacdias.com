@@ -8,7 +8,7 @@ Naming systems are useful to allow for users (clients) to find servers. The most
 
 ## Goal
 
-- Associate a nasme with a resource.
+- Associate a name with a resource.
 
 ## Why do we need names
 

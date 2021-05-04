@@ -16,7 +16,7 @@ IPFS is a p2p protocol
 
 Read more at https://blog.ipfs.io/2020-07-20-dht-deep-dive/.
 
-- IPFS uses a custom version of [Kademlia (DHT)](/notes/kademlia-dht/).
+- IPFS uses a custom version of [Kademlia](/notes/distributed-hash-table/).
 	- **Address space**: `0` to `2^256-1`
 	- **Metric**: `SHA256(PeerID)` --> `0` to `2^256-1`
 	- **Projection**: `SHA256(RecordKey)`
@@ -36,6 +36,6 @@ Read more at https://blog.ipfs.io/2020-07-20-dht-deep-dive/.
 - Does not privilege nodes.
 - Blocks are not tied to a specific torrent.
 
-## Compared to [DAT](/notes/dat/)
+## Compared to DAT
 
 - TODO

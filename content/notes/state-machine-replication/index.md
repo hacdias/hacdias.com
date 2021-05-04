@@ -14,6 +14,6 @@ There are many algorithms that implement this technique:
 
 - Fail-silent Faults
   - Paxos
-  - [RAFT](/notes/raft/)
+  - RAFT
 - Byzantine Faults
   - PBFT

@@ -20,5 +20,3 @@ Some **assumptions**:
 3. Executes request and saves reply.
 4. Primary sends to the secondary servers the new state, reply and request id. Secondary servers should ACK.
 5. Primary replies to client.
-
-TODO
