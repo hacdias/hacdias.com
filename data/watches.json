@@ -768,7 +768,7 @@
     {
       "title": "G.B.F.",
       "watched": "2018-08-01T16:08:47.000Z",
-      "url": "https://trakt.tv/movies/g-b-f-2013"
+      "url": "https://trakt.tv/movies/g-b-f-2014"
     },
     {
       "title": "Guardians of the Galaxy Vol. 2",
@@ -1832,6 +1832,11 @@
     }
   ],
   "series": [
+    {
+      "title": "RuPaul's Drag Race Down Under",
+      "watched": "2021-05-04T19:21:37.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-down-under"
+    },
     {
       "title": "The Shannara Chronicles",
       "watched": "2021-05-02T19:06:03.000Z",
