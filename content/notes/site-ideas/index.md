@@ -14,8 +14,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 </div>
 
 - **Reading** section
-  - Add reading type to Eagle
-  - Add `.Params.reading` to Eagle
   - Create backend interface to edit reads / progress / info.
   - IndieWeb meta tags?
 - **Notes** section
@@ -29,8 +27,7 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 - Finish [**uses**](/uses).
 - https://cleanuptheweb.org/
 - Create `/meta/historical` with pictures of old versions of my website.
-- Remove `.Params.social` and replace by `.Params.cover`.
-- Add `.Params.cover` to Eagle.
+- Remove `.Params.social` (and from Eagle) and replace by `.Params.cover`.
 - Move all images to CDN except SVGs?
 - **Travelling** tracker
   - Map visualization with places I have been to.
