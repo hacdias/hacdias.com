@@ -1,6 +1,7 @@
 ---
 title: More
-emoji: 🌈
+lastmod: 2021-05-05T08:41:03.772271678Z
+emoji: "\U0001F308"
 noMentions: true
 ---
 
@@ -17,6 +18,7 @@ noMentions: true
 - 💬 [Micro](/micro)
 - 📸 [Photos](/photos)
 - 📓 [Notes](/notes/)
+- 🪵 [**Log**](/all/): includes articles, micro and photos.
 
 ### 🥐 Others {#others}
 
@@ -33,6 +35,6 @@ noMentions: true
 - 🏷 [Tags](/tags/)
 - 🛠️ [Uses](/uses/)
 
-<!--
+---
+
 - 💥 I maintain an [XKCD clone](http://xkcd.hacdias.com/) on the IPFS network.
--->
