@@ -1,6 +1,6 @@
 {{ $pages := .RegularPages }}
 {{ $regularPages := .Site.RegularPages  }}
-{{ $isAll := eq .Section "all" }}
+{{ $isAll := or (eq .Section "all") .IsHome }}
 
 {{ if $isAll }}
   {{ $articles :=  where $regularPages ".Section" "=" "articles" }}

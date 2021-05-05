@@ -6,22 +6,26 @@
 }
 
 #grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 1rem;
-  margin-bottom: -1rem;
+  column-count: 2;
 }
 
-.cl {
-  display: block;
+#grid > article {
+  break-inside: avoid-column;
+  display: inline-block;
   width: 100%;
+}
+
+#grid > a {
+  display: block;
   text-align: center;
-  margin: 1rem 0;
 }
 
 @media screen and (max-width: 38rem) {
   #grid {
+    column-count: unset;
+  }
+
+  #grid > article {
     display: block;
-    margin-bottom: 0;
   }
 }

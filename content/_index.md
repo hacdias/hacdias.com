@@ -9,17 +9,11 @@ Born in Portugal 🇵🇹 . I am a Master's student 🎓 in Computer Science and
 
 ### ☄️ Latest {#latest}
 
-I publish a variety of content: from [articles](/articles/) and [photos](/photos/) to my [micro blog](/micro/), where I share smaller, more spontaneous, thoughts. You can also check my [stream](/all/) with all the content.
+I publish a variety of content: from [articles](/articles/) and [photos](/photos/) to my [micro blog](/micro/), where I share smaller, more spontaneous, thoughts. You can also check my [log](/all/) with all the content.
 
 <div id="grid">
-  <div>
-    {{< latest section="articles" n=5 >}}
-    <a class="cl" href="./articles/">✏️ More articles</a>
-  </div>
-  <div>
-    {{< latest section="photos" n=5 >}}
-    <a class="cl" href="./photos/">📸 More photos</a>
-  </div>
+  {{< latest n=10 >}}
+  <a href="./all/">🪵 More posts</a>
 </div>
 
 ### 📝 Guestbook {#guestbook}
