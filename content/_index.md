@@ -7,14 +7,19 @@ lastmod: 2021-02-12T20:23:31.029541972Z
 
 Born in Portugal 🇵🇹 . I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working at [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
 
-### ☄️ Latest {#latest}
+### ☄️ Latest <small>[[all posts](/all)]</small> {#latest}
 
-I publish a variety of content: from [articles](/articles/) and [photos](/photos/) to my [micro blog](/micro/), where I share smaller, more spontaneous, thoughts. You can also check my [log](/all/) with all the content.
+{{< latest section="micro" n=1 >}}
 
-<div id="grid">
-  {{< latest n=10 >}}
-  <a href="./all/">🪵 More posts</a>
+<div class="grid">
+  {{< latest section="articles" n=4 >}}
 </div>
+
+<div class="grid photos">
+  {{< latest section="photos" n=6 >}}
+</div>
+
+[🪵 More posts](/all/)
 
 ### 📝 Guestbook {#guestbook}
 

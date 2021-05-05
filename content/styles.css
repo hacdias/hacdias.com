@@ -5,27 +5,28 @@
   }
 }
 
-#grid {
-  column-count: 2;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 1rem;
 }
 
-#grid > article {
-  break-inside: avoid-column;
-  display: inline-block;
-  width: 100%;
+.grid.photos {
+  grid-template-columns: repeat(3, 1fr);
 }
 
-#grid > a {
-  display: block;
+.card:not(.photos) > div {
+  height: 100%;
+}
+
+.grid + p {
+  margin-top: 0;
   text-align: center;
 }
 
 @media screen and (max-width: 38rem) {
-  #grid {
-    column-count: unset;
-  }
-
-  #grid > article {
+  .grid {
     display: block;
+    margin-bottom: 0;
   }
 }
