@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Until Porn Do Us Part",
+      "watched": "2021-05-07T21:42:34.000Z",
+      "url": "https://trakt.tv/movies/until-porn-do-us-part-2018"
+    },
+    {
       "title": "Moana",
       "watched": "2021-04-18T16:58:35.000Z",
       "url": "https://trakt.tv/movies/moana-2016"
@@ -793,7 +798,7 @@
     {
       "title": "It Follows",
       "watched": "2018-07-23T22:30:58.000Z",
-      "url": "https://trakt.tv/movies/it-follows-2014"
+      "url": "https://trakt.tv/movies/it-follows-2015"
     },
     {
       "title": "Suicide Squad",
@@ -1833,6 +1838,16 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2021-05-07T20:13:11.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "Good Girls",
+      "watched": "2021-05-07T17:21:36.000Z",
+      "url": "https://trakt.tv/shows/good-girls"
+    },
+    {
       "title": "RuPaul's Drag Race Down Under",
       "watched": "2021-05-04T19:21:37.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-down-under"
@@ -1841,11 +1856,6 @@
       "title": "The Shannara Chronicles",
       "watched": "2021-05-02T19:06:03.000Z",
       "url": "https://trakt.tv/shows/the-shannara-chronicles"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2021-05-01T09:11:11.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
@@ -1861,11 +1871,6 @@
       "title": "RuPaul's Drag Race",
       "watched": "2021-04-24T20:18:08.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race"
-    },
-    {
-      "title": "Good Girls",
-      "watched": "2021-04-18T16:58:23.000Z",
-      "url": "https://trakt.tv/shows/good-girls"
     },
     {
       "title": "The Irregulars",
