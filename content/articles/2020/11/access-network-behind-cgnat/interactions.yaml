@@ -6,3 +6,15 @@
   author:
     name: Anonymous
     photo: https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg
+- wm-id: 1149733
+  type: reply
+  url: https://commentpara.de/comment/846.htm
+  content: |-
+    Are you sure this line is correct: sudo systemctl enable wg-quick@wg0
+
+
+    Perhaps your blogging platform auto-added the link?
+  date: 2021-05-09T13:50:03Z
+  author:
+    name: Anonymous
+    photo: https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg
