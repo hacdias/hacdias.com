@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 19,
+      "count": 21,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -12,8 +12,13 @@
     },
     {
       "name": "Bárbara Tinoco",
-      "count": 13,
+      "count": 16,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
+      "name": "Blaya",
+      "count": 14,
+      "url": "https://www.last.fm/music/Blaya"
     },
     {
       "name": "Dua Lipa",
@@ -26,9 +31,9 @@
       "url": "https://www.last.fm/music/Slayyyter"
     },
     {
-      "name": "Blaya",
+      "name": "James Smith",
       "count": 8,
-      "url": "https://www.last.fm/music/Blaya"
+      "url": "https://www.last.fm/music/James+Smith"
     },
     {
       "name": "Sia",
@@ -36,27 +41,28 @@
       "url": "https://www.last.fm/music/Sia"
     },
     {
+      "name": "Charli XCX",
+      "count": 6,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
       "name": "Fernando Daniel",
       "count": 6,
       "url": "https://www.last.fm/music/Fernando+Daniel"
-    },
-    {
-      "name": "James Smith",
-      "count": 6,
-      "url": "https://www.last.fm/music/James+Smith"
-    },
-    {
-      "name": "Alma",
-      "count": 5,
-      "url": "https://www.last.fm/music/Alma"
     }
   ],
   "tracks": [
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 7,
+      "count": 12,
       "artist": "Blaya"
+    },
+    {
+      "name": "Little Love - Acoustic",
+      "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
+      "count": 7,
+      "artist": "James Smith"
     },
     {
       "name": "Cidade",
@@ -65,22 +71,28 @@
       "artist": "Bárbara Tinoco"
     },
     {
+      "name": "Strong",
+      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
+      "count": 6,
+      "artist": "London Grammar"
+    },
+    {
+      "name": "Strangers",
+      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
+      "count": 6,
+      "artist": "Sigrid"
+    },
+    {
       "name": "Sei Lá",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Sei+L%C3%A1",
       "count": 5,
       "artist": "Bárbara Tinoco"
     },
     {
-      "name": "Little Love - Acoustic",
-      "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
+      "name": "Diamonds",
+      "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
       "count": 5,
-      "artist": "James Smith"
-    },
-    {
-      "name": "Strong",
-      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 5,
-      "artist": "London Grammar"
+      "artist": "Rihanna"
     },
     {
       "name": "Andorinhas",
@@ -89,28 +101,16 @@
       "artist": "Ana Moura"
     },
     {
+      "name": "Electric Love",
+      "url": "https://www.last.fm/music/B%C3%98RNS/_/Electric+Love",
+      "count": 4,
+      "artist": "BØRNS"
+    },
+    {
       "name": "10 Years",
       "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/_/10+Years",
       "count": 4,
       "artist": "Daði Freyr"
-    },
-    {
-      "name": "Melodia Da Saudade - Radio Edit",
-      "url": "https://www.last.fm/music/Fernando+Daniel/_/Melodia+Da+Saudade+-+Radio+Edit",
-      "count": 4,
-      "artist": "Fernando Daniel"
-    },
-    {
-      "name": "Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)",
-      "url": "https://www.last.fm/music/Miley+Cyrus/_/Edge+of+Midnight+(Midnight+Sky+Remix)+(feat.+Stevie+Nicks)",
-      "count": 4,
-      "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Diamonds",
-      "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
-      "count": 4,
-      "artist": "Rihanna"
     }
   ]
 }
