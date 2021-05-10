@@ -1,44 +1,44 @@
 {
   "artists": [
     {
+      "name": "Blaya",
+      "count": 19,
+      "url": "https://www.last.fm/music/Blaya"
+    },
+    {
+      "name": "Bárbara Tinoco",
+      "count": 18,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
       "name": "Lady Gaga",
-      "count": 21,
+      "count": 18,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Miley Cyrus",
-      "count": 17,
+      "count": 11,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Bárbara Tinoco",
-      "count": 16,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
-    },
-    {
-      "name": "Blaya",
-      "count": 14,
-      "url": "https://www.last.fm/music/Blaya"
-    },
-    {
-      "name": "Dua Lipa",
-      "count": 13,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
-      "name": "Slayyyter",
-      "count": 11,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
       "name": "James Smith",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/James+Smith"
     },
     {
-      "name": "Sia",
+      "name": "Slayyyter",
+      "count": 9,
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    {
+      "name": "London Grammar",
+      "count": 8,
+      "url": "https://www.last.fm/music/London+Grammar"
+    },
+    {
+      "name": "Dua Lipa",
       "count": 7,
-      "url": "https://www.last.fm/music/Sia"
+      "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
       "name": "Charli XCX",
@@ -55,14 +55,20 @@
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 12,
+      "count": 17,
       "artist": "Blaya"
     },
     {
       "name": "Little Love - Acoustic",
       "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
-      "count": 7,
+      "count": 8,
       "artist": "James Smith"
+    },
+    {
+      "name": "Strong",
+      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
+      "count": 8,
+      "artist": "London Grammar"
     },
     {
       "name": "Cidade",
@@ -71,10 +77,10 @@
       "artist": "Bárbara Tinoco"
     },
     {
-      "name": "Strong",
-      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
+      "name": "Diamonds",
+      "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
       "count": 6,
-      "artist": "London Grammar"
+      "artist": "Rihanna"
     },
     {
       "name": "Strangers",
@@ -83,22 +89,16 @@
       "artist": "Sigrid"
     },
     {
-      "name": "Sei Lá",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Sei+L%C3%A1",
+      "name": "Outras Línguas",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
       "count": 5,
       "artist": "Bárbara Tinoco"
     },
     {
-      "name": "Diamonds",
-      "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
+      "name": "Sei Lá",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Sei+L%C3%A1",
       "count": 5,
-      "artist": "Rihanna"
-    },
-    {
-      "name": "Andorinhas",
-      "url": "https://www.last.fm/music/Ana+Moura/_/Andorinhas",
-      "count": 4,
-      "artist": "Ana Moura"
+      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Electric Love",
