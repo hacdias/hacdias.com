@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-05-03T21:33:56.177675454Z
+lastmod: 2021-05-11T09:13:49.595879782Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -43,6 +43,11 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Phase 1: update all search index on changed files & purge ALL CloudFlare cache.
   - Phase 2: update modified search index & purge SOME CloudFlare cache.
   - https://api.cloudflare.com/#zone-purge-all-files
+
+## Photos
+
+- Single photo grid (like Instagram) vs story mode (https://hacdias.com/micro/2021/05/photos-stories-vs-single/)
+- Have both modes, but how to filter? How to see? I think they should be separated somehow.
 
 ## Posts
 
