@@ -2,38 +2,28 @@
   "artists": [
     {
       "name": "Blaya",
-      "count": 22,
+      "count": 24,
       "url": "https://www.last.fm/music/Blaya"
     },
     {
       "name": "Bárbara Tinoco",
-      "count": 19,
+      "count": 20,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
       "name": "Lady Gaga",
-      "count": 15,
+      "count": 13,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 10,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "name": "Lana Del Rey",
+      "count": 7,
+      "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
       "name": "Slayyyter",
-      "count": 8,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
-      "name": "Dua Lipa",
       "count": 7,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
-      "name": "Alma",
-      "count": 6,
-      "url": "https://www.last.fm/music/Alma"
+      "url": "https://www.last.fm/music/Slayyyter"
     },
     {
       "name": "James Smith",
@@ -41,27 +31,37 @@
       "url": "https://www.last.fm/music/James+Smith"
     },
     {
-      "name": "Lana Del Rey",
-      "count": 6,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
-    },
-    {
       "name": "Robyn",
       "count": 6,
       "url": "https://www.last.fm/music/Robyn"
+    },
+    {
+      "name": "Charli XCX",
+      "count": 5,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
+      "name": "Imagine Dragons",
+      "count": 5,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
+    },
+    {
+      "name": "London Grammar",
+      "count": 5,
+      "url": "https://www.last.fm/music/London+Grammar"
     }
   ],
   "tracks": [
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 19,
+      "count": 21,
       "artist": "Blaya"
     },
     {
       "name": "Outras Línguas",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 6,
+      "count": 7,
       "artist": "Bárbara Tinoco"
     },
     {
@@ -69,12 +69,6 @@
       "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
       "count": 6,
       "artist": "James Smith"
-    },
-    {
-      "name": "Sei Lá",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Sei+L%C3%A1",
-      "count": 5,
-      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Boys Boys Boys",
@@ -87,6 +81,18 @@
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
       "count": 5,
       "artist": "London Grammar"
+    },
+    {
+      "name": "Devia ir (versão da Bárbara)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
+      "count": 4,
+      "artist": "Bárbara Tinoco"
+    },
+    {
+      "name": "Sei Lá",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Sei+L%C3%A1",
+      "count": 4,
+      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Electric Love",
@@ -105,12 +111,6 @@
       "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
       "count": 4,
       "artist": "Rihanna"
-    },
-    {
-      "name": "Strangers",
-      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
-      "count": 4,
-      "artist": "Sigrid"
     }
   ]
 }
