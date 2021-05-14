@@ -2,115 +2,115 @@
   "artists": [
     {
       "name": "Blaya",
-      "count": 24,
+      "count": 25,
       "url": "https://www.last.fm/music/Blaya"
     },
     {
       "name": "Bárbara Tinoco",
-      "count": 20,
+      "count": 23,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
       "name": "Lady Gaga",
-      "count": 13,
+      "count": 17,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Lana Del Rey",
-      "count": 7,
+      "count": 9,
       "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
-      "name": "Slayyyter",
-      "count": 7,
-      "url": "https://www.last.fm/music/Slayyyter"
-    },
-    {
-      "name": "James Smith",
-      "count": 6,
-      "url": "https://www.last.fm/music/James+Smith"
-    },
-    {
       "name": "Robyn",
-      "count": 6,
+      "count": 8,
       "url": "https://www.last.fm/music/Robyn"
     },
     {
+      "name": "Sia",
+      "count": 8,
+      "url": "https://www.last.fm/music/Sia"
+    },
+    {
+      "name": "James Smith",
+      "count": 7,
+      "url": "https://www.last.fm/music/James+Smith"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 7,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Alma",
+      "count": 6,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
       "name": "Charli XCX",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/Charli+XCX"
-    },
-    {
-      "name": "Imagine Dragons",
-      "count": 5,
-      "url": "https://www.last.fm/music/Imagine+Dragons"
-    },
-    {
-      "name": "London Grammar",
-      "count": 5,
-      "url": "https://www.last.fm/music/London+Grammar"
     }
   ],
   "tracks": [
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 21,
+      "count": 22,
       "artist": "Blaya"
     },
     {
       "name": "Outras Línguas",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 7,
+      "count": 9,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Little Love - Acoustic",
       "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
-      "count": 6,
+      "count": 7,
       "artist": "James Smith"
     },
     {
       "name": "Boys Boys Boys",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
-      "count": 5,
+      "count": 7,
       "artist": "Lady Gaga"
-    },
-    {
-      "name": "Strong",
-      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 5,
-      "artist": "London Grammar"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 4,
+      "count": 6,
       "artist": "Bárbara Tinoco"
     },
     {
-      "name": "Sei Lá",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Sei+L%C3%A1",
-      "count": 4,
-      "artist": "Bárbara Tinoco"
-    },
-    {
-      "name": "Electric Love",
-      "url": "https://www.last.fm/music/B%C3%98RNS/_/Electric+Love",
-      "count": 4,
-      "artist": "BØRNS"
+      "name": "Strong",
+      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
+      "count": 6,
+      "artist": "London Grammar"
     },
     {
       "name": "Video Games - Remastered 2012",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Video+Games+-+Remastered+2012",
-      "count": 4,
+      "count": 5,
       "artist": "Lana Del Rey"
     },
     {
       "name": "Diamonds",
       "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
-      "count": 4,
+      "count": 5,
       "artist": "Rihanna"
+    },
+    {
+      "name": "Strangers",
+      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
+      "count": 5,
+      "artist": "Sigrid"
+    },
+    {
+      "name": "Cidade",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Cidade",
+      "count": 4,
+      "artist": "Bárbara Tinoco"
     }
   ]
 }
