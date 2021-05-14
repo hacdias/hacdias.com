@@ -1838,6 +1838,11 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2021-05-14T10:29:47.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
       "title": "The Good Doctor",
       "watched": "2021-05-12T11:42:18.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
@@ -1856,11 +1861,6 @@
       "title": "Good Girls",
       "watched": "2021-05-09T21:23:25.000Z",
       "url": "https://trakt.tv/shows/good-girls"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2021-05-07T20:13:11.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "The Shannara Chronicles",
