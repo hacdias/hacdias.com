@@ -1,11 +1,7 @@
+{{ $notPhotos := not (eq .Section "photos") }}
+
+{{ if $notPhotos }}
 <div id='header'>
-  {{ if eq .Section "photos" }}
-  <ul>
-    <li><a class='no-link' href='{{ relURL .Site.BaseURL }}'>home</a></li>
-    <li><a class='no-link' href='{{ relURL "/photos" }}'>photos</a></li>
-    <li><a class='no-link' href='{{ relURL "/photos/archive" }}'>archive</a></li>
-  </ul>
-  {{ end }}
   <a class='no-link' href='{{ relURL .Site.BaseURL }}'>
     <img src="{{ relURL "/logo.svg" }}">
     <div>
@@ -14,19 +10,25 @@
     </div>
   </a>
 </div>
+{{ end }}
 
-{{- if not (eq .Section "photos") }}
-  <nav id='navbar' class='full-width'>
-    <input type="checkbox" id="toggler">
-    <ul>
-      <label for="toggler"><a class='no-link'>🍔 Touch me</a></label>
-      {{ range .Site.Menus.main -}}
-        <li>
-          <a href='{{ relURL .URL }}' class='no-link'>
-            <span>{{ .Name }}</span>
-          </a>
-        </li>
-      {{ end }}
-    </ul>
-  </nav>
-{{- end }}
+<nav id='navbar' {{ if $notPhotos }}class='full-width'{{ end }}>
+  <input type="checkbox" id="toggler">
+  <ul>
+    <label for="toggler"><a class='no-link'>🍔 Touch me</a></label>
+    {{ if eq .Section "photos" }}
+      <li>
+        <a href='{{ relURL "/" }}' class='no-link'>
+          <span>Home</span>
+        </a>
+      </li>
+    {{ end }}
+    {{ range .Site.Menus.main -}}
+      <li>
+        <a href='{{ relURL .URL }}' class='no-link'>
+          <span>{{ if $notPhotos }}{{ .Pre }} {{end}}{{ .Name }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>

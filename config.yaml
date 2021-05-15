@@ -30,25 +30,32 @@ taxonomies:
 
 menu:
   main:
-  - name: 🧔 About
+  - name: About
+    pre: 🧔 
     url: /about/
     weight: 1
-  - name: ✏️ Articles
+  - name: Articles
+    pre: ✏️
     url: /articles/
     weight: 2
-  - name: 💬 Micro
+  - name: Micro
+    pre: 💬
     url: /micro/
     weight: 3
-  - name: 📸 Photos
+  - name: Photos
+    pre: 📸
     url: /photos/
     weight: 4
-  - name: 📌 Links
+  - name: Links
+    pre: 📌
     url: /links/
     weight: 5
-  - name: ⚡️ Subscribe
+  - name: Subscribe
+    pre: ⚡️
     url: /subscribe/
     weight: 6
-  - name: 🌈 More
+  - name: More
+    pre: 🌈
     url: /more/
     weight: 7
 

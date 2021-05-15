@@ -2,6 +2,9 @@
 {{- $base := resources.Get "css/base.css" }}
 {{- $notes := resources.Get "css/notes.css" }}
 {{- $cards := resources.Get "css/cards.css" }}
+{{- $photosBase := resources.Get "css/photos.base.css" }}
+{{- $photosList := resources.Get "css/photos.list.css" }}
+{{- $photosSingle := resources.Get "css/photos.single.css" }}
 {{- $webmentions := resources.Get "css/webmentions.css" }}
 <style>
   {{ $normalize.Content | safeCSS }}
@@ -11,7 +14,17 @@
     {{ $notes.Content | safeCSS }}
   {{ end }}
 
-  {{ $listsWithoutCards := slice "photos" "watches" "projects" "articles" "notes" "reads" }}
+  {{ if eq .Section "photos" }}
+    {{ $photosBase.Content | safeCSS }}
+
+    {{ if .IsNode }}
+      {{ $photosList.Content | safeCSS }}
+    {{ else }}
+      {{ $photosSingle.Content | safeCSS }}
+    {{ end }}
+  {{ end }}
+
+  {{ $listsWithoutCards := slice "watches" "projects" "articles" "notes" "reads" }}
   {{ if and .IsNode (not (in $listsWithoutCards .Section)) }}
     {{ $cards.Content | safeCSS }}
   {{ end }}

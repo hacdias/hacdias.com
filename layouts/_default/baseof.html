@@ -9,9 +9,7 @@
 
     {{ block "main" . -}}{{ end }}
 
-    {{- if not (eq .Section "photos") }}
-      {{ partial "footer" . -}}
-    {{- end }}
+    {{ partial "footer" . -}}
   </div>
 
   {{ $js := resources.Get "js/vendor/twemoji.min.js" | resources.Fingerprint "sha512" }}

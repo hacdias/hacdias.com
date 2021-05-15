@@ -1,56 +1,28 @@
 {{ define "main" }}
 
-<style>
-  {{ safeCSS (partial "photos/styles.css") }}
-
-  figure {
-    justify-content: center;
-    height: 100vh;
-    min-width: 100%;
-    display: flex;
-    margin: 0;
-    align-items: center;
-  }
-
-  figure img {
-    max-height: calc(100vh - 6rem);
-    width: auto;
-  }
-
-  .h-entry {
-    margin: var(--space) 0;
-  }
-
-  .copy {
-    width: calc(100% - var(--space));
-    max-width: 48rem;
-    margin: 0 auto;
-  }
-
-  .info p {
-    margin: 0;
-  }
-
-  .copy .p-name {
-    font-weight: bold;
-  }
-</style>
-
 <main role='main'>
   <article class='h-entry'>
-    {{ partial "photos/full-figures" . }}
+    <header>
+      <div>
+        {{ with .Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
 
-    <div class='info copy'>
-      <p class='p-name'>{{- .Title -}}</p>
-      <p>
-        {{- if not .Date.IsZero -}}
-        <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-          <a href="{{ .RelPermalink }}" class="u-url no-link">{{ .Date.Format "2 January 2006" }}</a>
-        </time>
-        {{- end -}}
-      </p>
-      <p>&copy; Henrique Dias. All Rights Reserved.</p>
-    </div>
+        <p>
+          <time class='dt-updated' datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
+            <a href="{{ .RelPermalink }}" class="u-url no-link">{{ .Lastmod.Format "2 Jan 2006" }}</a>
+          </time>
+        </p>
+      </div>
+
+      {{ with .Params.cover }}
+      <figure>
+        <picture>
+          <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.webp 1000w, https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.webp 2000w" type="image/webp">
+          <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.jpeg 1000w, https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.jpeg 2000w">
+          <img class='u-photo' src="https://cdn.hacdias.com/i/t/{{ .slug }}-2000x.jpeg" alt="{{ .title }}" title="{{ .title }}">
+        </picture>
+      </figure>
+      {{ end }}
+    </header>
 
     {{ with .Content }}
     <div class='copy e-content'>{{ . }}</div>
@@ -59,5 +31,6 @@
     {{ partialCached "post/metadata" . .Permalink }}
   </article>
 </main>
+
 
 {{ end }}
