@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-05-15T21:50:59.270271779Z
+lastmod: 2021-05-15T21:58:31.855401758Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -47,12 +47,12 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 ## Photos
 
 - Show latest images on home.
+- Fix scaling on mobile.
 - Lightbox when clicking picture.
 - Eindhoven collection?
 
 ## Posts
 
-- Gallery of snowy pictures
 - Fractals series:
     - https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
     - https://www.wired.com/story/how-to-make-a-tree-with-fractals/
