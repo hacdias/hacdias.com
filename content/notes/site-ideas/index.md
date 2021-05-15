@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-05-11T09:13:49.595879782Z
+lastmod: 2021-05-15T06:43:58.964042774Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -48,6 +48,18 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 
 - Single photo grid (like Instagram) vs story mode (https://hacdias.com/micro/2021/05/photos-stories-vs-single/)
 - Have both modes, but how to filter? How to see? I think they should be separated somehow.
+
+New ideas:
+
+- Story mode instead of single pictures.
+- Story per travel / hwtaver I want.
+- Story per year / month.
+- Lazy load images.
+- Show badge if updated within the last month / person did not visit.
+- Lightbox when clicking picture.
+- No more gallery of random pictures? Or Keep?
+- Eindhoven collection in the works.
+- White background
 
 ## Posts
 
