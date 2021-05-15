@@ -10,7 +10,7 @@
   {{ if $cdn }}
     <picture>
       <source srcset="https://cdn.hacdias.com/i/t/{{ $cdn }}-250x.webp 250w, https://cdn.hacdias.com/i/t/{{ $cdn }}-500x.webp 500w, https://cdn.hacdias.com/i/t/{{ $cdn }}-1000x.webp 1000w, https://cdn.hacdias.com/i/t/{{ $cdn }}-2000x.webp 2000w" type="image/webp">
-      <source srcset="https://cdn.hacdias.com/i/t/{{ $cdn }}-250x.webp 250w, https://cdn.hacdias.com/i/t/{{ $cdn }}-500x.jpeg 500w, https://cdn.hacdias.com/i/t/{{ $cdn }}-1000x.jpeg 1000w, https://cdn.hacdias.com/i/t/{{ $cdn }}-2000x.jpeg 2000w">
+      <source srcset="https://cdn.hacdias.com/i/t/{{ $cdn }}-250x.jpeg 250w, https://cdn.hacdias.com/i/t/{{ $cdn }}-500x.jpeg 500w, https://cdn.hacdias.com/i/t/{{ $cdn }}-1000x.jpeg 1000w, https://cdn.hacdias.com/i/t/{{ $cdn }}-2000x.jpeg 2000w">
       <img src="https://cdn.hacdias.com/i/t/{{ $cdn }}-2000x.jpeg" loading="lazy"
       {{- if or (.Get "alt") (.Get "caption") }}
       alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
