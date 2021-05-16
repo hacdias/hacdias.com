@@ -3,7 +3,7 @@ title: 2021 In Pictures
 date: 2021-04-09T00:00:00Z
 lastmod: 2021-05-15T15:00:00+01:00
 cover:
-  slug: 2021-01-strijps
+  slug: 2021-05-eindhoven-11
 ---
 
 ## 🗓 January {#january}
@@ -134,5 +134,29 @@ Maastricht turned out to be quite a magical little city close to the border with
 {{< figure cdn="2021-05-maastricht-09" alt="Maastricht" >}}
 
 {{< figure cdn="2021-05-maastricht-12" alt="Dream House" >}}
+
+Back to Eindhoven.
+
+{{< figure cdn="2021-05-eindhoven-11" alt="Eindhoven" >}}
+
+<div class="grid g7-3 fill">
+  {{< figure cdn="2021-05-eindhoven-06" alt="Eindhoven" >}}
+  {{< figure cdn="2021-05-eindhoven-09" alt="Eindhoven" >}}
+</div>
+
+<div class="grid g3 fill">
+  {{< figure cdn="2021-05-eindhoven-16" alt="Eindhoven" style="grid-row: 1/3;" >}}
+  {{< figure cdn="2021-05-eindhoven-14" alt="Eindhoven" >}}
+  {{< figure cdn="2021-05-eindhoven-04" alt="Eindhoven" style="grid-row: 2/3;" >}}
+  {{< figure cdn="2021-05-eindhoven-12" alt="Eindhoven" style="grid-row: 1/3;" >}}
+</div>
+
+{{< figure cdn="2021-05-eindhoven-17" alt="Eindhoven" >}}
+
+<div class="grid g3">
+  {{< figure cdn="2021-05-eindhoven-19" alt="Eindhoven" >}}
+  {{< figure cdn="2021-05-eindhoven-20" alt="Eindhoven" >}}
+  {{< figure cdn="2021-05-eindhoven-18" alt="Eindhoven" >}}
+</div>
 
 More to come.
