@@ -2,17 +2,22 @@
   "artists": [
     {
       "name": "Bárbara Tinoco",
-      "count": 32,
+      "count": 29,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
       "name": "Blaya",
-      "count": 25,
+      "count": 20,
       "url": "https://www.last.fm/music/Blaya"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 17,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Lady Gaga",
-      "count": 14,
+      "count": 13,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -21,33 +26,28 @@
       "url": "https://www.last.fm/music/Sia"
     },
     {
+      "name": "Alma",
+      "count": 12,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
       "name": "Dua Lipa",
       "count": 12,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 12,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Alma",
-      "count": 11,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
       "name": "Lana Del Rey",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Lana+Del+Rey"
     },
     {
-      "name": "Robyn",
-      "count": 10,
-      "url": "https://www.last.fm/music/Robyn"
+      "name": "Grimes",
+      "count": 9,
+      "url": "https://www.last.fm/music/Grimes"
     },
     {
       "name": "Charli XCX",
-      "count": 9,
+      "count": 8,
       "url": "https://www.last.fm/music/Charli+XCX"
     }
   ],
@@ -55,14 +55,8 @@
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 22,
+      "count": 18,
       "artist": "Blaya"
-    },
-    {
-      "name": "Outras Línguas",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 12,
-      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
@@ -71,46 +65,52 @@
       "artist": "Bárbara Tinoco"
     },
     {
+      "name": "Outras Línguas",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
+      "count": 9,
+      "artist": "Bárbara Tinoco"
+    },
+    {
       "name": "Little Love - Acoustic",
       "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
-      "count": 9,
+      "count": 7,
       "artist": "James Smith"
     },
     {
       "name": "Boys Boys Boys",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
-      "count": 9,
+      "count": 7,
       "artist": "Lady Gaga"
     },
     {
       "name": "Strong",
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 8,
+      "count": 7,
       "artist": "London Grammar"
     },
     {
       "name": "Diamonds",
       "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
-      "count": 7,
+      "count": 6,
       "artist": "Rihanna"
     },
     {
-      "name": "Strangers",
-      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
-      "count": 7,
-      "artist": "Sigrid"
+      "name": "Cidade",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Cidade",
+      "count": 5,
+      "artist": "Bárbara Tinoco"
+    },
+    {
+      "name": "Sei Lá",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Sei+L%C3%A1",
+      "count": 5,
+      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Video Games - Remastered 2012",
       "url": "https://www.last.fm/music/Lana+Del+Rey/_/Video+Games+-+Remastered+2012",
-      "count": 6,
+      "count": 5,
       "artist": "Lana Del Rey"
-    },
-    {
-      "name": "Don't Call Me Up",
-      "url": "https://www.last.fm/music/Mabel/_/Don%27t+Call+Me+Up",
-      "count": 6,
-      "artist": "Mabel"
     }
   ]
 }
