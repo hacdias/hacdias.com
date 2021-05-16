@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Cryptopia: Bitcoin, Blockchains & the Future of the Internet",
+      "watched": "2021-05-16T19:42:25.000Z",
+      "url": "https://trakt.tv/movies/cryptopia-bitcoin-blockchains-the-future-of-the-internet-2020"
+    },
+    {
       "title": "Until Porn Do Us Part",
       "watched": "2021-05-07T21:42:34.000Z",
       "url": "https://trakt.tv/movies/until-porn-do-us-part-2018"
@@ -1838,6 +1843,16 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race Down Under",
+      "watched": "2021-05-16T18:00:07.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-down-under"
+    },
+    {
+      "title": "Good Girls",
+      "watched": "2021-05-16T16:17:54.000Z",
+      "url": "https://trakt.tv/shows/good-girls"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2021-05-14T10:29:47.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
@@ -1851,16 +1866,6 @@
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-05-11T07:00:00.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
-    },
-    {
-      "title": "RuPaul's Drag Race Down Under",
-      "watched": "2021-05-10T09:21:39.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-down-under"
-    },
-    {
-      "title": "Good Girls",
-      "watched": "2021-05-09T21:23:25.000Z",
-      "url": "https://trakt.tv/shows/good-girls"
     },
     {
       "title": "The Shannara Chronicles",
