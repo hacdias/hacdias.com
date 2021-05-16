@@ -109,4 +109,9 @@ h2 img {
   .grid {
     grid-template-columns: 1fr !important;
   }
+
+  .grid figure {
+    grid-row: auto !important;
+    grid-column: auto !important;
+  }
 }
