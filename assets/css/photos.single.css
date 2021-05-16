@@ -114,4 +114,17 @@ h2 img {
     grid-row: auto !important;
     grid-column: auto !important;
   }
+
+  header div {
+    padding: var(--half-space);
+  }
+
+  header h1 {
+    font-size: var(--f2);
+    margin-bottom: 0.5rem;
+  }
+
+  #navbar a {
+    margin: 0.5rem 0;
+  }
 }
