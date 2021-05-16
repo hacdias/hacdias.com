@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-05-15T21:58:31.855401758Z
+lastmod: 2021-05-16T08:03:51.902086411Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -47,7 +47,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 ## Photos
 
 - Show latest images on home.
-- Fix scaling on mobile.
 - Lightbox when clicking picture.
 - Eindhoven collection?
 
