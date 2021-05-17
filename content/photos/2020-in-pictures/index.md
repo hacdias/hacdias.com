@@ -1,7 +1,7 @@
 ---
 title: 2020 In Pictures
 date: 2020-03-21T23:30:50.893Z
-lastmod: 2021-05-15T15:00:00+01:00
+lastmod: 2021-05-17T09:30:07.477141463Z
 cover:
   slug: 2020-04-hometown-02
 ---
@@ -11,8 +11,6 @@ The year of 2020 was marked by an unexpected pandemic.  Even though I managed to
 ## 🗓 January {#january}
 
 I had exams and was still in Lisbon. The pictures I have for this month are not taken in January 2020. However, they remind me of Lisbon and the life I had while I was there.
-
-{{< figure cdn="2020-03-lisbon-02" alt="Ponte 25 de Abril" >}}
 
 <div class="grid g2">
   {{< figure cdn="2020-03-lisbon-03" alt="Fonte Luminosa" >}}
@@ -24,6 +22,8 @@ I had exams and was still in Lisbon. The pictures I have for this month are not 
 ## 🗓 February {#february}
 
 There were a few cases of Covid-19 in Europe. However, my friends and I decided to do our routine small trip - we always do a trip between semesters - to Luxembourg 🇱🇺, Brussels 🇧🇪 and Amsterdam 🇳🇱.
+
+{{< figure cdn="2020-03-lisbon-02" alt="Ponte 25 de Abril" >}}
 
 ## 🗓 March {#march}
 
