@@ -2,8 +2,13 @@
   "artists": [
     {
       "name": "Bárbara Tinoco",
-      "count": 29,
+      "count": 30,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
+      "name": "Blaya",
+      "count": 18,
+      "url": "https://www.last.fm/music/Blaya"
     },
     {
       "name": "Dua Lipa",
@@ -11,19 +16,14 @@
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 18,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Blaya",
-      "count": 17,
-      "url": "https://www.last.fm/music/Blaya"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 16,
+      "count": 17,
       "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 17,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Alma",
@@ -42,12 +42,12 @@
     },
     {
       "name": "Charli XCX",
-      "count": 9,
+      "count": 10,
       "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
       "name": "Lana Del Rey",
-      "count": 9,
+      "count": 10,
       "url": "https://www.last.fm/music/Lana+Del+Rey"
     }
   ],
@@ -55,7 +55,7 @@
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 15,
+      "count": 17,
       "artist": "Blaya"
     },
     {
@@ -67,50 +67,50 @@
     {
       "name": "Outras Línguas",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 8,
+      "count": 9,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Boys Boys Boys",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
-      "count": 7,
+      "count": 8,
       "artist": "Lady Gaga"
     },
     {
       "name": "Little Love - Acoustic",
       "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
-      "count": 6,
+      "count": 7,
       "artist": "James Smith"
     },
     {
       "name": "Strong",
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 6,
+      "count": 7,
       "artist": "London Grammar"
     },
     {
       "name": "Diamonds",
       "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
-      "count": 6,
+      "count": 7,
       "artist": "Rihanna"
     },
     {
       "name": "Strangers",
       "url": "https://www.last.fm/music/Sigrid/_/Strangers",
-      "count": 6,
+      "count": 7,
       "artist": "Sigrid"
     },
     {
-      "name": "Cidade",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Cidade",
-      "count": 5,
-      "artist": "Bárbara Tinoco"
+      "name": "Tilted",
+      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Tilted",
+      "count": 6,
+      "artist": "Christine and the Queens"
     },
     {
-      "name": "Sei Lá",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Sei+L%C3%A1",
-      "count": 5,
-      "artist": "Bárbara Tinoco"
+      "name": "Burn",
+      "url": "https://www.last.fm/music/Ellie+Goulding/_/Burn",
+      "count": 6,
+      "artist": "Ellie Goulding"
     }
   ]
 }
