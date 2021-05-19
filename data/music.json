@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Bárbara Tinoco",
-      "count": 30,
+      "count": 28,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
       "name": "Blaya",
-      "count": 18,
+      "count": 19,
       "url": "https://www.last.fm/music/Blaya"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Alma",
-      "count": 15,
+      "count": 14,
       "url": "https://www.last.fm/music/Alma"
     },
     {
@@ -37,55 +37,55 @@
     },
     {
       "name": "Sia",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Charli XCX",
-      "count": 10,
+      "count": 9,
       "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
-      "name": "Lana Del Rey",
-      "count": 10,
-      "url": "https://www.last.fm/music/Lana+Del+Rey"
+      "name": "Christine and the Queens",
+      "count": 8,
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     }
   ],
   "tracks": [
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 17,
+      "count": 18,
       "artist": "Blaya"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 11,
+      "count": 10,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Outras Línguas",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 9,
+      "count": 10,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Boys Boys Boys",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
-      "count": 8,
+      "count": 9,
       "artist": "Lady Gaga"
     },
     {
       "name": "Little Love - Acoustic",
       "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
-      "count": 7,
+      "count": 8,
       "artist": "James Smith"
     },
     {
       "name": "Strong",
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 7,
+      "count": 8,
       "artist": "London Grammar"
     },
     {
