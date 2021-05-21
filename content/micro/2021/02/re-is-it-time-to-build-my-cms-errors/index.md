@@ -1,7 +1,7 @@
 ---
 date: 2021-02-16T20:21:25.185559963Z
 replyTo:
-  url: https://ybbond.id/responses/#date-2021-02-17-0255
+  url: https://ybbond.id/responses/response-20210217025510/
   name: In response to «Is it time to build my own CMS?» by «Henrique Dias»
   content: Quick note, there is error in link destinations at the end of the post.
     All directing to https://github.com/xwmx/nb  . I too want to build a CMS! The
