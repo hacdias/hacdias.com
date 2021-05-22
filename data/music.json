@@ -1,116 +1,116 @@
 {
   "artists": [
     {
-      "name": "Bárbara Tinoco",
-      "count": 17,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
-    },
-    {
       "name": "Blaya",
-      "count": 14,
+      "count": 11,
       "url": "https://www.last.fm/music/Blaya"
     },
     {
-      "name": "Alma",
-      "count": 13,
-      "url": "https://www.last.fm/music/Alma"
-    },
-    {
-      "name": "Grimes",
-      "count": 13,
-      "url": "https://www.last.fm/music/Grimes"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 13,
+      "count": 11,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
+      "name": "Bárbara Tinoco",
+      "count": 8,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
+      "name": "Alma",
+      "count": 7,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
       "name": "Dua Lipa",
-      "count": 12,
+      "count": 6,
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
+      "name": "Grimes",
+      "count": 6,
+      "url": "https://www.last.fm/music/Grimes"
+    },
+    {
       "name": "Miley Cyrus",
-      "count": 12,
+      "count": 6,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Charli XCX",
-      "count": 6,
-      "url": "https://www.last.fm/music/Charli+XCX"
-    },
-    {
       "name": "Christine and the Queens",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
-      "name": "Ellie Goulding",
-      "count": 6,
-      "url": "https://www.last.fm/music/Ellie+Goulding"
+      "name": "Charli XCX",
+      "count": 4,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
+      "name": "James Smith",
+      "count": 4,
+      "url": "https://www.last.fm/music/James+Smith"
     }
   ],
   "tracks": [
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 14,
+      "count": 11,
       "artist": "Blaya"
-    },
-    {
-      "name": "Outras Línguas",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 7,
-      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 6,
+      "count": 4,
+      "artist": "Bárbara Tinoco"
+    },
+    {
+      "name": "Outras Línguas",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
+      "count": 4,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Little Love - Acoustic",
       "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
-      "count": 6,
+      "count": 4,
       "artist": "James Smith"
     },
     {
       "name": "Boys Boys Boys",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
-      "count": 6,
+      "count": 4,
       "artist": "Lady Gaga"
     },
     {
       "name": "Strong",
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 6,
+      "count": 4,
       "artist": "London Grammar"
-    },
-    {
-      "name": "Diamonds",
-      "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
-      "count": 5,
-      "artist": "Rihanna"
-    },
-    {
-      "name": "Strangers",
-      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
-      "count": 5,
-      "artist": "Sigrid"
     },
     {
       "name": "Tilted",
       "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Tilted",
-      "count": 4,
+      "count": 3,
       "artist": "Christine and the Queens"
     },
     {
       "name": "Burn",
       "url": "https://www.last.fm/music/Ellie+Goulding/_/Burn",
-      "count": 4,
+      "count": 3,
       "artist": "Ellie Goulding"
+    },
+    {
+      "name": "First Semi-Final - Live Stream",
+      "url": "https://www.last.fm/music/Eurovision+Song+Contest+2021/_/First+Semi-Final+-+Live+Stream",
+      "count": 3,
+      "artist": "Eurovision Song Contest 2021"
+    },
+    {
+      "name": "Diamonds",
+      "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
+      "count": 3,
+      "artist": "Rihanna"
     }
   ]
 }
