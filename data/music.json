@@ -1,23 +1,23 @@
 {
   "artists": [
     {
+      "name": "Bárbara Tinoco",
+      "count": 12,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
       "name": "Blaya",
-      "count": 11,
+      "count": 12,
       "url": "https://www.last.fm/music/Blaya"
     },
     {
       "name": "Lady Gaga",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Bárbara Tinoco",
-      "count": 8,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
-    },
-    {
       "name": "Alma",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Alma"
     },
     {
@@ -29,11 +29,6 @@
       "name": "Grimes",
       "count": 6,
       "url": "https://www.last.fm/music/Grimes"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 6,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Christine and the Queens",
@@ -49,38 +44,43 @@
       "name": "James Smith",
       "count": 4,
       "url": "https://www.last.fm/music/James+Smith"
+    },
+    {
+      "name": "London Grammar",
+      "count": 4,
+      "url": "https://www.last.fm/music/London+Grammar"
     }
   ],
   "tracks": [
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 11,
+      "count": 12,
       "artist": "Blaya"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 4,
+      "count": 6,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Outras Línguas",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 4,
+      "count": 6,
       "artist": "Bárbara Tinoco"
+    },
+    {
+      "name": "Boys Boys Boys",
+      "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
+      "count": 5,
+      "artist": "Lady Gaga"
     },
     {
       "name": "Little Love - Acoustic",
       "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
       "count": 4,
       "artist": "James Smith"
-    },
-    {
-      "name": "Boys Boys Boys",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
-      "count": 4,
-      "artist": "Lady Gaga"
     },
     {
       "name": "Strong",
