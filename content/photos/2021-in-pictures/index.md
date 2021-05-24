@@ -1,7 +1,7 @@
 ---
 title: 2021 In Pictures
 date: 2021-04-09T00:00:00Z
-lastmod: 2021-05-15T15:00:00+01:00
+lastmod: 2021-05-24T09:11:06.987795069Z
 cover:
   slug: 2021-05-eindhoven-11
 ---
@@ -157,6 +157,23 @@ Back to Eindhoven.
   {{< figure cdn="2021-05-eindhoven-19" alt="Eindhoven" >}}
   {{< figure cdn="2021-05-eindhoven-20" alt="Eindhoven" >}}
   {{< figure cdn="2021-05-eindhoven-18" alt="Eindhoven" >}}
+</div>
+
+Foggy morning.
+
+{{< figure cdn="2021-05-foggy-morning-02" alt="Eindhoven" >}}
+
+<div class="grid g3">
+  {{< figure cdn="2021-05-foggy-morning-07" alt="Eindhoven" >}}
+  {{< figure cdn="2021-05-foggy-morning-04" alt="Eindhoven" >}}
+  {{< figure cdn="2021-05-foggy-morning-06" alt="Eindhoven" >}}
+</div>
+
+{{< figure cdn="2021-05-foggy-morning-01" alt="Eindhoven" >}}
+
+<div class="grid g2">
+  {{< figure cdn="2021-05-foggy-morning-05" alt="Eindhoven" >}}
+  {{< figure cdn="2021-05-foggy-morning-08" alt="Eindhoven" >}}
 </div>
 
 More to come.
