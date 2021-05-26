@@ -1843,6 +1843,11 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-05-26T07:55:22.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-05-25T19:52:54.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
@@ -1856,11 +1861,6 @@
       "title": "Good Girls",
       "watched": "2021-05-20T20:38:16.000Z",
       "url": "https://trakt.tv/shows/good-girls"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-05-20T16:55:43.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Young Sheldon",
