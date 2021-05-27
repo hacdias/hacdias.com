@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Bárbara Tinoco",
-      "count": 14,
+      "count": 16,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Blaya",
-      "count": 9,
+      "count": 7,
       "url": "https://www.last.fm/music/Blaya"
     },
     {
@@ -21,41 +21,41 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Charli XCX",
+      "name": "Miley Cyrus",
       "count": 5,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Charli XCX",
+      "count": 4,
       "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
+      "name": "Robyn",
+      "count": 4,
+      "url": "https://www.last.fm/music/Robyn"
+    },
+    {
+      "name": "Sia",
+      "count": 4,
+      "url": "https://www.last.fm/music/Sia"
+    },
+    {
+      "name": "Steps",
+      "count": 4,
+      "url": "https://www.last.fm/music/Steps"
     },
     {
       "name": "Barbara Pravi",
       "count": 3,
       "url": "https://www.last.fm/music/Barbara+Pravi"
-    },
-    {
-      "name": "Steps",
-      "count": 3,
-      "url": "https://www.last.fm/music/Steps"
-    },
-    {
-      "name": "Adam Lambert",
-      "count": 2,
-      "url": "https://www.last.fm/music/Adam+Lambert"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 2,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Avril Lavigne",
-      "count": 2,
-      "url": "https://www.last.fm/music/Avril+Lavigne"
     }
   ],
   "tracks": [
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 9,
+      "count": 7,
       "artist": "Blaya"
     },
     {
@@ -71,16 +71,34 @@
       "artist": "Bárbara Tinoco"
     },
     {
+      "name": "Last Thing On My Mind",
+      "url": "https://www.last.fm/music/Steps/_/Last+Thing+On+My+Mind",
+      "count": 4,
+      "artist": "Steps"
+    },
+    {
+      "name": "Cidade",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Cidade",
+      "count": 3,
+      "artist": "Bárbara Tinoco"
+    },
+    {
       "name": "Boys Boys Boys",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
       "count": 3,
       "artist": "Lady Gaga"
     },
     {
-      "name": "Last Thing On My Mind",
-      "url": "https://www.last.fm/music/Steps/_/Last+Thing+On+My+Mind",
+      "name": "Don't Call Me Up",
+      "url": "https://www.last.fm/music/Mabel/_/Don%27t+Call+Me+Up",
       "count": 3,
-      "artist": "Steps"
+      "artist": "Mabel"
+    },
+    {
+      "name": "Drama Queen",
+      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
+      "count": 2,
+      "artist": "a.Rose"
     },
     {
       "name": "Cai neve em Nova York",
@@ -89,28 +107,10 @@
       "artist": "Amor Electro"
     },
     {
-      "name": "Voilà - France 🇫🇷 - Official Music Video - Eurovision 2021",
-      "url": "https://www.last.fm/music/Barbara+Pravi/_/Voil%C3%A0+-+France+%F0%9F%87%AB%F0%9F%87%B7+-+Official+Music+Video+-+Eurovision+2021",
+      "name": "Hot",
+      "url": "https://www.last.fm/music/Avril+Lavigne/_/Hot",
       "count": 2,
-      "artist": "Barbara Pravi"
-    },
-    {
-      "name": "Cidade",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Cidade",
-      "count": 2,
-      "artist": "Bárbara Tinoco"
-    },
-    {
-      "name": "Electric Love",
-      "url": "https://www.last.fm/music/B%C3%98RNS/_/Electric+Love",
-      "count": 2,
-      "artist": "BØRNS"
-    },
-    {
-      "name": "Boom Clap",
-      "url": "https://www.last.fm/music/Charli+XCX/_/Boom+Clap",
-      "count": 2,
-      "artist": "Charli XCX"
+      "artist": "Avril Lavigne"
     }
   ]
 }
