@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "London Grammar",
-      "count": 20,
+      "count": 21,
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
@@ -21,19 +21,14 @@
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Christine and the Queens",
-      "count": 10,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
-    },
-    {
       "name": "The Black Mamba",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/The+Black+Mamba"
     },
     {
-      "name": "Blaya",
-      "count": 9,
-      "url": "https://www.last.fm/music/Blaya"
+      "name": "Christine and the Queens",
+      "count": 10,
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
       "name": "Lady Gaga",
@@ -46,28 +41,39 @@
       "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Charli XCX",
-      "count": 7,
-      "url": "https://www.last.fm/music/Charli+XCX"
+      "name": "Blaya",
+      "count": 8,
+      "url": "https://www.last.fm/music/Blaya"
+    },
+    {
+      "name": "Bruno Mars",
+      "count": 8,
+      "url": "https://www.last.fm/music/Bruno+Mars"
     }
   ],
   "tracks": [
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 9,
+      "count": 8,
       "artist": "Blaya"
+    },
+    {
+      "name": "Strong",
+      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
+      "count": 7,
+      "artist": "London Grammar"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 7,
+      "count": 6,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Outras Línguas",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 7,
+      "count": 6,
       "artist": "Bárbara Tinoco"
     },
     {
@@ -77,10 +83,16 @@
       "artist": "Christine and the Queens"
     },
     {
-      "name": "Strong",
-      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 6,
-      "artist": "London Grammar"
+      "name": "It Will Rain",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
+      "count": 5,
+      "artist": "Bruno Mars"
+    },
+    {
+      "name": "Burn",
+      "url": "https://www.last.fm/music/Ellie+Goulding/_/Burn",
+      "count": 5,
+      "artist": "Ellie Goulding"
     },
     {
       "name": "Boys Boys Boys",
@@ -89,28 +101,16 @@
       "artist": "Lady Gaga"
     },
     {
-      "name": "Electric Love",
-      "url": "https://www.last.fm/music/B%C3%98RNS/_/Electric+Love",
-      "count": 4,
-      "artist": "BØRNS"
+      "name": "Diamonds",
+      "url": "https://www.last.fm/music/Rihanna/_/Diamonds",
+      "count": 5,
+      "artist": "Rihanna"
     },
     {
-      "name": "Boom Clap",
-      "url": "https://www.last.fm/music/Charli+XCX/_/Boom+Clap",
-      "count": 4,
-      "artist": "Charli XCX"
-    },
-    {
-      "name": "Burn",
-      "url": "https://www.last.fm/music/Ellie+Goulding/_/Burn",
-      "count": 4,
-      "artist": "Ellie Goulding"
-    },
-    {
-      "name": "Little Love - Acoustic",
-      "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
-      "count": 4,
-      "artist": "James Smith"
+      "name": "Strangers",
+      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
+      "count": 5,
+      "artist": "Sigrid"
     }
   ]
 }
