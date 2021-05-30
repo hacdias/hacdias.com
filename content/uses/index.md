@@ -1,7 +1,7 @@
 ---
 title: Stuff I use
 date: 2020-01-21T15:39:00Z
-lastmod: 2021-02-18T21:36:32.368732968Z
+lastmod: 2021-05-30T14:04:00.610269323Z
 emoji: "\U0001F6E0"
 noMentions: true
 ---
@@ -43,7 +43,7 @@ My desk also features my one and only console: a Nintendo Switch. I live in a st
 Besides all these devices, I also want to shout out to my:
 
 - **Raspberry Pi 4 Model B**, that runs some services for personal use, some of which are intrinsically related to [this website](/meta); and my
-- **Yubikey 5C** x2 for 2FA authentication and GPG signing.
+- **Yubikey 5C NFC** x2 for 2FA authentication, GPG and SSH.
 
 {{< figure cdn="2021-02-secrid-wallet" class="full-width" alt="Secrid" caption="Secrid is my wallet of choice" >}}
 

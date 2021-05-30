@@ -1,12 +1,12 @@
 ---
-title: Access a network behind a Carrier Grade NAT with Wireguard
+title: Wireguard VPN to network behind a CGNAT
 description: |
   Nowadays, a lot of ISPs are putting their clients behind giant NATs which blocks us from easily accessing local services from the outside.
 tags:
 - mondayletter
 - network
 date: 2020-11-30T09:00:00+01:00
-lastmod: 2021-03-11T21:13:42.254895185Z
+lastmod: 2021-05-30T13:00:19.480977071Z
 ---
 
 I recently moved from the place where I was staying at to my own studio. In addition, since I was building a computer, I wanted to be able to access remotely to its capabitities, as well as any other device I have at home. Thus, I thought: let's set up a VPN!
