@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "London Grammar",
-      "count": 19,
+      "count": 20,
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
       "name": "Bárbara Tinoco",
-      "count": 17,
+      "count": 19,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
@@ -21,14 +21,24 @@
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
+      "name": "Christine and the Queens",
+      "count": 10,
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
+    },
+    {
       "name": "The Black Mamba",
       "count": 10,
       "url": "https://www.last.fm/music/The+Black+Mamba"
     },
     {
-      "name": "Christine and the Queens",
+      "name": "Blaya",
       "count": 9,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
+      "url": "https://www.last.fm/music/Blaya"
+    },
+    {
+      "name": "Lady Gaga",
+      "count": 9,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Alma",
@@ -36,18 +46,8 @@
       "url": "https://www.last.fm/music/Alma"
     },
     {
-      "name": "Lady Gaga",
-      "count": 8,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Blaya",
-      "count": 7,
-      "url": "https://www.last.fm/music/Blaya"
-    },
-    {
       "name": "Charli XCX",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Charli+XCX"
     }
   ],
@@ -55,62 +55,62 @@
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 7,
+      "count": 9,
       "artist": "Blaya"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 6,
+      "count": 7,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Outras Línguas",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 6,
+      "count": 7,
       "artist": "Bárbara Tinoco"
     },
     {
       "name": "Tilted",
       "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Tilted",
-      "count": 5,
+      "count": 6,
       "artist": "Christine and the Queens"
     },
     {
       "name": "Strong",
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 5,
+      "count": 6,
       "artist": "London Grammar"
     },
     {
       "name": "Boys Boys Boys",
       "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
-      "count": 4,
+      "count": 5,
       "artist": "Lady Gaga"
-    },
-    {
-      "name": "Cai neve em Nova York",
-      "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
-      "count": 3,
-      "artist": "Amor Electro"
-    },
-    {
-      "name": "Cidade",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Cidade",
-      "count": 3,
-      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Electric Love",
       "url": "https://www.last.fm/music/B%C3%98RNS/_/Electric+Love",
-      "count": 3,
+      "count": 4,
       "artist": "BØRNS"
     },
     {
       "name": "Boom Clap",
       "url": "https://www.last.fm/music/Charli+XCX/_/Boom+Clap",
-      "count": 3,
+      "count": 4,
       "artist": "Charli XCX"
+    },
+    {
+      "name": "Burn",
+      "url": "https://www.last.fm/music/Ellie+Goulding/_/Burn",
+      "count": 4,
+      "artist": "Ellie Goulding"
+    },
+    {
+      "name": "Little Love - Acoustic",
+      "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
+      "count": 4,
+      "artist": "James Smith"
     }
   ]
 }
