@@ -35,4 +35,4 @@
 {{ end }}
 
 {{ $html = (trim $html " ") }}
-{{ $html = (chomp $html) }}
+{{ return (chomp $html) }}
