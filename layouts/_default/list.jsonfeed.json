@@ -18,7 +18,8 @@
     {{- range $index, $pages := $pages }}
     {{ if ge $index 1 }}, {{end}}{
       {{- with .Params.tags }}"tags": {{ . | jsonify }},{{ end }}
-      {{- with .Title }}"title": {{ . | jsonify }},{{ end }}
+      {{- if .Title }}"title": {{ .Title | jsonify }},
+      {{- else if eq .Section "micro" }}"title": "Micro interaction",{{ end }}
       "id": "{{ .Permalink }}",
       "url": "{{ .Permalink }}",
       "content_html": {{ partialCached "cleaned-content.html" . .Permalink | jsonify }},

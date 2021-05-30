@@ -17,7 +17,7 @@
     {{ end }}
     {{ range $pages }}
     <item>
-      {{ with .Title }}<title>{{ . }}</title>{{ end }}
+      {{ if .Title }}<title>{{ .Title }}</title>{{ else if eq .Section "micro" }}<title>Micro interaction</title>{{ end }}
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <guid>{{ .Permalink }}</guid>
