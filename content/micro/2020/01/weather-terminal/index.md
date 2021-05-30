@@ -3,6 +3,7 @@ tags:
 - software
 - curl
 - terminal
+- tip
 date: 2020-01-20T22:13:42.439Z
 aliases:
 - /notes/2020/01/20/1/
