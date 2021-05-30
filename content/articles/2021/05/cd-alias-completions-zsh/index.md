@@ -2,8 +2,8 @@
 title: cd subdirectory alias with completions in zsh
 date: 2021-05-30T10:23:57.3713559Z
 description: >
-	How to create a cd subdirectory alias with completion
-	definitions in zsh.
+  How to create a cd subdirectory alias with completion
+  definitions in zsh.
 tags:
 - terminal
 - tip
@@ -46,20 +46,20 @@ If you have more than one `cd` subdirectory alias like me, instead of manually d
 ```zsh
 typeset -A cd_aliases
 cd_aliases=(
-	[cdc]="$HOME/Code"
-	[cdd]="$HOME/Documents"
+  [cdc]="$HOME/Code"
+  [cdd]="$HOME/Documents"
 )
 
 for k in "${(@k)cd_aliases}"; do
-	function $k() {
-		cd "$cd_aliases[$0]/$1"
-	}
+  function $k() {
+    cd "$cd_aliases[$0]/$1"
+  }
 
-	function _$k() {
-		((CURRENT == 2)) && _files -/ -W $cd_aliases[${0:1}]
-	}
+  function _$k() {
+    ((CURRENT == 2)) && _files -/ -W $cd_aliases[${0:1}]
+  }
 
-	compdef _$k $k
+  compdef _$k $k
 done
 ```
 
