@@ -7,7 +7,7 @@
     },
     {
       "name": "Bárbara Tinoco",
-      "count": 19,
+      "count": 18,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
@@ -31,11 +31,6 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Blaya",
-      "count": 9,
-      "url": "https://www.last.fm/music/Blaya"
-    },
-    {
       "name": "Christine and the Queens",
       "count": 9,
       "url": "https://www.last.fm/music/Christine+and+the+Queens"
@@ -44,6 +39,11 @@
       "name": "Alma",
       "count": 8,
       "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Blaya",
+      "count": 8,
+      "url": "https://www.last.fm/music/Blaya"
     },
     {
       "name": "MØ",
@@ -55,14 +55,8 @@
     {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 9,
+      "count": 8,
       "artist": "Blaya"
-    },
-    {
-      "name": "Devia ir (versão da Bárbara)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 7,
-      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Outras Línguas",
@@ -75,6 +69,12 @@
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
       "count": 7,
       "artist": "London Grammar"
+    },
+    {
+      "name": "Devia ir (versão da Bárbara)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
+      "count": 6,
+      "artist": "Bárbara Tinoco"
     },
     {
       "name": "It Will Rain",
