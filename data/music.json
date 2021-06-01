@@ -7,8 +7,13 @@
     },
     {
       "name": "Bárbara Tinoco",
-      "count": 18,
+      "count": 16,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 13,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Kim Petras",
@@ -16,24 +21,19 @@
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 12,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
       "name": "Bruno Mars",
       "count": 10,
       "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
-      "name": "Lady Gaga",
+      "name": "Christine and the Queens",
       "count": 10,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
-      "name": "Christine and the Queens",
+      "name": "Lady Gaga",
       "count": 9,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Alma",
@@ -59,20 +59,14 @@
       "artist": "Blaya"
     },
     {
-      "name": "Outras Línguas",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 7,
-      "artist": "Bárbara Tinoco"
-    },
-    {
       "name": "Strong",
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
       "count": 7,
       "artist": "London Grammar"
     },
     {
-      "name": "Devia ir (versão da Bárbara)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
+      "name": "Outras Línguas",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
       "count": 6,
       "artist": "Bárbara Tinoco"
     },
@@ -83,10 +77,16 @@
       "artist": "Bruno Mars"
     },
     {
-      "name": "Boys Boys Boys",
-      "url": "https://www.last.fm/music/Lady+Gaga/_/Boys+Boys+Boys",
+      "name": "Strangers",
+      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
       "count": 6,
-      "artist": "Lady Gaga"
+      "artist": "Sigrid"
+    },
+    {
+      "name": "Devia ir (versão da Bárbara)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
+      "count": 5,
+      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Tilted",
@@ -101,16 +101,16 @@
       "artist": "Dami Im"
     },
     {
-      "name": "Little Love - Acoustic",
-      "url": "https://www.last.fm/music/James+Smith/_/Little+Love+-+Acoustic",
+      "name": "Je Me Casse",
+      "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
       "count": 5,
-      "artist": "James Smith"
+      "artist": "Destiny"
     },
     {
-      "name": "Live to Survive",
-      "url": "https://www.last.fm/music/M%C3%98/_/Live+to+Survive",
+      "name": "The Wrong Place",
+      "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
       "count": 5,
-      "artist": "MØ"
+      "artist": "Hooverphonic"
     }
   ]
 }
