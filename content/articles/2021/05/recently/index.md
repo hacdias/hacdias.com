@@ -1,12 +1,10 @@
 ---
 title: Recently
-description: >
+description: |
   April was a month of change and unexpected events.
 tags:
 - recently
 date: 2021-05-01T09:00:00+02:00
-aliases:
-- /now/
 ---
 
 One more month has passed! It is unbelievable how fast this academic year - and 2021 in general - is passing. I'm already in my last quartile, having my last courses for the year.
