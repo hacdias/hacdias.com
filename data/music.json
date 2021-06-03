@@ -7,12 +7,12 @@
     },
     {
       "name": "Miley Cyrus",
-      "count": 19,
+      "count": 20,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Bárbara Tinoco",
-      "count": 16,
+      "count": 18,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
@@ -22,8 +22,13 @@
     },
     {
       "name": "Dua Lipa",
-      "count": 13,
+      "count": 14,
       "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
+      "name": "Bruno Mars",
+      "count": 12,
+      "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
       "name": "Grimes",
@@ -44,11 +49,6 @@
       "name": "Lady Gaga",
       "count": 11,
       "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Bruno Mars",
-      "count": 10,
-      "url": "https://www.last.fm/music/Bruno+Mars"
     }
   ],
   "tracks": [
@@ -59,22 +59,46 @@
       "artist": "Blaya"
     },
     {
+      "name": "It Will Rain",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
+      "count": 7,
+      "artist": "Bruno Mars"
+    },
+    {
       "name": "Strong",
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
       "count": 7,
       "artist": "London Grammar"
     },
     {
-      "name": "It Will Rain",
-      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
-      "count": 6,
-      "artist": "Bruno Mars"
-    },
-    {
       "name": "Tilted",
       "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Tilted",
       "count": 6,
       "artist": "Christine and the Queens"
+    },
+    {
+      "name": "Sound of Silence",
+      "url": "https://www.last.fm/music/Dami+Im/_/Sound+of+Silence",
+      "count": 6,
+      "artist": "Dami Im"
+    },
+    {
+      "name": "Je Me Casse",
+      "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
+      "count": 6,
+      "artist": "Destiny"
+    },
+    {
+      "name": "The Wrong Place",
+      "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
+      "count": 6,
+      "artist": "Hooverphonic"
+    },
+    {
+      "name": "Live to Survive",
+      "url": "https://www.last.fm/music/M%C3%98/_/Live+to+Survive",
+      "count": 6,
+      "artist": "MØ"
     },
     {
       "name": "Strangers",
@@ -87,30 +111,6 @@
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
       "count": 5,
       "artist": "Bárbara Tinoco"
-    },
-    {
-      "name": "Outras Línguas",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 5,
-      "artist": "Bárbara Tinoco"
-    },
-    {
-      "name": "Sound of Silence",
-      "url": "https://www.last.fm/music/Dami+Im/_/Sound+of+Silence",
-      "count": 5,
-      "artist": "Dami Im"
-    },
-    {
-      "name": "Je Me Casse",
-      "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
-      "count": 5,
-      "artist": "Destiny"
-    },
-    {
-      "name": "Burn",
-      "url": "https://www.last.fm/music/Ellie+Goulding/_/Burn",
-      "count": 5,
-      "artist": "Ellie Goulding"
     }
   ]
 }
