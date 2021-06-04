@@ -1,24 +1,24 @@
 {
   "artists": [
     {
+      "name": "Bárbara Tinoco",
+      "count": 22,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
       "name": "London Grammar",
-      "count": 21,
+      "count": 22,
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
       "name": "Miley Cyrus",
-      "count": 20,
+      "count": 19,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Bárbara Tinoco",
+      "name": "Bruno Mars",
       "count": 18,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
-    },
-    {
-      "name": "Alma",
-      "count": 14,
-      "url": "https://www.last.fm/music/Alma"
+      "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
       "name": "Dua Lipa",
@@ -26,9 +26,19 @@
       "url": "https://www.last.fm/music/Dua+Lipa"
     },
     {
-      "name": "Bruno Mars",
+      "name": "Alma",
+      "count": 13,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "MØ",
+      "count": 13,
+      "url": "https://www.last.fm/music/M%C3%98"
+    },
+    {
+      "name": "Christine and the Queens",
       "count": 12,
-      "url": "https://www.last.fm/music/Bruno+Mars"
+      "url": "https://www.last.fm/music/Christine+and+the+Queens"
     },
     {
       "name": "Grimes",
@@ -36,81 +46,71 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Christine and the Queens",
-      "count": 11,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 11,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
       "name": "Lady Gaga",
-      "count": 11,
+      "count": 12,
       "url": "https://www.last.fm/music/Lady+Gaga"
     }
   ],
   "tracks": [
     {
-      "name": "Ok",
-      "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 7,
-      "artist": "Blaya"
-    },
-    {
       "name": "It Will Rain",
       "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
-      "count": 7,
+      "count": 10,
       "artist": "Bruno Mars"
-    },
-    {
-      "name": "Strong",
-      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 7,
-      "artist": "London Grammar"
-    },
-    {
-      "name": "Tilted",
-      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Tilted",
-      "count": 6,
-      "artist": "Christine and the Queens"
     },
     {
       "name": "Sound of Silence",
       "url": "https://www.last.fm/music/Dami+Im/_/Sound+of+Silence",
-      "count": 6,
+      "count": 9,
       "artist": "Dami Im"
     },
     {
       "name": "Je Me Casse",
       "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
-      "count": 6,
+      "count": 9,
       "artist": "Destiny"
     },
     {
       "name": "The Wrong Place",
       "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
-      "count": 6,
+      "count": 9,
       "artist": "Hooverphonic"
     },
     {
       "name": "Live to Survive",
       "url": "https://www.last.fm/music/M%C3%98/_/Live+to+Survive",
-      "count": 6,
+      "count": 9,
       "artist": "MØ"
     },
     {
-      "name": "Strangers",
-      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
-      "count": 6,
-      "artist": "Sigrid"
+      "name": "Ok",
+      "url": "https://www.last.fm/music/Blaya/_/Ok",
+      "count": 8,
+      "artist": "Blaya"
+    },
+    {
+      "name": "Strong",
+      "url": "https://www.last.fm/music/London+Grammar/_/Strong",
+      "count": 8,
+      "artist": "London Grammar"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 5,
+      "count": 7,
       "artist": "Bárbara Tinoco"
+    },
+    {
+      "name": "Tilted",
+      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Tilted",
+      "count": 7,
+      "artist": "Christine and the Queens"
+    },
+    {
+      "name": "Strangers",
+      "url": "https://www.last.fm/music/Sigrid/_/Strangers",
+      "count": 7,
+      "artist": "Sigrid"
     }
   ]
 }
