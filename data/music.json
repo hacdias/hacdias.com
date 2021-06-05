@@ -1,34 +1,19 @@
 {
   "artists": [
     {
-      "name": "Bárbara Tinoco",
-      "count": 22,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
-    },
-    {
       "name": "London Grammar",
-      "count": 22,
+      "count": 21,
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 19,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "name": "Bárbara Tinoco",
+      "count": 20,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
       "name": "Bruno Mars",
-      "count": 18,
-      "url": "https://www.last.fm/music/Bruno+Mars"
-    },
-    {
-      "name": "Dua Lipa",
       "count": 14,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
-      "name": "Alma",
-      "count": 13,
-      "url": "https://www.last.fm/music/Alma"
+      "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
       "name": "MØ",
@@ -36,28 +21,37 @@
       "url": "https://www.last.fm/music/M%C3%98"
     },
     {
-      "name": "Christine and the Queens",
+      "name": "Miley Cyrus",
       "count": 12,
-      "url": "https://www.last.fm/music/Christine+and+the+Queens"
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Grimes",
-      "count": 12,
-      "url": "https://www.last.fm/music/Grimes"
+      "name": "Hooverphonic",
+      "count": 10,
+      "url": "https://www.last.fm/music/Hooverphonic"
     },
     {
-      "name": "Lady Gaga",
-      "count": 12,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "name": "Blaya",
+      "count": 9,
+      "url": "https://www.last.fm/music/Blaya"
+    },
+    {
+      "name": "Charli XCX",
+      "count": 9,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
+      "name": "Dami Im",
+      "count": 9,
+      "url": "https://www.last.fm/music/Dami+Im"
+    },
+    {
+      "name": "Destiny",
+      "count": 9,
+      "url": "https://www.last.fm/music/Destiny"
     }
   ],
   "tracks": [
-    {
-      "name": "It Will Rain",
-      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
-      "count": 10,
-      "artist": "Bruno Mars"
-    },
     {
       "name": "Sound of Silence",
       "url": "https://www.last.fm/music/Dami+Im/_/Sound+of+Silence",
@@ -89,27 +83,33 @@
       "artist": "Blaya"
     },
     {
+      "name": "It Will Rain",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
+      "count": 8,
+      "artist": "Bruno Mars"
+    },
+    {
       "name": "Strong",
       "url": "https://www.last.fm/music/London+Grammar/_/Strong",
-      "count": 8,
+      "count": 7,
       "artist": "London Grammar"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 7,
+      "count": 6,
       "artist": "Bárbara Tinoco"
     },
     {
-      "name": "Tilted",
-      "url": "https://www.last.fm/music/Christine+and+the+Queens/_/Tilted",
-      "count": 7,
-      "artist": "Christine and the Queens"
+      "name": "Leave the Door Open",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open",
+      "count": 6,
+      "artist": "Bruno Mars"
     },
     {
       "name": "Strangers",
       "url": "https://www.last.fm/music/Sigrid/_/Strangers",
-      "count": 7,
+      "count": 6,
       "artist": "Sigrid"
     }
   ]
