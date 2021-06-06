@@ -1,7 +1,5 @@
 ---
 title: About
-aliases:
-- /resume
 emoji: "\U0001F9D4"
 noMentions: true
 ---
