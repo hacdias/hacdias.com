@@ -1,4 +1,4 @@
-name: 'Deploy to IPFS'
+name: 'Build and Deploy'
 
 on:
   push:
@@ -11,25 +11,20 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Check out the repo
-        uses: actions/checkout@v2
-      
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - uses: actions/checkout@v2
+
+      - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
-        run: hugo --gc --minify
+      - run: hugo --gc --minify
 
-      - name: Use Node.js 14.x
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v1
         with:
           node-version: 14.x
 
-      - name: IPFS Deploy
-        if: ${{ github.event_name == 'push' }}
+      - if: ${{ github.event_name == 'push' }}
         run: npx ipfs-deploy public -C -u pinata -p ipfs-cluster -d cloudflare -t _dnslink.hacdias.com
         env:
           IPFS_DEPLOY_CLOUDFLARE__ZONE: hacdias.com
