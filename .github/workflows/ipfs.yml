@@ -33,7 +33,7 @@ jobs:
         run: npx ipfs-deploy public -C -u pinata -p ipfs-cluster -d cloudflare -t _dnslink.hacdias.com
         env:
           IPFS_DEPLOY_CLOUDFLARE__ZONE: hacdias.com
-          IPFS_DEPLOY_CLOUDFLARE__RECORD: _dnslink.xkcd.hacdias.com
+          IPFS_DEPLOY_CLOUDFLARE__RECORD: _dnslink.hacdias.com
           IPFS_DEPLOY_CLOUDFLARE__API_TOKEN: ${{ secrets.IPFS_DEPLOY_CLOUDFLARE__API_TOKEN }}
           IPFS_DEPLOY_IPFS_CLUSTER__HOST: ${{ secrets.IPFS_DEPLOY_IPFS_CLUSTER__HOST }}
           IPFS_DEPLOY_IPFS_CLUSTER__PASSWORD: ${{ secrets.IPFS_DEPLOY_IPFS_CLUSTER__PASSWORD }}
