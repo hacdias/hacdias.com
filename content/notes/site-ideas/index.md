@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-05-16T08:03:51.902086411Z
+lastmod: 2021-06-07T21:02:21.956782846Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -12,6 +12,12 @@ lastmod: 2021-05-16T08:03:51.902086411Z
 Wanna know more about the website? Check out the [meta page](/meta)!
 
 </div>
+
+- Load images correctly. Using the `w` on the `srcset` only makes it load smaller images for smaller screen sizes, but not per pixel density. Some places it makes sense to load them by screen width (maybe on the pictures pages), but on others by pixel density (like homepage).
+- Fix these: https://darekkay.com/blog/evaluatory-personal-sites/
+- Make the website smaller.
+
+---
 
 - **Reading** section
   - Create backend interface to edit reads / progress / info.
