@@ -1,5 +1,5 @@
 <article class='h-entry card{{ with .Section }} {{ . }}{{ end }}'>
-  <a href="{{ .RelPermalink }}" class="u-url no-link link"></a>
+  <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="u-url no-link link"></a>
 
   {{ if eq .Section "photos" }}
     {{ with .Params.cover }}
