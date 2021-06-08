@@ -9,15 +9,7 @@ Born in Portugal 🇵🇹 . I am a Master's student 🎓 in Computer Science and
 
 ### ☄️ Latest <small>[[all posts](/all)]</small> {#latest}
 
-{{< latest section="micro" n=1 >}}
-
-<div class="grid">
-  {{< latest section="articles" n=4 >}}
-</div>
-
-<div class="grid photos">
-  {{< latest section="photos" n=6 >}}
-</div>
+{{< latest n=5 >}}
 
 [🪵 More posts](/all/)
 

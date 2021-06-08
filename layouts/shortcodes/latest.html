@@ -1,5 +1,4 @@
-{{ $posts :=  where .Site.RegularPages ".Section" "=" (.Get "section") }}
-{{ $posts = sort $posts "Date" "desc" }}
+{{ $posts := partial "get-pages.html" .Page }}
 
 {{ range first (.Get "n") $posts }}
   {{ partial "post/card" . }}
