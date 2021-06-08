@@ -1,7 +1,6 @@
 ---
 title: Miscellaneous
-date: 2017-04-09T00:00:00Z
-lastmod: 2021-05-15T15:00:00+01:00
+date: 2019-07-09T00:00:00Z
 cover:
   slug: 2020-03-camden-mirror
 ---
