@@ -1,39 +1,24 @@
 {
   "artists": [
     {
-      "name": "Bárbara Tinoco",
-      "count": 14,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
-    },
-    {
       "name": "Miley Cyrus",
-      "count": 14,
+      "count": 13,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
+      "name": "Bárbara Tinoco",
+      "count": 12,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
       "name": "Lady Gaga",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Bruno Mars",
-      "count": 10,
+      "count": 8,
       "url": "https://www.last.fm/music/Bruno+Mars"
-    },
-    {
-      "name": "Destiny",
-      "count": 8,
-      "url": "https://www.last.fm/music/Destiny"
-    },
-    {
-      "name": "Dua Lipa",
-      "count": 8,
-      "url": "https://www.last.fm/music/Dua+Lipa"
-    },
-    {
-      "name": "Hooverphonic",
-      "count": 8,
-      "url": "https://www.last.fm/music/Hooverphonic"
     },
     {
       "name": "Robyn",
@@ -41,13 +26,28 @@
       "url": "https://www.last.fm/music/Robyn"
     },
     {
+      "name": "Dua Lipa",
+      "count": 7,
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    {
       "name": "Grimes",
       "count": 7,
       "url": "https://www.last.fm/music/Grimes"
     },
     {
+      "name": "Alma",
+      "count": 6,
+      "url": "https://www.last.fm/music/Alma"
+    },
+    {
+      "name": "Charli XCX",
+      "count": 6,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
       "name": "MØ",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/M%C3%98"
     }
   ],
@@ -55,50 +55,8 @@
     {
       "name": "Je Me Casse",
       "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
-      "count": 8,
+      "count": 5,
       "artist": "Destiny"
-    },
-    {
-      "name": "The Wrong Place",
-      "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
-      "count": 7,
-      "artist": "Hooverphonic"
-    },
-    {
-      "name": "Ok",
-      "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 5,
-      "artist": "Blaya"
-    },
-    {
-      "name": "It Will Rain",
-      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
-      "count": 5,
-      "artist": "Bruno Mars"
-    },
-    {
-      "name": "Leave the Door Open",
-      "url": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open",
-      "count": 5,
-      "artist": "Bruno Mars"
-    },
-    {
-      "name": "Sound of Silence",
-      "url": "https://www.last.fm/music/Dami+Im/_/Sound+of+Silence",
-      "count": 5,
-      "artist": "Dami Im"
-    },
-    {
-      "name": "Live to Survive",
-      "url": "https://www.last.fm/music/M%C3%98/_/Live+to+Survive",
-      "count": 5,
-      "artist": "MØ"
-    },
-    {
-      "name": "Devia ir (versão da Bárbara)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
-      "count": 4,
-      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Sei Lá",
@@ -107,10 +65,52 @@
       "artist": "Bárbara Tinoco"
     },
     {
+      "name": "It Will Rain",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
+      "count": 4,
+      "artist": "Bruno Mars"
+    },
+    {
+      "name": "Leave the Door Open",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open",
+      "count": 4,
+      "artist": "Bruno Mars"
+    },
+    {
+      "name": "Sound of Silence",
+      "url": "https://www.last.fm/music/Dami+Im/_/Sound+of+Silence",
+      "count": 4,
+      "artist": "Dami Im"
+    },
+    {
+      "name": "The Wrong Place",
+      "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
+      "count": 4,
+      "artist": "Hooverphonic"
+    },
+    {
+      "name": "Live to Survive",
+      "url": "https://www.last.fm/music/M%C3%98/_/Live+to+Survive",
+      "count": 4,
+      "artist": "MØ"
+    },
+    {
       "name": "Call Your Girlfriend",
       "url": "https://www.last.fm/music/Robyn/_/Call+Your+Girlfriend",
       "count": 4,
       "artist": "Robyn"
+    },
+    {
+      "name": "Honey",
+      "url": "https://www.last.fm/music/Robyn/_/Honey",
+      "count": 4,
+      "artist": "Robyn"
+    },
+    {
+      "name": "Drama Queen",
+      "url": "https://www.last.fm/music/a.Rose/_/Drama+Queen",
+      "count": 3,
+      "artist": "a.Rose"
     }
   ]
 }
