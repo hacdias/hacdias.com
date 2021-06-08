@@ -18,3 +18,5 @@ I had the opportunity to go for a bike ride for a few kilometers in the south of
 On other news, the first quarter of university if finally finished. The exams ended on Friday and we're now just waiting for the exams results. Quarter two will start in two weeks, so I now have one week to rest and get ready for new adventures!
 
 Happy November!
+
+<!--more-->

@@ -18,3 +18,5 @@ It's much more intensive in my opinion. I think the fact that we use a quartile 
 Unfortunately, I haven't been able to use my camera as much as I hoped but I count on going to a few *virtual* photography workshops this month. In two weeks I'm flyinng back to Portugal for my Christmas break.
 
 Enjoy your Holidays, enjoy Sinterklaas, enjoy Christmas!
+
+<!--more-->

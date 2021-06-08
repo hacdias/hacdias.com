@@ -15,6 +15,8 @@ Today's newsletter is a bit different (and smaller) than most. I have been quite
 
 Besides that, I'm also trying to find a place to move in during November. The place where I am at has a variety of issues, and the fact that they use hotel contracts and not regular rental contracts puts us, students, in vulnerable positions.
 
+<!--more-->
+
 Nevertheless, I am here to discuss personal websites and why do I think everyone should have one! Right now, if I ask you (or virtually anyone else) if they have a Facebook, Twitter, Instagram, (insert some other social network here) account, they will most likely reply "yes". However, if you ask them if they have their own website, they probably won't.
 
 In first place, I would say that having a website can be a hub for all your work, interests and passions. You can share whatever you want, in the whatever format you want. You can customize everything. It's not a [silo](https://indieweb.org/silo) where you can't actually change anything but the basics. It's your own world, your own personality, your own way of expression. Anything is valid. Anything.

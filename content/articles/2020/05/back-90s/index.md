@@ -10,6 +10,15 @@ syndication:
 - https://twitter.com/hacdias/status/1267207180698169345
 ---
 
+Over the past months, I have been reading more and more posts where people are [saying][faith-web] they miss the vibe of the [90s web][small-web]. Even though I wasn't alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser.
+
+<!--more-->
+
+<div style="display: flex; justify-content: center">
+{{< figure src="https://cdn.hacdias.com/u/2021-02-netscape.gif" alt="Best viewed with Netscape" class="pixelated" style="width:100%; max-width: 10rem; margin-right: 1rem"  >}}
+{{< figure src="https://cdn.hacdias.com/u/2021-02-iexplorer.gif" alt="Best viewed with Internet Explorer" class="pixelated" style="width:100%; max-width: 10rem;"  >}}
+</div>
+
 <style>
 @media screen and (min-width: 38rem) {
   body {
@@ -19,13 +28,6 @@ syndication:
   }
 }
 </style>
-
-Over the past months, I have been reading more and more posts where people are [saying][faith-web] they miss the vibe of the [90s web][small-web]. Even though I wasn't alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser.
-
-<div style="display: flex; justify-content: center">
-{{< figure src="https://cdn.hacdias.com/u/2021-02-netscape.gif" alt="Best viewed with Netscape" class="pixelated" style="width:100%; max-width: 10rem; margin-right: 1rem"  >}}
-{{< figure src="https://cdn.hacdias.com/u/2021-02-iexplorer.gif" alt="Best viewed with Internet Explorer" class="pixelated" style="width:100%; max-width: 10rem;"  >}}
-</div>
 
 We know those kinds of websites are a mirage nowadays, but some of them are still accessible via the [Internet Archive][archive]. There is one really interesting service called [Neocities][neocities], which I talked about in the [past][own-your-data], that aims to bring the glory of the Geocities to today's web.
 

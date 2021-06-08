@@ -11,6 +11,8 @@ date: 2020-10-12T09:00:00+02:00
 
 My website is growing, not in terms of views, because I'm not aware of that. Maybe I should add some non-intrusive analytics. Anyways, it's growing in terms of functionality. However, since I'm using a static website generator, it makes it complicated to add some interactive functionalities.
 
+<!--more-->
+
 One of those features is [ActivityPub](https://www.w3.org/TR/activitypub/). ActivityPub is, in the words of the spec:
 
 > The ActivityPub protocol is a decentralized social networking protocol based upon the ActivityStreams 2.0 data format. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content.

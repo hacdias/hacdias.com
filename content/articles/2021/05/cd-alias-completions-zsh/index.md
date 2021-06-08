@@ -22,6 +22,8 @@ So simply typing `cdc` or even `cdc hacdias/hacdias.com` would work perfectly. B
 
 Yesterday I decided to investigate how to enable autocomplete for this function and it's actually pretty straightforward. To do so, you need to implement a definition function. It is standard to call it `_{name of alias}`. Hence, in our case, it would be `_cdc`.
 
+<!--more-->
+
 ```zsh
 function cdc() {
   cd "$HOME/Code/$1"

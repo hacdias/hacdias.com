@@ -25,3 +25,5 @@ It's been slightly over a year that all of this pandemic situation started and w
 Other than that, spring 🌷 started! And the Netherlands is getting filled with color. At least Eindhoven. I've been enjoying the cherry blossom trees.
 
 Stay safe! But enjoy your life!
+
+<!--more-->

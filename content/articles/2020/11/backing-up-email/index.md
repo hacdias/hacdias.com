@@ -12,6 +12,8 @@ For quite some time, I have been setting up systems to backup my data of my comp
 
 Email is fundamental nowadays and it is the basis of Internet communication. Almost all online services require an email, and even though we use it virtually every day for the most varied services and uses, it is not the easiest thing to backup.
 
+<!--more-->
+
 Fortunately, I recently came across [this post](https://www.artemix.org/blog/backing-up-e-mails-from-an-imap-server) by Diane where they explain how they are backing up their emails using `getemail`. 
 
 First of all, start by installing `getmail`. In my case, since I use macOS, I will just use the pre-built brew package. For other platforms (since it uses Python), I recommend taking a look at their [website](http://pyropus.ca/software/getmail/).

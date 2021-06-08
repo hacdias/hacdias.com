@@ -13,6 +13,8 @@ I recently moved from the place where I was staying at to my own studio. In addi
 
 The problem arised when I went to the configuration of my router and saw that my WAN IP was in the format `172.xxx.xxx.xxx`. I immediately knew that that was a [private IP](https://en.wikipedia.org/wiki/Private_network). On my ignorance, I decided to search why I didn't have an actual public IP.
 
+<!--more-->
+
 Well, apparently there's a thing called Carrier Grade NATs (CGNATs) which are gigantic NATs that Internet providers decided to create in order to band aid the shortage of IPv4s in many places. So I thought, once again, "let's see if I have an IPv6". I open [test-ipv6.com](https://test-ipv6.com) and for my surprise (or not) I see a score of 0 out of 10. No public IP for me.
 
 Since the contract with the ISP is not mine, there's not much I can do. I already contacted the agency where I'm renting the studio. They usually reply quickly, but I haven't heard from them about this for a few days already. Pretty sure it's an unusual request. In the meanwhile, I decided to go for a different strategy.

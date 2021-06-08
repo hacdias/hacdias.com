@@ -13,6 +13,8 @@ One more month has passed. A year ago, I was starting my second semester of my f
 
 Who would say that, a year later, I would be writing this post from the Netherlands. This month marked, for me, an year of worries about Covid-19. Since the pandemic started - or slightly before it was actually considered a pandemic - I've never, ever, had physical classes. I haven't seen many of my friends since then. Only a few. Now I'm in a different country, and the situation doesn't look much better unfortunately.
 
+<!--more-->
+
 Even though not everything looks as bright as I would love to, the number of new cases has been declining worldwide. That's good. I hope that's the results of the vaccination efforts. And if it isn't, whatever is behind it, keep going.
 
 Portugal has suffered quite a bit during the past month, but they managed to bring the cases down from 15k a day to around 2k a day in just under 2 weeks. That is very good. The Netherlands, on the other hand, has had everything closed since Christmas and we're still around 5k cases daily, sometimes more, sometimes less, but the trend seems to show a bit of increasing.

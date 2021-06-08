@@ -18,6 +18,8 @@ As such, all kinds of systems should be able to be easily tested, regardless of 
 
 Furthermore, any system that involves peer-to-peer communication or any other kind of distribution gets much harder to test! At Protocol Labs, we wanted to know and measure how changes to the IPFS and libp2p codebase would affect the performance of the network, but we couldn't find any reliable platform to help us with that. And then... *Testground was born!* 🚀
 
+<!--more-->
+
 Quoting the page, "[Testground](https://docs.testground.ai/) is a platform for testing, benchmarking and simulating distributed and peer-to-peer systems at scale. It is designed to be multi-lingual and runtime-agnostic, scaling gracefully from 2 to 10k instances, when needed".
 
 In this post, I will guide you on how to create a simple test for two instances, where they should ping pong with each other. This is also one of the [example](https://github.com/testground/testground/blob/master/plans/network/pingpong.go) tests we use to exercise the platform during testing. Even a platform for testing needs to be tested, right? I will go over how to set-up Testground, explain some of the base functionalities and write the test with you!

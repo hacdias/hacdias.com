@@ -13,9 +13,9 @@ It's been a little bit over a month since I first arrived in Eindhoven. Since th
 
 Inspired by Tom MacWright, I am going to make a commitment that sounds quite simple: make a post every month called "Recently". On it, I should reflect about the past month, the highs and lows, the things I've learned, important things I think are worth mention and so on.
 
-<!--more-->
-
 With this, I am also deprecating the [now](/now/) page. Why? This posts should already give an overview of what's been happening lately that is not covered by my [micro](/micro/) posts. But don't worry! I'm not breaking any links. It will just point to the most recent "Recently" post... no pun intended!
+
+<!--more-->
 
 ## Algorithms... algorithms!
 

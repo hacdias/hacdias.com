@@ -9,7 +9,9 @@ date: 2020-09-20T18:45:00+02:00
 
 We are living in an increasingly interconnected world. Today, 4.1 billion people have access to the internet. And with every passing year, millions more are born into the world as "digital natives" with digital technology and the World Wide Web at their fingertips from early childhood.
 
-But as the internet becomes more and more intertwined with our everyday lives, we must remember that it's up to us to set the right course for the web's future and to continue improving it. Today, control over the internet is [increasingly centralized](https://www.nytimes.com/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html) in the hands of just [a few big tech companies](https://modernconsensus.com/cryptocurrencies/libra/facebook-is-joining-apple-and-google-in-coming-after-citibank-and-chase/). 
+But as the internet becomes more and more intertwined with our everyday lives, we must remember that it's up to us to set the right course for the web's future and to continue improving it. Today, control over the internet is [increasingly centralized](https://www.nytimes.com/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html) in the hands of just [a few big tech companies](https://modernconsensus.com/cryptocurrencies/libra/facebook-is-joining-apple-and-google-in-coming-after-citibank-and-chase/).
+
+<!--more-->
 
 Decentralizing the web through new technologies like blockchain and decentralized protocols can ensure that the web remains community-focused and user-oriented, just like it was originally intended to be. To see why, and to help envision how decentralization will build a better future for the internet, we have to understand how the internet first came to be and what makes it work.
 

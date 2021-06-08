@@ -18,3 +18,5 @@ Besides that, I managed to visit Utrecht. It was a very very beautiful city. It 
 {{< figure alt="Utrecht Canals" cdn="2021-05-utrecht" caption="Utrecht Canals" >}}
 
 We're now in May! Sun is coming and hopefully something good for all of us! Have fun, but stay safe.
+
+<!--more-->
