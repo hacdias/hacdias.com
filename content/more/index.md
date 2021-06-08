@@ -1,9 +1,13 @@
 ---
 title: More
-lastmod: 2021-05-05T08:41:03.772271678Z
+lastmod: 2021-06-08T18:19:46.814890692Z
 emoji: "\U0001F308"
 noMentions: true
 ---
+
+### 📝 Disclaimer {#disclaimer}
+
+Note that opinions and facts may change over time. Please [contact](/contact) me before jumping into any conclusions.
 
 ### ⏰ Lately {#lately}
 
