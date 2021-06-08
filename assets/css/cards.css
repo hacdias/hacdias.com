@@ -1,25 +1,24 @@
 .card {
   position: relative;
   margin-bottom: 1rem;
-  padding-bottom: 2rem;
-}
-
-.card > div {
   padding: var(--box-padding);
-  border-top-left-radius: var(--radius);
-  border-top-right-radius: var(--radius);
-  border: var(--border) solid var(--near-white);
-  border-bottom: none;
-}
-
-.card .link,
-.card.micro > div,
-.card.photos {
   border-radius: var(--radius);
+  border: var(--border) solid var(--near-white);
 }
 
-.card.micro > div {
-  border: var(--border) solid var(--near-white);
+.card h3 {
+  margin: 0;
+}
+
+.card .highlight > pre,
+.card .copy > pre,
+.card .full-width {
+  width: 100%;
+  margin-left: 0;
+}
+
+.card .copy > *:last-child {
+  margin-bottom: 0;
 }
 
 .card .link {
@@ -37,72 +36,28 @@
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05);
 }
 
-.card .copy > *:last-child {
-  margin-bottom: 0;
-}
-
-.card .link:hover + figure {
-  transform: scale(1.1);
-}
-
-.card h3 {
-  margin: 0;
-}
-
-.card .highlight > pre,
-.card .copy > pre,
-.card .full-width {
-  width: 100%;
-  margin-left: 0;
-}
-
-.card::after {
-  content: "Read More";
-  background: var(--near-white);
-  color: var(--light-gray);
-  width: 100%;
-  display: block;
-  line-height: 2rem;
-  padding-left: 1rem;
-  text-transform: uppercase;
-  font-weight: 700;
-  letter-spacing: .1rem;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  box-sizing: border-box;
-  border-bottom-left-radius: var(--radius);
-  border-bottom-right-radius: var(--radius);
-  font-size: var(--f6);
-}
-
-.card.photos,
-.card.micro {
-  padding-bottom: 0;
-}
-
-.card.micro::after,
-.card.photos::after {
-  content: "";
+.card .more {
+  color: var(--light-white);
+  text-align: center;
+  font-size: 2rem;
+  line-height: 1rem;
+  margin-top: 1rem;
 }
 
 .card.photos {
   overflow: hidden;
+  color: var(--white);
+  border: 0;
+  padding: 0;
 }
 
-.card.photos > div {
+.card.photos header {
   position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
   background: linear-gradient(to bottom, rgba(33,36,37,0) 0, rgba(33,36,37,.7) 50%, rgba(33,36,37,.84) 100%);
-  color: var(--white);
-  border-radius: var(--radius);
-  border: 0;
-}
-
-.card.photos h2 {
-  margin-bottom: 0;
+  padding: var(--box-padding);
 }
 
 .card.photos p {
@@ -120,4 +75,8 @@
 .card.photos figure img {
   height: 100%;
   object-fit: cover;
+}
+
+.card.photos .link:hover + figure {
+  transform: scale(1.1);
 }

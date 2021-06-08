@@ -7,7 +7,7 @@
   max-width: 40rem;
 }
 
-.card > div > header {
+.card header {
   text-align: center;
   display: flex;
   flex-direction: column-reverse;

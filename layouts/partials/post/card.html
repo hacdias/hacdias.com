@@ -1,7 +1,11 @@
-<article class='h-entry card{{ with .Section }} {{ . }}{{ end }}'>
+{{ $isPhotos := eq .Section "photos" }}
+{{ $isArticles := eq .Section "articles" }}
+{{ $isMicro := eq .Section "micro" }}
+
+<article class='h-entry card{{ if $isPhotos }} photos{{ end }}'>
   <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="u-url no-link link"></a>
 
-  {{ if eq .Section "photos" }}
+  {{ if $isPhotos }}
     {{ with .Params.cover }}
     <figure>
       <picture>
@@ -13,27 +17,26 @@
     {{ end }}
   {{ end }}
 
-  <div>
-    <header>
-      <p>
-        {{- partialCached "post/date" . "list" .Permalink }}
-        {{ if not (in  (slice "micro" "articles" "photos") .Section)}}
-          {{- partialCached "post/section" . "single" .Permalink }}
-        {{ end }}
-      </p>
-
-      {{ with .Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
-    </header>
-
-    {{ if eq .Section "micro" }}
-      {{- partialCached "post/embedded" . .Permalink }}
-      {{ with .Content }}
-        <div class='copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
+  <header>
+    <p>
+      {{- partialCached "post/date" . "list" .Permalink }}
+      {{ if not (in  (slice "micro" "articles" "photos") .Section)}}
+        {{- partialCached "post/section" . "single" .Permalink }}
       {{ end }}
-    {{ else if eq .Section "articles" }}
-      {{ with .Description }}<div class='copy p-summary'><p>{{ . }}</p></div>{{ end }}
+    </p>
+
+    {{ with .Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
+  </header>
+
+  {{ if $isMicro }}
+    {{- partialCached "post/embedded" . .Permalink }}
+    {{ with .Content }}
+      <div class='copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
     {{ end }}
-  </div>
+  {{ else if $isArticles }} <!-- change to if not $isPhotos -->
+    {{ with .Description }}<div class='copy p-summary'><p>{{ . }}</p></div>{{ end }}
+    <div class="more">⋯</div>
+  {{ end }}
 
   {{- partialCached "post/metadata" . .Permalink }}
 </article>
