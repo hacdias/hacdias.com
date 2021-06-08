@@ -267,7 +267,7 @@ blockquote {
   border-left: .25rem solid var(--action);
 }
 
-details {
+details summary {
   cursor: pointer;
 }
 

@@ -1,18 +1,19 @@
 .wm {
+  padding: var(--box-padding);
   background: var(--near-white);
+  border-radius: var(--radius);
   font-size: var(--f6);
-  padding: 1rem var(--space);
-}
-
-.wm details {
-  border-top: 1px solid var(--light-white);
-  padding-top: 1rem;
   margin-top: 1rem;
 }
 
 .wm summary {
-  font-weight: bold;
-  cursor: pointer;
+  letter-spacing: .1rem;
+  color: var(--light-gray);
+  text-transform: uppercase;
+}
+
+.wm ::marker {
+  color: var(--dary-gray);
 }
 
 .wm .contents {
@@ -49,44 +50,14 @@
   position: absolute;
 }
 
-.wm > form:first-of-type,
-.wm > div:first-of-type {
-  display: flex;
+.wm > div {
+  margin-top: 1rem;
 }
 
-.wm > form:first-of-type {
-  margin-bottom: 1rem;
-}
-
-.wm > form:first-of-type > *:first-child,
-.wm > div:first-of-type > *:first-child {
-  flex-grow: 1;
-}
-
-.wm input[type="submit"] {
-  margin-left: 1rem;
-  width: 11rem;
-}
-
-.wm > div:first-of-type p {
-  margin: 0;
-}
-
-@media screen and (max-width: 40rem) {
-  .wm > form:first-of-type,
-  .wm > div:first-of-type {
-    display: block;
-  }
-
-  .wm input[type=submit],
-  .wm input[type=url] {
-    display: block;
-    width: 100%;
-  }
-
-  .wm input[type=submit] {
-    margin: 1rem 0 0;
-  }
+.wm input {
+  display: block;
+  width: 100%;
+  margin: 1rem 0;
 }
 
 @media print {
