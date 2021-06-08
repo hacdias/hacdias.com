@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-06-08T05:45:22.712275017Z
+lastmod: 2021-06-08T14:48:08.911658204Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -13,12 +13,10 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 
 </div>
 
-- Load images correctly. Using the `w` on the `srcset` only makes it load smaller images for smaller screen sizes, but not per pixel density. Some places it makes sense to load them by screen width (maybe on the pictures pages), but on others by pixel density (like homepage).
+- Load images correctly. Using the `w` on the `srcset` only makes it load smaller images for smaller screen sizes, but not per pixel density.
 - Check photos section. Perhaps generate more sizes? CLI + FTP, upload. Break down some of the year photos pages into more (maybe monthly?).
-- Fix these: https://darekkay.com/blog/evaluatory-personal-sites/
+- Fix accessibility issues: https://darekkay.com/blog/evaluatory-personal-sites/
 - Change the font-size to 17px (more?). be careful with different device sizes. Mobile keep 16. Test.
-- Make webmentions smaller and ocupy less space.
-- Make the website smaller.
 
 ---
 
