@@ -16,5 +16,3 @@ layout: articles
   }
 }
 </style>
-
-<small>**Note**: opinions change and older posts were written when I was in high school or even before.</small>
