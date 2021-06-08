@@ -10,15 +10,6 @@
     {{ with .Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
   </header>
 
-  {{ if eq .Section "notes" }}
-  <input type="checkbox" id="toc-toggler">
-  <div id="toc">
-    <label for="toc-toggler"><p>Table of Contents</p></label>
-    {{ .TableOfContents }}
-    <label for="toc-toggler"><p>📖</p></label>
-  </div>
-  {{ end }}
-
   {{- partialCached "post/outdated" . .Permalink }}
   {{- partialCached "post/embedded" . .Permalink }}
 
