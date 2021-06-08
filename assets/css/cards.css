@@ -37,11 +37,14 @@
 }
 
 .card .more {
-  color: var(--light-white);
+  color: var(--light-gray);
+  background: var(--near-white);
   text-align: center;
-  font-size: 2rem;
   line-height: 1rem;
   margin-top: 1rem;
+  padding: 0.5rem;
+  font-weight: bold;
+  border-radius: var(--radius);
 }
 
 .card.photos {

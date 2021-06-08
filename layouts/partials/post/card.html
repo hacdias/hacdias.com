@@ -35,7 +35,7 @@
     {{ end }}
   {{ else if $isArticles }}
     {{ with .Summary }}<div class='copy p-summary'><p>{{ . }}</p></div>{{ end }}
-    <div class="more">⋯</div>
+    <div class="more">READ MORE</div>
   {{ end }}
 
   {{- partialCached "post/metadata" . .Permalink }}
