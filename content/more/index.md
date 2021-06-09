@@ -5,17 +5,6 @@ emoji: "\U0001F308"
 noMentions: true
 ---
 
-### 📝 Disclaimer {#disclaimer}
-
-Note that opinions and facts may change over time. Please [contact](/contact) me before jumping into any conclusions.
-
-### ⏰ Lately {#lately}
-
-- 📚 {{< latest-read >}}
-- 🎬 The [last movie](/watches/#movies) I watched was **{{< latest-watch type="movies" >}}**.
-- 📺 The [last episode](/watches/#series) I watched was **{{< latest-watch type="series" >}}**.
-- 🎶 The artist I've been [listening](/listens/) the most is **{{< recent-artist >}}**.
-
 ### 📃 Content Categories {#content-categories}
 
 - ✏️ [Articles](/articles)
@@ -31,14 +20,25 @@ Note that opinions and facts may change over time. Please [contact](/contact) me
 - 📝 [Guestbook](/guestbook/)
 - 🤯 [Impossible List](/impossible-list/)
 - 📌 [Links](/links/)
+- 🎶 [Listens](/listens/)
 - ⚙️ [Meta](/meta/) (about this website)
 - 📦 [Projects](/projects/)
+- 📚 [Reads](/reads/)
 - 📄 [Resume](/resume/)
 - 🔎 [Search](/search/)
 - ⚡️ [Subscribe](/subscribe/)
 - 🏷 [Tags](/tags/)
 - 🛠️ [Uses](/uses/)
+- 🎬 [Watches](/watches/)
 
 ---
 
 - 💥 I maintain an [XKCD clone](http://xkcd.hacdias.com/) on the IPFS network.
+
+### 📝 Disclaimer {#disclaimer}
+
+Opinions change over time. So if you're reading something a years old, or even just a few months or weeks old, it may not reflect my current opinion. The same reasoning applies to technical articles, as tools and software evolve, they may not be totally up to date.
+
+Please [contact me](/contact/) if you need clarification for something instead of jumping into conclusions.
+
+This is my personal website.  Thus, I do **not** accept guest posts.
