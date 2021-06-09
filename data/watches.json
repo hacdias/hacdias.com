@@ -1843,14 +1843,14 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-06-08T18:57:14.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "RuPaul's Drag Race Down Under",
       "watched": "2021-06-05T16:23:47.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-down-under"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-06-01T19:45:30.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
