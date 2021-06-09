@@ -9,27 +9,20 @@
   <summary><strong>Interactions ({{ $count }})</strong></summary>
 
   <div>
-    <form action="https://webmention.io/hacdias.com/webmention" method="post">
+    <form action="https://webmention.io/hacdias.com/webmention" method="post" class="inline-form">
       <input aria-label="Webmention Source" name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
       <input name="target" value="{{ .Permalink }}" type="hidden">
       <input value="Send Webmention" type="submit">
     </form>
 
-    <hr>
+    <p>Or…</p>
 
-    <div>
-      <p>
-        Or if you don't know what a <a target="_blank" rel="noopener noreferrer" href="https://indieweb.org/responses">response</a>
-        is, you can always write a webmention comment (you don't need to know what that is).
-      </p>
-
-      <form method="get" action="https://quill.p3k.io/" target="_blank">
-        <input type="hidden" name="dontask" value="1">
-        <input type="hidden" name="me" value="https://commentpara.de/">
-        <input type="hidden" name="reply" value="{{ .Permalink }}">
-        <input type="submit" value="Write a comment">
-      </form>
-    </div>
+    <form method="get" action="https://quill.p3k.io/" target="_blank">
+      <input type="hidden" name="dontask" value="1">
+      <input type="hidden" name="me" value="https://commentpara.de/">
+      <input type="hidden" name="reply" value="{{ .Permalink }}">
+      <input type="submit" value="Write a comment">
+    </form>
 
     {{ with $mentions -}}
       <hr>

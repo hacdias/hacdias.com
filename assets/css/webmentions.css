@@ -54,10 +54,12 @@
   margin-top: 1rem;
 }
 
-.wm input {
-  display: block;
+.wm form:last-of-type input {
   width: 100%;
-  margin: 1rem 0;
+}
+
+.wm form + p {
+  text-align: center;
 }
 
 @media print {
