@@ -1,6 +1,6 @@
 ---
 title: About this website
-lastmod: 2021-05-04T08:07:02.922752363Z
+lastmod: 2021-06-09T07:12:43.291903936Z
 noMentions: true
 ---
 
@@ -119,6 +119,14 @@ All pages that list posts, such as [micro](/micro/) and [articles](/articles/), 
 One very important feature, personally, is the search feature. Right now, the search feature is available through the [search](/search) page only. However, in the future, I want to be able to search from any point of the website.
 
 The search is **not** static. I am self-hosting an instance of [MeiliSearch](https://docs.meilisearch.com/), an open-source and super fast search engine. It is very fast to index, very quick to search and allows for full-text search.
+
+## ⚖️ Disclaimer {#disclaimer}
+
+1. Opinions change over time. If you're reading something that is many years old, or even just a few months or weeks old, it may not reflect my current opinion. The same reasoning applies to technical articles as tools and software evolves.
+
+2. If you're unsure about something I wrote in the past - or even now - please [contact me](/contact/) for clarification instead of jumping into conclusions.
+
+3. Lately, I've been receiving e-mails regarding guest posts. This is my personal website. Thus, I do **not** accept guest posts.
 
 <ul class='terms bold'>
   <li><a title="About" href="../about/">🧔 About</a></li>

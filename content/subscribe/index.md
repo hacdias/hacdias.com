@@ -36,7 +36,7 @@ I started an occasional newsletter about what I'm studying, working on or some t
 
 All pages that list posts, such as [micro](/micro/) and [articles](/articles/), have three feeds attached to them: HTML ([Microformats](https://microformats.org/)), JSON and an RSS feed. If you want to follow all my posts, you can use the feed at the ["all"](/all) page. If you feed your RSS reader the page URL, it should be able to automatically detect the feed locations.
 
-<div class="box blue">
+<div class="box yellow">
 
   In case your feed does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the ["all"](/all) page:
 
