@@ -50,11 +50,11 @@
   position: absolute;
 }
 
-.wm > div {
+.wm form {
   margin-top: 1rem;
 }
 
-.wm form:last-of-type input {
+.wm > form:last-of-type input {
   width: 100%;
 }
 

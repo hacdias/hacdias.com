@@ -8,48 +8,46 @@
 <details class='wm'>
   <summary><strong>Interactions ({{ $count }})</strong></summary>
 
-  <div>
-    <form action="https://webmention.io/hacdias.com/webmention" method="post" class="inline-form">
-      <input aria-label="Webmention Source" name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
-      <input name="target" value="{{ .Permalink }}" type="hidden">
-      <input value="Send Webmention" type="submit">
-    </form>
+  <form action="https://webmention.io/hacdias.com/webmention" method="post" class="inline-form">
+    <input aria-label="Webmention Source" name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
+    <input name="target" value="{{ .Permalink }}" type="hidden">
+    <input value="Send Webmention" type="submit">
+  </form>
 
-    <p>Or…</p>
+  <p>Or…</p>
 
-    <form method="get" action="https://quill.p3k.io/" target="_blank">
-      <input type="hidden" name="dontask" value="1">
-      <input type="hidden" name="me" value="https://commentpara.de/">
-      <input type="hidden" name="reply" value="{{ .Permalink }}">
-      <input type="submit" value="Write a comment">
-    </form>
+  <form method="get" action="https://quill.p3k.io/" target="_blank">
+    <input type="hidden" name="dontask" value="1">
+    <input type="hidden" name="me" value="https://commentpara.de/">
+    <input type="hidden" name="reply" value="{{ .Permalink }}">
+    <input type="submit" value="Write a comment">
+  </form>
 
-    {{ with $mentions -}}
-      <hr>
-      <div class='contents'>
-        {{- $mentions = sort . "date" "desc" }}
-        {{- range $i, $data := $mentions }}
-        <div class="h-cite">
-          <span class="p-author h-card">
-            <img alt="{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
-            <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
-          {{ if eq .type "like" }}
-          liked this post.
-          {{ else if eq .type "repost" }}
-          reposted this.
-          {{ else if eq .type "reply" }}
-          said: <span class="e-content p-name">{{ .content | truncate 300 | safeHTML }}</span>
+  {{ with $mentions -}}
+    <hr>
+    <div class='contents'>
+      {{- $mentions = sort . "date" "desc" }}
+      {{- range $i, $data := $mentions }}
+      <div class="h-cite">
+        <span class="p-author h-card">
+          <img alt="{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
+          <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
+        {{ if eq .type "like" }}
+        liked this post.
+        {{ else if eq .type "repost" }}
+        reposted this.
+        {{ else if eq .type "reply" }}
+        said: <span class="e-content p-name">{{ .content | truncate 300 | safeHTML }}</span>
+        {{ else }}
+          {{ with .content }}
+            said: <span class="e-content p-name">{{ . | truncate 300 | safeHTML }}</span>
           {{ else }}
-            {{ with .content }}
-              said: <span class="e-content p-name">{{ . | truncate 300 | safeHTML }}</span>
-            {{ else }}
-              mentioned this on <a rel="noopener noreferrer" target="_link" href="{{ .url }}">{{ .url }}</a>.
-            {{ end }}
+            mentioned this on <a rel="noopener noreferrer" target="_link" href="{{ .url }}">{{ .url }}</a>.
           {{ end }}
-          {{- with .date}} — <a rel="noopener noreferrer" target="_link" href="{{ $data.url }}" class="u-url date no-link">{{ dateFormat "02 Jan 2006 15:04" . }}</a>{{ end }}
-        </div>
         {{ end }}
+        {{- with .date}} — <a rel="noopener noreferrer" target="_link" href="{{ $data.url }}" class="u-url date no-link">{{ dateFormat "02 Jan 2006 15:04" . }}</a>{{ end }}
       </div>
-    {{ end -}}
-  </div>
+      {{ end }}
+    </div>
+  {{ end -}}
 </details>
