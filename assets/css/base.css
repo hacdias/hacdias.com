@@ -449,9 +449,10 @@ figure.right {
 }
 
 .box {
+  --color: 200, 200, 200;
   padding: 0.5rem;
-  border: var(--border) solid var(--light-white);
-  background-color: var(--near-white);
+  border: var(--border) solid rgb(var(--color));
+  background-color: rgba(var(--color), 0.1);
   margin: 1rem 0;
 }
 
@@ -468,6 +469,7 @@ figure.right {
   margin-right: .5rem;
   text-transform: uppercase;
   font-weight: bold;
+  color: rgb(var(--color));
 }
 
 .box.word > *:first-child {
@@ -475,39 +477,19 @@ figure.right {
 }
 
 .box.red {
-  border-color: rgb(var(--red));
-  background-color: rgba(var(--red), 0.1);
-}
-
-.box.red::before {
-  color: rgb(var(--red));
-}
-
-.box.blue {
-  border-color: rgb(var(--blue));
-  background-color: rgba(var(--blue), 0.1);
-}
-
-.box.blue::before {
-  color: rgb(var(--blue));
-}
-
-.box.yellow {
-  border-color: rgb(var(--yellow));
-  background-color: rgba(var(--yellow), 0.1);
-}
-
-.box.yellow::before {
-  color: rgb(var(--yellow));
+  --color: var(--red);
 }
 
 .box.green {
-  border-color: rgb(var(--green));
-  background-color: rgba(var(--green), 0.1);
+  --color: var(--green);
 }
 
-.box.green::before {
-  color: rgb(var(--green));
+.box.blue {
+  --color: var(--blue);
+}
+
+.box.yellow {
+  --color: var(--yellow);
 }
 
 .terms {
@@ -529,6 +511,11 @@ figure.right {
   background-color: var(--near-white);
   color: var(--gray);
   display: inline-block;
+}
+
+.terms.bold a,
+.terms.bold a:visited {
+  font-weight: bold;
 }
 
 @media screen and (max-width: 40rem) {

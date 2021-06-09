@@ -20,9 +20,10 @@ Back in 2014, when I started this website, I wrote my first ever post, in Portug
 
 Most likely you've already noticed that my handle, `@hacdias`, reminds of the word 'hack'. However, I can assure you they have nothing to do with each other. It was a mere coincidence between the first letters of my first name and middle names - 'hac' - and last name - 'dias' - that I happen to enjoy.
 
-<ul class='terms'>
+<ul class='terms bold'>
   <li><a title="Contact" href="../contact/">✉️ Contact</a></li>
   <li><a title="Resume" href="../resume/">📄 Resume</a></li>
   <li><a title="Projects" href="../projects/">📦 Projects</a></li>
   <li><a title="Meta" href="../meta/">⚙️ Meta</a></li>
+  <li><a title="Buy me a coffee" href="../buy-me-a-coffee/">☕️ Buy me a coffee</a></li>
 </ul>

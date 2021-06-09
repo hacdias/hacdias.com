@@ -119,3 +119,9 @@ All pages that list posts, such as [micro](/micro/) and [articles](/articles/), 
 One very important feature, personally, is the search feature. Right now, the search feature is available through the [search](/search) page only. However, in the future, I want to be able to search from any point of the website.
 
 The search is **not** static. I am self-hosting an instance of [MeiliSearch](https://docs.meilisearch.com/), an open-source and super fast search engine. It is very fast to index, very quick to search and allows for full-text search.
+
+<ul class='terms bold'>
+  <li><a title="About" href="../about/">🧔 About</a></li>
+  <li><a title="Guestbook" href="../guestbook/">📝 Guestbook</a></li>
+  <li><a title="Buy me a coffee" href="../buy-me-a-coffee/">☕️ Buy me a coffee</a></li>
+</ul>

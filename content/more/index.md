@@ -15,6 +15,7 @@ noMentions: true
 
 ### 🥐 Others {#others}
 
+- ☕️ [Buy me a coffee](/buy-me-a-coffee/)
 - ✉️ [Contact](/contact/)
 - 🧪 [Experiments](/experiments/)
 - 📝 [Guestbook](/guestbook/)
