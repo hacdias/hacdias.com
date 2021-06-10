@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-06-10T08:06:27.904603875Z
+lastmod: 2021-06-10T08:19:05.759700984Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -13,7 +13,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 
 </div>
 
-- Fix accessibility issues: https://darekkay.com/blog/evaluatory-personal-sites/
 - Change the font-size to 17px (more?). be careful with different device sizes. Mobile keep 16. Test.
 
 ---
