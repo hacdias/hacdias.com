@@ -321,7 +321,7 @@ details summary {
   color: var(--black);
 }
 
-#navbar label,
+#navbar li:first-of-type,
 #navbar input {
   display: none;
 }
@@ -532,7 +532,7 @@ figure.right {
     display: none;
   }
 
-  #navbar label {
+  #navbar li:first-of-type {
     display: block;
   }
 
