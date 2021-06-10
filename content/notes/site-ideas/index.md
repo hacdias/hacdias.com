@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-06-08T17:54:46.350079228Z
+lastmod: 2021-06-10T08:06:27.904603875Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -13,7 +13,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 
 </div>
 
-- Load images correctly. Using the `w` on the `srcset` only makes it load smaller images for smaller screen sizes, but not per pixel density.
 - Fix accessibility issues: https://darekkay.com/blog/evaluatory-personal-sites/
 - Change the font-size to 17px (more?). be careful with different device sizes. Mobile keep 16. Test.
 
