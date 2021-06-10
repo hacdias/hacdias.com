@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Bárbara Tinoco",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
@@ -12,13 +12,8 @@
     },
     {
       "name": "Bruno Mars",
-      "count": 9,
-      "url": "https://www.last.fm/music/Bruno+Mars"
-    },
-    {
-      "name": "Destiny",
       "count": 7,
-      "url": "https://www.last.fm/music/Destiny"
+      "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
       "name": "Miley Cyrus",
@@ -26,77 +21,76 @@
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Hooverphonic",
+      "name": "Destiny",
       "count": 6,
+      "url": "https://www.last.fm/music/Destiny"
+    },
+    {
+      "name": "Hooverphonic",
+      "count": 5,
       "url": "https://www.last.fm/music/Hooverphonic"
     },
     {
-      "name": "Robyn",
-      "count": 6,
-      "url": "https://www.last.fm/music/Robyn"
-    },
-    {
-      "name": "MØ",
+      "name": "Stefania",
       "count": 5,
-      "url": "https://www.last.fm/music/M%C3%98"
-    },
-    {
-      "name": "RuPaul",
-      "count": 5,
-      "url": "https://www.last.fm/music/RuPaul"
+      "url": "https://www.last.fm/music/Stefania"
     },
     {
       "name": "Troye Sivan",
       "count": 5,
       "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
+      "name": "Allie X",
+      "count": 4,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Amor Electro",
+      "count": 4,
+      "url": "https://www.last.fm/music/Amor+Electro"
     }
   ],
   "tracks": [
     {
       "name": "Je Me Casse",
       "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
-      "count": 7,
+      "count": 6,
       "artist": "Destiny"
     },
     {
       "name": "The Wrong Place",
       "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
-      "count": 6,
-      "artist": "Hooverphonic"
-    },
-    {
-      "name": "Leave the Door Open",
-      "url": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open",
       "count": 5,
-      "artist": "Bruno Mars"
-    },
-    {
-      "name": "It Will Rain",
-      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
-      "count": 4,
-      "artist": "Bruno Mars"
-    },
-    {
-      "name": "Sound of Silence",
-      "url": "https://www.last.fm/music/Dami+Im/_/Sound+of+Silence",
-      "count": 4,
-      "artist": "Dami Im"
-    },
-    {
-      "name": "Live to Survive",
-      "url": "https://www.last.fm/music/M%C3%98/_/Live+to+Survive",
-      "count": 4,
-      "artist": "MØ"
+      "artist": "Hooverphonic"
     },
     {
       "name": "Last Dance",
       "url": "https://www.last.fm/music/Stefania/_/Last+Dance",
-      "count": 4,
+      "count": 5,
       "artist": "Stefania"
+    },
+    {
+      "name": "Ok",
+      "url": "https://www.last.fm/music/Blaya/_/Ok",
+      "count": 4,
+      "artist": "Blaya"
+    },
+    {
+      "name": "Leave the Door Open",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open",
+      "count": 4,
+      "artist": "Bruno Mars"
     },
     {
       "name": "Devia ir (versão da Bárbara)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Devia+ir+(vers%C3%A3o+da+B%C3%A1rbara)",
+      "count": 3,
+      "artist": "Bárbara Tinoco"
+    },
+    {
+      "name": "Outras Línguas",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
       "count": 3,
       "artist": "Bárbara Tinoco"
     },
@@ -107,10 +101,16 @@
       "artist": "Bárbara Tinoco"
     },
     {
-      "name": "Ok",
-      "url": "https://www.last.fm/music/Blaya/_/Ok",
+      "name": "It Will Rain",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/It+Will+Rain",
       "count": 3,
-      "artist": "Blaya"
+      "artist": "Bruno Mars"
+    },
+    {
+      "name": "Sound of Silence",
+      "url": "https://www.last.fm/music/Dami+Im/_/Sound+of+Silence",
+      "count": 3,
+      "artist": "Dami Im"
     }
   ]
 }
