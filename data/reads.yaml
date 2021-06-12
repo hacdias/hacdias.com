@@ -396,18 +396,17 @@ to-read:
 - author: Eça de Queirós
   name: O Crime do Padre Amaro
   isbn: '9789720049636'
-- author: Margaret Atwood
-  name: The Handmaid's Tale
-  isbn: '9781784871444'
-- author: Steven Levy
-  name: 'Hackers: Heroes of the Computer Revolution'
-  isbn: '9780141000510'
 - author: Alex Bellos
   name: 'Alex''s Adventures in Numberland'
   isbn: '9781408809594'
-- author: Robert Louis Stevenson
-  name: Strange Case of Dr Jekyll and Mr Hyde
-  isbn: '9781847493781'
+- author: Fernando Pessoa
+  name: Mensagem
+- author: Fernando Pessoa
+  name: O Livro do Desassosego
+- author: Luís de Camões
+  name: Os Lusíadas
+- author: Miguel Sousa Tavares
+  name: Equador
 currently-reading:
 - author: Annabeth Albert
   name: Conventionally Yours
