@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-06-10T08:19:05.759700984Z
+lastmod: 2021-06-12T11:31:09.180770007Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -37,9 +37,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - [Stammy](https://paulstamatiou.com/) has really nice map animations.
   - Perhaps import my.flightradar24.com account with the flights I have done?
   - Use partially swarm?
-- **Protocol support**
-  - TOR
-  - Gemini [post](https://brainbaking.com/post/2021/04/using-hugo-to-launch-a-gemini-capsule/)
 - **Listens** section
   - Make more interesting graphs
 - Improved **caching**
