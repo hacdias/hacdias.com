@@ -1,68 +1,86 @@
 {
   "artists": [
     {
+      "name": "Marina",
+      "count": 44,
+      "url": "https://www.last.fm/music/Marina"
+    },
+    {
       "name": "Lady Gaga",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Bárbara Tinoco",
-      "count": 7,
+      "count": 9,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
       "name": "Stefania",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Stefania"
     },
     {
-      "name": "Destiny",
-      "count": 5,
-      "url": "https://www.last.fm/music/Destiny"
-    },
-    {
-      "name": "Troye Sivan",
-      "count": 5,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
-      "name": "Victoria",
-      "count": 5,
-      "url": "https://www.last.fm/music/Victoria"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 4,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Blaya",
-      "count": 4,
-      "url": "https://www.last.fm/music/Blaya"
-    },
-    {
       "name": "Bruno Mars",
-      "count": 4,
+      "count": 6,
       "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
+      "name": "Destiny",
+      "count": 6,
+      "url": "https://www.last.fm/music/Destiny"
+    },
+    {
+      "name": "Victoria",
+      "count": 6,
+      "url": "https://www.last.fm/music/Victoria"
+    },
+    {
+      "name": "Allie X",
+      "count": 5,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
       "name": "Doja Cat",
-      "count": 4,
+      "count": 5,
       "url": "https://www.last.fm/music/Doja+Cat"
+    },
+    {
+      "name": "Slayyyter",
+      "count": 5,
+      "url": "https://www.last.fm/music/Slayyyter"
     }
   ],
   "tracks": [
     {
       "name": "Last Dance",
       "url": "https://www.last.fm/music/Stefania/_/Last+Dance",
-      "count": 7,
+      "count": 8,
       "artist": "Stefania"
     },
     {
       "name": "Je Me Casse",
       "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
-      "count": 5,
+      "count": 6,
       "artist": "Destiny"
+    },
+    {
+      "name": "Ancient Dreams in a Modern Land",
+      "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
+      "count": 6,
+      "artist": "Marina"
+    },
+    {
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA)",
+      "count": 5,
+      "artist": "Doja Cat"
+    },
+    {
+      "name": "Outras Línguas",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
+      "count": 4,
+      "artist": "Bárbara Tinoco"
     },
     {
       "name": "Ok",
@@ -71,46 +89,28 @@
       "artist": "Blaya"
     },
     {
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA)",
-      "count": 4,
-      "artist": "Doja Cat"
-    },
-    {
-      "name": "Outras Línguas",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco/_/Outras+L%C3%ADnguas",
-      "count": 3,
-      "artist": "Bárbara Tinoco"
-    },
-    {
       "name": "Leave the Door Open",
       "url": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open",
-      "count": 3,
+      "count": 4,
       "artist": "Bruno Mars"
-    },
-    {
-      "name": "Medo De Sentir",
-      "url": "https://www.last.fm/music/Elisa/_/Medo+De+Sentir",
-      "count": 3,
-      "artist": "Elisa"
     },
     {
       "name": "The Wrong Place",
       "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
-      "count": 3,
+      "count": 4,
       "artist": "Hooverphonic"
     },
     {
-      "name": "Tears Getting Sober",
-      "url": "https://www.last.fm/music/Victoria/_/Tears+Getting+Sober",
-      "count": 3,
-      "artist": "Victoria"
+      "name": "Man's World",
+      "url": "https://www.last.fm/music/Marina/_/Man%27s+World",
+      "count": 4,
+      "artist": "Marina"
     },
     {
-      "name": "Cai neve em Nova York",
-      "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
-      "count": 2,
-      "artist": "Amor Electro"
+      "name": "Purge the Poison",
+      "url": "https://www.last.fm/music/Marina/_/Purge+the+Poison",
+      "count": 4,
+      "artist": "Marina"
     }
   ]
 }
