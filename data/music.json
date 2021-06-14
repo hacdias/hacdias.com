@@ -2,32 +2,42 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 68,
+      "count": 89,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "London Grammar",
-      "count": 20,
+      "count": 24,
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
-      "name": "Lady Gaga",
-      "count": 11,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Bárbara Tinoco",
-      "count": 10,
+      "count": 12,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
       "name": "Bruno Mars",
-      "count": 10,
+      "count": 12,
       "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
-      "name": "Stefania",
+      "name": "Lorde",
+      "count": 12,
+      "url": "https://www.last.fm/music/Lorde"
+    },
+    {
+      "name": "Slayyyter",
       "count": 10,
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    {
+      "name": "Victoria",
+      "count": 10,
+      "url": "https://www.last.fm/music/Victoria"
+    },
+    {
+      "name": "Stefania",
+      "count": 9,
       "url": "https://www.last.fm/music/Stefania"
     },
     {
@@ -36,26 +46,34 @@
       "url": "https://www.last.fm/music/Destiny"
     },
     {
-      "name": "Victoria",
-      "count": 8,
-      "url": "https://www.last.fm/music/Victoria"
-    },
-    {
       "name": "Doja Cat",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Doja+Cat"
-    },
-    {
-      "name": "Hooverphonic",
-      "count": 6,
-      "url": "https://www.last.fm/music/Hooverphonic"
     }
   ],
   "tracks": [
     {
+      "name": "Man's World",
+      "url": "https://www.last.fm/music/Marina/_/Man%27s+World",
+      "count": 10,
+      "artist": "Marina"
+    },
+    {
+      "name": "Ancient Dreams in a Modern Land",
+      "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
+      "count": 9,
+      "artist": "Marina"
+    },
+    {
+      "name": "Highly Emotional People",
+      "url": "https://www.last.fm/music/Marina/_/Highly+Emotional+People",
+      "count": 9,
+      "artist": "Marina"
+    },
+    {
       "name": "Last Dance",
       "url": "https://www.last.fm/music/Stefania/_/Last+Dance",
-      "count": 10,
+      "count": 9,
       "artist": "Stefania"
     },
     {
@@ -67,50 +85,32 @@
     {
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA)",
-      "count": 7,
+      "count": 8,
       "artist": "Doja Cat"
-    },
-    {
-      "name": "Ancient Dreams in a Modern Land",
-      "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
-      "count": 7,
-      "artist": "Marina"
-    },
-    {
-      "name": "Man's World",
-      "url": "https://www.last.fm/music/Marina/_/Man%27s+World",
-      "count": 7,
-      "artist": "Marina"
-    },
-    {
-      "name": "Leave the Door Open",
-      "url": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open",
-      "count": 6,
-      "artist": "Bruno Mars"
-    },
-    {
-      "name": "The Wrong Place",
-      "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
-      "count": 6,
-      "artist": "Hooverphonic"
-    },
-    {
-      "name": "Highly Emotional People",
-      "url": "https://www.last.fm/music/Marina/_/Highly+Emotional+People",
-      "count": 6,
-      "artist": "Marina"
     },
     {
       "name": "I Love You But I Love Me More",
       "url": "https://www.last.fm/music/Marina/_/I+Love+You+But+I+Love+Me+More",
-      "count": 6,
+      "count": 8,
       "artist": "Marina"
     },
     {
       "name": "Venus Fly Trap",
       "url": "https://www.last.fm/music/Marina/_/Venus+Fly+Trap",
-      "count": 6,
+      "count": 8,
       "artist": "Marina"
+    },
+    {
+      "name": "Tears Getting Sober",
+      "url": "https://www.last.fm/music/Victoria/_/Tears+Getting+Sober",
+      "count": 8,
+      "artist": "Victoria"
+    },
+    {
+      "name": "Leave the Door Open",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open",
+      "count": 7,
+      "artist": "Bruno Mars"
     }
   ]
 }
