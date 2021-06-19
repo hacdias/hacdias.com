@@ -2,18 +2,13 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 159,
+      "count": 125,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "London Grammar",
-      "count": 41,
+      "count": 46,
       "url": "https://www.last.fm/music/London+Grammar"
-    },
-    {
-      "name": "Melanie Martinez",
-      "count": 13,
-      "url": "https://www.last.fm/music/Melanie+Martinez"
     },
     {
       "name": "Bruno Mars",
@@ -21,14 +16,9 @@
       "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
-      "name": "Lorde",
+      "name": "Melanie Martinez",
       "count": 12,
-      "url": "https://www.last.fm/music/Lorde"
-    },
-    {
-      "name": "Slayyyter",
-      "count": 11,
-      "url": "https://www.last.fm/music/Slayyyter"
+      "url": "https://www.last.fm/music/Melanie+Martinez"
     },
     {
       "name": "Victoria",
@@ -46,59 +36,57 @@
       "url": "https://www.last.fm/music/Doja+Cat"
     },
     {
+      "name": "Lorde",
+      "count": 9,
+      "url": "https://www.last.fm/music/Lorde"
+    },
+    {
       "name": "Destiny",
       "count": 8,
       "url": "https://www.last.fm/music/Destiny"
+    },
+    {
+      "name": "Stefania",
+      "count": 8,
+      "url": "https://www.last.fm/music/Stefania"
     }
   ],
   "tracks": [
     {
       "name": "Man's World",
       "url": "https://www.last.fm/music/Marina/_/Man%27s+World",
-      "count": 26,
+      "count": 25,
       "artist": "Marina"
     },
     {
       "name": "Highly Emotional People",
       "url": "https://www.last.fm/music/Marina/_/Highly+Emotional+People",
-      "count": 20,
+      "count": 19,
       "artist": "Marina"
     },
     {
       "name": "I Love You But I Love Me More",
       "url": "https://www.last.fm/music/Marina/_/I+Love+You+But+I+Love+Me+More",
-      "count": 20,
-      "artist": "Marina"
-    },
-    {
-      "name": "Venus Fly Trap",
-      "url": "https://www.last.fm/music/Marina/_/Venus+Fly+Trap",
-      "count": 17,
+      "count": 19,
       "artist": "Marina"
     },
     {
       "name": "Lose Your Head",
       "url": "https://www.last.fm/music/London+Grammar/_/Lose+Your+Head",
-      "count": 14,
+      "count": 16,
       "artist": "London Grammar"
+    },
+    {
+      "name": "Venus Fly Trap",
+      "url": "https://www.last.fm/music/Marina/_/Venus+Fly+Trap",
+      "count": 15,
+      "artist": "Marina"
     },
     {
       "name": "How Does It Feel",
       "url": "https://www.last.fm/music/London+Grammar/_/How+Does+It+Feel",
-      "count": 12,
+      "count": 14,
       "artist": "London Grammar"
-    },
-    {
-      "name": "Ancient Dreams in a Modern Land",
-      "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
-      "count": 12,
-      "artist": "Marina"
-    },
-    {
-      "name": "Purge the Poison",
-      "url": "https://www.last.fm/music/Marina/_/Purge+the+Poison",
-      "count": 11,
-      "artist": "Marina"
     },
     {
       "name": "Training Wheels",
@@ -111,6 +99,18 @@
       "url": "https://www.last.fm/music/Victoria/_/Tears+Getting+Sober",
       "count": 10,
       "artist": "Victoria"
+    },
+    {
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA)",
+      "count": 9,
+      "artist": "Doja Cat"
+    },
+    {
+      "name": "Je Me Casse",
+      "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
+      "count": 8,
+      "artist": "Destiny"
     }
   ]
 }
