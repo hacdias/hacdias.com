@@ -1843,6 +1843,11 @@
   ],
   "series": [
     {
+      "title": "Elite",
+      "watched": "2021-06-19T12:26:42.000Z",
+      "url": "https://trakt.tv/shows/elite"
+    },
+    {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-06-17T17:09:36.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
@@ -2091,11 +2096,6 @@
       "title": "#CasaDoCais",
       "watched": "2020-03-23T20:22:38.000Z",
       "url": "https://trakt.tv/shows/casadocais"
-    },
-    {
-      "title": "Elite",
-      "watched": "2020-03-15T13:33:25.000Z",
-      "url": "https://trakt.tv/shows/elite"
     },
     {
       "title": "Tales of the City",
