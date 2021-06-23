@@ -120,3 +120,19 @@
     name: "\U0001D586\U0001D591\U0001D58A\U0001D59D\U0001D586\U0001D593\U0001D589\U0001D597\U0001D58A"
     url: https://twitter.com/_saligia__
     photo: https://cdn.hacdias.com/wm/eea30624395f943d42b24671b76ea36bfa474637563f05a0f160bb6e275dafd4.jpg
+- wm-id: 1199304
+  type: like
+  url: https://twitter.com/hacdias/status/1407302220337582082#favorited-by-144560866
+  date: 2021-06-23T13:11:47Z
+  author:
+    name: Diogo Redin
+    url: https://twitter.com/DiogoRedin
+    photo: https://webmention.io/avatar/pbs.twimg.com/0f1ce6da2920bfabfdd754ce2d726f0ffb2516cd85da5db9136a3cec84f90df0.jpg
+- wm-id: 1199305
+  type: like
+  url: https://twitter.com/hacdias/status/1407302220337582082#favorited-by-2640630321
+  date: 2021-06-23T13:11:56Z
+  author:
+    name: Ricardo Sousa
+    url: https://twitter.com/ricardomiguels
+    photo: https://webmention.io/avatar/pbs.twimg.com/d03d00857c1142ffb21e4c2b1ecd691ea04047f7a3c52a87aee26fba1c35d55c.jpg
