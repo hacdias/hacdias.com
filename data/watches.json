@@ -1843,6 +1843,11 @@
   ],
   "series": [
     {
+      "title": "Special",
+      "watched": "2021-06-26T14:12:17.000Z",
+      "url": "https://trakt.tv/shows/special"
+    },
+    {
       "title": "RuPaul's Drag Race Down Under",
       "watched": "2021-06-22T18:02:58.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-down-under"
@@ -2146,11 +2151,6 @@
       "title": "EastSiders",
       "watched": "2019-05-31T08:04:26.000Z",
       "url": "https://trakt.tv/shows/eastsiders"
-    },
-    {
-      "title": "Special",
-      "watched": "2019-05-26T20:19:38.000Z",
-      "url": "https://trakt.tv/shows/special"
     },
     {
       "title": "Game of Thrones",
