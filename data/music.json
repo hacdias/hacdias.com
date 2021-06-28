@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 95,
+      "count": 118,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "London Grammar",
-      "count": 10,
+      "count": 12,
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
@@ -21,41 +21,47 @@
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
+      "name": "Troye Sivan",
+      "count": 5,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
+      "name": "Blaya",
+      "count": 4,
+      "url": "https://www.last.fm/music/Blaya"
+    },
+    {
       "name": "Bruno Mars",
       "count": 4,
       "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
-      "name": "Destiny",
-      "count": 3,
-      "url": "https://www.last.fm/music/Destiny"
-    },
-    {
-      "name": "Doja Cat",
-      "count": 3,
-      "url": "https://www.last.fm/music/Doja+Cat"
-    },
-    {
       "name": "Melanie Martinez",
-      "count": 3,
+      "count": 4,
       "url": "https://www.last.fm/music/Melanie+Martinez"
     },
     {
-      "name": "Stand-in Rehearsal",
-      "count": 3,
-      "url": "https://www.last.fm/music/Stand-in+Rehearsal"
+      "name": "Pabllo Vittar",
+      "count": 4,
+      "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
-      "name": "Stefania",
-      "count": 3,
-      "url": "https://www.last.fm/music/Stefania"
+      "name": "Stand-in Rehearsal",
+      "count": 4,
+      "url": "https://www.last.fm/music/Stand-in+Rehearsal"
     }
   ],
   "tracks": [
     {
       "name": "Ancient Dreams in a Modern Land",
       "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
-      "count": 12,
+      "count": 14,
+      "artist": "Marina"
+    },
+    {
+      "name": "Pandora's Box",
+      "url": "https://www.last.fm/music/Marina/_/Pandora%27s+Box",
+      "count": 14,
       "artist": "Marina"
     },
     {
@@ -65,52 +71,46 @@
       "artist": "Marina"
     },
     {
-      "name": "Pandora's Box",
-      "url": "https://www.last.fm/music/Marina/_/Pandora%27s+Box",
-      "count": 10,
-      "artist": "Marina"
-    },
-    {
       "name": "Purge the Poison",
       "url": "https://www.last.fm/music/Marina/_/Purge+the+Poison",
+      "count": 12,
+      "artist": "Marina"
+    },
+    {
+      "name": "I'm a Ruin",
+      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
       "count": 10,
       "artist": "Marina"
     },
     {
-      "name": "Venus Fly Trap",
-      "url": "https://www.last.fm/music/Marina/_/Venus+Fly+Trap",
+      "name": "Immortal",
+      "url": "https://www.last.fm/music/Marina/_/Immortal",
+      "count": 9,
+      "artist": "Marina"
+    },
+    {
+      "name": "About Love - From The Netflix Film “To All The Boys: P.S. I Still Love You”",
+      "url": "https://www.last.fm/music/Marina/_/About+Love+-+From+The+Netflix+Film+%E2%80%9CTo+All+The+Boys:+P.S.+I+Still+Love+You%E2%80%9D",
       "count": 7,
       "artist": "Marina"
     },
     {
       "name": "Highly Emotional People",
       "url": "https://www.last.fm/music/Marina/_/Highly+Emotional+People",
-      "count": 6,
+      "count": 7,
       "artist": "Marina"
     },
     {
       "name": "I Love You But I Love Me More",
       "url": "https://www.last.fm/music/Marina/_/I+Love+You+But+I+Love+Me+More",
-      "count": 6,
+      "count": 7,
       "artist": "Marina"
     },
     {
-      "name": "About Love - From The Netflix Film “To All The Boys: P.S. I Still Love You”",
-      "url": "https://www.last.fm/music/Marina/_/About+Love+-+From+The+Netflix+Film+%E2%80%9CTo+All+The+Boys:+P.S.+I+Still+Love+You%E2%80%9D",
-      "count": 5,
+      "name": "Savages",
+      "url": "https://www.last.fm/music/Marina/_/Savages",
+      "count": 7,
       "artist": "Marina"
-    },
-    {
-      "name": "Immortal",
-      "url": "https://www.last.fm/music/Marina/_/Immortal",
-      "count": 5,
-      "artist": "Marina"
-    },
-    {
-      "name": "How Does It Feel",
-      "url": "https://www.last.fm/music/London+Grammar/_/How+Does+It+Feel",
-      "count": 4,
-      "artist": "London Grammar"
     }
   ]
 }
