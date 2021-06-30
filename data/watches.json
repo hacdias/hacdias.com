@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "The House of Flowers: The Movie",
+      "watched": "2021-06-29T20:59:30.000Z",
+      "url": "https://trakt.tv/movies/the-house-of-flowers-the-movie-2021"
+    },
+    {
       "title": "Cryptopia: Bitcoin, Blockchains & the Future of the Internet",
       "watched": "2021-05-16T19:42:25.000Z",
       "url": "https://trakt.tv/movies/cryptopia-bitcoin-blockchains-the-future-of-the-internet-2020"
