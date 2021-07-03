@@ -1853,6 +1853,16 @@
   ],
   "series": [
     {
+      "title": "Young Royals",
+      "watched": "2021-07-02T16:05:51.000Z",
+      "url": "https://trakt.tv/shows/young-royals-2021"
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "watched": "2021-07-02T11:02:49.000Z",
+      "url": "https://trakt.tv/shows/the-handmaid-s-tale"
+    },
+    {
       "title": "Special",
       "watched": "2021-06-26T14:12:17.000Z",
       "url": "https://trakt.tv/shows/special"
@@ -2141,11 +2151,6 @@
       "title": "Degrassi: Next Class",
       "watched": "2019-12-01T21:02:45.000Z",
       "url": "https://trakt.tv/shows/degrassi-next-class"
-    },
-    {
-      "title": "The Handmaid's Tale",
-      "watched": "2019-08-14T13:46:56.000Z",
-      "url": "https://trakt.tv/shows/the-handmaid-s-tale"
     },
     {
       "title": "Stranger Things",
