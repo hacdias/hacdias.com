@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 140,
+      "count": 138,
       "url": "https://www.last.fm/music/Marina"
     },
     {
@@ -14,6 +14,11 @@
       "name": "Melanie Martinez",
       "count": 7,
       "url": "https://www.last.fm/music/Melanie+Martinez"
+    },
+    {
+      "name": "Måneskin",
+      "count": 6,
+      "url": "https://www.last.fm/music/M%C3%A5neskin"
     },
     {
       "name": "Pabllo Vittar",
@@ -44,11 +49,6 @@
       "name": "Victoria",
       "count": 5,
       "url": "https://www.last.fm/music/Victoria"
-    },
-    {
-      "name": "Blaya",
-      "count": 4,
-      "url": "https://www.last.fm/music/Blaya"
     }
   ],
   "tracks": [
@@ -61,25 +61,25 @@
     {
       "name": "Savages",
       "url": "https://www.last.fm/music/Marina/_/Savages",
-      "count": 16,
+      "count": 17,
       "artist": "Marina"
     },
     {
       "name": "Immortal",
       "url": "https://www.last.fm/music/Marina/_/Immortal",
-      "count": 14,
+      "count": 15,
       "artist": "Marina"
     },
     {
       "name": "Pandora's Box",
       "url": "https://www.last.fm/music/Marina/_/Pandora%27s+Box",
-      "count": 14,
+      "count": 15,
       "artist": "Marina"
     },
     {
       "name": "Ancient Dreams in a Modern Land",
       "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
-      "count": 13,
+      "count": 14,
       "artist": "Marina"
     },
     {
@@ -109,7 +109,7 @@
     {
       "name": "Man's World",
       "url": "https://www.last.fm/music/Marina/_/Man%27s+World",
-      "count": 11,
+      "count": 10,
       "artist": "Marina"
     }
   ]
