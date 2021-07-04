@@ -2,23 +2,28 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 138,
+      "count": 126,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "London Grammar",
-      "count": 22,
+      "count": 20,
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
-      "name": "Melanie Martinez",
-      "count": 7,
-      "url": "https://www.last.fm/music/Melanie+Martinez"
+      "name": "Omar Rudberg",
+      "count": 9,
+      "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Måneskin",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/M%C3%A5neskin"
+    },
+    {
+      "name": "Melanie Martinez",
+      "count": 6,
+      "url": "https://www.last.fm/music/Melanie+Martinez"
     },
     {
       "name": "Pabllo Vittar",
@@ -36,80 +41,75 @@
       "url": "https://www.last.fm/music/Doja+Cat"
     },
     {
-      "name": "Stefania",
-      "count": 5,
-      "url": "https://www.last.fm/music/Stefania"
-    },
-    {
       "name": "Troye Sivan",
       "count": 5,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Victoria",
-      "count": 5,
-      "url": "https://www.last.fm/music/Victoria"
+      "name": "Blaya",
+      "count": 4,
+      "url": "https://www.last.fm/music/Blaya"
     }
   ],
   "tracks": [
     {
       "name": "I'm a Ruin",
       "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 20,
+      "count": 19,
       "artist": "Marina"
     },
     {
       "name": "Savages",
       "url": "https://www.last.fm/music/Marina/_/Savages",
-      "count": 17,
+      "count": 15,
       "artist": "Marina"
     },
     {
       "name": "Immortal",
       "url": "https://www.last.fm/music/Marina/_/Immortal",
-      "count": 15,
+      "count": 14,
       "artist": "Marina"
     },
     {
       "name": "Pandora's Box",
       "url": "https://www.last.fm/music/Marina/_/Pandora%27s+Box",
-      "count": 15,
+      "count": 14,
       "artist": "Marina"
     },
     {
       "name": "Ancient Dreams in a Modern Land",
       "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
-      "count": 14,
+      "count": 13,
       "artist": "Marina"
     },
     {
       "name": "Purge the Poison",
       "url": "https://www.last.fm/music/Marina/_/Purge+the+Poison",
-      "count": 12,
+      "count": 11,
       "artist": "Marina"
     },
     {
       "name": "How Does It Feel",
       "url": "https://www.last.fm/music/London+Grammar/_/How+Does+It+Feel",
-      "count": 11,
+      "count": 10,
       "artist": "London Grammar"
     },
     {
       "name": "Lose Your Head",
       "url": "https://www.last.fm/music/London+Grammar/_/Lose+Your+Head",
-      "count": 11,
+      "count": 10,
       "artist": "London Grammar"
     },
     {
       "name": "About Love - From The Netflix Film “To All The Boys: P.S. I Still Love You”",
       "url": "https://www.last.fm/music/Marina/_/About+Love+-+From+The+Netflix+Film+%E2%80%9CTo+All+The+Boys:+P.S.+I+Still+Love+You%E2%80%9D",
-      "count": 11,
+      "count": 10,
       "artist": "Marina"
     },
     {
       "name": "Man's World",
       "url": "https://www.last.fm/music/Marina/_/Man%27s+World",
-      "count": 10,
+      "count": 9,
       "artist": "Marina"
     }
   ]
