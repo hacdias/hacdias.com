@@ -381,6 +381,10 @@ read:
   name: 'Presenting to Win: The Art of Telling Your Story'
   isbn: '9780130464132'
   tags: [technical]
+- author: Annabeth Albert
+  name: Conventionally Yours
+  isbn: '9781728200293'
+  date: '2021-07-04T14:38:36.830961241Z'
 to-read:
 - author: Harper Lee
   name: To Kill a Mockingbird
@@ -408,9 +412,6 @@ to-read:
 - author: Miguel Sousa Tavares
   name: Equador
 currently-reading:
-- author: Annabeth Albert
-  name: Conventionally Yours
-  isbn: '9781728200293'
 - author: Roberto Vitillo
   name: Understanding Distributed Systems
   tags: [technical]
