@@ -1853,14 +1853,19 @@
   ],
   "series": [
     {
+      "title": "Good Girls",
+      "watched": "2021-07-04T20:18:10.000Z",
+      "url": "https://trakt.tv/shows/good-girls"
+    },
+    {
       "title": "Love, Victor",
-      "watched": "2021-07-03T10:38:44.000Z",
+      "watched": "2021-07-04T20:17:58.000Z",
       "url": "https://trakt.tv/shows/love-victor"
     },
     {
-      "title": "Young Royals",
-      "watched": "2021-07-02T16:05:51.000Z",
-      "url": "https://trakt.tv/shows/young-royals-2021"
+      "title": "The A List",
+      "watched": "2021-07-04T11:51:59.000Z",
+      "url": "https://trakt.tv/shows/the-a-list"
     },
     {
       "title": "The Handmaid's Tale",
@@ -1891,11 +1896,6 @@
       "title": "The Good Doctor",
       "watched": "2021-06-08T18:57:14.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "Good Girls",
-      "watched": "2021-05-20T20:38:16.000Z",
-      "url": "https://trakt.tv/shows/good-girls"
     },
     {
       "title": "Young Sheldon",
