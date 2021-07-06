@@ -1853,8 +1853,13 @@
   ],
   "series": [
     {
+      "title": "The Handmaid's Tale",
+      "watched": "2021-07-05T18:32:03.000Z",
+      "url": "https://trakt.tv/shows/the-handmaid-s-tale"
+    },
+    {
       "title": "Good Girls",
-      "watched": "2021-07-04T20:18:10.000Z",
+      "watched": "2021-07-05T07:53:06.000Z",
       "url": "https://trakt.tv/shows/good-girls"
     },
     {
@@ -1866,11 +1871,6 @@
       "title": "The A List",
       "watched": "2021-07-04T11:51:59.000Z",
       "url": "https://trakt.tv/shows/the-a-list"
-    },
-    {
-      "title": "The Handmaid's Tale",
-      "watched": "2021-07-02T11:02:49.000Z",
-      "url": "https://trakt.tv/shows/the-handmaid-s-tale"
     },
     {
       "title": "Special",
