@@ -1854,8 +1854,13 @@
   "series": [
     {
       "title": "The Handmaid's Tale",
-      "watched": "2021-07-05T18:32:03.000Z",
+      "watched": "2021-07-06T20:07:49.000Z",
       "url": "https://trakt.tv/shows/the-handmaid-s-tale"
+    },
+    {
+      "title": "RuPaul's Drag Race All Stars",
+      "watched": "2021-07-06T18:11:16.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
     },
     {
       "title": "Good Girls",
@@ -2041,11 +2046,6 @@
       "title": "RuPaul's Secret Celebrity Drag Race",
       "watched": "2020-08-17T14:04:31.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-secret-celebrity-drag-race"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars",
-      "watched": "2020-07-25T18:24:54.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
     },
     {
       "title": "The Politician",
