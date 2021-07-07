@@ -2,18 +2,13 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 83,
+      "count": 51,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
       "count": 23,
       "url": "https://www.last.fm/music/Omar+Rudberg"
-    },
-    {
-      "name": "London Grammar",
-      "count": 11,
-      "url": "https://www.last.fm/music/London+Grammar"
     },
     {
       "name": "Måneskin",
@@ -41,23 +36,22 @@
       "url": "https://www.last.fm/music/Elias"
     },
     {
-      "name": "Doja Cat",
+      "name": "London Grammar",
       "count": 5,
-      "url": "https://www.last.fm/music/Doja+Cat"
+      "url": "https://www.last.fm/music/London+Grammar"
     },
     {
-      "name": "Victoria",
-      "count": 4,
-      "url": "https://www.last.fm/music/Victoria"
+      "name": "Britney Spears",
+      "count": 3,
+      "url": "https://www.last.fm/music/Britney+Spears"
+    },
+    {
+      "name": "Doja Cat",
+      "count": 3,
+      "url": "https://www.last.fm/music/Doja+Cat"
     }
   ],
   "tracks": [
-    {
-      "name": "I'm a Ruin",
-      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 13,
-      "artist": "Marina"
-    },
     {
       "name": "It Takes A Fool To Remain Sane",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
@@ -65,9 +59,9 @@
       "artist": "Omar Rudberg"
     },
     {
-      "name": "Savages",
-      "url": "https://www.last.fm/music/Marina/_/Savages",
-      "count": 11,
+      "name": "I'm a Ruin",
+      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
+      "count": 10,
       "artist": "Marina"
     },
     {
@@ -75,24 +69,6 @@
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
       "count": 10,
       "artist": "Omar Rudberg"
-    },
-    {
-      "name": "Ancient Dreams in a Modern Land",
-      "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
-      "count": 9,
-      "artist": "Marina"
-    },
-    {
-      "name": "Immortal",
-      "url": "https://www.last.fm/music/Marina/_/Immortal",
-      "count": 9,
-      "artist": "Marina"
-    },
-    {
-      "name": "Pandora's Box",
-      "url": "https://www.last.fm/music/Marina/_/Pandora%27s+Box",
-      "count": 9,
-      "artist": "Marina"
     },
     {
       "name": "Hurt Like We Did",
@@ -107,9 +83,33 @@
       "artist": "Lil Nas X"
     },
     {
-      "name": "Purge the Poison",
-      "url": "https://www.last.fm/music/Marina/_/Purge+the+Poison",
+      "name": "good 4 u",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
       "count": 8,
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "name": "Revolution",
+      "url": "https://www.last.fm/music/Elias/_/Revolution",
+      "count": 7,
+      "artist": "Elias"
+    },
+    {
+      "name": "Torna a casa",
+      "url": "https://www.last.fm/music/M%C3%A5neskin/_/Torna+a+casa",
+      "count": 7,
+      "artist": "Måneskin"
+    },
+    {
+      "name": "Savages",
+      "url": "https://www.last.fm/music/Marina/_/Savages",
+      "count": 7,
+      "artist": "Marina"
+    },
+    {
+      "name": "Ancient Dreams in a Modern Land",
+      "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
+      "count": 6,
       "artist": "Marina"
     }
   ]
