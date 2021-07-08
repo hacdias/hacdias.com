@@ -41,14 +41,14 @@
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
-      "name": "Britney Spears",
-      "count": 3,
-      "url": "https://www.last.fm/music/Britney+Spears"
-    },
-    {
       "name": "Doja Cat",
       "count": 3,
       "url": "https://www.last.fm/music/Doja+Cat"
+    },
+    {
+      "name": "Victoria",
+      "count": 2,
+      "url": "https://www.last.fm/music/Victoria"
     }
   ],
   "tracks": [
