@@ -2,18 +2,13 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 51,
+      "count": 29,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
       "count": 23,
       "url": "https://www.last.fm/music/Omar+Rudberg"
-    },
-    {
-      "name": "Måneskin",
-      "count": 10,
-      "url": "https://www.last.fm/music/M%C3%A5neskin"
     },
     {
       "name": "Lil Nas X",
@@ -36,19 +31,24 @@
       "url": "https://www.last.fm/music/Elias"
     },
     {
-      "name": "London Grammar",
-      "count": 5,
-      "url": "https://www.last.fm/music/London+Grammar"
+      "name": "Måneskin",
+      "count": 7,
+      "url": "https://www.last.fm/music/M%C3%A5neskin"
     },
     {
       "name": "Doja Cat",
-      "count": 3,
+      "count": 2,
       "url": "https://www.last.fm/music/Doja+Cat"
     },
     {
-      "name": "Victoria",
+      "name": "World Friends",
       "count": 2,
-      "url": "https://www.last.fm/music/Victoria"
+      "url": "https://www.last.fm/music/World+Friends"
+    },
+    {
+      "name": "Adam Lambert",
+      "count": 1,
+      "url": "https://www.last.fm/music/Adam+Lambert"
     }
   ],
   "tracks": [
@@ -57,12 +57,6 @@
       "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
       "count": 12,
       "artist": "Omar Rudberg"
-    },
-    {
-      "name": "I'm a Ruin",
-      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 10,
-      "artist": "Marina"
     },
     {
       "name": "Alla Ba Ouff",
@@ -95,21 +89,27 @@
       "artist": "Elias"
     },
     {
+      "name": "I'm a Ruin",
+      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
+      "count": 7,
+      "artist": "Marina"
+    },
+    {
       "name": "Torna a casa",
       "url": "https://www.last.fm/music/M%C3%A5neskin/_/Torna+a+casa",
-      "count": 7,
+      "count": 6,
       "artist": "Måneskin"
     },
     {
       "name": "Savages",
       "url": "https://www.last.fm/music/Marina/_/Savages",
-      "count": 7,
+      "count": 5,
       "artist": "Marina"
     },
     {
       "name": "Ancient Dreams in a Modern Land",
       "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
-      "count": 6,
+      "count": 4,
       "artist": "Marina"
     }
   ]
