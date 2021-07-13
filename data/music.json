@@ -7,28 +7,18 @@
     },
     {
       "name": "Marina",
-      "count": 4,
+      "count": 3,
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 4,
-      "url": "https://www.last.fm/music/Olivia+Rodrigo"
-    },
-    {
       "name": "Elias",
-      "count": 3,
+      "count": 2,
       "url": "https://www.last.fm/music/Elias"
     },
     {
       "name": "Lil Nas X",
-      "count": 3,
-      "url": "https://www.last.fm/music/Lil+Nas+X"
-    },
-    {
-      "name": "FO&O",
       "count": 2,
-      "url": "https://www.last.fm/music/FO&O"
+      "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
       "name": "Måneskin",
@@ -36,63 +26,43 @@
       "url": "https://www.last.fm/music/M%C3%A5neskin"
     },
     {
-      "name": "Adam Lambert",
-      "count": 1,
-      "url": "https://www.last.fm/music/Adam+Lambert"
-    },
-    {
-      "name": "Doja Cat",
-      "count": 1,
-      "url": "https://www.last.fm/music/Doja+Cat"
+      "name": "Olivia Rodrigo",
+      "count": 2,
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
     },
     {
       "name": "fandompearl",
       "count": 1,
       "url": "https://www.last.fm/music/fandompearl"
+    },
+    {
+      "name": "FO&O",
+      "count": 1,
+      "url": "https://www.last.fm/music/FO&O"
+    },
+    {
+      "name": "Hooverphonic",
+      "count": 1,
+      "url": "https://www.last.fm/music/Hooverphonic"
+    },
+    {
+      "name": "Netflix Nordic",
+      "count": 1,
+      "url": "https://www.last.fm/music/Netflix+Nordic"
     }
   ],
   "tracks": [
     {
       "name": "Revolution",
       "url": "https://www.last.fm/music/Elias/_/Revolution",
-      "count": 3,
+      "count": 2,
       "artist": "Elias"
     },
     {
       "name": "Montero (Call Me By Your Name)",
       "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
-      "count": 3,
-      "artist": "Lil Nas X"
-    },
-    {
-      "name": "I'm a Ruin",
-      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 3,
-      "artist": "Marina"
-    },
-    {
-      "name": "good 4 u",
-      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 3,
-      "artist": "Olivia Rodrigo"
-    },
-    {
-      "name": "Alla Ba Ouff",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 3,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "It Takes A Fool To Remain Sane",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
-      "count": 3,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "Hurt Like We Did",
-      "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
       "count": 2,
-      "artist": "FO&O"
+      "artist": "Lil Nas X"
     },
     {
       "name": "Torna a casa",
@@ -101,16 +71,46 @@
       "artist": "Måneskin"
     },
     {
-      "name": "Marry The Night (Lady Gaga Cover on GLEE)",
-      "url": "https://www.last.fm/music/Adam+Lambert/_/Marry+The+Night+(Lady+Gaga+Cover+on+GLEE)",
-      "count": 1,
-      "artist": "Adam Lambert"
+      "name": "I'm a Ruin",
+      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
+      "count": 2,
+      "artist": "Marina"
     },
     {
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA)",
+      "name": "good 4 u",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
+      "count": 2,
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "name": "Alla Ba Ouff",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
+      "count": 2,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "It Takes A Fool To Remain Sane",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
+      "count": 2,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "queens shading rupaul for 4 minutes straight",
+      "url": "https://www.last.fm/music/fandompearl/_/queens+shading+rupaul+for+4+minutes+straight",
       "count": 1,
-      "artist": "Doja Cat"
+      "artist": "fandompearl"
+    },
+    {
+      "name": "Hurt Like We Did",
+      "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
+      "count": 1,
+      "artist": "FO&O"
+    },
+    {
+      "name": "The Wrong Place",
+      "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
+      "count": 1,
+      "artist": "Hooverphonic"
     }
   ]
 }
