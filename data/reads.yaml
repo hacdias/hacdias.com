@@ -385,6 +385,10 @@ read:
   name: Conventionally Yours
   isbn: '9781728200293'
   date: '2021-07-04T14:38:36.830961241Z'
+- author: Antoine de Saint-Exupéry
+  name: O Principezinho
+  isbn: '9789895401970'
+  date: '2021-07-15T18:15:07.057199278Z'
 to-read:
 - author: Harper Lee
   name: To Kill a Mockingbird
