@@ -2,114 +2,114 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 5,
+      "count": 16,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
-      "count": 5,
+      "count": 9,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
+      "name": "Bárbara Tinoco",
+      "count": 4,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+    },
+    {
       "name": "Elias",
-      "count": 2,
+      "count": 4,
       "url": "https://www.last.fm/music/Elias"
     },
     {
       "name": "FO&O",
-      "count": 2,
+      "count": 4,
       "url": "https://www.last.fm/music/FO&O"
     },
     {
       "name": "Måneskin",
-      "count": 2,
+      "count": 4,
       "url": "https://www.last.fm/music/M%C3%A5neskin"
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 2,
+      "count": 4,
       "url": "https://www.last.fm/music/Olivia+Rodrigo"
     },
     {
-      "name": "fandompearl",
-      "count": 1,
-      "url": "https://www.last.fm/music/fandompearl"
-    },
-    {
-      "name": "Hooverphonic",
-      "count": 1,
-      "url": "https://www.last.fm/music/Hooverphonic"
-    },
-    {
       "name": "Lil Nas X",
-      "count": 1,
+      "count": 3,
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
-      "name": "Netflix Nordic",
-      "count": 1,
-      "url": "https://www.last.fm/music/Netflix+Nordic"
+      "name": "London Grammar",
+      "count": 3,
+      "url": "https://www.last.fm/music/London+Grammar"
+    },
+    {
+      "name": "Bruno Mars",
+      "count": 2,
+      "url": "https://www.last.fm/music/Bruno+Mars"
     }
   ],
   "tracks": [
     {
       "name": "Revolution",
       "url": "https://www.last.fm/music/Elias/_/Revolution",
-      "count": 2,
+      "count": 4,
       "artist": "Elias"
     },
     {
       "name": "Hurt Like We Did",
       "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 2,
+      "count": 4,
       "artist": "FO&O"
     },
     {
       "name": "Torna a casa",
       "url": "https://www.last.fm/music/M%C3%A5neskin/_/Torna+a+casa",
-      "count": 2,
+      "count": 4,
       "artist": "Måneskin"
-    },
-    {
-      "name": "I'm a Ruin",
-      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 2,
-      "artist": "Marina"
     },
     {
       "name": "good 4 u",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 2,
+      "count": 4,
       "artist": "Olivia Rodrigo"
     },
     {
       "name": "It Takes A Fool To Remain Sane",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
-      "count": 2,
+      "count": 4,
       "artist": "Omar Rudberg"
-    },
-    {
-      "name": "queens shading rupaul for 4 minutes straight",
-      "url": "https://www.last.fm/music/fandompearl/_/queens+shading+rupaul+for+4+minutes+straight",
-      "count": 1,
-      "artist": "fandompearl"
-    },
-    {
-      "name": "The Wrong Place",
-      "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
-      "count": 1,
-      "artist": "Hooverphonic"
     },
     {
       "name": "Montero (Call Me By Your Name)",
       "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
-      "count": 1,
+      "count": 3,
       "artist": "Lil Nas X"
+    },
+    {
+      "name": "I'm a Ruin",
+      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
+      "count": 3,
+      "artist": "Marina"
+    },
+    {
+      "name": "Alla Ba Ouff",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
+      "count": 3,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "The Wrong Place",
+      "url": "https://www.last.fm/music/Hooverphonic/_/The+Wrong+Place",
+      "count": 2,
+      "artist": "Hooverphonic"
     },
     {
       "name": "Immortal",
       "url": "https://www.last.fm/music/Marina/_/Immortal",
-      "count": 1,
+      "count": 2,
       "artist": "Marina"
     }
   ]
