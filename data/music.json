@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 22,
+      "count": 23,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
-      "count": 20,
+      "count": 22,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
@@ -41,14 +41,14 @@
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
+      "name": "Jago Hazzard",
+      "count": 3,
+      "url": "https://www.last.fm/music/Jago+Hazzard"
+    },
+    {
       "name": "London Grammar",
       "count": 3,
       "url": "https://www.last.fm/music/London+Grammar"
-    },
-    {
-      "name": "Bruno Mars",
-      "count": 2,
-      "url": "https://www.last.fm/music/Bruno+Mars"
     }
   ],
   "tracks": [
@@ -61,6 +61,12 @@
     {
       "name": "It Takes A Fool To Remain Sane",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
+      "count": 7,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "Remember",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
       "count": 7,
       "artist": "Omar Rudberg"
     },
@@ -101,15 +107,9 @@
       "artist": "Marina"
     },
     {
-      "name": "Remember",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 5,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "Immortal",
-      "url": "https://www.last.fm/music/Marina/_/Immortal",
-      "count": 3,
+      "name": "Savages",
+      "url": "https://www.last.fm/music/Marina/_/Savages",
+      "count": 4,
       "artist": "Marina"
     }
   ]
