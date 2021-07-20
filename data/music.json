@@ -1,19 +1,29 @@
 {
   "artists": [
     {
-      "name": "Marina",
-      "count": 23,
-      "url": "https://www.last.fm/music/Marina"
-    },
-    {
       "name": "Omar Rudberg",
-      "count": 22,
+      "count": 34,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
+      "name": "Marina",
+      "count": 28,
+      "url": "https://www.last.fm/music/Marina"
+    },
+    {
       "name": "FO&O",
-      "count": 8,
+      "count": 10,
       "url": "https://www.last.fm/music/FO&O"
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 8,
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    {
+      "name": "Lil Nas X",
+      "count": 7,
+      "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
       "name": "Elias",
@@ -24,16 +34,6 @@
       "name": "Måneskin",
       "count": 6,
       "url": "https://www.last.fm/music/M%C3%A5neskin"
-    },
-    {
-      "name": "Olivia Rodrigo",
-      "count": 6,
-      "url": "https://www.last.fm/music/Olivia+Rodrigo"
-    },
-    {
-      "name": "Lil Nas X",
-      "count": 5,
-      "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
       "name": "Bárbara Tinoco",
@@ -55,20 +55,38 @@
     {
       "name": "Hurt Like We Did",
       "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 8,
+      "count": 10,
       "artist": "FO&O"
+    },
+    {
+      "name": "Alla Ba Ouff",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
+      "count": 9,
+      "artist": "Omar Rudberg"
     },
     {
       "name": "It Takes A Fool To Remain Sane",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
-      "count": 7,
+      "count": 9,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Remember",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 7,
+      "count": 9,
       "artist": "Omar Rudberg"
+    },
+    {
+      "name": "good 4 u",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
+      "count": 8,
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
+      "count": 7,
+      "artist": "Lil Nas X"
     },
     {
       "name": "Revolution",
@@ -83,33 +101,15 @@
       "artist": "Måneskin"
     },
     {
-      "name": "good 4 u",
-      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 6,
-      "artist": "Olivia Rodrigo"
-    },
-    {
-      "name": "Alla Ba Ouff",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 6,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
-      "count": 5,
-      "artist": "Lil Nas X"
-    },
-    {
       "name": "I'm a Ruin",
       "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 5,
+      "count": 6,
       "artist": "Marina"
     },
     {
       "name": "Savages",
       "url": "https://www.last.fm/music/Marina/_/Savages",
-      "count": 4,
+      "count": 5,
       "artist": "Marina"
     }
   ]
