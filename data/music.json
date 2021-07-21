@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 34,
+      "count": 37,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
@@ -12,8 +12,13 @@
     },
     {
       "name": "FO&O",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/FO&O"
+    },
+    {
+      "name": "Lil Nas X",
+      "count": 8,
+      "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
       "name": "Olivia Rodrigo",
@@ -21,13 +26,8 @@
       "url": "https://www.last.fm/music/Olivia+Rodrigo"
     },
     {
-      "name": "Lil Nas X",
-      "count": 7,
-      "url": "https://www.last.fm/music/Lil+Nas+X"
-    },
-    {
       "name": "Elias",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Elias"
     },
     {
@@ -55,13 +55,19 @@
     {
       "name": "Hurt Like We Did",
       "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 10,
+      "count": 11,
       "artist": "FO&O"
     },
     {
       "name": "Alla Ba Ouff",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 9,
+      "count": 10,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "Remember",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
+      "count": 10,
       "artist": "Omar Rudberg"
     },
     {
@@ -71,10 +77,10 @@
       "artist": "Omar Rudberg"
     },
     {
-      "name": "Remember",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 9,
-      "artist": "Omar Rudberg"
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
+      "count": 8,
+      "artist": "Lil Nas X"
     },
     {
       "name": "good 4 u",
@@ -83,15 +89,9 @@
       "artist": "Olivia Rodrigo"
     },
     {
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
-      "count": 7,
-      "artist": "Lil Nas X"
-    },
-    {
       "name": "Revolution",
       "url": "https://www.last.fm/music/Elias/_/Revolution",
-      "count": 6,
+      "count": 7,
       "artist": "Elias"
     },
     {
