@@ -41,34 +41,52 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## Travel & Miscellaneous
 
-- Visit Australia
-- Visit Austria
-- ~~Visit Azores~~ (July 2019)
-- ~~Visit Belgium~~ (February 2018, FOSDEM conference)
-  - ~~twice~~ (January 2019, FOSDEM conference)
-  - ~~thrice~~ (February 2020, Brussels & Antwerp)
-- Visit California, USA
-- ~~Visit Costa Rica~~ (November 2019, San Jose & Peninsula Papagayo)
-- ~~Visit Czech Republic~~ (July 2019, Prague)
-- Visit Denmark
-- ~~Visit England~~ (April 2017, London)
-  - ~~twice~~ (February 2018, London)
-  - ~~thrice~~ (February 2019, London & Cambridge)
-- Visit France
-- ~~Visit Germany~~ (July 2019, Berlin)
-- Visit Greece
-- Visit Iceland
-- Visit Italy
-- Visit Japan
-- Visit Madeira
-- Visit New York, USA
-- ~~Visit Luxembourg~~ (February 2020)
-- ~~Visit Scotland~~ (October 2018, Glasgow)
-- ~~Visit Switzerland~~ (December 2019, Zurich & Mountains)
-- Visit Thailand
-- ~~Visit The Netherlands~~ (February 2020, Amsterdam)
-- Visit Yellowstone National Park, USA
-- Visit some African country
+- Portugal
+  - Born here, visited most district capitals.
+  - ~~Azores~~ (Jul 2019)
+  - Madeira
+- The Netherlands
+  - Living in Eindhoven since Aug 2020
+  - Amsterdam, Utrecht, The Hague, Rotterdam, Den Bosch, Tilburg.
+- Belgium
+  - ~~Brussels~~ (Feb 2018, Jan 2019 FOSDEM conference)
+  - ~~Antwerp~~ (Feb 2020)
+- Czech Republic
+  - ~~Prague~~ (Jul 2019)
+- Germany
+  - ~~Berlin~~ (Jul 2019)
+- Switzerland
+  - ~~Zurich & Some Mountains~~ (Dec 2019)
+- England
+  - ~~London~~ (Apr 2017, Feb 2018, Feb 2019)
+  - ~~Cambridge~~ (Feb 2019)
+- Scotland
+  - ~~Glasgow~~ (Oct 2018)
+  - Edinburgh
+- ~~Luxembourg~~ (Feb 2020)
+- France
+- Austria
+- Denmark
+- Sweden
+- Iceland
+- Austria
+- Finland
+  - Svalbard
+- Greece
+- Italy
+- Australia
+- United States of America
+  - California
+  - New York
+  - Yellowstone National Park
+- Japan
+- South Korea
+- Thailand
+- Costa Rica
+  - ~~Peninsula Papagayo~~ (Nov 2019)
+
+---
+
 - See the Aurora Borealis
 
 ## Life
