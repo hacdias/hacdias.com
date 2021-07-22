@@ -1853,14 +1853,19 @@
   ],
   "series": [
     {
-      "title": "The Handmaid's Tale",
-      "watched": "2021-07-09T20:54:03.000Z",
-      "url": "https://trakt.tv/shows/the-handmaid-s-tale"
+      "title": "Never Have I Ever",
+      "watched": "2021-07-21T14:44:53.000Z",
+      "url": "https://trakt.tv/shows/never-have-i-ever"
     },
     {
       "title": "RuPaul's Drag Race All Stars",
-      "watched": "2021-07-08T06:44:58.000Z",
+      "watched": "2021-07-18T13:57:18.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "watched": "2021-07-15T16:04:13.000Z",
+      "url": "https://trakt.tv/shows/the-handmaid-s-tale"
     },
     {
       "title": "Good Girls",
