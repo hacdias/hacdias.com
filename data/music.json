@@ -2,32 +2,32 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 37,
+      "count": 50,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 28,
+      "count": 24,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "FO&O",
-      "count": 11,
+      "count": 13,
       "url": "https://www.last.fm/music/FO&O"
     },
     {
       "name": "Lil Nas X",
-      "count": 8,
+      "count": 10,
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/Olivia+Rodrigo"
     },
     {
       "name": "Elias",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Elias"
     },
     {
@@ -53,46 +53,52 @@
   ],
   "tracks": [
     {
+      "name": "Remember",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
+      "count": 14,
+      "artist": "Omar Rudberg"
+    },
+    {
       "name": "Hurt Like We Did",
       "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 11,
+      "count": 13,
       "artist": "FO&O"
     },
     {
       "name": "Alla Ba Ouff",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 10,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "Remember",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 10,
+      "count": 12,
       "artist": "Omar Rudberg"
     },
     {
       "name": "It Takes A Fool To Remain Sane",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
-      "count": 9,
+      "count": 11,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Montero (Call Me By Your Name)",
       "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
-      "count": 8,
+      "count": 10,
       "artist": "Lil Nas X"
     },
     {
       "name": "good 4 u",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 8,
+      "count": 9,
       "artist": "Olivia Rodrigo"
     },
     {
       "name": "Revolution",
       "url": "https://www.last.fm/music/Elias/_/Revolution",
-      "count": 7,
+      "count": 8,
       "artist": "Elias"
+    },
+    {
+      "name": "Dum",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
+      "count": 8,
+      "artist": "Omar Rudberg"
     },
     {
       "name": "Torna a casa",
@@ -103,12 +109,6 @@
     {
       "name": "I'm a Ruin",
       "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 6,
-      "artist": "Marina"
-    },
-    {
-      "name": "Savages",
-      "url": "https://www.last.fm/music/Marina/_/Savages",
       "count": 5,
       "artist": "Marina"
     }
