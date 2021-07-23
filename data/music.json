@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 50,
+      "count": 54,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 24,
+      "count": 20,
       "url": "https://www.last.fm/music/Marina"
     },
     {
@@ -16,46 +16,46 @@
       "url": "https://www.last.fm/music/FO&O"
     },
     {
+      "name": "Olivia Rodrigo",
+      "count": 12,
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    {
       "name": "Lil Nas X",
       "count": 10,
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 9,
-      "url": "https://www.last.fm/music/Olivia+Rodrigo"
-    },
-    {
       "name": "Elias",
-      "count": 8,
+      "count": 7,
       "url": "https://www.last.fm/music/Elias"
     },
     {
       "name": "Måneskin",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/M%C3%A5neskin"
     },
     {
-      "name": "Bárbara Tinoco",
-      "count": 4,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
-    },
-    {
-      "name": "Jago Hazzard",
-      "count": 3,
-      "url": "https://www.last.fm/music/Jago+Hazzard"
-    },
-    {
       "name": "London Grammar",
-      "count": 3,
+      "count": 2,
       "url": "https://www.last.fm/music/London+Grammar"
+    },
+    {
+      "name": "Lorde",
+      "count": 2,
+      "url": "https://www.last.fm/music/Lorde"
+    },
+    {
+      "name": "Cycling Compilation",
+      "count": 1,
+      "url": "https://www.last.fm/music/Cycling+Compilation"
     }
   ],
   "tracks": [
     {
       "name": "Remember",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 14,
+      "count": 16,
       "artist": "Omar Rudberg"
     },
     {
@@ -71,12 +71,6 @@
       "artist": "Omar Rudberg"
     },
     {
-      "name": "It Takes A Fool To Remain Sane",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
-      "count": 11,
-      "artist": "Omar Rudberg"
-    },
-    {
       "name": "Montero (Call Me By Your Name)",
       "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
       "count": 10,
@@ -85,31 +79,37 @@
     {
       "name": "good 4 u",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 9,
+      "count": 10,
       "artist": "Olivia Rodrigo"
-    },
-    {
-      "name": "Revolution",
-      "url": "https://www.last.fm/music/Elias/_/Revolution",
-      "count": 8,
-      "artist": "Elias"
     },
     {
       "name": "Dum",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
-      "count": 8,
+      "count": 10,
       "artist": "Omar Rudberg"
+    },
+    {
+      "name": "It Takes A Fool To Remain Sane",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
+      "count": 10,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "Revolution",
+      "url": "https://www.last.fm/music/Elias/_/Revolution",
+      "count": 7,
+      "artist": "Elias"
     },
     {
       "name": "Torna a casa",
       "url": "https://www.last.fm/music/M%C3%A5neskin/_/Torna+a+casa",
-      "count": 6,
+      "count": 5,
       "artist": "Måneskin"
     },
     {
       "name": "I'm a Ruin",
       "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 5,
+      "count": 4,
       "artist": "Marina"
     }
   ]
