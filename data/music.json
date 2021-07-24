@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 54,
+      "count": 55,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 20,
+      "count": 17,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "FO&O",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/FO&O"
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "name": "Elias",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Elias"
     },
     {
       "name": "Måneskin",
-      "count": 5,
+      "count": 4,
       "url": "https://www.last.fm/music/M%C3%A5neskin"
     },
     {
@@ -46,28 +46,34 @@
       "url": "https://www.last.fm/music/Lorde"
     },
     {
-      "name": "Cycling Compilation",
+      "name": "Conan Gray",
       "count": 1,
-      "url": "https://www.last.fm/music/Cycling+Compilation"
+      "url": "https://www.last.fm/music/Conan+Gray"
     }
   ],
   "tracks": [
     {
       "name": "Remember",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 16,
+      "count": 15,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Hurt Like We Did",
       "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 13,
+      "count": 12,
       "artist": "FO&O"
     },
     {
       "name": "Alla Ba Ouff",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
       "count": 12,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "Dum",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
+      "count": 11,
       "artist": "Omar Rudberg"
     },
     {
@@ -83,33 +89,27 @@
       "artist": "Olivia Rodrigo"
     },
     {
-      "name": "Dum",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
-      "count": 10,
-      "artist": "Omar Rudberg"
-    },
-    {
       "name": "It Takes A Fool To Remain Sane",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
-      "count": 10,
+      "count": 9,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Revolution",
       "url": "https://www.last.fm/music/Elias/_/Revolution",
-      "count": 7,
+      "count": 6,
       "artist": "Elias"
     },
     {
       "name": "Torna a casa",
       "url": "https://www.last.fm/music/M%C3%A5neskin/_/Torna+a+casa",
-      "count": 5,
+      "count": 4,
       "artist": "Måneskin"
     },
     {
       "name": "I'm a Ruin",
       "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
-      "count": 4,
+      "count": 3,
       "artist": "Marina"
     }
   ]
