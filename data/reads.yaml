@@ -389,6 +389,10 @@ read:
   name: O Principezinho
   isbn: '9789895401970'
   date: '2021-07-15T18:15:07.057199278Z'
+- author: Fernando Pessoa
+  name: Mensagem
+  isbn: '9789898939531'
+  date: '2021-07-25T18:15:07.057199278Z'
 to-read:
 - author: Harper Lee
   name: To Kill a Mockingbird
@@ -407,8 +411,6 @@ to-read:
 - author: Alex Bellos
   name: 'Alex''s Adventures in Numberland'
   isbn: '9781408809594'
-- author: Fernando Pessoa
-  name: Mensagem
 - author: Fernando Pessoa
   name: O Livro do Desassosego
 - author: Luís de Camões
