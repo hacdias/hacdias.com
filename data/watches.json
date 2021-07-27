@@ -1853,6 +1853,11 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race All Stars",
+      "watched": "2021-07-26T17:53:54.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
+    },
+    {
       "title": "Shadow and Bone",
       "watched": "2021-07-23T18:00:46.000Z",
       "url": "https://trakt.tv/shows/shadow-and-bone"
@@ -1861,11 +1866,6 @@
       "title": "Never Have I Ever",
       "watched": "2021-07-21T14:44:53.000Z",
       "url": "https://trakt.tv/shows/never-have-i-ever"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars",
-      "watched": "2021-07-18T13:57:18.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
     },
     {
       "title": "The Handmaid's Tale",
