@@ -2,52 +2,52 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 69,
+      "count": 61,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 19,
+      "count": 25,
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 14,
-      "url": "https://www.last.fm/music/Olivia+Rodrigo"
-    },
-    {
       "name": "FO&O",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/FO&O"
     },
     {
-      "name": "Lil Nas X",
+      "name": "Olivia Rodrigo",
       "count": 12,
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    {
+      "name": "Lil Nas X",
+      "count": 10,
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
-      "name": "Elias",
-      "count": 7,
-      "url": "https://www.last.fm/music/Elias"
-    },
-    {
       "name": "Conan Gray",
-      "count": 6,
+      "count": 9,
       "url": "https://www.last.fm/music/Conan+Gray"
     },
     {
+      "name": "Elias",
+      "count": 6,
+      "url": "https://www.last.fm/music/Elias"
+    },
+    {
       "name": "Måneskin",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/M%C3%A5neskin"
     },
     {
-      "name": "Lady Gaga",
-      "count": 2,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "name": "Camila Cabello",
+      "count": 5,
+      "url": "https://www.last.fm/music/Camila+Cabello"
     },
     {
       "name": "London Grammar",
-      "count": 2,
+      "count": 4,
       "url": "https://www.last.fm/music/London+Grammar"
     }
   ],
@@ -55,62 +55,62 @@
     {
       "name": "Dum",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
-      "count": 16,
+      "count": 15,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Remember",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 16,
+      "count": 15,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Hurt Like We Did",
       "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 13,
+      "count": 12,
       "artist": "FO&O"
     },
     {
-      "name": "Alla Ba Ouff",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 13,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name)",
-      "count": 12,
+      "name": "MONTERO (Call Me by Your Name)",
+      "url": "https://www.last.fm/music/Lil+Nas+X/_/MONTERO+(Call+Me+by+Your+Name)",
+      "count": 10,
       "artist": "Lil Nas X"
     },
     {
       "name": "good 4 u",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 12,
+      "count": 10,
       "artist": "Olivia Rodrigo"
     },
     {
-      "name": "It Takes A Fool To Remain Sane",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
-      "count": 11,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "Revolution",
-      "url": "https://www.last.fm/music/Elias/_/Revolution",
-      "count": 7,
-      "artist": "Elias"
-    },
-    {
-      "name": "La Mesa",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
-      "count": 7,
+      "name": "Alla Ba Ouff",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
+      "count": 10,
       "artist": "Omar Rudberg"
     },
     {
       "name": "People Watching",
       "url": "https://www.last.fm/music/Conan+Gray/_/People+Watching",
-      "count": 6,
+      "count": 9,
       "artist": "Conan Gray"
+    },
+    {
+      "name": "It Takes A Fool To Remain Sane",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
+      "count": 9,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "La Mesa",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
+      "count": 9,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "Revolution",
+      "url": "https://www.last.fm/music/Elias/_/Revolution",
+      "count": 6,
+      "artist": "Elias"
     }
   ]
 }
