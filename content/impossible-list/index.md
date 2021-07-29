@@ -1,7 +1,7 @@
 ---
 title: Impossible List
 date: 2020-07-15T00:00:00Z
-lastmod: 2021-07-29T19:49:10.43837492Z
+lastmod: 2021-07-29T21:25:50.148184492Z
 noMentions: true
 ---
 
@@ -25,16 +25,15 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## Professional / Education
 
+- ~~Write a self-published book~~  (February 2015, [link](/articles/2015/02/aprenda-a-programar/))
+- ~~Give a talk~~ (November 2019, [link](/articles/2019/12/quick-dive-into-dweb-ipfs/))
+- ~~Become proficient in a second language~~ (September 2019, English C1)
 - ~~Finish my bachelor's degree~~ (July 2020)
 - Finish my master's degree
-- ~~Give a talk~~ (November 2019, [link](/articles/2019/12/quick-dive-into-dweb-ipfs/))
 - Give a talk to more than 100 people
-- ~~Write a self-published book~~  (February 2015, [link](/articles/2015/02/aprenda-a-programar/))
 - Write a fiction book
 - Write a non-fiction book
 - Learn to play an instrument
-- ~~Become proficient in a second language~~ (September 2019, English C1)
-- ~~Become fluent in English~~
 - Become proficient and/or fluent in a third language
   - Dutch?
 - Learn a new sport
