@@ -39,54 +39,9 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - Dutch?
 - Learn a new sport
 
-## Travel & Miscellaneous
+## Travel
 
-- Portugal
-  - Born here, visited most district capitals.
-  - ~~Azores~~ (Jul 2019)
-  - Madeira
-- The Netherlands
-  - Living in Eindhoven since Aug 2020
-  - Amsterdam, Utrecht, The Hague, Rotterdam, Den Bosch, Tilburg.
-- Belgium
-  - ~~Brussels~~ (Feb 2018, Jan 2019 FOSDEM conference)
-  - ~~Antwerp~~ (Feb 2020)
-- Czech Republic
-  - ~~Prague~~ (Jul 2019)
-- Germany
-  - ~~Berlin~~ (Jul 2019)
-- Switzerland
-  - ~~Zurich & Some Mountains~~ (Dec 2019)
-- England
-  - ~~London~~ (Apr 2017, Feb 2018, Feb 2019)
-  - ~~Cambridge~~ (Feb 2019)
-- Scotland
-  - ~~Glasgow~~ (Oct 2018)
-  - Edinburgh
-- ~~Luxembourg~~ (Feb 2020)
-- France
-- Austria
-- Denmark
-- Sweden
-- Iceland
-- Finland
-  - Svalbard
-- Greece
-- Italy
-- Australia
-- United States of America
-  - California
-  - New York
-  - Yellowstone National Park
-- Japan
-- South Korea
-- Thailand
-- Costa Rica
-  - ~~Peninsula Papagayo~~ (Nov 2019)
-
----
-
-- See the Aurora Borealis
+{{< trips >}}
 
 ## Life
 
@@ -96,6 +51,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - ~~Make my parents fly~~ (July 2019)
 - ~~Study abroad on Master's~~ (September 2020)
 - Interrail
+- See the Aurora Borealis
 
 ## Random
 

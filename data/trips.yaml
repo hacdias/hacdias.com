@@ -1,0 +1,100 @@
+- name: Portugal
+  flag: 🇵🇹
+  visited: true
+- name: Azores (Portugal)
+  flag: 🇵🇹
+  visited: true
+  year: 2019
+  notes: >
+    Visited São Miguel in July 2019.
+- name: Madeira (Portugal)
+  flag: 🇵🇹
+- name: Netherlands
+  flag: 🇳🇱
+  visited: true
+  notes: >
+    Visited Amsterdam in February 2020.
+    Moved to Eindhoven in August 2020.
+    Visited Utrecht, The Hague, Rotterdam, Den Bosch, Tilburg, etc.
+- name: Spain
+  flag: 🇪🇸
+- name: France
+  flag: 🇫🇷
+- name: Austria
+  flag: 🇦🇹
+- name: Denmark
+  flag: 🇩🇰
+- name: Sweden
+  flag: 🇸🇪
+- name: Iceland
+  flag: 🇮🇸
+- name: Japan
+  flag: 🇯🇵
+- name: Thailand
+  flag: 🇹🇭
+- name: South Korea
+  flag: 🇰🇷
+- name: Greece
+  flag: 🇬🇷
+- name: Italy
+  flag: 🇮🇹
+- name: Australia
+  flag: 🇦🇺
+- name: Finland
+  flag: 🇫🇮
+- name: Svalbard (Finland)
+  flag: 🇫🇮
+- name: United States of America
+  flag: 🇺🇸
+  notes: >
+    Want to visit California, New York and Yellowstone.
+- name: Luxembourg
+  flag: 🇱🇺
+  visited: true
+  year: 2020
+  notes: >
+    Luxembourg city on February 2020.
+- name: Belgium
+  flag: 🇧🇪
+  visited: true
+  year: 2020
+  notes: >
+    Brussels in February 2018, January 2019 for FOSDEM.
+    Brussels and Antwerp in February 2020.
+- name: Czech Republic
+  flag: 🇨🇿
+  visited: true
+  year: 2019
+  notes: >
+    Prague in July 2019.
+- name: Germany
+  flag: 🇩🇪
+  visited: true
+  year: 2019
+  notes: >
+    Berlin in July 2019.
+- name: Switzerland
+  flag: 🇨🇭
+  visited: true
+  year: 2019
+  notes: >
+    Zurich and Alps in December 2019.
+- name: England
+  flag: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+  visited: true
+  year: 2019
+  notes: >
+    London in April 2019 and February 2018.
+    London and Cambridge in February 2019.
+- name: Scotland
+  flag: 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+  visited: true
+  year: 2018
+  notes: >
+    Glasgow in October 2018.
+- name: Costa Rica
+  flag: 🇨🇷
+  visited: true
+  year: 2019
+  notes: >
+    Peninsula Papagayo in November 2019.
