@@ -16,7 +16,7 @@ emoji: "\U0001F3AC"
 
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of
 posts, but from the data that I get directly from Trakt's [API](https://trakt.docs.apiary.io/).
-I built a small tool called [`trakt-collector`](https://github.com/hacdias/trakt-collector) used
+I built a small tool called [`trakt-collector`](https://github.com/hacdias/silos-collector/tree/a7aef3a1bf6693361eec147380b55dccc2ffe1c5/src/trakt) used
 to collect your history and save it in JSON format.
 
 The Trakt API gives you so much information about every episode and every movie: from the title,

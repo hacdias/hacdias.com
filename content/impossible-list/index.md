@@ -1,7 +1,7 @@
 ---
 title: Impossible List
 date: 2020-07-15T00:00:00Z
-lastmod: 2021-05-04T08:03:00.825964882Z
+lastmod: 2021-07-29T19:49:10.43837492Z
 noMentions: true
 ---
 
@@ -69,7 +69,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Denmark
 - Sweden
 - Iceland
-- Austria
 - Finland
   - Svalbard
 - Greece
