@@ -30,14 +30,14 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   <div>
 
   **Been**
-  {{< trips-been >}} 
+  {{< trips type="been" >}} 
 
   </div>
 
   <div>
 
   **Bucket List**
-  {{< trips-bucket >}}
+  {{< trips type="bucket" >}} 
 
   </div>
 </div>

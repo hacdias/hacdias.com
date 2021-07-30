@@ -5,7 +5,6 @@ been:
     Home country.
 - name: Azores (Portugal)
   flag: 🇵🇹
-  year: 2019
   notes: >
     Visited São Miguel in July 2019.
 - name: Netherlands
@@ -16,44 +15,36 @@ been:
     Visited Utrecht, The Hague, Rotterdam, Den Bosch, Tilburg, etc.
 - name: Luxembourg
   flag: 🇱🇺
-  year: 2020
   notes: >
     Luxembourg city on February 2020.
 - name: Belgium
   flag: 🇧🇪
-  year: 2020
   notes: >
     Brussels in February 2018, January 2019 for FOSDEM.
     Brussels and Antwerp in February 2020.
 - name: Czech Republic
   flag: 🇨🇿
-  year: 2019
   notes: >
     Prague in July 2019.
 - name: Germany
   flag: 🇩🇪
-  year: 2019
   notes: >
     Berlin in July 2019.
 - name: Switzerland
   flag: 🇨🇭
-  year: 2019
   notes: >
     Zurich and Alps in December 2019.
 - name: England
   flag: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-  year: 2019
   notes: >
     London in April 2019 and February 2018.
     London and Cambridge in February 2019.
 - name: Scotland
   flag: 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-  year: 2018
   notes: >
     Glasgow in October 2018.
 - name: Costa Rica
   flag: 🇨🇷
-  year: 2019
   notes: >
     Peninsula Papagayo in November 2019.
 bucket:

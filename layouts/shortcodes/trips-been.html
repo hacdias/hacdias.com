@@ -1,7 +1,0 @@
-{{ $trips := sort .Site.Data.trips.been "name" "asc" }}
-
-<ul>
-  {{ range $i, $trip := $trips }}
-    <li>{{ .flag }} {{ .name }}{{ with .year}} <small>last visited in {{ . }}</small>{{ end }}</li>
-  {{ end }}
-</ul>
