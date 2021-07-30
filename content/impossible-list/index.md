@@ -5,20 +5,6 @@ lastmod: 2021-07-29T21:25:50.148184492Z
 noMentions: true
 ---
 
-<style>
-:root {
-  --action: #3aaca9;
-}
-
-@media screen and (min-width: 38rem) {
-  body {
-    background: #3aaca9 url(tigers.jpg);
-    background-size: 1000px;
-    background-attachment: fixed;
-  }
-}
-</style>
-
 This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It is kind of a bucket list, but with a twist. Here's the best explanation I found:
 
 > Put simply, the impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. This is mine, which is, of course, ever-evolving. - Thomas Frank
@@ -40,7 +26,21 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## Travel
 
-{{< trips >}}
+<div class="trips">
+  <div>
+
+  **Been**
+  {{< trips-been >}} 
+
+  </div>
+
+  <div>
+
+  **Bucket List**
+  {{< trips-bucket >}}
+
+  </div>
+</div>
 
 ## Life
 

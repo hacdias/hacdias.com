@@ -1,0 +1,7 @@
+{{ $trips := sort .Site.Data.trips.bucket "name" "asc" }}
+
+<ul>
+  {{ range $i, $trip := $trips }}
+    <li>{{ .flag }} {{ .name }}</li>
+  {{ end }}
+</ul>
