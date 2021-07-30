@@ -2,33 +2,28 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 52,
+      "count": 54,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 25,
+      "count": 33,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Conan Gray",
-      "count": 11,
+      "count": 14,
       "url": "https://www.last.fm/music/Conan+Gray"
     },
     {
-      "name": "FO&O",
-      "count": 10,
-      "url": "https://www.last.fm/music/FO&O"
-    },
-    {
-      "name": "Olivia Rodrigo",
-      "count": 10,
-      "url": "https://www.last.fm/music/Olivia+Rodrigo"
-    },
-    {
       "name": "Camila Cabello",
-      "count": 8,
+      "count": 11,
       "url": "https://www.last.fm/music/Camila+Cabello"
+    },
+    {
+      "name": "FO&O",
+      "count": 11,
+      "url": "https://www.last.fm/music/FO&O"
     },
     {
       "name": "Lil Nas X",
@@ -36,22 +31,39 @@
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
+      "name": "Selena Gomez",
+      "count": 8,
+      "url": "https://www.last.fm/music/Selena+Gomez"
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 7,
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    {
       "name": "Elias",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/Elias"
     },
     {
       "name": "Måneskin",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/M%C3%A5neskin"
-    },
-    {
-      "name": "Selena Gomez",
-      "count": 5,
-      "url": "https://www.last.fm/music/Selena+Gomez"
     }
   ],
   "tracks": [
+    {
+      "name": "People Watching",
+      "url": "https://www.last.fm/music/Conan+Gray/_/People+Watching",
+      "count": 14,
+      "artist": "Conan Gray"
+    },
+    {
+      "name": "La Mesa",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
+      "count": 13,
+      "artist": "Omar Rudberg"
+    },
     {
       "name": "Remember",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
@@ -65,16 +77,10 @@
       "artist": "Omar Rudberg"
     },
     {
-      "name": "People Watching",
-      "url": "https://www.last.fm/music/Conan+Gray/_/People+Watching",
+      "name": "Never Be the Same",
+      "url": "https://www.last.fm/music/Camila+Cabello/_/Never+Be+the+Same",
       "count": 11,
-      "artist": "Conan Gray"
-    },
-    {
-      "name": "La Mesa",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
-      "count": 11,
-      "artist": "Omar Rudberg"
+      "artist": "Camila Cabello"
     },
     {
       "name": "Hurt Like We Did",
@@ -83,33 +89,27 @@
       "artist": "FO&O"
     },
     {
-      "name": "Never Be the Same",
-      "url": "https://www.last.fm/music/Camila+Cabello/_/Never+Be+the+Same",
-      "count": 8,
-      "artist": "Camila Cabello"
-    },
-    {
       "name": "MONTERO (Call Me by Your Name)",
       "url": "https://www.last.fm/music/Lil+Nas+X/_/MONTERO+(Call+Me+by+Your+Name)",
       "count": 8,
       "artist": "Lil Nas X"
     },
     {
+      "name": "The Heart Wants What It Wants",
+      "url": "https://www.last.fm/music/Selena+Gomez/_/The+Heart+Wants+What+It+Wants",
+      "count": 8,
+      "artist": "Selena Gomez"
+    },
+    {
       "name": "good 4 u",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 8,
+      "count": 7,
       "artist": "Olivia Rodrigo"
     },
     {
       "name": "Alla Ba Ouff",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 8,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "It Takes A Fool To Remain Sane",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/It+Takes+A+Fool+To+Remain+Sane",
-      "count": 6,
+      "count": 7,
       "artist": "Omar Rudberg"
     }
   ]
