@@ -393,30 +393,33 @@ read:
   name: Mensagem
   isbn: '9789898939531'
   date: '2021-07-25T18:15:07.057199278Z'
-to-read:
-- author: Harper Lee
-  name: To Kill a Mockingbird
+own-not-read:
 - author: Becky Albertalli
   name: Simon vs. the Homo Sapiens Agenda
   isbn: '9780062348678'
 - author: André Aciman
   name: Find Me
   isbn: '9780374155018'
-- author: José Saramago
-  name: O Ano da Morte de Ricardo Reis
-  isbn: '9789720048820'
+- author: Luís de Camões
+  name: Os Lusíadas
 - author: Eça de Queirós
   name: O Crime do Padre Amaro
   isbn: '9789720049636'
 - author: Alex Bellos
   name: 'Alex''s Adventures in Numberland'
   isbn: '9781408809594'
+to-read:
+- author: Harper Lee
+  name: To Kill a Mockingbird
+- author: José Saramago
+  name: O Ano da Morte de Ricardo Reis
+  isbn: '9789720048820'
 - author: Fernando Pessoa
   name: O Livro do Desassosego
-- author: Luís de Camões
-  name: Os Lusíadas
 - author: Miguel Sousa Tavares
   name: Equador
+- author: Mikhail Bulgakov
+  name: The Master and Margarita
 currently-reading:
 - author: Roberto Vitillo
   name: Understanding Distributed Systems
