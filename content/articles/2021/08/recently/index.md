@@ -1,6 +1,6 @@
 ---
-title: Recently
-description: "August is coming."
+title: Recently in July '21
+description: August is coming.
 tags:
 - recently
 date: 2021-08-01T07:37:52.811583889Z

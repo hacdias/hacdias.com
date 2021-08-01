@@ -1,5 +1,5 @@
 ---
-title: Recently
+title: Recently in November '20
 description: |
   A small update.
 tags:

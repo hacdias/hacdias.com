@@ -1,6 +1,6 @@
 ---
-title: Recently
-description: "First year of master's finished."
+title: Recently in June '21
+description: First year of master's finished.
 tags:
 - recently
 date: 2021-07-01T08:10:59.168283855Z

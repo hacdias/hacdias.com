@@ -1,5 +1,5 @@
 ---
-title: 'Recently: 2020 Edition'
+title: Recently in December '20
 description: |
   That time of the year has come. It ended and the last digit of the
   year went up. 2020 was a different year to say the least.
