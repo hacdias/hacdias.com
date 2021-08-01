@@ -3,7 +3,7 @@ title: Recently
 description: "August is coming."
 tags:
 - recently
-date: 2021-08-01T08:30:00.168283855Z
+date: 2021-08-01T07:37:52.811583889Z
 aliases:
 - /now/
 ---
