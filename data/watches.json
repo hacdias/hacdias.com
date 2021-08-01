@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Black Widow",
+      "watched": "2021-07-31T20:25:51.000Z",
+      "url": "https://trakt.tv/movies/black-widow-2021"
+    },
+    {
       "title": "Good on Paper",
       "watched": "2021-06-30T11:50:15.000Z",
       "url": "https://trakt.tv/movies/good-on-paper-2021"
@@ -1852,6 +1857,11 @@
     }
   ],
   "series": [
+    {
+      "title": "Marvel's Iron Fist",
+      "watched": "2021-07-31T20:42:00.000Z",
+      "url": "https://trakt.tv/shows/marvel-s-iron-fist"
+    },
     {
       "title": "RuPaul's Drag Race All Stars",
       "watched": "2021-07-26T17:53:54.000Z",
