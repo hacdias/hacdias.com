@@ -1858,14 +1858,14 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race All Stars",
+      "watched": "2021-08-01T08:51:25.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
+    },
+    {
       "title": "Marvel's Iron Fist",
       "watched": "2021-07-31T20:42:00.000Z",
       "url": "https://trakt.tv/shows/marvel-s-iron-fist"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars",
-      "watched": "2021-07-26T17:53:54.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
     },
     {
       "title": "Shadow and Bone",
