@@ -9,21 +9,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 > Put simply, the impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. This is mine, which is, of course, ever-evolving. - Thomas Frank
 
-## Professional / Education
-
-- ~~Write a self-published book~~  (February 2015, [link](/articles/2015/02/aprenda-a-programar/))
-- ~~Give a talk~~ (November 2019, [link](/articles/2019/12/quick-dive-into-dweb-ipfs/))
-- ~~Become proficient in a second language~~ (September 2019, English C1)
-- ~~Finish my bachelor's degree~~ (July 2020)
-- Finish my master's degree
-- Give a talk to more than 100 people
-- Write a fiction book
-- Write a non-fiction book
-- Learn to play an instrument
-- Become proficient and/or fluent in a third language
-  - Dutch?
-- Learn a new sport
-
 ## Travel
 
 <div class="trips">
@@ -42,13 +27,28 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   </div>
 </div>
 
+## Professional / Education
+
+- ~~Write a self-published book~~ <small>[February 2015] [[link](/downloads/aprenda_a_programar.pdf)]</small>
+- ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
+- ~~Become proficient in a second language, English~~ <small>[September 2019]</small>
+- ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
+- Finish my master's degree
+- Give a talk to more than 100 people
+- Write a fiction book
+- Write a non-fiction book
+- Learn to play an instrument
+- Become proficient and/or fluent in a third language
+  - Dutch?
+- Learn a new sport
+
 ## Life
 
-- ~~Start studying Computer Science~~ (September 2017)
-- ~~Live abroad for more than 4 months~~ (January 2021)
+- ~~Start studying Computer Science~~ <small>[September 2017]</small>
+- ~~Make my parents fly~~ <small>[July 2019]</small>
+- ~~Study abroad on Master's~~ <small>[September 2020]</small>
+- ~~Live abroad for more than 4 months~~ <small>[January 2021]</small>
 - Help people by volunteering more
-- ~~Make my parents fly~~ (July 2019)
-- ~~Study abroad on Master's~~ (September 2020)
 - Interrail
 - See the Aurora Borealis
 
