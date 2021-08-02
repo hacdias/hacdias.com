@@ -28,7 +28,7 @@ Other relevant platforms where I am are:
 - 🐙 [GitHub (@hacdias)](https://github.com/hacdias)
 - 📷 [Instagram (@hacdias)](https://instagram.com/hacdias)
 - 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
-- 💼 [LinkedIn](https://linkedin.com/in/hacdias)
+- 💼 [LinkedIn (@hacdias)](https://linkedin.com/in/hacdias)
 
 #### 🗝 PGP
 
