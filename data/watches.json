@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Resort to Love",
+      "watched": "2021-08-02T10:33:10.000Z",
+      "url": "https://trakt.tv/movies/resort-to-love-2021"
+    },
+    {
       "title": "Black Widow",
       "watched": "2021-07-31T20:25:51.000Z",
       "url": "https://trakt.tv/movies/black-widow-2021"
