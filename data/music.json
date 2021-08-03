@@ -2,32 +2,32 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 43,
+      "count": 40,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 29,
+      "count": 18,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Camila Cabello",
-      "count": 17,
+      "count": 14,
       "url": "https://www.last.fm/music/Camila+Cabello"
     },
     {
       "name": "Selena Gomez",
-      "count": 15,
+      "count": 14,
       "url": "https://www.last.fm/music/Selena+Gomez"
     },
     {
       "name": "Conan Gray",
-      "count": 14,
+      "count": 12,
       "url": "https://www.last.fm/music/Conan+Gray"
     },
     {
       "name": "Agnes",
-      "count": 8,
+      "count": 11,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
@@ -46,46 +46,46 @@
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
-      "name": "Elias",
+      "name": "Olivia Rodrigo",
       "count": 5,
-      "url": "https://www.last.fm/music/Elias"
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
     }
   ],
   "tracks": [
     {
       "name": "Never Be the Same",
       "url": "https://www.last.fm/music/Camila+Cabello/_/Never+Be+the+Same",
-      "count": 17,
+      "count": 14,
       "artist": "Camila Cabello"
     },
     {
       "name": "The Heart Wants What It Wants",
       "url": "https://www.last.fm/music/Selena+Gomez/_/The+Heart+Wants+What+It+Wants",
-      "count": 15,
+      "count": 14,
       "artist": "Selena Gomez"
     },
     {
       "name": "People Watching",
       "url": "https://www.last.fm/music/Conan+Gray/_/People+Watching",
-      "count": 14,
+      "count": 12,
       "artist": "Conan Gray"
     },
     {
       "name": "La Mesa",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
-      "count": 13,
+      "count": 12,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Dum",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
-      "count": 10,
+      "count": 9,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Remember",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 9,
+      "count": 8,
       "artist": "Omar Rudberg"
     },
     {
@@ -107,10 +107,10 @@
       "artist": "Omar Rudberg"
     },
     {
-      "name": "Revolution",
-      "url": "https://www.last.fm/music/Elias/_/Revolution",
+      "name": "good 4 u",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
       "count": 5,
-      "artist": "Elias"
+      "artist": "Olivia Rodrigo"
     }
   ]
 }
