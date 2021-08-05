@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 37,
+      "count": 38,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 18,
+      "count": 29,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Agnes",
-      "count": 15,
+      "count": 21,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/Olivia+Rodrigo"
     }
   ],
@@ -83,10 +83,10 @@
       "artist": "Omar Rudberg"
     },
     {
-      "name": "Remember",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 7,
-      "artist": "Omar Rudberg"
+      "name": "24 Hours",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
+      "count": 6,
+      "artist": "Agnes"
     },
     {
       "name": "Hurt Like We Did",
@@ -101,16 +101,16 @@
       "artist": "Lil Nas X"
     },
     {
+      "name": "good 4 u",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
+      "count": 6,
+      "artist": "Olivia Rodrigo"
+    },
+    {
       "name": "Alla Ba Ouff",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
       "count": 6,
       "artist": "Omar Rudberg"
-    },
-    {
-      "name": "good 4 u",
-      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 5,
-      "artist": "Olivia Rodrigo"
     }
   ]
 }
