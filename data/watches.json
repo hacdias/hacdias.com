@@ -1863,6 +1863,11 @@
   ],
   "series": [
     {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-08-03T07:00:00.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "RuPaul's Drag Race All Stars",
       "watched": "2021-08-01T08:51:25.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
@@ -1916,11 +1921,6 @@
       "title": "Elite",
       "watched": "2021-06-20T21:16:40.000Z",
       "url": "https://trakt.tv/shows/elite"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2021-06-17T17:09:36.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "The Good Doctor",
