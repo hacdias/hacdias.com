@@ -56,11 +56,6 @@
       "title": "Chris Wiegman"
     },
     {
-      "feed": "https://christine.website/blog.json",
-      "site": "https://christine.website",
-      "title": "Christine Dodrill"
-    },
-    {
       "feed": "https://codersblock.com/rss.xml",
       "site": "https://codersblock.com",
       "title": "Coder's Block"
@@ -249,6 +244,11 @@
       "feed": "https://vmx.cx/cgi-bin/blog/index.cgi/feed/",
       "site": "http://vmx.cx/cgi-bin/blog/index.cgi",
       "title": "Volker Mische"
+    },
+    {
+      "feed": "https://christine.website/blog.json",
+      "site": "https://christine.website",
+      "title": "Xe"
     },
     {
       "feed": "https://zalberico.com/feed.xml",
