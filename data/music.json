@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 69,
+      "count": 65,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Omar Rudberg",
-      "count": 37,
+      "count": 33,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
@@ -16,34 +16,34 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Selena Gomez",
-      "count": 9,
-      "url": "https://www.last.fm/music/Selena+Gomez"
-    },
-    {
-      "name": "Camila Cabello",
-      "count": 8,
-      "url": "https://www.last.fm/music/Camila+Cabello"
-    },
-    {
-      "name": "Conan Gray",
-      "count": 7,
-      "url": "https://www.last.fm/music/Conan+Gray"
+      "name": "FO&O",
+      "count": 6,
+      "url": "https://www.last.fm/music/FO&O"
     },
     {
       "name": "Lil Nas X",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Olivia+Rodrigo"
     },
     {
-      "name": "FO&O",
+      "name": "Selena Gomez",
       "count": 6,
-      "url": "https://www.last.fm/music/FO&O"
+      "url": "https://www.last.fm/music/Selena+Gomez"
+    },
+    {
+      "name": "Camila Cabello",
+      "count": 5,
+      "url": "https://www.last.fm/music/Camila+Cabello"
+    },
+    {
+      "name": "Conan Gray",
+      "count": 5,
+      "url": "https://www.last.fm/music/Conan+Gray"
     },
     {
       "name": "Elias",
@@ -55,7 +55,7 @@
     {
       "name": "Fingers Crossed",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
-      "count": 17,
+      "count": 18,
       "artist": "Agnes"
     },
     {
@@ -67,26 +67,8 @@
     {
       "name": "Release Me",
       "url": "https://www.last.fm/music/Agnes/_/Release+Me",
-      "count": 11,
-      "artist": "Agnes"
-    },
-    {
-      "name": "The Heart Wants What It Wants",
-      "url": "https://www.last.fm/music/Selena+Gomez/_/The+Heart+Wants+What+It+Wants",
       "count": 9,
-      "artist": "Selena Gomez"
-    },
-    {
-      "name": "Never Be the Same",
-      "url": "https://www.last.fm/music/Camila+Cabello/_/Never+Be+the+Same",
-      "count": 8,
-      "artist": "Camila Cabello"
-    },
-    {
-      "name": "La Mesa",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
-      "count": 8,
-      "artist": "Omar Rudberg"
+      "artist": "Agnes"
     },
     {
       "name": "Goodlife",
@@ -95,22 +77,40 @@
       "artist": "Agnes"
     },
     {
-      "name": "People Watching",
-      "url": "https://www.last.fm/music/Conan+Gray/_/People+Watching",
-      "count": 7,
-      "artist": "Conan Gray"
+      "name": "Hurt Like We Did",
+      "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
+      "count": 6,
+      "artist": "FO&O"
     },
     {
       "name": "MONTERO (Call Me by Your Name)",
       "url": "https://www.last.fm/music/Lil+Nas+X/_/MONTERO+(Call+Me+by+Your+Name)",
-      "count": 7,
+      "count": 6,
       "artist": "Lil Nas X"
     },
     {
       "name": "good 4 u",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 7,
+      "count": 6,
       "artist": "Olivia Rodrigo"
+    },
+    {
+      "name": "Alla Ba Ouff",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
+      "count": 6,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "Dum",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
+      "count": 6,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "La Mesa",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
+      "count": 6,
+      "artist": "Omar Rudberg"
     }
   ]
 }
