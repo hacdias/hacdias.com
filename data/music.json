@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 65,
+      "count": 75,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Omar Rudberg",
-      "count": 33,
+      "count": 29,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
@@ -17,32 +17,32 @@
     },
     {
       "name": "FO&O",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/FO&O"
     },
     {
       "name": "Lil Nas X",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Olivia+Rodrigo"
     },
     {
       "name": "Selena Gomez",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Selena+Gomez"
     },
     {
       "name": "Camila Cabello",
-      "count": 5,
+      "count": 4,
       "url": "https://www.last.fm/music/Camila+Cabello"
     },
     {
       "name": "Conan Gray",
-      "count": 5,
+      "count": 4,
       "url": "https://www.last.fm/music/Conan+Gray"
     },
     {
@@ -55,7 +55,7 @@
     {
       "name": "Fingers Crossed",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
-      "count": 18,
+      "count": 19,
       "artist": "Agnes"
     },
     {
@@ -67,49 +67,49 @@
     {
       "name": "Release Me",
       "url": "https://www.last.fm/music/Agnes/_/Release+Me",
-      "count": 9,
+      "count": 10,
       "artist": "Agnes"
     },
     {
       "name": "Goodlife",
       "url": "https://www.last.fm/music/Agnes/_/Goodlife",
-      "count": 7,
+      "count": 8,
+      "artist": "Agnes"
+    },
+    {
+      "name": "24 Hours (Live)",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours+(Live)",
+      "count": 5,
       "artist": "Agnes"
     },
     {
       "name": "Hurt Like We Did",
       "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 6,
+      "count": 5,
       "artist": "FO&O"
     },
     {
       "name": "MONTERO (Call Me by Your Name)",
       "url": "https://www.last.fm/music/Lil+Nas+X/_/MONTERO+(Call+Me+by+Your+Name)",
-      "count": 6,
+      "count": 5,
       "artist": "Lil Nas X"
     },
     {
       "name": "good 4 u",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 6,
+      "count": 5,
       "artist": "Olivia Rodrigo"
     },
     {
       "name": "Alla Ba Ouff",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 6,
+      "count": 5,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Dum",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
-      "count": 6,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "La Mesa",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
-      "count": 6,
+      "count": 5,
       "artist": "Omar Rudberg"
     }
   ]
