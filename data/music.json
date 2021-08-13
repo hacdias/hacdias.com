@@ -2,115 +2,115 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 77,
+      "count": 50,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Omar Rudberg",
-      "count": 32,
+      "count": 20,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 21,
+      "count": 16,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Conan Gray",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Conan+Gray"
     },
     {
-      "name": "Selena Gomez",
-      "count": 6,
-      "url": "https://www.last.fm/music/Selena+Gomez"
-    },
-    {
       "name": "Camila Cabello",
-      "count": 5,
+      "count": 4,
       "url": "https://www.last.fm/music/Camila+Cabello"
     },
     {
+      "name": "Lady Gaga",
+      "count": 4,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Selena Gomez",
+      "count": 4,
+      "url": "https://www.last.fm/music/Selena+Gomez"
+    },
+    {
+      "name": "Britney Spears",
+      "count": 3,
+      "url": "https://www.last.fm/music/Britney+Spears"
+    },
+    {
+      "name": "Demi Lovato",
+      "count": 3,
+      "url": "https://www.last.fm/music/Demi+Lovato"
+    },
+    {
       "name": "Elias",
-      "count": 5,
+      "count": 3,
       "url": "https://www.last.fm/music/Elias"
-    },
-    {
-      "name": "FO&O",
-      "count": 5,
-      "url": "https://www.last.fm/music/FO&O"
-    },
-    {
-      "name": "Lil Nas X",
-      "count": 5,
-      "url": "https://www.last.fm/music/Lil+Nas+X"
-    },
-    {
-      "name": "Olivia Rodrigo",
-      "count": 5,
-      "url": "https://www.last.fm/music/Olivia+Rodrigo"
     }
   ],
   "tracks": [
     {
       "name": "Fingers Crossed",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
-      "count": 19,
+      "count": 14,
       "artist": "Agnes"
     },
     {
       "name": "24 Hours",
       "url": "https://www.last.fm/music/Agnes/_/24+Hours",
-      "count": 14,
+      "count": 10,
       "artist": "Agnes"
     },
     {
       "name": "Goodlife",
       "url": "https://www.last.fm/music/Agnes/_/Goodlife",
-      "count": 10,
+      "count": 7,
       "artist": "Agnes"
     },
     {
       "name": "Release Me",
       "url": "https://www.last.fm/music/Agnes/_/Release+Me",
-      "count": 9,
+      "count": 6,
       "artist": "Agnes"
+    },
+    {
+      "name": "24 Hours (Live)",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours+(Live)",
+      "count": 4,
+      "artist": "Agnes"
+    },
+    {
+      "name": "Never Be the Same",
+      "url": "https://www.last.fm/music/Camila+Cabello/_/Never+Be+the+Same",
+      "count": 4,
+      "artist": "Camila Cabello"
+    },
+    {
+      "name": "People Watching",
+      "url": "https://www.last.fm/music/Conan+Gray/_/People+Watching",
+      "count": 4,
+      "artist": "Conan Gray"
     },
     {
       "name": "Alla Ba Ouff",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 6,
+      "count": 4,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Dum",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
-      "count": 6,
+      "count": 4,
       "artist": "Omar Rudberg"
     },
     {
       "name": "La Mesa",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
-      "count": 6,
+      "count": 4,
       "artist": "Omar Rudberg"
-    },
-    {
-      "name": "Remember",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Remember",
-      "count": 6,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "The Heart Wants What It Wants",
-      "url": "https://www.last.fm/music/Selena+Gomez/_/The+Heart+Wants+What+It+Wants",
-      "count": 6,
-      "artist": "Selena Gomez"
-    },
-    {
-      "name": "24 Hours (Live)",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours+(Live)",
-      "count": 5,
-      "artist": "Agnes"
     }
   ]
 }
