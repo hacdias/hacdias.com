@@ -393,6 +393,9 @@ read:
   name: Mensagem
   isbn: '9789898939531'
   date: '2021-07-25T18:15:07.057199278Z'
+- author: Roberto Vitillo
+  name: Understanding Distributed Systems
+  tags: [technical]
 own-not-read:
 - author: Becky Albertalli
   name: Simon vs. the Homo Sapiens Agenda
@@ -418,9 +421,7 @@ to-read:
   name: O Livro do Desassosego
 - author: Miguel Sousa Tavares
   name: Equador
+currently-reading:
 - author: Mikhail Bulgakov
   name: The Master and Margarita
-currently-reading:
-- author: Roberto Vitillo
-  name: Understanding Distributed Systems
-  tags: [technical]
+  isbn: '9781847497826'
