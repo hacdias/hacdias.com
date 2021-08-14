@@ -1,6 +1,16 @@
 {
   "movies": [
     {
+      "title": "The Kissing Booth 3",
+      "watched": "2021-08-13T16:46:28.000Z",
+      "url": "https://trakt.tv/movies/the-kissing-booth-3-2021"
+    },
+    {
+      "title": "The Kissing Booth 2",
+      "watched": "2021-08-13T16:17:18.000Z",
+      "url": "https://trakt.tv/movies/the-kissing-booth-2-2020"
+    },
+    {
       "title": "The Kissing Booth",
       "watched": "2021-08-12T10:07:56.000Z",
       "url": "https://trakt.tv/movies/the-kissing-booth-2018"
@@ -1872,6 +1882,11 @@
     }
   ],
   "series": [
+    {
+      "title": "Ragnarok",
+      "watched": "2021-08-13T20:59:46.000Z",
+      "url": "https://trakt.tv/shows/ragnarok-2020"
+    },
     {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-08-12T10:07:48.000Z",
