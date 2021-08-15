@@ -1883,8 +1883,13 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race All Stars",
+      "watched": "2021-08-14T20:34:49.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
+    },
+    {
       "title": "Ragnarok",
-      "watched": "2021-08-13T20:59:46.000Z",
+      "watched": "2021-08-14T11:31:30.000Z",
       "url": "https://trakt.tv/shows/ragnarok-2020"
     },
     {
@@ -1896,11 +1901,6 @@
       "title": "Good Girls",
       "watched": "2021-08-11T09:16:27.000Z",
       "url": "https://trakt.tv/shows/good-girls"
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars",
-      "watched": "2021-08-11T06:07:27.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
     },
     {
       "title": "Control Z",
