@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 50,
+      "count": 47,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
@@ -12,17 +12,17 @@
     },
     {
       "name": "Omar Rudberg",
-      "count": 21,
+      "count": 20,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Lady Gaga",
-      "count": 9,
+      "count": 11,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Bruno Mars",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
@@ -41,21 +41,21 @@
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
+      "name": "Demi Lovato",
+      "count": 4,
+      "url": "https://www.last.fm/music/Demi+Lovato"
+    },
+    {
       "name": "Miley Cyrus",
       "count": 4,
       "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Selena Gomez",
-      "count": 4,
-      "url": "https://www.last.fm/music/Selena+Gomez"
     }
   ],
   "tracks": [
     {
       "name": "Fingers Crossed",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
-      "count": 13,
+      "count": 11,
       "artist": "Agnes"
     },
     {
@@ -67,7 +67,7 @@
     {
       "name": "Goodlife",
       "url": "https://www.last.fm/music/Agnes/_/Goodlife",
-      "count": 7,
+      "count": 6,
       "artist": "Agnes"
     },
     {
