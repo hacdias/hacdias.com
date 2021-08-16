@@ -1883,14 +1883,14 @@
   ],
   "series": [
     {
+      "title": "Ragnarok",
+      "watched": "2021-08-15T12:31:01.000Z",
+      "url": "https://trakt.tv/shows/ragnarok-2020"
+    },
+    {
       "title": "RuPaul's Drag Race All Stars",
       "watched": "2021-08-14T20:34:49.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
-    },
-    {
-      "title": "Ragnarok",
-      "watched": "2021-08-14T11:31:30.000Z",
-      "url": "https://trakt.tv/shows/ragnarok-2020"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
