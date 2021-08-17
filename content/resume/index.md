@@ -27,7 +27,7 @@ aliases:
 
 </div>
 
-I am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and logic.
+I am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing friendly services for users.
 
 ## Education
 
