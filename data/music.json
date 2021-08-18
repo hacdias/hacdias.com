@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 41,
+      "count": 48,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Omar Rudberg",
-      "count": 19,
+      "count": 27,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
@@ -26,38 +26,32 @@
       "url": "https://www.last.fm/music/Bruno+Mars"
     },
     {
-      "name": "Camila Cabello",
+      "name": "Kim Petras",
       "count": 5,
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Allie X",
+      "count": 4,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Camila Cabello",
+      "count": 4,
       "url": "https://www.last.fm/music/Camila+Cabello"
     },
     {
-      "name": "Conan Gray",
-      "count": 5,
-      "url": "https://www.last.fm/music/Conan+Gray"
+      "name": "Elias",
+      "count": 4,
+      "url": "https://www.last.fm/music/Elias"
     },
     {
-      "name": "Demi Lovato",
+      "name": "FO&O",
       "count": 4,
-      "url": "https://www.last.fm/music/Demi+Lovato"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 4,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Selena Gomez",
-      "count": 4,
-      "url": "https://www.last.fm/music/Selena+Gomez"
+      "url": "https://www.last.fm/music/FO&O"
     }
   ],
   "tracks": [
-    {
-      "name": "24 Hours",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
-      "count": 10,
-      "artist": "Agnes"
-    },
     {
       "name": "Fingers Crossed",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
@@ -65,52 +59,58 @@
       "artist": "Agnes"
     },
     {
+      "name": "24 Hours",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
+      "count": 9,
+      "artist": "Agnes"
+    },
+    {
       "name": "Goodlife",
       "url": "https://www.last.fm/music/Agnes/_/Goodlife",
+      "count": 7,
+      "artist": "Agnes"
+    },
+    {
+      "name": "Alla Ba Ouff",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
       "count": 6,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "Release Me",
+      "url": "https://www.last.fm/music/Agnes/_/Release+Me",
+      "count": 5,
+      "artist": "Agnes"
+    },
+    {
+      "name": "La Mesa",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
+      "count": 5,
+      "artist": "Omar Rudberg"
+    },
+    {
+      "name": "24 Hours - The Circle° Sessions",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
+      "count": 4,
       "artist": "Agnes"
     },
     {
       "name": "Never Be the Same",
       "url": "https://www.last.fm/music/Camila+Cabello/_/Never+Be+the+Same",
-      "count": 5,
+      "count": 4,
       "artist": "Camila Cabello"
     },
     {
-      "name": "Release Me",
-      "url": "https://www.last.fm/music/Agnes/_/Release+Me",
+      "name": "Revolution",
+      "url": "https://www.last.fm/music/Elias/_/Revolution",
       "count": 4,
-      "artist": "Agnes"
+      "artist": "Elias"
     },
     {
-      "name": "People Watching",
-      "url": "https://www.last.fm/music/Conan+Gray/_/People+Watching",
+      "name": "Hurt Like We Did",
+      "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
       "count": 4,
-      "artist": "Conan Gray"
-    },
-    {
-      "name": "Alla Ba Ouff",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 4,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "La Mesa",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
-      "count": 4,
-      "artist": "Omar Rudberg"
-    },
-    {
-      "name": "The Heart Wants What It Wants",
-      "url": "https://www.last.fm/music/Selena+Gomez/_/The+Heart+Wants+What+It+Wants",
-      "count": 4,
-      "artist": "Selena Gomez"
-    },
-    {
-      "name": "24 Hours (Live)",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours+(Live)",
-      "count": 3,
-      "artist": "Agnes"
+      "artist": "FO&O"
     }
   ]
 }
