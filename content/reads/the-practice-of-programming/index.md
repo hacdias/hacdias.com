@@ -24,7 +24,7 @@ A quick note about the book: a lot of the things are C-specific and do not apply
 
 ## Chapter 2: Algorithms and Data Structures
 
-- [Search Algorithms](/notes/search-algorithms/)
+- Search Algorithms
 - [Sorting Algorithms](/notes/sorting-algorithms/)
 - [Data Structures](/notes/data-structures/)
 - [Asymptotic Notation](/notes/asymptotic-notation/)

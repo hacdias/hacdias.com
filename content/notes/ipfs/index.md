@@ -9,7 +9,7 @@ IPFS is a p2p protocol
 ## Stack
 
 - IPLD
-- [BitSwap](/notes/bitswap/)
+- BitSwap
 - [Distributed Hash Table](/notes/distributed-hash-table/)
 
 ### The DHT

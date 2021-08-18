@@ -32,7 +32,7 @@ math: true
 #### Tarjan's Algorithm
 
 - $O(V+E)$ complexity
-- It's basically a [DFS](/notes/search-algorithms/#depth-first-search-dfs) with a different visit function.
+- It's basically a DFS with a different visit function.
 - Needs a `low[]` matrix
 - An `L` queue
 - A `visited` counter
