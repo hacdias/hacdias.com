@@ -1,7 +1,7 @@
 ---
 title: Impossible List
 date: 2020-07-15T00:00:00Z
-lastmod: 2021-07-29T21:25:50.148184492Z
+lastmod: 2021-08-18T08:19:09.760889705Z
 noMentions: true
 ---
 
@@ -51,6 +51,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Help people by volunteering more
 - Interrail
 - See the Aurora Borealis
+- Air balloon ride
 
 ## Random
 
