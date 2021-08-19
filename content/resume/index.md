@@ -1,10 +1,10 @@
 ---
 title: Resume
-noMentions: true
 aliases:
 - /cv/
 - /curriculum/
 - /curriculum-vitae/
+noMentions: true
 ---
 
 <div class="head">
@@ -96,7 +96,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 ### File Browser <small>[2015 - 2019] [[code](https://github.com/filebrowser/filebrowser)]</small>
 
 - Client-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained.
-- Over 10 000 000 downloads through Docker and GitHub and more than 9 000 stars on GitHub.
+- Over 10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub.
 - Built with Go and JavaScript (Vue.js).
 
 <!-- ### WordPress Widgets <small>[2015 - 2017] [deprecated]</small>

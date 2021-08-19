@@ -285,3 +285,62 @@
     name: Jan-Lukas Else
     url: https://jlelse.dev/
     photo: https://cdn.hacdias.com/wm/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg
+- wm-id: 1250291
+  type: mention
+  url: https://hacdias.com/resume
+  content: "Henrique Dias\n\U0001F4CD Eindhoven, Netherlands — [email protected]\n\nhacdias.com\ngithub.com/hacdias\nlinkedin.com/in/hacdias\nI
+    am a M.Sc. in Computer Science and Engineering student at Eindhoven University
+    of Technology and part-time Software Engineer at Protocol Labs. Interested in
+    decentralized systems, web infrastructure, web systems, human-computer interaction
+    and developing user-friendly services.Education\nMSc Computer Science and Engineering,
+    Eindhoven University of Technology [2020 - present]Current GPA of 8 out of 10.\nExpected
+    to graduate in the summer of 2022.\n\n\nBSc Information Systems and Computer Engineering,
+    Instituto Superior Técnico [2017 - 2020]Graduated with GPA of 16 out of 20.\nVolunteered
+    as Student Mentor for 2 years.\nAcademic Merit Award, 2017/2018.\n\nExperience\nProtocol
+    Labs — Software Engineer [2017 - present]\nProtocol Labs is a research and development
+    institution for improving the Internet technology through decentralized technologies.
+    Founder of the InterPlanetary File System (IPFS) and Filecoin.Developed Testground:
+    a testing, benchmarking and simulating platform for decentralized and peer-to-peer
+    systems at scale built in Go. Used all over the organization for testing many
+    projects.\nLead maintainer of IPFS Desktop: an unobtrusive and user-friendly desktop
+    application for IPFS on Windows, Mac and Linux built using Electron. User base
+    grew approximately 30% each month.\nRevamped and shipped IPFS Web UI: a React-based
+    web application used as a front-end for IPFS.\nDesigned and built Awesome IPFS:
+    a compilation of the most fascinating projects, datasets, tools and other materials
+    built using IPFS.\n\nUpframe — Lead Software Engineer [2016 - 2018]\nUpframe helps
+    you find and connect with industry leaders that can give you startup advice and
+    mentor you through the first steps of building a product.Organized a mentorship-driven
+    program to connect mentors from well known companies (Tesla, Twitter, Spotify,
+    etc) to first-time entrepreneurs.\nBuilt a REST API for managing email transactions,
+    newsletters and enrollments in the program.\nBuilt a Slack bot to manage enrollments
+    to the program, in Go.\nBuilt a backend which allowed to see who was at the office,
+    to send emails and to manage newsletters.\nIn the news: Eco, Startup Lisboa, Observador
+    & Dinheiro Vivo.\n\nPplware — Content Writer [2013 - 2016]\nPplware is a the largest
+    Portuguese technology website with over 100 000 daily visitors.Wrote over 400
+    tutorials, tech news and other articles on both Pplware and Pplware Kids.\nPublished
+    a 60 page e-book on how to program in C for beginners when I was 15 years old.\nProjectsPersonal
+    Website [2014 - present] [code]\nRunning my personal website since 2014, allowing
+    me to experiment with different technologies. Nowadays, it is composed by a mix
+    of a static generator, plus a custom backend built in Go.\nCustom backend supports
+    post management, full-text search, interaction with a few services' APIs, among
+    other features. Read more about how it works.\nThe blog contains both technical
+    and non-technical articles and receives over 5 000 unique visitors per month.\nCaddy
+    Plugins [2015 - 2020]\n\nCaddy is an open-source, fast, HTTP/2 web server with
+    automatic HTTPS built in Go.\nBuilt multiple plugins for Caddy to add functionalities
+    requested by the community.\nPlugins functionalities include: on-the-fly minification,
+    WebDav support and installation as a service.\nOver 50 000 downloads.\nFile Browser
+    [2015 - 2019] [code]\nClient-server software for creating and using file hosting
+    services, allowing anyone to create their own cloud. Nowadays, community-maintained.\nOver
+    10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub.\nBuilt
+    with Go and JavaScript (Vue.js).\nAchievements6th place on National Olympiad in
+    Informatics [2017] [website]\n\n10th place on National Olympiad in Informatics
+    [2016] [website]\n\nDeputy at District’s Youth Parliament [2016] [website]\n\nDeputy
+    at District’s Youth Parliament [2013] [website]\n\nSecretary of National Youth
+    Parliament [2012] [website]\n\nSecretary of District’s Youth Parliament [2012]
+    [website]\n\nCertifications and CoursesMCB80x: Fundamentals of Neuroscience [June
+    2020] [certificate]\n\nIELTS Academic (7.5 out of 9.0, C1) [September 2019]"
+  date: 2021-08-19T19:02:52Z
+  author:
+    name: Henrique Dias
+    url: https://hacdias.com
+    photo: https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg
