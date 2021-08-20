@@ -26,8 +26,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Clean up (add!) tags.
   - Clean up content.
   - Back-links references.
-- **Articles**
-  - Move out of year/month folder structure.
 - Finish [**uses**](/uses).
 - https://cleanuptheweb.org/
 - Create `/meta/historical` with pictures of old versions of my website.

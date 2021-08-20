@@ -7,7 +7,7 @@ noMentions: true
 layout: single
 ---
 
-This is a display of some of the projects I have worked on. Please check out my [GitHub](https://github.com/hacdias) for my contributions to the open-source world and other projects.
+This is a display of some of the projects I have worked on. Please check out my [GitHub](https://github.com/hacdias) for other open-source contributions, or my [resume](/resume) for my curriculum.
 
 <div class="grid">
   {{< project title="Testground"
