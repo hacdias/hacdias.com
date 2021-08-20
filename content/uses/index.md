@@ -1,7 +1,7 @@
 ---
 title: Stuff I use
 date: 2020-01-21T15:39:00Z
-lastmod: 2021-05-30T14:04:00.610269323Z
+lastmod: 2021-08-20T07:59:22.44831983Z
 emoji: "\U0001F6E0"
 noMentions: true
 ---
@@ -51,40 +51,30 @@ The most unexpected thing on this list is my wallet. However, it is so small and
 
 ### Photography
 
-On the photography department, I currently own a single camera: a Fujifilm X-T30. It is small and very nice. The pictures are splendid. However, it is a mess to edit Fuji RAWs due to the way they're encoded. I might write an article one day about it.
+On the photography department, I currently own two cameras: a Fuji X-T30 and a Fuji X-T4. However, I'm trying to sell the X-T30 as I don't have much use for it. I replaced it by the new X-T4 as I wanted something that was weather proof.
 
-{{< figure class="full-width" cdn="2020-09-fujixt30" alt="Fujifilm X-T30" >}}
+The pictures that come out of both are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [CaptureOne](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
+
+{{< figure class="full-width" cdn="2021-08-fujixt4" alt="Fujifilm X-T30" >}}
 
 Besides the camera itself, I also have two **lenses**:
 
 - Fujifilm XF 18-55mm f/2.8-4.0 OIS
-- Fujifilm XF 27mm f2.8 (**coming soon**)
+- Fujifilm XF 35mm F/2.0
 
 I also own a **tripod**: a Manfrotto Befree.
 ## Software
 
-<div class="box yellow word" data-word="Warning">
-  This section is a work in progress.
-</div>
+This section will be considerably more compact as I don't think we need screenshots of the software I'm using. So... here it goes.
 
-- **Code editor:** my all round code editor is [Visual Studio Code][vscode]. For some Go specific projects, I use [Golang][goland]. On the terminal, I prefer [vim]. My font of choice for programming is [Fira Mono][fm].
-- **Terminal:** my terminal app on macOS is [iTerm][iterm]. I use [zsh] as my shell with [oh my zsh] installed. This installation is all customized via my [dotfiles].
-- **Browser:** Chrome on macOS and Safari or Chrome on iOS.
-- **Mail and calendar:** I use [Spark](https://sparkmailapp.com/) as both my mailing and calendar apps. It is easy to use multiple accounts and synchronize them across many devices.
+- **Code Editor**: my all round code editor is [Visual Studio Code][vscode]. However, there are some exceptions...
+  - For some larger Go projects, I tend to use [GoLand][goland].
+  - On the terminal, I tend to use [vim].
+- **Terminal**: my terminal app on macOS is [iTerm][iterm]. Within the terminal, I use [zsh] as my shell with [oh my zsh] installed. This installation is customized via my [dotfiles].
+- **Browser**: Chrome on macOS and Safari or Chrome on iOS.
+- **Mail and Calendar**: I use [Spark](https://sparkmailapp.com/) as both my mailing and calendar apps. It is easy to use multiple accounts and synchronize them across many devices.
 
-Other software:
-
-- **Hosted services**
-  - [Namecheap][namecheap]
-  - [GitHub][gh]
-- **IndieWeb related services:**
-  - [XRay](https://xray.p3k.app/)
-  - [Granary](https://granary.io/)
-- **Self hosted**
-  - [Caddy][caddy]
-  - Miniflux
-
-**Note:** this page is mostly a work in progress and thus it might feel that is not yet consistent. After being finished, I will update it once in a while to make sure it is up to date.
+Besides this software packages, I use some online services, which I'm not going to list here. As for self-hosted things, I have everything on [Hetzner][hetzner].
 
 [uses]: https://uses.tech/
 [vim]: https://www.vim.org/
