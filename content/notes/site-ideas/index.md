@@ -2,7 +2,7 @@
 title: Site Ideas
 tags:
 - meta
-lastmod: 2021-06-12T11:31:09.180770007Z
+lastmod: 2021-08-20T08:00:15.878508061Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -26,7 +26,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Clean up (add!) tags.
   - Clean up content.
   - Back-links references.
-- Finish [**uses**](/uses).
 - https://cleanuptheweb.org/
 - Create `/meta/historical` with pictures of old versions of my website.
 - Move all images to CDN except SVGs?
