@@ -17,12 +17,17 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 
 ---
 
+- **Reading** section
+  - Create backend interface to edit reads / progress / info.
+  - IndieWeb meta tags?
 - **Notes** section
   - Merge small notes if possible.
   - Clean up titles.
   - Clean up (add!) tags.
   - Clean up content.
   - Back-links references.
+- **Articles**
+  - Move out of year/month folder structure.
 - Finish [**uses**](/uses).
 - https://cleanuptheweb.org/
 - Create `/meta/historical` with pictures of old versions of my website.
@@ -39,6 +44,12 @@ Wanna know more about the website? Check out the [meta page](/meta)!
   - Phase 1: update all search index on changed files & purge ALL CloudFlare cache.
   - Phase 2: update modified search index & purge SOME CloudFlare cache.
   - https://api.cloudflare.com/#zone-purge-all-files
+
+## Photos
+
+- Show latest images on home.
+- Lightbox when clicking picture.
+- Eindhoven collection?
 
 ## Posts
 
