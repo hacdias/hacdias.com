@@ -29,30 +29,32 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## Professional / Education
 
-- ~~Write a self-published book~~ <small>[February 2015] [[link](/downloads/aprenda_a_programar.pdf)]</small>
-- ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
-- ~~Become proficient in a second language, English~~ <small>[September 2019]</small>
-- ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
-- Finish my master's degree
-- Give a talk to more than 100 people
-- Write a fiction book
-- Write a non-fiction book
-- Learn to play an instrument
-- Become proficient and/or fluent in a third language
-  - Dutch?
-- Learn a new sport
+{{< begin-task-list >}}
+- [x] ~~Write a self-published book~~ <small>[February 2015] [[link](/downloads/aprenda_a_programar.pdf)]</small>
+- [x] ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
+- [x] ~~Become proficient in a second language, English~~ <small>[September 2019]</small>
+- [x] ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
+- [ ] Finish my master's degree
+- [ ] Give a talk to more than 100 people
+- [ ] Write a fiction book
+- [ ] Write a non-fiction book
+- [ ] Learn to play an instrument
+- [ ] Become proficient and/or fluent in a third language (Dutch?)
+- [ ] Learn a new sport
 
 ## Life
 
-- ~~Start studying Computer Science~~ <small>[September 2017]</small>
-- ~~Make my parents fly~~ <small>[July 2019]</small>
-- ~~Study abroad on Master's~~ <small>[September 2020]</small>
-- ~~Live abroad for more than 4 months~~ <small>[January 2021]</small>
-- Help people by volunteering more
-- Interrail
-- See the Aurora Borealis
-- Air balloon ride
+{{< begin-task-list >}}
+- [x] ~~Start studying Computer Science~~ <small>[September 2017]</small>
+- [x] ~~Make my parents fly~~ <small>[July 2019]</small>
+- [x] ~~Study abroad on Master's~~ <small>[September 2020]</small>
+- [x] ~~Live abroad for more than 4 months~~ <small>[January 2021]</small>
+- [ ] Help people by volunteering more
+- [ ] Interrail
+- [ ] See the Aurora Borealis
+- [ ] Air balloon ride
 
 ## Random
 
-- Drive a subway train, literally
+{{< begin-task-list >}}
+- [ ] Drive a subway train, literally
