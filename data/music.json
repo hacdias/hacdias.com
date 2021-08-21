@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 62,
+      "count": 60,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Marina",
-      "count": 41,
+      "count": 40,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
-      "count": 41,
+      "count": 35,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
@@ -22,46 +22,52 @@
     },
     {
       "name": "Conan Gray",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Conan+Gray"
     },
     {
       "name": "FO&O",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/FO&O"
     },
     {
-      "name": "Lady Gaga",
-      "count": 7,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "name": "GALXARA",
+      "count": 6,
+      "url": "https://www.last.fm/music/GALXARA"
     },
     {
       "name": "MØ",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/M%C3%98"
     },
     {
-      "name": "Camila Cabello",
+      "name": "Sky Ferreira",
       "count": 6,
-      "url": "https://www.last.fm/music/Camila+Cabello"
+      "url": "https://www.last.fm/music/Sky+Ferreira"
     },
     {
-      "name": "Selena Gomez",
-      "count": 6,
-      "url": "https://www.last.fm/music/Selena+Gomez"
+      "name": "Camila Cabello",
+      "count": 5,
+      "url": "https://www.last.fm/music/Camila+Cabello"
     }
   ],
   "tracks": [
     {
-      "name": "Fingers Crossed",
-      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
-      "count": 11,
+      "name": "24 Hours",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
+      "count": 9,
       "artist": "Agnes"
     },
     {
-      "name": "24 Hours",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
-      "count": 10,
+      "name": "24 Hours - The Circle° Sessions",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
+      "count": 9,
+      "artist": "Agnes"
+    },
+    {
+      "name": "Fingers Crossed",
+      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
+      "count": 9,
       "artist": "Agnes"
     },
     {
@@ -71,45 +77,39 @@
       "artist": "Agnes"
     },
     {
-      "name": "24 Hours - The Circle° Sessions",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
+      "name": "Fingers Crossed - The Circle° Sessions",
+      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
       "count": 8,
       "artist": "Agnes"
     },
     {
       "name": "Release Me",
       "url": "https://www.last.fm/music/Agnes/_/Release+Me",
-      "count": 8,
-      "artist": "Agnes"
-    },
-    {
-      "name": "Fingers Crossed - The Circle° Sessions",
-      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
       "count": 7,
       "artist": "Agnes"
     },
     {
       "name": "People Watching",
       "url": "https://www.last.fm/music/Conan+Gray/_/People+Watching",
-      "count": 7,
+      "count": 6,
       "artist": "Conan Gray"
     },
     {
       "name": "Hurt Like We Did",
       "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 7,
+      "count": 6,
       "artist": "FO&O"
     },
     {
       "name": "Alla Ba Ouff",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 7,
+      "count": 6,
       "artist": "Omar Rudberg"
     },
     {
       "name": "Dum",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/Dum",
-      "count": 7,
+      "count": 6,
       "artist": "Omar Rudberg"
     }
   ]
