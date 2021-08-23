@@ -66,6 +66,11 @@
       "title": "Coding Horror"
     },
     {
+      "feed": "https://feed.ctrl.blog/latest.atom",
+      "site": "https://www.ctrl.blog/",
+      "title": "Ctrl blog"
+    },
+    {
       "feed": "https://dannyvankooten.com/feed.xml",
       "site": "https://dannyvankooten.com/",
       "title": "Danny van Kooten"
