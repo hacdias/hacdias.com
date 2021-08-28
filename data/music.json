@@ -2,114 +2,114 @@
   "artists": [
     {
       "name": "Chris Tiaan",
-      "count": 137,
+      "count": 372,
       "url": "https://www.last.fm/music/Chris+Tiaan"
     },
     {
       "name": "Agnes",
-      "count": 32,
+      "count": 26,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
-      "name": "Marina",
-      "count": 26,
-      "url": "https://www.last.fm/music/Marina"
-    },
-    {
       "name": "Omar Rudberg",
-      "count": 23,
+      "count": 18,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "GALXARA",
-      "count": 20,
+      "count": 17,
       "url": "https://www.last.fm/music/GALXARA"
     },
     {
+      "name": "Marina",
+      "count": 16,
+      "url": "https://www.last.fm/music/Marina"
+    },
+    {
       "name": "Tiësto",
-      "count": 10,
+      "count": 9,
       "url": "https://www.last.fm/music/Ti%C3%ABsto"
     },
     {
       "name": "Selena Gomez",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Selena+Gomez"
     },
     {
       "name": "Camila Cabello",
-      "count": 5,
+      "count": 4,
       "url": "https://www.last.fm/music/Camila+Cabello"
     },
     {
-      "name": "Conan Gray",
+      "name": "Lady Gaga",
       "count": 4,
-      "url": "https://www.last.fm/music/Conan+Gray"
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "FO&O",
-      "count": 4,
-      "url": "https://www.last.fm/music/FO&O"
+      "name": "Conan Gray",
+      "count": 3,
+      "url": "https://www.last.fm/music/Conan+Gray"
     }
   ],
   "tracks": [
     {
       "name": "Le combat du comfort",
       "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 137,
+      "count": 372,
       "artist": "Chris Tiaan"
     },
     {
       "name": "I Miss The Days (feat. Party Pupils)",
       "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 10,
+      "count": 9,
       "artist": "GALXARA"
     },
     {
       "name": "Round & Round",
       "url": "https://www.last.fm/music/Ti%C3%ABsto/_/Round+&+Round",
-      "count": 10,
+      "count": 9,
       "artist": "Tiësto"
     },
     {
       "name": "Loving Nobody",
       "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
-      "count": 9,
+      "count": 8,
       "artist": "GALXARA"
     },
     {
       "name": "Fingers Crossed - The Circle° Sessions",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
-      "count": 8,
+      "count": 7,
       "artist": "Agnes"
     },
     {
       "name": "24 Hours - The Circle° Sessions",
       "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
-      "count": 7,
+      "count": 6,
       "artist": "Agnes"
     },
     {
       "name": "The Heart Wants What It Wants",
       "url": "https://www.last.fm/music/Selena+Gomez/_/The+Heart+Wants+What+It+Wants",
-      "count": 6,
+      "count": 5,
       "artist": "Selena Gomez"
     },
     {
       "name": "Goodlife",
       "url": "https://www.last.fm/music/Agnes/_/Goodlife",
-      "count": 5,
+      "count": 4,
       "artist": "Agnes"
     },
     {
       "name": "Never Be the Same",
       "url": "https://www.last.fm/music/Camila+Cabello/_/Never+Be+the+Same",
-      "count": 5,
+      "count": 4,
       "artist": "Camila Cabello"
     },
     {
       "name": "QUE PASA",
       "url": "https://www.last.fm/music/Omar+Rudberg/_/QUE+PASA",
-      "count": 5,
+      "count": 4,
       "artist": "Omar Rudberg"
     }
   ]
