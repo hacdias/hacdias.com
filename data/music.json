@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Chris Tiaan",
-      "count": 372,
+      "count": 482,
       "url": "https://www.last.fm/music/Chris+Tiaan"
     },
     {
       "name": "Agnes",
-      "count": 26,
+      "count": 24,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
@@ -16,18 +16,18 @@
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
-      "name": "GALXARA",
-      "count": 17,
-      "url": "https://www.last.fm/music/GALXARA"
-    },
-    {
       "name": "Marina",
       "count": 16,
       "url": "https://www.last.fm/music/Marina"
     },
     {
+      "name": "GALXARA",
+      "count": 15,
+      "url": "https://www.last.fm/music/GALXARA"
+    },
+    {
       "name": "Tiësto",
-      "count": 9,
+      "count": 8,
       "url": "https://www.last.fm/music/Ti%C3%ABsto"
     },
     {
@@ -55,37 +55,37 @@
     {
       "name": "Le combat du comfort",
       "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 372,
+      "count": 482,
       "artist": "Chris Tiaan"
     },
     {
       "name": "I Miss The Days (feat. Party Pupils)",
       "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 9,
+      "count": 8,
       "artist": "GALXARA"
     },
     {
       "name": "Round & Round",
       "url": "https://www.last.fm/music/Ti%C3%ABsto/_/Round+&+Round",
-      "count": 9,
+      "count": 8,
       "artist": "Tiësto"
     },
     {
       "name": "Loving Nobody",
       "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
-      "count": 8,
+      "count": 7,
       "artist": "GALXARA"
     },
     {
       "name": "Fingers Crossed - The Circle° Sessions",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
-      "count": 7,
+      "count": 6,
       "artist": "Agnes"
     },
     {
       "name": "24 Hours - The Circle° Sessions",
       "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
-      "count": 6,
+      "count": 5,
       "artist": "Agnes"
     },
     {
