@@ -2,13 +2,18 @@
   "artists": [
     {
       "name": "Chris Tiaan",
-      "count": 482,
+      "count": 600,
       "url": "https://www.last.fm/music/Chris+Tiaan"
     },
     {
       "name": "Agnes",
-      "count": 24,
+      "count": 23,
       "url": "https://www.last.fm/music/Agnes"
+    },
+    {
+      "name": "Marina",
+      "count": 20,
+      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
@@ -16,24 +21,19 @@
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
-      "name": "Marina",
-      "count": 16,
-      "url": "https://www.last.fm/music/Marina"
-    },
-    {
       "name": "GALXARA",
-      "count": 15,
+      "count": 11,
       "url": "https://www.last.fm/music/GALXARA"
-    },
-    {
-      "name": "Tiësto",
-      "count": 8,
-      "url": "https://www.last.fm/music/Ti%C3%ABsto"
     },
     {
       "name": "Selena Gomez",
       "count": 5,
       "url": "https://www.last.fm/music/Selena+Gomez"
+    },
+    {
+      "name": "Tiësto",
+      "count": 5,
+      "url": "https://www.last.fm/music/Ti%C3%ABsto"
     },
     {
       "name": "Camila Cabello",
@@ -55,26 +55,8 @@
     {
       "name": "Le combat du comfort",
       "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 482,
+      "count": 600,
       "artist": "Chris Tiaan"
-    },
-    {
-      "name": "I Miss The Days (feat. Party Pupils)",
-      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 8,
-      "artist": "GALXARA"
-    },
-    {
-      "name": "Round & Round",
-      "url": "https://www.last.fm/music/Ti%C3%ABsto/_/Round+&+Round",
-      "count": 8,
-      "artist": "Tiësto"
-    },
-    {
-      "name": "Loving Nobody",
-      "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
-      "count": 7,
-      "artist": "GALXARA"
     },
     {
       "name": "Fingers Crossed - The Circle° Sessions",
@@ -83,10 +65,16 @@
       "artist": "Agnes"
     },
     {
-      "name": "24 Hours - The Circle° Sessions",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
+      "name": "Loving Nobody",
+      "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
+      "count": 6,
+      "artist": "GALXARA"
+    },
+    {
+      "name": "I Miss The Days (feat. Party Pupils)",
+      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
       "count": 5,
-      "artist": "Agnes"
+      "artist": "GALXARA"
     },
     {
       "name": "The Heart Wants What It Wants",
@@ -95,8 +83,20 @@
       "artist": "Selena Gomez"
     },
     {
-      "name": "Goodlife",
-      "url": "https://www.last.fm/music/Agnes/_/Goodlife",
+      "name": "Round & Round",
+      "url": "https://www.last.fm/music/Ti%C3%ABsto/_/Round+&+Round",
+      "count": 5,
+      "artist": "Tiësto"
+    },
+    {
+      "name": "24 Hours",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
+      "count": 4,
+      "artist": "Agnes"
+    },
+    {
+      "name": "24 Hours - The Circle° Sessions",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
       "count": 4,
       "artist": "Agnes"
     },
@@ -107,10 +107,10 @@
       "artist": "Camila Cabello"
     },
     {
-      "name": "QUE PASA",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/QUE+PASA",
+      "name": "I'm a Ruin",
+      "url": "https://www.last.fm/music/Marina/_/I%27m+a+Ruin",
       "count": 4,
-      "artist": "Omar Rudberg"
+      "artist": "Marina"
     }
   ]
 }
