@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "He's All That",
+      "watched": "2021-08-30T12:21:00.000Z",
+      "url": "https://trakt.tv/movies/he-s-all-that-2021"
+    },
+    {
       "title": "Sierra Burgess Is a Loser",
       "watched": "2021-08-17T19:14:11.000Z",
       "url": "https://trakt.tv/movies/sierra-burgess-is-a-loser-2018"
@@ -1903,8 +1908,13 @@
   ],
   "series": [
     {
+      "title": "Heathrow: Britain's Busiest Airport",
+      "watched": "2021-08-31T12:37:28.000Z",
+      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
+    },
+    {
       "title": "Pôr do Sol",
-      "watched": "2021-08-29T14:50:40.000Z",
+      "watched": "2021-08-31T05:22:26.000Z",
       "url": "https://trakt.tv/shows/por-do-sol"
     },
     {
@@ -2016,11 +2026,6 @@
       "title": "Snowpiercer",
       "watched": "2021-04-02T11:46:25.000Z",
       "url": "https://trakt.tv/shows/snowpiercer"
-    },
-    {
-      "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2021-03-28T20:44:59.000Z",
-      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
     },
     {
       "title": "RuPaul's Drag Race UK",
