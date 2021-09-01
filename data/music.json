@@ -2,28 +2,28 @@
   "artists": [
     {
       "name": "Chris Tiaan",
-      "count": 590,
+      "count": 588,
       "url": "https://www.last.fm/music/Chris+Tiaan"
     },
     {
-      "name": "Agnes",
-      "count": 18,
-      "url": "https://www.last.fm/music/Agnes"
-    },
-    {
       "name": "Omar Rudberg",
-      "count": 17,
+      "count": 16,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
-      "name": "GALXARA",
-      "count": 9,
-      "url": "https://www.last.fm/music/GALXARA"
+      "name": "Marina",
+      "count": 15,
+      "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Marina",
-      "count": 9,
-      "url": "https://www.last.fm/music/Marina"
+      "name": "Agnes",
+      "count": 14,
+      "url": "https://www.last.fm/music/Agnes"
+    },
+    {
+      "name": "GALXARA",
+      "count": 8,
+      "url": "https://www.last.fm/music/GALXARA"
     },
     {
       "name": "Tiësto",
@@ -36,26 +36,26 @@
       "url": "https://www.last.fm/music/FO&O"
     },
     {
-      "name": "Lady Gaga",
-      "count": 3,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Lil Nas X",
       "count": 3,
       "url": "https://www.last.fm/music/Lil+Nas+X"
     },
     {
-      "name": "Selena Gomez",
+      "name": "London Grammar",
       "count": 3,
-      "url": "https://www.last.fm/music/Selena+Gomez"
+      "url": "https://www.last.fm/music/London+Grammar"
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 3,
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
     }
   ],
   "tracks": [
     {
       "name": "Le combat du comfort",
       "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 590,
+      "count": 588,
       "artist": "Chris Tiaan"
     },
     {
@@ -65,14 +65,14 @@
       "artist": "Agnes"
     },
     {
-      "name": "Loving Nobody",
-      "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
-      "count": 5,
+      "name": "I Miss The Days (feat. Party Pupils)",
+      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
+      "count": 4,
       "artist": "GALXARA"
     },
     {
-      "name": "I Miss The Days (feat. Party Pupils)",
-      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
+      "name": "Loving Nobody",
+      "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
       "count": 4,
       "artist": "GALXARA"
     },
@@ -83,20 +83,8 @@
       "artist": "Tiësto"
     },
     {
-      "name": "24 Hours",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
-      "count": 3,
-      "artist": "Agnes"
-    },
-    {
       "name": "24 Hours - The Circle° Sessions",
       "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
-      "count": 3,
-      "artist": "Agnes"
-    },
-    {
-      "name": "Fingers Crossed",
-      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
       "count": 3,
       "artist": "Agnes"
     },
@@ -111,6 +99,18 @@
       "url": "https://www.last.fm/music/Lil+Nas+X/_/MONTERO+(Call+Me+by+Your+Name)",
       "count": 3,
       "artist": "Lil Nas X"
+    },
+    {
+      "name": "good 4 u",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
+      "count": 3,
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "name": "Alla Ba Ouff",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
+      "count": 3,
+      "artist": "Omar Rudberg"
     }
   ]
 }
