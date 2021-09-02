@@ -2,18 +2,18 @@
   "artists": [
     {
       "name": "Chris Tiaan",
-      "count": 588,
+      "count": 589,
       "url": "https://www.last.fm/music/Chris+Tiaan"
+    },
+    {
+      "name": "Marina",
+      "count": 36,
+      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
       "count": 16,
       "url": "https://www.last.fm/music/Omar+Rudberg"
-    },
-    {
-      "name": "Marina",
-      "count": 15,
-      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Agnes",
@@ -22,8 +22,13 @@
     },
     {
       "name": "GALXARA",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/GALXARA"
+    },
+    {
+      "name": "London Grammar",
+      "count": 6,
+      "url": "https://www.last.fm/music/London+Grammar"
     },
     {
       "name": "Tiësto",
@@ -31,32 +36,33 @@
       "url": "https://www.last.fm/music/Ti%C3%ABsto"
     },
     {
+      "name": "Bruno Mars",
+      "count": 3,
+      "url": "https://www.last.fm/music/Bruno+Mars"
+    },
+    {
       "name": "FO&O",
       "count": 3,
       "url": "https://www.last.fm/music/FO&O"
     },
     {
-      "name": "Lil Nas X",
+      "name": "Lady Gaga",
       "count": 3,
-      "url": "https://www.last.fm/music/Lil+Nas+X"
-    },
-    {
-      "name": "London Grammar",
-      "count": 3,
-      "url": "https://www.last.fm/music/London+Grammar"
-    },
-    {
-      "name": "Olivia Rodrigo",
-      "count": 3,
-      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+      "url": "https://www.last.fm/music/Lady+Gaga"
     }
   ],
   "tracks": [
     {
       "name": "Le combat du comfort",
       "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 588,
+      "count": 589,
       "artist": "Chris Tiaan"
+    },
+    {
+      "name": "About Love - From The Netflix Film “To All The Boys: P.S. I Still Love You”",
+      "url": "https://www.last.fm/music/Marina/_/About+Love+-+From+The+Netflix+Film+%E2%80%9CTo+All+The+Boys:+P.S.+I+Still+Love+You%E2%80%9D",
+      "count": 6,
+      "artist": "Marina"
     },
     {
       "name": "Fingers Crossed - The Circle° Sessions",
@@ -67,7 +73,7 @@
     {
       "name": "I Miss The Days (feat. Party Pupils)",
       "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 4,
+      "count": 5,
       "artist": "GALXARA"
     },
     {
@@ -75,6 +81,24 @@
       "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
       "count": 4,
       "artist": "GALXARA"
+    },
+    {
+      "name": "Ancient Dreams in a Modern Land",
+      "url": "https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land",
+      "count": 4,
+      "artist": "Marina"
+    },
+    {
+      "name": "Purge the Poison",
+      "url": "https://www.last.fm/music/Marina/_/Purge+the+Poison",
+      "count": 4,
+      "artist": "Marina"
+    },
+    {
+      "name": "Savages",
+      "url": "https://www.last.fm/music/Marina/_/Savages",
+      "count": 4,
+      "artist": "Marina"
     },
     {
       "name": "Round & Round",
@@ -87,30 +111,6 @@
       "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
       "count": 3,
       "artist": "Agnes"
-    },
-    {
-      "name": "Hurt Like We Did",
-      "url": "https://www.last.fm/music/FO&O/_/Hurt+Like+We+Did",
-      "count": 3,
-      "artist": "FO&O"
-    },
-    {
-      "name": "MONTERO (Call Me by Your Name)",
-      "url": "https://www.last.fm/music/Lil+Nas+X/_/MONTERO+(Call+Me+by+Your+Name)",
-      "count": 3,
-      "artist": "Lil Nas X"
-    },
-    {
-      "name": "good 4 u",
-      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 3,
-      "artist": "Olivia Rodrigo"
-    },
-    {
-      "name": "Alla Ba Ouff",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 3,
-      "artist": "Omar Rudberg"
     }
   ]
 }
