@@ -1908,14 +1908,14 @@
   ],
   "series": [
     {
+      "title": "Pôr do Sol",
+      "watched": "2021-09-02T20:44:34.000Z",
+      "url": "https://trakt.tv/shows/por-do-sol"
+    },
+    {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-09-01T18:40:18.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
-    },
-    {
-      "title": "Pôr do Sol",
-      "watched": "2021-09-01T18:40:09.000Z",
-      "url": "https://trakt.tv/shows/por-do-sol"
     },
     {
       "title": "Heathrow: Britain's Busiest Airport",
