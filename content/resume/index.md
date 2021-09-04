@@ -55,7 +55,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
-### [Upframe][upframe] — Lead Software Engineer <small>[2016 - 2018]</small> {#upframe}
+### [Upframe][upframe] — Lead Software Developer <small>[2016 - 2018]</small> {#upframe}
 
 > <small>Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.</small>
 
