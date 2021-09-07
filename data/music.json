@@ -2,22 +2,22 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 51,
+      "count": 49,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Agnes",
-      "count": 44,
+      "count": 48,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Omar Rudberg",
-      "count": 41,
+      "count": 43,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "GALXARA",
-      "count": 25,
+      "count": 27,
       "url": "https://www.last.fm/music/GALXARA"
     },
     {
@@ -27,17 +27,17 @@
     },
     {
       "name": "Cutts",
-      "count": 16,
+      "count": 18,
       "url": "https://www.last.fm/music/Cutts"
     },
     {
       "name": "Chris Tiaan",
-      "count": 15,
+      "count": 16,
       "url": "https://www.last.fm/music/Chris+Tiaan"
     },
     {
       "name": "Tiësto",
-      "count": 14,
+      "count": 15,
       "url": "https://www.last.fm/music/Ti%C3%ABsto"
     },
     {
@@ -46,52 +46,52 @@
       "url": "https://www.last.fm/music/London+Grammar"
     },
     {
-      "name": "FO&O",
-      "count": 7,
-      "url": "https://www.last.fm/music/FO&O"
+      "name": "S N U G",
+      "count": 9,
+      "url": "https://www.last.fm/music/S+N+U+G"
     }
   ],
   "tracks": [
     {
       "name": "Honey",
       "url": "https://www.last.fm/music/Cutts/_/Honey",
-      "count": 16,
+      "count": 18,
       "artist": "Cutts"
     },
     {
       "name": "Le combat du comfort",
       "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 15,
+      "count": 16,
       "artist": "Chris Tiaan"
     },
     {
       "name": "I Miss The Days (feat. Party Pupils)",
       "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 14,
+      "count": 15,
       "artist": "GALXARA"
     },
     {
       "name": "Round & Round",
       "url": "https://www.last.fm/music/Ti%C3%ABsto/_/Round+&+Round",
-      "count": 14,
+      "count": 15,
       "artist": "Tiësto"
     },
     {
       "name": "Loving Nobody",
       "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
-      "count": 11,
+      "count": 12,
       "artist": "GALXARA"
     },
     {
       "name": "Fingers Crossed - The Circle° Sessions",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
-      "count": 9,
+      "count": 10,
       "artist": "Agnes"
     },
     {
       "name": "24 Hours - The Circle° Sessions",
       "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
-      "count": 8,
+      "count": 9,
       "artist": "Agnes"
     },
     {
@@ -101,16 +101,16 @@
       "artist": "Agnes"
     },
     {
-      "name": "About Love - From The Netflix Film “To All The Boys: P.S. I Still Love You”",
-      "url": "https://www.last.fm/music/Marina/_/About+Love+-+From+The+Netflix+Film+%E2%80%9CTo+All+The+Boys:+P.S.+I+Still+Love+You%E2%80%9D",
+      "name": "Release Me",
+      "url": "https://www.last.fm/music/Agnes/_/Release+Me",
       "count": 8,
-      "artist": "Marina"
+      "artist": "Agnes"
     },
     {
-      "name": "Alla Ba Ouff",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
+      "name": "Never Be the Same",
+      "url": "https://www.last.fm/music/Camila+Cabello/_/Never+Be+the+Same",
       "count": 8,
-      "artist": "Omar Rudberg"
+      "artist": "Camila Cabello"
     }
   ]
 }
