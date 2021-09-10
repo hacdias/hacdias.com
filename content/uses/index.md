@@ -1,7 +1,7 @@
 ---
 title: Stuff I use
 date: 2020-01-21T15:39:00Z
-lastmod: 2021-08-20T07:59:22.44831983Z
+lastmod: 2021-09-10T09:06:24.850475741Z
 emoji: "\U0001F6E0"
 noMentions: true
 ---
@@ -51,11 +51,9 @@ The most unexpected thing on this list is my wallet. However, it is so small and
 
 ### Photography
 
-On the photography department, I currently own two cameras: a Fuji X-T30 and a Fuji X-T4. However, I'm trying to sell the X-T30 as I don't have much use for it. I replaced it by the new X-T4 as I wanted something that was weather proof.
+On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [CaptureOne](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
-The pictures that come out of both are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [CaptureOne](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
-
-{{< figure class="full-width" cdn="2021-08-fujixt4" alt="Fujifilm X-T30" >}}
+{{< figure class="full-width" cdn="2021-08-fujixt4" alt="Fujifilm X-T4" >}}
 
 Besides the camera itself, I also have two **lenses**:
 
