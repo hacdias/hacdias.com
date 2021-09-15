@@ -32,12 +32,13 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 ## Education
 
 - **MSc Computer Science and Engineering**, [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
-  - Current GPA of 8 out of 10.
-  - Expected to graduate in the summer of 2022.
+  - Current GPA of 8 out of 10, expected to graduate in 2022.
+  - Member of Student Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
+  - Working as a Master's Student Mentor.
 - **BSc Information Systems and Computer Engineering**, [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
   - Graduated with GPA of 16 out of 20.
+  - Awarded an Academic Merit Award in 1 year.
   - Volunteered as Student Mentor for 2 years.
-  - Academic Merit Award, 2017/2018. 
 ## Experience
 
 ### [Protocol Labs][pl] — Software Engineer <small>[2017 - present]</small> {#protocol-labs}
