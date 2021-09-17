@@ -1,5 +1,5 @@
 ---
-title: 'Fire & Steel Wool'
+title: Fire & Steel Wool
 date: 2021-09-16T06:45:00Z
 cover:
   slug: 2021-09-steelwool-07
@@ -12,7 +12,7 @@ I still don't know when to post on the photos section, or on the microblog secti
   {{< figure cdn="2021-09-fire-01" alt="Fire Breathing 101" >}}
 </div>
 
-Last night there was an activity by [Dekate Mousa](https://dekatemousa.nl/), where we were able to take some nice pictures of fire breathing and steel wool. I am very sorry that the fire is blown out, but I still like it!
+Last night there was an activity by [Dekate Mousa](https://dekatemousa.nl/), where we were able to take some nice pictures of fire breathing and steel wool spinning. I am very sorry that the fire is blown out, but I still like it!
 
 <div class="grid g2">
   {{< figure cdn="2021-09-steelwool-07" alt="Steel Wool" >}}
