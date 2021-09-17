@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Caught In Providence",
-      "count": 10,
+      "count": 8,
       "url": "https://www.last.fm/music/Caught+In+Providence"
     },
     {
@@ -19,6 +19,11 @@
       "name": "Daniel Radcliffe Answers MORE of the Web's Most Searched Questions",
       "count": 1,
       "url": "https://www.last.fm/music/Daniel+Radcliffe+Answers+MORE+of+the+Web%27s+Most+Searched+Questions"
+    },
+    {
+      "name": "David Scala",
+      "count": 1,
+      "url": "https://www.last.fm/music/David+Scala"
     },
     {
       "name": "Elijah Wood Explores His Impact on the Internet",
@@ -44,11 +49,6 @@
       "name": "Jude Joins Zero in the Bath",
       "count": 1,
       "url": "https://www.last.fm/music/Jude+Joins+Zero+in+the+Bath"
-    },
-    {
-      "name": "Pabllo Vittar",
-      "count": 1,
-      "url": "https://www.last.fm/music/Pabllo+Vittar"
     }
   ],
   "tracks": [
@@ -107,8 +107,8 @@
       "artist": "Caught In Providence"
     },
     {
-      "name": "I’m Not Going to Waste Your Time, I’m Guilty.",
-      "url": "https://www.last.fm/music/Caught+In+Providence/_/I%E2%80%99m+Not+Going+to+Waste+Your+Time,+I%E2%80%99m+Guilty.",
+      "name": "Paula Abdul Gets Caught in Providence",
+      "url": "https://www.last.fm/music/Caught+In+Providence/_/Paula+Abdul+Gets+Caught+in+Providence",
       "count": 1,
       "artist": "Caught In Providence"
     }
