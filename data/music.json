@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Caught In Providence",
-      "count": 8,
+      "count": 6,
       "url": "https://www.last.fm/music/Caught+In+Providence"
     },
     {
@@ -26,11 +26,6 @@
       "url": "https://www.last.fm/music/David+Scala"
     },
     {
-      "name": "Elijah Wood Explores His Impact on the Internet",
-      "count": 1,
-      "url": "https://www.last.fm/music/Elijah+Wood+Explores+His+Impact+on+the+Internet"
-    },
-    {
       "name": "fag",
       "count": 1,
       "url": "https://www.last.fm/music/fag"
@@ -49,6 +44,11 @@
       "name": "Jude Joins Zero in the Bath",
       "count": 1,
       "url": "https://www.last.fm/music/Jude+Joins+Zero+in+the+Bath"
+    },
+    {
+      "name": "Pabllo Vittar",
+      "count": 1,
+      "url": "https://www.last.fm/music/Pabllo+Vittar"
     }
   ],
   "tracks": [
