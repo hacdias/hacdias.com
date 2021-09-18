@@ -2,6 +2,7 @@
 title: Buy me a coffee
 emoji: ☕️
 noMentions: true
+draft: true
 ---
 
 Sometimes, some people ask if there's a way they can donate a few coins, whether they enjoyed my website's content, or use one of the open source projects [I work on](https://github.com/hacdias).
