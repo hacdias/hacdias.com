@@ -25,5 +25,4 @@ Most likely you've already noticed that my handle, `@hacdias`, reminds of the wo
   <li><a title="Resume" href="../resume/">📄 Resume</a></li>
   <li><a title="Projects" href="../projects/">📦 Projects</a></li>
   <li><a title="Meta" href="../meta/">⚙️ Meta</a></li>
-  <li><a title="Buy me a coffee" href="../buy-me-a-coffee/">☕️ Buy me a coffee</a></li>
 </ul>

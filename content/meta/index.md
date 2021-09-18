@@ -97,23 +97,6 @@ When you visit one of my posts, you'll be able to see on the bottom a box where 
 
 </div>
 
-<!--
-### Feeds
-
-All pages that list posts, such as [micro](/micro/) and [articles](/articles/), have three feeds attached to them: HTML ([Microformats](https://microformats.org/)), JSON and an RSS feed. If you want to follow all my posts, you can use the feed at the ["all"](/all) page. If you feed your RSS reader the page URL, it should be able to automatically detect the feed locations.
-
-<div class="box blue">
-
-  In case your feed does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the ["all"](/all) page:
-
-  - **HTML/Microformats**: [https://hacdias.com/all](/all/)
-  - **RSS Feed**: [https://hacdias.com/all/feed.xml](/all/feed.xml)
-  - **JSON Feed**: [https://hacdias.com/all/feed.json](/all/feed.json)
-
-</div>
-
--->
-
 ### Search
 
 One very important feature, personally, is the search feature. Right now, the search feature is available through the [search](/search) page only. However, in the future, I want to be able to search from any point of the website.
@@ -131,5 +114,4 @@ The search is **not** static. I am self-hosting an instance of [MeiliSearch](htt
 <ul class='terms bold'>
   <li><a title="About" href="../about/">🧔 About</a></li>
   <li><a title="Guestbook" href="../guestbook/">📝 Guestbook</a></li>
-  <li><a title="Buy me a coffee" href="../buy-me-a-coffee/">☕️ Buy me a coffee</a></li>
 </ul>
