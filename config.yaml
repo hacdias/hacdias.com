@@ -50,9 +50,9 @@ menu:
     pre: 📌
     url: /links/
     weight: 5
-  - name: Subscribe
+  - name: Follow
     pre: ⚡️
-    url: /subscribe/
+    url: /contact/
     weight: 6
   - name: More
     pre: 🌈
