@@ -27,7 +27,6 @@ noMentions: true
 - 📚 [Reads](/reads/)
 - 📄 [Resume](/resume/)
 - 🔎 [Search](/search/)
-- ⚡️ [Subscribe](/subscribe/)
 - 🏷 [Tags](/tags/)
 - 🛠️ [Uses](/uses/)
 - 🎬 [Watches](/watches/)
