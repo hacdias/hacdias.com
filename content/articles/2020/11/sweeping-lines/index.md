@@ -4,7 +4,6 @@ description: >
   Geometric algorithms can be quite fascinating things. I dive a bit
   into sweeping line algorithms and how to find visible segments in a plane.
 tags:
-- mondayletter
 - algorithms
 date: 2020-11-16T09:00:00+01:00
 ---

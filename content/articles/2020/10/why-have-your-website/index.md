@@ -4,8 +4,6 @@ description: >
   We live in a world with increasingly larger social media platforms.
   Everyone's profile looks the same, barely distinguishable. Why not
   have a website?
-tags:
-- mondayletter
 date: 2020-10-26T09:00:00+01:00
 ---
 

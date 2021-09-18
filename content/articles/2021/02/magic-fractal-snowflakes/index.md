@@ -4,7 +4,6 @@ description: >
   I have been wishing snow for a long time and the winter has finally come. That made me have
   the idea of generating fractal snowflakes using the JavaScript.
 tags:
-- mondayletter
 - javascript
 - art
 date: 2021-02-15T06:30:00Z

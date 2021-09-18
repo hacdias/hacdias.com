@@ -5,7 +5,6 @@ description: >
   a master's project and thesis. Thus, it's never too early to think about it.
 tags:
 - reflection
-- mondayletter
 date: 2020-10-05T09:00:00+02:00
 syndication:
 - https://twitter.com/hacdias/status/1317859153185001474
