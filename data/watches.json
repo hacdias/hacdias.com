@@ -1933,8 +1933,13 @@
   ],
   "series": [
     {
+      "title": "Sex Education",
+      "watched": "2021-09-18T21:52:59.000Z",
+      "url": "https://trakt.tv/shows/sex-education"
+    },
+    {
       "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2021-09-04T06:47:36.000Z",
+      "watched": "2021-09-18T09:58:44.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
     },
     {
@@ -2158,9 +2163,9 @@
       "url": "https://trakt.tv/shows/the-umbrella-academy"
     },
     {
-      "title": "RuPaul's Secret Celebrity Drag Race",
+      "title": "Secret Celebrity RuPaul's Drag Race",
       "watched": "2020-08-17T14:04:31.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-secret-celebrity-drag-race"
+      "url": "https://trakt.tv/shows/secret-celebrity-rupaul-s-drag-race"
     },
     {
       "title": "The Politician",
@@ -2241,11 +2246,6 @@
       "title": "The New Pope",
       "watched": "2020-02-15T18:05:17.000Z",
       "url": "https://trakt.tv/shows/the-new-pope"
-    },
-    {
-      "title": "Sex Education",
-      "watched": "2020-01-20T22:44:39.000Z",
-      "url": "https://trakt.tv/shows/sex-education"
     },
     {
       "title": "AJ and the Queen",
