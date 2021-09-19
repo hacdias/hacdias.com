@@ -1,116 +1,116 @@
 {
   "artists": [
     {
-      "name": "Caught In Providence",
-      "count": 6,
-      "url": "https://www.last.fm/music/Caught+In+Providence"
-    },
-    {
       "name": "Agnes",
-      "count": 4,
+      "count": 8,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
-      "name": "Eli Lieb",
-      "count": 2,
-      "url": "https://www.last.fm/music/Eli+Lieb"
+      "name": "Omar Rudberg",
+      "count": 7,
+      "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
-      "name": "Daniel Radcliffe Answers MORE of the Web's Most Searched Questions",
-      "count": 1,
-      "url": "https://www.last.fm/music/Daniel+Radcliffe+Answers+MORE+of+the+Web%27s+Most+Searched+Questions"
+      "name": "GALXARA",
+      "count": 6,
+      "url": "https://www.last.fm/music/GALXARA"
     },
     {
-      "name": "David Scala",
-      "count": 1,
-      "url": "https://www.last.fm/music/David+Scala"
+      "name": "Caught In Providence",
+      "count": 5,
+      "url": "https://www.last.fm/music/Caught+In+Providence"
     },
     {
-      "name": "fag",
-      "count": 1,
-      "url": "https://www.last.fm/music/fag"
+      "name": "Marina",
+      "count": 5,
+      "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Jago Hazzard",
-      "count": 1,
-      "url": "https://www.last.fm/music/Jago+Hazzard"
+      "name": "Troye Sivan",
+      "count": 5,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Jamie Dear",
-      "count": 1,
-      "url": "https://www.last.fm/music/Jamie+Dear"
+      "name": "Charli XCX",
+      "count": 4,
+      "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
-      "name": "Jude Joins Zero in the Bath",
-      "count": 1,
-      "url": "https://www.last.fm/music/Jude+Joins+Zero+in+the+Bath"
+      "name": "Chris Tiaan",
+      "count": 3,
+      "url": "https://www.last.fm/music/Chris+Tiaan"
     },
     {
-      "name": "Pabllo Vittar",
-      "count": 1,
-      "url": "https://www.last.fm/music/Pabllo+Vittar"
+      "name": "Cutts",
+      "count": 3,
+      "url": "https://www.last.fm/music/Cutts"
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 3,
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
     }
   ],
   "tracks": [
     {
-      "name": "Boys Who Like Boys",
-      "url": "https://www.last.fm/music/Eli+Lieb/_/Boys+Who+Like+Boys",
-      "count": 2,
-      "artist": "Eli Lieb"
+      "name": "Angel Baby",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+      "count": 4,
+      "artist": "Troye Sivan"
     },
     {
-      "name": "24 Hours",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
-      "count": 1,
+      "name": "Fingers Crossed - The Circle° Sessions",
+      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
+      "count": 3,
       "artist": "Agnes"
     },
     {
-      "name": "24 Hours (Live)",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours+(Live)",
-      "count": 1,
-      "artist": "Agnes"
+      "name": "Good Ones",
+      "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
+      "count": 3,
+      "artist": "Charli XCX"
     },
     {
-      "name": "Fingers Crossed",
-      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed",
-      "count": 1,
-      "artist": "Agnes"
+      "name": "Le combat du comfort",
+      "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
+      "count": 3,
+      "artist": "Chris Tiaan"
     },
     {
-      "name": "Fingers Crossed (Live)",
-      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+(Live)",
-      "count": 1,
-      "artist": "Agnes"
+      "name": "Honey",
+      "url": "https://www.last.fm/music/Cutts/_/Honey",
+      "count": 3,
+      "artist": "Cutts"
     },
     {
-      "name": "18 years in prison",
-      "url": "https://www.last.fm/music/Caught+In+Providence/_/18+years+in+prison",
-      "count": 1,
-      "artist": "Caught In Providence"
+      "name": "I Miss The Days (feat. Party Pupils)",
+      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
+      "count": 3,
+      "artist": "GALXARA"
     },
     {
-      "name": "4 Kids. 13 Tickets & Doing the Best She Can &  I'm sorry I have postpartum!",
-      "url": "https://www.last.fm/music/Caught+In+Providence/_/4+Kids.+13+Tickets+&+Doing+the+Best+She+Can+&++I%27m+sorry+I+have+postpartum!",
-      "count": 1,
-      "artist": "Caught In Providence"
+      "name": "Loving Nobody",
+      "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
+      "count": 3,
+      "artist": "GALXARA"
     },
     {
-      "name": "A Chip on Her Shoulder",
-      "url": "https://www.last.fm/music/Caught+In+Providence/_/A+Chip+on+Her+Shoulder",
-      "count": 1,
-      "artist": "Caught In Providence"
+      "name": "good 4 u",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
+      "count": 3,
+      "artist": "Olivia Rodrigo"
     },
     {
-      "name": "Can't Wear a Seatbelt, The Judge is Never Wrong, Liberian Pride",
-      "url": "https://www.last.fm/music/Caught+In+Providence/_/Can%27t+Wear+a+Seatbelt,+The+Judge+is+Never+Wrong,+Liberian+Pride",
-      "count": 1,
-      "artist": "Caught In Providence"
+      "name": "You",
+      "url": "https://www.last.fm/music/Regard/_/You",
+      "count": 3,
+      "artist": "Regard"
     },
     {
-      "name": "Paula Abdul Gets Caught in Providence",
-      "url": "https://www.last.fm/music/Caught+In+Providence/_/Paula+Abdul+Gets+Caught+in+Providence",
-      "count": 1,
-      "artist": "Caught In Providence"
+      "name": "Round & Round",
+      "url": "https://www.last.fm/music/Ti%C3%ABsto/_/Round+&+Round",
+      "count": 3,
+      "artist": "Tiësto"
     }
   ]
 }
