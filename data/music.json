@@ -1,24 +1,44 @@
 {
   "artists": [
     {
-      "name": "Agnes",
-      "count": 8,
-      "url": "https://www.last.fm/music/Agnes"
-    },
-    {
       "name": "Omar Rudberg",
-      "count": 7,
+      "count": 12,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
+      "name": "Agnes",
+      "count": 11,
+      "url": "https://www.last.fm/music/Agnes"
+    },
+    {
       "name": "GALXARA",
-      "count": 6,
+      "count": 9,
       "url": "https://www.last.fm/music/GALXARA"
     },
     {
-      "name": "Caught In Providence",
+      "name": "Pabllo Vittar",
+      "count": 8,
+      "url": "https://www.last.fm/music/Pabllo+Vittar"
+    },
+    {
+      "name": "Troye Sivan",
+      "count": 8,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
+      "name": "Charli XCX",
+      "count": 6,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
+      "name": "Luísa Sonza",
+      "count": 6,
+      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
+    },
+    {
+      "name": "Cutts",
       "count": 5,
-      "url": "https://www.last.fm/music/Caught+In+Providence"
+      "url": "https://www.last.fm/music/Cutts"
     },
     {
       "name": "Marina",
@@ -26,90 +46,70 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Troye Sivan",
+      "name": "Regard",
       "count": 5,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
-      "name": "Charli XCX",
-      "count": 4,
-      "url": "https://www.last.fm/music/Charli+XCX"
-    },
-    {
-      "name": "Chris Tiaan",
-      "count": 3,
-      "url": "https://www.last.fm/music/Chris+Tiaan"
-    },
-    {
-      "name": "Cutts",
-      "count": 3,
-      "url": "https://www.last.fm/music/Cutts"
-    },
-    {
-      "name": "Olivia Rodrigo",
-      "count": 3,
-      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+      "url": "https://www.last.fm/music/Regard"
     }
   ],
   "tracks": [
     {
       "name": "Angel Baby",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-      "count": 4,
+      "count": 7,
       "artist": "Troye Sivan"
     },
     {
-      "name": "Fingers Crossed - The Circle° Sessions",
-      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
-      "count": 3,
-      "artist": "Agnes"
+      "name": "MODO TURBO",
+      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
+      "count": 6,
+      "artist": "Luísa Sonza"
     },
     {
       "name": "Good Ones",
       "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
-      "count": 3,
+      "count": 5,
       "artist": "Charli XCX"
-    },
-    {
-      "name": "Le combat du comfort",
-      "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 3,
-      "artist": "Chris Tiaan"
     },
     {
       "name": "Honey",
       "url": "https://www.last.fm/music/Cutts/_/Honey",
-      "count": 3,
+      "count": 5,
       "artist": "Cutts"
     },
     {
       "name": "I Miss The Days (feat. Party Pupils)",
       "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 3,
+      "count": 5,
       "artist": "GALXARA"
-    },
-    {
-      "name": "Loving Nobody",
-      "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
-      "count": 3,
-      "artist": "GALXARA"
-    },
-    {
-      "name": "good 4 u",
-      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
-      "count": 3,
-      "artist": "Olivia Rodrigo"
     },
     {
       "name": "You",
       "url": "https://www.last.fm/music/Regard/_/You",
-      "count": 3,
+      "count": 5,
       "artist": "Regard"
+    },
+    {
+      "name": "Fingers Crossed - The Circle° Sessions",
+      "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
+      "count": 4,
+      "artist": "Agnes"
+    },
+    {
+      "name": "Le combat du comfort",
+      "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
+      "count": 4,
+      "artist": "Chris Tiaan"
+    },
+    {
+      "name": "Loving Nobody",
+      "url": "https://www.last.fm/music/GALXARA/_/Loving+Nobody",
+      "count": 4,
+      "artist": "GALXARA"
     },
     {
       "name": "Round & Round",
       "url": "https://www.last.fm/music/Ti%C3%ABsto/_/Round+&+Round",
-      "count": 3,
+      "count": 4,
       "artist": "Tiësto"
     }
   ]
