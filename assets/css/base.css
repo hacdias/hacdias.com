@@ -289,12 +289,11 @@ details summary {
 .copy > pre {
   overflow: auto;
   border: 0;
-  padding: var(--space);
+  border-radius: var(--radius);
+  padding: var(--half-space);
   background: var(--near-white) !important;
 }
 
-.highlight > pre,
-.copy > pre,
 .full-width {
   width: calc(100% + 2 * var(--space));
   margin-left: calc(var(--space) * -1);

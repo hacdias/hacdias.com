@@ -64,7 +64,9 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    style: xcode
+    style: github
+    lineNos: true
+    lineNumbersInTable: false
 
 mediaTypes:
   application/activity+json:
