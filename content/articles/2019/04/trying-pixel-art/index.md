@@ -7,6 +7,7 @@ tags:
 - art
 - creative
 date: 2019-04-18T00:00:00Z
+lastmod: 2021-09-20T05:53:49.227871757Z
 aliases:
 - /articles/2019/04/18/1/
 - /2019/04/18/01/trying-pixel-art/
@@ -47,7 +48,7 @@ and I actually happen to like them. So I've started by doing so.
   {{< figure
     style="margin-right: 1rem"
     src="https://cdn.hacdias.com/u/2019-04-magician.jpeg"
-    caption="A magician, wizard ? 🧙‍♂️" >}}
+    caption="A magician, wizard?" >}}
 
   {{< figure
     style="margin-left: 1rem"
@@ -75,7 +76,7 @@ coming.
 {{< figure
   class="right pixelated"
   src="https://cdn.hacdias.com/u/2019-04-tecnico-tower.gif"
-  caption="Técnico - Chemistry Tower" >}}
+  caption="Técnico - Chemistry Tower ([NFT](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653459892891025409))" >}}
 
 I started by drawing the tower itself and the windows. Then, I moved to the building in front
 of it and both side buildings. I've played with some shadows and also made sure that I created
