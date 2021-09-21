@@ -290,7 +290,7 @@ details summary {
   overflow: auto;
   border: 0;
   border-radius: var(--radius);
-  padding: var(--half-space);
+  padding: var(--box-padding);
   background: var(--near-white) !important;
 }
 
