@@ -7,6 +7,18 @@
   width: 100%;
 }
 
+.terms.nyan a:hover {
+  background: #104d8f url(https://cdn.hacdias.com/u/nyan-cat.gif) no-repeat right / contain;
+  image-rendering: pixelated;
+  color: var(--white);
+}
+
+#trigger {
+  text-decoration:underline;
+  text-decoration-style: dotted;
+  cursor: pointer;
+}
+
 @media screen and (max-width: 38rem) {
   .terms {
     display: grid;
