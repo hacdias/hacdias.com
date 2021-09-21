@@ -1,0 +1,20 @@
+body {
+  background: #000 url(https://cdn.hacdias.com/u/2021-02-fire.gif) bottom repeat-x;
+  background-size: 100px;
+}
+
+.terms {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.terms a {
+  width: 100%;
+}
+
+@media screen and (max-width: 38rem) {
+  .terms {
+    display: grid;
+    grid-template-columns: auto;
+  }
+}
