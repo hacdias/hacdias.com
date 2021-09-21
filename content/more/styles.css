@@ -1,8 +1,3 @@
-body {
-  background: #000 url(https://cdn.hacdias.com/u/2021-02-fire.gif) bottom repeat-x;
-  background-size: 100px;
-}
-
 .terms {
   display: grid;
   grid-template-columns: 50% 50%;
@@ -16,5 +11,12 @@ body {
   .terms {
     display: grid;
     grid-template-columns: auto;
+  }
+}
+
+@media screen and (min-width: 38rem) {
+  body {
+    background: #000 url(https://cdn.hacdias.com/u/2021-02-space.gif);
+    background-attachment: fixed;
   }
 }
