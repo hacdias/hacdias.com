@@ -3,9 +3,9 @@
 <main role='main'>
   <h1>{{ .Title }}</h1>
 
-  {{ with .Content }}
-    <div>{{ . }}</div>
-  {{ end }}
+  {{- with .Content }}
+    <div class='copy'>{{ . }}</div>
+  {{- end }}
 
   <ul class='terms'>
     {{ range $i, $p := .Pages.ByTitle }}

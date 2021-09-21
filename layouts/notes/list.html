@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<main role='main'>
+  <h1>{{ .Title }}</h1>
+
+  {{- with .Content }}
+    <div class='copy'>{{ . }}</div>
+  {{- end }}
+
+  <ul class='terms bold grid h-feed'>
+    {{- $pages := (partialCached "get-pages" . .Type .Title) -}}
+    {{- $pages = sort $pages "Title" "asc" -}}
+    {{- range $pages -}}
+    <li class='h-entry'>
+      <a class='u-url p-name' href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{- end -}}
+  </ul>
+</main>
+
+{{ end }}

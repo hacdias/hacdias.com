@@ -11,7 +11,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 ### 📃 Content Categories {#content-categories}
 
-<ul class='terms bold'>
+<ul class='terms grid bold'>
   <li><a title="Articles" href="../articles/">✏️ Articles</a></li>
   <li><a title="Micro" href="../micro/">💬 Micro</a></li>
   <li><a title="Photos" href="../photos/">📸 Photos</a></li>
@@ -21,7 +21,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 ### 🥐 Others {#others}
 
-<ul class='terms bold'>
+<ul class='terms grid bold'>
   <li><a title="About" href="../about/">🧔 About</a></li>
   <li><a title="Contact" href="../contact/">✉️ Contact</a></li>
   <li><a title="Guestbook" href="../guestbook/">📝 Guestbook</a></li>
@@ -44,7 +44,7 @@ This website contains more things than it looks at first glance. This page is a 
 A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
 Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger'>Or they will bite you!</span>
 
-<ul id='experiments-list' class='terms bold'>
+<ul id='experiments-list' class='terms grid bold'>
   <li><a rel="noopener noreferrer" target="_link" title="Blue Screen of Death" href="../minisites/bsod/">🔵 Blue Screen of Death</a></li>
   <li><a rel="noopener noreferrer" target="_link" title="Glitch" href="../minisites/glitch/">📡 Glitch</a></li>
   <li><a rel="noopener noreferrer" target="_link" title="Procedural Map Generator" href="../minisites/mapgen/">🗺 Procedural Map Generator</a></li>

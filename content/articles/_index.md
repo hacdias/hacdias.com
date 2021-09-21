@@ -5,14 +5,4 @@ description: |
 aliases:
 - /blog/
 emoji: ✏️
-layout: articles
 ---
-
-<style>
-@media screen and (min-width: 38rem) {
-  body {
-    background: #f1c40f url(pencils.svg) repeat-x bottom;
-    background-attachment: fixed;
-  }
-}
-</style>

@@ -517,6 +517,21 @@ figure.right {
   font-weight: bold;
 }
 
+.terms.grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.terms.grid li {
+  margin: 0;
+}
+
+.terms.grid a {
+  width: 100%;
+}
+
 span.task-list + ul {
   list-style: none;
   padding-left: 0.5rem;
@@ -528,7 +543,7 @@ span.task-list + ul input {
 
 @media screen and (max-width: 40rem) {
   :root {
-    --space: 1.5rem;
+    --space: 1rem;
     --half-space: 1rem;
   }
 
@@ -558,8 +573,9 @@ span.task-list + ul input {
     display: block;
   }
 
-  .tags {
-    text-align: left;
+  .terms.grid {
+    display: grid;
+    grid-template-columns: auto;
   }
 
   .inline-form,

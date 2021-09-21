@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+<style>
+  .terms.grid {
+    grid-template-columns: 100%;
+  }
+
+  .terms a {
+    display: grid;
+    grid-template-columns: auto 100px;
+    grid-gap: 0.25rem;
+  }
+
+  .terms .p-name {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .terms time {
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -.012em;
+    white-space: pre;
+    text-align: right;
+    font-weight: normal;
+  }
+
+  @media screen and (max-width: 38rem) {
+    .terms a {
+      grid-template-columns: 100%;
+      grid-gap: 0.25rem;
+    }
+
+    .terms time {
+      text-align: left;
+    }
+  }
+</style>
+
+<main role='main'>
+  <h1>{{ .Title }}</h1>
+
+  {{- with .Content }}
+    <div class='copy'>{{ . }}</div>
+  {{- end }}
+
+  <ul class='terms grid bold h-feed'>
+    {{- $pages := (partialCached "get-pages" . .Type .Title) -}}
+    {{- range $pages -}}
+    <li class='h-entry'>
+      <a class='u-url p-name' href="{{ .RelPermalink }}">
+        <span class='p-name'>{{ .Title }}</span>
+        <time class='dt-published' datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      </a>
+    </li>
+    {{- end -}}
+  </ul>
+</main>
+
+{{ end }}
