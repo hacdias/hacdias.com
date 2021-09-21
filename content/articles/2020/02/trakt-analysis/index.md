@@ -65,6 +65,11 @@ HTML gets generated.
 ```
 
 <style>
+.small-svg,
+.smaller-svg {
+  text-align: center;
+}
+  
 .small-svg svg {
   max-height: 25rem;
 }

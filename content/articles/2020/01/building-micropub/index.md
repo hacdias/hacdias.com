@@ -1,7 +1,7 @@
 ---
 title: Adding support for Micropub endpoint
 tags:
-- indiweb
+- indieweb
 - meta
 date: 2020-01-01T23:30:00Z
 syndication:

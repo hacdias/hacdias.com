@@ -1,6 +1,6 @@
 ---
 title: More
-lastmod: 2021-09-21T06:29:38.122924359Z
+lastmod: 2021-09-21T10:38:46.554359591Z
 aliases:
 - /experiments
 emoji: "\U0001F308"
@@ -47,7 +47,7 @@ Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger
 <ul id='experiments-list' class='terms bold'>
   <li><a rel="noopener noreferrer" target="_link" title="Blue Screen of Death" href="../minisites/bsod/">🔵 Blue Screen of Death</a></li>
   <li><a rel="noopener noreferrer" target="_link" title="Glitch" href="../minisites/glitch/">📡 Glitch</a></li>
-  <li><a rel="noopener noreferrer" target="_link" title="Impossible List" href="../minisites/mapgen/">🗺 Procedural Map Generator</a></li>
+  <li><a rel="noopener noreferrer" target="_link" title="Procedural Map Generator" href="../minisites/mapgen/">🗺 Procedural Map Generator</a></li>
   <li><a rel="noopener noreferrer" target="_link" title="PixelColorMania" href="../minisites/pixelcolormania/">🏳️‍🌈 PixelColorMania</a></li>
   <li><a rel="noopener noreferrer" target="_link" title="Thunderstorm" href="../minisites/thunderstorm/">⛈ Thunderstorm</a></li>
   <li><a rel="noopener noreferrer" target="_link" title="TV Noise" href="../minisites/tv-noise/">📺 TV Noise</a></li>
