@@ -229,7 +229,7 @@ article header p {
   font-size: var(--f6);
   color: var(--light-gray);
   font-weight: 500;
-  margin: 0;
+  margin: 0 0 0.25rem;
 }
 
 table {
