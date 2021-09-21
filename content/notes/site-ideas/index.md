@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-21T16:40:07.002752511Z
+lastmod: 2021-09-21T17:24:33.451800853Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -17,7 +17,6 @@ Wanna know more about the website? Check out the [meta page](/meta)!
 - Move dashboard to subdomain.
 - Make search more accessible (everywhere? lazy loaded?).
 - Better way to create posts through archetypes.
-- Neon 404? https://css-tricks.com/how-to-create-neon-text-with-css/
 - **Reading** section
   - Create backend interface to edit reads / progress / info.
   - IndieWeb meta tags?
