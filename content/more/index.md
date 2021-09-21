@@ -12,11 +12,11 @@ This website contains more things than it looks at first glance. This page is a 
 ### 📃 Content Categories {#content-categories}
 
 <ul class='terms bold'>
-  <li><a title="Contact" href="../articles/">✏️ Articles</a></li>
-  <li><a title="Resume" href="../micro/">💬 Micro</a></li>
-  <li><a title="Projects" href="../photos/">📸 Photos</a></li>
-  <li><a title="Meta" href="../notes/">📓 Notes</a></li>
-  <li><a title="Meta" href="../all/">🪵 Log</a></li>
+  <li><a title="Articles" href="../articles/">✏️ Articles</a></li>
+  <li><a title="Micro" href="../micro/">💬 Micro</a></li>
+  <li><a title="Photos" href="../photos/">📸 Photos</a></li>
+  <li><a title="Notes" href="../notes/">📓 Notes</a></li>
+  <li><a title="Log" href="../all/">🪵 Log</a></li>
 </ul>
 
 ### 🥐 Others {#others}
