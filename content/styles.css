@@ -9,10 +9,3 @@
   margin-top: 0;
   text-align: center;
 }
-
-@media screen and (max-width: 38rem) {
-  .grid {
-    display: block;
-    margin-bottom: 0;
-  }
-}
