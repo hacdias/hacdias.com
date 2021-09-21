@@ -191,6 +191,11 @@
       "title": "Mike Stone"
     },
     {
+      "feed": "https://meowni.ca/atom.xml",
+      "site": "https://meowni.ca/",
+      "title": "Monica Dinculescu"
+    },
+    {
       "feed": "https://oscarbenedito.com/blog/index.xml",
       "site": "https://oscarbenedito.com/blog/",
       "title": "Oscar's Blog"
