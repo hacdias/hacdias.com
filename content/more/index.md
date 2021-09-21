@@ -1,6 +1,8 @@
 ---
 title: More
-lastmod: 2021-09-21T06:22:41.533322495Z
+lastmod: 2021-09-21T06:29:38.122924359Z
+aliases:
+- /experiments
 emoji: "\U0001F308"
 noMentions: true
 ---
