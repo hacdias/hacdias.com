@@ -31,7 +31,7 @@
       <div class="h-cite">
         <span class="p-author h-card">
           <img alt="{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
-          <a rel="noopener noreferrer" target="_link" class="p-name u-url no-link" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
+          <a rel="noopener noreferrer" target="_link" class="p-name u-url nl" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
         {{ if eq .type "like" }}
         liked this post.
         {{ else if eq .type "repost" }}
@@ -45,7 +45,7 @@
             mentioned this on <a rel="noopener noreferrer" target="_link" href="{{ .url }}">{{ .url }}</a>.
           {{ end }}
         {{ end }}
-        {{- with .date}} — <a rel="noopener noreferrer" target="_link" href="{{ $data.url }}" class="u-url date no-link">{{ dateFormat "02 Jan 2006 15:04" . }}</a>{{ end }}
+        {{- with .date}} — <a rel="noopener noreferrer" target="_link" href="{{ $data.url }}" class="u-url date nl">{{ dateFormat "02 Jan 2006 15:04" . }}</a>{{ end }}
       </div>
       {{ end }}
     </div>

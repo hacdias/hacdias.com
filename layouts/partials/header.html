@@ -2,7 +2,7 @@
 
 {{ if $notPhotos }}
 <div id='header'>
-  <a class='no-link' href='{{ relURL .Site.BaseURL }}'>
+  <a class='nl' href='{{ relURL .Site.BaseURL }}'>
     <img alt='Logo' src="{{ relURL "/logo.svg" }}">
     <div>
       <p class='name'>Henrique Dias</p>
@@ -15,17 +15,17 @@
 <nav id='navbar' {{ if $notPhotos }}class='full-width'{{ end }}>
   <input type="checkbox" id="toggler">
   <ul>
-    <li><label for="toggler"><a class='no-link'>🍔 Touch me</a></label></li>
+    <li><label for="toggler"><a class='nl'>🍔 Touch me</a></label></li>
     {{ if eq .Section "photos" }}
       <li>
-        <a href='{{ relURL "/" }}' class='no-link'>
+        <a href='{{ relURL "/" }}' class='nl'>
           <span>Home</span>
         </a>
       </li>
     {{ end }}
     {{ range .Site.Menus.main -}}
       <li>
-        <a href='{{ relURL .URL }}' class='no-link'>
+        <a href='{{ relURL .URL }}' class='nl'>
           <span>{{ if $notPhotos }}{{ .Pre }} {{end}}{{ .Name }}</span>
         </a>
       </li>

@@ -3,7 +3,7 @@
 {{ $isMicro := eq .Section "micro" }}
 
 <article class='h-entry card{{ if $isPhotos }} photos{{ end }}'>
-  <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="u-url no-link link"></a>
+  <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="u-url nl link"></a>
 
   {{ if $isPhotos }}
     {{ with .Params.cover }}

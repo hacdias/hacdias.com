@@ -144,14 +144,14 @@ li {
   color: var(--action)
 }
 
-.no-link,
-.no-link:active,
-.no-link:visited {
+.nl,
+.nl:active,
+.nl:visited {
   text-decoration: none;
   color: inherit;
 }
 
-.no-link:hover {
+.nl:hover {
   background: none;
 }
 
