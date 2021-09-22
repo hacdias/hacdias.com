@@ -1,7 +1,7 @@
 ---
 title: Links
 date: 2020-02-12T21:00:00Z
-lastmod: 2021-09-22T18:51:32.860122721Z
+lastmod: 2021-09-22T21:34:37.256525066Z
 aliases:
 - /pins
 - /bookmarks
@@ -55,5 +55,6 @@ An alphabetically sorted list of blogs, websites and people that I follow. News 
 Other blogrolls/personal website lists that I find interesting:
 
 - [Darek Kay's Blogroll](https://darekkay.com/personal-blogs/)
+- [Tania Rascia](https://www.taniarascia.com/)
 - [The Big List of Personal Websites](http://biglist.terraaeon.com/)
 - [PersonalSit.es](https://personalsit.es/)

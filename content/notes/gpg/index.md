@@ -1,8 +1,14 @@
 ---
 title: Security Setup
 date: 2021-05-28T21:47:57.89135882Z
-lastmod: 2021-05-30T08:21:53.173802831Z
+lastmod: 2021-09-22T21:18:10.307960039Z
 ---
+
+<div class="box green">
+
+🌱 This post is a seedling. If it gets more mature, it may become a full article.
+
+</div>
 
 ## Yubikey Setup
 

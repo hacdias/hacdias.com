@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-22T20:11:52.355620512Z
+lastmod: 2021-09-22T21:44:01.929501724Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -64,7 +64,7 @@ These are ideas that are not really settled in stone and they're mostly technica
 
 Cannot reveal those to you because... they're easter eggs.
 
-## Notes Section
+## 🪴 Towards a Digital Garden
 
 I've been reading more and more about digital gardens and I personally enjoy the idea of gradually growing ideas. However, I don't know if I should just transform the whole website in a "garden" per se where all the content (maybe except the micro section) are within the main level of pages. Also, how would I organize my feed for the readers?
 
@@ -75,6 +75,18 @@ I think that a good transition format is to start by:
 2. Slowly review the current notes I have and merge them/remove them if not needed. Add tags. I have a lot of notes that feel very very very useless.
 3. Start using the `/notes` section as a public draft places for my future posts. This way I can write them slowly without feeling the pressure to write a new post and publish it.
 4. (Hardest) add back-link references and make sure nothing breaks. In the meanwhile, I can just make sure that if I rename a page, I keep an alias.
+
+A nice organizational system from [this post](https://maggieappleton.com/garden-history):
+
+- 🌱 Seedlings: rough and early ideas
+- 🌿 Budding: clean and clarified work
+- 🌳 Evergreen: complete work, can be changed over time
+
+TODO:
+
+- [ ] Implement those divisions via tags only for notes/
+- [ ] Everything outside notes/ is, by default, mature.
+- [ ] Write some philosophy in meta/ about this. Think about the organizational layer of this website and content categories.
 
 ## CDN Structure
 
