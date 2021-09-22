@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Omar Rudberg",
-      "count": 20,
+      "count": 21,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Marina",
-      "count": 16,
+      "count": 17,
       "url": "https://www.last.fm/music/Marina"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "name": "Pabllo Vittar",
-      "count": 14,
+      "count": 13,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
@@ -41,14 +41,14 @@
       "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
+      "name": "Epona",
+      "count": 8,
+      "url": "https://www.last.fm/music/Epona"
+    },
+    {
       "name": "Cutts",
       "count": 6,
       "url": "https://www.last.fm/music/Cutts"
-    },
-    {
-      "name": "Regard",
-      "count": 6,
-      "url": "https://www.last.fm/music/Regard"
     }
   ],
   "tracks": [
