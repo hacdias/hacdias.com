@@ -40,7 +40,7 @@ This phase scans the input file and converts it into tokens. It converts a strea
 
 **Flex** is a tool used to recognize language elements specified as regular expressions, generating lexical analyzers (a.k.a. "scanners" or "lexers"). This tool is frequently paired with Berkeley YACC.
 
-**YACC** (yet another compiler compiler) is a grammar parser and parser generator. The parser converts the input tokens in a syntactiv tree, according to the grammar provided.
+**YACC** (yet another compiler compiler) is a grammar parser and parser generator. The parser converts the input tokens in a syntactic tree, according to the grammar provided.
 
 ### 2. Syntactic Analysis
 
@@ -58,7 +58,7 @@ After the semantic analysis, the compiler generates an intermediate code of the 
 
 ### 5. Code Optimization (optional)
 
-After generating the intermediate phase, a code optimizer might be used to optimize what the compiler have so far. Optimization can be assumed as a phase that removes unnecessary code lines and rearrages the statements for best performance.
+After generating the intermediate phase, a code optimizer might be used to optimize what the compiler have so far. Optimization can be assumed as a phase that removes unnecessary code lines and rearranges the statements for best performance.
 
 ### 6. Code Generation
 

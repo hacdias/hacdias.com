@@ -139,9 +139,9 @@ The protected value is of the creation. There are many types:
 - Patent: lasts for 20 years of exclusivity.
 - Utility model: lasts for 6+2+2 years of exclusivity.
 - Industrial design rights: lasts for 25 years and can be renewed every 5 years.
-- Unregistred industrial design.
+- Unregistered industrial design.
 
-**Patent** is a legal document that allows the owner to stop the manufacture, usage and comercialization of an invention by other people. It can protect products or production methods and has geographic limits. The first one to register it, gains the rights.
+**Patent** is a legal document that allows the owner to stop the manufacture, usage and commercialization of an invention by other people. It can protect products or production methods and has geographic limits. The first one to register it, gains the rights.
 
 A patent requires:
 
@@ -149,17 +149,17 @@ A patent requires:
 - It can't be **obvious**.
 - Must have an **industrial application**.
 
-Aditionally, it is also required:
+Additionally, it is also required:
 
 - **Sufficiency**: the request must have enough detail to allow for repeatability.
 - **Support**: the request must show what the invention does.
 
-**Trade secrets** are confidential intelectual property of a company.
+**Trade secrets** are confidential intellectual property of a company.
 
 There are advantages:
 
 - They have no time limit.
-- They don't need to be registred.
+- They don't need to be registered.
 - They don't need to be disclosed.
 
 And disadvantages:
