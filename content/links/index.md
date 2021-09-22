@@ -1,7 +1,7 @@
 ---
 title: Links
 date: 2020-02-12T21:00:00Z
-lastmod: 2021-04-14T06:10:48.706799564Z
+lastmod: 2021-09-22T18:51:32.860122721Z
 aliases:
 - /pins
 - /bookmarks
@@ -28,6 +28,10 @@ This is a non-exhaustive collection of interesting links and websites I found on
 - [Scuttlebut](https://scuttlebutt.nz/) - distributed social network.
 - [IPFS](https://ipfs.io/) - p2p hypermedia protocol.
 - [Near Protocol](https://near.org/) - really fast cryptocurrency protocol.
+- Web3 Domain Naming Systems
+	- [Handshake](https://www.namebase.io/) - you can register your own "TLD" and make subdomains out of it. There's a [DNS](https://www.namebase.io/blog/how-to-access-handshake-domains/) server that you can use to resolve these domains.
+	- [ENS](https://ens.domains/)
+	- [Unstoppable Domains](https://unstoppabledomains.com/)
 
 ## 📚 Educational {#educational}
 
