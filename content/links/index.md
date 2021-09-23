@@ -6,8 +6,11 @@ aliases:
 - /pins
 - /bookmarks
 - /blogroll
-emoji: "\U0001F517"
+emoji: 📌
 noMentions: true
+menu:
+  main:
+    weight: 5
 ---
 
 This is a non-exhaustive collection of interesting links and websites I found on the Internet during my "surfing" 🌊. These are definitely more interesting than my browser's bookmarks! Links with a #️⃣ icon are IPFS links!

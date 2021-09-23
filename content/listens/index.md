@@ -4,7 +4,7 @@ description: |
   An extensive list of TV shows and movies I have or am watching right now.
 aliases:
 - /music
-emoji: "\U0001F37F"
+emoji: 🎶
 noMentions: true
 ---
 

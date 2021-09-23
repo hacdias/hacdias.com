@@ -1,6 +1,9 @@
 ---
 title: Photos
-emoji: "\U0001F4F7"
+emoji: 📸
+menu:
+  main:
+    weight: 3
 ---
 
 ## Hi, I'm Henrique! 👋

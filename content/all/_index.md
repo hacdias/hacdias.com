@@ -2,6 +2,9 @@
 title: Stream
 emoji: 🌊
 layout: list
+menu:
+  main:
+    weight: 2
 ---
 
 <p class="subtitle">

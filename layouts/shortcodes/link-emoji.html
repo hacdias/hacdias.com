@@ -1,0 +1,3 @@
+{{- $page := .Site.GetPage (.Get 0) -}}
+
+<a title="{{ $page.Title }}" href="{{ $page.RelPermalink }}">{{$page.Params.emoji}} {{ $page.Title }}</a>

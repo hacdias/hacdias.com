@@ -6,6 +6,9 @@ aliases:
 - /experiments
 emoji: "\U0001F308"
 noMentions: true
+menu:
+  main:
+    weight: 7
 ---
 
 This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭!
@@ -13,30 +16,30 @@ This website contains more things than it looks at first glance. This page is a 
 ### 📃 Content Categories {#content-categories}
 
 <ul class='terms grid bold'>
-  <li><a title="Articles" href="../articles/">✏️ Articles</a></li>
-  <li><a title="Micro" href="../micro/">💬 Micro</a></li>
-  <li><a title="Photos" href="../photos/">📸 Photos</a></li>
-  <li><a title="Notes" href="../notes/">📓 Notes</a></li>
-  <li><a title="Stream" href="../all/">🌊 Stream</a></li>
+  <li>{{< link-emoji "/articles" >}}</li>
+  <li>{{< link-emoji "/micro" >}}</li>
+  <li>{{< link-emoji "/photos" >}}</li>
+  <li>{{< link-emoji "/notes" >}}</li>
+  <li>{{< link-emoji "/all" >}}</li>
 </ul>
 
 ### 🥐 Others {#others}
 
 <ul class='terms grid bold'>
-  <li><a title="About" href="../about/">🧔 About</a></li>
-  <li><a title="Contact" href="../contact/">✉️ Contact</a></li>
-  <li><a title="Guestbook" href="../guestbook/">📝 Guestbook</a></li>
-  <li><a title="Impossible List" href="../impossible-list/">🤯 Impossible List</a></li>
-  <li><a title="Links" href="../links/">📌 Links</a></li>
-  <li><a title="Listens" href="../listens/">🎶  Listens</a></li>
-  <li><a title="Meta" href="../meta/">⚙️ Meta</a></li>
-  <li><a title="Projects" href="../projects/">📦 Projects</a></li>
-  <li><a title="Reads" href="../reads/">📚 Reads</a></li>
-  <li><a title="Resume" href="../resume/">📄 Resume</a></li>
-  <li><a title="Search" href="../search/">🔎 Search</a></li>
-  <li><a title="Tags" href="../tags/">🏷 Tags</a></li>
-  <li><a title="Uses" href="../uses/">🛠️ Uses</a></li>
-  <li><a title="Watches" href="../watches/">🎬 Watches</a></li>
+  <li>{{< link-emoji "/about" >}}</li>
+  <li>{{< link-emoji "/meta" >}}</li>
+  <li>{{< link-emoji "/contact" >}}</li>
+  <li>{{< link-emoji "/guestbook" >}}</li>
+  <li>{{< link-emoji "/impossible-list" >}}</li>
+  <li>{{< link-emoji "/links" >}}</li>
+  <li>{{< link-emoji "/listens" >}}</li>
+  <li>{{< link-emoji "/projects" >}}</li>
+  <li>{{< link-emoji "/reads" >}}</li>
+  <li>{{< link-emoji "/resume" >}}</li>
+  <li>{{< link-emoji "/search" >}}</li>
+  <li>{{< link-emoji "/uses" >}}</li>
+  <li>{{< link-emoji "/tags" >}}</li>
+  <li>{{< link-emoji "/watches" >}}</li>
 </ul>
 
 

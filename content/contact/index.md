@@ -5,6 +5,11 @@ aliases:
 - /subscribe
 emoji: ✉️
 noMentions: true
+menu:
+  main:
+    weight: 6
+    name: Follow
+    pre: ⚡️
 ---
 
 <style>

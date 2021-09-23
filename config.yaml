@@ -28,37 +28,6 @@ params:
 taxonomies:
   tag: tags
 
-menu:
-  main:
-  - name: About
-    pre: 🧔
-    url: /about/
-    weight: 1
-  - name: Stream
-    pre: 🌊
-    url: /all/
-    weight: 2
-  - name: Photos
-    pre: 📸
-    url: /photos/
-    weight: 3
-  - name: Notes
-    pre: 📓
-    url: /notes/
-    weight: 4
-  - name: Links
-    pre: 📌
-    url: /links/
-    weight: 5
-  - name: Follow
-    pre: ⚡️
-    url: /contact/
-    weight: 6
-  - name: More
-    pre: 🌈
-    url: /more/
-    weight: 7
-
 markup:
   goldmark:
     renderer:

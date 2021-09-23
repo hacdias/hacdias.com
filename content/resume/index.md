@@ -5,6 +5,7 @@ aliases:
 - /curriculum/
 - /curriculum-vitae/
 noMentions: true
+emoji: 🎓
 ---
 
 <div class="head">

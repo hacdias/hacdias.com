@@ -3,6 +3,9 @@ title: About
 emoji: "\U0001F9D4"
 noMentions: true
 # date: 2015-10-03
+menu:
+  main:
+    weight: 1
 ---
 
 {{< figure alt="Me!" cdn="2019-06-henrique" caption="Photo by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
@@ -22,8 +25,8 @@ Back in 2014, when I started this website, I wrote my first ever post, in Portug
 Most likely you've already noticed that my handle, `@hacdias`, reminds of the word 'hack'. However, I can assure you they have nothing to do with each other. It was a mere coincidence between the first letters of my first name and middle names - 'hac' - and last name - 'dias' - that I happen to enjoy.
 
 <ul class='terms bold'>
-  <li><a title="Contact" href="../contact/">✉️ Contact</a></li>
-  <li><a title="Resume" href="../resume/">📄 Resume</a></li>
-  <li><a title="Projects" href="../projects/">📦 Projects</a></li>
-  <li><a title="Meta" href="../meta/">⚙️ Meta</a></li>
+  <li>{{< link-emoji "/contact" >}}</li>
+  <li>{{< link-emoji "/resume" >}}</li>
+  <li>{{< link-emoji "/projects" >}}</li>
+  <li>{{< link-emoji "/meta" >}}</li>
 </ul>

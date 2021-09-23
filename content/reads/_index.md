@@ -4,7 +4,7 @@ description: |
   A bookshelf of the books I have read in the past and the books I would like to read.
 aliases:
 - /books
-emoji: "\U0001F4D5"
+emoji: 📚
 noMentions: true
 layout: single
 ---

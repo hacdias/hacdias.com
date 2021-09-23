@@ -25,15 +25,13 @@
     <li><label for="toggler"><a class='nl'>🍔 Touch me</a></label></li>
     {{ if eq .Section "photos" }}
       <li>
-        <a href='{{ relURL "/" }}' class='nl'>
-          <span>Home</span>
-        </a>
+        <a href='{{ relURL "/" }}' class='nl'>Home</a>
       </li>
     {{ end }}
     {{ range .Site.Menus.main -}}
       <li>
-        <a href='{{ relURL .URL }}' class='nl'>
-          <span>{{ if $notPhotos }}{{ .Pre }} {{end}}{{ .Name }}</span>
+        <a href='{{ .Page.RelPermalink }}' class='nl'>
+          {{- if $notPhotos }}{{ or .Pre .Page.Params.emoji }} {{end}}{{ .Name -}}
         </a>
       </li>
     {{ end }}

@@ -1,5 +1,6 @@
 ---
 title: About This Website
+emoji: ⚙️
 date: 2021-02-19T09:45:13Z
 lastmod: 2021-06-09T07:12:43.291903936Z
 noMentions: true
@@ -113,6 +114,6 @@ The search is **not** static. I am self-hosting an instance of [MeiliSearch](htt
 3. Lately, I've been receiving e-mails regarding guest posts. This is my personal website. Thus, I do **not** accept guest posts.
 
 <ul class='terms bold'>
-  <li><a title="About" href="../about/">🧔 About</a></li>
-  <li><a title="Guestbook" href="../guestbook/">📝 Guestbook</a></li>
+  <li>{{< link-emoji "/about" >}}</li>
+  <li>{{< link-emoji "/guestbook" >}}</li>
 </ul>

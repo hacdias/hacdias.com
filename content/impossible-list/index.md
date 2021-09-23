@@ -1,6 +1,7 @@
 ---
 title: Impossible List
 date: 2020-07-15T00:00:00Z
+emoji: 🤯
 lastmod: 2021-08-18T08:19:09.760889705Z
 noMentions: true
 ---
