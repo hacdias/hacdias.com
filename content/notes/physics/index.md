@@ -1,10 +1,10 @@
 ---
 title: Physics
 tags:
-- seedling
 - physics
-lastmod: 2021-09-23T13:44:49.983580993Z
+lastmod: 2021-09-23T19:52:55.535619205Z
 math: true
+growth: budding
 ---
 
 ## Voltage

@@ -2,8 +2,10 @@
 title: Revolution OS
 tags:
 - movie
+lastmod: 2021-09-23T19:49:24.808123521Z
 aliases:
 - /notes/revolution-os
+growth: cactus
 ---
 
 {{< youtube 4vW62KqKJ5A >}}

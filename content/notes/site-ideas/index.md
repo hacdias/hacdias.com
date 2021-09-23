@@ -2,7 +2,8 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-23T19:00:00.24387286Z
+lastmod: 2021-09-23T19:50:22.252363321Z
+growth: budding
 ---
 
 <div class="subtitle">
@@ -78,7 +79,7 @@ A nice organizational system for my garden: [this post](https://maggieappleton.c
 
 - 🌱 *Seedlings*: rough and early ideas.
 - 🌿 *Budding*: clean and clarified work.
-- 🌵 *Cactus*: like budding, but probably won't be updated further.
+- 🌵 *Cactus*: between seedling and budding, probably won't become evergreen.
 - 🌳 *Evergreen*: complete work, can be changed over time.
 
 ### Transition plan

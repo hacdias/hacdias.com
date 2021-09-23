@@ -2,8 +2,10 @@
 title: Node.js Is Everywhere by Mikeal Rogers
 tags:
 - talk
+lastmod: 2021-09-23T19:48:58.914409923Z
 aliases:
 - /notes/node-js-is-everywhere-mikeal-rogers/
+growth: cactus
 ---
 
 {{< youtube Qkkmz5VZoMQ >}}

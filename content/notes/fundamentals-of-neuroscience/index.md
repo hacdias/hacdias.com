@@ -1,7 +1,8 @@
 ---
 title: Fundamentals of Neuroscience
-lastmod: 2021-09-23T13:59:51.192451917Z
+lastmod: 2021-09-23T20:00:42.919670712Z
 math: true
+growth: evergreen
 ---
 
 ## Neuron
@@ -350,7 +351,7 @@ $$E_{ion}=\frac{RT}{zF}\ln\frac{[ion]_o}{[ion]_i}$$
 $$DF = V_{membrane}-E_{ion}$$
 ### GHK Equation
 
-$$V_m=\frac{RT}{zF}\ln\frac{P_k[K]_o+P_{Na}[Na]_{o}+P_{Cl}[Cl]_i}{P_k[K]_i+P_{Na}[Na]_i+P_{Cl}[Cl]_{o}$$
+$$V_m=\frac{RT}{zF}\ln\frac{P_k[K]_o+P_{Na}[Na]_{o}+P_{Cl}[Cl]_i}{P_k[K]_i+P_{Na}[Na]_i+P_{Cl}[Cl]_o}$$
 
 ## References
 

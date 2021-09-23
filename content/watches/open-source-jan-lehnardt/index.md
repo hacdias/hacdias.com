@@ -2,8 +2,10 @@
 title: Open Source by Jan Lehnardt
 tags:
 - talk
+lastmod: 2021-09-23T19:49:10.950266674Z
 aliases:
 - /notes/open-source-jan-lehnardt/
+growth: cactus
 ---
 
 {{< youtube FYed4dYVtJA >}}

@@ -1,10 +1,10 @@
 ---
 title: Data Structures
 tags:
-- budding
 - algorithms
-lastmod: 2021-09-23T13:58:04.733506921Z
+lastmod: 2021-09-23T19:57:31.228117024Z
 math: true
+growth: budding
 ---
 
 ## First In, First Out (FIFO)

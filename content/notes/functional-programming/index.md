@@ -1,9 +1,8 @@
 ---
 title: Functional Programming
-tags:
-- budding
-lastmod: 2021-09-23T13:50:47.486554931Z
+lastmod: 2021-09-23T19:57:23.806420595Z
 math: true
+growth: budding
 ---
 
 Functional Programming is a [Programming Paradigm](/notes/programming-fundamentals/#programming-paradigms) in which programs are mostly built by applying and composing functions.

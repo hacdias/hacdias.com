@@ -2,9 +2,9 @@
 title: Sorting Algorithms
 tags:
 - algorithms
-- evergreen
-lastmod: 2021-09-23T13:41:29.427011355Z
+lastmod: 2021-09-23T19:51:29.803950233Z
 math: true
+growth: budding
 ---
 
 ```c

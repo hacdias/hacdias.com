@@ -3,8 +3,8 @@ title: gRPC
 tags:
 - decentralization
 - distributed-systems
-- budding
-lastmod: 2021-09-23T13:49:22.567699127Z
+lastmod: 2021-09-23T19:56:50.294724137Z
+growth: budding
 ---
 
 **gRPC** (gRPC Remote Procedure Calls) is a modern [Remote Procedure Call](/notes/remote-procedure-call/) mechanism, similar to traditional RPC, but developed with cloud services in mind. It was started  in 2015 by Google and it is an open source project.

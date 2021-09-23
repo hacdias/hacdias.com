@@ -1,10 +1,11 @@
 ---
 title: Asymptotic Notation
-math: true
 tags:
 - optimization
 - algorithms
-- budding
+lastmod: 2021-09-23T19:56:01.719005678Z
+math: true
+growth: budding
 ---
 
 - **Upper asymptotic bound:** worst-case scenario. Denoted by $O$.

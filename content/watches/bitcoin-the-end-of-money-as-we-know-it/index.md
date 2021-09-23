@@ -4,8 +4,10 @@ tags:
 - movie
 - documentary
 - blockchain
+lastmod: 2021-09-23T19:48:20.115224145Z
 aliases:
 - /notes/bitcoin-the-end-of-money-as-we-know-it/
+growth: cactus
 ---
 
 - **watch**: https://vimeo.com/ondemand/bitcoin

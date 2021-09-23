@@ -2,8 +2,10 @@
 title: Open Source Like a Boss by Charlie Robbins
 tags:
 - talk
+lastmod: 2021-09-23T19:49:15.818648568Z
 aliases:
 - /notes/open-source-like-a-boss-charlie-robbins/
+growth: cactus
 ---
 
 {{< youtube 9PK68ZKcSEk >}}

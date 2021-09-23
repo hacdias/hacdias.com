@@ -1,9 +1,9 @@
 ---
 title: URI
 tags:
-- budding
 - web
-lastmod: 2021-09-23T13:42:12.567354807Z
+lastmod: 2021-09-23T19:56:22.635500607Z
+growth: budding
 ---
 
 A **Uniform Resource Identifiers (URI)** is a string of characters that identifies unambiguously a resource. It is a standard in the WWW world.

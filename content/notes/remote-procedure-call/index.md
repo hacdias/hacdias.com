@@ -2,9 +2,9 @@
 title: Remote Procedure Call
 tags:
 - distributed-systems
-- budding
-lastmod: 2021-09-23T13:43:45.574525209Z
+lastmod: 2021-09-23T19:56:31.664239252Z
 mermaid: true
+growth: budding
 ---
 
 **Remote Procedure Call**, also known as RPC, tries to solve the communication problem on [Distributed Systems](/notes/distributed-systems/) by creating a simple interface to work over the network. RPC creates an abstraction layer over sockets and other network low-level specifics.

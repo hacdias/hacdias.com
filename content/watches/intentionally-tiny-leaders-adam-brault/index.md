@@ -2,8 +2,10 @@
 title: Intentionally Tiny Leaders by Adam Brault
 tags:
 - talk
+lastmod: 2021-09-23T19:48:39.994608794Z
 aliases:
 - /notes/intentionally-tiny-leaders-adam-brault/
+growth: cactus
 ---
 
 - **talk**: https://vimeo.com/52639927

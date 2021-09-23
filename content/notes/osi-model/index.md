@@ -1,10 +1,10 @@
 ---
 title: OSI Model
 tags:
-- seedling
 - distributed-systems
 - web
-lastmod: 2021-09-23T13:45:27.679927182Z
+lastmod: 2021-09-23T19:53:20.736433417Z
+growth: seedling
 ---
 
 1. Physical Layer

@@ -2,9 +2,9 @@
 title: Git
 tags:
 - distributed-systems
-- budding
-lastmod: 2021-09-23T13:49:45.969755892Z
+lastmod: 2021-09-23T19:57:04.514394894Z
 mermaid: true
+growth: budding
 ---
 
 Git is a [distributed](/notes/distributed-systems/) version control system for tracking changes in source code during software development.

@@ -2,8 +2,10 @@
 title: Open Source and Community by Mikeal Rogers
 tags:
 - talk
+lastmod: 2021-09-23T19:49:06.46545936Z
 aliases:
 - /notes/open-source-and-community-mikeal-rogers/
+growth: cactus
 ---
 
 {{< youtube GaqxIMLLOu8 >}}

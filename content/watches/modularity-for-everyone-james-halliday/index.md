@@ -3,8 +3,10 @@ title: Modularity for Everyone by James Halliday
 tags:
 - javascript
 - talk
+lastmod: 2021-09-23T19:48:53.278371788Z
 aliases:
 - /notes/modularity-for-everyone-james-halliday/
+growth: cactus
 ---
 
 {{< youtube DCQNm6yiZh0 >}}

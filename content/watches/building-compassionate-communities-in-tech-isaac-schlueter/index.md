@@ -2,8 +2,10 @@
 title: Building Compassionate Communities in Tech by Isaac Schlueter
 tags:
 - talk
+lastmod: 2021-09-23T19:48:30.204299179Z
 aliases:
 - /notes/building-compassionate-communities-in-tech-isaac-schlueter/
+growth: cactus
 ---
 
 {{< youtube 8kLIonLrKdQ >}}

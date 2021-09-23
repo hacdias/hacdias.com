@@ -2,8 +2,10 @@
 title: Conflict Resolution for Developers by Tracy Hinds
 tags:
 - talk
+lastmod: 2021-09-23T19:48:35.458246997Z
 aliases:
 - /notes/conflict-resolution-for-developers-tracy-hinds/
+growth: cactus
 ---
 
 {{< youtube wdOxI7NHzCg >}}

@@ -1,5 +1,7 @@
 ---
 title: Programming Fundamentals
+lastmod: 2021-09-23T20:01:52.703375466Z
+growth: budding
 ---
 
 An algorithm is a finite sequence of unambiguous and well-defined instructions. Each instruction can be mechanically executed in a finite period of time with a limited amount of effort in order to reach a goal.

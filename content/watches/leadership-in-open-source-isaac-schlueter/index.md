@@ -2,8 +2,10 @@
 title: Leadership in Open Source by Isaac Schlueter
 tags:
 - talk
+lastmod: 2021-09-23T19:48:48.67066146Z
 aliases:
 - /notes/leadership-in-open-source-isaac-schlueter/
+growth: cactus
 ---
 
 - **talk**: https://vimeo.com/77289729

@@ -2,8 +2,10 @@
 title: An End to Negativity by Chris Williams
 tags:
 - talk
+lastmod: 2021-09-23T19:48:11.120714905Z
 aliases:
 - /notes/an-end-to-negativity-chris-williams/
+growth: cactus
 ---
 
 {{< youtube 17rkSdkc5TI >}}

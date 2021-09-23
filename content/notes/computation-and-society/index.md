@@ -1,10 +1,10 @@
 ---
 title: Computation and Society
 tags:
-- budding
 - ethics
-lastmod: 2021-09-23T13:39:07.491299117Z
+lastmod: 2021-09-23T19:56:13.242675051Z
 mermaid: true
+growth: budding
 ---
 
 > This is mostly a translation to English of the notes originally provided by [Baltasar Dinis](https://www.edenbox.org/index.php/s/edenbox?path=%2FLEIC%2F3%C2%BA%20Ano%2F2%C2%BA%20Semestre%2FCS%2FResumos#pdfviewer).

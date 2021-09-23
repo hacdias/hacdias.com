@@ -1,5 +1,7 @@
 ---
 title: Object-Oriented Programming
+lastmod: 2021-09-23T20:02:08.709433856Z
+growth: budding
 ---
 
 **Object-oriented programming** is a [Programming Paradigm](/notes/programming-fundamentals/#programming-paradigms) based on the usage of objects.
