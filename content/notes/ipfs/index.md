@@ -1,5 +1,11 @@
 ---
 title: IPFS
+tags:
+- distributed-systems
+- seedling
+- web3
+- decentralization
+lastmod: 2021-09-23T13:48:16.907695841Z
 ---
 
 - **specs**: https://github.com/ipfs/specs

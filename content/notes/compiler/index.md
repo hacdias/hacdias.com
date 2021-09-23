@@ -1,7 +1,9 @@
 ---
 title: Compiler
+tags:
+- evergreen
+lastmod: 2021-09-23T13:37:25.299439646Z
 mermaid: true
-lastmod: 2021-02-20T08:37:05.738832052Z
 ---
 
 A compiler is a program that transforms a program written in the source language - taken as input - and produces a file in a different language. Usually, it's a binary file that can be executed by the machine, but it doesn't need to.

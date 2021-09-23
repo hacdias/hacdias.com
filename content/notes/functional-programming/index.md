@@ -1,5 +1,8 @@
 ---
 title: Functional Programming
+tags:
+- budding
+lastmod: 2021-09-23T13:50:47.486554931Z
 math: true
 ---
 

@@ -1,5 +1,9 @@
 ---
 title: Remote Procedure Call
+tags:
+- distributed-systems
+- budding
+lastmod: 2021-09-23T13:43:45.574525209Z
 mermaid: true
 ---
 
@@ -46,9 +50,9 @@ The programmer only needs to specify the interface and implement it, while the R
 
 ## Structure
 
-An [IDL](Interface%20Description%20Language) is required in order to specify the interface that is going to be used.
+An [IDL](/notes/interface-description-language/) is required in order to specify the interface that is going to be used.
 
-There are certain data types that cannot be obviously passed, such as pointers, or [passage by reference](Programming%20Fundamentals#parameters). The transmitted data types need to be serializable.
+There are certain data types that cannot be obviously passed, such as pointers, or [passage by reference](/notes/programming-fundamentals/#parameters). The transmitted data types need to be serializable.
 
 ### Stubs
 

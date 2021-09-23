@@ -1,5 +1,9 @@
 ---
 title: Git
+tags:
+- distributed-systems
+- budding
+lastmod: 2021-09-23T13:49:45.969755892Z
 mermaid: true
 ---
 

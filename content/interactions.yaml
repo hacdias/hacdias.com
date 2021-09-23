@@ -344,3 +344,19 @@
     name: Henrique Dias
     url: https://hacdias.com
     photo: https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg
+- wm-id: 1274905
+  type: mention
+  url: https://hacdias.com/notes/uri/
+  content: |-
+    A Uniform Resource Identifiers (URI) is a string of characters that identifies unambiguously a resource. It is a standard in the WWW world.The syntax:uri = scheme:[//authority]path[?query][#fragment]`
+    authority = [[email protected]]host[:port]
+    Examples:urn:isbn:0-486-27557-4
+    https://hacdias.com
+    mailto:[email protected]
+
+    URLA Uniform Resource Location (URL) is an URI type used to identify a resource on the Internet. It provides theURNA Uniform Resource Name (URN) is an URI type that identifies a given resource by name on a given namespace. For example, a book’s isbn.
+  date: 2021-09-23T13:41:05Z
+  author:
+    name: Henrique Dias
+    url: https://hacdias.com
+    photo: https://webmention.io/avatar/hacdias.com/664891eacca0e5248f8e6c7b5849da5c82f3a7d58fe9693e730338d01513b117.jpg

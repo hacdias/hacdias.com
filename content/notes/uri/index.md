@@ -1,5 +1,9 @@
 ---
 title: URI
+tags:
+- budding
+- web
+lastmod: 2021-09-23T13:42:12.567354807Z
 ---
 
 A **Uniform Resource Identifiers (URI)** is a string of characters that identifies unambiguously a resource. It is a standard in the WWW world.
@@ -13,8 +17,8 @@ authority = [userinfo@]host[:port]
  
 Examples:
   - urn:isbn:0-486-27557-4
-  - https://hacdias.com
-  - mailto:mail@hacdias.com
+  - https://example.com
+  - mailto:example@example.com
 
 ## URL
 

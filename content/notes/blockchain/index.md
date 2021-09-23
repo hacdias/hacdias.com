@@ -1,5 +1,9 @@
 ---
 title: Blockchain
+tags:
+- seedling
+- distributed
+lastmod: 2021-09-23T13:37:05.507209707Z
 ---
 
 - Distributed "database"

@@ -1,6 +1,9 @@
 ---
 title: Physics
-lastmod: 2021-02-20T08:10:30.394181874Z
+tags:
+- seedling
+- physics
+lastmod: 2021-09-23T13:44:49.983580993Z
 math: true
 ---
 

@@ -1,5 +1,9 @@
 ---
 title: Data Structures
+tags:
+- budding
+- algorithms
+lastmod: 2021-09-23T13:58:04.733506921Z
 math: true
 ---
 
@@ -23,11 +27,21 @@ math: true
 
 ## Hash Tables
 
+*TODO*
+
+There is also distributed variations known as [Distributed Hash Tables](/notes/distributed-hash-table/).
+
 ## Binary Trees
+
+*TODO*
 
 ## Graphs
 
+*TODO*
+
 ### Strongly Connected Components
+
+*TODO*
 
 #### Tarjan's Algorithm
 
@@ -54,6 +68,8 @@ tarjan_visit(u):
 ```
 
 ### Directed Acyclic Graph (DAG)
+
+*TODO*
 
 ### Topological Ordering
 

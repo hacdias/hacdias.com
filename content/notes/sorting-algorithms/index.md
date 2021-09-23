@@ -1,5 +1,9 @@
 ---
 title: Sorting Algorithms
+tags:
+- algorithms
+- evergreen
+lastmod: 2021-09-23T13:41:29.427011355Z
 math: true
 ---
 

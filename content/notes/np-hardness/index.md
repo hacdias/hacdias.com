@@ -1,5 +1,9 @@
 ---
 title: NP-hardness
+tags:
+- algorithms
+- seedling
+lastmod: 2021-09-23T13:47:34.91969147Z
 ---
 
 Some of the most well-known problems within Computer Science are virtually impossible to solve optimally at scale in a useful time. One of the most important known problems is the Traveling Salesmen problem. This problem boils down to: given a list of cities and the distances between each pair of them, what's the shortest possible route to go from a certain city to itself, visiting all of the other cities. This is problem has many more applications that its literal sense, hence its importance.

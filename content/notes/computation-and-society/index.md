@@ -1,5 +1,9 @@
 ---
 title: Computation and Society
+tags:
+- budding
+- ethics
+lastmod: 2021-09-23T13:39:07.491299117Z
 mermaid: true
 ---
 

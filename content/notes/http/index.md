@@ -1,5 +1,9 @@
 ---
-title: HTTP
+title: Hypertext Transfer Protocol
+tags:
+- web
+- budding
+lastmod: 2021-09-23T13:48:45.907956979Z
 ---
 
 The **Hypertext Transfer Protocol** (HTTP) is an [Application Layer](/notes/osi-model/) protocol.
