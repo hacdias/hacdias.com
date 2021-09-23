@@ -8,16 +8,15 @@
   {{- end }}
 
   {{/* TODO: filter system */}}
+  {{ $growth := .Site.Data.garden.growth }}
 
   <ul class='terms bold grid h-feed'>
     {{- $pages := (partialCached "get-pages" . .Type .Title) -}}
     {{- $pages = sort $pages "Title" "asc" -}}
     {{- range $pages -}}
-    <li class='h-entry'>
+    <li class='h-entry{{ with .Params.growth }} {{ . }}{{ end }}'>
       <a class='u-url' href="{{ .RelPermalink }}">
-        {{ if in .Params.tags "seedling" }}🌱
-        {{ else if in .Params.tags "budding" }}🌿
-        {{ else if in .Params.tags "evergreen" }}🌳{{ end -}}
+        {{ with .Params.growth }}{{ index $growth . }}{{ end }}
         <span class='p-name'>{{ .Title }}</span>
       </a>
     </li>

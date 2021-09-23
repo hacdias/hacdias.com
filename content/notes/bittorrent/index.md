@@ -1,7 +1,7 @@
 ---
 title: BitTorrent
+growth: seedling
 tags:
-- seedling
 - distributed
 lastmod: 2021-09-23T13:36:05.929538159Z
 ---

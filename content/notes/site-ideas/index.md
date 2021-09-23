@@ -76,9 +76,10 @@ On one hand, I have a stream, which is just an aggregation of my articles, micro
 
 A nice organizational system for my garden: [this post](https://maggieappleton.com/garden-history):
 
-- 🌱 Seedlings: rough and early ideas
-- 🌿 Budding: clean and clarified work
-- 🌳 Evergreen: complete work, can be changed over time
+- 🌱 *Seedlings*: rough and early ideas.
+- 🌿 *Budding*: clean and clarified work.
+- 🌵 *Cactus*: like budding, but probably won't be updated further.
+- 🌳 *Evergreen*: complete work, can be changed over time.
 
 ### Transition plan
 
