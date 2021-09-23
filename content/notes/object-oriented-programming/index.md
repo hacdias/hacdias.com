@@ -1,5 +1,5 @@
 ---
-title: Object-oriented Programming
+title: Object-Oriented Programming
 ---
 
 **Object-oriented programming** is a [Programming Paradigm](/notes/programming-fundamentals/#programming-paradigms) based on the usage of objects.
