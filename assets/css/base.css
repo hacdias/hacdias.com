@@ -440,14 +440,14 @@ figure.right {
   margin-left: 0.5rem;
 }
 
-.subtitle {
+.subtitle p {
   color: var(--light-gray);
   font-weight: 500;
   font-size: var(--f4);
   margin-top: -1rem;
 }
 
-.subtitle::after {
+.subtitle p::after {
   content: " ";
   display: block;
   width: 30%;
@@ -539,6 +539,7 @@ figure.right {
 
 .terms.grid a {
   width: 100%;
+  height: 100%;
 }
 
 span.task-list + ul {

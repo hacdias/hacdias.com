@@ -1,13 +1,28 @@
 {{ $pages := .RegularPages }}
 {{ $regularPages := .Site.RegularPages  }}
-{{ $isAll := or (eq .Section "all") .IsHome }}
+{{ $isStream := or (eq .Section "all") .IsHome }}
+{{ $isGarden := eq .Title "Garden" }}
 
-{{ if $isAll }}
+{{/*
+  Stream Sections: Micro, Photos, Articles
+  Garden Sections: Notes, Reads, Watches
+  Special sections: Stream, Garden, Projects (consider deleting)
+*/}}
+
+{{ if $isStream }}
   {{ $articles :=  where $regularPages ".Section" "=" "articles" }}
   {{ $micro :=  where $regularPages ".Section" "=" "micro" }}
   {{ $photos :=  where $regularPages ".Section" "=" "photos" }}
   {{ $pages = union (union $articles $micro) $photos }}
   {{ $pages = sort $pages "Date" "desc" }}
+{{ end }}
+
+{{ if $isGarden }}
+  {{ $notes :=  where $regularPages ".Section" "=" "notes" }}
+  {{ $reads :=  where $regularPages ".Section" "=" "reads" }}
+  {{ $watches :=  where $regularPages ".Section" "=" "watches" }}
+  {{ $pages = union (union $notes $reads) $watches }}
+  {{ $pages = sort $pages "Lastmod" "desc" }}
 {{ end }}
 
 {{ return $pages }}

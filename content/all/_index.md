@@ -7,6 +7,8 @@ menu:
     weight: 2
 ---
 
-<p class="subtitle">
-  A living stream combining the feeds: articles, micro and photos.
-</p>
+<div class="subtitle">
+
+A living stream combining the feeds: [articles](/articles), [micro](/micro) and [photos](/photos).
+
+</div>

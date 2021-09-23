@@ -5,7 +5,11 @@ tags:
 lastmod: 2021-09-23T09:05:30.944477955Z
 ---
 
-<p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
+<div class="subtitle">
+
+A bunch of ideas for my website that might never get implemented.
+
+</div>
 
 This is an ever-changing page of ideas to add/change on this website. It's an actual issue: I'm always having ideas, but they're either too green and not good to implement, or I just end up forgetting and never looking back at it anymore 😂 If you want to know more about **how** this website works, check out the [meta page](/meta)!
 

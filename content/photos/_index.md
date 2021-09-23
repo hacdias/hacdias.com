@@ -3,7 +3,7 @@ title: Photos
 emoji: 📸
 menu:
   main:
-    weight: 3
+    weight: 4
 ---
 
 ## Hi, I'm Henrique! 👋
