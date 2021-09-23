@@ -9,11 +9,11 @@ Born in Portugal 🇵🇹 . I am a Master's student 🎓 in Computer Science and
 
 Lately, {{< latest-read >}}. On the big screen, the last movie 🎬 I [watched](/watches/) was "{{< latest-watch type="movies" >}}" and the last episode 📺 was from "{{< latest-watch type="series" >}}". On the musical side, the artist I've been [listening 🎧](/listens/) to the most is {{< recent-artist >}}.
 
-### ☄️ Latest <small>[[all posts](/all/)]</small> {#latest}
+### ☄️ Latest {#latest}
 
 {{< latest n=5 >}}
 
-[🪵 More posts](/all/)
+[🌊 More Posts](/all/)
 
 <div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>

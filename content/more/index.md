@@ -16,7 +16,7 @@ This website contains more things than it looks at first glance. This page is a 
   <li><a title="Micro" href="../micro/">💬 Micro</a></li>
   <li><a title="Photos" href="../photos/">📸 Photos</a></li>
   <li><a title="Notes" href="../notes/">📓 Notes</a></li>
-  <li><a title="Log" href="../all/">🪵 Log</a></li>
+  <li><a title="Stream" href="../all/">🌊 Stream</a></li>
 </ul>
 
 ### 🥐 Others {#others}
@@ -82,3 +82,5 @@ trigger.addEventListener('click', async () => {
   trigger.classList.toggle('dn')
 })
 </script>
+
+<!-- Micro More Photos Articles About this website Notes Reads Impossible List Links Stuff I use About Contact Guestbook Listens Log Projects Resume Search Watches -->

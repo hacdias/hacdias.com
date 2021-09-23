@@ -31,20 +31,20 @@ taxonomies:
 menu:
   main:
   - name: About
-    pre: 🧔 
+    pre: 🧔
     url: /about/
     weight: 1
-  - name: Articles
-    pre: ✏️
-    url: /articles/
+  - name: Stream
+    pre: 🌊
+    url: /all/
     weight: 2
-  - name: Micro
-    pre: 💬
-    url: /micro/
-    weight: 3
   - name: Photos
     pre: 📸
     url: /photos/
+    weight: 3
+  - name: Notes
+    pre: 📓
+    url: /notes/
     weight: 4
   - name: Links
     pre: 📌
