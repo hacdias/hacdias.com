@@ -1,5 +1,5 @@
 ---
-title: A quick dive into the dWeb with IPFS
+title: A Quick Dive Into the DWeb With Ipfs
 description: |
   I gave my first talk ever on BarcampLX #4 and I gave an introduction to the dWeb world using IPFS as a gateway.
 tags:

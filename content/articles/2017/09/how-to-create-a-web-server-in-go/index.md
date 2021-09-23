@@ -1,5 +1,5 @@
 ---
-title: How to create a web server in Go
+title: How To Create a Web Server in Go
 tags:
 - go
 date: 2017-09-08T00:00:00Z

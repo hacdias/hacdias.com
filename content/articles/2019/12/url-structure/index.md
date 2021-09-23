@@ -1,5 +1,5 @@
 ---
-title: URL Structure
+title: Thoughts on This Website’s URL Structure
 description: |
   Data is a topic I've been wanting to write about for quite some time. Do we own our data? What should we do about it?
 tags:

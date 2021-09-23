@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-23T06:16:36.415372081Z
+lastmod: 2021-09-23T09:05:30.944477955Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -87,6 +87,8 @@ Things to do:
 - [ ] Instead of "Entries", add a section for each category on [`notes/`](/notes/) (if no tag is present, the note is a seedling).
 - [ ] Review current notes and add tags. Merge/remove them if no longer necessary or too small.
 - [ ] Move this idea to [`meta/`](/meta/) once it is more consolidated.
+- [ ] Capitalize all posts according to this rules: https://capitalizemytitle.com/style/Wiki/
+- [ ] Possibly rename Log to Stream. On the navbar, add Log instead of articles/micro and add Notes.
 
 ## CDN Structure
 
