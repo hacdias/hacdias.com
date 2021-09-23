@@ -1,11 +1,3 @@
-@media screen and (min-width: 38rem) {
-  body {
-    background: white url(/micro/pattern.jpg);
-    background-size: 400px;
-    background-attachment: fixed;
-  }
-}
-
 .entry {
   padding: var(--box-padding);
   margin: var(--half-space) 0;
