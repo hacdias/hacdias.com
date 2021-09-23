@@ -12,7 +12,12 @@
     {{- $pages = sort $pages "Title" "asc" -}}
     {{- range $pages -}}
     <li class='h-entry'>
-      <a class='u-url p-name' href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <a class='u-url' href="{{ .RelPermalink }}">
+        {{ if in .Params.tags "seedling" }}🌱{{end}}
+        {{ if in .Params.tags "budding" }}🌿{{end}}
+        {{ if in .Params.tags "evergreen" }}🌳{{end}}
+        <span class='p-name'>{{ .Title }}</span>
+      </a>
     </li>
     {{- end -}}
   </ul>
