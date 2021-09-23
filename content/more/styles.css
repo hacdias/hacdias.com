@@ -9,10 +9,3 @@
   text-decoration-style: dotted;
   cursor: pointer;
 }
-
-@media screen and (min-width: 38rem) {
-  body {
-    background: #000 url(https://cdn.hacdias.com/u/2021-02-space.gif);
-    background-attachment: fixed;
-  }
-}
