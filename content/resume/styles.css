@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: var(--white);
+  background: var(--white);
 }
 
 article header,
