@@ -1,5 +1,5 @@
 ---
-title: Differences between bits and bytes
+title: Differences Between Bits and Bytes
 description: |
   For some, the difference between bits and bytes may be subtle and it can lead to a lot of mistakes and false advertisement.
 date: 2016-11-25T00:00:00Z

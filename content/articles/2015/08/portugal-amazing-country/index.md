@@ -1,5 +1,5 @@
 ---
-title: Portugal is a beautiful country (again)
+title: Portugal Is a Beautiful Country (Again)
 description: Portugal is an amazing country. It has a lot of history behind. Know
   some of the places I visited this month. From Sintra to Redondo.
 tags:

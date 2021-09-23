@@ -1,5 +1,5 @@
 ---
-title: Differences between C, C++ and C#
+title: Differences Between C, C++ and C#
 date: 2016-11-01T00:00:00Z
 aliases:
 - /articles/2016/11/01/1/

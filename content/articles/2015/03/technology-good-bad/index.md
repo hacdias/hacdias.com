@@ -1,5 +1,5 @@
 ---
-title: Is the technology a good or a bad thing?
+title: Is Technology a Good or a Bad Thing?
 description: Technology, nowadays, means advance and progress. But is the technology
   a good or bad thing? Or both? Or neither? Here is my opinion.
 date: 2015-03-13T12:20:46Z

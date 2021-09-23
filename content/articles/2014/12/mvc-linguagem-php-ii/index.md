@@ -1,5 +1,5 @@
 ---
-title: MVC na linguagem PHP - II
+title: MVC na Linguagem PHP - II
 description: Continuamos a construir a nossa framework que terá como base o modelo
   MVC. Neste artigo criamos o coração da nossa framework.
 tags:

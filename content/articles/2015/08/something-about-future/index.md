@@ -1,5 +1,5 @@
 ---
-title: Something about the future. Is it real? Does it exist?
+title: Something About the Future. Is It Real? Does It Exist?
 description: Is the future real? Does it exists? Who are we? What are we going to
   be? Time? Death. Is that real? What's the difference from life? Some interesting
   questions no one can answer.

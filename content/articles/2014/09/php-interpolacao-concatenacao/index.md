@@ -1,5 +1,5 @@
 ---
-title: 'PHP - Strings: interpolação e concatenação'
+title: 'Interpolação e Concatenação de Strings em PHP'
 description: Já pensou em qual a melhor forma para inserir variáveis dentro de strings?
   A interpolação ou a concatenação. Venha ver.
 tags:

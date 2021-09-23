@@ -1,5 +1,5 @@
 ---
-title: Diferenças entre '==' e '===' em PHP
+title: Diferenças Entre '==' e '===' Em PHP
 description: Os operadores '==' e '===' por vezes podem confundir-nos um pouco em
   relação ao seu uso e para que servem. Fica aqui a explicação de cada um."
 tags:

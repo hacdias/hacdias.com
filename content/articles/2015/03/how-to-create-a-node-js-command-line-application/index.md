@@ -1,5 +1,5 @@
 ---
-title: How to create a Node.js command-line application
+title: How To Create a Node.js Command-Line Application
 description: Node.js is one of the trends in the programming world. Let's learn how
   to create node.js command-line applications.
 tags:

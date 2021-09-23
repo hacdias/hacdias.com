@@ -1,5 +1,5 @@
 ---
-title: 5 truques e dicas em PHP
+title: 5 Truques e Dicas em PHP
 description: A linguagem de programação PHP é das mais utilizadas atualmente do lado
   do servidor. Hoje trazemos 5 dicas que para vos ajudar!
 tags:

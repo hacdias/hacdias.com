@@ -1,5 +1,5 @@
 ---
-title: Stop complaining. Do!
+title: Stop Complaining. Do!
 description: Everyday I hear people complaining about almost everything. Complaining
   leads to nowhere. You have to DO!
 date: 2015-07-27T08:00:00Z

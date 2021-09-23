@@ -1,5 +1,5 @@
 ---
-title: PHP - Como utilizar o Gettext para traduções [Parte 2]
+title: Como Utilizar o Gettext em PHP para Traduções [Parte 2]
 description: Depois de termos ensinado a configurar o plugin php-gettext com o PHP,
   agora é hora de saber como utilizar o plugin.
 tags:

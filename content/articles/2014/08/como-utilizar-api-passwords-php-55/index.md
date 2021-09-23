@@ -1,5 +1,5 @@
 ---
-title: Como utilizar a API de Passwords do PHP 5.5+
+title: Como Utilizar a API de Passwords do PHP 5.5+
 description: A API de passwords introduzida na versão 5.5 do PHP é excelente. Trouxe
   quatro novas maravilhosas funções. Resumimos a forma como cada uma funciona.
 tags:

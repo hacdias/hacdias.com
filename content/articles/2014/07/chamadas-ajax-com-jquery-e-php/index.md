@@ -1,5 +1,5 @@
 ---
-title: Chamadas Ajax com jQuery e PHP
+title: Chamadas Ajax Com jQuery e PHP
 description: Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder
   utilizando a linguagem de servidor PHP.
 tags:
