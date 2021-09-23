@@ -1,5 +1,5 @@
 ---
-title: Rebuilding Eagle, my website's CMS
+title: Rebuilding Eagle, My Website’s CMS
 description: >
   I have been working on updating my website's backend, called Eagle.
   It is full of new features, such as search and ActivityPub.

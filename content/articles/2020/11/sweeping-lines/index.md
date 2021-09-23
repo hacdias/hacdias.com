@@ -1,5 +1,5 @@
 ---
-title: Find visible segments by sweeping
+title: Find Visible Segments by Sweeping Lines
 description: >
   Geometric algorithms can be quite fascinating things. I dive a bit
   into sweeping line algorithms and how to find visible segments in a plane.

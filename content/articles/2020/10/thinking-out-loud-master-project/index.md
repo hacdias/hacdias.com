@@ -1,5 +1,5 @@
 ---
-title: Thinking out loud about my future master's project
+title: Thinking Out Loud About My Future Master’s Project
 description: >
   I'm in my first year of my master's degree. Next year, I am supposed to do
   a master's project and thesis. Thus, it's never too early to think about it.

@@ -1,5 +1,5 @@
 ---
-title: Adding support for Micropub endpoint
+title: Adding Support for Micropub Endpoint
 tags:
 - indieweb
 - meta

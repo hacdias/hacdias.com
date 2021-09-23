@@ -1,5 +1,5 @@
 ---
-title: Analyzing my shows and movie habits
+title: Analyzing My Shows and Movie Habits
 description: |
   I now have a watch log again and decided to analyse 2019's habits of TV shows and movie watching.
 tags:

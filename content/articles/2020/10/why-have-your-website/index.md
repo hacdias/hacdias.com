@@ -1,5 +1,5 @@
 ---
-title: Why should you have your own website?
+title: Why Should You Have Your Own Website?
 description: >
   We live in a world with increasingly larger social media platforms.
   Everyone's profile looks the same, barely distinguishable. Why not

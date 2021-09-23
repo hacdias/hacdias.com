@@ -1,5 +1,5 @@
 ---
-title: Wireguard VPN to network behind a CGNAT
+title: Wireguard VPN to Network Behind a CGNAT
 description: |
   Nowadays, a lot of ISPs are putting their clients behind giant NATs which blocks us from easily accessing local services from the outside.
 tags:

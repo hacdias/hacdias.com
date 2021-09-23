@@ -1,5 +1,5 @@
 ---
-title: How do I generate my knowledge base
+title: How Do I Generate My Knowledge Base From Notable
 description: |
   Here I describe my small journey so far with Notable and how I sync my website's Knowledge Base it with.
 tags:

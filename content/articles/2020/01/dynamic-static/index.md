@@ -1,5 +1,5 @@
 ---
-title: Build a dynamic website… or not?
+title: Build a Dynamic Website… or Not?
 tags:
 - meta
 - indieweb

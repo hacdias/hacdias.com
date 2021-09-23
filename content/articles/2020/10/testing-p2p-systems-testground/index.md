@@ -1,5 +1,5 @@
 ---
-title: Testing peer-to-peer systems with Testground
+title: Testing Peer-to-Peer Systems With Testground
 description: >
   P2P systems are not always easy to test. Due to their nature, there's a lot of 
   constraints and network scenarios that might happen. Testground can help!
