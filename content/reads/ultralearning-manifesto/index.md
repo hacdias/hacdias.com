@@ -1,12 +1,11 @@
 ---
 title: Ultralearning Manifesto
-tags:
-- evergreen
-lastmod: 2021-09-23T19:05:14.265565499Z
+lastmod: 2021-09-23T19:45:08.810074933Z
 aliases:
 - /notes/ultralearning-manifesto-by-scott-young
 reading:
   author: Scott Young
+growth: cactus
 ---
 
 > Learning is the foundation of success in nearly every aspect of life.

@@ -1,9 +1,7 @@
 ---
 title: Peer-to-Peer Systems and Applications
-tags:
-- evergreen
 date: 2020-10-07T13:21:26Z
-lastmod: 2021-09-23T19:05:55.901673293Z
+lastmod: 2021-09-23T19:44:17.605107705Z
 aliases:
 - /notes/peer-to-peer-systems-and-applications
 reading:
@@ -11,6 +9,7 @@ reading:
   isbn: "9783540291923"
   tags:
   - technical
+growth: cactus
 ---
 
 - Good reference book.

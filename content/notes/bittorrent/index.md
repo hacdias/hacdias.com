@@ -1,9 +1,9 @@
 ---
 title: BitTorrent
-growth: seedling
 tags:
 - distributed
-lastmod: 2021-09-23T13:36:05.929538159Z
+lastmod: 2021-09-23T19:42:32.274791783Z
+growth: seedling
 ---
 
 Facts from [IPFS Whitepaper](/notes/ipfs-whitepaper-draft-3/):

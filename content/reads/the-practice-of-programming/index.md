@@ -1,9 +1,7 @@
 ---
 title: The Practice of Programming
-tags:
-- evergreen
 date: 2018-06-25T07:00:00Z
-lastmod: 2021-09-23T19:03:06.38127022Z
+lastmod: 2021-09-23T19:44:43.846892805Z
 aliases:
 - /notes/the-practice-of-programming
 reading:
@@ -11,6 +9,7 @@ reading:
   isbn: "9780201615869"
   tags:
   - technical
+growth: cactus
 ---
 
 A quick note about the book: a lot of the things are C-specific and do not apply to other languages such as tips with macros, etc. This is basically a "how to be a good programmer" book.
