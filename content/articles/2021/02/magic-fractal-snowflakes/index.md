@@ -41,7 +41,7 @@ Usually, when we think about fractals, we think about infinitely repeating shape
 
 Let's get started then! But first, here's the demo of the final "product" so you can see what we are trying to build. This demo is interactive, so you can change the parameters. I chose some default parameters that make the snowflake look really nice in my opinion!
 
-<div class="full-width snowflakes">
+<div class="fw snowflakes">
   <canvas data-mode=interactive />
 </div>
 
@@ -143,7 +143,7 @@ After checking if the current level is the last one, we start working on our sno
 
 You can try changing the values to see what you get. For now, you should see something like this:
 
-<figure class="full-width">
+<figure class="fw">
   <div class="snowflakes">
     <canvas data-mode=static data-levels=0 data-branches=0 data-spread=0 data-sides=6 />
   </div>
@@ -254,7 +254,7 @@ The first translation and scale define where we start drawing the next branch. T
 
 In order to actually draw the branches, we now rotate the context by the angle and call `draw` recursively for the next level. Then, we do exactly the same for the symmetric angle so we draw leafs coming out of each side of the branch.
 
-<figure class="full-width">
+<figure class="fw">
   <div class="snowflakes">
     <canvas data-mode=static data-levels="5" data-branches="2" data-spread="0.83" data-sides="6" />
   </div>

@@ -295,7 +295,7 @@ details summary {
   background: var(--near-white) !important;
 }
 
-.full-width {
+.fw {
   width: calc(100% + 2 * var(--space));
   margin-left: calc(var(--space) * -1);
   margin-top: 1rem;
