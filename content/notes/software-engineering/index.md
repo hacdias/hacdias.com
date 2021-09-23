@@ -1,5 +1,7 @@
 ---
 title: Software Engineering
+lastmod: 2021-09-23T21:49:04.486450031Z
+growth: budding
 ---
 
 Software Engineering is the discipline that is concerned with:

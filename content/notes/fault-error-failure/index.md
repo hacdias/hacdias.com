@@ -1,6 +1,10 @@
 ---
 title: Fault, Error, Failure
+tags:
+- distributed-systems
+lastmod: 2021-09-23T21:53:05.879078104Z
 mermaid: true
+growth: evergreen
 ---
 
 Developers are human and that leads to bugs. An human error creates a fault, which generates an error, which may generate more errors and lead to a failure. Usually, the biggest problem is to identify the faults and not to fix them.

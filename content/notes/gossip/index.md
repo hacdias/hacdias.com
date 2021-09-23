@@ -1,6 +1,11 @@
 ---
 title: Gossip
+tags:
+- decentralization
+- distributed-systems
+lastmod: 2021-09-23T21:53:19.893383512Z
 math: true
+growth: evergreen
 ---
 
 The **Gossip architecture** is a [weak consistency](/notes/replication/) replication technique where clients send requests to the nearest replica and then the replicas propagate the information to each other periodically just like a normal gossip. It allows for high availability and tolerance to net partitions (A+P).

@@ -1,5 +1,7 @@
 ---
 title: Theory of Computation
+lastmod: 2021-09-23T21:48:19.382965434Z
+growth: budding
 ---
 
 ## Languages

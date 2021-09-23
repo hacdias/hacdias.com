@@ -1,5 +1,7 @@
 ---
 title: SOAP
+lastmod: 2021-09-23T21:50:05.649857633Z
+growth: seedling
 ---
 
 - **Simple Object Access Protocol (SOAP)**

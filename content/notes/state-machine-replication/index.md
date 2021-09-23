@@ -1,5 +1,7 @@
 ---
 title: State Machine Replication
+lastmod: 2021-09-23T21:48:37.569211982Z
+growth: budding
 ---
 
 **State Machine Replication** is a [Replication](/notes/replication/) technique that allows for strong consistency and high availability (C+A), hence it does not tolerate net partitions.

@@ -1,6 +1,8 @@
 ---
 title: Replication
+lastmod: 2021-09-23T21:50:12.35714051Z
 math: true
+growth: budding
 ---
 
 **Data replication** happens when the same data is stored on multiple storage devices that might not be on the same network.

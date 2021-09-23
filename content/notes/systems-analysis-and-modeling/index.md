@@ -1,6 +1,8 @@
 ---
 title: Systems Analysis and Modeling
+lastmod: 2021-09-23T21:48:30.419319053Z
 mermaid: true
+growth: budding
 ---
 
 ## Fundamentals

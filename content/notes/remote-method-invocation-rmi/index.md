@@ -1,8 +1,10 @@
 ---
-title: Remote Method Invocation (RMI)
+title: Remote Method Invocation
+lastmod: 2021-09-23T21:51:20.392746532Z
+growth: budding
 ---
 
-The **Remote Method Invocation** (RMI) is a Java API that extends the concepts provided by [Remote Procedure Call](/notes/remote-procedure-call/), but using an [object-oriented](Object-oriented%20Programming) approach.
+The **Remote Method Invocation** (RMI) is a Java API that extends the concepts provided by [Remote Procedure Call](/notes/remote-procedure-call/), but using an [object-oriented](/notes/object-oriented-programming/) approach.
 
 ## Similarities with RPC
 

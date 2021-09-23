@@ -1,6 +1,8 @@
 ---
 title: Fault Tolerance
+lastmod: 2021-09-23T21:48:13.806594806Z
 math: true
+growth: budding
 ---
 
 There are different type of [faults](/notes/fault-error-failure/) and we need metrics to work on measure how well software can tolerate them. These metrics allow to quantify and compare different systems.

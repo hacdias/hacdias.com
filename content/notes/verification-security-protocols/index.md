@@ -1,7 +1,8 @@
 ---
 title: Verification of Security Protocols
-lastmod: 2021-04-09T14:43:11.724828334Z
+lastmod: 2021-09-23T21:47:20.988511475Z
 math: true
+growth: evergreen
 ---
 
 <div class="box yellow word" data-word="Disclaimer">

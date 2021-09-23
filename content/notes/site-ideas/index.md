@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-23T19:50:22.252363321Z
+lastmod: 2021-09-23T21:56:11.47845788Z
 growth: budding
 ---
 
@@ -85,15 +85,13 @@ A nice organizational system for my garden: [this post](https://maggieappleton.c
 ### Transition plan
 
 - [ ] Start using `/{section}/{slug}` and gradually remove the year and month from article URLs.
-- [ ] Perhaps rename 'Recently in' to something more explicit.
-- [ ] (Hard) implement backlink references and make sure nothing breaks.
-- [ ] Rewrite [`notes/`](/notes/) information.
-- [ ] Add a growth stage to all posts in [`garden/`](/garden/), review notes and add tags. Merge (or remove) necessary notes.
 - [ ] Move this explanation to [`meta/`](/meta/) once it is more consolidated, or create a note just about it and add it to meta. Maybe meta should be its own note!
-- [ ] Capitalize all posts according to this rules: https://capitalizemytitle.com/style/Wiki/
-- [x] Possibly rename Log to Stream. On the navbar, add Log instead of articles/micro and add Notes.
 - [ ] Move stream to `stream/` instead of `all/`. Simple, but needs to setup redirects.
 - [ ] Add latest updates on Garden to home.
+
+Afterwards:
+
+- [ ] (Hard) implement backlink references and make sure nothing breaks.
 
 ## CDN Structure
 

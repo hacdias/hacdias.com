@@ -1,5 +1,7 @@
 ---
-title: Pixel Art
+title: Ideas for Pixel Art
+lastmod: 2021-09-23T21:51:37.458088646Z
+growth: budding
 ---
 
 - https://lospec.com/palette-list

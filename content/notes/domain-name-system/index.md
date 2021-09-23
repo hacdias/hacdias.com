@@ -1,5 +1,7 @@
 ---
 title: Domain Name System
+lastmod: 2021-09-23T21:48:43.646424589Z
+growth: budding
 ---
 
 The **Domain Name System (DNS)** is a decentralized [Naming System](/notes/naming-system/) for machines in a network. It's an [Application Layer](/notes/osi-model/) protocol.

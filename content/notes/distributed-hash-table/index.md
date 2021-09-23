@@ -1,6 +1,6 @@
 ---
 title: Distributed Hash Table
-math: true
+lastmod: 2021-09-23T21:49:13.159837104Z
 aliases:
 - /notes/coral-dht
 - /notes/chord-dht
@@ -8,6 +8,8 @@ aliases:
 - /notes/tapestry-dht
 - /notes/kademlia-dht
 - /notes/content-addressable-network-dht
+math: true
+growth: budding
 ---
 
 - **tags**: [Distributed Systems](/notes/distributed-systems/)

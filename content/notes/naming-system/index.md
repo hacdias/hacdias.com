@@ -1,5 +1,7 @@
 ---
 title: Naming System
+lastmod: 2021-09-23T21:54:51.202726348Z
+growth: budding
 ---
 
 Naming systems are useful to allow for users (clients) to find servers. The most widely known implementation is [DNS](/notes/domain-name-system/).

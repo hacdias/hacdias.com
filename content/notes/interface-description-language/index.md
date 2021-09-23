@@ -1,5 +1,9 @@
 ---
 title: Interface Description Language
+tags:
+- distributed-systems
+lastmod: 2021-09-23T21:54:26.293553133Z
+growth: budding
 ---
 
 An **Interface Description Language (IDL)** is a specification language that:
