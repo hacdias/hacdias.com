@@ -1,5 +1,20 @@
 {{ define "main" }}
 
+<style>
+#filter {
+  text-align: center;
+}
+
+.terms {
+	margin: 1rem 0;
+}
+
+.terms a.active {
+	background: #fa0;
+  color: var(--white)
+}
+</style>
+
 <main role='main'>
   <h1>{{ .Title }}</h1>
 
@@ -7,13 +22,27 @@
     <div class='copy'>{{ . }}</div>
   {{- end }}
 
-  {{/* TODO: filter system */}}
-  {{ $growth := .Site.Data.garden.growth }}
+  <hr>
+
+  {{- $growth := .Site.Data.garden.growth -}}
+  {{- $sequence := .Site.Data.garden.sequence -}}
+
+  <ul class="terms" id='filter'>
+    {{- range $sequence }}
+      <li>
+        <a class='stage' data-stage='{{ . }}'>{{ index $growth . }} {{ humanize . }}</a>
+      </li>
+    {{- end }}
+  </ul>
+
+  <noscript>Unfortunately, filtering does not work without JavaScript 😭</noscript>
+
+  <hr>
 
   <ul class='terms bold grid h-feed'>
     {{- $pages := (partialCached "get-pages" . .Type .Title) -}}
     {{- range $pages -}}
-    <li class='h-entry{{ with .Params.growth }} {{ . }}{{ end }}'>
+    <li class='h-entry'{{ with .Params.growth }}data-stage='{{ . }}'{{ end }}>
       <a class='u-url' href="{{ .RelPermalink }}">
         {{ with .Params.growth }}{{ index $growth . }}{{ end }}
         <span class='p-name'>{{ .Title }}</span>
@@ -22,5 +51,38 @@
     {{- end -}}
   </ul>
 </main>
+
+<script>
+const stages = Array.from(document.querySelectorAll('.stage'))
+const entries = Array.from(document.querySelectorAll('.h-entry'))
+
+stages.forEach(el => {
+  el.addEventListener('click', () => {
+    el.classList.toggle('active')
+    handleFilter()
+  })
+})
+
+function handleFilter() {
+  const st = stages
+    .filter(el => el.classList.contains('active'))
+    .map(el => el.dataset.stage)
+
+  if (st.length === 0) {
+    for (const entry of entries) {
+      entry.classList.remove('dn')
+    }
+    return
+  }
+
+  for (const entry of entries) {
+    if (st.includes(entry.dataset.stage)) {
+      entry.classList.remove('dn')
+    } else {
+      entry.classList.add('dn')
+    }
+  }
+}
+</script>
 
 {{ end }}

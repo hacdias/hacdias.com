@@ -109,6 +109,15 @@ One very important feature, personally, is the search feature. Right now, the se
 
 The search is **not** static. I am self-hosting an instance of [MeiliSearch](https://docs.meilisearch.com/), an open-source and super fast search engine. It is very fast to index, very quick to search and allows for full-text search.
 
+## 🏡 The garden and the stream {#garden-stream}
+
+*This piece of text is a work in progress.*
+
+<!-- This is my collection of notes I've been taking, a place where I process what I learn and some of my thoughts. Please note that this notes are made by me, for me so some might not even be in English. If you see something you disagree with, want to discuss or is wrong, feel free to [send me a message](/contact). I will appreciate.
+
+I invite you to look at [this curated list](https://github.com/KasperZutterman/Second-Brain) of other "second brains" or "digital gardens" as you might want to call them! Let your ideas grow 🌿 -->
+
+
 ## ⚖️ Disclaimer {#disclaimer}
 
 1. Opinions change over time. If you're reading something that is many years old, or even just a few months or weeks old, it may not reflect my current opinion. The same reasoning applies to technical articles as tools and software evolves.

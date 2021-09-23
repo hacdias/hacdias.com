@@ -3,3 +3,8 @@ growth:
   budding: 🌿
   evergreen: 🌳
   cactus: 🌵
+sequence:
+- seedling
+- budding
+- cactus
+- evergreen

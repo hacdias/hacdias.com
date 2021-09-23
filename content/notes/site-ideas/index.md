@@ -88,9 +88,8 @@ A nice organizational system for my garden: [this post](https://maggieappleton.c
 - [ ] Perhaps rename 'Recently in' to something more explicit.
 - [ ] (Hard) implement backlink references and make sure nothing breaks.
 - [ ] Rewrite [`notes/`](/notes/) information.
-- [ ] Add a status tag on every post in [`garden/`](/garden/).
-- [ ] Review current notes and add tags. Merge/remove them if no longer necessary or too small.
-- [ ] Move this idea to [`meta/`](/meta/) once it is more consolidated, or create a note just about it and add it to meta. Maybe meta should be its own note!
+- [ ] Add a growth stage to all posts in [`garden/`](/garden/), review notes and add tags. Merge (or remove) necessary notes.
+- [ ] Move this explanation to [`meta/`](/meta/) once it is more consolidated, or create a note just about it and add it to meta. Maybe meta should be its own note!
 - [ ] Capitalize all posts according to this rules: https://capitalizemytitle.com/style/Wiki/
 - [x] Possibly rename Log to Stream. On the navbar, add Log instead of articles/micro and add Notes.
 - [ ] Move stream to `stream/` instead of `all/`. Simple, but needs to setup redirects.
