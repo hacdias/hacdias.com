@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-22T21:44:01.929501724Z
+lastmod: 2021-09-23T06:16:36.415372081Z
 ---
 
 <p class="subtitle">A bunch of ideas for my website that might never get implemented.</p>
@@ -37,7 +37,7 @@ These changes regard the backend of this website, namely Eagle, my home baked ba
 
 I really don't feel these fit into either of the previous categories... so... here they are:
 
-- Make search more accessible. I want to use search more. However, it is hard to find as I have to go More -> Search. One idea would be to make the search bar available everywhere, but that also seems a bit annoying and JS heavy. Another option would be to do that, but on pressing enter, we would be redirected to the search page, which supports URL parameters.
+- Make search more accessible on mobile? Should I not hide the header bar on mobile? Maybe through some other button.
 - Add Microformats meta tags to the readings page. Not sure to which point this would be useful, but... perhaps? It seems reasonably simple to implement.
 - 🎶 Improve the listens page by adding better statistics. This is mostly about data analysis though. Maybe I can get inspired by the reports that Last.fm does.
 - ✈️ Traveling tracker. Right now, I manually track the countries I've been to using the [Impossible List](/impossible-list/) page. However, I have a few sources of data that could be perhaps used to make a nicer visualization:
@@ -72,9 +72,8 @@ I think that a good transition format is to start by:
 
 1. Stop using `/articles/{year}/{month}/slug` for new posts and simply use `/articles/{slug}`. The date is already published within the post itself through the updated meta data. There is no need for this subdirectories. Posts with the same slug are... the same thing. There's no point in duplicating information when it can be **updated**.
 	- Perhaps rename the 'Recently' and {period of time}-in a review posts to something else. Or just keep them the way they are. 'Thoughts on September 2021' sounds like a great name though.
-2. Slowly review the current notes I have and merge them/remove them if not needed. Add tags. I have a lot of notes that feel very very very useless.
-3. Start using the `/notes` section as a public draft places for my future posts. This way I can write them slowly without feeling the pressure to write a new post and publish it.
-4. (Hardest) add back-link references and make sure nothing breaks. In the meanwhile, I can just make sure that if I rename a page, I keep an alias.
+2. Use [`notes/`](/notes/) as a public space for new post drafts. Less pressure to write a post.
+3. (Hardest) Implement backlink references and make sure nothing breaks. In the meanwhile, I can just make sure that if I rename a page, I keep an alias.
 
 A nice organizational system from [this post](https://maggieappleton.com/garden-history):
 
@@ -82,11 +81,12 @@ A nice organizational system from [this post](https://maggieappleton.com/garden-
 - 🌿 Budding: clean and clarified work
 - 🌳 Evergreen: complete work, can be changed over time
 
-TODO:
+Things to do:
 
-- [ ] Implement those divisions via tags only for notes/
-- [ ] Everything outside notes/ is, by default, mature.
-- [ ] Write some philosophy in meta/ about this. Think about the organizational layer of this website and content categories.
+- [ ] Rewrite [`notes/`](/notes/) information.
+- [ ] Instead of "Entries", add a section for each category on [`notes/`](/notes/) (if no tag is present, the note is a seedling).
+- [ ] Review current notes and add tags. Merge/remove them if no longer necessary or too small.
+- [ ] Move this idea to [`meta/`](/meta/) once it is more consolidated.
 
 ## CDN Structure
 

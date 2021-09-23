@@ -1,17 +1,16 @@
 ---
-title: The magic of fractal snowflakes
-description: >
-  I have been wishing snow for a long time and the winter has finally come. That made me have
-  the idea of generating fractal snowflakes using the JavaScript.
+title: The Magic of Fractal Snowflakes
+description: |
+  I have been wishing snow for a long time and the winter has finally come. That made me have the idea of generating fractal snowflakes using the JavaScript.
 tags:
 - javascript
 - art
 date: 2021-02-15T06:30:00Z
 lastmod: 2021-02-15T06:49:43.435183405Z
-cover:
-  slug: 2021-02-eindhoven-magical-snowflakes
 syndication:
 - https://twitter.com/hacdias/status/1361206419266154499
+cover:
+  slug: 2021-02-eindhoven-magical-snowflakes
 ---
 
 <p class=dn>

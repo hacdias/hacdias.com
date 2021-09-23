@@ -1,16 +1,15 @@
 ---
-title: cd subdirectory alias with completions in zsh
-date: 2021-05-30T10:23:57.3713559Z
-description: >
-  How to create a cd subdirectory alias with completion
-  definitions in zsh.
+title: Change to Custom Directory Alias with Completions in Zsh
+description: |
+  How to create a cd subdirectory alias with completion definitions in zsh.
 tags:
 - terminal
 - tip
 - software
+date: 2021-05-30T10:23:57.3713559Z
 ---
 
-For quite some time, I've had a helper function on my ZSH config to quickly be able to `cd` to specific directories. It looked something like this:
+For quite some time, I've had a helper function on my Zsh config to quickly be able to `cd` to specific directories. It looked something like this:
 
 ```zsh
 function cdc() {
