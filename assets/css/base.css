@@ -302,8 +302,16 @@ details summary {
   margin-bottom: 1rem;
 }
 
-#header > a {
+#header > a,
+#header {
   display: flex;
+  align-items: center;
+}
+
+#header form {
+  margin-left: auto;
+  font-size: var(--f6);
+  width: 16rem;
 }
 
 #header p {
@@ -429,7 +437,7 @@ figure.right {
 }
 
 .inline-form input[type="submit"] {
-  margin-left: 1rem;
+  margin-left: 0.5rem;
 }
 
 .subtitle {
@@ -548,6 +556,10 @@ span.task-list + ul input {
     --half-space: 1rem;
   }
 
+  #header form {
+    display: none;
+  }
+
   #navbar ul {
     display: block;
   }
@@ -585,7 +597,7 @@ span.task-list + ul input {
     width: 100%
   }
   .inline-form input[type="submit"] {
-    margin: 1rem 0 0 0;
+    margin: 0.5rem 0 0 0;
   }
 }
 

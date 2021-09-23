@@ -9,6 +9,13 @@
       <p class='aka'>aka @hacdias</p>
     </div>
   </a>
+
+  {{ if not (eq .Title "Search") }}
+    <form action="{{ relURL "/search" }}" method="get" class="inline-form">
+      <input required type="text" placeholder='Search…' id="query" name="q">
+      <input type="submit" value="Go">
+    </form>
+  {{ end }}
 </div>
 {{ end }}
 
