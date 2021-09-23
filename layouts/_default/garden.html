@@ -12,7 +12,6 @@
 
   <ul class='terms bold grid h-feed'>
     {{- $pages := (partialCached "get-pages" . .Type .Title) -}}
-    {{- $pages = sort $pages "Title" "asc" -}}
     {{- range $pages -}}
     <li class='h-entry{{ with .Params.growth }} {{ . }}{{ end }}'>
       <a class='u-url' href="{{ .RelPermalink }}">
