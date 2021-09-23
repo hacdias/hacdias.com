@@ -28,7 +28,7 @@
 
     <ul class="terms">
       {{ range .Site.Sections }}
-        {{ if and .Params.emoji (not (eq .Name "Log")) }}
+        {{ if and .Params.emoji (not (eq .Name "Stream")) (not (eq .Name "Garden")) }}
           <li><a class='section' data-emoji='{{.Params.emoji}}' data-section='{{ lower .Title }}'>{{.Params.emoji}} {{ .Title }}</a></li>
         {{ end }}
       {{ end }}
