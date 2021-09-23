@@ -1,8 +1,11 @@
 ---
 title: Unbroken Ground
 tags:
-- movie
+- evergreen
 - documentary
+- movie
+date: 2020-05-11T00:00:00Z
+lastmod: 2021-09-23T19:10:06.116286326Z
 aliases:
 - /notes/unbroken-ground/
 ---

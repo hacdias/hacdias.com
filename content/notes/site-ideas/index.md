@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-23T18:55:15.282743348Z
+lastmod: 2021-09-23T19:00:00.24387286Z
 ---
 
 <div class="subtitle">
@@ -92,6 +92,7 @@ A nice organizational system for my garden: [this post](https://maggieappleton.c
 - [ ] Capitalize all posts according to this rules: https://capitalizemytitle.com/style/Wiki/
 - [x] Possibly rename Log to Stream. On the navbar, add Log instead of articles/micro and add Notes.
 - [ ] Move stream to `stream/` instead of `all/`. Simple, but needs to setup redirects.
+- [ ] Add latest updates on Garden to home.
 
 ## CDN Structure
 

@@ -1,5 +1,8 @@
 ---
 title: Ultralearning Manifesto
+tags:
+- evergreen
+lastmod: 2021-09-23T19:05:14.265565499Z
 aliases:
 - /notes/ultralearning-manifesto-by-scott-young
 reading:

@@ -3,6 +3,9 @@ title: The Internet's Own Boy
 tags:
 - movie
 - documentary
+- evergreen
+date: 2020-05-14T00:00:00Z
+lastmod: 2021-09-23T19:09:34.459341736Z
 aliases:
 - /notes/the-internets-own-boy/
 ---

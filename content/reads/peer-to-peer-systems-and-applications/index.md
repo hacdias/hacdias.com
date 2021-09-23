@@ -1,12 +1,16 @@
 ---
 title: Peer-to-Peer Systems and Applications
-date: 2020-10-07T13:21:26.000Z
+tags:
+- evergreen
+date: 2020-10-07T13:21:26Z
+lastmod: 2021-09-23T19:05:55.901673293Z
 aliases:
 - /notes/peer-to-peer-systems-and-applications
 reading:
   author: Ralf Steinmetz
-  isbn: '9783540291923'
-  tags: [technical]
+  isbn: "9783540291923"
+  tags:
+  - technical
 ---
 
 - Good reference book.
@@ -56,4 +60,3 @@ Network models:
 
 ## Part III: Structured Systems
 - [Distributed Hash Table](/notes/distributed-hash-table/)
-
