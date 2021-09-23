@@ -2,6 +2,7 @@
 title: About
 emoji: "\U0001F9D4"
 noMentions: true
+# date: 2015-10-03
 ---
 
 {{< figure alt="Me!" cdn="2019-06-henrique" caption="Photo by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
