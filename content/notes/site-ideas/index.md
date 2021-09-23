@@ -88,7 +88,7 @@ Things to do:
 - [ ] Review current notes and add tags. Merge/remove them if no longer necessary or too small.
 - [ ] Move this idea to [`meta/`](/meta/) once it is more consolidated.
 - [ ] Capitalize all posts according to this rules: https://capitalizemytitle.com/style/Wiki/
-- [ ] Possibly rename Log to Stream. On the navbar, add Log instead of articles/micro and add Notes.
+- [x] Possibly rename Log to Stream. On the navbar, add Log instead of articles/micro and add Notes.
 
 ## CDN Structure
 
