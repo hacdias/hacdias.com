@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-23T09:05:30.944477955Z
+lastmod: 2021-09-23T18:55:15.282743348Z
 ---
 
 <div class="subtitle">
@@ -68,31 +68,30 @@ These are ideas that are not really settled in stone and they're mostly technica
 
 Cannot reveal those to you because... they're easter eggs.
 
-## 🪴 Towards a Digital Garden
+## A 🪴 Digital Garden and a 🌊 Stream
 
-I've been reading more and more about digital gardens and I personally enjoy the idea of gradually growing ideas. However, I don't know if I should just transform the whole website in a "garden" per se where all the content (maybe except the micro section) are within the main level of pages. Also, how would I organize my feed for the readers?
+Over the time, I have been reading more and more about digital gardens. Personally, I found it quite a captivating idea. A space to grow thoughts and ideas without the pressure that the timeline-based format of the blog gives. I will call that timeline-based format, a stream.
 
-I think that a good transition format is to start by:
+On one hand, I have a stream, which is just an aggregation of my articles, micro posts and photos. On the other hand, my garden is a collection of my notes, reads and listens. Beware: even though articles and photo posts are part of the stream, they may get updated and get a new date. Thus, showing on top of the timeline.
 
-1. Stop using `/articles/{year}/{month}/slug` for new posts and simply use `/articles/{slug}`. The date is already published within the post itself through the updated meta data. There is no need for this subdirectories. Posts with the same slug are... the same thing. There's no point in duplicating information when it can be **updated**.
-	- Perhaps rename the 'Recently' and {period of time}-in a review posts to something else. Or just keep them the way they are. 'Thoughts on September 2021' sounds like a great name though.
-2. Use [`notes/`](/notes/) as a public space for new post drafts. Less pressure to write a post.
-3. (Hardest) Implement backlink references and make sure nothing breaks. In the meanwhile, I can just make sure that if I rename a page, I keep an alias.
-
-A nice organizational system from [this post](https://maggieappleton.com/garden-history):
+A nice organizational system for my garden: [this post](https://maggieappleton.com/garden-history):
 
 - 🌱 Seedlings: rough and early ideas
 - 🌿 Budding: clean and clarified work
 - 🌳 Evergreen: complete work, can be changed over time
 
-Things to do:
+### Transition plan
 
+- [ ] Start using `/{section}/{slug}` and gradually remove the year and month from article URLs.
+- [ ] Perhaps rename 'Recently in' to something more explicit.
+- [ ] (Hard) implement backlink references and make sure nothing breaks.
 - [ ] Rewrite [`notes/`](/notes/) information.
-- [ ] Instead of "Entries", add a section for each category on [`notes/`](/notes/) (if no tag is present, the note is a seedling).
+- [ ] Add a status tag on every post in [`garden/`](/garden/).
 - [ ] Review current notes and add tags. Merge/remove them if no longer necessary or too small.
-- [ ] Move this idea to [`meta/`](/meta/) once it is more consolidated.
+- [ ] Move this idea to [`meta/`](/meta/) once it is more consolidated, or create a note just about it and add it to meta. Maybe meta should be its own note!
 - [ ] Capitalize all posts according to this rules: https://capitalizemytitle.com/style/Wiki/
 - [x] Possibly rename Log to Stream. On the navbar, add Log instead of articles/micro and add Notes.
+- [ ] Move stream to `stream/` instead of `all/`. Simple, but needs to setup redirects.
 
 ## CDN Structure
 
