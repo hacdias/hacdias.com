@@ -1,16 +1,13 @@
 ---
 title: Stream
-emoji: 🌊
-layout: list
 aliases:
 - /all
-menu:
-  main:
-    weight: 2
+emoji: "\U0001F30A"
+layout: list
 ---
 
 <div class="subtitle">
 
-A living stream combining the feeds: [articles](/articles), [micro](/micro) and [photos](/photos).
+A living stream combining [articles](/articles), [micro](/micro) and [photos](/photos).
 
 </div>

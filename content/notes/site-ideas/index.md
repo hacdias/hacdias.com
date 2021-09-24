@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-24T05:41:11.724845992Z
+lastmod: 2021-09-24T06:18:53.456210778Z
 growth: budding
 ---
 
@@ -74,7 +74,6 @@ Cannot reveal those to you because... they're easter eggs.
 [Read More](/meta/#garden-stream)
 
 - [ ] Start using `/{section}/{slug}` and gradually remove the year and month from article URLs.
-- [ ] Move stream to `stream/` instead of `all/`. Simple, but needs to setup redirects.
 - [ ] Add latest updates on Garden to home.
 
 Afterwards:
