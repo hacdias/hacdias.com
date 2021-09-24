@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-23T21:56:11.47845788Z
+lastmod: 2021-09-24T05:41:11.724845992Z
 growth: budding
 ---
 
@@ -71,21 +71,9 @@ Cannot reveal those to you because... they're easter eggs.
 
 ## A 🪴 Digital Garden and a 🌊 Stream
 
-Over the time, I have been reading more and more about digital gardens. Personally, I found it quite a captivating idea. A space to grow thoughts and ideas without the pressure that the timeline-based format of the blog gives. I will call that timeline-based format, a stream.
-
-On one hand, I have a stream, which is just an aggregation of my articles, micro posts and photos. On the other hand, my garden is a collection of my notes, reads and listens. Beware: even though articles and photo posts are part of the stream, they may get updated and get a new date. Thus, showing on top of the timeline.
-
-A nice organizational system for my garden: [this post](https://maggieappleton.com/garden-history):
-
-- 🌱 *Seedlings*: rough and early ideas.
-- 🌿 *Budding*: clean and clarified work.
-- 🌵 *Cactus*: between seedling and budding, probably won't become evergreen.
-- 🌳 *Evergreen*: complete work, can be changed over time.
-
-### Transition plan
+[Read More](/meta/#garden-stream)
 
 - [ ] Start using `/{section}/{slug}` and gradually remove the year and month from article URLs.
-- [ ] Move this explanation to [`meta/`](/meta/) once it is more consolidated, or create a note just about it and add it to meta. Maybe meta should be its own note!
 - [ ] Move stream to `stream/` instead of `all/`. Simple, but needs to setup redirects.
 - [ ] Add latest updates on Garden to home.
 

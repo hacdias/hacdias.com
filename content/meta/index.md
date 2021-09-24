@@ -1,7 +1,7 @@
 ---
 title: About This Website
 date: 2021-02-19T09:45:13Z
-lastmod: 2021-09-23T20:56:07.303613648Z
+lastmod: 2021-09-24T05:40:25.334789003Z
 emoji: ⚙️
 noMentions: true
 ---
@@ -110,11 +110,27 @@ The search is **not** static. I am self-hosting an instance of [MeiliSearch](htt
 
 ## 🏡 The Garden and the Stream {#garden-stream}
 
-*This piece of text is a work in progress.*
+Over time, I have read a lot about digital gardens. Personally, I enjoy the concept and find it quite captivating. Having a space to grow ideas and thoughts in public, without the pressure to finish them immediately, sounds fantastic. Articles, on the other hand, just like any other timeline-based content - I will call this a stream - require more psychological effort as we only want to publish it when it is completely ready.
 
-<!-- This is my collection of notes I've been taking, a place where I process what I learn and some of my thoughts. Please note that this notes are made by me, for me so some might not even be in English. If you see something you disagree with, want to discuss or is wrong, feel free to [send me a message](/contact). I will appreciate.
+In a garden, content can be in different stages of growth. I decided to categorize my garden according to [this post](https://maggieappleton.com/garden-history), but with a tweak:
 
-I invite you to look at [this curated list](https://github.com/KasperZutterman/Second-Brain) of other "second brains" or "digital gardens" as you might want to call them! Let your ideas grow 🌿 -->
+- 🌱 **Seedlings**: rough and early ideas.
+- 🌿 **Budding**: clean and clarified work.
+- 🌵 **Cactus**: between seedling and budding, probably won't become evergreen.
+- 🌳 **Evergreen**: complete work, can be changed over time.
+
+Some people decide to only have a garden, but that is not what I want. I still enjoy the timeline-based content and I feel it can still be useful. Thus, I provide two content aggregators on this website:
+
+- 🌊, [**Stream**](/all), which combines [articles](/articles), [micro](/micro) and [photos](/photos).
+- 🪴 [**Garden**](/garden), which combines [notes](/notes), [watches](/watches) and [reads](/reads).
+
+Here are some good resources about digital gardens:
+
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
+- [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
+- [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/)
+- [Other "second brains"](https://github.com/KasperZutterman/Second-Brain)
 
 ## 🛎 Random Facts {#facts}
 
