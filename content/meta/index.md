@@ -1,7 +1,7 @@
 ---
 title: About This Website
 date: 2021-02-19T09:45:13Z
-lastmod: 2021-09-24T05:40:25.334789003Z
+lastmod: 2021-09-24T07:00:30.022819951Z
 emoji: ⚙️
 noMentions: true
 ---
@@ -121,7 +121,7 @@ In a garden, content can be in different stages of growth. I decided to categori
 
 Some people decide to only have a garden, but that is not what I want. I still enjoy the timeline-based content and I feel it can still be useful. Thus, I provide two content aggregators on this website:
 
-- 🌊, [**Stream**](/stream), which combines [articles](/articles), [micro](/micro) and [photos](/photos).
+- 🌊 [**Stream**](/stream), which combines [articles](/articles), [micro](/micro) and [photos](/photos).
 - 🪴 [**Garden**](/garden), which combines [notes](/notes), [watches](/watches) and [reads](/reads).
 
 Here are some good resources about digital gardens:

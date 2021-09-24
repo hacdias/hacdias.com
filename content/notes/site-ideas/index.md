@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-24T06:18:53.456210778Z
+lastmod: 2021-09-24T07:26:42.533558331Z
 growth: budding
 ---
 
@@ -75,6 +75,7 @@ Cannot reveal those to you because... they're easter eggs.
 
 - [ ] Start using `/{section}/{slug}` and gradually remove the year and month from article URLs.
 - [ ] Add latest updates on Garden to home.
+	- Keep database of posts and their links. On save, fill "backlinks" in front matter and update referenced posts. I wonder if I can do this with a simple relational database (SQLite).
 
 Afterwards:
 

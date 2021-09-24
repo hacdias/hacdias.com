@@ -1,15 +1,9 @@
 ---
 title: YubiKey and GPG Setup
 date: 2021-05-28T21:47:57.89135882Z
-lastmod: 2021-09-23T21:46:54.065307802Z
+lastmod: 2021-09-24T06:51:34.354397826Z
 growth: budding
 ---
-
-<div class="box green">
-
-🌱 This post is a seedling. If it gets more mature, it may become a full article.
-
-</div>
 
 ## ✅ Pre-flight Checks
 
