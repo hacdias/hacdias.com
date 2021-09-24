@@ -10,7 +10,7 @@ menu:
 
 <div class="subtitle">
 
-  A living garden combining the feeds: [notes](/notes), [watches](/watches) and [reads](/reads).
+  A living garden combining [notes](/notes), [watches](/watches) and [reads](/reads).
 
 </div>
 
