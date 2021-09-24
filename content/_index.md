@@ -13,7 +13,7 @@ Lately, {{< latest-read >}}. On the big screen, the last movie 🎬 I [watched](
 
 {{< latest n=5 >}}
 
-[🌊 More Posts](/all/)
+[🌊 More Posts](/stream/)
 
 <div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>

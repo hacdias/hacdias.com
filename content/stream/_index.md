@@ -2,6 +2,8 @@
 title: Stream
 emoji: 🌊
 layout: list
+aliases:
+- /all
 menu:
   main:
     weight: 2

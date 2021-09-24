@@ -16,7 +16,7 @@ This website contains more things than it looks at first glance. This page is a 
 ### 🗃 Aggregators {#aggregators}
 
 <ul class='terms grid bold'>
-  <li>{{< link-emoji "/all" >}}</li>
+  <li>{{< link-emoji "/stream" >}}</li>
   <li>{{< link-emoji "/garden" >}}</li>
 </ul>
 

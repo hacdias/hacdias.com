@@ -1,6 +1,6 @@
 {{ $pages := .RegularPages }}
 {{ $regularPages := .Site.RegularPages  }}
-{{ $isStream := or (eq .Section "all") .IsHome }}
+{{ $isStream := or (eq .Section "stream") .IsHome }}
 {{ $isGarden := eq .Title "Garden" }}
 
 {{/*

@@ -33,15 +33,15 @@ If you need to reach me directly:
 
 ## 🗞 Follow
 
-All pages that list posts, such as [micro](/micro/) and [articles](/articles/), have RSS, JSON and HTML ([Microformats](https://microformats.org/)) feeds. To subscribe to my main posts, you can follow the page ["all"](/all/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
+All pages that list posts, such as [micro](/micro/) and [articles](/articles/), have RSS, JSON and HTML ([Microformats](https://microformats.org/)) feeds. To subscribe to my main posts, you can follow my [stream](/stream/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
 
 <div class="box yellow">
 
-  In case your feed does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the ["all"](/all/) page:
+  In case your feed does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the [stream](/stream/) page:
 
-  - **HTML/Microformats**: [https://hacdias.com/all](/all/)
-  - **RSS Feed**: [https://hacdias.com/all/feed.xml](/all/feed.xml)
-  - **JSON Feed**: [https://hacdias.com/all/feed.json](/all/feed.json)
+  - **HTML/Microformats**: [https://hacdias.com/stream](/stream/)
+  - **RSS Feed**: [https://hacdias.com/stream/feed.xml](/stream/feed.xml)
+  - **JSON Feed**: [https://hacdias.com/stream/feed.json](/stream/feed.json)
 
 </div>
 
