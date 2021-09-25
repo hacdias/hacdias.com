@@ -528,7 +528,7 @@ figure.right {
 
 .terms.grid {
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: repeat(2, 1fr);
   grid-gap: 0.5rem;
   margin-bottom: 0.5rem;
 }
