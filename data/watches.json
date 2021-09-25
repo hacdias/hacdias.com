@@ -1933,14 +1933,19 @@
   ],
   "series": [
     {
+      "title": "Heathrow: Britain's Busiest Airport",
+      "watched": "2021-09-24T20:56:21.000Z",
+      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
+    },
+    {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-09-22T07:00:00.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "Sex Education",
       "watched": "2021-09-18T21:52:59.000Z",
       "url": "https://trakt.tv/shows/sex-education"
-    },
-    {
-      "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2021-09-18T09:58:44.000Z",
-      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
     },
     {
       "title": "Pôr do Sol",
@@ -1951,11 +1956,6 @@
       "title": "RuPaul's Drag Race All Stars",
       "watched": "2021-09-03T18:22:01.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-all-stars"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2021-09-01T18:40:18.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "Riverdale",
