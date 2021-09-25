@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-24T07:26:42.533558331Z
+lastmod: 2021-09-25T08:56:24.795192481Z
 growth: budding
 ---
 
@@ -56,18 +56,12 @@ I really don't feel these fit into either of the previous categories... so... he
 
 These are ideas that are not really settled in stone and they're mostly technicalities that, right now, are not really affecting anyone's life:
 
-- Disable FLoC: https://cleanuptheweb.org/
 - Move all non-SVG images to the CDN.
 - Improved **caching**
   - Add caching headers
   - Phase 1: update all search index on changed files & purge ALL CloudFlare cache.
   - Phase 2: update modified search index & purge SOME CloudFlare cache.
   - https://api.cloudflare.com/#zone-purge-all-files 
-
-
-## Easter Eggs
-
-Cannot reveal those to you because... they're easter eggs.
 
 ## A 🪴 Digital Garden and a 🌊 Stream
 
