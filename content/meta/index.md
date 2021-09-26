@@ -1,14 +1,14 @@
 ---
 title: About This Website
 date: 2021-02-19T09:45:13Z
-lastmod: 2021-09-24T07:00:30.022819951Z
+lastmod: 2021-09-26T13:32:29.565001693Z
 emoji: ⚙️
 noMentions: true
 ---
 
 <div class="subtitle">
 
-I have been running this website since 2014. Since then, a lot has changed. My repository shows over 3000 commits and that's just the changes after I migrated to a static website.
+I have been running this website since 2014. Since then, a lot has changed. My repository shows over 5000 commits and that's just the changes after I migrated to a static website.
 
 </div>
 

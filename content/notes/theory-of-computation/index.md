@@ -1,6 +1,6 @@
 ---
 title: Theory of Computation
-lastmod: 2021-09-23T21:48:19.382965434Z
+lastmod: 2021-09-26T14:46:29.787158061Z
 growth: budding
 ---
 
@@ -32,8 +32,8 @@ BNS stands for Backus–Naur form and it is a notation technique to represent co
 - `...` - Terminal Symbols
 - `::=` - Defined as...
 - `|` - Or
-- `*` - Zero or more
-- `+` - One or more
+- `*` - Zero or more (Extended BNF)
+- `+` - One or more (EBNF)
 
 Example:
 
