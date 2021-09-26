@@ -2,13 +2,18 @@
   "artists": [
     {
       "name": "Marina",
-      "count": 38,
+      "count": 47,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
-      "count": 32,
+      "count": 37,
       "url": "https://www.last.fm/music/Omar+Rudberg"
+    },
+    {
+      "name": "Pabllo Vittar",
+      "count": 30,
+      "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
       "name": "Agnes",
@@ -17,28 +22,18 @@
     },
     {
       "name": "Luísa Sonza",
-      "count": 19,
+      "count": 22,
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
     },
     {
-      "name": "Pabllo Vittar",
-      "count": 17,
-      "url": "https://www.last.fm/music/Pabllo+Vittar"
-    },
-    {
       "name": "GALXARA",
-      "count": 15,
+      "count": 14,
       "url": "https://www.last.fm/music/GALXARA"
     },
     {
       "name": "Charli XCX",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/Charli+XCX"
-    },
-    {
-      "name": "Troye Sivan",
-      "count": 13,
-      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Epona",
@@ -49,13 +44,18 @@
       "name": "Towerz",
       "count": 11,
       "url": "https://www.last.fm/music/Towerz"
+    },
+    {
+      "name": "Troye Sivan",
+      "count": 11,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     }
   ],
   "tracks": [
     {
       "name": "MODO TURBO",
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
-      "count": 19,
+      "count": 22,
       "artist": "Luísa Sonza"
     },
     {
@@ -67,7 +67,7 @@
     {
       "name": "Angel Baby",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-      "count": 11,
+      "count": 10,
       "artist": "Troye Sivan"
     },
     {
@@ -77,10 +77,10 @@
       "artist": "Cutts"
     },
     {
-      "name": "You",
-      "url": "https://www.last.fm/music/Regard/_/You",
+      "name": "Alla Ba Ouff",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
       "count": 9,
-      "artist": "Regard"
+      "artist": "Omar Rudberg"
     },
     {
       "name": "I Miss The Days (feat. Party Pupils)",
@@ -89,28 +89,28 @@
       "artist": "GALXARA"
     },
     {
-      "name": "good 4 u",
-      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
+      "name": "You",
+      "url": "https://www.last.fm/music/Regard/_/You",
       "count": 8,
-      "artist": "Olivia Rodrigo"
+      "artist": "Regard"
     },
     {
-      "name": "Alla Ba Ouff",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/Alla+Ba+Ouff",
-      "count": 8,
-      "artist": "Omar Rudberg"
+      "name": "24 Hours",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
+      "count": 6,
+      "artist": "Agnes"
+    },
+    {
+      "name": "24 Hours - The Circle° Sessions",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
+      "count": 6,
+      "artist": "Agnes"
     },
     {
       "name": "Fingers Crossed - The Circle° Sessions",
       "url": "https://www.last.fm/music/Agnes/_/Fingers+Crossed+-+The+Circle%C2%B0+Sessions",
-      "count": 7,
+      "count": 6,
       "artist": "Agnes"
-    },
-    {
-      "name": "Le combat du comfort",
-      "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 7,
-      "artist": "Chris Tiaan"
     }
   ]
 }
