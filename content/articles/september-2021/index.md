@@ -3,13 +3,14 @@ title: Recently in September '21
 description: October is coming and here is my review of September.
 tags:
 - recently
-date: 2021-10-01T08:00:00Z
+date: 2021-09-30T17:31:36.325426421Z
 aliases:
 - /now
-draft: true
 ---
 
 September has been quite a busy month, a rollercoaster for sure, but a good one. It all started in the first week with the new students coming to campus for their introduction activities. I don't think I've seen the campus so vibrant until that day.
+
+<!--more-->
 
 The week after, classes started. I had my first class on campus ever at TU/e and its been quite nice. It's just one class, but it's better than nothing. Even though most Covid restrictions are technically lifted - except masks on public transit -, we're still not 100% back on campus, unfortunately.
 
