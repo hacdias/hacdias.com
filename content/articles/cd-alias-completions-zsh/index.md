@@ -2,6 +2,8 @@
 title: Change to Custom Directory Alias With Completions in Zsh
 description: |
   How to create a cd subdirectory alias with completion definitions in zsh.
+aliases:
+- /articles/2021/05/cd-alias-completions-zsh/
 tags:
 - terminal
 - tip

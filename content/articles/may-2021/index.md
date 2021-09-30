@@ -3,6 +3,8 @@ title: Recently in May '21
 description: May is gone and we're almost half-way this year.
 tags:
 - recently
+aliases:
+- /articles/2021/06/recently/
 date: 2021-06-02T08:10:59.168283855Z
 ---
 

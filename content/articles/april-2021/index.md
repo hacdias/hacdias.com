@@ -4,6 +4,8 @@ description: |
   April was a month of change and unexpected events.
 tags:
 - recently
+aliases:
+- /articles/2021/05/recently/
 date: 2021-05-01T09:00:00+02:00
 ---
 
