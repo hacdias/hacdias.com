@@ -7,28 +7,23 @@
     },
     {
       "name": "Agnes",
-      "count": 39,
+      "count": 33,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Marina",
-      "count": 37,
+      "count": 32,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Omar Rudberg",
-      "count": 35,
+      "count": 32,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Pabllo Vittar",
-      "count": 28,
+      "count": 30,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
-    },
-    {
-      "name": "Luísa Sonza",
-      "count": 20,
-      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
     },
     {
       "name": "Years & Years",
@@ -36,18 +31,23 @@
       "url": "https://www.last.fm/music/Years+&+Years"
     },
     {
+      "name": "Luísa Sonza",
+      "count": 18,
+      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
+    },
+    {
       "name": "GALXARA",
-      "count": 14,
+      "count": 13,
       "url": "https://www.last.fm/music/GALXARA"
     },
     {
       "name": "Charli XCX",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
       "name": "Troye Sivan",
-      "count": 10,
+      "count": 9,
       "url": "https://www.last.fm/music/Troye+Sivan"
     }
   ],
@@ -55,62 +55,62 @@
     {
       "name": "MODO TURBO",
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
-      "count": 20,
+      "count": 18,
       "artist": "Luísa Sonza"
-    },
-    {
-      "name": "Good Ones",
-      "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
-      "count": 11,
-      "artist": "Charli XCX"
     },
     {
       "name": "Bang Bang",
       "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
-      "count": 11,
+      "count": 12,
       "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "Good Ones",
+      "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
+      "count": 9,
+      "artist": "Charli XCX"
     },
     {
       "name": "Honey",
       "url": "https://www.last.fm/music/Cutts/_/Honey",
-      "count": 9,
+      "count": 8,
       "artist": "Cutts"
+    },
+    {
+      "name": "Triste com T",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
+      "count": 8,
+      "artist": "Pabllo Vittar"
     },
     {
       "name": "Angel Baby",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-      "count": 9,
+      "count": 8,
       "artist": "Troye Sivan"
     },
     {
       "name": "Goodlife",
       "url": "https://www.last.fm/music/Agnes/_/Goodlife",
-      "count": 8,
+      "count": 7,
       "artist": "Agnes"
     },
     {
       "name": "I Miss The Days (feat. Party Pupils)",
       "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 8,
+      "count": 7,
       "artist": "GALXARA"
+    },
+    {
+      "name": "La Mesa",
+      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
+      "count": 7,
+      "artist": "Omar Rudberg"
     },
     {
       "name": "You",
       "url": "https://www.last.fm/music/Regard/_/You",
-      "count": 8,
+      "count": 7,
       "artist": "Regard"
-    },
-    {
-      "name": "24 Hours",
-      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
-      "count": 7,
-      "artist": "Agnes"
-    },
-    {
-      "name": "Le combat du comfort",
-      "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
-      "count": 7,
-      "artist": "Chris Tiaan"
     }
   ]
 }
