@@ -3,7 +3,7 @@ title: Recently in September '21
 description: October is coming and here is my review of September.
 tags:
 - recently
-date: 2021-09-25T07:17:29.455688108Z
+date: 2021-10-01T08:00:00Z
 aliases:
 - /now
 draft: true
@@ -17,14 +17,14 @@ I also started mentoring new master's students on that same first week. It's bee
 
 During the second week, there was the Open Cultural Week on campus, where all cultural associations have open activities for non-members. Even though I'm a member of [Dekate Mousa](https://dekatemousa.nl/) - the photography & film association - I went to the activities and it was quite nice. I really enjoyed the opportunity to take fire breathing and steelwool [pictures](/photos/2021/fire-steelwool/). 
 
-{{< figure cdn="2021-09-fire-02" alt="Fire Breathing 101" >}}
+{{< figure cdn="2021-09-fire-02" alt="Fire Breathing 101" caption="Fire Breathing 101" >}}
 
-Last weekend I had a dinner with 9 international friends, where each one of us cooks and brings something. It was delightful and there was way too much food. We couldn't finish it!
+Last weekend I had a dinner with 9 international friends, where each one of us cooks and brings something. It was delightful and there was way too much food. We couldn't finish it! Unfortunately, I didn't manage to look at the pictures yet, so I can't share any right now!
 
-## Changelog
+It feels so nice that we're slowly getting back to normal. There's so many people at university, every day, no masks, no social distancing. Sometimes it can be quite scary, but this is what has always happened during our lives. I still remember it took weeks after they lifted the masks indoors - in June - for me to go to the supermarket maskless.
 
-- New garden!
-- garden and stream dicotomy /meta/#garden-stream
-- Added an easter egg to the website
-- removed newsletter
-- A few design tweaks
+On this website, there were quite a few changes over the last month. I introduced a new section, called [garden](/garden/), which, similarly to my [stream](/stream/) - old log -, combines different feeds. If you're curious about what the garden vs. stream dichotomy is, I wrote a bit about it on the [meta page](/meta/#garden-stream).
+
+I also made some other minor updates, such as removing the newsletter signing up form - I haven't used it in many months -, did a few design tweaks, and, added an easter egg to the website. It's up to you to find it!
+
+I hope you had a great September and let's get ready for October!
