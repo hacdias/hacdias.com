@@ -6,29 +6,24 @@
       "url": "https://www.last.fm/music/Alexandre+Desplat"
     },
     {
-      "name": "Agnes",
-      "count": 33,
-      "url": "https://www.last.fm/music/Agnes"
-    },
-    {
-      "name": "Marina",
-      "count": 32,
-      "url": "https://www.last.fm/music/Marina"
-    },
-    {
-      "name": "Omar Rudberg",
-      "count": 32,
-      "url": "https://www.last.fm/music/Omar+Rudberg"
-    },
-    {
       "name": "Pabllo Vittar",
-      "count": 30,
+      "count": 34,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
-      "name": "Years & Years",
-      "count": 19,
-      "url": "https://www.last.fm/music/Years+&+Years"
+      "name": "Agnes",
+      "count": 30,
+      "url": "https://www.last.fm/music/Agnes"
+    },
+    {
+      "name": "Omar Rudberg",
+      "count": 26,
+      "url": "https://www.last.fm/music/Omar+Rudberg"
+    },
+    {
+      "name": "Marina",
+      "count": 21,
+      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Luísa Sonza",
@@ -36,8 +31,13 @@
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
     },
     {
+      "name": "Years & Years",
+      "count": 18,
+      "url": "https://www.last.fm/music/Years+&+Years"
+    },
+    {
       "name": "GALXARA",
-      "count": 13,
+      "count": 11,
       "url": "https://www.last.fm/music/GALXARA"
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
-      "name": "Troye Sivan",
-      "count": 9,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "name": "Sia",
+      "count": 8,
+      "url": "https://www.last.fm/music/Sia"
     }
   ],
   "tracks": [
@@ -61,7 +61,13 @@
     {
       "name": "Bang Bang",
       "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
-      "count": 12,
+      "count": 14,
+      "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "Triste com T",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
+      "count": 10,
       "artist": "Pabllo Vittar"
     },
     {
@@ -71,46 +77,40 @@
       "artist": "Charli XCX"
     },
     {
-      "name": "Honey",
-      "url": "https://www.last.fm/music/Cutts/_/Honey",
-      "count": 8,
-      "artist": "Cutts"
-    },
-    {
-      "name": "Triste com T",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
-      "count": 8,
-      "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "Angel Baby",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-      "count": 8,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Goodlife",
-      "url": "https://www.last.fm/music/Agnes/_/Goodlife",
-      "count": 7,
-      "artist": "Agnes"
-    },
-    {
-      "name": "I Miss The Days (feat. Party Pupils)",
-      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 7,
-      "artist": "GALXARA"
-    },
-    {
-      "name": "La Mesa",
-      "url": "https://www.last.fm/music/Omar+Rudberg/_/La+Mesa",
-      "count": 7,
-      "artist": "Omar Rudberg"
-    },
-    {
       "name": "You",
       "url": "https://www.last.fm/music/Regard/_/You",
       "count": 7,
       "artist": "Regard"
+    },
+    {
+      "name": "Angel Baby",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+      "count": 7,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "24 Hours",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours",
+      "count": 6,
+      "artist": "Agnes"
+    },
+    {
+      "name": "Goodlife",
+      "url": "https://www.last.fm/music/Agnes/_/Goodlife",
+      "count": 6,
+      "artist": "Agnes"
+    },
+    {
+      "name": "Honey",
+      "url": "https://www.last.fm/music/Cutts/_/Honey",
+      "count": 6,
+      "artist": "Cutts"
+    },
+    {
+      "name": "I Miss The Days (feat. Party Pupils)",
+      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
+      "count": 6,
+      "artist": "GALXARA"
     }
   ]
 }
