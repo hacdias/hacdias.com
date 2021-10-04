@@ -47,11 +47,13 @@ been:
   flag: 🇨🇷
   notes: >
     Peninsula Papagayo in November 2019.
+- name: France
+  flag: 🇫🇷
+  notes: >
+    Paris in October 2021.
 bucket:
 - name: Spain
   flag: 🇪🇸
-- name: France
-  flag: 🇫🇷
 - name: Austria
   flag: 🇦🇹
 - name: Denmark
