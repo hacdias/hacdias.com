@@ -1933,6 +1933,16 @@
   ],
   "series": [
     {
+      "title": "Squid Game",
+      "watched": "2021-10-03T21:30:26.000Z",
+      "url": "https://trakt.tv/shows/squid-game"
+    },
+    {
+      "title": "RuPaul's Drag Race UK",
+      "watched": "2021-10-03T16:55:15.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
+    },
+    {
       "title": "Downton Abbey",
       "watched": "2021-09-30T18:25:37.000Z",
       "url": "https://trakt.tv/shows/downton-abbey"
@@ -2061,11 +2071,6 @@
       "title": "Snowpiercer",
       "watched": "2021-04-02T11:46:25.000Z",
       "url": "https://trakt.tv/shows/snowpiercer"
-    },
-    {
-      "title": "RuPaul's Drag Race UK",
-      "watched": "2021-03-18T21:18:52.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
       "title": "Shadowhunters",
