@@ -1933,6 +1933,11 @@
   ],
   "series": [
     {
+      "title": "Downton Abbey",
+      "watched": "2021-10-04T18:18:01.000Z",
+      "url": "https://trakt.tv/shows/downton-abbey"
+    },
+    {
       "title": "Squid Game",
       "watched": "2021-10-03T21:30:26.000Z",
       "url": "https://trakt.tv/shows/squid-game"
@@ -1941,11 +1946,6 @@
       "title": "RuPaul's Drag Race UK",
       "watched": "2021-10-03T16:55:15.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
-      "title": "Downton Abbey",
-      "watched": "2021-09-30T18:25:37.000Z",
-      "url": "https://trakt.tv/shows/downton-abbey"
     },
     {
       "title": "Heathrow: Britain's Busiest Airport",
