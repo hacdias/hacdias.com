@@ -2,7 +2,7 @@
 title: Website Ideas
 tags:
 - meta
-lastmod: 2021-09-25T08:56:24.795192481Z
+lastmod: 2021-10-08T11:12:40.295156232Z
 growth: budding
 ---
 
@@ -74,6 +74,13 @@ These are ideas that are not really settled in stone and they're mostly technica
 Afterwards:
 
 - [ ] (Hard) implement backlink references and make sure nothing breaks.
+
+Or...
+
+- [ ] Remove custom watch reviews.
+- [ ] Remove custom book "reviews".
+- [ ] Remove notes.
+- [ ] Remove "garden".
 
 ## CDN Structure
 
