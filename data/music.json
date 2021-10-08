@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 16,
+      "count": 17,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Pabllo Vittar",
-      "count": 14,
+      "count": 12,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
@@ -16,19 +16,19 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Charli XCX",
-      "count": 7,
-      "url": "https://www.last.fm/music/Charli+XCX"
+      "name": "GALXARA",
+      "count": 8,
+      "url": "https://www.last.fm/music/GALXARA"
     },
     {
       "name": "Kim Petras",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Luísa Sonza",
-      "count": 7,
-      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
+      "name": "Charli XCX",
+      "count": 6,
+      "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
       "name": "Cutts",
@@ -36,9 +36,9 @@
       "url": "https://www.last.fm/music/Cutts"
     },
     {
-      "name": "GALXARA",
+      "name": "Luísa Sonza",
       "count": 6,
-      "url": "https://www.last.fm/music/GALXARA"
+      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
     },
     {
       "name": "Omar Rudberg",
@@ -47,40 +47,22 @@
     },
     {
       "name": "Regard",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Regard"
     }
   ],
   "tracks": [
     {
-      "name": "Good Ones",
-      "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
-      "count": 7,
-      "artist": "Charli XCX"
-    },
-    {
       "name": "Future Starts Now",
       "url": "https://www.last.fm/music/Kim+Petras/_/Future+Starts+Now",
-      "count": 7,
+      "count": 8,
       "artist": "Kim Petras"
     },
     {
-      "name": "MODO TURBO",
-      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
-      "count": 7,
-      "artist": "Luísa Sonza"
-    },
-    {
-      "name": "Bang Bang",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
-      "count": 7,
-      "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "Triste com T",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
-      "count": 7,
-      "artist": "Pabllo Vittar"
+      "name": "Good Ones",
+      "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
+      "count": 6,
+      "artist": "Charli XCX"
     },
     {
       "name": "Honey",
@@ -89,9 +71,39 @@
       "artist": "Cutts"
     },
     {
+      "name": "MODO TURBO",
+      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
+      "count": 6,
+      "artist": "Luísa Sonza"
+    },
+    {
+      "name": "Bang Bang",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
+      "count": 6,
+      "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "Triste com T",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
+      "count": 6,
+      "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "Here Comes the Night",
+      "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
+      "count": 5,
+      "artist": "Agnes"
+    },
+    {
+      "name": "I Miss The Days (feat. Party Pupils)",
+      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
+      "count": 5,
+      "artist": "GALXARA"
+    },
+    {
       "name": "You",
       "url": "https://www.last.fm/music/Regard/_/You",
-      "count": 6,
+      "count": 5,
       "artist": "Regard"
     },
     {
@@ -99,18 +111,6 @@
       "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
       "count": 5,
       "artist": "Troye Sivan"
-    },
-    {
-      "name": "Here Comes the Night",
-      "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
-      "count": 4,
-      "artist": "Agnes"
-    },
-    {
-      "name": "I Miss The Days (feat. Party Pupils)",
-      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 4,
-      "artist": "GALXARA"
     }
   ]
 }
