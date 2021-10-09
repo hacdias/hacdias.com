@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 17,
+      "count": 18,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Pabllo Vittar",
-      "count": 12,
+      "count": 14,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
@@ -16,14 +16,14 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
+      "name": "Kim Petras",
+      "count": 10,
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
       "name": "GALXARA",
       "count": 8,
       "url": "https://www.last.fm/music/GALXARA"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 8,
-      "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "Charli XCX",
@@ -55,8 +55,26 @@
     {
       "name": "Future Starts Now",
       "url": "https://www.last.fm/music/Kim+Petras/_/Future+Starts+Now",
-      "count": 8,
+      "count": 10,
       "artist": "Kim Petras"
+    },
+    {
+      "name": "Bang Bang",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
+      "count": 7,
+      "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "Triste com T",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
+      "count": 7,
+      "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "Here Comes the Night",
+      "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
+      "count": 6,
+      "artist": "Agnes"
     },
     {
       "name": "Good Ones",
@@ -75,24 +93,6 @@
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
       "count": 6,
       "artist": "Luísa Sonza"
-    },
-    {
-      "name": "Bang Bang",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
-      "count": 6,
-      "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "Triste com T",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
-      "count": 6,
-      "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "Here Comes the Night",
-      "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
-      "count": 5,
-      "artist": "Agnes"
     },
     {
       "name": "I Miss The Days (feat. Party Pupils)",
