@@ -5,7 +5,7 @@
 
 {{/*
   Stream Sections: Micro, Photos, Articles
-  Garden Sections: Notes, Reads
+  Garden Sections: Notes
   Special sections: Stream, Garden, Projects (consider deleting)
 */}}
 
@@ -19,8 +19,7 @@
 
 {{ if $isGarden }}
   {{ $notes :=  where $regularPages ".Section" "=" "notes" }}
-  {{ $reads :=  where $regularPages ".Section" "=" "reads" }}
-  {{ $pages = (union $notes $reads) }}
+  {{ $pages = $notes }}
   {{ $pages = sort $pages "Lastmod" "desc" }}
 {{ end }}
 

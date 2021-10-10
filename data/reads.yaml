@@ -396,6 +396,16 @@ read:
 - author: Roberto Vitillo
   name: Understanding Distributed Systems
   tags: [technical]
+- author: Ralf Steinmetz
+  name: Peer-to-Peer Systems and Applications
+  isbn: "9783540291923"
+  date: '2020-10-07T13:21:26Z'
+  tags: [technical]
+- author: Brian W. Kernighan
+  name: The Practice of Programming
+  date: '2018-06-25T07:00:00Z'
+  isbn: "9780201615869"
+  tags: [technical]
 own-not-read:
 - author: Becky Albertalli
   name: Simon vs. the Homo Sapiens Agenda

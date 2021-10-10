@@ -13,22 +13,14 @@ menu:
 
 This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭!
 
-### 🗃 Aggregators {#aggregators}
-
-<ul class='terms grid bold'>
-  <li>{{< link-emoji "/stream" >}}</li>
-  <li>{{< link-emoji "/garden" >}}</li>
-</ul>
-
-
 ### 📃 Categories {#categories}
 
 <ul class='terms grid bold'>
+  <li>{{< link-emoji "/stream" >}}</li>
+  <li>{{< link-emoji "/notes" >}}</li>
   <li>{{< link-emoji "/articles" >}}</li>
   <li>{{< link-emoji "/micro" >}}</li>
-  <li>{{< link-emoji "/notes" >}}</li>
   <li>{{< link-emoji "/photos" >}}</li>
-  <li>{{< link-emoji "/reads" >}}</li>
 </ul>
 
 ### 🥐 Others {#others}
@@ -46,6 +38,7 @@ This website contains more things than it looks at first glance. This page is a 
   <li>{{< link-emoji "/search" >}}</li>
   <li>{{< link-emoji "/uses" >}}</li>
   <li>{{< link-emoji "/watches" >}}</li>
+  <li>{{< link-emoji "/reads" >}}</li>
   <li>{{< link-emoji "/tags" >}}</li>
 </ul>
 

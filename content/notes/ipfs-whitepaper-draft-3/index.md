@@ -5,7 +5,7 @@ tags:
 - web3
 - paper
 lastmod: 2021-09-23T21:52:01.84904741Z
-growth: cactus
+growth: seedling
 ---
 
 - **paper**: https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf

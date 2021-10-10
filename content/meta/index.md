@@ -116,21 +116,12 @@ In a garden, content can be in different stages of growth. I decided to categori
 
 - 🌱 **Seedlings**: rough and early ideas.
 - 🌿 **Budding**: clean and clarified work.
-- 🌵 **Cactus**: between seedling and budding, probably won't become evergreen.
 - 🌳 **Evergreen**: complete work, can be changed over time.
 
 Some people decide to only have a garden, but that is not what I want. I still enjoy the timeline-based content and I feel it can still be useful. Thus, I provide two content aggregators on this website:
 
 - 🌊 [**Stream**](/stream), which combines [articles](/articles), [micro](/micro) and [photos](/photos).
-- 🪴 [**Garden**](/garden), which combines [notes](/notes) and [reads](/reads).
-
-Here are some good resources about digital gardens:
-
-- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
-- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
-- [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
-- [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/)
-- [Other "second brains"](https://github.com/KasperZutterman/Second-Brain)
+- 🪴 [**Garden**](/notes), which contains my notes.
 
 ## 🛎 Random Facts {#facts}
 

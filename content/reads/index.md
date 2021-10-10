@@ -6,7 +6,6 @@ aliases:
 - /books
 emoji: 📚
 noMentions: true
-layout: single
 ---
 
 {{< figure src="https://cdn.hacdias.com/u/2021-02-book.gif" alt="Book" class="left pixelated" style="max-width: 100px; margin-top: -0.5rem; margin-right: 1rem;" >}}
