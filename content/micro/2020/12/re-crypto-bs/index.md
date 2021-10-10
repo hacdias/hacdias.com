@@ -37,6 +37,6 @@ True, for now. But that was a choice of Bitcoin, and Ethereum. Ethereum is chang
 
 I think the main difficulty is making it easier for the end consumer, and also making the end consumer **care**. I know countless of people that are aware that many companies have way too much of their data. But do they care? How to make people care? How to make this technologies easy for people to use without all the technical terms, like public and private keys, addresses, etc?
 
-I actually have some notes on [blockchain](https://hacdias.com/notes/blockchain/) that are not very explained, but there's so many applications. For example, [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) is probably one of my favorites, since they're trustless contracts. The transaction will happen, no matter what. You don't need to trust the other party.
+I actually have some notes on blockchain that are not very explained, but there's so many applications. For example, [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) is probably one of my favorites, since they're trustless contracts. The transaction will happen, no matter what. You don't need to trust the other party.
 
 Well, I have to go eat breakfast 😅Hope I managed to explain something!
