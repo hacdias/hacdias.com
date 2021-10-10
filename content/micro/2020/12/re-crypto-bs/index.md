@@ -39,4 +39,4 @@ I think the main difficulty is making it easier for the end consumer, and also m
 
 I actually have some notes on blockchain that are not very explained, but there's so many applications. For example, [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) is probably one of my favorites, since they're trustless contracts. The transaction will happen, no matter what. You don't need to trust the other party.
 
-Well, I have to go eat breakfast 😅Hope I managed to explain something!
+Well, I have to go eat breakfast 😅 Hope I managed to explain something!
