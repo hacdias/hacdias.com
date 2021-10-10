@@ -24,8 +24,6 @@ Last weekend I had a dinner with 9 international friends, where each one of us c
 
 It feels so nice that we're slowly getting back to normal. There's so many people at university, every day, no masks, no social distancing. Sometimes it can be quite scary, but this is what has always happened during our lives. I still remember it took weeks after they lifted the masks indoors - in June - for me to go to the supermarket maskless.
 
-On this website, there were quite a few changes over the last month. I introduced a new section, called [garden](/garden/), which, similarly to my [stream](/stream/) - old log -, combines different feeds.
-
-I also made some other minor updates, such as removing the newsletter signing up form - I haven't used it in many months -, did a few design tweaks, and, added an easter egg to the website. It's up to you to find it!
+On this website, there were some minor updates, such as removing the newsletter signing up form - I haven't used it in many months -, did a few design tweaks, and, added an easter egg to the website. It's up to you to find it!
 
 I hope you had a great September and let's get ready for October!
