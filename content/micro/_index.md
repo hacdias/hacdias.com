@@ -1,6 +1,9 @@
 ---
 title: Micro
 emoji: "\U0001F4AC"
+menu:
+  main:
+    weight: 3
 ---
 
 <style>

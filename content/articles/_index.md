@@ -5,4 +5,7 @@ description: |
 aliases:
 - /blog/
 emoji: ✏️
+menu:
+  main:
+    weight: 2
 ---

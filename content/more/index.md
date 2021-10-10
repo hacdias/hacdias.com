@@ -17,7 +17,6 @@ This website contains more things than it looks at first glance. This page is a 
 
 <ul class='terms grid bold'>
   <li>{{< link-emoji "/stream" >}}</li>
-  <li>{{< link-emoji "/notes" >}}</li>
   <li>{{< link-emoji "/articles" >}}</li>
   <li>{{< link-emoji "/micro" >}}</li>
   <li>{{< link-emoji "/photos" >}}</li>

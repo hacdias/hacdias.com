@@ -108,21 +108,6 @@ One very important feature, personally, is the search feature. Right now, the se
 
 The search is **not** static. I am self-hosting an instance of [MeiliSearch](https://docs.meilisearch.com/), an open-source and super fast search engine. It is very fast to index, very quick to search and allows for full-text search.
 
-## 🏡 The Garden and the Stream {#garden-stream}
-
-Over time, I have read a lot about digital gardens. Personally, I enjoy the concept and find it quite captivating. Having a space to grow ideas and thoughts in public, without the pressure to finish them immediately, sounds fantastic. Articles, on the other hand, just like any other timeline-based content - I will call this a stream - require more psychological effort as we only want to publish it when it is completely ready.
-
-In a garden, content can be in different stages of growth. I decided to categorize my garden according to [this post](https://maggieappleton.com/garden-history), but with a tweak:
-
-- 🌱 **Seedlings**: rough and early ideas.
-- 🌿 **Budding**: clean and clarified work.
-- 🌳 **Evergreen**: complete work, can be changed over time.
-
-Some people decide to only have a garden, but that is not what I want. I still enjoy the timeline-based content and I feel it can still be useful. Thus, I provide two content aggregators on this website:
-
-- 🌊 [**Stream**](/stream), which combines [articles](/articles), [micro](/micro) and [photos](/photos).
-- 🪴 [**Garden**](/notes), which contains my notes.
-
 ## 🛎 Random Facts {#facts}
 
 - I try to follow Wikipedia's convention of capitalizing titles. I use the tool [Capitalize My Title](https://capitalizemytitle.com/style/Wiki/) to make sure my titles are correctly capitalized.

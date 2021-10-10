@@ -4,9 +4,6 @@ aliases:
 - /all
 emoji: "\U0001F30A"
 layout: list
-menu:
-  main:
-    weight: 2
 ---
 
 <div class="subtitle">

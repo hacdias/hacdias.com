@@ -23,11 +23,6 @@
   <script>
     {{ $js := resources.Get "js/app.js" }}
     {{ $js.Content | safeJS }}
-
-    {{ if eq .Section "notes" }}
-      {{ $notesJs := resources.Get "js/notes.js" }}
-      {{ $notesJs.Content | safeJS }}
-    {{ end }}
   </script>
   {{ if .Params.math }}
     <script async src="https://cdn.hacdias.com/mathjax/3.1.2/tex-chtml.js"></script>
