@@ -2,8 +2,8 @@
 title: Watches
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-emoji: "\U0001F3AC"
-layout: bullet-list
+emoji: 🎬 
+noMentions: true
 ---
 
 {{< figure src="https://cdn.hacdias.com/u/2021-02-popcorn.gif" alt="Popcorn" class="right pixelated" style="max-width: 130px; margin-top: 0" >}}
@@ -26,5 +26,3 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 {{< watches type="movies" >}}
 
 </div>
-
-## 💬 Reviews

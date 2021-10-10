@@ -29,7 +29,6 @@ This website contains more things than it looks at first glance. This page is a 
   <li>{{< link-emoji "/notes" >}}</li>
   <li>{{< link-emoji "/photos" >}}</li>
   <li>{{< link-emoji "/reads" >}}</li>
-  <li>{{< link-emoji "/watches" >}}</li>
 </ul>
 
 ### 🥐 Others {#others}
@@ -46,6 +45,7 @@ This website contains more things than it looks at first glance. This page is a 
   <li>{{< link-emoji "/resume" >}}</li>
   <li>{{< link-emoji "/search" >}}</li>
   <li>{{< link-emoji "/uses" >}}</li>
+  <li>{{< link-emoji "/watches" >}}</li>
   <li>{{< link-emoji "/tags" >}}</li>
 </ul>
 
