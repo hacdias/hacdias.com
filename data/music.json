@@ -1,14 +1,14 @@
 {
   "artists": [
     {
-      "name": "Agnes",
-      "count": 26,
-      "url": "https://www.last.fm/music/Agnes"
+      "name": "Pabllo Vittar",
+      "count": 28,
+      "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
-      "name": "Pabllo Vittar",
-      "count": 17,
-      "url": "https://www.last.fm/music/Pabllo+Vittar"
+      "name": "Agnes",
+      "count": 23,
+      "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Marina",
@@ -17,8 +17,13 @@
     },
     {
       "name": "Kim Petras",
-      "count": 12,
+      "count": 14,
       "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "GALXARA",
+      "count": 12,
+      "url": "https://www.last.fm/music/GALXARA"
     },
     {
       "name": "Omar Rudberg",
@@ -26,9 +31,9 @@
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
-      "name": "GALXARA",
-      "count": 10,
-      "url": "https://www.last.fm/music/GALXARA"
+      "name": "Luísa Sonza",
+      "count": 8,
+      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
     },
     {
       "name": "Charli XCX",
@@ -41,40 +46,41 @@
       "url": "https://www.last.fm/music/Cutts"
     },
     {
-      "name": "Luísa Sonza",
+      "name": "Miley Cyrus",
       "count": 7,
-      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
-    },
-    {
-      "name": "Regard",
-      "count": 6,
-      "url": "https://www.last.fm/music/Regard"
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     }
   ],
   "tracks": [
     {
       "name": "Future Starts Now",
       "url": "https://www.last.fm/music/Kim+Petras/_/Future+Starts+Now",
-      "count": 12,
+      "count": 14,
       "artist": "Kim Petras"
-    },
-    {
-      "name": "Bang Bang",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
-      "count": 8,
-      "artist": "Pabllo Vittar"
     },
     {
       "name": "Triste com T",
       "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
-      "count": 8,
+      "count": 10,
+      "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "Bang Bang",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
+      "count": 9,
       "artist": "Pabllo Vittar"
     },
     {
       "name": "Here Comes the Night",
       "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
-      "count": 7,
+      "count": 8,
       "artist": "Agnes"
+    },
+    {
+      "name": "MODO TURBO",
+      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
+      "count": 8,
+      "artist": "Luísa Sonza"
     },
     {
       "name": "Good Ones",
@@ -89,28 +95,22 @@
       "artist": "Cutts"
     },
     {
-      "name": "MODO TURBO",
-      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
-      "count": 7,
-      "artist": "Luísa Sonza"
-    },
-    {
       "name": "I Miss The Days (feat. Party Pupils)",
       "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 6,
+      "count": 7,
       "artist": "GALXARA"
+    },
+    {
+      "name": "Can't Be Tamed",
+      "url": "https://www.last.fm/music/Miley+Cyrus/_/Can%27t+Be+Tamed",
+      "count": 7,
+      "artist": "Miley Cyrus"
     },
     {
       "name": "You",
       "url": "https://www.last.fm/music/Regard/_/You",
-      "count": 6,
+      "count": 7,
       "artist": "Regard"
-    },
-    {
-      "name": "Angel Baby",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-      "count": 6,
-      "artist": "Troye Sivan"
     }
   ]
 }
