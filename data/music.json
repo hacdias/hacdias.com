@@ -2,103 +2,85 @@
   "artists": [
     {
       "name": "Pabllo Vittar",
-      "count": 28,
+      "count": 26,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
       "name": "Agnes",
-      "count": 23,
+      "count": 16,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
-      "name": "Marina",
-      "count": 16,
-      "url": "https://www.last.fm/music/Marina"
-    },
-    {
       "name": "Kim Petras",
-      "count": 14,
+      "count": 10,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
       "name": "GALXARA",
-      "count": 12,
+      "count": 9,
       "url": "https://www.last.fm/music/GALXARA"
     },
     {
-      "name": "Omar Rudberg",
-      "count": 11,
-      "url": "https://www.last.fm/music/Omar+Rudberg"
-    },
-    {
       "name": "Luísa Sonza",
-      "count": 8,
+      "count": 7,
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
-    },
-    {
-      "name": "Charli XCX",
-      "count": 7,
-      "url": "https://www.last.fm/music/Charli+XCX"
-    },
-    {
-      "name": "Cutts",
-      "count": 7,
-      "url": "https://www.last.fm/music/Cutts"
     },
     {
       "name": "Miley Cyrus",
       "count": 7,
       "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Charli XCX",
+      "count": 6,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
+      "name": "Chris Tiaan",
+      "count": 5,
+      "url": "https://www.last.fm/music/Chris+Tiaan"
+    },
+    {
+      "name": "Cutts",
+      "count": 5,
+      "url": "https://www.last.fm/music/Cutts"
+    },
+    {
+      "name": "Marina",
+      "count": 5,
+      "url": "https://www.last.fm/music/Marina"
     }
   ],
   "tracks": [
     {
       "name": "Future Starts Now",
       "url": "https://www.last.fm/music/Kim+Petras/_/Future+Starts+Now",
-      "count": 14,
+      "count": 10,
       "artist": "Kim Petras"
     },
     {
       "name": "Triste com T",
       "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
-      "count": 10,
+      "count": 9,
       "artist": "Pabllo Vittar"
     },
     {
       "name": "Bang Bang",
       "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
-      "count": 9,
+      "count": 8,
       "artist": "Pabllo Vittar"
     },
     {
       "name": "Here Comes the Night",
       "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
-      "count": 8,
+      "count": 7,
       "artist": "Agnes"
     },
     {
       "name": "MODO TURBO",
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
-      "count": 8,
+      "count": 7,
       "artist": "Luísa Sonza"
-    },
-    {
-      "name": "Good Ones",
-      "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
-      "count": 7,
-      "artist": "Charli XCX"
-    },
-    {
-      "name": "Honey",
-      "url": "https://www.last.fm/music/Cutts/_/Honey",
-      "count": 7,
-      "artist": "Cutts"
-    },
-    {
-      "name": "I Miss The Days (feat. Party Pupils)",
-      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
-      "count": 7,
-      "artist": "GALXARA"
     },
     {
       "name": "Can't Be Tamed",
@@ -107,10 +89,28 @@
       "artist": "Miley Cyrus"
     },
     {
-      "name": "You",
-      "url": "https://www.last.fm/music/Regard/_/You",
-      "count": 7,
-      "artist": "Regard"
+      "name": "Good Ones",
+      "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
+      "count": 6,
+      "artist": "Charli XCX"
+    },
+    {
+      "name": "Le combat du comfort",
+      "url": "https://www.last.fm/music/Chris+Tiaan/_/Le+combat+du+comfort",
+      "count": 5,
+      "artist": "Chris Tiaan"
+    },
+    {
+      "name": "Honey",
+      "url": "https://www.last.fm/music/Cutts/_/Honey",
+      "count": 5,
+      "artist": "Cutts"
+    },
+    {
+      "name": "I Miss The Days (feat. Party Pupils)",
+      "url": "https://www.last.fm/music/GALXARA/_/I+Miss+The+Days+(feat.+Party+Pupils)",
+      "count": 5,
+      "artist": "GALXARA"
     }
   ]
 }
