@@ -1933,8 +1933,13 @@
   ],
   "series": [
     {
+      "title": "The Good Doctor",
+      "watched": "2021-10-12T16:59:50.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Downton Abbey",
-      "watched": "2021-10-10T14:40:54.000Z",
+      "watched": "2021-10-12T16:13:24.000Z",
       "url": "https://trakt.tv/shows/downton-abbey"
     },
     {
@@ -2036,11 +2041,6 @@
       "title": "Elite",
       "watched": "2021-06-20T21:16:40.000Z",
       "url": "https://trakt.tv/shows/elite"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-06-08T18:57:14.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Young Sheldon",
