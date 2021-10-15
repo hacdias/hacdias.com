@@ -1934,8 +1934,23 @@
   "series": [
     {
       "title": "The Good Doctor",
-      "watched": "2021-10-12T16:59:50.000Z",
+      "watched": "2021-10-14T18:39:02.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
+      "title": "Young Sheldon",
+      "watched": "2021-10-14T13:16:52.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "Heathrow: Britain's Busiest Airport",
+      "watched": "2021-10-14T13:16:52.000Z",
+      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
+    },
+    {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-10-14T11:53:56.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "Downton Abbey",
@@ -1948,19 +1963,9 @@
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
-      "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2021-10-09T07:12:33.000Z",
-      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
-    },
-    {
       "title": "Squid Game",
       "watched": "2021-10-03T21:30:26.000Z",
       "url": "https://trakt.tv/shows/squid-game"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2021-09-22T07:00:00.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "Sex Education",
@@ -2041,11 +2046,6 @@
       "title": "Elite",
       "watched": "2021-06-20T21:16:40.000Z",
       "url": "https://trakt.tv/shows/elite"
-    },
-    {
-      "title": "Young Sheldon",
-      "watched": "2021-05-14T10:29:47.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
     },
     {
       "title": "The Shannara Chronicles",
