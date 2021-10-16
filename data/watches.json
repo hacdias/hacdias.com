@@ -1933,14 +1933,19 @@
   ],
   "series": [
     {
-      "title": "The Good Doctor",
-      "watched": "2021-10-14T18:39:02.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
+      "title": "RuPaul's Drag Race UK",
+      "watched": "2021-10-15T17:54:02.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
       "title": "Young Sheldon",
-      "watched": "2021-10-14T13:16:52.000Z",
+      "watched": "2021-10-15T11:25:34.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "The Good Doctor",
+      "watched": "2021-10-14T18:39:02.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Heathrow: Britain's Busiest Airport",
@@ -1956,11 +1961,6 @@
       "title": "Downton Abbey",
       "watched": "2021-10-12T16:13:24.000Z",
       "url": "https://trakt.tv/shows/downton-abbey"
-    },
-    {
-      "title": "RuPaul's Drag Race UK",
-      "watched": "2021-10-09T09:31:35.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
       "title": "Squid Game",
