@@ -2,47 +2,47 @@
   "artists": [
     {
       "name": "Pabllo Vittar",
-      "count": 35,
+      "count": 38,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
       "name": "Agnes",
-      "count": 21,
+      "count": 29,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Miley Cyrus",
-      "count": 18,
+      "count": 23,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Kim Petras",
-      "count": 16,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
       "name": "Elton John",
-      "count": 12,
+      "count": 21,
       "url": "https://www.last.fm/music/Elton+John"
     },
     {
+      "name": "Kim Petras",
+      "count": 19,
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
       "name": "Foxes",
-      "count": 10,
+      "count": 13,
       "url": "https://www.last.fm/music/Foxes"
     },
     {
       "name": "Luísa Sonza",
-      "count": 10,
+      "count": 12,
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
     },
     {
       "name": "Charli XCX",
-      "count": 9,
+      "count": 11,
       "url": "https://www.last.fm/music/Charli+XCX"
     },
     {
       "name": "GALXARA",
-      "count": 9,
+      "count": 11,
       "url": "https://www.last.fm/music/GALXARA"
     },
     {
@@ -55,62 +55,62 @@
     {
       "name": "Can't Be Tamed",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Can%27t+Be+Tamed",
-      "count": 18,
+      "count": 23,
       "artist": "Miley Cyrus"
     },
     {
       "name": "Future Starts Now",
       "url": "https://www.last.fm/music/Kim+Petras/_/Future+Starts+Now",
-      "count": 16,
+      "count": 19,
       "artist": "Kim Petras"
+    },
+    {
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://www.last.fm/music/Elton+John/_/Cold+Heart+-+PNAU+Remix",
+      "count": 18,
+      "artist": "Elton John"
     },
     {
       "name": "Here Comes the Night",
       "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
-      "count": 14,
+      "count": 17,
       "artist": "Agnes"
     },
     {
       "name": "Triste com T",
       "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
-      "count": 14,
+      "count": 15,
       "artist": "Pabllo Vittar"
     },
     {
       "name": "Bang Bang",
       "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
-      "count": 12,
+      "count": 14,
       "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://www.last.fm/music/Elton+John/_/Cold+Heart+-+PNAU+Remix",
-      "count": 10,
-      "artist": "Elton John"
     },
     {
       "name": "Sister Ray",
       "url": "https://www.last.fm/music/Foxes/_/Sister+Ray",
-      "count": 10,
+      "count": 13,
       "artist": "Foxes"
     },
     {
       "name": "MODO TURBO",
       "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
-      "count": 10,
+      "count": 12,
       "artist": "Luísa Sonza"
     },
     {
       "name": "Good Ones",
       "url": "https://www.last.fm/music/Charli+XCX/_/Good+Ones",
-      "count": 8,
+      "count": 10,
       "artist": "Charli XCX"
     },
     {
-      "name": "Honey",
-      "url": "https://www.last.fm/music/Cutts/_/Honey",
-      "count": 5,
-      "artist": "Cutts"
+      "name": "You",
+      "url": "https://www.last.fm/music/Regard/_/You",
+      "count": 7,
+      "artist": "Regard"
     }
   ]
 }
