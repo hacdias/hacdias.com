@@ -461,6 +461,7 @@ figure.right {
   padding: 0.5rem;
   border: var(--border) solid rgb(var(--color));
   background-color: rgba(var(--color), 0.1);
+  border-radius: var(--radius);
   margin: 1rem 0;
 }
 
