@@ -1,8 +1,9 @@
 ---
 title: YubiKey Setup for GPG, SSH and 2FA
-date: 2021-10-17T15:13:25.51356269Z
 tags:
 - security
+date: 2021-10-17T15:13:25.51356269Z
+lastmod: 2021-10-17T15:17:58.78566212Z
 ---
 
 YubiKeys are hardware authentication devices that can be used with many applications, such as GPG, SSH and for 2 factor authentication. I have owned quite a few over the past years and recently I decided to upgrade them to the NFC version so I can use them with my mobile devices.
@@ -35,7 +36,7 @@ Last, but not least, I **publish** my GPG public keys to:
 
 ## 💻 SSH {#ssh}
 
-Currently, I use SSH via GPG. To achieve this, I follow the guide mentioned [above](#gpg). In the future, however, I am planning to change my setup to non-resident, FIDO2 keys. As of the date of this post, not enough places support them.
+Currently, I use SSH via GPG. To achieve this, I follow the guide mentioned [above](#gpg). In the future, however, I am planning to change my setup to non-resident, FIDO2 keys. As of the date of this post, not enough places support them yet to make me change.
 
 ## 🔥 2FA {#2fa}
 
