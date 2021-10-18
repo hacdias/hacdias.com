@@ -1,6 +1,11 @@
 {
   "movies": [
     {
+      "title": "Confessions of an Invisible Girl",
+      "watched": "2021-10-17T18:58:19.000Z",
+      "url": "https://trakt.tv/movies/confessions-of-an-invisible-girl-2021-09-22"
+    },
+    {
       "title": "Him",
       "watched": "2021-09-14T08:46:07.000Z",
       "url": "https://trakt.tv/movies/him-2019"
