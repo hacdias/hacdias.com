@@ -96,6 +96,11 @@
       "title": "Filippo Valsorda"
     },
     {
+      "feed": "https://goblog.app/.rss",
+      "site": "https://goblog.app",
+      "title": "Go, blog with GoBlog!"
+    },
+    {
       "feed": "https://rakhim.org/index.xml",
       "site": "https://rakhim.org/",
       "title": "Home on Rakhim.org"
