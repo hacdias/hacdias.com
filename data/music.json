@@ -2,38 +2,23 @@
   "artists": [
     {
       "name": "Agnes",
-      "count": 32,
+      "count": 27,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
+      "name": "Adele",
+      "count": 23,
+      "url": "https://www.last.fm/music/Adele"
+    },
+    {
       "name": "Elton John",
-      "count": 25,
+      "count": 18,
       "url": "https://www.last.fm/music/Elton+John"
     },
     {
       "name": "Pabllo Vittar",
-      "count": 22,
+      "count": 14,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
-    },
-    {
-      "name": "Adele",
-      "count": 19,
-      "url": "https://www.last.fm/music/Adele"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 18,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
-      "name": "Miley Cyrus",
-      "count": 16,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
-      "name": "Foxes",
-      "count": 15,
-      "url": "https://www.last.fm/music/Foxes"
     },
     {
       "name": "Marina",
@@ -41,9 +26,24 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Luísa Sonza",
-      "count": 9,
-      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza"
+      "name": "Kim Petras",
+      "count": 12,
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Foxes",
+      "count": 10,
+      "url": "https://www.last.fm/music/Foxes"
+    },
+    {
+      "name": "Lady Gaga",
+      "count": 10,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Miley Cyrus",
+      "count": 10,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Omar Rudberg",
@@ -55,62 +55,62 @@
     {
       "name": "Cold Heart - PNAU Remix",
       "url": "https://www.last.fm/music/Elton+John/_/Cold+Heart+-+PNAU+Remix",
-      "count": 22,
+      "count": 16,
       "artist": "Elton John"
+    },
+    {
+      "name": "Sister Ray",
+      "url": "https://www.last.fm/music/Foxes/_/Sister+Ray",
+      "count": 10,
+      "artist": "Foxes"
     },
     {
       "name": "Future Starts Now",
       "url": "https://www.last.fm/music/Kim+Petras/_/Future+Starts+Now",
-      "count": 16,
+      "count": 10,
       "artist": "Kim Petras"
     },
     {
       "name": "Can't Be Tamed",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Can%27t+Be+Tamed",
-      "count": 16,
+      "count": 10,
       "artist": "Miley Cyrus"
-    },
-    {
-      "name": "Sister Ray",
-      "url": "https://www.last.fm/music/Foxes/_/Sister+Ray",
-      "count": 15,
-      "artist": "Foxes"
-    },
-    {
-      "name": "Here Comes the Night",
-      "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
-      "count": 14,
-      "artist": "Agnes"
-    },
-    {
-      "name": "Bang Bang",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
-      "count": 11,
-      "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "Triste com T",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
-      "count": 11,
-      "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "MODO TURBO",
-      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
-      "count": 9,
-      "artist": "Luísa Sonza"
     },
     {
       "name": "It's The Way You Make Me Feel",
       "url": "https://www.last.fm/music/Steps/_/It%27s+The+Way+You+Make+Me+Feel",
-      "count": 8,
+      "count": 9,
       "artist": "Steps"
     },
     {
       "name": "Easy on Me",
       "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
-      "count": 7,
+      "count": 8,
       "artist": "Adele"
+    },
+    {
+      "name": "Here Comes the Night",
+      "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
+      "count": 8,
+      "artist": "Agnes"
+    },
+    {
+      "name": "Bang Bang",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Bang+Bang",
+      "count": 7,
+      "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "Triste com T",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Triste+com+T",
+      "count": 7,
+      "artist": "Pabllo Vittar"
+    },
+    {
+      "name": "MODO TURBO",
+      "url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza/_/MODO+TURBO",
+      "count": 6,
+      "artist": "Luísa Sonza"
     }
   ]
 }
