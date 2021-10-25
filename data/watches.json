@@ -1938,24 +1938,29 @@
   ],
   "series": [
     {
+      "title": "Young Sheldon",
+      "watched": "2021-10-24T06:42:00.000Z",
+      "url": "https://trakt.tv/shows/young-sheldon"
+    },
+    {
+      "title": "Locke & Key",
+      "watched": "2021-10-23T19:01:22.000Z",
+      "url": "https://trakt.tv/shows/locke-key"
+    },
+    {
       "title": "RuPaul's Drag Race UK",
-      "watched": "2021-10-15T17:54:02.000Z",
+      "watched": "2021-10-22T16:03:58.000Z",
       "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
     },
     {
-      "title": "Young Sheldon",
-      "watched": "2021-10-15T11:25:34.000Z",
-      "url": "https://trakt.tv/shows/young-sheldon"
+      "title": "Heathrow: Britain's Busiest Airport",
+      "watched": "2021-10-20T16:42:40.000Z",
+      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
     },
     {
       "title": "The Good Doctor",
       "watched": "2021-10-14T18:39:02.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "Heathrow: Britain's Busiest Airport",
-      "watched": "2021-10-14T13:16:52.000Z",
-      "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
     },
     {
       "title": "Kurzgesagt - In a Nutshell",
@@ -2121,11 +2126,6 @@
       "title": "Greenhouse Academy",
       "watched": "2021-01-11T09:26:17.000Z",
       "url": "https://trakt.tv/shows/greenhouse-academy"
-    },
-    {
-      "title": "Locke & Key",
-      "watched": "2021-01-02T11:53:17.000Z",
-      "url": "https://trakt.tv/shows/locke-key"
     },
     {
       "title": "The Unlisted",
