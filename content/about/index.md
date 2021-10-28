@@ -2,7 +2,6 @@
 title: About
 emoji: "\U0001F9D4"
 noMentions: true
-# date: 2015-10-03
 menu:
   main:
     weight: 1
