@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Adele",
-      "count": 35,
+      "count": 37,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Marina",
-      "count": 24,
+      "count": 25,
       "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Amor Electro",
-      "count": 23,
+      "count": 22,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
@@ -22,17 +22,12 @@
     },
     {
       "name": "Agnes",
-      "count": 11,
+      "count": 12,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
-      "name": "Lady Gaga",
-      "count": 11,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Bárbara Tinoco",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
@@ -41,8 +36,13 @@
       "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
-      "name": "Troye Sivan",
+      "name": "Lady Gaga",
       "count": 10,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Troye Sivan",
+      "count": 9,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
@@ -59,15 +59,15 @@
       "artist": "Adele"
     },
     {
-      "name": "Love in the Dark",
-      "url": "https://www.last.fm/music/Adele/_/Love+in+the+Dark",
+      "name": "Easy on Me",
+      "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
       "count": 11,
       "artist": "Adele"
     },
     {
-      "name": "Easy on Me",
-      "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
-      "count": 8,
+      "name": "Love in the Dark",
+      "url": "https://www.last.fm/music/Adele/_/Love+in+the+Dark",
+      "count": 11,
       "artist": "Adele"
     },
     {
@@ -107,10 +107,10 @@
       "artist": "Agnes"
     },
     {
-      "name": "Só é fogo se queimar",
-      "url": "https://www.last.fm/music/Amor+Electro/_/S%C3%B3+%C3%A9+fogo+se+queimar",
+      "name": "Ok",
+      "url": "https://www.last.fm/music/Blaya/_/Ok",
       "count": 4,
-      "artist": "Amor Electro"
+      "artist": "Blaya"
     }
   ]
 }
