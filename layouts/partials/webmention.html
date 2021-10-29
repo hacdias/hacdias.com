@@ -1,7 +1,7 @@
 {{ $mentions := slice }}
 
 {{ if .Params.dataId }}
-  {{ $mentions := index .Site.Data.content .Params.dataId }}
+  {{ $mentions = index .Site.Data.content .Params.dataId }}
 {{ end }}
 
 {{ $count := 0}}
