@@ -1,10 +1,11 @@
 ---
+dataId: 28c8b3fadf3b914f9b041ec23cba6b5b43fdbbef8405323bf713ec744ba06131
 title: Projects
 description: |
   A non-exhaustive list of the most impactful and important projects I have been involved with in the past.
 emoji: "\U0001F4E6"
-noMentions: true
 layout: single
+noMentions: true
 ---
 
 This is a display of some of the projects I have worked on. Please check out my [GitHub](https://github.com/hacdias) for other open-source contributions, or my [resume](/resume) for my curriculum.
@@ -47,4 +48,3 @@ This is a display of some of the projects I have worked on. Please check out my 
     img="pplware.jpg"
     url="https://pplware.sapo.pt" >}}
 </div>
-

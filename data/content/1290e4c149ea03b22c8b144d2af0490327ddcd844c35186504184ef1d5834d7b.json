@@ -1,0 +1,16 @@
+{
+  "targets": [],
+  "webmentions": [
+    {
+      "type": "like",
+      "url": "https://www.jvt.me/mf2/2019/12/7mofk/",
+      "date": "2019-12-31T16:09:00Z",
+      "author": {
+        "name": "Jamie Tanna",
+        "url": "https://www.jvt.me",
+        "photo": "https://cdn.hacdias.com/wm/43afa3ec3831ae65f7bf31ef8e724ae620ea402accf9408d36f9aeeee22d47cd.png"
+      },
+      "wm-id": 739731
+    }
+  ]
+}

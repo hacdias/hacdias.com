@@ -1,4 +1,5 @@
 ---
+dataId: 2aee00b0f2a7dc7977b206ebdfe2d4111beba5081177cd5019e42d42f55e9278
 title: 'Fundamentals of Programming #2: Constants and Variables'
 date: 2016-11-11T00:00:00Z
 aliases:

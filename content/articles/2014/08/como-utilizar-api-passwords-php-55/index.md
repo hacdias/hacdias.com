@@ -1,4 +1,5 @@
 ---
+dataId: 74982cc8d03470053d9fc821bf3fe189c9d6500b6c700d194b5ddfb9c45ae874
 title: Como Utilizar a API de Passwords do PHP 5.5+
 description: A API de passwords introduzida na versão 5.5 do PHP é excelente. Trouxe
   quatro novas maravilhosas funções. Resumimos a forma como cada uma funciona.

@@ -1,4 +1,5 @@
 ---
+dataId: c38d7f640f4e380780c339d0eb532b5d301a14eb1663e1ada5546f1d0a4aa53e
 title: Que Postura Ter Perante a Matemática
 description: Algumas dicas para o estudo de Matemática, uma das disciplinas em que
   os estudantes têm mais problemas. Prepara-te para os exames continuamente.

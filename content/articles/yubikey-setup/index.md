@@ -1,4 +1,5 @@
 ---
+dataId: b4594c4756c8b89807cbd8933864db6268b4e336aac830c2833a748c285c3b7c
 title: YubiKey Setup for GPG, SSH and 2FA
 tags:
 - security

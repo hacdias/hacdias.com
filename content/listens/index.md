@@ -1,10 +1,11 @@
 ---
+dataId: 6185f21035fbcb4b3d4deb8b20f5a7ce158953b9bccc6d11b212be24443e029d
 title: Listens
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
 aliases:
 - /music
-emoji: 🎶
+emoji: "\U0001F3B6"
 noMentions: true
 ---
 

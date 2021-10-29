@@ -1,8 +1,8 @@
 ---
+dataId: d3bcc90240b887fc8a9bf2afbb08fc5696dd7ec1b8bcc578b16f8acc059598c6
 title: Testing Peer-to-Peer Systems With Testground
-description: >
-  P2P systems are not always easy to test. Due to their nature, there's a lot of 
-  constraints and network scenarios that might happen. Testground can help!
+description: |
+  P2P systems are not always easy to test. Due to their nature, there's a lot of  constraints and network scenarios that might happen. Testground can help!
 tags:
 - testing
 - web3

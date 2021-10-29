@@ -1,4 +1,5 @@
 ---
+dataId: 131345bf1972ea42c721fa8554ef374ed2e4f0c333379e0135af92d2b492d1c8
 title: Algumas Tags dos DocBlocks em PHP
 description: Os DOCBlocks do PHP são extremamente úteis para os desenvolvedores que
   desejam partilhar o código. Venha conhecer as tags mais utilizadas.

@@ -1,4 +1,5 @@
 ---
+dataId: c86ddd4ec05943b3260f49306adc26d3b18d27b4701536773a4801452e15b0ae
 title: Chamadas Ajax Com jQuery e PHP
 description: Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder
   utilizando a linguagem de servidor PHP.

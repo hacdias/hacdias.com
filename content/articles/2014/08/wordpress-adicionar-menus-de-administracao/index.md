@@ -1,5 +1,6 @@
 ---
-title: 'Como Adicionar Menus de Administração no WordPress? [Parte 1]'
+dataId: a446a5666a854dff4233f25dbebb060cb0f0fdbb5b13246a0d09afcba9756ab2
+title: Como Adicionar Menus de Administração no WordPress? [Parte 1]
 description: A criação de temas e plugins para o WordPres leva a uma necessidade constante
   de criar menus de administração. A criação dos mesmos é muito simples.
 tags:

@@ -1,8 +1,8 @@
 ---
+dataId: d8939ecb6677ce1838b4094dcad10de317df6d3bcf927b5d6666ffa50781b1e6
 title: Thinking Out Loud About My Future Master’s Project
-description: >
-  I'm in my first year of my master's degree. Next year, I am supposed to do
-  a master's project and thesis. Thus, it's never too early to think about it.
+description: |
+  I'm in my first year of my master's degree. Next year, I am supposed to do a master's project and thesis. Thus, it's never too early to think about it.
 tags:
 - reflection
 date: 2020-10-05T09:00:00+02:00

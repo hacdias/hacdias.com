@@ -1,0 +1,16 @@
+{
+  "targets": [],
+  "webmentions": [
+    {
+      "type": "like",
+      "url": "https://twitter.com/hacdias/status/1220671045545484288#favorited-by-1200082629602824194",
+      "date": "2020-01-25T21:31:34Z",
+      "author": {
+        "name": "Isabel Soares",
+        "url": "https://twitter.com/isabelsrsoares",
+        "photo": "https://cdn.hacdias.com/wm/ce47c92f246a4e12a273f8e1004cd498a290f895d46e89bb40ff0381ab2716bb.jpg"
+      },
+      "wm-id": 748767
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "targets": [],
+  "webmentions": [
+    {
+      "type": "reply",
+      "url": "https://jlelse.blog/thoughts/2020/01/telegram-features/",
+      "content": "I think I’m in some kind of bubble, but most of the people I instant message with use Telegram, because either they are computer science students too or because I convinced (or persuaded) them.My top features (that can convince geeks) are: cross device cloud sync (with clients for almost any platform and perfect notification handling), bots and the bots API (I use that for two of my projects) and night mode.Features that can probably convince “normal” people: It’s fast, it looks pretty and is highly customizable, it doesn’t waste storage (because you can configure to just keep files cached for a specific time) and stickers (also animated stickers).And not to forget: You can message people and they won’t see your phone number unless you explicitly share it with them (at least when you configured a username)!But yeah, it’s still hard to change people’s routines. 😒",
+      "date": "2020-01-30T21:30:00Z",
+      "author": {
+        "name": "Jan-Lukas Else",
+        "url": "https://jlelse.dev/",
+        "photo": "https://cdn.hacdias.com/wm/fc6ea73177b3cf82aeeeb3f42ba5cc5919521699bc3718aae694ef9f64520461.jpg"
+      },
+      "wm-id": 750317
+    }
+  ]
+}

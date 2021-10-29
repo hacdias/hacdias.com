@@ -1,4 +1,5 @@
 ---
+dataId: ee6b048fc1bcd053836a44793365497c70dc4c18fa057733019d09ccd5aed4e0
 title: Guardar os Erros do PHP num Ficheiro Com o .htaccess
 description: Explicamos como fazer a listagem em log de todos os erros produzidos
   pela linguagem PHP num ficheiro através do .htaccess.

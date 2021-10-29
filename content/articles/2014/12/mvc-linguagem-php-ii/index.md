@@ -1,4 +1,5 @@
 ---
+dataId: 23ac0784e1da90e24e736e62670c55389b34e501df1c5ba13f2a00fd8eecca30
 title: MVC na Linguagem PHP - II
 description: Continuamos a construir a nossa framework que terá como base o modelo
   MVC. Neste artigo criamos o coração da nossa framework.

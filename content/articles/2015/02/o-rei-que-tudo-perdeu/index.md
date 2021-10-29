@@ -1,4 +1,5 @@
 ---
+dataId: 5083ef4cf7ce7e9cd288d36b3d12a617dec1753674663c7a42be2ada114c34d0
 title: O Rei Que Tudo Perdeu
 description: Por vezes, a vontade de escrever é tanta que as letras deslizam pelo
   papel. Aqui está um pequeno poema, O Rei Que Tudo Perdeu, escrito em 2012.

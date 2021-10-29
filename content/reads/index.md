@@ -1,10 +1,11 @@
 ---
+dataId: 319479dbb57a73602790323e263f824f60c6a2c3db881a797788a3318ae6766f
 title: Reads
 description: |
   A bookshelf of the books I have read in the past and the books I would like to read.
 aliases:
 - /books
-emoji: 📚
+emoji: "\U0001F4DA"
 noMentions: true
 ---
 

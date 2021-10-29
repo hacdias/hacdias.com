@@ -1,4 +1,5 @@
 ---
+dataId: f38c730120162293f10b38de3bff8331fe1bb7fd51189a33b1fc41595273fbad
 title: PHP 5.6 - Funções Variádicas (Nova Sintaxe)
 description: O PHP 5.6.0 trouxe aos desenvolvedores novas funcionalidades e formas
   de trabalhar. Uma das melhores novidades é a nova sintaxe das funções variádicas.

@@ -1,7 +1,10 @@
 ---
+dataId: 133e75387ddfe03c43018988ad7d361775c4256553b1ce6a03c087c2aef82cb2
 title: Papers We Love - Um dos Melhores Repositórios do GitHub
 description: O GitHub não contém apenas software e código. Contém também conhecimento.
   Um grande exemplo é o repositório Papers We Love.
+tags:
+- portuguese
 date: 2014-08-22T09:38:31Z
 aliases:
 - /articles/2014/08/22/1/
@@ -11,8 +14,6 @@ aliases:
 - /blog/2014/08/papers-we-love-um-dos-melhores-repositorios-github/
 - /blog/papers-we-love-um-dos-melhores-repositorios-github/
 - /articles/2014/08/22/1/papers-we-love-um-dos-melhores-repositorios-github
-tags:
-- portuguese
 ---
 
 Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.

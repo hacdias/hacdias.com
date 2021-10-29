@@ -1,4 +1,5 @@
 ---
+dataId: 6174a14f75e9ab2befd91c4e9a1353db9c70108f83b5fedf2f06fca76d06605e
 title: 'Fundamentals of Programming #4: Language C'
 date: 2016-11-14T00:00:00Z
 aliases:

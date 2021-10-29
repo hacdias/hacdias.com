@@ -1,4 +1,5 @@
 ---
+dataId: d0c30bb106531f8334b9e857d4d48a8a040c37a667ab74fdcc58189fd949668b
 title: Breve Explicação Sobre o Modelo MVC
 description: O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado
   nas aplicações web. Apresentamos uma breve explicação sobre este modelo.

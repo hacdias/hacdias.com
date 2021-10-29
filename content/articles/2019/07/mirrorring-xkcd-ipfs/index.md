@@ -1,4 +1,5 @@
 ---
+dataId: 1ba97c4838a5a6a7c8759b42f804d91f7121d1ddc3ef36e637a5be087cd4e1b2
 title: Mirroring XKCD Comics to Ipfs
 description: |
   How I built a cloner for xkcd and keep the clone up to date on IPFS.

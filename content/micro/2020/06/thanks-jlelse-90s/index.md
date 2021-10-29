@@ -1,4 +1,5 @@
 ---
+dataId: aa405a414ab94f2595a1981f8590b8961933917b28113a2f81fd415ef2aaa32f
 date: 2020-06-01T07:39:52.576Z
 replyTo:
   url: https://jlelse.blog/micro/2020/06/90s-web/

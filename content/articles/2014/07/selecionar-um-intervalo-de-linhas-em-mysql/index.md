@@ -1,4 +1,5 @@
 ---
+dataId: 24146646c91d287eabb86bfa818832763cc1eb0f8de6cfaff8494a92e487f2a3
 title: Selecionar Um Intervalo de Linhas em MySQL
 description: Utilizar MySQL é muito simples. Neste tutorial ensino a selecionar apenas
   um intervalo de linhas em MySQL.

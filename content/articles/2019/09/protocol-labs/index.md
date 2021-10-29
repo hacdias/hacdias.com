@@ -1,7 +1,10 @@
 ---
+dataId: 7c7973ce614e9e969b32be3af9c882632f3baf44fb3b929a5f0d9807c6d156b0
 title: Almost two years at Protocol Labs
 description: |
   Protocol Labs is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.
+tags:
+- reflection
 date: 2019-09-14T09:00:00Z
 expiryDate: 2021-02-02T09:00:00Z
 aliases:
@@ -11,8 +14,6 @@ aliases:
 - /2019/09/protocol-labs/
 - /projects/protocol-labs/
 - /articles/2019/09/14/1/protocol-labs
-tags:
-- reflection
 ---
 
 Protocol Labs (PL) is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.

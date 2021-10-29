@@ -1,4 +1,5 @@
 ---
+dataId: b85ecbdbe5ed15a65f727ec22811b219be37862300f45e139d552dcc4fc72ed7
 title: 'Fundamentals of Programming #6: Data Types II'
 date: 2016-11-16T00:00:00Z
 aliases:

@@ -1,4 +1,5 @@
 ---
+dataId: 7d9ea1d80b53c452522ba3c215a7698219b212826bd65cedc7f714af86c99e53
 title: Hometown Lockdown
 date: 2020-05-21T23:30:50.893Z
 cover:
@@ -85,4 +86,3 @@ May. Still in my hometown and realizing that I was slightly lucky because I coul
 </div>
 
 {{< figure cdn="2020-05-nature-05" alt="Sunset" >}}
-

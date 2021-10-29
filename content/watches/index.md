@@ -1,8 +1,9 @@
 ---
+dataId: 7659cfe1ef7147199f03bdd96f6f6b529bfa70689b74e433838156495bf9de03
 title: Watches
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-emoji: 🎬 
+emoji: "\U0001F3AC"
 noMentions: true
 ---
 

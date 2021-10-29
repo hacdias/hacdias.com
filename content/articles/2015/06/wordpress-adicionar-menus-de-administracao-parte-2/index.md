@@ -1,5 +1,6 @@
 ---
-title: 'Como Adicionar Menus de Administração no WordPress? [Parte 2]'
+dataId: 38a838b96b263f8fd59715ed11b11f3a157be2628b7b7bc52a5c6ffe41af33e6
+title: Como Adicionar Menus de Administração no WordPress? [Parte 2]
 description: Esta é a continuação do tutorial sobre como adicionar menus de administração
   a temas e plugins do WordPress.
 tags:

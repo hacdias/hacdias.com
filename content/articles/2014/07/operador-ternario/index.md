@@ -1,4 +1,5 @@
 ---
+dataId: ce61c46fbd87ea0be289320782a3967e8b640a1a2c00fac6a398300fda23930c
 title: Operador Ternário ( ? ) em PHP
 description: O operador ? é, por vezes, intrigante. Chama-se operador ternário e explicamos
   para que serve este operador condicional em PHP.

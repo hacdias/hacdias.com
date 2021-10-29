@@ -1,0 +1,17 @@
+{
+  "targets": [],
+  "webmentions": [
+    {
+      "type": "mention",
+      "url": "https://hacdias.com/2020/01/21/5/",
+      "content": "Just made a few updates to my website:Removed Tachyons.\nNew roomy header: took some inspiration from @jhelse's and from a previous version of my website.\nAdded two new pages that have no information yet: now and use. You can find them on the header.\nI now have a blogroll that you can find here.\nIf you look at the bottom of the page, you now have links for all the categories too.\nThis seems to be a small update. Maybe some won't like the new design as much as the previous one, but I assure you: it's at least 70 KB smaller! At least! I didn't actually measure it 😋I may make some updates in the future, but for now I have some interesting plans for the now page!",
+      "date": "2020-01-21T22:30:58Z",
+      "author": {
+        "name": "Henrique Dias",
+        "url": "https://hacdias.com/",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg"
+      },
+      "wm-id": 746959
+    }
+  ]
+}

@@ -1,11 +1,12 @@
 ---
+dataId: 2164b1e1c7a1c805b612d253473479b3e079ad691f1641befa29ffa7431c41c9
 title: Verdades Incógnitas
 description: Estou a dormir. Ponto. Eu sei que estou a dormir. Sim, eu sei que mais
   tarde vou ter que me levantar. Não. Não és tu que dizes que eu devo ser.
-date: 2015-11-15T13:45:00Z
 tags:
 - creative
 - portuguese
+date: 2015-11-15T13:45:00Z
 aliases:
 - /articles/2015/11/15/1/
 - /2015/11/15/01/verdades-incognitas/

@@ -1,4 +1,5 @@
 ---
+dataId: 17ebd462b4410c568bb41927d425eb4d494f9782b9502ad08a4b95dd4e0287fb
 title: Wireguard VPN to Network Behind a CGNAT
 description: |
   Nowadays, a lot of ISPs are putting their clients behind giant NATs which blocks us from easily accessing local services from the outside.

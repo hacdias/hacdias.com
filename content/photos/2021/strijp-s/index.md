@@ -1,4 +1,5 @@
 ---
+dataId: 26c8ee98f39097971e136561f43be9795162e81edf5a1cc217b7292ca0913482
 title: Strijp-S
 date: 2021-01-31T00:00:00Z
 cover:

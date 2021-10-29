@@ -1,4 +1,5 @@
 ---
+dataId: a7e97b7f5e381e5ed83086c40c632b0f49131b33053c86d68c305f8b290e960e
 title: Caddy Plugins
 description: |
   Caddy is a lightweight, fast, general-purpose, cross-platform HTTP/2 web server with automatic HTTPS with support for plugins. I've created some.

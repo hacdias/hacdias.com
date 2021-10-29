@@ -1,7 +1,10 @@
 ---
+dataId: 3382d8db1ce7d53b5c914441787bd56358c541a5e21e46b621d683dcdc32dac4
 title: 3 Things I Would Like To Be
 description: I don't want to be just one thing. Where's the fun of being just one
   thing? There are 3 things I would like to be and there is nothing in the way."
+tags:
+- reflection
 date: 2015-04-06T20:05:27Z
 aliases:
 - /articles/2015/04/06/1/
@@ -11,8 +14,6 @@ aliases:
 - /blog/2015/04/3-things-i-would-like-to-be/
 - /blog/3-things-i-would-like-to-be/
 - /articles/2015/04/06/1/3-things-i-would-like-to-be
-tags:
-- reflection
 ---
 
 If you've been following me through the past time,  you probably know I want to go further in technology field (if you didn't know, read my [about page](/about)). But it is not the unique thing I would like to be because there are 3 things I would like to be.

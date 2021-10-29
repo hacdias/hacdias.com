@@ -1,4 +1,5 @@
 ---
+dataId: 570abdd4a544ae9a96a3fc470ccd1db9b3f5f0fbf192422eb6693cab8cd55788
 title: Uma História e Repositórios do Git e GitHub"
 description: O Git é dos sistemas de controlo de versão mais utilizados por todo o
   mundo. Hoje é hora de falar um pouco da história do Git e do GitHub."

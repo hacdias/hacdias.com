@@ -1,4 +1,5 @@
 ---
+dataId: 4f16c280a402865234205d2837399f24a1d6a2eeb283bd34c5ce0737e6d13be1
 title: 'Fundamentals of Programming #3: Paradigms'
 date: 2016-11-12T00:00:00Z
 aliases:

@@ -1,11 +1,12 @@
 ---
+dataId: a8ceea580a815eedfa32ac6f682b7017dbbd052ed6082d5bedfe172790fc47e1
 title: Recently in August '21
 description: September is coming.
-aliases:
-- /articles/2021/09/recently/
 tags:
 - recently
 date: 2021-09-01T05:26:04.534115889Z
+aliases:
+- /articles/2021/09/recently/
 ---
 
 August was a busy month. I fly back to the Netherlands quite in the beginning of the month so I could get my second Covid-19 vaccine, which caused a mild fever overnight but was pretty fine overall.

@@ -1,4 +1,5 @@
 ---
+dataId: dda49824ea348145ea62bc0b28e4c6c1a9ddb6f49d924e8bdb01a25b340a45cf
 title: Links
 date: 2020-02-12T21:00:00Z
 lastmod: 2021-09-22T21:34:37.256525066Z
@@ -6,7 +7,7 @@ aliases:
 - /pins
 - /bookmarks
 - /blogroll
-emoji: 📌
+emoji: "\U0001F4CC"
 noMentions: true
 menu:
   main:

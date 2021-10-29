@@ -1,4 +1,5 @@
 ---
+dataId: 303e3b917f8c3e1a6ebf1ed6e5fe12ee68620b18aaced1edb33436d48f0cf35a
 title: MVC na Linguagem PHP - IV
 description: No último tutorial sobre a criação de uma framework que segue o modelo
   MVC, criamos uma página dinâmica com acesso à base de dados.

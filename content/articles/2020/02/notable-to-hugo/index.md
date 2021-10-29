@@ -1,4 +1,5 @@
 ---
+dataId: 448eb5d70402a7c6328e23b855624b0d498d3938e6b35b012384b35b7520c200
 title: How Do I Generate My Knowledge Base From Notable
 description: |
   Here I describe my small journey so far with Notable and how I sync my website's Knowledge Base it with.

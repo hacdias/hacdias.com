@@ -1,8 +1,9 @@
 ---
+dataId: ed3a7addbafa8e797cdefb4dfac71e6cde6b4e14af453f13283a0cefffe1e0cb
 title: How To Remove the Query String From Static Assets on WordPress
-date: 2016-11-24T00:00:00Z
 tags:
 - php
+date: 2016-11-24T00:00:00Z
 aliases:
 - /articles/2016/11/24/1/
 - /2016/11/24/01/how-to-remove-the-query-string-from-static-assets-on-wordpress/

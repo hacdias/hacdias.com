@@ -1,4 +1,5 @@
 ---
+dataId: 918700a0909afcdba0d4a6fb9b666c3aabddca7ee0b2f57ac943a87e4275f555
 date: 2020-01-29T12:34:31.628Z
 replyTo:
   url: https://jlelse.blog/micro/2020/01/fachinformatiker/

@@ -1,4 +1,5 @@
 ---
+dataId: 4b5f2b2c0df9edf800011a3f2fe9f82450a05bb932cadc5e17bccee9bf41880e
 title: The Future is Decentralized
 description: |
   Combining blockchain and open protocols can create a Web 3.0 free from the power of centralized mega-corporations like Amazon, Google, and Facebook is within grasp.

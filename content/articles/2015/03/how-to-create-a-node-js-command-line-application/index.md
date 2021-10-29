@@ -1,4 +1,5 @@
 ---
+dataId: 6d83e4f34ab511d9eaa4565e716d562331927b4ebc3a3e9ab0245ec29ffa07d5
 title: How To Create a Node.js Command-Line Application
 description: Node.js is one of the trends in the programming world. Let's learn how
   to create node.js command-line applications.

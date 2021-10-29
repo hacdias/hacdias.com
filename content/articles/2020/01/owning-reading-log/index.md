@@ -1,4 +1,5 @@
 ---
+dataId: f6a3c6dbb985a94eba3fd16696a40c5e0cddf236ad11336a5580d14ddcd5a9fc
 title: Owning My Reading Log
 description: |
   It's now time to own my own reading log. I started by creating a reading logs page and supporting all the IndieWeb-related specs for this.

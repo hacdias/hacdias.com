@@ -1,4 +1,5 @@
 ---
+dataId: ad27483d50bc6516285c107f6e4a7e2056d8df7d02ac845332a01cb768cfe142
 date: 2020-04-08T19:31:24.963Z
 replyTo:
   url: https://jlelse.blog/micro/2020/04/study-emails/

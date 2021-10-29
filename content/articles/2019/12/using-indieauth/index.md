@@ -1,4 +1,5 @@
 ---
+dataId: 3cfcd1890cfd701a23b101cf6717d2638c3c597c0e46d7f8718c1295d5140486
 title: Enabling IndieAuth on My Website
 description: |
   After updating the structure of my URLs, I now needed to start enabling some IndieWeb features... here's how to enable IndieAuth!

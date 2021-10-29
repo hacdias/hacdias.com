@@ -1,4 +1,5 @@
 ---
+dataId: 4cea20996eb14c6f7bb7836f8cdff24235cce26526bfbd17939a747b276511b8
 title: The First Day at Your Brand New Job
 description: You got a job! And today’s the first day, what are you going to do? Let’s
   make a party and make everyone dance! What? No… wait! You’re nervous, you don’t

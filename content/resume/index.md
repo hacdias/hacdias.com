@@ -1,11 +1,12 @@
 ---
+dataId: 150a9bb4d6ef94ba8c15467da33902c6bbd5523c1c3984c64c02bb89b5243fa7
 title: Resume
 aliases:
 - /cv/
 - /curriculum/
 - /curriculum-vitae/
+emoji: "\U0001F393"
 noMentions: true
-emoji: 🎓
 ---
 
 <div class="head">

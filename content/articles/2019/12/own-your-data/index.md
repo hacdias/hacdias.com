@@ -1,4 +1,5 @@
 ---
+dataId: 55b9af47d5adf5e118d8a1546202dd77c7412bff8bf6cee5eb3f84e6ff2a15c0
 title: We Don’t Own Our Data, Do We?
 description: |
   Data is a topic I've been wanting to write about for quite some time. Do we own our data? What should we do about it?

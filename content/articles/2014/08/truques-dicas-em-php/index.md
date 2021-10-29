@@ -1,4 +1,5 @@
 ---
+dataId: 4b2f930c7982be5d3f2bde9d08f1b46608bd7caf798abd0b0b7aea8624ed786d
 title: 5 Truques e Dicas em PHP
 description: A linguagem de programação PHP é das mais utilizadas atualmente do lado
   do servidor. Hoje trazemos 5 dicas que para vos ajudar!

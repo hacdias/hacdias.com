@@ -1,7 +1,12 @@
-{{ $mentions := .Resources.GetMatch "interactions.yaml" }}
+{{ $mentions := slice }}
+
+{{ if .Params.dataId }}
+  {{ $mentions := index .Site.Data.content .Params.dataId }}
+{{ end }}
+
 {{ $count := 0}}
 {{ if $mentions }}
-  {{ $mentions = unmarshal $mentions.Content }}
+  {{ $mentions = index $mentions "webmentions" }}
   {{ $count = len $mentions }}
 {{ end }}
 

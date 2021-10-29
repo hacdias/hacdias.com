@@ -1,4 +1,5 @@
 ---
+dataId: 3227b67bf4e7852ec48800b7e8fdab7ac6dc4e185abf4c19feadff69dee3cf3f
 date: 2020-03-24T07:35:24.834Z
 replyTo:
   url: https://jlelse.blog/micro/2020/03/lifethroughlenses/

@@ -1,4 +1,5 @@
 ---
+dataId: 9539fb92288f649015d7029dec405b1d9b1a6f8700a937f0ecd3be5e737ec2df
 title: MVC na Linguagem PHP
 description: O modelo MVC é algo muito utilizado atualmente. Nesta primeira parte
   iremos explicar a estrutura base de uma aplicação MVC e criar o ficheiro principal

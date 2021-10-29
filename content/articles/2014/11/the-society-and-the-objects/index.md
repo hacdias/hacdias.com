@@ -1,4 +1,5 @@
 ---
+dataId: 4a5d900f5682b6b4675dacd9767a870455e868bb91b44b05ce96b8e67efe419e
 title: The Society and the Objects
 description: Presently, the people love the objects. Sometimes, more than they love
   the people. Is this good? Or not?

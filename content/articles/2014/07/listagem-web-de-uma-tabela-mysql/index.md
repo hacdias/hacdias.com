@@ -1,4 +1,5 @@
 ---
+dataId: 6cfca55f3146ba2562f157f38871a6c2fd64d9db378cba6f9946f070e9af6653
 title: Listagem Web de Uma Tabela MySQL
 description: Como fazer a listagem de uma tabela MySQL com interface web, botões de
   navegação e limitação do número de linhas por página.

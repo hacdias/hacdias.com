@@ -1,4 +1,5 @@
 ---
+dataId: bc81eaeed90c4a1951e4e97496469c7cf93ff1287bfc3127d5af1c4d72466a3f
 title: How Did I Start Working Remotely in a Startup
 description: A story of a 17 years old boy who met someone and one year later was
   invited to join a startup as a Full Stack Developer.

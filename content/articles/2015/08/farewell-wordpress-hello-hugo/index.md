@@ -1,4 +1,5 @@
 ---
+dataId: beb2802a82929b00e660762d0020b56da47bcc19ec57df9e34e539efba83706e
 title: Farewell, WordPress! Hello, Hugo
 description: I finally learned how to say goodbye to WordPress. Not forever. Nothing
   lasts forever. But for my blog. I'm using Hugo. A very simple static website generator."

@@ -1,4 +1,5 @@
 ---
+dataId: 31a0f2d64c8d57075ebb7a22ef180936b1cc9295a4562809b6f6eca22a6cffcb
 title: Goodbye File Browser!
 description: After 5 years of maintaining this project and failing due to my limited
   time, it was time to say goodbye to File Browser.

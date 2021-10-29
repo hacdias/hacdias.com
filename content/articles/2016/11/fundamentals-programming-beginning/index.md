@@ -1,4 +1,5 @@
 ---
+dataId: f283b7220015f71097bb345a526371e02ae406f9bc8efd3fc9c6d170d12e3577
 title: 'Fundamentals of Programming #1: Beginning'
 date: 2016-11-10T00:00:00Z
 aliases:

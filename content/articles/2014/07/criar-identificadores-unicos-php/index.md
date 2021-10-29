@@ -1,4 +1,5 @@
 ---
+dataId: d23cf25e40d966e6286fc6d8812bd9b8293dd8a1ac8ac61a1150445611145598
 title: Criar Identificadores Únicos em PHP
 description: Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo.
   Hoje trago-vos uma das funções mais interessantes desta linguagem.

@@ -1,4 +1,5 @@
 ---
+dataId: 75d97d5587ce3b7ea1d7e6b4b5ebf41fe6bb3a50db4864ba86f763ece886658c
 title: Diferenças Entre '&&/||' e 'AND/OR' em PHP
 description: Depois de publicar um artigo sobre as diferenças entre os operadores
   '==' e '===', vou falar sobre as diferenças entre os operadores '&&/||' e 'AND/OR'.

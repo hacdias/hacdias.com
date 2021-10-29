@@ -1,4 +1,5 @@
 ---
+dataId: 5ea4daad82673d1d332edd6791559fc2ad4bdc9596c34c7a896bf47d175094c9
 title: MVC na Linguagem PHP - III
 description: No seguimento da criação de uma framework PHP que utilize o modelo MVC,
   hoje explicamos como se criam os controladores.

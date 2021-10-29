@@ -1,4 +1,5 @@
 ---
+dataId: 09b3b1fdbe09651713790af6ca20853509fe1491973e01da84de6000f3fbd1ab
 title: Differences Between Bits and Bytes
 description: |
   For some, the difference between bits and bytes may be subtle and it can lead to a lot of mistakes and false advertisement.

@@ -1,4 +1,5 @@
 ---
+dataId: 4abd925bc437f1c9b8be9f2aee5c84a1b938739b52df830f40b5e53fbfc5fe8b
 title: Como Utilizar o Gettext em PHP para Traduções [Parte 2]
 description: Depois de termos ensinado a configurar o plugin php-gettext com o PHP,
   agora é hora de saber como utilizar o plugin.
