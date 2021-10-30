@@ -46,7 +46,7 @@ All pages that list posts, such as [micro](/micro/) and [articles](/articles/), 
 
 </div>
 
-## 🕸 On the web
+## 🕸 Elsewhere {#elsewhere}
 
 My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:
 

@@ -1,0 +1,17 @@
+{
+  "targets": [],
+  "webmentions": [
+    {
+      "type": "mention",
+      "url": "https://hacdias.com/contact",
+      "content": "If you need to reach me directly:\n☎️ Telegram (@hacdias)\n\n✉️ E-mail ([email protected])\n\n🗞 Follow\nAll pages that list posts, such as micro and articles, have RSS, JSON and HTML (Microformats) feeds. To subscribe to my main posts, you can follow my stream. If you give your RSS reader the page URL, it should be able to automatically pick up the feed.\n\nIn case your feed does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the stream page:\n\nHTML/Microformats: https://hacdias.com/stream\n\n\nRSS Feed: https://hacdias.com/stream/feed.xml\n\n\nJSON Feed: https://hacdias.com/stream/feed.json\n\n🕸 Elsewhere\nMy username is usually @hacdias so that’s how you’ll able to find me on almost any social media I’m in. Here are some (possibly) relevant platforms where I’m active:\n🐙 GitHub (@hacdias)\n\n📷 Instagram (@hacdias)\n\n🐦 Twitter (@hacdias)\n\n💼 LinkedIn (@hacdias)\n\n🗝 PGP\nIf you want to encrypt any of the messages you send to me, you can find my public\nkey directly on this website or on keybase. Here’s the fingerprint:\nAE95 7E3A 2905 B55A 6950 E762 4454 5566 F552 F631",
+      "date": "2021-10-30T23:01:38Z",
+      "author": {
+        "name": "Henrique Dias",
+        "url": "https://hacdias.com",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg"
+      },
+      "wm-id": 1297786
+    }
+  ]
+}
