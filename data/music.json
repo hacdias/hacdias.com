@@ -6,24 +6,19 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
+      "name": "Sia",
+      "count": 41,
+      "url": "https://www.last.fm/music/Sia"
+    },
+    {
       "name": "Adele",
-      "count": 34,
+      "count": 33,
       "url": "https://www.last.fm/music/Adele"
     },
     {
-      "name": "Amor Electro",
-      "count": 17,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
       "name": "Pabllo Vittar",
-      "count": 14,
+      "count": 16,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
-    },
-    {
-      "name": "Sia",
-      "count": 12,
-      "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Agnes",
@@ -36,44 +31,49 @@
       "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
-      "name": "Lady Gaga",
-      "count": 11,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Fernando Daniel",
       "count": 10,
       "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
+      "name": "Lady Gaga",
+      "count": 10,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
       "name": "Miley Cyrus",
       "count": 8,
       "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Troye Sivan",
+      "count": 8,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     }
   ],
   "tracks": [
     {
       "name": "Chasing Pavements",
       "url": "https://www.last.fm/music/Adele/_/Chasing+Pavements",
-      "count": 13,
+      "count": 12,
       "artist": "Adele"
     },
     {
       "name": "Easy on Me",
       "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
-      "count": 10,
+      "count": 11,
       "artist": "Adele"
     },
     {
       "name": "Love in the Dark",
       "url": "https://www.last.fm/music/Adele/_/Love+in+the+Dark",
-      "count": 10,
+      "count": 9,
       "artist": "Adele"
     },
     {
       "name": "Flash Pose",
       "url": "https://www.last.fm/music/Pabllo+Vittar/_/Flash+Pose",
-      "count": 6,
+      "count": 8,
       "artist": "Pabllo Vittar"
     },
     {
@@ -81,6 +81,18 @@
       "url": "https://www.last.fm/music/Steps/_/It%27s+The+Way+You+Make+Me+Feel",
       "count": 6,
       "artist": "Steps"
+    },
+    {
+      "name": "Je Me Casse",
+      "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
+      "count": 5,
+      "artist": "Destiny"
+    },
+    {
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://www.last.fm/music/Elton+John/_/Cold+Heart+-+PNAU+Remix",
+      "count": 5,
+      "artist": "Elton John"
     },
     {
       "name": "Can't Be Tamed",
@@ -93,18 +105,6 @@
       "url": "https://www.last.fm/music/Agnes/_/Here+Comes+the+Night",
       "count": 4,
       "artist": "Agnes"
-    },
-    {
-      "name": "Je Me Casse",
-      "url": "https://www.last.fm/music/Destiny/_/Je+Me+Casse",
-      "count": 4,
-      "artist": "Destiny"
-    },
-    {
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://www.last.fm/music/Elton+John/_/Cold+Heart+-+PNAU+Remix",
-      "count": 4,
-      "artist": "Elton John"
     },
     {
       "name": "Sister Ray",
