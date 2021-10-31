@@ -223,7 +223,7 @@ figcaption p {
   text-align: center;
   font-size: var(--f6);
   color: var(--dark-gray);
-  margin: 0.25rem 0 1rem;
+  margin: 0.25rem 0;
 }
 
 article header p {
