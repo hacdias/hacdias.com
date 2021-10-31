@@ -1,5 +1,11 @@
 {
-  "targets": [],
+  "targets": [
+    "https://en.wikipedia.org/wiki/Private_network",
+    "https://test-ipv6.com",
+    "https://www.wireguard.com/install/",
+    "https://www.sigmdel.ca/michel/ha/wireguard/wireguard_02_en.html#installing_wg_raspbian",
+    "https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/"
+  ],
   "webmentions": [
     {
       "type": "reply",

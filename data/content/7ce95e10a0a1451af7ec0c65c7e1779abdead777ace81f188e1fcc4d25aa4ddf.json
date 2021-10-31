@@ -1,5 +1,22 @@
 {
-  "targets": [],
+  "targets": [
+    "https://macwright.org/2020/05/10/spa-fatigue.html",
+    "https://neustadt.fr/essays/the-small-web/",
+    "https://web.archive.org/",
+    "https://neocities.org/",
+    "https://hacdias.com/articles/2019/12/own-your-data/",
+    "https://gohugo.io/",
+    "https://hacdias.com/tags/meta/",
+    "https://indieweb.org/",
+    "https://hacdias.com/now/",
+    "https://hacdias.com/watches/",
+    "https://github.com/twitter/twemoji",
+    "https://hacdias.com/",
+    "https://hacdias.com/guestbook/",
+    "https://indieweb.org/Webmention",
+    "https://en.wikipedia.org/wiki/Holocene_calendar",
+    "https://hacdias.com/guestbook"
+  ],
   "webmentions": [
     {
       "type": "reply",

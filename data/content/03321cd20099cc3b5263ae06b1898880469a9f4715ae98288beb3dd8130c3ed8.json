@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://jlelse.blog/links/2020/05/ton-cancelled/"
+  ],
   "webmentions": [
     {
       "type": "like",

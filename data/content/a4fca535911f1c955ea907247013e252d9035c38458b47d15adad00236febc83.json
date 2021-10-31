@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://hacdias.com/micro/2020/07/too-many-notes-apps/"
+  ],
   "webmentions": [
     {
       "type": "mention",

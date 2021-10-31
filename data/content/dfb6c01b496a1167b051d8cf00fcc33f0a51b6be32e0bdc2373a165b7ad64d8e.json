@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://twitter.com/mafintosh/status/1259596991857930243"
+  ],
   "webmentions": [
     {
       "type": "like",

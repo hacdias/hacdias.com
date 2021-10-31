@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://notable.md/"
+  ],
   "webmentions": [
     {
       "type": "reply",

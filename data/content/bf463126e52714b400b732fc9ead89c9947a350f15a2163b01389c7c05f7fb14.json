@@ -1,5 +1,11 @@
 {
-  "targets": [],
+  "targets": [
+    "https://pastelarialusa.nl",
+    "https://hacdias.com/now/",
+    "https://hacdias.com/micro/",
+    "https://hacdias.com/blogroll/",
+    "https://www.websitecarbon.com/"
+  ],
   "webmentions": [
     {
       "type": "like",

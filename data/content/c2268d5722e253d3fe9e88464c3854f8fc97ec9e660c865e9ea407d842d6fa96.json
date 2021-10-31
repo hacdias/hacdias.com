@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://commentpara.de/comment/840.htm"
+  ],
   "webmentions": [
     {
       "type": "reply",

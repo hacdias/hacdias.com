@@ -1,5 +1,22 @@
 {
-  "targets": [],
+  "targets": [
+    "https://hacdias.com/articles/2019/12/url-structure/",
+    "https://hacdias.com/articles/2019/12/using-indieauth/",
+    "https://www.w3.org/TR/micropub/",
+    "https://github.com/w3c/Micropub/issues",
+    "https://indieweb.org/Micropub/Servers",
+    "https://expressjs.com/",
+    "https://www.npmjs.com/package/@hacdias/micropub-parser",
+    "https://www.npmjs.com/package/@hacdias/indieauth-middleware",
+    "https://aaronparecki.com/",
+    "https://compass.p3k.io",
+    "https://xray.p3k.io/",
+    "https://micropub.rocks",
+    "https://hacdias.com/articles/2015/08/farewell-wordpress-hello-hugo/",
+    "https://gohugo.io",
+    "https://lunrjs.com/",
+    "https://twitter.com/hacdias/status/1212517049035038720"
+  ],
   "webmentions": [
     {
       "type": "like",

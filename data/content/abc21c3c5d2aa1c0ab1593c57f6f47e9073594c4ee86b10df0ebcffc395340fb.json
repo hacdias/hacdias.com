@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://aaronparecki.com/gps"
+  ],
   "webmentions": [
     {
       "type": "reply",

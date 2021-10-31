@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://twitter.com/DiogoRedin/status/1267212226471120900"
+  ],
   "webmentions": [
     {
       "type": "like",

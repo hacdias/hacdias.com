@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://twitter.com/anarlguerra/status/1222824668740100097"
+  ],
   "webmentions": [
     {
       "type": "like",

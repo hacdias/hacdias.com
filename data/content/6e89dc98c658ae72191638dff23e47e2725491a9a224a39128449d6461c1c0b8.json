@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://jlelse.blog/"
+  ],
   "webmentions": [
     {
       "type": "like",

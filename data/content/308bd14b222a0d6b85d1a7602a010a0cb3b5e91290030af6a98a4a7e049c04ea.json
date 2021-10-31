@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://jlelse.blog/links/2020/04/eleventy/"
+  ],
   "webmentions": [
     {
       "type": "reply",

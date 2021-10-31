@@ -1,5 +1,8 @@
 {
-  "targets": [],
+  "targets": [
+    "https://codeberg.org/jlelse/jsonpub%29?",
+    "https://jlelse.blog/micro/2020/02/2020-02-07-jvwap/"
+  ],
   "webmentions": [
     {
       "type": "mention",

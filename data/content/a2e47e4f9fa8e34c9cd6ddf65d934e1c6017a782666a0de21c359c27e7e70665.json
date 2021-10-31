@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://github.com/filebrowser/filebrowser/issues/532"
+  ],
   "webmentions": [
     {
       "type": "repost",

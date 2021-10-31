@@ -1,5 +1,11 @@
 {
-  "targets": [],
+  "targets": [
+    "https://xkcd.com/about/",
+    "https://github.com/ipfs/archives",
+    "https://github.com/hacdias/xkcd-clone",
+    "https://github.com/hacdias/xkcd.hacdias.com",
+    "http://dweb.link/ipns/xkcd.hacdias.com/"
+  ],
   "webmentions": [
     {
       "type": "reply",

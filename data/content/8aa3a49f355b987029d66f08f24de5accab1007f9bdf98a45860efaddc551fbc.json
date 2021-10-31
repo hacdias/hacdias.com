@@ -1,5 +1,10 @@
 {
-  "targets": [],
+  "targets": [
+    "https://github.com/hacdias/micropub-parser",
+    "https://aaronparecki.com/",
+    "https://github.com/aaronpk/p3k-micropub",
+    "https://github.com/hacdias/indieauth-middleware"
+  ],
   "webmentions": [
     {
       "type": "like",

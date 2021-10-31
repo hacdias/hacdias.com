@@ -1,5 +1,19 @@
 {
-  "targets": [],
+  "targets": [
+    "https://www.w3.org/TR/activitypub/",
+    "https://hacdias.com/micro/2020/03/n1/",
+    "https://hacdias.com/micro/2020/03/i-now-have-activitypub/",
+    "https://hacdias.com/micro/",
+    "https://git.jlel.se/jlelse/GoBlog",
+    "https://hacdias.com/micro/2020/01/on-building-my/",
+    "https://hacdias.com/micro/2020/07/how-to-publish-notes/",
+    "https://hacdias.com/micro/2020/01/n1/",
+    "https://hacdias.com/articles/2020/01/dynamic-static/",
+    "https://github.com/hacdias/eagle-js",
+    "https://github.com/hacdias/eagle",
+    "https://hacdias.com/search/",
+    "https://meilisearch.com/"
+  ],
   "webmentions": [
     {
       "type": "reply",

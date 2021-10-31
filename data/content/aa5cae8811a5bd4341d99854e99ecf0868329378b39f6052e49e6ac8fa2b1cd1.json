@@ -1,12 +1,9 @@
 {
   "targets": [
     "https://t.me/hacdias",
-    "mailto:mail@hacdias.com",
     "https://hacdias.com/micro/",
     "https://hacdias.com/articles/",
     "https://microformats.org/",
-    "https://hacdias.com/stream/",
-    "https://hacdias.com/stream/",
     "https://hacdias.com/stream/",
     "https://hacdias.com/stream/feed.xml",
     "https://hacdias.com/stream/feed.json",

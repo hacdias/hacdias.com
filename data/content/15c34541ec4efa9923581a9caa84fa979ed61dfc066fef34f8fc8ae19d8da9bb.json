@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://jlelse.blog/thoughts/2020/06/blogging-german/"
+  ],
   "webmentions": [
     {
       "type": "like",

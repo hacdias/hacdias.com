@@ -1,5 +1,8 @@
 {
-  "targets": [],
+  "targets": [
+    "https://jlelse.blog/",
+    "https://hacdias.com/micro/2020/05/lobsters/"
+  ],
   "webmentions": [
     {
       "type": "like",

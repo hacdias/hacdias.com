@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://lobste.rs?"
+  ],
   "webmentions": [
     {
       "type": "reply",

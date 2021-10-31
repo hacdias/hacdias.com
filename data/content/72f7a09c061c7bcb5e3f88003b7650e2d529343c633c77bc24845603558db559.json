@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://proto.school/#/tutorials"
+  ],
   "webmentions": [
     {
       "type": "like",

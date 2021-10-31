@@ -1,5 +1,12 @@
 {
-  "targets": [],
+  "targets": [
+    "https://hacdias.com/articles/2020/09/recently/",
+    "https://hacdias.com/follow/",
+    "https://twitter.com/adlrocha",
+    "https://hacdias.com/photos",
+    "https://hacdias.com/photos/2020/moving-to-eindhoven/",
+    "http://dekatemousa.nl/"
+  ],
   "webmentions": [
     {
       "type": "like",

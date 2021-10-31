@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://twitter.com/mholt6/status/1234133931676454914"
+  ],
   "webmentions": [
     {
       "type": "like",

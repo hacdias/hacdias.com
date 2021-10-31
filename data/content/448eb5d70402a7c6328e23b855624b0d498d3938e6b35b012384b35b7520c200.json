@@ -1,5 +1,11 @@
 {
-  "targets": [],
+  "targets": [
+    "https://bear.app/",
+    "https://notable.md/",
+    "https://github.com/notable/notable/issues/432",
+    "https://en.wikipedia.org/wiki/Launchd",
+    "https://developer.github.com/webhooks/"
+  ],
   "webmentions": [
     {
       "type": "reply",

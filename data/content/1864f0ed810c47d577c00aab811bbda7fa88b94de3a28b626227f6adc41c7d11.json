@@ -1,5 +1,12 @@
 {
-  "targets": [],
+  "targets": [
+    "https://gohugo.io/categories/",
+    "https://gohugo.io/functions/partialcached/",
+    "https://hacdias.com/contact/",
+    "https://hacdias.com/more/",
+    "https://braindump.jethro.dev/",
+    "https://www.jethro.dev/"
+  ],
   "webmentions": [
     {
       "type": "reply",

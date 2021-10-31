@@ -1,5 +1,13 @@
 {
-  "targets": [],
+  "targets": [
+    "https://hacdias.com/articles/2020/01/building-micropub/",
+    "https://discourse.gohugo.io/t/use-hugo-watch-in-production/22599/14",
+    "https://hacdias.com/micro/2019/12/two-packages/",
+    "https://aaronparecki.com/",
+    "http://tantek.com/",
+    "https://parsedown.org",
+    "https://indieweb.org/database-antipattern"
+  ],
   "webmentions": [
     {
       "type": "mention",

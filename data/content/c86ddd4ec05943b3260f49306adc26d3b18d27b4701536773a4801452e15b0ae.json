@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "http://jquery.com/",
+    "http://json.org/",
+    "http://www.w3schools.com/tags/ref_httpmethods.asp"
+  ],
+  "webmentions": []
+}

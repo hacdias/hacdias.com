@@ -1,5 +1,14 @@
 {
-  "targets": [],
+  "targets": [
+    "https://godaddy.com/",
+    "https://www.ptservidor.pt/",
+    "https://www.digitalocean.com/",
+    "https://pages.github.com/",
+    "http://gohugo.io/",
+    "http://gohugo.io/themes/overview/",
+    "https://github.com/hacdias/hacdias.com",
+    "https://www.cloudflare.com/"
+  ],
   "webmentions": [
     {
       "type": "like",

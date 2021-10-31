@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://twitter.com/daviddias/status/1262684702865076224"
+  ],
   "webmentions": [
     {
       "type": "like",

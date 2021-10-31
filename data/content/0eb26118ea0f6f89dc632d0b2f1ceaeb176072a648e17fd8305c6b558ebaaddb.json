@@ -1,5 +1,17 @@
 {
-  "targets": [],
+  "targets": [
+    "https://github.com/hacdias/eagle/blob/86fb5489e6ee3488692377d74f7fd64493841b32/server/static.go#L76-L102",
+    "https://hacdias.com/micro/2021/10/new-eagle-look/",
+    "https://github.com/hacdias/eagle/blob/main/server/tailscale.go",
+    "https://github.com/hacdias/eagle",
+    "https://github.com/spf13/afero",
+    "https://tailscale.com/",
+    "https://jlelse.blog/",
+    "https://git.jlel.se/jlelse/GoBlog/src/branch/master/tailscale.go",
+    "https://hacdias.com/articles/2020/11/access-network-behind-cgnat/",
+    "https://tailscale.com/kb/1086/tailscale-vs-wireguard/",
+    "https://hacdias.com/humans.txt"
+  ],
   "webmentions": [
     {
       "type": "mention",

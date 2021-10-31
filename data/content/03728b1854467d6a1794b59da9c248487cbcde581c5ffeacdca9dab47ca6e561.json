@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://zserge.com/posts/awfice/"
+  ],
   "webmentions": [
     {
       "type": "mention",

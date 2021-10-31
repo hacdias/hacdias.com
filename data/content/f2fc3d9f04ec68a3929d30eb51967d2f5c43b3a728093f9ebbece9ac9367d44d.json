@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://twitter.com/regouga/status/1219028097770688514"
+  ],
   "webmentions": [
     {
       "type": "reply",

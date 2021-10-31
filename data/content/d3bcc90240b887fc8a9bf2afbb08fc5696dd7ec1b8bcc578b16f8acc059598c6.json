@@ -1,5 +1,16 @@
 {
-  "targets": [],
+  "targets": [
+    "https://docs.testground.ai/",
+    "https://github.com/testground/testground/blob/master/plans/network/pingpong.go",
+    "https://redis.io/",
+    "https://github.com/testground/testground",
+    "https://www.docker.com/",
+    "https://golang.org/dl/",
+    "https://docs.testground.ai/writing-test-plans/test-plan-manifest",
+    "https://github.com/testground/sdk-go",
+    "https://github.com/testground/sdk-js",
+    "https://github.com/testground/testground/issues/1148"
+  ],
   "webmentions": [
     {
       "type": "reply",

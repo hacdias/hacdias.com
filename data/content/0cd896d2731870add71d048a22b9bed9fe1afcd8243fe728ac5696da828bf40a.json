@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "https://blog.golang.org/toward-go2",
+    "https://golang.org/doc/install",
+    "http://localhost:8080/George"
+  ],
+  "webmentions": []
+}

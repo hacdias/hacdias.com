@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://jlelse.blog/thoughts/2020/01/security-risk-embedding/"
+  ],
   "webmentions": [
     {
       "type": "reply",

@@ -1,5 +1,8 @@
 {
-  "targets": [],
+  "targets": [
+    "https://www.newsweek.com/young-unafraid-coronavirus-pandemic-good-you-now-stop-killing-people-opinion-1491797",
+    "https://staythefuckhome.com/"
+  ],
   "webmentions": [
     {
       "type": "like",

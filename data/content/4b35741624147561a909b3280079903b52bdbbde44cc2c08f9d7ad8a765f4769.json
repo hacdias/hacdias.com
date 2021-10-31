@@ -1,5 +1,9 @@
 {
-  "targets": [],
+  "targets": [
+    "https://codeberg.org/jlelse/hugo-activitystreams/src/branch/master/layouts/_default/single.activity.ajson",
+    "https://www.w3.org/TR/activitystreams-vocabulary/#dfn-content",
+    "https://jlelse.blog/dev/activitystreams-hugo/"
+  ],
   "webmentions": [
     {
       "type": "reply",

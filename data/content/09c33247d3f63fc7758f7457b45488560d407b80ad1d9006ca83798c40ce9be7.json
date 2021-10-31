@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://twitter.com/Yusadolat/status/1215337173182042113"
+  ],
   "webmentions": [
     {
       "type": "like",

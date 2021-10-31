@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://jan.boddez.net/notes/b0a62edbe0"
+  ],
   "webmentions": [
     {
       "type": "reply",
