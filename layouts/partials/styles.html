@@ -19,7 +19,7 @@
     {{ end }}
   {{ end }}
 
-  {{ $listsWithoutCards := slice "projects" "articles" }}
+  {{ $listsWithoutCards := slice "projects" }}
   {{ if and .IsNode (not (in $listsWithoutCards .Section)) }}
     {{ $cards.Content | safeCSS }}
   {{ end }}
