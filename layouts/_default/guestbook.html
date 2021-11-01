@@ -15,9 +15,10 @@
     </p>
   </div>
 
-  {{ $mentions := .Resources.GetMatch "interactions.yaml" }}
+  {{ $mentions := index .Site.Data.content .Params.dataId }}
   {{ if $mentions }}
-    {{ $mentions = unmarshal $mentions.Content }}
+    {{ $mentions = index $mentions "webmentions" }}
+    {{ $mentions = where $mentions "private" "!=" true }}
     {{ $mentions = where $mentions "type" "ne" "like" }}
     {{ $mentions = where $mentions "type" "ne" "repost" }}
     {{ $mentions = sort $mentions "date" "desc" }}
