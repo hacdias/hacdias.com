@@ -1,5 +1,6 @@
 ---
 dataId: ed3674ed9b3de9370914b815ddc97b7d577b49f740bafc2bad26b7b507f881b0
+date: 2021-09-24T09:40:38+02:00
 replyTo:
   url: https://jlelse.blog/micro/2021/09/2021-09-24-bjucw
   content: I can’t help with the configuration (haven’t used redir in Caddy v2 much
