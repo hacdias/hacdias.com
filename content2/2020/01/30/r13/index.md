@@ -1,0 +1,12 @@
+---
+published: 2020-01-30T11:25:56.527Z
+section: micro
+properties:
+  category:
+  - dictionary
+  - meaning
+  syndication:
+  - https://twitter.com/hacdias/status/1222843405404864512
+---
+
+I thought this was funny and I went to see mine. Decided not to share 😂

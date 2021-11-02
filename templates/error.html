@@ -1,11 +1,7 @@
 {{ define "main" }}
   <main role='main'>
-    <h1>Something Went Wrong</h1>
+    <h1>{{ .Entry.Title }}</h1>
   </main>
-{{ end }}
-
-{{ define "title" }}
-  Something Went Wrong
 {{ end }}
 
 {{ define "error" }}

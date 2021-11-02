@@ -1,13 +1,20 @@
 {{ define "main" }}
-<main role='main'>
-  <pre>
-  {{ .Data.String }}
-  </pre>
-</main>
-{{ end }}
 
-{{ define "title" }}
-  {{ if .Data.Title }}{{ .Data.Title }}{{ else }}{{ .Site.Title }}{{ end }}
+<main role='main'>
+  <header>
+
+    {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
+  </header>
+
+  {{ with .Entry.Content }}
+    <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ . }}</div>
+  {{ end }}
+
+  {{ if not .Entry.NoInteractions }}
+    <div>TODO: Interactions<div>
+  {{ end }}
+</main>
+
 {{ end }}
 
 {{ define "single" }}

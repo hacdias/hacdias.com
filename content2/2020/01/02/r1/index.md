@@ -1,0 +1,9 @@
+---
+published: 2020-01-02T23:45:24.733Z
+section: micro
+properties:
+  syndication:
+  - https://twitter.com/hacdias/status/1212882353053478912
+---
+
+@aaronpk @t I would personally love some of your thoughts or pointers on this :) Any advice?

@@ -1,0 +1,11 @@
+---
+published: 2020-02-29T22:19:56.901Z
+section: micro
+properties:
+  category:
+  - telegram
+  - notifications
+  - webmentions
+---
+
+That's a lovely idea. I'm personally using Telegram's [Bot API](https://telegram.org/blog/bot-revolution) which is quite powerful!

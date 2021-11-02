@@ -1,17 +1,18 @@
 {{ define "main" }}
 <main role='main'>
-  <h1>Some Listing</h1>
+  <h1>{{ .Entry.Title }}</h1>
 
-  <div class='copy'></div>
+  {{ with .Entry.Content }}
+    <div class='copy'>{{ . }}</div>
+  {{ end }}
 
   <div class='h-feed'>
 
+  {{ range .Entries }}
+    {{ .Permalink }}
+  {{ end }}
   </div>
 </main>
-{{ end }}
-
-{{ define "title" }}
-  Some Listing
 {{ end }}
 
 {{ define "list" }}

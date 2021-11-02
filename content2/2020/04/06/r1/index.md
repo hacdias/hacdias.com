@@ -1,0 +1,6 @@
+---
+published: 2020-04-06T17:11:46.525Z
+section: micro
+---
+
+Never heard of that one. Thanks for sharing that. Usually I use https://regexr.com/ and then Google: how to use regex on language X 😅
