@@ -34,7 +34,7 @@
       {{ end }}
       {{ range .Site.Menus.main -}}
         <li>
-          <a href='{{ .Link }}' class='nl'>{{ .Name }}</a>
+          <a href='{{ .Link }}' class='nl'>{{ if $notPhotos }}{{ .Emoji }} {{ end }}{{ .Name }}</a>
         </li>
       {{ end }}
     </ul>
