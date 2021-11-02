@@ -3,7 +3,7 @@
   <h1>{{ .Entry.Title }}</h1>
 
   {{ with .Entry.Content }}
-    <div class='copy'>{{ . }}</div>
+    <div class='copy'>{{ md . }}</div>
   {{ end }}
 
   <div class='h-feed'>

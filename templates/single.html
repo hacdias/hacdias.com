@@ -7,7 +7,7 @@
   </header>
 
   {{ with .Entry.Content }}
-    <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ . }}</div>
+    <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>
   {{ end }}
 
   {{ if not .Entry.NoInteractions }}

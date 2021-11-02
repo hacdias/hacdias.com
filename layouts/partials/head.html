@@ -1,16 +1,5 @@
 {{- $description := or .Description .Site.Params.Description }}
 {{- $shortTitle := or .Title .Site.Title -}}
-{{- $longTitle := (printf "%s - %s" $shortTitle .Site.Title) -}}
-{{- if not .Title -}}{{ $longTitle = $shortTitle }}{{- end -}}
-
-<title>{{ $longTitle }}</title>
-<meta name="description" content="{{ $description }}">
-<link rel="canonical" href="{{ .Permalink }}">
-<meta name="theme-color" content="#111111">
-<link rel="icon" href="{{ relURL "/favicon.ico" }}" type=image/x-icon>
-{{ if .Params.noIndex }}
- <meta name="robots" content="noindex">
-{{ end }}
 
 {{ range .AlternativeOutputFormats -}}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
