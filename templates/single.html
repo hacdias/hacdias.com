@@ -1,0 +1,15 @@
+{{ define "main" }}
+<main role='main'>
+  <pre>
+  {{ .Data.String }}
+  </pre>
+</main>
+{{ end }}
+
+{{ define "title" }}
+  {{ if .Data.Title }}{{ .Data.Title }}{{ else }}{{ .Site.Title }}{{ end }}
+{{ end }}
+
+{{ define "single" }}
+  {{ template "base" . }}
+{{ end }}

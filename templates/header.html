@@ -1,0 +1,43 @@
+{{ define "header" }}
+
+{{/* {{ $notPhotos := not (eq .Section "photos") }}
+
+{{ if $notPhotos }} */}}
+<div id='header'>
+  {{/* <a class='nl' href='{{ relURL .Site.BaseURL }}'> */}}
+  <a class='nl' href='/'>
+    {{/* <img alt='Logo' src="{{ relURL "/logo.svg" }}"> */}}
+    <img alt='Logo' src="/logo.svg">
+    <div>
+      <p class='name'>Henrique Dias</p>
+      <p class='aka'>aka @hacdias</p>
+    </div>
+  </a>
+
+  {{/* {{ if not (eq .Title "Search") }} */}}
+    {{/* <form action="{{ relURL "/search" }}" method="get" class="inline-form"> */}}
+    <form action="/search" method="get" class="inline-form">
+      <input required type="text" placeholder='Search…' id="query" name="q">
+      <input type="submit" value="Go">
+    </form>
+  {{/* {{ end }} */}}
+</div>
+{{/* {{ end }} */}}
+
+<nav id='navbar' class='fw' {{/* {{ if $notPhotos }}class='fw'{{ end }} */}}>
+  <input type="checkbox" id="toggler">
+  <ul>
+    <li><label for="toggler"><a class='nl'>🍔 Touch me</a></label></li>
+    {{/* {{ if eq .Section "photos" }} */}}
+      {{/* <li>
+        <a href='/' class='nl'>Home</a>
+      </li> */}}
+    {{/* {{ end }} */}}
+    {{ range .Site.Menus.main -}}
+      <li>
+        <a href='{{ .Link }}' class='nl'>{{ .Name }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}

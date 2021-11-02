@@ -3,9 +3,6 @@
 {{- $longTitle := (printf "%s - %s" $shortTitle .Site.Title) -}}
 {{- if not .Title -}}{{ $longTitle = $shortTitle }}{{- end -}}
 
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ $longTitle }}</title>
 <meta name="description" content="{{ $description }}">
 <link rel="canonical" href="{{ .Permalink }}">
@@ -57,18 +54,6 @@
   <link rel="openid.delegate" href="https://hacdias.com/" />
   <link rel="openid.server" href="https://openid.indieauth.com/openid" />
 
-  <!-- IndieAuth.me Methods -->
-  <link rel="me" href="https://twitter.com/hacdias" />
-  <link rel="me" href="https://github.com/hacdias" />
-  <link rel="me" href="https://facebook.com/hacdias" />
-  <link rel="me" href="https://instagram.com/hacdias" />
-  <link rel="me" href="https://keybase.io/hacdias" />
-  <link rel="me" href="https://linkedin.com/in/hacdias" />
-  <link rel="me" href="mailto:mail@hacdias.com" />
-  <link rel="me" href="https://micro.blog/hacdias" />
-  <link rel="me" href="https://news.ycombinator.com/user?id=hacdias" />
-  <link rel="me" href="https://lobste.rs/u/hacdias" />
-  <link rel="me" href="https://hacdias.com/pubkey.txt" rel="pgpkey" />
 {{ end }}
 
 <link rel="webmention" href="https://webmention.io/hacdias.com/webmention" />
