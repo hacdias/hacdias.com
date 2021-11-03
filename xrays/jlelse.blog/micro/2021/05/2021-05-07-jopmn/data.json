@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "content": "\u003cp\u003eThank you, Henrique! (And everyone else who congratulated me today!) 😊\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2021/05/happy-birthday-jlelse"
+  ],
+  "post-type": "reply",
+  "published": "2021-05-07T20:26:00+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2021/05/2021-05-07-jopmn"
+}

@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "Henrique Dias",
+    "photo": "https://hacdias.com/me-256.jpg",
+    "type": "card",
+    "url": "https://hacdias.com"
+  },
+  "content": "\u003cp\u003eUpdate: already got one! Thanks \u003ca href=\"https://jlelse.blog/\"\u003e@jlelse\u003c/a\u003e!\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2020/05/lobsters/"
+  ],
+  "post-type": "reply",
+  "published": "2020-06-01T07:24:38Z",
+  "refs": {
+    "https://hacdias.com/micro/2020/05/lobsters/": {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": null,
+        "type": "card",
+        "url": false
+      },
+      "content": {
+        "text": "Does anyone have invite for https://lobste.rs? Calling for a friend 😃"
+      },
+      "post-type": "note",
+      "type": "entry",
+      "url": "https://hacdias.com/micro/2020/05/lobsters/"
+    }
+  },
+  "rels": {
+    "canonical": "https://hacdias.com/micro/2020/06/lobsters/"
+  },
+  "syndication": [
+    "https://twitter.com/hacdias/status/1267356723205099520"
+  ],
+  "type": "entry",
+  "url": "https://hacdias.com/micro/2020/06/lobsters/"
+}

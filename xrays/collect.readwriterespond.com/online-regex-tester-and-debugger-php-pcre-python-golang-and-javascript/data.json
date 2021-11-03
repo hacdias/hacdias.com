@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Aaron Davis",
+    "photo": "https://secure.gravatar.com/avatar/d00e7ca24ca1b9c853da43af229c0e0e?s=125\u0026d=default\u0026r=g",
+    "type": "card",
+    "url": "https://readwriterespond.com/"
+  },
+  "content": "via \u003ca href=\"https://hacdias.com/replies/2020/04/06/1/\"\u003eHenrique Dias\u003c/a\u003e",
+  "like-of": [
+    "https://regex101.com/"
+  ],
+  "name": "👍 Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript",
+  "post-type": "like",
+  "published": "2020-04-08T21:31:00+10:00",
+  "refs": {
+    "https://regex101.com/": {
+      "name": "Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript",
+      "post-type": "article",
+      "type": "entry",
+      "url": "https://regex101.com/"
+    }
+  },
+  "rels": {
+    "canonical": "https://collect.readwriterespond.com/online-regex-tester-and-debugger-php-pcre-python-golang-and-javascript/"
+  },
+  "type": "entry",
+  "url": "https://collect.readwriterespond.com/online-regex-tester-and-debugger-php-pcre-python-golang-and-javascript/"
+}

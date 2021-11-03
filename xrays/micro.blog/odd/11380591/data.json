@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "odd",
+    "photo": "https://micro.blog/photos/96/https://avatars.micro.blog/avatars/2021/265.jpg",
+    "type": "card",
+    "url": "https://micro.blog/odd"
+  },
+  "content": "\u003cp\u003e\u003ca href=\"https://micro.blog/hacdias\"\u003e@hacdias\u003c/a\u003e Hello there! ✋😃\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2021/04/reply-hi/"
+  ],
+  "post-type": "reply",
+  "published": "2021-04-28T06:56:14Z",
+  "type": "entry",
+  "url": "https://micro.blog/odd/11380591"
+}

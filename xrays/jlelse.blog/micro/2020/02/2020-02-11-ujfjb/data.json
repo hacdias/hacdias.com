@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Mastodon",
+    "ActivityStreams"
+  ],
+  "content": "\u003cp\u003eYou’re right, I just took another look at the specs and corrected the template and added the “mediaType” attribute and set it to HTML. Now \u003ca href=\"https://github.com/tsileo/microblog.pub\"\u003emicroblog.pub\u003c/a\u003e shows the summary correctly (even with rendered HTML), Pleroma shows the content correctly (without markup), but Mastodon shows the raw HTML code of the summary. :thinking_face:\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/2020/02/11/5/"
+  ],
+  "post-type": "reply",
+  "published": "2020-02-11T15:22:41+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2020/02/2020-02-11-ujfjb"
+}

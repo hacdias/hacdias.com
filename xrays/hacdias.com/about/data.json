@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Henrique Dias",
+    "photo": "https://hacdias.com/me-256.jpg",
+    "type": "card",
+    "url": "https://hacdias.com"
+  },
+  "content": "\u003cimg src=\"https://cdn.hacdias.com/i/t/2019-06-henrique-2000x.jpeg\" alt=\"Me!\" /\u003e\u003cp\u003ePhoto by \u003ca href=\"https://www.instagram.com/isabelsoares16/\"\u003eIsabel Soares\u003c/a\u003e\u003c/p\u003e \u003cp\u003eHi, I’m Henrique (he/him)!\u003c/p\u003e \u003cp\u003eI’m from a little town in Portugal 🇵🇹 and I’m now pursuing my Master’s degree 🎓 in Computer Science and Engineering at \u003ca href=\"https://tue.nl\"\u003eTU/e\u003c/a\u003e, in Eindhoven. At the same time, I’m working at \u003ca href=\"https://protocol.ai\"\u003eProtocol Labs\u003c/a\u003e on fascinating projects to help decentralize the web.\u003c/p\u003e \u003cp\u003eI believe in transparency and openness, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.\u003c/p\u003e \u003cp\u003eI’m interested in how we can use computer networks to our advantage, prioritizing decentralized systems, capable of pushing the humanity forward. Web infrastructure, peer-to-peer systems, as well as human-computer interaction are at the core of my interests.\u003c/p\u003e \u003cp\u003eBack in 2014, when I started this website, I wrote my first ever post, in Portuguese, where I said my goal as a Software Engineer would be to \u003ca href=\"https://hacdias.com/articles/2014/07/apresentacao/\"\u003eimprove the world\u003c/a\u003e somehow. Even though it is a cliché, it doesn’t mean it is not true. I enjoy helping people, and we all should never forget that we live in a society so our actions matter.\u003c/p\u003e \u003ch3\u003e🤔 The (un)story of my handle\u003c/h3\u003e \u003cp\u003eMost likely you’ve already noticed that my handle, \u003ccode\u003e@hacdias\u003c/code\u003e, reminds of the word ‘hack’. However, I can assure you they have nothing to do with each other. It was a mere coincidence between the first letters of my first name and middle names - ‘hac’ - and last name - ‘dias’ - that I happen to enjoy.\u003c/p\u003e \u003cul\u003e\u003cli\u003e\u003ca title=\"Contact\" href=\"https://hacdias.com/contact/\"\u003e✉️ Contact\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca title=\"Resume\" href=\"https://hacdias.com/resume/\"\u003e🎓 Resume\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca title=\"Projects\" href=\"https://hacdias.com/projects/\"\u003e📦 Projects\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca title=\"About This Website\" href=\"https://hacdias.com/meta/\"\u003e⚙️ About This Website\u003c/a\u003e\u003c/li\u003e \u003c/ul\u003e",
+  "name": "About",
+  "post-type": "article",
+  "rels": {
+    "canonical": "https://hacdias.com/about/"
+  },
+  "type": "entry"
+}

@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "content": "\u003cp\u003eJust a simple \u003ccode\u003e\u0026lt;textarea\u0026gt;\u003c/code\u003e is all I need. 😄\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2021/11/re-live-edit/"
+  ],
+  "post-type": "reply",
+  "published": "2021-11-02T14:02:35+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2021/11/2021-11-02-vhvfm"
+}

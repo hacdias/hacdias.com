@@ -1,0 +1,40 @@
+{
+  "author": {
+    "name": "Aaron Parecki",
+    "photo": "https://aaronparecki.com/images/profile.jpg",
+    "type": "card",
+    "url": "https://aaronparecki.com/"
+  },
+  "category": [
+    "packages",
+    "indieauth",
+    "micropub"
+  ],
+  "like-of": [
+    "https://hacdias.com/2019/12/31/04/two-packages/"
+  ],
+  "post-type": "like",
+  "published": "2019-12-31T00:00:00Z",
+  "refs": {
+    "https://hacdias.com/2019/12/31/04/two-packages/": {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://pkcdn.xyz/hacdias.com/6cc1ed2bbaedaa80116524ef8fe89556c057b5c4cf116875bf979dd5390f5b33.jpg",
+        "type": "card",
+        "url": "https://hacdias.com/"
+      },
+      "content": {
+        "html": "\u003cp\u003eJust published two minimal packages to help building micropub applications!\u003c/p\u003e\u003cp\u003eThe first one is called \u003ca href=\"https://github.com/hacdias/micropub-parser\"\u003emicropub-parser\u003c/a\u003e and it's basically a port from \u003ca href=\"https://aaronparecki.com/\"\u003e@aaronpk's\u003c/a\u003e \u003ca href=\"https://github.com/aaronpk/p3k-micropub\"\u003epk3-micropub\u003c/a\u003e package to JavaScript.\u003c/p\u003e\u003cp\u003eThe second one is a small IndieAuth \u003ca href=\"https://github.com/hacdias/indieauth-middleware\"\u003emiddleware\u003c/a\u003e that can be easily plugged into an Express.js app!\u003c/p\u003e",
+        "text": "Just published two minimal packages to help building micropub applications!The first one is called micropub-parser and it's basically a port from @aaronpk's pk3-micropub package to JavaScript.The second one is a small IndieAuth middleware that can be easily plugged into an Express.js app!"
+      },
+      "post-type": "note",
+      "type": "entry",
+      "url": "https://hacdias.com/2019/12/31/04/two-packages/"
+    }
+  },
+  "syndication": [
+    "https://twitter.com/hacdias/status/1211996203514290176"
+  ],
+  "type": "entry",
+  "url": "https://aaronparecki.com/2019/12/31/4/"
+}

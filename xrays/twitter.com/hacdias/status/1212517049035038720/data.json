@@ -1,0 +1,20 @@
+{
+  "author": {
+    "bio": "MSc Computer Science and Engineering at @tueindhoven. Digging into the decentralized web. #opensource advocate. 🇪🇺(🇵🇹 in 🇳🇱)🏳️‍🌈",
+    "location": "Eindhoven",
+    "name": "Henrique Dias",
+    "nickname": "hacdias",
+    "photo": "https://pbs.twimg.com/profile_images/1423978398708273152/MtGkSIDZ_normal.jpg",
+    "type": "card",
+    "url": "https://twitter.com/hacdias"
+  },
+  "category": [
+    "micropub",
+    "hugo"
+  ],
+  "content": "Some thoughts on building a #micropub endpoint on a #hugo website... What's your opinion \u003ca href=\"https://hacdias.com/2020/01/01/12/building-micropub/\"\u003ehttps://hacdias.com/2020/01/01/12/building-micropub/\u003c/a\u003e",
+  "post-type": "note",
+  "published": "2020-01-01T23:32:46Z",
+  "type": "entry",
+  "url": "https://twitter.com/hacdias/status/1212517049035038720#favorited-by-799574"
+}

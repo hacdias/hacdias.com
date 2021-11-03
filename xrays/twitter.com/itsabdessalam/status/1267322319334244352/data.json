@@ -1,0 +1,40 @@
+{
+  "author": {
+    "bio": "JavaScript developer, UX/UI design and tech enthusiast, he/him",
+    "location": "Paris, France",
+    "name": "Abdessalam",
+    "nickname": "itsabdessalam",
+    "photo": "https://pbs.twimg.com/profile_images/1397426564204310531/ae3ftnzg_normal.jpg",
+    "type": "card",
+    "url": "https://twitter.com/itsabdessalam"
+  },
+  "post-type": "repost",
+  "published": "2020-06-01T05:09:21Z",
+  "refs": {
+    "https://twitter.com/hacdias/status/1267207180698169345": {
+      "author": {
+        "bio": "MSc Computer Science and Engineering at @tueindhoven. Digging into the decentralized web. #opensource advocate. 🇪🇺(🇵🇹 in 🇳🇱)🏳️‍🌈",
+        "location": "Eindhoven",
+        "name": "Henrique Dias",
+        "nickname": "hacdias",
+        "photo": "https://pbs.twimg.com/profile_images/1423978398708273152/MtGkSIDZ_normal.jpg",
+        "type": "card",
+        "url": "https://twitter.com/hacdias"
+      },
+      "category": [
+        "90s"
+      ],
+      "content": {
+        "html": "Just wrote a post about the \u0026quot;old\u0026quot; web I didn't have the opportunity to experience and how I'm trying to bring a bit of the #90s vibe to my website \u003ca href=\"https://hacdias.com/articles/2020/05/back-90s/\"\u003ehttps://hacdias.com/articles/2020/05/back-90s/\u003c/a\u003e",
+        "text": "Just wrote a post about the \"old\" web I didn't have the opportunity to experience and how I'm trying to bring a bit of the #90s vibe to my website https://hacdias.com/articles/2020/05/back-90s/"
+      },
+      "post-type": "note",
+      "published": "2020-05-31T21:31:50+00:00",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1267207180698169345"
+    }
+  },
+  "repost-of": "https://twitter.com/hacdias/status/1267207180698169345",
+  "type": "entry",
+  "url": "https://twitter.com/itsabdessalam/status/1267322319334244352"
+}

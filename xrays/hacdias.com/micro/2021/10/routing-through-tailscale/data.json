@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Henrique Dias",
+    "photo": "https://hacdias.com/me-256.jpg",
+    "type": "card",
+    "url": "https://hacdias.com"
+  },
+  "category": [
+    "meta",
+    "security"
+  ],
+  "content": "\u003cp\u003eIn my last post, I \u003ca href=\"https://hacdias.com/micro/2021/10/new-eagle-look/\"\u003ementioned\u003c/a\u003e that I was “investigating the possibility to use Tailscale to simply block the access from the “outside world” and make it more secure”. Well, it is now \u003ca href=\"https://github.com/hacdias/eagle/blob/main/server/tailscale.go\"\u003eimplemented\u003c/a\u003e and it works. Basically, my blog system can listen on two different ports: the regular one where you’re navigating, and the one inside a Tailscale network.\u003c/p\u003e \u003cp\u003eIf I specify \u003ccode\u003eexclusiveDashboard: true\u003c/code\u003e on my Tailscale section of the configuration, the dashboard will only be added to the Tailscale router. This way, the dashboard won’t be available at \u003ccode\u003ehacdias.com\u003c/code\u003e, but only inside the Tailscale network. I’ve tried it and it works. However, it is not how it is not enabled on the live version yet!\u003c/p\u003e \u003cp\u003eI also mentioned that I was trying to “inject” and admin bar while logged in. I can say that it is working via some response writer \u003ca href=\"https://github.com/hacdias/eagle/blob/86fb5489e6ee3488692377d74f7fd64493841b32/server/static.go#L76-L102\"\u003ewrapping magic\u003c/a\u003e. I have a few more plans to make Eagle more self-contained, but we’re not there yet!\u003c/p\u003e \u003cp\u003eHave a fantastic day!\u003c/p\u003e",
+  "post-type": "note",
+  "published": "2021-10-27T06:31:33Z",
+  "rels": {
+    "canonical": "https://hacdias.com/micro/2021/10/routing-through-tailscale/"
+  },
+  "type": "entry",
+  "url": "https://hacdias.com/micro/2021/10/routing-through-tailscale/"
+}

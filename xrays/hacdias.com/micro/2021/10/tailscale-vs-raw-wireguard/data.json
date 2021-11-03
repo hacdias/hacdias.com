@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Henrique Dias",
+    "photo": "https://hacdias.com/me-256.jpg",
+    "type": "card",
+    "url": "https://hacdias.com"
+  },
+  "category": [
+    "network",
+    "security"
+  ],
+  "content": "\u003cp\u003eWeirdly enough, the name Tailscale caught my eye and I decided to investigate what it is. I checked their website and it seems that they use Wireguard to do the kind of configuration \u003ca href=\"https://hacdias.com/articles/2020/11/access-network-behind-cgnat/\"\u003eI explained\u003c/a\u003e some time ago. I’m curious: besides the easyness of use, what other \u003ca href=\"https://tailscale.com/kb/1086/tailscale-vs-wireguard/\"\u003eadvantages\u003c/a\u003e do you see on using Tailscale over a manually configured Wireguard network?\u003c/p\u003e",
+  "in-reply-to": [
+    "https://jlelse.blog/micro/2021/10/2021-10-20-lhigd"
+  ],
+  "post-type": "reply",
+  "published": "2021-10-20T17:58:02Z",
+  "refs": {
+    "https://jlelse.blog/micro/2021/10/2021-10-20-lhigd": {
+      "author": {
+        "name": "jlelse’s Blog",
+        "photo": null,
+        "type": "card",
+        "url": false
+      },
+      "content": {
+        "text": "My home and code server now has 2 TB of SSD storage and 16 GB of RAM. While I’ll be using the storage for backups, etc., I’m not quite sure what I can use the 16 GB of RAM for yet. What else can I run besides Home Assistant, AdGuard Home, Drone and Tailscale? I still have my VPS running my websites, …"
+      },
+      "post-type": "note",
+      "type": "entry",
+      "url": "https://jlelse.blog/micro/2021/10/2021-10-20-lhigd"
+    }
+  },
+  "rels": {
+    "canonical": "https://hacdias.com/micro/2021/10/tailscale-vs-raw-wireguard/"
+  },
+  "type": "entry",
+  "url": "https://hacdias.com/micro/2021/10/tailscale-vs-raw-wireguard/"
+}

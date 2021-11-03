@@ -1,0 +1,47 @@
+{
+  "author": {
+    "bio": "Trying to master a slowly and thoughtfully craftspersonship way of life",
+    "location": "Neuerdings Hessen",
+    "name": "Florian Weil",
+    "nickname": "derhess",
+    "photo": "https://pbs.twimg.com/profile_images/80266541/derhess_normal.png",
+    "type": "card",
+    "url": "https://twitter.com/derhess"
+  },
+  "category": [
+    "indieweb",
+    "micropub",
+    "indieauth"
+  ],
+  "post-type": "repost",
+  "published": "2019-12-31T20:25:57Z",
+  "refs": {
+    "https://twitter.com/hacdias/status/1211996203514290176": {
+      "author": {
+        "bio": "MSc Computer Science and Engineering at @tueindhoven. Digging into the decentralized web. #opensource advocate. 🇪🇺(🇵🇹 in 🇳🇱)🏳️‍🌈",
+        "location": "Eindhoven",
+        "name": "Henrique Dias",
+        "nickname": "hacdias",
+        "photo": "https://pbs.twimg.com/profile_images/1423978398708273152/MtGkSIDZ_normal.jpg",
+        "type": "card",
+        "url": "https://twitter.com/hacdias"
+      },
+      "category": [
+        "indieweb",
+        "micropub",
+        "indieauth"
+      ],
+      "content": {
+        "html": "Just published two minimal packages to help building #indieweb applications! A #micropub request parser and a #indieauth middleware! \u003ca href=\"https://hacdias.com/2019/12/31/04/two-packages/\"\u003ehttps://hacdias.com/2019/12/31/04/two-packages/\u003c/a\u003e",
+        "text": "Just published two minimal packages to help building #indieweb applications! A #micropub request parser and a #indieauth middleware! https://hacdias.com/2019/12/31/04/two-packages/"
+      },
+      "post-type": "note",
+      "published": "2019-12-31T13:03:07+00:00",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1211996203514290176"
+    }
+  },
+  "repost-of": "https://twitter.com/hacdias/status/1211996203514290176",
+  "type": "entry",
+  "url": "https://twitter.com/derhess/status/1212107647941517318"
+}

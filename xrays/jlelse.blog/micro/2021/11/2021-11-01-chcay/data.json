@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "content": "\u003cp\u003eFor me moving to a completely dynamic website was totally worth it. I was able to implement some features (like the statistics page), that wouldn’t have been possible before. I also chose SQLite because it’s basically file-based but allows a lot more flexibility. But of course it was a huge effort and I spent a lot of time on the whole project.\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2021/10/eagle-move-away-from-hugo/"
+  ],
+  "post-type": "reply",
+  "published": "2021-11-01T03:48:00+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2021/11/2021-11-01-chcay"
+}

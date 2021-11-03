@@ -1,0 +1,37 @@
+{
+  "author": {
+    "bio": "Imperfect member of the restored Church of Jesus Christ. M.S. Comp Sci. Created @caddyserver. Downvoted for opinions. Comes in second place, almost every time.",
+    "location": "USA",
+    "name": "🧗‍♂️ Matt Holt",
+    "nickname": "mholt6",
+    "photo": "https://pbs.twimg.com/profile_images/1305316187069317121/Pd9LKuPw_normal.jpg",
+    "type": "card",
+    "url": "https://twitter.com/mholt6"
+  },
+  "post-type": "repost",
+  "published": "2021-02-15T06:51:40Z",
+  "refs": {
+    "https://twitter.com/hacdias/status/1361206419266154499": {
+      "author": {
+        "bio": "MSc Computer Science and Engineering at @tueindhoven. Digging into the decentralized web. #opensource advocate. 🇪🇺(🇵🇹 in 🇳🇱)🏳️‍🌈",
+        "location": "Eindhoven",
+        "name": "Henrique Dias",
+        "nickname": "hacdias",
+        "photo": "https://pbs.twimg.com/profile_images/1423978398708273152/MtGkSIDZ_normal.jpg",
+        "type": "card",
+        "url": "https://twitter.com/hacdias"
+      },
+      "content": {
+        "html": "I decided to try generating fractal snowflakes. And the result is quite interesting \u003ca href=\"https://hacdias.com/articles/2021/02/magic-fractal-snowflakes/\"\u003ehttps://hacdias.com/articles/2021/02/magic-fractal-snowflakes/\u003c/a\u003e",
+        "text": "I decided to try generating fractal snowflakes. And the result is quite interesting https://hacdias.com/articles/2021/02/magic-fractal-snowflakes/"
+      },
+      "post-type": "note",
+      "published": "2021-02-15T06:51:15+00:00",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1361206419266154499"
+    }
+  },
+  "repost-of": "https://twitter.com/hacdias/status/1361206419266154499",
+  "type": "entry",
+  "url": "https://twitter.com/mholt6/status/1361206528141844482"
+}

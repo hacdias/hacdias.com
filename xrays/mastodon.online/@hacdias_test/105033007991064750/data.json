@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "hacdias_test",
+    "nickname": "hacdias_test",
+    "photo": null,
+    "type": "card",
+    "url": "https://mastodon.online/@hacdias_test"
+  },
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://hacdias.com/\" class=\"u-url\"\u003e@\u003cspan\u003ehacdias\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e toot toot toot!\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2020/10/httpsig-was-the-issue/"
+  ],
+  "post-type": "reply",
+  "published": "2020-10-14T11:55:13Z",
+  "type": "entry",
+  "url": "https://mastodon.online/@hacdias_test/105033007991064750"
+}

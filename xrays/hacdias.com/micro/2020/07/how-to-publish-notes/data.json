@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "Henrique Dias",
+    "photo": "https://hacdias.com/me-256.jpg",
+    "type": "card",
+    "url": "https://hacdias.com"
+  },
+  "category": [
+    "meta"
+  ],
+  "content": "\u003cp\u003eSo… replying to myself. Probably what I’m going to do is quite similar to what I had before: statically generate the notes from source markdown (or something else). I first need to decide the best language. Markdown is simples, yes, but sometimes I feel I need to add HTML to make it look exactly how I want it to. For example, I can’t just do this in markdown without using HTML. Some other markup languages allow for much more customization, such as Asciidoc.\u003c/p\u003e \u003cp\u003eLet me review the features I wrote yesterday to know if I can accomplish what I want this way. First, the must-haves:\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003eSelf hosted and open source Notes stored in plain text files Backlinking feature Supports LaTeX math Supports Mermaid diagrams\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eYes, yes, yes, yes and yes even if I have to create some script to adapt it to whatever static website generator I’m using. Unfortunately Hugo does not easily allow me to process backlinks on its own. I may try a different, more flexible, static generator for this. It’s an experiment and that way I’ll learn more. Maybe Gatsby or even Eleventy.\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003eClean layout and possible to easily edit on mobile\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eYes and kinda. Need to find a good app. There’s some such as iA Writer that I know work very well. But I need to find a way to make it easily work with a Git repository.\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003eWeb editor (maybe WYSIWYG)\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eGitHub editor works. Not WYSIWYG though.\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003eSimple and humanly readable markup language (markdown or other)\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eYes.\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003eSearch\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eCan be implemented, although a bit harder.\u003c/p\u003e \u003cp\u003eNow let’s finally review the good to have features.\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003eFull-text search\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eCan be implemented too.\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003eMind map visualization\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eYes.\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003ePublic/private stuff\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003ePossible, harder, but possible.\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2020/07/too-many-notes-apps/"
+  ],
+  "post-type": "reply",
+  "published": "2020-07-21T07:34:33Z",
+  "refs": {
+    "https://hacdias.com/micro/2020/07/too-many-notes-apps/": {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": null,
+        "type": "card",
+        "url": false
+      },
+      "content": {
+        "text": "Taking notes is a process… that’s true. Yesterday I found a post on HackerNews talking about how tired people are of new notes apps. I agree: there’s so many different note-taking apps that it becomes unbearable to find whatever fits you. I have a giang repository of markdown files with images and a …"
+      },
+      "post-type": "note",
+      "type": "entry",
+      "url": "https://hacdias.com/micro/2020/07/too-many-notes-apps/"
+    }
+  },
+  "rels": {
+    "canonical": "https://hacdias.com/micro/2020/07/how-to-publish-notes/"
+  },
+  "type": "entry",
+  "url": "https://hacdias.com/micro/2020/07/how-to-publish-notes/"
+}

@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Curiosities"
+  ],
+  "content": "\u003cp\u003eHenrique from Portugal is currently experiencing real snow for the first time in the Netherlands. Inspired by this \u003ca href=\"https://hacdias.com/articles/2021/02/magic-fractal-snowflakes/\"\u003ehe programmed\u003c/a\u003e a little tool to generate snowflake fractals using HTML, CSS and JavaScript. Very cool idea!\u003c/p\u003e \u003cp\u003e\u003ca class=\"u-bookmark-of\" href=\"https://hacdias.com/articles/2021/02/magic-fractal-snowflakes/\"\u003ehttps://hacdias.com/articles/2021/02/magic-fractal-snowflakes/\u003c/a\u003e\u003c/p\u003e",
+  "name": "“The magic of fractal snowflakes”",
+  "post-type": "article",
+  "published": "2021-02-15T08:41:18+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/links/2021/02/fractal-snowflakes"
+}

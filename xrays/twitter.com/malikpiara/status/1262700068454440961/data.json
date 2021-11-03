@@ -1,0 +1,85 @@
+{
+  "author": {
+    "bio": "Tweeting about Product Management and Startups in Europe. Founded @Startup351, @UpframeHQ and @StartupJobs__PT.",
+    "location": "Lisbon and Berlin",
+    "name": "Malik Piara",
+    "nickname": "malikpiara",
+    "photo": "https://pbs.twimg.com/profile_images/1454049899763339280/lf3pZlO8_normal.jpg",
+    "type": "card",
+    "url": "https://twitter.com/malikpiara"
+  },
+  "post-type": "repost",
+  "published": "2020-05-19T11:02:10Z",
+  "refs": {
+    "https://twitter.com/daviddias/status/1262684702865076224": {
+      "author": {
+        "bio": "Making data permanent with @IPFS, creator of @libp2p \u0026 @IPLD, author of many @multiformats and Research Director @protocollabs. \nMade @lxjs \u0026 @startupscholars",
+        "location": "Portugal",
+        "name": "David Dias",
+        "nickname": "daviddias",
+        "photo": "https://pbs.twimg.com/profile_images/1171760461395779584/9thqWNW2_normal.jpg",
+        "type": "card",
+        "url": "https://twitter.com/daviddias"
+      },
+      "category": [
+        "IPFS",
+        "libp2p"
+      ],
+      "content": {
+        "html": "We've just published a post about our participation at the NDN Seminar (Named Data Networking). \u003cbr\u003e\n\u003cbr\u003e\nIt packs 24 very inquisitive questions and answers about #IPFS \u0026amp; #libp2p\u003cbr\u003e\n\u003ca href=\"https://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/\"\u003ehttps://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/\u003c/a\u003e\u003cbr\u003e\nWe hope you enjoy it and that helps you build your understanding of IPFS \u0026amp; libp2p:)",
+        "text": "We've just published a post about our participation at the NDN Seminar (Named Data Networking). \n\nIt packs 24 very inquisitive questions and answers about #IPFS \u0026 #libp2p\nhttps://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/\nWe hope you enjoy it and that helps you build your understanding of IPFS \u0026 libp2p:)"
+      },
+      "post-type": "note",
+      "published": "2020-05-19T10:01:07+00:00",
+      "type": "entry",
+      "url": "https://twitter.com/daviddias/status/1262684702865076224"
+    },
+    "https://twitter.com/hacdias/status/1262689444219535361": {
+      "author": {
+        "bio": "MSc Computer Science and Engineering at @tueindhoven. Digging into the decentralized web. #opensource advocate. 🇪🇺(🇵🇹 in 🇳🇱)🏳️‍🌈",
+        "location": "Eindhoven",
+        "name": "Henrique Dias",
+        "nickname": "hacdias",
+        "photo": "https://pbs.twimg.com/profile_images/1423978398708273152/MtGkSIDZ_normal.jpg",
+        "type": "card",
+        "url": "https://twitter.com/hacdias"
+      },
+      "content": {
+        "text": "This is a fantastic compilation of a few questions about IPFS that will help anyone understand the protocol more in-depth with ease. For experts and for beginners, it's a good read!"
+      },
+      "post-type": "note",
+      "published": "2020-05-19T10:19:57+00:00",
+      "quotation-of": "https://twitter.com/daviddias/status/1262684702865076224",
+      "refs": {
+        "https://twitter.com/daviddias/status/1262684702865076224": {
+          "author": {
+            "bio": "Making data permanent with @IPFS, creator of @libp2p \u0026 @IPLD, author of many @multiformats and Research Director @protocollabs. \nMade @lxjs \u0026 @startupscholars",
+            "location": "Portugal",
+            "name": "David Dias",
+            "nickname": "daviddias",
+            "photo": "https://pbs.twimg.com/profile_images/1171760461395779584/9thqWNW2_normal.jpg",
+            "type": "card",
+            "url": "https://twitter.com/daviddias"
+          },
+          "category": [
+            "IPFS",
+            "libp2p"
+          ],
+          "content": {
+            "html": "We've just published a post about our participation at the NDN Seminar (Named Data Networking). \u003cbr\u003e\n\u003cbr\u003e\nIt packs 24 very inquisitive questions and answers about #IPFS \u0026amp; #libp2p\u003cbr\u003e\n\u003ca href=\"https://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/\"\u003ehttps://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/\u003c/a\u003e\u003cbr\u003e\nWe hope you enjoy it and that helps you build your understanding of IPFS \u0026amp; libp2p:)",
+            "text": "We've just published a post about our participation at the NDN Seminar (Named Data Networking). \n\nIt packs 24 very inquisitive questions and answers about #IPFS \u0026 #libp2p\nhttps://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/\nWe hope you enjoy it and that helps you build your understanding of IPFS \u0026 libp2p:)"
+          },
+          "post-type": "note",
+          "published": "2020-05-19T10:01:07+00:00",
+          "type": "entry",
+          "url": "https://twitter.com/daviddias/status/1262684702865076224"
+        }
+      },
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361"
+    }
+  },
+  "repost-of": "https://twitter.com/hacdias/status/1262689444219535361",
+  "type": "entry",
+  "url": "https://twitter.com/malikpiara/status/1262700068454440961"
+}

@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "Jan Boddez",
+    "photo": "https://jan.boddez.net/images/photo.jpg",
+    "type": "card",
+    "url": "https://jan.boddez.net/"
+  },
+  "content": "\u003cp\u003e\u003ci\u003eLiked \u003ca class=\"u-like-of\" href=\"https://hacdias.com/micro/2020/10/serving-mf2/\"\u003ehttps://hacdias.com/micro/2020/10/serving-mf2/\u003c/a\u003e.\u003c/i\u003e\u003c/p\u003e",
+  "like-of": [
+    "https://hacdias.com/micro/2020/10/serving-mf2/"
+  ],
+  "post-type": "like",
+  "published": "2020-10-13T17:52:04+02:00",
+  "type": "entry",
+  "url": "https://jan.boddez.net/likes/a7b81d00d2"
+}

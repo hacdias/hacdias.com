@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Anonymous",
+    "photo": "https://commentpara.de/img/anonymous.svg",
+    "type": "card",
+    "url": false
+  },
+  "content": "Yes",
+  "in-reply-to": [
+    "https://hacdias.com/articles/2019/07/mirrorring-xkcd-ipfs/"
+  ],
+  "post-type": "reply",
+  "type": "entry",
+  "url": "https://commentpara.de/comment/613.htm"
+}

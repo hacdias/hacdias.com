@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Movies"
+  ],
+  "content": "\u003cp\u003eInspired by Henrique Dias and \u003ca href=\"https://hacdias.com/watches/\"\u003ehis “Watches” page\u003c/a\u003e, I \u003ca href=\"https://jlelse.dev/watches/\"\u003eadded such a site to my website too\u003c/a\u003e. I’m not using a tracking service to collect the data though, but write down everything manually. Although doing it \u003ca href=\"https://github.com/hacdias/trakt-collector\"\u003eautomagically\u003c/a\u003e is pretty cool. I just try to keep things under my own control and don’t want to start to depend on yet another service.\u003c/p\u003e \u003cp\u003eFor entries I try to link to \u003ca href=\"https://www.themoviedb.org/\"\u003eThe Movie Database\u003c/a\u003e, a more open alternative to Amazon’s IMDb. When shows or movies are note available there, I’ll link to the streaming platform’s detail page or another adequate website.\u003c/p\u003e \u003cp\u003eI watch a lot more movies and shows lately and so I want to keep track of it.\u003c/p\u003e",
+  "post-type": "note",
+  "published": "2020-04-13T08:19:28+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2020/04/watches-page"
+}

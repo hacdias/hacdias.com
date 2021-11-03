@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Anonymous",
+    "photo": "https://commentpara.de/img/anonymous.svg",
+    "type": "card",
+    "url": false
+  },
+  "content": "If you're seeing this, it's because the 'Write a comment' button above is actually working as it should. Let's discuss 💬 and put our thoughts out there.",
+  "in-reply-to": [
+    "https://hacdias.com/2020/01/25/1/webmention-comment/"
+  ],
+  "post-type": "reply",
+  "type": "entry",
+  "url": "https://commentpara.de/comment/505.htm"
+}

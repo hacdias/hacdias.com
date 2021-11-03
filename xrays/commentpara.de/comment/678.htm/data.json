@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Anonymous",
+    "photo": "https://commentpara.de/img/anonymous.svg",
+    "type": "card",
+    "url": false
+  },
+  "content": "Or you could also have a fully deployed pre prod environment and run end to end tests there.\u003cbr /\u003e\u003cbr /\u003e This would amount to less code (which is good) and reliance on on less libraries(also good)\u003cbr /\u003e\u003cbr /\u003e Besides.. you should already have a pre prod environment with full deployments - it's good practice. You just have to write the end-to-end tests.\u003cbr /\u003e\u003cbr /\u003e (I realise that it may sound like I'm trashing this idea.. but I'm not, the actual implementation is elegant.. it just looks like a case where you've answered 'can we do it?' before asking 'should we do it')\u003cbr /\u003e\u003cbr /\u003e Nevertheless good project from an academic perspective.",
+  "in-reply-to": [
+    "https://hacdias.com/articles/2020/10/testing-p2p-systems-testground/"
+  ],
+  "post-type": "reply",
+  "type": "entry",
+  "url": "https://commentpara.de/comment/678.htm"
+}
