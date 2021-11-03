@@ -17,6 +17,15 @@
       {{ with .Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
     </header>
 
+    {{ $jf2 := .PropertiesAsJF2 }}
+    {{ $type := $jf2.Type }}
+    {{ $url := $jf2.PropertyURL }}
+
+    {{ if eq $type "reply" }}
+      {{ include "post/reply" $url }}
+    {{ end }}
+    
+
     {{ if or $isMicro $isPhotos }}
       {{/* {{- partialCached "post/embedded" . .Permalink }} */}}
       {{ with .Content }}
