@@ -3,25 +3,29 @@
 <main role='main'>
   <article class='h-entry'>
     <header>
+      {{/* {{ if not .IsNode }}  */}}
       <p>
         {{- include "post/date" . }}
-        {{/* {{- partialCached "post/section" . "single" .Permalink }}
-        {{- partialCached "post/tags" . "single" .Permalink }} */}}
+       {{/* {{- partialCached "post/section" . "single" .Permalink }} */}}
+        {{/* · 📍 Eindhoven, The Netherlands
+        · ☀️ 25 ℃ */}}
+        · {{- include "post/tags" . }}
       </p>
-
-    {{/* {{ if not .IsNode }} 
-      <p>
-        {{- partialCached "post/date" . "single" .Permalink }}
-        {{- partialCached "post/section" . "single" .Permalink }}
-        {{- partialCached "post/tags" . "single" .Permalink }}
-      </p>
-      {{ end }} */}}
+      {{/* {{ end }} */}}
 
       {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
+
+      {{/* { if eq .Section "articles" }}
+        <p>{{- include "post/date" . }}<p>
+      {{ end }} */}}
     </header>
 
-    {{/* outdated only if article, note or reply {{- partialCached "post/outdated" . .Permalink }}
-    {{- partialCached "post/embedded" . .Permalink }} */}}
+    <!-- how to simplify this -->
+    {{ if or (eq .Section "articles") (eq .Section "replies") (eq .Section "notes") }}
+      {{ include "post/outdated" . }}
+    {{ end }}
+
+    {{/* {{- partialCached "post/embedded" . .Permalink }} */}}
 
     {{ with .Entry.Content }}
       <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>

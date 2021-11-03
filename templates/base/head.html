@@ -19,11 +19,15 @@
 
   {{ if eq .Section "photos" }}
     <link rel="stylesheet" href="/css/photos.base.css">
+
+    {{ if .IsListing }}
+      <link rel="stylesheet" href="/css/photos.list.css">
+    {{ else }}
+      <link rel="stylesheet" href="/css/photos.single.css">
+    {{ end }}
   {{ end }}
 
   {{/* 
-  {{- $photosList := resources.Get "css/photos.list.css" }}
-  {{- $photosSingle := resources.Get "css/photos.single.css" }}
   {{- $webmentions := resources.Get "css/webmentions.css" }} */}}
 
   {{/* {{ if .IsHome }} */}}
