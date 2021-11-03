@@ -1,8 +1,26 @@
 {{ define "main" }}
-  <main role='main'>
-    <h1>This is the editor</h1>
+  <main role='main' id="editor-page">
+    {{ with .Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
 
-    <p>TODO</p>
+    <style>
+    #editor-page input,
+    #editor-page textarea,
+    #editor-page button {
+      display: block;
+      width: 100%;
+      margin: 0.5rem 0;
+    }
+
+    #editor-page textarea {
+      min-height: 30rem;
+      resize: vertical;
+    }
+    </style>
+
+    <form method=POST>
+      <textarea required id=content name=content data-lang=markdown>{{ .Entry.String }}</textarea>
+      <button type="submit" name="action" value="update">Update</button>
+    </form>
   </main>
 {{ end }}
 

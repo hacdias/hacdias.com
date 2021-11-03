@@ -1,6 +1,15 @@
 {{ define "main" }}
 
 <main role='main'>
+  {{ if .LoggedIn }}
+    <!-- TODO: FIT THIS BETTER -->
+    <a href="?edit=true"><button>Edit</button></a>
+    <!-- TODO: Maybe these can go into the footer. -->
+    {{ if .Draft }}📜{{ end }}
+    {{ if .Private }}🔒{{ end }}
+    {{ if .Deleted }}🗑{{ end }}
+  {{ end }}
+
   <article class='h-entry'>
     <header>
       {{/* {{ if not .IsNode }}  */}}
