@@ -1,0 +1,8 @@
+---
+published: 2020-04-09T08:29:52.754Z
+section: replies
+properties:
+  in-reply-to: https://janboddez.tech/notes/14ce942433
+---
+
+Didn't expect it to be that useful. I'll be keeping it then. And thanks for reading my blog :D

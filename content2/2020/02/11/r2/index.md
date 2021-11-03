@@ -1,0 +1,8 @@
+---
+published: 2020-02-11T13:58:19.007Z
+section: replies
+properties:
+  in-reply-to: https://jlelse.blog/dev/activitystreams-hugo/
+---
+
+I was looking at your [single template](https://codeberg.org/jlelse/hugo-activitystreams/src/branch/master/layouts/_default/single.activity.ajson) and I was wondering if `content_html` shouldn't be `content` only? According to the [spec](https://www.w3.org/TR/activitystreams-vocabulary/#dfn-content), there's no `content_html` property and the `content` can contain HTML by default.

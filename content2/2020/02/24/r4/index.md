@@ -1,0 +1,11 @@
+---
+published: 2020-02-24T09:53:05.038Z
+section: replies
+properties:
+  category:
+  - socialmedia
+  - detox
+  in-reply-to: https://jlelse.blog/thoughts/2020/02/twitter-brands/
+---
+
+I've actually thought about doing this multiple times. Not Twitter actually, but Facebook for now. The only thing that stops me is some university groups that we _only_ have on Facebook that are useful sometimes. However, I already uninstalled it from my phone. Sometimes I wanna show someone something and then I think "I don't have FB installed", but it doesn't matter anyway. Usually it's not something that important.
