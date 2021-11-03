@@ -1,24 +1,21 @@
 {
-  "type": "entry",
-  "published": "2020-01-21T22:30:58Z",
-  "url": "https://hacdias.com/micro/2020/01/n6/",
+  "author": {
+    "name": "Henrique Dias",
+    "photo": "https://cdn.hacdias.com/wm/0e601551f5c63b2c0c52f0749e5fc69940ebc7dd189a04084df99f6f27e67d42.jpg",
+    "type": "card",
+    "url": "https://hacdias.com"
+  },
   "category": [
     "meta",
     "design",
     "optimization"
   ],
-  "content": {
-    "text": "Just made a few updates to my website:\nRemoved Tachyons.\nNew roomy header: took some inspiration from @jlelse’s and from a previous version of my website.\nAdded two new pages that have no information yet: now and use. You can find them on the header.\nI now have a blogroll that you can find here.\nIf you look at the bottom of the page, you now have links for all the categories too.\nThis seems to be a small update. Maybe some won’t like the new design as much as the previous one, but I assure you: it’s at least 70 KB smaller! At least! I didn’t actually measure it 😋\nI may make some updates in the future, but for now I have some interesting plans for the now page!",
-    "html": "<p>Just made a few updates to my website:</p>\n<ul><li>Removed Tachyons.</li>\n<li>New roomy header: took some inspiration from <a href=\"https://jlelse.blog\">@jlelse’s</a> and from a previous version of my website.</li>\n<li>Added two new pages that have no information yet: now and use. You can find them on the header.</li>\n<li>I now have a <a href=\"https://en.wikipedia.org/wiki/Glossary_of_blogging\">blogroll</a> that you can find <a href=\"https://hacdias.com/blogroll/\">here</a>.</li>\n<li>If you look at the bottom of the page, you now have links for all the categories too.</li>\n</ul><p>This seems to be a small update. Maybe some won’t like the new design as much as the previous one, but I assure you: it’s at least 70 KB smaller! At least! I didn’t actually measure it 😋</p>\n<p>I may make some updates in the future, but for now I have some interesting plans for the now page!</p>"
-  },
-  "author": {
-    "type": "card",
-    "name": "Henrique Dias",
-    "url": "https://hacdias.com",
-    "photo": "https://hacdias.com/me-256.jpg"
-  },
+  "content": "Just made a few updates to my website: Removed Tachyons. New roomy header: took some inspiration from @jlelse’s and from a previous version of my website. Added two new pages that have no information yet: now and use. You can find them on the header. I now have a blogroll that you can find here. If you look at the bottom of the page, you now have links for all the categories too. This seems to be a small update. Maybe some won’t like the new design as much as the previous one, but I assure you: it’s at least 70 KB smaller! At least! I didn’t actually measure it 😋 I may make some updates in the future, but for now I have some interesting plans for the now page!",
   "post-type": "note",
+  "published": "2020-01-21T22:30:58Z",
   "rels": {
     "canonical": "https://hacdias.com/micro/2020/01/n6/"
-  }
+  },
+  "type": "entry",
+  "url": "https://hacdias.com/micro/2020/01/n6/"
 }

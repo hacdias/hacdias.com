@@ -2,7 +2,7 @@
   "author": {
     "name": "jlelse’s Blog",
     "nickname": "en",
-    "photo": "https://jlelse.dev/profile.png",
+    "photo": "https://cdn.hacdias.com/wm/83c17beb191734b06ea23473d6dbbc9f2c48e10943a69ddf24d5a77f9b9a555c.png",
     "type": "card",
     "url": "https://jlelse.blog"
   },
@@ -11,7 +11,7 @@
     "Blog",
     "Opinion"
   ],
-  "content": "\u003cp\u003eOpinions can change over time. And since I often post opinions on my blog, I’ve added a feature to my blog theme that displays a warning message above posts that are over one year old (\u003ca href=\"https://jlelse.blog/medium/2018/03/it-was-all-a-misunderstanding/\"\u003eexample\u003c/a\u003e).\u003c/p\u003e \u003cp\u003eI have been blogging for some time now. There were times when blogging was my escape to deal with difficult times. Some things I may see a little bit differently after 4 years. After all, since then some years of life experience have been added. I have become more adult. I have learned a lot. Today I am no longer as impulsive as I was then.\u003c/p\u003e \u003cp\u003eBut still, I don’t want to delete most of what I published back then just like that. My blog is partially a kind of diary and through certain posts I can remember back.\u003c/p\u003e",
+  "content": "Opinions can change over time. And since I often post opinions on my blog, I’ve added a feature to my blog theme that displays a warning message above posts that are over one year old (example). I have been blogging for some time now. There were times when blogging was my escape to deal with difficult times. Some things I may see a little bit differently after 4 years. After all, since then some years of life experience have been added. I have become more adult. I have learned a lot. Today I am no longer as impulsive as I was then. But still, I don’t want to delete most of what I published back then just like that. My blog is partially a kind of diary and through certain posts I can remember back.",
   "name": "Opinions can change over time",
   "post-type": "note",
   "published": "2020-02-17T18:38:56+01:00",

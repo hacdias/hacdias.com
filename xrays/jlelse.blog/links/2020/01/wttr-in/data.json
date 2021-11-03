@@ -2,7 +2,7 @@
   "author": {
     "name": "jlelse’s Blog",
     "nickname": "en",
-    "photo": "https://jlelse.dev/profile.png",
+    "photo": "https://cdn.hacdias.com/wm/83c17beb191734b06ea23473d6dbbc9f2c48e10943a69ddf24d5a77f9b9a555c.png",
     "type": "card",
     "url": "https://jlelse.blog"
   },
@@ -10,7 +10,7 @@
     "Tips",
     "Weather"
   ],
-  "content": "\u003cp\u003eThanks to \u003ca href=\"https://hacdias.com/2020/01/20/4/weather-terminal/\"\u003e@hacdias\u003c/a\u003e, I just discovered this:\u003c/p\u003e \u003cpre\u003e\u003ccode\u003ecurl wttr.in \u003c/code\u003e\u003c/pre\u003e \u003cp\u003eBut \u003ca href=\"https://wttr.in/\"\u003ewttr.in\u003c/a\u003e can’t only show you your current weather and the forecast (based on your IP location) in your terminal, it also has a lot of extra options and is open source. Check out the \u003ca href=\"https://github.com/chubin/wttr.in\"\u003eGitHub repository\u003c/a\u003e.\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003ewttr.in is a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers.\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003e\u003ca class=\"u-bookmark-of\" href=\"https://wttr.in/\"\u003ehttps://wttr.in/\u003c/a\u003e\u003c/p\u003e",
+  "content": "Thanks to @hacdias, I just discovered this: curl wttr.in But wttr.in can’t only show you your current weather and the forecast (based on your IP location) in your terminal, it also has a lot of extra options and is open source. Check out the GitHub repository. wttr.in is a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers. https://wttr.in/",
   "name": "curl wttr.in - Weather in your terminal",
   "post-type": "article",
   "published": "2020-01-20T23:31:11+01:00",

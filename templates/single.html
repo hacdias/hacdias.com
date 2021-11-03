@@ -28,6 +28,17 @@
         <p>{{- include "post/date" . }}<p>
       {{ end }} */}}
     </header>
+    
+    
+    {{ $jf2 := .PropertiesAsJF2 }}
+    {{ $type := $jf2.Type }}
+    {{ $url := $jf2.PropertyURL }}
+
+    {{ if eq $type "reply" }}
+      {{ include "post/reply" $url }}
+    {{ end }}
+
+    Is: {{ $type }} ({{ $url }})
 
     <!-- how to simplify this -->
     {{ if or (eq .Section "articles") (eq .Section "replies") (eq .Section "notes") }}

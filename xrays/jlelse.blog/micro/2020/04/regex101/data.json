@@ -2,14 +2,14 @@
   "author": {
     "name": "jlelse’s Blog",
     "nickname": "en",
-    "photo": "https://jlelse.dev/profile.png",
+    "photo": "https://cdn.hacdias.com/wm/83c17beb191734b06ea23473d6dbbc9f2c48e10943a69ddf24d5a77f9b9a555c.png",
     "type": "card",
     "url": "https://jlelse.blog"
   },
   "category": [
     "Programming"
   ],
-  "content": "\u003cp\u003e\u003ca href=\"https://regex101.com/\"\u003eregex101.com\u003c/a\u003e is my favorite tool for testing and debugging regular expressions too. It can even generate code. 🤓 Very nice tool! 👍\u003c/p\u003e",
+  "content": "regex101.com is my favorite tool for testing and debugging regular expressions too. It can even generate code. 🤓 Very nice tool! 👍",
   "in-reply-to": [
     "https://beko.famkos.net/2020/04/06/82435/"
   ],

@@ -4,11 +4,11 @@
     "location": "Eindhoven",
     "name": "Henrique Dias",
     "nickname": "hacdias",
-    "photo": "https://pbs.twimg.com/profile_images/1423978398708273152/MtGkSIDZ_normal.jpg",
+    "photo": "https://cdn.hacdias.com/wm/7df0d831ccac7714a03f2129aa63ba4d149a56a18de70380b0a55e09c573a7ce.jpg",
     "type": "card",
     "url": "https://twitter.com/hacdias"
   },
-  "content": "Well... that worked. I'm actually using macOS's default font on mac. Weird that it gives this result...",
+  "content": "Well... that worked. I\u0026#39;m actually using macOS\u0026#39;s default font on mac. Weird that it gives this result...",
   "in-reply-to": [
     "https://twitter.com/mholt6/status/1234133931676454914"
   ],

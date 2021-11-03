@@ -4,7 +4,7 @@
     "location": "Eindhoven",
     "name": "Henrique Dias",
     "nickname": "hacdias",
-    "photo": "https://pbs.twimg.com/profile_images/1423978398708273152/MtGkSIDZ_normal.jpg",
+    "photo": "https://cdn.hacdias.com/wm/7df0d831ccac7714a03f2129aa63ba4d149a56a18de70380b0a55e09c573a7ce.jpg",
     "type": "card",
     "url": "https://twitter.com/hacdias"
   },
@@ -13,7 +13,7 @@
     "Hugo",
     "indieweb"
   ],
-  "content": "After digressing a bit about building a #Micropub endpoint for my website, I’ve been thinking about the next steps: if I should keep #Hugo or move to some other system. #indieweb \u003ca href=\"https://hacdias.com/2020/01/02/6/dynamic-static/\"\u003ehttps://hacdias.com/2020/01/02/6/dynamic-static/\u003c/a\u003e",
+  "content": "After digressing a bit about building a #Micropub endpoint for my website, I’ve been thinking about the next steps: if I should keep #Hugo or move to some other system. #indieweb https://hacdias.com/2020/01/02/6/dynamic-static/",
   "post-type": "note",
   "published": "2020-01-02T23:42:11Z",
   "type": "entry",

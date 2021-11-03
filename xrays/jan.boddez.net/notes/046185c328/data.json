@@ -1,11 +1,11 @@
 {
   "author": {
     "name": "Jan Boddez",
-    "photo": "https://jan.boddez.net/images/photo.jpg",
+    "photo": "https://cdn.hacdias.com/wm/64eaa45be371b38193973771851d7ca2e880b47af4091a13f2c8ac2d9eefe018.jpg",
     "type": "card",
     "url": "https://jan.boddez.net/"
   },
-  "content": "\u003cp\u003e\u003ci\u003eIn reply to \u003ca class=\"u-in-reply-to\" href=\"https://hacdias.com/micro/2020/10/trying-activitypub/\"\u003ehttps://hacdias.com/micro/2020/10/trying-activitypub/\u003c/a\u003e.\u003c/i\u003e\u003c/p\u003e \u003cp\u003eI remember looking at \u003ca href=\"https://github.com/aaronpk/Nautilus/blob/master/app/ActivityPub/HTTPSignature.php\"\u003ehttps://github.com/aaronpk/Nautilus/blob/master/app/ActivityPub/HTTPSignature.php\u003c/a\u003e a whole lot to finally get signatures—and Accepts—to work. (Could never get Deletes to actually work, though.) 😟\u003c/p\u003e",
+  "content": "In reply to https://hacdias.com/micro/2020/10/trying-activitypub/. I remember looking at https://github.com/aaronpk/Nautilus/blob/master/app/ActivityPub/HTTPSignature.php a whole lot to finally get signatures—and Accepts—to work. (Could never get Deletes to actually work, though.) 😟",
   "in-reply-to": [
     "https://hacdias.com/micro/2020/10/trying-activitypub/"
   ],

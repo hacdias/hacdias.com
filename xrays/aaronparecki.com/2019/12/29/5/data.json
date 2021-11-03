@@ -1,11 +1,11 @@
 {
   "author": {
     "name": "Aaron Parecki",
-    "photo": "https://aaronparecki.com/images/profile.jpg",
+    "photo": "https://cdn.hacdias.com/wm/d5921cf606571c92cfe79802bc2c9de2383ad51b5e6050d3e152ea7ce17221ed.jpg",
     "type": "card",
     "url": "https://aaronparecki.com/"
   },
-  "content": "Cool! You can also test with \u003ca href=\"https://webmention.rocks\"\u003e\u003cspan\u003ehttps://\u003c/span\u003ewebmention.rocks\u003c/a\u003e",
+  "content": "Cool! You can also test with https://webmention.rocks",
   "in-reply-to": [
     "https://hacdias.com/2019/12/29/06/"
   ],

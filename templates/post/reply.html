@@ -1,0 +1,26 @@
+{{ define "post/reply" }}
+  {{ $url := . }}
+  {{ $xray := xray . }}
+
+  {{ with $xray }}
+
+  <div class="h-cite e-entry bar u-in-reply-to">
+    <p>
+      <span class="p-author h-card">
+        <span class="p-name">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</span>
+      </span>
+      {{- if .date -}}
+        <a rel="noopener noreferrer" target="_link" href="{{ .url }}" class="u-url original date">DATE</a>
+      {{- else -}}
+        <a rel="noopener noreferrer" target="_link" href="{{ .url }}" class="u-url original">Original Post</a>
+      {{- end -}}
+    </p>
+    {{- with .content -}}
+      <div class="e-content p-name">{{ . | truncate 300 | safeHTML }}</div>
+    {{- end -}}
+  </div>
+
+
+  {{ end }}
+
+{{ end }}

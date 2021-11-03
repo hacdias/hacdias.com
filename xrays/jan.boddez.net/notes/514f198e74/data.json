@@ -1,11 +1,11 @@
 {
   "author": {
     "name": "Jan Boddez",
-    "photo": "https://jan.boddez.net/images/photo.jpg",
+    "photo": "https://cdn.hacdias.com/wm/64eaa45be371b38193973771851d7ca2e880b47af4091a13f2c8ac2d9eefe018.jpg",
     "type": "card",
     "url": "https://jan.boddez.net/"
   },
-  "content": "\u003cp\u003e\u003ci\u003eIn reply to \u003ca class=\"u-in-reply-to\" href=\"https://hacdias.com/micro/2020/10/is-feed-fixed/\"\u003ehttps://hacdias.com/micro/2020/10/is-feed-fixed/\u003c/a\u003e.\u003c/i\u003e\u003c/p\u003e \u003cp\u003eRelative URLs, eh? Suddenly feels \u003ca href=\"https://github.com/aaronpk/XRay/issues/98\"\u003elike I’ve had this conversation\u003c/a\u003e before. :-) I know they can be an issue (and are discouraged) in \u003cem\u003eRSS feeds\u003c/em\u003e, but not that Microsub readers would fail to pick them up as well. I’m using a fork of Aperture, which I’d consider the de facto standard and itself relies on \u003ca href=\"https://github.com/aaronpk/XRay\"\u003eX-Ray\u003c/a\u003e to parse HTML (and other) feeds. I sometimes use \u003ca href=\"http://xray.p3k.io\"\u003ehttp://xray.p3k.io\u003c/a\u003e to check both h-feeds and individual entries.\u003c/p\u003e",
+  "content": "In reply to https://hacdias.com/micro/2020/10/is-feed-fixed/. Relative URLs, eh? Suddenly feels like I’ve had this conversation before. :-) I know they can be an issue (and are discouraged) in RSS feeds, but not that Microsub readers would fail to pick them up as well. I’m using a fork of Aperture, which I’d consider the de facto standard and itself relies on X-Ray to parse HTML (and other) feeds. I sometimes use http://xray.p3k.io to check both h-feeds and individual entries.",
   "in-reply-to": [
     "https://hacdias.com/micro/2020/10/is-feed-fixed/"
   ],

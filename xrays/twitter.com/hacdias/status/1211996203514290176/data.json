@@ -4,7 +4,7 @@
     "location": "Eindhoven",
     "name": "Henrique Dias",
     "nickname": "hacdias",
-    "photo": "https://pbs.twimg.com/profile_images/1423978398708273152/MtGkSIDZ_normal.jpg",
+    "photo": "https://cdn.hacdias.com/wm/7df0d831ccac7714a03f2129aa63ba4d149a56a18de70380b0a55e09c573a7ce.jpg",
     "type": "card",
     "url": "https://twitter.com/hacdias"
   },
@@ -13,7 +13,7 @@
     "micropub",
     "indieauth"
   ],
-  "content": "Just published two minimal packages to help building #indieweb applications! A #micropub request parser and a #indieauth middleware! \u003ca href=\"https://hacdias.com/2019/12/31/04/two-packages/\"\u003ehttps://hacdias.com/2019/12/31/04/two-packages/\u003c/a\u003e",
+  "content": "Just published two minimal packages to help building #indieweb applications! A #micropub request parser and a #indieauth middleware! https://hacdias.com/2019/12/31/04/two-packages/",
   "post-type": "note",
   "published": "2019-12-31T13:03:07Z",
   "type": "entry",

@@ -2,7 +2,7 @@
   "author": {
     "name": "jlelse’s Blog",
     "nickname": "en",
-    "photo": "https://jlelse.dev/profile.png",
+    "photo": "https://cdn.hacdias.com/wm/83c17beb191734b06ea23473d6dbbc9f2c48e10943a69ddf24d5a77f9b9a555c.png",
     "type": "card",
     "url": "https://jlelse.blog"
   },
@@ -11,7 +11,7 @@
     "Blog",
     "Hugo"
   ],
-  "content": "\u003cp\u003eI’m currently browsing \u003ca href=\"https://www.11ty.dev/docs/\"\u003ethe docs\u003c/a\u003e of the static site generator \u003ca href=\"https://www.11ty.dev/\"\u003eEleventy\u003c/a\u003e (also known as 11ty). Although I prefer Go and I’m not a big JavaScript (and npm) fan for various reasons, I now consider Eleventy as an alternative to Hugo for my blog. I’m reaching the limits of Hugo more often and have to find complicated workarounds, because it’s almost impossible to add custom functionalities to Hugo. Eleventy is apparently very flexible and can be easily extended.\u003c/p\u003e \u003cp\u003eI might try to rebuild parts of my blog with Eleventy in the near future to see if everything is as great as it looks like (and whether Eleventy is as fast as Hugo), but I’m also curious to hear more testimonials.\u003c/p\u003e \u003cp\u003e\u003ca class=\"u-bookmark-of\" href=\"https://www.11ty.dev/\"\u003ehttps://www.11ty.dev/\u003c/a\u003e\u003c/p\u003e",
+  "content": "I’m currently browsing the docs of the static site generator Eleventy (also known as 11ty). Although I prefer Go and I’m not a big JavaScript (and npm) fan for various reasons, I now consider Eleventy as an alternative to Hugo for my blog. I’m reaching the limits of Hugo more often and have to find complicated workarounds, because it’s almost impossible to add custom functionalities to Hugo. Eleventy is apparently very flexible and can be easily extended. I might try to rebuild parts of my blog with Eleventy in the near future to see if everything is as great as it looks like (and whether Eleventy is as fast as Hugo), but I’m also curious to hear more testimonials. https://www.11ty.dev/",
   "name": "Eleventy",
   "post-type": "article",
   "published": "2020-04-13T12:31:46+02:00",

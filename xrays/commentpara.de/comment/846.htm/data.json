@@ -1,11 +1,11 @@
 {
   "author": {
     "name": "Anonymous",
-    "photo": "https://commentpara.de/img/anonymous.svg",
+    "photo": "https://cdn.hacdias.com/wm/a19989f6e8736585558e3a28d5b673f636822e4434f063ea8b9455a24a08dc88.svg",
     "type": "card",
     "url": false
   },
-  "content": "Are you sure this line is correct: sudo systemctl enable wg-quick\u003ca href=\"https://twitter.com/@wg0\"\u003e@wg0\u003c/a\u003e\u003cbr /\u003e\u003cbr /\u003e Perhaps your blogging platform auto-added the link?",
+  "content": "Are you sure this line is correct: sudo systemctl enable wg-quick@wg0 Perhaps your blogging platform auto-added the link?",
   "in-reply-to": [
     "https://hacdias.com/articles/2020/11/access-network-behind-cgnat/"
   ],

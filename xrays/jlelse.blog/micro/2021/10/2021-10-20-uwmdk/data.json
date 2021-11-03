@@ -2,11 +2,11 @@
   "author": {
     "name": "jlelse’s Blog",
     "nickname": "en",
-    "photo": "https://jlelse.dev/profile.png",
+    "photo": "https://cdn.hacdias.com/wm/83c17beb191734b06ea23473d6dbbc9f2c48e10943a69ddf24d5a77f9b9a555c.png",
     "type": "card",
     "url": "https://jlelse.blog"
   },
-  "content": "\u003cp\u003eTailscale tries to punch the NAT and establish a direct peer-to-peer connection. That’s the magic compared to your Wireguard-VPS-VPN. And it’s a lot easier to just login and directly connect to each device in your Tail-net than creating key pairs etc.\u003c/p\u003e \u003cp\u003eAnother nice thing is also the option to use Tailscale as a library in any Go project. GoBlog (my blogging system) has a Tailscale integration, which allows me to access my diary using HTTPS only from trusted devices.\u003c/p\u003e",
+  "content": "Tailscale tries to punch the NAT and establish a direct peer-to-peer connection. That’s the magic compared to your Wireguard-VPS-VPN. And it’s a lot easier to just login and directly connect to each device in your Tail-net than creating key pairs etc. Another nice thing is also the option to use Tailscale as a library in any Go project. GoBlog (my blogging system) has a Tailscale integration, which allows me to access my diary using HTTPS only from trusted devices.",
   "in-reply-to": [
     "https://hacdias.com/micro/2021/10/tailscale-vs-raw-wireguard"
   ],

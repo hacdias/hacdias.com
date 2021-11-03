@@ -6,7 +6,7 @@
     "type": "card",
     "url": "https://mastodon.online/@hacdias_test"
   },
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://hacdias.com/\" class=\"u-url\"\u003e@\u003cspan\u003ehacdias\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e toot toot toot!\u003c/p\u003e",
+  "content": "@hacdias toot toot toot!",
   "in-reply-to": [
     "https://hacdias.com/micro/2020/10/httpsig-was-the-issue/"
   ],

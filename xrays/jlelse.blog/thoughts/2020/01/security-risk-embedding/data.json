@@ -2,7 +2,7 @@
   "author": {
     "name": "jlelse’s Blog",
     "nickname": "en",
-    "photo": "https://jlelse.dev/profile.png",
+    "photo": "https://cdn.hacdias.com/wm/83c17beb191734b06ea23473d6dbbc9f2c48e10943a69ddf24d5a77f9b9a555c.png",
     "type": "card",
     "url": "https://jlelse.blog"
   },
@@ -10,7 +10,7 @@
     "Security",
     "IndieWeb"
   ],
-  "content": "\u003cp\u003eOn a lot of \u003ca href=\"https://indieweb.org/\"\u003eIndieWeb\u003c/a\u003e sites, I noticed that profile images of webmentions get directly embedded from their original source. For example, Twitter profile images are loaded directly from Twitter servers (pbs.twimg.com) or even my profile image is directly embedded from my site.\u003c/p\u003e \u003cp\u003eHowever you should consider enabling \u003ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP\"\u003eContent Security Policy (CSP)\u003c/a\u003e headers and only allow embedded content from trusted sites (your own domains). It could always happen that a site gets hacked and malware injected or a domain expires and some spammers register it again, that will also affect your website’s visitors. You won’t even notice it.\u003c/p\u003e \u003cp\u003eTo solve this, you basically have two options:\u003c/p\u003e \u003col\u003e\u003cli\u003edon’t display them at all,\u003c/li\u003e \u003cli\u003eor download those images and serve the downloaded copy.\u003c/li\u003e \u003c/ol\u003e\u003cp\u003eAnd don’t forget to enable CSP headers on your site!\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eUpdate\u003c/strong\u003e: \u003ca href=\"https://seblog.nl/2020/01/25/3/dont-forget\"\u003eSebastiaan Andeweg wrote a reply\u003c/a\u003e and linked his article, about \u003ca href=\"https://seblog.nl/2017/02/13/3/how-i-hacked-my-own-site\"\u003ehow he hacked his own website\u003c/a\u003e! If you use PHP for your IndieWeb site, make sure to read it!\u003c/p\u003e",
+  "content": "On a lot of IndieWeb sites, I noticed that profile images of webmentions get directly embedded from their original source. For example, Twitter profile images are loaded directly from Twitter servers (pbs.twimg.com) or even my profile image is directly embedded from my site. However you should consider enabling Content Security Policy (CSP) headers and only allow embedded content from trusted sites (your own domains). It could always happen that a site gets hacked and malware injected or a domain expires and some spammers register it again, that will also affect your website’s visitors. You won’t even notice it. To solve this, you basically have two options: don’t display them at all, or download those images and serve the downloaded copy. And don’t forget to enable CSP headers on your site! Update: Sebastiaan Andeweg wrote a reply and linked his article, about how he hacked his own website! If you use PHP for your IndieWeb site, make sure to read it!",
   "name": "The security risk of embedding images from external sites",
   "post-type": "article",
   "published": "2020-01-22T08:43:15+01:00",

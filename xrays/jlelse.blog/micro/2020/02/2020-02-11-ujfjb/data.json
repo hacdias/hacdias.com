@@ -2,7 +2,7 @@
   "author": {
     "name": "jlelse’s Blog",
     "nickname": "en",
-    "photo": "https://jlelse.dev/profile.png",
+    "photo": "https://cdn.hacdias.com/wm/83c17beb191734b06ea23473d6dbbc9f2c48e10943a69ddf24d5a77f9b9a555c.png",
     "type": "card",
     "url": "https://jlelse.blog"
   },
@@ -10,7 +10,7 @@
     "Mastodon",
     "ActivityStreams"
   ],
-  "content": "\u003cp\u003eYou’re right, I just took another look at the specs and corrected the template and added the “mediaType” attribute and set it to HTML. Now \u003ca href=\"https://github.com/tsileo/microblog.pub\"\u003emicroblog.pub\u003c/a\u003e shows the summary correctly (even with rendered HTML), Pleroma shows the content correctly (without markup), but Mastodon shows the raw HTML code of the summary. :thinking_face:\u003c/p\u003e",
+  "content": "You’re right, I just took another look at the specs and corrected the template and added the “mediaType” attribute and set it to HTML. Now microblog.pub shows the summary correctly (even with rendered HTML), Pleroma shows the content correctly (without markup), but Mastodon shows the raw HTML code of the summary. :thinking_face:",
   "in-reply-to": [
     "https://hacdias.com/2020/02/11/5/"
   ],

@@ -1,11 +1,11 @@
 {
   "author": {
     "name": "Sebastiaan Andeweg",
-    "photo": "https://seblog.nl/photo.jpg",
+    "photo": "https://cdn.hacdias.com/wm/438c4dde7ce38e04d6e14d8a61aa40a9f5887a82a7af1b4263f466859a080edd.jpg",
     "type": "card",
     "url": "https://seblog.nl/"
   },
-  "content": "\u003cp\u003eAs you can see on my site: at the time of writing I don't have them. I do show a line with a summary of the post. It shows the author's name, the post's title or just 'a post' if nothing is available. I have been planning for a long time to add context to it, but I would only do that on the detail-pages: on feeds I would keep it as is. I think that might work very nicely for your design too! But: as long as you show any preview at all, you're not cutting the complexity of the Mf2-fetching.\u003c/p\u003e \u003cp\u003eAddition: I like to save the context for my own archive too. My site even saves a copy of the image if I like a photo-post, even though it does not display. So: I myself would not want to loose the complexity of the Mf2-fetching, for it has other benefits.\u003c/p\u003e",
+  "content": "As you can see on my site: at the time of writing I don\u0026#39;t have them. I do show a line with a summary of the post. It shows the author\u0026#39;s name, the post\u0026#39;s title or just \u0026#39;a post\u0026#39; if nothing is available. I have been planning for a long time to add context to it, but I would only do that on the detail-pages: on feeds I would keep it as is. I think that might work very nicely for your design too! But: as long as you show any preview at all, you\u0026#39;re not cutting the complexity of the Mf2-fetching. Addition: I like to save the context for my own archive too. My site even saves a copy of the image if I like a photo-post, even though it does not display. So: I myself would not want to loose the complexity of the Mf2-fetching, for it has other benefits.",
   "in-reply-to": [
     "https://hacdias.com/notes/2020/04/08/3/context-boxes/"
   ],

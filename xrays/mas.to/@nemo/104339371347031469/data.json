@@ -2,11 +2,11 @@
   "author": {
     "name": "nemo",
     "nickname": "nemo",
-    "photo": "https://media.mas.to/masto-public/accounts/avatars/000/151/244/original/c0322cd63f1b82b3.png",
+    "photo": "https://cdn.hacdias.com/wm/e97ee08ebcf279380f57609a6101843e508b1bff5f2874f0ab75c31c9fdb4e3d.png",
     "type": "card",
     "url": "https://mas.to/@nemo"
   },
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://fosstodon.org/@kev\" class=\"u-url\"\u003e@\u003cspan\u003ekev\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e hah cool i also use a thinkpad with PopOS😂 👍\u003c/p\u003e",
+  "content": "@kev hah cool i also use a thinkpad with PopOS😂 👍",
   "post-type": "note",
   "published": "2020-06-13T23:54:18Z",
   "type": "entry",
