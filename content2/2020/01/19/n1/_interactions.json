@@ -1,0 +1,10 @@
+{
+  "targets": [
+    "https://jlelse.blog/"
+  ],
+  "webmentions": [
+    "https://jlelse.blog/thoughts/2020/01/optimizing-software/",
+    "https://hacdias.com/articles/2020/10/rebuilding-eagle-cms/",
+    "https://hacdias.com/articles/2020/10/rebuilding-eagle-cms/"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "targets": [
+    "https://hacdias.com/micro/2021/10/new-eagle-look/",
+    "https://github.com/hacdias/eagle/blob/main/server/tailscale.go",
+    "https://github.com/hacdias/eagle/blob/86fb5489e6ee3488692377d74f7fd64493841b32/server/static.go#L76-L102"
+  ],
+  "webmentions": [
+    "https://jlelse.blog/micro/2021/10/2021-10-27-busfs"
+  ]
+}

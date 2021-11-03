@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "http://luissoares.com/",
+    "https://github.com/refactors/imdb-widget",
+    "https://wordpress.org/plugins/imdb-widget/",
+    "https://github.com/refactors/github-profile-widget",
+    "https://wordpress.org/plugins/github-profile-widget/",
+    "https://github.com/refactors/hackerrank-profile-widget",
+    "https://wordpress.org/plugins/hackerrank-profile-widget/"
+  ],
+  "webmentions": []
+}

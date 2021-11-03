@@ -1,0 +1,23 @@
+{
+  "targets": [
+    "https://en.wikipedia.org/wiki/Serra_da_Estrela",
+    "https://en.wikipedia.org/wiki/Koch_snowflake",
+    "https://www.youtube.com/watch?v=HXTC5LSep3M",
+    "https://iternal.us/what-is-a-fractal",
+    "https://www.youtube.com/watch?v=gB9n2gHsHN4",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API"
+  ],
+  "webmentions": [
+    "https://twitter.com/mholt6/status/1361206528141844482",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-61255762",
+    "https://jlelse.blog/links/2021/02/fractal-snowflakes",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1028353082206367744",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1065361423637889025",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1200082629602824194",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-35444603",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1300027635846787072",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1027529251682181120",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-9834062",
+    "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1002782770978906112"
+  ]
+}

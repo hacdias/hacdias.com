@@ -1,0 +1,14 @@
+{
+  "targets": [
+    "https://hacdias.com/articles/2020/09/recently/",
+    "https://hacdias.com/follow/",
+    "https://twitter.com/adlrocha",
+    "https://hacdias.com/photos",
+    "https://hacdias.com/photos/2020/moving-to-eindhoven/",
+    "http://dekatemousa.nl/"
+  ],
+  "webmentions": [
+    "https://twitter.com/hacdias/status/1311562183856320512#favorited-by-167414251",
+    "https://twitter.com/hacdias/status/1311562183856320512#favorited-by-1065361423637889025"
+  ]
+}

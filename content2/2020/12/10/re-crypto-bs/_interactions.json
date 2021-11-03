@@ -1,0 +1,13 @@
+{
+  "targets": [
+    "https://vimeo.com/ondemand/bitcoin",
+    "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/",
+    "https://www.exodus.io/blog/proof-of-work-vs-proof-of-stake/",
+    "https://en.wikipedia.org/wiki/Smart_contract",
+    "https://jlelse.blog/thoughts/2020/12/crypto-bs"
+  ],
+  "webmentions": [
+    "https://nest.jakl.one/likes/2020-12-12-h4tev/",
+    "https://jlelse.blog/thoughts/2020/12/crypto-bs"
+  ]
+}

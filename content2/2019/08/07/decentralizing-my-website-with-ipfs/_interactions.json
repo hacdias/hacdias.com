@@ -1,0 +1,23 @@
+{
+  "targets": [
+    "http://daviddias.me",
+    "https://github.com/ipfs-shipyard/ipfs-companion#install",
+    "https://gohugo.io/",
+    "https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml",
+    "https://github.com/ipfs-shipyard/ipfs-deploy",
+    "https://github.com/agentofuser",
+    "https://github.com/ipfs-shipyard/ipfs-desktop",
+    "https://pinata.cloud",
+    "https://github.com/ipfs-shipyard/ipfs-deploy#pinata",
+    "https://www.cloudflare.com/distributed-web-gateway/",
+    "https://blog.cloudflare.com/continuing-to-improve-our-ipfs-gateway/",
+    "https://github.com/ipfs-shipyard/ipfs-deploy#cloudflare",
+    "https://github.com/ipfs-shipyard/ipfs-desktop#install",
+    "https://github.com/ipfs-shipyard/ipfs-companion"
+  ],
+  "webmentions": [
+    "https://twitter.com/prdpXbot/status/1277942501278531584",
+    "https://commentpara.de/comment/684.htm",
+    "https://social.johanbove.info/2021/02/02/decentralizing-my-website-with-ipfs---hacdiass-blog"
+  ]
+}

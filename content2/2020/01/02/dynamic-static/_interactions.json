@@ -1,0 +1,19 @@
+{
+  "targets": [
+    "https://hacdias.com/articles/2020/01/building-micropub/",
+    "https://discourse.gohugo.io/t/use-hugo-watch-in-production/22599/14",
+    "https://hacdias.com/micro/2019/12/two-packages/",
+    "https://aaronparecki.com/",
+    "http://tantek.com/",
+    "https://parsedown.org",
+    "https://indieweb.org/database-antipattern"
+  ],
+  "webmentions": [
+    "https://blog.ipfs.io/weekly-73/",
+    "https://twitter.com/hacdias/status/1212881805096996864#favorited-by-1028353082206367744",
+    "https://twitter.com/vmx/status/1212893281073410049",
+    "https://hacdias.com/2020/01/02/7/",
+    "https://hacdias.com/articles/2020/10/rebuilding-eagle-cms/",
+    "https://hacdias.com/articles/2020/10/rebuilding-eagle-cms/"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "targets": [
+    "https://hacdias.com",
+    "https://github.com/hacdias",
+    "https://www.linkedin.com/in/hacdias/",
+    "https://tue.nl",
+    "https://dekatemousa.nl/",
+    "https://tecnico.ulisboa.pt",
+    "https://protocol.ai",
+    "http://testground.ai/",
+    "https://github.com/ipfs/ipfs-desktop",
+    "https://github.com/ipfs/ipfs-webui",
+    "https://awesome.ipfs.io",
+    "https://upframe.io",
+    "https://eco.sapo.pt/2017/03/21/upframe-ou-o-programa-de-pre-aceleracao-que-a-startup-lisboa-fez-seu/",
+    "https://www.startuplisboa.com/startuplisboanews/upframe-o-novo-programa-de-pr-acelerao-powered-by-startup-lisboa",
+    "https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/",
+    "https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/",
+    "https://pplware.sapo.pt",
+    "https://pplware.sapo.pt/author/henrique_dias/",
+    "https://kids.pplware.sapo.pt/author/henrique_dias/",
+    "https://hacdias.com/downloads/aprenda_a_programar.pdf",
+    "https://github.com/hacdias/eagle",
+    "https://hacdias.com/meta/",
+    "https://caddyserver.com/",
+    "https://hacdias.com/articles/2015/09/caddy-plugins/",
+    "https://github.com/filebrowser/filebrowser",
+    "http://oni.dcc.fc.up.pt/2017/",
+    "http://oni.dcc.fc.up.pt/2016/",
+    "https://jovens.parlamento.pt/index_2016.html",
+    "https://app.parlamento.pt/Webjovem2013/index.html",
+    "https://app.parlamento.pt/Webjovem2012/index.html",
+    "https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/"
+  ],
+  "webmentions": [
+    "https://hacdias.com/about"
+  ]
+}

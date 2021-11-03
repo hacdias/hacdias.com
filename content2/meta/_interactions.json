@@ -1,0 +1,42 @@
+{
+  "targets": [
+    "https://hacdias.com/tags/meta/",
+    "https://hacdias.com/articles/2014/07/apresentacao/",
+    "https://hacdias.com/articles/2015/02/i-have-moved-again/",
+    "https://hacdias.com/articles/2020/05/back-90s/",
+    "https://hacdias.com/uses/#photography",
+    "https://gohugo.io/",
+    "https://hacdias.com/articles/2015/08/farewell-wordpress-hello-hugo/",
+    "https://www.hetzner.com/",
+    "https://www.cloudflare.com/",
+    "https://ipfs.io/",
+    "https://hacdias.com/articles/2019/08/decentralizing-my-website-with-ipfs/",
+    "https://bunny.net/",
+    "https://github.com/hacdias/eagle",
+    "https://hacdias.com/meta#search",
+    "https://hacdias.com/meta#webmentions",
+    "https://github.com/hacdias/silos-collector",
+    "https://trakt.tv",
+    "https://hacdias.com/watches/",
+    "https://www.last.fm/home",
+    "https://hacdias.com/listens/",
+    "https://miniflux.app/",
+    "https://hacdias.com/links/#blogroll",
+    "https://indieweb.org/Webmention",
+    "https://webmention.io/",
+    "https://brid.gy/",
+    "https://telegraph.p3k.io/",
+    "https://microformats.org/",
+    "https://hacdias.com/meta#feeds",
+    "https://hacdias.com/search",
+    "https://docs.meilisearch.com/",
+    "https://capitalizemytitle.com/style/Wiki/",
+    "https://hacdias.com/contact/",
+    "https://hacdias.com/about/",
+    "https://hacdias.com/guestbook/"
+  ],
+  "webmentions": [
+    "https://hacdias.com/resume",
+    "https://hacdias.com/about"
+  ]
+}

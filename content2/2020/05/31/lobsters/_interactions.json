@@ -1,0 +1,10 @@
+{
+  "targets": [
+    "https://lobste.rs?"
+  ],
+  "webmentions": [
+    "https://hacdias.com/micro/2020/06/lobsters/",
+    "https://twitter.com/bixamon/status/1268239059253473280",
+    "https://twitter.com/hacdias/status/1267210269903720454#favorited-by-1260619666621296640"
+  ]
+}

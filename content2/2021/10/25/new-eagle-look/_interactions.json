@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "https://github.com/hacdias/eagle",
+    "https://github.com/spf13/afero",
+    "https://tailscale.com/",
+    "https://jlelse.blog/",
+    "https://git.jlel.se/jlelse/GoBlog/src/branch/master/tailscale.go"
+  ],
+  "webmentions": [
+    "https://hacdias.com/micro/2021/10/routing-through-tailscale/"
+  ]
+}

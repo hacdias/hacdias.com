@@ -1,0 +1,16 @@
+{
+  "targets": [
+    "https://github.com/hacdias/micropub-parser",
+    "https://aaronparecki.com/",
+    "https://github.com/aaronpk/p3k-micropub",
+    "https://github.com/hacdias/indieauth-middleware"
+  ],
+  "webmentions": [
+    "https://twitter.com/hacdias/status/1211996203514290176#favorited-by-844035216",
+    "https://twitter.com/derhess/status/1212107647941517318",
+    "https://twitter.com/hacdias/status/1211996203514290176#favorited-by-799574",
+    "https://twitter.com/hacdias/status/1211996203514290176#favorited-by-14447132",
+    "https://aaronparecki.com/2019/12/31/4/",
+    "https://twitter.com/hacdias/status/1211996203514290176#favorited-by-1037038665648599040"
+  ]
+}

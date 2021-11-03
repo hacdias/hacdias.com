@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "https://twitter.com/mholt6/status/1234133931676454914"
+  ],
+  "webmentions": [
+    "https://twitter.com/hacdias/status/1234224439144964097#favorited-by-61255762"
+  ]
+}

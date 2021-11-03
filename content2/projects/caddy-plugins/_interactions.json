@@ -1,0 +1,14 @@
+{
+  "targets": [
+    "https://caddyserver.com",
+    "https://gohugo.io",
+    "https://jekyllrb.com/",
+    "https://github.com/filebrowser/filebrowser",
+    "https://github.com/hacdias/caddy-v1-minify",
+    "https://github.com/tdewolff/minify",
+    "https://github.com/hacdias/caddy-v1-webdav",
+    "https://github.com/hacdias/caddy-v1-service",
+    "https://github.com/kardianos/service"
+  ],
+  "webmentions": []
+}

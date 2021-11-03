@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://github.com/hacdias",
+    "https://hacdias.com/resume",
+    "http://testground.ai/",
+    "https://github.com/ipfs-shipyard/ipfs-desktop",
+    "https://github.com/ipfs-shipyard/ipfs-webui",
+    "https://upframe.io/",
+    "https://github.com/filebrowser/filebrowser",
+    "https://hacdias.com/caddy-plugins/",
+    "https://hacdias.com/wordpress-widgets/",
+    "https://hacdias.com/downloads/aprenda_a_programar.pdf",
+    "https://pplware.sapo.pt"
+  ],
+  "webmentions": [
+    "https://hacdias.com/about"
+  ]
+}
