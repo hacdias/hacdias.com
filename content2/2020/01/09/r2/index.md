@@ -1,9 +1,0 @@
----
-published: 2020-01-09T19:06:41.651Z
-section: micro
-properties:
-  syndication:
-  - https://twitter.com/hacdias/status/1215349442230001669
----
-
-It's really unfortunate. But I prefer this over giving false expectations.
