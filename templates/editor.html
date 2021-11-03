@@ -15,10 +15,25 @@
       min-height: 30rem;
       resize: vertical;
     }
+
+    .options {
+      margin: 1rem 0;
+    }
+
+    .options  * {
+      margin: 0 !important;
+      width: auto !important;
+      display: inline !important;
+    }
     </style>
 
     <form method=POST>
       <textarea required id=content name=content data-lang=markdown>{{ .Entry.String }}</textarea>
+
+      <div class=options>
+         <label><input type=checkbox name=lastmod {{ if not .Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
+      </div>
+
       <button type="submit" name="action" value="update">Update</button>
     </form>
   </main>
