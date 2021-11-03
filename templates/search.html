@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <main role='main'>
+    <h1>{{ .Title }}</h1>
+
+    <form id='search-form' class='inline-form' style="margin: 1rem 0">
+      <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" {{ with .SearchQuery }}value="{{ . }}"{{ end }} />
+      <input type='submit' value='Go' style="background-color: var(--action); border-color: var(--action)" />
+    </form>
+
+    {{ if not (eq (len .Entries) 0) }}
+      {{ include "list/list" . }}
+    {{ else if eq .SearchQuery "" }}
+      <p>You haven't searched yet!</p>
+    {{ else }}
+      <p>No results found for this search…</p>
+    {{ end }}
+  </main>
+{{ end }}
+
+{{ define "search" }}
+  {{ template "base" . }}
+{{ end }}

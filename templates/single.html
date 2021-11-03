@@ -1,18 +1,38 @@
 {{ define "main" }}
 
 <main role='main'>
-  <header>
+  <article class='h-entry'>
+    <header>
+      <p>
+        {{- include "post/date" . }}
+        {{/* {{- partialCached "post/section" . "single" .Permalink }}
+        {{- partialCached "post/tags" . "single" .Permalink }} */}}
+      </p>
 
-    {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
-  </header>
+    {{/* {{ if not .IsNode }} 
+      <p>
+        {{- partialCached "post/date" . "single" .Permalink }}
+        {{- partialCached "post/section" . "single" .Permalink }}
+        {{- partialCached "post/tags" . "single" .Permalink }}
+      </p>
+      {{ end }} */}}
 
-  {{ with .Entry.Content }}
-    <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>
-  {{ end }}
+      {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
+    </header>
 
-  {{ if not .Entry.NoInteractions }}
-    <div>TODO: Interactions<div>
-  {{ end }}
+    {{/* outdated only if article, note or reply {{- partialCached "post/outdated" . .Permalink }}
+    {{- partialCached "post/embedded" . .Permalink }} */}}
+
+    {{ with .Entry.Content }}
+      <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>
+    {{ end }}
+
+    {{ include "post/footer" . }}
+    
+    {{ if not .Entry.NoInteractions }}
+      <div>TODO: Interactions<div>
+    {{ end }}
+  </article>
 </main>
 
 {{ end }}

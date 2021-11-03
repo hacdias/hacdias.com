@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
 <head>
-  {{ include "head" . }}
+  {{ include "base/head" . }}
 </head>
 <body>
   <div class='container'>
-    {{ include "header" . }}
+    {{ include "base/header" . }}
     {{ template "main" . }}
-    {{ include "footer" . }}
+    {{ include "base/footer" . }}
   </div>
 
   <script type="text/javascript" src="/js/vendor/twemoji.min.js"></script>

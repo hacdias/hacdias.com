@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <main role="main">
+    <div class="copy">
+      {{ md .Content }}
+    </div>
+
+    {{ include "list/list" . }}
+  </main>
+{{ end }}
+
+{{ define "index" }}
+  {{ template "base" . }}
+{{ end }}

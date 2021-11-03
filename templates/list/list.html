@@ -1,4 +1,19 @@
-{{ $pag := $.Paginator -}}
+
+{{ define "list/list" }}
+
+  {{ if eq (len .Entries) 0 }}
+    <p>There are no posts here.</p>
+  {{ else }}
+    <div class='h-feed'>
+    {{ range .Entries }}
+      {{- include "list/card" $ . -}}
+    {{ end }}
+    </div>
+  {{ end }}
+
+{{/* 
+
+  {{ $pag := $.Paginator -}}
 {{ if gt $pag.TotalPages 1 -}}
 <p style="display: flex; font-size: var(--f6)">
   {{ if $pag.HasPrev -}}
@@ -9,3 +24,6 @@
   {{ end -}}
 </p>
 {{ end -}}
+
+*/}}
+{{ end }}

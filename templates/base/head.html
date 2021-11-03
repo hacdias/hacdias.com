@@ -1,4 +1,4 @@
-{{ define "head" }}
+{{ define "base/head" }}
   {{ $description := or .Description .Site.Description }}
   {{ $shortTitle := or .Title .Site.Title }}
   
@@ -15,6 +15,16 @@
 
   <link rel="stylesheet" href="/css/vendor/normalize.css">
   <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/cards.css">
+
+  {{ if eq .Section "photos" }}
+    <link rel="stylesheet" href="/css/photos.base.css">
+  {{ end }}
+
+  {{/* 
+  {{- $photosList := resources.Get "css/photos.list.css" }}
+  {{- $photosSingle := resources.Get "css/photos.single.css" }}
+  {{- $webmentions := resources.Get "css/webmentions.css" }} */}}
 
   {{/* {{ if .IsHome }} */}}
     <link rel="authorization_endpoint" href="https://indieauth.com/auth">

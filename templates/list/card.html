@@ -1,0 +1,35 @@
+{{ define "list/card" }}
+  {{ $isPhotos := eq .Section "photos" }}
+  {{ $isArticles := eq .Section "articles" }}
+  {{ $isMicro := not (or $isPhotos $isArticles) }}
+
+  <article class='h-entry card'>
+    <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="u-url nl link"></a>
+
+    <header>
+      <p>
+        {{- include "post/date" . }}
+        {{/* {{ if not (in  (slice "micro" "articles" "photos") .Section)}}
+          {{- partialCached "post/section" . "single" .Permalink }}
+        {{ end }} */}}
+      </p>
+
+      {{ with .Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
+    </header>
+
+    {{ if or $isMicro $isPhotos }}
+      {{/* {{- partialCached "post/embedded" . .Permalink }} */}}
+      {{ with .Content }}
+        <div class='copy e-content {{ if not $.Title }}p-name{{ end }}'>{{ md . }}</div>
+      {{ end }}
+    {{ else if $isArticles }}
+      {{ with .Summary }}<div class='copy p-summary'><p>{{ md . }}</p></div>{{ end }}
+    {{ end }}
+
+    {{ include "post/footer" . }}
+
+    {{ if $isArticles }}
+      <div class="more">READ MORE</div>
+    {{ end }}
+  </article>
+{{ end }}

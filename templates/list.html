@@ -1,17 +1,12 @@
 {{ define "main" }}
 <main role='main'>
-  <h1>{{ .Entry.Title }}</h1>
+  <h1>{{ .Title }}</h1>
 
-  {{ with .Entry.Content }}
+  {{ with .Content }}
     <div class='copy'>{{ md . }}</div>
   {{ end }}
 
-  <div class='h-feed'>
-
-  {{ range .Entries }}
-    {{ .Permalink }}
-  {{ end }}
-  </div>
+  {{ include "list/list" . }}
 </main>
 {{ end }}
 

@@ -1,4 +1,4 @@
-{{ define "header" }}
+{{ define "base/header" }}
   {{ $notPhotos := not (eq .Entry.Section "photos") }}
 
   {{ if $notPhotos }}
@@ -16,7 +16,7 @@
     {{ if not (eq .Entry.Title "Search") }}
       {{/* <form action="{{ relURL "/search" }}" method="get" class="inline-form"> */}}
       <form action="/search" method="get" class="inline-form">
-        <input required type="text" placeholder='Search…' id="query" name="q">
+        <input required type="text" placeholder='Search…' id="query" name="query">
         <input type="submit" value="Go">
       </form>
     {{ end }}
