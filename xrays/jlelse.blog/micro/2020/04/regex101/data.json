@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Programming"
+  ],
+  "content": "\u003cp\u003e\u003ca href=\"https://regex101.com/\"\u003eregex101.com\u003c/a\u003e is my favorite tool for testing and debugging regular expressions too. It can even generate code. 🤓 Very nice tool! 👍\u003c/p\u003e",
+  "in-reply-to": [
+    "https://beko.famkos.net/2020/04/06/82435/"
+  ],
+  "post-type": "reply",
+  "published": "2020-04-06T11:32:40+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2020/04/regex101"
+}

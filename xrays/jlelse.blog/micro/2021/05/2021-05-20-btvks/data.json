@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "content": "\u003cp\u003eI can now mark text with \u003ccode\u003e==text==\u003c/code\u003e in GoBlog. This is probably even better in some cases than using \u003cstrong\u003ebold text\u003c/strong\u003e. Isn’t it? 🤔\u003c/p\u003e",
+  "post-type": "note",
+  "published": "2021-05-20T20:23:57+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2021/05/2021-05-20-btvks"
+}

@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "Henrique Dias",
+    "photo": "https://hacdias.com/me-256.jpg",
+    "type": "card",
+    "url": "https://hacdias.com"
+  },
+  "content": "\u003cp\u003eDoes anyone have invite for \u003ca href=\"https://lobste.rs?\"\u003ehttps://lobste.rs?\u003c/a\u003e Calling for a friend 😃\u003c/p\u003e",
+  "post-type": "note",
+  "published": "2020-05-31T21:43:57Z",
+  "rels": {
+    "canonical": "https://hacdias.com/micro/2020/05/lobsters/"
+  },
+  "syndication": [
+    "https://twitter.com/hacdias/status/1267210269903720454"
+  ],
+  "type": "entry",
+  "url": "https://hacdias.com/micro/2020/05/lobsters/"
+}

@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Twitter",
+    "Blogs",
+    "Fediverse",
+    "Opinion"
+  ],
+  "content": "\u003cp\u003e\u003ca href=\"https://jlelse.blog/posts/deleted-twitter/\"\u003eI left Twitter\u003c/a\u003e one month ago and didn’t miss it a single time. Reading stories about \u003ca href=\"https://onezero.medium.com/brand-blockers-are-trying-to-scrub-their-feeds-clean-of-every-advertiser-on-twitter-d9c7298f5e6d\"\u003e“Brand Blockers”\u003c/a\u003e (Medium paywall) just gives me the feeling that this was the right decision.\u003c/p\u003e \u003cp\u003eRegarding the “Brand Blockers”: Instead of trying to block hundreds of thousands brands, maybe just block Twitter? Twitter is full of brands. That’s why I first unfollowed everyone and created a list with all the people I followed previously, which had the benefit of a chronological timeline and no promoted tweets in between. And then I left Twitter altogether.\u003c/p\u003e \u003cp\u003eIn addition to the brand problem there are also politics, scandals, trolls and the attitude of people in general. All reasons why I did not want to use this platform anymore.\u003c/p\u003e \u003cp\u003eMeanwhile I only use \u003ca href=\"https://jlelse.blog/posts/miniflux/\"\u003eMiniflux\u003c/a\u003e to follow \u003ca href=\"https://jlelse.blog/blogroll/\"\u003ea selection of blogs\u003c/a\u003e, news sites and \u003ca href=\"https://fediverse.party/en/fediverse\"\u003eFediverse\u003c/a\u003e accounts. To express my opinion I use my blog. No algorithms that think they know what interests me. No promoted tweets.\u003c/p\u003e",
+  "name": "It feels great without Twitter",
+  "post-type": "article",
+  "published": "2020-02-24T08:49:55+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/thoughts/2020/02/twitter-brands"
+}

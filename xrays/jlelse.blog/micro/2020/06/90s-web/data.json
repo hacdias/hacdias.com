@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "content": "\u003cp\u003eThat’s an awesome approach to \u003ca href=\"https://hacdias.com/articles/2020/05/back-90s/\"\u003ecombine the 90s web with the IndieWeb\u003c/a\u003e, Henrique. I really like your new 90s web-inspired website style, well done!\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/articles/2020/05/back-90s/"
+  ],
+  "post-type": "reply",
+  "published": "2020-06-01T07:43:52+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2020/06/90s-web"
+}

@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "content": "\u003cp\u003eI can’t help with the configuration (haven’t used \u003ccode\u003eredir\u003c/code\u003e in Caddy v2 much – you might want to try \u003ca href=\"https://caddyserver.com/docs/caddyfile/matchers#path-regexp\"\u003ethe regex matcher\u003c/a\u003e), but the \u003ca href=\"https://caddy.community/\"\u003eCaddy Community\u003c/a\u003e is probably the right place to ask.\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2021/09/caddy-redirect-subpath/"
+  ],
+  "post-type": "reply",
+  "published": "2021-09-24T08:40:38+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2021/09/2021-09-24-bjucw"
+}

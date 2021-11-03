@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "In response to «Is it time to build my own CMS?» by «Henrique Dias»",
+    "photo": "https://ybbond.id/logo.png",
+    "type": "card",
+    "url": false
+  },
+  "category": [
+    "responses"
+  ],
+  "content": "\u003cp\u003eQuick note, there is error in link destinations at the end of the post. All directing to \u003ca href=\"https://github.com/xwmx/nb\"\u003ehttps://github.com/xwmx/nb\u003c/a\u003e.\u003c/p\u003e \u003cp\u003eI too want to build a CMS! The convenience of editing anywhere, desktop or mobile devices, like using WordPress…\u003cbr /\u003e I think that would improve my willingness to write posts, or document stuffs.\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/articles/2021/02/is-it-time-build-cms/"
+  ],
+  "post-type": "reply",
+  "published": "2021-02-17T02:55:10+07:00",
+  "rels": {
+    "canonical": "https://ybbond.id/responses/response-20210217025510/"
+  },
+  "type": "entry",
+  "url": "https://ybbond.id/responses/response-20210217025510/"
+}

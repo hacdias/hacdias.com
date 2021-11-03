@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Anonymous",
+    "photo": "https://commentpara.de/img/anonymous.svg",
+    "type": "card",
+    "url": false
+  },
+  "content": "Dont forget to open the used Port in the Settings of the VPS!",
+  "in-reply-to": [
+    "https://hacdias.com/articles/2020/11/access-network-behind-cgnat/"
+  ],
+  "post-type": "reply",
+  "type": "entry",
+  "url": "https://commentpara.de/comment/818.htm"
+}

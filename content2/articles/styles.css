@@ -1,0 +1,6 @@
+@media screen and (min-width: 38rem) {
+  body {
+    background: #f1c40f url(/articles/pencils.svg) repeat-x bottom;
+    background-attachment: fixed;
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "Jan Boddez",
+    "photo": "https://jan.boddez.net/images/photo.jpg",
+    "type": "card",
+    "url": "https://jan.boddez.net/"
+  },
+  "content": "\u003cp\u003e\u003ci\u003eIn reply to \u003ca class=\"u-in-reply-to\" href=\"https://hacdias.com/articles/2020/05/back-90s/\"\u003ehttps://hacdias.com/articles/2020/05/back-90s/\u003c/a\u003e.\u003c/i\u003e\u003c/p\u003e \u003cp\u003eLove the animated GIFs! The background!\u003c/p\u003e \u003cp\u003eOne thing: my feed reader has a hard time handling the relative image URLs in your RSS … (Hint: \u003ca href=\"https://validator.w3.org/feed/docs/warning/ContainsRelRef.html\"\u003ehttps://validator.w3.org/feed/docs/warning/ContainsRelRef.html\u003c/a\u003e. [I only know about this link because I ran into the same thing —different blog, though—earlier this week.])\u003c/p\u003e \u003cp\u003e(Also, I couldn’t help but notice that RSS items lack the “context” that makes replies and such so much more understandable. Not a huge issue, just thought I’d let you know.)\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/articles/2020/05/back-90s/"
+  ],
+  "post-type": "reply",
+  "published": "2020-06-01T15:20:27+02:00",
+  "type": "entry",
+  "url": "https://jan.boddez.net/notes/b6b59a1630"
+}

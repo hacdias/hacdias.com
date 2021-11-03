@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Git",
+    "GitKraken",
+    "lazygit"
+  ],
+  "content": "\u003cp\u003eAfter Kev Quirk was initially skeptical about Git and was desperate about using it, \u003ca href=\"https://kevq.uk/i-now-know-how-to-use-git/\"\u003ehe finally made it\u003c/a\u003e thanks to community help and realized that Git is better than he thought:\u003c/p\u003e \u003cblockquote\u003e \u003cp\u003eAfter 30 minutes I had successfully carried out my first commit and push from the Git CLI. I have to say, once the basics had clicked into place for me, the whole thing became much simpler to follow.\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eI think I myself started using Git when I was programming an Android app with online friends and we all wanted to work together on the code base. Back then, I was a full Windows user and used the \u003ca href=\"https://www.sourcetreeapp.com/\"\u003eSourceTree\u003c/a\u003e tool (because I didn’t know much about the Git CLI).\u003c/p\u003e \u003cp\u003eEventually \u003ca href=\"https://www.gitkraken.com/\"\u003eGitKraken\u003c/a\u003e came out and became my tool of choice because I could use it on Linux as well. Meanwhile I mainly use \u003ca href=\"https://github.com/jesseduffield/lazygit/\"\u003elazygit\u003c/a\u003e. (\u003ca href=\"https://jlelse.blog/thoughts/2019/git-clients/\"\u003eWhich I’ve already written about.\u003c/a\u003e) I can do the basic things via the Git CLI (clone, add, comit, push, …), but I still prefer to see what I am doing visualized. And often it’s much faster and easier that way.\u003c/p\u003e \u003cp\u003eFor my studies and apprenticeship I had or have to use SVN and I’m really glad that there is Git and so many tools to work with Git…\u003c/p\u003e",
+  "name": "Git is great",
+  "post-type": "article",
+  "published": "2020-05-11T15:51:16+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/thoughts/2020/05/git-is-great"
+}

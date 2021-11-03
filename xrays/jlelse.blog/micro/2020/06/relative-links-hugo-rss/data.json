@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Hugo"
+  ],
+  "content": "\u003cblockquote\u003e \u003cp\u003eThat’ll be hard to do with Hugo. There’s no way to tell it to use absolute URLs in the feeds only. I’ll need to set up an extra step of some kind. I’ll check it out.\u003c/p\u003e \u003c/blockquote\u003e \u003cp\u003eI use a partial in my Hugo theme to replace relative links with absolute links in the content in \u003ca href=\"https://git.jlel.se/jlelse/Indiego/src/commit/251b2317dcf97acf2e2dc668aa153e76833b0fe7/layouts/partials/cleanedContent.xml\"\u003eXML\u003c/a\u003e (RSS) and \u003ca href=\"https://git.jlel.se/jlelse/Indiego/src/commit/251b2317dcf97acf2e2dc668aa153e76833b0fe7/layouts/partials/cleanedContent.json\"\u003eJSON\u003c/a\u003e (JSON Feed, ActivityStream) files. It has a regular expression to find and replace all relative links with their abolute version. It’s probably easy to modify to replace relative image sources too.\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/micro/2020/06/janboddez-rss-relative-links/"
+  ],
+  "post-type": "reply",
+  "published": "2020-06-01T20:11:18+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2020/06/relative-links-hugo-rss"
+}

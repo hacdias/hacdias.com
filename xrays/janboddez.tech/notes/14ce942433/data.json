@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "Jan Boddez",
+    "photo": "https://jan.boddez.net/images/photo.jpg",
+    "type": "card",
+    "url": "https://jan.boddez.net/"
+  },
+  "content": "\u003cp\u003e\u003ci\u003eIn reply to \u003ca class=\"u-in-reply-to\" href=\"https://hacdias.com/notes/2020/04/08/3/context-boxes/\"\u003ehttps://hacdias.com/notes/2020/04/08/3/context-boxes/\u003c/a\u003e.\u003c/i\u003e\u003c/p\u003e \u003cp\u003eDefinitely useful! (I’m also still searching for a better way to display such context, and for now tend to explicitly mention the URL I’m referring to do, and maybe a blockquote. Minimal, but works.)\u003c/p\u003e \u003cp\u003eI still mostly follow blogs via RSS, however, and items in quite a few feeds out there (including yours, it seems) don’t show much context at all, which honestly \u003cem\u003ecan\u003c/em\u003e be a bit confusing.\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/notes/2020/04/08/3/context-boxes/"
+  ],
+  "post-type": "reply",
+  "published": "2020-04-09T08:10:00+02:00",
+  "syndication": [
+    "https://geekcompass.com/@jan/103967137117576468"
+  ],
+  "type": "entry",
+  "url": "https://jan.boddez.net/notes/14ce942433"
+}

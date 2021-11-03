@@ -1,0 +1,31 @@
+.entry {
+  padding: var(--box-padding);
+  margin: var(--half-space) 0;
+  background: #feff9c;
+  transform: rotate(0.5deg);
+  font-size: var(--f6);
+}
+
+.entry:nth-child(3n - 1) {
+  background: #ff7eb9;
+}
+
+.entry:nth-child(3n + 0) {
+  background: #7afcff;
+}
+
+.entry:nth-child(2n) {
+  transform: rotate(-0.5deg);
+}
+
+.entry a:hover {
+  background: none;
+}
+
+#button {
+  display: block;
+}
+
+#button button {
+  width: 100%;
+}

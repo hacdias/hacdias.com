@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "content": "\u003cp\u003eMy \u003cem\u003ehome and code server\u003c/em\u003e now has 2 TB of SSD storage and 16 GB of RAM. While I’ll be using the storage for backups, etc., I’m not quite sure what I can use the 16 GB of RAM for yet. What else can I run besides Home Assistant, AdGuard Home, Drone and Tailscale? I still have my VPS running my websites, Miniflux, Bitwarden, Firefox Sync Server, RSS-Bridge, Firefly III, Nitter and Gitea. 🤔\u003c/p\u003e",
+  "post-type": "note",
+  "published": "2021-10-20T18:46:34+02:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2021/10/2021-10-20-lhigd"
+}

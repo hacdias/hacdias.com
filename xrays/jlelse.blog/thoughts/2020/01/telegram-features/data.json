@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Telegram"
+  ],
+  "content": "\u003cp\u003eI think I’m in some kind of bubble, but most of the people I instant message with use Telegram, because either they are computer science students too or because I convinced (or persuaded) them.\u003c/p\u003e \u003cp\u003eMy top features (that can convince geeks) are: cross device cloud sync (with clients for almost any platform and perfect notification handling), bots and the bots API (I use that for two of my projects) and night mode.\u003c/p\u003e \u003cp\u003eFeatures that can probably convince “normal” people: It’s fast, it looks pretty and is highly customizable, it doesn’t waste storage (because you can configure to just keep files cached for a specific time) and stickers (also animated stickers).\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eAnd not to forget\u003c/strong\u003e: You can message people and they won’t see your phone number unless you explicitly share it with them (at least when you configured a username)!\u003c/p\u003e \u003cp\u003eBut yeah, it’s still hard to change people’s routines. 😒\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/2020/01/30/4/"
+  ],
+  "name": "My favorite Telegram features",
+  "post-type": "reply",
+  "published": "2020-01-30T21:30:11+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/thoughts/2020/01/telegram-features"
+}

@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "content": "\u003cp\u003eI don’t show webmention content at all. 😅 Instead I just show a link to the “interaction”. That removes a lot of complexity with parsing, storing etc. but probably isn’t as intuitive: it requires opening the “interactions” section below the post and visiting the link.\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/2020/01/22/1/"
+  ],
+  "post-type": "reply",
+  "published": "2020-01-22T10:28:31+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2020/01/2020-01-22-fryan"
+}

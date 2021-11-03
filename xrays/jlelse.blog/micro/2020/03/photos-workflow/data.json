@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "Micropub",
+    "Photos",
+    "BunnyCDN",
+    "Tinify"
+  ],
+  "content": "\u003cp\u003eI use \u003ca href=\"https://bunnycdn.com/\"\u003eBunnyCDN\u003c/a\u003e as storage for my Micropub media endpoint, where I upload all the photos and other media files I publish on my blog. When I upload a new photo the media endpoint first uploads the original file with the name of it’s SHA-256 hash value (so when I upload the same file multiple times, it doesn’t create multiple files). When I upload an image (JPEG or PNG) it also gets optimized and resized to a maximum width of 2000 pixels \u003ca href=\"https://jlelse.blog/links/2020/01/tinify/\"\u003eusing the Tinify API\u003c/a\u003e (and then uploaded to BunnyCDN too), doing that significantly reduces the file size of the images displayed on my blog.\u003c/p\u003e \u003cp\u003eIt would be probably awesome to also serve different formats based on the \u003ccode\u003eAccept\u003c/code\u003e HTTP header (WebP for browsers that support it) or different sizes, but I decided I want to hold my perfectionism (and the complexity) in check and settle for using just one optimized file version in the original file format. If at some point all browsers \u003ca href=\"https://caniuse.com/#feat=webp\"\u003esupport WebP\u003c/a\u003e, I might consider using only WebP files, but until then it still takes time.\u003c/p\u003e \u003cp\u003eAt the moment I don’t backup the files from BunnyCDN (I trust that they - or I - don’t accidentally delete them), but I could probably setup a cron job to regularly copy new files via FTP from their storage to another storage.\u003c/p\u003e",
+  "in-reply-to": [
+    "https://hacdias.com/notes/2020/03/05/1/"
+  ],
+  "post-type": "reply",
+  "published": "2020-03-06T11:58:25+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2020/03/photos-workflow"
+}

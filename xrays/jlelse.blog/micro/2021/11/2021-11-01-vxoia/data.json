@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "jlelse’s Blog",
+    "nickname": "en",
+    "photo": "https://jlelse.dev/profile.png",
+    "type": "card",
+    "url": "https://jlelse.blog"
+  },
+  "category": [
+    "GoBlog"
+  ],
+  "content": "\u003cp\u003eSo cool, I have a \u003cstrong\u003elive preview\u003c/strong\u003e in the GoBlog editor now! 🤓\u003c/p\u003e \u003cp\u003e\u003ca href=\"https://media.jlelse.blog/e700cd2347c89e28a199f268a725a2f29b310413c69dc6ef459013409e9594b9.png\"\u003e\u003cimg src=\"https://media.jlelse.blog/e700cd2347c89e28a199f268a725a2f29b310413c69dc6ef459013409e9594b9.png\" alt=\"Screenshot of the live preview\" title=\"Screenshot of the live preview\" /\u003e\u003c/a\u003e\u003c/p\u003e \u003cp\u003eI debated for a long time whether to integrate a JavaScript-based Markdown editor, but I like this solution with just a bit of vanilla JavaScript and WebSockets much better! It’s also the first time I used WebSockets and I didn’t think it would be so easy….\u003c/p\u003e",
+  "post-type": "note",
+  "published": "2021-11-01T18:53:16+01:00",
+  "type": "entry",
+  "url": "https://jlelse.blog/micro/2021/11/2021-11-01-vxoia"
+}
