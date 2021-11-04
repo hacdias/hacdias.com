@@ -49,18 +49,10 @@
 
   {{- if .Get "link" }}</a>{{ end -}}
 
-  {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+  {{- if (.Get "caption")  -}}
     <figcaption>
-      {{ with (.Get "title") -}}
-        <h4>{{ . }}</h4>
-      {{- end -}}
-      {{- if or (.Get "caption") (.Get "attr") -}}<p>
+      {{- if .Get "caption" -}}<p>
         {{- .Get "caption" | markdownify -}}
-        {{- with .Get "attrlink" -}}
-          <a href="{{ . }}">
-        {{- end -}}
-        {{- .Get "attr" | markdownify -}}
-        {{- if .Get "attrlink" }}</a>{{ end }}</p>
       {{- end }}
     </figcaption>
   {{- end }}
