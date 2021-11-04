@@ -1943,6 +1943,11 @@
   ],
   "series": [
     {
+      "title": "Kurzgesagt - In a Nutshell",
+      "watched": "2021-11-03T21:47:10.000Z",
+      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
+    },
+    {
       "title": "Young Sheldon",
       "watched": "2021-10-31T14:36:29.000Z",
       "url": "https://trakt.tv/shows/young-sheldon"
@@ -1966,11 +1971,6 @@
       "title": "The Good Doctor",
       "watched": "2021-10-28T19:51:45.000Z",
       "url": "https://trakt.tv/shows/the-good-doctor"
-    },
-    {
-      "title": "Kurzgesagt - In a Nutshell",
-      "watched": "2021-10-14T11:53:56.000Z",
-      "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
     },
     {
       "title": "Downton Abbey",
