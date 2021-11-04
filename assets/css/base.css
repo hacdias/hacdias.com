@@ -543,15 +543,6 @@ figure.right {
   height: 100%;
 }
 
-span.task-list + ul {
-  list-style: none;
-  padding-left: 0.5rem;
-}
-
-span.task-list + ul input {
-  margin-right: 0.5rem;
-}
-
 @media screen and (max-width: 40rem) {
   :root {
     --space: 1rem;
