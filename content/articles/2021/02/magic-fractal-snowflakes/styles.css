@@ -3,10 +3,9 @@
 }
 
 body {
-  background-color: #4b7bec;
-  background-image: url(snowflake.svg);
-  background-size: 50px;
-  background-attachment: fixed;
+  background: #4b7bec url(snowflake.svg) !important;
+  background-size: 50px !important;
+  background-attachment: fixed !important;
 }
 
 .snowflakes {

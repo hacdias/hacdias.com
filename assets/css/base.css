@@ -63,6 +63,17 @@ body {
     sans-serif;
 }
 
+body.s-micro {
+  background: white url(/micro/pattern.jpg);
+  background-size: 400px;
+  background-attachment: fixed;
+}
+
+body.s-articles {
+  background: #f1c40f url(/articles/pencils.svg) repeat-x bottom;
+  background-attachment: fixed;
+}
+
 code, kbd, samp, pre {
   font-family: SFMono-Regular,
     Consolas,
