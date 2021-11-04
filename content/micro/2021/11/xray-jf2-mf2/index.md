@@ -1,0 +1,8 @@
+---
+dataId: 146f3b434c5c813d509cc919e0fb410dd6db34b59b9a855e598886ec1af363d2
+tags:
+- meta
+date: 2021-11-04T19:58:47.370047169Z
+---
+
+I've been diving a bit into the Microformats and JF2 formats and I was quite confused today. On my new system, I'm storing some properties as a "flattened" version of Microformats. For some reason I assumed that was JF2, but it isn't! [Here's a nice read!](https://aaronparecki.com/2017/04/24/15/jf2)
