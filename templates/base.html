@@ -11,8 +11,8 @@
     {{ include "base/footer" . }}
   </div>
 
-  <script type="text/javascript" src="/js/vendor/twemoji.min.js"></script>
-  <script type="text/javascript" src="/js/app.js"></script>
+  <script type="text/javascript" src="{{ relURL "/js/vendor/twemoji.min.js" }}"></script>
+  <script type="text/javascript" src="{{ relURL "/js/app.js" }}"></script>
 </body>
 </html>
 {{ end }}

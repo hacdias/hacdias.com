@@ -13,27 +13,25 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" href="/favicon.ico" type=image/x-icon>
 
-  <link rel="stylesheet" href="/css/vendor/normalize.css">
-  <link rel="stylesheet" href="/css/base.css">
-  <link rel="stylesheet" href="/css/cards.css">
+  <link rel="stylesheet" href="{{ relURL "/css/vendor/normalize.css" }}">
+  <link rel="stylesheet" href="{{ relURL "/css/base.css" }}">
+  <link rel="stylesheet" href="{{ relURL "/css/cards.css" }}">
+  <link rel="stylesheet" href="{{ relURL "/css/webmentions.css" }}">
 
   {{ if eq .Section "photos" }}
-    <link rel="stylesheet" href="/css/photos.base.css">
-
+    <link rel="stylesheet" href="{{ relURL "/css/photos.base.css" }}">
     {{ if .IsListing }}
-      <link rel="stylesheet" href="/css/photos.list.css">
+      <link rel="stylesheet" href="{{ relURL "/css/photos.list.css" }}">
     {{ else }}
-      <link rel="stylesheet" href="/css/photos.single.css">
+      <link rel="stylesheet" href="{{ relURL "/css/photos.single.css" }}">
     {{ end }}
   {{ end }}
 
-  {{/* 
-  {{- $webmentions := resources.Get "css/webmentions.css" }} */}}
-
-  {{/* {{ if .IsHome }} */}}
+  {{ if .IsHome }}
     <link rel="authorization_endpoint" href="https://indieauth.com/auth">
     <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-    <link rel="micropub" href="/micropub">
+
+    <link rel="micropub" href="{{ absURL "/micropub" }}">
     
     {{ range .User.Rels -}}
       <link rel="me" href="{{ . }}" />
@@ -42,7 +40,5 @@
     {{ with .User.PGP -}}
       <link rel="me" href="{{ . }}" rel="pgpkey" />
     {{ end }}
-  {{/* {{ end }} */}}
-
-
+  {{ end }}
 {{ end }}

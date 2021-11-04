@@ -4,7 +4,7 @@
   {{ $isMicro := not (or $isPhotos $isArticles) }}
 
   <article class='h-entry card'>
-    <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="u-url nl link"></a>
+    <a href="{{ relURL .Permalink }}" title="{{ .Title }}" class="u-url nl link"></a>
 
     <header>
       <p>
@@ -17,13 +17,13 @@
       {{ with .Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
     </header>
 
-    {{ $jf2 := .PropertiesAsJF2 }}
+    {{/* {{ $jf2 := .PropertiesAsJF2 }}
     {{ $type := $jf2.Type }}
     {{ $url := $jf2.AsString $jf2.Property }}
 
     {{ if eq $type "reply" }}
       {{ include "post/reply" $url }}
-    {{ end }}
+    {{ end }} */}}
     
 
     {{ if or $isMicro $isPhotos }}

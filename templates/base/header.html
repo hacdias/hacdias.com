@@ -3,10 +3,8 @@
 
   {{ if $notPhotos }}
   <div id='header'>
-    {{/* <a class='nl' href='{{ relURL .Site.BaseURL }}'> */}}
-    <a class='nl' href='/'>
-      {{/* <img alt='Logo' src="{{ relURL "/logo.svg" }}"> */}}
-      <img alt='Logo' src="/logo.svg">
+    <a class='nl' href='{{ relURL "/" }}'>
+      <img alt='Logo' src="{{ relURL "/logo.svg" }}">
       <div>
         <p class='name'>Henrique Dias</p>
         <p class='aka'>aka @hacdias</p>
@@ -14,8 +12,7 @@
     </a>
 
     {{ if not (eq .Entry.Title "Search") }}
-      {{/* <form action="{{ relURL "/search" }}" method="get" class="inline-form"> */}}
-      <form action="/search" method="get" class="inline-form">
+      <form action="{{ relURL "/search" }}" method="get" class="inline-form">
         <input required type="text" placeholder='Search…' id="query" name="query">
         <input type="submit" value="Go">
       </form>
@@ -29,12 +26,12 @@
       <li><label for="toggler"><a class='nl'>🍔 Touch me</a></label></li>
       {{ if not $notPhotos }}
         <li>
-          <a href='/' class='nl'>Home</a>
+          <a href='{{ relURL "/" }}' class='nl'>Home</a>
         </li>
       {{ end }}
       {{ range .Site.Menus.main -}}
         <li>
-          <a href='{{ .Link }}' class='nl'>{{ if $notPhotos }}{{ .Emoji }} {{ end }}{{ .Name }}</a>
+          <a href='{{ relURL .Link }}' class='nl'>{{ if $notPhotos }}{{ .Emoji }} {{ end }}{{ .Name }}</a>
         </li>
       {{ end }}
     </ul>

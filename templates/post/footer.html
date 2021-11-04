@@ -1,8 +1,30 @@
 {{ define "post/footer" }}
-  {{/* <footer>
-    <p>📍 Eindhoven, The Netherlands · ☀️ 25 ℃</p>
-    <p>⏰ {{ include "post/date" . }}</p>
-  </footer> */}}
+  {{ $mf2 := .MF2 }}
+  {{ $location := $mf2.Sub "location" }}
+
+  <!-- TODO:  find a better way -->
+  {{ if not (eq .Section "") }}
+  <footer>
+    {{ with $location }}
+    <p>📍 {{ .LocalityRegionCountry}}<!-- WEATHER? --></p>
+    {{ end }}
+    <p>⏰ {{ include "post/date" . }} {{- include "post/tags" . }}</p>
+  </footer>
+  {{ end }}
+
+
+  <div class="dn">
+    {{/* {{ with .Params.syndication -}}
+      {{ range . -}}
+        <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ . }}</a>
+      {{ end -}}
+    {{ end -}} */}}
+
+    <div class="h-card u-author dn">
+      <data class='u-photo' value="{{ .User.Photo }}">Picture</data>
+      <a href="{{ .User.URL }}" class="u-url p-name">{{ .User.Name }}</a>
+    </div>
+  </div>
 
   {{/* {{- partialCached "post/metadata" . .Permalink }} */}}
 {{ end }}

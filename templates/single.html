@@ -1,41 +1,40 @@
 {{ define "main" }}
 
 <main role='main'>
+  <!-- 
   {{ if .LoggedIn }}
-    <!-- TODO: FIT THIS BETTER -->
+    <!-- TODO: FIT THIS BETTER 
     <a href="?edit=true"><button>Edit</button></a>
-    <!-- TODO: Maybe these can go into the footer. -->
+    <!-- TODO: Maybe these can go into the footer.
     {{ if .Draft }}📜{{ end }}
     {{ if .Private }}🔒{{ end }}
     {{ if .Deleted }}🗑{{ end }}
-  {{ end }}
+  {{ end }} -->
 
   <article class='h-entry'>
-    <header>
-      {{/* {{ if not .IsNode }}  */}}
-      <p>
-        {{- include "post/date" . }}
-       {{/* {{- partialCached "post/section" . "single" .Permalink }} */}}
-        {{/* · 📍 Eindhoven, The Netherlands
-        · ☀️ 25 ℃ */}}
-        · {{- include "post/tags" . }}
-      </p>
-      {{/* {{ end }} */}}
-
-      {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
-
-      {{/* { if eq .Section "articles" }}
-        <p>{{- include "post/date" . }}<p>
-      {{ end }} */}}
-    </header>
-    
-    
-    {{ $jf2 := .PropertiesAsJF2 }}
-    {{ $type := $jf2.Type }}
-    {{ $url := $jf2.AsString $jf2.Property }}
+    {{ $mf2 := .MF2 }}
+    {{ $type := $mf2.PostType }}
 
     {{ if eq $type "reply" }}
-      {{ include "post/reply" $url }}
+      Reply to {{ $mf2.String $mf2.TypeProperty }}
+    {{ else if eq $type "like" }}
+      Like to {{ $mf2.String $mf2.TypeProperty }}
+    {{ else if eq $type "repost" }}
+      Repost of {{ $mf2.String $mf2.TypeProperty }}
+    {{ else if eq $type "bookmark" }}
+      Bookmark of {{ $mf2.String $mf2.TypeProperty }}
+    {{ else if eq $type "checkin" }}
+      {{ $checkin := $mf2.Sub $mf2.TypeProperty }}
+      {{ $url := $checkin.String "url" }}
+      <h1>At {{ with $url }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ end }}{{ $checkin.Name }}{{ with $url }}</a>{{ end }}</h1>
+      <p>{{ $checkin.LocalityCountry }} · {{ $.Published.Format "Mon, 02 Jan 2006 03:04 pm" }}</p>      
+    {{ else if eq $type "note" }}
+      <!-- Do Nothing -->
+    {{ else }}
+      <header>
+        {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
+        {{ if eq .Section "articles" }}<p>{{- include "post/date" . }}<p>{{ end }}
+      </header>
     {{ end }}
 
     <!-- how to simplify this -->
@@ -43,16 +42,14 @@
       {{ include "post/outdated" . }}
     {{ end }}
 
-    {{/* {{- partialCached "post/embedded" . .Permalink }} */}}
-
     {{ with .Entry.Content }}
       <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>
     {{ end }}
 
     {{ include "post/footer" . }}
-    
+
     {{ if not .Entry.NoInteractions }}
-      <div>TODO: Interactions<div>
+      {{ include "post/webmentions" . }} 
     {{ end }}
   </article>
 </main>
