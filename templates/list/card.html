@@ -19,7 +19,7 @@
 
     {{ $jf2 := .PropertiesAsJF2 }}
     {{ $type := $jf2.Type }}
-    {{ $url := $jf2.PropertyURL }}
+    {{ $url := $jf2.AsString $jf2.Property }}
 
     {{ if eq $type "reply" }}
       {{ include "post/reply" $url }}
