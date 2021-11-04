@@ -15,6 +15,30 @@ aliases:
 emoji: "\U0001F3AC"
 ---
 
+<style>
+.small-svg,
+.smaller-svg {
+  text-align: center;
+}
+  
+.small-svg svg {
+  max-height: 25rem;
+}
+
+.smaller-svg svg {
+  max-height: 15rem;
+}
+
+.color {
+  background-color: var(--color);
+  height: 0.8rem; width: 0.8rem;
+  display: inline-block;
+  border: 1px solid var(--dark-gray);
+  margin-right: 0.2rem;
+  margin-bottom: -0.1rem
+}
+</style>
+
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of
 posts, but from the data that I get directly from Trakt's [API](https://trakt.docs.apiary.io/).
 I built a small tool called [`trakt-collector`](https://github.com/hacdias/silos-collector/tree/a7aef3a1bf6693361eec147380b55dccc2ffe1c5/src/trakt) used
@@ -65,21 +89,6 @@ HTML gets generated.
 }
 ```
 
-<style>
-.small-svg,
-.smaller-svg {
-  text-align: center;
-}
-  
-.small-svg svg {
-  max-height: 25rem;
-}
-
-.smaller-svg svg {
-  max-height: 15rem;
-}
-</style>
-
 Meanwhile, I thought: "what about doing some pseudo-analysis to the data I've been collecting?". After
 all, Trakt's "Year in a Review" feature is for premium users, which I'm not. So I've never been able
 to get yearly statistics.
@@ -93,7 +102,7 @@ to get an overview and this is what I got:
 
 {{< figure class="small-svg" src="genres-general.svg" >}}
 
-The unique shows are marked as {{< color "#fed330" >}} and the movies marked as {{< color "#3867d6" >}}. It's clear
+The unique shows are marked as <span class="color" style="--color: #fed330"></span> and the movies marked as <span class="color" style="--color: #3867d6"></span>. It's clear
 that most of the content I watch is drama-related or comedy. Also, please note that a movie or show can be categorized
 as more than one genre.
 
@@ -108,14 +117,14 @@ that happened last year. In addition, it may also be related to the schedule of 
 
 {{< figure class="smaller-svg" src="weekday.svg" >}}
 
-Regarding to which day of the week I usually watch more TV shows - colored with {{< color "#eb3b5a" >}} -, it seems it doesn't matter
+Regarding to which day of the week I usually watch more TV shows - colored with <span class="color" style="--color: #eb3b5a"></span> -, it seems it doesn't matter
 much. Please note that this chart takes the sum of all episodes and movies I watched on each weekday through 2019. In opposition to TV shows, it seems that I clearly watch more movies on Saturdays and Sundays.
 
 And... I decided to leave the most exciting graph to the end. Here's a year map where you can visualize in which days of the year I watched more media.
 
 {{< figure src="year-dist.svg" >}}
 
-The closer a square is to {{< color "#3867d6" >}}, the more episodes or movies I watched on that day. By looking
+The closer a square is to <span class="color" style="--color: #3867d6"></span>, the more episodes or movies I watched on that day. By looking
 to the graph, I'd say that I watched something on about 50% of the days of the year, if not more.
 
 This was actually a nice experiment and I will probably repeat this kind of analysis with other data.
