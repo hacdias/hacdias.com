@@ -10,7 +10,6 @@
     {{ with .Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
   </header>
 
-  {{- partialCached "post/outdated" . .Permalink }}
   {{- partialCached "post/embedded" . .Permalink }}
 
   {{ with .Content }}
