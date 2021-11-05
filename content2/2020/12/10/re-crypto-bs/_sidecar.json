@@ -1,0 +1,49 @@
+{
+  "targets": [
+    "https://vimeo.com/ondemand/bitcoin",
+    "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/",
+    "https://www.exodus.io/blog/proof-of-work-vs-proof-of-stake/",
+    "https://en.wikipedia.org/wiki/Smart_contract",
+    "https://jlelse.blog/thoughts/2020/12/crypto-bs"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile.png",
+      "type": "card",
+      "url": "https://jlelse.dev/"
+    },
+    "content": "One keeps hearing about some cryptocurrency projects and how people got rich with Bitcoin. But somehow I don’t understand the whole purpose behind it and I’m beginning to suspect that it’s just a pyramid scheme.Wouldn’t there be much better ways to exchange money anonymously and uncensored? In order to generate any kind of coins, a lot of electricity is used (also from fossil fuels or atomic energy), but until today no project based on cryptocurrencies or the blockchain principle has really caught on. Or am I wrong?",
+    "published": "2020-12-09T19:37:13Z",
+    "type": "entry",
+    "url": "https://jlelse.blog/thoughts/2020/12/crypto-bs"
+  },
+  "webmentions": [
+    {
+      "author": {
+        "name": "Tomáš Jakl",
+        "photo": "https://cdn.hacdias.com/wm/0861f5687fd05109b9090e723aa3b5adee77bab9822234b38772316d34eaa91d.webp",
+        "type": "card",
+        "url": "https://nest.jakl.one/"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-12-12T09:05:31Z",
+      "type": "entry",
+      "url": "https://nest.jakl.one/likes/2020-12-12-h4tev/"
+    },
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/6ba3ad40db26e74cb47cc332c5887d9f15bc5fb7880d87e7e6addda91859e4d3.png",
+        "type": "card",
+        "url": "https://jlelse.dev/"
+      },
+      "content": "One keeps hearing about some cryptocurrency projects and how people got rich with Bitcoin. But somehow I don’t understand the whole purpose behind it and I’m beginning to suspect that it’s just a pyramid scheme.Wouldn’t there be much better ways to exchange money anonymously and uncensored? In order to generate any kind of coins, a lot of electricity is used (also from fossil fuels or atomic energy), but until today no project based on cryptocurrencies or the blockchain principle has really caught on. Or am I wrong?Update in reply to Henrique Dias:I am aware that “crypto” originally comes from “cryptography” and cryptocurrencies also have to do with cryptography. I was not aware that the Proof of Stake concept existed, but it seems like a good idea to reduce the enormous energy consumption. Thanks for mentioning it!My frustration is similar, I believe, to that posted in this Reddit comment in 2018. Sure, there are certainly good and useful use cases for decentralized, tamper-proof databases and digital, anonymous, uncensored and privacy-friendly payment methods. But at the moment, it seems to me that cryptocurrency trading is more of a gamble with the goal of getting more and more people to invest their money in it, and others to cash out and get rich.",
+      "post-type": "mention",
+      "published": "2020-12-09T19:37:13Z",
+      "type": "entry",
+      "url": "https://jlelse.blog/thoughts/2020/12/crypto-bs"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "targets": [
+    "http://daviddias.me",
+    "https://github.com/ipfs-shipyard/ipfs-companion#install",
+    "https://gohugo.io/",
+    "https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml",
+    "https://github.com/ipfs-shipyard/ipfs-deploy",
+    "https://github.com/agentofuser",
+    "https://github.com/ipfs-shipyard/ipfs-desktop",
+    "https://pinata.cloud",
+    "https://github.com/ipfs-shipyard/ipfs-deploy#pinata",
+    "https://www.cloudflare.com/distributed-web-gateway/",
+    "https://blog.cloudflare.com/continuing-to-improve-our-ipfs-gateway/",
+    "https://github.com/ipfs-shipyard/ipfs-deploy#cloudflare",
+    "https://github.com/ipfs-shipyard/ipfs-desktop#install",
+    "https://github.com/ipfs-shipyard/ipfs-companion"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "prdpXbot",
+        "photo": "https://cdn.hacdias.com/wm/a31a787fb2381d9635de6990b8ae87d59a74ea10dc607d7de5b957f7058e3672.jpg",
+        "type": "card",
+        "url": "https://twitter.com/prdpXbot"
+      },
+      "content": "Decentralizing My Website with IPFS hacdias.com/articles/2019/…",
+      "post-type": "mention",
+      "published": "2020-06-30T12:30:09Z",
+      "type": "entry",
+      "url": "https://twitter.com/prdpXbot/status/1277942501278531584"
+    },
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg",
+        "type": "card",
+        "url": ""
+      },
+      "content": "Following a rabbit hole; great walk through.  👍",
+      "post-type": "reply",
+      "published": "2020-10-24T03:19:51Z",
+      "type": "entry",
+      "url": "https://commentpara.de/comment/684.htm"
+    },
+    {
+      "author": {
+        "name": "Johan Bové",
+        "photo": "https://cdn.hacdias.com/wm/ec1394a2d5d6fcacc33898644619faf8b6382ff3376cf64545812087c118e195.jpg",
+        "type": "card",
+        "url": "https://social.johanbove.info/profile/johan"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2021-02-02T21:58:58+01:00",
+      "type": "entry",
+      "url": "https://social.johanbove.info/2021/02/02/decentralizing-my-website-with-ipfs---hacdiass-blog"
+    }
+  ]
+}

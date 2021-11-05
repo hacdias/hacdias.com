@@ -1,0 +1,25 @@
+{
+  "targets": [
+    "https://trakt.docs.apiary.io/",
+    "https://github.com/hacdias/silos-collector/tree/a7aef3a1bf6693361eec147380b55dccc2ffe1c5/src/trakt",
+    "https://hacdias.com/watches",
+    "https://vega.github.io/vega-lite/",
+    "https://github.com/hacdias/trakt-collector/blob/master/bin/analyse.js"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg",
+        "type": "card",
+        "url": ""
+      },
+      "content": "Hi, have you deleted this project? I so wanted to visualise my data :(",
+      "post-type": "reply",
+      "published": "2021-07-29T18:11:13Z",
+      "type": "entry",
+      "url": "https://commentpara.de/comment/882.htm"
+    }
+  ]
+}

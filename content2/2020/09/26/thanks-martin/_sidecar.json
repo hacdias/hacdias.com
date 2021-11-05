@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://commentpara.de/comment/669.htm"
+  ],
+  "context": {
+    "author": {
+      "name": "Martin",
+      "photo": "https://nt-5.com/self/ikea.jpg",
+      "type": "card",
+      "url": ""
+    },
+    "content": "siickkkk changes, your website is coming together nicely!",
+    "published": "0001-01-01T00:00:00Z",
+    "type": "entry",
+    "url": "https://commentpara.de/comment/669.htm"
+  },
+  "webmentions": []
+}

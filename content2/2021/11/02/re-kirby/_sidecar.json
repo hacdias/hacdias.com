@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://commentpara.de/comment/919.htm"
+  ],
+  "context": {
+    "author": {
+      "name": "Robert",
+      "photo": "https://commentpara.de/img/anonymous.svg",
+      "type": "card",
+      "url": ""
+    },
+    "content": "I use Kirby CMS and love that it is flexible — I can just write a post on my phone, even if I do it rarely. It’s also very fast as the pages get generated and cached until they are changed again. Take a look on this, it’s powerful but simple. :)",
+    "published": "0001-01-01T00:00:00Z",
+    "type": "entry",
+    "url": "https://commentpara.de/comment/919.htm"
+  },
+  "webmentions": []
+}

@@ -1,0 +1,21 @@
+{
+  "targets": [
+    "https://uses.tech/",
+    "https://hacdias.com/uses#hardware",
+    "https://hacdias.com/uses#software",
+    "https://hacdias.com/meta",
+    "https://secrid.com/",
+    "https://www.captureone.com/en",
+    "https://code.visualstudio.com/",
+    "https://www.jetbrains.com/go/",
+    "https://www.vim.org/",
+    "https://iterm2.com/",
+    "https://en.wikipedia.org/wiki/Z_shell",
+    "https://ohmyz.sh/",
+    "https://github.com/hacdias/dotfiles",
+    "https://sparkmailapp.com/",
+    "https://www.hetzner.com/"
+  ],
+  "context": null,
+  "webmentions": []
+}

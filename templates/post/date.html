@@ -2,9 +2,9 @@
   <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
     <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Updated.Format "2 Jan 2006" }}</a>
   </time>
-  <time class='dt-published dn' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "2 Jan 2006" }}</time>
+  <time class='dt-published dn' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04" }}</time>
 {{- else if not .Published.IsZero -}}
   <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
-    <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Published.Format "2 Jan 2006" }}</a>
+    <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Published.Format "02 Jan 2006 15:04" }}</a>
   </time>
 {{- end -}}

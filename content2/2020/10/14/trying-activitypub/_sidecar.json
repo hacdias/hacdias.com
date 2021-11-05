@@ -1,0 +1,19 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/250e9e9449d7c024daf8563ea895fcf1c48be62cd04373495b132b33d909c5d4.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "In reply to https://hacdias.com/micro/2020/10/trying-activitypub/.\nI remember looking at https://github.com/aaronpk/Nautilus/blob/master/app/ActivityPub/HTTPSignature.php a whole lot to finally get signatures—and Accepts—to work. (Could never get Deletes to actually work, though.) 😟",
+      "post-type": "reply",
+      "published": "2020-10-14T12:00:00+02:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/notes/046185c328"
+    }
+  ]
+}

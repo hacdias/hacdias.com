@@ -1,0 +1,162 @@
+{
+  "targets": [
+    "https://twitter.com/daviddias/status/1262684702865076224"
+  ],
+  "context": {
+    "author": {
+      "name": "David Dias",
+      "photo": "https://pbs.twimg.com/profile_images/1171760461395779584/9thqWNW2_normal.jpg",
+      "type": "card",
+      "url": "https://twitter.com/daviddias"
+    },
+    "content": "We've just published a post about our participation at the NDN Seminar (Named Data Networking). It packs 24 very inquisitive questions and answers about #IPFS \u0026 #libp2p https://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/ We hope you enjoy it and that helps you build your understanding of IPFS \u0026 libp2p:)",
+    "published": "2020-05-19T10:01:07Z",
+    "type": "entry",
+    "url": "https://twitter.com/daviddias/status/1262684702865076224"
+  },
+  "webmentions": [
+    {
+      "author": {
+        "name": "Upframe",
+        "photo": "https://cdn.hacdias.com/wm/d074020b913fc0e425158284ce615508075e9ba686a98f80e76cf736ac36504a.jpg",
+        "type": "card",
+        "url": "https://twitter.com/upframed"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-05-19T11:27:18Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-1153734814958333952"
+    },
+    {
+      "author": {
+        "name": "David Dias",
+        "photo": "https://cdn.hacdias.com/wm/807841da08aa01707220ffafccbdf6d62122125d13e714dcbf5578c41278e084.jpg",
+        "type": "card",
+        "url": "https://twitter.com/daviddias"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-05-19T11:27:18Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-200749589"
+    },
+    {
+      "author": {
+        "name": "Malik",
+        "photo": "https://cdn.hacdias.com/wm/7349d98cb7d1938e3adfe7111d543882e90e7914a9cc97fb8ab6c2edc5956e9d.jpg",
+        "type": "card",
+        "url": "https://twitter.com/malikpiara"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-05-19T11:27:26Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-1028353082206367744"
+    },
+    {
+      "author": {
+        "name": "Upframe",
+        "photo": "https://cdn.hacdias.com/wm/d074020b913fc0e425158284ce615508075e9ba686a98f80e76cf736ac36504a.jpg",
+        "type": "card",
+        "url": "https://twitter.com/upframed"
+      },
+      "content": "This is a fantastic compilation of a few questions about IPFS that will help anyone understand the protocol more in-depth with ease. For exp",
+      "post-type": "repost",
+      "published": "2020-05-19T11:02:21Z",
+      "type": "entry",
+      "url": "https://twitter.com/upframed/status/1262700111899103232"
+    },
+    {
+      "author": {
+        "name": "Malik",
+        "photo": "https://cdn.hacdias.com/wm/7349d98cb7d1938e3adfe7111d543882e90e7914a9cc97fb8ab6c2edc5956e9d.jpg",
+        "type": "card",
+        "url": "https://twitter.com/malikpiara"
+      },
+      "content": "This is a fantastic compilation of a few questions about IPFS that will help anyone understand the protocol more in-depth with ease. For exp",
+      "post-type": "repost",
+      "published": "2020-05-19T11:02:10Z",
+      "type": "entry",
+      "url": "https://twitter.com/malikpiara/status/1262700068454440961"
+    },
+    {
+      "author": {
+        "name": "Pedro Teixeira",
+        "photo": "https://cdn.hacdias.com/wm/734547e8a2ceea06f913bf7f70e0b2bc49cabe286946a4529198d00e43a1fcde.jpg",
+        "type": "card",
+        "url": "https://twitter.com/pgte"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-05-19T13:52:05Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-16401507"
+    },
+    {
+      "author": {
+        "name": "Temporal | IPFSTemporal.eth",
+        "photo": "https://cdn.hacdias.com/wm/b621af088705e04e3d9cc6c543803aa76359b8b00f7f81d296f9d9cc560bca12.jpg",
+        "type": "card",
+        "url": "https://twitter.com/Temporalcloud"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-05-19T17:39:34Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-1143620130393296898"
+    },
+    {
+      "author": {
+        "name": "Derrick Foote | Derrickf.eth",
+        "photo": "https://cdn.hacdias.com/wm/5b3ad9b37230195e7e190f2433daa332381aa16a2bfda1eb19a3b07a59732eba.jpg",
+        "type": "card",
+        "url": "https://twitter.com/derrickfoote86"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-05-19T17:39:34Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-1054464791249477632"
+    },
+    {
+      "author": {
+        "name": "Juan Benet",
+        "photo": "https://cdn.hacdias.com/wm/1f3013155434a2187f29fcfd024c584bef6cbbc154158af97ae3ff677d7231be.png",
+        "type": "card",
+        "url": "https://twitter.com/juanbenet"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-05-20T04:52:31Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-15461779"
+    },
+    {
+      "author": {
+        "name": "Agata Krych",
+        "photo": "https://cdn.hacdias.com/wm/4d6bd69a13b16e5325e1896ef170c57fd6f8e68ed4cd022a2485271ec6bfae2d.jpg",
+        "type": "card",
+        "url": "https://twitter.com/agata_krych"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-05-20T05:33:19Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-841224515816427520"
+    },
+    {
+      "author": {
+        "name": "Nyabazar_education",
+        "photo": "https://cdn.hacdias.com/wm/ebb11fa764f44e37c93e19ff5b9b04f6d32664a94a9e916895958541b96ca301.jpg",
+        "type": "card",
+        "url": "https://twitter.com/NyabazarE"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-07-12T11:05:32Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1262689444219535361#favorited-by-1260619666621296640"
+    }
+  ]
+}

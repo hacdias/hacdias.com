@@ -1,0 +1,10 @@
+{
+  "targets": [
+    "http://www.bitkeeper.com/",
+    "http://git-scm.com/",
+    "https://github.com",
+    "http://pplware.com"
+  ],
+  "context": null,
+  "webmentions": []
+}

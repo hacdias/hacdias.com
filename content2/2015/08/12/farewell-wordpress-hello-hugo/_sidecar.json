@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "https://godaddy.com/",
+    "https://www.ptservidor.pt/",
+    "https://www.digitalocean.com/",
+    "https://pages.github.com/",
+    "http://gohugo.io/",
+    "http://gohugo.io/themes/overview/",
+    "https://github.com/hacdias/hacdias.com",
+    "https://www.cloudflare.com/"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Beko Pharm",
+        "photo": "https://cdn.hacdias.com/wm/006e97a2b706840ecb79e6e08d9755d1c68dedbc35704f9fdb2b050092fa10c2.jpg",
+        "type": "card",
+        "url": "https://beko.famkos.net/author/beko/"
+      },
+      "content": "",
+      "post-type": "like",
+      "published": "2020-03-23T14:20:00Z",
+      "type": "entry",
+      "url": "https://beko.famkos.net/2020/03/23/75334/"
+    }
+  ]
+}

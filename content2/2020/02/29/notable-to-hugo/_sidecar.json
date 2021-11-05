@@ -1,0 +1,25 @@
+{
+  "targets": [
+    "https://bear.app/",
+    "https://notable.md/",
+    "https://github.com/notable/notable/issues/432",
+    "https://en.wikipedia.org/wiki/Launchd",
+    "https://developer.github.com/webhooks/"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg",
+        "type": "card",
+        "url": ""
+      },
+      "content": "s/single/simple/\n\ns/lunchd/launchd/\n\n(unless Apple stores now sell sandwiches, I guess...)\n\n\nOtherwise a great article though :)\n\n\nHave you ever considered something like org-mode in Emacs? There are a huge number of export options which could be used as the basis of a site generator (or just fed into Hugo) and it supports inline code quoting allowing for things like Donald Knuth's concept of literate programming.",
+      "post-type": "reply",
+      "published": "2020-11-06T17:04:54Z",
+      "type": "entry",
+      "url": "https://commentpara.de/comment/690.htm"
+    }
+  ]
+}

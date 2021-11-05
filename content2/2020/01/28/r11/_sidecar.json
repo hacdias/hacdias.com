@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2020/01/2020-01-28-ohlec/"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile-512.jpg",
+      "type": "card",
+      "url": "https://jlelse.dev/"
+    },
+    "content": "I also follow “Hey ok yay?” (English) and “Is lieb?” (German, by the same author).",
+    "published": "2020-01-28T11:02:00Z",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2020/01/2020-01-28-ohlec/"
+  },
+  "webmentions": []
+}

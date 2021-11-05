@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2020/03/my-desk/"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile-128.jpg",
+      "type": "card",
+      "url": "https://jlelse.dev/"
+    },
+    "content": "I just had to share a picture of my workplace in the company internal wiki. That’s why I share the same picture again on my blog, so everyone can see how my desk looks like. My dream workplace would look like the one from David Heinemeir Hansson, but unfortunately the reality only looks like this:How does your desk look like?",
+    "published": "2020-03-25T13:45:04Z",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2020/03/my-desk/"
+  },
+  "webmentions": []
+}

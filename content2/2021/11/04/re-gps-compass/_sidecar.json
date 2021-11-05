@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://twitter.com/aaronpk/status/1456237248941232129"
+  ],
+  "context": {
+    "author": {
+      "name": "Aaron Parecki",
+      "photo": "https://pbs.twimg.com/profile_images/1445938874526564354/0a50f0sx_normal.jpg",
+      "type": "card",
+      "url": "https://twitter.com/aaronpk"
+    },
+    "content": "It's open source, but I decided I didn't want to host people's GPS data for multiple reasons so I turned off new user accounts on my instance a couple years ago.",
+    "published": "2021-11-04T12:29:50Z",
+    "type": "entry",
+    "url": "https://twitter.com/aaronpk/status/1456237248941232129"
+  },
+  "webmentions": []
+}
