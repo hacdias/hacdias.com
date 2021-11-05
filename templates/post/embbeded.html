@@ -1,7 +1,8 @@
-{{ define "post/reply" }}
+{{ define "post/embbeded" }}
+  {{ $mf2 := .MF2 }}
   {{ $data := data .Entry }}
   {{ with $data.Context }}
-  <div class="h-cite e-entry bar u-in-reply-to">
+  <div class="h-cite u-{{ $mf2.TypeProperty }}">
     <p>
       <span class="p-author h-card">
         <span class="p-name">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</span>
@@ -13,7 +14,7 @@
       {{- end -}}
     </p>
     {{- with .content -}}
-      <div class="e-content p-name">{{ truncate . 300 }}</div>
+      <div class="e-content p-name copy"><p>{{ truncate . 300 }}</p></div>
     {{- end -}}
   </div>
   {{ end }}

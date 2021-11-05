@@ -6,6 +6,7 @@
   border: var(--border) solid var(--near-white);
 }
 
+.card .h-cite,
 .card h3 {
   margin: 0;
 }
@@ -17,7 +18,7 @@
   margin-left: 0;
 }
 
-.card .copy > *:last-child {
+.card footer {
   margin-bottom: 0;
 }
 

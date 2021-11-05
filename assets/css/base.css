@@ -226,6 +226,14 @@ figcaption p {
   margin: 0.25rem 0;
 }
 
+article header {
+  margin-bottom: 1rem;
+}
+
+article header h1 {
+  margin-bottom: 0;
+}
+
 article footer p,
 article header p {
   font-size: var(--f6);
@@ -387,26 +395,30 @@ details summary {
   line-height: 1.5;
 }
 
-.e-entry {
-  background-color: var(--near-white);
-  position: relative;
-  padding: 1rem;
-  margin: 1rem 0;
+.h-cite .copy p {
+  margin: 0;
 }
 
-.e-entry > p {
+.h-cite > p {
   margin: 0 0 .25rem 0;
 }
 
-.e-entry .e-content {
+.h-cite {
+  background-color: var(--near-white);
+  padding: 1rem;
+  border-radius: var(--radius);
+  margin: 1rem 0;
+}
+
+.h-cite .e-content {
   font-size: var(--f6);
 }
 
-.e-entry .original {
+.h-cite .original {
   font-size: var(--f7);
 }
 
-.e-entry .p-author .p-name {
+.h-cite .p-author .p-name {
   font-weight: 500;
 }
 

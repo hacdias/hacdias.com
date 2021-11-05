@@ -9,6 +9,15 @@
     <p>📍 {{ .LocalityRegionCountry}}<!-- WEATHER? --></p>
     {{ end }}
     <p>⏰ {{ include "post/date" . }} {{- include "post/tags" . }}</p>
+
+    {{ if and .LoggedIn (not .IsListing) }}
+    <p>
+      {{ if .Draft }}📄{{ end }}
+      {{ if .Private }}🔒{{ end }}
+      {{ if .Deleted }}🗑{{ end }}
+      <a href="?edit=true">Edit</a>
+    </p>
+    {{ end }}
   </footer>
   {{ end }}
 
