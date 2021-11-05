@@ -21,6 +21,7 @@
   </footer>
   {{ end }}
 
+  {{/* {{ .MF2.Strings "syndication" }} */}}
 
   <div class="dn">
     {{/* {{ with .Params.syndication -}}
@@ -29,11 +30,11 @@
       {{ end -}}
     {{ end -}} */}}
 
+    
+
     <div class="h-card u-author dn">
       <data class='u-photo' value="{{ .User.Photo }}">Picture</data>
       <a href="{{ .User.URL }}" class="u-url p-name">{{ .User.Name }}</a>
     </div>
   </div>
-
-  {{/* {{- partialCached "post/metadata" . .Permalink }} */}}
 {{ end }}
