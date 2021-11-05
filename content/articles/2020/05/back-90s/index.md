@@ -23,9 +23,9 @@ Over the past months, I have been reading more and more posts where people are [
 <style>
 @media screen and (min-width: 38rem) {
   body {
-    background: #010d2a url(sea.jpg);
-    background-size: 300px;
-    background-attachment: fixed;
+    background: #010d2a url(https://cdn.hacdias.com/u/2020-05-sea-pattern.jpg) !important;
+    background-size: 300px !important;
+    background-attachment: fixed !important;
   }
 }
 </style>

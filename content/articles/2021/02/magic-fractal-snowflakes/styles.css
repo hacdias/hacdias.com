@@ -3,7 +3,7 @@
 }
 
 body {
-  background: #4b7bec url(snowflake.svg) !important;
+  background: #4b7bec url(https://cdn.hacdias.com/u/2021-02-snowflake.svg) !important;
   background-size: 50px !important;
   background-attachment: fixed !important;
 }
