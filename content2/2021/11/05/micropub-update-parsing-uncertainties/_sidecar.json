@@ -1,0 +1,9 @@
+{
+  "targets": [
+    "https://micropub.spec.indieweb.org/",
+    "https://ownyourswarm.p3k.io/",
+    "https://micropublish.net/"
+  ],
+  "context": null,
+  "webmentions": []
+}

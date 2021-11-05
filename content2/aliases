@@ -565,6 +565,7 @@ articles/2021/02/lessons-moving-during-pandemic/ 2021/02/01/lessons-moving-durin
 articles/2021/02/magic-fractal-snowflakes/ 2021/02/15/magic-fractal-snowflakes
 articles/2021/03/recently/ 2021/03/01/recently
 articles/2021/04/recently/ 2021/04/01/recently
+articles/2021/11/05/micropub-update-parsing-uncertainties/ 2021/11/05/micropub-update-parsing-uncertainties
 /blog/ articles/
 articles/april-2021/ 2021/05/01/april-2021
 /articles/2021/05/recently/ 2021/05/01/april-2021
@@ -975,12 +976,14 @@ micro/2021/10/re-2021-10-27-busfs/ 2021/10/27/re-2021-10-27-busfs
 micro/2021/10/re-tailscale-vs-raw-wireguard/ 2021/10/20/re-tailscale-vs-raw-wireguard
 micro/2021/10/routing-through-tailscale/ 2021/10/27/routing-through-tailscale
 micro/2021/10/tailscale-vs-raw-wireguard/ 2021/10/20/tailscale-vs-raw-wireguard
+micro/2021/11/bunny-optimization-engine/ 2021/11/05/bunny-optimization-engine
 micro/2021/11/compass-availability/ 2021/11/04/compass-availability
 micro/2021/11/eagle-v2-update/ 2021/11/02/eagle-v2-update
 micro/2021/11/markdown-shortcodes/ 2021/11/04/markdown-shortcodes
 micro/2021/11/re-gps-compass/ 2021/11/04/re-gps-compass
 micro/2021/11/re-kirby/ 2021/11/02/re-kirby
 micro/2021/11/re-live-edit/ 2021/11/02/re-live-edit
+micro/2021/11/sidecar-vs-separate/ 2021/11/05/sidecar-vs-separate
 micro/2021/11/xray-jf2-mf2/ 2021/11/04/xray-jf2-mf2
 /experiments more/
 photos/2019/miscellaneous/ 2019/07/09/miscellaneous
