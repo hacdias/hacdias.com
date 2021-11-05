@@ -37,11 +37,6 @@
       </header>
     {{ end }}
 
-    <!-- how to simplify this -->
-    {{ if or (eq .Section "articles") (eq .Section "replies") (eq .Section "notes") }}
-      {{ include "post/outdated" . }}
-    {{ end }}
-
     {{ with .Entry.Content }}
       <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>
     {{ end }}

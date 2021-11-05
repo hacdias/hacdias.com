@@ -1,4 +1,0 @@
-{{ $yo := .YearsOld }}
-{{ if ge $yo 1 }}
-  <p class="box yellow word" data-word="Attention">This post is over {{ $yo }} year{{ if gt $yo 2 }}s{{ end }} old. Facts and opinions may have changed since the publication date. <a href="{{ relURL "/contact" }}">Contact me</a> for any clarifications before jumping into any conclusions.</p>
-{{ end }}
