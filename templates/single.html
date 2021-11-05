@@ -16,6 +16,7 @@
     {{ $type := $mf2.PostType }}
 
     {{ if eq $type "reply" }}
+      {{ include "post/reply" . }}
       Reply to {{ $mf2.String $mf2.TypeProperty }}
     {{ else if eq $type "like" }}
       Like to {{ $mf2.String $mf2.TypeProperty }}
