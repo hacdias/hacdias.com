@@ -6,9 +6,10 @@
   border: var(--border) solid var(--near-white);
 }
 
+.card .copy p:first-of-type,
 .card .h-cite,
 .card h3 {
-  margin: 0;
+  margin-top: 0;
 }
 
 .card .highlight > pre,
