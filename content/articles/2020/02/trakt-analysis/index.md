@@ -21,11 +21,11 @@ emoji: "\U0001F3AC"
   text-align: center;
 }
   
-.small-svg svg {
+.small-svg img {
   max-height: 25rem;
 }
 
-.smaller-svg svg {
+.smaller-svg img {
   max-height: 15rem;
 }
 
