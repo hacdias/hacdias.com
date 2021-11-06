@@ -1,11 +1,6 @@
 {
   "artists": [
     {
-      "name": "Sia",
-      "count": 36,
-      "url": "https://www.last.fm/music/Sia"
-    },
-    {
       "name": "Raimu",
       "count": 33,
       "url": "https://www.last.fm/music/Raimu"
@@ -27,7 +22,7 @@
     },
     {
       "name": "Softy",
-      "count": 20,
+      "count": 19,
       "url": "https://www.last.fm/music/Softy"
     },
     {
@@ -49,14 +44,19 @@
       "name": "Project AER",
       "count": 17,
       "url": "https://www.last.fm/music/Project+AER"
+    },
+    {
+      "name": "Xander.",
+      "count": 17,
+      "url": "https://www.last.fm/music/Xander."
     }
   ],
   "tracks": [
     {
-      "name": "Chasing Pavements",
-      "url": "https://www.last.fm/music/Adele/_/Chasing+Pavements",
+      "name": "Querer Voltar",
+      "url": "https://www.last.fm/music/D%27ZRT/_/Querer+Voltar",
       "count": 4,
-      "artist": "Adele"
+      "artist": "D'ZRT"
     },
     {
       "name": "Wishing Well",
@@ -65,26 +65,14 @@
       "artist": "KASPA."
     },
     {
-      "name": "Flash Pose",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Flash+Pose",
-      "count": 4,
-      "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "Snowflake",
-      "url": "https://www.last.fm/music/Sia/_/Snowflake",
-      "count": 4,
-      "artist": "Sia"
-    },
-    {
       "name": "LATHI (with Sara Fajira)",
       "url": "https://www.last.fm/music/Weird+Genius/_/LATHI+(with+Sara+Fajira)",
       "count": 4,
       "artist": "Weird Genius"
     },
     {
-      "name": "Love in the Dark",
-      "url": "https://www.last.fm/music/Adele/_/Love+in+the+Dark",
+      "name": "Chasing Pavements",
+      "url": "https://www.last.fm/music/Adele/_/Chasing+Pavements",
       "count": 3,
       "artist": "Adele"
     },
@@ -95,10 +83,22 @@
       "artist": "Alec Benjamin"
     },
     {
-      "name": "Querer Voltar",
-      "url": "https://www.last.fm/music/D%27ZRT/_/Querer+Voltar",
+      "name": "Cai neve em Nova York",
+      "url": "https://www.last.fm/music/Amor+Electro/_/Cai+neve+em+Nova+York",
       "count": 3,
-      "artist": "D'ZRT"
+      "artist": "Amor Electro"
+    },
+    {
+      "name": "A vida faz-me bem",
+      "url": "https://www.last.fm/music/Anjos/_/A+vida+faz-me+bem",
+      "count": 3,
+      "artist": "Anjos"
+    },
+    {
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://www.last.fm/music/Belinda+Carlisle/_/Heaven+Is+a+Place+on+Earth",
+      "count": 3,
+      "artist": "Belinda Carlisle"
     },
     {
       "name": "This One's For You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
@@ -107,10 +107,10 @@
       "artist": "David Guetta"
     },
     {
-      "name": "I Love It (feat. Charli XCX)",
-      "url": "https://www.last.fm/music/Icona+Pop/_/I+Love+It+(feat.+Charli+XCX)",
+      "name": "Medo De Sentir",
+      "url": "https://www.last.fm/music/Elisa/_/Medo+De+Sentir",
       "count": 3,
-      "artist": "Icona Pop"
+      "artist": "Elisa"
     }
   ]
 }
