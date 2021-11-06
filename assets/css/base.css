@@ -404,6 +404,7 @@ details summary {
 }
 
 .h-cite {
+  display: block;
   background-color: var(--near-white);
   padding: 1rem;
   border-radius: var(--radius);
