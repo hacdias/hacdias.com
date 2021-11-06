@@ -6,3 +6,11 @@ menu:
   main:
     weight: 3
 ---
+
+<style>
+body {
+  background: white url(/micro/pattern.jpg);
+  background-size: 400px;
+  background-attachment: fixed;
+}
+</style>
