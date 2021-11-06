@@ -28,6 +28,7 @@
       {{ with .Summary }}<div class='copy p-summary'><p>{{ md . }}</p></div>{{ end }}
     {{ end }}
 
+    {{ include "post/photos" . }}
     {{ include "post/footer" . }}
 
     {{ if $isArticles }}

@@ -7,7 +7,7 @@
 }
 
 .card .copy p:first-of-type,
-.card .h-cite,
+.card .ibox,
 .card h3 {
   margin-top: 0;
 }

@@ -395,15 +395,15 @@ details summary {
   line-height: 1.5;
 }
 
-.h-cite .copy p {
+.ibox .copy p {
   margin: 0;
 }
 
-.h-cite > p {
+.ibox > p {
   margin: 0 0 .25rem 0;
 }
 
-.h-cite {
+.ibox {
   display: block;
   background-color: var(--near-white);
   padding: 1rem;
@@ -411,15 +411,15 @@ details summary {
   margin: 1rem 0;
 }
 
-.h-cite .e-content {
+.ibox .e-content {
   font-size: var(--f6);
 }
 
-.h-cite .original {
+.ibox .original {
   font-size: var(--f7);
 }
 
-.h-cite .p-author .p-name {
+.ibox .p-author .p-name {
   font-weight: 500;
 }
 

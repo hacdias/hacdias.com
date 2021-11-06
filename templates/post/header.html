@@ -13,7 +13,7 @@
   {{ else if eq $type "bookmark" }}
     <header><p>🔖 <strong>Bookmarked</strong></p></header>
 
-    <div>
+    <div class="ibox">
       <a class="u-bookmark-of h-cite" href="{{ $mf2.String $mf2.TypeProperty }}">
         {{- .Title -}}
       </a>
@@ -42,13 +42,14 @@
 
       {{/* <data class="p-x-read-status" value="to-read">{{ $mf2.String "read-status" }}</data>: */}}
 
-      <div class="p-read-of h-cite">
+      <div class="p-read-of h-cite ibox">
         <cite class="p-name">{{ $name }}</cite> by <span class="p-author">{{ $author }}</span>
         {{/* {{ with $isbn }}(<span class="p-uid">{{ . }}</span>){{ end }} */}}
       </div>
     </div>
 
   {{ else if eq $type "checkin" }}
+    <header><p>📍 <strong>Checked In</strong></p></header>
 
     <!-- TODO --> 
 
@@ -58,10 +59,10 @@
     {{ $location := $checkin.LocalityCountry }}
     {{ $time := $.Published.Format "Mon, 02 Jan 2006 03:04 pm" }}
 
-    <div class="u-checkin">
-      <p>📍 At 
+    <div class="u-checkin ibox">
+      <p>At 
         {{ with $url }}<a href="{{ . }}" class="u-url p-name" target="_blank" rel="noopener noreferrer">{{ end }}
-          {{- $checkin.Name -}}
+          <strong>{{- $checkin.Name -}}</strong>
         {{ with $url }}</a>{{ end }}
       </p>
 

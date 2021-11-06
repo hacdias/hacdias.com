@@ -2,7 +2,7 @@
   {{ $mf2 := .MF2 }}
   {{ $data := data .Entry }}
   {{ with $data.Context }}
-  <div class="h-cite u-{{ $mf2.TypeProperty }}">
+  <div class="h-cite ibox u-{{ $mf2.TypeProperty }}">
     <p>
       <span class="p-author h-card">
         <span class="p-name">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</span>

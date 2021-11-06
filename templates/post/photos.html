@@ -1,0 +1,5 @@
+{{ define "post/photos" }}
+  {{ range .MF2.Strings "photo" }}
+    <img src="{{ . }}">
+  {{ end }}
+{{ end }}
