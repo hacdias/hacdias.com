@@ -424,14 +424,19 @@ own-not-read:
 to-read:
 - author: Harper Lee
   name: To Kill a Mockingbird
+  date: '2021-07-31T13:10:00Z'
 - author: José Saramago
   name: O Ano da Morte de Ricardo Reis
   isbn: '9789720048820'
+  date: '2021-07-31T13:10:00Z'
 - author: Fernando Pessoa
   name: O Livro do Desassosego
+  date: '2021-06-12T21:54:00Z'
 - author: Miguel Sousa Tavares
   name: Equador
+  date: '2021-06-12T21:54:00Z'
 - author: Mikhail Bulgakov
   name: The Master and Margarita
+  date: '2021-07-31T13:10:00Z'
   isbn: '9781847497826'
 currently-reading: []
