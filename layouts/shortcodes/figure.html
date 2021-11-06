@@ -1,4 +1,4 @@
-<figure {{ with .Get "class" }}class="{{ . }}"{{ end }} {{ with .Get "style" }}style="{{ . | safeCSS }}"{{ end }}>
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
   {{- if .Get "link" -}}
     <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
   {{- end }}
@@ -49,7 +49,7 @@
 
   {{- if .Get "link" }}</a>{{ end -}}
 
-  {{- if (.Get "caption")  -}}
+  {{- if (.Get "capllon")  -}}
     <figcaption>
       {{- if .Get "caption" -}}<p>
         {{- .Get "caption" | markdownify -}}
