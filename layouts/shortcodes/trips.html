@@ -1,9 +1,0 @@
-{{ $type := .Get "type" }}
-{{ $trips := index .Site.Data.trips $type }}
-{{ $trips := sort $trips "name" "asc" }}
-
-<ul>
-  {{ range $i, $trip := $trips }}
-    <li>{{ .flag }} {{ .name }}</li>
-  {{ end }}
-</ul>

@@ -28,14 +28,41 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   <div>
 
   **Been**
-  {{< trips type="been" >}} 
+  - 🇵🇹 Azores (Portugal) <!-- São Miguel in July 2019. -->
+  - 🇧🇪 Belgium <!-- Brussels in February 2018, January 2019 for FOSDEM. Brussels and Antwerp in February 2020. Ghent in 2021 -->
+  - 🇨🇷 Costa Rica <!-- Peninsula Papagayo in November 2019. -->
+  - 🇨🇿 Czech Republic <!-- Prague in July 2019. -->
+  - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England <!-- London in April 2019 and February 2018. London and Cambridge in February 2019. -->
+  - 🇫🇷 France <!-- Paris in October 2021. -->
+  - 🇩🇪 Germany <!-- Berlin in July 2019. -->
+  - 🇱🇺 Luxembourg <!-- Luxembourg city on February 2020. -->
+  - 🇳🇱 Netherlands <!-- Visited Amsterdam in February 2020; Moved to Eindhoven in August 2020; Visited Utrecht, The Hague, Rotterdam, De Bosch, Tilburg, etc. -->
+  - 🇵🇹 Portugal
+  - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland <!-- Glasgow in October 2018. -->
+  - 🇨🇭 Switzerland <!-- Zurich and Alps in December 2019. -->
 
   </div>
 
   <div>
 
   **Bucket List**
-  {{< trips type="bucket" >}} 
+  - 🇦🇺 Australia
+  - 🇦🇹 Austria
+  - 🇧🇷 Brazil
+  - 🇩🇰 Denmark
+  - 🇫🇮 Finland
+  - 🇬🇷 Greece
+  - 🇮🇸 Iceland
+  - 🇮🇹 Italy
+  - 🇯🇵 Japan
+  - 🇵🇹 Madeira (Portugal)
+  - 🇰🇷 South Korea
+  - 🇪🇸 Spain
+  - 🇫🇮 Svalbard (Finland)
+  - 🇸🇪 Sweden
+  - 🇹🇭 Thailand
+  - 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
+  - 🇺🇿 Uzbekistan <!-- https://uzbekistan.travel/en/i/bukhara/ -->
 
   </div>
 </div>
