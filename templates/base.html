@@ -4,7 +4,7 @@
 <head>
   {{ include "base/head" . }}
 </head>
-<body {{ with .Section }}class="s-{{. }}"{{ end }}>
+<body>
   <div class='container'>
     {{ include "base/header" . }}
     {{ template "main" . }}
