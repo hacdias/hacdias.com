@@ -4,7 +4,7 @@ noInteractions: true
 emoji: "\U0001F9D4"
 ---
 
-{{< figure alt="Me!" cdn="2019-06-henrique" caption="Photo by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
+![Me!](cdn:/2019-06-henrique?id=test "Photo by Isabel Soares")
 
 Hi, I'm Henrique (he/him)!
 

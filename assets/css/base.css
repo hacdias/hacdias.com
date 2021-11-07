@@ -219,7 +219,7 @@ ol {
   padding-left: 2em;
 }
 
-figcaption p {
+figcaption {
   text-align: center;
   font-size: var(--f6);
   color: var(--dark-gray);
@@ -391,6 +391,7 @@ details summary {
 
 .copy ol,
 .copy p,
+.copy figcaption,
 .copy ul {
   line-height: 1.5;
 }
