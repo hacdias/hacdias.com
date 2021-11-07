@@ -31,7 +31,7 @@
 
   {{- if .Get "link" }}</a>{{ end -}}
 
-  {{- if (.Get "capllon")  -}}
+  {{- if (.Get "caption")  -}}
     <figcaption>
       {{- if .Get "caption" -}}<p>
         {{- .Get "caption" | markdownify -}}
