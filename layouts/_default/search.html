@@ -26,13 +26,15 @@
       <input type='submit' value='Go' style="background-color: var(--action); border-color: var(--action)" />
     </form>
 
-    <ul class="terms">
-      {{ range .Site.Sections }}
-        {{ if and .Params.emoji (not (eq .Name "Stream")) }}
-          <li><a class='section' data-emoji='{{.Params.emoji}}' data-section='{{ lower .Title }}'>{{.Params.emoji}} {{ .Title }}</a></li>
+    <div class="terms">
+      <ul>
+        {{ range .Site.Sections }}
+          {{ if and .Params.emoji (not (eq .Name "Stream")) }}
+            <li><a class='section' data-emoji='{{.Params.emoji}}' data-section='{{ lower .Title }}'>{{.Params.emoji}} {{ .Title }}</a></li>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </ul>
+      </ul>
+    </div>
 
     <hr>
 
