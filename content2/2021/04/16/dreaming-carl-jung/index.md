@@ -1,6 +1,6 @@
 ---
 published: 2021-04-16T08:14:20.473279698Z
-section: notes
+section: micro
 properties:
   category:
   - quotes

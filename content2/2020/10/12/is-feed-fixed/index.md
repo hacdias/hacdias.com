@@ -1,6 +1,6 @@
 ---
 published: 2020-10-12T13:55:55Z
-section: replies
+section: micro
 properties:
   in-reply-to: https://jan.boddez.net/notes/b0a62edbe0
 ---

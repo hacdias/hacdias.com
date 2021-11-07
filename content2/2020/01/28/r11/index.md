@@ -1,6 +1,6 @@
 ---
 published: 2020-01-28T13:30:57.532Z
-section: replies
+section: micro
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/01/2020-01-28-ohlec/
 ---

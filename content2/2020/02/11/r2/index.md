@@ -1,6 +1,6 @@
 ---
 published: 2020-02-11T13:58:19.007Z
-section: replies
+section: micro
 properties:
   in-reply-to: https://jlelse.blog/dev/activitystreams-hugo/
 ---

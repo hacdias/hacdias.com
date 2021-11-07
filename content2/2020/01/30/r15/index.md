@@ -1,6 +1,6 @@
 ---
 published: 2020-01-30T22:21:16.521Z
-section: replies
+section: micro
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/01/telegram-features/
 ---

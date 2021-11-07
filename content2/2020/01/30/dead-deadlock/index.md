@@ -1,7 +1,7 @@
 ---
 published: 2020-01-30T23:40:31.938Z
 updated: 2020-01-30T23:45:37.147Z
-section: notes
+section: micro
 properties:
   category:
   - meta

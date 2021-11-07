@@ -1,6 +1,6 @@
 ---
 published: 2021-09-22T19:15:35.241036975Z
-section: notes
+section: micro
 properties:
   syndication:
   - https://twitter.com/hacdias/status/1440756759170207757

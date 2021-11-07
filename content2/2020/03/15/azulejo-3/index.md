@@ -1,7 +1,7 @@
 ---
 title: 'Azulejo #3'
 published: 2020-03-15T00:00:00Z
-section: notes
+section: micro
 properties:
   category:
   - art

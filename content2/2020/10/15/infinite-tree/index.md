@@ -1,7 +1,7 @@
 ---
 title: Infinite Tree
 published: 2020-10-15T00:00:00Z
-section: notes
+section: micro
 properties:
   category:
   - art

@@ -1,6 +1,6 @@
 ---
 published: 2020-04-09T08:34:32.149Z
-section: replies
+section: micro
 properties:
   in-reply-to: https://seblog.nl/2020/04/09/2/reply
 ---

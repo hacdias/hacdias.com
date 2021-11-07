@@ -1,6 +1,6 @@
 ---
 published: 2020-04-08T19:31:24.963Z
-section: replies
+section: micro
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/04/study-emails/
 ---

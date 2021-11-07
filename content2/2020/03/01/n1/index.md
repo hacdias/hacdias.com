@@ -1,6 +1,6 @@
 ---
 published: 2020-03-01T13:25:34.893Z
-section: notes
+section: micro
 properties:
   category:
   - activitypub

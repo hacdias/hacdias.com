@@ -1,6 +1,6 @@
 ---
 published: 2020-02-26T22:42:54.474Z
-section: replies
+section: micro
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/02/2020-02-26-maakb/
 ---

@@ -1,6 +1,6 @@
 ---
 published: 2020-01-30T11:25:56.527Z
-section: replies
+section: micro
 properties:
   category:
   - dictionary

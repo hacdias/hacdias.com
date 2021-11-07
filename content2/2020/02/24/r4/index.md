@@ -1,6 +1,6 @@
 ---
 published: 2020-02-24T09:53:05.038Z
-section: replies
+section: micro
 properties:
   category:
   - socialmedia

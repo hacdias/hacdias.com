@@ -1,6 +1,6 @@
 ---
 published: 2020-04-06T17:11:46.525Z
-section: replies
+section: micro
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/04/regex101/
 ---
