@@ -2,6 +2,12 @@
   {{ $mf2 := .MF2 }}
   {{ $location := $mf2.Sub "location" }}
 
+  {{/* <span class="p-location h-adr">
+          <span class="p-locality">Portland</span>,
+        <span class="p-region">Oregon</span>,
+        <span class="p-country">USA</span>
+    </span> */}}
+
   <!-- TODO:  find a better way -->
   {{ if not (eq .Section "") }}
   <footer>
