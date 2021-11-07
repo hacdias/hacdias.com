@@ -6,8 +6,14 @@ section: photos
 
 I saw real life snowing for many days for the first time. It was also one of the coldest Februaries in the Netherlands over the past years.
 
+<style>
+.fig-row-1-3 {
+  grid-row: 1 / 3;
+}
+</style>
+
 <div class="grid g2 fill">
-  {{< figure cdn="2021-02-eindhoven-snow-01" alt="Eindhoven Snow" style="grid-row: 1 / 3;" >}}
+  {{< figure cdn="2021-02-eindhoven-snow-01" alt="Eindhoven Snow" class="fig-row-1-3" >}}
   {{< figure cdn="2021-02-eindhoven-snow-02" alt="Eindhoven Snow" >}}
   {{< figure cdn="2021-02-eindhoven-snow-03" alt="Eindhoven Snow" >}}
 </div>

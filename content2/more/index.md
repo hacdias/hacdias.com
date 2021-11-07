@@ -10,47 +10,52 @@ This website contains more things than it looks at first glance. This page is a 
 
 ### 📃 Categories {#categories}
 
-<ul class='terms grid bold'>
-  <li>{{< link-emoji "/stream" >}}</li>
-  <li>{{< link-emoji "/articles" >}}</li>
-  <li>{{< link-emoji "/micro" >}}</li>
-  <li>{{< link-emoji "/photos" >}}</li>
-</ul>
+<div class='terms grid bold'>
+
+- [🌊 Stream](/stream)
+- [✏️ Articles](/articles)
+- [💬 Micro](/micro)
+- [📸 Photos](/photos)
+
+</div>
 
 ### 🥐 Others {#others}
 
-<ul class='terms grid bold'>
-  <li>{{< link-emoji "/about" >}}</li>
-  <li>{{< link-emoji "/meta" >}}</li>
-  <li>{{< link-emoji "/contact" >}}</li>
-  <li>{{< link-emoji "/guestbook" >}}</li>
-  <li>{{< link-emoji "/impossible-list" >}}</li>
-  <li>{{< link-emoji "/links" >}}</li>
-  <li>{{< link-emoji "/listens" >}}</li>
-  <li>{{< link-emoji "/projects" >}}</li>
-  <li>{{< link-emoji "/resume" >}}</li>
-  <li>{{< link-emoji "/search" >}}</li>
-  <li>{{< link-emoji "/uses" >}}</li>
-  <li>{{< link-emoji "/watches" >}}</li>
-  <li>{{< link-emoji "/reads" >}}</li>
-  <li>{{< link-emoji "/tags" >}}</li>
-</ul>
+<div class='terms grid bold'>
 
+- [🧔 About](/about)
+- [⚙️ About This Website](/meta)
+- [✉️ Contact](/contact)
+- [📝 Guestbook](/guestbook)
+- [🤯 Impossible List](/impossible-list)
+- [📌 Links](/links)
+- [🎶 Listens](/listens)
+- [📦 Projects](/projects)
+- [🎓 Resume](/resume)
+- [🔎 Search](/search)
+- [🛠 Uses](/uses)
+- [🎬 Watches](/watches)
+- [📚 Reads](/reads)
+- [🏷 Tags](/tags)
+
+</div>
 
 ### 🧪 Experiments {#experiments}
 
 A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
 Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger'>Or they will bite you!</span>
 
-<ul id='experiments-list' class='terms grid bold'>
-  <li><a rel="noopener noreferrer" target="_link" title="Blue Screen of Death" href="../minisites/bsod/">🔵 Blue Screen of Death</a></li>
-  <li><a rel="noopener noreferrer" target="_link" title="Glitch" href="../minisites/glitch/">📡 Glitch</a></li>
-  <li><a rel="noopener noreferrer" target="_link" title="Procedural Map Generator" href="../minisites/mapgen/">🗺 Procedural Map Generator</a></li>
-  <li><a rel="noopener noreferrer" target="_link" title="PixelColorMania" href="../minisites/pixelcolormania/">🏳️‍🌈 PixelColorMania</a></li>
-  <li><a rel="noopener noreferrer" target="_link" title="Thunderstorm" href="../minisites/thunderstorm/">⛈ Thunderstorm</a></li>
-  <li><a rel="noopener noreferrer" target="_link" title="TV Noise" href="../minisites/tv-noise/">📺 TV Noise</a></li>
-  <li><a rel="noopener noreferrer" target="_link" title="XKCD Clone" href="http://xkcd.hacdias.com/">💥 XKCD Clone</a></li>
-</ul>
+<div id='experiments-list' class='terms grid bold'>
+  <ul>
+    <li><a rel="noopener noreferrer" target="_link" title="Blue Screen of Death" href="../minisites/bsod/">🔵 Blue Screen of Death</a></li>
+    <li><a rel="noopener noreferrer" target="_link" title="Glitch" href="../minisites/glitch/">📡 Glitch</a></li>
+    <li><a rel="noopener noreferrer" target="_link" title="Procedural Map Generator" href="../minisites/mapgen/">🗺 Procedural Map Generator</a></li>
+    <li><a rel="noopener noreferrer" target="_link" title="PixelColorMania" href="../minisites/pixelcolormania/">🏳️‍🌈 PixelColorMania</a></li>
+    <li><a rel="noopener noreferrer" target="_link" title="Thunderstorm" href="../minisites/thunderstorm/">⛈ Thunderstorm</a></li>
+    <li><a rel="noopener noreferrer" target="_link" title="TV Noise" href="../minisites/tv-noise/">📺 TV Noise</a></li>
+    <li><a rel="noopener noreferrer" target="_link" title="XKCD Clone" href="http://xkcd.hacdias.com/">💥 XKCD Clone</a></li>
+  </ul>
+</div>
 
 <audio id="music" loop>
   <source src="https://cdn.hacdias.com/u/nyan-cat.mp3" type="audio/mpeg">
@@ -80,5 +85,3 @@ trigger.addEventListener('click', async () => {
   trigger.classList.toggle('dn')
 })
 </script>
-
-<!-- Micro More Photos Articles About this website Notes Reads Impossible List Links Stuff I use About Contact Guestbook Listens Log Projects Resume Search Watches -->

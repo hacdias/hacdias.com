@@ -4,6 +4,15 @@ published: 2021-05-30T00:00:00Z
 section: photos
 ---
 
+<style>
+.fig-row-1-3 {
+  grid-row: 1 / 3;
+}
+.fig-row-2-3 {
+  grid-row: 2 / 3;
+}
+</style>
+
 In Eindhoven.
 
 <div class="grid g7-3 fill">
@@ -12,10 +21,10 @@ In Eindhoven.
 </div>
 
 <div class="grid g3 fill">
-  {{< figure cdn="2021-05-eindhoven-16" alt="Eindhoven" style="grid-row: 1/3;" >}}
+  {{< figure cdn="2021-05-eindhoven-16" alt="Eindhoven" class="fig-row-1-3" >}}
   {{< figure cdn="2021-05-eindhoven-14" alt="Eindhoven" >}}
-  {{< figure cdn="2021-05-eindhoven-04" alt="Eindhoven" style="grid-row: 2/3;" >}}
-  {{< figure cdn="2021-05-eindhoven-12" alt="Eindhoven" style="grid-row: 1/3;" >}}
+  {{< figure cdn="2021-05-eindhoven-04" alt="Eindhoven" class="fig-row-2-3" >}}
+  {{< figure cdn="2021-05-eindhoven-12" alt="Eindhoven" class="fig-row-1-3" >}}
 </div>
 
 {{< figure cdn="2021-05-eindhoven-17" alt="Eindhoven" >}}

@@ -120,7 +120,9 @@ The search is **not** static. I am self-hosting an instance of [MeiliSearch](htt
 
 3. Lately, I've been receiving e-mails regarding guest posts. This is my personal website. Thus, I do **not** accept guest posts.
 
-<ul class='terms bold'>
-  <li>{{< link-emoji "/about" >}}</li>
-  <li>{{< link-emoji "/guestbook" >}}</li>
-</ul>
+<div class='terms bold'>
+
+- [🧔 About](/about)
+- [📝 Guestbook](/guestbook)
+
+</div>

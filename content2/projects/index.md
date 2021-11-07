@@ -4,6 +4,7 @@ description: |
   A non-exhaustive list of the most impactful and important projects I have been involved with in the past.
 noInteractions: true
 emoji: "\U0001F4E6"
+template: projects
 ---
 
 This is a display of some of the projects I have worked on. Please check out my [GitHub](https://github.com/hacdias) for other open-source contributions, or my [resume](/resume) for my curriculum.
