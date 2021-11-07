@@ -6,10 +6,16 @@ cover:
   slug: 2021-04-utrecht-02
 ---
 
+<style>
+.fig-row-1-3 {
+  grid-row: 1 / 3;
+}
+</style>
+
 I went to Utrecht, which turned out to be one of the loveliest cities in the Netherlands I've been to so far. It's picturesque, has canals and felt lively.
 
 <div class="grid g3 fill">
-  {{< figure cdn="2021-04-utrecht-19" alt="Utrecht" style="grid-row: 1 / 3;" >}}
+  {{< figure cdn="2021-04-utrecht-19" alt="Utrecht" class="fig-row-1-3" >}}
   {{< figure cdn="2021-04-utrecht-05" alt="Utrecht" >}}
   {{< figure cdn="2021-04-utrecht-07" alt="Utrecht" >}}
   {{< figure cdn="2021-04-utrecht-14" alt="Utrecht" >}}

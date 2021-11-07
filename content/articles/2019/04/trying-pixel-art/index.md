@@ -26,6 +26,15 @@ and that they seem to be... I don't know... interesting to me.
 
 <!--more-->
 
+<style>
+.magician {
+  margin-right: 1rem
+}
+.cat {
+  margin-left: 1rem
+}
+</style>
+
 {{< figure
   class="left pixelated"
   src="https://cdn.hacdias.com/u/2019-04-blinking-eye.gif"
@@ -47,12 +56,12 @@ and I actually happen to like them. So I've started by doing so.
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   {{< figure
-    style="margin-right: 1rem"
+    class="magician"
     src="https://cdn.hacdias.com/u/2019-04-magician.jpeg"
     caption="A magician, wizard?" >}}
 
   {{< figure
-    style="margin-left: 1rem"
+    class="cat"
     src="https://cdn.hacdias.com/u/2019-04-cat.jpeg"
     caption="A Cat" >}}
 </div>
