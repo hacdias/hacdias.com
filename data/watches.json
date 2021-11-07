@@ -1943,6 +1943,21 @@
   ],
   "series": [
     {
+      "title": "RuPaul's Drag Race UK",
+      "watched": "2021-11-06T13:28:38.000Z",
+      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
+    },
+    {
+      "title": "Dark",
+      "watched": "2021-11-06T12:25:19.000Z",
+      "url": "https://trakt.tv/shows/dark"
+    },
+    {
+      "title": "The Good Doctor",
+      "watched": "2021-11-06T12:24:59.000Z",
+      "url": "https://trakt.tv/shows/the-good-doctor"
+    },
+    {
       "title": "Kurzgesagt - In a Nutshell",
       "watched": "2021-11-03T21:47:10.000Z",
       "url": "https://trakt.tv/shows/kurzgesagt-in-a-nutshell"
@@ -1958,19 +1973,9 @@
       "url": "https://trakt.tv/shows/locke-key"
     },
     {
-      "title": "RuPaul's Drag Race UK",
-      "watched": "2021-10-29T19:43:42.000Z",
-      "url": "https://trakt.tv/shows/rupaul-s-drag-race-uk"
-    },
-    {
       "title": "Heathrow: Britain's Busiest Airport",
       "watched": "2021-10-28T19:51:46.000Z",
       "url": "https://trakt.tv/shows/heathrow-britain-s-busiest-airport"
-    },
-    {
-      "title": "The Good Doctor",
-      "watched": "2021-10-28T19:51:45.000Z",
-      "url": "https://trakt.tv/shows/the-good-doctor"
     },
     {
       "title": "Downton Abbey",
