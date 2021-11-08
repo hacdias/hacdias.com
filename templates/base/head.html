@@ -27,6 +27,10 @@
     {{ end }}
   {{ end }}
 
+  {{ with .GetFile "_styles.css" }}
+    <style>{{ safeCSS . }}</style>
+  {{ end }}
+
   {{ if .IsHome }}
     <link rel="authorization_endpoint" href="https://indieauth.com/auth">
     <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
