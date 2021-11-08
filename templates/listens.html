@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<main role='main'>
+  <article class='h-entry'>
+    {{ include "post/header" . }}
+
+    {{ $stats := .GetJSON "_stats.json" }}
+
+    <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>
+      {{ with .Entry.Content }}
+        {{ md . }}
+      {{ end }}
+
+      <h2 id="artists">🎤 Artists</h2>
+
+      <ol>
+        {{ range $stats.artists }}
+          <li><a target="_blank" rel="noopener noreferrer" href="{{ .url }}">{{ .name }}</a></li>
+        {{ end }}
+      </ol>
+
+       <h2 id="artists">🎶 Tracks</h2>
+
+      <ol>
+        {{ range $stats.tracks }}
+          <li><a target="_blank" rel="noopener noreferrer" href="{{ .url }}">{{ .name }}</a> <small>by {{ .artist }}</small></li>
+        {{ end }}
+      </ol>
+    </div>
+
+    {{ include "post/photos" . }}
+    {{ include "post/footer" . }}
+
+    {{ if not .Entry.NoInteractions }}
+      {{ include "post/webmentions" . }}
+    {{ end }}
+  </article>
+</main>
+
+{{ end }}
+
+{{ define "watch-list" }}
+  {{ $year := now.Format "2006" }}
+
+  <ul>
+    {{ range $i, $movie := . }}
+      {{ $watchedYear := dateFormat $movie.watched "2006" }}
+      <li><a target="_blank" rel="noopener noreferrer" href="{{ $movie.url }}">{{ $movie.title }}</a> <small>last watched in {{ if eq $year $watchedYear }}{{ dateFormat $movie.watched "January" }}{{ else }}{{ dateFormat $movie.watched "2006" }}{{ end }}</small></li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{ define "listens" }}
+  {{ template "base" . }}
+{{ end }}

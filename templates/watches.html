@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<main role='main'>
+  <article class='h-entry'>
+    {{ include "post/header" . }}
+
+    {{ $stats := .GetJSON "_stats.json" }}
+    {{ $series := index $stats "series" }}
+    {{ $movies := index $stats "movies" }}
+
+    <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>
+      {{ with .Entry.Content }}
+        {{ md . }}
+      {{ end }}
+
+      <h2 id="series">📺 Series</h2>
+
+      <div class="box">
+        {{ template "watch-list" $series }}
+      </div>
+
+      <h2 id="movies">🎬 Movies</h2>
+
+      <div class="box">
+        {{ template "watch-list" $movies }}
+      </div>
+    </div>
+
+    {{ include "post/photos" . }}
+    {{ include "post/footer" . }}
+
+    {{ if not .Entry.NoInteractions }}
+      {{ include "post/webmentions" . }}
+    {{ end }}
+  </article>
+</main>
+
+{{ end }}
+
+{{ define "watch-list" }}
+  {{ $year := now.Format "2006" }}
+
+  <ul>
+    {{ range $i, $movie := . }}
+      {{ $watchedYear := dateFormat $movie.watched "2006" }}
+      <li><a target="_blank" rel="noopener noreferrer" href="{{ $movie.url }}">{{ $movie.title }}</a> <small>last watched in {{ if eq $year $watchedYear }}{{ dateFormat $movie.watched "January" }}{{ else }}{{ dateFormat $movie.watched "2006" }}{{ end }}</small></li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{ define "watches" }}
+  {{ template "base" . }}
+{{ end }}

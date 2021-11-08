@@ -11,7 +11,7 @@ template: listens
   --action: #25a9e1;
 }
 body {
-  background: url(discs.jpg);
+  background: url(/listens/discs.jpg);
   background-size: 400px;
   background-attachment: fixed;
 }
