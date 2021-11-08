@@ -1,7 +1,6 @@
 {{ define "list/card" }}
   {{ $isPhotos := eq .Section "photos" }}
-  {{ $isArticles := eq .Section "articles" }}
-  {{ $isMicro := not (or $isPhotos $isArticles) }}
+  {{ $isLong := or (eq .Section "articles") (eq .Section "") }}
 
   <article class='h-entry card'>
     <a href="{{ relURL .Permalink }}" title="{{ .Title }}" class="u-url nl link"></a>
@@ -20,18 +19,18 @@
 
     {{ include "post/header" . }}
 
-    {{ if or $isMicro $isPhotos }}
+    {{ if $isLong }}
+      {{ with .Summary }}<div class='copy p-summary'><p>{{ md . }}</p></div>{{ end }}
+    {{ else }}
       {{ with .Content }}
         <div class='copy e-content {{ if not $.Title }}p-name{{ end }}'>{{ md . }}</div>
       {{ end }}
-    {{ else if $isArticles }}
-      {{ with .Summary }}<div class='copy p-summary'><p>{{ md . }}</p></div>{{ end }}
     {{ end }}
 
     {{ include "post/photos" . }}
     {{ include "post/footer" . }}
 
-    {{ if $isArticles }}
+    {{ if $isLong }}
       <div class="more">READ MORE</div>
     {{ end }}
   </article>
