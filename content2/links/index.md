@@ -3,6 +3,7 @@ title: Links
 noInteractions: true
 published: 2020-02-12T21:00:00Z
 updated: 2021-09-22T21:34:37.256525066Z
+template: links
 ---
 
 This is a non-exhaustive collection of interesting links and websites I found on the Internet during my "surfing" 🌊. These are definitely more interesting than my browser's bookmarks! Links with a #️⃣ icon are IPFS links!
