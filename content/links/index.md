@@ -2,7 +2,7 @@
 dataId: dda49824ea348145ea62bc0b28e4c6c1a9ddb6f49d924e8bdb01a25b340a45cf
 title: Links
 date: 2020-02-12T21:00:00Z
-lastmod: 2021-09-22T21:34:37.256525066Z
+lastmod: 2021-11-08T14:46:53.37491344Z
 aliases:
 - /pins
 - /bookmarks
@@ -49,16 +49,13 @@ This is a non-exhaustive collection of interesting links and websites I found on
 - [Nathan's Toasty Tech Page](https://bafybeib7lyimozj46dotjpzapp33wkig5g4zdcusljwaslwuv3djm2lzsy.ipfs.dweb.link/) [#️⃣](ipfs://bafybeib7lyimozj46dotjpzapp33wkig5g4zdcusljwaslwuv3djm2lzsy)
 - [Old Internet Files](https://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am.ipfs.dweb.link/) [#️⃣](ipfs://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am)
 - [ITCorp](https://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy.ipfs.dweb.link/) [#️⃣](ipfs://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy)
+- [Darek Kay's Blogroll](https://darekkay.com/personal-blogs/)
+- [Tania Rascia](https://www.taniarascia.com/)
+- [The Big List of Personal Websites](http://biglist.terraaeon.com/)
+- [PersonalSit.es](https://personalsit.es/)
 
 ## 🧻 Blogroll {#blogroll}
 
 An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
 
 {{< blogroll category="following" >}}
-
-Other blogrolls/personal website lists that I find interesting:
-
-- [Darek Kay's Blogroll](https://darekkay.com/personal-blogs/)
-- [Tania Rascia](https://www.taniarascia.com/)
-- [The Big List of Personal Websites](http://biglist.terraaeon.com/)
-- [PersonalSit.es](https://personalsit.es/)
