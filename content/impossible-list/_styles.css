@@ -4,7 +4,7 @@
 
 @media screen and (min-width: 38rem) {
   body {
-    background: #3aaca9 url(tigers.jpg);
+    background: #3aaca9 url(/impossible-list/tigers.jpg);
     background-size: 1000px;
     background-attachment: fixed;
   }

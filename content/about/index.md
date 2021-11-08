@@ -14,6 +14,8 @@ Hi, I'm Henrique (he/him)!
 
 I'm from a little town in Portugal 🇵🇹 and I'm now pursuing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl), in Eindhoven. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on fascinating projects to help decentralize the web.
 
+<!--more-->
+
 I believe in transparency and openness, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
 
 I'm interested in how we can use computer networks to our advantage, prioritizing decentralized systems, capable of pushing the humanity forward. Web infrastructure, peer-to-peer systems, as well as human-computer interaction are at the core of my interests.

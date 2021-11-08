@@ -28,7 +28,7 @@
     {{ $webmentions.Content | safeCSS }}
   {{ end }}
 
-  {{- with .Resources.GetMatch "styles.css"}}
+  {{- with .Resources.GetMatch "_styles.css"}}
     {{- .Content | safeCSS }}
   {{- end }}
 </style>

@@ -12,6 +12,13 @@ Lately, {{< latest-read >}}. On the big screen, the last movie 🎬 I [watched](
 
 ### ☄️ Latest {#latest}
 
+<style>
+.card + p {
+  margin-top: 0;
+  text-align: center;
+}
+</style>
+
 {{< latest n=5 >}}
 
 <a href="./stream"><button>🌊 More Posts</button></a>

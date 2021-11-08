@@ -16,6 +16,8 @@ menu:
 
 This is a non-exhaustive collection of interesting links and websites I found on the Internet during my "surfing" 🌊. These are definitely more interesting than my browser's bookmarks! Links with a #️⃣ icon are IPFS links!
 
+<!--more-->
+
 ## ✏️ Articles {#articles}
 
 - [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
