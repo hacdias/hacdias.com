@@ -1,7 +1,6 @@
 ---
 title: Uses
 noInteractions: true
-emoji: "\U0001F6E0"
 published: 2020-01-21T15:39:00Z
 updated: 2021-10-10T15:29:31.499487235Z
 ---

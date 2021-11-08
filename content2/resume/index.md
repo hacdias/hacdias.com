@@ -1,7 +1,6 @@
 ---
 title: Resume
 noInteractions: true
-emoji: "\U0001F393"
 ---
 
 <div class="head">

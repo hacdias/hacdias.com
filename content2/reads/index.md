@@ -3,7 +3,6 @@ title: Reads
 description: |
   A bookshelf of the books I have read in the past and the books I would like to read.
 noInteractions: true
-emoji: "\U0001F4DA"
 ---
 
 {{< figure src="https://cdn.hacdias.com/u/2021-02-book.gif" alt="Book" class="left pixelated" style="max-width: 100px; margin-top: -0.5rem; margin-right: 1rem;" >}}

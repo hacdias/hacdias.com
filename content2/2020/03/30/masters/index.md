@@ -1,6 +1,6 @@
 ---
 published: 2020-03-30T12:12:24.522Z
-section: micro
+section: notes
 properties:
   category:
   - life

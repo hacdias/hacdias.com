@@ -1,6 +1,6 @@
 ---
 published: 2020-05-11T20:44:16.729Z
-section: micro
+section: notes
 properties:
   category:
   - university

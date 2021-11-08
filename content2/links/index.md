@@ -1,7 +1,6 @@
 ---
 title: Links
 noInteractions: true
-emoji: "\U0001F4CC"
 published: 2020-02-12T21:00:00Z
 updated: 2021-09-22T21:34:37.256525066Z
 ---

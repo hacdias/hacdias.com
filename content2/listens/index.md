@@ -3,7 +3,6 @@ title: Listens
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
 noInteractions: true
-emoji: "\U0001F3B6"
 ---
 
 <style>

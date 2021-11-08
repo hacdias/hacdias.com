@@ -1,6 +1,6 @@
 ---
 published: 2020-02-29T22:19:56.901Z
-section: micro
+section: replies
 properties:
   category:
   - telegram

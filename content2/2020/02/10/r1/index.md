@@ -1,6 +1,6 @@
 ---
 published: 2020-02-10T07:03:15.193Z
-section: micro
+section: replies
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/02/2020-02-07-jvwap/
 ---

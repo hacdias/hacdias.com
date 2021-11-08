@@ -1,6 +1,6 @@
 ---
 published: 2020-01-09T15:29:15.575Z
-section: micro
+section: notes
 properties:
   category:
   - dweb

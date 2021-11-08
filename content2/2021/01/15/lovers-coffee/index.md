@@ -1,7 +1,7 @@
 ---
 title: Lovers Coffee
 published: 2021-01-15T00:00:00Z
-section: micro
+section: notes
 properties:
   category:
   - art

@@ -1,5 +1,5 @@
 {{ define "post/webmentions" }}
-  {{ $data := data .Entry  }}
+  {{ $data := .GetSidecar  }}
   {{ $count := len $data.Webmentions  }}
 
   <!-- TODO: filter private -->

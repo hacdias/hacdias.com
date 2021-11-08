@@ -1,6 +1,6 @@
 ---
 published: 2020-09-26T07:17:07.478Z
-section: micro
+section: replies
 properties:
   in-reply-to: https://twitter.com/mholt6/status/1309633018475155456
   syndication:

@@ -1,6 +1,6 @@
 ---
 published: 2020-03-16T07:49:36.541Z
-section: micro
+section: replies
 properties:
   in-reply-to: https://aaronparecki.com/2020/03/15/15/business-cards
 ---

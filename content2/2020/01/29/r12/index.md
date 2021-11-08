@@ -1,6 +1,6 @@
 ---
 published: 2020-01-29T12:34:31.628Z
-section: micro
+section: replies
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/01/fachinformatiker/
 ---

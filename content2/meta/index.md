@@ -1,7 +1,6 @@
 ---
 title: About This Website
 noInteractions: true
-emoji: ⚙️
 published: 2021-02-19T09:45:13Z
 updated: 2021-09-26T13:32:29.565001693Z
 ---

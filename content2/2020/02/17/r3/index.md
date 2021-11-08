@@ -1,6 +1,6 @@
 ---
 published: 2020-02-17T21:22:26.584Z
-section: micro
+section: replies
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/02/opinions-change/
 ---

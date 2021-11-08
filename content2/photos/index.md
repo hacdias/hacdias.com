@@ -1,6 +1,5 @@
 ---
 title: Photos
-emoji: "\U0001F4F8"
 ---
 
 ## Hi, I'm Henrique! 👋

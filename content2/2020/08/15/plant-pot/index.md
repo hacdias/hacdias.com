@@ -1,7 +1,7 @@
 ---
 title: Plant Pot
 published: 2020-08-15T00:00:00Z
-section: micro
+section: notes
 properties:
   category:
   - art

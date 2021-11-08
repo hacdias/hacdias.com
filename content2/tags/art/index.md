@@ -1,6 +1,5 @@
 ---
 title: art
-emoji: "\U0001F5BC"
 section: tags
 ---
 

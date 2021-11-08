@@ -1,6 +1,6 @@
 ---
 published: 2020-01-30T20:13:26.617Z
-section: micro
+section: replies
 properties:
   in-reply-to: https://jlelse.blog/links/2020/01/whatsapp-dangerous/
 ---

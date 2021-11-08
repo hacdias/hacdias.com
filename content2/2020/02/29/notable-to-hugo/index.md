@@ -2,7 +2,6 @@
 title: How Do I Generate My Knowledge Base From Notable
 description: |
   Here I describe my small journey so far with Notable and how I sync my website's Knowledge Base it with.
-emoji: "\U0001F4D3"
 published: 2020-02-29T21:37:00Z
 section: articles
 properties:

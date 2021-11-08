@@ -1,6 +1,6 @@
 ---
 published: 2020-03-24T07:35:24.834Z
-section: micro
+section: replies
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/03/lifethroughlenses/
 ---

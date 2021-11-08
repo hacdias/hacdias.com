@@ -1,7 +1,6 @@
 ---
 title: Contact
 noInteractions: true
-emoji: ✉️
 ---
 
 <style>

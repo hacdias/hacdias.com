@@ -1,6 +1,6 @@
 ---
 published: 2020-03-06T11:57:08.634Z
-section: micro
+section: replies
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/03/photos-workflow/
 ---

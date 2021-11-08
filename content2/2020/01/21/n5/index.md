@@ -1,6 +1,6 @@
 ---
 published: 2020-01-21T13:35:06.761Z
-section: micro
+section: notes
 properties:
   category:
   - design

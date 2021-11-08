@@ -1,7 +1,7 @@
 ---
 title: Toxic Flower
 published: 2020-06-15T00:00:00Z
-section: micro
+section: notes
 properties:
   category:
   - art

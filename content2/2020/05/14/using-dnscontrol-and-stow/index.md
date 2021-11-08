@@ -1,6 +1,6 @@
 ---
 published: 2020-05-14T21:36:29.879Z
-section: micro
+section: notes
 properties:
   category:
   - automation

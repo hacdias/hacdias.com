@@ -1,6 +1,5 @@
 ---
 title: Stream
-emoji: "\U0001F30A"
 ---
 
 <div class="subtitle">

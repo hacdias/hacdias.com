@@ -1,6 +1,6 @@
 ---
 published: 2020-03-27T19:27:01.885Z
-section: micro
+section: notes
 properties:
   category:
   - backup

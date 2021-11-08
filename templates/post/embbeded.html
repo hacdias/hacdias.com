@@ -1,6 +1,6 @@
 {{ define "post/embbeded" }}
   {{ $mf2 := .MF2 }}
-  {{ $data := data .Entry }}
+  {{ $data := .GetSidecar }}
   {{ with $data.Context }}
   <div class="h-cite ibox u-{{ $mf2.TypeProperty }}">
     <p>

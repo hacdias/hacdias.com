@@ -1,6 +1,6 @@
 ---
 published: 2020-02-07T07:43:33.452Z
-section: micro
+section: notes
 properties:
   category:
   - runescape

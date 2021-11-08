@@ -1,7 +1,6 @@
 ---
 title: Impossible List
 noInteractions: true
-emoji: "\U0001F92F"
 published: 2020-07-15T00:00:00Z
 updated: 2021-08-18T08:19:09.760889705Z
 ---

@@ -1,6 +1,5 @@
 ---
 title: Guestbook
-emoji: "\U0001F4DD"
 ---
 
 <style>
