@@ -13,20 +13,6 @@ menu:
     pre: ⚡️
 ---
 
-<style>
-:root {
-  --action: #fecb00
-}
-
-@media screen and (min-width: 38rem) {
-  body {
-    background: #fecb00 url(mailbox.jpg);
-    background-size: 400px;
-    background-attachment: fixed;
-  }
-}
-</style>
-
 If you need to reach me directly:
 
 - ☎️ [Telegram (@hacdias)](https://t.me/hacdias)
