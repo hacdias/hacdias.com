@@ -28,12 +28,7 @@
       </ol>
     </div>
 
-    {{ include "post/photos" . }}
-    {{ include "post/footer" . }}
-
-    {{ if not .Entry.NoInteractions }}
-      {{ include "post/webmentions" . }}
-    {{ end }}
+    {{ include "single/footer" . }}
   </article>
 </main>
 
