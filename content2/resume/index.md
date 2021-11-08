@@ -3,6 +3,8 @@ title: Resume
 noInteractions: true
 ---
 
+<!--more-->
+
 <div class="head">
 
 <div>

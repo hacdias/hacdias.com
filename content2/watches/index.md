@@ -11,26 +11,27 @@ figure.fig-popcorn {
   max-width: 130px;
   margin-top: 0
 }
-
-:root {
-  --action: #c0749d;
-}
-
-.box {
-  max-height: 50vh;
-  overflow: auto;
-}
-
-@media screen and (min-width: 38rem) {
-  body {
-    background: #48084f url(/watches/pattern.jpg);
-    background-size: 300px;
-    background-attachment: fixed;
-  }
-}
-
 </style>
 
-![Popcorn](https://cdn.hacdias.com/u/2021-02-popcorn.gif?class=right+pixelated+fig-popcorn)
+{{< figure src="https://cdn.hacdias.com/u/2021-02-popcorn.gif" alt="Popcorn" class="right pixelated fig-popcorn" >}}
 
-This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that I'm watching. I use Trakt to record what I watch and I created a [script](https://github.com/hacdias/silos-collector) to collect that information. Some dates are not be correct.
+This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that I'm watching. I use [Trakt](https://trakt.tv/dashboard) to record what I watch and I created a [script](https://github.com/hacdias/silos-collector) to collect that information. Some dates may not be correct.
+
+<!--more-->
+
+## 📺 Series {#series}
+
+<div class="box">
+
+{{< watches type="series" >}}
+
+</div>
+
+
+## 🎬 Movies {#movies}
+
+<div class="box">
+
+{{< watches type="movies" >}}
+
+</div>

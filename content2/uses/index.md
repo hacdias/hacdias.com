@@ -7,6 +7,8 @@ updated: 2021-10-10T15:29:31.499487235Z
 
 This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you the things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be a 100% up to date, but I will try to keep an eye on it to keep it alive!
 
+<!--more-->
+
 ## Hardware
 
 Despite trying to have as less devices as I can, I think I end up having some that are not required to have a functional life.
