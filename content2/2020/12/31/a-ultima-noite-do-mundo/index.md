@@ -1,5 +1,6 @@
 ---
-description: 'A última noite do mundo by Álvaro Magalhães, ISBN: 9789892317465'
+description: 'Finished reading: A última noite do mundo by Álvaro Magalhães, ISBN:
+  9789892317465'
 published: 2020-12-31T12:00:00Z
 section: reads
 properties:

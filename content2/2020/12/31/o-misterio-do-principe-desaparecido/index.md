@@ -1,5 +1,5 @@
 ---
-description: O Mistério do Príncipe Desaparecido by Enid Blyton
+description: 'Finished reading: O Mistério do Príncipe Desaparecido by Enid Blyton'
 published: 2020-12-31T12:00:00Z
 section: reads
 properties:

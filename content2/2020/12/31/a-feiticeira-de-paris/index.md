@@ -1,5 +1,5 @@
 ---
-description: 'A Feiticeira de Paris by Álvaro Magalhães, ISBN: 9789892321011'
+description: 'Finished reading: A Feiticeira de Paris by Álvaro Magalhães, ISBN: 9789892321011'
 published: 2020-12-31T12:00:00Z
 section: reads
 properties:

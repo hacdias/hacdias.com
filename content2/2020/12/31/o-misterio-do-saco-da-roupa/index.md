@@ -1,5 +1,5 @@
 ---
-description: O Mistério do Saco da Roupa by Enid Blyton
+description: 'Finished reading: O Mistério do Saco da Roupa by Enid Blyton'
 published: 2020-12-31T12:00:00Z
 section: reads
 properties:

@@ -1,5 +1,6 @@
 ---
-description: 'O Manuscrito Misterioso by Geronimo Stilton, ISBN: 9789722334723'
+description: 'Finished reading: O Manuscrito Misterioso by Geronimo Stilton, ISBN:
+  9789722334723'
 published: 2020-12-31T12:00:00Z
 section: reads
 properties:
