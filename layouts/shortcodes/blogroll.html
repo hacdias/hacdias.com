@@ -1,8 +1,0 @@
-{{ $cat := .Get "category" }}
-{{ $blogs := where .Site.Data.blogroll "category" "==" $cat }}
-
-<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));">
-  {{ range $i, $blog := $blogs }}
-    <li><a target="_blank" rel="noopener noreferrer" href="{{ .site }}">{{ .title }}</a></li>
-  {{ end }}
-</ul>

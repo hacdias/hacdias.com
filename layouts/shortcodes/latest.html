@@ -1,5 +1,0 @@
-{{ $posts := partial "get-pages.html" .Page }}
-
-{{ range first (.Get "n") $posts }}
-  {{ partial "post/card" . }}
-{{ end }}
