@@ -1,5 +1,6 @@
 ---
 title: Guestbook
+template: guestbook
 ---
 
 <style>
