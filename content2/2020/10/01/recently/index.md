@@ -3,7 +3,8 @@ title: Recently in September '20
 description: |
   A small update.
 published: 2020-10-01T09:00:00+02:00
-section: articles
+section:
+- articles
 properties:
   category:
   - recently

@@ -1,6 +1,8 @@
 ---
 published: 2020-01-01T11:40:06.488Z
-section: notes
+section:
+- micro
+- notes
 properties:
   syndication:
   - https://twitter.com/hacdias/status/1212337716999970818

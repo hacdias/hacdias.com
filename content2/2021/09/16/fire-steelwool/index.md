@@ -1,7 +1,8 @@
 ---
 title: Fire & Steel Wool
 published: 2021-09-16T06:45:00Z
-section: photos
+section:
+- photos
 ---
 
 I still don't know when to post on the photos section, or on the microblog section. I want to have the best pictures on this section, but then sometimes I just want to publish a single picture.

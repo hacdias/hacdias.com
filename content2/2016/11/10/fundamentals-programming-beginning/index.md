@@ -1,7 +1,8 @@
 ---
 title: 'Fundamentals of Programming #1: Beginning'
 published: 2016-11-10T00:00:00Z
-section: articles
+section:
+- articles
 ---
 
 This is the first article of The Fundamentals of Programming Using

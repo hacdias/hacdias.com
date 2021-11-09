@@ -4,7 +4,8 @@ description: |
   That time of the year has come. It ended and the last digit of the
   year went up. 2020 was a different year to say the least.
 published: 2021-01-01T08:00:00+01:00
-section: articles
+section:
+- articles
 properties:
   category:
   - recently

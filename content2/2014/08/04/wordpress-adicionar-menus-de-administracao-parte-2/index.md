@@ -4,7 +4,8 @@ description: Esta é a continuação do tutorial sobre como adicionar menus de a
   a temas e plugins do WordPress.
 published: 2014-08-04T12:01:37Z
 updated: 2015-06-10T11:27:37Z
-section: articles
+section:
+- articles
 properties:
   category:
   - php

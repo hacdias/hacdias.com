@@ -3,7 +3,8 @@ title: Find Visible Segments by Sweeping Lines
 description: |
   Geometric algorithms can be quite fascinating things. I dive a bit into sweeping line algorithms and how to find visible segments in a plane.
 published: 2020-11-16T09:00:00+01:00
-section: articles
+section:
+- articles
 properties:
   category:
   - algorithms

@@ -1,6 +1,8 @@
 ---
 published: 2020-11-24T21:53:09Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - network

@@ -1,7 +1,8 @@
 ---
 title: 'Fundamentals of Programming #5: Data Types I'
 published: 2016-11-15T00:00:00Z
-section: articles
+section:
+- articles
 ---
 
 In our beginning articles, we mentioned that there are some

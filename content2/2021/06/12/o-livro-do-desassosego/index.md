@@ -1,7 +1,8 @@
 ---
 description: 'Want to read: O Livro do Desassosego by Fernando Pessoa'
 published: 2021-06-12T21:54:00Z
-section: reads
+section:
+- reads
 properties:
   read-of:
     properties:

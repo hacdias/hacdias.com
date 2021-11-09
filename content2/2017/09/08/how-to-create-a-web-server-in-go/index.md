@@ -1,7 +1,8 @@
 ---
 title: How To Create a Web Server in Go
 published: 2017-09-08T00:00:00Z
-section: articles
+section:
+- articles
 properties:
   category:
   - go

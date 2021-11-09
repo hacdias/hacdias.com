@@ -1,6 +1,8 @@
 ---
 published: 2020-01-28T10:06:45.518Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - comics

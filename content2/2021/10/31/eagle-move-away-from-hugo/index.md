@@ -2,7 +2,8 @@
 title: About Moving Away From Hugo
 published: 2021-10-31T19:07:43.008011647Z
 updated: 2021-10-31T22:06:43.941004664Z
-section: articles
+section:
+- articles
 properties:
   category:
   - meta

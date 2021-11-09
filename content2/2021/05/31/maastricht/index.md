@@ -1,7 +1,8 @@
 ---
 title: Maastricht
 published: 2021-05-31T00:00:00Z
-section: photos
+section:
+- photos
 ---
 
 We went to Maastricht in a single Sunday. It was quite hot and I got a sunburn. Didn't expect that. Next time I'll be more careful.

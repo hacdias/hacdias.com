@@ -1,7 +1,8 @@
 ---
 description: 'Finished reading: Uma Aventura Secreta by Ana Maria Magalhães'
 published: 2020-12-31T12:00:00Z
-section: reads
+section:
+- reads
 properties:
   read-of:
     properties:

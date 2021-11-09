@@ -1,7 +1,8 @@
 ---
 description: 'Finished reading: The Giver by Lois Lowry, ISBN: 9780385732550'
 published: 2020-12-31T12:00:00Z
-section: reads
+section:
+- reads
 properties:
   read-of:
     properties:

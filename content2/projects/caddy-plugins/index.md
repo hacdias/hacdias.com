@@ -2,8 +2,9 @@
 title: Caddy Plugins
 description: |
   Caddy is a lightweight, fast, general-purpose, cross-platform HTTP/2 web server with automatic HTTPS with support for plugins. I've created some.
-noInteractions: true
-section: projects
+section:
+- projects
+noShowInteractions: true
 ---
 
 [Caddy](https://caddyserver.com) is a HTTP/2 web server with automatic HTTPS. It's easy to use, has no dependencies and it is already production-ready. One of the biggest advantages of Caddy is that it is relatively simple to create plugins that extend its own native functionalities, using Go.

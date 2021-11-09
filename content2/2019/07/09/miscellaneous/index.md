@@ -1,7 +1,8 @@
 ---
 title: Miscellaneous
 published: 2019-07-09T00:00:00Z
-section: photos
+section:
+- photos
 ---
 
 This is a collection of miscellaneous pictures from before I started documenting my life more strictly through pictures. I don't have many pictures before 2020 that are worth posting. However, the ones here, I really enjoy them.

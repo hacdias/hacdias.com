@@ -1,6 +1,6 @@
 ---
 title: Search
-noInteractions: true
+noShowInteractions: true
 ---
 
 

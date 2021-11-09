@@ -1,6 +1,8 @@
 ---
 published: 2020-11-06T17:44:30Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://commentpara.de/comment/690.htm
 ---

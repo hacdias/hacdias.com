@@ -1,7 +1,9 @@
 ---
 title: Broccoli
 published: 2019-09-15T00:00:00Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - art

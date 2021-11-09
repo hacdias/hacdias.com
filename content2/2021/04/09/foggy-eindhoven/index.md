@@ -1,7 +1,8 @@
 ---
 title: Foggy Morning
 published: 2021-04-09T00:00:00Z
-section: photos
+section:
+- photos
 ---
 
 <div class="grid g3">

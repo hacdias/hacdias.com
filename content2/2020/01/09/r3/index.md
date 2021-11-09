@@ -1,6 +1,8 @@
 ---
 published: 2020-01-09T19:25:01.803Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://twitter.com/Yusadolat/status/1215337173182042113
   syndication:

@@ -2,7 +2,7 @@
 title: Projects
 description: |
   A non-exhaustive list of the most impactful and important projects I have been involved with in the past.
-noInteractions: true
+noShowInteractions: true
 ---
 
 <style>

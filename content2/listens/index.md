@@ -2,8 +2,8 @@
 title: Listens
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-noInteractions: true
 template: listens
+noShowInteractions: true
 ---
 
 <style>

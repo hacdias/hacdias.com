@@ -1,8 +1,8 @@
 ---
 title: Uses
-noInteractions: true
 published: 2020-01-21T15:39:00Z
 updated: 2021-10-10T15:29:31.499487235Z
+noShowInteractions: true
 ---
 
 This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you the things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be a 100% up to date, but I will try to keep an eye on it to keep it alive!

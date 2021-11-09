@@ -3,7 +3,8 @@ title: Pi Day 2015
 description: Today, 14th march, is the Pi Day 2015. See this small video which talks
   a little bit about Pi.
 published: 2015-03-15T10:36:51Z
-section: articles
+section:
+- articles
 properties:
   category:
   - mathematics

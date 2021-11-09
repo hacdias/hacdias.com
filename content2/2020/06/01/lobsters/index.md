@@ -1,6 +1,8 @@
 ---
 published: 2020-06-01T07:24:38.574Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://hacdias.com/micro/2020/05/lobsters/
   syndication:

@@ -1,6 +1,8 @@
 ---
 published: 2020-01-30T23:16:46.642Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - posse

@@ -1,7 +1,8 @@
 ---
 title: 'Fundamentals of Programming #4: Language C'
 published: 2016-11-14T00:00:00Z
-section: articles
+section:
+- articles
 ---
 
 The years between 1969 and 1973 were very exciting for the

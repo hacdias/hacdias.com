@@ -4,7 +4,8 @@ description: Depois de publicar um artigo sobre as diferenças entre os operador
   '==' e '===', vou falar sobre as diferenças entre os operadores '&&/||' e 'AND/OR'.
 published: 2014-07-28T11:00:32Z
 updated: 2015-06-10T15:01:00Z
-section: articles
+section:
+- articles
 properties:
   category:
   - php

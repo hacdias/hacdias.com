@@ -1,6 +1,8 @@
 ---
 published: 2020-04-13T20:56:56.509Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://jlelse.blog/links/2020/04/eleventy/
 ---

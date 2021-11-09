@@ -1,6 +1,8 @@
 ---
 published: 2020-03-25T19:24:40.529Z
-section: replies
+section:
+- micro
+- replies
 properties:
   category:
   - remote

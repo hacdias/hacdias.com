@@ -1,7 +1,8 @@
 ---
 title: Utrecht
 published: 2021-04-30T00:00:00Z
-section: photos
+section:
+- photos
 ---
 
 <style>

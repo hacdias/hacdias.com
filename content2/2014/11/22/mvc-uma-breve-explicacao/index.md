@@ -3,7 +3,8 @@ title: Breve Explicação Sobre o Modelo MVC
 description: O modelo MVC (Model-View-Controller) é um modelo extremamente utilizado
   nas aplicações web. Apresentamos uma breve explicação sobre este modelo.
 published: 2014-11-22T16:02:56Z
-section: articles
+section:
+- articles
 properties:
   category:
   - php

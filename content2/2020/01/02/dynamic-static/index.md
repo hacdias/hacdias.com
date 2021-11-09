@@ -1,7 +1,8 @@
 ---
 title: Build a Dynamic Website… or Not?
 published: 2020-01-02T23:40:00Z
-section: articles
+section:
+- articles
 properties:
   category:
   - meta

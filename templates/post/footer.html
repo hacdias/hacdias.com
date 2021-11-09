@@ -8,8 +8,8 @@
         <span class="p-country">USA</span>
     </span> */}}
 
-  <!-- TODO:  find a better way -->
-  {{ if not (eq .Section "") }}
+  <!-- TODO:  find a better way, nshow everywhere? -->
+  {{ if ne (len .Sections) 0 }}
   <footer>
     {{ with $location }}
     <p>📍 {{ .LocalityRegionCountry}}<!-- WEATHER? --></p>

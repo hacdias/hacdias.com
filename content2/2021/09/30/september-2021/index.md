@@ -2,7 +2,8 @@
 title: Recently in September '21
 description: October is coming and here is my review of September.
 published: 2021-09-30T17:31:36.325426421Z
-section: articles
+section:
+- articles
 properties:
   category:
   - recently

@@ -1,6 +1,8 @@
 ---
 published: 2021-10-20T18:07:03.215693684Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://jlelse.blog/micro/2021/10/2021-10-20-uwmdk
 ---

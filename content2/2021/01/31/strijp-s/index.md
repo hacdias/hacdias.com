@@ -1,7 +1,8 @@
 ---
 title: Strijp-S
 published: 2021-01-31T00:00:00Z
-section: photos
+section:
+- photos
 ---
 
 <div class="grid g3">

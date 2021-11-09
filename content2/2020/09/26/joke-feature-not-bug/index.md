@@ -1,6 +1,8 @@
 ---
 published: 2020-09-26T09:39:30.142Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://twitter.com/the_basebandit/status/1309759820300419073
   syndication:

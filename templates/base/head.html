@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="{{ relURL "/css/cards.css" }}">
   <link rel="stylesheet" href="{{ relURL "/css/webmentions.css" }}">
 
-  {{ if eq .Section "photos" }}
+  {{ if contains .Sections "photos" }}
     <link rel="stylesheet" href="{{ relURL "/css/photos.base.css" }}">
     {{ if .IsListing }}
       <link rel="stylesheet" href="{{ relURL "/css/photos.list.css" }}">

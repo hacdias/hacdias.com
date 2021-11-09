@@ -2,7 +2,8 @@
 description: 'Finished reading: Uma Aventura no Verão by Ana Maria Magalhães, ISBN:
   9789722107747'
 published: 2020-12-31T12:00:00Z
-section: reads
+section:
+- reads
 properties:
   read-of:
     properties:

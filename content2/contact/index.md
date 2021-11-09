@@ -1,21 +1,7 @@
 ---
 title: Contact
-noInteractions: true
+noShowInteractions: true
 ---
-
-<style>
-:root {
-  --action: #fecb00
-}
-
-@media screen and (min-width: 38rem) {
-  body {
-    background: #fecb00 url(mailbox.jpg);
-    background-size: 400px;
-    background-attachment: fixed;
-  }
-}
-</style>
 
 If you need to reach me directly:
 

@@ -3,7 +3,8 @@ title: Uma História e Repositórios do Git e GitHub"
 description: O Git é dos sistemas de controlo de versão mais utilizados por todo o
   mundo. Hoje é hora de falar um pouco da história do Git e do GitHub."
 published: 2014-09-02T14:09:59Z
-section: articles
+section:
+- articles
 properties:
   category:
   - git

@@ -1,6 +1,8 @@
 ---
 published: 2020-01-02T23:45:24.733Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://hacdias.com/2020/01/02/6/dynamic-static/
   syndication:

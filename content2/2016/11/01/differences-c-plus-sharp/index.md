@@ -1,7 +1,8 @@
 ---
 title: Differences Between C, C++ and C#
 published: 2016-11-01T00:00:00Z
-section: articles
+section:
+- articles
 ---
 
 There is one thing in common with the languages C, C++ and

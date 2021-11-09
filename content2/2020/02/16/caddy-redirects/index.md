@@ -1,6 +1,8 @@
 ---
 published: 2020-02-16T14:32:39.871Z
-section: replies
+section:
+- micro
+- replies
 properties:
   category:
   - meta

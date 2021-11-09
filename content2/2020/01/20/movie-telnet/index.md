@@ -1,6 +1,8 @@
 ---
 published: 2020-01-20T22:23:22.202Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - terminal

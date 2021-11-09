@@ -1,7 +1,8 @@
 ---
 title: Hometown Lockdown
 published: 2020-05-21T23:30:50.893Z
-section: photos
+section:
+- photos
 ---
 
 The year of 2020 was marked by an unexpected pandemic.  Even though I managed to travel a bit during the first two months of the year, the rest of the year was left in an uncertain state.

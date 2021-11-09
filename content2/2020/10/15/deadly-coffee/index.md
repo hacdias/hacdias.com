@@ -1,7 +1,9 @@
 ---
 title: Deadly Coffee
 published: 2020-10-15T00:00:00Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - art

@@ -1,6 +1,7 @@
 ---
 title: recently
-section: tags
+section:
+- tags
 ---
 
 

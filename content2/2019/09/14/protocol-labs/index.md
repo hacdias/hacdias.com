@@ -4,7 +4,8 @@ description: |
   Protocol Labs is a research and development institution for improving the Internet technology. Focusing on IPFS, the InterPlanetary File System, we're building a decentralised, P2P and content-addressable network for future-proofing the web.
 deleted: true
 published: 2019-09-14T09:00:00Z
-section: articles
+section:
+- articles
 properties:
   category:
   - reflection

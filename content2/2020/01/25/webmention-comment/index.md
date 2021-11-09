@@ -1,6 +1,8 @@
 ---
 published: 2020-01-25T15:39:17.084Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - indieweb

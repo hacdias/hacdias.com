@@ -1,6 +1,8 @@
 ---
 published: 2021-09-24T09:40:38+02:00
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://jlelse.blog/micro/2021/09/2021-09-24-bjucw
 ---

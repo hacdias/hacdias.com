@@ -3,7 +3,8 @@ title: How to Effectively Backup Your Emails
 description: |
   E-mail is one of the most important communication methods nowadays. But do you back it up? What if the service you use goes out of service?
 published: 2020-11-02T09:00:00+01:00
-section: articles
+section:
+- articles
 properties:
   category:
   - security

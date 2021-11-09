@@ -1,6 +1,6 @@
 ---
 title: Resume
-noInteractions: true
+noShowInteractions: true
 ---
 
 <!--more-->

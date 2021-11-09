@@ -1,6 +1,8 @@
 ---
 published: 2021-11-04T12:30:39.697487611Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://twitter.com/aaronpk/status/1456237248941232129
   syndication:

@@ -3,7 +3,8 @@ title: A Take on Approximation Algorithms
 description: |
   Approximation algorithms guarantee that a solution is within a certain range from the optimal solution. Let's apply one to the load balancing problem.
 published: 2020-09-28T09:00:00+02:00
-section: articles
+section:
+- articles
 ---
 
 I recently started my Master's degree in Computer Science and Engineering (MSCE) and one of the first courses I am following is Advanced Algorithms. It is actually the only single course that is mandatory for all MSCE students, independently of the track/stream they chose. I chose the Web Stream.

@@ -1,7 +1,8 @@
 ---
 title: Moving to Eindhoven
 published: 2020-09-21T23:30:50.893Z
-section: photos
+section:
+- photos
 ---
 
 In August 2020, I moved to the Netherlands 🇳🇱, more specifically to Eindhoven, to pursue my Master's in Computer Science and Engineering.

@@ -1,6 +1,8 @@
 ---
 published: 2020-02-21T21:15:34.107Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - wiki

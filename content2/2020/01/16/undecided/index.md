@@ -1,6 +1,8 @@
 ---
 published: 2020-01-16T09:57:21.715Z
-section: notes
+section:
+- micro
+- notes
 properties:
   category:
   - meta

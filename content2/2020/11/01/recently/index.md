@@ -3,7 +3,8 @@ title: Recently in October '20
 description: |
   A small update.
 published: 2020-11-01T09:00:00+01:00
-section: articles
+section:
+- articles
 properties:
   category:
   - recently

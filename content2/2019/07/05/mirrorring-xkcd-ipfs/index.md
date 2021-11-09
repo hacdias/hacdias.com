@@ -3,7 +3,8 @@ title: Mirroring XKCD Comics to Ipfs
 description: |
   How I built a cloner for xkcd and keep the clone up to date on IPFS.
 published: 2019-07-05T16:20:00Z
-section: articles
+section:
+- articles
 properties:
   category:
   - ipfs

@@ -1,6 +1,8 @@
 ---
 published: 2020-04-08T17:31:19.635Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://twitter.com/neptzoo/status/1247856377642565633
   syndication:

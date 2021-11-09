@@ -1,6 +1,8 @@
 ---
 published: 2020-10-13T13:47:55Z
-section: replies
+section:
+- micro
+- replies
 properties:
   in-reply-to: https://jan.boddez.net/notes/514f198e74
 ---

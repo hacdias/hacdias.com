@@ -1,7 +1,8 @@
 ---
 title: Costa Alentejana
 published: 2020-06-21T23:30:50.893Z
-section: photos
+section:
+- photos
 ---
 
 Had the opportunity to travel through a bit of the Portuguese coast, which can be mesmerizing in some places.

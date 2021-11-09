@@ -1,7 +1,8 @@
 ---
 title: Colorful May
 published: 2021-05-30T00:00:00Z
-section: photos
+section:
+- photos
 ---
 
 <style>

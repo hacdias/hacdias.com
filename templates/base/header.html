@@ -1,5 +1,5 @@
 {{ define "base/header" }}
-  {{ $notPhotos := not (eq .Entry.Section "photos") }}
+  {{ $notPhotos := not (contains .Sections "photos") }}
 
   {{ if $notPhotos }}
   <div id='header'>
