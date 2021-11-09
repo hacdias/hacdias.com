@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <main role='main'>
+    <h1>{{ .Title }}</h1>
+
+    {{- with .Content }}
+      <div class='copy'>{{ md . }}</div>
+    {{- end }}
+
+    <div class="terms">
+      <ul>
+        {{ range .Tags }}
+          <li>
+            <a href="{{ relURL (printf "/tags/%s" .) }}">{{ . }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+{{ end }}
+
+{{ define "tags" }}
+  {{ template "base" . }}
+{{ end }}
