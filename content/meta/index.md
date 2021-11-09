@@ -7,6 +7,8 @@ emoji: ⚙️
 noMentions: true
 ---
 
+<!--meta-->
+
 <div class="subtitle">
 
 I have been running this website since 2014. Since then, a lot has changed. My repository shows over 5000 commits and that's just the changes after I migrated to a static website.
