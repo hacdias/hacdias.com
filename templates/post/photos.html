@@ -1,5 +1,9 @@
 {{ define "post/photos" }}
-  {{ range .MF2.Strings "photo" }}
-    <img src="{{ . }}">
+  {{ with .MF2.Photos }}
+    <div class="fw {{ with $.PhotoClass}}{{.}}{{ end }}">
+    {{ range $i, $photo := . }}
+      {{ figure $photo.value $photo.alt }}
+    {{ end }}
+    </div>
   {{ end }}
 {{ end }}

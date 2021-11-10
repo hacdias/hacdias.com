@@ -17,4 +17,6 @@
   <!-- TODO: finish this -->
 
   {{- with .Content }}{{ md . }}{{ end -}}
+
+  {{ include "post/photos" . }}
 {{ end }}
