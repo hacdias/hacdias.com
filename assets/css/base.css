@@ -302,8 +302,8 @@ details summary {
   margin-bottom: 1rem;
 }
 
-#header > a,
-#header {
+#header,
+#header > div > a {
   display: flex;
   align-items: center;
 }
@@ -314,11 +314,15 @@ details summary {
   width: 16rem;
 }
 
+#header form input {
+  width: 100%;
+}
+
 #header p {
   margin: 0;
 }
 
-#header img {
+#header .logo {
   width: 3rem;
   margin-right: 0.5rem;
 }
@@ -329,7 +333,7 @@ details summary {
   color: var(--black);
 }
 
-#navbar li:first-of-type,
+#header label,
 #navbar input {
   display: none;
 }
@@ -353,14 +357,14 @@ details summary {
   margin: 0;
 }
 
-#navbar a {
+#navbar li a {
   text-align: center;
   display: block;
   padding: 0.6rem;
   font-weight: bold;
 }
 
-#navbar a:hover {
+#navbar li a:hover {
   background-color: var(--dark-gray);
 }
 
@@ -549,8 +553,23 @@ figure.right {
     --half-space: 1rem;
   }
 
+  #header {
+    display: block;
+    width: calc(100% + 2 * var(--space));
+    margin-left: calc(var(--space) * -1);
+    margin-top: calc(var(--space) * -1);
+  }
+
   #header form {
-    display: none;
+    width: 100%;
+  }
+
+  #header form input {
+    padding: 0.6rem var(--half-space);
+  }
+
+  #navbar {
+    margin-top: 0;
   }
 
   #navbar ul {
@@ -560,16 +579,42 @@ figure.right {
   #navbar li {
     display: none;
   }
+  
+  #header > div {
+    display: flex;
+    font-weight: bold;
+    padding: 0.6rem var(--space) ;
+    justify-content: space-between;
+    background: var(--black);
+    color: var(--white);
+  }
 
-  #navbar li:first-of-type {
+  #header .logo {
+    filter: invert(1);
+    height: 1rem;
+    width: auto;
+    margin-right: 0.25rem;
+  }
+
+  #header label {
     display: block;
+    cursor: pointer;
   }
 
-  #navbar label a {
-    text-align: right;
+  #header label .emoji {
+    vertical-align: middle;
   }
 
-  #navbar a {
+  #header .name {
+    color: var(--white);
+    font-size: 1rem;
+  }
+
+  #header .aka {
+    display: none;
+  }
+
+  #navbar li a {
     text-align: left;
     padding-left: var(--space);
     padding-right: var(--space);
@@ -591,6 +636,20 @@ figure.right {
   }
   .inline-form input[type="submit"] {
     margin: 0.5rem 0 0 0;
+  }
+
+  .mgrid {
+    display: block !important;
+  }
+
+  .mgrid figure {
+    height: auto !important;
+    margin: inherit !important;
+  }
+  
+  .mgrid figure img {
+    object-fit: cover !important;
+    height: auto !important;
   }
 }
 

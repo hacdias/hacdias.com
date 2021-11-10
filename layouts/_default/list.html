@@ -7,7 +7,7 @@
     <div class='copy'>{{ . }}</div>
   {{- end }}
 
-  <div class='h-feed'>
+  <div class="h-feed">
     {{- $paginator := .Paginate (partialCached "get-pages" . .Type .Title) -}}
     {{- range .Paginator.Pages -}}
       {{- partial "post/card" . -}}

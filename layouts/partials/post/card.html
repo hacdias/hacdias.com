@@ -2,20 +2,8 @@
 {{ $isArticles := eq .Section "articles" }}
 {{ $isMicro := eq .Section "micro" }}
 
-<article class='h-entry card{{ if $isPhotos }} photos{{ end }}'>
+<article class='h-entry card'>
   <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="u-url nl link"></a>
-
-  {{ if $isPhotos }}
-    {{ with .Params.cover }}
-    <figure>
-      <picture>
-        <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-500x.webp 500w, https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.webp 1000w" type="image/webp">
-        <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-500x.jpeg 500w, https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.jpeg 1000w">
-        <img class='u-photo' src="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.jpeg" alt="{{ .title }}" title="{{ .title }}">
-      </picture>
-    </figure>
-    {{ end }}
-  {{ end }}
 
   <header>
     <p>
@@ -28,11 +16,12 @@
     {{ with .Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
   </header>
 
-  {{ if $isMicro }}
+  {{ if or $isMicro $isPhotos }}
     {{- partialCached "post/embedded" . .Permalink }}
     {{ with .Content }}
       <div class='copy e-content {{ if not $.Page.Title }}p-name{{ end }}'>{{ . }}</div>
     {{ end }}
+    {{ partial "post/photos" . }}
   {{ else if $isArticles }}
     {{ with .Summary }}<div class='copy p-summary'><p>{{ . }}</p></div>{{ end }}
     <div class="more">READ MORE</div>

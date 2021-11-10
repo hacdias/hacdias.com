@@ -1,37 +1,29 @@
-{{ $notPhotos := not (eq .Section "photos") }}
-
-{{ if $notPhotos }}
 <div id='header'>
-  <a class='nl' href='{{ relURL .Site.BaseURL }}'>
-    <img alt='Logo' src="{{ relURL "/logo.svg" }}">
-    <div>
-      <p class='name'>Henrique Dias</p>
-      <p class='aka'>aka @hacdias</p>
-    </div>
-  </a>
+  <div>
+    <a class='nl' href='{{ relURL .Site.BaseURL }}'>
+      <img class="logo" alt='Logo' src="{{ relURL "/logo.svg" }}">
+      <div>
+        <p class='name'>Henrique Dias</p>
+        <p class='aka'>aka @hacdias</p>
+      </div>
+    </a>
+    <label for="toggler">Menu 🍔</label>
+  </div>
 
   {{ if not (eq .Title "Search") }}
-    <form action="{{ relURL "/search" }}" method="get" class="inline-form">
+    <form action="{{ relURL "/search" }}" method="get">
       <input required type="text" placeholder='Search…' id="query" name="q">
-      <input type="submit" value="Go">
     </form>
   {{ end }}
 </div>
-{{ end }}
 
-<nav id='navbar' {{ if $notPhotos }}class='fw'{{ end }}>
+<nav id='navbar' class='fw'>
   <input type="checkbox" id="toggler">
   <ul>
-    <li><label for="toggler"><a class='nl'>🍔 Touch me</a></label></li>
-    {{ if eq .Section "photos" }}
-      <li>
-        <a href='{{ relURL "/" }}' class='nl'>Home</a>
-      </li>
-    {{ end }}
     {{ range .Site.Menus.main -}}
       <li>
         <a href='{{ .Page.RelPermalink }}' class='nl'>
-          {{- if $notPhotos }}{{ or .Pre .Page.Params.emoji }} {{end}}{{ .Name -}}
+          {{- or .Pre .Page.Params.emoji }} {{ .Name -}}
         </a>
       </li>
     {{ end }}

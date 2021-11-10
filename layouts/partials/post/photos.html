@@ -1,0 +1,19 @@
+{{ with .Params.photo }}
+  <div class="fw {{ with $.Params.photoClass}}{{.}}{{ end }}">
+    {{ range . }}
+      {{ $src := . }}
+      {{ $alt := "" }}
+      {{ if reflect.IsMap . }}
+        {{ $src = .value }}
+        {{ $alt = .alt }}
+      {{ end }}
+      <figure>
+        <picture>
+          <source srcset="https://cdn.hacdias.com/i/t/{{ $src }}-500x.webp 500w, https://cdn.hacdias.com/i/t/{{ $src }}-1000x.webp 1000w" type="image/webp">
+          <source srcset="https://cdn.hacdias.com/i/t/{{ $src }}-500x.jpeg 500w, https://cdn.hacdias.com/i/t/{{ $src }}-1000x.jpeg 1000w">
+          <img class='u-photo' src="https://cdn.hacdias.com/i/t/{{ $src }}-1000x.jpeg" {{ with $alt }}alt="{{ . }}" title="{{ . }}"{{ end }}>
+        </picture>
+      </figure>
+    {{ end }}
+  </div>
+{{ end }}

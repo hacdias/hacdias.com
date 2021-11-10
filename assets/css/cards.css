@@ -46,7 +46,7 @@
   font-weight: bold;
   border-radius: var(--radius);
 }
-
+/* 
 .card.photos {
   overflow: hidden;
   color: var(--white);
@@ -82,4 +82,4 @@
 
 .card.photos .link:hover + figure {
   transform: scale(1.1);
-}
+} */
