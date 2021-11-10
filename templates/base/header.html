@@ -1,37 +1,29 @@
 {{ define "base/header" }}
-  {{ $notPhotos := not (contains .Sections "photos") }}
-
-  {{ if $notPhotos }}
   <div id='header'>
-    <a class='nl' href='{{ relURL "/" }}'>
-      <img alt='Logo' src="{{ relURL "/logo.svg" }}">
-      <div>
-        <p class='name'>Henrique Dias</p>
-        <p class='aka'>aka @hacdias</p>
-      </div>
-    </a>
+    <div>
+      <a class='nl' href='{{ relURL "/" }}'>
+        <img class="logo" alt='Logo' src="{{ relURL "/logo.svg" }}">
+        <div>
+          <p class='name'>Henrique Dias</p>
+          <p class='aka'>aka @hacdias</p>
+        </div>
+      </a>
+      <label for="toggler">Menu 🍔</label>
+    </div>
 
     {{ if not (eq .Entry.Title "Search") }}
       <form action="{{ relURL "/search" }}" method="get" class="inline-form">
         <input required type="text" placeholder='Search…' id="query" name="query">
-        <input type="submit" value="Go">
       </form>
     {{ end }}
   </div>
-  {{ end }}
 
-  <nav id='navbar' {{ if $notPhotos }}class='fw'{{ end }}>
+  <nav id='navbar' class="fw">
     <input type="checkbox" id="toggler">
     <ul>
-      <li><label for="toggler"><a class='nl'>🍔 Touch me</a></label></li>
-      {{ if not $notPhotos }}
-        <li>
-          <a href='{{ relURL "/" }}' class='nl'>Home</a>
-        </li>
-      {{ end }}
       {{ range .Site.Menus.main -}}
         <li>
-          <a href='{{ relURL .Link }}' class='nl'>{{ if $notPhotos }}{{ .Emoji }} {{ end }}{{ .Name }}</a>
+          <a href='{{ relURL .Link }}' class='nl'>{{ .Emoji }} {{ .Name }}</a>
         </li>
       {{ end }}
     </ul>
