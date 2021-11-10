@@ -1,23 +1,24 @@
 ---
+dataId: 86adfe815bf093d97b7f90b84b1d0808848f51811c20ad23edce20d9bf61a83f
 title: March Lockdown
 date: 2020-03-31T12:00:00.893Z
 photo:
-- value: 2020-03-hometown-cross
-  alt: Do Not Enter
-- value: 2020-03-hometown-flower
-  alt: White Flower
-- value: 2020-03-home-03
-  alt: The Dead Rise Again
-- value: 2020-03-home-01
-  alt: My Dog, Lara
-- value: 2020-03-hometown-mom
-  alt: My Mother
-- value: 2020-03-home-02
-  alt: Flower Pots
-- value: 2020-03-chimney
-  alt: Chimney
-- value: 2020-03-hometown-dad
-  alt: My Dad
+- alt: Do Not Enter
+  value: 2020-03-hometown-cross
+- alt: White Flower
+  value: 2020-03-hometown-flower
+- alt: The Dead Rise Again
+  value: 2020-03-home-03
+- alt: My Dog, Lara
+  value: 2020-03-home-01
+- alt: My Mother
+  value: 2020-03-hometown-mom
+- alt: Flower Pots
+  value: 2020-03-home-02
+- alt: Chimney
+  value: 2020-03-chimney
+- alt: My Dad
+  value: 2020-03-hometown-dad
 photoClass: g03lockdown mgrid
 ---
 
