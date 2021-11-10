@@ -1,8 +1,8 @@
 ---
-dataId: 39c37737b48f9fd96b6ef13966ffbcc88cd6af36c7189a55e1afc88227c019b2
-date: 2020-09-20T06:59:49Z
+date: 2020-09-20T06:59:49.000Z
+photo:
+- value: 2020-09-rotterdam
+  alt: Yellow Stairs in Rotterdam
 syndication:
 - https://www.instagram.com/p/CFWWNhHFFOy/
 ---
-
-

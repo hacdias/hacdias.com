@@ -1,7 +1,10 @@
 ---
-dataId: f406b7040081a6bfe2cf1de55fca602fcd35ceb8d5715bab67efd1cce5b1d535
 title: Azores
-date: 2019-09-30T07:58:31Z
+date: 2019-09-30T07:58:31.000Z
+photo:
+- 2019-07-azores-01
+- 2019-07-azores-02
+- 2019-07-azores-03
 syndication:
 - https://www.instagram.com/p/B3Bx76glifj/
 ---

@@ -1,9 +1,8 @@
 ---
-dataId: 99a1d342f19c908f83e36ac7cbc05df826701762608cdf4fc0bf20edbccbe49f
 title: Glasgow Tunnel
-date: 2018-10-09T21:26:11Z
+date: 2018-10-09T21:26:11.000Z
+photo:
+- 2020-03-glasgow-tunnel
 syndication:
 - https://www.instagram.com/p/BoujX-FgPr7/
 ---
-
-
