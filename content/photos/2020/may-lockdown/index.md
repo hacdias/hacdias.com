@@ -1,13 +1,7 @@
 ---
+dataId: 8fb53fc55af18dd625327be4e565e8953b6fea8f5c2079686ce530154a2e4d2a
 title: May Lockdown
 date: 2020-05-21T23:30:50.893Z
-photo:
-- 2020-05-nature-02
-- 2020-05-nature-01
-- 2020-05-nature-03
-- 2020-05-nature-04
-- 2020-05-nature-05
-photoClass: g05lk mgrid
 ---
 
 <style>

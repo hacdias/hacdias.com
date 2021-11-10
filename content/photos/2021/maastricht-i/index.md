@@ -1,18 +1,7 @@
 ---
+dataId: 56b210c0fc6884d440c95b950ea6d11b5d35ee4343893d2bea143eabb12f5ec0
 title: Maastricht I
 date: 2021-05-31T00:00:00Z
-photo:
-- 2021-05-maastricht-03
-- 2021-05-maastricht-01
-- 2021-05-maastricht-13
-- 2021-05-maastricht-14
-- 2021-05-maastricht-04
-- 2021-05-maastricht-15
-- 2021-05-maastricht-05
-- 2021-05-maastricht-06
-- 2021-05-maastricht-10
-- 2021-05-maastricht-02
-photoClass: g2021maai mgrid
 ---
 
 Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I got a sunburn. Didn't expect that. Next time I'll be more careful.

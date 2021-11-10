@@ -1,13 +1,7 @@
 ---
+dataId: d708c6c6c78e042fdecbfbaf3782180d40cfd791e555169b2e4cdb0b58d72ad2
 title: Utrecht III
 date: 2021-04-30T12:02:00Z
-photo:
-- 2021-04-utrecht-11
-- 2021-04-utrecht-01
-- 2021-04-utrecht-21
-- 2021-04-utrecht-24
-- 2021-04-utrecht-26
-photoClass: g21utriii mgrid
 ---
 
 <style>
@@ -37,4 +31,3 @@ photoClass: g21utriii mgrid
 .g21utriii > *:nth-child(4) { grid-area: d; }
 .g21utriii > *:nth-child(5) { grid-area: e; }
 </style>
-

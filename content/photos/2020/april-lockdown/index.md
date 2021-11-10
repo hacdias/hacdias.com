@@ -1,18 +1,7 @@
 ---
+dataId: db31bd6249f9b7ee989e005633c683e49a36bcbc364c30d8c069b07c15498a57
 title: April Lockdown
 date: 2020-04-28T12:30:50.893Z
-photo:
-- 2020-04-hometown-02
-- 2020-04-hometown-01
-- 2020-04-hometown-03
-- 2020-04-hometown-04
-- 2020-04-hometown-05
-- 2020-04-hometown-06
-- 2020-04-hometown-07
-- 2020-04-hometown-08
-- 2020-03-hometown-goats
-- 2020-04-hometown-09
-photoClass: g4lk2020 mgrid
 ---
 
 <style>

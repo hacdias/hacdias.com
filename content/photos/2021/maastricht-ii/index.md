@@ -1,13 +1,7 @@
 ---
+dataId: 6996e71a46827d75a1d5280fc9cfc67910804e21f1c412dd5e8b98cada169bfe
 title: Maastricht II
 date: 2021-06-01T00:00:00Z
-photo:
-- 2021-05-maastricht-07
-- 2021-05-maastricht-11
-- 2021-05-maastricht-08
-- 2021-05-maastricht-09
-- 2021-05-maastricht-12
-photoClass: g2021maaii mgrid
 ---
 
 [Maastricht](/photos/2021/maastricht-i/) turned out to be quite a magical little city close to the border with Belgium. There was a lot of greenery and old buildings.

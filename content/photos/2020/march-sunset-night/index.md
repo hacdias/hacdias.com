@@ -1,16 +1,7 @@
 ---
+dataId: 4fe03765f12fcd4f695f07b04a5e15ac92ac672f9fe9f8a79b20d8e21885d7b3
 title: Sunset & Sky
 date: 2020-03-31T12:00:00.893Z
-photo:
-- value: 2020-03-sunset-tree
-  alt: A Tree in the Sunset
-- value: 2020-03-sunset
-  alt: Sunset
-- value: 2020-03-night-sky
-  alt: Night Sky
-- value: 2020-03-hometown-oopsie
-  alt: A Mistake
-photoClass: g03sunset mgrid
 ---
 
 <style>
