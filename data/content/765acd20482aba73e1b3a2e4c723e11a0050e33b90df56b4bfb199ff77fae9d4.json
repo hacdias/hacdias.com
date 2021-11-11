@@ -56,6 +56,17 @@
         "photo": "https://cdn.hacdias.com/wm/9bfb7d3cd8fb3ae18c436b1330a22e336c952ef80667518204ac49acc837d337.jpg"
       },
       "wm-id": 1303370
+    },
+    {
+      "type": "like",
+      "url": "https://twitter.com/hacdias/status/1458493543262081033#favorited-by-1200082629602824194",
+      "date": "2021-11-11T08:35:33Z",
+      "author": {
+        "name": "Isabel Soares",
+        "url": "https://twitter.com/isabelsrsoares",
+        "photo": "https://cdn.hacdias.com/wm/439f01aa078a85ecb44a4a1e275eb0af457f455fcf2b6d8a36ce2a7ac15d53be.jpg"
+      },
+      "wm-id": 1303582
     }
   ]
 }
