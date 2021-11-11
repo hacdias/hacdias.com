@@ -31,7 +31,7 @@
           <div class="h-cite">
             <span class="p-author h-card">
               <img alt="{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
-              <a rel="noopener noreferrer" target="_link" class="p-name u-url nl" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
+              <a rel="noopener noreferrer" target="_blank" class="p-name u-url nl" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
             {{ $type := index . "post-type" }}
             {{ if eq $type "like" }}
             liked this post.
@@ -43,10 +43,10 @@
               {{ with .content }}
                 said: <span class="e-content p-name">{{ truncate . 300 }}</span>
               {{ else }}
-                mentioned this on <a rel="noopener noreferrer" target="_link" href="{{ .url }}">{{ domain .url }}</a>.
+                mentioned this on <a rel="noopener noreferrer" target="_blank" href="{{ .url }}">{{ domain .url }}</a>.
               {{ end }}
             {{ end }}
-            {{- with .published }} — <a rel="noopener noreferrer" target="_link" href="{{ $wm.url }}" class="u-url date nl">{{ dateFormat . "02 Jan 2006 15:04" }} </a>{{ end }}
+            {{- with .published }} — <a rel="noopener noreferrer" target="_blank" href="{{ $wm.url }}" class="u-url date nl">{{ dateFormat . "02 Jan 2006 15:04" }} </a>{{ end }}
           </div>
         {{ end }}
       {{ end }}

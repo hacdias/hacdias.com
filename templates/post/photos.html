@@ -1,5 +1,5 @@
 {{ define "post/photos" }}
-  {{ with .MF2.Photos }}
+  {{ with .Helper.Photos }}
     <div class="fw {{ with $.PhotoClass}}{{.}}{{ end }}">
     {{ range $i, $photo := . }}
       {{ figure $photo.value $photo.alt }}

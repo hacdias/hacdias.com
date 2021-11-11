@@ -30,7 +30,7 @@
 
           <br><em>—
           {{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }},
-          {{ with .url }}<a rel="noopener noreferrer" target="_link" href="{{ . }}">{{ end }}
+          {{ with .url }}<a rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ end }}
           {{- with .published}}{{ dateFormat . "02 January 2006" }}{{ else }}Unknown Date{{end }}
           {{ with .url }}</a>{{ end }}
           </em>

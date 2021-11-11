@@ -1,5 +1,5 @@
 {{ define "post/header" }}
-  {{ $mf2 := .MF2 }}
+  {{ $mf2 := .Helper }}
   {{ $type := $mf2.PostType }}
 
   {{ if eq $type "reply" }}

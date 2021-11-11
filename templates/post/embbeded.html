@@ -1,5 +1,5 @@
 {{ define "post/embbeded" }}
-  {{ $mf2 := .MF2 }}
+  {{ $mf2 := .Helper }}
   {{ $data := .GetSidecar }}
   {{ with $data.Context }}
   <div class="h-cite ibox u-{{ $mf2.TypeProperty }}">
@@ -8,14 +8,19 @@
         <span class="p-name">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</span>
       </span>
       {{- if .published -}}
-        <a rel="noopener noreferrer" target="_link" href="{{ .url }}" class="u-url original date">{{ dateFormat .published "02 Jan 2006 15:04" }}</a>
+        <a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url original date">{{ dateFormat .published "02 Jan 2006 15:04" }}</a>
       {{- else -}}
-        <a rel="noopener noreferrer" target="_link" href="{{ .url }}" class="u-url original">Original Post</a>
+        <a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url original">Original Post</a>
       {{- end -}}
     </p>
     {{- with .content -}}
       <div class="e-content p-name copy"><p>{{ truncate . 300 }}</p></div>
     {{- end -}}
+  </div>
+  {{ else }}
+  <div class="h-cite ibox u-{{ $mf2.TypeProperty }}">
+    {{- $url := $mf2.String $mf2.TypeProperty }}
+    <a rel="noopener noreferrer" target="_blank" href="{{ safeHTML $url }}">{{ $url }}</a>
   </div>
   {{ end }}
 {{ end }}
