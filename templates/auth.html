@@ -1,0 +1,52 @@
+{{ define "main" }}
+  <main role='main'>
+    <h1>Authorization</h1>
+
+    <style>
+    .copy ol {
+      list-style: none;
+      padding-left: 1rem;
+    }
+
+    .copy ol input {
+      margin-right: 0.5rem;
+    }
+
+    .copy ol label {
+      text-transform: capitalize;
+    }
+    </style>
+
+    <div class='copy'>
+      <form method="post" action="/auth/accept">
+        <ul>
+          <li><strong>Client:</strong> {{ .Data.ClientID }}</li>
+          <li><strong>Redirect:</strong> {{ .Data.RedirectURI }}</li>
+        </ul>
+
+        {{ with .Data.Scopes }}
+        <p>This app is requesting the following scopes. You can edit the scopes that will be granted to this application.</p>
+
+        <ol>
+          {{ range . }}
+            <li><label><input type="checkbox" name="scopes" value="{{ . }}" checked>{{ . }}</label></li>
+          {{ end }}
+        </ol>
+        {{ end }}
+        
+        <p><label><input type="checkbox" name="expiry" value="infinity"> By checking this box, the token will never expire.</label></p>
+
+        <input type="hidden" name="redirect_uri" value="{{ .Data.RedirectURI }}">
+        <input type="hidden" name="client_id" value="{{ .Data.ClientID }}">
+        <input type="hidden" name="state" value="{{ .Data.State }}">
+        <input type="hidden" name="code_challenge" value="{{ .Data.CodeChallenge }}">
+        <input type="hidden" name="code_challenge_method" value="{{ .Data.CodeChallengeMethod }}">
+        <input type="submit" value="Accept" style="width: 100%">
+      </form>
+    </div>
+  </main>
+{{ end }}
+
+{{ define "auth" }}
+  {{ template "base" . }}
+{{ end }}

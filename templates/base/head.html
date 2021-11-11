@@ -41,8 +41,8 @@
   {{ end }}
 
   {{ if .IsHome }}
-    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
-    <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+    <link rel="authorization_endpoint" href="{{ absURL "/auth" }}">
+    <link rel="token_endpoint" href="{{ absURL "/token" }}">
 
     <link rel="micropub" href="{{ absURL "/micropub" }}">
     
