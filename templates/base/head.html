@@ -13,6 +13,22 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" href="/favicon.ico" type=image/x-icon>
 
+  <!-- Social Media -->
+  <meta property="og:locale" content="{{ .Site.Language }}" />
+  <meta property="og:title" content="{{ $shortTitle }}" />
+  <meta property="og:description" content="{{ $description }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+
+  {{ if not .Published.IsZero }}
+    <meta property="article:published_time" content="{{ .Published.Format "2006-01-02T15:04:05-07:00" }}" />
+  {{ end }}
+
+  {{ if not .Updated.IsZero }}
+    <meta property="article:modified_time" content="{{ .Updated.Format "2006-01-02T15:04:05-07:00" }}" />
+    <meta property="og:updated_time" content="{{ .Updated.Format "2006-01-02T15:04:05-07:00" }}" />
+  {{ end }}
+
   <link rel="stylesheet" href="{{ relURL "/css/vendor/normalize.css" }}">
   <link rel="stylesheet" href="{{ relURL "/css/base.css" }}">
   <link rel="stylesheet" href="{{ relURL "/css/cards.css" }}">
@@ -36,4 +52,7 @@
       <link rel="me" href="{{ . }}" rel="pgpkey" />
     {{ end }}
   {{ end }}
+
+  <link rel="webmention" href="https://webmention.io/hacdias.com/webmention" />
+  <link rel="pingback" href="https://webmention.io/hacdias.com/xmlrpc" />
 {{ end }}
