@@ -1,0 +1,10 @@
+{{ define "base/admin" }}
+  {{ if and .LoggedIn (not .IsListing) }}
+    <p>
+      {{ if .Draft }}<em>Draft</em>{{ end }}
+      {{ if .Private }}<em>Private</em>{{ end }}
+      {{ if .Deleted }}<em>Deleted</em>{{ end }}
+      <a href="?edit=true">Edit</a>
+    </p>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,11 @@
+{{ define "post/syndications" }}
+  {{ range .Helper.Strings "syndication" }}
+  <a class='nl u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">
+    {{ $domain := domain . }}
+    {{- if strContains $domain "twitter.com" }}🐦
+    {{- else if strContains $domain "swarmapp.com" }}🐝
+    {{- else if strContains $domain "instagram.com" }}📷
+    {{ else }}🔗{{ end -}}
+  </a>
+  {{ end }}
+{{ end }}

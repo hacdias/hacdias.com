@@ -12,32 +12,13 @@
   {{ if ne (len .Sections) 0 }}
   <footer>
     {{ with $location }}
-    <p>📍 {{ .LocalityRegionCountry}}<!-- WEATHER? --></p>
+    <p>📍 {{ .LocalityRegionCountry}}</p>
     {{ end }}
-    <p>⏰ {{ include "post/date" . }} {{- include "post/tags" . }}</p>
-
-    {{ if and .LoggedIn (not .IsListing) }}
-    <p>
-      {{ if .Draft }}📄{{ end }}
-      {{ if .Private }}🔒{{ end }}
-      {{ if .Deleted }}🗑{{ end }}
-      <a href="?edit=true">Edit</a>
-    </p>
-    {{ end }}
+    <p>⏰ {{ include "post/date" . }} {{- include "post/tags" . }} {{- include "post/syndications" . }}</p>
   </footer>
   {{ end }}
 
-  {{/* {{ .MF2.Strings "syndication" }} */}}
-
   <div class="dn">
-    {{/* {{ with .Params.syndication -}}
-      {{ range . -}}
-        <a class='dn u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ . }}</a>
-      {{ end -}}
-    {{ end -}} */}}
-
-    
-
     <div class="h-card u-author dn">
       <data class='u-photo' value="{{ .User.Photo }}">Picture</data>
       <a href="{{ .User.URL }}" class="u-url p-name">{{ .User.Name }}</a>
