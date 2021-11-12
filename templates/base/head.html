@@ -13,7 +13,12 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" href="/favicon.ico" type=image/x-icon>
 
+  {{ range .Alternates }}
+     <link rel="alternate" type="{{ .Type }}" href="{{ .Href }}">
+  {{ end }}
+
   <!-- Social Media -->
+  <meta property="og:type" content="{{ if or .IsListing .IsHome }}website{{ else }}article{{ end }}" />
   <meta name="twitter:site" content="@{{ .User.Twitter }}"/>
   <meta name="twitter:creator" content="@{{ .User.Twitter }}"/>
   <meta property="og:locale" content="{{ .Site.Language }}" />
@@ -43,7 +48,6 @@
   {{ if .IsHome }}
     <link rel="authorization_endpoint" href="{{ absURL "/auth" }}">
     <link rel="token_endpoint" href="{{ absURL "/token" }}">
-
     <link rel="micropub" href="{{ absURL "/micropub" }}">
     
     {{ range .User.Rels -}}
