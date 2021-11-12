@@ -36,10 +36,7 @@
     <meta property="og:updated_time" content="{{ .Updated.Format "2006-01-02T15:04:05-07:00" }}" />
   {{ end }}
 
-  <link rel="stylesheet" href="{{ relURL "/css/vendor/normalize.css" }}">
-  <link rel="stylesheet" href="{{ relURL "/css/base.css" }}">
-  <link rel="stylesheet" href="{{ relURL "/css/cards.css" }}">
-  <link rel="stylesheet" href="{{ relURL "/css/webmentions.css" }}">
+  <link rel="stylesheet" href="{{ index .Assets "styles.css" }}">
 
   {{ with .GetFile "_styles.css" }}
     <style>{{ safeCSS . }}</style>

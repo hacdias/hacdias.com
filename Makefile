@@ -1,6 +1,6 @@
-.PHONY: make-dirs normalize all clean build twemoji mermaid
+.PHONY: make-dirs normalize all clean twemoji
 
-all: clean make-dirs normalize twemoji mermaid
+all: clean make-dirs normalize twemoji
 
 make-dirs:
 	mkdir -p assets/css/vendor
@@ -12,18 +12,6 @@ normalize:
 twemoji:
 	wget https://twemoji.maxcdn.com/v/latest/twemoji.min.js -O assets/js/vendor/twemoji.min.js
 
-mermaid:
-	wget https://unpkg.com/mermaid@8.8.2/dist/mermaid.min.js -O assets/js/vendor/mermaid.min.js
-
 clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
-
-build:
-	hugo --gc --minify --cleanDestinationDir --path-warnings
-
-watch:
-	hugo server --watch --minify --path-warnings
-
-watch-future:
-	hugo server --watch --minify --buildFuture --buildDrafts --path-warnings
