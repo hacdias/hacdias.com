@@ -1,9 +1,0 @@
-
-{{- $reading := sort (index .Site.Data.reads "currently-reading") "date" "desc"  -}}
-
-{{- if len $reading -}}
-  {{ $book := index $reading 0 }}
-  I have been <a href="{{ relURL "/reads/#reading" }}">reading 📚</a> “{{ $book.name }}”{{- if gt (len $reading) 1 }} and {{ sub (len $reading) 1 }} more{{- end -}}
-{{- else -}}
-  I haven't been <a href="{{ relURL "/reads/" }}">reading 📚</a> any books
-{{- end -}}
