@@ -12,6 +12,19 @@
     </div>
   </div>
 
+  {{ if .OnionAddress }}
+    <div style="margin-top: 0.5rem">
+      <div>
+        {{ if .TorUsed }}
+          🔒 You are connected via Tor.
+        {{ else }}
+          🔓 <a href="{{ .OnionAddress }}">Connect via Tor.</a>
+        {{ end }}
+        <a href="https://www.torproject.org/">What is Tor?</a>
+      </div>
+    </div>
+  {{ end }}
+
   <div style="margin-top: 0.5rem">
     <div>
       <a href="https://indieweb.org/" class="nl" target="_blank" rel="noreferrer noopener"><img alt="IndieWeb" class="pixelated" src="{{ relURL "/images/indieweb.png" }}"></a>
