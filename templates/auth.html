@@ -33,6 +33,10 @@
           {{ end }}
         </ol>
         {{ end }}
+
+        {{ if not .Data.CodeChallenge }}
+          <p><strong>⚠️ The client is not using PKCE.</strong></p>
+        {{ end }}
         
         <p><label><input type="checkbox" name="expiry" value="infinity"> By checking this box, the token will never expire.</label></p>
 

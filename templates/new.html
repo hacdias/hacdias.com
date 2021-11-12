@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <main role='main' id="editor-page">
+    <h1>New</h1>
+
+    {{ include "editor/css" . }}
+
+    <p>
+      <strong>Templates:</strong>
+      {{ range .Data.Templates }}
+        <a href="?template={{.}}">{{ . }}</a>
+      {{ end }}
+    </p>
+
+    <form method=POST>
+      <input type="text" required name="slug" placeholder="Slug" value="{{ .Data.Slug }}" />
+
+      <textarea required name="content">{{ .Data.Content }}</textarea>
+
+      {{ with .Data.Syndicators }}
+      <div class=options>
+        <p><strong>Syndications</strong></p>
+        {{ range . }}
+          <label><input type=checkbox name=syndication value="{{ .UID }}"> {{ .Name }}</label>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <button type="submit" name="action" value="Create">Create</button>
+    </form>
+  </main>
+{{ end }}
+
+{{ define "new" }}
+  {{ template "base" . }}
+{{ end }}

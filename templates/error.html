@@ -2,12 +2,18 @@
   <main role='main'>
     <h1>{{ .Entry.Title }}</h1>
 
-    {{ with .Content }}
-      {{ if eq . "404" }}
+    {{ with .Data.Code }}
+      {{ if eq . 400}}
+        <p>The request you sent is invalid.</p>
+      {{ else if eq . 404 }}
         <p>The content you are trying to find does not exist.</p>
-      {{ else if eq . "410" }}
+      {{ else if eq . 410 }}
         <p>The content you are trying to find existed and some point and was now removed.</p>
       {{ end }}
+    {{ end }}
+
+    {{ if .LoggedIn }}
+      {{ with .Data.Error}}<p class="ibox">Error: {{ . }}</p>{{ end }}
     {{ end }}
   </main>
 {{ end }}

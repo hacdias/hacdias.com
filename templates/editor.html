@@ -1,38 +1,24 @@
 {{ define "main" }}
   <main role='main' id="editor-page">
-    {{ with .Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
+    {{ with .Data.Title }}<h1>{{- . -}}</h1>{{ end }}
 
-    <style>
-    #editor-page input,
-    #editor-page textarea,
-    #editor-page button {
-      display: block;
-      width: 100%;
-      margin: 0.5rem 0;
-    }
-
-    #editor-page textarea {
-      min-height: 30rem;
-      resize: vertical;
-    }
-
-    .options {
-      margin: 1rem 0;
-    }
-
-    .options  * {
-      margin: 0 !important;
-      width: auto !important;
-      display: inline !important;
-    }
-    </style>
+    {{ include "editor/css" . }}
 
     <form method=POST>
-      <textarea required id=content name=content data-lang=markdown>{{ .Entry.String }}</textarea>
+      <textarea required id=content name=content>{{ .Data.Content }}</textarea>
 
       <div class=options>
          <label><input type=checkbox name=lastmod {{ if not .Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
       </div>
+
+      {{ with .Data.Syndicators }}
+      <div class=options>
+        <p><strong>Syndications</strong></p>
+        {{ range . }}
+          <label><input type=checkbox name=syndication value="{{ .UID }}"> {{ .Name }}</label>
+        {{ end }}
+      </div>
+      {{ end }}
 
       <button type="submit" name="action" value="update">Update</button>
     </form>

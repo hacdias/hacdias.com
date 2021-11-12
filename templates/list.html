@@ -1,5 +1,6 @@
 {{ define "main" }}
 <main role='main'>
+  {{ include "base/admin" . }}
   <h1>{{ .Title }}</h1>
 
   {{ with .Content }}

@@ -1,6 +1,7 @@
 {{ define "main" }}
   <main role="main">
     {{ if eq .Data.Page 0 }}
+    {{ include "base/admin" . }}
     <div class="copy">
       {{ md .Content }}
     </div>
