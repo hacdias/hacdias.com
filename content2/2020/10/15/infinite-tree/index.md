@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2020-10-infinite-tree" alt="Infinite Tree" >}}
+![Infinite Tree](cdn:/2020-10-infinite-tree)

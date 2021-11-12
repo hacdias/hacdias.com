@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2020-06-toxic-flower" alt="Toxic Flower" >}}
+![Toxic Flower](cdn:/2020-06-toxic-flower)

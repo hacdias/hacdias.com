@@ -18,7 +18,7 @@ Nowadays, we are used to hear about bits and bytes and sometimes, in the adverti
 - **1 Byte** = 8 bits (octect)
 - **½ Byte** = 4 bits (semioctect)
 
-{{< figure alt="Graphical comparison between bit and byte" src="https://cdn.hacdias.com/u/2016-11-bit-vs-byte.jpg" >}}
+![Graphical comparison between bit and byte](https://cdn.hacdias.com/u/2016-11-bit-vs-byte.jpg)
 
 There are **Binary Prefixes (IEC)** which are names and symbols used to measure the amount of Bytes. These are unit prefixes for multiples of units in data processing, data transmission and digital information. In the case of bits and bytes, it indicates the multiplication by a power of 2. For example, one megabibytes (MiB) is equivalent a 2 to the power of 20 bytes!
 

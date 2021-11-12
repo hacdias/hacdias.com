@@ -12,4 +12,4 @@ properties:
 
 A bedroom lamp pixelart thingy I did back in April 2019.
 
-{{< figure class="pixelated" src="https://cdn.hacdias.com/u/2019-04-bedroom-lamp.gif" >}}
+![](https://cdn.hacdias.com/u/2019-04-bedroom-lamp.gif?class=pixelated)

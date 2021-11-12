@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2019-09-magical-tree" alt="Magic Tree" >}}
+![Magic Tree](cdn:/2019-09-magical-tree)

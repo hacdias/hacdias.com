@@ -28,10 +28,7 @@ and that they seem to be... I don't know... interesting to me.
 }
 </style>
 
-{{< figure
-  class="left pixelated"
-  src="https://cdn.hacdias.com/u/2019-04-blinking-eye.gif"
-  caption="Blinking Eye" >}}
+![](https://cdn.hacdias.com/u/2019-04-blinking-eye.gif?class=left+pixelated "Blinking Eye")
 
 I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
 around and I thought: this is really pretty and interesting, what if I try doing some
@@ -48,15 +45,9 @@ At first, I thought about reconstructing some of the illustrations I've done in 
 and I actually happen to like them. So I've started by doing so.
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  {{< figure
-    class="magician"
-    src="https://cdn.hacdias.com/u/2019-04-magician.jpeg"
-    caption="A magician, wizard?" >}}
+  ![](https://cdn.hacdias.com/u/2019-04-magician.jpeg?class=magician "A magician, wizard?")
 
-  {{< figure
-    class="cat"
-    src="https://cdn.hacdias.com/u/2019-04-cat.jpeg"
-    caption="A Cat" >}}
+  ![](https://cdn.hacdias.com/u/2019-04-cat.jpeg?class=cat "A Cat")
 </div>
 
 I reconstructed a wizard 🧙‍♂️ and a cat 😸 based on some work I've done before. Clearly
@@ -67,19 +58,13 @@ After that, I moved to something bigger - but it will be the last one of this po
 showing you first the last one I've done but that I don't actually enjoy that much. It's
 the central building of my university.
 
-{{< figure
-  src="https://cdn.hacdias.com/u/2019-04-tecnico-central.jpg"
-  class="pixelated"
-  caption="Técnico - Central Building" >}}
+![](https://cdn.hacdias.com/u/2019-04-tecnico-central.jpg?class=pixelated "Técnico - Central Building")
 
 Then - or should I say, before? - I've done something much more interesting: my university
 has two twelve floor towers, which are really beautiful. So I believe you already know what's
 coming.
 
-{{< figure
-  class="right pixelated"
-  src="https://cdn.hacdias.com/u/2019-04-tecnico-tower.gif"
-  caption="Técnico - Chemistry Tower ([NFT](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653459892891025409))" >}}
+![](https://cdn.hacdias.com/u/2019-04-tecnico-tower.gif?class=right+pixelated "Técnico - Chemistry Tower ([NFT](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653459892891025409))")
 
 I started by drawing the tower itself and the windows. Then, I moved to the building in front
 of it and both side buildings. I've played with some shadows and also made sure that I created

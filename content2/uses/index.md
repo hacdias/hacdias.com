@@ -13,7 +13,7 @@ This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) 
 
 Despite trying to have as less devices as I can, I think I end up having some that are not required to have a functional life.
 
-{{< figure cdn="2021-02-desk" class="fw" alt="My desk" caption="My desk. Not my best shot" >}}
+![My desk](cdn:///2021-02-desk?class=fw "My desk. Not my best shot")
 
 My desk contains my "essential" devices and everything else I use on a regular basis for work, university or just for entertainment. This encompasses everything from my smartphone to my monitor.
 
@@ -37,7 +37,7 @@ On the sound department, I have 3 devices:
 - **Headphones:** JBL Live 5000BT
 - **Earphones:** Airpods (2nd Gen)
 
-{{< figure cdn="2021-02-nintendo-switch" class="fw" alt="My Nintendo Switch" caption="My Nintendo Switch" >}}
+![My Nintendo Switch](cdn:///2021-02-nintendo-switch?class=fw "My Nintendo Switch")
 
 My desk also features my one and only console: a Nintendo Switch. I live in a studio and I don't have much space. Thus, my desk is both my workplace, and my "TV" for movies and entertainment.
 
@@ -46,7 +46,7 @@ Besides all these devices, I also want to shout out to my:
 - **Raspberry Pi 4 Model B**, that runs some services for personal use, some of which are intrinsically related to [this website](/meta); and my
 - **Yubikey 5C NFC** x2 for 2FA authentication, GPG and SSH.
 
-{{< figure cdn="2021-02-secrid-wallet" class="fw" alt="Secrid" caption="Secrid is my wallet of choice" >}}
+![Secrid](cdn:///2021-02-secrid-wallet?class=fw "Secrid is my wallet of choice")
 
 The most unexpected thing on this list is my wallet. However, it is so small and so useful that it is complicated not to include it. I have been using a [Secrid](https://secrid.com/) wallet for a few years already and I recommend you that if you don't care anything but a few cards and eventual bills.
 
@@ -54,7 +54,7 @@ The most unexpected thing on this list is my wallet. However, it is so small and
 
 On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [CaptureOne](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
-{{< figure class="fw" cdn="2021-08-fujixt4" alt="Fujifilm X-T4" >}}
+![Fujifilm X-T4](cdn:///2021-08-fujixt4?class=fw)
 
 Besides the camera itself, I also have two **lenses**:
 

@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2021-01-lovers-coffee" alt="Lovers Coffee" >}}
+![Lovers Coffee](cdn:/2021-01-lovers-coffee)

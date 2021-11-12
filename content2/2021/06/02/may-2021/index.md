@@ -17,6 +17,6 @@ In other news, I visited Den Haag, Maastricht and Tilburg! I also managed to ded
 
 I leave you with one of my favorite pictures of the month, but I invite you to check out the other ones!
 
-{{< figure cdn="2021-05-eindhoven-11" alt="Eindhoven" >}}
+![Eindhoven](cdn:/2021-05-eindhoven-11)
 
 <!--more-->

@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2020-08-plant-pot" alt="Plant Pot" >}}
+![Plant Pot](cdn:/2020-08-plant-pot)

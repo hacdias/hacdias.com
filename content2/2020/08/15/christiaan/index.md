@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2020-08-christian" alt="Christiaan" >}}
+![Christiaan](cdn:/2020-08-christian)

@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2020-10-study-desk" alt="Study" >}}
+![Study](cdn:/2020-10-study-desk)

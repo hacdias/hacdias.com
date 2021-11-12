@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2019-09-azuleto" alt="Azulejo #2" >}}
+![Azulejo #2](cdn:/2019-09-azuleto)

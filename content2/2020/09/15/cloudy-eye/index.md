@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2020-09-cloudy-eye" alt="Cloudy Eye" >}}
+![Cloudy Eye](cdn:/2020-09-cloudy-eye)

@@ -19,7 +19,7 @@ I also started mentoring new master's students on that same first week. It's bee
 
 During the second week, there was the Open Cultural Week on campus, where all cultural associations have open activities for non-members. Even though I'm a member of [Dekate Mousa](https://dekatemousa.nl/) - the photography & film association - I went to the activities and it was quite nice. I really enjoyed the opportunity to take [fire breathing](/photos/2021/fire-breathing/) and [steelwool](/photos/2021/fire-steelwool) pictures. 
 
-{{< figure cdn="2021-09-fire-02" alt="Fire Breathing 101" caption="Fire Breathing 101" >}}
+![Fire Breathing 101](cdn:/2021-09-fire-02 "Fire Breathing 101")
 
 Last weekend I had a dinner with 9 international friends, where each one of us cooks and brings something. It was delightful and there was way too much food. We couldn't finish it! Unfortunately, I didn't manage to look at the pictures yet, so I can't share any right now!
 

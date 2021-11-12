@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2020-04-withchs-hut" alt="Witch's Hut" >}}
+![Witch's Hut](cdn:/2020-04-withchs-hut)

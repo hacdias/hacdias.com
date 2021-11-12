@@ -1039,3 +1039,13 @@
 /stream/feed.json /feed.json
 /stream/feed.xml /feed.atom
 /now /tags/recently
+/articles/feed.json /articles.json
+/articles/feed.xml /articles.atom
+/micro/feed.json /micro.json
+/micro/feed.xml /micro.atom
+/photos/feed.json /photos.json
+/photos/feed.xml /photos.atom
+/projects/feed.json /projects.json
+/projects/feed.xml /projects.atom
+/tags/feed.json /tags.json
+/tags/feed.xml /tags.atom

@@ -22,7 +22,7 @@ Regarding photography I have two updates. The first one is related to this websi
 
 Over the years I have had many photos pages on this website but always ended up removing them in order to simplify the website. However, I'm in that point where I no longer think that "less is more" regarding this website. Not saying more is better though! I don't want to solely relay on Instagram for my photography and this way I have flexibility over its presentation.
 
-{{< figure cdn="2020-09-silhouette" link="/photos/2020/silhouette/" caption="Silhouette" >}}
+[![](cdn:/2020-09-silhouette "Silhouette")](/photos/2020/silhouette/)
 
 The second update is as simple as this: I decided to join the Eindhoven Film and Photography association. It's called [Dekate Mousa](http://dekatemousa.nl/) and there's activities all Tuesdays at night related to either photography or film.
 

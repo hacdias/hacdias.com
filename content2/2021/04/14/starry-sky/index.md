@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2021-04-starry-sky" alt="Starry Sky" >}}
+![Starry Sky](cdn:/2021-04-starry-sky)

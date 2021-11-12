@@ -12,4 +12,4 @@ properties:
   - drawing
 ---
 
-{{< figure cdn="2020-10-deadly-coffee" alt="Deadly Coffee" >}}
+![Deadly Coffee](cdn:/2020-10-deadly-coffee)

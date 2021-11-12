@@ -42,15 +42,15 @@ Os requisitos são ter uma ligação à Internet, ter o Git instalado no vosso 
 
 Assim, começamos por ir ao site do GitHub e clicamos no botão **+ → New Repository** como podem ver na imagem abaixo.
 
-{{< figure src="https://cdn.hacdias.com/u/2014-09-github01.jpg" >}}
+![](https://cdn.hacdias.com/u/2014-09-github01.jpg)
 
 Depois tens que preencher o nome do repositório, a descrição e, por agora, não são precisas mais configurações. No final é só clicar no botão verde.
 
-{{< figure src="https://cdn.hacdias.com/u/2014-09-github02.jpg" >}}
+![](https://cdn.hacdias.com/u/2014-09-github02.jpg)
 
 Copia o código HTTPS ou SSH utilizando o botão que aparece do lado direito.
 
-{{< figure src="https://cdn.hacdias.com/u/2014-09-github03.jpg" >}}
+![](https://cdn.hacdias.com/u/2014-09-github03.jpg)
 
 Agora que já temos o repositório configurado no GitHub, vamos colocá-lo no nosso computador. Esta parte agora **é igual independentemente do serviço utilizado**, GitHub, Bitbucket, etc, basta ser Git.
 

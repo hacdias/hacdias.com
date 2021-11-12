@@ -25,8 +25,8 @@ Since then, I've only seen snow a few other times when traveling, but never that
 <!--more-->
 
 <video autoplay muted loop>
-  <source src="https://cdn.hacdias.com/u/2021-02-snow-eindhoven.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+    <source src="https://cdn.hacdias.com/u/2021-02-snow-eindhoven.mp4" type="video/mp4">
+    Your browser does not support the video tag.
 </video>
 
 However, it is not the weather of the Netherlands that brought you here. Due to the snowy situation, I had the idea of searching how to recursively generate snowflakes. The first method that I found, and probably the most known one, is the [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake). Even so, I am not going to talk about it today. Maybe some other day!
