@@ -62,13 +62,13 @@ Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger
 
 <div id='experiments-list' class='terms grid bold'>
   <ul>
-    <li><a rel="noopener noreferrer" target="_link" title="Blue Screen of Death" href="../minisites/bsod/">🔵 Blue Screen of Death</a></li>
-    <li><a rel="noopener noreferrer" target="_link" title="Glitch" href="../minisites/glitch/">📡 Glitch</a></li>
-    <li><a rel="noopener noreferrer" target="_link" title="Procedural Map Generator" href="../minisites/mapgen/">🗺 Procedural Map Generator</a></li>
-    <li><a rel="noopener noreferrer" target="_link" title="PixelColorMania" href="../minisites/pixelcolormania/">🏳️‍🌈 PixelColorMania</a></li>
-    <li><a rel="noopener noreferrer" target="_link" title="Thunderstorm" href="../minisites/thunderstorm/">⛈ Thunderstorm</a></li>
-    <li><a rel="noopener noreferrer" target="_link" title="TV Noise" href="../minisites/tv-noise/">📺 TV Noise</a></li>
-    <li><a rel="noopener noreferrer" target="_link" title="XKCD Clone" href="http://xkcd.hacdias.com/">💥 XKCD Clone</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="Blue Screen of Death" href="../minisites/bsod/">🔵 Blue Screen of Death</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="Glitch" href="../minisites/glitch/">📡 Glitch</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="Procedural Map Generator" href="../minisites/mapgen/">🗺 Procedural Map Generator</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="PixelColorMania" href="../minisites/pixelcolormania/">🏳️‍🌈 PixelColorMania</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="Thunderstorm" href="../minisites/thunderstorm/">⛈ Thunderstorm</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="TV Noise" href="../minisites/tv-noise/">📺 TV Noise</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="XKCD Clone" href="http://xkcd.hacdias.com/">💥 XKCD Clone</a></li>
   </ul>
 </div>
 
