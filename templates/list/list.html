@@ -1,17 +1,17 @@
 
 {{ define "list/list" }}
 
-  {{ if eq (len .Entries) 0 }}
+  {{ if eq (len .Data.Entries) 0 }}
     <p>There are no posts here.</p>
   {{ else }}
     <div class='h-feed'>
-    {{ range .Entries }}
+    {{ range .Data.Entries }}
       {{- include "list/card" $ . -}}
     {{ end }}
     </div>
   {{ end }}
 
-  {{ with .NextPage }}
+  {{ with .Data.NextPage }}
   <p style="text-align: center">
     <a href="{{ . }}" style="margin-right: auto;"><button>Next</button></a>
   </p>

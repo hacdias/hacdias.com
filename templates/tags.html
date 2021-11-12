@@ -8,7 +8,7 @@
 
     <div class="terms">
       <ul>
-        {{ range .Terms }}
+        {{ range .Data.Terms }}
           <li>
             <a href="{{ relURL (printf "/tags/%s" .) }}">{{ . }}</a>
           </li>
