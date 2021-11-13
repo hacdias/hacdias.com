@@ -11,7 +11,7 @@
     {{ include "base/footer" . }}
   </div>
 
-  <script type="text/javascript" src="{{ index .Assets "app.js" }}"></script>
+  <script type="text/javascript" src="{{ .Assets.Path "app.js" }}"></script>
 </body>
 </html>
 {{ end }}
