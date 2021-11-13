@@ -10,11 +10,7 @@
 
     {{ with ($mf2.Sub "location") }}
     <p>📍
-      <span class="p-location h-adr">
-        <span class="p-locality">{{ .String "locality" }}</span>,
-        <span class="p-region">{{ .String "region" }}</span>,
-        <span class="p-country">{{ .String "country-name" }}</span>
-      </span>
+      {{ .LocationHTML }}
     </p>
     {{ end }}
 
