@@ -1,12 +1,13 @@
 {
   "targets": [
+    "https://www.instagram.com/isabelsoares16/",
     "https://tue.nl",
     "https://protocol.ai",
-    "https://38c4-94-231-255-221.ngrok.io/articles/2014/07/apresentacao/",
-    "https://38c4-94-231-255-221.ngrok.io/contact",
-    "https://38c4-94-231-255-221.ngrok.io/resume",
-    "https://38c4-94-231-255-221.ngrok.io/projects",
-    "https://38c4-94-231-255-221.ngrok.io/meta"
+    "https://hacdias.com/articles/2014/07/apresentacao/",
+    "https://hacdias.com/contact/",
+    "https://hacdias.com/resume/",
+    "https://hacdias.com/projects/",
+    "https://hacdias.com/meta/"
   ],
   "context": null,
   "webmentions": [
