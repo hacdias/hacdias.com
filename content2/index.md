@@ -3,11 +3,23 @@ title: Henrique Dias
 updated: 2021-02-12T20:23:31.029541972Z
 ---
 
+<style>
+  figure.me {
+    max-width: 7rem;
+    margin-top: 0rem;
+    margin-left: 1rem;
+  }
+
+  figure.me img {
+    border-radius: var(--radius)
+  }
+</style>
+
 ## Hi, I'm Henrique! 👋
 
-Born in Portugal 🇵🇹 . I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working with [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
+![Me!](https://hacdias.com/me-256.jpg?class=right+me)
 
-Lately, {{< latest-read >}}. On the big screen, the last movie 🎬 I [watched](/watches/) was "{{< latest-watch type="movies" >}}" and the last episode 📺 was from "{{< latest-watch type="series" >}}". On the musical side, the artist I've been [listening 🎧](/listens/) to the most is {{< recent-artist >}}.
+Born in Portugal 🇵🇹. I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working with [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
 
 ### ☄️ Latest {#latest}
 
@@ -17,10 +29,6 @@ Lately, {{< latest-read >}}. On the big screen, the last movie 🎬 I [watched](
   text-align: center;
 }
 </style>
-
-{{< latest n=5 >}}
-
-<a href="./stream"><button>🌊 More Posts</button></a>
 
 <div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>

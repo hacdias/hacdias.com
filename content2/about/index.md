@@ -3,7 +3,7 @@ title: About
 noShowInteractions: true
 ---
 
-{{< figure alt="Me!" cdn="2019-06-henrique" caption="Photo by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.instagram.com/isabelsoares16/\">Isabel Soares</a>" >}}
+![Me!](cdn:/2019-06-henrique)
 
 Hi, I'm Henrique (he/him)!
 
