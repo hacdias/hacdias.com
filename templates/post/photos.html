@@ -2,7 +2,7 @@
   {{ with .Helper.Photos }}
     <div class="fw {{ with $.PhotoClass}}{{.}}{{ end }}">
     {{ range $i, $photo := . }}
-      {{ figure $photo.value $photo.alt }}
+      {{ figure $photo.value $photo.alt true }}
     {{ end }}
     </div>
   {{ end }}

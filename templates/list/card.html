@@ -5,18 +5,6 @@
   <article class='h-entry card'>
     <a href="{{ relURL .Permalink }}" title="{{ .Title }}" class="u-url nl link"></a>
 
-    {{/* {{ if $isPhotos }}
-      {{ with .Params.cover }}
-      <figure>
-        <picture>
-          <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-500x.webp 500w, https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.webp 1000w" type="image/webp">
-          <source srcset="https://cdn.hacdias.com/i/t/{{ .slug }}-500x.jpeg 500w, https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.jpeg 1000w">
-          <img class='u-photo' src="https://cdn.hacdias.com/i/t/{{ .slug }}-1000x.jpeg" alt="{{ .title }}" title="{{ .title }}">
-        </picture>
-      </figure>
-      {{ end }}
-    {{ end }} */}}
-
     {{ include "post/header" . }}
 
     {{ if $isLong }}
