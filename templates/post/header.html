@@ -59,7 +59,7 @@
     {{ $location := $checkin.LocalityCountry }}
     {{ $time := $.Published.Format "Monday, 02 Jan 2006 15:04" }}
 
-    <div class="u-checkin ibox">
+    <div class="u-checkin h-card ibox">
       <p>At 
         {{ with $url }}<a href="{{ . }}" class="u-url p-name" target="_blank" rel="noopener noreferrer">{{ end }}
           <strong>{{- $checkin.Name -}}</strong>

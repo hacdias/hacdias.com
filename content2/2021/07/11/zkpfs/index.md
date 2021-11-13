@@ -1,0 +1,33 @@
+---
+description: At Alameda
+published: 2021-07-11T09:02:23+01:00
+section:
+- checkins
+properties:
+  checkin:
+    properties:
+      country-name: Portugal
+      latitude: 38.7372590538074
+      locality: Lisbon
+      longitude: -9.133758702459518
+      name: Alameda
+      postal-code: 1000-123
+      region: Lisbon
+      street-address: Alameda Henrique Dom Afonso
+      url: https://foursquare.com/v/57753ca0498ea7a0b08a18b6
+    type: h-card
+    value: https://foursquare.com/v/57753ca0498ea7a0b08a18b6
+  location:
+    properties:
+      country-name: Portugal
+      latitude: 38.7372590538074
+      locality: Lisbon
+      longitude: -9.133758702459518
+      postal-code: 1000-123
+      region: Lisbon
+      street-address: Alameda Henrique Dom Afonso
+    type: h-adr
+  syndication: https://www.swarmapp.com/user/476184554/checkin/60eaa58fdaa39355e1db1bc3
+---
+
+
