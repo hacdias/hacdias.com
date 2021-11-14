@@ -24,7 +24,7 @@
         {{ with .Entry.Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
       {{ else }}
         {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
-        {{ if contains .Sections "articles" }}
+        {{ if .InSection "articles" }}
           <p>
             {{- if .Updated.After .Published -}}
               {{ .Published.Format "January 02, 2006" }}

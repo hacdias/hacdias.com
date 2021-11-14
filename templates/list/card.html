@@ -1,6 +1,6 @@
 {{ define "list/card" }}
-  {{ $isPhotos := contains .Sections "photos" }}
-  {{ $isLong := or (contains .Sections "articles") (eq (len .Sections) 0) }}
+  {{ $isPhotos := .InSection "photos" }}
+  {{ $isLong := or (.InSection "articles") (eq (len .Sections) 0) }}
 
   <article class='h-entry card'>
     <a href="{{ relURL .Permalink }}" title="{{ .Title }}" class="u-url nl link"></a>
