@@ -1,0 +1,29 @@
+{{ define "post/read" }}
+  {{ $mf2 := .Helper }}
+  {{ $read := $mf2.Sub $mf2.TypeProperty }}
+  {{ $name := $read.String "name" }}
+  {{ $author := $read.String "author" }}
+  {{ $status := $mf2.String "read-status" }}
+
+  <header>
+    <p>
+      {{ if eq $status "to-read" }}
+        <p>📚 <strong>Want To Read</strong></p>
+      {{ else if eq $status "finished" }}
+        <p>📕 <strong>Finished Reading</strong></p>
+      {{ else }}
+        <p>📖 <strong>Reading</strong></p>
+      {{ end }}
+    </p>
+  </header>
+
+  <div class="p-read-of h-cite ibox">
+    <cite class="p-name">{{ $name }}</cite> by <span class="p-author">{{ $author }}</span>
+  </div>
+
+  {{ with $mf2.String "summary" }}
+    <p class="p-summary dn">{{ . }}</p>
+  {{ end }}
+
+  <data class="p-x-read-status dn" value="{{ $status }}">{{ $status }}</data>
+{{ end }}

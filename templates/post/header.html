@@ -11,71 +11,11 @@
     <header><p>📢 <strong>Reposted</strong></p></header>
     {{ include "post/embbeded" . }}
   {{ else if eq $type "bookmark" }}
-    <header><p>🔖 <strong>Bookmarked</strong></p></header>
-
-    <div class="ibox">
-      <a class="u-bookmark-of h-cite" href="{{ $mf2.String $mf2.TypeProperty }}">
-        {{- .Title -}}
-      </a>
-    </div>
+    {{ include "post/bookmark" . }}
   {{ else if eq $type "read" }}
-    {{ $read := $mf2.Sub $mf2.TypeProperty }}
-    {{ $name := $read.String "name" }}
-    {{ $author := $read.String "author" }}
-    {{ $isbn := $read.String "uid" }}
-
-    {{ $status := $mf2.String "read-status" }}
-
-    <!-- TODO -->
-    <div class="p-summary">
-      <header>
-        <p>
-          {{ if eq $status "to-read" }}
-            <p>📚 <strong>Want To Read</strong></p>
-          {{ else if eq $status "finished" }}
-            <p>📕 <strong>Finished Reading</strong></p>
-          {{ else }}
-            <p>📖 <strong>Reading</strong></p>
-          {{ end }}
-        </p>
-      </header>
-
-      {{/* <data class="p-x-read-status" value="to-read">{{ $mf2.String "read-status" }}</data>: */}}
-
-      <div class="p-read-of h-cite ibox">
-        <cite class="p-name">{{ $name }}</cite> by <span class="p-author">{{ $author }}</span>
-        {{/* {{ with $isbn }}(<span class="p-uid">{{ . }}</span>){{ end }} */}}
-      </div>
-    </div>
-
+    {{ include "post/read" . }}
   {{ else if eq $type "checkin" }}
-    <header><p>📍 <strong>Checked In</strong></p></header>
-
-    <!-- TODO --> 
-
-    {{ $checkin := $mf2.Sub $mf2.TypeProperty }}
-    {{ $url := $checkin.String "url" }}
-
-    {{ $location := $checkin.LocalityCountry }}
-    {{ $time := $.Published.Format "Monday, 02 Jan 2006 15:04" }}
-
-    <div class="u-checkin h-card ibox">
-      <p>At 
-        {{ with $url }}<a href="{{ . }}" class="u-url p-name" target="_blank" rel="noopener noreferrer">{{ end }}
-          <strong>{{- $checkin.Name -}}</strong>
-        {{ with $url }}</a>{{ end }}
-      </p>
-
-      <p><small>
-        <span class="p-location">{{ $location }}</span> • <span>{{ $time }}</span>
-        <div class="dn">
-          <span class="p-latitude">{{ $checkin.Properties.latitude }}</span>
-          <span class="p-longitude">{{ $checkin.Properties.longitude }}</span>
-        </div>
-      </small></p>
-    </div>
-
-   
+    {{ include "post/checkin" . }}
   {{ else if eq $type "note" }}
     <!-- Do Nothing -->
   {{ else }}
