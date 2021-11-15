@@ -4,11 +4,10 @@
     <div>
       {{ if .OnionAddress }}
         {{ if .TorUsed }}
-          🔒 You are connected via Tor.
+          🔐 You are connected via Tor.
         {{ else }}
-          🔓 <a href="{{ .OnionAddress }}">Connect via Tor.</a>
+          🔓 <a href="{{ .OnionAddress }}">Connect via Tor.</a> <a href="https://www.torproject.org/">What is Tor?</a>
         {{ end }}
-        <a href="https://www.torproject.org/">What is Tor?</a>
       {{ end }}
     </div>
 
