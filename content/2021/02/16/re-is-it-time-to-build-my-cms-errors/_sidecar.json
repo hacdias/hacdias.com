@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://ybbond.id/responses/response-20210217025510/"
+  ],
+  "context": {
+    "author": {
+      "name": "Yohanes Bandung Bond.",
+      "photo": "",
+      "type": "card",
+      "url": "https://ybbond.id"
+    },
+    "content": "Quick note, there is error in link destinations at the end of the post. All directing to https://github.com/xwmx/nb  . I too want to build a CMS! The convenience of editing anywhere, desktop or mobile devices, like using WordPress… I think that would improve my willingness to write posts, or document stuffs.",
+    "published": "2021-02-17T02:55:10+07:00",
+    "type": "entry",
+    "url": "https://ybbond.id/responses/response-20210217025510/"
+  },
+  "webmentions": []
+}

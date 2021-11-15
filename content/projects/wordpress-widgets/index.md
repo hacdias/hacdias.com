@@ -1,9 +1,10 @@
 ---
-dataId: 5b725536d9fa84c8400c2d08c748fb0163fd8fe451283316942c8ec66c816d4f
 title: Wordpress Widgets
 description: |
   Caddy is a lightweight, fast, general-purpose, cross-platform HTTP/2 web server with automatic HTTPS with support for plugins. I've created some.
-noMentions: true
+section:
+- projects
+noShowInteractions: true
 ---
 
 Between **2015** and **2017**, I developed and maintained three WordPress plugins, in PHP, with [Luís Soares](http://luissoares.com/). These plugins were:

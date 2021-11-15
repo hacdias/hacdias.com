@@ -1,9 +1,0 @@
-{
-  "targets": [
-    "https://www.artemix.org/blog/backing-up-e-mails-from-an-imap-server",
-    "http://pyropus.ca/software/getmail/",
-    "https://cr.yp.to/proto/maildir.html",
-    "http://pyropus.ca/software/getmail/configuration.html#conf-retriever"
-  ],
-  "webmentions": []
-}

@@ -1,0 +1,78 @@
+{
+  "targets": [
+    "https://docs.testground.ai/",
+    "https://github.com/testground/testground/blob/master/plans/network/pingpong.go",
+    "https://redis.io/",
+    "https://github.com/testground/testground",
+    "https://www.docker.com/",
+    "https://golang.org/dl/",
+    "https://docs.testground.ai/writing-test-plans/test-plan-manifest",
+    "https://github.com/testground/sdk-go",
+    "https://github.com/testground/sdk-js",
+    "https://github.com/testground/testground/issues/1148"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg",
+        "type": "card",
+        "url": ""
+      },
+      "content": "Or you could also have a fully deployed pre prod environment and run end to end tests there.\n\n\nThis would amount to less code (which is good) and reliance on on less libraries(also good)\n\n\nBesides.. you should already have a pre prod environment with full deployments - it's good practice. You just have to write the end-to-end tests.\n\n\n(I realise that it may sound like I'm trashing this idea.. but I'm not, the actual implementation is elegant.. it just looks like a case where you've answered  'can we do it?' before asking 'should we do it')\n\n\nNevertheless good project from an academic perspective.",
+      "post-type": "reply",
+      "published": "2020-10-19T07:56:35Z",
+      "type": "entry",
+      "url": "https://commentpara.de/comment/678.htm"
+    },
+    {
+      "author": {
+        "name": "Alfonso de la Rocha",
+        "photo": "https://cdn.hacdias.com/wm/c35b502b18b1823d2512e99155a6a38e6a9ea8f075ea58d8b8074b78ea338057.png",
+        "type": "card",
+        "url": "https://twitter.com/adlrocha"
+      },
+      "post-type": "like",
+      "published": "2020-10-19T12:21:10Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-1027529251682181120"
+    },
+    {
+      "author": {
+        "name": "Anton Evangelatov",
+        "photo": "https://cdn.hacdias.com/wm/47d79e8b12bc08542d4a873fb0ff0c67ce481bc3b7b8e592b321b0ed7aab6771.jpg",
+        "type": "card",
+        "url": "https://twitter.com/nonsens3"
+      },
+      "post-type": "like",
+      "published": "2020-10-19T16:20:23Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-43537648"
+    },
+    {
+      "author": {
+        "name": "Johnny Matthews",
+        "photo": "https://cdn.hacdias.com/wm/fa22f5fe4b138724230874b3ab09e162c7cc78087f02b12faccac45fff8d5967.jpg",
+        "type": "card",
+        "url": "https://twitter.com/_johnnymatthews"
+      },
+      "post-type": "like",
+      "published": "2020-10-19T16:20:23Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-1083823523154542594"
+    },
+    {
+      "author": {
+        "name": "David Dias",
+        "photo": "https://cdn.hacdias.com/wm/807841da08aa01707220ffafccbdf6d62122125d13e714dcbf5578c41278e084.jpg",
+        "type": "card",
+        "url": "https://twitter.com/daviddias"
+      },
+      "post-type": "like",
+      "published": "2021-02-04T12:11:31Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-200749589"
+    }
+  ]
+}

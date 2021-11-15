@@ -1,0 +1,10 @@
+---
+published: 2020-02-26T22:42:54.474Z
+section:
+- micro
+- replies
+properties:
+  in-reply-to: https://jlelse.blog/micro/2020/02/2020-02-26-maakb/
+---
+
+Quickly relying to your last question: the “things I have to import” is because they’re in Portuguese and I wanna translate them. However, this and last semester, most of the material teachers give us is in English (and then the exam is usually in Portuguese which doesn’t make much sense but nevermind). I’ll share more about the entire workflow soon. The best thing is: I don’t do anything basically besides writing the notes :)

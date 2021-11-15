@@ -1,0 +1,33 @@
+{
+  "targets": [
+    "https://regexr.com/",
+    "https://jlelse.blog/micro/2020/04/regex101/"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile-128.jpg",
+      "type": "card",
+      "url": "https://jlelse.dev/"
+    },
+    "content": "regex101.com is my favorite tool for testing and debugging regular expressions too. It can even generate code. 🤓 Very nice tool! 👍",
+    "published": "2020-04-06T09:32:40Z",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2020/04/regex101/"
+  },
+  "webmentions": [
+    {
+      "author": {
+        "name": "Aaron Davis",
+        "photo": "https://cdn.hacdias.com/wm/276c0cf265210e70ea9986c36db4a829195a48c1c8ae36b442c43d76c2ee697f.jpg",
+        "type": "card",
+        "url": "https://readwriterespond.com/"
+      },
+      "content": "via Henrique Dias",
+      "post-type": "like",
+      "published": "2020-04-08T11:31:00Z",
+      "type": "entry",
+      "url": "https://collect.readwriterespond.com/online-regex-tester-and-debugger-php-pcre-python-golang-and-javascript/"
+    }
+  ]
+}

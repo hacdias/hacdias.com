@@ -1,0 +1,90 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "post-type": "mention",
+      "published": "2020-04-21T09:06:13Z",
+      "type": "entry",
+      "url": "https://kevq.uk/blogroll/"
+    },
+    {
+      "author": {
+        "name": "joe jenett",
+        "photo": "https://cdn.hacdias.com/wm/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png",
+        "type": "card",
+        "url": "https://hub.iwebthings.com/author/admin/"
+      },
+      "content": "Henrique Dias\nDuncan Stephen\nBen Stern\n\n\nvisit the daily pointers",
+      "post-type": "mention",
+      "published": "2020-04-07T09:14:13Z",
+      "type": "entry",
+      "url": "https://hub.iwebthings.com/04-07-20/"
+    },
+    {
+      "author": {
+        "name": "joe jenett",
+        "photo": "https://cdn.hacdias.com/wm/48ed68cc6857a23f5f34395394ebc2f5617fe7d588b53c5ef6cebc38e9e8a47e.png",
+        "type": "card",
+        "url": "https://hub.iwebthings.com/"
+      },
+      "content": "Henrique Dias (new)\n\n\nJan Erik Moström ＋\n\nJoel Simon",
+      "post-type": "mention",
+      "published": "2020-01-06T10:28:00Z",
+      "type": "entry",
+      "url": "https://hub.iwebthings.com/01-06-20/"
+    },
+    {
+      "author": {
+        "name": "joe jenett",
+        "photo": "https://cdn.hacdias.com/wm/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png",
+        "type": "card",
+        "url": "https://pointers.dailywebthing.com/author/admin/"
+      },
+      "content": "Henrique Dias (new)\nJan Erik Moström ＋\nJoel Simon\n\nhttps://pointers.dailywebthing.com/01-06-20/",
+      "post-type": "mention",
+      "published": "2020-01-06T05:28:00Z",
+      "type": "entry",
+      "url": "https://pointers.dailywebthing.com/01-06-20/"
+    },
+    {
+      "author": {
+        "name": "joe jenett",
+        "photo": "https://cdn.hacdias.com/wm/9196c3f5bc40ec73b6753cd36119de099808f15ae249272a81e9cd1178e2706c.png",
+        "type": "card",
+        "url": "https://pointers.dailywebthing.com/author/admin/"
+      },
+      "content": "mimi smartypants\nhacdias\np5aholic\n\nhttps://pointers.dailywebthing.com/06-09-20/",
+      "post-type": "mention",
+      "published": "2020-06-09T05:17:31Z",
+      "type": "entry",
+      "url": "https://pointers.dailywebthing.com/06-09-20/"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com"
+      },
+      "content": "If you need to reach me directly:\n☎️ Telegram (@hacdias)\n\n✉️ E-mail ([email protected])\n\n🗞 Follow\nAll pages that list posts, such as micro and articles, have RSS, JSON and HTML (Microformats) feeds. To subscribe to my main posts, you can follow my stream. If you give your RSS reader the page URL, it should be able to automatically pick up the feed.\n\nIn case your feed does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the stream page:\n\nHTML/Microformats: https://hacdias.com/stream\n\n\nRSS Feed: https://hacdias.com/stream/feed.xml\n\n\nJSON Feed: https://hacdias.com/stream/feed.json\n\n🕸 Elsewhere\nMy username is usually @hacdias so that’s how you’ll able to find me on almost any social media I’m in. Here are some (possibly) relevant platforms where I’m active:\n🐙 GitHub (@hacdias)\n\n📷 Instagram (@hacdias)\n\n🐦 Twitter (@hacdias)\n\n💼 LinkedIn (@hacdias)\n\n🗝 PGP\nIf you want to encrypt any of the messages you send to me, you can find my public\nkey directly on this website or on keybase. Here’s the fingerprint:\nAE95 7E3A 2905 B55A 6950 E762 4454 5566 F552 F631",
+      "post-type": "mention",
+      "published": "2021-10-30T23:01:37Z",
+      "type": "entry",
+      "url": "https://hacdias.com/contact"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com"
+      },
+      "content": "This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭! 📃 Categories 🌊 Stream ✏️ Articles 💬 Micro [Micro](/micro) 📸 Photos 🥐 Others 🧔 About ⚙️ About This Website ✉️ Contact 📝 Guestbook 🤯 Impossible List 📌 Links 🎶 Listens 📦 Projects 🎓 Resume 🔎 Search 🛠 Uses 🎬 Watches 📚 Reads 🏷 Tags 🧪 Experiments A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments. Weird things can happen, you can feel dizzy, be aware of cats. Or they will bite you! 🔵 Blue Screen of Death 📡 Glitch 🗺 Procedural Map Generator 🏳️‍🌈 PixelColorMania ⛈ Thunderstorm 📺 TV Noise 💥 XKCD Clone",
+      "post-type": "mention",
+      "published": "2020-01-25T22:56:48Z",
+      "type": "entry",
+      "url": "https://hacdias.com/more/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2020/01/2020-01-22-fryan/"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile-512.jpg",
+      "type": "card",
+      "url": "https://jlelse.dev/"
+    },
+    "content": "I don’t show webmention content at all. 😅 Instead I just show a link to the “interaction”. That removes a lot of complexity with parsing, storing etc. but probably isn’t as intuitive: it requires opening the “interactions” section below the post and visiting the link.",
+    "published": "2020-01-22T10:28:00Z",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2020/01/2020-01-22-fryan/"
+  },
+  "webmentions": []
+}

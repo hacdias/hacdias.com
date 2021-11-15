@@ -1,0 +1,10 @@
+{
+  "targets": [
+    "https://indieweb.org/silo",
+    "https://hacdias.com/blogroll",
+    "https://lobste.rs/s/h9xgpv/rate_my_homepage",
+    "https://whimsical.club/"
+  ],
+  "context": null,
+  "webmentions": []
+}

@@ -1,0 +1,10 @@
+---
+published: 2020-02-17T21:22:26.584Z
+section:
+- micro
+- replies
+properties:
+  in-reply-to: https://jlelse.blog/thoughts/2020/02/opinions-change/
+---
+
+Completely agree with all you've said. "But still, I don’t want to delete most of what I published back then just like that." this is something I've come to learn. My website passed through many phases where I removed a lot of the posts I had there. But now? Now I restored everything.

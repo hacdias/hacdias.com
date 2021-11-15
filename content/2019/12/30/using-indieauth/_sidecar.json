@@ -1,0 +1,61 @@
+{
+  "targets": [
+    "https://hacdias.com/articles/2019/12/url-structure/",
+    "https://indieauth.net/",
+    "https://indieweb.org/IndieAuth",
+    "https://indieauth.com/",
+    "https://indieweb.org/IndieAuth#IndieWeb_Examples"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "ZipperHost",
+        "photo": "https://cdn.hacdias.com/wm/6dfcbb7d77851e889b224d22f43fa0aa703c1420f5dd9ddafa4fc61d0ebf088d.jpg",
+        "type": "card",
+        "url": "https://twitter.com/ZipperHost"
+      },
+      "content": "Here's how to enable #indieauth on your own website! It's a really interesting authorization method I've never heard about before searching",
+      "post-type": "repost",
+      "published": "2019-12-31T05:46:34Z",
+      "type": "entry",
+      "url": "https://twitter.com/ZipperHost/status/1211886342088613888"
+    },
+    {
+      "author": {
+        "name": "Aaron Parecki",
+        "photo": "https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg",
+        "type": "card",
+        "url": "https://aaronparecki.com/"
+      },
+      "post-type": "like",
+      "published": "2019-12-30T00:00:00Z",
+      "type": "entry",
+      "url": "https://aaronparecki.com/2019/12/30/22/"
+    },
+    {
+      "author": {
+        "name": "ZipperHost",
+        "photo": "https://cdn.hacdias.com/wm/6dfcbb7d77851e889b224d22f43fa0aa703c1420f5dd9ddafa4fc61d0ebf088d.jpg",
+        "type": "card",
+        "url": "https://twitter.com/ZipperHost"
+      },
+      "post-type": "like",
+      "published": "2019-12-31T00:17:01Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1211797283525812224#favorited-by-1205973839970222083"
+    },
+    {
+      "author": {
+        "name": "prince biomass",
+        "photo": "https://cdn.hacdias.com/wm/2bbd764ebbca643be7cc4df5f1927d3ba5be60036a32c100f2d84ae1c7f63954.jpg",
+        "type": "card",
+        "url": "https://twitter.com/princebiomass"
+      },
+      "post-type": "like",
+      "published": "2019-12-31T00:17:01Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1211797283525812224#favorited-by-844035216"
+    }
+  ]
+}

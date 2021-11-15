@@ -1,0 +1,32 @@
+{
+  "targets": [
+    "https://jlelse.blog/thoughts/2020/06/blogging-german/"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile.png",
+      "type": "card",
+      "url": "https://jlelse.dev/"
+    },
+    "content": "For those who haven’t noticed, I’m blogging more regularly in German again 🇩🇪, the last days even more often in German than in English. And this although there will be much less people reading these articles. Somehow it is much easier for me to write texts in my mother tongue. The words flow much better and it is much easier for me to express my thoughts. I will probably write more about my life and stuff like that on my German blog, while my English blog will be more about technical topics. Some things, like my monthly reviews (the next one will be this week) I will also publish in both languages.Maybe it’s also just a little alternation again. We’ll see. I just do it the way I enjoy it, after all blogging is my hobby.",
+    "published": "2020-06-30T20:48:44Z",
+    "type": "entry",
+    "url": "https://jlelse.blog/thoughts/2020/06/blogging-german/"
+  },
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/250e9e9449d7c024daf8563ea895fcf1c48be62cd04373495b132b33d909c5d4.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "Liked https://hacdias.com/micro/2020/07/english-vs-portuguese/.",
+      "post-type": "like",
+      "published": "2020-07-01T10:07:05Z",
+      "type": "entry",
+      "url": "https://jan.boddez.net/likes/e39590319d"
+    }
+  ]
+}

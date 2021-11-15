@@ -1,0 +1,45 @@
+{
+  "targets": [
+    "https://twitter.com/mholt6/status/1309633018475155456"
+  ],
+  "context": {
+    "author": {
+      "name": "🧗‍♂️ Matt Holt",
+      "photo": "https://pbs.twimg.com/profile_images/1305316187069317121/Pd9LKuPw_normal.jpg",
+      "type": "card",
+      "url": "https://twitter.com/mholt6"
+    },
+    "content": "A wild /usr/lib/go-1.13 appeared! Seriously, where did it come from? Why is it here, and only in @code's Terminal? Ubuntu 20.04... first thing I did was install #golang 1.15 manually, why did it need Go 1.13?? (Never had this problem on Mac. ... but had lots of other problems)",
+    "published": "2020-09-25T23:16:58Z",
+    "type": "entry",
+    "url": "https://twitter.com/mholt6/status/1309633018475155456"
+  },
+  "webmentions": [
+    {
+      "author": {
+        "name": "Basebandit",
+        "photo": "https://cdn.hacdias.com/wm/1cf60f3299e83ee9b83cc90717cb02b139b3262648414287cfed7e1d6c839469.png",
+        "type": "card",
+        "url": "https://twitter.com/the_basebandit"
+      },
+      "content": "Am curious? explain further, do you mind?",
+      "post-type": "reply",
+      "published": "2020-09-26T07:40:49Z",
+      "type": "entry",
+      "url": "https://twitter.com/the_basebandit/status/1309759820300419073"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/ddd8a83c019c39f33d14179baf4e78d11e7aae39c460f54df45c9d1fe598bcb0.jpg",
+        "type": "card",
+        "url": "https://twitter.com/hacdias"
+      },
+      "content": "@the_basebandit oh, it was just a joke! 😅",
+      "post-type": "reply",
+      "published": "2020-09-26T09:39:36Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1309789712958328832"
+    }
+  ]
+}

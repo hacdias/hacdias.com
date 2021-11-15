@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://twitter.com/bixamon/status/1268239059253473280"
+  ],
+  "context": {
+    "author": {
+      "name": "Bi",
+      "photo": "https://pbs.twimg.com/profile_images/1243622449868091392/07QgQzq3_normal.jpg",
+      "type": "card",
+      "url": "https://twitter.com/bixamon"
+    },
+    "content": "can you inviting me ? i'd like to join http://lobste.rs",
+    "published": "2020-06-03T17:52:09Z",
+    "type": "entry",
+    "url": "https://twitter.com/bixamon/status/1268239059253473280"
+  },
+  "webmentions": []
+}

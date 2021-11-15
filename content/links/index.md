@@ -1,17 +1,9 @@
 ---
-dataId: dda49824ea348145ea62bc0b28e4c6c1a9ddb6f49d924e8bdb01a25b340a45cf
 title: Links
-date: 2020-02-12T21:00:00Z
-lastmod: 2021-11-08T14:46:53.37491344Z
-aliases:
-- /pins
-- /bookmarks
-- /blogroll
-emoji: "\U0001F4CC"
-noMentions: true
-menu:
-  main:
-    weight: 5
+published: 2020-02-12T21:00:00Z
+updated: 2021-11-08T14:46:53.37491344Z
+template: links
+noShowInteractions: true
 ---
 
 This is a non-exhaustive collection of interesting links and websites I found on the Internet during my "surfing" 🌊. These are definitely more interesting than my browser's bookmarks! Links with a #️⃣ icon are IPFS links!

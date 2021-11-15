@@ -1,0 +1,19 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "agilelisa",
+        "photo": "https://cdn.hacdias.com/wm/1f7fdd71c02e5ab3d9b167411603a681c23eb83c7140ca16cec83d0d629fcd9e.jpg",
+        "type": "card",
+        "url": "https://micro.blog/agilelisa"
+      },
+      "content": "@hacdias That sounds unfortunate, those teaching decisions. There are so many more good ways of doing online learning.",
+      "post-type": "reply",
+      "published": "2020-09-05T11:57:17Z",
+      "type": "entry",
+      "url": "https://micro.blog/agilelisa/10214723"
+    }
+  ]
+}

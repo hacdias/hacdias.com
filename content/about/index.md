@@ -1,14 +1,9 @@
 ---
-dataId: af12a513b88ef79a9ee1738848cd15903813776d606ec927d6e71b6b2c8dfe7d
 title: About
-emoji: "\U0001F9D4"
-noMentions: true
-menu:
-  main:
-    weight: 1
+noShowInteractions: true
 ---
 
-{{< figure alt="Me!" cdn="2019-06-henrique" >}}
+![Me!](cdn:/2019-06-henrique)
 
 Hi, I'm Henrique (he/him)!
 

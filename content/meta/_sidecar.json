@@ -1,0 +1,80 @@
+{
+  "targets": [
+    "https://hacdias.com/tags/meta/",
+    "https://hacdias.com/articles/2014/07/apresentacao/",
+    "https://hacdias.com/articles/2015/02/i-have-moved-again/",
+    "https://hacdias.com/articles/2020/05/back-90s/",
+    "https://hacdias.com/uses/#photography",
+    "https://gohugo.io/",
+    "https://hacdias.com/articles/2015/08/farewell-wordpress-hello-hugo/",
+    "https://www.hetzner.com/",
+    "https://www.cloudflare.com/",
+    "https://ipfs.io/",
+    "https://hacdias.com/articles/2019/08/decentralizing-my-website-with-ipfs/",
+    "https://bunny.net/",
+    "https://github.com/hacdias/eagle",
+    "https://hacdias.com/meta#search",
+    "https://hacdias.com/meta#webmentions",
+    "https://github.com/hacdias/silos-collector",
+    "https://trakt.tv",
+    "https://hacdias.com/watches/",
+    "https://www.last.fm/home",
+    "https://hacdias.com/listens/",
+    "https://miniflux.app/",
+    "https://hacdias.com/links/#blogroll",
+    "https://indieweb.org/Webmention",
+    "https://webmention.io/",
+    "https://brid.gy/",
+    "https://telegraph.p3k.io/",
+    "https://microformats.org/",
+    "https://hacdias.com/meta#feeds",
+    "https://hacdias.com/search",
+    "https://docs.meilisearch.com/",
+    "https://capitalizemytitle.com/style/Wiki/",
+    "https://hacdias.com/contact/",
+    "https://hacdias.com/about",
+    "https://hacdias.com/guestbook"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com"
+      },
+      "content": "Henrique Dias\n📍 Eindhoven, Netherlands — [email protected]\n\nhacdias.com\ngithub.com/hacdias\nlinkedin.com/in/hacdias\nI am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing user-friendly services.Education\nMSc Computer Science and Engineering, Eindhoven University of Technology [2020 - present]Current GPA of 8 out of 10.\nExpected to graduate in the summer of 2022.\n\n\nBSc Information Systems and Computer Engineering, Instituto Superior Técnico [2017 - 2020]Graduated with GPA of 16 out of 20.\nVolunteered as Student Mentor for 2 years.\nAcademic Merit Award, 2017/2018.\n\nExperience\nProtocol Labs — Software Engineer [2017 - present]\nProtocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.Developed Testground: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.\nLead maintainer of IPFS Desktop: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month.\nRevamped and shipped IPFS Web UI: a React-based web application used as a front-end for IPFS.\nDesigned and built Awesome IPFS: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS.\n\nUpframe — Lead Software Engineer [2016 - 2018]\nUpframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.\nBuilt a REST API for managing email transactions, newsletters and enrollments in the program.\nBuilt a Slack bot to manage enrollments to the program, in Go.\nBuilt a backend which allowed to see who was at the office, to send emails and to manage newsletters.\nIn the news: Eco, Startup Lisboa, Observador \u0026 Dinheiro Vivo.\n\nPplware — Content Writer [2013 - 2016]\nPplware is a the largest Portuguese technology website with over 100 000 daily visitors.Wrote over 400 tutorials, tech news and other articles on both Pplware and Pplware Kids.\nPublished a 60 page e-book on how to program in C for beginners when I was 15 years old.\nProjectsPersonal Website [2014 - present] [code]\nRunning my personal website since 2014, allowing me to experiment with different technologies. Nowadays, it is composed by a mix of a static generator, plus a custom backend built in Go.\nCustom backend supports post management, full-text search, interaction with a few services' APIs, among other features. Read more about how it works.\nThe blog contains both technical and non-technical articles and receives over 5 000 unique visitors per month.\nCaddy Plugins [2015 - 2020]\n\nCaddy is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.\nBuilt multiple plugins for Caddy to add functionalities requested by the community.\nPlugins functionalities include: on-the-fly minification, WebDav support and installation as a service.\nOver 50 000 downloads.\nFile Browser [2015 - 2019] [code]\nClient-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained.\nOver 10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub.\nBuilt with Go and JavaScript (Vue.js).\nAchievements6th place on National Olympiad in Informatics [2017] [website]\n\n10th place on National Olympiad in Informatics [2016] [website]\n\nDeputy at District’s Youth Parliament [2016] [website]\n\nDeputy at District’s Youth Parliament [2013] [website]\n\nSecretary of National Youth Parliament [2012] [website]\n\nSecretary of District’s Youth Parliament [2012] [website]\n\nCertifications and CoursesMCB80x: Fundamentals of Neuroscience [June 2020] [certificate]\n\nIELTS Academic (7.5 out of 9.0, C1) [September 2019]",
+      "post-type": "mention",
+      "published": "2021-08-19T19:03:10Z",
+      "type": "entry",
+      "url": "https://hacdias.com/resume"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com"
+      },
+      "content": "Photo by Isabel Soares\nHi, I’m Henrique (he/him)!\nI’m from a little town in Portugal 🇵🇹 and I’m now pursuing my Master’s degree 🎓 in Computer Science and Engineering at TU/e, in Eindhoven. At the same time, I’m working at Protocol Labs on fascinating projects to help decentralize the web.\nI believe in transparency and openness, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.\nI’m interested in how we can use computer networks to our advantage, prioritizing decentralized systems, capable of pushing the humanity forward. Web infrastructure, peer-to-peer systems, as well as human-computer interaction are at the core of my interests.\nBack in 2014, when I started this website, I wrote my first ever post, in Portuguese, where I said my goal as a Software Engineer would be to improve the world somehow. Even though it is a cliché, it doesn’t mean it is not true. I enjoy helping people, and we all should never forget that we live in a society so our actions matter.\n🤔 The (un)story of my handle\nMost likely you’ve already noticed that my handle, @hacdias, reminds of the word ‘hack’. However, I can assure you they have nothing to do with each other. It was a mere coincidence between the first letters of my first name and middle names - ‘hac’ - and last name - ‘dias’ - that I happen to enjoy.\n✉️ Contact\n🎓 Resume\n📦 Projects\n⚙️ About This Website",
+      "post-type": "mention",
+      "published": "2021-10-28T20:22:13Z",
+      "type": "entry",
+      "url": "https://hacdias.com/about"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com"
+      },
+      "content": "This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭! 📃 Categories 🌊 Stream ✏️ Articles 💬 Micro [Micro](/micro) 📸 Photos 🥐 Others 🧔 About ⚙️ About This Website ✉️ Contact 📝 Guestbook 🤯 Impossible List 📌 Links 🎶 Listens 📦 Projects 🎓 Resume 🔎 Search 🛠 Uses 🎬 Watches 📚 Reads 🏷 Tags 🧪 Experiments A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments. Weird things can happen, you can feel dizzy, be aware of cats. Or they will bite you! 🔵 Blue Screen of Death 📡 Glitch 🗺 Procedural Map Generator 🏳️‍🌈 PixelColorMania ⛈ Thunderstorm 📺 TV Noise 💥 XKCD Clone",
+      "post-type": "mention",
+      "published": "2020-01-25T22:56:48Z",
+      "type": "entry",
+      "url": "https://hacdias.com/more/"
+    }
+  ]
+}

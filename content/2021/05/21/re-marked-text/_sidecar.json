@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2021/05/2021-05-20-btvks"
+  ],
+  "context": {
+    "author": {
+      "name": "jlelse's Blog",
+      "photo": "https://jlelse.dev/profile.png",
+      "type": "card",
+      "url": "https://jlelse.blog/"
+    },
+    "content": "I can now mark text with ==text== in GoBlog. This is probably even better in some cases than using bold text. Isn’t it? 🤔",
+    "published": "2021-05-20T20:23:57+02:00",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2021/05/2021-05-20-btvks"
+  },
+  "webmentions": []
+}

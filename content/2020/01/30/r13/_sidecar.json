@@ -1,0 +1,31 @@
+{
+  "targets": [
+    "https://twitter.com/anarlguerra/status/1222824668740100097"
+  ],
+  "context": {
+    "author": {
+      "name": "Ana Guerra",
+      "photo": "https://pbs.twimg.com/profile_images/1221201117821820928/JpmCCynE_normal.jpg",
+      "type": "card",
+      "url": "https://twitter.com/anarlguerra"
+    },
+    "content": "Which one are you? This is the type of questions one asks when they're not sure of their sexuality 😝",
+    "published": "2020-01-30T10:11:34Z",
+    "type": "entry",
+    "url": "https://twitter.com/anarlguerra/status/1222824668740100097"
+  },
+  "webmentions": [
+    {
+      "author": {
+        "name": "Ana Guerra",
+        "photo": "https://cdn.hacdias.com/wm/dca7d862a197d77856414f4f2e6485665af128639f9922cfb143c6265e7e4443.jpg",
+        "type": "card",
+        "url": "https://twitter.com/anarlguerra"
+      },
+      "post-type": "like",
+      "published": "2020-01-30T22:31:46Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1222843405404864512#favorited-by-773132067223863297"
+    }
+  ]
+}

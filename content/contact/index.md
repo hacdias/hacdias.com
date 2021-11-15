@@ -1,16 +1,6 @@
 ---
-dataId: aa5cae8811a5bd4341d99854e99ecf0868329378b39f6052e49e6ac8fa2b1cd1
 title: Contact
-aliases:
-- /follow
-- /subscribe
-emoji: ✉️
-noMentions: true
-menu:
-  main:
-    weight: 6
-    name: Follow
-    pre: ⚡️
+noShowInteractions: true
 ---
 
 If you need to reach me directly:
