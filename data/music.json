@@ -2,48 +2,48 @@
   "artists": [
     {
       "name": "Adele",
-      "count": 33,
+      "count": 31,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Agnes",
-      "count": 28,
+      "count": 27,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
       "name": "Pabllo Vittar",
-      "count": 23,
+      "count": 19,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
       "name": "Troye Sivan",
-      "count": 18,
+      "count": 19,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Marina",
-      "count": 15,
+      "count": 16,
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Miley Cyrus",
-      "count": 15,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
-    },
-    {
       "name": "Ashley O",
-      "count": 14,
+      "count": 15,
       "url": "https://www.last.fm/music/Ashley+O"
     },
     {
-      "name": "Bree Runway",
-      "count": 13,
-      "url": "https://www.last.fm/music/Bree+Runway"
+      "name": "Becky G",
+      "count": 14,
+      "url": "https://www.last.fm/music/Becky+G"
     },
     {
-      "name": "Becky G",
-      "count": 12,
-      "url": "https://www.last.fm/music/Becky+G"
+      "name": "Miley Cyrus",
+      "count": 14,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Omar Rudberg",
+      "count": 14,
+      "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
       "name": "Elton John",
@@ -55,19 +55,13 @@
     {
       "name": "On a Roll",
       "url": "https://www.last.fm/music/Ashley+O/_/On+a+Roll",
-      "count": 13,
+      "count": 14,
       "artist": "Ashley O"
-    },
-    {
-      "name": "What Do I Tell My Friends?",
-      "url": "https://www.last.fm/music/Bree+Runway/_/What+Do+I+Tell+My+Friends%3F",
-      "count": 13,
-      "artist": "Bree Runway"
     },
     {
       "name": "Shower",
       "url": "https://www.last.fm/music/Becky+G/_/Shower",
-      "count": 12,
+      "count": 14,
       "artist": "Becky G"
     },
     {
@@ -77,10 +71,10 @@
       "artist": "Adele"
     },
     {
-      "name": "Love in the Dark",
-      "url": "https://www.last.fm/music/Adele/_/Love+in+the+Dark",
+      "name": "What Do I Tell My Friends?",
+      "url": "https://www.last.fm/music/Bree+Runway/_/What+Do+I+Tell+My+Friends%3F",
       "count": 11,
-      "artist": "Adele"
+      "artist": "Bree Runway"
     },
     {
       "name": "Cold Heart - PNAU Remix",
@@ -89,14 +83,8 @@
       "artist": "Elton John"
     },
     {
-      "name": "Flash Pose",
-      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Flash+Pose",
-      "count": 11,
-      "artist": "Pabllo Vittar"
-    },
-    {
-      "name": "Easy on Me",
-      "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
+      "name": "Love in the Dark",
+      "url": "https://www.last.fm/music/Adele/_/Love+in+the+Dark",
       "count": 10,
       "artist": "Adele"
     },
@@ -107,10 +95,22 @@
       "artist": "Foxes"
     },
     {
+      "name": "Easy on Me",
+      "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
+      "count": 9,
+      "artist": "Adele"
+    },
+    {
       "name": "Can't Be Tamed",
       "url": "https://www.last.fm/music/Miley+Cyrus/_/Can%27t+Be+Tamed",
-      "count": 10,
+      "count": 9,
       "artist": "Miley Cyrus"
+    },
+    {
+      "name": "Flash Pose",
+      "url": "https://www.last.fm/music/Pabllo+Vittar/_/Flash+Pose",
+      "count": 9,
+      "artist": "Pabllo Vittar"
     }
   ]
 }
