@@ -1,9 +1,0 @@
-:root {
-  --action: #2980b9;
-}
-body {
-  background: url(/links/wave.svg), linear-gradient(180deg, #3498db 0%, #2980b9 100%);
-  background-attachment: fixed;
-  background-position: bottom;
-  background-repeat: no-repeat;
-}
