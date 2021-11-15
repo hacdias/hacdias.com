@@ -1055,3 +1055,5 @@
 /projects/feed.xml /projects.atom
 /tags/feed.json /tags.json
 /tags/feed.xml /tags.atom
+/all/feed.xml /all.atom
+/all/feed.json /all.json
