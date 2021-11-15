@@ -3,6 +3,7 @@ title: More
 published: 2020-01-25T22:56:48Z
 updated: 2021-11-06T10:15:52.528616384Z
 noShowInteractions: true
+noSendInteractions: true
 ---
 
 This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭!
@@ -13,10 +14,16 @@ This website contains more things than it looks at first glance. This page is a 
 
 <div class='terms grid bold'>
 
-- [🌊 Stream](/stream)
 - [✏️ Articles](/articles)
+- [🔖 Bookmarks](/bookmarks)
+- [📍 Checkins](/checkins)
+- [❤️ Likes](/likes)
 - [💬 Micro](/micro)
+- [💭 Notes](/notes)
 - [📸 Photos](/photos)
+- [📚 Reads](/reads)
+- [💬 Replies](/replies)
+- [📢 Reposts](/reposts)
 
 </div>
 
@@ -36,7 +43,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🔎 Search](/search)
 - [🛠 Uses](/uses)
 - [🎬 Watches](/watches)
-- [📚 Reads](/reads)
 - [🏷 Tags](/tags)
 
 </div>
@@ -62,12 +68,12 @@ Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger
 
 <div id='experiments-list' class='terms grid bold'>
   <ul>
-    <li><a rel="noopener noreferrer" target="_blank" title="Blue Screen of Death" href="../minisites/bsod/">🔵 Blue Screen of Death</a></li>
-    <li><a rel="noopener noreferrer" target="_blank" title="Glitch" href="../minisites/glitch/">📡 Glitch</a></li>
-    <li><a rel="noopener noreferrer" target="_blank" title="Procedural Map Generator" href="../minisites/mapgen/">🗺 Procedural Map Generator</a></li>
-    <li><a rel="noopener noreferrer" target="_blank" title="PixelColorMania" href="../minisites/pixelcolormania/">🏳️‍🌈 PixelColorMania</a></li>
-    <li><a rel="noopener noreferrer" target="_blank" title="Thunderstorm" href="../minisites/thunderstorm/">⛈ Thunderstorm</a></li>
-    <li><a rel="noopener noreferrer" target="_blank" title="TV Noise" href="../minisites/tv-noise/">📺 TV Noise</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="Blue Screen of Death" href="../minisites/bsod/index.html">🔵 Blue Screen of Death</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="Glitch" href="../minisites/glitch/index.html">📡 Glitch</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="Procedural Map Generator" href="../minisites/mapgen/index.html">🗺 Procedural Map Generator</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="PixelColorMania" href="../minisites/pixelcolormania/index.html">🏳️‍🌈 PixelColorMania</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="Thunderstorm" href="../minisites/thunderstorm/index.html">⛈ Thunderstorm</a></li>
+    <li><a rel="noopener noreferrer" target="_blank" title="TV Noise" href="../minisites/tv-noise/index.html">📺 TV Noise</a></li>
     <li><a rel="noopener noreferrer" target="_blank" title="XKCD Clone" href="http://xkcd.hacdias.com/">💥 XKCD Clone</a></li>
   </ul>
 </div>

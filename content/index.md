@@ -23,17 +23,6 @@ Born in Portugal 🇵🇹. I am a Master's student 🎓 in Computer Science and 
 
 ### ☄️ Latest {#latest}
 
-<style>
-.card + p {
-  margin-top: 0;
-  text-align: center;
-}
-</style>
-
-{{< latest n=5 >}}
-
-<a href="./stream"><button>🌊 More Posts</button></a>
-
 <div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/me-256.jpg">Picture</data>
   <a href="https://hacdias.com/" class="u-uid u-url p-name">Henrique Dias</a>
