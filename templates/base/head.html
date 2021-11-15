@@ -9,6 +9,10 @@
 
   <title>{{ .HeadTitle }}</title>
 
+  {{ if .NoIndex }}
+    <meta name="robots" content="noindex">
+  {{ end }}
+
   <meta name="description" content="{{ $description }}">
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" href="/favicon.ico" type=image/x-icon>
