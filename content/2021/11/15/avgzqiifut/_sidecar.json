@@ -1,0 +1,27 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Webmention Rocks!",
+        "photo": "https://cdn.hacdias.com/wm/e08155b03da96cb1bdfd161ea24efdfad8d85d06afcee540ec246f1f613eb5a9.png",
+        "type": "card",
+        "url": ""
+      },
+      "content": "This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the appropriate headers. If your endpoint returns HTTP 201, then it MUST also return a Location header. If it returns HTTP 200 or 202, then it MUST NOT include a Location header.",
+      "in-reply-to": "https://hacdias.com/2021/11/15/avgzqiifut",
+      "name": "Receiver Test #1",
+      "post-type": "reply",
+      "published": "2021-11-15T02:41:14-08:00",
+      "type": "entry",
+      "url": "https://webmention.rocks/receive/1",
+      "wm-id": 1304986,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-15T10:41:16Z",
+      "wm-source": "https://webmention.rocks/receive/1/95f988b98e177d1b8bd370fbff06bce1",
+      "wm-target": "https://hacdias.com/2021/11/15/avgzqiifut"
+    }
+  ]
+}
