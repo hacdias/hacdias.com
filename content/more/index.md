@@ -33,10 +33,10 @@ This website contains more things than it looks at first glance. This page is a 
 
 - [🧔 About](/about)
 - [⚙️ About This Website](/meta)
+- [🗞 Blogroll](/blogroll)
 - [✉️ Contact](/contact)
 - [📝 Guestbook](/guestbook)
 - [🤯 Impossible List](/impossible-list)
-- [📌 Links](/links)
 - [🎶 Listens](/listens)
 - [📦 Projects](/projects)
 - [🎓 Resume](/resume)
