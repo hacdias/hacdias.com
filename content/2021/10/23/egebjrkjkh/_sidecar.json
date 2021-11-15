@@ -1,0 +1,90 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Your first check-in at hotel Karzerne!",
+      "in-reply-to": "https://hacdias.com/2021/10/23/egebjrkjkh",
+      "post-type": "reply",
+      "published": "2021-10-23T12:21:40+02:00",
+      "swarm-coins": 5,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/6173e234d304fb5829b45fdb/57d69b3a12a75a6b49c00fad2439d7f2",
+      "wm-id": 1305102,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-15T12:08:28Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/6173e234d304fb5829b45fdb/57d69b3a12a75a6b49c00fad2439d7f2",
+      "wm-target": "https://hacdias.com/2021/10/23/egebjrkjkh"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Your last check-in in Bergen was in May at Dutch Homemade.",
+      "in-reply-to": "https://hacdias.com/2021/10/23/egebjrkjkh",
+      "post-type": "reply",
+      "published": "2021-10-23T12:21:40+02:00",
+      "swarm-coins": 2,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/6173e234d304fb5829b45fdb/f53b0b8c1e18fc2740bb5b7c7ab87710",
+      "wm-id": 1305104,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-15T12:08:29Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/6173e234d304fb5829b45fdb/f53b0b8c1e18fc2740bb5b7c7ab87710",
+      "wm-target": "https://hacdias.com/2021/10/23/egebjrkjkh"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "First of your friends to check in here.",
+      "in-reply-to": "https://hacdias.com/2021/10/23/egebjrkjkh",
+      "post-type": "reply",
+      "published": "2021-10-23T12:21:40+02:00",
+      "swarm-coins": 2,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/6173e234d304fb5829b45fdb/901d2062fe377d8f54b57d96cafc0d5b",
+      "wm-id": 1305103,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-15T12:08:29Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/6173e234d304fb5829b45fdb/901d2062fe377d8f54b57d96cafc0d5b",
+      "wm-target": "https://hacdias.com/2021/10/23/egebjrkjkh"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Keep checking in to places inside Kazerne Restaurant Expo for more coins!",
+      "in-reply-to": "https://hacdias.com/2021/10/23/egebjrkjkh",
+      "post-type": "reply",
+      "published": "2021-10-23T12:21:40+02:00",
+      "swarm-coins": 2,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/6173e234d304fb5829b45fdb/c5f2003d8073814be398dad682280238",
+      "wm-id": 1305105,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-15T12:08:30Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/6173e234d304fb5829b45fdb/c5f2003d8073814be398dad682280238",
+      "wm-target": "https://hacdias.com/2021/10/23/egebjrkjkh"
+    }
+  ]
+}
