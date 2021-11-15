@@ -197,6 +197,11 @@ input[type="submit"]:hover {
 
 #footer > div {
   display: flex;
+  margin-top: 0.5rem;
+}
+
+#footer > div > div:first-of-type {
+  margin-right: auto;
 }
 
 #footer img {

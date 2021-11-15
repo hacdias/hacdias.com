@@ -1,7 +1,29 @@
 {{ define "base/footer" }}
 <footer id='footer'>
   <div>
-    <div style="margin-right: auto">
+    <div>
+      {{ if .OnionAddress }}
+        {{ if .TorUsed }}
+          🔒 You are connected via Tor.
+        {{ else }}
+          🔓 <a href="{{ .OnionAddress }}">Connect via Tor.</a>
+        {{ end }}
+        <a href="https://www.torproject.org/">What is Tor?</a>
+      {{ end }}
+    </div>
+
+    <div>
+      {{ if .LoggedIn }}
+        <a href="{{ relURL "/dashboard" }}">Dashboard</a>
+        <a href="{{ relURL "/logout" }}">Logout</a>
+      {{ else }}
+        <a href="{{ relURL "/login" }}">Login</a>
+      {{ end }}
+    </div>
+  </div>
+
+  <div>
+    <div>
       &copy; Henrique Dias 2014 - {{ now.Year }}
     </div>
 
@@ -12,27 +34,13 @@
     </div>
   </div>
 
-  {{ if .OnionAddress }}
-    <div style="margin-top: 0.5rem">
-      <div>
-        {{ if .TorUsed }}
-          🔒 You are connected via Tor.
-        {{ else }}
-          🔓 <a href="{{ .OnionAddress }}">Connect via Tor.</a>
-        {{ end }}
-        <a href="https://www.torproject.org/">What is Tor?</a>
-      </div>
-    </div>
-  {{ end }}
-
-  <div style="margin-top: 0.5rem">
+  <div>
     <div>
       <a href="https://indieweb.org/" class="nl" target="_blank" rel="noreferrer noopener"><img alt="IndieWeb" class="pixelated" src="{{ relURL "/images/indieweb.png" }}"></a>
       <a href="https://microformats.org/" class="nl" target="_blank" rel="noreferrer noopener"><img alt="Microformats" class="pixelated" src="{{ relURL "/images/microformats.png" }}"></a>
       <a href="https://indieweb.org/Webmention" class="nl" target="_blank" rel="noreferrer noopener"><img alt="Webmentions" class="pixelated" src="{{ relURL "/images/webmention.png" }}"></a>
     </div>
-    <div style="margin-left: auto">🇵🇹🇪🇺🏳️‍🌈</div>
+    <div>🇵🇹🇪🇺🏳️‍🌈</div>
   </div>
 </footer>
-
 {{ end }}
