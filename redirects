@@ -1042,8 +1042,8 @@
 /curriculum/ /resume
 /curriculum-vitae/ /resume
 /stream /
-/stream/feed.json /feed.json
-/stream/feed.xml /feed.atom
+/stream/feed.json /.json
+/stream/feed.xml /.atom
 /now /tags/recently
 /articles/feed.json /articles.json
 /articles/feed.xml /articles.atom
