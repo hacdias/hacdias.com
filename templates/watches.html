@@ -2,6 +2,7 @@
 
 <main role='main'>
   <article class='h-entry'>
+    {{ include "base/admin" . }}
     {{ include "post/header" . }}
 
     {{ $stats := .GetJSON "_stats.json" }}
