@@ -1,7 +1,5 @@
 ---
 title: Blogroll
-published: 2020-02-12T21:00:00Z
-updated: 2021-11-08T14:46:53.37491344Z
 template: blogroll
 noShowInteractions: true
 noSendInteractions: true
