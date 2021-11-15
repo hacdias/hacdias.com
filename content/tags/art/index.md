@@ -1,5 +1,5 @@
 ---
-title: art
+title: '#art'
 section:
 - tags
 ---
