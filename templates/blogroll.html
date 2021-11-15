@@ -26,17 +26,6 @@
 
 {{ end }}
 
-{{ define "watch-list" }}
-  {{ $year := now.Format "2006" }}
-
-  <ul>
-    {{ range $i, $movie := . }}
-      {{ $watchedYear := dateFormat $movie.watched "2006" }}
-      <li><a target="_blank" rel="noopener noreferrer" href="{{ $movie.url }}">{{ $movie.title }}</a> <small>last watched in {{ if eq $year $watchedYear }}{{ dateFormat $movie.watched "January" }}{{ else }}{{ dateFormat $movie.watched "2006" }}{{ end }}</small></li>
-    {{ end }}
-  </ul>
-{{ end }}
-
-{{ define "links" }}
+{{ define "blogroll" }}
   {{ template "base" . }}
 {{ end }}
