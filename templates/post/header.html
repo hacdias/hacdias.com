@@ -16,6 +16,10 @@
     {{ include "post/read" . }}
   {{ else if eq $type "checkin" }}
     {{ include "post/checkin" . }}
+  {{ else if eq $type "drank" }}
+    {{ include "post/drank" . }}
+  {{ else if eq $type "ate" }}
+    {{ include "post/ate" . }}
   {{ else if eq $type "note" }}
     <!-- Do Nothing -->
   {{ else }}
