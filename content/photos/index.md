@@ -1,5 +1,6 @@
 ---
 title: Photos
+isListing: true
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Tags
+isListing: true
 ---
 
 
