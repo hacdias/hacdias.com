@@ -1,6 +1,7 @@
 {{ define "post/embbeded" }}
   {{ $mf2 := .Helper }}
   {{ $data := .GetSidecar }}
+  {{ $url := $mf2.String $mf2.TypeProperty }}
   {{ with $data.Context }}
   <div class="h-cite ibox u-{{ $mf2.TypeProperty }}">
     <p>
@@ -8,9 +9,9 @@
         <span class="p-name">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</span>
       </span>
       {{- if .published -}}
-        <a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url original date">{{ dateFormat .published "02 Jan 2006 15:04" }}</a>
+        <a rel="noopener noreferrer" target="_blank" href="{{ $url }}" class="u-url original date">{{ dateFormat .published "02 Jan 2006 15:04" }}</a>
       {{- else -}}
-        <a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url original">Original Post</a>
+        <a rel="noopener noreferrer" target="_blank" href="{{ $url }}" class="u-url original">Original Post</a>
       {{- end -}}
     </p>
     {{- with .content -}}
@@ -19,8 +20,7 @@
   </div>
   {{ else }}
   <div class="h-cite ibox u-{{ $mf2.TypeProperty }}">
-    {{- $url := $mf2.String $mf2.TypeProperty }}
-    <a rel="noopener noreferrer" target="_blank" href="{{ safeHTML $url }}">{{ $url }}</a>
+    <a rel="noopener noreferrer" target="_blank" href="{{ $url }}">{{ $url }}</a>
   </div>
   {{ end }}
 {{ end }}
