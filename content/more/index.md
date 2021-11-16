@@ -1,7 +1,5 @@
 ---
 title: More
-published: 2020-01-25T22:56:48Z
-updated: 2021-11-06T10:15:52.528616384Z
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -15,8 +13,10 @@ This website contains more things than it looks at first glance. This page is a 
 <div class='terms grid bold'>
 
 - [✏️ Articles](/articles)
+- [🍴 Ate](/Ate)
 - [🔖 Bookmarks](/bookmarks)
 - [📍 Checkins](/checkins)
+- [🍺 Drank](/drank)
 - [❤️ Likes](/likes)
 - [💬 Micro](/micro)
 - [💭 Notes](/notes)
