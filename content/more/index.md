@@ -13,7 +13,7 @@ This website contains more things than it looks at first glance. This page is a 
 <div class='terms grid bold'>
 
 - [✏️ Articles](/articles)
-- [🍴 Ate](/Ate)
+- [🍴 Ate](/ate)
 - [🔖 Bookmarks](/bookmarks)
 - [📍 Checkins](/checkins)
 - [🍺 Drank](/drank)
