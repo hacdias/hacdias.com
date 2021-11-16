@@ -2,21 +2,67 @@
   <main role='main'>
     <h1>Dashboard</h1>
 
-    <ul>
-      <li><a href="/new">New Post</a></li>
-    </ul>
+    <style>
+    form#token button,
+    form#token input {
+      display: block;
+      width: 100%;
+      margin: 0.5rem 0;
+    }
 
-    <p>Actions</p>
+    .copy ol {
+      list-style: none;
+      padding-left: 1rem;
+    }
 
-    <form method=POST>
+    .copy ol input {
+      margin-right: 0.5rem;
+    }
+
+    .copy ol label {
+      text-transform: capitalize;
+    }
+
+    .copy pre {
+      word-break: break-all;
+      white-space: break-spaces;
+    }
+    </style>
+
+    <div class="copy">
       <ul>
-        <li><label><input type="checkbox" name="action" value="clear-cache" /> Clear Cache</label></li>
-        <li><label><input type="checkbox" name="action" value="sync-storage" /> Sync Storage</label></li>
-        <li><label><input type="checkbox" name="action" value="update-blogroll" /> Update Blogroll</label></li>
+        <li><a href="/new">New Post</a></li>
       </ul>
 
-      <button type="submit" name="submit" value="do">Do</button>
-    </form>
+      <h2>Actions</h2>
+
+      <form method=POST>
+        <ol>
+          <li><label><input type="radio" name="action" value="clear-cache" /> Clear Cache</label></li>
+          <li><label><input type="radio" name="action" value="sync-storage" /> Sync Storage</label></li>
+          <li><label><input type="radio" name="action" value="update-blogroll" /> Update Blogroll</label></li>
+        </ol>
+
+        <button type="submit" name="submit" value="do">Do</button>
+      </form>
+
+      {{ with .Data.Message }}
+        <pre>{{ . }}</pre>
+      {{ end }}
+
+      <h2>Generate Token</h2>
+
+      <form id="token" method=POST>
+        <input type="hidden" name="action" value="token" />
+        <input required type="url" name="client_id" placeholder="Client ID">
+        <input required type="text" name="scope" placeholder="Scope">
+        <button type="submit">Submit</button>
+      </form>
+
+      {{ with .Data.Token }}
+        <pre>{{ . }}</pre>
+      {{ end }}
+    </div>
   </main>
 {{ end }}
 

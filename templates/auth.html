@@ -34,11 +34,15 @@
         </ol>
         {{ end }}
 
+        <p>Expiry (default is one week):<p>
+
+        <ol>
+          <li><label><input type="radio" name="expiry" value="infinity"> Infinity</label></li>
+        </ol>
+
         {{ if not .Data.CodeChallenge }}
           <p><strong>⚠️ The client is not using PKCE.</strong></p>
         {{ end }}
-        
-        <p><label><input type="checkbox" name="expiry" value="infinity"> By checking this box, the token will never expire.</label></p>
 
         <input type="hidden" name="redirect_uri" value="{{ .Data.RedirectURI }}">
         <input type="hidden" name="client_id" value="{{ .Data.ClientID }}">
