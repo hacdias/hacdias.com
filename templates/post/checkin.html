@@ -2,6 +2,12 @@
   <header><p>📍 <strong>Checked In</strong></p></header>
   {{ $mf2 := .Helper }}
 
+  {{ if not .IsListing }}
+    {{ with .TryFiles "map.png" "map.jpeg" }}
+      <img src="{{ relURL . }}" class="br db">
+    {{ end }}
+  {{ end }}
+
   {{ $checkin := $mf2.Sub $mf2.TypeProperty }}
   {{ $url := $checkin.String "url" }}
 

@@ -160,6 +160,14 @@ li {
   display: none !important;
 }
 
+.db {
+  display: block;
+}
+
+.br {
+  border-radius: var(--radius);
+}
+
 input,
 textarea {
   padding: .5rem;
