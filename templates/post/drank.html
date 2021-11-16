@@ -3,4 +3,8 @@
   {{ $sub := $mm.Sub $mm.TypeProperty }}
   <header><p>🍺 <strong>Drank</strong></p></header>
   <div class="p-name ibox">{{ $sub.String "name" }}</div>
+
+  {{ with $mm.String "summary" }}
+    <p class="p-summary dn">{{ . }}</p>
+  {{ end }}
 {{ end }}
