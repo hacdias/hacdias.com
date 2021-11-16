@@ -15,6 +15,45 @@
   "webmentions": [
     {
       "author": {
+        "name": "Henrique Dias",
+        "photo": "https://webmention.io/avatar/hacdias.com/664891eacca0e5248f8e6c7b5849da5c82f3a7d58fe9693e730338d01513b117.jpg",
+        "type": "card",
+        "url": "https://hacdias.com"
+      },
+      "content": "A Uniform Resource Identifiers (URI) is a string of characters that identifies unambiguously a resource. It is a standard in the WWW world.The syntax:uri = scheme:[//authority]path[?query][#fragment]`\nauthority = [[email protected]]host[:port]\nExamples:urn:isbn:0-486-27557-4\nhttps://hacdias.com\nmailto:[email protected]\n\nURLA Uniform Resource Location (URL) is an URI type used to identify a resource on the Internet. It provides theURNA Uniform Resource Name (URN) is an URI type that identifies a given resource by name on a given namespace. For example, a book’s isbn.",
+      "post-type": "mention",
+      "published": "2021-09-23T13:41:05Z",
+      "type": "entry",
+      "url": "https://hacdias.com/notes/uri/"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com"
+      },
+      "content": "Henrique Dias\n📍 Eindhoven, Netherlands — [email protected]\n\nhacdias.com\ngithub.com/hacdias\nlinkedin.com/in/hacdias\nI am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing user-friendly services.Education\nMSc Computer Science and Engineering, Eindhoven University of Technology [2020 - present]Current GPA of 8 out of 10.\nExpected to graduate in the summer of 2022.\n\n\nBSc Information Systems and Computer Engineering, Instituto Superior Técnico [2017 - 2020]Graduated with GPA of 16 out of 20.\nVolunteered as Student Mentor for 2 years.\nAcademic Merit Award, 2017/2018.\n\nExperience\nProtocol Labs — Software Engineer [2017 - present]\nProtocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.Developed Testground: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.\nLead maintainer of IPFS Desktop: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month.\nRevamped and shipped IPFS Web UI: a React-based web application used as a front-end for IPFS.\nDesigned and built Awesome IPFS: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS.\n\nUpframe — Lead Software Engineer [2016 - 2018]\nUpframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.\nBuilt a REST API for managing email transactions, newsletters and enrollments in the program.\nBuilt a Slack bot to manage enrollments to the program, in Go.\nBuilt a backend which allowed to see who was at the office, to send emails and to manage newsletters.\nIn the news: Eco, Startup Lisboa, Observador \u0026 Dinheiro Vivo.\n\nPplware — Content Writer [2013 - 2016]\nPplware is a the largest Portuguese technology website with over 100 000 daily visitors.Wrote over 400 tutorials, tech news and other articles on both Pplware and Pplware Kids.\nPublished a 60 page e-book on how to program in C for beginners when I was 15 years old.\nProjectsPersonal Website [2014 - present] [code]\nRunning my personal website since 2014, allowing me to experiment with different technologies. Nowadays, it is composed by a mix of a static generator, plus a custom backend built in Go.\nCustom backend supports post management, full-text search, interaction with a few services' APIs, among other features. Read more about how it works.\nThe blog contains both technical and non-technical articles and receives over 5 000 unique visitors per month.\nCaddy Plugins [2015 - 2020]\n\nCaddy is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.\nBuilt multiple plugins for Caddy to add functionalities requested by the community.\nPlugins functionalities include: on-the-fly minification, WebDav support and installation as a service.\nOver 50 000 downloads.\nFile Browser [2015 - 2019] [code]\nClient-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained.\nOver 10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub.\nBuilt with Go and JavaScript (Vue.js).\nAchievements6th place on National Olympiad in Informatics [2017] [website]\n\n10th place on National Olympiad in Informatics [2016] [website]\n\nDeputy at District’s Youth Parliament [2016] [website]\n\nDeputy at District’s Youth Parliament [2013] [website]\n\nSecretary of National Youth Parliament [2012] [website]\n\nSecretary of District’s Youth Parliament [2012] [website]\n\nCertifications and CoursesMCB80x: Fundamentals of Neuroscience [June 2020] [certificate]\n\nIELTS Academic (7.5 out of 9.0, C1) [September 2019]",
+      "post-type": "mention",
+      "published": "2021-08-19T19:02:52Z",
+      "type": "entry",
+      "url": "https://hacdias.com/resume"
+    },
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg",
+        "type": "card",
+        "url": "https://jlelse.dev/"
+      },
+      "content": "This are alphabetically sorted lists of blogs and sites I subscribe to using Miniflux. I started publishing this page in May 2019. When available, I often prefer the JSON Feed over RSS or ATOM. You can also read about how I create the blogroll.Blogs\nAndre Garzia (Feed)\n\nAnnoying Technology (Feed)\n\nAral Balkan (Feed)\n\nAsh Furrow (Feed)\n\nBeko Pharm (Feed)\n\nBen Congdon (Feed)\n\nBrandon Nolet (Feed)\n\nChris Wiegman (Feed)\n\nChris Wiegman (Journal) (Feed)\n\nCJ Eller (Feed)\n\nDaniel Aleksandersen (Feed)\n\nDaniele Maltese (Feed)\n\nDanny de Vries (Articles) (Feed)\n\nDanny de Vries (Notes) (Feed)\n\nDanny van Kooten (Feed)\n\nDaryl Sun (Feed)\n\nDavid Heinemeier Hansson (Feed)\n\nDerek Sivers (Feed)\n\nDesmond Rivet (Feed)\n\nDrew DeVault (Feed)\n\nEllie Huxtable (Feed)\n\nEmanuel Pina (Feed)\n\nFlorian Anderiasch (Feed)\n\nGarrett Dimon (Feed)\n\nHenrique Dias (Feed)\n\nHorst Gutmann (Feed)\n\nHrvoje Šimić (Feed)\n\nJake Bauer (Feed)\n\nJames Fenn (Feed)\n\nJamie Adams (Feed)\n\nJamie Tanna (Feed)\n\nJan Boddez (Feed)\n\nJason Fried (Feed)\n\nJeff Atwood (Feed)\n\nJessie Frazelle (Feed)\n\nJonathan Borichevskiy (Feed)\n\nJustin Vollmer (Feed)\n\nKatharina Nocun (Feed)\n\nKev Quirk (Feed)\n\nKevin C. Coram (Feed)\n\nKyle Piira (Feed)\n\nLaura Kalbag (Feed)\n\nMarcel Wichmann (Feed)\n\nMartin Schneider (Feed)\n\nMartin Schneider (der tag und ich) (Feed)\n\nMartin Tournoij (Feed)\n\nMatt Baer (Feed)\n\nMatt Mullenweg (Feed)\n\nMatthias Ott (Feed)\n\nMatthias Pfefferle (Feed)\n\nMax Böck (Feed)\n\nMichael Lynch (Feed)\n\nMike Babb (Feed)\n\nMike Stone (Feed)\n\nNils Riedemann (Feed)\n\nNolan Lawson (Feed)\n\nOscar Benedito (Feed)\n\nPaul Robert Lloyd (Feed)\n\nPhilipp Waldhauer (Feed)\n\nRahul Chowdhury (Feed)\n\nRemy Sharp (Feed)\n\nRoland Szabo (Feed)\n\nRu Singh (Feed)\n\nScott Nesbitt (Weekly Musings) (Feed)\n\nStanislas Lange (Feed)\n\nSteven Ovadia (Feed)\n\nSøren Birkemeyer (Feed)\n\nTom MacWright (Feed)\n\nŽan Černe (Feed)\nComics\nCommitStrip (Feed)\n\nDilbert (Feed)\n\nMonkeyUser (Feed)\n\nxkcd (Feed)",
+      "post-type": "mention",
+      "published": "2020-05-13T08:30:00Z",
+      "type": "entry",
+      "url": "https://jlelse.blog/blogroll/"
+    },
+    {
+      "author": {
         "name": "Robert van Bregt",
         "photo": "https://cdn.hacdias.com/wm/98755147f2919eaf81d954c6ab1e8adc42f09fa83fd02939201432195b1afc67.jpg",
         "type": "card",
@@ -110,42 +149,31 @@
     },
     {
       "author": {
-        "name": "Jan-Lukas Else",
-        "photo": "https://cdn.hacdias.com/wm/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg",
-        "type": "card",
-        "url": "https://jlelse.dev/"
-      },
-      "content": "This are alphabetically sorted lists of blogs and sites I subscribe to using Miniflux. I started publishing this page in May 2019. When available, I often prefer the JSON Feed over RSS or ATOM. You can also read about how I create the blogroll.Blogs\nAndre Garzia (Feed)\n\nAnnoying Technology (Feed)\n\nAral Balkan (Feed)\n\nAsh Furrow (Feed)\n\nBeko Pharm (Feed)\n\nBen Congdon (Feed)\n\nBrandon Nolet (Feed)\n\nChris Wiegman (Feed)\n\nChris Wiegman (Journal) (Feed)\n\nCJ Eller (Feed)\n\nDaniel Aleksandersen (Feed)\n\nDaniele Maltese (Feed)\n\nDanny de Vries (Articles) (Feed)\n\nDanny de Vries (Notes) (Feed)\n\nDanny van Kooten (Feed)\n\nDaryl Sun (Feed)\n\nDavid Heinemeier Hansson (Feed)\n\nDerek Sivers (Feed)\n\nDesmond Rivet (Feed)\n\nDrew DeVault (Feed)\n\nEllie Huxtable (Feed)\n\nEmanuel Pina (Feed)\n\nFlorian Anderiasch (Feed)\n\nGarrett Dimon (Feed)\n\nHenrique Dias (Feed)\n\nHorst Gutmann (Feed)\n\nHrvoje Šimić (Feed)\n\nJake Bauer (Feed)\n\nJames Fenn (Feed)\n\nJamie Adams (Feed)\n\nJamie Tanna (Feed)\n\nJan Boddez (Feed)\n\nJason Fried (Feed)\n\nJeff Atwood (Feed)\n\nJessie Frazelle (Feed)\n\nJonathan Borichevskiy (Feed)\n\nJustin Vollmer (Feed)\n\nKatharina Nocun (Feed)\n\nKev Quirk (Feed)\n\nKevin C. Coram (Feed)\n\nKyle Piira (Feed)\n\nLaura Kalbag (Feed)\n\nMarcel Wichmann (Feed)\n\nMartin Schneider (Feed)\n\nMartin Schneider (der tag und ich) (Feed)\n\nMartin Tournoij (Feed)\n\nMatt Baer (Feed)\n\nMatt Mullenweg (Feed)\n\nMatthias Ott (Feed)\n\nMatthias Pfefferle (Feed)\n\nMax Böck (Feed)\n\nMichael Lynch (Feed)\n\nMike Babb (Feed)\n\nMike Stone (Feed)\n\nNils Riedemann (Feed)\n\nNolan Lawson (Feed)\n\nOscar Benedito (Feed)\n\nPaul Robert Lloyd (Feed)\n\nPhilipp Waldhauer (Feed)\n\nRahul Chowdhury (Feed)\n\nRemy Sharp (Feed)\n\nRoland Szabo (Feed)\n\nRu Singh (Feed)\n\nScott Nesbitt (Weekly Musings) (Feed)\n\nStanislas Lange (Feed)\n\nSteven Ovadia (Feed)\n\nSøren Birkemeyer (Feed)\n\nTom MacWright (Feed)\n\nŽan Černe (Feed)\nComics\nCommitStrip (Feed)\n\nDilbert (Feed)\n\nMonkeyUser (Feed)\n\nxkcd (Feed)",
-      "post-type": "mention",
-      "published": "2020-05-13T08:30:00Z",
-      "type": "entry",
-      "url": "https://jlelse.blog/blogroll/"
-    },
-    {
-      "author": {
         "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "photo": "https://cdn.hacdias.com/wm/df280a6a00d9d8e4cd4e0e1647c477f51854f80b3337007e5d9ecb049d0f304d.jpg",
         "type": "card",
         "url": "https://hacdias.com"
       },
-      "content": "Henrique Dias\n📍 Eindhoven, Netherlands — [email protected]\n\nhacdias.com\ngithub.com/hacdias\nlinkedin.com/in/hacdias\nI am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing user-friendly services.Education\nMSc Computer Science and Engineering, Eindhoven University of Technology [2020 - present]Current GPA of 8 out of 10.\nExpected to graduate in the summer of 2022.\n\n\nBSc Information Systems and Computer Engineering, Instituto Superior Técnico [2017 - 2020]Graduated with GPA of 16 out of 20.\nVolunteered as Student Mentor for 2 years.\nAcademic Merit Award, 2017/2018.\n\nExperience\nProtocol Labs — Software Engineer [2017 - present]\nProtocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.Developed Testground: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.\nLead maintainer of IPFS Desktop: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month.\nRevamped and shipped IPFS Web UI: a React-based web application used as a front-end for IPFS.\nDesigned and built Awesome IPFS: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS.\n\nUpframe — Lead Software Engineer [2016 - 2018]\nUpframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.\nBuilt a REST API for managing email transactions, newsletters and enrollments in the program.\nBuilt a Slack bot to manage enrollments to the program, in Go.\nBuilt a backend which allowed to see who was at the office, to send emails and to manage newsletters.\nIn the news: Eco, Startup Lisboa, Observador \u0026 Dinheiro Vivo.\n\nPplware — Content Writer [2013 - 2016]\nPplware is a the largest Portuguese technology website with over 100 000 daily visitors.Wrote over 400 tutorials, tech news and other articles on both Pplware and Pplware Kids.\nPublished a 60 page e-book on how to program in C for beginners when I was 15 years old.\nProjectsPersonal Website [2014 - present] [code]\nRunning my personal website since 2014, allowing me to experiment with different technologies. Nowadays, it is composed by a mix of a static generator, plus a custom backend built in Go.\nCustom backend supports post management, full-text search, interaction with a few services' APIs, among other features. Read more about how it works.\nThe blog contains both technical and non-technical articles and receives over 5 000 unique visitors per month.\nCaddy Plugins [2015 - 2020]\n\nCaddy is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.\nBuilt multiple plugins for Caddy to add functionalities requested by the community.\nPlugins functionalities include: on-the-fly minification, WebDav support and installation as a service.\nOver 50 000 downloads.\nFile Browser [2015 - 2019] [code]\nClient-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained.\nOver 10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub.\nBuilt with Go and JavaScript (Vue.js).\nAchievements6th place on National Olympiad in Informatics [2017] [website]\n\n10th place on National Olympiad in Informatics [2016] [website]\n\nDeputy at District’s Youth Parliament [2016] [website]\n\nDeputy at District’s Youth Parliament [2013] [website]\n\nSecretary of National Youth Parliament [2012] [website]\n\nSecretary of District’s Youth Parliament [2012] [website]\n\nCertifications and CoursesMCB80x: Fundamentals of Neuroscience [June 2020] [certificate]\n\nIELTS Academic (7.5 out of 9.0, C1) [September 2019]",
+      "content": "Over the past months, I have been reading more and more posts where people are saying they miss the vibe of the 90s web. Even though I wasn’t alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser. We know those kinds of websites are a mirage nowadays, but some of them are still accessible via the Internet Archive. There is one really interesting service called Neocities, which I talked about in the past, that aims to bring the glory of the Geocities to today’s web.It’s amazing to see how those “retro” websites emanate personality: from the simplest GIF to the hyper customized text, from the guestbooks to the easter eggs. Those were mostly written by hand with no automatic generation. It’s just a completely different feeling from what we have right now.I barely remember when I first created this website, but I believe it was by hand, and it must’ve been fun. Shortly after, I moved to Hugo, a static website generator, and I’ve never looked back. Although Hugo allows us to create websites with ease, we still have tons of customization power because it just does exactly what we want to.On his essay, Parimal talks about how today’s websites are mainly built towards product selling or marketing. It’s a really good post and I recommend you all to read it.With all of thing being said, I have been tweaking my website. “Again?\", you ask. “Yes, again”, I say. My website has changed a lot over the few years since it exists (5 years I believe), but mostly on the past months, probably due to my discovery of the IndieWeb and the pandemic we’re living right now.My idea for this website is to make it a hub of my online identity and that’s what I’ve been building over the past months: from the now page to the watches page, everything tries to show a bit more of me and what I like.To bring more of the 90s vibe to this website - I hope - I decided to add more emojis and GIFs everywhere. The emojis are actually just a comeback because I already used them immensely in the past. I’m actually using Twemoji from Twitter to make the emojis look the same cross-platform. I’m self-hosting everything though so I don’t need to rely on external CDNs. However, let me know what you think.In addition to just adding emojis and GIFs, I decided to make my home page more personal instead of just a listing of my most recent posts. It now features a brief description of myself, a summary of what I am doing right now, links for featured posts, links to other pages - hence removing the “More” page - and, last but not the least, a link to my guestbook.With this update, I’m hoping to make this website more alive. Even though the mobile version hasn’t changed that much - mainly due to the device’s screen size -, the desktop version is much richer and entertaining, hopefully. I’m trying to join the old with some modern, yet interesting, features such as webmentions.A more subtle change I made was to change the dates on this website to use the Holocene Calendar which adds exactly 10 000 years to the current year, being the first year placed in the beginning of the Holocene era.Let’s bring the web more personality, more presence, more uniqueness. Let’s be the painters 🎨 of our own identity.Feel free to check out my guestbook and leave a comment! You can just say “hi” if you want, I’ll deeply appreciate it 😃 Do you have suggestions, leave a comment too!",
+      "mention-of": "https://hacdias.com/",
+      "name": "Back to the Web of the 90s",
       "post-type": "mention",
-      "published": "2021-08-19T19:02:52Z",
-      "type": "entry",
-      "url": "https://hacdias.com/resume"
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://webmention.io/avatar/hacdias.com/664891eacca0e5248f8e6c7b5849da5c82f3a7d58fe9693e730338d01513b117.jpg",
-        "type": "card",
-        "url": "https://hacdias.com"
+      "published": "2020-05-31T21:24:00Z",
+      "rels": {
+        "canonical": "https://hacdias.com/2020/05/31/back-90s"
       },
-      "content": "A Uniform Resource Identifiers (URI) is a string of characters that identifies unambiguously a resource. It is a standard in the WWW world.The syntax:uri = scheme:[//authority]path[?query][#fragment]`\nauthority = [[email protected]]host[:port]\nExamples:urn:isbn:0-486-27557-4\nhttps://hacdias.com\nmailto:[email protected]\n\nURLA Uniform Resource Location (URL) is an URI type used to identify a resource on the Internet. It provides theURNA Uniform Resource Name (URN) is an URI type that identifies a given resource by name on a given namespace. For example, a book’s isbn.",
-      "post-type": "mention",
-      "published": "2021-09-23T13:41:05Z",
+      "syndication": [
+        "https://twitter.com/hacdias/status/1267207180698169345",
+        "https://www.reddit.com/r/hnblogs/comments/gu7h0v/back_to_the_90s/"
+      ],
       "type": "entry",
-      "url": "https://hacdias.com/notes/uri/"
+      "url": "https://hacdias.com/2020/05/31/back-90s",
+      "wm-id": 1305979,
+      "wm-private": false,
+      "wm-property": "mention-of",
+      "wm-received": "2021-11-16T21:07:11Z",
+      "wm-source": "https://hacdias.com/2020/05/31/back-90s",
+      "wm-target": "https://hacdias.com/"
     }
   ]
 }
