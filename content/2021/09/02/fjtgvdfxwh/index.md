@@ -10,14 +10,6 @@ properties:
     properties:
       name: Rodenbach Fruitage
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43242
-      locality: Eindhoven
-      longitude: 5.48609
-      region: North Brabant
-    type: h-adr
 ---
 
 

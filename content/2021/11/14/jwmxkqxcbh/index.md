@@ -10,6 +10,16 @@ properties:
     properties:
       name: Lindemans Kriek
     type: h-food
+  location:
+    properties:
+      country-name: Netherlands
+      latitude: 51.440867499909665
+      locality: Eindhoven
+      longitude: 5.48107447342762
+      postal-code: 5611 CJ
+      region: North-Brabant
+      street-address: Dommelstraat 21
+    type: h-adr
 ---
 
 
