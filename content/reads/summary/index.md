@@ -1,8 +1,10 @@
 ---
 title: Bookshelf
+description: |
+  A bookshelf of the books I have read in the past and the books I would like to read.
 template: reads-summary
-noSendInteractions: true
 noShowInteractions: true
+noSendInteractions: true
 ---
 
 <style>
