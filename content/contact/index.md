@@ -1,6 +1,7 @@
 ---
 title: Contact
 noShowInteractions: true
+noSendInteractions: true
 ---
 
 If you need to reach me directly:
@@ -14,11 +15,12 @@ All pages that list posts, such as [micro](/micro/) and [articles](/articles/), 
 
 <div class="box yellow">
 
-  In case your feed does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the [stream](/stream/) page:
+  In case your feed does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the [main page](/) page:
 
-  - **HTML/Microformats**: [https://hacdias.com/stream](/stream/)
-  - **RSS Feed**: [https://hacdias.com/stream/feed.xml](/stream/feed.xml)
-  - **JSON Feed**: [https://hacdias.com/stream/feed.json](/stream/feed.json)
+  - **HTML/Microformats**: [https://hacdias.com/](/)
+  - **RSS Feed**: [https://hacdias.com/.rss](/.rss)
+  - **Atom Feed**: [https://hacdias.com/.atom](/.atom)
+  - **JSON Feed**: [https://hacdias.com/.json](/.json)
 
 </div>
 

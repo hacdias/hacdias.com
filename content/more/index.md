@@ -12,6 +12,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 <div class='terms grid bold'>
 
+- [🌊 All](/all)
 - [✏️ Articles](/articles)
 - [🍴 Ate](/ate)
 - [🔖 Bookmarks](/bookmarks)
@@ -21,9 +22,10 @@ This website contains more things than it looks at first glance. This page is a 
 - [💬 Micro](/micro)
 - [💭 Notes](/notes)
 - [📸 Photos](/photos)
-- [📚 Reads](/reads)
+- [📚 Reads](/reads/summary)
 - [💬 Replies](/replies)
 - [📢 Reposts](/reposts)
+- [🎬 Watches](/watches/summary)
 
 </div>
 
@@ -42,7 +44,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🎓 Resume](/resume)
 - [🔎 Search](/search)
 - [🛠 Uses](/uses)
-- [🎬 Watches](/watches)
 - [🏷 Tags](/tags)
 
 </div>
