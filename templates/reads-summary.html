@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+<main role='main'>
+  <article class='h-entry'>
+    {{ include "base/admin" . }}
+    {{ include "post/header" . }}
+
+    {{ $summary := .GetJSON "_summary.json" }}
+
+    {{ with $summary }}
+      {{ $reading := index . "reading" }}
+      {{ $toRead := index . "to-read" }}
+      {{ $finished := index . "finished" }}
+
+      <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>
+        {{ with $.Entry.Content }}
+          {{ md . }}
+        {{ end }}
+
+        <h2 id="series">📖 Reading</h2>
+
+        {{ if eq (len $reading) 0 }}
+          <p>Not reading any book at the moment.</p>
+        {{ else }}
+          {{ template "read-list" $reading }}
+        {{ end }}
+
+        <h2 id="series">📚 To Read</h2>
+
+        {{ template "read-list" $toRead }}
+
+        <h2 id="movies">📕 Finished</h2>
+
+        {{ template "read-list" $finished }}
+      </div>
+    {{ else }}
+      <p>Bookshelf unavailable at the moment.</p>
+    {{ end }}
+
+    {{ include "single/footer" . }}
+  </article>
+</main>
+
+{{ end }}
+
+{{ define "read-list" }}
+  <ul>
+    {{ range $i, $movie := . }}
+      <li><a href="{{ relURL .id }}">{{ .name }}</a>{{ with .author }} <small>by {{ . }}</small>{{ end }}</li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{ define "reads-summary" }}
+  {{ template "base" . }}
+{{ end }}
