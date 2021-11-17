@@ -1,0 +1,35 @@
+---
+description: 'Just watched: Arrivals (Heathrow: Britain''s Busiest Airport S1E1)'
+published: 2019-01-14T16:05:59Z
+section:
+- watches
+createdWith: https://ownyourtrakt.hacdias.com
+properties:
+  watch-of:
+    properties:
+      episode: 1
+      episode-of:
+        properties:
+          name: 'Heathrow: Britain''s Busiest Airport'
+          published: "2015-01-01T00:00:00Z"
+          trakt-ids:
+            imdb: tt6169802
+            slug: heathrow-britain-s-busiest-airport
+            tmdb: 68864
+            trakt: 99384
+            tvdb: 296175
+          url: https://trakt.tv/shows/heathrow-britain-s-busiest-airport
+        type: h-cite
+      name: Arrivals
+      season: 1
+      trakt-ids:
+        imdb: tt6175678
+        tmdb: 1.243397e+06
+        trakt: 1.879784e+06
+        tvdb: 5.235429e+06
+      trakt-watch-id: 4.159739854e+09
+      url: https://trakt.tv/shows/heathrow-britain-s-busiest-airport/seasons/1/episodes/1
+    type: h-cite
+---
+
+

@@ -20,6 +20,8 @@
     {{ include "post/drank" . }}
   {{ else if eq $type "ate" }}
     {{ include "post/ate" . }}
+  {{ else if eq $type "watch" }}
+    {{ include "post/watched" . }}
   {{ else if eq $type "note" }}
     <!-- Do Nothing -->
   {{ else }}

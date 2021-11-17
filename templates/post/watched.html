@@ -1,0 +1,35 @@
+{{ define "post/watched" }}
+  {{ $mm := .Helper }}
+  {{ $sub := $mm.Sub $mm.TypeProperty }}
+  {{ $series := $sub.Sub "episode-of" }}
+
+  {{ if $series }}
+    <header><p>📺 <strong>Watched</strong></p></header>
+
+    {{ $episode := $sub.Properties.episode }}
+    {{ $season := $sub.Properties.season }}
+
+    <div class="ibox u-watch-of h-cite">
+      <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
+        <span class="p-name">{{ $sub.String "name" }}</span>
+        (
+          {{- with $series.String "name" }}<span class="u-episode-of h-cite"><span class="p-name">{{ . }}</span></span>{{ end }}
+          {{ with $season }} S<span class="p-season">{{.}}</span>{{ end -}}
+          {{ with $episode }}E<span class="p-episode">{{.}}</span>{{ end -}}
+        )
+      </a>
+    </div>
+  {{ else }}
+    <header><p>🎬 <strong>Watched</strong></p></header>
+
+    <div class="ibox u-watch-of h-cite">
+      <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
+        <span class="p-name">{{ $sub.String "name" }}</span>
+      </a>
+    </div>
+  {{ end }}
+
+  {{ with $mm.String "summary" }}
+    <p class="p-summary dn">{{ . }}</p>
+  {{ end }}
+{{ end }}

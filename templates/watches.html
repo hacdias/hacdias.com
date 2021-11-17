@@ -5,27 +5,32 @@
     {{ include "base/admin" . }}
     {{ include "post/header" . }}
 
-    {{ $stats := .GetJSON "_stats.json" }}
-    {{ $series := index $stats "series" }}
-    {{ $movies := index $stats "movies" }}
+    {{ $stats := .GetJSON "_summary.json" }}
 
-    <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>
-      {{ with .Entry.Content }}
-        {{ md . }}
-      {{ end }}
+    {{ with $stats }}
+      {{ $series := index $stats "series" }}
+      {{ $movies := index $stats "movies" }}
 
-      <h2 id="series">📺 Series</h2>
+      <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>
+        {{ with $.Entry.Content }}
+          {{ md . }}
+        {{ end }}
 
-      <div class="box">
-        {{ template "watch-list" $series }}
+        <h2 id="series">📺 Series</h2>
+
+        <div class="box">
+          {{ template "watch-list" $series }}
+        </div>
+
+        <h2 id="movies">🎬 Movies</h2>
+
+        <div class="box">
+          {{ template "watch-list" $movies }}
+        </div>
       </div>
-
-      <h2 id="movies">🎬 Movies</h2>
-
-      <div class="box">
-        {{ template "watch-list" $movies }}
-      </div>
-    </div>
+    {{ else }}
+      <p>Watches summary is not available at the moment.</p>
+    {{ end }}
 
     {{ include "single/footer" . }}
   </article>
@@ -37,9 +42,9 @@
   {{ $year := now.Format "2006" }}
 
   <ul>
-    {{ range $i, $movie := . }}
-      {{ $watchedYear := dateFormat $movie.watched "2006" }}
-      <li><a target="_blank" rel="noopener noreferrer" href="{{ $movie.url }}">{{ $movie.title }}</a> <small>last watched in {{ if eq $year $watchedYear }}{{ dateFormat $movie.watched "January" }}{{ else }}{{ dateFormat $movie.watched "2006" }}{{ end }}</small></li>
+    {{ range . }}
+      {{ $watchedYear := dateFormat .date "2006" }}
+      <li><a href="{{ relURL .id }}">{{ .name }}</a> <small>last watched in {{ if eq $year $watchedYear }}{{ dateFormat .date "January" }}{{ else }}{{ dateFormat .date "2006" }}{{ end }}</small></li>
     {{ end }}
   </ul>
 {{ end }}

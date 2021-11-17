@@ -2,11 +2,6 @@
   --action: #c0749d;
 }
 
-.box {
-  max-height: 50vh;
-  overflow: auto;
-}
-
 @media screen and (min-width: 38rem) {
   body {
     background: #48084f url(/watches/pattern.jpg);
