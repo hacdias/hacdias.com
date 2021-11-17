@@ -7,7 +7,7 @@
     },
     {
       "name": "Agnes",
-      "count": 27,
+      "count": 28,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
@@ -26,29 +26,29 @@
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 16,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Omar Rudberg",
-      "count": 14,
+      "count": 15,
       "url": "https://www.last.fm/music/Omar+Rudberg"
     },
     {
-      "name": "Miley Cyrus",
+      "name": "Lady Gaga",
+      "count": 14,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "The xx",
       "count": 13,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "url": "https://www.last.fm/music/The+xx"
     },
     {
       "name": "Becky G",
       "count": 12,
       "url": "https://www.last.fm/music/Becky+G"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 12,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "Ashley O",
-      "count": 11,
-      "url": "https://www.last.fm/music/Ashley+O"
     }
   ],
   "tracks": [
