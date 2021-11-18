@@ -118,6 +118,26 @@
       "published": "2020-07-13T03:17:35Z",
       "type": "entry",
       "url": "https://commentpara.de/comment/618.htm"
+    },
+    {
+      "author": {
+        "name": "Sasha Wasilewska",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
+        "type": "card",
+        "url": ""
+      },
+      "content": "Outstanding website. Web can be cool again with IndieWeb and Eagle. Thanks for the good work!",
+      "in-reply-to": "https://hacdias.com/guestbook",
+      "post-type": "reply",
+      "published": "2021-11-18T07:11:57Z",
+      "type": "entry",
+      "url": "https://commentpara.de/comment/924.htm",
+      "wm-id": 1306561,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-18T07:11:57Z",
+      "wm-source": "https://commentpara.de/comment/924.htm",
+      "wm-target": "https://hacdias.com/guestbook"
     }
   ]
 }
