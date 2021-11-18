@@ -13,8 +13,10 @@
   {{- else if eq $type "checkin" }}
     {{ $checkin := $mf2.Sub $mf2.TypeProperty }}
     <p><em>Checked in at {{ $checkin.Name }}</em></p>
-  {{- else if eq $type "read" }}
-    {{ with $mf2.String "summary" }}<p>{{ . }}</p>{{ end }}
+  {{- else if ne $type "article" }}
+    {{ with $mf2.String "summary" }}
+      <p>{{ . }}</p>
+    {{ end }}
   {{ end }}
 
   {{- with .Content }}{{ md . }}{{ end -}}
