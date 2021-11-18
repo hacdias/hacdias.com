@@ -12,43 +12,43 @@
     },
     {
       "name": "Troye Sivan",
-      "count": 24,
+      "count": 26,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Marina",
-      "count": 17,
+      "count": 18,
       "url": "https://www.last.fm/music/Marina"
     },
     {
+      "name": "Miley Cyrus",
+      "count": 18,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
       "name": "Pabllo Vittar",
-      "count": 17,
+      "count": 18,
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
-      "name": "Miley Cyrus",
+      "name": "Lady Gaga",
+      "count": 17,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "DaniSogen",
       "count": 16,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "url": "https://www.last.fm/music/DaniSogen"
+    },
+    {
+      "name": "Raimu",
+      "count": 16,
+      "url": "https://www.last.fm/music/Raimu"
     },
     {
       "name": "Omar Rudberg",
       "count": 15,
       "url": "https://www.last.fm/music/Omar+Rudberg"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 14,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
-      "name": "The xx",
-      "count": 13,
-      "url": "https://www.last.fm/music/The+xx"
-    },
-    {
-      "name": "Becky G",
-      "count": 12,
-      "url": "https://www.last.fm/music/Becky+G"
     }
   ],
   "tracks": [
@@ -91,7 +91,7 @@
     {
       "name": "Sister Ray",
       "url": "https://www.last.fm/music/Foxes/_/Sister+Ray",
-      "count": 9,
+      "count": 10,
       "artist": "Foxes"
     },
     {
