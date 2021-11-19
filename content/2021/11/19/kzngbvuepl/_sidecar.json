@@ -1,0 +1,48 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "You're the mayor!",
+      "in-reply-to": "https://hacdias.com/2021/11/19/kzngbvuepl",
+      "post-type": "reply",
+      "published": "2021-11-19T16:18:30+01:00",
+      "swarm-coins": 3,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/6197c0469413a04759a9b5fd/aca2ca94a4c8a62cae875b2803e8ec0c",
+      "wm-id": 1307408,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-19T15:18:57Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/6197c0469413a04759a9b5fd/aca2ca94a4c8a62cae875b2803e8ec0c",
+      "wm-target": "https://hacdias.com/2021/11/19/kzngbvuepl"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Wow! You've checked in to Albert Heijn 70 times!",
+      "in-reply-to": "https://hacdias.com/2021/11/19/kzngbvuepl",
+      "post-type": "reply",
+      "published": "2021-11-19T16:18:30+01:00",
+      "swarm-coins": 10,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/6197c0469413a04759a9b5fd/5bd7ade6d3462e8352a5a529468e6627",
+      "wm-id": 1307409,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-19T15:18:57Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/6197c0469413a04759a9b5fd/5bd7ade6d3462e8352a5a529468e6627",
+      "wm-target": "https://hacdias.com/2021/11/19/kzngbvuepl"
+    }
+  ]
+}
