@@ -12,7 +12,7 @@ properties:
       longitude: 5.487469903334108
       name: TU/e MetaForum
       postal-code: 5612 AZ
-      region: Noord-Branat
+      region: Noord-Brabant
       street-address: Groene Loper 5
       tel: 040 247 9111
       url:
@@ -28,7 +28,7 @@ properties:
       locality: Eindhoven
       longitude: 5.487469903334108
       postal-code: 5612 AZ
-      region: Noord-Branat
+      region: Noord-Brabant
       street-address: Groene Loper 5
     type: h-adr
   syndication: https://www.swarmapp.com/user/476184554/checkin/6163fb2bb726ce5b86b1272d
