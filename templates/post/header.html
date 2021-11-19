@@ -22,6 +22,8 @@
     {{ include "post/ate" . }}
   {{ else if eq $type "watch" }}
     {{ include "post/watched" . }}
+  {{ else if eq $type "itinerary" }}
+    {{ include "post/itinerary" . }}
   {{ else if eq $type "note" }}
     <!-- Do Nothing -->
   {{ else }}
