@@ -1,0 +1,45 @@
+{
+  "targets": [
+    "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo",
+    "https://hacdias.com/2020/10/12/rebuilding-eagle-cms",
+    "http://gohugo.io/",
+    "https://hacdias.com/tags/meta",
+    "https://hacdias.com/2021/02/04/is-it-time-build-cms",
+    "https://hacdias.com/contact",
+    "https://github.com/yuin/goldmark",
+    "https://indieauth.com/",
+    "https://hacdias.com/more",
+    "https://hacdias.com/checkins",
+    "https://hacdias.com/watches",
+    "https://hacdias.com/watches/summary",
+    "https://hacdias.com/reads/summary",
+    "https://github.com/hacdias/eagle/issues/34",
+    "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "type": "card",
+        "url": "https://seblog.nl/"
+      },
+      "content": "Seb vindt Farewell, Hugo! Hello, Eagle van Henrique Dias leuk.",
+      "like-of": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle",
+      "post-type": "like",
+      "published": "2021-11-19T08:30:05Z",
+      "rels": {
+        "canonical": "https://seblog.nl/2021/323/1"
+      },
+      "type": "entry",
+      "url": "https://seblog.nl/2021/11/19/1/like",
+      "wm-id": 1307209,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-11-19T08:30:43Z",
+      "wm-source": "https://seblog.nl/2021/11/19/1/like",
+      "wm-target": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle"
+    }
+  ]
+}
