@@ -18,6 +18,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [🔖 Bookmarks](/bookmarks)
 - [📍 Checkins](/checkins)
 - [🍺 Drank](/drank)
+- [🗺 Itineraries](/itineraries)
 - [❤️ Likes](/likes)
 - [💬 Micro](/micro)
 - [💭 Notes](/notes)
