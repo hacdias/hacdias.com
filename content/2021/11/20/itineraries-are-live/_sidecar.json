@@ -3,5 +3,26 @@
     "https://hacdias.com/itineraries"
   ],
   "context": null,
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "Liked https://hacdias.com/2021/11/20/itineraries-are-live.",
+      "like-of": "https://hacdias.com/2021/11/20/itineraries-are-live",
+      "post-type": "like",
+      "published": "2021-11-20T10:31:00+01:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/likes/9dfc140330",
+      "wm-id": 1307697,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-11-20T09:40:06Z",
+      "wm-source": "https://jan.boddez.net/likes/9dfc140330",
+      "wm-target": "https://hacdias.com/2021/11/20/itineraries-are-live"
+    }
+  ]
 }
