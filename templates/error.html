@@ -5,10 +5,12 @@
     {{ with .Data.Code }}
       {{ if eq . 400}}
         <p>The request you sent is invalid.</p>
+      {{ else if eq . 403 }}
+        <p>It seems you don't have permission to see this content.</p>
       {{ else if eq . 404 }}
         <p>The content you are trying to find does not exist.</p>
       {{ else if eq . 410 }}
-        <p>The content you are trying to find existed and some point and was now removed.</p>
+        <p>The content you are trying to find existed and some point and was now deleted.</p>
       {{ end }}
     {{ end }}
 
