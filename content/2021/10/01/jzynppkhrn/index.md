@@ -1,13 +1,13 @@
 ---
-published: 2021-10-01T08:05:00Z
+published: 2021-10-01T08:05:00+02:00
 section:
 - itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:
   - properties:
-      arrival: 2021-10-01T00:55:00ZT
-      departure: 2021-09-30T23:00:00ZT
+      arrival: "2021-10-01T00:55:00+02:00"
+      departure: "2021-09-30T23:00:00+02:00"
       destination:
         properties:
           country-name: Belgium
@@ -31,8 +31,8 @@ properties:
       transit-type: bus
     type: h-leg
   - properties:
-      arrival: 2021-10-01T08:05:00ZT
-      departure: 2021-10-01T02:00:00ZT
+      arrival: "2021-10-01T08:05:00+02:00"
+      departure: "2021-10-01T02:00:00+02:00"
       destination:
         properties:
           country-name: France

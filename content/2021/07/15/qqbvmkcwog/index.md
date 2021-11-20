@@ -6,8 +6,8 @@ createdWith: https://quill.p3k.io/
 properties:
   itinerary:
   - properties:
-      arrival: 2021-07-15T13:52:00ZT
-      departure: 2021-07-15T10:38:00ZT
+      arrival: "2021-07-15T13:52:00Z"
+      departure: "2021-07-15T10:38:00Z"
       destination:
         properties:
           country-name: Portugal
@@ -31,8 +31,8 @@ properties:
       transit-type: train
     type: h-leg
   - properties:
-      arrival: 2021-07-15T15:51:00ZT
-      departure: 2021-07-15T14:02:00ZT
+      arrival: "2021-07-15T15:51:00Z"
+      departure: "2021-07-15T14:02:00Z"
       destination:
         properties:
           country-name: Portugal
