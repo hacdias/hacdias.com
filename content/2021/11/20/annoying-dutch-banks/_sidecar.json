@@ -1,0 +1,23 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb"
+  ],
+  "context": {
+    "author": {
+      "name": "jlelse’s Blog",
+      "nickname": "en",
+      "photo": "https://cdn.hacdias.com/wm/ff05769865d92301fe7b12f64789769aa82531fe3ba4d4821cf140474380a848.png",
+      "type": "card",
+      "url": "https://jlelse.blog"
+    },
+    "content": "In Portugal it’s just a switch in the tax office website. Really?!? 😲 I can’t believe that!",
+    "in-reply-to": [
+      "https://hacdias.com/2021/11/20/ipzcqqrdig"
+    ],
+    "post-type": "reply",
+    "published": "2021-11-20T19:04:53+01:00",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb"
+  },
+  "webmentions": []
+}
