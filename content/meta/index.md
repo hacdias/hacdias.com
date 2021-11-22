@@ -88,6 +88,10 @@ When you visit one of my posts, you'll be able to see on the bottom a box where 
 
 - I try to follow Wikipedia's convention of capitalizing titles. I use the tool [Capitalize My Title](https://capitalizemytitle.com/style/Wiki/) to make sure my titles are correctly capitalized.
 
+## 🍪  Cookies and Privacy {#cookies}
+
+This website has authentication. Thus, it sets cookies to know if you're still authenticated or not. When using IndieAuth to login, I only store your ID on the session cookie, on your device.
+
 ## ⚖️ Disclaimer {#disclaimer}
 
 1. Opinions change over time. If you're reading something that is many years old, or even just a few months or weeks old, it may not reflect my current opinion. The same reasoning applies to technical articles as tools and software evolves.
