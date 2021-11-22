@@ -23,6 +23,27 @@
       "wm-received": "2021-11-20T09:40:06Z",
       "wm-source": "https://jan.boddez.net/likes/9dfc140330",
       "wm-target": "https://hacdias.com/2021/11/20/itineraries-are-live"
+    },
+    {
+      "author": {
+        "name": "einGeek",
+        "photo": "https://cdn.hacdias.com/wm/fa4b5eb2bf1c1aebf299223741a18f4a7c53ade6f1b4e2a0276bd5281cc0c22d.png",
+        "type": "card",
+        "url": "https://jlelse.blog/de"
+      },
+      "content": "Ich bin ein sehr neugieriger Mensch und stöbere gerne herum, auf der Suche nach neuen Sachen, die ich noch nicht kenne. Momentan faszinieren mich etwa Landkarten, was dazu geführt hat, dass ich in meine Blogsoftware etwa die Funktion zur Darstellung von GPX-Dateien gebaut habe. Inspiration von anderen Web-Menschen hat mich dann dazu gebracht, ein kleines Tool zu schreiben, mit dem ich Bahnrouten als GPX-Dateien generieren und dann darstellen kann. Aber dabei bin ich auch auf etwas weiteres Spannendes gestoßen: das Open-Data-Portal der Deutschen Bahn. Vor allem für mich als eh schon überzeugten Bahnfahrer (auch wenn mich vieles am Bahnfahren stört, ist das für mich die beste Möglichkeit, weite Strecken zu fahren), ist diese Quelle so spannend. Nicht nur bin ich durch dieses Portal auf die CSV-Datei mit allen Bahnhöfen in Deutschland gestoßen, ebenfalls habe ich verschiedene Schnittstellen entdeckt. So gibt es nicht nur eine API, um Fahrpläne abzurufen (die hat sogar eine Swagger-basierte API-Konsole!), sondern zusätzlich eine API für den Trassenfinder, der für mich eine neue Entdeckung ist. Ich muss mir mal Gedanken machen, was man mit den Daten alles anfangen könnte…",
+      "mention-of": "https://hacdias.com/2021/11/20/itineraries-are-live",
+      "name": "Bahn-Daten!",
+      "post-type": "mention",
+      "published": "2021-11-22T21:11:29+01:00",
+      "type": "entry",
+      "url": "https://jlelse.blog/de/gedanken/2021/11/bahn-daten",
+      "wm-id": 1308344,
+      "wm-private": false,
+      "wm-property": "mention-of",
+      "wm-received": "2021-11-22T20:11:31Z",
+      "wm-source": "https://jlelse.blog/de/gedanken/2021/11/bahn-daten",
+      "wm-target": "https://hacdias.com/2021/11/20/itineraries-are-live"
     }
   ]
 }

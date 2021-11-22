@@ -19,5 +19,26 @@
     "type": "entry",
     "url": "https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb"
   },
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "Phew, I’ve been getting away with using a separate yet non-“business” account for my “eenmanszaak” purposes. Here in Belgium, too, small-business income is reported “separately” (but not really), which is kind of good (e.g., I’m allowed to deduct lump-sum “expenses” twice, once as an employee, once as an entrepreneur—actual expenses are close to nothing). Dang, I’m already happy I, a “kleine onderneming,” don’t have to file quarterly VAT returns! (The spam issue is all too real here as well.)",
+      "in-reply-to": "https://hacdias.com/2021/11/20/annoying-dutch-banks",
+      "post-type": "reply",
+      "published": "2021-11-22T10:53:12+01:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/notes/d377041bb8",
+      "wm-id": 1308218,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-22T10:00:10Z",
+      "wm-source": "https://jan.boddez.net/notes/d377041bb8",
+      "wm-target": "https://hacdias.com/2021/11/20/annoying-dutch-banks"
+    }
+  ]
 }
