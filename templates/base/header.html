@@ -26,6 +26,13 @@
           <a href='{{ relURL .Link }}' class='nl'>{{ .Emoji }} {{ .Name }}</a>
         </li>
       {{ end }}
+      {{ if .IsLoggedIn }}
+        <li>
+          {{ if .IsAdmin }}<a href='{{ relURL "/dashboard" }}' class='nl'>🎛 Admin</a>
+          {{ else }}<a href='{{ relURL "/private" }}' class='nl'>🔒 Private</a>
+          {{ end }}
+        </li>
+      {{ end }}
     </ul>
   </nav>
 {{ end }}

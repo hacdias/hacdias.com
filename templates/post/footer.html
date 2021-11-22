@@ -1,10 +1,13 @@
 {{ define "post/footer" }}
   {{ $mf2 := .Helper }}
+  {{ $visibility := .Visibility }}
 
   <footer>
-    {{ if .LoggedIn }}
+    {{ if .IsLoggedIn }}
+      {{ if eq $visibility "private" }}<p>🔒 {{ if eq (len .Audience) 0 }}Shared with all logged in users{{ else }}Shared with you{{ end }}</p>
+      {{ else if eq $visibility "unlisted" }}<p>🙈 Unlisted</p>{{ end }}
+      <!-- this should not even show up for non-admin users -->
       {{ if .Draft }}<p>✏️ Draft</p>{{ end }}
-      {{ if .Private }}<p>🔒 Private</p>{{ end }}
       {{ if .Deleted }}<p>🗑 Deleted</p>{{ end }}
     {{ end }}
 
@@ -36,8 +39,8 @@
 
   <div class="dn">
     <div class="h-card u-author dn">
-      <data class='u-photo' value="{{ .User.Photo }}">Picture</data>
-      <a href="{{ .User.URL }}" class="u-url p-name">{{ .User.Name }}</a>
+      <data class='u-photo' value="{{ .Me.Photo }}">Picture</data>
+      <a href="{{ .Site.BaseURL }}/" class="u-url p-name">{{ .Me.Name }}</a>
     </div>
   </div>
 {{ end }}

@@ -12,8 +12,8 @@
     </div>
 
     <div>
-      {{ if .LoggedIn }}
-        <a href="{{ relURL "/dashboard" }}">Dashboard</a>
+      {{ if .IsLoggedIn }}
+        <span>Logged in as <strong>{{ domain .User }}</strong></span> |
         <a href="{{ relURL (printf "/logout?redirect=%s" (urlquery .ID)) }}">Logout</a>
       {{ else }}
         <a href="{{ relURL (printf "/login?redirect=%s" (urlquery .ID)) }}">Login</a>

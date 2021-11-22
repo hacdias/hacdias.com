@@ -14,7 +14,7 @@
       {{ end }}
     {{ end }}
 
-    {{ if .LoggedIn }}
+    {{ if or .IsAdmin (lt .Data.Code 500) }}
       {{ with .Data.Error}}<p class="ibox">Error: {{ . }}</p>{{ end }}
     {{ end }}
   </main>

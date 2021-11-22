@@ -23,8 +23,8 @@
 
   <!-- Social Media -->
   <meta property="og:type" content="{{ if or .IsListing .IsHome }}website{{ else }}article{{ end }}" />
-  <meta name="twitter:site" content="@{{ .User.Twitter }}"/>
-  <meta name="twitter:creator" content="@{{ .User.Twitter }}"/>
+  <meta name="twitter:site" content="@{{ .Me.Twitter }}"/>
+  <meta name="twitter:creator" content="@{{ .Me.Twitter }}"/>
   <meta property="og:locale" content="{{ .Site.Language }}" />
   <meta property="og:title" content="{{ $shortTitle }}" />
   <meta property="og:description" content="{{ $description }}" />
@@ -52,11 +52,11 @@
     <link rel="micropub" href="{{ absURL "/micropub" }}">
     <link rel="microsub" href="https://aperture.p3k.io/microsub/455">
     
-    {{ range .User.Rels -}}
+    {{ range .Me.Rels -}}
       <link rel="me" href="{{ . }}" />
     {{ end -}}
 
-    {{ with .User.PGP -}}
+    {{ with .Me.PGP -}}
       <link rel="me" href="{{ . }}" rel="pgpkey" />
     {{ end }}
   {{ end }}

@@ -2,23 +2,11 @@
   <main role='main' id="login-page">
     <h1>Login</h1>
 
-    <style>
-    #login-page input,
-    #login-page button {
-      display: block;
-      width: 100%;
-      margin: 0.5rem 0;
-    }
-    </style>
+    <p>Login with your domain. After logging in, you will have access to more posts.</p>
 
-    {{ with .Content }}
-      <p class="box red">{{ . }}</p>
-    {{ end }}
-
-    <form method=POST id="login-form">
-      <input required name=username id=username type=text placeholder='Username' />
-      <input required name=password id=password type=password placeholder='Password' />
-      <button>Login</button>
+    <form method=POST class='inline-form'>
+      <input required type='profile' name='profile' placeholder='yourdomain.com' />
+      <input type='submit' value='Login' />
     </form>
   </main>
 {{ end }}

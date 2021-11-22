@@ -1,5 +1,4 @@
 {{ define "list/card" }}
-  {{ $isPhotos := .InSection "photos" }}
   {{ $isLong := or (.InSection "articles") (eq (len .Sections) 0) }}
 
   <article class='h-entry card'>
