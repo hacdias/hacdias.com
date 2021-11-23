@@ -1,0 +1,54 @@
+{
+  "targets": [
+    "https://hacdias.com/private",
+    "https://github.com/hacdias/indieauth"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "type": "card",
+        "url": "https://seblog.nl/"
+      },
+      "content": "Seb vindt een post van Henrique Dias leuk.",
+      "like-of": "https://hacdias.com/2021/11/23/new-indieauth",
+      "post-type": "like",
+      "published": "2021-11-23T17:49:15Z",
+      "rels": {
+        "canonical": "https://seblog.nl/2021/327/1"
+      },
+      "type": "entry",
+      "url": "https://seblog.nl/2021/11/23/1/like",
+      "wm-id": 1308755,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-11-23T17:56:02Z",
+      "wm-source": "https://seblog.nl/2021/11/23/1/like",
+      "wm-target": "https://hacdias.com/2021/11/23/new-indieauth"
+    },
+    {
+      "author": {
+        "name": "Barry Frost",
+        "photo": "https://cdn.hacdias.com/wm/383c80e7bedec43f1d730c5b2b7e115f3ddea7f0c1446393b8dd35eec4f0b2f5.jpg",
+        "type": "card",
+        "url": "https://barryfrost.com/"
+      },
+      "like-of": "https://hacdias.com/2021/11/23/new-indieauth",
+      "post-type": "like",
+      "published": "2021-11-23T20:50:38Z",
+      "rels": {
+        "canonical": "https://barryfrost.com/2021/11/i3a14wofmpo"
+      },
+      "type": "entry",
+      "url": "https://barryfrost.com/2021/11/i3a14wofmpo",
+      "wm-id": 1308823,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-11-23T20:50:44Z",
+      "wm-source": "https://barryfrost.com/2021/11/i3a14wofmpo",
+      "wm-target": "https://hacdias.com/2021/11/23/new-indieauth"
+    }
+  ]
+}
