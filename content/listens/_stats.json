@@ -2,13 +2,13 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 31,
+      "count": 27,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Troye Sivan",
-      "count": 20,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "name": "Marina",
+      "count": 21,
+      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Raimu",
@@ -21,19 +21,19 @@
       "url": "https://www.last.fm/music/DaniSogen"
     },
     {
-      "name": "Miley Cyrus",
+      "name": "Troye Sivan",
+      "count": 15,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
+      "name": "Purity Ring",
       "count": 14,
-      "url": "https://www.last.fm/music/Miley+Cyrus"
+      "url": "https://www.last.fm/music/Purity+Ring"
     },
     {
       "name": "Casiio",
       "count": 13,
       "url": "https://www.last.fm/music/Casiio"
-    },
-    {
-      "name": "Coldplay",
-      "count": 13,
-      "url": "https://www.last.fm/music/Coldplay"
     },
     {
       "name": "No Spirit",
@@ -55,20 +55,20 @@
     {
       "name": "soshy",
       "url": "https://www.last.fm/music/Purity+Ring/_/soshy",
-      "count": 11,
+      "count": 13,
       "artist": "Purity Ring"
-    },
-    {
-      "name": "Something New",
-      "url": "https://www.last.fm/music/Girls+Aloud/_/Something+New",
-      "count": 6,
-      "artist": "Girls Aloud"
     },
     {
       "name": "On a Roll",
       "url": "https://www.last.fm/music/Ashley+O/_/On+a+Roll",
       "count": 5,
       "artist": "Ashley O"
+    },
+    {
+      "name": "Something New",
+      "url": "https://www.last.fm/music/Girls+Aloud/_/Something+New",
+      "count": 5,
+      "artist": "Girls Aloud"
     },
     {
       "name": "Shower",
@@ -83,10 +83,22 @@
       "artist": "Bree Runway"
     },
     {
+      "name": "Last Dance",
+      "url": "https://www.last.fm/music/Stefania/_/Last+Dance",
+      "count": 4,
+      "artist": "Stefania"
+    },
+    {
       "name": "Chasing Pavements",
       "url": "https://www.last.fm/music/Adele/_/Chasing+Pavements",
       "count": 3,
       "artist": "Adele"
+    },
+    {
+      "name": "24 Hours - The Circle° Sessions",
+      "url": "https://www.last.fm/music/Agnes/_/24+Hours+-+The+Circle%C2%B0+Sessions",
+      "count": 3,
+      "artist": "Agnes"
     },
     {
       "name": "A Day Of Sun",
@@ -99,18 +111,6 @@
       "url": "https://www.last.fm/music/Allie+X/_/Learning+In+Public",
       "count": 3,
       "artist": "Allie X"
-    },
-    {
-      "name": "Tonight I Run",
-      "url": "https://www.last.fm/music/Astr%C3%A6a/_/Tonight+I+Run",
-      "count": 3,
-      "artist": "Astræa"
-    },
-    {
-      "name": "Aries",
-      "url": "https://www.last.fm/music/Casiio/_/Aries",
-      "count": 3,
-      "artist": "Casiio"
     }
   ]
 }
