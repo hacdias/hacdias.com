@@ -1,0 +1,27 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "What's that old saying? \"If you didn't check in on Swarm, did it even happen?\" Well you were here, and now it's official.",
+      "in-reply-to": "https://hacdias.com/2021/11/25/hotqyfcdow",
+      "post-type": "reply",
+      "published": "2021-11-25T11:03:01+01:00",
+      "swarm-coins": 1,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/619f5f55cdba0377ea7fb1b8/6fa0049b5924bf3cb0a664c5f00d3b87",
+      "wm-id": 1309564,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-25T12:05:40Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/619f5f55cdba0377ea7fb1b8/6fa0049b5924bf3cb0a664c5f00d3b87",
+      "wm-target": "https://hacdias.com/2021/11/25/hotqyfcdow"
+    }
+  ]
+}
