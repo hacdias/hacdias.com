@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Lady Gaga",
-      "count": 23,
+      "count": 22,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -26,14 +26,14 @@
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Coldplay",
-      "count": 10,
-      "url": "https://www.last.fm/music/Coldplay"
-    },
-    {
       "name": "Agnes",
       "count": 9,
       "url": "https://www.last.fm/music/Agnes"
+    },
+    {
+      "name": "Coldplay",
+      "count": 9,
+      "url": "https://www.last.fm/music/Coldplay"
     },
     {
       "name": "Ashley O",
@@ -41,14 +41,14 @@
       "url": "https://www.last.fm/music/Ashley+O"
     },
     {
-      "name": "Girls Aloud",
-      "count": 8,
-      "url": "https://www.last.fm/music/Girls+Aloud"
-    },
-    {
       "name": "Allie X",
       "count": 7,
       "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Becky G",
+      "count": 7,
+      "url": "https://www.last.fm/music/Becky+G"
     }
   ],
   "tracks": [
@@ -71,12 +71,6 @@
       "artist": "Becky G"
     },
     {
-      "name": "Something New",
-      "url": "https://www.last.fm/music/Girls+Aloud/_/Something+New",
-      "count": 7,
-      "artist": "Girls Aloud"
-    },
-    {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
       "count": 6,
@@ -87,6 +81,12 @@
       "url": "https://www.last.fm/music/Bree+Runway/_/What+Do+I+Tell+My+Friends%3F",
       "count": 6,
       "artist": "Bree Runway"
+    },
+    {
+      "name": "Something New",
+      "url": "https://www.last.fm/music/Girls+Aloud/_/Something+New",
+      "count": 6,
+      "artist": "Girls Aloud"
     },
     {
       "name": "Flash Pose",
