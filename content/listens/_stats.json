@@ -2,23 +2,18 @@
   "artists": [
     {
       "name": "Adele",
-      "count": 37,
+      "count": 39,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Purity Ring",
-      "count": 20,
+      "count": 21,
       "url": "https://www.last.fm/music/Purity+Ring"
     },
     {
       "name": "Marina",
-      "count": 15,
+      "count": 13,
       "url": "https://www.last.fm/music/Marina"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 12,
-      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Pabllo Vittar",
@@ -31,6 +26,16 @@
       "url": "https://www.last.fm/music/Agnes"
     },
     {
+      "name": "Blaya",
+      "count": 7,
+      "url": "https://www.last.fm/music/Blaya"
+    },
+    {
+      "name": "Charlee Nguyen",
+      "count": 7,
+      "url": "https://www.last.fm/music/Charlee+Nguyen"
+    },
+    {
       "name": "Ashley O",
       "count": 6,
       "url": "https://www.last.fm/music/Ashley+O"
@@ -41,22 +46,29 @@
       "url": "https://www.last.fm/music/Becky+G"
     },
     {
-      "name": "Blaya",
+      "name": "Blue Wednesday",
       "count": 6,
-      "url": "https://www.last.fm/music/Blaya"
-    },
-    {
-      "name": "Omar Rudberg",
-      "count": 6,
-      "url": "https://www.last.fm/music/Omar+Rudberg"
+      "url": "https://www.last.fm/music/Blue+Wednesday"
     }
   ],
   "tracks": [
     {
       "name": "soshy",
       "url": "https://www.last.fm/music/Purity+Ring/_/soshy",
-      "count": 19,
+      "count": 20,
       "artist": "Purity Ring"
+    },
+    {
+      "name": "Ok",
+      "url": "https://www.last.fm/music/Blaya/_/Ok",
+      "count": 7,
+      "artist": "Blaya"
+    },
+    {
+      "name": "Easy on Me",
+      "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
+      "count": 6,
+      "artist": "Adele"
     },
     {
       "name": "On a Roll",
@@ -69,18 +81,6 @@
       "url": "https://www.last.fm/music/Becky+G/_/Shower",
       "count": 6,
       "artist": "Becky G"
-    },
-    {
-      "name": "Ok",
-      "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 6,
-      "artist": "Blaya"
-    },
-    {
-      "name": "Easy on Me",
-      "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
-      "count": 5,
-      "artist": "Adele"
     },
     {
       "name": "What Do I Tell My Friends?",
