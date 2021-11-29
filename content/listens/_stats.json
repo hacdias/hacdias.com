@@ -6,14 +6,19 @@
       "url": "https://www.last.fm/music/Adele"
     },
     {
+      "name": "Marina",
+      "count": 11,
+      "url": "https://www.last.fm/music/Marina"
+    },
+    {
       "name": "Purity Ring",
-      "count": 21,
+      "count": 10,
       "url": "https://www.last.fm/music/Purity+Ring"
     },
     {
-      "name": "Marina",
-      "count": 13,
-      "url": "https://www.last.fm/music/Marina"
+      "name": "Bárbara Tinoco",
+      "count": 9,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
     },
     {
       "name": "Pabllo Vittar",
@@ -21,8 +26,18 @@
       "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
-      "name": "Agnes",
+      "name": "Jhove",
       "count": 8,
+      "url": "https://www.last.fm/music/Jhove"
+    },
+    {
+      "name": "Ticofaces",
+      "count": 8,
+      "url": "https://www.last.fm/music/Ticofaces"
+    },
+    {
+      "name": "Agnes",
+      "count": 7,
       "url": "https://www.last.fm/music/Agnes"
     },
     {
@@ -34,28 +49,13 @@
       "name": "Charlee Nguyen",
       "count": 7,
       "url": "https://www.last.fm/music/Charlee+Nguyen"
-    },
-    {
-      "name": "Ashley O",
-      "count": 6,
-      "url": "https://www.last.fm/music/Ashley+O"
-    },
-    {
-      "name": "Becky G",
-      "count": 6,
-      "url": "https://www.last.fm/music/Becky+G"
-    },
-    {
-      "name": "Blue Wednesday",
-      "count": 6,
-      "url": "https://www.last.fm/music/Blue+Wednesday"
     }
   ],
   "tracks": [
     {
       "name": "soshy",
       "url": "https://www.last.fm/music/Purity+Ring/_/soshy",
-      "count": 20,
+      "count": 9,
       "artist": "Purity Ring"
     },
     {
