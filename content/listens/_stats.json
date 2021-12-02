@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Adele",
-      "count": 30,
+      "count": 28,
       "url": "https://www.last.fm/music/Adele"
     },
     {
@@ -14,6 +14,11 @@
       "name": "Jhove",
       "count": 12,
       "url": "https://www.last.fm/music/Jhove"
+    },
+    {
+      "name": "Fernando Daniel",
+      "count": 10,
+      "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
       "name": "Ticofaces",
@@ -31,24 +36,19 @@
       "url": "https://www.last.fm/music/cxlt."
     },
     {
-      "name": "Fernando Daniel",
-      "count": 8,
-      "url": "https://www.last.fm/music/Fernando+Daniel"
-    },
-    {
       "name": "hoogway",
       "count": 8,
       "url": "https://www.last.fm/music/hoogway"
     },
     {
+      "name": "João Pedro Pais",
+      "count": 8,
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
+    },
+    {
       "name": "Phlocalyst",
       "count": 8,
       "url": "https://www.last.fm/music/Phlocalyst"
-    },
-    {
-      "name": "kainbeats",
-      "count": 7,
-      "url": "https://www.last.fm/music/kainbeats"
     }
   ],
   "tracks": [
@@ -59,22 +59,10 @@
       "artist": "Adele"
     },
     {
-      "name": "Strangers by Nature",
-      "url": "https://www.last.fm/music/Adele/_/Strangers+by+Nature",
+      "name": "Voltas",
+      "url": "https://www.last.fm/music/Fernando+Daniel/_/Voltas",
       "count": 4,
-      "artist": "Adele"
-    },
-    {
-      "name": "Ok",
-      "url": "https://www.last.fm/music/Blaya/_/Ok",
-      "count": 4,
-      "artist": "Blaya"
-    },
-    {
-      "name": "soshy",
-      "url": "https://www.last.fm/music/Purity+Ring/_/soshy",
-      "count": 4,
-      "artist": "Purity Ring"
+      "artist": "Fernando Daniel"
     },
     {
       "name": "Golden Clouds",
@@ -89,28 +77,40 @@
       "artist": "Ticofaces"
     },
     {
-      "name": "Chasing Pavements",
-      "url": "https://www.last.fm/music/Adele/_/Chasing+Pavements",
-      "count": 3,
-      "artist": "Adele"
-    },
-    {
       "name": "My Little Love",
       "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
       "count": 3,
       "artist": "Adele"
     },
     {
-      "name": "On a Roll",
-      "url": "https://www.last.fm/music/Ashley+O/_/On+a+Roll",
+      "name": "Strangers by Nature",
+      "url": "https://www.last.fm/music/Adele/_/Strangers+by+Nature",
       "count": 3,
-      "artist": "Ashley O"
+      "artist": "Adele"
     },
     {
-      "name": "Shower",
-      "url": "https://www.last.fm/music/Becky+G/_/Shower",
+      "name": "A Máquina (Acordou)",
+      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
       "count": 3,
-      "artist": "Becky G"
+      "artist": "Amor Electro"
+    },
+    {
+      "name": "Ok",
+      "url": "https://www.last.fm/music/Blaya/_/Ok",
+      "count": 3,
+      "artist": "Blaya"
+    },
+    {
+      "name": "Rapture",
+      "url": "https://www.last.fm/music/Charlee+Nguyen/_/Rapture",
+      "count": 3,
+      "artist": "Charlee Nguyen"
+    },
+    {
+      "name": "O Jardim",
+      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
+      "count": 3,
+      "artist": "Cláudia Pascoal"
     }
   ]
 }
