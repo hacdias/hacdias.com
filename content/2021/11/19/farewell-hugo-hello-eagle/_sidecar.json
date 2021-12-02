@@ -20,6 +20,26 @@
   "webmentions": [
     {
       "author": {
+        "name": "jlelse’s Blog",
+        "photo": "https://cdn.hacdias.com/wm/fa4b5eb2bf1c1aebf299223741a18f4a7c53ade6f1b4e2a0276bd5281cc0c22d.png",
+        "type": "card",
+        "url": "https://jlelse.blog"
+      },
+      "content": "Congratulations on the successful launch of Eagle v2, Henrique! 🎉 Welcome to the club of “I have developed my completely own CMS”. 😂",
+      "in-reply-to": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle",
+      "post-type": "reply",
+      "published": "2021-11-19T13:14:35+01:00",
+      "type": "entry",
+      "url": "https://jlelse.blog/micro/2021/11/hacdias-eagle-v2",
+      "wm-id": 1307302,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-11-19T12:14:37Z",
+      "wm-source": "https://jlelse.blog/micro/2021/11/hacdias-eagle-v2",
+      "wm-target": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle"
+    },
+    {
+      "author": {
         "name": "Sebastiaan Andeweg",
         "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
         "type": "card",
@@ -43,22 +63,26 @@
     },
     {
       "author": {
-        "name": "jlelse’s Blog",
-        "photo": "https://cdn.hacdias.com/wm/fa4b5eb2bf1c1aebf299223741a18f4a7c53ade6f1b4e2a0276bd5281cc0c22d.png",
+        "name": "Andrés Cárdenas",
+        "photo": "https://cdn.hacdias.com/wm/2bbc35d132aa3e3514c356f70215e7b05073b5229dab48f53e02d8a3e34ce4ae.jpg",
         "type": "card",
-        "url": "https://jlelse.blog"
+        "url": "https://kandr3s.co/"
       },
-      "content": "Congratulations on the successful launch of Eagle v2, Henrique! 🎉 Welcome to the club of “I have developed my completely own CMS”. 😂",
-      "in-reply-to": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle",
-      "post-type": "reply",
-      "published": "2021-11-19T13:14:35+01:00",
+      "content": "Two months ago I started implementing IndieWeb principles on my website. I use started because it has been a long process of tinkering with different tools and learning to use technologies I never expected to be using. Naturally, the progress has been slow as I’m often running into problems beyond my skillset. However, by reaching out to other community members I’ve been able to slowly setup things kind of the way I want. Because it’s true that on the IndieWeb everyone assumes you’re a developer, but most people are nice enough to open source their code and even go the extra mile helping with one’s particular use cases. This website’s original goal was for me to have an online presence that was fully controlled by me, but thanks to the IndieWeb it’s turning into my single Internet channel. And how can it not progress in that direction when there’s many inspiring websites on the IndieWebring alone? What started as moving my content back to Jekyll from Tumblr, resulted in personal website that implemented microformats, used a Heroku-hosted micropub endpoint and relied on Quill to post updates. Right now everything I need to post or read online is hosted on my personal domain. I’m using a slightly modified version of this micropub endpoint hosted on Netlify and I’m customizing a micropub client, it’s fully functional at the moment, but I’m still trying to figure out how to get it to store sessions longer (or indefinitely), it deletes them automatically after x time. Self-hosting a social reader like Together or Monocle sounds like the next reasonable step but I love yarr! too much to give up on it, so I finally put everything on a subdomain and this is how I’m posting and reading on the Internet these days: I know there’s a lot to improve in this setup, and who knows, maybe some day, I can build implementations of IndieAuth, Webmentions, etc… or build something as cool as Tanzawa or Eagle, but as of right now, this is something I’m kind of proud of and felt like that was worth sharing here.",
+      "mention-of": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle",
+      "name": "IndieWeb is the way",
+      "post-type": "mention",
+      "published": "2021-12-02T16:33:00Z",
+      "rels": {
+        "canonical": "https://kandr3s.co/post/indieweb-is-the-way"
+      },
       "type": "entry",
-      "url": "https://jlelse.blog/micro/2021/11/hacdias-eagle-v2",
-      "wm-id": 1307302,
+      "url": "https://kandr3s.co/post/indieweb-is-the-way",
+      "wm-id": 1311811,
       "wm-private": false,
-      "wm-property": "in-reply-to",
-      "wm-received": "2021-11-19T12:14:37Z",
-      "wm-source": "https://jlelse.blog/micro/2021/11/hacdias-eagle-v2",
+      "wm-property": "mention-of",
+      "wm-received": "2021-12-02T17:18:53Z",
+      "wm-source": "https://kandr3s.co/post/indieweb-is-the-way",
       "wm-target": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle"
     }
   ]
