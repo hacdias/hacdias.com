@@ -11,34 +11,19 @@
       "url": "https://www.last.fm/music/Sia"
     },
     {
-      "name": "Jhove",
-      "count": 12,
-      "url": "https://www.last.fm/music/Jhove"
-    },
-    {
       "name": "Fernando Daniel",
       "count": 10,
       "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
-      "name": "Ticofaces",
+      "name": "Jhove",
       "count": 10,
-      "url": "https://www.last.fm/music/Ticofaces"
+      "url": "https://www.last.fm/music/Jhove"
     },
     {
-      "name": "No Spirit",
-      "count": 9,
-      "url": "https://www.last.fm/music/No+Spirit"
-    },
-    {
-      "name": "cxlt.",
+      "name": "Amor Electro",
       "count": 8,
-      "url": "https://www.last.fm/music/cxlt."
-    },
-    {
-      "name": "hoogway",
-      "count": 8,
-      "url": "https://www.last.fm/music/hoogway"
+      "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "João Pedro Pais",
@@ -46,9 +31,24 @@
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
-      "name": "Phlocalyst",
+      "name": "No Spirit",
       "count": 8,
-      "url": "https://www.last.fm/music/Phlocalyst"
+      "url": "https://www.last.fm/music/No+Spirit"
+    },
+    {
+      "name": "Ticofaces",
+      "count": 8,
+      "url": "https://www.last.fm/music/Ticofaces"
+    },
+    {
+      "name": "hoogway",
+      "count": 7,
+      "url": "https://www.last.fm/music/hoogway"
+    },
+    {
+      "name": "kainbeats",
+      "count": 6,
+      "url": "https://www.last.fm/music/kainbeats"
     }
   ],
   "tracks": [
@@ -57,6 +57,12 @@
       "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
       "count": 5,
       "artist": "Adele"
+    },
+    {
+      "name": "A Máquina (Acordou)",
+      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
+      "count": 4,
+      "artist": "Amor Electro"
     },
     {
       "name": "Voltas",
@@ -71,12 +77,6 @@
       "artist": "Rudy Raw"
     },
     {
-      "name": "Close By",
-      "url": "https://www.last.fm/music/Ticofaces/_/Close+By",
-      "count": 4,
-      "artist": "Ticofaces"
-    },
-    {
       "name": "My Little Love",
       "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
       "count": 3,
@@ -89,28 +89,28 @@
       "artist": "Adele"
     },
     {
-      "name": "A Máquina (Acordou)",
-      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
-      "count": 3,
-      "artist": "Amor Electro"
-    },
-    {
       "name": "Ok",
       "url": "https://www.last.fm/music/Blaya/_/Ok",
       "count": 3,
       "artist": "Blaya"
     },
     {
-      "name": "Rapture",
-      "url": "https://www.last.fm/music/Charlee+Nguyen/_/Rapture",
-      "count": 3,
-      "artist": "Charlee Nguyen"
-    },
-    {
       "name": "O Jardim",
       "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
       "count": 3,
       "artist": "Cláudia Pascoal"
+    },
+    {
+      "name": "Within",
+      "url": "https://www.last.fm/music/EnLuv/_/Within",
+      "count": 3,
+      "artist": "EnLuv"
+    },
+    {
+      "name": "Nada Mais",
+      "url": "https://www.last.fm/music/Fernando+Daniel/_/Nada+Mais",
+      "count": 3,
+      "artist": "Fernando Daniel"
     }
   ]
 }
