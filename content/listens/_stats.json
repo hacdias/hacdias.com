@@ -1,19 +1,29 @@
 {
   "artists": [
     {
-      "name": "Adele",
-      "count": 28,
-      "url": "https://www.last.fm/music/Adele"
-    },
-    {
       "name": "Sia",
       "count": 20,
       "url": "https://www.last.fm/music/Sia"
     },
     {
       "name": "Fernando Daniel",
-      "count": 10,
+      "count": 14,
       "url": "https://www.last.fm/music/Fernando+Daniel"
+    },
+    {
+      "name": "Amor Electro",
+      "count": 13,
+      "url": "https://www.last.fm/music/Amor+Electro"
+    },
+    {
+      "name": "João Pedro Pais",
+      "count": 13,
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
+    },
+    {
+      "name": "Adele",
+      "count": 10,
+      "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Jhove",
@@ -21,19 +31,14 @@
       "url": "https://www.last.fm/music/Jhove"
     },
     {
-      "name": "Amor Electro",
-      "count": 8,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "João Pedro Pais",
-      "count": 8,
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
-    },
-    {
       "name": "No Spirit",
       "count": 8,
       "url": "https://www.last.fm/music/No+Spirit"
+    },
+    {
+      "name": "The Gift",
+      "count": 8,
+      "url": "https://www.last.fm/music/The+Gift"
     },
     {
       "name": "Ticofaces",
@@ -44,29 +49,42 @@
       "name": "hoogway",
       "count": 7,
       "url": "https://www.last.fm/music/hoogway"
-    },
-    {
-      "name": "kainbeats",
-      "count": 6,
-      "url": "https://www.last.fm/music/kainbeats"
     }
   ],
   "tracks": [
     {
-      "name": "Easy on Me",
-      "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
-      "count": 5,
-      "artist": "Adele"
-    },
-    {
       "name": "A Máquina (Acordou)",
       "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
-      "count": 4,
+      "count": 5,
       "artist": "Amor Electro"
     },
     {
       "name": "Voltas",
       "url": "https://www.last.fm/music/Fernando+Daniel/_/Voltas",
+      "count": 5,
+      "artist": "Fernando Daniel"
+    },
+    {
+      "name": "Não Há",
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais/_/N%C3%A3o+H%C3%A1",
+      "count": 5,
+      "artist": "João Pedro Pais"
+    },
+    {
+      "name": "O Jardim",
+      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
+      "count": 4,
+      "artist": "Cláudia Pascoal"
+    },
+    {
+      "name": "O amor é mágico",
+      "url": "https://www.last.fm/music/Expensive+Soul/_/O+amor+%C3%A9+m%C3%A1gico",
+      "count": 4,
+      "artist": "Expensive Soul"
+    },
+    {
+      "name": "Nada Mais",
+      "url": "https://www.last.fm/music/Fernando+Daniel/_/Nada+Mais",
       "count": 4,
       "artist": "Fernando Daniel"
     },
@@ -77,40 +95,22 @@
       "artist": "Rudy Raw"
     },
     {
-      "name": "My Little Love",
-      "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
+      "name": "Papel Principal",
+      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
       "count": 3,
-      "artist": "Adele"
+      "artist": "Adelaide Ferreira"
     },
     {
-      "name": "Strangers by Nature",
-      "url": "https://www.last.fm/music/Adele/_/Strangers+by+Nature",
+      "name": "Hoje",
+      "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
       "count": 3,
-      "artist": "Adele"
+      "artist": "ÁTOA"
     },
     {
-      "name": "Ok",
-      "url": "https://www.last.fm/music/Blaya/_/Ok",
+      "name": "Canção do Mar",
+      "url": "https://www.last.fm/music/Dulce+Pontes/_/Can%C3%A7%C3%A3o+do+Mar",
       "count": 3,
-      "artist": "Blaya"
-    },
-    {
-      "name": "O Jardim",
-      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
-      "count": 3,
-      "artist": "Cláudia Pascoal"
-    },
-    {
-      "name": "Within",
-      "url": "https://www.last.fm/music/EnLuv/_/Within",
-      "count": 3,
-      "artist": "EnLuv"
-    },
-    {
-      "name": "Nada Mais",
-      "url": "https://www.last.fm/music/Fernando+Daniel/_/Nada+Mais",
-      "count": 3,
-      "artist": "Fernando Daniel"
+      "artist": "Dulce Pontes"
     }
   ]
 }
