@@ -1,0 +1,22 @@
+{
+  "targets": [
+    "https://jan.boddez.net/notes/c130264cfa"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan Boddez",
+      "photo": "https://cdn.hacdias.com/wm/fce1504803e26e4bc97a7287c9e947699c7874ba2b74e6fbda1648d3bd70ee3b.jpg",
+      "type": "card",
+      "url": "https://jan.boddez.net/"
+    },
+    "content": "I have come across quite a few quirks, which I try to address in my “fork.” (I’d happily create a test account for you over at https://fstop.cloud. That said, Micropub support is still in its infancy. Microsub should [mostly] work, though, so you could [hopefully] still use it with your client of choice.)",
+    "in-reply-to": [
+      "https://hacdias.com/2021/12/04/aperture-doesnt-fetch"
+    ],
+    "post-type": "reply",
+    "published": "2021-12-04T11:57:00+01:00",
+    "type": "entry",
+    "url": "https://jan.boddez.net/notes/c130264cfa"
+  },
+  "webmentions": []
+}
