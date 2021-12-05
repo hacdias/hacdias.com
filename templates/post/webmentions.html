@@ -20,9 +20,9 @@
       <input type="submit" value="Write a comment">
     </form>
 
+    {{ if not (eq $count 0) }}
     <hr>
 
-    {{ if not (eq $count 0) }}
     <div class='contents'>
       {{ range $i, $wm := $data.Webmentions }}
         {{ if not (index . "wm-private") }}
