@@ -1,0 +1,162 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "DUDINHA",
+        "photo": "https://cdn.hacdias.com/wm/8f81ad4e80bfcc2bf47239a7bc499d7ea24bc5acc935378f5a7663104ddde697.jpg",
+        "type": "card",
+        "url": "https://twitter.com/CallMeDudinha"
+      },
+      "like-of": "https://hacdias.com/2021/12/05/xcngaefgfx",
+      "post-type": "like",
+      "published": "2021-12-05T13:03:13Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1467433942282387457#favorited-by-3535192156",
+      "wm-id": 1312900,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-12-05T13:03:13Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1467433942282387457/3535192156",
+      "wm-target": "https://hacdias.com/2021/12/05/xcngaefgfx"
+    },
+    {
+      "author": {
+        "name": "Francisco",
+        "photo": "https://cdn.hacdias.com/wm/711b572ecd673a59e29d72544852310562e4311f63fd2bf7aeae6fe3a603c343.jpg",
+        "type": "card",
+        "url": "https://twitter.com/TheMrKiko"
+      },
+      "like-of": "https://hacdias.com/2021/12/05/xcngaefgfx",
+      "post-type": "like",
+      "published": "2021-12-05T13:03:13Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1467433942282387457#favorited-by-167414251",
+      "wm-id": 1312901,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-12-05T13:03:13Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1467433942282387457/167414251",
+      "wm-target": "https://hacdias.com/2021/12/05/xcngaefgfx"
+    },
+    {
+      "author": {
+        "name": "Nimo",
+        "photo": "https://cdn.hacdias.com/wm/b30bfdc5f8718bb3c1a99a97a68edda0579e392aa59afe36a73994daed9c00e2.jpg",
+        "type": "card",
+        "url": "https://twitter.com/nimobeeren"
+      },
+      "content": "Too spooky for me",
+      "in-reply-to": "https://hacdias.com/2021/12/05/xcngaefgfx",
+      "post-type": "reply",
+      "published": "2021-12-05T12:35:46Z",
+      "type": "entry",
+      "url": "https://twitter.com/nimobeeren/status/1467472767247339521",
+      "wm-id": 1312899,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-12-05T13:03:07Z",
+      "wm-source": "https://brid.gy/comment/twitter/hacdias/1467433942282387457/1467472767247339521",
+      "wm-target": "https://hacdias.com/2021/12/05/xcngaefgfx"
+    },
+    {
+      "author": {
+        "name": "Rui Bacelar Oliveira",
+        "photo": "https://cdn.hacdias.com/wm/16eec7e6467e0a3c6dce9ee3598f2cfd7a6c8fa06432b31315ac31cd68da0351.jpg",
+        "type": "card",
+        "url": "https://twitter.com/ruifbacelar"
+      },
+      "like-of": "https://hacdias.com/2021/12/05/xcngaefgfx",
+      "post-type": "like",
+      "published": "2021-12-05T11:53:20Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1467433942282387457#favorited-by-1047691783",
+      "wm-id": 1312857,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-12-05T11:53:20Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1467433942282387457/1047691783",
+      "wm-target": "https://hacdias.com/2021/12/05/xcngaefgfx"
+    },
+    {
+      "author": {
+        "name": "𝖆𝖑𝖊𝖝𝖆𝖓𝖉𝖗𝖊",
+        "photo": "https://cdn.hacdias.com/wm/057f23bb8265de9b593ac70f61f9ac9e162c69329855d46fa1ed8017498d0290.jpg",
+        "type": "card",
+        "url": "https://twitter.com/_saligia__"
+      },
+      "content": "I gave it a try, but it was so complex I lost myself in the mix. Give Glória a try, it's pretty good too!!",
+      "in-reply-to": "https://hacdias.com/2021/12/05/xcngaefgfx",
+      "post-type": "reply",
+      "published": "2021-12-05T11:39:59Z",
+      "type": "entry",
+      "url": "https://twitter.com/_saligia__/status/1467458728827961345",
+      "wm-id": 1312855,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-12-05T11:53:16Z",
+      "wm-source": "https://brid.gy/comment/twitter/hacdias/1467433942282387457/1467458728827961345",
+      "wm-target": "https://hacdias.com/2021/12/05/xcngaefgfx"
+    },
+    {
+      "author": {
+        "name": "Rui Bacelar Oliveira",
+        "photo": "https://cdn.hacdias.com/wm/16eec7e6467e0a3c6dce9ee3598f2cfd7a6c8fa06432b31315ac31cd68da0351.jpg",
+        "type": "card",
+        "url": "https://twitter.com/ruifbacelar"
+      },
+      "content": "Amen to that",
+      "in-reply-to": "https://hacdias.com/2021/12/05/xcngaefgfx",
+      "post-type": "reply",
+      "published": "2021-12-05T11:23:20Z",
+      "type": "entry",
+      "url": "https://twitter.com/ruifbacelar/status/1467454536512069641",
+      "wm-id": 1312856,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-12-05T11:53:16Z",
+      "wm-source": "https://brid.gy/comment/twitter/hacdias/1467433942282387457/1467454536512069641",
+      "wm-target": "https://hacdias.com/2021/12/05/xcngaefgfx"
+    },
+    {
+      "author": {
+        "name": "Ana Guerra",
+        "photo": "https://cdn.hacdias.com/wm/24472d1599a4b6efb1215556c24678f84d641e6b19a91834ccc4d08d1e622ddd.jpg",
+        "type": "card",
+        "url": "https://twitter.com/anarlguerra"
+      },
+      "content": "Uma das melhores séries da Netflix.",
+      "in-reply-to": "https://hacdias.com/2021/12/05/xcngaefgfx",
+      "post-type": "reply",
+      "published": "2021-12-05T10:12:08Z",
+      "type": "entry",
+      "url": "https://twitter.com/anarlguerra/status/1467436621809205249",
+      "wm-id": 1312813,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2021-12-05T10:55:28Z",
+      "wm-source": "https://brid.gy/comment/twitter/hacdias/1467433942282387457/1467436621809205249",
+      "wm-target": "https://hacdias.com/2021/12/05/xcngaefgfx"
+    },
+    {
+      "author": {
+        "name": "Giródisco",
+        "photo": "https://cdn.hacdias.com/wm/0ac12249e79fa76c47b461f7477232bd66376f665e070cc24c0bcd33aa243d71.jpg",
+        "type": "card",
+        "url": "https://twitter.com/Sa_nyamentu"
+      },
+      "like-of": "https://hacdias.com/2021/12/05/xcngaefgfx",
+      "post-type": "like",
+      "published": "2021-12-05T13:03:16Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1467433942282387457#favorited-by-66378009",
+      "wm-id": 1312902,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-12-05T13:03:16Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1467433942282387457/66378009",
+      "wm-target": "https://hacdias.com/2021/12/05/xcngaefgfx"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "youkkka",
+        "photo": "https://cdn.hacdias.com/wm/f8fc7eb8880a15a57511c54d38828db4eec516e5e93adab8ae19994dccb34347.jpg",
+        "type": "card",
+        "url": "https://twitter.com/youkkka"
+      },
+      "like-of": "https://hacdias.com/2021/12/05/ezfvgtworx",
+      "post-type": "like",
+      "published": "2021-12-05T20:36:45Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1467486044312543233#favorited-by-2558557082",
+      "wm-id": 1313025,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-12-05T20:36:45Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1467486044312543233/2558557082",
+      "wm-target": "https://hacdias.com/2021/12/05/ezfvgtworx"
+    }
+  ]
+}
