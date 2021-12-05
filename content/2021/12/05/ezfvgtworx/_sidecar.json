@@ -20,6 +20,25 @@
       "wm-received": "2021-12-05T20:36:45Z",
       "wm-source": "https://brid.gy/like/twitter/hacdias/1467486044312543233/2558557082",
       "wm-target": "https://hacdias.com/2021/12/05/ezfvgtworx"
+    },
+    {
+      "author": {
+        "name": "Nimo",
+        "photo": "https://cdn.hacdias.com/wm/b30bfdc5f8718bb3c1a99a97a68edda0579e392aa59afe36a73994daed9c00e2.jpg",
+        "type": "card",
+        "url": "https://twitter.com/nimobeeren"
+      },
+      "like-of": "https://hacdias.com/2021/12/05/ezfvgtworx",
+      "post-type": "like",
+      "published": "2021-12-05T22:23:44Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1467486044312543233#favorited-by-1065361423637889025",
+      "wm-id": 1313087,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-12-05T22:23:44Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1467486044312543233/1065361423637889025",
+      "wm-target": "https://hacdias.com/2021/12/05/ezfvgtworx"
     }
   ]
 }
