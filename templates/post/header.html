@@ -26,7 +26,7 @@
     {{ include "post/itinerary" . }}
   {{ else if eq $type "note" }}
     <!-- Do Nothing -->
-  {{ else }}
+  {{ else if .Entry.Title }}
     <header>
       {{ if .IsListing }}
         {{ with .Entry.Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
