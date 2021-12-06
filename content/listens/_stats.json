@@ -7,17 +7,17 @@
     },
     {
       "name": "Amor Electro",
-      "count": 19,
+      "count": 17,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "Fernando Daniel",
-      "count": 14,
+      "count": 12,
       "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
       "name": "João Pedro Pais",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
@@ -26,29 +26,29 @@
       "url": "https://www.last.fm/music/Adele"
     },
     {
-      "name": "The Gift",
-      "count": 9,
-      "url": "https://www.last.fm/music/The+Gift"
+      "name": "Grimes",
+      "count": 8,
+      "url": "https://www.last.fm/music/Grimes"
     },
     {
       "name": "Allie X",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Bárbara Tinoco",
+      "name": "cxlt.",
       "count": 6,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+      "url": "https://www.last.fm/music/cxlt."
     },
     {
-      "name": "Jhove",
+      "name": "Lady Gaga",
       "count": 6,
-      "url": "https://www.last.fm/music/Jhove"
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "kainbeats",
+      "name": "The Gift",
       "count": 6,
-      "url": "https://www.last.fm/music/kainbeats"
+      "url": "https://www.last.fm/music/The+Gift"
     }
   ],
   "tracks": [
@@ -59,34 +59,16 @@
       "artist": "Amor Electro"
     },
     {
-      "name": "O Jardim",
-      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
-      "count": 5,
-      "artist": "Cláudia Pascoal"
-    },
-    {
-      "name": "Voltas",
-      "url": "https://www.last.fm/music/Fernando+Daniel/_/Voltas",
-      "count": 5,
-      "artist": "Fernando Daniel"
-    },
-    {
-      "name": "Não Há",
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais/_/N%C3%A3o+H%C3%A1",
-      "count": 5,
-      "artist": "João Pedro Pais"
-    },
-    {
-      "name": "Rising Tide",
-      "url": "https://www.last.fm/music/Allie+X/_/Rising+Tide",
-      "count": 4,
-      "artist": "Allie X"
-    },
-    {
       "name": "Hoje",
       "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
       "count": 4,
       "artist": "ÁTOA"
+    },
+    {
+      "name": "O Jardim",
+      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
+      "count": 4,
+      "artist": "Cláudia Pascoal"
     },
     {
       "name": "O amor é mágico",
@@ -95,10 +77,22 @@
       "artist": "Expensive Soul"
     },
     {
-      "name": "Nada Mais",
-      "url": "https://www.last.fm/music/Fernando+Daniel/_/Nada+Mais",
+      "name": "Voltas",
+      "url": "https://www.last.fm/music/Fernando+Daniel/_/Voltas",
       "count": 4,
       "artist": "Fernando Daniel"
+    },
+    {
+      "name": "Niets Tussen",
+      "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
+      "count": 4,
+      "artist": "Froukje"
+    },
+    {
+      "name": "Não Há",
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais/_/N%C3%A3o+H%C3%A1",
+      "count": 4,
+      "artist": "João Pedro Pais"
     },
     {
       "name": "Papel Principal",
@@ -107,10 +101,16 @@
       "artist": "Adelaide Ferreira"
     },
     {
-      "name": "Miúda do café",
-      "url": "https://www.last.fm/music/Amor+Electro/_/Mi%C3%BAda+do+caf%C3%A9",
+      "name": "Rising Tide",
+      "url": "https://www.last.fm/music/Allie+X/_/Rising+Tide",
       "count": 3,
-      "artist": "Amor Electro"
+      "artist": "Allie X"
+    },
+    {
+      "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
+      "url": "https://www.last.fm/music/Charli+XCX/_/New+Shapes+(feat.+Christine+and+the+Queens+and+Caroline+Polachek)",
+      "count": 3,
+      "artist": "Charli XCX"
     }
   ]
 }
