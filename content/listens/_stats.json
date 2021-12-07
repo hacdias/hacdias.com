@@ -1,44 +1,39 @@
 {
   "artists": [
     {
-      "name": "Sia",
-      "count": 20,
-      "url": "https://www.last.fm/music/Sia"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 17,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Fernando Daniel",
-      "count": 12,
-      "url": "https://www.last.fm/music/Fernando+Daniel"
-    },
-    {
-      "name": "João Pedro Pais",
-      "count": 12,
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
-    },
-    {
       "name": "Adele",
-      "count": 11,
+      "count": 24,
       "url": "https://www.last.fm/music/Adele"
     },
     {
+      "name": "Amor Electro",
+      "count": 23,
+      "url": "https://www.last.fm/music/Amor+Electro"
+    },
+    {
+      "name": "João Pedro Pais",
+      "count": 16,
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
+    },
+    {
+      "name": "Fernando Daniel",
+      "count": 14,
+      "url": "https://www.last.fm/music/Fernando+Daniel"
+    },
+    {
       "name": "Grimes",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/Grimes"
     },
     {
       "name": "Allie X",
-      "count": 6,
+      "count": 7,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "cxlt.",
+      "name": "Cláudia Pascoal",
       "count": 6,
-      "url": "https://www.last.fm/music/cxlt."
+      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal"
     },
     {
       "name": "Lady Gaga",
@@ -49,68 +44,73 @@
       "name": "The Gift",
       "count": 6,
       "url": "https://www.last.fm/music/The+Gift"
+    },
+    {
+      "name": "Agnes",
+      "count": 5,
+      "url": "https://www.last.fm/music/Agnes"
     }
   ],
   "tracks": [
     {
       "name": "A Máquina (Acordou)",
       "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
-      "count": 6,
+      "count": 8,
       "artist": "Amor Electro"
-    },
-    {
-      "name": "Hoje",
-      "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
-      "count": 4,
-      "artist": "ÁTOA"
     },
     {
       "name": "O Jardim",
       "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
-      "count": 4,
+      "count": 6,
       "artist": "Cláudia Pascoal"
+    },
+    {
+      "name": "Hoje",
+      "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
+      "count": 5,
+      "artist": "ÁTOA"
     },
     {
       "name": "O amor é mágico",
       "url": "https://www.last.fm/music/Expensive+Soul/_/O+amor+%C3%A9+m%C3%A1gico",
-      "count": 4,
+      "count": 5,
       "artist": "Expensive Soul"
     },
     {
       "name": "Voltas",
       "url": "https://www.last.fm/music/Fernando+Daniel/_/Voltas",
-      "count": 4,
+      "count": 5,
       "artist": "Fernando Daniel"
     },
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 4,
+      "count": 5,
       "artist": "Froukje"
     },
     {
       "name": "Não Há",
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais/_/N%C3%A3o+H%C3%A1",
-      "count": 4,
+      "count": 5,
       "artist": "João Pedro Pais"
     },
     {
       "name": "Papel Principal",
       "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
-      "count": 3,
+      "count": 4,
       "artist": "Adelaide Ferreira"
     },
     {
       "name": "Rising Tide",
       "url": "https://www.last.fm/music/Allie+X/_/Rising+Tide",
-      "count": 3,
+      "count": 4,
       "artist": "Allie X"
     },
     {
-      "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
-      "url": "https://www.last.fm/music/Charli+XCX/_/New+Shapes+(feat.+Christine+and+the+Queens+and+Caroline+Polachek)",
-      "count": 3,
-      "artist": "Charli XCX"
+      "name": "Onde Vais (feat. Carminho)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
+      "count": 4,
+      "artist": "Bárbara Bandeira"
     }
   ]
 }
