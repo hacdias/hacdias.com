@@ -2,23 +2,23 @@
   "artists": [
     {
       "name": "Adele",
-      "count": 24,
+      "count": 22,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Amor Electro",
-      "count": 23,
+      "count": 22,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "João Pedro Pais",
-      "count": 16,
+      "count": 14,
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
-      "name": "Fernando Daniel",
-      "count": 14,
-      "url": "https://www.last.fm/music/Fernando+Daniel"
+      "name": "Lady Gaga",
+      "count": 10,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
       "name": "Grimes",
@@ -26,9 +26,19 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
+      "name": "Fernando Daniel",
+      "count": 8,
+      "url": "https://www.last.fm/music/Fernando+Daniel"
+    },
+    {
       "name": "Allie X",
       "count": 7,
       "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Froukje",
+      "count": 7,
+      "url": "https://www.last.fm/music/Froukje"
     },
     {
       "name": "Cláudia Pascoal",
@@ -36,19 +46,9 @@
       "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal"
     },
     {
-      "name": "Lady Gaga",
-      "count": 6,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "The Gift",
       "count": 6,
       "url": "https://www.last.fm/music/The+Gift"
-    },
-    {
-      "name": "Agnes",
-      "count": 5,
-      "url": "https://www.last.fm/music/Agnes"
     }
   ],
   "tracks": [
@@ -59,16 +59,22 @@
       "artist": "Amor Electro"
     },
     {
+      "name": "Niets Tussen",
+      "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
+      "count": 7,
+      "artist": "Froukje"
+    },
+    {
       "name": "O Jardim",
       "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
       "count": 6,
       "artist": "Cláudia Pascoal"
     },
     {
-      "name": "Hoje",
-      "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
+      "name": "Onde Vais (feat. Carminho)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
       "count": 5,
-      "artist": "ÁTOA"
+      "artist": "Bárbara Bandeira"
     },
     {
       "name": "O amor é mágico",
@@ -77,28 +83,16 @@
       "artist": "Expensive Soul"
     },
     {
-      "name": "Voltas",
-      "url": "https://www.last.fm/music/Fernando+Daniel/_/Voltas",
+      "name": "Flesh without Blood",
+      "url": "https://www.last.fm/music/Grimes/_/Flesh+without+Blood",
       "count": 5,
-      "artist": "Fernando Daniel"
+      "artist": "Grimes"
     },
     {
-      "name": "Niets Tussen",
-      "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 5,
-      "artist": "Froukje"
-    },
-    {
-      "name": "Não Há",
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais/_/N%C3%A3o+H%C3%A1",
-      "count": 5,
-      "artist": "João Pedro Pais"
-    },
-    {
-      "name": "Papel Principal",
-      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
+      "name": "My Little Love",
+      "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
       "count": 4,
-      "artist": "Adelaide Ferreira"
+      "artist": "Adele"
     },
     {
       "name": "Rising Tide",
@@ -107,10 +101,16 @@
       "artist": "Allie X"
     },
     {
-      "name": "Onde Vais (feat. Carminho)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
+      "name": "Hoje",
+      "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
       "count": 4,
-      "artist": "Bárbara Bandeira"
+      "artist": "ÁTOA"
+    },
+    {
+      "name": "És do mundo",
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais/_/%C3%89s+do+mundo",
+      "count": 4,
+      "artist": "João Pedro Pais"
     }
   ]
 }
