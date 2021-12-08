@@ -4,6 +4,14 @@ isListing: true
 ---
 
 <style>
+  body {
+    background-image: url(https://cdn.hacdias.com/u/4881205b69fcf736de81c79c8578b4db43a054167861cced3291ae564329ef92.gif);
+  }
+
+  #navbar {
+    background: #398463;
+  }
+
   figure.me {
     max-width: 7rem;
     margin-top: 0rem;
@@ -20,6 +28,8 @@ isListing: true
 ![Me!](https://hacdias.com/me-256.jpg?class=right+me)
 
 Born in Portugal 🇵🇹. I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working with [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
+
+<small>Background credits: [Snack Studio](https://giphy.com/snackstudio).</small>
 
 ### ☄️ Latest {#latest}
 
