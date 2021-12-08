@@ -16,11 +16,7 @@ which is a really nice and open event you can go to and present! If you're inter
 
 Here's the talk:
 
-<div class="embed video-player">
-  <div>
-    <iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube-nocookie.com/embed/EmxUyuCD37Q" allowfullscreen frameborder="0"></iframe>
-  </div>
-</div>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube-nocookie.com/embed/EmxUyuCD37Q" allowfullscreen frameborder="0"></iframe>
 
 The [slides deck](https://cdn.hacdias.com/u/2019-12-quick-dive-into-dweb-ipfs.pdf).
 

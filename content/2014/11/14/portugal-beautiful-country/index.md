@@ -18,11 +18,7 @@ In the last summer, I've been visiting various places in my country, Portugal. O
 
 After seeing this amazing city, I have searched about this city and I discover that Évora has some places that are considered World Heritage since 1986.
 
-<div class="embed video-player">
-  <div>
-    <iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube-nocookie.com/embed/nXWNG55qUDY" allowfullscreen frameborder="0"></iframe>
-  </div>
-</div>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube-nocookie.com/embed/nXWNG55qUDY" allowfullscreen frameborder="0"></iframe>
 
 The portugueses thinks that his own country - Portugal - is horrible and that have too many defects. Yes, it is true, but the portugueses only saw the "dark side" and not the "light side".
 
