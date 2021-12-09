@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Adele",
-      "count": 22,
+      "count": 25,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Amor Electro",
-      "count": 22,
+      "count": 23,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "João Pedro Pais",
-      "count": 14,
+      "count": 10,
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
@@ -21,14 +21,19 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
+      "name": "Troye Sivan",
+      "count": 10,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
       "name": "Grimes",
       "count": 9,
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Fernando Daniel",
+      "name": "Froukje",
       "count": 8,
-      "url": "https://www.last.fm/music/Fernando+Daniel"
+      "url": "https://www.last.fm/music/Froukje"
     },
     {
       "name": "Allie X",
@@ -36,51 +41,46 @@
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
-      "name": "Froukje",
-      "count": 7,
-      "url": "https://www.last.fm/music/Froukje"
+      "name": "Bárbara Bandeira",
+      "count": 6,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
-      "name": "Cláudia Pascoal",
+      "name": "Fernando Daniel",
       "count": 6,
-      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal"
-    },
-    {
-      "name": "The Gift",
-      "count": 6,
-      "url": "https://www.last.fm/music/The+Gift"
+      "url": "https://www.last.fm/music/Fernando+Daniel"
     }
   ],
   "tracks": [
     {
-      "name": "A Máquina (Acordou)",
-      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
-      "count": 8,
-      "artist": "Amor Electro"
-    },
-    {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 7,
+      "count": 8,
       "artist": "Froukje"
     },
     {
-      "name": "O Jardim",
-      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
+      "name": "My Little Love",
+      "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
       "count": 6,
-      "artist": "Cláudia Pascoal"
+      "artist": "Adele"
+    },
+    {
+      "name": "A Máquina (Acordou)",
+      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
+      "count": 6,
+      "artist": "Amor Electro"
     },
     {
       "name": "Onde Vais (feat. Carminho)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 5,
+      "count": 6,
       "artist": "Bárbara Bandeira"
     },
     {
-      "name": "O amor é mágico",
-      "url": "https://www.last.fm/music/Expensive+Soul/_/O+amor+%C3%A9+m%C3%A1gico",
+      "name": "O Jardim",
+      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
       "count": 5,
-      "artist": "Expensive Soul"
+      "artist": "Cláudia Pascoal"
     },
     {
       "name": "Flesh without Blood",
@@ -89,10 +89,10 @@
       "artist": "Grimes"
     },
     {
-      "name": "My Little Love",
-      "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
+      "name": "Papel Principal",
+      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
       "count": 4,
-      "artist": "Adele"
+      "artist": "Adelaide Ferreira"
     },
     {
       "name": "Rising Tide",
@@ -101,16 +101,16 @@
       "artist": "Allie X"
     },
     {
-      "name": "Hoje",
-      "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
+      "name": "Miúda do café",
+      "url": "https://www.last.fm/music/Amor+Electro/_/Mi%C3%BAda+do+caf%C3%A9",
       "count": 4,
-      "artist": "ÁTOA"
+      "artist": "Amor Electro"
     },
     {
-      "name": "És do mundo",
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais/_/%C3%89s+do+mundo",
+      "name": "Rosa Sangue",
+      "url": "https://www.last.fm/music/Amor+Electro/_/Rosa+Sangue",
       "count": 4,
-      "artist": "João Pedro Pais"
+      "artist": "Amor Electro"
     }
   ]
 }
