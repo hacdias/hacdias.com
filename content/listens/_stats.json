@@ -1,13 +1,18 @@
 {
   "artists": [
     {
+      "name": "Troye Sivan",
+      "count": 36,
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
       "name": "Adele",
       "count": 25,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Amor Electro",
-      "count": 23,
+      "count": 21,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
@@ -21,9 +26,14 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Troye Sivan",
-      "count": 10,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "name": "Allie X",
+      "count": 9,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
+      "name": "Froukje",
+      "count": 9,
+      "url": "https://www.last.fm/music/Froukje"
     },
     {
       "name": "Grimes",
@@ -31,31 +41,21 @@
       "url": "https://www.last.fm/music/Grimes"
     },
     {
-      "name": "Froukje",
-      "count": 8,
-      "url": "https://www.last.fm/music/Froukje"
-    },
-    {
-      "name": "Allie X",
-      "count": 7,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
       "name": "Bárbara Bandeira",
       "count": 6,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
-      "name": "Fernando Daniel",
+      "name": "Charli XCX",
       "count": 6,
-      "url": "https://www.last.fm/music/Fernando+Daniel"
+      "url": "https://www.last.fm/music/Charli+XCX"
     }
   ],
   "tracks": [
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 8,
+      "count": 9,
       "artist": "Froukje"
     },
     {
@@ -65,16 +65,16 @@
       "artist": "Adele"
     },
     {
-      "name": "A Máquina (Acordou)",
-      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
-      "count": 6,
-      "artist": "Amor Electro"
-    },
-    {
       "name": "Onde Vais (feat. Carminho)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
       "count": 6,
       "artist": "Bárbara Bandeira"
+    },
+    {
+      "name": "A Máquina (Acordou)",
+      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
+      "count": 5,
+      "artist": "Amor Electro"
     },
     {
       "name": "O Jardim",
