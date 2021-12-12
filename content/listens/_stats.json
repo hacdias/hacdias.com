@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 35,
+      "count": 37,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Adele",
-      "count": 29,
+      "count": 25,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Amor Electro",
-      "count": 16,
+      "count": 11,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
@@ -21,24 +21,9 @@
       "url": "https://www.last.fm/music/Froukje"
     },
     {
-      "name": "Grimes",
-      "count": 9,
-      "url": "https://www.last.fm/music/Grimes"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 9,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Bárbara Bandeira",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
-    },
-    {
-      "name": "Allie X",
-      "count": 7,
-      "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Alec Benjamin",
@@ -46,9 +31,24 @@
       "url": "https://www.last.fm/music/Alec+Benjamin"
     },
     {
+      "name": "Allie X",
+      "count": 5,
+      "url": "https://www.last.fm/music/Allie+X"
+    },
+    {
       "name": "Charli XCX",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
+      "name": "Grimes",
+      "count": 5,
+      "url": "https://www.last.fm/music/Grimes"
+    },
+    {
+      "name": "João Pedro Pais",
+      "count": 5,
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     }
   ],
   "tracks": [
@@ -61,13 +61,19 @@
     {
       "name": "Onde Vais (feat. Carminho)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 8,
+      "count": 9,
       "artist": "Bárbara Bandeira"
+    },
+    {
+      "name": "Fun",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
+      "count": 7,
+      "artist": "Troye Sivan"
     },
     {
       "name": "My Little Love",
       "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
-      "count": 7,
+      "count": 6,
       "artist": "Adele"
     },
     {
@@ -75,6 +81,12 @@
       "url": "https://www.last.fm/music/Grimes/_/Flesh+without+Blood",
       "count": 5,
       "artist": "Grimes"
+    },
+    {
+      "name": "Kindness",
+      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
+      "count": 5,
+      "artist": "MØ"
     },
     {
       "name": "Papel Principal",
@@ -85,32 +97,20 @@
     {
       "name": "Easy on Me",
       "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
-      "count": 4,
+      "count": 3,
       "artist": "Adele"
     },
     {
-      "name": "Rising Tide",
-      "url": "https://www.last.fm/music/Allie+X/_/Rising+Tide",
-      "count": 4,
-      "artist": "Allie X"
+      "name": "Strangers by Nature",
+      "url": "https://www.last.fm/music/Adele/_/Strangers+by+Nature",
+      "count": 3,
+      "artist": "Adele"
     },
     {
       "name": "A Máquina (Acordou)",
       "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
-      "count": 4,
+      "count": 3,
       "artist": "Amor Electro"
-    },
-    {
-      "name": "O Jardim",
-      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
-      "count": 4,
-      "artist": "Cláudia Pascoal"
-    },
-    {
-      "name": "Kindness",
-      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
-      "count": 4,
-      "artist": "MØ"
     }
   ]
 }
