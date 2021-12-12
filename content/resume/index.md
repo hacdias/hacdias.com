@@ -1,6 +1,7 @@
 ---
 title: Resume
 noShowInteractions: true
+noSendInteractions: true
 ---
 
 <!--more-->
@@ -89,7 +90,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 ### Caddy Plugins <small>[2015 - 2020]</small>
 
 - [Caddy](https://caddyserver.com/) is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.
-- Built [multiple plugins](https://hacdias.com/articles/2015/09/caddy-plugins/) for Caddy to add functionalities requested by the community.
+- Built [multiple plugins](https://hacdias.com/projects/caddy-plugins) for Caddy to add functionalities requested by the community.
 - Plugins functionalities include: on-the-fly minification, WebDav support and installation as a service.
 - Over 50 000 downloads. <!-- TODO; maybe get better estimate -->
 
@@ -119,7 +120,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 - 6th place on National Olympiad in Informatics <small>[2017] [[website](http://oni.dcc.fc.up.pt/2017/)]</small>
 - 10th place on National Olympiad in Informatics <small>[2016] [[website](http://oni.dcc.fc.up.pt/2016/)]</small>
-- Deputy at District’s Youth Parliament <small>[2016] [[website](https://jovens.parlamento.pt/index_2016.html)]</small>
+- Deputy at District’s Youth Parliament <small>[2016] [[website](https://app.parlamento.pt/Webjovem2016/index.html)]</small>
 - Deputy at District’s Youth Parliament <small>[2013] [[website](https://app.parlamento.pt/Webjovem2013/index.html)]</small>
 - Secretary of National Youth Parliament <small>[2012] [[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
 - Secretary of District’s Youth Parliament <small>[2012] [[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
@@ -128,7 +129,9 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 - Highest GPA of 3rd Cycle (4.78 out of 5) <small>[2014]</small>
 - Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small> -->
 
+<!--
 ## Certifications and Courses
-<!-- Remove? -->
+
 - MCB80x: Fundamentals of Neuroscience <small>[June 2020] [[certificate](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
 - IELTS Academic (7.5 out of 9.0, C1) <small>[September 2019]</small>
+-->
