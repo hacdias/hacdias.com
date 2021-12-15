@@ -2,43 +2,43 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 40,
+      "count": 64,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Adele",
-      "count": 25,
-      "url": "https://www.last.fm/music/Adele"
-    },
-    {
       "name": "Amor Electro",
-      "count": 14,
+      "count": 9,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "Bárbara Bandeira",
-      "count": 10,
+      "count": 9,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
+      "name": "Halsey",
+      "count": 9,
+      "url": "https://www.last.fm/music/Halsey"
+    },
+    {
+      "name": "Adele",
+      "count": 8,
+      "url": "https://www.last.fm/music/Adele"
+    },
+    {
       "name": "Froukje",
-      "count": 10,
+      "count": 8,
       "url": "https://www.last.fm/music/Froukje"
     },
     {
       "name": "João Pedro Pais",
-      "count": 9,
+      "count": 7,
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
-      "name": "Allie X",
-      "count": 7,
-      "url": "https://www.last.fm/music/Allie+X"
-    },
-    {
-      "name": "MØ",
-      "count": 7,
-      "url": "https://www.last.fm/music/M%C3%98"
+      "name": "Adelaide Ferreira",
+      "count": 6,
+      "url": "https://www.last.fm/music/Adelaide+Ferreira"
     },
     {
       "name": "Alec Benjamin",
@@ -46,71 +46,71 @@
       "url": "https://www.last.fm/music/Alec+Benjamin"
     },
     {
-      "name": "Cláudia Pascoal",
-      "count": 6,
-      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal"
+      "name": "Expensive Soul",
+      "count": 5,
+      "url": "https://www.last.fm/music/Expensive+Soul"
     }
   ],
   "tracks": [
     {
+      "name": "Fun",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
+      "count": 11,
+      "artist": "Troye Sivan"
+    },
+    {
       "name": "Onde Vais (feat. Carminho)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 10,
+      "count": 9,
       "artist": "Bárbara Bandeira"
+    },
+    {
+      "name": "The Tradition",
+      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
+      "count": 9,
+      "artist": "Halsey"
     },
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 10,
+      "count": 8,
       "artist": "Froukje"
     },
     {
-      "name": "Fun",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
-      "count": 10,
-      "artist": "Troye Sivan"
+      "name": "Papel Principal",
+      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
+      "count": 6,
+      "artist": "Adelaide Ferreira"
+    },
+    {
+      "name": "O amor é mágico",
+      "url": "https://www.last.fm/music/Expensive+Soul/_/O+amor+%C3%A9+m%C3%A1gico",
+      "count": 5,
+      "artist": "Expensive Soul"
     },
     {
       "name": "Kindness",
       "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
-      "count": 7,
+      "count": 5,
       "artist": "MØ"
-    },
-    {
-      "name": "My Little Love",
-      "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
-      "count": 6,
-      "artist": "Adele"
     },
     {
       "name": "A Máquina (Acordou)",
       "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
-      "count": 6,
+      "count": 4,
       "artist": "Amor Electro"
     },
     {
       "name": "O Jardim",
       "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
-      "count": 6,
+      "count": 4,
       "artist": "Cláudia Pascoal"
     },
     {
-      "name": "Papel Principal",
-      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
-      "count": 5,
-      "artist": "Adelaide Ferreira"
-    },
-    {
-      "name": "Rising Tide",
-      "url": "https://www.last.fm/music/Allie+X/_/Rising+Tide",
+      "name": "Happy Little Pill",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
       "count": 4,
-      "artist": "Allie X"
-    },
-    {
-      "name": "O amor é mágico",
-      "url": "https://www.last.fm/music/Expensive+Soul/_/O+amor+%C3%A9+m%C3%A1gico",
-      "count": 4,
-      "artist": "Expensive Soul"
+      "artist": "Troye Sivan"
     }
   ]
 }
