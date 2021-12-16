@@ -2,18 +2,8 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 64,
+      "count": 61,
       "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 9,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Bárbara Bandeira",
-      "count": 9,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
       "name": "Halsey",
@@ -21,13 +11,13 @@
       "url": "https://www.last.fm/music/Halsey"
     },
     {
-      "name": "Adele",
+      "name": "Bárbara Bandeira",
       "count": 8,
-      "url": "https://www.last.fm/music/Adele"
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
       "name": "Froukje",
-      "count": 8,
+      "count": 7,
       "url": "https://www.last.fm/music/Froukje"
     },
     {
@@ -36,14 +26,24 @@
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
-      "name": "Adelaide Ferreira",
-      "count": 6,
-      "url": "https://www.last.fm/music/Adelaide+Ferreira"
-    },
-    {
       "name": "Alec Benjamin",
       "count": 6,
       "url": "https://www.last.fm/music/Alec+Benjamin"
+    },
+    {
+      "name": "Amor Electro",
+      "count": 6,
+      "url": "https://www.last.fm/music/Amor+Electro"
+    },
+    {
+      "name": "Marina",
+      "count": 6,
+      "url": "https://www.last.fm/music/Marina"
+    },
+    {
+      "name": "Adele",
+      "count": 5,
+      "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Expensive Soul",
@@ -59,28 +59,28 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Onde Vais (feat. Carminho)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 9,
-      "artist": "Bárbara Bandeira"
-    },
-    {
       "name": "The Tradition",
       "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
       "count": 9,
       "artist": "Halsey"
     },
     {
+      "name": "Onde Vais (feat. Carminho)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
+      "count": 8,
+      "artist": "Bárbara Bandeira"
+    },
+    {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 8,
+      "count": 7,
       "artist": "Froukje"
     },
     {
-      "name": "Papel Principal",
-      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
+      "name": "Happy Little Pill",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
       "count": 6,
-      "artist": "Adelaide Ferreira"
+      "artist": "Troye Sivan"
     },
     {
       "name": "O amor é mágico",
@@ -95,6 +95,12 @@
       "artist": "MØ"
     },
     {
+      "name": "Papel Principal",
+      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
+      "count": 4,
+      "artist": "Adelaide Ferreira"
+    },
+    {
       "name": "A Máquina (Acordou)",
       "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
       "count": 4,
@@ -105,12 +111,6 @@
       "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
       "count": 4,
       "artist": "Cláudia Pascoal"
-    },
-    {
-      "name": "Happy Little Pill",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 4,
-      "artist": "Troye Sivan"
     }
   ]
 }
