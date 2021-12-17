@@ -1,0 +1,22 @@
+{
+  "targets": [
+    "https://micro.blog/maique/12275514"
+  ],
+  "context": {
+    "author": {
+      "name": "maique",
+      "photo": "https://cdn.hacdias.com/wm/b0db83ad62942cdd6890c1e1fb5d132624453a5c555dec44a6d82f8c13ba102b.jpg",
+      "type": "card",
+      "url": "https://micro.blog/maique"
+    },
+    "content": "@hacdias The exemption seems to be fading… sad, but true.",
+    "in-reply-to": [
+      "https://hacdias.com/2021/12/16/no-kisses"
+    ],
+    "post-type": "reply",
+    "published": "2021-12-16T21:49:09Z",
+    "type": "entry",
+    "url": "https://micro.blog/maique/12275514"
+  },
+  "webmentions": []
+}
