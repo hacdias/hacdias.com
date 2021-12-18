@@ -2,18 +2,18 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 38,
+      "count": 45,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Halsey",
-      "count": 9,
+      "count": 10,
       "url": "https://www.last.fm/music/Halsey"
     },
     {
-      "name": "Bárbara Bandeira",
+      "name": "Adele",
       "count": 7,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
+      "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "João Pedro Pais",
@@ -21,24 +21,24 @@
       "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
-      "name": "Alec Benjamin",
-      "count": 6,
-      "url": "https://www.last.fm/music/Alec+Benjamin"
-    },
-    {
       "name": "Amor Electro",
       "count": 6,
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
-      "name": "Froukje",
+      "name": "Bárbara Bandeira",
       "count": 6,
-      "url": "https://www.last.fm/music/Froukje"
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
-      "name": "Adele",
-      "count": 5,
-      "url": "https://www.last.fm/music/Adele"
+      "name": "Marina",
+      "count": 6,
+      "url": "https://www.last.fm/music/Marina"
+    },
+    {
+      "name": "MØ",
+      "count": 6,
+      "url": "https://www.last.fm/music/M%C3%98"
     },
     {
       "name": "Expensive Soul",
@@ -46,16 +46,16 @@
       "url": "https://www.last.fm/music/Expensive+Soul"
     },
     {
-      "name": "MØ",
+      "name": "Froukje",
       "count": 5,
-      "url": "https://www.last.fm/music/M%C3%98"
+      "url": "https://www.last.fm/music/Froukje"
     }
   ],
   "tracks": [
     {
       "name": "The Tradition",
       "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 9,
+      "count": 10,
       "artist": "Halsey"
     },
     {
@@ -65,22 +65,22 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Onde Vais (feat. Carminho)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 7,
-      "artist": "Bárbara Bandeira"
-    },
-    {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 7,
+      "count": 9,
       "artist": "Troye Sivan"
     },
     {
-      "name": "Niets Tussen",
-      "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
+      "name": "Onde Vais (feat. Carminho)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
       "count": 6,
-      "artist": "Froukje"
+      "artist": "Bárbara Bandeira"
+    },
+    {
+      "name": "Kindness",
+      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
+      "count": 6,
+      "artist": "MØ"
     },
     {
       "name": "O amor é mágico",
@@ -89,10 +89,10 @@
       "artist": "Expensive Soul"
     },
     {
-      "name": "Kindness",
-      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
+      "name": "Niets Tussen",
+      "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
       "count": 5,
-      "artist": "MØ"
+      "artist": "Froukje"
     },
     {
       "name": "A Máquina (Acordou)",
