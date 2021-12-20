@@ -2,18 +2,18 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 46,
+      "count": 48,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Halsey",
-      "count": 11,
-      "url": "https://www.last.fm/music/Halsey"
+      "name": "Adele",
+      "count": 18,
+      "url": "https://www.last.fm/music/Adele"
     },
     {
-      "name": "Adele",
-      "count": 8,
-      "url": "https://www.last.fm/music/Adele"
+      "name": "Halsey",
+      "count": 10,
+      "url": "https://www.last.fm/music/Halsey"
     },
     {
       "name": "Marina",
@@ -21,96 +21,96 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "João Pedro Pais",
-      "count": 7,
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
-    },
-    {
-      "name": "Bárbara Bandeira",
-      "count": 6,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
-    },
-    {
       "name": "Froukje",
-      "count": 6,
+      "count": 5,
       "url": "https://www.last.fm/music/Froukje"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 5,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Expensive Soul",
-      "count": 5,
-      "url": "https://www.last.fm/music/Expensive+Soul"
     },
     {
       "name": "Kim Petras",
       "count": 5,
       "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    {
+      "name": "Lady Gaga",
+      "count": 5,
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    {
+      "name": "Bárbara Bandeira",
+      "count": 4,
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
+    },
+    {
+      "name": "Dorian Electra",
+      "count": 3,
+      "url": "https://www.last.fm/music/Dorian+Electra"
+    },
+    {
+      "name": "Expensive Soul",
+      "count": 3,
+      "url": "https://www.last.fm/music/Expensive+Soul"
     }
   ],
   "tracks": [
     {
-      "name": "The Tradition",
-      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 11,
-      "artist": "Halsey"
-    },
-    {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 10,
+      "count": 13,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "The Tradition",
+      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
+      "count": 10,
+      "artist": "Halsey"
     },
     {
       "name": "Fun",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
-      "count": 7,
+      "count": 6,
       "artist": "Troye Sivan"
     },
     {
       "name": "Onde Vais (feat. Carminho)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 6,
+      "count": 4,
       "artist": "Bárbara Bandeira"
-    },
-    {
-      "name": "O amor é mágico",
-      "url": "https://www.last.fm/music/Expensive+Soul/_/O+amor+%C3%A9+m%C3%A1gico",
-      "count": 5,
-      "artist": "Expensive Soul"
     },
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 5,
+      "count": 4,
       "artist": "Froukje"
-    },
-    {
-      "name": "Kindness",
-      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
-      "count": 5,
-      "artist": "MØ"
-    },
-    {
-      "name": "A Máquina (Acordou)",
-      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
-      "count": 4,
-      "artist": "Amor Electro"
-    },
-    {
-      "name": "O Jardim",
-      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
-      "count": 4,
-      "artist": "Cláudia Pascoal"
     },
     {
       "name": "Lucky Strike",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
       "count": 4,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "O amor é mágico",
+      "url": "https://www.last.fm/music/Expensive+Soul/_/O+amor+%C3%A9+m%C3%A1gico",
+      "count": 3,
+      "artist": "Expensive Soul"
+    },
+    {
+      "name": "Angel Baby",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+      "count": 3,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Papel Principal",
+      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
+      "count": 2,
+      "artist": "Adelaide Ferreira"
+    },
+    {
+      "name": "Hold On",
+      "url": "https://www.last.fm/music/Adele/_/Hold+On",
+      "count": 2,
+      "artist": "Adele"
     }
   ]
 }
