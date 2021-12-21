@@ -2,23 +2,23 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 48,
+      "count": 40,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Adele",
-      "count": 18,
+      "count": 19,
       "url": "https://www.last.fm/music/Adele"
-    },
-    {
-      "name": "Halsey",
-      "count": 10,
-      "url": "https://www.last.fm/music/Halsey"
     },
     {
       "name": "Marina",
       "count": 8,
       "url": "https://www.last.fm/music/Marina"
+    },
+    {
+      "name": "Halsey",
+      "count": 7,
+      "url": "https://www.last.fm/music/Halsey"
     },
     {
       "name": "Froukje",
@@ -27,41 +27,41 @@
     },
     {
       "name": "Kim Petras",
-      "count": 5,
+      "count": 4,
       "url": "https://www.last.fm/music/Kim+Petras"
     },
     {
-      "name": "Lady Gaga",
-      "count": 5,
-      "url": "https://www.last.fm/music/Lady+Gaga"
-    },
-    {
       "name": "Bárbara Bandeira",
-      "count": 4,
+      "count": 3,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
-      "name": "Dorian Electra",
+      "name": "Living Room",
       "count": 3,
-      "url": "https://www.last.fm/music/Dorian+Electra"
+      "url": "https://www.last.fm/music/Living+Room"
     },
     {
-      "name": "Expensive Soul",
+      "name": "Madilyn",
       "count": 3,
-      "url": "https://www.last.fm/music/Expensive+Soul"
+      "url": "https://www.last.fm/music/Madilyn"
+    },
+    {
+      "name": "Perry Goldfish",
+      "count": 3,
+      "url": "https://www.last.fm/music/Perry+Goldfish"
     }
   ],
   "tracks": [
     {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 13,
+      "count": 12,
       "artist": "Troye Sivan"
     },
     {
       "name": "The Tradition",
       "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 10,
+      "count": 7,
       "artist": "Halsey"
     },
     {
@@ -71,28 +71,16 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Onde Vais (feat. Carminho)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 4,
-      "artist": "Bárbara Bandeira"
-    },
-    {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
       "count": 4,
       "artist": "Froukje"
     },
     {
-      "name": "Lucky Strike",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
-      "count": 4,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "O amor é mágico",
-      "url": "https://www.last.fm/music/Expensive+Soul/_/O+amor+%C3%A9+m%C3%A1gico",
+      "name": "Onde Vais (feat. Carminho)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
       "count": 3,
-      "artist": "Expensive Soul"
+      "artist": "Bárbara Bandeira"
     },
     {
       "name": "Angel Baby",
@@ -101,14 +89,26 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Papel Principal",
-      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
-      "count": 2,
-      "artist": "Adelaide Ferreira"
+      "name": "Lucky Strike",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
+      "count": 3,
+      "artist": "Troye Sivan"
     },
     {
       "name": "Hold On",
       "url": "https://www.last.fm/music/Adele/_/Hold+On",
+      "count": 2,
+      "artist": "Adele"
+    },
+    {
+      "name": "I Drink Wine",
+      "url": "https://www.last.fm/music/Adele/_/I+Drink+Wine",
+      "count": 2,
+      "artist": "Adele"
+    },
+    {
+      "name": "My Little Love",
+      "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
       "count": 2,
       "artist": "Adele"
     }
