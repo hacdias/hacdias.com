@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 40,
+      "count": 24,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Adele",
-      "count": 19,
+      "count": 18,
       "url": "https://www.last.fm/music/Adele"
     },
     {
@@ -17,23 +17,23 @@
     },
     {
       "name": "Halsey",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Halsey"
     },
     {
-      "name": "Froukje",
+      "name": "Miley Cyrus",
       "count": 5,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    {
+      "name": "Froukje",
+      "count": 4,
       "url": "https://www.last.fm/music/Froukje"
     },
     {
       "name": "Kim Petras",
       "count": 4,
       "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
-      "name": "Bárbara Bandeira",
-      "count": 3,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
       "name": "Living Room",
@@ -55,13 +55,13 @@
     {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 12,
+      "count": 11,
       "artist": "Troye Sivan"
     },
     {
       "name": "The Tradition",
       "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 7,
+      "count": 6,
       "artist": "Halsey"
     },
     {
@@ -73,26 +73,8 @@
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 4,
+      "count": 3,
       "artist": "Froukje"
-    },
-    {
-      "name": "Onde Vais (feat. Carminho)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 3,
-      "artist": "Bárbara Bandeira"
-    },
-    {
-      "name": "Angel Baby",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-      "count": 3,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Lucky Strike",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
-      "count": 3,
-      "artist": "Troye Sivan"
     },
     {
       "name": "Hold On",
@@ -111,6 +93,24 @@
       "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
       "count": 2,
       "artist": "Adele"
+    },
+    {
+      "name": "Oh My God",
+      "url": "https://www.last.fm/music/Adele/_/Oh+My+God",
+      "count": 2,
+      "artist": "Adele"
+    },
+    {
+      "name": "Onde Vais (feat. Carminho)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
+      "count": 2,
+      "artist": "Bárbara Bandeira"
+    },
+    {
+      "name": "Sister Ray",
+      "url": "https://www.last.fm/music/Foxes/_/Sister+Ray",
+      "count": 2,
+      "artist": "Foxes"
     }
   ]
 }
