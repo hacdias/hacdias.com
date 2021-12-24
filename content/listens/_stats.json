@@ -12,12 +12,22 @@
     },
     {
       "name": "Halsey",
-      "count": 8,
+      "count": 10,
       "url": "https://www.last.fm/music/Halsey"
     },
     {
+      "name": "Froukje",
+      "count": 8,
+      "url": "https://www.last.fm/music/Froukje"
+    },
+    {
+      "name": "Dolly Parton",
+      "count": 6,
+      "url": "https://www.last.fm/music/Dolly+Parton"
+    },
+    {
       "name": "Marina",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Marina"
     },
     {
@@ -26,67 +36,63 @@
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Froukje",
-      "count": 5,
-      "url": "https://www.last.fm/music/Froukje"
-    },
-    {
-      "name": "Kim Petras",
-      "count": 5,
-      "url": "https://www.last.fm/music/Kim+Petras"
-    },
-    {
-      "name": "Dolly Parton",
-      "count": 4,
-      "url": "https://www.last.fm/music/Dolly+Parton"
-    },
-    {
       "name": "Bárbara Bandeira",
-      "count": 3,
+      "count": 5,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
-      "name": "Imagine Dragons",
+      "name": "João Pedro Pais",
+      "count": 4,
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
+    },
+    {
+      "name": "Fernando Daniel",
       "count": 3,
-      "url": "https://www.last.fm/music/Imagine+Dragons"
+      "url": "https://www.last.fm/music/Fernando+Daniel"
     }
   ],
   "tracks": [
     {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 12,
+      "count": 11,
       "artist": "Troye Sivan"
     },
     {
       "name": "The Tradition",
       "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 8,
+      "count": 10,
       "artist": "Halsey"
     },
     {
       "name": "Fun",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
-      "count": 8,
+      "count": 9,
       "artist": "Troye Sivan"
     },
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 4,
+      "count": 7,
       "artist": "Froukje"
     },
     {
       "name": "Onde Vais (feat. Carminho)",
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 3,
+      "count": 5,
       "artist": "Bárbara Bandeira"
     },
     {
       "name": "Jolene - Destructo Remix",
       "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
-      "count": 3,
+      "count": 5,
       "artist": "Dolly Parton"
+    },
+    {
+      "name": "Kindness",
+      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
+      "count": 3,
+      "artist": "MØ"
     },
     {
       "name": "Angel Baby",
@@ -103,12 +109,6 @@
     {
       "name": "I Drink Wine",
       "url": "https://www.last.fm/music/Adele/_/I+Drink+Wine",
-      "count": 2,
-      "artist": "Adele"
-    },
-    {
-      "name": "My Little Love",
-      "url": "https://www.last.fm/music/Adele/_/My+Little+Love",
       "count": 2,
       "artist": "Adele"
     }
