@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 28,
+      "count": 20,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Adele",
-      "count": 18,
+      "count": 12,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Halsey",
-      "count": 10,
+      "count": 9,
       "url": "https://www.last.fm/music/Halsey"
     },
     {
@@ -21,14 +21,14 @@
       "url": "https://www.last.fm/music/Froukje"
     },
     {
+      "name": "João Pedro Pais",
+      "count": 7,
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
+    },
+    {
       "name": "Dolly Parton",
       "count": 6,
       "url": "https://www.last.fm/music/Dolly+Parton"
-    },
-    {
-      "name": "Marina",
-      "count": 6,
-      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Miley Cyrus",
@@ -41,40 +41,40 @@
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
-      "name": "João Pedro Pais",
-      "count": 4,
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
-    },
-    {
       "name": "Fernando Daniel",
       "count": 3,
       "url": "https://www.last.fm/music/Fernando+Daniel"
+    },
+    {
+      "name": "Imagine Dragons",
+      "count": 3,
+      "url": "https://www.last.fm/music/Imagine+Dragons"
     }
   ],
   "tracks": [
     {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 11,
+      "count": 10,
       "artist": "Troye Sivan"
     },
     {
       "name": "The Tradition",
       "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 10,
-      "artist": "Halsey"
-    },
-    {
-      "name": "Fun",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
       "count": 9,
-      "artist": "Troye Sivan"
+      "artist": "Halsey"
     },
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
       "count": 7,
       "artist": "Froukje"
+    },
+    {
+      "name": "Fun",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
+      "count": 7,
+      "artist": "Troye Sivan"
     },
     {
       "name": "Onde Vais (feat. Carminho)",
@@ -89,28 +89,28 @@
       "artist": "Dolly Parton"
     },
     {
-      "name": "Kindness",
-      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
-      "count": 3,
-      "artist": "MØ"
-    },
-    {
-      "name": "Angel Baby",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-      "count": 3,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Hold On",
-      "url": "https://www.last.fm/music/Adele/_/Hold+On",
+      "name": "Papel Principal",
+      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
       "count": 2,
-      "artist": "Adele"
+      "artist": "Adelaide Ferreira"
     },
     {
-      "name": "I Drink Wine",
-      "url": "https://www.last.fm/music/Adele/_/I+Drink+Wine",
+      "name": "A Máquina (Acordou)",
+      "url": "https://www.last.fm/music/Amor+Electro/_/A+M%C3%A1quina+(Acordou)",
       "count": 2,
-      "artist": "Adele"
+      "artist": "Amor Electro"
+    },
+    {
+      "name": "Hoje",
+      "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
+      "count": 2,
+      "artist": "ÁTOA"
+    },
+    {
+      "name": "O Jardim",
+      "url": "https://www.last.fm/music/Cl%C3%A1udia+Pascoal/_/O+Jardim",
+      "count": 2,
+      "artist": "Cláudia Pascoal"
     }
   ]
 }
