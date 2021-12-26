@@ -2,23 +2,18 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 20,
+      "count": 16,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Adele",
-      "count": 12,
+      "count": 11,
       "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Halsey",
-      "count": 9,
+      "count": 7,
       "url": "https://www.last.fm/music/Halsey"
-    },
-    {
-      "name": "Froukje",
-      "count": 8,
-      "url": "https://www.last.fm/music/Froukje"
     },
     {
       "name": "João Pedro Pais",
@@ -31,13 +26,18 @@
       "url": "https://www.last.fm/music/Dolly+Parton"
     },
     {
+      "name": "Froukje",
+      "count": 6,
+      "url": "https://www.last.fm/music/Froukje"
+    },
+    {
       "name": "Miley Cyrus",
       "count": 6,
       "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
       "name": "Bárbara Bandeira",
-      "count": 5,
+      "count": 4,
       "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
     },
     {
@@ -55,20 +55,14 @@
     {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 10,
+      "count": 8,
       "artist": "Troye Sivan"
     },
     {
       "name": "The Tradition",
       "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 9,
-      "artist": "Halsey"
-    },
-    {
-      "name": "Niets Tussen",
-      "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
       "count": 7,
-      "artist": "Froukje"
+      "artist": "Halsey"
     },
     {
       "name": "Fun",
@@ -77,16 +71,22 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Onde Vais (feat. Carminho)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 5,
-      "artist": "Bárbara Bandeira"
+      "name": "Niets Tussen",
+      "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
+      "count": 6,
+      "artist": "Froukje"
     },
     {
       "name": "Jolene - Destructo Remix",
       "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
       "count": 5,
       "artist": "Dolly Parton"
+    },
+    {
+      "name": "Onde Vais (feat. Carminho)",
+      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
+      "count": 4,
+      "artist": "Bárbara Bandeira"
     },
     {
       "name": "Papel Principal",
