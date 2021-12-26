@@ -4,15 +4,6 @@ isListing: true
 ---
 
 <style>
-  body {
-    background-image: url(https://cdn.hacdias.com/u/74ae2f415c60a192d8bf3b72f5afb111eb4da097dca3d336675ab4f4e65c1627.jpg);
-    background-size: 30rem;
-  }
-
-  #navbar {
-    background: #247b50;
-  }
-
   figure.me {
     max-width: 7rem;
     margin-top: 0rem;
@@ -28,9 +19,7 @@ isListing: true
 
 ![Me!](https://hacdias.com/me-256.jpg?class=right+me)
 
-Born in Portugal 🇵🇹. I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working with [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
-
-<small>Background credits: [Vecteezy](https://www.vecteezy.com/free-vector/christmas-pattern).</small>
+Born in Portugal 🇵🇹. I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working part-time with [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
 
 ### ☄️ Latest {#latest}
 
