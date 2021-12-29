@@ -136,6 +136,25 @@
       "wm-received": "2021-12-28T20:59:39Z",
       "wm-source": "https://brid.gy/repost/twitter/hacdias/1475916735257665552/1475918391311536137",
       "wm-target": "https://hacdias.com/2021/12/28/ynivyrypuj"
+    },
+    {
+      "author": {
+        "name": "Wilson Capitão ☄️",
+        "photo": "https://cdn.hacdias.com/wm/b78654be694a332221927850b91b769a149f19258ec8949d0c2b544f38c642a1.jpg",
+        "type": "card",
+        "url": "https://twitter.com/CapitaoWilson"
+      },
+      "like-of": "https://hacdias.com/2021/12/28/ynivyrypuj",
+      "post-type": "like",
+      "published": "2021-12-29T01:13:01Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1475916735257665552#favorited-by-801554103398727680",
+      "wm-id": 1323422,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2021-12-29T01:13:01Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1475916735257665552/801554103398727680",
+      "wm-target": "https://hacdias.com/2021/12/28/ynivyrypuj"
     }
   ]
 }
