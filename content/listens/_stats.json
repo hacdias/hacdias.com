@@ -17,13 +17,23 @@
     },
     {
       "name": "Froukje",
-      "count": 8,
+      "count": 9,
       "url": "https://www.last.fm/music/Froukje"
     },
     {
       "name": "Amor Electro",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Amor+Electro"
+    },
+    {
+      "name": "Halsey",
+      "count": 8,
+      "url": "https://www.last.fm/music/Halsey"
+    },
+    {
+      "name": "Manila Luzon",
+      "count": 8,
+      "url": "https://www.last.fm/music/Manila+Luzon"
     },
     {
       "name": "Bárbara Bandeira",
@@ -32,30 +42,20 @@
     },
     {
       "name": "Fernando Daniel",
-      "count": 7,
+      "count": 6,
       "url": "https://www.last.fm/music/Fernando+Daniel"
     },
     {
-      "name": "Halsey",
-      "count": 7,
-      "url": "https://www.last.fm/music/Halsey"
-    },
-    {
-      "name": "Manila Luzon",
+      "name": "MØ",
       "count": 6,
-      "url": "https://www.last.fm/music/Manila+Luzon"
-    },
-    {
-      "name": "ÁTOA",
-      "count": 5,
-      "url": "https://www.last.fm/music/%C3%81TOA"
+      "url": "https://www.last.fm/music/M%C3%98"
     }
   ],
   "tracks": [
     {
       "name": "Jolene - Destructo Remix",
       "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
-      "count": 10,
+      "count": 11,
       "artist": "Dolly Parton"
     },
     {
@@ -67,14 +67,26 @@
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 8,
+      "count": 9,
       "artist": "Froukje"
     },
     {
       "name": "Fun",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
-      "count": 8,
+      "count": 9,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "The Tradition",
+      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
+      "count": 8,
+      "artist": "Halsey"
+    },
+    {
+      "name": "Hot Couture - 10 Year Anniversary Mix",
+      "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
+      "count": 8,
+      "artist": "Manila Luzon"
     },
     {
       "name": "Onde Vais (feat. Carminho)",
@@ -83,16 +95,10 @@
       "artist": "Bárbara Bandeira"
     },
     {
-      "name": "The Tradition",
-      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 7,
-      "artist": "Halsey"
-    },
-    {
-      "name": "Hot Couture - 10 Year Anniversary Mix",
-      "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
+      "name": "Kindness",
+      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
       "count": 6,
-      "artist": "Manila Luzon"
+      "artist": "MØ"
     },
     {
       "name": "A Máquina (Acordou)",
@@ -105,12 +111,6 @@
       "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
       "count": 5,
       "artist": "ÁTOA"
-    },
-    {
-      "name": "Kindness",
-      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
-      "count": 5,
-      "artist": "MØ"
     }
   ]
 }
