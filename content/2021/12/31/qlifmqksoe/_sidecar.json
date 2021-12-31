@@ -1,0 +1,21 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2021/12/2021-12-31-berql",
+    "https://www.youtube.com/watch?v=rGJseovT8ug"
+  ],
+  "context": {
+    "author": {
+      "name": "jlelse’s Blog",
+      "nickname": "en",
+      "photo": "https://cdn.hacdias.com/wm/ff05769865d92301fe7b12f64789769aa82531fe3ba4d4821cf140474380a848.png",
+      "type": "card",
+      "url": "https://jlelse.blog"
+    },
+    "content": "More than 8 hours until midnight and some people are already lighting firecrackers. And this although there is an extra ban on the sale of firecrackers and fireworks because of Corona. 🤦‍♂️",
+    "post-type": "note",
+    "published": "2021-12-31T15:51:00+01:00",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2021/12/2021-12-31-berql"
+  },
+  "webmentions": []
+}
