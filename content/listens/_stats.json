@@ -2,17 +2,17 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 23,
+      "count": 24,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Dolly Parton",
-      "count": 9,
+      "count": 10,
       "url": "https://www.last.fm/music/Dolly+Parton"
     },
     {
       "name": "Manila Luzon",
-      "count": 9,
+      "count": 10,
       "url": "https://www.last.fm/music/Manila+Luzon"
     },
     {
@@ -55,19 +55,19 @@
     {
       "name": "Jolene - Destructo Remix",
       "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
-      "count": 9,
+      "count": 10,
       "artist": "Dolly Parton"
     },
     {
       "name": "Hot Couture - 10 Year Anniversary Mix",
       "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
-      "count": 9,
+      "count": 10,
       "artist": "Manila Luzon"
     },
     {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 8,
+      "count": 9,
       "artist": "Troye Sivan"
     },
     {
