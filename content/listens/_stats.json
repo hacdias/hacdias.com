@@ -2,43 +2,18 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 20,
+      "count": 15,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Manila Luzon",
-      "count": 8,
+      "count": 6,
       "url": "https://www.last.fm/music/Manila+Luzon"
     },
     {
       "name": "Dolly Parton",
-      "count": 7,
+      "count": 5,
       "url": "https://www.last.fm/music/Dolly+Parton"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 5,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Froukje",
-      "count": 5,
-      "url": "https://www.last.fm/music/Froukje"
-    },
-    {
-      "name": "Bárbara Bandeira",
-      "count": 4,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira"
-    },
-    {
-      "name": "Halsey",
-      "count": 4,
-      "url": "https://www.last.fm/music/Halsey"
-    },
-    {
-      "name": "João Pedro Pais",
-      "count": 4,
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
       "name": "Amaranth Cove",
@@ -46,71 +21,96 @@
       "url": "https://www.last.fm/music/Amaranth+Cove"
     },
     {
-      "name": "ÁTOA",
-      "count": 3,
-      "url": "https://www.last.fm/music/%C3%81TOA"
+      "name": "Alesso",
+      "count": 2,
+      "url": "https://www.last.fm/music/Alesso"
+    },
+    {
+      "name": "Benjamin Martins",
+      "count": 2,
+      "url": "https://www.last.fm/music/Benjamin+Martins"
+    },
+    {
+      "name": "Chancla",
+      "count": 2,
+      "url": "https://www.last.fm/music/Chancla"
+    },
+    {
+      "name": "Froukje",
+      "count": 2,
+      "url": "https://www.last.fm/music/Froukje"
+    },
+    {
+      "name": "Guustavv",
+      "count": 2,
+      "url": "https://www.last.fm/music/Guustavv"
+    },
+    {
+      "name": "Halsey",
+      "count": 2,
+      "url": "https://www.last.fm/music/Halsey"
     }
   ],
   "tracks": [
     {
       "name": "Hot Couture - 10 Year Anniversary Mix",
       "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
-      "count": 8,
+      "count": 6,
       "artist": "Manila Luzon"
     },
     {
       "name": "Jolene - Destructo Remix",
       "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
-      "count": 7,
+      "count": 5,
       "artist": "Dolly Parton"
     },
     {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 6,
+      "count": 4,
       "artist": "Troye Sivan"
     },
     {
       "name": "Niets Tussen",
       "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
-      "count": 5,
+      "count": 2,
       "artist": "Froukje"
     },
     {
-      "name": "Fun",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
-      "count": 5,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Onde Vais (feat. Carminho)",
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Bandeira/_/Onde+Vais+(feat.+Carminho)",
-      "count": 4,
-      "artist": "Bárbara Bandeira"
+      "name": "Counting Sheep",
+      "url": "https://www.last.fm/music/Guustavv/_/Counting+Sheep",
+      "count": 2,
+      "artist": "Guustavv"
     },
     {
       "name": "The Tradition",
       "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 4,
+      "count": 2,
       "artist": "Halsey"
     },
     {
-      "name": "Hoje",
-      "url": "https://www.last.fm/music/%C3%81TOA/_/Hoje",
-      "count": 3,
-      "artist": "ÁTOA"
-    },
-    {
-      "name": "Kindness",
-      "url": "https://www.last.fm/music/M%C3%98/_/Kindness",
-      "count": 3,
-      "artist": "MØ"
-    },
-    {
-      "name": "Maple",
-      "url": "https://www.last.fm/music/Aimless/_/Maple",
+      "name": "When you meet a Greek on Omegle",
+      "url": "https://www.last.fm/music/Lingualizer/_/When+you+meet+a+Greek+on+Omegle",
       "count": 2,
-      "artist": "Aimless"
+      "artist": "Lingualizer"
+    },
+    {
+      "name": "October",
+      "url": "https://www.last.fm/music/No+Spirit/_/October",
+      "count": 2,
+      "artist": "No Spirit"
+    },
+    {
+      "name": "Life Aquatic",
+      "url": "https://www.last.fm/music/Phlocalyst/_/Life+Aquatic",
+      "count": 2,
+      "artist": "Phlocalyst"
+    },
+    {
+      "name": "Fun",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
+      "count": 2,
+      "artist": "Troye Sivan"
     }
   ]
 }
