@@ -1,54 +1,54 @@
 {
   "artists": [
     {
-      "name": "Amaranth Cove",
-      "count": 3,
-      "url": "https://www.last.fm/music/Amaranth+Cove"
-    },
-    {
       "name": "Troye Sivan",
-      "count": 3,
+      "count": 10,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Alesso",
-      "count": 2,
-      "url": "https://www.last.fm/music/Alesso"
+      "name": "Lady Gaga",
+      "count": 8,
+      "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Benjamin Martins",
-      "count": 2,
-      "url": "https://www.last.fm/music/Benjamin+Martins"
+      "name": "Adele",
+      "count": 6,
+      "url": "https://www.last.fm/music/Adele"
     },
     {
-      "name": "Dolly Parton",
-      "count": 2,
-      "url": "https://www.last.fm/music/Dolly+Parton"
+      "name": "Amor Electro",
+      "count": 6,
+      "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
-      "name": "Jacob Yoffee",
-      "count": 2,
-      "url": "https://www.last.fm/music/Jacob+Yoffee"
+      "name": "Alec Benjamin",
+      "count": 4,
+      "url": "https://www.last.fm/music/Alec+Benjamin"
     },
     {
-      "name": "Lingualizer",
-      "count": 2,
-      "url": "https://www.last.fm/music/Lingualizer"
+      "name": "João Pedro Pais",
+      "count": 4,
+      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     },
     {
-      "name": "Manila Luzon",
-      "count": 2,
-      "url": "https://www.last.fm/music/Manila+Luzon"
+      "name": "Miley Cyrus",
+      "count": 4,
+      "url": "https://www.last.fm/music/Miley+Cyrus"
     },
     {
-      "name": "Phlocalyst",
-      "count": 2,
-      "url": "https://www.last.fm/music/Phlocalyst"
+      "name": "Pabllo Vittar",
+      "count": 3,
+      "url": "https://www.last.fm/music/Pabllo+Vittar"
     },
     {
-      "name": "12dust",
-      "count": 1,
-      "url": "https://www.last.fm/music/12dust"
+      "name": "RuPaul",
+      "count": 3,
+      "url": "https://www.last.fm/music/RuPaul"
+    },
+    {
+      "name": "Sia",
+      "count": 3,
+      "url": "https://www.last.fm/music/Sia"
     }
   ],
   "tracks": [
@@ -59,16 +59,28 @@
       "artist": "Dolly Parton"
     },
     {
+      "name": "Sister Ray",
+      "url": "https://www.last.fm/music/Foxes/_/Sister+Ray",
+      "count": 2,
+      "artist": "Foxes"
+    },
+    {
+      "name": "Niets Tussen",
+      "url": "https://www.last.fm/music/Froukje/_/Niets+Tussen",
+      "count": 2,
+      "artist": "Froukje"
+    },
+    {
+      "name": "The Tradition",
+      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
+      "count": 2,
+      "artist": "Halsey"
+    },
+    {
       "name": "When you meet a Greek on Omegle",
       "url": "https://www.last.fm/music/Lingualizer/_/When+you+meet+a+Greek+on+Omegle",
       "count": 2,
       "artist": "Lingualizer"
-    },
-    {
-      "name": "Hot Couture - 10 Year Anniversary Mix",
-      "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
-      "count": 2,
-      "artist": "Manila Luzon"
     },
     {
       "name": "Life Aquatic",
@@ -77,40 +89,28 @@
       "artist": "Phlocalyst"
     },
     {
+      "name": "Fun",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
+      "count": 2,
+      "artist": "Troye Sivan"
+    },
+    {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
       "count": 2,
       "artist": "Troye Sivan"
     },
     {
-      "name": "Rectifier",
-      "url": "https://www.last.fm/music/12dust/_/Rectifier",
+      "name": "Papel Principal",
+      "url": "https://www.last.fm/music/Adelaide+Ferreira/_/Papel+Principal",
       "count": 1,
-      "artist": "12dust"
+      "artist": "Adelaide Ferreira"
     },
     {
-      "name": "Just Look at You",
-      "url": "https://www.last.fm/music/369/_/Just+Look+at+You",
+      "name": "Can I Get It",
+      "url": "https://www.last.fm/music/Adele/_/Can+I+Get+It",
       "count": 1,
-      "artist": "369"
-    },
-    {
-      "name": "Maple",
-      "url": "https://www.last.fm/music/Aimless/_/Maple",
-      "count": 1,
-      "artist": "Aimless"
-    },
-    {
-      "name": "missed calls",
-      "url": "https://www.last.fm/music/aki_/_/missed+calls",
-      "count": 1,
-      "artist": "aki_"
-    },
-    {
-      "name": "Heroes (We Could Be)",
-      "url": "https://www.last.fm/music/Alesso/_/Heroes+(We+Could+Be)",
-      "count": 1,
-      "artist": "Alesso"
+      "artist": "Adele"
     }
   ]
 }
