@@ -1,0 +1,29 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/df280a6a00d9d8e4cd4e0e1647c477f51854f80b3337007e5d9ecb049d0f304d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com/"
+      },
+      "content": "I will make it a goal for this year to regain the habit of reading frequently, which I mostly lost after high school. And I started today!",
+      "mention-of": "https://hacdias.com/2022/01/10/cdcyxgxevd",
+      "post-type": "mention",
+      "published": "2022-01-10T18:53:27Z",
+      "rels": {
+        "canonical": "https://hacdias.com/2022/01/10/wtbkawpyhd"
+      },
+      "type": "entry",
+      "url": "https://hacdias.com/2022/01/10/wtbkawpyhd",
+      "wm-id": 1329406,
+      "wm-private": false,
+      "wm-property": "mention-of",
+      "wm-received": "2022-01-10T18:53:29Z",
+      "wm-source": "https://hacdias.com/2022/01/10/wtbkawpyhd",
+      "wm-target": "https://hacdias.com/2022/01/10/cdcyxgxevd"
+    }
+  ]
+}

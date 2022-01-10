@@ -19,12 +19,6 @@
       "author": "André Aciman"
     },
     {
-      "id": "/2021/07/31/o-ano-da-morte-de-ricardo-reis",
-      "date": "2021-07-31T13:10:00Z",
-      "name": "O Ano da Morte de Ricardo Reis",
-      "author": "José Saramago"
-    },
-    {
       "id": "/2021/11/07/o-crime-do-padre-amaro",
       "date": "2021-11-07T12:00:00Z",
       "name": "O Crime do Padre Amaro",
@@ -61,7 +55,14 @@
       "author": "Harper Lee"
     }
   ],
-  "reading": [],
+  "reading": [
+    {
+      "id": "/2022/01/10/cdcyxgxevd",
+      "date": "2022-01-10T16:32:38.353609Z",
+      "name": "O Ano da Morte de Ricardo Reis",
+      "author": "José Saramago"
+    }
+  ],
   "finished": [
     {
       "id": "/2020/12/31/a-fada-oriana",
