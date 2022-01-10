@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 21,
+      "count": 23,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
@@ -22,13 +22,23 @@
     },
     {
       "name": "London Grammar",
-      "count": 5,
+      "count": 6,
       "url": "https://www.last.fm/music/London+Grammar"
+    },
+    {
+      "name": "Marina",
+      "count": 5,
+      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Alec Benjamin",
       "count": 4,
       "url": "https://www.last.fm/music/Alec+Benjamin"
+    },
+    {
+      "name": "Dolly Parton",
+      "count": 4,
+      "url": "https://www.last.fm/music/Dolly+Parton"
     },
     {
       "name": "Foxes",
@@ -39,30 +49,26 @@
       "name": "Halsey",
       "count": 4,
       "url": "https://www.last.fm/music/Halsey"
-    },
-    {
-      "name": "Jessica Darrow",
-      "count": 4,
-      "url": "https://www.last.fm/music/Jessica+Darrow"
-    },
-    {
-      "name": "João Pedro Pais",
-      "count": 4,
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     }
   ],
   "tracks": [
     {
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Better+Now+-+Recorded+At+Spotify+Studios+NYC",
-      "count": 7,
+      "count": 8,
       "artist": "Troye Sivan"
     },
     {
       "name": "Wasting My Young Years",
       "url": "https://www.last.fm/music/London+Grammar/_/Wasting+My+Young+Years",
-      "count": 5,
+      "count": 6,
       "artist": "London Grammar"
+    },
+    {
+      "name": "Jolene - Destructo Remix",
+      "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
+      "count": 4,
+      "artist": "Dolly Parton"
     },
     {
       "name": "The Tradition",
@@ -77,16 +83,22 @@
       "artist": "Jessica Darrow"
     },
     {
-      "name": "Jolene - Destructo Remix",
-      "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
-      "count": 3,
-      "artist": "Dolly Parton"
-    },
-    {
       "name": "Sister Ray",
       "url": "https://www.last.fm/music/Foxes/_/Sister+Ray",
       "count": 3,
       "artist": "Foxes"
+    },
+    {
+      "name": "Hot Couture - 10 Year Anniversary Mix",
+      "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
+      "count": 3,
+      "artist": "Manila Luzon"
+    },
+    {
+      "name": "EASE",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/EASE",
+      "count": 3,
+      "artist": "Troye Sivan"
     },
     {
       "name": "Happy Little Pill",
@@ -99,18 +111,6 @@
       "url": "https://www.last.fm/music/Adele/_/Love+in+the+Dark",
       "count": 2,
       "artist": "Adele"
-    },
-    {
-      "name": "Rising Tide",
-      "url": "https://www.last.fm/music/Allie+X/_/Rising+Tide",
-      "count": 2,
-      "artist": "Allie X"
-    },
-    {
-      "name": "We Don't Talk About Bruno",
-      "url": "https://www.last.fm/music/Carolina+Gait%C3%A1n+-+La+Gaita/_/We+Don%27t+Talk+About+Bruno",
-      "count": 2,
-      "artist": "Carolina Gaitán - La Gaita"
     }
   ]
 }
