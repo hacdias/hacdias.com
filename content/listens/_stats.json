@@ -2,8 +2,33 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 28,
+      "count": 38,
       "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
+      "name": "Dimension 32",
+      "count": 12,
+      "url": "https://www.last.fm/music/Dimension+32"
+    },
+    {
+      "name": "BANKS",
+      "count": 10,
+      "url": "https://www.last.fm/music/BANKS"
+    },
+    {
+      "name": "London Grammar",
+      "count": 10,
+      "url": "https://www.last.fm/music/London+Grammar"
+    },
+    {
+      "name": "Colours In The Dark",
+      "count": 9,
+      "url": "https://www.last.fm/music/Colours+In+The+Dark"
+    },
+    {
+      "name": "Jack in the Books",
+      "count": 9,
+      "url": "https://www.last.fm/music/Jack+in+the+Books"
     },
     {
       "name": "Adele",
@@ -11,9 +36,9 @@
       "url": "https://www.last.fm/music/Adele"
     },
     {
-      "name": "Jack in the Books",
+      "name": "Amor Electro",
       "count": 8,
-      "url": "https://www.last.fm/music/Jack+in+the+Books"
+      "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
       "name": "Lady Gaga",
@@ -21,48 +46,41 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
-      "name": "Amor Electro",
-      "count": 7,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "London Grammar",
-      "count": 7,
-      "url": "https://www.last.fm/music/London+Grammar"
-    },
-    {
-      "name": "Jessica Darrow",
-      "count": 6,
-      "url": "https://www.last.fm/music/Jessica+Darrow"
-    },
-    {
       "name": "Dolly Parton",
-      "count": 5,
+      "count": 7,
       "url": "https://www.last.fm/music/Dolly+Parton"
-    },
-    {
-      "name": "Halsey",
-      "count": 5,
-      "url": "https://www.last.fm/music/Halsey"
-    },
-    {
-      "name": "João Pedro Pais",
-      "count": 5,
-      "url": "https://www.last.fm/music/Jo%C3%A3o+Pedro+Pais"
     }
   ],
   "tracks": [
     {
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Better+Now+-+Recorded+At+Spotify+Studios+NYC",
-      "count": 10,
+      "count": 13,
       "artist": "Troye Sivan"
     },
     {
       "name": "Wasting My Young Years",
       "url": "https://www.last.fm/music/London+Grammar/_/Wasting+My+Young+Years",
-      "count": 7,
+      "count": 10,
       "artist": "London Grammar"
+    },
+    {
+      "name": "Jolene - Destructo Remix",
+      "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
+      "count": 7,
+      "artist": "Dolly Parton"
+    },
+    {
+      "name": "The Tradition",
+      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
+      "count": 7,
+      "artist": "Halsey"
+    },
+    {
+      "name": "EASE",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/EASE",
+      "count": 7,
+      "artist": "Troye Sivan"
     },
     {
       "name": "Surface Pressure",
@@ -71,46 +89,28 @@
       "artist": "Jessica Darrow"
     },
     {
-      "name": "Jolene - Destructo Remix",
-      "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
-      "count": 5,
-      "artist": "Dolly Parton"
+      "name": "Hot Couture - 10 Year Anniversary Mix",
+      "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
+      "count": 6,
+      "artist": "Manila Luzon"
     },
     {
-      "name": "The Tradition",
-      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
+      "name": "Happy Little Pill",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
+      "count": 6,
+      "artist": "Troye Sivan"
+    },
+    {
+      "name": "Fun",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
       "count": 5,
-      "artist": "Halsey"
+      "artist": "Troye Sivan"
     },
     {
       "name": "We Don't Talk About Bruno",
       "url": "https://www.last.fm/music/Carolina+Gait%C3%A1n+-+La+Gaita/_/We+Don%27t+Talk+About+Bruno",
       "count": 4,
       "artist": "Carolina Gaitán - La Gaita"
-    },
-    {
-      "name": "Hot Couture - 10 Year Anniversary Mix",
-      "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
-      "count": 4,
-      "artist": "Manila Luzon"
-    },
-    {
-      "name": "EASE",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/EASE",
-      "count": 4,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Happy Little Pill",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
-      "count": 4,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "What Else Can I Do?",
-      "url": "https://www.last.fm/music/Diane+Guerrero/_/What+Else+Can+I+Do%3F",
-      "count": 3,
-      "artist": "Diane Guerrero"
     }
   ]
 }
