@@ -2,23 +2,33 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 38,
+      "count": 43,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
+      "name": "RuPaul",
+      "count": 18,
+      "url": "https://www.last.fm/music/RuPaul"
+    },
+    {
       "name": "Dimension 32",
-      "count": 12,
+      "count": 15,
       "url": "https://www.last.fm/music/Dimension+32"
     },
     {
       "name": "BANKS",
-      "count": 10,
+      "count": 14,
       "url": "https://www.last.fm/music/BANKS"
     },
     {
       "name": "London Grammar",
-      "count": 10,
+      "count": 13,
       "url": "https://www.last.fm/music/London+Grammar"
+    },
+    {
+      "name": "Adele",
+      "count": 9,
+      "url": "https://www.last.fm/music/Adele"
     },
     {
       "name": "Colours In The Dark",
@@ -31,23 +41,13 @@
       "url": "https://www.last.fm/music/Jack+in+the+Books"
     },
     {
-      "name": "Adele",
+      "name": "Corey J. Beats",
       "count": 8,
-      "url": "https://www.last.fm/music/Adele"
-    },
-    {
-      "name": "Amor Electro",
-      "count": 8,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 8,
-      "url": "https://www.last.fm/music/Lady+Gaga"
+      "url": "https://www.last.fm/music/Corey+J.+Beats"
     },
     {
       "name": "Dolly Parton",
-      "count": 7,
+      "count": 8,
       "url": "https://www.last.fm/music/Dolly+Parton"
     }
   ],
@@ -55,20 +55,32 @@
     {
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Better+Now+-+Recorded+At+Spotify+Studios+NYC",
-      "count": 13,
+      "count": 16,
       "artist": "Troye Sivan"
     },
     {
       "name": "Wasting My Young Years",
       "url": "https://www.last.fm/music/London+Grammar/_/Wasting+My+Young+Years",
-      "count": 10,
+      "count": 13,
       "artist": "London Grammar"
+    },
+    {
+      "name": "EASE",
+      "url": "https://www.last.fm/music/Troye+Sivan/_/EASE",
+      "count": 9,
+      "artist": "Troye Sivan"
     },
     {
       "name": "Jolene - Destructo Remix",
       "url": "https://www.last.fm/music/Dolly+Parton/_/Jolene+-+Destructo+Remix",
-      "count": 7,
+      "count": 8,
       "artist": "Dolly Parton"
+    },
+    {
+      "name": "Hot Couture - 10 Year Anniversary Mix",
+      "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
+      "count": 8,
+      "artist": "Manila Luzon"
     },
     {
       "name": "The Tradition",
@@ -77,10 +89,10 @@
       "artist": "Halsey"
     },
     {
-      "name": "EASE",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/EASE",
-      "count": 7,
-      "artist": "Troye Sivan"
+      "name": "What A Waste",
+      "url": "https://www.last.fm/music/Gracey/_/What+A+Waste",
+      "count": 6,
+      "artist": "Gracey"
     },
     {
       "name": "Surface Pressure",
@@ -89,21 +101,9 @@
       "artist": "Jessica Darrow"
     },
     {
-      "name": "Hot Couture - 10 Year Anniversary Mix",
-      "url": "https://www.last.fm/music/Manila+Luzon/_/Hot+Couture+-+10+Year+Anniversary+Mix",
-      "count": 6,
-      "artist": "Manila Luzon"
-    },
-    {
       "name": "Happy Little Pill",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Happy+Little+Pill",
       "count": 6,
-      "artist": "Troye Sivan"
-    },
-    {
-      "name": "Fun",
-      "url": "https://www.last.fm/music/Troye+Sivan/_/Fun",
-      "count": 5,
       "artist": "Troye Sivan"
     },
     {
