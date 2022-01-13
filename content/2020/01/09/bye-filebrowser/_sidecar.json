@@ -6,19 +6,6 @@
   "webmentions": [
     {
       "author": {
-        "name": "Nathanael Dalliard",
-        "photo": "https://cdn.hacdias.com/wm/a2e7fd813cbc665d67db4a810c9a16620a7a0ed02a8e764f3e5c445354c26060.jpg",
-        "type": "card",
-        "url": "https://twitter.com/ndalliard"
-      },
-      "content": "Unfortunately, I just closed the biggest repository I've haver maintained (6.3k stars). It's time to say goodbye to File Browser, which I st",
-      "post-type": "repost",
-      "published": "2020-01-09T18:33:42Z",
-      "type": "entry",
-      "url": "https://twitter.com/ndalliard/status/1215340888177762305"
-    },
-    {
-      "author": {
         "name": "tmk 🏳️‍🌈",
         "photo": "https://cdn.hacdias.com/wm/73ed7e3913a818f52acbddba56acc3683734d7b122c5f87d49d1ee1469ab5c30.jpg",
         "type": "card",
@@ -28,18 +15,6 @@
       "published": "2020-01-09T19:51:58Z",
       "type": "entry",
       "url": "https://twitter.com/hacdias/status/1215336460888477696#favorited-by-167414251"
-    },
-    {
-      "author": {
-        "name": "Nathanael Dalliard",
-        "photo": "https://cdn.hacdias.com/wm/a2e7fd813cbc665d67db4a810c9a16620a7a0ed02a8e764f3e5c445354c26060.jpg",
-        "type": "card",
-        "url": "https://twitter.com/ndalliard"
-      },
-      "post-type": "like",
-      "published": "2020-01-09T19:51:54Z",
-      "type": "entry",
-      "url": "https://twitter.com/hacdias/status/1215336460888477696#favorited-by-1209422731974004736"
     },
     {
       "author": {
