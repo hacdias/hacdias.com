@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 31,
+      "count": 29,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Corey J. Beats",
-      "count": 14,
+      "count": 15,
       "url": "https://www.last.fm/music/Corey+J.+Beats"
     },
     {
@@ -36,14 +36,14 @@
       "url": "https://www.last.fm/music/Jack+in+the+Books"
     },
     {
-      "name": "London Grammar",
-      "count": 11,
-      "url": "https://www.last.fm/music/London+Grammar"
-    },
-    {
       "name": "luvwn",
       "count": 10,
       "url": "https://www.last.fm/music/luvwn"
+    },
+    {
+      "name": "London Grammar",
+      "count": 9,
+      "url": "https://www.last.fm/music/London+Grammar"
     },
     {
       "name": "Gracey",
@@ -55,13 +55,13 @@
     {
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Better+Now+-+Recorded+At+Spotify+Studios+NYC",
-      "count": 13,
+      "count": 11,
       "artist": "Troye Sivan"
     },
     {
       "name": "Wasting My Young Years",
       "url": "https://www.last.fm/music/London+Grammar/_/Wasting+My+Young+Years",
-      "count": 11,
+      "count": 9,
       "artist": "London Grammar"
     },
     {
@@ -107,10 +107,10 @@
       "artist": "Dimension 32"
     },
     {
-      "name": "The Tradition",
-      "url": "https://www.last.fm/music/Halsey/_/The+Tradition",
-      "count": 6,
-      "artist": "Halsey"
+      "name": "Rest Well",
+      "url": "https://www.last.fm/music/BANKS/_/Rest+Well",
+      "count": 5,
+      "artist": "BANKS"
     }
   ]
 }
