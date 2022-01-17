@@ -2,32 +2,32 @@
   "artists": [
     {
       "name": "Troye Sivan",
-      "count": 29,
+      "count": 32,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
       "name": "Dimension 32",
-      "count": 22,
+      "count": 24,
       "url": "https://www.last.fm/music/Dimension+32"
     },
     {
-      "name": "BANKS",
-      "count": 19,
-      "url": "https://www.last.fm/music/BANKS"
-    },
-    {
       "name": "RuPaul",
-      "count": 17,
+      "count": 21,
       "url": "https://www.last.fm/music/RuPaul"
     },
     {
+      "name": "BANKS",
+      "count": 20,
+      "url": "https://www.last.fm/music/BANKS"
+    },
+    {
       "name": "Colours In The Dark",
-      "count": 15,
+      "count": 16,
       "url": "https://www.last.fm/music/Colours+In+The+Dark"
     },
     {
       "name": "Corey J. Beats",
-      "count": 15,
+      "count": 16,
       "url": "https://www.last.fm/music/Corey+J.+Beats"
     },
     {
@@ -36,18 +36,18 @@
       "url": "https://www.last.fm/music/Jack+in+the+Books"
     },
     {
+      "name": "kainbeats",
+      "count": 11,
+      "url": "https://www.last.fm/music/kainbeats"
+    },
+    {
       "name": "luvwn",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/luvwn"
     },
     {
-      "name": "London Grammar",
-      "count": 9,
-      "url": "https://www.last.fm/music/London+Grammar"
-    },
-    {
       "name": "Gracey",
-      "count": 8,
+      "count": 10,
       "url": "https://www.last.fm/music/Gracey"
     }
   ],
@@ -55,8 +55,20 @@
     {
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Better+Now+-+Recorded+At+Spotify+Studios+NYC",
-      "count": 11,
+      "count": 12,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "Catwalk (feat. Skeltal Ki)",
+      "url": "https://www.last.fm/music/RuPaul/_/Catwalk+(feat.+Skeltal+Ki)",
+      "count": 11,
+      "artist": "RuPaul"
+    },
+    {
+      "name": "What A Waste",
+      "url": "https://www.last.fm/music/Gracey/_/What+A+Waste",
+      "count": 10,
+      "artist": "Gracey"
     },
     {
       "name": "Wasting My Young Years",
@@ -65,16 +77,22 @@
       "artist": "London Grammar"
     },
     {
-      "name": "What A Waste",
-      "url": "https://www.last.fm/music/Gracey/_/What+A+Waste",
-      "count": 8,
-      "artist": "Gracey"
-    },
-    {
       "name": "EASE",
       "url": "https://www.last.fm/music/Troye+Sivan/_/EASE",
       "count": 8,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "Sky",
+      "url": "https://www.last.fm/music/Antonius+B/_/Sky",
+      "count": 7,
+      "artist": "Antonius B"
+    },
+    {
+      "name": "Walking On The Sky",
+      "url": "https://www.last.fm/music/Dimension+32/_/Walking+On+The+Sky",
+      "count": 7,
+      "artist": "Dimension 32"
     },
     {
       "name": "Jolene - Destructo Remix",
@@ -89,27 +107,9 @@
       "artist": "Manila Luzon"
     },
     {
-      "name": "Catwalk (feat. Skeltal Ki)",
-      "url": "https://www.last.fm/music/RuPaul/_/Catwalk+(feat.+Skeltal+Ki)",
-      "count": 7,
-      "artist": "RuPaul"
-    },
-    {
-      "name": "Sky",
-      "url": "https://www.last.fm/music/Antonius+B/_/Sky",
-      "count": 6,
-      "artist": "Antonius B"
-    },
-    {
-      "name": "Walking On The Sky",
-      "url": "https://www.last.fm/music/Dimension+32/_/Walking+On+The+Sky",
-      "count": 6,
-      "artist": "Dimension 32"
-    },
-    {
       "name": "Rest Well",
       "url": "https://www.last.fm/music/BANKS/_/Rest+Well",
-      "count": 5,
+      "count": 6,
       "artist": "BANKS"
     }
   ]
