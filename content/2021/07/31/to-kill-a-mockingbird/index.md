@@ -8,6 +8,7 @@ properties:
     properties:
       author: Harper Lee
       name: To Kill a Mockingbird
+      uid: isbn:9780099549482
     type: h-cite
   read-status: to-read
 ---

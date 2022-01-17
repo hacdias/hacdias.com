@@ -1,5 +1,6 @@
 ---
 description: 'Want to read: Equador by Miguel Sousa Tavares'
+deleted: true
 published: 2021-06-12T21:54:00Z
 section:
 - reads

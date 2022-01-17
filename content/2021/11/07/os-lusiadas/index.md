@@ -1,5 +1,6 @@
 ---
 description: 'Want to read: Os Lusíadas by Luís de Camões'
+deleted: true
 published: 2021-11-07T12:00:00Z
 section:
 - reads
