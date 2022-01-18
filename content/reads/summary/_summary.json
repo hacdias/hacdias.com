@@ -37,12 +37,6 @@
       "author": "Becky Albertalli"
     },
     {
-      "id": "/2022/01/12/axqphquihc",
-      "date": "2022-01-12T10:41:51.828233Z",
-      "name": "The House in the Cerulean Sea",
-      "author": "TJ Klune"
-    },
-    {
       "id": "/2021/07/31/the-master-and-margarita",
       "date": "2021-07-31T13:10:00Z",
       "name": "The Master and Margarita",
@@ -61,7 +55,14 @@
       "author": "TJ Klune"
     }
   ],
-  "reading": [],
+  "reading": [
+    {
+      "id": "/2022/01/18/fodejmtpug",
+      "date": "2022-01-18T06:43:04.348165Z",
+      "name": "The House in the Cerulean Sea",
+      "author": "TJ Klune"
+    }
+  ],
   "finished": [
     {
       "id": "/2020/12/31/a-fada-oriana",
