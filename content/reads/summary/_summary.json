@@ -55,14 +55,7 @@
       "author": "TJ Klune"
     }
   ],
-  "reading": [
-    {
-      "id": "/2022/01/18/fodejmtpug",
-      "date": "2022-01-18T06:43:04.348165Z",
-      "name": "The House in the Cerulean Sea",
-      "author": "TJ Klune"
-    }
-  ],
+  "reading": [],
   "finished": [
     {
       "id": "/2020/12/31/a-fada-oriana",
@@ -651,6 +644,12 @@
       "date": "2020-12-31T12:00:00Z",
       "name": "The Giver",
       "author": "Lois Lowry"
+    },
+    {
+      "id": "/2022/01/22/bkesurqahv",
+      "date": "2022-01-22T22:02:22.969462Z",
+      "name": "The House in the Cerulean Sea",
+      "author": "TJ Klune"
     },
     {
       "id": "/2018/01/01/the-perks-of-being-a-wallflower",
