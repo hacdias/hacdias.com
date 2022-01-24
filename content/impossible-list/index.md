@@ -1,7 +1,7 @@
 ---
 title: Impossible List
 published: 2020-07-15T00:00:00Z
-updated: 2021-08-18T08:19:09.760889705Z
+updated: 2022-01-24T15:46:48.10151213Z
 noShowInteractions: true
 ---
 
@@ -93,3 +93,4 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 ## Random
 
 1. [ ] Drive a subway train, literally
+2. [ ] Alternatively, get a ride on the front cabin of a subway train
