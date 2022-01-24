@@ -1,8 +1,9 @@
 ---
 title: Impossible List
 published: 2020-07-15T00:00:00Z
-updated: 2021-08-18T08:19:09.760889705Z
+updated: 2022-01-24T21:04:26.760453614Z
 noShowInteractions: true
+noSendInteractions: true
 ---
 
 <style>
@@ -50,8 +51,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 1. [x] ~~Visit 5 countries~~ <small>[July 2019] [🇵🇹 PT, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC, 🇩🇪 DE]</small>
    1. [x] ~~Visit 10 countries~~ <small>[February 2020] [🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU, 🇳🇱 NL]</small>
-   2. [ ] Visit 15 countries [🇫🇷 FR]
-2. [x] Visit 🇵🇹 Azores <small>[July 2019]</small>
+   2. [ ] Visit 15 countries <small>[🇫🇷 FR]</small>
+2. [x] ~~Visit 🇵🇹 Azores~~ <small>[July 2019]</small>
 3. [ ] Visit 🇵🇹 Madeira
 4. [ ] Visit 🇫🇮 Svalbard
 5. [ ] Visit 🇲🇴 Macau
@@ -68,8 +69,10 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇧🇷 Brazil
   - 🇨🇳 China
   - 🇩🇰 Denmark
+  - 🇪🇬 Egypt
   - 🇫🇮 Finland
   - 🇬🇷 Greece
+  - 🇭🇺 Hungary
   - 🇮🇸 Iceland
 
   </div>
@@ -77,10 +80,12 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
   - 🇮🇹 Italy
   - 🇯🇵 Japan
+  - 🇵🇪 Peru
   - 🇰🇷 South Korea
   - 🇪🇸 Spain
   - 🇸🇪 Sweden
   - 🇹🇭 Thailand
+  - 🇹🇷 Turkiye
   - 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
   - 🇺🇿 Uzbekistan <!-- https://uzbekistan.travel/en/i/bukhara/ -->
 
@@ -91,9 +96,9 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 1. [x] ~~Write a self-published ebook~~ <small>[February 2015] [[link](/downloads/aprenda_a_programar.pdf)]</small>
 2. [x] ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
-   1. [ ] Give a talk to more than 100 people
+   1. [ ] Give a talk to over 100 people
 3. [x] ~~Become proficient in a second language, English~~ <small>[September 2019]</small>
-   1.  [ ] Become proficient and/or fluent in a third language (Dutch?)
+   1.  [ ] Become proficient in a third language (Dutch?)
 4. [x] ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
 5. [ ] Finish my master's degree
 6. [ ] Write a fiction book
@@ -106,13 +111,12 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 1. [x] ~~Start studying Computer Science~~ <small>[September 2017]</small>
 2. [x] ~~Make my parents fly~~ <small>[July 2019]</small>
 3. [x] ~~Study abroad on Master's~~ <small>[September 2020]</small>
-4. [x] ~~Live abroad for more than 6 months~~ <small>[February 2021]</small>
-   1. [x] ~~Live abroad for more than 1 year~~ <small>[August 2021]</small>
+4. [x] ~~Live abroad for more than 6 months~~ <small>[February 2021] [🇳🇱 NL]</small>
+   1. [x] ~~Live abroad for more than 1 year~~ <small>[August 2021] [🇳🇱 NL]</small>
    2. [ ] Live abroad for more than 2 years
 5. [ ] Help people by volunteering more
 6. [ ] Air balloon ride
 
-## Random
+## Miscellaneous
 
-1. [ ] Drive a subway train, literally
-   1. [ ] Alternatively, get a ride on the front cabin of a subway train
+1. [ ] Ride a subway train in the front cabin
