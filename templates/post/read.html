@@ -19,7 +19,9 @@
       {{ else if eq . "finished" }}
         <p>📕 <strong>Finished Reading</strong></p>
       {{ else }}
-        <p>📖 <strong>Reading</strong></p>
+        {{ $total := $read.Int "pages" }}
+        {{ $page := $mf2.Int "page" }}
+        <p>📖 <strong>Reading {{ with $page }}(on page <span class="p-page">{{ . }}</span>{{ with $total }} of <span class="p-total">{{ . }}</span>{{ end }}){{ end }}</strong></p>
       {{ end }}
     </p>
   </header>
