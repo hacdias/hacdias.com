@@ -38,6 +38,6 @@
   <data class="p-x-read-status dn" value="{{ $status }}">{{ $status }}</data>
 
   {{ with $mf2.Int "rating" }}
-    <p><data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ $mf2.Stars . 5 }}</data></p>
+    <p><data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ stars . 5 }}</data></p>
   {{ end }}
 {{ end }}
