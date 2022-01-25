@@ -8,12 +8,7 @@ section:
 createdWith: https://indiebookclub.biz/
 properties:
   rating: 4
-  read-of:
-    properties:
-      author: José Saramago
-      name: O Ano da Morte de Ricardo Reis
-      uid: isbn:9789720048820
-    type: h-cite
+  read-of: /reads/isbn/9789720048820
   read-status: finished
   visibility: public
 ---

@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+<main role='main'>
+  {{ include "base/admin" . }}
+
+  <article class='h-entry'>
+    {{ $mf2 := .Helper }}
+    {{ $read := $mf2.Sub $mf2.TypeProperty }}
+
+    {{ $name := $read.String "name" }}
+    {{ $author := $read.String "author" }}
+    {{ $uid := $read.String "uid" }}
+    {{ $pages := $read.Int "pages" }}
+    {{ $publisher := $read.String "publisher" }}
+
+    <div class="p-read-of h-cite ibox">
+      <p><cite class="p-name">{{ $name }}</cite> — <span class="p-author">{{ $author }}</span></p>
+
+      <p style="margin-bottom: 0">
+        <small>
+          {{ with $uid }}
+            {{ $parts := strSplit $uid ":" }}
+            {{ $type := index $parts 0 }}
+            {{ $id := index $parts 1 }}
+            <span style="text-transform: uppercase">{{ $type }}</span>: {{ $id }}</a>
+          {{ end }}
+          {{ with $pages }}| Pages: <span class="p-pages">{{ . }}</span>{{ end }}
+          {{ with $publisher }}| Publisher: <span class="p-publisher">{{ . }}</span>{{ end }}
+        </small>
+      </p>
+    </div>
+
+    {{ with .Entry.Content }}
+      <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>
+    {{ end }}
+
+    {{ include "post/photos" . }}
+  </article>
+
+  {{ include "list/list" . }}
+</main>
+
+{{ end }}
+
+{{ define "book" }}
+  {{ template "base" . }}
+{{ end }}
