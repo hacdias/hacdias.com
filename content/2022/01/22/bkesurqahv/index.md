@@ -11,7 +11,6 @@ properties:
     properties:
       author: TJ Klune
       name: The House in the Cerulean Sea
-      pages: 400
       uid: isbn:9781529087949
     type: h-cite
   read-status: finished

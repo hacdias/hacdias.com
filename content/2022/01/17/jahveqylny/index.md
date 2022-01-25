@@ -12,7 +12,6 @@ properties:
     properties:
       author: José Saramago
       name: O Ano da Morte de Ricardo Reis
-      pages: 494
       uid: isbn:9789720048820
     type: h-cite
   read-status: finished
