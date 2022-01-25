@@ -8,7 +8,7 @@
   {
     "title": "Aaron Parecki",
     "site": "https://aaronparecki.com/",
-    "feed": "https://aaronparecki.com/feed.xml",
+    "feed": "https://aaronparecki.com/feed.json",
     "category": "following"
   },
   {
@@ -39,6 +39,12 @@
     "title": "Aral Balkan",
     "site": "https://ar.al/",
     "feed": "https://ar.al/index.xml",
+    "category": "following"
+  },
+  {
+    "title": "Barry Frost",
+    "site": "https://barryfrost.com/",
+    "feed": "https://barryfrost.com/feed.json",
     "category": "following"
   },
   {
@@ -116,7 +122,7 @@
   {
     "title": "Filippo Valsorda",
     "site": "https://blog.filippo.io/",
-    "feed": "https://blog.filippo.io/rss/",
+    "feed": "https://words.filippo.io/rss/",
     "category": "following"
   },
   {
@@ -124,6 +130,12 @@
     "site": "https://goblog.app",
     "feed": "https://goblog.app/.rss",
     "category": "following"
+  },
+  {
+    "title": "Henrique Dias",
+    "site": "https://hacdias.com/",
+    "feed": "https://hacdias.com/.atom",
+    "category": "myself"
   },
   {
     "title": "Hey Ok Yay?",
@@ -211,7 +223,7 @@
   },
   {
     "title": "Martin Borchert",
-    "site": "https://martin.to",
+    "site": "https://piko.fm",
     "feed": "https://piko.fm/feeds/most.atom",
     "category": "following"
   },
@@ -286,12 +298,6 @@
     "site": "https://stanislas.blog/",
     "feed": "https://stanislas.blog/atom.xml",
     "category": "following"
-  },
-  {
-    "title": "Stream on @hacdias' corner",
-    "site": "https://hacdias.com/stream/",
-    "feed": "https://hacdias.com/stream/feed.xml",
-    "category": "myself"
   },
   {
     "title": "Tantek Çelik",

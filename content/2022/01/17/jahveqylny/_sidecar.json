@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://hacdias.com/reads/isbn/9789720048820"
+  ],
   "context": null,
   "webmentions": []
 }

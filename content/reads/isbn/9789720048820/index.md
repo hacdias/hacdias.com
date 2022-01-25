@@ -6,6 +6,7 @@ properties:
       author: José Saramago
       name: O ano da morte de Ricardo Reis
       pages: 494
+      publisher: Porto Editora
       uid: isbn:9789720048820
     type: h-cite
 ---

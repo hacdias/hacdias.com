@@ -5,6 +5,8 @@ properties:
     properties:
       author: Casey McQuiston
       name: Red, White & Royal Blue
+      pages: 418
+      publisher: St. Martin's
       uid: isbn:9781250316776
     type: h-cite
 ---

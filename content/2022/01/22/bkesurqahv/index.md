@@ -1,9 +1,9 @@
 ---
 description: 'Finished reading: The House in the Cerulean Sea by TJ Klune, ISBN: 9781529087949'
 published: 2022-01-22T22:02:22.969462984Z
-updated: 2022-01-25T08:15:14.723936493Z
 section:
 - reads
+- home
 createdWith: https://indiebookclub.biz/
 properties:
   rating: 5

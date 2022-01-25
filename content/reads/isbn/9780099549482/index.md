@@ -5,6 +5,8 @@ properties:
     properties:
       author: Harper Lee
       name: To Kill a Mockingbird
+      pages: 309
+      publisher: arrow books
       uid: isbn:9780099549482
     type: h-cite
 ---

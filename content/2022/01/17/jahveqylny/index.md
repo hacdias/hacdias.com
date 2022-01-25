@@ -2,9 +2,9 @@
 description: 'Finished reading: O Ano da Morte de Ricardo Reis by José Saramago, ISBN:
   9789720048820'
 published: 2022-01-17T17:39:36.758940822Z
-updated: 2022-01-25T08:08:13.324950164Z
 section:
 - reads
+- home
 createdWith: https://indiebookclub.biz/
 properties:
   rating: 4

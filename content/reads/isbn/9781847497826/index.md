@@ -5,6 +5,8 @@ properties:
     properties:
       author: Mikhail Bulgakov
       name: The Master and Margarita
+      pages: 396
+      publisher: Alma Classics
       uid: isbn:9781847497826
     type: h-cite
 ---

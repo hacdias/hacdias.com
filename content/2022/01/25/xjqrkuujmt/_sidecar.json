@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "https://quill.p3k.io/favorite"
+  ],
+  "context": {
+    "logo": "https://quill.p3k.io/images/quill-logo-144.png",
+    "name": "Quill",
+    "type": "app",
+    "url": "https://quill.p3k.io/"
+  },
+  "webmentions": []
+}

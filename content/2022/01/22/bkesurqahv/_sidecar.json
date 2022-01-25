@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://hacdias.com/reads/isbn/9781529087949"
+  ],
   "context": null,
   "webmentions": []
 }

@@ -1,7 +1,7 @@
 ---
 title: Impossible List
 published: 2020-07-15T00:00:00Z
-updated: 2022-01-24T21:04:26.760453614Z
+updated: 2022-01-25T15:53:18.47352611Z
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -45,9 +45,9 @@ noSendInteractions: true
 
 This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It is kind of a bucket list, but with a twist. Here's the best explanation I found:
 
-> Put simply, the impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. This is mine, which is, of course, ever-evolving. - Thomas Frank
+> Put simply, the impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. - Thomas Frank
 
-## Travel
+## Travel Goals
 
 1. [x] ~~Visit 5 countries~~ <small>[July 2019] [🇵🇹 PT, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC, 🇩🇪 DE]</small>
    1. [x] ~~Visit 10 countries~~ <small>[February 2020] [🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU, 🇳🇱 NL]</small>
@@ -92,21 +92,27 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   </div>
 </div>
 
-## Professional
+## Professional Goals
 
 1. [x] ~~Write a self-published ebook~~ <small>[February 2015] [[link](/downloads/aprenda_a_programar.pdf)]</small>
 2. [x] ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
    1. [ ] Give a talk to over 100 people
-3. [x] ~~Become proficient in a second language, English~~ <small>[September 2019]</small>
+3. [x] ~~Become proficient in a second language~~ <small>[September 2019] [English]</small>
    1.  [ ] Become proficient in a third language (Dutch?)
 4. [x] ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
 5. [ ] Finish my master's degree
 6. [ ] Write a fiction book
 7. [ ] Write a non-fiction book
-8. [ ] Learn to play an instrument
+8. [ ] Learn how to play an instrument 🎶
 9. [ ] Learn a new sport
+10. [ ] Host a meetup
+11. [x] ~~Create a website~~ <small>[July 2014]</small>
+    1. [x] ~~Maintain a website for 1 years~~ <small>[July 2015]</small>
+    2. [x] ~~Maintain a website for 5 years~~ <small>[July 2019]</small>
+    3. [ ] Maintain a website for 10 years
 
-## Life
+
+## Life Goals
 
 1. [x] ~~Start studying Computer Science~~ <small>[September 2017]</small>
 2. [x] ~~Make my parents fly~~ <small>[July 2019]</small>
@@ -114,9 +120,23 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 4. [x] ~~Live abroad for more than 6 months~~ <small>[February 2021] [🇳🇱 NL]</small>
    1. [x] ~~Live abroad for more than 1 year~~ <small>[August 2021] [🇳🇱 NL]</small>
    2. [ ] Live abroad for more than 2 years
-5. [ ] Help people by volunteering more
-6. [ ] Air balloon ride
+5. [ ] Volunteer for a good cause for 6 months
+6. [ ] Donate for a good cause for 6 months
+7. [ ] Go on a hot air balloon 🎈 ride 
 
-## Miscellaneous
+## Health and Fitness Goals
 
-1. [ ] Ride a subway train in the front cabin
+1. [x] ~~Close all rings on Apple Watch for 1 month~~ <small>[March 2021]</small>
+   1. [x] ~~Close all rings on Apple Watch for 2 months~~ <small>[April 2021]</small>
+   2. [ ] Close all rings on Apple Watch for 3 months
+2. [x] ~~Cycle 15 km in a single trip~~ <small>[March 2021] [15.11 km]</small>
+   1. [x] ~~Cycle 25 km in a single trip~~ <small>[August 2021] [28.22 km]</small>
+   2. [ ] Cycle 40 km in a single trip
+3. [x] ~~Workout more than twice a week for 1 month~~ <small>[March 2021]</small>
+    1. [x] ~~Workout more than twice a week for 2 months~~ <small>[April 2021]</small>
+    2. [x] ~~Workout more than twice a week for 4 months~~ <small>[June 2021]</small>
+    3. [ ] Workout more than twice a week for 8 months
+
+## Miscellaneous Goals
+
+1. [ ] Ride a subway train 🚇 in the front cabin
