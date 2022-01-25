@@ -1,13 +1,13 @@
 {
   "to-read": [
     {
-      "id": "/2021/11/07/alexs-adventures-in-numberland",
+      "id": "/reads/isbn/9781408809594",
       "date": "2021-11-07T12:00:00Z",
       "name": "Alex's Adventures in Numberland",
       "author": "Alex Bellos"
     },
     {
-      "id": "/2021/11/07/find-me",
+      "id": "/reads/isbn/9780374155018",
       "date": "2021-11-07T12:00:00Z",
       "name": "Find Me",
       "author": "André Aciman"
@@ -19,37 +19,49 @@
       "author": "Fernando Pessoa"
     },
     {
-      "id": "/2022/01/12/tqscydbrxu",
+      "id": "/reads/isbn/9781250316776",
       "date": "2022-01-12T10:42:46.003223Z",
       "name": "Red, White \u0026 Royal Blue",
       "author": "Casey McQuiston"
     },
     {
-      "id": "/2021/11/07/simon-vs-the-homo-sapiens-agenda",
+      "id": "/reads/isbn/9780062348678",
       "date": "2021-11-07T12:00:00Z",
       "name": "Simon vs. the Homo Sapiens Agenda",
       "author": "Becky Albertalli"
     },
     {
-      "id": "/2021/07/31/the-master-and-margarita",
+      "id": "/reads/isbn/9781847493781",
+      "date": "2022-01-25T13:58:17.633701Z",
+      "name": "Strange Case of Dr Jekyll and Mr Hyde",
+      "author": "Robert Louis Stevenson"
+    },
+    {
+      "id": "/reads/isbn/9781847497826",
       "date": "2021-07-31T13:10:00Z",
       "name": "The Master and Margarita",
       "author": "Mikhail Bulgakov"
     },
     {
-      "id": "/2022/01/24/tbgzvperpt",
+      "id": "/reads/isbn/9781786892737",
+      "date": "2022-01-25T13:57:12.866692Z",
+      "name": "The Midnight Library",
+      "author": "Matt Haig"
+    },
+    {
+      "id": "/reads/isbn/9781529405231",
       "date": "2022-01-24T07:11:26.183365Z",
       "name": "This Is How You Lose the Time War",
       "author": "Amal El-Mohtar, Max Gladstone"
     },
     {
-      "id": "/2021/07/31/to-kill-a-mockingbird",
+      "id": "/reads/isbn/9780099549482",
       "date": "2021-07-31T13:10:00Z",
       "name": "To Kill a Mockingbird",
       "author": "Harper Lee"
     },
     {
-      "id": "/2022/01/12/jlojidijza",
+      "id": "/reads/isbn/9781529087987",
       "date": "2022-01-12T10:41:15.577799Z",
       "name": "Under the Whispering Door",
       "author": "TJ Klune"
@@ -57,7 +69,7 @@
   ],
   "reading": [
     {
-      "id": "/2022/01/23/lifhyjsdds",
+      "id": "/reads/isbn/9781529029581",
       "date": "2022-01-23T22:19:51.757879Z",
       "name": "Before the coffee gets cold",
       "author": "Toshikazu Kawaguchi"
@@ -65,703 +77,703 @@
   ],
   "finished": [
     {
-      "id": "/2020/12/31/a-fada-oriana",
+      "id": "/reads/isbn/9789726611950",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Fada Oriana",
       "author": "Sophia de Mello Breyner Andresen"
     },
     {
-      "id": "/2020/12/31/a-feiticeira-de-paris",
+      "id": "/reads/isbn/9789892321011",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Feiticeira de Paris",
       "author": "Álvaro Magalhães"
     },
     {
-      "id": "/2020/01/31/alices-adventures-in-wonderland-and-through-the-looking-glass",
+      "id": "/reads/isbn/9780141439761",
       "date": "2020-01-31T08:00:00Z",
       "name": "Alice's Adventures in Wonderland and Through the Looking-Glass",
       "author": "Lewis Carroll"
     },
     {
-      "id": "/2020/12/31/a-maldicao-da-estrela-morta",
+      "id": "/reads/isbn/9789892310817",
       "date": "2020-12-31T12:00:00Z",
       "name": "A maldição da estrela morta",
       "author": "Álvaro Magalhães"
     },
     {
-      "id": "/2017/12/23/animal-farm",
+      "id": "/reads/isbn/9780141036137",
       "date": "2017-12-23T08:00:00Z",
       "name": "Animal Farm",
       "author": "George Orwell"
     },
     {
-      "id": "/2020/12/31/a-nova-inteligencia",
+      "id": "/reads/isbn/9789724746203",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Nova Inteligência",
       "author": "Daniel H. Pink"
     },
     {
-      "id": "/2020/12/31/a-porta-das-tres-fechaduras",
+      "id": "/reads/isbn/9789722349567",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Porta das Três Fechaduras",
       "author": "Sonia Fernández-Vidal"
     },
     {
-      "id": "/2020/12/31/apreciada",
+      "id": "/reads/isbn/9789895018987",
       "date": "2020-12-31T12:00:00Z",
       "name": "Apreciada",
       "author": "Caragh M. O'Brien"
     },
     {
-      "id": "/2020/12/31/a-senhora-da-magia",
+      "id": "/reads/isbn/9789896373986",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Senhora da Magia",
       "author": "Marion Zimmer Bradley"
     },
     {
-      "id": "/2020/12/31/a-sombra-do-cacador",
+      "id": "/reads/isbn/9789892310800",
       "date": "2020-12-31T12:00:00Z",
       "name": "A sombra do caçador",
       "author": "Álvaro Magalhães"
     },
     {
-      "id": "/2020/12/31/a-ultima-batalha",
+      "id": "/reads/isbn/9789722332200",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Última Batalha",
       "author": "C.S. Lewis"
     },
     {
-      "id": "/2020/12/31/a-ultima-gota",
+      "id": "/reads/isbn/9789896680589",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Última Gota",
       "author": "Jeff Kinney"
     },
     {
-      "id": "/2020/12/31/a-ultima-noite-do-mundo",
+      "id": "/reads/isbn/9789892317465",
       "date": "2020-12-31T12:00:00Z",
       "name": "A última noite do mundo",
       "author": "Álvaro Magalhães"
     },
     {
-      "id": "/2020/12/31/a-verdade-nua-e-crua",
+      "id": "/reads/isbn/9789897070433",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Verdade Nua e Crua",
       "author": "Jeff Kinney"
     },
     {
-      "id": "/2020/12/31/a-viagem-do-caminheiro-da-alvorada",
+      "id": "/reads/isbn/9789722331326",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Viagem do Caminheiro da Alvorada",
       "author": "C.S. Lewis"
     },
     {
-      "id": "/2020/12/31/a-vida-no-ceu",
+      "id": "/reads/isbn/9789897221101",
       "date": "2020-12-31T12:00:00Z",
       "name": "A Vida no Céu",
       "author": "José Eduardo Agualusa"
     },
     {
-      "id": "/2020/12/31/bananus-maximus",
+      "id": "/reads/isbn/9789897071140",
       "date": "2020-12-31T12:00:00Z",
       "name": "Bananus Maximus",
       "author": "Tim Collins"
     },
     {
-      "id": "/2017/12/30/brave-new-world",
+      "id": "/reads/isbn/9781784870140",
       "date": "2017-12-30T08:00:00Z",
       "name": "Brave New World",
       "author": "Aldous Huxley"
     },
     {
-      "id": "/2020/12/31/breve-historia-do-tempo",
+      "id": "/reads/isbn/9789726620105",
       "date": "2020-12-31T12:00:00Z",
       "name": "Breve História do Tempo",
       "author": "Stephen Hawking"
     },
     {
-      "id": "/2020/06/19/call-me-by-your-name",
+      "id": "/reads/isbn/9781786495259",
       "date": "2020-06-19T14:11:39Z",
       "name": "Call Me By Your Name",
       "author": "André Aciman"
     },
     {
-      "id": "/2020/12/31/capitaes-da-areia",
+      "id": "/reads/isbn/9789896530075",
       "date": "2020-12-31T12:00:00Z",
       "name": "Capitães da Areia",
       "author": "Jorge Amado"
     },
     {
-      "id": "/2020/12/31/cidades-de-papel",
+      "id": "/reads/isbn/9789722352925",
       "date": "2020-12-31T12:00:00Z",
       "name": "Cidades de Papel",
       "author": "John Green"
     },
     {
-      "id": "/2020/12/31/contos",
+      "id": "/reads/isbn/9789897110047",
       "date": "2020-12-31T12:00:00Z",
       "name": "Contos",
       "author": "Eça de Queirós"
     },
     {
-      "id": "/2021/07/04/conventionally-yours",
+      "id": "/reads/isbn/9781728200293",
       "date": "2021-07-04T14:38:36.830961Z",
       "name": "Conventionally Yours",
       "author": "Annabeth Albert"
     },
     {
-      "id": "/2020/12/31/convergente",
+      "id": "/reads/isbn/9789720043832",
       "date": "2020-12-31T12:00:00Z",
       "name": "Convergente",
       "author": "Veronica Roth"
     },
     {
-      "id": "/2020/12/31/diario-de-um-vampiro-banana",
+      "id": "/reads/isbn/9789898260840",
       "date": "2020-12-31T12:00:00Z",
       "name": "Diário de Um Vampiro Banana",
       "author": "Tim Collins"
     },
     {
-      "id": "/2020/12/31/divergente",
+      "id": "/reads/isbn/9789720043818",
       "date": "2020-12-31T12:00:00Z",
       "name": "Divergente",
       "author": "Veronica Roth"
     },
     {
-      "id": "/2020/01/15/electron-in-action",
+      "id": "/reads/isbn/9781617294143",
       "date": "2020-01-15T08:00:00Z",
       "name": "Electron in Action",
       "author": "Steve Kinney"
     },
     {
-      "id": "/2017/12/08/fahrenheit-451",
+      "id": "/reads/isbn/9780007181704",
       "date": "2017-12-08T08:00:00Z",
       "name": "Fahrenheit 451",
       "author": "Ray Bradbury"
     },
     {
-      "id": "/2017/01/30/fantastic-beasts-and-where-to-find-them-the-original-screenplay",
+      "id": "/reads/isbn/9781408708989",
       "date": "2017-01-30T08:00:00Z",
       "name": "Fantastic Beasts and Where to Find Them: The Original Screenplay",
       "author": "J.K. Rowling"
     },
     {
-      "id": "/2020/12/31/felizmente-ha-luar",
+      "id": "/reads/isbn/9789726277446",
       "date": "2020-12-31T12:00:00Z",
       "name": "Felizmente Há Luar!",
       "author": "Luís de Sttau Monteiro"
     },
     {
-      "id": "/2017/01/09/harry-potter-and-the-chamber-of-secrets",
+      "id": "/reads/isbn/9781408855669",
       "date": "2017-01-09T08:00:00Z",
       "name": "Harry Potter and the Chamber of Secrets",
       "author": "J.K. Rowling"
     },
     {
-      "id": "/2017/01/29/harry-potter-and-the-deathly-hallows",
+      "id": "/reads/isbn/9781408855713",
       "date": "2017-01-29T08:00:00Z",
       "name": "Harry Potter and the Deathly Hallows",
       "author": "J.K. Rowling"
     },
     {
-      "id": "/2017/01/20/harry-potter-and-the-goblet-of-fire",
+      "id": "/reads/isbn/9781408855683",
       "date": "2017-01-20T08:00:00Z",
       "name": "Harry Potter and the Goblet of Fire",
       "author": "J.K. Rowling"
     },
     {
-      "id": "/2017/01/26/harry-potter-and-the-half-blood-prince",
+      "id": "/reads/isbn/9781408855706",
       "date": "2017-01-26T08:00:00Z",
       "name": "Harry Potter and the Half-Blood Prince",
       "author": "J.K. Rowling"
     },
     {
-      "id": "/2017/01/24/harry-potter-and-the-order-of-the-phoenix",
+      "id": "/reads/isbn/9781408855690",
       "date": "2017-01-24T08:00:00Z",
       "name": "Harry Potter and the Order of the Phoenix",
       "author": "J.K. Rowling"
     },
     {
-      "id": "/2017/01/01/harry-potter-and-the-philosophers-stone",
+      "id": "/reads/isbn/9781408855652",
       "date": "2017-01-01T08:00:00Z",
       "name": "Harry Potter and the Philosopher's Stone",
       "author": "J.K. Rowling"
     },
     {
-      "id": "/2017/01/14/harry-potter-and-the-prisoner-of-azkaban",
+      "id": "/reads/isbn/9781408855676",
       "date": "2017-01-14T08:00:00Z",
       "name": "Harry Potter and the Prisoner of Azkaban",
       "author": "J.K. Rowling"
     },
     {
-      "id": "/2020/12/31/how-to-win-friends-and-influence-people",
+      "id": "/reads/isbn/9780091906818",
       "date": "2020-12-31T12:00:00Z",
       "name": "How to Win Friends and Influence People",
       "author": "Dale Carnegie"
     },
     {
-      "id": "/2020/12/31/insurgente",
+      "id": "/reads/isbn/9789720043825",
       "date": "2020-12-31T12:00:00Z",
       "name": "Insurgente",
       "author": "Veronica Roth"
     },
     {
-      "id": "/2020/08/08/kubernetes-up-and-running",
+      "id": "/reads/isbn/9781492046530",
       "date": "2020-08-08T10:11:35Z",
       "name": "Kubernetes: Up and Running",
       "author": "Brendan Burns"
     },
     {
-      "id": "/2016/09/23/look-back-in-anger",
+      "id": "/reads/isbn/9780571322763",
       "date": "2016-09-23T07:00:00Z",
       "name": "Look Back in Anger",
       "author": "John Osborne"
     },
     {
-      "id": "/2020/12/31/marcados-a-nascenca",
+      "id": "/reads/isbn/9789895015870",
       "date": "2020-12-31T12:00:00Z",
       "name": "Marcados à Nascença",
       "author": "Caragh M. O'Brien"
     },
     {
-      "id": "/2017/05/09/memorial-do-convento",
+      "id": "/reads/isbn/9789720046710",
       "date": "2017-05-09T07:00:00Z",
       "name": "Memorial do Convento",
       "author": "José Saramago"
     },
     {
-      "id": "/2021/07/25/mensagem",
+      "id": "/reads/isbn/9789898939531",
       "date": "2021-07-25T18:15:07.057199Z",
       "name": "Mensagem",
       "author": "Fernando Pessoa"
     },
     {
-      "id": "/2020/12/31/naufragio-na-ilha-dos-piratas",
+      "id": "/reads/isbn/9789722339360",
       "date": "2020-12-31T12:00:00Z",
       "name": "Naufrágio na Ilha dos Piratas",
       "author": "Geronimo Stilton"
     },
     {
-      "id": "/2016/10/14/nineteen-eighty-four",
+      "id": "/reads/isbn/9780141393049",
       "date": "2016-10-14T07:00:00Z",
       "name": "Nineteen Eighty-Four",
       "author": "George Orwell"
     },
     {
-      "id": "/2022/01/17/jahveqylny",
+      "id": "/reads/isbn/9789720048820",
       "date": "2022-01-17T17:39:36.75894Z",
-      "name": "O Ano da Morte de Ricardo Reis",
+      "name": "O ano da morte de Ricardo Reis",
       "author": "José Saramago"
     },
     {
-      "id": "/2020/12/31/o-caderno-das-piadas-secas",
+      "id": "/reads/isbn/9789898871077",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Caderno das Piadas Secas",
       "author": "Gonçalo Castro"
     },
     {
-      "id": "/2020/12/31/o-cavalo-e-o-seu-rapaz",
+      "id": "/reads/isbn/9789722330558",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Cavalo e o seu Rapaz",
       "author": "C.S. Lewis"
     },
     {
-      "id": "/2020/12/31/o-diario-de-um-lobisomem-banana",
+      "id": "/reads/isbn/9789897070730",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Diário de Um Lobisomem Banana",
       "author": "Tim Collins"
     },
     {
-      "id": "/2020/12/31/o-emplastro",
+      "id": "/reads/isbn/9789897071188",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Emplastro",
       "author": "Jeff Kinney"
     },
     {
-      "id": "/2020/12/31/o-essencial-e-definitivo-harry-potter-e-a-filosofia",
+      "id": "/reads/isbn/9789897180071",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Essencial e Definitivo Harry Potter e a Filosofia",
       "author": "Gregory Bassham"
     },
     {
-      "id": "/2020/12/31/o-heroi-desaparecido",
+      "id": "/reads/isbn/9789896574918",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Herói Desaparecido",
       "author": "Rick Riordan"
     },
     {
-      "id": "/2015/02/28/o-leao-a-feiticeira-e-o-guarda-roupa",
+      "id": "/reads/isbn/9789722330206",
       "date": "2015-02-28T08:00:00Z",
       "name": "O Leão, a Feiticeira e o Guarda-Roupa",
       "author": "C.S. Lewis"
     },
     {
-      "id": "/2020/12/31/o-manuscrito-misterioso",
+      "id": "/reads/isbn/9789722334723",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Manuscrito Misterioso",
       "author": "Geronimo Stilton"
     },
     {
-      "id": "/2020/12/31/o-misterio-da-casa-invisivel",
+      "id": "/reads/isbn/9789895555673",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério da Casa Invisível",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-da-casa-queimada",
+      "id": "/reads/isbn/9789895554591",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério da Casa Queimada",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-da-gata-desaparecida",
+      "id": "/reads/isbn/9789895554607",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério da Gata Desaparecida",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-das-cartas-anonimas",
+      "id": "/reads/isbn/9789895554836",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério das Cartas Anónimas",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-do-colar-desaparecido-volume-5",
+      "id": "/reads/isbn/9789895555222",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério do colar desaparecido Volume 5",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-do-gato-comico",
+      "id": "/reads/isbn/9789895557738",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério do Gato Cómico",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-do-ladrao-invisivel",
+      "id": "/reads/isbn/9789895559541",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério do Ladrão Invisível",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-do-olho-de-esmeralda",
+      "id": "/reads/isbn/9789722335157",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério do Olho de Esmeralda",
       "author": "Geronimo Stilton"
     },
     {
-      "id": "/2020/12/31/o-misterio-do-principe-desaparecido",
+      "id": "/reads/isbn/9789895560202",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério do Príncipe Desaparecido",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-do-quarto-secreto",
+      "id": "/reads/isbn/9789895554829",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério do Quarto Secreto",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/o-misterio-do-saco-da-roupa",
+      "id": "/reads/isbn/9789897410543",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Mistério do Saco da Roupa",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/operacao-espelho-meu",
+      "id": "/reads/isbn/9789892314969",
       "date": "2020-12-31T12:00:00Z",
       "name": "Operação \"espelho meu\"",
       "author": "Álvaro Magalhães"
     },
     {
-      "id": "/2020/12/31/o-prenuncio-das-aguas",
+      "id": "/reads/isbn/9789724129709",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Prenúncio das Águas",
       "author": "Rosa Lobato de Faria"
     },
     {
-      "id": "/2020/12/31/o-principe-caspian",
+      "id": "/reads/isbn/9789722330978",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Príncipe Caspian",
       "author": "C.S. Lewis"
     },
     {
-      "id": "/2021/07/15/o-principezinho",
+      "id": "/reads/isbn/9789895401970",
       "date": "2021-07-15T18:15:07.057199Z",
       "name": "O Principezinho",
       "author": "Antoine de Saint-Exupéry"
     },
     {
-      "id": "/2020/12/31/o-rapaz-de-bronze",
+      "id": "/reads/isbn/9789726612032",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Rapaz de Bronze",
       "author": "Sophia de Mello Breyner Andresen"
     },
     {
-      "id": "/2015/02/28/o-rodrick-e-terrivel",
+      "id": "/reads/isbn/9789896680060",
       "date": "2015-02-28T08:00:00Z",
       "name": "O Rodrick é Terrível",
       "author": "Jeff Kinney"
     },
     {
-      "id": "/2020/12/31/os-cinco-e-os-contrabandistas",
+      "id": "/reads/isbn/9789895558360",
       "date": "2020-12-31T12:00:00Z",
       "name": "Os Cinco e os Contrabandistas",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/os-cinco-na-ilha-do-tesouro",
+      "id": "/reads/isbn/9789895557745",
       "date": "2020-12-31T12:00:00Z",
       "name": "Os Cinco na Ilha do Tesouro",
       "author": "Enid Blyton"
     },
     {
-      "id": "/2020/12/31/os-jogos-da-fome",
+      "id": "/reads/isbn/9789722342391",
       "date": "2020-12-31T12:00:00Z",
       "name": "Os Jogos da Fome",
       "author": "Suzanne Collins"
     },
     {
-      "id": "/2020/12/31/os-livros-que-devoraram-o-meu-pai",
+      "id": "/reads/isbn/9789722120951",
       "date": "2020-12-31T12:00:00Z",
       "name": "Os Livros Que Devoraram o Meu Pai",
       "author": "Afonso Cruz"
     },
     {
-      "id": "/2020/12/31/os-lusiadas-contados-as-criancas-e-lembrados-ao-povo",
+      "id": "/reads/isbn/9789898470249",
       "date": "2020-12-31T12:00:00Z",
       "name": "Os Lusíadas Contados às Crianças e Lembrados ao Povo",
       "author": "João de Barros"
     },
     {
-      "id": "/2020/12/31/os-maias",
+      "id": "/reads/isbn/978972004575",
       "date": "2020-12-31T12:00:00Z",
       "name": "Os Maias",
       "author": "Eça de Queirós"
     },
     {
-      "id": "/2020/12/31/o-sobrinho-do-magico",
+      "id": "/reads/isbn/9789722329989",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Sobrinho do Mágico",
       "author": "C.S. Lewis"
     },
     {
-      "id": "/2020/12/31/o-teorema-katherine",
+      "id": "/reads/isbn/9789892326337",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Teorema Katherine",
       "author": "John Green"
     },
     {
-      "id": "/2020/12/31/o-trono-de-prata",
+      "id": "/reads/isbn/9789722331685",
       "date": "2020-12-31T12:00:00Z",
       "name": "O Trono de Prata",
       "author": "C.S. Lewis"
     },
     {
-      "id": "/2020/12/31/panico-nos-himalaias",
+      "id": "/reads/isbn/9789722336390",
       "date": "2020-12-31T12:00:00Z",
       "name": "Pânico nos Himalaias",
       "author": "Geronimo Stilton"
     },
     {
-      "id": "/2020/12/31/para-onde-vao-os-guarda-chuvas",
+      "id": "/reads/isbn/9789896721978",
       "date": "2020-12-31T12:00:00Z",
       "name": "Para Onde Vão Os Guarda-Chuvas",
       "author": "Afonso Cruz"
     },
     {
-      "id": "/2020/10/07/peer-to-peer-systems-and-applications",
+      "id": "/reads/isbn/9783540291923",
       "date": "2020-10-07T13:21:26Z",
       "name": "Peer-to-Peer Systems and Applications",
       "author": "Ralf Steinmetz"
     },
     {
-      "id": "/2020/12/31/percy-jackson-e-a-batalha-do-labirinto",
+      "id": "/reads/isbn/9789724620855",
       "date": "2020-12-31T12:00:00Z",
       "name": "Percy Jackson e a Batalha do Labirinto",
       "author": "Rick Riordan"
     },
     {
-      "id": "/2020/12/31/percy-jackson-e-a-maldicao-do-tita",
+      "id": "/reads/isbn/9789724620251",
       "date": "2020-12-31T12:00:00Z",
       "name": "Percy Jackson e a Maldição do Titã",
       "author": "Rick Riordan"
     },
     {
-      "id": "/2020/12/31/percy-jackson-e-o-mar-dos-monstros",
+      "id": "/reads/isbn/9789724622514",
       "date": "2020-12-31T12:00:00Z",
       "name": "Percy Jackson e o mar dos Monstros",
       "author": "Rick Riordan"
     },
     {
-      "id": "/2020/12/31/percy-jackson-e-o-ultimo-olimpiano",
+      "id": "/reads/isbn/9789724622415",
       "date": "2020-12-31T12:00:00Z",
       "name": "Percy Jackson e o Último Olimpiano",
       "author": "Rick Riordan"
     },
     {
-      "id": "/2020/01/15/permanent-record",
+      "id": "/reads/isbn/9781250237231",
       "date": "2020-01-15T08:00:00Z",
       "name": "Permanent Record",
       "author": "Edward Snowden"
     },
     {
-      "id": "/2020/01/15/presenting-to-win-the-art-of-telling-your-story",
+      "id": "/reads/isbn/9780130464132",
       "date": "2020-01-15T08:00:00Z",
       "name": "Presenting to Win: The Art of Telling Your Story",
       "author": "Jerry Weissman"
     },
     {
-      "id": "/2020/12/31/principe-da-tansilvania",
+      "id": "/reads/isbn/9789897070211",
       "date": "2020-12-31T12:00:00Z",
       "name": "Príncipe da Tansilvânia",
       "author": "Tim Collins"
     },
     {
-      "id": "/2020/12/31/prometidos",
+      "id": "/reads/isbn/9789895018994",
       "date": "2020-12-31T12:00:00Z",
       "name": "Prometidos",
       "author": "Caragh M. O'Brien"
     },
     {
-      "id": "/2020/12/31/quatro-historias-da-serie-divergente",
+      "id": "/reads/isbn/9789720047250",
       "date": "2020-12-31T12:00:00Z",
       "name": "Quatro – Histórias da Série Divergente",
       "author": "Veronica Roth"
     },
     {
-      "id": "/2020/12/31/quatro-ratos-no-faroeste",
+      "id": "/reads/isbn/9789722344968",
       "date": "2020-12-31T12:00:00Z",
       "name": "Quatro Ratos no Faroeste!",
       "author": "Geronimo Stilton"
     },
     {
-      "id": "/2020/12/31/sermao-de-santo-antonio-aos-peixes",
+      "id": "/reads/isbn/9789898508386",
       "date": "2020-12-31T12:00:00Z",
       "name": "Sermão de Santo António aos Peixes",
       "author": "António Vieira"
     },
     {
-      "id": "/2020/01/15/terraform-up-and-running",
+      "id": "/reads/isbn/9789352135462",
       "date": "2020-01-15T08:00:00Z",
       "name": "Terraform: Up and Running",
       "author": "Yevgeniy Brikman"
     },
     {
-      "id": "/2020/12/31/the-giver",
+      "id": "/reads/isbn/9780385732550",
       "date": "2020-12-31T12:00:00Z",
       "name": "The Giver",
       "author": "Lois Lowry"
     },
     {
-      "id": "/2022/01/22/bkesurqahv",
+      "id": "/reads/isbn/9781529087949",
       "date": "2022-01-22T22:02:22.969462Z",
       "name": "The House in the Cerulean Sea",
       "author": "TJ Klune"
     },
     {
-      "id": "/2018/01/01/the-perks-of-being-a-wallflower",
+      "id": "/reads/isbn/9781847394071",
       "date": "2018-01-01T08:00:00Z",
       "name": "The Perks of Being a Wallflower",
       "author": "Stephen Chbosky"
     },
     {
-      "id": "/2018/06/25/the-practice-of-programming",
+      "id": "/reads/isbn/9780201615869",
       "date": "2018-06-25T07:00:00Z",
       "name": "The Practice of Programming",
       "author": "Brian W. Kernighan"
     },
     {
-      "id": "/2020/12/31/tirem-me-daqui",
+      "id": "/reads/isbn/9789897071102",
       "date": "2020-12-31T12:00:00Z",
       "name": "Tirem-me Daqui!",
       "author": "Jeff Kinney"
     },
     {
-      "id": "/2020/12/31/uma-aventura-em-lisboa",
+      "id": "/reads/isbn/9789722100212",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura em Lisboa",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-entre-douro-e-minho",
+      "id": "/reads/isbn/9789722100052",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura entre Douro e Minho",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-na-amazonia",
+      "id": "/reads/isbn/9789722120388",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura na Amazónia",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-na-casa-assombrada",
+      "id": "/reads/isbn/9789722111225",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura na Casa Assombrada",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-na-praia",
+      "id": "/reads/isbn/9789722108997",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura na Praia",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-na-serra-da-estrela",
+      "id": "/reads/isbn/9789722108379",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura na Serra da Estrela",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-nas-ferias-do-natal",
+      "id": "/reads/isbn/9789722100014",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura nas Férias do Natal",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-no-bosque",
+      "id": "/reads/isbn/9789722100045",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura no Bosque",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-no-comboio",
+      "id": "/reads/isbn/9789722117906",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura no Comboio",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-no-deserto",
+      "id": "/reads/isbn/9789722100205",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura no Deserto",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-no-labirinto-misterioso",
+      "id": "/reads/isbn/9789722118606",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura no Labirinto Misterioso",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-no-pulo-do-lobo",
+      "id": "/reads/isbn/9789722121026",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura no Pulo do Lobo",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-no-verao",
+      "id": "/reads/isbn/9789722107747",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura no Verão",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/uma-aventura-secreta",
+      "id": "/reads/isbn/9789722114677",
       "date": "2020-12-31T12:00:00Z",
       "name": "Uma Aventura Secreta",
       "author": "Ana Maria Magalhães"
     },
     {
-      "id": "/2020/12/31/um-dia-de-cao",
+      "id": "/reads/isbn/9789896680596",
       "date": "2020-12-31T12:00:00Z",
       "name": "Um Dia de Cão",
       "author": "Jeff Kinney"
@@ -773,13 +785,13 @@
       "author": "Roberto Vitillo"
     },
     {
-      "id": "/2020/12/31/vem-ai-o-cometa-negro",
+      "id": "/reads/isbn/9789892313214",
       "date": "2020-12-31T12:00:00Z",
       "name": "Vem aí o cometa negro!",
       "author": "Álvaro Magalhães"
     },
     {
-      "id": "/2017/05/09/zero-to-one-notes-on-start-ups-or-how-to-build-the-future",
+      "id": "/reads/isbn/9780753555200",
       "date": "2017-05-09T07:00:00Z",
       "name": "Zero to One: Notes on Start Ups, or How to Build the Future",
       "author": "Peter Thiel"

@@ -1,11 +1,13 @@
 ---
-title: "O Ano da Morte de Ricardo Reis by José Saramago (ISBN: 9789720048820)"
+title: 'O ano da morte de Ricardo Reis by José Saramago (ISBN: 9789720048820)'
 properties:
   read-of:
     properties:
       author: José Saramago
-      name: O Ano da Morte de Ricardo Reis
-      uid: isbn:9789720048820
+      name: O ano da morte de Ricardo Reis
       pages: 494
+      uid: isbn:9789720048820
     type: h-cite
 ---
+
+
