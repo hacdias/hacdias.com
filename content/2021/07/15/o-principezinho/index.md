@@ -5,12 +5,7 @@ published: 2021-07-15T18:15:07.057199278Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Antoine de Saint-Exupéry
-      name: O Principezinho
-      uid: isbn:9789895401970
-    type: h-cite
+  read-of: /reads/isbn/9789895401970
   read-status: finished
 ---
 

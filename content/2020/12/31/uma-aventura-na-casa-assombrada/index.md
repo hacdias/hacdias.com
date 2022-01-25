@@ -5,12 +5,7 @@ published: 2020-12-31T12:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Ana Maria Magalhães
-      name: Uma Aventura na Casa Assombrada
-      uid: isbn:9789722111225
-    type: h-cite
+  read-of: /reads/isbn/9789722111225
   read-status: finished
 ---
 

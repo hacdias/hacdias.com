@@ -4,12 +4,7 @@ published: 2015-02-28T08:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Jeff Kinney
-      name: O Rodrick é Terrível
-      uid: isbn:9789896680060
-    type: h-cite
+  read-of: /reads/isbn/9789896680060
   read-status: finished
 ---
 

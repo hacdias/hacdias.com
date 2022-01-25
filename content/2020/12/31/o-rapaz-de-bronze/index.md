@@ -5,12 +5,7 @@ published: 2020-12-31T12:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Sophia de Mello Breyner Andresen
-      name: O Rapaz de Bronze
-      uid: isbn:9789726612032
-    type: h-cite
+  read-of: /reads/isbn/9789726612032
   read-status: finished
 ---
 

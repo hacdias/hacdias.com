@@ -4,11 +4,7 @@ published: 2020-12-31T12:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Ana Maria Magalhães
-      name: Uma Aventura Secreta
-    type: h-cite
+  read-of: /reads/isbn/9789722114677
   read-status: finished
 ---
 

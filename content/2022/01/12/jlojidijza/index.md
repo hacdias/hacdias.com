@@ -5,12 +5,7 @@ section:
 - reads
 createdWith: https://indiebookclub.biz/
 properties:
-  read-of:
-    properties:
-      author: TJ Klune
-      name: Under the Whispering Door
-      uid: isbn:9781529087987
-    type: h-cite
+  read-of: /reads/isbn/9781529087987
   read-status: to-read
   visibility: public
 ---

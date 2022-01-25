@@ -4,12 +4,7 @@ published: 2020-06-19T14:11:39Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: André Aciman
-      name: Call Me By Your Name
-      uid: isbn:9781786495259
-    type: h-cite
+  read-of: /reads/isbn/9781786495259
   read-status: finished
 ---
 

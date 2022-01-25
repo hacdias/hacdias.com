@@ -4,12 +4,7 @@ published: 2017-12-08T08:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Ray Bradbury
-      name: Fahrenheit 451
-      uid: isbn:9780007181704
-    type: h-cite
+  read-of: /reads/isbn/9780007181704
   read-status: finished
 ---
 

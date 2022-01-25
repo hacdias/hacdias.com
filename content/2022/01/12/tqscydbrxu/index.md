@@ -5,12 +5,7 @@ section:
 - reads
 createdWith: https://indiebookclub.biz/
 properties:
-  read-of:
-    properties:
-      author: Casey McQuiston
-      name: Red, White & Royal Blue
-      uid: isbn:9781250316776
-    type: h-cite
+  read-of: /reads/isbn/9781250316776
   read-status: to-read
   visibility: public
 ---

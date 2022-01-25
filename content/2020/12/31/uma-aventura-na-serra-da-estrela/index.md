@@ -5,12 +5,7 @@ published: 2020-12-31T12:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Ana Maria Magalhães
-      name: Uma Aventura na Serra da Estrela
-      uid: isbn:9789722108379
-    type: h-cite
+  read-of: /reads/isbn/9789722108379
   read-status: finished
 ---
 

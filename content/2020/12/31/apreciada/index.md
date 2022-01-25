@@ -4,12 +4,7 @@ published: 2020-12-31T12:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Caragh M. O'Brien
-      name: Apreciada
-      uid: isbn:9789895018987
-    type: h-cite
+  read-of: /reads/isbn/9789895018987
   read-status: finished
 ---
 

@@ -4,12 +4,7 @@ published: 2021-07-31T13:10:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Harper Lee
-      name: To Kill a Mockingbird
-      uid: isbn:9780099549482
-    type: h-cite
+  read-of: /reads/isbn/9780099549482
   read-status: to-read
 ---
 

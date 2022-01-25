@@ -5,12 +5,7 @@ published: 2018-06-25T07:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: Brian W. Kernighan
-      name: The Practice of Programming
-      uid: isbn:9780201615869
-    type: h-cite
+  read-of: /reads/isbn/9780201615869
   read-status: finished
 ---
 

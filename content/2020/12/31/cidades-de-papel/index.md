@@ -4,12 +4,7 @@ published: 2020-12-31T12:00:00Z
 section:
 - reads
 properties:
-  read-of:
-    properties:
-      author: John Green
-      name: Cidades de Papel
-      uid: isbn:9789722352925
-    type: h-cite
+  read-of: /reads/isbn/9789722352925
   read-status: finished
 ---
 
