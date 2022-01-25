@@ -25,9 +25,9 @@
     <p class="p-summary dn">{{ . }}</p>
   {{ end }}
 
-  {{ with $mf2.Int "rating" }}
-    <data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ $mf2.Stars . 5 }}</data>
-  {{ end }}
-
   <data class="p-x-read-status dn" value="{{ $status }}">{{ $status }}</data>
+
+  {{ with $mf2.Int "rating" }}
+    <p><data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ $mf2.Stars . 5 }}</data></p>
+  {{ end }}
 {{ end }}
