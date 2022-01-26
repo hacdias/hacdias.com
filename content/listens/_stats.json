@@ -2,56 +2,62 @@
   "artists": [
     {
       "name": "hoogway",
-      "count": 28,
+      "count": 35,
       "url": "https://www.last.fm/music/hoogway"
     },
     {
       "name": "HM SURF",
-      "count": 23,
+      "count": 29,
       "url": "https://www.last.fm/music/HM+SURF"
     },
     {
       "name": "Troye Sivan",
-      "count": 22,
+      "count": 23,
       "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Dimension 32",
-      "count": 19,
-      "url": "https://www.last.fm/music/Dimension+32"
-    },
-    {
-      "name": "bCalm",
-      "count": 16,
-      "url": "https://www.last.fm/music/bCalm"
-    },
-    {
-      "name": "Tibeauthetraveler",
-      "count": 16,
-      "url": "https://www.last.fm/music/Tibeauthetraveler"
-    },
-    {
-      "name": "BANKS",
-      "count": 14,
-      "url": "https://www.last.fm/music/BANKS"
-    },
-    {
       "name": "Krynoze",
-      "count": 14,
+      "count": 21,
       "url": "https://www.last.fm/music/Krynoze"
     },
     {
-      "name": "bluntone",
-      "count": 13,
-      "url": "https://www.last.fm/music/bluntone"
+      "name": "Lawrence Walther",
+      "count": 19,
+      "url": "https://www.last.fm/music/Lawrence+Walther"
     },
     {
-      "name": "Lawrence Walther",
-      "count": 13,
-      "url": "https://www.last.fm/music/Lawrence+Walther"
+      "name": "Tibeauthetraveler",
+      "count": 18,
+      "url": "https://www.last.fm/music/Tibeauthetraveler"
+    },
+    {
+      "name": "Dimension 32",
+      "count": 17,
+      "url": "https://www.last.fm/music/Dimension+32"
+    },
+    {
+      "name": "Osaki",
+      "count": 16,
+      "url": "https://www.last.fm/music/Osaki"
+    },
+    {
+      "name": "BANKS",
+      "count": 15,
+      "url": "https://www.last.fm/music/BANKS"
+    },
+    {
+      "name": "bCalm",
+      "count": 15,
+      "url": "https://www.last.fm/music/bCalm"
     }
   ],
   "tracks": [
+    {
+      "name": "Godless",
+      "url": "https://www.last.fm/music/BANKS/_/Godless",
+      "count": 10,
+      "artist": "BANKS"
+    },
     {
       "name": "Don't Need Heaven",
       "url": "https://www.last.fm/music/MakeYouKnowLove/_/Don%27t+Need+Heaven",
@@ -61,20 +67,14 @@
     {
       "name": "Catwalk (feat. Skeltal Ki)",
       "url": "https://www.last.fm/music/RuPaul/_/Catwalk+(feat.+Skeltal+Ki)",
-      "count": 10,
+      "count": 9,
       "artist": "RuPaul"
     },
     {
       "name": "What A Waste",
       "url": "https://www.last.fm/music/Gracey/_/What+A+Waste",
-      "count": 9,
-      "artist": "Gracey"
-    },
-    {
-      "name": "Godless",
-      "url": "https://www.last.fm/music/BANKS/_/Godless",
       "count": 8,
-      "artist": "BANKS"
+      "artist": "Gracey"
     },
     {
       "name": "Wasting My Young Years",
@@ -83,16 +83,22 @@
       "artist": "London Grammar"
     },
     {
-      "name": "Dandelion's Lullaby",
-      "url": "https://www.last.fm/music/Raimu/_/Dandelion%27s+Lullaby",
+      "name": "Cherry",
+      "url": "https://www.last.fm/music/Rina+Sawayama/_/Cherry",
       "count": 8,
-      "artist": "Raimu"
+      "artist": "Rina Sawayama"
     },
     {
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://www.last.fm/music/Troye+Sivan/_/Better+Now+-+Recorded+At+Spotify+Studios+NYC",
-      "count": 7,
+      "count": 8,
       "artist": "Troye Sivan"
+    },
+    {
+      "name": "Nightingale",
+      "url": "https://www.last.fm/music/Lesky/_/Nightingale",
+      "count": 7,
+      "artist": "Lesky"
     },
     {
       "name": "EASE",
@@ -101,16 +107,10 @@
       "artist": "Troye Sivan"
     },
     {
-      "name": "Today",
-      "url": "https://www.last.fm/music/Laffey/_/Today",
+      "name": "Slow Motion",
+      "url": "https://www.last.fm/music/Charlotte+Lawrence/_/Slow+Motion",
       "count": 6,
-      "artist": "Laffey"
-    },
-    {
-      "name": "Nightingale",
-      "url": "https://www.last.fm/music/Lesky/_/Nightingale",
-      "count": 6,
-      "artist": "Lesky"
+      "artist": "Charlotte Lawrence"
     }
   ]
 }
