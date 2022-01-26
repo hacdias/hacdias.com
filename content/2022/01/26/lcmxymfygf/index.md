@@ -1,0 +1,19 @@
+---
+description: 'Finished reading: Before the coffee gets cold by Toshikazu Kawaguchi,
+  ISBN: 9781529029581'
+published: 2022-01-26T20:13:15.710026895Z
+section:
+- reads
+- home
+createdWith: https://hacdias.com/
+properties:
+  rating: 5
+  read-of: /reads/isbn/9781529029581
+  read-status: finished
+---
+
+Just finished reading "Before the coffee gets cold" by Toshikazu Kawaguchi. It is, yet again, a book that falls into the magical realism domain. In this book, the story takes place in a little café in Tokyo. In this café, there is a special seat where people can seat and travel in time.
+
+Traveling in time comes with many rules. Among them, you must drink the coffee before it gets cold and nothing will ever change. The book follows a few characters that end up traveling and the story behind it and their reasons.
+
+It is a very intriguing, yet fascinating concept that the author brings us. It was quite an enjoyable read and I'm [hoping to read](/2022/01/25/ainupehhfp) the second volume sometime soon.

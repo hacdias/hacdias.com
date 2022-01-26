@@ -1,7 +1,7 @@
 ---
 title: Impossible List
 published: 2020-07-15T00:00:00Z
-updated: 2022-01-25T15:53:18.47352611Z
+updated: 2022-01-26T09:02:32.357303962Z
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -103,7 +103,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 5. [ ] Finish my master's degree
 6. [ ] Write a fiction book
 7. [ ] Write a non-fiction book
-8. [ ] Learn how to play an instrument 🎶
+8. [ ] Learn how to play an 🎶 instrument
 9. [ ] Learn a new sport
 10. [ ] Host a meetup
 11. [x] ~~Create a website~~ <small>[July 2014]</small>
@@ -122,7 +122,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    2. [ ] Live abroad for more than 2 years
 5. [ ] Volunteer for a good cause for 6 months
 6. [ ] Donate for a good cause for 6 months
-7. [ ] Go on a hot air balloon 🎈 ride 
+7. [ ] Go on a hot air 🎈 balloon ride 
 
 ## Health and Fitness Goals
 
@@ -139,4 +139,5 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## Miscellaneous Goals
 
-1. [ ] Ride a subway train 🚇 in the front cabin
+1. [ ] Ride a 🚇 subway train in the front cabin
+2. [ ] Visit an ✈️ airplane's cockpit mid-air

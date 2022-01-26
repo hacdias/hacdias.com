@@ -3,5 +3,26 @@
     "https://hacdias.com/reads/isbn/9789720048820"
   ],
   "context": null,
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "I recently tried to read Seeing. That did not work out. (I remember really liking Blindness when I read it years ago. I had totally forgotten about the writing style!) Saramago disregards normal punctuation rules and only uses commas and dots.",
+      "in-reply-to": "https://hacdias.com/2022/01/17/jahveqylny",
+      "post-type": "reply",
+      "published": "2022-01-26T11:41:15+01:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/notes/736b5d1f33",
+      "wm-id": 1338449,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-01-26T10:42:25Z",
+      "wm-source": "https://jan.boddez.net/notes/736b5d1f33",
+      "wm-target": "https://hacdias.com/2022/01/17/jahveqylny"
+    }
+  ]
 }
