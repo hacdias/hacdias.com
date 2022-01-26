@@ -2,8 +2,6 @@
   {{ $isLong := or (.InSection "articles") (eq (len .Sections) 0) }}
 
   <article class='h-entry card'>
-    <a href="{{ relURL .Permalink }}" title="{{ .Title }}" class="u-url nl link"></a>
-
     {{ include "post/header" . }}
 
     {{ if $isLong }}
@@ -18,7 +16,7 @@
     {{ include "post/footer" . }}
 
     {{ if $isLong }}
-      <div class="more">READ MORE</div>
+      <a href="{{ relURL .Permalink }}" title="Read More" class="nl"><div class="more">READ MORE</div></a>
     {{ end }}
   </article>
 {{ end }}

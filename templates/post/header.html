@@ -29,7 +29,11 @@
   {{ else if .Entry.Title }}
     <header>
       {{ if .IsListing }}
-        {{ with .Entry.Title }}<h3 class='p-name'>{{- . -}}</h3>{{ end }}
+        {{ if .Entry.Title }}
+          <h3 class='p-name'>
+            <a href="{{ relURL .Permalink }}" title="{{ .Entry.Title }}" class="nl">{{- .Entry.Title -}}</a>
+          </h3>
+        {{ end }}
       {{ else }}
         {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
         {{ if .InSection "articles" }}
