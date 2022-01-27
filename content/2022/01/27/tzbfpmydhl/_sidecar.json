@@ -1,0 +1,29 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/df280a6a00d9d8e4cd4e0e1647c477f51854f80b3337007e5d9ecb049d0f304d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com/"
+      },
+      "content": "Well, that clearly worked. Maybe I should also add an option on whether or not to share it on Twitter. Or maybe not. I can defer those complicated things to Quill.",
+      "in-reply-to": "https://hacdias.com/2022/01/27/tzbfpmydhl",
+      "post-type": "reply",
+      "published": "2022-01-27T11:02:56Z",
+      "rels": {
+        "canonical": "https://hacdias.com/2022/01/27/mvmktenykm"
+      },
+      "type": "entry",
+      "url": "https://hacdias.com/2022/01/27/mvmktenykm",
+      "wm-id": 1339559,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-01-27T11:03:00Z",
+      "wm-source": "https://hacdias.com/2022/01/27/mvmktenykm",
+      "wm-target": "https://hacdias.com/2022/01/27/tzbfpmydhl"
+    }
+  ]
+}

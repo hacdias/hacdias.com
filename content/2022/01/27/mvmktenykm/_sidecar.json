@@ -1,0 +1,22 @@
+{
+  "targets": [
+    "https://hacdias.com/2022/01/27/tzbfpmydhl"
+  ],
+  "context": {
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://cdn.hacdias.com/wm/664891eacca0e5248f8e6c7b5849da5c82f3a7d58fe9693e730338d01513b117.jpg",
+      "type": "card",
+      "url": "https://hacdias.com/"
+    },
+    "content": "So I just updated my iOS shortcuts to include a new Micropub post. I now have shortcuts for replying, linking, bookmarking, reposting and updating a book reading progress. Let’s hope this works and that it will make me post more 🤔",
+    "post-type": "note",
+    "published": "2022-01-27T11:01:54Z",
+    "rels": {
+      "canonical": "https://hacdias.com/2022/01/27/tzbfpmydhl"
+    },
+    "type": "entry",
+    "url": "https://hacdias.com/2022/01/27/tzbfpmydhl"
+  },
+  "webmentions": []
+}
