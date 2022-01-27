@@ -1,0 +1,22 @@
+---
+description: 'Just ate: Pasta al forno met gehaktballen'
+published: 2022-01-27T19:01:04.291662903Z
+section:
+- health
+- ate
+properties:
+  ate:
+    properties:
+      name: Pasta al forno met gehaktballen
+    type: h-food
+  location:
+    properties:
+      country-name: Netherlands
+      latitude: 51.43244
+      locality: Eindhoven
+      longitude: 5.4861
+      region: North Brabant
+    type: h-adr
+---
+
+

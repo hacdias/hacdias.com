@@ -19,12 +19,6 @@
       "author": "Fernando Pessoa"
     },
     {
-      "id": "/reads/isbn/9781250316776",
-      "date": "2022-01-12T10:42:46.003223Z",
-      "name": "Red, White \u0026 Royal Blue",
-      "author": "Casey McQuiston"
-    },
-    {
       "id": "/reads/isbn/9780062348678",
       "date": "2021-11-07T12:00:00Z",
       "name": "Simon vs. the Homo Sapiens Agenda",
@@ -73,7 +67,14 @@
       "author": "TJ Klune"
     }
   ],
-  "reading": [],
+  "reading": [
+    {
+      "id": "/reads/isbn/9781250316776",
+      "date": "2022-01-27T22:10:54.382993Z",
+      "name": "Red, White \u0026 Royal Blue",
+      "author": "Casey McQuiston"
+    }
+  ],
   "finished": [
     {
       "id": "/reads/isbn/9789726611950",
