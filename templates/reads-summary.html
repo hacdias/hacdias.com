@@ -17,7 +17,7 @@
           {{ md . }}
         {{ end }}
 
-        <h2 id="series">📖 Reading</h2>
+        <h2 id="reading">📖 Reading</h2>
 
         {{ if eq (len $reading) 0 }}
           <p>Not reading any book at the moment.</p>
@@ -25,11 +25,11 @@
           {{ template "read-list" $reading }}
         {{ end }}
 
-        <h2 id="series">📚 To Read</h2>
+        <h2 id="to-read">📚 To Read</h2>
 
         {{ template "read-list" $toRead }}
 
-        <h2 id="movies">📕 Finished</h2>
+        <h2 id="finished">📕 Finished</h2>
 
         {{ template "read-list" $finished }}
       </div>
