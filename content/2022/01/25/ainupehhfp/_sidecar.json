@@ -1,5 +1,8 @@
 {
-  "targets": [],
+  "targets": [
+    "https://hacdias.com/reads/isbn/9781529050868",
+    "https://hacdias.com/2022/01/26/lcmxymfygf"
+  ],
   "context": null,
   "webmentions": [
     {

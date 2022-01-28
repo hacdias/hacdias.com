@@ -58,6 +58,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 5. [ ] Visit 🇲🇴 Macau
 6. [ ] Interrail across 🇪🇺 Europe
 7. [ ] See the Aurora Borealis
+8. [ ] Be in a train between mainland Europe and the UK
 
 **Countries Bucket List**
 

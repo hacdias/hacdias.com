@@ -5,11 +5,7 @@ section:
 - reads
 createdWith: https://hacdias.com/
 properties:
-  read-of:
-    properties:
-      author: Toshikazu Kawaguchi
-      name: Tales from the Cafe
-    type: h-cite
+  read-of: /reads/isbn/9781529050868
   read-status: to-read
 ---
 
