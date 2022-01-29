@@ -3,13 +3,13 @@
   {{ $type := $mf2.PostType }}
 
   {{ if eq $type "reply" }}
-    {{ include "post/embbeded" . }}
+    {{ include "post/embedded" . }}
   {{ else if eq $type "like" }}
     <header><p>❤️ <strong>Liked</strong></p></header>
-    {{ include "post/embbeded" . }}
+    {{ include "post/embedded" . }}
   {{ else if eq $type "repost" }}
     <header><p>📢 <strong>Reposted</strong></p></header>
-    {{ include "post/embbeded" . }}
+    {{ include "post/embedded" . }}
   {{ else if eq $type "bookmark" }}
     {{ include "post/bookmark" . }}
   {{ else if eq $type "read" }}
