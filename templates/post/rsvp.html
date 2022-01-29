@@ -16,6 +16,8 @@
     {{ end }}
   </header>
 
+  <data class="p-rsvp" value="{{ $rsvp }}"></data>
+
   {{ with $data.Context }}
   <div class="h-cite ibox u-in-reply-to">
     <a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url p-name">{{ .name }}</a>
