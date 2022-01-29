@@ -26,6 +26,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [📚 Reads](/reads/summary)
 - [💬 Replies](/replies)
 - [📢 Reposts](/reposts)
+- [📅 RSVPs](/rsvps)
 - [🎬 Watches](/watches/summary)
 
 </div>
