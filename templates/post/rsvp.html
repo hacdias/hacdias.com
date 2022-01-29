@@ -1,0 +1,31 @@
+{{ define "post/rsvp" }}
+  {{ $mf2 := .Helper }}
+  {{ $data := .GetSidecar }}
+  {{ $url := $mf2.String "in-reply-to" }}
+  {{ $rsvp := $mf2.String $mf2.TypeProperty }}
+  
+  <header>
+    {{ if eq $rsvp "interested" }}
+      <p>⭐️ <strong>Interested In Going To</strong></p>
+    {{ else if eq $rsvp "yes" }}
+      <p>✔️ <strong>Is Going To</strong></p>
+    {{ else if eq $rsvp "no" }}
+      <p>❌ <strong>Is Not Going To</strong></p>
+    {{ else if eq $rsvp "maybe" }}
+      <p>🤔 <strong>Is Maybe Going To</strong></p>
+    {{ end }}
+  </header>
+
+  {{ with $data.Context }}
+  <div class="h-cite ibox u-in-reply-to">
+    <a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url p-name">{{ .name }}</a>
+    {{- if .start -}}
+      , happening on {{ dateFormat .start "January 02, 2006" }}.
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="h-cite ibox u-in-reply-to">
+    An event on <a rel="noopener noreferrer" target="_blank" href="{{ $url }}">{{ domain $url }}</a>
+  </div>
+  {{ end }}
+{{ end }}
