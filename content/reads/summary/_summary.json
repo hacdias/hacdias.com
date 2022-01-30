@@ -73,14 +73,7 @@
       "author": "TJ Klune"
     }
   ],
-  "reading": [
-    {
-      "id": "/reads/isbn/9781250316776",
-      "date": "2022-01-29T23:58:28.042514+01:00",
-      "name": "Red, White \u0026 Royal Blue",
-      "author": "Casey McQuiston"
-    }
-  ],
+  "reading": [],
   "finished": [
     {
       "id": "/reads/isbn/9789726611950",
@@ -657,6 +650,12 @@
       "date": "2020-12-31T13:00:00+01:00",
       "name": "Quatro Ratos no Faroeste!",
       "author": "Geronimo Stilton"
+    },
+    {
+      "id": "/reads/isbn/9781250316776",
+      "date": "2022-01-30T23:06:19.086212+01:00",
+      "name": "Red, White \u0026 Royal Blue",
+      "author": "Casey McQuiston"
     },
     {
       "id": "/reads/isbn/9789898508386",
