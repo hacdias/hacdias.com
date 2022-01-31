@@ -1,0 +1,25 @@
+{
+  "targets": [
+    "https://twitter.com/nimobeeren/status/1488217359391379471?s=12"
+  ],
+  "context": {
+    "author": {
+      "bio": "I like coding tools 🪚🗜️⌨️🔧🪛\n\nAlso working on my MSc thesis on typing graph queries! 📈",
+      "location": "Eindhoven, Nederland",
+      "name": "Nimo",
+      "nickname": "nimobeeren",
+      "photo": "https://cdn.hacdias.com/wm/bd4eda496f1d4c64f5a0760b41b07cb7dd884f710275ea1c5c71ac03b93cbbc6.jpg",
+      "type": "card",
+      "url": "https://twitter.com/nimobeeren"
+    },
+    "content": "I think I prefer ebooks because they are easier to hold while reading and easier to carry around. But I'm still very on the fence about this, since a physical book just feels nicer. Maybe for fiction I'd prefer physical books",
+    "in-reply-to": [
+      "https://twitter.com/hacdias/status/1488181672306692099"
+    ],
+    "post-type": "reply",
+    "published": "2022-01-31T18:27:22Z",
+    "type": "entry",
+    "url": "https://twitter.com/nimobeeren/status/1488217359391379471?s=12"
+  },
+  "webmentions": []
+}
