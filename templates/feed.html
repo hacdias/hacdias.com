@@ -4,26 +4,28 @@
 
   {{- if eq $type "reply" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Replied to <a href="{{ $url }}">a post on {{ domain $url }}</a></em></p>
+    <p><em>Replied to a post on <a href="{{ $url }}">{{ domain $url }}</a></em></p>
   {{- else if eq $type "like" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Liked <a href="{{ $url }}">a post on {{ domain $url }}</a></em></p>
+    <p><em>Liked a post on <a href="{{ $url }}">{{ domain $url }}</a></em></p>
   {{- else if eq $type "repost" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Reposted <a href="{{ $url }}">a post on {{ domain $url }}</a></em></p>
+    <p><em>Reposted a post on <a href="{{ $url }}">{{ domain $url }}</a></em></p>
   {{- else if eq $type "bookmark" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Bookmarked <a href="{{ $url }}">a post on {{ domain $url }}</a></em></p>
+    <p><em>Bookmarked <a href="{{ $url }}">"{{ .Title }}" on {{ domain $url }}</a></em></p>
   {{- else if eq $type "checkin" }}
     {{ $checkin := $mf2.Sub $mf2.TypeProperty }}
-    <p><em>Checked in at {{ $checkin.Name }}</em></p>
+    <p><em>{{ .Description }}</em></p>
+  {{- else if eq $type "note" }}
+    {{/* Nothing */}}
+  {{- else if eq $type "itinerary" }}
+    {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}
+    {{ with .TryFiles "map.png" "map.jpeg" }}{{ figure . "Map" true }}{{ end }}
   {{- else if ne $type "article" }}
-    {{ with $mf2.String "summary" }}
-      <p>{{ . }}</p>
-    {{ end }}
+    {{/* Ate, Drank, Checkin, Itinerary, Read, RSVP, Watch */}}
+    {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}
   {{ end }}
-
-  <!-- TODO: ITINERARY, READS and WATCHES -->
 
   {{- with .Content }}{{ md . }}{{ end -}}
 
