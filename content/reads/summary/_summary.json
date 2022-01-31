@@ -49,12 +49,6 @@
       "author": "Mikhail Bulgakov"
     },
     {
-      "id": "/reads/isbn/9781786892737",
-      "date": "2022-01-25T14:57:12.866692+01:00",
-      "name": "The Midnight Library",
-      "author": "Matt Haig"
-    },
-    {
       "id": "/reads/isbn/9781529405231",
       "date": "2022-01-24T08:11:26.183365+01:00",
       "name": "This Is How You Lose the Time War",
@@ -73,7 +67,14 @@
       "author": "TJ Klune"
     }
   ],
-  "reading": [],
+  "reading": [
+    {
+      "id": "/reads/isbn/9781786892737",
+      "date": "2022-01-31T23:37:53.960678+01:00",
+      "name": "The Midnight Library",
+      "author": "Matt Haig"
+    }
+  ],
   "finished": [
     {
       "id": "/reads/isbn/9789726611950",
