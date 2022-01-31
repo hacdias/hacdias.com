@@ -7,7 +7,7 @@
     {{ $mf2 := .Helper }}
     {{ $read := $mf2.Sub $mf2.TypeProperty }}
 
-    {{ $name := $read.String "name" }}
+    {{ $name := $read.Name }}
     {{ $author := $read.String "author" }}
     {{ $uid := $read.String "uid" }}
     {{ $pages := $read.Int "pages" }}

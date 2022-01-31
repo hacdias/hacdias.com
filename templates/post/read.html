@@ -7,7 +7,7 @@
     {{ $read = (.GetEntry $canonical).Helper.Sub $mf2.TypeProperty }}
   {{ end }}
 
-  {{ $name := $read.String "name" }}
+  {{ $name := $read.Name }}
   {{ $author := $read.String "author" }}
   {{ $status := $mf2.String "read-status" }}
 

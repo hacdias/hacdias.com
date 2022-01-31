@@ -11,9 +11,9 @@
 
     <div class="ibox u-watch-of h-cite">
       <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
-        <span class="p-name">{{ $sub.String "name" }}</span>
+        <span class="p-name">{{ $sub.Name }}</span>
         (
-          {{- with $series.String "name" }}<span class="u-episode-of h-cite"><span class="p-name">{{ . }}</span></span>{{ end }}
+          {{- with $series.Name }}<span class="u-episode-of h-cite"><span class="p-name">{{ . }}</span></span>{{ end }}
           {{ with $season }} S<span class="p-season">{{.}}</span>{{ end -}}
           {{ with $episode }}E<span class="p-episode">{{.}}</span>{{ end -}}
         )
@@ -24,7 +24,7 @@
 
     <div class="ibox u-watch-of h-cite">
       <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
-        <span class="p-name">{{ $sub.String "name" }}</span>
+        <span class="p-name">{{ $sub.Name }}</span>
       </a>
     </div>
   {{ end }}
