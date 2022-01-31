@@ -5,10 +5,15 @@
     {{ include "post/header" . }}
 
     {{ if $isLong }}
-      {{ with .Summary }}<div class='copy p-summary'><p>{{ md . }}</p></div>{{ end }}
+      {{ $summary := or .Excerpt .Description }}
+      {{ with $summary }}<div class='copy p-summary'>{{ md . }}</div>{{ end }}
     {{ else }}
       {{ with .Content }}
-        <div class='copy e-content {{ if not $.Title }}p-name{{ end }}'>{{ md . }}</div>
+        <div class='copy e-content'>{{ md . }}</div>
+      {{ end }}
+
+      {{ with .DisplayDescription }}
+        <p class='dn p-summary {{ if not $.Title }}p-name{{ end }}'>{{ . }}</p>
       {{ end }}
     {{ end }}
 

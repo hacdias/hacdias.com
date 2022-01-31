@@ -6,7 +6,11 @@
     {{ include "post/header" . }}
 
     {{ with .Entry.Content }}
-      <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>
+      <div class='copy e-content'>{{ md . }}</div>
+    {{ end }}
+
+    {{ with .DisplayDescription }}
+      <p class='dn p-summary {{ if not $.Entry.Title }}p-name{{ end }}'>{{ . }}</p>
     {{ end }}
 
     {{ include "post/photos" . }}

@@ -33,9 +33,5 @@
     {{ with $canonical }}</a>{{ end }}
   </div>
 
-  {{ with $mf2.String "summary" }}
-    <p class="p-summary dn">{{ . }}</p>
-  {{ end }}
-
   <data class="p-x-read-status dn" value="{{ $status }}">{{ $status }}</data>
 {{ end }}

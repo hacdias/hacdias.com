@@ -48,8 +48,4 @@
   {{ with .TryFiles "map.png" "map.jpeg" }}
     {{ figure . "Map" true }}
   {{ end }}
-
-  {{ with $mm.String "summary" }}
-    <p class="p-summary dn">{{ . }}</p>
-  {{ end }}
 {{ end }}
