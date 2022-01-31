@@ -27,6 +27,10 @@
     {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}
   {{ end }}
 
+  {{ with $mf2.Int "rating" }}
+    <p><strong>Rating</strong>: {{ stars . 5 }}</p>
+  {{ end }}
+
   {{- with .Content }}{{ md . }}{{ end -}}
 
   {{ include "post/photos" . }}
