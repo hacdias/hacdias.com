@@ -1,0 +1,26 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "LDV",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
+        "type": "card",
+        "url": ""
+      },
+      "content": "I like ebooks b/c I can un-highlight, search text, and read anywhere. I like having physical books for less eye strain. In some cases, I have both if I really like the book. Ebooks are my go-to, though. (And only ebooks with flowing text are worth it - pdfs are too clunky).",
+      "in-reply-to": "https://hacdias.com/2022/01/31/bjdtodgllv",
+      "post-type": "reply",
+      "published": "2022-01-31T16:27:47Z",
+      "type": "entry",
+      "url": "https://commentpara.de/comment/956.htm",
+      "wm-id": 1343037,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-01-31T16:27:47Z",
+      "wm-source": "https://commentpara.de/comment/956.htm",
+      "wm-target": "https://hacdias.com/2022/01/31/bjdtodgllv"
+    }
+  ]
+}
