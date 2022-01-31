@@ -1,5 +1,5 @@
 {{ define "base/head" }}
-  {{ $description := or .Description .Site.Description }}
+  {{ $description := or .DisplayDescription .Site.Description }}
   {{ $shortTitle := or .Title .Site.Title }}
   
   <meta charset="utf-8">
