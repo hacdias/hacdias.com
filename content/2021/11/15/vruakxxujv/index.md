@@ -1,5 +1,6 @@
 ---
 title: My Business Card Runs Linux
+description: Bookmarked a post from www.thirtythreeforty.net
 published: 2021-11-15T11:02:03.29188263Z
 section:
 - bookmarks

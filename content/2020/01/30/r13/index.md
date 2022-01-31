@@ -1,4 +1,5 @@
 ---
+description: Replied to a post from twitter.com
 published: 2020-01-30T11:25:56.527Z
 section:
 - micro

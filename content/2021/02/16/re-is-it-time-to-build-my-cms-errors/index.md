@@ -1,4 +1,5 @@
 ---
+description: Replied to a post from ybbond.id
 published: 2021-02-16T20:21:25.185559963Z
 section:
 - micro

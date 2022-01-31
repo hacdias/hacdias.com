@@ -6,8 +6,8 @@ createdWith: https://quill.p3k.io/
 properties:
   itinerary:
     properties:
-      arrival: 2021-07-12T20:58:00Z
-      departure: 2021-07-12T18:09:00Z
+      arrival: "2021-07-12T20:58:00Z"
+      departure: "2021-07-12T18:09:00Z"
       destination:
         properties:
           country-name: Portugal

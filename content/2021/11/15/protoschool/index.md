@@ -1,5 +1,6 @@
 ---
 title: ProtoSchool
+description: Bookmarked a post from proto.school
 published: 2021-11-15T11:08:46.931654234Z
 section:
 - bookmarks

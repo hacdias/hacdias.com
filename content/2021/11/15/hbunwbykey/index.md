@@ -1,5 +1,6 @@
 ---
 title: Wave-share
+description: Bookmarked a post from ggerganov.github.io
 published: 2021-11-15T11:03:52.136503536Z
 section:
 - bookmarks

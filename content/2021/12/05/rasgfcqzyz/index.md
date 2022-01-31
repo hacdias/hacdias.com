@@ -1,4 +1,5 @@
 ---
+description: Replied to a post from twitter.com
 published: 2021-12-05T22:16:28.86801396Z
 section:
 - replies

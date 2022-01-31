@@ -1,4 +1,5 @@
 ---
+description: Replied to a post from aaronparecki.com
 published: 2020-01-22T14:16:31.926Z
 section:
 - micro

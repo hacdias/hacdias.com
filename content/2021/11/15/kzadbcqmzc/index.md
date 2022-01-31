@@ -1,5 +1,6 @@
 ---
 title: ENS | Ethereum Name Service
+description: Bookmarked a post from ens.domains
 published: 2021-11-15T11:07:01.181723124Z
 section:
 - bookmarks

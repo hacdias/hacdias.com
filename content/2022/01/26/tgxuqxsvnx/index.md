@@ -1,5 +1,6 @@
 ---
 title: Run Ordinary Rails Apps Globally
+description: Bookmarked a post from fly.io
 deleted: true
 published: 2022-01-26T12:32:51.314227408Z
 section:

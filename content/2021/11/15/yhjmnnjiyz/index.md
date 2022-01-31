@@ -1,5 +1,6 @@
 ---
 title: Namebase
+description: Bookmarked a post from www.namebase.io
 published: 2021-11-15T11:06:38.430608035Z
 section:
 - bookmarks

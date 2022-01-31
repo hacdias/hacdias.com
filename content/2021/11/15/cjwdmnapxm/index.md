@@ -1,5 +1,6 @@
 ---
 title: Scuttlebutt
+description: Bookmarked a post from scuttlebutt.nz
 published: 2021-11-15T11:04:52.854153869Z
 section:
 - bookmarks

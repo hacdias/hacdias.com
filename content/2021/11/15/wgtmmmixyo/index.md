@@ -1,5 +1,6 @@
 ---
 title: Replacing Cron Jobs With systemd Timers | Mjanja Tech
+description: Bookmarked a post from mjanja.ch
 published: 2021-11-15T11:03:00.076264408Z
 section:
 - bookmarks
