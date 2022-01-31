@@ -1,5 +1,5 @@
 ---
-description: 'Want to read: O Ano da Morte de Ricardo Reis by José Saramago, ISBN:
+description: 'Want to read: O ano da morte de Ricardo Reis by José Saramago, ISBN:
   9789720048820'
 published: 2021-07-31T13:10:00Z
 section:

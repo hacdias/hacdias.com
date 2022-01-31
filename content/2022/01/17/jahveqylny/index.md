@@ -1,5 +1,5 @@
 ---
-description: 'Finished reading: O Ano da Morte de Ricardo Reis by José Saramago, ISBN:
+description: 'Finished reading: O ano da morte de Ricardo Reis by José Saramago, ISBN:
   9789720048820'
 published: 2022-01-17T17:39:36.758940822Z
 section:
