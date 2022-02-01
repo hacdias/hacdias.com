@@ -134,7 +134,7 @@
   {
     "title": "Henrique Dias",
     "site": "https://hacdias.com/",
-    "feed": "https://hacdias.com/.atom",
+    "feed": "https://hacdias.com/all.atom",
     "category": "myself"
   },
   {
@@ -205,8 +205,8 @@
   },
   {
     "title": "Malik's Blog",
-    "site": "https://maliks.blog",
-    "feed": "https://maliks.blog/feed.xml",
+    "site": "https://moonwith.com/",
+    "feed": "https://moonwith.com/feed.xml",
     "category": "following"
   },
   {
