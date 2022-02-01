@@ -5,13 +5,10 @@
     {{ include "base/admin" . }}
     {{ include "post/header" . }}
 
-    {{ $stats := .GetJSON "_summary.json" }}
+    {{ $stats := .WatchesSummary }}
 
     {{ with $stats }}
-      {{ $series := index $stats "series" }}
-      {{ $movies := index $stats "movies" }}
-
-      <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>
+      <div class='copy e-content'>
         {{ with $.Entry.Content }}
           {{ md . }}
         {{ end }}
@@ -19,13 +16,13 @@
         <h2 id="series">📺 Series</h2>
 
         <div class="box">
-          {{ template "watch-list" $series }}
+          {{ template "watch-list" $stats.Series }}
         </div>
 
         <h2 id="movies">🎬 Movies</h2>
 
         <div class="box">
-          {{ template "watch-list" $movies }}
+          {{ template "watch-list" $stats.Movies }}
         </div>
       </div>
     {{ else }}
@@ -39,12 +36,12 @@
 {{ end }}
 
 {{ define "watch-list" }}
-  {{ $year := now.Format "2006" }}
+  {{ $year := now.Year }}
 
   <ul>
     {{ range . }}
-      {{ $watchedYear := dateFormat .date "2006" }}
-      <li><a href="{{ relURL .id }}">{{ .name }}</a> <small>last watched in {{ if eq $year $watchedYear }}{{ dateFormat .date "January" }}{{ else }}{{ dateFormat .date "2006" }}{{ end }}</small></li>
+      {{ $watchedYear := .Date.Year }}
+      <li><a href="{{ relURL .ID }}">{{ .Name }}</a> <small>last watched in {{ if eq $year $watchedYear }}{{ .Date.Format "January" }}{{ else }}{{ .Date.Format "2006" }}{{ end }}</small></li>
     {{ end }}
   </ul>
 {{ end }}
