@@ -6,13 +6,13 @@
   
   <header>
     {{ if eq $rsvp "interested" }}
-      <p>⭐️ <strong>Interested In Going To</strong></p>
+      <p>⭐️ <strong>Interested In</strong></p>
     {{ else if eq $rsvp "yes" }}
-      <p>✔️ <strong>Is Going To</strong></p>
+      <p>✔️ <strong>Going To</strong></p>
     {{ else if eq $rsvp "no" }}
-      <p>❌ <strong>Is Not Going To</strong></p>
+      <p>❌ <strong>Not Going To</strong></p>
     {{ else if eq $rsvp "maybe" }}
-      <p>🤔 <strong>Is Maybe Going To</strong></p>
+      <p>🤔 <strong>Maybe Going To</strong></p>
     {{ end }}
   </header>
 
