@@ -1,4 +1,5 @@
 ---
+description: Not going to an event on events.indieweb.org
 published: 2022-02-02T00:07:47.07089654+01:00
 section:
 - rsvps

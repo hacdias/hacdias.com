@@ -1,4 +1,5 @@
 ---
+description: Maybe going to an event on events.indieweb.org
 published: 2022-01-29T21:51:59.42916232+01:00
 section:
 - rsvps
