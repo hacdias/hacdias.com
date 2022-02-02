@@ -4,13 +4,13 @@
 
   {{- if eq $type "reply" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Replied to a post on <a href="{{ $url }}">{{ domain $url }}</a></em></p>
+    <p><em>Replied to <a href="{{ $url }}">{{ $url }}</a></em></p>
   {{- else if eq $type "like" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Liked a post on <a href="{{ $url }}">{{ domain $url }}</a></em></p>
+    <p><em>Liked <a href="{{ $url }}">{{ $url }}</a></em></p>
   {{- else if eq $type "repost" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Reposted a post on <a href="{{ $url }}">{{ domain $url }}</a></em></p>
+    <p><em>Reposted <a href="{{ $url }}">{{ $url }}</a></em></p>
   {{- else if eq $type "bookmark" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
     <p><em>Bookmarked <a href="{{ $url }}"><strong>{{ .Title }}<strong> on {{ domain $url }}</a></em></p>
