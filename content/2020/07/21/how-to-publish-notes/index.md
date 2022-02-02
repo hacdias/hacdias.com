@@ -1,5 +1,5 @@
 ---
-description: Replied to a post from hacdias.com
+description: Replied to a post on hacdias.com
 published: 2020-07-21T07:34:33.271Z
 section:
 - micro

@@ -1,4 +1,5 @@
 ---
+description: Trip from Brussels-North Train Station to Antwerp (Koningin Astridplein)
 published: 2020-02-07T12:45:00+01:00
 section:
 - itineraries

@@ -1,4 +1,5 @@
 ---
+description: Trip from London (LHR) to Lisbon (LIS)
 published: 2018-10-13T20:45:00Z
 section:
 - itineraries

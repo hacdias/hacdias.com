@@ -1,4 +1,5 @@
 ---
+description: Trip from Lisbon (LIS) to Brussels (BRU)
 published: 2019-01-31T10:25:00Z
 section:
 - itineraries

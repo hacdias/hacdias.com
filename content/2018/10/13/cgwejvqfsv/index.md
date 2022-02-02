@@ -1,4 +1,5 @@
 ---
+description: Trip from Glasgow (GLA) to London (LHR)
 published: 2018-10-13T13:10:00Z
 section:
 - itineraries

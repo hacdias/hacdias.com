@@ -1,6 +1,6 @@
 ---
 title: NEAR Protocol
-description: Bookmarked a post from near.org
+description: Bookmarked a post on near.org
 published: 2021-11-15T11:05:24.991525404Z
 section:
 - bookmarks

@@ -1,4 +1,5 @@
 ---
+description: Trip from Eindhoven (EIN) to Faro (FAO)
 published: 2021-07-06T14:00:00Z
 section:
 - itineraries

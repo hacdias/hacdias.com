@@ -1,4 +1,5 @@
 ---
+description: Trip from Lisboa (Sete Rios) to Ourique
 published: 2019-10-04T21:40:00Z
 section:
 - itineraries

@@ -1,5 +1,5 @@
 ---
-description: Bookmarked a post from www.jetbrains.com
+description: Bookmarked a post on www.jetbrains.com
 deleted: true
 published: 2021-11-30T07:30:15.176587163Z
 section:

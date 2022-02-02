@@ -1,5 +1,5 @@
 ---
-description: Replied to a post from jlelse.blog
+description: Replied to a post on jlelse.blog
 published: 2020-06-01T07:39:52.576Z
 section:
 - micro

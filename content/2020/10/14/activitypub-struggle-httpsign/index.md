@@ -1,5 +1,5 @@
 ---
-description: Replied to a post from jan.boddez.net
+description: Replied to a post on jan.boddez.net
 published: 2020-10-14T10:09:25Z
 section:
 - micro

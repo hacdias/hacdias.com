@@ -1,4 +1,5 @@
 ---
+description: Trip from Eindhoven Centraal to Gent St Pieters
 published: 2021-08-21T10:32:00+02:00
 section:
 - itineraries

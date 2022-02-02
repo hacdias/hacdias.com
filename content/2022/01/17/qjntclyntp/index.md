@@ -1,4 +1,5 @@
 ---
+description: Trip from Eindhoven Centraal to Den Haag Centraal
 deleted: true
 published: 2022-01-17T13:42:00+01:00
 section:

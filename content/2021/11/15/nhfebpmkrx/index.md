@@ -1,6 +1,6 @@
 ---
 title: IPFS
-description: Bookmarked a post from ipfs.io
+description: Bookmarked a post on ipfs.io
 published: 2021-11-15T11:05:08.300306983Z
 section:
 - bookmarks

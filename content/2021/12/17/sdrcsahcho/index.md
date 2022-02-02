@@ -1,5 +1,5 @@
 ---
-description: Replied to a post from micro.blog
+description: Replied to a post on micro.blog
 published: 2021-12-17T15:44:32.836442167Z
 section:
 - replies

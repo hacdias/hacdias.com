@@ -1,4 +1,5 @@
 ---
+description: Trip from Funcheira to Lisboa (Entrecampos)
 published: 2019-10-23T10:13:00Z
 section:
 - itineraries

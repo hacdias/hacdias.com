@@ -1,4 +1,5 @@
 ---
+description: Trip from Lisbon (LIS) to London (LGW)
 published: 2019-02-05T15:05:00Z
 section:
 - itineraries

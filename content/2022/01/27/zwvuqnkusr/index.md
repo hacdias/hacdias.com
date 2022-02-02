@@ -1,5 +1,5 @@
 ---
-description: Replied to a post from twitter.com
+description: Replied to a post on twitter.com
 published: 2022-01-27T10:50:21.759056586Z
 section:
 - replies

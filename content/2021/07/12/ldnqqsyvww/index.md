@@ -1,4 +1,5 @@
 ---
+description: Trip from Lisboa (Oriente) to Porto (Campanhã)
 published: 2021-07-12T20:58:00Z
 section:
 - itineraries

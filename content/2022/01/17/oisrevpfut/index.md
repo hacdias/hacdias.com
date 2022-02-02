@@ -1,4 +1,5 @@
 ---
+description: Trip from Den Haag HS to Eindhoven Centraal
 published: 2022-01-17T17:45:00+01:00
 section:
 - itineraries

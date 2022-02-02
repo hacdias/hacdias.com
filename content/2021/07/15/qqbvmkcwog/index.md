@@ -1,4 +1,5 @@
 ---
+description: Trip from Porto (Campanhã) to Funcheira
 published: 2021-07-15T15:51:00Z
 section:
 - itineraries

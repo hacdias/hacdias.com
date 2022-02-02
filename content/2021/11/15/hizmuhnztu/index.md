@@ -1,6 +1,6 @@
 ---
 title: Hypercore Protocol
-description: Bookmarked a post from hypercore-protocol.org
+description: Bookmarked a post on hypercore-protocol.org
 published: 2021-11-15T11:04:42.649994029Z
 section:
 - bookmarks

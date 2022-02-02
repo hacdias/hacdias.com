@@ -1,6 +1,6 @@
 ---
 title: DNS doesn't "propagate"
-description: Bookmarked a post from jvns.ca
+description: Bookmarked a post on jvns.ca
 published: 2021-12-06T20:21:17.811802468Z
 section:
 - bookmarks

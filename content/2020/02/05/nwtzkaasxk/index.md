@@ -1,4 +1,5 @@
 ---
+description: Trip from Luxembourg P+R Bouillon to Brussels-North Train Station
 published: 2020-02-05T14:45:00+01:00
 section:
 - itineraries

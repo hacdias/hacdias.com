@@ -1,4 +1,5 @@
 ---
+description: Trip from Amsterdam (AMS) to Lisbon (LIS)
 published: 2020-02-10T18:35:00Z
 section:
 - itineraries

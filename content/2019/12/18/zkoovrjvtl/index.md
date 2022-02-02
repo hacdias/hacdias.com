@@ -1,4 +1,5 @@
 ---
+description: Trip from Zurich (ZRH) to Lisbon (LIS)
 published: 2019-12-18T15:30:00Z
 section:
 - itineraries

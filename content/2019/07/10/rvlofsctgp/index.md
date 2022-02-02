@@ -1,4 +1,5 @@
 ---
+description: Trip from Lisbon (LIS) to Ponta Delgada (PDL)
 published: 2019-07-10T00:20:00Z
 section:
 - itineraries

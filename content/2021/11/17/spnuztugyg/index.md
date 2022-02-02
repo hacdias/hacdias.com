@@ -1,7 +1,7 @@
 ---
 title: |
   "Introduction", the most common systems concept you've never heard of
-description: Bookmarked a post from catern.com
+description: Bookmarked a post on catern.com
 published: 2021-11-17T22:45:51.645376528Z
 section:
 - bookmarks

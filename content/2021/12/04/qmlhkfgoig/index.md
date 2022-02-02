@@ -1,5 +1,5 @@
 ---
-description: Replied to a post from jan.boddez.net
+description: Replied to a post on jan.boddez.net
 published: 2021-12-04T11:52:23.207714629Z
 section:
 - replies

@@ -1,4 +1,5 @@
 ---
+description: Trip from Frankfurt (FRA) to Lisbon (LIS)
 published: 2019-11-24T22:20:00Z
 section:
 - itineraries

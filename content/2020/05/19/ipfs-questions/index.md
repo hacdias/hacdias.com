@@ -1,5 +1,5 @@
 ---
-description: Replied to a post from twitter.com
+description: Replied to a post on twitter.com
 published: 2020-05-19T10:19:48.523Z
 section:
 - micro

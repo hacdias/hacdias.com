@@ -1,4 +1,5 @@
 ---
+description: Trip from Amsterdam Centraal to Eindhoven Centraal
 published: 2021-11-25T19:54:00+01:00
 section:
 - itineraries

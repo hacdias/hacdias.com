@@ -1,4 +1,5 @@
 ---
+description: Trip from London (LGW) to Faro (FAO)
 published: 2017-04-10T02:00:00Z
 section:
 - itineraries

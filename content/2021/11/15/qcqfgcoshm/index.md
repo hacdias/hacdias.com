@@ -1,6 +1,6 @@
 ---
 title: Textile
-description: Bookmarked a post from www.textile.io
+description: Bookmarked a post on www.textile.io
 published: 2021-11-15T11:03:40.971249634Z
 section:
 - bookmarks
