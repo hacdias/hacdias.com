@@ -67,14 +67,7 @@
       "author": "TJ Klune"
     }
   ],
-  "reading": [
-    {
-      "id": "/reads/isbn/9781786892737",
-      "date": "2022-02-02T23:23:03.078667+01:00",
-      "name": "The Midnight Library",
-      "author": "Matt Haig"
-    }
-  ],
+  "reading": [],
   "finished": {
     "Years": [
       2022,
@@ -833,6 +826,12 @@
           "date": "2022-01-22T23:02:22.969462+01:00",
           "name": "The House in the Cerulean Sea",
           "author": "TJ Klune"
+        },
+        {
+          "id": "/reads/isbn/9781786892737",
+          "date": "2022-02-03T22:32:25.03515+01:00",
+          "name": "The Midnight Library",
+          "author": "Matt Haig"
         }
       ]
     }
