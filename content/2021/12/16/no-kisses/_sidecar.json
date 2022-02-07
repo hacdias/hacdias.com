@@ -21,6 +21,26 @@
       "wm-received": "2021-12-16T21:49:30Z",
       "wm-source": "https://micro.blog/maique/12275514",
       "wm-target": "https://hacdias.com/2021/12/16/no-kisses"
+    },
+    {
+      "author": {
+        "name": "warner",
+        "photo": "https://cdn.hacdias.com/wm/0c3ded076df1f73eecd02772d994877c20b5705064388888f98b5c8af37d70eb.jpg",
+        "type": "card",
+        "url": "https://micro.blog/warner"
+      },
+      "content": "@hacdias agreed: greeting kisses can kiss my... well y'know",
+      "in-reply-to": "https://hacdias.com/2021/12/16/no-kisses",
+      "post-type": "reply",
+      "published": "2022-02-07T07:27:44Z",
+      "type": "entry",
+      "url": "https://micro.blog/warner/12457073",
+      "wm-id": 1347664,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-02-07T07:31:41Z",
+      "wm-source": "https://micro.blog/warner/12457073",
+      "wm-target": "https://hacdias.com/2021/12/16/no-kisses"
     }
   ]
 }
