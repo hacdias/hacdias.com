@@ -53,20 +53,14 @@
       "date": "2021-07-31T15:10:00+02:00",
       "name": "To Kill a Mockingbird",
       "author": "Harper Lee"
-    },
-    {
-      "id": "/reads/isbn/9781529087987",
-      "date": "2022-01-12T11:41:15.577799+01:00",
-      "name": "Under the Whispering Door",
-      "author": "TJ Klune"
     }
   ],
   "reading": [
     {
-      "id": "/reads/isbn/9781529405231",
-      "date": "2022-02-08T00:02:42.064329+01:00",
-      "name": "This Is How You Lose the Time War",
-      "author": "Amal El-Mohtar, Max Gladstone"
+      "id": "/reads/isbn/9781529087987",
+      "date": "2022-02-08T20:18:37.756466+01:00",
+      "name": "Under the Whispering Door",
+      "author": "TJ Klune"
     }
   ],
   "finished": {
@@ -833,6 +827,12 @@
           "date": "2022-02-03T22:32:25.03515+01:00",
           "name": "The Midnight Library",
           "author": "Matt Haig"
+        },
+        {
+          "id": "/reads/isbn/9781529405231",
+          "date": "2022-02-08T19:26:31.634184+01:00",
+          "name": "This Is How You Lose the Time War",
+          "author": "Amal El-Mohtar, Max Gladstone"
         }
       ]
     }
