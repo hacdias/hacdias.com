@@ -31,6 +31,7 @@ properties:
       region: North Holland
       street-address: Nieuwezijds Voorburgwal 182
     type: h-adr
+  photo: https://cdn.hacdias.com/u/cddddf13a8e8deb4331e914bcb716911b8029d9e2e47212c5ed2c9a25f17d8e9.JPG
   syndication: https://www.swarmapp.com/user/476184554/checkin/619f69c57aeddf59647b5ecf
 ---
 
