@@ -1,6 +1,5 @@
 ---
 title: 'Heartstopper Volume Two by Alice Oseman (ISBN: 9781444951400)'
-deleted: true
 createdWith: https://hacdias.com/
 properties:
   read-of:
