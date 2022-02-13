@@ -805,9 +805,27 @@
           "author": "Toshikazu Kawaguchi"
         },
         {
+          "id": "/reads/isbn/9781444952797",
+          "date": "2022-02-13T20:07:31.402412+01:00",
+          "name": "Heartstopper Volume Four",
+          "author": "Alice Oseman"
+        },
+        {
           "id": "/reads/isbn/9781444951387",
           "date": "2022-02-13T12:32:14.587978+01:00",
           "name": "Heartstopper Volume One",
+          "author": "Alice Oseman"
+        },
+        {
+          "id": "/reads/isbn/9781444952773",
+          "date": "2022-02-13T17:06:38.209991+01:00",
+          "name": "Heartstopper Volume Three",
+          "author": "Alice Oseman"
+        },
+        {
+          "id": "/reads/isbn/9781444951400",
+          "date": "2022-02-13T15:42:03.925747+01:00",
+          "name": "Heartstopper Volume Two",
           "author": "Alice Oseman"
         },
         {
