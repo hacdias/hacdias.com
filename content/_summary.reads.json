@@ -55,12 +55,6 @@
       "date": "2022-02-10T17:23:55.640393+01:00",
       "name": "Nightfall and Other Stories",
       "author": "Isaac Asimov"
-    },
-    {
-      "id": "/reads/isbn/9781529087987",
-      "date": "2022-02-16T19:52:46.929009+01:00",
-      "name": "Under the Whispering Door",
-      "author": "TJ Klune"
     }
   ],
   "finished": {
@@ -857,6 +851,12 @@
           "date": "2022-02-08T19:26:31.634184+01:00",
           "name": "This Is How You Lose the Time War",
           "author": "Amal El-Mohtar, Max Gladstone"
+        },
+        {
+          "id": "/reads/isbn/9781529087987",
+          "date": "2022-02-17T19:15:27.009814+01:00",
+          "name": "Under the Whispering Door",
+          "author": "TJ Klune"
         }
       ]
     }
