@@ -27,7 +27,7 @@
     {
       "id": "/reads/isbn/9781847493781",
       "date": "2022-01-25T14:58:17.633701+01:00",
-      "name": "Strange Case of Dr Jekyll and Mr Hyde",
+      "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
       "author": "Robert Louis Stevenson"
     },
     {
@@ -845,6 +845,12 @@
           "date": "2022-02-03T22:32:25.03515+01:00",
           "name": "The Midnight Library",
           "author": "Matt Haig"
+        },
+        {
+          "id": "/reads/isbn/9781595828118",
+          "date": "2022-02-18T08:02:43.649069+01:00",
+          "name": "The Promise - Part 1",
+          "author": "Michael Dante DiMartino"
         },
         {
           "id": "/reads/isbn/9781529405231",

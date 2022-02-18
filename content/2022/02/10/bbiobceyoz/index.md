@@ -15,10 +15,11 @@ properties:
       region: North Brabant
     type: h-adr
   page: 40
+  rating: 3
   read-of: /reads/isbn/9780593357460
   read-status: reading
 ---
 
-Finished reading the first story of this book, “Nightfall”. It was only dystopian and apocalyptic.
+Finished reading the first story of this book, "Nightfall", which portrays a dystopian and apocalyptic future. It narrates a story where the sun is going to disappear forever and everyone will be in eternal darkness. And what can that cause in people?
 
-As a note, I’m not planning on reading the remaining stories for now.
+**Note**: Even though this book has more short stories, I bought it to read Nightfall. For now, I'm not planning on reading more of it.
