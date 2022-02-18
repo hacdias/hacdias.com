@@ -1,0 +1,43 @@
+{
+  "targets": [
+    "https://jan.boddez.net/notes/ddfdefca7c"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan Boddez",
+      "photo": "https://cdn.hacdias.com/wm/fce1504803e26e4bc97a7287c9e947699c7874ba2b74e6fbda1648d3bd70ee3b.jpg",
+      "type": "card",
+      "url": "https://jan.boddez.net/"
+    },
+    "content": "(Off-topic/meta.) Interestingly, my (h-)feed reader displays a (p-)name for this “note.” Normally, it drops the p-name (and thus considers the post a “note”) if it’s the same as (or a shortened version of) the content. In this case it doesn’t, because this post’s p-name contains a straight quote whereas in the content it’s a “curly” quote. Which raises the question: Why add the p-name class at all, if this a note?",
+    "in-reply-to": [
+      "https://hacdias.com/2022/02/16/sdgqaiezck"
+    ],
+    "post-type": "reply",
+    "published": "2022-02-17T08:59:17+01:00",
+    "type": "entry",
+    "url": "https://jan.boddez.net/notes/ddfdefca7c"
+  },
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "Had a few interesting discussions lately on missing titles from RSS/Atom feeds—seems some readers are still expecting a title for each and every post. In that case, having the title be a (truncated) copy of the content usually works okay, as, e.g., Aperture will (usually) correctly recognize (and drop) them. For h-feed specifically, though, I don’t see the need for a p-name at all—only “IndieWeb” readers actually support h-feed, and they (obviously) display “notes” just fine.",
+      "in-reply-to": "https://hacdias.com/2022/02/18/gjnuovvyju",
+      "post-type": "reply",
+      "published": "2022-02-18T09:18:09+01:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/notes/f9e2ee8342",
+      "wm-id": 1353022,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-02-18T08:24:29Z",
+      "wm-source": "https://jan.boddez.net/notes/f9e2ee8342",
+      "wm-target": "https://hacdias.com/2022/02/18/gjnuovvyju"
+    }
+  ]
+}
