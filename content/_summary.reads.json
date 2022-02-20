@@ -25,12 +25,6 @@
       "author": "Becky Albertalli"
     },
     {
-      "id": "/reads/isbn/9781847493781",
-      "date": "2022-01-25T14:58:17.633701+01:00",
-      "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
-      "author": "Robert Louis Stevenson"
-    },
-    {
       "id": "/reads/isbn/9781529050868",
       "date": "2022-01-25T21:46:03.189906+01:00",
       "name": "Tales from the Cafe",
@@ -55,6 +49,12 @@
       "date": "2022-02-10T17:23:55.640393+01:00",
       "name": "Nightfall and Other Stories",
       "author": "Isaac Asimov"
+    },
+    {
+      "id": "/reads/isbn/9781847493781",
+      "date": "2022-02-20T23:26:11.814851+01:00",
+      "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
+      "author": "Robert Louis Stevenson"
     }
   ],
   "finished": {
