@@ -43,20 +43,7 @@
       "author": "Harper Lee"
     }
   ],
-  "reading": [
-    {
-      "id": "/reads/isbn/9780593357460",
-      "date": "2022-02-10T17:23:55.640393+01:00",
-      "name": "Nightfall and Other Stories",
-      "author": "Isaac Asimov"
-    },
-    {
-      "id": "/reads/isbn/9781847493781",
-      "date": "2022-02-20T23:26:11.814851+01:00",
-      "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
-      "author": "Robert Louis Stevenson"
-    }
-  ],
+  "reading": [],
   "finished": {
     "Years": [
       2022,
@@ -823,6 +810,12 @@
           "author": "Alice Oseman"
         },
         {
+          "id": "/reads/isbn/9780593357460",
+          "date": "2022-02-10T17:23:55.640393+01:00",
+          "name": "Nightfall and Other Stories",
+          "author": "Isaac Asimov"
+        },
+        {
           "id": "/reads/isbn/9789720048820",
           "date": "2022-01-17T18:39:36.75894+01:00",
           "name": "O ano da morte de Ricardo Reis",
@@ -833,6 +826,12 @@
           "date": "2022-01-30T23:06:19.086212+01:00",
           "name": "Red, White \u0026 Royal Blue",
           "author": "Casey McQuiston"
+        },
+        {
+          "id": "/reads/isbn/9781847493781",
+          "date": "2022-02-20T23:26:11.814851+01:00",
+          "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
+          "author": "Robert Louis Stevenson"
         },
         {
           "id": "/reads/isbn/9781529087949",
