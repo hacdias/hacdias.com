@@ -25,12 +25,6 @@
       "author": "Becky Albertalli"
     },
     {
-      "id": "/reads/isbn/9781529050868",
-      "date": "2022-01-25T21:46:03.189906+01:00",
-      "name": "Tales from the Cafe",
-      "author": "Toshikazu Kawaguchi"
-    },
-    {
       "id": "/reads/isbn/9781847497826",
       "date": "2021-07-31T15:10:00+02:00",
       "name": "The Master and Margarita",
@@ -43,7 +37,14 @@
       "author": "Harper Lee"
     }
   ],
-  "reading": [],
+  "reading": [
+    {
+      "id": "/reads/isbn/9781529050868",
+      "date": "2022-02-24T17:00:50.608614+01:00",
+      "name": "Tales from the Cafe",
+      "author": "Toshikazu Kawaguchi"
+    }
+  ],
   "finished": {
     "Years": [
       2022,
