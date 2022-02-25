@@ -17,9 +17,7 @@ properties:
   page: 40
   rating: 3
   read-of: /reads/isbn/9780593357460
-  read-status: finished
+  read-status: reading
 ---
 
 Finished reading the first story of this book, "Nightfall", which portrays a dystopian and apocalyptic future. It narrates a story where the sun is going to disappear forever and everyone will be in eternal darkness. And what can that cause in people?
-
-**Note**: Even though this book has more short stories, I bought it to read Nightfall. For now, I'm not planning on reading more of it, so I marked it as read.

@@ -17,11 +17,9 @@ properties:
   page: 68
   rating: 3
   read-of: /reads/isbn/9781847493781
-  read-status: finished
+  read-status: reading
 ---
 
 Just finished the first story, “The Strange Case of Dr Jekyll and Mr Hyde”. I’ve had this story in my queue to read for a long time and that’s the main reason why I bought this book - I missed the “other stories” part. 
 
 I must confess that this is not my favorite genre and I’m not thinking about reading the remaining stories for now. I hope one day I’ll re-read this story and enjoy it more than I did now.
-
-**Note**: I'm not planning on reading the remaining stories for now, and therefore I marked it as read.
