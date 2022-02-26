@@ -2,23 +2,28 @@
   "artists": [
     {
       "name": "Allie X",
-      "count": 74,
+      "count": 85,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Aurora",
-      "count": 14,
+      "count": 16,
       "url": "https://www.last.fm/music/Aurora"
     },
     {
-      "name": "Maroon 5",
-      "count": 10,
-      "url": "https://www.last.fm/music/Maroon+5"
+      "name": "Troye Sivan",
+      "count": 13,
+      "url": "https://www.last.fm/music/Troye+Sivan"
     },
     {
-      "name": "Troye Sivan",
+      "name": "BANKS",
       "count": 10,
-      "url": "https://www.last.fm/music/Troye+Sivan"
+      "url": "https://www.last.fm/music/BANKS"
+    },
+    {
+      "name": "Leadley",
+      "count": 10,
+      "url": "https://www.last.fm/music/Leadley"
     },
     {
       "name": "Kira",
@@ -26,14 +31,9 @@
       "url": "https://www.last.fm/music/Kira"
     },
     {
-      "name": "Leadley",
+      "name": "Maroon 5",
       "count": 9,
-      "url": "https://www.last.fm/music/Leadley"
-    },
-    {
-      "name": "BANKS",
-      "count": 8,
-      "url": "https://www.last.fm/music/BANKS"
+      "url": "https://www.last.fm/music/Maroon+5"
     },
     {
       "name": "Colours In The Dark",
@@ -41,9 +41,9 @@
       "url": "https://www.last.fm/music/Colours+In+The+Dark"
     },
     {
-      "name": "Years & Years",
+      "name": "Froukje",
       "count": 7,
-      "url": "https://www.last.fm/music/Years+&+Years"
+      "url": "https://www.last.fm/music/Froukje"
     },
     {
       "name": "Adele",
@@ -55,14 +55,14 @@
     {
       "name": "Milk",
       "url": "https://www.last.fm/music/Allie+X/_/Milk",
-      "count": 14,
+      "count": 15,
       "artist": "Allie X"
     },
     {
-      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
-      "url": "https://www.last.fm/music/Maroon+5/_/Beautiful+Mistakes+(feat.+Megan+Thee+Stallion)",
+      "name": "Chic",
+      "url": "https://www.last.fm/music/Leadley/_/Chic",
       "count": 10,
-      "artist": "Maroon 5"
+      "artist": "Leadley"
     },
     {
       "name": "Wanna Go Back",
@@ -71,14 +71,20 @@
       "artist": "Kira"
     },
     {
-      "name": "Chic",
-      "url": "https://www.last.fm/music/Leadley/_/Chic",
+      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "url": "https://www.last.fm/music/Maroon+5/_/Beautiful+Mistakes+(feat.+Megan+Thee+Stallion)",
       "count": 9,
-      "artist": "Leadley"
+      "artist": "Maroon 5"
     },
     {
       "name": "Runaway",
       "url": "https://www.last.fm/music/Aurora/_/Runaway",
+      "count": 8,
+      "artist": "Aurora"
+    },
+    {
+      "name": "A Temporary High",
+      "url": "https://www.last.fm/music/Aurora/_/A+Temporary+High",
       "count": 7,
       "artist": "Aurora"
     },
@@ -87,12 +93,6 @@
       "url": "https://www.last.fm/music/Adele/_/I+Drink+Wine",
       "count": 6,
       "artist": "Adele"
-    },
-    {
-      "name": "A Temporary High",
-      "url": "https://www.last.fm/music/Aurora/_/A+Temporary+High",
-      "count": 6,
-      "artist": "Aurora"
     },
     {
       "name": "Venus",
@@ -107,10 +107,10 @@
       "artist": "Charlotte Lawrence"
     },
     {
-      "name": "Perto de Mim",
-      "url": "https://www.last.fm/music/Syro/_/Perto+de+Mim",
+      "name": "Cherry",
+      "url": "https://www.last.fm/music/Rina+Sawayama/_/Cherry",
       "count": 5,
-      "artist": "Syro"
+      "artist": "Rina Sawayama"
     }
   ]
 }
