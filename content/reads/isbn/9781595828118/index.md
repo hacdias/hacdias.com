@@ -1,10 +1,10 @@
 ---
-title: 'The Promise - Part 1 by Michael Dante DiMartino (ISBN: 9781595828118)'
+title: 'The Promise - Part 1 by Bryan Konietzko, Michael Dante DiMartino (ISBN: 9781595828118)'
 createdWith: https://hacdias.com/
 properties:
   read-of:
     properties:
-      author: Michael Dante DiMartino
+      author: Bryan Konietzko, Michael Dante DiMartino
       name: The Promise - Part 1
       pages: 80
       publisher: Dark Horse

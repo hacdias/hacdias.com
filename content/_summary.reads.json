@@ -52,7 +52,7 @@
     },
     {
       "id": "/reads/isbn/9781529050868",
-      "date": "2022-02-24T17:00:50.608614+01:00",
+      "date": "2022-02-26T19:34:37.774305+01:00",
       "name": "Tales from the Cafe",
       "author": "Toshikazu Kawaguchi"
     }
@@ -850,7 +850,19 @@
           "id": "/reads/isbn/9781595828118",
           "date": "2022-02-18T08:02:43.649069+01:00",
           "name": "The Promise - Part 1",
-          "author": "Michael Dante DiMartino"
+          "author": "Bryan Konietzko, Michael Dante DiMartino"
+        },
+        {
+          "id": "/reads/isbn/9781595828750",
+          "date": "2022-02-26T11:41:40.869966+01:00",
+          "name": "The Promise - Part 2",
+          "author": "Bryan Konietzko, Michael Dante DiMartino"
+        },
+        {
+          "id": "/reads/isbn/9781595829412",
+          "date": "2022-02-26T12:35:03.823679+01:00",
+          "name": "The Promise - Part 3",
+          "author": "Bryan Konietzko, Michael Dante DiMartino"
         },
         {
           "id": "/reads/isbn/9781529405231",
