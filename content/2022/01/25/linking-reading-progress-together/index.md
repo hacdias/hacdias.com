@@ -5,7 +5,7 @@ section:
 - articles
 createdWith: https://hacdias.com/
 properties:
-  categories:
+  category:
   - meta
 ---
 
