@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Allie X",
-      "count": 98,
+      "count": 96,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
@@ -12,8 +12,18 @@
     },
     {
       "name": "Troye Sivan",
-      "count": 17,
+      "count": 14,
       "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    {
+      "name": "Elsie Bay",
+      "count": 13,
+      "url": "https://www.last.fm/music/Elsie+Bay"
+    },
+    {
+      "name": "Marina",
+      "count": 13,
+      "url": "https://www.last.fm/music/Marina"
     },
     {
       "name": "Colours In The Dark",
@@ -21,24 +31,14 @@
       "url": "https://www.last.fm/music/Colours+In+The+Dark"
     },
     {
-      "name": "BANKS",
-      "count": 10,
-      "url": "https://www.last.fm/music/BANKS"
-    },
-    {
-      "name": "Kira",
-      "count": 10,
-      "url": "https://www.last.fm/music/Kira"
-    },
-    {
       "name": "Leadley",
-      "count": 10,
+      "count": 11,
       "url": "https://www.last.fm/music/Leadley"
     },
     {
-      "name": "Elsie Bay",
-      "count": 9,
-      "url": "https://www.last.fm/music/Elsie+Bay"
+      "name": "BANKS",
+      "count": 10,
+      "url": "https://www.last.fm/music/BANKS"
     },
     {
       "name": "Froukje",
@@ -46,9 +46,9 @@
       "url": "https://www.last.fm/music/Froukje"
     },
     {
-      "name": "Maroon 5",
+      "name": "Kira",
       "count": 9,
-      "url": "https://www.last.fm/music/Maroon+5"
+      "url": "https://www.last.fm/music/Kira"
     }
   ],
   "tracks": [
@@ -65,28 +65,28 @@
       "artist": "Aurora"
     },
     {
+      "name": "Death Of Us",
+      "url": "https://www.last.fm/music/Elsie+Bay/_/Death+Of+Us",
+      "count": 13,
+      "artist": "Elsie Bay"
+    },
+    {
+      "name": "Casanova",
+      "url": "https://www.last.fm/music/Allie+X/_/Casanova",
+      "count": 12,
+      "artist": "Allie X"
+    },
+    {
       "name": "A Temporary High",
       "url": "https://www.last.fm/music/Aurora/_/A+Temporary+High",
       "count": 12,
       "artist": "Aurora"
     },
     {
-      "name": "Wanna Go Back",
-      "url": "https://www.last.fm/music/Kira/_/Wanna+Go+Back",
-      "count": 10,
-      "artist": "Kira"
-    },
-    {
       "name": "Chic",
       "url": "https://www.last.fm/music/Leadley/_/Chic",
-      "count": 10,
+      "count": 11,
       "artist": "Leadley"
-    },
-    {
-      "name": "Casanova",
-      "url": "https://www.last.fm/music/Allie+X/_/Casanova",
-      "count": 9,
-      "artist": "Allie X"
     },
     {
       "name": "Fresh Laundry",
@@ -95,22 +95,22 @@
       "artist": "Allie X"
     },
     {
-      "name": "Death Of Us",
-      "url": "https://www.last.fm/music/Elsie+Bay/_/Death+Of+Us",
+      "name": "Wanna Go Back",
+      "url": "https://www.last.fm/music/Kira/_/Wanna+Go+Back",
       "count": 9,
-      "artist": "Elsie Bay"
-    },
-    {
-      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
-      "url": "https://www.last.fm/music/Maroon+5/_/Beautiful+Mistakes+(feat.+Megan+Thee+Stallion)",
-      "count": 9,
-      "artist": "Maroon 5"
+      "artist": "Kira"
     },
     {
       "name": "All the Rage",
       "url": "https://www.last.fm/music/Allie+X/_/All+the+Rage",
       "count": 8,
       "artist": "Allie X"
+    },
+    {
+      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "url": "https://www.last.fm/music/Maroon+5/_/Beautiful+Mistakes+(feat.+Megan+Thee+Stallion)",
+      "count": 8,
+      "artist": "Maroon 5"
     }
   ]
 }
