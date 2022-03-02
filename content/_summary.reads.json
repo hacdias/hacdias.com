@@ -49,12 +49,6 @@
       "date": "2022-02-20T23:26:11.814851+01:00",
       "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
       "author": "Robert Louis Stevenson"
-    },
-    {
-      "id": "/reads/isbn/9781529050868",
-      "date": "2022-03-01T20:06:31.79214+01:00",
-      "name": "Tales from the Cafe",
-      "author": "Toshikazu Kawaguchi"
     }
   ],
   "finished": {
@@ -833,6 +827,12 @@
           "date": "2022-01-30T23:06:19.086212+01:00",
           "name": "Red, White \u0026 Royal Blue",
           "author": "Casey McQuiston"
+        },
+        {
+          "id": "/reads/isbn/9781529050868",
+          "date": "2022-03-02T22:44:27.016541+01:00",
+          "name": "Tales from the Cafe",
+          "author": "Toshikazu Kawaguchi"
         },
         {
           "id": "/reads/isbn/9781529087949",
