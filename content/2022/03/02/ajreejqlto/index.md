@@ -4,6 +4,7 @@ description: 'Finished reading: Tales from the Cafe by Toshikazu Kawaguchi, ISBN
 published: 2022-03-02T22:44:27.016541578+01:00
 section:
 - reads
+- home
 createdWith: https://hacdias.com/
 properties:
   rating: 5
