@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Allie X",
-      "count": 86,
+      "count": 90,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
@@ -11,9 +11,19 @@
       "url": "https://www.last.fm/music/Aurora"
     },
     {
+      "name": "Years & Years",
+      "count": 22,
+      "url": "https://www.last.fm/music/Years+&+Years"
+    },
+    {
       "name": "Elsie Bay",
       "count": 21,
       "url": "https://www.last.fm/music/Elsie+Bay"
+    },
+    {
+      "name": "Todrick Hall",
+      "count": 17,
+      "url": "https://www.last.fm/music/Todrick+Hall"
     },
     {
       "name": "Marina",
@@ -21,34 +31,24 @@
       "url": "https://www.last.fm/music/Marina"
     },
     {
-      "name": "Years & Years",
-      "count": 15,
-      "url": "https://www.last.fm/music/Years+&+Years"
-    },
-    {
-      "name": "Todrick Hall",
-      "count": 14,
-      "url": "https://www.last.fm/music/Todrick+Hall"
-    },
-    {
       "name": "METTE",
-      "count": 12,
+      "count": 14,
       "url": "https://www.last.fm/music/METTE"
     },
     {
-      "name": "Troye Sivan",
-      "count": 12,
-      "url": "https://www.last.fm/music/Troye+Sivan"
-    },
-    {
       "name": "Alec Benjamin",
-      "count": 11,
+      "count": 13,
       "url": "https://www.last.fm/music/Alec+Benjamin"
     },
     {
       "name": "Desireless",
-      "count": 11,
+      "count": 13,
       "url": "https://www.last.fm/music/Desireless"
+    },
+    {
+      "name": "Froukje",
+      "count": 11,
+      "url": "https://www.last.fm/music/Froukje"
     }
   ],
   "tracks": [
@@ -61,7 +61,7 @@
     {
       "name": "Casanova",
       "url": "https://www.last.fm/music/Allie+X/_/Casanova",
-      "count": 18,
+      "count": 17,
       "artist": "Allie X"
     },
     {
@@ -71,46 +71,46 @@
       "artist": "Aurora"
     },
     {
+      "name": "Petrified",
+      "url": "https://www.last.fm/music/METTE/_/Petrified",
+      "count": 14,
+      "artist": "METTE"
+    },
+    {
+      "name": "Fresh Laundry",
+      "url": "https://www.last.fm/music/Allie+X/_/Fresh+Laundry",
+      "count": 13,
+      "artist": "Allie X"
+    },
+    {
       "name": "A Temporary High",
       "url": "https://www.last.fm/music/Aurora/_/A+Temporary+High",
       "count": 13,
       "artist": "Aurora"
     },
     {
-      "name": "Petrified",
-      "url": "https://www.last.fm/music/METTE/_/Petrified",
-      "count": 12,
-      "artist": "METTE"
-    },
-    {
-      "name": "All the Rage",
-      "url": "https://www.last.fm/music/Allie+X/_/All+the+Rage",
-      "count": 11,
-      "artist": "Allie X"
-    },
-    {
-      "name": "Fresh Laundry",
-      "url": "https://www.last.fm/music/Allie+X/_/Fresh+Laundry",
-      "count": 11,
-      "artist": "Allie X"
+      "name": "Voyage voyage",
+      "url": "https://www.last.fm/music/Desireless/_/Voyage+voyage",
+      "count": 13,
+      "artist": "Desireless"
     },
     {
       "name": "Old Habits Die Hard",
       "url": "https://www.last.fm/music/Allie+X/_/Old+Habits+Die+Hard",
-      "count": 11,
+      "count": 12,
       "artist": "Allie X"
     },
     {
-      "name": "Voyage voyage",
-      "url": "https://www.last.fm/music/Desireless/_/Voyage+voyage",
-      "count": 11,
-      "artist": "Desireless"
+      "name": "Super Duper Party People",
+      "url": "https://www.last.fm/music/Allie+X/_/Super+Duper+Party+People",
+      "count": 12,
+      "artist": "Allie X"
     },
     {
-      "name": "Lifted",
-      "url": "https://www.last.fm/music/Allie+X/_/Lifted",
-      "count": 10,
-      "artist": "Allie X"
+      "name": "Shadow Of Mine",
+      "url": "https://www.last.fm/music/Alec+Benjamin/_/Shadow+Of+Mine",
+      "count": 11,
+      "artist": "Alec Benjamin"
     }
   ]
 }
