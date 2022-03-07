@@ -1,7 +1,7 @@
 ---
 title: About This Website
 published: 2021-02-19T09:45:13Z
-updated: 2021-11-17T18:40:12.895878618Z
+updated: 2022-03-07T08:51:04.831837684+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -10,7 +10,7 @@ noSendInteractions: true
 
 <div class="subtitle">
 
-I have been running this website since 2014. Since then, a lot has changed. My repository shows over 5000 commits and that's just the changes after I migrated to a static website.
+I have been running this website since 2014. Since then, a lot has changed. My repository shows over 10 000 commits and that's just the changes after I migrated to a static website.
 
 </div>
 
@@ -60,13 +60,13 @@ Nowadays, this website provides more features than ever before. Even though it i
 
 As I said before, my website feds from data from some other services I use to keep track of certain things. Now you may ask me "but wasn't the point to own your own data? why are you using external services?". Well, my reply to that is that those external services work very well and are very convenient.
 
-I wrote a bunch of [scripts](https://github.com/hacdias/silos-collector) that collect data from a few silos daily and updates the website:
+- 📺 [**Trakt**](https://trakt.tv) feeds into my [watches](/watches/) page, which contains the series and movies I watched. Currently, I don't keep track of each episode on my website and I keep it simple by stating the last time I watched each series or movie. The updates come through [OwnMyTrakt](https://github.com/hacdias/ownyourtrakt).
 
-- 📺 [**Trakt**](https://trakt.tv) feeds into my [watches](/watches/) page, which contains the series and movies I watched. Currently, I don't keep track of each episode on my website and I keep it simple by stating the last time I watched each series or movie.
+- 🐝  [**Swarm**](https://www.swarmapp.com/) feeds into my [checkins](/checkins/) page, which contains the checkins of places I've been to. These updates are generated via [OwnYourSwarm](https://ownyourswarm.p3k.io/).  
 
-- 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contrary to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens/) page which has the current top artists and tracks I've been listening to. It's probably the "worse" looking page from the bunch.
+- 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contrary to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens/) page which has the current top artists and tracks I've been listening to. It's probably the "worse" looking page from the bunch. It is updated daily via some [scripts](https://github.com/hacdias/silos-collector) I wrote.
 
-- 🙍 [**Miniflux**](https://miniflux.app/) is a simple RSS reader that I self-host. It has a really neat API and I use to track down my blogroll, which can be found in the [blogroll](/blogroll) page. I believe it is important to let others know we follow them and to share that with the blogosphere. 
+- 🙍 [**Miniflux**](https://miniflux.app/) is a simple RSS reader that I self-host. It has a really neat API and I use to track down my blogroll, which can be found in the [blogroll](/blogroll) page. I believe it is important to let others know we follow them and to share that with the blogosphere.
 
 ### Webmentions
 
@@ -76,7 +76,8 @@ When you visit one of my posts, you'll be able to see on the bottom a box where 
 
 - [**Webmention.io**](https://webmention.io/) for receiving webmentions. This service already parses the webmention and streamlines the format that "arrives" at my server.
 - [**Bridgy**](https://brid.gy/) for creating webmention for Twitter likes, replies and reposts.
-- [**Telegraf**](https://telegraph.p3k.io/) for sending webmentions without having to deal with all the issues that any decentralized system might have when one machine goes offline for a bit.
+
+<!-- - [**Telegraf**](https://telegraph.p3k.io/) for sending webmentions without having to deal with all the issues that any decentralized system might have when one machine goes offline for a bit. -->
 
 <div class="box green word" data-word="Microformats">
   

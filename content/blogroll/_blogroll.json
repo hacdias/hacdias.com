@@ -234,6 +234,12 @@
     "category": "following"
   },
   {
+    "title": "Matt Baer",
+    "site": "https://write.as/matt/",
+    "feed": "https://write.as/matt/feed/",
+    "category": "following"
+  },
+  {
     "title": "Max Böck",
     "site": "https://mxb.dev",
     "feed": "https://mxb.dev/feed.xml",
@@ -284,13 +290,19 @@
   {
     "title": "Ru Singh",
     "site": "https://rusingh.com/",
-    "feed": "https://rusingh.com/feed/",
+    "feed": "https://rusingh.com/feed.xml",
     "category": "following"
   },
   {
     "title": "Sebastiaan Andeweg",
     "site": "https://seblog.nl/feed",
     "feed": "https://seblog.nl/feed.rss",
+    "category": "following"
+  },
+  {
+    "title": "Simon Willison",
+    "site": "http://simonwillison.net/",
+    "feed": "https://simonwillison.net/atom/everything/",
     "category": "following"
   },
   {
@@ -351,6 +363,12 @@
     "title": "Zack Scholl",
     "site": "https://schollz.com/",
     "feed": "https://schollz.com/index.xml",
+    "category": "following"
+  },
+  {
+    "title": "beepb00p",
+    "site": "https://beepb00p.xyz",
+    "feed": "https://beepb00p.xyz/rss.xml",
     "category": "following"
   },
   {

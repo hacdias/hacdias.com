@@ -1,7 +1,7 @@
 ---
 title: Uses
 published: 2020-01-21T15:39:00Z
-updated: 2021-10-10T15:29:31.499487235Z
+updated: 2022-03-07T09:10:47.170810921+01:00
 noShowInteractions: true
 ---
 
@@ -41,37 +41,34 @@ On the sound department, I have 3 devices:
 
 My desk also features my one and only console: a Nintendo Switch. I live in a studio and I don't have much space. Thus, my desk is both my workplace, and my "TV" for movies and entertainment.
 
-Besides all these devices, I also want to shout out to my:
+Besides all these devices, I also want to shout out to:
 
-- **Raspberry Pi 4 Model B**, that runs some services for personal use, some of which are intrinsically related to [this website](/meta); and my
-- **Yubikey 5C NFC** x2 for 2FA authentication, GPG and SSH.
-
-![Secrid](cdn:/2021-02-secrid-wallet?class=fw "Secrid is my wallet of choice")
-
-The most unexpected thing on this list is my wallet. However, it is so small and so useful that it is complicated not to include it. I have been using a [Secrid](https://secrid.com/) wallet for a few years already and I recommend you that if you don't care anything but a few cards and eventual bills.
+- **Tracking Device**: [Apple AirTags](https://www.apple.com/airtag/).
+- **Auth Device**: [YubiKeys](https://www.yubico.com/) for 2FA, GPG and SSH.
+- **Wallet**: [Secrid](https://secrid.com/) for my cards and spare bills.
 
 ### Photography
 
 On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [CaptureOne](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
+- **Camera**: Fujifilm X-T4.
+- **Lenses**: XF 18-55mm f/2.8-4.0 OIS, XF 35mm F/2.0 and XF 27mm F/2.8.
+- **Tripod**: Manfrotto Befree.
+
 ![Fujifilm X-T4](cdn:/2021-08-fujixt4?class=fw)
 
-Besides the camera itself, I also have two **lenses**:
-
-- Fujifilm XF 18-55mm f/2.8-4.0 OIS
-- Fujifilm XF 35mm F/2.0
-
-I also own a **tripod**: a Manfrotto Befree.
 ## Software
 
 This section will be considerably more compact as I don't think we need screenshots of the software I'm using. So... here it goes.
 
-- **Code Editor**: my all round code editor is [Visual Studio Code][vscode]. However, there are some exceptions...
-  - For some larger Go projects, I tend to use [GoLand][goland].
-  - On the terminal, I tend to use [vim].
-- **Terminal**: my terminal app on macOS is [iTerm][iterm]. Within the terminal, I use [zsh] as my shell with [oh my zsh] installed. This installation is customized via my [dotfiles].
-- **Browser**: Chrome on macOS and Safari or Chrome on iOS.
-- **Mail and Calendar**: I use [Spark](https://sparkmailapp.com/) as both my mailing and calendar apps. It is easy to use multiple accounts and synchronize them across many devices.
+- **Operating System**: macOS, iOS.
+- **Browser**: Chrome on macOS, Safari on iOS.
+- **Code Editor**: [Visual Studio Code][vscode] - on the terminal I may use [vim].
+- **Terminal**: [iTerm][iterm] with [zsh] and [oh my zsh] - see my [dotfiles].
+- **Email**: [Spark](https://sparkmailapp.com/).
+- **Calendar**: native macOS and iOS apps.
+- **Email Provider**: [migadu] - trying to move away from Google.
+- **Feed Reader**: [Miniflux].
 
 Besides this software packages, I use some online services, which I'm not going to list here. As for self-hosted things, I have everything on [Hetzner][hetzner].
 
@@ -92,3 +89,5 @@ Besides this software packages, I use some online services, which I'm not going 
 [hetzner]: https://www.hetzner.com/
 [goland]: https://www.jetbrains.com/go/
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
+[migadu]: https://migadu.com/
+[miniflux]: https://miniflux.app/
