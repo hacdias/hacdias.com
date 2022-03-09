@@ -5,7 +5,8 @@
 @media screen and (min-width: 38rem) {
   body {
     background: #2c548a url(https://cdn.hacdias.com/i/2022-03-witte-dame.jpeg);
-    background-size: 35rem;
+    background-size: cover;
     background-attachment: fixed;
+    background-position: center;
   }
 }
