@@ -1,10 +1,10 @@
 :root {
-  --action: #036b74;
+  --action: #2c548a;
 }
 
 @media screen and (min-width: 38rem) {
   body {
-    background: #036b74 url(/about/pattern.svg);
+    background: #2c548a url(https://cdn.hacdias.com/i/2022-03-witte-dame.jpeg);
     background-size: 35rem;
     background-attachment: fixed;
   }
