@@ -1,6 +1,11 @@
 {
   "series": [
     {
+      "id": "/2022/03/09/zfialaqffg",
+      "date": "2022-03-09T11:58:13+01:00",
+      "name": "The Good Doctor"
+    },
+    {
       "id": "/2022/03/08/folyfcmmeg",
       "date": "2022-03-08T07:45:49+01:00",
       "name": "One of Us Is Lying"
@@ -39,11 +44,6 @@
       "id": "/2022/03/02/ygbxegiych",
       "date": "2022-03-02T16:37:42+01:00",
       "name": "Kurzgesagt - In a Nutshell"
-    },
-    {
-      "id": "/2022/03/01/yolntntjfh",
-      "date": "2022-03-01T15:04:44+01:00",
-      "name": "The Good Doctor"
     },
     {
       "id": "/2022/02/23/fewqwrckhr",
@@ -171,7 +171,7 @@
       "name": "RuPaul's Drag Race All Stars"
     },
     {
-      "id": "/2021/08/22/sqvrgquwzt",
+      "id": "/2021/08/22/fhjbwgrxgs",
       "date": "2021-08-22T20:17:54+02:00",
       "name": "Riverdale"
     },
@@ -266,7 +266,7 @@
       "name": "The Rain"
     },
     {
-      "id": "/2021/02/02/jhtahvosmp",
+      "id": "/2021/02/02/mzrprvphif",
       "date": "2021-02-02T10:05:31+01:00",
       "name": "The Good Place"
     },
@@ -286,7 +286,7 @@
       "name": "Good Witch"
     },
     {
-      "id": "/2021/01/11/siexcwsham",
+      "id": "/2021/01/11/ahnudmzwzc",
       "date": "2021-01-11T10:26:17+01:00",
       "name": "Greenhouse Academy"
     },
@@ -321,7 +321,7 @@
       "name": "The Haunting of Bly Manor"
     },
     {
-      "id": "/2020/11/25/qcmkhxsmco",
+      "id": "/2020/11/25/djpshjmzqs",
       "date": "2020-11-25T19:47:33+01:00",
       "name": "The Bureau of Magical Things"
     },

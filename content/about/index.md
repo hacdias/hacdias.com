@@ -3,7 +3,7 @@ title: About
 noShowInteractions: true
 ---
 
-![Me!](cdn:/2019-06-henrique)
+![Me!](cdn:/2022-03-witte-dame-in)
 
 Hi, I'm Henrique (he/him)!
 

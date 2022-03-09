@@ -1,13 +1,12 @@
 {
   "targets": [
-    "https://www.instagram.com/isabelsoares16/",
     "https://tue.nl",
     "https://protocol.ai",
     "https://hacdias.com/articles/2014/07/apresentacao/",
-    "https://hacdias.com/contact/",
-    "https://hacdias.com/resume/",
-    "https://hacdias.com/projects/",
-    "https://hacdias.com/meta/"
+    "https://hacdias.com/contact",
+    "https://hacdias.com/resume",
+    "https://hacdias.com/projects",
+    "https://hacdias.com/meta"
   ],
   "context": null,
   "webmentions": [
@@ -23,19 +22,6 @@
       "published": "2021-02-19T09:45:13Z",
       "type": "entry",
       "url": "https://hacdias.com/meta/"
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
-        "type": "card",
-        "url": "https://hacdias.com"
-      },
-      "content": "This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭! 📃 Categories 🌊 Stream ✏️ Articles 💬 Micro [Micro](/micro) 📸 Photos 🥐 Others 🧔 About ⚙️ About This Website ✉️ Contact 📝 Guestbook 🤯 Impossible List 📌 Links 🎶 Listens 📦 Projects 🎓 Resume 🔎 Search 🛠 Uses 🎬 Watches 📚 Reads 🏷 Tags 🧪 Experiments A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments. Weird things can happen, you can feel dizzy, be aware of cats. Or they will bite you! 🔵 Blue Screen of Death 📡 Glitch 🗺 Procedural Map Generator 🏳️‍🌈 PixelColorMania ⛈ Thunderstorm 📺 TV Noise 💥 XKCD Clone",
-      "post-type": "mention",
-      "published": "2020-01-25T22:56:48Z",
-      "type": "entry",
-      "url": "https://hacdias.com/more/"
     },
     {
       "author": {
@@ -60,6 +46,19 @@
       "wm-received": "2021-11-09T19:39:11Z",
       "wm-source": "https://hacdias.com/meta",
       "wm-target": "https://hacdias.com/about"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "type": "card",
+        "url": "https://hacdias.com"
+      },
+      "content": "This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭! 📃 Categories 🌊 Stream ✏️ Articles 💬 Micro [Micro](/micro) 📸 Photos 🥐 Others 🧔 About ⚙️ About This Website ✉️ Contact 📝 Guestbook 🤯 Impossible List 📌 Links 🎶 Listens 📦 Projects 🎓 Resume 🔎 Search 🛠 Uses 🎬 Watches 📚 Reads 🏷 Tags 🧪 Experiments A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments. Weird things can happen, you can feel dizzy, be aware of cats. Or they will bite you! 🔵 Blue Screen of Death 📡 Glitch 🗺 Procedural Map Generator 🏳️‍🌈 PixelColorMania ⛈ Thunderstorm 📺 TV Noise 💥 XKCD Clone",
+      "post-type": "mention",
+      "published": "2020-01-25T22:56:48Z",
+      "type": "entry",
+      "url": "https://hacdias.com/more/"
     }
   ]
 }
