@@ -2,22 +2,17 @@
   "artists": [
     {
       "name": "Allie X",
-      "count": 79,
+      "count": 68,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Years & Years",
-      "count": 53,
+      "count": 51,
       "url": "https://www.last.fm/music/Years+&+Years"
     },
     {
-      "name": "Todrick Hall",
-      "count": 28,
-      "url": "https://www.last.fm/music/Todrick+Hall"
-    },
-    {
       "name": "Doce",
-      "count": 25,
+      "count": 26,
       "url": "https://www.last.fm/music/Doce"
     },
     {
@@ -26,29 +21,34 @@
       "url": "https://www.last.fm/music/Regard"
     },
     {
-      "name": "Aurora",
-      "count": 23,
-      "url": "https://www.last.fm/music/Aurora"
-    },
-    {
-      "name": "METTE",
-      "count": 21,
-      "url": "https://www.last.fm/music/METTE"
+      "name": "Todrick Hall",
+      "count": 24,
+      "url": "https://www.last.fm/music/Todrick+Hall"
     },
     {
       "name": "Desireless",
-      "count": 20,
+      "count": 21,
       "url": "https://www.last.fm/music/Desireless"
     },
     {
-      "name": "Elsie Bay",
-      "count": 18,
-      "url": "https://www.last.fm/music/Elsie+Bay"
+      "name": "METTE",
+      "count": 20,
+      "url": "https://www.last.fm/music/METTE"
+    },
+    {
+      "name": "Aurora",
+      "count": 19,
+      "url": "https://www.last.fm/music/Aurora"
     },
     {
       "name": "Alaska Thunderfuck",
-      "count": 17,
+      "count": 16,
       "url": "https://www.last.fm/music/Alaska+Thunderfuck"
+    },
+    {
+      "name": "Elsie Bay",
+      "count": 16,
+      "url": "https://www.last.fm/music/Elsie+Bay"
     }
   ],
   "tracks": [
@@ -61,56 +61,56 @@
     {
       "name": "Sweet Talker",
       "url": "https://www.last.fm/music/Years+&+Years/_/Sweet+Talker",
-      "count": 24,
+      "count": 25,
       "artist": "Years & Years"
     },
     {
       "name": "Hallucination",
       "url": "https://www.last.fm/music/Regard/_/Hallucination",
-      "count": 23,
+      "count": 24,
       "artist": "Regard"
     },
     {
       "name": "RAININ’ FELLAS",
       "url": "https://www.last.fm/music/Todrick+Hall/_/RAININ%E2%80%99+FELLAS",
-      "count": 23,
+      "count": 24,
       "artist": "Todrick Hall"
-    },
-    {
-      "name": "Petrified",
-      "url": "https://www.last.fm/music/METTE/_/Petrified",
-      "count": 21,
-      "artist": "METTE"
     },
     {
       "name": "Voyage voyage",
       "url": "https://www.last.fm/music/Desireless/_/Voyage+voyage",
-      "count": 20,
+      "count": 21,
       "artist": "Desireless"
     },
     {
-      "name": "Death Of Us",
-      "url": "https://www.last.fm/music/Elsie+Bay/_/Death+Of+Us",
-      "count": 18,
-      "artist": "Elsie Bay"
+      "name": "Petrified",
+      "url": "https://www.last.fm/music/METTE/_/Petrified",
+      "count": 20,
+      "artist": "METTE"
     },
     {
       "name": "RED",
       "url": "https://www.last.fm/music/Alaska+Thunderfuck/_/RED",
-      "count": 17,
-      "artist": "Alaska Thunderfuck"
-    },
-    {
-      "name": "Shadow Of Mine",
-      "url": "https://www.last.fm/music/Alec+Benjamin/_/Shadow+Of+Mine",
       "count": 16,
-      "artist": "Alec Benjamin"
+      "artist": "Alaska Thunderfuck"
     },
     {
       "name": "É Demais",
       "url": "https://www.last.fm/music/Doce/_/%C3%89+Demais",
-      "count": 15,
+      "count": 16,
       "artist": "Doce"
+    },
+    {
+      "name": "Death Of Us",
+      "url": "https://www.last.fm/music/Elsie+Bay/_/Death+Of+Us",
+      "count": 16,
+      "artist": "Elsie Bay"
+    },
+    {
+      "name": "Shadow Of Mine",
+      "url": "https://www.last.fm/music/Alec+Benjamin/_/Shadow+Of+Mine",
+      "count": 15,
+      "artist": "Alec Benjamin"
     }
   ]
 }
