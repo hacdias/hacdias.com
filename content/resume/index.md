@@ -34,7 +34,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
   - Current GPA of 8 out of 10, expected to graduate in 2022.
   - Member of Student Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
   - Member of the Website and PR Committees of Dekate Mousa.
-  - Worked as a Master's Student Mentor.
+  - Worked as a Master's Student Mentor for ½ year.
 - **BSc Information Systems and Computer Engineering**, [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
   - Graduated with GPA of 16 out of 20.
   - Volunteered as Student Mentor for 2 years.
@@ -42,7 +42,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 
 ## Experience
 
-### [Protocol Labs][pl] — Software Engineer <small>[2017 - present]</small> {#protocol-labs}
+### [Protocol Labs][pl] — Software Engineer <small>[2017 - present] [part-time]</small> {#protocol-labs}
 
 > <small>Protocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.</small>
 
@@ -57,7 +57,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
-### [Upframe][upframe] — Lead Software Developer <small>[2016 - 2018]</small> {#upframe}
+### [Upframe][upframe] — Lead Software Developer <small>[2016 - 2018] [part-time]</small> {#upframe}
 
 > <small>Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.</small>
 
@@ -73,7 +73,7 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 [upframe:obs]: https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/
 [upframe:dv]: https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/
 
-### [Pplware](https://pplware.sapo.pt) — Content Writer <small>[2013 - 2016]</small> {#pplware}
+### [Pplware](https://pplware.sapo.pt) — Content Writer <small>[2013 - 2016] [part-time]</small> {#pplware}
 
 > <small>Pplware is a the largest Portuguese technology website with over 100 000 daily visitors.</small>
 
