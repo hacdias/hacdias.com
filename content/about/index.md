@@ -25,7 +25,7 @@ Most likely you've already noticed that my handle, `@hacdias`, reminds of the wo
 
 - [✉️ Contact](/contact)
 - [🎓 Resume](/resume)
-- [📦 Projects](/projects)
+- [🤯 Impossible List](/impossible-list)
 - [⚙️ About This Website](/meta)
 
 </div>

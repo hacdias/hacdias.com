@@ -95,22 +95,28 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## Professional Goals
 
-1. [x] ~~Write a self-published ebook~~ <small>[February 2015] [[link](/downloads/aprenda_a_programar.pdf)]</small>
-2. [x] ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
-   1. [ ] Give a talk to over 100 people
-3. [x] ~~Become proficient in a second language~~ <small>[September 2019] [English]</small>
-   1.  [ ] Become proficient in a third language (Dutch?)
-4. [x] ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
-5. [ ] Finish my master's degree
-6. [ ] Write a fiction book
-7. [ ] Write a non-fiction book
-8. [ ] Learn how to play an 🎶 instrument
-9. [ ] Learn a new sport
-10. [ ] Host a meetup
-11. [x] ~~Create a website~~ <small>[July 2014]</small>
+1. [x] ~~Participate in the Youth Parliament~~ <small>[March 2012]</small>
+   1. [x] ~~Go to Districts~~ <small>[March 2012, President] [February 2013, Deputy] [March 2016, Deputy]</small>
+   2. [x] ~~Go to Nationals~~ <small>[May 2012, Secretary]</small>
+2.  [x] ~~Create a website~~ <small>[July 2014]</small>
     1. [x] ~~Maintain a website for 1 years~~ <small>[July 2015]</small>
     2. [x] ~~Maintain a website for 5 years~~ <small>[July 2019]</small>
     3. [ ] Maintain a website for 10 years
+3. [x] ~~Write a self-published ebook~~ <small>[February 2015] [[link](/downloads/aprenda_a_programar.pdf)]</small>
+4. [x] ~~Participate in the National Olympiads of Informatics~~ <small>[April 2016] [10th place]</small>
+   1. [x] ~~Participate again~~ <small>[May 2017] [6th place]</small>
+5. [x] ~~Become proficient in a second language~~ <small>[September 2019] [English]</small>
+   1.  [ ] Become proficient in a third language (Dutch?)
+6. [x] ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
+   1. [ ] Give a talk to over 100 people
+7. [x] ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
+8. [ ] Finish my master's degree
+9.  [ ] Write a fiction book
+10. [ ] Write a non-fiction book
+11. [ ] Learn how to play an 🎶 instrument
+12. [ ] Learn a new sport
+13. [ ] Host a meetup
+14. [x] ~~Learn more about neuroscience~~ <small>[June 2020] [[MCB80x](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
 
 
 ## Life Goals

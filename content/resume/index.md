@@ -26,7 +26,7 @@ noSendInteractions: true
 
 </div>
 
-I am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing user-friendly services.
+M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing user-friendly services.
 
 ## Education
 
@@ -91,8 +91,8 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 ### Caddy Plugins <small>[2015 - 2020]</small>
 
 - [Caddy](https://caddyserver.com/) is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.
-- Built [multiple plugins](https://hacdias.com/projects/caddy-plugins) for Caddy to add functionalities requested by the community.
-- Plugins functionalities include: on-the-fly minification, WebDav support and installation as a service.
+- Built multiple plugins for Caddy to add functionalities requested by the community.
+- Plugins functionalities include: [on-the-fly minification](https://github.com/hacdias/caddy-v1-minify), [WebDav support](https://github.com/hacdias/caddy-v1-webdav) and [installation as a service](https://github.com/hacdias/caddy-v1-service).
 - Over 50 000 downloads. <!-- TODO; maybe get better estimate -->
 
 ### File Browser <small>[2015 - 2019] [[code](https://github.com/filebrowser/filebrowser)]</small>
@@ -101,38 +101,15 @@ I am a M.Sc. in Computer Science and Engineering student at Eindhoven University
 - Over 10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub.
 - Built with Go and JavaScript (Vue.js).
 
-<!-- ### WordPress Widgets <small>[2015 - 2017] [deprecated]</small>
+### WordPress Widgets <small>[2015 - 2017]</small>
 
-- Built 3 WordPress widgets to display information of the user's GitHub, IMDb and HackerRank profiles.
+- Built 3 WordPress widgets to display information of the user's [GitHub](https://github.com/refactors/github-profile-widget), [IMDb](https://github.com/refactors/imdb-widget) and [HackerRank](https://github.com/refactors/hackerrank-profile-widget) profiles.
 - Required knowledge in PHP, GitHub API, HackerRank API and web scraping for IMDb.
-- Over 7 000 downloads. -->
+- Over 7 000 downloads.
 
-<!-- ## Technologies and Languages
+<!-- ## Other Achievements
 
-- Languages: JavaScript, Go.
-- Technologies: Node.js, AWS, Git, Electron.
-- Other: Data structures and algorithms, {other relevant skills} -->
-
-<!-- ## Talks
-
-- A quick dive into the dWeb with IPFS <small>[[talk](https://hacdias.com/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small> -->
-
-## Achievements
-
-- 6th place on National Olympiad in Informatics <small>[2017] [[website](http://oni.dcc.fc.up.pt/2017/)]</small>
-- 10th place on National Olympiad in Informatics <small>[2016] [[website](http://oni.dcc.fc.up.pt/2016/)]</small>
-- Deputy at District’s Youth Parliament <small>[2016] [[website](https://app.parlamento.pt/Webjovem2016/index.html)]</small>
-- Deputy at District’s Youth Parliament <small>[2013] [[website](https://app.parlamento.pt/Webjovem2013/index.html)]</small>
-- Secretary of National Youth Parliament <small>[2012] [[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
-- Secretary of District’s Youth Parliament <small>[2012] [[website](https://app.parlamento.pt/Webjovem2012/index.html)]</small>
-<!-- - Highest GPA of Secondary School (18.1 out of 20) <small>[2017]</small>
+- Highest GPA of Secondary School (18.1 out of 20) <small>[2017]</small>
 - Highest National Exam Grade of Secondary School (19 out of 20) <small>[2017]</small>
 - Highest GPA of 3rd Cycle (4.78 out of 5) <small>[2014]</small>
 - Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small> -->
-
-<!--
-## Certifications and Courses
-
-- MCB80x: Fundamentals of Neuroscience <small>[June 2020] [[certificate](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
-- IELTS Academic (7.5 out of 9.0, C1) <small>[September 2019]</small>
--->
