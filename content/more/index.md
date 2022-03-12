@@ -42,7 +42,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [📝 Guestbook](/guestbook)
 - [🤯 Impossible List](/impossible-list)
 - [🎶 Listens](/listens)
-- [📦 Projects](/projects)
 - [🎓 Resume](/resume)
 - [🔎 Search](/search)
 - [🛠 Uses](/uses)
