@@ -25,6 +25,16 @@
     }
     </style>
 
+    <script>
+    function addScope() {
+      const scope = window.prompt('Which scope?')
+      if (!scope) return
+      document.getElementById('scopes-list').innerHTML += (
+        `<li><label><input type="checkbox" name="scopes" value="${scope}" checked>${scope}</label></li>`
+      )
+    }
+    </script>
+
     <div class='copy'>
       <form method="post" action="/auth/accept">
         <ul>
@@ -33,9 +43,9 @@
         </ul>
 
         {{ with .Data.Scopes }}
-        <p>This app is requesting the following scopes. You can edit the scopes that will be granted to this application.</p>
+        <p>This app is requesting the following scopes. You can choose which scopes will be granted to this application. <a onclick="javascript:addScope();">Add Scope</a></p>
 
-        <ol>
+        <ol id="scopes-list">
           {{ range . }}
             <li><label><input type="checkbox" name="scopes" value="{{ . }}" checked>{{ . }}</label></li>
           {{ end }}
