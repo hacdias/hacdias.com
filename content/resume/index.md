@@ -19,7 +19,7 @@ noSendInteractions: true
 <div>
 
 - [hacdias.com](https://hacdias.com)
-- [github.com/hacdias](https://github.com/hacdias)
+- [github.com/hacdias][github]
 - [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
 
 </div>
@@ -104,27 +104,21 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 
 ## Projects
 
-### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
-
-- Running my [personal website](https://hacdias.com) since 2014, allowing me to experiment with different technologies. Nowadays, it is composed by a mix of a static generator, plus a custom backend built in Go.
-- Custom backend supports post management, full-text search, interaction with a few services' APIs, among other features. Read more about [how it works](https://hacdias.com/meta/).
-- The blog contains both technical and non-technical articles and receives over 5 000 unique visitors per month.
-
-### Caddy Plugins <small>[2015 - 2020]</small>
-
-- [Caddy](https://caddyserver.com/) is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go.
-- Built multiple plugins for Caddy to add functionalities requested by the community.
-- Plugins functionalities include: [on-the-fly minification](https://github.com/hacdias/caddy-v1-minify), [WebDav support](https://github.com/hacdias/caddy-v1-webdav) and [installation as a service](https://github.com/hacdias/caddy-v1-service).
-- Over 50 000 downloads. <!-- TODO; maybe get better estimate -->
-
 ### File Browser <small>[2015 - 2019] [[code](https://github.com/filebrowser/filebrowser)]</small>
 
-- Client-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained.
-- Over 10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub.
-- Built with Go and JavaScript (Vue.js).
+- Go and Vue.js based software that allows anyone to self-host their own file hosting service.
+- Over 10 million downloads through Docker and over 15 thousand stars on GitHub.
+- Currently maintained by the community.
 
-### WordPress Widgets <small>[2015 - 2017]</small>
+### Open Source Projects <small>[2015 - present] [[code][github]]</small>
 
-- Built 3 WordPress widgets to display information of the user's [GitHub](https://github.com/refactors/github-profile-widget), [IMDb](https://github.com/refactors/imdb-widget) and [HackerRank](https://github.com/refactors/hackerrank-profile-widget) profiles.
-- Required knowledge in PHP, GitHub API, HackerRank API and web scraping for IMDb.
-- Over 7 000 downloads.
+- Author and maintainer of some open source projects and free open source contributor.
+- All code is freely available on [GitHub][github] and can be used by anyone.
+
+### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
+
+- Built and maintained my personal website since 2014, allowing for *[selfdogfooding](https://indieweb.org/selfdogfood)*.
+- Built a custom Go backend that supports posts management, IndieWeb interactions, full-text search, connection to third party APIs, among [other features](https://hacdias.com/meta).
+- Receives over 5 thousand unique visitors per month.
+
+[github]: https://github.com/hacdias
