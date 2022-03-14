@@ -31,11 +31,11 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 ## Education
 
 - **MSc Computer Science and Engineering** — [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
-  - Current GPA of 8 out of 10, expected to graduate in 2022.
+  - Grade: 8 out of 10.
   - Member of Student Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
   - Member of the Website and PR Committees of Dekate Mousa.
 - **BSc Information Systems and Computer Engineering** — [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
-  - Graduated with GPA of 16 out of 20.
+  - Grade: 16 out of 20.
   - Volunteered as Student Mentor for 2 years.
   - Awarded an Academic Merit Award in 1 year.
 
