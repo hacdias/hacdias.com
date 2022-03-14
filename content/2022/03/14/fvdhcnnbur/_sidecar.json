@@ -5,5 +5,26 @@
     "https://support.apple.com/en-us/HT212514"
   ],
   "context": null,
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/fa4b5eb2bf1c1aebf299223741a18f4a7c53ade6f1b4e2a0276bd5281cc0c22d.png",
+        "type": "card",
+        "url": "https://jlelse.blog"
+      },
+      "content": "Purelymail is even cheaper than Migadu an supports Email, Contacts and Calendars. I am very happy with them for the last few months since I switched.",
+      "in-reply-to": "https://hacdias.com/2022/03/14/fvdhcnnbur",
+      "post-type": "reply",
+      "published": "2022-03-14T08:27:58+01:00",
+      "type": "entry",
+      "url": "https://jlelse.blog/micro/2022/03/2022-03-14-rnglb",
+      "wm-id": 1362918,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-03-14T07:28:01Z",
+      "wm-source": "https://jlelse.blog/micro/2022/03/2022-03-14-rnglb",
+      "wm-target": "https://hacdias.com/2022/03/14/fvdhcnnbur"
+    }
+  ]
 }

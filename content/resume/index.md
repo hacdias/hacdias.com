@@ -34,7 +34,6 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
   - Current GPA of 8 out of 10, expected to graduate in 2022.
   - Member of Student Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
   - Member of the Website and PR Committees of Dekate Mousa.
-  - Worked as a Master's Student Mentor for ½ year.
 - **BSc Information Systems and Computer Engineering**, [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
   - Graduated with GPA of 16 out of 20.
   - Volunteered as Student Mentor for 2 years.
@@ -57,13 +56,20 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
+### [Eindhoven University of Technology][tue] — Student Mentor <small>[2021 - 2022] [part-time]</small> {#eindhoven-university-technology}
+
+- Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
+- Mentored 12 new master students from different nationalities during their first semester.
+
+[tue]: https://tue.nl
+
 ### [Upframe][upframe] — Lead Software Developer <small>[2016 - 2018] [part-time]</small> {#upframe}
 
 > <small>Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.</small>
 
 - Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.
-- Built a REST API for managing email transactions, newsletters and enrollments in the program.
-- Built a Slack bot to manage enrollments to the program, in Go.
+- Built a REST API for managing email transactions, newsletters and enrolments in the program.
+- Built a Slack bot to manage enrolments to the program, in Go.
 - Built a backend which allowed to see who was at the office, to send emails and to manage newsletters.
 - In the news: [Eco][upframe:eco], [Startup Lisboa][upframe:sl], [Observador][upframe:obs] & [Dinheiro Vivo][upframe:dv].
 
