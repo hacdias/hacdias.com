@@ -30,11 +30,11 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 
 ## Education
 
-- **MSc Computer Science and Engineering** — [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
+- **MSc Computer Science and Engineering** — [<span class=location>Eindhoven University of Technology</span>](https://tue.nl) <small>[2020 - present]</small>
   - Grade: 8 out of 10.
   - Member of Student Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
   - Member of the Website and PR Committees of Dekate Mousa.
-- **BSc Information Systems and Computer Engineering** — [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
+- **BSc Information Systems and Computer Engineering** — [<span class=location>Instituto Superior Técnico</span>](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
   - Grade: 16 out of 20.
   - Volunteered as Student Mentor for 2 years.
   - Awarded an Academic Merit Award in 1 year.
@@ -66,14 +66,14 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
-### Student Mentor — [<span class=company>Eindhoven University of Technology</span>][tue]</span> <small>[2021 - 2022] [part-time]</small> {#tue-student-mentor}
+### Student Mentor — [<span class=location>Eindhoven University of Technology</span>][tue]</span> <small>[2021 - 2022] [part-time]</small> {#tue-student-mentor}
 
 - Mentored 12 new master students from different nationalities during their first semester.
 - Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
 
 [tue]: https://tue.nl
 
-### Lead Software Developer — [<span class=company>Upframe</span>][upframe] <small>[2016 - 2018] [part-time]</small> {#upframe}
+### Lead Software Developer — [<span class=location>Upframe</span>][upframe] <small>[2016 - 2018] [part-time]</small> {#upframe}
 
 > <small>Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.</small>
 
@@ -88,7 +88,7 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [upframe:obs]: https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/
 [upframe:dv]: https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/
 
-### Content Writer — [<span class=company>Pplware</span>](https://pplware.sapo.pt) <small>[2013 - 2016] [part-time]</small> {#pplware}
+### Content Writer — [<span class=location>Pplware</span>](https://pplware.sapo.pt) <small>[2013 - 2016] [part-time]</small> {#pplware}
 
 > <small>Pplware is a the largest Portuguese technology website with over 100 000 daily visitors.</small>
 
