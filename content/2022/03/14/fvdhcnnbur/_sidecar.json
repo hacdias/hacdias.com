@@ -4,30 +4,6 @@
     "https://hacdias.com/2022/03/06/ttahqozjog",
     "https://support.apple.com/en-us/HT212514"
   ],
-  "context": {
-    "items": [
-      {
-        "category": [
-          "article",
-          "email",
-          "fastmail",
-          "opinion",
-          "rss"
-        ],
-        "content": {
-          "html": "\u003cp\u003eI’ve been unsubscribing from intentional/side effect spam (as I like to call it) for months now. It’s almost non-existent now.\u003c/p\u003e\n\n\n\n\u003cp\u003eMy transition to Fastmail (all my domains, plus wildcards) is also done now. I never open any other email client.\u003c/p\u003e\n\n\n\n\u003cp\u003eI can finally just rest. No more moving hosts. No more configuration. It just works.\u003c/p\u003e\n\n\n\n\u003cp\u003eI’ve also integrated \u003ca href=\"https://rusingh.com/adding-a-comment-via-email-convenience-link/\"\u003econvenience email discussion links\u003c/a\u003e to my posts and my RSS feed here on my site. As do many other people like \u003ca href=\"https://kevq.uk/\"\u003eKev\u003c/a\u003e, \u003ca href=\"https://obsolete29.com/\"\u003eMichael Harley\u003c/a\u003e, and \u003ca href=\"https://mmk2410.org/\"\u003eMarcel Kapfer\u003c/a\u003e.\u003c/p\u003e\n\n\n\n\u003cp\u003eI’m hoping even more people adopt this workflow, as it’s so easy to just hit a link and start writing in seconds. I’m more likely to respond to a post because now the barrier to so less. No needing to provide context, as it’s already all set by the convenience link. No need to fill the \u003ccode\u003eTo\u003c/code\u003e field. Signature is pre-configured. Post link is added too for posterity and easy reference.\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003eJust write.\u003c/strong\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003eAnd a big part of “just write” is also I sometimes avoid saying “hi” or “hello,” depending on my mood and stress levels. Sorry if that comes across as rude!\u003c/p\u003e\n\n\n\n\u003cp\u003eI’ve had a mindset shift where I view emails as something in between traditional mail/letters and the modern-day instant messaging platforms. \u003c/p\u003e\n\n\n\n\u003cul\u003e\u003cli\u003eTo me, a thread is simply a conversation where nobody feels pressured to get back quickly, or judged if they take too long.\u003cul\u003e\u003cli\u003eThis is probably my favourite aspect.\u003c/li\u003e\u003c/ul\u003e\u003c/li\u003e\n\u003cli\u003eSalutations and signatures are completely optional.\u003c/li\u003e\n\u003cli\u003eTiny signatures are best.\u003c/li\u003e\n\u003cli\u003eBoth plain text and HTML is great (at least in 1:1s and when used responsibly)!\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e\u003cem\u003ePhoto by Brett Jordan on Unsplash.\u003c/em\u003e\u003c/p\u003e",
-          "text": "I’ve been unsubscribing from intentional/side effect spam (as I like to call it) for months now. It’s almost non-existent now.\n\n\n\nMy transition to Fastmail (all my domains, plus wildcards) is also done now. I never open any other email client.\n\n\n\nI can finally just rest. No more moving hosts. No more configuration. It just works.\n\n\n\nI’ve also integrated convenience email discussion links to my posts and my RSS feed here on my site. As do many other people like Kev, Michael Harley, and Marcel Kapfer.\n\n\n\nI’m hoping even more people adopt this workflow, as it’s so easy to just hit a link and start writing in seconds. I’m more likely to respond to a post because now the barrier to so less. No needing to provide context, as it’s already all set by the convenience link. No need to fill the To field. Signature is pre-configured. Post link is added too for posterity and easy reference.\n\n\n\nJust write.\n\n\n\nAnd a big part of “just write” is also I sometimes avoid saying “hi” or “hello,” depending on my mood and stress levels. Sorry if that comes across as rude!\n\n\n\nI’ve had a mindset shift where I view emails as something in between traditional mail/letters and the modern-day instant messaging platforms. \n\n\n\nTo me, a thread is simply a conversation where nobody feels pressured to get back quickly, or judged if they take too long.This is probably my favourite aspect.\nSalutations and signatures are completely optional.\nTiny signatures are best.\nBoth plain text and HTML is great (at least in 1:1s and when used responsibly)!\nPhoto by Brett Jordan on Unsplash."
-        },
-        "name": "Email is nice.",
-        "post-type": "article",
-        "published": "2022-03-14T10:35:26+05:30",
-        "type": "entry"
-      }
-    ],
-    "rels": {
-      "canonical": "https://rusingh.com/email-is-nice/"
-    },
-    "type": "feed"
-  },
+  "context": null,
   "webmentions": []
 }
