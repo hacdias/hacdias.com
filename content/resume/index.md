@@ -30,25 +30,35 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 
 ## Education
 
-- **MSc Computer Science and Engineering**, [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
+- **MSc Computer Science and Engineering** — [Eindhoven University of Technology](https://tue.nl) <small>[2020 - present]</small>
   - Current GPA of 8 out of 10, expected to graduate in 2022.
   - Member of Student Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
   - Member of the Website and PR Committees of Dekate Mousa.
-- **BSc Information Systems and Computer Engineering**, [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
+- **BSc Information Systems and Computer Engineering** — [Instituto Superior Técnico](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
   - Graduated with GPA of 16 out of 20.
   - Volunteered as Student Mentor for 2 years.
   - Awarded an Academic Merit Award in 1 year.
 
 ## Experience
 
-### [Protocol Labs][pl] — Software Engineer <small>[2017 - present] [part-time]</small> {#protocol-labs}
+### [Protocol Labs][pl] {#protocol-labs}
 
 > <small>Protocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.</small>
 
+<div class=indented>
+
+#### Software Engineer <small>[2019 - present] [part-time]</small> {#protocol-labs-software-engineer}
+
 - Developed [Testground][pl:testground]: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.
+- Maintained multiple Go, JavaScript, Node.js and Electron projects.
+
+#### Open Source Scholarship <small>[2017 - 2019] [part-time]</small> {#protocol-labs-os-scholarship}
+
 - Lead maintainer of [IPFS Desktop][pl:desktop]: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month.
 - Revamped and shipped [IPFS Web UI][pl:webui]: a React-based web application used as a front-end for IPFS.
 - Designed and built [Awesome IPFS][pl:awesome]: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS.
+
+</div>
 
 [pl]: https://protocol.ai
 [pl:testground]: http://testground.ai/
@@ -56,18 +66,17 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
-### [Eindhoven University of Technology][tue] — Student Mentor <small>[2021 - 2022] [part-time]</small> {#eindhoven-university-technology}
+### Student Mentor — [<span class=company>Eindhoven University of Technology</span>][tue]</span> <small>[2021 - 2022] [part-time]</small> {#tue-student-mentor}
 
-- Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
 - Mentored 12 new master students from different nationalities during their first semester.
+- Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
 
 [tue]: https://tue.nl
 
-### [Upframe][upframe] — Lead Software Developer <small>[2016 - 2018] [part-time]</small> {#upframe}
+### Lead Software Developer — [<span class=company>Upframe</span>][upframe] <small>[2016 - 2018] [part-time]</small> {#upframe}
 
 > <small>Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.</small>
 
-- Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs.
 - Built a REST API for managing email transactions, newsletters and enrolments in the program.
 - Built a Slack bot to manage enrolments to the program, in Go.
 - Built a backend which allowed to see who was at the office, to send emails and to manage newsletters.
@@ -79,7 +88,7 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [upframe:obs]: https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/
 [upframe:dv]: https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/
 
-### [Pplware](https://pplware.sapo.pt) — Content Writer <small>[2013 - 2016] [part-time]</small> {#pplware}
+### Content Writer — [<span class=company>Pplware</span>](https://pplware.sapo.pt) <small>[2013 - 2016] [part-time]</small> {#pplware}
 
 > <small>Pplware is a the largest Portuguese technology website with over 100 000 daily visitors.</small>
 

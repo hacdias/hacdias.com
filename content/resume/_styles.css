@@ -17,10 +17,10 @@ footer {
   justify-content: center;
 }
 
-
 h1 > a,
 h2 > a,
-h3 > a {
+h3 > a,
+#education + ul > li > a {
   text-decoration: none;
 }
 
@@ -31,23 +31,22 @@ h2 {
   color: var(--action);
 }
 
-h3 {
+h3, h4 {
+  margin: 1rem 0;
   font-size: var(--f4);
+}
+
+h3 .company,
+#education + ul > li > a {
+  font-weight: 500;
 }
 
 li small,
 p small,
-h3 small {
+h3 small,
+h4 small {
   font-weight: normal;
   color: var(--light-gray);
-}
-
-h4 {
-  font-size: var(--f5);
-}
-
-h3, h4 {
-  margin: 1rem 0;
 }
 
 .container {
@@ -79,6 +78,10 @@ h3, h4 {
 
 blockquote p small {
   color: inherit;
+}
+
+.indented {
+  padding-left: 1rem;
 }
 
 @media not print {
