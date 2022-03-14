@@ -20,8 +20,7 @@ footer {
 
 h1 > a,
 h2 > a,
-h3 > a,
-#education + ul > li > a {
+h3 > a {
   text-decoration: none;
 }
 
@@ -33,16 +32,23 @@ h2 {
 }
 
 h3, h4 {
-  margin: 1rem 0;
+  margin: 1rem 0 0.5rem;
   font-size: var(--f4);
+}
+
+blockquote p {
+  margin: 0;
+  font-size: var(--f6);
+}
+
+.indented {
+  padding-left: 1rem;
 }
 
 .location {
   font-weight: 500;
 }
 
-li small,
-p small,
 h3 small,
 h4 small {
   font-weight: normal;
@@ -76,14 +82,6 @@ h4 small {
   text-align: right;
 }
 
-blockquote p small {
-  color: inherit;
-}
-
-.indented {
-  padding-left: 1rem;
-}
-
 @media not print {
   div > h2 {
     margin-top: 0;
@@ -112,6 +110,17 @@ blockquote p small {
   .head,
   .head > div:nth-child(2) {
     text-align: center;
+  }
+
+  .sep {
+    display: none;
+  }
+
+  .mail,
+  .location,
+  small {
+    display: block;
+    margin: 0.25rem 0;
   }
 }
 
