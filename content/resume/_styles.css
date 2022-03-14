@@ -1,6 +1,5 @@
 :root {
   --action: #3498db;
-  --f4: 1.1rem;
 }
 
 body {
@@ -16,12 +15,6 @@ footer {
 
 #header a {
   justify-content: center;
-}
-
-h1 > a,
-h2 > a,
-h3 > a {
-  text-decoration: none;
 }
 
 h2 {
@@ -45,12 +38,23 @@ blockquote p {
   padding-left: 1rem;
 }
 
+.mail::before,
+.location::before {
+  content: ' — ';
+}
+
 .location {
   font-weight: 500;
 }
 
+h3 > a,
+.location a {
+  text-decoration: none;
+}
+
 h3 small,
-h4 small {
+h4 small,
+li small {
   font-weight: normal;
   color: var(--light-gray);
 }
@@ -112,8 +116,9 @@ h4 small {
     text-align: center;
   }
 
-  .sep {
-    display: none;
+  .mail::before,
+  .location::before {
+    content: '';
   }
 
   .mail,

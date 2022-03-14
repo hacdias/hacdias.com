@@ -12,7 +12,7 @@ noSendInteractions: true
 
 # Henrique Dias
 
-📍 Eindhoven, Netherlands <span class=sep>—</span> <span class=mail>[mail@hacdias.com](mailto:mail@hacdias.com)</span>
+📍 Eindhoven, Netherlands  <span class=mail>[mail@hacdias.com](mailto:mail@hacdias.com)</span>
 
 </div>
 
@@ -30,15 +30,18 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 
 ## Education
 
-### MSc Computer Science and Engineering <span class=sep>—</span> [<span class=location>Eindhoven University of Technology</span>](https://tue.nl) <small>[2020 - present]</small>
+- **MSc Computer Science and Engineering** <span class=location>[Eindhoven University of Technology][tue]</span> <small>[2020 - present]</small>
   - Grade: 8 out of 10.
-  - Member of Student Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
+  - Member of Student Film & Photography Association [Dekate Mousa][dm].
   - Member of the Website and PR Committees of Dekate Mousa.
-
-### BSc Information Systems and Computer Engineering <span class=sep>—</span> [<span class=location>Instituto Superior Técnico</span>](https://tecnico.ulisboa.pt) <small>[2017 - 2020]</small>
+- **BSc Information Systems and Computer Engineering** <span class=location>[Instituto Superior Técnico][tecnico]</span> <small>[2017 - 2020]</small>
   - Grade: 16 out of 20.
   - Volunteered as Student Mentor for 2 years.
   - Awarded an Academic Merit Award in 1 year.
+
+[tue]: https://tue.nl
+[dm]: (https://dekatemousa.nl/)
+[tecnico]: https://tecnico.ulisboa.pt
 
 ## Experience
 
@@ -67,14 +70,12 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
-### Student Mentor <span class=sep>—</span> [<span class=location>Eindhoven University of Technology</span>][tue]</span> <small>[2021 - 2022] [part-time]</small> {#tue-student-mentor}
+### Student Mentor <span class=location>[Eindhoven University of Technology][tue]</span> <small>[2021 - 2022] [part-time]</small> {#tue-student-mentor}
 
 - Mentored 12 new master students from different nationalities during their first semester.
 - Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
 
-[tue]: https://tue.nl
-
-### Lead Software Developer <span class=sep>—</span> [<span class=location>Upframe</span>][upframe] <small>[2016 - 2018] [part-time]</small> {#upframe}
+### Lead Software Developer <span class=location>[Upframe</span>][upframe]</span> <small>[2016 - 2018] [part-time]</small> {#upframe}
 
 > Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.
 
@@ -89,12 +90,17 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [upframe:obs]: https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/
 [upframe:dv]: https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/
 
-### Content Writer <span class=sep>—</span> [<span class=location>Pplware</span>](https://pplware.sapo.pt) <small>[2013 - 2016] [part-time]</small> {#pplware}
+### Content Writer <span class=location>[Pplware][pplware]</span> <small>[2013 - 2016] [part-time]</small> {#pplware}
 
 > Pplware is a the largest Portuguese technology website with over 100 000 daily visitors.
 
-- Wrote over 400 tutorials, tech news and other articles on both [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
-- Published a 60 page [e-book](https://hacdias.com/downloads/aprenda_a_programar.pdf) on how to program in C for beginners when I was 15 years old.
+- Wrote over 400 tutorials, tech news and other articles on both [Pplware][pplware:me] and [Pplware Kids][pplware:kidsme].
+- Published a 60 page [e-book][pplware:ebook] on how to program in C for beginners when I was 15 years old.
+
+[pplware]: https://pplware.sapo.pt
+[pplware:me]: https://pplware.sapo.pt/author/henrique_dias/
+[pplware:kidsme]: https://kids.pplware.sapo.pt/author/henrique_dias/
+[pplware:ebook]: https://hacdias.com/downloads/aprenda_a_programar.pdf
 
 ## Projects
 
