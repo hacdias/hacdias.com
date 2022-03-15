@@ -4,23 +4,21 @@
 
   <footer>
     {{ if .IsLoggedIn }}
-      {{ if eq $visibility "private" }}<p>🔒 {{ if eq (len .Audience) 0 }}Shared with all logged in users{{ else }}Shared with you{{ end }}</p>
-      {{ else if eq $visibility "unlisted" }}<p>🙈 Unlisted</p>{{ end }}
-      <!-- this should not even show up for non-admin users -->
-      {{ if .Draft }}<p>✏️ Draft</p>{{ end }}
-      {{ if .Deleted }}<p>🗑 Deleted</p>{{ end }}
+      <p class="admin-notes">
+        {{ if eq $visibility "private" }}
+          <span>{{ if eq (len .Audience) 0 }}Shared with all logged in users{{ else }}Shared with you{{ end }}</span>
+        {{ else if eq $visibility "unlisted" }}<span>Unlisted</span>{{ end }}
+        {{ if .Draft }}<span>Draft</span>{{ end }}
+        {{ if .Deleted }}<span>Deleted</span>{{ end }}
+      </p>
     {{ end }}
 
     {{ with ($mf2.Sub "location") }}
-    <p>
-      {{/* 📍 */}}
-      {{ .LocationHTML }}
-    </p>
+    <p>{{ .LocationHTML }}</p>
     {{ end }}
 
     <p>
       {{- if or (not .Published.IsZero) (not .Updated.IsZero) }}
-        {{/* ⏰ */}}
         {{- if .Updated.After .Published -}}
           <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
             <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Updated.Format "02 Jan 2006 15:04 MST" }}</a>
