@@ -1,7 +1,7 @@
 ---
 title: Colophon
 published: 2021-02-19T09:45:13Z
-updated: 2022-03-07T08:51:04.831837684+01:00
+updated: 2022-03-15T21:00:01.21373536+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -62,38 +62,28 @@ As I said before, my website feds from data from some other services I use to ke
 
 - 🙍 [**Miniflux**](https://miniflux.app/) is a simple RSS reader that I self-host. It has a really neat API and I use to track down my blogroll, which can be found in the [blogroll](/blogroll) page. I believe it is important to let others know we follow them and to share that with the blogosphere.
 
-### Webmentions
+### IndieWeb
 
-This website supports [Webmentions](https://indieweb.org/Webmention). **Webmention** is simply a web standard that allows for interactions and conversations across the Internet. They can be in the form of a comment, a like, a repost or some other interactions and they're a key component in the decentralized web.
+This website supports many features endorsed by the [IndieWeb](https://indieweb.org/) community, such as Webmentions, Microformats and IndieAuth.
 
-When you visit one of my posts, you'll be able to see on the bottom a box where interactions should be. Right now, I'm not handling the Webmentions completely by myself. I rely on three main external services:
+[Webmention](https://indieweb.org/Webmention) is a simple web standard that allows for interactions and conversations across the Internet, without the need for a centralized service. They can be in the form of a comment, a like or a repost and they're a key component of the IndieWeb. To handle Webmentions, my website uses:
 
 - [**Webmention.io**](https://webmention.io/) for receiving webmentions. This service already parses the webmention and streamlines the format that "arrives" at my server.
 - [**Bridgy**](https://brid.gy/) for creating webmention for Twitter likes, replies and reposts.
 
 <!-- - [**Telegraf**](https://telegraph.p3k.io/) for sending webmentions without having to deal with all the issues that any decentralized system might have when one machine goes offline for a bit. -->
 
-<div class="box">
-  
-  My website also complies with [Microformats](https://microformats.org/) which, on the surface, is a set of HTML classes that allows for very easy parsing of my website's content. They can be used for [feeds](#feeds) for example.
+In addition, my website also complies with the [Microformats](https://microformats.org/) standard which defines a set of HTML classes for easy parsing. They can be used by feed readers, for example, instead of RSS and JSON.
 
-</div>
+Finally, my website also supports [IndieAuth](https://indieauth.spec.indieweb.org/) authentication. IndieAuth is an extension of OAuth 2.0 that allows users to login using their own domains. I can use my website to login into other's websites and other people can log in into my website using their websites.
 
-## 🛎 Random Facts {#facts}
+## ⚖️ Disclaimers {#disclaimer}
 
-- I try to follow Wikipedia's convention of capitalizing titles. I use the tool [Capitalize My Title](https://capitalizemytitle.com/style/Wiki/) to make sure my titles are correctly capitalized.
+- **Opinions** change over time. If you're reading something that is many years old, or even just a few months or weeks old, it may not reflect my current opinion. The same applies for technical articles or any other knowledge that may be outdated. If you're unsure about something I wrote, please [contact me](/contact/) for clarification instead of jumping into conclusions.
 
-## 🍪  Cookies and Privacy {#cookies}
+- **No guest posts**. I have been receiving more and more e-mails regarding guest posts. This is my personal website and I will not publish third party guest posts.
 
-This website has authentication. Thus, it sets cookies to know if you're still authenticated or not. When using IndieAuth to login, I only store your ID on the session cookie, on your device.
-
-## ⚖️ Disclaimer {#disclaimer}
-
-1. Opinions change over time. If you're reading something that is many years old, or even just a few months or weeks old, it may not reflect my current opinion. The same reasoning applies to technical articles as tools and software evolves.
-
-2. If you're unsure about something I wrote in the past - or even now - please [contact me](/contact/) for clarification instead of jumping into conclusions.
-
-3. Lately, I've been receiving e-mails regarding guest posts. This is my personal website. Thus, I do **not** accept guest posts.
+- This website sets **cookies** after authentication via IndieAuth. The cookie is used to know whether you are logged in or not. The cookie only contains the ID provided by your IndieAuth endpoint.
 
 <div class='terms bold'>
 
