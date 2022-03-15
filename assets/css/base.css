@@ -106,6 +106,7 @@ h1 {
 
 h2 {
   font-size: var(--f2);
+  border-bottom: 1px solid var(--light-white);
 }
 
 h3 {
