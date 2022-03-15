@@ -7,12 +7,12 @@
     },
     {
       "name": "Years & Years",
-      "count": 26,
+      "count": 24,
       "url": "https://www.last.fm/music/Years+&+Years"
     },
     {
       "name": "Doce",
-      "count": 16,
+      "count": 15,
       "url": "https://www.last.fm/music/Doce"
     },
     {
@@ -26,36 +26,36 @@
       "url": "https://www.last.fm/music/Amor+Electro"
     },
     {
-      "name": "Kate Ryan",
+      "name": "Foxes",
       "count": 13,
+      "url": "https://www.last.fm/music/Foxes"
+    },
+    {
+      "name": "Kate Ryan",
+      "count": 12,
       "url": "https://www.last.fm/music/Kate+Ryan"
     },
     {
       "name": "Todrick Hall",
-      "count": 13,
+      "count": 12,
       "url": "https://www.last.fm/music/Todrick+Hall"
     },
     {
+      "name": "Charli XCX",
+      "count": 11,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
       "name": "Alaska Thunderfuck",
-      "count": 11,
+      "count": 10,
       "url": "https://www.last.fm/music/Alaska+Thunderfuck"
-    },
-    {
-      "name": "Aurora",
-      "count": 11,
-      "url": "https://www.last.fm/music/Aurora"
-    },
-    {
-      "name": "Desireless",
-      "count": 11,
-      "url": "https://www.last.fm/music/Desireless"
     }
   ],
   "tracks": [
     {
       "name": "É Demais",
       "url": "https://www.last.fm/music/Doce/_/%C3%89+Demais",
-      "count": 15,
+      "count": 14,
       "artist": "Doce"
     },
     {
@@ -67,50 +67,50 @@
     {
       "name": "Sweet Talker",
       "url": "https://www.last.fm/music/Years+&+Years/_/Sweet+Talker",
-      "count": 14,
+      "count": 13,
       "artist": "Years & Years"
     },
     {
       "name": "Désenchantée",
       "url": "https://www.last.fm/music/Kate+Ryan/_/D%C3%A9senchant%C3%A9e",
-      "count": 13,
+      "count": 12,
       "artist": "Kate Ryan"
     },
     {
       "name": "RAININ’ FELLAS",
       "url": "https://www.last.fm/music/Todrick+Hall/_/RAININ%E2%80%99+FELLAS",
-      "count": 13,
+      "count": 12,
       "artist": "Todrick Hall"
     },
     {
       "name": "Sooner or Later",
       "url": "https://www.last.fm/music/Years+&+Years/_/Sooner+or+Later",
-      "count": 12,
+      "count": 11,
       "artist": "Years & Years"
     },
     {
       "name": "RED",
       "url": "https://www.last.fm/music/Alaska+Thunderfuck/_/RED",
-      "count": 11,
+      "count": 10,
       "artist": "Alaska Thunderfuck"
     },
     {
       "name": "Voyage voyage",
       "url": "https://www.last.fm/music/Desireless/_/Voyage+voyage",
-      "count": 11,
+      "count": 10,
       "artist": "Desireless"
     },
     {
       "name": "Petrified",
       "url": "https://www.last.fm/music/METTE/_/Petrified",
-      "count": 11,
+      "count": 10,
       "artist": "METTE"
     },
     {
-      "name": "Shadow Of Mine",
-      "url": "https://www.last.fm/music/Alec+Benjamin/_/Shadow+Of+Mine",
+      "name": "Devil Side",
+      "url": "https://www.last.fm/music/Foxes/_/Devil+Side",
       "count": 9,
-      "artist": "Alec Benjamin"
+      "artist": "Foxes"
     }
   ]
 }
