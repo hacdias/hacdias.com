@@ -20,7 +20,7 @@ I kept writing in Portuguese until the beginning of 2015. Then, I aimed for some
 
 Some more years passed, I created a few other blogs, and now we're here, at **hacdias.com**. The old domain still exists, I still have it, and it merely redirects here. Since 2014, this website suffered, at least, 16 complete redesigns. For the future, I will try holding off more redesigns. I'm not yet 100% happy with the current design, which I have since September 2020.
 
-## 💡 Why Does This Website Exist? {#why}
+## Why Does This Website Exist? 💡 {#why}
 
 Everyone that creates content does so for some reason and I am no exception, of course. I honestly don't remember the reason why I created the website in the first place, but I can tell you the reasons that lead me to keep it nowadays.
 
@@ -32,7 +32,7 @@ Everyone that creates content does so for some reason and I am no exception, of 
 
 - **Less social media:** almost everyone uses social media. Despite being useful, they are also locked silos where you store your data. The data you create. The data you should own. Using my website as the medium to share whatever I want to share in first hand allows me to own my data a little bit more.
 
-## ⚙️ How Does This Website Work? {#how}
+## How Does This Website Work? ⚙️ {#how}
 
 Over the time, this website has suffered imense changes. Sometimes I think how crazy it feels to have a website for over 6 years already and I'm just 21. I guess that is one of the perks of being born in this age. I wonder what the future generations will have.
 
@@ -46,7 +46,7 @@ Regarding storage, this website is directly served from a **VPS** I rent with [H
 
 Not everything is stored in my VPS though. All my media content (photos, videos, etc) is served from a subdomain `cdn.hacdias.com` which is linked to a [**Bunny**](https://bunny.net/) edge storage box. Bunny is yet another CDN, just like Cloudflare. However, they also provide the possibility of having a storage box where you can directly store files that are then served by their CDN.
 
-## 🍇 The Features {#features}
+## The Features 🍇 {#features}
 
 Nowadays, this website provides more features than ever before. Even though it is technically static, it is updated quite frequently with data from multiple services I use to track movies, TV shows, songs I listen to, books I read, etc.
 
@@ -77,7 +77,7 @@ In addition, my website also complies with the [Microformats](https://microforma
 
 Finally, my website also supports [IndieAuth](https://indieauth.spec.indieweb.org/) authentication. IndieAuth is an extension of OAuth 2.0 that allows users to login using their own domains. I can use my website to login into other's websites and other people can log in into my website using their websites.
 
-## ⚖️ Disclaimers {#disclaimer}
+## Disclaimers ⚖️ {#disclaimer}
 
 - **Opinions** change over time. If you're reading something that is many years old, or even just a few months or weeks old, it may not reflect my current opinion. The same applies for technical articles or any other knowledge that may be outdated. If you're unsure about something I wrote, please [contact me](/contact/) for clarification instead of jumping into conclusions.
 

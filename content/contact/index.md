@@ -9,13 +9,13 @@ If you need to reach me directly:
 - ☎️ [Telegram (@hacdias)](https://t.me/hacdias)
 - ✉️ [E-mail (mail@hacdias.com)](mailto:mail@hacdias.com)
 
-## 🗞 Follow
+## Follow 🗞
 
 All pages that list posts, such as [micro](/micro/) and [articles](/articles/), have RSS, JSON and HTML ([Microformats](https://microformats.org/)) feeds. To subscribe to my main posts, you can follow my [stream](/stream/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
 
 <div class="box">
 
-  In case your reader does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the [main page](/) page:
+  In case your reader does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the [home page](/) page:
 
   - **HTML/Microformats**: [https://hacdias.com/](/)
   - **RSS Feed**: [https://hacdias.com/.rss](/.rss)
@@ -24,7 +24,7 @@ All pages that list posts, such as [micro](/micro/) and [articles](/articles/), 
 
 </div>
 
-## 🕸 Elsewhere {#elsewhere}
+## Elsewhere 🕸 {#elsewhere}
 
 My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:
 
@@ -33,7 +33,7 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 - 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
 - 💼 [LinkedIn (@hacdias)](https://linkedin.com/in/hacdias)
 
-## 🗝 PGP
+## PGP 🗝
 
 If you want to encrypt any of the messages you send to me, you can find my public
 key directly on this [website](/pubkey.txt) or on [keybase](https://keybase.io/hacdias). Here's the fingerprint:
