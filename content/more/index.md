@@ -51,20 +51,6 @@ This website contains more things than it looks at first glance. This page is a 
 
 ### 🧪 Experiments {#experiments}
 
-<style>
-.terms.nyan a:hover {
-  background: #104d8f url(https://cdn.hacdias.com/u/nyan-cat.gif) no-repeat right / contain;
-  image-rendering: pixelated;
-  color: var(--white);
-}
-
-#trigger {
-  text-decoration:underline;
-  text-decoration-style: dotted;
-  cursor: pointer;
-}
-</style>
-
 A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
 Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger'>Or they will bite you!</span>
 

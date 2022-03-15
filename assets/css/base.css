@@ -28,7 +28,7 @@
   --half-space: 1.25rem;
   --max-width: 48rem;
 
-  --border: 3px;
+  --border: 2px;
   --box-padding: 1rem;
   --radius: 0.4rem;
 }
@@ -552,22 +552,6 @@ figure.right {
 .terms.bold a,
 .terms.bold a:visited {
   font-weight: bold;
-}
-
-.terms.grid ul {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 0.5rem;
-  margin-bottom: 0.5rem;
-}
-
-.terms.grid li {
-  margin: 0;
-}
-
-.terms.grid a {
-  width: 100%;
-  height: 100%;
 }
 
 @media screen and (max-width: 40rem) {
