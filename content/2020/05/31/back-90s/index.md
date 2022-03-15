@@ -27,6 +27,18 @@ Over the past months, I have been reading more and more posts where people are [
   }
 }
 
+:root {
+  --accent: #7261a1;
+}
+
+.container {
+  background: var(--background);
+}
+
+#navbar {
+  border-radius: 0;
+}
+
 .netscape,
 .iexplore {
   width: 100%;

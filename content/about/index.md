@@ -3,13 +3,19 @@ title: About
 noShowInteractions: true
 ---
 
-![Me!](cdn:/2022-03-witte-dame-in)
+![Me!](cdn:/2022-03-witte-dame-in?class=fw)
 
 Hi, I'm Henrique (he/him)!
 
 I'm from a little town in Portugal 🇵🇹 and I'm now pursuing my Master's degree 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl), in Eindhoven. At the same time, I'm working at [Protocol Labs](https://protocol.ai) on fascinating projects to help decentralize the web.
 
 <!--more-->
+
+<style>
+:root {
+  --accent: #df263b;
+}
+</style>
 
 I believe in transparency and openness, in a united Europe 🇪🇺 and that all citizens must have equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
 
@@ -26,6 +32,6 @@ Most likely you've already noticed that my handle, `@hacdias`, reminds of the wo
 - [✉️ Contact](/contact)
 - [🎓 Resume](/resume)
 - [🤯 Impossible List](/impossible-list)
-- [⚙️ About This Website](/meta)
+- [⚙️ Colophon](/colophon)
 
 </div>

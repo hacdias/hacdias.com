@@ -12,14 +12,15 @@
     {{ end }}
 
     {{ with ($mf2.Sub "location") }}
-    <p>📍
+    <p>
+      {{/* 📍 */}}
       {{ .LocationHTML }}
     </p>
     {{ end }}
 
     <p>
       {{- if or (not .Published.IsZero) (not .Updated.IsZero) }}
-        ⏰
+        {{/* ⏰ */}}
         {{- if .Updated.After .Published -}}
           <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
             <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Updated.Format "02 Jan 2006 15:04 MST" }}</a>

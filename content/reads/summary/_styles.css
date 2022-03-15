@@ -1,11 +1,3 @@
 :root {
-  --action: #8e4a1f;
-}
-
-@media screen and (min-width: 38rem) {
-  body {
-    background: #8e4a1f url(/reads/shelf.jpg);
-    background-size: 400px;
-    background-attachment: fixed;
-  }
+  --accent: #904726;
 }

@@ -6,8 +6,7 @@ description: |
 ---
 
 <style>
-body {
-  background: #f1c40f url(/articles/pencils.svg) repeat-x bottom;
-  background-attachment: fixed;
-}
+  :root {
+    --accent: #e8ba00;
+  }
 </style>

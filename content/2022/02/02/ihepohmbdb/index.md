@@ -8,5 +8,3 @@ properties:
   in-reply-to: https://events.indieweb.org/2022/02/personal-libraries-pop-up-session-Wax8N17zQuY0
   rsvp: "no"
 ---
-
-Unfortunately, I won't be able to attend.

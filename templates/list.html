@@ -1,7 +1,9 @@
 {{ define "main" }}
 <main role='main'>
   {{ include "base/admin" . }}
-  <h1>{{ .Title }}</h1>
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
 
   {{ with .Content }}
     <div class='copy'>{{ md . }}</div>

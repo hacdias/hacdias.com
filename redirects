@@ -1052,3 +1052,4 @@
 /all/feed.xml /all.atom
 /all/feed.json /all.json
 /links /bookmarks
+/meta /colophon

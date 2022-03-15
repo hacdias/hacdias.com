@@ -1,8 +1,6 @@
 {{ define "post/itinerary" }}
   {{ $mm := .Helper }}
   {{ $sub := $mm.Sub $mm.TypeProperty }}
-  <header><p>🗺 <strong>Itinerary</strong></p></header>
-
   {{ $subs := $mm.Subs $mm.TypeProperty }}
 
   {{ range $subs }}

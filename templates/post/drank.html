@@ -1,6 +1,7 @@
 {{ define "post/drank" }}
   {{ $mm := .Helper }}
   {{ $sub := $mm.Sub $mm.TypeProperty }}
-  <header><p>🍺 <strong>Drank</strong></p></header>
-  <div class="p-name ibox">{{ $sub.Name }}</div>
+  <div class=ibox>
+    🍺 Drank <strong><span class="p-name">{{ $sub.Name }}</span></strong>
+  </div>
 {{ end }}

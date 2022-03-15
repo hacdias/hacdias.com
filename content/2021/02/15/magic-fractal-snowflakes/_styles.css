@@ -1,11 +1,19 @@
 :root {
-  --action: #3867d6;
+  --accent: #6aa3f2;
 }
 
 body {
   background: #4b7bec url(https://cdn.hacdias.com/u/2021-02-snowflake.svg);
   background-size: 50px;
   background-attachment: fixed;
+}
+
+.container {
+  background: var(--background);
+}
+
+#navbar {
+  border-radius: 0;
 }
 
 .snowflakes {

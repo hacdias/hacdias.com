@@ -18,10 +18,11 @@
     {{ end }}
 
     {{ include "post/photos" . }}
-    {{ include "post/footer" . }}
 
     {{ if $isLong }}
       <a href="{{ relURL .Permalink }}" title="Read More" class="nl"><div class="more">READ MORE</div></a>
     {{ end }}
+
+    {{ include "post/footer" . }}
   </article>
 {{ end }}

@@ -5,10 +5,10 @@
   {{ if eq $type "reply" }}
     {{ include "post/embedded" . }}
   {{ else if eq $type "like" }}
-    <header><p>❤️ <strong>Liked</strong></p></header>
+    <p style="margin-top: 0">❤️ Liked</p>
     {{ include "post/embedded" . }}
   {{ else if eq $type "repost" }}
-    <header><p>📢 <strong>Reposted</strong></p></header>
+    <p style="margin-top: 0">📢 Reposted</p>
     {{ include "post/embedded" . }}
   {{ else if eq $type "bookmark" }}
     {{ include "post/bookmark" . }}

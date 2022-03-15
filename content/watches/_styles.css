@@ -1,11 +1,3 @@
 :root {
-  --action: #c0749d;
-}
-
-@media screen and (min-width: 38rem) {
-  body {
-    background: #48084f url(/watches/pattern.jpg);
-    background-size: 300px;
-    background-attachment: fixed;
-  }
+  --accent: #c0749d;
 }

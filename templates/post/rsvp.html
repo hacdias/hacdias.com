@@ -4,30 +4,28 @@
   {{ $url := $mf2.String "in-reply-to" }}
   {{ $rsvp := $mf2.String $mf2.TypeProperty }}
   
-  <header>
+  <div class=ibox>
     {{ if eq $rsvp "interested" }}
-      <p>⭐️ <strong>Interested In</strong></p>
+      ⭐️ Interested in
     {{ else if eq $rsvp "yes" }}
-      <p>✔️ <strong>Going To</strong></p>
+      ✅ Will attend
     {{ else if eq $rsvp "no" }}
-      <p>❌ <strong>Not Going To</strong></p>
+      ❌ Will not attend
     {{ else if eq $rsvp "maybe" }}
-      <p>🤔 <strong>Maybe Going To</strong></p>
+      ❓ Will maybe attend
     {{ end }}
-  </header>
+
+    {{ with $data.Context }}
+    <span class="h-cite u-in-reply-to">
+      <strong><a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url p-name">{{ .name }}</a></strong>
+      {{- if .start }} on {{ dateFormat .start "January 02, 2006" }}{{ end }}
+    </span>
+    {{ else }}
+    <span class="h-cite u-in-reply-to">
+      <strong>an event on <a rel="noopener noreferrer" target="_blank" href="{{ $url }}">{{ domain $url }}</a></strong>
+    </span>
+    {{ end }}
+  </div>
 
   <data class="p-rsvp" value="{{ $rsvp }}"></data>
-
-  {{ with $data.Context }}
-  <div class="h-cite ibox u-in-reply-to">
-    <a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url p-name">{{ .name }}</a>
-    {{- if .start -}}
-      , happening on {{ dateFormat .start "January 02, 2006" }}.
-    {{ end }}
-  </div>
-  {{ else }}
-  <div class="h-cite ibox u-in-reply-to">
-    An event on <a rel="noopener noreferrer" target="_blank" href="{{ $url }}">{{ domain $url }}</a>
-  </div>
-  {{ end }}
 {{ end }}

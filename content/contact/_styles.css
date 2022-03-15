@@ -1,11 +1,3 @@
 :root {
-  --action: #fecb00
-}
-
-@media screen and (min-width: 38rem) {
-  body {
-    background: #fecb00 url(/contact/mailbox.jpg);
-    background-size: 400px;
-    background-attachment: fixed;
-  }
+  --accent: #e8ba00;
 }

@@ -1,10 +1,12 @@
 {{ define "main" }}
   <main role='main'>
-    <h1>{{ .Title }}</h1>
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
 
     <form id='search-form' class='inline-form' style="margin: 1rem 0">
       <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" {{ with .Data.SearchQuery }}value="{{ . }}"{{ end }} />
-      <input type='submit' value='Go' style="background-color: var(--action); border-color: var(--action)" />
+      <input type='submit' value='Go' style="background-color: var(--accent); border-color: var(--accent)" />
     </form>
 
     {{ if not (eq (len .Data.Entries) 0) }}

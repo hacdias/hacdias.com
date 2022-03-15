@@ -11,26 +11,28 @@
   {{ $author := $read.String "author" }}
   {{ $status := $mf2.String "read-status" }}
 
-  {{ with $status }}
-  <header>
-    <p>
+  <div class=ibox>
+    {{ with $status }}
       {{ if eq . "to-read" }}
-        <p>📚 <strong>Want To Read</strong></p>
+        📚 Want to read
       {{ else if eq . "finished" }}
-        <p>📕 <strong>Finished Reading</strong></p>
+        📕 Finished
       {{ else }}
         {{ $total := $read.Int "pages" }}
         {{ $page := $mf2.Int "page" }}
-        <p>📖 <strong>Reading {{ with $page }}(on page <span class="p-page">{{ . }}</span>{{ with $total }} of <span class="p-total">{{ . }}</span>{{ end }}){{ end }}</strong></p>
+        {{ with $page }}
+          📖 On page <span class="p-page">{{ . }}</span>{{ with $total }} of <span class="p-total">{{ . }}</span>{{ end }} of
+        {{ else }}
+          📖 Reading
+        {{ end }}
       {{ end }}
-    </p>
-  </header>
-  {{ end }}
+    {{ end }}
 
-  <div class="p-read-of h-cite ibox">
-    {{ with $canonical }}<a href="{{ relURL . }}" class="u-url">{{ end }}
-      <cite class="p-name">{{ $name }}</cite> — <span class="p-author">{{ $author }}</span>
-    {{ with $canonical }}</a>{{ end }}
+    <span class="p-read-of h-cite">
+      {{ with $canonical }}<a href="{{ relURL . }}" class="u-url">{{ end }}
+        <strong><span class="p-name">{{ $name }}</span></strong> by <span class="p-author">{{ $author }}</span>
+      {{ with $canonical }}</a>{{ end }}
+    </span>
   </div>
 
   <data class="p-x-read-status dn" value="{{ $status }}">{{ $status }}</data>

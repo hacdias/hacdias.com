@@ -3,29 +3,29 @@
   {{ $sub := $mm.Sub $mm.TypeProperty }}
   {{ $series := $sub.Sub "episode-of" }}
 
-  {{ if $series }}
-    <header><p>📺 <strong>Watched</strong></p></header>
+  <div class=ibox>
+    {{ if $series }}
+      📺 Watched
+      {{ $episode := $sub.Properties.episode }}
+      {{ $season := $sub.Properties.season }}
 
-    {{ $episode := $sub.Properties.episode }}
-    {{ $season := $sub.Properties.season }}
-
-    <div class="ibox u-watch-of h-cite">
-      <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
-        <span class="p-name">{{ $sub.Name }}</span>
-        (
-          {{- with $series.Name }}<span class="u-episode-of h-cite"><span class="p-name">{{ . }}</span></span>{{ end }}
-          {{ with $season }} S<span class="p-season">{{.}}</span>{{ end -}}
-          {{ with $episode }}E<span class="p-episode">{{.}}</span>{{ end -}}
-        )
-      </a>
-    </div>
-  {{ else }}
-    <header><p>🎬 <strong>Watched</strong></p></header>
-
-    <div class="ibox u-watch-of h-cite">
-      <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
-        <span class="p-name">{{ $sub.Name }}</span>
-      </a>
-    </div>
-  {{ end }}
+      <span class="u-watch-of h-cite">
+        <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
+          <strong><span class="p-name">{{ $sub.Name }}</span></strong>
+          (
+            {{- with $series.Name }}<span class="u-episode-of h-cite"><span class="p-name">{{ . }}</span></span>{{ end }}
+            {{ with $season }} S<span class="p-season">{{.}}</span>{{ end -}}
+            {{ with $episode }}E<span class="p-episode">{{.}}</span>{{ end -}}
+          )
+        </a>
+      </span>
+    {{ else }}
+      🎬 Watched
+      <span class="u-watch-of h-cite">
+        <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
+          <strong><span class="p-name">{{ $sub.Name }}</span></strong>
+        </a>
+      </span>
+    {{ end }}
+  </div>
 {{ end }}

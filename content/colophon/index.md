@@ -1,5 +1,5 @@
 ---
-title: About This Website
+title: Colophon
 published: 2021-02-19T09:45:13Z
 updated: 2022-03-07T08:51:04.831837684+01:00
 noShowInteractions: true
@@ -8,13 +8,7 @@ noSendInteractions: true
 
 <!--meta-->
 
-<div class="subtitle">
-
-I have been running this website since 2014. Since then, a lot has changed. My repository shows over 10 000 commits and that's just the changes after I migrated to a static website.
-
-</div>
-
-<div class="box blue">
+<div class="box">
 
 Once in a while, I publish updates under the tag [meta](/tags/meta/).
 
@@ -79,7 +73,7 @@ When you visit one of my posts, you'll be able to see on the bottom a box where 
 
 <!-- - [**Telegraf**](https://telegraph.p3k.io/) for sending webmentions without having to deal with all the issues that any decentralized system might have when one machine goes offline for a bit. -->
 
-<div class="box green word" data-word="Microformats">
+<div class="box">
   
   My website also complies with [Microformats](https://microformats.org/) which, on the surface, is a set of HTML classes that allows for very easy parsing of my website's content. They can be used for [feeds](#feeds) for example.
 

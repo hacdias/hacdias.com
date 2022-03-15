@@ -36,8 +36,8 @@ This website contains more things than it looks at first glance. This page is a 
 <div class='terms grid bold'>
 
 - [🧔 About](/about)
-- [⚙️ About This Website](/meta)
 - [🗞 Blogroll](/blogroll)
+- [⚙️ Colophon](/colophon)
 - [✉️ Contact](/contact)
 - [📝 Guestbook](/guestbook)
 - [🤯 Impossible List](/impossible-list)

@@ -1,18 +1,12 @@
 :root {
   /* Font sizes. Nice website: https://type-scale.com/ */
-  --f1: 2.488rem;
+  --f1: 3.052rem;
   --f2: 1.728rem;
   --f3: 1.44rem;
   --f4: 1.2rem;
   --f5: 1rem;
-  --f6: 0.875rem;
+  --f6: 0.85rem;
   --f7: 0.75rem;
-
-  /* Some colors */
-  --blue: 52, 152, 219;
-  --yellow: 241, 196, 15;
-  --red: 231, 76, 60;
-  --green: 46, 204, 113;
 
   /* Blacks to whites */
   --black: #111;
@@ -20,13 +14,15 @@
   --light-gray: #888;
   --light-white: #ddd;
   --near-white: #f4f4f4;
-  --action: #2980b9;
   --white: #ffffff;
+
+  --accent: #306fdd;
+  --background: #fbfbfb;
 
   /* Spacings */
   --space: 2.5rem;
   --half-space: 1.25rem;
-  --max-width: 48rem;
+  --max-width: 52rem;
 
   --border: 2px;
   --box-padding: 1rem;
@@ -43,9 +39,11 @@ html {
 
 body {
   color: var(--dark-gray);
-  background: #000 url(https://cdn.hacdias.com/u/2021-02-space.gif);
+  background: var(--background);
+  border: 0.5rem solid var(--accent);
   background-attachment: fixed;
   line-height: 1.25;
+  min-height: 100vh;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
@@ -142,7 +140,7 @@ li {
 }
 
 ::marker {
-  color: var(--action)
+  color: var(--accent)
 }
 
 .nl,
@@ -198,14 +196,17 @@ input[type="submit"]:hover {
 }
 
 #footer {
-  opacity: 0.8;
   margin-top: 2rem;
   font-size: var(--f6);
+  color: var(--light-gray);
 }
 
 #footer > div {
   display: flex;
-  margin-top: 0.5rem;
+}
+
+#footer > div > div {
+  margin-bottom: 0.5rem;
 }
 
 #footer > div > div:first-of-type {
@@ -239,16 +240,17 @@ figcaption {
   margin: 0.25rem 0;
 }
 
-article header {
-  margin-bottom: 1rem;
+main header {
+  margin: 2rem 0;
+  text-align: center;
 }
 
-article header h1 {
+main header h1 {
   margin-bottom: 0;
 }
 
 article footer p,
-article header p {
+article header p { /* TODO: is this till needed? (datre under post?) */
   font-size: var(--f6);
   color: var(--light-gray);
   font-weight: 500;
@@ -291,7 +293,7 @@ table img {
 blockquote {
   padding-left: 0.75rem;
   margin: 1em 0 1rem 1rem;
-  border-left: .25rem solid var(--action);
+  border-left: .25rem solid var(--accent);
 }
 
 details summary {
@@ -319,47 +321,15 @@ details summary {
   margin-bottom: 1rem;
 }
 
-#header,
-#header > div > a {
-  display: flex;
-  align-items: center;
-}
-
-#header form {
-  margin-left: auto;
-  font-size: var(--f6);
-  width: 16rem;
-}
-
-#header form input {
-  width: 100%;
-}
-
-#header p {
-  margin: 0;
-}
-
-#header .logo {
-  width: 3rem;
-  margin-right: 0.5rem;
-}
-
-#header .name {
-  font-weight: bold;
-  font-size: 1.5rem;
-  color: var(--black);
-}
-
-#header label,
-#navbar input {
-  display: none;
-}
-
 #navbar {
-  background-color: var(--black);
+  background-color: var(--accent);
   color: var(--white);
-  margin-top: var(--half-space);
+  margin-top: 0;
   margin-bottom: var(--half-space);
+  border-bottom-right-radius: var(--radius);
+  border-bottom-left-radius: var(--radius);
+  overflow: hidden;
+  font-weight: 600;
 }
 
 #navbar ul {
@@ -371,26 +341,69 @@ details summary {
 
 #navbar li {
   flex-grow: 1;
-  margin: 0;
+  margin: 0 0.2rem;
 }
 
+#navbar > div,
 #navbar li a {
   text-align: center;
   display: block;
-  padding: 0.6rem;
-  font-weight: bold;
+  padding: 0.5rem;
+  cursor: pointer;
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+
+#navbar label {
+  margin-left: auto;
+  cursor: pointer;
+}
+
+#navbar li:first-child {
+  margin-left: 0;
+}
+
+#navbar li:first-child a {
+  background-color: rgba(0, 0, 0 ,0.1);
+  border-top-left-radius: 0;
 }
 
 #navbar li a:hover {
-  background-color: var(--dark-gray);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#navbar li:last-child {
+  max-width: 10rem;
+  margin-right: 0;
+}
+
+#navbar li:last-child form {
+  height: 100%;
+}
+
+#navbar li:last-child input {
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.1);
+  border-top-left-radius: var(--radius);
+  border: 0;
+  color: white;
+}
+
+#navbar li:last-child input::placeholder {
+  color: white;
+  font-weight: 600;
+}
+
+#navbar > div,
+#navbar input[type=checkbox] {
+  display: none;
 }
 
 .container {
   width: 100%;
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: var(--half-space) var(--space);
-  background: var(--white);
+  padding: 0 var(--space) var(--half-space);
 }
 
 .copy ol,
@@ -467,27 +480,10 @@ figure.right {
   margin-left: 0.5rem;
 }
 
-.subtitle p {
-  color: var(--light-gray);
-  font-weight: 500;
-  font-size: var(--f4);
-  margin-top: -1rem;
-}
-
-.subtitle p::after {
-  content: " ";
-  display: block;
-  width: 30%;
-  background: var(--light-white);
-  height: 3px;
-  margin: 0.5rem 0 1rem;
-}
-
 .box {
-  --color: 200, 200, 200;
   padding: 0.5rem;
-  border: var(--border) solid rgb(var(--color));
-  background-color: rgba(var(--color), 0.1);
+  border: var(--border) solid var(--light-white);
+  background-color: var(--near-white);
   border-radius: var(--radius);
   margin: 1rem 0;
 }
@@ -498,34 +494,6 @@ figure.right {
 
 .box > *:last-child {
   margin-bottom: 0;
-}
-
-.box.word::before {
-  content: attr(data-word);
-  margin-right: .5rem;
-  text-transform: uppercase;
-  font-weight: bold;
-  color: rgb(var(--color));
-}
-
-.box.word > *:first-child {
-  display: inline;
-}
-
-.box.red {
-  --color: var(--red);
-}
-
-.box.green {
-  --color: var(--green);
-}
-
-.box.blue {
-  --color: var(--blue);
-}
-
-.box.yellow {
-  --color: var(--yellow);
 }
 
 .terms ul {
@@ -554,86 +522,64 @@ figure.right {
   font-weight: bold;
 }
 
-@media screen and (max-width: 40rem) {
+@media screen and (max-width: 60rem) {
+  body {
+    border: 0;
+  }
+
+  .container {
+    max-width: 100%;
+  }
+
+  #footer > div {
+    display: block;
+    text-align: center;
+  }
+
+  #navbar li {
+    margin: 0;
+  }
+
+  #navbar,
+  #navbar li a,
+  #navbar li:first-child a,
+  #navbar li:last-child input {
+    border-radius: 0;
+  }
+}
+
+@media screen and (max-width: 48rem) {
   :root {
     --space: 1rem;
     --half-space: 1rem;
   }
 
-  #header {
-    display: block;
-    width: calc(100% + 2 * var(--space));
-    margin-left: calc(var(--space) * -1);
-    margin-top: calc(var(--space) * -1);
-  }
-
-  #header form {
-    width: 100%;
-  }
-
-  #header form input {
-    padding: 0.6rem var(--half-space);
-  }
-
-  #navbar {
-    margin-top: 0;
-  }
-
-  #navbar ul {
-    display: block;
-  }
-
-  #navbar li {
-    display: none;
-  }
-  
-  #header > div {
-    display: flex;
-    font-weight: bold;
-    padding: 0.6rem var(--space) ;
-    justify-content: space-between;
-    background: var(--black);
-    color: var(--white);
-  }
-
-  #header .logo {
-    filter: invert(1);
-    height: 1rem;
-    width: auto;
-    margin-right: 0.25rem;
-  }
-
-  #header label {
-    display: block;
-    cursor: pointer;
-  }
-
-  #header label .emoji {
-    vertical-align: middle;
-  }
-
-  #header .name {
-    color: var(--white);
-    font-size: 1rem;
-  }
-
-  #header .aka {
+  #navbar ul li {
     display: none;
   }
 
-  #navbar li a {
-    text-align: left;
-    padding-left: var(--space);
-    padding-right: var(--space);
-  }
-
+  #navbar ul,
   #navbar #toggler:checked + ul > li {
     display: block;
   }
 
-  .terms.grid {
-    display: grid;
-    grid-template-columns: auto;
+  #navbar > div {
+    display: flex;
+  }
+  
+  #navbar ul li:first-child {
+    display: none !important;
+  }
+
+  #navbar li:last-child input,
+  #navbar > div,
+  #navbar li a {
+    text-align: left;
+    padding: .5rem var(--half-space);
+  }
+
+  #navbar li:last-child {
+    max-width: 100%;
   }
 
   .inline-form,
@@ -653,7 +599,7 @@ figure.right {
     height: auto !important;
     margin: inherit !important;
   }
-  
+
   .mgrid figure img {
     object-fit: cover !important;
     height: auto !important;
@@ -665,6 +611,7 @@ figure.right {
   body {
     background: white !important;
     font-size: 11pt;
+    border: 0;
   }
 
   .container {
@@ -675,11 +622,13 @@ figure.right {
   }
 
   #navbar,
-  #footer {
+  #footer,
+  .admin-controls {
     display: none;
   }
 
-  #header {
-    margin-bottom: 1rem;
+  a:hover {
+    background: none;
   }
 }
+

@@ -23,6 +23,10 @@
   margin-bottom: 0;
 }
 
+.card header {
+  margin: 0 0 1rem 0;
+}
+
 .card .more {
   color: var(--light-gray);
   background: var(--near-white);

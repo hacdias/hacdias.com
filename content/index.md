@@ -19,7 +19,7 @@ isListing: true
 
 ![Me!](https://hacdias.com/me-256.jpg?class=right+me)
 
-Born in Portugal 🇵🇹. I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱. At the same time, I've been working part-time with [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
+Born in Portugal 🇵🇹. I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱., while working part-time for [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
 
 ### ☄️ Latest {#latest}
 

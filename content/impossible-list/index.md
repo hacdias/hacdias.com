@@ -8,7 +8,7 @@ noSendInteractions: true
 
 <style>
 :root {
-  --action: #3aaca9;
+  --accent: #3aaca9;
 }
 
 .copy ol {
@@ -29,12 +29,6 @@ noSendInteractions: true
 }
 
 @media screen and (min-width: 38rem) {
-  body {
-    background: #3aaca9 url(/impossible-list/tigers.jpg);
-    background-size: 1000px;
-    background-attachment: fixed;
-  }
-
   .trips {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
