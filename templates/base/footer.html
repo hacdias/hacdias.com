@@ -14,8 +14,8 @@
     <div>
       {{ if .IsLoggedIn }}
         Logged in as <strong>{{ domain .User }}</strong> •
-        {{ if .IsAdmin }}<a href='{{ relURL "/dashboard" }}' class='nl'>Admin</a> •{{ end }}
-        <a href='{{ relURL "/private" }}' class='nl'>Private</a> •
+        {{ if .IsAdmin }}<a href='{{ relURL "/dashboard" }}'>Admin</a> •{{ end }}
+        <a href='{{ relURL "/private" }}'>Private</a> •
         <a href="{{ relURL (printf "/logout?redirect=%s" (urlquery .ID)) }}">Logout</a>
       {{ else }}
         <a href="{{ relURL (printf "/login?redirect=%s" (urlquery .ID)) }}">Login</a>
