@@ -12,6 +12,10 @@
   margin-top: 0;
 }
 
+.card h3 {
+  text-align: left;
+}
+
 .card .highlight > pre,
 .card .copy > pre,
 .card .fw {
