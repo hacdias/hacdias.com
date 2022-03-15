@@ -51,12 +51,12 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 
 <div class=indented>
 
-#### Software Engineer <small>[2019 - present] [part-time]</small> {#protocol-labs-software-engineer}
+#### Software Engineer <small>[September 2019 - present] [part-time]</small> {#protocol-labs-software-engineer}
 
 - Developed [Testground][pl:testground]: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.
 - Maintained multiple Go, JavaScript, Node.js and Electron projects.
 
-#### Open Source Scholarship <small>[2017 - 2019] [part-time]</small> {#protocol-labs-os-scholarship}
+#### Open Source Scholarship <small>[November 2017 - August 2019] [part-time]</small> {#protocol-labs-os-scholarship}
 
 - Lead maintainer of [IPFS Desktop][pl:desktop]: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month.
 - Revamped and shipped [IPFS Web UI][pl:webui]: a React-based web application used as a front-end for IPFS.
@@ -70,12 +70,12 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
-### Student Mentor <span class=location>[Eindhoven University of Technology][tue]</span> <small>[2021 - 2022] [part-time]</small> {#tue-student-mentor}
+### Student Mentor <span class=location>[Eindhoven University of Technology][tue]</span> <small>[September 2021 - February 2022] [part-time]</small> {#tue-student-mentor}
 
 - Mentored 12 new master students from different nationalities during their first semester.
 - Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
 
-### Lead Software Developer <span class=location>[Upframe</span>][upframe]</span> <small>[2016 - 2018] [part-time]</small> {#upframe}
+### Lead Software Developer <span class=location>[Upframe</span>][upframe]</span> <small>[September 2016 - May 2018] [part-time]</small> {#upframe}
 
 > Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.
 
@@ -90,7 +90,7 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [upframe:obs]: https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/
 [upframe:dv]: https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/
 
-### Content Writer <span class=location>[Pplware][pplware]</span> <small>[2013 - 2016] [part-time]</small> {#pplware}
+### Content Writer <span class=location>[Pplware][pplware]</span> <small>[June 2013 -  September 2016] [part-time]</small> {#pplware}
 
 > Pplware is a the largest Portuguese technology website with over 100 000 daily visitors.
 
