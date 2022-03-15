@@ -109,18 +109,18 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 
 ## Projects
 
-### File Browser <small>[2015 - 2019] [[code](https://github.com/filebrowser/filebrowser)]</small>
+### File Browser <small>[[code](https://github.com/filebrowser/filebrowser)] [2015 - 2019]</small>
 
 - Go and Vue.js based software that allows anyone to self-host their own file hosting service.
 - Over 10 million downloads through Docker and over 15 thousand stars on GitHub.
 - Currently maintained by the community.
 
-### Open Source Projects <small>[2015 - present] [[code][github]]</small>
+### Open Source Projects <small>[[code][github]] [2015 - present]</small>
 
 - Author and maintainer of some open source projects and free open source contributor.
 - All code is freely available on [GitHub][github] and can be used by anyone.
 
-### Personal Website <small>[2014 - present] [[code](https://github.com/hacdias/eagle)]</small>
+### Personal Website <small>[[code](https://github.com/hacdias/eagle)] [2014 - present]</small>
 
 - Built and maintained my personal website since 2014, allowing for *[selfdogfooding](https://indieweb.org/selfdogfood)*.
 - Built a custom Go backend that supports posts management, IndieWeb interactions, full-text search, connection to third party APIs, among [other features](https://hacdias.com/meta).
