@@ -1,21 +1,35 @@
 :root {
-  --accent: #ff7eb9;
+  --accent: #9999ff;
+}
+
+.entries {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 2rem;
+  margin: 2rem 0;
 }
 
 .entry {
   padding: var(--box-padding);
-  margin: 2.5rem 0;
-  background: #feff9c;
+  background: #ffb3ba;
   transform: rotate(0.5deg);
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
-.entry:nth-child(3n - 1) {
-  background: #ff7eb9;
+.entry:nth-child(5n - 3) {
+  background: 	#ffdfba;
 }
 
-.entry:nth-child(3n + 0) {
-  background: #7afcff;
+.entry:nth-child(5n - 2) {
+  background: #ffffba;
+}
+
+.entry:nth-child(5n - 1) {
+  background: #baffc9;
+}
+
+.entry:nth-child(5n + 0) {
+  background: 	#bae1ff;
 }
 
 .entry:nth-child(2n) {
