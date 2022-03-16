@@ -355,6 +355,11 @@ details summary {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
+#navbar li a.active {
+  background: var(--white);
+  color: var(--black);
+}
+
 #navbar li:first-child {
   margin-left: 0;
 }

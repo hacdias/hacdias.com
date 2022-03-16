@@ -5,7 +5,8 @@
       <li><a class='nl' href='{{ relURL "/" }}'>Henrique Dias</a></li>
       {{ range .Site.Menus.main -}}
         <li>
-          <a href='{{ relURL .Link }}' class='nl'>{{ .Name }}</a>
+          {{ $url := relURL .Link }}
+          <a href='{{ $url }}' class='nl{{ if eq $url $.ID }} active{{ end }}'>{{ .Name }}</a>
         </li>
       {{ end }}
       <li>
