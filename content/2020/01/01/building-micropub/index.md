@@ -13,11 +13,11 @@ properties:
 
 Recently, I have talked about [restructuring the URLs](/articles/2019/12/url-structure/) of my website and [adding IndieAuth](/articles/2019/12/using-indieauth/) so I could use my domain as my main  online identity to login into services. Along those lines, I came across [Micropub](https://www.w3.org/TR/micropub/). In their own words:
 
+<!--more-->
+
 > The Micropub protocol is used to create, update and delete posts on one’s own domain using third-party clients.   
 
 So it’s basically a simple common protocol that could let any website get updated using an arbitrary CMS (Content Management Software) or application that supports it. I really enjoyed the spec and there’s [suggestions and issues](https://github.com/w3c/Micropub/issues) being worked on.
-
-<!--more-->
 
 What I’ve been trying to do is to implement this on my own website. There aren’t  many open source [server implementations](https://indieweb.org/Micropub/Servers) unfortunately. However, I understand the reason: most of them are highly specific for their author’s website and so is the one I’m building.
 

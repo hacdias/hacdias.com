@@ -14,9 +14,9 @@ properties:
 
 A biblioteca [jQuery](http://jquery.com/) é das mais conhecidas e utilizadas em JavaScript. Com esta biblioteca podemos proceder a chamadas **ajax** muito facilmente através de poucas linhas de código.
 
-Vamos aprender a efetuar pedidos POST e GET com Ajax, obtendo os dados do lado do servidor utilizando PHP e responder a essa mesma chamada.
-
 <!--more-->
+
+Vamos aprender a efetuar pedidos POST e GET com Ajax, obtendo os dados do lado do servidor utilizando PHP e responder a essa mesma chamada.
 
 Iremos analisar um exemplo prático: um  formulário de registo ou inscrição  utilizando as tags ```<form>``` do HTML, Ajax para enviar os pedidos para o servidor e  PHP processar os dados e enviar a resposta novamente para o lado do cliente onde será mostrada uma mensagem de sucesso ou erro conforme o sucedido.
 

@@ -11,6 +11,8 @@ properties:
 
 It is the end of February and it is unbelievable. It feels like 2022 started yesterday, yet here we are: in the end of one more month. I feel like I say this every month though.
 
+<!--more-->
+
 In the beginning of the month, I did my last _ever_ exam. It was an Internet of Things exam. In the meanwhile, I have received the grade and I'm glad to be able to say that I finished all the courses of my master's program. From now on, I only have my master's thesis to focus on.
 
 During the past month, I had the opportunity to visit quite a few cities: Den Haag, Tilburg, Amsterdam, Rotterdam and others. Some of this visits were accompanied by three of my friends that came visit from Portugal, some were alone.

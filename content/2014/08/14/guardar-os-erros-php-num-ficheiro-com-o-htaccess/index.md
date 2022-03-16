@@ -13,9 +13,9 @@ properties:
 
 Quando os programadores de soluções web estão a programar alguma aplicação é normal que possam surgir erros durante o desenvolvimento e a linguagem de programação, por norma, mostra-os no browser.
 
-Mesmo depois do desenvolvimento concluído e do produto lançado, podem surgir erros porém é pouco profissional mostrar os erros "à paisana" no browser do utilizador sendo até uma boa "ajuda" para hackers.
-
 <!--more-->
+
+Mesmo depois do desenvolvimento concluído e do produto lançado, podem surgir erros porém é pouco profissional mostrar os erros "à paisana" no browser do utilizador sendo até uma boa "ajuda" para hackers.
 
 Hoje vamos explicar como podemos utilizar o ficheiro `.htaccess` para fazer o registo em log (_logging_) dos erros dados pela linguagem de programação PHP num ficheiro.
 

@@ -13,9 +13,9 @@ properties:
 
 Como prometido no [último artigo](/articles/2014/09/php-wordpress-comandos-printf-sprintf/), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
 
-Com o **gettext** podemos ter um site disponível em diversas linguagens de forma muito fácil e sem complicações. Nesta primeira parte, irá ser abordado como **configurar o gettext** e as suas **funções**.
-
 <!--more-->
+
+Com o **gettext** podemos ter um site disponível em diversas linguagens de forma muito fácil e sem complicações. Nesta primeira parte, irá ser abordado como **configurar o gettext** e as suas **funções**.
 
 O gettext pode ser configurado no PHP através de uma extensão nativa ou através do uso de uma biblioteca separada.Nós iremos utilizar o segundo método por ser mais simples e fácil de configurar.
 

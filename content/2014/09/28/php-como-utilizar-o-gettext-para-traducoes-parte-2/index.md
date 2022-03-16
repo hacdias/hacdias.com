@@ -13,9 +13,9 @@ properties:
 
 Na [primeira parte](/articles/2014/09/php-como-utilizar-o-gettext-para-traducoes/) deste artigo, ensinámos a configurar o Gettext em conjunto com o PHP de forma a que hoje possamos criar as nossas primeiras traduções.
 
-Agora é hora de criarmos as nossas primeiras traduções. Para isso, podemos instalar um programa chamado **Poedit** que nos vai ajudar. Podem descarregá-lo [aqui](http://poedit.net/).
-
 <!--more-->
+
+Agora é hora de criarmos as nossas primeiras traduções. Para isso, podemos instalar um programa chamado **Poedit** que nos vai ajudar. Podem descarregá-lo [aqui](http://poedit.net/).
 
 Abra o Poedit e clique em **Ficheiro → Novo** e selecione a língua **mãe** do seu site. No nosso caso, é português de Portugal (pt-PT). Depois disso, guarde o ficheiro em `lang/site_multi_lingua.pot`.
 

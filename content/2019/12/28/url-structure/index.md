@@ -12,9 +12,9 @@ properties:
 
 I’m now working on making my website more IndieWeb friendly, which was triggered by my searches after writing my last post about [owning our own data](/articles/2019/12/own-your-data/). It has been… harder than I though. But in a positive way!
 
-There are so many, but so many concepts in the IndieWeb world that I could never imagine before, but first: I need to support multiple data types because this website will now on hold more than just long articles like this one. We will support notes, bookmarks and articles for now.
-
 <!--more-->
+
+There are so many, but so many concepts in the IndieWeb world that I could never imagine before, but first: I need to support multiple data types because this website will now on hold more than just long articles like this one. We will support notes, bookmarks and articles for now.
 
 I’m using the static website generator [Hugo](https://gohugo.io) which basically allows me to customise my website the way I want, but they have so many concepts: sections, types, taxonomies, categories, tags…
 

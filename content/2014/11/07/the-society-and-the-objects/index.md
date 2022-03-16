@@ -13,9 +13,9 @@ properties:
 
 Presently, the people love the objects. Sometimes, more than they love the people. Is this good? Or not?
 
-Nowadays, the people buy objects and in the majority of times, they don’t use it. The people just buy objects just to have and not to use.
-
 <!--more-->
+
+Nowadays, the people buy objects and in the majority of times, they don’t use it. The people just buy objects just to have and not to use.
 
 Another great problem are gifts. If I receive a gift and I don’t like it, should I stay with it or not? In my opinion, I think that offer or donate it is the correct option.
 

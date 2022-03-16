@@ -12,9 +12,9 @@ properties:
 
 Firstly, a little bit of history - when I begun this blog, I've already been using WordPress on Pplware for a while. So, I tought: I know it, it's simple, it's easy to use, I'm going to use it on my personal blog.
 
-After deciding I was going to use WordPress, I bought a domain on [GoDaddy][1] (which I recommend) and paid for hosting on [PTServidor][2]. With the blog set up, I started writing posts in portuguese. I did it for some time.
-
 <!--more-->
+
+After deciding I was going to use WordPress, I bought a domain on [GoDaddy][1] (which I recommend) and paid for hosting on [PTServidor][2]. With the blog set up, I started writing posts in portuguese. I did it for some time.
 
 Less than an year afterwards, I moved my blog to [DigitalOcean][3] (which I recommend too). I had 100$ from GitHub Education for free to use on DigitalOcean and I give it a try. It was a nice and useful experience: I learned how to set up a server, apache and some of other things in a production environment.
 

@@ -13,9 +13,9 @@ properties:
 
 For quite some time, I have been getting more and more into the IndieWeb world and trying to own my own data. I have started publishing more to my website and using it as a place to store most of my public data, i.e., data I already published on other social media and platforms.
 
-It now holds my web interactions, such as [replies](/micro/), [likes](/micro/) and ~~reposts~~, as well as my [reading log](/articles/2020/01/owning-reading-log/). Since the beginning, I also wanted to this website as a place to store my watch logs. With watch I mean watching movies and TV series.
-
 <!--more-->
+
+It now holds my web interactions, such as [replies](/micro/), [likes](/micro/) and ~~reposts~~, as well as my [reading log](/articles/2020/01/owning-reading-log/). Since the beginning, I also wanted to this website as a place to store my watch logs. With watch I mean watching movies and TV series.
 
 Since about 2017 I’ve been using [Trakt](https://trakt.tv) to add track the movies and TV series I’ve been watching.  Since Trakt proves itself valuable, I decided to follow the [PESOS](https://indieweb.org/PESOS) strategy where I start to publish on a third party service, in this case Trakt, and then publish to my own website.
 

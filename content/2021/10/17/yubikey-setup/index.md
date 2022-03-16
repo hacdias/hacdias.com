@@ -11,9 +11,9 @@ properties:
 
 YubiKeys are hardware authentication devices that can be used with many applications, such as GPG, SSH and for 2 factor authentication. I have owned quite a few over the past years and recently I decided to upgrade them to the NFC version so I can use them with my mobile devices.
 
-As usual, there is quite a bit of setup after purchasing a new YubiKey and I always struggle to find the correct guide that I use. Thus, I decided to make this simple compilation of steps and guides so next time it'll be easy to find! Hope it can be useful for you too!
-
 <!--more-->
+
+As usual, there is quite a bit of setup after purchasing a new YubiKey and I always struggle to find the correct guide that I use. Thus, I decided to make this simple compilation of steps and guides so next time it'll be easy to find! Hope it can be useful for you too!
 
 ## ✅ Pre-flight Checks {#checks}
 

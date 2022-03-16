@@ -12,9 +12,9 @@ properties:
 
 Searching, exploring, walking, running, seeing, knowing, watching, meeting, taking photos, etc. All are verbs related with travelling which is one of the most amazing and *important* things in life.
 
-In the last summer, I've been visiting various places in my country, Portugal. One of them was Évora that is a city in Alentejo. This is an historical city and it's also beautiful.
-
 <!--more-->
+
+In the last summer, I've been visiting various places in my country, Portugal. One of them was Évora that is a city in Alentejo. This is an historical city and it's also beautiful.
 
 After seeing this amazing city, I have searched about this city and I discover that Évora has some places that are considered World Heritage since 1986.
 

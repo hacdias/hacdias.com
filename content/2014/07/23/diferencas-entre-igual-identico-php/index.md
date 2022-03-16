@@ -14,9 +14,9 @@ properties:
 
 É habitual utilizarem-se diversos operadores quando o assunto é programação. Existem vários até: aritméticos, comparativos e outros.
 
-Dentro de cada categoria existem vários sendo que a dos **comparativos** não é excepção e hoje trago-vos dois operadores comparativos, muito parecidos... ou talvez não: ```==``` e ```===```.
-
 <!--more-->
+
+Dentro de cada categoria existem vários sendo que a dos **comparativos** não é excepção e hoje trago-vos dois operadores comparativos, muito parecidos... ou talvez não: ```==``` e ```===```.
 
 Há já algum tempo que me questionava em relação ao uso de ambos os operadores pois não tinha a certeza de qual devia utilizar nas diversas situações que me apareciam.
 

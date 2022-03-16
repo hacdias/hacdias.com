@@ -12,7 +12,12 @@ properties:
   - software
 ---
 
-For quite some time, I've had a helper function on my Zsh config to quickly be able to `cd` to specific directories. It looked something like this:
+For quite some time, I've had a helper function on my Zsh config to quickly be able to `cd` to specific directories. 
+
+<!--more-->
+
+It looked something like this:
+
 
 ```zsh
 function cdc() {
@@ -23,8 +28,6 @@ function cdc() {
 So simply typing `cdc` or even `cdc hacdias/hacdias.com` would work perfectly. But there was a problem: I was seeing myself just typing `cdc`, pressing enter, and then "cding" to the right directory. This mostly happened because there was no autocomplete with this function.
 
 Yesterday I decided to investigate how to enable autocomplete for this function and it's actually pretty straightforward. To do so, you need to implement a definition function. It is standard to call it `_{name of alias}`. Hence, in our case, it would be `_cdc`.
-
-<!--more-->
 
 ```zsh
 function cdc() {

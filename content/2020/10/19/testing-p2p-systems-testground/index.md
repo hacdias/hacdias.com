@@ -15,11 +15,11 @@ properties:
 
 "Test, test, test" is a well known sentence right now due to the current circumstances. However, it does not apply only to Covid-19 or other diseases. Testing is one word that all of us have dreamt - or had nightmares - about in the past. It is also one crucial part and step in the Software Engineering and Development process, as it allows to verify and ensure that a certain system behaves as expected. At least, for known cases!
 
+<!--more-->
+
 As such, all kinds of systems should be able to be easily tested, regardless of what they do. Nevertheless, both you and I know that that is not the case. There are certain systems that are much easy to test than others, in many orders of magnitude. For example, a library that converts between different times formats is much easier to test than an app to upload and download files.
 
 Furthermore, any system that involves peer-to-peer communication or any other kind of distribution gets much harder to test! At Protocol Labs, we wanted to know and measure how changes to the IPFS and libp2p codebase would affect the performance of the network, but we couldn't find any reliable platform to help us with that. And then... *Testground was born!* 🚀
-
-<!--more-->
 
 Quoting the page, "[Testground](https://docs.testground.ai/) is a platform for testing, benchmarking and simulating distributed and peer-to-peer systems at scale. It is designed to be multi-lingual and runtime-agnostic, scaling gracefully from 2 to 10k instances, when needed".
 

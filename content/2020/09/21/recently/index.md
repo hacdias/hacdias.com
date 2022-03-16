@@ -14,11 +14,11 @@ properties:
 
 It's been a little bit over a month since I first arrived in Eindhoven. Since then, I have had time to explore the city, a bit of Rotterdam, and even find a [Portuguese store](https://pastelarialusa.nl) with "Pastéis de Nata" in Helmond! I have also had time to study, but had to decrease my time at Protocol Labs due to my studies. With all of this, I haven't had time to give much love to my blog.
 
+<!--more-->
+
 Inspired by Tom MacWright, I am going to make a commitment that sounds quite simple: make a post every month called "Recently". On it, I should reflect about the past month, the highs and lows, the things I've learned, important things I think are worth mention and so on.
 
 With this, I am also deprecating the [now](/now/) page. Why? This posts should already give an overview of what's been happening lately that is not covered by my [micro](/micro/) posts. But don't worry! I'm not breaking any links. It will just point to the most recent "Recently" post... no pun intended!
-
-<!--more-->
 
 ## Algorithms... algorithms!
 

@@ -13,9 +13,9 @@ properties:
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
 
-A [primeira](/articles/2014/12/mvc-linguagem-php/) e [segunda](/articles/2014/12/mvc-linguagem-php-ii/)  partes já foram publicadas e hoje é a vez da terceira onde tudo começa a tornar-se mais facilmente compreendido.
-
 <!--more-->
+
+A [primeira](/articles/2014/12/mvc-linguagem-php/) e [segunda](/articles/2014/12/mvc-linguagem-php-ii/)  partes já foram publicadas e hoje é a vez da terceira onde tudo começa a tornar-se mais facilmente compreendido.
 
 Em primeiro lugar, quero referir algumas modificações que efetuei em alguns dos ficheiros que já trabalhámos.
 

@@ -14,6 +14,8 @@ properties:
 
 Today's the first day of a new month, so here's a new "recently" post. Since I decided to start this series after [mid-september](/articles/2020/09/recently/), there's not that many news since. However, I'm more than happy to write a few words about what's been happening lately.
 
+<!--more-->
+
 First of all, I decided to create a [newsletter](/follow/) even though all posts I will send through it will be available on my website since day 1. Then, why did I choose to create a newsletter? I always wanted to publish articles regularly, but sometimes it's difficult to keep going when we don't feel obligation for it. After talking to [Alfonso](https://twitter.com/adlrocha), I decided to give it a try.
 
 ## Darkroom
@@ -29,5 +31,3 @@ The second update is as simple as this: I decided to join the Eindhoven Film and
 ## Thesis?
 
 Since I'm already in the first year of my Master's degree, which is just two years, I have been reading, investigating and thinking a lot more what's going to happen next year: the project/thesis. I should pick an area and a specific topic soon and try to contact a professor regarding this. Or just see what the professors at my uni are looking for, but that might not be as exciting. Next Monday I will be bringing a post specifically about this. So... if you're curious, please wait for it!
-
-<!--more-->

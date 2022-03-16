@@ -12,6 +12,8 @@ properties:
 
 March has been an extremely busy month for me where a lot happened and, at the same time, nothing happened. I can't even believe that April is just starting!
 
+<!--more-->
+
 Two months ago - what feels like yesterday - I was starting a new quartile with 3 new courses and I already knew I had to repeat an exam from last quartile. I was already stressing, and worried. Now we're just a few days until the exams.
 
 Next week, I will have 4 three hour exams. I have never, in my entire academic life, had three hour exams. Those 4 exams will all be comprised within a week, with no resting day in between: Tuesday, Wednesday, Thursday and Friday. It's definitely going to be a tough week!
@@ -27,5 +29,3 @@ It's been slightly over a year that all of this pandemic situation started and w
 Other than that, spring 🌷 started! And the Netherlands is getting filled with color. At least Eindhoven. I've been enjoying the cherry blossom trees.
 
 Stay safe! But enjoy your life!
-
-<!--more-->

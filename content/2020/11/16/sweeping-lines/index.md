@@ -12,9 +12,9 @@ properties:
 
 After two months of classes and two weeks of exams, the first quarter of my Master's is finally complete. I can say that 1/8th of my degree is complete. With a new quarter comes new courses. It's been just a week but there is one specific topic that I found quite intriguing: geometric algorithms, specifically sweep line algorithms.
 
-Before getting deeper into the subject, what are geometric algorithms? Well, they are used to solve geometric problems! Now you may be thinking "why is he stating the obvious?". Since geometric problems usually deal with an enormous amount of diverse data, the computational complexity is very important. A difference between the running time of a bad algorithm compared to an efficient one can be in the order of days, or even months and years.
-
 <!--more-->
+
+Before getting deeper into the subject, what are geometric algorithms? Well, they are used to solve geometric problems! Now you may be thinking "why is he stating the obvious?". Since geometric problems usually deal with an enormous amount of diverse data, the computational complexity is very important. A difference between the running time of a bad algorithm compared to an efficient one can be in the order of days, or even months and years.
 
 To illustrate this, I'm going to use a variant of the sweep line algorithm. Traditionally, the algorithm is sued to find intersections aong line segments in a plane but there are many variations. Let's picture the problem where you have a point _p_ and many line segments surrouding it. None of them interesect each other, being completely disjoint. A simple algorithm would be to go for each line segment and test it against all the others to see if it was the closest to _p_ at any point. However, the complexity of this is insane.
 

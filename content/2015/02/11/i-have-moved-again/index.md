@@ -12,11 +12,11 @@ properties:
 
 I have moved, again. From now until the end of the times, **coxpe.com** and **henriquedias.com/blog** are gone, and **henriquedias.com** is the unified version of both.
 
+<!--more-->
+
 > "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry
 
 The quote above tells the **main reason** I have made this change. The content created by me was dispersed on the web so I moved it all to one place. I **took away** some things, trying to achieve the perfection.
-
-<!--more-->
 
 I don't want to have a lot of things, dispersed. One thing, one place, is better. Everything is concentrated. Everything is here. There is nothing left to take away, but there is something more to add.
 

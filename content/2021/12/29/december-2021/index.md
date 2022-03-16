@@ -11,6 +11,8 @@ properties:
 
 Once again, a year is ending. It feels like it was yesterday that I was first discovering the IndieWeb and adding new features to my website, but that was 2 years ago now. Time has been passing quite fast since _the_ pandemic started.
 
+<!--more-->
+
 December was _packed_. I had many different presentations, deliveries and meetings for university. In addition, I finally got my study program approved and got the grades from last quartile. That was good news and I can now focus on finishing the last 3 courses I'm taking now. These are the last classes in the foreseeable future. Then, master's project!
 
 Even though I have quite some university work to do, I've managed to mostly procrastinate and binge watch useless series over the last week. I'm now in Portugal with my family and I hope to be back to the Netherlands soon.

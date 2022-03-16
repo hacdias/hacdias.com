@@ -15,9 +15,9 @@ properties:
 
 No [último artigo](/articles/2014/07/selecionar-um-intervalo-de-linhas-em-mysql/), falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um  pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.
 
-Aqui está ele. Abaixo encontram passo-a-passo como criar um pequeno sistema que liste todas as linhas de uma base de dados, separadas com páginas, cada uma com ```x``` linhas e botões de navegação.
-
 <!--more-->
+
+Aqui está ele. Abaixo encontram passo-a-passo como criar um pequeno sistema que liste todas as linhas de uma base de dados, separadas com páginas, cada uma com ```x``` linhas e botões de navegação.
 
 Para seguir este tutorial é necessário o Apache e o MySQL instalados no computador. Pode utilizar, por exemplo, o tudo-em-um [XAMPP](https://www.apachefriends.org/pt_br/index.html) que já conta com o Apache e MySQL e é muito fácil de instalar.
 

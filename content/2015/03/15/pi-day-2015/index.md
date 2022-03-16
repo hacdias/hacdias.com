@@ -13,8 +13,9 @@ properties:
 
 Do you know? Today is the Pi Day 2015. Below there is a small video I made about this marvelous day.
 
+<!--more-->
+
 <iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube-nocookie.com/embed/AtwPGZ9VioE" allowfullscreen frameborder="0"></iframe>
 
 I hope you enjoy :)
 
-<!--more-->

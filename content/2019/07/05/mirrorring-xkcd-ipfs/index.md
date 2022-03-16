@@ -13,9 +13,9 @@ properties:
 
 As many of you probably know, xkcd is a web comic created in 2005 by Randall Munroe. Its tagline is "A webcomic of romance, sarcasm, math, and language". You can read more about the web comic itself on their [website](https://xkcd.com/about/).
 
-As part of wanting to contribute to [IPFS Archives](https://github.com/ipfs/archives), I decided to look at the issues and find the most interesting one for me, and I did: xkcd! There were some clones already built, but all of them were out of date and weren't automatically updated.
-
 <!--more-->
+
+As part of wanting to contribute to [IPFS Archives](https://github.com/ipfs/archives), I decided to look at the issues and find the most interesting one for me, and I did: xkcd! There were some clones already built, but all of them were out of date and weren't automatically updated.
 
 So I started by building a small tool that would fetch all the comics and their info. I called it... as you might image... [`xkcd-clone`](https://github.com/hacdias/xkcd-clone). It doesn't actually clone the whole website, but only the comics and their metadata.
 

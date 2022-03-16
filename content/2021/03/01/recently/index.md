@@ -12,9 +12,9 @@ properties:
 
 One more month has passed. A year ago, I was starting my second semester of my final year of my Bachelors degree. Right before that, I had just been traveling across Luxembourg, Belgium and the Netherlands. At the time, we were a bit worried with Covid-19, but there were barely any identified cases in Europe. We didn't even wear masks on the flights.
 
-Who would say that, a year later, I would be writing this post from the Netherlands. This month marked, for me, an year of worries about Covid-19. Since the pandemic started - or slightly before it was actually considered a pandemic - I've never, ever, had physical classes. I haven't seen many of my friends since then. Only a few. Now I'm in a different country, and the situation doesn't look much better unfortunately.
-
 <!--more-->
+
+Who would say that, a year later, I would be writing this post from the Netherlands. This month marked, for me, an year of worries about Covid-19. Since the pandemic started - or slightly before it was actually considered a pandemic - I've never, ever, had physical classes. I haven't seen many of my friends since then. Only a few. Now I'm in a different country, and the situation doesn't look much better unfortunately.
 
 Even though not everything looks as bright as I would love to, the number of new cases has been declining worldwide. That's good. I hope that's the results of the vaccination efforts. And if it isn't, whatever is behind it, keep going.
 

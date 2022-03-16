@@ -13,9 +13,9 @@ properties:
 
 Today I have been thinking about the possibility of writing my own CMS. A very simple CMS. I even [hinted](/micro/2021/02/am-i-building-a-cmd/) that on a small micro post today. This is not a new idea. I'm not going to look at the previous posts where I talked about this, but it's definitely at least 2 or 3.
 
-"But why?", you ask. Well, the answer is more complicated than I would like it to be. There is a number of features that I want to implement that will just make my website inherently more dynamic. And as @jlelse once [said](https://jlelse.blog/thoughts/2020/07/own-cms) "it’s almost questionable why I use a static page generator at all".
-
 <!--more-->
+
+"But why?", you ask. Well, the answer is more complicated than I would like it to be. There is a number of features that I want to implement that will just make my website inherently more dynamic. And as @jlelse once [said](https://jlelse.blog/thoughts/2020/07/own-cms) "it’s almost questionable why I use a static page generator at all".
 
 ## Let's talk about features!
 

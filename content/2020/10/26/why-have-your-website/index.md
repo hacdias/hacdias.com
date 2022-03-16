@@ -7,13 +7,11 @@ section:
 - articles
 ---
 
-Hello 👋
-
-Today's newsletter is a bit different (and smaller) than most. I have been quite busy during the past week and this week as well. Starting tomorrow, I'm having three three hour exams this week that count 100% towards my final grade. I don't even know if this should be allowed.
-
-Besides that, I'm also trying to find a place to move in during November. The place where I am at has a variety of issues, and the fact that they use hotel contracts and not regular rental contracts puts us, students, in vulnerable positions.
+Hello 👋 Today's newsletter is a bit different (and smaller) than most. I have been quite busy during the past week and this week as well. Starting tomorrow, I'm having three three hour exams this week that count 100% towards my final grade. I don't even know if this should be allowed.
 
 <!--more-->
+
+Besides that, I'm also trying to find a place to move in during November. The place where I am at has a variety of issues, and the fact that they use hotel contracts and not regular rental contracts puts us, students, in vulnerable positions.
 
 Nevertheless, I am here to discuss personal websites and why do I think everyone should have one! Right now, if I ask you (or virtually anyone else) if they have a Facebook, Twitter, Instagram, (insert some other social network here) account, they will most likely reply "yes". However, if you ask them if they have their own website, they probably won't.
 

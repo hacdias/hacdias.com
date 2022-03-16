@@ -1,5 +1,5 @@
 ---
-title: How Do I Generate My Knowledge Base From Notable
+title: How I Generate My Knowledge Base From Notable
 description: |
   Here I describe my small journey so far with Notable and how I sync my website's Knowledge Base it with.
 published: 2020-02-29T21:37:00Z
@@ -12,9 +12,9 @@ properties:
 
 For quite a few time, I used [Bear](https://bear.app/) as my go-to Notes application for two reasons: it was simple to use and the syntax was quite similar to markdown. However, it is not markdown and it does not support some things that'd like to see on such software: diagrams, mathematics, wiki-like links, etc.
 
-After searching for a bit I found out an app called [Notable](https://notable.md/). In addition to having all the features I wanted from Bear, it is also storage independent, meaning everything is stored as markdown plain-files that I can version control with Git or some similar software.
-
 <!--more-->
+
+After searching for a bit I found out an app called [Notable](https://notable.md/). In addition to having all the features I wanted from Bear, it is also storage independent, meaning everything is stored as markdown plain-files that I can version control with Git or some similar software.
 
 I only have one small complain about the project and it is the fact that it is not open source **anymore**. It is also free for now, but it might change. Please take a look at [this issue](https://github.com/notable/notable/issues/432) where the author explains their decision.
 

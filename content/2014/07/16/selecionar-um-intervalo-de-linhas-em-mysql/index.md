@@ -14,9 +14,9 @@ properties:
 
 O sistema de base de dados **MySQL** é dos mais conhecidos mundialmente devido à sua facilidade, tanto de utilização como de implantação e ao facto de ser extremamente versátil.
 
-Quando estava a listar as linhas de uma tabela MySQL numa página web, deparei-me com um sobrecarregamento do CPU do meu computador, porque eu estava a listar **todas** as linhas da tabela. De seguida pensei: **porque não listo por páginas, cada página com `x` linhas?**
-
 <!--more-->
+
+Quando estava a listar as linhas de uma tabela MySQL numa página web, deparei-me com um sobrecarregamento do CPU do meu computador, porque eu estava a listar **todas** as linhas da tabela. De seguida pensei: **porque não listo por páginas, cada página com `x` linhas?**
 
 Utilizando este método, o processador ficaria menos carregado de processos, o que aumentaria a experiência do utilizador visto que este, além de receber uma resposta mais rápida, iria ver menos linhas numa página.
 

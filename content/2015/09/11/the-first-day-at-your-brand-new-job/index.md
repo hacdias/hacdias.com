@@ -10,9 +10,9 @@ section:
 
 You got a job! And today’s the first day, what are you going to do? Let’s make a party and make everyone dance! What? No… wait! You’re nervous, you don’t have to be. Let’s talk.
 
-You born, then you do the elementary, middle and high school. After finishing it, you go to university, do the course, go to the lectures, do the examinations and so on. Then you finish the course and you need to improve your CV. You improve it the maximum and start sending it to companies - if they didn’t contact you first.
-
 <!--more-->
+
+You born, then you do the elementary, middle and high school. After finishing it, you go to university, do the course, go to the lectures, do the examinations and so on. Then you finish the course and you need to improve your CV. You improve it the maximum and start sending it to companies - if they didn’t contact you first.
 
 Now, with your refined CV and job proposals, you go to interviews to see what happens. You will go to some interviews until you get the job - or just one if you’re good, we know you are. You got the job and the day - **that** day - finally comes: the first day at your brand new, and even the first, job. What are you going to do at a new place? It’s all about time, and time is *precious*.
 

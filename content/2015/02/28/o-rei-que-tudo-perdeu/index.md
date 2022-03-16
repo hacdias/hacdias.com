@@ -14,9 +14,9 @@ properties:
 
 Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel sem qualquer esforço. Letra a letra. Partícula a partícula. Tudo se compõe.
 
-Trago-vos um pequeno poema (se se pode chamar isso!) que compus em 2012 e que se chama, como podem deduzir, **O Rei Que Tudo Perdeu.**
-
 <!--more-->
+
+Trago-vos um pequeno poema (se se pode chamar isso!) que compus em 2012 e que se chama, como podem deduzir, **O Rei Que Tudo Perdeu.**
 
 > Eu antes tinha terras,<br>
 poder e um reino,<br>

@@ -13,9 +13,9 @@ properties:
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
 
-A [primeira](/articles/2014/12/mvc-linguagem-php/), [segunda](/articles/2014/12/mvc-linguagem-php-ii/) e [terceiras](/articles/2014/12/mvc-linguagem-php-iii/) partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
-
 <!--more-->
+
+A [primeira](/articles/2014/12/mvc-linguagem-php/), [segunda](/articles/2014/12/mvc-linguagem-php-ii/) e [terceiras](/articles/2014/12/mvc-linguagem-php-iii/) partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
 
 O que vamos fazer hoje é, simplesmente, criar uma página dinâmica que liste diversos _posts_ que estão na base de dados da aplicação.
 

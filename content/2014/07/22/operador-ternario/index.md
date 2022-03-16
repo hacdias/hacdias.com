@@ -13,9 +13,9 @@ properties:
 
 Recentemente, escrevi um artigo onde explicava como fazer uma [listagem web de uma tabela MySQL](/articles/2014/07/listagem-web-de-uma-tabela-mysql/) onde utilizei um operador que não tinha a certeza absoluta do que fazia e deixei a explicação um pouco vaga.
 
-O operador em questão era o ponto de interrogação. Depois de uma pequena pesquisa, descobri que o seu nome é **operador ternário** e é um operador condicional.
-
 <!--more-->
+
+O operador em questão era o ponto de interrogação. Depois de uma pequena pesquisa, descobri que o seu nome é **operador ternário** e é um operador condicional.
 
 Já utilizava este operador há algum tempo mas estava reticente em relação à sua sintaxe pois não tinha a certeza se o que estava a fazer estava 100% correto por isso decidi pesquisar.
 

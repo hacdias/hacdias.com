@@ -12,9 +12,9 @@ properties:
 
 If you've been following me through the past time,  you probably know I want to go further in technology field (if you didn't know, read my [about page](/about)). But it is not the unique thing I would like to be because there are 3 things I would like to be.
 
-When we choose to be something or to follow some field of study, we should think a lot about it to find out if we are sure we want to follow it.
-
 <!--more-->
+
+When we choose to be something or to follow some field of study, we should think a lot about it to find out if we are sure we want to follow it.
 
 I don't really know how I've chosen to follow the technology field. I know it's not late to change, but I really like that.  But where's the fun of being just **ONE** thing?
 

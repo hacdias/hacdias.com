@@ -13,9 +13,9 @@ properties:
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
 
-Depois de publicarmos a [primeira parte](/articles/2014/12/mvc-linguagem-php/), onde explicámos a estrutura da pequena _framework_ que iremos criar, aqui está a segunda parte.
-
 <!--more-->
+
+Depois de publicarmos a [primeira parte](/articles/2014/12/mvc-linguagem-php/), onde explicámos a estrutura da pequena _framework_ que iremos criar, aqui está a segunda parte.
 
 Hoje iremos trabalhar no coração da aplicação, ou seja, na diretoria `app_core/libs`. Nesta pasta mãe, irão ser colocados todos os ficheiros PHP que serão as classes mãe de todos os outros ficheiros.
 

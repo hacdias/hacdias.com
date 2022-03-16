@@ -13,9 +13,9 @@ properties:
 
 Todos os anos os professores costumam relembrar os alunos do facto de terem de estudar mais visto o nível de dificuldade ser superior ao do ano anterior. Quando os alunos chegam a anos de Prova Final como, por exemplo, o 9º e 12º anos, os professores tendem a relembrar os alunos que devem estudar mais nesse ano e que o exame se avizinha.
 
-A Matemática é, talvez, a disciplina a que mais alunos demonstram dificuldades ou onde os resultados são piores, mas como Salman Khan disse **"Qualquer um pode aprender qualquer coisa"**. A grande questão é como aprender Matemática de forma efetiva e produtiva.
-
 <!--more-->
+
+A Matemática é, talvez, a disciplina a que mais alunos demonstram dificuldades ou onde os resultados são piores, mas como Salman Khan disse **"Qualquer um pode aprender qualquer coisa"**. A grande questão é como aprender Matemática de forma efetiva e produtiva.
 
 A resposta a esta questão é muito simples e passa por dois pontos que alteram tudo: a postura em sala de aula e a postura a estudar, tanto de forma proposta (trabalhos de casa, fichas, etc) como de forma autónoma. Isto porque a Matemática não é aquela disciplina que basta ler e decorar. É necessário **pensar**.
 

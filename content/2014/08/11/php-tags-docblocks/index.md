@@ -13,9 +13,9 @@ properties:
 
 Para quem desenvolve aplicações em PHP com outras pessoas ou mesmo sozinho, por vezes precisa de colocar **comentários** em vários locais para identificar os diversos processos que vão ocorrendo.
 
-Os **DocBlocks** são (quase) fundamentais na vida dos programadores e estão disponíveis em várias linguagens. Vamos analisar as **tags** que existem nos de PHP e como os utilizar.
-
 <!--more-->
+
+Os **DocBlocks** são (quase) fundamentais na vida dos programadores e estão disponíveis em várias linguagens. Vamos analisar as **tags** que existem nos de PHP e como os utilizar.
 
 Os DocBlocks em PHP são parte do PHPDoc, uma adaptação do sistema **javadoc** para a linguagem de programação PHP.
 

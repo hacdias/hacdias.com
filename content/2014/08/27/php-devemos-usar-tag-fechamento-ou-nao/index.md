@@ -13,9 +13,9 @@ properties:
 
 Recentemente comecei a reparar que muitos programadores omitiam a tag de fechamento dos ficheiros PHP e, obviamente, fiquei curioso.
 
-Depois de uma pesquisa, trago-vos o **porquê** de não utilizar a tag `?>` no final dos ficheiros.
-
 <!--more-->
+
+Depois de uma pesquisa, trago-vos o **porquê** de não utilizar a tag `?>` no final dos ficheiros.
 
 Em primeiro lugar, esta prática só deve ser realizada em ficheiros cujo seu conteúdo seja **somente PHP** e não contenha HTML, por exemplo.
 

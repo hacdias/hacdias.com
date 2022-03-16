@@ -9,11 +9,11 @@ section:
 
 I recently started my Master's degree in Computer Science and Engineering (MSCE) and one of the first courses I am following is Advanced Algorithms. It is actually the only single course that is mandatory for all MSCE students, independently of the track/stream they chose. I chose the Web Stream.
 
+<!--more-->
+
 The Advanced Algorithms course is divided into three main topics and we recently finished the first one: approximation algorithms. As a way of consolidating my knowledge and also reading a bit more than the notes given by my professor, I decided to write this essay. But first, what is an approximation algorithm and why is it important?
 
 Some of the most well-known problems within Computer Science are virtually impossible to solve optimally at scale in a useful time. One of the most important known problems is the Traveling Salesmen problem. This problem boils down to: given a list of cities and the distances between each pair of them, what's the shortest possible route to go from a certain city to itself, visiting all of the other cities. This is problem has many more applications that its literal sense, hence its importance.
-
-<!--more-->
 
 <a id="continue-newsletter"></a>
 

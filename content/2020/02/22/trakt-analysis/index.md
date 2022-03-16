@@ -13,6 +13,13 @@ properties:
   - https://twitter.com/hacdias/status/1231484792027348994
 ---
 
+Today, I decided to readd a watches page, but this time it isn't built from hundreds of
+posts, but from the data that I get directly from Trakt's [API](https://trakt.docs.apiary.io/).
+I built a small tool called [`trakt-collector`](https://github.com/hacdias/silos-collector/tree/a7aef3a1bf6693361eec147380b55dccc2ffe1c5/src/trakt) used
+to collect your history and save it in JSON format.
+
+<!--more-->
+
 <style>
 .small-svg,
 .smaller-svg {
@@ -37,16 +44,9 @@ properties:
 }
 </style>
 
-Today, I decided to readd a watches page, but this time it isn't built from hundreds of
-posts, but from the data that I get directly from Trakt's [API](https://trakt.docs.apiary.io/).
-I built a small tool called [`trakt-collector`](https://github.com/hacdias/silos-collector/tree/a7aef3a1bf6693361eec147380b55dccc2ffe1c5/src/trakt) used
-to collect your history and save it in JSON format.
-
 The Trakt API gives you so much information about every episode and every movie: from the title,
 to the rating, description, channel where it aired, when it aired first, the countries where it aired,
 etc, etc. I don't actually need all that information, but it's never too much to store.
-
-<!--more-->
 
 So, and about the [watches](/watches) page: I decided to build a simple thing. It's an exhaustive list,
 sorted by watch date with the most recent on top. I decided to put the series before the movies because

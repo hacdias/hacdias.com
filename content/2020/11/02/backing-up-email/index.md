@@ -12,9 +12,9 @@ properties:
 
 For quite some time, I have been setting up systems to backup my data of my computer, as well as fetching data from services, such as Trakt, Last.fm or GoodReads. There's always one kind of service that has been on the back of my mind for a while to backup, but I've never got the time, nor the will to do so: email!
 
-Email is fundamental nowadays and it is the basis of Internet communication. Almost all online services require an email, and even though we use it virtually every day for the most varied services and uses, it is not the easiest thing to backup.
-
 <!--more-->
+
+Email is fundamental nowadays and it is the basis of Internet communication. Almost all online services require an email, and even though we use it virtually every day for the most varied services and uses, it is not the easiest thing to backup.
 
 Fortunately, I recently came across [this post](https://www.artemix.org/blog/backing-up-e-mails-from-an-imap-server) by Diane where they explain how they are backing up their emails using `getemail`. 
 

@@ -13,9 +13,9 @@ properties:
 
 Há pouco mais de dois dias, foi lançada uma nova versão do PHP, [a versão 5.6.0](http://php.net/archive/2014.php#id2014-08-28-1) que trouxe inúmeras novidades e incompatibilidades com as versões anteriores [(ver aqui)](https://www.php.net/manual/pt_BR/migration56.php).
 
-Hoje vamos falar de uma das diversas grandes novidades desta esplêndida atualização, as **funções variádicas**.
-
 <!--more-->
+
+Hoje vamos falar de uma das diversas grandes novidades desta esplêndida atualização, as **funções variádicas**.
 
 Ao longo das versões 4.x e 5.x do PHP, os desenvolvedores já podiam utilizar funções variádicas através do uso da função ```func_get_args()```.
 

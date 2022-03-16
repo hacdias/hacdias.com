@@ -13,9 +13,9 @@ properties:
 
 Nowadays, **[node.js](https://nodejs.org/)** is one of the technologies which is always talked about when the subject is related with real-time applications or even [CLI ](http://en.wikipedia.org/wiki/Command-line_interface)(Command-line interface) apps.
 
-Node.js is a cross-platform platform (which is very redundant) built on Chrome's JavaScript runtime. They say that with Node.js we can create network applications, but we can do a lot more.
-
 <!--more-->
+
+Node.js is a cross-platform platform (which is very redundant) built on Chrome's JavaScript runtime. They say that with Node.js we can create network applications, but we can do a lot more.
 
 Bow, for example, is a very useful tool built in the top of node.js. We can take advantage of the fact of node.js be cross-platform to create CLI apps which can serve  everyone.
 

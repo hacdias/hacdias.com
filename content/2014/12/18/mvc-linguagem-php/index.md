@@ -13,9 +13,9 @@ properties:
 
 No último artigo publicado, foi falado acerca do [**Modelo MVC**](/articles/2014/11/mvc-uma-breve-explicacao/) e sobre aquilo em que este consiste. O Modelo _Model-View-Controller_ é amplamente utilizado nos dias de hoje.
 
-A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
-
 <!--more-->
+
+A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.
 
 Gostaria de dizer que esta exemplificação terá como base uma "framework base" MVC construída por mim através de vários tutoriais e ideias que encontrei _online_.
 

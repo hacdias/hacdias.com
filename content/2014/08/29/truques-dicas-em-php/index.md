@@ -13,9 +13,9 @@ properties:
 
 A linguagem de programação PHP é das mais utilizadas atualmente do lado do servidor quando o assunto são páginas web.
 
-Para os iniciantes ou mesmo profissionais, aqui estão 5 simples e úteis truques e dicas para aplicarem quando estão a escrever em PHP.
-
 <!--more-->
+
+Para os iniciantes ou mesmo profissionais, aqui estão 5 simples e úteis truques e dicas para aplicarem quando estão a escrever em PHP.
 
 ## 1. Utilizar o operador ternário
 

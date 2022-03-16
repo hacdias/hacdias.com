@@ -12,9 +12,9 @@ properties:
 
 Last year, I published a post about [how amazing Portugal is](/articles/2014/11/portugal-beautiful-country/). And now I'm posting about it again! I'm not trying to "sell" Portugal, I'm trying to show how beautiful it is, because it's true!
 
-As I did in the past summer, I've been visiting some places in my country. I visited Park and National Palace of Pena in Sintra, Vila Viçosa Palace, Redondo and Campo Maior in the last month.
-
 <!--more-->
+
+As I did in the past summer, I've been visiting some places in my country. I visited Park and National Palace of Pena in Sintra, Vila Viçosa Palace, Redondo and Campo Maior in the last month.
 
 ![Ducal Palace of Vila Viçosa](cdn:/2015-08-vila-vicosa-palace "Ducal Palace of Vila Viçosa")
 

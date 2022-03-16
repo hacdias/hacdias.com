@@ -14,9 +14,9 @@ properties:
 
 I'm now in my first year of my Master's degree in Computer Science and Engineering which means that next year I am supposed to start (and hopefully finish) my Master's project and thesis. As a consequence of that, I have been thinking a lot about it lately. I don't want to make a rushed choice that will make me work on something I don't enjoy for over half an year.
 
-You may be thinking "of course he has some topics he would like to work on" and that is completely true. The issue is that I feel I don't have any highly specific topic to work on and they're all very superficial. On this post, I am going to write a bit about some topics I'm curious about or some questions that I would like to see answered. Hopefully, by writing, it will also help me to settle down some ideas.
-
 <!--more-->
+
+You may be thinking "of course he has some topics he would like to work on" and that is completely true. The issue is that I feel I don't have any highly specific topic to work on and they're all very superficial. On this post, I am going to write a bit about some topics I'm curious about or some questions that I would like to see answered. Hopefully, by writing, it will also help me to settle down some ideas.
 
 The first aglomerate of ideas are related to the [decentralization] of the web. There is a million unanswered questions and topics to work on in this field. But first of all, why? The current model of the Innternet is mainly centralized. Even though the web wasn't created with those ideals, big companies ended up literally owning most of the online traffic.
 
