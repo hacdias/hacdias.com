@@ -87,7 +87,7 @@ Finally, my website also supports [IndieAuth](https://indieauth.spec.indieweb.or
 
 <div class='terms bold'>
 
-- [🧔 About](/about)
-- [📝 Guestbook](/guestbook)
+- [🕵️‍♀️ About](/about)
+- [✍️ Guestbook](/guestbook)
 
 </div>

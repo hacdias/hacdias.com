@@ -8,7 +8,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 <!--more-->
 
-### 📃 Categories {#categories}
+### 🪁 Categories {#categories}
 
 <div class='terms grid bold'>
 
@@ -31,16 +31,16 @@ This website contains more things than it looks at first glance. This page is a 
 
 </div>
 
-### 🥐 Others {#others}
+### 🧵 Others {#others}
 
 <div class='terms grid bold'>
 
-- [🧔 About](/about)
+- [🕵️‍♀️ About](/about)
 - [🗞 Blogroll](/blogroll)
 - [⚙️ Colophon](/colophon)
 - [✉️ Contact](/contact)
-- [📝 Guestbook](/guestbook)
-- [🤯 Impossible List](/impossible-list)
+- [✍️ Guestbook](/guestbook)
+- [🚀 Impossible List](/impossible-list)
 - [🎶 Listens](/listens)
 - [🎓 Resume](/resume)
 - [🔎 Search](/search)
