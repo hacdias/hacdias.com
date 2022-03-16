@@ -1,0 +1,22 @@
+{
+  "targets": [
+    "https://twitter.com/hacdias/status/1504101832288780291"
+  ],
+  "context": {
+    "author": {
+      "bio": "MSc Computer Science and Engineering at @tueindhoven. Digging into the decentralized web. #opensource advocate. 🇪🇺(🇵🇹 in 🇳🇱)🏳️‍🌈",
+      "location": "Eindhoven",
+      "name": "Henrique Dias",
+      "nickname": "hacdias",
+      "photo": "https://cdn.hacdias.com/wm/8e733981b9ff8a0d5cad6c0327b0562fd463165f60e0cbca848ff3a3b27d9c4c.jpg",
+      "type": "card",
+      "url": "https://twitter.com/hacdias"
+    },
+    "content": "Today I voted for the first time on the municipal elections in the Netherlands. One of the largest differences from Portugal is that you vote on the specific person and not a party. The other one is that I can vote anywhere I want in Eindhoven. It was a nice and swift experience.",
+    "post-type": "note",
+    "published": "2022-03-16T14:26:36Z",
+    "type": "entry",
+    "url": "https://twitter.com/hacdias/status/1504101832288780291"
+  },
+  "webmentions": []
+}

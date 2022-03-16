@@ -1,0 +1,63 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Wilson Capitão",
+        "photo": "https://cdn.hacdias.com/wm/c8d3be3c7727916ad2c0c0418ba31f67eb89bdd9ebc8a5af923359af150e0626.jpg",
+        "type": "card",
+        "url": "https://twitter.com/CapitaoWilson"
+      },
+      "like-of": "https://hacdias.com/2022/03/16/xzmggvbxjh",
+      "post-type": "like",
+      "published": "2022-03-16T15:31:58Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1504101832288780291#favorited-by-801554103398727680",
+      "wm-id": 1364147,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-03-16T15:31:58Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1504101832288780291/801554103398727680",
+      "wm-target": "https://hacdias.com/2022/03/16/xzmggvbxjh"
+    },
+    {
+      "author": {
+        "name": "Ana Guerra",
+        "photo": "https://cdn.hacdias.com/wm/24472d1599a4b6efb1215556c24678f84d641e6b19a91834ccc4d08d1e622ddd.jpg",
+        "type": "card",
+        "url": "https://twitter.com/anarlguerra"
+      },
+      "like-of": "https://hacdias.com/2022/03/16/xzmggvbxjh",
+      "post-type": "like",
+      "published": "2022-03-16T15:31:58Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1504101832288780291#favorited-by-773132067223863297",
+      "wm-id": 1364146,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-03-16T15:31:58Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1504101832288780291/773132067223863297",
+      "wm-target": "https://hacdias.com/2022/03/16/xzmggvbxjh"
+    },
+    {
+      "author": {
+        "name": "Nimo",
+        "photo": "https://cdn.hacdias.com/wm/b30bfdc5f8718bb3c1a99a97a68edda0579e392aa59afe36a73994daed9c00e2.jpg",
+        "type": "card",
+        "url": "https://twitter.com/nimobeeren"
+      },
+      "like-of": "https://hacdias.com/2022/03/16/xzmggvbxjh",
+      "post-type": "like",
+      "published": "2022-03-16T15:32:26Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1504101832288780291#favorited-by-1065361423637889025",
+      "wm-id": 1364151,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-03-16T15:32:26Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1504101832288780291/1065361423637889025",
+      "wm-target": "https://hacdias.com/2022/03/16/xzmggvbxjh"
+    }
+  ]
+}
