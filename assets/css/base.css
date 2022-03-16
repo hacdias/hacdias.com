@@ -356,7 +356,7 @@ details summary {
 }
 
 #navbar li a.active {
-  background: var(--white);
+  background: var(--background);
   color: var(--black);
 }
 
