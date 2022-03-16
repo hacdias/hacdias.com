@@ -1,5 +1,5 @@
 {{ define "base/admin" }}
   {{ if .IsAdmin }}
-    <p><a href="/edit/{{ .Entry.ID }}">Edit</a></p>
+    <p id="edit-btn"><a href="/edit/{{ .Entry.ID }}">Edit</a></p>
   {{ end }}
 {{ end }}

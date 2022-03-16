@@ -640,7 +640,7 @@ figure.right {
 
   #navbar,
   #footer,
-  .admin-controls {
+  #edit-btn {
     display: none;
   }
 
