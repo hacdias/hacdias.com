@@ -45,9 +45,11 @@ At first, I thought about reconstructing some of the illustrations I've done in 
 and I actually happen to like them. So I've started by doing so.
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  
   ![](https://cdn.hacdias.com/u/2019-04-magician.jpeg?class=magician "A magician, wizard?")
 
   ![](https://cdn.hacdias.com/u/2019-04-cat.jpeg?class=cat "A Cat")
+
 </div>
 
 I reconstructed a wizard 🧙‍♂️ and a cat 😸 based on some work I've done before. Clearly
@@ -64,7 +66,7 @@ Then - or should I say, before? - I've done something much more interesting: my 
 has two twelve floor towers, which are really beautiful. So I believe you already know what's
 coming.
 
-![](https://cdn.hacdias.com/u/2019-04-tecnico-tower.gif?class=right+pixelated "Técnico - Chemistry Tower ([NFT](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653459892891025409))")
+![](https://cdn.hacdias.com/u/2019-04-tecnico-tower.gif?class=right+pixelated "Técnico - Chemistry Tower")
 
 I started by drawing the tower itself and the windows. Then, I moved to the building in front
 of it and both side buildings. I've played with some shadows and also made sure that I created
@@ -81,7 +83,7 @@ animation. But then I noticed I didn't like the wheels. And since I did it in a 
 every frame, I had to recreate the whole animation. And this happened like 5 times.
 
 Well... after creating lots of frames and moving the car forward in different speeds, I thought:
-"I'm not changing this any more times, let's make it final". I exported it to a GIF
+"I'm not changing this any more times, let's make it final". I exported it to a [GIF](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653459892891025409)
 and shared it on [Twitter][2], where I received some positive feedback ❤️.
 
 **tl;dr** I've really enjoyed this experience and I'm looking forward to learn a bit

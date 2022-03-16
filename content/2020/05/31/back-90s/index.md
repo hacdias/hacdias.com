@@ -89,7 +89,7 @@ With this update, I'm hoping to make this website more alive. Even though the mo
 
 A more subtle change I made was to change the dates on this website to use the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar) which adds exactly 10 000 years to the current year, being the first year placed in the beginning of the Holocene era.
 
-[![Writing on a guestbook](https://cdn.hacdias.com/u/2021-02-guestbook.gif?class=right+pixelated+guestbook)](/guestbook)
+[![Writing on a guestbook](https://cdn.hacdias.com/u/2022-03-guestbook.gif?class=right+pixelated+guestbook)](/guestbook)
 
 **Let's bring the web more personality, more presence, more uniqueness. Let's be the painters 🎨 of our own identity.**
 
