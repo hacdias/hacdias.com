@@ -1,9 +1,13 @@
+:root {
+  --accent: #ff7eb9;
+}
+
 .entry {
   padding: var(--box-padding);
-  margin: var(--half-space) 0;
+  margin: var(--space) 0;
   background: #feff9c;
   transform: rotate(0.5deg);
-  font-size: var(--f6);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .entry:nth-child(3n - 1) {
@@ -16,6 +20,12 @@
 
 .entry:nth-child(2n) {
   transform: rotate(-0.5deg);
+}
+
+.entry .signature {
+  text-align: right;
+  margin-top: 1rem;
+  font-style: italic;
 }
 
 .entry a:hover {

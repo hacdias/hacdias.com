@@ -20,21 +20,21 @@
     {{ $data := .GetSidecar  }}
     {{ $mentions := $data.Webmentions  }}
 
-    <div>
+    <div class="entries">
       {{ if $mentions -}}
         {{- range $i, $data := $mentions }}
           {{ if not (index . "wm-private")}}
           <div class="entry">
             {{ with .content }}
-              <span>{{ safeHTML . }}</span> <br>
+              <div>{{ safeHTML . }}</div>
             {{ end }}
 
-            <br><em>—
+            <div class="signature">—
             {{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }},
             {{ with .url }}<a rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ end }}
             {{- with .published}}{{ dateFormat . "02 January 2006" }}{{ else }}Unknown Date{{end }}
             {{ with .url }}</a>{{ end }}
-            </em>
+            </div>
           </div>
           {{ end }}
         {{ end }}
