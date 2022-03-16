@@ -579,12 +579,15 @@ figure.right {
     display: none !important;
   }
 
-  #navbar li:last-child input::placeholder,
   #navbar li:last-child input,
   #navbar > div,
   #navbar li a {
     text-align: left;
     padding: .5rem var(--half-space);
+  }
+
+  #navbar li:last-child input::placeholder {
+    text-align: left;
   }
 
   #navbar li:last-child {
