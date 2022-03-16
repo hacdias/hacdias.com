@@ -172,28 +172,26 @@ textarea {
   padding: .5rem;
   border: 1px solid var(--light-white);
   outline: 0;
-  border-radius: 0;
+  border-radius: var(--radius);
   background: var(--white);
   color: var(--dark-gray);
 }
 
 button,
 input[type="submit"] {
-  background-color: var(--black);
-  border: 1px solid var(--black);
+  background-color: var(--accent);
+  border: 1px solid var(--accent);
   font-weight: 700;
   padding: 0.5rem 1rem;
   color: var(--white);
-  text-transform: uppercase;
   cursor: pointer;
-  border-radius: 0;
+  border-radius: var(--radius);
   outline: 0;
 }
 
 button:hover,
 input[type="submit"]:hover {
-  background-color: var(--dark-gray);
-  border-color: var(--dark-gray);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2));
 }
 
 #footer {
@@ -392,6 +390,7 @@ details summary {
 
 #navbar li:last-child input::placeholder {
   color: white;
+  text-align: center;
   font-weight: 600;
 }
 
