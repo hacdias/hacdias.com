@@ -1,8 +1,12 @@
 {{ define "main" }}
   <main role='main' id="login-page">
-    <h1>Login</h1>
+    <header>
+      <h1>Login</h1>
+    </header>
 
-    <p>Login with your domain. After logging in, you will have access to more posts.</p>
+    <div class=copy>
+      <p>You can login with your domain using the <a href="https://indieauth.spec.indieweb.org/" target="_blank" rel="noreferrer noopener">IndieAuth</a> protocol. After logging in, you will have access to posts that are restricted to logged in users only. Perhaps there's even posts that only you can see.</p>
+    </div>
 
     <form method=POST class='inline-form'>
       <input required type='profile' name='profile' placeholder='yourdomain.com' />

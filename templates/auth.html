@@ -1,6 +1,8 @@
 {{ define "main" }}
   <main role='main'>
-    <h1>Authorization</h1>
+    <header>
+      <h1>Authorization</h1>
+    </header>
 
     <style>
     .copy ol {
@@ -37,30 +39,38 @@
 
     <div class='copy'>
       <form method="post" action="/auth/accept">
+        <p>You received an authorization request from the following client:</p>
+
         <ul>
-          <li><strong>Client:</strong> {{ .Data.ClientID }}</li>
-          <li><strong>Redirect:</strong> {{ .Data.RedirectURI }}</li>
+          <li><strong>Client:</strong> <code>{{ .Data.ClientID }}</code></li>
+          <li><strong>Redirect:</strong> <code>{{ .Data.RedirectURI }}</code></li>
         </ul>
 
+        {{ if not .Data.CodeChallenge }}
+          <div class="box">
+            <p><strong>⚠️ The client is not using PKCE.</strong></p>
+          </div>
+        {{ end }}
+
         {{ with .Data.Scopes }}
-        <p>This app is requesting the following scopes. You can choose which scopes will be granted to this application. <a onclick="javascript:addScope();">Add Scope</a></p>
+        <p>This app requests the following scopes. You can choose which scopes will be granted.</p>
 
         <ol id="scopes-list">
           {{ range . }}
             <li><label><input type="checkbox" name="scopes" value="{{ . }}" checked>{{ . }}</label></li>
           {{ end }}
+          <li><a onclick="javascript:addScope();">Add Scope</a></li>
         </ol>
         {{ end }}
 
-        <p>Expiry (default is one week):<p>
+        <p>How long should the authorization last?<p>
 
         <ol>
-          <li><label><input type="radio" name="expiry" value="infinity"> Infinity</label></li>
+          <li><label><input type="radio" name="expiry" value="7" checked> 1 Week</label></li>
+          <li><label><input type="radio" name="expiry" value="90"> 3 Months</label></li>
+          <li><label><input type="radio" name="expiry" value="180"> 6 Months</label></li>
+          <li><label><input type="radio" name="expiry" value="-1"> Infinity</label></li>
         </ol>
-
-        {{ if not .Data.CodeChallenge }}
-          <p><strong>⚠️ The client is not using PKCE.</strong></p>
-        {{ end }}
 
         <input required name=username id=username type=text placeholder='Username' />
         <input required name=password id=password type=password placeholder='Password' />

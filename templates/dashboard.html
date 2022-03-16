@@ -1,6 +1,8 @@
 {{ define "main" }}
   <main role='main'>
-    <h1>Dashboard</h1>
+    <header>
+      <h1>Dashboard</h1>
+    </header>
 
     <style>
     form#token button,
@@ -10,13 +12,9 @@
       margin: 0.5rem 0;
     }
 
-    form#token input[type="checkbox"] {
+    form#token input[type="radio"] {
       display: inline;
       width: auto;
-    }
-
-    form#token p {
-      margin: 0.5rem 0;
     }
 
     .copy ol {
@@ -36,15 +34,42 @@
       word-break: break-all;
       white-space: break-spaces;
     }
+
+    .admin-nav {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      background-color: var(--accent);
+      color: var(--white);
+      border-radius: var(--radius);
+      overflow: hidden;
+      font-weight: 600;
+    }
+
+    .admin-nav li {
+      flex-grow: 1;
+      margin:0 ;
+    }
+
+    .admin-nav a {
+      text-align: center;
+      display: block;
+      padding: 0.5rem;
+    }
+
+    .admin-nav a:hover {
+      background-color: rgba(0,0,0,.2);
+    }
     </style>
 
     <div class="copy">
-      <ul>
-        <li><a href="/new">New Post</a></li>
-        <li><a href="/deleted">Deleted Posts</a></li>
-        <li><a href="/drafts">Draft Posts</a></li>
-        <li><a href="/unlisted">Unlisted Posts</a></li>
-        <li><a href="/private">Private Posts</a></li>
+      <ul class="admin-nav">
+        <li><a class=nl href="/new">New Post</a></li>
+        <li><a class=nl href="/deleted">Deleted</a></li>
+        <li><a class=nl href="/drafts">Drafts</a></li>
+        <li><a class=nl href="/unlisted">Unlisted</a></li>
+        <li><a class=nl href="/private">Private</a></li>
       </ul>
 
       <h2>Actions</h2>
@@ -71,7 +96,16 @@
         <input type="hidden" name="action" value="token" />
         <input required type="url" name="client_id" placeholder="Client ID">
         <input required type="text" name="scope" placeholder="Scope">
-        <p><label><input type="checkbox" name="expiry" value="infinity"> Does not expire</label></p>
+
+        <p><strong>Token Expiry</strong></p>
+        
+        <ol>
+          <li><label><input type="radio" name="expiry" value="7" checked> 1 Week</label></li>
+          <li><label><input type="radio" name="expiry" value="90"> 3 Months</label></li>
+          <li><label><input type="radio" name="expiry" value="180"> 6 Months</label></li>
+          <li><label><input type="radio" name="expiry" value="-1"> Infinity</label></li>
+        </ol>
+
         <button type="submit">Submit</button>
       </form>
 
