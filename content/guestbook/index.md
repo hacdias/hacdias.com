@@ -3,15 +3,6 @@ title: Guestbook
 template: guestbook
 ---
 
-<style>
-figure.fig-gbook {
-  margin-top: 0;
-  margin-right: 0;
-  min-width: 100px;
-  max-width: 25%;
-}
-</style>
+![](https://cdn.hacdias.com/u/2022-03-book-purple.gif?class=left+pixelated+fig-gbook)
 
-![](https://cdn.hacdias.com/u/2021-02-gbook.gif?class=left+pixelated+fig-gbook)
-
-Hey! This is my 90s-style inspire guestbook. Feel free to drop me a line or two - or more if you want - just to say hi or anything else you want. Hope you enjoyed navigating my corner in the Internet!
+Hi! In the 90s and early 2000s, having a guestbook on one's website was a common practice and a way for everyone to share their opinions about each other's corner of the Internet. I find it an amazing idea so feel free to drop off a few lines or juts say hi. Hope you enjoyed navigating my corner in the Internet!

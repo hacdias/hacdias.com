@@ -39,3 +39,8 @@
 #button button {
   width: 100%;
 }
+
+figure.fig-gbook {
+  margin-top: 0;
+  width: 6rem;
+}
