@@ -11,8 +11,6 @@
       <input value="Send Webmention" type="submit">
     </form>
 
-    <p>Or…</p>
-
     <form method="get" action="https://quill.p3k.io/" target="_blank">
       <input type="hidden" name="dontask" value="1">
       <input type="hidden" name="me" value="https://commentpara.de/">
@@ -21,8 +19,6 @@
     </form>
 
     {{ if not (eq $count 0) }}
-    <hr>
-
     <div class='contents'>
       {{ range $i, $wm := $data.Webmentions }}
         {{ if not (index . "wm-private") }}

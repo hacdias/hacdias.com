@@ -1,15 +1,10 @@
 .wm {
-  padding: var(--box-padding);
   background: var(--near-white);
+  border: var(--border) solid var(--light-white);
   border-radius: var(--radius);
   font-size: var(--f6);
   margin-top: 1rem;
-}
-
-.wm summary {
-  letter-spacing: .1rem;
-  color: var(--light-gray);
-  text-transform: uppercase;
+  overflow: hidden;
 }
 
 .wm ::marker {
@@ -18,7 +13,7 @@
 
 .wm .contents {
   line-height: 1;
-  margin-top: 1rem;
+  background-color: var(--background);
 }
 
 .wm .contents .p-author .p-name {
@@ -50,16 +45,22 @@
   position: absolute;
 }
 
+.wm form,
+.wm summary,
+.wm .contents {
+  padding: var(--box-padding);
+}
+
 .wm form {
-  margin-top: 1rem;
+  border-top: 1px solid var(--light-white);
 }
 
-.wm > form:last-of-type input {
+.wm form:last-of-type {
+  border-bottom: 1px solid var(--light-white);
+}
+
+.wm form:last-of-type input {
   width: 100%;
-}
-
-.wm form + p {
-  text-align: center;
 }
 
 @media print {
