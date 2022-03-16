@@ -4,7 +4,7 @@
 
 .entry {
   padding: var(--box-padding);
-  margin: var(--space) 0;
+  margin: 2.5rem 0;
   background: #feff9c;
   transform: rotate(0.5deg);
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
