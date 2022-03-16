@@ -18,5 +18,25 @@
     "type": "entry",
     "url": "https://twitter.com/hacdias/status/1504101832288780291"
   },
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "Diogo Redin",
+        "photo": "https://cdn.hacdias.com/wm/059558beefe7c51c2a8a56484d2ff45256e392524d3eb52470d463766a98445d.jpg",
+        "type": "card",
+        "url": "https://twitter.com/DiogoRedin"
+      },
+      "like-of": "https://hacdias.com/2022/03/16/lhiywgftpv",
+      "post-type": "like",
+      "published": "2022-03-16T18:12:40Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1504109697124737030#favorited-by-144560866",
+      "wm-id": 1364313,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-03-16T18:12:40Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1504109697124737030/144560866",
+      "wm-target": "https://hacdias.com/2022/03/16/lhiywgftpv"
+    }
+  ]
 }
