@@ -31,7 +31,7 @@
   margin: 0 0 1rem 0;
 }
 
-.card .more {
+/* .card .more {
   color: var(--light-gray);
   background: var(--near-white);
   text-align: center;
@@ -40,4 +40,4 @@
   padding: 0.5rem;
   font-weight: bold;
   border-radius: var(--radius);
-}
+} */

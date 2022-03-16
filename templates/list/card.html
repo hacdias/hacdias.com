@@ -5,8 +5,8 @@
     {{ include "post/header" . }}
 
     {{ if $isLong }}
-      {{ $summary := or .Excerpt .Description }}
-      {{ with $summary }}<div class='copy p-summary'>{{ md . }}</div>{{ end }}
+      {{/* {{ $summary := or .Excerpt .Description }}
+      {{ with $summary }}<div class='copy p-summary'>{{ md . }}</div>{{ end }} */}}
     {{ else }}
       {{ with .Content }}
         <div class='copy e-content'>{{ md . }}</div>
@@ -19,9 +19,9 @@
 
     {{ include "post/photos" . }}
 
-    {{ if $isLong }}
-      <a href="{{ relURL .Permalink }}" title="Read More" class="nl"><div class="more">READ MORE</div></a>
-    {{ end }}
+    {{/* {{ if $isLong }}
+      <a href="{{ relURL .Permalink }}" title="Read Article" class="nl"><div class="more">Read Article</div></a>
+    {{ end }} */}}
 
     {{ include "post/footer" . }}
   </article>
