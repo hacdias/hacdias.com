@@ -1,6 +1,10 @@
 {{ define "main" }}
   <main role='main' id="editor-page">
-    {{ with .Data.Title }}<h1>{{- . -}}</h1>{{ end }}
+    {{ with .Data.Title }}
+      <header>
+        <h1>{{- . -}}</h1>
+      </header>
+    {{ end }}
 
     {{ include "editor/css" . }}
 
