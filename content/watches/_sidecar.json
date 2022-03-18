@@ -485,6 +485,33 @@
     {
       "author": {
         "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/0c4d154b2eaa14243ea97a0150af6632332225ade40aefd1c53d4e082d591452.jpg",
+        "type": "card",
+        "url": "https://hacdias.com/"
+      },
+      "content": "Right now, I have my Last.fm scrobbles backed up. Every day, a small script fetches everything from Last.fm and dumps it into a file. The script is not very well optimized and downloads every scrobble since ever every day. Anyways, the point is not that. I would love to have the things I listen to in this website, just like I have for the watches. But there’s a problem: the sheer amount of data!Since mid-2020 until right now, I have 32 526 scrobbles on Last.fm. Doing the math, I have, on average, a little bit more than 50 scrobbles a day. That would be 32K posts. That would generate too many posts, at least in my opinion. I’m sure Eagle, and of course Postgres, would be able to handle it. However, it would easily pollute my omni feed. One of my ideas was to put all the daily scrobbles in a single file that would be rendered as multiple entries. Basically, every time my Micropub endpoint would receive a scrobble, it would append it to the the publishing day’s scrobble file. I will sleep on this idea.I know that some people, like Jamie, do a yearly music review post. Do you have any other examples?",
+      "mention-of": "https://hacdias.com/watches",
+      "post-type": "mention",
+      "published": "2022-03-18T22:58:03+01:00",
+      "rels": {
+        "canonical": "https://hacdias.com/2022/03/18/rvcvtogxia"
+      },
+      "summary": {
+        "content-type": "text/plain",
+        "value": "Right now, I have my Last.fm scrobbles backed up. Every day, a small script fetches everything from Last.fm and dumps it into a file. The script is not very well optimized and downloads every scrobble since ever every day. Anyways, the point is not that. I would love to have the things I listen to i…"
+      },
+      "type": "entry",
+      "url": "https://hacdias.com/2022/03/18/rvcvtogxia",
+      "wm-id": 1365564,
+      "wm-private": false,
+      "wm-property": "mention-of",
+      "wm-received": "2022-03-18T21:58:04Z",
+      "wm-source": "https://hacdias.com/2022/03/18/rvcvtogxia",
+      "wm-target": "https://hacdias.com/watches"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
         "photo": "https://cdn.hacdias.com/wm/df280a6a00d9d8e4cd4e0e1647c477f51854f80b3337007e5d9ecb049d0f304d.jpg",
         "type": "card",
         "url": "https://hacdias.com"
