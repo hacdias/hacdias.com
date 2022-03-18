@@ -2,12 +2,12 @@
   "artists": [
     {
       "name": "Allie X",
-      "count": 35,
+      "count": 37,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
       "name": "Lady Gaga",
-      "count": 33,
+      "count": 35,
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "name": "Years & Years",
-      "count": 15,
+      "count": 17,
       "url": "https://www.last.fm/music/Years+&+Years"
     },
     {
@@ -36,19 +36,19 @@
       "url": "https://www.last.fm/music/Doce"
     },
     {
-      "name": "Charli XCX",
-      "count": 11,
-      "url": "https://www.last.fm/music/Charli+XCX"
-    },
-    {
       "name": "Gia Woods",
-      "count": 11,
+      "count": 12,
       "url": "https://www.last.fm/music/Gia+Woods"
     },
     {
-      "name": "Bárbara Tinoco",
-      "count": 10,
-      "url": "https://www.last.fm/music/B%C3%A1rbara+Tinoco"
+      "name": "Todrick Hall",
+      "count": 12,
+      "url": "https://www.last.fm/music/Todrick+Hall"
+    },
+    {
+      "name": "Charli XCX",
+      "count": 11,
+      "url": "https://www.last.fm/music/Charli+XCX"
     }
   ],
   "tracks": [
@@ -65,27 +65,27 @@
       "artist": "Broods"
     },
     {
+      "name": "Enough of You",
+      "url": "https://www.last.fm/music/Gia+Woods/_/Enough+of+You",
+      "count": 12,
+      "artist": "Gia Woods"
+    },
+    {
       "name": "É Demais",
       "url": "https://www.last.fm/music/Doce/_/%C3%89+Demais",
       "count": 11,
       "artist": "Doce"
     },
     {
-      "name": "Enough of You",
-      "url": "https://www.last.fm/music/Gia+Woods/_/Enough+of+You",
-      "count": 11,
-      "artist": "Gia Woods"
-    },
-    {
       "name": "RAININ’ FELLAS",
       "url": "https://www.last.fm/music/Todrick+Hall/_/RAININ%E2%80%99+FELLAS",
-      "count": 10,
+      "count": 11,
       "artist": "Todrick Hall"
     },
     {
       "name": "RED",
       "url": "https://www.last.fm/music/Alaska+Thunderfuck/_/RED",
-      "count": 9,
+      "count": 10,
       "artist": "Alaska Thunderfuck"
     },
     {
@@ -103,7 +103,7 @@
     {
       "name": "Petrified",
       "url": "https://www.last.fm/music/METTE/_/Petrified",
-      "count": 8,
+      "count": 9,
       "artist": "METTE"
     },
     {
