@@ -2,7 +2,7 @@
   "artists": [
     {
       "name": "Allie X",
-      "count": 37,
+      "count": 54,
       "url": "https://www.last.fm/music/Allie+X"
     },
     {
@@ -11,105 +11,105 @@
       "url": "https://www.last.fm/music/Lady+Gaga"
     },
     {
+      "name": "Charli XCX",
+      "count": 25,
+      "url": "https://www.last.fm/music/Charli+XCX"
+    },
+    {
       "name": "Foxes",
-      "count": 19,
+      "count": 22,
       "url": "https://www.last.fm/music/Foxes"
     },
     {
       "name": "Years & Years",
-      "count": 17,
+      "count": 21,
       "url": "https://www.last.fm/music/Years+&+Years"
     },
     {
+      "name": "Adele",
+      "count": 20,
+      "url": "https://www.last.fm/music/Adele"
+    },
+    {
       "name": "Broods",
-      "count": 14,
+      "count": 16,
       "url": "https://www.last.fm/music/Broods"
     },
     {
-      "name": "Amor Electro",
-      "count": 13,
-      "url": "https://www.last.fm/music/Amor+Electro"
-    },
-    {
-      "name": "Doce",
-      "count": 12,
-      "url": "https://www.last.fm/music/Doce"
-    },
-    {
       "name": "Gia Woods",
-      "count": 12,
+      "count": 14,
       "url": "https://www.last.fm/music/Gia+Woods"
     },
     {
       "name": "Todrick Hall",
-      "count": 12,
+      "count": 14,
       "url": "https://www.last.fm/music/Todrick+Hall"
     },
     {
-      "name": "Charli XCX",
-      "count": 11,
-      "url": "https://www.last.fm/music/Charli+XCX"
+      "name": "Aurora",
+      "count": 13,
+      "url": "https://www.last.fm/music/Aurora"
     }
   ],
   "tracks": [
     {
       "name": "Devil Side",
       "url": "https://www.last.fm/music/Foxes/_/Devil+Side",
-      "count": 16,
+      "count": 18,
       "artist": "Foxes"
     },
     {
       "name": "Sleep Baby Sleep",
       "url": "https://www.last.fm/music/Broods/_/Sleep+Baby+Sleep",
-      "count": 14,
+      "count": 16,
       "artist": "Broods"
     },
     {
       "name": "Enough of You",
       "url": "https://www.last.fm/music/Gia+Woods/_/Enough+of+You",
-      "count": 12,
+      "count": 14,
       "artist": "Gia Woods"
-    },
-    {
-      "name": "É Demais",
-      "url": "https://www.last.fm/music/Doce/_/%C3%89+Demais",
-      "count": 11,
-      "artist": "Doce"
     },
     {
       "name": "RAININ’ FELLAS",
       "url": "https://www.last.fm/music/Todrick+Hall/_/RAININ%E2%80%99+FELLAS",
-      "count": 11,
+      "count": 13,
       "artist": "Todrick Hall"
     },
     {
       "name": "RED",
       "url": "https://www.last.fm/music/Alaska+Thunderfuck/_/RED",
-      "count": 10,
+      "count": 12,
       "artist": "Alaska Thunderfuck"
     },
     {
-      "name": "Désenchantée",
-      "url": "https://www.last.fm/music/Kate+Ryan/_/D%C3%A9senchant%C3%A9e",
-      "count": 9,
-      "artist": "Kate Ryan"
+      "name": "É Demais",
+      "url": "https://www.last.fm/music/Doce/_/%C3%89+Demais",
+      "count": 12,
+      "artist": "Doce"
     },
     {
       "name": "Dreamcatcher",
       "url": "https://www.last.fm/music/Keke+Palmer/_/Dreamcatcher",
-      "count": 9,
+      "count": 12,
       "artist": "Keke Palmer"
+    },
+    {
+      "name": "Désenchantée",
+      "url": "https://www.last.fm/music/Kate+Ryan/_/D%C3%A9senchant%C3%A9e",
+      "count": 11,
+      "artist": "Kate Ryan"
     },
     {
       "name": "Petrified",
       "url": "https://www.last.fm/music/METTE/_/Petrified",
-      "count": 9,
+      "count": 11,
       "artist": "METTE"
     },
     {
       "name": "Hallucination",
       "url": "https://www.last.fm/music/Regard/_/Hallucination",
-      "count": 8,
+      "count": 11,
       "artist": "Regard"
     }
   ]
