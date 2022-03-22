@@ -1,0 +1,39 @@
+{{ define "post/listened" }}
+  {{ $mm := .Helper }}
+
+  {{ with $mm.Sub $mm.TypeProperty }}
+    {{ template "listen" . }}
+  {{ end }}
+
+  {{ with $mm.Subs $mm.TypeProperty }}
+    <div class="ibox p-summary">
+      🎧 Listened to <strong>{{ $mm.Int "tracks-count" }}</strong> unique tracks (<strong>{{ $mm.Int "scrobbles-count" }}</strong> scrobbles) from <strong>{{ $mm.Int "artists-count" }}</strong>
+      different artists for <strong>{{ sprintf "%.2f" ($mm.Float "total-duration") }}</strong> hours
+    </div>
+
+    {{ if not $.IsListing }}
+      {{ range . }}
+        {{ template "listen" . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ define "listen" }}
+<div class=ibox>
+  🎵 Listened to
+
+  <span class="u-listen-of h-cite">
+    {{ with .String "url" }}<a target="_blank" rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
+      <strong><span class="p-name">{{ .Name }}</span></strong>
+    {{ with .String "url" }}</a>{{ end }}
+
+    {{ with .Sub "author" }}
+      by
+      <span class="u-author h-card">
+        <strong><span class="p-name">{{ .Name }}</span></strong>
+      </span>
+    {{ end }}
+  </span>
+</div>
+{{ end }}

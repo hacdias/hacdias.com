@@ -1,10 +1,9 @@
 ---
 title: Listens
-description: |
-  An extensive list of TV shows and movies I have or am watching right now.
-template: listens
+description: Extensive list of daily scrobbles, as well as monthly and yearly reports of my listening habits.
 noShowInteractions: true
 noSendInteractions: true
+isListing: true
 ---
 
 <style>
@@ -15,8 +14,6 @@ figure.fig-cute {
 }
 </style>
 
-![CD Icon](https://cdn.hacdias.com/u/2021-05-cute-music.gif?class=right+pixelated+fig-cute)
+![Listening to Music](https://cdn.hacdias.com/u/2021-05-cute-music.gif?class=right+pixelated+fig-cute)
 
-This is a very short summary of my most listened artists and tracks over the past week 🎶. I use [Last.fm's API](https://www.last.fm/api) to gather the information.
-
-<!--more-->
+This is an extensive list of all the scrobbles 🎧 I recorded per day using [Last.fm](https://last.fm). My blog pulls daily scrobbles every day assuming the UTC timezone. Every [month](/tags/monthly-scrobbles) and every [year](/tags/yearly-scrobbles), my blog system automatically generates reports with some interesting statistics about my listening habits.

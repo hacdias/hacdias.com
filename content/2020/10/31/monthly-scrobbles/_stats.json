@@ -1,0 +1,1552 @@
+{
+  "start": "2020-10-01T00:00:00Z",
+  "end": "2020-10-31T23:59:59Z",
+  "totalDuration": 286445,
+  "listeningClock": [
+    32,
+    5,
+    0,
+    0,
+    0,
+    0,
+    0,
+    25,
+    39,
+    67,
+    105,
+    104,
+    71,
+    144,
+    125,
+    107,
+    82,
+    114,
+    94,
+    83,
+    83,
+    53,
+    50,
+    70
+  ],
+  "scrobbles": 1453,
+  "tracksPerDay": 46,
+  "durationPerDay": 9240,
+  "scrobblesPerWeekday": [
+    118,
+    99,
+    204,
+    134,
+    308,
+    324,
+    266
+  ],
+  "uniqueArtists": 359,
+  "uniqueTracks": 665,
+  "uniqueAlbums": 510,
+  "artists": [
+    {
+      "name": "Miley Cyrus",
+      "duration": 27728,
+      "scrobbles": 163
+    },
+    {
+      "name": "Troye Sivan",
+      "duration": 10741,
+      "scrobbles": 50
+    },
+    {
+      "name": "Imagine Dragons",
+      "duration": 8520,
+      "scrobbles": 41
+    },
+    {
+      "name": "Lady Gaga",
+      "duration": 10126,
+      "scrobbles": 40
+    },
+    {
+      "name": "Amor Electro",
+      "duration": 8641,
+      "scrobbles": 35
+    },
+    {
+      "name": "Alma",
+      "duration": 6629,
+      "scrobbles": 33
+    },
+    {
+      "name": "Alexandre Desplat",
+      "duration": 4964,
+      "scrobbles": 29
+    },
+    {
+      "name": "Astra King",
+      "duration": 3696,
+      "scrobbles": 28
+    },
+    {
+      "name": "Kiesza",
+      "duration": 5549,
+      "scrobbles": 26
+    },
+    {
+      "name": "Tove Lo",
+      "duration": 4746,
+      "scrobbles": 26
+    },
+    {
+      "name": "Kim Petras",
+      "duration": 4967,
+      "scrobbles": 25
+    },
+    {
+      "name": "Aly \u0026 AJ",
+      "duration": 5138,
+      "scrobbles": 25
+    },
+    {
+      "name": "Britney Spears",
+      "duration": 3753,
+      "scrobbles": 23
+    },
+    {
+      "name": "Years \u0026 Years",
+      "duration": 4473,
+      "scrobbles": 21
+    },
+    {
+      "name": "Selena Gomez",
+      "duration": 3242,
+      "scrobbles": 21
+    },
+    {
+      "name": "Paulo Gonzo",
+      "duration": 5909,
+      "scrobbles": 19
+    },
+    {
+      "name": "David Guetta",
+      "duration": 3881,
+      "scrobbles": 18
+    },
+    {
+      "name": "Bruno Mars",
+      "duration": 3750,
+      "scrobbles": 18
+    },
+    {
+      "name": "James Hannigan",
+      "duration": 3301,
+      "scrobbles": 17
+    },
+    {
+      "name": "Tame Impala",
+      "duration": 3088,
+      "scrobbles": 16
+    },
+    {
+      "name": "Carly Rae Jepsen",
+      "duration": 3347,
+      "scrobbles": 16
+    },
+    {
+      "name": "Maroon 5",
+      "duration": 3196,
+      "scrobbles": 14
+    },
+    {
+      "name": "Todrick Hall",
+      "duration": 2211,
+      "scrobbles": 14
+    },
+    {
+      "name": "Katy Perry",
+      "duration": 2674,
+      "scrobbles": 13
+    },
+    {
+      "name": "Coldplay",
+      "duration": 2497,
+      "scrobbles": 13
+    },
+    {
+      "name": "Julia Michaels",
+      "duration": 2288,
+      "scrobbles": 13
+    },
+    {
+      "name": "Harry Styles",
+      "duration": 2088,
+      "scrobbles": 12
+    },
+    {
+      "name": "Rina Sawayama",
+      "duration": 1844,
+      "scrobbles": 11
+    },
+    {
+      "name": "Christine and the Queens",
+      "duration": 1650,
+      "scrobbles": 11
+    },
+    {
+      "name": "Ke$ha",
+      "duration": 1824,
+      "scrobbles": 11
+    },
+    {
+      "name": "Allie X",
+      "duration": 2336,
+      "scrobbles": 11
+    },
+    {
+      "name": "M83",
+      "duration": 1748,
+      "scrobbles": 10
+    },
+    {
+      "name": "The Script",
+      "duration": 2004,
+      "scrobbles": 9
+    },
+    {
+      "name": "Bastille",
+      "duration": 1926,
+      "scrobbles": 9
+    },
+    {
+      "name": "Demi Lovato",
+      "duration": 1577,
+      "scrobbles": 9
+    },
+    {
+      "name": "Florence + the Machine",
+      "duration": 2153,
+      "scrobbles": 8
+    },
+    {
+      "name": "Kash Doll",
+      "duration": 1200,
+      "scrobbles": 8
+    },
+    {
+      "name": "OneRepublic",
+      "duration": 1939,
+      "scrobbles": 8
+    },
+    {
+      "name": "Chlöe Howl",
+      "duration": 2184,
+      "scrobbles": 8
+    },
+    {
+      "name": "Caroline Polachek",
+      "duration": 1361,
+      "scrobbles": 7
+    },
+    {
+      "name": "John Legend",
+      "duration": 1267,
+      "scrobbles": 7
+    },
+    {
+      "name": "MUNA",
+      "duration": 1050,
+      "scrobbles": 7
+    },
+    {
+      "name": "RoomieOfficial",
+      "duration": 1050,
+      "scrobbles": 7
+    },
+    {
+      "name": "Expensive Soul",
+      "duration": 1815,
+      "scrobbles": 7
+    },
+    {
+      "name": "Jamie xx",
+      "duration": 1781,
+      "scrobbles": 7
+    },
+    {
+      "name": "Lost Frequencies",
+      "duration": 1054,
+      "scrobbles": 7
+    },
+    {
+      "name": "Marina",
+      "duration": 1260,
+      "scrobbles": 6
+    },
+    {
+      "name": "Cher Lloyd",
+      "duration": 1050,
+      "scrobbles": 6
+    },
+    {
+      "name": "Gorillaz",
+      "duration": 1435,
+      "scrobbles": 6
+    },
+    {
+      "name": "Sia",
+      "duration": 1019,
+      "scrobbles": 6
+    },
+    {
+      "name": "RuPaul",
+      "duration": 1182,
+      "scrobbles": 6
+    },
+    {
+      "name": "Shawn Mendes",
+      "duration": 1227,
+      "scrobbles": 6
+    },
+    {
+      "name": "The xx",
+      "duration": 988,
+      "scrobbles": 6
+    },
+    {
+      "name": "Adele",
+      "duration": 1558,
+      "scrobbles": 6
+    },
+    {
+      "name": "Little Mix",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "D'ZRT",
+      "duration": 818,
+      "scrobbles": 5
+    },
+    {
+      "name": "Vardaan Arora",
+      "duration": 1000,
+      "scrobbles": 5
+    },
+    {
+      "name": "Astræa",
+      "duration": 860,
+      "scrobbles": 5
+    },
+    {
+      "name": "Lady Antebellum",
+      "duration": 1175,
+      "scrobbles": 5
+    },
+    {
+      "name": "The Gift",
+      "duration": 1404,
+      "scrobbles": 5
+    },
+    {
+      "name": "Ciclo Preparatório",
+      "duration": 1040,
+      "scrobbles": 5
+    },
+    {
+      "name": "Arctic Monkeys",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "B.o.B",
+      "duration": 1079,
+      "scrobbles": 5
+    },
+    {
+      "name": "Vitas",
+      "duration": 996,
+      "scrobbles": 4
+    },
+    {
+      "name": "Robyn",
+      "duration": 1166,
+      "scrobbles": 4
+    },
+    {
+      "name": "Calvin Harris",
+      "duration": 600,
+      "scrobbles": 4
+    },
+    {
+      "name": "Mariza",
+      "duration": 977,
+      "scrobbles": 4
+    },
+    {
+      "name": "Pabllo Vittar",
+      "duration": 651,
+      "scrobbles": 4
+    },
+    {
+      "name": "Madonna",
+      "duration": 786,
+      "scrobbles": 4
+    },
+    {
+      "name": "Ava Max",
+      "duration": 686,
+      "scrobbles": 4
+    },
+    {
+      "name": "Selena Gomez \u0026 The Scene",
+      "duration": 769,
+      "scrobbles": 4
+    },
+    {
+      "name": "Tiago Bettencourt",
+      "duration": 1116,
+      "scrobbles": 4
+    },
+    {
+      "name": "Os Azeitonas",
+      "duration": 1066,
+      "scrobbles": 4
+    },
+    {
+      "name": "Disturbed",
+      "duration": 600,
+      "scrobbles": 4
+    },
+    {
+      "name": "Set It Off",
+      "duration": 928,
+      "scrobbles": 4
+    },
+    {
+      "name": "Lana Del Rey",
+      "duration": 994,
+      "scrobbles": 4
+    },
+    {
+      "name": "Hayley Kiyoko",
+      "duration": 790,
+      "scrobbles": 4
+    },
+    {
+      "name": "Milow",
+      "duration": 633,
+      "scrobbles": 3
+    },
+    {
+      "name": "Kylie Minogue",
+      "duration": 450,
+      "scrobbles": 3
+    },
+    {
+      "name": "Muse",
+      "duration": 858,
+      "scrobbles": 3
+    },
+    {
+      "name": "Tuna Universitária do Instituto Superior Técnico",
+      "duration": 763,
+      "scrobbles": 3
+    },
+    {
+      "name": "Carolina Deslandes",
+      "duration": 624,
+      "scrobbles": 3
+    },
+    {
+      "name": "Zara Larsson",
+      "duration": 450,
+      "scrobbles": 3
+    },
+    {
+      "name": "Diabo Na Cruz",
+      "duration": 642,
+      "scrobbles": 3
+    },
+    {
+      "name": "Taio Cruz",
+      "duration": 450,
+      "scrobbles": 3
+    },
+    {
+      "name": "Kelly Clarkson",
+      "duration": 450,
+      "scrobbles": 3
+    },
+    {
+      "name": "Mark Ronson",
+      "duration": 517,
+      "scrobbles": 3
+    },
+    {
+      "name": "Rihanna",
+      "duration": 535,
+      "scrobbles": 3
+    },
+    {
+      "name": "Above \u0026 Beyond",
+      "duration": 668,
+      "scrobbles": 3
+    },
+    {
+      "name": "The Drums",
+      "duration": 699,
+      "scrobbles": 3
+    },
+    {
+      "name": "Nicki Minaj",
+      "duration": 559,
+      "scrobbles": 3
+    },
+    {
+      "name": "Travie McCoy",
+      "duration": 633,
+      "scrobbles": 3
+    },
+    {
+      "name": "The Pussycat Dolls",
+      "duration": 504,
+      "scrobbles": 3
+    },
+    {
+      "name": "Full Tac",
+      "duration": 396,
+      "scrobbles": 3
+    },
+    {
+      "name": "Taylor Swift",
+      "duration": 450,
+      "scrobbles": 3
+    },
+    {
+      "name": "João Pedro Pais",
+      "duration": 625,
+      "scrobbles": 3
+    },
+    {
+      "name": "Christina Perri",
+      "duration": 777,
+      "scrobbles": 3
+    },
+    {
+      "name": "Avril Lavigne",
+      "duration": 616,
+      "scrobbles": 3
+    },
+    {
+      "name": "Shakira",
+      "duration": 450,
+      "scrobbles": 3
+    },
+    {
+      "name": "Ellie Goulding",
+      "duration": 515,
+      "scrobbles": 3
+    }
+  ],
+  "tracks": [
+    {
+      "name": "Unholy",
+      "duration": 130,
+      "scrobbles": 34
+    },
+    {
+      "name": "Epiphany",
+      "duration": 132,
+      "scrobbles": 28
+    },
+    {
+      "name": "Who Owns My Heart",
+      "duration": 214,
+      "scrobbles": 28
+    },
+    {
+      "name": "Cai neve em Nova York",
+      "duration": 239,
+      "scrobbles": 25
+    },
+    {
+      "name": "Joan of Arc on the Dance Floor",
+      "duration": 206,
+      "scrobbles": 24
+    },
+    {
+      "name": "King",
+      "duration": 213,
+      "scrobbles": 21
+    },
+    {
+      "name": "Quem de Nós Dois (feat. Ana Carolina)",
+      "duration": 311,
+      "scrobbles": 19
+    },
+    {
+      "name": "Lose You to Love Me",
+      "duration": 150,
+      "scrobbles": 17
+    },
+    {
+      "name": "Bad News Baby",
+      "duration": 200,
+      "scrobbles": 16
+    },
+    {
+      "name": "Heart of Glass (Live from the iHeart Music Festival)",
+      "duration": 213,
+      "scrobbles": 16
+    },
+    {
+      "name": "Sweettalk My Heart",
+      "duration": 179,
+      "scrobbles": 16
+    },
+    {
+      "name": "Heart of Glass (Live from the iHeart Festival)",
+      "duration": 150,
+      "scrobbles": 16
+    },
+    {
+      "name": "Feels Like We Only Go Backwards",
+      "duration": 193,
+      "scrobbles": 16
+    },
+    {
+      "name": "Slide Away",
+      "duration": 150,
+      "scrobbles": 15
+    },
+    {
+      "name": "Communication (MTV Unplugged Presents Miley Cyrus Backyard Sessions)",
+      "duration": 150,
+      "scrobbles": 14
+    },
+    {
+      "name": "Good Vibes",
+      "duration": 206,
+      "scrobbles": 14
+    },
+    {
+      "name": "Giant in My Heart",
+      "duration": 269,
+      "scrobbles": 13
+    },
+    {
+      "name": "Mood Ring (By Demand) - Pride Remix",
+      "duration": 150,
+      "scrobbles": 13
+    },
+    {
+      "name": "Issues",
+      "duration": 176,
+      "scrobbles": 13
+    },
+    {
+      "name": "glitter",
+      "duration": 150,
+      "scrobbles": 12
+    },
+    {
+      "name": "Watermelon Sugar",
+      "duration": 174,
+      "scrobbles": 12
+    },
+    {
+      "name": "All of the Feelings",
+      "duration": 150,
+      "scrobbles": 12
+    },
+    {
+      "name": "IN A DREAM",
+      "duration": 230,
+      "scrobbles": 10
+    },
+    {
+      "name": "Pompeii",
+      "duration": 214,
+      "scrobbles": 9
+    },
+    {
+      "name": "Je disparais dans tes bras",
+      "duration": 150,
+      "scrobbles": 9
+    },
+    {
+      "name": "In the Middle (Sad Banger)",
+      "duration": 273,
+      "scrobbles": 8
+    },
+    {
+      "name": "STUD",
+      "duration": 210,
+      "scrobbles": 8
+    },
+    {
+      "name": "Rager teenager!",
+      "duration": 150,
+      "scrobbles": 8
+    },
+    {
+      "name": "Take Yourself Home",
+      "duration": 249,
+      "scrobbles": 8
+    },
+    {
+      "name": "I Need You",
+      "duration": 181,
+      "scrobbles": 8
+    },
+    {
+      "name": "How It’s Done (with Kim Petras, ALMA, Stefflon Don)",
+      "duration": 150,
+      "scrobbles": 8
+    },
+    {
+      "name": "Titanium (feat. Sia)",
+      "duration": 245,
+      "scrobbles": 7
+    },
+    {
+      "name": "Easy",
+      "duration": 227,
+      "scrobbles": 7
+    },
+    {
+      "name": "TiK ToK",
+      "duration": 150,
+      "scrobbles": 7
+    },
+    {
+      "name": "All of Me",
+      "duration": 181,
+      "scrobbles": 7
+    },
+    {
+      "name": "Slide Away in the Live Lounge",
+      "duration": 150,
+      "scrobbles": 7
+    },
+    {
+      "name": "Monster",
+      "duration": 250,
+      "scrobbles": 6
+    },
+    {
+      "name": "Lost",
+      "duration": 175,
+      "scrobbles": 6
+    },
+    {
+      "name": "Alejandro",
+      "duration": 277,
+      "scrobbles": 6
+    },
+    {
+      "name": "Loud Places (feat. Romy)",
+      "duration": 283,
+      "scrobbles": 6
+    },
+    {
+      "name": "Demons",
+      "duration": 176,
+      "scrobbles": 6
+    },
+    {
+      "name": "Midnight Sky",
+      "duration": 221,
+      "scrobbles": 6
+    },
+    {
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "duration": 191,
+      "scrobbles": 6
+    },
+    {
+      "name": "Bad Romance",
+      "duration": 294,
+      "scrobbles": 6
+    },
+    {
+      "name": "Tonight I Run",
+      "duration": 172,
+      "scrobbles": 5
+    },
+    {
+      "name": "Heart Attack",
+      "duration": 150,
+      "scrobbles": 5
+    },
+    {
+      "name": "Habits (Stay High)",
+      "duration": 208,
+      "scrobbles": 5
+    },
+    {
+      "name": "Run Away with Me",
+      "duration": 251,
+      "scrobbles": 5
+    },
+    {
+      "name": "A Máquina (Acordou)",
+      "duration": 320,
+      "scrobbles": 5
+    },
+    {
+      "name": "Do I Wanna Know?",
+      "duration": 150,
+      "scrobbles": 5
+    },
+    {
+      "name": "Need You Now",
+      "duration": 235,
+      "scrobbles": 5
+    },
+    {
+      "name": "Animals",
+      "duration": 231,
+      "scrobbles": 5
+    },
+    {
+      "name": "Counting Stars",
+      "duration": 256,
+      "scrobbles": 5
+    },
+    {
+      "name": "The Edge of Glory",
+      "duration": 320,
+      "scrobbles": 5
+    },
+    {
+      "name": "Judas",
+      "duration": 249,
+      "scrobbles": 5
+    },
+    {
+      "name": "Warriors",
+      "duration": 171,
+      "scrobbles": 5
+    },
+    {
+      "name": "Rare",
+      "duration": 200,
+      "scrobbles": 5
+    },
+    {
+      "name": "Lena Del Rey",
+      "duration": 208,
+      "scrobbles": 5
+    },
+    {
+      "name": "Midnight Sky in the Live Lounge",
+      "duration": 150,
+      "scrobbles": 5
+    },
+    {
+      "name": "Girl of the Year",
+      "duration": 211,
+      "scrobbles": 4
+    },
+    {
+      "name": "Que Saudade",
+      "duration": 273,
+      "scrobbles": 4
+    },
+    {
+      "name": "Hymn for the Weekend",
+      "duration": 150,
+      "scrobbles": 4
+    },
+    {
+      "name": "Hello",
+      "duration": 228,
+      "scrobbles": 4
+    },
+    {
+      "name": "Hall of Fame (feat. will.i.am)",
+      "duration": 202,
+      "scrobbles": 4
+    },
+    {
+      "name": "Wolf in Sheep's Clothing",
+      "duration": 232,
+      "scrobbles": 4
+    },
+    {
+      "name": "Payphone",
+      "duration": 231,
+      "scrobbles": 4
+    },
+    {
+      "name": "The Sound of Silence",
+      "duration": 150,
+      "scrobbles": 4
+    },
+    {
+      "name": "Born This Way",
+      "duration": 260,
+      "scrobbles": 4
+    },
+    {
+      "name": "On Melancholy Hill",
+      "duration": 236,
+      "scrobbles": 4
+    },
+    {
+      "name": "The Lazy Song",
+      "duration": 187,
+      "scrobbles": 4
+    },
+    {
+      "name": "Dream",
+      "duration": 259,
+      "scrobbles": 4
+    },
+    {
+      "name": "A Head Full of Dreams",
+      "duration": 223,
+      "scrobbles": 4
+    },
+    {
+      "name": "Number One Fan",
+      "duration": 150,
+      "scrobbles": 4
+    },
+    {
+      "name": "Cut to the Feeling",
+      "duration": 208,
+      "scrobbles": 4
+    },
+    {
+      "name": "Radioactive",
+      "duration": 187,
+      "scrobbles": 4
+    },
+    {
+      "name": "Reality (feat. Janieck Devy) - Radio Edit",
+      "duration": 150,
+      "scrobbles": 4
+    },
+    {
+      "name": "Feeling",
+      "duration": 150,
+      "scrobbles": 4
+    },
+    {
+      "name": "Just the Way You Are",
+      "duration": 220,
+      "scrobbles": 4
+    },
+    {
+      "name": "7 элемент",
+      "duration": 249,
+      "scrobbles": 4
+    },
+    {
+      "name": "Maria",
+      "duration": 279,
+      "scrobbles": 4
+    },
+    {
+      "name": "Sissy That Walk",
+      "duration": 212,
+      "scrobbles": 4
+    },
+    {
+      "name": "Count on Me",
+      "duration": 197,
+      "scrobbles": 4
+    },
+    {
+      "name": "Malibu",
+      "duration": 231,
+      "scrobbles": 4
+    },
+    {
+      "name": "Want You in My Room",
+      "duration": 150,
+      "scrobbles": 3
+    },
+    {
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "duration": 150,
+      "scrobbles": 3
+    },
+    {
+      "name": "Stronger (What Doesn't Kill You)",
+      "duration": 150,
+      "scrobbles": 3
+    },
+    {
+      "name": "There Will Be Blood",
+      "duration": 198,
+      "scrobbles": 3
+    },
+    {
+      "name": "Money",
+      "duration": 233,
+      "scrobbles": 3
+    },
+    {
+      "name": "Billionaire (feat. Bruno Mars)",
+      "duration": 211,
+      "scrobbles": 3
+    },
+    {
+      "name": "Break Your Heart",
+      "duration": 150,
+      "scrobbles": 3
+    },
+    {
+      "name": "Love You Like a Love Song",
+      "duration": 189,
+      "scrobbles": 3
+    },
+    {
+      "name": "Icy",
+      "duration": 189,
+      "scrobbles": 3
+    },
+    {
+      "name": "Stay High - Habits Remix",
+      "duration": 150,
+      "scrobbles": 3
+    },
+    {
+      "name": "Baby Let Me Know",
+      "duration": 132,
+      "scrobbles": 3
+    },
+    {
+      "name": "Look at Me Now",
+      "duration": 184,
+      "scrobbles": 3
+    },
+    {
+      "name": "Toxic",
+      "duration": 200,
+      "scrobbles": 3
+    },
+    {
+      "name": "Sugar",
+      "duration": 235,
+      "scrobbles": 3
+    },
+    {
+      "name": "Melhor de Mim",
+      "duration": 246,
+      "scrobbles": 3
+    },
+    {
+      "name": "Princess of China",
+      "duration": 150,
+      "scrobbles": 3
+    },
+    {
+      "name": "Young and Beautiful",
+      "duration": 236,
+      "scrobbles": 3
+    }
+  ],
+  "albums": [
+    {
+      "name": "In a Dream",
+      "duration": 8761,
+      "scrobbles": 41
+    },
+    {
+      "name": "SHE IS COMING",
+      "duration": 4980,
+      "scrobbles": 37
+    },
+    {
+      "name": "",
+      "duration": 5250,
+      "scrobbles": 35
+    },
+    {
+      "name": "Heart Of Glass / Midnight Sky",
+      "duration": 6029,
+      "scrobbles": 33
+    },
+    {
+      "name": "Can't Be Tamed",
+      "duration": 6328,
+      "scrobbles": 30
+    },
+    {
+      "name": "Epiphany",
+      "duration": 3696,
+      "scrobbles": 28
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows, Pt. 1 (Original Motion Picture Soundtrack)",
+      "duration": 4421,
+      "scrobbles": 26
+    },
+    {
+      "name": "Cai neve em Nova York",
+      "duration": 5975,
+      "scrobbles": 25
+    },
+    {
+      "name": "Joan of Arc on the Dance Floor",
+      "duration": 4944,
+      "scrobbles": 24
+    },
+    {
+      "name": "Communion (Deluxe)",
+      "duration": 4473,
+      "scrobbles": 21
+    },
+    {
+      "name": "Duetos",
+      "duration": 5909,
+      "scrobbles": 19
+    },
+    {
+      "name": "Smoke + Mirrors",
+      "duration": 3799,
+      "scrobbles": 18
+    },
+    {
+      "name": "RuneScape: The Orchestral Collection",
+      "duration": 3301,
+      "scrobbles": 17
+    },
+    {
+      "name": "Bad News Baby",
+      "duration": 3200,
+      "scrobbles": 16
+    },
+    {
+      "name": "Sunshine Kitty",
+      "duration": 2864,
+      "scrobbles": 16
+    },
+    {
+      "name": "Lose You To Love Me",
+      "duration": 2400,
+      "scrobbles": 16
+    },
+    {
+      "name": "Lonerism",
+      "duration": 3088,
+      "scrobbles": 16
+    },
+    {
+      "name": "Night Visions",
+      "duration": 2839,
+      "scrobbles": 15
+    },
+    {
+      "name": "Slide Away",
+      "duration": 2250,
+      "scrobbles": 15
+    },
+    {
+      "name": "Doo-Wops \u0026 Hooligans",
+      "duration": 2858,
+      "scrobbles": 14
+    },
+    {
+      "name": "Haus Party, Pt. 1",
+      "duration": 2211,
+      "scrobbles": 14
+    },
+    {
+      "name": "Heavy Rules Mixtape",
+      "duration": 2884,
+      "scrobbles": 14
+    },
+    {
+      "name": "Sound of a Woman",
+      "duration": 3749,
+      "scrobbles": 14
+    },
+    {
+      "name": "Nervous System",
+      "duration": 2288,
+      "scrobbles": 13
+    },
+    {
+      "name": "Mood Ring (By Demand) [Remixes]",
+      "duration": 1950,
+      "scrobbles": 13
+    },
+    {
+      "name": "Crave",
+      "duration": 1800,
+      "scrobbles": 12
+    },
+    {
+      "name": "Fine Line",
+      "duration": 2088,
+      "scrobbles": 12
+    },
+    {
+      "name": "La vita nuova",
+      "duration": 1650,
+      "scrobbles": 11
+    },
+    {
+      "name": "A Head Full of Dreams",
+      "duration": 2047,
+      "scrobbles": 10
+    },
+    {
+      "name": "Bloom",
+      "duration": 1980,
+      "scrobbles": 9
+    },
+    {
+      "name": "Animal (Expanded Edition)",
+      "duration": 1480,
+      "scrobbles": 9
+    },
+    {
+      "name": "V",
+      "duration": 2051,
+      "scrobbles": 9
+    },
+    {
+      "name": "SAWAYAMA",
+      "duration": 1200,
+      "scrobbles": 8
+    },
+    {
+      "name": "Smoke + Mirrors (Deluxe)",
+      "duration": 1882,
+      "scrobbles": 8
+    },
+    {
+      "name": "Bad Blood",
+      "duration": 1712,
+      "scrobbles": 8
+    },
+    {
+      "name": "Born This Way",
+      "duration": 2276,
+      "scrobbles": 8
+    },
+    {
+      "name": "In the Middle (Sad Banger)",
+      "duration": 2184,
+      "scrobbles": 8
+    },
+    {
+      "name": "Divergent: Original Motion Picture Soundtrack",
+      "duration": 1448,
+      "scrobbles": 8
+    },
+    {
+      "name": "Queen of the Clouds",
+      "duration": 1490,
+      "scrobbles": 8
+    },
+    {
+      "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
+      "duration": 1200,
+      "scrobbles": 8
+    },
+    {
+      "name": "The Fame Monster (Deluxe Edition)",
+      "duration": 1985,
+      "scrobbles": 7
+    },
+    {
+      "name": "",
+      "duration": 1050,
+      "scrobbles": 7
+    },
+    {
+      "name": "Cai o Carmo e a Trindade",
+      "duration": 2084,
+      "scrobbles": 7
+    },
+    {
+      "name": "Pang",
+      "duration": 1361,
+      "scrobbles": 7
+    },
+    {
+      "name": "In Colour",
+      "duration": 1781,
+      "scrobbles": 7
+    },
+    {
+      "name": "Love In The Future (Expanded Edition)",
+      "duration": 1267,
+      "scrobbles": 7
+    },
+    {
+      "name": "Native",
+      "duration": 1495,
+      "scrobbles": 6
+    },
+    {
+      "name": "Emotion (Deluxe)",
+      "duration": 1455,
+      "scrobbles": 6
+    },
+    {
+      "name": "Demi",
+      "duration": 952,
+      "scrobbles": 6
+    },
+    {
+      "name": "Lost",
+      "duration": 1050,
+      "scrobbles": 6
+    },
+    {
+      "name": "One love (New Version)",
+      "duration": 1165,
+      "scrobbles": 6
+    },
+    {
+      "name": "The Fame Monster (UK Deluxe)",
+      "duration": 1662,
+      "scrobbles": 6
+    },
+    {
+      "name": "Plastic Beach",
+      "duration": 1435,
+      "scrobbles": 6
+    },
+    {
+      "name": "Nothing But the Beat Ultimate",
+      "duration": 1470,
+      "scrobbles": 6
+    },
+    {
+      "name": "Midnight Sky",
+      "duration": 1105,
+      "scrobbles": 5
+    },
+    {
+      "name": "ARTPOP",
+      "duration": 1113,
+      "scrobbles": 5
+    },
+    {
+      "name": "TURN OFF THE LIGHT, VOL. 1",
+      "duration": 922,
+      "scrobbles": 5
+    },
+    {
+      "name": "Overexposed Track By Track",
+      "duration": 1145,
+      "scrobbles": 5
+    },
+    {
+      "name": "Tonight I Run",
+      "duration": 860,
+      "scrobbles": 5
+    },
+    {
+      "name": "#3 Deluxe Version",
+      "duration": 1028,
+      "scrobbles": 5
+    },
+    {
+      "name": "Saves the World",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "xx",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "Need You Now",
+      "duration": 1175,
+      "scrobbles": 5
+    },
+    {
+      "name": "Rare",
+      "duration": 1000,
+      "scrobbles": 5
+    },
+    {
+      "name": "Clarity",
+      "duration": 953,
+      "scrobbles": 5
+    },
+    {
+      "name": "Younger Now",
+      "duration": 1137,
+      "scrobbles": 5
+    },
+    {
+      "name": "AM",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "B.o.B Presents: The Adventures of Bobby Ray",
+      "duration": 1079,
+      "scrobbles": 5
+    },
+    {
+      "name": "Less Is More",
+      "duration": 754,
+      "scrobbles": 5
+    },
+    {
+      "name": "As Viúvas Não Temem A Morte",
+      "duration": 1040,
+      "scrobbles": 5
+    },
+    {
+      "name": "Sonhador",
+      "duration": 1092,
+      "scrobbles": 4
+    },
+    {
+      "name": "Project",
+      "duration": 600,
+      "scrobbles": 4
+    },
+    {
+      "name": "Cut to the Feeling",
+      "duration": 832,
+      "scrobbles": 4
+    },
+    {
+      "name": "Philosophy of Miracle",
+      "duration": 996,
+      "scrobbles": 4
+    },
+    {
+      "name": "Do Princípio",
+      "duration": 1116,
+      "scrobbles": 4
+    },
+    {
+      "name": "Unorthodox Jukebox",
+      "duration": 892,
+      "scrobbles": 4
+    },
+    {
+      "name": "Super Sunset",
+      "duration": 844,
+      "scrobbles": 4
+    },
+    {
+      "name": "TURN OFF THE LIGHT",
+      "duration": 794,
+      "scrobbles": 4
+    },
+    {
+      "name": "Katy Perry - Teenage Dream: The Complete Confection",
+      "duration": 887,
+      "scrobbles": 4
+    },
+    {
+      "name": "CollXtion I",
+      "duration": 912,
+      "scrobbles": 4
+    },
+    {
+      "name": "21",
+      "duration": 991,
+      "scrobbles": 4
+    },
+    {
+      "name": "Handwritten",
+      "duration": 837,
+      "scrobbles": 4
+    },
+    {
+      "name": "Duality",
+      "duration": 928,
+      "scrobbles": 4
+    },
+    {
+      "name": "Immortalized (Deluxe Edition)",
+      "duration": 600,
+      "scrobbles": 4
+    },
+    {
+      "name": "Dedicated",
+      "duration": 634,
+      "scrobbles": 4
+    },
+    {
+      "name": "Born Naked",
+      "duration": 848,
+      "scrobbles": 4
+    },
+    {
+      "name": "Listen",
+      "duration": 609,
+      "scrobbles": 3
+    },
+    {
+      "name": "When the Sun Goes Down",
+      "duration": 567,
+      "scrobbles": 3
+    },
+    {
+      "name": "Motion",
+      "duration": 450,
+      "scrobbles": 3
+    },
+    {
+      "name": "Expectations",
+      "duration": 585,
+      "scrobbles": 3
+    },
+    {
+      "name": "Salão América",
+      "duration": 708,
+      "scrobbles": 3
+    },
+    {
+      "name": "Flow State",
+      "duration": 668,
+      "scrobbles": 3
+    },
+    {
+      "name": "Do What U Want",
+      "duration": 681,
+      "scrobbles": 3
+    },
+    {
+      "name": "No Sound Without Silence",
+      "duration": 735,
+      "scrobbles": 3
+    },
+    {
+      "name": "Chromatica",
+      "duration": 423,
+      "scrobbles": 3
+    },
+    {
+      "name": "Body Talk",
+      "duration": 879,
+      "scrobbles": 3
+    },
+    {
+      "name": "Born This Way (Special Edition)",
+      "duration": 780,
+      "scrobbles": 3
+    },
+    {
+      "name": "Diabo na Cruz",
+      "duration": 642,
+      "scrobbles": 3
+    },
+    {
+      "name": "In the Zone",
+      "duration": 600,
+      "scrobbles": 3
+    },
+    {
+      "name": "Electra Heart (Deluxe)",
+      "duration": 663,
+      "scrobbles": 3
+    }
+  ]
+}

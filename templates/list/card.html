@@ -1,5 +1,5 @@
 {{ define "list/card" }}
-  {{ $isLong := or (.InSection "articles") (eq (len .Sections) 0) }}
+  {{ $isLong := or (.InSection "articles") (eq (len .Sections) 0) (ne .Template "") }}
 
   <article class='h-entry card'>
     {{ include "post/header" . }}

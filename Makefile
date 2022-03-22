@@ -1,6 +1,6 @@
-.PHONY: make-dirs normalize all clean twemoji
+.PHONY: make-dirs normalize all clean twemoji chartjs
 
-all: clean make-dirs normalize twemoji
+all: clean make-dirs normalize twemoji chartjs
 
 make-dirs:
 	mkdir -p assets/css/vendor
@@ -12,6 +12,10 @@ normalize:
 twemoji:
 	wget https://twemoji.maxcdn.com/v/latest/twemoji.min.js -O assets/js/vendor/twemoji.min.js
 
+chartjs:
+	wget https://cdn.jsdelivr.net/npm/chart.js -O content/chart.js
+
 clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
+	rm -rf content/chart.js

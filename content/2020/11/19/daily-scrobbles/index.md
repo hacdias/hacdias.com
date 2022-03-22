@@ -1,0 +1,761 @@
+---
+description: Listened to 34 tracks 1.92 hours
+published: 2020-11-19T23:59:59Z
+section:
+- listens
+properties:
+  artists-count: 17
+  category:
+  - daily-scrobbles
+  listen-of:
+  - properties:
+      album:
+        properties:
+          mbid: b7dbb1fd-203d-4b8c-b098-a28011c17564
+          name: Heart Of Glass / Midnight Sky
+        type: h-card
+      author:
+        properties:
+          name: Miley Cyrus
+        type: h-card
+      category:
+      - rock
+      - pop rock
+      - cover
+      - pop
+      - new wave
+      duration: 150
+      name: Heart of Glass (Live from the iHeart Festival)
+      published: "2020-11-19T23:08:40+01:00"
+      url: https://www.last.fm/music/Miley+Cyrus/_/Heart+of+Glass+(Live+from+the+iHeart+Festival)
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 3aa5cc84-a29f-4e60-88f2-69df3dd01d73
+          name: SHE IS COMING
+        type: h-card
+      author:
+        properties:
+          mbid: 7e9bd05a-117f-4cce-87bc-e011527a8b18
+          name: Miley Cyrus
+        type: h-card
+      category:
+      - urban
+      - "2019"
+      - better than selena gomez
+      - best of 2019
+      - she is coming
+      duration: 130
+      mbid: 9f8f26d9-ed75-41ff-94f4-0c9ced5fe241
+      name: Unholy
+      published: "2020-11-19T23:06:29+01:00"
+      url: https://www.last.fm/music/Miley+Cyrus/_/Unholy
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 03088958-2568-4b1b-b605-c3966ffdb791
+          name: Epiphany
+        type: h-card
+      author:
+        properties:
+          mbid: 5c4361d7-133d-4f63-9b6e-95dbdc281a49
+          name: Astra King
+        type: h-card
+      category: []
+      duration: 132
+      mbid: 83261a6e-f24c-4c76-8ead-a0b4105ba291
+      name: Epiphany
+      published: "2020-11-19T23:04:05+01:00"
+      url: https://www.last.fm/music/Astra+King/_/Epiphany
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 1558dbfe-e9d0-4521-8a6b-0ca13a8ff48f
+          name: Duetos
+        type: h-card
+      author:
+        properties:
+          mbid: 0bed69b8-e010-462f-8616-3dd1fa11f666
+          name: Paulo Gonzo
+        type: h-card
+      category: []
+      duration: 311
+      name: Quem de Nós Dois (feat. Ana Carolina)
+      published: "2020-11-19T22:58:53+01:00"
+      url: https://www.last.fm/music/Paulo+Gonzo/_/Quem+de+N%C3%B3s+Dois+(feat.+Ana+Carolina)
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: c7ab71ca-265d-4f58-9ae4-49dcb649a5da
+          name: Joan of Arc on the Dance Floor
+        type: h-card
+      author:
+        properties:
+          mbid: fa4ad5f5-568e-498f-ba98-9ffc18e54ff3
+          name: Aly & AJ
+        type: h-card
+      category:
+      - synthpop
+      - freestyle
+      duration: 206
+      mbid: 294b8809-9c60-4fe3-b1b6-7d2fe36108b1
+      name: Joan of Arc on the Dance Floor
+      published: "2020-11-19T22:55:26+01:00"
+      url: https://www.last.fm/music/Aly+&+AJ/_/Joan+of+Arc+on+the+Dance+Floor
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 20944ad6-faea-4ee9-91cb-ed5dfee55b3e
+          name: Bad Blood
+        type: h-card
+      author:
+        properties:
+          name: Bastille
+        type: h-card
+      category:
+      - indie
+      - pop
+      - british
+      - alternative
+      - "2013"
+      duration: 214
+      mbid: 01260fb5-348a-4ef4-8207-3dd7f8344de2
+      name: Pompeii
+      published: "2020-11-19T22:51:15+01:00"
+      url: https://www.last.fm/music/Bastille/_/Pompeii
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 9326204a-d6b4-42cd-afcc-af54774cb183
+          name: Do What U Want
+        type: h-card
+      author:
+        properties:
+          mbid: 650e7db6-b795-4eb5-a702-5ea2fc46c848
+          name: Lady Gaga
+        type: h-card
+      category:
+      - pop
+      - dance
+      - electronic
+      - r&b
+      - female vocalists
+      duration: 227
+      mbid: 0daf3383-6a52-491a-a01f-f22f0dc08f28
+      name: Do What U Want
+      published: "2020-11-19T22:47:38+01:00"
+      url: https://www.last.fm/music/Lady+Gaga/_/Do+What+U+Want
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 2f39c3c7-a8a5-4af9-8214-4566ca53463b
+          name: Malibu
+        type: h-card
+      author:
+        properties:
+          mbid: 54fc0558-12b5-4854-9d57-9441bcd73a72
+          name: Kim Petras
+        type: h-card
+      category:
+      - pop
+      - summer
+      - dance pop
+      - nu disco
+      - funktronica
+      duration: 191
+      mbid: 30cfdee7-ec3e-41dc-8167-7b3d19922077
+      name: Malibu
+      published: "2020-11-19T22:44:25+01:00"
+      url: https://www.last.fm/music/Kim+Petras/_/Malibu
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: La vita nuova
+        type: h-card
+      author:
+        properties:
+          mbid: 9c90ffbf-b137-4dee-bfcc-b8010787840d
+          name: Christine and the Queens
+        type: h-card
+      category:
+      - love at first listen
+      - personal favourites
+      duration: 150
+      name: La vita nuova
+      published: "2020-11-19T22:39:55+01:00"
+      url: https://www.last.fm/music/Christine+and+the+Queens/_/La+vita+nuova
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: b6a7595a-f843-4988-88c6-60e22deffbe0
+          name: Saves the World
+        type: h-card
+      author:
+        properties:
+          name: MUNA
+        type: h-card
+      category:
+      - pop
+      - indie pop
+      - dance
+      - self love
+      - electropop
+      duration: 150
+      mbid: 15814743-985f-4e54-8b16-ea7b1d853e1d
+      name: Number One Fan
+      published: "2020-11-19T22:36:29+01:00"
+      url: https://www.last.fm/music/MUNA/_/Number+One+Fan
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 252aaae0-0945-41ca-ae7d-a814dd1a468f
+          name: Clarity
+        type: h-card
+      author:
+        properties:
+          mbid: 54fc0558-12b5-4854-9d57-9441bcd73a72
+          name: Kim Petras
+        type: h-card
+      category:
+      - electropop
+      - seen live
+      - pop
+      - love at first listen
+      - contemporary rnb
+      duration: 189
+      mbid: 45a89a51-6322-4905-b381-56d9b851045c
+      name: Icy
+      published: "2020-11-19T22:33:19+01:00"
+      url: https://www.last.fm/music/Kim+Petras/_/Icy
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 114a0177-7bac-4d3f-aa1a-d1abc9e536b1
+          name: SAWAYAMA
+        type: h-card
+      author:
+        properties:
+          mbid: 52494f9b-789d-4467-bcaf-9915e70cc8f6
+          name: Rina Sawayama
+        type: h-card
+      category:
+      - pop
+      - pop rock
+      - rnb
+      - "2020"
+      - rock
+      duration: 150
+      mbid: 1ed5c187-3fb5-4563-b346-270a3a08bcd3
+      name: XS
+      published: "2020-11-19T22:29:57+01:00"
+      url: https://www.last.fm/music/Rina+Sawayama/_/XS
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 114a0177-7bac-4d3f-aa1a-d1abc9e536b1
+          name: SAWAYAMA
+        type: h-card
+      author:
+        properties:
+          mbid: 52494f9b-789d-4467-bcaf-9915e70cc8f6
+          name: Rina Sawayama
+        type: h-card
+      category:
+      - electropop
+      - electronic
+      - indie
+      - pop
+      - alternative
+      duration: 150
+      mbid: 07b19635-c09f-4b9e-8cf5-480dd561271c
+      name: Snakeskin
+      published: "2020-11-19T22:26:44+01:00"
+      url: https://www.last.fm/music/Rina+Sawayama/_/Snakeskin
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: Born This Way (International Special Edition Version)
+        type: h-card
+      author:
+        properties:
+          mbid: 650e7db6-b795-4eb5-a702-5ea2fc46c848
+          name: Lady Gaga
+        type: h-card
+      category:
+      - pop
+      - dance
+      - lady gaga
+      - electronic
+      - love at first listen
+      duration: 307
+      mbid: 003dbe6b-6651-4a25-85b8-e819652e4f0d
+      name: Hair
+      published: "2020-11-19T22:21:36+01:00"
+      url: https://www.last.fm/music/Lady+Gaga/_/Hair
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 0690e824-9bbd-4b09-bf5d-673394ca5afe
+          name: how i'm feeling now
+        type: h-card
+      author:
+        properties:
+          mbid: 260b6184-8828-48eb-945c-bc4cb6fc34ca
+          name: Charli XCX
+        type: h-card
+      category:
+      - trance
+      - electropop
+      - bubblegum bass
+      - hard trance
+      - jumpstyle
+      duration: 150
+      mbid: 1240c7c2-5097-447d-b459-43a3e7a7facd
+      name: visions
+      published: "2020-11-19T22:17:46+01:00"
+      url: https://www.last.fm/music/Charli+XCX/_/visions
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 5a9262d8-bc18-4bbc-9cb1-33273862c549
+          name: REDUX
+        type: h-card
+      author:
+        properties:
+          mbid: 8df10546-b908-4d7d-9acf-6ebc86ed80a8
+          name: Kilo Kish
+        type: h-card
+      category:
+      - electropop
+      - electroclash
+      - synthpop
+      duration: 253
+      mbid: 3ced412a-34a6-4975-8804-91122e3ff785
+      name: BOTH SIDES
+      published: "2020-11-19T22:13:32+01:00"
+      url: https://www.last.fm/music/Kilo+Kish/_/BOTH+SIDES
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 5a9262d8-bc18-4bbc-9cb1-33273862c549
+          name: REDUX
+        type: h-card
+      author:
+        properties:
+          mbid: 8df10546-b908-4d7d-9acf-6ebc86ed80a8
+          name: Kilo Kish
+        type: h-card
+      category:
+      - electropop
+      - alternative rnb
+      duration: 232
+      mbid: 1871d60d-26a8-4145-a416-a47b6052023f
+      name: OVER NOW
+      published: "2020-11-19T22:09:39+01:00"
+      url: https://www.last.fm/music/Kilo+Kish/_/OVER+NOW
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: La vita nuova
+        type: h-card
+      author:
+        properties:
+          mbid: 9c90ffbf-b137-4dee-bfcc-b8010787840d
+          name: Christine and the Queens
+        type: h-card
+      category:
+      - french
+      - pop
+      - indie pop
+      - synthpop
+      - alternative rnb
+      duration: 150
+      mbid: 07ec28e8-2ffd-4e66-b662-4c944005b78f
+      name: People, I've been sad
+      published: "2020-11-19T22:05:18+01:00"
+      url: https://www.last.fm/music/Christine+and+the+Queens/_/People,+I%27ve+been+sad
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: La vita nuova
+        type: h-card
+      author:
+        properties:
+          mbid: 9c90ffbf-b137-4dee-bfcc-b8010787840d
+          name: Christine and the Queens
+        type: h-card
+      category: []
+      duration: 150
+      mbid: 0fcf571a-656f-4afa-b50c-14e1839c849b
+      name: Nada
+      published: "2020-11-19T21:17:27+01:00"
+      url: https://www.last.fm/music/Christine+and+the+Queens/_/Nada
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 3913f9b2-8622-4b0b-aeb5-3511d2b103bc
+          name: Pang
+        type: h-card
+      author:
+        properties:
+          mbid: d8f43dc5-4613-48ac-8c23-a62b82f8c67a
+          name: Caroline Polachek
+        type: h-card
+      category:
+      - ambient pop
+      - electronic
+      - ambient
+      - new age
+      - atmospheric
+      duration: 102
+      mbid: 955a675e-bae1-43d6-bf19-0815edb456e0
+      name: The Gate
+      published: "2020-11-19T21:15:44+01:00"
+      url: https://www.last.fm/music/Caroline+Polachek/_/The+Gate
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 3913f9b2-8622-4b0b-aeb5-3511d2b103bc
+          name: Pang
+        type: h-card
+      author:
+        properties:
+          mbid: d8f43dc5-4613-48ac-8c23-a62b82f8c67a
+          name: Caroline Polachek
+        type: h-card
+      category:
+      - singer-songwriter
+      - folk pop
+      - art pop
+      - chill
+      - ambient pop
+      duration: 184
+      mbid: 37f87193-163f-4783-8465-a88e2a45b47c
+      name: Look at Me Now
+      published: "2020-11-19T21:12:39+01:00"
+      url: https://www.last.fm/music/Caroline+Polachek/_/Look+at+Me+Now
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 3913f9b2-8622-4b0b-aeb5-3511d2b103bc
+          name: Pang
+        type: h-card
+      author:
+        properties:
+          mbid: d8f43dc5-4613-48ac-8c23-a62b82f8c67a
+          name: Caroline Polachek
+        type: h-card
+      category:
+      - pop
+      - indie pop
+      - new wave
+      - dance-pop
+      - soft rock
+      duration: 183
+      mbid: 3668ca74-8ff1-4ee5-aa5b-0393345aa466
+      name: So Hot You're Hurting My Feelings
+      published: "2020-11-19T21:09:35+01:00"
+      url: https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 7ad6d745-91f0-4a2b-b5e7-cf7d07ae7730
+          name: Mood Swing (even moodier)
+        type: h-card
+      author:
+        properties:
+          mbid: 92b21efc-3fa6-4471-94f0-fae02374df41
+          name: CYN
+        type: h-card
+      category: []
+      duration: 226
+      mbid: 00d0f429-1c08-4fd6-ae8b-e8c4d4903d7d
+      name: Holy Roller - even moodier
+      published: "2020-11-19T21:05:48+01:00"
+      url: https://www.last.fm/music/CYN/_/Holy+Roller+-+even+moodier
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 6d4e4c4d-1813-426e-a64e-26389f920fe9
+          name: Mood Swing
+        type: h-card
+      author:
+        properties:
+          name: CYN
+        type: h-card
+      category: []
+      duration: 150
+      name: Nobody’s Keeping Score
+      published: "2020-11-19T21:02:27+01:00"
+      url: https://www.last.fm/music/CYN/_/Nobody%E2%80%99s+Keeping+Score
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 12c4d585-ae20-43ff-8876-bbb4eadd545a
+          name: What's Your Pleasure?
+        type: h-card
+      author:
+        properties:
+          mbid: 6ed40778-8d03-4a5c-ad35-93cf814627c9
+          name: Jessie Ware
+        type: h-card
+      category:
+      - synthpop
+      - synthwave
+      - nu-disco
+      - art pop
+      - great quality stuff
+      duration: 277
+      mbid: 02c8d309-cd34-4cb3-a362-c43e11f9de3b
+      name: The Kill
+      published: "2020-11-19T20:57:49+01:00"
+      url: https://www.last.fm/music/Jessie+Ware/_/The+Kill
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: Miss Anthropocene (Deluxe Edition)
+        type: h-card
+      author:
+        properties:
+          mbid: 7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222
+          name: Grimes
+        type: h-card
+      category:
+      - indie
+      - acoustic
+      - electronic
+      - pop
+      - country
+      duration: 237
+      mbid: 167f1c0a-8452-4f33-893b-41bb19853cf9
+      name: Delete Forever
+      published: "2020-11-19T20:53:51+01:00"
+      url: https://www.last.fm/music/Grimes/_/Delete+Forever
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: Miss Anthropocene (Deluxe Edition)
+        type: h-card
+      author:
+        properties:
+          mbid: 7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222
+          name: Grimes
+        type: h-card
+      category:
+      - electropop
+      - drum and bass
+      - indie
+      - experimental
+      - dark
+      duration: 150
+      mbid: 08849d23-7274-4cd0-a7df-c8683c77d764
+      name: 4ÆM
+      published: "2020-11-19T20:49:19+01:00"
+      url: https://www.last.fm/music/Grimes/_/4%C3%86M
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: Miss Anthropocene (Deluxe Edition)
+        type: h-card
+      author:
+        properties:
+          mbid: 7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222
+          name: Grimes
+        type: h-card
+      category:
+      - dream pop
+      - electronic
+      - electropop
+      - indie
+      - ambient pop
+      duration: 195
+      mbid: 1c12fe58-8815-4623-8daa-5a0ed806d425
+      name: New Gods
+      published: "2020-11-19T20:46:03+01:00"
+      url: https://www.last.fm/music/Grimes/_/New+Gods
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: Miss Anthropocene (Deluxe Edition)
+        type: h-card
+      author:
+        properties:
+          name: Grimes
+        type: h-card
+      category: []
+      duration: 150
+      name: Violence - Club Mix
+      published: "2020-11-19T20:41:50+01:00"
+      url: https://www.last.fm/music/Grimes/_/Violence+-+Club+Mix
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 099495e2-6f2d-42ee-96d7-98ac68ac2675
+          name: Darkbloom
+        type: h-card
+      author:
+        properties:
+          mbid: 7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222
+          name: Grimes
+        type: h-card
+      category:
+      - electronic
+      - indie pop
+      - electronica
+      - indie
+      - pop
+      duration: 324
+      mbid: 2022eb60-8f11-4e43-bfa1-bda62fca5d82
+      name: Vanessa
+      published: "2020-11-19T20:36:26+01:00"
+      url: https://www.last.fm/music/Grimes/_/Vanessa
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 47cd48d4-9a91-4f4c-9738-ab0f5af59784
+          name: Have U Seen Her?
+        type: h-card
+      author:
+        properties:
+          mbid: 01bbc121-de56-4408-ab67-c45593147e4c
+          name: Alma
+        type: h-card
+      category:
+      - electropop
+      duration: 161
+      mbid: 5da66d1c-bf13-4729-a19c-10af48cbbf9a
+      name: Worst Behaviour
+      published: "2020-11-19T20:33:44+01:00"
+      url: https://www.last.fm/music/Alma/_/Worst+Behaviour
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 47cd48d4-9a91-4f4c-9738-ab0f5af59784
+          name: Have U Seen Her?
+        type: h-card
+      author:
+        properties:
+          mbid: 01bbc121-de56-4408-ab67-c45593147e4c
+          name: Alma
+        type: h-card
+      category: []
+      duration: 207
+      mbid: 3521c446-810f-4eee-a9f5-cf8291ac5ec7
+      name: King of the Castle
+      published: "2020-11-19T20:30:16+01:00"
+      url: https://www.last.fm/music/Alma/_/King+of+the+Castle
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 47cd48d4-9a91-4f4c-9738-ab0f5af59784
+          name: Have U Seen Her?
+        type: h-card
+      author:
+        properties:
+          mbid: 01bbc121-de56-4408-ab67-c45593147e4c
+          name: Alma
+        type: h-card
+      category: []
+      duration: 207
+      mbid: 7f62b5f0-27c6-488c-95a7-0c67dec7f2ce
+      name: My Girl
+      published: "2020-11-19T20:26:48+01:00"
+      url: https://www.last.fm/music/Alma/_/My+Girl
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 47cd48d4-9a91-4f4c-9738-ab0f5af59784
+          name: Have U Seen Her?
+        type: h-card
+      author:
+        properties:
+          mbid: 01bbc121-de56-4408-ab67-c45593147e4c
+          name: Alma
+        type: h-card
+      category: []
+      duration: 192
+      mbid: 2c91d987-5e72-44bb-8eb1-601e144d8226
+      name: Loser
+      published: "2020-11-19T18:30:52+01:00"
+      url: https://www.last.fm/music/Alma/_/Loser
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 47cd48d4-9a91-4f4c-9738-ab0f5af59784
+          name: Have U Seen Her?
+        type: h-card
+      author:
+        properties:
+          mbid: 01bbc121-de56-4408-ab67-c45593147e4c
+          name: Alma
+        type: h-card
+      category: []
+      duration: 192
+      mbid: 2c91d987-5e72-44bb-8eb1-601e144d8226
+      name: Loser
+      published: "2020-11-19T13:08:03+01:00"
+      url: https://www.last.fm/music/Alma/_/Loser
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          mbid: 2f39c3c7-a8a5-4af9-8214-4566ca53463b
+          name: Malibu
+        type: h-card
+      author:
+        properties:
+          mbid: 54fc0558-12b5-4854-9d57-9441bcd73a72
+          name: Kim Petras
+        type: h-card
+      category:
+      - pop
+      - summer
+      - dance pop
+      - nu disco
+      - funktronica
+      duration: 191
+      mbid: 30cfdee7-ec3e-41dc-8167-7b3d19922077
+      name: Malibu
+      published: "2020-11-19T13:08:03+01:00"
+      url: https://www.last.fm/music/Kim+Petras/_/Malibu
+    type: h-cite
+  scrobbles-count: 36
+  total-duration: 1.9222222222222223
+  tracks-count: 34
+---
+
+

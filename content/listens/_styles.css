@@ -1,0 +1,17 @@
+:root {
+  --accent: #9d7dce;
+}
+
+body {
+  background: url(/listens/discs.jpg);
+  background-size: 30rem;
+  background-attachment: fixed;
+}
+
+#navbar {
+  border-radius: 0;
+}
+
+.container {
+  background: var(--background);
+}
