@@ -41,6 +41,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 > Put simply, the impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. - Thomas Frank
 
+<!--more-->
+
 ## Travel Goals
 
 1. [x] ~~Visit 5 countries~~ <small>[July 2019] [🇵🇹 PT, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC, 🇩🇪 DE]</small>

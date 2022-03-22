@@ -6,7 +6,7 @@ section:
 properties:
   category:
   - university
-  - msc
+  - masters
   - covid19
 ---
 

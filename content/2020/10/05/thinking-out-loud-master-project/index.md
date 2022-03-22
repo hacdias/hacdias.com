@@ -8,6 +8,9 @@ section:
 properties:
   category:
   - reflection
+  - university
+  - masters
+  - thesis
   syndication:
   - https://twitter.com/hacdias/status/1317859153185001474
 ---

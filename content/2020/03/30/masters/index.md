@@ -6,7 +6,7 @@ section:
 properties:
   category:
   - life
-  - msc
+  - masters
   - university
 ---
 
