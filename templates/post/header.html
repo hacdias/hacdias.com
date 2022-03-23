@@ -1,13 +1,15 @@
 {{ define "post/header" }}
   {{ if .IsLoggedIn }}
     {{ $visibility := .Visibility }}
-    <p style="margin-top: 0">
-      {{ if eq $visibility "private" }}
-        <span class="tag">{{ if eq (len .Audience) 0 }}🔒 Logged In{{ else }}🔒 Only You{{ end }}</span>
-      {{ else if eq $visibility "unlisted" }}<span>Unlisted</span>{{ end }}
-      {{ if .Draft }}<span class="tag">✏️ Draft</span>{{ end }}
-      {{ if .Deleted }}<span class="tag">🗑 Deleted</span>{{ end }}
-    </p>
+    {{ if or .Draft .Deleted (ne $visibility "public") }}
+      <p style="margin-top: 0">
+        {{ if eq $visibility "private" }}
+          <span class="tag">{{ if eq (len .Audience) 0 }}🔒 Logged In{{ else }}🔒 Only You{{ end }}</span>
+        {{ else if eq $visibility "unlisted" }}<span>Unlisted</span>{{ end }}
+        {{ if .Draft }}<span class="tag">✏️ Draft</span>{{ end }}
+        {{ if .Deleted }}<span class="tag">🗑 Deleted</span>{{ end }}
+      </p>
+    {{ end }}
   {{ end }}
 
   {{ $mf2 := .Helper }}
