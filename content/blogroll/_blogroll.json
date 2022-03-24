@@ -156,6 +156,12 @@
     "category": "following"
   },
   {
+    "title": "Isaac Schlueter",
+    "site": "https://blog.izs.me/",
+    "feed": "https://blog.izs.me/feed/feed.json",
+    "category": "following"
+  },
+  {
     "title": "Jake Bauer",
     "site": "https://www.paritybit.ca",
     "feed": "https://www.paritybit.ca/feed.xml",
