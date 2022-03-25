@@ -536,7 +536,7 @@ figure.right {
   position: fixed;
   top: 0;
   z-index: 9999;
-  padding: var(--space);
+  padding: 2.5rem var(--space);
   background: rgba(0, 0, 0, 0.9);
   color: white;
   height: 100%;
@@ -551,7 +551,7 @@ figure.right {
   position: absolute;
   bottom: 0;
   text-align: center;
-  line-height: var(--space);
+  line-height: 2.5rem;
   font-size: var(--f6);
 }
 
