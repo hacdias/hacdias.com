@@ -13,28 +13,28 @@ function parseEmojis (el) {
   })
 }
 
-function setupLightbox() {
-  const lightbox = document.createElement("div")
+function setupPreview() {
+  const preview = document.createElement("div")
   
-  lightbox.id = 'lightbox';
-  lightbox.className = 'dn cp'
+  preview.id = 'preview'
+  preview.className = 'dn'
   
-  lightbox.addEventListener('click', () => {
-    lightbox.classList.add('dn')
-    lightbox.innerHTML = ''
+  preview.addEventListener('click', () => {
+    preview.classList.add('dn')
+    preview.innerHTML = ''
   })
   
-  document.body.appendChild(lightbox)
+  document.body.appendChild(preview)
   
   const images = document.querySelectorAll('article figure img')
   Array.from(images).forEach(img => {
-    img.classList.add('cp')
+    img.style.cursor = 'zoom-in'
     img.addEventListener('click', () => {
-      lightbox.classList.remove('dn')
-      lightbox.innerHTML = `<img src="${img.src}">`
+      preview.classList.remove('dn')
+      preview.innerHTML = `<img src="${img.src}">`
     })
   })
 }
 
 parseEmojis(document.body)
-setupLightbox()
+setupPreview()

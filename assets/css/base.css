@@ -167,10 +167,6 @@ li {
   border-radius: var(--radius);
 }
 
-.cp {
-  cursor: pointer;
-}
-
 input,
 textarea {
   padding: .5rem;
@@ -530,20 +526,36 @@ figure.right {
   font-weight: bold;
 }
 
-#lightbox {
+#preview,
+#preview::after {
+  left: 0;
+  width: 100%;
+}
+
+#preview {
   position: fixed;
   top: 0;
-  left: 0;
+  z-index: 9999;
   padding: var(--space);
-  background: var(--white);
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
   height: 100%;
-  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: zoom-out;
 }
 
-#lightbox img {
+#preview::after {
+  content: 'tap anywhere to close';
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  line-height: var(--space);
+  font-size: var(--f6);
+}
+
+#preview img {
   max-height: 100%;
 }
 
