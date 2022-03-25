@@ -13,16 +13,28 @@ function parseEmojis (el) {
   })
 }
 
-// For MathJax enabled pages
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  }
-}
-
-if (window.mermaid) {
-  mermaid.initialize({ theme: 'forest' });
-  mermaid.init('.language-mermaid');
+function setupLightbox() {
+  const lightbox = document.createElement("div")
+  
+  lightbox.id = 'lightbox';
+  lightbox.className = 'dn cp'
+  
+  lightbox.addEventListener('click', () => {
+    lightbox.classList.add('dn')
+    lightbox.innerHTML = ''
+  })
+  
+  document.body.appendChild(lightbox)
+  
+  const images = document.querySelectorAll('article figure img')
+  Array.from(images).forEach(img => {
+    img.classList.add('cp')
+    img.addEventListener('click', () => {
+      lightbox.classList.remove('dn')
+      lightbox.innerHTML = `<img src="${img.src}">`
+    })
+  })
 }
 
 parseEmojis(document.body)
+setupLightbox()
