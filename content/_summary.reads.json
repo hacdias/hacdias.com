@@ -25,12 +25,6 @@
       "author": "Becky Albertalli"
     },
     {
-      "id": "/reads/isbn/9780007155668",
-      "date": "2022-03-25T21:21:36.246375+01:00",
-      "name": "The Alchemist",
-      "author": "Paulo Coelho"
-    },
-    {
       "id": "/reads/isbn/9781847497826",
       "date": "2021-07-31T15:10:00+02:00",
       "name": "The Master and Margarita",
@@ -44,6 +38,12 @@
     }
   ],
   "reading": [
+    {
+      "id": "/reads/isbn/9780007155668",
+      "date": "2022-03-27T18:15:48.484919+02:00",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho"
+    },
     {
       "id": "/reads/isbn/9789045127330",
       "date": "2022-03-22T23:24:07.984172+01:00",
