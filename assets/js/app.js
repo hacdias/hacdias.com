@@ -7,7 +7,7 @@ console.log(
 
 function parseEmojis (el) {
   twemoji.parse(el, {
-    base: 'https://cdn.hacdias.com/emojis/13.1.0/',
+    base: 'https://cdn.hacdias.com/emojis/14.0.1/',
     folder: 'svg',
     ext: '.svg'
   })
