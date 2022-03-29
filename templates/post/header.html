@@ -4,8 +4,23 @@
     {{ if or .Draft .Deleted (ne $visibility "public") }}
       <p style="margin-top: 0">
         {{ if eq $visibility "private" }}
-          <span class="tag">{{ if eq (len .Audience) 0 }}🔒 Logged In{{ else }}🔒 Only You{{ end }}</span>
-        {{ else if eq $visibility "unlisted" }}<span>Unlisted</span>{{ end }}
+          {{ $audience := .Audience }}
+          <span class="tag">
+          {{- if eq (len $audience) 0 -}}
+            🔒 Logged In
+          {{- else if containsString $audience .User -}}
+            🔒 Only You
+          {{- else if .IsAdmin -}}
+            🔒 Only Them
+          {{- else -}}
+            🐞 Bug
+          {{- end -}}
+          </span>
+
+        {{ else if eq $visibility "unlisted" }}
+          <span class="tag">🫥 Unlisted</span>
+        {{ end }}
+
         {{ if .Draft }}<span class="tag">✏️ Draft</span>{{ end }}
         {{ if .Deleted }}<span class="tag">🗑 Deleted</span>{{ end }}
       </p>
