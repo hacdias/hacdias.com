@@ -288,6 +288,12 @@
     "category": "following"
   },
   {
+    "title": "Phil Eaton",
+    "site": "http://notes.eatonphil.com/",
+    "feed": "https://notes.eatonphil.com/rss.xml",
+    "category": "following"
+  },
+  {
     "title": "Ricardo Miguel",
     "site": "https://pudesse-eu.tumblr.com/",
     "feed": "https://pudesse-eu.tumblr.com/rss",

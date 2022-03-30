@@ -43,12 +43,6 @@
       "date": "2022-03-27T18:15:48.484919+02:00",
       "name": "The Alchemist",
       "author": "Paulo Coelho"
-    },
-    {
-      "id": "/reads/isbn/9789045127330",
-      "date": "2022-03-22T23:24:07.984172+01:00",
-      "name": "Verschrikkelijke beestjes",
-      "author": "Elise Gravel"
     }
   ],
   "finished": {
@@ -887,6 +881,12 @@
           "date": "2022-02-17T19:15:27.009814+01:00",
           "name": "Under the Whispering Door",
           "author": "TJ Klune"
+        },
+        {
+          "id": "/reads/isbn/9789045127330",
+          "date": "2022-03-30T20:32:49.387267+02:00",
+          "name": "Verschrikkelijke beestjes",
+          "author": "Elise Gravel"
         }
       ]
     }
