@@ -1,0 +1,20 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2022/04/2022-04-01-fgdqj"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "nickname": "en",
+      "photo": "https://cdn.hacdias.com/wm/ff05769865d92301fe7b12f64789769aa82531fe3ba4d4821cf140474380a848.png",
+      "type": "card",
+      "url": "https://jlelse.blog"
+    },
+    "content": "Snow in April?!? 🌨️",
+    "post-type": "note",
+    "published": "2022-04-01T07:05:00+02:00",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2022/04/2022-04-01-fgdqj"
+  },
+  "webmentions": []
+}
