@@ -13,7 +13,7 @@ properties:
       longitude: -8.29814
       region: Beja
     type: h-adr
-  photo: https://cdn.hacdias.com/u/d341b69e778f632b034f8cbc6e945435572fc296450aec2ab9d535d4a42ff90c.jpeg
+  photo: https://cdn.hacdias.com/u/af0f6078f1944dfdeedfd7592e05afa4a9fd0e4a15b8ab0ae3634412dc9f5c8b.jpeg
 ---
 
 When your parents have no electric kettle, this is how I boil water.

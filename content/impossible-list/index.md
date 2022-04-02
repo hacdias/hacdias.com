@@ -1,7 +1,7 @@
 ---
 title: Impossible List
 published: 2020-07-15T00:00:00Z
-updated: 2022-03-12T19:29:12.341696387+01:00
+updated: 2022-04-02T18:16:32.024070867+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -50,7 +50,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    2. [ ] Visit 15 countries <small>[🇫🇷 FR]</small>
 2. [x] ~~Visit 🇵🇹 Azores~~ <small>[July 2019]</small>
 3. [ ] Visit 🇵🇹 Madeira
-4. [ ] Visit 🇫🇮 Svalbard
+4. [ ] Visit 🇳🇴 Svalbard
 5. [ ] Visit 🇲🇴 Macau
 6. [ ] Interrail across 🇪🇺 Europe
 7. [ ] See the Aurora Borealis
@@ -71,12 +71,13 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇬🇷 Greece
   - 🇭🇺 Hungary
   - 🇮🇸 Iceland
+  - 🇮🇹 Italy
 
   </div>
   <div>
 
-  - 🇮🇹 Italy
   - 🇯🇵 Japan
+  - 🇳🇴 Norway
   - 🇵🇪 Peru
   - 🇰🇷 South Korea
   - 🇪🇸 Spain
