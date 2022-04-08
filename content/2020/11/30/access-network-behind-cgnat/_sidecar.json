@@ -10,6 +10,26 @@
   "webmentions": [
     {
       "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
+        "type": "card",
+        "url": ""
+      },
+      "content": "I have setup things as described - however after after installing some OS updates on the VPS despite having set the client to work with full tunnel, all traffic that does not go to the local subnet now gets routed to the internet using the VPS ip. Any idea what might cause this?",
+      "in-reply-to": "https://hacdias.com/2020/11/30/access-network-behind-cgnat",
+      "post-type": "reply",
+      "published": "2022-01-29T22:20:25Z",
+      "type": "entry",
+      "url": "https://commentpara.de/comment/955.htm",
+      "wm-id": 1342107,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-01-29T22:20:25Z",
+      "wm-source": "https://commentpara.de/comment/955.htm",
+      "wm-target": "https://hacdias.com/2020/11/30/access-network-behind-cgnat"
+    },
+    {
+      "author": {
         "name": "Henrique Dias",
         "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
         "type": "card",
@@ -75,17 +95,17 @@
         "type": "card",
         "url": ""
       },
-      "content": "I have setup things as described - however after after installing some OS updates on the VPS despite having set the client to work with full tunnel, all traffic that does not go to the local subnet now gets routed to the internet using the VPS ip. Any idea what might cause this?",
+      "content": "In order to get it to work, I had to open the port on my Vultr firewall AND add this line. \"sudo ufw allow 37466/udp\" Working great now! Thanks for the write-up!",
       "in-reply-to": "https://hacdias.com/2020/11/30/access-network-behind-cgnat",
       "post-type": "reply",
-      "published": "2022-01-29T22:20:25Z",
+      "published": "2022-04-08T14:01:12Z",
       "type": "entry",
-      "url": "https://commentpara.de/comment/955.htm",
-      "wm-id": 1342107,
+      "url": "https://commentpara.de/comment/1000.htm",
+      "wm-id": 1376788,
       "wm-private": false,
       "wm-property": "in-reply-to",
-      "wm-received": "2022-01-29T22:20:25Z",
-      "wm-source": "https://commentpara.de/comment/955.htm",
+      "wm-received": "2022-04-08T14:01:12Z",
+      "wm-source": "https://commentpara.de/comment/1000.htm",
       "wm-target": "https://hacdias.com/2020/11/30/access-network-behind-cgnat"
     }
   ]

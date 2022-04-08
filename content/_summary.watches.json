@@ -1,6 +1,21 @@
 {
   "series": [
     {
+      "id": "/2022/04/08/xyvcremlts",
+      "date": "2022-04-08T23:36:02+02:00",
+      "name": "RuPaul's Drag Race: Untucked!"
+    },
+    {
+      "id": "/2022/04/08/qvffekclkj",
+      "date": "2022-04-08T23:35:52+02:00",
+      "name": "Elite"
+    },
+    {
+      "id": "/2022/04/08/fxxbnhwfmi",
+      "date": "2022-04-08T23:35:39+02:00",
+      "name": "RuPaul's Drag Race"
+    },
+    {
       "id": "/2022/04/07/ewgqtxekaa",
       "date": "2022-04-07T21:57:32+02:00",
       "name": "Bridgerton"
@@ -34,16 +49,6 @@
       "id": "/2022/03/27/lehpqudafm",
       "date": "2022-03-27T16:31:24+02:00",
       "name": "Human Resources"
-    },
-    {
-      "id": "/2022/03/27/wjegutvovw",
-      "date": "2022-03-27T12:39:11+02:00",
-      "name": "RuPaul's Drag Race: Untucked!"
-    },
-    {
-      "id": "/2022/03/27/olvgotexuz",
-      "date": "2022-03-27T12:29:23+02:00",
-      "name": "RuPaul's Drag Race"
     },
     {
       "id": "/2022/03/23/kzgxwcjlpg",
@@ -191,7 +196,7 @@
       "name": "RuPaul's Drag Race All Stars"
     },
     {
-      "id": "/2021/08/22/ncwtysxbur",
+      "id": "/2021/08/22/yscexpfbfj",
       "date": "2021-08-22T20:17:54+02:00",
       "name": "Riverdale"
     },
@@ -206,7 +211,7 @@
       "name": "Good Girls"
     },
     {
-      "id": "/2021/08/06/imrntxfbpa",
+      "id": "/2021/08/06/xkrwufaaif",
       "date": "2021-08-06T23:03:12+02:00",
       "name": "Control Z"
     },
@@ -236,7 +241,7 @@
       "name": "Love, Victor"
     },
     {
-      "id": "/2021/07/04/uxrwdltaxn",
+      "id": "/2021/07/04/bwjwpqybxn",
       "date": "2021-07-04T13:51:59+02:00",
       "name": "The A List"
     },
@@ -249,11 +254,6 @@
       "id": "/2021/06/22/cymhmpythw",
       "date": "2021-06-22T20:02:58+02:00",
       "name": "RuPaul's Drag Race Down Under"
-    },
-    {
-      "id": "/2021/06/20/djsbtmeozb",
-      "date": "2021-06-20T23:16:40+02:00",
-      "name": "Elite"
     },
     {
       "id": "/2021/05/02/tmlcxmchcl",
@@ -286,7 +286,7 @@
       "name": "The Rain"
     },
     {
-      "id": "/2021/02/02/tufknxyxbx",
+      "id": "/2021/02/02/iywfwbvedi",
       "date": "2021-02-02T10:05:31+01:00",
       "name": "The Good Place"
     },
@@ -296,17 +296,17 @@
       "name": "BONDiNG"
     },
     {
-      "id": "/2021/01/24/fjzxpwdrvg",
+      "id": "/2021/01/24/zdkvusfsws",
       "date": "2021-01-24T08:58:49+01:00",
       "name": "Fate: The Winx Saga"
     },
     {
-      "id": "/2021/01/20/eqolqastdr",
+      "id": "/2021/01/20/vxdmuxeoof",
       "date": "2021-01-20T07:08:45+01:00",
       "name": "Good Witch"
     },
     {
-      "id": "/2021/01/11/ahnudmzwzc",
+      "id": "/2021/01/11/siexcwsham",
       "date": "2021-01-11T10:26:17+01:00",
       "name": "Greenhouse Academy"
     },
@@ -336,7 +336,7 @@
       "name": "The Haunting of Bly Manor"
     },
     {
-      "id": "/2020/11/25/femjnjecbr",
+      "id": "/2020/11/25/rwargmipwg",
       "date": "2020-11-25T19:47:33+01:00",
       "name": "The Bureau of Magical Things"
     },
@@ -371,12 +371,12 @@
       "name": "Warrior Nun"
     },
     {
-      "id": "/2020/07/03/shanzzfscw",
+      "id": "/2020/07/03/wlfhgdidsk",
       "date": "2020-07-03T10:52:03+02:00",
       "name": "Bangkok Love Stories: Innocence"
     },
     {
-      "id": "/2020/06/30/qkcnqborpt",
+      "id": "/2020/06/30/tzwktgcwyz",
       "date": "2020-06-30T18:54:40+02:00",
       "name": "Please Like Me"
     },
@@ -521,12 +521,12 @@
       "name": "Mr. Robot"
     },
     {
-      "id": "/2016/10/05/wolbhpatun",
+      "id": "/2016/10/05/vfhlxxinij",
       "date": "2016-10-05T09:48:50+02:00",
       "name": "Heroes Reborn"
     },
     {
-      "id": "/2016/10/05/lxcdmeuwtb",
+      "id": "/2016/10/05/jpqgkegqug",
       "date": "2016-10-05T09:48:10+02:00",
       "name": "Forever"
     },
@@ -546,7 +546,7 @@
       "name": "Once Upon a Time"
     },
     {
-      "id": "/2015/07/08/kqgaqjhtzx",
+      "id": "/2015/07/08/pksysathgy",
       "date": "2015-07-08T11:47:50+02:00",
       "name": "Merlin"
     },
@@ -557,6 +557,11 @@
     }
   ],
   "movies": [
+    {
+      "id": "/2022/04/08/qjihponbno",
+      "date": "2022-04-08T21:59:44+02:00",
+      "name": "Fantastic Beasts: The Secrets of Dumbledore"
+    },
     {
       "id": "/2022/04/02/zmwaezynjt",
       "date": "2022-04-02T23:32:20+02:00",
