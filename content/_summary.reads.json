@@ -63,6 +63,12 @@
   ],
   "reading": [
     {
+      "id": "/reads/isbn/9781529302868",
+      "date": "2022-04-09T22:28:48.585973+02:00",
+      "name": "Short Stories in Dutch for Beginners",
+      "author": "Olly Richards"
+    },
+    {
       "id": "/reads/isbn/9780007155668",
       "date": "2022-03-31T20:04:10.561483+02:00",
       "name": "The Alchemist",
