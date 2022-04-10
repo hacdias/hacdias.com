@@ -67,12 +67,6 @@
       "date": "2022-04-09T22:28:48.585973+02:00",
       "name": "Short Stories in Dutch for Beginners",
       "author": "Olly Richards"
-    },
-    {
-      "id": "/reads/isbn/9780007155668",
-      "date": "2022-03-31T20:04:10.561483+02:00",
-      "name": "The Alchemist",
-      "author": "Paulo Coelho"
     }
   ],
   "finished": {
@@ -869,6 +863,12 @@
           "date": "2022-03-02T22:44:27.016541+01:00",
           "name": "Tales from the Cafe",
           "author": "Toshikazu Kawaguchi"
+        },
+        {
+          "id": "/reads/isbn/9780007155668",
+          "date": "2022-04-10T11:12:19.188955+02:00",
+          "name": "The Alchemist",
+          "author": "Paulo Coelho"
         },
         {
           "id": "/reads/isbn/9781529087949",
