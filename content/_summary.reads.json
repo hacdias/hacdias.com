@@ -13,22 +13,10 @@
       "author": "Jennifer Saint"
     },
     {
-      "id": "/reads/isbn/9781846276842",
-      "date": "2022-04-08T09:42:13.021251+02:00",
-      "name": "Convenience Store Woman",
-      "author": "Sayaka Murata"
-    },
-    {
       "id": "/reads/isbn/9781783785698",
       "date": "2022-04-08T09:41:54.018493+02:00",
       "name": "Earthlings",
       "author": "Sayaka Murata"
-    },
-    {
-      "id": "/reads/isbn/9780374155018",
-      "date": "2021-11-07T13:00:00+01:00",
-      "name": "Find Me",
-      "author": "André Aciman"
     },
     {
       "id": "/reads/isbn/9789045124698",
@@ -41,12 +29,6 @@
       "date": "2021-06-12T23:54:00+02:00",
       "name": "O Livro do Desassosego",
       "author": "Fernando Pessoa"
-    },
-    {
-      "id": "/reads/isbn/9780062348678",
-      "date": "2021-11-07T13:00:00+01:00",
-      "name": "Simon vs. the Homo Sapiens Agenda",
-      "author": "Becky Albertalli"
     },
     {
       "id": "/reads/isbn/9781847497826",
@@ -62,6 +44,12 @@
     }
   ],
   "reading": [
+    {
+      "id": "/reads/isbn/9781846276842",
+      "date": "2022-04-11T22:47:39.548428+02:00",
+      "name": "Convenience Store Woman",
+      "author": "Sayaka Murata"
+    },
     {
       "id": "/reads/isbn/9781529302868",
       "date": "2022-04-09T22:28:48.585973+02:00",
