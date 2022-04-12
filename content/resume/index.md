@@ -4,7 +4,6 @@ noShowInteractions: true
 noSendInteractions: true
 ---
 
-
 <!--more-->
 
 <div class="head">
@@ -74,6 +73,10 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pl:desktop]: https://github.com/ipfs/ipfs-desktop
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
+
+### Student Teaching Assistant <span class=location>[Eindhoven University of Technology][tue]</span> <small>[part-time] [04/2022 - present]</small> {#tue-teaching-assistant}
+
+- Teaching assistant for a Deep Learning course for 1 quartile.
 
 ### Student Mentor <span class=location>[Eindhoven University of Technology][tue]</span> <small>[part-time] [09/2021 - 02/2022]</small> {#tue-student-mentor}
 
