@@ -74,14 +74,23 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pl:webui]: https://github.com/ipfs/ipfs-webui
 [pl:awesome]: https://awesome.ipfs.io
 
-### Student Teaching Assistant <span class=location>[Eindhoven University of Technology][tue]</span> <small>[part-time] [04/2022 - present]</small> {#tue-teaching-assistant}
+### [Eindhoven University of Technology][tue] {#tue}
+
+<div class=indented>
+
+#### Student Teaching Assistant <small>[part-time] [04/2022 - present]</small>
+
 
 - Teaching assistant for a Deep Learning course for 1 quartile.
 
-### Student Mentor <span class=location>[Eindhoven University of Technology][tue]</span> <small>[part-time] [09/2021 - 02/2022]</small> {#tue-student-mentor}
+#### Student Mentor <small>[part-time] [09/2021 - 02/2022]</small>
+
 
 - Mentored 12 new master students from different nationalities during their first semester.
 - Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
+
+
+</div>
 
 ### Lead Software Developer <span class=location>[Upframe</span>][upframe]</span> <small>[part-time] [09/2016 - 05/2018]</small> {#upframe}
 
