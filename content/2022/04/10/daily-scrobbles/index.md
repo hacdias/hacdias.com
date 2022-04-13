@@ -1,5 +1,5 @@
 ---
-description: Listened to 34 tracks for 2.13 hours
+description: Listened to 34 tracks for 2.21 hours
 published: 2022-04-10T23:59:59Z
 section:
 - listens
@@ -8,6 +8,22 @@ properties:
   category:
   - daily-scrobbles
   listen-of:
+  - properties:
+      album:
+        properties:
+          name: Solar Power (Deluxe Edition)
+        type: h-card
+      author:
+        properties:
+          mbid: 8e494408-8620-4c6a-82c2-c2ca4a1e4f12
+          name: Lorde
+        type: h-card
+      category: []
+      duration: 268
+      name: Hold No Grudge - Bonus Track
+      published: "2022-04-10T23:59:47+02:00"
+      url: https://www.last.fm/music/Lorde/_/Hold+No+Grudge+-+Bonus+Track
+    type: h-cite
   - properties:
       album:
         properties:
@@ -823,8 +839,8 @@ properties:
       published: "2022-04-10T11:12:52+02:00"
       url: https://www.last.fm/music/Allie+X/_/Milk
     type: h-cite
-  scrobbles-count: 42
-  total-duration: 2.1327777777777777
+  scrobbles-count: 43
+  total-duration: 2.207222222222222
   tracks-count: 34
 ---
 
