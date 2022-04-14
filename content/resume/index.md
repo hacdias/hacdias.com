@@ -81,7 +81,7 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 #### Student Teaching Assistant <small>[part-time] [04/2022 - present]</small>
 
 
-- Teaching assistant for a Deep Learning course for 1 quartile.
+- Assisted teaching for 1 quartile in a Deep Learning course.
 
 #### Student Mentor <small>[part-time] [09/2021 - 02/2022]</small>
 
