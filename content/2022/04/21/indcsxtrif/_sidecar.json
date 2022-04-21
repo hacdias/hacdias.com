@@ -1,0 +1,90 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "There's a lot going on inside Brussels-South Railway Station! Check in to more places here to earn more coins.",
+      "in-reply-to": "https://hacdias.com/2022/04/21/indcsxtrif",
+      "post-type": "reply",
+      "published": "2022-04-21T18:48:09+02:00",
+      "swarm-coins": 1,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/62618ac9fdf8b058455cef77/53ae77cb5a96ca4baf2696a7dbfa32ef",
+      "wm-id": 1384363,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-04-21T16:48:32Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/62618ac9fdf8b058455cef77/53ae77cb5a96ca4baf2696a7dbfa32ef",
+      "wm-target": "https://hacdias.com/2022/04/21/indcsxtrif"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Your last check-in in Belgium was in October '21 at Liège-Guillemins Railway Station.",
+      "in-reply-to": "https://hacdias.com/2022/04/21/indcsxtrif",
+      "post-type": "reply",
+      "published": "2022-04-21T18:48:09+02:00",
+      "swarm-coins": 2,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/62618ac9fdf8b058455cef77/382f4ee1246c22442df6ba1087070fa6",
+      "wm-id": 1384364,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-04-21T16:48:32Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/62618ac9fdf8b058455cef77/382f4ee1246c22442df6ba1087070fa6",
+      "wm-target": "https://hacdias.com/2022/04/21/indcsxtrif"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Your first check-in at this NMBS/SNCB!",
+      "in-reply-to": "https://hacdias.com/2022/04/21/indcsxtrif",
+      "post-type": "reply",
+      "published": "2022-04-21T18:48:09+02:00",
+      "swarm-coins": 5,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/62618ac9fdf8b058455cef77/52c7c584e481ccbd346c421e85afc5e0",
+      "wm-id": 1384365,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-04-21T16:48:35Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/62618ac9fdf8b058455cef77/52c7c584e481ccbd346c421e85afc5e0",
+      "wm-target": "https://hacdias.com/2022/04/21/indcsxtrif"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "First of your friends to check in here.",
+      "in-reply-to": "https://hacdias.com/2022/04/21/indcsxtrif",
+      "post-type": "reply",
+      "published": "2022-04-21T18:48:09+02:00",
+      "swarm-coins": 2,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/62618ac9fdf8b058455cef77/901d2062fe377d8f54b57d96cafc0d5b",
+      "wm-id": 1384366,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-04-21T16:48:35Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/62618ac9fdf8b058455cef77/901d2062fe377d8f54b57d96cafc0d5b",
+      "wm-target": "https://hacdias.com/2022/04/21/indcsxtrif"
+    }
+  ]
+}
