@@ -43,6 +43,26 @@
       "wm-received": "2022-04-22T13:33:14Z",
       "wm-source": "https://ownyourswarm.p3k.io/checkin/6262ae82c8a9a458f2e8e154/23c45f4aa4d4f6bc819a3a158c2cf7be",
       "wm-target": "https://hacdias.com/2022/04/22/acsevkccpj"
+    },
+    {
+      "author": {
+        "name": "Alexey Sidelnikov",
+        "photo": "https://cdn.hacdias.com/wm/4842efa001179e047902cf97673dc5dd9ce721244dbbdeb4b3081abc51cad41e.jpg",
+        "type": "card",
+        "url": "https://foursquare.com/user/7687876"
+      },
+      "content": "liked your checkin",
+      "like-of": "https://hacdias.com/2022/04/22/acsevkccpj",
+      "post-type": "like",
+      "published": "2022-04-22T14:32:50+01:00",
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262ae82c8a9a458f2e8e154/655c7c39b9bf57d4b08ef41965d8a162",
+      "wm-id": 1385789,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-04-23T20:09:10Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/6262ae82c8a9a458f2e8e154/655c7c39b9bf57d4b08ef41965d8a162",
+      "wm-target": "https://hacdias.com/2022/04/22/acsevkccpj"
     }
   ]
 }
