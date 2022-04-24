@@ -6,6 +6,7 @@ section:
 createdWith: https://hacdias.com/
 properties:
   location: /2022/04/22/hwbbsyuymo
+  photo: https://cdn.hacdias.com/u/56937963af69968fa4b7d8a74f6df3c498a98ce6556032de3caa4ef574650458.jpeg
   rating: 5
   watch-of:
     properties:

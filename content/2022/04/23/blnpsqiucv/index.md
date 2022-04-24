@@ -18,6 +18,7 @@ properties:
       longitude: -0.11938
       region: England
     type: h-adr
+  photo: https://cdn.hacdias.com/u/f510915bdd6af924609a9f8be721bdba592a96e98cf059a9718fbd397a37b8ae.jpeg
 ---
 
 
