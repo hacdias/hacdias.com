@@ -1,11 +1,14 @@
 ---
 published: 2022-04-24T13:15:22Z
 section:
-- photos
+- drank
+- health
 createdWith: https://micropublish.net/
 properties:
-  drank[properties][name]: Rekorderlig Wild Berries
-  drank[type]: h-food
+  drank:
+    properties:
+      name: Rekorderlig Wild Berries
+    type: h-food
   file: 4E2D2C92-8B01-4290-B6DE-1F20E4AA1611.jpeg
   location:
     properties:
