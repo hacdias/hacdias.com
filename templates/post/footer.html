@@ -1,9 +1,18 @@
 {{ define "post/footer" }}
   {{ $mf2 := .Helper }}
 
+  {{ $locationStr := $mf2.String "location" }}
+  {{ $location := $mf2.Sub "location" }}
+
   <footer>
-    {{ with ($mf2.Sub "location") }}
-    <p>{{ .LocationHTML }}</p>
+    {{ if $location }}
+    <p>{{ $location.LocationHTML }}</p>
+    {{ else if $locationStr }}
+      {{ $entry := .GetEntry $locationStr }}
+      {{ if $entry }}
+        {{ $location = $entry.Helper.Sub "checkin" }}
+        <p><a href="{{ relURL $entry.Permalink }}">{{ $location.Name }}</a></p>
+      {{ end }}
     {{ end }}
 
     <p>
