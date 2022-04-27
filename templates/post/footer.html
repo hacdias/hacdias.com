@@ -6,12 +6,14 @@
 
   <footer>
     {{ if $location }}
-    <p>{{ $location.LocationHTML }}</p>
+      <p class="p-location h-adr">{{ $location.LocationHTML }}</p>
     {{ else if $locationStr }}
       {{ $entry := .GetEntry $locationStr }}
       {{ if $entry }}
         {{ $location = $entry.Helper.Sub "checkin" }}
-        <p><a href="{{ relURL $entry.Permalink }}">{{ $location.Name }}</a></p>
+        <p class="p-location h-adr">
+          <a class="nl" href="{{ relURL $entry.Permalink }}"><span class="p-name">{{ $location.Name }}</span> in {{ $location.LocationHTML }}</a>
+        </p>
       {{ end }}
     {{ end }}
 
