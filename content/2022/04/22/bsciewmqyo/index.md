@@ -3,6 +3,7 @@ description: 'Just watched: Mary Poppins'
 published: 2022-04-22T23:21:24+01:00
 section:
 - watches
+- home
 createdWith: https://hacdias.com/
 properties:
   location: /2022/04/22/hwbbsyuymo
@@ -15,4 +16,4 @@ properties:
     type: h-cite
 ---
 
-This… was… amazing! Bravo to everyone involved in this theatre 🎭. I wish I could watch more theaters!
+This was my first theatre 🎭 in a _long_ while. I think the last time I watched a theatre I was in primary school. I also had no memory of watching Mary Poppins so we decided to go watch the musical since we were in London. It was... amazing! I wish I could watch musicals more often!
