@@ -5,6 +5,7 @@ section:
 - watches
 createdWith: https://ownyourtrakt.hacdias.com/
 properties:
+  location: /2022/03/05/nzthpoybjp
   watch-of:
     properties:
       name: 'Spider-Man: No Way Home'

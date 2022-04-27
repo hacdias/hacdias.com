@@ -5,6 +5,7 @@ section:
 - watches
 createdWith: https://ownyourtrakt.hacdias.com/
 properties:
+  location: /2022/04/08/wffclmpntp
   watch-of:
     properties:
       name: 'Fantastic Beasts: The Secrets of Dumbledore'

@@ -5,6 +5,7 @@ section:
 - watches
 createdWith: https://ownyourtrakt.hacdias.com/
 properties:
+  location: /2022/02/28/azrwjuhcjq
   watch-of:
     properties:
       name: Compartment No. 6

@@ -20,7 +20,8 @@
         </a>
       </span>
     {{ else }}
-      🎬 Watched
+      {{ if eq ($sub.String "is") "theatre" }}🎭{{ else }}🎬{{ end }}
+      Watched
       <span class="u-watch-of h-cite">
         <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
           <strong><span class="p-name">{{ $sub.Name }}</span></strong>

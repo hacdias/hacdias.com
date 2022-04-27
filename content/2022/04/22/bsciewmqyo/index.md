@@ -12,6 +12,7 @@ properties:
   watch-of:
     properties:
       name: Mary Poppins
+      is: theatre
       url: https://www.delfontmackintosh.co.uk/whats-on/mary-poppins
     type: h-cite
 ---

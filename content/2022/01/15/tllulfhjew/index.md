@@ -5,6 +5,7 @@ section:
 - watches
 createdWith: https://ownyourtrakt.hacdias.com/
 properties:
+  location: /2022/02/12/eundslcnyn
   watch-of:
     properties:
       name: The Matrix Revolutions
