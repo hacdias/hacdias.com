@@ -25,6 +25,30 @@
       "wm-received": "2021-11-19T08:00:48Z",
       "wm-source": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle",
       "wm-target": "https://hacdias.com/checkins"
+    },
+    {
+      "author": {
+        "name": "Wouter Groeneveld",
+        "photo": "https://cdn.hacdias.com/wm/d7fcd5e22604fcb986f4b249259a2a0b91ac867230c20f72e4563485e1c9d75d.jpg",
+        "type": "card",
+        "url": "https://brainbaking.com/"
+      },
+      "content": "Small and independent blogs are always full of surprises. The more blogs I stumble upon, the more genuinely surprised I am by the things people do with their blogs. It seemed like a good idea to summarize highlights here. I hope it might inspire non-bloggers to blog and bloggers to tinker more with their site—because obviously the tinkering never ends! I randomly selected blogs for each thing. There are ample other sites that use that particular feature, but I had to start somewhere. Some blogs appear muiltple times, probably making them even funkier! This list is incomplete, I’ll try to periodically update it as I encounter more cool stuff. Enjoy! Content related Publish reviews of books/music/… in a cool sortable grid: Chris Burnell’s Music Hack together your own last.fm to scrobble music to your own site: Jan Boddez' Owning My Scrobbles Sync your laptop battery, local weather, and current location with your site: Aaron Parecki’s homepage Publicly display global website statistics: Luke Harris' stats page More stats: game playtime, AWStats server data: Roy Tang’s stats Create and regularly update a “uses” page: Ru Singh' uses page Create and regularly update a “now” page: Derek Sivers' the /now page movement Auto-import game metadata from How Long To Beat and others: Jefklak’s Codex games page Use your own site to publish checkins instead of Foursquare: Henrique Dias' checkins Regularly publish week reviews or link bundles: Stefan Imhoff’s Link Bundle #15 Have an “on this day” page that displays posts from previous years: Frank Meeuwsen’s on this day archive Group multiple posts into series: Amos' long-form series Group multiple posts into research questions: Emmanuel Quartey’s questions section Syndicate the HTTP blog to a Gemini capsule: Brain Baking Gemini (defunct) Design related Create an official coat of arms as the logo of your site: Marijn Florence’s heraldry adventure Design your site around ever-evolving note-taking systems: Andy Matuschak’s Evergreen Notes An audible frequency graph that determines posting activity: Chris Burnells' All posts archive Write a custom static blog engine from scratch, because we can: Jan-Lukas Else’s blog Implement a simple client-site search using lunr.js: Brain Baking archives Show articles from others blogs you read below your own articles: an article from Drew DeVault Use a public inbox as a commenting system: an article from Drew DeVault Implement reaction buttons for each post: Jan-Lukas Else’s thoughts on reactions IndieWeb related Have a guestbook page where people can send Webmentions to to sign it: Ana Rodrigues' guestbook Collaborative pixel-art that gets saved every five minutes: Aaron Parecki’s IndieWebCamp Pixel Art Publish replies to others' sites using Webmentions: James' Coffee Blog, Replies Post Tweets on your own site first, then syndicate to Twitter: Sebastiaan Andeweg’s tweets Summarize all IndieWeb-based RSVP events in a calendar: Jamie Tanna’s RSVPs Work together on MicroPub/Sub as a new social reading protocol: Neal Mather’s blog Join the IndieWeb ring to promote own and others' sites: Horst Gutmann’s blog Buuild a custom Webmention receiver/sender: IndieWeb examples RSS related Provide multiple RSS feeds for notes, articles, etc: Ton Zijlstra’s feeds Automatic publishing of favorites from an RSS reader: Peter Rukavina’s favorites Styled OPML Blogrolls that can be imported into your reader: Ruben Schade’s Omake OPML Styled RSS feeds to better explain what a web feed is: Matt Webb’s RSS feed A “Reply via email” link in each RSS post to encourage interaction: Mike Harley’s RSS feed Secret RSS-only posts that do not appear on the webiste: Ton Zĳlstra’s RSS feed Send out newsletters based on your RSS feed: Kev Quirk is newslettering again (defunct) Add the location from where you write to your RSS feed: Ruben Schade’s RSS feed",
+      "mention-of": "https://hacdias.com/checkins",
+      "name": "Cool Things People Do With Their Blogs",
+      "post-type": "mention",
+      "published": "2022-04-27T00:00:00Z",
+      "rels": {
+        "canonical": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/"
+      },
+      "type": "entry",
+      "url": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/",
+      "wm-id": 1387829,
+      "wm-private": false,
+      "wm-property": "mention-of",
+      "wm-received": "2022-04-27T15:38:07Z",
+      "wm-source": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/",
+      "wm-target": "https://hacdias.com/checkins"
     }
   ]
 }
