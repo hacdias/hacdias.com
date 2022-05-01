@@ -127,6 +127,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 5. [ ] Volunteer for a good cause for 6 months
 6. [ ] Donate for a good cause for 6 months
 7. [ ] Go on a hot air 🎈 balloon ride 
+8. [ ] Go to a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 
 ## Health and Fitness Goals
 
