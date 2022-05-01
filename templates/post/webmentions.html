@@ -1,50 +1,53 @@
 {{ define "post/webmentions" }}
-  {{ $data := .GetSidecar  }}
-  {{ $count := len $data.Webmentions  }}
+  {{ if not .Entry.NoShowInteractions }}
+    {{ $data := .GetSidecar  }}
+    {{ $count := len $data.Webmentions  }}
 
-  <details class='wm'>
-    <summary><strong>Interactions ({{ $count }})</strong></summary>
+    <details class='wm'>
+      <summary><strong>Interactions ({{ $count }})</strong></summary>
 
-    <form action="https://webmention.io/hacdias.com/webmention" method="post" class="inline-form">
-      <input aria-label="Webmention Source" name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
-      <input name="target" value="{{ .Permalink }}" type="hidden">
-      <input value="Send Webmention" type="submit">
-    </form>
+      <form action="https://webmention.io/hacdias.com/webmention" method="post" class="inline-form">
+        <input aria-label="Webmention Source" name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
+        <input name="target" value="{{ .Permalink }}" type="hidden">
+        <input value="Send Webmention" type="submit">
+      </form>
 
-    <form method="get" action="https://quill.p3k.io/" target="_blank">
-      <input type="hidden" name="dontask" value="1">
-      <input type="hidden" name="me" value="https://commentpara.de/">
-      <input type="hidden" name="reply" value="{{ .Permalink }}">
-      <input type="submit" value="Write a comment">
-    </form>
+      <form method="get" action="https://quill.p3k.io/" target="_blank">
+        <input type="hidden" name="dontask" value="1">
+        <input type="hidden" name="me" value="https://commentpara.de/">
+        <input type="hidden" name="reply" value="{{ .Permalink }}">
+        <input type="submit" value="Write a comment">
+      </form>
 
-    {{ if not (eq $count 0) }}
-    <div class='contents'>
-      {{ range $i, $wm := $data.Webmentions }}
-        {{ if not (index . "wm-private") }}
-          <div class="h-cite">
-            <span class="p-author h-card">
-              <img alt="{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
-              <a rel="noopener noreferrer" target="_blank" class="p-name u-url nl" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
-            {{ $type := index . "post-type" }}
-            {{ if eq $type "like" }}
-            liked this post.
-            {{ else if eq $type "repost" }}
-            reposted this.
-            {{ else if and (eq $type "reply") .content }}
-            said: <span class="e-content p-name">{{ truncate .content 300 }}</span>
-            {{ else }}
-              {{ with .content }}
-                said: <span class="e-content p-name">{{ truncate . 300 }}</span>
+      {{ if not (eq $count 0) }}
+      <div class='contents'>
+        {{ range $i, $wm := $data.Webmentions }}
+          {{ if not (index . "wm-private") }}
+            <div class="h-cite">
+              <span class="p-author h-card">
+                <img alt="{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
+                <a rel="noopener noreferrer" target="_blank" class="p-name u-url nl" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
+              {{ $type := index . "post-type" }}
+              {{ if eq $type "like" }}
+              liked this post.
+              {{ else if eq $type "repost" }}
+              reposted this.
+              {{ else if and (eq $type "reply") .content }}
+              said: <span class="e-content p-name">{{ truncate .content 300 }}</span>
               {{ else }}
-                mentioned this on <a rel="noopener noreferrer" target="_blank" href="{{ .url }}">{{ domain .url }}</a>.
+                {{ with .content }}
+                  said: <span class="e-content p-name">{{ truncate . 300 }}</span>
+                {{ else }}
+                  mentioned this on <a rel="noopener noreferrer" target="_blank" href="{{ .url }}">{{ domain .url }}</a>.
+                {{ end }}
               {{ end }}
-            {{ end }}
-            {{- with .published }} — <a rel="noopener noreferrer" target="_blank" href="{{ $wm.url }}" class="u-url date nl">{{ dateFormat . "02 Jan 2006 15:04" }} </a>{{ end }}
-          </div>
+              {{- with .published }} — <a rel="noopener noreferrer" target="_blank" href="{{ $wm.url }}" class="u-url date nl">{{ dateFormat . "02 Jan 2006 15:04" }} </a>{{ end }}
+            </div>
+          {{ end }}
         {{ end }}
+      </div>
       {{ end }}
-    </div>
-    {{ end }}
-  </details>
+    </details>
+
+  {{ end }}
 {{ end }}

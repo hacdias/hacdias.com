@@ -20,8 +20,10 @@
       </ul>
     </div>
 
-    {{ include "single/footer" . }}
+    {{ include "post/footer" . }}
   </article>
+
+  {{ include "post/webmentions" . }}
 </main>
 
 {{ end }}

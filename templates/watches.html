@@ -29,8 +29,10 @@
       <p>Watches summary is not available at the moment.</p>
     {{ end }}
 
-    {{ include "single/footer" . }}
+    {{ include "post/footer" . }}
   </article>
+
+  {{ include "post/webmentions" . }}
 </main>
 
 {{ end }}

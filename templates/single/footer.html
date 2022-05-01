@@ -1,7 +1,0 @@
-{{ define "single/footer" }}
-  {{ include "post/footer" . }}
-
-  {{ if not .Entry.NoShowInteractions }}
-    {{ include "post/webmentions" . }}
-  {{ end }}
-{{ end }}

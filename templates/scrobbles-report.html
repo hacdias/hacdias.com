@@ -25,7 +25,7 @@
       .container {
         background: var(--background);
       }
-    
+
       .table-toggle + table tr:nth-of-type(1n+12) {
         display: none;
       }
@@ -83,7 +83,7 @@
       <h2 id="artists">Artists 🎤</h2>
 
       <input class="table-toggle dn" id="top-artists" type="checkbox" />
-      
+
       <table>
         <tr>
           <th>Artist</th>
@@ -111,7 +111,7 @@
       <h2 id="tracks">Tracks 🎶</h2>
 
       <input class="table-toggle dn" id="top-tracks" type="checkbox" />
-      
+
       <table>
         <tr>
           <th>Name</th>
@@ -137,9 +137,9 @@
       </p>
 
       <h2 id="albums">Albums 💿</h2>
-      
+
       <input class="table-toggle dn" id="top-albums" type="checkbox" />
-      
+
       <table>
         <tr>
           <th>Name</th>
@@ -176,7 +176,7 @@
     </div>
 
     <script type="text/javascript" src="/chart.js"></script>
- 
+
     <script>
     const data = {
       listeningClock: JSON.parse("{{ asJSON $stats.listeningClock }}"),
@@ -230,9 +230,11 @@
       }
     );
     </script>
- 
-    {{ include "single/footer" . }}
+
+    {{ include "post/footer" . }}
   </article>
+
+  {{ include "post/webmentions" . }}
 </main>
 
 {{ end }}
