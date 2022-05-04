@@ -45,12 +45,6 @@
   ],
   "reading": [
     {
-      "id": "/reads/isbn/9781846276842",
-      "date": "2022-05-03T20:57:04.958637+02:00",
-      "name": "Convenience Store Woman",
-      "author": "Sayaka Murata"
-    },
-    {
       "id": "/reads/isbn/9781529302868",
       "date": "2022-04-09T22:28:48.585973+02:00",
       "name": "Short Stories in Dutch for Beginners",
@@ -797,6 +791,12 @@
           "date": "2022-01-26T21:13:15.710026+01:00",
           "name": "Before the coffee gets cold",
           "author": "Toshikazu Kawaguchi"
+        },
+        {
+          "id": "/reads/isbn/9781846276842",
+          "date": "2022-05-04T08:43:33.684533+02:00",
+          "name": "Convenience Store Woman",
+          "author": "Sayaka Murata"
         },
         {
           "id": "/reads/isbn/9781444952797",
