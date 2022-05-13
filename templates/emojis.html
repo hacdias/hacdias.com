@@ -1,0 +1,32 @@
+{{ define "main" }}
+  <main role='main'>
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    {{- with .Content }}
+      <div class='copy'>{{ md . }}</div>
+    {{- end }}
+
+    <style>
+      .terms a,
+      .terms a:visited {
+        font-size: 1.5rem;
+        padding: .5rem;
+      }
+    </style>
+
+    <div class="terms">
+      <ul>
+        {{ range .Data.Terms }}
+          <li>
+            <a href="{{ relURL (printf "/emojis/%s" .) }}">{{ . }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+{{ end }}
+
+{{ define "emojis" }}
+  {{ template "base" . }}
+{{ end }}
