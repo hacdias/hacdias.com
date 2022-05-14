@@ -40,6 +40,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [🗞 Blogroll](/blogroll)
 - [⚙️ Colophon](/colophon)
 - [✉️ Contact](/contact)
+- [😎 Emojis](/emojis)
 - [✍️ Guestbook](/guestbook)
 - [🚀 Impossible List](/impossible-list)
 - [🎓 Resume](/resume)
