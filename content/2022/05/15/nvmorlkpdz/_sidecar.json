@@ -1,0 +1,26 @@
+{
+  "targets": [
+    "https://jan.boddez.net/notes/9dc490c447",
+    "https://aaronparecki.com/2017/02/20/6/day-62-emoji"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan Boddez",
+      "photo": "https://cdn.hacdias.com/wm/fce1504803e26e4bc97a7287c9e947699c7874ba2b74e6fbda1648d3bd70ee3b.jpg",
+      "type": "card",
+      "url": "https://jan.boddez.net/"
+    },
+    "bookmark-of": [
+      "https://hacdias.com/2022/05/14/bxvmqqphrs"
+    ],
+    "content": "These “emoji” archives are kind of cool! Reminded me of Aaron Parecki’s avatars, that reflect any emoji present in his notes. (Turns out, of course, Aaron has an actual emoji archive, too. 😊)",
+    "post-type": "bookmark",
+    "published": "2022-05-15T14:46:25+02:00",
+    "syndication": [
+      "https://geekcompass.com/@jan/108306026887801147"
+    ],
+    "type": "entry",
+    "url": "https://jan.boddez.net/notes/9dc490c447"
+  },
+  "webmentions": []
+}
