@@ -20,7 +20,8 @@
         </a>
       </span>
     {{ else }}
-      {{ if eq ($sub.String "is") "theatre" }}🎭{{ else }}🎬{{ end }}
+      {{ $is := ($sub.String "is")}}
+      {{ if eq $is "theatre" }}🎭{{ else if eq $is "concert" }}🎤{{ else }}🎬{{ end }}
       Watched
       <span class="u-watch-of h-cite">
         <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
