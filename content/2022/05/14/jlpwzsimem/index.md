@@ -7,6 +7,7 @@ section:
 createdWith: https://hacdias.com/
 properties:
   location: /2022/05/14/gnpuobsyft
+  photo: https://cdn.hacdias.com/u/f9cbba9f86d0ab80118d3e703b849e829169049f8954cbaae5b3836dea977b77.webp
   watch-of:
     properties:
       is: concert
