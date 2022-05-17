@@ -20,13 +20,26 @@
         </a>
       </span>
     {{ else }}
-      {{ $is := ($sub.String "is")}}
-      {{ if eq $is "theatre" }}🎭{{ else if eq $is "concert" }}🎤{{ else }}🎬{{ end }}
+      {{ if containsString $.Tags "concert" -}}
+        🧑‍🎤
+      {{- else if containsString $.Tags "theatre" -}}
+        🎭 
+      {{- else -}}
+        🎬
+      {{- end }}
+      
       Watched
       <span class="u-watch-of h-cite">
         <a target="_blank" rel="noopener noreferrer" href="{{ $sub.String "url" }}" class="u-url">
           <strong><span class="p-name">{{ $sub.Name }}</span></strong>
         </a>
+
+        {{ with $sub.String "author" }}
+          by
+          <span class="u-author h-card">
+            <strong><span class="p-name">{{ . }}</span></strong>
+          </span>
+        {{ end }}
       </span>
     {{ end }}
   </div>
