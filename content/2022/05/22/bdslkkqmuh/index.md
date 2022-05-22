@@ -1,5 +1,5 @@
 ---
-description: 'Just watched: MØ by MØ'
+description: 'Just watched: MØ Tour 2022 by MØ'
 draft: true
 published: 2022-05-22T20:00:07.04259847+02:00
 section:
@@ -13,7 +13,7 @@ properties:
   watch-of:
     properties:
       author: MØ
-      name: MØ
+      name: MØ Tour 2022
     type: h-cite
 ---
 
