@@ -25,6 +25,33 @@
       "wm-received": "2022-03-14T07:28:01Z",
       "wm-source": "https://jlelse.blog/micro/2022/03/2022-03-14-rnglb",
       "wm-target": "https://hacdias.com/2022/03/14/fvdhcnnbur"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
+        "type": "card",
+        "url": "https://hacdias.com/"
+      },
+      "content": "As soon of you might know, I moved my e-mail to Migadu back in March. At the time I contacted the staff at Migadu about calendar and contacts support and I was told that it would be supported within two months. It’s been over two months and I tried to reach the support twice. No replies whatsoever.I might move to Fastmail.",
+      "mention-of": "https://hacdias.com/2022/03/14/fvdhcnnbur",
+      "post-type": "mention",
+      "published": "2022-05-26T15:10:00+02:00",
+      "rels": {
+        "canonical": "https://hacdias.com/2022/05/26/spuwqacmmf"
+      },
+      "summary": {
+        "content-type": "text/plain",
+        "value": "As soon of you might know, I moved my e-mail to Migadu back in March. At the time I contacted the staff at Migadu about calendar and contacts support and I was told that it would be supported within two months. It's been over two months and I tried to reach the support twice. No replies whatsoever.…"
+      },
+      "type": "entry",
+      "url": "https://hacdias.com/2022/05/26/spuwqacmmf",
+      "wm-id": 1404944,
+      "wm-private": false,
+      "wm-property": "mention-of",
+      "wm-received": "2022-05-26T13:10:02Z",
+      "wm-source": "https://hacdias.com/2022/05/26/spuwqacmmf",
+      "wm-target": "https://hacdias.com/2022/03/14/fvdhcnnbur"
     }
   ]
 }
