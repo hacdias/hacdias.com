@@ -1,5 +1,6 @@
 ---
 description: 'Want to read: The Master and Margarita by Mikhail Bulgakov, ISBN: 9781847497826'
+deleted: true
 published: 2021-07-31T13:10:00Z
 section:
 - reads
