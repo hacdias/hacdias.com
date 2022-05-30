@@ -33,12 +33,6 @@
   ],
   "reading": [
     {
-      "id": "/reads/isbn/9781783785698",
-      "date": "2022-05-28T23:27:40.997026+02:00",
-      "name": "Earthlings",
-      "author": "Sayaka Murata"
-    },
-    {
       "id": "/reads/isbn/9781529302868",
       "date": "2022-04-09T22:28:48.585973+02:00",
       "name": "Short Stories in Dutch for Beginners",
@@ -790,6 +784,12 @@
           "id": "/reads/isbn/9781846276842",
           "date": "2022-05-04T08:43:33.684533+02:00",
           "name": "Convenience Store Woman",
+          "author": "Sayaka Murata"
+        },
+        {
+          "id": "/reads/isbn/9781783785698",
+          "date": "2022-05-30T18:42:58.414602+02:00",
+          "name": "Earthlings",
           "author": "Sayaka Murata"
         },
         {
