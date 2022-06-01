@@ -4,6 +4,30 @@
   "webmentions": [
     {
       "author": {
+        "name": "Wouter Groeneveld",
+        "photo": "https://cdn.hacdias.com/wm/d7fcd5e22604fcb986f4b249259a2a0b91ac867230c20f72e4563485e1c9d75d.jpg",
+        "type": "card",
+        "url": "https://brainbaking.com/"
+      },
+      "content": "Small and independent blogs are always full of surprises. The more blogs I stumble upon, the more genuinely surprised I am by the things people do with their blogs. It seemed like a good idea to summarize highlights here. I hope it might inspire non-bloggers to blog and bloggers to tinker more with their site—because obviously the tinkering never ends! I randomly selected blogs for each thing. There are ample other sites that use that particular feature, but I had to start somewhere. Some blogs appear muiltple times, probably making them even funkier! This list is incomplete, I’ll try to periodically update it as I encounter more cool stuff. Enjoy! Content related Publish reviews of books/music/… in a cool sortable grid: Chris Burnell’s Music Hack together your own last.fm to scrobble music to your own site: Jan Boddez' Owning My Scrobbles Sync your laptop battery, local weather, and current location with your site: Aaron Parecki’s homepage Publicly display global website statistics: Luke Harris' stats page More stats: game playtime, AWStats server data: Roy Tang’s stats Create and regularly update a “uses” page: Ru Singh' uses page Create and regularly update a “now” page: Derek Sivers' the /now page movement Auto-import game metadata from How Long To Beat and others: Jefklak’s Codex games page Use your own site to publish checkins instead of Foursquare: Henrique Dias' checkins Regularly publish week reviews or link bundles: Stefan Imhoff’s Link Bundle #15 Have an “on this day” page that displays posts from previous years: Frank Meeuwsen’s on this day archive Group multiple posts into series: Amos' long-form series Group multiple posts into research questions: Emmanuel Quartey’s questions section Syndicate the HTTP blog to a Gemini capsule: Brain Baking Gemini (defunct) Design related Create an official coat of arms as the logo of your site: Marijn Florence’s heraldry adventure Design your site around ever-evolving note-taking systems: Andy Matuschak’s Evergreen Notes An audible frequency graph that determines posting activity: Chris Burnells' All posts archive Write a custom static blog engine from scratch, because we can: Jan-Lukas Else’s blog Implement a simple client-site search using lunr.js: Brain Baking archives Show articles from others blogs you read below your own articles: an article from Drew DeVault Use a public inbox as a commenting system: an article from Drew DeVault Implement reaction buttons for each post: Jan-Lukas Else’s thoughts on reactions IndieWeb related Have a guestbook page where people can send Webmentions to to sign it: Ana Rodrigues' guestbook Collaborative pixel-art that gets saved every five minutes: Aaron Parecki’s IndieWebCamp Pixel Art Publish replies to others' sites using Webmentions: James' Coffee Blog, Replies Post Tweets on your own site first, then syndicate to Twitter: Sebastiaan Andeweg’s tweets Summarize all IndieWeb-based RSVP events in a calendar: Jamie Tanna’s RSVPs Work together on MicroPub/Sub as a new social reading protocol: Neal Mather’s blog Join the IndieWeb ring to promote own and others' sites: Horst Gutmann’s blog Buuild a custom Webmention receiver/sender: IndieWeb examples RSS related Provide multiple RSS feeds for notes, articles, etc: Ton Zijlstra’s feeds Automatic publishing of favorites from an RSS reader: Peter Rukavina’s favorites Styled OPML Blogrolls that can be imported into your reader: Ruben Schade’s Omake OPML Styled RSS feeds to better explain what a web feed is: Matt Webb’s RSS feed A “Reply via email” link in each RSS post to encourage interaction: Mike Harley’s RSS feed Secret RSS-only posts that do not appear on the webiste: Ton Zĳlstra’s RSS feed Send out newsletters based on your RSS feed: Kev Quirk is newslettering again (defunct) Add the location from where you write to your RSS feed: Ruben Schade’s RSS feed",
+      "mention-of": "https://hacdias.com/checkins",
+      "name": "Cool Things People Do With Their Blogs",
+      "post-type": "mention",
+      "published": "2022-04-27T00:00:00Z",
+      "rels": {
+        "canonical": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/"
+      },
+      "type": "entry",
+      "url": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/",
+      "wm-id": 1387829,
+      "wm-private": false,
+      "wm-property": "mention-of",
+      "wm-received": "2022-04-27T15:38:07Z",
+      "wm-source": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/",
+      "wm-target": "https://hacdias.com/checkins"
+    },
+    {
+      "author": {
         "name": "Henrique Dias",
         "photo": "https://cdn.hacdias.com/wm/df280a6a00d9d8e4cd4e0e1647c477f51854f80b3337007e5d9ecb049d0f304d.jpg",
         "type": "card",
@@ -28,26 +52,30 @@
     },
     {
       "author": {
-        "name": "Wouter Groeneveld",
-        "photo": "https://cdn.hacdias.com/wm/d7fcd5e22604fcb986f4b249259a2a0b91ac867230c20f72e4563485e1c9d75d.jpg",
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
         "type": "card",
-        "url": "https://brainbaking.com/"
+        "url": "https://hacdias.com/"
       },
-      "content": "Small and independent blogs are always full of surprises. The more blogs I stumble upon, the more genuinely surprised I am by the things people do with their blogs. It seemed like a good idea to summarize highlights here. I hope it might inspire non-bloggers to blog and bloggers to tinker more with their site—because obviously the tinkering never ends! I randomly selected blogs for each thing. There are ample other sites that use that particular feature, but I had to start somewhere. Some blogs appear muiltple times, probably making them even funkier! This list is incomplete, I’ll try to periodically update it as I encounter more cool stuff. Enjoy! Content related Publish reviews of books/music/… in a cool sortable grid: Chris Burnell’s Music Hack together your own last.fm to scrobble music to your own site: Jan Boddez' Owning My Scrobbles Sync your laptop battery, local weather, and current location with your site: Aaron Parecki’s homepage Publicly display global website statistics: Luke Harris' stats page More stats: game playtime, AWStats server data: Roy Tang’s stats Create and regularly update a “uses” page: Ru Singh' uses page Create and regularly update a “now” page: Derek Sivers' the /now page movement Auto-import game metadata from How Long To Beat and others: Jefklak’s Codex games page Use your own site to publish checkins instead of Foursquare: Henrique Dias' checkins Regularly publish week reviews or link bundles: Stefan Imhoff’s Link Bundle #15 Have an “on this day” page that displays posts from previous years: Frank Meeuwsen’s on this day archive Group multiple posts into series: Amos' long-form series Group multiple posts into research questions: Emmanuel Quartey’s questions section Syndicate the HTTP blog to a Gemini capsule: Brain Baking Gemini (defunct) Design related Create an official coat of arms as the logo of your site: Marijn Florence’s heraldry adventure Design your site around ever-evolving note-taking systems: Andy Matuschak’s Evergreen Notes An audible frequency graph that determines posting activity: Chris Burnells' All posts archive Write a custom static blog engine from scratch, because we can: Jan-Lukas Else’s blog Implement a simple client-site search using lunr.js: Brain Baking archives Show articles from others blogs you read below your own articles: an article from Drew DeVault Use a public inbox as a commenting system: an article from Drew DeVault Implement reaction buttons for each post: Jan-Lukas Else’s thoughts on reactions IndieWeb related Have a guestbook page where people can send Webmentions to to sign it: Ana Rodrigues' guestbook Collaborative pixel-art that gets saved every five minutes: Aaron Parecki’s IndieWebCamp Pixel Art Publish replies to others' sites using Webmentions: James' Coffee Blog, Replies Post Tweets on your own site first, then syndicate to Twitter: Sebastiaan Andeweg’s tweets Summarize all IndieWeb-based RSVP events in a calendar: Jamie Tanna’s RSVPs Work together on MicroPub/Sub as a new social reading protocol: Neal Mather’s blog Join the IndieWeb ring to promote own and others' sites: Horst Gutmann’s blog Buuild a custom Webmention receiver/sender: IndieWeb examples RSS related Provide multiple RSS feeds for notes, articles, etc: Ton Zijlstra’s feeds Automatic publishing of favorites from an RSS reader: Peter Rukavina’s favorites Styled OPML Blogrolls that can be imported into your reader: Ruben Schade’s Omake OPML Styled RSS feeds to better explain what a web feed is: Matt Webb’s RSS feed A “Reply via email” link in each RSS post to encourage interaction: Mike Harley’s RSS feed Secret RSS-only posts that do not appear on the webiste: Ton Zĳlstra’s RSS feed Send out newsletters based on your RSS feed: Kev Quirk is newslettering again (defunct) Add the location from where you write to your RSS feed: Ruben Schade’s RSS feed",
+      "content": "May was a loooong month in the sense that a lot happened. It is crazy to think that we’re now starting the sixth month of 2022, which means that we’re nearing the first semester of this year. It feels like it just started.With time, I’ve been logging more and more things in this website, from movies I watch, to places I’ve been and even concerts. Sometimes I feel like it isn’t worth it to write a “month in review” since everything is on my website already. However, here am I!MoviesI watched both “Downton Abbey: A New Era” and “Everything Everywhere All At Once” in the cinema in May. Both were incredible in their own ways. I would recommend anyone that followed the Downton Abbey series to watch the movie. It gives a nice continuation, and ending, to the story we’ve all been looking for.Regarding the second movie whose title is very large - “Everything Everywhere All At Once” -, I recommend it to everyone. This is a movie that surpassed my expectations and I cannot believe how little people were involved in the realisation of this movie compared to other big-name movies.PlacesI’ve been in many places last month: Brussels, Rotterdam, Amsterdam, Nijmegen, somewhere in Zeeland and I wouldn’t be surprised if I missed some place. I was fortunate to see Marina’s concert in Brussels and MØ’s in Amsterdam. I also had a Charli XCX concert planned for last weekend but, sadly, it was canceled.ThesisMy thesis has been progressing quite well in my opinion which is making me really happy. I will, however, aim to defend it in September only as it would be quite tight to do it before everyone goes for holidays in August. There’s no rush either. I hope I can deliver a successful and meaningful presentation.It was a really really good month. I hope you also had a great May and that June will bring happiness! Also, Happy Pride Month 🏳️‍🌈",
       "mention-of": "https://hacdias.com/checkins",
-      "name": "Cool Things People Do With Their Blogs",
+      "name": "Recently in May '22",
       "post-type": "mention",
-      "published": "2022-04-27T00:00:00Z",
+      "published": "2022-06-01T16:08:21+02:00",
       "rels": {
-        "canonical": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/"
+        "canonical": "https://hacdias.com/2022/06/01/may-22"
+      },
+      "summary": {
+        "content-type": "text/plain",
+        "value": "May was a loooong month in the sense that a lot happened. It is crazy to think that we're now starting the sixth month of 2022, which means that we're nearing the first semester of this year. It feels like it just started."
       },
       "type": "entry",
-      "url": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/",
-      "wm-id": 1387829,
+      "url": "https://hacdias.com/2022/06/01/may-22",
+      "wm-id": 1408001,
       "wm-private": false,
       "wm-property": "mention-of",
-      "wm-received": "2022-04-27T15:38:07Z",
-      "wm-source": "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/",
+      "wm-received": "2022-06-01T14:17:46Z",
+      "wm-source": "https://hacdias.com/2022/06/01/may-22",
       "wm-target": "https://hacdias.com/checkins"
     }
   ]
