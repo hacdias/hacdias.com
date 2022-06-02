@@ -1,0 +1,62 @@
+{
+  "targets": [
+    "https://twitter.com/tiagoadionisio/status/1532253461122846721"
+  ],
+  "context": {
+    "author": {
+      "bio": "24 | PhD - UGent🇧🇪 | Disney fan | 🏳️‍🌈",
+      "location": "Ghent, Belgium ",
+      "name": "Tiago",
+      "nickname": "tiagoadionisio",
+      "photo": "https://cdn.hacdias.com/wm/01c0c7e8cee723723f46287a2dec4b2590345b796c96e3d92c1a2da20238a6a2.jpg",
+      "type": "card",
+      "url": "https://twitter.com/tiagoadionisio"
+    },
+    "content": "Os alunos podem usar corretor e comer durante o exame. Damn.",
+    "post-type": "note",
+    "published": "2022-06-02T06:51:07Z",
+    "type": "entry",
+    "url": "https://twitter.com/tiagoadionisio/status/1532253461122846721"
+  },
+  "webmentions": [
+    {
+      "author": {
+        "name": "Tiago",
+        "photo": "https://cdn.hacdias.com/wm/2ef444b1bef495b6ff39189580c2523c38ecd7f948e75a5ffc1f9117833f10ca.jpg",
+        "type": "card",
+        "url": "https://twitter.com/tiagoadionisio"
+      },
+      "content": "A definição de: \"right in front of my salad\". Se isto fosse na tugalandia era tudo a trazer croquetes e rissois para os exames 😂😂",
+      "in-reply-to": "https://hacdias.com/2022/06/02/axgqgjnjwl",
+      "post-type": "reply",
+      "published": "2022-06-02T08:55:34Z",
+      "type": "entry",
+      "url": "https://twitter.com/tiagoadionisio/status/1532284778862493696",
+      "wm-id": 1408420,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-02T09:39:28Z",
+      "wm-source": "https://brid.gy/comment/twitter/hacdias/1532282297390710784/1532284778862493696",
+      "wm-target": "https://hacdias.com/2022/06/02/axgqgjnjwl"
+    },
+    {
+      "author": {
+        "name": "Tiago",
+        "photo": "https://cdn.hacdias.com/wm/2ef444b1bef495b6ff39189580c2523c38ecd7f948e75a5ffc1f9117833f10ca.jpg",
+        "type": "card",
+        "url": "https://twitter.com/tiagoadionisio"
+      },
+      "like-of": "https://hacdias.com/2022/06/02/axgqgjnjwl",
+      "post-type": "like",
+      "published": "2022-06-02T09:39:28Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1532282297390710784#favorited-by-363137915",
+      "wm-id": 1408421,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-06-02T09:39:28Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1532282297390710784/363137915",
+      "wm-target": "https://hacdias.com/2022/06/02/axgqgjnjwl"
+    }
+  ]
+}
