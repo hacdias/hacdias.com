@@ -1,7 +1,7 @@
 ---
 title: YubiKey Setup for GPG, SSH and 2FA
 published: 2021-10-17T15:13:25.51356269Z
-updated: 2021-10-17T15:17:58.78566212Z
+updated: 2022-06-04T12:48:59.992786835+02:00
 section:
 - articles
 properties:
@@ -39,7 +39,7 @@ Last, but not least, I **publish** my GPG public keys to:
 
 ## 💻 SSH {#ssh}
 
-Currently, I use SSH via GPG. To achieve this, I follow the guide mentioned [above](#gpg). In the future, however, I am planning to change my setup to non-resident, FIDO2 keys. As of the date of this post, not enough places support them yet to make me change.
+Since [4th of July of 2022](/2022/06/04/jwyyzqzivx) I stopped using SSH via GPG. Now, I use non-resident, FIDO2 keys.
 
 ## 🔥 2FA {#2fa}
 
