@@ -60,3 +60,7 @@ gpg --armor --export $KEYID > pubkey.txt
 ```
 
 Do not forget to publish changes.
+
+### Renew
+
+Check guide above.
