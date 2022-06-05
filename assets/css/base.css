@@ -69,6 +69,13 @@ code, kbd, samp, pre {
     monospace;
 }
 
+code {
+  font-size: var(--f6);
+  border-radius: var(--radius);
+  padding: 0.075rem 0.1rem;
+  background: var(--near-white);
+}
+
 svg,
 video,
 img {
