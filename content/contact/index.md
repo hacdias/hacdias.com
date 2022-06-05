@@ -32,6 +32,7 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 - 📷 [Instagram (@hacdias)](https://instagram.com/hacdias)
 - 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
 - 💼 [LinkedIn (@hacdias)](https://linkedin.com/in/hacdias)
+- 🤖 [Discord (hacdias#2540)](https://discord.com/users/hacdias#2540)
 
 ## PGP 🗝
 
