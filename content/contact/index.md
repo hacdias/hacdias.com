@@ -9,7 +9,7 @@ If you need to reach me directly, please try one of the following:
 - ✉️ E-mail as [mail@hacdias.com](mailto:mail@hacdias.com)
 - ☎️ Telegram as [@hacdias](https://t.me/hacdias)
 - 🤖 Discord as `hacdias#2540`
-<!-- - ✨ Matrix as `@hacdias:tchncs.de` -->
+- ✨ Matrix as `@hacdias:tchncs.de`
 
 ## Elsewhere 🕸 {#elsewhere}
 
