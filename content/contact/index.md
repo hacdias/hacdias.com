@@ -4,10 +4,21 @@ noShowInteractions: true
 noSendInteractions: true
 ---
 
-If you need to reach me directly:
+If you need to reach me directly, please try one of the following:
 
-- ☎️ [Telegram (@hacdias)](https://t.me/hacdias)
-- ✉️ [E-mail (mail@hacdias.com)](mailto:mail@hacdias.com)
+- ✉️ E-mail as [mail@hacdias.com](mailto:mail@hacdias.com)
+- ☎️ Telegram as [@hacdias](https://t.me/hacdias)
+- 🤖 Discord as `hacdias#2540`
+<!-- - ✨ Matrix as `@hacdias:tchncs.de` -->
+
+## Elsewhere 🕸 {#elsewhere}
+
+My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:
+
+- 🐙 [GitHub (@hacdias)](https://github.com/hacdias)
+- 📷 [Instagram (@hacdias)](https://instagram.com/hacdias)
+- 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
+- 💼 [LinkedIn (@hacdias)](https://linkedin.com/in/hacdias)
 
 ## Follow 🗞
 
@@ -23,16 +34,6 @@ All pages that list posts, such as [micro](/micro/) and [articles](/articles/), 
   - **JSON Feed**: [https://hacdias.com/.json](/.json)
 
 </div>
-
-## Elsewhere 🕸 {#elsewhere}
-
-My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:
-
-- 🐙 [GitHub (@hacdias)](https://github.com/hacdias)
-- 📷 [Instagram (@hacdias)](https://instagram.com/hacdias)
-- 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
-- 💼 [LinkedIn (@hacdias)](https://linkedin.com/in/hacdias)
-- 🤖 [Discord (hacdias#2540)](https://discord.com/users/hacdias#2540)
 
 ## PGP 🗝
 
