@@ -3,7 +3,7 @@
   margin-bottom: 1rem;
   overflow: hidden;
   border-radius: var(--radius);
-  border: 1px solid var(--light-white);
+  border: var(--border) solid var(--near-white);
 }
 
 .card header,
@@ -39,8 +39,8 @@
 }
 
 .card .ibox .type {
-  top: -1px;
-  right: -1px;
+  top: calc(-1 * var(--border));
+  right: calc(-1 * var(--border));
   background: var(--white);
   border-radius: 0;
   border-bottom-left-radius: 50%;
