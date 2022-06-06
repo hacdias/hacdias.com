@@ -3,6 +3,10 @@
   {{ $sub := $mm.Sub $mm.TypeProperty }}
   {{ $subs := $mm.Subs $mm.TypeProperty }}
 
+  {{ with .TryFiles "map.png" "map.jpeg" }}
+    <img src="{{ relURL . }}" class="db u-photo">
+  {{ end }}
+
   {{ range $subs }}
   <div class="ibox p-itinerary h-leg">
     {{ $transitType := .String "transit-type" }}
@@ -41,9 +45,5 @@
       </small>
     </p>
   </div>
-  {{ end }}
-
-  {{ with .TryFiles "map.png" "map.jpeg" }}
-    {{ figure . "Map" true }}
   {{ end }}
 {{ end }}

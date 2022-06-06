@@ -11,12 +11,12 @@
       <div class='copy e-content'>{{ md . }}</div>
     {{ end }}
 
+    {{ include "post/photos" . }}
+    {{ include "post/footer" . }}
+
     {{ with .DisplayDescription }}
       <p class='dn p-summary'>{{ . }}</p>
     {{ end }}
-
-    {{ include "post/photos" . }}
-    {{ include "post/footer" . }}
   </article>
 
   {{ include "post/webmentions" . }}
