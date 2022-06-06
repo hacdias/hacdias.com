@@ -2,7 +2,7 @@
   {{ if .IsLoggedIn }}
     {{ $visibility := .Visibility }}
     {{ if or .Draft .Deleted (ne $visibility "public") }}
-      <p style="margin-top: 0">
+      <p class="copy">
         {{ if eq $visibility "private" }}
           {{ $audience := .Audience }}
           <span class="tag">
@@ -32,10 +32,8 @@
   {{ if eq $type "reply" }}
     {{ include "post/embedded" . }}
   {{ else if eq $type "like" }}
-    <p style="margin-top: 0">❤️ Liked</p>
     {{ include "post/embedded" . }}
   {{ else if eq $type "repost" }}
-    <p style="margin-top: 0">📢 Reposted</p>
     {{ include "post/embedded" . }}
   {{ else if eq $type "bookmark" }}
     {{ include "post/bookmark" . }}
@@ -81,6 +79,6 @@
   {{ end }}
 
   {{ with $mf2.Int "rating" }}
-    <p><data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ stars . 5 }}</data></p>
+    <p class="copy"><data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ stars . 5 }}</data></p>
   {{ end }}
 {{ end }}

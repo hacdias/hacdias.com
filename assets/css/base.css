@@ -438,6 +438,7 @@ details summary {
   padding: 1rem;
   border-radius: var(--radius);
   margin: 1rem 0;
+  position: relative;
 }
 
 .ibox .e-content {
@@ -450,6 +451,23 @@ details summary {
 
 .ibox .p-author .p-name {
   font-weight: bold;
+}
+
+.ibox .type {
+  position: absolute;
+  top: -0.5rem;
+  right: -0.5rem;
+  background: var(--white);
+  border: 1px solid var(--light-white);
+  border-radius: 50%;
+  font-size: var(--f6);
+  text-align: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
 }
 
 .tag {

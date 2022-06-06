@@ -1,15 +1,19 @@
 .card {
   position: relative;
   margin-bottom: 1rem;
-  padding: var(--box-padding);
+  overflow: hidden;
   border-radius: var(--radius);
-  border: var(--border) solid var(--near-white);
+  border: 1px solid var(--light-white);
 }
 
-.card .copy p:first-of-type,
-.card .ibox,
+.card header,
+.card .ibox {
+  margin: 0;
+  border-radius: 0;
+}
+
 .card h3 {
-  margin-top: 0;
+  margin-top: 0.6em;
 }
 
 .card h3 {
@@ -23,16 +27,21 @@
   margin-left: 0;
 }
 
+.card header,
+.card > .copy,
 .card footer {
-  margin-bottom: 0;
-}
-
-.card header {
-  margin: 0 0 1rem 0;
+  padding: 0 var(--box-padding);
 }
 
 .card .more {
-  color: var(--light-gray);
   text-align: center;
   font-weight: 700;
+}
+
+.card .ibox .type {
+  top: -1px;
+  right: -1px;
+  background: var(--white);
+  border-radius: 0;
+  border-bottom-left-radius: 50%;
 }
