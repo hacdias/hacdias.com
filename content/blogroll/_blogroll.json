@@ -192,6 +192,12 @@
     "category": "following"
   },
   {
+    "title": "Jef Roosens",
+    "site": "https://rustybever.be/",
+    "feed": "https://rustybever.be/index.xml",
+    "category": "following"
+  },
+  {
     "title": "Jethro Kuan",
     "site": "https://blog.jethro.dev/",
     "feed": "https://blog.jethro.dev/index.xml",
