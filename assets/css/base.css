@@ -436,8 +436,7 @@ details summary {
   display: block;
   background-color: var(--near-white);
   padding: 1rem;
-  border-radius: var(--radius);
-  margin: 1rem 0;
+  margin: 0;
   position: relative;
 }
 
@@ -455,11 +454,8 @@ details summary {
 
 .ibox .type {
   position: absolute;
-  top: -0.5rem;
-  right: -0.5rem;
   background: var(--white);
   border: var(--border) solid var(--near-white);
-  border-radius: 50%;
   font-size: var(--f6);
   text-align: center;
   width: 1.5rem;
@@ -468,6 +464,9 @@ details summary {
   justify-content: center;
   align-items: center;
   margin: 0;
+  top: calc(-1 * var(--border));
+  right: calc(-1 * var(--border));
+  border-bottom-left-radius: 50%;
 }
 
 .tag {

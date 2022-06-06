@@ -6,17 +6,13 @@
   border: var(--border) solid var(--near-white);
 }
 
-.card header,
-.card .ibox {
+.card header {
   margin: 0;
   border-radius: 0;
 }
 
 .card h3 {
   margin-top: 0.6em;
-}
-
-.card h3 {
   text-align: left;
 }
 
@@ -36,12 +32,4 @@
 .card .more {
   text-align: center;
   font-weight: 700;
-}
-
-.card .ibox .type {
-  top: calc(-1 * var(--border));
-  right: calc(-1 * var(--border));
-  background: var(--white);
-  border-radius: 0;
-  border-bottom-left-radius: 50%;
 }

@@ -3,7 +3,7 @@
 
   {{ if not .IsListing }}
     {{ with .TryFiles "map.png" "map.jpeg" }}
-      <img src="{{ relURL . }}" class="br db">
+      <img src="{{ relURL . }}" class="db">
     {{ end }}
   {{ end }}
 
