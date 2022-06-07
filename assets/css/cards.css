@@ -3,7 +3,7 @@
   margin-bottom: 1rem;
   overflow: hidden;
   border-radius: var(--radius);
-  border: var(--border) solid var(--near-white);
+  border: var(--border) solid var(--light-white);
 }
 
 .card .ibox + .fw,

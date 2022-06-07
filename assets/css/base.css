@@ -12,7 +12,7 @@
   --black: #111;
   --dark-gray: #333;
   --light-gray: #888;
-  --light-white: #ddd;
+  --light-white: #EEEEEE;
   --near-white: #f4f4f4;
   --white: #ffffff;
 
@@ -435,7 +435,7 @@ details summary {
 .ibox {
   display: block;
   background-color: var(--near-white);
-  padding: 1rem;
+  padding: var(--box-padding);
   margin: 0;
   position: relative;
 }
@@ -450,6 +450,16 @@ details summary {
 
 .ibox .p-author .p-name {
   font-weight: bold;
+}
+
+.ibox.skinny {
+  padding: calc(0.5 * var(--box-padding)) var(--box-padding);
+  background: var(--light-white);
+  font-size: var(--f6);
+}
+
+.ibox.attrs > span:not(:last-child)::after {
+  content: ' •';
 }
 
 .ibox .type {

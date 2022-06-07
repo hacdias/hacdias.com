@@ -2,10 +2,10 @@
   {{ if .IsLoggedIn }}
     {{ $visibility := .Visibility }}
     {{ if or .Draft .Deleted (ne $visibility "public") }}
-      <p class="copy">
+      <div class="ibox skinny attrs">
         {{ if eq $visibility "private" }}
           {{ $audience := .Audience }}
-          <span class="tag">
+          <span>
           {{- if eq (len $audience) 0 -}}
             🔒 Logged In
           {{- else if containsString $audience .User -}}
@@ -17,12 +17,12 @@
           {{- end -}}
           </span>
         {{ else if eq $visibility "unlisted" }}
-          <span class="tag">🫥 Unlisted</span>
+          <span>😈 Unlisted</span>
         {{ end }}
 
-        {{ if .Draft }}<span class="tag">✏️ Draft</span>{{ end }}
-        {{ if .Deleted }}<span class="tag">🗑 Deleted</span>{{ end }}
-      </p>
+        {{ if .Draft }}<span>✏️ Draft</span>{{ end }}
+        {{ if .Deleted }}<span>🗑 Deleted</span>{{ end }}
+      </div>
     {{ end }}
   {{ end }}
 
