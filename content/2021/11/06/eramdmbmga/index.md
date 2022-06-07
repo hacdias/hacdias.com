@@ -3,6 +3,7 @@ description: At Augustijnenkerk
 published: 2021-11-06T20:12:41+01:00
 section:
 - checkins
+- photos
 properties:
   checkin:
     properties:

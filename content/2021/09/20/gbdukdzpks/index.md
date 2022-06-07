@@ -3,6 +3,7 @@ description: At Hubble Community Café
 published: 2021-09-20T12:14:03+02:00
 section:
 - checkins
+- photos
 properties:
   checkin:
     properties:

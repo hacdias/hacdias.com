@@ -4,6 +4,7 @@ published: 2022-01-25T08:46:30+01:00
 section:
 - health
 - drank
+- photos
 createdWith: https://teacup.p3k.io/
 properties:
   created: "2022-01-25T08:46:30+01:00"

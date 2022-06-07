@@ -3,6 +3,7 @@ description: At Dommelplantsoen
 published: 2021-11-01T15:30:30+01:00
 section:
 - checkins
+- photos
 properties:
   checkin:
     properties:

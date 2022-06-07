@@ -5,6 +5,7 @@ section:
 - health
 - ate
 - home
+- photos
 createdWith: https://micropublish.net/
 properties:
   ate:

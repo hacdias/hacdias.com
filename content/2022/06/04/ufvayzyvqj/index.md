@@ -4,6 +4,7 @@ published: 2022-06-04T15:25:25Z
 section:
 - health
 - drank
+- photos
 createdWith: https://micropublish.net/
 properties:
   drank:

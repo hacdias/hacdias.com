@@ -3,6 +3,7 @@ description: At Estação Ferroviária de Grândola
 published: 2020-07-29T10:38:08+01:00
 section:
 - checkins
+- photos
 properties:
   checkin:
     properties:

@@ -3,6 +3,7 @@ description: At Het Spoorwegmuseum
 published: 2022-02-27T11:04:05+01:00
 section:
 - checkins
+- photos
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -3,6 +3,7 @@ description: At National Monument on Dam Square (Nationaal Monument op de Dam)
 published: 2020-02-08T18:11:29+01:00
 section:
 - checkins
+- photos
 properties:
   checkin:
     properties:

@@ -5,6 +5,7 @@ section:
 - health
 - drank
 - home
+- photos
 createdWith: https://micropublish.net/
 properties:
   drank:

@@ -4,6 +4,7 @@ published: 2021-11-16T21:18:43+01:00
 section:
 - health
 - ate
+- photos
 createdWith: https://teacup.p3k.io/
 properties:
   ate:

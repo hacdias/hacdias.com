@@ -3,6 +3,7 @@ description: At Mathilde Drinks & More
 published: 2022-03-19T12:43:43+01:00
 section:
 - checkins
+- photos
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

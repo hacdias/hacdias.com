@@ -3,6 +3,7 @@ description: At Manneken Pis
 published: 2022-04-09T17:32:45+02:00
 section:
 - checkins
+- photos
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

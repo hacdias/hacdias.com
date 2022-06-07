@@ -4,8 +4,11 @@ published: 2022-04-22T23:21:24+01:00
 section:
 - watches
 - home
+- photos
 createdWith: https://hacdias.com/
 properties:
+  category:
+  - theatre
   location: /2022/04/22/hwbbsyuymo
   photo: https://cdn.hacdias.com/u/56937963af69968fa4b7d8a74f6df3c498a98ce6556032de3caa4ef574650458.jpeg
   rating: 5
@@ -14,8 +17,6 @@ properties:
       name: Mary Poppins
       url: https://www.delfontmackintosh.co.uk/whats-on/mary-poppins
     type: h-cite
-  category:
-  - theatre
 ---
 
 This was my first theatre in a _long_ while. I think the last time I watched a theatre I was in primary school. I also had no memory of watching Mary Poppins so we decided to go watch the musical since we were in London. It was... amazing! I wish I could watch musicals more often!

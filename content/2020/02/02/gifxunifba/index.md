@@ -3,6 +3,7 @@ description: At Metro Entrecampos [AM]
 published: 2020-02-02T17:52:35Z
 section:
 - checkins
+- photos
 properties:
   checkin:
     properties:

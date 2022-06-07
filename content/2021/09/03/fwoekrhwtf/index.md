@@ -3,6 +3,7 @@ description: At Frietwinkel
 published: 2021-09-03T16:18:32+02:00
 section:
 - checkins
+- photos
 properties:
   checkin:
     properties:
