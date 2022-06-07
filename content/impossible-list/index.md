@@ -1,5 +1,7 @@
 ---
 title: Impossible List
+description: This is my impossible list, where I define and check some major life
+  experiences I want to experience.
 published: 2020-07-15T00:00:00Z
 updated: 2022-04-02T18:16:32.024070867+02:00
 noShowInteractions: true

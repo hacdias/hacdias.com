@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://quill.p3k.io/?dontask=1\u0026me=https%3A%2F%2Fcommentpara.de%2F\u0026reply=https%3A%2F%2Fhacdias.com%2Fguestbook"
+  ],
   "context": null,
   "webmentions": [
     {

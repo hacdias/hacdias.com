@@ -1,5 +1,6 @@
 ---
 title: Resume
+description: My resume.
 noShowInteractions: true
 noSendInteractions: true
 ---

@@ -1,5 +1,7 @@
 ---
 title: Home
+description: Henrique is doing his Master's in Computer Science and Engineering while
+  working on the most fascinating projects to decentralize the web at Protocol Labs.
 isListing: true
 ---
 

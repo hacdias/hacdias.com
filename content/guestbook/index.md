@@ -1,5 +1,6 @@
 ---
 title: Guestbook
+description: A 90s inspired guestbook where you can leave your mark on this website.
 template: guestbook
 ---
 

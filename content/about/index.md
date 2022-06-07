@@ -1,5 +1,8 @@
 ---
 title: About
+description: I was born in Portugal and I am not pursuing a Master's degree in the
+  Netherlands, while working on fascinating projects. This page tells a bit more about
+  me.
 noShowInteractions: true
 ---
 
