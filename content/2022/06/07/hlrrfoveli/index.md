@@ -19,6 +19,9 @@ properties:
   - cdn:/2022-06-dm-photo-3
   - cdn:/2022-06-dm-eating
   - cdn:/2022-06-dm-instant
+  syndication:
+  - https://twitter.com/hacdias/status/1534206131781902336
+  - https://twitter.com/hacdias/status/1534206138077655040
 ---
 
 <style>
