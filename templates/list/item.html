@@ -1,4 +1,4 @@
-{{ define "list/card" }}
+{{ define "list/item" }}
   {{ $isLong := or (.InSection "articles") (eq (len .Sections) 0) (ne .Template "") }}
 
   <article class='h-entry card'>
@@ -17,7 +17,7 @@
     {{ include "post/footer" . }}
 
     {{ if $isLong }}
-      <a href="{{ relURL .Permalink }}" title="Read Article" class="nl"><div class="ibox skinny more">Read More</div></a>
+      <a href="{{ relURL .Permalink }}" title="Read More" class="nl"><div class="ibox skinny more">Read More</div></a>
     {{ else }}
       {{ with .DisplayDescription }}
         <p class='dn p-summary'>{{ . }}</p>

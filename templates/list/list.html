@@ -6,7 +6,7 @@
   {{ else }}
     <div class='h-feed'>
     {{ range .Data.Entries }}
-      {{- include "list/card" $ . -}}
+      {{- include "list/item" $ . -}}
     {{ end }}
     </div>
   {{ end }}
