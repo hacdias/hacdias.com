@@ -1,5 +1,5 @@
 {{ define "base/head" }}
-  {{ $description := or .Description .Site.Description }}
+  {{ $description := or .DisplayDescription .Site.Description }}
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
