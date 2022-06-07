@@ -1,9 +1,16 @@
 ---
-title: Infinite Stairs
 published: 2018-10-10T21:31:02Z
 section:
 - photos
 properties:
+  location:
+    properties:
+      country-name: Portugal
+      latitude: 38.73608998057843
+      locality: Lisbon
+      longitude: -9.138427699313747
+      region: Lisbon
+    type: h-adr
   photo:
   - cdn:/2019-10-infinite-stairs
   syndication:

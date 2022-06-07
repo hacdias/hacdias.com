@@ -1,0 +1,18 @@
+---
+description: 'Just ate: Chocolate Bao'
+published: 2022-05-01T17:54:01Z
+section:
+- health
+- ate
+createdWith: https://micropublish.net/
+properties:
+  ate:
+    properties:
+      name: Chocolate Bao
+    type: h-food
+  file: IMG_2113.jpeg
+  location: /2022/05/01/akgigvfijb
+  photo: https://cdn.hacdias.com/u/7fc57ef5c06820583d5c4ee9087d3ef7359493ba786cdd52e22641c8922753ac.jpeg
+---
+
+

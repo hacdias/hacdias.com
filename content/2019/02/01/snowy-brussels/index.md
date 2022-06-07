@@ -1,5 +1,4 @@
 ---
-title: Snowy Brussels
 published: 2019-02-01T12:07:45Z
 section:
 - photos

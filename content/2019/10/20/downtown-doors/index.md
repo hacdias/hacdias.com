@@ -1,5 +1,4 @@
 ---
-title: Downtown Doors
 published: 2019-10-20T15:07:50.893Z
 section:
 - photos

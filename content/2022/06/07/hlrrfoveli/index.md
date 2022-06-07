@@ -1,0 +1,51 @@
+---
+published: 2022-06-07T09:51:13.74567452+02:00
+section:
+- photos
+createdWith: https://micropublish.net/
+photoClass: grid-2022-hlrrfoveli mgrid
+properties:
+  location:
+    properties:
+      country-name: Netherlands
+      latitude: 51.4324
+      locality: Eindhoven
+      longitude: 5.48616
+      region: North Brabant
+    type: h-adr
+  photo:
+  - cdn:/2022-06-dm-photo-1
+  - cdn:/2022-06-dm-photo-2
+  - cdn:/2022-06-dm-photo-3
+  - cdn:/2022-06-dm-eating
+  - cdn:/2022-06-dm-instant
+---
+
+<style>
+.grid-2022-hlrrfoveli {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1rem;
+  grid-template-areas:
+    "a a b b c c"
+    "d d d e e e";
+}
+
+.grid-2022-hlrrfoveli figure {
+  height: 100%;
+  margin: 0;
+}
+
+.grid-2022-hlrrfoveli figure img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.grid-2022-hlrrfoveli > *:nth-child(1) { grid-area: a; }
+.grid-2022-hlrrfoveli > *:nth-child(2) { grid-area: b; }
+.grid-2022-hlrrfoveli > *:nth-child(3) { grid-area: c; }
+.grid-2022-hlrrfoveli > *:nth-child(4) { grid-area: d; }
+.grid-2022-hlrrfoveli > *:nth-child(5) { grid-area: e; }
+</style>
+
+A few days ago, we had the Lustrum Gala of Dekate Mousa, the photography association and it was a very nice experience! During the gala, we all had the opportunity to see the Lustrum Exhibition! Today at 8pm, the exhibition officially opens for the public at the [CKE](https://cke.nl/) in Eindhoven. I'm so proud to have 3 of my pictures hanging there, even though it's such a small thing. If you are in Eindhoven during this and next week, don't hesitate! It's free and there's very very very nice works.
