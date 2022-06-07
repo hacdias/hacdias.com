@@ -31,7 +31,7 @@ properties:
       region: North Holland
       street-address: George Gershwinplein 6
     type: h-adr
-  photo: https://cdn.hacdias.com/u/55ccc2e20faba82339a793a28a66575398aad04d5f66a20c1ded13fe378cdc5c.jpg
+  photo: cdn:/55ccc2e20faba82339a793a28a66575398aad04d5f66a20c1ded13fe378cdc5c
   syndication: https://www.swarmapp.com/user/476184554/checkin/623f2cc52a1ea87c064d2ce6
 ---
 

@@ -20,7 +20,7 @@ properties:
       longitude: 5.48613
       region: North Brabant
     type: h-adr
-  photo: https://cdn.hacdias.com/u/879910bffda897d887a05ad5f104a0fdb33c0c87bbf51c5cc7c8b35ffd2de717.jpg
+  photo: cdn:/879910bffda897d887a05ad5f104a0fdb33c0c87bbf51c5cc7c8b35ffd2de717
 ---
 
 

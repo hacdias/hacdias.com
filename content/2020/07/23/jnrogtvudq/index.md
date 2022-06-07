@@ -22,7 +22,7 @@ properties:
       longitude: -8.940875627863676
       region: Algarve
     type: h-adr
-  photo: https://cdn.hacdias.com/u/21708a61f8edb76584593b82081929a1a06519068a182960fa371354bca8caff.jpg
+  photo: cdn:/21708a61f8edb76584593b82081929a1a06519068a182960fa371354bca8caff
   syndication: https://www.swarmapp.com/user/476184554/checkin/5f19a31a328e1a36c78d071e
 ---
 

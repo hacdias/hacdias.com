@@ -28,7 +28,7 @@ properties:
       region: Île-de-France
       street-address: 5 avenue Anatole France
     type: h-adr
-  photo: https://cdn.hacdias.com/u/23d5b9d900e68192cdbf31f4cb5a7b68b662d2f4ca4c382853b0e3cdfce31f55.jpg
+  photo: cdn:/23d5b9d900e68192cdbf31f4cb5a7b68b662d2f4ca4c382853b0e3cdfce31f55
   syndication: https://www.swarmapp.com/user/476184554/checkin/61584e53304c517064c7750e
 ---
 

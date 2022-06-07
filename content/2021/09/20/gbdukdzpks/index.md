@@ -28,7 +28,7 @@ properties:
       region: North-Brabant
       street-address: de Lampendriessen 31-05
     type: h-adr
-  photo: https://cdn.hacdias.com/u/c6d50ef56ba41bf5bae09a87486bbfeee904bdb265f43b3bf40201fd4e521526.jpg
+  photo: cdn:/c6d50ef56ba41bf5bae09a87486bbfeee904bdb265f43b3bf40201fd4e521526
   syndication: https://www.swarmapp.com/user/476184554/checkin/61485eeb037e4e52621df4a0
 ---
 

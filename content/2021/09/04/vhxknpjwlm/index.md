@@ -28,7 +28,7 @@ properties:
       region: Utrecht
       street-address: Vinkenburgstraat 15
     type: h-adr
-  photo: https://cdn.hacdias.com/u/feed08b42f6ec98822431a2fac15bcde52aa6b4f8606dcd3c457e3856006e4ed.jpg
+  photo: cdn:/feed08b42f6ec98822431a2fac15bcde52aa6b4f8606dcd3c457e3856006e4ed
   syndication: https://www.swarmapp.com/user/476184554/checkin/61331fdbd067e877c71241bd
 ---
 

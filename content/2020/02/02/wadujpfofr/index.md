@@ -28,7 +28,7 @@ properties:
       region: Distrito de Setúbal
       street-address: Av. Jorge Peixinho
     type: h-adr
-  photo: https://cdn.hacdias.com/u/127857c7665fcb0889940115472965c12cce600a70c0d6a0d9d71b0afe514458.jpg
+  photo: cdn:/127857c7665fcb0889940115472965c12cce600a70c0d6a0d9d71b0afe514458
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3706ab1224e90007f55db7
 ---
 

@@ -26,7 +26,7 @@ properties:
       region: North Holland
       street-address: Nieuwe Diep
     type: h-adr
-  photo: https://cdn.hacdias.com/u/5d5a2d3a397aa40df7d4c2e59151f6f8f7000fabc2802b3d56bda5951ba309ea.jpg
+  photo: cdn:/5d5a2d3a397aa40df7d4c2e59151f6f8f7000fabc2802b3d56bda5951ba309ea
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3ece2a1f5f90000777f179
 ---
 

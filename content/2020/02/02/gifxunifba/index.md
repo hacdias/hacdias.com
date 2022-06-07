@@ -26,7 +26,7 @@ properties:
       region: Lisbon
       street-address: Av. da República
     type: h-adr
-  photo: https://cdn.hacdias.com/u/2b931bff38e1e9f19bdeea2ed7d596caae2e0a249819301fcdbce163e884d4cd.jpg
+  photo: cdn:/2b931bff38e1e9f19bdeea2ed7d596caae2e0a249819301fcdbce163e884d4cd
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e370c630accad00088bc3de
 ---
 

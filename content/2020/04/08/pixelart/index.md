@@ -15,6 +15,6 @@ properties:
 
 I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it.
 
-![](https://cdn.hacdias.com/u/2020-04-pixel-house.gif?class=pixelated)
+![](https://cdn.hacdias.com/media/2020-04-pixel-house.gif?class=pixelated)
 
 **Edit**: [I minted an NFT!](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653460992402653185/)

@@ -27,7 +27,7 @@ properties:
       region: North-Brabant
       street-address: Stadswandelpark
     type: h-adr
-  photo: https://cdn.hacdias.com/u/e9e8f3ef5e340c894b19f04194b1fe7f3ca9fbe44321ca6a9d35592b62121e50.jpg
+  photo: cdn:/e9e8f3ef5e340c894b19f04194b1fe7f3ca9fbe44321ca6a9d35592b62121e50
   syndication: https://www.swarmapp.com/user/476184554/checkin/627e7c23293aa01470de8dff
 ---
 

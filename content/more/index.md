@@ -68,7 +68,7 @@ Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger
 </div>
 
 <audio id="music" loop>
-  <source src="https://cdn.hacdias.com/u/nyan-cat.mp3" type="audio/mpeg">
+  <source src="https://cdn.hacdias.com/media/nyan-cat.mp3" type="audio/mpeg">
 </audio>
 
 <script>

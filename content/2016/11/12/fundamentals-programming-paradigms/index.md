@@ -62,7 +62,7 @@ Work;
 In this sequence we can see some of the linear actions that are taken by almost
 every human on Earth on their day to day. Here is the corresponding flowchart:
 
-![Sequence flowchart](https://cdn.hacdias.com/u/2016-11-sequence.jpg)
+![Sequence flowchart](https://cdn.hacdias.com/media/2016-11-sequence.jpg)
 
 In most programming languages, the commands/actions finish with a semicolon so
 they can be all written in one single line, like this:
@@ -97,7 +97,7 @@ As you can, it is easily comprehended. Note that Work will only be executed if
 the individual Wake Up. Otherwise, the piece Don't work will be executed. Let's
 see a pretty flowchart for this:
 
-![Simple decision flowchart](https://cdn.hacdias.com/u/2016-11-decision.jpg)
+![Simple decision flowchart](https://cdn.hacdias.com/media/2016-11-decision.jpg)
 
 Now, let's see the second example. In this one, we will illustrate the condition
 "I have an headache. If it's a light one, I will work. But if it is moderate, I
@@ -115,7 +115,7 @@ You probably thought that I would use "ifs" but I didn't. In almost every single
 programming language, there is an alternative for the use of "ifs" when it all
 depends on a variable content. Take a look at this flowchart:
 
-![Complex decision flowchart](https://cdn.hacdias.com/u/2016-11-decision-social.jpg)
+![Complex decision flowchart](https://cdn.hacdias.com/media/2016-11-decision-social.jpg)
 
 This flowchart represents the code above, but in a different way. This flowchart
 is exactly the same as the code below. And the code below is exactly the same as

@@ -28,7 +28,7 @@ properties:
       region: Antwerp
       street-address: Grote Markt
     type: h-adr
-  photo: https://cdn.hacdias.com/u/5539fe97e312132326a5bc3429b95f4bd0b34bb7e37d05682d85b1af26eb91a8.jpg
+  photo: cdn:/5539fe97e312132326a5bc3429b95f4bd0b34bb7e37d05682d85b1af26eb91a8
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3d76a04c6bed0008401e0b
 ---
 

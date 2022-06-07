@@ -27,7 +27,7 @@ properties:
       postal-code: 5611 ZT
       region: North-Brabant
     type: h-adr
-  photo: https://cdn.hacdias.com/u/88e5a6bef8199853a50a3c4275b46e30ca119b44dc06bae70a9ee7372772e958.jpg
+  photo: cdn:/88e5a6bef8199853a50a3c4275b46e30ca119b44dc06bae70a9ee7372772e958
   syndication: https://www.swarmapp.com/user/476184554/checkin/62418f97e202937490c065ec
 ---
 

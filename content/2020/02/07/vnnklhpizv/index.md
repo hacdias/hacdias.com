@@ -20,7 +20,7 @@ properties:
       latitude: 51.221397
       longitude: 4.396111
     type: h-adr
-  photo: https://cdn.hacdias.com/u/7af0b6bdcbe9ff50761f9629491a0f5b283522acc8e5769260f16de3b3c5f8b6.jpg
+  photo: cdn:/7af0b6bdcbe9ff50761f9629491a0f5b283522acc8e5769260f16de3b3c5f8b6
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3d78c1e293640008985ed6
 ---
 

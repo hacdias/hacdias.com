@@ -28,7 +28,7 @@ properties:
       region: Antwerp
       street-address: Handschoenmarkt
     type: h-adr
-  photo: https://cdn.hacdias.com/u/dbd8a3efad3cf64961499a3b12ee377c962e691d4ed9bb11887dd4132fd5e17c.jpg
+  photo: cdn:/dbd8a3efad3cf64961499a3b12ee377c962e691d4ed9bb11887dd4132fd5e17c
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3d753993d8280007f902ac
 ---
 

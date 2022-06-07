@@ -28,7 +28,7 @@ properties:
       region: District de Luxembourg
       street-address: 20, rue du Marché-aux-Herbes
     type: h-adr
-  photo: https://cdn.hacdias.com/u/16300bd77ecb60d991656698b9611f02dc05499961556b814c14b1363ed8ca99.jpg
+  photo: cdn:/16300bd77ecb60d991656698b9611f02dc05499961556b814c14b1363ed8ca99
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3956988c5100000877d1ed
 ---
 

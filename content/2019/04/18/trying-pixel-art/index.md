@@ -28,7 +28,7 @@ and that they seem to be... I don't know... interesting to me.
 }
 </style>
 
-![](https://cdn.hacdias.com/u/2019-04-blinking-eye.gif?class=left+pixelated "Blinking Eye")
+![](https://cdn.hacdias.com/media/2019-04-blinking-eye.gif?class=left+pixelated "Blinking Eye")
 
 I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
 around and I thought: this is really pretty and interesting, what if I try doing some
@@ -46,9 +46,9 @@ and I actually happen to like them. So I've started by doing so.
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   
-  ![](https://cdn.hacdias.com/u/2019-04-magician.jpeg?class=magician "A magician, wizard?")
+  ![](https://cdn.hacdias.com/media/2019-04-magician.jpeg?class=magician "A magician, wizard?")
 
-  ![](https://cdn.hacdias.com/u/2019-04-cat.jpeg?class=cat "A Cat")
+  ![](https://cdn.hacdias.com/media/2019-04-cat.jpeg?class=cat "A Cat")
 
 </div>
 
@@ -60,13 +60,13 @@ After that, I moved to something bigger - but it will be the last one of this po
 showing you first the last one I've done but that I don't actually enjoy that much. It's
 the central building of my university.
 
-![](https://cdn.hacdias.com/u/2019-04-tecnico-central.jpg?class=pixelated "Técnico - Central Building")
+![](cdn:/2019-04-tecnico-central?class=pixelated "Técnico - Central Building")
 
 Then - or should I say, before? - I've done something much more interesting: my university
 has two twelve floor towers, which are really beautiful. So I believe you already know what's
 coming.
 
-![](https://cdn.hacdias.com/u/2019-04-tecnico-tower.gif?class=right+pixelated "Técnico - Chemistry Tower")
+![](https://cdn.hacdias.com/media/2019-04-tecnico-tower.gif?class=right+pixelated "Técnico - Chemistry Tower")
 
 I started by drawing the tower itself and the windows. Then, I moved to the building in front
 of it and both side buildings. I've played with some shadows and also made sure that I created

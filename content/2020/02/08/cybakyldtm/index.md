@@ -28,7 +28,7 @@ properties:
       region: North Holland
       street-address: Dam
     type: h-adr
-  photo: https://cdn.hacdias.com/u/c12c5f6ead31da1b9fd372c2a7c4cf69f7242be80e9f9f43a25e1f1f861d0501.jpg
+  photo: cdn:/c12c5f6ead31da1b9fd372c2a7c4cf69f7242be80e9f9f43a25e1f1f861d0501
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3eebc144e5b00008bb6352
 ---
 

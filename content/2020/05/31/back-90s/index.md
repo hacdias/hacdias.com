@@ -21,7 +21,7 @@ Over the past months, I have been reading more and more posts where people are [
 <style>
 @media screen and (min-width: 38rem) {
   body {
-    background: #010d2a url(https://cdn.hacdias.com/u/2020-05-sea-pattern.jpg);
+    background: #010d2a url(https://cdn.hacdias.com/media/2020-05-sea-pattern.jpeg);
     background-size: 300px;
     background-attachment: fixed;
   }
@@ -61,9 +61,9 @@ Over the past months, I have been reading more and more posts where people are [
 
 <div style="display: flex; justify-content: center">
 
-![Best viewed with Netscape](https://cdn.hacdias.com/u/2021-02-netscape.gif?class=pixelated+netscape)
+![Best viewed with Netscape](https://cdn.hacdias.com/media/2021-02-netscape.gif?class=pixelated+netscape)
 
-![Best viewed with Internet Explorer](https://cdn.hacdias.com/u/2021-02-iexplorer.gif?class=pixelated+iexplore)
+![Best viewed with Internet Explorer](https://cdn.hacdias.com/media/2021-02-iexplorer.gif?class=pixelated+iexplore)
 
 </div>
 
@@ -75,7 +75,7 @@ I barely remember when I first created this website, but I believe it was by han
 
 On his [essay][small-web], Parimal talks about how today's websites are mainly built towards product selling or marketing. It's a really good post and I recommend you all to read it.
 
-![](https://cdn.hacdias.com/u/2021-02-bulb.gif?class=left+pixelated+bulb)
+![](https://cdn.hacdias.com/media/2021-02-bulb.gif?class=left+pixelated+bulb)
 
 With all of thing being said, I have been tweaking my website. ["Again?"][meta], you ask. "Yes, again", I say. My website has changed a lot over the few years since it exists (5 years I believe), but mostly on the past months, probably due to my discovery of the [IndieWeb][indieweb] and the pandemic we're living right now. 
 
@@ -89,7 +89,7 @@ With this update, I'm hoping to make this website more alive. Even though the mo
 
 A more subtle change I made was to change the dates on this website to use the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar) which adds exactly 10 000 years to the current year, being the first year placed in the beginning of the Holocene era.
 
-[![Writing on a guestbook](https://cdn.hacdias.com/u/2022-03-guestbook.gif?class=right+pixelated+guestbook)](/guestbook)
+[![Writing on a guestbook](https://cdn.hacdias.com/media/2022-03-guestbook.gif?class=right+pixelated+guestbook)](/guestbook)
 
 **Let's bring the web more personality, more presence, more uniqueness. Let's be the painters 🎨 of our own identity.**
 

@@ -29,7 +29,7 @@ properties:
       region: Utrecht
       street-address: Van Asch Van Wijckskade
     type: h-adr
-  photo: https://cdn.hacdias.com/u/70d1d310b0ff54650aaf064dd786f751d2e4338e11f1116cd50790f5a37f364b.jpg
+  photo: cdn:/70d1d310b0ff54650aaf064dd786f751d2e4338e11f1116cd50790f5a37f364b
   syndication: https://www.swarmapp.com/user/476184554/checkin/620669f58c48c119600d146d
 ---
 

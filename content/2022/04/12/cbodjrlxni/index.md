@@ -20,7 +20,7 @@ properties:
       longitude: 5.48607
       region: North Brabant
     type: h-adr
-  photo: https://cdn.hacdias.com/u/9fcb19db9c6893c63643b83e8085285dc3b7ca7a4596b04b67c4ef5ee79f2f96.jpg
+  photo: cdn:/9fcb19db9c6893c63643b83e8085285dc3b7ca7a4596b04b67c4ef5ee79f2f96
 ---
 
 Ingredients: oats, oat milk, greek yoghurt, chia seeds, lemon curd, a pinch of salt.

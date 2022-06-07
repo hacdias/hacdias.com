@@ -34,10 +34,10 @@ properties:
       street-address: Maliebaanstation
     type: h-adr
   photo:
-  - https://cdn.hacdias.com/u/1437480effb2ed70f1d5e20c661d8a3bdc5d8156e1d72fcbaeec41ef37c3740f.jpg
-  - https://cdn.hacdias.com/u/584678498b0af5d173ef6aab2af2302a8164a587d9b9b46875b6a8dd572bdac6.jpg
-  - https://cdn.hacdias.com/u/55c583a80c328cd0c709c00539420f22932fd5b588f0b05723cb40dd503c6866.jpg
-  - https://cdn.hacdias.com/u/f6dc3283a5e34f40420e346bdfce8796022be77ce1be1b19fddc147f3d89e0cb.jpg
+  - cdn:/1437480effb2ed70f1d5e20c661d8a3bdc5d8156e1d72fcbaeec41ef37c3740f
+  - cdn:/584678498b0af5d173ef6aab2af2302a8164a587d9b9b46875b6a8dd572bdac6
+  - cdn:/55c583a80c328cd0c709c00539420f22932fd5b588f0b05723cb40dd503c6866
+  - cdn:/f6dc3283a5e34f40420e346bdfce8796022be77ce1be1b19fddc147f3d89e0cb
   syndication: https://www.swarmapp.com/user/476184554/checkin/621b4c95cb25d20ab687909d
 ---
 

@@ -21,7 +21,7 @@ properties:
       region: Distrito de Setúbal
       street-address: Porto Covo
     type: h-adr
-  photo: https://cdn.hacdias.com/u/bcb2771453c7cfdce9f3693b768cfde4edbd2f28b39f0e657269ee002b51c230.jpeg
+  photo: cdn:/bcb2771453c7cfdce9f3693b768cfde4edbd2f28b39f0e657269ee002b51c230
 ---
 
 

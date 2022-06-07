@@ -25,7 +25,7 @@ The winter ❄️ has finally come. I have been wishing for snow for a long time
 Since then, I've only seen snow a few other times when traveling, but never that experience of being outside while it is actually snowing. That has changed! The Netherlands has been suffering from low temperatures, reaching even -15°C where I'm living. It's been over a week without positive temperatures!
 
 <video autoplay muted loop>
-  <source src="https://cdn.hacdias.com/u/2021-02-snow-eindhoven.mp4" type="video/mp4">
+  <source src="https://cdn.hacdias.com/media/2021-02-snow-eindhoven.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

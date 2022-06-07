@@ -33,7 +33,7 @@ properties:
       region: North-Brabant
       street-address: Keizersgracht 19
     type: h-adr
-  photo: https://cdn.hacdias.com/u/7257d43e311a52b7321fbcf411d4c7bbe6287c132e7ff24fb4fca271f6fd0a31.jpg
+  photo: cdn:/7257d43e311a52b7321fbcf411d4c7bbe6287c132e7ff24fb4fca271f6fd0a31
   syndication: https://www.swarmapp.com/user/476184554/checkin/6283ce03ec1b7c2cce68ca42
 ---
 

@@ -26,7 +26,7 @@ properties:
       region: District de Luxembourg
       street-address: Rue de la Semois
     type: h-adr
-  photo: https://cdn.hacdias.com/u/23c6b1331c550aafe96f8c8ecb64abb0ef0399fcb38ddb7a473897ffdb6bd73a.jpg
+  photo: cdn:/23c6b1331c550aafe96f8c8ecb64abb0ef0399fcb38ddb7a473897ffdb6bd73a
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e393e307aa5280008222312
 ---
 

@@ -12,4 +12,4 @@ properties:
 
 Blinking lamps circa April 2019.
 
-![](https://cdn.hacdias.com/u/2019-04-common-room-lamps.gif?class=pixelated)
+![](https://cdn.hacdias.com/media/2019-04-common-room-lamps.gif?class=pixelated)

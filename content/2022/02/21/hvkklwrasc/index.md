@@ -45,7 +45,7 @@ properties:
       region: South Holland
       street-address: Plaats 21
     type: h-adr
-  photo: https://cdn.hacdias.com/u/c1eb34770acf14805446c33aa77aced546113dc3e62602dc7b32701504fdbea1.jpg
+  photo: cdn:/c1eb34770acf14805446c33aa77aced546113dc3e62602dc7b32701504fdbea1
   syndication: https://www.swarmapp.com/user/476184554/checkin/6213791c24640c3fe64efba6
 ---
 

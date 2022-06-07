@@ -27,7 +27,7 @@ properties:
       region: North Holland
       street-address: Zuidplein
     type: h-adr
-  photo: https://cdn.hacdias.com/u/263c8324294c86605c746c7b58920429523104bf9df1992d3f9751421747123c.jpg
+  photo: cdn:/263c8324294c86605c746c7b58920429523104bf9df1992d3f9751421747123c
   syndication: https://www.swarmapp.com/user/476184554/checkin/623f2629be48b7156dfcfb9b
 ---
 

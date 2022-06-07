@@ -28,7 +28,7 @@ properties:
       region: North Holland
       street-address: Damrak 41
     type: h-adr
-  photo: https://cdn.hacdias.com/u/b861b323be0f0f24dbc89764e501f9a791d102c033c3e869d54be647bdfd4d99.jpg
+  photo: cdn:/b861b323be0f0f24dbc89764e501f9a791d102c033c3e869d54be647bdfd4d99
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e402cac50c1900008837093
 ---
 

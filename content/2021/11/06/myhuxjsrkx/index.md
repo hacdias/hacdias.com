@@ -28,7 +28,7 @@ properties:
       region: North-Brabant
       street-address: Jan van Lieshoutstraat 12, 5611 EE Eindhoven
     type: h-adr
-  photo: https://cdn.hacdias.com/u/d66b86815d447a861dcb9c59cdad37d2b6259b1159711bb61a4e301f0281ad46.jpg
+  photo: cdn:/d66b86815d447a861dcb9c59cdad37d2b6259b1159711bb61a4e301f0281ad46
   syndication: https://www.swarmapp.com/user/476184554/checkin/618695361ca7154463d370c9
 ---
 

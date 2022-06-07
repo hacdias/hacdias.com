@@ -26,7 +26,7 @@ properties:
       region: North Holland
       street-address: Staalstraat
     type: h-adr
-  photo: https://cdn.hacdias.com/u/3ffb880f9682d6c8ae7aa1919f80ea8252fecc48d7aefb9089cf55ddd8fecda8.jpg
+  photo: cdn:/3ffb880f9682d6c8ae7aa1919f80ea8252fecc48d7aefb9089cf55ddd8fecda8
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3ee1e12a81c40008c53adf
 ---
 

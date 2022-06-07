@@ -13,6 +13,6 @@ properties:
 
 Found this beautiful Pirilampos Mágicos (magical fireflies) from April 2019.
 
-![](https://cdn.hacdias.com/u/2019-04-pirilampos.gif?class=pixelated)
+![](https://cdn.hacdias.com/media/2019-04-pirilampos.gif?class=pixelated)
 
 **Edit**: [I minted an NFT!](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653462091914280961)

@@ -24,7 +24,7 @@ properties:
       longitude: 4.893811
       region: North Holland
     type: h-adr
-  photo: https://cdn.hacdias.com/u/81d0be62fb29612a98fc3b4ba6c2815126433b088140043e6fce5080f5a02e06.jpg
+  photo: cdn:/81d0be62fb29612a98fc3b4ba6c2815126433b088140043e6fce5080f5a02e06
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3ee59cf5aca100084e9df3
 ---
 

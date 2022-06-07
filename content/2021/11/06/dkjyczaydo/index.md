@@ -26,7 +26,7 @@ properties:
       region: North-Brabant
       street-address: Ketelhuisplein
     type: h-adr
-  photo: https://cdn.hacdias.com/u/44e945fd5ac80ecb0b0fe7aa46b1f0f6b89e3120938b060a8c5cb89281e91f8f.jpg
+  photo: cdn:/44e945fd5ac80ecb0b0fe7aa46b1f0f6b89e3120938b060a8c5cb89281e91f8f
   syndication: https://www.swarmapp.com/user/476184554/checkin/6186e238ad53e446eb2472de
 ---
 

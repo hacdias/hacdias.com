@@ -15,7 +15,7 @@ HTTP/1.1 201 Created
 Date: Wed, 17 Nov 2021 07:55:57 GMT
 Content-Length: 0
 Connection: keep-alive
-location: https://cdn.hacdias.com/u/1eb1c3bdf8c2ed0a7ed6e4324a49bfdb455c168d43e44372dccbc9913fd5485c.jpg
+location: https://cdn.hacdias.com/media/1eb1c3bdf8c2ed0a7ed6e4324a49bfdb455c168d43e44372dccbc9913fd5485c.jpg
 (... other headers ...)
 ```
 
@@ -25,7 +25,7 @@ The location is definitely there, and so is a wild `HTTP/1.1 100 Continue`. If I
 < HTTP/2 201
 < date: Wed, 17 Nov 2021 08:04:25 GMT
 < content-length: 0
-< location: https://cdn.hacdias.com/u/e463d117e6a57c1f1e774510b166433c2de275d153dcf8cea07a61c14a493cbf.jpg
+< location: https://cdn.hacdias.com/media/e463d117e6a57c1f1e774510b166433c2de275d153dcf8cea07a61c14a493cbf.jpg
 < (... other headers ...)
 ```
 

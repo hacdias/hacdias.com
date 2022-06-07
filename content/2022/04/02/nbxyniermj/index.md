@@ -21,7 +21,7 @@ properties:
       region: Distrito de Setúbal
       street-address: Porto Covo
     type: h-adr
-  photo: https://cdn.hacdias.com/u/0c79ff02d6477b027709f2a5059e1c3c17ca8dd059bf3d2ba40d8c63be752056.jpeg
+  photo: cdn:/0c79ff02d6477b027709f2a5059e1c3c17ca8dd059bf3d2ba40d8c63be752056
 ---
 
 Or in English, _Cookie Cake_.

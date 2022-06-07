@@ -19,7 +19,7 @@ properties:
       longitude: 4.4851372
       region: South Holland
     type: h-adr
-  photo: https://cdn.hacdias.com/u/690cb37bcf97b2364e690e27187c1b202f3434e40a8a168c138e56ff89da6da7.jpeg
+  photo: cdn:/690cb37bcf97b2364e690e27187c1b202f3434e40a8a168c138e56ff89da6da7
 ---
 
 

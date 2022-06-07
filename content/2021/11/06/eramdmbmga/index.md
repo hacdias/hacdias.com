@@ -28,7 +28,7 @@ properties:
       region: North-Brabant
       street-address: Kanaalstraat
     type: h-adr
-  photo: https://cdn.hacdias.com/u/2b786a933847a50f9af46d6fe1c35ee0d7c12d00fe2f7765a5539284d17798ba.jpg
+  photo: cdn:/2b786a933847a50f9af46d6fe1c35ee0d7c12d00fe2f7765a5539284d17798ba
   syndication: https://www.swarmapp.com/user/476184554/checkin/6186d3a954fadc06503f6cb9
 ---
 

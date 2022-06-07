@@ -10,7 +10,7 @@ properties:
   category:
   - concert
   location: /2022/05/22/wjmdrdifrj
-  photo: https://cdn.hacdias.com/u/66802d350525140b1e7d04a05ee9214c7eaa55cdd3c57a75a3e1351b46fd279c.jpeg
+  photo: cdn:/66802d350525140b1e7d04a05ee9214c7eaa55cdd3c57a75a3e1351b46fd279c
   watch-of:
     properties:
       name: MØ

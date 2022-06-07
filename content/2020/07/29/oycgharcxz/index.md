@@ -28,7 +28,7 @@ properties:
       region: Distrito de Setúbal
       street-address: Largo da Estação Ferroviária
     type: h-adr
-  photo: https://cdn.hacdias.com/u/b9fbe75f87b0bacde0807eaac732c7338466763cb871ea99eb2b1daa965fb78f.jpg
+  photo: cdn:/b9fbe75f87b0bacde0807eaac732c7338466763cb871ea99eb2b1daa965fb78f
   syndication: https://www.swarmapp.com/user/476184554/checkin/5f214380223e3d63afc26faf
 ---
 

@@ -28,7 +28,7 @@ properties:
       region: Lisbon
       street-address: A2 / IP7
     type: h-adr
-  photo: https://cdn.hacdias.com/u/b35c3da48b55a80e68e1fec18b582a926d17f518d421bf057147b8d694ac118f.jpg
+  photo: cdn:/b35c3da48b55a80e68e1fec18b582a926d17f518d421bf057147b8d694ac118f
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3708f089d9220008a85849
 ---
 

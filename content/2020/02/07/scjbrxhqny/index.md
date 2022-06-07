@@ -28,7 +28,7 @@ properties:
       region: Brussels-Capital Region
       street-address: Natieplein 1 Place de la Nation
     type: h-adr
-  photo: https://cdn.hacdias.com/u/aceb6df9b002f7890812c171943f4fed167e70d9739e8848fa6146a67609b40e.jpg
+  photo: cdn:/aceb6df9b002f7890812c171943f4fed167e70d9739e8848fa6146a67609b40e
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e3d35818b37090008f6da99
 ---
 

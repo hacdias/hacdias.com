@@ -28,8 +28,8 @@ properties:
       region: North-Brabant
     type: h-adr
   photo:
-  - https://cdn.hacdias.com/u/49269c164c64817c8443fbf1d3a0486ca6950af84ad30c0f926e4d8988c0aff7.jpg
-  - https://cdn.hacdias.com/u/90730d2d6194ffe58250b6380767474800c849794406a4d67bd5410fc9e04b6a.jpg
+  - cdn:/49269c164c64817c8443fbf1d3a0486ca6950af84ad30c0f926e4d8988c0aff7
+  - cdn:/90730d2d6194ffe58250b6380767474800c849794406a4d67bd5410fc9e04b6a
   syndication: https://www.swarmapp.com/user/476184554/checkin/62362da74f2134567a122161
 ---
 

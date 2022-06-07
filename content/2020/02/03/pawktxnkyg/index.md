@@ -28,7 +28,7 @@ properties:
       region: District de Luxembourg
       street-address: 22, Avenue Monterey
     type: h-adr
-  photo: https://cdn.hacdias.com/u/44551452a2ef278eea780b79410c76d75a68853b69a535157ead370e4ffa8df5.jpg
+  photo: cdn:/44551452a2ef278eea780b79410c76d75a68853b69a535157ead370e4ffa8df5
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e388b53f35deb0008ce60ae
 ---
 

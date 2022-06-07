@@ -28,7 +28,7 @@ properties:
       region: North Holland
       street-address: Funenkade 5
     type: h-adr
-  photo: https://cdn.hacdias.com/u/8aef64812226884bc34b7102afb778c8704e47a446fe0dbbb06201ba6ff475bc.jpg
+  photo: cdn:/8aef64812226884bc34b7102afb778c8704e47a446fe0dbbb06201ba6ff475bc
   syndication: https://www.swarmapp.com/user/476184554/checkin/5e4127e7089e950007559e08
 ---
 

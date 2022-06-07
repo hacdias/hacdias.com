@@ -28,7 +28,7 @@ properties:
       region: Utrecht
       street-address: Vinkenburgstraat 10
     type: h-adr
-  photo: https://cdn.hacdias.com/u/6a9f1d77fd6d5f305862ea8cf83cbd636a1872bea1ccd6ced2f97bb9e79b8a27.jpg
+  photo: cdn:/6a9f1d77fd6d5f305862ea8cf83cbd636a1872bea1ccd6ced2f97bb9e79b8a27
   syndication: https://www.swarmapp.com/user/476184554/checkin/61322eb8a4c216197faeb75a
 ---
 
