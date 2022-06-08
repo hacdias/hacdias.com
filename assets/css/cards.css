@@ -19,7 +19,9 @@
   border-radius: 0;
 }
 
+.card h1,
 .card h3 {
+  font-size: var(--f3);
   margin-top: 0.6em;
   text-align: left;
 }
