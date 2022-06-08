@@ -22,7 +22,7 @@
     {{ else }}
       {{ with $audience }}
         {{ $url := index . 0 }}
-        <span>👥 To <strong><a rel="noopener noreferrer" target="_blank" href="{{ $url }}" class="u-audience">{{ domainAndPath $url }}</a></strong></span>
+        <span>👥 To <strong><a rel="noopener noreferrer" target="_blank" href="{{ $url }}" class="u-audience">{{ humanDomain $url }}</a></strong></span>
       {{ end }}
     {{ end }}
   </div>
