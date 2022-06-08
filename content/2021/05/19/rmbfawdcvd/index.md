@@ -9,7 +9,7 @@ properties:
   - https://www.reddit.com/r/Netherlands/comments/nfo0xh/great_success_100kmh/gyolx0b/
 ---
 
-&gt;The flu doesn’t require antibiotics, unlike many Italians and Portuguese seem to think.
+>The flu doesn’t require antibiotics, unlike many Italians and Portuguese seem to think.
 
 Okay, I'm Portuguese and feel personally attacked by this. I'm 100% aware antibiotics are for bacteria and not viruses. And I was **never** prescribed antibiotics in Portugal before having a blood test or some test to **confirm** it was a bacterial infection.
 

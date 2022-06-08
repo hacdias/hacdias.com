@@ -9,11 +9,11 @@ properties:
   - https://www.reddit.com/r/Netherlands/comments/qy7ft9/selfemployed_friendly_bank/hle7i80/
 ---
 
-\&gt; you kinda need a business account.
+\> you kinda need a business account.
 
 My accountant assured me that it was not legally required. But yes, I looked at most banks policies and it is required. It's quite a shame.
 
-\&gt; I'm self-employed as well, my business account is at ASN
+\> I'm self-employed as well, my business account is at ASN
 
 I will most likely have to open one. Probably with them too because that'd be the quickest route since I'm already their customer. However, I am quite disappointed. They did not give me that much time.
 

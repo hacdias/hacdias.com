@@ -9,6 +9,6 @@ properties:
   - https://www.reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjyiuoy/
 ---
 
-&gt;I've been having Dutch lessons
+>I've been having Dutch lessons
 
 Having one class per week won't help me read contracts in a blink of an eye unfortunately.

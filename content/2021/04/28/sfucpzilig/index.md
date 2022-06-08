@@ -11,6 +11,6 @@ properties:
 
 That and some other news in the past few months were what made me ask this question here in first place...
 
-\&gt; The OMT is recommending the government ‘investigate how a complete Covid-19 vaccination register can be implemented quickly’ as has also been achieved in other European countries.
+\> The OMT is recommending the government ‘investigate how a complete Covid-19 vaccination register can be implemented quickly’ as has also been achieved in other European countries.
 
 In some other countries it has existed for years, it's nothing new.

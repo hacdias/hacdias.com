@@ -13,4 +13,4 @@ Hello nanaki!
 
 I'm 130 cbt and I have died like... 5/6 times in the second wave. This is my gear: http://imgur.com/a/8bwrM and my levels: https://apps.runescape.com/runemetrics/app/overview/player/Henry+Days .
 
-What would you recommend? Who should we kill first? I'm trying Nomad -&gt; Linza -&gt; Greg.
+What would you recommend? Who should we kill first? I'm trying Nomad -> Linza -> Greg.

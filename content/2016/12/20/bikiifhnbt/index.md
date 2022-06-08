@@ -13,4 +13,4 @@ I've te subjugation top too. I don't have the Sunspear because I don't have 76 h
 
 Have you brought any BoB?
 
-I've already spent a lot of GP. I don't really understand what I'm doing wrong. Probably my strategy? The last two times I tried Nomad -&gt; Greg and then Linza but I always died when trying to kill Greg.
+I've already spent a lot of GP. I don't really understand what I'm doing wrong. Probably my strategy? The last two times I tried Nomad -> Greg and then Linza but I always died when trying to kill Greg.

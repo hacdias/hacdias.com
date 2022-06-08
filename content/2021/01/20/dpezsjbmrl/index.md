@@ -11,6 +11,6 @@ properties:
 
 Yeah, I just hoped the European banking system would work better across borders. My Portuguese **debit** cards are all Visa (yes, they are debit, not credit) and barely accepted here.
 
-&gt;It’s not as if the Dutch used by banks is beginner level.
+>It’s not as if the Dutch used by banks is beginner level.
 
 Exactly.

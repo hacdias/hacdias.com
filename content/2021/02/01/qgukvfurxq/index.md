@@ -9,6 +9,6 @@ properties:
   - https://www.reddit.com/r/IST/comments/la0go5/entrevista_a_rogério_colaço_presidente_do_ist/gll37dl/
 ---
 
-\&gt;  O professor diz que não leu, nem irá ler qualquer carta que seja anónima.
+\>  O professor diz que não leu, nem irá ler qualquer carta que seja anónima.
 
 Que vergonha.

@@ -13,10 +13,10 @@ Hey :D
 
 Thanks for the comment :)
 
-&gt;Haha I like it - I can see the inspiration from [neustadt.fr](https://neustadt.fr).
+>Haha I like it - I can see the inspiration from [neustadt.fr](https://neustadt.fr).
 
 Definitely, it was my main inspiration. I've tried a retro look a few months ago but I didn't have much success as now. Something was lacking at the time.
 
-&gt;Are you still using Hugo to generate the site?
+>Are you still using Hugo to generate the site?
 
 Yes! I just don't have the code public (for now) because it might include private webmentions (it doesn't, but it's able to at any moment). I need to change that.

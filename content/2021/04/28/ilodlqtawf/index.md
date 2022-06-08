@@ -9,10 +9,10 @@ properties:
   - https://www.reddit.com/r/Netherlands/comments/n0bain/healthcarevaccination_patient_record/gw5oofc/
 ---
 
-\&gt; The thing is that you can also visit the GP for free and they refer you to a specialist. So they are the primary doctor.
+\> The thing is that you can also visit the GP for free and they refer you to a specialist. So they are the primary doctor.
 
 Same in my home country. Or you can just go to any specialist in the private sector, because there's always waitlists - which is a bit annoying.
 
-\&gt; I actually think it took almost 2 days
+\> I actually think it took almost 2 days
 
 😂

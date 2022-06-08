@@ -13,33 +13,33 @@ The Portuguese anthem is part (a few stanzas) of a song called "[A Portuguesa](h
 
 The anthem in English:
 
-&gt;*Heroes of the sea, noble people,*  
-&gt;  
-&gt;*Brave, immortal nation,*  
-&gt;  
-&gt;*Raise once again today*  
-&gt;  
-&gt;*The splendor of Portugal!*  
-&gt;  
-&gt;*Among the mist of memory,*  
-&gt;  
-&gt;*Oh Fatherland, one feels the voice*  
-&gt;  
-&gt;*Of your distinguished forefathers,*  
-&gt;  
-&gt;*That shall lead you on to victory!*  
-&gt;  
-&gt;Chorus:  
-&gt;  
-&gt;*To arms, to arms!*  
-&gt;  
-&gt;*Over land, over sea,*  
-&gt;  
-&gt;*To arms, to arms!*  
-&gt;  
-&gt;*For the Fatherland, fight!*  
-&gt;  
-&gt;*Against the cannons, march on, march on!*
+>*Heroes of the sea, noble people,*  
+>  
+>*Brave, immortal nation,*  
+>  
+>*Raise once again today*  
+>  
+>*The splendor of Portugal!*  
+>  
+>*Among the mist of memory,*  
+>  
+>*Oh Fatherland, one feels the voice*  
+>  
+>*Of your distinguished forefathers,*  
+>  
+>*That shall lead you on to victory!*  
+>  
+>Chorus:  
+>  
+>*To arms, to arms!*  
+>  
+>*Over land, over sea,*  
+>  
+>*To arms, to arms!*  
+>  
+>*For the Fatherland, fight!*  
+>  
+>*Against the cannons, march on, march on!*
 
 I guess that we can say that, at the time, it was a revolutionary song and it also conveys the idea of love for the country and patriotism.
 

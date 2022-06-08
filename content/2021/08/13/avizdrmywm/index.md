@@ -13,4 +13,4 @@ That can't be the reason. It's illegal.
 
 [https://www.government.nl/topics/health-insurance](https://www.government.nl/topics/health-insurance)
 
-&gt; Every person who lives or works in the Netherlands is legally obliged to take out standard health insurance to cover the cost of, for example, consulting a general practitioner, hospital treatment and prescription medication. You may also opt to take out additional insurance to cover costs not included in the standard package.
+> Every person who lives or works in the Netherlands is legally obliged to take out standard health insurance to cover the cost of, for example, consulting a general practitioner, hospital treatment and prescription medication. You may also opt to take out additional insurance to cover costs not included in the standard package.

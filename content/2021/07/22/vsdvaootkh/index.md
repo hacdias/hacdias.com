@@ -9,7 +9,7 @@ properties:
   - https://www.reddit.com/r/AskEurope/comments/opbkcs/do_more_people_use_debit_or_credit_cards_in_your/h647bfg/
 ---
 
-Hmm... I disagree. I think they should work well worldwide. I remember twice on flights Netherlands -&gt; Portugal, the flight attendant clearly stated "We do not accept cash, nor Maestro, nor VPay". Still, some people didn't listen and ordered food. Then they couldn't pay. Fortunately, there were other nice passengers that paid for them.
+Hmm... I disagree. I think they should work well worldwide. I remember twice on flights Netherlands -> Portugal, the flight attendant clearly stated "We do not accept cash, nor Maestro, nor VPay". Still, some people didn't listen and ordered food. Then they couldn't pay. Fortunately, there were other nice passengers that paid for them.
 
 I think debit cards should be as versatile as possible and not confined to work within a single country. It would avoid this situations for many people. I'm not even talking about me, as I don't have this issues.
 

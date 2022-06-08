@@ -13,6 +13,6 @@ Isn’t there a similar thing between Portugal and Brazil already, where basical
 
 On that case, Brazilian citizens receive a Portuguese citizen card that explicitly says it cannot be used for travel instead of having the regular Machine Readable Area, not allowing them for travel within the Schengen space - I assume. The opposite is also true. 
 
-&gt; Additionally, because Brazilian citizenship alone is not sufficient to allow a person to make use of the European Union's provisions for the freedom of personal movement, these Citizen Cards are marked "NÃO SERVE DE DOCUMENTO DE VIAGEM / NOT VALID AS A TRAVEL DOCUMENT", instead of the machine-readable zone that would be found on a Portuguese citizen's card.[5]
+> Additionally, because Brazilian citizenship alone is not sufficient to allow a person to make use of the European Union's provisions for the freedom of personal movement, these Citizen Cards are marked "NÃO SERVE DE DOCUMENTO DE VIAGEM / NOT VALID AS A TRAVEL DOCUMENT", instead of the machine-readable zone that would be found on a Portuguese citizen's card.[5]
 
 I’m not sure to which point this new agreement differs much, besides including other countries. I wonder what the economical impact might be.
