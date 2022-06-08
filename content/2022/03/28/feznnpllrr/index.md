@@ -9,7 +9,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/PortugalLaFora/
   syndication: https://www.reddit.com/r/PortugalLaFora/comments/tq4lb2/troca_de_carta_de_condu%C3%A7%C3%A3o_noutro_pa%C3%ADs_da_eu/
-  visibility: unlisted
 ---
 
 Boas! Estou a viver nos Países Baixos e devido a certos motivos pedi a troca da carta de condução para a carta de condução de cá. O pedido geralmente demora 2 a 4 semanas. Todas as pessoas com quem falei da EU receberam a nova em \~2 semanas.

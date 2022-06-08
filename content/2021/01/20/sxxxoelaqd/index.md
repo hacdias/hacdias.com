@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/Netherlands/
   syndication: https://www.reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/
-  visibility: unlisted
 ---
 
 Hey!

@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/PortugalLaFora/
   syndication: https://www.reddit.com/r/PortugalLaFora/comments/ottott/agendamento_na_embaixada_em_haia/
-  visibility: unlisted
 ---
 
 Boas,

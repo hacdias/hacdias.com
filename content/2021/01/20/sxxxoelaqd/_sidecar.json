@@ -4,6 +4,26 @@
   "webmentions": [
     {
       "author": {
+        "name": "",
+        "photo": "",
+        "type": "card",
+        "url": ""
+      },
+      "content": "[deleted]",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T21:23:03Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjzmqvw/",
+      "wm-id": 1411599,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:45Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjzmqvw",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
         "name": "vanghos7",
         "photo": "https://cdn.hacdias.com/wm/130e0373c496701074a9c7aeee3a57384e8d8728f7e586b9e8d8670dd84e8421.png",
         "type": "card",
@@ -20,6 +40,386 @@
       "wm-property": "in-reply-to",
       "wm-received": "2022-06-08T10:24:46Z",
       "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjz9lee",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "kallebo1337",
+        "photo": "https://cdn.hacdias.com/wm/e5a4383ed4919b35c2f1ccda334c0aa66bee721cb57121000f0235d217f38e08.png",
+        "type": "card",
+        "url": "https://reddit.com/user/kallebo1337/"
+      },
+      "content": "bunq is good",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T18:43:42Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjz0udy/",
+      "wm-id": 1411594,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:30Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjz0udy",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "moimoisauna",
+        "photo": "https://cdn.hacdias.com/wm/6223dc585b809ac4d5322031743d57d81456219ba5eae6125a185f059b6e0fc3.png",
+        "type": "card",
+        "url": "https://reddit.com/user/moimoisauna/"
+      },
+      "content": "Oof. Never heard of that bank; when I was in the Netherlands I had an account with ING. Pretty sure they even have a section for English speaking folk online.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T17:34:06Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjyr448/",
+      "wm-id": 1411595,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:35Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjyr448",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "bewildered_sunflower",
+        "photo": "https://cdn.hacdias.com/wm/8484d34282d6f3775396e8142c7bcaa1d52ac7bc132aa6ada52259735dc1026b.png",
+        "type": "card",
+        "url": "https://reddit.com/user/bewildered_sunflower/"
+      },
+      "content": "Yikes, that's rude, even for Dutch people. Altough, I had an account with ASN too and wasn't too happy about them either. I switched to Triodos, and I'm quite happy about that. They're quick to reply and quite friendly. Not sure about their English, but since they are truly independent, they are even more ethical than ASN (ASN is a daughter company of a bigger bank, SNS/De Volksbank).",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T15:43:05Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjyc74z/",
+      "wm-id": 1411598,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:43Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjyc74z",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "dabenu",
+        "photo": "https://cdn.hacdias.com/wm/9377c9b8671396db8639cf5ce8266266617727e3113500907bcdcc5706c0cb77.png",
+        "type": "card",
+        "url": "https://reddit.com/user/dabenu/"
+      },
+      "content": "I think it's unfortunate so many people suggest ING or ABN Amro, while you specifically noted to be interested in sustainable banking. ING and ABN are actually some of the worst banks out there. In my oppinion you have 3 options: - Bunq. Very internationally focused, support is always available in English and Dutch but also in different languages (Spanish, Italian, german, maybe more) depending who's on the other end (they also integrate google translate in their support app but not sure how well that works). You can choose yourself how (and if) your money is invested and they try to become carbon neutral. - Any other branch of Volksbank, being (apart from ASN) SNS and Regiobank. I have no idea if they do English though - Triodos bank. Another bank famous for its sustainability that's also active in the UK amongst other countries, but I'm not sure if they do english support for NL accounts. Also I know from personal experience it's quite a hassle to open an account with them.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T14:59:18Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjy6wmy/",
+      "wm-id": 1411578,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:19:30Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjy6wmy",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "PhilippKrebs",
+        "photo": "https://cdn.hacdias.com/wm/9377c9b8671396db8639cf5ce8266266617727e3113500907bcdcc5706c0cb77.png",
+        "type": "card",
+        "url": "https://reddit.com/user/PhilippKrebs/"
+      },
+      "content": "I used to live in the Netherlands for some time and I also had an account with ABN AMRO, and most of my international colleagues did the same thing in the beginning. ABN really identified this market segment for themselves, if other banks refuse to speak English, even better for them! Price-wise it didn't make a difference at that time, all the major banks charged more or less the same fees.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T13:29:10Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxx4v9/",
+      "wm-id": 1411600,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:48Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxx4v9",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "gnpwdr1",
+        "photo": "https://cdn.hacdias.com/wm/d81ffc824be768fa38fcd6e9a45f5d9954397affc2dc16246551722a7c700817.png",
+        "type": "card",
+        "url": "https://reddit.com/user/gnpwdr1/"
+      },
+      "content": "I can talk for ING, I have personal and business accounts with them. I went with ING instead of ABN amro for a number of reasons, one of them was with ING online banking you could use your own mobile as a 2FA device instead of carrying a calculator looking device from ABN Amro (i dont know if this is still like that but if it is its a major deal breaker to carry an abn calculator in my pocket) Then again everyone has different needs, if you are using only daily transactional/personal banking, that may not be such a big deal for you. I've been very happy with ING, calls, face to face help in branches etc always in English. Great experience and I'd recommend it.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:50:06Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxtp4z/",
+      "wm-id": 1411607,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:36:02Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxtp4z",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "the6thReplicant",
+        "photo": "https://cdn.hacdias.com/wm/c49eb1bf2d21c0bf9f402256e4ae3983b6a4c7f05c4f05c11bf9abb48f558fc7.png",
+        "type": "card",
+        "url": "https://reddit.com/user/the6thReplicant/"
+      },
+      "content": "I live in Belgium (so YMMV) but ING is very English friendly. I get all my documentation in English, the app is configured to 100% for English users, including the only banking web service.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:49:04Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxtm3l/",
+      "wm-id": 1411596,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:35Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxtm3l",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "EthanColeK",
+        "photo": "https://cdn.hacdias.com/wm/97aa92acc4335fd14eef4a0ec0b83748369391fe67e6237a25b7e4aa6423001c.png",
+        "type": "card",
+        "url": "https://reddit.com/user/EthanColeK/"
+      },
+      "content": "ABN AMRO by far the best option",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:44:39Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxt98w/",
+      "wm-id": 1411606,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:36:02Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxt98w",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "Londonitwit",
+        "photo": "https://cdn.hacdias.com/wm/6431bd8f9b8772ef3a401a4d1b07bf1377499ec570aff772ae8316787ed35b50.png",
+        "type": "card",
+        "url": "https://reddit.com/user/Londonitwit/"
+      },
+      "content": "ABN Amro is the only good bank for expats and English speakers imho",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:34:47Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxshbd/",
+      "wm-id": 1411593,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:28Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxshbd",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "fhusquinet",
+        "photo": "https://cdn.hacdias.com/wm/01820a5304fb2c44dcc810aabcd884f19e0cf1e2828ff59f016cbed4c94996c5.jpg",
+        "type": "card",
+        "url": "https://reddit.com/user/fhusquinet/"
+      },
+      "content": "My girlfriend has an account with ING, no issue setting it up in agency in English, the app looks easy to use but she doesn't use it much anyways. I have an account and mortgage with Rabobank, everything was done in English (though the contract is in Dutch, the person who setup the account and mortgage translated everything to me quickly to get an idea before I got it translated correctly and signed it a few days later). I can always talk to someone who speaks English through their online chat or by phone if I need to, no issue there. I guess it depends where you live, in big cities (Amsterdam, Rotterdam) I don't think you'll have much issue with any major banks speaking only English, might be a big harder in smaller agencies where there isn't many foreigners.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:25:02Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxrqo1/",
+      "wm-id": 1411602,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:52Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxrqo1",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "fileerk",
+        "photo": "https://cdn.hacdias.com/wm/fde0d5e00f1267d5d7ed1a2654630f67faba83b88f31d594f8558c32eb510c32.png",
+        "type": "card",
+        "url": "https://reddit.com/user/fileerk/"
+      },
+      "content": "ABN or ING. I am an expat and have an account at ING, I like the app and all the transactions are super easy. Although communications through emails/ letters can be in Dutch, whenever I needed support I had no issues. I heard ABN is also expat- friendly, but no personal experience regarding my individual bank account.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:11:18Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxqqlv/",
+      "wm-id": 1411601,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:51Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxqqlv",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "Mercel22",
+        "photo": "https://cdn.hacdias.com/wm/4b8719ad548f150effbbab1dc5789350adbeeb8571314c8c0ad51552e23b4508.png",
+        "type": "card",
+        "url": "https://reddit.com/user/Mercel22/"
+      },
+      "content": "Ever heard of bunq, try to google that?See if they’re your cup of tea. Even tho i can open an account in ING and ABN, i stay true to bunq and continue to plant trees. 😂 Once you search it out you will understand the last part.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:10:40Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxqoza/",
+      "wm-id": 1411605,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:58Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxqoza",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "PrincessBoss4444",
+        "photo": "https://cdn.hacdias.com/wm/3abcde8b343c0a55dd0236a789a18dff9791176ced56480655d5f37a53f31447.jpg",
+        "type": "card",
+        "url": "https://reddit.com/user/PrincessBoss4444/"
+      },
+      "content": "Go to Triodos or Rabobank.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:10:04Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxqnf3/",
+      "wm-id": 1411597,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:39Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxqnf3",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "Dipswitch_512",
+        "photo": "https://cdn.hacdias.com/wm/4f924e89e01e3102f828104c290c4e4ced0d17d576a31b62654c01bd90fe8bc2.png",
+        "type": "card",
+        "url": "https://reddit.com/user/Dipswitch_512/"
+      },
+      "content": "Well I'm happy to hear more people going to ASN because they are the sustainable option. If you are worried about them not talking English with you on the phone I'm thinking you can call them and find out Or if you have questions/issues I'd gladly help with translating (I have been banking with ASN for a.few years now)",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T12:06:19Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxqdn6/",
+      "wm-id": 1411609,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:36:07Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxqdn6",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "dagonesque",
+        "photo": "https://cdn.hacdias.com/wm/83705a8cb9ef37f2863957f9fbc46b1a913043fccfb13c851e3a3a50357d2ee9.png",
+        "type": "card",
+        "url": "https://reddit.com/user/dagonesque/"
+      },
+      "content": "ABN - always had good experiences with them. Bunq is also good. They’re completely online and the customer service is very good in my experience.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T11:28:58Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxnu8s/",
+      "wm-id": 1411608,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:36:06Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxnu8s",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "BictorianPizza",
+        "photo": "https://cdn.hacdias.com/wm/f55812457a9aa80c1d3d126ad9cb4a8c56615ea1cc1edb8055c7caada75dbcf0.png",
+        "type": "card",
+        "url": "https://reddit.com/user/BictorianPizza/"
+      },
+      "content": "Definitely ING and ABN Amro are the best options here. Reliable service and no complications when it comes to English customer service.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T11:22:12Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxndre/",
+      "wm-id": 1411603,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:35:54Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxndre",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "",
+        "photo": "",
+        "type": "card",
+        "url": ""
+      },
+      "content": "ABN AMRO -- they actively market to expats with English",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T10:49:08Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxla7d/",
+      "wm-id": 1411577,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:19:28Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxla7d",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "smth2believe",
+        "photo": "https://cdn.hacdias.com/wm/227f6d21044e6570092f808892bb9a173808b848c36e8c0fecc86504007b727e.png",
+        "type": "card",
+        "url": "https://reddit.com/user/smth2believe/"
+      },
+      "content": "ING app is in English, never had to deal with support over internet/phone but in branch they where happy to help in English :)",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T10:48:19Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxl8e8/",
+      "wm-id": 1411576,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:19:14Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxl8e8",
+      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
+    },
+    {
+      "author": {
+        "name": "blackorwhiteorgrey",
+        "photo": "https://cdn.hacdias.com/wm/fb2dc77c2207019c7c3a25d4c5d59dc76240191aac3fd1311ea90e626d2d8896.png",
+        "type": "card",
+        "url": "https://reddit.com/user/blackorwhiteorgrey/"
+      },
+      "content": "Sounds like they will do as you fear. Two options: 1) Switch to a different bank - Triodos is also sustainable. 2) Learn Dutch.",
+      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
+      "post-type": "reply",
+      "published": "2021-01-20T10:37:15Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxkk9p/",
+      "wm-id": 1411610,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:36:09Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjxkk9p",
       "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
     }
   ]

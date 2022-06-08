@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/learndutch/
   syndication: https://www.reddit.com/r/learndutch/comments/hqwzrc/resources_for_portuguese_native_speaker/
-  visibility: unlisted
 ---
 
 Hello!

@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/eindhoven/
   syndication: https://www.reddit.com/r/eindhoven/comments/igi68w/seller_at_feel_good_market/
-  visibility: unlisted
 ---
 
 Hey!

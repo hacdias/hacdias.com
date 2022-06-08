@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/Netherlands/
   syndication: https://www.reddit.com/r/Netherlands/comments/qy7ft9/selfemployed_friendly_bank/
-  visibility: unlisted
 ---
 
 Hi y'all!

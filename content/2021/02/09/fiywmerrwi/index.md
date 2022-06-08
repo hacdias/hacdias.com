@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/Netherlands/
   syndication: https://www.reddit.com/r/Netherlands/comments/lg365h/phone_calls_after_registering_at_kvk/
-  visibility: unlisted
 ---
 
 Goedeavond,

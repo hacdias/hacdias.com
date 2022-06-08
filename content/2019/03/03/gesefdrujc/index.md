@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/DataHoarder/
   syndication: https://www.reddit.com/r/DataHoarder/comments/awstj1/should_i_buy_a_nas_or_share_a_network_device_from/
-  visibility: unlisted
 ---
 
 Hey! 👋

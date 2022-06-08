@@ -1,5 +1,26 @@
 {
   "targets": [],
   "context": null,
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "leto78",
+        "photo": "https://cdn.hacdias.com/wm/02587950110bebbd78e8c9f280a31958d8b37197b348f0285d6ebdb1fe5e5549.png",
+        "type": "card",
+        "url": "https://reddit.com/user/leto78/"
+      },
+      "content": "As a native Portuguese speaker myself, I would recommend learning Dutch with respect to English. There are a lot of similarities between the languages and it is specially useful in the beginning to have a frame of reference. There are some dictionaries (from Van Dale and Porto Editora) but I can't remember the last time that I used a dictionary that wasn't online. As for resources, you can check the wiki of this subreddit.",
+      "in-reply-to": "https://hacdias.com/2020/07/14/fxbbxkxszi",
+      "post-type": "reply",
+      "published": "2020-07-14T12:03:20Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/learndutch/comments/hqwzrc/resources_for_portuguese_native_speaker/fy118oo/",
+      "wm-id": 1411588,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:28:54Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/hqwzrc/fy118oo",
+      "wm-target": "https://hacdias.com/2020/07/14/fxbbxkxszi"
+    }
+  ]
 }

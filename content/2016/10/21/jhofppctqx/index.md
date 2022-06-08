@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/golang/
   syndication: https://www.reddit.com/r/golang/comments/58pg6q/which_is_the_best_way_to_organize_go_code/
-  visibility: unlisted
 ---
 
 Hello!

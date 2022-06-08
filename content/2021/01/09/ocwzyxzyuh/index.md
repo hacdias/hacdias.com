@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/UsbCHardware/
   syndication: https://www.reddit.com/r/UsbCHardware/comments/ktost3/powered_usb_3_hub_to_connect_keyboard_mouse/
-  visibility: unlisted
 ---
 
 Hello!

@@ -8,7 +8,6 @@ createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/Netherlands/
   syndication: https://www.reddit.com/r/Netherlands/comments/n0bain/healthcarevaccination_patient_record/
-  visibility: unlisted
 ---
 
 Hi everyone!

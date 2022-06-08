@@ -1,5 +1,86 @@
 {
   "targets": [],
   "context": null,
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "",
+        "photo": "",
+        "type": "card",
+        "url": ""
+      },
+      "content": "[deleted]",
+      "in-reply-to": "https://hacdias.com/2019/03/03/gesefdrujc",
+      "post-type": "reply",
+      "published": "2019-03-03T13:56:57Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/DataHoarder/comments/awstj1/should_i_buy_a_nas_or_share_a_network_device_from/ehp5a0o/",
+      "wm-id": 1411585,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:28:37Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/awstj1/ehp5a0o",
+      "wm-target": "https://hacdias.com/2019/03/03/gesefdrujc"
+    },
+    {
+      "author": {
+        "name": "",
+        "photo": "",
+        "type": "card",
+        "url": ""
+      },
+      "content": "[deleted]",
+      "in-reply-to": "https://hacdias.com/2019/03/03/gesefdrujc",
+      "post-type": "reply",
+      "published": "2019-03-03T12:21:42Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/DataHoarder/comments/awstj1/should_i_buy_a_nas_or_share_a_network_device_from/ehp125q/",
+      "wm-id": 1411584,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:28:37Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/awstj1/ehp125q",
+      "wm-target": "https://hacdias.com/2019/03/03/gesefdrujc"
+    },
+    {
+      "author": {
+        "name": "michrech",
+        "photo": "https://cdn.hacdias.com/wm/97d25a62e30c538db9bb47e0f313cc21016517ad3e7a99237ac4da3d896b4bf9.png",
+        "type": "card",
+        "url": "https://reddit.com/user/michrech/"
+      },
+      "content": "Yes, I'm aware I should also back them up online. Isn't that what Dropbox is doing? I was wondering about the reliability of using a NAS mounted on a computer and using it directly. I'd use it mostly for coding files or schoolwork. Unless your network hardware is utter unreliable garbage, you shouldn't have an issue here. Pretty well everyone in this subreddit does this on a daily basis. Hell, I even have a Windows .VHD file (a virtual HDD) on my NAS (which itself is a WHS2011 virtual machine) that I mount on my laptop or desktop that holds my tiny Steam game library (so I can move between the two systems and not have duplicate copies of the games installed) -- the games run pretty well entirely from that .VHD stored on the NAS without issue.",
+      "in-reply-to": "https://hacdias.com/2019/03/03/gesefdrujc",
+      "post-type": "reply",
+      "published": "2019-03-03T11:00:56Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/DataHoarder/comments/awstj1/should_i_buy_a_nas_or_share_a_network_device_from/ehoy457/",
+      "wm-id": 1411586,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:28:45Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/awstj1/ehoy457",
+      "wm-target": "https://hacdias.com/2019/03/03/gesefdrujc"
+    },
+    {
+      "author": {
+        "name": "SoneEv",
+        "photo": "https://cdn.hacdias.com/wm/f7f9f0670699346f3d140730e6e1712dfa89cf3007f20096f89be7574f38042f.png",
+        "type": "card",
+        "url": "https://reddit.com/user/SoneEv/"
+      },
+      "content": "NAS is just a system set up for network sharing. You can roll your own with a Mac Mini or buy an all-in-one NAS system. Do you want it to serve files to other computers without your main computer being on? Get a NAS. Do you just run it through one computer? Get a DAS (direct attached storage). It really just depends on how you use it.",
+      "in-reply-to": "https://hacdias.com/2019/03/03/gesefdrujc",
+      "post-type": "reply",
+      "published": "2019-03-03T10:32:27Z",
+      "type": "entry",
+      "url": "https://reddit.com/r/DataHoarder/comments/awstj1/should_i_buy_a_nas_or_share_a_network_device_from/ehox5n3/",
+      "wm-id": 1411587,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-08T13:28:47Z",
+      "wm-source": "https://brid.gy/comment/reddit/hacdias/awstj1/ehox5n3",
+      "wm-target": "https://hacdias.com/2019/03/03/gesefdrujc"
+    }
+  ]
 }
