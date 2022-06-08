@@ -1,7 +1,6 @@
 ---
 description: 'Just watched: The Solar Power Tour by Lorde'
-draft: true
-published: 2022-06-08T22:30:07.04259847+02:00
+published: 2022-06-08T22:51:07.04259847+02:00
 section:
 - watches
 - home
