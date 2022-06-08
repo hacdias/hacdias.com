@@ -4,13 +4,13 @@
   {{ $data := .GetSidecar }}
   {{ $url := $mf2.String $mf2.TypeProperty }}
   <div class="h-cite ibox u-{{ $mf2.TypeProperty }}">
-    {{ with $data.Context }}
-      {{ if eq $type "like" }}
-        <span class="type">❤️</span>
-      {{ else if eq $type "repost" }}
-        <span class="type">📢</span>
-      {{ end }}
+    {{ if eq $type "like" }}
+      <span class="type">❤️</span>
+    {{ else if eq $type "repost" }}
+      <span class="type">📢</span>
+    {{ end }}
 
+    {{ with $data.Context }}
       <p>
         <span class="p-author h-card">
           <span class="p-name">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</span>
