@@ -1,29 +1,31 @@
 {{ define "post/header" }}
-  {{ if .IsLoggedIn }}
-    {{ $visibility := .Visibility }}
-    {{ if or .Draft .Deleted (ne $visibility "public") }}
-      <div class="ibox skinny attrs">
-        {{ if eq $visibility "private" }}
-          {{ $audience := .Audience }}
-          <span>
-          {{- if eq (len $audience) 0 -}}
-            🔒 Logged In
-          {{- else if containsString $audience .User -}}
-            🔒 Only You
-          {{- else if .IsAdmin -}}
-            🔒 Only Them
-          {{- else -}}
-            🐞 Bug
-          {{- end -}}
-          </span>
-        {{ else if eq $visibility "unlisted" }}
-          <span>😈 Unlisted</span>
-        {{ end }}
+  {{ $visibility := .Visibility }}
+  {{ $audience := .Audience }}
 
-        {{ if .Draft }}<span>✏️ Draft</span>{{ end }}
-        {{ if .Deleted }}<span>🗑 Deleted</span>{{ end }}
-      </div>
+  {{ if or .Draft .Deleted $audience (eq $visibility "private") }}
+  <div class="ibox skinny attrs">
+    {{ if .Draft }}<span>✏️ Draft</span>{{ end }}
+    {{ if .Deleted }}<span>🗑 Deleted</span>{{ end }}
+    
+    {{ if eq $visibility "private" }}
+      <span>
+      {{- if eq (len $audience) 0 -}}
+        🔒 Logged In
+      {{- else if containsString $audience .User -}}
+        🔒 Only You
+      {{- else if .IsAdmin -}}
+        🔒 Only Them
+      {{- else -}}
+        🐞 Bug
+      {{- end -}}
+      </span>
+    {{ else }}
+      {{ with $audience }}
+        {{ $url := index . 0 }}
+        <span>👥 To <strong><a rel="noopener noreferrer" target="_blank" href="{{ $url }}" class="u-audience">{{ domainAndPath $url }}</a></strong></span>
+      {{ end }}
     {{ end }}
+  </div>
   {{ end }}
 
   {{ $mf2 := .Helper }}
