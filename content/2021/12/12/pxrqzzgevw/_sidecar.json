@@ -6,7 +6,7 @@
       "type": "card",
       "url": "https://www.reddit.com/u/m15o0"
     },
-    "content": "I just finished a side-project: https://status.cafe. It's a place where we can share our current status. It's heavily inspired by imood and SpaceHey.\n\nThere aren't many features, but there are some:\n\n- Your profile page can be completely customized with HTML and CSS\n- There's a bookmarklet that lets you update your status from anywhere\n- There's a widget that lets you show your latest status on your homepage, like what I added at the top of mine.\n- You can subscribe to any person you'd like with Atom\n\nAnd that's it! It's still very new and I'm sure I'll be tweaking quite a lot in the coming weeks, but from a feature standpoint, I think it's complete. I want it to stay simple and last for years ahead, and nothing beats simplicity for that.",
+    "content": "I just finished a side-project: https://status.cafe. It's a place where we can share our current status. It's heavily inspired by imood and SpaceHey. There aren't many features, but there are some: - Your profile page can be completely customized with HTML and CSS - There's a bookmarklet that lets you update your status from anywhere - There's a widget that lets you show your latest status on your homepage, like what I added at the top of mine. - You can subscribe to any person you'd like with Atom And that's it! It's still very new and I'm sure I'll be tweaking quite a lot in the coming weeks, but from a feature standpoint, I think it's complete. I want it to stay simple and last for years ahead, and nothing beats simplicity for that.",
     "published": "2021-12-12T18:39:33Z",
     "type": "entry",
     "url": "https://www.reddit.com/r/hnblogs/comments/rev7uh/statuscafe/"
