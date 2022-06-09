@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "41942319",
+      "type": "card",
+      "url": "https://www.reddit.com/u/41942319"
+    },
+    "content": "I think you're mixing two things up. You've heard that the central health authority doesn't have access to all the data of who is being vaccinated, which is true. But that does not mean that vaccinations aren't being recorded. Every vaccination is recorded by the organisation who carries it out, but there's a ton of organisations/people carrying out vaccinations right now and they all record it on their own system. And that system is not synced with the system the national health authority uses. I believe they're working on linking them, though it's taking a long time. But because it's unworkable to manually record vaccinations carried out by every GP, every nursing home, every group home, etc in the whole country they use the estimate for now. Once the systems are connected most of the info will be available to the national health authority as well, and I assume your GP would get a record too if you haven't been vaccinated there. Like other countries we also have that booklet where your vaccinations are recorded, but I'm not sure if they intend to add COVID vaccinations to that as well. I think they're still working that out.",
+    "published": "2021-04-28T11:41:04Z",
+    "type": "entry",
+    "url": "https://www.reddit.com/r/Netherlands/comments/n0bain/healthcarevaccination_patient_record/gw5t2i4/"
+  },
+  "webmentions": []
+}

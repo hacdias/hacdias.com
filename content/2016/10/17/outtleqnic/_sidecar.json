@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "Matthias247",
+      "type": "card",
+      "url": "https://www.reddit.com/u/Matthias247"
+    },
+    "content": "Is this based on webdav? \nIf not wouldn't it make sense to implement it as webdav in Caddy, so that files can also be accessed with standard file managers?",
+    "published": "2016-10-17T08:53:13Z",
+    "type": "entry",
+    "url": "https://www.reddit.com/r/programming/comments/57wc6c/plugin_for_caddy_webserver_that_provides_an_web/d8vhmxw/"
+  },
+  "webmentions": []
+}

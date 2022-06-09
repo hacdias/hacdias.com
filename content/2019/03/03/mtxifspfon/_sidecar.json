@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "michrech",
+      "type": "card",
+      "url": "https://www.reddit.com/u/michrech"
+    },
+    "content": "\u003e Yes, I'm aware I should also back them up online. \n\nIsn't that what Dropbox is doing?\n\n\u003e I was wondering about the reliability of using a NAS mounted on a computer and using it directly. I'd use it mostly for coding files or schoolwork. \n\nUnless your network hardware is utter unreliable garbage, you shouldn't have an issue here.  Pretty well everyone in this subreddit does this on a daily basis.  Hell, I even have a Windows .VHD file (a virtual HDD) on my NAS (which itself is a WHS2011 virtual machine) that I mount on my laptop or desktop that holds my tiny Steam game library (so I can move between the two systems and not have duplicate copies of the games installed) -- the games run pretty well entirely from that .VHD stored on the NAS without issue.",
+    "published": "2019-03-03T11:00:56Z",
+    "type": "entry",
+    "url": "https://www.reddit.com/r/DataHoarder/comments/awstj1/should_i_buy_a_nas_or_share_a_network_device_from/ehoy457/"
+  },
+  "webmentions": []
+}

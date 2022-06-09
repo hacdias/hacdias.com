@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "epiris",
+      "type": "card",
+      "url": "https://www.reddit.com/u/epiris"
+    },
+    "content": "Hi, I noticed [this](https://github.com/hacdias/filemanager/blob/master/auth.go#L153) in a auth related file and that hints something may not be implemented properly. I am on mobile though so can't really search for where it is used right now, but if it's for something like a session token it's insecure.\n\nNext up I see [this](https://github.com/hacdias/filemanager/blob/master/filemanager.go#L374) which appears to default to true which seems like a possible mistake. Next [this](https://github.com/hacdias/filemanager/blob/5f883a629e1eb453978a2c946b554d80ec5e7107/resource.go#L124) appears to have even worst consequences if a user who try's to delete path such as ../../ etc. \n\nFrom what I could see most your file system checking are not safe and I see no tests to hint that you are covering things through extra indirection I can't easily track. At the end of the day you should have a single method that has a single invariant under any circumstance: ensure file system access is always rooted to a base directory. From there you can add methods to maintain the same guanrantees on a per user basis. But as it stands it's too hard to audit with strings checking for slashes all over the place and what not.\n\nI have a lot of reviews for security related stuff for fs and auth in my post history if you want to take a look or if you want me to look further just ask.",
+    "published": "2017-07-25T01:29:51Z",
+    "type": "entry",
+    "url": "https://www.reddit.com/r/golang/comments/6pa5wg/file_manager_app_that_can_be_used_as_a_standalone/dkod0b5/"
+  },
+  "webmentions": []
+}
