@@ -9,6 +9,7 @@ createdWith: https://hacdias.com/
 properties:
   category:
   - concert
+  location: /2022/06/08/peydkxopwh
   photo: cdn:/af1f30b5460cc7bff5dab449245d892fe7881745f345bbe2a12831f577668b70
   watch-of:
     properties:
