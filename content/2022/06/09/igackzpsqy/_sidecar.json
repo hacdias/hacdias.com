@@ -1,0 +1,32 @@
+{
+  "targets": [
+    "https://seblog.nl/",
+    "https://indieweb.org/posts#Types_of_Posts"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "type": "card",
+        "url": "https://seblog.nl/"
+      },
+      "content": "When @hacdias.com posted about our conversation about post topics I couldn’t stay behind to also formulate my part of it in a blogpost. Currently I have various feeds for various post types. I don’t want to link them all here, in case I want to change them around, but I have different feeds that only show my likes, my photos, my replies, etc (you can probably guess the URLs). These feeds are relatively easy to set up: does it have a photo? Then it’s a photo. Does it have a title? Then it’s an article. This post doesn’t have any, so it’s a note. I have a few of those rules set up and they fill these pages. But when you scroll through my photo feed, you will also see drawings. When you scroll through my notes, there are various topics represented. It is not that bad right now, but that is mainly because I don’t post as much as I could, because I don’t want to bore my readers with topics they don’t want to follow. On social media, we live a siloed life, and the people on the IndieWeb are trying to bring that all back to their own site. But, in the siloed life, we can pick the silo for the post. ‘Insta is for friends, Twitter is more business, Reddit is shitposting’, something like that. Sometimes the silo is aimed at a certain kind of post, sometimes it is just the kind of bubble you created for yourself on that silo that makes you post a certain way. On the IndieWeb, I have only one site. Of course I can get multiple – I have – but I like having all my posts in one place. But I also want to give people options for how to follow me, different persona to share posts with. I do have tags but most are not that useful. Most of them only contain one post, and also, most of them are very specific. I like the indieweb and vim tags, for they are quite topical, but those are exceptions. At one point (not now) I would like to divide posts up into probably five rough categories. The homepage might still show a selection of all, and there will also be a place to actually see everything, but I think these categories make sense to me: professional / helpful for all those posts in which I share something about IndieWeb, Vim, something about programming, something I learned personal for stories about what happened in my life, maybe also some tweets, the more human connection too personal for checkins, books I’ve read, food I’ve eaten, movies I’ve watched, still about life but without commentary art for those good pictures, occasional drawings, fiction stories, the things I post too little I said five and I posted four, because I don’t think this is final. I might also want to add a ‘current obsession’ category, to blog about those things I am deeply into. (There has been posts about keyboards here, you missed Getting Things Done, currently I am into the game of Go again.) A last category I might also need is ‘thinking out loud’, as this is a post that would fall into that. For what is worth, I’ll post it anyway.",
+      "mention-of": "https://hacdias.com/2022/06/09/igackzpsqy",
+      "post-type": "mention",
+      "published": "2022-06-09T20:42:59Z",
+      "rels": {
+        "canonical": "https://seblog.nl/2022/160/1"
+      },
+      "type": "entry",
+      "url": "https://seblog.nl/2022/06/09/1/post-types-and-post-topics",
+      "wm-id": 1412285,
+      "wm-private": false,
+      "wm-property": "mention-of",
+      "wm-received": "2022-06-09T20:44:11Z",
+      "wm-source": "https://seblog.nl/2022/06/09/1/post-types-and-post-topics",
+      "wm-target": "https://hacdias.com/2022/06/09/igackzpsqy"
+    }
+  ]
+}

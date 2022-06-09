@@ -21,7 +21,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🗺 Itineraries](/itineraries)
 - [❤️ Likes](/likes)
 - [🎶 Listens](/listens)
-- [💬 Micro](/micro)
 - [💭 Notes](/notes)
 - [📸 Photos](/photos)
 - [📚 Reads](/reads/summary)

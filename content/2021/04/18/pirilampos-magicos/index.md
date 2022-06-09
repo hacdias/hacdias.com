@@ -4,13 +4,14 @@ updated: 2021-09-20T05:52:12.214578732Z
 section:
 - micro
 - notes
+- photos
+photoClass: pixelated
 properties:
   category:
   - art
   - pixelart
   - creative
+  photo: https://cdn.hacdias.com/media/2019-04-pirilampos.gif
 ---
 
 Found this beautiful Pirilampos Mágicos (magical fireflies) from April 2019.
-
-![](https://cdn.hacdias.com/media/2019-04-pirilampos.gif?class=pixelated)

@@ -9,7 +9,7 @@ If you need to reach me directly, please try one of the following:
 
 - ✉️ E-mail as [mail@hacdias.com](mailto:mail@hacdias.com)
 - ☎️ Telegram as [@hacdias](https://t.me/hacdias)
-- 🤖 Discord as `hacdias#2540`
+- 🎮 Discord as `hacdias#2540`
 - ✨ Matrix as `@hacdias:tchncs.de`
 
 ## Elsewhere 🕸 {#elsewhere}
@@ -20,6 +20,7 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 - 📷 [Instagram (@hacdias)](https://instagram.com/hacdias)
 - 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
 - 💼 [LinkedIn (@hacdias)](https://linkedin.com/in/hacdias)
+- 🤖 [Reddit (@hacdias)](https://reddit.com/u/hacdias)
 
 ## Follow 🗞
 

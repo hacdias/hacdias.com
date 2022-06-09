@@ -1,6 +1,16 @@
 {
   "series": [
     {
+      "id": "/2022/06/09/qjtahduwfg",
+      "date": "2022-06-09T19:27:50+02:00",
+      "name": "The 100"
+    },
+    {
+      "id": "/2022/06/09/eijcrpvasj",
+      "date": "2022-06-09T12:30:50+02:00",
+      "name": "Kurzgesagt - In a Nutshell"
+    },
+    {
       "id": "/2022/06/04/wdwvveprxx",
       "date": "2022-06-04T20:47:35+02:00",
       "name": "RuPaul's Drag Race All Stars: Untucked!"
@@ -9,11 +19,6 @@
       "id": "/2022/06/04/cpsuzocyqq",
       "date": "2022-06-04T20:47:24+02:00",
       "name": "RuPaul's Drag Race All Stars"
-    },
-    {
-      "id": "/2022/06/02/ariweyacth",
-      "date": "2022-06-02T20:05:46+02:00",
-      "name": "The 100"
     },
     {
       "id": "/2022/06/02/ulcajfwqcn",
@@ -69,11 +74,6 @@
       "id": "/2022/04/08/xyvcremlts",
       "date": "2022-04-08T23:36:02+02:00",
       "name": "RuPaul's Drag Race: Untucked!"
-    },
-    {
-      "id": "/2022/04/06/yvewkurxff",
-      "date": "2022-04-06T10:24:06+02:00",
-      "name": "Kurzgesagt - In a Nutshell"
     },
     {
       "id": "/2022/03/30/zfmtzzdxgm",
@@ -226,7 +226,7 @@
       "name": "Pôr do Sol"
     },
     {
-      "id": "/2021/08/22/yscexpfbfj",
+      "id": "/2021/08/22/fkzngawxyi",
       "date": "2021-08-22T20:17:54+02:00",
       "name": "Riverdale"
     },
@@ -241,7 +241,7 @@
       "name": "Good Girls"
     },
     {
-      "id": "/2021/08/06/cjgecvbvta",
+      "id": "/2021/08/06/korfcveppu",
       "date": "2021-08-06T23:03:12+02:00",
       "name": "Control Z"
     },
@@ -271,7 +271,7 @@
       "name": "Love, Victor"
     },
     {
-      "id": "/2021/07/04/dbnrdsonup",
+      "id": "/2021/07/04/mapzbntbod",
       "date": "2021-07-04T13:51:59+02:00",
       "name": "The A List"
     },
@@ -311,7 +311,7 @@
       "name": "The Rain"
     },
     {
-      "id": "/2021/02/02/xsmahwofaq",
+      "id": "/2021/02/02/mzrprvphif",
       "date": "2021-02-02T10:05:31+01:00",
       "name": "The Good Place"
     },
@@ -321,7 +321,7 @@
       "name": "BONDiNG"
     },
     {
-      "id": "/2021/01/24/ojkirjwscc",
+      "id": "/2021/01/24/fjzxpwdrvg",
       "date": "2021-01-24T08:58:49+01:00",
       "name": "Fate: The Winx Saga"
     },
@@ -331,7 +331,7 @@
       "name": "Good Witch"
     },
     {
-      "id": "/2021/01/11/ahnudmzwzc",
+      "id": "/2021/01/11/jfqptccxpw",
       "date": "2021-01-11T10:26:17+01:00",
       "name": "Greenhouse Academy"
     },
@@ -361,7 +361,7 @@
       "name": "The Haunting of Bly Manor"
     },
     {
-      "id": "/2020/11/25/qcmkhxsmco",
+      "id": "/2020/11/25/sdsqlqnxto",
       "date": "2020-11-25T19:47:33+01:00",
       "name": "The Bureau of Magical Things"
     },
@@ -396,12 +396,12 @@
       "name": "Warrior Nun"
     },
     {
-      "id": "/2020/07/03/rbpxjbdpzr",
+      "id": "/2020/07/03/wlfhgdidsk",
       "date": "2020-07-03T10:52:03+02:00",
       "name": "Bangkok Love Stories: Innocence"
     },
     {
-      "id": "/2020/06/30/jlylgotwyx",
+      "id": "/2020/06/30/dkvgtllblt",
       "date": "2020-06-30T18:54:40+02:00",
       "name": "Please Like Me"
     },
@@ -541,12 +541,12 @@
       "name": "Mr. Robot"
     },
     {
-      "id": "/2016/10/05/tkdkaksffw",
+      "id": "/2016/10/05/wolbhpatun",
       "date": "2016-10-05T09:48:50+02:00",
       "name": "Heroes Reborn"
     },
     {
-      "id": "/2016/10/05/jpqgkegqug",
+      "id": "/2016/10/05/iuxlsydgzq",
       "date": "2016-10-05T09:48:10+02:00",
       "name": "Forever"
     },
@@ -566,7 +566,7 @@
       "name": "Once Upon a Time"
     },
     {
-      "id": "/2015/07/08/xjdfgnnhtr",
+      "id": "/2015/07/08/xhouuppsza",
       "date": "2015-07-08T11:47:50+02:00",
       "name": "Merlin"
     },

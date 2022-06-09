@@ -1,0 +1,25 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Ece",
+        "photo": "https://cdn.hacdias.com/wm/610da2b54cebfc5bd3983eac3c15897d4f613e2d0d0455c770cb6925ce95684c.jpg",
+        "type": "card",
+        "url": "https://twitter.com/poetsofberlin"
+      },
+      "like-of": "https://hacdias.com/2022/06/09/uvpjwfphes",
+      "post-type": "like",
+      "published": "2022-06-09T23:07:49Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1534833711857950726#favorited-by-1503067285166112774",
+      "wm-id": 1412486,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-06-09T23:07:49Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1534833711857950726/1503067285166112774",
+      "wm-target": "https://hacdias.com/2022/06/09/uvpjwfphes"
+    }
+  ]
+}
