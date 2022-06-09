@@ -4,7 +4,7 @@ published: 2021-10-07T12:10:39Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/IST/comments/q34ofm/quem_é_que_achou_que_teóricas_de_duas_horas/q34ofm/
+  in-reply-to: https://www.reddit.com/r/IST/comments/q34ofm/quem_é_que_achou_que_teóricas_de_duas_horas/
   syndication:
   - https://www.reddit.com/r/IST/comments/q34ofm/quem_é_que_achou_que_teóricas_de_duas_horas/hfpwulb/
 ---

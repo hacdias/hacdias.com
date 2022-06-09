@@ -4,7 +4,7 @@ published: 2021-07-28T19:22:30Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/otg4c9/did_your_country_eu_already_implement_20191157/otg4c9/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/otg4c9/did_your_country_eu_already_implement_20191157/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/otg4c9/did_your_country_eu_already_implement_20191157/h6v7f20/
 ---

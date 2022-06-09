@@ -4,7 +4,7 @@ published: 2020-08-16T07:18:29Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/askgaybros/comments/ia8orb/young_but_finding_this_out_too_late/ia8orb/
+  in-reply-to: https://www.reddit.com/r/askgaybros/comments/ia8orb/young_but_finding_this_out_too_late/
   syndication:
   - https://www.reddit.com/r/askgaybros/comments/ia8orb/young_but_finding_this_out_too_late/g1pse9n/
 ---

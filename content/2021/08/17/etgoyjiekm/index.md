@@ -4,7 +4,7 @@ published: 2021-08-17T21:11:07Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/TUe/comments/p6bur2/looking_for_some_group_chat/p6bur2/
+  in-reply-to: https://www.reddit.com/r/TUe/comments/p6bur2/looking_for_some_group_chat/
   syndication:
   - https://www.reddit.com/r/TUe/comments/p6bur2/looking_for_some_group_chat/h9c2yqm/
 ---

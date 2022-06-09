@@ -4,7 +4,7 @@ published: 2021-07-23T16:22:04Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/IST/comments/oq3x74/alguém_me_pode_explicar_qual_é_a_diferença_entre/oq3x74/
+  in-reply-to: https://www.reddit.com/r/IST/comments/oq3x74/alguém_me_pode_explicar_qual_é_a_diferença_entre/
   syndication:
   - https://www.reddit.com/r/IST/comments/oq3x74/alguém_me_pode_explicar_qual_é_a_diferença_entre/h69j07u/
 ---

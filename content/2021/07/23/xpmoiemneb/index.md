@@ -4,7 +4,7 @@ published: 2021-07-23T12:42:02Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/opy1zm/do_you_have_a_tb_vaccine_scar_if_so_how_old_are/opy1zm/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/opy1zm/do_you_have_a_tb_vaccine_scar_if_so_how_old_are/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/opy1zm/do_you_have_a_tb_vaccine_scar_if_so_how_old_are/h68qdeh/
 ---

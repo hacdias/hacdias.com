@@ -4,7 +4,7 @@ published: 2018-07-30T20:34:23Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/IST/comments/936ayo/desporto_aeist_andebol/936ayo/
+  in-reply-to: https://www.reddit.com/r/IST/comments/936ayo/desporto_aeist_andebol/
   syndication:
   - https://www.reddit.com/r/IST/comments/936ayo/desporto_aeist_andebol/e3b7tju/
 ---

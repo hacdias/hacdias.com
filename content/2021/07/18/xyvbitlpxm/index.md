@@ -4,7 +4,7 @@ published: 2021-07-18T07:52:09Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/europe/comments/omcal5/portugal_signs_freedom_of_movement_treaty_with/omcal5/
+  in-reply-to: https://www.reddit.com/r/europe/comments/omcal5/portugal_signs_freedom_of_movement_treaty_with/
   syndication:
   - https://www.reddit.com/r/europe/comments/omcal5/portugal_signs_freedom_of_movement_treaty_with/h5lw4ew/
 ---

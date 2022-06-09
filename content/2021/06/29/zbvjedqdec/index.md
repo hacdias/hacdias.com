@@ -4,7 +4,7 @@ published: 2021-06-29T18:31:50Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/Netherlands/comments/oae3ds/what_are_your_travel_plans_for_this_year/oae3ds/
+  in-reply-to: https://www.reddit.com/r/Netherlands/comments/oae3ds/what_are_your_travel_plans_for_this_year/
   syndication:
   - https://www.reddit.com/r/Netherlands/comments/oae3ds/what_are_your_travel_plans_for_this_year/h3gvqmv/
 ---

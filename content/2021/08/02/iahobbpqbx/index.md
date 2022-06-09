@@ -4,7 +4,7 @@ published: 2021-08-02T08:40:44Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/ovu6mr/how_often_does_your_country_get_this_hot/ovu6mr/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/ovu6mr/how_often_does_your_country_get_this_hot/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/ovu6mr/how_often_does_your_country_get_this_hot/h7eq1lu/
 ---

@@ -4,7 +4,7 @@ published: 2021-10-26T21:57:53Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/qggsqg/pin_do_cc_bloqueado/qggsqg/
+  in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/qggsqg/pin_do_cc_bloqueado/
   syndication:
   - https://www.reddit.com/r/PortugalLaFora/comments/qggsqg/pin_do_cc_bloqueado/hi65jlp/
 ---

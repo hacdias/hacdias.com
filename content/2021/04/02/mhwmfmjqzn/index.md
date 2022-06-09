@@ -4,7 +4,7 @@ published: 2021-04-02T13:44:09Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/mihfzl/european_brand_pronunciation/mihfzl/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/mihfzl/european_brand_pronunciation/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/mihfzl/european_brand_pronunciation/gt51v7x/
 ---

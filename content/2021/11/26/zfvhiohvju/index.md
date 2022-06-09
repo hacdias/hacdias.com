@@ -4,7 +4,7 @@ published: 2021-11-26T21:46:45Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/r2xid5/semana_de_contenção_em_janeiro_com_teletrabalho/r2xid5/
+  in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/r2xid5/semana_de_contenção_em_janeiro_com_teletrabalho/
   syndication:
   - https://www.reddit.com/r/PortugalLaFora/comments/r2xid5/semana_de_contenção_em_janeiro_com_teletrabalho/hm790d3/
 ---

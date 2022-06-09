@@ -4,7 +4,7 @@ published: 2021-08-22T13:46:26Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/TUe/comments/p98e8g/romanin_tue_group_chat/p98e8g/
+  in-reply-to: https://www.reddit.com/r/TUe/comments/p98e8g/romanin_tue_group_chat/
   syndication:
   - https://www.reddit.com/r/TUe/comments/p98e8g/romanin_tue_group_chat/h9wpw9g/
 ---

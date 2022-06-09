@@ -4,7 +4,7 @@ published: 2022-04-20T12:46:08Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/PassportPorn/comments/u7vnqk/current_portuguese_passport_under_uv_2017_present/u7vnqk/
+  in-reply-to: https://www.reddit.com/r/PassportPorn/comments/u7vnqk/current_portuguese_passport_under_uv_2017_present/
   syndication:
   - https://www.reddit.com/r/PassportPorn/comments/u7vnqk/current_portuguese_passport_under_uv_2017_present/i5h37o1/
 ---

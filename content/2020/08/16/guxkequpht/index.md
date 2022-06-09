@@ -4,7 +4,7 @@ published: 2020-08-16T07:15:09Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/tifu/comments/iab63f/tifu_by_telling_my_roommate_i_loved_his_cooking/iab63f/
+  in-reply-to: https://www.reddit.com/r/tifu/comments/iab63f/tifu_by_telling_my_roommate_i_loved_his_cooking/
   syndication:
   - https://www.reddit.com/r/tifu/comments/iab63f/tifu_by_telling_my_roommate_i_loved_his_cooking/g1ps6s4/
 ---

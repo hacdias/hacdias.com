@@ -4,7 +4,7 @@ published: 2021-05-12T18:31:06Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/nattn6/europeans_whose_public_transport_is_paid_is_it/nattn6/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/nattn6/europeans_whose_public_transport_is_paid_is_it/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/nattn6/europeans_whose_public_transport_is_paid_is_it/gxvu6wc/
 ---

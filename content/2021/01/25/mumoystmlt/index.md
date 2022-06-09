@@ -4,7 +4,7 @@ published: 2021-01-25T07:12:37Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/Netherlands/comments/l4a7v2/covidcurfew_riots_in_10_municipalities_wtf/l4a7v2/
+  in-reply-to: https://www.reddit.com/r/Netherlands/comments/l4a7v2/covidcurfew_riots_in_10_municipalities_wtf/
   syndication:
   - https://www.reddit.com/r/Netherlands/comments/l4a7v2/covidcurfew_riots_in_10_municipalities_wtf/gkoo72u/
 ---

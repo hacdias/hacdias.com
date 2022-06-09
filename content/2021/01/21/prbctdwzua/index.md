@@ -4,7 +4,7 @@ published: 2021-01-21T15:46:34Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/l1685o/have_you_left_your_native_country/l1685o/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/l1685o/have_you_left_your_native_country/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/l1685o/have_you_left_your_native_country/gk2jpfe/
 ---

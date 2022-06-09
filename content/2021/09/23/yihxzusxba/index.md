@@ -4,7 +4,7 @@ published: 2021-09-23T21:20:12Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/Netherlands/comments/pu3rba/us_cdc_vaccine_register_for_corona_app/pu3rba/
+  in-reply-to: https://www.reddit.com/r/Netherlands/comments/pu3rba/us_cdc_vaccine_register_for_corona_app/
   syndication:
   - https://www.reddit.com/r/Netherlands/comments/pu3rba/us_cdc_vaccine_register_for_corona_app/he0h0jv/
 ---

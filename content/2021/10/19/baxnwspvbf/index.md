@@ -4,7 +4,7 @@ published: 2021-10-19T20:33:36Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/qb8qb5/is_your_anthem_more_of_a_revolutionary_song_or/qb8qb5/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/qb8qb5/is_your_anthem_more_of_a_revolutionary_song_or/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/qb8qb5/is_your_anthem_more_of_a_revolutionary_song_or/hha0wj5/
 ---

@@ -4,7 +4,7 @@ published: 2021-07-22T11:24:57Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/opbkcs/do_more_people_use_debit_or_credit_cards_in_your/opbkcs/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/opbkcs/do_more_people_use_debit_or_credit_cards_in_your/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/opbkcs/do_more_people_use_debit_or_credit_cards_in_your/h645a3y/
 ---

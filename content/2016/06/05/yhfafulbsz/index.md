@@ -4,7 +4,7 @@ published: 2016-06-05T20:07:28Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/runescape/comments/4mmpa6/runescape_nxt_in_4k_resolution/4mmpa6/
+  in-reply-to: https://www.reddit.com/r/runescape/comments/4mmpa6/runescape_nxt_in_4k_resolution/
   syndication:
   - https://www.reddit.com/r/runescape/comments/4mmpa6/runescape_nxt_in_4k_resolution/d3x6jmf/
 ---

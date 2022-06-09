@@ -4,7 +4,7 @@ published: 2021-05-16T16:12:30Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/IST/comments/ndkqpd/engenheiros_com_licenciatura/ndkqpd/
+  in-reply-to: https://www.reddit.com/r/IST/comments/ndkqpd/engenheiros_com_licenciatura/
   syndication:
   - https://www.reddit.com/r/IST/comments/ndkqpd/engenheiros_com_licenciatura/gyc5lty/
 ---

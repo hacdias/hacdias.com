@@ -4,7 +4,7 @@ published: 2016-09-09T07:59:32Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/photography/comments/51l4os/official_question_thread_ask_rphotography/51l4os/
+  in-reply-to: https://www.reddit.com/r/photography/comments/51l4os/official_question_thread_ask_rphotography/
   syndication:
   - https://www.reddit.com/r/photography/comments/51l4os/official_question_thread_ask_rphotography/d7fe6ri/
 ---

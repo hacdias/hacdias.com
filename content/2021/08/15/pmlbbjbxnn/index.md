@@ -4,7 +4,7 @@ published: 2021-08-15T19:54:15Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/portugal/comments/p4xdao/por_que_portugal_não_o_fez/p4xdao/
+  in-reply-to: https://www.reddit.com/r/portugal/comments/p4xdao/por_que_portugal_não_o_fez/
   syndication:
   - https://www.reddit.com/r/portugal/comments/p4xdao/por_que_portugal_não_o_fez/h92i7vp/
 ---

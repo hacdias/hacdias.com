@@ -4,7 +4,7 @@ published: 2021-01-21T15:17:53Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/l1wg1j/what_do_people_think_about_cash_vs_cashless_in/l1wg1j/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/l1wg1j/what_do_people_think_about_cash_vs_cashless_in/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/l1wg1j/what_do_people_think_about_cash_vs_cashless_in/gk2g3nj/
 ---

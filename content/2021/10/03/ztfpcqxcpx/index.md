@@ -4,7 +4,7 @@ published: 2021-10-03T10:02:50Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/portugal/comments/q0d05f/ctt_no_seu_melhor/q0d05f/
+  in-reply-to: https://www.reddit.com/r/portugal/comments/q0d05f/ctt_no_seu_melhor/
   syndication:
   - https://www.reddit.com/r/portugal/comments/q0d05f/ctt_no_seu_melhor/hf7il4p/
 ---

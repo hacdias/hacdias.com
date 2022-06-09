@@ -4,7 +4,7 @@ published: 2021-08-16T21:17:39Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/Netherlands/comments/p5izdf/lgbt_friendly_doctors/p5izdf/
+  in-reply-to: https://www.reddit.com/r/Netherlands/comments/p5izdf/lgbt_friendly_doctors/
   syndication:
   - https://www.reddit.com/r/Netherlands/comments/p5izdf/lgbt_friendly_doctors/h97imr5/
 ---

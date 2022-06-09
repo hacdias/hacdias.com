@@ -4,7 +4,7 @@ published: 2021-12-10T21:28:24Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/portugal/comments/rd7xl3/emojis_da_cultura_portuguesa/rd7xl3/
+  in-reply-to: https://www.reddit.com/r/portugal/comments/rd7xl3/emojis_da_cultura_portuguesa/
   syndication:
   - https://www.reddit.com/r/portugal/comments/rd7xl3/emojis_da_cultura_portuguesa/ho1dv7k/
 ---

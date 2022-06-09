@@ -4,7 +4,7 @@ published: 2021-11-12T13:28:38Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/AskEurope/comments/qs9g3s/the_most_student_meal_of_your_country/qs9g3s/
+  in-reply-to: https://www.reddit.com/r/AskEurope/comments/qs9g3s/the_most_student_meal_of_your_country/
   syndication:
   - https://www.reddit.com/r/AskEurope/comments/qs9g3s/the_most_student_meal_of_your_country/hkbvwtx/
 ---

@@ -4,7 +4,7 @@ published: 2016-07-02T21:32:28Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/Keybase/comments/47f764/weekly_rkeybase_invite_thread/47f764/
+  in-reply-to: https://www.reddit.com/r/Keybase/comments/47f764/weekly_rkeybase_invite_thread/
   syndication:
   - https://www.reddit.com/r/Keybase/comments/47f764/weekly_rkeybase_invite_thread/d4wzv82/
 ---

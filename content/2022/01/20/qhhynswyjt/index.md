@@ -4,7 +4,7 @@ published: 2022-01-20T18:10:45Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/s8p0p6/consulados_marcação_para_renovação_de_passaporte/s8p0p6/
+  in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/s8p0p6/consulados_marcação_para_renovação_de_passaporte/
   syndication:
   - https://www.reddit.com/r/PortugalLaFora/comments/s8p0p6/consulados_marcação_para_renovação_de_passaporte/hthljqm/
 ---

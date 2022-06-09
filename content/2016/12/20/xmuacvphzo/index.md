@@ -4,7 +4,7 @@ published: 2016-12-20T00:27:28Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/runescape/comments/5j9x6f/spoiler_mid_level_impossible_to_regain_quest_cape/5j9x6f/
+  in-reply-to: https://www.reddit.com/r/runescape/comments/5j9x6f/spoiler_mid_level_impossible_to_regain_quest_cape/
   syndication:
   - https://www.reddit.com/r/runescape/comments/5j9x6f/spoiler_mid_level_impossible_to_regain_quest_cape/dbeirii/
 ---

@@ -4,7 +4,7 @@ published: 2021-04-24T10:13:07Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/remNote/comments/mw7goq/problem_with_how_superscripts_are_displayed_in/mw7goq/
+  in-reply-to: https://www.reddit.com/r/remNote/comments/mw7goq/problem_with_how_superscripts_are_displayed_in/
   syndication:
   - https://www.reddit.com/r/remNote/comments/mw7goq/problem_with_how_superscripts_are_displayed_in/gvo12fn/
 ---

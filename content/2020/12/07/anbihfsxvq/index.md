@@ -4,7 +4,7 @@ published: 2020-12-07T12:00:23Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/runescape/comments/k8egi7/this_week_in_runescape_raksha/k8egi7/
+  in-reply-to: https://www.reddit.com/r/runescape/comments/k8egi7/this_week_in_runescape_raksha/
   syndication:
   - https://www.reddit.com/r/runescape/comments/k8egi7/this_week_in_runescape_raksha/gexncdf/
 ---

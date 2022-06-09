@@ -4,7 +4,7 @@ published: 2021-08-13T16:28:34Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/Netherlands/comments/p3n7nv/health_insurance/p3n7nv/
+  in-reply-to: https://www.reddit.com/r/Netherlands/comments/p3n7nv/health_insurance/
   syndication:
   - https://www.reddit.com/r/Netherlands/comments/p3n7nv/health_insurance/h8sso99/
 ---

@@ -4,7 +4,7 @@ published: 2020-04-13T20:42:46Z
 section:
 - replies
 properties:
-  in-reply-to: https://www.reddit.com/r/IST/comments/ft27lz/petição_para_a_suspensão_do_semestre/ft27lz/
+  in-reply-to: https://www.reddit.com/r/IST/comments/ft27lz/petição_para_a_suspensão_do_semestre/
   syndication:
   - https://www.reddit.com/r/IST/comments/ft27lz/petição_para_a_suspensão_do_semestre/fnb7hxb/
 ---
