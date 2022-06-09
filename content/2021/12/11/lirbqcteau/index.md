@@ -11,4 +11,4 @@ properties:
 
 Não me deram nenhuma razão. Da primeira vez que submeti, disseram-me que tinha potencial e pediram para tornar mais genérico, o que eu fiz. Depois submeti novamente em Junho (ou Julho) e vi que foi rejeitado por volta de novembro.
 
-Aqui está a proposal: [https://cdn.hacdias.com/u/f0278bc1a321452830b8db2710d330379e309baebf9a8ad37e39ed422d8d7470.pdf](https://cdn.hacdias.com/u/f0278bc1a321452830b8db2710d330379e309baebf9a8ad37e39ed422d8d7470.pdf)
+Aqui está a proposal: [cdn.hacdias.com/media/f0278bc1a321452830b8db2710d330379e309baebf9a8ad37e39ed422d8d7470.pdf](https://cdn.hacdias.com/media/f0278bc1a321452830b8db2710d330379e309baebf9a8ad37e39ed422d8d7470.pdf)

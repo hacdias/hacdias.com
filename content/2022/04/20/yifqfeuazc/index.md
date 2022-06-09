@@ -18,4 +18,4 @@ Some notes:
 
 I *might* take a bit of time next week to photograph the new one. All the pages have different designs so that'll take a bit longer to get all the pictures taken and edited 😃
 
-**Edit**: I just decided to take the pics for the new one: https://www.reddit.com/r/PassportPorn/comments/u7vnqk/current\_portuguese\_passport\_under\_uv\_2017\_present/
+**Edit**: I just decided to take the pics for the new one: https://www.reddit.com/r/PassportPorn/comments/u7vnqk/current_portuguese_passport_under_uv_2017_present/
