@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "hacdias",
+      "type": "card",
+      "url": "https://www.reddit.com/u/hacdias"
+    },
+    "content": "Hello!\n\nRight now I have my MBP 13\" in a stand and it is connected to an external keyboard, mouse and monitor and power, thus using all my 4 USB ports, which is always an hassle either to setup or when I actually need to connect some other device.\n\nI had an unpowered switch hub with my keyboard and my mouse, but the keyboard would sometimes lose power (I noticed the RGB shutting down for a few milliseconds then coming back) so I think the best would be to get a powered USB hub.\n\nI'm fine with leaving only one USB port open, but the best would be to be able to connect the mouse, screen and monitor to a single USB port. And then I could also charge my laptop directly with its own charger for more wattage.\n\nDoes anyone recommend a good USB hub that can achieve this? Every time I google, it's always someone complaining about a certain hub that does not work as expected.\n\nThank you!! And good weekend!",
+    "published": "2021-01-09T10:50:18Z",
+    "type": "entry",
+    "url": "https://www.reddit.com/r/UsbCHardware/comments/ktost3/powered_usb_3_hub_to_connect_keyboard_mouse/"
+  },
+  "webmentions": []
+}

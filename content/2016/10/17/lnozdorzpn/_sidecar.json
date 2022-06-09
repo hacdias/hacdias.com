@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "grauenwolf",
+      "type": "card",
+      "url": "https://www.reddit.com/u/grauenwolf"
+    },
+    "content": "Stop writing bad tests. Write only the tests that you can do great.",
+    "published": "2016-10-17T01:47:34Z",
+    "type": "entry",
+    "url": "https://blogs.msdn.microsoft.com/ericgu/2016/10/09/stop-writing-bad-tests-write-only-the-tests-that-you-can-do-great/"
+  },
+  "webmentions": []
+}

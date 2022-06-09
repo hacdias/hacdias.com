@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "bruceaaa",
+      "type": "card",
+      "url": "https://www.reddit.com/u/bruceaaa"
+    },
+    "content": "I have hacked together a bookmarklet that appends web page info to a note containing a list of books I want to read. It can be used for any lists...\n    \njavascript:location.href='bear://x-callback-url/add-text?id=**note identifier**\u0026mode=append\u0026text='+encodeURIComponent(location.href)+'\\xa0('+encodeURIComponent(document.title)+')\\xa0'+encodeURIComponent(window.getSelection())\n\n",
+    "published": "2017-09-02T05:48:27Z",
+    "type": "entry",
+    "url": "https://www.reddit.com/r/bearapp/comments/6xk33d/bookmarklet_to_append_selection_url_and_title_to/"
+  },
+  "webmentions": []
+}

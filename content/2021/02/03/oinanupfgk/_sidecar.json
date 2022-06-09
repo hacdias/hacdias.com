@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "hacdias",
+      "type": "card",
+      "url": "https://www.reddit.com/u/hacdias"
+    },
+    "content": "Hey /r/git!\n\nPlease let me know if this does not fit this subreddit and I will gladly change it to some other place. I want to self-host mirrors of all my git repositories as well as having a web interface where I can simply take a look at them.\n\nMy idea to mirror them is to use `git clone --mirror {url}` and then periodically fetch `git remote update` to update them. Is that correct? I couldn't find much information and it seemed every website said something different.\n\nFor the web view I would like to know if there's newer projects than cgit or stagit. Stagit is not great for big repositories and cgit is quite outdated in the sense that the web server I use right now doesn't support CGI natively and I was looking for something newer. I will most likely end up with cgit, but I wonder: are there any newer alternatives? I searched for an hour or two today about the topic and couldn't find much. I found some seemingly intertesting projects but the websites were not active anymore.\n\nThank you in advance and have a nice cyberday!",
+    "published": "2021-02-03T20:00:31Z",
+    "type": "entry",
+    "url": "https://www.reddit.com/r/git/comments/lbwo2f/mirror_repositories_and_viewable_web_page/"
+  },
+  "webmentions": []
+}

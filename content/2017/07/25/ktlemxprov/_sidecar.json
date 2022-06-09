@@ -1,0 +1,15 @@
+{
+  "targets": [],
+  "context": {
+    "author": {
+      "name": "hacdias",
+      "type": "card",
+      "url": "https://www.reddit.com/u/hacdias"
+    },
+    "content": "File Manager app that can be used as a standalone or middleware",
+    "published": "2017-07-25T12:56:02Z",
+    "type": "entry",
+    "url": "https://github.com/hacdias/filemanager"
+  },
+  "webmentions": []
+}
