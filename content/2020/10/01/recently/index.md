@@ -1,7 +1,5 @@
 ---
 title: Recently in September '20
-description: |
-  A small update.
 published: 2020-10-01T09:00:00+02:00
 section:
 - articles
@@ -13,11 +11,11 @@ properties:
   - https://twitter.com/hacdias/status/1311562183856320512
 ---
 
-Today's the first day of a new month, so here's a new "recently" post. Since I decided to start this series after [mid-september](/articles/2020/09/recently/), there's not that many news since. However, I'm more than happy to write a few words about what's been happening lately.
+Today's the first day of a new month, so here's a new "recently" post. Since I decided to start this series after [mid-september](/2020/09/21/recently), there's not that many news since. However, I'm more than happy to write a few words about what's been happening lately.
 
 <!--more-->
 
-First of all, I decided to create a [newsletter](/follow/) even though all posts I will send through it will be available on my website since day 1. Then, why did I choose to create a newsletter? I always wanted to publish articles regularly, but sometimes it's difficult to keep going when we don't feel obligation for it. After talking to [Alfonso](https://twitter.com/adlrocha), I decided to give it a try.
+First of all, I decided to create a ~newsletter~ even though all posts I will send through it will be available on my website since day 1. Then, why did I choose to create a newsletter? I always wanted to publish articles regularly, but sometimes it's difficult to keep going when we don't feel obligation for it. After talking to [Alfonso](https://twitter.com/adlrocha), I decided to give it a try.
 
 ## Darkroom
 
@@ -25,7 +23,7 @@ Regarding photography I have two updates. The first one is related to this websi
 
 Over the years I have had many photos pages on this website but always ended up removing them in order to simplify the website. However, I'm in that point where I no longer think that "less is more" regarding this website. Not saying more is better though! I don't want to solely relay on Instagram for my photography and this way I have flexibility over its presentation.
 
-[![](cdn:/2020-09-silhouette "Silhouette")](/photos/2020/silhouette/)
+[![](cdn:/2020-09-silhouette "Silhouette")](/2020/09/27/silhouette)
 
 The second update is as simple as this: I decided to join the Eindhoven Film and Photography association. It's called [Dekate Mousa](http://dekatemousa.nl/) and there's activities all Tuesdays at night related to either photography or film.
 

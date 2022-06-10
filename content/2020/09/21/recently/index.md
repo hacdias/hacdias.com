@@ -1,7 +1,5 @@
 ---
 title: Recently
-description: |
-  A small update.
 published: 2020-09-21T09:30:00+02:00
 section:
 - articles
@@ -19,7 +17,7 @@ It's been a little bit over a month since I first arrived in Eindhoven. Since th
 
 Inspired by Tom MacWright, I am going to make a commitment that sounds quite simple: make a post every month called "Recently". On it, I should reflect about the past month, the highs and lows, the things I've learned, important things I think are worth mention and so on.
 
-With this, I am also deprecating the [now](/now/) page. Why? This posts should already give an overview of what's been happening lately that is not covered by my [micro](/micro/) posts. But don't worry! I'm not breaking any links. It will just point to the most recent "Recently" post... no pun intended!
+With this, I am also deprecating the now page. Why? This posts should already give an overview of what's been happening lately that is not covered by my micro posts. But don't worry! I'm not breaking any links. It will just point to the most recent "Recently" post... no pun intended!
 
 ## Algorithms... algorithms!
 
@@ -45,7 +43,7 @@ I absolutely love photography and I also wanted to try out the old film camera I
 
 ## Covid... or not to Covid? 🦠
 
-The approach the Netherlands is following is quite... _interesting_ in the my opinion. Masks are only mandatory in public transit. What worries me most is supermarkets and other closed spaces. The cases have been increasing, but I still see tons of people together, not respecting social distancing. I understand it's hard, but we should do the effort, at least with people we are not with every day. If you live with them, it's completely understandable, there's not much you can do, but otherwise... try it.
+The approach the Netherlands is following is quite... _interesting_ in my opinion. Masks are only mandatory in public transit. What worries me most is supermarkets and other closed spaces. The cases have been increasing, but I still see tons of people together, not respecting social distancing. I understand it's hard, but we should do the effort, at least with people we are not with every day. If you live with them, it's completely understandable, there's not much you can do, but otherwise... try it.
 
 The winter is coming and I'm pretty sure there's some Covid coming with it. I feel it's quite inevitable that we all will be infected at some point. I just hope most of us will survive and have only mild symptoms or even none at all!
 
