@@ -4,7 +4,6 @@ published: 2022-05-14T23:01:53.453564083+02:00
 section:
 - watches
 - home
-- photos
 createdWith: https://hacdias.com/
 properties:
   category:
