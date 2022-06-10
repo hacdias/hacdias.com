@@ -3,7 +3,7 @@
     {{ $data := .GetSidecar  }}
     {{ $count := len $data.Webmentions  }}
 
-    <details class='wm'>
+    <details class='box wm'>
       <summary><strong>Interactions ({{ $count }})</strong></summary>
 
       <form action="https://webmention.io/hacdias.com/webmention" method="post" class="inline-form">
