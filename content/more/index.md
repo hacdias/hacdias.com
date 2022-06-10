@@ -12,7 +12,15 @@ This website contains more things than it looks at first glance. This page is a 
 
 <div class='terms grid bold'>
 
-- [🌊 All](/all)
+- [🏡 Home](/)
+- [🌊 Everything](/all)
+
+</div>
+
+<hr>
+
+<div class='terms grid bold'>
+
 - [✏️ Articles](/articles)
 - [🍴 Ate](/ate)
 - [🔖 Bookmarks](/bookmarks)
