@@ -551,6 +551,7 @@ figure.right {
   font-size: .875rem;
   padding: .5rem;
   background-color: var(--near-white);
+  border-radius: var(--radius);
   color: var(--gray);
   display: inline-block;
 }
