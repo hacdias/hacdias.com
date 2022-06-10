@@ -3,6 +3,7 @@ description: Replied to a post on seblog.nl
 published: 2021-11-18T21:07:18.222010491Z
 section:
 - replies
+- home
 createdWith: https://indigenous.abode.pub/ios/
 properties:
   in-reply-to: https://seblog.nl/2021/11/18/1/indieauth-without-indieauth-com

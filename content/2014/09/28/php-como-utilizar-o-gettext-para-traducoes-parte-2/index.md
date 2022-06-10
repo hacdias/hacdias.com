@@ -5,6 +5,7 @@ description: Depois de termos ensinado a configurar o plugin php-gettext com o P
 published: 2014-09-28T15:06:47Z
 section:
 - articles
+- home
 properties:
   category:
   - php

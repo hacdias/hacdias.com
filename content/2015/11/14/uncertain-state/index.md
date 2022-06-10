@@ -5,6 +5,7 @@ description: 'Death. It''s the most heard word in the last days. Crime. And they
 published: 2015-11-14T13:45:00Z
 section:
 - articles
+- home
 properties:
   category:
   - creative

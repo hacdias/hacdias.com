@@ -3,6 +3,7 @@ title: Costa Alentejana
 published: 2020-06-21T23:30:50.893Z
 section:
 - photos
+- home
 photoClass: grid-costa-alentejana mgrid
 properties:
   photo:

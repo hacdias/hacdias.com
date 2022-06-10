@@ -3,6 +3,7 @@ title: Recently in April '22
 published: 2022-04-30T21:32:54.755615862+02:00
 section:
 - articles
+- home
 createdWith: https://hacdias.com/
 properties:
   category:

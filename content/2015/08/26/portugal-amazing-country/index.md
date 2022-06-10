@@ -5,6 +5,7 @@ description: Portugal is an amazing country. It has a lot of history behind. Kno
 published: 2015-08-26T22:40:00Z
 section:
 - articles
+- home
 properties:
   category:
   - portugal

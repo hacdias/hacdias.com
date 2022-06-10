@@ -4,6 +4,7 @@ published: 2022-06-04T15:25:25Z
 section:
 - drank
 - photos
+- home
 createdWith: https://micropublish.net/
 properties:
   drank:

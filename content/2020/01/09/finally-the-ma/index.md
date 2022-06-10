@@ -2,6 +2,7 @@
 published: 2020-01-09T15:29:15.575Z
 section:
 - notes
+- home
 properties:
   category:
   - dweb

@@ -2,6 +2,7 @@
 published: 2020-05-14T21:36:29.879Z
 section:
 - notes
+- home
 properties:
   category:
   - automation

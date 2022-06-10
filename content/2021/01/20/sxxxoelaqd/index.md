@@ -3,6 +3,7 @@ title: Dutch banks and English support
 published: 2021-01-20T12:00:00+02:00
 section:
 - notes
+- home
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/Netherlands/

@@ -4,6 +4,7 @@ title: Did your country (EU) already implement 2019/1157 (common standards for I
 published: 2021-07-28T08:23:00+02:00
 section:
 - notes
+- home
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/AskEurope/

@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-21T08:55:46Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/oo798o/what_european_generalization_does_not_apply_to/h5xgif0/
   syndication:

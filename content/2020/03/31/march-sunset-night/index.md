@@ -3,6 +3,7 @@ title: Sunset & Sky
 published: 2020-03-31T12:00:00.893Z
 section:
 - photos
+- home
 photoClass: g03sunset mgrid
 properties:
   photo:

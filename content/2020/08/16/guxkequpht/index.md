@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2020-08-16T07:15:09Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/tifu/comments/iab63f/tifu_by_telling_my_roommate_i_loved_his_cooking/
   syndication:

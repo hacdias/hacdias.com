@@ -5,6 +5,7 @@ description: 'Portugal is one of the small big countries, in other words, Portug
 published: 2014-11-14T20:34:01Z
 section:
 - articles
+- home
 properties:
   category:
   - portugal

@@ -4,6 +4,7 @@ published: 2022-04-12T05:37:19Z
 section:
 - ate
 - photos
+- home
 createdWith: https://micropublish.net/
 properties:
   ate:

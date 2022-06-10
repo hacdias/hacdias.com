@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-04-28T10:12:07Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/n0bain/healthcarevaccination_patient_record/gw5lu59/
   syndication:

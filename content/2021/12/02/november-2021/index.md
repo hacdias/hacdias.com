@@ -3,6 +3,7 @@ title: Recently in November '21
 published: 2021-12-02T07:10:51.478949723Z
 section:
 - articles
+- home
 createdWith: https://hacdias.com/
 properties:
   category:

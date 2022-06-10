@@ -5,6 +5,7 @@ description: Today, 14th march, is the Pi Day 2015. See this small video which t
 published: 2015-03-15T10:36:51Z
 section:
 - articles
+- home
 properties:
   category:
   - mathematics
@@ -18,4 +19,3 @@ Do you know? Today is the Pi Day 2015. Below there is a small video I made about
 <iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube-nocookie.com/embed/AtwPGZ9VioE" allowfullscreen frameborder="0"></iframe>
 
 I hope you enjoy :)
-

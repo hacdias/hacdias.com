@@ -5,6 +5,7 @@ description: Por vezes, a vontade de escrever é tanta que as letras deslizam pe
 published: 2015-02-28T16:00:38Z
 section:
 - articles
+- home
 properties:
   category:
   - literature

@@ -5,6 +5,7 @@ description: |
 published: 2018-10-27T00:00:00Z
 section:
 - articles
+- home
 properties:
   category:
   - reflection

@@ -3,6 +3,7 @@ description: Replied to a post on twitter.com
 published: 2022-06-02T10:45:41.525832897+02:00
 section:
 - replies
+- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://twitter.com/tiagoadionisio/status/1532253461122846721

@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-11-04T22:59:58Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/qmidu1/when_catastrophe_strikes_ideal_paypal_not/hjasusi/
   syndication:

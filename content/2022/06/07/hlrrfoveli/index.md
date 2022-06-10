@@ -2,6 +2,7 @@
 published: 2022-06-07T09:51:13.74567452+02:00
 section:
 - photos
+- home
 createdWith: https://micropublish.net/
 photoClass: grid-2022-hlrrfoveli mgrid
 properties:

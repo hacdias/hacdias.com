@@ -3,6 +3,7 @@ description: Replied to a post on hacdias.com
 published: 2020-02-16T14:32:39.871Z
 section:
 - replies
+- home
 properties:
   category:
   - meta

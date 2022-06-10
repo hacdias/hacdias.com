@@ -5,6 +5,7 @@ description: Como você sabe, PHP é das linguagens de servidor mais utilizadas 
 published: 2014-07-30T08:34:52Z
 section:
 - articles
+- home
 properties:
   category:
   - php

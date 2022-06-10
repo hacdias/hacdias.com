@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-08-13T18:48:44Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/p3n7nv/health_insurance/h8ssuta/
   syndication:

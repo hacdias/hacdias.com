@@ -3,6 +3,7 @@ title: Micropub Update Parsing Uncertainties
 published: 2021-11-05T13:14:32.567880752Z
 section:
 - articles
+- home
 properties:
   category:
   - meta

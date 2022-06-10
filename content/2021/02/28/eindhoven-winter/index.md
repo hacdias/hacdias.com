@@ -3,6 +3,7 @@ title: Eindhoven Winter
 published: 2021-02-28T00:00:00Z
 section:
 - photos
+- home
 photoClass: grid-2021-ehvsnw mgrid
 properties:
   photo:

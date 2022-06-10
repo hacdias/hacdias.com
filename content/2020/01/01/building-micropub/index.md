@@ -3,6 +3,7 @@ title: Adding Support for Micropub Endpoint
 published: 2020-01-01T23:30:00Z
 section:
 - articles
+- home
 properties:
   category:
   - indieweb

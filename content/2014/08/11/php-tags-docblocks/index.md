@@ -5,6 +5,7 @@ description: Os DOCBlocks do PHP são extremamente úteis para os desenvolvedore
 published: 2014-08-11T20:26:21Z
 section:
 - articles
+- home
 properties:
   category:
   - php

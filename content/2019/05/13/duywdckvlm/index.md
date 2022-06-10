@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2019-05-13T07:48:32Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/coolgithubprojects/comments/bnus4f/fast_and_easy_to_use_web_file_browser_looking_for/ena889q/
   syndication:

@@ -2,6 +2,7 @@
 published: 2020-01-20T22:13:42.439Z
 section:
 - notes
+- home
 properties:
   category:
   - software

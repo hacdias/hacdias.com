@@ -5,6 +5,7 @@ description: A criação de temas e plugins para o WordPres leva a uma necessida
 published: 2014-08-02T11:27:37Z
 section:
 - articles
+- home
 properties:
   category:
   - php

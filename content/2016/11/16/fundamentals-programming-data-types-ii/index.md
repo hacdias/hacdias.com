@@ -3,6 +3,7 @@ title: 'Fundamentals of Programming #6: Data Types II'
 published: 2016-11-16T00:00:00Z
 section:
 - articles
+- home
 ---
 
 In our beginning articles, we mentioned that there are some

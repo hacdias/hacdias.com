@@ -3,6 +3,7 @@ title: Colorful May
 published: 2021-05-30T00:00:00Z
 section:
 - photos
+- home
 photoClass: grid-2021-cmhv mgrid
 properties:
   photo:

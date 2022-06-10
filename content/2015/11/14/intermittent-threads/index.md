@@ -5,6 +5,7 @@ description: 'I was there. I turn my head to the left and I see a bullet coming 
 published: 2015-11-14T13:45:00Z
 section:
 - articles
+- home
 properties:
   category:
   - reflection

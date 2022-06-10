@@ -5,6 +5,7 @@ description: |
 published: 2019-07-05T16:20:00Z
 section:
 - articles
+- home
 properties:
   category:
   - ipfs

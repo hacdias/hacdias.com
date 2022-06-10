@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2022-04-17T13:20:02Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/tq4lb2/troca_de_carta_de_condução_noutro_país_da_eu/i52ma85/
   syndication:

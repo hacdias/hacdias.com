@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-19T17:22:48Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/oncv5c/how_do_you_say_speak_of_the_devil_in_your_language/h5rvdaj/
   syndication:

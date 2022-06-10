@@ -3,6 +3,7 @@ title: Maastricht II
 published: 2021-06-01T00:00:00Z
 section:
 - photos
+- home
 photoClass: g2021maaii mgrid
 properties:
   photo:

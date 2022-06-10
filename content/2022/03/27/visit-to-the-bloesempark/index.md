@@ -3,6 +3,7 @@ title: "\U0001F338 A Visit to the Bloesempark"
 published: 2022-03-27T11:03:07.069215+02:00
 section:
 - photos
+- home
 createdWith: https://hacdias.com/
 photoClass: grid-2022-sakura-trees mgrid
 properties:

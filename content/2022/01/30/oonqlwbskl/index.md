@@ -3,6 +3,7 @@ description: Replied to a post on commentpara.de
 published: 2022-01-30T08:37:12.990336395+01:00
 section:
 - replies
+- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://commentpara.de/comment/955.htm

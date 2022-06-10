@@ -5,6 +5,7 @@ description: Technology, nowadays, means advance and progress. But is the techno
 published: 2015-03-13T12:20:46Z
 section:
 - articles
+- home
 properties:
   category:
   - reflection

@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-23T16:22:04Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/oq3x74/alguém_me_pode_explicar_qual_é_a_diferença_entre/
   syndication:

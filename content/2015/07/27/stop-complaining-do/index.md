@@ -5,6 +5,7 @@ description: Everyday I hear people complaining about almost everything. Complai
 published: 2015-07-27T08:00:00Z
 section:
 - articles
+- home
 properties:
   category:
   - creative

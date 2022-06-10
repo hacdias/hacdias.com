@@ -4,6 +4,7 @@ updated: 2021-09-20T05:52:12.214578732Z
 section:
 - notes
 - photos
+- home
 photoClass: pixelated
 properties:
   category:

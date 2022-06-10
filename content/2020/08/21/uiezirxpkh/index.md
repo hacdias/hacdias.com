@@ -4,6 +4,7 @@ published: 2020-08-21T06:25:06+01:00
 section:
 - checkins
 - photos
+- home
 properties:
   checkin:
     properties:

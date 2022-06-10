@@ -2,6 +2,7 @@
 published: 2021-09-14T12:00:00+01:00
 section:
 - photos
+- home
 createdWith: https://hacdias.com/
 properties:
   photo:

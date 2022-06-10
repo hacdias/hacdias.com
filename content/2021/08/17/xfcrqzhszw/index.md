@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-08-17T15:40:33Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/p6412f/registration_requires_birth_certificate_no_older/h9aom8u/
   syndication:

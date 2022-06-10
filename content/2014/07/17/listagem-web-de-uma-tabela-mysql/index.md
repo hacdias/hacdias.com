@@ -5,6 +5,7 @@ description: Como fazer a listagem de uma tabela MySQL com interface web, botõe
 published: 2014-07-17T14:51:56Z
 section:
 - articles
+- home
 properties:
   category:
   - php

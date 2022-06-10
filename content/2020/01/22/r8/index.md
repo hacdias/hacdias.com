@@ -3,6 +3,7 @@ description: Replied to a post on jlelse.blog
 published: 2020-01-22T09:33:03.207Z
 section:
 - replies
+- home
 properties:
   category:
   - meta

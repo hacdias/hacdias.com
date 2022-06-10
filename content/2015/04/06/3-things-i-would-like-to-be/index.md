@@ -5,6 +5,7 @@ description: I don't want to be just one thing. Where's the fun of being just on
 published: 2015-04-06T20:05:27Z
 section:
 - articles
+- home
 properties:
   category:
   - reflection

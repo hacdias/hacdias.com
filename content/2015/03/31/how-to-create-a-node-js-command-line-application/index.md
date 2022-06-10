@@ -5,6 +5,7 @@ description: Node.js is one of the trends in the programming world. Let's learn 
 published: 2015-03-31T18:55:49Z
 section:
 - articles
+- home
 properties:
   category:
   - javascript

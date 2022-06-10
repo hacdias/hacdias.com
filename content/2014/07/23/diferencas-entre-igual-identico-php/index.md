@@ -5,6 +5,7 @@ description: Os operadores '==' e '===' por vezes podem confundir-nos um pouco e
 published: 2014-07-23T18:31:23Z
 section:
 - articles
+- home
 properties:
   category:
   - php

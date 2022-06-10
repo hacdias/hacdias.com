@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-01-15T11:17:55Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/kxeysi/covid1922/gjc0i2t/
   syndication:

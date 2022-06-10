@@ -2,6 +2,7 @@
 published: 2022-05-26T15:10:00.315434425+02:00
 section:
 - notes
+- home
 createdWith: https://micropublish.net/
 properties:
   category: email

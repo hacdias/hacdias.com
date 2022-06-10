@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2020-12-07T13:14:40Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/runescape/comments/k8egi7/this_week_in_runescape_raksha/gexsaj1/
   syndication:

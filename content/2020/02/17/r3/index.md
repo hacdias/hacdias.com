@@ -3,6 +3,7 @@ description: Replied to a post on jlelse.blog
 published: 2020-02-17T21:22:26.584Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/02/opinions-change/
 ---

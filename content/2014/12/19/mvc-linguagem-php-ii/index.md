@@ -5,6 +5,7 @@ description: Continuamos a construir a nossa framework que terá como base o mod
 published: 2014-12-19T12:26:59Z
 section:
 - articles
+- home
 properties:
   category:
   - php

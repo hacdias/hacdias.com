@@ -3,6 +3,7 @@ description: Replied to a post on jlelse.blog
 published: 2020-03-25T19:24:40.529Z
 section:
 - replies
+- home
 properties:
   category:
   - remote

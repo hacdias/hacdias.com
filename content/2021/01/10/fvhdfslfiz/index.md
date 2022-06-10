@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-01-10T06:54:14Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/UsbCHardware/comments/ktost3/powered_usb_3_hub_to_connect_keyboard_mouse/giothw4/
   syndication:

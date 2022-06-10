@@ -5,6 +5,7 @@ description: O Git é dos sistemas de controlo de versão mais utilizados por to
 published: 2014-09-02T14:09:59Z
 section:
 - articles
+- home
 properties:
   category:
   - git

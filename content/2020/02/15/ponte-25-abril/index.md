@@ -3,6 +3,7 @@ title: Ponte 25 de Abril
 published: 2020-02-15T16:47:00Z
 section:
 - photos
+- home
 properties:
   photo:
   - alt: Ponte 25 de Abril

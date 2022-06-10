@@ -5,6 +5,7 @@ description: A story of a 17 years old boy who met someone and one year later wa
 published: 2017-07-12T11:30:00Z
 section:
 - articles
+- home
 properties:
   category:
   - reflection

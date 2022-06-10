@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-08-03T15:21:44Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/owkizp/registo_no_estrangeiro_certidão_de_nascimento/h7glj52/
   syndication:

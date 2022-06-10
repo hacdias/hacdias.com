@@ -4,6 +4,7 @@ published: 2022-03-28T10:23:42.249021847+02:00
 updated: 2022-04-28T10:23:42.249021847+02:00
 section:
 - notes
+- home
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/PortugalLaFora/

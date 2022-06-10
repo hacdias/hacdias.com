@@ -3,6 +3,7 @@ description: Replied to a post on twitter.com
 published: 2022-01-31T19:48:57.495479499+01:00
 section:
 - replies
+- home
 createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://twitter.com/nimobeeren/status/1488217359391379471?s=12

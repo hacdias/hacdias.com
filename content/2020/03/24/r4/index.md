@@ -3,6 +3,7 @@ description: Replied to a post on jlelse.blog
 published: 2020-03-24T07:35:24.834Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/03/lifethroughlenses/
 ---

@@ -2,6 +2,7 @@
 published: 2018-10-09T21:26:11Z
 section:
 - photos
+- home
 properties:
   photo:
   - cdn:/2020-03-glasgow-tunnel

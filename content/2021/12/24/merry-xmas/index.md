@@ -2,6 +2,7 @@
 published: 2021-12-24T16:38:08.877927246Z
 section:
 - notes
+- home
 createdWith: https://quill.p3k.io/
 properties:
   location:

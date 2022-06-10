@@ -3,6 +3,7 @@ title: April Lockdown
 published: 2020-04-28T12:30:50.893Z
 section:
 - photos
+- home
 photoClass: g4lk2020 mgrid
 properties:
   photo:

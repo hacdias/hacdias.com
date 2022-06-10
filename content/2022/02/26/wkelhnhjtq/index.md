@@ -2,6 +2,7 @@
 published: 2022-02-26T14:57:32.049864156+01:00
 section:
 - notes
+- home
 createdWith: https://indieweb.org/Shortcuts
 properties:
   location:

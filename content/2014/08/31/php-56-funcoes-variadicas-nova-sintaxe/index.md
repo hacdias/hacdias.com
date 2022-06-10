@@ -5,6 +5,7 @@ description: O PHP 5.6.0 trouxe aos desenvolvedores novas funcionalidades e form
 published: 2014-08-31T09:37:05Z
 section:
 - articles
+- home
 properties:
   category:
   - php

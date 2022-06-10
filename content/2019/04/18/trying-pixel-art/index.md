@@ -6,6 +6,7 @@ published: 2019-04-18T00:00:00Z
 updated: 2021-09-20T05:53:49.227871757Z
 section:
 - articles
+- home
 properties:
   category:
   - pixelart

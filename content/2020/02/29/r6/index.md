@@ -3,6 +3,7 @@ description: Replied to a post on www.jvt.me
 published: 2020-02-29T22:19:56.901Z
 section:
 - replies
+- home
 properties:
   category:
   - telegram

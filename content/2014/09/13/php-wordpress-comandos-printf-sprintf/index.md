@@ -5,6 +5,7 @@ description: Existem v√°rios comandos que nos permitem imprimir frases. Porque √
 published: 2014-09-13T09:16:48Z
 section:
 - articles
+- home
 properties:
   category:
   - php

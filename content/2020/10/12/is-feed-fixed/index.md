@@ -3,6 +3,7 @@ description: Replied to a post on jan.boddez.net
 published: 2020-10-12T13:55:55Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://jan.boddez.net/notes/b0a62edbe0
 ---

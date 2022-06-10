@@ -2,6 +2,7 @@
 published: 2019-12-30T21:22:33.492Z
 section:
 - notes
+- home
 properties:
   category:
   - indieweb

@@ -5,6 +5,7 @@ description: A API de passwords introduzida na versão 5.5 do PHP é excelente. 
 published: 2014-08-20T22:16:15Z
 section:
 - articles
+- home
 properties:
   category:
   - php

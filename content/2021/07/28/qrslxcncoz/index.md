@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-28T21:14:01Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/otg4c9/did_your_country_eu_already_implement_20191157/h6vlore/
   syndication:

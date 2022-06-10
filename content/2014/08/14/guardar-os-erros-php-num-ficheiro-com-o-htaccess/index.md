@@ -5,6 +5,7 @@ description: Explicamos como fazer a listagem em log de todos os erros produzido
 published: 2014-08-14T10:41:38Z
 section:
 - articles
+- home
 properties:
   category:
   - php

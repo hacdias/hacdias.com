@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-06-29T18:31:50Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/oae3ds/what_are_your_travel_plans_for_this_year/
   syndication:

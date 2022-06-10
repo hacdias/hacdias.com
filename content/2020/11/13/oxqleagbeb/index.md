@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2020-11-13T09:27:42Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/buildapcforme/comments/jsy09u/workgameediting_computer_2500_netherlands/gc4y8fo/
   syndication:

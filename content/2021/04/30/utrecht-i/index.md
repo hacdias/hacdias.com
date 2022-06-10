@@ -3,6 +3,7 @@ title: Utrecht I
 published: 2021-04-30T12:00:00Z
 section:
 - photos
+- home
 photoClass: g21utri mgrid
 properties:
   photo:

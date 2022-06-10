@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-01-20T11:38:57Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjxlj90/
   syndication:

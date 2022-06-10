@@ -5,6 +5,7 @@ description: Utilizar MySQL é muito simples. Neste tutorial ensino a selecionar
 published: 2014-07-16T20:00:19Z
 section:
 - articles
+- home
 properties:
   category:
   - mysql

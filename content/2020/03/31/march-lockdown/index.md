@@ -3,6 +3,7 @@ title: March Lockdown
 published: 2020-03-31T12:00:00.893Z
 section:
 - photos
+- home
 photoClass: g03lockdown mgrid
 properties:
   photo:

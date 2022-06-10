@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-12-10T21:28:24Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/portugal/comments/rd7xl3/emojis_da_cultura_portuguesa/
   syndication:

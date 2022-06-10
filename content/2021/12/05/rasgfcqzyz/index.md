@@ -3,6 +3,7 @@ description: Replied to a post on twitter.com
 published: 2021-12-05T22:16:28.86801396Z
 section:
 - replies
+- home
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://twitter.com/_saligia__/status/1467458728827961345

@@ -3,6 +3,7 @@ title: Linking Reading Progress Together
 published: 2022-01-25T16:13:26.918597757Z
 section:
 - articles
+- home
 createdWith: https://hacdias.com/
 properties:
   category:

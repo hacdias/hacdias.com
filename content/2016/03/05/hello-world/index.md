@@ -5,6 +5,7 @@ description: This is the first newsletter issue I'm writing. Today, I leave you 
 published: 2016-03-05T10:25:00Z
 section:
 - articles
+- home
 ---
 
 Hello, world!

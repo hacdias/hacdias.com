@@ -3,6 +3,7 @@ title: Maastricht I
 published: 2021-05-31T00:00:00Z
 section:
 - photos
+- home
 photoClass: g2021maai mgrid
 properties:
   photo:

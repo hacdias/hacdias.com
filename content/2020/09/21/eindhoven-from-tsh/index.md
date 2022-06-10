@@ -2,6 +2,7 @@
 published: 2020-09-21T23:30:50.893Z
 section:
 - photos
+- home
 properties:
   photo:
   - alt: Eindhoven from TSH

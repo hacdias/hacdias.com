@@ -3,6 +3,7 @@ description: Replied to a post on twitter.com
 published: 2020-05-10T22:38:22.439Z
 section:
 - replies
+- home
 properties:
   category:
   - dht

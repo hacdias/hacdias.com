@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-03-06T18:39:20Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/lz1wlp/dúvidas_mestrado_incompleto_mercado_de_trabalho/gpyjlcq/
   syndication:

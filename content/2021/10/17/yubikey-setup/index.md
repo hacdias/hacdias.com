@@ -4,6 +4,7 @@ published: 2021-10-17T15:13:25.51356269Z
 updated: 2022-06-04T12:48:59.992786835+02:00
 section:
 - articles
+- home
 properties:
   category:
   - security

@@ -5,6 +5,7 @@ description: O modelo MVC (Model-View-Controller) é um modelo extremamente util
 published: 2014-11-22T16:02:56Z
 section:
 - articles
+- home
 properties:
   category:
   - php

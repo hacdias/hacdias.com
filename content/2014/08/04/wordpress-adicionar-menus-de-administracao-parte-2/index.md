@@ -6,6 +6,7 @@ published: 2014-08-04T12:01:37Z
 updated: 2015-06-10T11:27:37Z
 section:
 - articles
+- home
 properties:
   category:
   - php

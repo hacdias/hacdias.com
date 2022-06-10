@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2016-12-20T09:41:37Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/runescape/comments/5j9x6f/spoiler_mid_level_impossible_to_regain_quest_cape/dbemnfz/
   syndication:

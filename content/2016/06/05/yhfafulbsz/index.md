@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2016-06-05T20:07:28Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/runescape/comments/4mmpa6/runescape_nxt_in_4k_resolution/
   syndication:

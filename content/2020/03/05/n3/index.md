@@ -2,6 +2,7 @@
 published: 2020-03-05T22:31:58.056Z
 section:
 - notes
+- home
 properties:
   category:
   - meta

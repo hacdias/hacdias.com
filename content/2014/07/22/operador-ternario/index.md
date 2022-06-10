@@ -5,6 +5,7 @@ description: O operador ? é, por vezes, intrigante. Chama-se operador ternário
 published: 2014-07-22T09:08:08Z
 section:
 - articles
+- home
 properties:
   category:
   - php

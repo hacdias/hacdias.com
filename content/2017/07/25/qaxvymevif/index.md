@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2017-07-25T07:04:02Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/golang/comments/6pa5wg/file_manager_app_that_can_be_used_as_a_standalone/dkod0b5/
   syndication:

@@ -3,6 +3,7 @@ description: Replied to a post on twitter.com
 published: 2022-01-30T20:17:35.760037138+01:00
 section:
 - replies
+- home
 createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://twitter.com/malikpiara/status/1487824765473759232?s=12

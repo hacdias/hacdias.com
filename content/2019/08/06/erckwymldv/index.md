@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2019-08-06T07:22:27Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/portugal/comments/cmd2i8/curso_intensivo_para_ielts_academic/ew2q18i/
   syndication:

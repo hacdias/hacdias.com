@@ -3,6 +3,7 @@ title: Strijp-S
 published: 2021-01-31T07:33:49Z
 section:
 - photos
+- home
 photoClass: g2021jkahb mgrid
 properties:
   photo:

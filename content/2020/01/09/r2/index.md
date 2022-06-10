@@ -3,6 +3,7 @@ description: Replied to a post on twitter.com
 published: 2020-01-09T19:06:41.651Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://twitter.com/mholt6/status/1215339799839510530
   syndication:

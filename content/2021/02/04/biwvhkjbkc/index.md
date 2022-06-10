@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-02-04T06:52:40Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/lc0iyp/já_está_a_resultar/glx89d0/
   syndication:

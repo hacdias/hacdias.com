@@ -3,6 +3,7 @@ title: Steel Wool
 published: 2021-09-16T06:45:00Z
 section:
 - photos
+- home
 photoClass: grid-2021-steel-wool mgrid
 properties:
   photo:

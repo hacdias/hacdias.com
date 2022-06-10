@@ -5,6 +5,7 @@ description: No seguimento da criação de uma framework PHP que utilize o model
 published: 2014-12-20T09:00:23Z
 section:
 - articles
+- home
 properties:
   category:
   - php

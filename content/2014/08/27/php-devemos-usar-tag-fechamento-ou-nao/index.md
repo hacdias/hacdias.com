@@ -5,6 +5,7 @@ description: A tag de fechamento do PHP ( ?> ) pode causar alguma confusão vist
 published: 2014-08-27T09:15:18Z
 section:
 - articles
+- home
 properties:
   category:
   - php

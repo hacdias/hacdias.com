@@ -5,6 +5,7 @@ description: I was thinking about why there are people who think we are perfect.
 published: 2015-07-12T13:45:00Z
 section:
 - articles
+- home
 properties:
   category:
   - creative

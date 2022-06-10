@@ -3,6 +3,7 @@ title: Utrecht II
 published: 2021-04-30T12:01:00Z
 section:
 - photos
+- home
 photoClass: g21utrii mgrid
 properties:
   photo:

@@ -3,6 +3,7 @@ description: Replied to a post on twitter.com
 published: 2020-06-01T07:39:07.886Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://twitter.com/DiogoRedin/status/1267212226471120900
   syndication:

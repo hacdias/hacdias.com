@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2020-12-02T21:26:02Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/runescape/comments/k5cgj6/my_take_on_runecrafting_herblore_and_farming/gee50bg/
   syndication:

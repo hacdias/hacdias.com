@@ -5,6 +5,7 @@ description: |
 published: 2020-09-21T09:30:00+02:00
 section:
 - articles
+- home
 properties:
   category:
   - recently

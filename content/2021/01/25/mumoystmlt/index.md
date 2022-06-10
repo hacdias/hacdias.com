@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-01-25T07:12:37Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/l4a7v2/covidcurfew_riots_in_10_municipalities_wtf/
   syndication:

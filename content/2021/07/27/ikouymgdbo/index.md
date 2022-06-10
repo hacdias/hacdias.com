@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-27T09:13:35Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/portugal/comments/osasjf/pessoas_demasiado_tristes/h6orazo/
   syndication:

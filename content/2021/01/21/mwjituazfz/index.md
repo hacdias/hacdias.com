@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-01-21T15:32:08Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/l1wg1j/what_do_people_think_about_cash_vs_cashless_in/gk2h9e3/
   syndication:

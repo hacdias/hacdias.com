@@ -4,6 +4,7 @@ published: 2022-05-13T17:41:23+02:00
 section:
 - checkins
 - photos
+- home
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

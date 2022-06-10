@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-10-07T12:10:39Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/q34ofm/quem_é_que_achou_que_teóricas_de_duas_horas/
   syndication:

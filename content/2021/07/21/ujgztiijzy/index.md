@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-21T17:43:34Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/gaybros/comments/oosr63/hpv_and_hookups/h60n9h9/
   syndication:

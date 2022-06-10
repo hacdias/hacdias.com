@@ -5,6 +5,7 @@ description: Estou a dormir. Ponto. Eu sei que estou a dormir. Sim, eu sei que m
 published: 2015-11-15T13:45:00Z
 section:
 - articles
+- home
 properties:
   category:
   - creative

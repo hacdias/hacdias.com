@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2020-08-03T09:21:21Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/glasses/comments/i1r6e4/circle_in_the_center_of_new_glass_lenses/fzzoub2/
   syndication:

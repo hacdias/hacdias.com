@@ -2,6 +2,7 @@
 published: 2020-01-28T10:06:45.518Z
 section:
 - notes
+- home
 properties:
   category:
   - comics

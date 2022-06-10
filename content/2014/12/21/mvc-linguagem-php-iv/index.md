@@ -5,6 +5,7 @@ description: No último tutorial sobre a criação de uma framework que segue o 
 published: 2014-12-21T10:00:04Z
 section:
 - articles
+- home
 properties:
   category:
   - php

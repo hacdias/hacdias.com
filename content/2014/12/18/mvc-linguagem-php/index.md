@@ -5,6 +5,7 @@ description: O modelo MVC é algo muito utilizado atualmente. Nesta primeira par
 published: 2014-12-18T22:55:34Z
 section:
 - articles
+- home
 properties:
   category:
   - php

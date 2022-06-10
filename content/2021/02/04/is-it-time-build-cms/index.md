@@ -6,6 +6,7 @@ published: 2021-02-04T22:22:00+01:00
 updated: 2021-02-16T20:20:27.750516656Z
 section:
 - articles
+- home
 properties:
   category:
   - meta

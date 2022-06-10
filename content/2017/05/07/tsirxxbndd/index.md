@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2017-05-07T12:41:13Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/69lbu2/média_de_leic_na_alameda/dh8o7ee/
   syndication:
@@ -18,4 +19,3 @@ De momento tenho 18,00 de média de secundário e 19 a matemática, mas esta cre
 A partir de quanto é que considerarias a entrada assegurada?
 
 Obrigado novamente 😁
-

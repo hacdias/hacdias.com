@@ -6,6 +6,7 @@ description: Is the future real? Does it exists? Who are we? What are we going t
 published: 2015-08-19T08:30:00Z
 section:
 - articles
+- home
 properties:
   category:
   - reflection

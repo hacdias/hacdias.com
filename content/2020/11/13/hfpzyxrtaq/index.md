@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2020-11-13T08:44:21Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/buildapc/comments/jtda92/first_build_max_2500_all_included_gamingediting/gc4x6ma/
   syndication:

@@ -2,6 +2,7 @@
 published: 2019-10-20T15:07:50.893Z
 section:
 - photos
+- home
 properties:
   photo:
   - alt: Downtown Doors

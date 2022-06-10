@@ -2,6 +2,7 @@
 published: 2020-02-07T07:43:33.452Z
 section:
 - notes
+- home
 properties:
   category:
   - runescape

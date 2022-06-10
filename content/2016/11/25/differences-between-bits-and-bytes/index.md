@@ -5,6 +5,7 @@ description: |
 published: 2016-11-25T00:00:00Z
 section:
 - articles
+- home
 ---
 
 Nowadays, we are used to hear about bits and bytes and sometimes, in the advertising, we see that the Internet speed is about 100 Mbps. Is that 100 megabytes per second? No, it isn't. There are some differences between bits and bytes. Let's see.

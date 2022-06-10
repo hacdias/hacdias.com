@@ -2,6 +2,7 @@
 published: 2020-05-11T20:44:16.729Z
 section:
 - notes
+- home
 properties:
   category:
   - university

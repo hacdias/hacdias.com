@@ -5,6 +5,7 @@ description: After 5 years of maintaining this project and failing due to my lim
 published: 2020-01-23T09:10:00Z
 section:
 - articles
+- home
 properties:
   category:
   - go

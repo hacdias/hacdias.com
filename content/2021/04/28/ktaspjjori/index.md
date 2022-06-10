@@ -3,6 +3,7 @@ title: Healthcare/vaccination patient record
 published: 2021-04-28T11:52:00+02:00
 section:
 - notes
+- home
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/Netherlands/

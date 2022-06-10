@@ -4,6 +4,7 @@ description: May is gone and we're almost half-way this year.
 published: 2021-06-02T08:10:59.168283855Z
 section:
 - articles
+- home
 properties:
   category:
   - recently

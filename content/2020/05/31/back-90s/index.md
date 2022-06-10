@@ -5,6 +5,7 @@ description: |
 published: 2020-05-31T21:24:00Z
 section:
 - articles
+- home
 properties:
   category:
   - meta

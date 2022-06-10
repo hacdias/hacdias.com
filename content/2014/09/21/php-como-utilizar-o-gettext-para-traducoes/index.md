@@ -5,6 +5,7 @@ description: A linguagem PHP está repleta de extensões. Uma muito utilizada e 
 published: 2014-09-21T11:07:03Z
 section:
 - articles
+- home
 properties:
   category:
   - php

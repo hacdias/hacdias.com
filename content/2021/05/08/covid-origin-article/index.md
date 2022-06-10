@@ -2,6 +2,7 @@
 published: 2021-05-08T11:21:08.202021975Z
 section:
 - notes
+- home
 properties:
   category:
   - covid19

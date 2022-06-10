@@ -3,6 +3,7 @@ description: Replied to a post on jlelse.blog
 published: 2021-12-31T17:50:29.890585283Z
 section:
 - replies
+- home
 createdWith: https://monocle.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/micro/2021/12/2021-12-31-berql

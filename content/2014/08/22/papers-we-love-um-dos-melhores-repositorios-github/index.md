@@ -5,6 +5,7 @@ description: O GitHub não contém apenas software e código. Contém também co
 published: 2014-08-22T09:38:31Z
 section:
 - articles
+- home
 properties:
   category:
   - portuguese

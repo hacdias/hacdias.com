@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2017-05-10T16:54:06Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/69lbu2/média_de_leic_na_alameda/dhdqqbj/
   syndication:

@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-22T21:04:15Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/opbkcs/do_more_people_use_debit_or_credit_cards_in_your/h666gqx/
   syndication:

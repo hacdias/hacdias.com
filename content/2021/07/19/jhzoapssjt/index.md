@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-19T13:48:42Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/lisboa/comments/on0jum/cruz_vermelha_pcr_teste_um_pregunta_sff/h5olman/
   syndication:

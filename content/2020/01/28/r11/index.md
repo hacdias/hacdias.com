@@ -3,6 +3,7 @@ description: Replied to a post on jlelse.blog
 published: 2020-01-28T13:30:57.532Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/01/2020-01-28-ohlec/
 ---

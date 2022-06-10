@@ -3,6 +3,7 @@ title: May Lockdown
 published: 2020-05-21T23:30:50.893Z
 section:
 - photos
+- home
 photoClass: g05lk mgrid
 properties:
   photo:

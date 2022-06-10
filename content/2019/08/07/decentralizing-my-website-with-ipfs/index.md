@@ -5,6 +5,7 @@ description: How does my website work with IPFS? Where does the content go? What
 published: 2019-08-07T18:45:00Z
 section:
 - articles
+- home
 properties:
   category:
   - ipfs

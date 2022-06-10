@@ -3,6 +3,7 @@ title: Azores
 published: 2019-09-30T07:58:31Z
 section:
 - photos
+- home
 properties:
   photo:
   - cdn:/2019-07-azores-01

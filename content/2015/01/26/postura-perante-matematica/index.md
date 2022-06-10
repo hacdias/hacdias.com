@@ -5,6 +5,7 @@ description: Algumas dicas para o estudo de Matemática, uma das disciplinas em 
 published: 2015-01-26T00:00:00Z
 section:
 - articles
+- home
 properties:
   category:
   - mathematics

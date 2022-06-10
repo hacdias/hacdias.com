@@ -4,6 +4,7 @@ description: August is coming.
 published: 2021-08-01T07:37:52.811583889Z
 section:
 - articles
+- home
 properties:
   category:
   - recently

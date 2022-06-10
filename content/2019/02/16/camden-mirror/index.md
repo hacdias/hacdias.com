@@ -2,6 +2,7 @@
 published: 2019-02-16T12:32:06Z
 section:
 - photos
+- home
 properties:
   location:
     properties:

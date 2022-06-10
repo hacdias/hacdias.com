@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-10-26T21:57:53Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/qggsqg/pin_do_cc_bloqueado/
   syndication:

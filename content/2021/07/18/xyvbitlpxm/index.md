@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-07-18T07:52:09Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/europe/comments/omcal5/portugal_signs_freedom_of_movement_treaty_with/
   syndication:

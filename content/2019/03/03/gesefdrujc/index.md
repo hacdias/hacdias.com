@@ -3,6 +3,7 @@ title: Should I buy a NAS or share a network device from my computer?
 published: 2019-03-03T12:00:00+02:00
 section:
 - notes
+- home
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/DataHoarder/

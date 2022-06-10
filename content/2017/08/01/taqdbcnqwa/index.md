@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2017-08-01T12:39:15Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/6qig0m/mensagem_para_todos_os_meus_futuros_colegas_de/dkzeuvo/
   syndication:

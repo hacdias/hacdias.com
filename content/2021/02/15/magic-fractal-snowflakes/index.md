@@ -6,6 +6,7 @@ published: 2021-02-15T06:30:00Z
 updated: 2021-02-15T06:49:43.435183405Z
 section:
 - articles
+- home
 properties:
   category:
   - javascript

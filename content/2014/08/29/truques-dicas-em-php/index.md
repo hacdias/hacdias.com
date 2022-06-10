@@ -5,6 +5,7 @@ description: A linguagem de programação PHP é das mais utilizadas atualmente 
 published: 2014-08-29T16:47:20Z
 section:
 - articles
+- home
 properties:
   category:
   - php

@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-05-19T11:47:22Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/nfo0xh/great_success_100kmh/gyom2p1/
   syndication:

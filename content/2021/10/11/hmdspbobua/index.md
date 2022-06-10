@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2021-10-11T16:41:19Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/q59zwl/dutchies_of_reddit_how_to_do_feel_about_american/hg8m7y5/
   syndication:

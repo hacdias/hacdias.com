@@ -5,6 +5,7 @@ description: I finally learned how to say goodbye to WordPress. Not forever. Not
 published: 2015-08-12T11:30:00Z
 section:
 - articles
+- home
 properties:
   category:
   - meta

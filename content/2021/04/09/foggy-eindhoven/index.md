@@ -3,6 +3,7 @@ title: Foggy Stadswandelpark
 published: 2021-04-09T00:00:00Z
 section:
 - photos
+- home
 photoClass: grid-2021-fgwlp mgrid
 properties:
   photo:

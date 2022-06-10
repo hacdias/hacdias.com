@@ -3,6 +3,7 @@ title: Eindhoven Sunrise
 published: 2021-02-28T00:00:00Z
 section:
 - photos
+- home
 photoClass: g2021ehvsnrs mgrid
 properties:
   photo:

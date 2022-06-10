@@ -3,6 +3,7 @@ description: Replied to a post on www.reddit.com
 published: 2015-09-23T19:29:01Z
 section:
 - replies
+- home
 properties:
   in-reply-to: https://www.reddit.com/r/runescape/comments/3lzdgv/what_happened_to_nxt_client/cvapglo/
   syndication:

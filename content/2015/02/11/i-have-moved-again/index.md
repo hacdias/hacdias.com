@@ -5,6 +5,7 @@ description: I have moved, again. From now until the end of the times, coxpe.com
 published: 2015-02-11T22:19:40Z
 section:
 - articles
+- home
 properties:
   category:
   - meta

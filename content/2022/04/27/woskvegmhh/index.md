@@ -2,6 +2,7 @@
 published: 2022-04-27T12:00:00+02:00
 section:
 - photos
+- home
 createdWith: https://hacdias.com/
 photoClass: mgrid grid-woskvegmhh
 properties:

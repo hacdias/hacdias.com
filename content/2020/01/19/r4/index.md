@@ -3,6 +3,7 @@ description: Replied to a post on jlelse.blog
 published: 2020-01-19T19:36:11.549Z
 section:
 - replies
+- home
 properties:
   category:
   - software

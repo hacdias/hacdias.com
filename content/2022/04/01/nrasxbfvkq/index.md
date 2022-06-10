@@ -2,6 +2,7 @@
 published: 2022-04-01T17:28:17.012313057+02:00
 section:
 - photos
+- home
 createdWith: https://micropublish.net/
 properties:
   file: 241ABE1B-A89F-4E26-8D70-8D2E10B93492.jpeg

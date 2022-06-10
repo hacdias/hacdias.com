@@ -2,6 +2,7 @@
 published: 2021-04-16T08:13:51.166043015Z
 section:
 - notes
+- home
 properties:
   category:
   - quotes
