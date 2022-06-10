@@ -1,7 +1,5 @@
 ---
 title: Recently in November '20
-description: |
-  A small update.
 published: 2020-12-01T08:20:00+01:00
 section:
 - articles

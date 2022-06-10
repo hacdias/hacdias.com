@@ -1,7 +1,5 @@
 ---
 title: Recently in March '21
-description: |
-  March has been a very busy month, where a lot happened and, at the same time, nothing happened.
 published: 2021-04-01T07:30:00+02:00
 section:
 - articles

@@ -2,9 +2,8 @@
 
 <main role='main'>
   {{ include "base/admin" . }}
-  {{ $isLong := or (.InSection "articles") (eq (len .Sections) 0) (ne .Template "") }}
 
-  <article class='{{ if not $isLong }}card {{ end }}h-entry'>
+  <article class='{{ if ne .Helper.PostType "article" }}card {{ end }}h-entry'>
     {{ include "post/header" . }}
 
     {{ with .Entry.Content }}

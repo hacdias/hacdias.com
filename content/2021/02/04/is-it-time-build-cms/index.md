@@ -1,7 +1,5 @@
 ---
 title: Is It Time To Build My Own CMS?
-description: |
-  This website has become increasingly dynamic. However, I love the idea of a static generator and being able to bring the website with me wherever I need.
 published: 2021-02-04T22:22:00+01:00
 updated: 2021-02-16T20:20:27.750516656Z
 section:

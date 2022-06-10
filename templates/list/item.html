@@ -1,15 +1,10 @@
 {{ define "list/item" }}
-  {{ $isArticle := .InSection "articles" }}
-  {{ $isLong := or $isArticle (eq (len .Sections) 0) (ne .Template "") }}
+  {{ $isLong := eq .Helper.PostType "article" }}
 
   <article class='h-entry card'>
     {{ include "post/header" . }}
 
-    {{ if $isArticle }}
-      {{ with (or .Excerpt .Description) }}
-        <div class='copy p-summary'>{{ md . }}</div>
-      {{ end }}
-    {{ else if $isLong }}
+    {{ if $isLong }}
       {{ with .DisplayDescription }}
         <div class='copy p-summary'>{{ md . }}</div>
       {{ end }}

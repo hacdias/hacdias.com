@@ -1,7 +1,5 @@
 ---
 title: The Magic of Fractal Snowflakes
-description: |
-  I have been wishing snow for a long time and the winter has finally come. That made me have the idea of generating fractal snowflakes using the JavaScript.
 published: 2021-02-15T06:30:00Z
 updated: 2021-02-15T06:49:43.435183405Z
 section:

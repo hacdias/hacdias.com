@@ -1,7 +1,5 @@
 ---
 title: Recently in February '21
-description: |
-  February 2020 just ended. The shortest month of the year, but still filled with news and thoughts. Come know what's been happening on my life.
 published: 2021-03-01T07:30:00+01:00
 section:
 - articles

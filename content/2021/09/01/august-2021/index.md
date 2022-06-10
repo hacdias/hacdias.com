@@ -1,6 +1,5 @@
 ---
 title: Recently in August '21
-description: September is coming.
 published: 2021-09-01T05:26:04.534115889Z
 section:
 - articles

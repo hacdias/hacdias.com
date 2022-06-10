@@ -1,7 +1,5 @@
 ---
 title: Moving Abroad During a Pandemic
-description: |
-  Moving to a different country is never an easy and seamless experience. I moved during a pandemic and this is my experience. Was it worth it?
 published: 2021-02-01T09:00:00+01:00
 section:
 - articles
