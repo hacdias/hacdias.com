@@ -4,6 +4,25 @@
   "webmentions": [
     {
       "author": {
+        "name": "Chris",
+        "photo": "https://cdn.hacdias.com/wm/d55020685e61ad71750b00aa0dc1e06acb7b14b8b713797d6f8085aace60cb98.jpg",
+        "type": "card",
+        "url": "https://twitter.com/christiaanb2351"
+      },
+      "like-of": "https://hacdias.com/2022/06/09/uvpjwfphes",
+      "post-type": "like",
+      "published": "2022-06-10T07:07:00Z",
+      "type": "entry",
+      "url": "https://twitter.com/hacdias/status/1534833711857950726#favorited-by-1349856943310065664",
+      "wm-id": 1412824,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-06-10T07:07:00Z",
+      "wm-source": "https://brid.gy/like/twitter/hacdias/1534833711857950726/1349856943310065664",
+      "wm-target": "https://hacdias.com/2022/06/09/uvpjwfphes"
+    },
+    {
+      "author": {
         "name": "Ece",
         "photo": "https://cdn.hacdias.com/wm/610da2b54cebfc5bd3983eac3c15897d4f613e2d0d0455c770cb6925ce95684c.jpg",
         "type": "card",
@@ -23,21 +42,22 @@
     },
     {
       "author": {
-        "name": "Chris",
-        "photo": "https://cdn.hacdias.com/wm/d55020685e61ad71750b00aa0dc1e06acb7b14b8b713797d6f8085aace60cb98.jpg",
+        "name": "Vic",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
         "type": "card",
-        "url": "https://twitter.com/christiaanb2351"
+        "url": ""
       },
-      "like-of": "https://hacdias.com/2022/06/09/uvpjwfphes",
-      "post-type": "like",
-      "published": "2022-06-10T07:07:00Z",
+      "content": "There's a setting to show songs that are unavailable right now (due to licensing changes etc..). When enabled, the songs stay in your list but appear greyed out. By default the option is turned off and the songs simply disappear. Maybe that's what you're seeing?",
+      "in-reply-to": "https://hacdias.com/2022/06/09/uvpjwfphes",
+      "post-type": "reply",
+      "published": "2022-06-10T11:23:51Z",
       "type": "entry",
-      "url": "https://twitter.com/hacdias/status/1534833711857950726#favorited-by-1349856943310065664",
-      "wm-id": 1412824,
+      "url": "https://commentpara.de/comment/1045.htm",
+      "wm-id": 1413006,
       "wm-private": false,
-      "wm-property": "like-of",
-      "wm-received": "2022-06-10T07:07:00Z",
-      "wm-source": "https://brid.gy/like/twitter/hacdias/1534833711857950726/1349856943310065664",
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-10T11:23:51Z",
+      "wm-source": "https://commentpara.de/comment/1045.htm",
       "wm-target": "https://hacdias.com/2022/06/09/uvpjwfphes"
     }
   ]
