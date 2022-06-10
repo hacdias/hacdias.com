@@ -5,6 +5,11 @@ description: |
 isListing: true
 ---
 
-Check the [summary](/watches/summary) to easily check all series and movies I've watched!
+<div class="box">
+
+*Check the [summary](/watches/summary) for all movies and series I have watched.*
+
+</div>
+
 
 <!--more-->

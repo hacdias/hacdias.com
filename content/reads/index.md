@@ -4,6 +4,10 @@ isListing: true
 noShowInteractions: true
 ---
 
-Check my [bookshelf](/reads/summary) for a summary of my reads.
+<div class="box">
+
+*Check the [bookshelf](/reads/summary) for a summary of what I have read, am reading and want to read.*
+
+</div>
 
 <!--more-->
