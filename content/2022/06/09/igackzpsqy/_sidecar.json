@@ -27,6 +27,26 @@
       "wm-received": "2022-06-09T20:44:11Z",
       "wm-source": "https://seblog.nl/2022/06/09/1/post-types-and-post-topics",
       "wm-target": "https://hacdias.com/2022/06/09/igackzpsqy"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "I don’t really distinguish between post types—everything that isn’t a (longer) article is simply a “note.” (Or a like, or a listen. Don’t think anyone cares much about those.) So I’ve got separate feeds (and sections) for them. Anybody who wanted—nobody, most likely—a feed for, e.g., only replies could use the search function + a tool like Granary to turn the resulting h-feed into RSS. (I use tags, too, but not consistently. They’re … extra?)",
+      "in-reply-to": "https://hacdias.com/2022/06/09/igackzpsqy",
+      "post-type": "reply",
+      "published": "2022-06-10T10:26:00+02:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/notes/6c1f3f102d",
+      "wm-id": 1412866,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-10T08:37:24Z",
+      "wm-source": "https://jan.boddez.net/notes/6c1f3f102d",
+      "wm-target": "https://hacdias.com/2022/06/09/igackzpsqy"
     }
   ]
 }
