@@ -2,7 +2,6 @@
 description: 'Just ate: Oats with blueberry, banana, powdered sugar, honey and speculaas'
 published: 2021-11-19T10:00:05+01:00
 section:
-- health
 - ate
 - photos
 createdWith: https://teacup.p3k.io/

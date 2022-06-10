@@ -2,7 +2,6 @@
 published: 2022-03-06T22:24:19.161267241+01:00
 section:
 - notes
-- micro
 createdWith: https://hacdias.com/
 ---
 

@@ -3,7 +3,6 @@ description: Replied to a post on commentpara.de
 published: 2022-01-12T21:27:56.028546344Z
 section:
 - replies
-- micro
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://commentpara.de/comment/947.htm

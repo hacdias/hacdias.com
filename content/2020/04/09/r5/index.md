@@ -2,7 +2,6 @@
 description: Replied to a post on seblog.nl
 published: 2020-04-09T08:34:32.149Z
 section:
-- micro
 - replies
 properties:
   in-reply-to: https://seblog.nl/2020/04/09/2/reply

@@ -2,7 +2,6 @@
 description: Replied to a post on jan.boddez.net
 published: 2020-10-14T11:38:45Z
 section:
-- micro
 - replies
 properties:
   category:

@@ -2,7 +2,6 @@
 description: 'Just ate: Tomato risotto with shrimp'
 published: 2021-11-18T14:03:27+01:00
 section:
-- health
 - ate
 createdWith: https://teacup.p3k.io/
 properties:

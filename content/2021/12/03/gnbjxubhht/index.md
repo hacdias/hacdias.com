@@ -2,7 +2,6 @@
 description: 'Just drank: Tripel LeFort'
 published: 2021-12-03T16:42:24+01:00
 section:
-- health
 - drank
 createdWith: https://teacup.p3k.io/
 properties:

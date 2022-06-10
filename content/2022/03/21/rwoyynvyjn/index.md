@@ -2,7 +2,6 @@
 description: 'Just drank: Magners Irish Cider'
 published: 2022-03-21T19:02:33Z
 section:
-- health
 - drank
 createdWith: https://micropublish.net/
 properties:

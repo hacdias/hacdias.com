@@ -3,7 +3,6 @@ title: Origins of the "Links Rechts" by Snollebollekes
 published: 2021-10-08T11:58:00+02:00
 section:
 - notes
-- micro
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/Netherlands/

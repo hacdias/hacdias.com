@@ -2,7 +2,6 @@
 description: 'Just ate: Chocolate Bao'
 published: 2022-05-01T17:54:01Z
 section:
-- health
 - ate
 - photos
 createdWith: https://micropublish.net/

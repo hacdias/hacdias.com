@@ -1,7 +1,6 @@
 ---
 published: 2021-02-02T19:35:05Z
 section:
-- micro
 - notes
 ---
 

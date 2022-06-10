@@ -3,7 +3,6 @@ description: Replied to a post on jlelse.blog
 published: 2021-11-20T18:47:16.864736859Z
 section:
 - replies
-- micro
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb

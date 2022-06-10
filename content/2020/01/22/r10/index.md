@@ -2,7 +2,6 @@
 description: Replied to a post on aaronparecki.com
 published: 2020-01-22T14:16:31.926Z
 section:
-- micro
 - replies
 properties:
   category:

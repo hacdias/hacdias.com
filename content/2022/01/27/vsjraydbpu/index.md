@@ -2,7 +2,6 @@
 description: 'Just ate: Oats with blueberry, banana, honey and kiwi'
 published: 2022-01-27T12:20:52+01:00
 section:
-- health
 - ate
 createdWith: https://teacup.p3k.io/
 properties:

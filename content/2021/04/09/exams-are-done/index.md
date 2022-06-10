@@ -2,7 +2,6 @@
 published: 2021-04-09T16:18:50.427631654Z
 updated: 2021-04-09T17:04:21.408196039Z
 section:
-- micro
 - notes
 properties:
   category:

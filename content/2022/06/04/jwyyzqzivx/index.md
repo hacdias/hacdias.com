@@ -2,7 +2,6 @@
 published: 2022-06-04T12:48:12.686181075+02:00
 section:
 - notes
-- micro
 createdWith: https://micropublish.net/
 properties:
   category: security

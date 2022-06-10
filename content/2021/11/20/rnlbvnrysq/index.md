@@ -3,7 +3,6 @@ title: Self-employed Friendly Bank
 published: 2021-11-20T04:07:00+02:00
 section:
 - notes
-- micro
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/Netherlands/

@@ -2,7 +2,6 @@
 published: 2022-03-28T22:31:52.026951826+02:00
 section:
 - notes
-- micro
 createdWith: https://micropublish.net/
 properties:
   category: trains

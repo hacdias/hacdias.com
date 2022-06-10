@@ -2,7 +2,6 @@
 published: 2021-12-16T21:20:26.171757408Z
 section:
 - notes
-- micro
 createdWith: https://quill.p3k.io/
 properties:
   location:

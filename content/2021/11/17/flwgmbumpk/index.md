@@ -3,7 +3,6 @@ description: Replied to a post on jlelse.blog
 published: 2021-11-17T21:25:07.764318042Z
 section:
 - replies
-- micro
 createdWith: https://monocle.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/appydroid/remove-bloatware

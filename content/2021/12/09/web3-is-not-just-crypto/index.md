@@ -3,7 +3,6 @@ description: Replied to a post on jlelse.blog
 published: 2021-12-09T07:17:12.106508098Z
 section:
 - replies
-- micro
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/links/2021/12/real-web3

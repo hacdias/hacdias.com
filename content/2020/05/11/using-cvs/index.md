@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 published: 2020-05-11T14:21:45.769Z
 section:
-- micro
 - replies
 properties:
   category:

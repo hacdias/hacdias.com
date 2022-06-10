@@ -2,7 +2,6 @@
 published: 2022-01-29T17:51:31.851604792+01:00
 section:
 - notes
-- micro
 createdWith: https://indieweb.org/Shortcuts
 properties:
   location:

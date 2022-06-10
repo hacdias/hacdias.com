@@ -2,7 +2,6 @@
 description: 'Just ate: Homemade kapsalon'
 published: 2021-11-20T13:40:11+01:00
 section:
-- health
 - ate
 createdWith: https://teacup.p3k.io/
 properties:

@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 published: 2020-03-24T07:35:24.834Z
 section:
-- micro
 - replies
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/03/lifethroughlenses/

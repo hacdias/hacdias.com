@@ -3,7 +3,6 @@ description: Replied to a post on jlelse.blog
 published: 2021-11-20T17:39:14.804264871Z
 section:
 - replies
-- micro
 createdWith: https://monocle.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/posts/bahn2gpx

@@ -1,7 +1,6 @@
 ---
 published: 2020-03-01T13:25:34.893Z
 section:
-- micro
 - notes
 properties:
   category:

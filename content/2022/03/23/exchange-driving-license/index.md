@@ -2,7 +2,6 @@
 published: 2022-03-23T17:38:20.988771267+01:00
 section:
 - notes
-- micro
 createdWith: https://micropublish.net/
 properties:
   location:

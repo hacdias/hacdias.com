@@ -2,7 +2,6 @@
 published: 2021-11-15T23:20:19.134227281Z
 section:
 - notes
-- micro
 properties:
   location:
     properties:

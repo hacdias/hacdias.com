@@ -2,7 +2,6 @@
 description: 'Just drank: Iced Lemon Grass Chai'
 published: 2022-05-11T13:43:38Z
 section:
-- health
 - drank
 createdWith: https://micropublish.net/
 properties:

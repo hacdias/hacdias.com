@@ -2,7 +2,6 @@
 description: 'Just drank: Wieckse Rosé'
 published: 2022-02-20T19:08:13Z
 section:
-- health
 - drank
 createdWith: https://micropublish.net/
 properties:

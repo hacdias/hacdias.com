@@ -3,7 +3,6 @@ description: Replied to a post on jlelse.blog
 published: 2021-11-16T15:11:26.333810576Z
 section:
 - replies
-- micro
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2021/11/unlimited-data

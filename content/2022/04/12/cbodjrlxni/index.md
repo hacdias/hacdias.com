@@ -2,7 +2,6 @@
 description: 'Just ate: Oats with Lemon Curd and Greek Yoghurt'
 published: 2022-04-12T05:37:19Z
 section:
-- health
 - ate
 - photos
 createdWith: https://micropublish.net/

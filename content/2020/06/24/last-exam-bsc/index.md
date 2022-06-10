@@ -1,7 +1,6 @@
 ---
 published: 2020-06-24T17:13:20.384Z
 section:
-- micro
 - notes
 properties:
   syndication:

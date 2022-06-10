@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 published: 2020-02-10T07:03:15.193Z
 section:
-- micro
 - replies
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/02/2020-02-07-jvwap/

@@ -2,7 +2,6 @@
 description: 'Just ate: Tomato and mozzarella quiche'
 published: 2021-11-20T19:19:11+01:00
 section:
-- health
 - ate
 createdWith: https://teacup.p3k.io/
 properties:

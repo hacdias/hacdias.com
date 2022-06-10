@@ -2,7 +2,6 @@
 description: Replied to a post on commentpara.de
 published: 2021-11-02T13:00:28.97261845Z
 section:
-- micro
 - replies
 properties:
   in-reply-to: https://commentpara.de/comment/919.htm

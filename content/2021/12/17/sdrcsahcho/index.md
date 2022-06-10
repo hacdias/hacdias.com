@@ -3,7 +3,6 @@ description: Replied to a post on micro.blog
 published: 2021-12-17T15:44:32.836442167Z
 section:
 - replies
-- micro
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://micro.blog/maique/12275514

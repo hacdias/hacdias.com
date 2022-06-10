@@ -2,7 +2,6 @@
 description: 'Just ate: Spare ribs'
 published: 2021-11-23T20:30:02+01:00
 section:
-- health
 - ate
 createdWith: https://teacup.p3k.io/
 properties:
