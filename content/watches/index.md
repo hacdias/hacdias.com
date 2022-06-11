@@ -7,9 +7,8 @@ isListing: true
 
 <div class="box">
 
-*Check the [summary](/watches/summary) for all movies and series I have watched.*
+🍿 Check the [summary](/watches/summary) for a compilation of all movies and series I have watched.
 
 </div>
-
 
 <!--more-->

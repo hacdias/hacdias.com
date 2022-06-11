@@ -521,7 +521,7 @@ figure.right {
 }
 
 .box {
-  padding: 0.5rem;
+  padding: var(--hms) var(--ms);
   border: var(--border) solid var(--light-white);
   background-color: var(--near-white);
   border-radius: var(--radius);
