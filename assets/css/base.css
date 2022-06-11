@@ -440,6 +440,7 @@ details summary {
   padding: var(--ms);
   margin: 0;
   position: relative;
+  border-radius: var(--radius);
 }
 
 .ibox .e-content {

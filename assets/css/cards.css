@@ -6,6 +6,10 @@
   border: var(--border) solid var(--light-white);
 }
 
+.card .ibox {
+  border-radius: 0;
+}
+
 .card .ibox + .fw,
 .card .ibox + .fw figure,
 .card .ibox + figure,
