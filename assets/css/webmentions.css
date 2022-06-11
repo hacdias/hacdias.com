@@ -45,7 +45,7 @@
 .wm form,
 .wm summary,
 .wm .contents {
-  padding: var(--box-padding);
+  padding: var(--ms);
 }
 
 .wm form {

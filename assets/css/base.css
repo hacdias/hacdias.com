@@ -20,12 +20,14 @@
   --background: #fbfbfb;
 
   /* Spacings */
-  --space: 2.5rem;
-  --half-space: 1.25rem;
-  --max-width: 52rem;
+  --ls: 2.5rem;
+  --hls: 1.25rem;
+  --ms: 1rem;
+  --hms: 0.5rem;
 
+  /* Others */
+  --max-width: 52rem;
   --border: 2px;
-  --box-padding: 1rem;
   --radius: 0.4rem;
 }
 
@@ -317,13 +319,13 @@ details summary {
   overflow: auto;
   border: 0;
   border-radius: var(--radius);
-  padding: var(--box-padding);
+  padding: var(--ms);
   background: var(--near-white) !important;
 }
 
 .fw {
-  width: calc(100% + 2 * var(--space));
-  margin-left: calc(var(--space) * -1);
+  width: calc(100% + 2 * var(--ls));
+  margin-left: calc(var(--ls) * -1);
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
@@ -332,7 +334,7 @@ details summary {
   background-color: var(--accent);
   color: var(--white);
   margin-top: 0;
-  margin-bottom: var(--half-space);
+  margin-bottom: var(--hls);
   border-radius: 0 0 var(--radius) var(--radius);
   overflow: hidden;
   font-weight: 600;
@@ -414,7 +416,7 @@ details summary {
   width: 100%;
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 var(--space) var(--half-space);
+  padding: 0 var(--ls) var(--hls);
 }
 
 .copy ol,
@@ -435,7 +437,7 @@ details summary {
 .ibox {
   display: block;
   background-color: var(--near-white);
-  padding: var(--box-padding);
+  padding: var(--ms);
   margin: 0;
   position: relative;
 }
@@ -453,7 +455,7 @@ details summary {
 }
 
 .ibox.skinny {
-  padding: calc(0.5 * var(--box-padding)) var(--box-padding);
+  padding: var(--hms) var(--ms);
   background: var(--light-white);
   font-size: var(--f6);
 }
@@ -571,7 +573,7 @@ figure.right {
   position: fixed;
   top: 0;
   z-index: 9999;
-  padding: 2.5rem var(--space);
+  padding: 2.5rem var(--ls);
   background: rgba(0, 0, 0, 0.9);
   color: white;
   height: 100%;
@@ -628,8 +630,8 @@ figure.right {
 
 @media screen and (max-width: 48rem) {
   :root {
-    --space: 1rem;
-    --half-space: 1rem;
+    --ls: 1rem;
+    --hls: 1rem;
   }
 
   #navbar ul li {
@@ -644,7 +646,7 @@ figure.right {
   #navbar > div {
     display: flex;
   }
-  
+
   #navbar ul li:first-child {
     display: none !important;
   }
@@ -653,7 +655,7 @@ figure.right {
   #navbar > div,
   #navbar li a {
     text-align: left;
-    padding: .5rem var(--half-space);
+    padding: .5rem var(--hls);
   }
 
   #navbar li:last-child input::placeholder {

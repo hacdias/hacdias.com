@@ -36,7 +36,7 @@
 .card header,
 .card > .copy,
 .card footer {
-  padding: 0 var(--box-padding);
+  padding: 0 var(--ms);
 }
 
 .card .more {
