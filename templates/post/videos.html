@@ -1,0 +1,11 @@
+{{ define "post/videos" }}
+  {{ with .Helper.Videos }}
+    <div class="fw">
+    {{ range $i, $video := . }}
+      <video controls {{ with $video.alt }}poster="{{ . }}"{{ end }}>
+        <source src="{{ $video.value }}">
+      </video>
+    {{ end }}
+    </div>
+  {{ end }}
+{{ end }}

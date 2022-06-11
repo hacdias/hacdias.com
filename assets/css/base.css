@@ -96,6 +96,7 @@ figure {
   margin-right: 0;
 }
 
+video,
 figure img {
   width: 100%;
   display: block;
