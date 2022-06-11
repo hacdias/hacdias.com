@@ -3,7 +3,7 @@
     {{ include "base/admin" . }}
 
     <header>
-      <h1>{{ .Title }}</h1>
+      <h1>{{ .Title }}{{ with .Data.Page }} ({{.}}){{ end }}</h1>
     </header>
 
     <form id='search-form' class='inline-form' style="margin: 1rem 0">
