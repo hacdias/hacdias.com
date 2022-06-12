@@ -1,15 +1,25 @@
-:root {
-  --accent: #003366;
+h2, h3, h4 {
+  margin: 1rem 0 0;
 }
 
-.indented {
-  padding-left: 1rem;
+h2 {
+  font-size: var(--f3);
 }
 
-.mail::before,
-.location::before {
-  content: ' — ';
-  margin-left: 0.25rem;
+h3 {
+  font-size: var(--f4);
+  color: var(--accent);
+}
+
+h4 {
+  font-size: var(--f5);
+  margin-top: 0;
+  font-weight: 500;
+}
+
+h3 > a,
+h4 > a {
+  text-decoration: none;
 }
 
 p small,
@@ -20,8 +30,19 @@ h4 small {
   color: var(--light-gray);
 }
 
-.location {
-  font-weight: 500;
+h3, h4 {
+  display: flex;
+  align-items: center;
+}
+
+h4 small,
+h3 small {
+  margin-left: auto;
+}
+
+h4::before {
+  content: '@ ';
+  margin-right: 0.1rem;
 }
 
 .head h1 {
@@ -40,58 +61,8 @@ h4 small {
   margin: 0;
 }
 
-blockquote p {
-  margin: 0;
-  font-size: var(--f6);
-}
-
-h2, h3, h4 {
-  margin: 1rem 0 0.5rem;
-}
-
-h2 {
-  font-size: var(--f3);
-  color: var(--accent);
-}
-
-h3, h4 {
-  font-size: var(--f4);
-}
-
-h3 > a,
-.location a {
-  text-decoration: none;
-}
-
-h3, h4,
-.education p {
-  display: flex;
-  align-items: center;
-}
-
-h4 small,
-h3 small,
-.education p small {
-  margin-left: auto;
-}
-
-.education h3,
-.education p {
-  margin: 0;
-  font-size: var(--f5);
-}
-
-.education ul {
-  margin: 0;
-}
-
-.education h3 {
-  margin-top: 1rem;
-}
-
 @media screen and (max-width: 45rem) {
-  h3, h4,
-  .education p {
+  h3, h4 p {
     display: block;
   }
 }
