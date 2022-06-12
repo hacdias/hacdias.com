@@ -18,10 +18,12 @@
       {{ else if eq . "finished" }}
         📕 Finished
       {{ else }}
-        {{ $total := $read.Int "pages" }}
         {{ $page := $mf2.Int "page" }}
-        {{ with $page }}
-          📖 On page <span class="p-page">{{ . }}</span>{{ with $total }} of <span class="p-total">{{ . }}</span>{{ end }} of
+        {{ $percentage := $mf2.Int "percentage" }}
+        {{ if $page }}
+          📖 On page <span class="p-page">{{ $page }}</span>{{ with $read.Int "pages" }} of <span class="p-total">{{ . }}</span>{{ end }} of
+        {{ else if $percentage }}
+          📖 On <span class="p-percentage">{{ $percentage }}%</span> of
         {{ else }}
           📖 Reading
         {{ end }}
