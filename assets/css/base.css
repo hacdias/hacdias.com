@@ -1,6 +1,6 @@
 :root {
-  /* Font sizes. Nice website: https://type-scale.com/ */
-  --f1: 3.052rem;
+  /* Font sizes. Nice website: https://type-scale.com/, Minor Third */
+  --f1: 2.074rem;
   --f2: 1.728rem;
   --f3: 1.44rem;
   --f4: 1.2rem;
@@ -250,7 +250,7 @@ figcaption {
 }
 
 main header {
-  margin: 2rem 0;
+  margin: var(--hls) 0;
   text-align: center;
 }
 
