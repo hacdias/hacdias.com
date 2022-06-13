@@ -200,14 +200,14 @@ The first translation and scale define where we start drawing the next branch. T
   <summary>The whole code</summary>
 
   ```javascript
-  const canvas = document.querySelector('#painting')
-  const ctx = canvas.getContext('2d')
-  canvas.width = window.innerWidth
-  canvas.height = window.innerHeight
+const canvas = document.querySelector('#painting')
+const ctx = canvas.getContext('2d')
+canvas.width = window.innerWidth
+canvas.height = window.innerHeight
 
-  const maxLevel = 5
-  const branches = 2
-  const sides = Math.floor((Math.random() * 10) + 3)
+const maxLevel = 5
+const branches = 2
+const sides = Math.floor((Math.random() * 10) + 3)
   const spread = (Math.random() * 0.48) + 0.51
   const strokeColor = '#d1d8e0'
   const lineWidth = 4
