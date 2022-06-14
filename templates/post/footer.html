@@ -29,6 +29,8 @@
             <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Published.Format "02 Jan 2006 15:04 MST" }}</a>
           </time>
         {{- end -}}
+      {{- else }}
+        <a href="{{ relURL .Permalink }}" class="u-url nl">Once Upon a Time</a>
       {{- end }}
 
       {{- include "post/tags" . }}
