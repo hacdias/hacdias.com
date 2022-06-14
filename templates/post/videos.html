@@ -2,7 +2,7 @@
   {{ with .Helper.Videos }}
     <div class="fw">
     {{ range $i, $video := . }}
-      <video controls {{ with $video.alt }}poster="{{ . }}"{{ end }}>
+      <video controls {{ with $video.alt }}poster="{{ . }}"{{ end }} class="u-video">
         <source src="{{ $video.value }}">
       </video>
     {{ end }}

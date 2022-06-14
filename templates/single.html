@@ -10,8 +10,7 @@
       <div class='copy e-content'>{{ md . }}</div>
     {{ end }}
 
-    {{ include "post/photos" . }}
-    {{ include "post/videos" . }}
+    {{ include "post/media" . }}
     {{ include "post/footer" . }}
 
     {{ with .DisplayDescription }}
