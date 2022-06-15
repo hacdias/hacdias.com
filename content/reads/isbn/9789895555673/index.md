@@ -1,5 +1,6 @@
 ---
 title: 'O Mistério da Casa Invisível by Enid Blyton (ISBN: 9789895555673)'
+isListing: true
 properties:
   read-of:
     properties:

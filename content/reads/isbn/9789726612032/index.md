@@ -1,5 +1,6 @@
 ---
 title: 'O Rapaz de Bronze by Sophia de Mello Breyner Andresen (ISBN: 9789726612032)'
+isListing: true
 properties:
   read-of:
     properties:

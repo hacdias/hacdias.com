@@ -1,5 +1,6 @@
 ---
 title: 'To Kill a Mockingbird by Harper Lee (ISBN: 9780099549482)'
+isListing: true
 properties:
   read-of:
     properties:

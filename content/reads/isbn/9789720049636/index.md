@@ -1,5 +1,6 @@
 ---
 title: 'O Crime do Padre Amaro by Eça de Queirós (ISBN: 9789720049636)'
+isListing: true
 properties:
   read-of:
     properties:

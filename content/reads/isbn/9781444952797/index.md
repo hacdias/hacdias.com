@@ -1,6 +1,7 @@
 ---
 title: 'Heartstopper Volume Four by Alice Oseman (ISBN: 9781444952797)'
 createdWith: https://hacdias.com/
+isListing: true
 properties:
   read-of:
     properties:

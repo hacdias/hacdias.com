@@ -1,6 +1,7 @@
 ---
 title: 'The Alchemist by Paulo Coelho (ISBN: 9780007155668)'
 createdWith: https://hacdias.com/
+isListing: true
 properties:
   read-of:
     properties:

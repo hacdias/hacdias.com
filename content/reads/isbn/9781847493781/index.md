@@ -2,6 +2,7 @@
 title: 'Strange Case of Dr Jekyll and Mr Hyde and Other Stories by Robert Louis Stevenson
   (ISBN: 9781847493781)'
 createdWith: https://hacdias.com/
+isListing: true
 properties:
   read-of:
     properties:

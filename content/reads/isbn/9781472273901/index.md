@@ -1,6 +1,7 @@
 ---
 title: 'Ariadne by Jennifer Saint (ISBN: 9781472273901)'
 createdWith: https://hacdias.com/
+isListing: true
 properties:
   read-of:
     properties:

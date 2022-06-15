@@ -1,6 +1,7 @@
 ---
 title: 'Heartstopper Volume One by Alice Oseman (ISBN: 9781444951387)'
 createdWith: https://hacdias.com/
+isListing: true
 properties:
   read-of:
     properties:

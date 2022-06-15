@@ -1,6 +1,7 @@
 ---
 title: 'Verschrikkelijke beestjes by Elise Gravel (ISBN: 9789045127330)'
 createdWith: https://hacdias.com/
+isListing: true
 properties:
   read-of:
     properties:

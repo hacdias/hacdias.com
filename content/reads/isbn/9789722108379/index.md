@@ -1,5 +1,6 @@
 ---
 title: 'Uma Aventura na Serra da Estrela by Ana Maria Magalhães (ISBN: 9789722108379)'
+isListing: true
 properties:
   read-of:
     properties:

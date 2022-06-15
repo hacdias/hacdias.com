@@ -1,5 +1,6 @@
 ---
 title: 'The Giver by Lois Lowry (ISBN: 9780385732550)'
+isListing: true
 properties:
   read-of:
     properties:

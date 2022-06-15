@@ -1,5 +1,6 @@
 ---
 title: 'Peer-to-Peer Systems and Applications by Ralf Steinmetz (ISBN: 9783540291923)'
+isListing: true
 properties:
   read-of:
     properties:

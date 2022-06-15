@@ -1,6 +1,7 @@
 ---
 title: 'Short Stories in Dutch for Beginners by Olly Richards (ISBN: 9781529302868)'
 createdWith: https://hacdias.com/
+isListing: true
 properties:
   read-of:
     properties:

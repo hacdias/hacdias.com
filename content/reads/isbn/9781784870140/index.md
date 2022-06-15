@@ -1,5 +1,6 @@
 ---
 title: 'Brave New World by Aldous Huxley (ISBN: 9781784870140)'
+isListing: true
 properties:
   read-of:
     properties:

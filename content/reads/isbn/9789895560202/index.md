@@ -1,5 +1,6 @@
 ---
 title: 'O Mistério do Príncipe Desaparecido by Enid Blyton (ISBN: 9789895560202)'
+isListing: true
 properties:
   read-of:
     properties:

@@ -1,5 +1,6 @@
 ---
 title: 'Under the Whispering Door by TJ Klune (ISBN: 9781529087987)'
+isListing: true
 properties:
   read-of:
     properties:

@@ -1,6 +1,7 @@
 ---
 title: 'Zero to One: Notes on Start Ups, or How to Build the Future by Peter Thiel
   (ISBN: 9780753555200)'
+isListing: true
 properties:
   read-of:
     properties:

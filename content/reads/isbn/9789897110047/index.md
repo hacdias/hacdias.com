@@ -1,5 +1,6 @@
 ---
 title: 'Contos by Eça de Queirós (ISBN: 9789897110047)'
+isListing: true
 properties:
   read-of:
     properties:

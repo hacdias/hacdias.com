@@ -1,5 +1,6 @@
 ---
 title: 'Find Me by André Aciman (ISBN: 9780374155018)'
+isListing: true
 properties:
   read-of:
     properties:

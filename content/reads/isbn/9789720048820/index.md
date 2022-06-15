@@ -1,5 +1,6 @@
 ---
 title: 'O ano da morte de Ricardo Reis by José Saramago (ISBN: 9789720048820)'
+isListing: true
 properties:
   read-of:
     properties:

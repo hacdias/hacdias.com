@@ -1,5 +1,6 @@
 ---
 title: 'Uma Aventura no Pulo do Lobo by Ana Maria Magalhães (ISBN: 9789722121026)'
+isListing: true
 properties:
   read-of:
     properties:

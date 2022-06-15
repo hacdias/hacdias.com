@@ -1,5 +1,6 @@
 ---
 title: 'Call Me By Your Name by André Aciman (ISBN: 9781786495259)'
+isListing: true
 properties:
   read-of:
     properties:

@@ -1,6 +1,7 @@
 ---
 title: 'Minoes by Annie M.G. Schmidt (ISBN: 9789045124698)'
 createdWith: https://hacdias.com/
+isListing: true
 properties:
   read-of:
     properties:

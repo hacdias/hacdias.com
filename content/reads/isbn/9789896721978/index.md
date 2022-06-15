@@ -1,5 +1,6 @@
 ---
 title: 'Para Onde Vão Os Guarda-Chuvas by Afonso Cruz (ISBN: 9789896721978)'
+isListing: true
 properties:
   read-of:
     properties:

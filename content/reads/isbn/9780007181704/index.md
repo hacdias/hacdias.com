@@ -1,5 +1,6 @@
 ---
 title: 'Fahrenheit 451 by Ray Bradbury (ISBN: 9780007181704)'
+isListing: true
 properties:
   read-of:
     properties:
