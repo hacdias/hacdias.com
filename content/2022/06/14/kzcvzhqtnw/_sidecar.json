@@ -7,5 +7,46 @@
     "https://hacdias.com/2019/12/20/quick-dive-into-dweb-ipfs"
   ],
   "context": null,
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/2aa312f6a3b877b94d838368201e6cf9d0ee24dbc72a4d8f7b15e4c442885df1.png",
+        "type": "card",
+        "url": "https://jlelse.blog"
+      },
+      "content": "Never heard of MicroPub channels, I have to check it out! Regarding video posts: Have you heard of Bunny.net Stream? There you can upload videos, they encode them to different resolutions and then you can use an HLS playlist. Also with custom domain. See this post as an example. To secure your media files, you could use Token Authentication with Bunny.net. Good luck with your thesis!",
+      "in-reply-to": "https://hacdias.com/2022/06/14/kzcvzhqtnw",
+      "post-type": "reply",
+      "published": "2022-06-15T08:29:29+02:00",
+      "type": "entry",
+      "url": "https://jlelse.blog/micro/2022/06/2022-06-15-xlwja",
+      "wm-id": 1417100,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-15T06:29:32Z",
+      "wm-source": "https://jlelse.blog/micro/2022/06/2022-06-15-xlwja",
+      "wm-target": "https://hacdias.com/2022/06/14/kzcvzhqtnw"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "You store them somewhere that isn’t public and then use a bit of logic (a “controller” of sorts, which accepts a “file path” as a URL or query parameter and outputs binary [media] data) that serves them only to logged-in visitors? (And handles relevant headers, etc.) [W]hat’s the best way to protect the media?",
+      "in-reply-to": "https://hacdias.com/2022/06/14/kzcvzhqtnw",
+      "post-type": "reply",
+      "published": "2022-06-15T16:22:56+02:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/notes/7b67e25496",
+      "wm-id": 1417262,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-15T14:35:04Z",
+      "wm-source": "https://jan.boddez.net/notes/7b67e25496",
+      "wm-target": "https://hacdias.com/2022/06/14/kzcvzhqtnw"
+    }
+  ]
 }

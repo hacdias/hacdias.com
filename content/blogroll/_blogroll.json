@@ -108,6 +108,12 @@
     "category": "following"
   },
   {
+    "title": "Decentralized Thoughts",
+    "site": "https://decentralizedthoughts.github.io",
+    "feed": "https://decentralizedthoughts.github.io/feed.xml",
+    "category": "following"
+  },
+  {
     "title": "ExpLog",
     "site": "https://explog.in/",
     "feed": "https://explog.in/rss.xml",
