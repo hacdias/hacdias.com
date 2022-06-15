@@ -3,7 +3,7 @@
 <main role='main'>
   {{ include "base/admin" . }}
 
-  <article class='h-entry'>
+  <article class='h-entry card'>
     {{ $mf2 := .Helper }}
     {{ $read := $mf2.Sub $mf2.TypeProperty }}
 
@@ -14,7 +14,7 @@
     {{ $publisher := $read.String "publisher" }}
 
     <div class="p-read-of h-cite ibox">
-      <p><cite class="p-name">{{ $name }}</cite> — <span class="p-author">{{ $author }}</span></p>
+      <p><strong class="p-name">{{ $name }}</strong> — <span class="p-author">{{ $author }}</span></p>
 
       <p style="margin-bottom: 0">
         <small>
