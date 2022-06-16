@@ -17,25 +17,44 @@
       {{ end }}
     {{ end }}
 
-    <p>
-      {{- if or (not .Published.IsZero) (not .Updated.IsZero) }}
-        {{- if .Updated.After .Published -}}
-          <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
-            <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Updated.Format "02 Jan 2006 15:04 MST" }}</a>
-          </time>
-          <time class='dt-published dn' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
-        {{- else if not .Published.IsZero -}}
-          <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
-            <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Published.Format "02 Jan 2006 15:04 MST" }}</a>
-          </time>
-        {{- end -}}
-      {{- else if not .Title }}
-        <a href="{{ relURL .Permalink }}" class="u-url nl">Permalink</a>
-      {{ end }}
+    {{ $syndications := .Helper.Strings "syndication" }}
+    {{ $tags := .Tags }}
+    {{ $hasDate := or (not .Published.IsZero) (not .Updated.IsZero) }}
+    {{ $hasNoTitle := not .Title }}
 
-      {{- include "post/tags" . }}
-      {{- include "post/syndications" . }}
-    </p>
+    {{ if or $hasDate $hasNoTitle $syndications $tags }}
+      <p>
+        {{- if $hasDate }}
+          {{- if .Updated.After .Published -}}
+            <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
+              <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Updated.Format "02 Jan 2006 15:04 MST" }}</a>
+            </time>
+            <time class='dt-published dn' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
+          {{- else if not .Published.IsZero -}}
+            <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
+              <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Published.Format "02 Jan 2006 15:04 MST" }}</a>
+            </time>
+          {{- end -}}
+        {{- else if $hasNoTitle }}
+          <a href="{{ relURL .Permalink }}" class="u-url nl">Permalink</a>
+        {{ end }}
+
+        {{ range $tags -}}
+          <a class="tag p-category" href="/tags/{{ . }}">{{ . }}</a>
+        {{ end -}}
+
+        {{ range $syndications }}
+        <a class='nl u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">
+          {{ $domain := domain . }}
+          {{- if strContains $domain "twitter.com" }}🐦
+          {{- else if strContains $domain "swarmapp.com" }}🐝
+          {{- else if strContains $domain "instagram.com" }}📷
+          {{- else if strContains $domain "reddit.com" }}🤖
+          {{ else }}🔗{{ end -}}
+        </a>
+        {{ end }}
+      </p>
+    {{ end }}
   </footer>
 
   <div class="dn">

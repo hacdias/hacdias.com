@@ -3,38 +3,19 @@
 <main role='main'>
   {{ include "base/admin" . }}
 
-  <article class='h-entry card'>
-    {{ $mf2 := .Helper }}
-    {{ $read := $mf2.Sub $mf2.TypeProperty }}
-
-    {{ $name := $read.Name }}
-    {{ $author := $read.String "author" }}
-    {{ $uid := $read.String "uid" }}
-    {{ $pages := $read.Int "pages" }}
-    {{ $publisher := $read.String "publisher" }}
-
-    <div class="p-read-of h-cite ibox">
-      <p><strong class="p-name">{{ $name }}</strong> — <span class="p-author">{{ $author }}</span></p>
-
-      <p style="margin-bottom: 0">
-        <small>
-          {{ with $uid }}
-            {{ $parts := strSplit $uid ":" }}
-            {{ $type := index $parts 0 }}
-            {{ $id := index $parts 1 }}
-            <span style="text-transform: uppercase">{{ $type }}</span>: {{ $id }}</a>
-          {{ end }}
-          {{ with $pages }}| Pages: <span class="p-pages">{{ . }}</span>{{ end }}
-          {{ with $publisher }}| Publisher: <span class="p-publisher">{{ . }}</span>{{ end }}
-        </small>
-      </p>
-    </div>
+  <article class='card h-entry'>
+    {{ include "post/header" . }}
 
     {{ with .Entry.Content }}
       <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>{{ md . }}</div>
     {{ end }}
 
     {{ include "post/media" . }}
+    {{ include "post/footer" . }}
+
+    {{ with .DisplayDescription }}
+      <p class='dn p-summary'>{{ . }}</p>
+    {{ end }}
   </article>
 
   {{ include "list/list" . }}

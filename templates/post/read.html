@@ -11,31 +11,58 @@
   {{ $author := $read.String "author" }}
   {{ $status := $mf2.String "read-status" }}
 
-  <div class=ibox>
-    {{ with $status }}
+  {{ with $status }}
+    <div class=ibox>
       {{ if eq . "to-read" }}
         📚 Want to read
       {{ else if eq . "finished" }}
         📕 Finished
-      {{ else }}
+      {{ else if eq . "reading" }}
         {{ $page := $mf2.Int "page" }}
         {{ $percentage := $mf2.Int "percentage" }}
         {{ if $page }}
           📖 On page <span class="p-page">{{ $page }}</span>{{ with $read.Int "pages" }} of <span class="p-total">{{ . }}</span>{{ end }} of
         {{ else if $percentage }}
-          📖 On <span class="p-percentage">{{ $percentage }}%</span> of
+          📖 Read <span class="p-percentage">{{ $percentage }}%</span> of
         {{ else }}
           📖 Reading
         {{ end }}
       {{ end }}
-    {{ end }}
 
-    <span class="p-read-of h-cite">
-      {{ with $canonical }}<a href="{{ relURL . }}" class="u-url">{{ end }}
-        <strong><span class="p-name">{{ $name }}</span></strong> by <span class="p-author">{{ $author }}</span>
-      {{ with $canonical }}</a>{{ end }}
-    </span>
-  </div>
+      <span class="p-read-of h-cite">
+        {{ with $canonical }}<a href="{{ relURL . }}" class="u-url">{{ end }}
+          <strong><span class="p-name">{{ $name }}</span></strong> by <span class="p-author">{{ $author }}</span>
+        {{ with $canonical }}</a>{{ end }}
+      </span>
+    </div>
 
-  <data class="p-x-read-status dn" value="{{ $status }}">{{ $status }}</data>
+    <data class="p-x-read-status dn" value="{{ $status }}">{{ $status }}</data>
+  {{ else }}
+    {{ $uid := $read.String "uid" }}
+    {{ $pages := $read.Int "pages" }}
+    {{ $publisher := $read.String "publisher" }}
+
+    <div class="p-read-of h-cite ibox">
+      <p>
+        <span class="h-cite">
+          <a href="{{ relURL .Permalink }}" class="u-url">
+            <strong><span class="p-name">{{ $name }}</span></strong> — <span class="p-author">{{ $author }}</span>
+          </a>
+        </span>
+      </p>
+
+      <p style="margin-bottom: 0">
+        <small>
+          {{ with $uid }}
+            {{ $parts := strSplit $uid ":" }}
+            {{ $type := index $parts 0 }}
+            {{ $id := index $parts 1 }}
+            <span style="text-transform: uppercase">{{ $type }}</span>: {{ $id }}</a>
+          {{ end }}
+          {{ with $pages }}| Pages: <span class="p-pages">{{ . }}</span>{{ end }}
+          {{ with $publisher }}| Publisher: <span class="p-publisher">{{ . }}</span>{{ end }}
+        </small>
+      </p>
+    </div>
+  {{ end }}
 {{ end }}
