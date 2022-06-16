@@ -1,6 +1,5 @@
 ---
 title: 'Divergente by Veronica Roth (ISBN: 9789720043818)'
-isListing: true
 properties:
   read-of:
     properties:

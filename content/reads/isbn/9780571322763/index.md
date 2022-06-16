@@ -1,6 +1,5 @@
 ---
 title: 'Look Back in Anger by John Osborne (ISBN: 9780571322763)'
-isListing: true
 properties:
   read-of:
     properties:

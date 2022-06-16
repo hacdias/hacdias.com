@@ -1,6 +1,5 @@
 ---
 title: 'O Sobrinho do Mágico by C.S. Lewis (ISBN: 9789722329989)'
-isListing: true
 properties:
   read-of:
     properties:

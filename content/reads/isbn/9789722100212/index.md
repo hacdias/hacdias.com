@@ -1,6 +1,5 @@
 ---
 title: 'Uma Aventura em Lisboa by Ana Maria Magalhães (ISBN: 9789722100212)'
-isListing: true
 properties:
   read-of:
     properties:

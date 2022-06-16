@@ -1,6 +1,5 @@
 ---
 title: 'Harry Potter and the Goblet of Fire by J.K. Rowling (ISBN: 9781408855683)'
-isListing: true
 properties:
   read-of:
     properties:

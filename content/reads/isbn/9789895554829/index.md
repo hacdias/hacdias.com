@@ -1,6 +1,5 @@
 ---
 title: 'O Mistério do Quarto Secreto by Enid Blyton (ISBN: 9789895554829)'
-isListing: true
 properties:
   read-of:
     properties:

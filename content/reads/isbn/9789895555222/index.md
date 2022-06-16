@@ -1,6 +1,5 @@
 ---
 title: 'O Mistério do colar desaparecido Volume 5 by Enid Blyton (ISBN: 9789895555222)'
-isListing: true
 properties:
   read-of:
     properties:

@@ -1,6 +1,5 @@
 ---
 title: 'Mensagem by Fernando Pessoa (ISBN: 9789898939531)'
-isListing: true
 properties:
   read-of:
     properties:

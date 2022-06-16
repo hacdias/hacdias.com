@@ -1,6 +1,5 @@
 ---
 title: 'Bananus Maximus by Tim Collins (ISBN: 9789897071140)'
-isListing: true
 properties:
   read-of:
     properties:

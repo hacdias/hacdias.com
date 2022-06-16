@@ -1,6 +1,5 @@
 ---
 title: 'Uma Aventura nas Férias do Natal by Ana Maria Magalhães (ISBN: 9789722100014)'
-isListing: true
 properties:
   read-of:
     properties:

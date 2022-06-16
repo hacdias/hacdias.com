@@ -1,6 +1,5 @@
 ---
 title: 'Terraform: Up and Running by Yevgeniy Brikman (ISBN: 9789352135462)'
-isListing: true
 properties:
   read-of:
     properties:

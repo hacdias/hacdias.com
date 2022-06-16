@@ -1,6 +1,5 @@
 ---
 title: 'Uma Aventura Secreta by Ana Maria Magalhães (ISBN: 9789722114677)'
-isListing: true
 properties:
   read-of:
     properties:

@@ -1,6 +1,5 @@
 ---
 title: 'A maldição da estrela morta by Álvaro Magalhães (ISBN: 9789892310817)'
-isListing: true
 properties:
   read-of:
     properties:

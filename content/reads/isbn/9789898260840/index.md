@@ -1,6 +1,5 @@
 ---
 title: 'Diário de Um Vampiro Banana by Tim Collins (ISBN: 9789898260840)'
-isListing: true
 properties:
   read-of:
     properties:

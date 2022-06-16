@@ -1,6 +1,5 @@
 ---
 title: 'Nineteen Eighty-Four by George Orwell (ISBN: 9780141393049)'
-isListing: true
 properties:
   read-of:
     properties:

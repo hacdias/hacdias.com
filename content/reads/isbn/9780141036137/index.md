@@ -1,6 +1,5 @@
 ---
 title: 'Animal Farm by George Orwell (ISBN: 9780141036137)'
-isListing: true
 properties:
   read-of:
     properties:

@@ -1,6 +1,5 @@
 ---
 title: 'A Feiticeira de Paris by Álvaro Magalhães (ISBN: 9789892321011)'
-isListing: true
 properties:
   read-of:
     properties:

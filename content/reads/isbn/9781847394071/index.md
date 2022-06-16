@@ -1,6 +1,5 @@
 ---
 title: 'The Perks of Being a Wallflower by Stephen Chbosky (ISBN: 9781847394071)'
-isListing: true
 properties:
   read-of:
     properties:

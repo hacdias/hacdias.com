@@ -1,6 +1,5 @@
 ---
 title: 'O Principezinho by Antoine de Saint-Exupéry (ISBN: 9789895401970)'
-isListing: true
 properties:
   read-of:
     properties:

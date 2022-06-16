@@ -1,6 +1,5 @@
 ---
 title: 'O Mistério do Ladrão Invisível by Enid Blyton (ISBN: 9789895559541)'
-isListing: true
 properties:
   read-of:
     properties:

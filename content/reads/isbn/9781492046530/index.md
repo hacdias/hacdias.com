@@ -1,6 +1,5 @@
 ---
 title: 'Kubernetes: Up and Running by Brendan Burns (ISBN: 9781492046530)'
-isListing: true
 properties:
   read-of:
     properties:

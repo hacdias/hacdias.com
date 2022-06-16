@@ -1,6 +1,5 @@
 ---
 title: 'The House in the Cerulean Sea by TJ Klune (ISBN: 9781529087949)'
-isListing: true
 properties:
   read-of:
     properties:

@@ -1,6 +1,5 @@
 ---
 title: 'Felizmente Há Luar! by Luís de Sttau Monteiro (ISBN: 9789726277446)'
-isListing: true
 properties:
   read-of:
     properties:

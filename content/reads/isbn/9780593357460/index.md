@@ -1,7 +1,6 @@
 ---
 title: 'Nightfall and Other Stories by Isaac Asimov (ISBN: 9780593357460)'
 createdWith: https://hacdias.com/
-isListing: true
 properties:
   read-of:
     properties:

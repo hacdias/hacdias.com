@@ -1,6 +1,5 @@
 ---
 title: 'Before the coffee gets cold by Toshikazu Kawaguchi (ISBN: 9781529029581)'
-isListing: true
 properties:
   read-of:
     properties:

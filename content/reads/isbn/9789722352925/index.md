@@ -1,6 +1,5 @@
 ---
 title: 'Cidades de Papel by John Green (ISBN: 9789722352925)'
-isListing: true
 properties:
   read-of:
     properties:

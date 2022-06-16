@@ -1,6 +1,5 @@
 ---
 title: 'O Mistério da Gata Desaparecida by Enid Blyton (ISBN: 9789895554607)'
-isListing: true
 properties:
   read-of:
     properties:

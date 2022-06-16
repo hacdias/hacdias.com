@@ -1,6 +1,5 @@
 ---
 title: 'Uma Aventura no Labirinto Misterioso by Ana Maria Magalhães (ISBN: 9789722118606)'
-isListing: true
 properties:
   read-of:
     properties:

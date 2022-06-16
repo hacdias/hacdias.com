@@ -1,6 +1,5 @@
 ---
 title: 'O Mistério do Olho de Esmeralda by Geronimo Stilton (ISBN: 9789722335157)'
-isListing: true
 properties:
   read-of:
     properties:

@@ -1,7 +1,6 @@
 ---
 title: 'Earthlings by Sayaka Murata (ISBN: 9781783785698)'
 createdWith: https://hacdias.com/
-isListing: true
 properties:
   read-of:
     properties:

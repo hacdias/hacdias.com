@@ -1,6 +1,5 @@
 ---
 title: 'Prometidos by Caragh M. O''Brien (ISBN: 9789895018994)'
-isListing: true
 properties:
   read-of:
     properties:

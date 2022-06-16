@@ -1,6 +1,5 @@
 ---
 title: 'Percy Jackson e a Batalha do Labirinto by Rick Riordan (ISBN: 9789724620855)'
-isListing: true
 properties:
   read-of:
     properties:

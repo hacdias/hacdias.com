@@ -1,6 +1,5 @@
 ---
 title: 'Permanent Record by Edward Snowden (ISBN: 9781250237231)'
-isListing: true
 properties:
   read-of:
     properties:

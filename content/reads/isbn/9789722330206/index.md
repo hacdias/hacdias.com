@@ -1,6 +1,5 @@
 ---
 title: 'O Leão, a Feiticeira e o Guarda-Roupa by C.S. Lewis (ISBN: 9789722330206)'
-isListing: true
 properties:
   read-of:
     properties:

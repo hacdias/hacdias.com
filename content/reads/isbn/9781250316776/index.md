@@ -1,6 +1,5 @@
 ---
 title: 'Red, White & Royal Blue by Casey McQuiston (ISBN: 9781250316776)'
-isListing: true
 properties:
   read-of:
     properties:

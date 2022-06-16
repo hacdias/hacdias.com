@@ -1,6 +1,5 @@
 ---
 title: 'The Practice of Programming by Brian W. Kernighan (ISBN: 9780201615869)'
-isListing: true
 properties:
   read-of:
     properties:

@@ -1,6 +1,5 @@
 ---
 title: 'A sombra do caçador by Álvaro Magalhães (ISBN: 9789892310800)'
-isListing: true
 properties:
   read-of:
     properties:

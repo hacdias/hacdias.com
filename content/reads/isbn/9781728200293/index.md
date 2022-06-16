@@ -1,6 +1,5 @@
 ---
 title: 'Conventionally Yours by Annabeth Albert (ISBN: 9781728200293)'
-isListing: true
 properties:
   read-of:
     properties:
