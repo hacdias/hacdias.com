@@ -289,12 +289,12 @@ table th {
 table th,
 table td {
   padding: 6px 13px;
-  border: 1px solid var(--light-white);;
+  border: 1px solid var(--light-white);
 }
 
 table tr {
   background-color: var(--white);
-  border-top: 1px solid var(--light-white);;
+  border-top: 1px solid var(--light-white);
 }
 
 table tr:nth-child(2n) {
