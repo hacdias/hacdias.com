@@ -1,24 +1,916 @@
 {
   "to-read": [
     {
+      "id": "/reads/isbn/9781408809594",
+      "date": "2021-11-07T13:00:00+01:00",
+      "name": "Alex's Adventures in Numberland",
+      "author": "Alex Bellos"
+    },
+    {
+      "id": "/reads/isbn/9781472273901",
+      "date": "2022-04-08T09:38:00.917329+02:00",
+      "name": "Ariadne",
+      "author": "Jennifer Saint"
+    },
+    {
+      "id": "/reads/isbn/9789045124698",
+      "date": "2022-04-08T09:34:07.545532+02:00",
+      "name": "Minoes",
+      "author": "Annie M.G. Schmidt"
+    },
+    {
       "id": "/2021/06/12/o-livro-do-desassosego",
       "date": "2021-06-12T23:54:00+02:00",
       "name": "O Livro do Desassosego",
       "author": "Fernando Pessoa"
+    },
+    {
+      "id": "/reads/isbn/9781786071958",
+      "date": "2022-06-04T13:38:53.499912+02:00",
+      "name": "Sweet Bean Paste",
+      "author": "Durian Sukegawa"
+    },
+    {
+      "id": "/reads/isbn/9780099549482",
+      "date": "2021-07-31T15:10:00+02:00",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee"
     }
   ],
-  "reading": [],
+  "reading": [
+    {
+      "id": "/reads/isbn/9781529302868",
+      "date": "2022-04-09T22:28:48.585973+02:00",
+      "name": "Short Stories in Dutch for Beginners",
+      "author": "Olly Richards"
+    },
+    {
+      "id": "/reads/isbn/9780241988725",
+      "date": "2022-06-15T23:05:02.34224+02:00",
+      "name": "The Island of Missing Trees",
+      "author": "Elif Shafak"
+    }
+  ],
   "finished": {
     "Years": [
+      2022,
+      2021,
+      2020,
+      2018,
+      2017,
+      2016,
+      2015,
       1
     ],
     "Map": {
       "1": [
         {
+          "id": "/reads/isbn/9789726611950",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Fada Oriana",
+          "author": "Sophia de Mello Breyner Andresen"
+        },
+        {
+          "id": "/reads/isbn/9789892321011",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Feiticeira de Paris",
+          "author": "Álvaro Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789724746203",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Nova Inteligência",
+          "author": "Daniel H. Pink"
+        },
+        {
+          "id": "/reads/isbn/9789722349567",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Porta das Três Fechaduras",
+          "author": "Sonia Fernández-Vidal"
+        },
+        {
+          "id": "/reads/isbn/9789896373986",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Senhora da Magia",
+          "author": "Marion Zimmer Bradley"
+        },
+        {
+          "id": "/reads/isbn/9789897070433",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Verdade Nua e Crua",
+          "author": "Jeff Kinney"
+        },
+        {
+          "id": "/reads/isbn/9789722331326",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Viagem do Caminheiro da Alvorada",
+          "author": "C.S. Lewis"
+        },
+        {
+          "id": "/reads/isbn/9789897221101",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Vida no Céu",
+          "author": "José Eduardo Agualusa"
+        },
+        {
+          "id": "/reads/isbn/9789892310817",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A maldição da estrela morta",
+          "author": "Álvaro Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789892310800",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A sombra do caçador",
+          "author": "Álvaro Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722332200",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Última Batalha",
+          "author": "C.S. Lewis"
+        },
+        {
+          "id": "/reads/isbn/9789896680589",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A Última Gota",
+          "author": "Jeff Kinney"
+        },
+        {
+          "id": "/reads/isbn/9789892317465",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "A última noite do mundo",
+          "author": "Álvaro Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789895018987",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Apreciada",
+          "author": "Caragh M. O'Brien"
+        },
+        {
+          "id": "/reads/isbn/9789897071140",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Bananus Maximus",
+          "author": "Tim Collins"
+        },
+        {
+          "id": "/reads/isbn/9789726620105",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Breve História do Tempo",
+          "author": "Stephen Hawking"
+        },
+        {
+          "id": "/reads/isbn/9789896530075",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Capitães da Areia",
+          "author": "Jorge Amado"
+        },
+        {
+          "id": "/reads/isbn/9789722352925",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Cidades de Papel",
+          "author": "John Green"
+        },
+        {
+          "id": "/reads/isbn/9789897110047",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Contos",
+          "author": "Eça de Queirós"
+        },
+        {
+          "id": "/reads/isbn/9789720043832",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Convergente",
+          "author": "Veronica Roth"
+        },
+        {
+          "id": "/reads/isbn/9789720043818",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Divergente",
+          "author": "Veronica Roth"
+        },
+        {
+          "id": "/reads/isbn/9789898260840",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Diário de Um Vampiro Banana",
+          "author": "Tim Collins"
+        },
+        {
+          "id": "/reads/isbn/9789726277446",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Felizmente Há Luar!",
+          "author": "Luís de Sttau Monteiro"
+        },
+        {
+          "id": "/reads/isbn/9780091906818",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "How to Win Friends and Influence People",
+          "author": "Dale Carnegie"
+        },
+        {
+          "id": "/reads/isbn/9789720043825",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Insurgente",
+          "author": "Veronica Roth"
+        },
+        {
+          "id": "/reads/isbn/9789895015870",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Marcados à Nascença",
+          "author": "Caragh M. O'Brien"
+        },
+        {
+          "id": "/reads/isbn/9789722339360",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Naufrágio na Ilha dos Piratas",
+          "author": "Geronimo Stilton"
+        },
+        {
+          "id": "/reads/isbn/9789898871077",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Caderno das Piadas Secas",
+          "author": "Gonçalo Castro"
+        },
+        {
+          "id": "/reads/isbn/9789722330558",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Cavalo e o seu Rapaz",
+          "author": "C.S. Lewis"
+        },
+        {
+          "id": "/reads/isbn/9789897070730",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Diário de Um Lobisomem Banana",
+          "author": "Tim Collins"
+        },
+        {
+          "id": "/reads/isbn/9789897071188",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Emplastro",
+          "author": "Jeff Kinney"
+        },
+        {
+          "id": "/reads/isbn/9789897180071",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Essencial e Definitivo Harry Potter e a Filosofia",
+          "author": "Gregory Bassham"
+        },
+        {
+          "id": "/reads/isbn/9789896574918",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Herói Desaparecido",
+          "author": "Rick Riordan"
+        },
+        {
+          "id": "/reads/isbn/9789722334723",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Manuscrito Misterioso",
+          "author": "Geronimo Stilton"
+        },
+        {
+          "id": "/reads/isbn/9789895555673",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério da Casa Invisível",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789895554591",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério da Casa Queimada",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789895554607",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério da Gata Desaparecida",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789895554836",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério das Cartas Anónimas",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789895557738",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério do Gato Cómico",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789895559541",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério do Ladrão Invisível",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789722335157",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério do Olho de Esmeralda",
+          "author": "Geronimo Stilton"
+        },
+        {
+          "id": "/reads/isbn/9789895560202",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério do Príncipe Desaparecido",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789895554829",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério do Quarto Secreto",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789897410543",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério do Saco da Roupa",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789895555222",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Mistério do colar desaparecido Volume 5",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789724129709",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Prenúncio das Águas",
+          "author": "Rosa Lobato de Faria"
+        },
+        {
+          "id": "/reads/isbn/9789722330978",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Príncipe Caspian",
+          "author": "C.S. Lewis"
+        },
+        {
+          "id": "/reads/isbn/9789726612032",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Rapaz de Bronze",
+          "author": "Sophia de Mello Breyner Andresen"
+        },
+        {
+          "id": "/reads/isbn/9789722329989",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Sobrinho do Mágico",
+          "author": "C.S. Lewis"
+        },
+        {
+          "id": "/reads/isbn/9789892326337",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Teorema Katherine",
+          "author": "John Green"
+        },
+        {
+          "id": "/reads/isbn/9789722331685",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "O Trono de Prata",
+          "author": "C.S. Lewis"
+        },
+        {
+          "id": "/reads/isbn/9789892314969",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Operação \"espelho meu\"",
+          "author": "Álvaro Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789895558360",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Os Cinco e os Contrabandistas",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789895557745",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Os Cinco na Ilha do Tesouro",
+          "author": "Enid Blyton"
+        },
+        {
+          "id": "/reads/isbn/9789722342391",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Os Jogos da Fome",
+          "author": "Suzanne Collins"
+        },
+        {
+          "id": "/reads/isbn/9789722120951",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Os Livros Que Devoraram o Meu Pai",
+          "author": "Afonso Cruz"
+        },
+        {
+          "id": "/reads/isbn/9789898470249",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Os Lusíadas Contados às Crianças e Lembrados ao Povo",
+          "author": "João de Barros"
+        },
+        {
+          "id": "/reads/isbn/978972004575",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Os Maias",
+          "author": "Eça de Queirós"
+        },
+        {
+          "id": "/reads/isbn/9789896721978",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Para Onde Vão Os Guarda-Chuvas",
+          "author": "Afonso Cruz"
+        },
+        {
+          "id": "/reads/isbn/9789724620855",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Percy Jackson e a Batalha do Labirinto",
+          "author": "Rick Riordan"
+        },
+        {
+          "id": "/reads/isbn/9789724620251",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Percy Jackson e a Maldição do Titã",
+          "author": "Rick Riordan"
+        },
+        {
+          "id": "/reads/isbn/9789724622514",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Percy Jackson e o mar dos Monstros",
+          "author": "Rick Riordan"
+        },
+        {
+          "id": "/reads/isbn/9789724622415",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Percy Jackson e o Último Olimpiano",
+          "author": "Rick Riordan"
+        },
+        {
+          "id": "/reads/isbn/9789895018994",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Prometidos",
+          "author": "Caragh M. O'Brien"
+        },
+        {
+          "id": "/reads/isbn/9789897070211",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Príncipe da Tansilvânia",
+          "author": "Tim Collins"
+        },
+        {
+          "id": "/reads/isbn/9789722336390",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Pânico nos Himalaias",
+          "author": "Geronimo Stilton"
+        },
+        {
+          "id": "/reads/isbn/9789722344968",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Quatro Ratos no Faroeste!",
+          "author": "Geronimo Stilton"
+        },
+        {
+          "id": "/reads/isbn/9789720047250",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Quatro – Histórias da Série Divergente",
+          "author": "Veronica Roth"
+        },
+        {
+          "id": "/reads/isbn/9789898508386",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Sermão de Santo António aos Peixes",
+          "author": "António Vieira"
+        },
+        {
+          "id": "/reads/isbn/9780385732550",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "The Giver",
+          "author": "Lois Lowry"
+        },
+        {
+          "id": "/reads/isbn/9789897071102",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Tirem-me Daqui!",
+          "author": "Jeff Kinney"
+        },
+        {
+          "id": "/reads/isbn/9789896680596",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Um Dia de Cão",
+          "author": "Jeff Kinney"
+        },
+        {
+          "id": "/reads/isbn/9789722114677",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura Secreta",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722100212",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura em Lisboa",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722100052",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura entre Douro e Minho",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722120388",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura na Amazónia",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722111225",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura na Casa Assombrada",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722108997",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura na Praia",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722108379",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura na Serra da Estrela",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722100014",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura nas Férias do Natal",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722100045",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura no Bosque",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722117906",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura no Comboio",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722100205",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura no Deserto",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722118606",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura no Labirinto Misterioso",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722121026",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura no Pulo do Lobo",
+          "author": "Ana Maria Magalhães"
+        },
+        {
+          "id": "/reads/isbn/9789722107747",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Uma Aventura no Verão",
+          "author": "Ana Maria Magalhães"
+        },
+        {
           "id": "/2020/12/31/understanding-distributed-systems",
           "date": "0001-01-01T01:00:00+01:00",
           "name": "Understanding Distributed Systems",
           "author": "Roberto Vitillo"
+        },
+        {
+          "id": "/reads/isbn/9789892313214",
+          "date": "0001-01-01T01:00:00+01:00",
+          "name": "Vem aí o cometa negro!",
+          "author": "Álvaro Magalhães"
+        }
+      ],
+      "2015": [
+        {
+          "id": "/reads/isbn/9789722330206",
+          "date": "2015-02-28T09:00:00+01:00",
+          "name": "O Leão, a Feiticeira e o Guarda-Roupa",
+          "author": "C.S. Lewis"
+        },
+        {
+          "id": "/reads/isbn/9789896680060",
+          "date": "2015-02-28T09:00:00+01:00",
+          "name": "O Rodrick é Terrível",
+          "author": "Jeff Kinney"
+        }
+      ],
+      "2016": [
+        {
+          "id": "/reads/isbn/9780571322763",
+          "date": "2016-09-23T09:00:00+02:00",
+          "name": "Look Back in Anger",
+          "author": "John Osborne"
+        },
+        {
+          "id": "/reads/isbn/9780141393049",
+          "date": "2016-10-14T09:00:00+02:00",
+          "name": "Nineteen Eighty-Four",
+          "author": "George Orwell"
+        }
+      ],
+      "2017": [
+        {
+          "id": "/reads/isbn/9780141036137",
+          "date": "2017-12-23T09:00:00+01:00",
+          "name": "Animal Farm",
+          "author": "George Orwell"
+        },
+        {
+          "id": "/reads/isbn/9781784870140",
+          "date": "2017-12-30T09:00:00+01:00",
+          "name": "Brave New World",
+          "author": "Aldous Huxley"
+        },
+        {
+          "id": "/reads/isbn/9780007181704",
+          "date": "2017-12-08T09:00:00+01:00",
+          "name": "Fahrenheit 451",
+          "author": "Ray Bradbury"
+        },
+        {
+          "id": "/reads/isbn/9781408708989",
+          "date": "2017-01-30T09:00:00+01:00",
+          "name": "Fantastic Beasts and Where to Find Them: The Original Screenplay",
+          "author": "J.K. Rowling"
+        },
+        {
+          "id": "/reads/isbn/9781408855669",
+          "date": "2017-01-09T09:00:00+01:00",
+          "name": "Harry Potter and the Chamber of Secrets",
+          "author": "J.K. Rowling"
+        },
+        {
+          "id": "/reads/isbn/9781408855713",
+          "date": "2017-01-29T09:00:00+01:00",
+          "name": "Harry Potter and the Deathly Hallows",
+          "author": "J.K. Rowling"
+        },
+        {
+          "id": "/reads/isbn/9781408855683",
+          "date": "2017-01-20T09:00:00+01:00",
+          "name": "Harry Potter and the Goblet of Fire",
+          "author": "J.K. Rowling"
+        },
+        {
+          "id": "/reads/isbn/9781408855706",
+          "date": "2017-01-26T09:00:00+01:00",
+          "name": "Harry Potter and the Half-Blood Prince",
+          "author": "J.K. Rowling"
+        },
+        {
+          "id": "/reads/isbn/9781408855690",
+          "date": "2017-01-24T09:00:00+01:00",
+          "name": "Harry Potter and the Order of the Phoenix",
+          "author": "J.K. Rowling"
+        },
+        {
+          "id": "/reads/isbn/9781408855652",
+          "date": "2017-01-01T09:00:00+01:00",
+          "name": "Harry Potter and the Philosopher's Stone",
+          "author": "J.K. Rowling"
+        },
+        {
+          "id": "/reads/isbn/9781408855676",
+          "date": "2017-01-14T09:00:00+01:00",
+          "name": "Harry Potter and the Prisoner of Azkaban",
+          "author": "J.K. Rowling"
+        },
+        {
+          "id": "/reads/isbn/9789720046710",
+          "date": "2017-05-09T09:00:00+02:00",
+          "name": "Memorial do Convento",
+          "author": "José Saramago"
+        },
+        {
+          "id": "/reads/isbn/9780753555200",
+          "date": "2017-05-09T09:00:00+02:00",
+          "name": "Zero to One: Notes on Start Ups, or How to Build the Future",
+          "author": "Peter Thiel"
+        }
+      ],
+      "2018": [
+        {
+          "id": "/reads/isbn/9781847394071",
+          "date": "2018-01-01T09:00:00+01:00",
+          "name": "The Perks of Being a Wallflower",
+          "author": "Stephen Chbosky"
+        },
+        {
+          "id": "/reads/isbn/9780201615869",
+          "date": "2018-06-25T09:00:00+02:00",
+          "name": "The Practice of Programming",
+          "author": "Brian W. Kernighan"
+        }
+      ],
+      "2020": [
+        {
+          "id": "/reads/isbn/9780141439761",
+          "date": "2020-01-31T09:00:00+01:00",
+          "name": "Alice's Adventures in Wonderland and Through the Looking-Glass",
+          "author": "Lewis Carroll"
+        },
+        {
+          "id": "/reads/isbn/9781786495259",
+          "date": "2020-06-19T16:11:39+02:00",
+          "name": "Call Me By Your Name",
+          "author": "André Aciman"
+        },
+        {
+          "id": "/reads/isbn/9781617294143",
+          "date": "2020-01-15T09:00:00+01:00",
+          "name": "Electron in Action",
+          "author": "Steve Kinney"
+        },
+        {
+          "id": "/reads/isbn/9781492046530",
+          "date": "2020-08-08T12:11:35+02:00",
+          "name": "Kubernetes: Up and Running",
+          "author": "Brendan Burns"
+        },
+        {
+          "id": "/reads/isbn/9783540291923",
+          "date": "2020-10-07T15:21:26+02:00",
+          "name": "Peer-to-Peer Systems and Applications",
+          "author": "Ralf Steinmetz"
+        },
+        {
+          "id": "/reads/isbn/9781250237231",
+          "date": "2020-01-15T09:00:00+01:00",
+          "name": "Permanent Record",
+          "author": "Edward Snowden"
+        },
+        {
+          "id": "/reads/isbn/9780130464132",
+          "date": "2020-01-15T09:00:00+01:00",
+          "name": "Presenting to Win: The Art of Telling Your Story",
+          "author": "Jerry Weissman"
+        },
+        {
+          "id": "/reads/isbn/9789352135462",
+          "date": "2020-01-15T09:00:00+01:00",
+          "name": "Terraform: Up and Running",
+          "author": "Yevgeniy Brikman"
+        }
+      ],
+      "2021": [
+        {
+          "id": "/reads/isbn/9781728200293",
+          "date": "2021-07-04T16:38:36.830961+02:00",
+          "name": "Conventionally Yours",
+          "author": "Annabeth Albert"
+        },
+        {
+          "id": "/reads/isbn/9789898939531",
+          "date": "2021-07-25T20:15:07.057199+02:00",
+          "name": "Mensagem",
+          "author": "Fernando Pessoa"
+        },
+        {
+          "id": "/reads/isbn/9789895401970",
+          "date": "2021-07-15T20:15:07.057199+02:00",
+          "name": "O Principezinho",
+          "author": "Antoine de Saint-Exupéry"
+        }
+      ],
+      "2022": [
+        {
+          "id": "/reads/isbn/9781529029581",
+          "date": "2022-01-26T21:13:15.710026+01:00",
+          "name": "Before the coffee gets cold",
+          "author": "Toshikazu Kawaguchi"
+        },
+        {
+          "id": "/reads/isbn/9781846276842",
+          "date": "2022-05-04T08:43:33.684533+02:00",
+          "name": "Convenience Store Woman",
+          "author": "Sayaka Murata"
+        },
+        {
+          "id": "/reads/isbn/9781783785698",
+          "date": "2022-05-30T18:42:58.414602+02:00",
+          "name": "Earthlings",
+          "author": "Sayaka Murata"
+        },
+        {
+          "id": "/reads/isbn/9781444952797",
+          "date": "2022-02-13T20:07:31.402412+01:00",
+          "name": "Heartstopper Volume Four",
+          "author": "Alice Oseman"
+        },
+        {
+          "id": "/reads/isbn/9781444951387",
+          "date": "2022-02-13T12:32:14.587978+01:00",
+          "name": "Heartstopper Volume One",
+          "author": "Alice Oseman"
+        },
+        {
+          "id": "/reads/isbn/9781444952773",
+          "date": "2022-02-13T17:06:38.209991+01:00",
+          "name": "Heartstopper Volume Three",
+          "author": "Alice Oseman"
+        },
+        {
+          "id": "/reads/isbn/9781444951400",
+          "date": "2022-02-13T15:42:03.925747+01:00",
+          "name": "Heartstopper Volume Two",
+          "author": "Alice Oseman"
+        },
+        {
+          "id": "/reads/isbn/9780593357460",
+          "date": "2022-03-23T19:05:54.43086+01:00",
+          "name": "Nightfall and Other Stories",
+          "author": "Isaac Asimov"
+        },
+        {
+          "id": "/reads/isbn/9789720048820",
+          "date": "2022-01-17T18:39:36.75894+01:00",
+          "name": "O ano da morte de Ricardo Reis",
+          "author": "José Saramago"
+        },
+        {
+          "id": "/reads/isbn/9781250316776",
+          "date": "2022-01-30T23:06:19.086212+01:00",
+          "name": "Red, White \u0026 Royal Blue",
+          "author": "Casey McQuiston"
+        },
+        {
+          "id": "/reads/isbn/9781847493781",
+          "date": "2022-03-23T19:06:51.132363+01:00",
+          "name": "Strange Case of Dr Jekyll and Mr Hyde and Other Stories",
+          "author": "Robert Louis Stevenson"
+        },
+        {
+          "id": "/reads/isbn/9781529050868",
+          "date": "2022-03-02T22:44:27.016541+01:00",
+          "name": "Tales from the Cafe",
+          "author": "Toshikazu Kawaguchi"
+        },
+        {
+          "id": "/reads/isbn/9780007155668",
+          "date": "2022-04-10T11:12:19.188955+02:00",
+          "name": "The Alchemist",
+          "author": "Paulo Coelho"
+        },
+        {
+          "id": "/reads/isbn/9781529087949",
+          "date": "2022-01-22T23:02:22.969462+01:00",
+          "name": "The House in the Cerulean Sea",
+          "author": "TJ Klune"
+        },
+        {
+          "id": "/reads/isbn/9781786892737",
+          "date": "2022-02-03T22:32:25.03515+01:00",
+          "name": "The Midnight Library",
+          "author": "Matt Haig"
+        },
+        {
+          "id": "/reads/isbn/9781595828118",
+          "date": "2022-02-18T08:02:43.649069+01:00",
+          "name": "The Promise - Part 1",
+          "author": "Bryan Konietzko, Michael Dante DiMartino"
+        },
+        {
+          "id": "/reads/isbn/9781595828750",
+          "date": "2022-02-26T11:41:40.869966+01:00",
+          "name": "The Promise - Part 2",
+          "author": "Bryan Konietzko, Michael Dante DiMartino"
+        },
+        {
+          "id": "/reads/isbn/9781595829412",
+          "date": "2022-02-26T12:35:03.823679+01:00",
+          "name": "The Promise - Part 3",
+          "author": "Bryan Konietzko, Michael Dante DiMartino"
+        },
+        {
+          "id": "/reads/isbn/9781529405231",
+          "date": "2022-02-08T19:26:31.634184+01:00",
+          "name": "This Is How You Lose the Time War",
+          "author": "Amal El-Mohtar, Max Gladstone"
+        },
+        {
+          "id": "/reads/isbn/9781529087987",
+          "date": "2022-02-17T19:15:27.009814+01:00",
+          "name": "Under the Whispering Door",
+          "author": "TJ Klune"
+        },
+        {
+          "id": "/reads/isbn/9789045127330",
+          "date": "2022-03-30T20:32:49.387267+02:00",
+          "name": "Verschrikkelijke beestjes",
+          "author": "Elise Gravel"
         }
       ]
     }
