@@ -3,5 +3,26 @@
     "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo"
   ],
   "context": null,
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/2aa312f6a3b877b94d838368201e6cf9d0ee24dbc72a4d8f7b15e4c442885df1.png",
+        "type": "card",
+        "url": "https://jlelse.blog"
+      },
+      "content": "I really admire your CSS skills. Every version looks very good! 👍",
+      "in-reply-to": "https://hacdias.com/2022/06/18/my-website-after-indieweb",
+      "post-type": "reply",
+      "published": "2022-06-19T07:59:00+02:00",
+      "type": "entry",
+      "url": "https://jlelse.blog/micro/2022/06/2022-06-19-dpbdd",
+      "wm-id": 1419422,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-06-19T05:59:08Z",
+      "wm-source": "https://jlelse.blog/micro/2022/06/2022-06-19-dpbdd",
+      "wm-target": "https://hacdias.com/2022/06/18/my-website-after-indieweb"
+    }
+  ]
 }
