@@ -1,0 +1,23 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2022/06/2022-06-20-duavy"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "nickname": "en",
+      "photo": "https://cdn.hacdias.com/wm/25f95225b9799e1123ba032a9fd8fb87161d2b3e124500e2246e4ab12707f04a.png",
+      "type": "card",
+      "url": "https://jlelse.blog"
+    },
+    "category": [
+      "AI"
+    ],
+    "content": "This is what Crayion thinks about me…",
+    "post-type": "note",
+    "published": "2022-06-20T21:36:28+02:00",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2022/06/2022-06-20-duavy"
+  },
+  "webmentions": []
+}
