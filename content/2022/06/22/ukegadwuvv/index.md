@@ -1,0 +1,18 @@
+---
+published: 2022-06-22T18:15:06.392744695+02:00
+section:
+- notes
+- home
+createdWith: https://micropublish.net/
+properties:
+  location:
+    properties:
+      country-name: Netherlands
+      latitude: 51.43239
+      locality: Eindhoven
+      longitude: 5.4861
+      region: North Brabant
+    type: h-adr
+---
+
+It seems like Tailscale just introduced [SSH over Tailscale](https://tailscale.com/blog/tailscale-ssh/) which is quite interesting. Even though I haven't been using Tailscale, I am a fan of the product and have used it briefly in the past. I'm looking forward to play with it a bit more. Do you use it? What for?
