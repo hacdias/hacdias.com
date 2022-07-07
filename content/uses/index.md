@@ -1,7 +1,7 @@
 ---
 title: Uses
 published: 2020-01-21T15:39:00Z
-updated: 2022-06-05T14:17:55.330153926+02:00
+updated: 2022-07-07T11:35:00.706468012+02:00
 noShowInteractions: true
 ---
 
@@ -32,7 +32,7 @@ This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) 
 On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [CaptureOne](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
 - **Camera**: Fujifilm X-T4
-- **Lenses**: XF 18-55mm f/2.8-4.0 OIS, XF 35mm F/2.0 and XF 27mm F/2.8
+- **Lenses**: XF 18-55mm f/2.8-4.0 OIS and XF 27mm F/2.8
 - **Tripod**: Manfrotto Befree
 
 ## Software
