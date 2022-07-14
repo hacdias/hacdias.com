@@ -342,6 +342,12 @@
     "category": "following"
   },
   {
+    "title": "Terence Eden",
+    "site": "https://shkspr.mobi/blog",
+    "feed": "https://shkspr.mobi/blog/feed/",
+    "category": "following"
+  },
+  {
     "title": "The Morning Paper",
     "site": "https://blog.acolyer.org",
     "feed": "https://blog.acolyer.org/feed/",
