@@ -3,7 +3,7 @@ title: Impossible List
 description: This is my impossible list, where I define and check some major life
   experiences I want to experience.
 published: 2020-07-15T00:00:00Z
-updated: 2022-04-02T18:16:32.024070867+02:00
+updated: 2022-07-16T11:02:15.239345526+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -56,7 +56,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 5. [ ] Visit 🇲🇴 Macau
 6. [ ] Interrail across 🇪🇺 Europe
 7. [ ] See the Aurora Borealis
-8. [ ] Be in a train between mainland 🇪🇺 Europe and the 🇬🇧 UK
+8. [x] ~~Be in a train between mainland 🇪🇺 Europe and the 🇬🇧 UK~~ <small>[[April 2022]](/2022/04/21/qdcpiiabml)</small>
 
 **Countries Bucket List**
 
