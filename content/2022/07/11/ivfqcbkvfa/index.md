@@ -17,4 +17,4 @@ properties:
   - https://twitter.com/hacdias/status/1546493213602619394
 ---
 
-Whoever invited LaTeX tables was an evil mastermind.
+Whoever invented LaTeX tables was an evil mastermind.
