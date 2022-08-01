@@ -1,0 +1,1552 @@
+{
+  "start": "2022-07-01T00:00:00Z",
+  "end": "2022-07-31T23:59:59Z",
+  "totalDuration": 399176,
+  "listeningClock": [
+    13,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    11,
+    89,
+    196,
+    210,
+    276,
+    216,
+    210,
+    223,
+    189,
+    145,
+    132,
+    110,
+    95,
+    108,
+    62,
+    25,
+    41
+  ],
+  "scrobbles": 2351,
+  "tracksPerDay": 75,
+  "durationPerDay": 12876,
+  "scrobblesPerWeekday": [
+    367,
+    342,
+    179,
+    501,
+    326,
+    301,
+    335
+  ],
+  "uniqueArtists": 351,
+  "uniqueTracks": 677,
+  "uniqueAlbums": 474,
+  "artists": [
+    {
+      "name": "Lorde",
+      "duration": 30065,
+      "scrobbles": 152
+    },
+    {
+      "name": "Marina",
+      "duration": 24875,
+      "scrobbles": 125
+    },
+    {
+      "name": "Gerardo Millán",
+      "duration": 15409,
+      "scrobbles": 94
+    },
+    {
+      "name": "Lady Gaga",
+      "duration": 14844,
+      "scrobbles": 77
+    },
+    {
+      "name": "Laffey",
+      "duration": 11808,
+      "scrobbles": 76
+    },
+    {
+      "name": "Colours In The Dark",
+      "duration": 9300,
+      "scrobbles": 62
+    },
+    {
+      "name": "Jisatsu",
+      "duration": 7986,
+      "scrobbles": 57
+    },
+    {
+      "name": "fnonose",
+      "duration": 7256,
+      "scrobbles": 52
+    },
+    {
+      "name": "Socrab",
+      "duration": 7288,
+      "scrobbles": 48
+    },
+    {
+      "name": "kainbeats",
+      "duration": 7378,
+      "scrobbles": 46
+    },
+    {
+      "name": "Charli XCX",
+      "duration": 7511,
+      "scrobbles": 44
+    },
+    {
+      "name": "Reysi",
+      "duration": 6450,
+      "scrobbles": 43
+    },
+    {
+      "name": "Robin Schulz",
+      "duration": 7095,
+      "scrobbles": 43
+    },
+    {
+      "name": "Aurora",
+      "duration": 7669,
+      "scrobbles": 42
+    },
+    {
+      "name": "Becky Hill",
+      "duration": 7220,
+      "scrobbles": 38
+    },
+    {
+      "name": "Rina Sawayama",
+      "duration": 8305,
+      "scrobbles": 37
+    },
+    {
+      "name": "Zara Larsson",
+      "duration": 6532,
+      "scrobbles": 37
+    },
+    {
+      "name": "Kim Petras",
+      "duration": 5067,
+      "scrobbles": 34
+    },
+    {
+      "name": "Dimension 32",
+      "duration": 4928,
+      "scrobbles": 32
+    },
+    {
+      "name": "Lenny Loops",
+      "duration": 4565,
+      "scrobbles": 31
+    },
+    {
+      "name": "Ariana Grande",
+      "duration": 4050,
+      "scrobbles": 27
+    },
+    {
+      "name": "Corey J. Beats",
+      "duration": 3969,
+      "scrobbles": 25
+    },
+    {
+      "name": "Alexandre Desplat",
+      "duration": 3600,
+      "scrobbles": 24
+    },
+    {
+      "name": "Ethel Cain",
+      "duration": 4488,
+      "scrobbles": 22
+    },
+    {
+      "name": "No Spirit",
+      "duration": 3382,
+      "scrobbles": 20
+    },
+    {
+      "name": "Allie X",
+      "duration": 3448,
+      "scrobbles": 16
+    },
+    {
+      "name": "BANKS",
+      "duration": 2400,
+      "scrobbles": 16
+    },
+    {
+      "name": "MØ",
+      "duration": 2812,
+      "scrobbles": 16
+    },
+    {
+      "name": "Antonius B",
+      "duration": 1649,
+      "scrobbles": 15
+    },
+    {
+      "name": "bCalm",
+      "duration": 1757,
+      "scrobbles": 14
+    },
+    {
+      "name": "Years \u0026 Years",
+      "duration": 2200,
+      "scrobbles": 14
+    },
+    {
+      "name": "Tibeauthetraveler",
+      "duration": 2241,
+      "scrobbles": 14
+    },
+    {
+      "name": "Florence + the Machine",
+      "duration": 2531,
+      "scrobbles": 13
+    },
+    {
+      "name": "Laurel",
+      "duration": 3152,
+      "scrobbles": 13
+    },
+    {
+      "name": "Pelikast",
+      "duration": 1460,
+      "scrobbles": 13
+    },
+    {
+      "name": "Sky Ferreira",
+      "duration": 2736,
+      "scrobbles": 12
+    },
+    {
+      "name": "After Noon",
+      "duration": 1806,
+      "scrobbles": 12
+    },
+    {
+      "name": "The xx",
+      "duration": 2256,
+      "scrobbles": 12
+    },
+    {
+      "name": "Gabriel Cavalcanti",
+      "duration": 1407,
+      "scrobbles": 12
+    },
+    {
+      "name": "Atlis",
+      "duration": 1592,
+      "scrobbles": 12
+    },
+    {
+      "name": "Linearwave",
+      "duration": 1373,
+      "scrobbles": 10
+    },
+    {
+      "name": "Harloe",
+      "duration": 1500,
+      "scrobbles": 10
+    },
+    {
+      "name": "Todrick Hall",
+      "duration": 2158,
+      "scrobbles": 10
+    },
+    {
+      "name": "Peak Twilight",
+      "duration": 1344,
+      "scrobbles": 10
+    },
+    {
+      "name": "RuPaul",
+      "duration": 1841,
+      "scrobbles": 10
+    },
+    {
+      "name": "Purrple Cat",
+      "duration": 1750,
+      "scrobbles": 9
+    },
+    {
+      "name": "LoFiPøwder",
+      "duration": 1438,
+      "scrobbles": 9
+    },
+    {
+      "name": "apollw",
+      "duration": 1341,
+      "scrobbles": 9
+    },
+    {
+      "name": "STEEZY PRIME",
+      "duration": 1098,
+      "scrobbles": 9
+    },
+    {
+      "name": "Troye Sivan",
+      "duration": 1889,
+      "scrobbles": 9
+    },
+    {
+      "name": "Galantis",
+      "duration": 1350,
+      "scrobbles": 9
+    },
+    {
+      "name": "Poppy",
+      "duration": 1672,
+      "scrobbles": 8
+    },
+    {
+      "name": "luvwn",
+      "duration": 1232,
+      "scrobbles": 8
+    },
+    {
+      "name": "Nahla Cline",
+      "duration": 1155,
+      "scrobbles": 8
+    },
+    {
+      "name": "Leon White",
+      "duration": 1543,
+      "scrobbles": 8
+    },
+    {
+      "name": "tr!stan.",
+      "duration": 1304,
+      "scrobbles": 8
+    },
+    {
+      "name": "Pelicano",
+      "duration": 1472,
+      "scrobbles": 8
+    },
+    {
+      "name": "Tove Styrke",
+      "duration": 1224,
+      "scrobbles": 8
+    },
+    {
+      "name": "Aluna",
+      "duration": 1880,
+      "scrobbles": 8
+    },
+    {
+      "name": "Tove Lo",
+      "duration": 1206,
+      "scrobbles": 7
+    },
+    {
+      "name": "V i V",
+      "duration": 926,
+      "scrobbles": 7
+    },
+    {
+      "name": "Faouzia",
+      "duration": 1050,
+      "scrobbles": 7
+    },
+    {
+      "name": "Krynoze",
+      "duration": 990,
+      "scrobbles": 7
+    },
+    {
+      "name": "Kate Bush",
+      "duration": 1050,
+      "scrobbles": 7
+    },
+    {
+      "name": "Neele Harder",
+      "duration": 1092,
+      "scrobbles": 7
+    },
+    {
+      "name": "Vibe Valley",
+      "duration": 981,
+      "scrobbles": 7
+    },
+    {
+      "name": "analogwave",
+      "duration": 756,
+      "scrobbles": 7
+    },
+    {
+      "name": "ZEE MACHINE",
+      "duration": 1146,
+      "scrobbles": 6
+    },
+    {
+      "name": "Elijah Lee",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "Drrreems",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "soitchy",
+      "duration": 1050,
+      "scrobbles": 6
+    },
+    {
+      "name": "Artemio Li Fonti",
+      "duration": 1156,
+      "scrobbles": 6
+    },
+    {
+      "name": "wolf keller",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "créature sonore",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "William Keats",
+      "duration": 780,
+      "scrobbles": 6
+    },
+    {
+      "name": "Bliss Phenomena",
+      "duration": 822,
+      "scrobbles": 6
+    },
+    {
+      "name": "Ashley O",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "Prithvi",
+      "duration": 976,
+      "scrobbles": 6
+    },
+    {
+      "name": "The Weeknd",
+      "duration": 1105,
+      "scrobbles": 6
+    },
+    {
+      "name": "Beatmund Noise",
+      "duration": 636,
+      "scrobbles": 5
+    },
+    {
+      "name": "Casey MQ",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "Pretenders",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "Glimmolo",
+      "duration": 1105,
+      "scrobbles": 5
+    },
+    {
+      "name": "Beau Deval",
+      "duration": 1095,
+      "scrobbles": 5
+    },
+    {
+      "name": "Pontus Josefsson",
+      "duration": 770,
+      "scrobbles": 5
+    },
+    {
+      "name": "Phillipp Vogler",
+      "duration": 745,
+      "scrobbles": 5
+    },
+    {
+      "name": "Iremia",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "Lilly Emeralda",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "Duran Duran",
+      "duration": 1535,
+      "scrobbles": 5
+    },
+    {
+      "name": "Johannes Bornlöf",
+      "duration": 764,
+      "scrobbles": 5
+    },
+    {
+      "name": "HM SURF",
+      "duration": 678,
+      "scrobbles": 5
+    },
+    {
+      "name": "Free Arrows",
+      "duration": 785,
+      "scrobbles": 5
+    },
+    {
+      "name": "Cookie Tapes",
+      "duration": 840,
+      "scrobbles": 5
+    },
+    {
+      "name": "Narelle Dane",
+      "duration": 800,
+      "scrobbles": 5
+    },
+    {
+      "name": "Elio",
+      "duration": 803,
+      "scrobbles": 5
+    },
+    {
+      "name": "Cristoforo Giordano",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "Diamond Telescope",
+      "duration": 760,
+      "scrobbles": 5
+    },
+    {
+      "name": "Brandon Cason",
+      "duration": 785,
+      "scrobbles": 5
+    },
+    {
+      "name": "Daniel Larkins",
+      "duration": 860,
+      "scrobbles": 5
+    },
+    {
+      "name": "hushfall",
+      "duration": 702,
+      "scrobbles": 5
+    }
+  ],
+  "tracks": [
+    {
+      "name": "All This Love (feat. Harlœ)",
+      "duration": 165,
+      "scrobbles": 43
+    },
+    {
+      "name": "Run",
+      "duration": 190,
+      "scrobbles": 38
+    },
+    {
+      "name": "The Devil Is Human",
+      "duration": 150,
+      "scrobbles": 38
+    },
+    {
+      "name": "Poster Girl",
+      "duration": 177,
+      "scrobbles": 36
+    },
+    {
+      "name": "This Hell",
+      "duration": 236,
+      "scrobbles": 33
+    },
+    {
+      "name": "Coconuts",
+      "duration": 150,
+      "scrobbles": 32
+    },
+    {
+      "name": "Pandora's Box",
+      "duration": 212,
+      "scrobbles": 29
+    },
+    {
+      "name": "Into You",
+      "duration": 150,
+      "scrobbles": 26
+    },
+    {
+      "name": "Constant Repeat",
+      "duration": 189,
+      "scrobbles": 25
+    },
+    {
+      "name": "Crush",
+      "duration": 204,
+      "scrobbles": 22
+    },
+    {
+      "name": "Mood Ring",
+      "duration": 225,
+      "scrobbles": 21
+    },
+    {
+      "name": "Electra Heart",
+      "duration": 150,
+      "scrobbles": 21
+    },
+    {
+      "name": "Supercut",
+      "duration": 150,
+      "scrobbles": 20
+    },
+    {
+      "name": "Lies",
+      "duration": 226,
+      "scrobbles": 20
+    },
+    {
+      "name": "Solar Power",
+      "duration": 192,
+      "scrobbles": 18
+    },
+    {
+      "name": "Used to Know Me",
+      "duration": 146,
+      "scrobbles": 17
+    },
+    {
+      "name": "two years have passed (you'll be forever in my heart)",
+      "duration": 150,
+      "scrobbles": 16
+    },
+    {
+      "name": "Long Walks",
+      "duration": 169,
+      "scrobbles": 15
+    },
+    {
+      "name": "Secrets from a Girl (Who's Seen It All)",
+      "duration": 150,
+      "scrobbles": 15
+    },
+    {
+      "name": "Green Light",
+      "duration": 234,
+      "scrobbles": 14
+    },
+    {
+      "name": "one year has passed (look at all we've been through)",
+      "duration": 150,
+      "scrobbles": 14
+    },
+    {
+      "name": "I'll remember you",
+      "duration": 175,
+      "scrobbles": 13
+    },
+    {
+      "name": "Royals",
+      "duration": 190,
+      "scrobbles": 13
+    },
+    {
+      "name": "The Path",
+      "duration": 221,
+      "scrobbles": 13
+    },
+    {
+      "name": "Drifting Off",
+      "duration": 153,
+      "scrobbles": 13
+    },
+    {
+      "name": "Don’t Forget",
+      "duration": 228,
+      "scrobbles": 12
+    },
+    {
+      "name": "finding peace",
+      "duration": 164,
+      "scrobbles": 12
+    },
+    {
+      "name": "nightwatch",
+      "duration": 144,
+      "scrobbles": 12
+    },
+    {
+      "name": "Mantra",
+      "duration": 150,
+      "scrobbles": 12
+    },
+    {
+      "name": "My life is a mess, you still love me",
+      "duration": 177,
+      "scrobbles": 12
+    },
+    {
+      "name": "Monster",
+      "duration": 249,
+      "scrobbles": 11
+    },
+    {
+      "name": "Overcome",
+      "duration": 165,
+      "scrobbles": 11
+    },
+    {
+      "name": "a portal to the clouds",
+      "duration": 166,
+      "scrobbles": 11
+    },
+    {
+      "name": "Pointing Fingers",
+      "duration": 150,
+      "scrobbles": 11
+    },
+    {
+      "name": "Escaping Reality",
+      "duration": 101,
+      "scrobbles": 10
+    },
+    {
+      "name": "Fallen Fruit",
+      "duration": 238,
+      "scrobbles": 10
+    },
+    {
+      "name": "Crush On You - LaTroit \u0026 Pretty Garter Remix",
+      "duration": 150,
+      "scrobbles": 10
+    },
+    {
+      "name": "Liability",
+      "duration": 171,
+      "scrobbles": 10
+    },
+    {
+      "name": "quiet",
+      "duration": 139,
+      "scrobbles": 10
+    },
+    {
+      "name": "Buzzcut Season",
+      "duration": 246,
+      "scrobbles": 10
+    },
+    {
+      "name": "Pink Convertible",
+      "duration": 150,
+      "scrobbles": 10
+    },
+    {
+      "name": "Happy Loner",
+      "duration": 193,
+      "scrobbles": 10
+    },
+    {
+      "name": "Lisergia",
+      "duration": 150,
+      "scrobbles": 9
+    },
+    {
+      "name": "Ride and glide",
+      "duration": 160,
+      "scrobbles": 9
+    },
+    {
+      "name": "No Money",
+      "duration": 150,
+      "scrobbles": 9
+    },
+    {
+      "name": "Endless",
+      "duration": 113,
+      "scrobbles": 9
+    },
+    {
+      "name": "moon aura",
+      "duration": 134,
+      "scrobbles": 9
+    },
+    {
+      "name": "Childhood Memories",
+      "duration": 177,
+      "scrobbles": 9
+    },
+    {
+      "name": "Sweet dreams",
+      "duration": 185,
+      "scrobbles": 9
+    },
+    {
+      "name": "cerulean.",
+      "duration": 122,
+      "scrobbles": 9
+    },
+    {
+      "name": "Shelly beach",
+      "duration": 160,
+      "scrobbles": 9
+    },
+    {
+      "name": "Every Little Thing",
+      "duration": 150,
+      "scrobbles": 8
+    },
+    {
+      "name": "nebula",
+      "duration": 150,
+      "scrobbles": 8
+    },
+    {
+      "name": "Time Is Up",
+      "duration": 209,
+      "scrobbles": 8
+    },
+    {
+      "name": "Dance of the Falling Roses",
+      "duration": 184,
+      "scrobbles": 8
+    },
+    {
+      "name": "Chestnuts",
+      "duration": 163,
+      "scrobbles": 8
+    },
+    {
+      "name": "Promenade",
+      "duration": 167,
+      "scrobbles": 8
+    },
+    {
+      "name": "Show Me Love",
+      "duration": 153,
+      "scrobbles": 8
+    },
+    {
+      "name": "Full Circle",
+      "duration": 150,
+      "scrobbles": 8
+    },
+    {
+      "name": "Microwaves",
+      "duration": 144,
+      "scrobbles": 8
+    },
+    {
+      "name": "Together",
+      "duration": 150,
+      "scrobbles": 8
+    },
+    {
+      "name": "out my window",
+      "duration": 150,
+      "scrobbles": 8
+    },
+    {
+      "name": "Shooting Stars",
+      "duration": 158,
+      "scrobbles": 8
+    },
+    {
+      "name": "Envious",
+      "duration": 235,
+      "scrobbles": 8
+    },
+    {
+      "name": "When The Streetlights Come On",
+      "duration": 163,
+      "scrobbles": 8
+    },
+    {
+      "name": "Sandy way",
+      "duration": 154,
+      "scrobbles": 8
+    },
+    {
+      "name": "stardust",
+      "duration": 150,
+      "scrobbles": 7
+    },
+    {
+      "name": "Fast Asleep",
+      "duration": 145,
+      "scrobbles": 7
+    },
+    {
+      "name": "rest well, my friend",
+      "duration": 173,
+      "scrobbles": 7
+    },
+    {
+      "name": "QUEEN",
+      "duration": 244,
+      "scrobbles": 7
+    },
+    {
+      "name": "Starlight Lullaby",
+      "duration": 150,
+      "scrobbles": 7
+    },
+    {
+      "name": "Choreomania",
+      "duration": 213,
+      "scrobbles": 7
+    },
+    {
+      "name": "Running Up That Hill (A Deal With God)",
+      "duration": 150,
+      "scrobbles": 7
+    },
+    {
+      "name": "Away",
+      "duration": 180,
+      "scrobbles": 7
+    },
+    {
+      "name": "Relief",
+      "duration": 150,
+      "scrobbles": 7
+    },
+    {
+      "name": "Deep Thoughts",
+      "duration": 156,
+      "scrobbles": 7
+    },
+    {
+      "name": "Helen of Troy - Bonus Track",
+      "duration": 171,
+      "scrobbles": 7
+    },
+    {
+      "name": "Shut Eye",
+      "duration": 158,
+      "scrobbles": 7
+    },
+    {
+      "name": "Fall Magic",
+      "duration": 108,
+      "scrobbles": 7
+    },
+    {
+      "name": "Solitude",
+      "duration": 150,
+      "scrobbles": 6
+    },
+    {
+      "name": "lonely canal",
+      "duration": 153,
+      "scrobbles": 6
+    },
+    {
+      "name": "With Time",
+      "duration": 150,
+      "scrobbles": 6
+    },
+    {
+      "name": "Alar",
+      "duration": 175,
+      "scrobbles": 6
+    },
+    {
+      "name": "Traces",
+      "duration": 150,
+      "scrobbles": 6
+    },
+    {
+      "name": "Living My Life in London (Cast Version)",
+      "duration": 183,
+      "scrobbles": 6
+    },
+    {
+      "name": "En Un Sueño Vi a La Luna Bailar Junto a Las Estrellas",
+      "duration": 150,
+      "scrobbles": 6
+    },
+    {
+      "name": "Dreamland",
+      "duration": 120,
+      "scrobbles": 6
+    },
+    {
+      "name": "dreamstate",
+      "duration": 130,
+      "scrobbles": 6
+    },
+    {
+      "name": "Puppet",
+      "duration": 150,
+      "scrobbles": 6
+    },
+    {
+      "name": "The Quiet Hours",
+      "duration": 130,
+      "scrobbles": 6
+    },
+    {
+      "name": "My Love",
+      "duration": 178,
+      "scrobbles": 6
+    },
+    {
+      "name": "Stealing Candy",
+      "duration": 191,
+      "scrobbles": 6
+    },
+    {
+      "name": "Insomnia Dream",
+      "duration": 150,
+      "scrobbles": 6
+    },
+    {
+      "name": "Right Where I Belong",
+      "duration": 150,
+      "scrobbles": 6
+    },
+    {
+      "name": "Goodbye",
+      "duration": 282,
+      "scrobbles": 6
+    },
+    {
+      "name": "Hold My Hand",
+      "duration": 225,
+      "scrobbles": 6
+    },
+    {
+      "name": "Take Care",
+      "duration": 115,
+      "scrobbles": 6
+    },
+    {
+      "name": "Forest Clearing",
+      "duration": 146,
+      "scrobbles": 6
+    },
+    {
+      "name": "safe heaven",
+      "duration": 150,
+      "scrobbles": 6
+    },
+    {
+      "name": "Nights with You",
+      "duration": 150,
+      "scrobbles": 6
+    }
+  ],
+  "albums": [
+    {
+      "name": "Solar Power",
+      "duration": 15684,
+      "scrobbles": 77
+    },
+    {
+      "name": "The Moon and the Mind",
+      "duration": 11508,
+      "scrobbles": 74
+    },
+    {
+      "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
+      "duration": 13196,
+      "scrobbles": 66
+    },
+    {
+      "name": "Still dreaming",
+      "duration": 10757,
+      "scrobbles": 63
+    },
+    {
+      "name": "Rainy City",
+      "duration": 7268,
+      "scrobbles": 52
+    },
+    {
+      "name": "Large",
+      "duration": 7288,
+      "scrobbles": 48
+    },
+    {
+      "name": "Melodrama",
+      "duration": 7986,
+      "scrobbles": 44
+    },
+    {
+      "name": "Soul Searching",
+      "duration": 6050,
+      "scrobbles": 43
+    },
+    {
+      "name": "CRASH",
+      "duration": 7343,
+      "scrobbles": 43
+    },
+    {
+      "name": "IIII",
+      "duration": 7095,
+      "scrobbles": 43
+    },
+    {
+      "name": "Hiding",
+      "duration": 6450,
+      "scrobbles": 43
+    },
+    {
+      "name": "Electra Heart (Platinum Blonde Edition)",
+      "duration": 7670,
+      "scrobbles": 41
+    },
+    {
+      "name": "Chromatica",
+      "duration": 6422,
+      "scrobbles": 41
+    },
+    {
+      "name": "The Devil Is Human",
+      "duration": 6810,
+      "scrobbles": 38
+    },
+    {
+      "name": "Only Honest On The Weekend (Deluxe)",
+      "duration": 7220,
+      "scrobbles": 38
+    },
+    {
+      "name": "Poster Girl",
+      "duration": 6532,
+      "scrobbles": 37
+    },
+    {
+      "name": "born in the sky",
+      "duration": 5770,
+      "scrobbles": 35
+    },
+    {
+      "name": "Catch Me In The AIr",
+      "duration": 7530,
+      "scrobbles": 33
+    },
+    {
+      "name": "Coconuts",
+      "duration": 4800,
+      "scrobbles": 32
+    },
+    {
+      "name": "Dangerous Woman",
+      "duration": 4050,
+      "scrobbles": 27
+    },
+    {
+      "name": "Silent Emotions Pt.2",
+      "duration": 4012,
+      "scrobbles": 26
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows, Pt. 1 (Original Motion Picture Soundtrack)",
+      "duration": 3600,
+      "scrobbles": 24
+    },
+    {
+      "name": "Ócio",
+      "duration": 3450,
+      "scrobbles": 23
+    },
+    {
+      "name": "Pure Heroine",
+      "duration": 4930,
+      "scrobbles": 23
+    },
+    {
+      "name": "Inbred",
+      "duration": 4488,
+      "scrobbles": 22
+    },
+    {
+      "name": "Late Nights",
+      "duration": 3382,
+      "scrobbles": 20
+    },
+    {
+      "name": "Childhood Memories",
+      "duration": 3061,
+      "scrobbles": 19
+    },
+    {
+      "name": "Horizons",
+      "duration": 2480,
+      "scrobbles": 18
+    },
+    {
+      "name": "two years have passed (you'll be forever in my heart)",
+      "duration": 2400,
+      "scrobbles": 16
+    },
+    {
+      "name": "Somnolence",
+      "duration": 2400,
+      "scrobbles": 16
+    },
+    {
+      "name": "Campfire Tales",
+      "duration": 2300,
+      "scrobbles": 15
+    },
+    {
+      "name": "Sky",
+      "duration": 1649,
+      "scrobbles": 15
+    },
+    {
+      "name": "one year has passed (look at all we've been through)",
+      "duration": 2100,
+      "scrobbles": 14
+    },
+    {
+      "name": "Night Call (Deluxe)",
+      "duration": 2200,
+      "scrobbles": 14
+    },
+    {
+      "name": "The Fame Monster (Deluxe Edition)",
+      "duration": 3548,
+      "scrobbles": 14
+    },
+    {
+      "name": "Ancient Dreams in a Modern Land",
+      "duration": 3326,
+      "scrobbles": 14
+    },
+    {
+      "name": "Tranquil",
+      "duration": 2091,
+      "scrobbles": 13
+    },
+    {
+      "name": "Still Dreaming",
+      "duration": 2085,
+      "scrobbles": 13
+    },
+    {
+      "name": "xx",
+      "duration": 2256,
+      "scrobbles": 12
+    },
+    {
+      "name": "Don't Forget",
+      "duration": 2736,
+      "scrobbles": 12
+    },
+    {
+      "name": "Dreamscape",
+      "duration": 1592,
+      "scrobbles": 12
+    },
+    {
+      "name": "Dance Fever (Deluxe)",
+      "duration": 2353,
+      "scrobbles": 12
+    },
+    {
+      "name": "Crush On You (LaTroit \u0026 Pretty Garter Remix)",
+      "duration": 1500,
+      "scrobbles": 10
+    },
+    {
+      "name": "FEMULINE",
+      "duration": 2158,
+      "scrobbles": 10
+    },
+    {
+      "name": "Cozy Dreams",
+      "duration": 1010,
+      "scrobbles": 10
+    },
+    {
+      "name": "Cozy Dreams",
+      "duration": 1500,
+      "scrobbles": 10
+    },
+    {
+      "name": "sleepwalking",
+      "duration": 1458,
+      "scrobbles": 10
+    },
+    {
+      "name": "Waterdreams",
+      "duration": 1438,
+      "scrobbles": 9
+    },
+    {
+      "name": "moon aura",
+      "duration": 1206,
+      "scrobbles": 9
+    },
+    {
+      "name": "The Aviary",
+      "duration": 1350,
+      "scrobbles": 9
+    },
+    {
+      "name": "Broken Heartbeats",
+      "duration": 1098,
+      "scrobbles": 9
+    },
+    {
+      "name": "Bedtime Beats",
+      "duration": 1304,
+      "scrobbles": 8
+    },
+    {
+      "name": "Am I a Girl?",
+      "duration": 1672,
+      "scrobbles": 8
+    },
+    {
+      "name": "Show Me Love",
+      "duration": 1224,
+      "scrobbles": 8
+    },
+    {
+      "name": "Motordrome",
+      "duration": 1612,
+      "scrobbles": 8
+    },
+    {
+      "name": "Moonlight Hour",
+      "duration": 1232,
+      "scrobbles": 8
+    },
+    {
+      "name": "Renaissance",
+      "duration": 1880,
+      "scrobbles": 8
+    },
+    {
+      "name": "Solar Power (Deluxe Edition)",
+      "duration": 1465,
+      "scrobbles": 8
+    },
+    {
+      "name": "Restful Retreat",
+      "duration": 916,
+      "scrobbles": 8
+    },
+    {
+      "name": "Dance of the Falling Roses",
+      "duration": 1472,
+      "scrobbles": 8
+    },
+    {
+      "name": "Pillow Fight",
+      "duration": 1200,
+      "scrobbles": 8
+    },
+    {
+      "name": "Memorias",
+      "duration": 1152,
+      "scrobbles": 8
+    },
+    {
+      "name": "Cozy Dreams",
+      "duration": 756,
+      "scrobbles": 7
+    },
+    {
+      "name": "Cozy Dreams",
+      "duration": 1092,
+      "scrobbles": 7
+    },
+    {
+      "name": "Hounds of Love",
+      "duration": 1050,
+      "scrobbles": 7
+    },
+    {
+      "name": "Cozy Dreams",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "Broken Heartbeats",
+      "duration": 714,
+      "scrobbles": 6
+    },
+    {
+      "name": "Living in the Past",
+      "duration": 976,
+      "scrobbles": 6
+    },
+    {
+      "name": "Cozy Dreams",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "Living My Life in London (Cast Version)",
+      "duration": 1098,
+      "scrobbles": 6
+    },
+    {
+      "name": "As Above, So Below",
+      "duration": 1050,
+      "scrobbles": 6
+    },
+    {
+      "name": "Cozy Dreams",
+      "duration": 720,
+      "scrobbles": 6
+    },
+    {
+      "name": "Stealing Candy",
+      "duration": 1146,
+      "scrobbles": 6
+    },
+    {
+      "name": "safe heaven",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "The Quiet Hours",
+      "duration": 780,
+      "scrobbles": 6
+    },
+    {
+      "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
+      "duration": 1350,
+      "scrobbles": 6
+    },
+    {
+      "name": "Insomnia Dream",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "Nights with You",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "Deepsleep",
+      "duration": 729,
+      "scrobbles": 6
+    },
+    {
+      "name": "night ship",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "Amedeo",
+      "duration": 822,
+      "scrobbles": 6
+    },
+    {
+      "name": "On a Roll",
+      "duration": 900,
+      "scrobbles": 6
+    },
+    {
+      "name": "Conscious Sleep",
+      "duration": 848,
+      "scrobbles": 6
+    },
+    {
+      "name": "Melancholy",
+      "duration": 718,
+      "scrobbles": 5
+    },
+    {
+      "name": "The Leaves",
+      "duration": 800,
+      "scrobbles": 5
+    },
+    {
+      "name": "Cape God (Deluxe)",
+      "duration": 1050,
+      "scrobbles": 5
+    },
+    {
+      "name": "Black Light",
+      "duration": 1015,
+      "scrobbles": 5
+    },
+    {
+      "name": "The Grass",
+      "duration": 785,
+      "scrobbles": 5
+    },
+    {
+      "name": "Cozy Dreams",
+      "duration": 840,
+      "scrobbles": 5
+    },
+    {
+      "name": "Cape God",
+      "duration": 1125,
+      "scrobbles": 5
+    },
+    {
+      "name": "Corinne",
+      "duration": 785,
+      "scrobbles": 5
+    },
+    {
+      "name": "The Fame",
+      "duration": 880,
+      "scrobbles": 5
+    },
+    {
+      "name": "Ascending",
+      "duration": 1105,
+      "scrobbles": 5
+    },
+    {
+      "name": "Get Close (Expanded \u0026 Remastered)",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "DOGVIOLET",
+      "duration": 1220,
+      "scrobbles": 5
+    },
+    {
+      "name": "The Gift",
+      "duration": 1095,
+      "scrobbles": 5
+    },
+    {
+      "name": "Hourglass",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "Sugarcane Dreams",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "Bergamot",
+      "duration": 750,
+      "scrobbles": 5
+    },
+    {
+      "name": "FUTURE PAST",
+      "duration": 1535,
+      "scrobbles": 5
+    }
+  ]
+}
