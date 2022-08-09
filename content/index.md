@@ -6,8 +6,12 @@ isListing: true
 ---
 
 <style>
+  main > .copy > p {
+    font-size:var(--f4)
+  }
+
   figure.me {
-    max-width: 7rem;
+    max-width: 8rem;
     margin-top: 0rem;
     margin-left: 1rem;
   }
@@ -17,11 +21,10 @@ isListing: true
   }
 </style>
 
-### Hi, I'm Henrique! 👋
+![Me!](/profile/2022-06-02/me-512.jpg?class=right+me)
 
-![Me!](https://hacdias.com/profile/2022-03-26/me-256.jpg?class=right+me)
-
-Born in Portugal 🇵🇹. I am a Master's student 🎓 in Computer Science and Engineering at [TU/e](https://tue.nl/), in Eindhoven 🇳🇱., while working part-time for [Protocol Labs](https://protocol.ai) on the decentralization of the web 🌐. I believe in the transparency and openness of the world, in a united Europe 🇪🇺 and that we should all have equal rights 🏳️‍🌈.
+**HI 👋, I'M HENRIQUE** (he/him), a nearly graduating 🎓 master's student, and a software engineer 🛠 interested in web infrastructure, decentralized systems,
+and usable tools for developers and users. I was born in Portugal 🇵🇹. Currently, I live in the Netherlands 🇳🇱 and work with [Protocol Labs](https://protocol.ai) on the decentralization of the web.
 
 <div class="h-card dn">
   <data class='u-photo' value="https://hacdias.com/profile/2022-03-26/me-256.jpg">Picture</data>
