@@ -50,10 +50,10 @@ This website contains more things than it looks at first glance. This page is a 
 - [😎 Emojis](/emojis)
 - [✍️ Guestbook](/guestbook)
 - [🚀 Impossible List](/impossible-list)
-- [🎓 Resume](/resume)
 - [🔎 Search](/search)
 - [🛠 Uses](/uses)
 - [🏷 Tags](/tags)
+<!-- - [🎓 Resume](/resume) -->
 
 </div>
 

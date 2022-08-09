@@ -32,8 +32,8 @@ Most likely you've already noticed that my handle, `@hacdias`, reminds of the wo
 
 <div class='terms bold'>
 
+<!-- - [🎓 Resume](/resume) -->
 - [✉️ Contact](/contact)
-- [🎓 Resume](/resume)
 - [🚀 Impossible List](/impossible-list)
 - [⚙️ Colophon](/colophon)
 
