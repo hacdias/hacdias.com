@@ -6,10 +6,6 @@ isListing: true
 ---
 
 <style>
-  main > .copy > p {
-    font-size:var(--f4)
-  }
-
   figure.me {
     max-width: 8rem;
     margin-top: 0rem;
