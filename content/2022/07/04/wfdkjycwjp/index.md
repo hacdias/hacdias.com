@@ -4,6 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
+photoClass: grid-wfdkjycwjp
 properties:
   file: A9CC7F01-C055-41D8-86C7-E2DBE81418AB.jpeg
   location:
@@ -19,5 +20,31 @@ properties:
   - cdn:/b3c92abaccbe5da766e0d7c8222531f48e81c79ca349be35c0c24bd3797a2149
   - cdn:/50d697931805a3aaa91f5d57a17165cf0f428d4db8c27df5b7523fc478ab8d83
 ---
+
+<style>
+.grid-wfdkjycwjp {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  grid-template-areas:
+    "a b"
+    "c c";
+}
+
+.grid-wfdkjycwjp figure {
+  height: 100%;
+  margin: 0;
+}
+
+.grid-wfdkjycwjp figure img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.grid-wfdkjycwjp> *:nth-child(1) { grid-area: a; }
+.grid-wfdkjycwjp> *:nth-child(2) { grid-area: b; }
+.grid-wfdkjycwjp> *:nth-child(3) { grid-area: c; }
+</style>
+
 
 Just got some pictures developed. Here’s some.
