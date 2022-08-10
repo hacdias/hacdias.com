@@ -4,7 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
-photoClass: grid-zcdvmaterr mgrid
+photoClass: grid-zcdvmaterr fg
 properties:
   file: 6BEFA3CC-94D5-4BC8-A61C-D9B61593A755.jpeg
   location:
@@ -27,24 +27,12 @@ properties:
 
 <style>
 .grid-zcdvmaterr {
-  display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a"
     "b c"
     "d e"
     "f g";
-}
-
-.grid-zcdvmaterr figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-zcdvmaterr figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .grid-zcdvmaterr> *:nth-child(1) { grid-area: a; }

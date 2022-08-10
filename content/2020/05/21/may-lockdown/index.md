@@ -4,7 +4,7 @@ published: 2020-05-21T23:30:50.893Z
 section:
 - photos
 - home
-photoClass: g05lk mgrid
+photoClass: g05lk fg
 properties:
   photo:
   - cdn:/2020-05-nature-02
@@ -16,23 +16,11 @@ properties:
 
 <style>
 .g05lk {
-  display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a"
     "b c"
     "d e";
-}
-
-.g05lk figure {
-  height: 100%;
-  margin: 0;
-}
-
-.g05lk figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .g05lk > *:nth-child(1) { grid-area: a; }

@@ -4,7 +4,7 @@ published: 2021-09-16T06:45:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-steel-wool mgrid
+photoClass: grid-2021-steel-wool fg
 properties:
   photo:
   - cdn:/2021-09-steelwool-07
@@ -20,25 +20,13 @@ properties:
 
 <style>
 .grid-2021-steel-wool {
-  display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a a b b b"
     "c c c d d d"
     "e e e e e e"
     "f f g g h h"
     "i i i i i i";
-}
-
-.grid-2021-steel-wool figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-2021-steel-wool figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .grid-2021-steel-wool > *:nth-child(1) { grid-area: a; }

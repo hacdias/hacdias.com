@@ -4,7 +4,7 @@ published: 2021-06-01T00:00:00Z
 section:
 - photos
 - home
-photoClass: g2021maaii mgrid
+photoClass: g2021maaii fg
 properties:
   photo:
   - cdn:/2021-05-maastricht-07
@@ -19,23 +19,11 @@ properties:
 
 <style>
 .g2021maaii {
-  display: grid;
   grid-template-columns: repeat(10, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a a a a a a a a a"
     "b b b c c c c c c c"
     "d d d d d e e e e e";
-}
-
-.g2021maaii figure {
-  height: 100%;
-  margin: 0;
-}
-
-.g2021maaii figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .g2021maaii > *:nth-child(1) { grid-area: a; }

@@ -5,7 +5,7 @@ section:
 - photos
 - home
 createdWith: https://hacdias.com/
-photoClass: grid-2022-sakura-trees mgrid
+photoClass: grid-2022-sakura-trees fg
 properties:
   photo:
   - cdn:/2022-03-cherry-blossoms-06
@@ -35,9 +35,7 @@ figure.cherry-blossom {
 }
 
 .grid-2022-sakura-trees {
-  display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a"
   "b c"
@@ -48,16 +46,6 @@ figure.cherry-blossom {
   "j j"
   "k l"
   "m m";
-}
-
-.grid-2022-sakura-trees figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-2022-sakura-trees figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .grid-2022-sakura-trees > *:nth-child(1) { grid-area: a; }

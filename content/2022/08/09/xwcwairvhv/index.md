@@ -5,7 +5,7 @@ section:
 - checkins
 - photos
 createdWith: https://ownyourswarm.p3k.io/
-photoClass: grid-xwcwairvhv
+photoClass: grid-xwcwairvhv fg
 properties:
   checkin:
     properties:
@@ -42,22 +42,10 @@ properties:
 
 <style>
 .grid-xwcwairvhv {
-  display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a"
     "b c";
-}
-
-.grid-xwcwairvhv figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-xwcwairvhv figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .grid-xwcwairvhv> *:nth-child(1) { grid-area: a; }

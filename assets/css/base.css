@@ -603,6 +603,21 @@ figure.right {
   max-height: 100%;
 }
 
+.fg {
+  display: grid;
+  grid-gap: 1rem;
+}
+
+.fg figure {
+  height: 100%;
+  margin: 0;
+}
+
+.fg figure img {
+  object-fit: cover;
+  height: 100%;
+}
+
 @media screen and (max-width: 60rem) {
   body {
     border: 0;
@@ -678,16 +693,16 @@ figure.right {
     margin: 0.5rem 0 0 0;
   }
 
-  .mgrid {
+  .fg {
     display: block !important;
   }
 
-  .mgrid figure {
+  .fg figure {
     height: auto !important;
     margin: inherit !important;
   }
 
-  .mgrid figure img {
+  .fg figure img {
     object-fit: cover !important;
     height: auto !important;
   }

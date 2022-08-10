@@ -4,7 +4,7 @@ published: 2021-04-30T12:02:00Z
 section:
 - photos
 - home
-photoClass: g21utriii mgrid
+photoClass: g21utriii fg
 properties:
   photo:
   - cdn:/2021-04-utrecht-11
@@ -16,23 +16,11 @@ properties:
 
 <style>
 .g21utriii {
-  display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a a"
     "b c d"
     "e e e";
-}
-
-.g21utriii figure {
-  height: 100%;
-  margin: 0;
-}
-
-.g21utriii figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .g21utriii > *:nth-child(1) { grid-area: a; }

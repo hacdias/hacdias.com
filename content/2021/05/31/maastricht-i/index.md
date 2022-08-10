@@ -4,7 +4,7 @@ published: 2021-05-31T00:00:00Z
 section:
 - photos
 - home
-photoClass: g2021maai mgrid
+photoClass: g2021maai fg
 properties:
   photo:
   - cdn:/2021-05-maastricht-03
@@ -23,9 +23,7 @@ Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I g
 
 <style>
 .g2021maai {
-  display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "z z z z z z"
     "a a a b b b"
@@ -33,16 +31,6 @@ Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I g
     "e e e e e e"
     "f f g g h h"
     "i i i i i i";
-}
-
-.g2021maai figure {
-  height: 100%;
-  margin: 0;
-}
-
-.g2021maai figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .g2021maai > *:nth-child(1) { grid-area: z; }

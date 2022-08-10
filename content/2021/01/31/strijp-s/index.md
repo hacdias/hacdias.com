@@ -4,7 +4,7 @@ published: 2021-01-31T07:33:49Z
 section:
 - photos
 - home
-photoClass: g2021jkahb mgrid
+photoClass: g2021jkahb fg
 properties:
   photo:
   - alt: Strijp-s
@@ -25,24 +25,12 @@ properties:
 
 <style>
 .g2021jkahb {
-  display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "z z z z z z"
     "a a a b b b"
     "c c c d d d"
     "e e e e e e";
-}
-
-.g2021jkahb figure {
-  height: 100%;
-  margin: 0;
-}
-
-.g2021jkahb figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .g2021jkahb > *:nth-child(1) { grid-area: z; }

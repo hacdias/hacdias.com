@@ -4,7 +4,7 @@ published: 2021-05-30T00:00:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-cmhv mgrid
+photoClass: grid-2021-cmhv fg
 properties:
   photo:
   - cdn:/2021-05-eindhoven-11
@@ -24,9 +24,7 @@ In Eindhoven.
 
 <style>
 .grid-2021-cmhv {
-  display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a a"
     "b b c"
@@ -34,16 +32,6 @@ In Eindhoven.
     "d g f"
     "h h h"
     "i j k";
-}
-
-.grid-2021-cmhv figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-2021-cmhv figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .grid-2021-cmhv > *:nth-child(1) { grid-area: a; }

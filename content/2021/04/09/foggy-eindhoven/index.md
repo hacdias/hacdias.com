@@ -4,7 +4,7 @@ published: 2021-04-09T00:00:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-fgwlp mgrid
+photoClass: grid-2021-fgwlp fg
 properties:
   photo:
   - cdn:/2021-05-foggy-morning-02
@@ -18,24 +18,12 @@ properties:
 
 <style>
 .grid-2021-fgwlp {
-  display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "z z z z z z"
     "a a b b c c"
     "d d d d d d"
     "e e e f f f";
-}
-
-.grid-2021-fgwlp figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-2021-fgwlp figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .grid-2021-fgwlp > *:nth-child(1) { grid-area: z; }

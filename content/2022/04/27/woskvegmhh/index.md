@@ -4,7 +4,7 @@ section:
 - photos
 - home
 createdWith: https://hacdias.com/
-photoClass: mgrid grid-woskvegmhh
+photoClass: fg grid-woskvegmhh
 properties:
   photo:
   - cdn:/bd0bec2f7dbd8fcf264fbf466005871bcea9dc728742f0ffabe88258346ad197
@@ -18,20 +18,8 @@ properties:
 
 <style>
 .grid-woskvegmhh  {
-  display: grid;
   grid-template-columns: repeat(2,1fr);
-  gap: 1rem;
   margin-top: 0;
-}
-
-.grid-woskvegmhh figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-woskvegmhh figure img {
-  object-fit: cover;
-  height: 100%;
 }
 </style>
 

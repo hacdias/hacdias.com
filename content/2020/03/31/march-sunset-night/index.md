@@ -4,7 +4,7 @@ published: 2020-03-31T12:00:00.893Z
 section:
 - photos
 - home
-photoClass: g03sunset mgrid
+photoClass: g03sunset fg
 properties:
   photo:
   - alt: A Tree in the Sunset
@@ -19,19 +19,7 @@ properties:
 
 <style>
 .g03sunset {
-  display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 1rem;
-}
-
-.g03sunset figure {
-  height: 100%;
-  margin: 0;
-}
-
-.g03sunset figure img {
-  object-fit: cover;
-  height: 100%;
 }
 </style>
 

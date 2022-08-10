@@ -4,7 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
-photoClass: grid-2022-hlrrfoveli mgrid
+photoClass: grid-2022-hlrrfoveli fg
 properties:
   location:
     properties:
@@ -27,22 +27,10 @@ properties:
 
 <style>
 .grid-2022-hlrrfoveli {
-  display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "a a b b c c"
     "d d d e e e";
-}
-
-.grid-2022-hlrrfoveli figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-2022-hlrrfoveli figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .grid-2022-hlrrfoveli > *:nth-child(1) { grid-area: a; }

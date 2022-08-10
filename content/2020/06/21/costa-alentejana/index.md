@@ -4,7 +4,7 @@ published: 2020-06-21T23:30:50.893Z
 section:
 - photos
 - home
-photoClass: grid-costa-alentejana mgrid
+photoClass: grid-costa-alentejana fg
 properties:
   photo:
   - alt: null
@@ -29,25 +29,13 @@ properties:
 
 <style>
 .grid-costa-alentejana {
-  display: grid;
   grid-template-columns: repeat(10, 1fr);
-  gap: 1rem;
   grid-template-areas:
     "z z z z z z z z z z"
     "a a a a a a a b b b"
     "c c c c c d d d d d"
     "e e e e e f f f f f"
     "g g g h h h h h h h";
-}
-
-.grid-costa-alentejana figure {
-  height: 100%;
-  margin: 0;
-}
-
-.grid-costa-alentejana figure img {
-  object-fit: cover;
-  height: 100%;
 }
 
 .grid-costa-alentejana > *:nth-child(1) { grid-area: z; }
