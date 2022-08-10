@@ -4,6 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
+photoClass: g-gjyafbgxho fg
 properties:
   file: 0FDC1BE4-336C-4935-AFA0-B86247380B2E.jpeg
   location:
@@ -19,4 +20,10 @@ properties:
   - cdn:/df0dda52a0e67c71f738a42e0fcd0561a6141bf197c18c75e526d73971a9d5e6
 ---
 
+<style>
+.g-gjyafbgxho {
+  grid-template-columns: repeat(2, 1fr);
+}
+</style>
 
+Kleineberg.
