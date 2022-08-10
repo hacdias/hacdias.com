@@ -4,6 +4,7 @@ description: I was born in Portugal and I am not pursuing a Master's degree in t
   Netherlands, while working on fascinating projects. This page tells a bit more about
   me.
 noShowInteractions: true
+noSendInteractions: true
 ---
 
 ![Me!](cdn:/2022-03-witte-dame-in?class=fw)
@@ -32,9 +33,9 @@ Most likely you've already noticed that my handle, `@hacdias`, reminds of the wo
 
 <div class='terms bold'>
 
-<!-- - [🎓 Resume](/resume) -->
 - [✉️ Contact](/contact)
 - [🚀 Impossible List](/impossible-list)
 - [⚙️ Colophon](/colophon)
+- [💼 LinkedIn](https://www.linkedin.com/in/hacdias/)
 
 </div>
