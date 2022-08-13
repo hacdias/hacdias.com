@@ -36,6 +36,5 @@ Most likely you've already noticed that my handle, `@hacdias`, reminds of the wo
 - [✉️ Contact](/contact)
 - [🚀 Impossible List](/impossible-list)
 - [⚙️ Colophon](/colophon)
-- [💼 LinkedIn](https://www.linkedin.com/in/hacdias/)
 
 </div>
