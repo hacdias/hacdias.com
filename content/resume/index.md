@@ -25,30 +25,6 @@ deleted: true
 
 M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing user-friendly services.
 
-## Education
-
-<div class=education>
-
-### MSc Computer Science and Engineering
-
-#### [Eindhoven University of Technology][tue] <small>[2020 - present]</small>
-
-- Member of Student Film & Photography Association [Dekate Mousa][dm].
-- Member of the Website and PR Committees of Dekate Mousa.
-
-### BSc Information Systems and Computer Engineering
-
-#### [Instituto Superior Técnico][tecnico] <small>[2017 - 2020]</small>
-
-- Volunteered as Student Mentor for 2 years.
-- Awarded an Academic Merit Award in 1 year.
-
-</div>
-
-[tue]: https://tue.nl
-[dm]: (https://dekatemousa.nl/)
-[tecnico]: https://tecnico.ulisboa.pt
-
 ## Experience
 
 ### Software Engineer <small>[09/2019 - present]</small> {#protocol-labs-software-engineer}
@@ -108,6 +84,27 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pplware:me]: https://pplware.sapo.pt/author/henrique_dias/
 [pplware:kidsme]: https://kids.pplware.sapo.pt/author/henrique_dias/
 [pplware:ebook]: https://hacdias.com/downloads/aprenda_a_programar.pdf
+
+
+## Education
+
+### MSc Computer Science and Engineering <small>[2020 - 2022]</small>
+
+#### [Eindhoven University of Technology][tue] 
+
+- Member of Student Film & Photography Association [Dekate Mousa][dm].
+- Member of the Website and PR Committees of Dekate Mousa.
+
+### BSc Information Systems and Computer Engineering <small>[2017 - 2020]</small>
+
+#### [Instituto Superior Técnico][tecnico]
+
+- Volunteered as Student Mentor for 2 years.
+- Awarded an Academic Merit Award in 1 year.
+
+[tue]: https://tue.nl
+[dm]: (https://dekatemousa.nl/)
+[tecnico]: https://tecnico.ulisboa.pt
 
 ## Projects
 

@@ -1,3 +1,7 @@
+:root {
+  --accent: #333;
+}
+
 h2, h3, h4 {
   margin: 1rem 0 0;
 }
@@ -7,14 +11,17 @@ h2 {
 }
 
 h3 {
-  font-size: var(--f4);
-  color: var(--accent);
+  font-size: var(--f5);
 }
 
 h4 {
   font-size: var(--f5);
   margin-top: 0;
   font-weight: 500;
+}
+
+.copy ul {
+  font-size: var(--f6);
 }
 
 h3 > a,
@@ -38,11 +45,6 @@ h3, h4 {
 h4 small,
 h3 small {
   margin-left: auto;
-}
-
-h4::before {
-  content: '@ ';
-  margin-right: 0.1rem;
 }
 
 .head h1 {
