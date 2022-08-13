@@ -1,8 +1,9 @@
 ---
 title: Uses
 published: 2020-01-21T15:39:00Z
-updated: 2022-07-07T11:35:00.706468012+02:00
+updated: 2022-08-13T22:52:50.441602037+02:00
 noShowInteractions: true
+noSendInteractions: true
 ---
 
 This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you the things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be a 100% up to date, but I will try to keep an eye on it to keep it alive!
@@ -29,7 +30,7 @@ This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) 
 
 ### Photography
 
-On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [CaptureOne](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
+On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
 - **Camera**: Fujifilm X-T4
 - **Lenses**: XF 18-55mm f/2.8-4.0 OIS and XF 27mm F/2.8
@@ -40,7 +41,7 @@ On the photography department, I currently own a Fuji X-T4. The pictures that co
 This section will be considerably more compact as I don't think we need screenshots of the software I'm using. So... here it goes.
 
 - **Operating System**: macOS, iOS, Linux (Alpine usually)
-- **Browser**: Chrome on macOS, Safari on iOS
+- **Browser**: Firefox on macOS, Safari on iOS - slowly trying to move away from Chrome
 - **Code Editor**: [Visual Studio Code][vscode] - on the terminal I may use [vim]
 - **Terminal**: [iTerm][iterm] with [zsh] and [oh my zsh] - see my [dotfiles]
 - **Email**: native macOS and iOS apps
