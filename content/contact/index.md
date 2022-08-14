@@ -9,18 +9,21 @@ If you need to reach me directly, please try one of the following:
 
 - ✉️ E-mail as [mail@hacdias.com](mailto:mail@hacdias.com)
 - ☎️ Telegram as [@hacdias](https://t.me/hacdias)
-- 🎮 Discord as `hacdias#2540`
-- ✨ Matrix as `@hacdias:tchncs.de`
+- 🎮 Discord as [`hacdias#2540`](https://discord.com/users/hacdias#2540)
+- ✨ Matrix as [`@hacdias:tchncs.de`](https://matrix.to/#/@hacdias:tchncs.de)
 
 ## Elsewhere 🕸 {#elsewhere}
 
 My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:
 
-- 🐙 [GitHub (@hacdias)](https://github.com/hacdias)
-- 📷 [Instagram (@hacdias)](https://instagram.com/hacdias)
-- 🐦 [Twitter (@hacdias)](https://twitter.com/hacdias)
-- 💼 [LinkedIn (@hacdias)](https://linkedin.com/in/hacdias)
-- 🤖 [Reddit (@hacdias)](https://reddit.com/u/hacdias)
+- 🐙 [GitHub: @hacdias](https://github.com/hacdias)
+- 📷 [Instagram: @hacdias](https://instagram.com/hacdias)
+- 🐦 [Twitter: @hacdias](https://twitter.com/hacdias)
+- 💼 [LinkedIn: @hacdias](https://linkedin.com/in/hacdias)
+- 🤖 [Reddit: @hacdias](https://reddit.com/u/hacdias)
+- 🔑 [Keybase: @hacdias](https://keybase.io/hacdias)
+- 🆕 [HackerNews: @hacdias](https://news.ycombinator.com/user?id=hacdias)
+- 🦞 [Lobste.rs: @hacdias](https://lobste.rs/u/hacdias)
 
 ## Follow 🗞
 
@@ -37,10 +40,9 @@ All pages that list posts, such as [photos](/photos/) and [articles](/articles/)
 
 </div>
 
-## PGP 🗝
+## PGP 🗝 {#pgp}
 
-If you want to encrypt any of the messages you send to me, you can find my public
-key directly on this [website](/pubkey.txt) or on [keybase](https://keybase.io/hacdias). Here's the fingerprint:
+To send me encrypted messages, you can find my public key on this [website](/pubkey.txt) or on [keybase](https://keybase.io/hacdias). The fingerprint is:
 
 ```
 AE95 7E3A 2905 B55A 6950 E762 4454 5566 F552 F631
