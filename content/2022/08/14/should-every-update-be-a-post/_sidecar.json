@@ -25,6 +25,26 @@
       "wm-received": "2022-08-14T18:18:07Z",
       "wm-source": "https://jlelse.blog/micro/2022/08/2022-08-14-nztyu",
       "wm-target": "https://hacdias.com/2022/08/14/should-every-update-be-a-post"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "That’s exactly what I do, too. There’s no need to keep them apart—Microsub readers or “Webmention parsers” will be able to tell which is which from the markup/microformats used, and will sometimes make the choice for you (cf. the “post type discovery” algo)—although everyone is free to do whatever they like best, obviously. I am planning on merging notes, replies, reposts and RSVPs under the same section. I kind of “hide” my replies behind a link, though, although they’re all there in my feed. And I keep likes and listens separate because, well, they’re currently more of an experiment, I guess.",
+      "in-reply-to": "https://hacdias.com/2022/08/14/should-every-update-be-a-post",
+      "post-type": "reply",
+      "published": "2022-08-14T23:41:50+02:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/notes/1efb63d414",
+      "wm-id": 1459097,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-08-14T21:50:04Z",
+      "wm-source": "https://jan.boddez.net/notes/1efb63d414",
+      "wm-target": "https://hacdias.com/2022/08/14/should-every-update-be-a-post"
     }
   ]
 }
