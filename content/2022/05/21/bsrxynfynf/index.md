@@ -2,9 +2,9 @@
 description: 'Just ate: Crunchy Manti'
 published: 2022-05-21T14:00:29Z
 section:
-- ate
 - photos
 - home
+- food
 createdWith: https://micropublish.net/
 properties:
   ate:

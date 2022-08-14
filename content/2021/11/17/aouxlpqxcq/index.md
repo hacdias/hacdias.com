@@ -2,7 +2,7 @@
 description: 'Just ate: Spinach coconut curry with yellow rice'
 published: 2021-11-17T18:27:26+01:00
 section:
-- ate
+- food
 createdWith: https://teacup.p3k.io/
 properties:
   ate:

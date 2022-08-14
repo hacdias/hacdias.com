@@ -2,9 +2,9 @@
 description: 'Just ate: Bolo de Bolacha'
 published: 2022-04-02T12:59:12Z
 section:
-- ate
 - home
 - photos
+- food
 createdWith: https://micropublish.net/
 properties:
   ate:

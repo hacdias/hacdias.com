@@ -26,6 +26,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [🔖 Bookmarks](/bookmarks)
 - [📍 Checkins](/checkins)
 - [🍺 Drank](/drank)
+- [🥘 Food and Beverages](/food)
 - [🗺 Itineraries](/itineraries)
 - [🎶 Listens](/listens)
 - [💬 Micro](/micro)

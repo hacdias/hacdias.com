@@ -2,7 +2,7 @@
 description: 'Just drank: Cappuccino Freddo'
 published: 2022-07-02T17:25:23+02:00
 section:
-- drank
+- food
 createdWith: https://micropublish.net/
 properties:
   drank:

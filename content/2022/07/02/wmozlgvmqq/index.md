@@ -2,7 +2,7 @@
 description: 'Just ate: Crunchy Manti'
 published: 2022-07-02T17:00:00+02:00
 section:
-- ate
+- food
 createdWith: https://micropublish.net/
 properties:
   ate:

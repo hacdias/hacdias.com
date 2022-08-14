@@ -2,7 +2,7 @@
 description: 'Just ate: Broa Castelar'
 published: 2021-12-29T09:51:16Z
 section:
-- ate
+- food
 createdWith: https://teacup.p3k.io/
 properties:
   ate:

@@ -2,7 +2,7 @@
 description: 'Just ate: Oats with blueberry, honey and speculaas spice mix'
 published: 2021-11-18T08:55:58+01:00
 section:
-- ate
+- food
 createdWith: https://teacup.p3k.io/
 properties:
   ate:

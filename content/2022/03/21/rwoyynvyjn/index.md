@@ -2,7 +2,7 @@
 description: 'Just drank: Magners Irish Cider'
 published: 2022-03-21T19:02:33Z
 section:
-- drank
+- food
 createdWith: https://micropublish.net/
 properties:
   drank:

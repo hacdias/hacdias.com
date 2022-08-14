@@ -2,7 +2,7 @@
 description: 'Just drank: Tripel LeFort'
 published: 2021-12-03T16:42:24+01:00
 section:
-- drank
+- food
 createdWith: https://teacup.p3k.io/
 properties:
   created: "2021-12-03T16:42:24+01:00"

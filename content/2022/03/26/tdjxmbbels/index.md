@@ -2,9 +2,9 @@
 description: 'Just drank: Almdudler'
 published: 2022-03-26T15:10:19Z
 section:
-- drank
 - photos
 - home
+- food
 createdWith: https://micropublish.net/
 properties:
   drank:

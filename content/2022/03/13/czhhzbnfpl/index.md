@@ -2,9 +2,9 @@
 description: 'Just ate: Nestum Arroz'
 published: 2022-03-13T08:10:31Z
 section:
-- ate
 - photos
 - home
+- food
 createdWith: https://micropublish.net/
 properties:
   ate:

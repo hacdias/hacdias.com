@@ -2,7 +2,7 @@
 description: 'Just ate: Pastel de Nata'
 published: 2022-07-02T17:30:07+02:00
 section:
-- ate
+- food
 createdWith: https://micropublish.net/
 properties:
   ate:

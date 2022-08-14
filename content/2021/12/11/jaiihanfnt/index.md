@@ -2,7 +2,7 @@
 description: 'Just ate: Sweet Popcorn'
 published: 2021-12-11T20:47:16+01:00
 section:
-- ate
+- food
 createdWith: https://teacup.p3k.io/
 properties:
   ate:

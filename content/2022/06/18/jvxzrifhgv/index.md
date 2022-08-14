@@ -2,9 +2,9 @@
 description: 'Just ate: Loquats'
 published: 2022-06-18T06:26:41Z
 section:
-- ate
 - photos
 - home
+- food
 createdWith: https://micropublish.net/
 properties:
   ate:

@@ -2,8 +2,8 @@
 description: 'Just drank: Iced Coffee'
 published: 2022-06-22T08:26:48Z
 section:
-- drank
 - photos
+- food
 createdWith: https://micropublish.net/
 properties:
   drank:

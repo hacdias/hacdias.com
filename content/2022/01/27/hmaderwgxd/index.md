@@ -2,7 +2,7 @@
 description: 'Just ate: Pasta al forno met gehaktballen'
 published: 2022-01-27T19:01:04.291662903Z
 section:
-- ate
+- food
 properties:
   ate:
     properties:
