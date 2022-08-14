@@ -1,4 +1,4 @@
 ---
 title: Micro
-deleted: true
+isListing: true
 ---
