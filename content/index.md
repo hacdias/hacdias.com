@@ -1,8 +1,7 @@
 ---
 title: Home
-description: >
-  Henrique is nearly graduating from his Master's in Computer Science and Engineering
-  while working on decentralizing the web at Protocol Labs.
+description: |
+  Henrique is nearly graduating from his Master's in Computer Science and Engineering while working on decentralizing the web at Protocol Labs.
 isListing: true
 ---
 
@@ -17,7 +16,7 @@ I use this corner of the Internet to write about [anything](/all) that might int
 <div class="lists">
 <div class="terms">
 
-- [**Do you want to chat?** 🔗](/contact)
+- [**Do You Wanna Chat?** 🔗](/contact)
 - [✉️ E-mail: mail@hacdias.com](mailto:mail@hacdias.com)
 - [☎️ Telegram:  @hacdias](https://t.me/hacdias)
 - [🎮 Discord: `hacdias#2540`](https://discord.com/users/hacdias#2540)

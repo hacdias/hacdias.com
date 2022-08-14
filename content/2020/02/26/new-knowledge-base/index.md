@@ -6,7 +6,6 @@ section:
 properties:
   category:
   - meta
-  - website
   - notes
 ---
 
