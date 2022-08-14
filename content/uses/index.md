@@ -1,12 +1,12 @@
 ---
 title: Uses
 published: 2020-01-21T15:39:00Z
-updated: 2022-08-13T22:52:50.441602037+02:00
+updated: 2022-08-14T07:44:52.772381+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
 
-This is my **uses** page. It is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you the things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be a 100% up to date, but I will try to keep an eye on it to keep it alive!
+This page is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you what things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be accurate at all times, but I try to update it every now and then to make sure it is up to date.
 
 <!--more-->
 
@@ -38,18 +38,20 @@ On the photography department, I currently own a Fuji X-T4. The pictures that co
 
 ## Software
 
-This section will be considerably more compact as I don't think we need screenshots of the software I'm using. So... here it goes.
-
 - **Operating System**: macOS, iOS, Linux (Alpine usually)
 - **Browser**: Firefox on macOS, Safari on iOS - slowly trying to move away from Chrome
 - **Code Editor**: [Visual Studio Code][vscode] - on the terminal I may use [vim]
 - **Terminal**: [iTerm][iterm] with [zsh] and [oh my zsh] - see my [dotfiles]
 - **Email**: native macOS and iOS apps
 - **Calendar**: native macOS and iOS apps
-- **Email Provider**: [migadu] - trying to move away from Google
-- **Feed Reader**: [Miniflux]
+- **Email Provider**: [migadu] - trying to move away from Google. I am, however, looking for an alternative to Migadu that officially supports calendar and contacts management.
 
-Besides this software packages, I use some online services, which I'm not going to list here. As for self-hosted things, I have everything on [Hetzner][hetzner].
+### Self-Hosted
+
+Most of the software I self-host is hosted at [Hetzner][hetzner].
+
+- **Feed Reader**: [Miniflux]
+- **URL Shortener**: [GoShort] - I have not used it that much, but it's a nice to have. I'm looking forward to having more use cases for it though.
 
 [uses]: https://uses.tech/
 [vim]: https://www.vim.org/
@@ -70,3 +72,4 @@ Besides this software packages, I use some online services, which I'm not going 
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
 [migadu]: https://www.migadu.com/
 [miniflux]: https://miniflux.app/
+[goshort]: https://jlel.se/goshort
