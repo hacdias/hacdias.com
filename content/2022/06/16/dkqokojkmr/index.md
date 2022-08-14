@@ -1,8 +1,8 @@
 ---
 published: 2022-06-16T19:55:03.452219666+02:00
 section:
-- notes
 - home
+- micro
 createdWith: https://micropublish.net/
 properties:
   location:

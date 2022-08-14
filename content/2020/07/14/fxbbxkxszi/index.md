@@ -2,8 +2,8 @@
 title: Resources for Portuguese native speaker
 published: 2020-07-14T12:00:00+02:00
 section:
-- notes
 - home
+- micro
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/learndutch/

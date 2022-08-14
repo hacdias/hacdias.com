@@ -1053,3 +1053,8 @@
 /all/feed.json /all.json
 /links /bookmarks
 /meta /colophon
+/likes /micro
+/replies /micro
+/reposts /micro
+/notes /micro
+/rsvps /micro

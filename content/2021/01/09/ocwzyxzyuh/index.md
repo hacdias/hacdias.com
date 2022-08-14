@@ -2,8 +2,8 @@
 title: Powered USB 3 hub to connect keyboard + mouse + monitor
 published: 2021-01-09T12:00:00+02:00
 section:
-- notes
 - home
+- micro
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/UsbCHardware/

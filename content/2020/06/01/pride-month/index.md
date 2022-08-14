@@ -1,8 +1,8 @@
 ---
 published: 2020-06-01T08:21:38.129Z
 section:
-- notes
 - home
+- micro
 properties:
   category:
   - pride

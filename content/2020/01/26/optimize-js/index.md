@@ -1,8 +1,8 @@
 ---
 published: 2020-01-26T10:38:10.206Z
 section:
-- notes
 - home
+- micro
 properties:
   category:
   - design

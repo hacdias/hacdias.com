@@ -2,8 +2,8 @@
 title: Which is the "best" way to organize Go code?
 published: 2016-10-21T10:22:00+02:00
 section:
-- notes
 - home
+- micro
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/golang/

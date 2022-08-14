@@ -1,8 +1,8 @@
 ---
 published: 2021-11-17T08:09:37.825393702Z
 section:
-- notes
 - home
+- micro
 createdWith: https://micropublish.net
 ---
 

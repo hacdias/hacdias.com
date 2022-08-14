@@ -1,8 +1,8 @@
 ---
 published: 2020-03-30T12:12:24.522Z
 section:
-- notes
 - home
+- micro
 properties:
   category:
   - life

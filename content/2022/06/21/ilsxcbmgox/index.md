@@ -1,8 +1,8 @@
 ---
 published: 2022-06-21T13:36:53.892867952+02:00
 section:
-- notes
 - home
+- micro
 createdWith: https://indieweb.org/Shortcuts
 properties:
   location:

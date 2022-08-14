@@ -2,8 +2,8 @@
 title: Seller at Feel Good Market
 published: 2020-08-25T12:00:00+02:00
 section:
-- notes
 - home
+- micro
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/eindhoven/

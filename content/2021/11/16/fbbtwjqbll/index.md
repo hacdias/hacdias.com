@@ -1,8 +1,8 @@
 ---
 published: 2021-11-16T10:57:06.21409423Z
 section:
-- notes
 - home
+- micro
 createdWith: https://indigenous.abode.pub/ios/
 ---
 

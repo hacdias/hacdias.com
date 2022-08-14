@@ -1,9 +1,9 @@
 ---
 published: 2020-08-15T00:00:00Z
 section:
-- notes
 - photos
 - home
+- micro
 properties:
   category:
   - art

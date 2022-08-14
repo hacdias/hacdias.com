@@ -3,8 +3,8 @@ title: Troca de Carta de Condução Noutro País da EU
 published: 2022-03-28T10:23:42.249021847+02:00
 updated: 2022-04-28T10:23:42.249021847+02:00
 section:
-- notes
 - home
+- micro
 createdWith: https://hacdias.com/
 properties:
   audience: https://www.reddit.com/r/PortugalLaFora/

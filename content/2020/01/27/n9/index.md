@@ -1,8 +1,8 @@
 ---
 published: 2020-01-27T23:32:49.353Z
 section:
-- notes
 - home
+- micro
 properties:
   category:
   - personal

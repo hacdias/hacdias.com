@@ -27,14 +27,10 @@ This website contains more things than it looks at first glance. This page is a 
 - [📍 Checkins](/checkins)
 - [🍺 Drank](/drank)
 - [🗺 Itineraries](/itineraries)
-- [❤️ Likes](/likes)
 - [🎶 Listens](/listens)
-- [💭 Notes](/notes)
+- [💬 Micro](/micro)
 - [📸 Photos](/photos)
 - [📚 Reads](/reads/summary)
-- [💬 Replies](/replies)
-- [📢 Reposts](/reposts)
-- [📅 RSVPs](/rsvps)
 - [🎬 Watches](/watches/summary)
 
 </div>

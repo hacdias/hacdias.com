@@ -1,8 +1,8 @@
 ---
 published: 2022-01-19T14:32:43.681198552Z
 section:
-- notes
 - home
+- micro
 createdWith: https://quill.p3k.io/
 properties:
   location:

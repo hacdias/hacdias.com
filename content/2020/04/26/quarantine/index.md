@@ -1,8 +1,8 @@
 ---
 published: 2020-04-26T18:48:56.652Z
 section:
-- notes
 - home
+- micro
 properties:
   category:
   - covid19

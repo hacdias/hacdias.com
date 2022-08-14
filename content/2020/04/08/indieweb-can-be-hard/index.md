@@ -1,8 +1,8 @@
 ---
 published: 2020-04-08T11:23:10.389Z
 section:
-- notes
 - home
+- micro
 properties:
   category:
   - meta

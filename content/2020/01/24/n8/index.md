@@ -1,8 +1,8 @@
 ---
 published: 2020-01-24T11:33:44.527Z
 section:
-- notes
 - home
+- micro
 properties:
   category:
   - trains

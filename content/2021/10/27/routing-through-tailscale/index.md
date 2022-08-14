@@ -2,8 +2,8 @@
 published: 2021-10-27T06:31:33.272375945Z
 updated: 2021-10-31T07:19:16.767633451Z
 section:
-- notes
 - home
+- micro
 properties:
   category:
   - meta
