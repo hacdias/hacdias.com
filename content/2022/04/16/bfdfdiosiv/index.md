@@ -2,7 +2,7 @@
 description: At La Place
 published: 2022-04-16T17:00:40+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

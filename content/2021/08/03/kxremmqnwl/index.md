@@ -2,7 +2,7 @@
 description: At Canal Caveira
 published: 2021-08-03T18:26:07+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

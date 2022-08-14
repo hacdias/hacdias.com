@@ -2,7 +2,7 @@
 description: At Blauwbrug
 published: 2021-08-28T14:56:17+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

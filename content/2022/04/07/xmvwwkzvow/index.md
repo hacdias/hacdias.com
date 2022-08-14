@@ -2,7 +2,7 @@
 description: At Faro Airport (FAO) (Aeroporto de Faro)
 published: 2022-04-07T06:17:44+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

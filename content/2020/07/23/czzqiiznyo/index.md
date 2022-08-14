@@ -2,7 +2,7 @@
 description: At Lagos
 published: 2020-07-23T16:41:51+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

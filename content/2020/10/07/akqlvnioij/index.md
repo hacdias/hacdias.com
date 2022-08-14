@@ -2,7 +2,7 @@
 description: At Centrum
 published: 2020-10-07T14:35:08+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

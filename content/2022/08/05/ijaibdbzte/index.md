@@ -2,7 +2,7 @@
 description: At Waterstones
 published: 2022-08-05T11:10:37+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

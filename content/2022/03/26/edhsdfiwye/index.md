@@ -2,7 +2,7 @@
 description: Trip from Amsterdam Bijlmer ArenA to Amsterdam Zuid
 published: 2022-03-26T11:20:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

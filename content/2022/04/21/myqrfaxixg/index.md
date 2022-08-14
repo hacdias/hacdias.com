@@ -2,7 +2,7 @@
 description: At Pizza House
 published: 2022-04-21T22:10:53+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

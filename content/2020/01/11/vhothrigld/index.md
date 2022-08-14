@@ -2,7 +2,7 @@
 description: At Rádio Popular
 published: 2020-01-11T12:16:11Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

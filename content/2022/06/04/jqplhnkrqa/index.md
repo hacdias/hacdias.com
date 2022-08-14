@@ -2,7 +2,7 @@
 description: At Hifi Klubben
 published: 2022-06-04T17:26:39+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

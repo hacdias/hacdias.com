@@ -2,7 +2,7 @@
 description: At LUSH
 published: 2020-02-07T17:37:54+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

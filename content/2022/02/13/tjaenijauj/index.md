@@ -2,7 +2,7 @@
 description: At Utrecht Central Station (Station Utrecht Centraal)
 published: 2022-02-13T08:32:21+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

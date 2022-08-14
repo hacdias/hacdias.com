@@ -2,7 +2,7 @@
 description: At Prego Gourmet
 published: 2020-02-10T20:08:20Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

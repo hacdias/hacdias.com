@@ -2,7 +2,7 @@
 description: At Metrostation Noorderpark
 published: 2020-02-09T17:39:06+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

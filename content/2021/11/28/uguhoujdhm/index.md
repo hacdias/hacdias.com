@@ -2,7 +2,7 @@
 description: At Geldrop
 published: 2021-11-28T12:12:04+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

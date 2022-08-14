@@ -2,7 +2,7 @@
 description: At Av. Duque de Ávila
 published: 2020-03-11T15:02:09Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

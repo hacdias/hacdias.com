@@ -2,7 +2,7 @@
 description: At Villa Fiesta
 published: 2021-10-07T22:45:09+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

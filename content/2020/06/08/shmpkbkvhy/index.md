@@ -2,7 +2,7 @@
 description: At Praça da Alegria
 published: 2020-06-08T17:07:19+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

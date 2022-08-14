@@ -2,7 +2,7 @@
 description: At TU/e Atlas
 published: 2022-04-29T15:41:04+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

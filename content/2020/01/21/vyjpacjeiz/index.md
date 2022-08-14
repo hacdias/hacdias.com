@@ -2,7 +2,7 @@
 description: At Chickinho
 published: 2020-01-21T20:34:01Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

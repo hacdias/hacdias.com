@@ -2,7 +2,7 @@
 description: At Fonte Dos Amores
 published: 2021-08-03T15:13:01+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

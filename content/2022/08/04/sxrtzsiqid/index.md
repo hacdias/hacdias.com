@@ -2,7 +2,7 @@
 description: At Station Eindhoven Centraal
 published: 2022-08-04T16:03:41+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

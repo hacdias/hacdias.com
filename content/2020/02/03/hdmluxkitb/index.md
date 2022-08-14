@@ -2,7 +2,7 @@
 description: At Security Check
 published: 2020-02-03T14:57:21Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

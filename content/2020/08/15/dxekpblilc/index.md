@@ -2,7 +2,7 @@
 description: At Santana da Serra
 published: 2020-08-15T19:07:36+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

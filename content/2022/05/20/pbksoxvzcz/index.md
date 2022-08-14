@@ -2,7 +2,7 @@
 description: At TU/e Auditorium
 published: 2022-05-20T14:31:40+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

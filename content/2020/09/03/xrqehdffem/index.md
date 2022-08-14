@@ -2,7 +2,7 @@
 description: At Boekhandel Van Piere
 published: 2020-09-03T13:06:45+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

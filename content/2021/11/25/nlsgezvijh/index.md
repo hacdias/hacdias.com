@@ -2,9 +2,9 @@
 description: At Magna Plaza
 published: 2021-11-25T11:47:33+01:00
 section:
-- checkins
 - photos
 - home
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

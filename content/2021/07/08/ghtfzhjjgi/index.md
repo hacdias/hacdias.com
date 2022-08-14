@@ -2,7 +2,7 @@
 description: At Bertrand
 published: 2021-07-08T09:01:28+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

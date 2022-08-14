@@ -2,7 +2,7 @@
 description: At Markthal
 published: 2021-08-27T11:05:25+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

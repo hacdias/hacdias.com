@@ -2,7 +2,7 @@
 description: At MediaMarkt
 published: 2020-02-07T13:28:54+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

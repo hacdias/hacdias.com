@@ -2,7 +2,7 @@
 description: At Grand café de Zwarte Doos
 published: 2022-02-22T10:12:43+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

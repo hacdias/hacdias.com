@@ -2,7 +2,7 @@
 description: At Ponte Dom Luís I
 published: 2021-07-13T09:15:32+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

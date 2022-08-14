@@ -2,7 +2,7 @@
 description: At Vondelpark
 published: 2021-11-25T12:43:05+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Gate M4
 published: 2020-02-10T15:06:58+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Koppie koppie
 published: 2021-04-01T11:07:16+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

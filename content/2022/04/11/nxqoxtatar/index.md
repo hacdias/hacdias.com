@@ -2,7 +2,7 @@
 description: At Dille & Kamille
 published: 2022-04-11T13:34:49+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

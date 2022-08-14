@@ -2,7 +2,7 @@
 description: At Station Den Haag HS
 published: 2021-05-02T11:37:16+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

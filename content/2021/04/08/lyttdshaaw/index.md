@@ -2,7 +2,7 @@
 description: At TU/e Studenten Sport Centrum
 published: 2021-04-08T13:11:15+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

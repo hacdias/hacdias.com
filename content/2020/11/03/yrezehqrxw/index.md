@@ -2,7 +2,7 @@
 description: At Bosrand "Bosrijk"
 published: 2020-11-03T16:30:15+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At GA2
 published: 2020-02-26T09:31:34Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

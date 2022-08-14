@@ -2,7 +2,7 @@
 description: At Schouwburgplein
 published: 2022-04-21T14:47:59+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

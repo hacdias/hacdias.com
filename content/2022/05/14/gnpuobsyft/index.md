@@ -2,7 +2,7 @@
 description: At La Madeleine
 published: 2022-05-14T19:59:08+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Malieveld
 published: 2021-05-02T15:20:46+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

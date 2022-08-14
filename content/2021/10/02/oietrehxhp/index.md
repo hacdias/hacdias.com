@@ -2,7 +2,7 @@
 description: At Pierre Hermé
 published: 2021-10-02T17:40:26+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

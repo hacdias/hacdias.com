@@ -2,7 +2,7 @@
 description: At Flower Market (Bloemenmarkt)
 published: 2021-11-25T15:18:40+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

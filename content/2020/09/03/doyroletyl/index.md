@@ -2,7 +2,7 @@
 description: At Station Eindhoven Centraal
 published: 2020-09-03T13:45:09+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

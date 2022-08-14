@@ -2,7 +2,7 @@
 description: At Station Tilburg
 published: 2021-05-29T16:58:24+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

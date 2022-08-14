@@ -2,7 +2,7 @@
 description: At Hotel Canada
 published: 2021-07-10T22:30:10+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

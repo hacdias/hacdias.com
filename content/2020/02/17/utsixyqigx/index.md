@@ -2,7 +2,7 @@
 description: At IST — Room VA3
 published: 2020-02-17T12:42:11Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

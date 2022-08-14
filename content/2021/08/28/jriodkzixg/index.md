@@ -2,7 +2,7 @@
 description: At Rijksmuseum
 published: 2021-08-28T10:34:33+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

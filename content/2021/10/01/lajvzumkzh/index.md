@@ -2,7 +2,7 @@
 description: At Sacré-Cœur Basilica (Basilique du Sacré-Cœur)
 published: 2021-10-01T18:23:13+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

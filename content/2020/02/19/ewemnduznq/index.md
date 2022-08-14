@@ -2,7 +2,7 @@
 description: At Bar Novo - Faculdade de Direito da Universidade de Lisboa
 published: 2020-02-19T13:58:59Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

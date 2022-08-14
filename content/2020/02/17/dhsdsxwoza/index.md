@@ -2,7 +2,7 @@
 description: At RNL Lab 14
 published: 2020-02-17T10:59:58Z
 section:
-- checkins
+- places
 properties:
   category:
     properties:

@@ -2,7 +2,7 @@
 description: At Jardim da Fundação Calouste Gulbenkian
 published: 2020-07-30T18:43:02+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

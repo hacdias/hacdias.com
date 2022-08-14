@@ -2,7 +2,7 @@
 description: At Quinta da Regaleira
 published: 2021-07-09T15:21:45+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Five Guys
 published: 2022-02-20T13:06:11+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

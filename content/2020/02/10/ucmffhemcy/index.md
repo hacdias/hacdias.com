@@ -2,7 +2,7 @@
 description: At Runway 17/35
 published: 2020-02-10T18:20:45Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

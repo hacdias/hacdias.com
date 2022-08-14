@@ -2,7 +2,7 @@
 description: At Gezondheidscentrum Stratum
 published: 2020-09-16T13:23:42+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

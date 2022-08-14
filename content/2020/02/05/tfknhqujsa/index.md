@@ -2,7 +2,7 @@
 description: At P+R Bouillon
 published: 2020-02-05T11:31:10+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

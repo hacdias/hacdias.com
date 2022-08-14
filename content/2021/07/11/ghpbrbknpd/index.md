@@ -2,7 +2,7 @@
 description: At Cervejaria Ramiro
 published: 2021-07-11T21:14:43+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

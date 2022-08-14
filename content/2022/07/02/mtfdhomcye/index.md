@@ -2,7 +2,7 @@
 description: Trip from Kunstmuseum Den Haag to Den Haag HS
 published: 2022-07-02T15:47:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

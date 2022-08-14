@@ -2,7 +2,7 @@
 description: At Stayokay Restaurant
 published: 2020-02-10T09:59:15+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

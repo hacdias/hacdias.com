@@ -2,7 +2,7 @@
 description: At Campo Grande
 published: 2020-02-19T13:18:44Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

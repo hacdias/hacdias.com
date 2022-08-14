@@ -2,7 +2,7 @@
 description: At The Trafalgar Pub
 published: 2021-11-14T17:42:26+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

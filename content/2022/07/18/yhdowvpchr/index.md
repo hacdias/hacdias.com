@@ -2,7 +2,7 @@
 description: At TU/e Matrix
 published: 2022-07-18T12:21:15+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Molen De Gooyer
 published: 2020-02-09T18:08:10+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

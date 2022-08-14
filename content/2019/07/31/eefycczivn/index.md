@@ -2,7 +2,7 @@
 description: Trip from Charleroi (CRL) to Lisbon (LIS)
 published: 2019-07-31T17:10:00Z
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

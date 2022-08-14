@@ -2,7 +2,7 @@
 description: At TU/e Atlas room 4.403
 published: 2021-03-25T15:37:58+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

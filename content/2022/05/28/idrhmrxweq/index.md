@@ -2,7 +2,7 @@
 description: At Stationsbrug
 published: 2022-05-28T12:04:39+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

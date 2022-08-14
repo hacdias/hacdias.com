@@ -2,7 +2,7 @@
 description: At Domtoren
 published: 2022-02-20T15:57:55+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

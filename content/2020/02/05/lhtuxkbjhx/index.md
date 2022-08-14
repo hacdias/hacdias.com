@@ -2,7 +2,7 @@
 description: At Belgium (België)
 published: 2020-02-05T12:46:56+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

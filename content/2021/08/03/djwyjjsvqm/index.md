@@ -2,7 +2,7 @@
 description: At Praça D. Dinis
 published: 2021-08-03T11:58:58+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

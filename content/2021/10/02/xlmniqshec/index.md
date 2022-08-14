@@ -2,7 +2,7 @@
 description: At Archipel des Berges de Seine | Jardin flottant Niki de Saint Phalle
 published: 2021-10-02T13:31:00+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

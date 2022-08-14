@@ -2,7 +2,7 @@
 description: Trip from Rotterdam Centraal to London St Pancras Int'l
 published: 2022-04-21T19:57:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

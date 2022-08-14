@@ -2,7 +2,7 @@
 description: Trip from Schipol Airport to Keukenhof
 published: 2022-05-06T14:16:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

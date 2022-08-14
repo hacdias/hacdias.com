@@ -2,7 +2,7 @@
 description: Trip from Nijmegen Station to Amsterdam Zuid
 published: 2022-05-22T19:05:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

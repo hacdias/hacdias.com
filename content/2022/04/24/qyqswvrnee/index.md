@@ -2,7 +2,7 @@
 description: At The Bunch of Grapes
 published: 2022-04-24T14:17:01+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

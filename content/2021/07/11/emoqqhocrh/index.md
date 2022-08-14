@@ -2,7 +2,7 @@
 description: At Cascais, Portugal
 published: 2021-07-11T12:00:40+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

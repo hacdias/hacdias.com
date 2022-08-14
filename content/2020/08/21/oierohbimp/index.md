@@ -2,7 +2,7 @@
 description: At Vliegbasis Eindhoven - Runway 22/04
 published: 2020-08-21T10:03:34+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Jardim do Torel
 published: 2021-07-10T15:47:57+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

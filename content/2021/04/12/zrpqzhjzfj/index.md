@@ -2,7 +2,7 @@
 description: At Wiro Wok Wereldkeuken Restaurant
 published: 2021-04-12T19:58:49+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

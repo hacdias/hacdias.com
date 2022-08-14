@@ -2,7 +2,7 @@
 description: At Estação Ferroviária de Belém
 published: 2021-07-08T15:45:10+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Bar-B Burgers 'n' Beer Bar
 published: 2021-08-28T17:39:04+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

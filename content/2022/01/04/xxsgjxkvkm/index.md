@@ -2,7 +2,7 @@
 description: At 18 Septemberplein
 published: 2022-01-04T19:20:48+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

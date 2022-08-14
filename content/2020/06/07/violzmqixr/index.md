@@ -2,7 +2,7 @@
 description: At Miradouro de São Pedro de Alcântara
 published: 2020-06-07T10:54:52+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

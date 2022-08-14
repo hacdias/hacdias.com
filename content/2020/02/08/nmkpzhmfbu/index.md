@@ -2,7 +2,7 @@
 description: At Quartier Putain
 published: 2020-02-08T22:05:07+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At C&A
 published: 2022-06-02T14:00:45+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

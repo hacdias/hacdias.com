@@ -2,7 +2,7 @@
 description: At Beursplein
 published: 2020-02-10T11:44:30+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

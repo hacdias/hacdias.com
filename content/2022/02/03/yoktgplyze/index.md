@@ -2,7 +2,7 @@
 description: At Philips Museum Eindhoven
 published: 2022-02-03T11:07:27+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

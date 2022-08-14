@@ -2,7 +2,7 @@
 description: At Metro Campo Grande [AM,VD]
 published: 2020-02-20T13:34:17Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

@@ -2,7 +2,7 @@
 description: At TU/e MetaForum
 published: 2020-09-01T15:15:47+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

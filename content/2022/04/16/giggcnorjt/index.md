@@ -2,7 +2,7 @@
 description: At Van Abbemuseum
 published: 2022-04-16T15:08:50+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

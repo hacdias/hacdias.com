@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Centraal to Amsterdam Bijlmer ArenA
 published: 2022-06-08T19:18:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

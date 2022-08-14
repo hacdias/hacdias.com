@@ -2,7 +2,7 @@
 description: At Metro Oriente [VM]
 published: 2020-02-10T18:44:00Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

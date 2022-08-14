@@ -2,7 +2,7 @@
 description: At CKE-muziekschool (Centrum voor de Kunsten Eindhoven)
 published: 2022-06-07T19:59:35+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

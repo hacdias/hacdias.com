@@ -2,7 +2,7 @@
 description: At City Tower Eindhoven
 published: 2021-06-15T17:57:35+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

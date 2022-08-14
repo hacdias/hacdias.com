@@ -2,7 +2,7 @@
 description: At Sirtaki
 published: 2021-11-26T16:08:22+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

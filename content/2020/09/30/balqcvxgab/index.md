@@ -2,7 +2,7 @@
 description: At Fontys Hogescholen S1
 published: 2020-09-30T14:22:19+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

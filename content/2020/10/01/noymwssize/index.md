@@ -2,7 +2,7 @@
 description: At Dadawan
 published: 2020-10-01T18:38:03+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

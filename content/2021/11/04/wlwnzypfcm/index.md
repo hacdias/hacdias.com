@@ -2,7 +2,7 @@
 description: At GGD Brabant-Zuidoost
 published: 2021-11-04T14:01:33+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

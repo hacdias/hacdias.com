@@ -2,7 +2,7 @@
 description: At Tony’s Chocolonely Super Store
 published: 2022-04-09T17:11:21+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

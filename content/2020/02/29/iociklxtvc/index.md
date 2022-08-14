@@ -2,7 +2,7 @@
 description: At Hussel
 published: 2020-02-29T18:01:52Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

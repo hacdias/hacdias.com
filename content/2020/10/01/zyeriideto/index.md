@@ -2,7 +2,7 @@
 description: At The Student Hotel
 published: 2020-10-01T10:23:53+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

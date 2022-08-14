@@ -2,7 +2,7 @@
 description: At Technische Universiteit Eindhoven (TU/e)
 published: 2021-11-24T16:14:50+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

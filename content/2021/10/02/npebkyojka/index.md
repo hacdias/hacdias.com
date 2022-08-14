@@ -2,7 +2,7 @@
 description: At Tuileries Garden (Jardin des Tuileries)
 published: 2021-10-02T12:45:57+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

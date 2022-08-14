@@ -2,7 +2,7 @@
 description: At Down Town Gourmet Market
 published: 2021-06-10T20:22:24+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

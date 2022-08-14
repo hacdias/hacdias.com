@@ -2,7 +2,7 @@
 description: At Tea Stories
 published: 2022-06-04T15:25:06+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

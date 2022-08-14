@@ -2,7 +2,7 @@
 description: At Dapp Frietwinkel
 published: 2022-02-27T13:17:56+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

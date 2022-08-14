@@ -2,7 +2,7 @@
 description: At TU/e MetaForum
 published: 2022-04-11T10:11:18+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

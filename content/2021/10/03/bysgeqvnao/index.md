@@ -2,7 +2,7 @@
 description: At Parc de Bercy
 published: 2021-10-03T15:07:25+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

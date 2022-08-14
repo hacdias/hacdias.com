@@ -2,7 +2,7 @@
 description: At 18 Septemberplein
 published: 2021-08-26T11:59:56+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

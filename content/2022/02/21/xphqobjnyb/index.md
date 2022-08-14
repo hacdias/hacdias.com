@@ -2,7 +2,7 @@
 description: At Ribs Factory
 published: 2022-02-21T20:04:48+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

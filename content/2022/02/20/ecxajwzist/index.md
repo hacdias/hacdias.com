@@ -2,7 +2,7 @@
 description: At Happy Italy
 published: 2022-02-20T19:59:16+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

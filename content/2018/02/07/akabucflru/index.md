@@ -2,7 +2,7 @@
 description: Trip from Lisbon (LIS) to London (LHR)
 published: 2018-02-07T02:00:00Z
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

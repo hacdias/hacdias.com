@@ -2,7 +2,7 @@
 description: At Avenida Rovisco Pais
 published: 2020-03-04T12:59:39Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

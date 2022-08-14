@@ -2,7 +2,7 @@
 description: At Oranjebrug (Brug 146)
 published: 2020-02-09T10:25:46+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

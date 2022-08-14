@@ -2,7 +2,7 @@
 description: At Pavilhão Central
 published: 2020-02-19T09:28:25Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

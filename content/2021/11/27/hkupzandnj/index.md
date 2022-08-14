@@ -2,7 +2,7 @@
 description: At H&M
 published: 2021-11-27T11:46:18+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Standbeeld Piet Heyn
 published: 2021-08-27T14:53:03+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

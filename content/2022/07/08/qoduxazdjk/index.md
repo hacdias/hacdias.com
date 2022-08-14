@@ -2,7 +2,7 @@
 description: At Naturalis
 published: 2022-07-08T12:55:19+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

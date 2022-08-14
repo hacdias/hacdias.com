@@ -2,7 +2,7 @@
 description: At Gate 4
 published: 2021-12-21T18:57:05+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

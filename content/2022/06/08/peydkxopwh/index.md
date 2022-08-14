@@ -2,7 +2,7 @@
 description: At AFAS Live
 published: 2022-06-08T19:54:59+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

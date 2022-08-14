@@ -2,7 +2,7 @@
 description: At Luxembourg Airport (LUX) (Fluchhafe Lëtzebuerg)
 published: 2020-02-03T20:01:55+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

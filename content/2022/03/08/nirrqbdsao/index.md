@@ -2,7 +2,7 @@
 description: At Dekate Mousa
 published: 2022-03-08T19:59:48+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

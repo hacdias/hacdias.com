@@ -2,7 +2,7 @@
 description: At Paris Lyon Railway Station (Gare SNCF de Paris Lyon)
 published: 2021-10-03T14:23:54+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

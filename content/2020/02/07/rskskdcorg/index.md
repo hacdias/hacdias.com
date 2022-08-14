@@ -2,9 +2,9 @@
 description: At Five Guys
 published: 2020-02-07T13:43:18+01:00
 section:
-- checkins
 - photos
 - home
+- places
 properties:
   checkin:
     properties:

@@ -2,9 +2,9 @@
 description: At Manneken Pis
 published: 2020-02-09T17:00:44+01:00
 section:
-- checkins
 - photos
 - home
+- places
 properties:
   checkin:
     properties:

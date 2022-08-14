@@ -2,7 +2,7 @@
 description: At Grand café de Zwarte Doos
 published: 2021-10-13T19:03:34+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

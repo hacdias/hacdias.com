@@ -2,7 +2,7 @@
 description: At Leon
 published: 2022-04-22T09:19:46+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

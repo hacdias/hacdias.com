@@ -2,7 +2,7 @@
 description: At Wc Quimica Masculino - Piso 1.5
 published: 2020-03-09T14:52:05Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

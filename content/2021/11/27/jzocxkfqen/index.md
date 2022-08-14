@@ -2,7 +2,7 @@
 description: At Den Haag Centraal Railway Station (Station Den Haag Centraal)
 published: 2021-11-27T12:41:52+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

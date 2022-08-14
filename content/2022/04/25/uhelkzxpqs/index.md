@@ -2,7 +2,7 @@
 description: At Daunt Books
 published: 2022-04-25T13:11:23+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

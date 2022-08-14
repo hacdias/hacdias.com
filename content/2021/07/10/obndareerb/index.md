@@ -2,7 +2,7 @@
 description: At A Padaria Portuguesa
 published: 2021-07-10T19:30:52+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

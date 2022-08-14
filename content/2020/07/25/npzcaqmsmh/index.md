@@ -2,7 +2,7 @@
 description: At São Bartolomeu de Messines
 published: 2020-07-25T11:04:03+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At A Loja do Gato Preto
 published: 2020-02-29T17:35:49Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

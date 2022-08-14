@@ -2,7 +2,7 @@
 description: At Parkeergarage IKEA
 published: 2021-02-25T15:19:31+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At St Pauls Courtyard
 published: 2022-04-25T12:46:43+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

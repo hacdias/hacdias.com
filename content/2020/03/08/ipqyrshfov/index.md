@@ -2,7 +2,7 @@
 description: At BP
 published: 2020-03-08T13:02:15Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

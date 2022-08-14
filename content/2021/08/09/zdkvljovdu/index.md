@@ -2,7 +2,7 @@
 description: At Faro Airport (FAO) (Aeroporto de Faro)
 published: 2021-08-09T05:44:18+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

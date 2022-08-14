@@ -2,7 +2,7 @@
 description: At OCEANS Beach House
 published: 2021-05-02T13:32:40+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

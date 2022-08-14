@@ -3,7 +3,7 @@ description: At Galeries Royales Saint-Hubert / Koninklijke Sint-Hubertusgalerij
   (Koninklijke Sint-Hubertusgalerijen)
 published: 2020-02-05T18:28:56+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

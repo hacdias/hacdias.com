@@ -2,7 +2,7 @@
 description: At Utrecht
 published: 2022-01-08T13:43:49+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

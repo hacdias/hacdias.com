@@ -2,7 +2,7 @@
 description: At Stadspark
 published: 2021-05-09T14:04:19+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

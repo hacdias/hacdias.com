@@ -2,7 +2,7 @@
 description: At Simon Lévelt
 published: 2022-04-15T17:24:31+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

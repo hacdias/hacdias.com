@@ -2,7 +2,7 @@
 description: At Utrecht Central Station (Station Utrecht Centraal)
 published: 2021-04-25T11:06:41+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

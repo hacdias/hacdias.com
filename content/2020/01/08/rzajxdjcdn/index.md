@@ -2,7 +2,7 @@
 description: At 100 Montaditos
 published: 2020-01-08T12:21:24Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

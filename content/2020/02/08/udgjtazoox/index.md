@@ -2,7 +2,7 @@
 description: At Thalys Terminal
 published: 2020-02-08T09:35:31+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

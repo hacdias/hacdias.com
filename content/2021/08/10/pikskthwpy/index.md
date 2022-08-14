@@ -2,7 +2,7 @@
 description: At Ggd Vaccinatielocatie Eindhoven
 published: 2021-08-10T09:28:41+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

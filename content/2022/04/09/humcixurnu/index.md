@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Centraal to Amsterdam Amstel
 published: 2022-04-09T11:17:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

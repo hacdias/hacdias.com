@@ -2,7 +2,7 @@
 description: At Fontaine des Innocents
 published: 2021-10-02T16:36:33+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

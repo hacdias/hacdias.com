@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Centraal to Tilburg
 published: 2022-02-24T18:22:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

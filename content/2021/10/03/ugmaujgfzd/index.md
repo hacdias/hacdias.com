@@ -2,7 +2,7 @@
 description: At Boulangerie du Marais
 published: 2021-10-03T11:55:09+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

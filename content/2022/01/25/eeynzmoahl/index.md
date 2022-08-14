@@ -2,7 +2,7 @@
 description: At Lex en Edo Hornemannplantsoen
 published: 2022-01-25T15:48:36+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

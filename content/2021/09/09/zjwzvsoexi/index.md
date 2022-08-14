@@ -2,7 +2,7 @@
 description: At Brainwash
 published: 2021-09-09T09:23:59+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

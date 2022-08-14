@@ -2,7 +2,7 @@
 description: At Faculdade de Ciências da Universidade de Lisboa
 published: 2020-02-20T13:21:12Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

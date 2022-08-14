@@ -2,7 +2,7 @@
 description: At vanHaren
 published: 2022-03-09T15:07:10+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Tramhalte Soembawastraat
 published: 2020-02-08T16:40:20+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

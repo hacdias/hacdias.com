@@ -2,7 +2,7 @@
 description: At TU/e Atlas
 published: 2021-06-21T16:19:02+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

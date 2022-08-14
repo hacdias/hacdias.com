@@ -2,7 +2,7 @@
 description: At Grand Place (Grote Markt)
 published: 2020-02-06T16:15:41+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Jeans Centre
 published: 2022-03-09T15:35:41+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

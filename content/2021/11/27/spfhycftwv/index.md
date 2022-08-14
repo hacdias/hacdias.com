@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Centraal to Den Haag Centraal
 published: 2021-11-27T11:07:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

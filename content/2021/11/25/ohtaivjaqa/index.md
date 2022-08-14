@@ -2,7 +2,7 @@
 description: At Begijnhof
 published: 2021-11-25T15:20:59+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

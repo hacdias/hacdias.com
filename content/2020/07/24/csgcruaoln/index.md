@@ -2,7 +2,7 @@
 description: At Jardim Municipal de Estremoz
 published: 2020-07-24T16:09:06+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

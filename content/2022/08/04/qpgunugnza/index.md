@@ -2,7 +2,7 @@
 description: At Theater Amsterdam
 published: 2022-08-04T20:03:50+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

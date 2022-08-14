@@ -2,7 +2,7 @@
 description: At VanBerlo
 published: 2021-10-16T13:50:47+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

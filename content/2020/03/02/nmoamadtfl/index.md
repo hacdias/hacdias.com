@@ -2,7 +2,7 @@
 description: At Metro São Sebastião [AZ,VM]
 published: 2020-03-02T20:22:51Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

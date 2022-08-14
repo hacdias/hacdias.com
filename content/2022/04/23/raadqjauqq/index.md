@@ -2,7 +2,7 @@
 description: At St Mark's Church
 published: 2022-04-23T14:33:40+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

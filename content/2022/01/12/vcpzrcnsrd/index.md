@@ -2,7 +2,7 @@
 description: At GGD Vaccinatielocatie Eindhoven
 published: 2022-01-12T16:39:09+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

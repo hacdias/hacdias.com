@@ -2,7 +2,7 @@
 description: At Station Den Haag HS
 published: 2022-01-17T16:13:34+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

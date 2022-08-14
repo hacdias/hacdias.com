@@ -2,7 +2,7 @@
 description: At TK Maxx
 published: 2022-08-08T15:56:03+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

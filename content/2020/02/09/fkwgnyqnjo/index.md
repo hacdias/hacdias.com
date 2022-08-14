@@ -2,7 +2,7 @@
 description: At Tramhalte Nieuwezijds Kolk
 published: 2020-02-09T14:19:19+01:00
 section:
-- checkins
+- places
 properties:
   category:
     properties:

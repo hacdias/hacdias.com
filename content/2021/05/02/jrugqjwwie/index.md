@@ -2,7 +2,7 @@
 description: At Tramhalte Javastraat
 published: 2021-05-02T12:24:27+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

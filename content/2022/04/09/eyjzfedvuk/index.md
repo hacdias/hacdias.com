@@ -2,7 +2,7 @@
 description: At Museumplein
 published: 2022-04-09T12:05:49+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

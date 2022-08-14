@@ -2,7 +2,7 @@
 description: At Café Divina Doçura, Messines
 published: 2021-07-31T16:58:30+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

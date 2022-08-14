@@ -2,9 +2,9 @@
 description: At Zuidplein
 published: 2022-03-26T15:41:45+01:00
 section:
-- checkins
 - photos
 - home
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

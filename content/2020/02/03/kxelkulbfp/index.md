@@ -2,7 +2,7 @@
 description: Trip from Lisbon (LIS) to Luxembourg (LUX)
 published: 2020-02-03T18:40:00Z
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

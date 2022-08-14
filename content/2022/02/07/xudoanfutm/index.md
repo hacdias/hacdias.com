@@ -2,7 +2,7 @@
 description: Trip from Amsterdam Vijzelgracht to Amsterdam Centraal
 published: 2022-02-07T15:49:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

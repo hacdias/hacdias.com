@@ -2,7 +2,7 @@
 description: At Portobello Green Vintage Fashion Market
 published: 2022-04-23T12:22:41+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Açai Natura
 published: 2020-02-10T20:23:58Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

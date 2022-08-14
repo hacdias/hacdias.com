@@ -2,7 +2,7 @@
 description: At Hertog Hendrik Van Brabantplein
 published: 2021-02-16T09:16:52+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

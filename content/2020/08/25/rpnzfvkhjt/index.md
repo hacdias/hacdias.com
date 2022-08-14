@@ -2,7 +2,7 @@
 description: At T-Mobile
 published: 2020-08-25T16:19:11+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

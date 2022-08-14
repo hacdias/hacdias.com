@@ -2,7 +2,7 @@
 description: Trip from Faro (FAO) to London (LGW)
 published: 2017-04-06T02:00:00Z
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

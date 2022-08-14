@@ -2,7 +2,7 @@
 description: At C&A
 published: 2021-11-06T15:35:38+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

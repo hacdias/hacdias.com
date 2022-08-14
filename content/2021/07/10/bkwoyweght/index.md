@@ -2,7 +2,7 @@
 description: At Miradouro da Senhora do Monte
 published: 2021-07-10T16:30:42+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

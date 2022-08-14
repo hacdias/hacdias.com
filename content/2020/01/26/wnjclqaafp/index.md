@@ -2,7 +2,7 @@
 description: At Starbucks
 published: 2020-01-26T18:39:07Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

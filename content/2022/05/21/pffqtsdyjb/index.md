@@ -2,7 +2,7 @@
 description: At Kunsthal
 published: 2022-05-21T11:17:45+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

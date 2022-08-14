@@ -2,7 +2,7 @@
 description: Trip from Den Haag Centraal to Rotterdam Centraal
 published: 2021-11-27T13:34:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

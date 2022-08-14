@@ -2,7 +2,7 @@
 description: At Cascais
 published: 2021-07-11T10:32:18+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

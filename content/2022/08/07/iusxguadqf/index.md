@@ -2,7 +2,7 @@
 description: At Victoriapark
 published: 2022-08-07T19:03:44+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

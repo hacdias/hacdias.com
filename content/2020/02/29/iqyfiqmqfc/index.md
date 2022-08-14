@@ -2,7 +2,7 @@
 description: At Parque das Nações
 published: 2020-02-29T17:15:57Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

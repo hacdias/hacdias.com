@@ -2,7 +2,7 @@
 description: At Colonnes de Buren
 published: 2021-10-02T16:51:50+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

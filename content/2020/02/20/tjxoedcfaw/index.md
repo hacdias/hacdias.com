@@ -2,7 +2,7 @@
 description: At Sala F4
 published: 2020-02-20T11:03:41Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

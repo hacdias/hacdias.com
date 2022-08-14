@@ -2,7 +2,7 @@
 description: At Promenade plantée – La Coulée Verte
 published: 2021-10-03T14:45:32+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

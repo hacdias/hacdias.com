@@ -2,7 +2,7 @@
 description: At Van Gogh-Roosegaarde Cycle Path
 published: 2021-08-29T20:46:55+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

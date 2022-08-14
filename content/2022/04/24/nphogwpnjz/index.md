@@ -2,7 +2,7 @@
 description: At Natural History Museum
 published: 2022-04-24T10:29:59+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

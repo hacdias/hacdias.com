@@ -2,7 +2,7 @@
 description: At YoYo! Fresh Tea Bar
 published: 2021-04-25T14:12:32+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

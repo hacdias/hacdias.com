@@ -2,7 +2,7 @@
 description: At Fit Park
 published: 2020-02-04T10:42:39+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

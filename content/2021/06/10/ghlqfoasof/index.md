@@ -2,7 +2,7 @@
 description: At Cafe De Sands
 published: 2021-06-10T18:14:00+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

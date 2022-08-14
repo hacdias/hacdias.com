@@ -2,7 +2,7 @@
 description: At Het Park
 published: 2021-11-27T15:01:05+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

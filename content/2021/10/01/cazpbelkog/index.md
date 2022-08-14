@@ -2,7 +2,7 @@
 description: At Carrousel Garden (Jardin du Carrousel)
 published: 2021-10-01T13:00:17+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

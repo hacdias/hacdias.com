@@ -2,7 +2,7 @@
 description: At Vendôme Column
 published: 2021-10-02T12:25:43+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

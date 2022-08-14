@@ -2,7 +2,7 @@
 description: At De Vooruitgang
 published: 2022-07-05T15:57:38+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

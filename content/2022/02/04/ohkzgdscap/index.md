@@ -2,7 +2,7 @@
 description: At O'Casey's
 published: 2022-02-04T15:05:45+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

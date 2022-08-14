@@ -2,7 +2,7 @@
 description: At Dutch Homemade
 published: 2022-07-06T20:34:20+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

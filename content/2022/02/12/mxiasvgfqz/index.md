@@ -2,7 +2,7 @@
 description: At Plato Utrecht
 published: 2022-02-12T14:03:55+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

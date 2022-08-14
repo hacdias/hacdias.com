@@ -2,7 +2,7 @@
 description: At My Auchan
 published: 2021-07-09T17:15:37+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

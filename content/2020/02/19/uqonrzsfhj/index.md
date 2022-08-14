@@ -2,7 +2,7 @@
 description: At Alameda da Universidade
 published: 2020-02-19T13:48:34Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

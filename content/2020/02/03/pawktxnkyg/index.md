@@ -2,9 +2,9 @@
 description: At domino’s Pizza
 published: 2020-02-03T22:06:27+01:00
 section:
-- checkins
 - photos
 - home
+- places
 properties:
   checkin:
     properties:

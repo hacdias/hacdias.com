@@ -2,7 +2,7 @@
 description: At Continente Bom Dia Defensores de Chaves
 published: 2020-03-12T09:48:28Z
 section:
-- checkins
+- places
 properties:
   category:
     properties:

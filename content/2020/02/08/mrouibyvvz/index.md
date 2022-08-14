@@ -2,7 +2,7 @@
 description: At Aluminiumbrug (Brug 222)
 published: 2020-02-08T17:36:15+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

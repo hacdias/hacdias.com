@@ -2,7 +2,7 @@
 description: At Hortus Arcadië
 published: 2021-08-25T17:48:42+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

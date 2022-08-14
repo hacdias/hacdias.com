@@ -3,7 +3,7 @@ description: At Arcades du Cinquantenaire / Triomfboog van het Jubelpark (Triomf
   van het Jubelpark)
 published: 2020-02-05T17:32:38+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

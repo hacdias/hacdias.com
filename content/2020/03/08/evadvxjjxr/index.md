@@ -2,7 +2,7 @@
 description: At Linha d'Água
 published: 2020-03-08T12:00:47Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

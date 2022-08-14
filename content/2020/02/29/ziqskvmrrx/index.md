@@ -2,7 +2,7 @@
 description: At TOUS Jewelry
 published: 2020-02-29T18:28:36Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

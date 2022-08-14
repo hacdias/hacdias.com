@@ -2,7 +2,7 @@
 description: At Atrium Saldanha
 published: 2020-01-10T15:06:24Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

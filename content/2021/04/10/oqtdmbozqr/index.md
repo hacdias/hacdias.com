@@ -2,7 +2,7 @@
 description: At GGD XXL Testlocatie Eindhoven
 published: 2021-04-10T10:39:58+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

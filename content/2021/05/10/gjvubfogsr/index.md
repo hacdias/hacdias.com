@@ -2,7 +2,7 @@
 description: At Dutch Homemade
 published: 2021-05-10T18:42:58+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

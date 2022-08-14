@@ -2,7 +2,7 @@
 description: At Grand Ducal Palace (Groussherzogleche Palais)
 published: 2020-02-04T11:57:04+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

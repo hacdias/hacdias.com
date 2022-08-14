@@ -2,7 +2,7 @@
 description: At Inwonersplein Eindhoven
 published: 2022-02-24T14:24:47+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

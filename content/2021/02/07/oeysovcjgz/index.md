@@ -2,7 +2,7 @@
 description: At Dommelbrug (Paradijslaan)
 published: 2021-02-07T11:30:34+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

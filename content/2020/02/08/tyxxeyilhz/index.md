@@ -2,9 +2,9 @@
 description: At Staalmeestersbrug (Brug 227)
 published: 2020-02-08T17:29:21+01:00
 section:
-- checkins
 - photos
 - home
+- places
 properties:
   checkin:
     properties:

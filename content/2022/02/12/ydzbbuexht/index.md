@@ -2,7 +2,7 @@
 description: At Kringloopcentrum De Arm Oudegracht
 published: 2022-02-12T13:33:16+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

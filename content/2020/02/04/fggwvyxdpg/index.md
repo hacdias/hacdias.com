@@ -2,7 +2,7 @@
 description: At Place des Martyrs
 published: 2020-02-04T10:18:38+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

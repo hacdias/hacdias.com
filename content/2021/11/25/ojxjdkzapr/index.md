@@ -2,7 +2,7 @@
 description: At Casa Bocage
 published: 2021-11-25T16:22:47+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

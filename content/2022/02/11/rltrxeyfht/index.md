@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Centraal to Utrecht Centraal
 published: 2022-02-11T14:37:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

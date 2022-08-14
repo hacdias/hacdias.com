@@ -2,7 +2,7 @@
 description: At Jardim do Arco do Cego
 published: 2020-03-10T11:13:54Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

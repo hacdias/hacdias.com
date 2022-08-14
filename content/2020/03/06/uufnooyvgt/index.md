@@ -2,7 +2,7 @@
 description: At Faculdade de Letras da Universidade de Lisboa
 published: 2020-03-06T17:25:37Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

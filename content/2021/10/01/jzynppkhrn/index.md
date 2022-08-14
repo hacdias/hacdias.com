@@ -2,7 +2,7 @@
 description: Trip from Eindhoven (John F. Kennedylaan) to Paris (Bercy Seine)
 published: 2021-10-01T08:05:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

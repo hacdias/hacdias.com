@@ -2,7 +2,7 @@
 description: At L'altro Mondo
 published: 2022-05-14T17:43:11+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

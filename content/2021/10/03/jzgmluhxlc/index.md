@@ -2,7 +2,7 @@
 description: At Place du Panthéon
 published: 2021-10-03T13:31:21+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

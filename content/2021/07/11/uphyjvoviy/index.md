@@ -2,7 +2,7 @@
 description: At Cais do Sodré Train Station (Estação Ferroviária do Cais do Sodré)
 published: 2021-07-11T09:20:22+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

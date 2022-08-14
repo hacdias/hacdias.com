@@ -2,7 +2,7 @@
 description: At Jumbo
 published: 2021-10-16T18:11:30+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

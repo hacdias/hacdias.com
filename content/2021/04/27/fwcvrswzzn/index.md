@@ -2,7 +2,7 @@
 description: At Het Park
 published: 2021-04-27T14:25:19+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

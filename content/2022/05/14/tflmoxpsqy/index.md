@@ -2,7 +2,7 @@
 description: At Brussels (Brussel)
 published: 2022-05-14T14:30:49+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

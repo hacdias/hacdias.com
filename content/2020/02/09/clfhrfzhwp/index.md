@@ -2,7 +2,7 @@
 description: At Jewish Historical Museum (Joods Historisch Museum)
 published: 2020-02-09T16:41:18+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

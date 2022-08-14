@@ -2,9 +2,9 @@
 description: At Bagels & Beans
 published: 2022-02-21T12:35:56+01:00
 section:
-- checkins
 - photos
 - home
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

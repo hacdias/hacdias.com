@@ -2,7 +2,7 @@
 description: At Amorino Chiado
 published: 2021-07-08T16:23:20+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

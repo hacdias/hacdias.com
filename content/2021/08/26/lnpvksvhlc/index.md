@@ -2,7 +2,7 @@
 description: At The Happiness Café
 published: 2021-08-26T12:12:12+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

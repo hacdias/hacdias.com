@@ -2,7 +2,7 @@
 description: At Frens Haringhandel
 published: 2022-02-07T12:39:44+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

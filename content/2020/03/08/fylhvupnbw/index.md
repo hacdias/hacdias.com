@@ -2,7 +2,7 @@
 description: At Avenida da Liberdade
 published: 2020-03-08T11:26:13Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

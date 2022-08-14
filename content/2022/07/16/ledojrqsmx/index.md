@@ -2,7 +2,7 @@
 description: At Kruidvat
 published: 2022-07-16T17:36:55+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

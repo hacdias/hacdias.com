@@ -2,7 +2,7 @@
 description: At Brainwash
 published: 2022-05-31T12:02:23+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

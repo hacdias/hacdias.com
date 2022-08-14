@@ -2,7 +2,7 @@
 description: At Roma-Areeiro Train Station (Estação Ferroviária Roma-Areeiro)
 published: 2020-01-13T15:31:37Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

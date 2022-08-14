@@ -2,7 +2,7 @@
 description: At Cyberdog
 published: 2022-04-23T15:08:56+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

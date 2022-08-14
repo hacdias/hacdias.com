@@ -2,7 +2,7 @@
 description: At De Genneper Watermolen
 published: 2021-05-01T17:03:09+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

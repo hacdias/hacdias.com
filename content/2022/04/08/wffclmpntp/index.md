@@ -2,7 +2,7 @@
 description: At Vue Zaal 3
 published: 2022-04-08T19:21:47+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

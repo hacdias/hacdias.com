@@ -2,7 +2,7 @@
 description: At TU/e Traverse
 published: 2021-10-21T14:10:34+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

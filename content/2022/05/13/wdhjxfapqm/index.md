@@ -2,7 +2,7 @@
 description: At CD Teek
 published: 2022-05-13T10:35:49+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

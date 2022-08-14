@@ -2,7 +2,7 @@
 description: At Portugese Synagoge
 published: 2020-02-09T16:41:29+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Action
 published: 2021-11-13T15:05:08+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

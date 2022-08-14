@@ -2,7 +2,7 @@
 description: At Jumbo
 published: 2022-02-10T17:44:51+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

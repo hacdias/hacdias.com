@@ -2,7 +2,7 @@
 description: At Zambujeira do Mar
 published: 2021-07-25T15:16:48+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

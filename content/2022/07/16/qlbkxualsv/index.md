@@ -2,7 +2,7 @@
 description: At Sasha
 published: 2022-07-16T16:03:50+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

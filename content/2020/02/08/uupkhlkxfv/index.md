@@ -2,7 +2,7 @@
 description: At Joods Verzetmonument
 published: 2020-02-08T17:18:43+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

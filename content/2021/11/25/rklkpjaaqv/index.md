@@ -2,7 +2,7 @@
 description: At Rederij Plas
 published: 2021-11-25T15:57:30+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

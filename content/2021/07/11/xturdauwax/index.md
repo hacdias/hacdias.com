@@ -2,7 +2,7 @@
 description: At Cascais
 published: 2021-07-11T12:00:40+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

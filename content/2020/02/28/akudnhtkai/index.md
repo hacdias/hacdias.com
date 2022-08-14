@@ -2,7 +2,7 @@
 description: At Panda Cantina
 published: 2020-02-28T19:56:22Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

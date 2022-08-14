@@ -2,7 +2,7 @@
 description: At Caixa Geral de Depósitos - Ourique
 published: 2020-01-02T10:45:52Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

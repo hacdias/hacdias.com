@@ -2,7 +2,7 @@
 description: At Vue Eindhoven
 published: 2022-05-05T11:05:28+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

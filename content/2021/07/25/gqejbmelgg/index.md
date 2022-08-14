@@ -2,7 +2,7 @@
 description: At Praia dos Buizinhos
 published: 2021-07-25T11:41:58+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

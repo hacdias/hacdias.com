@@ -2,7 +2,7 @@
 description: At TU/e Potentiaal
 published: 2020-10-08T15:07:17+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Chocolate Company
 published: 2022-02-04T17:32:55+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Albert Heijn Museumwinkel
 published: 2022-08-05T13:32:19+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

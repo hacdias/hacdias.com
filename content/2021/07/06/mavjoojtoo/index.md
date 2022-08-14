@@ -2,7 +2,7 @@
 description: At Arrivals Hall
 published: 2021-07-06T13:45:33+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

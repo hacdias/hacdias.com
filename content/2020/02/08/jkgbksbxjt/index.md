@@ -2,7 +2,7 @@
 description: At Antwerp-Central Railway Station (Station Antwerpen-Centraal)
 published: 2020-02-08T10:27:28+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

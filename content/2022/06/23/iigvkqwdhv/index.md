@@ -2,7 +2,7 @@
 description: At SoLow
 published: 2022-06-23T17:17:21+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

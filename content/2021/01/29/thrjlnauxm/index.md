@@ -2,7 +2,7 @@
 description: At Geldrop
 published: 2021-01-29T16:27:14+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

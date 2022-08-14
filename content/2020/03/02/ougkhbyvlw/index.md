@@ -2,7 +2,7 @@
 description: At Sala QA
 published: 2020-03-02T14:55:38Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

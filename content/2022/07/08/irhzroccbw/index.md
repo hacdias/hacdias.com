@@ -2,7 +2,7 @@
 description: At Leiden Central Railway station (Station Leiden Centraal)
 published: 2022-07-08T12:37:28+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

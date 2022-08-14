@@ -2,7 +2,7 @@
 description: At Stripwinkel Blunder
 published: 2022-02-12T13:21:24+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Kijk-Kubus
 published: 2022-02-21T15:07:51+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

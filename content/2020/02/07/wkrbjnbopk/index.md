@@ -2,7 +2,7 @@
 description: At Fontaine du Parc de Bruxelles / Fontein Warandepark (Fontein Warandepark)
 published: 2020-02-07T10:58:12+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

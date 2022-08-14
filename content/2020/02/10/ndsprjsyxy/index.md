@@ -2,7 +2,7 @@
 description: At Departures 3
 published: 2020-02-10T12:34:32+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

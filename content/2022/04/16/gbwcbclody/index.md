@@ -2,7 +2,7 @@
 description: At Pipoos
 published: 2022-04-16T17:37:04+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

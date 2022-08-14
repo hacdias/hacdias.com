@@ -2,7 +2,7 @@
 description: At Sportpark Aalsterweg
 published: 2021-02-14T17:12:36+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

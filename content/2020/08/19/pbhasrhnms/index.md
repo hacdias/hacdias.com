@@ -2,7 +2,7 @@
 description: At Clínica Médica E Dentária Santo Ildefonso
 published: 2020-08-19T15:01:22+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

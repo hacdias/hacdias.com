@@ -2,7 +2,7 @@
 description: At Blauwbrug (Brug 236)
 published: 2020-02-08T13:04:44+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

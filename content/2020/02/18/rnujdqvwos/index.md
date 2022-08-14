@@ -2,7 +2,7 @@
 description: At Pavilhão de Civil
 published: 2020-02-18T11:49:08Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

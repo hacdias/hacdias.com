@@ -2,7 +2,7 @@
 description: At Praça Martim Moniz
 published: 2021-07-08T16:46:03+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Ponte De Aljezur
 published: 2021-07-25T16:35:26+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

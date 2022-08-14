@@ -2,7 +2,7 @@
 description: At Centro Campanhã
 published: 2021-07-12T21:34:02+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

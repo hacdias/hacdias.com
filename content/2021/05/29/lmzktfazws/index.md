@@ -2,7 +2,7 @@
 description: At Stadspark Oude Dijk
 published: 2021-05-29T14:24:50+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

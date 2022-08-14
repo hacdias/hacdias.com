@@ -2,7 +2,7 @@
 description: At Quetzal
 published: 2020-02-07T16:07:29+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

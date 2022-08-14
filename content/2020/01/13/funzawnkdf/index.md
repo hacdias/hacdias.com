@@ -2,7 +2,7 @@
 description: At Metro Alameda [VD,VM]
 published: 2020-01-13T14:18:59Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

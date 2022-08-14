@@ -2,7 +2,7 @@
 description: At Pingo Doce
 published: 2020-02-26T16:40:55Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

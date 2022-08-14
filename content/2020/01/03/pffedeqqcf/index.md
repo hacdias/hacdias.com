@@ -2,7 +2,7 @@
 description: At Lisboa Cheia de Graça
 published: 2020-01-03T22:04:39Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

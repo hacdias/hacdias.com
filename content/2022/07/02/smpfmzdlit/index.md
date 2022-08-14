@@ -2,7 +2,7 @@
 description: At Kunstmuseum Den Haag
 published: 2022-07-02T13:24:03+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

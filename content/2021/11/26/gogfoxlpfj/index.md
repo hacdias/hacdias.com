@@ -2,7 +2,7 @@
 description: At Ān Ān
 published: 2021-11-26T19:04:12+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

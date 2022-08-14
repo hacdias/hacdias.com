@@ -2,7 +2,7 @@
 description: At Tea Stories
 published: 2021-10-16T11:52:52+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

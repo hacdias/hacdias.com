@@ -2,7 +2,7 @@
 description: At Museumpark
 published: 2022-05-21T12:55:44+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

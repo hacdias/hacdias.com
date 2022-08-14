@@ -2,7 +2,7 @@
 description: At Rokin
 published: 2020-02-08T17:49:06+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

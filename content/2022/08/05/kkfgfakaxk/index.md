@@ -2,7 +2,7 @@
 description: At GVB Veer - NDSM-terrein - Centraal Station
 published: 2022-08-05T09:45:28+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

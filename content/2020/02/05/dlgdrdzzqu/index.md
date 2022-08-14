@@ -2,7 +2,7 @@
 description: At Jubelpark / Parc du Cinquantenaire (Jubelpark)
 published: 2020-02-05T17:26:54+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At America Today
 published: 2020-09-04T11:30:44+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

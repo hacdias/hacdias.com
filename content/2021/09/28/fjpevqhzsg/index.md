@@ -2,7 +2,7 @@
 description: At Hubble Community Café
 published: 2021-09-28T12:47:45+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Alvor
 published: 2020-07-23T17:39:27+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

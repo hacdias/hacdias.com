@@ -2,7 +2,7 @@
 description: Trip from Lisbon (LIS) to Brussels (BRU)
 published: 2019-01-31T10:25:00Z
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

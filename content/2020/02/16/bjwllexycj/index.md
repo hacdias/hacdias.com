@@ -2,7 +2,7 @@
 description: At Entrecampos Train Station (Estação Ferroviária de Entrecampos)
 published: 2020-02-16T17:52:37Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Saldanha Residence
 published: 2020-03-11T15:18:02Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

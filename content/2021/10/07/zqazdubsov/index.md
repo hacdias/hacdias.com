@@ -2,7 +2,7 @@
 description: At TU/e Auditorium
 published: 2021-10-07T13:26:33+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

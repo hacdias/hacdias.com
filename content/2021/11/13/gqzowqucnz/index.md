@@ -2,7 +2,7 @@
 description: At Bonifaciuspark
 published: 2021-11-13T15:12:24+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

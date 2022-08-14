@@ -2,7 +2,7 @@
 description: At Binnenstad
 published: 2020-02-10T11:41:15+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

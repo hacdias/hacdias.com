@@ -2,7 +2,7 @@
 description: At 's-Hertogenbosch
 published: 2020-11-02T11:22:52+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

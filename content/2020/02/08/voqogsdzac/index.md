@@ -2,7 +2,7 @@
 description: At Cuddle Pub (Cuddle EetCafe)
 published: 2020-02-08T19:02:40+01:00
 section:
-- checkins
+- places
 properties:
   category:
     properties:

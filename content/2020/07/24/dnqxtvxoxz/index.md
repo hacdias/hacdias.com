@@ -2,7 +2,7 @@
 description: At Évora
 published: 2020-07-24T12:09:01+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Mr. Brown Specs&beans
 published: 2022-05-08T15:38:14+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

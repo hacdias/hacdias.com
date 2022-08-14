@@ -2,7 +2,7 @@
 description: At Amazing Oriental 東方行
 published: 2022-07-29T16:43:28+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

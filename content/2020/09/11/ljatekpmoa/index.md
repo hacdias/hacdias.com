@@ -2,7 +2,7 @@
 description: At ING Helmond
 published: 2020-09-11T15:58:32+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

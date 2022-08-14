@@ -2,7 +2,7 @@
 description: At Alte
 published: 2022-01-01T15:13:44Z
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

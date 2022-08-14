@@ -2,7 +2,7 @@
 description: At Parc de Merl
 published: 2020-02-05T10:49:20+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

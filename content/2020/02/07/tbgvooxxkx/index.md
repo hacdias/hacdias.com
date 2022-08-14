@@ -2,7 +2,7 @@
 description: At Cathedral of Our Lady (Onze-Lieve-Vrouwekathedraal)
 published: 2020-02-07T15:32:48+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

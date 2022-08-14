@@ -2,7 +2,7 @@
 description: At Park
 published: 2021-11-21T14:39:49+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

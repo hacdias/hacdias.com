@@ -2,7 +2,7 @@
 description: At Gate 224
 published: 2020-08-21T06:21:11+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

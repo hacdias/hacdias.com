@@ -2,7 +2,7 @@
 description: At Madou (MIVB | De Lijn)
 published: 2020-02-07T11:20:08+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

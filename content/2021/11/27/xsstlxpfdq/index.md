@@ -2,7 +2,7 @@
 description: Trip from Rotterdam Centraal to Eindhoven Centraal
 published: 2021-11-27T17:48:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

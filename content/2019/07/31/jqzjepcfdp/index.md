@@ -2,7 +2,7 @@
 description: Trip from Prague (PRG) to Charleroi (CRL)
 published: 2019-07-31T09:55:00Z
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

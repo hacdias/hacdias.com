@@ -2,7 +2,7 @@
 description: At Dommelplantsoen
 published: 2021-12-13T12:00:16+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

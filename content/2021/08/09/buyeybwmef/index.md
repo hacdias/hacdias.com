@@ -2,7 +2,7 @@
 description: At Binnentuin Hartje Eindhoven
 published: 2021-08-09T15:24:25+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

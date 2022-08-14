@@ -2,7 +2,7 @@
 description: At Fábrica dos Pastéis de Belém
 published: 2021-07-08T13:28:27+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

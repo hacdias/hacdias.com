@@ -2,7 +2,7 @@
 description: At Philips de Jonghpark
 published: 2021-05-31T18:44:16+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

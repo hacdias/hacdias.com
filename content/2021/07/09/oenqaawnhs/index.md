@@ -2,7 +2,7 @@
 description: At Chalet da Condessa d'Edla
 published: 2021-07-09T12:55:16+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

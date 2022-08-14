@@ -2,7 +2,7 @@
 description: At Pathé Eindhoven
 published: 2022-03-05T16:16:24+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

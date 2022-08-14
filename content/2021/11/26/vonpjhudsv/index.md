@@ -2,7 +2,7 @@
 description: At Frietwinkel
 published: 2021-11-26T15:39:46+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

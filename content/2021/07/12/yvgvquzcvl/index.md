@@ -2,7 +2,7 @@
 description: At Estação Ferroviária de Porto-Campanhã
 published: 2021-07-12T21:18:14+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

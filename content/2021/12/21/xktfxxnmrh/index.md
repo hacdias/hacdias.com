@@ -2,7 +2,7 @@
 description: Trip from P.C. Hooftlaan, Eindhoven to Eindhoven Airport
 published: 2021-12-21T17:31:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

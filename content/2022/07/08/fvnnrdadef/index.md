@@ -2,7 +2,7 @@
 description: At Bagels & Beans
 published: 2022-07-08T17:02:39+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

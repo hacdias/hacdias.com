@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Airport to Eindhoven Centraal
 published: 2022-02-19T10:53:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

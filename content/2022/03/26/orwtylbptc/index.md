@@ -2,7 +2,7 @@
 description: Trip from Amsterdam Zuid to Eindhoven Centraal
 published: 2022-03-26T18:45:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

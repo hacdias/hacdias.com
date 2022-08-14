@@ -2,7 +2,7 @@
 description: At Pastelaria Lusa
 published: 2022-03-11T15:56:05+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

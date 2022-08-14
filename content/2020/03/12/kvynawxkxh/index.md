@@ -2,7 +2,7 @@
 description: At Areeiro
 published: 2020-03-12T09:22:06Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Ponte da Arrábida
 published: 2021-07-13T11:42:43+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

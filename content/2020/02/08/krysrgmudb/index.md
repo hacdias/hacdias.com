@@ -2,7 +2,7 @@
 description: Trip from Bruxelles Midi to Amsterdam Centraal
 published: 2020-02-08T11:45:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

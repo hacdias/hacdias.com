@@ -2,7 +2,7 @@
 description: At Centrum
 published: 2021-11-28T15:07:13+01:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

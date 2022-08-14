@@ -2,7 +2,7 @@
 description: At Queluz
 published: 2020-06-13T14:46:52+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

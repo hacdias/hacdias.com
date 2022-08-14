@@ -2,9 +2,9 @@
 description: At Grote Markt
 published: 2020-02-07T15:39:28+01:00
 section:
-- checkins
 - photos
 - home
+- places
 properties:
   checkin:
     properties:

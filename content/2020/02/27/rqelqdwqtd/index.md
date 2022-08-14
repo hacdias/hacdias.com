@@ -2,7 +2,7 @@
 description: At IST - Instituto Superior Técnico
 published: 2020-02-27T08:00:08Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

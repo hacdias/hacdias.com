@@ -2,7 +2,7 @@
 description: At Brussels (Brussel)
 published: 2020-02-07T19:25:05+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

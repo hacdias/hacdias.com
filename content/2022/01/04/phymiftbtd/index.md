@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Airport to Eindhoven Piazza
 published: 2022-01-04T19:17:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

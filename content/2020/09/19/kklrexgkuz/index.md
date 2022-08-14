@@ -2,7 +2,7 @@
 description: At TU/e Hoofdgebouw
 published: 2020-09-19T12:16:56+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Metro Saldanha [AM,VM]
 published: 2020-02-29T19:10:06Z
 section:
-- checkins
+- places
 properties:
   checked-in-by:
     properties:

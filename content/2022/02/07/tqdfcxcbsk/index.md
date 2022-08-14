@@ -2,7 +2,7 @@
 description: Trip from Amsterdam Centraal to Eindhoven Centraal
 published: 2022-02-07T17:26:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

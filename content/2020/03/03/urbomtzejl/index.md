@@ -2,7 +2,7 @@
 description: At Pavilhão da Associação de Estudantes
 published: 2020-03-03T12:41:34Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

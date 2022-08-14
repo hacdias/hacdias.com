@@ -3,7 +3,7 @@ description: Trip from Den Haag HS to Kunstmuseum
 deleted: true
 published: 2022-07-02T12:35:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

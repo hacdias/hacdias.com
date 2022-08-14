@@ -2,7 +2,7 @@
 description: At EETidee Koot
 published: 2022-07-02T12:59:04+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

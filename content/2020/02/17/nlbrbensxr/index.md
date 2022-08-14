@@ -2,7 +2,7 @@
 description: At Cantina do Social
 published: 2020-02-17T14:11:53Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

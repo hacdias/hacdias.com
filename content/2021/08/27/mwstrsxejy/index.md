@@ -2,7 +2,7 @@
 description: At De Bijenkorf
 published: 2021-08-27T10:39:30+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

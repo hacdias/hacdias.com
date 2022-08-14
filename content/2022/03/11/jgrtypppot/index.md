@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Centraal to Helmond
 published: 2022-03-11T15:49:00+01:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

@@ -2,7 +2,7 @@
 description: At IST - Sala V1.24
 published: 2020-02-26T15:03:14Z
 section:
-- checkins
+- places
 properties:
   category:
   - properties:

@@ -2,7 +2,7 @@
 description: Trip from Leiden Centraal to Eindhoven Centraal
 published: 2022-05-06T19:54:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

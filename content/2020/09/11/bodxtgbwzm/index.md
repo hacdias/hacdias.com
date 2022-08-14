@@ -2,7 +2,7 @@
 description: At Kasteelpoort
 published: 2020-09-11T14:36:03+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

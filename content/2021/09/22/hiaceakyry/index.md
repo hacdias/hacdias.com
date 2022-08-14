@@ -2,9 +2,9 @@
 description: At Karpendonkse Plas
 published: 2021-09-22T17:55:36+02:00
 section:
-- checkins
 - photos
 - home
+- places
 properties:
   checkin:
     properties:

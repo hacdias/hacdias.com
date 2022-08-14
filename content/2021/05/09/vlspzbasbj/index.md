@@ -2,7 +2,7 @@
 description: At Sint-Servaasbrug
 published: 2021-05-09T13:22:39+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Eetcafé Spijker
 published: 2020-09-01T13:12:17+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

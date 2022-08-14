@@ -2,7 +2,7 @@
 description: At Campo dos Mártires da Pátria
 published: 2021-07-10T15:29:22+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

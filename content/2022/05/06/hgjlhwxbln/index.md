@@ -2,7 +2,7 @@
 description: At Keukenhof Beatrix Paviljoen
 published: 2022-05-06T15:32:18+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

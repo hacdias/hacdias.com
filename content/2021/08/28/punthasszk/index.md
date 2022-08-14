@@ -2,7 +2,7 @@
 description: At SLA
 published: 2021-08-28T14:23:39+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: Trip from Middelburg to Eindhoven Centraal
 published: 2022-05-28T23:08:00+02:00
 section:
-- itineraries
+- places
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

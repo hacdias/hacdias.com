@@ -2,7 +2,7 @@
 description: At Cathedral of Notre-Dame de Paris (Cathédrale Notre-Dame de Paris)
 published: 2021-10-01T09:50:27+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

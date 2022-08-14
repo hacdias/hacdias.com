@@ -2,7 +2,7 @@
 description: At Terminal Fluvial do Terreiro do Paço
 published: 2021-07-10T17:44:42+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

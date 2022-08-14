@@ -2,7 +2,7 @@
 description: At Lisbon (Lisboa)
 published: 2020-03-10T11:04:29Z
 section:
-- checkins
+- places
 properties:
   category:
     properties:

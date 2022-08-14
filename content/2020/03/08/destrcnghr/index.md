@@ -2,7 +2,7 @@
 description: At Largo do Palácio de Queluz
 published: 2020-03-08T16:19:15Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

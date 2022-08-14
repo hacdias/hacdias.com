@@ -2,7 +2,7 @@
 description: At Coffeelab
 published: 2021-03-27T14:14:32+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

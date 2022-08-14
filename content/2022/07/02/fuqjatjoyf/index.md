@@ -2,7 +2,7 @@
 description: At Markthal
 published: 2022-07-02T16:42:01+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

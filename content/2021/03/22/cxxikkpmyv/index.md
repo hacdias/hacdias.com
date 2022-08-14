@@ -2,7 +2,7 @@
 description: At De Kade Post
 published: 2021-03-22T16:49:10+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

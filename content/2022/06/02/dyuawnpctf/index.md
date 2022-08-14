@@ -2,7 +2,7 @@
 description: At Kleermaker Ibo
 published: 2022-06-02T13:35:32+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

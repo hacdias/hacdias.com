@@ -2,7 +2,7 @@
 description: At Scheveningen
 published: 2021-05-02T12:47:01+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

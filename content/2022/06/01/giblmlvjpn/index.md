@@ -2,7 +2,7 @@
 description: At Hubble Community Café
 published: 2022-06-01T19:21:46+02:00
 section:
-- checkins
+- places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

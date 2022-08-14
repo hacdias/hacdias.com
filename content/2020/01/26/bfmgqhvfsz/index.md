@@ -2,7 +2,7 @@
 description: At Sete Rios Train Station (Estação Ferroviária de Sete Rios)
 published: 2020-01-26T17:43:52Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

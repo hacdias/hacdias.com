@@ -2,7 +2,7 @@
 description: At Estação Ferroviária da Funcheira
 published: 2020-01-26T15:42:27Z
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

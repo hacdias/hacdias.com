@@ -2,7 +2,7 @@
 description: At Genneper Parken
 published: 2021-04-24T16:02:39+02:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:

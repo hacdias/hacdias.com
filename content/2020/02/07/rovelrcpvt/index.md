@@ -2,7 +2,7 @@
 description: At Rogier (MIVB | De Lijn)
 published: 2020-02-07T11:21:43+01:00
 section:
-- checkins
+- places
 properties:
   checkin:
     properties:
