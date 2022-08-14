@@ -1,0 +1,26 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2022/08/2022-08-14-nztyu"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "nickname": "en",
+      "photo": "https://cdn.hacdias.com/wm/25f95225b9799e1123ba032a9fd8fb87161d2b3e124500e2246e4ab12707f04a.png",
+      "type": "card",
+      "url": "https://jlelse.blog"
+    },
+    "category": [
+      "IndieWeb"
+    ],
+    "content": "I’ve realized that trying to strictly follow what is on the IndieWeb wiki won’t work well for me. Thus, I have to invent and change some things to make it work better. The IndieWeb Wiki is a good source of inspiration one could use, but I don’t see it as a guideline you need to closely follow. A lot of IndieWeb sites are too much like social media for my taste. Why replicate social media on your site when you have the freedom to make it better? I was never a fan of “post types”, too many restrictions and sometimes hard to choose between them. (Also, should this post be a like, reply or bookmark? 🤔😅)",
+    "in-reply-to": [
+      "https://hacdias.com/2022/08/14/should-every-update-be-a-post"
+    ],
+    "post-type": "reply",
+    "published": "2022-08-14T20:18:04+02:00",
+    "type": "entry",
+    "url": "https://jlelse.blog/micro/2022/08/2022-08-14-nztyu"
+  },
+  "webmentions": []
+}
