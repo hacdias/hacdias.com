@@ -1,28 +1,48 @@
 ---
 title: Home
-description: Henrique is doing his Master's in Computer Science and Engineering while
-  working on the most fascinating projects to decentralize the web at Protocol Labs.
+description: >
+  Henrique is nearly graduating from his Master's in Computer Science and Engineering
+  while working on decentralizing the web at Protocol Labs.
 isListing: true
 ---
 
-<style>
-  figure.me {
-    max-width: 8rem;
-    margin-top: 0rem;
-    margin-left: 1rem;
-  }
+![Me!](/profile/2022-03-26/me-512.jpg?class=right+me)
 
-  figure.me img {
-    border-radius: var(--radius)
-  }
-</style>
+**HI 👋, I'M HENRIQUE** (he/him), a Portuguese-born 🇵🇹 being that is currently living in The Netherlands 🇳🇱. I enjoy learning about new things, taking photographs, playing badminton, and programming. I'm a nearly graduating 🎓 master's student, and a software engineer 🛠 interested in web infrastructure, decentralized systems, and making tools for developers and users. I like coffee ☕️ and tea 🍵 alike.
 
-<div style="margin: var(--ls) 0">
+<div class="home-only dn">
 
-![Me!](/profile/2022-06-02/me-512.jpg?class=right+me)
+I use this corner of the Internet to write about [anything](/all) that might interest me, as well as to [own my data](/colophon). You will find many different types of posts, as well as odd experiments 🧪.
 
-**HI 👋, I'M HENRIQUE** (he/him), a nearly graduating 🎓 master's student, and a software engineer 🛠 interested in web infrastructure, decentralized systems,
-and usable tools for developers and users. I was born in Portugal 🇵🇹. Currently, I live in the Netherlands 🇳🇱 and work with [Protocol Labs](https://protocol.ai) on the decentralization of the web.
+<div class="lists">
+<div class="terms">
+
+- [**Do you want to chat?** 🔗](/contact)
+- [✉️ E-mail: mail@hacdias.com](mailto:mail@hacdias.com)
+- [☎️ Telegram:  @hacdias](https://t.me/hacdias)
+- [🎮 Discord: `hacdias#2540`](https://discord.com/users/hacdias#2540)
+- [✨ Matrix: `@hacdias:tchncs.de`](https://matrix.to/#/@hacdias:tchncs.de)
+
+</div>
+<div class="terms">
+
+- [**I'm Also Elsewhere** 🔗](/contact#elsewhere)
+- [🐙 GitHub](https://github.com/hacdias)
+- [🐦 Twitter](https://twitter.com/hacdias)
+- [📷 Instagram](https://instagram.com/hacdias)
+- [💼 LinkedIn](https://linkedin.com/in/hacdias)
+
+</div>
+<div class="terms">
+
+- [**Here's Some Pages** 🔗](/more)
+- [🛠 Uses](/uses)
+- [🚀 Impossible List](/impossible-list)
+- [⚙️ Colophon](/colophon)
+- [🗞 Blogroll](/blogroll)
+
+</div>
+</div>
 
 </div>
 

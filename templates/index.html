@@ -2,10 +2,10 @@
   <main role="main">
     {{ include "base/admin" . }}
   
-    <div class="copy">
+    <div class="copy {{ if eq .Data.Page 0 }}home{{ end }}">
       {{ md .Content }}
       
-      <h3 id=latest>🚀 Latest{{ with .Data.Page }} ({{.}}){{ end }}</h3>
+      <h3 id=latest>🌻 Latest Posts {{ with .Data.Page }} ({{.}}){{ end }}</h3>
 
       <div class=box>
         <p>The posts in this home page are semi-curated, which means that you do not see <a href="{{ relURL "/all" }}">everything</a>.</p>
