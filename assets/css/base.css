@@ -551,18 +551,22 @@ figure.right {
 
 .terms li {
   display: inline-block;
-  margin: 0 .5rem .5rem 0;
+  margin: 0 var(--hms) var(--hms) 0;
 }
 
 .terms a,
 .terms a:visited {
   text-decoration: none;
-  font-size: .875rem;
-  padding: .5rem;
+  font-size: var(--f6);
+  padding: var(--hms);
   background-color: var(--near-white);
   border-radius: var(--radius);
   color: var(--gray);
   display: inline-block;
+}
+
+.terms a:hover {
+  background-color: var(--light-white);
 }
 
 .terms.bold a,
