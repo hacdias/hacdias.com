@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "https://hacdias.com/2022/08/14/should-every-update-be-a-post"
+  ],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
+        "type": "card",
+        "url": ""
+      },
+      "content": "I've found Shaarli to work well for this. Tags, notes with markdown-formatting support, RSS feeds including a daily digest, etc...",
+      "in-reply-to": "https://hacdias.com/2022/08/15/llpalrunje",
+      "post-type": "reply",
+      "published": "2022-08-15T20:47:22Z",
+      "type": "entry",
+      "url": "https://commentpara.de/comment/1084.htm",
+      "wm-id": 1459742,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-08-15T20:47:22Z",
+      "wm-source": "https://commentpara.de/comment/1084.htm",
+      "wm-target": "https://hacdias.com/2022/08/15/llpalrunje"
+    }
+  ]
+}

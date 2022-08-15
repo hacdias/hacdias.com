@@ -8,6 +8,26 @@
   "webmentions": [
     {
       "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "That’s exactly what I do, too. There’s no need to keep them apart—Microsub readers or “Webmention parsers” will be able to tell which is which from the markup/microformats used, and will sometimes make the choice for you (cf. the “post type discovery” algo)—although everyone is free to do whatever they like best, obviously. I am planning on merging notes, replies, reposts and RSVPs under the same section. I kind of “hide” my replies behind a link, though, although they’re all there in my feed. And I keep likes and listens separate because, well, they’re currently more of an experiment, I guess.",
+      "in-reply-to": "https://hacdias.com/2022/08/14/should-every-update-be-a-post",
+      "post-type": "reply",
+      "published": "2022-08-14T23:41:50+02:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/notes/1efb63d414",
+      "wm-id": 1459097,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-08-14T21:50:04Z",
+      "wm-source": "https://jan.boddez.net/notes/1efb63d414",
+      "wm-target": "https://hacdias.com/2022/08/14/should-every-update-be-a-post"
+    },
+    {
+      "author": {
         "name": "Jan-Lukas Else",
         "photo": "https://cdn.hacdias.com/wm/2aa312f6a3b877b94d838368201e6cf9d0ee24dbc72a4d8f7b15e4c442885df1.png",
         "type": "card",
@@ -28,22 +48,29 @@
     },
     {
       "author": {
-        "name": "Jan Boddez",
-        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
         "type": "card",
-        "url": "https://jan.boddez.net/"
+        "url": "https://hacdias.com/"
       },
-      "content": "That’s exactly what I do, too. There’s no need to keep them apart—Microsub readers or “Webmention parsers” will be able to tell which is which from the markup/microformats used, and will sometimes make the choice for you (cf. the “post type discovery” algo)—although everyone is free to do whatever they like best, obviously. I am planning on merging notes, replies, reposts and RSVPs under the same section. I kind of “hide” my replies behind a link, though, although they’re all there in my feed. And I keep likes and listens separate because, well, they’re currently more of an experiment, I guess.",
-      "in-reply-to": "https://hacdias.com/2022/08/14/should-every-update-be-a-post",
-      "post-type": "reply",
-      "published": "2022-08-14T23:41:50+02:00",
+      "content": "Bookmarks. Yesterday I mentioned I want to improve the bookmarks section in my website. However, I am also considering on some self-hosted services. I want a simple way to bookmark pages and possibly add notes to them, as well as tags. Do you use any service for this? How do you “solve” this problem?",
+      "mention-of": "https://hacdias.com/2022/08/14/should-every-update-be-a-post",
+      "post-type": "mention",
+      "published": "2022-08-15T22:17:45+02:00",
+      "rels": {
+        "canonical": "https://hacdias.com/2022/08/15/llpalrunje"
+      },
+      "summary": {
+        "content-type": "text/plain",
+        "value": "Bookmarks. Yesterday I mentioned I want to improve the bookmarks section in my website. However, I am also considering on some self-hosted services. I want a simple way to bookmark pages and possibly add notes to them, as well as tags. Do you use any service for this? How do you \"solve\" this problem…"
+      },
       "type": "entry",
-      "url": "https://jan.boddez.net/notes/1efb63d414",
-      "wm-id": 1459097,
+      "url": "https://hacdias.com/2022/08/15/llpalrunje",
+      "wm-id": 1459730,
       "wm-private": false,
-      "wm-property": "in-reply-to",
-      "wm-received": "2022-08-14T21:50:04Z",
-      "wm-source": "https://jan.boddez.net/notes/1efb63d414",
+      "wm-property": "mention-of",
+      "wm-received": "2022-08-15T20:17:47Z",
+      "wm-source": "https://hacdias.com/2022/08/15/llpalrunje",
       "wm-target": "https://hacdias.com/2022/08/14/should-every-update-be-a-post"
     }
   ]
