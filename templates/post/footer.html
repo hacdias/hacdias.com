@@ -27,12 +27,12 @@
         {{- if $hasDate }}
           {{- if .Updated.After .Published -}}
             <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
-              Updated on <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Updated.Format "02 Jan 2006 15:04 MST" }}</a>
+              <a href="{{ relURL .Permalink }}" class="u-url nl">Updated on {{ .Updated.Format "02 Jan 2006 15:04 MST" }}</a>
             </time>
             <time class='dt-published dn' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
           {{- else if not .Published.IsZero -}}
             <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
-              Published on <a href="{{ relURL .Permalink }}" class="u-url nl">{{ .Published.Format "02 Jan 2006 15:04 MST" }}</a>
+              <a href="{{ relURL .Permalink }}" class="u-url nl">Published on {{ .Published.Format "02 Jan 2006 15:04 MST" }}</a>
             </time>
           {{- end -}}
         {{- else if $hasNoTitle }}
