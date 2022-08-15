@@ -1,5 +1,7 @@
 ---
 title: 'Simon vs. the Homo Sapiens Agenda by Becky Albertalli (ISBN: 9780062348678)'
+section:
+- reads
 properties:
   read-of:
     properties:

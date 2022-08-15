@@ -3,13 +3,18 @@
 <main role='main'>
   {{ include "base/admin" . }}
 
-  <article class='{{ if ne .Helper.PostType "article" }}card {{ end }}h-entry'>
+  {{ $type := .Helper.PostType }}
+  <article class='{{ if ne $type "article" }}card {{ end }}h-entry'>
     {{ include "post/header" . }}
 
     {{ with .Entry.Content }}
       <div class='copy e-content'>{{ md . }}</div>
     {{ end }}
 
+    {{ if eq $type "read" }}
+      <div class='copy'>{{ include "post/read-status" . }}</div>
+    {{ end }}
+    
     {{ include "post/media" . }}
     {{ include "post/footer" . }}
 

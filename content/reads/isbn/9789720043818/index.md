@@ -1,5 +1,7 @@
 ---
 title: 'Divergente by Veronica Roth (ISBN: 9789720043818)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: Divergente
       uid: isbn:9789720043818
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

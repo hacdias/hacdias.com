@@ -1,0 +1,30 @@
+{{ define "post/read-status" }}
+  {{ with index .Properties "read-status" }}
+    {{ if gt (len .) 1 }}
+      <p><strong>Reading Progress</strong></p>
+
+      <ul>
+        {{ range . }}
+        <li>
+          {{ if eq .status "to-read" }}
+            📚 Want to read
+          {{ else if eq .status "finished" }}
+            📕 Finished
+          {{ else if eq .status "reading" }}
+            {{ $page := index . "page" }}
+            {{ $percentage := index  . "percentage" }}
+            {{ if $page }}
+              📖 On page {{ $page }}
+            {{ else if $percentage }}
+              📖 Read {{ $percentage }}% of
+            {{ else }}
+              📖 Reading
+            {{ end }}
+          {{ end }}
+          {{ with .date }}<small>on {{ dateFormat . "02 Jan 2006 15:04 MST" }}</small>{{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+{{ end }}

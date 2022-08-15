@@ -1,5 +1,7 @@
 ---
 title: 'Uma Aventura no Bosque by Ana Maria Magalhães (ISBN: 9789722100045)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: Uma Aventura no Bosque
       uid: isbn:9789722100045
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

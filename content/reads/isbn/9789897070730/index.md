@@ -1,5 +1,7 @@
 ---
 title: 'O Diário de Um Lobisomem Banana by Tim Collins (ISBN: 9789897070730)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: O Diário de Um Lobisomem Banana
       uid: isbn:9789897070730
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

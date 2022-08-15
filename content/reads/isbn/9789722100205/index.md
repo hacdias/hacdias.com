@@ -1,5 +1,7 @@
 ---
 title: 'Uma Aventura no Deserto by Ana Maria Magalhães (ISBN: 9789722100205)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: Uma Aventura no Deserto
       uid: isbn:9789722100205
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

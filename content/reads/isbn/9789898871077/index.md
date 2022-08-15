@@ -1,5 +1,7 @@
 ---
 title: 'O Caderno das Piadas Secas by Gonçalo Castro (ISBN: 9789898871077)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: O Caderno das Piadas Secas
       uid: isbn:9789898871077
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

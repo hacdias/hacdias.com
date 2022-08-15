@@ -1,5 +1,7 @@
 ---
 title: 'O Mistério do Saco da Roupa by Enid Blyton (ISBN: 9789897410543)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: O Mistério do Saco da Roupa
       uid: isbn:9789897410543
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

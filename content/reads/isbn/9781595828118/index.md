@@ -1,7 +1,12 @@
 ---
 title: 'The Promise - Part 1 by Bryan Konietzko, Michael Dante DiMartino (ISBN: 9781595828118)'
+published: 2022-02-18T08:02:43.649069007+01:00
+updated: 2022-02-18T08:02:43.649069007+01:00
+section:
+- reads
 createdWith: https://hacdias.com/
 properties:
+  rating: 4
   read-of:
     properties:
       author: Bryan Konietzko, Michael Dante DiMartino
@@ -10,6 +15,9 @@ properties:
       publisher: Dark Horse
       uid: isbn:9781595828118
     type: h-cite
+  read-status:
+  - date: "2022-02-18T08:02:43.649069007+01:00"
+    status: finished
 ---
 
 

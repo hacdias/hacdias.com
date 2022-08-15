@@ -1,5 +1,7 @@
 ---
 title: 'O Prenúncio das Águas by Rosa Lobato de Faria (ISBN: 9789724129709)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: O Prenúncio das Águas
       uid: isbn:9789724129709
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

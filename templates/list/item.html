@@ -12,6 +12,10 @@
       {{ with .Content }}
         <div class='copy e-content'>{{ md . }}</div>
       {{ end }}
+
+      {{ if eq .Helper.PostType "read" }}
+        <div class='copy'>{{ include "post/read-status" . }}</div>
+      {{ end }}
     {{ end }}
 
     {{ include "post/media" . }}

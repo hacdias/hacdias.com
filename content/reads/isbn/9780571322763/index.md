@@ -1,5 +1,9 @@
 ---
 title: 'Look Back in Anger by John Osborne (ISBN: 9780571322763)'
+published: 2016-09-23T07:00:00Z
+updated: 2016-09-23T07:00:00Z
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +11,9 @@ properties:
       name: Look Back in Anger
       uid: isbn:9780571322763
     type: h-cite
+  read-status:
+  - date: "2016-09-23T07:00:00Z"
+    status: finished
 ---
 
 

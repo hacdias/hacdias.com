@@ -33,5 +33,9 @@
 
   {{- with .Content }}{{ md . }}{{ end -}}
 
+  {{- if eq $type "read" }}
+    {{ include "post/read-status" . }}
+  {{ end -}}
+
   {{ include "post/media" . }}
 {{ end }}

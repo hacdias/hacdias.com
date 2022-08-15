@@ -1,5 +1,7 @@
 ---
 title: 'O Teorema Katherine by John Green (ISBN: 9789892326337)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: O Teorema Katherine
       uid: isbn:9789892326337
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

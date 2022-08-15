@@ -1,5 +1,7 @@
 ---
 title: 'Convergente by Veronica Roth (ISBN: 9789720043832)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: Convergente
       uid: isbn:9789720043832
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

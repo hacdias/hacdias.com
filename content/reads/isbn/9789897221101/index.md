@@ -1,5 +1,7 @@
 ---
 title: 'A Vida no Céu by José Eduardo Agualusa (ISBN: 9789897221101)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: A Vida no Céu
       uid: isbn:9789897221101
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

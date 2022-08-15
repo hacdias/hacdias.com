@@ -1,5 +1,9 @@
 ---
 title: 'Harry Potter and the Half-Blood Prince by J.K. Rowling (ISBN: 9781408855706)'
+published: 2017-01-26T08:00:00Z
+updated: 2017-01-26T08:00:00Z
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +11,9 @@ properties:
       name: Harry Potter and the Half-Blood Prince
       uid: isbn:9781408855706
     type: h-cite
+  read-status:
+  - date: "2017-01-26T08:00:00Z"
+    status: finished
 ---
 
 

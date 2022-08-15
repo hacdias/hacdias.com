@@ -1,5 +1,7 @@
 ---
 title: 'Uma Aventura na Amazónia by Ana Maria Magalhães (ISBN: 9789722120388)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: Uma Aventura na Amazónia
       uid: isbn:9789722120388
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

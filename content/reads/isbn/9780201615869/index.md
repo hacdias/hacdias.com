@@ -1,5 +1,9 @@
 ---
 title: 'The Practice of Programming by Brian W. Kernighan (ISBN: 9780201615869)'
+published: 2018-06-25T07:00:00Z
+updated: 2018-06-25T07:00:00Z
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +11,9 @@ properties:
       name: The Practice of Programming
       uid: isbn:9780201615869
     type: h-cite
+  read-status:
+  - date: "2018-06-25T07:00:00Z"
+    status: finished
 ---
 
 

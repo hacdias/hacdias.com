@@ -1,5 +1,7 @@
 ---
 title: 'Apreciada by Caragh M. O''Brien (ISBN: 9789895018987)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: Apreciada
       uid: isbn:9789895018987
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

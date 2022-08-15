@@ -1,6 +1,8 @@
 ---
 title: 'Os Lusíadas Contados às Crianças e Lembrados ao Povo by João de Barros (ISBN:
   9789898470249)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -8,6 +10,8 @@ properties:
       name: Os Lusíadas Contados às Crianças e Lembrados ao Povo
       uid: isbn:9789898470249
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 

@@ -1,5 +1,7 @@
 ---
 title: 'The Master and Margarita by Mikhail Bulgakov (ISBN: 9781847497826)'
+section:
+- reads
 properties:
   read-of:
     properties:

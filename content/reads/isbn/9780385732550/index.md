@@ -1,5 +1,7 @@
 ---
 title: 'The Giver by Lois Lowry (ISBN: 9780385732550)'
+section:
+- reads
 properties:
   read-of:
     properties:
@@ -7,6 +9,8 @@ properties:
       name: The Giver
       uid: isbn:9780385732550
     type: h-cite
+  read-status:
+  - status: finished
 ---
 
 
