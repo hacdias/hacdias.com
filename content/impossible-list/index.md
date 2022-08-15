@@ -3,7 +3,7 @@ title: Impossible List
 description: This is my impossible list, where I define and check some major life
   experiences I want to experience.
 published: 2020-07-15T00:00:00Z
-updated: 2022-07-16T11:02:15.239345526+02:00
+updated: 2022-08-15T09:16:58.969864239+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -57,6 +57,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 6. [ ] Interrail across 🇪🇺 Europe
 7. [ ] See the Aurora Borealis
 8. [x] ~~Be in a train between mainland 🇪🇺 Europe and the 🇬🇧 UK~~ <small>[[April 2022]](/2022/04/21/qdcpiiabml)</small>
+9. [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 
 **Countries Bucket List**
 
@@ -129,7 +130,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 5. [ ] Volunteer for a good cause for 6 months
 6. [ ] Donate for a good cause for 6 months
 7. [ ] Go on a hot air 🎈 balloon ride 
-8. [ ] Go to a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 
 ## Health and Fitness Goals
 
