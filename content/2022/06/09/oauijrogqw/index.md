@@ -13,9 +13,6 @@ properties:
       longitude: 5.48614
       region: North Brabant
     type: h-adr
-  mp-channel:
-  - notes
-  - home
   syndication: https://twitter.com/hacdias/status/1535008116345036836
 ---
 
