@@ -1,10 +1,5 @@
 {
-  "targets": [
-    "https://ownyourswarm.p3k.io/checkin/619f69c57aeddf59647b5ecf/bc2325942cbe0abc4468f2a0a40923b9",
-    "https://ownyourswarm.p3k.io/checkin/619f69c57aeddf59647b5ecf/e86850b0f115e7ec19943425a55e88bf",
-    "https://ownyourswarm.p3k.io/checkin/619f69c57aeddf59647b5ecf/901d2062fe377d8f54b57d96cafc0d5b",
-    "https://ownyourswarm.p3k.io/checkin/619f69c57aeddf59647b5ecf/da9f88a80f089bb211ead199267b713f"
-  ],
+  "targets": [],
   "context": null,
   "webmentions": [
     {

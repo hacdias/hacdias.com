@@ -2,7 +2,6 @@
 description: 'Just ate: Crispy Potato Pancake'
 published: 2022-06-19T18:37:46Z
 section:
-- photos
 - food
 createdWith: https://micropublish.net/
 properties:

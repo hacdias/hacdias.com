@@ -2,10 +2,11 @@
 description: At Centrum
 published: 2021-11-06T20:00:00+01:00
 section:
-- photos
 - home
 - places
 properties:
+  category:
+  - glow-festival
   checkin:
     properties:
       country-name: Netherlands

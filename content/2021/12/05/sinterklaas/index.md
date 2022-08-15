@@ -1,7 +1,7 @@
 ---
 published: 2021-12-05T21:46:59.051716579Z
 section:
-- photos
+- micro
 - home
 createdWith: https://quill.p3k.io/
 properties:

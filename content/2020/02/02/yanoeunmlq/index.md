@@ -2,7 +2,6 @@
 description: At Ponte 25 de Abril
 published: 2020-02-02T17:37:52Z
 section:
-- photos
 - home
 - places
 properties:

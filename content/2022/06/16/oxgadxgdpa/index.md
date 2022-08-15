@@ -2,7 +2,6 @@
 description: "Just ate: Cherries \U0001F352 "
 published: 2022-06-16T18:25:44Z
 section:
-- photos
 - home
 - food
 createdWith: https://micropublish.net/

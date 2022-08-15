@@ -2,7 +2,6 @@
 description: 'Just ate: Ice Cream'
 published: 2022-06-19T19:44:54Z
 section:
-- photos
 - food
 createdWith: https://micropublish.net/
 properties:

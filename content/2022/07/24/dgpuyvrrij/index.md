@@ -2,7 +2,6 @@
 description: 'Just ate: Shrimp, Greens and Rice'
 published: 2022-07-24T16:47:51Z
 section:
-- photos
 - food
 createdWith: https://micropublish.net/
 properties:

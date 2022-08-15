@@ -2,7 +2,8 @@
 description: At Genneper Parken
 published: 2022-08-09T18:20:17+02:00
 section:
-- photos
+- home
+- micro
 - places
 createdWith: https://ownyourswarm.p3k.io/
 photoClass: grid-xwcwairvhv fg

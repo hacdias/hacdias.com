@@ -2,7 +2,6 @@
 description: At Vallée de la Pétrusse
 published: 2020-02-04T10:49:36+01:00
 section:
-- photos
 - home
 - places
 properties:

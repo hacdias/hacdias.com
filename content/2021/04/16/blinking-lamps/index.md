@@ -1,7 +1,6 @@
 ---
 published: 2021-04-16T09:14:25.896762407Z
 section:
-- photos
 - home
 - micro
 photoClass: pixelated

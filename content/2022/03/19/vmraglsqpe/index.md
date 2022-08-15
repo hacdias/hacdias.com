@@ -2,7 +2,6 @@
 description: At XU Noodle Bar
 published: 2022-03-19T20:23:19+01:00
 section:
-- photos
 - home
 - places
 createdWith: https://ownyourswarm.p3k.io/

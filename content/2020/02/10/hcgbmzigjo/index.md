@@ -2,7 +2,6 @@
 description: At Molen De Gooyer
 published: 2020-02-10T10:52:39+01:00
 section:
-- photos
 - home
 - places
 properties:

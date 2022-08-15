@@ -1,7 +1,6 @@
 ---
 published: 2020-03-15T00:00:00Z
 section:
-- photos
 - home
 - micro
 properties:

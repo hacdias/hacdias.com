@@ -3,7 +3,6 @@ description: 'Just ate: Fried Cuttlefish with French Fries'
 published: 2022-04-02T12:39:31Z
 section:
 - home
-- photos
 - food
 createdWith: https://micropublish.net/
 properties:

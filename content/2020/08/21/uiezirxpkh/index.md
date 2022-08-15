@@ -2,7 +2,6 @@
 description: At Runway Faro Airport
 published: 2020-08-21T06:25:06+01:00
 section:
-- photos
 - home
 - places
 properties:

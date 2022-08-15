@@ -2,7 +2,6 @@
 description: At Belgian Federal Parliament (Federaal Parlement van België)
 published: 2020-02-07T11:01:37+01:00
 section:
-- photos
 - home
 - places
 properties:

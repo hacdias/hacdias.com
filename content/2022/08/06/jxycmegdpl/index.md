@@ -2,7 +2,6 @@
 description: 'Just ate: Lavender Goat Cheese'
 published: 2022-08-06T16:36:20Z
 section:
-- photos
 - food
 createdWith: https://micropublish.net/
 properties:

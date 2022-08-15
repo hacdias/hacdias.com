@@ -2,7 +2,6 @@
 description: 'Just drank: Ananás Bubble Tea'
 published: 2022-06-04T15:25:25Z
 section:
-- photos
 - home
 - food
 createdWith: https://micropublish.net/
