@@ -1,5 +1,5 @@
 ---
-title: 'A última noite do mundo by Álvaro Magalhães (ISBN: 9789892317465)'
+description: 'A última noite do mundo by Álvaro Magalhães (ISBN: 9789892317465)'
 section:
 - reads
 properties:

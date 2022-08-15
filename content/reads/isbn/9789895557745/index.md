@@ -1,5 +1,5 @@
 ---
-title: 'Os Cinco na Ilha do Tesouro by Enid Blyton (ISBN: 9789895557745)'
+description: 'Os Cinco na Ilha do Tesouro by Enid Blyton (ISBN: 9789895557745)'
 section:
 - reads
 properties:

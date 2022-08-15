@@ -1,5 +1,5 @@
 ---
-title: 'How to Win Friends and Influence People by Dale Carnegie (ISBN: 9780091906818)'
+description: 'How to Win Friends and Influence People by Dale Carnegie (ISBN: 9780091906818)'
 section:
 - reads
 properties:

@@ -1,5 +1,5 @@
 ---
-title: 'O Mistério das Cartas Anónimas by Enid Blyton (ISBN: 9789895554836)'
+description: 'O Mistério das Cartas Anónimas by Enid Blyton (ISBN: 9789895554836)'
 section:
 - reads
 properties:

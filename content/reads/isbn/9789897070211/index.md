@@ -1,5 +1,5 @@
 ---
-title: 'Príncipe da Tansilvânia by Tim Collins (ISBN: 9789897070211)'
+description: 'Príncipe da Tansilvânia by Tim Collins (ISBN: 9789897070211)'
 section:
 - reads
 properties:

@@ -1,5 +1,5 @@
 ---
-title: 'Vem aí o cometa negro! by Álvaro Magalhães (ISBN: 9789892313214)'
+description: 'Vem aí o cometa negro! by Álvaro Magalhães (ISBN: 9789892313214)'
 section:
 - reads
 properties:

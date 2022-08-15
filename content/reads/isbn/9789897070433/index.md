@@ -1,5 +1,5 @@
 ---
-title: 'A Verdade Nua e Crua by Jeff Kinney (ISBN: 9789897070433)'
+description: 'A Verdade Nua e Crua by Jeff Kinney (ISBN: 9789897070433)'
 section:
 - reads
 properties:

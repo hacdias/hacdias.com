@@ -1,5 +1,5 @@
 ---
-title: 'Nineteen Eighty-Four by George Orwell (ISBN: 9780141393049)'
+description: 'Nineteen Eighty-Four by George Orwell (ISBN: 9780141393049)'
 published: 2016-10-14T07:00:00Z
 updated: 2016-10-14T07:00:00Z
 section:

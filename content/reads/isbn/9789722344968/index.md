@@ -1,5 +1,5 @@
 ---
-title: 'Quatro Ratos no Faroeste! by Geronimo Stilton (ISBN: 9789722344968)'
+description: 'Quatro Ratos no Faroeste! by Geronimo Stilton (ISBN: 9789722344968)'
 section:
 - reads
 properties:

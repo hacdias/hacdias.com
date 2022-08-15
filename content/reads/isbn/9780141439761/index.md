@@ -1,6 +1,6 @@
 ---
-title: 'Alice''s Adventures in Wonderland and Through the Looking-Glass by Lewis Carroll
-  (ISBN: 9780141439761)'
+description: 'Alice''s Adventures in Wonderland and Through the Looking-Glass by Lewis
+  Carroll (ISBN: 9780141439761)'
 published: 2020-01-31T08:00:00Z
 updated: 2020-01-31T08:00:00Z
 section:

@@ -1,5 +1,5 @@
 ---
-title: 'Uma Aventura no Verão by Ana Maria Magalhães (ISBN: 9789722107747)'
+description: 'Uma Aventura no Verão by Ana Maria Magalhães (ISBN: 9789722107747)'
 section:
 - reads
 properties:

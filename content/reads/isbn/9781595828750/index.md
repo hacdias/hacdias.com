@@ -1,5 +1,6 @@
 ---
-title: 'The Promise - Part 2 by Bryan Konietzko, Michael Dante DiMartino (ISBN: 9781595828750)'
+description: 'The Promise - Part 2 by Bryan Konietzko, Michael Dante DiMartino (ISBN:
+  9781595828750)'
 published: 2022-02-26T11:41:40.869966981+01:00
 updated: 2022-02-26T11:41:40.869966981+01:00
 section:

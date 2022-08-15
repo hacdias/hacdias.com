@@ -1,5 +1,5 @@
 ---
-title: 'Tirem-me Daqui! by Jeff Kinney (ISBN: 9789897071102)'
+description: 'Tirem-me Daqui! by Jeff Kinney (ISBN: 9789897071102)'
 section:
 - reads
 properties:

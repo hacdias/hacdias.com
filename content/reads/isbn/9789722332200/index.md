@@ -1,5 +1,5 @@
 ---
-title: 'A Última Batalha by C.S. Lewis (ISBN: 9789722332200)'
+description: 'A Última Batalha by C.S. Lewis (ISBN: 9789722332200)'
 section:
 - reads
 properties:

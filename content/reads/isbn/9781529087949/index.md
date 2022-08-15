@@ -1,5 +1,5 @@
 ---
-title: 'The House in the Cerulean Sea by TJ Klune (ISBN: 9781529087949)'
+description: 'The House in the Cerulean Sea by TJ Klune (ISBN: 9781529087949)'
 published: 2022-01-12T10:41:51.828233835Z
 updated: 2022-01-22T22:02:22.969462984Z
 section:

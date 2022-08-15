@@ -1,5 +1,5 @@
 ---
-title: 'O Teorema Katherine by John Green (ISBN: 9789892326337)'
+description: 'O Teorema Katherine by John Green (ISBN: 9789892326337)'
 section:
 - reads
 properties:

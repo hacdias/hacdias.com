@@ -1,5 +1,5 @@
 ---
-title: 'Verschrikkelijke beestjes by Elise Gravel (ISBN: 9789045127330)'
+description: 'Verschrikkelijke beestjes by Elise Gravel (ISBN: 9789045127330)'
 published: 2022-03-22T23:24:07.98417246+01:00
 updated: 2022-03-30T20:32:49.387267805+02:00
 section:

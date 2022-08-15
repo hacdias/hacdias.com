@@ -1,5 +1,5 @@
 ---
-title: 'Uma Aventura entre Douro e Minho by Ana Maria Magalhães (ISBN: 9789722100052)'
+description: 'Uma Aventura entre Douro e Minho by Ana Maria Magalhães (ISBN: 9789722100052)'
 section:
 - reads
 properties:

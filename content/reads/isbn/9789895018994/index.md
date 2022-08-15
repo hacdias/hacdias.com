@@ -1,5 +1,5 @@
 ---
-title: 'Prometidos by Caragh M. O''Brien (ISBN: 9789895018994)'
+description: 'Prometidos by Caragh M. O''Brien (ISBN: 9789895018994)'
 section:
 - reads
 properties:

@@ -1,5 +1,5 @@
 ---
-title: 'O Trono de Prata by C.S. Lewis (ISBN: 9789722331685)'
+description: 'O Trono de Prata by C.S. Lewis (ISBN: 9789722331685)'
 section:
 - reads
 properties:

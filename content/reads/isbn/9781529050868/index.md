@@ -1,5 +1,5 @@
 ---
-title: 'Tales from the Cafe by Toshikazu Kawaguchi (ISBN: 9781529050868)'
+description: 'Tales from the Cafe by Toshikazu Kawaguchi (ISBN: 9781529050868)'
 published: 2022-01-25T20:46:03.189906235Z
 updated: 2022-03-02T22:44:27.016541578+01:00
 section:

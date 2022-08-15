@@ -3,7 +3,7 @@
   {{ $canonical := $mf2.String $mf2.TypeProperty }}
   {{ $read := $mf2.Sub $mf2.TypeProperty }}
 
-  <div class="p-read-of h-cite ibox">
+  <div class="ibox p-read-of h-cite">
     <p>
       {{ with index .Properties "read-status" }}
         {{ with (index . 0) }}
@@ -17,9 +17,8 @@
         {{ end }}
       {{ end }}
     
-      <span class="h-cite">
-        <strong><span class="p-name">{{ $read.Name }}</span></strong> by <span class="p-author">{{ $read.String "author" }}</span>
-      </span>
+      <strong><span class="p-name">{{ $read.Name }}</span></strong>
+      by <span class="p-author">{{ $read.String "author" }}</span>
     </p>
 
     <p style="margin-bottom: 0">

@@ -1,5 +1,5 @@
 ---
-title: 'Uma Aventura na Praia by Ana Maria Magalhães (ISBN: 9789722108997)'
+description: 'Uma Aventura na Praia by Ana Maria Magalhães (ISBN: 9789722108997)'
 section:
 - reads
 properties:

@@ -1,5 +1,5 @@
 ---
-title: 'O Herói Desaparecido by Rick Riordan (ISBN: 9789896574918)'
+description: 'O Herói Desaparecido by Rick Riordan (ISBN: 9789896574918)'
 section:
 - reads
 properties:

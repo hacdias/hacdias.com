@@ -1,5 +1,5 @@
 ---
-title: 'Capitães da Areia by Jorge Amado (ISBN: 9789896530075)'
+description: 'Capitães da Areia by Jorge Amado (ISBN: 9789896530075)'
 section:
 - reads
 properties:

@@ -1,5 +1,5 @@
 ---
-title: 'A Vida no Céu by José Eduardo Agualusa (ISBN: 9789897221101)'
+description: 'A Vida no Céu by José Eduardo Agualusa (ISBN: 9789897221101)'
 section:
 - reads
 properties:

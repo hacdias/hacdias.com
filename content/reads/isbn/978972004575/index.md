@@ -1,5 +1,5 @@
 ---
-title: 'Os Maias by Eça de Queirós (ISBN: 978972004575)'
+description: 'Os Maias by Eça de Queirós (ISBN: 978972004575)'
 section:
 - reads
 properties:

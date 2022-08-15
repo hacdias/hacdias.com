@@ -1,5 +1,5 @@
 ---
-title: 'Divergente by Veronica Roth (ISBN: 9789720043818)'
+description: 'Divergente by Veronica Roth (ISBN: 9789720043818)'
 section:
 - reads
 properties:

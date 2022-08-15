@@ -1,5 +1,5 @@
 ---
-title: 'Operação "espelho meu" by Álvaro Magalhães (ISBN: 9789892314969)'
+description: 'Operação "espelho meu" by Álvaro Magalhães (ISBN: 9789892314969)'
 section:
 - reads
 properties:

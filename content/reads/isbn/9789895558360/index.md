@@ -1,5 +1,5 @@
 ---
-title: 'Os Cinco e os Contrabandistas by Enid Blyton (ISBN: 9789895558360)'
+description: 'Os Cinco e os Contrabandistas by Enid Blyton (ISBN: 9789895558360)'
 section:
 - reads
 properties:

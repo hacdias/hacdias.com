@@ -1,5 +1,5 @@
 ---
-title: 'Bananus Maximus by Tim Collins (ISBN: 9789897071140)'
+description: 'Bananus Maximus by Tim Collins (ISBN: 9789897071140)'
 section:
 - reads
 properties:

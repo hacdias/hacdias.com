@@ -1,5 +1,5 @@
 ---
-title: 'Uma Aventura Secreta by Ana Maria Magalhães (ISBN: 9789722114677)'
+description: 'Uma Aventura Secreta by Ana Maria Magalhães (ISBN: 9789722114677)'
 section:
 - reads
 properties:

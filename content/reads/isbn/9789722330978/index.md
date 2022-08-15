@@ -1,5 +1,5 @@
 ---
-title: 'O Príncipe Caspian by C.S. Lewis (ISBN: 9789722330978)'
+description: 'O Príncipe Caspian by C.S. Lewis (ISBN: 9789722330978)'
 section:
 - reads
 properties:

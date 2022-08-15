@@ -1,5 +1,5 @@
 ---
-title: 'O Manuscrito Misterioso by Geronimo Stilton (ISBN: 9789722334723)'
+description: 'O Manuscrito Misterioso by Geronimo Stilton (ISBN: 9789722334723)'
 section:
 - reads
 properties:

@@ -1,5 +1,5 @@
 ---
-title: 'Electron in Action by Steve Kinney (ISBN: 9781617294143)'
+description: 'Electron in Action by Steve Kinney (ISBN: 9781617294143)'
 published: 2020-01-15T08:00:00Z
 updated: 2020-01-15T08:00:00Z
 section:

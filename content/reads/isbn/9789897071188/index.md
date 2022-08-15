@@ -1,5 +1,5 @@
 ---
-title: 'O Emplastro by Jeff Kinney (ISBN: 9789897071188)'
+description: 'O Emplastro by Jeff Kinney (ISBN: 9789897071188)'
 section:
 - reads
 properties:

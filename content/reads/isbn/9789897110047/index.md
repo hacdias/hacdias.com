@@ -1,5 +1,5 @@
 ---
-title: 'Contos by Eça de Queirós (ISBN: 9789897110047)'
+description: 'Contos by Eça de Queirós (ISBN: 9789897110047)'
 section:
 - reads
 properties:

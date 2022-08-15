@@ -1,5 +1,5 @@
 ---
-title: 'Cidades de Papel by John Green (ISBN: 9789722352925)'
+description: 'Cidades de Papel by John Green (ISBN: 9789722352925)'
 section:
 - reads
 properties:

@@ -1,5 +1,5 @@
 ---
-title: 'Memorial do Convento by José Saramago (ISBN: 9789720046710)'
+description: 'Memorial do Convento by José Saramago (ISBN: 9789720046710)'
 published: 2017-05-09T07:00:00Z
 updated: 2017-05-09T07:00:00Z
 section:

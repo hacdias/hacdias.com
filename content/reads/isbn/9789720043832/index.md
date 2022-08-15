@@ -1,5 +1,5 @@
 ---
-title: 'Convergente by Veronica Roth (ISBN: 9789720043832)'
+description: 'Convergente by Veronica Roth (ISBN: 9789720043832)'
 section:
 - reads
 properties:

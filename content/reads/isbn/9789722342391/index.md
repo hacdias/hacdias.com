@@ -1,5 +1,5 @@
 ---
-title: 'Os Jogos da Fome by Suzanne Collins (ISBN: 9789722342391)'
+description: 'Os Jogos da Fome by Suzanne Collins (ISBN: 9789722342391)'
 section:
 - reads
 properties:

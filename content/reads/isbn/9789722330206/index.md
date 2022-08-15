@@ -1,5 +1,5 @@
 ---
-title: 'O Leão, a Feiticeira e o Guarda-Roupa by C.S. Lewis (ISBN: 9789722330206)'
+description: 'O Leão, a Feiticeira e o Guarda-Roupa by C.S. Lewis (ISBN: 9789722330206)'
 published: 2015-02-28T08:00:00Z
 updated: 2015-02-28T08:00:00Z
 section:
