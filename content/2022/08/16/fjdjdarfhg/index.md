@@ -11,4 +11,4 @@ properties:
 
 > But if you listen to a lot of music this approach would probably deserve its own website I guess.
 
-Maybe this is where my problem is. What is the line that divides what I should put on my website vs. another service / subdomain. Same think for the [wiki](/2022/08/15/knqyayzprq) and [bookmarks](/2022/08/15/llpalrunje) I guess.
+Maybe this is where my problem is. What is the line that divides what I should put on my website vs. another service / subdomain. Same thing for the [wiki](/2022/08/15/knqyayzprq) and [bookmarks](/2022/08/15/llpalrunje) I guess.

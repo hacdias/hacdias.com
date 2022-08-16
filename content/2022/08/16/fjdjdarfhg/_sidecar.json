@@ -21,5 +21,26 @@
     "type": "entry",
     "url": "https://kandr3s.co/notes/2022-08-16-lpyvk"
   },
-  "webmentions": []
+  "webmentions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "type": "card",
+        "url": "https://jan.boddez.net/"
+      },
+      "content": "Liked https://hacdias.com/2022/08/16/fjdjdarfhg.",
+      "like-of": "https://hacdias.com/2022/08/16/fjdjdarfhg",
+      "post-type": "like",
+      "published": "2022-08-16T13:55:00+02:00",
+      "type": "entry",
+      "url": "https://jan.boddez.net/likes/90c172247a",
+      "wm-id": 1460071,
+      "wm-private": false,
+      "wm-property": "like-of",
+      "wm-received": "2022-08-16T12:01:25Z",
+      "wm-source": "https://jan.boddez.net/likes/90c172247a",
+      "wm-target": "https://hacdias.com/2022/08/16/fjdjdarfhg"
+    }
+  ]
 }
