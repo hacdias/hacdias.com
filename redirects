@@ -1038,7 +1038,6 @@
 /stream /
 /stream/feed.json /.json
 /stream/feed.xml /.atom
-/now /tags/recently
 /articles/feed.json /articles.json
 /articles/feed.xml /articles.atom
 /micro/feed.json /micro.json
