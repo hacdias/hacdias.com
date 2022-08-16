@@ -67,7 +67,7 @@
         {{ end }}
       {{ else }}
         {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
-        {{ if eq .Helper.PostType "article" }}
+        {{ if and (eq .Helper.PostType "article") (not .Properties.noDate) }}
           <p>
             {{- if .Updated.After .Published -}}
               {{ .Updated.Format "January 02, 2006" }}
