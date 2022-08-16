@@ -2,11 +2,8 @@
 title: Recently in December '20
 published: 2021-01-01T08:00:00+01:00
 section:
-- articles
+- now
 - home
-properties:
-  category:
-  - recently
 ---
 
 2020 has come to an end. It was a very troublesome year regarding worldwide events. However, I must say that it was quite a fantastic year personally.

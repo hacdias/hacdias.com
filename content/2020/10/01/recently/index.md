@@ -2,11 +2,9 @@
 title: Recently in September '20
 published: 2020-10-01T09:00:00+02:00
 section:
-- articles
+- now
 - home
 properties:
-  category:
-  - recently
   syndication:
   - https://twitter.com/hacdias/status/1311562183856320512
 ---

@@ -2,11 +2,8 @@
 title: Recently in November '20
 published: 2020-12-01T08:20:00+01:00
 section:
-- articles
+- now
 - home
-properties:
-  category:
-  - recently
 ---
 
 Hello y'all! Yet another month has passed. November was quite full of good things in my opinion. It's been quite a long month so I'll probably skip some parts because I simply don't remember.

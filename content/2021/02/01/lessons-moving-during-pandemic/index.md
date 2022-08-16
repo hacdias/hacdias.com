@@ -2,11 +2,10 @@
 title: Recently in January '21
 published: 2021-02-01T09:00:00+01:00
 section:
-- articles
+- now
 - home
 properties:
   category:
-  - recently
   - university
   - masters
 ---

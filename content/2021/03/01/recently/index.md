@@ -2,11 +2,8 @@
 title: Recently in February '21
 published: 2021-03-01T07:30:00+01:00
 section:
-- articles
+- now
 - home
-properties:
-  category:
-  - recently
 ---
 
 One more month has passed. A year ago, I was starting my second semester of my final year of my Bachelors degree. Right before that, I had just been traveling across Luxembourg, Belgium and the Netherlands. At the time, we were a bit worried with Covid-19, but there were barely any identified cases in Europe. We didn't even wear masks on the flights.
