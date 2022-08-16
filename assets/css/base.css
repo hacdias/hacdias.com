@@ -78,6 +78,10 @@ code {
   background: var(--near-white);
 }
 
+pre > code {
+  padding: 0;
+}
+
 svg,
 video,
 img {

@@ -36,7 +36,7 @@ I am not covering installation steps. The [official documentation](https://www.w
 
 First of all, we need to generate the public and private keys of all devices that will be connected in this network. For that, we can use the following sequence of commands:
 
-```
+```bash
 wg genkey | tee vps_privatekey | wg pubkey > vps_publickey
 wg genkey | tee pi_privatekey | wg pubkey > pi_publickey
 wg genkey | tee client_privatekey | wg pubkey > client_publickey
@@ -46,7 +46,7 @@ wg genkey | tee client_privatekey | wg pubkey > client_publickey
 
 Configuration file ```/etc/wireguard/wg0.conf```:
 
-```toml
+```bash
 [Interface]
 Address = 10.200.200.1/24
 PrivateKey = <vps_privatekey>
@@ -76,25 +76,25 @@ AllowedIPs = 10.200.200.4/32
 
 Now, you need to setup IP forwarding on the machine (you may need to also uncomment the line on `/etc/sysctl.conf` so it persists across reboots):
 
-```shell
+```bash
 $ sysctl net.ipv4.ip_forward=1
 ```
 
 And start the Wireguard server:
 
-```shell
+```bash
 $ wg-quick up wg0
 ```
 
 You can also turn it on on boot:
 
-```shell
+```bash
 $ sudo systemctl enable wg-quick@wg0
 ```
 
 To check if everything looks fine:
 
-```shell
+```bash
 $ sudo wg show
 ```
 
@@ -119,26 +119,26 @@ PersistentKeepalive = 25      # keep connections alive across NAT
 
 You have to add two `iptables` rules permanently. Since the command is temporary and does not persist reboots, I recommend adding them to the file `/etc/rc.local`.
 
-```shell
+```bash
 $ iptables -A FORWARD -i wg0-client -j ACCEPT
 $ iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 ```
 
 Similarly to what we did on the public host, we need to enable IP forwarding. Do not forget to make it permanent.
 
-```shell
+```bash
 $ sysctl net.ipv4.ip_forward=1
 ```
 
 Set up the Wireguard client:
 
-```shell
+```bash
 $ wg-quick up wg0-client
 ```
 
 And enable it on boot:
 
-```shell
+```bash
 $ sudo systemctl enable wg-quick@wg0-client
 ```
 
@@ -148,7 +148,7 @@ So far, from the VPS, you should be able to ping any device on your local networ
 
 The client (your smartphone, computer, etc) is the easiest. Here's the configuration:
 
-```toml
+```bash
 [Interface]
 PrivateKey = <client_privatekey>
 Address = 10.200.200.3/24
