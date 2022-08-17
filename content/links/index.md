@@ -24,9 +24,13 @@ In this page, you can find a collection of different links I collected over the 
 
 <div style="text-align: center;">
 
-*This page is an ongoing effort and it is currently very empty.*
+*This page is an ongoing effort and will be updated soon.*
 
 </div>
+
+<!-- ## Friends -->
+
+<!-- ## Inspirational -->
 
 ## Blogroll
 
@@ -35,4 +39,3 @@ In this page, you can find a collection of different links I collected over the 
 An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
 
 </div>
-
