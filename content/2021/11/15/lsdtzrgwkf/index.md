@@ -6,6 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://darekkay.com/personal-blogs/
+  category: personal-website
 ---
+
 
 

@@ -6,7 +6,10 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://howhttps.works/
-  category: educational
+  category:
+  - educational
+  - https
 ---
 
 Comics from dnsimple explaining how HTTPS works.
+

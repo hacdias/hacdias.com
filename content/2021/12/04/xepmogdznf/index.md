@@ -7,6 +7,11 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://tutanota.com/blog/posts/germany-right-to-encryption/
+  category:
+  - security
+  - privacy
+  - encryption
 ---
+
 
 

@@ -43,6 +43,7 @@ properties:
 
 <style>
 .grid-xwcwairvhv {
+  margin-top: 0;
   grid-template-columns: repeat(2, 1fr);
   grid-template-areas:
     "a a"

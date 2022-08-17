@@ -8,14 +8,7 @@ createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://bookish.tech/
   category: tool
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43242
-      locality: Eindhoven
-      longitude: 5.48615
-      region: North Brabant
-    type: h-adr
 ---
 
+Find book information via its ISBN.
 

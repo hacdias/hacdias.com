@@ -7,6 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://accordion-druid.tumblr.com/post/685175656750972928/dont-lie-to-me-about-web-20
+  category:
+  - web3
+  - web2
+  - indieweb
+  - small-web
 ---
+
 
 

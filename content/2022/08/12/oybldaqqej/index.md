@@ -7,6 +7,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://github.com/maaslalani/slides
+  category: tool
 ---
+
 
 

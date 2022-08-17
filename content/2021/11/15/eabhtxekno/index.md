@@ -6,6 +6,9 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy.ipfs.dweb.link/
+  category:
+  - fun
 ---
+
 
 

@@ -7,14 +7,11 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://iknowwhatyoudownload.com/
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44804
-      locality: Eindhoven
-      longitude: 5.48614
-      region: North Brabant
-    type: h-adr
+  category:
+  - tool
+  - fun
+  - torrent
 ---
+
 
 

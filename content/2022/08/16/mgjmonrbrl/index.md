@@ -7,6 +7,10 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://ar.al/2020/08/07/what-is-the-small-web/#fnref:3
+  category:
+  - indieweb
+  - small-web
 ---
+
 
 

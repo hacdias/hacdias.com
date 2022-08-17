@@ -7,14 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://www.dns.toys/
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43241
-      locality: Eindhoven
-      longitude: 5.48616
-      region: North Brabant
-    type: h-adr
+  category:
+  - dns
+  - tools
+  - terminal
+  - unix
 ---
+
 
 

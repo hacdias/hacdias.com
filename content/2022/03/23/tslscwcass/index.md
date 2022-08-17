@@ -7,14 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://www.neelc.org/posts/web3-centralized/
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44788
-      locality: Eindhoven
-      longitude: 5.48617
-      region: North Brabant
-    type: h-adr
+  category:
+  - web3
 ---
+
 
 

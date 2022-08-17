@@ -6,6 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/
+  category: fun
 ---
+
 
 

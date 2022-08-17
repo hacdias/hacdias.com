@@ -7,7 +7,11 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://fediring.net/
-  category: webring
+  category:
+  - webring
+  - activitypub
+  - fediverse
 ---
+
 
 

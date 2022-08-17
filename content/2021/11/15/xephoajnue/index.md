@@ -6,6 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: http://biglist.terraaeon.com/
+  category: personal-website
 ---
+
 
 

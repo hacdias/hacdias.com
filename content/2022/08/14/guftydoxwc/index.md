@@ -7,7 +7,10 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://xn--sr8hvo.ws/
-  category: webring
+  category:
+  - webring
+  - indieweb
 ---
+
 
 

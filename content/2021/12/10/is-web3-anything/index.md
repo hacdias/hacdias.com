@@ -7,6 +7,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://www.chris-granger.com/2021/12/09/is-web3-anything/
+  category: web3
 ---
+
 
 

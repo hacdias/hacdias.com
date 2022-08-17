@@ -9,6 +9,7 @@ In this page, you can find a collection of different links I collected over the 
 
 <!--more-->
 
+<!--
 <style>
   :root {
     --accent: #0f0;
@@ -20,7 +21,7 @@ In this page, you can find a collection of different links I collected over the 
     --near-white: #000;
     --white: #000;
   }
-</style>
+</style>-->
 
 <div style="text-align: center;">
 
@@ -39,3 +40,4 @@ In this page, you can find a collection of different links I collected over the 
 An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
 
 </div>
+

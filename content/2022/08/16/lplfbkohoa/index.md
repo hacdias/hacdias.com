@@ -7,6 +7,10 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://512kb.club/
+  category:
+  - small-web
+  - optimization
 ---
+
 
 
