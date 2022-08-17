@@ -4,7 +4,12 @@ published: 2021-05-29T16:43:22+02:00
 section:
 - home
 - places
+- food
 properties:
+  ate:
+    properties:
+      name: Gelato
+    type: h-food
   checkin:
     properties:
       country-name: Netherlands

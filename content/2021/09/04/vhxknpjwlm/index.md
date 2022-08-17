@@ -4,7 +4,12 @@ published: 2021-09-04T09:27:23+02:00
 section:
 - home
 - places
+- food
 properties:
+  ate:
+    properties:
+      name: Coffee and Yoghurt Bowl Breakfast
+    type: h-food
   checkin:
     properties:
       country-name: Netherlands

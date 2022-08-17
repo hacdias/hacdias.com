@@ -3,6 +3,7 @@ description: At Lucifer Coffee Roasters
 published: 2022-03-28T12:36:07+02:00
 section:
 - home
+- food
 - places
 createdWith: https://ownyourswarm.p3k.io/
 properties:
@@ -18,6 +19,10 @@ properties:
       url: https://foursquare.com/v/60e95b5ddbb59c30f95855fa
     type: h-card
     value: https://foursquare.com/v/60e95b5ddbb59c30f95855fa
+  drank:
+    properties:
+      name: Iced Coffee
+    type: h-food
   location:
     properties:
       country-name: Netherlands

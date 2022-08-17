@@ -3,8 +3,13 @@ description: At Manneken Pis
 published: 2020-02-09T17:00:44+01:00
 section:
 - home
+- food
 - places
 properties:
+  ate:
+    properties:
+      name: Frite
+    type: h-food
   checkin:
     properties:
       country-name: Netherlands

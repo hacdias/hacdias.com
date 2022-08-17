@@ -4,7 +4,12 @@ published: 2021-09-03T16:18:32+02:00
 section:
 - home
 - places
+- food
 properties:
+  ate:
+    properties:
+      name: Frite
+    type: h-food
   checkin:
     properties:
       country-name: Netherlands

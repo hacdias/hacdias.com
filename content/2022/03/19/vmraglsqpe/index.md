@@ -4,8 +4,13 @@ published: 2022-03-19T20:23:19+01:00
 section:
 - home
 - places
+- food
 createdWith: https://ownyourswarm.p3k.io/
 properties:
+  ate:
+    properties:
+      name: Noodle Soup
+    type: h-food
   checkin:
     properties:
       country-name: Netherlands

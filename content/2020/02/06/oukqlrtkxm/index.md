@@ -3,6 +3,7 @@ description: At Delirium Café
 published: 2020-02-06T21:35:14+01:00
 section:
 - home
+- food
 - places
 properties:
   checkin:
@@ -18,6 +19,10 @@ properties:
       url: https://foursquare.com/v/4b9a4416f964a5205aa835e3
     type: h-card
     value: https://foursquare.com/v/4b9a4416f964a5205aa835e3
+  drank:
+    properties:
+      name: Delirium Beer
+    type: h-food
   location:
     properties:
       country-name: Belgium

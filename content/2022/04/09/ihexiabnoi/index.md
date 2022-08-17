@@ -4,8 +4,13 @@ published: 2022-04-09T17:32:45+02:00
 section:
 - home
 - places
+- food
 createdWith: https://ownyourswarm.p3k.io/
 properties:
+  ate:
+    properties:
+      name: Frites
+    type: h-food
   checkin:
     properties:
       country-name: Netherlands

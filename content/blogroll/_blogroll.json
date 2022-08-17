@@ -1,11 +1,5 @@
 [
   {
-    "title": "/weblog/",
-    "site": "https://blog.astrosnail.pt.eu.org/",
-    "feed": "https://blog.astrosnail.pt.eu.org/feed.atom",
-    "category": "following"
-  },
-  {
     "title": "Aaron Parecki",
     "site": "https://aaronparecki.com/",
     "feed": "https://aaronparecki.com/feed.json",
@@ -180,12 +174,6 @@
     "category": "following"
   },
   {
-    "title": "Jamie’s Notes",
-    "site": "https://jamiesnotes.com",
-    "feed": "https://jamieadams.click/index.xml",
-    "category": "following"
-  },
-  {
     "title": "Jan Boddez",
     "site": "https://jan.boddez.net",
     "feed": "https://jan.boddez.net/articles/feed",
@@ -321,6 +309,12 @@
     "title": "Sebastiaan Andeweg",
     "site": "https://seblog.nl/feed",
     "feed": "https://seblog.nl/feed.rss",
+    "category": "following"
+  },
+  {
+    "title": "Simon Safar",
+    "site": "https://simonsafar.com",
+    "feed": "https://simonsafar.com/index.xml",
     "category": "following"
   },
   {

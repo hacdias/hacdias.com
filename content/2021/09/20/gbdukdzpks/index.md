@@ -4,7 +4,12 @@ published: 2021-09-20T12:14:03+02:00
 section:
 - home
 - places
+- food
 properties:
+  ate:
+    properties:
+      name: Broodje and Croquette
+    type: h-food
   checkin:
     properties:
       country-name: Netherlands

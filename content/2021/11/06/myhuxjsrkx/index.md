@@ -3,6 +3,7 @@ description: At Möge Tee
 published: 2021-11-06T15:46:14+01:00
 section:
 - home
+- food
 - places
 properties:
   checkin:
@@ -18,6 +19,10 @@ properties:
       url: https://foursquare.com/v/614a0e1d8a1af72a584ad5cf
     type: h-card
     value: https://foursquare.com/v/614a0e1d8a1af72a584ad5cf
+  drank:
+    properties:
+      name: Cheese Bubble Tea
+    type: h-food
   location:
     properties:
       country-name: Netherlands

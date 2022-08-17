@@ -4,7 +4,12 @@ published: 2020-02-07T13:43:18+01:00
 section:
 - home
 - places
+- food
 properties:
+  ate:
+    properties:
+      name: Fries and Burger
+    type: h-food
   checkin:
     properties:
       country-name: Belgium
