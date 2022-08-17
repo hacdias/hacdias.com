@@ -1,6 +1,6 @@
 ---
 title: Tags
-isListing: true
+listing: {}
 ---
 
 

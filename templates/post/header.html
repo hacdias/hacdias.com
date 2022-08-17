@@ -59,7 +59,7 @@
     <!-- Do Nothing -->
   {{ else if .Entry.Title }}
     <header>
-      {{ if .IsListing }}
+      {{ if .Listing }}
         {{ if .Entry.Title }}
           <h3 class='p-name'>
             <a href="{{ relURL .Permalink }}" title="{{ .Entry.Title }}" class="nl">{{- .Entry.Title -}}</a>

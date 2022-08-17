@@ -1,6 +1,6 @@
 ---
 title: Search
-isListing: true
+listing: {}
 noShowInteractions: true
 ---
 

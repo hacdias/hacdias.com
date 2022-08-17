@@ -21,7 +21,7 @@
   {{ end }}
 
   <!-- Social Media -->
-  <meta property="og:type" content="{{ if or .IsListing .IsHome }}website{{ else }}article{{ end }}" />
+  <meta property="og:type" content="{{ if or .Listing .IsHome }}website{{ else }}article{{ end }}" />
   <meta name="twitter:site" content="@{{ .Me.Twitter }}"/>
   <meta name="twitter:creator" content="@{{ .Me.Twitter }}"/>
   <meta property="og:locale" content="{{ .Site.Language }}" />

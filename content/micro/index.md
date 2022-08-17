@@ -1,5 +1,5 @@
 ---
 title: Micro
-isListing: true
+listing: {}
 description: Microblog posts and IndieWeb interactions.
 ---

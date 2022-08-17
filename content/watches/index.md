@@ -2,7 +2,7 @@
 title: Watches
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-isListing: true
+listing: {}
 ---
 
 <div class="box">

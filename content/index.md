@@ -2,7 +2,7 @@
 title: Home
 description: |
   Henrique is nearly graduating from his Master's in Computer Science and Engineering while working on decentralizing the web at Protocol Labs.
-isListing: true
+listing: {}
 ---
 
 ![Me!](/profile/2022-03-26/me-512.jpg?class=right+me)

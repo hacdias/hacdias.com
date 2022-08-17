@@ -1,4 +1,4 @@
 ---
 title: Everything
-isListing: true
+listing: {}
 ---

@@ -1,7 +1,9 @@
 ---
 title: Now
 description: Monthly updates inspired on the NowNowNow movement.
-isListing: true
+template: plain-list
+listing:
+  disablePagination: true
 ---
 
 <div class="box">

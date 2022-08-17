@@ -1,6 +1,6 @@
 ---
 title: Photos
-isListing: true
+listing: {}
 ---
 
 <div class="box">

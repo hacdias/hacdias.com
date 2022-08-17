@@ -1,6 +1,6 @@
 ---
 title: Reads
-isListing: true
+listing: {}
 noShowInteractions: true
 ---
 

@@ -1,7 +1,7 @@
 {{ define "post/checkin" }}
   {{ $mf2 := .Helper }}
 
-  {{ if not .IsListing }}
+  {{ if not .Listing }}
     {{ with .TryFiles "map.png" "map.jpeg" }}
       <img src="{{ relURL . }}" class="db">
     {{ end }}

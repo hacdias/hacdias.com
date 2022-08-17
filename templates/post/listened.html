@@ -11,7 +11,7 @@
       different artists for <strong>{{ sprintf "%.2f" ($mm.Float "total-duration") }}</strong> hours
     </div>
 
-    {{ if not $.IsListing }}
+    {{ if not $.Listing }}
       {{ range . }}
         {{ template "listen" . }}
       {{ end }}
