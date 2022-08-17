@@ -6,7 +6,6 @@ section:
 - bookmarks
 createdWith: https://micropublish.net/
 properties:
-  audience: https://hacdias.com/
   bookmark-of: https://www.neelc.org/posts/web3-centralized/
   location:
     properties:
@@ -16,7 +15,6 @@ properties:
       longitude: 5.48617
       region: North Brabant
     type: h-adr
-  visibility: private
 ---
 
 

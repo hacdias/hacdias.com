@@ -412,7 +412,7 @@ details summary {
 }
 
 #navbar li:last-child input::placeholder {
-  color: white;
+  color: var(--white);
   text-align: center;
   font-weight: 600;
 }
