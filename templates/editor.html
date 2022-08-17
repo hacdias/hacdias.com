@@ -8,6 +8,7 @@
 
     <form method=POST>
       <textarea required id=content name=content>{{ .Data.Content }}</textarea>
+      {{ include "textarea-tab" . }}
 
       <div class=options>
          <label><input type=checkbox name=lastmod {{ if not .Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>

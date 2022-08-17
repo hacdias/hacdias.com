@@ -15,6 +15,7 @@
 
     <form method=POST>
       <input type="text" required name="id" placeholder="id" value="{{ .Data.ID }}" />
+      {{ include "textarea-tab" . }}
 
       <textarea required name="content">{{ .Data.Content }}</textarea>
 
