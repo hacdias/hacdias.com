@@ -168,6 +168,12 @@
     "category": "following"
   },
   {
+    "title": "James",
+    "site": "https://jamesg.blog/",
+    "feed": "https://granary.io/url?input=html\u0026output=rss\u0026url=https%3A%2F%2Fjamesg.blog",
+    "category": "following"
+  },
+  {
     "title": "James Fenn",
     "site": "https://jfenn.me/",
     "feed": "https://jfenn.me/blog/feed.xml",
