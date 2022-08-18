@@ -1,5 +1,5 @@
 ---
-title: Wiki
+title: Notes
 template: plain-list
 noIndex: true
 listing:

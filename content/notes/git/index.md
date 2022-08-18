@@ -3,7 +3,7 @@ title: Git
 published: 2022-08-16T17:56:08.427538238+02:00
 updated: 2022-08-16T18:00:46.42309913+02:00
 section:
-- wiki
+- notes
 createdWith: https://hacdias.com/
 noIndex: true
 ---

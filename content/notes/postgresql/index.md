@@ -3,7 +3,7 @@ title: PostgreSQL
 published: 2022-08-17T17:51:10.64983984+02:00
 updated: 2022-08-17T17:53:05.202252637+02:00
 section:
-- wiki
+- notes
 createdWith: https://hacdias.com/
 noIndex: true
 ---
