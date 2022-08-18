@@ -37,7 +37,7 @@ In this page, you can find a collection of different links I collected over the 
 
 <div class="box">
 
-An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
+🌍 An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
 
 </div>
 
