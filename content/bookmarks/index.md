@@ -1,6 +1,7 @@
 ---
 title: Bookmarks
-listing: {}
+listing:
+  itemsPerPage: 50
 description: Bookmarks of links I've enjoyed or want to keep for future reference.
 ---
 

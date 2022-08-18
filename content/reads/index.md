@@ -1,6 +1,7 @@
 ---
 title: Reads
-listing: {}
+listing:
+  orderByUpdated: true
 noShowInteractions: true
 ---
 
