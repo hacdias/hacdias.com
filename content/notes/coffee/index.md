@@ -1,7 +1,6 @@
 ---
-title: Coffee
+title: Chemex
 published: 2022-08-18T11:36:52.439647343+02:00
-updated: 2022-08-19T16:03:13.236017164+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
@@ -11,10 +10,9 @@ properties:
 ---
 
 - **Proportion**: 30g beans : 500g water
-
-## Chemex
-
 - **Grind**: medium coarse
+
+**Brew**
 
 1. Grind beans and boil water
 2. Put paper filter (3 folds on the spout)
@@ -26,24 +24,4 @@ properties:
 8. When 500g water, use spoon to stir clockwise and then anti clockwise
 9. Givechemex a little shake
 10. Wait
-
-
-## French Press
-
-1. Add coffee and water
-2. Let it sit for 4 minutes
-3. Stir the top, remote foam and fines o top
-4. Let it rest for 5 minutes
-5. Press the filter just until the surface and pour the coffee through out
-
-## Cold Brew
-
-- **Grind**: coarse
-
-### Cold Brew Concentrate
-
-- 1:5 Ratio Coffee Beans Coarsely Grinder : Water
-- 100 g : 500 ml
-- 5 Cardamon Pods Grinded
-- 18 hours
 
