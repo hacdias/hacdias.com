@@ -11,7 +11,7 @@ properties:
   - nat
   - dns
   - routers
-  - network
+  - networking
 ---
 
 

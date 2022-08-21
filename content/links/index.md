@@ -29,9 +29,28 @@ In this page, you can find a collection of different links I collected over the 
 
 </div>
 
-<!-- ## Friends -->
+<!-- ## Nice Posts
 
-<!-- ## Inspirational -->
+- https://hacdias.com/2022/08/20/jjoteyswgo
+- https://hacdias.com/2022/08/16/mgjmonrbrl
+
+## Cool Websites
+
+- https://hacdias.com/2021/11/15/eabhtxekno
+- https://hacdias.com/2021/11/15/tiurcwjimy
+- https://hacdias.com/2021/11/15/ixnpwkpprm
+- https://hacdias.com/2021/11/15/yvlbsiplct
+- https://hacdias.com/2021/11/15/hbunwbykey
+
+-->
+
+<!-- ## Friends
+
+-->
+
+<!-- ## Inspirational
+
+-->
 
 ## Blogroll
 

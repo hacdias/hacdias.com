@@ -9,7 +9,7 @@ properties:
   bookmark-of: https://messwithdns.net/
   category:
   - dns
-  - networks
+  - networking
   - tool
 ---
 

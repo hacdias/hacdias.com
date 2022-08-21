@@ -1,0 +1,16 @@
+---
+published: 2022-08-21T18:46:56.060714286+02:00
+section:
+- micro
+- home
+createdWith: https://micropublish.net/
+properties:
+  category:
+  - docker
+  - self-hosting
+  - networking
+  - security
+---
+
+Today I noticed my VPS did not have any firewall installed. Since I use Alpine, I decided to try out [awall](https://wiki.alpinelinux.org/wiki/How-To_Alpine_Wall), which led to 15 minutes of down time for this website and all the remaining services. Besides, it seems that Docker messes with the IP tables by default, which can be troublesome with firewalls. In the end, I ended up using Hetzner's own firewall which is completely decoupled from the OS and easier to manage.
+
