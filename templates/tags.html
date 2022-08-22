@@ -10,15 +10,20 @@
       <div class='copy'>{{ md . }}</div>
     {{- end }}
 
-    <div class="terms">
-      <ul>
-        {{ range .Data.Terms }}
-          <li>
-            <a href="{{ relURL (printf "/tags/%s" .) }}">{{ . }}</a>
-          </li>
-        {{ end }}
-      </ul>
-    </div>
+    {{ $grouped := groupByFirstChar .Data.Terms }}
+    {{ range $grouped.Chars }}
+      <h2 id="{{ . }}">{{ . }}</h2>
+
+      <div class="terms">
+        <ul>
+          {{ range (index $grouped.Strings .) }}
+            <li>
+              <a href="{{ relURL (printf "/tags/%s" (slugify .) ) }}">{{ . }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
 {{ end }}
 
 {{ define "tags" }}

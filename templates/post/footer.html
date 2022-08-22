@@ -40,7 +40,7 @@
         {{ end }}
 
         {{ range $tags -}}
-          <a class="tag p-category" href="/tags/{{ . }}">{{ . }}</a>
+          <a class="tag p-category" href="/tags/{{ slugify . }}">{{ . }}</a>
         {{ end -}}
 
         {{ range $syndications }}
