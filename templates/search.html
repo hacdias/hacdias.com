@@ -40,7 +40,7 @@
     {{ if not (eq (len .Data.Entries) 0) }}
       {{ include "list/list" . }}
     {{ else if eq .Data.Search.Query "" }}
-      <p>You haven't searched yet!</p>
+      <p>You haven't searched for anything yet!</p>
     {{ else }}
       <p>No results found for this search…</p>
     {{ end }}
