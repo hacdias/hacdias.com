@@ -11,3 +11,8 @@ description: Bookmarks of links I've enjoyed or want to keep for future referenc
 
 </div>
 
+<form id='search-form' style="margin: 1rem 0" action="/search" class='inline-form'>
+  <input aria-label="Search terms" required type='text' name='query' placeholder="Search the bookmarks…"/>
+  <input type='submit' value='Go' style="background-color: var(--accent); border-color: var(--accent)" />
+  <input type="checkbox" value="bookmarks" name="section" checked class='dn'>
+</form>

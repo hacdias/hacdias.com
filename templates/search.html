@@ -6,11 +6,9 @@
       <h1>{{ .Title }}{{ with .Data.Page }} ({{.}}){{ end }}</h1>
     </header>
 
-    <form id='search-form' style="margin: 1rem 0">
-      <div class='inline-form'>
-        <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" {{ with .Data.Search.Query }}value="{{ . }}"{{ end }} />
-        <input type='submit' value='Go' style="background-color: var(--accent); border-color: var(--accent)" />
-      </div>
+    <form id='search-form' class='inline-form' style="margin: 1rem 0">
+      <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" {{ with .Data.Search.Query }}value="{{ . }}"{{ end }} />
+      <input type='submit' value='Go' style="background-color: var(--accent); border-color: var(--accent)" />
 
       {{ range .Data.Search.Tags }}
         <input type="checkbox" value="{{ . }}" name="tag" checked class='dn'>
