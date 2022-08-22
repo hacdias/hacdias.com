@@ -42,7 +42,7 @@ html {
 body {
   color: var(--dark-gray);
   background: var(--background);
-  border: 0.5rem solid var(--accent);
+  border-top: 0.5rem solid var(--accent);
   background-attachment: fixed;
   line-height: 1.25;
   min-height: 100vh;
@@ -628,7 +628,7 @@ figure.right {
 
 @media screen and (max-width: 60rem) {
   body {
-    border: 0;
+    border-top: 0;
   }
 
   .container {
