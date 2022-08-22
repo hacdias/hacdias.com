@@ -8,7 +8,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 <!--more-->
 
-### Categories 🪁 {#categories}
+### 🪁 Categories {#categories}
 
 <div class='terms grid bold'>
 
@@ -34,7 +34,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 </div>
 
-### Others 🧵 {#others}
+### 🧵 Others {#others}
 
 <div class='terms grid bold'>
 
@@ -52,7 +52,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 </div>
 
-### Experiments 🧪  {#experiments}
+### 🧪 Experiments {#experiments}
 
 A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
 Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger'>Or they will bite you!</span>
@@ -97,3 +97,4 @@ trigger.addEventListener('click', async () => {
   trigger.classList.toggle('dn')
 })
 </script>
+

@@ -108,6 +108,12 @@
     "category": "following"
   },
   {
+    "title": "Engineers Need Art",
+    "site": "https://www.engineersneedart.com",
+    "feed": "https://www.engineersneedart.com/rss.xml",
+    "category": "following"
+  },
+  {
     "title": "ExpLog",
     "site": "https://explog.in/",
     "feed": "https://explog.in/rss.xml",

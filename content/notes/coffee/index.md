@@ -1,7 +1,7 @@
 ---
 title: Coffee
 published: 2022-08-18T11:36:52.439647343+02:00
-updated: 2022-08-19T16:03:13.236017164+02:00
+updated: 2022-08-22T12:39:14.901597508+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
@@ -11,6 +11,7 @@ properties:
 ---
 
 - **Proportion**: 30g beans : 500g water
+- [Baratza Grinding Tips](https://baratza.com/grinding-tips/)
 
 ## Chemex
 
@@ -45,5 +46,7 @@ properties:
 - 1:5 Ratio Coffee Beans Coarsely Grinder : Water
 - 100 g : 500 ml
 - 5 Cardamon Pods Grinded
-- 18 hours
+- 24 hours
+
+Note: try 1:8
 
