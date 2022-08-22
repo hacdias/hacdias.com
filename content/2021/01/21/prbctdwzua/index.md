@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-01-21T15:46:34Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/l1685o/have_you_left_your_native_country/

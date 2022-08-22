@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2016-06-24T16:04:39Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/runescape/comments/4pnja3/ask_questions_for_the_runescape_developer_qa/

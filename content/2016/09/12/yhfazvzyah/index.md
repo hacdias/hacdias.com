@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2016-09-12T19:02:29Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/4ww4my/portátil_para_leic/d6ewken/

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2022-07-17T08:28:56.117845425+02:00
 section:
-- replies
+- micro
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/w10cld/vpay_availability/

@@ -2,7 +2,7 @@
 description: Replied to a post on janboddez.tech
 published: 2020-04-09T08:29:52.754Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://janboddez.tech/notes/14ce942433

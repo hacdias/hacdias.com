@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-01-13T14:33:00Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/Home/comments/kwbvr5/dim_light_from_windows_monitor_against_window/gj3uulk/

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-08-17T21:11:07Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/TUe/comments/p6bur2/looking_for_some_group_chat/

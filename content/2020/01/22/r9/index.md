@@ -2,7 +2,7 @@
 description: Replied to a post on aaronparecki.com
 published: 2020-01-22T11:35:36.168Z
 section:
-- replies
+- micro
 - home
 properties:
   category:

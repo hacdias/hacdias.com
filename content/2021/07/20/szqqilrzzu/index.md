@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-07-20T22:09:34Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/oo798o/what_european_generalization_does_not_apply_to/h5xejj1/

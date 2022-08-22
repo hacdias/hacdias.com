@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2022-04-20T12:46:08Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/PassportPorn/comments/u7vnqk/current_portuguese_passport_under_uv_2017_present/

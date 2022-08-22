@@ -2,7 +2,7 @@
 description: Replied to a post on twitter.com
 published: 2022-03-16T15:57:49.727246832+01:00
 section:
-- replies
+- micro
 - home
 createdWith: https://micropublish.net/
 properties:

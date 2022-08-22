@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-01-20T21:47:51Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjzmqvw/

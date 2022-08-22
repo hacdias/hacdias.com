@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2020-08-16T07:04:32Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/iameqy/trabalho_antes_de_terminar_curso/

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-10-03T10:02:50Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/portugal/comments/q0d05f/ctt_no_seu_melhor/

@@ -2,7 +2,7 @@
 description: Replied to a post on ybbond.id
 published: 2021-02-16T20:21:25.185559963Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://ybbond.id/responses/response-20210217025510/

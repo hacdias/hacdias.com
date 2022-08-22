@@ -2,7 +2,7 @@
 description: Replied to a post on jlelse.blog
 published: 2022-01-15T19:07:06.084181535Z
 section:
-- replies
+- micro
 - home
 createdWith: https://monocle.p3k.io/
 properties:

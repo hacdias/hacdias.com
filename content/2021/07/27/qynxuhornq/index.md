@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-07-27T07:06:56Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/portugal/comments/osasjf/pessoas_demasiado_tristes/h6ogkiw/

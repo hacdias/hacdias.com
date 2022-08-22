@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-07-27T15:40:13Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/europe/comments/osl67x/czech_republic_and_the_netherlands_share_the/h6paaa8/

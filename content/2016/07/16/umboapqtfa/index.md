@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2016-07-16T10:51:12Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/pokemongo/comments/4t42lq/cant_find_pokémons_without_incense/d5ef76n/

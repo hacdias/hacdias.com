@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2022-01-20T18:10:45Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/s8p0p6/consulados_marcação_para_renovação_de_passaporte/

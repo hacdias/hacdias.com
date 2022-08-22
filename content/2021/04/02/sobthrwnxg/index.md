@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-04-02T19:20:50Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/mihfzl/european_brand_pronunciation/gt5hucg/

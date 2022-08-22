@@ -2,7 +2,7 @@
 description: Replied to a post on jlelse.blog
 published: 2021-11-16T15:11:26.333810576Z
 section:
-- replies
+- micro
 - home
 createdWith: https://quill.p3k.io/
 properties:

@@ -2,7 +2,7 @@
 description: Replied to a post on jlelse.blog
 published: 2020-01-30T22:21:16.521Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/01/telegram-features/

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-05-12T18:27:24Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/nattn6/europeans_whose_public_transport_is_paid_is_it/gxvqvhg/

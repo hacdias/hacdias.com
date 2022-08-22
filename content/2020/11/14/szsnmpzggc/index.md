@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2020-11-14T10:16:22Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/buildapcforme/comments/jsy09u/workgameediting_computer_2500_netherlands/gc6m6pz/

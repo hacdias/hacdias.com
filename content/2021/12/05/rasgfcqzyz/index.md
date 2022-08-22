@@ -2,7 +2,7 @@
 description: Replied to a post on twitter.com
 published: 2021-12-05T22:16:28.86801396Z
 section:
-- replies
+- micro
 - home
 createdWith: https://quill.p3k.io/
 properties:

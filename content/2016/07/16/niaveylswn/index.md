@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2016-07-16T20:22:12Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/pokemongo/comments/4t6ab4/i_climbed_a_mountain_for_this/

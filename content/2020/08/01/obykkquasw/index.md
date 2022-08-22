@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2020-08-01T15:15:28Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/glasses/comments/i1r6e4/circle_in_the_center_of_new_glass_lenses/fzzlhu6/

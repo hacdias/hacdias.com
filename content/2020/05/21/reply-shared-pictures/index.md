@@ -2,7 +2,7 @@
 description: Replied to a post on twitter.com
 published: 2020-05-21T22:19:48.057Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://twitter.com/mholt6/status/1263594379073056768

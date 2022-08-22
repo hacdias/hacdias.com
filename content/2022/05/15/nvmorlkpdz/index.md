@@ -2,7 +2,7 @@
 description: Replied to a post on jan.boddez.net
 published: 2022-05-15T15:20:35.361020968+02:00
 section:
-- replies
+- micro
 - home
 createdWith: https://micropublish.net/
 properties:

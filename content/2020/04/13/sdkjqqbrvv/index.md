@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2020-04-13T20:42:46Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/ft27lz/petição_para_a_suspensão_do_semestre/

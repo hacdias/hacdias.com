@@ -2,7 +2,7 @@
 description: Replied to a post on commentpara.de
 published: 2022-01-30T08:37:12.990336395+01:00
 section:
-- replies
+- micro
 - home
 createdWith: https://micropublish.net/
 properties:

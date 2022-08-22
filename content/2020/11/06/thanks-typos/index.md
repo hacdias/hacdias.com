@@ -2,7 +2,7 @@
 description: Replied to a post on commentpara.de
 published: 2020-11-06T17:44:30Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://commentpara.de/comment/690.htm

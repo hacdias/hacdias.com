@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2022-03-28T21:10:59Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/tq4lb2/troca_de_carta_de_condução_noutro_país_da_eu/i2hfxqk/

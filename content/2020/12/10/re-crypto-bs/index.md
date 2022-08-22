@@ -2,7 +2,7 @@
 description: Replied to a post on jlelse.blog
 published: 2020-12-10T07:13:00Z
 section:
-- replies
+- micro
 - home
 properties:
   category:

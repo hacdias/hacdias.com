@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2020-02-19T07:35:24Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/CodingHelp/comments/f3pdrb/can_hugo_be_used_as_a_wiki/

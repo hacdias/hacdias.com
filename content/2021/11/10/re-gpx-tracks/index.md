@@ -2,7 +2,7 @@
 description: Replied to a post on jlelse.blog
 published: 2021-11-10T17:40:31.292946556Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2021/11/gpx-tracks

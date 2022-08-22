@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2014-07-29T13:23:18Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/portugal/comments/2c15vj/remover_hash_dos_links_continuar_a_ler/cjawbo0/

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-07-22T10:29:58Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/askgaybros/comments/op4mqi/do_you_think_the_world_will_ever_get_70_adults/h63ldin/

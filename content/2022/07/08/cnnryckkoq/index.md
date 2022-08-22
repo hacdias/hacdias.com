@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2022-07-08T17:57:29.383384784+02:00
 section:
-- replies
+- micro
 - home
 createdWith: https://indieweb.org/Shortcuts
 properties:

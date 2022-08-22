@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-11-20T15:35:42Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/qy7ft9/selfemployed_friendly_bank/hle760x/

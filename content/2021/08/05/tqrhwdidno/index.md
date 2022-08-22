@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-08-05T08:47:28Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/oy2vyc/deleted_by_user/h7s7kae/

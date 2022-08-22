@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2022-01-14T16:37:32Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/rxjqgt/inscrição_no_recenseamento_eleitoral/hrirmr1/

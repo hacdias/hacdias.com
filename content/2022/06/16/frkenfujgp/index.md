@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2022-06-16T14:16:59.910890958+02:00
 section:
-- replies
+- micro
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://www.reddit.com/r/PortugalLaFora/comments/vcw0j0/renovar_carta_de_condu%C3%A7%C3%A3o/

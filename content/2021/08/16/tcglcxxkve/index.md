@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-08-16T21:17:39Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/p5izdf/lgbt_friendly_doctors/

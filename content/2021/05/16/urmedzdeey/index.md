@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-05-16T16:12:30Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/ndkqpd/engenheiros_com_licenciatura/

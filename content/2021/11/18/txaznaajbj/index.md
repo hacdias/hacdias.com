@@ -2,7 +2,7 @@
 description: Replied to a post on seblog.nl
 published: 2021-11-18T21:07:18.222010491Z
 section:
-- replies
+- micro
 - home
 createdWith: https://indigenous.abode.pub/ios/
 properties:

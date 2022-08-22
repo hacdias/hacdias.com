@@ -2,7 +2,7 @@
 description: Replied to a post on hacdias.com
 published: 2022-01-27T11:02:56.83669312Z
 section:
-- replies
+- micro
 - home
 createdWith: https://indieweb.org/Shortcuts
 properties:

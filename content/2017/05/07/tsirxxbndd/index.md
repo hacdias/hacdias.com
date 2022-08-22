@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2017-05-07T12:41:13Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/69lbu2/média_de_leic_na_alameda/dh8o7ee/

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-07-28T19:18:16Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/otg4c9/did_your_country_eu_already_implement_20191157/h6v5ulf/

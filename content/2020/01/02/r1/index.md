@@ -2,7 +2,7 @@
 description: Replied to a post on hacdias.com
 published: 2020-01-02T23:45:24.733Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://hacdias.com/2020/01/02/6/dynamic-static/

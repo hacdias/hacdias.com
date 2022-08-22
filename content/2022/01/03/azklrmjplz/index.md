@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2022-01-03T18:52:01Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/ruyzkm/straight_a_students_are_they_common_in_your/hr2xg2u/

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-08-22T13:46:26Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/TUe/comments/p98e8g/romanin_tue_group_chat/

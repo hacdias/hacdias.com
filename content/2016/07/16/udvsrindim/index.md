@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2016-07-16T09:58:01Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/pokemongo/comments/4t15fc/rural_be_like/d5edor8/

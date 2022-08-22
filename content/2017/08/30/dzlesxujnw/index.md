@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2017-08-30T20:56:05Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/IST/comments/6x1oqy/semana_da_inscrição/

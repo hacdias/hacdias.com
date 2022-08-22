@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-02-03T21:46:36Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/git/comments/lbwo2f/mirror_repositories_and_viewable_web_page/glwqw01/

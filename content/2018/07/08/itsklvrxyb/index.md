@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2018-07-08T10:35:03Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/webdev/comments/8ctqoi/static_cms_forestry_or_netlify_cms/dyafy77/

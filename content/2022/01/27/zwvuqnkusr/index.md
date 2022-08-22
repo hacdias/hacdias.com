@@ -2,7 +2,7 @@
 description: Replied to a post on twitter.com
 published: 2022-01-27T10:50:21.759056586Z
 section:
-- replies
+- micro
 - home
 createdWith: https://indieweb.org/Shortcuts
 properties:

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-09-23T21:20:12Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/Netherlands/comments/pu3rba/us_cdc_vaccine_register_for_corona_app/

@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-10-19T20:33:36Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/AskEurope/comments/qb8qb5/is_your_anthem_more_of_a_revolutionary_song_or/

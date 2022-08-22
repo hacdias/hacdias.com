@@ -2,7 +2,7 @@
 description: Replied to a post on jlelse.blog
 published: 2022-03-19T10:17:28.181459791+01:00
 section:
-- replies
+- micro
 - home
 createdWith: https://micropublish.net/
 properties:

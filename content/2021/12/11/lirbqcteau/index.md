@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-12-11T07:53:00Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/portugal/comments/rd7xl3/emojis_da_cultura_portuguesa/ho1gpmf/

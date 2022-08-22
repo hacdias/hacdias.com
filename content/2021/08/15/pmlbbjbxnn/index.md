@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-08-15T19:54:15Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/portugal/comments/p4xdao/por_que_portugal_não_o_fez/

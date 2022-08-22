@@ -3,7 +3,7 @@ description: Replied to a post on jlelse.blog
 published: 2021-10-27T08:31:19.327263174Z
 updated: 2021-10-27T08:37:23.240873987Z
 section:
-- replies
+- micro
 - home
 properties:
   category:

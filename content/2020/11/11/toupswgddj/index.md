@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2020-11-11T19:30:37Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/runescape/comments/jsehzn/new_rendering_system_runefest_2019/gbyp0zu/

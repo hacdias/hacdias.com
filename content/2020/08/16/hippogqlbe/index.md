@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2020-08-16T07:03:09Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/gaybros/comments/iafv0r/i_did_it/

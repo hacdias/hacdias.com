@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2021-04-24T10:13:07Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/remNote/comments/mw7goq/problem_with_how_superscripts_are_displayed_in/

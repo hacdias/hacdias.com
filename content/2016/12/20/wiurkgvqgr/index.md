@@ -2,7 +2,7 @@
 description: Replied to a post on www.reddit.com
 published: 2016-12-20T08:30:50Z
 section:
-- replies
+- micro
 - home
 properties:
   in-reply-to: https://www.reddit.com/r/runescape/comments/5j9x6f/spoiler_mid_level_impossible_to_regain_quest_cape/dbejwlt/
