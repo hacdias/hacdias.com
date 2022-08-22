@@ -10,5 +10,5 @@ properties:
   - fun
 ---
 
-
+Still running on [itcorp.com](https://itcorp.com). It is one of the oldest, still-running, websites. Link above is to a preserved version on IPFS.
 

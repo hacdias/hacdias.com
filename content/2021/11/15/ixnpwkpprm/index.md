@@ -9,5 +9,5 @@ properties:
   category: fun
 ---
 
-
+Still running on [toastytech.com](http://toastytech.com/). Link above is to a preserved version on IPFS.
 

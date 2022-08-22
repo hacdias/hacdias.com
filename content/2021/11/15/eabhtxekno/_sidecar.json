@@ -1,5 +1,7 @@
 {
-  "targets": [],
+  "targets": [
+    "https://itcorp.com"
+  ],
   "context": null,
   "webmentions": []
 }
