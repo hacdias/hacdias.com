@@ -25,10 +25,6 @@ properties:
 ---
 
 <style>
-:root {
-  --accent: #c06684;
-}
-
 figure.cherry-blossom {
   margin-top: 0;
   max-width: 11rem;

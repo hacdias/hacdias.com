@@ -13,7 +13,7 @@ listing: {}
 
 <style>
 :root {
-  --accent: #222 !important;
+  --accent: #222;
 }
 </style>
 

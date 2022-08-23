@@ -9,27 +9,12 @@ In this page, you can find a collection of different links I collected over the 
 
 <!--more-->
 
-<!--
-<style>
-  :root {
-    --accent: #0f0;
-    --background: #000;
-    --black: #0f0;
-    --dark-gray: #0f0;
-    --light-gray: #0f0;
-    --light-white: #0f0;
-    --near-white: #000;
-    --white: #000;
-  }
-</style>-->
+## Articles {#articles}
 
-
-## Articles
-
--  **[How NAT traversal works](/2022/08/20/jjoteyswgo)** - this is an article by Tailscale that explains ho NAT traversal works and the different algorithms they employ in order to reach the majority of the internet.
+- **[How NAT traversal works](/2022/08/20/jjoteyswgo)** - this is an article by Tailscale that explains ho NAT traversal works and the different algorithms they employ in order to reach the majority of the internet.
 - **[What is the Small Web?](/2022/08/16/mgjmonrbrl)** – this is an article by Aral Balkan where they compare the state of the current web, the big web, with the web of the people. It introduces the concept of "small web".
 
-## Friends
+## Friends {#friends}
 
 <div style="text-align: center;">
 
@@ -37,7 +22,7 @@ In this page, you can find a collection of different links I collected over the 
 
 </div>
 
-## Inspirational
+## Inspirational {#inspirational}
 
 These are some websites that inspired mine in some way, such as in design, in content organization, or in style. I do not guarantee that the current iterations of the website were the ones that inspires me though.
 
