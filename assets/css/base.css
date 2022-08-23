@@ -29,6 +29,7 @@
   --max-width: 52rem;
   --border: 2px;
   --radius: 0.4rem;
+  --drop-shadow: drop-shadow(1px 1px 1px var(--light-white));
 }
 
 * {
@@ -209,7 +210,7 @@ input[type="submit"]:hover {
 }
 
 input, textarea, button {
-  filter: drop-shadow(1px 1px 1px var(--light-white));
+  filter: var(--drop-shadow);
 }
 
 #footer {
@@ -344,7 +345,7 @@ details summary {
 }
 
 #header,
-#header > a {
+#header #home {
   display: flex;
   align-items: center;
 }
@@ -370,8 +371,7 @@ details summary {
 
 #header .name {
   font-weight: bold;
-  font-size: 1.5rem;
-  color: var(--black);
+  font-size: var(--f3);
 }
 
 #header label,
@@ -380,6 +380,7 @@ details summary {
 }
 
 #navbar {
+  display: flex;
   background-color: var(--accent);
   color: var(--white);
   margin-top: 0;
@@ -387,25 +388,30 @@ details summary {
   border-radius: var(--radius);
   overflow: hidden;
   text-align: center;
-  font-weight: 600;
-  display: flex;
+  font-weight: bold;
 }
 
+#navbar label,
 #navbar a {
   flex-grow: 1;
   display: block;
   padding: var(--hms);
-  font-weight: bold;
+  cursor: pointer;
 }
 
-#nav-toggler {
+#mobile-search,
+#navbar label {
   display: none;
-  font-weight: bold;
-  background-color: var(--accent);
-  color: var(--white);
-  cursor: pointer;
+}
+
+#mobile-search {
+  margin-left: auto;
+}
+
+#mobile-search button {
+  background: var(--near-white);
+  border-color: var(--light-white);
   padding: var(--hms);
-  margin-bottom: 0;
 }
 
 #navbar a:hover {
@@ -650,28 +656,35 @@ figure.right {
     --hls: 1rem;
   }
 
-  #header,
+  #header {
+    padding: 0 var(--hms);
+  }
+
+  #header .avatar {
+    width: 4rem;
+  }
+
   #navbar,
-  #nav-toggler {
+  #navbar label,
+  #toggler:checked + #navbar a,
+  #mobile-search {
     display: block;
     text-align: left;
   }
 
+  #mobile-search {
+    margin-left: auto;
+  }
+
   #navbar {
-    margin-top: 0;
-    display: none;
-  }
-
-  #toggler:checked + #navbar {
-    display: block;
-  }
-  
-  #header form {
     width: 100%;
+    margin: 0;
+    border-radius: var(--radius) !important;
   }
 
-  #header > a {
-    justify-content: center;
+  #navbar a,
+  #header form {
+    display: none;
   }
 
   .fg {

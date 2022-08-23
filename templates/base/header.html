@@ -1,6 +1,6 @@
 {{ define "base/header" }}
   <div id='header'>
-    <a class='nl' href='{{ relURL "/" }}'>
+    <a class='nl' href='{{ relURL "/" }}' id='home'>
       <picture class="avatar">
         <source type="image/webp" srcset="{{ relURL "/avatar.webp" }}">
         <img alt='Avatar' src="{{ relURL "/avatar.png" }}">
@@ -16,11 +16,15 @@
       <input required type="text" placeholder='Search…' id="query" name="query">
       <input type='submit' value='Go' />
     </form>
+
+    <a href="{{ relURL "/search" }}" alt="Search" class='nl' id='mobile-search'>
+      <button>🔎</button>
+    </a>
   </div>
 
-  <label id='nav-toggler' class='fw' for="toggler">🍔 Menu</label>
   <input type="checkbox" id="toggler" class='dn'>
   <nav id='navbar' class="fw">
+    <label for="toggler">🍔 Menu</label>
     {{ range .Site.Menus.main -}}
       {{ $url := relURL .Link }}
       <a href='{{ $url }}' class='nl{{ if eq $url $.ID }} active{{ end }}'>{{ .Emoji }} {{ .Name }}</a>
