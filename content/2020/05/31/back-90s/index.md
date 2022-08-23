@@ -20,11 +20,15 @@ Over the past months, I have been reading more and more posts where people are [
 <!--more-->
 
 <style>
-@media screen and (min-width: 38rem) {
+@media screen and (min-width: 48rem) {
   body {
     background: #010d2a url(https://cdn.hacdias.com/media/2020-05-sea-pattern.jpeg);
     background-size: 300px;
     background-attachment: fixed;
+  }
+
+  #navbar {
+    border-radius: 0;
   }
 }
 
@@ -34,10 +38,6 @@ Over the past months, I have been reading more and more posts where people are [
 
 .container {
   background: var(--background);
-}
-
-#navbar {
-  border-radius: 0;
 }
 
 .netscape,

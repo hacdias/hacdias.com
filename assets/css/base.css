@@ -679,7 +679,7 @@ figure.right {
   #navbar {
     width: 100%;
     margin: 0;
-    border-radius: var(--radius) !important;
+    border-radius: var(--radius);
   }
 
   #navbar a,

@@ -8,18 +8,18 @@
   --accent: #c0749d;
 }
 
-@media screen and (min-width: 38rem) {
+@media screen and (min-width: 48rem) {
   body {
     background: #48084f url(/watches/pattern.jpeg);
     background-size: 300px;
     background-attachment: fixed;
   }
+
+  #navbar {
+    border-radius: 0;
+  }
 }
 
 .container {
   background: var(--background);
-}
-
-#navbar {
-  border-radius: 0;
 }
