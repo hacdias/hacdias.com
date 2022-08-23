@@ -38,6 +38,6 @@ function setupPreview() {
 parseEmojis(document.body)
 setupPreview()
 
-if (editor) {
+if (typeof editor !== 'undefined') {
   editor.setup()
 }
