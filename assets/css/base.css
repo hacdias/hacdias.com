@@ -42,7 +42,6 @@ html {
 body {
   color: var(--dark-gray);
   background: var(--background);
-  border-top: 0.5rem solid var(--accent);
   background-attachment: fixed;
   line-height: 1.25;
   min-height: 100vh;
