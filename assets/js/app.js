@@ -15,17 +15,16 @@ function parseEmojis (el) {
 
 function setupPreview() {
   const preview = document.createElement("div")
-  
+
   preview.id = 'preview'
   preview.className = 'dn'
-  
   preview.addEventListener('click', () => {
     preview.classList.add('dn')
     preview.innerHTML = ''
   })
-  
+
   document.body.appendChild(preview)
-  
+
   const images = document.querySelectorAll('article figure img')
   Array.from(images).forEach(img => {
     img.style.cursor = 'zoom-in'
@@ -38,3 +37,7 @@ function setupPreview() {
 
 parseEmojis(document.body)
 setupPreview()
+
+if (editor) {
+  editor.setup()
+}

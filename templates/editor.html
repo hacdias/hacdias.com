@@ -1,14 +1,12 @@
 {{ define "main" }}
+  <link rel="stylesheet" href="{{ .Assets.Path "editor.css" }}">
   <main role='main' id="editor-page">
     <header>
       <h1>Edit</h1>
     </header>
 
-    {{ include "editor/css" . }}
-
     <form method=POST>
       <textarea required id=content name=content>{{ .Data.Content }}</textarea>
-      {{ include "textarea-tab" . }}
 
       <div class=options>
          <label><input type=checkbox name=lastmod {{ if not .Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
@@ -26,6 +24,7 @@
       <button type="submit" name="action" value="update">Update</button>
     </form>
   </main>
+  <script type="text/javascript" src="{{ .Assets.Path "editor.js" }}"></script>
 {{ end }}
 
 {{ define "editor" }}

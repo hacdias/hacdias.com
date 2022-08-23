@@ -1,10 +1,9 @@
 {{ define "main" }}
+  <link rel="stylesheet" href="{{ .Assets.Path "editor.css" }}">
   <main role='main' id="editor-page">
     <header>
       <h1>New</h1>
     </header>
-
-    {{ include "editor/css" . }}
 
     <p>
       <strong>Templates:</strong>
@@ -16,8 +15,7 @@
     <form method=POST>
       <input type="text" required name="id" placeholder="id" value="{{ .Data.ID }}" />
 
-      <textarea required name="content">{{ .Data.Content }}</textarea>
-      {{ include "textarea-tab" . }}
+      <textarea required id=content name="content">{{ .Data.Content }}</textarea>
 
       {{ with .Data.Syndicators }}
       <div class=options>
@@ -31,6 +29,7 @@
       <button type="submit" name="action" value="Create">Create</button>
     </form>
   </main>
+  <script type="text/javascript" src="{{ .Assets.Path "editor.js" }}"></script>
 {{ end }}
 
 {{ define "new" }}

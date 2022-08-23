@@ -1,0 +1,49 @@
+#editor-page input,
+#editor-page textarea,
+#editor-page button {
+  display: block;
+  width: 100%;
+  margin: 0.5rem 0;
+}
+
+#editor-page textarea {
+  min-height: 30rem;
+  resize: vertical;
+}
+
+.cm-editor {
+  border: 1px solid var(--light-white);
+  outline: 0;
+  border-radius: var(--radius);
+  background: var(--white);
+  color: var(--dark-gray);
+}
+
+.cm-editor.cm-focused {
+  outline: 0 !important;
+}
+
+.cm-scroller {
+  font-family: -apple-system,
+    BlinkMacSystemFont,
+    avenir next,
+    avenir,
+    helvetica,
+    helvetica neue,
+    ubuntu,
+    roboto,
+    noto,
+    segoe ui,
+    arial,
+    sans-serif !important;
+}
+
+.options {
+  margin: 1rem 0;
+}
+
+.options label * {
+  margin: 0 !important;
+  width: auto !important;
+  display: inline !important;
+}
