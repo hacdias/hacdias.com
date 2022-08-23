@@ -17,6 +17,8 @@
   border-radius: var(--radius);
   background: var(--white);
   color: var(--dark-gray);
+  filter: var(--drop-shadow);
+  padding: 0.5rem;
 }
 
 .cm-editor.cm-focused {
