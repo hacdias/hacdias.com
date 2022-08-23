@@ -13,15 +13,13 @@ properties:
 
 <div class="box">
 
-Once in a while, I publish updates under the tag [meta](/tags/meta/).
+✨ Once in a while, I publish updates under the tag [meta](/tags/meta/).
 
 </div>
 
-This website was started in 2014, when I was 14. The [first post](/articles/2014/07/apresentacao/) was still in Portuguese and that's where I said my "Hello, World" in a Portuguese fashion. For quite some time, I had different blogs and then I ended up [merging everything](/articles/2015/02/i-have-moved-again/) under my main domain, which, at the time, was **henriquedias.com**.
+I started this website in 2014, when I was 14. At the time, all the content was in Portuguese, and I was running multiple blogs. After some time, I decided to start writing in English in hopes to improve my English skills, which I can argue that worked. Nowadays, all other blogs I had are merged under the current domain.
 
-I kept writing in Portuguese until the beginning of 2015. Then, I aimed for something more: to write in English. As a 15 year old, I felt the urge to develop my English skills and I thought having a blog would help. In retrospective, I am pretty sure it did!
-
-Some more years passed, I created a few other blogs, and now we're here, at **hacdias.com**. The old domain still exists, I still have it, and it merely redirects here. Since 2014, this website suffered, at least, 16 complete redesigns. For the future, I will try holding off more redesigns. I'm not yet 100% happy with the current design, which I have since September 2020.
+This website has seen quite a few redesigns. I [wrote](/2022/03/25/my-website-before-indieweb) about all the main designs I had before this website was part of the IndieWeb community, and [after](/2022/06/18/my-website-after-indieweb). I am still not 100% settled on the current design. However, major changes are slowing down, which means I might be coming to a good point where I am mostly satisfied.
 
 ## 💡 Why Does This Website Exist? {#why}
 
