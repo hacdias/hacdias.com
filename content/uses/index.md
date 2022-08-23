@@ -12,7 +12,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 <!--more-->
 
-## Hardware
+## 📟 Hardware
 
 - **Laptop**: 2021 MacBook Pro 14"
 - **Smartphone:** iPhone 11 Pro
@@ -30,7 +30,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **Auth Device**: [YubiKeys](https://www.yubico.com/) for 2FA, GPG and SSH
 - **Wallet**: [Secrid](https://secrid.com/) for my cards and spare bills
 
-### Photography
+### 📷 Photography
 
 On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
@@ -38,7 +38,7 @@ On the photography department, I currently own a Fuji X-T4. The pictures that co
 - **Lenses**: XF 18-55mm f/2.8-4.0 OIS and XF 27mm F/2.8
 - **Tripod**: Manfrotto Befree
 
-## Software
+## 📀 Software
 
 - **Operating System**: macOS, iOS, Linux (Alpine usually)
 - **Browser**: Firefox on macOS, Safari on iOS - slowly trying to move away from Chrome
@@ -48,7 +48,7 @@ On the photography department, I currently own a Fuji X-T4. The pictures that co
 - **Calendar**: native macOS and iOS apps
 - **Email Provider**: [migadu] - trying to move away from Google. I am, however, looking for an alternative to Migadu that officially supports calendar and contacts management.
 
-### Self-Hosted
+### 🎒 Self-Hosted
 
 Most of the software I self-host is hosted at [Hetzner][hetzner].
 
@@ -75,3 +75,4 @@ Most of the software I self-host is hosted at [Hetzner][hetzner].
 [migadu]: https://www.migadu.com/
 [miniflux]: https://miniflux.app/
 [goshort]: https://jlel.se/goshort
+

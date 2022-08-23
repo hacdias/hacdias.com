@@ -19,8 +19,8 @@ I use this corner of the Internet to write about [anything](/all) that might int
 - [**Do You Wanna Chat?** 🔗](/contact)
 - [✉️ E-mail: mail@hacdias.com](mailto:mail@hacdias.com)
 - [☎️ Telegram:  @hacdias](https://t.me/hacdias)
-- [🎮 Discord: `hacdias#2540`](https://discord.com/users/hacdias#2540)
-- [✨ Matrix: `@hacdias:tchncs.de`](https://matrix.to/#/@hacdias:tchncs.de)
+- [🎮 Discord: hacdias#2540](https://discord.com/users/hacdias#2540)
+- [✨ Matrix: @hacdias:tchncs.de](https://matrix.to/#/@hacdias:tchncs.de)
 
 </div>
 <div class="terms">
@@ -51,3 +51,4 @@ I use this corner of the Internet to write about [anything](/all) that might int
   <a href="mailto:mail@hacdias.com" rel="me" class="u-email">mail@hacdias.com</a>
   <a class="u-key" href="/pubkey.txt">public PGP key</a>
 </div>
+

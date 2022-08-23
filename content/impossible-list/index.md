@@ -3,11 +3,9 @@ title: Impossible List
 description: This is my impossible list, where I define and check some major life
   experiences I want to experience.
 published: 2020-07-15T00:00:00Z
-updated: 2022-08-15T09:16:58.969864239+02:00
+updated: 2022-08-23T14:25:48.368736173+02:00
 noShowInteractions: true
 noSendInteractions: true
-properties:
-  noDate: true
 ---
 
 <style>
@@ -32,13 +30,12 @@ properties:
   margin: 0;
 }
 
-@media screen and (min-width: 38rem) {
-  .trips {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 1rem;
-  }
+.trips ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(13rem,1fr));
+  grid-column-gap: 1rem;
 }
+
 </style>
 
 This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It is kind of a bucket list, but with a twist. Here's the best explanation I found:
@@ -47,7 +44,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 <!--more-->
 
-## Travel Goals
+## ✈️ Travel Goals
 
 1. [x] ~~Visit 5 countries~~ <small>[July 2019] [🇵🇹 PT, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC, 🇩🇪 DE]</small>
    1. [x] ~~Visit 10 countries~~ <small>[February 2020] [🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU, 🇳🇱 NL]</small>
@@ -64,7 +61,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 **Countries Bucket List**
 
 <div class="trips">
-  <div>
 
   - 🇦🇺 Australia
   - 🇦🇹 Austria
@@ -77,10 +73,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇭🇺 Hungary
   - 🇮🇸 Iceland
   - 🇮🇹 Italy
-
-  </div>
-  <div>
-
   - 🇯🇵 Japan
   - 🇳🇴 Norway
   - 🇵🇪 Peru
@@ -92,10 +84,9 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
   - 🇺🇿 Uzbekistan <!-- https://uzbekistan.travel/en/i/bukhara/ -->
 
-  </div>
 </div>
 
-## Professional Goals
+## 💼 Professional Goals
 
 1. [x] ~~Participate in the Youth Parliament~~ <small>[March 2012]</small>
    1. [x] ~~Go to Districts~~ <small>[March 2012, President] [February 2013, Deputy] [March 2016, Deputy]</small>
@@ -120,8 +111,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 13. [ ] Host a meetup
 14. [x] ~~Learn more about neuroscience~~ <small>[June 2020] [[MCB80x](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
 
-
-## Life Goals
+## 🦄 Life Goals
 
 1. [x] ~~Start studying Computer Science~~ <small>[September 2017]</small>
 2. [x] ~~Make my parents fly~~ <small>[July 2019]</small>
@@ -133,7 +123,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 6. [ ] Donate for a good cause for 6 months
 7. [ ] Go on a hot air 🎈 balloon ride 
 
-## Health and Fitness Goals
+## 🫀 Health and Fitness Goals
 
 1. [x] ~~Close all rings on Apple Watch for 1 month~~ <small>[March 2021]</small>
    1. [x] ~~Close all rings on Apple Watch for 2 months~~ <small>[April 2021]</small>
@@ -146,10 +136,10 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
     2. [x] ~~Workout more than twice a week for 4 months~~ <small>[June 2021]</small>
     3. [ ] Workout more than twice a week for 8 months
 
-## Miscellaneous Goals
+## 🧶 Miscellaneous Goals
 
-1. [ ] Ride a 🚇 subway train in the front cabin
-2. [ ] Visit an ✈️ airplane's cockpit mid-air
+1. [ ] Travel a subway train in the front cabin
+2. [ ] Visit an airplane's cockpit
 
 <!--
 
@@ -161,3 +151,4 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small>
 
 -->
+
