@@ -1,5 +1,15 @@
 {{ define "base/admin" }}
   {{ if .IsAdmin }}
-    <p id="edit-btn"><a href="/edit/{{ .Entry.ID }}">Edit</a></p>
+    <style>
+    #btn-edit {
+      background-color: var(--near-white);
+      border-color: var(--light-white);
+      color: var(--dark-gray);
+      position: fixed;
+      bottom: 1rem;
+      right: 1rem;
+    }
+    </style>
+    <a href="/edit{{ .Entry.ID }}"><button id='btn-edit'>Edit</button></a>
   {{ end }}
 {{ end }}
