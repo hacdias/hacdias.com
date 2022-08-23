@@ -1,6 +1,6 @@
 ---
 title: My History With Gaming
-draft: true
+deleted: true
 published: 2022-06-20T08:23:32.387302375+02:00
 createdWith: https://hacdias.com/
 ---
@@ -18,3 +18,4 @@ When I was a kid of around 10 years old - I think -, my cousin and godmother gif
 
 
 ## Nintendo Switch
+
