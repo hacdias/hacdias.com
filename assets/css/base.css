@@ -16,7 +16,7 @@
   --near-white: #f4f4f4;
   --white: #ffffff;
 
-  --accent: #2596be;
+  --accent: #306fdd;
   --background: #fbfbfb;
 
   /* Spacings */
@@ -415,9 +415,10 @@ details summary {
 
 .container {
   width: 100%;
+  background-color: var(--background);
   max-width: var(--max-width);
-  margin: 0 auto;
   padding: var(--hls) var(--ls);
+  margin: 0 auto;
 }
 
 .copy ol,
