@@ -213,6 +213,11 @@ input, textarea, button {
   filter: var(--drop-shadow);
 }
 
+input:disabled {
+  background-color: var(--near-white);
+  cursor: not-allowed;
+}
+
 #footer {
   margin-top: 2rem;
   font-size: var(--f6);

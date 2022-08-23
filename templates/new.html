@@ -14,18 +14,9 @@
 
     <form method=POST>
       <input type="text" required name="id" placeholder="id" value="{{ .Data.ID }}" />
-
       <textarea required id=content name="content">{{ .Data.Content }}</textarea>
 
-      {{ with .Data.Syndicators }}
-      <div class=options>
-        <p><strong>Syndications</strong></p>
-        {{ range . }}
-          <label><input type=checkbox name=syndication value="{{ .UID }}"> {{ .Name }}</label>
-        {{ end }}
-      </div>
-      {{ end }}
-
+      {{ include "editor/syndicators" . }}
       <button type="submit" name="action" value="Create">Create</button>
     </form>
   </main>

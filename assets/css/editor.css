@@ -1,14 +1,24 @@
-#editor-page input,
-#editor-page textarea,
-#editor-page button {
+main input,
+main textarea,
+main button {
   display: block;
   width: 100%;
   margin: 0.5rem 0;
 }
 
-#editor-page textarea {
+main textarea {
   min-height: 30rem;
   resize: vertical;
+}
+
+.options {
+  margin: 1rem 0;
+}
+
+.options label * {
+  margin: 0 !important;
+  width: auto !important;
+  display: inline !important;
 }
 
 .cm-editor {
@@ -38,14 +48,4 @@
     segoe ui,
     arial,
     sans-serif !important;
-}
-
-.options {
-  margin: 1rem 0;
-}
-
-.options label * {
-  margin: 0 !important;
-  width: auto !important;
-  display: inline !important;
 }

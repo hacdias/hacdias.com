@@ -6,20 +6,14 @@
     </header>
 
     <form method=POST>
+      <input type="text" disabled value="{{ .Data.Entry.ID }}" />
       <textarea required id=content name=content>{{ .Data.Content }}</textarea>
 
       <div class=options>
-         <label><input type=checkbox name=lastmod {{ if not .Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
+        <label><input type=checkbox name=lastmod {{ if not .Data.Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
       </div>
 
-      {{ with .Data.Syndicators }}
-      <div class=options>
-        <p><strong>Syndications</strong></p>
-        {{ range . }}
-          <label><input type=checkbox name=syndication value="{{ .UID }}"> {{ .Name }}</label>
-        {{ end }}
-      </div>
-      {{ end }}
+      {{ include "editor/syndicators" . }}
 
       <button type="submit" name="action" value="update">Update</button>
     </form>
