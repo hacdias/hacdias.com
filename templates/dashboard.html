@@ -36,25 +36,18 @@
     }
 
     .admin-nav {
-      list-style: none;
-      padding: 0;
       display: flex;
       flex-wrap: wrap;
-      background-color: var(--accent);
-      color: var(--white);
+      background-color: var(--near-white);
       border-radius: var(--radius);
+      border: var(--border) solid var(--light-white);
       overflow: hidden;
       font-weight: 600;
-    }
-
-    .admin-nav li {
-      flex-grow: 1;
-      margin:0 ;
+      text-align: center;
     }
 
     .admin-nav a {
-      text-align: center;
-      display: block;
+      flex-grow: 1;
       padding: 0.5rem;
     }
 
@@ -64,13 +57,13 @@
     </style>
 
     <div class="copy">
-      <ul class="admin-nav">
-        <li><a class=nl href="/new">New Post</a></li>
-        <li><a class=nl href="/private">Private</a></li>
-        <li><a class=nl href="/drafts">Drafts</a></li>
-        <li><a class=nl href="/unlisted">Unlisted</a></li>
-        <li><a class=nl href="/deleted">Deleted</a></li>
-      </ul>
+      <nav class="admin-nav">
+        <a class=nl href="/new">New Post</a>
+        <a class=nl href="/private">Private</a>
+        <a class=nl href="/drafts">Drafts</a>
+        <a class=nl href="/unlisted">Unlisted</a>
+        <a class=nl href="/deleted">Deleted</a>
+      </nav>
 
       <h2>Actions</h2>
 
