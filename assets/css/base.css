@@ -397,7 +397,6 @@ details summary {
 
 #nav-toggler {
   display: none;
-  border-radius: 0;
   font-weight: bold;
   background-color: var(--accent);
   color: var(--white);
