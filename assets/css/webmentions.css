@@ -60,6 +60,17 @@
   width: 100%;
 }
 
+@media screen and (max-width: 48rem) {
+  .wm .inline-form,
+  .wm .inline-form input {
+    display: block;
+    width: 100%
+  }
+  .wm .inline-form input[type="submit"] {
+    margin: 0.5rem 0 0 0;
+  }
+}
+
 @media print {
   .wm {
     display: none;

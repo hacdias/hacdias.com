@@ -352,17 +352,17 @@ details summary {
   width: 16rem;
 }
 
-#header form input {
-  width: 100%;
-}
-
 #header p {
   margin: 0;
 }
 
-#header .logo {
-  width: 3rem;
-  margin-right: 0.5rem;
+#header .avatar {
+  width: 6rem;
+  margin-right: var(--ms);
+}
+
+#header .avatar img {
+  display: block;
 }
 
 #header .name {
@@ -379,7 +379,7 @@ details summary {
 #navbar {
   background-color: var(--accent);
   color: var(--white);
-  margin-top: var(--hls);
+  margin-top: 0;
   margin-bottom: var(--hls);
   border-radius: var(--radius);
   overflow: hidden;
@@ -417,7 +417,7 @@ details summary {
   width: 100%;
   background-color: var(--background);
   max-width: var(--max-width);
-  padding: var(--hls) var(--ls);
+  padding: 0.7rem var(--ls) var(--hls);
   margin: 0 auto;
 }
 
@@ -668,17 +668,7 @@ figure.right {
   }
 
   #header > a {
-    margin-bottom: var(--hls);
     justify-content: center;
-  }
-
-  .inline-form,
-  .inline-form input {
-    display: block;
-    width: 100%
-  }
-  .inline-form input[type="submit"] {
-    margin: 0.5rem 0 0 0;
   }
 
   .fg {

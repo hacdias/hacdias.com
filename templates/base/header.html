@@ -1,7 +1,11 @@
 {{ define "base/header" }}
   <div id='header'>
     <a class='nl' href='{{ relURL "/" }}'>
-      <img class="logo" alt='Logo' src="{{ relURL "/logo.svg" }}">
+      <picture class="avatar">
+        <source type="image/webp" srcset="{{ relURL "/avatar.webp" }}">
+        <img alt='Avatar' src="{{ relURL "/avatar.png" }}">
+      </picture>
+
       <div>
         <p class='name'>Henrique Dias</p>
         <p class='aka'>known as @hacdias</p>
@@ -10,9 +14,10 @@
 
     <form action="{{ relURL "/search" }}" method="get" class="inline-form">
       <input required type="text" placeholder='Search…' id="query" name="query">
+      <input type='submit' value='Go' />
     </form>
   </div>
-  
+
   <label id='nav-toggler' class='fw' for="toggler">🍔 Menu</label>
   <input type="checkbox" id="toggler" class='dn'>
   <nav id='navbar' class="fw">
