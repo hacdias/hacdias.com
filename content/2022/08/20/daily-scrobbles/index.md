@@ -254,7 +254,7 @@ properties:
   - properties:
       album:
         properties:
-          mbid: 959506fd-881d-4cbb-83d7-4797c239f200
+          mbid: 0c39dcc1-b90d-4b63-aab1-84ec1662a66d
           name: Hold the Girl
         type: h-card
       author:
@@ -277,7 +277,7 @@ properties:
   - properties:
       album:
         properties:
-          mbid: 959506fd-881d-4cbb-83d7-4797c239f200
+          mbid: 0c39dcc1-b90d-4b63-aab1-84ec1662a66d
           name: Hold the Girl
         type: h-card
       author:
@@ -789,7 +789,7 @@ properties:
   - properties:
       album:
         properties:
-          mbid: 959506fd-881d-4cbb-83d7-4797c239f200
+          mbid: 0c39dcc1-b90d-4b63-aab1-84ec1662a66d
           name: Hold the Girl
         type: h-card
       author:
@@ -812,7 +812,7 @@ properties:
   - properties:
       album:
         properties:
-          mbid: 959506fd-881d-4cbb-83d7-4797c239f200
+          mbid: 0c39dcc1-b90d-4b63-aab1-84ec1662a66d
           name: Hold the Girl
         type: h-card
       author:

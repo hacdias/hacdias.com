@@ -1,5 +1,5 @@
 ---
-description: Listened to 94 tracks for 6.04 hours
+description: Listened to 94 tracks for 6.16 hours
 published: 2022-08-19T23:59:59Z
 section:
 - listens
@@ -8,6 +8,27 @@ properties:
   category:
   - daily-scrobbles
   listen-of:
+  - properties:
+      album:
+        properties:
+          name: A Second to Midnight
+        type: h-card
+      author:
+        properties:
+          mbid: 2fddb92d-24b2-46a5-bf28-3aed46f4684c
+          name: Kylie Minogue
+        type: h-card
+      category:
+      - disco
+      - pop
+      - dance
+      - bop
+      - dance-pop
+      duration: 207
+      name: A Second to Midnight
+      published: "2022-08-20T00:32:50+02:00"
+      url: https://www.last.fm/music/Kylie+Minogue/_/A+Second+to+Midnight
+    type: h-cite
   - properties:
       album:
         properties:
@@ -45,6 +66,23 @@ properties:
       name: Come Alive (with Years & Years and Jess Glynne)
       published: "2022-08-20T00:26:24+02:00"
       url: https://www.last.fm/music/Years+&+Years/_/Come+Alive+(with+Years+&+Years+and+Jess+Glynne)
+    type: h-cite
+  - properties:
+      album:
+        properties:
+          name: Night Call (Deluxe)
+        type: h-card
+      author:
+        properties:
+          mbid: 9f23b7c3-baa6-4e38-b1a9-5c38359ad982
+          name: Years & Years
+        type: h-card
+      category: []
+      duration: 150
+      mbid: 50b7dab2-f032-4855-9eca-f215535fa08d
+      name: Immaculate
+      published: "2022-08-20T00:23:50+02:00"
+      url: https://www.last.fm/music/Years+&+Years/_/Immaculate
     type: h-cite
   - properties:
       album:
@@ -1251,7 +1289,7 @@ properties:
       - american
       - duo
       - girlsband
-      duration: 150
+      duration: 195
       mbid: 8d99a4b9-9f78-4553-87ca-e0bd3f176c7c
       name: Symptom of Your Touch
       published: "2022-08-19T17:05:48+02:00"
@@ -1428,7 +1466,7 @@ properties:
       - american
       - duo
       - girlsband
-      duration: 150
+      duration: 195
       mbid: 8d99a4b9-9f78-4553-87ca-e0bd3f176c7c
       name: Symptom of Your Touch
       published: "2022-08-19T16:08:40+02:00"
@@ -2034,7 +2072,7 @@ properties:
   - properties:
       album:
         properties:
-          mbid: 959506fd-881d-4cbb-83d7-4797c239f200
+          mbid: 0c39dcc1-b90d-4b63-aab1-84ec1662a66d
           name: Hold the Girl
         type: h-card
       author:
@@ -2057,7 +2095,7 @@ properties:
   - properties:
       album:
         properties:
-          mbid: 959506fd-881d-4cbb-83d7-4797c239f200
+          mbid: 0c39dcc1-b90d-4b63-aab1-84ec1662a66d
           name: Hold the Girl
         type: h-card
       author:
@@ -2382,8 +2420,8 @@ properties:
       published: "2022-08-19T08:17:52+02:00"
       url: https://www.last.fm/music/Madonna/_/Sorry
     type: h-cite
-  scrobbles-count: 121
-  total-duration: 6.038611111111111
+  scrobbles-count: 123
+  total-duration: 6.1627777777777775
   tracks-count: 94
 ---
 
