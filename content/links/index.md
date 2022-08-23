@@ -47,14 +47,14 @@ These are some websites that inspired mine in some way, such as in design, in co
 
 </div>
 
-## Old Websites
+## Old Websites {#old-websites}
 
 - **[Interrupt Technology Corporation](/2021/11/15/eabhtxekno)** - a preserved version of a website that has been running since 1986, being one of the oldest websites still running today.
 - **[Old Internet Files](/2021/11/15/tiurcwjimy)** - a preserved version of a website with old internet files, such as zone files, hosts information and domains information.
 - **[Nathan's Toasty Technology Page](/2021/11/15/ixnpwkpprm)** - a very random website with very random things and screenshots from old software.
 - **[The World Wide Web History Project](/2021/11/15/yvlbsiplct)** - a preserved website that was nominated Cool Site of the Year in 1997, which explains what is the World Wide Web.
 
-## Blogroll
+## Blogroll {#blogroll}
 
 An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
 

@@ -2,7 +2,7 @@
 title: Colophon
 description: Why does this website exist? How does it work?
 published: 2021-02-19T09:45:13Z
-updated: 2022-03-15T21:00:01.21373536+01:00
+updated: 2022-08-23T08:53:36.318852299+02:00
 noShowInteractions: true
 noSendInteractions: true
 properties:
@@ -23,47 +23,41 @@ This website has seen quite a few redesigns. I [wrote](/2022/03/25/my-website-be
 
 ## 💡 Why Does This Website Exist? {#why}
 
-Everyone that creates content does so for some reason and I am no exception, of course. I honestly don't remember the reason why I created the website in the first place, but I can tell you the reasons that lead me to keep it nowadays.
+I cannot recall the reason why I created this website in first place. Perhaps, I wanted to have some kind of presence online that was not just the social media. Besides, I knew no one that had a website back then and I'm almost sure I did not tell any of my friends about it either. The main reasons, as of now, to maintain this website, are as follows:
 
-- **Personality:** I want this website to show who I am, what I am doing and what I like. Nowadays, most websites are very plain and look the same. This is my corner, and I'm trying to make it pleasant and, at the same time, [unique](/articles/2020/05/back-90s/).
+- **Expression**: I think a personal website is a good way for all of us to express ourselves, by customizing it the way we want, working the way we want it to. It's a call for more people to do the same and bring [uniqueness](/articles/2020/05/back-90s/) to the Internet again.
 
-- **Knowledge:** doubtfully the reason why I started this website. However, one of the main goals for me is to share my opinions and possibly help anyone along the way. By writing, I also learn. It is a method of consolidating existing knowledge.
+- **Sharing**: I try to share some of my knowledge on this website, and also life updates. It's a good way to document both the things that I do, that I am and that I want to remember in the future. By writing, I also learn.
 
-- **Photography:** I love photography and taking pictures with my [camera](/uses/#photography). I am not a big fan of social media apps such as Instagram because I can't chose to have a layout as I wish. I might get less "views" here, but what matters is the content and that it can be presented and customized how I want.
+- **Photography:** I love photography and taking pictures with my [camera](/uses/#photography). I am definitely not the best photographer, but I enjoy learning and taking better photos with time.
 
-- **Less social media:** almost everyone uses social media. Despite being useful, they are also locked silos where you store your data. The data you create. The data you should own. Using my website as the medium to share whatever I want to share in first hand allows me to own my data a little bit more.
+- **Less social media**: I am trying to use less and less of the social media networks that we all know. The web we know is not the web we should want. We should want something more personal and customizable and interoperable.
 
 ## ⚙️ How Does This Website Work? {#how}
 
-Over the time, this website has suffered imense changes. Sometimes I think how crazy it feels to have a website for over 6 years already and I'm just 21. I guess that is one of the perks of being born in this age. I wonder what the future generations will have.
+Over time, this website has suffered significant changes on how it works. For most of the time, this website used to be a completely static website, relying on [Hugo](https://gohugo.io/). I still recommend Hugo for most people that want to have a simple static website as it is extremely fast and customizable. However, for me, Hugo was no longer enough and the website is now powered by **[Eagle](https://github.com/hacdias/eagle)**, my own custom back-end built in Go.
 
-### Eagle
+Regarding storage and hosting, this website is hosted in a VPS I rent with [Hetzner](https://www.hetzner.com/) and it goes through [Cloudflare](https://www.cloudflare.com/) for caching. I also use [**Bunny**](https://bunny.net/) for most of my media content, as they provide very fast CDN storage for good prices.
 
-This website used to be completely static. However, since the 15th of November 2021, I am no longer using [Hugo](https://gohugo.io/). It is now completely powered by **[Eagle](https://github.com/hacdias/eagle)**, my own custom CMS built in Go.
-
-### Storage
-
-Regarding storage, this website is directly served from a **VPS** I rent with [Hetzner](https://www.hetzner.com/) and it goes through [Cloudflare](https://www.cloudflare.com/) for caching. That is the main entry point of this website.
-
-Not everything is stored in my VPS though. All my media content (photos, videos, etc) is served from a subdomain `cdn.hacdias.com` which is linked to a [**Bunny**](https://bunny.net/) edge storage box. Bunny is yet another CDN, just like Cloudflare. However, they also provide the possibility of having a storage box where you can directly store files that are then served by their CDN.
+It is hard to keep up with all the changes that may happen on this website. Therefore, if you want to learn more and see my thought process and changes that have happened over the time, please check the tag [meta](/tags/meta).
 
 ## 🍇 The Features {#features}
 
 Nowadays, this website provides more features than ever before. Even though it is technically static, it is updated quite frequently with data from multiple services I use to track movies, TV shows, songs I listen to, books I read, etc.
 
-### The Data
+### 💽 The Data {#data}
 
 As I said before, my website feds from data from some other services I use to keep track of certain things. Now you may ask me "but wasn't the point to own your own data? why are you using external services?". Well, my reply to that is that those external services work very well and are very convenient.
 
-- 📺 [**Trakt**](https://trakt.tv) feeds into my [watches](/watches/) page, which contains the series and movies I watched. Currently, I don't keep track of each episode on my website and I keep it simple by stating the last time I watched each series or movie. The updates come through [OwnMyTrakt](https://github.com/hacdias/ownyourtrakt).
+- 📺 [**Trakt**](https://trakt.tv) feeds into my [watches](/watches) page, which contains the series and movies I watched. Currently, I don't keep track of each episode on my website and I keep it simple by stating the last time I watched each series or movie. The updates come through [OwnMyTrakt](https://github.com/hacdias/ownyourtrakt).
 
-- 🐝  [**Swarm**](https://www.swarmapp.com/) feeds into my [checkins](/checkins/) page, which contains the checkins of places I've been to. These updates are generated via [OwnYourSwarm](https://ownyourswarm.p3k.io/).  
+- 🐝  [**Swarm**](https://www.swarmapp.com/) feeds into my [checkins](/checkins) page, which contains the checkins of places I've been to. These updates are generated via [OwnYourSwarm](https://ownyourswarm.p3k.io/).  
 
-- 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contrary to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens/) page which has the current top artists and tracks I've been listening to. It's probably the "worse" looking page from the bunch. It is updated daily via some [scripts](https://github.com/hacdias/silos-collector) I wrote.
+- 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contrary to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens) page which has the current top artists and tracks I've been listening to. It's probably the "worse" looking page from the bunch.
 
-- 🙍 [**Miniflux**](https://miniflux.app/) is a simple RSS reader that I self-host. It has a really neat API and I use to track down my blogroll, which can be found in the [blogroll](/blogroll) page. I believe it is important to let others know we follow them and to share that with the blogosphere.
+- 🙍 [**Miniflux**](https://miniflux.app/) is a simple RSS reader that I self-host. It has a really neat API and I use to track down my blogroll, which can be found in the [blogroll](/links#blogroll) page. I believe it is important to let others know we follow them and to share that with the blogosphere.
 
-### IndieWeb
+### 🕸 IndieWeb {#indieweb}
 
 This website supports many features endorsed by the [IndieWeb](https://indieweb.org/) community, such as Webmentions, Microformats and IndieAuth.
 
