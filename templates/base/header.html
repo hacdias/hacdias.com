@@ -1,23 +1,29 @@
 {{ define "base/header" }}
+  <div id='header'>
+    <a class='nl' href='{{ relURL "/" }}'>
+      <img class="logo" alt='Logo' src="{{ relURL "/logo.svg" }}">
+      <div>
+        <p class='name'>Henrique Dias</p>
+        <p class='aka'>aka @hacdias</p>
+      </div>
+    </a>
+
+    <form action="{{ relURL "/search" }}" method="get" class="inline-form">
+      <input required type="text" placeholder='Search…' id="query" name="query">
+    </form>
+  </div>
+  
+  <label id='nav-toggler' class='fw' for="toggler">🍔 Menu</label>
+  <input type="checkbox" id="toggler" class='dn'>
   <nav id='navbar' class="fw">
-    <input type="checkbox" id="toggler">
-    <ul>
-      <li><a class='nl' href='{{ relURL "/" }}'>Henrique Dias</a></li>
-      {{ range .Site.Menus.main -}}
-        <li>
-          {{ $url := relURL .Link }}
-          <a href='{{ $url }}' class='nl{{ if eq $url $.ID }} active{{ end }}'>{{ .Name }}</a>
-        </li>
+    {{ range .Site.Menus.main -}}
+      {{ $url := relURL .Link }}
+      <a href='{{ $url }}' class='nl{{ if eq $url $.ID }} active{{ end }}'>{{ .Emoji }} {{ .Name }}</a>
+    {{ end }}
+    {{ if .IsLoggedIn }}
+      {{ if .IsAdmin }}<a href='{{ relURL "/dashboard" }}' class='nl'>🎛 Admin</a>
+      {{ else }}<a href='{{ relURL "/private" }}' class='nl'>🔒 Private</a>
       {{ end }}
-      <li>
-        <form action="{{ relURL "/search" }}" method="get">
-          <input required type="text" placeholder='Search…' id="query" name="query">
-        </form>
-      </li>
-    </ul>
-    <div>
-      <a class='nl' href='{{ relURL "/" }}'>Henrique Dias</a>
-      <label for="toggler">Menu 🍔</label>
-    </div>
+    {{ end }}
   </nav>
 {{ end }}
