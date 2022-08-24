@@ -431,7 +431,7 @@ details summary {
   width: 100%;
   background-color: var(--background);
   max-width: var(--max-width);
-  padding: 0.7rem var(--ls) var(--hls);
+  padding: var(--hls) var(--ls);
   margin: 0 auto;
 }
 
