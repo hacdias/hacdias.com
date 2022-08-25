@@ -29,7 +29,6 @@
   --max-width: 52rem;
   --border: 2px;
   --radius: 0.4rem;
-  --drop-shadow: drop-shadow(1px 1px 1px var(--light-white));
 }
 
 * {
@@ -208,10 +207,6 @@ input[type="submit"] {
 button:hover,
 input[type="submit"]:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2));
-}
-
-input, textarea, button {
-  filter: var(--drop-shadow);
 }
 
 input:disabled {
