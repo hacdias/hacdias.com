@@ -60,7 +60,7 @@
   width: 100%;
 }
 
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 52rem) {
   .wm .inline-form,
   .wm .inline-form input {
     display: block;

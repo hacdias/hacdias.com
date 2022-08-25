@@ -633,30 +633,7 @@ figure.right {
   height: 100%;
 }
 
-@media screen and (max-width: 60rem) {
-  body {
-    border-top: 0;
-  }
-
-  .container {
-    max-width: 100%;
-  }
-
-  #footer > div {
-    display: block;
-    text-align: center;
-  }
-
-  #navbar li {
-    margin: 0;
-  }
-
-  #navbar {
-    border-radius: 0;
-  }
-}
-
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 52rem) {
   :root {
     --ls: 1rem;
     --hls: 1rem;
@@ -691,6 +668,11 @@ figure.right {
   #navbar a,
   #header form {
     display: none;
+  }
+
+  #footer > div {
+    display: block;
+    text-align: center;
   }
 
   .fg {
