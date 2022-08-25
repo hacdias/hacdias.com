@@ -367,7 +367,7 @@ details summary {
 }
 
 #header .avatar {
-  width: 6rem;
+  width: 5rem;
   margin-right: var(--ms);
 }
 
@@ -641,10 +641,6 @@ figure.right {
 
   #header {
     padding: 0 var(--hms);
-  }
-
-  #header .avatar {
-    width: 4rem;
   }
 
   #navbar,
