@@ -79,8 +79,8 @@
         <button type="submit" name="submit" value="do">Do</button>
       </form>
 
-      {{ with .Data.Message }}
-        <pre>{{ . }}</pre>
+      {{ if .Data.Success }}
+        <div class="box">✅ Success!</div>
       {{ end }}
 
       <h2>Generate Token</h2>
