@@ -427,7 +427,7 @@ details summary {
   width: 100%;
   background-color: var(--background);
   max-width: var(--max-width);
-  padding: var(--hls) var(--ls);
+  padding: var(--ms) var(--ls);
   margin: 0 auto;
 }
 
