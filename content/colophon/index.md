@@ -2,7 +2,7 @@
 title: Colophon
 description: Why does this website exist? How does it work?
 published: 2021-02-19T09:45:13Z
-updated: 2022-08-23T08:53:36.318852299+02:00
+updated: 2022-08-28T15:36:07.072535106+02:00
 noShowInteractions: true
 noSendInteractions: true
 properties:
@@ -82,8 +82,7 @@ Finally, my website also supports [IndieAuth](https://indieauth.spec.indieweb.or
 
 <div class='terms bold'>
 
-- [🕵️‍♀️ About](/about)
-- [✍️ Guestbook](/guestbook)
+- [🧁 About](/about)
+- [📖 Guestbook](/guestbook)
 
 </div>
-

@@ -14,7 +14,7 @@ In this page, you can find a collection of different links I collected over the 
 - **[How NAT traversal works](/2022/08/20/jjoteyswgo)** - this is an article by Tailscale that explains ho NAT traversal works and the different algorithms they employ in order to reach the majority of the internet.
 - **[What is the Small Web?](/2022/08/16/mgjmonrbrl)** – this is an article by Aral Balkan where they compare the state of the current web, the big web, with the web of the people. It introduces the concept of "small web".
 
-## 💁‍♂️ Friends {#friends}
+## 🫂 Friends {#friends}
 
 <div class="box">
 

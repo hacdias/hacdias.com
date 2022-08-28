@@ -39,13 +39,13 @@ This website contains more things than it looks at first glance. This page is a 
 
 <div class='terms grid bold'>
 
-- [🕵️‍♀️ About](/about)
+- [🧁 About](/about)
 - [⚙️ Colophon](/colophon)
 - [✉️ Contact](/contact)
 - [🪄 Domains](/domains)
 - [😎 Emojis](/emojis)
 - [🎮 Games](/games)
-- [✍️ Guestbook](/guestbook)
+- [📖 Guestbook](/guestbook)
 - [🚀 Impossible List](/impossible-list)
 - [📌 Links](/links)
 - [🔎 Search](/search)
@@ -100,4 +100,3 @@ trigger.addEventListener('click', async () => {
   trigger.classList.toggle('dn')
 })
 </script>
-

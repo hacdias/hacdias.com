@@ -33,10 +33,10 @@ I use this corner of the Internet to write about [anything](/all) that might int
 <div class="terms">
 
 - [**Here's Some Pages** 🔗](/more)
+- [🔖 Bookmarks](/bookmarks)
 - [🛠 Uses](/uses)
 - [🚀 Impossible List](/impossible-list)
-- [⚙️ Colophon](/colophon)
-- [🗞 Blogroll](/blogroll)
+- [📌 Links](/links)
 
 </div>
 </div>
@@ -49,4 +49,3 @@ I use this corner of the Internet to write about [anything](/all) that might int
   <a href="mailto:mail@hacdias.com" rel="me" class="u-email">mail@hacdias.com</a>
   <a class="u-key" href="/pubkey.txt">public PGP key</a>
 </div>
-
