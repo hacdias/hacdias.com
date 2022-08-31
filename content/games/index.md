@@ -3,13 +3,13 @@ title: Games
 description: A list of all the games I have played, I am playing, and some tracking
   information.
 published: 2022-08-23T13:08:52.585553096+02:00
-updated: 2022-08-24T21:43:58.862114788+02:00
+updated: 2022-08-31T21:25:21.954004051+02:00
 createdWith: https://hacdias.com/
 ---
 
 <div class="box">
 
-🚧 This page is an active work in progress.
+🚧 This page is a work in progress.
 
 </div>
 
