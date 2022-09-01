@@ -1,7 +1,7 @@
 ---
 title: Coffee
 published: 2022-08-18T11:36:52.439647343+02:00
-updated: 2022-08-22T12:39:14.901597508+02:00
+updated: 2022-09-01T10:15:05.256555258+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
@@ -15,7 +15,7 @@ properties:
 
 ## Chemex
 
-- **Grind**: medium coarse, setting 20 (try lower)
+- **Grind**: medium coarse, setting 18
 
 1. Grind beans and boil water
 2. Put paper filter (3 folds on the spout)
@@ -49,4 +49,3 @@ properties:
 - 24 hours
 
 Note: try 1:8
-
