@@ -1,7 +1,7 @@
 ---
 title: Coffee
 published: 2022-08-18T11:36:52.439647343+02:00
-updated: 2022-09-01T10:15:05.256555258+02:00
+updated: 2022-09-02T09:06:06.936943037+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
@@ -28,8 +28,9 @@ properties:
 9. Givechemex a little shake
 10. Wait
 
-
 ## French Press
+
+- **Grind**: coarse, setting 28
 
 1. Add coffee and water
 2. Let it sit for 4 minutes
@@ -40,6 +41,8 @@ properties:
 ## Cold Brew
 
 - **Grind**: coarse, setting 35
+
+Trying 1:7 right now.
 
 ### Cold Brew Concentrate
 
