@@ -1,7 +1,9 @@
 ---
 title: Home
 description: |
-  Henrique is recently graduated from his Master's in Computer Science and Engineering while working on decentralizing the web at Protocol Labs.
+  Henrique is interested in web infrastructure, decentralized systems, and making
+  tools for developers and users. He likes coffee and tea alike. Currently works as a
+  Software Engineer at Protocol Labs.
 listing: {}
 ---
 
