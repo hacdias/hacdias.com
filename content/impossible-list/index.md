@@ -3,7 +3,7 @@ title: Impossible List
 description: This is my impossible list, where I define and check some major life
   experiences I want to experience.
 published: 2020-07-15T00:00:00Z
-updated: 2022-08-23T14:25:48.368736173+02:00
+updated: 2022-09-15T20:01:53.563276108+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -48,7 +48,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 1. [x] ~~Visit 5 countries~~ <small>[July 2019] [🇵🇹 PT, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC, 🇩🇪 DE]</small>
    1. [x] ~~Visit 10 countries~~ <small>[February 2020] [🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU, 🇳🇱 NL]</small>
-   2. [ ] Visit 15 countries <small>[🇫🇷 FR]</small>
+   2. [ ] Visit 15 countries <small>[🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA]</small>
 2. [x] ~~Visit 🇵🇹 Azores~~ <small>[July 2019]</small>
 3. [ ] Visit 🇵🇹 Madeira
 4. [ ] Visit 🇳🇴 Svalbard
@@ -151,4 +151,3 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small>
 
 -->
-
