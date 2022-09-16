@@ -1,0 +1,69 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Your first check-in at Firenze Santa Maria Novella Railway Station!",
+      "in-reply-to": "https://hacdias.com/2022/09/16/ckmtxuodjn",
+      "post-type": "reply",
+      "published": "2022-09-16T18:04:43+02:00",
+      "swarm-coins": 5,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/63249e9bbc316a3b72b0d200/1516bd16741cf79fbc23dee760423234",
+      "wm-id": 1520249,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-09-16T16:05:07Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/63249e9bbc316a3b72b0d200/1516bd16741cf79fbc23dee760423234",
+      "wm-target": "https://hacdias.com/2022/09/16/ckmtxuodjn"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "First check-in in Florence.",
+      "in-reply-to": "https://hacdias.com/2022/09/16/ckmtxuodjn",
+      "post-type": "reply",
+      "published": "2022-09-16T18:04:43+02:00",
+      "swarm-coins": 4,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/63249e9bbc316a3b72b0d200/3634acc5df09681d550ed7ad630c8811",
+      "wm-id": 1520248,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-09-16T16:05:06Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/63249e9bbc316a3b72b0d200/3634acc5df09681d550ed7ad630c8811",
+      "wm-target": "https://hacdias.com/2022/09/16/ckmtxuodjn"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "There's a lot going on inside Firenze Santa Maria Novella Railway Station! Check in to more places here to earn more coins.",
+      "in-reply-to": "https://hacdias.com/2022/09/16/ckmtxuodjn",
+      "post-type": "reply",
+      "published": "2022-09-16T18:04:43+02:00",
+      "swarm-coins": 1,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/63249e9bbc316a3b72b0d200/7d452f4cf659913d8b863ef4c80707cd",
+      "wm-id": 1520250,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-09-16T16:05:10Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/63249e9bbc316a3b72b0d200/7d452f4cf659913d8b863ef4c80707cd",
+      "wm-target": "https://hacdias.com/2022/09/16/ckmtxuodjn"
+    }
+  ]
+}
