@@ -1,0 +1,48 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "First of your friends to check in here.",
+      "in-reply-to": "https://hacdias.com/2022/09/19/erjgluthsx",
+      "post-type": "reply",
+      "published": "2022-09-19T14:47:45+02:00",
+      "swarm-coins": 2,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/632864f1ed777461697a6978/901d2062fe377d8f54b57d96cafc0d5b",
+      "wm-id": 1522566,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-09-19T12:48:08Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/632864f1ed777461697a6978/901d2062fe377d8f54b57d96cafc0d5b",
+      "wm-target": "https://hacdias.com/2022/09/19/erjgluthsx"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Your first check-in at Campo San Zaccaria!",
+      "in-reply-to": "https://hacdias.com/2022/09/19/erjgluthsx",
+      "post-type": "reply",
+      "published": "2022-09-19T14:47:45+02:00",
+      "swarm-coins": 5,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/632864f1ed777461697a6978/4f137072971d0bf5ed0eaafa27655f63",
+      "wm-id": 1522565,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-09-19T12:48:08Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/632864f1ed777461697a6978/4f137072971d0bf5ed0eaafa27655f63",
+      "wm-target": "https://hacdias.com/2022/09/19/erjgluthsx"
+    }
+  ]
+}
