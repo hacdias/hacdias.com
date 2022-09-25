@@ -3,7 +3,7 @@ title: Impossible List
 description: This is my impossible list, where I define and check some major life
   experiences I want to experience.
 published: 2020-07-15T00:00:00Z
-updated: 2022-09-15T20:01:53.563276108+02:00
+updated: 2022-09-25T08:59:50.824893866+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -54,9 +54,10 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 4. [ ] Visit 🇳🇴 Svalbard
 5. [ ] Visit 🇲🇴 Macau
 6. [ ] Interrail across 🇪🇺 Europe
-7. [ ] See the Aurora Borealis
-8. [x] ~~Be in a train between mainland 🇪🇺 Europe and the 🇬🇧 UK~~ <small>[[April 2022]](/2022/04/21/qdcpiiabml)</small>
-9. [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
+   1. [x] ~~10 Day Intrarail in 🇮🇹 Italy~~ <small>[September 2022]</small>
+8. [ ] See the Aurora Borealis
+9. [x] ~~Be in a train between mainland 🇪🇺 Europe and the 🇬🇧 UK~~ <small>[[April 2022]](/2022/04/21/qdcpiiabml)</small>
+10. [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 
 **Countries Bucket List**
 

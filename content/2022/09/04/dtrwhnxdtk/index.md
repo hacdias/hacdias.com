@@ -5,6 +5,9 @@ section:
 - food
 createdWith: https://micropublish.net/
 properties:
+  category:
+  - coffee
+  - beans
   drank:
     properties:
       name: Cold Brew Iced Coffee (Lucifer Costa Rica)
