@@ -1,5 +1,5 @@
 ---
-description: Listened to 12 tracks for 0.68 hours
+description: Listened to 12 tracks for 0.66 hours
 published: 2022-08-25T23:59:59Z
 section:
 - listens
@@ -129,11 +129,11 @@ properties:
           name: Rina Sawayama
         type: h-card
       category:
+      - electropop
       - pop
+      - alternative
       - gospel
-      - juke
-      - 2-step
-      - 2020s
+      - personal favourites
       duration: 150
       mbid: 358853eb-2a16-40ed-afdc-c61fcb0476ea
       name: Hold the Girl
@@ -153,10 +153,10 @@ properties:
         type: h-card
       category:
       - pop
+      - alternative
       - female vocalists
       - melodic
       - passionate
-      - introspective
       duration: 215
       mbid: 53cee5bf-8846-4c4e-9899-1ace79db33a4
       name: Catch Me In the Air
@@ -223,7 +223,7 @@ properties:
       - lady gaga
       - german
       - love at first listen
-      duration: 225
+      duration: 150
       mbid: 015436cd-b462-4d9c-a840-598c6a3d5f9d
       name: Scheiße
       published: "2022-08-25T08:34:50+02:00"
@@ -252,7 +252,7 @@ properties:
       url: https://www.last.fm/music/Lady+Gaga/_/Bad+Kids
     type: h-cite
   scrobbles-count: 12
-  total-duration: 0.6761111111111111
+  total-duration: 0.6552777777777777
   tracks-count: 12
 ---
 
