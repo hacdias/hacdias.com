@@ -3,7 +3,7 @@ title: Impossible List
 description: This is my impossible list, where I define and check some major life
   experiences I want to experience.
 published: 2020-07-15T00:00:00Z
-updated: 2022-09-25T08:59:50.824893866+02:00
+updated: 2022-09-27T08:46:25.829552818+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -119,7 +119,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 3. [x] ~~Study abroad on Master's~~ <small>[September 2020]</small>
 4. [x] ~~Live abroad for more than 6 months~~ <small>[February 2021] [🇳🇱 NL]</small>
    1. [x] ~~Live abroad for more than 1 year~~ <small>[August 2021] [🇳🇱 NL]</small>
-   2. [ ] Live abroad for more than 2 years
+   2. [x] ~~Live abroad for more than 2 years~~ <small>[August 2022] [🇳🇱 NL]</small>
+      - At which point does "abroad" stop being "abroad"?
 5. [ ] Volunteer for a good cause for 6 months
 6. [ ] Donate for a good cause for 6 months
 7. [ ] Go on a hot air 🎈 balloon ride 
