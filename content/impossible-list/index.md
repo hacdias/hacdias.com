@@ -84,6 +84,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇹🇷 Turkiye
   - 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
   - 🇺🇿 Uzbekistan <!-- https://uzbekistan.travel/en/i/bukhara/ -->
+  - 🇪🇪 Estonia
 
 </div>
 
