@@ -1,6 +1,16 @@
 {
   "series": [
     {
+      "id": "/2022/10/01/eqtfjglqlm",
+      "date": "2022-10-01T21:18:57+02:00",
+      "name": "RuPaul's Drag Race UK"
+    },
+    {
+      "id": "/2022/10/01/pwwvpygudu",
+      "date": "2022-10-01T19:00:43+02:00",
+      "name": "She-Hulk: Attorney at Law"
+    },
+    {
       "id": "/2022/09/27/cjqgqvhkoq",
       "date": "2022-09-27T22:56:23+02:00",
       "name": "The Handmaid's Tale"
@@ -14,16 +24,6 @@
       "id": "/2022/09/26/ulzfnfwtbp",
       "date": "2022-09-26T18:05:26+02:00",
       "name": "House of the Dragon"
-    },
-    {
-      "id": "/2022/09/24/obgshjnszp",
-      "date": "2022-09-24T20:37:07+02:00",
-      "name": "RuPaul's Drag Race UK"
-    },
-    {
-      "id": "/2022/09/23/zrmrgldsts",
-      "date": "2022-09-23T21:38:32+02:00",
-      "name": "She-Hulk: Attorney at Law"
     },
     {
       "id": "/2022/09/20/bmenmqdulz",
@@ -321,7 +321,7 @@
       "name": "Sex Education"
     },
     {
-      "id": "/2021/08/22/ydrdlezgyx",
+      "id": "/2021/08/22/fkzngawxyi",
       "date": "2021-08-22T20:17:54+02:00",
       "name": "Riverdale"
     },
@@ -346,7 +346,7 @@
       "name": "Shadow and Bone"
     },
     {
-      "id": "/2021/07/04/gteolwktmm",
+      "id": "/2021/07/04/cgwqsfyptw",
       "date": "2021-07-04T13:51:59+02:00",
       "name": "The A List"
     },
@@ -381,7 +381,7 @@
       "name": "The Rain"
     },
     {
-      "id": "/2021/02/02/ibzucnycro",
+      "id": "/2021/02/02/bwztfjtrsa",
       "date": "2021-02-02T10:05:31+01:00",
       "name": "The Good Place"
     },
@@ -396,7 +396,7 @@
       "name": "Good Witch"
     },
     {
-      "id": "/2021/01/11/yxmfyhpjuy",
+      "id": "/2021/01/11/siexcwsham",
       "date": "2021-01-11T10:26:17+01:00",
       "name": "Greenhouse Academy"
     },
@@ -426,7 +426,7 @@
       "name": "The Haunting of Bly Manor"
     },
     {
-      "id": "/2020/11/25/moprpmfiqa",
+      "id": "/2020/11/25/ujdrvifkpc",
       "date": "2020-11-25T19:47:33+01:00",
       "name": "The Bureau of Magical Things"
     },
@@ -456,7 +456,7 @@
       "name": "Warrior Nun"
     },
     {
-      "id": "/2020/07/03/hxrwlrxldq",
+      "id": "/2020/07/03/ewewbmqeuw",
       "date": "2020-07-03T10:52:03+02:00",
       "name": "Bangkok Love Stories: Innocence"
     },
