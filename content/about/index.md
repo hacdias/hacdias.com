@@ -25,7 +25,7 @@ Since an early age, I have been curious about computers and I always wanted to w
 
 During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest, if not the largest, tech blog in Portugal. I wrote over 400 tutorials, tech news and other articles. In addition, I published a 60 page e-book on how to program in C for beginners at the age of 15. Furthermore, I had the opportunity to do some software development work at [Upframe](https://upframe.io/) where I met some amazing people.
 
-After secondary school, I moved to Lisbon in order to do pursue a BSc in Information Systems and Computer Engineering. I spent three years studying at [IST](https://tecnico.ulisboa.pt/pt/), where I met amazing people during my stay. At the same time, I got recruited for [Protocol Labs](https://protocol.ai/), where I have been working on decentralizing the web since then.
+After secondary school, I moved to Lisbon in order to pursue a BSc in Information Systems and Computer Engineering. I spent three years studying at [IST](https://tecnico.ulisboa.pt/pt/), where I met amazing people during my stay. At the same time, I got recruited for [Protocol Labs](https://protocol.ai/), where I have been working on decentralizing the web since then.
 
 Against all odds - call it _the pandemic_ 🦠 - I moved to the Netherlands to pursue a MSc in Computer Science and Engineering at [TU/e](https://tue.nl), which is nearly complete. Sadly, in two years of university, I only had the opportunity to have one course on campus. After defending my thesis on-campus, I successfully completed my Master's degree.
 

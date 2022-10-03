@@ -3,7 +3,7 @@ title: Impossible List
 description: This is my impossible list, where I define and check some major life
   experiences I want to experience.
 published: 2020-07-15T00:00:00Z
-updated: 2022-09-27T08:46:25.829552818+02:00
+updated: 2022-10-03T15:58:02.21963406+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -105,7 +105,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 6. [x] ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
    1. [ ] Give a talk to over 100 people
 7. [x] ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
-8. [ ] Finish my master's degree
+8. [x] ~~Finish my master's degree~~ <small>[September 2022]</small>
 9.  [ ] Write a fiction book
 10. [ ] Write a non-fiction book
 11. [ ] Learn how to play an 🎶 instrument

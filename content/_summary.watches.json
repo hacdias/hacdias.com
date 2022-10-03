@@ -1,6 +1,16 @@
 {
   "series": [
     {
+      "id": "/2022/10/03/jsttwfzbut",
+      "date": "2022-10-03T20:55:25+02:00",
+      "name": "House of the Dragon"
+    },
+    {
+      "id": "/2022/10/03/mzkizahwye",
+      "date": "2022-10-03T20:55:18+02:00",
+      "name": "The Handmaid's Tale"
+    },
+    {
       "id": "/2022/10/01/eqtfjglqlm",
       "date": "2022-10-01T21:18:57+02:00",
       "name": "RuPaul's Drag Race UK"
@@ -11,19 +21,9 @@
       "name": "She-Hulk: Attorney at Law"
     },
     {
-      "id": "/2022/09/27/cjqgqvhkoq",
-      "date": "2022-09-27T22:56:23+02:00",
-      "name": "The Handmaid's Tale"
-    },
-    {
       "id": "/2022/09/26/vyddgtpknx",
       "date": "2022-09-26T19:57:45+02:00",
       "name": "Heartbreak High"
-    },
-    {
-      "id": "/2022/09/26/ulzfnfwtbp",
-      "date": "2022-09-26T18:05:26+02:00",
-      "name": "House of the Dragon"
     },
     {
       "id": "/2022/09/20/bmenmqdulz",
@@ -321,7 +321,7 @@
       "name": "Sex Education"
     },
     {
-      "id": "/2021/08/22/fkzngawxyi",
+      "id": "/2021/08/22/ghtqsexkqk",
       "date": "2021-08-22T20:17:54+02:00",
       "name": "Riverdale"
     },
@@ -346,7 +346,7 @@
       "name": "Shadow and Bone"
     },
     {
-      "id": "/2021/07/04/cgwqsfyptw",
+      "id": "/2021/07/04/bwjwpqybxn",
       "date": "2021-07-04T13:51:59+02:00",
       "name": "The A List"
     },
@@ -381,7 +381,7 @@
       "name": "The Rain"
     },
     {
-      "id": "/2021/02/02/bwztfjtrsa",
+      "id": "/2021/02/02/gbinljkliy",
       "date": "2021-02-02T10:05:31+01:00",
       "name": "The Good Place"
     },
@@ -391,12 +391,12 @@
       "name": "BONDiNG"
     },
     {
-      "id": "/2021/01/20/xzluvxgzci",
+      "id": "/2021/01/20/vxdmuxeoof",
       "date": "2021-01-20T07:08:45+01:00",
       "name": "Good Witch"
     },
     {
-      "id": "/2021/01/11/siexcwsham",
+      "id": "/2021/01/11/qakcmlavpv",
       "date": "2021-01-11T10:26:17+01:00",
       "name": "Greenhouse Academy"
     },
@@ -426,7 +426,7 @@
       "name": "The Haunting of Bly Manor"
     },
     {
-      "id": "/2020/11/25/ujdrvifkpc",
+      "id": "/2020/11/25/rwargmipwg",
       "date": "2020-11-25T19:47:33+01:00",
       "name": "The Bureau of Magical Things"
     },
@@ -601,12 +601,12 @@
       "name": "Mr. Robot"
     },
     {
-      "id": "/2016/10/05/unbrupfjci",
+      "id": "/2016/10/05/hzulorpgre",
       "date": "2016-10-05T09:48:50+02:00",
       "name": "Heroes Reborn"
     },
     {
-      "id": "/2016/10/05/tknqovgepw",
+      "id": "/2016/10/05/feprwoiflx",
       "date": "2016-10-05T09:48:10+02:00",
       "name": "Forever"
     },
@@ -626,7 +626,7 @@
       "name": "Once Upon a Time"
     },
     {
-      "id": "/2015/07/08/ejqszpjqmt",
+      "id": "/2015/07/08/onvhjmyhgb",
       "date": "2015-07-08T11:47:50+02:00",
       "name": "Merlin"
     },
