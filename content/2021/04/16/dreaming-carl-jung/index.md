@@ -8,4 +8,4 @@ properties:
   - quotes
 ---
 
-> Who looks outside, dreams; who looks inside, awakes. － Carl Jung
+> "Who looks outside, dreams; who looks inside, awakes." － Carl Jung

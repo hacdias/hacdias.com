@@ -1,6 +1,21 @@
 {
   "series": [
     {
+      "id": "/2022/10/12/kpqhsseohb",
+      "date": "2022-10-12T21:06:35+02:00",
+      "name": "House of the Dragon"
+    },
+    {
+      "id": "/2022/10/12/wpoqrcfhag",
+      "date": "2022-10-12T10:20:31+02:00",
+      "name": "The Good Doctor"
+    },
+    {
+      "id": "/2022/10/12/jfcgazpeea",
+      "date": "2022-10-12T09:01:15+02:00",
+      "name": "The Midnight Club"
+    },
+    {
       "id": "/2022/10/09/ypabiglali",
       "date": "2022-10-09T10:00:19+02:00",
       "name": "Young Sheldon"
@@ -24,16 +39,6 @@
       "id": "/2022/10/05/kayflhcbws",
       "date": "2022-10-05T18:39:40+02:00",
       "name": "Kurzgesagt - In a Nutshell"
-    },
-    {
-      "id": "/2022/10/04/lwpwdhpjih",
-      "date": "2022-10-04T20:23:08+02:00",
-      "name": "The Good Doctor"
-    },
-    {
-      "id": "/2022/10/03/jsttwfzbut",
-      "date": "2022-10-03T20:55:25+02:00",
-      "name": "House of the Dragon"
     },
     {
       "id": "/2022/09/26/vyddgtpknx",
@@ -321,7 +326,7 @@
       "name": "Sex Education"
     },
     {
-      "id": "/2021/08/22/ncwtysxbur",
+      "id": "/2021/08/22/ghtqsexkqk",
       "date": "2021-08-22T20:17:54+02:00",
       "name": "Riverdale"
     },
@@ -346,7 +351,7 @@
       "name": "Shadow and Bone"
     },
     {
-      "id": "/2021/07/04/gteolwktmm",
+      "id": "/2021/07/04/wpshmvkith",
       "date": "2021-07-04T13:51:59+02:00",
       "name": "The A List"
     },
@@ -381,22 +386,22 @@
       "name": "The Rain"
     },
     {
-      "id": "/2021/02/02/bojfeyjesk",
+      "id": "/2021/02/02/qngrhwdywc",
       "date": "2021-02-02T10:05:31+01:00",
       "name": "The Good Place"
     },
     {
-      "id": "/2021/01/27/cwzikwwzev",
+      "id": "/2021/01/27/zqyklprhdm",
       "date": "2021-01-27T20:39:17+01:00",
       "name": "BONDiNG"
     },
     {
-      "id": "/2021/01/20/iuhpucnwwt",
+      "id": "/2021/01/20/lemgwjlcjl",
       "date": "2021-01-20T07:08:45+01:00",
       "name": "Good Witch"
     },
     {
-      "id": "/2021/01/11/qakcmlavpv",
+      "id": "/2021/01/11/qhacaiggrk",
       "date": "2021-01-11T10:26:17+01:00",
       "name": "Greenhouse Academy"
     },
@@ -426,7 +431,7 @@
       "name": "The Haunting of Bly Manor"
     },
     {
-      "id": "/2020/11/25/gsvhwcdzad",
+      "id": "/2020/11/25/vovzlejzaa",
       "date": "2020-11-25T19:47:33+01:00",
       "name": "The Bureau of Magical Things"
     },
@@ -456,12 +461,12 @@
       "name": "Warrior Nun"
     },
     {
-      "id": "/2020/07/03/ouyujvsppz",
+      "id": "/2020/07/03/hxrwlrxldq",
       "date": "2020-07-03T10:52:03+02:00",
       "name": "Bangkok Love Stories: Innocence"
     },
     {
-      "id": "/2020/06/30/tzwktgcwyz",
+      "id": "/2020/06/30/zhbwiyaadw",
       "date": "2020-06-30T18:54:40+02:00",
       "name": "Please Like Me"
     },
@@ -601,12 +606,12 @@
       "name": "Mr. Robot"
     },
     {
-      "id": "/2016/10/05/tkdkaksffw",
+      "id": "/2016/10/05/hzulorpgre",
       "date": "2016-10-05T09:48:50+02:00",
       "name": "Heroes Reborn"
     },
     {
-      "id": "/2016/10/05/feprwoiflx",
+      "id": "/2016/10/05/fsjhoapsrk",
       "date": "2016-10-05T09:48:10+02:00",
       "name": "Forever"
     },
@@ -626,7 +631,7 @@
       "name": "Once Upon a Time"
     },
     {
-      "id": "/2015/07/08/xjdfgnnhtr",
+      "id": "/2015/07/08/wqobgnlkcp",
       "date": "2015-07-08T11:47:50+02:00",
       "name": "Merlin"
     },

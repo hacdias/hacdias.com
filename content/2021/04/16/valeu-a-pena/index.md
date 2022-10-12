@@ -8,4 +8,4 @@ properties:
   - quotes
 ---
 
-> Valeu a pena? Tudo vale a pena se a alma não é pequena － Fernando Pessoa
+> "Valeu a pena? Tudo vale a pena se a alma não é pequena." － Fernando Pessoa

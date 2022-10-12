@@ -1,0 +1,26 @@
+---
+description: At Gezondheidscentrum Stratum
+published: 2022-10-05T09:20:53+02:00
+section:
+- places
+createdWith: https://ownyourswarm.p3k.io/
+properties:
+  checkin:
+    properties:
+      country-name: Netherlands
+      latitude: 51.42478665958547
+      longitude: 5.5016434411815665
+      name: Gezondheidscentrum Stratum
+      url: https://foursquare.com/v/4c5bb8809b28d13acdf85470
+    type: h-card
+    value: https://foursquare.com/v/4c5bb8809b28d13acdf85470
+  location:
+    properties:
+      country-name: Netherlands
+      latitude: 51.42478665958547
+      longitude: 5.5016434411815665
+    type: h-adr
+  syndication: https://www.swarmapp.com/user/476184554/checkin/633d3055d4c9da6ee8ed533b
+---
+
+
