@@ -22,6 +22,8 @@ In this page, you can find a collection of different links I collected over the 
 
 </div>
 
+- [Sebastiaan Andeweg](https://seblog.nl)
+
 ## 🦋 Inspirational {#inspirational}
 
 These are some websites that inspired mine in some way, such as in design, in content organization, or in style. I do not guarantee that the current iterations of the website were the ones that inspires me though.
