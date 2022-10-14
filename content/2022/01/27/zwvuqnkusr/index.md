@@ -6,7 +6,7 @@ section:
 - home
 createdWith: https://indieweb.org/Shortcuts
 properties:
-  in-reply-to: https://twitter.com/simonoxfphys/status/1486641428281368582?s=12
+  in-reply-to: https://twitter.com/simonoxfphys/status/1486641428281368582
   location:
     properties:
       country-name: Netherlands

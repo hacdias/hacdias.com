@@ -6,7 +6,7 @@ section:
 - home
 createdWith: https://indieweb.org/Shortcuts
 properties:
-  in-reply-to: https://twitter.com/malikpiara/status/1487824765473759232?s=12
+  in-reply-to: https://twitter.com/malikpiara/status/1487824765473759232
   location:
     properties:
       country-name: Netherlands

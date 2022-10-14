@@ -6,7 +6,7 @@ section:
 - home
 createdWith: https://indieweb.org/Shortcuts
 properties:
-  in-reply-to: https://twitter.com/nimobeeren/status/1573277413639081984?s=12&t=cAzZ7RULEjaEHg-YminjjQ
+  in-reply-to: https://twitter.com/nimobeeren/status/1573277413639081984
   location:
     properties:
       country-name: Netherlands
