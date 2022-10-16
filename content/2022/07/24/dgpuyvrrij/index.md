@@ -9,7 +9,6 @@ properties:
     properties:
       name: Shrimp, Greens and Rice
     type: h-food
-  file: 6FB42987-0314-4A96-A1E9-B06B18F17F9B.jpeg
   location:
     properties:
       country-name: Netherlands

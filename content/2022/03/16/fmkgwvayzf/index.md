@@ -10,7 +10,6 @@ properties:
     properties:
       name: Apple and Cinnamon Tea
     type: h-food
-  file: E8D23488-0642-4B05-9102-D0750240AFD5.jpeg
   location:
     properties:
       country-name: Netherlands

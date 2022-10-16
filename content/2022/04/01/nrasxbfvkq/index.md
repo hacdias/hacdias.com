@@ -5,7 +5,6 @@ section:
 - home
 createdWith: https://micropublish.net/
 properties:
-  file: 241ABE1B-A89F-4E26-8D70-8D2E10B93492.jpeg
   location:
     properties:
       country-name: Portugal

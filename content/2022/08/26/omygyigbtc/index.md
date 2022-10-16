@@ -9,7 +9,6 @@ properties:
     properties:
       name: Suspiro
     type: h-food
-  file: 1C839037-ECA3-48FF-A0BB-50EEEC877E20.jpeg
   location:
     properties:
       country-name: Portugal

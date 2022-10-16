@@ -9,7 +9,6 @@ properties:
     properties:
       name: Lavender Goat Cheese
     type: h-food
-  file: IMG_3944.jpeg
   location:
     properties:
       country-name: Netherlands

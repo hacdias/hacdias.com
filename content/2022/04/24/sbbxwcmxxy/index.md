@@ -9,7 +9,6 @@ properties:
     properties:
       name: Rekorderlig Wild Berries
     type: h-food
-  file: 4E2D2C92-8B01-4290-B6DE-1F20E4AA1611.jpeg
   location:
     properties:
       country-name: United Kingdom

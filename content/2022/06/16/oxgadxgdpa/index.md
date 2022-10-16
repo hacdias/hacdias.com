@@ -10,7 +10,6 @@ properties:
     properties:
       name: "Cherries \U0001F352 "
     type: h-food
-  file: E32D4C5A-69D6-467D-BCD1-3336B3BD3F36.jpeg
   location:
     properties:
       country-name: Netherlands

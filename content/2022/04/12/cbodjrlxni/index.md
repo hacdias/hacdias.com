@@ -10,7 +10,6 @@ properties:
     properties:
       name: Oats with Lemon Curd and Greek Yoghurt
     type: h-food
-  file: IMG_1791.jpg
   location:
     properties:
       country-name: Netherlands

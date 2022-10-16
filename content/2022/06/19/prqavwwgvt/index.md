@@ -9,7 +9,6 @@ properties:
     properties:
       name: Hugo Spritz
     type: h-food
-  file: E387D651-0751-4FAA-A109-B310B776E6BD.jpeg
   location:
     properties:
       country-name: Netherlands

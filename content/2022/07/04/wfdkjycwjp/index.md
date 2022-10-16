@@ -6,7 +6,6 @@ section:
 createdWith: https://micropublish.net/
 photoClass: grid-wfdkjycwjp fg
 properties:
-  file: A9CC7F01-C055-41D8-86C7-E2DBE81418AB.jpeg
   location:
     properties:
       country-name: Netherlands

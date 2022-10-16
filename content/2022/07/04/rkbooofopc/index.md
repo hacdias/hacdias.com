@@ -9,7 +9,6 @@ properties:
     properties:
       name: Homemade Iced Coffee
     type: h-food
-  file: A8CB4BE8-F68F-4695-87E7-9AE90F06F883.jpeg
   location:
     properties:
       country-name: Netherlands

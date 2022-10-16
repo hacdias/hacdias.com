@@ -9,7 +9,6 @@ properties:
     properties:
       name: Pistaccio, Ricotta and White Chocolate Cannoli
     type: h-food
-  file: IMG_4616.jpeg
   location: /2022/09/17/kmsrhkqalk
   photo: cdn:/020491eba556eaa52d787e65c0b10c40f489b7048be1286c51c5ae7906a3bbdf
 ---

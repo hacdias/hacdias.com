@@ -9,7 +9,6 @@ properties:
     properties:
       name: Bapamanga
     type: h-food
-  file: IMG_4113.jpeg
   location: /2022/08/23/ejucgeldyk
   photo: cdn:/3b22cbac1880d30f5baa33d87edc16e6921dd528e7798105f8c4dafbd4599b69
 ---

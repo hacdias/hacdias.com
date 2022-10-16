@@ -9,7 +9,6 @@ properties:
     properties:
       name: Crispy Potato Pancake
     type: h-food
-  file: D4E90C1A-DE3D-43E3-ABEB-8C97D7C93F4C.jpeg
   location:
     properties:
       country-name: Netherlands

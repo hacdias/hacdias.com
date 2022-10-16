@@ -9,7 +9,6 @@ properties:
     properties:
       name: Ice Cream
     type: h-food
-  file: 0811D0A2-84FA-44E5-9A41-58E99D9A64F1.jpeg
   location:
     properties:
       country-name: Netherlands

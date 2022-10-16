@@ -10,7 +10,6 @@ properties:
     properties:
       name: Strawberry & Hibiscus Tea
     type: h-food
-  file: C6AD1565-407E-4D3C-9C10-BE2DAE66CDF4.jpeg
   location:
     properties:
       country-name: Netherlands

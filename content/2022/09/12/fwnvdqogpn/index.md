@@ -9,7 +9,6 @@ properties:
     properties:
       name: Hazulnut Coffee
     type: h-food
-  file: IMG_4435.jpeg
   location:
     properties:
       country-name: Netherlands

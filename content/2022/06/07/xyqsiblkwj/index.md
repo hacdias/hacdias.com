@@ -10,7 +10,6 @@ properties:
     properties:
       name: Iced Coffee
     type: h-food
-  file: 1129A446-F7D6-4E89-9BFE-F8FBFF1F4C19.jpeg
   location:
     properties:
       country-name: Netherlands

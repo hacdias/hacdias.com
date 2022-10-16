@@ -10,7 +10,6 @@ properties:
     properties:
       name: Nestum Arroz
     type: h-food
-  file: 0E3908A8-9902-4DE6-99A9-199856ADC32F.jpeg
   location:
     properties:
       country-name: Netherlands

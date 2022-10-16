@@ -10,7 +10,6 @@ properties:
     properties:
       name: Chocolate Bao
     type: h-food
-  file: IMG_2113.jpeg
   location: /2022/05/01/akgigvfijb
   photo: cdn:/7fc57ef5c06820583d5c4ee9087d3ef7359493ba786cdd52e22641c8922753ac
 ---

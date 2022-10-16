@@ -10,7 +10,6 @@ properties:
     properties:
       name: Loquats
     type: h-food
-  file: 48F46A40-2243-407D-9A39-B962F2094D10.jpeg
   location:
     properties:
       country-name: Netherlands

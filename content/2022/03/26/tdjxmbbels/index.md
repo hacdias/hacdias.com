@@ -10,7 +10,6 @@ properties:
     properties:
       name: Almdudler
     type: h-food
-  file: 6243032D-055E-46CA-B739-3AA11BF1865E.jpeg
   location:
     properties:
       country-name: Netherlands

@@ -9,7 +9,6 @@ properties:
     properties:
       name: Baileys’ Coffee
     type: h-food
-  file: C2696A5E-4211-41BD-A391-7C197DA91185.jpeg
   location:
     properties:
       country-name: Netherlands
