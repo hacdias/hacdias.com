@@ -22,6 +22,7 @@ In this page, you can find a collection of different links I collected over the 
 
 </div>
 
+- [Christiaan Bloo](https://www.christiaanbloo.com/)
 - [Sebastiaan Andeweg](https://seblog.nl)
 
 ## 🦋 Inspirational {#inspirational}
