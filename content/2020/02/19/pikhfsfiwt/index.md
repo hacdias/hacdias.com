@@ -26,10 +26,6 @@ properties:
       url: https://foursquare.com/v/4e89b590f5b99cefae497f94
     type: h-card
     value: https://foursquare.com/v/4e89b590f5b99cefae497f94
-  content:
-    html: ￼ — with <a href="https://foursquare.com/user/577789498">Isabel</a>, <a
-      href="https://foursquare.com/user/577163460">Rodrigo</a>
-    value: ￼ — with Isabel, Rodrigo
   location:
     properties:
       country-name: Portugal
