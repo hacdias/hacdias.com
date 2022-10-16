@@ -9,7 +9,6 @@ properties:
     properties:
       name: Oats with blueberry, banana, honey and kiwi
     type: h-food
-  created: "2022-01-27T12:20:52+01:00"
   location:
     properties:
       country-name: Netherlands

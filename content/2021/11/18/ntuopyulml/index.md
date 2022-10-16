@@ -9,7 +9,6 @@ properties:
     properties:
       name: Tomato risotto with shrimp
     type: h-food
-  created: "2021-11-18T14:03:27+01:00"
   location:
     properties:
       country-name: Netherlands

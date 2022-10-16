@@ -9,7 +9,6 @@ properties:
     properties:
       name: Oats with blueberry, honey and speculaas spice mix
     type: h-food
-  created: "2021-11-18T08:55:58+01:00"
   location:
     properties:
       country-name: Netherlands

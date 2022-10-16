@@ -10,7 +10,6 @@ properties:
     properties:
       name: Oats with blueberry, banana, powdered sugar, honey and speculaas
     type: h-food
-  created: "2021-11-19T10:00:05+01:00"
   location:
     properties:
       country-name: Netherlands

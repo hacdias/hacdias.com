@@ -9,7 +9,6 @@ properties:
     properties:
       name: Sweet Popcorn
     type: h-food
-  created: "2021-12-11T20:47:16+01:00"
   location:
     properties:
       country-name: Netherlands

@@ -9,7 +9,6 @@ properties:
     properties:
       name: Spinach coconut curry with yellow rice
     type: h-food
-  created: "2021-11-17T18:27:26+01:00"
   location:
     properties:
       country-name: Netherlands

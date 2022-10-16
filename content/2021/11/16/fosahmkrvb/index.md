@@ -10,7 +10,6 @@ properties:
     properties:
       name: Kaki Fruit
     type: h-food
-  created: "2021-11-16T21:18:43+01:00"
   location:
     properties:
       country-name: Netherlands

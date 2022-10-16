@@ -9,7 +9,6 @@ properties:
     properties:
       name: Tomato and mozzarella quiche
     type: h-food
-  created: "2021-11-20T19:19:11+01:00"
   location:
     properties:
       country-name: Netherlands

@@ -4,7 +4,6 @@ published: 2021-11-14T18:43:00+01:00
 section:
 - food
 properties:
-  created: "2021-11-14T18:43:00+01:00"
   drank:
     properties:
       name: Lindemans Kriek

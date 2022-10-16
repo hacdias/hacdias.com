@@ -9,7 +9,6 @@ properties:
     properties:
       name: Broa Castelar
     type: h-food
-  created: "2021-12-29T09:51:16+00:00"
   location:
     properties:
       country-name: Portugal

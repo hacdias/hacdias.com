@@ -9,7 +9,6 @@ properties:
     properties:
       name: Homemade kapsalon
     type: h-food
-  created: "2021-11-20T13:40:11+01:00"
   location:
     properties:
       country-name: Netherlands

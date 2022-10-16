@@ -9,7 +9,6 @@ properties:
     properties:
       name: Spare ribs
     type: h-food
-  created: "2021-11-23T20:30:02+01:00"
   location:
     properties:
       country-name: Netherlands
