@@ -1,7 +1,7 @@
 ---
 title: Coffee
 published: 2022-08-18T11:36:52.439647343+02:00
-updated: 2022-09-28T14:00:44.511158645+02:00
+updated: 2022-10-16T09:35:34.253410565+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
@@ -10,11 +10,16 @@ properties:
   - coffee
 ---
 
+I own the book _"How To Make The Best Coffee At Home"_ ☕️ by James Hoffmann, which I highly recommend. The book has helped me figure out a lot about what coffee labels mean, as well as trying different techniques. Any page mention is from this book, unless otherwise specificied.
+
+<!--more-->
+
 - **Proportion**: 30g beans : 500g water
 - [Baratza Grinding Tips](https://baratza.com/grinding-tips/)
 
 ## Chemex
 
+- **Page**: 110
 - **Grind**: medium coarse, setting 18 (try 20)
 
 1. Grind beans and boil water
@@ -28,8 +33,14 @@ properties:
 9. Givechemex a little shake
 10. Wait
 
+## Clever Dripper
+
+- **Page**: 112
+- **Grind**: medium fine, setting 16x
+
 ## French Press
 
+- **Page**: 98
 - **Grind**: coarse, setting 28
 
 1. Add coffee and water
@@ -40,6 +51,7 @@ properties:
 
 ## Cold Brew
 
+- **Page**: 130
 - **Grind**: coarse, setting 35
 
 Trying 1:7 right now.
