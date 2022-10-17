@@ -27,6 +27,6 @@ properties:
 
 I am marking this book as "finished" since I have no plans on reading the remaining stories in the near future.
 
-**Previous Updates**
+**Update From 02 February 2022**
 
-*02 Feb 2022* - Finished reading the first story of this book, "Nightfall", which portrays a dystopian and apocalyptic future. It narrates a story where the sun is going to disappear forever and everyone will be in eternal darkness. And what can that cause in people?
+Finished reading the first story of this book, "Nightfall", which portrays a dystopian and apocalyptic future. It narrates a story where the sun is going to disappear forever and everyone will be in eternal darkness. And what can that cause in people?

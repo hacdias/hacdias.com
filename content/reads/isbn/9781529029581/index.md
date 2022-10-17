@@ -41,7 +41,6 @@ Traveling in time comes with many rules. Among them, you must drink the coffee b
 
 It is a very intriguing, yet fascinating concept that the author brings us. It was quite an enjoyable read and I'm [hoping to read](/reads/isbn/9781529050868) the second volume sometime soon.
 
-**Previous Updates**
+**Update From 24 January 2022**
 
-*24 Jan 2022* — So far, really enjoying the concept of the book: it takes place in a coffee shop in Tokyo where, if you sit at a certain place, you can talk to some person in the past... before the coffee gets cold. There's a bunch of rules, but more and more I enjoy this magical realism books.
-
+So far, really enjoying the concept of the book: it takes place in a coffee shop in Tokyo where, if you sit at a certain place, you can talk to some person in the past... before the coffee gets cold. There's a bunch of rules, but more and more I enjoy this magical realism books.
