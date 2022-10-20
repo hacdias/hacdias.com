@@ -1,6 +1,8 @@
 ---
 title: Chai Latte
+deleted: true
 published: 2022-09-09T16:07:38.541300942+02:00
+updated: 2022-10-20T19:55:18.310503247+02:00
 section:
 - recipes
 createdWith: https://hacdias.com/

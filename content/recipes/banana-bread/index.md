@@ -1,7 +1,8 @@
 ---
 title: Banana Bread
+deleted: true
 published: 2022-09-10T21:22:26.52827225+02:00
-updated: 2022-09-10T21:27:49.198920145+02:00
+updated: 2022-10-20T19:53:54.07467891+02:00
 section:
 - recipes
 createdWith: https://hacdias.com/

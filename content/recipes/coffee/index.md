@@ -1,7 +1,8 @@
 ---
 title: Coffee
+deleted: true
 published: 2022-08-18T11:36:52.439647343+02:00
-updated: 2022-10-16T09:35:34.253410565+02:00
+updated: 2022-10-20T19:56:30.443001192+02:00
 section:
 - recipes
 createdWith: https://hacdias.com/

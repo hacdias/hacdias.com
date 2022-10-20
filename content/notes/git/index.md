@@ -1,7 +1,7 @@
 ---
 title: Git
 published: 2022-08-16T17:56:08.427538238+02:00
-updated: 2022-08-16T18:00:46.42309913+02:00
+updated: 2022-10-20T18:17:53.8966227+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
@@ -10,7 +10,11 @@ noIndex: true
 
 [Git](https://git-scm.com/) is a distributed version control system for tracking changes in source code during software development.
 
-```mermaid
+<!--more-->
+
+![Git Diagram](https://cdn.hacdias.com/media/d21ee1e292e3c395ff197d71e9d934809e7988942806013e78c8092687497570.svg)
+
+<!--
 sequenceDiagram
   participant W as Workspace
   participant S as Staging
@@ -26,7 +30,7 @@ sequenceDiagram
   W->S: git diff
   W->LR: git diff HEAD
   R->>W: git clone/pull
-```
+-->
 
 ## How it works
 

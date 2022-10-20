@@ -1,12 +1,16 @@
 ---
 title: PostgreSQL
 published: 2022-08-17T17:51:10.64983984+02:00
-updated: 2022-08-17T17:53:05.202252637+02:00
+updated: 2022-10-20T18:35:56.17767954+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
 noIndex: true
 ---
+
+> PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.
+
+<!--more-->
 
 ## Upgrade Version in Docker
 
