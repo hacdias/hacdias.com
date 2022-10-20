@@ -1,7 +1,8 @@
 ---
 title: PostgreSQL
+deleted: true
 published: 2022-08-17T17:51:10.64983984+02:00
-updated: 2022-10-20T18:35:56.17767954+02:00
+updated: 2022-10-20T22:22:54.903997765+02:00
 section:
 - notes
 createdWith: https://hacdias.com/

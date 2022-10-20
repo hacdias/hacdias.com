@@ -1,6 +1,8 @@
 ---
 title: Restic
+deleted: true
 published: 2022-08-20T11:32:35.169816696+02:00
+updated: 2022-10-20T22:23:15.149675619+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
@@ -30,4 +32,3 @@ Restore an entire snapshot:
 ```
 restic restore [snapshot] --target [dir]
 ```
-

@@ -26,7 +26,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🥘 Food and Beverages](/food)
 - [🎶 Listens](/listens)
 - [💬 Micro](/micro)
-- [📓 Notes](/notes)
 - [⏰ Now](/now)
 - [📸 Photos](/photos)
 - [📍 Places](/places)

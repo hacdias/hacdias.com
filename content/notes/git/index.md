@@ -1,7 +1,8 @@
 ---
 title: Git
+deleted: true
 published: 2022-08-16T17:56:08.427538238+02:00
-updated: 2022-10-20T18:17:53.8966227+02:00
+updated: 2022-10-20T22:21:59.668213096+02:00
 section:
 - notes
 createdWith: https://hacdias.com/
