@@ -1,7 +1,6 @@
 ---
+deleted: true
 published: 2022-10-12T15:32:08.641603723+02:00
-section:
-- notes
 createdWith: https://micropublish.net/
 properties:
   category: quotes

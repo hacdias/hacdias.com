@@ -3,7 +3,7 @@ title: Coffee
 published: 2022-08-18T11:36:52.439647343+02:00
 updated: 2022-10-16T09:35:34.253410565+02:00
 section:
-- notes
+- recipes
 createdWith: https://hacdias.com/
 properties:
   category:

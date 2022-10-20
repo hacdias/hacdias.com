@@ -2,12 +2,14 @@
 title: Chai Latte
 published: 2022-09-09T16:07:38.541300942+02:00
 section:
-- notes
+- recipes
 createdWith: https://hacdias.com/
 properties:
   category:
   - tea
 ---
+
+<!--more-->
 
 ## Ingredients (2 Cups)
 
