@@ -3,7 +3,7 @@ title: Impossible List
 description: This is my impossible list, where I define and check some major life
   experiences I want to experience.
 published: 2020-07-15T00:00:00Z
-updated: 2022-10-03T15:58:02.21963406+02:00
+updated: 2022-10-21T21:47:17.268595798+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -46,9 +46,9 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## ✈️ Travel Goals
 
-1. [x] ~~Visit 5 countries~~ <small>[July 2019] [🇵🇹 PT, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC, 🇩🇪 DE]</small>
-   1. [x] ~~Visit 10 countries~~ <small>[February 2020] [🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU, 🇳🇱 NL]</small>
-   2. [ ] Visit 15 countries <small>[🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA]</small>
+1. [x] ~~Visit 5 countries~~ <small>[October 2018] [🇵🇹 PT, 🇪🇸 ES, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC]</small>
+   1. [x] ~~Visit 10 countries~~ <small>[February 2020] [🇩🇪 DE, 🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU]</small>
+   2. [ ] Visit 15 countries <small>[🇳🇱 NL, 🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA]</small>
 2. [x] ~~Visit 🇵🇹 Azores~~ <small>[July 2019]</small>
 3. [ ] Visit 🇵🇹 Madeira
 4. [ ] Visit 🇳🇴 Svalbard

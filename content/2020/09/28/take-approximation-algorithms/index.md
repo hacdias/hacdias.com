@@ -2,6 +2,7 @@
 title: A Take on Approximation Algorithms
 description: |
   Approximation algorithms guarantee that a solution is within a certain range from the optimal solution. Let's apply one to the load balancing problem.
+deleted: true
 published: 2020-09-28T09:00:00+02:00
 section:
 - articles
