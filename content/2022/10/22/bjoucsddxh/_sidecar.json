@@ -43,6 +43,27 @@
       "wm-received": "2022-10-22T21:18:25Z",
       "wm-source": "https://ownyourswarm.p3k.io/checkin/63545e0905556512210a1dff/b53a73393d5b380204bf66e897939ac5",
       "wm-target": "https://hacdias.com/2022/10/22/bjoucsddxh"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/20737f86f80c3fcd5367a6fda8cc1c81975d5e1ee7c14c43d7bdd45d328241d5.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "More photos = more coins 💰",
+      "in-reply-to": "https://hacdias.com/2022/10/22/bjoucsddxh",
+      "post-type": "reply",
+      "published": "2022-10-22T23:18:01+02:00",
+      "swarm-coins": 5,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/63545e0905556512210a1dff/8afb2f8b3e62ea5f1dabc83c5aec26f1",
+      "wm-id": 1543680,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-10-23T09:33:59Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/63545e0905556512210a1dff/8afb2f8b3e62ea5f1dabc83c5aec26f1",
+      "wm-target": "https://hacdias.com/2022/10/22/bjoucsddxh"
     }
   ]
 }

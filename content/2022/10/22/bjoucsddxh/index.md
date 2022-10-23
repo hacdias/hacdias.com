@@ -35,6 +35,7 @@ properties:
       postal-code: 5611 ER
       region: North-Brabant
     type: h-adr
+  photo: cdn:/b0d6c5b5da1fe5eecc49ccd950b4f4137ca2bca68f82909e1d78c58e7838dbd9
   syndication: https://www.swarmapp.com/user/476184554/checkin/63545e0905556512210a1dff
 ---
 
