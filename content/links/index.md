@@ -16,11 +16,7 @@ In this page, you can find a collection of different links I collected over the 
 
 ## 🫂 Friends {#friends}
 
-<div class="box">
-
-🚧 This is a work in progress.
-
-</div>
+These are people that I know in person, consider my friends, and have their own website.
 
 - [Christiaan Bloo](https://www.christiaanbloo.com/)
 - [Sebastiaan Andeweg](https://seblog.nl)

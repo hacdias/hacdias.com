@@ -264,6 +264,12 @@
     "category": "following"
   },
   {
+    "title": "Max Inden",
+    "site": "https://max-inden.de/",
+    "feed": "https://max-inden.de/index.xml",
+    "category": "following"
+  },
+  {
     "title": "Michael Lynch",
     "site": "https://mtlynch.io/",
     "feed": "https://mtlynch.io/index.xml",
