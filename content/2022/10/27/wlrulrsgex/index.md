@@ -1,0 +1,35 @@
+---
+description: At Terminal Fluvial do Terreiro do Paço
+published: 2022-10-27T17:39:58+01:00
+section:
+- places
+createdWith: https://ownyourswarm.p3k.io/
+properties:
+  checkin:
+    properties:
+      country-name: Portugal
+      latitude: 38.7068567288393
+      locality: Lisbon
+      longitude: -9.133409476480937
+      name: Terminal Fluvial do Terreiro do Paço
+      region: Lisbon
+      street-address: Av. Infante D. Henrique
+      tel: 21 882 4671
+      url:
+      - https://foursquare.com/v/4c6005d21e5cd13a61aaa0ed
+      - http://www.transtejo.pt
+    type: h-card
+    value: https://foursquare.com/v/4c6005d21e5cd13a61aaa0ed
+  location:
+    properties:
+      country-name: Portugal
+      latitude: 38.7068567288393
+      locality: Lisbon
+      longitude: -9.133409476480937
+      region: Lisbon
+      street-address: Av. Infante D. Henrique
+    type: h-adr
+  syndication: https://www.swarmapp.com/user/476184554/checkin/635ab45e341ac64e6087bebd
+---
+
+
