@@ -97,7 +97,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
     1. [x] ~~Maintain a website for 1 years~~ <small>[July 2015]</small>
     2. [x] ~~Maintain a website for 5 years~~ <small>[July 2019]</small>
     3. [ ] Maintain a website for 10 years
-3. [x] ~~Write a self-published ebook~~ <small>[February 2015] [[link](/downloads/aprenda_a_programar.pdf)]</small>
+3. [x] ~~Write a self-published ebook~~ <small>[February 2015] [[link](https://cdn.hacdias.com/media/aprenda-a-programar.pdf)]</small>
 4. [x] ~~Participate in the National Olympiads of Informatics~~ <small>[April 2016] [10th place]</small>
    1. [x] ~~Participate again~~ <small>[May 2017] [6th place]</small>
 5. [x] ~~Become proficient in a second language~~ <small>[September 2019] [English]</small>

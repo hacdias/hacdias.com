@@ -83,7 +83,7 @@ M.Sc. in Computer Science and Engineering student at Eindhoven University of Tec
 [pplware]: https://pplware.sapo.pt
 [pplware:me]: https://pplware.sapo.pt/author/henrique_dias/
 [pplware:kidsme]: https://kids.pplware.sapo.pt/author/henrique_dias/
-[pplware:ebook]: https://hacdias.com/downloads/aprenda_a_programar.pdf
+[pplware:ebook]: https://cdn.hacdias.com/media/aprenda-a-programar.pdf
 
 
 ## Education

@@ -58,7 +58,7 @@ This is a display of some of the projects I have worked on. Please check out my 
     <img style="margin-bottom: 0.5rem;" src='/projects/wordpress.jpg'>
     <p style='margin: 0'><span style="font-weight: 600;">WordPress Widgets</span> — User profile widgets.</p>
   </a>
-    <a class='nl' href="/downloads/aprenda_a_programar.pdf">
+    <a class='nl' href="https://cdn.hacdias.com/media/aprenda-a-programar.pdf">
     <img style="margin-bottom: 0.5rem;" src='/projects/aprenda-a-programar.jpg'>
     <p style='margin: 0'><span style="font-weight: 600;">Aprenda a Programar</span> — C ebook for beginners.</p>
   </a>
