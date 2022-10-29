@@ -1,0 +1,22 @@
+---
+title: How to annotate literally everything | beepb00p
+description: Bookmarked a post on beepb00p.xyz
+published: 2022-10-30T00:18:23.352666361+02:00
+section:
+- bookmarks
+createdWith: https://micropublish.net/
+properties:
+  bookmark-of: https://beepb00p.xyz/annotating.html
+  location:
+    properties:
+      country-name: Portugal
+      latitude: 38.72238
+      locality: Lisbon
+      longitude: -9.1565
+      region: Lisbon
+    type: h-adr
+---
+
+> At some point in my life I realized I didn't remember most of the books/papers/posts/videos I had consumed few years before.
+
+Sadly, this is a very common problem. We spend our days consuming media for immediate-pleasure. And usually we have thoughts about what we just consumed, but we don't note them down, or preserve them.

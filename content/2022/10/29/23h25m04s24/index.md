@@ -1,0 +1,24 @@
+---
+title: 'How I take smart digital notes—Part 1: A map for the journey | Ramses'' Blog'
+description: Bookmarked a post on ramses.blog
+published: 2022-10-29T23:25:04.249148895+02:00
+section:
+- bookmarks
+createdWith: https://micropublish.net/
+properties:
+  bookmark-of: https://ramses.blog/how-take-notes-part-1/
+  location:
+    properties:
+      country-name: Portugal
+      latitude: 38.72778
+      locality: Lisbon
+      longitude: -9.14882
+      region: Lisbon
+    type: h-adr
+---
+
+> As an autodidact, you will meet many different content formats on the road to understanding. Not all formats are created equal, and some work better than others. Add to that learning preferences, and you’ve got yourself a complicated situation.
+
+> I feel obliged to mention podcasts, but I don’t recommend relying on them too much when learning. They are low resolution and impossible to skim.
+
+> Reading widely and applying knowledge to problems is what empowers us to take ownership of our lives. The world starts to look like a place of possibility when you can adopt new viewpoints and learn new skills.
