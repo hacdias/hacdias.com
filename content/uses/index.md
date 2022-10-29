@@ -1,7 +1,7 @@
 ---
 title: Uses
 published: 2020-01-21T15:39:00Z
-updated: 2022-08-23T22:42:05.540832507+02:00
+updated: 2022-10-29T19:08:53.074887911+02:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -13,16 +13,16 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 ## 📟 Hardware {#hardware}
 
 - **Laptop**: 2021 MacBook Pro 14"
-- **Smartphone:** iPhone 11 Pro
-- **Laptop stand:** Rain mStand
+- **Smartphone:** iPhone 14 Pro
+- **Laptop stand:** Rain mStand, The Roost v3
 - **Monitor**: Asus VG27A
 - **Tablet**: 2018 iPad Pro 11"
-- **Keyboard:** Ducky One 2 Mini
-- **Mouse:** Asus Strix Impact
+- **Keyboard:** Ducky One 2 Mini, Magic Keyboard
+- **Mouse:** Asus Strix Impact, Magic Trackpad
 - **Dock**: CalDigit TS3 Plus
 - **Speakers**: Logitech Z213
-- **Headphones:** JBL Live 5000BT
-- **Earphones:** Airpods (2nd Gen)
+- **Headphones:** Sony WH-1000XM5
+- **Earphones:** AirPods (3rd Gen)
 - **Console**: Nintendo Switch
 - **Tracking Device**: [Apple AirTags](https://www.apple.com/airtag/)
 - **Auth Device**: [YubiKeys](https://www.yubico.com/) for 2FA, GPG and SSH

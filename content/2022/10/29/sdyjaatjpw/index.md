@@ -1,0 +1,22 @@
+---
+deleted: true
+published: 2022-10-29T14:34:37.009973756+02:00
+updated: 2022-10-29T14:36:20.613312176+02:00
+section:
+- micro
+- home
+createdWith: https://micropublish.net/
+properties:
+  location:
+    properties:
+      country-name: Portugal
+      latitude: 38.72237
+      locality: Lisbon
+      longitude: -9.1567
+      region: Lisbon
+    type: h-adr
+---
+
+I think I just found the most accurate comic for the current situation of this website right now, at least when it comes to articles 🥲 Maybe I should go back to less fiddling with custom blog engines, plug some pieces together, and write more.
+
+![Blogging vs. blog setups by Rakhim](cdn:/77dfed1df2431e0b23b0c48740e5dce19e1bf8defe6cc9137bc82ad46e3ff104 "[Blogging vs. blog setups by Rakhim](https://rakhim.org/honestly-undefined/19/)")
