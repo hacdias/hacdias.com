@@ -5,6 +5,35 @@ console.log(
   "font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif; text-shadow: 1px 1px 3px black ;"
 )
 
+function addEmoji (el) {
+  const today = new Date();
+  const month = today.getMonth() + 1
+  const day = today.getDate()
+  let emoji = null
+
+  if (month === 1 && day <= 3) {
+    emoji = '🎊'
+  } else if (month === 5 && day === 17) {
+    emoji = '🌈'
+  } if (month === 6) {
+    emoji = '🏳️‍🌈'
+  } if (month === 10 && day === 22) {
+    emoji = '🎂'
+  } else if (month === 10 && day >= 30) {
+    emoji = '🎃'
+  } else if (month === 11 && day === 1) {
+    emoji = '👻'
+  } else if (month === 12 && day === 5) {
+    emoji = '🍪'
+  } else if (month === 12 && day >= 20) {
+    emoji = '🎄'
+  }
+
+  if (emoji) {
+    el.innerHTML += emoji
+  }
+}
+
 function parseEmojis (el) {
   twemoji.parse(el, {
     base: 'https://cdn.hacdias.com/emojis/14.0.1/',
@@ -35,6 +64,7 @@ function setupPreview() {
   })
 }
 
+addEmoji(document.querySelector('#egg'))
 parseEmojis(document.body)
 setupPreview()
 
