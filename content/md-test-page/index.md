@@ -1,6 +1,6 @@
 ---
 title: Markdown Test Page
-draft: true
+deleted: true
 createdWith: https://hacdias.com/
 ---
 
