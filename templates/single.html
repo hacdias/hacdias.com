@@ -17,10 +17,6 @@
     
     {{ include "post/media" . }}
     {{ include "post/footer" . }}
-
-    {{ with .DisplayDescription }}
-      <p class='dn p-summary'>{{ . }}</p>
-    {{ end }}
   </article>
 
   {{ include "post/webmentions" . }}

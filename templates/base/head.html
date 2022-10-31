@@ -1,12 +1,13 @@
 {{ define "base/head" }}
-  {{ $description := or .DisplayDescription .Site.Description }}
+  {{ $title := sprintf "%s - %s" .TextTitle .Site.Title }}
+  {{ $description := or .TextDescription .Site.Description }}
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#fbfbfb">
 
-  <title>{{ .HeadTitle }}</title>
+  <title>{{ $title }}</title>
 
   {{ if .NoIndex }}
     <meta name="robots" content="noindex">
@@ -25,7 +26,7 @@
   <meta name="twitter:site" content="@{{ .Me.Twitter }}"/>
   <meta name="twitter:creator" content="@{{ .Me.Twitter }}"/>
   <meta property="og:locale" content="{{ .Site.Language }}" />
-  <meta property="og:title" content="{{ or .DisplayTitle .Site.Title }}" />
+  <meta property="og:title" content="{{ $title }}" />
   <meta property="og:description" content="{{ $description }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
