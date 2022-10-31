@@ -4,7 +4,7 @@
   {{ $subs := $mm.Subs $mm.TypeProperty }}
 
   {{ if not .Listing }}
-    {{ with .GetFile "_geo.json" }}
+    {{ with .SafeItineraryGeoJSON }}
       {{ include "map" . }}
       <script>
         const geoJson = L.geoJSON(JSON.parse({{ . }}));
