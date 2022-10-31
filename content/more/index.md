@@ -23,11 +23,12 @@ This website contains more things than it looks at first glance. This page is a 
 
 - [✏️ Articles](/articles)
 - [🔖 Bookmarks](/bookmarks)
+- [📍 Checkins](/checkins)
 - [🥘 Food and Beverages](/food)
+- [🗺 Itineraries](/itineraries)
 - [💬 Micro](/micro)
 - [⏰ Now](/now)
 - [📸 Photos](/photos)
-- [📍 Places](/places)
 - [📚 Reads](/reads/summary)
 - [🎬 Watches](/watches/summary)
 
