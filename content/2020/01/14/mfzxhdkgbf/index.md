@@ -2,7 +2,7 @@
 description: At Osaka
 published: 2020-01-14T14:15:22Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

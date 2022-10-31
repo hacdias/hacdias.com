@@ -2,7 +2,7 @@
 description: At Beursplein
 published: 2021-11-25T11:03:01+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

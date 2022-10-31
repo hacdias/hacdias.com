@@ -2,7 +2,7 @@
 description: At Moncarapacho
 published: 2022-04-03T12:25:07+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

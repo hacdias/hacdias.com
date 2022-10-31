@@ -2,7 +2,7 @@
 description: At Duomo di Napoli
 published: 2022-09-13T16:38:31+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

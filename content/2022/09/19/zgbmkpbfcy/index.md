@@ -2,7 +2,7 @@
 description: At Castello
 published: 2022-09-19T13:35:45+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

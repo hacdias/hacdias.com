@@ -2,7 +2,7 @@
 description: At Amazing Oriental 東方行
 published: 2021-07-05T11:47:04+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

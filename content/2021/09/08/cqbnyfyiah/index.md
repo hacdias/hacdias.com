@@ -2,7 +2,7 @@
 description: At Technische Universiteit Eindhoven (TU/e)
 published: 2021-09-08T20:18:38+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

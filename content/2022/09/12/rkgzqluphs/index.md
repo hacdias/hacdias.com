@@ -2,7 +2,7 @@
 description: Trip from Eindhoven (EIN) to Naples (NAP)
 published: 2022-09-12T22:10:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

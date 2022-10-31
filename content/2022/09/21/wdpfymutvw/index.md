@@ -2,7 +2,7 @@
 description: At Stazione Bergamo
 published: 2022-09-21T17:32:54+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

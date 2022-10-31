@@ -2,7 +2,7 @@
 description: At Parque Marechal Carmona
 published: 2021-07-11T10:44:24+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

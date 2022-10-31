@@ -2,7 +2,7 @@
 description: At Momen’Tea
 published: 2021-10-02T17:09:07+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

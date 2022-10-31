@@ -2,7 +2,7 @@
 description: At Lucifer Coffee Roasters
 published: 2021-08-30T08:36:03+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

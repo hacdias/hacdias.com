@@ -2,7 +2,7 @@
 description: At Jardin des Plantes
 published: 2021-10-01T09:30:19+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

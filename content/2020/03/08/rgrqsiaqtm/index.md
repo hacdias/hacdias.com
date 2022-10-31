@@ -2,7 +2,7 @@
 description: At Parque Eduardo VII
 published: 2020-03-08T09:03:59Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

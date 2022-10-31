@@ -2,7 +2,7 @@
 description: At Tramhalte Molukkenstraat
 published: 2020-02-09T18:39:56+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

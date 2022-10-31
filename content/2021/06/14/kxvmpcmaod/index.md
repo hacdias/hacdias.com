@@ -2,7 +2,7 @@
 description: At Park
 published: 2021-06-14T17:36:10+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

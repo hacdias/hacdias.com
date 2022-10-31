@@ -2,7 +2,7 @@
 description: At Rua de Dona Filipa de Vilhena
 published: 2020-03-10T11:00:21Z
 section:
-- places
+- checkins
 properties:
   category:
     properties:

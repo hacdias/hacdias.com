@@ -2,7 +2,7 @@
 description: Trip from Tilburg Centraal to Tilburg IJsbaan
 published: 2022-02-24T18:45:00+01:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

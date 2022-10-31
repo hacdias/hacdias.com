@@ -2,7 +2,7 @@
 description: At Obelisco Esquiline
 published: 2022-09-14T17:05:16+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

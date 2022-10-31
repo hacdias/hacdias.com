@@ -2,7 +2,7 @@
 description: At Piazza del Duomo
 published: 2022-09-20T17:59:06+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

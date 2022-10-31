@@ -2,7 +2,7 @@
 description: At Biblioteca Nazionale Braidense
 published: 2022-09-21T12:12:48+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

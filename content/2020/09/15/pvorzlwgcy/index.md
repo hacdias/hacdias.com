@@ -3,7 +3,7 @@ description: At TU/e Library
 published: 2020-09-15T15:08:00+02:00
 section:
 - home
-- places
+- checkins
 properties:
   checkin:
     properties:

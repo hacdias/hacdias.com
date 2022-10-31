@@ -2,7 +2,7 @@
 description: At CASA
 published: 2022-09-12T14:12:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

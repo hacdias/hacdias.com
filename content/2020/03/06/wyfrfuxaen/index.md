@@ -2,7 +2,7 @@
 description: At Metro Campo Pequeno [AM]
 published: 2020-03-06T17:16:28Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

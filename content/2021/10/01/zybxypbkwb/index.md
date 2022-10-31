@@ -2,7 +2,7 @@
 description: At Porte de Clichy
 published: 2021-10-01T21:33:29+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

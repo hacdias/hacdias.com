@@ -2,7 +2,7 @@
 description: At Wylermeer
 published: 2022-10-02T16:44:35+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

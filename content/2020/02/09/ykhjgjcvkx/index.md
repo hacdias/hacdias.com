@@ -2,7 +2,7 @@
 description: At Amsterdam Tulip Museum
 published: 2020-02-09T11:33:08+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

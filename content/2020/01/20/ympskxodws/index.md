@@ -2,7 +2,7 @@
 description: At Colombo Shopping Mall (Centro Comercial Colombo)
 published: 2020-01-20T15:02:24Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

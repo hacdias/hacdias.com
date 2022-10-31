@@ -2,7 +2,7 @@
 description: At Broese Boekverkopers
 published: 2022-02-20T14:14:54+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

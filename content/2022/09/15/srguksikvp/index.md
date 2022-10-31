@@ -2,7 +2,7 @@
 description: At Piazza San Silvestro
 published: 2022-09-15T17:45:08+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At COFFEELAB
 published: 2022-10-15T16:06:16+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

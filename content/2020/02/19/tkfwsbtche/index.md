@@ -2,7 +2,7 @@
 description: At Faculdade de Direito da Universidade de Lisboa
 published: 2020-02-19T13:54:18Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

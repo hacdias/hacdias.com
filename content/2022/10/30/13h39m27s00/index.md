@@ -2,7 +2,7 @@
 description: At Ponte Maat
 published: 2022-10-30T13:39:27Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

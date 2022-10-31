@@ -2,7 +2,7 @@
 description: At Carrefour Express
 published: 2020-02-06T17:24:09+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

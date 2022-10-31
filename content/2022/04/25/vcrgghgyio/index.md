@@ -2,7 +2,7 @@
 description: At Holborn Viaduct
 published: 2022-04-25T12:32:43+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

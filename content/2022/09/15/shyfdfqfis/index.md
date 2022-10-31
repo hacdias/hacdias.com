@@ -2,7 +2,7 @@
 description: At Roma San Pietro Railway Station (Stazione Roma San Pietro)
 published: 2022-09-15T14:20:52+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

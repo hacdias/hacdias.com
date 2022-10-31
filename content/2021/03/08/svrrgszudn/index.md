@@ -2,7 +2,7 @@
 description: At Department of Chemical Engineering
 published: 2021-03-08T13:26:06+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

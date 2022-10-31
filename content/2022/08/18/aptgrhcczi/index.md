@@ -2,7 +2,7 @@
 description: At Genneper Parken
 published: 2022-08-18T18:14:21+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

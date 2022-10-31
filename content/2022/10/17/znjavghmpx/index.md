@@ -2,7 +2,7 @@
 description: At Coolblue
 published: 2022-10-17T14:25:12+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Antwerp (Antwerpen)
 published: 2020-02-07T12:38:56+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

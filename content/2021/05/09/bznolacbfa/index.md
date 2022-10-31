@@ -2,7 +2,7 @@
 description: At Maastricht
 published: 2021-05-09T14:10:33+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

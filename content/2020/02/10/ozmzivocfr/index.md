@@ -2,7 +2,7 @@
 description: At Schiphol Airport Railway Station (Station Schiphol Airport)
 published: 2020-02-10T12:27:49+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

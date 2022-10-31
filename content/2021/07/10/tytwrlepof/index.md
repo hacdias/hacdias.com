@@ -2,7 +2,7 @@
 description: At Miradouro do Recolhimento
 published: 2021-07-10T17:00:55+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

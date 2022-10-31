@@ -3,7 +3,7 @@ description: At Stadswandelpark
 published: 2022-06-16T16:19:28+02:00
 section:
 - home
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

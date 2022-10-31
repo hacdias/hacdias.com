@@ -2,7 +2,7 @@
 description: At Museum van het Nederlandse Uurwerk - Zaanse Tijd
 published: 2022-08-05T13:37:18+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

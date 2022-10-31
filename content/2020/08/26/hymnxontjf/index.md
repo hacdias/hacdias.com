@@ -2,7 +2,7 @@
 description: At TU/e Helix
 published: 2020-08-26T12:01:28+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

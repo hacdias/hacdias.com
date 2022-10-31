@@ -2,7 +2,7 @@
 description: At Marquês de Pombal
 published: 2020-03-08T11:43:46Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

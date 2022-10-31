@@ -2,7 +2,7 @@
 description: At Jardim do Campo Grande
 published: 2020-02-20T13:20:44Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

@@ -2,7 +2,7 @@
 description: At Stadsbrouwerij Eindhoven 100 Watt
 published: 2022-10-14T17:44:15+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

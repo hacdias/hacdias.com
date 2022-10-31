@@ -2,7 +2,7 @@
 description: At Camping Veldlust
 published: 2022-05-28T14:37:41+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

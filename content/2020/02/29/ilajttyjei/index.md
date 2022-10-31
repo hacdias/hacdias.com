@@ -2,7 +2,7 @@
 description: At SEPHORA VASCO DE GAMA
 published: 2020-02-29T17:37:42Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

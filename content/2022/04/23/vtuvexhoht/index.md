@@ -2,7 +2,7 @@
 description: At Portobello Road Market
 published: 2022-04-23T10:35:45+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

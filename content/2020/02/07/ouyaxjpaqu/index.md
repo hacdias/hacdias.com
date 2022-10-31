@@ -2,7 +2,7 @@
 description: At Zoo Antwerpen
 published: 2020-02-07T13:02:59+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

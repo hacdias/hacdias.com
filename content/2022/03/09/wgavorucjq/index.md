@@ -2,7 +2,7 @@
 description: At TU/e Gaslab
 published: 2022-03-09T18:57:28+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

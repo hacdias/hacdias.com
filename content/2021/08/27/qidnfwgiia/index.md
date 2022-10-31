@@ -2,7 +2,7 @@
 description: At Seth
 published: 2021-08-27T11:05:04+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Vondelpark
 published: 2021-08-28T15:49:29+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

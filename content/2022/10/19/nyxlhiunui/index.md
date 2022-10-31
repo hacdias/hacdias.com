@@ -2,7 +2,7 @@
 description: At Fysiotherapie van Eijk
 published: 2022-10-19T10:09:05+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

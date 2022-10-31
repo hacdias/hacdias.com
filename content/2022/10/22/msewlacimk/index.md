@@ -2,7 +2,7 @@
 description: At The Trafalgar Pub
 published: 2022-10-22T21:27:24+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checked-in-by:

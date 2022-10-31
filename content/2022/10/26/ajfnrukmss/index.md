@@ -2,7 +2,7 @@
 description: At Continente Bom Dia Defensores de Chaves
 published: 2022-10-26T13:35:41+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Concourse M
 published: 2020-02-10T14:46:40+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

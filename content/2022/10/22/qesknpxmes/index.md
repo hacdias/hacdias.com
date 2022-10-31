@@ -2,7 +2,7 @@
 description: At Intelligentia ICE
 published: 2022-10-22T14:27:23+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

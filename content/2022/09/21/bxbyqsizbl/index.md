@@ -2,7 +2,7 @@
 description: At Funicolare Città Alta
 published: 2022-09-21T18:41:33+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

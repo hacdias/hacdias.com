@@ -2,7 +2,7 @@
 description: At Pavilhão de Informática I
 published: 2020-02-17T10:59:49Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Fontana dell'Isola
 published: 2022-09-17T17:07:02+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

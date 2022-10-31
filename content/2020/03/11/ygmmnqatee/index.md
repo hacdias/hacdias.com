@@ -2,7 +2,7 @@
 description: At Saldanha
 published: 2020-03-11T15:05:05Z
 section:
-- places
+- checkins
 properties:
   category:
   - properties:

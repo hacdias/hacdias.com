@@ -2,7 +2,7 @@
 description: At Eglise De Sacre-Coeur
 published: 2020-02-04T10:18:48+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

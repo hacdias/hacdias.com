@@ -2,7 +2,7 @@
 description: At Ponte Marcello
 published: 2022-09-20T10:01:45+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

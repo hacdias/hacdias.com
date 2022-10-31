@@ -2,7 +2,7 @@
 description: At Park Lepelenburg
 published: 2022-02-27T12:06:54+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: Trip from London (LHR) to Glasgow (GLA)
 published: 2018-10-09T01:00:00Z
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

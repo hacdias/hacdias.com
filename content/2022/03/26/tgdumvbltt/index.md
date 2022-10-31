@@ -3,8 +3,8 @@ description: At Wurst & Schnitzelhaus
 published: 2022-03-26T16:09:57+01:00
 section:
 - home
-- places
 - food
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   ate:

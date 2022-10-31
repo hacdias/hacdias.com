@@ -2,7 +2,7 @@
 description: At IST Secção De Folhas AEIST
 published: 2020-03-06T11:07:18Z
 section:
-- places
+- checkins
 properties:
   category:
   - properties:

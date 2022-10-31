@@ -2,7 +2,7 @@
 description: At Kronenburgerpark
 published: 2022-10-02T14:17:03+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

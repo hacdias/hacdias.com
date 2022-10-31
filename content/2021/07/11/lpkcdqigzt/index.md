@@ -2,7 +2,7 @@
 description: At Alameda
 published: 2021-07-11T09:02:23+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

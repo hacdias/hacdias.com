@@ -2,7 +2,7 @@
 description: At Kersenbloesempark
 published: 2022-03-26T12:47:10+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

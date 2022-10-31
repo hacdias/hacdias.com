@@ -2,7 +2,7 @@
 description: At Pena Park (Parque da Pena)
 published: 2021-07-09T10:55:29+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

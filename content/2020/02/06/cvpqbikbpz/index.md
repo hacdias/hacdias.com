@@ -2,7 +2,7 @@
 description: At Atomium
 published: 2020-02-06T11:36:16+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

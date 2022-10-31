@@ -2,7 +2,7 @@
 description: At Arroios
 published: 2020-03-08T19:15:24Z
 section:
-- places
+- checkins
 properties:
   category:
     properties:

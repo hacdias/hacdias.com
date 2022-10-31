@@ -2,7 +2,7 @@
 description: At Northern Quarter (Noordwijk)
 published: 2020-02-07T11:28:39+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

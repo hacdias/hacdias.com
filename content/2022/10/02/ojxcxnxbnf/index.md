@@ -2,7 +2,7 @@
 description: At Sint-Nicolaaskapel
 published: 2022-10-02T13:40:25+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checked-in-by:

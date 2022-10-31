@@ -2,7 +2,7 @@
 description: At Jardim S. Lázaro
 published: 2021-07-14T17:41:28+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

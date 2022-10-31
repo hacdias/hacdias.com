@@ -2,7 +2,7 @@
 description: At Harrods
 published: 2022-04-24T15:14:41+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

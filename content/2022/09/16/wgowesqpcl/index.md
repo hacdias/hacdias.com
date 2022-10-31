@@ -2,7 +2,7 @@
 description: At Hotel San Lorenzo Florence
 published: 2022-09-16T21:06:02+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

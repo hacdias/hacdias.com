@@ -2,7 +2,7 @@
 description: At St. Catharinakerk (Stadskerk)
 published: 2022-09-03T15:45:00+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

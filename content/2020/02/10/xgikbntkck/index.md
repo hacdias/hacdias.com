@@ -2,7 +2,7 @@
 description: At Dam
 published: 2020-02-10T11:41:06+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Torre Sul
 published: 2020-03-06T09:33:32Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

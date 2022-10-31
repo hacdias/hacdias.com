@@ -3,7 +3,7 @@ description: At Sleeping Nello and Patrasche (statue)
 published: 2020-02-07T15:33:29+01:00
 section:
 - home
-- places
+- checkins
 properties:
   checkin:
     properties:

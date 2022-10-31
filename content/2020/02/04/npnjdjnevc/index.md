@@ -2,7 +2,7 @@
 description: At Skatepark Pétrusse
 published: 2020-02-04T10:49:12+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

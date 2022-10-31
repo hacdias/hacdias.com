@@ -2,7 +2,7 @@
 description: At Boboli Gardens (Giardino di Boboli)
 published: 2022-09-17T16:16:07+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

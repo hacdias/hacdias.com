@@ -2,7 +2,7 @@
 description: At Casa Nirvana
 published: 2021-08-06T19:32:48+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

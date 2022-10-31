@@ -2,7 +2,7 @@
 description: At Tram stops Amsterdam Central Station (Tramhalte Centraal Station)
 published: 2020-02-09T14:23:34+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

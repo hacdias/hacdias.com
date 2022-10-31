@@ -2,7 +2,7 @@
 description: Trip from Firenze Santa Maria Novella to Bologna Centrale
 published: 2022-09-18T09:48:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

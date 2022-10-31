@@ -2,7 +2,7 @@
 description: At Albert Heijn
 published: 2020-11-18T18:16:32+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

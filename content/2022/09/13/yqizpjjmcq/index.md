@@ -2,7 +2,7 @@
 description: At Piazza del Plebiscito
 published: 2022-09-13T18:34:13+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

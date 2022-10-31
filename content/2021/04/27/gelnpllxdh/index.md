@@ -2,7 +2,7 @@
 description: At Opwettense Watermolen
 published: 2021-04-27T14:12:55+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

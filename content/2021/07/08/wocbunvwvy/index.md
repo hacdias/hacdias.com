@@ -2,7 +2,7 @@
 description: At Miradouro do MAAT
 published: 2021-07-08T14:07:51+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

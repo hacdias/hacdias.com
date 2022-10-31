@@ -2,7 +2,7 @@
 description: At Dadawan
 published: 2022-06-11T18:00:42+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Stadhuisbrug
 published: 2021-08-29T11:09:20+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

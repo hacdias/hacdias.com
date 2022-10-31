@@ -2,7 +2,7 @@
 description: At Metro Baixa-Chiado [AZ,VD]
 published: 2020-01-26T20:17:12Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

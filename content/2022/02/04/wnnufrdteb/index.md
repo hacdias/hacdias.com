@@ -2,7 +2,7 @@
 description: At Mauritshuis
 published: 2022-02-04T12:45:54+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

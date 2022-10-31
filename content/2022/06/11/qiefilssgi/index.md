@@ -2,7 +2,7 @@
 description: At Mega Bowling
 published: 2022-06-11T14:57:18+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Stazione Torre Annunziata Centrale
 published: 2022-09-13T09:39:34+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

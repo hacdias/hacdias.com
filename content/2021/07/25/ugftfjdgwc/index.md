@@ -2,7 +2,7 @@
 description: At Praia de São Torpes
 published: 2021-07-25T13:56:59+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

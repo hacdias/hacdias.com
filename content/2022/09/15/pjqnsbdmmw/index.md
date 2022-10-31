@@ -2,7 +2,7 @@
 description: At Saint Peter's Square (Piazza San Pietro)
 published: 2022-09-15T11:07:41+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

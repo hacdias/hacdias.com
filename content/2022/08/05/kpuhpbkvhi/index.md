@@ -2,7 +2,7 @@
 description: At Station Zaandam
 published: 2022-08-05T12:57:05+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

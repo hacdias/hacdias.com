@@ -2,7 +2,7 @@
 description: At Amsterdam Sloterdijk Station (Station Amsterdam Sloterdijk)
 published: 2020-02-10T12:18:43+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

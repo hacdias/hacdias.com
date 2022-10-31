@@ -2,7 +2,7 @@
 description: At Jumbo City
 published: 2021-08-27T08:52:59+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

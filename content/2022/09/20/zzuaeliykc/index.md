@@ -2,7 +2,7 @@
 description: At KFC
 published: 2022-09-20T18:33:42+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

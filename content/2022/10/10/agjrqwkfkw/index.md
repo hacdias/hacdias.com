@@ -2,7 +2,7 @@
 description: At Albert Heijn Het Veem
 published: 2022-10-10T12:59:38+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

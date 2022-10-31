@@ -2,7 +2,7 @@
 description: At Villa Zebra
 published: 2020-09-05T14:44:54+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Gezondheidscentrum Stratum
 published: 2022-10-05T09:20:53+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Faunaland Tongelre
 published: 2021-03-18T15:30:49+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

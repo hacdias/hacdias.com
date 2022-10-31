@@ -2,7 +2,7 @@
 description: At vanHaren
 published: 2021-06-05T14:37:32+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

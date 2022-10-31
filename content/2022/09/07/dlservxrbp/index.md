@@ -2,7 +2,7 @@
 description: At MediaMarkt
 published: 2022-09-07T12:50:24+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

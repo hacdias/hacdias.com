@@ -2,7 +2,7 @@
 description: At Jardim do Arco do Cego
 published: 2022-10-24T17:41:12+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

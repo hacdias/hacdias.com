@@ -2,7 +2,7 @@
 description: At Primaziale di Santa Maria Assunta (Duomo)
 published: 2022-09-16T14:56:31+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

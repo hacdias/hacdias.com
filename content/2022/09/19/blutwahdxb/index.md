@@ -2,7 +2,7 @@
 description: At Ponte Nicolo Pasovaligo
 published: 2022-09-19T16:33:48+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

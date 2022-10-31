@@ -2,7 +2,7 @@
 description: At Station Nijmegen
 published: 2021-08-25T21:33:47+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

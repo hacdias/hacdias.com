@@ -2,7 +2,7 @@
 description: At Rio dei Mendicanti
 published: 2022-09-20T11:04:33+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

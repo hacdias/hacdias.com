@@ -2,7 +2,7 @@
 description: At Praça de Londres
 published: 2020-03-08T17:05:30Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

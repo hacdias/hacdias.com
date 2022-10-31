@@ -2,7 +2,7 @@
 description: At Kazerne Restaurant Expo
 published: 2022-04-14T17:33:38+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

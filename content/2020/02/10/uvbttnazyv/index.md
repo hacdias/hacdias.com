@@ -2,7 +2,7 @@
 description: At Tramhalte Alexanderplein
 published: 2020-02-10T11:19:01+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

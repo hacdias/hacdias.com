@@ -2,7 +2,7 @@
 description: At The Louvre (Musée du Louvre)
 published: 2021-10-01T10:12:19+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

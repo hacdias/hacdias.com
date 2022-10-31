@@ -2,7 +2,7 @@
 description: At Klokgebouw
 published: 2021-10-16T11:20:47+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

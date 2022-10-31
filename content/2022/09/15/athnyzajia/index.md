@@ -2,7 +2,7 @@
 description: At Spanish Steps (Scalinata di Trinità dei Monti)
 published: 2022-09-15T17:52:31+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

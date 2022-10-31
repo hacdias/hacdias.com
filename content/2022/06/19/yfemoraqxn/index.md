@@ -2,7 +2,7 @@
 description: At Down Town Gourmet Market
 published: 2022-06-19T20:35:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

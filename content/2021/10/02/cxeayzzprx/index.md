@@ -2,7 +2,7 @@
 description: At Place Vendôme
 published: 2021-10-02T12:25:37+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

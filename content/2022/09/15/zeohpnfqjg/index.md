@@ -2,7 +2,7 @@
 description: At Column of Marcus Aurelius (Colonna di Marco Aurelio)
 published: 2022-09-15T10:15:18+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

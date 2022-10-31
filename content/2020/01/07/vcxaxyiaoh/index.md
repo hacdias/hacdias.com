@@ -2,7 +2,7 @@
 description: At Fonte Luminosa
 published: 2020-01-07T17:40:21Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Funicolare di Montesanto - Montesanto
 published: 2022-09-14T10:39:11+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

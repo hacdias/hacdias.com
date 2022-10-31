@@ -3,7 +3,7 @@ description: At Bergamo Orio al Serio Airport (BGY) (Aeroporto di Bergamo Orio a
   Serio)
 published: 2022-09-22T07:21:35+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

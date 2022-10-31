@@ -2,7 +2,7 @@
 description: At Maastricht Railway Station (Station Maastricht)
 published: 2021-05-09T12:59:03+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

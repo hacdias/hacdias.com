@@ -2,7 +2,7 @@
 description: At Five Guys
 published: 2021-09-17T18:36:41+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

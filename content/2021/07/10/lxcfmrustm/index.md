@@ -2,7 +2,7 @@
 description: At Continente Bom Dia
 published: 2021-07-10T18:19:01+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

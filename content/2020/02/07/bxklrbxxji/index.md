@@ -2,7 +2,7 @@
 description: At Royal Palace (Koninklijk Paleis)
 published: 2020-02-07T10:57:53+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

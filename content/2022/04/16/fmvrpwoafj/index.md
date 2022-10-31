@@ -2,7 +2,7 @@
 description: At Carglass Eindhoven
 published: 2022-04-16T11:44:40+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

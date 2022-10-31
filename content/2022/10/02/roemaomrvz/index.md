@@ -2,7 +2,7 @@
 description: At Beek [NL] / Wyler [DE]
 published: 2022-10-02T16:11:58+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

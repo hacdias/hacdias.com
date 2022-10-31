@@ -2,7 +2,7 @@
 description: At Beursgebouw
 published: 2021-10-16T17:02:41+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

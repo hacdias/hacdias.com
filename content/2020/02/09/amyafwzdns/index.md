@@ -2,7 +2,7 @@
 description: At Anne Frank House (Anne Frank Huis)
 published: 2020-02-09T13:07:02+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

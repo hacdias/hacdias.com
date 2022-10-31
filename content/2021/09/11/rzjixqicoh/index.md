@@ -2,7 +2,7 @@
 description: At Street Food Eindhoven
 published: 2021-09-11T12:10:24+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

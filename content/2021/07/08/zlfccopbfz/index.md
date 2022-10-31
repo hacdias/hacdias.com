@@ -2,7 +2,7 @@
 description: At Lost In - Esplanada Bar
 published: 2021-07-08T18:31:29+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

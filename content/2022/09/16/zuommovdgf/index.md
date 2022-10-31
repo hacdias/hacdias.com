@@ -2,7 +2,7 @@
 description: At Stazione Pisa Centrale
 published: 2022-09-16T13:26:33+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

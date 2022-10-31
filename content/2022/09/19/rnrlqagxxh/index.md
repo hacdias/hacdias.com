@@ -2,7 +2,7 @@
 description: At Ponte Storto
 published: 2022-09-19T14:27:57+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

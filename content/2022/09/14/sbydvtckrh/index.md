@@ -2,7 +2,7 @@
 description: At Piazza dell'Esquilino
 published: 2022-09-14T17:05:10+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

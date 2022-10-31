@@ -2,7 +2,7 @@
 description: At piazza s.giovanni in monte
 published: 2022-09-18T11:48:57+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

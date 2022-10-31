@@ -2,7 +2,7 @@
 description: At Milano Centrale Railway Station (Stazione Milano Centrale)
 published: 2022-09-21T16:17:26+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

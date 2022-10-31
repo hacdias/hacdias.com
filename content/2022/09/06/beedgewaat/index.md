@@ -2,7 +2,7 @@
 description: At Tweewielers van Gestel
 published: 2022-09-06T17:05:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Centraal Museum
 published: 2022-02-27T12:45:33+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

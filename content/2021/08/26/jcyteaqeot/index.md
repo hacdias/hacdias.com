@@ -2,7 +2,7 @@
 description: At Bushalte Eindhoven Airport
 published: 2021-08-26T10:09:10+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

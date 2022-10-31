@@ -2,7 +2,7 @@
 description: At Ponte Vecchio
 published: 2022-09-17T17:41:14+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

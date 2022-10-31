@@ -2,7 +2,7 @@
 description: At St. Catharinakerk (Stadskerk)
 published: 2021-09-19T15:06:40+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

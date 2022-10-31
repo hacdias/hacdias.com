@@ -2,7 +2,7 @@
 description: At Estufa Fria
 published: 2021-07-10T10:10:31+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

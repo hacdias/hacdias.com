@@ -2,7 +2,7 @@
 description: At Ketelhuisplein
 published: 2021-10-16T12:27:29+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

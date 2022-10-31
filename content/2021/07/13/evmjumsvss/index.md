@@ -2,7 +2,7 @@
 description: At Ar de Rio
 published: 2021-07-13T12:38:49+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

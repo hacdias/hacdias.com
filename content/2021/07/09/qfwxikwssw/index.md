@@ -2,7 +2,7 @@
 description: At Palácio da Quinta da Regaleira
 published: 2021-07-09T14:18:31+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

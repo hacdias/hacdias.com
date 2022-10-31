@@ -2,7 +2,7 @@
 description: At Philips Fruittuin
 published: 2022-10-15T15:24:59+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

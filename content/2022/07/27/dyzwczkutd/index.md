@@ -2,7 +2,7 @@
 description: At TU/e Studenten Sport Centrum
 published: 2022-07-27T15:01:06+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

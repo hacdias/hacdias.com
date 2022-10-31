@@ -2,7 +2,7 @@
 description: At restaurant evoluon
 published: 2022-10-01T12:32:42+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

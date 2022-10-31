@@ -2,7 +2,7 @@
 description: Trip from Keukenhof to Leiden Centraal
 published: 2022-05-06T17:52:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

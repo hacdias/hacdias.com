@@ -2,7 +2,7 @@
 description: At Rodrigo’s Port Wine Shop
 published: 2021-07-13T12:08:14+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

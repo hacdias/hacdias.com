@@ -2,7 +2,7 @@
 description: At Gate 224
 published: 2022-01-04T13:33:25Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

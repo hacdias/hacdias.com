@@ -2,7 +2,7 @@
 description: At Boekhandel Van Piere
 published: 2022-05-11T15:16:35+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

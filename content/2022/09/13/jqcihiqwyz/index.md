@@ -2,7 +2,7 @@
 description: At Pompeii Archaeological Park (Area Archeologica di Pompei)
 published: 2022-09-13T10:33:46+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

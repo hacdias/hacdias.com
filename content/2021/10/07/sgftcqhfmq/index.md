@@ -2,7 +2,7 @@
 description: At Cafe Bar Dancing Spijkers
 published: 2021-10-07T21:59:41+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

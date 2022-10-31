@@ -2,7 +2,7 @@
 description: Trip from Frankfurt (FRA) to Lisbon (LIS)
 published: 2019-11-24T22:20:00Z
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

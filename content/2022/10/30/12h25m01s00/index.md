@@ -2,7 +2,7 @@
 description: At Amoreiras Shopping Center
 published: 2022-10-30T12:25:01Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

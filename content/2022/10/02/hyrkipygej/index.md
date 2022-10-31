@@ -2,7 +2,7 @@
 description: At Wyler
 published: 2022-10-02T16:24:37+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

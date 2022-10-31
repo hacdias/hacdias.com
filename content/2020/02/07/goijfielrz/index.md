@@ -2,7 +2,7 @@
 description: At FlixBus Stop
 published: 2020-02-07T11:36:34+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

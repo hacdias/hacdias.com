@@ -2,7 +2,7 @@
 description: At Galleria Vittorio Emanuele II
 published: 2022-09-20T18:03:58+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

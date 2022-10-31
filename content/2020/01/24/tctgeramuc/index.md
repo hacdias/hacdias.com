@@ -2,7 +2,7 @@
 description: At Ourique
 published: 2020-01-24T12:08:48Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

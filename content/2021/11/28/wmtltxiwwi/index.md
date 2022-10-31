@@ -2,7 +2,7 @@
 description: At Landgoed Kasteel Geldrop
 published: 2021-11-28T12:23:14+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

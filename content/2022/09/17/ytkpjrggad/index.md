@@ -2,7 +2,7 @@
 description: At Gallery of the Academy (Galleria dell'Accademia)
 published: 2022-09-17T09:34:58+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

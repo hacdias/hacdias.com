@@ -2,7 +2,7 @@
 description: At Campina
 published: 2021-10-22T17:08:03+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

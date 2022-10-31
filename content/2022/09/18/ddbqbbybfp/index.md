@@ -2,7 +2,7 @@
 description: At Albergo Al Gobbo
 published: 2022-09-18T19:46:14+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

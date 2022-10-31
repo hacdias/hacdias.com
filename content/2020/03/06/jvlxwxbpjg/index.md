@@ -2,7 +2,7 @@
 description: At Espaço BBQ
 published: 2020-03-06T11:06:58Z
 section:
-- places
+- checkins
 properties:
   category:
   - properties:

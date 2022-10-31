@@ -2,7 +2,7 @@
 description: At 's-Hertogenbosch Railway Station (Station 's-Hertogenbosch)
 published: 2020-11-02T13:52:51+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

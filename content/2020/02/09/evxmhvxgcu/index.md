@@ -2,7 +2,7 @@
 description: At Lidl
 published: 2020-02-09T18:33:39+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

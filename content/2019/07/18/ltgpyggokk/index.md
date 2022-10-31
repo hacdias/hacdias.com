@@ -2,7 +2,7 @@
 description: Trip from Lisbon (LIS) to Berlin (BER)
 published: 2019-07-18T14:00:00Z
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

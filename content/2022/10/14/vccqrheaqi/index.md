@@ -2,7 +2,7 @@
 description: At Brownies & Downies
 published: 2022-10-14T12:30:34+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

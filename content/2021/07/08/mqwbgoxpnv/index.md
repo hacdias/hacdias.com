@@ -2,7 +2,7 @@
 description: At Jardim do Príncipe Real
 published: 2021-07-08T18:09:30+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

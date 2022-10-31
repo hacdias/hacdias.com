@@ -2,7 +2,7 @@
 description: At Jacob’s Juice
 published: 2022-04-09T13:49:10+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

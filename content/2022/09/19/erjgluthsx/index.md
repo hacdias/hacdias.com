@@ -2,7 +2,7 @@
 description: At Campo San Zaccaria
 published: 2022-09-19T14:47:45+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

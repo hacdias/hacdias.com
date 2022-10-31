@@ -2,7 +2,7 @@
 description: At Roma Termini Railway Station (XRJ) (Stazione Roma Termini)
 published: 2022-09-16T09:35:41+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

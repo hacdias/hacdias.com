@@ -2,7 +2,7 @@
 description: At Guia
 published: 2020-07-23T18:26:10+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

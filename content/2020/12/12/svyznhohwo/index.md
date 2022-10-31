@@ -2,7 +2,7 @@
 description: At Mango
 published: 2020-12-12T16:12:21+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

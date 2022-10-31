@@ -3,7 +3,7 @@ description: At Centrum
 published: 2021-11-06T20:00:00+01:00
 section:
 - home
-- places
+- checkins
 properties:
   category:
   - glow-festival

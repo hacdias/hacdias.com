@@ -2,7 +2,7 @@
 description: At Stratum
 published: 2022-02-13T11:02:18+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

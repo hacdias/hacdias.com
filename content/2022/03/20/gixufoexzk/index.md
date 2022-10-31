@@ -2,7 +2,7 @@
 description: At ZARA
 published: 2022-03-20T15:03:38+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Forte do Pessegueiro
 published: 2021-07-25T14:20:25+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

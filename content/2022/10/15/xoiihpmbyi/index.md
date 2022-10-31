@@ -2,7 +2,7 @@
 description: At Albert Heijn
 published: 2022-10-15T16:41:03+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

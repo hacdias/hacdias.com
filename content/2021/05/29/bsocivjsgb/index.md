@@ -3,8 +3,8 @@ description: At Intermezzo
 published: 2021-05-29T16:43:22+02:00
 section:
 - home
-- places
 - food
+- checkins
 properties:
   ate:
     properties:

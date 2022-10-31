@@ -2,7 +2,7 @@
 description: At ir B. Bijvoetbrug (Brug 229)
 published: 2020-02-08T17:23:56+01:00
 section:
-- places
+- checkins
 properties:
   category:
     properties:

@@ -2,7 +2,7 @@
 description: At Pisa
 published: 2022-09-16T13:43:06+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Gay's The Word
 published: 2022-04-23T16:48:25+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Korenmarkt
 published: 2021-08-21T11:58:24+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

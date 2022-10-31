@@ -2,7 +2,7 @@
 description: At Arco della Pace
 published: 2022-09-21T11:31:47+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

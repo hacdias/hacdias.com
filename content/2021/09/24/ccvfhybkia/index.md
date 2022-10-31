@@ -2,7 +2,7 @@
 description: At Pastelaria Lusa
 published: 2021-09-24T10:27:27+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

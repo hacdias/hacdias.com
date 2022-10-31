@@ -2,7 +2,7 @@
 description: At Ponte Sant'Angelo
 published: 2022-09-15T10:54:57+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Praça dos Restauradores
 published: 2020-03-08T10:37:50Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

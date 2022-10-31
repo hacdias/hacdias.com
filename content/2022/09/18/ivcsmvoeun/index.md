@@ -2,7 +2,7 @@
 description: At Basilica di San Martino Maggiore
 published: 2022-09-18T13:49:12+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

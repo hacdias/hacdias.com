@@ -2,7 +2,7 @@
 description: At Piet Hein Eek
 published: 2021-10-16T13:26:15+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

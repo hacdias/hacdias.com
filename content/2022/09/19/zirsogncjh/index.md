@@ -2,7 +2,7 @@
 description: At Ponte De L'arsenale
 published: 2022-09-19T14:24:15+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

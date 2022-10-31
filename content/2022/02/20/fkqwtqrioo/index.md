@@ -2,7 +2,7 @@
 description: At Domkerk
 published: 2022-02-20T14:40:09+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

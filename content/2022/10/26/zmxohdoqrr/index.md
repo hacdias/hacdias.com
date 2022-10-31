@@ -2,7 +2,7 @@
 description: At Waterfront
 published: 2022-10-26T14:30:42+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

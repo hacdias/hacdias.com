@@ -2,7 +2,7 @@
 description: At St. Peter's Basilica (Basilica Sancti Petri)
 published: 2022-09-15T12:22:10+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

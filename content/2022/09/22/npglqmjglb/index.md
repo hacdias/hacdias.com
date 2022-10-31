@@ -2,7 +2,7 @@
 description: Trip from Milan (BGY) to Eindhoven (EIN)
 published: 2022-09-22T11:55:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

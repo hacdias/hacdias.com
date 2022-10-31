@@ -2,7 +2,7 @@
 description: At Brussels-North Railway Station (Station Brussel-Noord)
 published: 2022-05-15T07:26:22+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

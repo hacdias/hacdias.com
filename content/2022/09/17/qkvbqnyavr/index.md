@@ -2,7 +2,7 @@
 description: At Feltrinelli RED
 published: 2022-09-17T11:21:03+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

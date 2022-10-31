@@ -2,7 +2,7 @@
 description: At Piazza della Signoria
 published: 2022-09-17T11:32:36+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Stadhuisplein
 published: 2020-08-24T15:25:52+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

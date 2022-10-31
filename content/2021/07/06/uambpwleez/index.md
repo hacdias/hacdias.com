@@ -2,7 +2,7 @@
 description: At The cloud  club
 published: 2021-07-06T09:23:26+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

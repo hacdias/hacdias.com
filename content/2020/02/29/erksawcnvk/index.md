@@ -2,7 +2,7 @@
 description: At iStore
 published: 2020-02-29T17:40:28Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

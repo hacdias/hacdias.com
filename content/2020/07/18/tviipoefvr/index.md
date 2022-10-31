@@ -2,7 +2,7 @@
 description: At Hospital Particular do Algarve
 published: 2020-07-18T14:42:43+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

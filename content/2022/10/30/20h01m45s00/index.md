@@ -2,7 +2,7 @@
 description: At BananaCafe
 published: 2022-10-30T20:01:45Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

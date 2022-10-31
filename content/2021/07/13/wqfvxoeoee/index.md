@@ -2,7 +2,7 @@
 description: At Livraria Lello
 published: 2021-07-13T15:47:20+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At B&B Hotel Paris 17 Batignolles
 published: 2021-10-02T18:22:15+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At McDonald's Eindhoven Airport
 published: 2020-11-03T15:45:14+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

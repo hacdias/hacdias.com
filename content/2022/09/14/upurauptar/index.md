@@ -2,7 +2,7 @@
 description: At Church Of Saint Alphonsus On The Esquiline
 published: 2022-09-14T17:36:13+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -3,7 +3,7 @@ description: At Firenze Santa Maria Novella Railway Station (ZMS) (Stazione Fire
   Santa Maria Novella)
 published: 2022-09-18T08:55:22+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

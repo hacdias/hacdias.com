@@ -2,7 +2,7 @@
 description: At Gent-Sint-Pieters Railway Station (Station Gent-Sint-Pieters)
 published: 2021-08-21T10:38:14+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

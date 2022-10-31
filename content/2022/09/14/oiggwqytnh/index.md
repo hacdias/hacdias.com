@@ -2,7 +2,7 @@
 description: At Arch of Constantine (Arco di Costantino)
 published: 2022-09-14T18:03:12+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

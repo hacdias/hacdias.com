@@ -2,7 +2,7 @@
 description: At Hertoghof
 published: 2021-12-17T21:36:18+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

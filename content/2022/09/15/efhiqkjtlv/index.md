@@ -2,7 +2,7 @@
 description: At Fountain of the Four Rivers (Fontana dei Quattro Fiumi)
 published: 2022-09-15T10:41:48+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

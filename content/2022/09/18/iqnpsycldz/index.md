@@ -2,7 +2,7 @@
 description: At Porta Galliera
 published: 2022-09-18T10:12:03+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

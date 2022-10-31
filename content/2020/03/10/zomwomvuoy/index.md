@@ -2,7 +2,7 @@
 description: At Farmácia Palma
 published: 2020-03-10T11:38:14Z
 section:
-- places
+- checkins
 properties:
   category:
   - properties:

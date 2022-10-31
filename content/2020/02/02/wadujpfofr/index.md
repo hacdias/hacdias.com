@@ -3,7 +3,7 @@ description: At Estação Ferroviária do Pragal
 published: 2020-02-02T17:28:11Z
 section:
 - home
-- places
+- checkins
 properties:
   checkin:
     properties:

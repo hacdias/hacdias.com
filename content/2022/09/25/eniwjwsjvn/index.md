@@ -2,7 +2,7 @@
 description: At RAW
 published: 2022-09-25T14:04:56+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

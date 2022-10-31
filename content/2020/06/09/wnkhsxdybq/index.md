@@ -2,7 +2,7 @@
 description: At Jardim da Estrela
 published: 2020-06-09T17:26:55+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Castle of the Holy Angel (Castel Sant'Angelo)
 published: 2022-09-15T10:57:52+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

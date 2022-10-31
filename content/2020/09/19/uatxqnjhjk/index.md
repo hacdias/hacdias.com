@@ -2,7 +2,7 @@
 description: At TU/e Gemini-noord
 published: 2020-09-19T12:05:22+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

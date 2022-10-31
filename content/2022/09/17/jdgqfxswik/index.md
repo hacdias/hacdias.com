@@ -2,7 +2,7 @@
 description: At Vasca Del Nettuno
 published: 2022-09-17T16:29:06+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

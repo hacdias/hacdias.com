@@ -2,7 +2,7 @@
 description: At Metro Marquês de Pombal [AM,AZ]
 published: 2020-02-20T11:50:25Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checked-in-by:

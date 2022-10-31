@@ -2,7 +2,7 @@
 description: At Buutvrij - Creatief Koffiecafé
 published: 2022-09-25T15:18:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Zambujeira do Mar
 published: 2022-08-25T12:03:55+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

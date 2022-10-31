@@ -2,7 +2,7 @@
 description: At Piazza di Spagna
 published: 2022-09-15T17:50:03+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Ole & Steen
 published: 2022-04-24T09:52:21+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

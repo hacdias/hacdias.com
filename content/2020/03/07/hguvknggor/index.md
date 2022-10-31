@@ -2,7 +2,7 @@
 description: At Alameda D. Afonso Henriques
 published: 2020-03-07T19:51:03Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Centro Storico
 published: 2022-09-21T09:58:25+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

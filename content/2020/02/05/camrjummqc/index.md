@@ -2,7 +2,7 @@
 description: At Le Coin de l'Ecailler
 published: 2020-02-05T19:06:28+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

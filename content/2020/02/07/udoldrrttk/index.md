@@ -2,7 +2,7 @@
 description: At Scheldt
 published: 2020-02-07T15:44:35+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

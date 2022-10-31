@@ -2,7 +2,7 @@
 description: At hotel Karzerne
 published: 2021-10-23T12:21:40+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

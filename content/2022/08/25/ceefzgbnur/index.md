@@ -2,7 +2,7 @@
 description: At Restaurante Rita
 published: 2022-08-25T12:19:13+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

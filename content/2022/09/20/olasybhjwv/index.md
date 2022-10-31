@@ -2,7 +2,7 @@
 description: At Milan Cathedral (Duomo di Milano)
 published: 2022-09-20T17:58:56+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

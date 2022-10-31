@@ -3,7 +3,7 @@ description: At Naples International Airport (NAP) (Aeroporto Internazionale di 
   Capodichino)
 published: 2022-09-12T22:56:21+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

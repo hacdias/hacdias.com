@@ -2,7 +2,7 @@
 description: Trip from Roma Termini to Pisa Centrale
 published: 2022-09-16T12:59:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

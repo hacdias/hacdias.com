@@ -2,7 +2,7 @@
 description: At St Mark's Basilica (Basilica di San Marco)
 published: 2022-09-19T16:06:57+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

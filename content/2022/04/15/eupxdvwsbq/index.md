@@ -2,7 +2,7 @@
 description: At Lucifer
 published: 2022-04-15T16:46:01+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

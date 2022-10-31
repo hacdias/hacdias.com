@@ -2,7 +2,7 @@
 description: At IST Pavilhão de Mecânica II
 published: 2020-03-05T10:36:16Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

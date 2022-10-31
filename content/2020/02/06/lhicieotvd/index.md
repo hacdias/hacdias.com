@@ -3,7 +3,7 @@ description: At Monument Léopold I
 published: 2020-02-06T12:53:34+01:00
 section:
 - home
-- places
+- checkins
 properties:
   checkin:
     properties:

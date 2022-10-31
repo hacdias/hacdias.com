@@ -2,7 +2,7 @@
 description: At Farol do Cabo de São Vicente
 published: 2020-07-23T15:19:52+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

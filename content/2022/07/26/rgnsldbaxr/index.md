@@ -2,7 +2,7 @@
 description: At GelreDome
 published: 2022-07-26T20:22:50+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

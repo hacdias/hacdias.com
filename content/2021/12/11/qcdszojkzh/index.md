@@ -2,7 +2,7 @@
 description: At Lab-1
 published: 2021-12-11T14:52:43+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

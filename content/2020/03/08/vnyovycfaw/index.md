@@ -2,7 +2,7 @@
 description: At Largo da Estação do Rossio
 published: 2020-03-08T11:21:23Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

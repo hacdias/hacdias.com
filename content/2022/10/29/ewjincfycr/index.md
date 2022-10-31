@@ -2,7 +2,7 @@
 description: At Metro Baixa-Chiado [AZ,VD]
 published: 2022-10-29T14:17:41+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

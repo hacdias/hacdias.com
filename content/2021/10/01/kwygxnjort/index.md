@@ -2,7 +2,7 @@
 description: At Pont au Change
 published: 2021-10-01T10:00:16+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

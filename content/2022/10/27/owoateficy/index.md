@@ -2,7 +2,7 @@
 description: At Calouste Gulbenkian Foundation (Fundação Calouste Gulbenkian)
 published: 2022-10-27T14:17:45+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

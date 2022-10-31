@@ -2,7 +2,7 @@
 description: At HEMA
 published: 2022-03-20T14:21:16+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

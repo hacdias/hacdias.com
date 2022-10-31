@@ -2,7 +2,7 @@
 description: At MU @ Strijp
 published: 2021-10-16T12:57:45+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

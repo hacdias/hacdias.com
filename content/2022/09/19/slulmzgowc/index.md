@@ -2,7 +2,7 @@
 description: At S.Zaccaria Monumento
 published: 2022-09-19T09:51:48+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

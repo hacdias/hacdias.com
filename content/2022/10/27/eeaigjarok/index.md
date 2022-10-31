@@ -2,7 +2,7 @@
 description: At Crush Doughnuts
 published: 2022-10-27T13:54:00+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

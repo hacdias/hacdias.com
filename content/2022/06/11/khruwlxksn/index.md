@@ -2,7 +2,7 @@
 description: At IJssalon Bastani
 published: 2022-06-11T16:51:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

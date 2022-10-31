@@ -2,7 +2,7 @@
 description: At Fotosport
 published: 2020-03-11T15:18:50Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

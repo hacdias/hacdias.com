@@ -2,7 +2,7 @@
 description: At Pans & Company
 published: 2021-07-14T17:15:27+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

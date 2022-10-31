@@ -2,7 +2,7 @@
 description: At Station Gouda
 published: 2021-11-27T10:46:37+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

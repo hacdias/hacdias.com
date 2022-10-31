@@ -2,7 +2,7 @@
 description: At Sintra Train Station (Estação Ferroviária de Sintra)
 published: 2021-07-09T10:11:44+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

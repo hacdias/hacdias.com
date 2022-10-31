@@ -2,7 +2,7 @@
 description: At Hard Rock Cafe Brussels (Hard Rock Cafe Brussel)
 published: 2020-02-06T16:15:09+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

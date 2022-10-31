@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Centraal to Schipol Airport
 published: 2022-05-06T13:41:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

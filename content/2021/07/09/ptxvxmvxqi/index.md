@@ -2,7 +2,7 @@
 description: At Fonte da Regaleira/Abundância
 published: 2021-07-09T14:12:23+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

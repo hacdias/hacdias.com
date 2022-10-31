@@ -2,7 +2,7 @@
 description: At Vrijthof
 published: 2021-05-09T13:36:51+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

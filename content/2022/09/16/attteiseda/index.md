@@ -2,7 +2,7 @@
 description: Trip from Pisa Centrale to Firenze Santa Maria Novella
 published: 2022-09-16T18:01:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

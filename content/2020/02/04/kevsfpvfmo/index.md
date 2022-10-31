@@ -2,7 +2,7 @@
 description: At Pont Adolphe
 published: 2020-02-04T09:57:17+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

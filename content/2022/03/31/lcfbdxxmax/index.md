@@ -2,7 +2,7 @@
 description: At Gate 11
 published: 2022-03-31T09:59:54+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

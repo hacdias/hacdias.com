@@ -2,7 +2,7 @@
 description: At Sugo
 published: 2021-08-27T12:54:22+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

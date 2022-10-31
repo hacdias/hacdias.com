@@ -2,7 +2,7 @@
 description: At Flying Tiger Copenhagen
 published: 2020-08-22T11:02:56+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Wiro Wok Wereldkeuken Restaurant
 published: 2021-11-24T19:54:04+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

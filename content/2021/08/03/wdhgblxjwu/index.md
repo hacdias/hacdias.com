@@ -2,7 +2,7 @@
 description: At Coimbra
 published: 2021-08-03T14:55:10+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

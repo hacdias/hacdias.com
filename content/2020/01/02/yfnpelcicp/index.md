@@ -2,7 +2,7 @@
 description: At Barbeiro Ricardo
 published: 2020-01-02T10:47:48Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

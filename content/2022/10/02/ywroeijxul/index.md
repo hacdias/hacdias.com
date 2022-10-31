@@ -2,7 +2,7 @@
 description: At Sint Stevenskerk
 published: 2022-10-02T13:58:26+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

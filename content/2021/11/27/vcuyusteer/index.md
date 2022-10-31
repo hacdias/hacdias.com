@@ -2,7 +2,7 @@
 description: At Rotterdam Central Station (Station Rotterdam Centraal)
 published: 2021-11-27T16:31:51+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Whittard of Chelsea
 published: 2022-04-22T16:07:25+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

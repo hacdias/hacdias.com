@@ -2,7 +2,7 @@
 description: At Stayokay Amsterdam Oost
 published: 2020-02-09T08:50:17+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

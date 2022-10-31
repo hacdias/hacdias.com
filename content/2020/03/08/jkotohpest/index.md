@@ -2,7 +2,7 @@
 description: At Amadora
 published: 2020-03-08T16:12:22Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

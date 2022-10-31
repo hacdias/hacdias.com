@@ -2,7 +2,7 @@
 description: At Mercado da Ribeira
 published: 2021-07-13T09:47:56+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Zaans Museum
 published: 2022-08-05T15:22:11+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

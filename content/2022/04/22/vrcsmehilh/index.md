@@ -2,7 +2,7 @@
 description: At Madison
 published: 2022-04-22T11:59:59+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

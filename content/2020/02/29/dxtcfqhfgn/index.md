@@ -2,7 +2,7 @@
 description: At Pomodoro
 published: 2020-02-29T19:28:55Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

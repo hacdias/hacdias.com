@@ -2,7 +2,7 @@
 description: At TU/e Flux
 published: 2022-03-24T14:21:14+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Caves Cálem
 published: 2021-07-14T10:51:07+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

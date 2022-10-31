@@ -2,7 +2,7 @@
 description: At Campo dell'Arsenale Venezia
 published: 2022-09-19T14:24:10+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

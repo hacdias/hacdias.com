@@ -2,7 +2,7 @@
 description: At Amsterdam Central Railway Station (Station Amsterdam Centraal)
 published: 2022-02-07T15:51:46+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

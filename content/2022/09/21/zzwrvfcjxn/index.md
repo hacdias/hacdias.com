@@ -2,7 +2,7 @@
 description: At Brera Botanical Garden (Orto Botanico di Brera)
 published: 2022-09-21T12:15:42+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

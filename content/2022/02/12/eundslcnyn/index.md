@@ -2,7 +2,7 @@
 description: At Pathé Rembrandt Zaal 1
 published: 2022-02-12T09:56:47+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

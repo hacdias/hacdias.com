@@ -2,7 +2,7 @@
 description: At Basilica di San Domenico Maggiore
 published: 2022-09-13T17:11:35+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

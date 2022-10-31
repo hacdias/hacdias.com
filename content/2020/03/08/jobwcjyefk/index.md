@@ -2,7 +2,7 @@
 description: At Rossio Square (Rossio)
 published: 2020-03-08T11:16:45Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

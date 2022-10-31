@@ -2,7 +2,7 @@
 description: At Battistero di San Giovanni Battista
 published: 2022-09-16T15:04:36+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

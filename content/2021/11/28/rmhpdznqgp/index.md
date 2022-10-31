@@ -2,7 +2,7 @@
 description: At Philips de Jonghpark
 published: 2021-11-28T09:54:28+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Station Tilburg
 published: 2022-09-25T11:38:41+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

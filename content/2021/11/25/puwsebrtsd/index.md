@@ -2,7 +2,7 @@
 description: At Oude Schans
 published: 2021-11-25T15:08:51+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

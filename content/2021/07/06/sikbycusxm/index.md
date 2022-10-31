@@ -2,7 +2,7 @@
 description: At Self Service Baggage Check-In
 published: 2021-07-06T09:07:46+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

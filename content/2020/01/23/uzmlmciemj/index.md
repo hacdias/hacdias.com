@@ -2,7 +2,7 @@
 description: At Friends Bairro Alto
 published: 2020-01-23T23:54:59Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

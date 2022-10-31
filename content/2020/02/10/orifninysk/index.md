@@ -2,7 +2,7 @@
 description: At Metro Moscavide [VM]
 published: 2020-02-10T18:40:36Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Westfield Forum des Halles
 published: 2021-10-02T16:36:21+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

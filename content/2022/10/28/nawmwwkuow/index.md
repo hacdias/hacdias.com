@@ -2,7 +2,7 @@
 description: At Colombo Shopping Mall (Centro Comercial Colombo)
 published: 2022-10-28T16:16:22+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

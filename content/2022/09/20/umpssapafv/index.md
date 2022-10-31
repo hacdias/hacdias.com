@@ -2,7 +2,7 @@
 description: At Rizzo
 published: 2022-09-20T09:13:20+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

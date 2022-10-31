@@ -2,7 +2,7 @@
 description: At Lucifer Coffee Roasters
 published: 2022-07-10T10:36:06+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

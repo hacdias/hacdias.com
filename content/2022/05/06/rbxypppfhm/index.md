@@ -2,7 +2,7 @@
 description: At Keukenhof
 published: 2022-05-06T14:18:51+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

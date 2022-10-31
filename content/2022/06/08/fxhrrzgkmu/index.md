@@ -2,7 +2,7 @@
 description: At Jumbo City
 published: 2022-06-08T17:48:43+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

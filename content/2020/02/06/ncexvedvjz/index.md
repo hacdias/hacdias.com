@@ -2,7 +2,7 @@
 description: At Anderlecht
 published: 2020-02-06T08:19:05+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

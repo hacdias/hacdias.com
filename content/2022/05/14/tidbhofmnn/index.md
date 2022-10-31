@@ -2,7 +2,7 @@
 description: At FlixBus Stop
 published: 2022-05-14T14:40:59+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Strand Domburg
 published: 2022-05-28T16:10:31+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

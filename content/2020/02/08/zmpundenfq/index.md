@@ -2,7 +2,7 @@
 description: At Kadinsky Coffeeshop
 published: 2020-02-08T18:06:05+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

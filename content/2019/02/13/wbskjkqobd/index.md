@@ -2,7 +2,7 @@
 description: Trip from London (LGW) to Lisbon (LIS)
 published: 2019-02-13T18:35:00Z
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

@@ -2,7 +2,7 @@
 description: At The Bar Eindhoven Airport
 published: 2022-09-12T17:32:59+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

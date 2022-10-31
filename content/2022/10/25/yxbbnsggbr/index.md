@@ -2,7 +2,7 @@
 description: At Continente Bom Dia Duque de Loulé
 published: 2022-10-25T13:39:07+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Mercato Pompeiano
 published: 2022-09-13T13:49:33+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Le Royal Opéra
 published: 2021-10-03T10:43:00+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

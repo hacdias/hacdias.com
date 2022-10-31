@@ -2,7 +2,7 @@
 description: At Willemsplantsoen
 published: 2021-04-25T13:54:13+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

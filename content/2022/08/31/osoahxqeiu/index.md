@@ -2,7 +2,7 @@
 description: At Pizzani
 published: 2022-08-31T12:39:01+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

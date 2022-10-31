@@ -2,7 +2,7 @@
 description: At EkoPlaza
 published: 2021-01-17T15:12:38+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

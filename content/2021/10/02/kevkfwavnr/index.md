@@ -2,7 +2,7 @@
 description: At Passerelle Léopold-Sédar-Senghor
 published: 2021-10-02T12:50:19+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

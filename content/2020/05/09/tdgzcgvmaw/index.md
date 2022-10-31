@@ -2,7 +2,7 @@
 description: At Alte
 published: 2020-05-09T18:45:50+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

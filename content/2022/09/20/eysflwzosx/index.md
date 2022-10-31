@@ -2,7 +2,7 @@
 description: Trip from Venezia S. Lucia to Milano Centrale
 published: 2022-09-20T15:55:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

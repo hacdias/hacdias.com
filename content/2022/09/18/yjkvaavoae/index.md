@@ -2,7 +2,7 @@
 description: At Torre dell'Arengo
 published: 2022-09-18T12:31:29+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

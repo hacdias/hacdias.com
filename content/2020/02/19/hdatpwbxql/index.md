@@ -2,7 +2,7 @@
 description: At Metro Cidade Universitária [AM]
 published: 2020-02-19T13:18:27Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

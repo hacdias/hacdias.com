@@ -2,7 +2,7 @@
 description: At House of Spells
 published: 2022-04-25T15:29:35+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

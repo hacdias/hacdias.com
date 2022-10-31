@@ -2,7 +2,7 @@
 description: At Chiesa San Giovanni in Monte
 published: 2022-09-18T11:47:55+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

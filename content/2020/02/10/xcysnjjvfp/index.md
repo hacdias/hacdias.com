@@ -2,7 +2,7 @@
 description: At Security / X-Ray
 published: 2020-02-10T12:48:26+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At metro linha amarela, sentido rato
 published: 2020-02-20T13:34:42Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

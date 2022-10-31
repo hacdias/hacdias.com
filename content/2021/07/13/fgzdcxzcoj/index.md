@@ -2,7 +2,7 @@
 description: At Torre dos Clérigos
 published: 2021-07-13T14:59:22+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

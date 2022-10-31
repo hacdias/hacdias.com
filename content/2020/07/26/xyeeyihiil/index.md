@@ -2,7 +2,7 @@
 description: At Moncarapacho
 published: 2020-07-26T15:57:00+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Igreja de Santana da Serra
 published: 2020-03-25T14:52:00Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

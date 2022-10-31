@@ -2,7 +2,7 @@
 description: At Brussels-South Railway Station (ZYR) (Station Brussel-Zuid)
 published: 2022-05-15T07:04:53+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

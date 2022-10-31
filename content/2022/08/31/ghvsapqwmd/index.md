@@ -2,7 +2,7 @@
 description: Trip from Faro (FAO) to Eindhoven (EIN)
 published: 2022-08-31T10:35:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

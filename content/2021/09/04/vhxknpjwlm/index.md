@@ -3,8 +3,8 @@ description: At Yoghurt Barn
 published: 2021-09-04T09:27:23+02:00
 section:
 - home
-- places
 - food
+- checkins
 properties:
   ate:
     properties:

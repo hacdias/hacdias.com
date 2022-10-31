@@ -2,7 +2,7 @@
 description: At Station Amsterdam Bijlmer ArenA
 published: 2022-06-08T23:03:59+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

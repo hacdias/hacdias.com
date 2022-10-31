@@ -2,7 +2,7 @@
 description: At Al Dente Tandartsen
 published: 2022-09-09T11:04:14+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At De Wildeman
 published: 2022-08-21T21:16:03+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

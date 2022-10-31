@@ -2,7 +2,7 @@
 description: At Paris
 published: 2021-10-01T07:52:45+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

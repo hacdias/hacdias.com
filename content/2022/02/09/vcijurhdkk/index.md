@@ -2,7 +2,7 @@
 description: At Anne Frankplantsoen
 published: 2022-02-09T11:30:53+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Eiffel Tower (Tour Eiffel)
 published: 2021-10-01T20:35:02+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

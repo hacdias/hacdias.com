@@ -2,7 +2,7 @@
 description: At Ketelhuisplein
 published: 2022-10-22T13:49:15+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

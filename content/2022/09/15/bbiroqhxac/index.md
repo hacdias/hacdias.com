@@ -2,7 +2,7 @@
 description: At Ristorante Trattoria Sor'Eva
 published: 2022-09-15T13:35:54+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At SoLow
 published: 2021-05-22T16:48:43+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Terminal Fluvial do Terreiro do Paço
 published: 2022-10-27T17:39:58+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

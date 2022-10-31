@@ -2,7 +2,7 @@
 description: At Jardim Amália Rodrigues
 published: 2020-03-08T11:57:20Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

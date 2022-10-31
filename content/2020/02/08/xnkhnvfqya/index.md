@@ -2,7 +2,7 @@
 description: At Rembrandtplein
 published: 2020-02-08T14:38:21+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

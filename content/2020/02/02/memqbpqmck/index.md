@@ -2,7 +2,7 @@
 description: At Aldeia de Palheiros
 published: 2020-02-02T15:21:43Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

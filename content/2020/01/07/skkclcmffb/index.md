@@ -2,7 +2,7 @@
 description: At The Coffee Library
 published: 2020-01-07T17:04:52Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

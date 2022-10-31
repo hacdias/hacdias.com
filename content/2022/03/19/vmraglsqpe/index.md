@@ -3,8 +3,8 @@ description: At XU Noodle Bar
 published: 2022-03-19T20:23:19+01:00
 section:
 - home
-- places
 - food
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   ate:

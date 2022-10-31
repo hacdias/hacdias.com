@@ -2,7 +2,7 @@
 description: At Moge Tee
 published: 2022-10-02T14:47:06+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

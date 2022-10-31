@@ -2,7 +2,7 @@
 description: At Castel Sant'Elmo
 published: 2022-09-14T11:02:03+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

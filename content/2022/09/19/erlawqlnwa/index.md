@@ -2,7 +2,7 @@
 description: At Ponte del Prefetto
 published: 2022-09-19T11:05:07+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

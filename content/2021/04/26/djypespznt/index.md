@@ -2,7 +2,7 @@
 description: At @de Bossen
 published: 2021-04-26T12:05:34+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

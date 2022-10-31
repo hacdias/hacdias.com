@@ -2,7 +2,7 @@
 description: At Trevi Fountain (Fontana di Trevi)
 published: 2022-09-14T19:22:07+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

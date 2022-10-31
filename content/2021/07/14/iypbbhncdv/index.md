@@ -2,7 +2,7 @@
 description: At Parque do Castelo do Queijo
 published: 2021-07-14T16:17:58+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

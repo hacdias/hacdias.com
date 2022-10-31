@@ -2,7 +2,7 @@
 description: At Metro Duomo (M1, M3)
 published: 2022-09-20T17:57:36+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

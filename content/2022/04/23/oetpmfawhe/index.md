@@ -2,7 +2,7 @@
 description: At Temple Of Boba Bubble Tea
 published: 2022-04-23T15:45:43+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

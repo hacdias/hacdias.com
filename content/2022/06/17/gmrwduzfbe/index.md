@@ -2,7 +2,7 @@
 description: At Öztürk Market
 published: 2022-06-17T17:02:15+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

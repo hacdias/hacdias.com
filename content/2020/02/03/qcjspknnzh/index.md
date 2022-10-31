@@ -2,7 +2,7 @@
 description: At Terminal 2
 published: 2020-02-03T14:53:02Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

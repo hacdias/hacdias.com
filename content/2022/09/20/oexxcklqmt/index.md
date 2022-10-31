@@ -2,7 +2,7 @@
 description: At Piazza della Repubblica
 published: 2022-09-20T19:47:43+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

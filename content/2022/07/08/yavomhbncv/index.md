@@ -2,7 +2,7 @@
 description: At Hortus Botanicus Leiden
 published: 2022-07-08T15:20:25+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

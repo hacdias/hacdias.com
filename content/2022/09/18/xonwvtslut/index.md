@@ -3,7 +3,7 @@ description: At Venezia Santa Lucia Railway Station (XVQ) (Stazione Venezia Sant
   Lucia)
 published: 2022-09-18T19:20:08+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

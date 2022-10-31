@@ -2,7 +2,7 @@
 description: At TU/e Vertigo
 published: 2022-05-24T13:45:43+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

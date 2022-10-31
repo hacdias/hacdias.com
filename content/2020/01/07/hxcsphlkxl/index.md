@@ -2,7 +2,7 @@
 description: At Cervetoria
 published: 2020-01-07T18:25:56Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

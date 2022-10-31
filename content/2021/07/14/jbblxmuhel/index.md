@@ -2,7 +2,7 @@
 description: At Residencial do Cristo Rei
 published: 2021-07-14T19:28:31+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

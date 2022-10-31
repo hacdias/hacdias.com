@@ -2,7 +2,7 @@
 description: At Cinemas NOS Vasco da Gama
 published: 2020-02-29T17:42:48Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

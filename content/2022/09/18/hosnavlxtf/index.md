@@ -2,7 +2,7 @@
 description: At Piazza Cavour
 published: 2022-09-18T15:30:28+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

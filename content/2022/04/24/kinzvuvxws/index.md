@@ -2,7 +2,7 @@
 description: At Hyde Park
 published: 2022-04-24T16:00:00+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

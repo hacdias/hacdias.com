@@ -2,7 +2,7 @@
 description: At Karpendonkse Plas
 published: 2022-07-30T19:06:02+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

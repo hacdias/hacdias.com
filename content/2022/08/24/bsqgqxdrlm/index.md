@@ -2,7 +2,7 @@
 description: At Eindhoven Airport (EIN)
 published: 2022-08-24T08:36:47+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

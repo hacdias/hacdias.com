@@ -2,7 +2,7 @@
 description: At Piazza Castello
 published: 2022-09-21T09:53:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

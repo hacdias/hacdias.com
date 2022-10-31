@@ -2,7 +2,7 @@
 description: At Eindhoven Airport (EIN)
 published: 2020-08-21T10:35:18+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Portimão
 published: 2020-07-23T17:47:43+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

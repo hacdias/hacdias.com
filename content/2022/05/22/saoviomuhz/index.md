@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Centraal to Nijmegen Station
 published: 2022-05-22T12:52:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

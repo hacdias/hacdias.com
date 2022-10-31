@@ -2,7 +2,7 @@
 description: At Colégio Militar
 published: 2020-03-08T12:24:07Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

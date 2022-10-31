@@ -2,7 +2,7 @@
 description: At O Pescador
 published: 2022-04-02T12:21:59+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

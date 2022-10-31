@@ -2,7 +2,7 @@
 description: At Viaduct Hogesnelheidslijn
 published: 2021-05-02T16:54:58+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Pizzeria Al Picchio-Rosticceria
 published: 2022-09-14T19:45:27+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

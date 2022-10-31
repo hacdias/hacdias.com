@@ -2,7 +2,7 @@
 description: At Metro 52 Noord-Zuid
 published: 2020-02-09T17:39:22+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

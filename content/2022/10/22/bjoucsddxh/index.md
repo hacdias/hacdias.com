@@ -2,7 +2,7 @@
 description: At The Ginscal
 published: 2022-10-22T23:18:01+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

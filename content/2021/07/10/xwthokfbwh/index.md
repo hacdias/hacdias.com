@@ -2,7 +2,7 @@
 description: At O Conchas - Cafetaria
 published: 2021-07-10T18:41:06+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

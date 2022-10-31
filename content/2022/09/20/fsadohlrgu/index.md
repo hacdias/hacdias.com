@@ -2,7 +2,7 @@
 description: At Indro Montanelli Gardens (Giardini Indro Montanelli)
 published: 2022-09-20T19:28:16+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

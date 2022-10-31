@@ -2,7 +2,7 @@
 description: At Cathedrale Notre-Dame de Luxembourg
 published: 2020-02-04T11:16:09+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

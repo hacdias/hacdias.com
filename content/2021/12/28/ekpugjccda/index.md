@@ -2,7 +2,7 @@
 description: At Loulé
 published: 2021-12-28T19:33:40Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

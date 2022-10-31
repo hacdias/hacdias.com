@@ -2,7 +2,7 @@
 description: At Nova Peixaria
 published: 2020-01-07T19:46:07Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

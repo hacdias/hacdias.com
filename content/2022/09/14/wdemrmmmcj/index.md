@@ -2,7 +2,7 @@
 description: At Vittoriano
 published: 2022-09-14T18:32:38+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

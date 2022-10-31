@@ -2,7 +2,7 @@
 description: At McDonald's
 published: 2021-09-19T15:38:35+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

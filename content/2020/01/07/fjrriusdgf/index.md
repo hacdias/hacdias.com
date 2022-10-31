@@ -2,7 +2,7 @@
 description: At Campo Pequeno
 published: 2020-01-07T19:34:12Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

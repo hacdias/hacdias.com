@@ -2,7 +2,7 @@
 description: At Vatican Obelisk (Obelisco Vaticano)
 published: 2022-09-15T11:07:51+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Waterloo London Underground Station
 published: 2022-04-22T13:46:20+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

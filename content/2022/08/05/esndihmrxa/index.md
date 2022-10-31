@@ -2,7 +2,7 @@
 description: At Oliemolen De Zoeker
 published: 2022-08-05T14:31:04+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

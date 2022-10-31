@@ -2,7 +2,7 @@
 description: At Torre Prendiparte
 published: 2022-09-18T12:28:42+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

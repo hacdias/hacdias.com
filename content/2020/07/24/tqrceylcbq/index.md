@@ -2,7 +2,7 @@
 description: At Estremoz
 published: 2020-07-24T12:41:02+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

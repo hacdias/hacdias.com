@@ -2,7 +2,7 @@
 description: At Vans
 published: 2020-02-29T17:13:58Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

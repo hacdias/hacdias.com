@@ -2,7 +2,7 @@
 description: At GGD Brabant-Zuidoost
 published: 2022-03-04T15:19:43+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

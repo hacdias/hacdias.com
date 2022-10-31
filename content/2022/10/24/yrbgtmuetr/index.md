@@ -2,7 +2,7 @@
 description: At Convento do Beato
 published: 2022-10-24T13:59:17+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At TU/e Flux
 published: 2021-09-13T12:39:02+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Dekker vd Vegt
 published: 2022-10-02T12:18:22+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

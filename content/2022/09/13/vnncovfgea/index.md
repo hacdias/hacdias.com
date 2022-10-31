@@ -2,7 +2,7 @@
 description: At Hotel Zara
 published: 2022-09-13T08:12:38+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

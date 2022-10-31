@@ -2,7 +2,7 @@
 description: At Sforza Castle (Castello Sforzesco)
 published: 2022-09-21T10:10:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

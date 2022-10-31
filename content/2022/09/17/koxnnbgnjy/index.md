@@ -2,7 +2,7 @@
 description: At Piazza Santa Croce
 published: 2022-09-17T14:54:17+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Due Torri
 published: 2022-09-18T11:21:43+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

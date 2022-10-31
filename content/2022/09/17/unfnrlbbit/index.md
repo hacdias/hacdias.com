@@ -2,7 +2,7 @@
 description: At Galleria D’arte Moderna
 published: 2022-09-17T15:44:15+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

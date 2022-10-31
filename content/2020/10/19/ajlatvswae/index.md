@@ -2,7 +2,7 @@
 description: At Van Maerlant
 published: 2020-10-19T18:32:08+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

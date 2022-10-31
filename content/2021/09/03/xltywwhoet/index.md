@@ -2,7 +2,7 @@
 description: At JackRabbit
 published: 2021-09-03T12:24:00+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

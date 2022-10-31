@@ -2,7 +2,7 @@
 description: At CASA
 published: 2021-08-14T17:04:25+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

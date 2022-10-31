@@ -2,7 +2,7 @@
 description: At Sky Garden
 published: 2022-04-25T13:56:00+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

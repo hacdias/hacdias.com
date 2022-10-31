@@ -2,7 +2,7 @@
 description: At Metrostation Amsterdam Centraal
 published: 2020-02-09T17:39:42+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

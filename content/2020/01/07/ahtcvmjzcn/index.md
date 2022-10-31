@@ -2,7 +2,7 @@
 description: At Cinema City Campo Pequeno
 published: 2020-01-07T23:50:00Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

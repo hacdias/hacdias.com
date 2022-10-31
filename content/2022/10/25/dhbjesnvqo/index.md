@@ -2,7 +2,7 @@
 description: At Parque Eduardo VII
 published: 2022-10-25T13:55:48+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

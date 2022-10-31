@@ -2,7 +2,7 @@
 description: At Sprinter Amsterdam Centraal - Hoofddorp
 published: 2020-02-10T12:10:38+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

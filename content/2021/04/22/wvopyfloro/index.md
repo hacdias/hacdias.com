@@ -2,7 +2,7 @@
 description: At Anne Frankplantsoen
 published: 2021-04-22T15:07:38+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Valkhofpark
 published: 2022-10-02T13:33:46+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

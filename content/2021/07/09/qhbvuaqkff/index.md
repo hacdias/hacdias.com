@@ -2,7 +2,7 @@
 description: At Palácio da Pena
 published: 2021-07-09T13:47:26+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

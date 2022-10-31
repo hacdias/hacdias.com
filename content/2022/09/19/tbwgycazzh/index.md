@@ -2,7 +2,7 @@
 description: At Giardini di Papadopoli
 published: 2022-09-19T11:06:12+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

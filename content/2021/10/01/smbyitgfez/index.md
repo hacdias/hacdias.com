@@ -2,7 +2,7 @@
 description: At Arc de Triomphe (Arc de Triomphe de l'Étoile)
 published: 2021-10-01T14:50:03+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

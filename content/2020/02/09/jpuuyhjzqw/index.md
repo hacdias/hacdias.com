@@ -2,7 +2,7 @@
 description: At Leliesluis (Brug 61)
 published: 2020-02-09T13:40:24+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

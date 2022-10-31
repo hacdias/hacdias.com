@@ -2,7 +2,7 @@
 description: At Porta Nuova
 published: 2022-09-21T18:28:16+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Öztürk Market
 published: 2020-09-21T14:29:16+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

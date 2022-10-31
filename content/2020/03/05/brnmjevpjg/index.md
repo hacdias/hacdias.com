@@ -2,7 +2,7 @@
 description: At Bar da Mónica
 published: 2020-03-05T10:35:26Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

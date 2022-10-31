@@ -3,7 +3,7 @@ description: At Musea van het Verre Oosten / Musées d’Extrême-Orient (Musea 
   Verre Oosten)
 published: 2020-02-06T13:24:38+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Flying Pins
 published: 2022-02-19T14:01:41+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

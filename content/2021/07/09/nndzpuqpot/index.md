@@ -2,7 +2,7 @@
 description: At Sala dos Veados
 published: 2021-07-09T11:11:35+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

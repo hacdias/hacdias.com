@@ -2,7 +2,7 @@
 description: At Hotel Alexis
 published: 2022-09-14T16:23:47+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

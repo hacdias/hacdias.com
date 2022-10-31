@@ -2,7 +2,7 @@
 description: At Veemgebouw
 published: 2022-10-22T13:13:32+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -3,7 +3,7 @@ description: At Flevopark
 published: 2020-02-08T16:05:14+01:00
 section:
 - home
-- places
+- checkins
 properties:
   checkin:
     properties:

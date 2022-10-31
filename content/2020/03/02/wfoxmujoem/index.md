@@ -2,7 +2,7 @@
 description: At Jardim Sul
 published: 2020-03-02T14:42:25Z
 section:
-- places
+- checkins
 properties:
   category:
   - properties:

@@ -2,7 +2,7 @@
 description: At Fietsenstalling Station Nijmegen
 published: 2022-10-02T17:42:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

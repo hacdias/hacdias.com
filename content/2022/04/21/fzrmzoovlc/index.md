@@ -2,7 +2,7 @@
 description: At Spoor 5
 published: 2022-04-21T13:15:11+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

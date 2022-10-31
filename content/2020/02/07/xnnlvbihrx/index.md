@@ -2,7 +2,7 @@
 description: At Fnac
 published: 2020-02-07T14:54:02+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

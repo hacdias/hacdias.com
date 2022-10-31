@@ -2,7 +2,7 @@
 description: At Camden Lock Market
 published: 2022-04-23T14:42:50+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

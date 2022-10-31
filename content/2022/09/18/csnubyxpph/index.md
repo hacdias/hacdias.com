@@ -2,7 +2,7 @@
 description: At Galliera 49
 published: 2022-09-18T16:13:38+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

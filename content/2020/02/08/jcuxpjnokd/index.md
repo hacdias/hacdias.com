@@ -2,7 +2,7 @@
 description: At Netherlands (Nederland)
 published: 2020-02-08T11:00:10+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

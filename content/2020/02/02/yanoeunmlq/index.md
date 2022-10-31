@@ -3,7 +3,7 @@ description: At Ponte 25 de Abril
 published: 2020-02-02T17:37:52Z
 section:
 - home
-- places
+- checkins
 properties:
   checkin:
     properties:

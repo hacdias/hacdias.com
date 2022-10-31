@@ -2,7 +2,7 @@
 description: At Coffeelovers Van Piere
 published: 2022-03-29T13:41:13+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

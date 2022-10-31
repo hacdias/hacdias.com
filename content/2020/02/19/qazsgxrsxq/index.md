@@ -2,7 +2,7 @@
 description: At Cidade Universitária
 published: 2020-02-19T13:19:03Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

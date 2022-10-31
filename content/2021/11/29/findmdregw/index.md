@@ -2,7 +2,7 @@
 description: Trip from Eindhoven Airport to Eindhoven Station
 published: 2021-11-29T11:47:00+01:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

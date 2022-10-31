@@ -2,7 +2,7 @@
 description: Trip from San Jose (SJO) to Frankfurt (FRA)
 published: 2019-11-24T07:55:00Z
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

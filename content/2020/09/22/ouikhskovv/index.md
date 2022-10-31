@@ -2,7 +2,7 @@
 description: At Q-Park P+R NS
 published: 2020-09-22T21:18:49+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

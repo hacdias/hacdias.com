@@ -2,7 +2,7 @@
 description: At H&M
 published: 2020-01-23T20:28:19Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

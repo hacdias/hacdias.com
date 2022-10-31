@@ -2,7 +2,7 @@
 description: At Cantina 1
 published: 2020-02-20T12:02:05Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

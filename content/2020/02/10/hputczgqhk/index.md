@@ -2,7 +2,7 @@
 description: At Oliphantsbrug
 published: 2020-02-10T11:18:02+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

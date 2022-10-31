@@ -2,7 +2,7 @@
 description: Trip from Berlin Hbf to Praha hl.n.
 published: 2020-02-08T21:26:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

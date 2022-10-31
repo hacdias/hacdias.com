@@ -3,7 +3,7 @@ description: At Lisbon Humberto Delgado Airport (LIS) (Aeroporto de Lisboa Humbe
   Delgado)
 published: 2022-10-24T10:24:51+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

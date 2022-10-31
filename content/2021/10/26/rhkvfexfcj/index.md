@@ -2,7 +2,7 @@
 description: At Schuttersbos
 published: 2021-10-26T20:21:51+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

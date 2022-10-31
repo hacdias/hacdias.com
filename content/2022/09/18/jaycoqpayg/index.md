@@ -2,7 +2,7 @@
 description: At Doge's Palace (Palazzo Ducale)
 published: 2022-09-18T21:18:17+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

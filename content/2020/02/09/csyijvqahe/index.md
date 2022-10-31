@@ -2,7 +2,7 @@
 description: At Winkel 43
 published: 2020-02-09T10:39:32+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

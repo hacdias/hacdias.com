@@ -2,7 +2,7 @@
 description: At Chiesa di Orsanmichele
 published: 2022-09-17T10:23:40+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

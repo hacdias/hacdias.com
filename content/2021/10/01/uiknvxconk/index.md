@@ -2,7 +2,7 @@
 description: At Liège-Guillemins Railway Station (XHN) (Gare de Liège-Guillemins)
 published: 2021-10-01T01:42:29+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

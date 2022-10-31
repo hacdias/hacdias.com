@@ -2,7 +2,7 @@
 description: At Parco del Colle Oppio
 published: 2022-09-14T17:44:46+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Velho Mirante
 published: 2020-03-08T13:29:54Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

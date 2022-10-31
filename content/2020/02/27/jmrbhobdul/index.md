@@ -2,7 +2,7 @@
 description: At Bar Central
 published: 2020-02-27T09:21:05Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

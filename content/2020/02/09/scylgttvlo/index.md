@@ -2,7 +2,7 @@
 description: At Prinsensluis (Brug 60)
 published: 2020-02-09T11:29:16+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

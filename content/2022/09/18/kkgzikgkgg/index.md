@@ -2,7 +2,7 @@
 description: At Scalinata Del Pincio
 published: 2022-09-18T10:13:53+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Pull & Bear
 published: 2021-10-09T12:38:46+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

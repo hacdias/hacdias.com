@@ -2,7 +2,7 @@
 description: At It's A Present
 published: 2022-02-12T13:16:34+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

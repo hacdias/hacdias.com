@@ -2,7 +2,7 @@
 description: Trip from Lisboa (Oriente) to Porto (Campanhã)
 published: 2019-06-22T12:58:00Z
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

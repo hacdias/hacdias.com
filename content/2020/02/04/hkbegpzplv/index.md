@@ -2,7 +2,7 @@
 description: At Musée national d'histoire et d'art Luxembourg (MNHA)
 published: 2020-02-04T15:42:56+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

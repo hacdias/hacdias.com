@@ -2,7 +2,7 @@
 description: At Fontaine de Neptune / Neptunusfontein (Neptunusfontein)
 published: 2020-02-06T13:22:46+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

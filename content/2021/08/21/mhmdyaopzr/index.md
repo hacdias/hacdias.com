@@ -2,7 +2,7 @@
 description: At Spoor 7
 published: 2021-08-21T08:25:55+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

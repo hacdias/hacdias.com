@@ -2,7 +2,7 @@
 description: At Giardini Pubblici
 published: 2022-09-19T13:58:32+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

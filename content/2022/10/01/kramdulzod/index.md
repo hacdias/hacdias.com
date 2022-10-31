@@ -2,7 +2,7 @@
 description: At Evoluon Eindhoven
 published: 2022-10-01T11:23:15+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

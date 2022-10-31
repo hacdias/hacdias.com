@@ -2,7 +2,7 @@
 description: At Metro Lima (M1)
 published: 2022-09-20T17:49:16+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

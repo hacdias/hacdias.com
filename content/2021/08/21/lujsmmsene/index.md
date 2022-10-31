@@ -2,7 +2,7 @@
 description: At Ellis Gourmet Burger
 published: 2021-08-21T12:52:16+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

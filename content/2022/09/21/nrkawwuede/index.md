@@ -2,7 +2,7 @@
 description: Trip from Milano Centrale to Bergamo
 published: 2022-09-21T17:25:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

@@ -2,7 +2,7 @@
 description: At metro linha vermelha
 published: 2020-02-29T18:45:21Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

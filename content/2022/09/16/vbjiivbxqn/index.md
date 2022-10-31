@@ -2,7 +2,7 @@
 description: At Il Gelato Di Toto
 published: 2022-09-16T16:02:59+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

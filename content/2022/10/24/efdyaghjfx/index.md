@@ -2,7 +2,7 @@
 description: At SANA Lisboa Hotel
 published: 2022-10-24T11:38:54+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Station Nijmegen
 published: 2022-05-22T17:18:24+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

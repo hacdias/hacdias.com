@@ -2,7 +2,7 @@
 description: At Piazza San Babila
 published: 2022-09-20T19:04:51+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

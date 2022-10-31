@@ -2,7 +2,7 @@
 description: At Área de Serviço de Salvaterra de Magos
 published: 2021-08-03T08:54:56+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

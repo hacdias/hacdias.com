@@ -2,7 +2,7 @@
 description: At Naples Central Railway Station (INP) (Stazione Napoli Centrale)
 published: 2022-09-14T14:47:23+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

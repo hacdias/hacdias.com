@@ -2,7 +2,7 @@
 description: At Sempione Park (Parco Sempione)
 published: 2022-09-21T11:22:14+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

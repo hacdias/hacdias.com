@@ -2,7 +2,7 @@
 description: At IST - Anfiteatro FA1
 published: 2020-02-18T09:27:44Z
 section:
-- places
+- checkins
 properties:
   category:
   - properties:

@@ -2,7 +2,7 @@
 description: At Parque da Cidade
 published: 2021-07-14T15:21:17+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

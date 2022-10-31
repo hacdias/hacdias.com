@@ -2,7 +2,7 @@
 description: At Amsterdam Central Railway Station (Station Amsterdam Centraal)
 published: 2020-02-09T14:23:28+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

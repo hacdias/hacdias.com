@@ -2,7 +2,7 @@
 description: At Café Divina Doçura, Messines
 published: 2022-08-27T11:10:21+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

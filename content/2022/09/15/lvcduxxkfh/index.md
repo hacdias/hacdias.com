@@ -2,7 +2,7 @@
 description: At Colosseum (Colosseo)
 published: 2022-09-15T16:36:40+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

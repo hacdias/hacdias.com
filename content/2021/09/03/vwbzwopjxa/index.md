@@ -2,7 +2,7 @@
 description: At Griftpark
 published: 2021-09-03T17:11:53+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

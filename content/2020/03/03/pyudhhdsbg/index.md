@@ -2,7 +2,7 @@
 description: At v1.26
 published: 2020-03-03T10:58:25Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

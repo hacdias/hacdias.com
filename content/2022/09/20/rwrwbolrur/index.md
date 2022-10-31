@@ -2,7 +2,7 @@
 description: At Campo San Luca
 published: 2022-09-20T10:37:04+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

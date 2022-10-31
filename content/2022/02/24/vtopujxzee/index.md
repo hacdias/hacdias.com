@@ -2,7 +2,7 @@
 description: At Kimchi Boulevard
 published: 2022-02-24T18:50:37+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Place de l'Hôtel de Ville – Esplanade de la Libération
 published: 2021-10-03T11:35:31+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

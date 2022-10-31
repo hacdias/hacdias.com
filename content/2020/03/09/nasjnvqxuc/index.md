@@ -2,7 +2,7 @@
 description: At IST - Pavilhão de Química
 published: 2020-03-09T14:53:51Z
 section:
-- places
+- checkins
 properties:
   category:
   - properties:

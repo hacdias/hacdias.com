@@ -2,7 +2,7 @@
 description: At Serviço de Finanças de Ourique
 published: 2020-01-02T10:44:53Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

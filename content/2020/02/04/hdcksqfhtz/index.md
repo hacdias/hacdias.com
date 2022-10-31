@@ -2,7 +2,7 @@
 description: At Viaduc de la Pétrusse
 published: 2020-02-04T10:23:54+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

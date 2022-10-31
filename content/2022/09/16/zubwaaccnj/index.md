@@ -2,7 +2,7 @@
 description: At Piazza XX Settembre
 published: 2022-09-16T13:48:51+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

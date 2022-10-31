@@ -2,7 +2,7 @@
 description: At Rialto Bridge (Ponte di Rialto)
 published: 2022-09-18T20:56:16+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

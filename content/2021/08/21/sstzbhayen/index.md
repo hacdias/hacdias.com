@@ -2,7 +2,7 @@
 description: At Graslei
 published: 2021-08-21T14:02:09+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

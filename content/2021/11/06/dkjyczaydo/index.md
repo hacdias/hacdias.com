@@ -3,7 +3,7 @@ description: At Ketelhuisplein
 published: 2021-11-06T21:14:48+01:00
 section:
 - home
-- places
+- checkins
 properties:
   category:
   - glow-festival

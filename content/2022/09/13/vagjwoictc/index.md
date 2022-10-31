@@ -2,7 +2,7 @@
 description: At Cuori di Sfogliatella
 published: 2022-09-13T08:19:53+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

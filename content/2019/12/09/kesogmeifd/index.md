@@ -2,7 +2,7 @@
 description: Trip from Lisbon (LIS) to Zurich (ZRH)
 published: 2019-12-09T16:25:00Z
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

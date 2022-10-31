@@ -2,7 +2,7 @@
 description: Trip from Den Haag HS to Eindhoven Centraal
 published: 2022-01-17T17:45:00+01:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

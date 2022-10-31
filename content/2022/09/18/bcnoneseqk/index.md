@@ -2,7 +2,7 @@
 description: At Canal Grande
 published: 2022-09-18T20:56:04+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

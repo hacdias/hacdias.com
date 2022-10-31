@@ -2,7 +2,7 @@
 description: At Giardini del Molosiglio
 published: 2022-09-13T18:15:45+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

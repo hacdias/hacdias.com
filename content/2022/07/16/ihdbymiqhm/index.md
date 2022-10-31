@@ -2,7 +2,7 @@
 description: At Perry Sport
 published: 2022-07-16T17:20:11+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Glowgolf Eindhoven
 published: 2022-05-31T16:36:11+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

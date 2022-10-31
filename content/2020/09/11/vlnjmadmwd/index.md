@@ -2,7 +2,7 @@
 description: At Station Helmond
 published: 2020-09-11T14:29:28+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

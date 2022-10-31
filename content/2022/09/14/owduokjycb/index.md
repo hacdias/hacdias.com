@@ -2,7 +2,7 @@
 description: At Basilica di Santa Maria Maggiore
 published: 2022-09-14T17:05:23+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

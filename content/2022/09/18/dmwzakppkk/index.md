@@ -2,7 +2,7 @@
 description: At Bologna Central Railway Station (IBT) (Stazione Bologna Centrale)
 published: 2022-09-18T16:48:18+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

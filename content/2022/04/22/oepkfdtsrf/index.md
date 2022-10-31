@@ -2,7 +2,7 @@
 description: At Southbank Centre Food Market
 published: 2022-04-22T12:59:57+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

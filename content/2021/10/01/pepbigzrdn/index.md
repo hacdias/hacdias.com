@@ -2,7 +2,7 @@
 description: At I Fratelli
 published: 2021-10-01T08:51:49+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Harry Potter
 published: 2020-02-06T17:22:25+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

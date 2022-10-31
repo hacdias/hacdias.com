@@ -2,7 +2,7 @@
 description: At Welschapsedijk
 published: 2021-05-18T06:09:19+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

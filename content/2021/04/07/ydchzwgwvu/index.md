@@ -2,7 +2,7 @@
 description: At TU/e Vertigo
 published: 2021-04-07T17:39:46+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

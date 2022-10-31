@@ -2,7 +2,7 @@
 description: At Karaokebar Ameezing
 published: 2021-10-22T21:44:29+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

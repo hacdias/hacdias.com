@@ -4,7 +4,7 @@ published: 2022-08-09T18:20:17+02:00
 section:
 - home
 - micro
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 photoClass: grid-xwcwairvhv fg
 properties:

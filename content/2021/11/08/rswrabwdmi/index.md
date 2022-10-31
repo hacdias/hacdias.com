@@ -3,7 +3,7 @@ description: At Stadswandelpark
 published: 2021-11-08T11:08:43+01:00
 section:
 - home
-- places
+- checkins
 properties:
   checkin:
     properties:

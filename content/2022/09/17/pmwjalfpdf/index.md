@@ -2,7 +2,7 @@
 description: At David di Michelangelo
 published: 2022-09-17T09:41:55+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

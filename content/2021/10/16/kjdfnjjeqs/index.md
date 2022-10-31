@@ -2,7 +2,7 @@
 description: At Design Coöperatie Brainport UA (DDW)
 published: 2021-10-16T15:57:10+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Bubble Lab
 published: 2021-07-10T15:00:21+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Al Dente Tandartsen
 published: 2021-02-12T09:25:26+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

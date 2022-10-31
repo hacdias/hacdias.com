@@ -2,7 +2,7 @@
 description: At Nespresso
 published: 2022-09-21T14:16:19+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

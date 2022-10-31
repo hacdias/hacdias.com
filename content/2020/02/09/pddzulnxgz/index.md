@@ -2,7 +2,7 @@
 description: At Tramhalte Dam
 published: 2020-02-09T14:18:47+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

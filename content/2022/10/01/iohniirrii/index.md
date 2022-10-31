@@ -2,7 +2,7 @@
 description: At Decathlon
 published: 2022-10-01T13:28:40+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At metro Linha Vermelha, Sentido Aeroporto
 published: 2020-01-30T17:18:31Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

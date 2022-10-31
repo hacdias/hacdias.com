@@ -2,7 +2,7 @@
 description: At New Art Cafe
 published: 2022-09-21T12:44:33+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

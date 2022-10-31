@@ -2,7 +2,7 @@
 description: At La Castellana Loft Hotel
 published: 2022-09-21T18:21:07+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

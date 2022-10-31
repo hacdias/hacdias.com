@@ -2,7 +2,7 @@
 description: At Apotheek SGE Stratum
 published: 2022-10-04T08:44:39+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

@@ -2,7 +2,7 @@
 description: At Lex en Edo Hornemannplantsoen
 published: 2021-06-14T15:51:52+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

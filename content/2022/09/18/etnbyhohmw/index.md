@@ -2,7 +2,7 @@
 description: At Torre Accursio (o dell'Orologio)
 published: 2022-09-18T13:32:16+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

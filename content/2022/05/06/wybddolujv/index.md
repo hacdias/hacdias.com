@@ -2,7 +2,7 @@
 description: At Keukenhofmolen
 published: 2022-05-06T14:47:21+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

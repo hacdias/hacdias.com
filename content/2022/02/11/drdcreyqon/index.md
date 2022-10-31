@@ -2,7 +2,7 @@
 description: At Museum Speelklok
 published: 2022-02-11T15:25:40+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

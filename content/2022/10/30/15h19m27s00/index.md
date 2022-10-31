@@ -2,7 +2,7 @@
 description: At Marina do Parque das Nações
 published: 2022-10-30T15:19:27Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

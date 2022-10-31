@@ -2,7 +2,7 @@
 description: At Place de Clairefontaine
 published: 2020-02-04T11:40:30+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

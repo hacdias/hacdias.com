@@ -2,7 +2,7 @@
 description: At St James's Park
 published: 2022-04-22T09:56:42+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

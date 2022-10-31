@@ -2,7 +2,7 @@
 description: At Pingo Doce
 published: 2021-12-22T15:25:06Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

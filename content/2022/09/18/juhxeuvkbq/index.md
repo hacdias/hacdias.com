@@ -2,7 +2,7 @@
 description: At Piazza della Mercanzia
 published: 2022-09-18T11:24:23+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

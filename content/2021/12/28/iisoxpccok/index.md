@@ -2,7 +2,7 @@
 description: At Algarve Shopping
 published: 2021-12-28T17:16:56Z
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

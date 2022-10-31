@@ -2,7 +2,7 @@
 description: At Spoorpark Tilburg
 published: 2021-05-29T15:17:50+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

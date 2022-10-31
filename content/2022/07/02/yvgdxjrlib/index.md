@@ -2,7 +2,7 @@
 description: Trip from Den Haag HS to Rotterdam Centraal
 published: 2022-07-02T16:13:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

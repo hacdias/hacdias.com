@@ -2,7 +2,7 @@
 description: Trip from Bologna Centrale to Venezia S. Lucia
 published: 2022-09-18T19:20:00+02:00
 section:
-- places
+- itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:

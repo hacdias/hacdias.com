@@ -2,7 +2,7 @@
 description: At Victoriapark
 published: 2021-05-12T10:46:40+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

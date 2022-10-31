@@ -2,7 +2,7 @@
 description: At Karpendonkse Plas
 published: 2020-08-23T12:26:08+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

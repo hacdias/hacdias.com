@@ -2,7 +2,7 @@
 description: At Giardino di Villa Belgiojoso
 published: 2022-09-20T19:24:59+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

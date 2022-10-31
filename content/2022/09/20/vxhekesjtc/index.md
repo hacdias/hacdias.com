@@ -2,7 +2,7 @@
 description: At Piazza Gae Aulenti
 published: 2022-09-20T20:00:27+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

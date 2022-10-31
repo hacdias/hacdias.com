@@ -2,7 +2,7 @@
 description: At Continente
 published: 2020-02-29T18:07:41Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

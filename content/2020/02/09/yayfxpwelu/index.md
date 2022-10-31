@@ -2,7 +2,7 @@
 description: At Tram 14 CS - Flevopark
 published: 2020-02-09T17:45:44+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

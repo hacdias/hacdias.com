@@ -2,7 +2,7 @@
 description: At 's-Hertogenbosch Railway Station (Station 's-Hertogenbosch)
 published: 2022-10-02T11:07:30+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

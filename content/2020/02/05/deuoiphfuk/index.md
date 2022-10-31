@@ -2,7 +2,7 @@
 description: At European Parliament (Europees Parlement)
 published: 2020-02-05T18:00:11+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

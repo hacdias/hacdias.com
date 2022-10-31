@@ -2,7 +2,7 @@
 description: At Alentejo
 published: 2020-01-02T09:35:31Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

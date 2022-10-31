@@ -2,7 +2,7 @@
 description: At Van Abbemuseum
 published: 2021-10-23T13:09:05+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

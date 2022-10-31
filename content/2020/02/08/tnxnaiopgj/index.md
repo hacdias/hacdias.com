@@ -2,7 +2,7 @@
 description: At Rotterdam Central Station (Station Rotterdam Centraal)
 published: 2020-02-08T10:59:08+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

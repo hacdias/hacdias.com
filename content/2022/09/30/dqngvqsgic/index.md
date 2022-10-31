@@ -2,7 +2,7 @@
 description: At Eendjesvijver
 published: 2022-09-30T22:06:37+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

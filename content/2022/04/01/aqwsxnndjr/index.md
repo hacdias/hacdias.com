@@ -2,7 +2,7 @@
 description: At Tunes
 published: 2022-04-01T17:40:03+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

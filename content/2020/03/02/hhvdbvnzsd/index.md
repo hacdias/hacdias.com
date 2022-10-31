@@ -2,7 +2,7 @@
 description: At Lab Padaria Portuguesa
 published: 2020-03-02T19:18:30Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

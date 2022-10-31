@@ -2,7 +2,7 @@
 description: At Chiesa Di San Martino Vescovo
 published: 2022-09-19T14:29:18+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

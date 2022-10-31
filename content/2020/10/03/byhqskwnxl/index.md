@@ -2,7 +2,7 @@
 description: At Gym
 published: 2020-10-03T13:58:16+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

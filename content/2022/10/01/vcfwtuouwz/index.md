@@ -2,7 +2,7 @@
 description: At Pinkie Patiserie
 published: 2022-10-01T09:58:06+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

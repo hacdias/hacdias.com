@@ -2,7 +2,7 @@
 description: At IKEA Restaurant
 published: 2022-10-16T12:45:28+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

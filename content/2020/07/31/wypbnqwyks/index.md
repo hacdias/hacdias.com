@@ -2,7 +2,7 @@
 description: At Setúbal
 published: 2020-07-31T13:09:53+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

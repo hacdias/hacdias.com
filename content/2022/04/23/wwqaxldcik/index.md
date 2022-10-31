@@ -2,7 +2,7 @@
 description: At Tower Millennium Pier
 published: 2022-04-23T21:22:54+01:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

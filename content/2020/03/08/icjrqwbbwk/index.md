@@ -2,7 +2,7 @@
 description: At Parque Felício Loureiro
 published: 2020-03-08T16:21:23Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

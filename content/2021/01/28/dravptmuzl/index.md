@@ -2,7 +2,7 @@
 description: At So de Jus
 published: 2021-01-28T20:00:01+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At TU/e Matrix
 published: 2021-08-30T09:11:45+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

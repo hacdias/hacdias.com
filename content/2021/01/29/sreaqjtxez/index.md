@@ -2,7 +2,7 @@
 description: At Bossen van Geldrop-Mierlo
 published: 2021-01-29T16:06:04+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

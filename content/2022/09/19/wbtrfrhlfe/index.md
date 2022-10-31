@@ -2,7 +2,7 @@
 description: At La maison de la crepe
 published: 2022-09-19T18:44:50+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

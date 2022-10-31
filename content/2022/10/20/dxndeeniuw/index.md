@@ -2,7 +2,7 @@
 description: At Microlab
 published: 2022-10-20T11:50:47+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

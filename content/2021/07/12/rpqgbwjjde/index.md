@@ -2,7 +2,7 @@
 description: At O Prego da Peixaria
 published: 2021-07-12T12:38:52+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

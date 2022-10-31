@@ -2,7 +2,7 @@
 description: At Apple Piazza Liberty
 published: 2022-09-21T14:06:21+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

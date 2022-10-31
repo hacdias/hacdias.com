@@ -2,7 +2,7 @@
 description: At Zuidpark (Koning Albert I-park)
 published: 2021-08-21T15:20:39+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

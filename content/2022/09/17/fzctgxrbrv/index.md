@@ -2,7 +2,7 @@
 description: At Museo degli strumenti musicali
 published: 2022-09-17T09:38:11+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

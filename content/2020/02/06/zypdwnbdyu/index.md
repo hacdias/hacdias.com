@@ -2,7 +2,7 @@
 description: At Parc de Laeken / Park van Laken (Park van Laken)
 published: 2020-02-06T13:01:04+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

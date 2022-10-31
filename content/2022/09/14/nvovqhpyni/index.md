@@ -2,7 +2,7 @@
 description: At Fresco
 published: 2022-09-14T13:16:38+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

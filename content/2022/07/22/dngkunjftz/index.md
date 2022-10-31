@@ -2,7 +2,7 @@
 description: At Campus La Luna
 published: 2022-07-22T19:30:29+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

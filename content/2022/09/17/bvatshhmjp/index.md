@@ -2,7 +2,7 @@
 description: At Galleria degli Uffizi
 published: 2022-09-17T11:50:49+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   checkin:

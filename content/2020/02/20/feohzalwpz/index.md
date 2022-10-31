@@ -2,7 +2,7 @@
 description: At metro linha amarela, sentido Odivelas
 published: 2020-02-20T11:50:25Z
 section:
-- places
+- checkins
 properties:
   checked-in-by:
     properties:

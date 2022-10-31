@@ -2,7 +2,7 @@
 description: At Brussels-North Railway Station (Station Brussel-Noord)
 published: 2020-02-05T15:04:59+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

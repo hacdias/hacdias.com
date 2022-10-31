@@ -2,7 +2,7 @@
 description: At Stadhuis Eindhoven
 published: 2021-10-23T12:53:18+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

@@ -2,7 +2,7 @@
 description: At Hotel Credible
 published: 2022-10-02T12:48:30+02:00
 section:
-- places
+- checkins
 createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:

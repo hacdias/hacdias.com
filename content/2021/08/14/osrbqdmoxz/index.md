@@ -2,7 +2,7 @@
 description: At HEMA
 published: 2021-08-14T17:20:03+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

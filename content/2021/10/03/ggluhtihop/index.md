@@ -2,7 +2,7 @@
 description: At Aire d'Havrincourt
 published: 2021-10-03T18:10:54+02:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

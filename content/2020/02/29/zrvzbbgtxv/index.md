@@ -2,7 +2,7 @@
 description: At Centro Comercial Vasco da Gama
 published: 2020-02-29T17:14:25Z
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:

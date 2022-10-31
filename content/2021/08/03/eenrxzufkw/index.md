@@ -2,7 +2,7 @@
 description: At Ponte de Santa Clara
 published: 2021-08-03T14:55:26+01:00
 section:
-- places
+- checkins
 properties:
   checkin:
     properties:
