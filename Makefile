@@ -1,6 +1,6 @@
-.PHONY: make-dirs normalize all clean twemoji chartjs
+.PHONY: make-dirs normalize all clean twemoji chartjs leaflet
 
-all: clean make-dirs normalize twemoji chartjs
+all: clean make-dirs normalize twemoji chartjs leaflet
 
 make-dirs:
 	mkdir -p assets/css/vendor
@@ -14,7 +14,7 @@ twemoji:
 	wget https://twemoji.maxcdn.com/v/latest/twemoji.min.js -O assets/js/vendor/twemoji.min.js
 
 chartjs:
-	wget https://cdn.jsdelivr.net/npm/chart.js -O content/chart.js
+	wget https://cdn.jsdelivr.net/npm/chart.js -O content/vendor/chart.js
 
 leaflet:
 	wget https://leafletjs-cdn.s3.amazonaws.com/content/leaflet/v1.9.2/leaflet.zip -O leaflet.zip
@@ -24,5 +24,4 @@ leaflet:
 clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
-	rm -rf content/chart.js
 	rm -rf content/vendor
