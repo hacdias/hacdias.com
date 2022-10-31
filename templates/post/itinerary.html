@@ -3,8 +3,15 @@
   {{ $sub := $mm.Sub $mm.TypeProperty }}
   {{ $subs := $mm.Subs $mm.TypeProperty }}
 
-  {{ with .TryFiles "map.png" "map.jpeg" }}
-    <img src="{{ relURL . }}" class="db u-photo">
+  {{ if not .Listing }}
+    {{ with .GetFile "_geo.json" }}
+      {{ include "map" . }}
+      <script>
+        const geoJson = L.geoJSON(JSON.parse({{ . }}));
+        geoJson.addTo(map)
+        map.fitBounds(geoJson.getBounds(), {padding: [20, 20]})
+      </script>
+    {{ end }}
   {{ end }}
 
   {{ range $subs }}

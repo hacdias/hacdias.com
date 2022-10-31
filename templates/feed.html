@@ -21,7 +21,6 @@
     {{/* Nothing */}}
   {{- else if eq $type "itinerary" }}
     {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}
-    {{ with .TryFiles "map.png" "map.jpeg" }}{{ figure . "Map" true }}{{ end }}
   {{- else if ne $type "article" }}
     {{/* Ate, Drank, Checkin, Itinerary, Read, RSVP, Watch, Listen */}}
     {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}

@@ -1,15 +1,19 @@
 {{ define "post/checkin" }}
   {{ $mf2 := .Helper }}
 
-  {{ if not .Listing }}
-    {{ with .TryFiles "map.png" "map.jpeg" }}
-      <img src="{{ relURL . }}" class="db">
-    {{ end }}
-  {{ end }}
-
   {{ $checkin := $mf2.Sub $mf2.TypeProperty }}
   {{ $url := $checkin.String "url" }}
   {{ $location := $checkin.LocalityCountry }}
+
+  {{ if not .Listing }}
+    {{ include "map" . }}
+     <script>
+      const lat = {{ $checkin.Properties.latitude }};
+      const lon = {{ $checkin.Properties.longitude }};
+      map.setView([lat, lon], 18)
+      L.marker([lat, lon]).addTo(map)
+     </script>
+  {{ end }}
   
   <div class=ibox>
     📍 At
