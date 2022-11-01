@@ -1,0 +1,69 @@
+{
+  "targets": [],
+  "context": null,
+  "webmentions": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Keep checking in to places inside Lisbon Humberto Delgado Airport for more coins!",
+      "in-reply-to": "https://hacdias.com/2022/11/01/14h32m58s00",
+      "post-type": "reply",
+      "published": "2022-11-01T14:32:58Z",
+      "swarm-coins": 6,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/d4f5c66b3199b46c8cd702b735aad469",
+      "wm-id": 1548644,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-11-01T14:33:21Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/d4f5c66b3199b46c8cd702b735aad469",
+      "wm-target": "https://hacdias.com/2022/11/01/14h32m58s00"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "Welcome back! You haven't checked in to Terminal 2 since February '20.",
+      "in-reply-to": "https://hacdias.com/2022/11/01/14h32m58s00",
+      "post-type": "reply",
+      "published": "2022-11-01T14:32:58Z",
+      "swarm-coins": 15,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/eced9ed06faaf7e9b77c4cc564aff8fa",
+      "wm-id": 1548645,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-11-01T14:33:21Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/eced9ed06faaf7e9b77c4cc564aff8fa",
+      "wm-target": "https://hacdias.com/2022/11/01/14h32m58s00"
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "type": "card",
+        "url": "https://swarmapp.com/"
+      },
+      "content": "First Airport Terminal check-in in one year!",
+      "in-reply-to": "https://hacdias.com/2022/11/01/14h32m58s00",
+      "post-type": "reply",
+      "published": "2022-11-01T14:32:58Z",
+      "swarm-coins": 15,
+      "type": "entry",
+      "url": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/5c2503022a2a05da75d121d03b4a1dcc",
+      "wm-id": 1548646,
+      "wm-private": false,
+      "wm-property": "in-reply-to",
+      "wm-received": "2022-11-01T14:33:22Z",
+      "wm-source": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/5c2503022a2a05da75d121d03b4a1dcc",
+      "wm-target": "https://hacdias.com/2022/11/01/14h32m58s00"
+    }
+  ]
+}
