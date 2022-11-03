@@ -87,11 +87,16 @@ img {
   max-width: 100%;
 }
 
+.icon,
 img.emoji {
   height: 1em;
   width: 1em;
   margin: 0 .05em 0 .1em;
   vertical-align: -0.1em;
+}
+
+.icon {
+  display: inline-block;
 }
 
 figure {
@@ -521,6 +526,14 @@ figure.right {
   margin-left: 1.5rem;
 }
 
+figure.album {
+  max-width: 5rem;
+}
+
+figure.album img {
+  border-radius: var(--radius);
+}
+
 .inline-form {
   display:flex;
 }
@@ -626,6 +639,22 @@ figure.right {
 .fg figure img {
   object-fit: cover;
   height: 100%;
+}
+
+.tab {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -.012em;
+  white-space: pre;
+}
+
+.scrobbles-log ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.scrobbles-log time {
+  font-weight: bold;
+  color: var(--accent);
 }
 
 @media screen and (max-width: 52rem) {

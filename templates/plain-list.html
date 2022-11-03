@@ -21,14 +21,6 @@
     font-weight: 600;
   }
 
-  .h-feed time {
-    padding-right: .25em;
-    color: #333;
-    font-variant-numeric: tabular-nums;
-    letter-spacing: -.012em;
-    white-space: pre;
-  }
-
   @media screen and (max-width: 52rem) {
     .h-feed > a, .h-feed .p-name, .h-feed time {
       display: block;
@@ -40,7 +32,7 @@
   {{ range .Data.Entries }}
     <a class='h-entry nl' href="{{ relURL .Permalink }}">
       <span class='p-name'>{{ .Title }}</span>
-      <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02-01-2006" }}</time>
+      <time class='tab dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02-01-2006" }}</time>
     </a>
   {{ end }}
   </div>
