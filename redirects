@@ -1031,7 +1031,6 @@
 /2015/09/caddy-plugins/ /projects/caddy-plugins
 /articles/2015/09/12/1/caddy-plugins /projects/caddy-plugins
 /articles/2015/09/caddy-plugins/ /projects/caddy-plugins
-/books /reads
 /cv/ /resume
 /curriculum/ /resume
 /curriculum-vitae/ /resume
@@ -1063,6 +1062,8 @@
 /notes/banana-bread /recipes/banana-bread
 /notes/coffee /recipes/coffee
 /notes/chai-latte /recipes/chai-latte
+/reads /books
+/reads/summary /books/summary
 /reads/isbn/9780007155668 /books/the-alchemist
 /reads/isbn/9780007181704 /books/fahrenheit-451
 /reads/isbn/9780091906818 /books/how-to-win-friends-and-influence-people
