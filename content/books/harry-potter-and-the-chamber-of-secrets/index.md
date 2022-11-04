@@ -3,7 +3,7 @@ description: 'Harry Potter and the Chamber of Secrets by J.K. Rowling (ISBN: 978
 published: 2017-01-09T08:00:00Z
 updated: 2017-01-09T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

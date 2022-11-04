@@ -3,7 +3,7 @@ description: 'The Perks of Being a Wallflower by Stephen Chbosky (ISBN: 97818473
 published: 2018-01-01T08:00:00Z
 updated: 2018-01-01T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

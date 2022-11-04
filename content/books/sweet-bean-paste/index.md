@@ -2,7 +2,7 @@
 description: 'Sweet Bean Paste by Durian Sukegawa (ISBN: 9781786071958)'
 published: 2022-06-04T13:38:53.499912954+02:00
 section:
-- reads
+- books
 createdWith: https://hacdias.com/
 properties:
   read-of:

@@ -3,7 +3,7 @@ description: 'The Practice of Programming by Brian W. Kernighan (ISBN: 978020161
 published: 2018-06-25T07:00:00Z
 updated: 2018-06-25T07:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

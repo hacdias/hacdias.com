@@ -3,7 +3,7 @@ description: 'Harry Potter and the Prisoner of Azkaban by J.K. Rowling (ISBN: 97
 published: 2017-01-14T08:00:00Z
 updated: 2017-01-14T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

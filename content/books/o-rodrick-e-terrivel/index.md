@@ -3,7 +3,7 @@ description: 'O Rodrick é Terrível by Jeff Kinney (ISBN: 9789896680060)'
 published: 2015-02-28T08:00:00Z
 updated: 2015-02-28T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

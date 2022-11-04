@@ -1,7 +1,7 @@
 ---
 description: 'O Mistério da Casa Queimada by Enid Blyton (ISBN: 9789895554591)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

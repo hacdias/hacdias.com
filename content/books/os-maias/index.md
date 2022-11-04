@@ -1,7 +1,7 @@
 ---
 description: 'Os Maias by Eça de Queirós (ISBN: 978972004575)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

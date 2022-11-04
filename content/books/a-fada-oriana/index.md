@@ -1,7 +1,7 @@
 ---
 description: 'A Fada Oriana by Sophia de Mello Breyner Andresen (ISBN: 9789726611950)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

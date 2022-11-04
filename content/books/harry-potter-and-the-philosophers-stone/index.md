@@ -3,7 +3,7 @@ description: 'Harry Potter and the Philosopher''s Stone by J.K. Rowling (ISBN: 9
 published: 2017-01-01T08:00:00Z
 updated: 2017-01-01T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

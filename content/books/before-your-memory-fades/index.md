@@ -2,7 +2,7 @@
 description: 'Before Your Memory Fades by Toshikazu Kawaguchi (ISBN: 9781529089431)'
 published: 2022-09-27T07:45:17.289951921+02:00
 section:
-- reads
+- books
 createdWith: https://hacdias.com/
 properties:
   read-of:

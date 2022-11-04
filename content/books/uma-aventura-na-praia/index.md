@@ -1,7 +1,7 @@
 ---
 description: 'Uma Aventura na Praia by Ana Maria Magalhães (ISBN: 9789722108997)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

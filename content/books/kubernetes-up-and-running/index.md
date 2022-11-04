@@ -3,7 +3,7 @@ description: 'Kubernetes: Up and Running by Brendan Burns (ISBN: 9781492046530)'
 published: 2020-08-08T10:11:35Z
 updated: 2020-08-08T10:11:35Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

@@ -4,7 +4,7 @@ description: 'The Promise - Part 1 by Bryan Konietzko, Michael Dante DiMartino (
 published: 2022-02-18T08:02:43.649069007+01:00
 updated: 2022-02-18T08:02:43.649069007+01:00
 section:
-- reads
+- books
 createdWith: https://hacdias.com/
 properties:
   rating: 4

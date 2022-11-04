@@ -3,7 +3,7 @@ description: 'Harry Potter and the Deathly Hallows by J.K. Rowling (ISBN: 978140
 published: 2017-01-29T08:00:00Z
 updated: 2017-01-29T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

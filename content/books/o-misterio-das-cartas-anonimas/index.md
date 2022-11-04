@@ -1,7 +1,7 @@
 ---
 description: 'O Mistério das Cartas Anónimas by Enid Blyton (ISBN: 9789895554836)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

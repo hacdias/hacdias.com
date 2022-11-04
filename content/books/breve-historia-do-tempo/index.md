@@ -1,7 +1,7 @@
 ---
 description: 'Breve História do Tempo by Stephen Hawking (ISBN: 9789726620105)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

@@ -1,7 +1,7 @@
 ---
 description: 'Bananus Maximus by Tim Collins (ISBN: 9789897071140)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

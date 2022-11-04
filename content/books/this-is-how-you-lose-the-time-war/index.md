@@ -4,7 +4,7 @@ description: 'This Is How You Lose the Time War by Amal El-Mohtar, Max Gladstone
 published: 2022-01-24T07:11:26.183365975Z
 updated: 2022-02-08T19:26:31.634184415+01:00
 section:
-- reads
+- books
 properties:
   rating: 3
   read-of:

@@ -1,7 +1,7 @@
 ---
 description: 'A Última Gota by Jeff Kinney (ISBN: 9789896680589)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

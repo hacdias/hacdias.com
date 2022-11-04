@@ -3,7 +3,7 @@ description: 'Harry Potter and the Order of the Phoenix by J.K. Rowling (ISBN: 9
 published: 2017-01-24T08:00:00Z
 updated: 2017-01-24T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

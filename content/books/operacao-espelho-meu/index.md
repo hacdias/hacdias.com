@@ -1,7 +1,7 @@
 ---
 description: 'Operação "espelho meu" by Álvaro Magalhães (ISBN: 9789892314969)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

@@ -1,7 +1,7 @@
 ---
 description: 'Convergente by Veronica Roth (ISBN: 9789720043832)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

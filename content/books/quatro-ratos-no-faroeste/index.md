@@ -1,7 +1,7 @@
 ---
 description: 'Quatro Ratos no Faroeste! by Geronimo Stilton (ISBN: 9789722344968)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

@@ -3,7 +3,7 @@ description: 'Animal Farm by George Orwell (ISBN: 9780141036137)'
 published: 2017-12-23T08:00:00Z
 updated: 2017-12-23T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

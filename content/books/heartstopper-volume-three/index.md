@@ -3,7 +3,7 @@ description: 'Heartstopper Volume Three by Alice Oseman (ISBN: 9781444952773)'
 published: 2022-02-13T12:37:44.597068979+01:00
 updated: 2022-02-13T17:06:38.209991419+01:00
 section:
-- reads
+- books
 createdWith: https://hacdias.com/
 properties:
   rating: 4

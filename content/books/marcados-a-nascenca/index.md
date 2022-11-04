@@ -1,7 +1,7 @@
 ---
 description: 'Marcados à Nascença by Caragh M. O''Brien (ISBN: 9789895015870)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

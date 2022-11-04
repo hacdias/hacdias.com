@@ -1,7 +1,7 @@
 ---
 description: 'Naufrágio na Ilha dos Piratas by Geronimo Stilton (ISBN: 9789722339360)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

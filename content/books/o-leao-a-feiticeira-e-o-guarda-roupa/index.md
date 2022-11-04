@@ -3,7 +3,7 @@ description: 'O Leão, a Feiticeira e o Guarda-Roupa by C.S. Lewis (ISBN: 978972
 published: 2015-02-28T08:00:00Z
 updated: 2015-02-28T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

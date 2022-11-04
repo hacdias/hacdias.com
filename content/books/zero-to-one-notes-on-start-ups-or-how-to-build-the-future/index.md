@@ -4,7 +4,7 @@ description: 'Zero to One: Notes on Start Ups, or How to Build the Future by Pet
 published: 2017-05-09T07:00:00Z
 updated: 2017-05-09T07:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

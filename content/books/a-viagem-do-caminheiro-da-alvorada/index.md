@@ -1,7 +1,7 @@
 ---
 description: 'A Viagem do Caminheiro da Alvorada by C.S. Lewis (ISBN: 9789722331326)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

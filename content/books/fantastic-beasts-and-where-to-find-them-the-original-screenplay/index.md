@@ -4,7 +4,7 @@ description: 'Fantastic Beasts and Where to Find Them: The Original Screenplay b
 published: 2017-01-30T08:00:00Z
 updated: 2017-01-30T08:00:00Z
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

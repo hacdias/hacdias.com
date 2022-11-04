@@ -1,7 +1,7 @@
 ---
 description: 'A Senhora da Magia by Marion Zimmer Bradley (ISBN: 9789896373986)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:

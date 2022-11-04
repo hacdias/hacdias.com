@@ -1,7 +1,7 @@
 ---
 description: 'Os Livros Que Devoraram o Meu Pai by Afonso Cruz (ISBN: 9789722120951)'
 section:
-- reads
+- books
 properties:
   read-of:
     properties:
