@@ -1,5 +1,7 @@
 ---
 title: Links
+published: 2022-11-04T16:51:13.878159548+01:00
+updated: 2022-11-04T16:57:13.1447047+01:00
 template: blogroll
 noShowInteractions: true
 noSendInteractions: true
@@ -25,13 +27,24 @@ These are some of my friends and acquaintances that also happen to have their ow
 
 ## 🦋 Inspirational {#inspirational}
 
-These are some websites that inspired mine in some way, such as in design, in content organization, or in style. I do not guarantee that the current iterations of the website were the ones that inspires me though.
-
 <div class="box">
 
 🚧 This is a work in progress.
 
 </div>
+
+These are some websites that inspired mine in some way, such as in design, in content organization, or in style. I do not guarantee that the current iterations of the website were the ones that inspires me though.
+
+## 💍 Webrings {#webrings}
+
+[Webrings](https://en.wikipedia.org/wiki/Webring) and lists of personal websites are golden in the small web. They help you discover the Internet and find website you would never find when using regular search engines. Here's a list of some webrings and lists of personal websites that I find quite nice:
+
+- [XXIIVV Webring](https://webring.xxiivv.com/)
+- [IndieWeb Webring](https://xn--sr8hvo.ws/)
+- [Fediring](https://fediring.net/)
+- [The Big List of Personal Websites](http://biglist.terraaeon.com/)
+- [PersonalSit.es](https://personalsit.es/)
+- [Darek Kay’s Blogroll](https://darekkay.com/personal-blogs/)
 
 ## 🕸 Old Websites {#old-websites}
 
