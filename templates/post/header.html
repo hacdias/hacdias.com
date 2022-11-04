@@ -60,22 +60,18 @@
   {{ else if .Entry.Title }}
     <header>
       {{ if .Listing }}
-        {{ if .Entry.Title }}
-          <h3 class='p-name'>
-            <a href="{{ relURL .Permalink }}" title="{{ .Entry.Title }}" class="nl">{{- .Entry.Title -}}</a>
-          </h3>
-        {{ end }}
+        <h3 class='p-name'>
+          <a href="{{ relURL .Permalink }}" title="{{ .Entry.Title }}" class="nl">{{- .Entry.Title -}}</a>
+        </h3>
       {{ else }}
-        {{ with .Entry.Title }}<h1 class='p-name'>{{- . -}}</h1>{{ end }}
-        {{ if eq .Helper.PostType "article" }}
-          <p>
-            {{- if .Updated.After .Published -}}
-              {{ .Updated.Format "January 02, 2006" }}
-            {{- else if not .Published.IsZero -}}
-              {{ .Published.Format "January 02, 2006" }}
-            {{- end -}}
-          </p>
-        {{ end }}
+        <h1 class='p-name'>{{- .Entry.Title -}}</h1>
+        <p>
+          {{- if .Updated.After .Published -}}
+            {{ .Updated.Format "January 02, 2006" }}
+          {{- else if not .Published.IsZero -}}
+            {{ .Published.Format "January 02, 2006" }}
+          {{- end -}}
+        </p>
       {{ end }}
     </header>
   {{ end }}
