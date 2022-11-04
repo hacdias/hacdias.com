@@ -1,5 +1,5 @@
 ---
-title: Reads
+title: Books
 listing:
   orderByUpdated: true
 noShowInteractions: true
