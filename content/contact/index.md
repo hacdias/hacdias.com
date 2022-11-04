@@ -12,6 +12,8 @@ If you need to reach me directly, please try one of the following:
 - 🎮 Discord as [`hacdias#2540`](https://discord.com/users/hacdias#2540)
 - ✨ Matrix as [`@hacdias:tchncs.de`](https://matrix.to/#/@hacdias:tchncs.de)
 
+<!--more-->
+
 ## 🕸 Elsewhere {#elsewhere}
 
 My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:

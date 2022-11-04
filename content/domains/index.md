@@ -10,6 +10,8 @@ noSendInteractions: true
 
 This is a list of the domains I currently own, with a small description of each of them.
 
+<!--more-->
+
 - [**hacdias.com**](https://hacdias.com) - this is the domain you are visiting right now and I use it as my main domain. `hacdias` is also my default handle in the Internet, so you can likely find me with that name.
 
 - [**henriquedias.com**](https://henriquedias.com) - this was my first domain, bought by my father as a gift when I was 14 years old. Nowadays, I redirect it to my main domain. I like to keep it, not just because of emotional attachment, but also because it's my first and last name combined.

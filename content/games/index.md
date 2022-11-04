@@ -15,6 +15,8 @@ createdWith: https://hacdias.com/
 
 I am not a person that plays a lot of games. However, there are some games that have a special place in my heart, or that I enjoy playing sometimes. I want this page to be used to track the games I play, or that I have played, as well as some progress information about them.
 
+<!--more-->
+
 ## 💿 PlayStation Portable
 
 The [PlayStation Portable](https://pt.wikipedia.org/wiki/PlayStation_Portable) (PSP), from Sony, was my first console ever and gifted to me by my godmother. At the time, I was around 10 years old and I don't think my parents thought it was a great idea. However, I was extremely happy with this purchase.

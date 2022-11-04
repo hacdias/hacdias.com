@@ -1,5 +1,5 @@
 {{ define "list/item" }}
-  {{ $isLong := or (eq .Helper.PostType "article") (.HasMore) }}
+  {{ $isLong := .HasMore }}
 
   <article class='h-entry card'>
     {{ include "post/header" . }}

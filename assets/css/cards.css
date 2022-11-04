@@ -46,4 +46,5 @@
 .card .more {
   text-align: center;
   font-weight: 700;
+  clear: both;
 }
