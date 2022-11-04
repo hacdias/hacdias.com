@@ -10,7 +10,7 @@ properties:
   - deprecation
 ---
 
-It seems Amazon decided to "deprecate" their GoodReads API in a very silent way. I use the GoodReads API to maintain my [readings](/reads/) page and there's a bug on the script. Thus, I went to the API documentation just to read the following:
+It seems Amazon decided to "deprecate" their GoodReads API in a very silent way. I use the GoodReads API to maintain my [readings](/books/) page and there's a bug on the script. Thus, I went to the API documentation just to read the following:
 
 > As of December 8th 2020, Goodreads no longer issues new developer keys for our public developer API and plans to retire the current version of these tools. You can find more information here.
 

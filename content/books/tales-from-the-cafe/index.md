@@ -34,4 +34,4 @@ properties:
     status: to-read
 ---
 
-This is the sequel of [Before the coffee gets cold](/reads/isbn/9781529029581) and I enjoyed it just as much. I keep the same rating I gave to the first book. It was just as good, a perfect continuation of the first book. Deeply magical and sentimental.
+This is the sequel of [Before the coffee gets cold](/books/before-the-coffee-gets-cold) and I enjoyed it just as much. I keep the same rating I gave to the first book. It was just as good, a perfect continuation of the first book. Deeply magical and sentimental.

@@ -10,7 +10,7 @@ properties:
   - meta
 ---
 
-Lately, I have been [reading](/reads) a bit more. Therefore, I wanted to be able to post more about it and track the progress. This is something I used to do before with Goodreads, but I have since stopped using it. The logical solution? Implement more features on my website. Why not?
+Lately, I have been [reading](/books/) a bit more. Therefore, I wanted to be able to post more about it and track the progress. This is something I used to do before with Goodreads, but I have since stopped using it. The logical solution? Implement more features on my website. Why not?
 
 <!--more-->
 
@@ -22,7 +22,7 @@ After a long conversation with [Sebastiaan](https://seblog.nl/) and after seeing
 
 From now on, I will have a canonical page for a certain book at `/reads/isbn/{isbn}`. It can easily be expanded to other formats, such as `/reads/{doi|isbn|issn}/{id}`. This way, I can have a canonical version of a specific book edition that holds its information. Then, on the `read-of` field, I simply write `/reads/{doi|isbn|issn}/{id}` and my blog system directly fetches the information.
 
-For example, if you access [`/reads/isbn/9789720048820`](/reads/isbn/9789720048820), you will see information about the book (*The year of death of Ricardo Reis*) and then all posts regarding that same book.
+For example, if you access [`/reads/isbn/9789720048820`](/books/o-ano-da-morte-de-ricardo-reis), you will see information about the book (*The year of death of Ricardo Reis*) and then all posts regarding that same book.
 
 At the same time, the website still supports the old format where the reading post itself accepts an object with the information about the book. This is useful for books I want to read, but that I do not own yet. Therefore, I don't know which edition and details to add about the book.
 

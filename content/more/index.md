@@ -23,6 +23,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 - [✏️ Articles](/articles)
 - [🔖 Bookmarks](/bookmarks)
+- [📚 Books](/books/summary)
 - [📍 Checkins](/checkins)
 - [🥘 Food and Beverages](/food)
 - [🗺 Itineraries](/itineraries)
@@ -30,7 +31,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [💬 Micro](/micro)
 - [⏰ Now](/now)
 - [📸 Photos](/photos)
-- [📚 Reads](/reads/summary)
 - [🎬 Watches](/watches/summary)
 
 </div>

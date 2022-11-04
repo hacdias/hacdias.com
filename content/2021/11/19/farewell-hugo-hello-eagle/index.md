@@ -27,7 +27,7 @@ More importantly, I brought back Micropub support, which I removed around a year
 
 If you look at my [more](/more) page, you'll notice that there's a lot of different content categories (or "sections") now. I brought back the [checkins](/checkins) and [watches](/watches), which I had removed before because they were slowing down the Hugo build process.
 
-Everything is stored as markdown files. However, there's a PostgreSQL instance running to index my posts and help me generate indexes and the [nice](/watches/summary) [summaries](/reads/summary) for some of the sections.
+Everything is stored as markdown files. However, there's a PostgreSQL instance running to index my posts and help me generate indexes and the [nice](/watches/summary) [summaries](/books/summary) for some of the sections.
 
 And [a lot more](https://github.com/hacdias/eagle/issues/34)!
 
