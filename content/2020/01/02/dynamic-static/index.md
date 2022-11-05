@@ -38,7 +38,7 @@ Finally, experimentation! Building my custom server “thingy” could actually 
 
 So, I’ve been thinking quite a bit about this. Firstly, I must say that I don’t know yet if I should divide the website itself from the API. Should it be the same application? Or different ones?
 
-About the language: Node.js is “new” and shiny and I’ve been using it **a lot** on my past projects. But I don’t think I would use it here even though I have published [two packages](/micro/2019/12/two-packages/) for helping building Micropub applications a few days ago. "Why?" you ask.
+About the language: Node.js is "new" and shiny and I’ve been using it **a lot** on my past projects. But I don’t think I would use it here even though I have published [two packages](/2019/12/31/two-packages) for helping building Micropub applications a few days ago. "Why?" you ask.
 
 PHP is old, but it has had really impactful improvements since the last time I tried it and there are a lot of PHP packages already built by other IndieWeb lovers such as [Aaron](https://aaronparecki.com/) and [Tantek](http://tantek.com/) I could leverage. Also, as far as I remember, templating and outputting stuff with PHP is really… simple.
 

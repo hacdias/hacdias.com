@@ -9,7 +9,7 @@ properties:
   - meta
   - hugo
   - development
-  in-reply-to: https://hacdias.com/micro/2020/02/updates/
+  in-reply-to: https://hacdias.com/2020/02/16/updates
 ---
 
 After publishing the post to which I'm replying to, [@jlelse](https://jlelse.blog/) contacted me and I noticed the [`import`](https://caddyserver.com/v1/docs/import) directive in Caddy can be used to import files:
