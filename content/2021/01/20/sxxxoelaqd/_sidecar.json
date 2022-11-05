@@ -4,26 +4,6 @@
   "webmentions": [
     {
       "author": {
-        "name": "",
-        "photo": "",
-        "type": "card",
-        "url": ""
-      },
-      "content": "[deleted]",
-      "in-reply-to": "https://hacdias.com/2021/01/20/sxxxoelaqd",
-      "post-type": "reply",
-      "published": "2021-01-20T21:23:03Z",
-      "type": "entry",
-      "url": "https://reddit.com/r/Netherlands/comments/l16mde/dutch_banks_and_english_support/gjzmqvw/",
-      "wm-id": 1411599,
-      "wm-private": false,
-      "wm-property": "in-reply-to",
-      "wm-received": "2022-06-08T13:35:45Z",
-      "wm-source": "https://brid.gy/comment/reddit/hacdias/l16mde/gjzmqvw",
-      "wm-target": "https://hacdias.com/2021/01/20/sxxxoelaqd"
-    },
-    {
-      "author": {
         "name": "vanghos7",
         "photo": "https://cdn.hacdias.com/wm/130e0373c496701074a9c7aeee3a57384e8d8728f7e586b9e8d8670dd84e8421.png",
         "type": "card",

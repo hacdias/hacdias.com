@@ -4,46 +4,6 @@
   "webmentions": [
     {
       "author": {
-        "name": "",
-        "photo": "",
-        "type": "card",
-        "url": ""
-      },
-      "content": "[deleted]",
-      "in-reply-to": "https://hacdias.com/2019/03/03/gesefdrujc",
-      "post-type": "reply",
-      "published": "2019-03-03T13:56:57Z",
-      "type": "entry",
-      "url": "https://reddit.com/r/DataHoarder/comments/awstj1/should_i_buy_a_nas_or_share_a_network_device_from/ehp5a0o/",
-      "wm-id": 1411585,
-      "wm-private": false,
-      "wm-property": "in-reply-to",
-      "wm-received": "2022-06-08T13:28:37Z",
-      "wm-source": "https://brid.gy/comment/reddit/hacdias/awstj1/ehp5a0o",
-      "wm-target": "https://hacdias.com/2019/03/03/gesefdrujc"
-    },
-    {
-      "author": {
-        "name": "",
-        "photo": "",
-        "type": "card",
-        "url": ""
-      },
-      "content": "[deleted]",
-      "in-reply-to": "https://hacdias.com/2019/03/03/gesefdrujc",
-      "post-type": "reply",
-      "published": "2019-03-03T12:21:42Z",
-      "type": "entry",
-      "url": "https://reddit.com/r/DataHoarder/comments/awstj1/should_i_buy_a_nas_or_share_a_network_device_from/ehp125q/",
-      "wm-id": 1411584,
-      "wm-private": false,
-      "wm-property": "in-reply-to",
-      "wm-received": "2022-06-08T13:28:37Z",
-      "wm-source": "https://brid.gy/comment/reddit/hacdias/awstj1/ehp125q",
-      "wm-target": "https://hacdias.com/2019/03/03/gesefdrujc"
-    },
-    {
-      "author": {
         "name": "michrech",
         "photo": "https://cdn.hacdias.com/wm/97d25a62e30c538db9bb47e0f313cc21016517ad3e7a99237ac4da3d896b4bf9.png",
         "type": "card",
