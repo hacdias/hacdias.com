@@ -1,5 +1,33 @@
 {{ define "post/media" }}
-  {{ include "post/photos" . }}
-  {{ include "post/videos" . }}
-  {{ include "post/audios" . }}
+  {{ with .Helper.Photos }}
+    <div class="fw {{ with $.PhotoClass}}{{.}}{{ end }}">
+    {{ range $i, $photo := . }}
+      {{ $alt := or $photo.alt "" }}
+      {{ figure $photo.value $alt true }}
+    {{ end }}
+    </div>
+  {{ end }}
+
+  {{ with .Helper.Videos }}
+    <div class="fw">
+    {{ range $i, $video := . }}
+      <video controls {{ with $video.alt }}poster="{{ . }}"{{ end }} class="u-video">
+        <source src="{{ $video.value }}">
+      </video>
+    {{ end }}
+    </div>
+  {{ end }}
+
+  {{ with .Helper.Audios }}
+    <div class="copy">
+    {{ range $i, $audio := . }}
+    <figure>
+      {{ with .alt }}<figcaption>{{ . }}</figcaption> {{ end }}
+      <audio controls class="u-audio">
+        <source src="{{ .value }}">
+      </audio>
+    </figure>
+    {{ end }}
+    </div>
+  {{ end }}
 {{ end }}
