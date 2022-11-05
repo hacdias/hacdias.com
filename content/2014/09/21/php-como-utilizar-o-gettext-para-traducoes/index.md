@@ -12,7 +12,7 @@ properties:
   - portuguese
 ---
 
-Como prometido no [último artigo](/articles/2014/09/php-wordpress-comandos-printf-sprintf/), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
+Como prometido no [último artigo](/2014/09/13/php-wordpress-comandos-printf-sprintf), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.
 
 <!--more-->
 

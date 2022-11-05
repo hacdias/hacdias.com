@@ -100,7 +100,7 @@ A more subtle change I made was to change the dates on this website to use the [
 [faith-web]: https://macwright.org/2020/05/10/spa-fatigue.html
 [archive]: https://web.archive.org/
 [neocities]: https://neocities.org/
-[own-your-data]: /articles/2019/12/own-your-data/
+[own-your-data]: /2019/12/24/own-your-data
 [hugo]: https://gohugo.io/
 [meta]: /tags/meta/
 [indieweb]: https://indieweb.org/

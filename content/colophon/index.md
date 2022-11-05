@@ -23,7 +23,7 @@ This website has seen quite a few redesigns. I [wrote](/2022/03/25/my-website-be
 
 I cannot recall the reason why I created this website in first place. Perhaps, I wanted to have some kind of presence online that was not just the social media. Besides, I knew no one that had a website back then and I'm almost sure I did not tell any of my friends about it either. The main reasons, as of now, to maintain this website, are as follows:
 
-- **Expression**: I think a personal website is a good way for all of us to express ourselves, by customizing it the way we want, working the way we want it to. It's a call for more people to do the same and bring [uniqueness](/articles/2020/05/back-90s/) to the Internet again.
+- **Expression**: I think a personal website is a good way for all of us to express ourselves, by customizing it the way we want, working the way we want it to. It's a call for more people to do the same and bring [uniqueness](/2020/05/31/back-90s) to the Internet again.
 
 - **Sharing**: I try to share some of my knowledge on this website, and also life updates. It's a good way to document both the things that I do, that I am and that I want to remember in the future. By writing, I also learn.
 

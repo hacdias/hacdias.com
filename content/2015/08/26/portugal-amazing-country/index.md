@@ -11,7 +11,7 @@ properties:
   - portugal
 ---
 
-Last year, I published a post about [how amazing Portugal is](/articles/2014/11/portugal-beautiful-country/). And now I'm posting about it again! I'm not trying to "sell" Portugal, I'm trying to show how beautiful it is, because it's true!
+Last year, I published a post about [how amazing Portugal is](/2014/11/14/portugal-beautiful-country). And now I'm posting about it again! I'm not trying to "sell" Portugal, I'm trying to show how beautiful it is, because it's true!
 
 <!--more-->
 

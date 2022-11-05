@@ -12,7 +12,7 @@ properties:
   - portuguese
 ---
 
-Na [primeira parte](/articles/2014/09/php-como-utilizar-o-gettext-para-traducoes/) deste artigo, ensinámos a configurar o Gettext em conjunto com o PHP de forma a que hoje possamos criar as nossas primeiras traduções.
+Na [primeira parte](/2014/09/21/php-como-utilizar-o-gettext-para-traducoes) deste artigo, ensinámos a configurar o Gettext em conjunto com o PHP de forma a que hoje possamos criar as nossas primeiras traduções.
 
 <!--more-->
 

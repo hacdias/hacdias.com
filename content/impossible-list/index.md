@@ -102,7 +102,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    1. [x] ~~Participate again~~ <small>[May 2017] [6th place]</small>
 5. [x] ~~Become proficient in a second language~~ <small>[September 2019] [English]</small>
    1.  [ ] Become proficient in a third language (Dutch?)
-6. [x] ~~Give a talk~~ <small>[November 2019] [[link](/articles/2019/12/quick-dive-into-dweb-ipfs/)]</small>
+6. [x] ~~Give a talk~~ <small>[November 2019] [[link](/2019/12/20/quick-dive-into-dweb-ipfs)]</small>
    1. [ ] Give a talk to over 100 people
 7. [x] ~~Finish my bachelor's degree~~ <small>[July 2020]</small>
 8. [x] ~~Finish my master's degree~~ <small>[September 2022]</small>

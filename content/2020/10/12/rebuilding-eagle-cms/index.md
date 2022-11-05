@@ -44,4 +44,4 @@ In the future, I want to fully support ActivityPub though. I still need to imple
 [cms1]: /micro/2020/01/on-building-my/
 [cms2]: /micro/2020/07/how-to-publish-notes/
 [cms3]: /micro/2020/01/n1/  
-[dynamic]: /articles/2020/01/dynamic-static/
+[dynamic]: /2020/01/02/dynamic-static
