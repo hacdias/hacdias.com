@@ -6,10 +6,9 @@
   <article class='h-entry'>
     {{ include "base/admin" . }}
     {{ include "post/header" . }}
+    {{ include "post/content" . }}
 
-    <div class='copy e-content'>
-      {{ include "post/content" . }}
-
+    <div class='copy'>
       <p>
         <a id="button" class="nl" rel="noopener noreferrer" target="_blank" href="{{ $url }}">
           <button>Post an entry!</button>

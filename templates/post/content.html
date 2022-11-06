@@ -1,40 +1,46 @@
 {{ define "post/content" }}
   {{- $mf2 := .Helper }}
+  {{ $rating := $mf2.Int "rating" }}
+  {{ $readStatus := index .Properties "read-status" }}
 
-  {{ with $mf2.Int "rating" }}
-    <p>
-      <data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ stars . 5 }}</data>
-    </p>
-  {{ end }}
+  {{ if or .Content $rating $readStatus }}
+    <div class='copy e-content'>
+      {{ with $rating }}
+        <p>
+          <data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ stars . 5 }}</data>
+        </p>
+      {{ end }}
 
-  {{- with .Content }}{{ md . }}{{ end -}}
+      {{- with .Content }}{{ md . }}{{ end -}}
 
-  {{ with index .Properties "read-status" }}
-    {{ if gt (len .) 1 }}
-      <p><strong>Reading Progress</strong></p>
+      {{ with $readStatus }}
+        {{ if gt (len .) 1 }}
+          <p><strong>Reading Progress</strong></p>
 
-      <ul>
-        {{ range . }}
-        <li>
-          {{ if eq .status "to-read" }}
-            📚 Want to read
-          {{ else if eq .status "finished" }}
-            📕 Finished
-          {{ else if eq .status "reading" }}
-            {{ $page := index . "page" }}
-            {{ $percentage := index  . "percentage" }}
-            {{ if $page }}
-              📖 On page {{ $page }}
-            {{ else if $percentage }}
-              📖 Read {{ $percentage }}%
-            {{ else }}
-              📖 Reading
+          <ul>
+            {{ range . }}
+            <li>
+              {{ if eq .status "to-read" }}
+                📚 Want to read
+              {{ else if eq .status "finished" }}
+                📕 Finished
+              {{ else if eq .status "reading" }}
+                {{ $page := index . "page" }}
+                {{ $percentage := index  . "percentage" }}
+                {{ if $page }}
+                  📖 On page {{ $page }}
+                {{ else if $percentage }}
+                  📖 Read {{ $percentage }}%
+                {{ else }}
+                  📖 Reading
+                {{ end }}
+              {{ end }}
+              {{ with .date }}<small>on {{ dateFormat . "02 Jan 2006 15:04 MST" }}</small>{{ end }}
+            </li>
             {{ end }}
-          {{ end }}
-          {{ with .date }}<small>on {{ dateFormat . "02 Jan 2006 15:04 MST" }}</small>{{ end }}
-        </li>
+          </ul>
         {{ end }}
-      </ul>
-    {{ end }}
+      {{ end }}
+    </div>
   {{ end }}
 {{ end }}

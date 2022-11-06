@@ -9,7 +9,7 @@
         <div class='copy p-summary'>{{ md . }}</div>
       {{ end }}
     {{ else }}
-      <div class='copy e-content'>{{ include "post/content" . }}</div>
+      {{ include "post/content" . }}
     {{ end }}
 
     {{ include "post/media" . }}

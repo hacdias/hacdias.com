@@ -6,7 +6,7 @@
   {{ $type := .Helper.PostType }}
   <article class='{{ if ne $type "article" }}card {{ end }}h-entry'>
     {{ include "post/header" . }}
-    <div class='copy e-content'>{{ include "post/content" . }}</div>
+    {{ include "post/content" . }}
     {{ include "post/media" . }}
     {{ include "post/footer" . }}
   </article>
