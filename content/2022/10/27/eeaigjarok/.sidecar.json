@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-27T13:54:00+01:00",
+      "content": "Your first Donut Shop!",
+      "url": "https://ownyourswarm.p3k.io/checkin/635a7f6860a4540c111c26eb/3fdbd182febc610e60646c27026dee2a",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-27T13:54:00+01:00",
+      "content": "Your first check-in at Crush Doughnuts!",
+      "url": "https://ownyourswarm.p3k.io/checkin/635a7f6860a4540c111c26eb/3c782352c406ad006e66943ec987bfea",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0ead89eafd5ac439f69ab51d78fe661d06f870176c2cc89957eb8687ecf835b8.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-27T13:54:00+01:00",
+      "content": "Jelly Rowland sticker bonus!",
+      "url": "https://ownyourswarm.p3k.io/checkin/635a7f6860a4540c111c26eb/28662f175a9fae734a134f90a87903c8",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

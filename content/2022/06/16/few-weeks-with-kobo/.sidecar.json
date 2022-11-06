@@ -1,0 +1,20 @@
+{
+  "targets": [
+    "https://hacdias.com/reads/summary#finished",
+    "https://gl.kobobooks.com/products/kobo-clara-hd",
+    "https://www.evehome.com/en/eve-room"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "url": "https://seblog.nl/"
+      },
+      "published": "2022-06-16T18:55:47Z",
+      "content": "Seb vindt A Few Weeks With a Kobo van Henrique Dias leuk.",
+      "url": "https://seblog.nl/2022/06/16/1/like",
+      "type": "like"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T17:23:55+02:00",
+      "content": "Your first check-in at Colonna Marianna!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321f20bfcd91a7caf490636/09557ebba8ef5693c93f981f804ee78b",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T17:23:55+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321f20bfcd91a7caf490636/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T13:50:47+02:00",
+      "content": "First check-in in Genderbeemd.",
+      "url": "https://ownyourswarm.p3k.io/checkin/616abc97a853264aa69e7fe8/d11dbf3acf4b44435fe371ea143fd625",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T13:50:47+02:00",
+      "content": "Your first check-in at VanBerlo!",
+      "url": "https://ownyourswarm.p3k.io/checkin/616abc97a853264aa69e7fe8/e86538f9aae78f91ee545143af24dc54",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T13:50:47+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/616abc97a853264aa69e7fe8/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

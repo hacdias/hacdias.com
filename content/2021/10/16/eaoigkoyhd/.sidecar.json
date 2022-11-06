@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T12:57:45+02:00",
+      "content": "Your first check-in at MU @ Strijp!",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ab02913c06c7779cd7c62/bf965fda1b7c3fb8c826ed0f280c5c26",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T12:57:45+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ab02913c06c7779cd7c62/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T12:57:45+02:00",
+      "content": "Your first Art Gallery!",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ab02913c06c7779cd7c62/91ac2f037f0faf8d65383d4be9cc4cb4",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

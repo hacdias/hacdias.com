@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T17:58:56+02:00",
+      "content": "Your first check-in at Milan Cathedral!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e340f2893c29792fcab2/fb8083f7032ac95e3569d3204e3e828e",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T17:58:56+02:00",
+      "content": "There's a lot going on inside Milan Cathedral! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e340f2893c29792fcab2/23e0a32b1e3d55b337295d5e46e749a1",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T17:58:56+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e340f2893c29792fcab2/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T18:02:49+02:00",
+      "content": "Wow! That's 10 check-ins at Historic Sites!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321fb299f271a31f20ba347/cd26f0cba61cc9340d440b99dd98f808",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T18:02:49+02:00",
+      "content": "Your first check-in at Colosseum!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321fb299f271a31f20ba347/59bb82f7652f8d2de010589a9bb82c0a",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T18:02:49+02:00",
+      "content": "There's a lot going on inside Colosseum! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321fb299f271a31f20ba347/8cccf731ba2ecc0304b140370389a45b",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T18:02:49+02:00",
+      "content": "First check-in in Celio.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321fb299f271a31f20ba347/007587af824d6f3b3650e4b1d9a860f8",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

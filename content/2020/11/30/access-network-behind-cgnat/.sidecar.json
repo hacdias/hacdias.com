@@ -1,0 +1,75 @@
+{
+  "targets": [
+    "https://en.wikipedia.org/wiki/Private_network",
+    "https://test-ipv6.com",
+    "https://www.wireguard.com/install/",
+    "https://www.sigmdel.ca/michel/ha/wireguard/wireguard_02_en.html#installing_wg_raspbian",
+    "https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg"
+      },
+      "published": "2021-03-11T20:49:12Z",
+      "content": "Dont forget to open the used Port in the Settings of the VPS!",
+      "url": "https://commentpara.de/comment/818.htm",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg"
+      },
+      "published": "2021-05-09T13:50:03Z",
+      "content": "Are you sure this line is correct: sudo systemctl enable wg-quick@wg0 Perhaps your blogging platform auto-added the link?",
+      "url": "https://commentpara.de/comment/846.htm",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg",
+        "url": "https://hacdias.com"
+      },
+      "published": "2021-10-20T17:58:02Z",
+      "content": "Weirdly enough, the name Tailscale caught my eye and I decided to investigate what it is. I checked their website and it seems that they use Wireguard to do the kind of configuration I explained some time ago. I’m curious: besides the easyness of use, what other advantages do you see on using Tailscale over a manually configured Wireguard network?",
+      "url": "https://hacdias.com/micro/2021/10/tailscale-vs-raw-wireguard/",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
+      },
+      "published": "2022-01-29T22:20:25Z",
+      "content": "I have setup things as described - however after after installing some OS updates on the VPS despite having set the client to work with full tunnel, all traffic that does not go to the local subnet now gets routed to the internet using the VPS ip. Any idea what might cause this?",
+      "url": "https://commentpara.de/comment/955.htm",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
+      },
+      "published": "2022-04-08T14:01:12Z",
+      "content": "In order to get it to work, I had to open the port on my Vultr firewall AND add this line. \"sudo ufw allow 37466/udp\" Working great now! Thanks for the write-up!",
+      "url": "https://commentpara.de/comment/1000.htm",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "codebreaker101",
+        "photo": "https://cdn.hacdias.com/wm/c391227f3e5f84d5b0bc07ba3a620f0ae322950f6d40fe35db5392453e8404d5.png",
+        "url": "https://reddit.com/user/codebreaker101/"
+      },
+      "published": "2021-09-06T10:13:15Z",
+      "content": "I'm looking to create a small box, probably raspberry pi, that I will give to my clients that will allow me to connect to their local network and have access to heir devices on the network. All that they need to do is plugin power and ethernet. It should not require to have any ports open or require any changes to their local network. It should work behind CGNAT. Now, has anybody done this kind of setup? I'm thinking I need to create a tunel between my machine and the raspberry pi using a VPS as a bridge. Edit: I would like to add that I need direct access to their network, not to SSH into to RPI and then from RPI to other devices. My PC - (VPN tunel) - client PC/PLC. I cannot connect to RPI first because I have tools that are windows only. ​ Edit 2: After reading your commends and after a bit of googling I was successful at acheving what I needed by following [this tutorial](https://hacdias.com/articles/2020/11/access-network-behind-cgnat/) This is my final config: [https://pastebin.com/raw/TfYeWFpP](https://pastebin.com/raw/TfYeWFpP) NOTE: this allows one way communication from my pc to client network devices. Client devices cannot initiate communication without changing their routing table. Bookmark: reddit.com/r/selfhosted/c... https://hacdias.com/articles/2020/11/access-network-behind-cgnat/ https://pastebin.com/raw/TfYeWFpP",
+      "url": "https://brid.gy/post/reddit/hacdias/piwnap",
+      "type": "bookmark"
+    }
+  ]
+}

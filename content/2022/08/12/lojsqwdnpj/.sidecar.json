@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-12T13:29:53+02:00",
+      "content": "Wow! That's 5 check-ins at Concert Halls!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62f639b185c32847fe960554/8588870aad1fedea6d1088f726946a4d",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-12T13:29:53+02:00",
+      "content": "You're the mayor!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62f639b185c32847fe960554/aca2ca94a4c8a62cae875b2803e8ec0c",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

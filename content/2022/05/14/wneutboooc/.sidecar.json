@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-14T17:43:11+02:00",
+      "content": "Your last check-in in Brussels was in February '20 at Northern Quarter.",
+      "url": "https://ownyourswarm.p3k.io/checkin/627fce0fad185d0085bc515b/c26028b43c10c8951d398b7d41096fe3",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-14T17:43:11+02:00",
+      "content": "Your first check-in at L'altro Mondo!",
+      "url": "https://ownyourswarm.p3k.io/checkin/627fce0fad185d0085bc515b/98bdba55000fc17fc878630938a12288",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-14T17:43:11+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/627fce0fad185d0085bc515b/5e7d16b41392930f8c314f4ac8a73024",
+      "type": "reply",
+      "swarmCoins": 4
+    }
+  ]
+}

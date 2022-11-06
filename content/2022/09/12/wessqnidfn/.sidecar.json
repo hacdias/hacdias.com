@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-12T22:56:21+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/631f9cf544de5568a23d0f88/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-12T22:56:21+02:00",
+      "content": "Explorer! It's your first check-in in Italy!",
+      "url": "https://ownyourswarm.p3k.io/checkin/631f9cf544de5568a23d0f88/57d31bb87940e6ced8924907389af1c0",
+      "type": "reply",
+      "swarmCoins": 20
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-12T22:56:21+02:00",
+      "content": "First check-in at Naples International Airport.",
+      "url": "https://ownyourswarm.p3k.io/checkin/631f9cf544de5568a23d0f88/c3dd43b9826d5847807beadf91fb6cee",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af56489a0f954ac6da584a9a636be1b151c3947f427ee27180c3aa61ed9d7e4.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-12T22:56:21+02:00",
+      "content": "845 miles since last check-in",
+      "url": "https://ownyourswarm.p3k.io/checkin/631f9cf544de5568a23d0f88/9dabe5ab57f7dd211a80a1b5a72be968",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-12T22:56:21+02:00",
+      "content": "There's a lot going on inside Naples International Airport! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/631f9cf544de5568a23d0f88/4d8d332176baf1478a5abcf8f47620ba",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

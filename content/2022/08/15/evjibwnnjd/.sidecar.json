@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "https://kandr3s.co/notes/2022-08-15-wlaeo"
+  ],
+  "context": {
+    "author": {
+      "name": "Andrés Cárdenas",
+      "photo": "https://cdn.hacdias.com/wm/773ba94cd9bcf89e7d46c7a20a2fd6399af41857ecffc5883e9720ecea50bd2d.jpg",
+      "url": "https://kandr3s.co"
+    },
+    "published": "2022-08-15T08:59:49+02:00",
+    "content": "I think there’s value in Likes. For me they’re just a way to let the author know I enjoyed their post. In my case they’re not mean to be public so I keep them unlisted. Inspired by your Listens I added a similar section on my website, but it gets one post per month or whenever I mark a song as “Loved” on my music player. As for TV Shows Watches, it might be a good idea to post only about completed seasons?",
+    "url": "https://kandr3s.co/notes/2022-08-15-wlaeo"
+  },
+  "replies": [
+    {
+      "author": {
+        "name": "Andrés Cárdenas",
+        "photo": "https://cdn.hacdias.com/wm/3a62f1ce3dfde938afce5220b941f4ec06f06c1a79729ce6da6d5922b25f1d0f.jpg",
+        "url": "https://kandr3s.co"
+      },
+      "published": "2022-08-16T09:39:13+02:00",
+      "content": "One of the reasons I didn’t add a Listens section earlier was Jekyll was taking too much to generate all the pages in my website, adding the scrobbles would’ve made it unbearable. So what I started doing was manually filtering through the listens and highliting the best albums, if they’re worth listening to, they deserve a post, right? I think to be able to browse your Listens by artist, see your top tracks by that artist and then all the albums, would be amazing. But if you listen to a lot of music this approach would probably deserve its own website I guess. Oh and the deleted post is actually the same post with a correct URL. I recently switched to Jan-Lukas’ GoBlog and it seems I hadn’t setup the correct URL path for notes.",
+      "url": "https://kandr3s.co/notes/2022-08-16-lpyvk",
+      "type": "reply"
+    }
+  ]
+}

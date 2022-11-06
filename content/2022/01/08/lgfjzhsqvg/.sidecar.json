@@ -1,0 +1,29 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-08T13:43:49+01:00",
+      "content": "Explorer! It's your first check-in in Noordwest!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61d987055a95e636b8258969/1448b1e530c36604f2eb3c93777fb8ee",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Alexey Sidelnikov",
+        "photo": "https://cdn.hacdias.com/wm/4842efa001179e047902cf97673dc5dd9ce721244dbbdeb4b3081abc51cad41e.jpg",
+        "url": "https://foursquare.com/user/7687876"
+      },
+      "published": "2022-01-08T13:43:49+01:00",
+      "content": "liked your checkin",
+      "url": "https://ownyourswarm.p3k.io/checkin/61d987055a95e636b8258969/a9ccd5c735ece4f154e1db8d6ead61ac",
+      "type": "like"
+    }
+  ]
+}

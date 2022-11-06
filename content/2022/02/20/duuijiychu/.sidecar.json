@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-20T13:18:35+01:00",
+      "content": "Keep checking in to places inside Hoog Catharijne for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6212319bef84026ced0c36df/f1424352b1d01e798f58bd9938901d20",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/d363c822a4ef769c7541fed0cf071a8d88cdcb70d1074916f15c03c78f5657ed.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-20T13:18:35+01:00",
+      "content": "Hanging out with Isabel and Rodrigo!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6212319bef84026ced0c36df/8e98ca4a9b4d198834b5e4df2b2f6fec",
+      "type": "reply",
+      "swarmCoins": 20
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-20T13:18:35+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6212319bef84026ced0c36df/5e7d16b41392930f8c314f4ac8a73024",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-20T13:18:35+01:00",
+      "content": "First check-in at MediaMarkt.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6212319bef84026ced0c36df/07b7af55a632d5e9d8172a4d83d462a4",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/eca1537dbf6fd6fd7cdcb55e498f3dd21b8175a98f1e1272347d76ef33b3f8ee.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-03T12:52:50+01:00",
+      "content": "\"Every election is determined by the people that show up.\" -- Larry J. Sabato",
+      "url": "https://ownyourswarm.p3k.io/checkin/61827812db18a164655e97a8/f9100b1b5fd10c758a27ce83b2c5a9de",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-03T12:52:50+01:00",
+      "content": "You're the mayor!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61827812db18a164655e97a8/aca2ca94a4c8a62cae875b2803e8ec0c",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

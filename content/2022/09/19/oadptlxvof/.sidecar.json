@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T14:24:10+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63285f6af2893c29794231af/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T14:24:10+02:00",
+      "content": "That's 7 straight days at Plazas. You set a new record!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63285f6af2893c29794231af/4e7efeea7c7e66d43586aed8d3a3d715",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T14:24:10+02:00",
+      "content": "First check-in at Campo dell'Arsenale Venezia.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63285f6af2893c29794231af/7d0c9de8b4f5ded1634aaf9466b6c047",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

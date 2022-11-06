@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T09:51:48+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63281f94d893367016874e8a/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T09:51:48+02:00",
+      "content": "Your first check-in at S.Zaccaria Monumento!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63281f94d893367016874e8a/f226064bbb4d77cd241f4de1692dba2c",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

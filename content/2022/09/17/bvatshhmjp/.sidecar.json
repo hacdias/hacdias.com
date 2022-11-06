@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T11:50:49+02:00",
+      "content": "There's a lot going on inside Galleria degli Uffizi! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632598794d70732b798ca479/b8c79385182ae9b9a291cd5ce32095d0",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T11:50:49+02:00",
+      "content": "First Art Gallery check-in in 5 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632598794d70732b798ca479/de59bfc6d8a1dee61740b43ce0f515ed",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T11:50:49+02:00",
+      "content": "Your first check-in at Galleria degli Uffizi!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632598794d70732b798ca479/cfb5d87d95c00eb27f989e787c786a5d",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T11:50:49+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632598794d70732b798ca479/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

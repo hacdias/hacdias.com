@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-26T19:49:12+01:00",
+      "content": "First check-in in Lagoa.",
+      "url": "https://ownyourswarm.p3k.io/checkin/630915a801cd4e68bf64b13b/c3e50ceab32381075c9844641f03dddf",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-26T19:49:12+01:00",
+      "content": "Your first check-in at Fatacil!",
+      "url": "https://ownyourswarm.p3k.io/checkin/630915a801cd4e68bf64b13b/bdc352d5f3eb958fc2c2d0bccf2fc41b",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

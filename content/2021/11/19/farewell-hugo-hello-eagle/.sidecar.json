@@ -1,0 +1,56 @@
+{
+  "targets": [
+    "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo",
+    "https://hacdias.com/2020/10/12/rebuilding-eagle-cms",
+    "http://gohugo.io/",
+    "https://hacdias.com/tags/meta",
+    "https://hacdias.com/2021/02/04/is-it-time-build-cms",
+    "https://hacdias.com/contact",
+    "https://github.com/yuin/goldmark",
+    "https://indieauth.com/",
+    "https://hacdias.com/more",
+    "https://hacdias.com/checkins",
+    "https://hacdias.com/watches",
+    "https://hacdias.com/watches/summary",
+    "https://hacdias.com/reads/summary",
+    "https://github.com/hacdias/eagle/issues/34",
+    "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "jlelse’s Blog",
+        "photo": "https://cdn.hacdias.com/wm/fa4b5eb2bf1c1aebf299223741a18f4a7c53ade6f1b4e2a0276bd5281cc0c22d.png",
+        "url": "https://jlelse.blog"
+      },
+      "published": "2021-11-19T13:14:35+01:00",
+      "content": "Congratulations on the successful launch of Eagle v2, Henrique! 🎉 Welcome to the club of “I have developed my completely own CMS”. 😂",
+      "url": "https://jlelse.blog/micro/2021/11/hacdias-eagle-v2",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Andrés Cárdenas",
+        "photo": "https://cdn.hacdias.com/wm/3a62f1ce3dfde938afce5220b941f4ec06f06c1a79729ce6da6d5922b25f1d0f.jpg",
+        "url": "https://kandr3s.co"
+      },
+      "published": "2021-12-02T17:33:13+01:00",
+      "content": "Two months ago I started implementing IndieWeb principles on my website. I use started because it has been a long process of tinkering with different tools and learning to use technologies I never expected to be using. Naturally, the progress has been slow as I’m often running into problems beyond my skillset. However, by reaching out to other community members I’ve been able to slowly setup things kind of the way I want. Because it’s true that on the IndieWeb everyone assumes you’re a developer, but most people are nice enough to open source their code and even go the extra mile helping with one’s particular use cases. This website’s original goal was for me to have an online presence that was fully controlled by me, but thanks to the IndieWeb it’s turning into my single Internet channel. And how can it not progress in that direction when there’s many inspiring websites on the IndieWebring alone? What started as moving my content back to Jekyll from Tumblr, resulted in personal website that implemented microformats, used a Heroku-hosted micropub endpoint and relied on Quill to post updates. Right now everything I need to post or read online is hosted on my personal domain. I’m using a slightly modified version of this micropub endpoint hosted on Netlify and I’m customizing a micropub client, it’s fully functional at the moment, but I’m still trying to figure out how to get it to store sessions longer (or indefinitely), it deletes them automatically after x time. Self-hosting a social reader like Together or Monocle sounds like the next reasonable step but I love yarr! too much to give up on it, so I finally put everything on a subdomain and this is how I’m posting and reading on the Internet these days: I know there’s a lot to improve in this setup, and who knows, maybe some day, I can build implementations of IndieAuth, Webmentions, etc… or build something as cool as Tanzawa or Eagle, but as of right now, this is something I’m kind of proud of and felt like that was worth sharing here.",
+      "url": "https://kandr3s.co/post/indieweb-is-the-way",
+      "type": "mention"
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "url": "https://seblog.nl/"
+      },
+      "published": "2021-11-19T08:30:05Z",
+      "content": "Seb vindt Farewell, Hugo! Hello, Eagle van Henrique Dias leuk.",
+      "url": "https://seblog.nl/2021/11/19/1/like",
+      "type": "like"
+    }
+  ]
+}

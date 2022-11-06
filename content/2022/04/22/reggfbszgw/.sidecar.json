@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T09:19:46+01:00",
+      "content": "First check-in in Marylebone.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62626522042f810960810567/d3553e2015e1c647f021d3c5d94bda30",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T09:19:46+01:00",
+      "content": "Your first check-in at Leon!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62626522042f810960810567/b9112b4c632a92d0af9e822f03219245",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T09:19:46+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62626522042f810960810567/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

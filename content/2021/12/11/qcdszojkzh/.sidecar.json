@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-11T14:52:43+01:00",
+      "content": "Your first check-in at Lab-1!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61b4ad2b6a81cb234899951c/20e9d5ba9c4a86c0bd69fad67666ba91",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/64e525b3effc2f5928373b387d4375eaa857c45a29e6d620994963fbedbfa7c4.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-11T14:52:43+01:00",
+      "content": "Big Poppy sticker bonus!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61b4ad2b6a81cb234899951c/f9b3a1ebcb4a8af39fccdd45bd78068a",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-11T14:52:43+01:00",
+      "content": "First Movie Theater check-in in one year!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61b4ad2b6a81cb234899951c/f1f0de64c9f39050a6eb0e27e5fd2e5d",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

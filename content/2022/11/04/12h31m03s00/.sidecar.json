@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-04T12:31:03+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6364f7f7664df26018614612/5e7d16b41392930f8c314f4ac8a73024",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/20737f86f80c3fcd5367a6fda8cc1c81975d5e1ee7c14c43d7bdd45d328241d5.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-04T12:31:03+01:00",
+      "content": "You're gonna need a frame for that photo.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6364f7f7664df26018614612/6a299c8fba8a3042611cddda1e707926",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-04T12:31:03+01:00",
+      "content": "Your first check-in at Stadsbakkerij De Diamanten Ring!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6364f7f7664df26018614612/7cdd458de724ac6117046c920d82131e",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ]
+}

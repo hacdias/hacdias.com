@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-13T13:49:33+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63206e4d46499660d09c43ff/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-13T13:49:33+02:00",
+      "content": "First Italian Restaurant check-in in 5 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63206e4d46499660d09c43ff/62624b0b459ac5cbfb5a645d355cbade",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-13T13:49:33+02:00",
+      "content": "Your first check-in at Mercato Pompeiano!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63206e4d46499660d09c43ff/6481b678e89869f494eb1f08bd1ab0eb",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

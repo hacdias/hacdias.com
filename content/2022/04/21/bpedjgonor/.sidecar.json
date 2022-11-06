@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T19:57:27+01:00",
+      "content": "Keep checking in to places inside London St Pancras International Railway Station for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261a917919a851dbae177bb/8c79215f3c9c0494083e0c74f2bbf4cf",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T19:57:27+01:00",
+      "content": "Explorer! It's your first check-in in United Kingdom!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261a917919a851dbae177bb/98ee57dab6ad1cbf74b3ae2ad8b11981",
+      "type": "reply",
+      "swarmCoins": 20
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T19:57:27+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261a917919a851dbae177bb/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T19:57:27+01:00",
+      "content": "First check-in at London St Pancras International Eurostar Terminal.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261a917919a851dbae177bb/3f90392efc2e7c40e983f1cdb53ca562",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

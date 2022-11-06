@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T12:12:48+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632ae3a0834dca4b9dd2f8f9/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T12:12:48+02:00",
+      "content": "Your first Library!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632ae3a0834dca4b9dd2f8f9/efa2d7c6f319e12b8e9f171efcdf6f93",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T12:12:48+02:00",
+      "content": "Your first check-in at Biblioteca Nazionale Braidense!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632ae3a0834dca4b9dd2f8f9/02bda218f9b98f77ad9f884b4447192b",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T12:12:48+02:00",
+      "content": "Keep checking in to places inside Palazzo di Brera for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632ae3a0834dca4b9dd2f8f9/6141d27484222e1fddc48a40663f57f1",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

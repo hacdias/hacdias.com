@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-07T22:45:09+02:00",
+      "content": "Your last check-in in Stratumseind was in June at Down Town Gourmet Market.",
+      "url": "https://ownyourswarm.p3k.io/checkin/615f5c55d7126662bfd4d1ce/ab346ffb4cef76fbf9edb2ffae4c289f",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-07T22:45:09+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/615f5c55d7126662bfd4d1ce/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-07T22:45:09+02:00",
+      "content": "Your first check-in at Villa Fiesta!",
+      "url": "https://ownyourswarm.p3k.io/checkin/615f5c55d7126662bfd4d1ce/b83f6319272828826d0b1689562d4f7f",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

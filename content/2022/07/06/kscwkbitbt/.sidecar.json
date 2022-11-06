@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-06T18:51:56+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c5bdac87fc8e04c1e3bce6/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-06T18:51:56+02:00",
+      "content": "Your first Diner!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c5bdac87fc8e04c1e3bce6/2b8d9c5352dc5a0a546734bc9a782c7b",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-06T18:51:56+02:00",
+      "content": "Your first check-in at Mood Food \u0026 Drinks!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c5bdac87fc8e04c1e3bce6/943384863edac3bc3481c993b220d3fa",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

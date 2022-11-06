@@ -1,0 +1,11 @@
+{
+  "context": {
+    "author": {
+      "name": "kpurdon",
+      "url": "https://www.reddit.com/u/kpurdon"
+    },
+    "published": "2016-10-21T21:07:55Z",
+    "content": "https://github.com/kpurdon/beercellar is a thing I've been hacking on most recently. It's a complex enough http API that project structure matters.",
+    "url": "https://www.reddit.com/r/golang/comments/58pg6q/which_is_the_best_way_to_organize_go_code/d92ajzw/"
+  }
+}

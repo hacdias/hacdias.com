@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T11:02:03+02:00",
+      "content": "First Castle check-in in one year!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321988bed44c5233339a10d/83d219924990dc506061dbcdd9173bb0",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T11:02:03+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321988bed44c5233339a10d/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T11:02:03+02:00",
+      "content": "There's a lot going on inside Castel Sant'Elmo! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321988bed44c5233339a10d/86b4843e0f8d446f40bf5722ec75c789",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T11:02:03+02:00",
+      "content": "Your first check-in at Castel Sant'Elmo!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321988bed44c5233339a10d/7d3cb0a9ef0af33e69bdba85e6f3ac40",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

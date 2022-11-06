@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-21T14:39:49+01:00",
+      "content": "Welcome back! You haven't checked in to Park since June.",
+      "url": "https://ownyourswarm.p3k.io/checkin/619a4c2581170b78734b5be3/15619323a62c1b0a3fd31e4397d19b02",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-21T14:39:49+01:00",
+      "content": "First Field check-in in 3 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/619a4c2581170b78734b5be3/fb82efc49af12937faa674d4a5a03ab3",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-21T14:39:49+01:00",
+      "content": "Your last check-in in Schrijversbuurt was in June at Park.",
+      "url": "https://ownyourswarm.p3k.io/checkin/619a4c2581170b78734b5be3/be889e673b7361ea8236450c804cf656",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

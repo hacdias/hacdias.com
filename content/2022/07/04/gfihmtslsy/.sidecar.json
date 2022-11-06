@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-04T22:09:27+02:00",
+      "content": "Welcome back! You haven't checked in to The Trafalgar Pub since November '21.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c348f7e6ebcb469a8e7e25/e7a96d63890add62b19b68d529a5e955",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/4f5d9a9d331b0b7247e4b4b73c1fe39ebd0360d7d048e69a0bc2ebeafead569e.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-04T22:09:27+02:00",
+      "content": "Thanks for sharing.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c348f7e6ebcb469a8e7e25/c5e6ea63209f29b63a4ef491a6f21c67",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-04T22:09:27+02:00",
+      "content": "First Pub check-in in 2 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c348f7e6ebcb469a8e7e25/11f5b0b243c6a61b64570492b53be8c0",
+      "type": "reply",
+      "swarmCoins": 6
+    }
+  ]
+}

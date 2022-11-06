@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-30T12:25:01Z",
+      "content": "There's a lot going on inside Amoreiras Shopping Center! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/635e6d1da90f302f49b396d2/6beb7b3704bdbe447f3e5496f13271f2",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-30T12:25:01Z",
+      "content": "First check-in in Santa Isabel.",
+      "url": "https://ownyourswarm.p3k.io/checkin/635e6d1da90f302f49b396d2/a764fcc9e0407a02fbe3a109c20b9ddd",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-30T12:25:01Z",
+      "content": "Your first check-in at Amoreiras Shopping Center!",
+      "url": "https://ownyourswarm.p3k.io/checkin/635e6d1da90f302f49b396d2/fa85da4c9f985e87aaa33a5bf6538bec",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

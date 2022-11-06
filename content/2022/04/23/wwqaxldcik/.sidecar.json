@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T21:22:54+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6264601e2ad420447758c49f/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T21:22:54+01:00",
+      "content": "Your first Pier!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6264601e2ad420447758c49f/9ae4dd66ef51f6452a68a3f4a1b0ee30",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T21:22:54+01:00",
+      "content": "Your first check-in at Tower Millennium Pier!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6264601e2ad420447758c49f/3793701b5beaeb3a2fb55c234236e5b0",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T21:22:54+01:00",
+      "content": "First check-in in St. Katharine's and Wapping.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6264601e2ad420447758c49f/e4b65932f7e4bdc958051add6d018aa6",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-21T21:51:48Z",
+      "content": "Wow! You've checked in to Faro Airport 5 times!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61c24c747e16d603910148b2/be3c2a415b5e4e29be4e5f867aa276a8",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-21T21:51:48Z",
+      "content": "You haven't checked in to Faro Airport since August.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61c24c747e16d603910148b2/471ffe60bb499ddd9a2132d22c8e6732",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-21T21:51:48Z",
+      "content": "Your last check-in in Portugal was in August at Faro Airport.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61c24c747e16d603910148b2/47435e8854e152cbfcbb0be1b88613d8",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-21T21:51:48Z",
+      "content": "There's a lot going on inside Faro Airport! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61c24c747e16d603910148b2/eae187495ddada8239e162359a3fcf26",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af56489a0f954ac6da584a9a636be1b151c3947f427ee27180c3aa61ed9d7e4.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-21T21:51:48Z",
+      "content": "You've traveled 1194 miles since your last check-in!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61c24c747e16d603910148b2/4f3558fb0273c5d6144d50b6d4869108",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

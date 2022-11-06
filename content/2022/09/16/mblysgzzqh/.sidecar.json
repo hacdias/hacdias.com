@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-16T09:35:41+02:00",
+      "content": "You only need 2 days to beat your record for 5 days in a row at Train Stations! Give yourself a high five!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6324274ded44c52333839ab5/9e093e46c6c6a1450c4c07264297ade5",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-16T09:35:41+02:00",
+      "content": "There's a lot going on inside Roma Termini Railway Station! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6324274ded44c52333839ab5/b992a98788fe83f61e70610c88381659",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

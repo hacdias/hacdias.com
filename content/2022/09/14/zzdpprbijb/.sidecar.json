@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T16:04:40+02:00",
+      "content": "There's a lot going on inside Roma Termini Railway Station! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321df7883748f1cffdc1769/b992a98788fe83f61e70610c88381659",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T16:04:40+02:00",
+      "content": "Your first check-in at Roma Termini Railway Station!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321df7883748f1cffdc1769/c3bfde3dccb4053443cbe3902c055c99",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-14T16:04:40+02:00",
+      "content": "First check-in in Latium.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6321df7883748f1cffdc1769/b15c667caf8feb02285e04d0dc9cdde2",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

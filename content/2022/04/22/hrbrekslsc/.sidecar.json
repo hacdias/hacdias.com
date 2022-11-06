@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T12:19:55+01:00",
+      "content": "First check-in in South Bank.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62628f5b14d41f2b33d9bdad/125ca1afa160285fb6b38878af62562b",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T12:19:55+01:00",
+      "content": "Your first check-in at Millennium Bridge!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62628f5b14d41f2b33d9bdad/ac1c20c309551f7e5c9a31507e7c45de",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

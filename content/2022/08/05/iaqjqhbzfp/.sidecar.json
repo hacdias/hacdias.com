@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T15:22:11+02:00",
+      "content": "First of your friends to check into Zaanstad!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ed1983e5efee491949f575/3773185bbd8a61375a0e13ca9ecddf7f",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T15:22:11+02:00",
+      "content": "Your first check-in at Zaans Museum!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ed1983e5efee491949f575/273b86f5575e8f586c0d33f2dd7c0cbb",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T15:22:11+02:00",
+      "content": "First check-in in Zaanstad.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ed1983e5efee491949f575/502f8fb4356ac9e387163aa8acfe5129",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T15:22:11+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ed1983e5efee491949f575/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

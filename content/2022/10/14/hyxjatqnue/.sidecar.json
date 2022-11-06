@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-14T17:44:15+02:00",
+      "content": "Your first Brewery!",
+      "url": "https://ownyourswarm.p3k.io/checkin/634983cfb645c75556b5d2d3/a99f06c14a14d90cc277430b8cf3cde5",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-14T17:44:15+02:00",
+      "content": "Your first check-in at Stadsbrouwerij Eindhoven 100 Watt!",
+      "url": "https://ownyourswarm.p3k.io/checkin/634983cfb645c75556b5d2d3/e2bccf7bfc8123f8f2323cffb5be7dd9",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-21T14:36:29+01:00",
+      "content": "Holding down your court.",
+      "url": "https://ownyourswarm.p3k.io/checkin/619a4b5d63783f00c0e5f5a9/52b869e87e19639a679baf963b10f63d",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-21T14:36:29+01:00",
+      "content": "You haven't checked in to Lex en Edo Hornemannplantsoen since June.",
+      "url": "https://ownyourswarm.p3k.io/checkin/619a4b5d63783f00c0e5f5a9/1d29457c49108c68fc60ccbba7482b3e",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

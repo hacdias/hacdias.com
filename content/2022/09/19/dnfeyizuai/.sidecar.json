@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T13:58:22+02:00",
+      "content": "There's a lot going on inside Giardini della Biennale! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6328595eb5411a4b98799245/9874eec7159321b6c32cbfa5e583365e",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T13:58:22+02:00",
+      "content": "Your first check-in at Giardini della Biennale!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6328595eb5411a4b98799245/048c762cc158f9bd3a16f95e476d651b",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T13:58:22+02:00",
+      "content": "Wow! That's 5 check-ins at Sculpture Gardens!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6328595eb5411a4b98799245/793a519a2e49baf691c886ad2435a995",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T13:58:22+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6328595eb5411a4b98799245/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

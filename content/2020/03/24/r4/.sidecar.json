@@ -1,0 +1,15 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2020/03/lifethroughlenses/"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile-128.jpg",
+      "url": "https://jlelse.dev/"
+    },
+    "published": "2020-03-23T13:46:08Z",
+    "content": "I like to look at nice photos. And if the photographer publishes them on his own site (in IndieWeb style), I like it even more. I am looking forward to see more photos in your series “#LifeThroughLenses, Henrique! 😍👍",
+    "url": "https://jlelse.blog/micro/2020/03/lifethroughlenses/"
+  }
+}

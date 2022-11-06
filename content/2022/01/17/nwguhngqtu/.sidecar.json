@@ -1,0 +1,53 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-17T15:25:16+01:00",
+      "content": "First Garden check-in in 3 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61e57c4c01e41170c42ca023/216806bd27ed8a8f06f06a3da6e716ed",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-17T15:25:16+01:00",
+      "content": "Your first check-in at Paleistuin!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61e57c4c01e41170c42ca023/21b9bafa0079a7db9b35249c6c330825",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-17T15:25:16+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61e57c4c01e41170c42ca023/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Alexey Sidelnikov",
+        "photo": "https://cdn.hacdias.com/wm/4842efa001179e047902cf97673dc5dd9ce721244dbbdeb4b3081abc51cad41e.jpg",
+        "url": "https://foursquare.com/user/7687876"
+      },
+      "published": "2022-01-17T15:25:16+01:00",
+      "content": "liked your checkin",
+      "url": "https://ownyourswarm.p3k.io/checkin/61e57c4c01e41170c42ca023/690dbf575bbade3c96b063af37aa895a",
+      "type": "like"
+    }
+  ]
+}

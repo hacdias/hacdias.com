@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T11:04:33+02:00",
+      "content": "First River check-in in 2 years!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632982214a5e005682b4a39e/948b13b7bc055081b253339e0e68ea25",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T11:04:33+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632982214a5e005682b4a39e/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T11:04:33+02:00",
+      "content": "Your first check-in at Rio dei Mendicanti!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632982214a5e005682b4a39e/67b93ea8e964601d56ecb5f03435f803",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

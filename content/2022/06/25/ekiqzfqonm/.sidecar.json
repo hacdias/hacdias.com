@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-25T11:48:00+02:00",
+      "content": "First Bakery check-in in 2 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62b6d9d0235ba25942b952e3/5f6a165f54ce48f1eb81769404a59213",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-25T11:48:00+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62b6d9d0235ba25942b952e3/5e7d16b41392930f8c314f4ac8a73024",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-25T11:48:00+02:00",
+      "content": "Your first check-in at Bakkertje Bol!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62b6d9d0235ba25942b952e3/2338561422793955eac3d3f165e58bcb",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ]
+}

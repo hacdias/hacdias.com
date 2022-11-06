@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c0242a04dbdd92dc9998d539339c3eb09b1fb7978d1408d7a0e0b20c0637a7fe.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-16T13:43:06+02:00",
+      "content": "Fun Fact! The chances of making two holes-in-one in a round of golf are 1 in 67 million. Feeling lucky?",
+      "url": "https://ownyourswarm.p3k.io/checkin/6324614a4ca6b801a9fbd2f3/bc3deacde16607eacd071c51509a9831",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af56489a0f954ac6da584a9a636be1b151c3947f427ee27180c3aa61ed9d7e4.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-16T13:43:06+02:00",
+      "content": "164 miles in one day? Sleep well tonight!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6324614a4ca6b801a9fbd2f3/578906a17ada8f6c15859cd09018bf2c",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

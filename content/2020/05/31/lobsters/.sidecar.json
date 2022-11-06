@@ -1,0 +1,40 @@
+{
+  "targets": [
+    "https://lobste.rs?"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/52d33b318f328813bb817be4285bc5cf595ea3d2372cae3a833d30be9752a16d.jpg"
+      },
+      "published": "2020-06-01T07:24:38Z",
+      "content": "Update: already got one! Thanks @jlelse!",
+      "url": "https://hacdias.com/micro/2020/06/lobsters/",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Bi",
+        "photo": "https://cdn.hacdias.com/wm/36aa1542bc8301fd68e46475c52dcdf0696bbd1c049d7cc9a70576579b168e99.jpg",
+        "url": "https://twitter.com/bixamon"
+      },
+      "published": "2020-06-03T17:52:09Z",
+      "content": "can you inviting me ? i'd like to join lobste.rs",
+      "url": "https://twitter.com/bixamon/status/1268239059253473280",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Nyabazar_education",
+        "photo": "https://cdn.hacdias.com/wm/ebb11fa764f44e37c93e19ff5b9b04f6d32664a94a9e916895958541b96ca301.jpg",
+        "url": "https://twitter.com/NyabazarE"
+      },
+      "published": "2020-07-12T11:05:14Z",
+      "url": "https://twitter.com/hacdias/status/1267210269903720454#favorited-by-1260619666621296640",
+      "type": "like"
+    }
+  ]
+}

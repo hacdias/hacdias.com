@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T17:02:41+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ae9910bdea92d0b37fbe5/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T17:02:41+02:00",
+      "content": "Your last check-in in Centrum was in June at Victoriapark.",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ae9910bdea92d0b37fbe5/bdce9baec4968a75fa21e8f2285fca36",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T17:02:41+02:00",
+      "content": "Your first check-in at Beursgebouw!",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ae9910bdea92d0b37fbe5/43ffb3fd83e7d12fa4a19f0b3b502404",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T17:02:41+02:00",
+      "content": "There's a lot going on inside Beursgebouw! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ae9910bdea92d0b37fbe5/9da266fa52f6ddbfc02f35e020b46b67",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

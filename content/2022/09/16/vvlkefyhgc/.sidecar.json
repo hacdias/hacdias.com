@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-16T14:02:44+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632465e4a438d0351af2a5db/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/bbf316066bb2a603b51c3a3011990d533bacf1f4115d4da46c1faf5af4783a07.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-16T14:02:44+02:00",
+      "content": "Earl of Sandwich sticker bonus!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632465e4a438d0351af2a5db/4e521a4d08cf1b04716d3456a1019bd9",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-16T14:02:44+02:00",
+      "content": "Your first check-in at La Focacceria Dei Sani!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632465e4a438d0351af2a5db/5376e70c6424ff8cf0da3a54604f1277",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-16T14:02:44+02:00",
+      "content": "First Sandwich Place check-in in 4 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632465e4a438d0351af2a5db/83a8876cc50a0fda2ca4b064311e583e",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

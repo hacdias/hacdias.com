@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-30T13:39:27Z",
+      "content": "First check-in at Ponte Maat.",
+      "url": "https://ownyourswarm.p3k.io/checkin/635e7e8fc587a648ff65dbdd/ff1b4c259e429a8dfeb3f26d951253e8",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-30T13:39:27Z",
+      "content": "Your last check-in in Santa Maria de Belém was in July '21 at Estação Ferroviária de Belém.",
+      "url": "https://ownyourswarm.p3k.io/checkin/635e7e8fc587a648ff65dbdd/896283a7540869d7207890b09aeddfca",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-30T13:39:27Z",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/635e7e8fc587a648ff65dbdd/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/8f80f21ec3972e4d9d76273609e2d8b27a7471fc01d834b41c145410076c0bee.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-30T13:39:27Z",
+      "content": "Trendsetter! You're one of the first 50 people to check in here!",
+      "url": "https://ownyourswarm.p3k.io/checkin/635e7e8fc587a648ff65dbdd/8a21a6ce2868a9ace5a9418286cc97d5",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ]
+}

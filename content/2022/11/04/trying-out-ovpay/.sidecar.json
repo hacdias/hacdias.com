@@ -1,0 +1,21 @@
+{
+  "targets": [
+    "https://ovpay.nl/",
+    "https://www.hermes.nl/nl/",
+    "https://www.htm.nl/",
+    "https://reisoverzicht.ovpay.nl/"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "url": "https://seblog.nl/"
+      },
+      "published": "2022-11-05T09:16:05Z",
+      "content": "Seb vindt Trying Out OVPay With Hermes and HTM van Henrique Dias leuk.",
+      "url": "https://seblog.nl/2022/11/05/1/like",
+      "type": "like"
+    }
+  ]
+}

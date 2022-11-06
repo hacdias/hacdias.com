@@ -1,0 +1,29 @@
+{
+  "targets": [
+    "https://hacdias.com/private",
+    "https://github.com/hacdias/indieauth"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "url": "https://seblog.nl/"
+      },
+      "published": "2021-11-23T17:49:15Z",
+      "content": "Seb vindt een post van Henrique Dias leuk.",
+      "url": "https://seblog.nl/2021/11/23/1/like",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "Barry Frost",
+        "photo": "https://cdn.hacdias.com/wm/383c80e7bedec43f1d730c5b2b7e115f3ddea7f0c1446393b8dd35eec4f0b2f5.jpg",
+        "url": "https://barryfrost.com/"
+      },
+      "published": "2021-11-23T20:50:38Z",
+      "url": "https://barryfrost.com/2021/11/i3a14wofmpo",
+      "type": "like"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Vic",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
+      },
+      "published": "2022-06-10T11:23:51Z",
+      "content": "There's a setting to show songs that are unavailable right now (due to licensing changes etc..). When enabled, the songs stay in your list but appear greyed out. By default the option is turned off and the songs simply disappear. Maybe that's what you're seeing?",
+      "url": "https://commentpara.de/comment/1045.htm",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Ece",
+        "photo": "https://cdn.hacdias.com/wm/610da2b54cebfc5bd3983eac3c15897d4f613e2d0d0455c770cb6925ce95684c.jpg",
+        "url": "https://twitter.com/poetsofberlin"
+      },
+      "published": "2022-06-09T23:07:49Z",
+      "url": "https://brid.gy/like/twitter/hacdias/1534833711857950726/1503067285166112774",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "Chris",
+        "photo": "https://cdn.hacdias.com/wm/d55020685e61ad71750b00aa0dc1e06acb7b14b8b713797d6f8085aace60cb98.jpg",
+        "url": "https://twitter.com/christiaanb2351"
+      },
+      "published": "2022-06-10T07:07:00Z",
+      "url": "https://brid.gy/like/twitter/hacdias/1534833711857950726/1349856943310065664",
+      "type": "like"
+    }
+  ]
+}

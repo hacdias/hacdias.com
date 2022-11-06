@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T14:33:40+01:00",
+      "content": "First check-in in Primrose Hill.",
+      "url": "https://ownyourswarm.p3k.io/checkin/626400349069eb437ff3b0f7/910d0b93e8e170a52c7b9971bc8ac86c",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T14:33:40+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/626400349069eb437ff3b0f7/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T14:33:40+01:00",
+      "content": "Your first check-in at St Mark's Church!",
+      "url": "https://ownyourswarm.p3k.io/checkin/626400349069eb437ff3b0f7/795d01df8f097ff263679a901876af2b",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-19T13:04:29+01:00",
+      "content": "New Mayor! That crown looks better on you!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6210dccd6f997768fd15bb86/6909265c0684c740c957703b16072e20",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-19T13:04:29+01:00",
+      "content": "That's 4 straight weeks at Bookstores. You set a new record!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6210dccd6f997768fd15bb86/3a88b4ffd1f0f27bcf6323b85520ca2b",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-19T13:04:29+01:00",
+      "content": "There's a lot going on inside Boekhandel Van Piere! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6210dccd6f997768fd15bb86/1328a8b81f4d593f0d680e84ec65ef69",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

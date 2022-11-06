@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T14:16:19+02:00",
+      "content": "Heyo! That's 3 days in a row at Food \u0026 Drink Shops! You're only 3 days away from beating Rodrigo Sousa. Get after it!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632b0093b58e051321d562f5/06fff624f1a1282bd0d2d5cf7eed4020",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T14:16:19+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632b0093b58e051321d562f5/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T14:16:19+02:00",
+      "content": "Your first check-in at this Nespresso!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632b0093b58e051321d562f5/f7cc39aac442a6c6d1f42ac604f13cfb",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

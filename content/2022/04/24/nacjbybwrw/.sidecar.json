@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-24T15:14:41+01:00",
+      "content": "There's a lot going on inside Harrods! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62655b518ce0fa27db960aee/7856bcca7fc1a1a0df27ad26881c2490",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-24T15:14:41+01:00",
+      "content": "Your first check-in at Harrods!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62655b518ce0fa27db960aee/3203e54b798913cb2a5aee2094bfe76f",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ]
+}

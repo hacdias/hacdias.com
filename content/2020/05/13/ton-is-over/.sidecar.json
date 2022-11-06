@@ -1,0 +1,37 @@
+{
+  "targets": [
+    "https://jlelse.blog/links/2020/05/ton-cancelled/"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile-128.jpg",
+      "url": "https://jlelse.dev/"
+    },
+    "published": "2020-05-12T17:45:27Z",
+    "content": "Telegram wanted to launch a cryptocurrency, but now they stopped that experiment because a US court stopped them and the US has too much power they rather didn’t want to feel.I am writing this post to officially announce that Telegram’s active involvement with TON is over.https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12",
+    "url": "https://jlelse.blog/links/2020/05/ton-cancelled/"
+  },
+  "interactions": [
+    {
+      "author": {
+        "name": "Pedro Teixeira",
+        "photo": "https://cdn.hacdias.com/wm/734547e8a2ceea06f913bf7f70e0b2bc49cabe286946a4529198d00e43a1fcde.jpg",
+        "url": "https://twitter.com/pgte"
+      },
+      "published": "2020-05-13T07:51:08Z",
+      "url": "https://twitter.com/hacdias/status/1260471841107345408#favorited-by-16401507",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "Toby Allen",
+        "photo": "https://cdn.hacdias.com/wm/018c5106cf1a203c978de204504ef7fda1796ac00331dc052b125cc42f95ffb7.jpg",
+        "url": "https://twitter.com/toflidium"
+      },
+      "published": "2020-05-13T21:35:48Z",
+      "url": "https://twitter.com/hacdias/status/1260471841107345408#favorited-by-526821820",
+      "type": "like"
+    }
+  ]
+}

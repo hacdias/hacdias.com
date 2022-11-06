@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T21:18:11+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63276ef3113766585f416d5c/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T21:18:11+02:00",
+      "content": "Your first check-in at Campanile di San Marco!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63276ef3113766585f416d5c/357ad68843a8609bab9d6c32b9460c16",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T21:18:11+02:00",
+      "content": "Keep checking in to places inside Saint Mark's Square for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63276ef3113766585f416d5c/ad956f1fbe2ae8b76eafb8128e6991d3",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

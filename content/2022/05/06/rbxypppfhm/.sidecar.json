@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-06T14:18:51+02:00",
+      "content": "First check-in in Lisse.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6275122bec40d6385d6063ba/f98c671b1761b3015fa3da3687b564a9",
+      "type": "reply",
+      "swarmCoins": 12
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-06T14:18:51+02:00",
+      "content": "Your first check-in at Keukenhof!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6275122bec40d6385d6063ba/6b57f9fd245dee5e315e86950f811971",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-06T14:18:51+02:00",
+      "content": "First of your friends to check into Lisse!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6275122bec40d6385d6063ba/5699c00597e8647a383da4e7fb7eac3a",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-06T14:18:51+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6275122bec40d6385d6063ba/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-06T14:18:51+02:00",
+      "content": "There's a lot going on inside Keukenhof! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6275122bec40d6385d6063ba/c61a957759ed6eaa6cd6a1d51bdd9aef",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

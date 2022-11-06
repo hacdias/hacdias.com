@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T17:39:20+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62642bb8c660bf2ad55477e5/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T17:39:20+01:00",
+      "content": "First check-in in King's Cross.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62642bb8c660bf2ad55477e5/f9b3e3afab3d5fd9065bf5681501c8ac",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T17:39:20+01:00",
+      "content": "First Pub check-in in 5 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62642bb8c660bf2ad55477e5/565992a50a5613815c8737def50ef48c",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-23T17:39:20+01:00",
+      "content": "Your first check-in at this Greene King!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62642bb8c660bf2ad55477e5/2ec5cd4e9f248f948c4d558a81e816f8",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

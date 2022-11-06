@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-15T09:54:22+02:00",
+      "content": "First Salon / Barbershop check-in in 2 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62f9fbae3f832901f2b38a08/e508c675ee32527da2a61c176df14835",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-15T09:54:22+02:00",
+      "content": "New Mayor! That crown looks better on you!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62f9fbae3f832901f2b38a08/6909265c0684c740c957703b16072e20",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-15T09:54:22+02:00",
+      "content": "It's been 2 months since you've checked in to Brainwash.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62f9fbae3f832901f2b38a08/125b639252c18b1b43139ba0a637c475",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-15T09:54:22+02:00",
+      "content": "Wow! That's 5 check-ins at Salons / Barbershops!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62f9fbae3f832901f2b38a08/837fc4a49183b19eb2434ef0a88e4c2d",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-15T09:54:22+02:00",
+      "content": "Your last check-in in Gestel was over 2 months ago at Brainwash.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62f9fbae3f832901f2b38a08/7d6e635c51b9495ebea525111ed35adc",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

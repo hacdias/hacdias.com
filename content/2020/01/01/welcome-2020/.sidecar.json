@@ -1,0 +1,37 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "dietrich",
+        "photo": "https://cdn.hacdias.com/wm/a2610f84987064d4fbeaf92c7c5ce3c81fb6f9081e92ee0cce78d69e38924b56.jpg",
+        "url": "https://twitter.com/dietrich"
+      },
+      "published": "2020-01-01T02:19:21Z",
+      "content": "I'VE GOT SIX HOURS LEFT DON'T RUSH ME.",
+      "url": "https://twitter.com/dietrich/status/1212196581937565696",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "dietrich",
+        "photo": "https://cdn.hacdias.com/wm/a2610f84987064d4fbeaf92c7c5ce3c81fb6f9081e92ee0cce78d69e38924b56.jpg",
+        "url": "https://twitter.com/dietrich"
+      },
+      "published": "2020-01-01T09:08:17Z",
+      "url": "https://twitter.com/hacdias/status/1212163359480700928#favorited-by-799574",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "gui is my name",
+        "photo": "https://cdn.hacdias.com/wm/3fc1ceb31285895ed11d5201c19b1130d1e1d211af28507e6c43973574fe3bec.jpg",
+        "url": "https://twitter.com/wutafuckinhoe"
+      },
+      "published": "2020-01-22T09:23:58Z",
+      "url": "https://twitter.com/hacdias/status/1212163359480700928#favorited-by-708447943733420032",
+      "type": "like"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-22T07:21:35+02:00",
+      "content": "First check-in in Orio al Serio.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632bf0dfed9fc8772411dbab/62f0deee70be42b0faccc415407779e0",
+      "type": "reply",
+      "swarmCoins": 12
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-22T07:21:35+02:00",
+      "content": "Your first check-in at Bergamo Orio al Serio Airport!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632bf0dfed9fc8772411dbab/0f5aa5a2a064bd1985adcd797b7c9779",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-22T07:21:35+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632bf0dfed9fc8772411dbab/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-22T07:21:35+02:00",
+      "content": "First of your friends to check into Orio al Serio!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632bf0dfed9fc8772411dbab/fbbbcef3535a4041ca1014545a0d4a7e",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-22T07:21:35+02:00",
+      "content": "There's a lot going on inside Bergamo Orio al Serio Airport! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632bf0dfed9fc8772411dbab/2a9dbb4232bacee10db0649ec3c80f13",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

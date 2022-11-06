@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T12:44:33+02:00",
+      "content": "Your first check-in at New Art Cafe!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632aeb110647104bbc6c06a7/80f479b8526761ab3dfe1b22c7d2cf7a",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T12:44:33+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632aeb110647104bbc6c06a7/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    }
+  ]
+}

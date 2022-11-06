@@ -1,0 +1,27 @@
+{
+  "targets": [
+    "https://twitter.com/malikpiara/status/1487824765473759232?s=12"
+  ],
+  "context": {
+    "author": {
+      "name": "Malik",
+      "photo": "https://cdn.hacdias.com/wm/d998995707dca2ad699e8bec3f3f710b647cffe67bd20bc35c2c11e356c979f4.jpg",
+      "url": "https://twitter.com/malikpiara"
+    },
+    "published": "2022-01-30T16:27:21Z",
+    "content": "Impersonation is becoming increasingly predominant. Twitter should work on a way of letting anyone verify their identity like most digital banks do nowadays.",
+    "url": "https://twitter.com/malikpiara/status/1487824765473759232?s=12"
+  },
+  "interactions": [
+    {
+      "author": {
+        "name": "Malik",
+        "photo": "https://cdn.hacdias.com/wm/a88d77e209d84b62842071096c8be32183df89eba3fcca2a24a098dccb9afdd3.jpg",
+        "url": "https://twitter.com/malikpiara"
+      },
+      "published": "2022-01-30T20:14:56Z",
+      "url": "https://brid.gy/like/twitter/hacdias/1487867614072389637/1028353082206367744",
+      "type": "like"
+    }
+  ]
+}

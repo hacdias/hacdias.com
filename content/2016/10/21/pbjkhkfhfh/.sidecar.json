@@ -1,0 +1,11 @@
+{
+  "context": {
+    "author": {
+      "name": "kpurdon",
+      "url": "https://www.reddit.com/u/kpurdon"
+    },
+    "published": "2016-10-21T20:44:36Z",
+    "content": "There is no official standard. The first post you linked is probably the best starting point. I have developed my own \"standard package layout\" that is more or less the same as the first linked post w/ some minor tweaks. FWIW... this is probably one of the top 5 questions asked by newcomers to Go.",
+    "url": "https://www.reddit.com/r/golang/comments/58pg6q/which_is_the_best_way_to_organize_go_code/d929jsw/"
+  }
+}

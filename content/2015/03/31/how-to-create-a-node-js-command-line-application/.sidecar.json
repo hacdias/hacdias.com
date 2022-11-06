@@ -1,0 +1,11 @@
+{
+  "targets": [
+    "https://nodejs.org/",
+    "http://en.wikipedia.org/wiki/Command-line_interface",
+    "http://en.wikipedia.org/wiki/Metadata",
+    "https://docs.npmjs.com/files/package.json",
+    "https://nodejs.org/api/process.html#process_process",
+    "https://nodejs.org/api/readline.html",
+    "https://www.npmjs.com/package/commander"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T12:23:49+02:00",
+      "content": "Your first check-in at Rosticceria San Bartolomeo!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6328433593e8f8111520001d/fe2ba35ab3554604856c9d212dcf7522",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T12:23:49+02:00",
+      "content": "First Fast Food Restaurant check-in in 4 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6328433593e8f8111520001d/e3d6ac81305fdf3c84d97ac86de1adc0",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-19T12:23:49+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6328433593e8f8111520001d/5e7d16b41392930f8c314f4ac8a73024",
+      "type": "reply",
+      "swarmCoins": 4
+    }
+  ]
+}

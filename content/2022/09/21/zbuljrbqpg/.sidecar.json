@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T09:16:13+02:00",
+      "content": "First Bakery check-in in 2 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632aba3d6398b03d597c0627/5443c472b517ec1941ce24b8f759020d",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T09:16:13+02:00",
+      "content": "Your first check-in at Panificio Vailati!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632aba3d6398b03d597c0627/6d70733368f2b76ce4661b0241b24736",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-21T09:16:13+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632aba3d6398b03d597c0627/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    }
+  ]
+}

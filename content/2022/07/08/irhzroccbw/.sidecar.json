@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-08T12:37:28+02:00",
+      "content": "There's a lot going on inside Leiden Central Railway station! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c808e827dd3c2e5ee8d95e/77299999038e5f43a4e8b8200838859e",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-08T12:37:28+02:00",
+      "content": "Your first check-in at Leiden Central Railway station!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c808e827dd3c2e5ee8d95e/b6c63674cb9adb8daa277557cb694065",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-07-08T12:37:28+02:00",
+      "content": "First check-in in Leiden.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62c808e827dd3c2e5ee8d95e/e4903ce59d01312d0abe23cd7f2f3fa8",
+      "type": "reply",
+      "swarmCoins": 4
+    }
+  ]
+}

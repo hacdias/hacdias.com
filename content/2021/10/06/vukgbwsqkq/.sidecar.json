@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-06T17:53:45+02:00",
+      "content": "7 weeks in a row at Food \u0026 Drink Shops for you! HOLLA!",
+      "url": "https://ownyourswarm.p3k.io/checkin/615dc689e5f2b412494c990c/2185e0dc8b2e980b32b4f4ed8f71ec81",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-06T17:53:45+02:00",
+      "content": "You just hit 7 weeks in a row at Supermarkets. Looks like Rodrigo Sousa is only one week away from topping that. Yikes!",
+      "url": "https://ownyourswarm.p3k.io/checkin/615dc689e5f2b412494c990c/26d23030a8ed0a44d50a03cd0552e8c5",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ]
+}

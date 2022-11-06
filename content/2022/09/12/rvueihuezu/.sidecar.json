@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-12T13:23:05+02:00",
+      "content": "You're still the Mayor. Time to make some rules!",
+      "url": "https://ownyourswarm.p3k.io/checkin/631f169979f996033eb2ddc7/1534d161ab32929749fda54980abf64e",
+      "type": "reply",
+      "swarmCoins": 9
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-12T13:23:05+02:00",
+      "content": "There's a lot going on inside Boekhandel Van Piere! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/631f169979f996033eb2ddc7/c941567039c33cabfafe9a395bf1964e",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

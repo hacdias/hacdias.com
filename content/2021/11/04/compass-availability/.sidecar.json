@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://twitter.com/aaronpk"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "Aaron Parecki",
+        "photo": "https://cdn.hacdias.com/wm/b847ab8bb2b27817abd40d3d472e360b72164c9491fdd6b15cfe72f6344615e0.jpg",
+        "url": "https://twitter.com/aaronpk"
+      },
+      "published": "2021-11-04T12:29:50Z",
+      "content": "It's open source, but I decided I didn't want to host people's GPS data for multiple reasons so I turned off new user accounts on my instance a couple years ago.",
+      "url": "https://twitter.com/aaronpk/status/1456237248941232129",
+      "type": "reply"
+    }
+  ]
+}

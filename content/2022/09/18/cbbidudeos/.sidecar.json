@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c0242a04dbdd92dc9998d539339c3eb09b1fb7978d1408d7a0e0b20c0637a7fe.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T12:28:42+02:00",
+      "content": "Fun Fact! A donkey will sink in quicksand but a mule won’t. Trust us, we tried. We feel pretty terrible about it.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6326f2da40878d247e621446/f100ed3c8cc1fde1aaf8f0851eb832c4",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af56489a0f954ac6da584a9a636be1b151c3947f427ee27180c3aa61ed9d7e4.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T12:28:42+02:00",
+      "content": "52 miles in one day? The world is your oyster!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6326f2da40878d247e621446/c788439cf58e248b05ea6d1e031f1b3d",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

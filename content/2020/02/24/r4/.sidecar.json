@@ -1,0 +1,15 @@
+{
+  "targets": [
+    "https://jlelse.blog/thoughts/2020/02/twitter-brands/"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://jlelse.dev/profile-128.jpg",
+      "url": "https://jlelse.dev/"
+    },
+    "published": "2020-02-24T08:49:00Z",
+    "content": "I left Twitter one month ago and didn’t miss it a single time. Reading stories about “Brand Blockers” (Medium paywall) just gives me the feeling that this was the right decision.Regarding the “Brand Blockers”: Instead of trying to block hundreds of thousands brands, maybe just block Twitter? Twitter is full of brands. That’s why I first unfollowed everyone and created a list with all the people I followed previously, which had the benefit of a chronological timeline and no promoted tweets in between. And then I left Twitter altogether.In addition to the brand problem there are also politics, scandals, trolls and the attitude of people in general. All reasons why I did not want to use this platform anymore.Meanwhile I only use Miniflux to follow a selection of blogs, news sites and Fediverse accounts. To express my opinion I use my blog. No algorithms that think they know what interests me. No promoted tweets.",
+    "url": "https://jlelse.blog/thoughts/2020/02/twitter-brands/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/20737f86f80c3fcd5367a6fda8cc1c81975d5e1ee7c14c43d7bdd45d328241d5.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-13T17:41:23+02:00",
+      "content": "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that.",
+      "url": "https://ownyourswarm.p3k.io/checkin/627e7c23293aa01470de8dff/d0459b1d3ba02ecc5621da338badb592",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-13T17:41:23+02:00",
+      "content": "5 weeks in a row at Parks! Nice!",
+      "url": "https://ownyourswarm.p3k.io/checkin/627e7c23293aa01470de8dff/0d7971a1757dd2ae5391d0440fae8130",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-13T17:41:23+02:00",
+      "content": "There's a lot going on inside Stadswandelpark! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/627e7c23293aa01470de8dff/e8a59165271ff5bc99945d65b22f65c5",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

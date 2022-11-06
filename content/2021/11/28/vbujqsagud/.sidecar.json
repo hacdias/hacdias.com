@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-28T13:33:53+01:00",
+      "content": "Your first Brazilian Restaurant!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61a377316863fe0aa767a107/30ac2c46d70555d90971e00d3bee93e4",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-28T13:33:53+01:00",
+      "content": "Your first check-in at Comigo!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61a377316863fe0aa767a107/32e6358d04f70d86339e49202e643ba7",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

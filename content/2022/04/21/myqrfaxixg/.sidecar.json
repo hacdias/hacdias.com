@@ -1,0 +1,76 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T22:10:53+01:00",
+      "content": "Wow! That's 5 check-ins at Pizza Places!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261c85d97a7621e84c330a5/f8e9eb96c95a8e7ac08badc43e8d1ee9",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T22:10:53+01:00",
+      "content": "First check-in in Ealing.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261c85d97a7621e84c330a5/a419405e088324ef91f244c3bd88b7c6",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T22:10:53+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261c85d97a7621e84c330a5/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T22:10:53+01:00",
+      "content": "Your first check-in at Pizza House!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261c85d97a7621e84c330a5/5664cbbb633d83393f9917dae4cfca77",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T22:10:53+01:00",
+      "content": "First Pizza Place check-in in 7 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261c85d97a7621e84c330a5/7ef7fa2b444eba12b52efe60a71923ca",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-21T22:10:53+01:00",
+      "content": "First of your friends to check into Ealing!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6261c85d97a7621e84c330a5/c1eee50973679ff83497d7f4f46729bc",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

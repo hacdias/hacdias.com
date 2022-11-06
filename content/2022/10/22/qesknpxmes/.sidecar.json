@@ -1,0 +1,53 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-22T14:27:23+02:00",
+      "content": "Keep checking in to places inside Anton for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6353e1ab72d5ae50d0d5f80d/2fe8ad63eb119dc3af4142379e569d70",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-22T14:27:23+02:00",
+      "content": "Your first check-in at Intelligentia ICE!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6353e1ab72d5ae50d0d5f80d/a8b82cbd046f54a5f01784919e2285db",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/20737f86f80c3fcd5367a6fda8cc1c81975d5e1ee7c14c43d7bdd45d328241d5.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-22T14:27:23+02:00",
+      "content": "That photo belongs on the cover of National Geographic!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6353e1ab72d5ae50d0d5f80d/fdf80d4da6db1dcc022d95c54c69c02c",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Alexey Sidelnikov",
+        "photo": "https://cdn.hacdias.com/wm/4842efa001179e047902cf97673dc5dd9ce721244dbbdeb4b3081abc51cad41e.jpg",
+        "url": "https://foursquare.com/user/7687876"
+      },
+      "published": "2022-10-22T14:27:23+02:00",
+      "content": "liked your checkin",
+      "url": "https://ownyourswarm.p3k.io/checkin/6353e1ab72d5ae50d0d5f80d/9acd39b5591a02e999afb08b8f803abf",
+      "type": "like"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/20737f86f80c3fcd5367a6fda8cc1c81975d5e1ee7c14c43d7bdd45d328241d5.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-03-19T20:23:19+01:00",
+      "content": "Great photos!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62362da74f2134567a122161/2e35deb7a47b1f64225cf85951b30825",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-03-19T20:23:19+01:00",
+      "content": "First check-in at XU Noodle Bar.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62362da74f2134567a122161/597a29fac1458c7eed71e9d617cc1496",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-03-19T20:23:19+01:00",
+      "content": "Your first Noodle House!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62362da74f2134567a122161/3dbbebe65bc4d75ee0761d7e3a0f6352",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Alexey Sidelnikov",
+        "photo": "https://cdn.hacdias.com/wm/4842efa001179e047902cf97673dc5dd9ce721244dbbdeb4b3081abc51cad41e.jpg",
+        "url": "https://foursquare.com/user/7687876"
+      },
+      "published": "2022-03-19T20:23:19+01:00",
+      "content": "liked your checkin",
+      "url": "https://ownyourswarm.p3k.io/checkin/62362da74f2134567a122161/1adebab9086f3654ef2413131cfe58f6",
+      "type": "like"
+    }
+  ]
+}

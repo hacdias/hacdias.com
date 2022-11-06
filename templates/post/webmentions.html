@@ -1,10 +1,9 @@
 {{ define "post/webmentions" }}
   {{ if not .Entry.NoShowInteractions }}
-    {{ $data := .GetSidecar  }}
-    {{ $count := len $data.Webmentions  }}
+    {{ $sidecar := .GetSidecar  }}
 
     <details class='box wm'>
-      <summary><strong>Interactions ({{ $count }})</strong></summary>
+      <summary><strong>Interactions ({{ $sidecar.MentionsCount }})</strong></summary>
 
       <form action="https://webmention.io/hacdias.com/webmention" method="post" class="inline-form">
         <input aria-label="Webmention Source" name="source" placeholder="Have you written a response? Paste its URL here!" type="url" required>
@@ -19,35 +18,58 @@
         <input type="submit" value="Write a comment">
       </form>
 
-      {{ if not (eq $count 0) }}
+      {{ if len $sidecar.Replies }}
       <div class='contents'>
-        {{ range $i, $wm := $data.Webmentions }}
-          {{ if not (index . "wm-private") }}
-            <div class="h-cite">
-              <span class="p-author h-card">
-                <img alt="{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .author.photo "/unknown.jpg" }}">
-                <a rel="noopener noreferrer" target="_blank" class="p-name u-url nl" href="{{ .url }}">{{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }}</a></span>
-              {{ $type := index . "post-type" }}
-              {{ if eq $type "like" }}
-              liked this post.
-              {{ else if eq $type "repost" }}
-              reposted this.
-              {{ else if and (eq $type "reply") .content }}
-              said: <span class="e-content p-name">{{ truncate .content 300 }}</span>
-              {{ else }}
-                {{ with .content }}
-                  said: <span class="e-content p-name">{{ truncate . 300 }}</span>
-                {{ else }}
-                  mentioned this on <a rel="noopener noreferrer" target="_blank" href="{{ .url }}">{{ domain .url }}</a>.
-                {{ end }}
-              {{ end }}
-              {{- with .published }} — <a rel="noopener noreferrer" target="_blank" href="{{ $wm.url }}" class="u-url date nl">{{ dateFormat . "02 Jan 2006 15:04" }} </a>{{ end }}
-            </div>
+        {{ range $sidecar.Replies }}
+          {{ if not .Private }}
+          <div class="h-cite">
+            <p>
+              <span class="u-author h-card">
+                <strong class="p-name">{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}</strong>
+                <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
+              </span>
+              •
+              <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl" style="color: var(--light-gray)">
+                {{- if .Published.IsZero -}}Original Post{{ else }}{{ .Published.Format "02 Jan 2006" }}{{ end -}}
+              </a>
+            </p>
+            {{ if .Content }}
+              <p class="e-content p-name copy">{{ truncate .Content 300 }}</p>
+            {{ else }}
+              <p class="copy">Mention on {{ domain .URL }}</p>
+            {{ end }}
+          </div>
+          {{ end }}
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{ if len $sidecar.Interactions}}
+      <div class='contents'>
+        {{ range $sidecar.Interactions }}
+          {{ if not .Private}}
+            <span class="h-cite reaction">
+              <span class="u-author h-card">
+                <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
+                <span>
+                  {{- if eq .Type "like" -}}
+                  ❤️
+                  {{- else if eq .Type "repost" -}}
+                  📣
+                  {{- else if eq .Type "bookmark" -}}
+                  🔖
+                  {{- else if eq .Type "rsvp" -}}
+                  🗓️
+                  {{- else }}
+                  💭
+                  {{- end -}}
+                </span>
+              </span>
+            </span>
           {{ end }}
         {{ end }}
       </div>
       {{ end }}
     </details>
-
   {{ end }}
 {{ end }}

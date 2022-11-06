@@ -1,0 +1,33 @@
+{
+  "targets": [
+    "https://indieweb.org/micropub_media_endpoint",
+    "http://imgproxy.net/",
+    "https://bunny.net/",
+    "https://brid.gy/",
+    "https://hacdias.com/2019/12/20/quick-dive-into-dweb-ipfs"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/2aa312f6a3b877b94d838368201e6cf9d0ee24dbc72a4d8f7b15e4c442885df1.png",
+        "url": "https://jlelse.blog"
+      },
+      "published": "2022-06-15T08:29:29+02:00",
+      "content": "Never heard of MicroPub channels, I have to check it out! Regarding video posts: Have you heard of Bunny.net Stream? There you can upload videos, they encode them to different resolutions and then you can use an HLS playlist. Also with custom domain. See this post as an example. To secure your media files, you could use Token Authentication with Bunny.net. Good luck with your thesis!",
+      "url": "https://jlelse.blog/micro/2022/06/2022-06-15-xlwja",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "url": "https://jan.boddez.net/"
+      },
+      "published": "2022-06-15T16:22:56+02:00",
+      "content": "You store them somewhere that isn’t public and then use a bit of logic (a “controller” of sorts, which accepts a “file path” as a URL or query parameter and outputs binary [media] data) that serves them only to logged-in visitors? (And handles relevant headers, etc.) [W]hat’s the best way to protect the media?",
+      "url": "https://jan.boddez.net/notes/7b67e25496",
+      "type": "reply"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-24T13:59:17+01:00",
+      "content": "First check-in in Beato.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63568c2595ef736b419fd923/ebf8c1218440a88e0a8f5b8eb3e561a7",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-24T13:59:17+01:00",
+      "content": "Your first check-in at Convento do Beato!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63568c2595ef736b419fd923/a67797bed3d01608e59e74de98bb40ad",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-24T13:59:17+01:00",
+      "content": "There's a lot going on inside Convento do Beato! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63568c2595ef736b419fd923/0c0944c02203448c31c7bb770671b6c8",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-24T13:59:17+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63568c2595ef736b419fd923/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

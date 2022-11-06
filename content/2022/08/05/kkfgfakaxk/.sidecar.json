@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T09:45:28+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ecca98a755942fd4d3cddc/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T09:45:28+02:00",
+      "content": "Your first check-in at GVB Veer - NDSM-terrein - Centraal Station!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ecca98a755942fd4d3cddc/12e0f757ae11406430590e87febdad68",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T09:45:28+02:00",
+      "content": "First check-in in Stadsdeel Noord.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ecca98a755942fd4d3cddc/26ebbdb0f73da2910da29a3bb3e13062",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

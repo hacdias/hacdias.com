@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-19T11:43:16+01:00",
+      "content": "That's 3 weeks in a row at Food \u0026 Drink Shops. Keep it coming.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61e7eb44667e864b91083399/ed6df5d412f9cc7fa8a6de6fc26bf82f",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-19T11:43:16+01:00",
+      "content": "You’re 3 weeks away from breaking your record of 5 weeks in a row at Albert Heijn! It’s like racing your ghost in Mario Kart all over again.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61e7eb44667e864b91083399/201dad27b726bc36c2cde3830c4022a6",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-19T11:43:16+01:00",
+      "content": "Ohhh snap! That's 3 weeks in a row at Supermarkets! You're only 3 weeks away from beating Rodrigo Sousa. Get after it!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61e7eb44667e864b91083399/293a74126b4a153c1226d8f094ffc6c9",
+      "type": "reply",
+      "swarmCoins": 15
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-01T16:55:18Z",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63614f762c479c23ec3af433/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-01T16:55:18Z",
+      "content": "Your first check-in at Gate 201!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63614f762c479c23ec3af433/e815713973d1d0ed190c4375ddecd765",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-01T16:55:18Z",
+      "content": "That's 2 check-ins inside Lisbon Humberto Delgado Airport today! Keep going for more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63614f762c479c23ec3af433/b5fafe226985561425f99dc9a72f77aa",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-01T16:55:18Z",
+      "content": "First Airport Gate check-in in 2 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63614f762c479c23ec3af433/eb164c3a4ddf1b84077a73ebedba1b5f",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

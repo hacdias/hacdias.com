@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c0242a04dbdd92dc9998d539339c3eb09b1fb7978d1408d7a0e0b20c0637a7fe.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-03-13T15:05:08+01:00",
+      "content": "Fun Fact! A snail can sleep for 3 years. Jealous?",
+      "url": "https://ownyourswarm.p3k.io/checkin/622dfa14c2b53f64247eceb2/4e258c427f36abcdb3b3c0ff8d9ec99b",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/82595b4c6752b914d32c51b9f465f3beee5e566847ab67105a6e6b8faea570b9.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-03-13T15:05:08+01:00",
+      "content": "Welcome back! It's been one month since you last checked in here!",
+      "url": "https://ownyourswarm.p3k.io/checkin/622dfa14c2b53f64247eceb2/b8c2a6b3b8e5981c5377fd89f6dfae1b",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

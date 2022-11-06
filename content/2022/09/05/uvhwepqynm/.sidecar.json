@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-05T15:55:23+02:00",
+      "content": "There's a lot going on inside Microlab! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6315ffcbd2cc980fea0a20d0/02a5708497424efdc01ccea6b9cae7c7",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-05T15:55:23+02:00",
+      "content": "There's a new Mayor in town!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6315ffcbd2cc980fea0a20d0/59431d234cd87da24e041c1ff69c52b6",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/864f6915411246f84fd368e28a0434aefe07f909d198f67fb5528c6cfbcd4073.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-05T15:55:23+02:00",
+      "content": "Lappy Toppy sticker bonus!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6315ffcbd2cc980fea0a20d0/a5c903d53b6129ef8776459a4548d3c2",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

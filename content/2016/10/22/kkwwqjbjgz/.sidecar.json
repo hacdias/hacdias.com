@@ -1,0 +1,11 @@
+{
+  "context": {
+    "author": {
+      "name": "ChristophBerger",
+      "url": "https://www.reddit.com/u/ChristophBerger"
+    },
+    "published": "2016-10-22T06:05:24Z",
+    "content": "+1 for this. Especially the item \u003e 2. Group subpackages by dependency is worth pointing out if you don't want to end up fighting cyclic imports.",
+    "url": "https://www.reddit.com/r/golang/comments/58pg6q/which_is_the_best_way_to_organize_go_code/d92s03l/"
+  }
+}

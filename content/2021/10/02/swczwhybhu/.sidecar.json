@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-02T18:22:15+02:00",
+      "content": "First Hotel check-in in 2 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/615887378c51652dfb73486f/d9f429ec2577436e28ad1ea356f34e0e",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-02T18:22:15+02:00",
+      "content": "Your first check-in at B\u0026B Hotel Paris 17 Batignolles!",
+      "url": "https://ownyourswarm.p3k.io/checkin/615887378c51652dfb73486f/9034698b89c6cbd5c08d42d2c7a5702a",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-02T18:22:15+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/615887378c51652dfb73486f/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    }
+  ]
+}

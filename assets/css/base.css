@@ -140,6 +140,7 @@ h5 {
   font-size: var(--f5);
 }
 
+.small,
 small {
   font-size: var(--f6);
 }
@@ -458,18 +459,6 @@ details summary {
   margin: 0;
   position: relative;
   border-radius: var(--radius);
-}
-
-.ibox .e-content {
-  font-size: var(--f6);
-}
-
-.ibox .original {
-  font-size: var(--f7);
-}
-
-.ibox .p-author .p-name {
-  font-weight: bold;
 }
 
 .ibox.skinny {

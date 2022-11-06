@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T12:57:51+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ab02f42169d7a4bc99b29/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T12:57:51+02:00",
+      "content": "Your first check-in at GO Fish!",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ab02f42169d7a4bc99b29/d09e2a7a5e223acbf333343a9c43a0c5",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-10-16T12:57:51+02:00",
+      "content": "Your first Fish \u0026 Chips Shop!",
+      "url": "https://ownyourswarm.p3k.io/checkin/616ab02f42169d7a4bc99b29/275e4b2504721e3d0359edc0171e57f7",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

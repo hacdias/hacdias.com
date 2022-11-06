@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-16T14:24:06+01:00",
+      "content": "There's a lot going on inside Stadswandelpark! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61bb3df606e84d0dbd48b126/e8a59165271ff5bc99945d65b22f65c5",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-16T14:24:06+01:00",
+      "content": "You're the mayor!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61bb3df606e84d0dbd48b126/aca2ca94a4c8a62cae875b2803e8ec0c",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/eca1537dbf6fd6fd7cdcb55e498f3dd21b8175a98f1e1272347d76ef33b3f8ee.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-12-16T14:24:06+01:00",
+      "content": "What's not to love about anything chocolate covered?🍫",
+      "url": "https://ownyourswarm.p3k.io/checkin/61bb3df606e84d0dbd48b126/934013ca1b50091eb7c43a30a481555f",
+      "type": "reply",
+      "swarmCoins": 25
+    }
+  ]
+}

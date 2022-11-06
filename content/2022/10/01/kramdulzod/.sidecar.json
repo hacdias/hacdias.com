@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-01T11:23:15+02:00",
+      "content": "Your first check-in at Evoluon Eindhoven!",
+      "url": "https://ownyourswarm.p3k.io/checkin/633807032f721e0f15f49492/d8a46cbbcd73e9f6bc7cfd97ff000c8a",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-01T11:23:15+02:00",
+      "content": "First check-in in Het Ven.",
+      "url": "https://ownyourswarm.p3k.io/checkin/633807032f721e0f15f49492/a59185b1958cf32b2cd9aea06b6fd803",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-01T11:23:15+02:00",
+      "content": "First of your friends to check into Het Ven!",
+      "url": "https://ownyourswarm.p3k.io/checkin/633807032f721e0f15f49492/7ccaa631f76e7db63b9821163996b1cb",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-01T11:23:15+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/633807032f721e0f15f49492/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-01T11:23:15+02:00",
+      "content": "There's a lot going on inside Evoluon Eindhoven! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/633807032f721e0f15f49492/8fe961bbd6008547978820751f2ae5e7",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

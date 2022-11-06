@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://tailscale.com/blog/tailscale-ssh/"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/2aa312f6a3b877b94d838368201e6cf9d0ee24dbc72a4d8f7b15e4c442885df1.png",
+        "url": "https://jlelse.blog"
+      },
+      "published": "2022-06-26T07:30:00+02:00",
+      "content": "I use Tailscale, because it’s so simple to setup. I can access my home network (and diary – a GoBlog instance hosted there; and coding environment; and ad-blocking DNS) from the go without the need to forward any ports (Tailscale manages to break through the NAT). I also setup Tailscale on my VPS, so that I have to use Tailscale to SSH into it, I block port 22 using a cloud firewall. I haven’t tried the new SSH feature yet though.",
+      "url": "https://jlelse.blog/micro/2022/06/2022-06-26-rkgqw",
+      "type": "reply"
+    }
+  ]
+}

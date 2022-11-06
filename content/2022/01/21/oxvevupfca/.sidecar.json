@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/ca17d62d84a4dee8296aada2c5d7e6706e048302e47a69cab783aff7e2e62cac.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-21T12:55:04+01:00",
+      "content": "Lay-Z sticker bonus!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61ea9f18ea12113f51e544f6/5b46782015c2f054797c09e2da19b123",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-21T12:55:04+01:00",
+      "content": "Wow! You've checked in to CASA 5 times!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61ea9f18ea12113f51e544f6/6233a56072b8ba3f1072ff76fadba3a2",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-01-21T12:55:04+01:00",
+      "content": "You're the mayor!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61ea9f18ea12113f51e544f6/aca2ca94a4c8a62cae875b2803e8ec0c",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

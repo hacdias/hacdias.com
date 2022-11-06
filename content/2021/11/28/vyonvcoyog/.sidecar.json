@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-28T15:07:13+01:00",
+      "content": "Wow! That's 50 check-ins at Neighborhoods!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61a38d11333d75087e1ee07c/c75c8d9ad71885ce63b282ef736b688b",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-28T15:07:13+01:00",
+      "content": "Wow! You've checked in to Centrum 5 times!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61a38d11333d75087e1ee07c/f5b45b36190ad1781e2b13407333389a",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

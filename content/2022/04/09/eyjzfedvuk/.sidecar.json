@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-09T12:05:49+02:00",
+      "content": "Your last check-in in Museumkwartier was in November '21 at Vondelpark.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62515a7d83ac60789edc5b44/8b229a7fea79faa3216e6a648411ffb8",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-09T12:05:49+02:00",
+      "content": "Wow! That's 70 check-ins at Plazas!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62515a7d83ac60789edc5b44/bf7e9b8de1014aba9c110ff2e5d80582",
+      "type": "reply",
+      "swarmCoins": 30
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-09T12:05:49+02:00",
+      "content": "There's a lot going on inside Museumplein! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62515a7d83ac60789edc5b44/edc9bdce1d480a42839ebf9742975df9",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-09T12:05:49+02:00",
+      "content": "First check-in at Museumplein.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62515a7d83ac60789edc5b44/767cd018c1c3b452dc0ac0bcfdf8dd9a",
+      "type": "reply",
+      "swarmCoins": 15
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "context": {
+    "author": {
+      "name": "Matthias247",
+      "url": "https://www.reddit.com/u/Matthias247"
+    },
+    "published": "2016-10-17T17:52:19Z",
+    "content": "Have not put any deeper thoughts into it. I would research how you can configure webdav in other webservers and follow that. And then probably add some configuration if and how your file web interface will be exposed.",
+    "url": "https://www.reddit.com/r/programming/comments/57wc6c/plugin_for_caddy_webserver_that_provides_an_web/d8w07ga/"
+  }
+}

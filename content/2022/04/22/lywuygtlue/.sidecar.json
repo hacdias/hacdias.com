@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T09:56:42+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62626dcaf913103e9f53d2c6/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T09:56:42+01:00",
+      "content": "There's a lot going on inside St James's Park! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62626dcaf913103e9f53d2c6/02f5c67ef53dcbae88bceb46db8199a7",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T09:56:42+01:00",
+      "content": "Your first check-in at St James's Park!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62626dcaf913103e9f53d2c6/1dd6199ce0657c62cc0378d2db0705eb",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T09:56:42+01:00",
+      "content": "First check-in in City of Westminster.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62626dcaf913103e9f53d2c6/322851cd01852d9ad2281f843bafe623",
+      "type": "reply",
+      "swarmCoins": 9
+    }
+  ]
+}

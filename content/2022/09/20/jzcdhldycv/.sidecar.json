@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T17:49:16+02:00",
+      "content": "There's a lot going on inside Metro Lima (M1)! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e0fc93e8f81115329a30/f54f0149eefcb89b945d93020f193b3d",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T17:49:16+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e0fc93e8f81115329a30/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T17:49:16+02:00",
+      "content": "Your first check-in at this ATM Milano!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e0fc93e8f81115329a30/8f7ab679c22f5d34f281bf352f76d923",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

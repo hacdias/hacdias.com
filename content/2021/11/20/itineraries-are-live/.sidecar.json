@@ -1,0 +1,31 @@
+{
+  "targets": [
+    "https://hacdias.com/itineraries"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "einGeek",
+        "photo": "https://cdn.hacdias.com/wm/fa4b5eb2bf1c1aebf299223741a18f4a7c53ade6f1b4e2a0276bd5281cc0c22d.png",
+        "url": "https://jlelse.blog/de"
+      },
+      "published": "2021-11-22T21:11:29+01:00",
+      "content": "Ich bin ein sehr neugieriger Mensch und stöbere gerne herum, auf der Suche nach neuen Sachen, die ich noch nicht kenne. Momentan faszinieren mich etwa Landkarten, was dazu geführt hat, dass ich in meine Blogsoftware etwa die Funktion zur Darstellung von GPX-Dateien gebaut habe. Inspiration von anderen Web-Menschen hat mich dann dazu gebracht, ein kleines Tool zu schreiben, mit dem ich Bahnrouten als GPX-Dateien generieren und dann darstellen kann. Aber dabei bin ich auch auf etwas weiteres Spannendes gestoßen: das Open-Data-Portal der Deutschen Bahn. Vor allem für mich als eh schon überzeugten Bahnfahrer (auch wenn mich vieles am Bahnfahren stört, ist das für mich die beste Möglichkeit, weite Strecken zu fahren), ist diese Quelle so spannend. Nicht nur bin ich durch dieses Portal auf die CSV-Datei mit allen Bahnhöfen in Deutschland gestoßen, ebenfalls habe ich verschiedene Schnittstellen entdeckt. So gibt es nicht nur eine API, um Fahrpläne abzurufen (die hat sogar eine Swagger-basierte API-Konsole!), sondern zusätzlich eine API für den Trassenfinder, der für mich eine neue Entdeckung ist. Ich muss mir mal Gedanken machen, was man mit den Daten alles anfangen könnte…",
+      "url": "https://jlelse.blog/de/gedanken/2021/11/bahn-daten",
+      "type": "mention"
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "url": "https://jan.boddez.net/"
+      },
+      "published": "2021-11-20T10:31:00+01:00",
+      "content": "Liked https://hacdias.com/2021/11/20/itineraries-are-live.",
+      "url": "https://jan.boddez.net/likes/9dfc140330",
+      "type": "like"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-25T11:37:17+02:00",
+      "content": "Your last check-in in Witte Dame was over 2 months ago at MediaMarkt.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62b6d74d921ba7100af9317f/e8421465f782b0b2636c6d8436c042db",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-25T11:37:17+02:00",
+      "content": "Welcome back! It's been 2 months since you've checked in to MediaMarkt.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62b6d74d921ba7100af9317f/f5844daa90d8821b807c22dd7bdde160",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

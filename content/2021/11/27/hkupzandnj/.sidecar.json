@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-27T11:46:18+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61a20c7a9fd8d90293ac6d11/5e7d16b41392930f8c314f4ac8a73024",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2021-11-27T11:46:18+01:00",
+      "content": "Your first check-in at this H\u0026M!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61a20c7a9fd8d90293ac6d11/0bf887a2c98f8a61c363f5796a27e2a5",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ]
+}

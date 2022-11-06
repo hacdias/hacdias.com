@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T20:56:04+02:00",
+      "content": "Your first check-in at Canal Grande!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632769c46c5b1b5af43d186f/07cdfb3d79d64acc21f8f8754a63e1d2",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T20:56:04+02:00",
+      "content": "First check-in in San Marco.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632769c46c5b1b5af43d186f/b901051bc6792964e4b709cbc4297191",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T20:56:04+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632769c46c5b1b5af43d186f/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T20:56:04+02:00",
+      "content": "First of your friends to check into San Marco!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632769c46c5b1b5af43d186f/8c951bfad160d9f0654ee01a9dc9726b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

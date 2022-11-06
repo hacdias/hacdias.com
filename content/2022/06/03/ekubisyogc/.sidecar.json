@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-03T20:18:18+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/629a506ac773bb175f66dcfc/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-03T20:18:18+02:00",
+      "content": "Your first check-in at CKE-muziekschool (Centrum voor de Kunsten Eindhoven)!",
+      "url": "https://ownyourswarm.p3k.io/checkin/629a506ac773bb175f66dcfc/017aafcedf9ffee1fb77096b6eec39ea",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

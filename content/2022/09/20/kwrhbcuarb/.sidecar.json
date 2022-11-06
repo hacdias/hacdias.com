@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T18:10:04+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e5dc0647104bbc238888/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T18:10:04+02:00",
+      "content": "Keep checking in to places inside Galleria Vittorio Emanuele II for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e5dc0647104bbc238888/33b370ffde7cc9b0f77455fde73476b9",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T18:10:04+02:00",
+      "content": "Your first check-in at Libreria Rizzoli!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329e5dc0647104bbc238888/1e4f338408ffbd678670caac8c915d17",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

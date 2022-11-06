@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T12:57:05+02:00",
+      "content": "First check-in in Zaandam.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ecf7813de4a10f58746d00/f7592b8579a16c6a101aed44dd6924d5",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T12:57:05+02:00",
+      "content": "There's a lot going on inside Station Zaandam! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ecf7813de4a10f58746d00/5545668e48ba9c48835d8f362a0f56ef",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T12:57:05+02:00",
+      "content": "Your first check-in at Station Zaandam!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ecf7813de4a10f58746d00/afe3a8c1ecbb23546e6eed3a5d55ef2d",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-08-05T12:57:05+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62ecf7813de4a10f58746d00/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

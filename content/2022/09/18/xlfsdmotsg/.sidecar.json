@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T11:02:45+02:00",
+      "content": "Your first check-in at La piccola Venezia - Finestra Sul Reno!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6326deb5b5645616255a4566/09111a36e268742703e0087e0dd49fbb",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-18T11:02:45+02:00",
+      "content": "First Scenic Lookout check-in in 4 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6326deb5b5645616255a4566/85d1057098fd4dc1f681447b7f1efe7f",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T14:54:17+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c379e08dc23c22543336/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T14:54:17+02:00",
+      "content": "First of your friends to check into Santa Croce!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c379e08dc23c22543336/2fad621e29ab206774ce9b140b17b746",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T14:54:17+02:00",
+      "content": "Your first check-in at Piazza Santa Croce!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c379e08dc23c22543336/171a4e9af1b27739aea85b85c7438f77",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T14:54:17+02:00",
+      "content": "First check-in in Santa Croce.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c379e08dc23c22543336/6d46e6df9d47422084775bed7284db02",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

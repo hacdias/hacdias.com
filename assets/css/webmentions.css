@@ -1,45 +1,6 @@
 .wm {
-  font-size: var(--f6);
-  overflow: hidden;
   padding: 0;
-}
-
-.wm ::marker {
-  color: var(--dary-gray);
-}
-
-.wm .contents {
-  line-height: 1;
-  background-color: var(--background);
-}
-
-.wm .contents .p-author .p-name {
-  font-weight: 600;
-}
-
-.wm .contents .date {
-  font-size: var(--f7);
-  font-style: italic;
-}
-
-.wm .contents > div {
-  padding-left: 1.5rem;
-  margin-bottom: 1rem;
-  min-height: 1rem;
-  position: relative;
-}
-
-.wm .contents > div:last-child {
-  margin-bottom: 0;
-}
-
-.wm .contents .u-photo {
-  top: 0;
-  left: 0;
-  border-radius: 100%;
-  width: 1rem;
-  height: 1rem;
-  position: absolute;
+  font-size: var(--f6);
 }
 
 .wm form,
@@ -48,16 +9,65 @@
   padding: var(--ms);
 }
 
+.wm .contents,
 .wm form {
   border-top: 1px solid var(--light-white);
 }
 
-.wm form:last-of-type {
-  border-bottom: 1px solid var(--light-white);
-}
-
 .wm form:last-of-type input {
   width: 100%;
+}
+
+.wm ::marker {
+  color: var(--dary-gray);
+}
+
+.wm .h-cite {
+  position: relative;
+  margin-bottom: 1rem;
+  padding-left: 2.5rem;
+  min-height: 2rem;
+}
+
+.wm .contents .h-cite:last-of-type {
+  margin-bottom: 0;
+}
+
+.wm .h-cite p {
+  margin: 0;
+}
+
+.wm .h-cite > p:first-of-type {
+  font-size: var(--f7);
+}
+
+.wm .h-cite .u-author .p-name {
+  font-weight: bold;
+}
+
+.wm .h-cite .u-author .u-photo {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--radius);
+}
+
+.wm .h-cite.reaction {
+  padding: 0;
+  margin: 0;
+}
+
+.wm .h-cite.reaction .u-author .u-photo {
+  position: relative;
+}
+
+.wm .h-cite.reaction .u-author span {
+  font-size: var(--f4);
+  margin-left: -0.8rem;
+  position: relative;
+  filter: drop-shadow(0 0 1px var(--light-gray));
 }
 
 @media screen and (max-width: 52rem) {

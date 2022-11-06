@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T14:45:19+01:00",
+      "content": "Your first Breakfast Spot!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262b16f9d03bd14d047710a/6d58063fe25b692683a35ca8e405f321",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T14:45:19+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262b16f9d03bd14d047710a/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T14:45:19+01:00",
+      "content": "Your first check-in at The Good Egg!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262b16f9d03bd14d047710a/1fc37258c667db24ac0b4bee64772d45",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T14:45:19+01:00",
+      "content": "Keep checking in to places inside Kingly Court for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262b16f9d03bd14d047710a/639276a56635afff2db11f8346057f4e",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

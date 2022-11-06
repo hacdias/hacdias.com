@@ -1,0 +1,11 @@
+{
+  "context": {
+    "author": {
+      "name": "kmisterk",
+      "url": "https://www.reddit.com/u/kmisterk"
+    },
+    "published": "2019-05-25T01:29:15Z",
+    "content": "#Welcome to /r/selfhosted! We thank you for taking the time to check out the subreddit here! ##Self-Hosting The concept in which you host your own applications, data, and more. Taking away the \"unknown\" factor in how your data is managed and stored, this provides those with the willingness to learn and the mind to do so to take control of their data without losing the functionality of services they otherwise use frequently. ##Some Examples For instance, if you use dropbox, but are not fond of having your most sensitive data stored in a data-storage container that you do not have direct control over, you may consider NextCloud Or let's say you're used to hosting a blog out of a Blogger platform, but would rather have your own customization and flexibility of controlling your updates? Why not give WordPress a go. The possibilities are endless and it all starts here with a server. ##Since You're Here... While you're here, take a moment to get acquainted with our few but important **[rules](/r/selfhosted/wiki/rules)** When posting, please apply an appropriate flair to your post. If an appropriate flair is not found, please let us know! If it suits the sub and doesn't fit in another category, we will get it added! **[Message the Mods](https://www.reddit.com/message/compose?to=%2Fr%2Fselfhosted)** to get that started. If you're brand new to the sub, we highly recommend taking a moment to browse a couple of our awesome self-hosted and system admin tools lists. [Awesome Self-Hosted App List](https://github.com/Kickball/awesome-selfhosted) [Awesome Sys-Admin App List](https://github.com/n1trux/awesome-sysadmin) As always, happy (self)hosting!",
+    "url": "https://www.reddit.com/r/selfhosted/comments/bsp01i/welcome_to_rselfhosted_please_read_this_first/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T18:49:09+02:00",
+      "content": "Your first check-in at Livio!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325fa850e7fbd076f640f1a/5ee3e6f8b7f362bf90896cae0d924aa3",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T18:49:09+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325fa850e7fbd076f640f1a/5e7d16b41392930f8c314f4ac8a73024",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T18:49:09+02:00",
+      "content": "Wow! That's 10 check-ins at Italian Restaurants!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325fa850e7fbd076f640f1a/2db297eeb75abe167ec444752bb99e1a",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T13:46:20+01:00",
+      "content": "First check-in at Waterloo London Underground Station.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262a39c996c4c1f52572add/fad0e54e7c75f83e7a88a9522998fc7a",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T13:46:20+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262a39c996c4c1f52572add/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T13:46:20+01:00",
+      "content": "There's a lot going on inside Waterloo London Underground Station! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262a39c996c4c1f52572add/0869ccde8c26e82f583af7d0cebc87fd",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/eca1537dbf6fd6fd7cdcb55e498f3dd21b8175a98f1e1272347d76ef33b3f8ee.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-04-22T13:46:20+01:00",
+      "content": "This Earth has limits. Respect them this Earth Day and every day 🌍 🌎 🌏",
+      "url": "https://ownyourswarm.p3k.io/checkin/6262a39c996c4c1f52572add/99b1faf552e69d23112dbeb8ea56f301",
+      "type": "reply",
+      "swarmCoins": 20
+    }
+  ]
+}

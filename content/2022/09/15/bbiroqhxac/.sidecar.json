@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-15T13:35:54+02:00",
+      "content": "First check-in at Ristorante Trattoria Sor'Eva.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63230e1aed44c5233325cf21/f18c3c0b418b87401f6a26b565d77d5e",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-15T13:35:54+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63230e1aed44c5233325cf21/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-15T13:35:54+02:00",
+      "content": "That's 3 straight days at Italian Restaurants. You set a new record!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63230e1aed44c5233325cf21/6ed0bf1bc166774b60c1d278e394af01",
+      "type": "reply",
+      "swarmCoins": 10
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-15T13:35:54+02:00",
+      "content": "First of your friends to check into Trastevere!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63230e1aed44c5233325cf21/44a2689555ebad8b62784b3a95a17b92",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-15T13:35:54+02:00",
+      "content": "First check-in in Trastevere.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63230e1aed44c5233325cf21/152969155ab1bf4154e0279ec22df273",
+      "type": "reply",
+      "swarmCoins": 3
+    }
+  ]
+}

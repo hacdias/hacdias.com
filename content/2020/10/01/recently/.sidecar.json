@@ -1,0 +1,31 @@
+{
+  "targets": [
+    "https://hacdias.com/2020/09/21/recently",
+    "https://twitter.com/adlrocha",
+    "https://hacdias.com/photos",
+    "https://hacdias.com/2020/09/27/silhouette",
+    "http://dekatemousa.nl/"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "tmk 🌼",
+        "photo": "https://cdn.hacdias.com/wm/73ed7e3913a818f52acbddba56acc3683734d7b122c5f87d49d1ee1469ab5c30.jpg",
+        "url": "https://twitter.com/TheMrKiko"
+      },
+      "published": "2020-10-01T07:55:02Z",
+      "url": "https://twitter.com/hacdias/status/1311562183856320512#favorited-by-167414251",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "Nimo",
+        "photo": "https://cdn.hacdias.com/wm/c70ca385448da56c1ce2acce398268b748fdaf4bfa0f0f29456deb0f7000c6fa.jpg",
+        "url": "https://twitter.com/nimobeeren"
+      },
+      "published": "2020-10-01T07:55:02Z",
+      "url": "https://twitter.com/hacdias/status/1311562183856320512#favorited-by-1065361423637889025",
+      "type": "like"
+    }
+  ]
+}

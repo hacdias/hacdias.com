@@ -1,0 +1,11 @@
+{
+  "context": {
+    "author": {
+      "name": "harrypotterthewizard",
+      "url": "https://www.reddit.com/u/harrypotterthewizard"
+    },
+    "published": "2015-08-04T21:53:15Z",
+    "content": "In the good old days, Wikipedia and Wordpress used to be the glorious examples of how you can never go wrong with PHP and MySQL. Of late, however, Facebook has become the punching bag of PHP critics. I am actively considering to use Symfony framework for one of my upcoming web projects, but most colleagues are citing Facebook as an example for PHP's failure. The general perception seems to be that PHP couldn't scale well, so they had to hack up HipHop VM. How much of their scaling problem is actually because of PHP?",
+    "url": "https://www.reddit.com/r/PHP/comments/3fstc9/why_didnt_php_work_out_for_facebook/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-02T16:11:58+02:00",
+      "content": "Welcome! It's your first check-in in Germany!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63399c2e058a471a6bd864ba/98b1e64a5af49d2418760c025b83ee95",
+      "type": "reply",
+      "swarmCoins": 20
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-02T16:11:58+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63399c2e058a471a6bd864ba/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-02T16:11:58+02:00",
+      "content": "First check-in at Beek [NL] / Wyler [DE].",
+      "url": "https://ownyourswarm.p3k.io/checkin/63399c2e058a471a6bd864ba/eb3564b3267f749f301e73dea516d868",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-02T16:11:58+02:00",
+      "content": "Your first Border Crossing!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63399c2e058a471a6bd864ba/992dcd986d309f277cde0b1e2c874b93",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

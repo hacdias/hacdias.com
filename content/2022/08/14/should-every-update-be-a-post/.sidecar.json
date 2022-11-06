@@ -1,0 +1,52 @@
+{
+  "targets": [
+    "https://hacdias.com/2022/06/09/igackzpsqy",
+    "https://en.wikipedia.org/wiki/Microblogging",
+    "https://jlelse.blog/map"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/2aa312f6a3b877b94d838368201e6cf9d0ee24dbc72a4d8f7b15e4c442885df1.png",
+        "url": "https://jlelse.blog"
+      },
+      "published": "2022-08-14T20:18:04+02:00",
+      "content": "I’ve realized that trying to strictly follow what is on the IndieWeb wiki won’t work well for me. Thus, I have to invent and change some things to make it work better. The IndieWeb Wiki is a good source of inspiration one could use, but I don’t see it as a guideline you need to closely follow. A lot of IndieWeb sites are too much like social media for my taste. Why replicate social media on your site when you have the freedom to make it better? I was never a fan of “post types”, too many restrictions and sometimes hard to choose between them. (Also, should this post be a like, reply or bookmark? 🤔😅)",
+      "url": "https://jlelse.blog/micro/2022/08/2022-08-14-nztyu",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "url": "https://jan.boddez.net/"
+      },
+      "published": "2022-08-14T23:41:50+02:00",
+      "content": "That’s exactly what I do, too. There’s no need to keep them apart—Microsub readers or “Webmention parsers” will be able to tell which is which from the markup/microformats used, and will sometimes make the choice for you (cf. the “post type discovery” algo)—although everyone is free to do whatever they like best, obviously. I am planning on merging notes, replies, reposts and RSVPs under the same section. I kind of “hide” my replies behind a link, though, although they’re all there in my feed. And I keep likes and listens separate because, well, they’re currently more of an experiment, I guess.",
+      "url": "https://jan.boddez.net/notes/1efb63d414",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
+        "url": "https://hacdias.com/"
+      },
+      "published": "2022-08-15T22:17:45+02:00",
+      "content": "Bookmarks. Yesterday I mentioned I want to improve the bookmarks section in my website. However, I am also considering on some self-hosted services. I want a simple way to bookmark pages and possibly add notes to them, as well as tags. Do you use any service for this? How do you “solve” this problem?",
+      "url": "https://hacdias.com/2022/08/15/llpalrunje",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Wouter Groeneveld",
+        "photo": "https://cdn.hacdias.com/wm/d7fcd5e22604fcb986f4b249259a2a0b91ac867230c20f72e4563485e1c9d75d.jpg"
+      },
+      "published": "2022-08-16T13:30:00Z",
+      "content": "This part made me want to reply: Listens and watches probably constitute a large part of the posts of this website. Are they useful however? Do they bring anything to you, or to me? Honestly, I don’t think so. However, I enjoy seeing the summary about what I have watched and my listening habits. So they do bring something to you: that summary. However, in my view, many IndieWeb enthusiasts overdo this bit. I also really really love lists and summaries etc, but simply keep track of them elsewhere: in my (analog) journal. Do they need to be put online? Is that the question you want to pose? I honestly never read that stuff if I see it in my RSS reader. Except if there’s context added! Same for bookmarks/links: I don’t care for a random link collection, but I do care for summarized ones with some context. Which ones do you recommend me as a reader of your blog, and why? If it’s just stuff you’re gathering, why not keep it private? So no, I don’t think every update should be a post. It doesn’t make sense Agreed!",
+      "url": "https://brainbaking.com/notes/2022/08/16h13m30s33/",
+      "type": "reply"
+    }
+  ]
+}

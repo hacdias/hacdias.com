@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-28T12:04:39+02:00",
+      "content": "Your first check-in at Stationsbrug!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6291f3b71a2d4f0a1aec763a/f9b17a3ebeae443ea6e9cbf56667bb9e",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-28T12:04:39+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6291f3b71a2d4f0a1aec763a/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-28T12:04:39+02:00",
+      "content": "First of your friends to check into Provincie Zeeland!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6291f3b71a2d4f0a1aec763a/b6c9f723264ffa36dad4b8b7ebf0d369",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-05-28T12:04:39+02:00",
+      "content": "First check-in in Provincie Zeeland.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6291f3b71a2d4f0a1aec763a/10ac3f05cf364c344e14b0301f8d1b53",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

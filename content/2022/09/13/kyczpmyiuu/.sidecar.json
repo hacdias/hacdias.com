@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-13T09:39:34+02:00",
+      "content": "First check-in in Torre Annunziata.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632033b6bc4f8a40937988b8/e2c48857a85057022087294b28373026",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-13T09:39:34+02:00",
+      "content": "Your first check-in at Stazione Torre Annunziata Centrale!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632033b6bc4f8a40937988b8/95be925694d6906c3b821939ec6eb3ff",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-13T09:39:34+02:00",
+      "content": "First of your friends to check into Torre Annunziata!",
+      "url": "https://ownyourswarm.p3k.io/checkin/632033b6bc4f8a40937988b8/f4fee3a7da51f8516ab163fe75e4a7e0",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-13T09:39:34+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/632033b6bc4f8a40937988b8/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

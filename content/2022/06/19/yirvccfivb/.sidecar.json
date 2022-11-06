@@ -1,0 +1,53 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-19T21:17:17+02:00",
+      "content": "It's been 2 months since you've checked in to Dutch Homemade.",
+      "url": "https://ownyourswarm.p3k.io/checkin/62af763da2aa7915e1e3a65e/932ad024deb29748d9b1f0f5a49afe14",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/f0664f65fa3079eebb1aa58753c78857cadbe7013a8100cc0441f01eaab01a73.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-19T21:17:17+02:00",
+      "content": "iScream sticker bonus!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62af763da2aa7915e1e3a65e/58594b83a8e4c9451a7f900a192b6a40",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-19T21:17:17+02:00",
+      "content": "You just became Mayor!",
+      "url": "https://ownyourswarm.p3k.io/checkin/62af763da2aa7915e1e3a65e/94eded37caa558063b9bae8432349b05",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Alexey Sidelnikov",
+        "photo": "https://cdn.hacdias.com/wm/4842efa001179e047902cf97673dc5dd9ce721244dbbdeb4b3081abc51cad41e.jpg",
+        "url": "https://foursquare.com/user/7687876"
+      },
+      "published": "2022-06-19T21:17:17+02:00",
+      "content": "liked your checkin",
+      "url": "https://ownyourswarm.p3k.io/checkin/62af763da2aa7915e1e3a65e/1b398047dd2b975d5a952feea23e4f3c",
+      "type": "like"
+    }
+  ]
+}

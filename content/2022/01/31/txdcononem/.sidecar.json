@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "https://hacdias.com/2021/12/04/aperture-doesnt-fetch"
+  ],
+  "context": {
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://cdn.hacdias.com/wm/664891eacca0e5248f8e6c7b5849da5c82f3a7d58fe9693e730338d01513b117.jpg",
+      "url": "https://hacdias.com/"
+    },
+    "published": "2021-12-04T07:51:49Z",
+    "content": "I’ve been thinking about replacing Miniflux with Aperture + Monocle. I like the idea of using a Microsub client so that I can quickly reply, like or react to any post. The problem is that, unfortunately, aperture insists on not fetching posts for two of the websites I follow… I either write my own Microsub server, or go back to just Miniflux.Has anyone else encountered this issue with Aperture?",
+    "url": "https://hacdias.com/2021/12/04/aperture-doesnt-fetch"
+  },
+  "interactions": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "url": "https://jan.boddez.net/"
+      },
+      "published": "2022-01-31T21:33:32+01:00",
+      "content": "Liked https://hacdias.com/2022/01/31/txdcononem.",
+      "url": "https://jan.boddez.net/likes/568f2b081e",
+      "type": "like"
+    }
+  ]
+}

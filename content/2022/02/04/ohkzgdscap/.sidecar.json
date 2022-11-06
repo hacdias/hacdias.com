@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-04T15:05:45+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/61fd32b9c32af2573a000e2f/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-04T15:05:45+01:00",
+      "content": "Your first Sports Bar!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61fd32b9c32af2573a000e2f/d48f19dd86aa40a3762ebeabf556d1ac",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-02-04T15:05:45+01:00",
+      "content": "Your first check-in at O'Casey's!",
+      "url": "https://ownyourswarm.p3k.io/checkin/61fd32b9c32af2573a000e2f/af6a53af2c6b6ef74c88cd4644b65401",
+      "type": "reply",
+      "swarmCoins": 15
+    }
+  ]
+}

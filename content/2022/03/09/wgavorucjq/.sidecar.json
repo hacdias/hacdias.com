@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-03-09T18:57:28+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6228ea88b971462dd015e9a9/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-03-09T18:57:28+01:00",
+      "content": "Your first check-in at TU/e Gaslab!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6228ea88b971462dd015e9a9/f6f0fc793df5a31a45242427cccc5a79",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-03-09T18:57:28+01:00",
+      "content": "Your first Concert Hall!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6228ea88b971462dd015e9a9/da491c9ae5fb75ace8731a9041cb0206",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

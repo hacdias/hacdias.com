@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T15:16:18+02:00",
+      "content": "First of your friends to check into Oltrarno!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c8a2e092430ccd4aff2f/87043cc4d4abf40ab68734369b73dc23",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T15:16:18+02:00",
+      "content": "First check-in in Oltrarno.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c8a2e092430ccd4aff2f/96cf5d70e55e6129e47318d812a8eb65",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T15:16:18+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c8a2e092430ccd4aff2f/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T15:16:18+02:00",
+      "content": "Your first check-in at Pitti Palace!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c8a2e092430ccd4aff2f/b60339041d27f0243d9e48523659791e",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-17T15:16:18+02:00",
+      "content": "There's a lot going on inside Pitti Palace! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6325c8a2e092430ccd4aff2f/42d5ab4255ddf610dfa1b2b5c7f174fb",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}

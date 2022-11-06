@@ -1,0 +1,37 @@
+{
+  "targets": [
+    "https://twitter.com/hacdias/status/1504101832288780291"
+  ],
+  "context": {
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://cdn.hacdias.com/wm/8e733981b9ff8a0d5cad6c0327b0562fd463165f60e0cbca848ff3a3b27d9c4c.jpg",
+      "url": "https://twitter.com/hacdias"
+    },
+    "published": "2022-03-16T14:26:36Z",
+    "content": "Today I voted for the first time on the municipal elections in the Netherlands. One of the largest differences from Portugal is that you vote on the specific person and not a party. The other one is that I can vote anywhere I want in Eindhoven. It was a nice and swift experience.",
+    "url": "https://twitter.com/hacdias/status/1504101832288780291"
+  },
+  "interactions": [
+    {
+      "author": {
+        "name": "Diogo Redin",
+        "photo": "https://cdn.hacdias.com/wm/059558beefe7c51c2a8a56484d2ff45256e392524d3eb52470d463766a98445d.jpg",
+        "url": "https://twitter.com/DiogoRedin"
+      },
+      "published": "2022-03-16T18:12:40Z",
+      "url": "https://brid.gy/like/twitter/hacdias/1504109697124737030/144560866",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "Malik 🇺🇦",
+        "photo": "https://cdn.hacdias.com/wm/a88d77e209d84b62842071096c8be32183df89eba3fcca2a24a098dccb9afdd3.jpg",
+        "url": "https://twitter.com/malikpiara"
+      },
+      "published": "2022-03-17T10:29:12Z",
+      "url": "https://brid.gy/like/twitter/hacdias/1504109697124737030/1028353082206367744",
+      "type": "like"
+    }
+  ]
+}

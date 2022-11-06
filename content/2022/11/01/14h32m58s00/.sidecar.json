@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-01T14:32:58Z",
+      "content": "Keep checking in to places inside Lisbon Humberto Delgado Airport for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/d4f5c66b3199b46c8cd702b735aad469",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-01T14:32:58Z",
+      "content": "Welcome back! You haven't checked in to Terminal 2 since February '20.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/eced9ed06faaf7e9b77c4cc564aff8fa",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-01T14:32:58Z",
+      "content": "First Airport Terminal check-in in one year!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63612e1a277b08621857fa71/5c2503022a2a05da75d121d03b4a1dcc",
+      "type": "reply",
+      "swarmCoins": 15
+    }
+  ]
+}

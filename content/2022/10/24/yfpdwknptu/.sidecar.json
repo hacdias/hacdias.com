@@ -1,0 +1,40 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-24T19:12:54+01:00",
+      "content": "Keep checking in to places inside Centro Comercial Vasco da Gama for more coins!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6356d5a648ab3a02309c1c24/2f74f834dfa8db90ee72dd5b72521113",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-24T19:12:54+01:00",
+      "content": "Your first check-in at Esplanada Vasco da Gama!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6356d5a648ab3a02309c1c24/398b17a48a582be0b3a48d338f441f29",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-10-24T19:12:54+01:00",
+      "content": "Your last check-in in Parque das Nações was in February '20 at metro linha vermelha.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6356d5a648ab3a02309c1c24/3f04352ae74f3786a3964dc8868ef9ee",
+      "type": "reply",
+      "swarmCoins": 6
+    }
+  ]
+}

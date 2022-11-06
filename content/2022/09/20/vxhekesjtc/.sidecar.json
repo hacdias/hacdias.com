@@ -1,0 +1,76 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T20:00:27+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329ffbb75960e2673b21dfd/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T20:00:27+02:00",
+      "content": "Wow! That's 100 check-ins at Plazas!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329ffbb75960e2673b21dfd/52375493b875b3c7fc378cdbeec71f5b",
+      "type": "reply",
+      "swarmCoins": 20
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T20:00:27+02:00",
+      "content": "First check-in at Piazza Gae Aulenti.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329ffbb75960e2673b21dfd/11de1596f03706cd3673c515076541d7",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T20:00:27+02:00",
+      "content": "First check-in in Zona 9.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329ffbb75960e2673b21dfd/9c51ed9369bee1553f4c1fcfcca2e58b",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T20:00:27+02:00",
+      "content": "There's a lot going on inside Piazza Gae Aulenti! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329ffbb75960e2673b21dfd/5604070234eb4457b49221aa3f8a79ec",
+      "type": "reply",
+      "swarmCoins": 1
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-09-20T20:00:27+02:00",
+      "content": "First of your friends to check into Zona 9!",
+      "url": "https://ownyourswarm.p3k.io/checkin/6329ffbb75960e2673b21dfd/99d319b3a6ef9d32cc8e8cf7f112456f",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}

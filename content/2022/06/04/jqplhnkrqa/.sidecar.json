@@ -1,0 +1,41 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-04T17:26:39+02:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/629b79af4ef7837a75072372/5e7d16b41392930f8c314f4ac8a73024",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-06-04T17:26:39+02:00",
+      "content": "Your first check-in at Hifi Klubben!",
+      "url": "https://ownyourswarm.p3k.io/checkin/629b79af4ef7837a75072372/ee66b91e6a6f94862a6929635106f724",
+      "type": "reply",
+      "swarmCoins": 10
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Alexey Sidelnikov",
+        "photo": "https://cdn.hacdias.com/wm/4842efa001179e047902cf97673dc5dd9ce721244dbbdeb4b3081abc51cad41e.jpg",
+        "url": "https://foursquare.com/user/7687876"
+      },
+      "published": "2022-06-04T17:26:39+02:00",
+      "content": "liked your checkin",
+      "url": "https://ownyourswarm.p3k.io/checkin/629b79af4ef7837a75072372/4574c068defb8180997c9810fe039847",
+      "type": "like"
+    }
+  ]
+}
