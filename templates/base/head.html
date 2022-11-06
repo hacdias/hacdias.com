@@ -47,7 +47,7 @@
 
   <link rel="stylesheet" href="{{ .Assets.Path "styles.css" }}">
 
-  {{ with .GetFile "_styles.css" }}
+  {{ with .GetFile ".styles.css" }}
     <style>{{ safeCSS . }}</style>
   {{ end }}
 
