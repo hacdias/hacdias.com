@@ -1,5 +1,6 @@
 {{ define "base/head" }}
-  {{ $title := sprintf "%s - %s" .TextTitle .Site.Title }}
+  {{ $pageTitle := or .TextTitle "A post" }}
+  {{ $title := sprintf "%s - %s" $pageTitle .Site.Title }}
   {{ $description := or .TextDescription .Site.Description }}
 
   <meta charset="utf-8">
