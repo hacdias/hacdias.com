@@ -1,31 +1,32 @@
 ---
-description: Listened to 113 tracks from 72 artists across 100 albums
+description: Listened to 114 tracks from 73 artists across 101 albums
 published: 2022-11-05T23:59:59Z
 section:
 - listens
 properties:
-  albums-count: 100
-  artists-count: 72
+  albums-count: 101
+  artists-count: 73
   listen-of: summary
-  scrobbles-count: 113
-  total-duration: 4.708333333333333
-  tracks-count: 113
+  scrobbles-count: 114
+  total-duration: 4.75
+  tracks-count: 114
 ---
 
 <!-- This post is automatically generated. -->
 
 ![Labrinth, Sia & Diplo Present... LSD](https://cdn.hacdias.com/media/573fa091f8f4689fd6c9d9b64e21a145ecb5e61ca3c0c8cdd7c3b400fe970436.jpg?class=right+album)
 
-Today, I scrobbled **113** times to **113** unique tracks from **72** different artists across **100** different albums.
-I listened to approximately **4.71** hours of music.
+Today, I scrobbled **114** times to **114** unique tracks from **73** different artists across **101** different albums.
+I listened to approximately **4.75** hours of music.
 Today's tops are:
-- 🎶 **Track**: Stranger Love <small>[1 scrobbles]</small>
+- 🎶 **Track**: Lovey <small>[1 scrobbles]</small>
 - 💿 **Album**: Labrinth, Sia & Diplo Present... LSD <small>[7 scrobbles]</small>
 - 🎤 **Artist**: Sia <small>[13 scrobbles]</small>
 
 <details class=scrobbles-log>
 <summary>Scrobbles Log</summary>
 
+- <time class=tab>22:14</time> <img src=https://cdn.hacdias.com/media/3035f837a630e1f4afd70f53802391b40e2a35f02844f67fa408eabb7285b8e7.jpg class=emoji /> Lovey <small>by Tess Clare</small>
 - <time class=tab>22:12</time> <img src=https://cdn.hacdias.com/media/6339695f01d7d8e3d387f423e1b7d59865cf2fcbd0206cb8cebaed7b0f039ea6.jpg class=emoji /> Stranger Love <small>by Robin Novaku</small>
 - <time class=tab>22:08</time> <img src=https://cdn.hacdias.com/media/acd6e6b4357e257bebda4bd20a16db58dfeb8a63b49b328aa35e350c08b4a75f.jpg class=emoji /> Darkside <small>by Alan Walker</small>
 - <time class=tab>22:04</time> <img src=https://cdn.hacdias.com/media/1b16aea62a32a8c2d4436da64e5f1495ee55628d3aa8af355b8427777288eb17.jpg class=emoji /> To Be Human (feat. Labrinth) <small>by Sia</small>
