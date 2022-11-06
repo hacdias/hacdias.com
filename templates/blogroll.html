@@ -8,7 +8,7 @@
     <div class='copy e-content {{ if not $.Entry.Title }}p-name{{ end }}'>
       {{ include "post/content" . }}
 
-      {{ $blogs := .GetJSON "_blogroll.json" }}
+      {{ $blogs := .GetJSON ".blogroll.json" }}
       <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));">
         {{- range $i, $blog := $blogs }}
           {{- if eq .category "following" }}
