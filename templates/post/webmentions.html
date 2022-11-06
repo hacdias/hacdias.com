@@ -23,21 +23,21 @@
         {{ range $sidecar.Replies }}
           {{ if not .Private }}
           <div class="h-cite">
-            <p>
-              <span class="u-author h-card">
-                <strong class="p-name">{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}</strong>
-                <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
-              </span>
-              •
-              <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl" style="color: var(--light-gray)">
+            <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
+              <p>
+                <span class="u-author h-card">
+                  <strong class="p-name">{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}</strong>
+                  <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
+                </span>
+                •
                 {{- if .Published.IsZero -}}Original Post{{ else }}{{ .Published.Format "02 Jan 2006" }}{{ end -}}
-              </a>
-            </p>
-            {{ if .Content }}
-              <p class="e-content p-name copy">{{ truncate .Content 300 }}</p>
-            {{ else }}
-              <p class="copy">Mention on {{ domain .URL }}</p>
-            {{ end }}
+              </p>
+              {{ if .Content }}
+                <p class="e-content p-name copy">{{ truncate .Content 300 }}</p>
+              {{ else }}
+                <p class="copy">Mention on {{ domain .URL }}</p>
+              {{ end }}
+            </a>
           </div>
           {{ end }}
         {{ end }}
@@ -49,21 +49,23 @@
         {{ range $sidecar.Interactions }}
           {{ if not .Private}}
             <span class="h-cite reaction">
-              <span class="u-author h-card">
-                <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
-                <span>
-                  {{- if eq .Type "like" -}}
-                  ❤️
-                  {{- else if eq .Type "repost" -}}
-                  📣
-                  {{- else if eq .Type "bookmark" -}}
-                  🔖
-                  {{- else if eq .Type "rsvp" -}}
-                  🗓️
-                  {{- else }}
-                  💭
-                  {{- end -}}
-                </span>
+              <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
+                <span class="u-author h-card">
+                  <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
+                  <span>
+                    {{- if eq .Type "like" -}}
+                    ❤️
+                    {{- else if eq .Type "repost" -}}
+                    📣
+                    {{- else if eq .Type "bookmark" -}}
+                    🔖
+                    {{- else if eq .Type "rsvp" -}}
+                    🗓️
+                    {{- else }}
+                    💭
+                    {{- end -}}
+                  </span>
+                </a>
               </span>
             </span>
           {{ end }}
