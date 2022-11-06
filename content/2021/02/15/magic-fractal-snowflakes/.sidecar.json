@@ -18,6 +18,18 @@
       "content": "Henrique from Portugal is currently experiencing real snow for the first time in the Netherlands. Inspired by this he programmed a little tool to generate snowflake fractals using HTML, CSS and JavaScript. Very cool idea!https://hacdias.com/articles/2021/02/magic-fractal-snowflakes/",
       "url": "https://jlelse.blog/links/2021/02/fractal-snowflakes",
       "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "url": "https://seblog.nl/"
+      },
+      "published": "2022-11-06T08:37:37Z",
+      "content": "Nice!",
+      "url": "https://seblog.nl/2022/11/06/2/reply",
+      "type": "reply",
+      "swarmCoins": 5
     }
   ],
   "interactions": [
