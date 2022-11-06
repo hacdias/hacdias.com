@@ -35,6 +35,7 @@ This is my bookshelf with all books I remember reading in the past, or that I'm 
 
 ## 📕 Finished {#finished}
 
+
 ### 2022 <small>(21 books)</small> {#2022}
 
 - [Before the coffee gets cold](/books/before-the-coffee-gets-cold) <small>by Toshikazu Kawaguchi</small>
