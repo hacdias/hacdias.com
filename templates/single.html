@@ -6,15 +6,7 @@
   {{ $type := .Helper.PostType }}
   <article class='{{ if ne $type "article" }}card {{ end }}h-entry'>
     {{ include "post/header" . }}
-
-    {{ with .Entry.Content }}
-      <div class='copy e-content'>{{ md . }}</div>
-    {{ end }}
-
-    {{ if eq $type "read" }}
-      <div class='copy'>{{ include "post/read-status" . }}</div>
-    {{ end }}
-    
+    <div class='copy e-content'>{{ include "post/content" . }}</div>
     {{ include "post/media" . }}
     {{ include "post/footer" . }}
   </article>

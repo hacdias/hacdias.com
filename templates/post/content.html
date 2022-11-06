@@ -1,4 +1,14 @@
-{{ define "post/read-status" }}
+{{ define "post/content" }}
+  {{- $mf2 := .Helper }}
+
+  {{ with $mf2.Int "rating" }}
+    <p>
+      <data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ stars . 5 }}</data>
+    </p>
+  {{ end }}
+
+  {{- with .Content }}{{ md . }}{{ end -}}
+
   {{ with index .Properties "read-status" }}
     {{ if gt (len .) 1 }}
       <p><strong>Reading Progress</strong></p>

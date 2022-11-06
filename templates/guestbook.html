@@ -8,7 +8,7 @@
     {{ include "post/header" . }}
 
     <div class='copy e-content'>
-      {{ md .Content }}
+      {{ include "post/content" . }}
 
       <p>
         <a id="button" class="nl" rel="noopener noreferrer" target="_blank" href="{{ $url }}">

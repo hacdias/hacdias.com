@@ -3,7 +3,7 @@
     {{ include "base/admin" . }}
   
     <div class="copy {{ if eq .Data.Page 0 }}home{{ end }}">
-      {{ md .Content }}
+      {{ include "post/content" . }}
       
       <h3 id=latest>🌻 Latest Posts {{ with .Data.Page }} ({{.}}){{ end }}</h3>
 

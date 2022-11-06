@@ -26,15 +26,6 @@
     {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}
   {{ end }}
 
-  {{ with $mf2.Int "rating" }}
-    <p><strong>Rating</strong>: {{ stars . 5 }}</p>
-  {{ end }}
-
-  {{- with .Content }}{{ md . }}{{ end -}}
-
-  {{- if eq $type "read" }}
-    {{ include "post/read-status" . }}
-  {{ end -}}
-
+  {{ include "post/content" . }}
   {{ include "post/media" . }}
 {{ end }}

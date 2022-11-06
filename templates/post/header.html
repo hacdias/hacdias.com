@@ -75,8 +75,4 @@
       {{ end }}
     </header>
   {{ end }}
-
-  {{ with $mf2.Int "rating" }}
-    <p class="copy"><data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ stars . 5 }}</data></p>
-  {{ end }}
 {{ end }}
