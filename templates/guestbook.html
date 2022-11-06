@@ -18,22 +18,22 @@
     </div>
 
     {{ $data := .GetSidecar  }}
-    {{ $mentions := $data.Webmentions  }}
+    {{ $mentions := $data.Replies  }}
 
     <div class="entries">
       {{ if $mentions -}}
         {{- range $i, $data := $mentions }}
-          {{ if not (index . "wm-private")}}
+          {{ if not .Private }}
           <div class="entry">
-            {{ with .content }}
+            {{ with .Content }}
               <div>{{ safeHTML . }}</div>
             {{ end }}
 
             <div class="signature">—
-            {{ with .author.name }}{{ . }}{{ else }}Unknown{{ end }},
-            {{ with .url }}<a rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ end }}
-            {{- with .published}}{{ dateFormat . "02 January 2006" }}{{ else }}Unknown Date{{end }}
-            {{ with .url }}</a>{{ end }}
+            {{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }},
+            {{ with .URL }}<a rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ end }}
+            {{- with .Published}}{{ .Format "02 January 2006" }}{{ else }}Unknown Date{{end }}
+            {{ with .URL }}</a>{{ end }}
             </div>
           </div>
           {{ end }}
