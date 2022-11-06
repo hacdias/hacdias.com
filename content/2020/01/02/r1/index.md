@@ -5,7 +5,7 @@ section:
 - micro
 - home
 properties:
-  in-reply-to: https://hacdias.com/2020/01/02/6/dynamic-static/
+  in-reply-to: https://hacdias.com/2020/01/02/dynamic-static
   syndication:
   - https://twitter.com/hacdias/status/1212882353053478912
 ---
