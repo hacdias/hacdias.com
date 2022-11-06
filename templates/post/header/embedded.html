@@ -16,8 +16,8 @@
           <strong class="p-name">{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}</strong>
         </span>
         •
-        <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl" style="color: var(--light-gray)">
-          {{- if .Published.IsZero -}}Original Post{{ else }}{{ .Published.Format "02 Jan 2006" }}{{ end -}}
+        <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
+          <span class="lg">{{- if .Published.IsZero -}}Original Post{{ else }}{{ .Published.Format "02 Jan 2006" }}{{ end -}}</span>
         </a>
       </p>
       {{ with .Content }}

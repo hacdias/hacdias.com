@@ -30,7 +30,10 @@
                   <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
                 </span>
                 •
-                {{- if .Published.IsZero -}}Original Post{{ else }}{{ .Published.Format "02 Jan 2006" }}{{ end -}}
+                <span class="lg">
+                  {{ if .Published.IsZero -}}Original Post{{ else }}{{ .Published.Format "02 Jan 2006" }}{{ end }}
+                </span>
+                {{ with .SwarmCoins }}• <span class="lg">{{ . }} 🪙</span>{{end}}
               </p>
               {{ if .Content }}
                 <p class="e-content p-name copy">{{ truncate .Content 300 }}</p>
