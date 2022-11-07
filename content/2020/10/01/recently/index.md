@@ -3,6 +3,7 @@ title: Recently in September '20
 published: 2020-10-01T09:00:00+02:00
 section:
 - now
+- articles
 - home
 properties:
   syndication:

@@ -3,6 +3,7 @@ title: Recently in October '22
 published: 2022-10-31T15:43:53.084541853+01:00
 section:
 - home
+- articles
 - now
 createdWith: https://hacdias.com/
 ---

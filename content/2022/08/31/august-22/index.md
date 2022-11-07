@@ -3,6 +3,7 @@ title: Recently in August '22
 published: 2022-08-31T21:26:26.008409953+02:00
 section:
 - home
+- articles
 - now
 createdWith: https://hacdias.com/
 ---

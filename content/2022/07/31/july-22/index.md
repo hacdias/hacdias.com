@@ -3,6 +3,7 @@ title: Recently in July '22
 published: 2022-07-31T15:19:49.820625415+02:00
 section:
 - now
+- articles
 - home
 ---
 
