@@ -60,7 +60,7 @@
   <div class="dn">
     <div class="h-card u-author dn">
       <data class='u-photo' value="{{ .Me.Photo }}">Picture</data>
-      <a href="{{ .Site.BaseURL }}/" class="u-url p-name">{{ .Me.Name }}</a>
+      <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Me.Name }}</a>
     </div>
   </div>
 {{ end }}

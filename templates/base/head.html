@@ -24,8 +24,8 @@
 
   <!-- Social Media -->
   <meta property="og:type" content="{{ if or .Listing .IsHome }}website{{ else }}article{{ end }}" />
-  <meta name="twitter:site" content="@{{ .Me.Twitter }}"/>
-  <meta name="twitter:creator" content="@{{ .Me.Twitter }}"/>
+  <meta name="twitter:site" content="@hacdias"/>
+  <meta name="twitter:creator" content="@hacdias"/>
   <meta property="og:locale" content="{{ .Site.Language }}" />
   <meta property="og:title" content="{{ $title }}" />
   <meta property="og:description" content="{{ $description }}" />
@@ -58,14 +58,10 @@
     <link rel="token_endpoint" href="{{ absURL "/token" }}">
     <link rel="micropub" href="{{ absURL "/micropub" }}">
     <link rel="microsub" href="https://aperture.p3k.io/microsub/455">
-
-    {{ range .Me.Rels -}}
+    <link rel="me" href="{{ absURL " /pubkey.txt" }}" rel="pgpkey" />
+    {{ range .Me.Identities -}}
       <link rel="me" href="{{ . }}" />
     {{ end -}}
-
-    {{ with .Me.PGP -}}
-      <link rel="me" href="{{ . }}" rel="pgpkey" />
-    {{ end }}
   {{ end }}
 
   <link rel="webmention" href="https://webmention.io/hacdias.com/webmention" />

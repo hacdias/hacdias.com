@@ -27,7 +27,7 @@
     <label for="toggler">🍔 Menu</label>
     {{ range .Site.Menus.main -}}
       {{ $url := relURL .Link }}
-      <a href='{{ $url }}' class='nl{{ if eq $url $.ID }} active{{ end }}'>{{ .Emoji }} {{ .Name }}</a>
+      <a href='{{ $url }}' class='nl{{ if eq $url $.ID }} active{{ end }}'>{{ .Name }}</a>
     {{ end }}
     {{ if .IsLoggedIn }}
       {{ if .IsAdmin }}<a href='{{ relURL "/dashboard" }}' class='nl'>🎛 Admin</a>
