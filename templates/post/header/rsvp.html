@@ -15,16 +15,16 @@
       ❓ Will maybe attend
     {{ end }}
 
-    {{ with $data.Context }}
+    {{/* {{ with $data.Context }}
     <span class="h-cite u-in-reply-to">
-      <strong><a rel="noopener noreferrer" target="_blank" href="{{ .url }}" class="u-url p-name">{{ .name }}</a></strong>
+      <strong><a rel="noopener noreferrer" target="_blank" href="{{ $url }}" class="u-url p-name">{{ .Name }}</a></strong>
       {{- if .start }} on {{ dateFormat .start "January 02, 2006" }}{{ end }}
     </span>
-    {{ else }}
+    {{ else }} */}}
     <span class="h-cite u-in-reply-to">
       <strong>an event on <a rel="noopener noreferrer" target="_blank" href="{{ $url }}">{{ domain $url }}</a></strong>
     </span>
-    {{ end }}
+    {{/* {{ end }} */}}
   </div>
 
   <data class="p-rsvp" value="{{ $rsvp }}"></data>
