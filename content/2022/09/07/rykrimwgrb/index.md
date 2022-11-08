@@ -5,6 +5,7 @@ section:
 - home
 createdWith: https://micropublish.net/
 properties:
+  category: thesis
   syndication:
   - https://twitter.com/hacdias/status/1567496952689958913
 ---
