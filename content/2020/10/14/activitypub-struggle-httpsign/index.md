@@ -8,6 +8,7 @@ properties:
   category:
   - meta
   - indieweb
+  - activitypub
   in-reply-to: https://jan.boddez.net/notes/046185c328
 ---
 

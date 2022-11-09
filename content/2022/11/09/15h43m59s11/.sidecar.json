@@ -1,0 +1,21 @@
+{
+  "targets": [
+    "https://dicionario.priberam.org/debandada",
+    "https://hacdias.com/tags/activitypub",
+    "https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html",
+    "https://barryfrost.com/2022/11/i-ve-added-mastodon-syndication-to",
+    "https://brid.gy/"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Barry Frost",
+        "photo": "https://cdn.hacdias.com/wm/383c80e7bedec43f1d730c5b2b7e115f3ddea7f0c1446393b8dd35eec4f0b2f5.jpg",
+        "url": "https://barryfrost.com/"
+      },
+      "published": "2022-11-09T20:58:33Z",
+      "url": "https://barryfrost.com/2022/11/6wzai0edi25",
+      "type": "like"
+    }
+  ]
+}

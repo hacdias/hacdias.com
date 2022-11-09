@@ -30,5 +30,6 @@ Impact Analysis of Different Consensus, Participant Selection and Scoring Algori
 
 - [📄 Thesis](https://cdn.hacdias.com/media/1a2c9b43ee0a3d1a4a9aab9b8c4f94172660c39903be6f42e354f47700995602.pdf)
 - [📣 Slides](https://cdn.hacdias.com/media/f04b0bb5bd8034d205d1568b76e99670201c07e5fdda53bd134f6194c13bef97.pdf)
+- [🧱 BlockLearning Framework](https://github.com/hacdias/blocklearning)
 
 </div>
