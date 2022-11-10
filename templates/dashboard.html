@@ -69,11 +69,9 @@
 
       <form method=POST>
         <ol>
-          <li><label><input type="radio" name="action" value="clear-cache" /> Clear Cache</label></li>
-          <li><label><input type="radio" name="action" value="sync-storage" /> Sync Storage</label></li>
-          <li><label><input type="radio" name="action" value="update-blogroll" /> Update Blogroll</label></li>
-          <li><label><input type="radio" name="action" value="update-reads-statistics" /> Update Reads Statistics</label></li>
-          <li><label><input type="radio" name="action" value="update-watches-statistics" /> Update Watches Statistics</label></li>
+          {{ range .Data.Actions }}
+            <li><label><input type="radio" name="action" value="{{ . }}" /> {{ . }}</label></li>
+          {{ end }}
         </ol>
 
         <button type="submit" name="submit" value="do">Do</button>
@@ -86,7 +84,7 @@
       <h2>Generate Token</h2>
 
       <form id="token" method=POST>
-        <input type="hidden" name="action" value="token" />
+        <input type="hidden" name="token" value="true" />
         <input required type="url" name="client_id" placeholder="Client ID">
         <input required type="text" name="scope" placeholder="Scope">
 
