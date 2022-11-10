@@ -37,10 +37,6 @@
   margin: 0;
 }
 
-.wm .h-cite > p:first-of-type {
-  font-size: var(--f7);
-}
-
 .wm .h-cite .u-author .p-name {
   font-weight: bold;
 }

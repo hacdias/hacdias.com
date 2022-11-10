@@ -21,10 +21,10 @@
       {{ if len $sidecar.Replies }}
       <div class='contents'>
         {{ range $sidecar.Replies }}
-          {{ if not .Private }}
+          {{ if or (not (or .Private .Hidden)) $.IsAdmin }}
           <div class="h-cite">
-            <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
-              <p>
+            <p>
+              <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
                 <span class="u-author h-card">
                   <strong class="p-name">{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}</strong>
                   <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
@@ -33,10 +33,19 @@
                 <span class="lg">
                   {{ if .Published.IsZero -}}Original Post{{ else }}{{ .Published.Format "02 Jan 2006" }}{{ end }}
                 </span>
-                {{ with .SwarmCoins }}• <span class="lg">{{ . }} 🪙</span>{{end}}
-              </p>
+              </a>
+              {{ with .SwarmCoins }}• <span class="lg">{{ . }} 🪙</span>{{end}}
+              {{ if $.IsAdmin }}
+                {{ if .Private }} • <span class='lg'>Private</span> {{ end }}
+                {{ if .Hidden }} • <span class='lg'>Hidden</span>{{ end }}
+                • <span class='lg'><a href="/mention-toggle{{ $.ID }}?wm={{ .URL }}">Toggle Visibility</a></span>
+              {{ end }}
+            </p>
+            <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
               {{ if .Content }}
                 <p class="e-content p-name copy">{{ truncate .Content 300 }}</p>
+              {{ else if .Name }}
+                <p class="e-content p-name copy">{{ .Name }}</p>
               {{ else }}
                 <p class="copy">Mention on {{ domain .URL }}</p>
               {{ end }}
@@ -50,7 +59,7 @@
       {{ if len $sidecar.Interactions}}
       <div class='contents'>
         {{ range $sidecar.Interactions }}
-          {{ if not .Private}}
+          {{ if or (not (or .Private .Hidden)) $.IsAdmin }}
             <span class="h-cite reaction">
               <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
                 <span class="u-author h-card">
