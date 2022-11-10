@@ -162,6 +162,12 @@
     "category": "following"
   },
   {
+    "title": "Interdependent Thoughts",
+    "site": "https://www.zylstra.org/blog",
+    "feed": "https://www.zylstra.org/blog/feed/",
+    "category": "following"
+  },
+  {
     "title": "Isaac Schlueter",
     "site": "https://blog.izs.me/",
     "feed": "https://blog.izs.me/feed/feed.json",

@@ -90,6 +90,7 @@ An alphabetically sorted list of blogs, websites and people that I follow. News 
 - [Go, blog with GoBlog!](https://goblog.app)
 - [Home on Rakhim.org](https://rakhim.org/)
 - [Horst Gutmann](https://zerokspot.com/)
+- [Interdependent Thoughts](https://www.zylstra.org/blog)
 - [Isaac Schlueter](https://blog.izs.me/)
 - [Jake Bauer](https://www.paritybit.ca)
 - [James](https://jamesg.blog/)
