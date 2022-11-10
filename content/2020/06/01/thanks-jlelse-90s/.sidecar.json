@@ -5,11 +5,11 @@
   "context": {
     "author": {
       "name": "Jan-Lukas Else",
-      "photo": "https://jlelse.dev/profile.png",
-      "url": "https://jlelse.dev/"
+      "photo": "https://cdn.hacdias.com/wm/25f95225b9799e1123ba032a9fd8fb87161d2b3e124500e2246e4ab12707f04a.png",
+      "url": "https://jlelse.blog"
     },
-    "published": "2020-06-01T05:43:52Z",
+    "published": "2020-06-01T07:43:52+02:00",
     "content": "That’s an awesome approach to combine the 90s web with the IndieWeb, Henrique. I really like your new 90s web-inspired website style, well done!",
-    "url": "https://jlelse.blog/micro/2020/06/90s-web/"
+    "url": "https://jlelse.blog/micro/2020/06/90s-web"
   }
 }

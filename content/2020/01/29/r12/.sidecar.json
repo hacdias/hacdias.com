@@ -5,11 +5,11 @@
   "context": {
     "author": {
       "name": "Jan-Lukas Else",
-      "photo": "https://jlelse.dev/profile-512.jpg",
-      "url": "https://jlelse.dev/"
+      "photo": "https://cdn.hacdias.com/wm/25f95225b9799e1123ba032a9fd8fb87161d2b3e124500e2246e4ab12707f04a.png",
+      "url": "https://jlelse.blog"
     },
-    "published": "2020-01-29T11:21:00Z",
+    "published": "2020-01-29T11:21:57+01:00",
     "content": "I just want to briefly announce on my blog that I have successfully completed the apprenticeship part of my dual study and can now call myself “Fachinformatiker für Anwendungsentwicklung” (IT specialist for application development)!",
-    "url": "https://jlelse.blog/micro/2020/01/fachinformatiker/"
+    "url": "https://jlelse.blog/micro/2020/01/fachinformatiker"
   }
 }

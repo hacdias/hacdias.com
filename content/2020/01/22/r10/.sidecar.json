@@ -5,10 +5,10 @@
   "context": {
     "author": {
       "name": "Aaron Parecki",
-      "photo": "https://aaronparecki.com/images/profile.jpg",
+      "photo": "https://cdn.hacdias.com/wm/41061f9de825966faa22e9c42830e1d4a614a321213b4575b9488aa93f89817a.jpg",
       "url": "https://aaronparecki.com/"
     },
-    "published": "2020-01-22T13:25:29Z",
+    "published": "2020-01-22T05:25:29-08:00",
     "content": "It's all a giant pile of PHP code I wrote ages ago, it's not even map-projection-aware it just plots on a 2D canvas. The animation is basically a timelapse of a bunch of frames of that same script played in a row.",
     "url": "https://aaronparecki.com/2020/01/22/1/"
   }

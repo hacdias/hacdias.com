@@ -5,12 +5,13 @@
   "context": {
     "author": {
       "name": "Jan-Lukas Else",
-      "photo": "https://jlelse.dev/profile-512.jpg",
-      "url": "https://jlelse.dev/"
+      "photo": "https://cdn.hacdias.com/wm/25f95225b9799e1123ba032a9fd8fb87161d2b3e124500e2246e4ab12707f04a.png",
+      "url": "https://jlelse.blog"
     },
-    "published": "2020-01-22T08:43:00Z",
-    "content": "On a lot of IndieWeb sites, I noticed that profile images of webmentions get directly embedded from their original source. For example, Twitter profile images are loaded directly from Twitter servers (pbs.twimg.com) or even my profile image is directly embedded from my site.However you should consider enabling Content Security Policy (CSP) headers and only allow embedded content from trusted sites (your own domains). It could always happen that a site gets hacked and malware injected or a domain expires and some spammers register it again, that will also affect your website’s visitors. You won’t even notice it.To solve this, you basically have two options:don’t display them at all, or download those images and serve the downloaded copy. And don’t forget to enable CSP headers on your site!Update: Sebastiaan Andeweg wrote a reply and linked his article, about how he hacked his own website! If you use PHP for your IndieWeb site, make sure to read it!",
-    "url": "https://jlelse.blog/thoughts/2020/01/security-risk-embedding/"
+    "published": "2020-01-22T08:43:15+01:00",
+    "name": "The security risk of embedding images from external sites",
+    "content": "On a lot of IndieWeb sites, I noticed that profile images of webmentions get directly embedded from their original source. For example, Twitter profile images are loaded directly from Twitter servers (pbs.twimg.com) or even my profile image is directly embedded from my site. However you should consider enabling Content Security Policy (CSP) headers and only allow embedded content from trusted sites (your own domains). It could always happen that a site gets hacked and malware injected or a domain expires and some spammers register it again, that will also affect your website’s visitors. You won’t even notice it. To solve this, you basically have two options: don’t display them at all, or download those images and serve the downloaded copy. And don’t forget to enable CSP headers on your site! Update: Sebastiaan Andeweg wrote a reply and linked his article, about how he hacked his own website! If you use PHP for your IndieWeb site, make sure to read it!",
+    "url": "https://jlelse.blog/thoughts/2020/01/security-risk-embedding"
   },
   "replies": [
     {
