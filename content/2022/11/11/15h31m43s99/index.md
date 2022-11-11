@@ -1,6 +1,6 @@
 ---
 description: A note
-draft: true
+deleted: true
 published: 2022-11-11T15:31:43.990647057+01:00
 section:
 - micro
