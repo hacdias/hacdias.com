@@ -219,6 +219,7 @@ input[type="submit"]:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2));
 }
 
+textarea:disabled,
 input:disabled {
   background-color: var(--near-white);
   cursor: not-allowed;

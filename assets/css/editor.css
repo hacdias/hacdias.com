@@ -1,9 +1,15 @@
+main p,
 main input,
 main textarea,
 main button {
   display: block;
   width: 100%;
   margin: 0.5rem 0;
+}
+
+main .box {
+  margin: 0.5rem 0;
+  border: 1px solid var(--light-white);
 }
 
 main textarea {

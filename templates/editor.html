@@ -1,21 +1,30 @@
 {{ define "main" }}
   <link rel="stylesheet" href="{{ .Assets.Path "editor.css" }}">
-  <main role='main' id="editor-page">
+  <main role='main' id="editor-page" class='copy'>
     <header>
       <h1>Edit</h1>
     </header>
 
-    <form method=POST>
+    <form>
       <input type="text" disabled value="{{ .Data.Entry.ID }}" />
-      <textarea required id=content name=content>{{ .Data.Content }}</textarea>
+    </form>
 
+    <details class="box">
+      <summary>Rename</summary>
+      <p><small>Please write the new slug of the post.</small></p>
+      <form method="post">
+        <input type="text" name="rename" placeholder="New ID" value="{{ .Data.Entry.ID }}" required />
+        <input value="Rename" type="submit">
+      </form>
+    </details>
+
+    <form method="post">
+      <textarea required id=content name=content>{{ .Data.Content }}</textarea>
       <div class=options>
         <label><input type=checkbox name=lastmod {{ if not .Data.Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
       </div>
-
       {{ include "editor/syndicators" . }}
-
-      <button type="submit">Update</button>
+      <input value="Update" type="submit">
     </form>
   </main>
   <script type="text/javascript" src="{{ .Assets.Path "editor.js" }}"></script>
