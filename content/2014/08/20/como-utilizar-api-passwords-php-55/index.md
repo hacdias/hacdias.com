@@ -6,8 +6,8 @@ published: 2014-08-20T22:16:15Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - php
   - security
   - portuguese

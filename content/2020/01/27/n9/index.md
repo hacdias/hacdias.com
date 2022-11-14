@@ -3,8 +3,8 @@ published: 2020-01-27T23:32:49.353Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - personal
   - time
 ---

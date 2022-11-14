@@ -5,9 +5,6 @@ section:
 - micro
 createdWith: https://quill.p3k.io/
 properties:
-  category:
-  - trakt
-  - meta
   location:
     properties:
       country-name: Netherlands
@@ -16,6 +13,10 @@ properties:
       longitude: 5.48606
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - trakt
+  - meta
 ---
 
 I am slowly bringing [OwnYourTrakt](https://github.com/hacdias/ownyourtrakt) back to life!

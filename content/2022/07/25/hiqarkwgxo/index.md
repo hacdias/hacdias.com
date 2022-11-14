@@ -7,10 +7,6 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://handshake.org/
-  category:
-  - dns
-  - dweb
-  - decentralization
   location:
     properties:
       country-name: Netherlands
@@ -19,6 +15,11 @@ properties:
       longitude: 5.48614
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - dns
+  - dweb
+  - decentralization
 ---
 
 

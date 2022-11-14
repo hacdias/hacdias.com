@@ -4,12 +4,13 @@ section:
 - home
 - micro
 properties:
-  category:
+  photo: cdn:/2021-01-lovers-coffee
+taxonomies:
+  tags:
   - art
   - creative
   - procreate
   - drawing
-  photo: cdn:/2021-01-lovers-coffee
 ---
 
 Lovers Coffee

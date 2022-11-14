@@ -4,12 +4,13 @@ section:
 - home
 - micro
 properties:
-  category:
+  photo: cdn:/2019-09-sunflower
+taxonomies:
+  tags:
   - art
   - creative
   - procreate
   - drawing
-  photo: cdn:/2019-09-sunflower
 ---
 
 Sunflower

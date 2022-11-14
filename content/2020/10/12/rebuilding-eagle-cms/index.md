@@ -6,8 +6,8 @@ published: 2020-10-12T09:00:00+02:00
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
 ---
 

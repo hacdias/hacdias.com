@@ -4,10 +4,11 @@ section:
 - home
 - micro
 properties:
-  category:
-  - indieweb
   syndication:
   - https://twitter.com/hacdias/status/1211996203514290176
+taxonomies:
+  tags:
+  - indieweb
 ---
 
 Just published two minimal packages to help building micropub applications!

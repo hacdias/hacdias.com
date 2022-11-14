@@ -9,7 +9,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://webring.xxiivv.com/
-  category:
+taxonomies:
+  tags:
   - webring
 ---
 

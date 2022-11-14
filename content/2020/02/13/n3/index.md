@@ -3,8 +3,8 @@ published: 2020-02-13T21:15:56.284Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - ipfs
   - pins
   - archival

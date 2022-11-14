@@ -7,11 +7,12 @@ section:
 - articles
 - home
 properties:
-  category:
-  - meta
-  - reflection
   syndication:
   - https://twitter.com/hacdias/status/1231484792027348994
+taxonomies:
+  tags:
+  - meta
+  - reflection
 ---
 
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of

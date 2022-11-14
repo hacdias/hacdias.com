@@ -3,8 +3,8 @@ published: 2020-05-14T21:36:29.879Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - automation
   - dns
   - tools

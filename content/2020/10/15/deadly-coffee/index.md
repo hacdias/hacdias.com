@@ -4,12 +4,13 @@ section:
 - home
 - micro
 properties:
-  category:
+  photo: cdn:/2020-10-deadly-coffee
+taxonomies:
+  tags:
   - art
   - creative
   - procreate
   - drawing
-  photo: cdn:/2020-10-deadly-coffee
 ---
 
 Deadly Coffee

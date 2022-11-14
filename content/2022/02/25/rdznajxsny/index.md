@@ -7,8 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://bookish.tech/
-  category: tool
+taxonomies:
+  tags:
+  - tool
 ---
 
 Find book information via its ISBN.
-

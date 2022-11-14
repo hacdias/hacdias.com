@@ -6,8 +6,8 @@ published: 2015-02-11T22:19:40Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
 ---
 

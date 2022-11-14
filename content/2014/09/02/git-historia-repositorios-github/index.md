@@ -6,8 +6,8 @@ published: 2014-09-02T14:09:59Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - git
   - portuguese
 ---

@@ -5,11 +5,12 @@ section:
 - articles
 - home
 properties:
-  category:
-  - meta
-  - indieweb
   syndication:
   - https://twitter.com/hacdias/status/1212881805096996864
+taxonomies:
+  tags:
+  - meta
+  - indieweb
 ---
 
 After digressing a bit about [building a Micropub](/2020/01/01/building-micropub) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.

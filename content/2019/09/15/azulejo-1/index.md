@@ -4,12 +4,13 @@ section:
 - home
 - micro
 properties:
-  category:
+  photo: cdn:/2019-09-azulejo-sea
+taxonomies:
+  tags:
   - art
   - creative
   - procreate
   - drawing
-  photo: cdn:/2019-09-azulejo-sea
 ---
 
 Azulejo #1

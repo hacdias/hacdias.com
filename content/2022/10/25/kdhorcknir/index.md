@@ -5,7 +5,6 @@ section:
 - home
 createdWith: https://micropublish.net/
 properties:
-  category: covid19
   location:
     properties:
       country-name: Portugal
@@ -14,6 +13,9 @@ properties:
       longitude: -9.1567
       region: Lisbon
     type: h-adr
+taxonomies:
+  tags:
+  - covid19
 ---
 
 Managed to dodge Covid-19 for three years, and the day after I fly to Lisbon for a company event, I test positive 🦠. I guess I don't have the lucky gene then.

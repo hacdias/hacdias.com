@@ -3,8 +3,8 @@ published: 2020-01-28T10:06:45.518Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - comics
 ---
 

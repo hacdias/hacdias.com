@@ -3,8 +3,8 @@ published: 2020-03-27T19:27:01.885Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - backup
   - ideas
 ---

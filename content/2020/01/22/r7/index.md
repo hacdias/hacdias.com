@@ -5,10 +5,11 @@ section:
 - micro
 - home
 properties:
-  category:
+  in-reply-to: https://jlelse.blog/thoughts/2020/01/security-risk-embedding/
+taxonomies:
+  tags:
   - security
   - webmentions
-  in-reply-to: https://jlelse.blog/thoughts/2020/01/security-risk-embedding/
 ---
 
 This is actually the next thing I want to "fix". Other problem of twitter is that, if the user changes the profile picture, the previous one gets unavailable. For webmentions, I'm using the images provided by webmention.io, but for replies, likes and reposts context, I'm using the original source and I don't like it.

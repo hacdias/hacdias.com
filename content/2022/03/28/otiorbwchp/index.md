@@ -5,9 +5,6 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  category:
-  - university
-  - masters
   location:
     properties:
       country-name: Netherlands
@@ -16,6 +13,10 @@ properties:
       longitude: 5.48616
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - university
+  - masters
 ---
 
 Next quartile, I will not only be working and doing my thesis, but also taking a weekly Dutch lesson and be a TA for a Deep Learning course. Did I make a bad decision?

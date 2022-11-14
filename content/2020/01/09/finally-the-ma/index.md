@@ -4,11 +4,12 @@ section:
 - home
 - micro
 properties:
-  category:
-  - dweb
-  - web3
   syndication:
   - https://twitter.com/hacdias/status/1215294494511452169
+taxonomies:
+  tags:
+  - dweb
+  - web3
 ---
 
 Finally, the Manyverse application arrived to iOS. I would like to see more developments on the Planetary side though.

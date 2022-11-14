@@ -7,11 +7,12 @@ section:
 - articles
 - home
 properties:
-  category:
-  - meta
-  - indieweb
   syndication:
   - https://twitter.com/hacdias/status/1211797283525812224
+taxonomies:
+  tags:
+  - meta
+  - indieweb
 ---
 
 This is going to be a quick post — I hope. 

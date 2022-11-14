@@ -3,8 +3,8 @@ published: 2020-01-20T22:23:22.202Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - terminal
   - tip
 ---

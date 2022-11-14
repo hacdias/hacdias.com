@@ -7,9 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://www.neelc.org/posts/web3-centralized/
-  category:
+taxonomies:
+  tags:
   - web3
 ---
-
 
 

@@ -4,8 +4,8 @@ published: 2021-11-19T08:02:07.764131763+01:00
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
 ---
 

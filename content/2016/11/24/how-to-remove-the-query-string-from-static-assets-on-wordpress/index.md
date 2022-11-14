@@ -4,8 +4,8 @@ published: 2016-11-24T00:00:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - php
 ---
 

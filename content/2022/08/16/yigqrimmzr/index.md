@@ -7,11 +7,11 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://mrkaran.dev/posts/exposing-services/
-  category:
+taxonomies:
+  tags:
   - tailscale
   - docker
   - caddy
 ---
-
 
 

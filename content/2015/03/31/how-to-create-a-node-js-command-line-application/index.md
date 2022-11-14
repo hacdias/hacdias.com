@@ -6,8 +6,8 @@ published: 2015-03-31T18:55:49Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - javascript
   - nodejs
 ---

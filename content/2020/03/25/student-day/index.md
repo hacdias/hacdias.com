@@ -3,8 +3,8 @@ published: 2020-03-25T17:25:06.51Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - portugal
   - student
 ---

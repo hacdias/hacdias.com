@@ -4,8 +4,8 @@ updated: 2021-04-21T18:23:59.335822566Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - deprecation
 ---

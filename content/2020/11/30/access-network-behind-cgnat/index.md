@@ -5,8 +5,8 @@ updated: 2021-05-30T13:00:19.480977071Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - networking
   - wireguard
 ---
@@ -165,4 +165,3 @@ PersistentKeepalive = 25
 On your phone, it can be easily added through the Wireguard app. The same on the computer. This will create a **full tunnel** VPN. However, if you just want to access your local network, while using your current Internet connection for everything else, you can create a **split tunnel** client. For that, you just need to change the `AllowedIPs` field to your network subnet: `192.168.1.0/24`.
 
 And you're done! From your smartphone you should be able to ping and access any device on your private network by their local IP. I want to thank to the many guides like [this](https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/) that I found online and helped me with this!
-

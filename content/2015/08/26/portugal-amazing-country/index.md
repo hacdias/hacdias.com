@@ -6,8 +6,8 @@ published: 2015-08-26T22:40:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - portugal
 ---
 

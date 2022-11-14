@@ -3,8 +3,8 @@ published: 2020-01-26T10:38:10.206Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - design
   - javascript
   - optimization

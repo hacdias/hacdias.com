@@ -5,7 +5,6 @@ section:
 - micro
 createdWith: https://quill.p3k.io/
 properties:
-  category: meta
   location:
     properties:
       country-name: Netherlands
@@ -14,6 +13,9 @@ properties:
       longitude: 5.48607
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - meta
 ---
 
 Quickly added a form to my website's dashboard to generate IndieAuth tokens on demand. This is going to be fun for some automation!

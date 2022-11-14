@@ -4,12 +4,13 @@ section:
 - home
 - micro
 properties:
-  category:
+  syndication:
+  - https://twitter.com/hacdias/status/1252722765767086081
+taxonomies:
+  tags:
   - dweb
   - web3
   - ipfs
-  syndication:
-  - https://twitter.com/hacdias/status/1252722765767086081
 ---
 
 Thought about sharing this if anyone’s interested: https://ipfspinningsummit.com/

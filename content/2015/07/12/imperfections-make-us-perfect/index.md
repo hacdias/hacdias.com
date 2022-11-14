@@ -6,8 +6,8 @@ published: 2015-07-12T13:45:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - creative
   - reflection
 ---

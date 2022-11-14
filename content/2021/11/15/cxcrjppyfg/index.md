@@ -8,7 +8,9 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://personalsit.es/
-  category: personal-website
+taxonomies:
+  tags:
+  - personal-website
 ---
 
 

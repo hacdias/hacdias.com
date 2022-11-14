@@ -4,12 +4,13 @@ section:
 - home
 - micro
 properties:
-  category:
+  photo: cdn:/2020-04-withchs-hut
+taxonomies:
+  tags:
   - art
   - creative
   - procreate
   - drawing
-  photo: cdn:/2020-04-withchs-hut
 ---
 
 Witch's Hut

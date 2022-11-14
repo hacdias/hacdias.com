@@ -6,7 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://ipfs.io/
-  category:
+taxonomies:
+  tags:
   - dweb
   - web3
 ---

@@ -7,7 +7,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://blog.jim-nielsen.com/2022/well-known-links-resource/
-  category:
+taxonomies:
+  tags:
   - indieweb
   - well-known
 ---

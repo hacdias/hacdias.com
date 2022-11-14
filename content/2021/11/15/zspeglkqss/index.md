@@ -6,7 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://unstoppabledomains.com/
-  category:
+taxonomies:
+  tags:
   - dweb
   - web3
   - dns

@@ -6,8 +6,8 @@ published: 2019-08-07T18:45:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - ipfs
   - dns
   - meta

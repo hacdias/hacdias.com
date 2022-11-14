@@ -6,8 +6,8 @@ section:
 - articles
 - home
 createdWith: https://hacdias.com/
-properties:
-  category:
+taxonomies:
+  tags:
   - ovpay
 ---
 

@@ -6,7 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://www.namebase.io/
-  category:
+taxonomies:
+  tags:
   - dweb
   - web3
   - dns

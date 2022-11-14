@@ -6,8 +6,8 @@ published: 2014-07-17T14:51:56Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - php
   - html
   - mysql

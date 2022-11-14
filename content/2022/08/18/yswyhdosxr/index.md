@@ -7,7 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://zdimension.fr/
-  category: personal-website
+taxonomies:
+  tags:
+  - personal-website
 ---
 
 Great posts about Rust and low-level programming.

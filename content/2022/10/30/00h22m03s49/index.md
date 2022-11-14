@@ -8,7 +8,6 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://twitter.com/andrestaltz/status/1583556396636741633
-  category: web3
   location:
     properties:
       country-name: Portugal
@@ -17,6 +16,9 @@ properties:
       longitude: -9.1565
       region: Lisbon
     type: h-adr
+taxonomies:
+  tags:
+  - web3
 ---
 
 > This requires long-from writing, but one common myth in the decentralized industry is that content can be monetized. Web3 social nets in particular love to proclaim that they're helping creators make a living. Content is hardly monetizable.

@@ -7,8 +7,8 @@ updated: 2015-06-10T15:01:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - php
   - portuguese
 ---

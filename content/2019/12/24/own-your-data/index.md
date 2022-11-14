@@ -6,8 +6,8 @@ published: 2019-12-24T20:00:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - reflection
   - privacy
 ---

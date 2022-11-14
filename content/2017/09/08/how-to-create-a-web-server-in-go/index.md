@@ -4,8 +4,8 @@ published: 2017-09-08T00:00:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - go
 ---
 

@@ -5,7 +5,6 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  category: meta
   location:
     properties:
       country-name: Netherlands
@@ -14,6 +13,9 @@ properties:
       longitude: 5.48611
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - meta
 ---
 
 Today I made some visual updates to my website. I replaced the spatial background by a plain colour background and merged the header and navigation bar into one. However, I still kept some pages with a custom background because it looks great for some specific occasions.

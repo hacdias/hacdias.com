@@ -5,9 +5,10 @@ section:
 - micro
 - home
 properties:
-  category:
-  - meta
   in-reply-to: https://janboddez.tech/notes/b6b59a1630
+taxonomies:
+  tags:
+  - meta
 ---
 
 > Love the animated GIFs! The background!

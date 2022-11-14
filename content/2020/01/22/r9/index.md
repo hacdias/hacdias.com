@@ -5,11 +5,12 @@ section:
 - micro
 - home
 properties:
-  category:
+  in-reply-to: https://aaronparecki.com/gps
+taxonomies:
+  tags:
   - gps
   - data
   - visualization
-  in-reply-to: https://aaronparecki.com/gps
 ---
 
 Hey Aaron! What software/library are you using to generate those maps with your location? Can they be considered heat maps? And what about the animated video?

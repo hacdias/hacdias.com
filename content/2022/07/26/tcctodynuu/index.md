@@ -5,8 +5,6 @@ section:
 - watches
 createdWith: https://hacdias.com/
 properties:
-  category:
-  - concert
   location: /2022/07/26/rgnsldbaxr
   photo: cdn:/94bf9bbe15e94d7864a37a65ac4f4f1632bf9d041ecb10e7f905e32315d8123e
   watch-of:
@@ -14,6 +12,9 @@ properties:
       author: Lady Gaga
       name: The Chromatica Ball
     type: h-cite
+taxonomies:
+  tags:
+  - concert
 ---
 
 It. Was. Incredible.

@@ -7,7 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://dmitri.shuralyov.com/
-  category: personal-website
+taxonomies:
+  tags:
+  - personal-website
 ---
 
 

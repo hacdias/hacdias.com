@@ -5,7 +5,6 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  category: security
   location:
     properties:
       country-name: Netherlands
@@ -14,6 +13,9 @@ properties:
       longitude: 5.48615
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - security
 ---
 
 I finally stopped using GPG keys for SSH authentication. Now I purely use SSH keys protected by 2FA via security keys. Now I have to get used to "touching" for authentication!

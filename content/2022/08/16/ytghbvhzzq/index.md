@@ -7,7 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://blog.sanctum.geek.nz/vim-anti-patterns/
-  category: vim
+taxonomies:
+  tags:
+  - vim
 ---
 
 

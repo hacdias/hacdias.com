@@ -4,8 +4,8 @@ published: 2021-11-05T13:14:32.567880752Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - micropub
 ---

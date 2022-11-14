@@ -6,11 +6,11 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://boom.fyi/
-  category:
+taxonomies:
+  tags:
   - dweb
   - tool
   - ipfs
 ---
 
 IPFS link shortener
-

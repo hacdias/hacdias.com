@@ -3,8 +3,8 @@ published: 2020-01-21T22:30:58.354Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - design
   - optimization

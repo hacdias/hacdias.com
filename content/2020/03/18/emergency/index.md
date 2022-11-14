@@ -3,8 +3,8 @@ published: 2020-03-18T21:45:08.313Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - covid19
 ---
 

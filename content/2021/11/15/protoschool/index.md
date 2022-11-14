@@ -6,7 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://proto.school/
-  category:
+taxonomies:
+  tags:
   - web3
   - dweb
   - educational

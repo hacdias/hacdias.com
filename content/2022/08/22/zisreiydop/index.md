@@ -7,7 +7,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://gifcities.org/
-  category:
+taxonomies:
+  tags:
   - gif
   - small-web
   - web2

@@ -5,10 +5,11 @@ section:
 - micro
 - home
 properties:
-  category:
+  in-reply-to: https://jan.boddez.net/notes/046185c328
+taxonomies:
+  tags:
   - meta
   - indieweb
-  in-reply-to: https://jan.boddez.net/notes/046185c328
 ---
 
 Well... it was a library issue. Upgraded it, working now. Unfortunately, when I added it, the dependency manager didn't add the last version, but it's not its fault. The source code is not correctly tagged it seems!

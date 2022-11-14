@@ -6,11 +6,12 @@ section:
 - articles
 - home
 properties:
-  category:
-  - javascript
-  - art
   syndication:
   - https://twitter.com/hacdias/status/1361206419266154499
+taxonomies:
+  tags:
+  - javascript
+  - art
 ---
 
 <p class=dn>

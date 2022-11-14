@@ -7,11 +7,11 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://iknowwhatyoudownload.com/
-  category:
+taxonomies:
+  tags:
   - tool
   - fun
   - torrent
 ---
-
 
 

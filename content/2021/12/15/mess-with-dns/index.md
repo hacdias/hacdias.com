@@ -7,7 +7,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://messwithdns.net/
-  category:
+taxonomies:
+  tags:
   - dns
   - networking
   - tool

@@ -6,8 +6,10 @@ section:
 - home
 createdWith: https://micropublish.net/
 properties:
-  category: email
   in-reply-to: https://rusingh.com/email-is-nice/
+taxonomies:
+  tags:
+  - email
 ---
 
 I recently transitioned from [ImprovMX to Migadu](/2022/03/06/ttahqozjog) to lower my costs. However, I'm planning to move everything over from Google (Calendar, Contacts and E-mail). Unfortunately, Migadu doesn't have official support for Calendar and Contacts yet. They say that will be available within two months. However, they've given other similar deadlines over the last year that did not happen.

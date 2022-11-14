@@ -7,11 +7,11 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://ane.iki.fi/2022/06/21/beenthere-donethat.html
-  category:
+taxonomies:
+  tags:
   - tool
   - terminal
   - unix
 ---
 
 About bookmarking shell commands.
-

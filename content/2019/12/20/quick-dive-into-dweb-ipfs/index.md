@@ -6,13 +6,14 @@ published: 2019-12-20T15:00:00Z
 section:
 - home
 properties:
-  category:
-  - ipfs
-  - talk
   syndication: https://www.youtube.com/watch?v=EmxUyuCD37Q
   video:
   - alt: https://cdn.hacdias.com/img/1000/c9c92dd487ff60f5c1b87376a2c13f84bd9467e28eac107a624f4ce7e738654b.jpeg
     value: https://cdn.hacdias.com/media/2019-12-quick-dive-into-dweb-ipfs.mp4
+taxonomies:
+  tags:
+  - ipfs
+  - talk
 ---
 
 A few days ago, on the 30th of November, I gave my first talk at [BarcampLX](https://www.meetup.com/BarcampLx/events/265593046/),

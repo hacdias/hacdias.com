@@ -4,8 +4,8 @@ published: 2021-05-30T10:23:57.3713559Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - terminal
   - tip
   - software

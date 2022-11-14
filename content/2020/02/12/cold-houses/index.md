@@ -3,8 +3,8 @@ published: 2020-02-12T09:13:24.415Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - portugal
   - construction
 ---

@@ -3,8 +3,8 @@ published: 2020-02-01T14:52:09.397Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - cdn
   - micropub

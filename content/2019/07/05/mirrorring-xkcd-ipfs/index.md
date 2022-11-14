@@ -6,8 +6,8 @@ published: 2019-07-05T16:20:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - ipfs
   - web3
 ---

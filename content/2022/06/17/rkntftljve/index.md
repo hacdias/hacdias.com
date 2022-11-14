@@ -5,9 +5,6 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  category:
-  - indieweb
-  - meta
   location:
     properties:
       country-name: Netherlands
@@ -16,6 +13,10 @@ properties:
       longitude: 5.48608
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - indieweb
+  - meta
 ---
 
 Just made a very small update to my website. Now, I can update reading progress much easily: I just need to go to the book's page and then I will have this options:

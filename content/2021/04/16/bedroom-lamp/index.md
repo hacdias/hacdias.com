@@ -5,11 +5,12 @@ section:
 - micro
 photoClass: pixelated
 properties:
-  category:
+  photo: https://cdn.hacdias.com/media/2019-04-bedroom-lamp.gif
+taxonomies:
+  tags:
   - pixelart
   - creative
   - art
-  photo: https://cdn.hacdias.com/media/2019-04-bedroom-lamp.gif
 ---
 
 A bedroom lamp pixelart thingy I did back in April 2019.

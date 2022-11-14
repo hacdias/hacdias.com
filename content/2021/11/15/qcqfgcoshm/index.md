@@ -6,8 +6,9 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://www.textile.io/
-  category: tool
+taxonomies:
+  tags:
+  - tool
 ---
 
 Set of tools built on IPFS and Filecoin.
-

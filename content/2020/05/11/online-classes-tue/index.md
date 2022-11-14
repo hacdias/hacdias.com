@@ -3,8 +3,8 @@ published: 2020-05-11T20:44:16.729Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - university
   - masters
   - covid19

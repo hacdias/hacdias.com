@@ -5,11 +5,12 @@ section:
 - micro
 photoClass: pixelated
 properties:
-  category:
+  photo: https://cdn.hacdias.com/media/2019-04-common-room-lamps.gif
+taxonomies:
+  tags:
   - art
   - pixelart
   - creative
-  photo: https://cdn.hacdias.com/media/2019-04-common-room-lamps.gif
 ---
 
 Blinking lamps circa April 2019.

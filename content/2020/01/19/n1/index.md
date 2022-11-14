@@ -3,8 +3,8 @@ published: 2020-01-19T11:36:57.867Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - indieweb
 ---

@@ -7,8 +7,8 @@ published: 2019-09-14T09:00:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - reflection
 ---
 

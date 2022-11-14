@@ -7,7 +7,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://blogs.igalia.com/jfernandez/2022/08/10/new-custom-handlers-component-for-chrome/
-  category:
+taxonomies:
+  tags:
   - browsers
   - chromium
   - chrome

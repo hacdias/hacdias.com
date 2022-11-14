@@ -5,10 +5,11 @@ section:
 - micro
 - home
 properties:
-  category:
+  in-reply-to: https://jlelse.blog/thoughts/2020/01/optimizing-software/
+taxonomies:
+  tags:
   - software
   - micropub
-  in-reply-to: https://jlelse.blog/thoughts/2020/01/optimizing-software/
 ---
 
 > Wouldn't it be better to start where minutes or even hours are regularly wasted?

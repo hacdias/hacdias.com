@@ -5,8 +5,8 @@ section:
 - now
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - university
   - masters
 ---

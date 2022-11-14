@@ -5,9 +5,6 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  category:
-  - indieweb
-  - meta
   location:
     properties:
       country-name: Netherlands
@@ -16,6 +13,10 @@ properties:
       longitude: 5.48616
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - indieweb
+  - meta
 ---
 
 Over the past few days, I procrastinated quite a bit instead of working on my thesis. I have this huge peaks of performance mixed with high procrastination. I guess this happens somewhat to most people. Either way, while procrastinating I added quite some new features to this website, and improved some already existing things, both visually and internally.

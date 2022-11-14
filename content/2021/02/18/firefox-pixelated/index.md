@@ -4,8 +4,8 @@ updated: 2021-02-18T11:03:06.055453716Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - css
 ---

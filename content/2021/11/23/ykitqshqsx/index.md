@@ -7,8 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://aloneonahill.com/blog/if-php-were-british/
-  category: fun
+taxonomies:
+  tags:
+  - fun
 ---
-
 
 

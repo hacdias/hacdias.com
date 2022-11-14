@@ -7,7 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://www.engineersneedart.com/adam74/adam74.html
-  category: fun
+taxonomies:
+  tags:
+  - fun
 ---
 
 

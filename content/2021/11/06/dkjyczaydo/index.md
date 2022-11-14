@@ -5,8 +5,6 @@ section:
 - home
 - checkins
 properties:
-  category:
-  - glow-festival
   checkin:
     properties:
       country-name: Netherlands
@@ -30,6 +28,9 @@ properties:
     type: h-adr
   photo: cdn:/44e945fd5ac80ecb0b0fe7aa46b1f0f6b89e3120938b060a8c5cb89281e91f8f
   syndication: https://www.swarmapp.com/user/476184554/checkin/6186e238ad53e446eb2472de
+taxonomies:
+  tags:
+  - glow-festival
 ---
 
 

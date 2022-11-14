@@ -7,7 +7,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://ar.al/2020/08/07/what-is-the-small-web/
-  category:
+taxonomies:
+  tags:
   - indieweb
   - small-web
 ---

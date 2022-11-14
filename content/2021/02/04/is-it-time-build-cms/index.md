@@ -5,8 +5,8 @@ updated: 2021-02-16T20:20:27.750516656Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
 ---
 

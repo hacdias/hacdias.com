@@ -5,10 +5,6 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  category:
-  - university
-  - masters
-  - thesis
   location:
     properties:
       country-name: Netherlands
@@ -17,6 +13,11 @@ properties:
       longitude: 5.48616
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - university
+  - masters
+  - thesis
 ---
 
 Today it marks the first month since I officially started my Masters project. I don’t know how I feel about it. I expected to have done more progress, which scares me a bit. But I’m positive it’ll turn out well.

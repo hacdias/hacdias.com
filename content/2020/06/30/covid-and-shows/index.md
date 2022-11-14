@@ -3,8 +3,8 @@ published: 2020-06-30T19:59:59.922Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - life
 ---
 

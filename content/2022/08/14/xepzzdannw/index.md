@@ -9,7 +9,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://fediring.net/
-  category:
+taxonomies:
+  tags:
   - webring
   - activitypub
   - fediverse

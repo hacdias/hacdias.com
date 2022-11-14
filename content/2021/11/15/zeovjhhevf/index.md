@@ -6,7 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://near.org/
-  category:
+taxonomies:
+  tags:
   - web3
   - dweb
 ---

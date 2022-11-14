@@ -7,7 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://comfitu.re/
-  category: personal-website
+taxonomies:
+  tags:
+  - personal-website
 ---
 
 

@@ -6,8 +6,8 @@ published: 2014-11-07T20:28:27Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - society
   - reflection
 ---

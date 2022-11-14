@@ -4,11 +4,12 @@ section:
 - home
 - micro
 properties:
-  category:
-  - runescape
-  - games
   syndication:
   - https://twitter.com/hacdias/status/1225686550312210432
+taxonomies:
+  tags:
+  - runescape
+  - games
 ---
 
 @ThePreztle have you ever thought about compiling your RS comics into a physical book? That’d be awesome!

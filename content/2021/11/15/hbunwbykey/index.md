@@ -6,11 +6,11 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://ggerganov.github.io/wave-share
-  category:
+taxonomies:
+  tags:
   - fun
   - tool
   - p2p
 ---
 
 Serverless, p2p, local file sharing with communication through sound.
-

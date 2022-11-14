@@ -4,10 +4,11 @@ section:
 - home
 - micro
 properties:
-  category:
-  - covid19
   syndication:
   - https://twitter.com/hacdias/status/1237847135539703808
+taxonomies:
+  tags:
+  - covid19
 ---
 
 About COVID-19: WHO just declared that this novel coronavirus is a pandemic. Okay. Portugal is closing universities and schools. Makes sense to prevent further propagation of the virus so it doesn't scale as much. But what do you see? You see dozens, hundreds or even thousands of students thinking this is vacation and going to the beach - it was 26ºC in Lisbon today - or going to the mall just because.

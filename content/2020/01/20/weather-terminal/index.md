@@ -3,8 +3,8 @@ published: 2020-01-20T22:13:42.439Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - software
   - curl
   - terminal

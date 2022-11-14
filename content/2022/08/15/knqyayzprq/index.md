@@ -4,8 +4,8 @@ section:
 - micro
 - home
 createdWith: https://micropublish.net/
-properties:
-  category:
+taxonomies:
+  tags:
   - wiki
 ---
 

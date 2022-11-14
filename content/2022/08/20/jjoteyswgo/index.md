@@ -7,7 +7,8 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://tailscale.com/blog/how-nat-traversal-works/
-  category:
+taxonomies:
+  tags:
   - nat
   - dns
   - routers

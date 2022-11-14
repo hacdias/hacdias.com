@@ -6,8 +6,8 @@ published: 2020-01-29T23:50:00Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - indieweb
 ---

@@ -3,8 +3,8 @@ published: 2020-03-01T17:48:59.838Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - activitypub
 ---

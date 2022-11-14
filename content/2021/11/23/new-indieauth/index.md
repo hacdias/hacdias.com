@@ -5,9 +5,6 @@ section:
 - micro
 createdWith: https://quill.p3k.io/
 properties:
-  category:
-  - indieauth
-  - meta
   location:
     properties:
       country-name: Netherlands
@@ -16,6 +13,10 @@ properties:
       longitude: 5.48612
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - indieauth
+  - meta
 ---
 
 On the past few days, I worked a bit on my IndieAuth implementation. Now, I am both a server and a client and you can log in on my website. There may be some posts that only logged in people can see. Besides, if I shared something with you, it will be visible under the [private](/private) page.

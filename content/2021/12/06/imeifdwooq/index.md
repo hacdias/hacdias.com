@@ -7,8 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/
-  category: dns
+taxonomies:
+  tags:
+  - dns
 ---
-
 
 

@@ -7,7 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994
-  category: fun
+taxonomies:
+  tags:
+  - fun
 ---
 
 

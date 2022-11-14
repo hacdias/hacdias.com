@@ -7,9 +7,11 @@ section:
 - home
 createdWith: https://hacdias.com/
 properties:
-  category: thesis
   syndication:
   - https://research.tue.nl/en/studentTheses/04a5f7e4-7782-4f26-a864-a49d04f82966
+taxonomies:
+  tags:
+  - thesis
 ---
 
 Published Master Thesis On **Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework**, Supervised By [Nirvana Meratnia](https://research.tue.nl/en/persons/nirvana-meratnia).

@@ -6,10 +6,10 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://mjanja.ch/2015/06/replacing-cron-jobs-with-systemd-timers/
-  category:
+taxonomies:
+  tags:
   - unix
   - terminal
 ---
-
 
 

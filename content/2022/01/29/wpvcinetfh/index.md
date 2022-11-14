@@ -7,8 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://remark42.com/
-  category: tool
+taxonomies:
+  tags:
+  - tool
 ---
-
 
 

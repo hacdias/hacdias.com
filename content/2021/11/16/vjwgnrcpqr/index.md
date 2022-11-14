@@ -8,10 +8,10 @@ section:
 createdWith: https://micropublish.net
 properties:
   bookmark-of: https://www.jvt.me/posts/2019/10/20/indieweb-talk/
-  category:
+taxonomies:
+  tags:
   - indieweb
   - small-web
 ---
-
 
 

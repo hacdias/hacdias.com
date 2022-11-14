@@ -6,8 +6,8 @@ published: 2015-02-28T16:00:38Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - literature
   - poetry
   - portuguese

@@ -5,10 +5,11 @@ section:
 - micro
 - home
 properties:
-  category:
+  in-reply-to: https://jlelse.blog/thoughts/2020/12/crypto-bs
+taxonomies:
+  tags:
   - blockchain
   - cryptocurrency
-  in-reply-to: https://jlelse.blog/thoughts/2020/12/crypto-bs
 ---
 
 Well, I'm going to try to quickly explain the best I can. First of all, blockchain and cryptocurrencies are not interchangeable. Secondly, "crypto" was historically used to refer to cryptography and not cryptocurrencies. I don't agree with whoever started this trend.

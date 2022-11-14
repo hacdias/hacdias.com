@@ -4,8 +4,8 @@ updated: 2021-10-31T07:19:16.767633451Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - security
 ---

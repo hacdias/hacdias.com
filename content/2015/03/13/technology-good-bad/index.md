@@ -6,8 +6,8 @@ published: 2015-03-13T12:20:46Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - reflection
 ---
 

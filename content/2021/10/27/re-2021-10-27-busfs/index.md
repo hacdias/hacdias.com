@@ -6,9 +6,10 @@ section:
 - micro
 - home
 properties:
-  category:
-  - meta
   in-reply-to: https://jlelse.blog/micro/2021/10/2021-10-27-busfs
+taxonomies:
+  tags:
+  - meta
 ---
 
 > Do you still use Hugo as underlying static site builder?

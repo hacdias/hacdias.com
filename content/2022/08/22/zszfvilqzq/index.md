@@ -7,7 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://marta.sh/
-  category: tool
+taxonomies:
+  tags:
+  - tool
 ---
 
 Finder alternative for macOS.

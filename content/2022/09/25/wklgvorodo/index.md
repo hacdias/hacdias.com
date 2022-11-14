@@ -6,14 +6,15 @@ section:
 - food
 createdWith: https://micropublish.net/
 properties:
-  category:
-  - coffee
-  - coffee-beans
   drank:
     properties:
       name: French Press Coffee (Lucifer Ethiopia)
     type: h-food
   photo: cdn:/b74d8488136b76648871bf4fb47bff6a9ba53b774dd4aa391cba1e216a82ce0b
+taxonomies:
+  tags:
+  - coffee
+  - coffee-beans
 ---
 
 

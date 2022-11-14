@@ -6,8 +6,8 @@ published: 2014-07-12T14:05:48Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
   - portuguese
 ---

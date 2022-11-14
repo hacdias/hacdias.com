@@ -7,12 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://www.dns.toys/
-  category:
+taxonomies:
+  tags:
   - dns
   - tools
   - terminal
   - unix
 ---
-
 
 

@@ -6,7 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://howdns.works/
-  category:
+taxonomies:
+  tags:
   - dns
   - educational
 ---

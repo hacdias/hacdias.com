@@ -6,9 +6,9 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy.ipfs.dweb.link/
-  category:
+taxonomies:
+  tags:
   - fun
 ---
 
 Still running on [itcorp.com](https://itcorp.com). It is one of the oldest, still-running, websites. Link above is to a preserved version on IPFS.
-

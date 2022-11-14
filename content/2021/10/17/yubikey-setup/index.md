@@ -5,8 +5,8 @@ updated: 2022-06-04T12:48:59.992786835+02:00
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - security
 ---
 

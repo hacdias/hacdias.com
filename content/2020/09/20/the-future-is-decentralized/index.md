@@ -6,8 +6,8 @@ published: 2020-09-20T18:45:00+02:00
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - web3
 ---
 

@@ -5,9 +5,6 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  category:
-  - meta
-  - indieweb
   location:
     properties:
       country-name: Netherlands
@@ -16,6 +13,10 @@ properties:
       longitude: 5.48603
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - meta
+  - indieweb
 ---
 
 I was speaking to [@seblog](https://seblog.nl/) about categorisation of contents in our websites and some ideas came into mind:

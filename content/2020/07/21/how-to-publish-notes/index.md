@@ -5,9 +5,10 @@ section:
 - micro
 - home
 properties:
-  category:
-  - meta
   in-reply-to: https://hacdias.com/micro/2020/07/too-many-notes-apps/
+taxonomies:
+  tags:
+  - meta
 ---
 
 So... replying to myself. Probably what I'm going to do is quite similar to what I had before: statically generate the notes from source markdown (or something else). I first need to decide the best language. Markdown is simples, yes, but sometimes I feel I need to add HTML to make it look exactly how I want it to. For example, I can't just <mark>do this</mark> in markdown without using HTML. Some other markup languages allow for much more customization, such as Asciidoc.

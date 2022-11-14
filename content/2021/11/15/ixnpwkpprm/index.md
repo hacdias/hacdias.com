@@ -6,8 +6,9 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://bafybeib7lyimozj46dotjpzapp33wkig5g4zdcusljwaslwuv3djm2lzsy.ipfs.dweb.link/
-  category: fun
+taxonomies:
+  tags:
+  - fun
 ---
 
 Still running on [toastytech.com](http://toastytech.com/). Link above is to a preserved version on IPFS.
-

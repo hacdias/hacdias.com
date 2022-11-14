@@ -5,11 +5,12 @@ section:
 - micro
 - home
 properties:
-  category:
+  in-reply-to: https://jlelse.blog/micro/2020/01/2020-01-22-fryan/
+taxonomies:
+  tags:
   - meta
   - optimization
   - security
-  in-reply-to: https://jlelse.blog/micro/2020/01/2020-01-22-fryan/
 ---
 
 I enjoy showing the webmention and the context (reply to what? repost of what? like of what?) because, as you know, the content on the Internet is ephemeral and if I don't store it, I don't have assurance that it will remain available. And that's the main reason why I show the webmentions.

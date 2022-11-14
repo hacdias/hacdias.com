@@ -7,9 +7,9 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/
-  category:
+taxonomies:
+  tags:
   - fun
 ---
-
 
 

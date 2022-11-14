@@ -5,11 +5,12 @@ section:
 - micro
 - home
 properties:
-  category:
+  in-reply-to: https://hacdias.com/2020/02/16/updates
+taxonomies:
+  tags:
   - meta
   - hugo
   - development
-  in-reply-to: https://hacdias.com/2020/02/16/updates
 ---
 
 After publishing the post to which I'm replying to, [@jlelse](https://jlelse.blog/) contacted me and I noticed the [`import`](https://caddyserver.com/v1/docs/import) directive in Caddy can be used to import files:

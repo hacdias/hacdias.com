@@ -6,7 +6,8 @@ section:
 - bookmarks
 properties:
   bookmark-of: https://scuttlebutt.nz/
-  category:
+taxonomies:
+  tags:
   - dweb
   - web3
 ---

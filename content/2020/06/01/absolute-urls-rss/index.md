@@ -5,9 +5,10 @@ section:
 - micro
 - home
 properties:
-  category:
-  - meta
   in-reply-to: https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/
+taxonomies:
+  tags:
+  - meta
 ---
 
 Wow! Thanks Jan. I'm still trying to understand why replacing links that start with `/` work because my feed was printing relative URLs with `..`. It seems to work though. I'm happy 🤯

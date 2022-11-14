@@ -4,8 +4,8 @@ updated: 2021-04-09T17:04:21.408196039Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - university
 ---
 

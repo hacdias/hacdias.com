@@ -3,8 +3,8 @@ published: 2020-03-02T18:31:30.487Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - university
   - work
 ---

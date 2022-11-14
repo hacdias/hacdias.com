@@ -7,8 +7,8 @@ updated: 2021-09-20T05:53:49.227871757Z
 section:
 - articles
 - home
-properties:
-  category:
+taxonomies:
+  tags:
   - pixelart
   - art
   - creative

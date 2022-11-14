@@ -3,8 +3,8 @@ published: 2020-02-21T21:15:34.107Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - wiki
   - meta
   - opinion

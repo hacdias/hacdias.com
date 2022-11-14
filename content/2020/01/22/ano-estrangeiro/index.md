@@ -3,8 +3,8 @@ published: 2020-01-22T21:17:18.565Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - quotes
 ---
 

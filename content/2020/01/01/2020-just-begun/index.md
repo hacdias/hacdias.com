@@ -3,8 +3,8 @@ published: 2020-01-01T11:02:40.57Z
 section:
 - home
 - micro
-properties:
-  category:
+taxonomies:
+  tags:
   - meta
 ---
 
