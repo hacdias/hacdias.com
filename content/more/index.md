@@ -42,7 +42,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🧁 About](/about)
 - [⚙️ Colophon](/colophon)
 - [✉️ Contact](/contact)
-- [😎 Emojis](/emojis)
 - [🎮 Games](/games)
 - [📖 Guestbook](/guestbook)
 - [🚀 Impossible List](/impossible-list)

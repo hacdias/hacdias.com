@@ -10,28 +10,14 @@
       <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" {{ with .Data.Search.Query }}value="{{ . }}"{{ end }} />
       <input type='submit' value='Go' style="background-color: var(--accent); border-color: var(--accent)" />
 
-      {{ range .Data.Search.Tags }}
-        <input type="checkbox" value="{{ . }}" name="tag" checked class='dn'>
-      {{ end }}
-
       {{ range .Data.Search.Sections }}
         <input type="checkbox" value="{{ . }}" name="section" checked class='dn'>
       {{ end }}
     </form>
 
-    {{ $hasTags := gt (len .Data.Search.Tags) 0 }}
-    {{ $hasSections := gt (len .Data.Search.Sections) 0 }}
-
-    {{ if or $hasTags $hasSections }}
+    {{ if gt (len .Data.Search.Sections) 0 }}
       <div class="box">
-        ℹ️ Search is restricted to some
-        {{ if $hasSections }}
-          sections - <strong>{{ strJoin .Data.Search.Sections ", " }}</strong>
-          {{- if $hasTags }} - and {{ end -}}
-        {{ end -}}
-        {{ if $hasTags }}
-          tags - <strong>{{ strJoin .Data.Search.Tags ", " }}</strong>
-        {{- end -}}.
+        ℹ️ Search is restricted to some sections - <strong>{{ strJoin .Data.Search.Sections ", " }}</strong>
       </div>
     {{ end }}
 

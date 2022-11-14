@@ -1,6 +1,6 @@
 ---
 title: Emojis
-listing: {}
+deleted: true
 description: All the emojis used in my website.
 ---
 

@@ -20,9 +20,10 @@
         {{ with $sub.String "url" }}</a>{{ end }}
       </span>
     {{ else }}
-      {{ if containsString $.Tags "concert" -}}
+      {{ $tags := $.Taxonomy "tags" }}
+      {{ if containsString $tags "concert" -}}
         🧑‍🎤
-      {{- else if containsString $.Tags "theatre" -}}
+      {{- else if containsString $tags "theatre" -}}
         🎭 
       {{- else -}}
         🎬

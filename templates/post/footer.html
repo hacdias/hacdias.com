@@ -18,7 +18,7 @@
     {{ end }}
 
     {{ $syndications := .Helper.Strings "syndication" }}
-    {{ $tags := .Tags }}
+    {{ $tags := .Taxonomy "tags" }}
     {{ $hasDate := or (not .Published.IsZero) (not .Updated.IsZero) }}
     {{ $hasNoTitle := not .Title }}
 
