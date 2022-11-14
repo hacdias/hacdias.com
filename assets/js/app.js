@@ -30,7 +30,7 @@ function addEmoji (el) {
   }
 
   if (emoji) {
-    el.innerHTML += emoji
+    el.innerHTML = emoji
   }
 }
 
