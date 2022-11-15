@@ -1,6 +1,7 @@
 ---
 title: Now
 description: Monthly updates inspired on the NowNowNow movement.
+listing: {}
 ---
 
 <div class="box">
