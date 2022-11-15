@@ -1,5 +1,26 @@
 {
   "targets": [
     "https://jpassing.com/2021/11/30/using-pem-to-encode-public-keys/"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "url": "https://toot.community/users/hacdias"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://toot.community/users/hacdias#likes/243621",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/3a1114022728b26100c820ecb660f1b0c370b071d35ddb5800b4cdf8b1580e5c.jpg",
+        "url": "https://toot.community/users/hacdias"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://toot.community/users/hacdias#likes/243889",
+      "type": "like"
+    }
   ]
 }
