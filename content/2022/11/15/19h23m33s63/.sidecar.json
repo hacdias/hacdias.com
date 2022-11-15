@@ -2,30 +2,5 @@
   "targets": [
     "https://jpassing.com/2021/11/30/using-pem-to-encode-public-keys/"
   ],
-  "replies": [
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/3a1114022728b26100c820ecb660f1b0c370b071d35ddb5800b4cdf8b1580e5c.jpg",
-        "url": "https://toot.community/users/hacdias"
-      },
-      "published": "2022-11-15T20:49:43Z",
-      "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://hacdias.com\" class=\"u-url mention\"\u003e@\u003cspan\u003ehacdias@hacdias.com\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e just another test :)\u003c/p\u003e",
-      "url": "https://toot.community/@hacdias/109349790269759057",
-      "type": "reply",
-      "id": "https://toot.community/users/hacdias/statuses/109349790269759057/activity"
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/3a1114022728b26100c820ecb660f1b0c370b071d35ddb5800b4cdf8b1580e5c.jpg",
-        "url": "https://toot.community/users/hacdias"
-      },
-      "published": "2022-11-15T21:00:40Z",
-      "content": "@hacdias@hacdias.com The last test!",
-      "url": "https://toot.community/@hacdias/109349833324289856",
-      "type": "reply",
-      "id": "https://toot.community/users/hacdias/statuses/109349833324289856/activity"
-    }
-  ]
+  "replies": []
 }
