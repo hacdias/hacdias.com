@@ -11,6 +11,7 @@ If you need to reach me directly, please try one of the following:
 - ☎️ Telegram as [@hacdias](https://t.me/hacdias)
 - 🎮 Discord as [`hacdias#2540`](https://discord.com/users/hacdias#2540)
 - ✨ Matrix as [`@hacdias:tchncs.de`](https://matrix.to/#/@hacdias:tchncs.de)
+- 🐘 Fediverse as `@hacdias@hacdias.com` (**experimental**)
 
 <!--more-->
 
@@ -49,4 +50,3 @@ To send me encrypted messages, you can find my public key on this [website](/pub
 ```
 AE95 7E3A 2905 B55A 6950 E762 4454 5566 F552 F631
 ```
-
