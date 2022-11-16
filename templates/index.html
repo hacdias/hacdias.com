@@ -1,15 +1,17 @@
 {{ define "main" }}
   <main role="main" {{ if eq .Data.Page 0 }}class="home"{{ end }}>
     {{ include "base/admin" . }}
-    {{ include "post/content" . }}
-    <div class="copy">
-      <h3 id=latest>🌻 Latest Posts {{ with .Data.Page }} ({{.}}){{ end }}</h3>
-      <div class=box>
-        <p>The posts in this home page are semi-curated, which means that you do not see <a href="{{ relURL "/all" }}">everything</a>.</p>
-      </div>
-    </div>
 
-    {{ include "list/list" . }}
+    <div class="copy">
+      {{ if eq .Data.Page 0 }}
+        {{ include "post/content" . }}
+        <h3>🌻 Latest Posts</h3>
+      {{ else }}
+        <header><h1 class="p-name">🌻 Latest Posts {{ with .Data.Page }} ({{.}}){{ end }}</h1></header>
+      {{ end }}
+
+      {{ include "list/list" . }}
+    </div>
   </main>
 {{ end }}
 

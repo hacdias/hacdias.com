@@ -65,13 +65,15 @@
         </h3>
       {{ else }}
         <h1 class='p-name'>{{- .Entry.Title -}}</h1>
-        <p>
-          {{- if .Updated.After .Published -}}
-            {{ .Updated.Format "January 02, 2006" }}
-          {{- else if not .Published.IsZero -}}
-            {{ .Published.Format "January 02, 2006" }}
-          {{- end -}}
-        </p>
+        {{ if and (not .Published.IsZero) (not .Updated.IsZero) }}
+          <p>
+            {{- if .Updated.After .Published -}}
+              {{ .Updated.Format "January 02, 2006" }}
+            {{- else if not .Published.IsZero -}}
+              {{ .Published.Format "January 02, 2006" }}
+            {{- end -}}
+          </p>
+        {{ end }}
       {{ end }}
     </header>
   {{ end }}
