@@ -23,7 +23,7 @@
       {{ $tags := $.Taxonomy "tags" }}
       {{ if containsString $tags "concert" -}}
         🧑‍🎤
-      {{- else if containsString $tags "theatre" -}}
+      {{- else if or (containsString $tags "theatre") (containsString $tags "comedy") -}}
         🎭 
       {{- else -}}
         🎬
