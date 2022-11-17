@@ -103,6 +103,21 @@
       {{ with .Data.Token }}
         <pre>{{ . }}</pre>
       {{ end }}
+
+      <h2>ActivityPub</h2>
+
+      <form method=POST target="/activitypub/hook">
+        <input required type="text" name="id" placeholder="Entry ID">
+
+        <select name="action">
+          <option value="create">Create</option>
+          <option value="update">Update</option>
+          <option value="delete">Delete</option>
+          <option value="announce">Announce</option>
+        </select>
+
+        <button type="submit">Submit</button>
+      </form>
     </div>
   </main>
 {{ end }}
