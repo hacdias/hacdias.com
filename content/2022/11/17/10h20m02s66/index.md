@@ -1,5 +1,4 @@
 ---
-draft: true
 description: A note
 published: 2022-11-17T10:20:02.668727994+01:00
 section:
