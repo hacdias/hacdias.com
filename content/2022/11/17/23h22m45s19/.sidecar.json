@@ -1,3 +1,39 @@
 {
-  "interactions": []
+  "replies": [
+    {
+      "author": {
+        "name": "hacdias",
+        "url": "https://pleroma.pt/users/hacdias"
+      },
+      "published": "2022-11-18T10:47:12.402134Z",
+      "content": "This is a quick test.",
+      "url": "https://pleroma.pt/activities/19dd574a-9353-462a-b3b9-2e0b3f613c62",
+      "type": "reply",
+      "id": "https://pleroma.pt/activities/19dd574a-9353-462a-b3b9-2e0b3f613c62"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/3a1114022728b26100c820ecb660f1b0c370b071d35ddb5800b4cdf8b1580e5c.jpg",
+        "url": "https://toot.community/users/hacdias"
+      },
+      "published": "2022-11-18T10:49:37Z",
+      "content": "@hacdias@hacdias.com test",
+      "url": "https://toot.community/@hacdias/109364417498606754",
+      "type": "reply",
+      "id": "https://toot.community/users/hacdias/statuses/109364417498606754/activity"
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "hacdias",
+        "url": "https://pleroma.pt/users/hacdias"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://pleroma.pt/activities/a28cdd48-c175-426b-ac31-931661f36367",
+      "type": "like",
+      "id": "https://pleroma.pt/activities/a28cdd48-c175-426b-ac31-931661f36367"
+    }
+  ]
 }
