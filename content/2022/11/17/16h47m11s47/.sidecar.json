@@ -1,1 +1,29 @@
-{}
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/3a1114022728b26100c820ecb660f1b0c370b071d35ddb5800b4cdf8b1580e5c.jpg",
+        "url": "https://toot.community/users/hacdias"
+      },
+      "published": "2022-11-18T15:10:47Z",
+      "content": "@hacdias@hacdias.com This is a test too.",
+      "url": "https://toot.community/@hacdias/109365444466112803",
+      "type": "reply",
+      "id": "https://toot.community/users/hacdias/statuses/109365444466112803"
+    }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/3a1114022728b26100c820ecb660f1b0c370b071d35ddb5800b4cdf8b1580e5c.jpg",
+        "url": "https://toot.community/users/hacdias"
+      },
+      "published": "2022-11-18T15:09:08Z",
+      "url": "https://toot.community/users/hacdias/statuses/109365437944827034/activity",
+      "type": "repost",
+      "id": "https://toot.community/users/hacdias/statuses/109365437944827034/activity"
+    }
+  ]
+}
