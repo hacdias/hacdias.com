@@ -1,0 +1,24 @@
+{
+  "interactions": [
+    {
+      "author": {
+        "name": "hacdias",
+        "url": "https://pleroma.pt/users/hacdias"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://pleroma.pt/activities/9c3262df-2c8e-4e92-8ebe-49f6531e075e",
+      "type": "like",
+      "id": "https://pleroma.pt/activities/9c3262df-2c8e-4e92-8ebe-49f6531e075e"
+    },
+    {
+      "author": {
+        "name": "hacdias",
+        "url": "https://pleroma.pt/users/hacdias"
+      },
+      "published": "2022-11-18T15:03:22.829199Z",
+      "url": "https://pleroma.pt/activities/ce6b83f9-ad4c-4fea-a687-121ed21829ef",
+      "type": "repost",
+      "id": "https://pleroma.pt/activities/ce6b83f9-ad4c-4fea-a687-121ed21829ef"
+    }
+  ]
+}
