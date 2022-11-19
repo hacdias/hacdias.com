@@ -202,8 +202,7 @@ textarea {
   color: var(--dark-gray);
 }
 
-button,
-input[type="submit"] {
+button {
   background-color: var(--accent);
   border: 1px solid var(--accent);
   font-weight: 700;
@@ -214,8 +213,7 @@ input[type="submit"] {
   outline: 0;
 }
 
-button:hover,
-input[type="submit"]:hover {
+button:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2));
 }
 
@@ -368,6 +366,12 @@ details summary {
   width: 16rem;
 }
 
+#header form button {
+  background: var(--near-white);
+  border-color: var(--light-white);
+  padding: var(--hms);
+}
+
 #header p {
   margin: 0;
 }
@@ -414,16 +418,6 @@ details summary {
 #mobile-search,
 #navbar label {
   display: none;
-}
-
-#mobile-search {
-  margin-left: auto;
-}
-
-#mobile-search button {
-  background: var(--near-white);
-  border-color: var(--light-white);
-  padding: var(--hms);
 }
 
 #navbar a:hover {
@@ -536,7 +530,7 @@ figure.album img {
   flex-grow: 1;
 }
 
-.inline-form input[type="submit"] {
+.inline-form button {
   margin-left: 0.5rem;
 }
 
@@ -663,14 +657,13 @@ figure.album img {
 
   #navbar,
   #navbar label,
-  #toggler:checked + #navbar a,
-  #mobile-search {
+  #toggler:checked + #navbar a {
     display: block;
     text-align: left;
   }
 
-  #mobile-search {
-    margin-left: auto;
+  #header form {
+    width: auto;
   }
 
   #navbar {
@@ -680,7 +673,7 @@ figure.album img {
   }
 
   #navbar a,
-  #header form {
+  #header form input {
     display: none;
   }
 

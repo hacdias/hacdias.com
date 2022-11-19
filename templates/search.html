@@ -8,7 +8,7 @@
 
     <form id='search-form' class='inline-form' style="margin: 1rem 0">
       <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" {{ with .Data.Search.Query }}value="{{ . }}"{{ end }} />
-      <input type='submit' value='Go' style="background-color: var(--accent); border-color: var(--accent)" />
+      <button/>Go</button>
 
       {{ range .Data.Search.Sections }}
         <input type="checkbox" value="{{ . }}" name="section" checked class='dn'>

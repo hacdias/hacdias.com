@@ -21,12 +21,8 @@
 
     <form action='{{ relURL "/search" }}' method='get' class='inline-form'>
       <input required type='text' placeholder='Search…' id='query' name='query'>
-      <input type='submit' value='Go' />
+      <button alt='Search'>🔎</button>
     </form>
-
-    <a href='{{ relURL "/search" }}' alt='Search' class='nl' id='mobile-search'>
-      <button>🔎</button>
-    </a>
   </div>
 
   <input type='checkbox' id='toggler' class='dn'>

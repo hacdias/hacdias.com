@@ -14,7 +14,7 @@
   border-top: 1px solid var(--light-white);
 }
 
-.wm form:last-of-type input {
+.wm form:last-of-type button {
   width: 100%;
 }
 
@@ -72,7 +72,7 @@
     display: block;
     width: 100%
   }
-  .wm .inline-form input[type="submit"] {
+  .wm .inline-form button {
     margin: 0.5rem 0 0 0;
   }
 }

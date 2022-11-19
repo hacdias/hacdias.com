@@ -14,7 +14,7 @@
       <p><small>Please write the new slug of the post.</small></p>
       <form method="post">
         <input type="text" name="rename" placeholder="New ID" value="{{ .Data.Entry.ID }}" required />
-        <input value="Rename" type="submit">
+        <button>Rename</button>
       </form>
     </details>
 
@@ -24,7 +24,7 @@
         <label><input type=checkbox name=lastmod {{ if not .Data.Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
       </div>
       {{ include "editor/syndicators" . }}
-      <input value="Update" type="submit">
+      <button>Update</button>
     </form>
   </main>
   <script type="text/javascript" src="{{ .Assets.Path "editor.js" }}"></script>
