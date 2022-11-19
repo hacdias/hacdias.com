@@ -24,7 +24,7 @@
         {{ with $url }}</a>{{ end }}
       </span>
 
-      <div class=dn>
+      <div hidden>
         {{ with $location }}<span class="p-location">{{ . }}</span>{{ end }}
         {{ with $checkin.Properties.latitude }}<span class="p-latitude">{{ . }}</span>{{ end }}
         {{ with $checkin.Properties.longitude }}<span class="p-longitude">{{ . }}</span>{{ end }}

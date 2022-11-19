@@ -29,7 +29,7 @@
             <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
               <a href="{{ relURL .Permalink }}" class="u-url nl">Updated on {{ .Updated.Format "02 Jan 2006 15:04 MST" }}</a>
             </time>
-            <time class='dt-published dn' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
+            <time hidden class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
           {{- else if not .Published.IsZero -}}
             <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
               <a href="{{ relURL .Permalink }}" class="u-url nl">Published on {{ .Published.Format "02 Jan 2006 15:04 MST" }}</a>
@@ -57,10 +57,9 @@
     {{ end }}
   </footer>
 
-  <div class="dn">
-    <div class="h-card u-author dn">
-      <data class='u-photo' value="{{ .Me.Photo }}">Picture</data>
-      <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Me.Name }}</a>
-    </div>
+  <div class="h-card u-author" hidden>
+    Authored by
+    <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Me.Name }}</a>
+    <a class='u-photo' href="{{ .Me.Photo }}">(Photo)</a>
   </div>
 {{ end }}

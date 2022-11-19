@@ -11,7 +11,7 @@
       <button/>Go</button>
 
       {{ range .Data.Search.Sections }}
-        <input type="checkbox" value="{{ . }}" name="section" checked class='dn'>
+        <input type="hidden" value="{{ . }}" name="section">
       {{ end }}
     </form>
 

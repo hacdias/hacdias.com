@@ -40,6 +40,11 @@ function parseEmojis (el) {
     folder: 'svg',
     ext: '.svg'
   })
+
+  Array.from(document.querySelectorAll('img.emoji')).forEach(img => {
+    img.style.width = '1rem'
+    img.style.height = '1rem'
+  })
 }
 
 function setupPreview() {
