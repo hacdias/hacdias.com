@@ -363,7 +363,10 @@ details summary {
 #header form {
   margin-left: auto;
   font-size: var(--f6);
-  width: 16rem;
+}
+
+#header form input {
+  width: 12rem;
 }
 
 #header form button {
@@ -660,10 +663,6 @@ figure.album img {
   #toggler:checked + #navbar a {
     display: block;
     text-align: left;
-  }
-
-  #header form {
-    width: auto;
   }
 
   #navbar {
