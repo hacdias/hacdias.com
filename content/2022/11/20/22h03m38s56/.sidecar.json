@@ -1,0 +1,29 @@
+{
+  "targets": [
+    "https://fosstodon.org/@hacdias/109370204126901391",
+    "https://fosstodon.org/users/hacdias"
+  ],
+  "context": {
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://cdn.hacdias.com/wm/6d04d58fb0ac2d5d84c05bbe59489507b0f28f1d69ebf4ea3e625ef2cdb7b6eb.jpg",
+      "url": "https://fosstodon.org/@hacdias"
+    },
+    "published": "2022-11-19T11:21:14Z",
+    "content": "Toot toot 🐘",
+    "url": "https://fosstodon.org/@hacdias/109370204126901391"
+  },
+  "interactions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/6d04d58fb0ac2d5d84c05bbe59489507b0f28f1d69ebf4ea3e625ef2cdb7b6eb.jpg",
+        "url": "https://fosstodon.org/users/hacdias"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://fosstodon.org/users/hacdias#likes/2554290",
+      "type": "like",
+      "id": "https://fosstodon.org/users/hacdias#likes/2554290"
+    }
+  ]
+}
