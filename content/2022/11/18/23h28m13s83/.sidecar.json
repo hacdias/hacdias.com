@@ -3,5 +3,18 @@
     "https://seblog.nl/",
     "https://brainbaking.com/post/2022/11/the-great-mastodon-influx/",
     "https://hacdias.com/2022/11/09/15h43m59s11"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
+        "url": "https://hacdias.com/"
+      },
+      "published": "2022-11-20T22:35:18+01:00",
+      "content": "I think that is quite a valid reason indeed - there are so many things to think about when implementing ActivityPub, especially incoming things. That is also why I am using the Fosstodon account: to follow people and explore a bit. Later, I would love to support following people from my own website, but I am concerned at both security and speed/resource consumption. Maybe I should implement a queue for both incoming and outgoing things (looking at your implementation 😜) and an extremely simple feed HTTP route that simply consumes the last n activities received and converts them into feed format. Then I can use Miniflux. A thought for later.",
+      "url": "https://hacdias.com/2022/11/20/22h35m18s51",
+      "type": "reply"
+    }
   ]
 }
