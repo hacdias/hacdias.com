@@ -43,7 +43,7 @@
             </p>
             <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
               {{ if .Content }}
-                <p class="e-content p-name copy">{{ truncate .Content 300 }}</p>
+                <p class="e-content p-name copy">{{ safeHTML (truncate .Content 300) }}</p>
               {{ else if .Name }}
                 <p class="e-content p-name copy">{{ .Name }}</p>
               {{ else }}
