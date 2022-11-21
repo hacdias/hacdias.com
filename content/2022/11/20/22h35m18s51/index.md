@@ -3,7 +3,6 @@ description: Replied to a post on fosstodon.org
 published: 2022-11-20T22:35:18.512312994+01:00
 section:
 - micro
-- home
 createdWith: https://quill.p3k.io/
 properties:
   ap-reply-checked: https://fosstodon.org/@jle/109378237908508748

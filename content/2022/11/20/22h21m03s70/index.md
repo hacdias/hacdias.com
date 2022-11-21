@@ -4,7 +4,6 @@ published: 2022-11-20T22:21:03.700935788+01:00
 updated: 2022-11-20T22:21:46.772193545+01:00
 section:
 - micro
-- home
 createdWith: https://quill.p3k.io/
 properties:
   ap-reply-checked: https://fosstodon.org/@jle/109375213511020485
