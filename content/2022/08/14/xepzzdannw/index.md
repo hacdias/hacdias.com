@@ -15,5 +15,3 @@ taxonomies:
   - activitypub
   - fediverse
 ---
-
-
