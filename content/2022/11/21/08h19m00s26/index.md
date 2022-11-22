@@ -5,7 +5,6 @@ section:
 - micro
 createdWith: https://quill.p3k.io/
 properties:
-  ap-reply-checked: https://fosstodon.org/@jle/109380322129820480
   in-reply-to: https://fosstodon.org/@jle/109380322129820480
   location:
     properties:

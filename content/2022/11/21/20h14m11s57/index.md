@@ -6,7 +6,6 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  ap-reply-checked: https://chat.brainbaking.com/objects/e54c65fe-1e40-4107-ba2e-aa9ad84b73a5
   in-reply-to: https://chat.brainbaking.com/objects/e54c65fe-1e40-4107-ba2e-aa9ad84b73a5
   location:
     properties:
