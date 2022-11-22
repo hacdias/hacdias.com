@@ -1,0 +1,15 @@
+{
+  "targets": [
+    "https://hacdias.com/2022/11/22/08h16m07s25"
+  ],
+  "context": {
+    "author": {
+      "name": "Henrique Dias",
+      "photo": "https://cdn.hacdias.com/wm/e8571645c3e7220f58af03eb4c65cc4b3cb993f973017ad0ecb5b3c6bb75be1a.jpg",
+      "url": "https://hacdias.com/"
+    },
+    "published": "2022-11-22T08:16:07+01:00",
+    "content": "Yesterday, I boosted (announced) a post on ActivityPub. It was automatically sent to the instance of the original post, as well as the instance of my remaining followers. Requests were successful. However, the boost only shows up in the instance of the original post. I have absolutely no clue why. What’s the point of boosts if this is how it behaves? Maybe there’s something very obvious that I’m missing. What is it though?",
+    "url": "https://hacdias.com/2022/11/22/08h16m07s25"
+  }
+}

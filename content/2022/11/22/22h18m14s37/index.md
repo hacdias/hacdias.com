@@ -1,6 +1,8 @@
 ---
 description: Reposted a post on werd.social
+deleted: true
 published: 2022-11-22T22:18:14.376660072+01:00
+updated: 2022-11-22T22:55:24.418073033+01:00
 section:
 - micro
 createdWith: https://micropublish.net/

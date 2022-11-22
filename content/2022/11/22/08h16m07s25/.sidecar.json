@@ -10,6 +10,17 @@
       "content": "Do you have a second instance—Mastodon, preferably, as you’d definitely want to test against that—that you control? So that you can inspect log files, and the database? Sounds like either the Announcement did not get accepted after all, or something with the Status’s visibility …",
       "url": "https://jan.boddez.net/notes/4c1ac6934d",
       "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
+        "url": "https://hacdias.com/"
+      },
+      "published": "2022-11-22T23:02:39+01:00",
+      "content": "Finally understood the problem. For Mastodon (and possibly Pleroma), a post ID is not always its URL. At least, not the URL the user usually sees. What I do now is: (1) fetch the URL from the post that I want to reply, boost or like; (2) then use that URL in the object field in the Activity I send to my followers. Seems to work successfully now.",
+      "url": "https://hacdias.com/2022/11/22/23h02m39s99",
+      "type": "reply"
     }
   ],
   "interactions": [

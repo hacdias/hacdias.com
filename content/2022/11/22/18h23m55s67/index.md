@@ -1,11 +1,12 @@
 ---
 description: Replied to a post on fosstodon.org
 published: 2022-11-22T18:23:55.679009663+01:00
+updated: 2022-11-22T23:36:45.533552879+01:00
 section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  ap-reply-checked: https://fosstodon.org/@jle/109388610403714844
+  ap-in-reply-to: https://fosstodon.org/users/jle/statuses/109388610403714844
   in-reply-to: https://fosstodon.org/@jle/109388610403714844
   location:
     properties:

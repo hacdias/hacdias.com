@@ -1,6 +1,8 @@
 ---
 description: Reposted a post on mastodon.ar.al
+deleted: true
 published: 2022-11-22T10:35:31.652175247+01:00
+updated: 2022-11-22T22:56:33.88277191+01:00
 section:
 - micro
 createdWith: https://indieweb.org/Shortcuts

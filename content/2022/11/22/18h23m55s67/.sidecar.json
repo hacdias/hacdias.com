@@ -1,6 +1,7 @@
 {
   "targets": [
-    "https://fosstodon.org/@jle/109388610403714844"
+    "https://fosstodon.org/@jle/109388610403714844",
+    "https://fosstodon.org/users/jle"
   ],
   "context": {
     "author": {
