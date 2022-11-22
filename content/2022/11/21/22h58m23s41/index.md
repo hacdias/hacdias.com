@@ -1,6 +1,8 @@
 ---
 description: Reposted a post on metalhead.club
+deleted: true
 published: 2022-11-21T22:58:23.410846436+01:00
+updated: 2022-11-22T08:13:20.725836378+01:00
 section:
 - micro
 createdWith: https://micropublish.net/
