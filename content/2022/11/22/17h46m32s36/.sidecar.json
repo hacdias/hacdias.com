@@ -1,0 +1,15 @@
+{
+  "targets": [
+    "https://jan.boddez.net/notes/4c1ac6934d"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan Boddez",
+      "photo": "https://cdn.hacdias.com/wm/fce1504803e26e4bc97a7287c9e947699c7874ba2b74e6fbda1648d3bd70ee3b.jpg",
+      "url": "https://jan.boddez.net/"
+    },
+    "published": "2022-11-22T14:28:26+01:00",
+    "content": "Do you have a second instance—Mastodon, preferably, as you’d definitely want to test against that—that you control? So that you can inspect log files, and the database? Sounds like either the Announcement did not get accepted after all, or something with the Status’s visibility …",
+    "url": "https://jan.boddez.net/notes/4c1ac6934d"
+  }
+}
