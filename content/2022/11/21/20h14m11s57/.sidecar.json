@@ -1,6 +1,7 @@
 {
   "targets": [
     "https://chat.brainbaking.com/objects/e54c65fe-1e40-4107-ba2e-aa9ad84b73a5",
+    "https://fosstodon.org/users/jle",
     "https://chat.brainbaking.com/users/wouter",
     "https://github.com/go-fed/httpsig",
     "https://github.com/go-ap/fedbox/blob/master/activitypub/activitypub.go#L18-L32"

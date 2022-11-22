@@ -1,7 +1,7 @@
 ---
 description: Replied to a post on fosstodon.org
 published: 2022-11-21T20:14:11.005705868+01:00
-updated: 2022-11-21T21:02:33.665427162+01:00
+updated: 2022-11-22T23:52:50.183273999+01:00
 section:
 - micro
 createdWith: https://micropublish.net/
