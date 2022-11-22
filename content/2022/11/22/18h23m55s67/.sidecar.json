@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "https://fosstodon.org/@jle/109388610403714844"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://cdn.hacdias.com/wm/70e8fb1225ff3cd8880026c391ed227281103b2e13e02cf2d9aab47fb2e35e33.jpg",
+      "url": "https://fosstodon.org/@jle"
+    },
+    "published": "2022-11-22T17:22:11Z",
+    "content": "@wouter @hacdias After taking a second look and trying to play a bit with the go-ap libraries, I think they are better than I first thought. I think I will rewrite my logic with it.",
+    "url": "https://fosstodon.org/@jle/109388610403714844"
+  },
+  "interactions": [
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/70e8fb1225ff3cd8880026c391ed227281103b2e13e02cf2d9aab47fb2e35e33.jpg",
+        "url": "https://fosstodon.org/users/jle"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://fosstodon.org/users/jle#likes/2611587",
+      "type": "like",
+      "id": "https://fosstodon.org/users/jle#likes/2611587"
+    }
+  ]
+}
