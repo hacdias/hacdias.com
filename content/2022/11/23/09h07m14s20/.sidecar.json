@@ -1,1 +1,15 @@
-{}
+{
+  "interactions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/6d04d58fb0ac2d5d84c05bbe59489507b0f28f1d69ebf4ea3e625ef2cdb7b6eb.jpg",
+        "url": "https://fosstodon.org/users/hacdias"
+      },
+      "published": "2022-11-23T20:14:38Z",
+      "url": "https://fosstodon.org/users/hacdias/statuses/109394950784008373/activity",
+      "type": "repost",
+      "id": "https://fosstodon.org/users/hacdias/statuses/109394950784008373/activity"
+    }
+  ]
+}
