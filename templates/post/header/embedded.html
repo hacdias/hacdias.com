@@ -3,7 +3,7 @@
   {{ $type := $mf2.PostType }}
   {{ $sidecar := .GetSidecar }}
   {{ $url := $mf2.String $mf2.TypeProperty }}
-  <div class="h-cite ibox u-{{ $mf2.TypeProperty }}">
+  <blockquote class="h-cite ibox u-{{ $mf2.TypeProperty }}">
     {{ if eq $type "like" }}
       <span class="type">❤️</span>
     {{ else if eq $type "repost" }}
@@ -26,5 +26,5 @@
     {{ else }}
       A post on <strong><a rel="noopener noreferrer" target="_blank" href="{{ $url }}">{{ humanDomain $url }}</a></strong>
     {{ end }}
-  </div>
+  </blockquote>
 {{ end }}

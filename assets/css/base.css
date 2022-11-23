@@ -461,6 +461,7 @@ details summary {
   margin: 0;
   position: relative;
   border-radius: var(--radius);
+  border: 0;
 }
 
 .ibox.skinny {
