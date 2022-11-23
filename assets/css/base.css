@@ -202,6 +202,17 @@ textarea {
   color: var(--dark-gray);
 }
 
+input:focus,
+textarea:focus {
+  border-color: var(--light-gray);
+}
+
+input:disabled,
+textarea:disabled {
+  background-color: var(--near-white);
+  cursor: not-allowed;
+}
+
 button {
   background-color: var(--accent);
   border: 1px solid var(--accent);
@@ -215,12 +226,6 @@ button {
 
 button:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2));
-}
-
-textarea:disabled,
-input:disabled {
-  background-color: var(--near-white);
-  cursor: not-allowed;
 }
 
 #footer {
