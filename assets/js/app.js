@@ -42,8 +42,8 @@ function parseEmojis (el) {
   })
 
   Array.from(document.querySelectorAll('img.emoji')).forEach(img => {
-    img.style.width = '1rem'
-    img.style.height = '1rem'
+    img.style.width = '1em'
+    img.style.height = '1em'
   })
 }
 
