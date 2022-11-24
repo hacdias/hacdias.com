@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-24T12:35:18+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/637f56f60472c70eb61cb0be/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-24T12:35:18+01:00",
+      "content": "Your first check-in at Zoet \u0026amp; Zout!",
+      "url": "https://ownyourswarm.p3k.io/checkin/637f56f60472c70eb61cb0be/12f6f1b2d7c3310c10f6588bbd44496b",
+      "type": "reply",
+      "swarmCoins": 5
+    }
+  ]
+}

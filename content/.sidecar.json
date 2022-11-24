@@ -148,6 +148,17 @@
       "content": "@wouter @hacdias After taking a second look and trying to play a bit with the go-ap libraries, I think they are better than I first thought. I think I will rewrite my logic with it.",
       "url": "https://fosstodon.org/@jle/109388610403714844",
       "id": "https://fosstodon.org/users/jle/statuses/109388610403714844"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/5c33bdec0e4a8e1c9346adaca8dab10ff901dcb2e155fd64e919703d2ab0ed30.jpg",
+        "url": "https://geekcompass.com/users/jan"
+      },
+      "published": "2022-11-24T18:12:21Z",
+      "content": "@darius Yes, and I’d absolutely read something similar by, e.g., @jle or @hacdias! 🤪Accepting followers and sending out Create activities for simple Notes is about as far as I got when I last gave ActivityPub a try. Would love to see semi-simple examples of Update and Delete activities, processing requests to shared inboxes, what an outbox should look like, how Mastodon treats Notes vs. Articles, and so on",
+      "url": "https://geekcompass.com/@jan/109400132232103096",
+      "id": "https://geekcompass.com/users/jan/statuses/109400132232103096"
     }
   ],
   "interactions": [
