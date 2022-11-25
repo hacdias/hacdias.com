@@ -4,9 +4,8 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
-photoClass: grid-epzwauxwwh fg
+photoClass: fg g50-50
 properties:
-  file: 2022-08-25 12.46.54.jpg
   location:
     properties:
       country-name: Netherlands
@@ -21,11 +20,5 @@ properties:
   syndication:
   - https://www.instagram.com/p/Cj2nT0QIjzW/?igshid=YmMyMTA2M2Y=
 ---
-
-<style>
-.grid-epzwauxwwh {
-  grid-template-columns: repeat(2, 1fr);
-}
-</style>
 
 Back when I went to Portugal in August, my parents and I were [at a restaurant](/2022/08/25/ceefzgbnur) with a very nice view of the ocean. However, no one expected that just under thirty minutes after the ocean would bring extreme fog, completely obstructing the view. It was quite incredible to see the onset of such a foggy view from such perspective.

@@ -4,7 +4,7 @@ published: 2020-03-31T12:00:00.893Z
 section:
 - photos
 - home
-photoClass: g03sunset fg
+photoClass: fg g50-50
 properties:
   photo:
   - alt: A Tree in the Sunset
@@ -16,11 +16,5 @@ properties:
   - alt: A Mistake
     value: cdn:/2020-03-hometown-oopsie
 ---
-
-<style>
-.g03sunset {
-  grid-template-columns: repeat(2, 1fr);
-}
-</style>
 
 I experimented a bit with sunset and night pictures. Made a few mistakes, but I'm proud of the results.

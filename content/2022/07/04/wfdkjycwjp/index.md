@@ -4,7 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
-photoClass: grid-wfdkjycwjp fg
+photoClass: grid-wfdkjycwjp fg g50-50
 properties:
   location:
     properties:
@@ -22,7 +22,6 @@ properties:
 
 <style>
 .grid-wfdkjycwjp {
-  grid-template-columns: repeat(2, 1fr);
   grid-template-areas:
     "a b"
     "c c";

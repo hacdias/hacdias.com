@@ -4,7 +4,7 @@ published: 2021-02-28T00:00:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-ehvsnw fg
+photoClass: grid-2021-ehvsnw fg g50-50
 properties:
   photo:
   - cdn:/2021-02-eindhoven-snow-01
@@ -19,7 +19,6 @@ I saw real life snowing for many days for the first time. It was also one of the
 
 <style>
 .grid-2021-ehvsnw {
-  grid-template-columns: repeat(2, 1fr);
   grid-template-areas:
     "a b"
     "a c"

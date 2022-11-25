@@ -4,7 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
-photoClass: grid-kflctqkpsm fg
+photoClass: grid-kflctqkpsm fg g50-50
 properties:
   location:
     properties:
@@ -30,7 +30,6 @@ properties:
 
 <style>
 .grid-kflctqkpsm {
-  grid-template-columns: repeat(2, 1fr);
   grid-template-areas:
     "a a"
     "b c"

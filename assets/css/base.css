@@ -628,6 +628,10 @@ figure.album img {
   grid-gap: 1rem;
 }
 
+.fg.g50-50 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
 .fg figure {
   height: 100%;
   margin: 0;

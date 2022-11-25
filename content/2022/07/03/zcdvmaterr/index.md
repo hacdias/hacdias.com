@@ -4,7 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
-photoClass: grid-zcdvmaterr fg
+photoClass: grid-zcdvmaterr fg g50-50
 properties:
   location:
     properties:
@@ -26,7 +26,6 @@ properties:
 
 <style>
 .grid-zcdvmaterr {
-  grid-template-columns: repeat(2, 1fr);
   grid-template-areas:
     "a a"
     "b c"
