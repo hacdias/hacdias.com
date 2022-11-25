@@ -4,7 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
-photoClass: grid-zcdvmaterr fg g50-50
+photoClass: grid-zcdvmaterr fg
 properties:
   location:
     properties:

@@ -4,7 +4,7 @@ published: 2020-04-28T12:30:50.893Z
 section:
 - photos
 - home
-photoClass: g4lk2020 fg
+photoClass: fg g4lk2020
 properties:
   photo:
   - cdn:/2020-04-hometown-02

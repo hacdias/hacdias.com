@@ -4,7 +4,7 @@ published: 2021-02-28T00:00:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-ehvsnw fg g50-50
+photoClass: grid-2021-ehvsnw fg
 properties:
   photo:
   - cdn:/2021-02-eindhoven-snow-01

@@ -4,7 +4,7 @@ published: 2020-03-31T12:00:00.893Z
 section:
 - photos
 - home
-photoClass: fg g50-50
+photoClass: fg
 properties:
   photo:
   - alt: A Tree in the Sunset

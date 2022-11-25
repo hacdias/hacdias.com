@@ -4,7 +4,7 @@ published: 2020-03-31T12:00:00.893Z
 section:
 - photos
 - home
-photoClass: g03lockdown fg
+photoClass: fg g03lockdown
 properties:
   photo:
   - alt: Do Not Enter

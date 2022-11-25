@@ -4,7 +4,7 @@ section:
 - photos
 - home
 createdWith: https://micropublish.net/
-photoClass: fg g50-50
+photoClass: fg
 properties:
   location:
     properties:

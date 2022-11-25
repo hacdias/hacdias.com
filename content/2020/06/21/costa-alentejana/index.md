@@ -4,7 +4,7 @@ published: 2020-06-21T23:30:50.893Z
 section:
 - photos
 - home
-photoClass: grid-costa-alentejana fg
+photoClass: fg grid-costa-alentejana
 properties:
   photo:
   - alt: null

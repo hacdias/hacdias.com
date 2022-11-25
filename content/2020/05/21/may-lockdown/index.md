@@ -4,7 +4,7 @@ published: 2020-05-21T23:30:50.893Z
 section:
 - photos
 - home
-photoClass: g05lk fg g50-50
+photoClass: fg g05lk
 properties:
   photo:
   - cdn:/2020-05-nature-02

@@ -626,9 +626,6 @@ figure.album img {
 .fg {
   display: grid;
   grid-gap: 1rem;
-}
-
-.fg.g50-50 {
   grid-template-columns: repeat(2, 1fr);
 }
 
