@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/205e6718748f78b52cd7ad9118c978d926a026f1011e330ebc0d5a6f91ff8cfd.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-26T13:42:50+01:00",
+      "content": "You\u0026#39;re the mayor!",
+      "url": "https://ownyourswarm.p3k.io/checkin/638209cacb609b4dff276d00/32c452690035aafb2f077bb8432923cf",
+      "type": "reply",
+      "swarmCoins": 9
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-11-26T13:42:50+01:00",
+      "content": "Wow! That\u0026#39;s 40 check-ins at Coffee Shops!",
+      "url": "https://ownyourswarm.p3k.io/checkin/638209cacb609b4dff276d00/1fd75318c71fe4e6322e2fc1f1329df1",
+      "type": "reply",
+      "swarmCoins": 15
+    }
+  ]
+}

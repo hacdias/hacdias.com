@@ -1,0 +1,15 @@
+{
+  "targets": [
+    "https://jan.boddez.net/notes/813b64b433"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan Boddez",
+      "photo": "https://cdn.hacdias.com/wm/fce1504803e26e4bc97a7287c9e947699c7874ba2b74e6fbda1648d3bd70ee3b.jpg",
+      "url": "https://jan.boddez.net/"
+    },
+    "published": "2022-11-25T23:17:49+01:00",
+    "content": "Congrats! Aside: My feed reader/X-Ray/php-mf2 failed to correctly parse the u-video property. If moved to the source element, it works okay. (See also: https://pin13.net/mf2/?url=https%3A%2F%2Fhacdias.com%2F2022%2F11%2F25%2Fmsc-graduation-ceremony.)",
+    "url": "https://jan.boddez.net/notes/813b64b433"
+  }
+}

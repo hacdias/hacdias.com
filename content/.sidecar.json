@@ -159,6 +159,17 @@
       "content": "@darius Yes, and I’d absolutely read something similar by, e.g., @jle or @hacdias! 🤪Accepting followers and sending out Create activities for simple Notes is about as far as I got when I last gave ActivityPub a try. Would love to see semi-simple examples of Update and Delete activities, processing requests to shared inboxes, what an outbox should look like, how Mastodon treats Notes vs. Articles, and so on",
       "url": "https://geekcompass.com/@jan/109400132232103096",
       "id": "https://geekcompass.com/users/jan/statuses/109400132232103096"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/6d04d58fb0ac2d5d84c05bbe59489507b0f28f1d69ebf4ea3e625ef2cdb7b6eb.jpg",
+        "url": "https://fosstodon.org/users/hacdias"
+      },
+      "published": "2022-11-26T18:49:25Z",
+      "content": "Hi! I\u0026#39;m Henrique! I\u0026#39;m a Portuguese 🇵🇹 guy living in The Netherlands 🇳🇱. I recently graduated 🎓 from my master’s degree and now work as a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users.I am trying to implement ActivityPub at my website. If you decide to follow me here, please also follow @hacdias@hacdias.com 😄 My goal is to make it my main account once I\u0026#39;m able to follow others from it!#introduction",
+      "url": "https://fosstodon.org/@hacdias/109411600889970337",
+      "id": "https://fosstodon.org/users/hacdias/statuses/109411600889970337"
     }
   ],
   "interactions": [
