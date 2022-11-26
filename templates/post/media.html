@@ -11,8 +11,8 @@
   {{ with .Helper.Videos }}
     <div class="fw">
     {{ range $i, $video := . }}
-      <video controls {{ with $video.alt }}poster="{{ . }}"{{ end }} class="u-video">
-        <source src="{{ $video.value }}">
+      <video controls {{ with $video.alt }}poster="{{ . }}"{{ end }}>
+        <source class="u-video" src="{{ $video.value }}">
       </video>
     {{ end }}
     </div>
@@ -23,8 +23,8 @@
     {{ range $i, $audio := . }}
     <figure>
       {{ with .alt }}<figcaption>{{ . }}</figcaption> {{ end }}
-      <audio controls class="u-audio">
-        <source src="{{ .value }}">
+      <audio controls>
+        <source class="u-audio" src="{{ .value }}">
       </audio>
     </figure>
     {{ end }}
