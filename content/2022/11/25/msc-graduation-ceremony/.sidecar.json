@@ -3,5 +3,18 @@
     "https://hacdias.com/2022/11/23/09h07m14s20",
     "https://www.flickr.com/photos/129818819@N03/albums/72177720303968156",
     "https://youtu.be/PemFIEJtUSw?t=2904"
+  ],
+  "replies": [
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "url": "https://jan.boddez.net/"
+      },
+      "published": "2022-11-25T23:17:49+01:00",
+      "content": "Congrats! Aside: My feed reader/X-Ray/php-mf2 failed to correctly parse the u-video property. If moved to the source element, it works okay. (See also: https://pin13.net/mf2/?url=https%3A%2F%2Fhacdias.com%2F2022%2F11%2F25%2Fmsc-graduation-ceremony.)",
+      "url": "https://jan.boddez.net/notes/813b64b433",
+      "type": "reply"
+    }
   ]
 }
