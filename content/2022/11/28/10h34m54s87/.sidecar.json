@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "https://jlelse.blog/links/2022/11/dump-twitter-card-tags"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://cdn.hacdias.com/wm/19f2fafbdb19f3e5addb86026dc15d7c05df8ae2c5c900fe622e73998b08a0e1.jpg?v=f0e3a809aba0da9534efe97b3e9baae26ff1aa53e2712ab61b129212f5b39bca",
+      "url": "https://jlelse.blog"
+    },
+    "published": "2022-11-27T14:47:32Z",
+    "name": "“Bloggers, Dump Your Twitter Card Tags”",
+    "content": "It’s crazy to think how much bandwidth is being used by metadata tags. Every company wants to invent it’s own new system. Wouter Groeneveld gives a brief overview and recommends getting rid of them (for the most part). I agree with him completely. The only one of these systems that my blog supports is Microformats, which is quite popular among the IndieWeb community. https://brainbaking.com/post/2022/11/bloggers-dump-your-twitter-card-tags/",
+    "url": "https://jlelse.blog/links/2022/11/dump-twitter-card-tags"
+  },
+  "replies": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "url": "https://seblog.nl/"
+      },
+      "published": "2022-11-28T16:14:33Z",
+      "content": "It seems like a lot of people (W, J and H) are cleaning up their . I always tried to be minimalist in my HTML (and I did meditate back when I build the current version of my site), so my head was actually already rather empty. I did however removed \u0026#39;add Twitter metadata\u0026#39; from my personal backlog. Feels freeing.",
+      "url": "https://seblog.nl/2022/11/28/1/twitter-metadata"
+    }
+  ]
+}

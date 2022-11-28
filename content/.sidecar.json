@@ -170,6 +170,29 @@
       "content": "Hi! I\u0026#39;m Henrique! I\u0026#39;m a Portuguese 🇵🇹 guy living in The Netherlands 🇳🇱. I recently graduated 🎓 from my master’s degree and now work as a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users.I am trying to implement ActivityPub at my website. If you decide to follow me here, please also follow @hacdias@hacdias.com 😄 My goal is to make it my main account once I\u0026#39;m able to follow others from it!#introduction",
       "url": "https://fosstodon.org/@hacdias/109411600889970337",
       "id": "https://fosstodon.org/users/hacdias/statuses/109411600889970337"
+    },
+    {
+      "author": {
+        "name": "Aaron Toponce ⚛️:debian:",
+        "photo": "https://cdn.hacdias.com/wm/ee847b67c288ad929ffa6dcecfbe81a346be1dddf9b4b964527be3655d4f62c2.jpg",
+        "url": "https://fosstodon.org/users/atoponce"
+      },
+      "published": "2022-11-28T13:10:52Z",
+      "content": "@hacdias \u0026#34;Because MD5 is a relatively weak algorithm, it is possible to create deliberate hash \u0026#34;collisions\u0026#34;. That is, take some data and manipulate it until it has the same MD5 as a different piece of data.\u0026#34;This is confusing collision attacks and second preimage attacks.MD5 and SHA-1 are broken in collisions. IE, two inputs collide to an *unknown* output.Both are secure against second preimages. IE, you have an input w/ hash and look for another input it collides with.",
+      "url": "https://fosstodon.org/@atoponce/109421595983554903",
+      "type": "reply",
+      "id": "https://fosstodon.org/users/atoponce/statuses/109421595983554903"
+    },
+    {
+      "author": {
+        "name": "Aaron Toponce ⚛️:debian:",
+        "photo": "https://cdn.hacdias.com/wm/ee847b67c288ad929ffa6dcecfbe81a346be1dddf9b4b964527be3655d4f62c2.jpg",
+        "url": "https://fosstodon.org/users/atoponce"
+      },
+      "published": "2022-11-28T13:11:52Z",
+      "content": "@hacdias Further:\u0026#34;Someone could, theoretically, deliberately create a file which looks unremarkable when viewed, but is illegal when hashed.\u0026#34;That\u0026#39;s a pre-image attack: you have a hash and find input that hashes to it. MD5 and SHA-1 are also both secure against preimage attacks.",
+      "url": "https://fosstodon.org/@atoponce/109421599917048965",
+      "id": "https://fosstodon.org/users/atoponce/statuses/109421599917048965"
     }
   ],
   "interactions": [
