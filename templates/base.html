@@ -1,6 +1,6 @@
 {{ define "base" }}
 <!DOCTYPE html>
-<html lang="{{ .Site.Language }}">
+<html lang='{{ .Site.Language }}'>
 <head>
   {{ include "base/head" . }}
 </head>
@@ -11,7 +11,7 @@
     {{ include "base/footer" . }}
   </div>
 
-  <script type="text/javascript" src="{{ .Assets.Path "app.js" }}"></script>
+  <script type='text/javascript' src='{{ .Assets.Path "app.js" }}'></script>
 </body>
 </html>
 {{ end }}
