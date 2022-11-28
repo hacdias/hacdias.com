@@ -3,67 +3,61 @@
   {{ $title := sprintf "%s - %s" $pageTitle .Site.Title }}
   {{ $description := or .TextDescription .Site.Description }}
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#fbfbfb">
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <meta name='theme-color' content='#fbfbfb'>
 
   <title>{{ $title }}</title>
 
   {{ if .NoIndex }}
-    <meta name="robots" content="noindex">
+    <meta name='robots' content='noindex'>
   {{ end }}
 
-  <meta name="description" content="{{ $description }}">
-  <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="icon" href="/favicon.ico" type=image/x-icon>
+  <meta name='description' content='{{ $description }}'>
+  <link rel='canonical' href='{{ .Permalink }}'>
+  <link rel='icon' href='{{ absURL "/favicon.ico" }}' type='image/x-icon'>
 
   {{ range .Alternates }}
-     <link rel="alternate" type="{{ .Type }}" href="{{ .Href }}">
+     <link rel='alternate' type='{{ .Type }}' href='{{ .Href }}'>
   {{ end }}
 
   <!-- Social Media -->
-  <meta property="og:type" content="{{ if or .Listing .IsHome }}website{{ else }}article{{ end }}" />
-  <meta name="twitter:site" content="@hacdias"/>
-  <meta name="twitter:creator" content="@hacdias"/>
-  <meta property="og:locale" content="{{ .Site.Language }}" />
-  <meta property="og:title" content="{{ $title }}" />
-  <meta property="og:description" content="{{ $description }}" />
-  <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta property='og:type' content='{{ if or .Listing .IsHome }}website{{ else }}article{{ end }}' />
+  <meta property='og:site_name' content='{{ .Site.Title }}' />
   {{ with .Helper.Photo }}
     {{ with figureURL .value "1000" "jpeg" }}
-      <meta property="og:image" content="{{ . }}" />
+      <meta property='og:image' content='{{ . }}' />
     {{ end }}
   {{ end }}
 
   {{ if not .Published.IsZero }}
-    <meta property="article:published_time" content="{{ .Published.Format "2006-01-02T15:04:05-07:00" }}" />
+    <meta property='article:published_time' content='{{ .Published.Format "2006-01-02T15:04:05-07:00" }}' />
   {{ end }}
 
   {{ if not .Updated.IsZero }}
-    <meta property="article:modified_time" content="{{ .Updated.Format "2006-01-02T15:04:05-07:00" }}" />
-    <meta property="og:updated_time" content="{{ .Updated.Format "2006-01-02T15:04:05-07:00" }}" />
+    <meta property='article:modified_time' content='{{ .Updated.Format "2006-01-02T15:04:05-07:00" }}' />
+    <meta property='og:updated_time' content='{{ .Updated.Format "2006-01-02T15:04:05-07:00" }}' />
   {{ end }}
 
-  <link rel="stylesheet" href="{{ .Assets.Path "styles.css" }}">
+  <link rel='stylesheet' href='{{ .Assets.Path "styles.css" }}'>
 
   {{ with .GetFile ".styles.css" }}
     <style>{{ safeCSS . }}</style>
   {{ end }}
 
   {{ if .IsHome }}
-    <link rel="indieauth-metadata" href="{{ absURL "/.well-known/oauth-authorization-server" }}">
-    <link rel="authorization_endpoint" href="{{ absURL "/auth" }}">
-    <link rel="token_endpoint" href="{{ absURL "/token" }}">
-    <link rel="micropub" href="{{ absURL "/micropub" }}">
-    <link rel="microsub" href="https://aperture.p3k.io/microsub/455">
-    <link rel="me" href="{{ absURL "/pubkey.txt" }}" rel="pgpkey" />
+    <link rel='indieauth-metadata' href='{{ absURL "/.well-known/oauth-authorization-server" }}'>
+    <link rel='authorization_endpoint' href='{{ absURL "/auth" }}'>
+    <link rel='token_endpoint' href='{{ absURL "/token" }}'>
+    <link rel='micropub' href='{{ absURL "/micropub" }}'>
+    <link rel='microsub' href='https://aperture.p3k.io/microsub/455'>
+    <link rel='me' href='{{ absURL "/pubkey.txt" }}' rel='pgpkey' />
     {{ range .Me.Identities -}}
-      <link rel="me" href="{{ . }}" />
+      <link rel='me' href='{{ . }}' />
     {{ end -}}
   {{ end }}
 
-  <link rel="webmention" href="https://webmention.io/hacdias.com/webmention" />
-  <link rel="pingback" href="https://webmention.io/hacdias.com/xmlrpc" />
+  <link rel='webmention' href='https://webmention.io/hacdias.com/webmention' />
+  <link rel='pingback' href='https://webmention.io/hacdias.com/xmlrpc' />
 {{ end }}
