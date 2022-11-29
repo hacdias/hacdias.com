@@ -24,137 +24,137 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 
 <div class='box'>
 
-- 1899 <small>last watched in November 2022</small>
-- RuPaul's Drag Race UK <small>last watched in November 2022</small>
-- Kurzgesagt - In a Nutshell <small>last watched in November 2022</small>
-- Elite <small>last watched in November 2022</small>
-- The Watcher <small>last watched in November 2022</small>
-- Manifest <small>last watched in November 2022</small>
-- The Handmaid's Tale <small>last watched in November 2022</small>
-- Young Sheldon <small>last watched in November 2022</small>
-- Young Royals <small>last watched in November 2022</small>
-- The Good Doctor <small>last watched in November 2022</small>
-- Big Mouth <small>last watched in October 2022</small>
-- House of the Dragon <small>last watched in October 2022</small>
-- The Midnight Club <small>last watched in October 2022</small>
-- She-Hulk: Attorney at Law <small>last watched in October 2022</small>
-- Heartbreak High <small>last watched in September 2022</small>
-- Fate: The Winx Saga <small>last watched in September 2022</small>
-- Ms. Marvel <small>last watched in September 2022</small>
-- The Imperfects <small>last watched in September 2022</small>
-- Sunset <small>last watched in September 2022</small>
-- The Sandman <small>last watched in August 2022</small>
-- Heathrow: Britain's Busiest Airport <small>last watched in August 2022</small>
-- Never Have I Ever <small>last watched in August 2022</small>
-- RuPaul's Drag Race Down Under <small>last watched in August 2022</small>
-- Locke & Key <small>last watched in August 2022</small>
-- The House of Flowers <small>last watched in August 2022</small>
-- I Am Not Okay with This <small>last watched in August 2022</small>
-- Uncoupled <small>last watched in August 2022</small>
-- RuPaul's Drag Race All Stars <small>last watched in July 2022</small>
-- Rebelde <small>last watched in July 2022</small>
-- New Heights <small>last watched in July 2022</small>
-- RuPaul's Drag Race All Stars: Untucked! <small>last watched in July 2022</small>
-- Control Z <small>last watched in July 2022</small>
-- Stranger Things <small>last watched in July 2022</small>
-- The Umbrella Academy <small>last watched in June 2022</small>
-- Welcome to Eden <small>last watched in June 2022</small>
-- The 100 <small>last watched in June 2022</small>
-- Love, Victor <small>last watched in June 2022</small>
-- First Kill <small>last watched in June 2022</small>
-- Workin' Moms <small>last watched in May 2022</small>
-- WandaVision <small>last watched in May 2022</small>
-- Loki <small>last watched in May 2022</small>
-- Heartstopper <small>last watched in April 2022</small>
-- Bridgerton <small>last watched in April 2022</small>
-- RuPaul's Drag Race <small>last watched in April 2022</small>
-- RuPaul's Drag Race: Untucked! <small>last watched in April 2022</small>
-- Snowpiercer <small>last watched in March 2022</small>
-- Human Resources <small>last watched in March 2022</small>
-- RuPaul's Drag Race UK vs the World <small>last watched in March 2022</small>
-- One of Us Is Lying <small>last watched in March 2022</small>
-- Inventing Anna <small>last watched in March 2022</small>
-- The Legend of Korra <small>last watched in February 2022</small>
-- Avatar: The Last Airbender <small>last watched in February 2022</small>
-- Archive 81 <small>last watched in February 2022</small>
-- Love, Death & Robots <small>last watched in February 2022</small>
-- Emily in Paris <small>last watched in January 2022</small>
-- Travelers <small>last watched in January 2022</small>
-- Degrassi: Next Class <small>last watched in December 2021</small>
-- Elite Short Stories: Samuel Omar <small>last watched in December 2021</small>
-- Elite Short Stories: Patrick <small>last watched in December 2021</small>
-- The Worst Witch <small>last watched in December 2021</small>
-- The Witcher <small>last watched in December 2021</small>
-- Dash & Lily <small>last watched in December 2021</small>
-- Anne with an E <small>last watched in December 2021</small>
-- Dark <small>last watched in December 2021</small>
-- Elves <small>last watched in December 2021</small>
-- Downton Abbey <small>last watched in October 2021</small>
-- Squid Game <small>last watched in October 2021</small>
-- Sex Education <small>last watched in September 2021</small>
-- Riverdale <small>last watched in August 2021</small>
-- Ragnarok <small>last watched in August 2021</small>
-- Good Girls <small>last watched in August 2021</small>
-- Marvel's Iron Fist <small>last watched in July 2021</small>
-- Shadow and Bone <small>last watched in July 2021</small>
-- The A List <small>last watched in July 2021</small>
-- Special <small>last watched in June 2021</small>
-- The Shannara Chronicles <small>last watched in May 2021</small>
-- The Irregulars <small>last watched in April 2021</small>
-- Shadowhunters <small>last watched in March 2021</small>
-- Tiny Pretty Things <small>last watched in February 2021</small>
-- The Rain <small>last watched in February 2021</small>
-- The Good Place <small>last watched in February 2021</small>
-- BONDiNG <small>last watched in January 2021</small>
-- Good Witch <small>last watched in January 2021</small>
-- Greenhouse Academy <small>last watched in January 2021</small>
-- The Unlisted <small>last watched in January 2021</small>
-- Selena: The Series <small>last watched in December 2020</small>
-- The Queen's Gambit <small>last watched in December 2020</small>
-- The Haunting of Hill House <small>last watched in November 2020</small>
-- The Haunting of Bly Manor <small>last watched in November 2020</small>
-- The Bureau of Magical Things <small>last watched in November 2020</small>
-- Drag Race Holland <small>last watched in November 2020</small>
-- Secret Celebrity RuPaul's Drag Race <small>last watched in August 2020</small>
-- The Politician <small>last watched in July 2020</small>
-- The Order <small>last watched in July 2020</small>
-- Warrior Nun <small>last watched in July 2020</small>
-- Bangkok Love Stories 2: Innocence <small>last watched in July 2020</small>
-- Please Like Me <small>last watched in June 2020</small>
-- Modern Family <small>last watched in June 2020</small>
-- 13 Reasons Why <small>last watched in June 2020</small>
-- Champions <small>last watched in May 2020</small>
-- How to Get Away with Murder <small>last watched in May 2020</small>
-- Westworld <small>last watched in May 2020</small>
-- Glee <small>last watched in April 2020</small>
-- Money Heist <small>last watched in April 2020</small>
-- The Magicians <small>last watched in April 2020</small>
-- #CasaDoCais <small>last watched in March 2020</small>
-- Tales of the City <small>last watched in March 2020</small>
-- The New Pope <small>last watched in February 2020</small>
-- AJ and the Queen <small>last watched in January 2020</small>
-- Black Mirror <small>last watched in June 2019</small>
-- EastSiders <small>last watched in May 2019</small>
-- Game of Thrones <small>last watched in May 2019</small>
-- Harrow <small>last watched in December 2018</small>
-- Sense8 <small>last watched in December 2018</small>
-- SKAM <small>last watched in August 2018</small>
-- Scorpion <small>last watched in August 2018</small>
-- The Young Pope <small>last watched in June 2018</small>
-- Deception <small>last watched in May 2018</small>
-- The Blacklist: Redemption <small>last watched in March 2018</small>
-- The Librarians <small>last watched in February 2018</small>
-- Frequency <small>last watched in August 2017</small>
-- Genius <small>last watched in June 2017</small>
-- The Simpsons <small>last watched in June 2017</small>
-- Mr. Robot <small>last watched in April 2017</small>
-- Heroes Reborn <small>last watched in October 2016</small>
-- Forever <small>last watched in October 2016</small>
-- Castle <small>last watched in May 2016</small>
-- The Fosters <small>last watched in September 2015</small>
-- Once Upon a Time <small>last watched in July 2015</small>
-- Merlin <small>last watched in July 2015</small>
-- House of Anubis <small>last watched in April 2013</small>
+- 1899 <small>last watched S1E4 in November 2022</small>
+- RuPaul's Drag Race UK <small>last watched S4E10 in November 2022</small>
+- Kurzgesagt - In a Nutshell <small>last watched S10E14 in November 2022</small>
+- Elite <small>last watched S6E8 in November 2022</small>
+- The Watcher <small>last watched S1E7 in November 2022</small>
+- Manifest <small>last watched S4E10 in November 2022</small>
+- The Handmaid's Tale <small>last watched S5E10 in November 2022</small>
+- Young Sheldon <small>last watched S6E7 in November 2022</small>
+- Young Royals <small>last watched S2E6 in November 2022</small>
+- The Good Doctor <small>last watched S6E5 in November 2022</small>
+- Big Mouth <small>last watched S6E10 in October 2022</small>
+- House of the Dragon <small>last watched S1E10 in October 2022</small>
+- The Midnight Club <small>last watched S1E10 in October 2022</small>
+- She-Hulk: Attorney at Law <small>last watched S1E9 in October 2022</small>
+- Heartbreak High <small>last watched S1E8 in September 2022</small>
+- Fate: The Winx Saga <small>last watched S2E7 in September 2022</small>
+- Ms. Marvel <small>last watched S1E6 in September 2022</small>
+- The Imperfects <small>last watched S1E1 in September 2022</small>
+- Sunset <small>last watched S2E20 in September 2022</small>
+- The Sandman <small>last watched S1E11 in August 2022</small>
+- Heathrow: Britain's Busiest Airport <small>last watched S8E6 in August 2022</small>
+- Never Have I Ever <small>last watched S3E10 in August 2022</small>
+- RuPaul's Drag Race Down Under <small>last watched S2E2 in August 2022</small>
+- Locke & Key <small>last watched S3E8 in August 2022</small>
+- The House of Flowers <small>last watched S3E11 in August 2022</small>
+- I Am Not Okay with This <small>last watched S1E7 in August 2022</small>
+- Uncoupled <small>last watched S1E8 in August 2022</small>
+- RuPaul's Drag Race All Stars <small>last watched S7E12 in July 2022</small>
+- Rebelde <small>last watched S2E8 in July 2022</small>
+- New Heights <small>last watched S1E8 in July 2022</small>
+- RuPaul's Drag Race All Stars: Untucked! <small>last watched S4E10 in July 2022</small>
+- Control Z <small>last watched S3E8 in July 2022</small>
+- Stranger Things <small>last watched S4E9 in July 2022</small>
+- The Umbrella Academy <small>last watched S3E9 in June 2022</small>
+- Welcome to Eden <small>last watched S1E8 in June 2022</small>
+- The 100 <small>last watched S4E2 in June 2022</small>
+- Love, Victor <small>last watched S3E8 in June 2022</small>
+- First Kill <small>last watched S1E8 in June 2022</small>
+- Workin' Moms <small>last watched S6E13 in May 2022</small>
+- WandaVision <small>last watched S1E9 in May 2022</small>
+- Loki <small>last watched S1E6 in May 2022</small>
+- Heartstopper <small>last watched S1E8 in April 2022</small>
+- Bridgerton <small>last watched S2E8 in April 2022</small>
+- RuPaul's Drag Race <small>last watched S14E16 in April 2022</small>
+- RuPaul's Drag Race: Untucked! <small>last watched S14E13 in April 2022</small>
+- Snowpiercer <small>last watched S3E10 in March 2022</small>
+- Human Resources <small>last watched S1E10 in March 2022</small>
+- RuPaul's Drag Race UK vs the World <small>last watched S1E6 in March 2022</small>
+- One of Us Is Lying <small>last watched S1E8 in March 2022</small>
+- Inventing Anna <small>last watched S1E9 in March 2022</small>
+- The Legend of Korra <small>last watched S4E13 in February 2022</small>
+- Avatar: The Last Airbender <small>last watched S3E21 in February 2022</small>
+- Archive 81 <small>last watched S1E8 in February 2022</small>
+- Love, Death & Robots <small>last watched S2E1 in February 2022</small>
+- Emily in Paris <small>last watched S2E10 in January 2022</small>
+- Travelers <small>last watched S3E10 in January 2022</small>
+- Degrassi: Next Class <small>last watched S4E10 in December 2021</small>
+- Elite Short Stories: Samuel Omar <small>last watched S1E3 in December 2021</small>
+- Elite Short Stories: Patrick <small>last watched S1E3 in December 2021</small>
+- The Worst Witch <small>last watched S4E13 in December 2021</small>
+- The Witcher <small>last watched S2E8 in December 2021</small>
+- Dash & Lily <small>last watched S1E8 in December 2021</small>
+- Anne with an E <small>last watched S3E10 in December 2021</small>
+- Dark <small>last watched S3E8 in December 2021</small>
+- Elves <small>last watched S1E6 in December 2021</small>
+- Downton Abbey <small>last watched S6E8 in October 2021</small>
+- Squid Game <small>last watched S1E4 in October 2021</small>
+- Sex Education <small>last watched S3E8 in September 2021</small>
+- Riverdale <small>last watched S2E22 in August 2021</small>
+- Ragnarok <small>last watched S2E6 in August 2021</small>
+- Good Girls <small>last watched S4E14 in August 2021</small>
+- Marvel's Iron Fist <small>last watched S2E10 in July 2021</small>
+- Shadow and Bone <small>last watched S1E8 in July 2021</small>
+- The A List <small>last watched S1E13 in July 2021</small>
+- Special <small>last watched S2E8 in June 2021</small>
+- The Shannara Chronicles <small>last watched S2E10 in May 2021</small>
+- The Irregulars <small>last watched S1E8 in April 2021</small>
+- Shadowhunters <small>last watched S3E22 in March 2021</small>
+- Tiny Pretty Things <small>last watched S1E10 in February 2021</small>
+- The Rain <small>last watched S1E3 in February 2021</small>
+- The Good Place <small>last watched S4E13 in February 2021</small>
+- BONDiNG <small>last watched S2E8 in January 2021</small>
+- Good Witch <small>last watched S5E10 in January 2021</small>
+- Greenhouse Academy <small>last watched S4E8 in January 2021</small>
+- The Unlisted <small>last watched S1E15 in January 2021</small>
+- Selena: The Series <small>last watched S1E3 in December 2020</small>
+- The Queen's Gambit <small>last watched S1E7 in December 2020</small>
+- The Haunting of Hill House <small>last watched S1E10 in November 2020</small>
+- The Haunting of Bly Manor <small>last watched S1E1 in November 2020</small>
+- The Bureau of Magical Things <small>last watched S1E20 in November 2020</small>
+- Drag Race Holland <small>last watched S1E8 in November 2020</small>
+- Secret Celebrity RuPaul's Drag Race <small>last watched S1E4 in August 2020</small>
+- The Politician <small>last watched S2E7 in July 2020</small>
+- The Order <small>last watched S2E9 in July 2020</small>
+- Warrior Nun <small>last watched S1E10 in July 2020</small>
+- Bangkok Love Stories 2: Innocence <small>last watched S1E13 in July 2020</small>
+- Please Like Me <small>last watched S4E6 in June 2020</small>
+- Modern Family <small>last watched S11E18 in June 2020</small>
+- 13 Reasons Why <small>last watched S4E10 in June 2020</small>
+- Champions <small>last watched S1E10 in May 2020</small>
+- How to Get Away with Murder <small>last watched S6E15 in May 2020</small>
+- Westworld <small>last watched S3E8 in May 2020</small>
+- Glee <small>last watched S6E13 in April 2020</small>
+- Money Heist <small>last watched S2E16 in April 2020</small>
+- The Magicians <small>last watched S5E13 in April 2020</small>
+- #CasaDoCais <small>last watched S2E10 in March 2020</small>
+- Tales of the City <small>last watched S1E10 in March 2020</small>
+- The New Pope <small>last watched S1E9 in February 2020</small>
+- AJ and the Queen <small>last watched S1E10 in January 2020</small>
+- Black Mirror <small>last watched S5E3 in June 2019</small>
+- EastSiders <small>last watched S3E6 in May 2019</small>
+- Game of Thrones <small>last watched S8E6 in May 2019</small>
+- Harrow <small>last watched S1E1 in December 2018</small>
+- Sense8 <small>last watched S2E12 in December 2018</small>
+- SKAM <small>last watched S4E10 in August 2018</small>
+- Scorpion <small>last watched S4E10 in August 2018</small>
+- The Young Pope <small>last watched S1E10 in June 2018</small>
+- Deception <small>last watched S1E13 in May 2018</small>
+- The Blacklist: Redemption <small>last watched S1E8 in March 2018</small>
+- The Librarians <small>last watched S4E12 in February 2018</small>
+- Frequency <small>last watched S0E1 in August 2017</small>
+- Genius <small>last watched S1E10 in June 2017</small>
+- The Simpsons <small>last watched S1E1 in June 2017</small>
+- Mr. Robot <small>last watched S2E3 in April 2017</small>
+- Heroes Reborn <small>last watched S1E13 in October 2016</small>
+- Forever <small>last watched S1E22 in October 2016</small>
+- Castle <small>last watched S8E20 in May 2016</small>
+- The Fosters <small>last watched S2E14 in September 2015</small>
+- Once Upon a Time <small>last watched S4E22 in July 2015</small>
+- Merlin <small>last watched S5E13 in July 2015</small>
+- House of Anubis <small>last watched S3E40 in April 2013</small>
 
 </div>
 
@@ -520,8 +520,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Eragon <small>last watched in July 2015</small>
 - The Gilded Cage <small>last watched in July 2015</small>
 - The Giver <small>last watched in July 2015</small>
-- The Twilight Saga: Breaking Dawn - Part 1 <small>last watched in July 2015</small>
 - The Twilight Saga: Eclipse <small>last watched in July 2015</small>
+- The Twilight Saga: Breaking Dawn - Part 1 <small>last watched in July 2015</small>
 - The Twilight Saga: New Moon <small>last watched in July 2015</small>
 - The Twilight Saga: Breaking Dawn - Part 2 <small>last watched in July 2015</small>
 - Twilight <small>last watched in July 2015</small>
@@ -533,8 +533,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - The Interview <small>last watched in July 2015</small>
 - The Hobbit: An Unexpected Journey <small>last watched in July 2015</small>
 - The Lord of the Rings: The Two Towers <small>last watched in July 2015</small>
-- The Lord of the Rings: The Fellowship of the Ring <small>last watched in July 2015</small>
 - The Lord of the Rings: The Return of the King <small>last watched in July 2015</small>
+- The Lord of the Rings: The Fellowship of the Ring <small>last watched in July 2015</small>
 - The Hobbit: The Desolation of Smaug <small>last watched in July 2015</small>
 - The Theory of Everything <small>last watched in July 2015</small>
 - The Hobbit: The Battle of the Five Armies <small>last watched in July 2015</small>
@@ -542,14 +542,14 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Harry Potter and the Chamber of Secrets <small>last watched in July 2015</small>
 - Harry Potter and the Order of the Phoenix <small>last watched in July 2015</small>
 - Harry Potter and the Half-Blood Prince <small>last watched in July 2015</small>
-- Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
 - Harry Potter and the Goblet of Fire <small>last watched in July 2015</small>
+- Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 1 <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 2 <small>last watched in July 2015</small>
 - The Hunger Games <small>last watched in July 2015</small>
+- The Hunger Games: Mockingjay - Part 1 <small>last watched in July 2015</small>
 - Harry Potter and the Prisoner of Azkaban <small>last watched in July 2015</small>
 - The Hunger Games: Catching Fire <small>last watched in July 2015</small>
-- The Hunger Games: Mockingjay - Part 1 <small>last watched in July 2015</small>
 - Project Almanac <small>last watched in July 2015</small>
 - Furious 7 <small>last watched in April 2015</small>
 - Frida <small>last watched in April 2014</small>
@@ -578,9 +578,9 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Tarzan <small>last watched in October 2008</small>
 - The Incredible Hulk <small>last watched in June 2008</small>
 - The Chronicles of Narnia: Prince Caspian <small>last watched in May 2008</small>
-- The Lion King <small>last watched in January 2008</small>
 - Pocahontas <small>last watched in January 2008</small>
 - The Secret of NIMH <small>last watched in January 2008</small>
+- The Lion King <small>last watched in January 2008</small>
 - Shrek the Halls <small>last watched in November 2007</small>
 - Surf's Up <small>last watched in June 2007</small>
 - The Lion King II: Simba's Pride <small>last watched in May 2007</small>
