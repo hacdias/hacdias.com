@@ -2,7 +2,7 @@
 description: Liked a post on www.reddit.com
 published: 2022-06-10T11:24:34.758231577+02:00
 section:
-- micro
+- likes
 createdWith: https://indieweb.org/Shortcuts
 properties:
   like-of: https://www.reddit.com/r/PixelArt/comments/v8ie3z/oc_rain_shelter/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
