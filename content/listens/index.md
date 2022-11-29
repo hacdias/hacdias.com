@@ -1,9 +1,9 @@
 ---
+deleted: true
 title: Listens
 description: Extensive list of daily scrobbles, as well as monthly and yearly reports of my listening habits.
 noShowInteractions: true
 noSendInteractions: true
-listing: {}
 ---
 
 <style>

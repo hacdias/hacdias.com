@@ -51,7 +51,7 @@ As I said before, my website feds from data from some other services I use to ke
 
 - 🐝  [**Swarm**](https://www.swarmapp.com/) feeds into my [checkins](/checkins) page, which contains the checkins of places I've been to. These updates are generated via [OwnYourSwarm](https://ownyourswarm.p3k.io/).  
 
-- 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contrary to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens) page which has the current top artists and tracks I've been listening to. It's probably the "worse" looking page from the bunch.
+<!-- - 🎧 [**Last.fm**](https://www.last.fm/home) is for music and it is synchronized to my Spotify account. However, in contrary to what happens with Spotify, the stats from Last.fm seem to be much more accurate. I feed its data into my [listens](/listens) page which has the current top artists and tracks I've been listening to. It's probably the "worse" looking page from the bunch. -->
 
 - 🙍 [**Miniflux**](https://miniflux.app/) is a simple RSS reader that I self-host. It has a really neat API and I use to track down my blogroll, which can be found in the [blogroll](/links#blogroll) page. I believe it is important to let others know we follow them and to share that with the blogosphere.
 
