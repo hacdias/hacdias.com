@@ -1,3 +1,9 @@
+.box {
+  max-height: 50vh;
+  padding: var(--hms);
+  overflow: auto;
+}
+
 :root {
   --accent: #c0749d;
 }
