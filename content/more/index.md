@@ -27,6 +27,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [📍 Checkins](/checkins)
 - [🥘 Food and Beverages](/food)
 - [🗺 Itineraries](/itineraries)
+- [❤️ Likes](/likes)
 - [💬 Micro](/micro)
 - [⏰ Now](/now)
 - [📸 Photos](/photos)
