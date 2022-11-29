@@ -11,7 +11,7 @@
         <button>Send Webmention</button>
       </form>
 
-      <form method="get" action="https://quill.p3k.io/" target="_blank">
+      <form method="get" action="https://quill.p3k.io/">
         <input type="hidden" name="dontask" value="1">
         <input type="hidden" name="me" value="https://commentpara.de/">
         <input type="hidden" name="reply" value="{{ .Permalink }}">
@@ -24,7 +24,7 @@
           {{ if or (not (or .Private .Hidden)) $.IsAdmin }}
           <div class="h-cite">
             <p>
-              <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
+              <a rel="noopener noreferrer" href="{{ .URL }}" class="u-url nl">
                 <span class="u-author h-card">
                   <strong class="p-name">{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}</strong>
                   <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
@@ -41,7 +41,7 @@
                 • <span class='lg'><a href="/mention-toggle{{ $.ID }}?wm={{ .URL }}">Toggle Visibility</a></span>
               {{ end }}
             </p>
-            <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
+            <a rel="noopener noreferrer" href="{{ .URL }}" class="u-url nl">
               {{ if .Content }}
                 <p class="e-content p-name copy">{{ safeHTML (truncate .Content 300) }}</p>
               {{ else if .Name }}
@@ -61,7 +61,7 @@
         {{ range $sidecar.Interactions }}
           {{ if or (not (or .Private .Hidden)) $.IsAdmin }}
             <span class="h-cite reaction">
-              <a rel="noopener noreferrer" target="_blank" href="{{ .URL }}" class="u-url nl">
+              <a rel="noopener noreferrer" href="{{ .URL }}" class="u-url nl">
                 <span class="u-author h-card">
                   <img alt="{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}" class="u-photo" src="{{ or .Author.Photo "/unknown.jpg" }}">
                   <span>

@@ -10,7 +10,7 @@
       {{ $season := $sub.Properties.season }}
 
       <span class="u-watch-of h-cite">
-        {{ with $sub.String "url" }}<a target="_blank" rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
+        {{ with $sub.String "url" }}<a rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
           <strong><span class="p-name">{{ $sub.Name }}</span></strong>
           (
             {{- with $series.Name }}<span class="u-episode-of h-cite"><span class="p-name">{{ . }}</span></span>{{ end }}
@@ -31,7 +31,7 @@
       
       Watched
       <span class="u-watch-of h-cite">
-        {{ with $sub.String "url" }}<a target="_blank" rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
+        {{ with $sub.String "url" }}<a rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
           <strong><span class="p-name">{{ $sub.Name }}</span></strong>
         {{ with $sub.String "url" }}</a>{{ end }}
 

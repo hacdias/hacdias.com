@@ -44,7 +44,7 @@
         {{ end -}}
 
         {{ range $syndications }}
-        <a class='nl u-syndication' rel="noopener noreferrer" target="_blank" href="{{ . }}">
+        <a class='nl u-syndication' rel="noopener noreferrer" href="{{ . }}">
           {{ $domain := domain . }}
           {{- if strContains $domain "twitter.com" }}🐦
           {{- else if strContains $domain "swarmapp.com" }}🐝

@@ -14,7 +14,7 @@
       🎵 Listened to
 
       <span class="u-listen-of h-cite">
-        {{ with .String "url" }}<a target="_blank" rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
+        {{ with .String "url" }}<a rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
           <strong><span class="p-name">{{ .Name }}</span></strong>
         {{ with .String "url" }}</a>{{ end }}
 

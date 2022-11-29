@@ -10,7 +10,7 @@
 
     <div class='copy'>
       <p>
-        <a id="button" class="nl" rel="noopener noreferrer" target="_blank" href="{{ $url }}">
+        <a id="button" class="nl" rel="noopener noreferrer" href="{{ $url }}">
           <button>Post an entry!</button>
         </a>
       </p>
@@ -30,7 +30,7 @@
 
             <div class="signature">—
             {{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }},
-            {{ with .URL }}<a rel="noopener noreferrer" target="_blank" href="{{ . }}">{{ end }}
+            {{ with .URL }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
             {{- with .Published}}{{ .Format "02 January 2006" }}{{ else }}Unknown Date{{end }}
             {{ with .URL }}</a>{{ end }}
             </div>
@@ -41,7 +41,7 @@
     </div>
 
     <div class='copy'>
-      <p><small>P.S.: This guestbook is powered by <a href="https://indieweb.org/Webmention" rel="noopener noreferrer" target="_blank">webmentions</a>. If your website supports webmentions, you can use them. Bear in mind that this page may not reflect changes immediately.</small></p>
+      <p><small>P.S.: This guestbook is powered by <a href="https://indieweb.org/Webmention" rel="noopener noreferrer">webmentions</a>. If your website supports webmentions, you can use them. Bear in mind that this page may not reflect changes immediately.</small></p>
     </div>
   </article>
 </main>
