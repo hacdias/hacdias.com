@@ -2,6 +2,7 @@
 title: Watches
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
+updated: 2022-11-29T12:56:21.993525807+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -15,7 +16,7 @@ figure.fig-popcorn {
 
 ![Popcorn](https://cdn.hacdias.com/media/2021-02-popcorn.gif?class=right+pixelated+fig-popcorn)
 
-This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that I'm watching. I use [Trakt](https://trakt.tv/dashboard) to record what I watch, and then I collect the data automatically. Some dates may not be correct.
+This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that I'm watching. I use [Trakt](https://trakt.tv/) to record what I watch, and then I collect the data automatically every day. At some point, I decided to try marking all things I remember watching in the past. Of course, I don't remembe the exact date of things I watched as a child. Therefore, some dates may be wrong 😅.
 
 <!--more-->
 
