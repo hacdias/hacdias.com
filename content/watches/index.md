@@ -2,7 +2,7 @@
 title: Watches
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-updated: 2022-11-29T12:56:21.993525807+01:00
+updated: 2022-11-30T00:00:41.803809971+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -521,8 +521,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Eragon <small>last watched in July 2015</small>
 - The Gilded Cage <small>last watched in July 2015</small>
 - The Giver <small>last watched in July 2015</small>
-- The Twilight Saga: Eclipse <small>last watched in July 2015</small>
 - The Twilight Saga: Breaking Dawn - Part 1 <small>last watched in July 2015</small>
+- The Twilight Saga: Eclipse <small>last watched in July 2015</small>
 - The Twilight Saga: New Moon <small>last watched in July 2015</small>
 - Twilight <small>last watched in July 2015</small>
 - The Twilight Saga: Breaking Dawn - Part 2 <small>last watched in July 2015</small>
@@ -534,8 +534,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - The Interview <small>last watched in July 2015</small>
 - The Hobbit: An Unexpected Journey <small>last watched in July 2015</small>
 - The Lord of the Rings: The Two Towers <small>last watched in July 2015</small>
-- The Lord of the Rings: The Fellowship of the Ring <small>last watched in July 2015</small>
 - The Lord of the Rings: The Return of the King <small>last watched in July 2015</small>
+- The Lord of the Rings: The Fellowship of the Ring <small>last watched in July 2015</small>
 - The Hobbit: The Desolation of Smaug <small>last watched in July 2015</small>
 - The Theory of Everything <small>last watched in July 2015</small>
 - The Hobbit: The Battle of the Five Armies <small>last watched in July 2015</small>
@@ -543,14 +543,14 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Harry Potter and the Chamber of Secrets <small>last watched in July 2015</small>
 - Harry Potter and the Order of the Phoenix <small>last watched in July 2015</small>
 - Harry Potter and the Half-Blood Prince <small>last watched in July 2015</small>
-- Harry Potter and the Goblet of Fire <small>last watched in July 2015</small>
 - Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
+- Harry Potter and the Goblet of Fire <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 1 <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 2 <small>last watched in July 2015</small>
 - The Hunger Games <small>last watched in July 2015</small>
+- The Hunger Games: Mockingjay - Part 1 <small>last watched in July 2015</small>
 - Harry Potter and the Prisoner of Azkaban <small>last watched in July 2015</small>
 - The Hunger Games: Catching Fire <small>last watched in July 2015</small>
-- The Hunger Games: Mockingjay - Part 1 <small>last watched in July 2015</small>
 - Project Almanac <small>last watched in July 2015</small>
 - Furious 7 <small>last watched in April 2015</small>
 - Frida <small>last watched in April 2014</small>

@@ -1,5 +1,33 @@
 [
   {
+    "id": 8692489925,
+    "watched_at": "2022-11-29T21:48:58Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "The Calling",
+      "season": 1,
+      "number": 5,
+      "ids": {
+        "trakt": 6648579,
+        "imdb": "tt14574184",
+        "tmdb": 3915213,
+        "tvdb": 9348590
+      }
+    },
+    "show": {
+      "title": "1899",
+      "year": 2022,
+      "ids": {
+        "trakt": 163643,
+        "imdb": "tt9319668",
+        "tmdb": 90669,
+        "slug": "1899",
+        "tvdb": 384429
+      }
+    }
+  },
+  {
     "id": 8689888691,
     "watched_at": "2022-11-28T07:26:29Z",
     "action": "watch",
@@ -117,7 +145,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Grand Finale",
+      "title": "Episode 10",
       "season": 4,
       "number": 10,
       "ids": {
@@ -404,7 +432,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Comedy Queens",
+      "title": "Episode 9",
       "season": 4,
       "number": 9,
       "ids": {
@@ -432,7 +460,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "The Squirrel Games",
+      "title": "Episode 8",
       "season": 4,
       "number": 8,
       "ids": {
@@ -1064,7 +1092,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Makeover Challenge",
+      "title": "Episode 7",
       "season": 4,
       "number": 7,
       "ids": {
@@ -1287,7 +1315,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Snatch Game",
+      "title": "Episode 6",
       "season": 4,
       "number": 6,
       "ids": {
@@ -1766,7 +1794,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Lairy Poppins - The Rusical",
+      "title": "Episode 5",
       "season": 4,
       "number": 5,
       "ids": {
@@ -2156,7 +2184,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Catty Man",
+      "title": "Episode 4",
       "season": 4,
       "number": 4,
       "ids": {
@@ -2412,7 +2440,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Naff-ta Awards",
+      "title": "Episode 3",
       "season": 4,
       "number": 3,
       "ids": {
@@ -2679,7 +2707,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Yass-tonbury Festival",
+      "title": "Episode 2",
       "season": 4,
       "number": 2,
       "ids": {
@@ -2862,7 +2890,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "ST4RT Your Engines",
+      "title": "Episode 1",
       "season": 4,
       "number": 1,
       "ids": {
@@ -27713,7 +27741,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Grand Finale",
+      "title": "Episode 10",
       "season": 3,
       "number": 10,
       "ids": {
@@ -28239,7 +28267,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "The Pearly Gates Roast",
+      "title": "Episode 9",
       "season": 3,
       "number": 9,
       "ids": {
@@ -28730,7 +28758,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Bra Wars",
+      "title": "Episode 8",
       "season": 3,
       "number": 8,
       "ids": {
@@ -28786,7 +28814,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Miss Fugly Beauty Pageant",
+      "title": "Episode 7",
       "season": 3,
       "number": 7,
       "ids": {
@@ -29081,7 +29109,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Snatch Game",
+      "title": "Episode 6",
       "season": 3,
       "number": 6,
       "ids": {
@@ -29332,7 +29360,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Draglexa",
+      "title": "Episode 5",
       "season": 3,
       "number": 5,
       "ids": {
@@ -29403,7 +29431,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Big Drag Energy",
+      "title": "Episode 4",
       "season": 3,
       "number": 4,
       "ids": {
@@ -30045,7 +30073,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Great Outdoors",
+      "title": "Episode 3",
       "season": 3,
       "number": 3,
       "ids": {
@@ -30800,7 +30828,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Dragoton",
+      "title": "Episode 2",
       "season": 3,
       "number": 2,
       "ids": {
@@ -30828,7 +30856,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "The Return of Royalty",
+      "title": "Episode 1",
       "season": 3,
       "number": 1,
       "ids": {
@@ -39678,7 +39706,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Grand Finale",
+      "title": "Episode 10",
       "season": 2,
       "number": 10,
       "ids": {
@@ -39873,7 +39901,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "BeastEnders",
+      "title": "Episode 9",
       "season": 2,
       "number": 9,
       "ids": {
@@ -40600,7 +40628,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Stoned on the Runway",
+      "title": "Episode 8",
       "season": 2,
       "number": 8,
       "ids": {
@@ -40964,7 +40992,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Lockdown Supersheroes",
+      "title": "Episode 7",
       "season": 2,
       "number": 7,
       "ids": {
@@ -41524,7 +41552,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Snatch Game",
+      "title": "Episode 6",
       "season": 2,
       "number": 6,
       "ids": {
@@ -42055,7 +42083,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "The RuRuvision Song Contest",
+      "title": "Episode 5",
       "season": 2,
       "number": 5,
       "ids": {
@@ -42475,7 +42503,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Morning Glory",
+      "title": "Episode 4",
       "season": 2,
       "number": 4,
       "ids": {
@@ -44098,7 +44126,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Who Wore It Best",
+      "title": "Episode 3",
       "season": 2,
       "number": 3,
       "ids": {
@@ -44667,7 +44695,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Rats: The Rusical",
+      "title": "Episode 2",
       "season": 2,
       "number": 2,
       "ids": {
@@ -46123,7 +46151,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Royalty Returns",
+      "title": "Episode 1",
       "season": 2,
       "number": 1,
       "ids": {
@@ -77139,34 +77167,6 @@
     }
   },
   {
-    "id": 5193599591,
-    "watched_at": "2019-12-02T08:39:07Z",
-    "action": "watch",
-    "type": "episode",
-    "episode": {
-      "title": "It's a Wrap!",
-      "season": 1,
-      "number": 9,
-      "ids": {
-        "trakt": 3721717,
-        "imdb": "",
-        "tmdb": 1946959,
-        "tvdb": 7468771
-      }
-    },
-    "show": {
-      "title": "RuPaul's Drag Race UK",
-      "year": 2019,
-      "ids": {
-        "trakt": 140622,
-        "imdb": "tt9780442",
-        "tmdb": 92611,
-        "slug": "rupaul-s-drag-race-uk",
-        "tvdb": 356338
-      }
-    }
-  },
-  {
     "id": 5190919765,
     "watched_at": "2019-12-01T21:48:20Z",
     "action": "watch",
@@ -77956,7 +77956,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Grand Finale",
+      "title": "Episode 8",
       "season": 1,
       "number": 8,
       "ids": {
@@ -78396,7 +78396,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "The Family That Slays Together",
+      "title": "Episode 7",
       "season": 1,
       "number": 7,
       "ids": {
@@ -79140,7 +79140,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Thirsty Werk",
+      "title": "Episode 6",
       "season": 1,
       "number": 6,
       "ids": {
@@ -79884,7 +79884,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Girl Groups",
+      "title": "Episode 5",
       "season": 1,
       "number": 5,
       "ids": {
@@ -79912,7 +79912,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Posh on a Penny",
+      "title": "Episode 3",
       "season": 1,
       "number": 3,
       "ids": {
@@ -79940,7 +79940,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Downton Draggy",
+      "title": "Episode 2",
       "season": 1,
       "number": 2,
       "ids": {
@@ -79968,7 +79968,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "The Royal Queens",
+      "title": "Episode 1",
       "season": 1,
       "number": 1,
       "ids": {
@@ -80024,7 +80024,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "Snatch Game",
+      "title": "Episode 4",
       "season": 1,
       "number": 4,
       "ids": {

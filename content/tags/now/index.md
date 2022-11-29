@@ -6,7 +6,7 @@ listing: {}
 
 <div class="box">
 
-⏰ Inspired by the [NowNowNow](https://nownownow.com/) movement, I write monthly updates regarding my life.
+⏰ Monthly life updates inspired by the [NowNowNow](https://nownownow.com/) movement.
 
 </div>
 
