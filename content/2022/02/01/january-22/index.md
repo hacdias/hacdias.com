@@ -2,9 +2,11 @@
 title: Recently in January '22
 published: 2022-02-01T08:39:42.122462461+01:00
 section:
-- now
 - articles
 - home
+taxonomies:
+  tags:
+  - now
 ---
 
 It is unbelievable that 1/12 of the year has already gone by. I came back to the Netherlands in the beginning of the month and I've been able to achieve quite a few things last month.

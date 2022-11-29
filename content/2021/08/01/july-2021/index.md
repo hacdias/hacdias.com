@@ -2,9 +2,11 @@
 title: Recently in July '21
 published: 2021-08-01T07:37:52.811583889Z
 section:
-- now
 - articles
 - home
+taxonomies:
+  tags:
+  - now
 ---
 
 This year has been passing way too fast. In the beginning, I felt the urge to finish the academic year. Now, I'm only one month away to the beginning of my (hopefully) last year of university. Exciting projects may happen this year and I'm here for it.

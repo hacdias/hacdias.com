@@ -29,7 +29,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🗺 Itineraries](/itineraries)
 - [❤️ Likes](/likes)
 - [💬 Micro](/micro)
-- [⏰ Now](/now)
 - [📸 Photos](/photos)
 
 </div>

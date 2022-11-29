@@ -4,7 +4,9 @@ published: 2022-10-01T17:21:59.519041956+02:00
 section:
 - home
 - articles
-- now
+taxonomies:
+  tags:
+  - now
 createdWith: https://hacdias.com/
 ---
 
