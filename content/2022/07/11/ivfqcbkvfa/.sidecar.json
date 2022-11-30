@@ -15,22 +15,22 @@
   "interactions": [
     {
       "author": {
-        "name": "Nimo",
-        "photo": "https://cdn.hacdias.com/wm/b30bfdc5f8718bb3c1a99a97a68edda0579e392aa59afe36a73994daed9c00e2.jpg",
-        "url": "https://twitter.com/nimobeeren"
-      },
-      "published": "2022-07-11T17:42:03Z",
-      "url": "https://brid.gy/like/twitter/hacdias/1546493213602619394/1065361423637889025",
-      "type": "like"
-    },
-    {
-      "author": {
         "name": "Chris",
         "photo": "https://cdn.hacdias.com/wm/d55020685e61ad71750b00aa0dc1e06acb7b14b8b713797d6f8085aace60cb98.jpg",
         "url": "https://twitter.com/christiaanb2351"
       },
       "published": "2022-07-12T14:02:44Z",
       "url": "https://brid.gy/like/twitter/hacdias/1546493213602619394/1349856943310065664",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "Nimo",
+        "photo": "https://cdn.hacdias.com/wm/b30bfdc5f8718bb3c1a99a97a68edda0579e392aa59afe36a73994daed9c00e2.jpg",
+        "url": "https://twitter.com/nimobeeren"
+      },
+      "published": "2022-07-11T17:42:03Z",
+      "url": "https://brid.gy/like/twitter/hacdias/1546493213602619394/1065361423637889025",
       "type": "like"
     }
   ]

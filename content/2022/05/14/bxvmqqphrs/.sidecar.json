@@ -7,17 +7,6 @@
   "interactions": [
     {
       "author": {
-        "name": "Jan Boddez",
-        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
-        "url": "https://jan.boddez.net/"
-      },
-      "published": "2022-05-15T14:46:25+02:00",
-      "content": "These “emoji” archives are kind of cool! Reminded me of Aaron Parecki’s avatars, that reflect any emoji present in his notes. (Turns out, of course, Aaron has an actual emoji archive, too. 😊)",
-      "url": "https://jan.boddez.net/notes/9dc490c447",
-      "type": "bookmark"
-    },
-    {
-      "author": {
         "name": "Sebastiaan Andeweg",
         "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
         "url": "https://seblog.nl/"
@@ -26,6 +15,17 @@
       "content": "Seb vindt een post van Henrique Dias leuk.",
       "url": "https://seblog.nl/2022/05/15/1/like",
       "type": "like"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/ca4a566e8cad11023244978b77560414c826fd6d8db47a9b034e19b8d3d9ffd2.jpg",
+        "url": "https://jan.boddez.net/"
+      },
+      "published": "2022-05-15T14:46:25+02:00",
+      "content": "These “emoji” archives are kind of cool! Reminded me of Aaron Parecki’s avatars, that reflect any emoji present in his notes. (Turns out, of course, Aaron has an actual emoji archive, too. 😊)",
+      "url": "https://jan.boddez.net/notes/9dc490c447",
+      "type": "bookmark"
     }
   ]
 }

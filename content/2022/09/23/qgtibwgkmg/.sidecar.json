@@ -2,17 +2,6 @@
   "replies": [
     {
       "author": {
-        "name": "Nimo",
-        "photo": "https://cdn.hacdias.com/wm/b30bfdc5f8718bb3c1a99a97a68edda0579e392aa59afe36a73994daed9c00e2.jpg",
-        "url": "https://twitter.com/nimobeeren"
-      },
-      "published": "2022-09-23T11:45:40Z",
-      "content": "Welcome back!",
-      "url": "https://brid.gy/comment/twitter/hacdias/1573269287640469504/1573277413639081984",
-      "type": "reply"
-    },
-    {
-      "author": {
         "name": "Henrique Dias",
         "photo": "https://cdn.hacdias.com/wm/e30d193f6cd5dfa3ca42bf385c4b15f4a36b7640ac526db48125e62353762fd9.jpg",
         "url": "https://twitter.com/hacdias"
@@ -21,19 +10,20 @@
       "content": "Dankjewel!",
       "url": "https://brid.gy/comment/twitter/hacdias/1573269287640469504/1573285962741850112",
       "type": "reply"
-    }
-  ],
-  "interactions": [
+    },
     {
       "author": {
         "name": "Nimo",
         "photo": "https://cdn.hacdias.com/wm/b30bfdc5f8718bb3c1a99a97a68edda0579e392aa59afe36a73994daed9c00e2.jpg",
         "url": "https://twitter.com/nimobeeren"
       },
-      "published": "2022-09-23T15:19:17Z",
-      "url": "https://brid.gy/like/twitter/hacdias/1573269287640469504/1065361423637889025",
-      "type": "like"
-    },
+      "published": "2022-09-23T11:45:40Z",
+      "content": "Welcome back!",
+      "url": "https://brid.gy/comment/twitter/hacdias/1573269287640469504/1573277413639081984",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
     {
       "author": {
         "name": "Chris",
@@ -52,6 +42,16 @@
       },
       "published": "2022-09-23T15:19:21Z",
       "url": "https://brid.gy/like/twitter/hacdias/1573269287640469504/144560866",
+      "type": "like"
+    },
+    {
+      "author": {
+        "name": "Nimo",
+        "photo": "https://cdn.hacdias.com/wm/b30bfdc5f8718bb3c1a99a97a68edda0579e392aa59afe36a73994daed9c00e2.jpg",
+        "url": "https://twitter.com/nimobeeren"
+      },
+      "published": "2022-09-23T15:19:17Z",
+      "url": "https://brid.gy/like/twitter/hacdias/1573269287640469504/1065361423637889025",
       "type": "like"
     }
   ]

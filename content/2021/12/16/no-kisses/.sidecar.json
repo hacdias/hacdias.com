@@ -2,17 +2,6 @@
   "replies": [
     {
       "author": {
-        "name": "maique",
-        "photo": "https://cdn.hacdias.com/wm/b9e2212c09910444f61d175b713075404e42940b2ae0109f324a1976e330492c.jpg",
-        "url": "https://micro.blog/maique"
-      },
-      "published": "2021-12-16T21:49:09Z",
-      "content": "@hacdias The exemption seems to be fading… sad, but true.",
-      "url": "https://micro.blog/maique/12275514",
-      "type": "reply"
-    },
-    {
-      "author": {
         "name": "warner",
         "photo": "https://cdn.hacdias.com/wm/0c3ded076df1f73eecd02772d994877c20b5705064388888f98b5c8af37d70eb.jpg",
         "url": "https://micro.blog/warner"
@@ -20,6 +9,17 @@
       "published": "2022-02-07T07:27:44Z",
       "content": "@hacdias agreed: greeting kisses can kiss my... well y'know",
       "url": "https://micro.blog/warner/12457073",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "maique",
+        "photo": "https://cdn.hacdias.com/wm/b9e2212c09910444f61d175b713075404e42940b2ae0109f324a1976e330492c.jpg",
+        "url": "https://micro.blog/maique"
+      },
+      "published": "2021-12-16T21:49:09Z",
+      "content": "@hacdias The exemption seems to be fading… sad, but true.",
+      "url": "https://micro.blog/maique/12275514",
       "type": "reply"
     }
   ]

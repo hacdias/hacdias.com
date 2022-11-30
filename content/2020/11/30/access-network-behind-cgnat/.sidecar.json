@@ -10,21 +10,21 @@
     {
       "author": {
         "name": "Anonymous",
-        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg"
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
       },
-      "published": "2021-03-11T20:49:12Z",
-      "content": "Dont forget to open the used Port in the Settings of the VPS!",
-      "url": "https://commentpara.de/comment/818.htm",
+      "published": "2022-04-08T14:01:12Z",
+      "content": "In order to get it to work, I had to open the port on my Vultr firewall AND add this line. \"sudo ufw allow 37466/udp\" Working great now! Thanks for the write-up!",
+      "url": "https://commentpara.de/comment/1000.htm",
       "type": "reply"
     },
     {
       "author": {
         "name": "Anonymous",
-        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg"
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
       },
-      "published": "2021-05-09T13:50:03Z",
-      "content": "Are you sure this line is correct: sudo systemctl enable wg-quick@wg0 Perhaps your blogging platform auto-added the link?",
-      "url": "https://commentpara.de/comment/846.htm",
+      "published": "2022-01-29T22:20:25Z",
+      "content": "I have setup things as described - however after after installing some OS updates on the VPS despite having set the client to work with full tunnel, all traffic that does not go to the local subnet now gets routed to the internet using the VPS ip. Any idea what might cause this?",
+      "url": "https://commentpara.de/comment/955.htm",
       "type": "reply"
     },
     {
@@ -41,21 +41,21 @@
     {
       "author": {
         "name": "Anonymous",
-        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
+        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg"
       },
-      "published": "2022-01-29T22:20:25Z",
-      "content": "I have setup things as described - however after after installing some OS updates on the VPS despite having set the client to work with full tunnel, all traffic that does not go to the local subnet now gets routed to the internet using the VPS ip. Any idea what might cause this?",
-      "url": "https://commentpara.de/comment/955.htm",
+      "published": "2021-05-09T13:50:03Z",
+      "content": "Are you sure this line is correct: sudo systemctl enable wg-quick@wg0 Perhaps your blogging platform auto-added the link?",
+      "url": "https://commentpara.de/comment/846.htm",
       "type": "reply"
     },
     {
       "author": {
         "name": "Anonymous",
-        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
+        "photo": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg"
       },
-      "published": "2022-04-08T14:01:12Z",
-      "content": "In order to get it to work, I had to open the port on my Vultr firewall AND add this line. \"sudo ufw allow 37466/udp\" Working great now! Thanks for the write-up!",
-      "url": "https://commentpara.de/comment/1000.htm",
+      "published": "2021-03-11T20:49:12Z",
+      "content": "Dont forget to open the used Port in the Settings of the VPS!",
+      "url": "https://commentpara.de/comment/818.htm",
       "type": "reply"
     }
   ],

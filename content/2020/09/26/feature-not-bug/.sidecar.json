@@ -15,17 +15,6 @@
   "replies": [
     {
       "author": {
-        "name": "Basebandit",
-        "photo": "https://cdn.hacdias.com/wm/1cf60f3299e83ee9b83cc90717cb02b139b3262648414287cfed7e1d6c839469.png",
-        "url": "https://twitter.com/the_basebandit"
-      },
-      "published": "2020-09-26T07:40:49Z",
-      "content": "Am curious? explain further, do you mind?",
-      "url": "https://twitter.com/the_basebandit/status/1309759820300419073",
-      "type": "reply"
-    },
-    {
-      "author": {
         "name": "Henrique Dias",
         "photo": "https://cdn.hacdias.com/wm/ddd8a83c019c39f33d14179baf4e78d11e7aae39c460f54df45c9d1fe598bcb0.jpg",
         "url": "https://twitter.com/hacdias"
@@ -33,6 +22,17 @@
       "published": "2020-09-26T09:39:36Z",
       "content": "@the_basebandit oh, it was just a joke! 😅",
       "url": "https://twitter.com/hacdias/status/1309789712958328832",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Basebandit",
+        "photo": "https://cdn.hacdias.com/wm/1cf60f3299e83ee9b83cc90717cb02b139b3262648414287cfed7e1d6c839469.png",
+        "url": "https://twitter.com/the_basebandit"
+      },
+      "published": "2020-09-26T07:40:49Z",
+      "content": "Am curious? explain further, do you mind?",
+      "url": "https://twitter.com/the_basebandit/status/1309759820300419073",
       "type": "reply"
     }
   ]

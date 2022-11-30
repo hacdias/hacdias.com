@@ -2,6 +2,17 @@
   "replies": [
     {
       "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
+        "url": "https://hacdias.com/"
+      },
+      "published": "2022-10-18T13:14:45+02:00",
+      "content": "Back when I went to Portugal in August, my parents and I were at a restaurant with a very nice view of the ocean. However, no one expected that just under thirty minutes after the ocean would bring extreme fog, completely obstructing the view. It was quite incredible to see the onset of such a foggy view from such perspective.https://cdn.hacdias.com/img/2000/bc0d50d29ee7bfb34953264b7ec672b7463c9be883501d43859ede39c7e20e0c.jpeg https://cdn.hacdias.com/img/2000/25dd8fc3f43a97cb807e51225d6c89cf80b332599cf5411418871d9c042c15ba.jpeg",
+      "url": "https://hacdias.com/2022/10/18/epzwauxwwh",
+      "type": "mention"
+    },
+    {
+      "author": {
         "name": "Swarm",
         "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
         "url": "https://swarmapp.com/"
@@ -59,17 +70,6 @@
       "url": "https://ownyourswarm.p3k.io/checkin/63075ab1aa5cbd6a4fdc9e42/b0d7a8cd9cff4c64f98e5b33f759ed2d",
       "type": "reply",
       "swarmCoins": 2
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
-        "url": "https://hacdias.com/"
-      },
-      "published": "2022-10-18T13:14:45+02:00",
-      "content": "Back when I went to Portugal in August, my parents and I were at a restaurant with a very nice view of the ocean. However, no one expected that just under thirty minutes after the ocean would bring extreme fog, completely obstructing the view. It was quite incredible to see the onset of such a foggy view from such perspective.https://cdn.hacdias.com/img/2000/bc0d50d29ee7bfb34953264b7ec672b7463c9be883501d43859ede39c7e20e0c.jpeg https://cdn.hacdias.com/img/2000/25dd8fc3f43a97cb807e51225d6c89cf80b332599cf5411418871d9c042c15ba.jpeg",
-      "url": "https://hacdias.com/2022/10/18/epzwauxwwh",
-      "type": "mention"
     }
   ]
 }

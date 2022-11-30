@@ -5,16 +5,6 @@
   "replies": [
     {
       "author": {
-        "name": "Anonymous",
-        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
-      },
-      "published": "2022-08-15T20:47:22Z",
-      "content": "I've found Shaarli to work well for this. Tags, notes with markdown-formatting support, RSS feeds including a daily digest, etc...",
-      "url": "https://commentpara.de/comment/1084.htm",
-      "type": "reply"
-    },
-    {
-      "author": {
         "name": "Henrique Dias",
         "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
         "url": "https://hacdias.com/"
@@ -22,6 +12,16 @@
       "published": "2022-08-16T11:49:37+02:00",
       "content": "But if you listen to a lot of music this approach would probably deserve its own website I guess.Maybe this is where my problem is. What is the line that divides what I should put on my website vs. another service / subdomain. Same thing for the wiki and bookmarks I guess.",
       "url": "https://hacdias.com/2022/08/16/fjdjdarfhg",
+      "type": "reply"
+    },
+    {
+      "author": {
+        "name": "Anonymous",
+        "photo": "https://cdn.hacdias.com/wm/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
+      },
+      "published": "2022-08-15T20:47:22Z",
+      "content": "I've found Shaarli to work well for this. Tags, notes with markdown-formatting support, RSS feeds including a daily digest, etc...",
+      "url": "https://commentpara.de/comment/1084.htm",
       "type": "reply"
     }
   ]
