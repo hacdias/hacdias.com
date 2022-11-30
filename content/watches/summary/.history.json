@@ -1,5 +1,61 @@
 [
   {
+    "id": 8693925252,
+    "watched_at": "2022-11-30T20:46:06Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "The Storm",
+      "season": 1,
+      "number": 7,
+      "ids": {
+        "trakt": 6648581,
+        "imdb": "tt14572512",
+        "tmdb": 3915216,
+        "tvdb": 9348592
+      }
+    },
+    "show": {
+      "title": "1899",
+      "year": 2022,
+      "ids": {
+        "trakt": 163643,
+        "imdb": "tt9319668",
+        "tmdb": 90669,
+        "slug": "1899",
+        "tvdb": 384429
+      }
+    }
+  },
+  {
+    "id": 8693925149,
+    "watched_at": "2022-11-30T20:46:01Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "The Pyramid",
+      "season": 1,
+      "number": 6,
+      "ids": {
+        "trakt": 6648580,
+        "imdb": "tt14572514",
+        "tmdb": 3915215,
+        "tvdb": 9348591
+      }
+    },
+    "show": {
+      "title": "1899",
+      "year": 2022,
+      "ids": {
+        "trakt": 163643,
+        "imdb": "tt9319668",
+        "tmdb": 90669,
+        "slug": "1899",
+        "tvdb": 384429
+      }
+    }
+  },
+  {
     "id": 8692489925,
     "watched_at": "2022-11-29T21:48:58Z",
     "action": "watch",
@@ -111003,12 +111059,12 @@
     "type": "movie",
     "movie": {
       "title": "Cruel Intentions 2",
-      "year": 2000,
+      "year": 2001,
       "ids": {
         "trakt": 3084,
         "imdb": "tt0196267",
         "tmdb": 5458,
-        "slug": "cruel-intentions-2-2000"
+        "slug": "cruel-intentions-2-2001"
       }
     }
   },

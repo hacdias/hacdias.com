@@ -2,7 +2,7 @@
 title: Watches Summary
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-updated: 2022-11-30T00:00:41.803809971+01:00
+updated: 2022-12-01T00:00:39.279418238+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -515,17 +515,17 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Madagascar: Escape 2 Africa <small>last watched in July 2015</small>
 - Madagascar <small>last watched in July 2015</small>
 - Up <small>last watched in July 2015</small>
-- Cruel Intentions 3 <small>last watched in July 2015</small>
 - Cruel Intentions 2 <small>last watched in July 2015</small>
+- Cruel Intentions 3 <small>last watched in July 2015</small>
 - Cruel Intentions <small>last watched in July 2015</small>
 - Eragon <small>last watched in July 2015</small>
 - The Gilded Cage <small>last watched in July 2015</small>
 - The Giver <small>last watched in July 2015</small>
-- The Twilight Saga: Breaking Dawn - Part 1 <small>last watched in July 2015</small>
 - The Twilight Saga: Eclipse <small>last watched in July 2015</small>
+- The Twilight Saga: Breaking Dawn - Part 1 <small>last watched in July 2015</small>
 - The Twilight Saga: New Moon <small>last watched in July 2015</small>
-- Twilight <small>last watched in July 2015</small>
 - The Twilight Saga: Breaking Dawn - Part 2 <small>last watched in July 2015</small>
+- Twilight <small>last watched in July 2015</small>
 - Transformers <small>last watched in July 2015</small>
 - Transformers: Revenge of the Fallen <small>last watched in July 2015</small>
 - Transformers: Age of Extinction <small>last watched in July 2015</small>
@@ -534,8 +534,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - The Interview <small>last watched in July 2015</small>
 - The Hobbit: An Unexpected Journey <small>last watched in July 2015</small>
 - The Lord of the Rings: The Two Towers <small>last watched in July 2015</small>
-- The Lord of the Rings: The Return of the King <small>last watched in July 2015</small>
 - The Lord of the Rings: The Fellowship of the Ring <small>last watched in July 2015</small>
+- The Lord of the Rings: The Return of the King <small>last watched in July 2015</small>
 - The Hobbit: The Desolation of Smaug <small>last watched in July 2015</small>
 - The Theory of Everything <small>last watched in July 2015</small>
 - The Hobbit: The Battle of the Five Armies <small>last watched in July 2015</small>
@@ -543,8 +543,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Harry Potter and the Chamber of Secrets <small>last watched in July 2015</small>
 - Harry Potter and the Order of the Phoenix <small>last watched in July 2015</small>
 - Harry Potter and the Half-Blood Prince <small>last watched in July 2015</small>
-- Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
 - Harry Potter and the Goblet of Fire <small>last watched in July 2015</small>
+- Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 1 <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 2 <small>last watched in July 2015</small>
 - The Hunger Games <small>last watched in July 2015</small>
@@ -579,8 +579,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Tarzan <small>last watched in October 2008</small>
 - The Incredible Hulk <small>last watched in June 2008</small>
 - The Chronicles of Narnia: Prince Caspian <small>last watched in May 2008</small>
-- Pocahontas <small>last watched in January 2008</small>
 - The Lion King <small>last watched in January 2008</small>
+- Pocahontas <small>last watched in January 2008</small>
 - The Secret of NIMH <small>last watched in January 2008</small>
 - Shrek the Halls <small>last watched in November 2007</small>
 - Surf's Up <small>last watched in June 2007</small>
