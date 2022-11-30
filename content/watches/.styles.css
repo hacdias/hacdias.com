@@ -1,9 +1,3 @@
-.box {
-  max-height: 50vh;
-  padding: var(--hms);
-  overflow: auto;
-}
-
 :root {
   --accent: #c0749d;
 }
@@ -18,8 +12,4 @@
   #navbar {
     border-radius: 0;
   }
-}
-
-.container {
-  background: var(--background);
 }

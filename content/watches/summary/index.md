@@ -1,0 +1,609 @@
+---
+title: Watches Summary
+description: |
+  An extensive list of TV shows and movies I have or am watching right now.
+updated: 2022-11-30T00:00:41.803809971+01:00
+noShowInteractions: true
+noSendInteractions: true
+---
+
+<style>
+figure.fig-popcorn {
+  max-width: 130px;
+  margin-top: 0
+}
+</style>
+
+![Popcorn](https://cdn.hacdias.com/media/2021-02-popcorn.gif?class=right+pixelated+fig-popcorn)
+
+This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that I'm watching. I use [Trakt](https://trakt.tv/) to record what I watch, and then I collect the data automatically every day. At some point, I decided to try marking all things I remember watching in the past. Of course, I don't remembe the exact date of things I watched as a child. Therefore, some dates may be wrong 😅.
+
+<!--more-->
+
+<!--WATCHES-->
+## 📺 Series {#series}
+
+<div class='box'>
+
+- 1899 <small>last watched in November 2022</small>
+- RuPaul's Drag Race UK <small>last watched in November 2022</small>
+- Kurzgesagt - In a Nutshell <small>last watched in November 2022</small>
+- Elite <small>last watched in November 2022</small>
+- The Watcher <small>last watched in November 2022</small>
+- Manifest <small>last watched in November 2022</small>
+- The Handmaid's Tale <small>last watched in November 2022</small>
+- Young Sheldon <small>last watched in November 2022</small>
+- Young Royals <small>last watched in November 2022</small>
+- The Good Doctor <small>last watched in November 2022</small>
+- Big Mouth <small>last watched in October 2022</small>
+- House of the Dragon <small>last watched in October 2022</small>
+- The Midnight Club <small>last watched in October 2022</small>
+- She-Hulk: Attorney at Law <small>last watched in October 2022</small>
+- Heartbreak High <small>last watched in September 2022</small>
+- Fate: The Winx Saga <small>last watched in September 2022</small>
+- Ms. Marvel <small>last watched in September 2022</small>
+- The Imperfects <small>last watched in September 2022</small>
+- Sunset <small>last watched in September 2022</small>
+- The Sandman <small>last watched in August 2022</small>
+- Heathrow: Britain's Busiest Airport <small>last watched in August 2022</small>
+- Never Have I Ever <small>last watched in August 2022</small>
+- RuPaul's Drag Race Down Under <small>last watched in August 2022</small>
+- Locke & Key <small>last watched in August 2022</small>
+- The House of Flowers <small>last watched in August 2022</small>
+- I Am Not Okay with This <small>last watched in August 2022</small>
+- Uncoupled <small>last watched in August 2022</small>
+- RuPaul's Drag Race All Stars <small>last watched in July 2022</small>
+- Rebelde <small>last watched in July 2022</small>
+- New Heights <small>last watched in July 2022</small>
+- RuPaul's Drag Race All Stars: Untucked! <small>last watched in July 2022</small>
+- Control Z <small>last watched in July 2022</small>
+- Stranger Things <small>last watched in July 2022</small>
+- The Umbrella Academy <small>last watched in June 2022</small>
+- Welcome to Eden <small>last watched in June 2022</small>
+- The 100 <small>last watched in June 2022</small>
+- Love, Victor <small>last watched in June 2022</small>
+- First Kill <small>last watched in June 2022</small>
+- Workin' Moms <small>last watched in May 2022</small>
+- WandaVision <small>last watched in May 2022</small>
+- Loki <small>last watched in May 2022</small>
+- Heartstopper <small>last watched in April 2022</small>
+- Bridgerton <small>last watched in April 2022</small>
+- RuPaul's Drag Race <small>last watched in April 2022</small>
+- RuPaul's Drag Race: Untucked! <small>last watched in April 2022</small>
+- Snowpiercer <small>last watched in March 2022</small>
+- Human Resources <small>last watched in March 2022</small>
+- RuPaul's Drag Race UK vs the World <small>last watched in March 2022</small>
+- One of Us Is Lying <small>last watched in March 2022</small>
+- Inventing Anna <small>last watched in March 2022</small>
+- The Legend of Korra <small>last watched in February 2022</small>
+- Avatar: The Last Airbender <small>last watched in February 2022</small>
+- Archive 81 <small>last watched in February 2022</small>
+- Love, Death & Robots <small>last watched in February 2022</small>
+- Emily in Paris <small>last watched in January 2022</small>
+- Travelers <small>last watched in January 2022</small>
+- Degrassi: Next Class <small>last watched in December 2021</small>
+- Elite Short Stories: Samuel Omar <small>last watched in December 2021</small>
+- Elite Short Stories: Patrick <small>last watched in December 2021</small>
+- The Worst Witch <small>last watched in December 2021</small>
+- The Witcher <small>last watched in December 2021</small>
+- Dash & Lily <small>last watched in December 2021</small>
+- Anne with an E <small>last watched in December 2021</small>
+- Dark <small>last watched in December 2021</small>
+- Elves <small>last watched in December 2021</small>
+- Downton Abbey <small>last watched in October 2021</small>
+- Squid Game <small>last watched in October 2021</small>
+- Sex Education <small>last watched in September 2021</small>
+- Riverdale <small>last watched in August 2021</small>
+- Ragnarok <small>last watched in August 2021</small>
+- Good Girls <small>last watched in August 2021</small>
+- Marvel's Iron Fist <small>last watched in July 2021</small>
+- Shadow and Bone <small>last watched in July 2021</small>
+- The A List <small>last watched in July 2021</small>
+- Special <small>last watched in June 2021</small>
+- The Shannara Chronicles <small>last watched in May 2021</small>
+- The Irregulars <small>last watched in April 2021</small>
+- Shadowhunters <small>last watched in March 2021</small>
+- Tiny Pretty Things <small>last watched in February 2021</small>
+- The Rain <small>last watched in February 2021</small>
+- The Good Place <small>last watched in February 2021</small>
+- BONDiNG <small>last watched in January 2021</small>
+- Good Witch <small>last watched in January 2021</small>
+- Greenhouse Academy <small>last watched in January 2021</small>
+- The Unlisted <small>last watched in January 2021</small>
+- Selena: The Series <small>last watched in December 2020</small>
+- The Queen's Gambit <small>last watched in December 2020</small>
+- The Haunting of Hill House <small>last watched in November 2020</small>
+- The Haunting of Bly Manor <small>last watched in November 2020</small>
+- The Bureau of Magical Things <small>last watched in November 2020</small>
+- Drag Race Holland <small>last watched in November 2020</small>
+- Secret Celebrity RuPaul's Drag Race <small>last watched in August 2020</small>
+- The Politician <small>last watched in July 2020</small>
+- The Order <small>last watched in July 2020</small>
+- Warrior Nun <small>last watched in July 2020</small>
+- Bangkok Love Stories 2: Innocence <small>last watched in July 2020</small>
+- Please Like Me <small>last watched in June 2020</small>
+- Modern Family <small>last watched in June 2020</small>
+- 13 Reasons Why <small>last watched in June 2020</small>
+- Champions <small>last watched in May 2020</small>
+- How to Get Away with Murder <small>last watched in May 2020</small>
+- Westworld <small>last watched in May 2020</small>
+- Glee <small>last watched in April 2020</small>
+- Money Heist <small>last watched in April 2020</small>
+- The Magicians <small>last watched in April 2020</small>
+- #CasaDoCais <small>last watched in March 2020</small>
+- Tales of the City <small>last watched in March 2020</small>
+- The New Pope <small>last watched in February 2020</small>
+- AJ and the Queen <small>last watched in January 2020</small>
+- Black Mirror <small>last watched in June 2019</small>
+- EastSiders <small>last watched in May 2019</small>
+- Game of Thrones <small>last watched in May 2019</small>
+- Harrow <small>last watched in December 2018</small>
+- Sense8 <small>last watched in December 2018</small>
+- SKAM <small>last watched in August 2018</small>
+- Scorpion <small>last watched in August 2018</small>
+- The Young Pope <small>last watched in June 2018</small>
+- Deception <small>last watched in May 2018</small>
+- The Blacklist: Redemption <small>last watched in March 2018</small>
+- The Librarians <small>last watched in February 2018</small>
+- Frequency <small>last watched in August 2017</small>
+- Genius <small>last watched in June 2017</small>
+- The Simpsons <small>last watched in June 2017</small>
+- Mr. Robot <small>last watched in April 2017</small>
+- Heroes Reborn <small>last watched in October 2016</small>
+- Forever <small>last watched in October 2016</small>
+- Castle <small>last watched in May 2016</small>
+- The Fosters <small>last watched in September 2015</small>
+- Once Upon a Time <small>last watched in July 2015</small>
+- Merlin <small>last watched in July 2015</small>
+- House of Anubis <small>last watched in April 2013</small>
+
+</div>
+
+## 🎬 Movies {#movies}
+
+<div class='box'>
+
+- Disenchanted <small>last watched in November 2022</small>
+- Uncharted <small>last watched in October 2022</small>
+- The School for Good and Evil <small>last watched in October 2022</small>
+- Hocus Pocus 2 <small>last watched in October 2022</small>
+- Hocus Pocus <small>last watched in October 2022</small>
+- The Best Offer <small>last watched in October 2022</small>
+- Do Revenge <small>last watched in September 2022</small>
+- The House of Flowers Presents: The Funeral <small>last watched in August 2022</small>
+- Thor: Love and Thunder <small>last watched in August 2022</small>
+- Purple Hearts <small>last watched in July 2022</small>
+- Tall Girl 2 <small>last watched in July 2022</small>
+- Jojo Rabbit <small>last watched in July 2022</small>
+- Love & Gelato <small>last watched in June 2022</small>
+- Senior Year <small>last watched in May 2022</small>
+- Everything Everywhere All at Once <small>last watched in May 2022</small>
+- Downton Abbey: A New Era <small>last watched in May 2022</small>
+- Doctor Strange in the Multiverse of Madness <small>last watched in May 2022</small>
+- Escape Room: Tournament of Champions <small>last watched in May 2022</small>
+- Fantastic Beasts: The Secrets of Dumbledore <small>last watched in April 2022</small>
+- The Adam Project <small>last watched in April 2022</small>
+- Turning Red <small>last watched in March 2022</small>
+- Spider-Man: No Way Home <small>last watched in March 2022</small>
+- Bem Bom <small>last watched in March 2022</small>
+- Compartment No. 6 <small>last watched in February 2022</small>
+- Bigbug <small>last watched in February 2022</small>
+- The Matrix Resurrections <small>last watched in February 2022</small>
+- Brazen <small>last watched in January 2022</small>
+- Ice Age: Continental Drift <small>last watched in January 2022</small>
+- The Matrix Revolutions <small>last watched in January 2022</small>
+- The Matrix Reloaded <small>last watched in January 2022</small>
+- The Boys in the Band <small>last watched in January 2022</small>
+- Ice Age: Collision Course <small>last watched in January 2022</small>
+- Encanto <small>last watched in January 2022</small>
+- More the Merrier <small>last watched in January 2022</small>
+- Christmas Wedding Planner <small>last watched in January 2022</small>
+- A California Christmas: City Lights <small>last watched in January 2022</small>
+- A Christmas Prince: The Royal Baby <small>last watched in December 2021</small>
+- Ratatouille <small>last watched in December 2021</small>
+- A Christmas Prince: The Royal Wedding <small>last watched in December 2021</small>
+- A Christmas Prince <small>last watched in December 2021</small>
+- The Princess Switch 3: Romancing the Star <small>last watched in December 2021</small>
+- The Princess Switch: Switched Again <small>last watched in December 2021</small>
+- The Christmas Chronicles: Part Two <small>last watched in December 2021</small>
+- The Christmas Chronicles <small>last watched in December 2021</small>
+- David and the Elves <small>last watched in December 2021</small>
+- The Claus Family <small>last watched in December 2021</small>
+- The Princess Switch <small>last watched in December 2021</small>
+- Ferdinand <small>last watched in December 2021</small>
+- The Matrix <small>last watched in December 2021</small>
+- Love Hard <small>last watched in December 2021</small>
+- Raya and the Last Dragon <small>last watched in December 2021</small>
+- House of Gucci <small>last watched in December 2021</small>
+- Afterlife of the Party <small>last watched in December 2021</small>
+- A Boy Called Christmas <small>last watched in December 2021</small>
+- A Castle for Christmas <small>last watched in December 2021</small>
+- Single All the Way <small>last watched in December 2021</small>
+- In a Heartbeat <small>last watched in November 2021</small>
+- Hereditary <small>last watched in October 2021</small>
+- Confessions of an Invisible Girl <small>last watched in October 2021</small>
+- Him <small>last watched in September 2021</small>
+- Filip <small>last watched in September 2021</small>
+- Tyler <small>last watched in September 2021</small>
+- Teens Like Phil <small>last watched in September 2021</small>
+- Just Ask Him <small>last watched in September 2021</small>
+- He's All That <small>last watched in August 2021</small>
+- Sierra Burgess Is a Loser <small>last watched in August 2021</small>
+- To All the Boys: Always and Forever <small>last watched in August 2021</small>
+- To All the Boys: P.S. I Still Love You <small>last watched in August 2021</small>
+- To All the Boys I've Loved Before <small>last watched in August 2021</small>
+- The Kissing Booth 3 <small>last watched in August 2021</small>
+- The Kissing Booth 2 <small>last watched in August 2021</small>
+- The Kissing Booth <small>last watched in August 2021</small>
+- Luca <small>last watched in August 2021</small>
+- Resort to Love <small>last watched in August 2021</small>
+- Black Widow <small>last watched in July 2021</small>
+- Good on Paper <small>last watched in June 2021</small>
+- The House of Flowers: The Movie <small>last watched in June 2021</small>
+- Cryptopia: Bitcoin, Blockchains & the Future of the Internet <small>last watched in May 2021</small>
+- Until Porn Do Us Part <small>last watched in May 2021</small>
+- Moana <small>last watched in April 2021</small>
+- Love and Monsters <small>last watched in April 2021</small>
+- What Men Want <small>last watched in April 2021</small>
+- Thunder Force <small>last watched in April 2021</small>
+- Winx Club: The Secret of the Lost Kingdom <small>last watched in January 2021</small>
+- Soul <small>last watched in January 2021</small>
+- Death to 2020 <small>last watched in December 2020</small>
+- We Can Be Heroes <small>last watched in December 2020</small>
+- My Christmas Inn <small>last watched in December 2020</small>
+- Christmas Made to Order <small>last watched in December 2020</small>
+- Christmas Wonderland <small>last watched in December 2020</small>
+- Operation Christmas Drop <small>last watched in December 2020</small>
+- A Cinderella Story: Christmas Wish <small>last watched in December 2020</small>
+- A California Christmas <small>last watched in December 2020</small>
+- The Prom <small>last watched in December 2020</small>
+- Holidate <small>last watched in November 2020</small>
+- Brahms: The Boy II <small>last watched in September 2020</small>
+- The Social Dilemma <small>last watched in September 2020</small>
+- Coraline <small>last watched in September 2020</small>
+- Kill Bill: Vol. 2 <small>last watched in September 2020</small>
+- Kill Bill: Vol. 1 <small>last watched in September 2020</small>
+- Tenet <small>last watched in September 2020</small>
+- Hurricane Bianca: From Russia with Hate <small>last watched in August 2020</small>
+- Phineas and Ferb: The Movie: Candace Against the Universe <small>last watched in August 2020</small>
+- Code 8 <small>last watched in August 2020</small>
+- Malibu Rescue: The Next Wave <small>last watched in August 2020</small>
+- The Old Guard <small>last watched in August 2020</small>
+- Pitch Perfect 3 <small>last watched in July 2020</small>
+- The F**k-It List <small>last watched in July 2020</small>
+- Feel the Beat <small>last watched in June 2020</small>
+- Neighbors <small>last watched in June 2020</small>
+- Citizenfour <small>last watched in May 2020</small>
+- Terms and Conditions May Apply <small>last watched in May 2020</small>
+- The Blockchain and Us <small>last watched in May 2020</small>
+- Bitcoin: The End of Money as We Know It <small>last watched in May 2020</small>
+- The Internet's Own Boy: The Story of Aaron Swartz <small>last watched in May 2020</small>
+- Revolution OS <small>last watched in May 2020</small>
+- Unbroken Ground <small>last watched in May 2020</small>
+- Set It Up <small>last watched in April 2020</small>
+- Crazy, Stupid, Love. <small>last watched in April 2020</small>
+- The Hangover Part III <small>last watched in April 2020</small>
+- The Hangover Part II <small>last watched in April 2020</small>
+- Girls Trip <small>last watched in April 2020</small>
+- I Am Jonas <small>last watched in April 2020</small>
+- The Package <small>last watched in April 2020</small>
+- The Hangover <small>last watched in April 2020</small>
+- A Star Is Born <small>last watched in March 2020</small>
+- The Knight Before Christmas <small>last watched in March 2020</small>
+- Naked <small>last watched in March 2020</small>
+- Sextuplets <small>last watched in March 2020</small>
+- Frozen II <small>last watched in February 2020</small>
+- Bad Boys for Life <small>last watched in February 2020</small>
+- Airplane Mode <small>last watched in January 2020</small>
+- Murder Mystery <small>last watched in January 2020</small>
+- Let It Snow <small>last watched in January 2020</small>
+- Maleficent: Mistress of Evil <small>last watched in January 2020</small>
+- Richard Jewell <small>last watched in January 2020</small>
+- X-Men: The Last Stand <small>last watched in January 2020</small>
+- X2 <small>last watched in December 2019</small>
+- Jumanji: Welcome to the Jungle <small>last watched in December 2019</small>
+- Jumanji: The Next Level <small>last watched in December 2019</small>
+- Variações: Guardian Angel <small>last watched in December 2019</small>
+- Can You Keep a Secret? <small>last watched in December 2019</small>
+- Where'd You Go, Bernadette <small>last watched in November 2019</small>
+- The Dark Tower <small>last watched in November 2019</small>
+- Shazam! <small>last watched in November 2019</small>
+- Maleficent <small>last watched in November 2019</small>
+- Dark Phoenix <small>last watched in November 2019</small>
+- Swiped <small>last watched in September 2019</small>
+- Tall Girl <small>last watched in September 2019</small>
+- The Kid Who Would Be King <small>last watched in September 2019</small>
+- The Last Summer <small>last watched in September 2019</small>
+- Rocketman <small>last watched in August 2019</small>
+- Juanita <small>last watched in August 2019</small>
+- Wine Country <small>last watched in August 2019</small>
+- The Lion King <small>last watched in August 2019</small>
+- Spider-Man: Far From Home <small>last watched in July 2019</small>
+- Bohemian Rhapsody <small>last watched in June 2019</small>
+- Aladdin <small>last watched in June 2019</small>
+- The Secret Life of Pets 2 <small>last watched in June 2019</small>
+- 4th Man Out <small>last watched in June 2019</small>
+- Those People <small>last watched in May 2019</small>
+- The Secret Life of Pets <small>last watched in May 2019</small>
+- Pokémon Detective Pikachu <small>last watched in May 2019</small>
+- The Perfect Date <small>last watched in May 2019</small>
+- Avengers: Endgame <small>last watched in April 2019</small>
+- Glass <small>last watched in April 2019</small>
+- Aquaman <small>last watched in April 2019</small>
+- Captain Marvel <small>last watched in April 2019</small>
+- King Cobra <small>last watched in March 2019</small>
+- Second Act <small>last watched in March 2019</small>
+- Isn't It Romantic <small>last watched in February 2019</small>
+- Green Book <small>last watched in February 2019</small>
+- Boy Erased <small>last watched in January 2019</small>
+- Escape Room <small>last watched in January 2019</small>
+- John Wick: Chapter 2 <small>last watched in January 2019</small>
+- John Wick <small>last watched in January 2019</small>
+- The Rocky Horror Picture Show <small>last watched in January 2019</small>
+- Annihilation <small>last watched in January 2019</small>
+- Book Club <small>last watched in January 2019</small>
+- Alice Through the Looking Glass <small>last watched in January 2019</small>
+- The Founder <small>last watched in January 2019</small>
+- Jason Bourne <small>last watched in January 2019</small>
+- Bruce Almighty <small>last watched in January 2019</small>
+- Crazy Rich Asians <small>last watched in January 2019</small>
+- Fifty Shades Freed <small>last watched in December 2018</small>
+- The Shape of Water <small>last watched in December 2018</small>
+- Jupiter Ascending <small>last watched in December 2018</small>
+- Stargate <small>last watched in December 2018</small>
+- Nanny McPhee <small>last watched in December 2018</small>
+- The Fault in Our Stars <small>last watched in December 2018</small>
+- Bumblebee <small>last watched in December 2018</small>
+- Nothing to Hide <small>last watched in December 2018</small>
+- Upgrade <small>last watched in December 2018</small>
+- A Simple Favor <small>last watched in December 2018</small>
+- Night School <small>last watched in December 2018</small>
+- Fifty Shades of Black <small>last watched in December 2018</small>
+- Game Night <small>last watched in December 2018</small>
+- The Wild <small>last watched in December 2018</small>
+- Beverly Hills Chihuahua <small>last watched in December 2018</small>
+- Beverly Hills Chihuahua 2 <small>last watched in December 2018</small>
+- Beverly Hills Chihuahua 3: Viva la Fiesta! <small>last watched in December 2018</small>
+- Beach Rats <small>last watched in December 2018</small>
+- Brokeback Mountain <small>last watched in December 2018</small>
+- Percy Jackson & the Olympians: The Lightning Thief <small>last watched in December 2018</small>
+- The Polar Express <small>last watched in December 2018</small>
+- Percy Jackson: Sea of Monsters <small>last watched in December 2018</small>
+- American Pie <small>last watched in December 2018</small>
+- Deadpool <small>last watched in December 2018</small>
+- Home Alone 2: Lost in New York <small>last watched in December 2018</small>
+- The House with a Clock in Its Walls <small>last watched in December 2018</small>
+- A Wrinkle in Time <small>last watched in December 2018</small>
+- Searching <small>last watched in November 2018</small>
+- Ant-Man and the Wasp <small>last watched in November 2018</small>
+- Fantastic Beasts: The Crimes of Grindelwald <small>last watched in November 2018</small>
+- But I'm a Cheerleader <small>last watched in October 2018</small>
+- Alpha <small>last watched in September 2018</small>
+- The Kids Are All Right <small>last watched in September 2018</small>
+- Honey <small>last watched in August 2018</small>
+- Freeheld <small>last watched in August 2018</small>
+- Deadpool 2 <small>last watched in August 2018</small>
+- Spider-Man: Homecoming <small>last watched in August 2018</small>
+- Captain America: Civil War <small>last watched in August 2018</small>
+- Ant-Man <small>last watched in August 2018</small>
+- Captain America: The Winter Soldier <small>last watched in August 2018</small>
+- Iron Man 3 <small>last watched in August 2018</small>
+- Captain America: The First Avenger <small>last watched in August 2018</small>
+- Iron Man 2 <small>last watched in August 2018</small>
+- Iron Man <small>last watched in August 2018</small>
+- Avengers: Infinity War <small>last watched in August 2018</small>
+- Pride <small>last watched in August 2018</small>
+- G.B.F. <small>last watched in August 2018</small>
+- Guardians of the Galaxy Vol. 2 <small>last watched in July 2018</small>
+- Guardians of the Galaxy <small>last watched in July 2018</small>
+- Mamma Mia! Here We Go Again <small>last watched in July 2018</small>
+- Truth or Dare <small>last watched in July 2018</small>
+- It Follows <small>last watched in July 2018</small>
+- Suicide Squad <small>last watched in July 2018</small>
+- Baby Driver <small>last watched in July 2018</small>
+- Black Panther <small>last watched in July 2018</small>
+- The Girl on the Train <small>last watched in July 2018</small>
+- Ready Player One <small>last watched in July 2018</small>
+- Justice League <small>last watched in July 2018</small>
+- Wonder Woman <small>last watched in July 2018</small>
+- Tomb Raider <small>last watched in July 2018</small>
+- Life of the Party <small>last watched in July 2018</small>
+- Incredibles 2 <small>last watched in July 2018</small>
+- The Incredibles <small>last watched in July 2018</small>
+- Colossal <small>last watched in June 2018</small>
+- Weekend <small>last watched in June 2018</small>
+- Alex Strangelove <small>last watched in June 2018</small>
+- BPM (Beats per Minute) <small>last watched in June 2018</small>
+- Center of My World <small>last watched in June 2018</small>
+- Boys <small>last watched in June 2018</small>
+- God's Own Country <small>last watched in June 2018</small>
+- Handsome Devil <small>last watched in June 2018</small>
+- How to Talk to Girls at Parties <small>last watched in June 2018</small>
+- Moonlight <small>last watched in June 2018</small>
+- Call Me by Your Name <small>last watched in June 2018</small>
+- Pretty Boy <small>last watched in June 2018</small>
+- Love, Simon <small>last watched in June 2018</small>
+- Fahrenheit 451 <small>last watched in June 2018</small>
+- The Greatest Showman <small>last watched in March 2018</small>
+- Red Sparrow <small>last watched in March 2018</small>
+- Maze Runner: The Death Cure <small>last watched in January 2018</small>
+- Thor: Ragnarok <small>last watched in January 2018</small>
+- The Commuter <small>last watched in January 2018</small>
+- Blade Runner 2049 <small>last watched in December 2017</small>
+- Young Sherlock Holmes <small>last watched in December 2017</small>
+- The Foreigner <small>last watched in December 2017</small>
+- Dunkirk <small>last watched in December 2017</small>
+- Valerian and the City of a Thousand Planets <small>last watched in December 2017</small>
+- Loving Vincent <small>last watched in December 2017</small>
+- Kingsman: The Golden Circle <small>last watched in September 2017</small>
+- The Hitman's Bodyguard <small>last watched in August 2017</small>
+- The Mummy <small>last watched in August 2017</small>
+- The Lost City of Z <small>last watched in August 2017</small>
+- Dragonheart: Battle for the Heartfire <small>last watched in August 2017</small>
+- The Student <small>last watched in August 2017</small>
+- Frequency <small>last watched in August 2017</small>
+- King Arthur: Legend of the Sword <small>last watched in August 2017</small>
+- Hidden Figures <small>last watched in July 2017</small>
+- The Space Between Us <small>last watched in July 2017</small>
+- Fifty Shades Darker <small>last watched in July 2017</small>
+- Pitch Perfect 2 <small>last watched in June 2017</small>
+- The Danish Girl <small>last watched in June 2017</small>
+- Pitch Perfect <small>last watched in June 2017</small>
+- Before I Fall <small>last watched in June 2017</small>
+- Transformers: The Last Knight <small>last watched in June 2017</small>
+- Beauty and the Beast <small>last watched in June 2017</small>
+- Oblivion <small>last watched in April 2017</small>
+- Now You See Me 2 <small>last watched in April 2017</small>
+- Kingsman: The Secret Service <small>last watched in April 2017</small>
+- Now You See Me <small>last watched in April 2017</small>
+- Doctor Strange <small>last watched in April 2017</small>
+- Rogue One: A Star Wars Story <small>last watched in April 2017</small>
+- Ghost in the Shell <small>last watched in March 2017</small>
+- Power Rangers <small>last watched in March 2017</small>
+- Me Before You <small>last watched in March 2017</small>
+- Passengers <small>last watched in March 2017</small>
+- The Shack <small>last watched in March 2017</small>
+- Inferno <small>last watched in February 2017</small>
+- Inception <small>last watched in February 2017</small>
+- The Great Wall <small>last watched in February 2017</small>
+- Fantastic Beasts and Where to Find Them <small>last watched in November 2016</small>
+- Arrival <small>last watched in November 2016</small>
+- The Magnificent Seven <small>last watched in September 2016</small>
+- Snowden <small>last watched in September 2016</small>
+- Ted <small>last watched in July 2016</small>
+- Thor <small>last watched in July 2016</small>
+- Allegiant <small>last watched in July 2016</small>
+- Dirty Grandpa <small>last watched in July 2016</small>
+- Finding Dory <small>last watched in June 2016</small>
+- The Boy <small>last watched in May 2016</small>
+- The Martian <small>last watched in May 2016</small>
+- WALL·E <small>last watched in May 2016</small>
+- Jurassic World <small>last watched in May 2016</small>
+- The Hateful Eight <small>last watched in May 2016</small>
+- Paper Towns <small>last watched in March 2016</small>
+- The Maze Runner <small>last watched in March 2016</small>
+- Maze Runner: The Scorch Trials <small>last watched in March 2016</small>
+- Queen of the Desert <small>last watched in March 2016</small>
+- Avengers: Age of Ultron <small>last watched in March 2016</small>
+- The Last Witch Hunter <small>last watched in March 2016</small>
+- The Hunger Games: Mockingjay - Part 2 <small>last watched in March 2016</small>
+- In the Heart of the Sea <small>last watched in March 2016</small>
+- X+Y <small>last watched in October 2015</small>
+- Fifty Shades of Grey <small>last watched in August 2015</small>
+- Extremely Loud & Incredibly Close <small>last watched in August 2015</small>
+- Hall Pass <small>last watched in August 2015</small>
+- Easy A <small>last watched in July 2015</small>
+- Weird Science <small>last watched in July 2015</small>
+- EuroTrip <small>last watched in July 2015</small>
+- The Girl Next Door <small>last watched in July 2015</small>
+- American Pie Presents: The Book of Love <small>last watched in July 2015</small>
+- Sex Drive <small>last watched in July 2015</small>
+- Frequencies <small>last watched in July 2015</small>
+- Mamma Mia! <small>last watched in July 2015</small>
+- Sex Tape <small>last watched in July 2015</small>
+- The DUFF <small>last watched in July 2015</small>
+- Cinderella <small>last watched in July 2015</small>
+- Interstellar <small>last watched in July 2015</small>
+- Frozen <small>last watched in July 2015</small>
+- Insurgent <small>last watched in July 2015</small>
+- Ex Machina <small>last watched in July 2015</small>
+- Rio <small>last watched in July 2015</small>
+- Shrek 2 <small>last watched in July 2015</small>
+- Shrek the Third <small>last watched in July 2015</small>
+- Shrek Forever After <small>last watched in July 2015</small>
+- Shrek <small>last watched in July 2015</small>
+- Madagascar: Escape 2 Africa <small>last watched in July 2015</small>
+- Madagascar <small>last watched in July 2015</small>
+- Up <small>last watched in July 2015</small>
+- Cruel Intentions 3 <small>last watched in July 2015</small>
+- Cruel Intentions 2 <small>last watched in July 2015</small>
+- Cruel Intentions <small>last watched in July 2015</small>
+- Eragon <small>last watched in July 2015</small>
+- The Gilded Cage <small>last watched in July 2015</small>
+- The Giver <small>last watched in July 2015</small>
+- The Twilight Saga: Breaking Dawn - Part 1 <small>last watched in July 2015</small>
+- The Twilight Saga: Eclipse <small>last watched in July 2015</small>
+- The Twilight Saga: New Moon <small>last watched in July 2015</small>
+- Twilight <small>last watched in July 2015</small>
+- The Twilight Saga: Breaking Dawn - Part 2 <small>last watched in July 2015</small>
+- Transformers <small>last watched in July 2015</small>
+- Transformers: Revenge of the Fallen <small>last watched in July 2015</small>
+- Transformers: Age of Extinction <small>last watched in July 2015</small>
+- Transformers: Dark of the Moon <small>last watched in July 2015</small>
+- Thor: The Dark World <small>last watched in July 2015</small>
+- The Interview <small>last watched in July 2015</small>
+- The Hobbit: An Unexpected Journey <small>last watched in July 2015</small>
+- The Lord of the Rings: The Two Towers <small>last watched in July 2015</small>
+- The Lord of the Rings: The Return of the King <small>last watched in July 2015</small>
+- The Lord of the Rings: The Fellowship of the Ring <small>last watched in July 2015</small>
+- The Hobbit: The Desolation of Smaug <small>last watched in July 2015</small>
+- The Theory of Everything <small>last watched in July 2015</small>
+- The Hobbit: The Battle of the Five Armies <small>last watched in July 2015</small>
+- Divergent <small>last watched in July 2015</small>
+- Harry Potter and the Chamber of Secrets <small>last watched in July 2015</small>
+- Harry Potter and the Order of the Phoenix <small>last watched in July 2015</small>
+- Harry Potter and the Half-Blood Prince <small>last watched in July 2015</small>
+- Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
+- Harry Potter and the Goblet of Fire <small>last watched in July 2015</small>
+- Harry Potter and the Deathly Hallows: Part 1 <small>last watched in July 2015</small>
+- Harry Potter and the Deathly Hallows: Part 2 <small>last watched in July 2015</small>
+- The Hunger Games <small>last watched in July 2015</small>
+- The Hunger Games: Mockingjay - Part 1 <small>last watched in July 2015</small>
+- Harry Potter and the Prisoner of Azkaban <small>last watched in July 2015</small>
+- The Hunger Games: Catching Fire <small>last watched in July 2015</small>
+- Project Almanac <small>last watched in July 2015</small>
+- Furious 7 <small>last watched in April 2015</small>
+- Frida <small>last watched in April 2014</small>
+- The Wolf of Wall Street <small>last watched in December 2013</small>
+- Gravity <small>last watched in October 2013</small>
+- City of Angels <small>last watched in November 2012</small>
+- The Perks of Being a Wallflower <small>last watched in September 2012</small>
+- The Amazing Spider-Man <small>last watched in July 2012</small>
+- Snow White and the Huntsman <small>last watched in June 2012</small>
+- The Avengers <small>last watched in May 2012</small>
+- Ghost Rider: Spirit of Vengeance <small>last watched in December 2011</small>
+- The Chronicles of Narnia: The Voyage of the Dawn Treader <small>last watched in December 2010</small>
+- Home Alone <small>last watched in December 2010</small>
+- Avalon High <small>last watched in November 2010</small>
+- The Social Network <small>last watched in October 2010</small>
+- Despicable Me <small>last watched in July 2010</small>
+- The Last Airbender <small>last watched in July 2010</small>
+- The Karate Kid <small>last watched in June 2010</small>
+- Robin Hood <small>last watched in May 2010</small>
+- Avatar <small>last watched in December 2009</small>
+- Santa Buddies <small>last watched in November 2009</small>
+- District 9 <small>last watched in August 2009</small>
+- The Karate Kid <small>last watched in January 2009</small>
+- Mickey Mouse Clubhouse: Mickey's Big Splash <small>last watched in January 2009</small>
+- Delgo <small>last watched in December 2008</small>
+- Tarzan <small>last watched in October 2008</small>
+- The Incredible Hulk <small>last watched in June 2008</small>
+- The Chronicles of Narnia: Prince Caspian <small>last watched in May 2008</small>
+- Pocahontas <small>last watched in January 2008</small>
+- The Lion King <small>last watched in January 2008</small>
+- The Secret of NIMH <small>last watched in January 2008</small>
+- Shrek the Halls <small>last watched in November 2007</small>
+- Surf's Up <small>last watched in June 2007</small>
+- The Lion King II: Simba's Pride <small>last watched in May 2007</small>
+- Ghost Rider <small>last watched in February 2007</small>
+- Winter Wonderland <small>last watched in December 2006</small>
+- Mickey's Once Upon a Christmas <small>last watched in December 2006</small>
+- Monster House <small>last watched in July 2006</small>
+- Alice in Wonderland <small>last watched in June 2006</small>
+- Over the Hedge <small>last watched in May 2006</small>
+- Asterix and the Vikings <small>last watched in April 2006</small>
+- The Fox and the Hound <small>last watched in January 2006</small>
+- The Chronicles of Narnia: The Lion, the Witch and the Wardrobe <small>last watched in December 2005</small>
+- Pooh's Heffalump Movie <small>last watched in February 2005</small>
+- I, Robot <small>last watched in July 2004</small>
+- Home on the Range <small>last watched in April 2004</small>
+- The Land Before Time X: The Great Longneck Migration <small>last watched in December 2003</small>
+- Pirates of the Caribbean: The Curse of the Black Pearl <small>last watched in July 2003</small>
+- Finding Nemo <small>last watched in May 2003</small>
+- Spider-Man <small>last watched in May 2002</small>
+- Winnie the Pooh: A Very Merry Pooh Year <small>last watched in January 2002</small>
+- The Others <small>last watched in August 2001</small>
+- Gladiator <small>last watched in May 2000</small>
+
+</div>
+<!--/WATCHES-->

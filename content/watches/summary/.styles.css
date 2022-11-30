@@ -1,0 +1,21 @@
+.box {
+  max-height: 50vh;
+  padding: var(--hms);
+  overflow: auto;
+}
+
+:root {
+  --accent: #c0749d;
+}
+
+@media screen and (min-width: 52rem) {
+  body {
+    background: #48084f url(/watches/pattern.jpeg);
+    background-size: 300px;
+    background-attachment: fixed;
+  }
+
+  #navbar {
+    border-radius: 0;
+  }
+}
