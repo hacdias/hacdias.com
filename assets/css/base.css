@@ -673,7 +673,8 @@ figure.album img {
   }
 
   #navbar {
-    border-radius: 0;
+    margin-left: 0;
+    width: 100%;
   }
 
   #navbar a,
