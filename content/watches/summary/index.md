@@ -10,7 +10,7 @@ noSendInteractions: true
 <style>
 figure.fig-popcorn {
   max-width: 130px;
-  margin-top: 0
+  margin: 0;
 }
 </style>
 
