@@ -37,10 +37,6 @@ Over the past months, I have been reading more and more posts where people are [
   --accent: #7261a1;
 }
 
-.container {
-  background: var(--background);
-}
-
 .netscape,
 .iexplore {
   width: 100%;

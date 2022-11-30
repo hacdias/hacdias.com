@@ -14,10 +14,6 @@
   }
 }
 
-.container {
-  background: var(--background);
-}
-
 .snowflakes {
   background: radial-gradient(#4b7bec, #3867d6);
   height: 25rem;

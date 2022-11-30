@@ -11,7 +11,3 @@ body {
 #navbar {
   border-radius: 0;
 }
-
-.container {
-  background: var(--background);
-}
