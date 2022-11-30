@@ -7,7 +7,7 @@ description: Bookmarks of links I've enjoyed or want to keep for future referenc
 
 <div class="box">
 
-📌 For a curated list of links I have collected over the years, please check the [links](/links) page.
+📌 Check the [links](/links) for a curated list of links I have collected over the years.
 
 </div>
 
