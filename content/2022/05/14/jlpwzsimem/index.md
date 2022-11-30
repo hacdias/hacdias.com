@@ -11,6 +11,7 @@ properties:
   rating: 5
   watch-of:
     properties:
+      is: concert
       author: MARINA
       name: Ancient Dreams in a Modern Land Tour
       url: https://en.wikipedia.org/wiki/Ancient_Dreams_in_a_Modern_Land_Tour

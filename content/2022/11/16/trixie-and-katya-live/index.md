@@ -11,6 +11,7 @@ properties:
   rating: 4
   watch-of:
     properties:
+      is: drag
       name: Trixie & Katya Live
     type: h-cite
 taxonomies:

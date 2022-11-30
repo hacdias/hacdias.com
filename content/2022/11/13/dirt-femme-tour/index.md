@@ -11,6 +11,7 @@ properties:
   rating: 5
   watch-of:
     properties:
+      is: concert
       author: Tove Lo
       name: Dirt Femme Tour
       type: h-cite

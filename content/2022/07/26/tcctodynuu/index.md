@@ -11,6 +11,7 @@ properties:
   rating: 5
   watch-of:
     properties:
+      is: concert
       author: Lady Gaga
       name: The Chromatica Ball
     type: h-cite

@@ -11,6 +11,7 @@ properties:
   rating: 5
   watch-of:
     properties:
+      is: drag
       author: Bianca del Rio
       name: Unsanitized
     type: h-cite

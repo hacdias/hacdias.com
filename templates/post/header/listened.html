@@ -1,27 +1,30 @@
 {{ define "post/header/listened" }}
   {{ $mm := .Helper }}
 
-  {{ if eq ($mm.String $mm.TypeProperty) "summary" }}
-    <div class="ibox p-summary">
-      🎧 Listened to <strong>{{ $mm.Int "tracks-count" }}</strong> Tracks From
-      <strong>{{ $mm.Int "artists-count" }}</strong> Artists
-      Across <strong>{{ $mm.Int "albums-count" }}</strong> Albums
-    </div>
-  {{ end }}
-
   {{ with $mm.Sub $mm.TypeProperty }}
     <div class=ibox>
-      🎵 Listened to
+      {{ $is := .String "is" }}
+      {{ $emoji := .String "emoji" }}
+      {{ if $emoji -}}
+        {{ $emoji }}
+      {{- else if eq $is "album" -}}
+        💿
+      {{- else if eq $is "podcast" -}}
+        🎙️
+      {{- else -}}
+        🎵
+      {{- end }}
 
+      Listened to
       <span class="u-listen-of h-cite">
         {{ with .String "url" }}<a rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
           <strong><span class="p-name">{{ .Name }}</span></strong>
         {{ with .String "url" }}</a>{{ end }}
 
-        {{ with .Sub "author" }}
+        {{ with .String "author" }}
           by
           <span class="u-author h-card">
-            <strong><span class="p-name">{{ .Name }}</span></strong>
+            <strong><span class="p-name">{{ . }}</span></strong>
           </span>
         {{ end }}
       </span>

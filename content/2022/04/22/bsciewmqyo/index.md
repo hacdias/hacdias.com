@@ -11,6 +11,7 @@ properties:
   rating: 5
   watch-of:
     properties:
+      is: theatre
       name: Mary Poppins
       url: https://www.delfontmackintosh.co.uk/whats-on/mary-poppins
     type: h-cite

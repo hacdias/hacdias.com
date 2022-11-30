@@ -1,47 +1,35 @@
 {{ define "post/header/watched" }}
   {{ $mm := .Helper }}
-  {{ $sub := $mm.Sub $mm.TypeProperty }}
-  {{ $series := $sub.Sub "episode-of" }}
 
-  <div class=ibox>
-    {{ if $series }}
-      📺 Watched
-      {{ $episode := $sub.Properties.episode }}
-      {{ $season := $sub.Properties.season }}
-
-      <span class="u-watch-of h-cite">
-        {{ with $sub.String "url" }}<a rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
-          <strong><span class="p-name">{{ $sub.Name }}</span></strong>
-          (
-            {{- with $series.Name }}<span class="u-episode-of h-cite"><span class="p-name">{{ . }}</span></span>{{ end }}
-            {{ with $season }} S<span class="p-season">{{.}}</span>{{ end -}}
-            {{ with $episode }}E<span class="p-episode">{{.}}</span>{{ end -}}
-          )
-        {{ with $sub.String "url" }}</a>{{ end }}
-      </span>
-    {{ else }}
-      {{ $tags := $.Taxonomy "tags" }}
-      {{ if containsString $tags "concert" -}}
-        🧑‍🎤
-      {{- else if or (containsString $tags "theatre") (containsString $tags "comedy") -}}
-        🎭 
+  {{ with $mm.Sub $mm.TypeProperty }}
+    <div class=ibox>
+      {{ $is := .String "is" }}
+      {{ $emoji := .String "emoji" }}
+      {{ if $emoji -}}
+        {{ $emoji }}
+      {{- else if eq $is "concert" -}}
+        🎤
+      {{- else if eq $is "theatre" -}}
+        🎭
+      {{- else if eq $is "drag" -}}
+        👑
       {{- else -}}
         🎬
       {{- end }}
       
       Watched
       <span class="u-watch-of h-cite">
-        {{ with $sub.String "url" }}<a rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
-          <strong><span class="p-name">{{ $sub.Name }}</span></strong>
-        {{ with $sub.String "url" }}</a>{{ end }}
+        {{ with .String "url" }}<a rel="noopener noreferrer" href="{{ . }}" class="u-url">{{ end }}
+          <strong><span class="p-name">{{ .Name }}</span></strong>
+        {{ with .String "url" }}</a>{{ end }}
 
-        {{ with $sub.String "author" }}
+        {{ with .String "author" }}
           by
           <span class="u-author h-card">
             <strong><span class="p-name">{{ . }}</span></strong>
           </span>
         {{ end }}
       </span>
-    {{ end }}
-  </div>
+    </div>
+  {{ end }}
 {{ end }}

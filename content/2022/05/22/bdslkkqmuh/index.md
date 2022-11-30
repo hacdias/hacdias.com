@@ -11,6 +11,7 @@ properties:
   rating: 4
   watch-of:
     properties:
+      is: concert
       name: MØ
     type: h-cite
 taxonomies:

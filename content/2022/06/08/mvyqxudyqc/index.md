@@ -11,6 +11,7 @@ properties:
   rating: 5
   watch-of:
     properties:
+      is: concert
       author: Lorde
       name: The Solar Power Tour
     type: h-cite
