@@ -3,6 +3,7 @@ description: 'Just watched: MØ'
 published: 2022-05-22T20:00:07.04259847+02:00
 section:
 - micro
+- home
 createdWith: https://hacdias.com/
 properties:
   location: /2022/05/22/wjmdrdifrj
