@@ -2,7 +2,7 @@
 description: 'Just watched: The Chromatica Ball by Lady Gaga'
 published: 2022-07-26T23:33:07.04259847+02:00
 section:
-- micro
+- watches
 - home
 createdWith: https://hacdias.com/
 properties:

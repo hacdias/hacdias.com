@@ -2,7 +2,7 @@
 description: 'Just watched: The Solar Power Tour by Lorde'
 published: 2022-06-08T22:51:07.04259847+02:00
 section:
-- micro
+- watches
 - home
 createdWith: https://hacdias.com/
 properties:
