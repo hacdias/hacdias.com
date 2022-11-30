@@ -17,6 +17,7 @@ properties:
 taxonomies:
   tags:
   - theatre
+  - live-performance
 ---
 
 This was my first theatre in a _long_ while. I think the last time I watched a theatre I was in primary school. I also had no memory of watching Mary Poppins so we decided to go watch the musical since we were in London. It was... amazing! I wish I could watch musicals more often!

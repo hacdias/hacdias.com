@@ -15,6 +15,7 @@ properties:
 taxonomies:
   tags:
   - concert
+  - live-performance
 ---
 
 It. Was. Incredible.

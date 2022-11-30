@@ -14,6 +14,7 @@ properties:
 taxonomies:
   tags:
   - comedy
+  - live-performance
 ---
 
 Eye-conic.

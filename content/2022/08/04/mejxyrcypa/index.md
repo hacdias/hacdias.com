@@ -15,6 +15,7 @@ properties:
 taxonomies:
   tags:
   - comedy
+  - live-performance
 ---
 
 _It was a journey._

@@ -15,6 +15,7 @@ properties:
 taxonomies:
   tags:
   - concert
+  - live-performance
 ---
 
 This was my third concert in 2 months. It’s funny because I don’t think I can say I’ve been to an actual concert before last month… ever. Lorde was phenomenal. Vocals were very good and she sung quite some older songs. And the staging… uff.
