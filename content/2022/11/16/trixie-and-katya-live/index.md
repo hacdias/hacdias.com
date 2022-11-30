@@ -7,6 +7,7 @@ createdWith: https://hacdias.com/
 properties:
   location: /2022/11/16/19h34m03s00
   photo: cdn:/c4b8737210b3fe76fe229b3f90aa17020e818048e8a0d87b7e704def341fe9ea
+  rating: 4
   watch-of:
     properties:
       name: Trixie & Katya Live
@@ -17,4 +18,4 @@ taxonomies:
   - live-performance
 ---
 
-Eye-conic.
+Eye-conic. Lots of fun, quite unexpected and incomprehensible. A bit more scripted than I wish. Nevertheless, it was very very good.

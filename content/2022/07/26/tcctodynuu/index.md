@@ -7,6 +7,7 @@ createdWith: https://hacdias.com/
 properties:
   location: /2022/07/26/rgnsldbaxr
   photo: cdn:/94bf9bbe15e94d7864a37a65ac4f4f1632bf9d041ecb10e7f905e32315d8123e
+  rating: 5
   watch-of:
     properties:
       author: Lady Gaga
