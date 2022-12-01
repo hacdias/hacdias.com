@@ -1,5 +1,61 @@
 [
   {
+    "id": 8695564564,
+    "watched_at": "2022-12-01T21:36:41Z",
+    "action": "watch",
+    "type": "movie",
+    "movie": {
+      "title": "Making 1899",
+      "year": 2022,
+      "ids": {
+        "trakt": 844769,
+        "imdb": "tt23830102",
+        "tmdb": 1049702,
+        "slug": "making-1899-2022"
+      },
+      "runtime": 52,
+      "country": "de",
+      "genres": [
+        "documentary"
+      ]
+    }
+  },
+  {
+    "id": 8695422740,
+    "watched_at": "2022-12-01T20:08:00Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "The Key",
+      "season": 1,
+      "number": 8,
+      "ids": {
+        "trakt": 6648582,
+        "imdb": "tt14572510",
+        "tmdb": 3915217,
+        "tvdb": 9348593
+      }
+    },
+    "show": {
+      "title": "1899",
+      "year": 2022,
+      "ids": {
+        "trakt": 163643,
+        "imdb": "tt9319668",
+        "tmdb": 90669,
+        "slug": "1899",
+        "tvdb": 384429
+      },
+      "runtime": 50,
+      "country": "de",
+      "genres": [
+        "mystery",
+        "drama",
+        "horror"
+      ]
+    }
+  },
+  {
     "id": 8693925252,
     "watched_at": "2022-11-30T20:46:06Z",
     "action": "watch",
@@ -6600,6 +6656,38 @@
       "country": "pt",
       "genres": [
         "comedy"
+      ]
+    }
+  },
+  {
+    "id": 8694935874,
+    "watched_at": "2022-08-10T22:00:00Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Episode 4",
+      "season": 8,
+      "number": 4,
+      "ids": {
+        "trakt": 6586075,
+        "imdb": "",
+        "tmdb": 3871058
+      }
+    },
+    "show": {
+      "title": "Heathrow: Britain's Busiest Airport",
+      "year": 2015,
+      "ids": {
+        "trakt": 99384,
+        "imdb": "tt6169802",
+        "tmdb": 68864,
+        "slug": "heathrow-britain-s-busiest-airport",
+        "tvdb": 296175
+      },
+      "runtime": 25,
+      "country": "gb",
+      "genres": [
+        "documentary"
       ]
     }
   },
