@@ -1,7 +1,7 @@
 {{ define "post/header/bookmark" }}
   {{ $mf2 := .Helper }}
 
-  <div class=ibox>
+  <div class='box ctx'>
     🔖  
     <strong>
       <a class="u-bookmark-of h-cite" href="{{ $mf2.String $mf2.TypeProperty }}">{{- .Title -}}</a>

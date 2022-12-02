@@ -2,7 +2,7 @@
   {{ $mm := .Helper }}
 
   {{ with $mm.Sub $mm.TypeProperty }}
-    <div class=ibox>
+    <div class='box ctx'>
       {{ $is := .String "is" }}
       {{ $emoji := .String "emoji" }}
       {{ if $emoji -}}

@@ -1,7 +1,7 @@
 {{ define "post/header/ate" }}
   {{ $mm := .Helper }}
   {{ $sub := $mm.Sub $mm.TypeProperty }}
-  <div class=ibox>
+  <div class='box ctx'>
     🍴 Ate <strong><span class="p-name">{{ $sub.Name }}</span></strong>
   </div>
 {{ end }}

@@ -17,7 +17,7 @@
     {{ end }}
 
     {{ if or .IsAdmin (lt .Data.Code 500) }}
-      {{ with .Data.Error}}<p class="ibox">Error: {{ . }}</p>{{ end }}
+      {{ with .Data.Error}}<p class="box">Error: {{ . }}</p>{{ end }}
     {{ end }}
   </main>
 {{ end }}

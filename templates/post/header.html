@@ -3,7 +3,7 @@
   {{ $audience := .Audience }}
 
   {{ if or .Draft .Deleted $audience (eq $visibility "private") }}
-  <div class="ibox skinny attrs">
+  <div class="box attrs">
     {{ if .Draft }}<span>✏️ Draft</span>{{ end }}
     {{ if .Deleted }}<span>🗑 Deleted</span>{{ end }}
     

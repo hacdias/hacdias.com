@@ -27,7 +27,7 @@
 
   /* Others */
   --max-width: 52rem;
-  --border: 2px;
+  --border: 1px;
   --radius: 0.4rem;
 }
 
@@ -451,51 +451,6 @@ details summary {
   line-height: 1.5;
 }
 
-.ibox .copy p {
-  margin: 0;
-}
-
-.ibox > p {
-  margin: 0 0 .25rem 0;
-}
-
-.ibox {
-  display: block;
-  background-color: var(--near-white);
-  padding: var(--ms);
-  margin: 0;
-  position: relative;
-  border-radius: var(--radius);
-  border: 0;
-}
-
-.ibox.skinny {
-  padding: var(--hms) var(--ms);
-  background: var(--light-white);
-  font-size: var(--f6);
-}
-
-.ibox.attrs > span:not(:last-child)::after {
-  content: ' •';
-}
-
-.ibox .type {
-  position: absolute;
-  background: var(--white);
-  border: var(--border) solid var(--near-white);
-  font-size: var(--f6);
-  text-align: center;
-  width: 1.5rem;
-  height: 1.5rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-  top: calc(-1 * var(--border));
-  right: calc(-1 * var(--border));
-  border-bottom-left-radius: 50%;
-}
-
 .tag {
   background-color: var(--near-white);
   color: var(--gray);
@@ -557,6 +512,14 @@ figure.album img {
 
 .box > *:last-child {
   margin-bottom: 0;
+}
+
+.box.attrs {
+  font-size: var(--f6);
+}
+
+.box.attrs > span:not(:last-child)::after {
+  content: ' •';
 }
 
 .terms ul {

@@ -6,13 +6,41 @@
   border: var(--border) solid var(--light-white);
 }
 
-.card .ibox {
+.card > .box {
+  margin: 0;
   border-radius: 0;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
 }
 
-.card .ibox + .fw,
-.card .ibox + .fw figure,
-.card .ibox + figure,
+.card > .box .type {
+  position: absolute;
+  background: var(--white);
+  border: var(--border)solid var(--light-white);
+  font-size: var(--f6);
+  width: 1.5rem;
+  height: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  top: calc(-1 * var(--border));
+  right: calc(-1 * var(--border));
+  border-bottom-left-radius: 50%;
+}
+
+.card > .box.ctx {
+  padding: var(--ms);
+}
+
+.card > .box > p {
+  margin: 0 0 .25rem 0;
+}
+
+.card > .box.ctx + .fw,
+.card > .box.ctx + .fw figure,
+.card > .box.ctx + figure,
 .card > div:first-of-type,
 .card > div:first-of-type figure {
   margin-top: 0;
@@ -44,7 +72,11 @@
 }
 
 .card .more {
+  display: block;
+  padding: var(--hms)var(--ms);
+  font-size: var(--f6);
   text-align: center;
   font-weight: 700;
   clear: both;
+  border-top: 1px solid var(--light-white);
 }

@@ -4,7 +4,7 @@
   {{ $url := $mf2.String "in-reply-to" }}
   {{ $rsvp := $mf2.String $mf2.TypeProperty }}
   
-  <div class=ibox>
+  <div class='box ctx'>
     {{ if eq $rsvp "interested" }}
       ⭐️ Interested in
     {{ else if eq $rsvp "yes" }}

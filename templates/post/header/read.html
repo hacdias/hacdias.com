@@ -3,7 +3,7 @@
   {{ $canonical := $mf2.String $mf2.TypeProperty }}
   {{ $read := $mf2.Sub $mf2.TypeProperty }}
 
-  <div class="ibox p-read-of h-cite">
+  <div class="box ctx p-read-of h-cite">
     <p>
       {{ with index .Properties "read-status" }}
         {{ with (index . 0) }}
