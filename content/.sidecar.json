@@ -14,13 +14,174 @@
   "replies": [
     {
       "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/5c33bdec0e4a8e1c9346adaca8dab10ff901dcb2e155fd64e919703d2ab0ed30.jpg",
+        "url": "https://geekcompass.com/users/jan"
+      },
+      "published": "2022-12-02T11:38:28Z",
+      "content": "@hacdias Ah. I just gave it a quick try in Firefox’s DevTools. It worked in that the gutter is there, but backgrounds, borders, etc. then no longer extend all the way to the edge of the window, at least not when used on `html`.",
+      "url": "https://geekcompass.com/@jan/109443881952247780",
+      "type": "reply",
+      "id": "https://geekcompass.com/users/jan/statuses/109443881952247780"
+    },
+    {
+      "author": {
+        "name": "Aaron Toponce ⚛️:debian:",
+        "photo": "https://cdn.hacdias.com/wm/ee847b67c288ad929ffa6dcecfbe81a346be1dddf9b4b964527be3655d4f62c2.jpg",
+        "url": "https://fosstodon.org/users/atoponce"
+      },
+      "published": "2022-11-28T13:11:52Z",
+      "content": "@hacdias Further:\u0026#34;Someone could, theoretically, deliberately create a file which looks unremarkable when viewed, but is illegal when hashed.\u0026#34;That\u0026#39;s a pre-image attack: you have a hash and find input that hashes to it. MD5 and SHA-1 are also both secure against preimage attacks.",
+      "url": "https://fosstodon.org/@atoponce/109421599917048965",
+      "id": "https://fosstodon.org/users/atoponce/statuses/109421599917048965"
+    },
+    {
+      "author": {
+        "name": "Aaron Toponce ⚛️:debian:",
+        "photo": "https://cdn.hacdias.com/wm/ee847b67c288ad929ffa6dcecfbe81a346be1dddf9b4b964527be3655d4f62c2.jpg",
+        "url": "https://fosstodon.org/users/atoponce"
+      },
+      "published": "2022-11-28T13:10:52Z",
+      "content": "@hacdias \u0026#34;Because MD5 is a relatively weak algorithm, it is possible to create deliberate hash \u0026#34;collisions\u0026#34;. That is, take some data and manipulate it until it has the same MD5 as a different piece of data.\u0026#34;This is confusing collision attacks and second preimage attacks.MD5 and SHA-1 are broken in collisions. IE, two inputs collide to an *unknown* output.Both are secure against second preimages. IE, you have an input w/ hash and look for another input it collides with.",
+      "url": "https://fosstodon.org/@atoponce/109421595983554903",
+      "type": "reply",
+      "id": "https://fosstodon.org/users/atoponce/statuses/109421595983554903"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/6d04d58fb0ac2d5d84c05bbe59489507b0f28f1d69ebf4ea3e625ef2cdb7b6eb.jpg",
+        "url": "https://fosstodon.org/users/hacdias"
+      },
+      "published": "2022-11-26T18:49:25Z",
+      "content": "Hi! I\u0026#39;m Henrique! I\u0026#39;m a Portuguese 🇵🇹 guy living in The Netherlands 🇳🇱. I recently graduated 🎓 from my master’s degree and now work as a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users.I am trying to implement ActivityPub at my website. If you decide to follow me here, please also follow @hacdias@hacdias.com 😄 My goal is to make it my main account once I\u0026#39;m able to follow others from it!#introduction",
+      "url": "https://fosstodon.org/@hacdias/109411600889970337",
+      "id": "https://fosstodon.org/users/hacdias/statuses/109411600889970337"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "photo": "https://cdn.hacdias.com/wm/5c33bdec0e4a8e1c9346adaca8dab10ff901dcb2e155fd64e919703d2ab0ed30.jpg",
+        "url": "https://geekcompass.com/users/jan"
+      },
+      "published": "2022-11-24T18:12:21Z",
+      "content": "@darius Yes, and I’d absolutely read something similar by, e.g., @jle or @hacdias! 🤪Accepting followers and sending out Create activities for simple Notes is about as far as I got when I last gave ActivityPub a try. Would love to see semi-simple examples of Update and Delete activities, processing requests to shared inboxes, what an outbox should look like, how Mastodon treats Notes vs. Articles, and so on",
+      "url": "https://geekcompass.com/@jan/109400132232103096",
+      "id": "https://geekcompass.com/users/jan/statuses/109400132232103096"
+    },
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/70e8fb1225ff3cd8880026c391ed227281103b2e13e02cf2d9aab47fb2e35e33.jpg",
+        "url": "https://fosstodon.org/users/jle"
+      },
+      "published": "2022-11-22T17:22:11Z",
+      "content": "@wouter @hacdias After taking a second look and trying to play a bit with the go-ap libraries, I think they are better than I first thought. I think I will rewrite my logic with it.",
+      "url": "https://fosstodon.org/@jle/109388610403714844",
+      "id": "https://fosstodon.org/users/jle/statuses/109388610403714844"
+    },
+    {
+      "author": {},
+      "published": "2022-10-08T10:39:39Z",
+      "url": "https://domain.glass/hacdias.com?utm_source=pingback",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
+        "url": "https://hacdias.com/"
+      },
+      "published": "2022-08-21T11:59:16+02:00",
+      "content": "This is a list of the domains I currently own:hacdias.com henriquedias.com hacdia.sh h4c.pt nata.cafe",
+      "url": "https://hacdias.com/domains",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Barry Frost",
+        "photo": "https://cdn.hacdias.com/wm/383c80e7bedec43f1d730c5b2b7e115f3ddea7f0c1446393b8dd35eec4f0b2f5.jpg",
+        "url": "https://barryfrost.com/"
+      },
+      "published": "2022-03-13T21:09:54Z",
+      "content": "Hybrid working has begun at work. Three days at home; two days in the office. In our engineering team we’re coordinating on Wednesdays and Thursdays as our office days, helped by a company lunch and drinks to lure in staff. It’s nice to see people in the flesh, although I haven’t missed hunting for an empty meeting room. I haven’t missed commuting either. Delays, cancellations and rain. I’d almost forgotten! This time, after the latest Apple event, I avoided ordering anything. Even though the Studio Display is perfect: 5K screen and built-in webcam, mic and speakers. My 4K Dell display, Logitech webcam and laptop mic/speakers are all fine I guess. On Saturday we met old friends for lunch at The Wellington and then playtime back at ours for the children. It’s not been easy to host people for the last two years (for obvious reasons), so it was nice. I pushed a new release of Micropublish with a contribution from Henrique to support photo uploads. I’ve struggled to find time to review PRs lately, but it’s genuinely exciting having others work on a project I started because they find it useful. We popped over the road this afternoon with the boys to play park football with other children from their school. I joined dads and mums to help the year 1s against the year 3s. I was really impressed with H’s defending and running against bigger boys. However, Daddy managed to make one boy cry with a clearance that hit his hand. Oops.",
+      "url": "https://barryfrost.com/2022/03/week-29-park",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://webmention.io/avatar/hacdias.com/664891eacca0e5248f8e6c7b5849da5c82f3a7d58fe9693e730338d01513b117.jpg",
+        "url": "https://hacdias.com"
+      },
+      "published": "2021-09-23T13:41:05Z",
+      "content": "A Uniform Resource Identifiers (URI) is a string of characters that identifies unambiguously a resource. It is a standard in the WWW world.The syntax:uri = scheme:[//authority]path[?query][#fragment]` authority = [[email protected]]host[:port] Examples:urn:isbn:0-486-27557-4 https://hacdias.com mailto:[email protected] URLA Uniform Resource Location (URL) is an URI type used to identify a resource on the Internet. It provides theURNA Uniform Resource Name (URN) is an URI type that identifies a given resource by name on a given namespace. For example, a book’s isbn.",
+      "url": "https://hacdias.com/notes/uri/",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/df280a6a00d9d8e4cd4e0e1647c477f51854f80b3337007e5d9ecb049d0f304d.jpg",
+        "url": "https://hacdias.com/"
+      },
+      "published": "2021-08-19T19:02:52Z",
+      "content": "Henrique Dias 📍 Eindhoven, Netherlands — mail@hacdias.com hacdias.com github.com/hacdias linkedin.com/in/hacdias I am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing user-friendly services.Education MSc Computer Science and Engineering, Eindhoven University of Technology [2020 - present]Current GPA of 8 out of 10, expected to graduate in 2022. Member of Student Film \u0026 Photography Association Dekate Mousa. Working as a Master’s Student Mentor. BSc Information Systems and Computer Engineering, Instituto Superior Técnico [2017 - 2020]Graduated with GPA of 16 out of 20. Volunteered as Student Mentor for 2 years. Awarded an Academic Merit Award in 1 year. Experience Protocol Labs — Software Engineer [2017 - present] Protocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.Developed Testground: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects. Lead maintainer of IPFS Desktop: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month. Revamped and shipped IPFS Web UI: a React-based web application used as a front-end for IPFS. Designed and built Awesome IPFS: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS. Upframe — Lead Software Developer [2016 - 2018] Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs. Built a REST API for managing email transactions, newsletters and enrollments in the program. Built a Slack bot to manage enrollments to the program, in Go. Built a backend which allowed to see who was at the office, to send emails and to manage newsletters. In the news: Eco, Startup Lisboa, Observador \u0026 Dinheiro Vivo. Pplware — Content Writer [2013 - 2016] Pplware is a the largest Portuguese technology website with over 100 000 daily visitors.Wrote over 400 tutorials, tech news and other articles on both Pplware and Pplware Kids. Published a 60 page e-book on how to program in C for beginners when I was 15 years old. ProjectsPersonal Website [2014 - present] [code] Running my personal website since 2014, allowing me to experiment with different technologies. Nowadays, it is composed by a mix of a static generator, plus a custom backend built in Go. Custom backend supports post management, full-text search, interaction with a few services' APIs, among other features. Read more about how it works. The blog contains both technical and non-technical articles and receives over 5 000 unique visitors per month. Caddy Plugins [2015 - 2020] Caddy is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go. Built multiple plugins for Caddy to add functionalities requested by the community. Plugins functionalities include: on-the-fly minification, WebDav support and installation as a service. Over 50 000 downloads. File Browser [2015 - 2019] [code] Client-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained. Over 10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub. Built with Go and JavaScript (Vue.js). Achievements6th place on National Olympiad in Informatics [2017] [website] 10th place on National Olympiad in Informatics [2016] [website] Deputy at District’s Youth Parliament [2016] [website] Deputy at District’s Youth Parliament [2013] [website] Secretary of National Youth Parliament [2012] [website] Secretary of District’s Youth Parliament [2012] [website]",
+      "url": "https://hacdias.com/resume",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/0c4d154b2eaa14243ea97a0150af6632332225ade40aefd1c53d4e082d591452.jpg",
+        "url": "https://hacdias.com/"
+      },
+      "published": "2020-05-31T21:24:00Z",
+      "content": "Over the past months, I have been reading more and more posts where people are saying they miss the vibe of the 90s web. Even though I wasn’t alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser. We know those kinds of websites are a mirage nowadays, but some of them are still accessible via the Internet Archive. There is one really interesting service called Neocities, which I talked about in the past, that aims to bring the glory of the Geocities to today’s web.It’s amazing to see how those “retro” websites emanate personality: from the simplest GIF to the hyper customized text, from the guestbooks to the easter eggs. Those were mostly written by hand with no automatic generation. It’s just a completely different feeling from what we have right now.I barely remember when I first created this website, but I believe it was by hand, and it must’ve been fun. Shortly after, I moved to Hugo, a static website generator, and I’ve never looked back. Although Hugo allows us to create websites with ease, we still have tons of customization power because it just does exactly what we want to.On his essay, Parimal talks about how today’s websites are mainly built towards product selling or marketing. It’s a really good post and I recommend you all to read it.With all of thing being said, I have been tweaking my website. “Again?\", you ask. “Yes, again”, I say. My website has changed a lot over the few years since it exists (5 years I believe), but mostly on the past months, probably due to my discovery of the IndieWeb and the pandemic we’re living right now.My idea for this website is to make it a hub of my online identity and that’s what I’ve been building over the past months: from the now page to the watches page, everything tries to show a bit more of me and what I like.To bring more of the 90s vibe to this website - I hope - I decided to add more emojis and GIFs everywhere. The emojis are actually just a comeback because I already used them immensely in the past. I’m actually using Twemoji from Twitter to make the emojis look the same cross-platform. I’m self-hosting everything though so I don’t need to rely on external CDNs. However, let me know what you think.In addition to just adding emojis and GIFs, I decided to make my home page more personal instead of just a listing of my most recent posts. It now features a brief description of myself, a summary of what I am doing right now, links for featured posts, links to other pages - hence removing the “More” page - and, last but not the least, a link to my guestbook.With this update, I’m hoping to make this website more alive. Even though the mobile version hasn’t changed that much - mainly due to the device’s screen size -, the desktop version is much richer and entertaining, hopefully. I’m trying to join the old with some modern, yet interesting, features such as webmentions.A more subtle change I made was to change the dates on this website to use the Holocene Calendar which adds exactly 10 000 years to the current year, being the first year placed in the beginning of the Holocene era.Let’s bring the web more personality, more presence, more uniqueness. Let’s be the painters 🎨 of our own identity.Feel free to check out my guestbook and leave a comment! You can just say “hi” if you want, I’ll deeply appreciate it 😃 Do you have suggestions, leave a comment too!",
+      "url": "https://hacdias.com/2020/05/31/back-90s",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg",
+        "url": "https://jlelse.dev/"
+      },
+      "published": "2020-05-13T08:30:00Z",
+      "content": "This are alphabetically sorted lists of blogs and sites I subscribe to using Miniflux. I started publishing this page in May 2019. When available, I often prefer the JSON Feed over RSS or ATOM. You can also read about how I create the blogroll.Blogs Andre Garzia (Feed) Annoying Technology (Feed) Aral Balkan (Feed) Ash Furrow (Feed) Beko Pharm (Feed) Ben Congdon (Feed) Brandon Nolet (Feed) Chris Wiegman (Feed) Chris Wiegman (Journal) (Feed) CJ Eller (Feed) Daniel Aleksandersen (Feed) Daniele Maltese (Feed) Danny de Vries (Articles) (Feed) Danny de Vries (Notes) (Feed) Danny van Kooten (Feed) Daryl Sun (Feed) David Heinemeier Hansson (Feed) Derek Sivers (Feed) Desmond Rivet (Feed) Drew DeVault (Feed) Ellie Huxtable (Feed) Emanuel Pina (Feed) Florian Anderiasch (Feed) Garrett Dimon (Feed) Henrique Dias (Feed) Horst Gutmann (Feed) Hrvoje Šimić (Feed) Jake Bauer (Feed) James Fenn (Feed) Jamie Adams (Feed) Jamie Tanna (Feed) Jan Boddez (Feed) Jason Fried (Feed) Jeff Atwood (Feed) Jessie Frazelle (Feed) Jonathan Borichevskiy (Feed) Justin Vollmer (Feed) Katharina Nocun (Feed) Kev Quirk (Feed) Kevin C. Coram (Feed) Kyle Piira (Feed) Laura Kalbag (Feed) Marcel Wichmann (Feed) Martin Schneider (Feed) Martin Schneider (der tag und ich) (Feed) Martin Tournoij (Feed) Matt Baer (Feed) Matt Mullenweg (Feed) Matthias Ott (Feed) Matthias Pfefferle (Feed) Max Böck (Feed) Michael Lynch (Feed) Mike Babb (Feed) Mike Stone (Feed) Nils Riedemann (Feed) Nolan Lawson (Feed) Oscar Benedito (Feed) Paul Robert Lloyd (Feed) Philipp Waldhauer (Feed) Rahul Chowdhury (Feed) Remy Sharp (Feed) Roland Szabo (Feed) Ru Singh (Feed) Scott Nesbitt (Weekly Musings) (Feed) Stanislas Lange (Feed) Steven Ovadia (Feed) Søren Birkemeyer (Feed) Tom MacWright (Feed) Žan Černe (Feed) Comics CommitStrip (Feed) Dilbert (Feed) MonkeyUser (Feed) xkcd (Feed)",
+      "url": "https://jlelse.blog/blogroll/",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/fc6ea73177b3cf82aeeeb3f42ba5cc5919521699bc3718aae694ef9f64520461.jpg",
+        "url": "https://jlelse.dev/"
+      },
+      "published": "2020-01-28T20:10:00Z",
+      "content": "I just updated my blogroll and thought that it might be a great idea to share my workflow to do exactly that.I use Miniflux a lot. Using Miniflux, I read all the blogs and get all the news, get updates from all the YouTubers and even subscribe to some Mastodon accounts (fediverse microblogs). I use multiple categories to sort the feeds. One of those categories is “Blogs” with all the blogs, which I also list on my blogroll.The list of blogs I follow is always evolving. Sometimes I find new sites to follow, so I add their feeds to the list of subscriptions and put them into the “Blogs” category. Sometimes I also unsubscribe from feeds when they are inactive or if I’m not that much interested into them anymore (it can have multiple reasons).To keep my blogroll up-to-date and to avoid having to manually compare and adjust the list with the list from Miniflux when updating it, it is automatically created using a Hugo shortcode.First, I create an OPML export from my Miniflux subscriptions. This can be easily done by going to “Subscriptions” and then clicking on “Export”. I open the download with a text editor and remove all the categories that aren’t “Blogs”. I copy the remaining OPML code and convert it to JSON using this tool. This JSON I store in a file named opml.json in the data folder of my Hugo-based blog.In the layouts/shortcodes folder, I created a shortcode template named blogroll.html with the following content:\u003cul\u003e {{ $opmlJson := index .Site.Data.opml \"opml\" \"body\" \"outline\" \"outline\" }} {{ range sort $opmlJson \"_title\" \"asc\" }} \u003cli\u003e\u003ca href=\"{{ ._htmlUrl }}\" target=\"_blank\"\u003e{{ ._title }}\u003c/a\u003e\u003c/li\u003e {{ end }} \u003c/ul\u003e This shortcode is then used by adding Anil Dash Aral Balkan Ash Furrow Beko Pharm Ben Congdon Ben Werdmüller Brandon Nolet Chris Aldrich Daniel Aleksandersen Danny van Kooten David Heinemeier Hansson David Prandzioch Derek Sivers Desmond Rivet Drew DeVault Emanuel Pina Florian Anderiasch Garrett Dimon Henrique Dias Hrvoje Šimić James Fenn Jamie Adams Jamie Tanna Jan Boddez Jeff Atwood Jeremy Keith (Articles) Jeremy Keith (Journal) Jessie Frazelle John Gruber Jonathan Borichevskiy Jonathan LaCour Justin Vollmer Katharina Nocun Kev Quirk Kyle Piira Laura Kalbag Lukas Rosenstock Matt Baer Matthias Ott Matthias Pfefferle Max Böck Mike Kuketz Nikita Prokopov Nolan Lawson Owen Williams Paul Robert Lloyd Philipp Waldhauer Rahul Chowdhury Remy Sharp Stanislas Lange Steven Ovadia Søren Birkemeyer Tim Chambers Zugreiseblog Žan Černe in the blogroll content file.In the end, all I have to do to update my blogroll is update the opml.json file and update the lastmod frontmatter parameter in the blogroll content file.Check out my blogroll!",
+      "url": "https://jlelse.blog/dev/auto-blogroll-hugo/",
+      "type": "mention"
+    },
+    {
+      "author": {
+        "name": "Chris Aldrich",
+        "photo": "https://secure.gravatar.com/avatar/d5fb4e498fe609cc29b04e5b7ad688c4?s=96\u0026d=identicon\u0026r=pg",
+        "url": "https://boffosocko.com/author/chrisaldrich/"
+      },
+      "published": "2020-01-26T09:55:38Z",
+      "url": "https://boffosocko.com/2020/01/24/followed-henrique-dias/",
+      "type": "mention"
+    },
+    {
+      "author": {
         "name": "Aaron Parecki",
         "photo": "https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg",
         "url": "https://aaronparecki.com/"
       },
-      "published": "2019-12-29T00:25:02Z",
-      "content": "Thanks! And it looks like it worked!",
-      "url": "https://aaronparecki.com/2019/12/28/26/",
+      "published": "2020-01-22T13:25:29Z",
+      "content": "It's all a giant pile of PHP code I wrote ages ago, it's not even map-projection-aware it just plots on a 2D canvas. The animation is basically a timelapse of a bunch of frames of that same script played in a row.",
+      "url": "https://aaronparecki.com/2020/01/22/1/",
       "type": "reply"
     },
     {
@@ -40,170 +201,22 @@
         "photo": "https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg",
         "url": "https://aaronparecki.com/"
       },
-      "published": "2020-01-22T13:25:29Z",
-      "content": "It's all a giant pile of PHP code I wrote ages ago, it's not even map-projection-aware it just plots on a 2D canvas. The animation is basically a timelapse of a bunch of frames of that same script played in a row.",
-      "url": "https://aaronparecki.com/2020/01/22/1/",
+      "published": "2019-12-29T00:25:02Z",
+      "content": "Thanks! And it looks like it worked!",
+      "url": "https://aaronparecki.com/2019/12/28/26/",
       "type": "reply"
-    },
-    {
-      "author": {
-        "name": "Chris Aldrich",
-        "photo": "https://secure.gravatar.com/avatar/d5fb4e498fe609cc29b04e5b7ad688c4?s=96\u0026d=identicon\u0026r=pg",
-        "url": "https://boffosocko.com/author/chrisaldrich/"
-      },
-      "published": "2020-01-26T09:55:38Z",
-      "url": "https://boffosocko.com/2020/01/24/followed-henrique-dias/",
-      "type": "mention"
-    },
-    {
-      "author": {
-        "name": "Jan-Lukas Else",
-        "photo": "https://cdn.hacdias.com/wm/fc6ea73177b3cf82aeeeb3f42ba5cc5919521699bc3718aae694ef9f64520461.jpg",
-        "url": "https://jlelse.dev/"
-      },
-      "published": "2020-01-28T20:10:00Z",
-      "content": "I just updated my blogroll and thought that it might be a great idea to share my workflow to do exactly that.I use Miniflux a lot. Using Miniflux, I read all the blogs and get all the news, get updates from all the YouTubers and even subscribe to some Mastodon accounts (fediverse microblogs). I use multiple categories to sort the feeds. One of those categories is “Blogs” with all the blogs, which I also list on my blogroll.The list of blogs I follow is always evolving. Sometimes I find new sites to follow, so I add their feeds to the list of subscriptions and put them into the “Blogs” category. Sometimes I also unsubscribe from feeds when they are inactive or if I’m not that much interested into them anymore (it can have multiple reasons).To keep my blogroll up-to-date and to avoid having to manually compare and adjust the list with the list from Miniflux when updating it, it is automatically created using a Hugo shortcode.First, I create an OPML export from my Miniflux subscriptions. This can be easily done by going to “Subscriptions” and then clicking on “Export”. I open the download with a text editor and remove all the categories that aren’t “Blogs”. I copy the remaining OPML code and convert it to JSON using this tool. This JSON I store in a file named opml.json in the data folder of my Hugo-based blog.In the layouts/shortcodes folder, I created a shortcode template named blogroll.html with the following content:\u003cul\u003e {{ $opmlJson := index .Site.Data.opml \"opml\" \"body\" \"outline\" \"outline\" }} {{ range sort $opmlJson \"_title\" \"asc\" }} \u003cli\u003e\u003ca href=\"{{ ._htmlUrl }}\" target=\"_blank\"\u003e{{ ._title }}\u003c/a\u003e\u003c/li\u003e {{ end }} \u003c/ul\u003e This shortcode is then used by adding Anil Dash Aral Balkan Ash Furrow Beko Pharm Ben Congdon Ben Werdmüller Brandon Nolet Chris Aldrich Daniel Aleksandersen Danny van Kooten David Heinemeier Hansson David Prandzioch Derek Sivers Desmond Rivet Drew DeVault Emanuel Pina Florian Anderiasch Garrett Dimon Henrique Dias Hrvoje Šimić James Fenn Jamie Adams Jamie Tanna Jan Boddez Jeff Atwood Jeremy Keith (Articles) Jeremy Keith (Journal) Jessie Frazelle John Gruber Jonathan Borichevskiy Jonathan LaCour Justin Vollmer Katharina Nocun Kev Quirk Kyle Piira Laura Kalbag Lukas Rosenstock Matt Baer Matthias Ott Matthias Pfefferle Max Böck Mike Kuketz Nikita Prokopov Nolan Lawson Owen Williams Paul Robert Lloyd Philipp Waldhauer Rahul Chowdhury Remy Sharp Stanislas Lange Steven Ovadia Søren Birkemeyer Tim Chambers Zugreiseblog Žan Černe in the blogroll content file.In the end, all I have to do to update my blogroll is update the opml.json file and update the lastmod frontmatter parameter in the blogroll content file.Check out my blogroll!",
-      "url": "https://jlelse.blog/dev/auto-blogroll-hugo/",
-      "type": "mention"
-    },
-    {
-      "author": {
-        "name": "Jan-Lukas Else",
-        "photo": "https://cdn.hacdias.com/wm/c524b32caba1aa95c59ae7ff81b417cd1b1cfb631833cb6a64583c69eb1b4d06.jpg",
-        "url": "https://jlelse.dev/"
-      },
-      "published": "2020-05-13T08:30:00Z",
-      "content": "This are alphabetically sorted lists of blogs and sites I subscribe to using Miniflux. I started publishing this page in May 2019. When available, I often prefer the JSON Feed over RSS or ATOM. You can also read about how I create the blogroll.Blogs Andre Garzia (Feed) Annoying Technology (Feed) Aral Balkan (Feed) Ash Furrow (Feed) Beko Pharm (Feed) Ben Congdon (Feed) Brandon Nolet (Feed) Chris Wiegman (Feed) Chris Wiegman (Journal) (Feed) CJ Eller (Feed) Daniel Aleksandersen (Feed) Daniele Maltese (Feed) Danny de Vries (Articles) (Feed) Danny de Vries (Notes) (Feed) Danny van Kooten (Feed) Daryl Sun (Feed) David Heinemeier Hansson (Feed) Derek Sivers (Feed) Desmond Rivet (Feed) Drew DeVault (Feed) Ellie Huxtable (Feed) Emanuel Pina (Feed) Florian Anderiasch (Feed) Garrett Dimon (Feed) Henrique Dias (Feed) Horst Gutmann (Feed) Hrvoje Šimić (Feed) Jake Bauer (Feed) James Fenn (Feed) Jamie Adams (Feed) Jamie Tanna (Feed) Jan Boddez (Feed) Jason Fried (Feed) Jeff Atwood (Feed) Jessie Frazelle (Feed) Jonathan Borichevskiy (Feed) Justin Vollmer (Feed) Katharina Nocun (Feed) Kev Quirk (Feed) Kevin C. Coram (Feed) Kyle Piira (Feed) Laura Kalbag (Feed) Marcel Wichmann (Feed) Martin Schneider (Feed) Martin Schneider (der tag und ich) (Feed) Martin Tournoij (Feed) Matt Baer (Feed) Matt Mullenweg (Feed) Matthias Ott (Feed) Matthias Pfefferle (Feed) Max Böck (Feed) Michael Lynch (Feed) Mike Babb (Feed) Mike Stone (Feed) Nils Riedemann (Feed) Nolan Lawson (Feed) Oscar Benedito (Feed) Paul Robert Lloyd (Feed) Philipp Waldhauer (Feed) Rahul Chowdhury (Feed) Remy Sharp (Feed) Roland Szabo (Feed) Ru Singh (Feed) Scott Nesbitt (Weekly Musings) (Feed) Stanislas Lange (Feed) Steven Ovadia (Feed) Søren Birkemeyer (Feed) Tom MacWright (Feed) Žan Černe (Feed) Comics CommitStrip (Feed) Dilbert (Feed) MonkeyUser (Feed) xkcd (Feed)",
-      "url": "https://jlelse.blog/blogroll/",
-      "type": "mention"
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/0c4d154b2eaa14243ea97a0150af6632332225ade40aefd1c53d4e082d591452.jpg",
-        "url": "https://hacdias.com/"
-      },
-      "published": "2020-05-31T21:24:00Z",
-      "content": "Over the past months, I have been reading more and more posts where people are saying they miss the vibe of the 90s web. Even though I wasn’t alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser. We know those kinds of websites are a mirage nowadays, but some of them are still accessible via the Internet Archive. There is one really interesting service called Neocities, which I talked about in the past, that aims to bring the glory of the Geocities to today’s web.It’s amazing to see how those “retro” websites emanate personality: from the simplest GIF to the hyper customized text, from the guestbooks to the easter eggs. Those were mostly written by hand with no automatic generation. It’s just a completely different feeling from what we have right now.I barely remember when I first created this website, but I believe it was by hand, and it must’ve been fun. Shortly after, I moved to Hugo, a static website generator, and I’ve never looked back. Although Hugo allows us to create websites with ease, we still have tons of customization power because it just does exactly what we want to.On his essay, Parimal talks about how today’s websites are mainly built towards product selling or marketing. It’s a really good post and I recommend you all to read it.With all of thing being said, I have been tweaking my website. “Again?\", you ask. “Yes, again”, I say. My website has changed a lot over the few years since it exists (5 years I believe), but mostly on the past months, probably due to my discovery of the IndieWeb and the pandemic we’re living right now.My idea for this website is to make it a hub of my online identity and that’s what I’ve been building over the past months: from the now page to the watches page, everything tries to show a bit more of me and what I like.To bring more of the 90s vibe to this website - I hope - I decided to add more emojis and GIFs everywhere. The emojis are actually just a comeback because I already used them immensely in the past. I’m actually using Twemoji from Twitter to make the emojis look the same cross-platform. I’m self-hosting everything though so I don’t need to rely on external CDNs. However, let me know what you think.In addition to just adding emojis and GIFs, I decided to make my home page more personal instead of just a listing of my most recent posts. It now features a brief description of myself, a summary of what I am doing right now, links for featured posts, links to other pages - hence removing the “More” page - and, last but not the least, a link to my guestbook.With this update, I’m hoping to make this website more alive. Even though the mobile version hasn’t changed that much - mainly due to the device’s screen size -, the desktop version is much richer and entertaining, hopefully. I’m trying to join the old with some modern, yet interesting, features such as webmentions.A more subtle change I made was to change the dates on this website to use the Holocene Calendar which adds exactly 10 000 years to the current year, being the first year placed in the beginning of the Holocene era.Let’s bring the web more personality, more presence, more uniqueness. Let’s be the painters 🎨 of our own identity.Feel free to check out my guestbook and leave a comment! You can just say “hi” if you want, I’ll deeply appreciate it 😃 Do you have suggestions, leave a comment too!",
-      "url": "https://hacdias.com/2020/05/31/back-90s",
-      "type": "mention"
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/df280a6a00d9d8e4cd4e0e1647c477f51854f80b3337007e5d9ecb049d0f304d.jpg",
-        "url": "https://hacdias.com/"
-      },
-      "published": "2021-08-19T19:02:52Z",
-      "content": "Henrique Dias 📍 Eindhoven, Netherlands — mail@hacdias.com hacdias.com github.com/hacdias linkedin.com/in/hacdias I am a M.Sc. in Computer Science and Engineering student at Eindhoven University of Technology and part-time Software Engineer at Protocol Labs. Interested in decentralized systems, web infrastructure, web systems, human-computer interaction and developing user-friendly services.Education MSc Computer Science and Engineering, Eindhoven University of Technology [2020 - present]Current GPA of 8 out of 10, expected to graduate in 2022. Member of Student Film \u0026 Photography Association Dekate Mousa. Working as a Master’s Student Mentor. BSc Information Systems and Computer Engineering, Instituto Superior Técnico [2017 - 2020]Graduated with GPA of 16 out of 20. Volunteered as Student Mentor for 2 years. Awarded an Academic Merit Award in 1 year. Experience Protocol Labs — Software Engineer [2017 - present] Protocol Labs is a research and development institution for improving the Internet technology through decentralized technologies. Founder of the InterPlanetary File System (IPFS) and Filecoin.Developed Testground: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects. Lead maintainer of IPFS Desktop: an unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux built using Electron. User base grew approximately 30% each month. Revamped and shipped IPFS Web UI: a React-based web application used as a front-end for IPFS. Designed and built Awesome IPFS: a compilation of the most fascinating projects, datasets, tools and other materials built using IPFS. Upframe — Lead Software Developer [2016 - 2018] Upframe helps you find and connect with industry leaders that can give you startup advice and mentor you through the first steps of building a product.Organized a mentorship-driven program to connect mentors from well known companies (Tesla, Twitter, Spotify, etc) to first-time entrepreneurs. Built a REST API for managing email transactions, newsletters and enrollments in the program. Built a Slack bot to manage enrollments to the program, in Go. Built a backend which allowed to see who was at the office, to send emails and to manage newsletters. In the news: Eco, Startup Lisboa, Observador \u0026 Dinheiro Vivo. Pplware — Content Writer [2013 - 2016] Pplware is a the largest Portuguese technology website with over 100 000 daily visitors.Wrote over 400 tutorials, tech news and other articles on both Pplware and Pplware Kids. Published a 60 page e-book on how to program in C for beginners when I was 15 years old. ProjectsPersonal Website [2014 - present] [code] Running my personal website since 2014, allowing me to experiment with different technologies. Nowadays, it is composed by a mix of a static generator, plus a custom backend built in Go. Custom backend supports post management, full-text search, interaction with a few services' APIs, among other features. Read more about how it works. The blog contains both technical and non-technical articles and receives over 5 000 unique visitors per month. Caddy Plugins [2015 - 2020] Caddy is an open-source, fast, HTTP/2 web server with automatic HTTPS built in Go. Built multiple plugins for Caddy to add functionalities requested by the community. Plugins functionalities include: on-the-fly minification, WebDav support and installation as a service. Over 50 000 downloads. File Browser [2015 - 2019] [code] Client-server software for creating and using file hosting services, allowing anyone to create their own cloud. Nowadays, community-maintained. Over 10 000 000 downloads through Docker and GitHub and more than 10 000 stars on GitHub. Built with Go and JavaScript (Vue.js). Achievements6th place on National Olympiad in Informatics [2017] [website] 10th place on National Olympiad in Informatics [2016] [website] Deputy at District’s Youth Parliament [2016] [website] Deputy at District’s Youth Parliament [2013] [website] Secretary of National Youth Parliament [2012] [website] Secretary of District’s Youth Parliament [2012] [website]",
-      "url": "https://hacdias.com/resume",
-      "type": "mention"
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://webmention.io/avatar/hacdias.com/664891eacca0e5248f8e6c7b5849da5c82f3a7d58fe9693e730338d01513b117.jpg",
-        "url": "https://hacdias.com"
-      },
-      "published": "2021-09-23T13:41:05Z",
-      "content": "A Uniform Resource Identifiers (URI) is a string of characters that identifies unambiguously a resource. It is a standard in the WWW world.The syntax:uri = scheme:[//authority]path[?query][#fragment]` authority = [[email protected]]host[:port] Examples:urn:isbn:0-486-27557-4 https://hacdias.com mailto:[email protected] URLA Uniform Resource Location (URL) is an URI type used to identify a resource on the Internet. It provides theURNA Uniform Resource Name (URN) is an URI type that identifies a given resource by name on a given namespace. For example, a book’s isbn.",
-      "url": "https://hacdias.com/notes/uri/",
-      "type": "mention"
-    },
-    {
-      "author": {
-        "name": "Barry Frost",
-        "photo": "https://cdn.hacdias.com/wm/383c80e7bedec43f1d730c5b2b7e115f3ddea7f0c1446393b8dd35eec4f0b2f5.jpg",
-        "url": "https://barryfrost.com/"
-      },
-      "published": "2022-03-13T21:09:54Z",
-      "content": "Hybrid working has begun at work. Three days at home; two days in the office. In our engineering team we’re coordinating on Wednesdays and Thursdays as our office days, helped by a company lunch and drinks to lure in staff. It’s nice to see people in the flesh, although I haven’t missed hunting for an empty meeting room. I haven’t missed commuting either. Delays, cancellations and rain. I’d almost forgotten! This time, after the latest Apple event, I avoided ordering anything. Even though the Studio Display is perfect: 5K screen and built-in webcam, mic and speakers. My 4K Dell display, Logitech webcam and laptop mic/speakers are all fine I guess. On Saturday we met old friends for lunch at The Wellington and then playtime back at ours for the children. It’s not been easy to host people for the last two years (for obvious reasons), so it was nice. I pushed a new release of Micropublish with a contribution from Henrique to support photo uploads. I’ve struggled to find time to review PRs lately, but it’s genuinely exciting having others work on a project I started because they find it useful. We popped over the road this afternoon with the boys to play park football with other children from their school. I joined dads and mums to help the year 1s against the year 3s. I was really impressed with H’s defending and running against bigger boys. However, Daddy managed to make one boy cry with a clearance that hit his hand. Oops.",
-      "url": "https://barryfrost.com/2022/03/week-29-park",
-      "type": "mention"
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
-        "url": "https://hacdias.com/"
-      },
-      "published": "2022-08-21T11:59:16+02:00",
-      "content": "This is a list of the domains I currently own:hacdias.com henriquedias.com hacdia.sh h4c.pt nata.cafe",
-      "url": "https://hacdias.com/domains",
-      "type": "mention"
-    },
-    {
-      "author": {},
-      "published": "2022-10-08T10:39:39Z",
-      "url": "https://domain.glass/hacdias.com?utm_source=pingback",
-      "type": "mention"
-    },
-    {
-      "author": {
-        "name": "Jan-Lukas Else",
-        "photo": "https://cdn.hacdias.com/wm/70e8fb1225ff3cd8880026c391ed227281103b2e13e02cf2d9aab47fb2e35e33.jpg",
-        "url": "https://fosstodon.org/users/jle"
-      },
-      "published": "2022-11-22T17:22:11Z",
-      "content": "@wouter @hacdias After taking a second look and trying to play a bit with the go-ap libraries, I think they are better than I first thought. I think I will rewrite my logic with it.",
-      "url": "https://fosstodon.org/@jle/109388610403714844",
-      "id": "https://fosstodon.org/users/jle/statuses/109388610403714844"
-    },
-    {
-      "author": {
-        "name": "Jan Boddez",
-        "photo": "https://cdn.hacdias.com/wm/5c33bdec0e4a8e1c9346adaca8dab10ff901dcb2e155fd64e919703d2ab0ed30.jpg",
-        "url": "https://geekcompass.com/users/jan"
-      },
-      "published": "2022-11-24T18:12:21Z",
-      "content": "@darius Yes, and I’d absolutely read something similar by, e.g., @jle or @hacdias! 🤪Accepting followers and sending out Create activities for simple Notes is about as far as I got when I last gave ActivityPub a try. Would love to see semi-simple examples of Update and Delete activities, processing requests to shared inboxes, what an outbox should look like, how Mastodon treats Notes vs. Articles, and so on",
-      "url": "https://geekcompass.com/@jan/109400132232103096",
-      "id": "https://geekcompass.com/users/jan/statuses/109400132232103096"
-    },
-    {
-      "author": {
-        "name": "Henrique Dias",
-        "photo": "https://cdn.hacdias.com/wm/6d04d58fb0ac2d5d84c05bbe59489507b0f28f1d69ebf4ea3e625ef2cdb7b6eb.jpg",
-        "url": "https://fosstodon.org/users/hacdias"
-      },
-      "published": "2022-11-26T18:49:25Z",
-      "content": "Hi! I\u0026#39;m Henrique! I\u0026#39;m a Portuguese 🇵🇹 guy living in The Netherlands 🇳🇱. I recently graduated 🎓 from my master’s degree and now work as a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users.I am trying to implement ActivityPub at my website. If you decide to follow me here, please also follow @hacdias@hacdias.com 😄 My goal is to make it my main account once I\u0026#39;m able to follow others from it!#introduction",
-      "url": "https://fosstodon.org/@hacdias/109411600889970337",
-      "id": "https://fosstodon.org/users/hacdias/statuses/109411600889970337"
-    },
-    {
-      "author": {
-        "name": "Aaron Toponce ⚛️:debian:",
-        "photo": "https://cdn.hacdias.com/wm/ee847b67c288ad929ffa6dcecfbe81a346be1dddf9b4b964527be3655d4f62c2.jpg",
-        "url": "https://fosstodon.org/users/atoponce"
-      },
-      "published": "2022-11-28T13:10:52Z",
-      "content": "@hacdias \u0026#34;Because MD5 is a relatively weak algorithm, it is possible to create deliberate hash \u0026#34;collisions\u0026#34;. That is, take some data and manipulate it until it has the same MD5 as a different piece of data.\u0026#34;This is confusing collision attacks and second preimage attacks.MD5 and SHA-1 are broken in collisions. IE, two inputs collide to an *unknown* output.Both are secure against second preimages. IE, you have an input w/ hash and look for another input it collides with.",
-      "url": "https://fosstodon.org/@atoponce/109421595983554903",
-      "type": "reply",
-      "id": "https://fosstodon.org/users/atoponce/statuses/109421595983554903"
-    },
-    {
-      "author": {
-        "name": "Aaron Toponce ⚛️:debian:",
-        "photo": "https://cdn.hacdias.com/wm/ee847b67c288ad929ffa6dcecfbe81a346be1dddf9b4b964527be3655d4f62c2.jpg",
-        "url": "https://fosstodon.org/users/atoponce"
-      },
-      "published": "2022-11-28T13:11:52Z",
-      "content": "@hacdias Further:\u0026#34;Someone could, theoretically, deliberately create a file which looks unremarkable when viewed, but is illegal when hashed.\u0026#34;That\u0026#39;s a pre-image attack: you have a hash and find input that hashes to it. MD5 and SHA-1 are also both secure against preimage attacks.",
-      "url": "https://fosstodon.org/@atoponce/109421599917048965",
-      "id": "https://fosstodon.org/users/atoponce/statuses/109421599917048965"
     }
   ],
   "interactions": [
     {
       "author": {
-        "name": "Aaron Parecki",
-        "photo": "https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg",
-        "url": "https://aaronparecki.com/"
+        "name": "Robert van Bregt",
+        "photo": "https://cdn.hacdias.com/wm/98755147f2919eaf81d954c6ab1e8adc42f09fa83fd02939201432195b1afc67.jpg",
+        "url": "https://robertvanbregt.nl/"
       },
-      "published": "2019-12-30T00:00:00Z",
-      "url": "https://aaronparecki.com/2019/12/30/22/",
+      "published": "2020-02-01T05:27:23Z",
+      "content": "a post by Henrique DiasI just added a little form in the webmentions section on the posts so you can send your webmention manually if it didn’t hit my website. Or, you can also use the button ‘Write a comment’ to create a comment (that can be anonymous) through the comment parade service. For the curious ones out th…",
+      "url": "https://robertvanbregt.nl/2020/02/01/3887/",
       "type": "like"
     },
     {
@@ -218,13 +231,12 @@
     },
     {
       "author": {
-        "name": "Robert van Bregt",
-        "photo": "https://cdn.hacdias.com/wm/98755147f2919eaf81d954c6ab1e8adc42f09fa83fd02939201432195b1afc67.jpg",
-        "url": "https://robertvanbregt.nl/"
+        "name": "Aaron Parecki",
+        "photo": "https://cdn.hacdias.com/wm/3a0a46afeb21724125e00151adec44e16e22a1fb3e28610691f070d9ff267b25.jpg",
+        "url": "https://aaronparecki.com/"
       },
-      "published": "2020-02-01T05:27:23Z",
-      "content": "a post by Henrique DiasI just added a little form in the webmentions section on the posts so you can send your webmention manually if it didn’t hit my website. Or, you can also use the button ‘Write a comment’ to create a comment (that can be anonymous) through the comment parade service. For the curious ones out th…",
-      "url": "https://robertvanbregt.nl/2020/02/01/3887/",
+      "published": "2019-12-30T00:00:00Z",
+      "url": "https://aaronparecki.com/2019/12/30/22/",
       "type": "like"
     }
   ]

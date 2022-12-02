@@ -43,6 +43,15 @@ All pages that list posts, such as [photos](/photos/) and [articles](/articles/)
 
 </div>
 
+### 🕹️ Remote Follow
+
+You can follow me on Mastodon, Pleroma, or other similar application that supports ActivityPub by searching for `@hacdias@hacdias.com`. Instead, you can also try using the remote follow form below.
+
+<form method='post' action='/activitypub/remote-follow' class='inline-form'>
+  <input required name='acct' placeholder='Enter your user@example.org...'>
+  <button>Remote Follow</button>
+</form>
+
 ## 🗝 PGP {#pgp}
 
 To send me encrypted messages, you can find my public key on this [website](/pubkey.txt) or on [keybase](https://keybase.io/hacdias). The fingerprint is:
