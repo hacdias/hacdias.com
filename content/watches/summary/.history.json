@@ -1,5 +1,71 @@
 [
   {
+    "id": 8696351274,
+    "watched_at": "2022-12-02T09:48:38Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Boys Don't Cry",
+      "season": 6,
+      "number": 7,
+      "ids": {
+        "trakt": 6859650,
+        "imdb": "tt23320710",
+        "tmdb": 4044576,
+        "tvdb": 9439721
+      }
+    },
+    "show": {
+      "title": "The Good Doctor",
+      "year": 2017,
+      "ids": {
+        "trakt": 119095,
+        "imdb": "tt6470478",
+        "tmdb": 71712,
+        "slug": "the-good-doctor",
+        "tvdb": 328634
+      },
+      "runtime": 43,
+      "country": "us",
+      "genres": [
+        "drama"
+      ]
+    }
+  },
+  {
+    "id": 8696351263,
+    "watched_at": "2022-12-02T09:48:36Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Hot and Bothered",
+      "season": 6,
+      "number": 6,
+      "ids": {
+        "trakt": 6826772,
+        "imdb": "tt23146066",
+        "tmdb": 4027836,
+        "tvdb": 9427007
+      }
+    },
+    "show": {
+      "title": "The Good Doctor",
+      "year": 2017,
+      "ids": {
+        "trakt": 119095,
+        "imdb": "tt6470478",
+        "tmdb": 71712,
+        "slug": "the-good-doctor",
+        "tvdb": 328634
+      },
+      "runtime": 43,
+      "country": "us",
+      "genres": [
+        "drama"
+      ]
+    }
+  },
+  {
     "id": 8695564564,
     "watched_at": "2022-12-01T21:36:41Z",
     "action": "watch",
@@ -377,7 +443,8 @@
       "ids": {
         "trakt": 6875438,
         "imdb": "tt23739892",
-        "tmdb": 4057856
+        "tmdb": 4057856,
+        "tvdb": 9367546
       }
     },
     "show": {
@@ -411,7 +478,8 @@
       "ids": {
         "trakt": 6875437,
         "imdb": "tt23739890",
-        "tmdb": 4057855
+        "tmdb": 4057855,
+        "tvdb": 9367545
       }
     },
     "show": {
@@ -445,7 +513,8 @@
       "ids": {
         "trakt": 6875436,
         "imdb": "tt23739886",
-        "tmdb": 4057854
+        "tmdb": 4057854,
+        "tvdb": 9367544
       }
     },
     "show": {
@@ -479,7 +548,8 @@
       "ids": {
         "trakt": 6875435,
         "imdb": "tt23739870",
-        "tmdb": 4057853
+        "tmdb": 4057853,
+        "tvdb": 9367543
       }
     },
     "show": {
@@ -513,7 +583,8 @@
       "ids": {
         "trakt": 6875434,
         "imdb": "tt23744348",
-        "tmdb": 4057852
+        "tmdb": 4057852,
+        "tvdb": 9367542
       }
     },
     "show": {
@@ -547,7 +618,8 @@
       "ids": {
         "trakt": 6868207,
         "imdb": "tt23744344",
-        "tmdb": 4048781
+        "tmdb": 4048781,
+        "tvdb": 9367541
       }
     },
     "show": {
@@ -581,7 +653,8 @@
       "ids": {
         "trakt": 6868206,
         "imdb": "tt22801610",
-        "tmdb": 4048780
+        "tmdb": 4048780,
+        "tvdb": 9367540
       }
     },
     "show": {
@@ -615,7 +688,8 @@
       "ids": {
         "trakt": 6763313,
         "imdb": "tt15789146",
-        "tmdb": 3983570
+        "tmdb": 3983570,
+        "tvdb": 9367539
       }
     },
     "show": {

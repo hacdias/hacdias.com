@@ -75,6 +75,7 @@ An alphabetically sorted list of blogs, websites and people that I follow. News 
 - [Barry Frost](https://barryfrost.com/)
 - [Ben Congdon](https://benjamincongdon.me/)
 - [Ben Cox](https://blog.benjojo.co.uk)
+- [Ben Werdmuller](https://werd.io/)
 - [Brain Baking](https://brainbaking.com/)
 - [Chris Wiegman](https://chriswiegman.com)
 - [Coder's Block](https://codersblock.com)

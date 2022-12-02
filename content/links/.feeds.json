@@ -54,6 +54,12 @@
     "category": "following"
   },
   {
+    "title": "Ben Werdmuller",
+    "site": "https://werd.io/",
+    "feed": "https://werd.io/?_t=rss",
+    "category": "following"
+  },
+  {
     "title": "Brain Baking",
     "site": "https://brainbaking.com/",
     "feed": "https://brainbaking.com/index.xml",
