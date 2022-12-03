@@ -118,6 +118,15 @@
 
         <button>Submit</button>
       </form>
+
+      <h2>Bookmarklets</h2>
+
+      <ul>
+        <li><a class=tag href="javascript:window.location='https://hacdias.com/new?properties.like-of='+encodeURIComponent(location.href)">Like</a></li>
+        <li><a class=tag href="javascript:window.location='https://hacdias.com/new?properties.repost-of='+encodeURIComponent(location.href)">Repost</a></li>
+        <li><a class=tag href="javascript:window.location='https://hacdias.com/new?properties.in-reply-to='+encodeURIComponent(location.href)+'&content='+encodeURIComponent(window.getSelection());">Reply</a></li>
+        <li><a class=tag href="javascript:window.location='https://hacdias.com/new?properties.bookmark-of='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)+'&content='+encodeURIComponent(window.getSelection());">Bookmark</a></li>
+      </ul>
     </div>
   </main>
 {{ end }}
