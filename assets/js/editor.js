@@ -28942,6 +28942,7 @@ var editor = (function (exports) {
              indentWithTab
            ]),
            EditorView.lineWrapping,
+           EditorView.contentAttributes.of({spellcheck: true}),
            markdown({
              extensions: [
                frontmatter
@@ -28949,6 +28950,8 @@ var editor = (function (exports) {
            })
          ]
        });
+
+       console.log(editor);
 
        textarea.parentNode.insertBefore(editor.dom, textarea);
        textarea.style.display = 'none';

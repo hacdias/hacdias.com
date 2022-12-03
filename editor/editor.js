@@ -43,6 +43,7 @@ export function setup () {
           indentWithTab
         ]),
         EditorView.lineWrapping,
+        EditorView.contentAttributes.of({spellcheck: true}),
         markdown({
           extensions: [
             frontmatter
@@ -50,6 +51,8 @@ export function setup () {
         })
       ]
     })
+
+    console.log(editor)
 
     textarea.parentNode.insertBefore(editor.dom, textarea)
     textarea.style.display = 'none'
