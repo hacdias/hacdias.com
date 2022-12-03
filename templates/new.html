@@ -16,11 +16,23 @@
       <input type="text" required name="id" placeholder="id" value="{{ .Data.ID }}" />
       <textarea required id=content name="content">{{ .Data.Content }}</textarea>
 
+      <p><strong>Location:</strong></p>
+      <input type="text" name="location" placeholder='Geo URI, or Check-in ID' />
       {{ include "editor/syndicators" . }}
       <button>Create</button>
     </form>
   </main>
   <script type="text/javascript" src="{{ .Assets.Path "editor.js" }}"></script>
+
+  <script type="text/javascript" >
+  navigator.geolocation.getCurrentPosition(function(position) {
+    const latitude = (Math.round(position.coords.latitude * 100000) / 100000)
+    const longitude = (Math.round(position.coords.longitude * 100000) / 100000)
+    const accuracy = (Math.round(position.coords.accuracy * 100000) / 100000)
+    const uri = `geo:${latitude},${longitude};u=${accuracy}`
+    document.querySelector('input[name=location]').value = uri
+  }, console.error)
+  </script>
 {{ end }}
 
 {{ define "new" }}
