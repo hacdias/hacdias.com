@@ -43,7 +43,11 @@ export function setup () {
           indentWithTab
         ]),
         EditorView.lineWrapping,
-        EditorView.contentAttributes.of({spellcheck: true}),
+        EditorView.contentAttributes.of({
+          spellcheck: true,
+          autocapitalize: 'sentences',
+          autocorrect: 'on'
+        }),
         markdown({
           extensions: [
             frontmatter
