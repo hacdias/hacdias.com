@@ -120,23 +120,19 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   margin-top: 0;
-  font-size: var(--f1)
+  font-size: var(--f2)
 }
 
 h2 {
-  font-size: var(--f2);
+  font-size: var(--f3);
   border-bottom: 1px solid var(--light-white);
 }
 
 h3 {
-  font-size: var(--f3);
-}
-
-h4 {
   font-size: var(--f4);
 }
 
-h5 {
+h4, h5 {
   font-size: var(--f5);
 }
 
