@@ -1,5 +1,73 @@
 [
   {
+    "id": 8698198835,
+    "watched_at": "2022-12-03T16:05:28Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Simon Says Tick Tock",
+      "season": 2,
+      "number": 2,
+      "ids": {
+        "trakt": 6753967,
+        "imdb": "tt22871570",
+        "tmdb": 3982206,
+        "tvdb": 9234324
+      }
+    },
+    "show": {
+      "title": "One of Us Is Lying",
+      "year": 2021,
+      "ids": {
+        "trakt": 160503,
+        "imdb": "tt8354062",
+        "tmdb": 118958,
+        "slug": "one-of-us-is-lying",
+        "tvdb": 380210
+      },
+      "runtime": 48,
+      "country": "us",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
+    }
+  },
+  {
+    "id": 8698198792,
+    "watched_at": "2022-12-03T16:05:26Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Simon Says Game On",
+      "season": 2,
+      "number": 1,
+      "ids": {
+        "trakt": 6503384,
+        "imdb": "tt17048200",
+        "tmdb": 3811693,
+        "tvdb": 9234323
+      }
+    },
+    "show": {
+      "title": "One of Us Is Lying",
+      "year": 2021,
+      "ids": {
+        "trakt": 160503,
+        "imdb": "tt8354062",
+        "tmdb": 118958,
+        "slug": "one-of-us-is-lying",
+        "tvdb": 380210
+      },
+      "runtime": 48,
+      "country": "us",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
+    }
+  },
+  {
     "id": 8696351274,
     "watched_at": "2022-12-02T09:48:38Z",
     "action": "watch",
@@ -2242,7 +2310,7 @@
     "action": "watch",
     "type": "episode",
     "episode": {
-      "title": "A Resident Advisor and the Word ‘Sketchy’",
+      "title": "A Resident Advisor and the Word 'Sketchy'",
       "season": 6,
       "number": 5,
       "ids": {
