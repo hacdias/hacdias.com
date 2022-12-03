@@ -1,6 +1,6 @@
 :root {
   /* Font sizes. Nice website: https://type-scale.com/, Minor Third */
-  --f1: 2.074rem;
+  --f1: 2.074rem; /* TODO: REMOVE THIS */
   --f2: 1.728rem;
   --f3: 1.44rem;
   --f4: 1.2rem;
