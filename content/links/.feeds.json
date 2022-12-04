@@ -342,6 +342,12 @@
     "category": "following"
   },
   {
+    "title": "Ryan Barrett",
+    "site": "https://snarfed.org",
+    "feed": "https://snarfed.org/feed",
+    "category": "following"
+  },
+  {
     "title": "Sebastiaan Andeweg",
     "site": "https://seblog.nl/feed",
     "feed": "https://seblog.nl/feed.rss",

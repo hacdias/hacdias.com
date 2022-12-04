@@ -1,5 +1,77 @@
 [
   {
+    "id": 8700329414,
+    "watched_at": "2022-12-04T19:42:56Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Woe Is the Loneliest Number",
+      "season": 1,
+      "number": 2,
+      "ids": {
+        "trakt": 6621509,
+        "imdb": "tt14077394",
+        "tmdb": 3901538,
+        "tvdb": 9302839
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "slug": "wednesday",
+        "tvdb": 397060
+      },
+      "runtime": 42,
+      "country": "us",
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "mystery",
+        "comedy"
+      ]
+    }
+  },
+  {
+    "id": 8700328839,
+    "watched_at": "2022-12-04T19:42:38Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Wednesday's Child Is Full of Woe",
+      "season": 1,
+      "number": 1,
+      "ids": {
+        "trakt": 4833301,
+        "imdb": "tt14077386",
+        "tmdb": 2738253,
+        "tvdb": 8437958
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "slug": "wednesday",
+        "tvdb": 397060
+      },
+      "runtime": 42,
+      "country": "us",
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "mystery",
+        "comedy"
+      ]
+    }
+  },
+  {
     "id": 8698198835,
     "watched_at": "2022-12-03T16:05:28Z",
     "action": "watch",

@@ -120,6 +120,7 @@ An alphabetically sorted list of blogs, websites and people that I follow. News 
 - [Ricardo Miguel](https://pudesse-eu.tumblr.com/)
 - [Rohan Kumar](https://seirdy.one/atom.xml)
 - [Ru Singh](https://rusingh.com/)
+- [Ryan Barrett](https://snarfed.org)
 - [Sebastiaan Andeweg](https://seblog.nl/feed)
 - [Simon Safar](https://simonsafar.com)
 - [Simon Willison](http://simonwillison.net/)
