@@ -1,33 +1,33 @@
 {{ define "main" }}
-  <link rel="stylesheet" href="{{ .Assets.Path "editor.css" }}">
-  <main role='main' id="editor-page" class='copy'>
+  <link rel='stylesheet' href='{{ .Assets.Path "editor.css" }}'>
+  <main role='main'>
     <header>
       <h1>Edit</h1>
     </header>
 
     <form>
-      <input type="text" disabled value="{{ .Data.Entry.ID }}" />
+      <input type='text' disabled value='{{ .Data.Entry.ID }}' />
     </form>
 
-    <details class="box">
+    <details class='box'>
       <summary>Rename</summary>
       <p><small>Please write the new slug of the post.</small></p>
-      <form method="post">
-        <input type="text" name="rename" placeholder="New ID" value="{{ .Data.Entry.ID }}" required />
+      <form method='post'>
+        <input type='text' name='rename' placeholder='New ID' value='{{ .Data.Entry.ID }}' required />
         <button>Rename</button>
       </form>
     </details>
 
-    <form method="post">
-      <textarea required id=content name=content>{{ .Data.Content }}</textarea>
+    <form method='post'>
+      <textarea required name='content'>{{ .Data.Content }}</textarea>
       <div class=options>
-        <label><input type=checkbox name=lastmod {{ if not .Data.Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
+        <label><input type='checkbox' name='lastmod' {{ if not .Data.Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
       </div>
       {{ include "editor/syndicators" . }}
       <button>Update</button>
     </form>
   </main>
-  <script type="text/javascript" src="{{ .Assets.Path "editor.js" }}"></script>
+  <script type='text/javascript' src='{{ .Assets.Path "editor.js" }}'></script>
 {{ end }}
 
 {{ define "editor" }}

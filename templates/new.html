@@ -1,30 +1,34 @@
 {{ define "main" }}
   <link rel="stylesheet" href="{{ .Assets.Path "editor.css" }}">
-  <main role='main' id="editor-page">
+  <main role='main'>
     <header>
       <h1>New</h1>
     </header>
 
     <p>
-      <strong>Templates:</strong>
-      {{ range .Data.Templates }}
-        <a href="?template={{.}}">{{ . }}</a>
+      <strong>Archetypes:</strong>
+      {{ range .Data.Archetypes }}
+        <a href='?archetype={{.}}'>{{ . }}</a>
       {{ end }}
     </p>
 
-    <form method=POST>
-      <input type="text" required name="id" placeholder="id" value="{{ .Data.ID }}" />
-      <textarea required id=content name="content">{{ .Data.Content }}</textarea>
+    <form method='POST'>
+      <input type='text' name='id' placeholder='Entry ID, e.g.: /2022/10/24/17h06m46s93' value='{{ .Data.ID }}' />
+      <textarea required name='content'>{{ .Data.Content }}</textarea>
+
+      <div class='options'>
+        <label><input type='checkbox' name='published' checked /> With Published Date</label>
+      </div>
 
       <p><strong>Location:</strong></p>
-      <input type="text" name="location" placeholder='Geo URI, or Check-in ID' />
+      <input type='text' name='location' placeholder='Geo URI, or Check-in ID' />
       {{ include "editor/syndicators" . }}
       <button>Create</button>
     </form>
   </main>
-  <script type="text/javascript" src="{{ .Assets.Path "editor.js" }}"></script>
+  <script type='text/javascript' src='{{ .Assets.Path "editor.js" }}'></script>
 
-  <script type="text/javascript" >
+  <script type='text/javascript' >
   navigator.geolocation.getCurrentPosition(function(position) {
     const latitude = (Math.round(position.coords.latitude * 100000) / 100000)
     const longitude = (Math.round(position.coords.longitude * 100000) / 100000)

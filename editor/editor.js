@@ -13,7 +13,7 @@ import { lintKeymap } from '@codemirror/lint'
 import { frontmatter } from '@retronav/ixora'
 
 export function setup () {
-  const textarea = document.getElementById('content')
+  const textarea = document.querySelector('textarea[name=content]')
   if (textarea) {
     const editor = new EditorView({
       doc: textarea.value,
