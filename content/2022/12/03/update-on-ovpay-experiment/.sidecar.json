@@ -2,5 +2,18 @@
   "targets": [
     "https://hacdias.com/2022/11/04/trying-out-ovpay",
     "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "url": "https://seblog.nl/"
+      },
+      "published": "2022-12-04T10:08:46Z",
+      "content": "Seb vindt A Small Update On My OVPay Experiment van Henrique Dias leuk.",
+      "url": "https://seblog.nl/2022/12/04/1/like",
+      "type": "like"
+    }
   ]
 }
