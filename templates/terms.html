@@ -19,7 +19,7 @@
       <div class="terms">
         <ul>
           {{ range (index $grouped.Terms .) }}
-            <li><a href="{{ relURL (printf "/%s/%s" $taxonomy (slugify .Name ) ) }}">{{ .Name }}</a></li>
+            <li><a href="{{ relURL (printf "/%s/%s" $taxonomy (slugify . ) ) }}">{{ . }}</a></li>
           {{ end }}
         </ul>
       </div>
