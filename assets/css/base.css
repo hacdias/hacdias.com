@@ -188,6 +188,7 @@ li {
 }
 
 input,
+select,
 textarea {
   padding: .5rem;
   border: 1px solid var(--light-white);
@@ -199,11 +200,13 @@ textarea {
 }
 
 input:focus,
+select:focus,
 textarea:focus {
   border-color: var(--light-gray);
 }
 
 input:disabled,
+select:disabled,
 textarea:disabled {
   background-color: var(--near-white);
   cursor: not-allowed;

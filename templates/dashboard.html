@@ -58,11 +58,11 @@
 
     <div class="copy">
       <nav class="admin-nav">
-        <a class=nl href="/new">New Post</a>
-        <a class=nl href="/private">Private</a>
-        <a class=nl href="/drafts">Drafts</a>
-        <a class=nl href="/unlisted">Unlisted</a>
-        <a class=nl href="/deleted">Deleted</a>
+        <a class=nl href="/new">📄 New</a>
+        <a class=nl href="/private">🔒 Private</a>
+        <a class=nl href="/drafts">🗃️ Drafts</a>
+        <a class=nl href="/unlisted">🙈 Unlisted</a>
+        <a class=nl href="/deleted">🗑️ Deleted</a>
       </nav>
 
       <h2>Actions</h2>
@@ -81,21 +81,20 @@
         <div class="box">✅ Success!</div>
       {{ end }}
 
-      <h2>Generate Token</h2>
+      <h2>Token</h2>
 
-      <form id="token" method=POST>
-        <input type="hidden" name="token" value="true" />
-        <input required type="url" name="client_id" placeholder="Client ID">
-        <input required type="text" name="scope" placeholder="Scope">
+      <form id='token' method='post'>
+        <input type='hidden' name='token' value='true' />
+        <input required type='url' name='client_id' placeholder='Client ID'>
+        <input required type='text' name='scope' placeholder='Scope'>
 
-        <p><strong>Token Expiry</strong></p>
-
-        <ol>
-          <li><label><input type="radio" name="expiry" value="7" checked> 1 Week</label></li>
-          <li><label><input type="radio" name="expiry" value="90"> 3 Months</label></li>
-          <li><label><input type="radio" name="expiry" value="180"> 6 Months</label></li>
-          <li><label><input type="radio" name="expiry" value="0"> Infinity</label></li>
-        </ol>
+        <select name='expiry' style='width: 100%'>
+          <option value='' disabled selected hidden>Expiry</option>
+          <option value='7'>1 Week</option>
+          <option value='90'>3 Months</option>
+          <option value='180'>6 Months</option>
+          <option value='0'>Infinity</option>
+        </select>
 
         <button>Submit</button>
       </form>
@@ -118,15 +117,6 @@
 
         <button>Submit</button>
       </form>
-
-      <h2>Bookmarklets</h2>
-
-      <ul>
-        <li><a class=tag href="javascript:window.location='https://hacdias.com/new?properties.like-of='+encodeURIComponent(location.href)">Like</a></li>
-        <li><a class=tag href="javascript:window.location='https://hacdias.com/new?properties.repost-of='+encodeURIComponent(location.href)">Repost</a></li>
-        <li><a class=tag href="javascript:window.location='https://hacdias.com/new?properties.in-reply-to='+encodeURIComponent(location.href)+'&content='+encodeURIComponent(window.getSelection());">Reply</a></li>
-        <li><a class=tag href="javascript:window.location='https://hacdias.com/new?properties.bookmark-of='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)+'&content='+encodeURIComponent(window.getSelection());">Bookmark</a></li>
-      </ul>
     </div>
   </main>
 {{ end }}
