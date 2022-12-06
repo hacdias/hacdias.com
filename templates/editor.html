@@ -1,10 +1,6 @@
 {{ define "main" }}
   <link rel='stylesheet' href='{{ .Assets.Path "editor.css" }}'>
   <main role='main'>
-    <header>
-      <h1>Edit</h1>
-    </header>
-
     <form>
       <input type='text' disabled value='{{ .Data.Entry.ID }}' />
     </form>
