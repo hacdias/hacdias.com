@@ -14,6 +14,25 @@
       </form>
     </details>
 
+    <details class='box'>
+      <summary>ActivityPub</summary>
+      <p><small>Please choose which Activity type to send.</small></p>
+
+      <form method='post' action='/activitypub/manual'>
+        <input required type="hidden" name="id" value='{{ .Data.Entry.ID }}'>
+        <select name='action' style='width: 100%'>
+          <option value='' selected disabled hidden>Activity</option>
+          <option value='announce'>Announce</option>
+          <option value='create'>Create</option>
+          <option value='delete'>Delete</option>
+          <option value='like'>Like</option>
+          <option value='update'>Update</option>
+          <option value='undo'>Undo</option>
+        </select>
+        <button>Send</button>
+      </form>
+    </details>
+
     <form method='post'>
       <textarea required name='content'>{{ .Data.Content }}</textarea>
       <div class=options>
