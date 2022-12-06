@@ -5,29 +5,16 @@
     </header>
 
     <style>
-    form#token button,
-    form#token input {
+    form#token > * {
       display: block;
       width: 100%;
       margin: 0.5rem 0;
     }
 
-    form#token input[type="radio"] {
-      display: inline;
-      width: auto;
-    }
-
-    .copy ol {
-      list-style: none;
-      padding-left: 1rem;
-    }
-
-    .copy ol input {
-      margin-right: 0.5rem;
-    }
-
-    .copy ol label {
-      text-transform: capitalize;
+    .grid {
+      display: grid;
+      grid-gap: 0.5rem;
+      grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
     }
 
     .copy pre {
@@ -67,15 +54,14 @@
 
       <h2>Actions</h2>
 
-      <form method=POST>
-        <ol>
-          {{ range .Data.Actions }}
-            <li><label><input type="radio" name="action" value="{{ . }}" /> {{ . }}</label></li>
-          {{ end }}
-        </ol>
-
-        <button>Do</button>
-      </form>
+      <div class='grid'>
+        {{ range .Data.Actions }}
+        <form method=POST>
+          <input type='hidden' name='action' value='{{ . }}' />
+          <button style='width: 100%'>{{ . }}</button>
+        </form>
+        {{ end }}
+      </div>
 
       {{ if .Data.Success }}
         <div class="box">✅ Success!</div>
@@ -87,15 +73,13 @@
         <input type='hidden' name='token' value='true' />
         <input required type='url' name='client_id' placeholder='Client ID'>
         <input required type='text' name='scope' placeholder='Scope'>
-
-        <select name='expiry' style='width: 100%'>
+        <select name='expiry'>
           <option value='' disabled selected hidden>Expiry</option>
           <option value='7'>1 Week</option>
           <option value='90'>3 Months</option>
           <option value='180'>6 Months</option>
           <option value='0'>Infinity</option>
         </select>
-
         <button>Submit</button>
       </form>
 
