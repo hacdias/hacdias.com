@@ -1,5 +1,4 @@
 ---
-description: A note
 published: 2022-11-17T10:20:02.668727994+01:00
 updated: 2022-11-17T12:18:48.399767404+01:00
 section:

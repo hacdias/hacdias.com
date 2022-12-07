@@ -1,5 +1,4 @@
 ---
-description: A photo
 published: 2022-11-17T16:47:11.47490215+01:00
 section:
 - notes

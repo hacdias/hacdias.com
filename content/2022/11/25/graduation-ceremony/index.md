@@ -1,5 +1,4 @@
 ---
-description: A photo
 deleted: true
 published: 2022-11-25T16:46:14+01:00
 section:

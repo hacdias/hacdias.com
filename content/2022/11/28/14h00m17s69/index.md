@@ -1,5 +1,4 @@
 ---
-description: A note
 published: 2022-11-28T14:00:17.698612824+01:00
 section:
 - micro
