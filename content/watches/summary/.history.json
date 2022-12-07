@@ -1,5 +1,113 @@
 [
   {
+    "id": 8705809978,
+    "watched_at": "2022-12-07T21:07:00Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "You Reap What You Woe",
+      "season": 1,
+      "number": 5,
+      "ids": {
+        "trakt": 6621512,
+        "imdb": "tt14077402",
+        "tmdb": 3901541,
+        "tvdb": 9302843
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "slug": "wednesday",
+        "tvdb": 397060
+      },
+      "runtime": 42,
+      "country": "us",
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "mystery",
+        "comedy"
+      ]
+    }
+  },
+  {
+    "id": 8705809812,
+    "watched_at": "2022-12-07T21:06:48Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Woe What a Night",
+      "season": 1,
+      "number": 4,
+      "ids": {
+        "trakt": 6621511,
+        "imdb": "tt14077400",
+        "tmdb": 3901540,
+        "tvdb": 9302842
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "slug": "wednesday",
+        "tvdb": 397060
+      },
+      "runtime": 42,
+      "country": "us",
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "mystery",
+        "comedy"
+      ]
+    }
+  },
+  {
+    "id": 8705809770,
+    "watched_at": "2022-12-07T21:06:43Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Friend or Woe",
+      "season": 1,
+      "number": 3,
+      "ids": {
+        "trakt": 6621510,
+        "imdb": "tt14077396",
+        "tmdb": 3901539,
+        "tvdb": 9302841
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "slug": "wednesday",
+        "tvdb": 397060
+      },
+      "runtime": 42,
+      "country": "us",
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "mystery",
+        "comedy"
+      ]
+    }
+  },
+  {
     "id": 8700329414,
     "watched_at": "2022-12-04T19:42:56Z",
     "action": "watch",

@@ -102,7 +102,6 @@ An alphabetically sorted list of blogs, websites and people that I follow. News 
 - [Jethro Kuan](https://blog.jethro.dev/)
 - [Jim Nielsen](https://blog.jim-nielsen.com)
 - [Julia Evans](http://jvns.ca)
-- [Malik's Blog](https://moonwith.com/)
 - [Marios Fakiolas](https://mariosfakiolas.com/)
 - [Marius Schulz](https://mariusschulz.com/)
 - [Martin Borchert](https://mew.tv/)
