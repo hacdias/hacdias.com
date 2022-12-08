@@ -1,5 +1,113 @@
 [
   {
+    "id": 8707428514,
+    "watched_at": "2022-12-08T21:21:31Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "A Murder of Woes",
+      "season": 1,
+      "number": 8,
+      "ids": {
+        "trakt": 6621515,
+        "imdb": "tt14077406",
+        "tmdb": 3901544,
+        "tvdb": 9302846
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "slug": "wednesday",
+        "tvdb": 397060
+      },
+      "runtime": 42,
+      "country": "us",
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "mystery",
+        "comedy"
+      ]
+    }
+  },
+  {
+    "id": 8707428477,
+    "watched_at": "2022-12-08T21:21:28Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "If You Don’t Woe Me by Now",
+      "season": 1,
+      "number": 7,
+      "ids": {
+        "trakt": 6621514,
+        "imdb": "tt14077408",
+        "tmdb": 3901543,
+        "tvdb": 9302845
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "slug": "wednesday",
+        "tvdb": 397060
+      },
+      "runtime": 42,
+      "country": "us",
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "mystery",
+        "comedy"
+      ]
+    }
+  },
+  {
+    "id": 8707428450,
+    "watched_at": "2022-12-08T21:21:24Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Quid Pro Woe",
+      "season": 1,
+      "number": 6,
+      "ids": {
+        "trakt": 6621513,
+        "imdb": "tt14077404",
+        "tmdb": 3901542,
+        "tvdb": 9302844
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "slug": "wednesday",
+        "tvdb": 397060
+      },
+      "runtime": 42,
+      "country": "us",
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "mystery",
+        "comedy"
+      ]
+    }
+  },
+  {
     "id": 8705809978,
     "watched_at": "2022-12-07T21:07:00Z",
     "action": "watch",
@@ -1095,7 +1203,8 @@
       "ids": {
         "trakt": 6650110,
         "imdb": "tt15317936",
-        "tmdb": 3917651
+        "tmdb": 3917651,
+        "tvdb": 9325092
       }
     },
     "show": {
@@ -1130,7 +1239,8 @@
       "ids": {
         "trakt": 6650109,
         "imdb": "tt15317940",
-        "tmdb": 3917648
+        "tmdb": 3917648,
+        "tvdb": 9325091
       }
     },
     "show": {
@@ -1165,7 +1275,8 @@
       "ids": {
         "trakt": 6650108,
         "imdb": "tt15317938",
-        "tmdb": 3917646
+        "tmdb": 3917646,
+        "tvdb": 9325090
       }
     },
     "show": {
@@ -1200,7 +1311,8 @@
       "ids": {
         "trakt": 6650107,
         "imdb": "tt15317928",
-        "tmdb": 3917644
+        "tmdb": 3917644,
+        "tvdb": 9325089
       }
     },
     "show": {
@@ -1235,7 +1347,8 @@
       "ids": {
         "trakt": 6650106,
         "imdb": "tt15317896",
-        "tmdb": 3917643
+        "tmdb": 3917643,
+        "tvdb": 9325088
       }
     },
     "show": {
@@ -1270,7 +1383,8 @@
       "ids": {
         "trakt": 6650105,
         "imdb": "tt15317898",
-        "tmdb": 3917641
+        "tmdb": 3917641,
+        "tvdb": 9325087
       }
     },
     "show": {
@@ -1305,7 +1419,8 @@
       "ids": {
         "trakt": 6650104,
         "imdb": "tt15317900",
-        "tmdb": 3917639
+        "tmdb": 3917639,
+        "tvdb": 9325086
       }
     },
     "show": {
@@ -1340,7 +1455,8 @@
       "ids": {
         "trakt": 6650103,
         "imdb": "tt15317904",
-        "tmdb": 3917638
+        "tmdb": 3917638,
+        "tvdb": 9325085
       }
     },
     "show": {
@@ -1375,7 +1491,8 @@
       "ids": {
         "trakt": 6650102,
         "imdb": "tt15317894",
-        "tmdb": 3917635
+        "tmdb": 3917635,
+        "tvdb": 9325084
       }
     },
     "show": {
@@ -1578,7 +1695,8 @@
       "ids": {
         "trakt": 6586394,
         "imdb": "tt15317868",
-        "tmdb": 3785272
+        "tmdb": 3785272,
+        "tvdb": 9325082
       }
     },
     "show": {

@@ -390,6 +390,12 @@
     "category": "following"
   },
   {
+    "title": "Tim Hårek",
+    "site": "https://timharek.no",
+    "feed": "https://timharek.no/rss.xml",
+    "category": "following"
+  },
+  {
     "title": "Tom MacWright",
     "site": "https://macwright.com",
     "feed": "https://macwright.com/rss.xml",

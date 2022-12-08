@@ -128,6 +128,7 @@ An alphabetically sorted list of blogs, websites and people that I follow. News 
 - [Terence Eden](https://shkspr.mobi/blog)
 - [The Morning Paper](https://blog.acolyer.org)
 - [The Whimsical Web](https://whimsical.club)
+- [Tim Hårek](https://timharek.no)
 - [Tom MacWright](https://macwright.com)
 - [Volker Mische](http://vmx.cx/cgi-bin/blog/index.cgi)
 - [Xe](https://xeiaso.net/)
