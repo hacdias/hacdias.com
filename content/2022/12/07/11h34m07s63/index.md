@@ -1,7 +1,6 @@
 ---
 published: 2022-12-07T11:34:07.632083425+01:00
 section:
-- photos
 - home
 createdWith: https://micropublish.net/
 properties:
