@@ -2,7 +2,7 @@
 title: Watches Summary
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-updated: 2022-12-09T00:00:52.066341469+01:00
+updated: 2022-12-10T00:00:47.147972933+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -25,12 +25,12 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 
 <div class='box'>
 
-- Wednesday <small>last watched in December 2022</small>
 - One of Us Is Lying <small>last watched in December 2022</small>
+- Kurzgesagt - In a Nutshell <small>last watched in December 2022</small>
+- Wednesday <small>last watched in December 2022</small>
 - The Good Doctor <small>last watched in December 2022</small>
 - 1899 <small>last watched in December 2022</small>
 - RuPaul's Drag Race UK <small>last watched in November 2022</small>
-- Kurzgesagt - In a Nutshell <small>last watched in November 2022</small>
 - Elite <small>last watched in November 2022</small>
 - The Watcher <small>last watched in November 2022</small>
 - Manifest <small>last watched in November 2022</small>
@@ -164,6 +164,7 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 
 <div class='box'>
 
+- The Menu <small>last watched in December 2022</small>
 - Making 1899 <small>last watched in December 2022</small>
 - Disenchanted <small>last watched in November 2022</small>
 - Uncharted <small>last watched in October 2022</small>
@@ -526,8 +527,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - The Twilight Saga: Eclipse <small>last watched in July 2015</small>
 - The Twilight Saga: Breaking Dawn - Part 1 <small>last watched in July 2015</small>
 - The Twilight Saga: New Moon <small>last watched in July 2015</small>
-- The Twilight Saga: Breaking Dawn - Part 2 <small>last watched in July 2015</small>
 - Twilight <small>last watched in July 2015</small>
+- The Twilight Saga: Breaking Dawn - Part 2 <small>last watched in July 2015</small>
 - Transformers <small>last watched in July 2015</small>
 - Transformers: Revenge of the Fallen <small>last watched in July 2015</small>
 - Transformers: Age of Extinction <small>last watched in July 2015</small>
@@ -545,13 +546,13 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Harry Potter and the Chamber of Secrets <small>last watched in July 2015</small>
 - Harry Potter and the Order of the Phoenix <small>last watched in July 2015</small>
 - Harry Potter and the Half-Blood Prince <small>last watched in July 2015</small>
-- Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
 - Harry Potter and the Goblet of Fire <small>last watched in July 2015</small>
+- Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 1 <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 2 <small>last watched in July 2015</small>
 - The Hunger Games <small>last watched in July 2015</small>
-- Harry Potter and the Prisoner of Azkaban <small>last watched in July 2015</small>
 - The Hunger Games: Mockingjay - Part 1 <small>last watched in July 2015</small>
+- Harry Potter and the Prisoner of Azkaban <small>last watched in July 2015</small>
 - The Hunger Games: Catching Fire <small>last watched in July 2015</small>
 - Project Almanac <small>last watched in July 2015</small>
 - Furious 7 <small>last watched in April 2015</small>
@@ -581,9 +582,9 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Tarzan <small>last watched in October 2008</small>
 - The Incredible Hulk <small>last watched in June 2008</small>
 - The Chronicles of Narnia: Prince Caspian <small>last watched in May 2008</small>
-- The Lion King <small>last watched in January 2008</small>
 - The Secret of NIMH <small>last watched in January 2008</small>
 - Pocahontas <small>last watched in January 2008</small>
+- The Lion King <small>last watched in January 2008</small>
 - Shrek the Halls <small>last watched in November 2007</small>
 - Surf's Up <small>last watched in June 2007</small>
 - The Lion King II: Simba's Pride <small>last watched in May 2007</small>

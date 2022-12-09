@@ -1,5 +1,94 @@
 [
   {
+    "id": 8709014586,
+    "watched_at": "2022-12-09T20:46:13Z",
+    "action": "watch",
+    "type": "movie",
+    "movie": {
+      "title": "The Menu",
+      "year": 2022,
+      "ids": {
+        "trakt": 439843,
+        "imdb": "tt9764362",
+        "tmdb": 593643,
+        "slug": "the-menu-2022"
+      },
+      "runtime": 107,
+      "country": "us",
+      "genres": [
+        "horror",
+        "comedy",
+        "thriller"
+      ]
+    }
+  },
+  {
+    "id": 8708764952,
+    "watched_at": "2022-12-09T17:20:22Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Simon Says Let's Get Personal",
+      "season": 2,
+      "number": 3,
+      "ids": {
+        "trakt": 6753969,
+        "imdb": "tt22871574",
+        "tmdb": 3982207,
+        "tvdb": 9234326
+      }
+    },
+    "show": {
+      "title": "One of Us Is Lying",
+      "year": 2021,
+      "ids": {
+        "trakt": 160503,
+        "imdb": "tt8354062",
+        "tmdb": 118958,
+        "slug": "one-of-us-is-lying",
+        "tvdb": 380210
+      },
+      "runtime": 48,
+      "country": "us",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
+    }
+  },
+  {
+    "id": 8708328475,
+    "watched_at": "2022-12-09T08:33:11Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "The Most Brutal Ant: The Slaver Ant Polyergus",
+      "season": 10,
+      "number": 15,
+      "ids": {
+        "trakt": 6946185,
+        "imdb": "",
+        "tmdb": 4091383
+      }
+    },
+    "show": {
+      "title": "Kurzgesagt - In a Nutshell",
+      "year": 2013,
+      "ids": {
+        "trakt": 94377,
+        "imdb": "tt6169222",
+        "tmdb": 94600,
+        "slug": "kurzgesagt-in-a-nutshell",
+        "tvdb": 287953
+      },
+      "runtime": 10,
+      "country": "de",
+      "genres": [
+        "documentary"
+      ]
+    }
+  },
+  {
     "id": 8707428514,
     "watched_at": "2022-12-08T21:21:31Z",
     "action": "watch",
