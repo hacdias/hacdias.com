@@ -9,7 +9,6 @@ section:
 properties:
   syndication:
   - https://twitter.com/hacdias/status/1267207180698169345
-  - https://www.reddit.com/r/hnblogs/comments/gu7h0v/back_to_the_90s/
 taxonomies:
   tags:
   - meta
