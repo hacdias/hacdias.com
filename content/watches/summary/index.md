@@ -2,7 +2,7 @@
 title: Watches Summary
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-updated: 2022-12-10T00:00:47.147972933+01:00
+updated: 2022-12-11T00:01:02.658445417+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -546,14 +546,14 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - Harry Potter and the Chamber of Secrets <small>last watched in July 2015</small>
 - Harry Potter and the Order of the Phoenix <small>last watched in July 2015</small>
 - Harry Potter and the Half-Blood Prince <small>last watched in July 2015</small>
-- Harry Potter and the Goblet of Fire <small>last watched in July 2015</small>
 - Harry Potter and the Philosopher's Stone <small>last watched in July 2015</small>
+- Harry Potter and the Goblet of Fire <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 1 <small>last watched in July 2015</small>
 - Harry Potter and the Deathly Hallows: Part 2 <small>last watched in July 2015</small>
 - The Hunger Games <small>last watched in July 2015</small>
 - The Hunger Games: Mockingjay - Part 1 <small>last watched in July 2015</small>
-- Harry Potter and the Prisoner of Azkaban <small>last watched in July 2015</small>
 - The Hunger Games: Catching Fire <small>last watched in July 2015</small>
+- Harry Potter and the Prisoner of Azkaban <small>last watched in July 2015</small>
 - Project Almanac <small>last watched in July 2015</small>
 - Furious 7 <small>last watched in April 2015</small>
 - Frida <small>last watched in April 2014</small>
@@ -583,8 +583,8 @@ This is an extensive list of movies 🎬 and TV shows 📺 I've watched or that 
 - The Incredible Hulk <small>last watched in June 2008</small>
 - The Chronicles of Narnia: Prince Caspian <small>last watched in May 2008</small>
 - The Secret of NIMH <small>last watched in January 2008</small>
-- Pocahontas <small>last watched in January 2008</small>
 - The Lion King <small>last watched in January 2008</small>
+- Pocahontas <small>last watched in January 2008</small>
 - Shrek the Halls <small>last watched in November 2007</small>
 - Surf's Up <small>last watched in June 2007</small>
 - The Lion King II: Simba's Pride <small>last watched in May 2007</small>

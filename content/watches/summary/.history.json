@@ -1,5 +1,175 @@
 [
   {
+    "id": 8710652324,
+    "watched_at": "2022-12-10T21:49:59Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Simon Says Game Over",
+      "season": 2,
+      "number": 8,
+      "ids": {
+        "trakt": 6792907,
+        "imdb": "tt22871598",
+        "tmdb": 4004994,
+        "tvdb": 9344368
+      }
+    },
+    "show": {
+      "title": "One of Us Is Lying",
+      "year": 2021,
+      "ids": {
+        "trakt": 160503,
+        "imdb": "tt8354062",
+        "tmdb": 118958,
+        "slug": "one-of-us-is-lying",
+        "tvdb": 380210
+      },
+      "runtime": 48,
+      "country": "us",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
+    }
+  },
+  {
+    "id": 8710652277,
+    "watched_at": "2022-12-10T21:49:55Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Simon Says Time Out",
+      "season": 2,
+      "number": 7,
+      "ids": {
+        "trakt": 6792903,
+        "imdb": "tt22871596",
+        "tmdb": 4004993,
+        "tvdb": 9344367
+      }
+    },
+    "show": {
+      "title": "One of Us Is Lying",
+      "year": 2021,
+      "ids": {
+        "trakt": 160503,
+        "imdb": "tt8354062",
+        "tmdb": 118958,
+        "slug": "one-of-us-is-lying",
+        "tvdb": 380210
+      },
+      "runtime": 48,
+      "country": "us",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
+    }
+  },
+  {
+    "id": 8710652024,
+    "watched_at": "2022-12-10T21:49:41Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Simon Says You Better Pray",
+      "season": 2,
+      "number": 6,
+      "ids": {
+        "trakt": 6792900,
+        "imdb": "tt22871592",
+        "tmdb": 4004992,
+        "tvdb": 9344366
+      }
+    },
+    "show": {
+      "title": "One of Us Is Lying",
+      "year": 2021,
+      "ids": {
+        "trakt": 160503,
+        "imdb": "tt8354062",
+        "tmdb": 118958,
+        "slug": "one-of-us-is-lying",
+        "tvdb": 380210
+      },
+      "runtime": 48,
+      "country": "us",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
+    }
+  },
+  {
+    "id": 8710651890,
+    "watched_at": "2022-12-10T21:49:38Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Simon Says Ho Ho Ho!",
+      "season": 2,
+      "number": 5,
+      "ids": {
+        "trakt": 6792897,
+        "imdb": "tt22871586",
+        "tmdb": 4004991,
+        "tvdb": 9344365
+      }
+    },
+    "show": {
+      "title": "One of Us Is Lying",
+      "year": 2021,
+      "ids": {
+        "trakt": 160503,
+        "imdb": "tt8354062",
+        "tmdb": 118958,
+        "slug": "one-of-us-is-lying",
+        "tvdb": 380210
+      },
+      "runtime": 48,
+      "country": "us",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
+    }
+  },
+  {
+    "id": 8709759872,
+    "watched_at": "2022-12-10T08:11:31Z",
+    "action": "watch",
+    "type": "episode",
+    "episode": {
+      "title": "Simon Says Gotcha!",
+      "season": 2,
+      "number": 4,
+      "ids": {
+        "trakt": 6753970,
+        "imdb": "tt22871580",
+        "tmdb": 3982208,
+        "tvdb": 9234329
+      }
+    },
+    "show": {
+      "title": "One of Us Is Lying",
+      "year": 2021,
+      "ids": {
+        "trakt": 160503,
+        "imdb": "tt8354062",
+        "tmdb": 118958,
+        "slug": "one-of-us-is-lying",
+        "tvdb": 380210
+      },
+      "runtime": 48,
+      "country": "us",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
+    }
+  },
+  {
     "id": 8709014586,
     "watched_at": "2022-12-09T20:46:13Z",
     "action": "watch",
