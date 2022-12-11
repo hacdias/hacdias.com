@@ -17,18 +17,6 @@ properties:
   read-status:
   - date: "2022-01-26T21:13:15.710026895+01:00"
     status: finished
-  - date: "2022-01-26T18:34:46.031079959Z"
-    page: 180
-    status: reading
-  - date: "2022-01-26T12:59:09.917546276Z"
-    page: 134
-    status: reading
-  - date: "2022-01-25T22:32:37.171517029Z"
-    page: 108
-    status: reading
-  - date: "2022-01-24T23:16:44.015603395Z"
-    page: 56
-    status: reading
   - date: "2022-01-23T22:19:51.757879201Z"
     status: reading
   - date: "2022-01-17T18:35:06.604346225Z"

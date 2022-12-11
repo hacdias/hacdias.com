@@ -18,11 +18,7 @@ properties:
   read-status:
   - date: "2022-05-30T18:42:58.414602807+02:00"
     status: finished
-  - date: "2022-05-28T23:27:40.997026015+02:00"
-    page: 157
-    status: reading
   - date: "2022-05-18T14:37:45.324640162+02:00"
-    page: 22
     status: reading
   - date: "2022-04-08T09:41:54.018493558+02:00"
     status: to-read

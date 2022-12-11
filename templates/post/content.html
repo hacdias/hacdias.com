@@ -25,17 +25,9 @@
               {{ else if eq .status "finished" }}
                 📕 Finished
               {{ else if eq .status "reading" }}
-                {{ $page := index . "page" }}
-                {{ $percentage := index  . "percentage" }}
-                {{ if $page }}
-                  📖 On page {{ $page }}
-                {{ else if $percentage }}
-                  📖 Read {{ $percentage }}%
-                {{ else }}
-                  📖 Reading
-                {{ end }}
+                📖 Reading
               {{ end }}
-              {{ with .date }}<small>on {{ dateFormat . "02 Jan 2006 15:04 MST" }}</small>{{ end }}
+              {{ with .date }}<small>on {{ dateFormat . "02 Jan 2006" }}</small>{{ end }}
             </li>
             {{ end }}
           </ul>

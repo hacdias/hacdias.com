@@ -20,7 +20,6 @@ properties:
   - date: "2022-03-23T19:06:51.132363451+01:00"
     status: finished
   - date: "2022-02-20T23:26:11.814851459+01:00"
-    page: 68
     status: reading
   - date: "2022-01-25T13:58:17.633701533Z"
     status: to-read
