@@ -49,8 +49,6 @@
     {{ include "post/header/ate" . }}
   {{ else if eq $type "watch" }}
     {{ include "post/header/watched" . }}
-  {{ else if eq $type "listen" }}
-    {{ include "post/header/listened" . }}
   {{ else if eq $type "itinerary" }}
     {{ include "post/header/itinerary" . }}
   {{ else if eq $type "rsvp" }}
