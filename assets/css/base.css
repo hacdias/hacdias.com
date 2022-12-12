@@ -607,16 +607,6 @@ figure.album img {
   white-space: pre;
 }
 
-.scrobbles-log ul {
-  list-style: none;
-  padding-left: 1rem;
-}
-
-.scrobbles-log time {
-  font-weight: bold;
-  color: var(--accent);
-}
-
 @media screen and (max-width: 52rem) {
   :root {
     --ls: 1rem;
