@@ -2,6 +2,7 @@
 title: What is the Small Web? – Aral Balkan
 description: Bookmarked a post on ar.al
 published: 2022-08-16T23:48:24.160836791+02:00
+updated: 2022-12-13T11:42:17.080099551+01:00
 section:
 - bookmarks
 createdWith: https://micropublish.net/
@@ -13,4 +14,4 @@ taxonomies:
   - small-web
 ---
 
-
+An article by Aral Balkan where they compare the state of the current web, the big web, with the web of the people, introducing the concept of "small web".

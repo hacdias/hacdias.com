@@ -1,7 +1,7 @@
 ---
 title: Links
 published: 2021-01-21T16:51:13.878159548+01:00
-updated: 2022-11-06T11:00:14.927303+01:00
+updated: 2022-12-13T11:44:50.75943461+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -9,11 +9,6 @@ noSendInteractions: true
 In this page, you can find a collection of different links I collected over the years. This can be links to nicely written posts about a topic that I found very intriguing, or just a website that evoked some emotions in me. In addition, I also have a less curated [bookmarks](/bookmarks) page.
 
 <!--more-->
-
-## 📰 Articles {#articles}
-
-- **[How NAT traversal works](/2022/08/20/jjoteyswgo)** - this is an article by Tailscale that explains ho NAT traversal works and the different algorithms they employ in order to reach the majority of the internet.
-- **[What is the Small Web?](/2022/08/16/mgjmonrbrl)** – this is an article by Aral Balkan where they compare the state of the current web, the big web, with the web of the people. It introduces the concept of "small web".
 
 ## 🫂 Friends and Acquaintances {#friends}
 
@@ -44,13 +39,6 @@ These are some websites that inspired mine in some way, such as in design, in co
 - [The Big List of Personal Websites](http://biglist.terraaeon.com/)
 - [PersonalSit.es](https://personalsit.es/)
 - [Darek Kay’s Blogroll](https://darekkay.com/personal-blogs/)
-
-## 🕸 Old Websites {#old-websites}
-
-- **[Interrupt Technology Corporation](/2021/11/15/eabhtxekno)** - a preserved version of a website that has been running since 1986, being one of the oldest websites still running today.
-- **[Old Internet Files](/2021/11/15/tiurcwjimy)** - a preserved version of a website with old internet files, such as zone files, hosts information and domains information.
-- **[Nathan's Toasty Technology Page](/2021/11/15/ixnpwkpprm)** - a very random website with very random things and screenshots from old software.
-- **[The World Wide Web History Project](/2021/11/15/yvlbsiplct)** - a preserved website that was nominated Cool Site of the Year in 1997, which explains what is the World Wide Web.
 
 ## 🧻 Blogroll {#blogroll}
 
