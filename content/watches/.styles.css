@@ -2,6 +2,33 @@
   --accent: #c0749d;
 }
 
+.box {
+  max-height: 50vh;
+  overflow: auto;
+}
+
+.logs > div {
+  padding: var(--hms) 0;
+}
+
+.logs .h-entry {
+  display: grid;
+  grid-template-columns: auto 6rem 5rem;
+  grid-gap: 1rem;
+  border-bottom: 1px solid var(--accent);
+  align-items: center;
+}
+
+.logs .header {
+  border-bottom: 2px solid var(--accent);
+}
+
+.logs > div.header > span:first-of-type {
+  font-size: var(--f3);
+  color: var(--accent);
+  font-weight: bold;
+}
+
 @media screen and (min-width: 52rem) {
   body {
     background: #48084f url(/watches/pattern.jpeg);

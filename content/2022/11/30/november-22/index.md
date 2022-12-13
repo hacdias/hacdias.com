@@ -16,7 +16,11 @@ November has been a pretty intensive month in many different regards: from my pa
 
 We got the keys 🗝️ for the new apartment on the 8th of November. So far, so good. We've painted over the first weekend and then a bit more during the week. Then, we got the floor done and finally moved in. Since then, we've been building furniture, cleaning up and organizing everything. It's been pretty intensive and tiring, but extremely rewardful. I do not have pictures to share yet, but I will soon when everything looks more put together.
 
-A few days later, I went to Amsterdam to see [Tove Lo](/2022/11/13/dirt-femme-tour) live, which was quite amazing. Not long after, I went back to Amsterdam, but this time to see the live performance of [Trixie & Katya](/2022/11/16/trixie-and-katya-live). Both the concert and the show were very nice and I'm very grateful for going to both.
+A few days later, I went to Amsterdam to see Tove Lo live, which was quite amazing. Just like what happened when I went to see MØ, I didn't know that many songs from Tove Lo. However, I am now addicted to them. She has some very nice songs that I would recommend if you like the genre.
+
+![Dirt Femme Tour](cdn:/e945853a35d738b002ce45464f90c13c4bd0a51bdcc7687eb762333da6922ce2?class=fw)
+
+Not long after, I went back to Amsterdam, but this time to see the live performance of [Trixie & Katya](/2022/11/16/trixie-and-katya-live).E ye-conic. Lots of fun, quite unexpected and incomprehensible. A bit more scripted than I wish. Nevertheless, it was very very good. Both the concert and the show were very nice and I'm very grateful for going to both.
 
 Around the same time we got the keys, the [GLOW Festival](https://gloweindhoven.nl/) happened in Eindhoven. The GLOW Festival is a light festival that usually happens every year in November in Eindhoven. They brought back the walking route, since there are no more Covid-19 restrictions this year. It was quite nice. [Sebastiaan](https://seblog.nl/) joined for a walk with Chris and I and we got some nice oliebollen, as well as glühwein 🍷.
 
