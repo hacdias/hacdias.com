@@ -39,12 +39,12 @@ This website contains more things than it looks at first glance. This page is a 
 <div class='terms grid bold'>
 
 - [🧁 About](/about)
+- [🗞️ Blogroll](/blogroll)
 - [⚙️ Colophon](/colophon)
 - [✉️ Contact](/contact)
 - [🎮 Games](/games)
 - [📖 Guestbook](/guestbook)
 - [🚀 Impossible List](/impossible-list)
-- [📌 Links](/blogroll)
 - [🔎 Search](/search)
 - [🛠 Uses](/uses)
 - [🏷 Tags](/tags)

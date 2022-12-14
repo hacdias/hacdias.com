@@ -1,22 +1,12 @@
 ---
 title: Blogroll
-published: 2021-01-21T16:51:13.878159548+01:00
-updated: 2022-12-14T11:34:54.425465786+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
 
-<div class="box">
-
-🚧 This page is a work in progress.
-
-</div>
-
-In this page, you can find a collection of different links I collected over the years. This can be links to nicely written posts about a topic that I found very intriguing, or just a website that evoked some emotions in me. In addition, I also have a less curated [bookmarks](/bookmarks) page.
+In this page, you can find an alphabetically sorted list of blogs, websites and people that I follow. Some types of websites, such as newspapers, I do not include. This list is automatically updated every day with new data from my [Miniflux](https://miniflux.app/) instance. For other kinds of links, I also have [bookmarks](/bookmarks) page.
 
 <!--more-->
-
-An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
 
 <style>
   #blogroll ul {
