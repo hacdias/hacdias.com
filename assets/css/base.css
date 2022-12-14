@@ -615,8 +615,11 @@ figure.album img {
   display: grid;
   grid-template-columns: auto 10rem 6rem 5rem;
   grid-gap: 1rem;
-  border-bottom: 1px solid var(--accent);
   align-items: center;
+}
+
+.logs .e:not(:last-of-type) {
+  border-bottom: var(--border) solid var(--accent);
 }
 
 .logs .e:hover {
@@ -628,10 +631,10 @@ figure.album img {
 }
 
 .logs .h {
-  border-bottom: 2px solid var(--accent);
   position: sticky;
   top: 0;
   background: var(--near-white);
+  border-bottom: calc(2 * var(--border)) solid var(--accent);
 }
 
 .logs .h span:first-of-type {
