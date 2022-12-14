@@ -1,0 +1,30 @@
+{{ define "logs" }}
+  <div class='box logs'>
+  {{ $byYear := .ByYear }}
+
+  {{ range $byYear.Years }}
+    <div>
+      {{ $year := . }}
+      {{ $logs := index $byYear.Map $year }}
+
+      <div class='h'>
+        <span>{{ if eq $year 1 }}Others{{ else }}{{ $year }}{{ end }}</span>
+        <span>({{ len $logs }} entries)</span>
+      </div>
+
+      {{ with $logs }}
+        {{ range . }}
+          {{ with .URL }}<a href='{{ . }}' class='nl'>{{ end }}
+          <div class='e'>
+            <div>{{ .Name }}{{ with .Season }} (Season {{. }}){{ end }}</div>
+            <div>{{ .Author }}</div>
+            <time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time>
+            <div>{{ with .Rating }}{{ stars . 5 }}{{ end }}</div>
+          </div>
+          {{ with .URL }}</a>{{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+{{ end }}

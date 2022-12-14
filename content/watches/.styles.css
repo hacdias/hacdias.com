@@ -2,34 +2,17 @@
   --accent: #c0749d;
 }
 
-.box {
-  max-height: 50vh;
+.logs {
+  max-height: 65vh;
   overflow: auto;
+  padding-top: 0;
 }
 
-.logs > div {
-  padding: var(--hms) 0;
+.logs > div:first-of-type > .h:first-of-type {
+  margin-top: var(--hms);
 }
 
-.logs .h-entry {
-  display: grid;
-  grid-template-columns: auto 6rem 5rem;
-  grid-gap: 1rem;
-  border-bottom: 1px solid var(--accent);
-  align-items: center;
-}
-
-.logs .header {
-  border-bottom: 2px solid var(--accent);
-}
-
-.logs > div.header > span:first-of-type {
-  font-size: var(--f3);
-  color: var(--accent);
-  font-weight: bold;
-}
-
-@media screen and (min-width: 52rem) {
+@media not all and (max-width: 52rem) {
   body {
     background: #48084f url(/watches/pattern.jpeg);
     background-size: 300px;
@@ -38,5 +21,11 @@
 
   #navbar {
     border-radius: 0;
+  }
+}
+
+@media print {
+  .logs {
+    max-height: none;
   }
 }

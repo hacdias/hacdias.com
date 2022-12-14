@@ -8,16 +8,16 @@
     {{ include "post/content" . }}
 
     <h2 id='movies'>🎬 Movies</h2>
-    {{ template "log" (.GetWatches ".movies.yaml") }}
+    {{ include "logs" (.GetLogs ".movies.yaml") }}
 
     <h2 id='shows'>📺 Shows</h2>
-    {{ template "log" (.GetWatches ".shows.yaml") }}
+    {{ include "logs" (.GetLogs ".shows.yaml") }}
 
     <h2 id='concerts'>🎤 Concerts</h2>
-    {{ template "log" (.GetWatches ".concerts.yaml") }}
+    {{ include "logs" (.GetLogs ".concerts.yaml") }}
   
     <h2 id='others'>👑 Others</h2>
-    {{ template "log" (.GetWatches ".others.yaml") }}
+    {{ include "logs" (.GetLogs ".others.yaml") }}
 
     {{ include "post/media" . }}
     {{ include "post/footer" . }}
@@ -25,35 +25,6 @@
 
   {{ include "post/webmentions" . }}
 </main>
-{{ end }}
-
-{{ define "log" }}
-  <div class='box logs'>
-  {{ $byYear := .ByYear }}
-
-  {{ range $byYear.Years }}
-    {{ $year := . }}
-    {{ $logs := index $byYear.Map $year }}
-
-    <div class=header>
-      <span>{{ if eq $year 1 }}Others{{ else }}{{ $year }}{{ end }}</span>
-      <span>({{ len $logs }} watches)</span>
-    </div>
-
-    {{ with $logs }}
-      {{ range . }}
-        <div class='h-entry'>
-          <span class='u-watch-of h-cite'>
-            <span class='p-name'>{{ .Name }}</span>{{ with .Season }} (Season {{. }}){{ end }}
-            {{ with .Author }}<small>by <span class='p-author'>{{ . }}</span></small>{{ end }}
-          </span>
-          <time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time>
-          <span>{{ with .Rating }}{{ stars . 5 }}{{ end }}</span>
-        </div>
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  </div>
 {{ end }}
 
 {{ define "watches" }}

@@ -606,6 +606,40 @@ figure.album img {
   white-space: pre;
 }
 
+.logs .h,
+.logs .e {
+  padding: var(--hms) 0;
+}
+
+.logs .e {
+  display: grid;
+  grid-template-columns: auto 10rem 6rem 5rem;
+  grid-gap: 1rem;
+  border-bottom: 1px solid var(--accent);
+  align-items: center;
+}
+
+.logs .e:hover {
+  background-color: var(--light-white);
+}
+
+.logs .e > div:first-child {
+  font-weight: 500;
+}
+
+.logs .h {
+  border-bottom: 2px solid var(--accent);
+  position: sticky;
+  top: 0;
+  background: var(--near-white);
+}
+
+.logs .h span:first-of-type {
+  font-size: var(--f3);
+  color: var(--accent);
+  font-weight: bold;
+}
+
 @media screen and (max-width: 52rem) {
   :root {
     --ls: 1rem;
@@ -638,7 +672,8 @@ figure.album img {
     text-align: center;
   }
 
-  .fg {
+  .fg,
+  .logs .e {
     display: block !important;
   }
 
