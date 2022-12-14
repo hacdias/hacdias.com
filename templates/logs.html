@@ -14,14 +14,16 @@
 
       {{ with $logs }}
         {{ range . }}
-          {{ with .URL }}<a href='{{ . }}' class='nl'>{{ end }}
           <div class='e'>
-            <div>{{ .Name }}{{ with .Season }} (Season {{. }}){{ end }}</div>
+            <div>
+              {{ with .URL }}<a href='{{ . }}' class='nl lh'>{{ end }}
+                {{ .Name }}{{ with .Season }} (Season {{. }}){{ end }}
+              {{ with .URL }}</a>{{ end }}
+            </div>
             <div>{{ .Author }}</div>
             <time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time>
             <div>{{ with .Rating }}{{ stars . 5 }}{{ end }}</div>
           </div>
-          {{ with .URL }}</a>{{ end }}
         {{ end }}
       {{ end }}
     </div>
