@@ -18,6 +18,10 @@ properties:
       longitude: 5.46178
       region: North Brabant
     type: h-adr
+taxonomies:
+  tags:
+  - fediverse
+  - activitypub
 ---
 
 Tom describes his experiences on implementing part of the ActivityPub specification on top of his Jekyll-based static website. It is indeed quite interesting to me to see how he achieved it, mostly through "serverless" lambdas and whatnot. He notices, very well, that ActivityPub can be quite messy and is very active when compared to other technologies, such as RSS.

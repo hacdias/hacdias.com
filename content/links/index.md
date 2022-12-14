@@ -1,46 +1,20 @@
 ---
-title: Links
+title: Blogroll
 published: 2021-01-21T16:51:13.878159548+01:00
-updated: 2022-12-13T11:44:50.75943461+01:00
+updated: 2022-12-14T11:34:54.425465786+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
 
-In this page, you can find a collection of different links I collected over the years. This can be links to nicely written posts about a topic that I found very intriguing, or just a website that evoked some emotions in me. In addition, I also have a less curated [bookmarks](/bookmarks) page.
-
-<!--more-->
-
-## 🫂 Friends and Acquaintances {#friends}
-
-These are some of my friends and acquaintances that also happen to have their own website. Let's make the small web larger.
-
-- [Christiaan Bloo](https://www.christiaanbloo.com/)
-- [Jan-Lukas Else](https://jlelse.blog/)
-- [Martin Borchert](https://mew.tv/)
-- [Sebastiaan Andeweg](https://seblog.nl)
-
-## 🦋 Inspirational {#inspirational}
-
 <div class="box">
 
-🚧 This is a work in progress.
+🚧 This page is a work in progress.
 
 </div>
 
-These are some websites that inspired mine in some way, such as in design, in content organization, or in style. I do not guarantee that the current iterations of the website were the ones that inspires me though.
+In this page, you can find a collection of different links I collected over the years. This can be links to nicely written posts about a topic that I found very intriguing, or just a website that evoked some emotions in me. In addition, I also have a less curated [bookmarks](/bookmarks) page.
 
-## 💍 Webrings {#webrings}
-
-[Webrings](https://en.wikipedia.org/wiki/Webring) and lists of personal websites are golden in the small web. They help you discover the Internet and find website you would never find when using regular search engines. Here's a list of some webrings and lists of personal websites that I find quite nice:
-
-- [XXIIVV Webring](https://webring.xxiivv.com/)
-- [IndieWeb Webring](https://xn--sr8hvo.ws/)
-- [Fediring](https://fediring.net/)
-- [The Big List of Personal Websites](http://biglist.terraaeon.com/)
-- [PersonalSit.es](https://personalsit.es/)
-- [Darek Kay’s Blogroll](https://darekkay.com/personal-blogs/)
-
-## 🧻 Blogroll {#blogroll}
+<!--more-->
 
 An alphabetically sorted list of blogs, websites and people that I follow. News websites are not included. This list is automatically updated every day.
 
