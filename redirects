@@ -1046,7 +1046,6 @@
 /tags/feed.xml /tags.atom
 /all/feed.xml /all.atom
 /all/feed.json /all.json
-/blogroll /links
 /meta /colophon
 /replies /micro
 /reposts /micro
