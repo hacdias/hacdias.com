@@ -147,10 +147,6 @@ a {
   cursor: pointer;
 }
 
-a:hover {
-  background: cornsilk;
-}
-
 li {
   margin: 0.25em 0;
 }
@@ -164,10 +160,6 @@ li {
 .nl:visited {
   text-decoration: none;
   color: inherit;
-}
-
-.nl:hover {
-  background: none;
 }
 
 .dn {
@@ -456,6 +448,10 @@ details summary {
   text-decoration: none;
   border-radius: var(--radius);
   font-size: var(--f7);
+}
+
+.tag:hover {
+  background-color: var(--light-white);
 }
 
 figure.left,
