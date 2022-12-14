@@ -44,7 +44,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [🎮 Games](/games)
 - [📖 Guestbook](/guestbook)
 - [🚀 Impossible List](/impossible-list)
-- [📌 Links](/links)
+- [📌 Links](/blogroll)
 - [🔎 Search](/search)
 - [🛠 Uses](/uses)
 - [🏷 Tags](/tags)
