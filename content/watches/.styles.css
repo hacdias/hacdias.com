@@ -12,7 +12,7 @@
   margin-top: var(--hms);
 }
 
-@media not all and (max-width: 52rem) {
+@media not screen and (max-width: 52rem) {
   body {
     background: #48084f url(/watches/pattern.jpeg);
     background-size: 300px;
