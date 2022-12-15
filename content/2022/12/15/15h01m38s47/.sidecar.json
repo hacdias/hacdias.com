@@ -1,0 +1,15 @@
+{
+  "targets": [
+    "https://jlelse.blog/micro/2022/12/2022-12-15-btqwr"
+  ],
+  "context": {
+    "author": {
+      "name": "Jan-Lukas Else",
+      "photo": "https://cdn.hacdias.com/wm/19f2fafbdb19f3e5addb86026dc15d7c05df8ae2c5c900fe622e73998b08a0e1.jpg?v=f0e3a809aba0da9534efe97b3e9baae26ff1aa53e2712ab61b129212f5b39bca",
+      "url": "https://jlelse.blog"
+    },
+    "published": "2022-12-15T13:58:38Z",
+    "content": "“Incremental static website generator” sounds like a cool idea, but I can image it being quite difficult to find out which pages to re-render after modifications. That’s also why I always clear the whole cache. 🙈😅",
+    "url": "https://jlelse.blog/micro/2022/12/2022-12-15-btqwr"
+  }
+}
