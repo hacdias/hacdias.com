@@ -72,8 +72,6 @@
           <li><label><input type="radio" name="expiry" value="0"> Infinity</label></li>
         </ol>
 
-        <input required name=username id=username type=text placeholder='Username' />
-        <input required name=password id=password type=password placeholder='Password' />
         <input type="hidden" name="response_type" value="code">
         <input type="hidden" name="redirect_uri" value="{{ .Data.RedirectURI }}">
         <input type="hidden" name="client_id" value="{{ .Data.ClientID }}">

@@ -32,10 +32,5 @@
       {{ $url := relURL .Link }}
       <a href='{{ $url }}' class='nl'{{ if eq $url $.ID }} aria-current='page'{{ end }}>{{ .Name }}</a>
     {{ end }}
-    {{ if .IsLoggedIn }}
-      {{ if .IsAdmin }}<a href='{{ relURL "/dashboard" }}' class='nl'>🎛 Admin</a>
-      {{ else }}<a href='{{ relURL "/private" }}' class='nl'>🔒 Private</a>
-      {{ end }}
-    {{ end }}
   </nav>
 {{ end }}

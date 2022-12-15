@@ -19,6 +19,6 @@ taxonomies:
   - meta
 ---
 
-On the past few days, I worked a bit on my IndieAuth implementation. Now, I am both a server and a client and you can log in on my website. There may be some posts that only logged in people can see. Besides, if I shared something with you, it will be visible under the [private](/private) page.
+On the past few days, I worked a bit on my IndieAuth implementation. Now, I am both a server and a client and you can log in on my website. There may be some posts that only logged in people can see. Besides, if I shared something with you, it will be visible under the ~~private~~ page.
 
 With this, I also wrote a Go module ([hacdias/indieauth](https://github.com/hacdias/indieauth)) to help anyone that is using to to integrate IndieAuth on their system. 😄

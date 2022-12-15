@@ -1,17 +1,26 @@
 {{ define "main" }}
+    <style>
+    #submit,
+    #username,
+    #password {
+      display: block;
+      width: 100%;
+      margin: 0.5rem 0;
+    }
+    </style>
+
   <main role='main' id="login-page">
     <header>
       <h1>Login</h1>
     </header>
 
     <div class=copy>
-      <p>You can login with your domain using the <a href="https://indieauth.spec.indieweb.org/" rel="noreferrer noopener">IndieAuth</a> protocol. After logging in, you will have access to posts that are restricted to logged in users only. Perhaps there's even posts that only you can see.</p>
+      <form method='post'>
+        <input required name='username' id='username' type='text' placeholder='Username' />
+        <input required name='password' id='password' type='password' placeholder='Password' />
+        <button id='submit'/>Login</button>
+      </form>
     </div>
-
-    <form method=POST class='inline-form'>
-      <input required type='profile' name='profile' placeholder='yourdomain.com' />
-      <button/>Login</button>
-    </form>
   </main>
 {{ end }}
 

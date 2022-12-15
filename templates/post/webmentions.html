@@ -21,7 +21,7 @@
       {{ if len $sidecar.Replies }}
       <div class='contents'>
         {{ range $sidecar.Replies }}
-          {{ if or (not (or .Private .Hidden)) $.IsAdmin }}
+          {{ if or (not (or .Private .Hidden)) $.IsLoggedIn }}
           <div class="h-cite">
             <p>
               <a rel="noopener noreferrer" href="{{ .URL }}" class="u-url nl">
@@ -35,7 +35,7 @@
                 </span>
               </a>
               {{ with .SwarmCoins }}• <span class="lg">{{ . }} 🪙</span>{{end}}
-              {{ if $.IsAdmin }}
+              {{ if $.IsLoggedIn }}
                 {{ if .Private }} • <span class='lg'>Private</span> {{ end }}
                 {{ if .Hidden }} • <span class='lg'>Hidden</span>{{ end }}
                 • <span class='lg'><a href="/mention-toggle{{ $.ID }}?wm={{ .URL }}">Toggle Visibility</a></span>
@@ -59,7 +59,7 @@
       {{ if len $sidecar.Interactions}}
       <div class='contents'>
         {{ range $sidecar.Interactions }}
-          {{ if or (not (or .Private .Hidden)) $.IsAdmin }}
+          {{ if or (not (or .Private .Hidden)) $.IsLoggedIn }}
             <span class="h-cite reaction">
               <a rel="noopener noreferrer" href="{{ .URL }}" class="u-url nl">
                 <span class="u-author h-card">
