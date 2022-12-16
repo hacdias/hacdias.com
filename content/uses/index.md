@@ -62,9 +62,10 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 ### 💼 Coworking Space
 
+![Desk at Microlab Eindhoven](cdn:/e6c1128308540192569eeabe2fce357cf40cd1ea64c0a7a416d9bee7913b657b?class=fw)
+
 I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my daily basis to work. Being in a coworking space allows me to separate work from personal things. Besides, since my work is fully remote, going to a coworking place is also a way of interacting with others in-person.
 
-<!-- add pic -->
 
 <div class='box uses'>
   <div>
