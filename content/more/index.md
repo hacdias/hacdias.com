@@ -30,7 +30,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [❤️ Likes](/likes)
 - [💬 Micro](/micro)
 - [📸 Photos](/photos)
-- [🎬 Watches](/watches)
 
 </div>
 
@@ -48,6 +47,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [🔎 Search](/search)
 - [🛠 Uses](/uses)
 - [🏷 Tags](/tags)
+- [🎬 Watches](/watches)
 
 </div>
 
