@@ -7,7 +7,7 @@
 
   {{ include "post/content" . }}
 
-  {{ $logs := .Data.Entries.AsReadsLogs }}
+  {{ $logs := .Data.Entries.AsLogs }}
 
   <h2 id='want-to-read'>📖 Want To Read</h2>
   {{ include "logs" (.GetLogs ".to-read.yaml") }}
@@ -16,7 +16,7 @@
   {{ include "logs" (.GetLogs ".reading.yaml") }}
 
   <h2 id='read'>📕 Read</h2>
-  {{ include "logs" $logs.Finished }}
+  {{ include "logs" $logs }}
 </main>
 {{ end }}
 
