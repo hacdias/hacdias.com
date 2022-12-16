@@ -10,10 +10,10 @@
   {{ $logs := .Data.Entries.AsReadsLogs }}
 
   <h2 id='want-to-read'>📖 Want To Read</h2>
-  {{ include "logs" $logs.ToRead }}
+  {{ include "logs" (.GetLogs ".to-read.yaml") }}
 
   <h2 id='reading'>📚 Reading</h2>
-  {{ include "logs" $logs.Reading }}
+  {{ include "logs" (.GetLogs ".reading.yaml") }}
 
   <h2 id='read'>📕 Read</h2>
   {{ include "logs" $logs.Finished }}
