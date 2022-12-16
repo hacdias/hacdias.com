@@ -25,18 +25,7 @@
 
   <div class="box ctx p-read-of h-cite">
     <p>
-      {{ with index .Properties "read-status" }}
-        {{ with (index . 0) }}
-          {{ if eq .status "to-read" }}
-            📚 Want To Read
-          {{ else if eq .status "finished" }}
-            📕 Read
-          {{ else if eq .status "reading" }}
-            📖 Reading
-          {{ end }}
-        {{ end }}
-      {{ end }}
-
+      📕 Read
       <strong><span class="p-name">{{ $read.Name }}</span></strong>
       by <span class="p-author">{{ $read.String "author" }}</span>
     </p>
