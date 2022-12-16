@@ -7,7 +7,7 @@ noShowInteractions: true
 
 <div class="box">
 
-📘 Check the [bookshelf](/books/summary) for a compilation of what I have read, am reading and want to read.
+📘 Check the [bookshelf](/books/overview) for a compilation of what I have read, am reading and want to read.
 
 </div>
 

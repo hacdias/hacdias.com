@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main role='main'>
+  {{ include "base/admin" . }}
+
+  {{ $type := .Helper.PostType }}
+  <article class='h-list'>
+    {{ include "post/header" . }}
+    {{ include "post/content" . }}
+
+    <h2 id='to-read'>📖 To Read</h2>
+    {{ include "logs" (.GetLogs ".to-read.json") }}
+
+    <h2 id='reading'>📚 Reading</h2>
+    {{ include "logs" (.GetLogs ".reading.json") }}
+
+    <h2 id='read'>📕 Read</h2>
+    {{ include "logs" (.GetLogs ".read.json") }}
+  
+    {{ include "post/media" . }}
+    {{ include "post/footer" . }}
+  </article>
+
+  {{ include "post/webmentions" . }}
+</main>
+{{ end }}
+
+{{ define "books" }}
+  {{ template "base" . }}
+{{ end }}
