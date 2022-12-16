@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura no Verão
       uid: isbn:9789722107747
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

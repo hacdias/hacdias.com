@@ -9,8 +9,6 @@ properties:
       name: Divergente
       uid: isbn:9789720043818
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

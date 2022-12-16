@@ -9,8 +9,6 @@ properties:
       name: Os Maias
       uid: isbn:978972004575
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura na Praia
       uid: isbn:9789722108997
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

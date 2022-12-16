@@ -9,8 +9,6 @@ properties:
       name: Diário de Um Vampiro Banana
       uid: isbn:9789898260840
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

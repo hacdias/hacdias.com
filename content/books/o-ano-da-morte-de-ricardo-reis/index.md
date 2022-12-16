@@ -1,7 +1,6 @@
 ---
 description: 'O ano da morte de Ricardo Reis by José Saramago (ISBN: 9789720048820)'
-published: 2021-07-31T13:10:00Z
-updated: 2022-01-17T17:39:36.758940822Z
+published: 2022-01-17T17:39:36.758940822Z
 section:
 - books
 properties:
@@ -14,13 +13,6 @@ properties:
       publisher: Porto Editora
       uid: isbn:9789720048820
     type: h-cite
-  read-status:
-  - date: "2022-01-17T17:39:36.758940822Z"
-    status: finished
-  - date: "2022-01-10T16:32:38.353609741Z"
-    status: reading
-  - date: "2021-07-31T13:10:00Z"
-    status: to-read
 ---
 
 Today, I finished reading "O Ano da Morte de Ricardo Reis" (*The Year of The Death of Ricardo Reis* in English) by José Saramago, while on a train from Den Haag to Eindhoven, after visiting the Portuguese embassy.

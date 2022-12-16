@@ -9,8 +9,6 @@ properties:
       name: Convergente
       uid: isbn:9789720043832
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

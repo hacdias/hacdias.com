@@ -9,8 +9,6 @@ properties:
       name: Vem aí o cometa negro!
       uid: isbn:9789892313214
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

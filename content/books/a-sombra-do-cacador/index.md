@@ -9,8 +9,6 @@ properties:
       name: A sombra do caçador
       uid: isbn:9789892310800
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

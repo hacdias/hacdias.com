@@ -9,8 +9,6 @@ properties:
       name: Príncipe da Tansilvânia
       uid: isbn:9789897070211
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

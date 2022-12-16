@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura no Bosque
       uid: isbn:9789722100045
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

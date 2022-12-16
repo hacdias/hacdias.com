@@ -1,7 +1,6 @@
 ---
 description: 'Tales from the Cafe by Toshikazu Kawaguchi (ISBN: 9781529050868)'
-published: 2022-01-25T20:46:03.189906235Z
-updated: 2022-03-02T22:44:27.016541578+01:00
+published: 2022-03-02T22:44:27.016541578+01:00
 section:
 - books
 createdWith: https://hacdias.com/
@@ -15,13 +14,6 @@ properties:
       publisher: Picador
       uid: isbn:9781529050868
     type: h-cite
-  read-status:
-  - date: "2022-03-02T22:44:27.016541578+01:00"
-    status: finished
-  - date: "2022-02-24T17:00:50.608614312+01:00"
-    status: reading
-  - date: "2022-01-25T20:46:03.189906235Z"
-    status: to-read
 ---
 
 This is the sequel of [Before the coffee gets cold](/books/before-the-coffee-gets-cold) and I enjoyed it just as much. I keep the same rating I gave to the first book. It was just as good, a perfect continuation of the first book. Deeply magical and sentimental.

@@ -9,8 +9,6 @@ properties:
       name: Prometidos
       uid: isbn:9789895018994
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

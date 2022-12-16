@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura em Lisboa
       uid: isbn:9789722100212
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

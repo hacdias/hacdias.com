@@ -9,8 +9,6 @@ properties:
       name: A Porta das Três Fechaduras
       uid: isbn:9789722349567
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

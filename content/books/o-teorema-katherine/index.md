@@ -9,8 +9,6 @@ properties:
       name: O Teorema Katherine
       uid: isbn:9789892326337
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura Secreta
       uid: isbn:9789722114677
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

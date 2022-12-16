@@ -1,7 +1,6 @@
 ---
 description: 'Under the Whispering Door by TJ Klune (ISBN: 9781529087987)'
-published: 2022-01-12T10:41:15.577799978Z
-updated: 2022-02-17T19:15:27.009814848+01:00
+published: 2022-02-17T19:15:27.009814848+01:00
 section:
 - books
 properties:
@@ -14,13 +13,6 @@ properties:
       publisher: Tor
       uid: isbn:9781529087987
     type: h-cite
-  read-status:
-  - date: "2022-02-17T19:15:27.009814848+01:00"
-    status: finished
-  - date: "2022-02-08T20:18:37.756466911+01:00"
-    status: reading
-  - date: "2022-01-12T10:41:15.577799978Z"
-    status: to-read
 ---
 
 This book was quite interesting. Similarly to the books I've been reading recently, there's a magical element that makes this book be completely different from what I expected. In a nutshell, there's a man called Wallace that is definitely not a good person. One day, he dies. However, the story tells us what happens after he dies. Of course, I don't want to write spoilers.

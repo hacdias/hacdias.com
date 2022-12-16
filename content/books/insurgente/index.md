@@ -9,8 +9,6 @@ properties:
       name: Insurgente
       uid: isbn:9789720043825
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

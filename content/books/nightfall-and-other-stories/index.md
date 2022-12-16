@@ -1,7 +1,6 @@
 ---
 description: 'Nightfall and Other Stories by Isaac Asimov (ISBN: 9780593357460)'
-published: 2022-01-28T12:56:33.268388883Z
-updated: 2022-03-23T19:05:54.4308607+01:00
+published: 2022-03-23T19:05:54.4308607+01:00
 section:
 - books
 createdWith: https://hacdias.com/
@@ -15,13 +14,6 @@ properties:
       publisher: Random House Books
       uid: isbn:9780593357460
     type: h-cite
-  read-status:
-  - date: "2022-03-23T19:05:54.4308607+01:00"
-    status: finished
-  - date: "2022-02-10T17:23:55.640393452+01:00"
-    status: reading
-  - date: "2022-01-28T12:56:33.268388883Z"
-    status: to-read
 ---
 
 I am marking this book as "finished" since I have no plans on reading the remaining stories in the near future.

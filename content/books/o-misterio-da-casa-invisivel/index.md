@@ -9,8 +9,6 @@ properties:
       name: O Mistério da Casa Invisível
       uid: isbn:9789895555673
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

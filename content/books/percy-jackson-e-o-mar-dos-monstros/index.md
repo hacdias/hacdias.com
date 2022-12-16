@@ -9,8 +9,6 @@ properties:
       name: Percy Jackson e o mar dos Monstros
       uid: isbn:9789724622514
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

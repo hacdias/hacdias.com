@@ -9,8 +9,6 @@ properties:
       name: Marcados à Nascença
       uid: isbn:9789895015870
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

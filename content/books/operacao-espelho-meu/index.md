@@ -9,8 +9,6 @@ properties:
       name: Operação "espelho meu"
       uid: isbn:9789892314969
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

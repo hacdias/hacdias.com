@@ -9,8 +9,6 @@ properties:
       name: A Fada Oriana
       uid: isbn:9789726611950
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

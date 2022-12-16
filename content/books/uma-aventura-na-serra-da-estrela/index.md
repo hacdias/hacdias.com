@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura na Serra da Estrela
       uid: isbn:9789722108379
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

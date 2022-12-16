@@ -1,8 +1,7 @@
 ---
 description: 'Strange Case of Dr Jekyll and Mr Hyde and Other Stories by Robert Louis
   Stevenson (ISBN: 9781847493781)'
-published: 2022-01-25T13:58:17.633701533Z
-updated: 2022-03-23T19:06:51.132363451+01:00
+published: 2022-03-23T19:06:51.132363451+01:00
 section:
 - books
 createdWith: https://hacdias.com/
@@ -16,13 +15,6 @@ properties:
       publisher: Alma Books
       uid: isbn:9781847493781
     type: h-cite
-  read-status:
-  - date: "2022-03-23T19:06:51.132363451+01:00"
-    status: finished
-  - date: "2022-02-20T23:26:11.814851459+01:00"
-    status: reading
-  - date: "2022-01-25T13:58:17.633701533Z"
-    status: to-read
 ---
 
 I am marking this book as "finished" since I have no plans on reading the remaining stories in the near future.

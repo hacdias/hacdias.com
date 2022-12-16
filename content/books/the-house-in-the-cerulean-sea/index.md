@@ -1,7 +1,6 @@
 ---
 description: 'The House in the Cerulean Sea by TJ Klune (ISBN: 9781529087949)'
-published: 2022-01-12T10:41:51.828233835Z
-updated: 2022-01-22T22:02:22.969462984Z
+published: 2022-01-22T22:02:22.969462984Z
 section:
 - books
 properties:
@@ -14,13 +13,6 @@ properties:
       publisher: Tor UK
       uid: isbn:9781529087949
     type: h-cite
-  read-status:
-  - date: "2022-01-22T22:02:22.969462984Z"
-    status: finished
-  - date: "2022-01-18T06:43:04.348165044Z"
-    status: reading
-  - date: "2022-01-12T10:41:51.828233835Z"
-    status: to-read
 ---
 
 Today, I finished reading "The House in the Cerulean Sea" by TJ Klune and I was just want to say that it was beautifully constructed. 

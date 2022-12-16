@@ -9,8 +9,6 @@ properties:
       name: Percy Jackson e o Último Olimpiano
       uid: isbn:9789724622415
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

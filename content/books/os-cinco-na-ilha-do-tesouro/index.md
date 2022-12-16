@@ -9,8 +9,6 @@ properties:
       name: Os Cinco na Ilha do Tesouro
       uid: isbn:9789895557745
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

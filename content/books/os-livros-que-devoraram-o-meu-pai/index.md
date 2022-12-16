@@ -9,8 +9,6 @@ properties:
       name: Os Livros Que Devoraram o Meu Pai
       uid: isbn:9789722120951
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

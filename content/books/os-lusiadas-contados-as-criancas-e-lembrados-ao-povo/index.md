@@ -10,8 +10,6 @@ properties:
       name: Os Lusíadas Contados às Crianças e Lembrados ao Povo
       uid: isbn:9789898470249
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

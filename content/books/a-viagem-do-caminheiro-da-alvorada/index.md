@@ -9,8 +9,6 @@ properties:
       name: A Viagem do Caminheiro da Alvorada
       uid: isbn:9789722331326
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

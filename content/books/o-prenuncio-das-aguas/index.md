@@ -9,8 +9,6 @@ properties:
       name: O Prenúncio das Águas
       uid: isbn:9789724129709
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

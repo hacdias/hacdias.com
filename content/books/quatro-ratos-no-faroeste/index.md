@@ -9,8 +9,6 @@ properties:
       name: Quatro Ratos no Faroeste!
       uid: isbn:9789722344968
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

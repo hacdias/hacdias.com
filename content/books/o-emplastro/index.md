@@ -9,8 +9,6 @@ properties:
       name: O Emplastro
       uid: isbn:9789897071188
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

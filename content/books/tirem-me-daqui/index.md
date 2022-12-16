@@ -9,8 +9,6 @@ properties:
       name: Tirem-me Daqui!
       uid: isbn:9789897071102
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

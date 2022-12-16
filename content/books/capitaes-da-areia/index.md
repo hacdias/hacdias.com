@@ -9,8 +9,6 @@ properties:
       name: Capitães da Areia
       uid: isbn:9789896530075
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

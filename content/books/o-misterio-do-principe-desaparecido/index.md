@@ -9,8 +9,6 @@ properties:
       name: O Mistério do Príncipe Desaparecido
       uid: isbn:9789895560202
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

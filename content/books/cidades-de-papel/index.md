@@ -9,8 +9,6 @@ properties:
       name: Cidades de Papel
       uid: isbn:9789722352925
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

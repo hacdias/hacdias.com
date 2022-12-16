@@ -9,8 +9,6 @@ properties:
       name: Naufrágio na Ilha dos Piratas
       uid: isbn:9789722339360
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

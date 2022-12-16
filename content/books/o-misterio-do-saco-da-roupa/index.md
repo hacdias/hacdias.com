@@ -9,8 +9,6 @@ properties:
       name: O Mistério do Saco da Roupa
       uid: isbn:9789897410543
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

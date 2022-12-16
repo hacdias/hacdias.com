@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura no Pulo do Lobo
       uid: isbn:9789722121026
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

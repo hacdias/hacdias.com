@@ -9,8 +9,6 @@ properties:
       name: Felizmente Há Luar!
       uid: isbn:9789726277446
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

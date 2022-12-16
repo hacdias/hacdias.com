@@ -9,8 +9,6 @@ properties:
       name: O Mistério da Gata Desaparecida
       uid: isbn:9789895554607
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

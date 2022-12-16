@@ -9,8 +9,6 @@ properties:
       name: Os Cinco e os Contrabandistas
       uid: isbn:9789895558360
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

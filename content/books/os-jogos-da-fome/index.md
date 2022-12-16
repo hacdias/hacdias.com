@@ -9,8 +9,6 @@ properties:
       name: Os Jogos da Fome
       uid: isbn:9789722342391
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

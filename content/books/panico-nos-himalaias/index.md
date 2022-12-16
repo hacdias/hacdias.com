@@ -9,8 +9,6 @@ properties:
       name: Pânico nos Himalaias
       uid: isbn:9789722336390
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

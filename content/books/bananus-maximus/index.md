@@ -9,8 +9,6 @@ properties:
       name: Bananus Maximus
       uid: isbn:9789897071140
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

@@ -9,8 +9,6 @@ properties:
       name: O Rapaz de Bronze
       uid: isbn:9789726612032
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

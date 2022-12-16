@@ -9,8 +9,6 @@ properties:
       name: O Herói Desaparecido
       uid: isbn:9789896574918
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

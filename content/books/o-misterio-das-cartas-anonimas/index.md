@@ -9,8 +9,6 @@ properties:
       name: O Mistério das Cartas Anónimas
       uid: isbn:9789895554836
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

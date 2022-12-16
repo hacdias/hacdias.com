@@ -9,8 +9,6 @@ properties:
       name: O Diário de Um Lobisomem Banana
       uid: isbn:9789897070730
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

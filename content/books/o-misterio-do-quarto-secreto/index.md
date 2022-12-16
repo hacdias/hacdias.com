@@ -9,8 +9,6 @@ properties:
       name: O Mistério do Quarto Secreto
       uid: isbn:9789895554829
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

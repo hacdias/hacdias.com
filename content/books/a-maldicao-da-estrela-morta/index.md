@@ -9,8 +9,6 @@ properties:
       name: A maldição da estrela morta
       uid: isbn:9789892310817
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

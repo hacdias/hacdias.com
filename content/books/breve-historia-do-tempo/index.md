@@ -9,8 +9,6 @@ properties:
       name: Breve História do Tempo
       uid: isbn:9789726620105
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

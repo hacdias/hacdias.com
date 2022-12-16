@@ -9,8 +9,6 @@ properties:
       name: A última noite do mundo
       uid: isbn:9789892317465
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

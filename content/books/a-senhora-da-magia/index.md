@@ -9,8 +9,6 @@ properties:
       name: A Senhora da Magia
       uid: isbn:9789896373986
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

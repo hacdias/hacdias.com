@@ -1,7 +1,6 @@
 ---
 description: 'The Midnight Library by Matt Haig (ISBN: 9781786892737)'
-published: 2022-01-25T13:57:12.866692252Z
-updated: 2022-02-03T22:32:25.035150056+01:00
+published: 2022-02-03T22:32:25.035150056+01:00
 section:
 - books
 createdWith: https://hacdias.com/
@@ -15,13 +14,6 @@ properties:
       publisher: Canongate
       uid: isbn:9781786892737
     type: h-cite
-  read-status:
-  - date: "2022-02-03T22:32:25.035150056+01:00"
-    status: finished
-  - date: "2022-01-31T23:37:53.960678221+01:00"
-    status: reading
-  - date: "2022-01-25T13:57:12.866692252Z"
-    status: to-read
 ---
 
 "The Midnight Library" portrays a character, Nora, that after dying at exactly midnight, got transported to a library where time doesn't change. In this library, Nora has the opportunity to try all the different lives she would have had if she had made different decisions. To keep the level of spoilers to a minimum, I will not go over a lot more.

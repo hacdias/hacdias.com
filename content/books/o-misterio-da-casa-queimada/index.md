@@ -9,8 +9,6 @@ properties:
       name: O Mistério da Casa Queimada
       uid: isbn:9789895554591
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

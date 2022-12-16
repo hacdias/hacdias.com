@@ -9,8 +9,6 @@ properties:
       name: Percy Jackson e a Batalha do Labirinto
       uid: isbn:9789724620855
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

@@ -9,8 +9,6 @@ properties:
       name: A Nova Inteligência
       uid: isbn:9789724746203
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

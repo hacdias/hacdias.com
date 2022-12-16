@@ -1,7 +1,6 @@
 ---
 description: 'Harry Potter and the Prisoner of Azkaban by J.K. Rowling (ISBN: 9781408855676)'
 published: 2017-01-14T08:00:00Z
-updated: 2017-01-14T08:00:00Z
 section:
 - books
 properties:
@@ -11,9 +10,6 @@ properties:
       name: Harry Potter and the Prisoner of Azkaban
       uid: isbn:9781408855676
     type: h-cite
-  read-status:
-  - date: "2017-01-14T08:00:00Z"
-    status: finished
 ---
 
 

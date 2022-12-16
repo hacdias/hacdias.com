@@ -9,8 +9,6 @@ properties:
       name: O Cavalo e o seu Rapaz
       uid: isbn:9789722330558
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

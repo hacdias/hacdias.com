@@ -9,8 +9,6 @@ properties:
       name: A Última Batalha
       uid: isbn:9789722332200
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

@@ -9,8 +9,6 @@ properties:
       name: A Verdade Nua e Crua
       uid: isbn:9789897070433
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

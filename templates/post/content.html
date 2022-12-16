@@ -1,9 +1,8 @@
 {{ define "post/content" }}
   {{- $mf2 := .Helper }}
   {{ $rating := $mf2.Int "rating" }}
-  {{ $readStatus := index .Properties "read-status" }}
 
-  {{ if or .Content $rating $readStatus }}
+  {{ if or .Content $rating }}
     <div class='copy e-content'>
       {{ with $rating }}
         <p>
@@ -12,27 +11,6 @@
       {{ end }}
 
       {{- with .Content }}{{ md . }}{{ end -}}
-
-      {{ with $readStatus }}
-        {{ if gt (len .) 1 }}
-          <p><strong>Reading Progress</strong></p>
-
-          <ul>
-            {{ range . }}
-            <li>
-              {{ if eq .status "to-read" }}
-                📚 Want to read
-              {{ else if eq .status "finished" }}
-                📕 Finished
-              {{ else if eq .status "reading" }}
-                📖 Reading
-              {{ end }}
-              {{ with .date }}<small>on {{ dateFormat . "02 Jan 2006" }}</small>{{ end }}
-            </li>
-            {{ end }}
-          </ul>
-        {{ end }}
-      {{ end }}
     </div>
   {{ end }}
 {{ end }}

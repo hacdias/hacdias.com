@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura no Labirinto Misterioso
       uid: isbn:9789722118606
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 description: 'Harry Potter and the Philosopher''s Stone by J.K. Rowling (ISBN: 9781408855652)'
 published: 2017-01-01T08:00:00Z
-updated: 2017-01-01T08:00:00Z
 section:
 - books
 properties:
@@ -11,9 +10,6 @@ properties:
       name: Harry Potter and the Philosopher's Stone
       uid: isbn:9781408855652
     type: h-cite
-  read-status:
-  - date: "2017-01-01T08:00:00Z"
-    status: finished
 ---
 
 

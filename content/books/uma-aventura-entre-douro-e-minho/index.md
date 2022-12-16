@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura entre Douro e Minho
       uid: isbn:9789722100052
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

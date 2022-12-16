@@ -9,8 +9,6 @@ properties:
       name: Uma Aventura na Casa Assombrada
       uid: isbn:9789722111225
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

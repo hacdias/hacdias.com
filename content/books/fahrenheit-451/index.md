@@ -1,7 +1,6 @@
 ---
 description: 'Fahrenheit 451 by Ray Bradbury (ISBN: 9780007181704)'
 published: 2017-12-08T08:00:00Z
-updated: 2017-12-08T08:00:00Z
 section:
 - books
 properties:
@@ -11,9 +10,6 @@ properties:
       name: Fahrenheit 451
       uid: isbn:9780007181704
     type: h-cite
-  read-status:
-  - date: "2017-12-08T08:00:00Z"
-    status: finished
 ---
 
 

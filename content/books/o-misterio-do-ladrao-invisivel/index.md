@@ -9,8 +9,6 @@ properties:
       name: O Mistério do Ladrão Invisível
       uid: isbn:9789895559541
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

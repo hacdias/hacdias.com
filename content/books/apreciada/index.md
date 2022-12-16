@@ -9,8 +9,6 @@ properties:
       name: Apreciada
       uid: isbn:9789895018987
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

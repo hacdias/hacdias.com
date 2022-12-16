@@ -9,8 +9,6 @@ properties:
       name: A Última Gota
       uid: isbn:9789896680589
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

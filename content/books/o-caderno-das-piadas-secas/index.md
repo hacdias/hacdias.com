@@ -9,8 +9,6 @@ properties:
       name: O Caderno das Piadas Secas
       uid: isbn:9789898871077
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

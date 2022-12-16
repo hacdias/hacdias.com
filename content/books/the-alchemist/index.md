@@ -1,7 +1,6 @@
 ---
 description: 'The Alchemist by Paulo Coelho (ISBN: 9780007155668)'
-published: 2022-03-25T21:21:36.246375591+01:00
-updated: 2022-04-10T11:12:19.18895568+02:00
+published: 2022-04-10T11:12:19.18895568+02:00
 section:
 - books
 createdWith: https://hacdias.com/
@@ -15,13 +14,6 @@ properties:
       publisher: Thorsons
       uid: isbn:9780007155668
     type: h-cite
-  read-status:
-  - date: "2022-04-10T11:12:19.18895568+02:00"
-    status: finished
-  - date: "2022-03-27T18:15:48.484919679+02:00"
-    status: reading
-  - date: "2022-03-25T21:21:36.246375591+01:00"
-    status: to-read
 ---
 
 

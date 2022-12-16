@@ -9,8 +9,6 @@ properties:
       name: O Príncipe Caspian
       uid: isbn:9789722330978
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

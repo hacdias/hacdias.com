@@ -9,8 +9,6 @@ properties:
       name: Para Onde Vão Os Guarda-Chuvas
       uid: isbn:9789896721978
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

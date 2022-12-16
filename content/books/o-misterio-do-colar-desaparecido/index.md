@@ -9,8 +9,6 @@ properties:
       name: O Mistério do Colar Desaparecido
       uid: isbn:9789895555222
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

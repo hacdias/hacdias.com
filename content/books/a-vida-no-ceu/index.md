@@ -9,8 +9,6 @@ properties:
       name: A Vida no Céu
       uid: isbn:9789897221101
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 

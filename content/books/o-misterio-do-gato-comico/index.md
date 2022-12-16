@@ -9,8 +9,6 @@ properties:
       name: O Mistério do Gato Cómico
       uid: isbn:9789895557738
     type: h-cite
-  read-status:
-  - status: finished
 ---
 
 
