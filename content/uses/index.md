@@ -10,35 +10,6 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 <!--more-->
 
-<style>
-.uses > div {
-  display: grid;
-  grid-template-columns: 10rem auto;
-  grid-gap: 1rem;
-  align-items: center;
-  border-bottom: var(--border)solid var(--accent);
-}
-
-.uses > div >div {
-  margin: var(--hms) 0;
-}
-
-.uses > div:last-of-type {
-  border-bottom: none;
-}
-
-.uses > div > div:first-of-type {
-  font-weight: 600;
-}
-
-@media screen and (max-width: 52rem) {
-  .uses > div {
-    display: block !important;
-  }
-}
-
-</style>
-
 ## 📟 Hardware {#hardware}
 
 <div class='box uses'>

@@ -1,3 +1,29 @@
 :root {
-  --accent:  #2c3e50;
+  --accent:  #8eba4d;
+}
+
+.uses > div {
+  display: grid;
+  grid-template-columns: 10rem auto;
+  grid-gap: 1rem;
+  align-items: center;
+  border-bottom: var(--border)solid var(--accent);
+}
+
+.uses > div >div {
+  margin: var(--hms) 0;
+}
+
+.uses > div:last-of-type {
+  border-bottom: none;
+}
+
+.uses > div > div:first-of-type {
+  font-weight: 600;
+}
+
+@media screen and (max-width: 52rem) {
+  .uses > div {
+    display: block !important;
+  }
 }
