@@ -10,80 +10,247 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 <!--more-->
 
+<style>
+.uses > div {
+  display: grid;
+  grid-template-columns: 10rem auto;
+  grid-gap: 1rem;
+  align-items: center;
+  border-bottom: var(--border)solid var(--accent);
+}
+
+.uses > div >div {
+  margin: var(--hms) 0;
+}
+
+.uses > div:last-of-type {
+  border-bottom: none;
+}
+
+.uses > div > div:first-of-type {
+  font-weight: 600;
+}
+
+@media screen and (max-width: 52rem) {
+  .uses > div {
+    display: block !important;
+  }
+}
+
+</style>
+
 ## 📟 Hardware {#hardware}
 
-- **Laptop**: 2021 MacBook Pro 14"
-- **Smartphone:** iPhone 14 Pro
-- **Laptop stand:** Rain mStand, The Roost v3
-- **Monitor**: Asus VG27A
-- **Tablet**: 2018 iPad Pro 11"
-- **Keyboard:** Ducky One 2 Mini, Magic Keyboard
-- **Mouse:** Asus Strix Impact, Magic Trackpad
-- **Dock**: CalDigit TS3 Plus
-- **Speakers**: Logitech Z213
-- **Headphones:** Sony WH-1000XM5
-- **Earphones:** AirPods (3rd Gen)
-- **Console**: Nintendo Switch
-- **Tracking Device**: [Apple AirTags](https://www.apple.com/airtag/)
-- **Auth Device**: [YubiKeys](https://www.yubico.com/) for 2FA, GPG and SSH
-- **Wallet**: [Secrid](https://secrid.com/) for my cards and spare bills
+<div class='box uses'>
+  <div>
+    <div>Laptop</div>
+    <div>2021 MacBook Pro 14"</div>
+  </div>
+  <div>
+    <div>Laptop Stand</div>
+    <div>The Roost v3</div>
+  </div>
+  <div>
+    <div>Smartphone</div>
+    <div>iPhone 14 Pro</div>
+  </div>
+  <div>
+    <div>Tablet</div>
+    <div>2018 iPad Pro 11"</div>
+  </div>
+  <div>
+    <div>Headphones</div>
+    <div>Sony WH-1000XM5</div>
+  </div>
+  <div>
+    <div>Earphones</div>
+    <div>AirPods (3rd Gen)</div>
+  </div>
+  <div>
+    <div>Console</div>
+    <div>Nintendo Switch</div>
+  </div>
+  <div>
+    <div>Tracking Device</div>
+    <div>AirTags</div>
+  </div>
+  <div>
+    <div>Auth Device</div>
+    <div>YubiKeys, for 2FA, GPG and SSH</div>
+  </div>
+  <div>
+    <div>Wallet</div>
+    <div>Secrit, for my cards and spare bills</div>
+  </div>
+  <div>
+    <div>KeyChain</div>
+    <div>Orbitkey Key Organizer</div>
+  </div>
+</div>
+
+
+### 💼 Coworking Space
+
+I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my daily basis to work. Being in a coworking space allows me to separate work from personal things. Besides, since my work is fully remote, going to a coworking place is also a way of interacting with others in-person.
+
+<!-- add pic -->
+
+<div class='box uses'>
+  <div>
+    <div>Monitor Stand</div>
+    <div>IKEA ELLOVEN</div>
+  </div>
+  <div>
+    <div>Monitor</div>
+    <div>Asus VG27A</div>
+  </div>
+  <div>
+    <div>Keyboard</div>
+    <div>Ducky One 2 Mini</div>
+  </div>
+  <div>
+    <div>Mouse</div>
+    <div>Asus Strix Impact</div>
+  </div>
+  <div>
+    <div>Dock</div>
+    <div>CalDigit TS3 Plus</div>
+  </div>
+  <div>
+    <div>Laptop Stand</div>
+    <div>Rain mStand</div>
+  </div>
+</div>
+
+### 🏡 Home
+
+At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
+
+<!-- add pic -->
+
+<!-- Add desk and chair? -->
+
+<div class='box uses'>
+  <div>
+    <div>Monitor Stand</div>
+    <div>IKEA SIGFINN</div>
+  </div>
+  <div>
+    <div>Monitor</div>
+    <div>Dell U2720Q</div>
+  </div>
+  <div>
+    <div>Keyboard</div>
+    <div>Magic Keyboard</div>
+  </div>
+  <div>
+    <div>Mouse</div>
+    <div>Magic Trackpad, Logitech MX Master 3S</div>
+  </div>
+  <div>
+    <div>Dock</div>
+    <div>CalDigit TS4</div>
+  </div>
+  <div>
+    <div>Laptop Stand</div>
+    <div>Rain mStand</div>
+  </div>
+</div>
 
 ### 📷 Photography {#photography}
 
 On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
-- **Camera**: Fujifilm X-T4
-- **Lenses**: XF 18-55mm f/2.8-4.0 OIS and XF 27mm F/2.8
-- **Tripod**: Manfrotto Befree
+<div class='box uses'>
+  <div>
+    <div>Camera</div>
+    <div>Fujifilm X-T4</div>
+  </div>
+  <div>
+    <div>Lenses</div>
+    <div>XF 18-55mm f/2.8-4.0 OIS and XF 27mm F/2.8</div>
+  </div>
+  <div>
+    <div>Tripod</div>
+    <div>Manfrotto Befree</div>
+  </div>
+</div>
 
 ## 📀 Software {#software}
 
-- **Operating System**: macOS, iOS, Linux (Alpine usually)
-- **Browser**: Firefox on macOS, Safari on iOS - slowly trying to move away from Chrome
-- **Code Editor**: [Visual Studio Code][vscode] - on the terminal I may use [vim]
-- **Terminal**: [iTerm][iterm] with [zsh] and [oh my zsh] - see my [dotfiles]
-- **Email**: native macOS and iOS apps
-- **Calendar**: native macOS and iOS apps
-- **Email Provider**: [migadu] - trying to move away from Google. I am, however, looking for an alternative to Migadu that officially supports calendar and contacts management.
+The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some of the things mentioned are self-hosted in an [Hetzner](https://www.hetzner.com/) VPS.
 
-### 🎒 Self-Hosted {#self-hosted}
-
-Most of the software I self-host is hosted at [Hetzner][hetzner].
-
-- **Feed Reader**: [Miniflux]
-- **URL Shortener**: [GoShort] - I have not used it that much, but it's a nice to have. I'm looking forward to having more use cases for it though.
-
-[uses]: https://uses.tech/
-[vim]: https://www.vim.org/
-[vscode]: https://code.visualstudio.com/
-[iterm]: https://iterm2.com/
-[oh my zsh]: https://ohmyz.sh/
-[hugo]: https://gohugo.io/
-[do]: https://www.digitalocean.com/
-[namecheap]: https://www.namecheap.com/
-[gh]: https://github.com
-[caddy]: https://caddyserver.com/
-[compass]: https://github.com/aaronpk/Compass
-[cloudflare]: https://www.cloudflare.com/
-[dotfiles]: https://github.com/hacdias/dotfiles
-[fm]: https://github.com/tonsky/FiraCode
-[hetzner]: https://www.hetzner.com/
-[goland]: https://www.jetbrains.com/go/
-[zsh]: https://en.wikipedia.org/wiki/Z_shell
-[migadu]: https://www.migadu.com/
-[miniflux]: https://miniflux.app/
-[goshort]: https://jlel.se/goshort
+<div class='box uses'>
+  <div>
+    <div>Operating System</div>
+    <div>macOS, iOS, Linux (Alpine usually)</div>
+  </div>
+   <div>
+    <div>Browser</div>
+    <div>Chrome on macOS, Safari on iOS</div>
+  </div>
+   <div>
+    <div>Code Editor</div>
+    <div><a href='https://code.visualstudio.com/' rel='noopener noreferrer'>Visual Studio Code</a> and <a href='https://www.vim.org/' rel='noopener noreferrer'>vim</a></div>
+  </div>
+   <div>
+    <div>Terminal</div>
+    <div><a href='https://iterm2.com/' rel='noopener noreferrer'>iTerm</a> with <a href='https://en.wikipedia.org/wiki/Z_shell' rel='noopener noreferrer'>zsh</a> and <a href='https://ohmyz.sh/' rel='noopener noreferrer'>oh my zsh</a> - see my <a href='https://github.com/hacdias/dotfiles' rel='noopener noreferrer'>dotfiles</a></div>
+  </div>
+   <div>
+    <div>Email</div>
+    <div>Native macOS and iOS apps</div>
+  </div>
+   <div>
+    <div>Email Provider</div>
+    <div>Gmail and <a href='https://www.migadu.com/' rel='noopener noreferrer'>Migadu</a>. I am looking for an alternative to Migadu that has more clear development and official support for calendar and contacts management.</div>
+  </div>
+  <div>
+    <div>Calendar</div>
+    <div>Native macOS and iOS apps</div>
+  </div>
+  <div>
+    <div>Password Manager</div>
+    <div>1Password</div>
+  </div>
+  <div>
+    <div>Web Server</div>
+    <div><a rel='noopener noreferrer' href='https://caddyserver.com/'>Caddy</a></div>
+  </div>
+  <div>
+    <div>Feed Reader</div>
+    <div><a rel='noopener noreferrer' href='https://miniflux.app/'>Miniflux</a></div>
+  </div>
+  <div>
+    <div>URL Shortener</div>
+    <div><a rel='noopener noreferrer' href='https://jlel.se/goshort'>goshort</a> - I have not used it that much, but it's a nice to have. I'm looking forward to having more use cases for it though.</div>
+  </div>
+</div>
 
 ## 🌐 Domains {#domains}
 
-This is a list of the domains I currently own, with an explanation for each. I used to have a page dedicated just for this, but I don't think that's worth it. But it's still fun to share!
+This is a list of the domains I currently own, with an explanation for each. These domains are registered in different registrars, namely [Namecheap](https://www.namecheap.com), [PTServidor](https://my.ptservidor.pt), and [Porkbun](https://porkbun.com). I used to have a page dedicated just for this, but I don't think that's worth it. But it's still fun to share!
 
-- [**hacdias.com**](https://hacdias.com) - this is the domain you are visiting right now and I use it as my main domain. `hacdias` is also my default handle in the Internet, so you can likely find me with that name.
+<div class='box uses'>
+<div>
+    <div><a class='nl' rel='noopener noreferrer' href='https://hacdias.com'>hacdias.com</a></div>
+    <div>This is the domain you are visiting right now and I use it as my main domain. <code>hacdias</code> is also my default handle in the Internet, so you can likely find me with that name.</div>
+  </div>
+  <div>
+    <div><a class='nl' rel='noopener noreferrer' href='https://henriquedias.com'>henriquedias.com</a></div>
+    <div>This was my first domain, bought by my father as a gift when I was 14 years old. Nowadays, I redirect it to my main domain. I like to keep it, not just because of emotional attachment, but also because it's my first and last name combined.</div>
+  </div>
+  <div>
+    <div><a class='nl' rel='noopener noreferrer' href='https://h4c.pt'>h4c.pt</a></div>
+    <div>This one I bought after <a rel='noopener noreferrer' href='/2021/12/05/h4c-is-live'>speaking to Sebastiaan</a> about it. It's a short domain for a URL shortener. It's short and Portuguese 🇵🇹.</div>
+  </div>
+  <div>
+    <div><a class='nl' rel='noopener noreferrer' href='https://hacdia.sh'>hacdia.sh</a></div>
+    <div>This was the domain I used to use for my URL shortener. Right now, it serves the same application as <code>h4c.pt</code>. I like to keep it as it combines my handle with <code>.sh</code>. Maybe I could use it for code, or some other programming-related thing.</div>
+  </div>
+  <div>
+    <div><a class='nl' rel='noopener noreferrer' href='https://nata.cafe'>nata.cafe</a></div>
+    <div>This is the domain of the UNIX server that hosts my website, as well as some other small services for friends and myself. It is an homage to the Portuguese custard tart, Pastel de Nata, and cafés.</div>
+  </div>
+</div>
 
-- [**henriquedias.com**](https://henriquedias.com) - this was my first domain, bought by my father as a gift when I was 14 years old. Nowadays, I redirect it to my main domain. I like to keep it, not just because of emotional attachment, but also because it's my first and last name combined.
-
-- [**h4c.pt**](https://h4c.pt) - this one I bought after [speaking to Sebastiaan](/2021/12/05/h4c-is-live) about it. It's a short domain for a URL shortener. It's short and Portuguese 🇵🇹.
-
-- [**hacdia.sh**](https://hacdia.sh) - this was the domain I used to use for my URL shortener. Right now, it serves the same application as `h4c.pt`. I like to keep it as it combines my handle with `.sh`. Maybe I could use it for code, or some other programming-related thing.
-
-- [**nata.cafe**](https://nata.cafe) - this is the domain of the UNIX server that hosts my website, as well as some other small services for friends and myself. It is an homage to the Portuguese custard tart, Pastel de Nata, and cafés.
