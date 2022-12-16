@@ -645,6 +645,10 @@ figure.album img {
     --hls: 1rem;
   }
 
+  .lh {
+    text-decoration: underline;
+  }
+
   #header {
     padding: 0 var(--hms);
   }

@@ -21,7 +21,7 @@
               {{ with .URL }}</a>{{ end }}
             </div>
             <div>{{ .Author }}</div>
-            <time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time>
+            <div><time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time></div>
             <div>{{ with .Rating }}{{ stars . 5 }}{{ end }}</div>
           </div>
         {{ end }}
