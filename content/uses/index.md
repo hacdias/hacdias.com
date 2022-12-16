@@ -1,7 +1,7 @@
 ---
 title: Uses
 published: 2020-01-21T15:39:00Z
-updated: 2022-11-05T09:25:11.546653+01:00
+updated: 2022-12-16T13:50:40.965662678+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -253,4 +253,3 @@ This is a list of the domains I currently own, with an explanation for each. The
     <div>This is the domain of the UNIX server that hosts my website, as well as some other small services for friends and myself. It is an homage to the Portuguese custard tart, Pastel de Nata, and cafés.</div>
   </div>
 </div>
-
