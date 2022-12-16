@@ -204,23 +204,23 @@ This is a list of the domains I currently own, with an explanation for each. The
 
 <div class='box uses'>
 <div>
-    <div><a class='nl' rel='noopener noreferrer' href='https://hacdias.com'>hacdias.com</a></div>
+    <div><a class='nl lh' rel='noopener noreferrer' href='https://hacdias.com'>hacdias.com</a></div>
     <div>This is the domain you are visiting right now and I use it as my main domain. <code>hacdias</code> is also my default handle in the Internet, so you can likely find me with that name.</div>
   </div>
   <div>
-    <div><a class='nl' rel='noopener noreferrer' href='https://henriquedias.com'>henriquedias.com</a></div>
+    <div><a class='nl lh' rel='noopener noreferrer' href='https://henriquedias.com'>henriquedias.com</a></div>
     <div>This was my first domain, bought by my father as a gift when I was 14 years old. Nowadays, I redirect it to my main domain. I like to keep it, not just because of emotional attachment, but also because it's my first and last name combined.</div>
   </div>
   <div>
-    <div><a class='nl' rel='noopener noreferrer' href='https://h4c.pt'>h4c.pt</a></div>
+    <div><a class='nl lh' rel='noopener noreferrer' href='https://h4c.pt'>h4c.pt</a></div>
     <div>This one I bought after <a rel='noopener noreferrer' href='/2021/12/05/h4c-is-live'>speaking to Sebastiaan</a> about it. It's a short domain for a URL shortener. It's short and Portuguese 🇵🇹.</div>
   </div>
   <div>
-    <div><a class='nl' rel='noopener noreferrer' href='https://hacdia.sh'>hacdia.sh</a></div>
+    <div><a class='nl lh' rel='noopener noreferrer' href='https://hacdia.sh'>hacdia.sh</a></div>
     <div>This was the domain I used to use for my URL shortener. Right now, it serves the same application as <code>h4c.pt</code>. I like to keep it as it combines my handle with <code>.sh</code>. Maybe I could use it for code, or some other programming-related thing.</div>
   </div>
   <div>
-    <div><a class='nl' rel='noopener noreferrer' href='https://nata.cafe'>nata.cafe</a></div>
+    <div><a class='nl lh' rel='noopener noreferrer' href='https://nata.cafe'>nata.cafe</a></div>
     <div>This is the domain of the UNIX server that hosts my website, as well as some other small services for friends and myself. It is an homage to the Portuguese custard tart, Pastel de Nata, and cafés.</div>
   </div>
 </div>

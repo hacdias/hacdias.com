@@ -162,6 +162,10 @@ li {
   color: inherit;
 }
 
+.lh:hover {
+  text-decoration: underline;
+}
+
 .dn {
   display: none !important;
 }
