@@ -1,26 +1,22 @@
 {{ define "main" }}
 <main role='main'>
   {{ include "base/admin" . }}
+  <header>
+    <h1>{{ .Title }}{{ with .Data.Page }} ({{.}}){{ end }}</h1>
+  </header>
 
-  {{ $type := .Helper.PostType }}
-  <article class='h-list'>
-    {{ include "post/header" . }}
-    {{ include "post/content" . }}
+  {{ include "post/content" . }}
 
-    <h2 id='to-read'>📖 To Read</h2>
-    {{ include "logs" (.GetLogs ".to-read.json") }}
+  {{ $logs := .Data.Entries.AsReadsLogs }}
 
-    <h2 id='reading'>📚 Reading</h2>
-    {{ include "logs" (.GetLogs ".reading.json") }}
+  <h2 id='want-to-read'>📖 Want To Read</h2>
+  {{ include "logs" $logs.ToRead }}
 
-    <h2 id='read'>📕 Read</h2>
-    {{ include "logs" (.GetLogs ".read.json") }}
-  
-    {{ include "post/media" . }}
-    {{ include "post/footer" . }}
-  </article>
+  <h2 id='reading'>📚 Reading</h2>
+  {{ include "logs" $logs.Reading }}
 
-  {{ include "post/webmentions" . }}
+  <h2 id='read'>📕 Read</h2>
+  {{ include "logs" $logs.Finished }}
 </main>
 {{ end }}
 
