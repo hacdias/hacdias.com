@@ -1,0 +1,64 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-17T13:01:47+01:00",
+      "content": "First check-in in Aachen.",
+      "url": "https://ownyourswarm.p3k.io/checkin/639dafab743cb5604ec12c9f/5c1cbac764c71406a0eaffd5826749c5",
+      "type": "reply",
+      "swarmCoins": 4
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-17T13:01:47+01:00",
+      "content": "Your first check-in at Aachen Hauptbahnhof!",
+      "url": "https://ownyourswarm.p3k.io/checkin/639dafab743cb5604ec12c9f/1d85d13529368f3cbd3d1b2c1ae83c2f",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-17T13:01:47+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/639dafab743cb5604ec12c9f/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-17T13:01:47+01:00",
+      "content": "Your last check-in in Germany was over 2 months ago at Wyler.",
+      "url": "https://ownyourswarm.p3k.io/checkin/639dafab743cb5604ec12c9f/dde2b698f5609cc5efbc6bb1c1d7a8f9",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-17T13:01:47+01:00",
+      "content": "There\u0026#39;s a lot going on inside Aachen Hauptbahnhof! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/639dafab743cb5604ec12c9f/0e443438a4ba29734cbb5c1acd5749ce",
+      "type": "reply",
+      "swarmCoins": 1
+    }
+  ]
+}
