@@ -22,10 +22,10 @@ properties:
       operator: FlixBus
       origin:
         properties:
-          country-name: Belgium
-          latitude: 49.7927337
-          locality: Bouillon
-          longitude: 5.065330937148597
+          country-name: Luxembourg
+          latitude: 49.59988
+          locality: Luxembourg
+          longitude: 6.106621
           name: Luxembourg P+R Bouillon
           region: Luxembourg
         type: h-adr
