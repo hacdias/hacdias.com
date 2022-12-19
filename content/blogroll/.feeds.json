@@ -90,7 +90,7 @@
     "category": "comics"
   },
   {
-    "title": "Ctrl blog",
+    "title": "Ctrl.blog",
     "site": "https://www.ctrl.blog/",
     "feed": "https://feed.ctrl.blog/latest.atom",
     "category": "following"
@@ -261,6 +261,12 @@
     "title": "Matt Baer",
     "site": "https://write.as/matt/",
     "feed": "https://write.as/matt/feed/",
+    "category": "following"
+  },
+  {
+    "title": "Matt Colligan",
+    "site": "https://mcol.xyz",
+    "feed": "https://mcol.xyz/rss.xml",
     "category": "following"
   },
   {
@@ -441,12 +447,6 @@
     "title": "fluffy rambles",
     "site": "https://beesbuzz.biz/blog/",
     "feed": "https://beesbuzz.biz/blog/feed",
-    "category": "following"
-  },
-  {
-    "title": "mcol.xyz",
-    "site": "https://mcol.xyz",
-    "feed": "https://mcol.xyz/rss.xml",
     "category": "following"
   }
 ]
