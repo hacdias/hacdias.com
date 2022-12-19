@@ -1,14 +1,14 @@
 ---
 description: Trip from Berlin Hbf to Praha hl.n.
-published: 2020-02-08T21:26:00+02:00
+published: 2019-07-25T19:10:00+02:00
 section:
 - itineraries
 createdWith: https://quill.p3k.io/
 properties:
   itinerary:
     properties:
-      arrival: "2020-02-08T21:26:00+02:00"
-      departure: "2020-02-08T09:52:00+02:00"
+      arrival: "2019-07-25T21:26:00+02:00"
+      departure: "2019-07-25T19:10:00+02:00"
       destination:
         properties:
           country-name: Czechia
