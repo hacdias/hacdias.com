@@ -1,7 +1,7 @@
 ---
 title: Uses
 published: 2020-01-21T15:39:00Z
-updated: 2022-12-19T09:11:27.959049106+01:00
+updated: 2022-12-19T16:32:24.962447929+01:00
 noShowInteractions: true
 noSendInteractions: true
 ---
@@ -109,11 +109,11 @@ At home I also have a desk with some things. This desk is used by my partner or 
 <div class='box logs'>
   <div class='e'>
     <div>Desk</div>
-    <div>?</div>
+    <div>Ahrend Balance Solo (Electric, 120 x 80)</div>
   </div>
   <div class='e'>
     <div>Chair</div>
-    <div>?</div>
+    <div>Zinn Smart</div>
   </div>
   <div class='e'>
     <div>Monitor Stand</div>
