@@ -8,8 +8,6 @@ This website contains more things than it looks at first glance. This page is a 
 
 <!--more-->
 
-### 🪁 Categories {#categories}
-
 <div class='terms grid bold'>
 
 - [🏡 Home](/)
@@ -21,29 +19,22 @@ This website contains more things than it looks at first glance. This page is a 
 
 <div class='terms grid bold'>
 
+- [🧁 About](/about)
 - [✏️ Articles](/articles)
+- [🗞️ Blogroll](/blogroll)
 - [🔖 Bookmarks](/bookmarks)
 - [📚 Books](/books)
 - [📍 Checkins](/checkins)
+- [⚙️ Colophon](/colophon)
+- [✉️ Contact](/contact)
 - [🥘 Food and Beverages](/food)
+- [🎮 Games](/games)
+- [📖 Guestbook](/guestbook)
+- [🚀 Impossible List](/impossible-list)
 - [🗺 Itineraries](/itineraries)
 - [❤️ Likes](/likes)
 - [💬 Micro](/micro)
 - [📸 Photos](/photos)
-
-</div>
-
-### 🧵 Others {#others}
-
-<div class='terms grid bold'>
-
-- [🧁 About](/about)
-- [🗞️ Blogroll](/blogroll)
-- [⚙️ Colophon](/colophon)
-- [✉️ Contact](/contact)
-- [🎮 Games](/games)
-- [📖 Guestbook](/guestbook)
-- [🚀 Impossible List](/impossible-list)
 - [🔎 Search](/search)
 - [🛠 Uses](/uses)
 - [🏷 Tags](/tags)
