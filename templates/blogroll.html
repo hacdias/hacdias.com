@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+<main role='main'>
+  {{ include "base/admin" . }}
+
+  <article class='h-entry'>
+    {{ include "post/header" . }}
+    {{ include "post/content" . }}
+
+    {{ $feeds := .GetJSON ".feeds.json" }}
+
+    <div class="copy">
+      <h2>🖊️ Blogs</h2>
+
+      <div class='terms'>
+        <ul>
+          {{ range $feeds }}
+            {{ if eq .category "following" }}
+              <li><a href='{{ .site }}' rel='noopener noreferrer'>{{ .title }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+
+      <h2>💥 Comics</h2>
+
+      <div class='terms'>
+        <ul>
+          {{ range $feeds }}
+            {{ if eq .category "comics" }}
+              <li><a href='{{ .site }}' rel='noopener noreferrer'>{{ .title }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+
+    {{ include "post/media" . }}
+    {{ include "post/footer" . }}
+  </article>
+
+  {{ include "post/webmentions" . }}
+</main>
+
+{{ end }}
+
+{{ define "blogroll" }}
+  {{ template "base" . }}
+{{ end }}
