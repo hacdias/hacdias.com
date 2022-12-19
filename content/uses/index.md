@@ -65,9 +65,15 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my daily basis to work. Being in a coworking space allows me to separate work from personal things. Besides, since my work is fully remote, going to a coworking place is also a way of interacting with others in-person.
 
-<!-- Add desk and chair? -->
-
 <div class='box logs'>
+  <div class='e'>
+    <div>Desk</div>
+    <div>Unknown Manual Adjustable Desk (Rented)</div>
+  </div>
+  <div class='e'>
+    <div>Chair</div>
+    <div>Herman Miller Mirra (Rented)</div>
+  </div>
   <div class='e'>
     <div>Monitor Stand</div>
     <div>IKEA ELLOVEN</div>
@@ -100,9 +106,15 @@ I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my dail
 
 At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
-<!-- Add desk and chair? -->
-
 <div class='box logs'>
+  <div class='e'>
+    <div>Desk</div>
+    <div>?</div>
+  </div>
+  <div class='e'>
+    <div>Chair</div>
+    <div>?</div>
+  </div>
   <div class='e'>
     <div>Monitor Stand</div>
     <div>IKEA SIGFINN</div>
