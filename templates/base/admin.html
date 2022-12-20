@@ -1,13 +1,74 @@
 {{ define "base/admin" }}
   {{ if .IsLoggedIn }}
     <style>
-    #btn-edit {
-      position: fixed;
-      bottom: 1rem;
-      right: 1rem;
-      z-index: 99999999;
+    #admin-navbar {
+      display: flex;
+      background-color: #00415d;
+      color: var(--white);
+      overflow: hidden;
+      text-align: center;
+      font-weight: 700;
+      margin-top: calc(-1 * var(--ms));
+      top: 0;
+      position: sticky;
+      border-bottom-left-radius: var(--radius);
+      border-bottom-right-radius: var(--radius);
+      z-index: 999999;
+    }
+
+    #admin-navbar input {
+      display: none;
+    }
+
+    #admin-navbar label,
+    #admin-navbar a {
+      flex-grow: 1;
+      display: block;
+      padding: var(--hms);
+      cursor: pointer;
+    }
+
+    #admin-navbar label {
+      display: none;
+    }
+
+    #admin-navbar a:hover {
+      background-color: rgba(0, 0, 0, 0.2);
+    }
+
+    #admin-navbar a[aria-current="page"] {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+
+    @media screen and (max-width: 52rem) {
+      #admin-navbar,
+      #admin-navbar label,
+      #admin-toggler:checked + #admin-navbar a {
+        display: block;
+        text-align: left;
+      }
+
+      #admin-navbar {
+        margin-left: 0;
+        width: 100%;
+      }
+
+      #admin-navbar a {
+        display: none;
+      }
     }
     </style>
-    <a href="/edit{{ .Entry.ID }}"><button id='btn-edit'>Edit</button></a>
+
+    <input type='checkbox' id='admin-toggler' hidden>
+    <nav id='admin-navbar' class='fw'>
+      <label for="admin-toggler">🍔 Menu</label>
+      <a class='nl' href='/new'>🎛️ Dashboard</a>
+      <a class='nl' href='/new'>📄 New</a>
+      <a class='nl' href="/edit{{ .Entry.ID }}">✏️ Edit</a>
+      <a class='nl' href='/drafts'>🗃️ Drafts</a>
+      <a class='nl' href='/unlisted'>🙈 Unlisted</a>
+      <a class='nl' href='/deleted'>🗑️ Deleted</a>
+      <a class='nl' href='/logout'>🚪 Logout</a>
+    </nav>
   {{ end }}
 {{ end }}

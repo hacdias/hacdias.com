@@ -1,7 +1,5 @@
 {{ define "main" }}
 <main role='main'>
-  {{ include "base/admin" . }}
-
   {{ $type := .Helper.PostType }}
   <article class='h-list'>
     {{ include "post/header" . }}

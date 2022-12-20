@@ -1,8 +1,6 @@
 {{ define "main" }}
 
 <main role='main'>
-  {{ include "base/admin" . }}
-
   {{ $type := .Helper.PostType }}
   <article class='{{ if ne $type "article" }}card {{ end }}h-entry'>
     {{ include "post/header" . }}

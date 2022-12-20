@@ -1,7 +1,5 @@
 {{ define "main" }}
   <main role="main" {{ if eq .Data.Page 0 }}class="home"{{ end }}>
-    {{ include "base/admin" . }}
-
     <div class="copy">
       {{ if eq .Data.Page 0 }}
         {{ include "post/content" . }}

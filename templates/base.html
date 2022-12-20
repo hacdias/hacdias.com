@@ -6,6 +6,7 @@
 </head>
 <body>
   <div class='container'>
+    {{ include "base/admin" . }}
     {{ include "base/header" . }}
     {{ template "main" . }}
     {{ include "base/footer" . }}
