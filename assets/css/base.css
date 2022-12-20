@@ -392,8 +392,7 @@ details summary {
   font-size: var(--f3);
 }
 
-#header label,
-#navbar input {
+#header label {
   display: none;
 }
 
