@@ -1,6 +1,10 @@
 {{ define "base/admin" }}
   {{ if .IsLoggedIn }}
     <style>
+    :root {
+      border-top: var(--border) solid var(--light-white);
+    }
+
     #admin-navbar {
       display: flex;
       background: var(--white);
@@ -9,7 +13,7 @@
       overflow: hidden;
       text-align: center;
       font-weight: 700;
-      margin-top: calc(-1 * var(--ms));
+      margin-top: calc(-1 * var(--ms) - var(--border));
       border-bottom-left-radius: var(--radius);
       border-bottom-right-radius: var(--radius);
     }
@@ -48,6 +52,10 @@
       }
     }
     </style>
+
+    <script>
+    document.querySelector('meta[name=theme-color]').content = '#ffffff';
+    </script>
 
     <input type='checkbox' id='admin-toggler' hidden>
     <nav id='admin-navbar' class='fw'>
