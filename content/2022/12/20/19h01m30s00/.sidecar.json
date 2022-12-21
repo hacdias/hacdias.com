@@ -48,5 +48,18 @@
       "type": "reply",
       "swarmCoins": 10
     }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Alexey Sidelnikov",
+        "photo": "https://cdn.hacdias.com/wm/4842efa001179e047902cf97673dc5dd9ce721244dbbdeb4b3081abc51cad41e.jpg",
+        "url": "https://foursquare.com/user/7687876"
+      },
+      "published": "2022-12-20T19:01:30+01:00",
+      "content": "liked your checkin",
+      "url": "https://ownyourswarm.p3k.io/checkin/63a1f87ac1911b31e064d8cb/467b81779d2cac04f3510562b5fd2563",
+      "type": "like"
+    }
   ]
 }
