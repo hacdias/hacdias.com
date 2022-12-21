@@ -2,7 +2,7 @@
 description: 'Just drank: Alpro Soja Macchiato'
 published: 2022-06-17T09:17:52Z
 section:
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

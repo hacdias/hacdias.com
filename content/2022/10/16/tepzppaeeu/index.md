@@ -3,7 +3,7 @@ description: 'Just drank: Coffeelab Brazil, Guatemala, Etiópia Blend'
 published: 2022-10-16T07:23:38Z
 updated: 2022-10-16T09:28:39.965000836+02:00
 section:
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

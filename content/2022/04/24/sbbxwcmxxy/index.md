@@ -1,8 +1,7 @@
 ---
 published: 2022-04-24T13:15:22Z
 section:
-- home
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

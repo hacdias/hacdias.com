@@ -2,7 +2,7 @@
 description: 'Just drank: Hot Chocolate'
 published: 2020-02-04T12:33:44+01:00
 section:
-- food
+- drinks
 createdWith: https://hacdias.com/
 properties:
   drank:

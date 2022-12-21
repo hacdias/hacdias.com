@@ -2,8 +2,7 @@
 description: 'Just drank: Violet Spritz'
 published: 2022-04-23T17:44:59Z
 section:
-- home
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

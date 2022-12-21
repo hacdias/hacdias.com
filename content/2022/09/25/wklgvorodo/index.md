@@ -3,7 +3,7 @@ description: 'Just drank: French Press Coffee (Lucifer Ethiopia)'
 published: 2022-09-25T06:30:24Z
 updated: 2022-10-16T09:36:48.485191758+02:00
 section:
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

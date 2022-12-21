@@ -2,8 +2,7 @@
 description: 'Just drank: Apple and Cinnamon Tea'
 published: 2022-03-16T13:47:04Z
 section:
-- home
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

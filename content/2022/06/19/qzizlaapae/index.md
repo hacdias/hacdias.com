@@ -2,7 +2,7 @@
 description: 'Just drank: Baileys’ Coffee'
 published: 2022-06-19T18:38:21Z
 section:
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

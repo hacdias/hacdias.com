@@ -2,7 +2,7 @@
 description: 'Just drank: Liefmans Rosé'
 published: 2022-02-21T19:15:48Z
 section:
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

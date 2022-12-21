@@ -2,7 +2,7 @@
 description: 'Just drank: Espresso Martini'
 published: 2022-05-23T19:42:25Z
 section:
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

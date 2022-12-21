@@ -2,8 +2,7 @@
 description: 'Just drank: Strawberry & Hibiscus Tea'
 published: 2022-03-22T17:40:45Z
 section:
-- home
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

@@ -2,7 +2,7 @@
 description: 'Just drank: Wieckse Rosé'
 published: 2022-02-20T19:08:13Z
 section:
-- food
+- drinks
 createdWith: https://micropublish.net/
 properties:
   drank:

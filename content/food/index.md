@@ -1,5 +1,5 @@
 ---
-title: Food and Beverages
+title: Food
 listing: {}
-description: Things I ate or drank.
+description: Things I ate.
 ---
