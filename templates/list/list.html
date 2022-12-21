@@ -11,9 +11,15 @@
     </div>
   {{ end }}
 
-  {{ with .Data.NextPage }}
-  <p style="text-align: center">
-    <a href="{{ . }}" style="margin-right: auto;">More</a>
+  {{ if or .Data.PreviousPage .Data.NextPage }}
+  <p style="display: flex;">
+    {{ with .Data.PreviousPage }}
+      <a href="{{ . }}" style="margin-right: auto;">← Newer</a>
+    {{ end }}
+
+    {{ with .Data.NextPage }}
+      <a href="{{ . }}" style="margin-left: auto;">Older →</a>
+    {{ end }}
   </p>
   {{ end }}
 {{ end }}
