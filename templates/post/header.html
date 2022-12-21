@@ -29,8 +29,6 @@
     {{ include "post/header/itinerary" . }}
   {{ else if eq $type "rsvp" }}
     {{ include "post/header/rsvp" . }}
-  {{ else if eq $type "note" }}
-    <!-- Do Nothing -->
   {{ else if .Entry.Title }}
     <header>
       {{ if .Listing }}
