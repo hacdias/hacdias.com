@@ -1,6 +1,6 @@
 ---
 description: 'Just drank: Liefmans Rosé'
-published: 2022-02-21T19:15:48Z
+published: 2022-02-21T20:15:48+01:00
 section:
 - drinks
 createdWith: https://micropublish.net/
@@ -9,14 +9,7 @@ properties:
     properties:
       name: Liefmans Rosé
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43732
-      locality: Eindhoven
-      longitude: 5.4792
-      region: North Brabant
-    type: h-adr
+  location: /2022/02/21/xphqobjnyb
 ---
 
 

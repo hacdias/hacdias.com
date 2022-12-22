@@ -9,14 +9,7 @@ properties:
     properties:
       name: Hazulnut Coffee
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4325
-      locality: Eindhoven
-      longitude: 5.48612
-      region: North Brabant
-    type: h-adr
+  location: /2022/09/12/rvueihuezu
   photo: cdn:/3390cb907397fee5b90d91a6c62fbc0bba31c2395fa0e552404d27bc55ae9a66
 ---
 

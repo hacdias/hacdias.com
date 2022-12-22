@@ -1,0 +1,20 @@
+{
+  "targets": [
+    "https://hacdias.com/2022/12/17/13h51m08s00",
+    "https://hacdias.com/2022/12/17/19h19m04s00",
+    "https://hacdias.com/2022/12/17/19h40m04s00"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/6d04d58fb0ac2d5d84c05bbe59489507b0f28f1d69ebf4ea3e625ef2cdb7b6eb.jpg",
+        "url": "https://fosstodon.org/users/hacdias"
+      },
+      "published": "2022-12-22T17:19:29Z",
+      "url": "https://fosstodon.org/users/hacdias/statuses/109558469057684941/activity",
+      "type": "repost",
+      "id": "https://fosstodon.org/users/hacdias/statuses/109558469057684941/activity"
+    }
+  ]
+}

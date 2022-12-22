@@ -9,6 +9,7 @@ properties:
     properties:
       name: Magners Cider
     type: h-food
+  location: /2022/02/04/ohkzgdscap
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 description: 'Just drank: Magners Irish Cider'
-published: 2022-03-21T19:02:33Z
+published: 2022-03-21T20:02:33+01:00
 section:
 - drinks
 createdWith: https://micropublish.net/
@@ -9,14 +9,7 @@ properties:
     properties:
       name: Magners Irish Cider
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44925
-      locality: Eindhoven
-      longitude: 5.4872
-      region: North Brabant
-    type: h-adr
+  location: /2022/03/21/hknqtoaudq
 ---
 
 

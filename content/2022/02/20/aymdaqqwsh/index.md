@@ -9,14 +9,7 @@ properties:
     properties:
       name: Wieckse Rosé
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43743
-      locality: Eindhoven
-      longitude: 5.4801
-      region: North Brabant
-    type: h-adr
+  location: /2022/02/20/ecxajwzist
 ---
 
 

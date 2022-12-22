@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/83522c798b961efadde7f4a0b6f00dc5efe4d40258c5df3a4f8f38916410531b.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-22T15:43:03+01:00",
+      "content": "There\u0026#39;s a lot going on inside Eindhoven Airport! Check in to more places here to earn more coins.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63a46cf7f696cb05c03513a2/9d7879385c193903637f81bfcd82f14d",
+      "type": "reply",
+      "swarmCoins": 3
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af443c6bc3080eb25c1fda1e16667b5c986cf4473f63d2eb6c5293d527e1285.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-22T15:43:03+01:00",
+      "content": "Wow! That\u0026#39;s 40 check-ins at Airports!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63a46cf7f696cb05c03513a2/2ff3c531756b77636775682ab65b018d",
+      "type": "reply",
+      "swarmCoins": 15
+    }
+  ]
+}

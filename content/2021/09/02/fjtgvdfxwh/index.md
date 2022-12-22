@@ -8,6 +8,7 @@ properties:
     properties:
       name: Rodenbach Fruitage
     type: h-food
+  location: /2021/09/02/zbmapvqqqe
 ---
 
 
