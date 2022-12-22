@@ -28,7 +28,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🥘 Food](/food)
 - [🧋 Drinks](/drinks)
 - [🗺 Itineraries](/itineraries)
-- [❤️ Likes](/likes)
 - [💬 Micro](/micro)
 - [📸 Photos](/photos)
 
