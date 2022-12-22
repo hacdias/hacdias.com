@@ -1,25 +1,23 @@
 {{ define "base/admin" }}
   {{ if .IsLoggedIn }}
     <style>
-    :root {
-      border-top: var(--border) solid var(--light-white);
-    }
-
     #admin-navbar {
-      display: flex;
       background: var(--white);
-      border: var(--border) solid var(--light-white);
-      border-top: 0;
+      border-bottom: var(--border) solid var(--light-white);
       overflow: hidden;
       text-align: center;
       font-weight: 700;
       margin-top: calc(-1 * var(--ms) - var(--border));
-      border-bottom-left-radius: var(--radius);
-      border-bottom-right-radius: var(--radius);
-
       position: sticky;
       top: 0;
       z-index: 99999;
+    }
+
+    #admin-navbar > div {
+      display: flex;
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 0 var(--hms);
     }
 
     #admin-navbar label,
@@ -39,7 +37,7 @@
     }
 
     @media screen and (max-width: 52rem) {
-      #admin-navbar,
+      #admin-navbar > div,
       #admin-navbar label,
       #admin-toggler:checked + #admin-navbar a {
         display: block;
@@ -63,13 +61,15 @@
 
     <input type='checkbox' id='admin-toggler' hidden>
     <nav id='admin-navbar' class='fw'>
-      <label for="admin-toggler">🍞 Menu</label>
-      <a class='nl' href='/dashboard'>🎛️ Dashboard</a>
-      <a class='nl' href='/new'>📄 New</a>
-      <a class='nl' href="/edit{{ .Entry.ID }}">✏️ Edit</a>
-      <a class='nl' href='/drafts'>🗃️ Drafts</a>
-      <a class='nl' href='/unlisted'>🙈 Unlisted</a>
-      <a class='nl' href='/deleted'>🗑️ Deleted</a>
+      <div>
+        <label for="admin-toggler">🍞 Menu</label>
+        <a class='nl' href='/dashboard'>🎛️ Dashboard</a>
+        <a class='nl' href='/new'>📄 New</a>
+        <a class='nl' href="/edit{{ .Entry.ID }}">✏️ Edit</a>
+        <a class='nl' href='/drafts'>🗃️ Drafts</a>
+        <a class='nl' href='/unlisted'>🙈 Unlisted</a>
+        <a class='nl' href='/deleted'>🗑️ Deleted</a>
+      </div>
     </nav>
   {{ end }}
 {{ end }}
