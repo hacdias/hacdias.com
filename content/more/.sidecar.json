@@ -49,5 +49,18 @@
       "url": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle",
       "type": "mention"
     }
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Henrique Dias",
+        "photo": "https://cdn.hacdias.com/wm/1c77ad330ad31eb2245e95ab1e1ca542f9a7696c028fdf02044b60022a905dd6.jpg",
+        "url": "https://hacdias.com/"
+      },
+      "published": "2022-12-23T10:17:56+01:00",
+      "content": "This article by Austin is quite interesting. He talks about how programming can be seen as a playful thing, instead of making things that have a hard purpose. It reminds me of the time I made a few experiments for fun. I should do that kind of programming again: fun programming. And it doesn’t necessarily have to be web programming either. Just fun, with fun things.",
+      "url": "https://hacdias.com/2022/12/23/10h17m56s51",
+      "type": "bookmark"
+    }
   ]
 }
