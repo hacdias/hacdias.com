@@ -1,6 +1,10 @@
 - name: White Lotus
-  season: 2
+  season: 1
   rating: 4
+  date: 2022-12-24
+- name: White Lotus
+  season: 2
+  rating: 5
   date: 2022-12-19
 - name: Warrior Nun
   season: 2
