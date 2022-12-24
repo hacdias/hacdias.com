@@ -90,4 +90,4 @@ properties:
     type: h-adr
 ---
 
-
+Day trip to Ghent to visit a friend.

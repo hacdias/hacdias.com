@@ -39,4 +39,4 @@ properties:
     type: h-adr
 ---
 
-
+SmashingConf 2018
