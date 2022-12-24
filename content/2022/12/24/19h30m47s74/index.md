@@ -1,0 +1,18 @@
+---
+published: 2022-12-24T19:30:47.740246787+01:00
+section:
+- micro
+- home
+createdWith: https://hacdias.com/
+properties:
+  location:
+    properties:
+      country-name: Portugal
+      latitude: 37.50279
+      locality: Santana da Serra
+      longitude: -8.29792
+      region: Beja
+    type: h-adr
+---
+
+For everyone that celebrates, I wish you a Happy Christmas (Eve)! 🎄 May you have fun and spend a great time with your loved ones.
