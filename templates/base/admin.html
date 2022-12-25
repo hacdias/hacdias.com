@@ -1,8 +1,17 @@
 {{ define "base/admin" }}
   {{ if .IsLoggedIn }}
     <style>
-    :root {
+    #admin {
+      position: sticky;
+      top: 0;
+      z-index: 99999;
+      margin-top: calc(-1 * var(--ms) - var(--border));
       border-top: var(--border) solid var(--light-white);
+    }
+
+    #admin .container {
+      padding-top: 0;
+      padding-bottom: 0;
     }
 
     #admin-navbar {
@@ -13,13 +22,9 @@
       overflow: hidden;
       text-align: center;
       font-weight: 700;
-      margin-top: calc(-1 * var(--ms) - var(--border));
       border-bottom-left-radius: var(--radius);
       border-bottom-right-radius: var(--radius);
-
-      position: sticky;
-      top: 0;
-      z-index: 99999;
+      margin-top: -1px; 
     }
 
     #admin-navbar label,
@@ -61,15 +66,19 @@
     document.querySelector('meta[name=theme-color]').content = '#ffffff';
     </script>
 
-    <input type='checkbox' id='admin-toggler' hidden>
-    <nav id='admin-navbar' class='fw'>
-      <label for="admin-toggler">🍞 Menu</label>
-      <a class='nl' href='/dashboard'>🎛️ Dashboard</a>
-      <a class='nl' href='/new'>📄 New</a>
-      <a class='nl' href="/edit{{ .Entry.ID }}">✏️ Edit</a>
-      <a class='nl' href='/drafts'>🗃️ Drafts</a>
-      <a class='nl' href='/unlisted'>🙈 Unlisted</a>
-      <a class='nl' href='/deleted'>🗑️ Deleted</a>
-    </nav>
+    <div id='admin'>
+      <div class='container'>
+        <input type='checkbox' id='admin-toggler' hidden>
+        <nav id='admin-navbar' class='fw'>
+          <label for="admin-toggler">🍞 Menu</label>
+          <a class='nl' href='/dashboard'>🎛️ Dashboard</a>
+          <a class='nl' href='/new'>📄 New</a>
+          <a class='nl' href="/edit{{ .Entry.ID }}">✏️ Edit</a>
+          <a class='nl' href='/drafts'>🗃️ Drafts</a>
+          <a class='nl' href='/unlisted'>🙈 Unlisted</a>
+          <a class='nl' href='/deleted'>🗑️ Deleted</a>
+        </nav>
+      </div>
+    </div>
   {{ end }}
 {{ end }}
