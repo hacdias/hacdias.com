@@ -10,27 +10,40 @@ function addEmoji (el) {
   const month = today.getMonth() + 1
   const day = today.getDate()
   let emoji = null
+  let alt = ''
 
   if (month === 1 && day <= 3) {
     emoji = '🎊'
+    alt = 'Happy New Year!'
   } else if (month === 5 && day === 17) {
     emoji = '🌈'
+    alt = 'International Day Against Homophobia, Biphobia and Transphobia'
   } if (month === 6) {
     emoji = '🏳️‍🌈'
+    alt = 'Happy Pride Month!'
   } if (month === 10 && day === 22) {
     emoji = '🎂'
+    alt = 'Happy Birthday to Me!'
   } else if (month === 10 && day >= 30) {
     emoji = '🎃'
+    alt = 'Happy Holiday!'
   } else if (month === 11 && day === 1) {
     emoji = '👻'
+    alt = `Happy All Saint's Day!`
   } else if (month === 12 && day === 5) {
     emoji = '🍪'
+    alt = 'Happy Sinterklaas!'
   } else if (month === 12 && day >= 20) {
     emoji = '🎄'
+    alt = 'Happy Christmas!'
   }
 
   if (emoji) {
-    el.innerHTML = emoji
+    const span = document.createElement('span')
+    span.title = alt
+    span.alt = alt
+    span.innerText = emoji
+    el.innerHTML = span.outerHTML
   }
 }
 

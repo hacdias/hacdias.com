@@ -35,7 +35,7 @@ During my time at TU/e, I was a student mentor, where I mentored 12 new master s
 
 These experiences were driven by my belief in transparency and openness, in a united Europe 🇪🇺 and that we all deserve equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
 
-### The (un)story of my handle 🤔
+### The (un)story of my handle 🤔 {#handle}
 
 Most likely you've already noticed that my handle, `@hacdias`, reminds of the word 'hack'. However, I can assure you they have nothing to do with each other. It was a mere coincidence between the first letters of my first name and middle names - 'hac' - and last name - 'dias' - that I happen to enjoy.
 
