@@ -5,26 +5,25 @@
       position: sticky;
       top: 0;
       z-index: 99999;
+      background: var(--white);
+      border-bottom: var(--border) solid var(--light-white);
       margin-top: calc(-1 * var(--ms) - var(--border));
-      border-top: var(--border) solid var(--light-white);
+      margin-bottom: 1rem;
     }
 
-    #admin .container {
-      padding-top: 0;
-      padding-bottom: 0;
+    #admin > div {
+      max-width: var(--max-width);
+      padding: 0 var(--ls);
+      margin: 0 auto;
     }
 
     #admin-navbar {
       display: flex;
-      background: var(--white);
-      border: var(--border) solid var(--light-white);
-      border-top: 0;
       overflow: hidden;
       text-align: center;
       font-weight: 700;
-      border-bottom-left-radius: var(--radius);
-      border-bottom-right-radius: var(--radius);
-      margin-top: -1px; 
+      margin-top: 0;
+      margin-bottom: 0;
     }
 
     #admin-navbar label,
@@ -67,7 +66,7 @@
     </script>
 
     <div id='admin'>
-      <div class='container'>
+      <div>
         <input type='checkbox' id='admin-toggler' hidden>
         <nav id='admin-navbar' class='fw'>
           <label for="admin-toggler">🍞 Menu</label>
