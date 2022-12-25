@@ -2,7 +2,7 @@
   <div id='header'>
     <div id='home'>
       <a rel='noreferrer noopener' class='avatar nl' href='{{ relURL "/" }}'>
-        <picture  title='This is myself, kinda.'>
+        <picture title='This is myself, kinda.'>
           <source type='image/webp' srcset='{{ relURL "/avatar.webp" }}'>
           <img alt='Avatar' src='{{ relURL "/avatar.png" }}' width="100px">
         </picture>
@@ -31,7 +31,7 @@
 
   <input type='checkbox' id='toggler' hidden>
   <nav id='navbar' class='fw'>
-    <label for="toggler">🍔 Menu</label>
+    <label for='toggler'>🍔 Menu</label>
     {{ range .Site.Menus.main -}}
       {{ $url := relURL .Link }}
       <a href='{{ $url }}' class='nl'{{ if eq $url $.ID }} aria-current='page'{{ end }}>{{ .Name }}</a>
