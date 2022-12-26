@@ -41,15 +41,15 @@ On one side, ActivityPub can be a tremendous effort. The specification can be co
 
 I have, however, considered another option: simply [POSSE](/2022/11/18/23h28m13s83) to a Mastodon account. Then, I won't have to implement every ActivityPub specification. Right now, I'm divided between a Mastodon account and my own website because my own website doesn't support certain functionalities, such as following others. At the same time, I am unsure whether I would really want to implement it.
 
-**❤️ Likes and Reposts**: This is one of those kinds of content that I feel like they'll have little value for me in the future. If I want to remember something, I will make a [bookmark](/bookmark). A like, or a repost, is just a temporary agreement with something that someone else said. I decided that, from now on, to keep likes as unlisted, and possibly reposts. They will show up on their platforms, but will not be listen on my website.
+**❤️ Likes and Reposts**: This is one of those kinds of content that I feel like they'll have little value for me in the future. If I want to remember something, I will make a [bookmark](/bookmark). A like, or a repost, is just a temporary agreement with something that someone else said. I decided that, from now on, to keep likes as unlisted, and possibly reposts. They will show up on their platforms, but will not be listed on my website.
 
-**🎶 Scrobbles**: I recently ditched the scrobble 🎶 posts. Instead, I am planning on writing a "Year In Music" during January. If there are any albums, or any songs that, for some reason, I feel like writing about, then I will write a post about it. But I won't be posting individual scrobbles anymore. That was an easy decision though: scrobbles are, after all, quick actions, they don't last long and they won't make an impact just by themselves.
+**🎶 Scrobbles**: I recently ditched the scrobble posts. Instead, I am planning on writing a "Year In Music" during January. If there are any albums, or any songs that, for some reason, I feel like writing about, then I will write a post about it. But I won't be posting individual scrobbles anymore. That was an easy decision though: scrobbles are, after all, quick actions, they don't last long and they won't make an impact just by themselves.
 
 **📚 Reads**: For each book I read, I write a post about it with a small review, some notes and quotes, and a rating. That is what I've done lately. Unfortunately, I have no notes or ratings from books I read years ago. Some don't even have dates! I just know I read them. When? Who knows?
 
 **🎬 Watches**: I used to do something similar for movies and shows, but using [Trakt](https://trakt.tv). Trakt is a very nice website that lets you track which movies and episodes you've watched. Before, I used a tool I built to import each "watch" event as a watch post in my website. But that became too many, specially because every single episode of every season was tracked individually.
 
-Now, I am tracking the things on my website and on Trakt separately and I no longer have individual posts for each watch event. I still don't know how to feel about it. I have double the work, as I track it on two places at once. At the same time, I haven't figured out a good way to check with Trakt api "is this season finished?". Decisions... decisions...
+Now, I am tracking the things on my website and on Trakt separately and I no longer have individual posts for each watch event. I still don't know how to feel about it. I have double the work, as I track it on two places at once. At the same time, I haven't figured out a good way to check with Trakt API "is this season finished?". Decisions... decisions...
 
 ---
 
