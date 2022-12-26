@@ -2,7 +2,7 @@
 description: 'O ano da morte de Ricardo Reis by José Saramago (ISBN: 9789720048820)'
 published: 2022-01-17T17:39:36.758940822Z
 section:
-- books
+- readings
 properties:
   rating: 4
   read-of:

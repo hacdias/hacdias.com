@@ -1,7 +1,7 @@
 ---
 description: 'A Porta das Três Fechaduras by Sonia Fernández-Vidal (ISBN: 9789722349567)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

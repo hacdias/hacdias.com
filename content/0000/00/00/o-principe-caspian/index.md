@@ -1,7 +1,7 @@
 ---
 description: 'O Príncipe Caspian by C.S. Lewis (ISBN: 9789722330978)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

@@ -1,7 +1,7 @@
 ---
 description: 'Capitães da Areia by Jorge Amado (ISBN: 9789896530075)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

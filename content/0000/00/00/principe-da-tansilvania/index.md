@@ -1,7 +1,7 @@
 ---
 description: 'Príncipe da Tansilvânia by Tim Collins (ISBN: 9789897070211)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

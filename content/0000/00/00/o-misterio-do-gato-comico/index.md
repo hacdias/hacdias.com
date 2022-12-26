@@ -1,7 +1,7 @@
 ---
 description: 'O Mistério do Gato Cómico by Enid Blyton (ISBN: 9789895557738)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

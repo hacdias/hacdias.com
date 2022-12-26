@@ -1,7 +1,7 @@
 ---
 description: 'Uma Aventura entre Douro e Minho by Ana Maria Magalhães (ISBN: 9789722100052)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

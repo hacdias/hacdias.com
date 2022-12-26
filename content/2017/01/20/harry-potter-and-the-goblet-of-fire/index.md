@@ -2,7 +2,7 @@
 description: 'Harry Potter and the Goblet of Fire by J.K. Rowling (ISBN: 9781408855683)'
 published: 2017-01-20T08:00:00Z
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

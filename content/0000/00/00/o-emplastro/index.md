@@ -1,7 +1,7 @@
 ---
 description: 'O Emplastro by Jeff Kinney (ISBN: 9789897071188)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

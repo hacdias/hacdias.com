@@ -3,7 +3,7 @@ description: 'Zero to One: Notes on Start Ups, or How to Build the Future by Pet
   Thiel (ISBN: 9780753555200)'
 published: 2017-05-09T07:00:00Z
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

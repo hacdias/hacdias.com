@@ -1,7 +1,7 @@
 ---
 description: 'Pânico nos Himalaias by Geronimo Stilton (ISBN: 9789722336390)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

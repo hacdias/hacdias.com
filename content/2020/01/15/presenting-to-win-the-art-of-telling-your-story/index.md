@@ -3,7 +3,7 @@ description: 'Presenting to Win: The Art of Telling Your Story by Jerry Weissman
   9780130464132)'
 published: 2020-01-15T08:00:00Z
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

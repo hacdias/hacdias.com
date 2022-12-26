@@ -10,7 +10,7 @@ taxonomies:
   - meta
 ---
 
-Lately, I have been [reading](/books/) a bit more. Therefore, I wanted to be able to post more about it and track the progress. This is something I used to do before with Goodreads, but I have since stopped using it. The logical solution? Implement more features on my website. Why not?
+Lately, I have been [reading](/readings/) a bit more. Therefore, I wanted to be able to post more about it and track the progress. This is something I used to do before with Goodreads, but I have since stopped using it. The logical solution? Implement more features on my website. Why not?
 
 <!--more-->
 

@@ -23,13 +23,13 @@ This website contains more things than it looks at first glance. This page is a 
 
 - [✏️ Articles](/articles)
 - [🔖 Bookmarks](/bookmarks)
-- [📚 Books](/books)
 - [📍 Checkins](/checkins)
-- [🥘 Food](/food)
 - [🧋 Drinks](/drinks)
+- [🥘 Food](/food)
 - [🗺 Itineraries](/itineraries)
 - [💬 Micro](/micro)
 - [📸 Photos](/photos)
+- [📚 Readings](/readings)
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 description: 'Divergente by Veronica Roth (ISBN: 9789720043818)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

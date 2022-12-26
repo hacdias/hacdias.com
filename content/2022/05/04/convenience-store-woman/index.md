@@ -2,7 +2,7 @@
 description: 'Convenience Store Woman by Sayaka Murata (ISBN: 9781846276842)'
 published: 2022-05-04T08:43:33.684533152+02:00
 section:
-- books
+- readings
 createdWith: https://hacdias.com/
 properties:
   rating: 4

@@ -1,7 +1,7 @@
 ---
 description: 'A Nova Inteligência by Daniel H. Pink (ISBN: 9789724746203)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

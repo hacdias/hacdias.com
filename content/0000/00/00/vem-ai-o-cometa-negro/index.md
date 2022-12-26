@@ -1,7 +1,7 @@
 ---
 description: 'Vem aí o cometa negro! by Álvaro Magalhães (ISBN: 9789892313214)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

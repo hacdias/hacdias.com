@@ -1,7 +1,7 @@
 ---
 description: 'Um Dia de Cão by Jeff Kinney (ISBN: 9789896680596)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

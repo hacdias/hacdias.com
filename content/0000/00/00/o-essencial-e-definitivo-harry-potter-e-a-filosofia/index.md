@@ -2,7 +2,7 @@
 description: 'O Essencial e Definitivo Harry Potter e a Filosofia by Gregory Bassham
   (ISBN: 9789897180071)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

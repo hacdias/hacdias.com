@@ -1,7 +1,7 @@
 ---
 description: 'Percy Jackson e a Maldição do Titã by Rick Riordan (ISBN: 9789724620251)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

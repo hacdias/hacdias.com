@@ -3,7 +3,7 @@ description: 'Alice''s Adventures in Wonderland and Through the Looking-Glass by
   Carroll (ISBN: 9780141439761)'
 published: 2020-01-31T08:00:00Z
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

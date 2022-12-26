@@ -1,7 +1,7 @@
 ---
 description: 'Uma Aventura na Casa Assombrada by Ana Maria Magalhães (ISBN: 9789722111225)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

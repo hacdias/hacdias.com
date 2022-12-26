@@ -1,7 +1,7 @@
 ---
 description: 'A Última Batalha by C.S. Lewis (ISBN: 9789722332200)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

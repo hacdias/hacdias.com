@@ -1,7 +1,7 @@
 ---
 description: 'O Cavalo e o seu Rapaz by C.S. Lewis (ISBN: 9789722330558)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

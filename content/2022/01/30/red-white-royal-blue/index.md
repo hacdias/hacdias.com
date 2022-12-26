@@ -2,7 +2,7 @@
 description: 'Red, White & Royal Blue by Casey McQuiston (ISBN: 9781250316776)'
 published: 2022-01-30T23:06:19.086212536+01:00
 section:
-- books
+- readings
 properties:
   rating: 4
   read-of:

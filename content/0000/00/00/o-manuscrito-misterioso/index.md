@@ -1,7 +1,7 @@
 ---
 description: 'O Manuscrito Misterioso by Geronimo Stilton (ISBN: 9789722334723)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

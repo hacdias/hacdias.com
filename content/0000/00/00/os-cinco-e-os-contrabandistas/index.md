@@ -1,7 +1,7 @@
 ---
 description: 'Os Cinco e os Contrabandistas by Enid Blyton (ISBN: 9789895558360)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

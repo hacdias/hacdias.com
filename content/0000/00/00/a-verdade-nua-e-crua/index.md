@@ -1,7 +1,7 @@
 ---
 description: 'A Verdade Nua e Crua by Jeff Kinney (ISBN: 9789897070433)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

@@ -1,7 +1,7 @@
 ---
 description: 'O Herói Desaparecido by Rick Riordan (ISBN: 9789896574918)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

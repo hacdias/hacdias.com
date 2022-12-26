@@ -1,7 +1,7 @@
 ---
 description: 'O Mistério do Colar Desaparecido by Enid Blyton (ISBN: 9789895555222)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

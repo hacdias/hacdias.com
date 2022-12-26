@@ -3,7 +3,7 @@ description: 'Fantastic Beasts and Where to Find Them: The Original Screenplay b
   J.K. Rowling (ISBN: 9781408708989)'
 published: 2017-01-30T08:00:00Z
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

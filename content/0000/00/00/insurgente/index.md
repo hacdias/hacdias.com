@@ -1,7 +1,7 @@
 ---
 description: 'Insurgente by Veronica Roth (ISBN: 9789720043825)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

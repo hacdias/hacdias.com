@@ -1,7 +1,7 @@
 ---
 description: 'Apreciada by Caragh M. O''Brien (ISBN: 9789895018987)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

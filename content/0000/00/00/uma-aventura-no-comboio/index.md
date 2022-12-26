@@ -1,7 +1,7 @@
 ---
 description: 'Uma Aventura no Comboio by Ana Maria Magalhães (ISBN: 9789722117906)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

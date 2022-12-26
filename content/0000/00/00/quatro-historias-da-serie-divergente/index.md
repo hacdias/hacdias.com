@@ -1,7 +1,7 @@
 ---
 description: 'Quatro – Histórias da Série Divergente by Veronica Roth (ISBN: 9789720047250)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:

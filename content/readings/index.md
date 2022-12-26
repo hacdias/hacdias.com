@@ -1,6 +1,6 @@
 ---
-title: Books
-template: books
+title: Readings
+template: readings
 description: |
   An extensive list of all the books I remember ever reading.
 listing:

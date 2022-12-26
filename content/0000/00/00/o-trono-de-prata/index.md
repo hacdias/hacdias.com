@@ -1,7 +1,7 @@
 ---
 description: 'O Trono de Prata by C.S. Lewis (ISBN: 9789722331685)'
 section:
-- books
+- readings
 properties:
   read-of:
     properties:
