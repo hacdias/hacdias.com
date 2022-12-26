@@ -9,16 +9,16 @@
   {{ $mf2 := .Helper }}
   {{ $type := $mf2.PostType }}
 
-  {{ if eq $type "reply" }}
-    {{ include "post/header/embedded" . }}
-  {{ else if eq $type "like" }}
-    {{ include "post/header/embedded" . }}
-  {{ else if eq $type "repost" }}
+  {{ if or (eq $type "reply") (eq $type "like") (eq $type "repost") }}
     {{ include "post/header/embedded" . }}
   {{ else if eq $type "bookmark" }}
     {{ include "post/header/bookmark" . }}
   {{ else if eq $type "read" }}
     {{ include "post/header/read" . }}
+  {{ else if eq $type "watch" }}
+    {{ include "post/header/watch" . }}
+  {{ else if eq $type "listen" }}
+    {{ include "post/header/listen" . }}
   {{ else if eq $type "checkin" }}
     {{ include "post/header/checkin" . }}
   {{ else if eq $type "drank" }}
