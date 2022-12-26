@@ -14,6 +14,20 @@
     "https://hacdias.com/bookmark",
     "https://trakt.tv"
   ],
+  "replies": [
+    {
+      "author": {
+        "name": "Wouter Groeneveld",
+        "photo": "https://cdn.hacdias.com/wm/01b54319871a5e3c285ce33dc9f0b63f944ae9370020c7c1e1f7adab376c9bcc.jpg",
+        "url": "https://brainbaking.com/"
+      },
+      "published": "2022-12-26T18:18:00Z",
+      "name": "Half-Baked Thought",
+      "content": "It’s always great to see your evolution of site mechanics and philosophy Henrique! I too love fiddling with the site and have added and removed functionalities over the years, I think that’s a normal evolution. I’ve been pondering on merging my game site with Brain Baking for a long time but personally just love the retro site layout as it’s reminiscent of past sites and my youth, so I won’t. Until I will. But probably not. Yet. 😅",
+      "url": "https://brainbaking.com/notes/2022/12/26h18m18s48/",
+      "type": "reply"
+    }
+  ],
   "interactions": [
     {
       "author": {
