@@ -66,6 +66,12 @@
     "category": "following"
   },
   {
+    "title": "Cam Pegg",
+    "site": "https://campegg.com/",
+    "feed": "https://campegg.com/feeds/all",
+    "category": "following"
+  },
+  {
     "title": "Chris Wiegman",
     "site": "https://chriswiegman.com",
     "feed": "https://chriswiegman.com/feed/",
@@ -195,6 +201,12 @@
     "title": "James Fenn",
     "site": "https://jfenn.me/",
     "feed": "https://jfenn.me/blog/feed.xml",
+    "category": "following"
+  },
+  {
+    "title": "Jamie Tanna",
+    "site": "https://www.jvt.me/kind/articles/",
+    "feed": "https://www.jvt.me/kind/articles/feed.xml",
     "category": "following"
   },
   {
@@ -447,6 +459,12 @@
     "title": "fluffy rambles",
     "site": "https://beesbuzz.biz/blog/",
     "feed": "https://beesbuzz.biz/blog/feed",
+    "category": "following"
+  },
+  {
+    "title": "zdimension",
+    "site": "https://zdimension.fr/",
+    "feed": "https://zdimension.fr/rss/",
     "category": "following"
   }
 ]
