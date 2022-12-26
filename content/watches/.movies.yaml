@@ -1,3 +1,6 @@
+- name: The Holiday
+  date: 2022-12-25T23:01:00+01:00
+  rating: 4
 - name: 'The Noel Diary'
   date: 2022-12-23
   rating: 3
@@ -302,6 +305,7 @@
 - name: 'Jumanji: The Next Level'
   date: 2019-12-29T11:06:30Z
 - name: 'Variações: Guardian Angel'
+  rating: 5
   date: 2019-12-22T22:01:41Z
 - name: Can You Keep a Secret?
   date: 2019-12-21T00:08:42Z
@@ -324,6 +328,7 @@
 - name: The Last Summer
   date: 2019-09-04T13:53:32Z
 - name: Rocketman
+  rating: 4
   date: 2019-08-24T23:03:31Z
 - name: Juanita
   date: 2019-08-16T22:12:35Z
@@ -366,6 +371,7 @@
 - name: Green Book
   date: 2019-02-11T17:52:24Z
 - name: Boy Erased
+  rating: 5
   date: 2019-01-26T22:10:17Z
 - name: Escape Room
   date: 2019-01-22T23:23:44Z
@@ -512,6 +518,7 @@
 - name: Life of the Party
   date: 2018-07-09T12:24:25Z
 - name: Incredibles 2
+  rating: 5
   date: 2018-07-06T17:57:38Z
 - name: The Incredibles
   date: 2018-07-03T15:53:50Z
@@ -522,16 +529,19 @@
 - name: Alex Strangelove
   date: 2018-06-14T23:12:21Z
 - name: BPM (Beats per Minute)
+  rating: 3
   date: 2018-06-11T18:18:55Z
 - name: Center of My World
   date: 2018-06-09T14:23:35Z
 - name: Boys
+  rating: 4
   date: 2018-06-08T21:24:04Z
 - name: God's Own Country
   date: 2018-06-07T22:01:13Z
 - name: Handsome Devil
   date: 2018-06-07T14:45:13Z
 - name: How to Talk to Girls at Parties
+  rating: 2
   date: 2018-06-05T22:00:07Z
 - name: Moonlight
   date: 2018-06-04T18:12:19Z
@@ -566,6 +576,7 @@
 - name: Loving Vincent
   date: 2017-12-08T12:19:50Z
 - name: 'Kingsman: The Golden Circle'
+  rating: 4
   date: 2017-09-22T00:00:00Z
 - name: The Hitman's Bodyguard
   date: 2017-08-18T00:00:00Z
@@ -576,6 +587,7 @@
 - name: 'Dragonheart: Battle for the Heartfire'
   date: 2017-08-11T23:06:54Z
 - name: The Student
+  rating: 2
   date: 2017-08-09T16:06:08Z
 - name: Frequency
   date: 2017-08-08T17:03:30Z
@@ -622,8 +634,10 @@
 - name: The Shack
   date: 2017-03-03T00:00:00Z
 - name: Inferno
+  rating: 4
   date: 2017-02-23T20:54:19Z
 - name: Inception
+  rating: 5
   date: 2017-02-23T20:49:28Z
 - name: The Great Wall
   date: 2017-02-17T00:00:00Z
