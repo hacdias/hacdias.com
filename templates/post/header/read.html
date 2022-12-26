@@ -3,26 +3,6 @@
   {{ $canonical := $mf2.String $mf2.TypeProperty }}
   {{ $read := $mf2.Sub $mf2.TypeProperty }}
 
-  {{ if not .Listing }}
-  <style>
-    :root {
-    --accent: #904726;
-  }
-
-  @media screen and (min-width: 52.001rem) {
-    body {
-      background: #8e4a1f url(/readings/shelf.jpeg);
-      background-size: 400px;
-      background-attachment: fixed;
-    }
-
-    #navbar {
-      border-radius: 0;
-    }
-  }
-  </style>
-  {{ end}}
-
   <div class="box ctx p-read-of h-cite">
     <p>
       📕 Read
