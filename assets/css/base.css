@@ -225,7 +225,6 @@ button:hover {
 #footer {
   margin-top: 2rem;
   font-size: var(--f6);
-  color: var(--light-gray);
 }
 
 #footer > div {
