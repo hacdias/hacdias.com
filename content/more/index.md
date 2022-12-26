@@ -55,7 +55,7 @@ This website contains more things than it looks at first glance. This page is a 
 ### 🧪 Experiments {#experiments}
 
 A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
-Weird things can happen, you can feel dizzy, be aware of cats. <span id='trigger'>Or they will bite you!</span>
+Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='trigger' hidden title='Click here, NOW!'>Or they might bite you!</span>
 
 <div id='experiments-list' class='terms grid bold'>
   <ul>
@@ -79,6 +79,7 @@ const experiments = document.getElementById('experiments-list')
 const experimentsLinks = experiments.querySelectorAll('a')
 const musicEl = document.getElementById('music')
 
+trigger.hidden = false
 musicEl.currentTime = 0
 musicEl.load()
 
