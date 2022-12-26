@@ -1,0 +1,16 @@
+{
+  "targets": [
+    "https://brainbaking.com/notes"
+  ],
+  "context": {
+    "author": {
+      "name": "Wouter Groeneveld",
+      "photo": "https://cdn.hacdias.com/wm/accfaaa57f15dbbab178542e1f77aff3fd7b7f4a66e89ce00d14fe86fae2e27a.jpg",
+      "url": "https://brainbaking.com/"
+    },
+    "published": "2022-12-26T18:18:00Z",
+    "name": "Half-Baked Thought",
+    "content": "It’s always great to see your evolution of site mechanics and philosophy Henrique! I too love fiddling with the site and have added and removed functionalities over the years, I think that’s a normal evolution. I’ve been pondering on merging my game site with Brain Baking for a long time but personally just love the retro site layout as it’s reminiscent of past sites and my youth, so I won’t. Until I will. But probably not. Yet. 😅",
+    "url": "https://brainbaking.com/notes"
+  }
+}
