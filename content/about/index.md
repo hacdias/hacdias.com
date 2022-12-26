@@ -15,7 +15,7 @@ I'm from a little town in the countryside of Portugal 🇵🇹 and now I live in
 
 Since an early age, I have been curious about computers and I always wanted to work with them, albeit initially I did not understand what that involved. As the years passed by, I used the Internet to satisfy my curiosity and learn more and more about computers. Initially, I researched hours and hours about which programming language I should learn first and, at the time, I decided that C# was the right choice and bought a book. Turns out, I never read said book and ended up learning PHP instead. I've heard that PHP has come a long way since I first learned it!
 
-![Me!](cdn:/2022-03-witte-dame-in?class=fw)
+![Henrique's Photograph in a Red Hoodie](cdn:/2022-03-witte-dame-in?class=fw&caption=false "Trying to pose.")
 
 <!--more-->
 
@@ -35,7 +35,7 @@ During my time at TU/e, I was a student mentor, where I mentored 12 new master s
 
 These experiences were driven by my belief in transparency and openness, in a united Europe 🇪🇺 and that we all deserve equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
 
-### The (un)story of my handle 🤔 {#handle}
+### The (un)interesting story of my handle 🤔 {#handle}
 
 Most likely you've already noticed that my handle, `@hacdias`, reminds of the word 'hack'. However, I can assure you they have nothing to do with each other. It was a mere coincidence between the first letters of my first name and middle names - 'hac' - and last name - 'dias' - that I happen to enjoy.
 
