@@ -1,0 +1,30 @@
+{
+  "targets": [
+    "https://indieweb.org/",
+    "https://indieweb.org/POSSE",
+    "https://hacdias.com/2020/02/17/n4",
+    "https://hacdias.com/2020/02/17/removed-watches-checkins",
+    "https://hacdias.com/2022/08/14/should-every-update-be-a-post",
+    "https://hacdias.com/2021/10/31/eagle-move-away-from-hugo",
+    "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle",
+    "https://mew.tv/",
+    "https://hacdias.com/2022/11/17/23h22m45s19",
+    "https://github.com/hacdias/eagle/issues/150",
+    "https://hacdias.com/2022/11/18/23h28m13s83",
+    "https://hacdias.com/bookmark",
+    "https://trakt.tv"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Simone or /^syx.*$/",
+        "photo": "https://cdn.hacdias.com/wm/802a028df8fc688b8c98d3be82362cc58764f7eb66f2473c057e05d53dd60a0f.gif",
+        "url": "https://indieweb.social/users/syx"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://indieweb.social/users/syx#likes/378042",
+      "type": "like",
+      "id": "https://indieweb.social/users/syx#likes/378042"
+    }
+  ]
+}

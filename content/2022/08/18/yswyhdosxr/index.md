@@ -1,7 +1,9 @@
 ---
 title: zdimension
 description: Bookmarked a post on zdimension.fr
+deleted: true
 published: 2022-08-18T11:46:58.942015836+02:00
+updated: 2022-12-26T15:33:34.34285336+01:00
 section:
 - bookmarks
 createdWith: https://micropublish.net/
@@ -13,3 +15,5 @@ taxonomies:
 ---
 
 Great posts about Rust and low-level programming.
+
+<!-- DELETED: added to blogroll -->

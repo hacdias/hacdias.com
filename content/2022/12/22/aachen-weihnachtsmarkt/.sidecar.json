@@ -7,6 +7,16 @@
   "interactions": [
     {
       "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/9420ec36446e8f6ff4271062d672e2e9a91b8228fffa8f241639e99769ceba19.jpg",
+        "url": "https://jlelse.blog/"
+      },
+      "published": "2022-12-26T09:42:44+01:00",
+      "url": "https://jlelse.blog/micro/2022/12/2022-12-26-tkvje",
+      "type": "like"
+    },
+    {
+      "author": {
         "name": "Henrique Dias",
         "photo": "https://cdn.hacdias.com/wm/6d04d58fb0ac2d5d84c05bbe59489507b0f28f1d69ebf4ea3e625ef2cdb7b6eb.jpg",
         "url": "https://fosstodon.org/users/hacdias"

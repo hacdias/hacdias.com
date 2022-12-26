@@ -3,7 +3,7 @@ description: At Delirium Café
 published: 2020-02-06T21:35:14+01:00
 section:
 - home
-- food
+- drinks
 - checkins
 properties:
   checkin:

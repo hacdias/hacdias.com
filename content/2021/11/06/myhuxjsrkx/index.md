@@ -3,7 +3,7 @@ description: At Möge Tee
 published: 2021-11-06T15:46:14+01:00
 section:
 - home
-- food
+- drinks
 - checkins
 properties:
   checkin:

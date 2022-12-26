@@ -1,11 +1,10 @@
 {
   "targets": [
-    "https://hacdias.com/reads",
+    "https://hacdias.com/books/",
     "https://indiebookclub.biz/",
     "https://seblog.nl/",
     "https://seblog.nl/bieb",
-    "https://hacdias.com/reads/isbn/9789720048820",
-    "https://hacdias.com/2022/01/24/qcaermbawx"
+    "https://hacdias.com/2022/01/17/o-ano-da-morte-de-ricardo-reis"
   ],
   "interactions": [
     {

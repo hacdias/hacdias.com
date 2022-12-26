@@ -28,7 +28,7 @@ At the same time, the website still supports the old format where the reading po
 
 One more update I did was to add a rating! To do so, I added a numerical property `rating` and then just print the right number of stars. I will use this more and more as I hope to give a small, yet nice, review of books I read. Unfortunately, I lost the ratings I've given to other books via Goodreads in the past.
 
-Finally, I'm now supporting read updates with page numbers and notes, as you can see on [this post](/2022/01/24/qcaermbawx). It is all relatively simple.
+Finally, I'm now supporting read updates with page numbers and notes, as you can see on ~~this post~~. It is all relatively simple.
 
 To add all this posts, I have a few templates on my 'new post' page. Maybe in the future I will create a simple tool that will submit this via Micropub. That would definitely allow me to remove a bunch of posts. In addition, I could also simply have a shortcut on my smartphone to update the reading status for a certain book.
 
