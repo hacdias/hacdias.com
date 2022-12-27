@@ -24,20 +24,22 @@
 
     {{ if or $hasDate $hasNoTitle $syndications $tags }}
       <p>
-        {{- if $hasDate }}
-          {{- if .Updated.After .Published -}}
-            <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
-              <a href="{{ relURL .Permalink }}" class="u-url nl">Updated on {{ .Updated.Format "02 Jan 2006 15:04 MST" }}</a>
-            </time>
-            <time hidden class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
-          {{- else if not .Published.IsZero -}}
-            <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
-              <a href="{{ relURL .Permalink }}" class="u-url nl">Published on {{ .Published.Format "02 Jan 2006 15:04 MST" }}</a>
-            </time>
-          {{- end -}}
-        {{- else if $hasNoTitle }}
-          <a href="{{ relURL .Permalink }}" class="u-url nl">Permalink</a>
-        {{ end }}
+        <a href="{{ relURL .Permalink }}" class="u-url nl">
+          {{- if $hasDate }}
+            {{- if .Updated.After .Published -}}
+              <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
+                Updated on {{ .Updated.Format "02 Jan 2006 15:04 MST" }}
+              </time>
+              <time hidden class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
+            {{- else if not .Published.IsZero -}}
+              <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
+              Published on {{ .Published.Format "02 Jan 2006 15:04 MST" }}
+              </time>
+            {{- end -}}
+          {{- else if $hasNoTitle }}
+            Permalink
+          {{ end }}
+        </a>
 
         {{ range $tags -}}
           <a class="tag p-category" href="/tags/{{ slugify . }}">{{ . }}</a>
