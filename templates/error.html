@@ -10,7 +10,17 @@
       {{ else if eq . 403 }}
         <p>It seems you don't have permission to see this content.</p>
       {{ else if eq . 404 }}
-        <p>The content you are trying to find does not exist.</p>
+        <style>
+          img.nf {
+            width: 100%;
+            max-width: 24rem;
+            image-rendering: pixelated;
+            border-radius: var(--radius);
+            margin: 0 auto;
+            display: block;
+          }
+        </style>
+        <img class='nf' src='https://cdn.hacdias.com/media/09f5f4e275091ba797fb0e4d2dd12c0fd667284f869f6592cb3c08018d9d844e.gif' />
       {{ else if eq . 410 }}
         <p>The content you are trying to find existed at some point and was now deleted.</p>
       {{ end }}
