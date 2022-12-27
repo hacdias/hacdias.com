@@ -209,7 +209,7 @@ textarea:disabled {
 
 button {
   background-color: var(--accent);
-  border: 1px solid var(--accent);
+  border: var(--border) solid var(--accent);
   font-weight: 700;
   padding: 0.5rem 1rem;
   color: var(--white);
@@ -334,15 +334,6 @@ details summary {
 .youtube-player {
   width: 100%;
   aspect-ratio: 16 / 9;
-}
-
-.highlight > pre,
-.copy > pre {
-  overflow: auto;
-  border: 0;
-  border-radius: var(--radius);
-  padding: var(--ms);
-  background: var(--near-white) !important;
 }
 
 .fw {
@@ -494,11 +485,18 @@ figure.album img {
   margin-left: 0.5rem;
 }
 
-.box {
-  padding: var(--hms) var(--ms);
+.box,
+.terms a,
+.terms a:visited,
+.highlight > pre,
+.copy > pre {
   border: var(--border) solid var(--light-white);
   background-color: var(--near-white);
   border-radius: var(--radius);
+}
+
+.box {
+  padding: var(--hms) var(--ms);
   margin: 1rem 0;
 }
 
@@ -534,9 +532,6 @@ figure.album img {
   text-decoration: none;
   font-size: var(--f6);
   padding: var(--hms);
-  background-color: var(--near-white);
-  border-radius: var(--radius);
-  color: var(--gray);
   display: inline-block;
 }
 
@@ -547,6 +542,14 @@ figure.album img {
 .terms.bold a,
 .terms.bold a:visited {
   font-weight: bold;
+}
+
+.highlight > pre,
+.copy > pre {
+  overflow: auto;
+  padding: var(--ms);
+  /* needs !important because Chroma adds background inline */
+  background-color: var(--near-white) !important;
 }
 
 #preview,
