@@ -8,7 +8,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 <!--more-->
 
-### 🪁 Categories {#categories}
+### 🪁 Sections {#sections}
 
 <div class='terms grid bold'>
 

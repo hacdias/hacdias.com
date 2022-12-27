@@ -5,52 +5,75 @@ noShowInteractions: true
 noSendInteractions: true
 ---
 
-If you need to reach me directly, please try one of the following:
-
-- ✉️ E-mail as [mail@hacdias.com](mailto:mail@hacdias.com)
-- ☎️ Telegram as [@hacdias](https://t.me/hacdias)
-- 🎮 Discord as [`hacdias#2540`](https://discord.com/users/hacdias#2540)
-- ✨ Matrix as [`@hacdias:tchncs.de`](https://matrix.to/#/@hacdias:tchncs.de)
-- 🐘 Fediverse as `@hacdias@hacdias.com` (**experimental**)
+I can be reached through different means, and you can find me on many different platforms. If you need to reach me directly, please try either E-mail, Telegram or Matrix.
 
 <!--more-->
 
-## 🕸 Elsewhere {#elsewhere}
+<style>
+.terms.grid ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.terms.grid li {
+  margin: 0;
+}
+.terms.grid a {
+  width: 100%;
+  height: 100%;
+}
+</style>
 
-My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:
+<div class='terms grid bold'>
 
-- 🐙 [GitHub: @hacdias](https://github.com/hacdias)
-- 📷 [Instagram: @hacdias](https://instagram.com/hacdias)
-- 🐦 [Twitter: @hacdias](https://twitter.com/hacdias)
-- 💼 [LinkedIn: @hacdias](https://linkedin.com/in/hacdias)
-- 🤖 [Reddit: @hacdias](https://reddit.com/u/hacdias)
-- 🔑 [Keybase: @hacdias](https://keybase.io/hacdias)
-- 🆕 [HackerNews: @hacdias](https://news.ycombinator.com/user?id=hacdias)
-- 🦞 [Lobste.rs: @hacdias](https://lobste.rs/u/hacdias)
+- [✉️ E-mail: mail@hacdias.com](mailto:mail@hacdias.com)
+- [☎️ Telegram: @hacdias](https://t.me/hacdias)
+- [✨ Matrix: @hacdias:tchncs.de](https://matrix.to/#/@hacdias:tchncs.de)
 
-## 🗞 Follow
+</div>
 
-All pages that list posts, such as [photos](/photos/) and [articles](/articles/), have RSS, JSON and HTML ([Microformats](https://microformats.org/)) feeds. To subscribe to my main posts, you can follow my [home page](/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
+## 🗞 Follow {#follow}
+
+All the [sections](/more#sections), including the home page, have ATOM, RSS, JSON and HTML feeds. To subscribe to the main posts, you can just follow my [home page](/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
 
 <div class="box">
 
-  In case your reader does not detect the feeds automatically, or if you need to access for any other reason, the links are formatted as follows. This example is for the [home page](/) page:
+In case your reader does not detect the feeds automatically, the links are formatted as follows. This example is for the [home page](/) page:
 
-  - **HTML/Microformats**: [https://hacdias.com/](/)
-  - **RSS Feed**: [https://hacdias.com/.rss](/.rss)
+  - **HTML (Microformats)**: [https://hacdias.com/](/)
   - **Atom Feed**: [https://hacdias.com/.atom](/.atom)
+  - **RSS Feed**: [https://hacdias.com/.rss](/.rss)
   - **JSON Feed**: [https://hacdias.com/.json](/.json)
 
 </div>
 
-### 🕹️ Remote Follow
+### 🐘 Fediverse {#fediverse}
 
 You can follow me on Mastodon, Pleroma, or other similar application that supports ActivityPub by searching for `@hacdias@hacdias.com`. Instead, you can also try using the remote follow form below.
 
 <form method='post' action='/activitypub/remote-follow' class='inline-form'>
   <input required name='acct' placeholder='Enter your user@example.org...'>
-  <button>Remote Follow</button>
+  <button>Follow</button>
 </form>
+
+## 🕸 Elsewhere {#elsewhere}
+
+My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:
+
+<div class='terms grid bold'>
+
+- [🐙 GitHub](https://github.com/hacdias)
+- [📷 Instagram](https://instagram.com/hacdias)
+- [💼 LinkedIn](https://linkedin.com/in/hacdias)
+- [🎮 Discord (hacdias#2540)](https://discord.com/users/hacdias#2540)
+- [🐦 Twitter](https://twitter.com/hacdias)
+- [🤖 Reddit](https://reddit.com/u/hacdias)
+- [🔑 Keybase](https://keybase.io/hacdias)
+- [🆕 HackerNews](https://news.ycombinator.com/user?id=hacdias)
+- [🦞 Lobste.rs](https://lobste.rs/u/hacdias)
+
+</div>
 
 ## 🗝 PGP {#pgp}
 
