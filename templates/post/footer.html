@@ -4,7 +4,7 @@
   {{ $locationStr := $mf2.String "location" }}
   {{ $location := $mf2.Sub "location" }}
 
-  <footer class='lg'>
+  <footer>
     {{ if $location }}
       <p class="p-location h-adr">{{ $location.LocationHTML }}</p>
     {{ else if $locationStr }}
@@ -24,43 +24,35 @@
 
     {{ if or $hasDate $hasNoTitle $syndications $tags }}
       <p>
-        <span>
-          <a href="{{ relURL .Permalink }}" class="u-url nl">
-            {{- if $hasDate }}
-              {{- if .Updated.After .Published -}}
-                <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
-                  Updated on {{ .Updated.Format "02 Jan 2006 15:04 MST" }}
-                </time>
-                <time hidden class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
-              {{- else if not .Published.IsZero -}}
-                <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
-                Published on {{ .Published.Format "02 Jan 2006 15:04 MST" }}
-                </time>
-              {{- end -}}
-            {{- else if $hasNoTitle }}
-              Permalink
-            {{ end }}
-          </a>
-
-          {{ range $tags -}}
-            <a class="tag p-category" href="/tags/{{ slugify . }}">{{ . }}</a>
-          {{ end -}}
-
-          {{ range $syndications }}
-          <a class='nl u-syndication' rel="noopener noreferrer" href="{{ . }}">
-            {{ $domain := domain . }}
-            {{- if strContains $domain "twitter.com" }}🐦
-            {{- else if strContains $domain "swarmapp.com" }}🐝
-            {{- else if strContains $domain "instagram.com" }}📷
-            {{ else }}🔗{{ end -}}
-          </a>
+        <a href="{{ relURL .Permalink }}" class="u-url nl">
+          {{- if $hasDate }}
+            {{- if .Updated.After .Published -}}
+              <time class='dt-updated' datetime='{{ .Updated.Format "2006-01-02T15:04:05Z07:00" }}'>
+                Updated on {{ .Updated.Format "02 Jan 2006 15:04 MST" }}
+              </time>
+              <time hidden class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Published.Format "02 Jan 2006 15:04 MST" }}</time>
+            {{- else if not .Published.IsZero -}}
+              <time class='dt-published' datetime='{{ .Published.Format "2006-01-02T15:04:05Z07:00" }}'>
+              Published on {{ .Published.Format "02 Jan 2006 15:04 MST" }}
+              </time>
+            {{- end -}}
+          {{- else if $hasNoTitle }}
+            Permalink
           {{ end }}
-        </span>
+        </a>
 
-        {{ if .HasMore }}
-        <strong class='more'>
-          <a href="{{ relURL $.Permalink }}" title="Read More">Read More →</a>
-        </strong>
+        {{ range $tags -}}
+          <a class="tag p-category" href="/tags/{{ slugify . }}">{{ . }}</a>
+        {{ end -}}
+
+        {{ range $syndications }}
+        <a class='nl u-syndication' rel="noopener noreferrer" href="{{ . }}">
+          {{ $domain := domain . }}
+          {{- if strContains $domain "twitter.com" }}🐦
+          {{- else if strContains $domain "swarmapp.com" }}🐝
+          {{- else if strContains $domain "instagram.com" }}📷
+          {{ else }}🔗{{ end -}}
+        </a>
         {{ end }}
       </p>
     {{ end }}
