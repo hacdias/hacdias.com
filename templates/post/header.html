@@ -38,7 +38,7 @@
       {{ else }}
         <h1 class='p-name'>{{- .Entry.Title -}}</h1>
         {{ if or (not .Published.IsZero) (not .Updated.IsZero) }}
-          <p>
+          <p class='lg'>
             {{- if .Updated.After .Published -}}
               {{ .Updated.Format "January 02, 2006" }}
             {{- else if not .Published.IsZero -}}

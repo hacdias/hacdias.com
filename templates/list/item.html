@@ -1,12 +1,12 @@
 {{ define "list/item" }}
-  {{ $isLong := .HasMore }}
-
   <article class='h-entry card'>
     {{ include "post/header" . }}
 
-    {{ if $isLong }}
+    {{ if .HasMore }}
       {{ with or .Excerpt .Description }}
-        <div class='copy p-summary'>{{ md . }}</div>
+        <div class='copy'>
+          <div class='p-summary'>{{ md . }}</div>
+        </div>
       {{ end }}
     {{ else }}
       {{ include "post/content" . }}
@@ -14,9 +14,5 @@
 
     {{ include "post/media" . }}
     {{ include "post/footer" . }}
-
-    {{ if $isLong }}
-      <a href="{{ relURL .Permalink }}" title="Read More" class="more">Read More</a>
-    {{ end }}
   </article>
 {{ end }}

@@ -275,20 +275,29 @@ main header h1 {
   margin-bottom: 0;
 }
 
-article footer p,
-article header p {
+main footer {
+  margin: var(--ms) 0;
+}
+
+main header p,
+main footer p {
   font-size: var(--f6);
-  color: var(--light-gray);
   font-weight: 500;
-  margin: 0 0 0.25rem;
+  margin: .25rem 0;
 }
 
-article footer p:first-of-type {
-  margin-top: 1rem;
+main footer p:last-of-type {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
 }
 
-article footer p:last-of-type {
-  margin-bottom: 1rem;
+main footer p:last-of-type > span {
+  margin-right: auto;
+}
+
+main footer p:last-of-type > .more {
+  color: var(--dark-gray);
 }
 
 table {
