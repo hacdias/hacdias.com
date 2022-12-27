@@ -12,6 +12,7 @@
   border-left: 0;
   border-top: 0;
   border-right: 0;
+  padding: var(--ms);
 }
 
 .card > .box .type {
@@ -30,17 +31,13 @@
   border-bottom-left-radius: 50%;
 }
 
-.card > .box.ctx {
-  padding: var(--ms);
-}
-
 .card > .box > p {
   margin: 0 0 .25rem 0;
 }
 
-.card > .box.ctx + .fw,
-.card > .box.ctx + .fw figure,
-.card > .box.ctx + figure,
+.card > .box + .fw,
+.card > .box + .fw figure,
+.card > .box + figure,
 .card > div:first-of-type,
 .card > div:first-of-type figure {
   margin-top: 0;
