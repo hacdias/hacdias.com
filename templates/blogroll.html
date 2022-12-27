@@ -14,7 +14,7 @@
         <ul>
           {{ range $feeds }}
             {{ if eq .category "following" }}
-              <li><a href='{{ .site }}' rel='noopener noreferrer'>{{ .title }}</a></li>
+              {{ template "blog" . }}
             {{ end }}
           {{ end }}
         </ul>
@@ -26,7 +26,7 @@
         <ul>
           {{ range $feeds }}
             {{ if eq .category "comics" }}
-              <li><a href='{{ .site }}' rel='noopener noreferrer'>{{ .title }}</a></li>
+              {{ template "blog" . }}
             {{ end }}
           {{ end }}
         </ul>
@@ -39,7 +39,14 @@
 
   {{ include "post/webmentions" . }}
 </main>
+{{ end }}
 
+{{ define "blog" }}
+  <li>
+    <a href='{{ .site }}' rel='noopener noreferrer'>
+      <img class='icon' src='https://www.google.com/s2/favicons?domain={{ domain .site }}&sz=32'> {{ .title }}
+    </a>
+  </li>
 {{ end }}
 
 {{ define "blogroll" }}
