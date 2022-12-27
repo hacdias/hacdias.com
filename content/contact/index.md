@@ -9,22 +9,6 @@ I can be reached through different means, and you can find me on many different 
 
 <!--more-->
 
-<style>
-.terms.grid ul {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  grid-gap: 0.5rem;
-  margin-bottom: 0.5rem;
-}
-.terms.grid li {
-  margin: 0;
-}
-.terms.grid a {
-  width: 100%;
-  height: 100%;
-}
-</style>
-
 <div class='terms grid bold'>
 
 - [✉️ E-mail: mail@hacdias.com](mailto:mail@hacdias.com)
