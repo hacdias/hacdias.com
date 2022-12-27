@@ -275,20 +275,16 @@ main header h1 {
   margin-bottom: 0;
 }
 
-article footer p,
-article header p {
+main footer {
+  margin: var(--ms) 0;
+}
+
+main footer p,
+main header p {
   font-size: var(--f6);
   color: var(--light-gray);
   font-weight: 500;
   margin: 0 0 0.25rem;
-}
-
-article footer p:first-of-type {
-  margin-top: 1rem;
-}
-
-article footer p:last-of-type {
-  margin-bottom: 1rem;
 }
 
 table {

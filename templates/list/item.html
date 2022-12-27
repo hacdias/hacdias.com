@@ -16,7 +16,7 @@
     {{ include "post/footer" . }}
 
     {{ if $isLong }}
-      <a href="{{ relURL .Permalink }}" title="Read More" class="more">Read More</a>
+      <a href='{{ relURL .Permalink }}' class='more'>Read More →</a>
     {{ end }}
   </article>
 {{ end }}
