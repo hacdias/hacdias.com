@@ -481,6 +481,12 @@ figure.album img {
   margin-left: 0.5rem;
 }
 
+.block-form > * {
+  display: block;
+  width: 100%;
+  margin: 0.5rem 0;
+}
+
 .box,
 .terms a,
 .terms a:visited,

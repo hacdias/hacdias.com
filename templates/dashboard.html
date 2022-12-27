@@ -5,12 +5,6 @@
     </header>
 
     <style>
-    form#token > * {
-      display: block;
-      width: 100%;
-      margin: 0.5rem 0;
-    }
-
     .grid {
       display: grid;
       grid-gap: 0.5rem;
@@ -41,7 +35,7 @@
 
       <h2>Token</h2>
 
-      <form id='token' method='post'>
+      <form id='token' method='post' class='block-form'>
         <input type='hidden' name='token' value='true' />
         <input required type='url' name='client_id' placeholder='Client ID'>
         <input required type='text' name='scope' placeholder='Scope'>
