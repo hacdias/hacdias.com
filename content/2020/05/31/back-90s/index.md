@@ -17,6 +17,9 @@ taxonomies:
 
 Over the past months, I have been reading more and more posts where people are [saying][faith-web] they miss the vibe of the [90s web][small-web]. Even though I wasn't alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser.
 
+[small-web]: https://neustadt.fr/essays/the-small-web/
+[faith-web]: https://macwright.org/2020/05/10/spa-fatigue.html
+
 <!--more-->
 
 <style>
@@ -92,8 +95,6 @@ A more subtle change I made was to change the dates on this website to use the [
 
 **Feel free to check out my [guestbook] and leave a comment! You can just say "hi" if you want, I'll deeply appreciate it 😃 Do you have suggestions, leave a comment too!**
 
-[small-web]: https://neustadt.fr/essays/the-small-web/
-[faith-web]: https://macwright.org/2020/05/10/spa-fatigue.html
 [archive]: https://web.archive.org/
 [neocities]: https://neocities.org/
 [own-your-data]: /2019/12/24/own-your-data
