@@ -7,7 +7,7 @@ noShowInteractions: true
 noSendInteractions: true
 ---
 
-**Hi 👋, I'm Henrique** (he/him)!
+**Hi 👋, I'm <span style="color: var(--accent)">Henrique</span>** (he/him)!
 
 I'm from a little town in the countryside of Portugal 🇵🇹 and now I live in The Netherlands 🇳🇱.  I enjoy learning about new things, taking photographs, playing badminton, and programming. I'm a recently graduated 🎓 master's student, and a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users.
 
