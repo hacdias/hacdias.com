@@ -4,12 +4,14 @@
   <article class='h-entry'>
     {{ include "post/header" . }}
     {{ include "post/content" . }}
-
     {{ $feeds := .GetJSON ".feeds.json" }}
 
     <div class="copy">
       <h2 id='blogs'>🖊️ Blogs</h2>
       {{ template "feed" $feeds.blogs }}
+
+      <h2 id='blogs'>📡 General</h2>
+      {{ template "feed" $feeds.general }}
 
       <h2 id='comics'>💥 Comics</h2>
       {{ template "feed" $feeds.comics }}

@@ -211,7 +211,7 @@ button {
   background-color: var(--accent);
   border: var(--border) solid var(--accent);
   font-weight: 700;
-  padding: 0.5rem 1rem;
+  padding: var(--hms);
   color: var(--white);
   cursor: pointer;
   border-radius: var(--radius);
