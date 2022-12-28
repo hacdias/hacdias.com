@@ -20,7 +20,7 @@ A few days later, I went to Amsterdam to see Tove Lo live, which was quite amazi
 
 ![Dirt Femme Tour](cdn:/e945853a35d738b002ce45464f90c13c4bd0a51bdcc7687eb762333da6922ce2?class=fw)
 
-Not long after, I went back to Amsterdam, but this time to see the live performance of [Trixie & Katya](/2022/11/16/trixie-and-katya-live).E ye-conic. Lots of fun, quite unexpected and incomprehensible. A bit more scripted than I wish. Nevertheless, it was very very good. Both the concert and the show were very nice and I'm very grateful for going to both.
+Not long after, I went back to Amsterdam, but this time to see the live performance of Trixie & Katya. It was eye-conic. Lots of fun, quite unexpected and incomprehensible. A bit more scripted than I wish. Nevertheless, it was very very good. Both the concert and the show were very nice and I'm very grateful for going to both.
 
 Around the same time we got the keys, the [GLOW Festival](https://gloweindhoven.nl/) happened in Eindhoven. The GLOW Festival is a light festival that usually happens every year in November in Eindhoven. They brought back the walking route, since there are no more Covid-19 restrictions this year. It was quite nice. [Sebastiaan](https://seblog.nl/) joined for a walk with Chris and I and we got some nice oliebollen, as well as glühwein 🍷.
 

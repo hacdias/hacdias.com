@@ -44,7 +44,7 @@ Then, I created a `layouts/index.redir.txt` file with the following content:
 {{- end -}}
 ```
 
-This is mostly what you can see on this [commit](https://github.com/gohugoio/hugoDocs/commit/c1ab9894e8292e0a74c43bbca2263b1fb3840f9e) of the official hugo docs for their netlify redirects. With this, my Hugo website does not build any HTML aliases (`disableAliases`), but creates a file on the root called `redirects.txt` which you see [here](https://hacdias.com/redirects.txt). I can just block the access through Caddy but there's no reason I should do so. Is there?
+This is mostly what you can see on this [commit](https://github.com/gohugoio/hugoDocs/commit/c1ab9894e8292e0a74c43bbca2263b1fb3840f9e) of the official hugo docs for their netlify redirects. With this, my Hugo website does not build any HTML aliases (`disableAliases`), but creates a file on the root called `redirects.txt`. I can just block the access through Caddy but there's no reason I should do so. Is there?
 
 On Caddyland, I just added this snipped:
 

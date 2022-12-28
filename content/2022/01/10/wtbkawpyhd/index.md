@@ -15,4 +15,4 @@ properties:
     type: h-adr
 ---
 
-I will make it a goal for this year to regain the habit of reading frequently, which I mostly lost after high school. And I started [today](/2022/01/10/cdcyxgxevd)!
+I will make it a goal for this year to regain the habit of reading frequently, which I mostly lost after high school. And I started today!

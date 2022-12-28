@@ -15,4 +15,4 @@ properties:
     type: h-adr
 ---
 
-Christmas 🎄 season has started and I already started watching Christmas movies! Last night, I watched [Single All The Way](/2021/12/02/necqnozwwg) which made me cry een beetje!
+Christmas 🎄 season has started and I already started watching Christmas movies! Last night, I watched Single All The Way which made me cry een beetje!
