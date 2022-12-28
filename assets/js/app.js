@@ -12,7 +12,7 @@ function addEmoji (el) {
   let emoji = null
   let title = ''
 
-  if (month === 1 && day <= 3) {
+  if (month === 1 && day <= 2) {
     emoji = '🎊'
     title = 'Happy New Year!'
   } else if (month === 5 && day === 17) {
@@ -33,7 +33,7 @@ function addEmoji (el) {
   } else if (month === 12 && day === 5) {
     emoji = '🍪'
     title = 'Happy Sinterklaas!'
-  } else if (month === 12 && day >= 20) {
+  } else if (month === 12 && day >= 20 && day <= 26) {
     emoji = '🎄'
     title = 'Happy Christmas!'
   }
