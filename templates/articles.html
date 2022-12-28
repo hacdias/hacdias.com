@@ -1,0 +1,59 @@
+{{ define "main" }}
+<main role='main'>
+  <header>
+    <h1>{{ .Title }}{{ with .Data.Page }} ({{.}}){{ end }}</h1>
+  </header>
+
+  {{ with .Content }}
+    <div class='copy'>{{ md . }}</div>
+  {{ end }}
+
+  <style>
+  .h-feed h2 {
+    position: sticky;
+    top: 0;
+    background: var(--background);
+  }
+
+  .h-feed .e {
+    grid-template-columns: auto 3rem;
+  }
+
+  .h-feed .e:hover {
+    background: var(--near-white);
+  }
+
+  .h-feed a {
+    display: inline-block;
+    width: 100%;
+  }
+  </style>
+
+  {{ $logs := .Data.Entries.AsLogs }}
+  {{ $byYear := $logs.ByYear }}
+
+  <div class='h-feed logs'>
+    {{ range $byYear.Years }}
+      <div>
+        {{ $year := . }}
+        {{ $logs := index $byYear.Map $year }}
+
+        <h2 id='{{ $year }}'>{{ $year }}</h2>
+
+        {{ with $logs }}
+          {{ range . }}
+            <div class='e'>
+              <div><a href='{{ .URL }}' class='nl lh'>{{ .Name }}</a></div>
+              <div><small><time class='tab lg'>{{ .Date.Format "Jan 02" }}</time></small></div>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
+
+{{ define "articles" }}
+  {{ template "base" . }}
+{{ end }}
