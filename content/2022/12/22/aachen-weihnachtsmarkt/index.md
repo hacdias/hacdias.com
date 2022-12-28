@@ -3,7 +3,7 @@ title: Visiting Aachen's Christmas Market
 published: 2022-12-22T12:09:21.546767547+01:00
 updated: 2022-12-22T12:50:03.325284514+01:00
 section:
-- micro
+- articles
 - home
 createdWith: https://hacdias.com/
 photoClass: fg fg-2212aken
