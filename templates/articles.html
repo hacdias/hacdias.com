@@ -9,9 +9,7 @@
   {{ end }}
 
   <style>
-  .h-feed h2 {
-    position: sticky;
-    top: 0;
+  .h-feed .h {
     background: var(--background);
   }
 
@@ -38,7 +36,10 @@
         {{ $year := . }}
         {{ $logs := index $byYear.Map $year }}
 
-        <h2 id='{{ $year }}'>{{ $year }}</h2>
+        <div class='h'>
+          <span id='{{ $year }}'>{{ $year }}</span>
+          <span>({{ len $logs }} entries)</span>
+        </div>
 
         {{ with $logs }}
           {{ range . }}
