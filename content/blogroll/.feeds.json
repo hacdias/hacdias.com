@@ -21,11 +21,6 @@
       "feed": "https://ohhelloana.blog/feed.xml"
     },
     {
-      "title": "Annoying Technology",
-      "site": "https://annoying.technology/",
-      "feed": "https://annoying.technology/index.xml"
-    },
-    {
       "title": "Aral Balkan",
       "site": "https://ar.al/",
       "feed": "https://ar.al/index.xml"
@@ -76,11 +71,6 @@
       "feed": "https://blog.codinghorror.com/rss/"
     },
     {
-      "title": "Ctrl.blog",
-      "site": "https://www.ctrl.blog/",
-      "feed": "https://feed.ctrl.blog/latest.atom"
-    },
-    {
       "title": "Danny van Kooten",
       "site": "https://dannyvankooten.com/",
       "feed": "https://www.dannyvankooten.com/atom.xml"
@@ -89,16 +79,6 @@
       "title": "Dave Rupert",
       "site": "https://daverupert.com",
       "feed": "https://daverupert.com/atom.xml"
-    },
-    {
-      "title": "Decentralized Thoughts",
-      "site": "https://decentralizedthoughts.github.io",
-      "feed": "https://decentralizedthoughts.github.io/feed.xml"
-    },
-    {
-      "title": "Engineers Need Art",
-      "site": "https://www.engineersneedart.com",
-      "feed": "https://www.engineersneedart.com/rss.xml"
     },
     {
       "title": "ExpLog",
@@ -114,16 +94,6 @@
       "title": "Filippo Valsorda",
       "site": "https://blog.filippo.io/",
       "feed": "https://words.filippo.io/rss/"
-    },
-    {
-      "title": "Go, blog with GoBlog!",
-      "site": "https://goblog.app",
-      "feed": "https://goblog.app/.rss"
-    },
-    {
-      "title": "Home on Rakhim.org",
-      "site": "https://rakhim.org/",
-      "feed": "https://rakhim.org/index.xml"
     },
     {
       "title": "Horst Gutmann",
@@ -266,6 +236,11 @@
       "feed": "https://notes.eatonphil.com/rss.xml"
     },
     {
+      "title": "Rakhim Davletkaliyev",
+      "site": "https://rakhim.org/",
+      "feed": "https://rakhim.org/index.xml"
+    },
+    {
       "title": "Ricardo Miguel",
       "site": "https://pudesse-eu.tumblr.com/",
       "feed": "https://pudesse-eu.tumblr.com/rss"
@@ -364,11 +339,6 @@
       "title": "fluffy rambles",
       "site": "https://beesbuzz.biz/blog/",
       "feed": "https://beesbuzz.biz/blog/feed"
-    },
-    {
-      "title": "zdimension",
-      "site": "https://zdimension.fr/",
-      "feed": "https://zdimension.fr/rss/"
     }
   ],
   "comics": [
@@ -388,7 +358,44 @@
       "feed": "https://xkcd.com/rss.xml"
     }
   ],
+  "general": [
+    {
+      "title": "Annoying Technology",
+      "site": "https://annoying.technology/",
+      "feed": "https://annoying.technology/index.xml"
+    },
+    {
+      "title": "Ctrl.blog",
+      "site": "https://www.ctrl.blog/",
+      "feed": "https://feed.ctrl.blog/latest.atom"
+    },
+    {
+      "title": "Decentralized Thoughts",
+      "site": "https://decentralizedthoughts.github.io",
+      "feed": "https://decentralizedthoughts.github.io/feed.xml"
+    },
+    {
+      "title": "Engineers Need Art",
+      "site": "https://www.engineersneedart.com",
+      "feed": "https://www.engineersneedart.com/rss.xml"
+    },
+    {
+      "title": "Go, blog with GoBlog!",
+      "site": "https://goblog.app",
+      "feed": "https://goblog.app/.rss"
+    },
+    {
+      "title": "zdimension",
+      "site": "https://zdimension.fr/",
+      "feed": "https://zdimension.fr/rss/"
+    }
+  ],
   "me": [
+    {
+      "title": "Everything - Henrique Dias",
+      "site": "https://hacdias.com/all",
+      "feed": "https://hacdias.com/all.atom"
+    },
     {
       "title": "Home - Henrique Dias",
       "site": "https://hacdias.com/",
