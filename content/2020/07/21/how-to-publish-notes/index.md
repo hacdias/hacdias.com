@@ -5,7 +5,7 @@ section:
 - micro
 - home
 properties:
-  in-reply-to: https://hacdias.com/micro/2020/07/too-many-notes-apps/
+  in-reply-to: https://hacdias.com/2020/07/20/too-many-notes-apps
 taxonomies:
   tags:
   - meta

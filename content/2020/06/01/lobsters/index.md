@@ -5,7 +5,7 @@ section:
 - micro
 - home
 properties:
-  in-reply-to: https://hacdias.com/micro/2020/05/lobsters/
+  in-reply-to: https://hacdias.com/2020/05/31/lobsters
   syndication:
   - https://twitter.com/hacdias/status/1267356723205099520
 ---
