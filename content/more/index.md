@@ -58,15 +58,15 @@ A galaxy, a black hole, whatever you wanna call it. This is a place for some wei
 Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='trigger' hidden title='Click here, NOW!'>Or they might bite you!</span>
 
 <div id='experiments-list' class='terms grid bold'>
-  <ul>
-    <li><a title="Blue Screen of Death" href="../minisites/bsod/index.html">🔵 Blue Screen of Death</a></li>
-    <li><a title="Glitch" href="../minisites/glitch/index.html">📡 Glitch</a></li>
-    <li><a title="Procedural Map Generator" href="../minisites/mapgen/index.html">🗺 Procedural Map Generator</a></li>
-    <li><a title="PixelColorMania" href="../minisites/pixelcolormania/index.html">🏳️‍🌈 PixelColorMania</a></li>
-    <li><a title="Thunderstorm" href="../minisites/thunderstorm/index.html">⛈ Thunderstorm</a></li>
-    <li><a title="TV Noise" href="../minisites/tv-noise/index.html">📺 TV Noise</a></li>
-    <li><a title="XKCD Clone" href="http://xkcd.hacdias.com/">💥 XKCD Clone</a></li>
-  </ul>
+
+- [🔵 Blue Screen of Death](../minisites/bsod/index.html)
+- [📡 Glitch](../minisites/glitch/index.html)
+- [🗺 Procedural Map Generator](../minisites/mapgen/index.html)
+- [🏳️‍🌈 PixelColorMania](../minisites/pixelcolormania/index.html)
+- [⛈ Thunderstorm](../minisites/thunderstorm/index.html)
+- [📺 TV Noise](../minisites/tv-noise/index.html)
+- [💥 XKCD Clone](http://xkcd.hacdias.com/)
+
 </div>
 
 <audio id="music" loop>
