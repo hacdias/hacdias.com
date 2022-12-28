@@ -17,7 +17,7 @@ I decided to make a few updates on my website - again. However, this are a bit m
 
 ## What about your bookmarks?
 
-Well, that's a great question. I also removed the bookmarks section and merged it with my [pins](/pins/) where I add interesting links I find on the web. I noticed I wasn't even using the bookmarks and most of them were just repetitions of what I have on my [blogroll](/blogroll/).
+Well, that's a great question. I also removed the bookmarks section and merged it with my pins where I add interesting links I find on the web. I noticed I wasn't even using the bookmarks and most of them were just repetitions of what I have on my [blogroll](/blogroll/).
 
 ## To like or not to like?
 
