@@ -21,4 +21,4 @@ properties:
   photo: cdn:/f32e7fa805d0859b53848bbd779c236cc827bf09beddd7ae81a6a4a5267f8e42
 ---
 
-The cake at the [opening](/2022/06/07/hlrrfoveli) had pictures. Sorry for the blurryness.
+The cake at the [opening](/2022/06/07/dm-lustrum-exhibition) had pictures. Sorry for the blurryness.

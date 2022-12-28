@@ -5,6 +5,7 @@ description: |
 published: 2019-12-20T15:00:00Z
 section:
 - home
+- micro
 properties:
   syndication: https://www.youtube.com/watch?v=EmxUyuCD37Q
   video:

@@ -1,4 +1,5 @@
 ---
+title: "Participated in Dekate Mousa's Lustrum Exhibition"
 published: 2022-06-07T09:51:13.74567452+02:00
 section:
 - micro

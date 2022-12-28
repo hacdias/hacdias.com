@@ -1,5 +1,5 @@
 ---
-description: Graduation ceremony photos and video
+title: "Master's Graduation Ceremony"
 published: 2022-11-25T17:02:18+01:00
 updated: 2022-12-01T15:30:15.269071746+01:00
 section:

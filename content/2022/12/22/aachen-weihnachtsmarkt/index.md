@@ -40,4 +40,4 @@ There were all kinds of things in the market, even though I expected it to be mo
 
 Looking forward for future Christmas Markets 🎄!
 
-**Update**: yes, the mugs say 2023 and not 2022. Why? I don't know. If you do know, please let me know!
+Update: yes, the mugs say 2023 and not 2022. Why? I don't know. If you do know, please let me know!
