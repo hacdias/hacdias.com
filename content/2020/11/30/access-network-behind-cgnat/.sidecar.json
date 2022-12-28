@@ -35,7 +35,7 @@
       },
       "published": "2021-10-20T17:58:02Z",
       "content": "Weirdly enough, the name Tailscale caught my eye and I decided to investigate what it is. I checked their website and it seems that they use Wireguard to do the kind of configuration I explained some time ago. I’m curious: besides the easyness of use, what other advantages do you see on using Tailscale over a manually configured Wireguard network?",
-      "url": "https://hacdias.com/micro/2021/10/tailscale-vs-raw-wireguard/",
+      "url": "https://hacdias.com/2021/10/20/tailscale-vs-raw-wireguard",
       "type": "reply"
     },
     {
