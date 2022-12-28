@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
+unlisted: true
 published: 2020-02-16T14:32:39.871Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://hacdias.com/2020/02/16/updates
 taxonomies:

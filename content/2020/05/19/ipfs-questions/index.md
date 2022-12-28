@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on twitter.com
+unlisted: true
 published: 2020-05-19T10:19:48.523Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://twitter.com/daviddias/status/1262684702865076224
   syndication:

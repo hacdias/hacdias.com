@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on aaronparecki.com
+unlisted: true
 published: 2020-01-22T11:35:36.168Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://aaronparecki.com/gps
 taxonomies:

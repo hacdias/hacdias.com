@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2022-08-21T19:28:35.515731764+02:00
-section:
-- micro
-- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/08/2022-08-21-mxdeo

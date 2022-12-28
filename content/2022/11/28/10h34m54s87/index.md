@@ -1,8 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2022-11-28T10:34:54.872112103+01:00
-section:
-- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jlelse.blog/links/2022/11/dump-twitter-card-tags

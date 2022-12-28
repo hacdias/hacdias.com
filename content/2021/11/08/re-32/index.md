@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on aaronparecki.com
+unlisted: true
 published: 2021-11-08T17:33:01.39556185Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://aaronparecki.com/2021/11/08/32/
 ---

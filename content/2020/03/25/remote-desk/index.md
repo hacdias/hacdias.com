@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-03-25T19:24:40.529Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/03/my-desk/
 taxonomies:

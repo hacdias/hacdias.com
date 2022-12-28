@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-01-19T19:36:11.549Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/01/optimizing-software/
 taxonomies:

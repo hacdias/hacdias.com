@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
+unlisted: true
 published: 2022-01-31T17:35:14.531474529+01:00
-section:
-- micro
-- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://hacdias.com/2021/12/04/aperture-doesnt-fetch

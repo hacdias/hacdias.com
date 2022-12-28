@@ -1,8 +1,7 @@
 ---
 description: Replied to a post on fosstodon.org
+unlisted: true
 published: 2022-11-23T14:29:15.639523073+01:00
-section:
-- micro
 createdWith: https://micropublish.net/
 properties:
   ap-in-reply-to: https://fosstodon.org/users/jle/statuses/109393141038633775

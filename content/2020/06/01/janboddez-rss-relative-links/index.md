@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on janboddez.tech
+unlisted: true
 published: 2020-06-01T13:51:07.72Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://janboddez.tech/notes/b6b59a1630
 taxonomies:

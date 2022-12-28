@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-12-10T07:13:00Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/12/crypto-bs
 taxonomies:

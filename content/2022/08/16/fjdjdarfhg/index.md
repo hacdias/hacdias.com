@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on kandr3s.co
+unlisted: true
 published: 2022-08-16T11:49:37.339039919+02:00
-section:
-- micro
-- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://kandr3s.co/notes/2022-08-16-lpyvk

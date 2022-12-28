@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2021-11-16T15:11:26.333810576Z
-section:
-- micro
-- home
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2021/11/unlimited-data

@@ -1,8 +1,7 @@
 ---
 description: Replied to a post on fosstodon.org
+unlisted: true
 published: 2022-11-21T08:19:00.266043831+01:00
-section:
-- micro
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://fosstodon.org/@jle/109380322129820480

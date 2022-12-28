@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on twitter.com
+unlisted: true
 published: 2020-01-30T11:25:56.527Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://twitter.com/anarlguerra/status/1222824668740100097
   syndication:

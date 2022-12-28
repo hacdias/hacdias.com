@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on twitter.com
+unlisted: true
 published: 2020-06-03T18:33:55.622Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://twitter.com/bixamon/status/1268239059253473280
   syndication:

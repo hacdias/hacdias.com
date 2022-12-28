@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2022-06-20T23:32:33.827155357+02:00
-section:
-- micro
-- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/06/2022-06-20-duavy

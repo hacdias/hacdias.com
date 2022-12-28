@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on www.zylstra.org
+unlisted: true
 published: 2022-11-09T12:18:29.776603436+01:00
-section:
-- micro
-- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://www.zylstra.org/blog/2022/11/22526/

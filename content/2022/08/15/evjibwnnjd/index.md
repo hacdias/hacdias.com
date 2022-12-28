@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on kandr3s.co
+unlisted: true
 published: 2022-08-15T11:05:29.413372618+02:00
-section:
-- micro
-- home
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://kandr3s.co/notes/2022-08-15-wlaeo

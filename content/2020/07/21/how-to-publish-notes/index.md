@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
+unlisted: true
 published: 2020-07-21T07:34:33.271Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://hacdias.com/2020/07/20/too-many-notes-apps
 taxonomies:

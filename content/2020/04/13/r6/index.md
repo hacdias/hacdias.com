@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-04-13T20:56:56.509Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/links/2020/04/eleventy/
 ---

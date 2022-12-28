@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-02-24T09:53:05.038Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/02/twitter-brands/
 taxonomies:

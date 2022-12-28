@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on twitter.com
+unlisted: true
 published: 2020-01-19T22:54:20.232Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://twitter.com/regouga/status/1219029693455917056
   syndication:

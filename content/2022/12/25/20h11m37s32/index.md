@@ -1,8 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2022-12-25T20:11:37.32879335+01:00
-section:
-- micro
 createdWith: https://hacdias.com/
 properties:
   in-reply-to:

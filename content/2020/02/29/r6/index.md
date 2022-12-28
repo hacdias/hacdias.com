@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on www.jvt.me
+unlisted: true
 published: 2020-02-29T22:19:56.901Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://www.jvt.me/posts/2020/01/12/webmention-notifications/
 taxonomies:

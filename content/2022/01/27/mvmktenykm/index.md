@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
+unlisted: true
 published: 2022-01-27T11:02:56.83669312Z
-section:
-- micro
-- home
 createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://hacdias.com/2022/01/27/tzbfpmydhl

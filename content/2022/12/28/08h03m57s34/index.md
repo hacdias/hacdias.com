@@ -1,8 +1,7 @@
 ---
 description: Replied to a post on micro.blog
+unlisted: true
 published: 2022-12-28T08:03:57.343782529+01:00
-section:
-- micro
 createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://micro.blog/jlg/15494665

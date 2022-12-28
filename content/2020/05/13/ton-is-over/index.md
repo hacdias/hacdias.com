@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-05-13T07:27:49.847Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/links/2020/05/ton-cancelled/
   syndication:

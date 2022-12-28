@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on micro.blog
+unlisted: true
 published: 2021-11-19T14:39:56.424372422Z
-section:
-- micro
-- home
 createdWith: https://micropublish.net
 properties:
   in-reply-to: https://micro.blog/agilelisa/12178945

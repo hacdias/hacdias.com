@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on twitter.com
+unlisted: true
 published: 2022-09-23T14:19:36.477962289+02:00
-section:
-- micro
-- home
 createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://twitter.com/nimobeeren/status/1573277413639081984

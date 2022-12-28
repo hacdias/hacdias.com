@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on twitter.com
+unlisted: true
 published: 2020-05-10T22:38:22.439Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://twitter.com/mafintosh/status/1259596991857930243
   syndication:

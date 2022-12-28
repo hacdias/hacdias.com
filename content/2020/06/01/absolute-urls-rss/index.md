@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-06-01T18:44:39.02Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/
 taxonomies:

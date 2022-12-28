@@ -1,8 +1,7 @@
 ---
 description: Replied to a post on twitter.com
+unlisted: true
 published: 2022-06-17T18:07:45.703039883+02:00
-section:
-- micro
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://twitter.com/tiagoadionisio/status/1537772273544880129

@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on commentpara.de
+unlisted: true
 published: 2020-09-26T06:10:38.4Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://commentpara.de/comment/669.htm
 ---

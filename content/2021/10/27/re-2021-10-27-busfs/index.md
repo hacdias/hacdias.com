@@ -1,10 +1,8 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2021-10-27T08:31:19.327263174Z
 updated: 2021-10-27T08:37:23.240873987Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/micro/2021/10/2021-10-27-busfs
 taxonomies:

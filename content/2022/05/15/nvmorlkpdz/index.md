@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jan.boddez.net
+unlisted: true
 published: 2022-05-15T15:20:35.361020968+02:00
-section:
-- micro
-- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jan.boddez.net/notes/9dc490c447

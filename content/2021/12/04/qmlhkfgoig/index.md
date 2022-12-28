@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jan.boddez.net
+unlisted: true
 published: 2021-12-04T11:52:23.207714629Z
-section:
-- micro
-- home
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jan.boddez.net/notes/c130264cfa

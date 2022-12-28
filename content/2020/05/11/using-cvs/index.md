@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-05-11T14:21:45.769Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/05/git-is-great/
 taxonomies:

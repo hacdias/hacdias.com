@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-07-01T06:36:39.609Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/thoughts/2020/06/blogging-german/
 taxonomies:

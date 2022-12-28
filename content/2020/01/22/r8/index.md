@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
+unlisted: true
 published: 2020-01-22T09:33:03.207Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jlelse.blog/micro/2020/01/2020-01-22-fryan/
 taxonomies:

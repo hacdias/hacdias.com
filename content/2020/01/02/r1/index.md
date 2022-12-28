@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
+unlisted: true
 published: 2020-01-02T23:45:24.733Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://hacdias.com/2020/01/02/dynamic-static
   syndication:

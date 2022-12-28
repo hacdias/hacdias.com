@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jan.boddez.net
+unlisted: true
 published: 2020-10-13T13:47:55Z
-section:
-- micro
-- home
 properties:
   in-reply-to: https://jan.boddez.net/notes/514f198e74
 ---

@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on commentpara.de
+unlisted: true
 published: 2022-01-24T07:14:22.237962617Z
-section:
-- micro
-- home
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://commentpara.de/comment/954.htm
