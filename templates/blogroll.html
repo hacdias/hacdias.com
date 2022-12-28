@@ -9,28 +9,10 @@
 
     <div class="copy">
       <h2 id='blogs'>🖊️ Blogs</h2>
-
-      <div class='terms'>
-        <ul>
-          {{ range $feeds }}
-            {{ if eq .category "following" }}
-              {{ template "blog" . }}
-            {{ end }}
-          {{ end }}
-        </ul>
-      </div>
+      {{ template "feed" $feeds.blogs }}
 
       <h2 id='comics'>💥 Comics</h2>
-
-      <div class='terms'>
-        <ul>
-          {{ range $feeds }}
-            {{ if eq .category "comics" }}
-              {{ template "blog" . }}
-            {{ end }}
-          {{ end }}
-        </ul>
-      </div>
+      {{ template "feed" $feeds.comics }}
     </div>
 
     {{ include "post/media" . }}
@@ -41,12 +23,18 @@
 </main>
 {{ end }}
 
-{{ define "blog" }}
-  <li>
-    <a href='{{ .site }}' rel='noopener noreferrer'>
-      <img class='icon' src='https://www.google.com/s2/favicons?domain={{ domain .site }}&sz=32'> {{ .title }}
-    </a>
-  </li>
+{{ define "feed" }}
+  <div class='terms'>
+    <ul>
+      {{ range . }}
+        <li>
+          <a href='{{ .site }}' rel='noopener noreferrer'>
+            <img class='icon' src='https://www.google.com/s2/favicons?domain={{ domain .site }}&sz=32'> {{ .title }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
 {{ end }}
 
 {{ define "blogroll" }}
