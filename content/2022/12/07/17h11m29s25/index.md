@@ -2,6 +2,7 @@
 published: 2022-12-07T17:11:29.253397264+01:00
 section:
 - home
+- micro
 createdWith: https://micropublish.net/
 photoClass: fg
 properties:
