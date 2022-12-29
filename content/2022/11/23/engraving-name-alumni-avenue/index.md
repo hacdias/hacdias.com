@@ -2,7 +2,7 @@
 title: Engraving My Name in the Alumni Avenue
 published: 2022-11-23T09:07:14.207620219+01:00
 section:
-- micro
+- articles
 - home
 createdWith: https://micropublish.net/
 photoClass: fg
