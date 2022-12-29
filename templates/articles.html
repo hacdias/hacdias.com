@@ -35,9 +35,9 @@
 
         {{ with $logs }}
           {{ range . }}
-            <div class='e'>
-              <div><a href='{{ .URL }}' class='nl lh'>{{ .Name }}</a></div>
-              <div><small><time class='tab lg'>{{ .Date.Format "Jan 02" }}</time></small></div>
+            <div class='e h-entry'>
+              <div><a href='{{ .URL }}' class='nl lh p-name u-url'>{{ .Name }}</a></div>
+              <div><small><time class='tab lg dt-published'>{{ .Date.Format "Jan 02" }}</time></small></div>
             </div>
           {{ end }}
         {{ end }}
