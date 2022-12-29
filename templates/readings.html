@@ -7,12 +7,13 @@
   {{ include "post/content" . }}
 
   {{ $logs := .Data.Entries.AsLogs }}
+  {{ $manualLogs := .GetLogsMap ".readings.yaml" }}
 
   <h2 id='want-to-read'>📖 Want To Read</h2>
-  {{ template "ulogs" (.GetLogs ".to-read.yaml") }}
+  {{ template "ulogs" (index $manualLogs "want-to-read") }}
 
   <h2 id='reading'>📚 Reading</h2>
-  {{ template "ulogs" (.GetLogs ".reading.yaml") }}
+  {{ template "ulogs" (index $manualLogs "reading" ) }}
 
   <h2 id='read'>📕 Read</h2>
   {{ include "logs" $logs }}
