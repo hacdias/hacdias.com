@@ -17,4 +17,4 @@ properties:
 
 Do you want to swap?
 
-![Crayion Results for "Henrique Dias"](cdn:/0ffaaf2c1605e9d3a64d6cdc064e3ee687d5d11c9cddfb83e1bfc2dd2705525c)
+![Crayion Results for "Henrique Dias"](cdn:/0ffaaf2c1605e9d3a64d6cdc064e3ee687d5d11c9cddfb83e1bfc2dd2705525c?caption=false "I look pretty, right?")

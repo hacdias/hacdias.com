@@ -25,8 +25,8 @@ Since I created this website's [colophon](/colophon) (also known as _meta page_)
   margin: 0;
 }
 
-.g50-50 p {
-  display: none;
+figure figcaption {
+  display: none
 }
 
 figure img {
@@ -49,6 +49,7 @@ At the time, I was very into the [parallax](https://en.wikipedia.org/wiki/Parall
 <div class="g50-50 fw">
 
 ![v1 (2015) Home](cdn:/2022-03-v1)
+
 ![v1 (2015) Article](cdn:/2022-03-v1-article)
 
 </div>
@@ -60,6 +61,7 @@ Months after, I made some drastic updates and decided to call it version 1.2. I 
 <div class="g50-50 fw">
 
 ![v1.2 (2015) Article](cdn:/2022-03-v1.2-article)
+
 ![v1.2 (2015) Words](cdn:/2022-03-v1.2-words)
 
 </div>
@@ -71,6 +73,7 @@ In 2016, I changed it enough to call it version 2. I went for a white-ish color 
 <div class="g50-50 fw">
 
 ![v2 (2016) Home](cdn:/2022-03-v2)
+
 ![v2 (2016) Article](cdn:/2022-03-v2-article)
 
 </div>
@@ -80,8 +83,11 @@ In this year, I made way too many major versions. I am skipping version 3 becaus
 <div class="g50-50 fw">
 
 ![v4 (2016) Home](cdn:/2022-03-v4)
+
 ![v4 (2016) Blog](cdn:/2022-03-v4-blog)
+
 ![v4 (2016) Work](cdn:/2022-03-v4-work)
+
 ![v4 (2016) Work Example](cdn:/2022-03-v4-work-example)
 
 </div>
@@ -93,6 +99,7 @@ I made yet another revamp in 2016 - probably too much free time in my hands - wh
 <div class="g50-50 fw">
 
 ![v5 (2016) Blog](cdn:/2022-03-v5-blog)
+
 ![v5.1 (2016) About](cdn:/2022-03-v5.1-about)
 
 </div>
@@ -106,8 +113,11 @@ In 2017, I managed to go through the whole year with the same design (magic!). T
 <div class="g50-50 fw">
 
 ![v7 (2017) About](cdn:/2022-03-v7-about)
+
 ![v7 (2017) Article](cdn:/2022-03-v7-article)
+
 ![v7 (2017) Blog](cdn:/2022-03-v7-blog)
+
 ![v7 (2017) Projects](cdn:/2022-03-v7-projects)
 
 </div>
@@ -119,6 +129,7 @@ In 2018 I did another face wash to the website. The homepage had an effect where
 <div class="g50-50 fw">
 
 ![v8 (2018) Home](cdn:/2022-03-v8-home)
+
 ![v8 (2018) Article](cdn:/2022-03-v8-post)
 
 </div>
@@ -128,8 +139,11 @@ Some months after I released version 9 where I went back to the 2018 design, but
 <div class="g50-50 fw">
 
 ![v9 (2018) Home](cdn:/2022-03-v9-home)
+
 ![v9 (2018) Article](cdn:/2022-03-v9-article)
+
 ![v9 (2018) About](cdn:/2022-03-v9-about)
+
 ![v9 (2018) Blog](cdn:/2022-03-v9-blog)
 
 </div>
@@ -141,8 +155,11 @@ Some months after I released version 9 where I went back to the 2018 design, but
 <div class="g50-50 fw">
 
 ![v10 (2019) About](cdn:/2022-03-v10-about)
+
 ![v10 (2019) Article](cdn:/2022-03-v10-article)
+
 ![v10 (2019) Blog](cdn:/2022-03-v10-blog)
+
 ![v10 (2019) Projects](cdn:/2022-03-v10-projects)
 
 </div>

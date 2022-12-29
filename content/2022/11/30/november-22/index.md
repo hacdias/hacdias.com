@@ -24,16 +24,12 @@ Not long after, I went back to Amsterdam, but this time to see the live performa
 
 Around the same time we got the keys, the [GLOW Festival](https://gloweindhoven.nl/) happened in Eindhoven. The GLOW Festival is a light festival that usually happens every year in November in Eindhoven. They brought back the walking route, since there are no more Covid-19 restrictions this year. It was quite nice. [Sebastiaan](https://seblog.nl/) joined for a walk with Chris and I and we got some nice oliebollen, as well as glühwein 🍷.
 
-<style>
-  .fg > p {
-    display: none;
-  }
-</style>
-
 <div class="fw fg">
   
-![GLOW Festival](cdn:/595d894a8a558a273e5a9bfe656c2052f309ee52763f478756b43d4b0e15e827)
-![Oliebollen](cdn:/ea556aca280987f427e4c82edd049aaadd13dbda701bbb01959ae53e7fa9eec2)
+![GLOW Festival](cdn:/595d894a8a558a273e5a9bfe656c2052f309ee52763f478756b43d4b0e15e827?caption=false)
+
+![Oliebollen](cdn:/ea556aca280987f427e4c82edd049aaadd13dbda701bbb01959ae53e7fa9eec2?caption=false)
+
 </div>
 
 Then, my parents visited me in The Netherlands for the first time. It was actually their first time flying internationally, and only second time flying. It was quite nice of them to come and I hope that now the "ice" is broken, that they will come more often.
@@ -42,12 +38,18 @@ While my parents were here, I had my graduation 🎓 ceremony, where I dressed s
 
 <div class="fw fg" style="grid-template-columns: repeat(3, 1fr);">
   
-![GLOW Festival](cdn:/0e7f71af8859274ffe33f9d0db714a975a72c88e82b2233b5822d14bf1765cfe)
-![Path Behind The Church](cdn:/ac4bf00df18025a7c140a8de6ed0a6790b9812dd6926ef3d0441b10f28c0d208)
-![Stadswandelpark](cdn:/8be96d708d26fa48405c9f2d8a7f50495389c3c314296dc5700cf364897b6aad)
-![Amsterdam 1](cdn:/bda136593e069b18aaaf3ef271732f84dfc483ac4caac68466ffa7fefce072d2)
-![Amsterdam 2](cdn:/a862b945dc5cb5296fa8a9203b12babd11b044f72f384238be250b8c23ea1d01)
-![Piazza Bridge](cdn:/cfd984dc5c1539cc077bc82d5190b791b2be66e6bd47a9f4bdfcbad33f14f89f)
+![GLOW Festival](cdn:/0e7f71af8859274ffe33f9d0db714a975a72c88e82b2233b5822d14bf1765cfe?caption=false)
+
+![Path Behind The Church](cdn:/ac4bf00df18025a7c140a8de6ed0a6790b9812dd6926ef3d0441b10f28c0d208?caption=false)
+
+![Stadswandelpark](cdn:/8be96d708d26fa48405c9f2d8a7f50495389c3c314296dc5700cf364897b6aad?caption=false)
+
+![Amsterdam 1](cdn:/bda136593e069b18aaaf3ef271732f84dfc483ac4caac68466ffa7fefce072d2?caption=false)
+
+![Amsterdam 2](cdn:/a862b945dc5cb5296fa8a9203b12babd11b044f72f384238be250b8c23ea1d01?caption=false)
+
+![Piazza Bridge](cdn:/cfd984dc5c1539cc077bc82d5190b791b2be66e6bd47a9f4bdfcbad33f14f89f?caption=false)
+
 </div>
 
 While my parents were here, we traveled a bit through Eindhoven to show them some nice corners. We also went to Amsterdam, which they enjoyed quite a lot. Unfortunately, I wasn't able to bring them to more places. I have been suffering from an Achillis Tendinitis since the end of September and it was getting better. Sadly it got worse during November. I think I didn't give it enough rest this month. There's been so many things happening and it's very hard to _not_ walk a lot. I am visiting the physiotherapist next week, let's see what they say. I really hope this resolves soon!

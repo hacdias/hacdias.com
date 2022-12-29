@@ -31,7 +31,7 @@ In addition, in 2019, the EU approved a new regulation, [2019/1157](https://eur-
 
 <style>.sfig { max-width: 25rem }</style>
 
-![Dutch ID Card](cdn:/121f64299ad03a7c342bffa231a583caa41d45a8c6bdf8d19cb0c137ee80ad76?class=sfig "Dutch ID Card With New EU Regulation")
+![Dutch ID Card With New EU Regulation](cdn:/121f64299ad03a7c342bffa231a583caa41d45a8c6bdf8d19cb0c137ee80ad76?class=sfig)
 
 DigiD could let people use ID cards or passports that conform to the ICAO Document 9303 standard for the ID check. However, I understand the problem: the Dutch government would need to keep the number of the ID card or passport registred somewhere in order to know that that ID card is owned by the right person. That is trivial for Dutch citizens as they are in the system. The alternative could be to only check the name and birthday.
 
@@ -41,7 +41,7 @@ Either way, this could still reject people from countries whose ID cards or pass
 
 The alternative to the above solution would be to do something similar to what Belgium does: issue every non-national a residence permit card. Even if they are from the EU. And then let this card be used for ID check and online authentication, just like a regular Dutch citizen ID card.
 
-![Belgian Residence Permit](cdn:/3899f86140817e7bcbdd4bee580c9ee0e83074ad5fd1a7c42efc78c99a177a31?class=sfig "Belgian Residence Permit for EU Nationals")
+![Belgian Residence Permit for EU Nationals](cdn:/3899f86140817e7bcbdd4bee580c9ee0e83074ad5fd1a7c42efc78c99a177a31?class=sfig)
 
 In addition, this card would also need to be allowed for ID check. Currently, residence permit cards are not valid for performing the ID check in the DigiD app.
 

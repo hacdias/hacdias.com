@@ -2,8 +2,16 @@
   {{ with .Helper.Photos }}
     <div class="fw {{ with $.PhotoClass}}{{.}}{{ end }}">
     {{ range $i, $photo := . }}
-      {{ $alt := or $photo.alt "" }}
-      {{ figure $photo.value $alt true }}
+      <figure>
+        <picture>
+          {{ with imageSourceSet $photo.value }}
+            {{ range . }}
+              <source srcset="{{ .Images }}" type="image/{{ .Type }}" />
+            {{ end }}
+          {{ end }}
+          <img src="{{ imageURL $photo.value }}" class="u-photo" loading="lazy" {{ with $photo.alt }}alt="{{ . }}"{{ end }}>
+        </picture>
+      </figure>
     {{ end }}
     </div>
   {{ end }}

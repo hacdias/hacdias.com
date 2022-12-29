@@ -443,30 +443,22 @@ details summary {
   background-color: var(--light-white);
 }
 
-figure.left,
-figure.right {
+.left,
+.right {
   max-width: 20em;
   text-align: center;
   margin: 1rem auto;
   width: 100%;
 }
 
-figure.left {
+.left {
   float: left;
   margin-right: 1.5rem;
 }
 
-figure.right {
+.right {
   float: right;
   margin-left: 1.5rem;
-}
-
-figure.album {
-  max-width: 5rem;
-}
-
-figure.album img {
-  border-radius: var(--radius);
 }
 
 .inline-form {

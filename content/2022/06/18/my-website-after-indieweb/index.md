@@ -29,10 +29,9 @@ When I released the other post back in March, I created this one and put it into
   margin: 0;
 }
 
-.g50-50 p {
-  display: none;
+figure figcaption {
+  display: none
 }
-
 
 figure img {
   border: 1px solid var(--near-white);
@@ -48,6 +47,7 @@ In the beginning of 2020, I released version 11 of my website. It started incorp
 <div class="g50-50 fw">
 
 ![v11 (2020) Blog](cdn:/2022-03-v11-blog)
+
 ![v11 (2020) Projects](cdn:/2022-03-v11-projects)
 
 </div>
@@ -61,6 +61,7 @@ Not long after, I introduced version 12. I made a few changes inspired by other 
 <div class="g50-50 fw">
 
 ![v12 (2020) About](cdn:/2022-03-v12-about)
+
 ![v12 (2020) Articles](cdn:/2022-03-v12-articles)
 
 </div>
@@ -68,6 +69,7 @@ Not long after, I introduced version 12. I made a few changes inspired by other 
 <div class="g50-50 fw">
 
 ![v12 (2020) Dark Home](cdn:/2022-03-v12-dark)
+
 ![v12 (2020) Dark About](cdn:/2022-03-v12-dark-about)
 
 </div>
@@ -79,6 +81,7 @@ After a few iterations, version 13 was released. It is quite similar to version 
 <div class="g50-50 fw">
 
 ![v13 (2020) Dark Article](cdn:/2022-03-v13-article-dark)
+
 ![v13 (2020) Article](cdn:/2022-03-v13-article)
 
 </div>
@@ -90,6 +93,7 @@ Onto version 15: I really don't know what happened to version 14. Since I took t
 <div class="g50-50 fw">
 
 ![v15 (2020) Article](cdn:/2022-03-v15-article)
+
 ![v15 (2020) Dark Home](cdn:/2022-03-v15-dark)
 
 </div>
@@ -101,6 +105,7 @@ Later in the year I decided to go back to the 90s and got immensely inspired on 
 <div class="g50-50 fw">
 
 ![v16 (2020) Articles](cdn:/2022-03-v16-articles)
+
 ![v16 (2020) Home](cdn:/2022-03-v16-home)
 
 </div>
@@ -114,13 +119,16 @@ After so many deep changes thorough 2020, I reached a style for 2021 that I kept
 <div class="g50-50 fw">
 
 ![v17 (2021) About](cdn:/2022-03-v17-about)
+
 ![v17 (2021) Articles](cdn:/2022-03-v17-articles)
+
 ![v17 (2021) More](cdn:/2022-03-v17-more)
+
 ![v17 (2021) Guestbook](cdn:/2022-03-v17-guestbook)
 
-At this time, I also decided to introduce a resume on my website such that I can share it easily. In addition, it is ready to print and it looks nice printed - don't print it though.
-
 </div>
+
+At this time, I also decided to introduce a resume on my website such that I can share it easily. In addition, it is ready to print and it looks nice printed - don't print it though.
 
 ![v17 (2021) Resume](cdn:/2022-03-v17-resume?class=fw)
 

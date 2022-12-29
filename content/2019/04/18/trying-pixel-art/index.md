@@ -20,15 +20,6 @@ and that they seem to be... I don't know... interesting to me.
 
 <!--more-->
 
-<style>
-.magician {
-  margin-right: 1rem
-}
-.cat {
-  margin-left: 1rem
-}
-</style>
-
 ![](https://cdn.hacdias.com/media/2019-04-blinking-eye.gif?class=left+pixelated "Blinking Eye")
 
 I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
@@ -45,11 +36,11 @@ called [aseprite][1] to try out this art.
 At first, I thought about reconstructing some of the illustrations I've done in the past
 and I actually happen to like them. So I've started by doing so.
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div class="fg">
   
-  ![](https://cdn.hacdias.com/media/2019-04-magician.jpeg?class=magician "A magician, wizard?")
+  ![](https://cdn.hacdias.com/media/2019-04-magician.jpeg "A magician, wizard?")
 
-  ![](https://cdn.hacdias.com/media/2019-04-cat.jpeg?class=cat "A Cat")
+  ![](https://cdn.hacdias.com/media/2019-04-cat.jpeg "A Cat")
 
 </div>
 

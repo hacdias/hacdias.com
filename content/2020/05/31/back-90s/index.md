@@ -61,9 +61,9 @@ Over the past months, I have been reading more and more posts where people are [
 
 <div style="display: flex; justify-content: center">
 
-![Best viewed with Netscape](https://cdn.hacdias.com/media/2021-02-netscape.gif?class=pixelated+netscape)
+![](https://cdn.hacdias.com/media/2021-02-netscape.gif?class=pixelated+netscape)
 
-![Best viewed with Internet Explorer](https://cdn.hacdias.com/media/2021-02-iexplorer.gif?class=pixelated+iexplore)
+![](https://cdn.hacdias.com/media/2021-02-iexplorer.gif?class=pixelated+iexplore)
 
 </div>
 
@@ -75,9 +75,7 @@ I barely remember when I first created this website, but I believe it was by han
 
 On his [essay][small-web], Parimal talks about how today's websites are mainly built towards product selling or marketing. It's a really good post and I recommend you all to read it.
 
-![](https://cdn.hacdias.com/media/2021-02-bulb.gif?class=left+pixelated+bulb)
-
-With all of thing being said, I have been tweaking my website. ["Again?"][meta], you ask. "Yes, again", I say. My website has changed a lot over the few years since it exists (5 years I believe), but mostly on the past months, probably due to my discovery of the [IndieWeb][indieweb] and the pandemic we're living right now. 
+![](https://cdn.hacdias.com/media/2021-02-bulb.gif?class=left+pixelated+bulb) With all of thing being said, I have been tweaking my website. ["Again?"][meta], you ask. "Yes, again", I say. My website has changed a lot over the few years since it exists (5 years I believe), but mostly on the past months, probably due to my discovery of the [IndieWeb][indieweb] and the pandemic we're living right now. 
 
 My idea for this website is to make it a hub of my online identity and that's what I've been building over the past months: from the [now] page to the [watches] page, everything tries to show a bit more of me and what I like.
 
