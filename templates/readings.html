@@ -9,14 +9,31 @@
   {{ $logs := .Data.Entries.AsLogs }}
 
   <h2 id='want-to-read'>📖 Want To Read</h2>
-  {{ include "logs" (.GetLogs ".to-read.yaml") }}
+  {{ template "ulogs" (.GetLogs ".to-read.yaml") }}
 
   <h2 id='reading'>📚 Reading</h2>
-  {{ include "logs" (.GetLogs ".reading.yaml") }}
+  {{ template "ulogs" (.GetLogs ".reading.yaml") }}
 
   <h2 id='read'>📕 Read</h2>
   {{ include "logs" $logs }}
 </main>
+{{ end }}
+
+{{ define "ulogs" }}
+<div class='logs'>
+  {{ range . }}
+    <div class='e'>
+      <div>
+        {{ with .URL }}<a href='{{ . }}' class='nl lh'>{{ end }}
+          {{ .Name }}{{ with .Season }} (Season {{. }}){{ end }}
+        {{ with .URL }}</a>{{ end }}
+      </div>
+      <div>{{ .Author }}</div>
+      <div><time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time></div>
+      <div></div>
+    </div>
+  {{ end }}
+</div>
 {{ end }}
 
 {{ define "readings" }}

@@ -1,32 +1,32 @@
 {{ define "logs" }}
-  <div class='box logs'>
-  {{ $byYear := .ByYear }}
+  <div class='logs'>
+    {{ $byYear := .ByYear }}
 
-  {{ range $byYear.Years }}
-    <div>
-      {{ $year := . }}
-      {{ $logs := index $byYear.Map $year }}
+    {{ range $byYear.Years }}
+      <div>
+        {{ $year := . }}
+        {{ $logs := index $byYear.Map $year }}
 
-      <div class='h'>
-        <span>{{ if eq $year 1 }}Others{{ else }}{{ $year }}{{ end }}</span>
-        <span>({{ len $logs }} entries)</span>
-      </div>
+        <div class='h'>
+          <span>{{ if eq $year 1 }}Others{{ else }}{{ $year }}{{ end }}</span>
+          <span>({{ len $logs }} entries)</span>
+        </div>
 
-      {{ with $logs }}
-        {{ range . }}
-          <div class='e'>
-            <div>
-              {{ with .URL }}<a href='{{ . }}' class='nl lh'>{{ end }}
-                {{ .Name }}{{ with .Season }} (Season {{. }}){{ end }}
-              {{ with .URL }}</a>{{ end }}
+        {{ with $logs }}
+          {{ range . }}
+            <div class='e'>
+              <div>
+                {{ with .URL }}<a href='{{ . }}' class='nl lh'>{{ end }}
+                  {{ .Name }}{{ with .Season }} (Season {{. }}){{ end }}
+                {{ with .URL }}</a>{{ end }}
+              </div>
+              <div>{{ .Author }}</div>
+              <div><time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time></div>
+              <div>{{ with .Rating }}{{ stars . 5 }}{{ end }}</div>
             </div>
-            <div>{{ .Author }}</div>
-            <div><time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time></div>
-            <div>{{ with .Rating }}{{ stars . 5 }}{{ end }}</div>
-          </div>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
+      </div>
     {{ end }}
   </div>
 {{ end }}

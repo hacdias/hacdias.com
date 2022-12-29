@@ -2,16 +2,6 @@
   --accent: #c0749d;
 }
 
-.logs {
-  max-height: 65vh;
-  overflow: auto;
-  padding-top: 0;
-}
-
-.logs > div:first-of-type > .h:first-of-type {
-  margin-top: var(--hms);
-}
-
 @media screen and (min-width: 52.001rem) {
   body {
     background: #48084f url(/watches/pattern.jpeg);
@@ -21,11 +11,5 @@
 
   #navbar {
     border-radius: 0;
-  }
-}
-
-@media print {
-  .logs {
-    max-height: none;
   }
 }

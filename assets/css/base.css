@@ -613,6 +613,10 @@ details summary {
 }
 
 .logs .e:hover {
+  background-color: var(--near-white);
+}
+
+.box.logs .e:hover {
   background-color: var(--light-white);
 }
 
@@ -628,8 +632,12 @@ details summary {
   position: sticky;
   top: 0;
   padding: var(--hms) 0;
-  background: var(--near-white);
+  background: var(--background);
   border-bottom: calc(2 * var(--border)) solid var(--accent);
+}
+
+.box.logs .h {
+  background: var(--near-white);
 }
 
 .logs .h span:first-of-type {
