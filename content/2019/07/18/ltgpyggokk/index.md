@@ -39,4 +39,4 @@ properties:
     type: h-adr
 ---
 
-Holiday with friends.
+

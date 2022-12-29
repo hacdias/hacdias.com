@@ -31,11 +31,9 @@
         {{ with $logs }}
           {{ range . }}
             <div class='e h-entry'>
-              <div><a href='{{ .URL }}' class='nl lh p-name u-url'>{{ .Name }}</a></div>
+              <div><a href='{{ relURL .URL }}' class='nl lh p-name u-url'>{{ .Name }}</a></div>
               <div>
-                <small>
-                  <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg dt-published'>{{ .Date.Format "Jan 02" }}</time>
-                </small>
+                <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small dt-published'>{{ .Date.Format "Jan 02" }}</time>
               </div>
             </div>
           {{ end }}

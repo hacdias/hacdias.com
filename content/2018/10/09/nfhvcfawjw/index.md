@@ -61,5 +61,3 @@ properties:
       name: Glasgow (GLA)
     type: h-adr
 ---
-
-LabWeek 2018

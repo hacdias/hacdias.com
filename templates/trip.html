@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<main role='main'>
+  {{ $type := .Helper.PostType }}
+  <article class='h-entry card'> 
+    {{ include "post/header" . }}
+    {{ include "post/content" . }}
+    {{ include "post/media" . }}
+  </article>
+
+  {{ include "list/list" . }}
+</main>
+
+{{ end }}
+
+{{ define "trip" }}
+  {{ template "base" . }}
+{{ end }}

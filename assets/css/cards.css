@@ -31,7 +31,7 @@
   border-bottom-left-radius: 50%;
 }
 
-.card > .box > p {
+.box > p {
   margin: 0 0 .25rem 0;
 }
 

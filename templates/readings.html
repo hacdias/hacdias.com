@@ -30,8 +30,8 @@
         {{ with .URL }}</a>{{ end }}
       </div>
       <div>{{ .Author }}</div>
-      <div><time class='tab'>{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ end }}</time></div>
       <div></div>
+      <div><time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small'>{{ if not .Date.IsZero }}{{ .Date.Format "Jan 02" }}{{ end }}</time></div>
     </div>
   {{ end }}
 </div>

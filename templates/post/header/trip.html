@@ -1,0 +1,34 @@
+{{ define "post/header/trip" }}
+  {{ $mm := .Helper }}
+  {{ $sub := $mm.Sub $mm.TypeProperty }}
+  {{ $location := $mm.Sub "location" }}
+
+  {{ include "map" . }}
+  <script>
+  const lat = {{ $location.Properties.latitude }};
+  const lon = {{ $location.Properties.longitude }};
+  map.setView([lat, lon], 12)
+  L.marker([lat, lon]).addTo(map)
+  </script>
+
+  <div class='box ctx'>
+    <p>🌍 Trip to <strong><span class="p-name">{{ $sub.String "destination" }}</span></strong></p>
+
+     <p>
+      <small>
+        🗓
+        <span class="p-start">{{ dateFormat ($sub.String "start") "02 Jan 2006" }}</span>
+        until
+        <span class="p-end">{{ dateFormat ($sub.String "end") "02 Jan 2006" }}</span>
+      </small>
+    </p>
+
+    <p>
+      <small>
+        {{ if $sub.Properties.Bool "work" }}💼{{ else }}🦕{{ end}}
+        {{ with $sub.String "name" }}{{ . }}{{ end }}
+      </small>
+    </p>
+  </div>
+
+{{ end }}

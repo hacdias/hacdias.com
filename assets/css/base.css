@@ -603,7 +603,7 @@ details summary {
 
 .logs .e {
   display: grid;
-  grid-template-columns: auto 10rem 6rem 5rem;
+  grid-template-columns: auto 10rem 5rem 3rem;
   grid-gap: 1rem;
   align-items: center;
 }

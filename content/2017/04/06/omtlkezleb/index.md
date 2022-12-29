@@ -38,5 +38,3 @@ properties:
       name: London (LGW)
     type: h-adr
 ---
-
-High school graduation trip with some friends.

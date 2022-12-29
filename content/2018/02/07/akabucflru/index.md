@@ -38,5 +38,3 @@ properties:
       name: London (LHR)
     type: h-adr
 ---
-
-SmashingConf 2018

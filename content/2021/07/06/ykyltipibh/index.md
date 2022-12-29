@@ -39,4 +39,4 @@ properties:
     type: h-adr
 ---
 
-Summer holiday (family, parents, friends).
+
