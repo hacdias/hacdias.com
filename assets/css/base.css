@@ -628,6 +628,11 @@ details summary {
   font-weight: 600;
 }
 
+.logs .e a {
+  display: inline-block;
+  width: 100%;
+}
+
 .logs .h {
   position: sticky;
   top: 0;
