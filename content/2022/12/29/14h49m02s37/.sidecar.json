@@ -1,0 +1,15 @@
+{
+  "targets": [
+    "https://peoplemaking.games/@cmddx/109595069068050038"
+  ],
+  "context": {
+    "author": {
+      "name": "cain",
+      "photo": "https://cdn.hacdias.com/wm/d12b34fdfdcb9ad739e27708014618e645465f3db5e498aef30eba47958ce3fb.jpg",
+      "url": "https://peoplemaking.games/@cmddx"
+    },
+    "published": "2022-12-29T04:27:21Z",
+    "content": "it took me longer than i\u0026#39;d like to admit to figure this one out (in my defense i\u0026#39;m sick and have the worst headache) but today i figured out that dithered art has to be moved *two* pixels at a time, not one. moving it one pixel causes flicker (left), while two pixels (right) keeps the dither grid in the same spot. neat!",
+    "url": "https://peoplemaking.games/@cmddx/109595069068050038"
+  }
+}

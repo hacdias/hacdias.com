@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/0af56489a0f954ac6da584a9a636be1b151c3947f427ee27180c3aa61ed9d7e4.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-29T19:15:32+01:00",
+      "content": "1193 miles since last check-in",
+      "url": "https://ownyourswarm.p3k.io/checkin/63add94451407766f3009b22/f3057cbb37f957e5a925210e5fe26584",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-29T19:15:32+01:00",
+      "content": "Your first check-in at Bus 401: Eindhoven Airport - Centraal Station!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63add94451407766f3009b22/7b16077bb470803cd8dad71ef7178d51",
+      "type": "reply",
+      "swarmCoins": 5
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-29T19:15:32+01:00",
+      "content": "Your last check-in in Eindhoven Airport was in December \u0026#39;21 at Gate 4.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63add94451407766f3009b22/8fe6c540082151371f52f938787f6487",
+      "type": "reply",
+      "swarmCoins": 2
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2022-12-29T19:15:32+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63add94451407766f3009b22/901d2062fe377d8f54b57d96cafc0d5b",
+      "type": "reply",
+      "swarmCoins": 2
+    }
+  ]
+}
