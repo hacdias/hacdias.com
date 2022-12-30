@@ -1,6 +1,8 @@
 ---
 title: 'Tags: now'
-listing: {}
+template: articles
+listing:
+  disablePagination: true
 ---
 
 <div class="box">
