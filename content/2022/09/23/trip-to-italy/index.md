@@ -7,17 +7,16 @@ properties:
   location:
     properties:
       country-name: Italy
-      latitude: 40.8844444
-      locality: Naples
-      longitude: 14.2908333
-      name: Naples (NAP)
+      latitude: 42.642176399245656
+      zoom: 6
+      longitude: 12.881535886118813
     type: h-adr
   trip:
     properties:
-      destination: Italy 🇮🇹 🇻🇦
-      end: 2022-09-22T23:59:59Z
+      destination: "Italy \U0001F1EE\U0001F1F9 \U0001F1FB\U0001F1E6"
+      end: "2022-09-22T23:59:59Z"
       name: Holiday
-      start: 2022-09-12T00:00:00Z
+      start: "2022-09-12T00:00:00Z"
     type: h-card
 ---
 

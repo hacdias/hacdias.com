@@ -7,18 +7,18 @@ properties:
   location:
     properties:
       country-name: Switzerland
-      latitude: 47.4580556
+      latitude: 47.366724905991695
       locality: Zurich
-      longitude: 8.5480556
-      name: Zurich (ZRH)
+      longitude: 8.541540314401885
+      region: Zurich
     type: h-adr
   trip:
     properties:
-      destination: Zurich 🇨🇭
-      end: 2019-12-18T23:59:59Z
+      destination: "Zurich \U0001F1E8\U0001F1ED"
+      end: "2019-12-18T23:59:59Z"
       name: Testground Meetup
+      start: "2019-12-09T00:00:00Z"
       work: true
-      start: 2019-12-09T00:00:00Z
     type: h-card
 ---
 

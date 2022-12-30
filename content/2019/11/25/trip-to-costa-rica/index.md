@@ -7,18 +7,19 @@ properties:
   location:
     properties:
       country-name: Costa Rica
-      latitude: 9.9939028
-      locality: Alajuela
-      longitude: -84.2088556
-      name: San Jose (SJO)
+      latitude: 10.641647571154072
+      locality: Liberia
+      longitude: -85.65888068018712
+      region: Guanacaste Province
+      zoom: 14
     type: h-adr
   trip:
     properties:
-      destination: Peninsula Papagayo 🇨🇷
-      end: 2019-11-24T23:59:59Z
+      destination: "Peninsula Papagayo \U0001F1E8\U0001F1F7"
+      end: "2019-11-24T23:59:59Z"
       name: LabWeek 2019
+      start: "2019-11-17T00:00:00Z"
       work: true
-      start: 2019-11-17T00:00:00Z
     type: h-card
 ---
 

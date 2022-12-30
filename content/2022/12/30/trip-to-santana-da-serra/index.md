@@ -9,15 +9,15 @@ properties:
     properties:
       country-name: Portugal
       latitude: 37.500635
-      locality: Lisbon
+      locality: Ourique
       longitude: -8.300669
-      name: Lisboa (LIS)
+      name: Santana da Serra
     type: h-adr
   trip:
     properties:
       destination: "Santana da Serra \U0001F1F5\U0001F1F9"
       end: "2022-12-29T23:59:59Z"
-      name: Family Christmas
+      name: Christmas Holiday with Family
       start: "2022-12-22T00:00:00Z"
     type: h-card
 ---

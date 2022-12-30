@@ -7,10 +7,11 @@ properties:
   location:
     properties:
       country-name: Portugal
-      latitude: 37.7419444
-      locality: Ponta Delgrada
-      longitude: -25.6977778
-      name: Ponta Delgada (PDL)
+      latitude: 37.78405535222057
+      locality: Azores
+      longitude: -25.495591717779313
+      name: São Miguel
+      zoom: 10
     type: h-adr
   trip:
     properties:

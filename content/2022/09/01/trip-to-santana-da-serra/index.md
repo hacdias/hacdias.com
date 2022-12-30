@@ -7,10 +7,10 @@ properties:
   location:
     properties:
       country-name: Portugal
-      latitude: 37.0144444
-      locality: Faro
-      longitude: -7.9658333
-      name: Faro (FAO)
+      latitude: 37.500635
+      locality: Ourique
+      longitude: -8.300669
+      name: Santana da Serra
     type: h-adr
   trip:
     properties:

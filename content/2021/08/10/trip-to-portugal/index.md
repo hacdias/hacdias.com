@@ -7,17 +7,16 @@ properties:
   location:
     properties:
       country-name: Portugal
-      latitude: 37.0144444
-      locality: Faro
-      longitude: -7.9658333
-      name: Faro (FAO)
+      latitude: 39.197282716346706
+      longitude: -8.134221029813029
+      zoom: 6
     type: h-adr
   trip:
     properties:
-      destination: Portugal 🇵🇹
-      end: 2021-08-09T23:59:59Z
+      destination: "Portugal \U0001F1F5\U0001F1F9"
+      end: "2021-08-09T23:59:59Z"
       name: Summer Holiday
-      start: 2021-07-06T00:00:00Z
+      start: "2021-07-06T00:00:00Z"
     type: h-card
 ---
 
