@@ -7,18 +7,18 @@ properties:
   location:
     properties:
       country-name: United Kingdom
-      latitude: 55.8719444
+      latitude: 55.856437
       locality: Glasgow
-      longitude: -4.4330556
-      name: Glasgow (GLA)
+      longitude: -4.2594757
+      name: Glasgow
     type: h-adr
   trip:
     properties:
-      destination: Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-      end: 2018-10-13T23:59:59Z
+      destination: "Glasgow \U0001F3F4\U000E0067\U000E0062\U000E0073\U000E0063\U000E0074\U000E007F"
+      end: "2018-10-13T23:59:59Z"
       name: LabWeek 2018
+      start: "2018-10-09T00:00:00Z"
       work: true
-      start: 2018-10-09T00:00:00Z
     type: h-card
 ---
 

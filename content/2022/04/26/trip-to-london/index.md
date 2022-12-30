@@ -7,17 +7,17 @@ properties:
   location:
     properties:
       country-name: United Kingdom
-      latitude: 51.5318912
-      longitude: -0.1268506
-      name: London St Pancras Int'l
-      region: England
+      latitude: 51.50839474
+      locality: London
+      longitude: -0.12071889338
+      name: London
     type: h-adr
   trip:
     properties:
-      destination: London 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-      end: 2022-04-25T23:59:59Z
+      destination: "London \U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F"
+      end: "2022-04-25T23:59:59Z"
       name: Friend Visit
-      start: 2022-04-21T00:00:00Z
+      start: "2022-04-21T00:00:00Z"
     type: h-card
 ---
 

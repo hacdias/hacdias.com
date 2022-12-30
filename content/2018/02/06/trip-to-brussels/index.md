@@ -7,18 +7,18 @@ properties:
   location:
     properties:
       country-name: Belgium
-      latitude: 50.9013889
+      latitude: 50.84814463
       locality: Brussels
-      longitude: 4.4844444
-      name: Brussels (BRU)
+      longitude: 4.3509642
+      name: Brussels
     type: h-adr
   trip:
     properties:
-      destination: Brussels 🇧🇪
-      end: 2018-02-05T23:59:59Z
+      destination: "Brussels \U0001F1E7\U0001F1EA"
+      end: "2018-02-05T23:59:59Z"
       name: FOSDEM 2018
+      start: "2018-02-02T00:00:00Z"
       work: true
-      start: 2018-02-02T00:00:00Z
     type: h-card
 ---
 
