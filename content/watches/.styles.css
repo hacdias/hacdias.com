@@ -2,7 +2,7 @@
   --accent: #c0749d;
 }
 
-@media screen and (min-width: 52.001rem) {
+@media screen and (min-width: 53.001rem) {
   body {
     background: #48084f url(/watches/pattern.jpeg);
     background-size: 300px;

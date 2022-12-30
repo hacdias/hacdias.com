@@ -66,7 +66,7 @@
   filter: drop-shadow(0 0 1px var(--light-gray));
 }
 
-@media screen and (max-width: 52rem) {
+@media screen and (max-width: 44rem) {
   .wm .inline-form,
   .wm .inline-form input,
   .wm .inline-form button {

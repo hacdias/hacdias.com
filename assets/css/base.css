@@ -651,18 +651,26 @@ details summary {
   font-weight: bold;
 }
 
-@media screen and (max-width: 52rem) {
+@media screen and (max-width: 53rem) {
   :root {
+    --max-width: 53rem;
     --ls: 1rem;
     --hls: 1rem;
   }
 
-  .lh {
-    text-decoration: underline;
+  #header {
+    padding: 0 var(--ls);
   }
 
-  #header {
-    padding: 0 var(--hms);
+  #navbar {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 44rem) {
+  .lh {
+    text-decoration: underline;
   }
 
   #navbar,
@@ -672,19 +680,9 @@ details summary {
     text-align: left;
   }
 
-  #navbar {
-    margin-left: 0;
-    width: 100%;
-  }
-
   #navbar a,
   #header form input {
     display: none;
-  }
-
-  #footer > div {
-    display: block;
-    text-align: center;
   }
 
   .fg,

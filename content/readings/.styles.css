@@ -2,7 +2,7 @@
   --accent: #904726;
 }
 
-@media screen and (min-width: 52.001rem) {
+@media screen and (min-width: 53.001rem) {
   body {
     background: #8e4a1f url(/readings/shelf.jpeg);
     background-size: 400px;
