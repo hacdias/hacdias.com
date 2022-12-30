@@ -2,6 +2,11 @@ reading:
   - name: Short Stories in Dutch for Beginners
     author: Olly Richards
     date: 2022-04-09
+  - name: Sweet Bean Paste
+    author: Durian Sukegawa
+    publisher: Oneworld Publications
+    uid: isbn:9781786071958
+    date: 2022-12-30
 want-to-read:
   - name: Before Your Memory Fades
     author: Toshikazu Kawaguchi
@@ -9,11 +14,6 @@ want-to-read:
     publisher: Picador
     pages: 224
     uid: isbn:9781529089431
-  - name: Sweet Bean Paste
-    author: Durian Sukegawa
-    publisher: Oneworld Publications
-    uid: isbn:9781786071958
-    date: 2022-06-04
   - name: Ariadne
     author: Jennifer Saint
     publisher: Wildfire
