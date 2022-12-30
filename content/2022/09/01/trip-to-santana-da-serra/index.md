@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: Santana da Serra 🇵🇹
+      destination: Santana da Serra
+      emoji: 🇵🇹
       end: "2022-08-31T23:59:59Z"
       name: Family Visit
       start: "2022-08-24T00:00:00Z"

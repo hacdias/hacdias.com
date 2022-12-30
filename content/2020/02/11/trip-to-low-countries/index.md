@@ -15,7 +15,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Low Countries \U0001F1F1\U0001F1FA \U0001F1E7\U0001F1EA \U0001F1F3\U0001F1F1"
+      destination: "Low Countries"
+      emoji: 🇱🇺 🇧🇪 🇳🇱
       end: "2020-02-10T23:59:59Z"
       name: Holiday with Friends
       start: "2020-02-03T00:00:00Z"

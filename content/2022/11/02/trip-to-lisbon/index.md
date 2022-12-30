@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Lisbon \U0001F1F5\U0001F1F9"
+      destination: "Lisbon"
+      emoji: 🇵🇹
       end: "2022-11-01T23:59:59Z"
       name: LabWeek 2022
       start: "2022-10-24T00:00:00Z"

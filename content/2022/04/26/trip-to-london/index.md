@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "London \U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F"
+      destination: "London"
+      emoji: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
       end: "2022-04-25T23:59:59Z"
       name: Friend Visit
       start: "2022-04-21T00:00:00Z"

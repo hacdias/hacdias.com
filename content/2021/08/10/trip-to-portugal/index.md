@@ -13,7 +13,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Portugal \U0001F1F5\U0001F1F9"
+      destination: "Portugal"
+      emoji: 🇵🇹
       end: "2021-08-09T23:59:59Z"
       name: Summer Holiday
       start: "2021-07-06T00:00:00Z"

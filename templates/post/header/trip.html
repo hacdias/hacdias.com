@@ -13,7 +13,10 @@
   {{ end }}
 
   <div class='box ctx'>
-    <p>🌍 Trip to <strong><span class="p-name">{{ $sub.String "destination" }}</span></strong></p>
+    <p>
+      {{ with $sub.String "emoji" }}{{ . }}{{ else }}🌍{{ end }}
+      Trip to <strong><span class="p-name">{{ $sub.String "destination" }}</span></strong>
+    </p>
 
      <p>
       <small>

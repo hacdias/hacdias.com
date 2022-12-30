@@ -13,7 +13,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Italy \U0001F1EE\U0001F1F9 \U0001F1FB\U0001F1E6"
+      destination: "Italy"
+      emoji: 🇮🇹 🇻🇦
       end: "2022-09-22T23:59:59Z"
       name: Holiday
       start: "2022-09-12T00:00:00Z"

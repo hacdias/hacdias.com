@@ -15,7 +15,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Berlin & Prague \U0001F1E9\U0001F1EA \U0001F1E8\U0001F1FF"
+      destination: "Berlin & Prague"
+      emoji: 🇩🇪 🇨🇿
       end: "2019-07-31T23:59:59Z"
       name: Holiday with Friends
       start: "2019-07-18T00:00:00Z"

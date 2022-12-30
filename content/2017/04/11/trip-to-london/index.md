@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "London \U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F"
+      destination: London
+      emoji: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
       end: "2017-04-10T23:59:59Z"
       name: Graduation Trip
       start: "2017-04-06T00:00:00Z"

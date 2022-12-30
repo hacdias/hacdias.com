@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Paris \U0001F1EB\U0001F1F7"
+      destination: "Paris"
+      emoji: 🇫🇷
       end: "2021-10-03T23:59:59Z"
       name: Weekend Trip
       start: "2021-10-01T00:00:00Z"

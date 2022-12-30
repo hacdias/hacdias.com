@@ -15,7 +15,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Peninsula Papagayo \U0001F1E8\U0001F1F7"
+      destination: "Peninsula Papagayo"
+      emoji: 🇨🇷
       end: "2019-11-24T23:59:59Z"
       name: LabWeek 2019
       start: "2019-11-17T00:00:00Z"

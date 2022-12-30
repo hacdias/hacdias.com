@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Ghent \U0001F1E7\U0001F1EA"
+      destination: "Ghent"
+      emoji: 🇧🇪
       end: "2021-08-21T23:59:59Z"
       name: Visit Friend
       start: "2021-08-21T00:00:00Z"

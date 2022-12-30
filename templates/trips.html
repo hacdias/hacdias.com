@@ -46,8 +46,16 @@
             {{ $trip := $mm.Sub "trip" }}
             {{ with $trip }}
             <div class='e h-entry'>
-              <div><a href='{{ relURL $entry.Permalink }}' class='nl lh u-url'>{{ .String "name" }} {{ if .Properties.Bool "work" }}💼{{ end }}</a></div>
-              <div>{{ .String "destination" }}</div>
+              <div>
+                <a href='{{ relURL $entry.Permalink }}' class='nl lh u-url'>
+                  {{ if .Properties.Bool "work" }}💼{{ end }}
+                  {{ .String "name" }}
+                </a>
+              </div>
+              <div>
+                {{ with .String "emoji" }}{{ . }}{{ end }}
+                {{ .String "destination" }}
+              </div>
               <div>
                 <time class='tab lg small'>{{ dateFormat ($trip.String "start") "Jan 02" }}</time>
                 <small class='lg'>→</small>

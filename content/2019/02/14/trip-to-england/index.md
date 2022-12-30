@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "London & Cambridge \U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F"
+      destination: London & Cambridge
+      emoji: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
       end: "2019-02-13T23:59:59Z"
       name: Holiday with Friends
       start: "2019-02-05T00:00:00Z"

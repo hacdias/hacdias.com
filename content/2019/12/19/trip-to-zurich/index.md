@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Zurich \U0001F1E8\U0001F1ED"
+      destination: "Zurich"
+      emoji: 🇨🇭
       end: "2019-12-18T23:59:59Z"
       name: Testground Meetup
       start: "2019-12-09T00:00:00Z"

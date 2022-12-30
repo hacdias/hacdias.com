@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Brussels \U0001F1E7\U0001F1EA"
+      destination: Brussels
+      emoji: 🇧🇪
       end: "2019-02-03T23:59:59Z"
       name: FOSDEM 2019
       start: "2019-01-31T00:00:00Z"

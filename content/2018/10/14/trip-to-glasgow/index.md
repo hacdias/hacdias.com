@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Glasgow \U0001F3F4\U000E0067\U000E0062\U000E0073\U000E0063\U000E0074\U000E007F"
+      destination: Glasgow
+      emoji: 🏴󠁧󠁢󠁳󠁣󠁴󠁿
       end: "2018-10-13T23:59:59Z"
       name: LabWeek 2018
       start: "2018-10-09T00:00:00Z"

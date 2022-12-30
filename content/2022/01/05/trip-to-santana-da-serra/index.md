@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: "Santana da Serra \U0001F1F5\U0001F1F9"
+      destination: "Santana da Serra"
+      emoji: 🇵🇹
       end: "2022-01-04T23:59:59Z"
       name: Christmas Holiday with Family
       start: "2021-12-21T00:00:00Z"

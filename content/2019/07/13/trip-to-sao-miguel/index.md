@@ -15,7 +15,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: São Miguel 🇵🇹
+      destination: São Miguel
+      emoji: 🇵🇹
       end: 2019-07-12T23:59:59Z
       name: Holiday with Parents
       start: 2019-07-10T00:00:00Z

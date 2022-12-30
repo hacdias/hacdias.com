@@ -14,7 +14,8 @@ properties:
     type: h-adr
   trip:
     properties:
-      destination: Santana da Serra 🇵🇹
+      destination: Santana da Serra
+      emoji: 🇵🇹
       end: 2020-12-27T23:59:59Z
       name: Christmas with Parents
       start: 2020-12-15T00:00:00Z
