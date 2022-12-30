@@ -1,8 +1,20 @@
 {{ define "main" }}
 
 <main role='main'>
-  {{ $type := .Helper.PostType }}
-  <article class='h-entry card'> 
+  <article class='h-entry card'>
+    {{ $mm := .Helper }}
+    {{ $sub := $mm.Sub $mm.TypeProperty }}
+    {{ $location := $mm.Sub "location" }}
+
+    {{ with $location }}
+      {{ include "map" . }}
+      <script>
+      const lat = {{ .Properties.latitude }};
+      const lon = {{ .Properties.longitude }};
+      map.setView([lat, lon], {{ with .Properties.Int "zoom" }}{{ . }}{{ else }}12{{ end }})
+      </script>
+    {{ end }}
+
     {{ include "post/header" . }}
     {{ include "post/content" . }}
     {{ include "post/media" . }}
