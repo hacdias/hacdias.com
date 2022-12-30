@@ -1,8 +1,8 @@
 {{ define "base/header" }}
   <div id='header'>
     <div id='home'>
-      <a rel='noreferrer noopener' class='avatar nl' href='{{ relURL "/" }}'>
-        <picture title='This is me, kinda.'>
+      <a class='avatar nl' href='{{ relURL "/" }}' title='This is me, kinda.'>
+        <picture>
           <source type='image/webp' srcset='{{ relURL "/avatar.webp" }}'>
           <img alt='Avatar' src='{{ relURL "/avatar.png" }}' width="100px">
         </picture>
@@ -10,7 +10,7 @@
 
       <div>
         <p class='name'>
-          <a rel='noreferrer noopener' class='nl' href='{{ relURL "/" }}'>Henrique Dias</a>
+          <a class='nl' href='{{ relURL "/" }}'>Henrique Dias</a>
           <span id='egg'>
             <a href='{{ relURL "/2022/11/14/verified-checkmark" }}' title='Self-Verified Account'>
               <svg role='img' style='fill: var(--accent)' aria-hidden='true' xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24'>
@@ -20,7 +20,8 @@
           </span>
         </p>
         <p class='lg'>
-          known as <a rel='noreferrer noopener' class='nl lh' href='{{ relURL "/about#handle" }}' title='You have been hacked!'>@hacdias</a></p>
+          known as <a class='nl lh' href='{{ relURL "/about#handle" }}' title='You have been hacked!'>@hacdias</a>
+        </p>
       </div>
     </div>
 
