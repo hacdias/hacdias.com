@@ -2,7 +2,6 @@
 title: OVPay III
 draft: true
 published: 2022-12-20T09:05:13.324002349+01:00
-updated: 2022-12-28T22:12:23.756985352+01:00
 createdWith: https://hacdias.com/
 properties:
   location:
@@ -18,4 +17,4 @@ taxonomies:
   - ovpay
 ---
 
-```js JSON.parse() ```
+
