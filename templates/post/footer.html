@@ -1,11 +1,10 @@
 {{ define "post/footer" }}
   {{ $mf2 := .Helper }}
 
-  {{/* {{ $locationStr := $mf2.String "location" }}
-  {{ $location := $mf2.Sub "location" }} */}}
-
   <footer>
-    {{/* {{ if $location }}
+    {{/* {{ $locationStr := $mf2.String "location" }}
+    {{ $location := $mf2.Sub "location" }}
+    {{ if $location }}
       <p class="p-location h-adr">{{ $location.LocationHTML }}</p>
     {{ else if $locationStr }}
       {{ $entry := .GetEntry $locationStr }}
