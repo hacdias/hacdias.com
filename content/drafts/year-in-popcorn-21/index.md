@@ -1,7 +1,6 @@
 ---
-title: Year in Popcorn 2021
+title: Year in Popcorn '21
 draft: true
-published: 2022-12-01T11:28:55+01:00
 section:
 - articles
 - home
