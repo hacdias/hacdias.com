@@ -30,7 +30,7 @@
             <div class="signature">—
             {{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }},
             {{ with .URL }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
-            {{- with .Published}}{{ .Format "02 January 2006" }}{{ else }}Unknown Date{{end }}
+            {{- with .Published}}{{ .Format "02 Jan 2006" }}{{ else }}Unknown Date{{end }}
             {{ with .URL }}</a>{{ end }}
             </div>
           </div>
