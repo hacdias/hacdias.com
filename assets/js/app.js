@@ -13,7 +13,7 @@ function addEmoji (el) {
   let title = ''
 
   if (month === 1 && day <= 2) {
-    emoji = '🎊'
+    emoji = '🥂'
     title = 'Happy New Year!'
   } else if (month === 5 && day === 17) {
     emoji = '🌈'
