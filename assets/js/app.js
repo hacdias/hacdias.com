@@ -26,13 +26,13 @@ function addEmoji (el) {
     title = 'Happy Birthday to Me!'
   } else if (month === 10 && day >= 30) {
     emoji = '🎃'
-    title = 'Happy Holiday!'
+    title = 'Happy Halloween!'
   } else if (month === 11 && day === 1) {
     emoji = '👻'
     title = `Happy All Saint's Day!`
   } else if (month === 12 && day === 5) {
     emoji = '🍪'
-    title = 'Happy Sinterklaas!'
+    title = 'Prettige Sinterklaas!'
   } else if (month === 12 && day >= 20 && day <= 26) {
     emoji = '🎄'
     title = 'Happy Christmas!'
