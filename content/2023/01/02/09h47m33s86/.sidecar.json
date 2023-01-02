@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "https://public.garden/objects/281d102d-3d64-4ad2-a6f9-7135f347a475",
+    "https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/",
+    "https://indieweb.org/",
+    "https://github.com/hacdias/eagle"
+  ],
+  "context": {
+    "author": {
+      "name": "starrwulfe",
+      "photo": "https://cdn.hacdias.com/wm/1aabf7f8ba61c4a3625da005bcb8841a939de799071efdcfb5bb7247acc63c28.png",
+      "url": "https://public.garden/users/starrwulfe"
+    },
+    "published": "2023-01-02T08:23:40Z",
+    "content": "You too! Hope to learn a lot about how to make my own site run like yours sometime in 2023!Any howto tips you can give about how to get started? 🙏🏾",
+    "url": "https://public.garden/objects/281d102d-3d64-4ad2-a6f9-7135f347a475"
+  }
+}
