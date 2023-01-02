@@ -21,4 +21,4 @@ userMentions:
   inbox: https://fosstodon.org/users/jle/inbox
 ---
 
-[@jle@fosstodon.org](https://fosstodon.org/users/jle) Thank you 😊 - I am now attempting to reply from my main website account. I'm curious: what made you decide on having an account for the blogs (except for the different languages), and one for yourself, when both could be the same?
+Thank you 😊 - I am now attempting to reply from my main website account. I'm curious: what made you decide on having an account for the blogs (except for the different languages), and one for yourself, when both could be the same?

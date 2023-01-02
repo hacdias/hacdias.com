@@ -21,4 +21,4 @@ userMentions:
   inbox: https://fosstodon.org/users/jle/inbox
 ---
 
-[@jle@fosstodon.org](https://fosstodon.org/users/jle) I'll be looking at your future commits 😜
+I'll be looking at your future commits 😜

@@ -20,4 +20,4 @@ userMentions:
   inbox: https://geekcompass.com/users/jan/inbox
 ---
 
-[@jan@geekcompass.com](https://geekcompass.com/users/jan) you make some good points. I've been adding AP to my website. I've had it before, and ended up removing it. Sometimes I think about going back to simple static website. I'm afraid the complexity will make it slower, and that AP will just bring a lot of SPAM. But at the same time I want my personal website to be my main online identity 🤔
+You make some good points. I've been adding AP to my website. I've had it before, and ended up removing it. Sometimes I think about going back to simple static website. I'm afraid the complexity will make it slower, and that AP will just bring a lot of SPAM. But at the same time I want my personal website to be my main online identity 🤔

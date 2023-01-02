@@ -19,4 +19,4 @@ userMentions:
   inbox: https://jlelse.blog/activitypub/inbox/en
 ---
 
-[@en@jlelse.blog](https://jlelse.blog) Thanks for sharing this. I had watched the original videos and I’m very glad this one showed up in my feed somehow. I didn’t expect that so much of the sorting was done manually. Since moving to the Netherlands I’ve had a few packages sorted incorrectly with DHL - it even said so in their tracking website. It explains a lot.
+Thanks for sharing this. I had watched the original videos and I’m very glad this one showed up in my feed somehow. I didn’t expect that so much of the sorting was done manually. Since moving to the Netherlands I’ve had a few packages sorted incorrectly with DHL - it even said so in their tracking website. It explains a lot.

@@ -20,4 +20,4 @@ userMentions:
   inbox: https://jlelse.blog/activitypub/inbox/en
 ---
 
-[@en@jlelse.blog](https://jlelse.blog) Oh, no! I hope you get well quickly. Nevertheless, I hope you can still enjoy the time somehow 😌
+Oh, no! I hope you get well quickly. Nevertheless, I hope you can still enjoy the time somehow 😌

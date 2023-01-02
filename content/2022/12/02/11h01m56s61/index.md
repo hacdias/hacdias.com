@@ -20,4 +20,4 @@ userMentions:
   inbox: https://geekcompass.com/users/jan/inbox
 ---
 
-[@jan@geekcompass.com](https://geekcompass.com/users/jan) Had to open MDN page to see what this article was about 😅 It seems that the property makes no difference on macOS, yet.
+Had to open MDN page to see what this article was about 😅 It seems that the property makes no difference on macOS, yet.

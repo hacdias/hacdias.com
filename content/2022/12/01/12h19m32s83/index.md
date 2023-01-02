@@ -20,4 +20,4 @@ userMentions:
   inbox: https://chat.brainbaking.com/users/wouter/inbox
 ---
 
-[@wouter@chat.brainbaking.com](https://chat.brainbaking.com/users/wouter) It does, and for some reason it even reminds me of some of RuneScape songs.
+It does, and for some reason it even reminds me of some of RuneScape songs.

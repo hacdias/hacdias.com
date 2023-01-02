@@ -20,4 +20,4 @@ userMentions:
   inbox: https://peoplemaking.games/users/cmddx/inbox
 ---
 
-[@cmddx@peoplemaking.games](https://peoplemaking.games/users/cmddx) that’s definitely very pretty! I didn’t notice at first, but now that I saw it, I can unsee it.
+That’s definitely very pretty! I didn’t notice at first, but now that I saw it, I can unsee it.

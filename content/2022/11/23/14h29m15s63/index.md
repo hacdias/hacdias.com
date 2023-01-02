@@ -20,4 +20,4 @@ userMentions:
   inbox: https://fosstodon.org/users/jle/inbox
 ---
 
-[@jle@fosstodon.org](https://fosstodon.org/users/jle) Same 😂 But hoping it'll be worth it!
+Same 😂 But hoping it'll be worth it!

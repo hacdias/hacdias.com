@@ -19,4 +19,4 @@ userMentions:
   inbox: https://jlelse.blog/activitypub/inbox/en
 ---
 
-[@en@jlelse.blog](https://jlelse.blog) It’s a ceiling lamp 😅
+It’s a ceiling lamp 😅

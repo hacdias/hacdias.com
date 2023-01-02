@@ -20,4 +20,4 @@ userMentions:
   inbox: https://jlelse.blog/activitypub/inbox/en
 ---
 
-[@en@jlelse.blog](https://jlelse.blog) Those are the best! 🤣 Just kidding. Maybe it's a cycle: we build only to destruct. To me I feel like it's an yearly cycle. It's been slightly over a year since I added the feature to my website, and now I want to remove it.
+Those are the best! 🤣 Just kidding. Maybe it's a cycle: we build only to destruct. To me I feel like it's an yearly cycle. It's been slightly over a year since I added the feature to my website, and now I want to remove it.

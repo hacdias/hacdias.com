@@ -20,4 +20,4 @@ userMentions:
   inbox: https://jlelse.blog/activitypub/inbox/en
 ---
 
-[@en@jlelse.blog](https://jlelse.blog) In the meanwhile, I would argue I don't have real winter clothes, just patches! 😅 Also have to got some nicer clothes, specially jacket and shoes.
+In the meanwhile, I would argue I don't have real winter clothes, just patches! 😅 Also have to got some nicer clothes, specially jacket and shoes.

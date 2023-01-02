@@ -20,4 +20,4 @@ userMentions:
   inbox: https://jlelse.blog/activitypub/inbox/en
 ---
 
-[@en@jlelse.blog](https://jlelse.blog) Wow, that's very pretty 😄 Enjoy!
+Wow, that's very pretty 😄 Enjoy!

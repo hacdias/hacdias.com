@@ -19,4 +19,4 @@ userMentions:
   inbox: https://fosstodon.org/users/jle/inbox
 ---
 
-[@jle@fosstodon.org](https://fosstodon.org/users/jle) That's definitely something I can try to do, after I feel like everything's working properly. However, so far, it is quite tied to the types of Eagle, so not sure if it'll be easy, or feasible without losing much of the automation.
+That's definitely something I can try to do, after I feel like everything's working properly. However, so far, it is quite tied to the types of Eagle, so not sure if it'll be easy, or feasible without losing much of the automation.

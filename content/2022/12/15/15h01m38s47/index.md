@@ -20,4 +20,4 @@ userMentions:
   inbox: https://jlelse.blog/activitypub/inbox/en
 ---
 
-[@en@jlelse.blog](https://jlelse.blog) I did that initially, but I've had some specific rules of what to clear from the cache after updating an entry: the entry itself, the main page, the everything page, related sections, taxonomies, as well as yearly, monthly and daily archives. I wonder if this would be too much regeneration and how much _time_ it would take. I think I may try this out over Christmas vacation 😅
+I did that initially, but I've had some specific rules of what to clear from the cache after updating an entry: the entry itself, the main page, the everything page, related sections, taxonomies, as well as yearly, monthly and daily archives. I wonder if this would be too much regeneration and how much _time_ it would take. I think I may try this out over Christmas vacation 😅
