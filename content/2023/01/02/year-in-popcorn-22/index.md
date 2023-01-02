@@ -1,7 +1,6 @@
 ---
 title: Year in Popcorn '22
-published: 2023-01-02T14:50:00+01:00
-draft: true
+published: 2023-01-02T14:49:00+01:00
 section:
 - articles
 - home
@@ -20,8 +19,6 @@ img.pyip22 {
 
 ![Popcorn](https://cdn.hacdias.com/media/2021-02-popcorn.gif?class=right+pixelated+pyip22) A few years ago, I published an article where I did a small [analysis](/2020/02/22/trakt-analysis) of my Trakt data, which contains the shows and movies I have watched. I decided to bring that back again under the name "Year in Popcorn". I considered "Year in Movies & Shows" but I thought that was too long and unappealing 😅.
 
-In 2022, I am aware I watched many things, especially TV shows. To say the truth, I feel like I probably watched too many TV shows during the year. However, some of them I also watched on the background while doing something else. Besides, most of the year I was still studying, which made this much easier. Now that I'm working full time, I'm sure the amount of TV shows I watch, or at least the cadence, will decrease.
-
 <!--more-->
 
 <style>
@@ -29,6 +26,8 @@ In 2022, I am aware I watched many things, especially TV shows. To say the truth
   --accent: #c0749d;
 }
 </style>
+
+In 2022, I am aware I watched many things, especially TV shows. To say the truth, I feel like I probably watched too many TV shows during the year. However, some of them I also watched on the background while doing something else. Besides, most of the year I was still studying, which made this much easier. Now that I'm working full time, I'm sure the amount of TV shows I watch, or at least the cadence, will decrease.
 
 ## 🏁 First and Last
 
