@@ -1,8 +1,8 @@
 ---
 description: Replied to a post on fosstodon.org
-unlisted: true
+deleted: true
 published: 2022-11-22T23:55:21.689503463+01:00
-updated: 2022-11-22T23:55:38.155710658+01:00
+updated: 2023-01-02T10:50:54.193012975+01:00
 createdWith: https://micropublish.net/
 properties:
   ap-in-reply-to: https://fosstodon.org/users/hacdias/statuses/109370204126901391
