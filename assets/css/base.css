@@ -100,8 +100,7 @@ img.emoji {
 }
 
 figure {
-  margin-left: 0;
-  margin-right: 0;
+  margin: var(--ms) 0;
 }
 
 audio,
@@ -691,13 +690,13 @@ details summary {
   }
 
   .fg figure {
-    height: auto !important;
-    margin: inherit !important;
+    height: auto;
+    margin: var(--ms) 0;
   }
 
   .fg figure img {
-    object-fit: cover !important;
-    height: auto !important;
+    object-fit: cover;
+    height: auto;
   }
 }
 
