@@ -627,7 +627,7 @@ details summary {
   font-weight: 600;
 }
 
-.logs .e a {
+.logs .e > div:first-child a {
   display: inline-block;
   width: 100%;
 }
