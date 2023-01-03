@@ -26,6 +26,11 @@
       "feed": "https://ar.al/index.xml"
     },
     {
+      "title": "Austin Z. Henley",
+      "site": "https://austinhenley.com/blog.html",
+      "feed": "https://austinhenley.com/blog/feed.rss"
+    },
+    {
       "title": "Barry Frost",
       "site": "https://barryfrost.com/",
       "feed": "https://barryfrost.com/feed.json"
