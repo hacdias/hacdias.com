@@ -1,13 +1,5 @@
 {{ define "post/webmentions" }}
   {{ if not .Entry.NoShowInteractions }}
-    <div class='box'>
-      💬 Reply: <a href='mailto:mail@hacdias.com?subject={{ .Title }}'>e-mail</a>, <a rel='noopener noreferrer' href='https://indieweb.org/Webmention'>webmentions</a>, or <a href='{{ relURL "/contact" }}'>elsewhere</a>.
-    </div>
-  {{ end }}
-{{ end }}
-
-{{/* {{ define "post/webmentions" }}
-  {{ if not .Entry.NoShowInteractions }}
     {{ $sidecar := .GetSidecar  }}
 
     <details class='box wm'>
@@ -94,4 +86,4 @@
       {{ end }}
     </details>
   {{ end }}
-{{ end }} */}}
+{{ end }}
