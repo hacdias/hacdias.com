@@ -1,8 +1,6 @@
 ---
 title: When You Don't Know the Ingredients
-draft: true
-published: 2023-01-06T21:46:01.53383671+01:00
-updated: 2023-01-06T22:12:35.638465741+01:00
+published: 2023-01-06T22:15:23.150895986+01:00
 section:
 - articles
 - home
@@ -21,20 +19,6 @@ properties:
 This is the story on how whipped cream and cocoa powder have stressed me over the last two weeks. I hope that that is a seemingly weird enough sentence to keep you on reading. Or not. If you don't want to keep going, it's also fine. But let me tell you more.
 
 <!--more-->
-
-<style>
-.fg figure {
-  display: flex;
-  flex-direction: column;
-}
-
-.fg figure picture {
-  flex-grow: 1;
-}
-
-  
-  
-</style>
 
 I'm Portuguese and I've lived my first 20-ish years in Portugal. Therefore, it means I have cooked and baked in Portugal, with... of course... Portuguese ingredients. I know how they behave and I know what to expect. Since two years ago, I moved to The Netherlands. And, even though most things are fine, sometimes I get very annoyed because I want to cook _x_ or _y_ but the ingredients are either unavailable, or they are not exactly the same.
 
@@ -68,9 +52,9 @@ I gave up. Almost. I decided to order from this fast delivery service, which I r
 
 I whipped it. Looked nice, for a while. It wasn't growing as much as I wanted, but it was already tiff. I knew that if I continued, I would get cheese 🧀 instead. I mixed the ingredients and put it in the fridge. It tastes good, I checked, but the volume is super low. I then went search and it seems that the Portuguese heavy cream has emulsifier added onto it, to help with gaining volume. In the Netherlands it doesn't. That is literally the only difference in ingredients. Now, I have a very dense mousse.
 
-## 🥛 (Bonus) The Condensed Milk
+## 🥛 The Condensed Milk (Bonus)
 
-If you arrived here, congratulations. I will give you another quick story: the condensed milk. We have this dessert in Portugal called "Baba de Camelo", which literally translates to "Camel's Drool". I know, disgusting, yet very good. This dessert calls for cooked condensed milk. That is something you find in the supermarkets in Portugal, but not here. Here you have to buy the normal condensed milk, cook it for 3 hours and hope the can doesn't explode. Because you have to cook it inside the can, and there is always the possibility the can will explode!
+If you arrived here, congratulations. I will give you another quick story: the condensed milk. We have this dessert in Portugal called "Baba de Camelo", which literally translates to "Camel's Drool". I know, disgusting, yet very good. This dessert calls for cooked condensed milk. That is something you find in the supermarkets in Portugal, but not here. Here you have to buy the normal condensed milk, cook it for 3 hours and hope the can doesn't explode - because it can. Because you have to cook it inside the can, and there is always the possibility the can will explode!
 
 <div class='fg wc'>
   
@@ -86,4 +70,4 @@ I've made it a few times for my friends and, after a few hours of boiling a cond
 
 You may wonder: aren't there Portuguese stores in The Netherlands? Yes, there are. But very very few. While there are hundreds of supermarkets from other countries, there are no real Portuguese supermarkets here. There is this [online store](https://www.portugeseproducten.nl/) based in Rotterdam, or a physical store in a little village next to Eindhoven.
 
-And yes, both this stores sell all the ingredients I mentioned above, including the octopus. I now know where to buy them! However, it requires planning. It's not something I can just think of doing and getting the ingredients immediately. It takes time.
+And yes, both this stores sell all the ingredients I mentioned above, including the octopus. I now know where to buy them! However, it requires planning. It's not something I can just think of doing and getting the ingredients immediately. It takes time, and it can be frustrating!
