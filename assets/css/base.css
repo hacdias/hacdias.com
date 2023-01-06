@@ -587,6 +587,12 @@ details summary {
 .fg figure {
   height: 100%;
   margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.fg figure picture {
+  flex-grow: 1;
 }
 
 .fg figure img {
