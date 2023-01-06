@@ -1,0 +1,52 @@
+{
+  "replies": [
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2023-01-06T12:46:11+01:00",
+      "content": "First check-in at Out Of Office.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63b80a03ad4cee2a85877c05/fc4bcbd7bc434ac87026a5a81eb16b28",
+      "type": "reply",
+      "swarmCoins": 15
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/c73c0a601bdcf68d5b329abe30fbc526b9539db3152187b4bfd7b3f91448920c.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2023-01-06T12:46:11+01:00",
+      "content": "First of your friends to check in here.",
+      "url": "https://ownyourswarm.p3k.io/checkin/63b80a03ad4cee2a85877c05/298d1d38300e94108a614bfe5e113b11",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/732daa9be6464a64b21c00a77666f0ac031d27d4fc712e6eee4b18033d334559.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2023-01-06T12:46:11+01:00",
+      "content": "First Café check-in in 2 months!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63b80a03ad4cee2a85877c05/134585a3fd02b8f8cb9f1fbc99eab49c",
+      "type": "reply",
+      "swarmCoins": 6
+    },
+    {
+      "author": {
+        "name": "Swarm",
+        "photo": "https://cdn.hacdias.com/wm/8f80f21ec3972e4d9d76273609e2d8b27a7471fc01d834b41c145410076c0bee.png",
+        "url": "https://swarmapp.com/"
+      },
+      "published": "2023-01-06T12:46:11+01:00",
+      "content": "Thanks for adding a new place and helping us explore the world!",
+      "url": "https://ownyourswarm.p3k.io/checkin/63b80a03ad4cee2a85877c05/61e8eca7fdbfc92d4ca53da5b3f900a6",
+      "type": "reply",
+      "swarmCoins": 30
+    }
+  ]
+}
