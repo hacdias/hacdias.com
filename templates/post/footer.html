@@ -6,7 +6,7 @@
       {{ $town := or .Locality .Region }}
       <p class="p-location h-adr">
         {{- with .Name -}}
-          <span class='p-name'>{{ . }}</span>{{ if or $town .Country }} in {{ end}}
+          <span class='p-name'>{{ . }}</span>{{ if or $town $.Location.Country }} in {{ end}}
         {{- end -}}
         {{- with $town -}}
           <span class='p-locality'>{{ . }}</span>
