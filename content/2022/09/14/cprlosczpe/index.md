@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Italy
-      latitude: 41.9005815
-      locality: Rome
-      longitude: 12.5025272
-      name: Roma Termini
-      region: Lazio
-    type: h-adr
+location:
+  latitude: 41.9005815
+  longitude: 12.5025272
+  name: Roma Termini
+  locality: Rome
+  region: Lazio
+  country: Italy
 ---
 
 

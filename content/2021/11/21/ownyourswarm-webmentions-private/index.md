@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://quill.p3k.io/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43251
-      locality: Eindhoven
-      longitude: 5.48613
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43251
+  longitude: 5.48613
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Does anyone know if [OwnYourSwarm](https://ownyourswarm.p3k.io/) sends Webmentions when we set the visibility to private?

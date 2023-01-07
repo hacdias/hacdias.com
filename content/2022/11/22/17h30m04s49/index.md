@@ -7,14 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://chreke.com/little-languages.html
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43241
-      locality: Eindhoven
-      longitude: 5.48614
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43241
+  longitude: 5.48614
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 A nice read on how Domain Specific Languages might be the future of programming.

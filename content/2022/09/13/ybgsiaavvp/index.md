@@ -9,8 +9,14 @@ properties:
     properties:
       name: La Domenica Pizza
     type: h-food
-  location: /2022/09/13/jczvtddkzi
   photo: cdn:/709a7ea6dafafacae88ebca86629e1e5f2ee105612d352feade4c8149a5ef813
+location:
+  latitude: 40.747799
+  longitude: 14.500552
+  name: Mercato Pompeiano
+  locality: Pompei
+  region: Campania
+  country: Italy
 ---
 
 

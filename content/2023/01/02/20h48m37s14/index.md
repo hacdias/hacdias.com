@@ -6,18 +6,16 @@ createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/posts/2022-review
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44585
-      locality: Eindhoven
-      longitude: 5.46176
-      region: North Brabant
-    type: h-adr
 userMentions:
 - name: '@en@jlelse.blog'
   href: https://jlelse.blog
   inbox: https://jlelse.blog/activitypub/inbox/en
+location:
+  latitude: 51.44585
+  longitude: 5.46176
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 > Maybe Great Britain?

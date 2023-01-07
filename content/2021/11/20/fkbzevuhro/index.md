@@ -9,14 +9,12 @@ properties:
     properties:
       name: Homemade kapsalon
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43251
-      locality: Eindhoven
-      longitude: 5.4861
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43251
+  longitude: 5.4861
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

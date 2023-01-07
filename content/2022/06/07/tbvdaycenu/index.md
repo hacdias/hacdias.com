@@ -10,15 +10,13 @@ properties:
     properties:
       name: Cake
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43246
-      locality: Eindhoven
-      longitude: 5.48621
-      region: North Brabant
-    type: h-adr
   photo: cdn:/f32e7fa805d0859b53848bbd779c236cc827bf09beddd7ae81a6a4a5267f8e42
+location:
+  latitude: 51.43246
+  longitude: 5.48621
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 The cake at the [opening](/2022/06/07/dm-lustrum-exhibition) had pictures. Sorry for the blurryness.

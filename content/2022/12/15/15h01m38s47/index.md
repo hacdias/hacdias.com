@@ -6,18 +6,16 @@ createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/micro/2022/12/2022-12-15-btqwr
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44448
-      locality: Eindhoven
-      longitude: 5.45995
-      region: North Brabant
-    type: h-adr
 userMentions:
 - name: '@en@jlelse.blog'
   href: https://jlelse.blog
   inbox: https://jlelse.blog/activitypub/inbox/en
+location:
+  latitude: 51.44448
+  longitude: 5.45995
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I did that initially, but I've had some specific rules of what to clear from the cache after updating an entry: the entry itself, the main page, the everything page, related sections, taxonomies, as well as yearly, monthly and daily archives. I wonder if this would be too much regeneration and how much _time_ it would take. I think I may try this out over Christmas vacation 😅

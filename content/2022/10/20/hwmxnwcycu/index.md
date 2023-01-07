@@ -4,19 +4,16 @@ section:
 - micro
 - home
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44444
-      locality: Eindhoven
-      longitude: 5.45994
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - notes
   - second-brain
+location:
+  latitude: 51.44444
+  longitude: 5.45994
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I have been recently dabbling with the idea of a second brain, or just note taking in general. I feel like I've been through this many times in the past years. I don't take that many notes, or at least, I don't take that many notes that I would want to make public. Most things I note down are private things that I do not want to make public. I considered using the private posts on my website, but I don't think I would trust them enough.

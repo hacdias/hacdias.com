@@ -4,18 +4,15 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43239
-      locality: Eindhoven
-      longitude: 5.48615
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - security
+location:
+  latitude: 51.43239
+  longitude: 5.48615
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I finally stopped using GPG keys for SSH authentication. Now I purely use SSH keys protected by 2FA via security keys. Now I have to get used to "touching" for authentication!

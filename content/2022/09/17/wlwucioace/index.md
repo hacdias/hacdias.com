@@ -9,8 +9,12 @@ properties:
     properties:
       name: Pizza LiViO
     type: h-food
-  location: /2022/09/17/ymmjzkvfnk
   photo: cdn:/f17f61f010db42649b41db915ed7b474a7cc7b7b7e07544ec6e9917b2365700c
+location:
+  latitude: 43.777134
+  longitude: 11.251983
+  name: Livio
+  country: Italy
 ---
 
 

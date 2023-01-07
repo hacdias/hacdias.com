@@ -6,18 +6,16 @@ createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/micro/2022/12/2022-12-25-ejtxu
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 37.50651
-      locality: Santana da Serra
-      longitude: -8.29791
-      region: Beja
-    type: h-adr
 userMentions:
 - name: '@en@jlelse.blog'
   href: https://jlelse.blog
   inbox: https://jlelse.blog/activitypub/inbox/en
+location:
+  latitude: 37.50651
+  longitude: -8.29791
+  locality: Santana da Serra
+  region: Beja
+  country: Portugal
 ---
 
 Oh, no! I hope you get well quickly. Nevertheless, I hope you can still enjoy the time somehow 😌

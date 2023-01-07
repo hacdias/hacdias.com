@@ -4,18 +4,15 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43242
-      locality: Eindhoven
-      longitude: 5.48611
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - meta
+location:
+  latitude: 51.43242
+  longitude: 5.48611
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Today I made some visual updates to my website. I replaced the spatial background by a plain colour background and merged the header and navigation bar into one. However, I still kept some pages with a custom background because it looks great for some specific occasions.

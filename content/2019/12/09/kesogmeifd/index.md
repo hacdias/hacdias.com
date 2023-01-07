@@ -29,14 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Switzerland
-      latitude: 47.4580556
-      locality: Zurich
-      longitude: 8.5480556
-      name: Zurich (ZRH)
-    type: h-adr
+location:
+  latitude: 47.4580556
+  longitude: 8.5480556
+  name: Zurich (ZRH)
+  locality: Zurich
+  country: Switzerland
 ---
 
 

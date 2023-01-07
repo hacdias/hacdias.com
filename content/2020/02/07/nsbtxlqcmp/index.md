@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: bus
     type: h-leg
-  location:
-    properties:
-      country-name: Belgium
-      latitude: 50.8603818
-      locality: Schaerbeek - Schaarbeek
-      longitude: 4.3600896
-      name: Brussels-North Train Station
-      region: Brussels-Capital
-    type: h-adr
+location:
+  latitude: 50.8603818
+  longitude: 4.3600896
+  name: Brussels-North Train Station
+  locality: Schaerbeek - Schaarbeek
+  region: Brussels-Capital
+  country: Belgium
 ---
 
 

@@ -7,14 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://beepb00p.xyz/annotating.html
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 38.72238
-      locality: Lisbon
-      longitude: -9.1565
-      region: Lisbon
-    type: h-adr
+location:
+  latitude: 38.72238
+  longitude: -9.1565
+  locality: Lisbon
+  region: Lisbon
+  country: Portugal
 ---
 
 > At some point in my life I realized I didn't remember most of the books/papers/posts/videos I had consumed few years before.

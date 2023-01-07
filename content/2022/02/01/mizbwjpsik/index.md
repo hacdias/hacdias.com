@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://indieweb.org/Shortcuts
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4324870091578
-      locality: Eindhoven
-      longitude: 5.486182494859666
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.4324870091578
+  longitude: 5.486182494859666
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I’m so happy, my (hopefully) last university exam is finally done.

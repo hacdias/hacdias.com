@@ -9,7 +9,13 @@ properties:
     properties:
       name: Espresso Martini
     type: h-food
-  location: /2022/05/23/zchkdrwwwd
+location:
+  latitude: 51.438321528143604
+  longitude: 5.48194142190847
+  name: Brasserie 't Zusje
+  locality: Eindhoven
+  region: North-Brabant
+  country: Netherlands
 ---
 
 

@@ -34,7 +34,6 @@
                   {{ if .Published.IsZero -}}Original Post{{ else }}{{ .Published.Format "02 Jan 2006" }}{{ end }}
                 </span>
               </a>
-              {{ with .SwarmCoins }}• <span class="lg">{{ . }} 🪙</span>{{end}}
               {{ if $.IsLoggedIn }}
                 {{ if .Private }} • <span class='lg'>Private</span> {{ end }}
                 {{ if .Hidden }} • <span class='lg'>Hidden</span>{{ end }}

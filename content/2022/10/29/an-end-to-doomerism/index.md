@@ -8,14 +8,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 38.72745
-      locality: Lisbon
-      longitude: -9.14855
-      region: Lisbon
-    type: h-adr
+location:
+  latitude: 38.72745
+  longitude: -9.14855
+  locality: Lisbon
+  region: Lisbon
+  country: Portugal
 ---
 
 > The issue is that people mistake optimism for “blind optimism” — the blinkered faith that things will always get better. Problems will fix themselves. If we just hope things turn out well, they will. Blind optimism really is dumb.

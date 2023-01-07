@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Czechia
-      latitude: 50.0830349
-      locality: Prague
-      longitude: 14.436145
-      name: Praha hl.n.
-      region: Prague
-    type: h-adr
+location:
+  latitude: 50.0830349
+  longitude: 14.436145
+  name: Praha hl.n.
+  locality: Prague
+  region: Prague
+  country: Czechia
 ---
 
 

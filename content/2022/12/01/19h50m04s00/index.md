@@ -11,15 +11,13 @@ properties:
     properties:
       name: Homemade Fondue
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44588
-      locality: Eindhoven
-      longitude: 5.46147
-      region: North Brabant
-    type: h-adr
   photo: cdn:/05ba3225fa891ea6c29c6ac0d5b7810a7308ceb9c82f5d58a731c393e708462e
+location:
+  latitude: 51.44588
+  longitude: 5.46147
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 My partner and I just had homemade fondue. Thanks to that, I discovered there’s a fondue 🫕 emoji. I love it. First time I had fondue was in Switzerland in 2019. Since then, I’ve only had it again in 2020 in Brussels. I’m happy to have it again. Looking forward for more 🧀 fondue!

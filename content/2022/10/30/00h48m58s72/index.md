@@ -8,14 +8,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://twitter.com/giovannigruni/status/1582441784445063168
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 38.72238
-      locality: Lisbon
-      longitude: -9.15652
-      region: Lisbon
-    type: h-adr
+location:
+  latitude: 38.72238
+  longitude: -9.15652
+  locality: Lisbon
+  region: Lisbon
+  country: Portugal
 ---
 
 > New Italian Government not even started yet and shit is hitting the fan already. A surreal thread. 🧵

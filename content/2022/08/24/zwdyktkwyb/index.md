@@ -4,18 +4,15 @@ section:
 - micro
 - home
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4579
-      locality: Eindhoven
-      longitude: 5.39086
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - meta
+location:
+  latitude: 51.4579
+  longitude: 5.39086
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Yesterday I made a few updates to my website’s header. Now, I brought back some elements that I had before, with a title and the search bar and then the navigation below. I also added this avatar of myself that I was gifted some time ago which “sits” on top of the navigation bar.  What do you think? I personally feel like it looks much better both on computer and on mobile, being much closer to what I want. 

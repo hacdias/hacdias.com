@@ -29,14 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.45
-      locality: Eindhoven
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-    type: h-adr
+location:
+  latitude: 51.45
+  longitude: 5.3744444
+  name: Eindhoven (EIN)
+  locality: Eindhoven
+  country: Netherlands
 ---
 
 

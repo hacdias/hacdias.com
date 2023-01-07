@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://quill.p3k.io/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43243
-      locality: Eindhoven
-      longitude: 5.48612
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43243
+  longitude: 5.48612
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I wanna scream 💥

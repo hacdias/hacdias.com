@@ -2,19 +2,21 @@
   {{ $mf2 := .Helper }}
 
   <footer>
-    {{/* {{ $locationStr := $mf2.String "location" }}
-    {{ $location := $mf2.Sub "location" }}
-    {{ if $location }}
-      <p class="p-location h-adr">{{ $location.LocationHTML }}</p>
-    {{ else if $locationStr }}
-      {{ $entry := .GetEntry $locationStr }}
-      {{ if $entry }}
-        {{ $location = $entry.Helper.Sub "checkin" }}
-        <p class="p-location h-adr">
-          <a class="nl" href="{{ relURL $entry.Permalink }}"><span class="p-name">{{ $location.Name }}</span> in {{ $location.LocationHTML }}</a>
-        </p>
-      {{ end }}
-    {{ end }} */}}
+    {{ with .Location }}
+      {{ $town := or .Locality .Region }}
+      <p class="p-location h-adr">
+        {{- with .Name -}}
+          <span class='p-name'>{{ . }}</span>{{ if or $town .Country }} in {{ end}}
+        {{- end -}}
+        {{- with $town -}}
+          <span class='p-locality'>{{ . }}</span>
+        {{- end -}}
+        {{- with .Country -}}
+          {{ if $town }}, {{ end }}
+          <span class='p-country'>{{ . }}</span>
+        {{- end -}}
+      </p>
+    {{ end }}
 
     {{ $syndications := .Helper.Strings "syndication" }}
     {{ $tags := .Taxonomy "tags" }}
@@ -48,7 +50,6 @@
         <a class='nl u-syndication' rel="noopener noreferrer" href="{{ . }}">
           {{ $domain := domain . }}
           {{- if strContains $domain "twitter.com" }}🐦
-          {{- else if strContains $domain "swarmapp.com" }}🐝
           {{- else if strContains $domain "instagram.com" }}📷
           {{ else }}🔗{{ end -}}
         </a>

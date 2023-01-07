@@ -9,7 +9,13 @@ properties:
     properties:
       name: Magners Cider
     type: h-food
-  location: /2022/02/04/ohkzgdscap
+location:
+  latitude: 52.08241744148914
+  longitude: 4.305764209368148
+  name: O'Casey's
+  locality: The Hague
+  region: South Holland
+  country: Netherlands
 ---
 
 

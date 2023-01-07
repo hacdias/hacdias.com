@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://quill.p3k.io/
-properties:
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 37.50275
-      locality: Ourique
-      longitude: -8.29794
-      region: Beja
-    type: h-adr
+location:
+  latitude: 37.50275
+  longitude: -8.29794
+  locality: Ourique
+  region: Beja
+  country: Portugal
 ---
 
 abesbílico - an informal Portuguese word meaning “astonished”. It’s uncommon to hear it but I love it.

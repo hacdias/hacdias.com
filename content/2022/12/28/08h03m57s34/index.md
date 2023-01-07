@@ -5,14 +5,12 @@ published: 2022-12-28T08:03:57.343782529+01:00
 createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://micro.blog/jlg/15494665
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 37.50279259404367
-      locality: Santana da Serra
-      longitude: -8.298006841696587
-      region: Beja
-    type: h-adr
+location:
+  latitude: 37.50279259404367
+  longitude: -8.298006841696587
+  locality: Santana da Serra
+  region: Beja
+  country: Portugal
 ---
 
 Eagle is not a fork of GoBlog. It’s a completely different system.

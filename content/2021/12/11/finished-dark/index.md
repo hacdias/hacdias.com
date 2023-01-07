@@ -5,16 +5,14 @@ section:
 - micro
 createdWith: https://quill.p3k.io/
 properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4325
-      locality: Eindhoven
-      longitude: 5.48611
-      region: North Brabant
-    type: h-adr
   syndication:
   - https://twitter.com/hacdias/status/1469601724553908227
+location:
+  latitude: 51.4325
+  longitude: 5.48611
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Just finished Dark. It was... 🤯

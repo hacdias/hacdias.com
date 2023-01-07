@@ -8,18 +8,16 @@ section:
 createdWith: https://hacdias.com/
 photoClass: fg fg-2212aken
 properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44583
-      locality: Eindhoven
-      longitude: 5.46177
-      region: North Brabant
-    type: h-adr
   photo:
   - cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5
   - cdn:/907dfbdc19e2400b32f65273eb3d0b8f92cc68588f128545b7709bcbe35e250e
   - cdn:/dc172bfe036741b0f83990dd07ddbd284807b0639bb75836a0bf8b31f3d141fd
+location:
+  latitude: 51.44583
+  longitude: 5.46177
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 <style>

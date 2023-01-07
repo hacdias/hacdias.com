@@ -4,19 +4,16 @@ section:
 - micro
 - home
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43238
-      locality: Eindhoven
-      longitude: 5.48609
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - activitypub
   - meta
+location:
+  latitude: 51.43238
+  longitude: 5.48609
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Today, [Sebastiaan](https://seblog.nl/) shared with me this nice post by Wouter, entitled ["The Great Mastodon Influx"](https://brainbaking.com/post/2022/11/the-great-mastodon-influx/). I wanted to add to that that I implemented ActivityPub a few days ago, and I've been improving it since on my spare time. But... I am afraid. I don't have any real followers (just myself from different instances to test). But what if I get a few followers and then get spammed with many requests? Will my tiny server in Finland handle it?

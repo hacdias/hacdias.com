@@ -79,15 +79,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Belgium
-      latitude: 51.03609455
-      locality: Ghent
-      longitude: 3.71080494219295
-      name: Gent St Pieters
-      region: East Flanders
-    type: h-adr
+location:
+  latitude: 51.03609455
+  longitude: 3.71080494219295
+  name: Gent St Pieters
+  locality: Ghent
+  region: East Flanders
+  country: Belgium
 ---
 
 

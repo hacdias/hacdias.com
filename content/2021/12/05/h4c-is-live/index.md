@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://quill.p3k.io/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43248
-      locality: Eindhoven
-      longitude: 5.48614
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43248
+  longitude: 5.48614
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Finally settled on a nicer domain for my short URLs: [h4c.pt](https://h4c.pt). Thanks [Sebastiaan](https://seblog.nl/) for the suggestion!

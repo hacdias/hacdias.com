@@ -9,14 +9,12 @@ properties:
     properties:
       name: Broa Castelar
     type: h-food
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 37.50255
-      locality: Ourique
-      longitude: -8.2979
-      region: Beja
-    type: h-adr
+location:
+  latitude: 37.50255
+  longitude: -8.2979
+  locality: Ourique
+  region: Beja
+  country: Portugal
 ---
 
 

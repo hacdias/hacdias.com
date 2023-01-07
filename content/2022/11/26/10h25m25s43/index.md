@@ -6,14 +6,12 @@ updated: 2022-11-26T10:53:57.826760607+01:00
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jan.boddez.net/notes/813b64b433
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43921
-      locality: Eindhoven
-      longitude: 5.45587
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43921
+  longitude: 5.45587
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Thank you, and thank you! It should be fixed now 😄

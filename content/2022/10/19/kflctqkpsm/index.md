@@ -6,14 +6,6 @@ section:
 createdWith: https://micropublish.net/
 photoClass: grid-kflctqkpsm fg
 properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43244
-      locality: Eindhoven
-      longitude: 5.4861
-      region: North Brabant
-    type: h-adr
   photo:
   - cdn:/31b810304b2f162cf5513cd706ceadd510717c6a24ab9fe97ccc88e2dbc3f2d5
   - cdn:/9f07caae70c5f71dbc6841cb34780dff1cd9996fa8bd9b87949c0ae53e6b195c
@@ -26,6 +18,12 @@ properties:
   - cdn:/46232a72689483d30457306d1fa00d7de2a713ec26cb2e9a0c4448b8559baf63
   syndication:
   - https://www.instagram.com/p/Cj5DHBpIARA/?igshid=MDJmNzVkMjY
+location:
+  latitude: 51.43244
+  longitude: 5.4861
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 <style>

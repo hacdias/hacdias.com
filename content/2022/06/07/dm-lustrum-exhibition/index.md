@@ -7,14 +7,6 @@ section:
 createdWith: https://micropublish.net/
 photoClass: grid-2022-hlrrfoveli fg
 properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4324
-      locality: Eindhoven
-      longitude: 5.48616
-      region: North Brabant
-    type: h-adr
   photo:
   - cdn:/2022-06-dm-photo-1
   - cdn:/2022-06-dm-photo-2
@@ -24,6 +16,12 @@ properties:
   syndication:
   - https://twitter.com/hacdias/status/1534206131781902336
   - https://twitter.com/hacdias/status/1534206138077655040
+location:
+  latitude: 51.4324
+  longitude: 5.48616
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 <style>

@@ -4,19 +4,16 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4324
-      locality: Eindhoven
-      longitude: 5.48603
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - meta
   - indieweb
+location:
+  latitude: 51.4324
+  longitude: 5.48603
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I was speaking to [@seblog](https://seblog.nl/) about categorisation of contents in our websites and some ideas came into mind:

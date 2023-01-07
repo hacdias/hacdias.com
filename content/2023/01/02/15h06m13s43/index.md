@@ -9,14 +9,12 @@ createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44586
-      locality: Eindhoven
-      longitude: 5.4617
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.44586
+  longitude: 5.4617
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Haven't used Windows in quite some time, but I like to keep following the news as it was the OS that accompanied my childhood, most specifically Windows XP and Windows 7. Somehow I managed to skip Windows Vista, apart from some few interactions in someone else's computer. Then, Windows 8 came and Windows 10 and I ended up moving to macOS for some other reasons and so far, haven't gone back. I always enjoyed Window UI, at least to some extend.

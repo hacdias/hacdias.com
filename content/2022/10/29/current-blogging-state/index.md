@@ -5,15 +5,12 @@ section:
 - micro
 - home
 createdWith: https://hacdias.com/
-properties:
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 38.72237
-      locality: Lisbon
-      longitude: -9.1567
-      region: Lisbon
-    type: h-adr
+location:
+  latitude: 38.72237
+  longitude: -9.1567
+  locality: Lisbon
+  region: Lisbon
+  country: Portugal
 ---
 
 I think I just found the most accurate comic on [rakhim.com](https://rakhim.org/honestly-undefined/19/) for the current situation of this website right now, at least when it comes to articles 🥲 Maybe I should go back to less fiddling with custom blog engines, plug some pieces together, and write more.

@@ -8,14 +8,12 @@ properties:
     properties:
       name: Pasta al forno met gehaktballen
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43244
-      locality: Eindhoven
-      longitude: 5.4861
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43244
+  longitude: 5.4861
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

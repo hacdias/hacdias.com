@@ -30,14 +30,12 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Italy
-      latitude: 45.6944947
-      longitude: 9.6698727
-      name: Bergamo
-      region: Lombardy
-    type: h-adr
+location:
+  latitude: 45.6944947
+  longitude: 9.6698727
+  name: Bergamo
+  region: Lombardy
+  country: Italy
 ---
 
 

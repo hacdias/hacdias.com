@@ -9,15 +9,13 @@ properties:
     properties:
       name: Assam Gold Tea
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43248
-      locality: Eindhoven
-      longitude: 5.48613
-      region: North Brabant
-    type: h-adr
   photo: cdn:/879910bffda897d887a05ad5f104a0fdb33c0c87bbf51c5cc7c8b35ffd2de717
+location:
+  latitude: 51.43248
+  longitude: 5.48613
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

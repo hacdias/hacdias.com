@@ -5,16 +5,14 @@ section:
 - micro
 createdWith: https://micropublish.net/
 properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43555
-      locality: Eindhoven
-      longitude: 5.48813
-      region: North Brabant
-    type: h-adr
   syndication:
   - https://twitter.com/hacdias/status/1496485347039100931
+location:
+  latitude: 51.43555
+  longitude: 5.48813
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Casual magic.

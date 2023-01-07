@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: bus
     type: h-leg
-  location:
-    properties:
-      country-name: Belgium
-      latitude: 51.21816135
-      locality: Antwerp
-      longitude: 4.421577847543087
-      name: Antwerp (Koningin Astridplein)
-      region: Antwerp
-    type: h-adr
+location:
+  latitude: 51.21816135
+  longitude: 4.421577847543087
+  name: Antwerp (Koningin Astridplein)
+  locality: Antwerp
+  region: Antwerp
+  country: Belgium
 ---
 
 

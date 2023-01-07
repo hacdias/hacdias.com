@@ -5,18 +5,15 @@ section:
 - articles
 - home
 createdWith: https://hacdias.com/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44585
-      locality: Eindhoven
-      longitude: 5.46168
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - example
+location:
+  latitude: 51.44585
+  longitude: 5.46168
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 export GIT_TRACE=true

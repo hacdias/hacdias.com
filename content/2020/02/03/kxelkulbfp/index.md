@@ -29,14 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Luxembourg
-      latitude: 49.6233333
-      locality: Luxembourg
-      longitude: 6.2044444
-      name: Luxembourg (LUX)
-    type: h-adr
+location:
+  latitude: 49.6233333
+  longitude: 6.2044444
+  name: Luxembourg (LUX)
+  locality: Luxembourg
+  country: Luxembourg
 ---
 
 

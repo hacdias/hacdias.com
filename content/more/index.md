@@ -23,7 +23,6 @@ This website contains more things than it looks at first glance. This page is a 
 
 - [✏️ Articles](/articles)
 - [🔖 Bookmarks](/bookmarks)
-- [📍 Checkins](/checkins)
 - [🧋 Drinks](/drinks)
 - [🥘 Food](/food)
 - [🗺️ Itineraries](/itineraries)
@@ -41,6 +40,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 - [🧁 About](/about)
 - [🗞️ Blogroll](/blogroll)
+- [📍 Checkins](/checkins)
 - [⚙️ Colophon](/colophon)
 - [✉️ Contact](/contact)
 - [🎮 Games](/games)

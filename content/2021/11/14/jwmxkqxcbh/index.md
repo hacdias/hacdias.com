@@ -8,7 +8,13 @@ properties:
     properties:
       name: Lindemans Kriek
     type: h-food
-  location: /2021/11/14/sbsrjpamtc
+location:
+  latitude: 51.440867499909665
+  longitude: 5.48107447342762
+  name: The Trafalgar Pub
+  locality: Eindhoven
+  region: North-Brabant
+  country: Netherlands
 ---
 
 

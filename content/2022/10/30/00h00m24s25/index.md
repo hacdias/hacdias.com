@@ -7,14 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn't-use-git-lfs/
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 38.72238
-      locality: Lisbon
-      longitude: -9.1565
-      region: Lisbon
-    type: h-adr
+location:
+  latitude: 38.72238
+  longitude: -9.1565
+  locality: Lisbon
+  region: Lisbon
+  country: Portugal
 ---
 
 > If you adopt LFS today, you are committing to a) running an LFS server forever b) incurring a history rewrite in the future in order to remove LFS from your repo, or c) ceasing to provide an LFS server and locking out people from using older Git commits.

@@ -5,14 +5,12 @@ published: 2022-06-20T23:32:33.827155357+02:00
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/06/2022-06-20-duavy
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43246
-      locality: Eindhoven
-      longitude: 5.48617
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43246
+  longitude: 5.48617
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Do you want to swap?

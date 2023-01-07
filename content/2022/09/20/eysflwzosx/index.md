@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Italy
-      latitude: 45.4858786
-      locality: Milan
-      longitude: 9.2042617
-      name: Milano Centrale
-      region: Lombardy
-    type: h-adr
+location:
+  latitude: 45.4858786
+  longitude: 9.2042617
+  name: Milano Centrale
+  locality: Milan
+  region: Lombardy
+  country: Italy
 ---
 
 

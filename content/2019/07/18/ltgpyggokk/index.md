@@ -29,14 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Germany
-      latitude: 52.3622472
-      locality: Berlin
-      longitude: 13.5006722
-      name: Berlin (BER)
-    type: h-adr
+location:
+  latitude: 52.3622472
+  longitude: 13.5006722
+  name: Berlin (BER)
+  locality: Berlin
+  country: Germany
 ---
 
 

@@ -56,15 +56,13 @@ properties:
         type: h-adr
       transit-type: bus
     type: h-leg
-  location:
-    properties:
-      country-name: France
-      latitude: 48.83618735
-      locality: Paris
-      longitude: 2.379489121167401
-      name: Paris (Bercy Seine)
-      region: Ile-de-France
-    type: h-adr
+location:
+  latitude: 48.83618735
+  longitude: 2.379489121167401
+  name: Paris (Bercy Seine)
+  locality: Paris
+  region: Ile-de-France
+  country: France
 ---
 
 

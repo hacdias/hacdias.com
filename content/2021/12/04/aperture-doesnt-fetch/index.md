@@ -4,19 +4,16 @@ section:
 - home
 - micro
 createdWith: https://quill.p3k.io/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43244
-      locality: Eindhoven
-      longitude: 5.48614
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - meta
   - microsub
+location:
+  latitude: 51.43244
+  longitude: 5.48614
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I've been thinking about replacing Miniflux with Aperture + Monocle. I like the idea of using a Microsub client so that I can quickly reply, like or react to any post. The problem is that, unfortunately, aperture insists on **not** fetching posts for two of the websites I follow... I either write my own Microsub server, or go back to just Miniflux.

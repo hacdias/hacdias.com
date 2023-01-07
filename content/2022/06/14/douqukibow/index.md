@@ -7,14 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://decentralizedthoughts.github.io/2020-03-29-private-set-intersection-a-soft-introduction/
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4324
-      locality: Eindhoven
-      longitude: 5.48617
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.4324
+  longitude: 5.48617
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

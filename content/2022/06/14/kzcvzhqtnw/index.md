@@ -4,19 +4,16 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43244
-      locality: Eindhoven
-      longitude: 5.48616
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - indieweb
   - meta
+location:
+  latitude: 51.43244
+  longitude: 5.48616
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Over the past few days, I procrastinated quite a bit instead of working on my thesis. I have this huge peaks of performance mixed with high procrastination. I guess this happens somewhat to most people. Either way, while procrastinating I added quite some new features to this website, and improved some already existing things, both visually and internally.

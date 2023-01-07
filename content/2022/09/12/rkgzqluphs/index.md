@@ -29,14 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Italy
-      latitude: 40.8844444
-      locality: Naples
-      longitude: 14.2908333
-      name: Naples (NAP)
-    type: h-adr
+location:
+  latitude: 40.8844444
+  longitude: 14.2908333
+  name: Naples (NAP)
+  locality: Naples
+  country: Italy
 ---
 
 

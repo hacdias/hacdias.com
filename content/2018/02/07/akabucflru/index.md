@@ -29,12 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: United Kingdom
-      latitude: 51.4775
-      locality: London
-      longitude: -0.4613889
-      name: London (LHR)
-    type: h-adr
+location:
+  latitude: 51.4775
+  longitude: -0.4613889
+  name: London (LHR)
+  locality: London
+  country: United Kingdom
 ---
+
+

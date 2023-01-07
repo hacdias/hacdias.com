@@ -5,14 +5,12 @@ published: 2022-11-09T12:18:29.776603436+01:00
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://www.zylstra.org/blog/2022/11/22526/
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43243
-      locality: Eindhoven
-      longitude: 5.48613
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43243
+  longitude: 5.48613
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Regarding the alternative: I can use the DigiD for some things, such as filling taxes. But not for others that require ID check, such as checking healthcare data. The alternative is to either call, or go in-person indeed.

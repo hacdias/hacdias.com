@@ -9,7 +9,13 @@ properties:
     properties:
       name: Wieckse Rosé
     type: h-food
-  location: /2022/02/20/ecxajwzist
+location:
+  latitude: 51.437206
+  longitude: 5.480478
+  name: Happy Italy
+  locality: Eindhoven
+  region: North-Brabant
+  country: Netherlands
 ---
 
 

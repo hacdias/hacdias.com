@@ -9,7 +9,13 @@ properties:
     properties:
       name: Cappuccino Freddo
     type: h-food
-  location: /2022/07/02/fuqjatjoyf
+location:
+  latitude: 51.920137480908274
+  longitude: 4.48725882417661
+  name: Markthal
+  locality: Rotterdam
+  region: South Holland
+  country: Netherlands
 ---
 
 

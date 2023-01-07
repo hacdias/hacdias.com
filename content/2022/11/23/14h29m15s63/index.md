@@ -6,18 +6,16 @@ createdWith: https://micropublish.net/
 properties:
   ap-in-reply-to: https://fosstodon.org/users/jle/statuses/109393141038633775
   in-reply-to: https://fosstodon.org/@jle/109393141038633775
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4325
-      locality: Eindhoven
-      longitude: 5.48601
-      region: North Brabant
-    type: h-adr
 userMentions:
 - name: '@jle@fosstodon.org'
   href: https://fosstodon.org/users/jle
   inbox: https://fosstodon.org/users/jle/inbox
+location:
+  latitude: 51.4325
+  longitude: 5.48601
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Same 😂 But hoping it'll be worth it!

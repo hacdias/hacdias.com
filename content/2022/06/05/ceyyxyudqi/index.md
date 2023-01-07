@@ -4,19 +4,16 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43243
-      locality: Eindhoven
-      longitude: 5.48614
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - matrix
   - decentralization
+location:
+  latitude: 51.43243
+  longitude: 5.48614
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Today I had quite some adventures with Matrix and decentralised messaging protocols. I thought about self-hosting an instance so I tried [Synapse](https://github.com/matrix-org/synapse), which is the _de facto_ Matrix implementation with all the features available. Quickly I understood that Synapse was too slow for a very tiny VPS so I tried [Dendrite](https://github.com/matrix-org/dendrite) which claims to be much more efficient.

@@ -23,7 +23,7 @@ This time, we watched Mary Poppins on the theatre. This was my first theatre in 
 
 ![Mary Poppins](cdn:/56937963af69968fa4b7d8a74f6df3c498a98ce6556032de3caa4ef574650458?class=fw)
 
-We also went to the [Portobello Road Market](/2022/04/23/vtuvexhoht), and visited some other nice places here and there. I had completely forgotten how London is a gigantic melting pot and you can literally find anything from virtually any other nationality there. There's so much Portuguese stuff. Even our "pastéis de nata" are sold in supermarkets over there!
+We also went to the Portobello Road Market, and visited some other nice places here and there. I had completely forgotten how London is a gigantic melting pot and you can literally find anything from virtually any other nationality there. There's so much Portuguese stuff. Even our "pastéis de nata" are sold in supermarkets over there!
 
 Besides, it was also a great time to finish the first roll of film of the new camera I'm using. Well, it's not a new camera, it's a "new" camera. This camera belonged to my parents but they thought it wasn't working. It turns out that it is working perfectly.
 

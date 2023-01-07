@@ -7,14 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://ramses.blog/how-take-notes-part-1/
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 38.72778
-      locality: Lisbon
-      longitude: -9.14882
-      region: Lisbon
-    type: h-adr
+location:
+  latitude: 38.72778
+  longitude: -9.14882
+  locality: Lisbon
+  region: Lisbon
+  country: Portugal
 ---
 
 > As an autodidact, you will meet many different content formats on the road to understanding. Not all formats are created equal, and some work better than others. Add to that learning preferences, and you’ve got yourself a complicated situation.

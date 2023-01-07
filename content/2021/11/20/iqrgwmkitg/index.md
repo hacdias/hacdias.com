@@ -9,14 +9,12 @@ properties:
     properties:
       name: Tomato and mozzarella quiche
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43248
-      locality: Eindhoven
-      longitude: 5.48611
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43248
+  longitude: 5.48611
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

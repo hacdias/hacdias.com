@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: bus
     type: h-leg
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4455801
-      locality: Eindhoven
-      longitude: 5.4809177
-      name: Eindhoven (John F. Kennedylaan)
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.4455801
+  longitude: 5.4809177
+  name: Eindhoven (John F. Kennedylaan)
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

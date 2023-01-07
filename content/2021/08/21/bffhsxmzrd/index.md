@@ -79,15 +79,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4429623
-      locality: Eindhoven
-      longitude: 5.4795265
-      name: Eindhoven Centraal
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.4429623
+  longitude: 5.4795265
+  name: Eindhoven Centraal
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

@@ -5,18 +5,15 @@ section:
 - micro
 - home
 createdWith: https://hacdias.com/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44587
-      locality: Eindhoven
-      longitude: 5.4615
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - ovpay
+location:
+  latitude: 51.44587
+  longitude: 5.4615
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Just met with some friends at some other friend’s house and it was very nice. On an unrelated note, I noticed that OVPay is now charging me immediately after the end of the trip and not the day after for the full payment. At least with Hermes 🚍. It makes sense since The Netherlands doesn’t have daily caps.

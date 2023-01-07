@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://quill.p3k.io/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43246
-      locality: Eindhoven
-      longitude: 5.48608
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43246
+  longitude: 5.48608
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I went to the cinema today in over a year and it was a bit scary: no one was wearing masks inside 🤭 On the other hand, I can say that [Lab 1](https://www.lab-1.nl/) is a nice cinema.

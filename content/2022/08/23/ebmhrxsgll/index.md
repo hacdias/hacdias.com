@@ -9,8 +9,14 @@ properties:
     properties:
       name: Bapamanga
     type: h-food
-  location: /2022/08/23/ejucgeldyk
   photo: cdn:/3b22cbac1880d30f5baa33d87edc16e6921dd528e7798105f8c4dafbd4599b69
+location:
+  latitude: 51.434425
+  longitude: 5.483434
+  name: Pinkie Patiserie
+  locality: Eindhoven
+  region: North-Brabant
+  country: Netherlands
 ---
 
 

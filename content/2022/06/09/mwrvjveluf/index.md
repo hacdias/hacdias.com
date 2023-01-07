@@ -9,14 +9,12 @@ properties:
     properties:
       name: Iced Coffee with Oat Milk
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43238
-      locality: Eindhoven
-      longitude: 5.48616
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43238
+  longitude: 5.48616
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

@@ -61,7 +61,7 @@ figure.cherry-blossom {
 
 ![Cherry Tree GIF](https://cdn.hacdias.com/media/2022-03-cherry-blossom-tree.gif?class=pixelated+right+cherry-blossom)
 
-A few days ago, my boyfriend invited my go to the [Bloesempark](https://www.amsterdamsebos.nl/bloesempark/) in Amsterdamse Bos. Unfortunately, I won't be in the Netherlands next weekend so I cannot go. However, since the idea of going to a park with around 400 japanese [cherry blossom trees](https://en.wikipedia.org/wiki/Cherry_blossom) (_Sakura trees_) 🌸 was too enticing, I gathered some friends and [visited](/2022/03/26/czgzywinic) yesterday.
+A few days ago, my boyfriend invited my go to the [Bloesempark](https://www.amsterdamsebos.nl/bloesempark/) in Amsterdamse Bos. Unfortunately, I won't be in the Netherlands next weekend so I cannot go. However, since the idea of going to a park with around 400 japanese [cherry blossom trees](https://en.wikipedia.org/wiki/Cherry_blossom) (_Sakura trees_) 🌸 was too enticing, I gathered some friends and visited yesterday.
 
 We traveled by train from Eindhoven to Amsterdam ArenA. We immediately saw that was not the best idea so we continued to Amsterdam Zuid and rented some OV-fiets there. It was my first time using an OV-fiets and I must say: they run very smoothly. But their brakes? Horrible.
 

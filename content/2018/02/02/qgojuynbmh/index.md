@@ -29,13 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Belgium
-      latitude: 50.9013889
-      locality: Brussels
-      longitude: 4.4844444
-      name: Brussels (BRU)
-    type: h-adr
+location:
+  latitude: 50.9013889
+  longitude: 4.4844444
+  name: Brussels (BRU)
+  locality: Brussels
+  country: Belgium
 ---
+
 

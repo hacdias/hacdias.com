@@ -5,14 +5,12 @@ published: 2022-03-19T10:17:28.181459791+01:00
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/03/2022-03-19-xanxb
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43248
-      locality: Eindhoven
-      longitude: 5.48615
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43248
+  longitude: 5.48615
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Those are good points. Dutch people frequently complain about their public transport, but it works very well in general. I have Day Discount subscription for the trains that costs 5.10 EUR a month and gives 40% discount during off-peak hours, weekend and public holidays. Additionally, up to 3 people traveling with me can get 40% discount too (albeit group tickets would be less expensive in this case). And I think that's a pretty good discount, considering the overall train prices and service quality. Even with all this discounts I spent over 90 EUR on public transit last month 😂 Free weekends is 31.60 EUR per month.

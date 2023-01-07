@@ -9,7 +9,13 @@ properties:
     properties:
       name: Liefmans Rosé
     type: h-food
-  location: /2022/02/21/xphqobjnyb
+location:
+  latitude: 51.4372455902268
+  longitude: 5.4791828112068455
+  name: Ribs Factory
+  locality: Eindhoven
+  region: North-Brabant
+  country: Netherlands
 ---
 
 

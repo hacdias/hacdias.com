@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Italy
-      latitude: 43.708398
-      locality: Pisa
-      longitude: 10.3984995
-      name: Pisa Centrale
-      region: Tuscany
-    type: h-adr
+location:
+  latitude: 43.708398
+  longitude: 10.3984995
+  name: Pisa Centrale
+  locality: Pisa
+  region: Tuscany
+  country: Italy
 ---
 
 

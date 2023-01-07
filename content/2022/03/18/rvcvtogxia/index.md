@@ -4,18 +4,15 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43249
-      locality: Eindhoven
-      longitude: 5.48615
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - meta
+location:
+  latitude: 51.43249
+  longitude: 5.48615
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Right now, I have my Last.fm scrobbles backed up. Every day, a small script fetches everything from Last.fm and dumps it into a file. The script is not very well optimized and downloads every scrobble since ever every day. Anyways, the point is not that. I would love to have the things I listen to in this website, just like I have for the [watches](/watches). But there's a problem: the sheer amount of data!

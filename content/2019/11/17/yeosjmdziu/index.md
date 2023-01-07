@@ -52,14 +52,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Costa Rica
-      latitude: 9.9939028
-      locality: Alajuela
-      longitude: -84.2088556
-      name: San Jose (SJO)
-    type: h-adr
+location:
+  latitude: 9.9939028
+  longitude: -84.2088556
+  name: San Jose (SJO)
+  locality: Alajuela
+  country: Costa Rica
 ---
 
 

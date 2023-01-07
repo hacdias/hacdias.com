@@ -9,15 +9,13 @@ properties:
     properties:
       name: Suspiro
     type: h-food
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 37.13071
-      locality: Lagoa e Carvoeiro
-      longitude: -8.44823
-      region: Faro
-    type: h-adr
   photo: cdn:/00eef3dcfc9abead191f808b07c247be103d5b9b1d438969e51b0f533a5dd08e
+location:
+  latitude: 37.13071
+  longitude: -8.44823
+  locality: Lagoa e Carvoeiro
+  region: Faro
+  country: Portugal
 ---
 
 

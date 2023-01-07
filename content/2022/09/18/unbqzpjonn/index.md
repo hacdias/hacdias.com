@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Italy
-      latitude: 44.5071559
-      locality: Bologna
-      longitude: 11.3429422
-      name: Bologna Centrale
-      region: Emilia-Romagna
-    type: h-adr
+location:
+  latitude: 44.5071559
+  longitude: 11.3429422
+  name: Bologna Centrale
+  locality: Bologna
+  region: Emilia-Romagna
+  country: Italy
 ---
 
 

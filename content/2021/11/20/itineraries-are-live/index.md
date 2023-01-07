@@ -4,18 +4,15 @@ section:
 - home
 - micro
 createdWith: https://quill.p3k.io/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43247
-      locality: Eindhoven
-      longitude: 5.48607
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - meta
+location:
+  latitude: 51.43247
+  longitude: 5.48607
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I just secretly added a new section called [itineraries](/itineraries) with... well... itineraries! Some are private, as they are in the future. I quite like this functionality: I had to take some time to find some trains I took over the past two years. Fortunately, they were not that many and they were all in my e-mail. Older data I don't have. I did not add any of the train trips I've done in the Netherlands, but maybe later of if I figure out NS API.

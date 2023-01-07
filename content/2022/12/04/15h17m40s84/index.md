@@ -6,18 +6,16 @@ createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/micro/2022/12/2022-12-04-lizpl
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44591
-      locality: Eindhoven
-      longitude: 5.46188
-      region: North Brabant
-    type: h-adr
 userMentions:
 - name: '@en@jlelse.blog'
   href: https://jlelse.blog
   inbox: https://jlelse.blog/activitypub/inbox/en
+location:
+  latitude: 51.44591
+  longitude: 5.46188
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Wow, that's very pretty 😄 Enjoy!

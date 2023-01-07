@@ -29,14 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 37.0144444
-      locality: Faro
-      longitude: -7.9658333
-      name: Faro (FAO)
-    type: h-adr
+location:
+  latitude: 37.0144444
+  longitude: -7.9658333
+  name: Faro (FAO)
+  locality: Faro
+  country: Portugal
 ---
 
 

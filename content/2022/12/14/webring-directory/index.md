@@ -8,17 +8,15 @@ createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://sadgrl.online/cyberspace/webrings.html
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44585
-      locality: Eindhoven
-      longitude: 5.46172
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - webring
+location:
+  latitude: 51.44585
+  longitude: 5.46172
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 A very nice directory of different webrings. It's always good for reference.

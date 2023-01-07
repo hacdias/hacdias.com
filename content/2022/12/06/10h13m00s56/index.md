@@ -8,14 +8,12 @@ createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://dotat.at/@/2022-12-04-leap-seconds.html
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44585
-      locality: Eindhoven
-      longitude: 5.46167
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.44585
+  longitude: 5.46167
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

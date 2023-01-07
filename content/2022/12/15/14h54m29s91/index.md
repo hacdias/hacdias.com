@@ -6,18 +6,16 @@ createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/micro/2022/12/2022-12-15-vyyit
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44448
-      locality: Eindhoven
-      longitude: 5.45997
-      region: North Brabant
-    type: h-adr
 userMentions:
 - name: '@en@jlelse.blog'
   href: https://jlelse.blog
   inbox: https://jlelse.blog/activitypub/inbox/en
+location:
+  latitude: 51.44448
+  longitude: 5.45997
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I think that's good. It means you're reaching a point where you're mostly satisfied with what you have. I've still been doing some big changes lately, usually revolving around _removing_ code. I personally decided to add a big disclaimer on the readme of the repository saying I wouldn't guarantee support for others because I knew I was going to want to change things 🤣

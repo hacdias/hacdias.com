@@ -10,15 +10,13 @@ properties:
     properties:
       name: Nestum Arroz
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43247
-      locality: Eindhoven
-      longitude: 5.48616
-      region: North Brabant
-    type: h-adr
   photo: cdn:/b947b774cdae3a4d9c1a6440dfe0677898dd9dd5ef7ad0dea29f63cc2b48be73
+location:
+  latitude: 51.43247
+  longitude: 5.48616
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

@@ -9,15 +9,13 @@ properties:
     properties:
       name: Apple and Cinnamon Tea
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43252
-      locality: Eindhoven
-      longitude: 5.48641
-      region: North Brabant
-    type: h-adr
   photo: cdn:/1efffd5319857b6fb902797558df103573f37e23ccf1706c73f71a91e611a5dc
+location:
+  latitude: 51.43252
+  longitude: 5.48641
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

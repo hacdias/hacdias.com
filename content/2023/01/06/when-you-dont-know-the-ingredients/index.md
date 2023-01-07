@@ -5,15 +5,12 @@ section:
 - articles
 - home
 createdWith: https://hacdias.com/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44581
-      locality: Eindhoven
-      longitude: 5.46175
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.44581
+  longitude: 5.46175
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 This is the story on how whipped cream and cocoa powder have stressed me over the last two weeks. I hope that that is a seemingly weird enough sentence to keep you on reading. Or not. If you don't want to keep going, it's also fine. But let me tell you more.

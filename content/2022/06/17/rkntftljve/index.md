@@ -4,19 +4,16 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.4324
-      locality: Eindhoven
-      longitude: 5.48608
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - indieweb
   - meta
+location:
+  latitude: 51.4324
+  longitude: 5.48608
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Just made a very small update to my website. Now, I can update reading progress much easily: I just need to go to the book's page and then I will have this options:

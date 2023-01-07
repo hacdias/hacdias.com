@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Italy
-      latitude: 45.4410753
-      locality: Venice
-      longitude: 12.3210322
-      name: Venezia S. Lucia
-      region: Veneto
-    type: h-adr
+location:
+  latitude: 45.4410753
+  longitude: 12.3210322
+  name: Venezia S. Lucia
+  locality: Venice
+  region: Veneto
+  country: Italy
 ---
 
 

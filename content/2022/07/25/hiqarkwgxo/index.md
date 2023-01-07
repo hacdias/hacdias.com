@@ -7,19 +7,17 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://handshake.org/
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.44802
-      locality: Eindhoven
-      longitude: 5.48614
-      region: North Brabant
-    type: h-adr
 taxonomies:
   tags:
   - dns
   - dweb
   - decentralization
+location:
+  latitude: 51.44802
+  longitude: 5.48614
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

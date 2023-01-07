@@ -29,14 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 37.7419444
-      locality: Ponta Delgrada
-      longitude: -25.6977778
-      name: Ponta Delgada (PDL)
-    type: h-adr
+location:
+  latitude: 37.7419444
+  longitude: -25.6977778
+  name: Ponta Delgada (PDL)
+  locality: Ponta Delgrada
+  country: Portugal
 ---
 
 

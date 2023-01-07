@@ -4,18 +4,16 @@ section:
 - photos
 - home
 properties:
-  location:
-    properties:
-      country-name: United Kingdom
-      latitude: 51.5409083
-      locality: London Borough of Camden
-      longitude: -0.1481579
-      region: England
-    type: h-adr
   photo:
   - cdn:/2020-03-camden-mirror
   syndication:
   - https://www.instagram.com/p/Bt8Vl8uFrM7/
+location:
+  latitude: 51.5409083
+  longitude: -0.1481579
+  locality: London Borough of Camden
+  region: England
+  country: United Kingdom
 ---
 
 

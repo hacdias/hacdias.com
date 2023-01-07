@@ -7,14 +7,12 @@ section:
 createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://elisehe.in/2022/10/16/attribute-selectors
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43921
-      locality: Eindhoven
-      longitude: 5.45587
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43921
+  longitude: 5.45587
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

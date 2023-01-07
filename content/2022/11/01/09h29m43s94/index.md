@@ -8,14 +8,12 @@ section:
 createdWith: https://indieweb.org/Shortcuts
 properties:
   bookmark-of: https://blog.jim-nielsen.com/2022/website-fidelity-browser/
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 38.72739626290747
-      locality: Lisbon
-      longitude: -9.148696701959485
-      region: Lisbon
-    type: h-adr
+location:
+  latitude: 38.72739626290747
+  longitude: -9.148696701959485
+  locality: Lisbon
+  region: Lisbon
+  country: Portugal
 ---
 
 Similarly to his [last article](/2022/10/18/jxtcumpfaf), Jim dives into the concept of website fidelity, which is a way of reducing the amount of resources a website consumes by lowering its fidelity to the original visuals and features. I quite like this idea.

@@ -6,14 +6,6 @@ section:
 createdWith: https://micropublish.net/
 photoClass: grid-zcdvmaterr fg
 properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43239
-      locality: Eindhoven
-      longitude: 5.48617
-      region: North Brabant
-    type: h-adr
   photo:
   - cdn:/040a5c6a8b5c22e514e040fc53e4aa4d0a0e58638f13a9d75653d1e7ad04413f
   - cdn:/a8b92845c03156e528617a7d8190942c107a1d16850c4b14444cc29e985d6db5
@@ -22,6 +14,12 @@ properties:
   - cdn:/a0ab5328e22bc3f7790b19ef3bcda6b0b6978ce28b119685950937efc51bb23d
   - cdn:/545da3aa0e3924fab30aec3d3f3e4084ca918e6d205b684120638988aa3c6838
   - cdn:/d128d31af006ea5b53b8504f26d25ad426c704cede4a81c955aca7b6fe5f01be
+location:
+  latitude: 51.43239
+  longitude: 5.48617
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 <style>
@@ -42,6 +40,6 @@ properties:
 .grid-zcdvmaterr> *:nth-child(7) { grid-area: g; }
 </style>
 
-Today I went to the weirdest museum I’ve been lately, the [Kunstmuseum](/2022/07/02/smpfmzdlit) in The Hague. There were _many_ wicked artworks. Fortunately there were also very pleasing ones. The best ones were the kinectic sculptures by Theo Jansen that you could interact with - I don’t have pictures of those so they’re not shared here.
+Today I went to the weirdest museum I’ve been lately, the Kunstmuseum in The Hague. There were _many_ wicked artworks. Fortunately there were also very pleasing ones. The best ones were the kinectic sculptures by Theo Jansen that you could interact with - I don’t have pictures of those so they’re not shared here.
 
 My friends and I ended up having lunch very late (at 5pm) in Rotterdam where we ate Turkish, Greek, Portuguese and some Russian things. A lot. But a nice day.

@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://indieweb.org/Shortcuts
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43249024061473
-      locality: Eindhoven
-      longitude: 5.486123230000632
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43249024061473
+  longitude: 5.486123230000632
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I just re-discovered Homebrew casks. I’m now trying to move part of my software to a casks script so it can be easily re-installed in other machines. Wish me luck!

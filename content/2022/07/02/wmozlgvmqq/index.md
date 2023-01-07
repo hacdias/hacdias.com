@@ -9,8 +9,14 @@ properties:
     properties:
       name: Crunchy Manti
     type: h-food
-  location: /2022/07/02/fuqjatjoyf
   photo: cdn:/ef044d18fdafb66324d524a632fa5cd207ad5b42a1c3620c3d44647d9d3f7b49
+location:
+  latitude: 51.920137480908274
+  longitude: 4.48725882417661
+  name: Markthal
+  locality: Rotterdam
+  region: South Holland
+  country: Netherlands
 ---
 
 

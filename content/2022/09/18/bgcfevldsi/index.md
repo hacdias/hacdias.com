@@ -9,8 +9,14 @@ properties:
     properties:
       name: Fig and Myrtille Gelato
     type: h-food
-  location: /2022/09/18/csnubyxpph
   photo: cdn:/4fbaa3fb0f2137f12aaf03850b6a9860de6b642fabdad822110c4033426b00e7
+location:
+  latitude: 44.50028319150133
+  longitude: 11.34307686235477
+  name: Galliera 49
+  locality: Bologna
+  region: Emilia-Romagna
+  country: Italy
 ---
 
 

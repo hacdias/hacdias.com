@@ -9,14 +9,12 @@ properties:
     properties:
       name: Spare ribs
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43247
-      locality: Eindhoven
-      longitude: 5.48615
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43247
+  longitude: 5.48615
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

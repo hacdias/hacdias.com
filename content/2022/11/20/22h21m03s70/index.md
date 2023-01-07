@@ -7,18 +7,16 @@ createdWith: https://quill.p3k.io/
 properties:
   ap-in-reply-to: https://fosstodon.org/users/jle/statuses/109375213511020485
   in-reply-to: https://fosstodon.org/@jle/109375213511020485
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43246
-      locality: Eindhoven
-      longitude: 5.48601
-      region: North Brabant
-    type: h-adr
 userMentions:
 - name: '@jle@fosstodon.org'
   href: https://fosstodon.org/users/jle
   inbox: https://fosstodon.org/users/jle/inbox
+location:
+  latitude: 51.43246
+  longitude: 5.48601
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Thank you 😊 - I am now attempting to reply from my main website account. I'm curious: what made you decide on having an account for the blogs (except for the different languages), and one for yourself, when both could be the same?

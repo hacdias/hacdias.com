@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43256
-      locality: Eindhoven
-      longitude: 5.48618
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43256
+  longitude: 5.48618
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 I'm trying to "degoogle" and finally got enough courage to give Firefox a real chance. So far, there's only two main things bothering me: 

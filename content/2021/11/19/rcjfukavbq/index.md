@@ -10,15 +10,13 @@ properties:
     properties:
       name: Oats with blueberry, banana, powdered sugar, honey and speculaas
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43247
-      locality: Eindhoven
-      longitude: 5.48615
-      region: North Brabant
-    type: h-adr
   photo: cdn:/68560289a99e3d98d6d82e086583546a8d20fce291f435eceda48ef843748745
+location:
+  latitude: 51.43247
+  longitude: 5.48615
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

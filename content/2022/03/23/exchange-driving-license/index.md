@@ -4,15 +4,12 @@ section:
 - home
 - micro
 createdWith: https://micropublish.net/
-properties:
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43243
-      locality: Eindhoven
-      longitude: 5.48614
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43243
+  longitude: 5.48614
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 A month ago I went to the municipality to exchange my Portuguese driving license by a Dutch one. The reasons were mostly by ease of use and that it would come handy in some situations. The thing is that here they take your original driving license during the whole process. Usually, this process takes about 2 to 4 weeks. Since I haven't received anything until today, I called.

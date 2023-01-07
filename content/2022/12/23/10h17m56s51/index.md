@@ -9,17 +9,15 @@ createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://austinhenley.com/blog/programmingasplay.html
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 37.50651
-      locality: Santana da Serra
-      longitude: -8.29791
-      region: Beja
-    type: h-adr
 taxonomies:
   tags:
   - fun
+location:
+  latitude: 37.50651
+  longitude: -8.29791
+  locality: Santana da Serra
+  region: Beja
+  country: Portugal
 ---
 
 This article by Austin is quite interesting. He talks about how programming can be seen as a playful thing, instead of making things that have a hard purpose. It reminds me of the time I made a few [experiments](/more#experiments) for fun. I should do that kind of programming again: fun programming. And it doesn't necessarily have to be web programming either. Just fun, with fun things.

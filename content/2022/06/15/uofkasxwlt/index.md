@@ -5,14 +5,12 @@ published: 2022-06-15T09:04:11.965707199+02:00
 createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/06/2022-06-15-xlwja
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43241
-      locality: Eindhoven
-      longitude: 5.4861
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43241
+  longitude: 5.4861
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 > Have you heard of Bunny.net Stream?

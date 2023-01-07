@@ -31,15 +31,13 @@ properties:
         type: h-adr
       transit-type: train
     type: h-leg
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 52.378901
-      locality: Amsterdam
-      longitude: 4.9005805
-      name: Amsterdam Centraal
-      region: North Holland
-    type: h-adr
+location:
+  latitude: 52.378901
+  longitude: 4.9005805
+  name: Amsterdam Centraal
+  locality: Amsterdam
+  region: North Holland
+  country: Netherlands
 ---
 
 

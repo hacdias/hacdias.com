@@ -5,14 +5,12 @@ published: 2021-11-20T18:47:16.864736859Z
 createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43248
-      locality: Eindhoven
-      longitude: 5.48613
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43248
+  longitude: 5.48613
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 Yup. I've been a "eenmanszaak" here for a year and: (1) had to fill a gigantic form on the KvK (Chamber of Commerce) website, (2) go there and sign a form and pay 50 euros for them to pay a paper; (3) pay for a specialised software every month for bookkeeping. Legally, there's no requirement for my bank account to be separate because as a sole proprietorship, my assets and the company's are the same.

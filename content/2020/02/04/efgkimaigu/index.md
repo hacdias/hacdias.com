@@ -9,8 +9,14 @@ properties:
     properties:
       name: Hot Chocolate
     type: h-food
-  location: /2020/02/04/qrfvovmrzw
   photo: cdn:/16300bd77ecb60d991656698b9611f02dc05499961556b814c14b1363ed8ca99
+location:
+  latitude: 49.610646
+  longitude: 6.132615
+  name: Chocolate House Nathalie Bonn
+  locality: Luxembourg
+  region: District de Luxembourg
+  country: Luxembourg
 ---
 
 

@@ -9,7 +9,13 @@ properties:
     properties:
       name: Magners Irish Cider
     type: h-food
-  location: /2022/03/21/hknqtoaudq
+location:
+  latitude: 51.44925217615702
+  longitude: 5.487553253067627
+  name: Hubble Community Café
+  locality: Eindhoven
+  region: North-Brabant
+  country: Netherlands
 ---
 
 

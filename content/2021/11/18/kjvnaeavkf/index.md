@@ -9,14 +9,12 @@ properties:
     properties:
       name: Oats with blueberry, honey and speculaas spice mix
     type: h-food
-  location:
-    properties:
-      country-name: Netherlands
-      latitude: 51.43251
-      locality: Eindhoven
-      longitude: 5.48609
-      region: North Brabant
-    type: h-adr
+location:
+  latitude: 51.43251
+  longitude: 5.48609
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 ---
 
 

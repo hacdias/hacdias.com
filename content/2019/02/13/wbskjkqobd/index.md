@@ -29,14 +29,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: Portugal
-      latitude: 38.7741667
-      locality: Lisbon
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-    type: h-adr
+location:
+  latitude: 38.7741667
+  longitude: -9.1341667
+  name: Lisbon (LIS)
+  locality: Lisbon
+  country: Portugal
 ---
 
 

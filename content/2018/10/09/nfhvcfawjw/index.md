@@ -52,12 +52,12 @@ properties:
         type: h-adr
       transit-type: air
     type: h-leg
-  location:
-    properties:
-      country-name: United Kingdom
-      latitude: 55.8719444
-      locality: Glasgow
-      longitude: -4.4330556
-      name: Glasgow (GLA)
-    type: h-adr
+location:
+  latitude: 55.8719444
+  longitude: -4.4330556
+  name: Glasgow (GLA)
+  locality: Glasgow
+  country: United Kingdom
 ---
+
+
