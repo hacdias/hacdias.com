@@ -1,6 +1,6 @@
 ---
 title: Blogroll
-updated: 2023-01-08T00:00:00.135903173+01:00
+updated: 2023-01-09T00:00:00.116592086+01:00
 template: blogroll
 noShowInteractions: true
 noSendInteractions: true
