@@ -5,17 +5,14 @@
     {{ include "post/header" . }}
     {{ include "post/content" . }}
 
+    <h2 id='performances'>👑 Performances</h2>
+    {{ include "logs" (.GetLogs ".live.yaml") }}
+  
     <h2 id='movies'>🎬 Movies</h2>
     {{ include "logs" (.GetLogs ".movies.yaml") }}
 
     <h2 id='shows'>📺 Shows</h2>
     {{ include "logs" (.GetLogs ".shows.yaml") }}
-
-    <h2 id='concerts'>🎤 Concerts</h2>
-    {{ include "logs" (.GetLogs ".concerts.yaml") }}
-  
-    <h2 id='others'>👑 Others</h2>
-    {{ include "logs" (.GetLogs ".others.yaml") }}
 
     {{ include "post/media" . }}
     {{ include "post/footer" . }}

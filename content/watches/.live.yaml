@@ -1,7 +1,15 @@
+- name: Trixie & Katya Live
+  author:
+  rating: 4
+  date: 2022-11-16T22:40:00+01:00
 - name: Dirt Femme Tour
   author: Tove Lo
   rating: 5
   date: 2022-11-13T22:30:59+01:00
+- name: Unsanitized
+  author: Bianca del Rio
+  rating: 5
+  date: 2022-08-04T23:00:07.04259847+02:00
 - name: The Chromatica Ball
   author: Lady Gaga
   rating: 5
@@ -18,3 +26,7 @@
   author: MARINA
   rating: 5
   date: 2022-05-14T23:01:53.453564083+02:00
+- name: Mary Poppins
+  author:
+  rating: 5
+  date: 2022-04-22T23:21:24+01:00
