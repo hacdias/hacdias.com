@@ -1,1 +1,16 @@
-{}
+{
+  "replies": [
+    {
+      "author": {
+        "name": "JW",
+        "photo": "https://cdn.hacdias.com/wm/b7a411137f202a257675b57540dc3f62d6e4386f694a40d56404e185e501097a.png",
+        "url": "https://indieweb.social/users/jw"
+      },
+      "published": "2023-01-11T07:50:17Z",
+      "content": "@hacdias Don\u0026#39;t you love public transportation...",
+      "url": "https://indieweb.social/@jw/109669477066886763",
+      "type": "reply",
+      "id": "https://indieweb.social/users/jw/statuses/109669477066886763"
+    }
+  ]
+}

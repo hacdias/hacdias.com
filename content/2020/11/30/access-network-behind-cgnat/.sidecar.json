@@ -62,6 +62,18 @@
   "interactions": [
     {
       "author": {
+        "name": "Prasanna_Naik09",
+        "photo": "https://cdn.hacdias.com/wm/537e775fb965c5e4ba31ba0393a3bbfb6f8dc12f0b0dbe0cd6673f86060a832e.png",
+        "url": "https://reddit.com/user/Prasanna_Naik09/"
+      },
+      "published": "2021-12-12T04:25:46Z",
+      "name": "Running Wireguard VPN Client on Router",
+      "content": "Hello guys, I had few questions. Please go easy on me if I am doing something really dumb. I have 2 routers. a) Home router b) Travel Router (both capable of adding a VPN Client) Both routers are behind CGNAT (they don\u0026#39;t get a public ip address which can be reached from outside) But I wanted to connect to my home network via my travel network. After a lot of digging I found this guide. [https://hacdias.com/2020/11/30/access-network-behind-cgnat](https://hacdias.com/2020/11/30/access-network-behind-cgnat) Basically host a VPN Server in the cloud and then make both the networks connect to it. That way you can make them function as a part of the same network (this part might be wrong so please correct me if it is). Before that I am planning to have following IP subnet for these networks: Home Network : 192.168.1.X VPN Server In The Cloud : 192.168.3.X Travel Network : 192.168.2.X [Just for reference \\(I will go into the exact config. later](https://preview.redd.it/ss50i3tef1581.png?width=845\u0026amp;format=png\u0026amp;auto=webp\u0026amp;v=enabled\u0026amp;s=f3f11c5bd9779ceff8e181702bb1eaf656375734) So my question here is, if I create 2 peers (one for my home router and one for my travel router), will they get ip addresses in the same range which are set on the VPN config file? ​ Like if my PC and phone is connected to my router (so will the router VPN Client will give it an ip like [192.168.1.3](https://192.168.1.3) and [192.168.1.4](https://192.168.1.4) and so on?) Similarly if my laptop and iphone are connected to travel router will they get ip address like [192.168.2.5](https://192.168.2.5) and [192.168.2.](https://192.168.2.5)6 and so on? ​ These numbers/ip assignment order might be wrong but I am just asking if can you connect multiple devices via 1 peer on the vpn server? (like the peer id will be used as client on the router and not an individual device) ​ Some concepts might be wrong here, but I am trying my best to learn. I am new to linux and all this so please sorry if I am doing something really wrong. Bookmark: reddit.com/r/selfhosted/c... https://192.168.1.3 https://192.168.1.4 https://192.168.2.5 https://hacdias.com/2020/11/30/access-network-behind-cgnat https://preview.redd.it/ss50i3tef1581.png?width=845\u0026amp;format=png\u0026amp;auto=webp\u0026amp;v=enabled\u0026amp;s=f3f11c5bd9779ceff8e181702bb1eaf656375734",
+      "url": "https://brid.gy/post/reddit/hacdias/regybn",
+      "type": "bookmark"
+    },
+    {
+      "author": {
         "name": "codebreaker101",
         "photo": "https://cdn.hacdias.com/wm/c391227f3e5f84d5b0bc07ba3a620f0ae322950f6d40fe35db5392453e8404d5.png",
         "url": "https://reddit.com/user/codebreaker101/"
