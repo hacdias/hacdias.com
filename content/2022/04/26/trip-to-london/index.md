@@ -9,7 +9,7 @@ properties:
       destination: London
       emoji: "\U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F"
       end: "2022-04-25T23:59:59Z"
-      name: Friend Visit
+      name: Visit Friend With Partner
       start: "2022-04-21T00:00:00Z"
     type: h-card
 location:

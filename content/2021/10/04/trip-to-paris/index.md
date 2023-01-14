@@ -9,7 +9,7 @@ properties:
       destination: Paris
       emoji: "\U0001F1EB\U0001F1F7"
       end: "2021-10-03T23:59:59Z"
-      name: Weekend Trip
+      name: Weekend Trip With Partner
       start: "2021-10-01T00:00:00Z"
     type: h-card
 location:

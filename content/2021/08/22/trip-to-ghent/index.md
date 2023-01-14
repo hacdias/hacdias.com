@@ -9,7 +9,7 @@ properties:
       destination: Ghent
       emoji: "\U0001F1E7\U0001F1EA"
       end: "2021-08-21T23:59:59Z"
-      name: Visit Friend
+      name: Day Trip to Visit Friend
       start: "2021-08-21T00:00:00Z"
     type: h-card
 location:

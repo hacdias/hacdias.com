@@ -12,6 +12,7 @@ properties:
       name: Summer Holiday
       start: "2021-07-06T00:00:00Z"
     type: h-card
+  zoom: 6
 location:
   latitude: 39.197282716346706
   longitude: -8.134221029813029

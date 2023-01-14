@@ -9,7 +9,7 @@ properties:
       destination: Santana da Serra
       emoji: "\U0001F1F5\U0001F1F9"
       end: "2020-12-27T23:59:59Z"
-      name: Christmas with Parents
+      name: Christmas Holiday with Parents
       start: "2020-12-15T00:00:00Z"
     type: h-card
 location:

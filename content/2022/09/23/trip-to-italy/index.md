@@ -1,15 +1,16 @@
 ---
-description: Trip to Italy
+description: Trip to Italia
 published: 2022-09-23T23:59:59Z
 section:
 - trips
 properties:
+  zoom: 6
   trip:
     properties:
-      destination: Italy
+      destination: Italia
       emoji: "\U0001F1EE\U0001F1F9 \U0001F1FB\U0001F1E6"
       end: "2022-09-22T23:59:59Z"
-      name: Holiday
+      name: Holiday Trip With Partner
       start: "2022-09-12T00:00:00Z"
     type: h-card
 location:

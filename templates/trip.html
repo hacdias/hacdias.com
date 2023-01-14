@@ -2,12 +2,14 @@
 
 <main role='main'>
   <article class='h-entry card'>
+    {{ $mm := .Helper }}
+
     {{ with .Location }}
       {{ include "map" . }}
       <script>
       const lat = {{ .Latitude }};
       const lon = {{ .Longitude }};
-      map.setView([lat, lon], 12)
+      map.setView([lat, lon], {{ with $mm.Int "zoom" }}{{ . }}{{ else }}12{{ end }})
       </script>
     {{ end }}
 

@@ -9,9 +9,10 @@ properties:
       destination: São Miguel
       emoji: "\U0001F1F5\U0001F1F9"
       end: "2019-07-12T23:59:59Z"
-      name: Holiday with Parents
+      name: Summer Trip With Parents
       start: "2019-07-10T00:00:00Z"
     type: h-card
+  zoom: 10
 location:
   latitude: 37.78405535222057
   longitude: -25.495591717779313

@@ -1,12 +1,12 @@
 ---
-description: Trip to Brussels
+description: Trip to Bruxelles
 published: 2019-02-04T23:59:59Z
 section:
 - trips
 properties:
   trip:
     properties:
-      destination: Brussels
+      destination: Bruxelles
       emoji: "\U0001F1E7\U0001F1EA"
       end: "2019-02-03T23:59:59Z"
       name: FOSDEM 2019

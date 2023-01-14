@@ -10,7 +10,7 @@ properties:
       destination: Engelberg
       emoji: "\U0001F1E8\U0001F1ED"
       end: "2023-01-16T23:59:59Z"
-      name: Hack Week
+      name: ProbeLab and Friends CoLo
       start: "2023-01-10T00:00:00Z"
       work: true
     type: h-card
