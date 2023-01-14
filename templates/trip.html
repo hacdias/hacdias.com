@@ -2,16 +2,12 @@
 
 <main role='main'>
   <article class='h-entry card'>
-    {{ $mm := .Helper }}
-    {{ $sub := $mm.Sub $mm.TypeProperty }}
-    {{ $location := $mm.Sub "location" }}
-
-    {{ with $location }}
+    {{ with .Location }}
       {{ include "map" . }}
       <script>
-      const lat = {{ .Properties.latitude }};
-      const lon = {{ .Properties.longitude }};
-      map.setView([lat, lon], {{ with .Properties.Int "zoom" }}{{ . }}{{ else }}12{{ end }})
+      const lat = {{ .Latitude }};
+      const lon = {{ .Longitude }};
+      map.setView([lat, lon], 12)
       </script>
     {{ end }}
 
