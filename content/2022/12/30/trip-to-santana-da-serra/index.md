@@ -11,7 +11,7 @@ properties:
       emoji: "\U0001F1F5\U0001F1F9"
       end: "2022-12-29T23:59:59Z"
       name: Christmas Holiday With Family
-      start: "2022-12-22T00:00:00Z"
+      start: "2022-12-22T19:00:00+01:00"
     type: h-card
 location:
   latitude: 37.500635
