@@ -40,7 +40,6 @@ This website contains more things than it looks at first glance. This page is a 
 
 - [🧁 About](/about)
 - [🗞️ Blogroll](/blogroll)
-- [📍 Checkins](/checkins)
 - [⚙️ Colophon](/colophon)
 - [✉️ Contact](/contact)
 - [🎮 Games](/games)
@@ -50,6 +49,8 @@ This website contains more things than it looks at first glance. This page is a 
 - [🛠 Uses](/uses)
 - [🏷 Tags](/tags)
 - [🎬 Watches](/watches)
+
+<!-- - [📍 Checkins](/checkins) -->
 
 </div>
 
