@@ -25,13 +25,14 @@ This website contains more things than it looks at first glance. This page is a 
 - [🔖 Bookmarks](/bookmarks)
 - [🧋 Drinks](/drinks)
 - [🥘 Food](/food)
-- [🗺️ Itineraries](/itineraries)
 - [💬 Micro](/micro)
 - [📸 Photos](/photos)
 - [📚 Readings](/readings)
 - [🚀 Trips](/trips)
 
 </div>
+
+<!-- - [🗺️ Itineraries](/itineraries) -->
 
 
 ### 🧵 Others {#others}
@@ -53,6 +54,8 @@ This website contains more things than it looks at first glance. This page is a 
 <!-- - [📍 Checkins](/checkins) -->
 
 </div>
+
+<!-- - [📍 Checkins](/checkins) -->
 
 ### 🧪 Experiments {#experiments}
 
