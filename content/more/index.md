@@ -70,7 +70,7 @@ Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='tr
 - [🏳️‍🌈 PixelColorMania](../minisites/pixelcolormania/index.html)
 - [⛈ Thunderstorm](../minisites/thunderstorm/index.html)
 - [📺 TV Noise](../minisites/tv-noise/index.html)
-- [💥 XKCD Clone](http://xkcd.hacdias.com/)
+- [💥 XKCD Clone](http://xkcd.hacdia.sh/)
 
 </div>
 
