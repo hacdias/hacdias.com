@@ -1,10 +1,9 @@
 ---
 title: Checkins
-# template: checkins
+description: Where have I been?
+deleted: true
 noShowInteractions: true
 noSendInteractions: true
-description: |
-  Where have I been?
 ---
 
 My checkins page is in remodeling. Check back later!
