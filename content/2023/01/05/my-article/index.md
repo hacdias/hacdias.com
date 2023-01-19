@@ -1,6 +1,6 @@
 ---
 title: Debuging YubiKey signing slowness?
-draft: true
+deleted: true
 section:
 - articles
 - home

@@ -1,6 +1,6 @@
 ---
 title: Year in Popcorn '21
-draft: true
+deleted: true
 section:
 - articles
 - home
