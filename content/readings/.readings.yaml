@@ -2,11 +2,6 @@ reading:
   - name: Short Stories in Dutch for Beginners
     author: Olly Richards
     date: 2022-04-09
-  - name: Sweet Bean Paste
-    author: Durian Sukegawa
-    publisher: Oneworld Publications
-    uid: isbn:9781786071958
-    date: 2022-12-30
 want-to-read:
   - name: 'Gödel, Escher, Bach: an Eternal Golden Braid'
     author: Douglas Hofstadter
@@ -40,6 +35,12 @@ want-to-read:
     uid: isbn:9780099549482
     date: 2021-07-31
 read:
+  - name: Sweet Bean Paste
+    author: Durian Sukegawa
+    publisher: Oneworld Publications
+    uid: isbn:9781786071958
+    date: 2023-01-20
+    rating: 5
   - name: The Alchemist
     author: Paulo Coelho
     uid: isbn:9780007155668
