@@ -1,6 +1,12 @@
+- name: A Kindhearted Christmas
+  date: 2022-12-28
+- name: Too Close for Christmas
+  date: 2022-12-27
 - name: The Holiday
   date: 2022-12-25T23:01:00+01:00
   rating: 4
+- name: I Believe in Santa
+  date: 2022-12-25
 - name: 'The Noel Diary'
   date: 2022-12-23
   rating: 3
