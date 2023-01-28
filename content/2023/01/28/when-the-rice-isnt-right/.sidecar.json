@@ -1,0 +1,19 @@
+{
+  "targets": [
+    "https://hacdias.com/2023/01/06/when-you-dont-know-the-ingredients",
+    "https://catavino.net/portuguese-rice-arroz-carolino/"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Zan Cerne",
+        "photo": "https://cdn.hacdias.com/wm/8d8c9413b65e01637c4359b20125b5f0bc5a81adbf764e0053fa5b8402c3d626.jpeg",
+        "url": "https://toot.io/users/zan"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://toot.io/users/zan#likes/69994",
+      "type": "like",
+      "id": "https://toot.io/users/zan#likes/69994"
+    }
+  ]
+}
