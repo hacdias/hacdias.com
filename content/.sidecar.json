@@ -13,6 +13,27 @@
   ],
   "replies": [
     {
+      "author": {
+        "name": "Per Axbom",
+        "photo": "https://cdn.hacdias.com/wm/6a83d37fef7f563d6bc48b71e6818be6f3aedae6a3d5866993b8c0571dcf8825.png",
+        "url": "https://axbom.me/users/axbom"
+      },
+      "published": "2023-01-29T17:35:47.906879Z",
+      "content": "@janboddez Ha, that is cool. Need to try and implement something like that. @hacdias @en",
+      "url": "https://axbom.me/objects/1064e792-d0ee-42df-a183-a4d1dfc95ed8",
+      "id": "https://axbom.me/objects/1064e792-d0ee-42df-a183-a4d1dfc95ed8"
+    },
+    {
+      "author": {
+        "name": "Jan Boddez",
+        "url": "https://indieweb.social/users/janboddez"
+      },
+      "published": "2023-01-29T16:43:25Z",
+      "content": "@axbom Two of my favorite “Mastodon” instances are @hacdias and @en: they’re just … actual websites",
+      "url": "https://indieweb.social/@janboddez/109773495067716670",
+      "id": "https://indieweb.social/users/janboddez/statuses/109773495067716670"
+    },
+    {
       "author": {},
       "published": "2023-01-17T17:14:15Z",
       "name": "Fellow Brain Bakers",
