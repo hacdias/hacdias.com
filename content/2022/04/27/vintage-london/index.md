@@ -16,11 +16,11 @@ properties:
   syndication: https://www.instagram.com/p/Cc2i0M2sAAf/
 ---
 
+London.
+
 <style>
 .grid-woskvegmhh  {
   grid-template-columns: repeat(2,1fr);
   margin-top: 0;
 }
 </style>
-
-London.
