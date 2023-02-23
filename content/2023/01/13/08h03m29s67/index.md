@@ -1,4 +1,5 @@
 ---
+deleted: true
 published: 2023-01-13T08:03:29.673548193+01:00
 section:
 - photos

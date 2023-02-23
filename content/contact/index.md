@@ -47,15 +47,15 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 
 <div class='terms grid bold'>
 
-- [🐙 GitHub](https://github.com/hacdias)
-- [📷 Instagram](https://instagram.com/hacdias)
-- [💼 LinkedIn](https://linkedin.com/in/hacdias)
-- [🎮 Discord (hacdias#2540)](https://discord.com/users/hacdias#2540)
-- [🐦 Twitter](https://twitter.com/hacdias)
-- [🤖 Reddit](https://reddit.com/u/hacdias)
-- [🔑 Keybase](https://keybase.io/hacdias)
-- [🆕 HackerNews](https://news.ycombinator.com/user?id=hacdias)
-- [🦞 Lobste.rs](https://lobste.rs/u/hacdias)
+- [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" class="icon"> GitHub](https://github.com/hacdias)
+- [<img src="https://www.google.com/s2/favicons?domain=instagram.com&sz=32" class="icon"> Instagram](https://instagram.com/hacdias)
+- [<img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=32" class="icon"> LinkedIn](https://linkedin.com/in/hacdias)
+- [<img src="https://www.google.com/s2/favicons?domain=discord.com&sz=32" class="icon"> Discord (hacdias#2540)](https://discord.com/users/hacdias#2540)
+- [<img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=32" class="icon"> Twitter](https://twitter.com/hacdias)
+- [<img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" class="icon"> Reddit](https://reddit.com/u/hacdias)
+- [<img src="https://www.google.com/s2/favicons?domain=keybase.io&sz=32" class="icon"> Keybase](https://keybase.io/hacdias)
+- [<img src="https://www.google.com/s2/favicons?domain=hackernews.com&sz=32" class="icon"> HackerNews](https://news.ycombinator.com/user?id=hacdias)
+- [<img src="https://www.google.com/s2/favicons?domain=lobste.rs&sz=32" class="icon"> Lobste.rs](https://lobste.rs/u/hacdias)
 
 </div>
 
