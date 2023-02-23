@@ -1,5 +1,5 @@
 ---
-title: chreke's blog - Little Languages Are The Future Of Programming
+title: Little Languages Are The Future Of Programming
 description: Bookmarked a post on chreke.com
 published: 2022-11-22T17:30:04.490005507+01:00
 section:

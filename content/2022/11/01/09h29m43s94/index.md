@@ -1,5 +1,5 @@
 ---
-title: 'Website Fidelity: Browser Perspective - Jim Nielsen’s Blog'
+title: 'Website Fidelity: Browser Perspective'
 description: Bookmarked a post on blog.jim-nielsen.com
 published: 2022-11-01T09:29:43.945947114+01:00
 updated: 2022-11-01T09:32:46.331087525+01:00

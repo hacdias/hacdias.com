@@ -1,5 +1,5 @@
 ---
-title: Thorsten Ball - Why threads can't fork
+title: Why threads can't fork
 description: Bookmarked a post on thorstenball.com
 published: 2022-06-20T15:22:06.931507629+02:00
 section:

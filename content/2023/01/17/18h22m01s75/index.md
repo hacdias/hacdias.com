@@ -1,6 +1,5 @@
 ---
-title: The Missing Semester of Your CS Education · the missing semester of your cs
-  education
+title: The Missing Semester of Your CS Education
 description: Bookmarked a post on missing.csail.mit.edu
 published: 2023-01-17T18:22:01.755386204+01:00
 section:

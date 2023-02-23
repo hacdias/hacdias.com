@@ -1,5 +1,5 @@
 ---
-title: Gregory Szorc's Digital Home | Why You Shouldn't Use Git LFS
+title: Why You Shouldn't Use Git LFS
 description: Bookmarked a post on gregoryszorc.com
 published: 2022-10-30T00:00:24.258556382+02:00
 section:

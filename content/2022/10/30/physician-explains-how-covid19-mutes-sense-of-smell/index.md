@@ -1,5 +1,5 @@
 ---
-title: Physician explains how COVID-19 mutes sense of smell - Scope
+title: Physician explains how COVID-19 mutes sense of smell
 description: Bookmarked a post on scopeblog.stanford.edu
 published: 2022-10-30T10:53:10.336245647+01:00
 updated: 2022-10-30T10:53:20.283126352+01:00

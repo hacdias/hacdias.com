@@ -1,5 +1,5 @@
 ---
-title: 'Chris''s Wiki :: blog/tech/SecurityItsOurOwnFault'
+title: 'blog/tech/SecurityItsOurOwnFault'
 description: Bookmarked a post on utcc.utoronto.ca
 published: 2022-10-30T00:19:35.500341188+02:00
 section:

@@ -1,5 +1,5 @@
 ---
-title: 'How I take smart digital notes—Part 1: A map for the journey | Ramses'' Blog'
+title: 'How I take smart digital notes—Part 1: A map for the journey'
 description: Bookmarked a post on ramses.blog
 published: 2022-10-29T23:25:04.249148895+02:00
 section:

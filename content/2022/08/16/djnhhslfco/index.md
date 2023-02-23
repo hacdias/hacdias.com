@@ -1,5 +1,5 @@
 ---
-title: A Well-Known Links Resource - Jim Nielsen’s Blog
+title: A Well-Known Links Resource
 description: Bookmarked a post on blog.jim-nielsen.com
 published: 2022-08-16T11:36:34.707039593+02:00
 section:

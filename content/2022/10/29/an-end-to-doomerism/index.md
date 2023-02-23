@@ -1,5 +1,5 @@
 ---
-title: An End to Doomerism - Big Think
+title: An End to Doomerism
 description: Bookmarked a post on bigthink.com
 published: 2022-10-29T23:04:26.261617718+02:00
 updated: 2022-10-30T00:03:24.046972204+02:00

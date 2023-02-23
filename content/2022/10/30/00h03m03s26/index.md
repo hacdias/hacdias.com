@@ -1,6 +1,5 @@
 ---
-title: Digital gardens let you cultivate your own little bit of the internet | MIT
-  Technology Review
+title: Digital gardens let you cultivate your own little bit of the internet
 description: Bookmarked a post on www.technologyreview.com
 published: 2022-10-30T00:03:03.267541027+02:00
 section:

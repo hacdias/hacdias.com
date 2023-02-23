@@ -1,5 +1,5 @@
 ---
-title: How NAT traversal works · Tailscale
+title: How NAT traversal works
 description: Bookmarked a post on tailscale.com
 published: 2022-08-20T08:57:46.543707768+02:00
 updated: 2022-12-13T11:40:51.08738225+01:00

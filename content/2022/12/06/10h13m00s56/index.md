@@ -1,5 +1,5 @@
 ---
-title: An update on leap seconds – Tony Finch
+title: An update on leap seconds
 description: Bookmarked a post on dotat.at
 published: 2022-12-06T10:13:00.565704431+01:00
 section:

@@ -1,5 +1,5 @@
 ---
-title: Website Fidelity - Jim Nielsen’s Blog
+title: Website Fidelity
 description: Bookmarked a post on blog.jim-nielsen.com
 published: 2022-10-18T09:39:52.304629092+02:00
 section:

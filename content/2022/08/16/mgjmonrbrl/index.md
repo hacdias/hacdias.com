@@ -1,5 +1,5 @@
 ---
-title: What is the Small Web? – Aral Balkan
+title: What is the Small Web?
 description: Bookmarked a post on ar.al
 published: 2022-08-16T23:48:24.160836791+02:00
 updated: 2022-12-13T11:42:17.080099551+01:00
