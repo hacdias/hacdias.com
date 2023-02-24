@@ -1,0 +1,15 @@
+{
+  "interactions": [
+    {
+      "author": {
+        "name": "Jan-Lukas Else",
+        "photo": "https://cdn.hacdias.com/wm/70e8fb1225ff3cd8880026c391ed227281103b2e13e02cf2d9aab47fb2e35e33.jpg",
+        "url": "https://fosstodon.org/users/jle"
+      },
+      "published": "0001-01-01T00:00:00Z",
+      "url": "https://fosstodon.org/users/jle#likes/4173829",
+      "type": "like",
+      "id": "https://fosstodon.org/users/jle#likes/4173829"
+    }
+  ]
+}
