@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Espresso Martini'
+deleted: true
 published: 2022-05-23T19:42:25Z
 section:
 - drinks

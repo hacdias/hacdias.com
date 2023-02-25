@@ -1,5 +1,6 @@
 ---
 description: 'Just ate: Pastel de Nata'
+deleted: true
 published: 2022-07-02T17:30:07+02:00
 section:
 - food

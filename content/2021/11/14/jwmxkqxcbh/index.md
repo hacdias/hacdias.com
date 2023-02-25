@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Lindemans Kriek'
+deleted: true
 published: 2021-11-14T18:43:00+01:00
 section:
 - drinks

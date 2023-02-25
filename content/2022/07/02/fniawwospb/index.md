@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Cappuccino Freddo'
+deleted: true
 published: 2022-07-02T17:25:23+02:00
 section:
 - drinks

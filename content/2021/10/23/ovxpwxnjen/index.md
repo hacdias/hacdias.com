@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Wieckse Rosé'
+deleted: true
 published: 2021-10-23T19:53:10+01:00
 section:
 - drinks

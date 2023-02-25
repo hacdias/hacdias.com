@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Alpro Soja Macchiato'
+deleted: true
 published: 2022-06-17T09:17:52Z
 section:
 - drinks

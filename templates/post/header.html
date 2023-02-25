@@ -21,13 +21,6 @@
     {{ include "post/header/ate" . }}
   {{ else if .Entry.Title }}
     <header>
-      {{ if .Listing }}
-        <h3 class='p-name'>
-          <a href="{{ relURL .Permalink }}" title="{{ .Entry.Title }}" class="nl">{{- .Entry.Title -}}</a>
-        </h3>
-      {{ else }}
-        <h1 class='p-name'>{{- .Entry.Title -}}</h1>
-      {{ end }}
       {{ if or (not .Published.IsZero) (not .Updated.IsZero) }}
         <p>
           {{- if not .Updated.IsZero -}}
@@ -36,6 +29,13 @@
             {{ .Published.Format "02 January 2006" }}
           {{- end -}}
         </p>
+      {{ end }}
+      {{ if .Listing }}
+        <h3 class='p-name'>
+          <a href="{{ relURL .Permalink }}" title="{{ .Entry.Title }}" class="nl">{{- .Entry.Title -}}</a>
+        </h3>
+      {{ else }}
+        <h1 class='p-name'>{{- .Entry.Title -}}</h1>
       {{ end }}
     </header>
   {{ end }}

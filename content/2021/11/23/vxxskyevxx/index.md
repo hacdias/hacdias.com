@@ -1,5 +1,6 @@
 ---
 description: 'Just ate: Spare ribs'
+deleted: true
 published: 2021-11-23T20:30:02+01:00
 section:
 - food

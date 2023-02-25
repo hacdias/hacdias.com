@@ -1,5 +1,6 @@
 ---
 description: 'Just ate: Tomato risotto with shrimp'
+deleted: true
 published: 2021-11-18T14:03:27+01:00
 section:
 - food

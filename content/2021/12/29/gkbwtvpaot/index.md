@@ -1,5 +1,6 @@
 ---
 description: 'Just ate: Broa Castelar'
+deleted: true
 published: 2021-12-29T09:51:16Z
 section:
 - food

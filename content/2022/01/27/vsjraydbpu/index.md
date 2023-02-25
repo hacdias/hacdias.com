@@ -1,5 +1,6 @@
 ---
 description: 'Just ate: Oats with blueberry, banana, honey and kiwi'
+deleted: true
 published: 2022-01-27T12:20:52+01:00
 section:
 - food

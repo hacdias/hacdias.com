@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Magners Irish Cider'
+deleted: true
 published: 2021-09-02T20:15:00+01:00
 section:
 - drinks

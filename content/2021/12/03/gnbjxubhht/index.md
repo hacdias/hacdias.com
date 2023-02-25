@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Tripel LeFort'
+deleted: true
 published: 2021-12-03T16:42:24+01:00
 section:
 - drinks

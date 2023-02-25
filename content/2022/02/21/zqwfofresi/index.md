@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Liefmans Rosé'
+deleted: true
 published: 2022-02-21T20:15:48+01:00
 section:
 - drinks

@@ -1,5 +1,6 @@
 ---
 description: 'Just ate: Tomato and mozzarella quiche'
+deleted: true
 published: 2021-11-20T19:19:11+01:00
 section:
 - food

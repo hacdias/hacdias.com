@@ -1,5 +1,6 @@
 ---
 description: 'Just ate: Homemade kapsalon'
+deleted: true
 published: 2021-11-20T13:40:11+01:00
 section:
 - food

@@ -1,5 +1,6 @@
 ---
 description: 'Just ate: Spinach coconut curry with yellow rice'
+deleted: true
 published: 2021-11-17T18:27:26+01:00
 section:
 - food

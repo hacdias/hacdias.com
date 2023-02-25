@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Iced Coffee with Oat Milk'
+deleted: true
 published: 2022-06-09T09:04:16Z
 section:
 - drinks

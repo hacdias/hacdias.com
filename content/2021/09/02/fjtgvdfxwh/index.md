@@ -1,5 +1,6 @@
 ---
 description: 'Just drank: Rodenbach Fruitage'
+deleted: true
 published: 2021-09-02T19:50:24+01:00
 section:
 - drinks
