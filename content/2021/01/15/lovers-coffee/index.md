@@ -1,4 +1,5 @@
 ---
+title: Lovers' Coffee
 published: 2021-01-15T00:00:00Z
 section:
 - home
@@ -13,4 +14,4 @@ taxonomies:
   - drawing
 ---
 
-Lovers Coffee
+

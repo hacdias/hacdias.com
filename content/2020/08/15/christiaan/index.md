@@ -1,4 +1,5 @@
 ---
+title: Christiaan
 published: 2020-08-15T00:00:00Z
 section:
 - home
@@ -13,4 +14,4 @@ taxonomies:
   - drawing
 ---
 
-Christiaan
+

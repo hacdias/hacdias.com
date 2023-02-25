@@ -1,4 +1,5 @@
 ---
+title: Deadly Coffee
 published: 2020-10-15T00:00:00Z
 section:
 - home
@@ -13,4 +14,4 @@ taxonomies:
   - drawing
 ---
 
-Deadly Coffee
+

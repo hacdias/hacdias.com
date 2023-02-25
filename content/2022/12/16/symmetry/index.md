@@ -1,4 +1,5 @@
 ---
+title: (As)symmetry
 published: 2022-12-16T20:35:05.100913946+01:00
 updated: 2022-12-16T20:36:46.631435346+01:00
 section:
@@ -16,4 +17,4 @@ location:
   country: Netherlands
 ---
 
-(As)symmetry.
+

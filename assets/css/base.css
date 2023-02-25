@@ -270,7 +270,8 @@ main header {
   text-align: center;
 }
 
-main header h1 {
+main header h1,
+main header h3 {
   margin-bottom: 0;
 }
 

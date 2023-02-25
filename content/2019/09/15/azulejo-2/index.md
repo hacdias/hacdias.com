@@ -1,4 +1,5 @@
 ---
+title: 'Azulejo #2'
 published: 2019-09-15T00:00:00Z
 section:
 - home
@@ -13,4 +14,4 @@ taxonomies:
   - drawing
 ---
 
-Azulejo #2
+
