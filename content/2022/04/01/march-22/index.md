@@ -17,6 +17,6 @@ During March, I went to more in-person events than I did in February. I went to 
 
 I also had the amazing opportunity to visit the [Bloesempark](/2022/03/27/visit-to-the-bloesempark) in Amsterdam. You should see the pictures - previous link - and visit if you can. It is very very pretty.
 
-Yesterday I [flew into Portugal](/2022/03/31/wlhbpvjcku) and I'm here for a week to visit my parents. I had to change this flight twice due to other issues, such as Covid, but I'm finally here!
+Yesterday, I flew into Portugal and I'm here for a week to visit my parents. I had to change this flight twice due to other issues, such as Covid, but I'm finally here!
 
 Have a nice April y'all!

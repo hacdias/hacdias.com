@@ -31,9 +31,6 @@ This website contains more things than it looks at first glance. This page is a 
 
 </div>
 
-<!-- - [🗺️ Itineraries](/itineraries) -->
-
-
 ### 🧵 Others {#others}
 
 <div class='terms grid bold'>
@@ -51,11 +48,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [🚆 Trips](/trips)
 - [🎬 Watches](/watches)
 
-<!-- - [📍 Checkins](/checkins) -->
-
 </div>
-
-<!-- - [📍 Checkins](/checkins) -->
 
 ### 🧪 Experiments {#experiments}
 

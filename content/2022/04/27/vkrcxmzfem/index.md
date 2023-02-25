@@ -12,7 +12,7 @@ location:
   country: Netherlands
 ---
 
-Now that I've crossed the English Channel (or _Canal da Mancha_, in Portuguese) by [train](/2022/04/25/hbjbtvdruw) [twice](/2022/04/21/qdcpiiabml), I must say that it was a very nice experience. From Rotterdam to London, it takes approximately 3h30m, including a ~30 minutes stop in Brussels.
+Now that I've crossed the English Channel (or _Canal da Mancha_, in Portuguese) by train twice, I must say that it was a very nice experience. From Rotterdam to London, it takes approximately 3h30m, including a ~30 minutes stop in Brussels.
 
 However, I also have some notes that may not apply to everyone: (1) it would be much quicker to get a flight directly from Eindhoven that takes 1h to get to London, (2) the security and border procedures at Rotterdam are quick, (3) the security and border procedures in London are a bit slower, (4) you need to be some time in advance at the station, just like the airport.
 
