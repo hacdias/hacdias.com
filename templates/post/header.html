@@ -6,8 +6,8 @@
   </div>
   {{ end }}
 
-  {{ $mf2 := .Helper }}
-  {{ $type := $mf2.PostType }}
+  {{ $mm := .Helper }}
+  {{ $type := $mm.PostType }}
 
   {{ if or (eq $type "reply") (eq $type "like") (eq $type "repost") }}
     {{ include "post/header/embedded" . }}
@@ -27,15 +27,15 @@
         </h3>
       {{ else }}
         <h1 class='p-name'>{{- .Entry.Title -}}</h1>
-        {{ if or (not .Published.IsZero) (not .Updated.IsZero) }}
-          <p>
-            {{- if not .Updated.IsZero -}}
-              {{ .Updated.Format "02 January 2006" }}
-            {{- else if not .Published.IsZero -}}
-              {{ .Published.Format "02 January 2006" }}
-            {{- end -}}
-          </p>
-        {{ end }}
+      {{ end }}
+      {{ if or (not .Published.IsZero) (not .Updated.IsZero) }}
+        <p>
+          {{- if not .Updated.IsZero -}}
+            {{ .Updated.Format "02 January 2006" }}
+          {{- else if not .Published.IsZero -}}
+            {{ .Published.Format "02 January 2006" }}
+          {{- end -}}
+        </p>
       {{ end }}
     </header>
   {{ end }}
