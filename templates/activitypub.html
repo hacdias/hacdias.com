@@ -5,11 +5,6 @@
   {{- if eq $type "bookmark" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
     <p><em>Bookmarked <a href="{{ $url }}"><strong>{{ .Title }}</strong> on {{ domain $url }}</a></em></p>
-  {{- else if eq $type "checkin" }}
-    {{ $checkin := $mf2.Sub $mf2.TypeProperty }}
-    <p><em>{{ .Description }}</em></p>
-  {{- else if eq $type "note" }}
-    {{/* Nothing */}}
   {{- else if or
     (eq $type "itinerary")
     (eq $type "drank")
