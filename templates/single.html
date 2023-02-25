@@ -2,7 +2,12 @@
 
 <main role='main'>
   {{ $type := .Helper.PostType }}
-  <article class='{{ if ne $type "article" }}card {{ end }}h-entry'>
+  {{ $card := or
+    (eq $type "reply") (eq $type "like") (eq $type "repost")
+    (eq $type "bookmark")
+    (eq $type "ate") (eq $type "drank")
+    (eq $type "read") }}
+  <article class='{{ if $card }}card {{ end }}h-entry'>
     {{ include "post/header" . }}
     {{ include "post/content" . }}
     {{ include "post/media" . }}
