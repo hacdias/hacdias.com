@@ -4,16 +4,11 @@
 
   {{- if eq $type "bookmark" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Bookmarked <a href="{{ $url }}"><strong>{{ .Title }}</strong> on {{ domain $url }}</a></em></p>
+    <p><em>Bookmarked <a href="{{ $url }}"><strong>{{ .Title }}</strong></a> on {{ domain $url }}</em></p>
   {{- else if or
-    (eq $type "itinerary")
     (eq $type "drank")
     (eq $type "ate")
-    (eq $type "checkin")
-    (eq $type "read")
-    (eq $type "rsvp")
-    (eq $type "listen")
-    (eq $type "watch") }}
+    (eq $type "read") }}
     {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}
   {{- end }}
 
