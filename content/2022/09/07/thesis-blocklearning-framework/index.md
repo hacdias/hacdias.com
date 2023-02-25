@@ -4,7 +4,7 @@ description: Impact Analysis of Different Consensus, Participant Selection and S
   Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework
 published: 2022-09-07T17:00:06.443507583+02:00
 section:
-- micro
+- articles
 - home
 createdWith: https://hacdias.com/
 properties:
@@ -13,9 +13,12 @@ properties:
 taxonomies:
   tags:
   - thesis
+  - publications
 ---
 
-Published Master Thesis On **Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework**, Supervised By [Nirvana Meratnia](https://research.tue.nl/en/persons/nirvana-meratnia).
+My master thesis has been finally published online. It is called _Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework_, and it was supervised by [Nirvana Meratnia](https://research.tue.nl/en/persons/nirvana-meratnia).
+
+<!--more-->
 
 ## Abstract
 
@@ -27,7 +30,14 @@ Published Master Thesis On **Impact Analysis of Different Consensus, Participant
 
 ## Citation
 
-Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework. _Coelho Dias, H. A. (Author). 7 Sep 2022_
+```
+@mastersthesis{blocklearning,
+  title   = "Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework",
+  author  = "Dias, Henrique",
+  year    = "2022",
+  school  = "TU Eindhoven"
+}
+```
 
 <div class='terms bold'>
 
