@@ -5,12 +5,6 @@
   {{- if eq $type "reply" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
     <p><em>Replied to <a href="{{ $url }}">{{ $url }}</a></em></p>
-  {{- else if eq $type "like" }}
-    {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Liked <a href="{{ $url }}">{{ $url }}</a></em></p>
-  {{- else if eq $type "repost" }}
-    {{ $url := $mf2.String $mf2.TypeProperty }}
-    <p><em>Reposted <a href="{{ $url }}">{{ $url }}</a></em></p>
   {{- end }}
 
   {{ include "activitypub" . }}

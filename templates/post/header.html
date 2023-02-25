@@ -9,7 +9,7 @@
   {{ $mm := .Helper }}
   {{ $type := $mm.PostType }}
 
-  {{ if or (eq $type "reply") (eq $type "like") (eq $type "repost") }}
+  {{ if eq $type "reply" }}
     {{ include "post/header/embedded" . }}
   {{ else if eq $type "bookmark" }}
     {{ include "post/header/bookmark" . }}

@@ -3,7 +3,7 @@
 <main role='main'>
   {{ $type := .Helper.PostType }}
   {{ $card := or
-    (eq $type "reply") (eq $type "like") (eq $type "repost")
+    (eq $type "reply")
     (eq $type "bookmark")
     (eq $type "ate") (eq $type "drank")
     (eq $type "read") }}

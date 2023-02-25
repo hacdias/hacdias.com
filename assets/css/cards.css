@@ -15,22 +15,6 @@
   padding: var(--ms);
 }
 
-.card > .box .type {
-  position: absolute;
-  background: var(--white);
-  border: var(--border)solid var(--light-white);
-  font-size: var(--f6);
-  width: 1.5rem;
-  height: 1.5rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-  top: calc(-1 * var(--border));
-  right: calc(-1 * var(--border));
-  border-bottom-left-radius: 50%;
-}
-
 .box > p {
   margin: 0 0 .25rem 0;
 }
