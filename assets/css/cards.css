@@ -44,7 +44,7 @@
 }
 
 .card header {
-  margin-top: 0;
+  margin: var(--ms) 0;
   border-radius: 0;
   text-align: left;
 }
@@ -52,7 +52,6 @@
 .card h1,
 .card h3 {
   font-size: var(--f3);
-  margin-top: 0.6em;
 }
 
 .card .highlight > pre,
