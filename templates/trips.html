@@ -17,9 +17,51 @@
     .logs .e {
       grid-template-columns: auto 18rem 7rem;
     }
+
+    #map {
+      aspect-ratio: 16 / 9;
+      margin: 1rem 0;
+    }
     </style>
 
     {{ $logs := .GetLogs ".trips.yaml" }}
+
+    <link rel="stylesheet" href="{{ relURL "/vendor/leaflet/leaflet.css" }}" />
+    <script src="{{ relURL "/vendor/leaflet/leaflet.js" }}"></script>
+     <link rel="stylesheet" href="{{ relURL "/vendor/markercluster/MarkerCluster.Default.css" }}" />
+    <script src="{{ relURL "/vendor/markercluster/leaflet.markercluster.js" }}"></script>
+
+    <div id='map' class='br'></div>
+
+    <script>
+    const map = L.map('map');
+
+    L.tileLayer('/tiles/{s}/{z}/{x}/{y}{r}', {
+      attribution:
+        '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> ' +
+        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      maxZoom: 18,
+      // For MapBox only
+      tileSize: 512,
+      zoomOffset: -1,
+    }).addTo(map);
+
+    const bounds = new L.LatLngBounds([
+      {{ range $logs }}L.latLng({{ .Latitude }}, {{ .Longitude }}),{{ end }}
+    ]);
+
+    const markers = L.markerClusterGroup();
+
+    {{ range $logs }}
+      markers.addLayer(L.marker([{{ .Latitude }}, {{ .Longitude }}], {
+        title: "{{ .Name }}"
+      }));
+    {{ end }}
+
+    map.fitBounds(bounds);
+    map.addLayer(markers);
+    </script>
+
     {{ $byYear := $logs.ByYear }}
 
     <div class='h-feed logs'>
