@@ -5,3 +5,4 @@ template: trips
 ---
 
 
+![](/trips/map.min.svg?class=fw)
