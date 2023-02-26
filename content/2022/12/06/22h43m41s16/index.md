@@ -1,4 +1,5 @@
 ---
+deleted: true
 published: 2022-12-06T22:43:41.16320043+01:00
 section:
 - micro

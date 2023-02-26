@@ -5,12 +5,8 @@ createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - example
-location:
-  latitude: 51.44593
-  longitude: 5.46165
-  locality: Eindhoven
-  region: North Brabant
-  country: Netherlands
 ---
+
+The story of a closed loxone system
 
 Code is poetry...
