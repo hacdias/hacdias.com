@@ -385,6 +385,11 @@
       "feed": "https://goblog.app/.rss"
     },
     {
+      "title": "Jon Worth",
+      "site": "https://jonworth.eu/",
+      "feed": "https://jonworth.eu/feed/"
+    },
+    {
       "title": "zdimension",
       "site": "https://zdimension.fr/",
       "feed": "https://zdimension.fr/rss/"
