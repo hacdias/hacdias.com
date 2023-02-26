@@ -11,7 +11,7 @@ I can be reached through different means, and you can find me on many different 
 
 <div class='terms grid bold'>
 
-- [✉️ E-mail: mail@hacdias.com](mailto:mail@hacdias.com)
+- [✉️ Email: mail@hacdias.com](mailto:mail@hacdias.com)
 - [☎️ Telegram: @hacdias](https://t.me/hacdias)
 - [✨ Matrix: @hacdias:tchncs.de](https://matrix.to/#/@hacdias:tchncs.de)
 
