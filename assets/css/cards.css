@@ -38,13 +38,6 @@
   font-size: var(--f3);
 }
 
-.card .highlight > pre,
-.card .copy > pre,
-.card .fw {
-  width: 100%;
-  margin-left: 0;
-}
-
 .card header,
 .card > .copy,
 .card footer {
