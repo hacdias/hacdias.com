@@ -5,8 +5,16 @@
   {{- if eq $type "reply" }}
     {{ $url := $mf2.String $mf2.TypeProperty }}
     <p><em>Replied to <a href="{{ $url }}">{{ $url }}</a></em></p>
+  {{- else if eq $type "bookmark" }}
+    {{ $url := $mf2.String $mf2.TypeProperty }}
+    <p><em>Bookmarked <a href="{{ $url }}"><strong>{{ .Title }}</strong></a> on {{ domain $url }}</em></p>
+  {{- else if or
+    (eq $type "drank")
+    (eq $type "ate")
+    (eq $type "read") }}
+    {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}
   {{- end }}
 
-  {{ include "activitypub" . }}
+  {{ include "post/content" . }}
   {{ include "post/media" . }}
 {{ end }}
