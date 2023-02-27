@@ -15,7 +15,7 @@ It is unbelievable that 1/12 of the year has already gone by. I came back to the
 
 First, I got my booster. Then, I also watched a few nice movies and, more importantly, started reading again. Maybe I went over the top and bought a bit too many books for my "to read" stack, but well... it is what it is.
 
-I currently have 8 books stacked near my desk for the next readings. They're all most short and I've been enjoying the process quite a bit. Related to this, I have also been investigating the possibility of [reading ebooks](/2022/01/31/bjdtodgllv). I've never used an eink display before for reading and I'm very curious about the experience. On the other hand, I can't see how I would feel about not being able to actually touch and feel the books.
+I currently have 8 books stacked near my desk for the next readings. They're all most short and I've been enjoying the process quite a bit. Related to this, I have also been investigating the possibility of reading ebooks. I've never used an eink display before for reading and I'm very curious about the experience. On the other hand, I can't see how I would feel about not being able to actually touch and feel the books.
 
 On other news, I went to Den Haag to renew my passport. As expected, it was delayed. Not because of the staff in the embassy, but because the system is all centralized in Lisbon and it was down for 30 minutes... so they couldn't do anything even if they wanted. I got my new passport and it is _quite_ pretty: there's different artwork portraying UNESCO heritage sites in Portugal in every different page. Besides, they all shine under UV light (365 nm) light. I would share some pictures, but I don't think it's appropriate.
 

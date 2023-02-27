@@ -1,4 +1,5 @@
 ---
+title: London
 published: 2022-04-27T12:00:00+02:00
 section:
 - photos
@@ -15,8 +16,6 @@ properties:
   - cdn:/9a994ac497d8a11a65a0e50b6706cf96aab429912b043154c2ed4393656b4461
   syndication: https://www.instagram.com/p/Cc2i0M2sAAf/
 ---
-
-London.
 
 <style>
 .grid-woskvegmhh  {

@@ -1,4 +1,5 @@
 ---
+deleted: true
 published: 2021-11-20T17:16:23.936704844Z
 section:
 - home

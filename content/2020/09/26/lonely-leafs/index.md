@@ -1,4 +1,5 @@
 ---
+title: Lonely Leaf
 published: 2020-09-26T20:18:05Z
 section:
 - photos

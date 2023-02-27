@@ -1,4 +1,5 @@
 ---
+deleted: true
 published: 2022-07-11T15:54:48.860855522+02:00
 section:
 - home

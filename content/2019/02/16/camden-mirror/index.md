@@ -1,4 +1,5 @@
 ---
+title: Camden Mirror
 published: 2019-02-16T12:32:06Z
 section:
 - photos

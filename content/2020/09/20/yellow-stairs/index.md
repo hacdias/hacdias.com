@@ -1,4 +1,5 @@
 ---
+title: Yellow Stairs
 published: 2020-09-20T06:59:49Z
 section:
 - photos
