@@ -12,7 +12,9 @@ This website contains more things than it looks at first glance. This page is a 
 
 - [✏️ Articles](/articles)
 - [🔖 Bookmarks](/bookmarks)
+- [🧋 Drinks](/drinks)
 - [🌊 Everything](/all)
+- [🥘 Food](/food)
 - [🏡 Home](/)
 - [🗒️ Notes](/micro)
 - [📸 Photos](/photos)
@@ -37,8 +39,7 @@ This website contains more things than it looks at first glance. This page is a 
 
 </div>
 
-<!-- - [🧋 Drinks](/drinks)
-- [🥘 Food](/food)
+<!-- 
 - [🎮 Games](/games)  -->
 
 
