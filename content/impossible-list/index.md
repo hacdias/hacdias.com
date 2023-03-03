@@ -77,6 +77,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇯🇵 Japan
   - 🇳🇴 Norway
   - 🇵🇪 Peru
+  - 🇸🇬 Singapore
   - 🇰🇷 South Korea
   - 🇪🇸 Spain
   - 🇸🇪 Sweden
