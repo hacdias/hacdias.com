@@ -365,6 +365,11 @@
       "feed": "https://annoying.technology/index.xml"
     },
     {
+      "title": "Biometric Update",
+      "site": "https://www.biometricupdate.com",
+      "feed": "http://feeds.feedburner.com/biometricupdate"
+    },
+    {
       "title": "Ctrl.blog",
       "site": "https://www.ctrl.blog/",
       "feed": "https://feed.ctrl.blog/latest.atom"
