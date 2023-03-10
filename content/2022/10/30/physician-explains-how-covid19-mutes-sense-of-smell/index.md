@@ -20,7 +20,7 @@ location:
   country: Portugal
 ---
 
-In the beginning of the week, I tested [positive for Covid-19](/2022/10/25/kdhorcknir). Even though the symptoms were smilingly gone, yesterday and the day before I noticed my sense of smell was quite odd. I could still smell some things, but not all. In addition, breathing in general had an odd smell. This article was a nice read and explains well how Covid-19 can change our sense of smell.
+In the beginning of the week, I tested positive for Covid-19. Even though the symptoms were smilingly gone, yesterday and the day before I noticed my sense of smell was quite odd. I could still smell some things, but not all. In addition, breathing in general had an odd smell. This article was a nice read and explains well how Covid-19 can change our sense of smell.
 
 > What's more likely, she said, is that SARS-CoV-2 injures sustentacular supporting cells, which are like helper cells for the main neurons that pick up on chemicals in the air and send signals to the brain. They help maintain a healthy ecosystem in which the neurons can thrive, and they help guide the neurons to grow and make the right connections.
 > 
