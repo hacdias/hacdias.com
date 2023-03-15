@@ -71,6 +71,11 @@
       "feed": "https://blog.codinghorror.com/rss/"
     },
     {
+      "title": "Daniel Stenberg",
+      "site": "https://daniel.haxx.se/blog",
+      "feed": "https://daniel.haxx.se/blog/feed/"
+    },
+    {
       "title": "Danny van Kooten",
       "site": "https://dannyvankooten.com/",
       "feed": "https://www.dannyvankooten.com/atom.xml"
