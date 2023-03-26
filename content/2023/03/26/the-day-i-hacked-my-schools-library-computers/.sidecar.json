@@ -1,0 +1,19 @@
+{
+  "targets": [
+    "https://github.com/hacdias/fake-bsod/blob/master/BSOD/main.cpp#L36",
+    "https://hacdias.com/minisites/bsod/index.html"
+  ],
+  "interactions": [
+    {
+      "author": {
+        "name": "Sebastiaan Andeweg",
+        "photo": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+        "url": "https://seblog.nl/"
+      },
+      "published": "2023-03-26T13:13:36Z",
+      "content": "Seb vindt The Day I ”Hacked” My School’s Library Computers van Henrique Dias leuk.",
+      "url": "https://seblog.nl/2023/03/26/1/like",
+      "type": "like"
+    }
+  ]
+}
