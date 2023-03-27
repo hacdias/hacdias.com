@@ -61,7 +61,7 @@ It is reasonably easy, for someone that knew a bit more about Windows, to "fix" 
 
 Some time passes, and somehow no one finds it weird that I'm the only one able to use the computer that has "the virus". I think I even thought about trying to make it spread through the network, but thank - whatever entity might or not be out there - that I did not do it.
 
-After a few weeks, or perhaps months, the IT teacher solves it. The simple way of solving it was to just delete the file from the startup folder. However, I was surprised to discover the IT teacher went to great lengths and completely formatted the computer. Maybe it was very convincing fake virus - which perhaps it is depending on the definition of computer virus.
+After a few weeks, or perhaps months, the IT teacher solves it. The simple way of solving it was to just delete the file from the startup folder. However, I was surprised to discover the IT teacher went to great lengths and completely formatted the computer. Maybe it was very convincing _fake_ virus - which perhaps it is depending on the definition of computer virus.
 
 So here is the weird story of when I "hacked" the library computers of my school. Do I regret it? Yes, and no. On one hand, I know I should've not done it because it is not morally correct. On the other hand, it was still funny and I think that, as kids, we all do questionable things, and they sometimes make an arguably good story.
 
