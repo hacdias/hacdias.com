@@ -1,3 +1,6 @@
+- name: Murder Mystery 2
+  date: 2023-04-02
+  rating: 3
 - name: Wakanda Forever
   date: 2023-02-16
   rating: 4
@@ -842,4 +845,3 @@
 - name: Mickey's Once Upon a Christmas
 - name: I, Robot
 - name: Ghost Rider
-
