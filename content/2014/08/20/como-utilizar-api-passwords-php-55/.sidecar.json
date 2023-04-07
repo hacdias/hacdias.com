@@ -1,7 +1,0 @@
-{
-  "targets": [
-    "http://php.net/manual/en/migration55.changes.php",
-    "http://php.net/manual/en/book.password.php",
-    "http://php.net/manual/pt_BR/password.constants.php"
-  ]
-}

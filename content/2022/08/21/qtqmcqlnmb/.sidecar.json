@@ -1,9 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/micro/2022/08/2022-08-21-znace",
-    "https://github.com/go-gitea/gitea/issues/11028#issuecomment-1018745997",
-    "https://git.hacdias.com"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

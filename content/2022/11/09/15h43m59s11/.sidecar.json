@@ -1,11 +1,4 @@
 {
-  "targets": [
-    "https://dicionario.priberam.org/debandada",
-    "https://hacdias.com/tags/activitypub",
-    "https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html",
-    "https://barryfrost.com/2022/11/i-ve-added-mastodon-syndication-to",
-    "https://brid.gy/"
-  ],
   "replies": [
     {
       "author": {

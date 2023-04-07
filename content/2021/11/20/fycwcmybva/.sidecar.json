@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/posts/bahn2gpx"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

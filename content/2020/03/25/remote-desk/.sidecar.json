@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/micro/2020/03/my-desk/"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

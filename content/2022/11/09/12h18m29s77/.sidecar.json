@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://www.zylstra.org/blog/2022/11/22526/"
-  ],
   "context": {
     "author": {
       "name": "Ton Zijlstra"

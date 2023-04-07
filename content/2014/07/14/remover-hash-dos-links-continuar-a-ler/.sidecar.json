@@ -1,6 +1,0 @@
-{
-  "targets": [
-    "http://codex.wordpress.org/Function_Reference/add_filter",
-    "http://codex.wordpress.org/Plugin_API/Filter_Reference"
-  ]
-}

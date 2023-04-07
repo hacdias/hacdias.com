@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

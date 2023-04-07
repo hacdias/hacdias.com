@@ -1,8 +1,4 @@
 {
-  "targets": [
-    "https://www.gloweindhoven.nl/",
-    "https://www.aachen-tourismus.de/en/discover/events/aachen-christmas-market/"
-  ],
   "interactions": [
     {
       "author": {

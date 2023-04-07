@@ -1,8 +1,4 @@
 {
-  "targets": [
-    "https://xray.p3k.app/",
-    "https://seblog.nl/2020/04/09/2/reply"
-  ],
   "context": {
     "author": {
       "name": "Sebastiaan Andeweg",

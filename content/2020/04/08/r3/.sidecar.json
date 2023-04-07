@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/micro/2020/04/study-emails/"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

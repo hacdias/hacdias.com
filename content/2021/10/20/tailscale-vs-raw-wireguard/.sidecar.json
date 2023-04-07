@@ -1,9 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/micro/2021/10/2021-10-20-lhigd",
-    "https://hacdias.com/articles/2020/11/access-network-behind-cgnat/",
-    "https://tailscale.com/kb/1086/tailscale-vs-wireguard/"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

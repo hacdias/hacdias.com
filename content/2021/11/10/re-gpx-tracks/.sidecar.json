@@ -1,8 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/thoughts/2021/11/gpx-tracks",
-    "https://github.com/hacdias/eagle/issues/34"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

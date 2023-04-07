@@ -1,17 +1,4 @@
 {
-  "targets": [
-    "https://hacdias.com/micro/",
-    "https://hacdias.com/articles/2020/01/owning-reading-log/",
-    "https://trakt.tv",
-    "https://indieweb.org/PESOS",
-    "http://aaronparecki.com/",
-    "https://ownyourswarm.p3k.io/",
-    "https://github.com/hacdias/ownyourtrakt",
-    "https://trakt.docs.apiary.io/",
-    "https://oauth.net/2/",
-    "https://github.com/hacdias/ownyourtrakt#own-your-trakt",
-    "https://hacdias.com/micro/2020/02/removed-watches-checkins/"
-  ],
   "interactions": [
     {
       "author": {

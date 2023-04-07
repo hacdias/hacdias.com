@@ -1,21 +1,4 @@
 {
-  "targets": [
-    "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo",
-    "https://hacdias.com/2020/10/12/rebuilding-eagle-cms",
-    "http://gohugo.io/",
-    "https://hacdias.com/tags/meta",
-    "https://hacdias.com/2021/02/04/is-it-time-build-cms",
-    "https://hacdias.com/contact",
-    "https://github.com/yuin/goldmark",
-    "https://indieauth.com/",
-    "https://hacdias.com/more",
-    "https://hacdias.com/checkins",
-    "https://hacdias.com/watches",
-    "https://hacdias.com/watches/summary",
-    "https://hacdias.com/reads/summary",
-    "https://github.com/hacdias/eagle/issues/34",
-    "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
-  ],
   "replies": [
     {
       "author": {

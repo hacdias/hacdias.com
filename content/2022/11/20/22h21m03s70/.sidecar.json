@@ -1,8 +1,4 @@
 {
-  "targets": [
-    "https://fosstodon.org/@jle/109375213511020485",
-    "https://fosstodon.org/users/jle"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

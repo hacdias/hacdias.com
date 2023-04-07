@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/posts/2022-review"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

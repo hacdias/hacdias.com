@@ -1,9 +1,4 @@
 {
-  "targets": [
-    "https://commentpara.de/",
-    "https://golang.org/pkg/text/template/",
-    "https://gohugo.io/"
-  ],
   "replies": [
     {
       "author": {

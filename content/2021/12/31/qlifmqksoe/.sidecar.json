@@ -1,8 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/micro/2021/12/2021-12-31-berql",
-    "https://www.youtube.com/watch?v=rGJseovT8ug"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

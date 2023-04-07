@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://seblog.nl/2021/11/18/1/indieauth-without-indieauth-com"
-  ],
   "context": {
     "author": {
       "name": "Sebastiaan Andeweg",

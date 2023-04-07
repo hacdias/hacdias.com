@@ -1,10 +1,4 @@
 {
-  "targets": [
-    "https://public.garden/objects/281d102d-3d64-4ad2-a6f9-7135f347a475",
-    "https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/",
-    "https://indieweb.org/",
-    "https://github.com/hacdias/eagle"
-  ],
   "context": {
     "author": {
       "name": "starrwulfe",

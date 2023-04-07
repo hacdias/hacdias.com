@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://aaronparecki.com/gps"
-  ],
   "context": {
     "author": {
       "name": "Aaron Parecki",

@@ -1,8 +1,4 @@
 {
-  "targets": [
-    "https://regexr.com/",
-    "https://jlelse.blog/micro/2020/04/regex101/"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

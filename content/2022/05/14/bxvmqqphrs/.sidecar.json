@@ -1,9 +1,4 @@
 {
-  "targets": [
-    "https://seblog.nl/",
-    "http://seblog.nl/emoji",
-    "https://hacdias.com/emojis"
-  ],
   "interactions": [
     {
       "author": {

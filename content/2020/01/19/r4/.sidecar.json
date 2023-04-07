@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/thoughts/2020/01/optimizing-software/"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

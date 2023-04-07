@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/appydroid/remove-bloatware"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

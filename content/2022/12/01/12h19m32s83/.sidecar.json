@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://chat.brainbaking.com/objects/58edf59f-d274-4b5b-9bae-8ec145de16e1"
-  ],
   "context": {
     "author": {
       "name": "Wouter Groeneveld",

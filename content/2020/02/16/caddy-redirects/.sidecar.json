@@ -1,11 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/",
-    "https://caddyserver.com/v1/docs/import",
-    "https://github.com/gohugoio/hugoDocs/commit/c1ab9894e8292e0a74c43bbca2263b1fb3840f9e",
-    "https://hacdias.com/redirects.txt",
-    "https://hacdias.com/micro/2020/02/updates/"
-  ],
   "context": {
     "author": {
       "name": "Henrique Dias",

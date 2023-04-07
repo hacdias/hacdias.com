@@ -1,31 +1,4 @@
 {
-  "targets": [
-    "https://hacdias.com/stream/",
-    "https://hacdias.com/articles/",
-    "https://hacdias.com/micro/",
-    "https://hacdias.com/photos/",
-    "https://hacdias.com/about/",
-    "https://hacdias.com/meta/",
-    "https://hacdias.com/contact/",
-    "https://hacdias.com/guestbook/",
-    "https://hacdias.com/impossible-list/",
-    "https://hacdias.com/links/",
-    "https://hacdias.com/listens/",
-    "https://hacdias.com/projects/",
-    "https://hacdias.com/resume/",
-    "https://hacdias.com/search/",
-    "https://hacdias.com/uses/",
-    "https://hacdias.com/watches/",
-    "https://hacdias.com/reads/",
-    "https://hacdias.com/tags/",
-    "https://hacdias.com/minisites/bsod/",
-    "https://hacdias.com/minisites/glitch/",
-    "https://hacdias.com/minisites/mapgen/",
-    "https://hacdias.com/minisites/pixelcolormania/",
-    "https://hacdias.com/minisites/thunderstorm/",
-    "https://hacdias.com/minisites/tv-noise/",
-    "http://xkcd.hacdias.com/"
-  ],
   "replies": [
     {
       "author": {

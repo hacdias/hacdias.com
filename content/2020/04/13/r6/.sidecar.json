@@ -1,7 +1,4 @@
 {
-  "targets": [
-    "https://jlelse.blog/links/2020/04/eleventy/"
-  ],
   "context": {
     "author": {
       "name": "Jan-Lukas Else",

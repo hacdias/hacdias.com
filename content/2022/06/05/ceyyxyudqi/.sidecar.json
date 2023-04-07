@@ -1,9 +1,0 @@
-{
-  "targets": [
-    "https://github.com/matrix-org/synapse",
-    "https://github.com/matrix-org/dendrite",
-    "https://tchncs.de/",
-    "https://matrix.org",
-    "https://hacdias.com/contact"
-  ]
-}
