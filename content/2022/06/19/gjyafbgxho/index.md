@@ -4,7 +4,6 @@ published: 2022-06-19T21:46:41.250796138+02:00
 section:
 - photos
 - home
-createdWith: https://micropublish.net/
 photoClass: fg
 properties:
   photo:

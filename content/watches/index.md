@@ -2,9 +2,8 @@
 title: Watches
 description: |
   An extensive list of TV shows and movies I have or am watching right now.
-noShowInteractions: true
-noSendInteractions: true
 template: watches
+noSendInteractions: true
 ---
 
 <style>

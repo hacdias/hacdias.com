@@ -3,7 +3,6 @@ published: 2022-08-21T12:45:42.484305457+02:00
 section:
 - micro
 - home
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - git

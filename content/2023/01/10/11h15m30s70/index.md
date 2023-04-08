@@ -3,7 +3,6 @@ description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2023-01-10T11:15:30.705771913+01:00
 updated: 2023-01-10T11:16:20.852945469+01:00
-createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://jlelse.blog/micro/2023/01/2023-01-10-gvdbv
 location:

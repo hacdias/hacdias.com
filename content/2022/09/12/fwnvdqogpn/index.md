@@ -3,7 +3,6 @@ description: 'Just drank: Hazulnut Coffee'
 published: 2022-09-12T13:22:04+02:00
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

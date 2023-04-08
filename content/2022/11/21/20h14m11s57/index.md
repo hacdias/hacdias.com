@@ -3,7 +3,6 @@ description: Replied to a post on fosstodon.org
 unlisted: true
 published: 2022-11-21T20:14:11.005705868+01:00
 updated: 2022-11-22T23:52:50.183273999+01:00
-createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://chat.brainbaking.com/objects/e54c65fe-1e40-4107-ba2e-aa9ad84b73a5
 location:

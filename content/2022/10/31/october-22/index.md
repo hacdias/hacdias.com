@@ -7,7 +7,6 @@ section:
 taxonomies:
   tags:
   - now
-createdWith: https://hacdias.com/
 ---
 
 October is probably one of my favorite months of the year. Not only because of the vibes falling onto us 🍁 - no pun intented -, or my birthday, but it is also usually packed with events happening here and there. But before we continue, I wish you a great All Hallows' Eve 🎃! 

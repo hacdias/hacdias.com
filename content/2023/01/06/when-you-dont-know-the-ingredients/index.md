@@ -4,7 +4,6 @@ published: 2023-01-06T22:15:23.150895986+01:00
 section:
 - articles
 - home
-createdWith: https://hacdias.com/
 location:
   latitude: 51.44581
   longitude: 5.46175

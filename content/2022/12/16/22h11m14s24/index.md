@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2022-12-16T22:11:14.242547539+01:00
-createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/12/2022-12-16-dfqrq
 location:

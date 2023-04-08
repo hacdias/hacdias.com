@@ -3,7 +3,6 @@ description: 'Just ate: Bapamanga'
 published: 2022-08-23T11:40:54Z
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

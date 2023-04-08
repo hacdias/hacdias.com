@@ -5,7 +5,6 @@ published: 2022-10-29T23:04:26.261617718+02:00
 updated: 2022-10-30T00:03:24.046972204+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/
 location:

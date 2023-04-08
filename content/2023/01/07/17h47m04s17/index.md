@@ -3,7 +3,6 @@ description: 'Just drank: Tiramisu Latte'
 published: 2023-01-07T14:10:55.635168+01:00
 section:
 - drinks
-createdWith: https://hacdias.com/
 properties:
   drank:
     properties:

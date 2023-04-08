@@ -3,7 +3,6 @@ description: 'Just ate: Suspiro'
 published: 2022-08-26T19:15:27Z
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

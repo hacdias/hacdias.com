@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2022-12-14T19:01:41.852620641+01:00
-createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/micro/2022/12/2022-12-14-lsksp

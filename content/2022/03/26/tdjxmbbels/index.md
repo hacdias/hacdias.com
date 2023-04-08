@@ -3,7 +3,6 @@ description: 'Just drank: Almdudler'
 published: 2022-03-26T15:10:19Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

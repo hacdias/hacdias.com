@@ -3,7 +3,6 @@ description: 'Just drank: Cold Brew Iced Coffee (Lucifer Costa Rica)'
 published: 2022-09-04T06:39:18Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

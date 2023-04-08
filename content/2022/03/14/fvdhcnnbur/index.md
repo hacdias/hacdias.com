@@ -2,7 +2,6 @@
 description: Replied to a post on rusingh.com
 unlisted: true
 published: 2022-03-14T07:41:13.940614796+01:00
-createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://rusingh.com/email-is-nice/
 taxonomies:

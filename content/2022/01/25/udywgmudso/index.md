@@ -3,7 +3,6 @@ description: 'Just drank: Assam Gold Tea'
 published: 2022-01-25T08:46:30+01:00
 section:
 - drinks
-createdWith: https://teacup.p3k.io/
 properties:
   drank:
     properties:

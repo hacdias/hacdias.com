@@ -5,7 +5,6 @@ description: Bookmarked a post on catern.com
 published: 2021-11-17T22:45:51.645376528Z
 section:
 - bookmarks
-createdWith: https://indieweb.org/Shortcuts
 properties:
   bookmark-of: https://catern.com/introduction.html
 ---

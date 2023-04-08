@@ -5,7 +5,6 @@ published: 2023-01-02T15:06:13.432560594+01:00
 section:
 - home
 - bookmarks
-createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/

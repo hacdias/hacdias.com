@@ -4,7 +4,6 @@ published: 2022-11-04T12:49:32+01:00
 section:
 - micro
 - home
-createdWith: https://ownyourswarm.p3k.io/
 photoClass: fg
 properties:
   photo:

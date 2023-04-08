@@ -3,7 +3,6 @@ description: 'Just ate: Straciatella Afogatto'
 published: 2022-09-21T14:46:34+02:00
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

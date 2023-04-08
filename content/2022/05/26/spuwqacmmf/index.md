@@ -3,7 +3,6 @@ published: 2022-05-26T15:10:00.315434425+02:00
 section:
 - home
 - micro
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - email

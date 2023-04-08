@@ -3,7 +3,6 @@ description: At Angie’s Juicebar
 published: 2022-11-04T12:20:59+01:00
 section:
 - food
-createdWith: https://ownyourswarm.p3k.io/
 properties:
   ate:
     properties:

@@ -5,7 +5,6 @@ published: 2022-10-30T00:48:58.728486734+02:00
 updated: 2022-10-30T00:49:36.078417102+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://twitter.com/giovannigruni/status/1582441784445063168
 location:

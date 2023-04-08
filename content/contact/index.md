@@ -1,7 +1,6 @@
 ---
 title: Contact
 description: This is how you can contact me.
-noShowInteractions: true
 noSendInteractions: true
 ---
 

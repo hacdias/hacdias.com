@@ -2,7 +2,6 @@
 description: Replied to a post on twitter.com
 unlisted: true
 published: 2022-11-08T22:44:42.230207255+01:00
-createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://twitter.com/diogoredin/status/1590041191890190337?s=12&t=qQtuu5ke316_8SCJ1hXO9g
   syndication:

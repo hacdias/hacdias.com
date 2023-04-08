@@ -3,7 +3,6 @@ published: 2022-08-18T08:14:13.430635453+02:00
 section:
 - micro
 - home
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - masters

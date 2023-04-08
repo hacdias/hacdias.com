@@ -4,7 +4,6 @@ updated: 2022-10-23T11:30:26.579799606+02:00
 section:
 - photos
 - home
-createdWith: https://micropublish.net/
 photoClass: grid-flwvgoaeyu fg
 properties:
   photo:

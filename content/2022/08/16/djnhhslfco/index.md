@@ -4,7 +4,6 @@ description: Bookmarked a post on blog.jim-nielsen.com
 published: 2022-08-16T11:36:34.707039593+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://blog.jim-nielsen.com/2022/well-known-links-resource/
 taxonomies:

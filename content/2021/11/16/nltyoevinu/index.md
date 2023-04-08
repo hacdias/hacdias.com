@@ -4,7 +4,6 @@ published: 2021-11-16T15:48:38+01:00
 section:
 - micro
 - home
-createdWith: https://ownyourswarm.p3k.io/
 properties:
   photo: cdn:/1dabe5600de36bb2940321956e55d13bde6de5b8f6affecc09ae8cf74d790894
 location:

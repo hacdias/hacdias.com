@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2022-12-15T15:01:38.47022413+01:00
-createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/micro/2022/12/2022-12-15-btqwr

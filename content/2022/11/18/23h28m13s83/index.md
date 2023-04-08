@@ -3,7 +3,6 @@ published: 2022-11-18T23:28:13.830416348+01:00
 section:
 - micro
 - home
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - activitypub

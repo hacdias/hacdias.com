@@ -3,7 +3,6 @@ description: 'Just ate: Fancy Breakfast'
 published: 2022-10-01T10:05:36+02:00
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

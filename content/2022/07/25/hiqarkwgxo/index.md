@@ -4,7 +4,6 @@ description: Bookmarked a post on handshake.org
 published: 2022-07-25T12:51:02.616415177+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://handshake.org/
 taxonomies:

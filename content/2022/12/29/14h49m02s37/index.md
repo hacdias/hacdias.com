@@ -2,7 +2,6 @@
 description: Replied to a post on peoplemaking.games
 unlisted: true
 published: 2022-12-29T14:49:02.374087912+01:00
-createdWith: https://indieweb.org/Shortcuts
 properties:
   ap-in-reply-to: https://peoplemaking.games/users/cmddx/statuses/109595069068050038
   in-reply-to: https://peoplemaking.games/@cmddx/109595069068050038

@@ -3,7 +3,6 @@ description: 'Just drank: Hot Chocolate'
 published: 2022-11-22T13:33:22+01:00
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

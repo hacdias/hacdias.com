@@ -3,7 +3,6 @@ description: 'Just ate: Flammkuchen'
 published: 2022-12-17T19:40:04Z
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

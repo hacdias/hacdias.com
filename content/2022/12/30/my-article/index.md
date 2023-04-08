@@ -4,7 +4,6 @@ draft: true
 section:
 - articles
 - home
-createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - example

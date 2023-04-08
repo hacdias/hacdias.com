@@ -3,7 +3,6 @@ published: 2022-03-22T14:53:50.670952492+01:00
 section:
 - micro
 - home
-createdWith: https://micropublish.net/
 properties:
   photo: cdn:/375317101cf1661c9556a05b7aa51b579e68c269970897dc95c021c253e56981
 location:

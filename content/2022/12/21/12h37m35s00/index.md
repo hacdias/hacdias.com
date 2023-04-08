@@ -3,7 +3,6 @@ description: 'Just drank: Ermera Coffee'
 published: 2022-12-21T12:37:35+01:00
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

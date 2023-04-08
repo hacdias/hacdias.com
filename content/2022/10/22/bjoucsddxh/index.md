@@ -4,7 +4,6 @@ published: 2022-10-22T23:18:01+02:00
 section:
 - micro
 - home
-createdWith: https://ownyourswarm.p3k.io/
 properties:
   category:
     properties:

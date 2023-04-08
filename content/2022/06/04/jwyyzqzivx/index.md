@@ -3,7 +3,6 @@ published: 2022-06-04T12:48:12.686181075+02:00
 section:
 - home
 - micro
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - security

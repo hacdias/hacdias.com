@@ -3,7 +3,6 @@ published: 2022-12-24T19:30:47.740246787+01:00
 section:
 - micro
 - home
-createdWith: https://hacdias.com/
 location:
   latitude: 37.50279
   longitude: -8.29792

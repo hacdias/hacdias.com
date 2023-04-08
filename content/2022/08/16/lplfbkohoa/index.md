@@ -4,7 +4,6 @@ description: Bookmarked a post on 512kb.club
 published: 2022-08-16T12:37:20.198330738+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://512kb.club/
 taxonomies:

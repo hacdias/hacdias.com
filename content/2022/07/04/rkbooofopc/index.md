@@ -3,7 +3,6 @@ description: 'Just drank: Homemade Iced Coffee'
 published: 2022-07-04T07:23:49Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

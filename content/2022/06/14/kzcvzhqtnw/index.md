@@ -3,7 +3,6 @@ published: 2022-06-14T23:19:28.018247067+02:00
 section:
 - home
 - micro
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - indieweb

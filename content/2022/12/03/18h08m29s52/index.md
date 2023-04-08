@@ -2,7 +2,6 @@
 description: Replied to a post on shkspr.mobi
 unlisted: true
 published: 2022-12-03T18:08:29.005299319+01:00
-createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://shkspr.mobi/blog/2022/12/the-ethics-of-syndicating-comments-using-webmentions/
 location:

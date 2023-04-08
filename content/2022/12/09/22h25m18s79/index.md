@@ -6,7 +6,6 @@ updated: 2022-12-09T22:25:49.657663588+01:00
 section:
 - home
 - bookmarks
-createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://macwright.com/2022/12/09/activitypub.html

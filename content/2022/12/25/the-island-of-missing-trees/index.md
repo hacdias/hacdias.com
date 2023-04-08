@@ -3,7 +3,6 @@ description: 'The Island of Missing Trees by Elif Shafak (ISBN: 9780241988725)'
 published: 2022-12-25T11:20:30.172268833+01:00
 section:
 - readings
-createdWith: https://hacdias.com/
 properties:
   rating: 4
   read-of:

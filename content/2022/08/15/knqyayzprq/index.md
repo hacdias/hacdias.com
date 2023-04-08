@@ -3,7 +3,6 @@ published: 2022-08-15T22:15:40.731616159+02:00
 section:
 - micro
 - home
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - wiki

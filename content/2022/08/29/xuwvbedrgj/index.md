@@ -2,7 +2,6 @@
 description: Replied to a post on hacdias.com
 unlisted: true
 published: 2022-08-29T13:16:12.519857344+02:00
-createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://hacdias.com/2022/08/28/zrzydudgqs
 context:

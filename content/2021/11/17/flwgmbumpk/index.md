@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2021-11-17T21:25:07.764318042Z
-createdWith: https://monocle.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/appydroid/remove-bloatware
 context:

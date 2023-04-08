@@ -3,7 +3,6 @@ published: 2022-12-15T10:25:06.868551305+01:00
 section:
 - micro
 - home
-createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - meta

@@ -4,7 +4,6 @@ description: 'Strange Case of Dr Jekyll and Mr Hyde and Other Stories by Robert 
 published: 2022-03-23T19:06:51.132363451+01:00
 section:
 - readings
-createdWith: https://hacdias.com/
 properties:
   rating: 3
   read-of:

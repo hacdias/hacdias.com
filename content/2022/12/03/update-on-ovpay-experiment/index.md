@@ -4,7 +4,6 @@ published: 2022-12-03T19:33:52.155473488+01:00
 section:
 - articles
 - home
-createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - ovpay

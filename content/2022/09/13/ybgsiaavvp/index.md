@@ -3,7 +3,6 @@ description: 'Just ate: La Domenica Pizza'
 published: 2022-09-13T14:10:12+02:00
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

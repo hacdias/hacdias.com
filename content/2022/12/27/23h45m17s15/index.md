@@ -2,7 +2,6 @@
 description: Replied to a post on jlg.micro.blog
 unlisted: true
 published: 2022-12-27T23:45:17.153172578+01:00
-createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlg.micro.blog/2022/12/27/174044.html

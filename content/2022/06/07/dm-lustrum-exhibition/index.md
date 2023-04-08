@@ -4,7 +4,6 @@ published: 2022-06-07T09:51:13.74567452+02:00
 section:
 - articles
 - home
-createdWith: https://micropublish.net/
 photoClass: grid-2022-hlrrfoveli fg
 properties:
   photo:

@@ -1,7 +1,6 @@
 ---
 title: Ephemeral vs. Permanent Content
 draft: true
-createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - example

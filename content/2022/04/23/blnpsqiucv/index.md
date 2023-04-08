@@ -3,7 +3,6 @@ description: 'Just drank: Violet Spritz'
 published: 2022-04-23T17:44:59Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2022-03-19T09:52:34.320395639+01:00
-createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/03/2022-03-18-icwbz
 location:

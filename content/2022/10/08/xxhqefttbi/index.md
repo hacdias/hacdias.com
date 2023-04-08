@@ -3,7 +3,6 @@ published: 2022-10-08T11:15:11.331447455+02:00
 section:
 - micro
 - home
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - macos

@@ -3,7 +3,6 @@ description: 'Nightfall and Other Stories by Isaac Asimov (ISBN: 9780593357460)'
 published: 2022-03-23T19:05:54.4308607+01:00
 section:
 - readings
-createdWith: https://hacdias.com/
 properties:
   rating: 3
   read-of:

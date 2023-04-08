@@ -3,7 +3,6 @@ description: 'Just drank: Iced Coffee'
 published: 2022-06-07T07:35:34Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

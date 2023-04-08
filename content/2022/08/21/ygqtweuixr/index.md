@@ -3,7 +3,6 @@ published: 2022-08-21T18:46:56.060714286+02:00
 section:
 - micro
 - home
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - docker

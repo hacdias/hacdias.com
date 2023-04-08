@@ -4,7 +4,6 @@ published: 2023-01-31T21:35:03.498669637+01:00
 section:
 - home
 - articles
-createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - now

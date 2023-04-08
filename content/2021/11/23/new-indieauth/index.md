@@ -3,7 +3,6 @@ published: 2021-11-23T14:44:59.463419339Z
 section:
 - home
 - micro
-createdWith: https://quill.p3k.io/
 taxonomies:
   tags:
   - indieauth

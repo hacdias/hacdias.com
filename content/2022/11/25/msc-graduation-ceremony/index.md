@@ -5,7 +5,6 @@ updated: 2022-12-01T15:30:15.269071746+01:00
 section:
 - articles
 - home
-createdWith: https://hacdias.com/
 photoClass: fg
 properties:
   photo:

@@ -4,7 +4,6 @@ updated: 2022-09-16T14:40:17.461430393+02:00
 section:
 - micro
 - home
-createdWith: https://micropublish.net/
 properties:
   syndication:
   - https://twitter.com/hacdias/status/1570754446644375559

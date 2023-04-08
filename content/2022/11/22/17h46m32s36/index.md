@@ -2,7 +2,6 @@
 description: Replied to a post on jan.boddez.net
 unlisted: true
 published: 2022-11-22T17:46:32.363274826+01:00
-createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jan.boddez.net/notes/4c1ac6934d
 location:

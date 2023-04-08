@@ -3,7 +3,6 @@ description: 'Just drank: Ananás Bubble Tea'
 published: 2022-06-04T15:25:25Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

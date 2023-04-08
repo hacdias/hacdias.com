@@ -5,7 +5,6 @@ description: Bookmarked a post on www.jvt.me
 published: 2021-11-16T20:59:57.310825847Z
 section:
 - bookmarks
-createdWith: https://micropublish.net
 properties:
   bookmark-of: https://www.jvt.me/posts/2019/10/20/indieweb-talk/
 taxonomies:

@@ -5,7 +5,6 @@ updated: 2022-12-01T20:52:52.311585797+01:00
 section:
 - home
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

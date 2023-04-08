@@ -4,7 +4,6 @@ published: 2022-01-01T12:00:00+01:00
 section:
 - articles
 - home
-createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - year-in-music

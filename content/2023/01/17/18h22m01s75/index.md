@@ -4,7 +4,6 @@ description: Bookmarked a post on missing.csail.mit.edu
 published: 2023-01-17T18:22:01.755386204+01:00
 section:
 - bookmarks
-createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://missing.csail.mit.edu/

@@ -3,7 +3,6 @@ published: 2021-12-04T07:51:49.279301331Z
 section:
 - home
 - micro
-createdWith: https://quill.p3k.io/
 taxonomies:
   tags:
   - meta

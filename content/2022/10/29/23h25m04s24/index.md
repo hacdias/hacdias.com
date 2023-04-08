@@ -4,7 +4,6 @@ description: Bookmarked a post on ramses.blog
 published: 2022-10-29T23:25:04.249148895+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://ramses.blog/how-take-notes-part-1/
 location:

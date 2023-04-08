@@ -4,7 +4,6 @@ description: Bookmarked a post on beepb00p.xyz
 published: 2022-10-30T00:18:23.352666361+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://beepb00p.xyz/annotating.html
 location:

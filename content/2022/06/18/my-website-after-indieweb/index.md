@@ -4,7 +4,6 @@ published: 2022-06-18T18:42:22.407026981+02:00
 section:
 - articles
 - home
-createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - meta

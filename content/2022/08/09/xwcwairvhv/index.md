@@ -4,7 +4,6 @@ published: 2022-08-09T18:20:17+02:00
 section:
 - micro
 - home
-createdWith: https://ownyourswarm.p3k.io/
 photoClass: grid-xwcwairvhv fg
 properties:
   photo:

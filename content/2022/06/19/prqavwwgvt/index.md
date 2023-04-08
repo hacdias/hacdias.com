@@ -3,7 +3,6 @@ description: 'Just drank: Hugo Spritz'
 published: 2022-06-19T17:34:38Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

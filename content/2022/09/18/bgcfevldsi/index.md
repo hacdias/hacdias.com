@@ -3,7 +3,6 @@ description: 'Just ate: Fig and Myrtille Gelato'
 published: 2022-09-18T16:18:33+02:00
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

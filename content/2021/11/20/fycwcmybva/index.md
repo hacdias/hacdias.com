@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2021-11-20T17:39:14.804264871Z
-createdWith: https://monocle.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/posts/bahn2gpx
 context:

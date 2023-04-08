@@ -4,7 +4,6 @@ description: Bookmarked a post on theforest.link
 published: 2022-12-26T20:22:04.072114444+01:00
 section:
 - bookmarks
-createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://theforest.link/

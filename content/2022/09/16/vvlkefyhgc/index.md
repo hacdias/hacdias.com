@@ -3,7 +3,6 @@ description: 'Just ate: Focaccia'
 published: 2022-09-16T14:15:04+02:00
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

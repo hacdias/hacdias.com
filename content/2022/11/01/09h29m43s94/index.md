@@ -5,7 +5,6 @@ published: 2022-11-01T09:29:43.945947114+01:00
 updated: 2022-11-01T09:32:46.331087525+01:00
 section:
 - bookmarks
-createdWith: https://indieweb.org/Shortcuts
 properties:
   bookmark-of: https://blog.jim-nielsen.com/2022/website-fidelity-browser/
 location:

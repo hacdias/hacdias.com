@@ -4,7 +4,6 @@ published: 2022-03-13T08:10:31Z
 section:
 - home
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

@@ -4,7 +4,6 @@ description: A list of all the games I have played, I am playing, and some track
   information.
 published: 2022-08-23T13:08:52.585553096+02:00
 updated: 2022-08-31T21:25:21.954004051+02:00
-createdWith: https://hacdias.com/
 ---
 
 <div class="box">

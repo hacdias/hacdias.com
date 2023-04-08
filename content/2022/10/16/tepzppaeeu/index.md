@@ -4,7 +4,6 @@ published: 2022-10-16T07:23:38Z
 updated: 2022-10-16T09:28:39.965000836+02:00
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

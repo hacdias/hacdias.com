@@ -3,7 +3,6 @@ published: 2021-12-30T23:17:39.479536101Z
 section:
 - home
 - micro
-createdWith: https://quill.p3k.io/
 location:
   latitude: 37.50275
   longitude: -8.29794

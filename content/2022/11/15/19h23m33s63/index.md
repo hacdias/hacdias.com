@@ -3,7 +3,6 @@ published: 2022-11-15T19:23:33+01:00
 section:
 - micro
 - home
-createdWith: https://hacdias.com/
 taxonomies:
   tags:
   - cryptography

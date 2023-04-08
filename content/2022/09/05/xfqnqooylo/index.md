@@ -3,7 +3,6 @@ published: 2022-09-05T07:41:47.351450039+02:00
 section:
 - photos
 - home
-createdWith: https://micropublish.net/
 photoClass: grid-xfqnqooylo fg
 properties:
   photo:

@@ -5,7 +5,6 @@ published: 2022-10-30T00:22:03.494296718+02:00
 updated: 2022-10-30T00:50:13.255143536+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://twitter.com/andrestaltz/status/1583556396636741633
 taxonomies:

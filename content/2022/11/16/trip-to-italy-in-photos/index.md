@@ -5,7 +5,6 @@ published: 2022-11-16T14:28:29.381987946+01:00
 section:
 - photos
 - home
-createdWith: https://hacdias.com/
 photoClass: grid-italie-2022 fg
 properties:
   photo:

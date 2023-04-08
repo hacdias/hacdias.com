@@ -3,7 +3,6 @@ description: 'Just drank: Lavender Bubble Tea'
 published: 2022-05-04T17:50:01Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

@@ -1,6 +1,5 @@
 ---
 title: More
-noShowInteractions: true
 noSendInteractions: true
 ---
 

@@ -2,7 +2,6 @@
 description: Replied to a post on brainbaking.com
 unlisted: true
 published: 2022-12-28T10:55:21.243068686+01:00
-createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://brainbaking.com/post/2022/12/i-joined-the-dos-game-club/

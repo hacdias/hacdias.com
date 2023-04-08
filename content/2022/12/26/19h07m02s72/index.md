@@ -3,7 +3,6 @@ description: Replied to a post on brainbaking.com
 unlisted: true
 published: 2022-12-26T19:07:02.721848524+01:00
 updated: 2022-12-26T19:07:32.319302669+01:00
-createdWith: https://hacdias.com/
 properties:
   in-reply-to: https://brainbaking.com/notes/2022/12/26h18m18s48/
 location:

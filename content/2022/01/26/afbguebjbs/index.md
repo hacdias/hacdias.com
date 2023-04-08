@@ -2,7 +2,6 @@
 description: Replied to a post on twitter.com
 unlisted: true
 published: 2022-01-26T08:44:08.280630885Z
-createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://twitter.com/DarkSprouty/status/1486250061206065155
   syndication:

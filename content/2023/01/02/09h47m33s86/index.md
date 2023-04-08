@@ -3,7 +3,6 @@ description: Replied to a post on public.garden
 unlisted: true
 published: 2023-01-02T09:47:33.867096205+01:00
 updated: 2023-01-02T09:57:18.628132399+01:00
-createdWith: https://hacdias.com/
 properties:
   ap-in-reply-to: https://public.garden/objects/281d102d-3d64-4ad2-a6f9-7135f347a475
   in-reply-to: https://public.garden/objects/281d102d-3d64-4ad2-a6f9-7135f347a475

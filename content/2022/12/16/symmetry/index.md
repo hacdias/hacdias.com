@@ -5,7 +5,6 @@ updated: 2022-12-16T20:36:46.631435346+01:00
 section:
 - photos
 - home
-createdWith: https://micropublish.net/
 properties:
   photo: cdn:/7b6cbda7095232a61af0780fd23f1f5e43484a6178a8642366453190c6d2b280
   syndication: https://www.instagram.com/p/CmPZ_VBoXh7

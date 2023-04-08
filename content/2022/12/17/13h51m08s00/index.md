@@ -3,7 +3,6 @@ description: 'Just ate: Reibekuchen'
 published: 2022-12-17T13:51:08Z
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

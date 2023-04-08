@@ -4,7 +4,6 @@ description: Bookmarked a post on eta.st
 published: 2023-02-07T15:05:28.595922809+01:00
 section:
 - bookmarks
-createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://eta.st/2023/01/31/rail-tickets.html

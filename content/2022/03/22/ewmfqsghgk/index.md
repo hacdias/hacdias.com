@@ -3,7 +3,6 @@ published: 2022-03-22T14:55:02.252094352+01:00
 section:
 - home
 - micro
-createdWith: https://micropublish.net/
 taxonomies:
   tags:
   - university

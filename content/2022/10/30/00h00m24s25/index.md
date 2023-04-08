@@ -4,7 +4,6 @@ description: Bookmarked a post on gregoryszorc.com
 published: 2022-10-30T00:00:24.258556382+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn't-use-git-lfs/
 location:

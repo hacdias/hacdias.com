@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2022-12-19T08:47:52.063841875+01:00
-createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://jlelse.blog/links/2022/12/airtags-dhl
 location:

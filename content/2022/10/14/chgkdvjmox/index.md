@@ -3,7 +3,6 @@ description: 'Just drank: French 76'
 published: 2022-10-14T19:55:10+02:00
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

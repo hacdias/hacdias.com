@@ -4,7 +4,6 @@ description: Bookmarked a post on www.technologyreview.com
 published: 2022-10-30T00:03:03.267541027+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/
 location:

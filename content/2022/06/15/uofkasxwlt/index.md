@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2022-06-15T09:04:11.965707199+02:00
-createdWith: https://micropublish.net/
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/06/2022-06-15-xlwja
 location:

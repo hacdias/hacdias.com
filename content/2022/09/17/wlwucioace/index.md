@@ -3,7 +3,6 @@ description: 'Just ate: Pizza LiViO'
 published: 2022-09-17T19:02:19Z
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

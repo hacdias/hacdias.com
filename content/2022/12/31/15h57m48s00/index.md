@@ -3,7 +3,6 @@ description: 'Just ate: Sesame Taro Bao'
 published: 2022-12-31T15:57:48Z
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

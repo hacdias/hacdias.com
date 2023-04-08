@@ -2,7 +2,6 @@
 description: Replied to a post on ieji.de
 unlisted: true
 published: 2022-12-31T08:14:37.705598522+01:00
-createdWith: https://indieweb.org/Shortcuts
 properties:
   ap-in-reply-to: https://ieji.de/users/martijn/statuses/109605090965012384
   in-reply-to: https://ieji.de/@martijn/109605090965012384

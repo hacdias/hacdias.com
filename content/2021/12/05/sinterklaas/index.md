@@ -3,7 +3,6 @@ published: 2021-12-05T21:46:59.051716579Z
 section:
 - micro
 - home
-createdWith: https://quill.p3k.io/
 properties:
   photo: cdn:/09c85f99607c3e8cfb5de5dc8944182fb1a0823a5efd7be36c3b0b0f315006ba
 location:

@@ -3,7 +3,6 @@ published: 2021-12-05T13:28:00.078685951Z
 section:
 - home
 - micro
-createdWith: https://quill.p3k.io/
 properties:
   syndication:
   - https://twitter.com/hacdias/status/1467486044312543233

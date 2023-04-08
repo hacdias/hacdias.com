@@ -3,7 +3,6 @@ published: 2021-11-30T14:12:39.305465387Z
 section:
 - home
 - micro
-createdWith: https://quill.p3k.io/
 taxonomies:
   tags:
   - university

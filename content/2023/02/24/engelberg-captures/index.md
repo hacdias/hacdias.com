@@ -4,7 +4,6 @@ published: 2023-02-24T14:13:39.745831911+01:00
 section:
 - photos
 - home
-createdWith: https://hacdias.com/
 photoClass: grid-engelberg-2023 fg
 properties:
   photo:

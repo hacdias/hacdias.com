@@ -4,7 +4,6 @@ updated: 2022-12-30T23:38:27.137874089+01:00
 section:
 - micro
 - home
-createdWith: https://indieweb.org/Shortcuts
 location:
   latitude: 51.44590279244613
   longitude: 5.461427238708647

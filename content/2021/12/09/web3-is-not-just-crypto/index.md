@@ -2,7 +2,6 @@
 description: Replied to a post on jlelse.blog
 unlisted: true
 published: 2021-12-09T07:17:12.106508098Z
-createdWith: https://quill.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/links/2021/12/real-web3
 location:

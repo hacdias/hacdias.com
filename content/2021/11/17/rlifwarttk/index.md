@@ -3,7 +3,6 @@ published: 2021-11-17T08:09:37.825393702Z
 section:
 - home
 - micro
-createdWith: https://micropublish.net
 ---
 
 Yesterday I [mentioned](/2021/11/16/jmeqbzfusb) I was having some issues with [Quill] and [Teacup] and I hoped it was solved today, as Cloudflare is reporting [no issues](https://www.cloudflarestatus.com/). However, the same issue remains. If I try to upload a photo via Quill or Teacup, it fails saying that there's no location header. Looking at the debug logs, these are the headers:

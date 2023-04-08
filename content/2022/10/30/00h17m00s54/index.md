@@ -4,7 +4,6 @@ description: Bookmarked a post on matt-rickard.com
 published: 2022-10-30T00:17:00.541708768+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://matt-rickard.com/the-programmable-web
 ---

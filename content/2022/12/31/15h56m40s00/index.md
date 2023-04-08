@@ -3,7 +3,6 @@ description: 'Just drank: Tiramisu Bubble Tea'
 published: 2022-12-31T15:56:40Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

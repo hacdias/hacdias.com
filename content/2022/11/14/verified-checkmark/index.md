@@ -5,7 +5,6 @@ published: 2022-11-14T11:41:03.405826199+01:00
 section:
 - articles
 - home
-createdWith: https://micropublish.net/
 properties:
   photo:
   - cdn:/1858a747667c2d9b8c64ccac04679aae7c3caacabadcf172c44ceca288aaae7b

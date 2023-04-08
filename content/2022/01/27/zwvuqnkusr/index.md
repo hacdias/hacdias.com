@@ -2,7 +2,6 @@
 description: Replied to a post on twitter.com
 unlisted: true
 published: 2022-01-27T10:50:21.759056586Z
-createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://twitter.com/simonoxfphys/status/1486641428281368582
   syndication:

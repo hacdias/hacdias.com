@@ -3,7 +3,6 @@ description: 'Just ate: Pancakes'
 published: 2022-12-17T19:19:04Z
 section:
 - food
-createdWith: https://micropublish.net/
 properties:
   ate:
     properties:

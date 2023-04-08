@@ -3,7 +3,6 @@ published: 2022-02-16T14:58:02.745159022+01:00
 section:
 - home
 - micro
-createdWith: https://micropublish.net/
 location:
   latitude: 51.43252
   longitude: 5.48617

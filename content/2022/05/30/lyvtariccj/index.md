@@ -3,7 +3,6 @@ published: 2022-05-30T20:10:52.80044081+02:00
 section:
 - home
 - micro
-createdWith: https://micropublish.net/
 properties:
   syndication:
   - https://twitter.com/hacdias/status/1531337363900837891

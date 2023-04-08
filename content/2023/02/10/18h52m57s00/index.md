@@ -3,7 +3,6 @@ description: 'Just drank: Violet '
 published: 2023-02-10T18:52:57+01:00
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

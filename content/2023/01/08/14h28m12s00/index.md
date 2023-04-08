@@ -3,7 +3,6 @@ description: 'Just drank: Chai Bubble Tea '
 published: 2023-01-08T14:28:12Z
 section:
 - drinks
-createdWith: https://micropublish.net/
 properties:
   drank:
     properties:

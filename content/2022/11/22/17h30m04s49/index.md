@@ -4,7 +4,6 @@ description: Bookmarked a post on chreke.com
 published: 2022-11-22T17:30:04.490005507+01:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://chreke.com/little-languages.html
 location:

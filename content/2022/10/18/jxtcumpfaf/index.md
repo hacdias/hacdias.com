@@ -4,7 +4,6 @@ description: Bookmarked a post on blog.jim-nielsen.com
 published: 2022-10-18T09:39:52.304629092+02:00
 section:
 - bookmarks
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://blog.jim-nielsen.com/2022/website-fidelity/
 location:

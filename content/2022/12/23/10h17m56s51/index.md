@@ -5,7 +5,6 @@ published: 2022-12-23T10:17:56.510734365+01:00
 section:
 - bookmarks
 - home
-createdWith: https://hacdias.com/
 properties:
   bookmark-of:
   - https://austinhenley.com/blog/programmingasplay.html

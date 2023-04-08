@@ -7,7 +7,6 @@ section:
 taxonomies:
   tags:
   - now
-createdWith: https://hacdias.com/
 ---
 
 August is ending and with it, most people's summer vacations. It's time for school, university and work again. However, I did not have that much of a vacation yet.

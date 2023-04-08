@@ -6,7 +6,6 @@ updated: 2022-10-30T10:53:20.283126352+01:00
 section:
 - bookmarks
 - home
-createdWith: https://micropublish.net/
 properties:
   bookmark-of: https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/
 taxonomies:
