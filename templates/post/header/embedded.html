@@ -1,14 +1,13 @@
 {{ define "post/header/embedded" }}
   {{ $mf2 := .Helper }}
   {{ $type := $mf2.PostType }}
-  {{ $sidecar := .GetSidecar }}
   {{ $url := $mf2.String $mf2.TypeProperty }}
   
   <blockquote class="h-cite box u-{{ $mf2.TypeProperty }}">
-    {{ with $sidecar.Context }}
+    {{ with .Context }}
       <p class=small>
         <span class="u-author h-card">
-          <strong class="p-name">{{ with .Author.Name }}{{ . }}{{ else }}Unknown{{ end }}</strong>
+          <strong class="p-name">{{ with .Author }}{{ . }}{{ else }}Unknown{{ end }}</strong>
         </span>
         •
         <a rel="noopener noreferrer" href="{{ .URL }}" class="u-url nl">
