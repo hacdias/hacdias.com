@@ -11,6 +11,16 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: '@kandr3s online base'
+  url: https://kandr3s.co/notes/2022-08-15-wlaeo
+  content: I think there’s value in Likes. For me they’re just a way to let the author
+    know I enjoyed their post. In my case they’re not mean to be public so I keep
+    them unlisted. Inspired by your Listens I added a similar section on my website,
+    but it gets one post per month or whenever I mark a song as “Loved” on my music
+    player. As for TV Shows Watches, it might be a good idea to post only about completed
+    seasons?
+  published: 2022-08-15T06:59:49Z
 ---
 
 Uh, I like the idea of keeping the likes unlisted. Perhaps that's a great idea. Regarding the listens and watches: I like to collect all the information, and since I have it, why not display it? Besides, the way I'm collecting the listens and watches information right now makes it a bit difficult to work with, so I'm not yet 100% sure how I'm gonna change it.

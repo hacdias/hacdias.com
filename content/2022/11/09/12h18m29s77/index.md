@@ -11,6 +11,15 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Ton Zijlstra
+  url: https://www.zylstra.org/blog/2022/11/22526/
+  content: In reply to Issues With DigiD as a Foreigner by Henrique Dias That’s very
+    inconvenient. So what’s the alternative, if you can’t use DigId? Going by in person
+    somewhere, phone based? And will the EU ID efforts help, because those aim at
+    being able to log into gov services across the EU with your own national government
+    e-ID method, iirc?
+  published: 2022-11-09T12:02:20+01:00
 ---
 
 Regarding the alternative: I can use the DigiD for some things, such as filling taxes. But not for others that require ID check, such as checking healthcare data. The alternative is to either call, or go in-person indeed.

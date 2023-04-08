@@ -8,6 +8,26 @@ taxonomies:
   tags:
   - blockchain
   - cryptocurrency
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/thoughts/2020/12/crypto-bs
+  content: 'One keeps hearing about some cryptocurrency projects and how people got
+    rich with Bitcoin. But somehow I don’t understand the whole purpose behind it
+    and I’m beginning to suspect that it’s just a pyramid scheme. Wouldn’t there be
+    much better ways to exchange money anonymously and uncensored? In order to generate
+    any kind of coins, a lot of electricity is used (also from fossil fuels or atomic
+    energy), but until today no project based on cryptocurrencies or the blockchain
+    principle has really caught on. Or am I wrong? Update in reply to Henrique Dias:
+    I am aware that “crypto” originally comes from “cryptography” and cryptocurrencies
+    also have to do with cryptography. I was not aware that the Proof of Stake concept
+    existed, but it seems like a good idea to reduce the enormous energy consumption.
+    Thanks for mentioning it! My frustration is similar, I believe, to that posted
+    in this Reddit comment in 2018. Sure, there are certainly good and useful use
+    cases for decentralized, tamper-proof databases and digital, anonymous, uncensored
+    and privacy-friendly payment methods. But at the moment, it seems to me that cryptocurrency
+    trading is more of a gamble with the goal of getting more and more people to invest
+    their money in it, and others to cash out and get rich.'
+  published: 2020-12-09T20:37:13+01:00
 ---
 
 Well, I'm going to try to quickly explain the best I can. First of all, blockchain and cryptocurrencies are not interchangeable. Secondly, "crypto" was historically used to refer to cryptography and not cryptocurrencies. I don't agree with whoever started this trend.

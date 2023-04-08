@@ -11,6 +11,11 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: maique
+  url: https://micro.blog/maique/12275514
+  content: '@hacdias The exemption seems to be fading… sad, but true.'
+  published: 2021-12-16T21:49:09Z
 ---
 
 No 😭

@@ -10,6 +10,13 @@ taxonomies:
   tags:
   - dictionary
   - meaning
+context:
+  name: Ana Guerra
+  url: https://twitter.com/anarlguerra/status/1222824668740100097
+  content: "Which one are you? This is the type of questions one asks when they're
+    not sure of their sexuality \U0001F61Dhttps://pbs.twimg.com/media/EPhYikxX0AEaQKs.jpg
+    https://pbs.twimg.com/media/EPhYjTpWoAQjEbm.jpg"
+  published: 2020-01-30T10:11:34Z
 ---
 
 I thought this was funny and I went to see mine. Decided not to share 😂

@@ -13,6 +13,14 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Henrique Dias
+  url: https://twitter.com/hacdias/status/1504101832288780291
+  content: Today I voted for the first time on the municipal elections in the Netherlands.
+    One of the largest differences from Portugal is that you vote on the specific
+    person and not a party. The other one is that I can vote anywhere I want in Eindhoven.
+    It was a nice and swift experience.
+  published: 2022-03-16T14:26:36Z
 ---
 
 The cherry on top of the cake is that here you vote with a red pencil ✏️🔴

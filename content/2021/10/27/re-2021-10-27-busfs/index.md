@@ -8,6 +8,12 @@ properties:
 taxonomies:
   tags:
   - meta
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/micro/2021/10/2021-10-27-busfs
+  content: Awesome! Do you still use Hugo as underlying static site builder? And how
+    do you integrate the admin bar into your site? Some JS magic?
+  published: 2021-10-27T10:30:43+02:00
 ---
 
 > Do you still use Hugo as underlying static site builder?

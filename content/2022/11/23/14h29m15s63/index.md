@@ -6,16 +6,18 @@ createdWith: https://micropublish.net/
 properties:
   ap-in-reply-to: https://fosstodon.org/users/jle/statuses/109393141038633775
   in-reply-to: https://fosstodon.org/@jle/109393141038633775
-userMentions:
-- name: '@jle@fosstodon.org'
-  href: https://fosstodon.org/users/jle
-  inbox: https://fosstodon.org/users/jle/inbox
 location:
   latitude: 51.4325
   longitude: 5.48601
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Jan-Lukas Else
+  url: https://fosstodon.org/@jle/109393141038633775
+  content: "When moving isn&#39;t already expensive enough, also buy a new laptop,
+    new 4K monitor and standing desk \U0001F605"
+  published: 2022-11-23T12:34:24Z
 ---
 
 Same 😂 But hoping it'll be worth it!

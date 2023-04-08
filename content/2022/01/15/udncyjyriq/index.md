@@ -5,6 +5,12 @@ published: 2022-01-15T19:07:06.084181535Z
 createdWith: https://monocle.p3k.io/
 properties:
   in-reply-to: https://jlelse.blog/micro/2022/01/2022-01-15-gmwvj
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/micro/2022/01/2022-01-15-gmwvj
+  content: "I just signed my own first apartment lease. \U0001F389 I will now have
+    a lot to do over the next few months. \U0001F605"
+  published: 2022-01-15T11:43:00+01:00
 ---
 
 Congratulations!

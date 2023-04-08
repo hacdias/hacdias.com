@@ -13,6 +13,13 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: "\U0001D586\U0001D591\U0001D58A\U0001D59D\U0001D586\U0001D593\U0001D589\U0001D597\U0001D58A
+    \U0001D586\U0001D576\U0001D586 \U0001D578\U0001D58A\U0001D599\U0001D586\U0001D591\U0001D58D\U0001D594\U0001D591\U0001D58E\U0001D588"
+  url: https://twitter.com/_saligia__/status/1467458728827961345
+  content: I gave it a try, but it was so complex I lost myself in the mix. Give Glória
+    a try, it's pretty good too!!
+  published: 2021-12-05T11:39:59Z
 ---
 
 Probably will once I have a bit more time!

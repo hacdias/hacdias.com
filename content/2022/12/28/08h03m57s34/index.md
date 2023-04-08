@@ -11,6 +11,12 @@ location:
   locality: Santana da Serra
   region: Beja
   country: Portugal
+context:
+  name: jlg
+  url: https://micro.blog/jlg/15494665
+  content: '@hacdias.com Oops! I was thinking it was the same thing. And your template
+    design looks pretty good too. You coded the entire thing yourself or forked something?'
+  published: 2022-12-28T00:45:23Z
 ---
 
 Eagle is not a fork of GoBlog. It’s a completely different system.

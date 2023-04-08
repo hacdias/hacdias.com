@@ -6,16 +6,23 @@ updated: 2023-01-10T11:16:20.852945469+01:00
 createdWith: https://indieweb.org/Shortcuts
 properties:
   in-reply-to: https://jlelse.blog/micro/2023/01/2023-01-10-gvdbv
-userMentions:
-- name: '@en@jlelse.blog'
-  href: https://jlelse.blog
-  inbox: https://jlelse.blog/activitypub/inbox/en
 location:
   latitude: 51.27460727927876
   longitude: 6.828358205069141
   locality: Dusseldorf
   region: North Rhine-Westphalia
   country: Germany
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/micro/2023/01/2023-01-10-gvdbv
+  content: "Reply to: https://hacdias.com/2023/01/10/10h42m35s84I’m in an ICE today
+    for a 6 hour trip from the Netherlands to Switzerland. It’s my second trip on
+    a long course train through Germany. It’s also my second time that the train gets
+    delayed in Germany due to a fire. We’re now being diverted and getting a massive
+    delay. Germany… please hold onto your fires.At least it’s just a fire and no Personenschaden
+    (personal damage?)… Always, ALWAYS expect delays when travelling by train through
+    Germany. \U0001F643 And make use of your passenger rights!"
+  published: 2023-01-10T10:12:58Z
 ---
 
 My compensation rights go through NS because I bought the ticket with them. And NS only refunds money after 1h delay. We’re over 1h delayed now but we’re expected to be able to recover part of it. After I arrive at my final destination I’ll look into it.

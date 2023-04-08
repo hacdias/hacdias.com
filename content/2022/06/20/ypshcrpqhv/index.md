@@ -11,6 +11,11 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/micro/2022/06/2022-06-20-duavy
+  content: This is what Crayion thinks about me…
+  published: 2022-06-20T21:36:28+02:00
 ---
 
 Do you want to swap?

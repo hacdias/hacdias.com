@@ -11,6 +11,10 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: JR
+  url: https://commentpara.de/comment/947.htm
+  content: I am really digging your blog!
 ---
 
 Thank you!

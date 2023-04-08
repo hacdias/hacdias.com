@@ -11,6 +11,12 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Anonymous
+  url: https://commentpara.de/comment/954.htm
+  content: Searching for wireguard / RPi info.... started browsing your site while
+    waiting on updates/reboots etc - fun stuff you have going on - best wishes as
+    you finish school and beyond.
 ---
 
 Thank you! 😁

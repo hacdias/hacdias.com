@@ -6,16 +6,17 @@ createdWith: https://indieweb.org/Shortcuts
 properties:
   ap-in-reply-to: https://ieji.de/users/martijn/statuses/109605090965012384
   in-reply-to: https://ieji.de/@martijn/109605090965012384
-userMentions:
-- name: '@martijn@ieji.de'
-  href: https://ieji.de/users/martijn
-  inbox: https://ieji.de/users/martijn/inbox
 location:
   latitude: 51.44588805765304
   longitude: 5.461439028943152
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: "Sexybiggetje\U0001F416"
+  url: https://ieji.de/@martijn/109605090965012384
+  content: '@hacdias In .nl you always have Thierry Bidet tho'
+  published: 2022-12-30T22:56:03Z
 ---
 
 😂

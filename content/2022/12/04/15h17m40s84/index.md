@@ -6,16 +6,17 @@ createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/micro/2022/12/2022-12-04-lizpl
-userMentions:
-- name: '@en@jlelse.blog'
-  href: https://jlelse.blog
-  inbox: https://jlelse.blog/activitypub/inbox/en
 location:
   latitude: 51.44591
   longitude: 5.46188
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/micro/2022/12/2022-12-04-lizpl
+  content: "Near my new home. \U0001F342"
+  published: 2022-12-04T12:08:00Z
 ---
 
 Wow, that's very pretty 😄 Enjoy!

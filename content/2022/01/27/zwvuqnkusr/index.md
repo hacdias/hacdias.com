@@ -13,6 +13,11 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Simon Clark
+  url: https://twitter.com/simonoxfphys/status/1486641428281368582
+  content: Firmament is out!! https://youtu.be/c0gKdNFdCO0
+  published: 2022-01-27T10:05:11Z
 ---
 
 Congratulations 🎉

@@ -13,6 +13,11 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Nimo
+  url: https://twitter.com/nimobeeren/status/1573277413639081984
+  content: Welcome back!
+  published: 2022-09-23T11:45:40Z
 ---
 
 Dankjewel!

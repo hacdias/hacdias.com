@@ -11,6 +11,13 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Sebastiaan Andeweg
+  url: https://seblog.nl/2022/11/20/2/ging-goed
+  content: 'Vanochtend schreef ik over de stress voor de wedstrijd, maar inmiddels
+    weet ik: ik heb gewoon mijn record verpulverd met 1:12:24. Ging goed, heel blij
+    mee.'
+  published: 2022-11-20T14:55:41Z
 ---
 
 Congratulations!

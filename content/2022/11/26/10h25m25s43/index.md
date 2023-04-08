@@ -12,6 +12,13 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Jan Boddez
+  url: https://jan.boddez.net/notes/813b64b433
+  content: 'Congrats! Aside: My feed reader/X-Ray/php-mf2 failed to correctly parse
+    the u-video property. If moved to the source element, it works okay. (See also:
+    https://pin13.net/mf2/?url=https%3A%2F%2Fhacdias.com%2F2022%2F11%2F25%2Fmsc-graduation-ceremony.)'
+  published: 2022-11-25T23:17:49+01:00
 ---
 
 Thank you, and thank you! It should be fixed now 😄

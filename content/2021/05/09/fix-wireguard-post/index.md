@@ -4,6 +4,11 @@ unlisted: true
 published: 2021-05-09T18:09:42.986730803Z
 properties:
   in-reply-to: https://commentpara.de/comment/846.htm
+context:
+  name: Anonymous
+  url: https://commentpara.de/comment/846.htm
+  content: 'Are you sure this line is correct: sudo systemctl enable wg-quick@wg0
+    Perhaps your blogging platform auto-added the link?'
 ---
 
 Hey! Thank you for noticing. Indeed, my software added it during the last edition!

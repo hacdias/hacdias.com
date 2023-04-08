@@ -6,16 +6,19 @@ createdWith: https://hacdias.com/
 properties:
   in-reply-to:
   - https://jlelse.blog/micro/2022/12/2022-12-15-btqwr
-userMentions:
-- name: '@en@jlelse.blog'
-  href: https://jlelse.blog
-  inbox: https://jlelse.blog/activitypub/inbox/en
 location:
   latitude: 51.44448
   longitude: 5.45995
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/micro/2022/12/2022-12-15-btqwr
+  content: "“Incremental static website generator” sounds like a cool idea, but I
+    can image it being quite difficult to find out which pages to re-render after
+    modifications. That’s also why I always clear the whole cache. \U0001F648\U0001F605"
+  published: 2022-12-15T13:58:38Z
 ---
 
 I did that initially, but I've had some specific rules of what to clear from the cache after updating an entry: the entry itself, the main page, the everything page, related sections, taxonomies, as well as yearly, monthly and daily archives. I wonder if this would be too much regeneration and how much _time_ it would take. I think I may try this out over Christmas vacation 😅

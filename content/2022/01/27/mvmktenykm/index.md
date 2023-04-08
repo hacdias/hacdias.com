@@ -11,6 +11,13 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Henrique Dias
+  url: https://hacdias.com/2022/01/27/tzbfpmydhl
+  content: "So I just updated my iOS shortcuts to include a new Micropub post. I now
+    have shortcuts for replying, linking, bookmarking, reposting and updating a book
+    reading progress. Let’s hope this works and that it will make me post more \U0001F914"
+  published: 2022-01-27T11:01:54Z
 ---
 
 Well, that clearly worked. Maybe I should also add an option on whether or not to share it on Twitter. Or maybe not. I can defer those complicated things to Quill.

@@ -6,16 +6,17 @@ createdWith: https://micropublish.net/
 properties:
   ap-in-reply-to: https://chat.brainbaking.com/objects/58edf59f-d274-4b5b-9bae-8ec145de16e1
   in-reply-to: https://chat.brainbaking.com/objects/58edf59f-d274-4b5b-9bae-8ec145de16e1
-userMentions:
-- name: '@wouter@chat.brainbaking.com'
-  href: https://chat.brainbaking.com/users/wouter
-  inbox: https://chat.brainbaking.com/users/wouter/inbox
 location:
   latitude: 51.44591
   longitude: 5.46188
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Wouter Groeneveld
+  url: https://chat.brainbaking.com/objects/58edf59f-d274-4b5b-9bae-8ec145de16e1
+  content: Boost if this Apogee jingle fires happiness neurons in your brain.
+  published: 2022-12-01T10:02:32Z
 ---
 
 It does, and for some reason it even reminds me of some of RuneScape songs.

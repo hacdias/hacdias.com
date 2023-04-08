@@ -11,6 +11,15 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/micro/2022/06/2022-06-15-xlwja
+  content: 'Never heard of MicroPub channels, I have to check it out! Regarding video
+    posts: Have you heard of Bunny.net Stream? There you can upload videos, they encode
+    them to different resolutions and then you can use an HLS playlist. Also with
+    custom domain. See this post as an example. To secure your media files, you could
+    use Token Authentication with Bunny.net. Good luck with your thesis!'
+  published: 2022-06-15T08:29:29+02:00
 ---
 
 > Have you heard of Bunny.net Stream?

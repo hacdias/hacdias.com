@@ -6,16 +6,21 @@ createdWith: https://micropublish.net/
 properties:
   ap-in-reply-to: https://geekcompass.com/users/jan/statuses/109443444731087805
   in-reply-to: https://geekcompass.com/@jan/109443444731087805
-userMentions:
-- name: '@jan@geekcompass.com'
-  href: https://geekcompass.com/users/jan
-  inbox: https://geekcompass.com/users/jan/inbox
 location:
   latitude: 51.44591
   longitude: 5.46188
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Jan Boddez
+  url: https://geekcompass.com/@jan/109443444731087805
+  content: 'I’d never heard of `scrollbar-gutter: stable` (but regularly use `overflow-y:
+    scroll`). The former probably looks better on most pages; if certain elements
+    are to extend all the way to the edge of the window, an actual scrollbar may provide
+    the more consistent look.https://www.matuzo.at/blog/2022/100daysof-day20/#css
+    #WebDesign(https://bddz.be/lJz)'
+  published: 2022-12-02T09:47:17Z
 ---
 
 Had to open MDN page to see what this article was about 😅 It seems that the property makes no difference on macOS, yet.

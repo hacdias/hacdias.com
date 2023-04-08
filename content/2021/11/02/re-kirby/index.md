@@ -4,6 +4,13 @@ unlisted: true
 published: 2021-11-02T13:00:28.97261845Z
 properties:
   in-reply-to: https://commentpara.de/comment/919.htm
+context:
+  name: Robert
+  url: https://commentpara.de/comment/919.htm
+  content: I use Kirby CMS and love that it is flexible — I can just write a post
+    on my phone, even if I do it rarely. It’s also very fast as the pages get generated
+    and cached until they are changed again. Take a look on this, it’s powerful but
+    simple. :)
 ---
 
 Hey Robert! Thanks for your feedback. I've actually looked into Kirby a few days ago. However, I'm not that familar with PHP anymore, and I feel like I would still need to write extra-complicated plugins to make up for all the functionality I want. Thanks for the suggestion though! I may try it out soon!

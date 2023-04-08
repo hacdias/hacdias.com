@@ -11,6 +11,12 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Jan-Lukas Else
+  url: https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb
+  content: "In Portugal it’s just a switch in the tax office website. Really?!? \U0001F632
+    I can’t believe that!"
+  published: 2021-11-20T19:04:53+01:00
 ---
 
 Yup. I've been a "eenmanszaak" here for a year and: (1) had to fill a gigantic form on the KvK (Chamber of Commerce) website, (2) go there and sign a form and pay 50 euros for them to pay a paper; (3) pay for a specialised software every month for bookkeeping. Legally, there's no requirement for my bank account to be separate because as a sole proprietorship, my assets and the company's are the same.

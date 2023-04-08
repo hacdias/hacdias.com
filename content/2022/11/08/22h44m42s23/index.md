@@ -13,6 +13,12 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Diogo Redin
+  url: https://twitter.com/diogoredin/status/1590041191890190337?s=12&t=qQtuu5ke316_8SCJ1hXO9g
+  content: Biggest life hack of this year was to turn ~70% of my meals vegan / vegetarian.
+    Good for my health and helps a lot with this crazy inflation.
+  published: 2022-11-08T17:58:56Z
 ---
 
 That’s something quite good about the Netherlands: there’s so much vegetarian and vegan 🌱 choice in the supermarkets. It’s positively baffling.

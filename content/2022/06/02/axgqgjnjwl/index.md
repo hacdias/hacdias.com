@@ -13,6 +13,11 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Tiago
+  url: https://twitter.com/tiagoadionisio/status/1532253461122846721
+  content: Os alunos podem usar corretor e comer durante o exame. Damn.
+  published: 2022-06-02T06:51:07Z
 ---
 
 @tiagoadionisio no ano passado tive um exame e alguém abriu uma salada de ovo a meio na mesa ao lado. Foi interessante fazer o exame com aquele odor 😂

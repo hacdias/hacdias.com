@@ -13,6 +13,11 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+context:
+  name: Tiago
+  url: https://twitter.com/tiagoadionisio/status/1537772273544880129
+  content: "Estão 30 graus aqui omg \U0001F975\U0001F975\U0001F975"
+  published: 2022-06-17T12:20:55Z
 ---
 
 @tiagoadionisio 32C na rua, 28C em casa. Kill me.
