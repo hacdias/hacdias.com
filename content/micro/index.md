@@ -1,5 +1,5 @@
 ---
-title: Micro
+title: Notes
 listing: {}
-description: Microblog posts and IndieWeb interactions.
+description: Smaller posts and other interactions.
 ---
