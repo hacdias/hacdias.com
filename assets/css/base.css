@@ -205,6 +205,10 @@ textarea:disabled {
   cursor: not-allowed;
 }
 
+textarea {
+  resize: vertical;
+}
+
 button {
   background-color: var(--accent);
   border: var(--border) solid var(--accent);
