@@ -1,8 +1,5 @@
 ---
 title: 'Tags: webring'
-createdWith: https://hacdias.com/
-properties:
-  location: geo:51.43921,5.45587;u=1078.49366
 listing: {}
 ---
 
