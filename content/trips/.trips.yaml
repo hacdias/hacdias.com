@@ -1,3 +1,7 @@
+# - name: Normandy With Friends
+#   author: "🇫🇷 Normandy"
+#   date: 2023-04-30
+#   start: 2023-04-26
 - name: IPFS þing 2023
   author: "🇧🇪 Bruxelles"
   date: 2023-04-20
@@ -64,7 +68,7 @@
   start: 2021-10-01T00:00:00Z
   latitude: 48.856348923085925
   longitude: 2.3463467006503977
-- name: Day Trip to Visit Friend
+- name: Day Trip To Visit Friend
   author: "🇧🇪 Ghent"
   date: 2021-08-21T23:59:59Z
   start: 2021-08-21T00:00:00Z
