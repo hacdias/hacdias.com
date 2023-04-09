@@ -3,7 +3,6 @@ description: Replied to a post on mastodon.ar.al
 unlisted: true
 published: 2023-01-03T14:21:59.788055467+01:00
 properties:
-  ap-in-reply-to: https://mastodon.ar.al/users/aral/statuses/109625105099072604
   in-reply-to: https://mastodon.ar.al/@aral/109625105099072604
 location:
   latitude: 51.444342205805356

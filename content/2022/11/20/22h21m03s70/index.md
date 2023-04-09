@@ -4,7 +4,6 @@ unlisted: true
 published: 2022-11-20T22:21:03.700935788+01:00
 updated: 2022-11-22T23:34:53.256409007+01:00
 properties:
-  ap-in-reply-to: https://fosstodon.org/users/jle/statuses/109375213511020485
   in-reply-to: https://fosstodon.org/@jle/109375213511020485
 location:
   latitude: 51.43246

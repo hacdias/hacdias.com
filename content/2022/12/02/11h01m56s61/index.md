@@ -3,7 +3,6 @@ description: Replied to a post on fosstodon.org
 unlisted: true
 published: 2022-12-02T11:01:56.619197758+01:00
 properties:
-  ap-in-reply-to: https://geekcompass.com/users/jan/statuses/109443444731087805
   in-reply-to: https://geekcompass.com/@jan/109443444731087805
 location:
   latitude: 51.44591

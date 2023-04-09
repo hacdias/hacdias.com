@@ -9,7 +9,6 @@ properties:
     properties:
       name: Fancy Breakfast
     type: h-food
-  file: 1 oct 2022 10 02.jpeg
 location:
   latitude: 51.434425
   longitude: 5.483434

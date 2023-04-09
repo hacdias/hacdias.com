@@ -3,7 +3,6 @@ description: Replied to a post on geekcompass.com
 unlisted: true
 published: 2022-11-23T14:45:32.857502702+01:00
 properties:
-  ap-in-reply-to: https://geekcompass.com/users/jan/statuses/109391659774801076
   in-reply-to: https://geekcompass.com/@jan/109391659774801076
 location:
   latitude: 51.43238
