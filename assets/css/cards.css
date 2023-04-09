@@ -19,12 +19,14 @@
   margin: 0 0 .25rem 0;
 }
 
-.card > .box + .fw,
-.card > .box + .fw figure,
-.card > .box + figure,
-.card > div:first-of-type,
-.card > div:first-of-type figure {
+.card > .copy > .fw:first-child,
+.card > .copy > .fw:first-child figure {
   margin-top: 0;
+}
+
+.card > .copy > .fw {
+  width: calc(100% + 2 * var(--ms));
+  margin-left: calc(var(--ms) * -1);
 }
 
 .card header {
