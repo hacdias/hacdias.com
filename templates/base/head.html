@@ -49,8 +49,6 @@
     <link rel='indieauth-metadata' href='{{ absURL "/.well-known/oauth-authorization-server" }}'>
     <link rel='authorization_endpoint' href='{{ absURL "/auth" }}'>
     <link rel='token_endpoint' href='{{ absURL "/token" }}'>
-    <link rel='micropub' href='{{ absURL "/micropub" }}'>
-    <link rel='microsub' href='https://aperture.p3k.io/microsub/455'>
     <link rel='me' href='{{ absURL "/pubkey.txt" }}' rel='pgpkey' />
     {{ range .Me.Identities -}}
       <link rel='me' href='{{ . }}' />
