@@ -19,7 +19,6 @@
       <div class=options>
         <label><input type='checkbox' name='lastmod' {{ if not .Data.Entry.Published.IsZero }}checked{{end }} /> Update Modification Date</label>
       </div>
-      {{ include "editor/syndicators" . }}
       <button>Update</button>
     </form>
   </main>
