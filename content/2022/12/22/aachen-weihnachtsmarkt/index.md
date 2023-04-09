@@ -5,12 +5,7 @@ updated: 2022-12-22T12:50:03.325284514+01:00
 section:
 - articles
 - home
-photoClass: fg fg-2212aken
-properties:
-  photo:
-  - cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5
-  - cdn:/907dfbdc19e2400b32f65273eb3d0b8f92cc68588f128545b7709bcbe35e250e
-  - cdn:/dc172bfe036741b0f83990dd07ddbd284807b0639bb75836a0bf8b31f3d141fd
+coverImage: cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5
 location:
   latitude: 51.44583
   longitude: 5.46177
@@ -38,3 +33,13 @@ There were all kinds of things in the market, even though I expected it to be mo
 Looking forward for future Christmas Markets 🎄!
 
 Update: yes, the mugs say 2023 and not 2022. Why? I don't know. If you do know, please let me know!
+
+<div class="fw fg fg-2212aken">
+
+![](cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5)
+
+![](cdn:/907dfbdc19e2400b32f65273eb3d0b8f92cc68588f128545b7709bcbe35e250e)
+
+![](cdn:/dc172bfe036741b0f83990dd07ddbd284807b0639bb75836a0bf8b31f3d141fd)
+
+</div>

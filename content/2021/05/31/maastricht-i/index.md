@@ -4,19 +4,7 @@ published: 2021-05-31T00:00:00Z
 section:
 - photos
 - home
-photoClass: g2021maai fg
-properties:
-  photo:
-  - cdn:/2021-05-maastricht-03
-  - cdn:/2021-05-maastricht-01
-  - cdn:/2021-05-maastricht-13
-  - cdn:/2021-05-maastricht-14
-  - cdn:/2021-05-maastricht-04
-  - cdn:/2021-05-maastricht-15
-  - cdn:/2021-05-maastricht-05
-  - cdn:/2021-05-maastricht-06
-  - cdn:/2021-05-maastricht-10
-  - cdn:/2021-05-maastricht-02
+coverImage: cdn:/2021-05-maastricht-03
 ---
 
 Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I got a sunburn. Didn't expect that. Next time I'll be more careful.
@@ -44,3 +32,27 @@ Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I g
 .g2021maai > *:nth-child(9) { grid-area: h; }
 .g2021maai > *:nth-child(10) { grid-area: i; }
 </style>
+
+<div class="fw g2021maai fg">
+
+![](cdn:/2021-05-maastricht-03)
+
+![](cdn:/2021-05-maastricht-01)
+
+![](cdn:/2021-05-maastricht-13)
+
+![](cdn:/2021-05-maastricht-14)
+
+![](cdn:/2021-05-maastricht-04)
+
+![](cdn:/2021-05-maastricht-15)
+
+![](cdn:/2021-05-maastricht-05)
+
+![](cdn:/2021-05-maastricht-06)
+
+![](cdn:/2021-05-maastricht-10)
+
+![](cdn:/2021-05-maastricht-02)
+
+</div>

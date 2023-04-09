@@ -4,8 +4,7 @@ published: 2020-02-08T17:45:16+01:00
 section:
 - micro
 - home
-properties:
-  photo: cdn:/81d0be62fb29612a98fc3b4ba6c2815126433b088140043e6fce5080f5a02e06
+coverImage: cdn:/81d0be62fb29612a98fc3b4ba6c2815126433b088140043e6fce5080f5a02e06
 location:
   latitude: 52.367554
   longitude: 4.893811
@@ -15,4 +14,4 @@ location:
   country: Netherlands
 ---
 
-
+![](cdn:/81d0be62fb29612a98fc3b4ba6c2815126433b088140043e6fce5080f5a02e06?class=fw)

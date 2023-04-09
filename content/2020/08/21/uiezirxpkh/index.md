@@ -4,8 +4,7 @@ published: 2020-08-21T06:25:06+01:00
 section:
 - micro
 - home
-properties:
-  photo: cdn:/42ae5e42fa4171eb716a384135395ce9af67754f39ea1db8e99f2b9fd5ab2f80
+coverImage: cdn:/42ae5e42fa4171eb716a384135395ce9af67754f39ea1db8e99f2b9fd5ab2f80
 location:
   latitude: 37.01486587524414
   longitude: -7.9696831703186035
@@ -13,4 +12,4 @@ location:
   country: Portugal
 ---
 
-
+![](cdn:/42ae5e42fa4171eb716a384135395ce9af67754f39ea1db8e99f2b9fd5ab2f80?class=fw)

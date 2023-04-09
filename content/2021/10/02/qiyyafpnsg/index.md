@@ -4,8 +4,7 @@ published: 2021-10-02T14:19:31+02:00
 section:
 - micro
 - home
-properties:
-  photo: cdn:/23d5b9d900e68192cdbf31f4cb5a7b68b662d2f4ca4c382853b0e3cdfce31f55
+coverImage: cdn:/23d5b9d900e68192cdbf31f4cb5a7b68b662d2f4ca4c382853b0e3cdfce31f55
 location:
   latitude: 48.85835876527678
   longitude: 2.2944796085357666
@@ -15,4 +14,4 @@ location:
   country: France
 ---
 
-
+![](cdn:/23d5b9d900e68192cdbf31f4cb5a7b68b662d2f4ca4c382853b0e3cdfce31f55?class=fw)

@@ -4,8 +4,7 @@ published: 2020-09-15T00:00:00Z
 section:
 - home
 - micro
-properties:
-  photo: cdn:/2020-09-cloudy-eye
+coverImage: cdn:/2020-09-cloudy-eye
 taxonomies:
   tags:
   - art
@@ -14,4 +13,4 @@ taxonomies:
   - drawing
 ---
 
-
+![](cdn:/2020-09-cloudy-eye?class=fw)

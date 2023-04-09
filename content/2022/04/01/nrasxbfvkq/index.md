@@ -3,8 +3,7 @@ published: 2022-04-01T17:28:17.012313057+02:00
 section:
 - micro
 - home
-properties:
-  photo: cdn:/af0f6078f1944dfdeedfd7592e05afa4a9fd0e4a15b8ab0ae3634412dc9f5c8b
+coverImage: cdn:/af0f6078f1944dfdeedfd7592e05afa4a9fd0e4a15b8ab0ae3634412dc9f5c8b
 location:
   latitude: 37.50279
   longitude: -8.29814
@@ -14,3 +13,5 @@ location:
 ---
 
 When your parents have no electric kettle, this is how I boil water.
+
+![](cdn:/af0f6078f1944dfdeedfd7592e05afa4a9fd0e4a15b8ab0ae3634412dc9f5c8b?class=fw)

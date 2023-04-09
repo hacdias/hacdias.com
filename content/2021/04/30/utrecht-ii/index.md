@@ -4,15 +4,7 @@ published: 2021-04-30T12:01:00Z
 section:
 - photos
 - home
-photoClass: g21utrii fg
-properties:
-  photo:
-  - cdn:/2021-04-utrecht-17
-  - cdn:/2021-04-utrecht-03
-  - cdn:/2021-04-utrecht-18
-  - cdn:/2021-04-utrecht-20
-  - cdn:/2021-04-utrecht-13
-  - cdn:/2021-04-utrecht-25
+coverImage: cdn:/2021-04-utrecht-17
 ---
 
 <style>
@@ -31,3 +23,19 @@ properties:
 .g21utrii > *:nth-child(5) { grid-area: e; }
 .g21utrii > *:nth-child(6) { grid-area: f; }
 </style>
+
+<div class="fw g21utrii fg">
+
+![](cdn:/2021-04-utrecht-17)
+
+![](cdn:/2021-04-utrecht-03)
+
+![](cdn:/2021-04-utrecht-18)
+
+![](cdn:/2021-04-utrecht-20)
+
+![](cdn:/2021-04-utrecht-13)
+
+![](cdn:/2021-04-utrecht-25)
+
+</div>

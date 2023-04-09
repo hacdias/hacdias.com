@@ -4,9 +4,8 @@ published: 2018-10-10T21:31:02Z
 section:
 - photos
 - home
+coverImage: cdn:/ef4570375774022fafe39a1f0674ef82c8f69ec0eeacafb2f4641615046febaf
 properties:
-  photo:
-  - cdn:/ef4570375774022fafe39a1f0674ef82c8f69ec0eeacafb2f4641615046febaf
   syndication:
   - https://www.instagram.com/p/BoxIuVXAQVW/
 location:
@@ -17,4 +16,4 @@ location:
   country: Portugal
 ---
 
-
+![](cdn:/ef4570375774022fafe39a1f0674ef82c8f69ec0eeacafb2f4641615046febaf?class=fw)

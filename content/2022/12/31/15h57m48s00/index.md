@@ -3,12 +3,12 @@ description: 'Just ate: Sesame Taro Bao'
 published: 2022-12-31T15:57:48Z
 section:
 - food
+coverImage: cdn:/0553a72d70af6c31d00cb8f2aa0ae68380381b76050afeb9586aea701835b6a6
 properties:
   ate:
     properties:
       name: Sesame Taro Bao
     type: h-food
-  photo: cdn:/0553a72d70af6c31d00cb8f2aa0ae68380381b76050afeb9586aea701835b6a6
 location:
   latitude: 51.446185
   longitude: 5.458785
@@ -18,4 +18,4 @@ location:
   country: Netherlands
 ---
 
-
+![](cdn:/0553a72d70af6c31d00cb8f2aa0ae68380381b76050afeb9586aea701835b6a6?class=fw)

@@ -4,18 +4,7 @@ published: 2021-09-16T06:45:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-steel-wool fg
-properties:
-  photo:
-  - cdn:/2021-09-steelwool-07
-  - cdn:/2021-09-steelwool-06
-  - cdn:/2021-09-steelwool-04
-  - cdn:/2021-09-steelwool-05
-  - cdn:/2021-09-steelwool-08
-  - cdn:/2021-09-steelwool-01
-  - cdn:/2021-09-steelwool-03
-  - cdn:/2021-09-steelwool-09
-  - cdn:/2021-09-steelwool-02
+coverImage: cdn:/2021-09-steelwool-07
 ---
 
 <style>
@@ -41,3 +30,25 @@ properties:
 </style>
 
 Last night there was an activity by [Dekate Mousa](https://dekatemousa.nl/), where we were able to take some nice pictures of fire breathing and steel wool spinning. I am very sorry that the fire is blown out, but I still like it!
+
+<div class="fw grid-2021-steel-wool fg">
+
+![](cdn:/2021-09-steelwool-07)
+
+![](cdn:/2021-09-steelwool-06)
+
+![](cdn:/2021-09-steelwool-04)
+
+![](cdn:/2021-09-steelwool-05)
+
+![](cdn:/2021-09-steelwool-08)
+
+![](cdn:/2021-09-steelwool-01)
+
+![](cdn:/2021-09-steelwool-03)
+
+![](cdn:/2021-09-steelwool-09)
+
+![](cdn:/2021-09-steelwool-02)
+
+</div>

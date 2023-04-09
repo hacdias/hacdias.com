@@ -4,19 +4,7 @@ published: 2020-04-28T12:30:50.893Z
 section:
 - photos
 - home
-photoClass: fg g4lk2020
-properties:
-  photo:
-  - cdn:/2020-04-hometown-02
-  - cdn:/2020-04-hometown-01
-  - cdn:/2020-04-hometown-03
-  - cdn:/2020-04-hometown-04
-  - cdn:/2020-04-hometown-05
-  - cdn:/2020-04-hometown-06
-  - cdn:/2020-04-hometown-07
-  - cdn:/2020-04-hometown-08
-  - cdn:/2020-03-hometown-goats
-  - cdn:/2020-04-hometown-09
+coverImage: cdn:/2020-04-hometown-02
 ---
 
 <style>
@@ -45,3 +33,27 @@ properties:
 </style>
 
 April. Still in my hometown.
+
+<div class="fw fg g4lk2020">
+
+![](cdn:/2020-04-hometown-02)
+
+![](cdn:/2020-04-hometown-01)
+
+![](cdn:/2020-04-hometown-03)
+
+![](cdn:/2020-04-hometown-04)
+
+![](cdn:/2020-04-hometown-05)
+
+![](cdn:/2020-04-hometown-06)
+
+![](cdn:/2020-04-hometown-07)
+
+![](cdn:/2020-04-hometown-08)
+
+![](cdn:/2020-03-hometown-goats)
+
+![](cdn:/2020-04-hometown-09)
+
+</div>

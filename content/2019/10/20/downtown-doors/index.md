@@ -4,10 +4,7 @@ published: 2019-10-20T15:07:50.893Z
 section:
 - photos
 - home
-properties:
-  photo:
-  - alt: Downtown Doors
-    value: cdn:/2020-03-lisbon-01
+coverImage: cdn:/2020-03-lisbon-01
 ---
 
-
+![](cdn:/2020-03-lisbon-01?class=fw "Downtown Doors")

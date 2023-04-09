@@ -4,9 +4,7 @@ published: 2021-04-16T09:12:20.42246205Z
 section:
 - home
 - micro
-photoClass: pixelated
-properties:
-  photo: https://cdn.hacdias.com/media/2019-04-bedroom-lamp.gif
+coverImage: https://cdn.hacdias.com/media/2019-04-bedroom-lamp.gif
 taxonomies:
   tags:
   - pixelart
@@ -15,3 +13,5 @@ taxonomies:
 ---
 
 A bedroom lamp pixelart thingy I did back in April 2019.
+
+![](https://cdn.hacdias.com/media/2019-04-bedroom-lamp.gif?class=fw)

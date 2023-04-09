@@ -4,21 +4,8 @@ published: 2021-01-31T07:33:49Z
 section:
 - photos
 - home
-photoClass: g2021jkahb fg
+coverImage: cdn:/2021-01-strijps
 properties:
-  photo:
-  - alt: Strijp-s
-    value: cdn:/2021-01-strijps
-  - alt: Strijp-s Colors
-    value: cdn:/2021-01-strijps-colors
-  - alt: Inudstrial Strijp-s
-    value: cdn:/2021-01-eindhoven-center-01
-  - alt: Passing By
-    value: cdn:/2021-01-strijps-train
-  - alt: PSV Stadium
-    value: cdn:/2021-01-strijps-stadium
-  - alt: Old Philips
-    value: cdn:/2021-01-philips
   syndication:
   - https://www.instagram.com/p/COUnXtrrMQJ/
 ---
@@ -40,3 +27,19 @@ properties:
 .g2021jkahb > *:nth-child(5) { grid-area: d; }
 .g2021jkahb > *:nth-child(6) { grid-area: e; }
 </style>
+
+<div class="fw g2021jkahb fg">
+
+![](cdn:/2021-01-strijps "Strijp-s")
+
+![](cdn:/2021-01-strijps-colors "Strijp-s Colors")
+
+![](cdn:/2021-01-eindhoven-center-01 "Inudstrial Strijp-s")
+
+![](cdn:/2021-01-strijps-train "Passing By")
+
+![](cdn:/2021-01-strijps-stadium "PSV Stadium")
+
+![](cdn:/2021-01-philips "Old Philips")
+
+</div>

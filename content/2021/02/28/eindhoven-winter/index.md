@@ -4,15 +4,7 @@ published: 2021-02-28T00:00:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-ehvsnw fg
-properties:
-  photo:
-  - cdn:/2021-02-eindhoven-snow-01
-  - cdn:/2021-02-eindhoven-snow-02
-  - cdn:/2021-02-eindhoven-snow-03
-  - cdn:/2021-02-eindhoven-snow-04
-  - cdn:/2021-02-eindhoven-snow-05
-  - cdn:/2021-02-eindhoven-snow-06
+coverImage: cdn:/2021-02-eindhoven-snow-01
 ---
 
 I saw real life snowing for many days for the first time. It was also one of the coldest Februaries in the Netherlands over the past years.
@@ -33,3 +25,19 @@ I saw real life snowing for many days for the first time. It was also one of the
 .grid-2021-ehvsnw > *:nth-child(5) { grid-area: e; }
 .grid-2021-ehvsnw > *:nth-child(6) { grid-area: f; }
 </style>
+
+<div class="fw grid-2021-ehvsnw fg">
+
+![](cdn:/2021-02-eindhoven-snow-01)
+
+![](cdn:/2021-02-eindhoven-snow-02)
+
+![](cdn:/2021-02-eindhoven-snow-03)
+
+![](cdn:/2021-02-eindhoven-snow-04)
+
+![](cdn:/2021-02-eindhoven-snow-05)
+
+![](cdn:/2021-02-eindhoven-snow-06)
+
+</div>

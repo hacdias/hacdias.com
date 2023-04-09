@@ -4,14 +4,7 @@ published: 2020-05-21T23:30:50.893Z
 section:
 - photos
 - home
-photoClass: fg g05lk
-properties:
-  photo:
-  - cdn:/2020-05-nature-02
-  - cdn:/2020-05-nature-01
-  - cdn:/2020-05-nature-03
-  - cdn:/2020-05-nature-04
-  - cdn:/2020-05-nature-05
+coverImage: cdn:/2020-05-nature-02
 ---
 
 <style>
@@ -30,3 +23,17 @@ properties:
 </style>
 
 May. Still in my hometown and realizing that I was slightly lucky because I could take walks in the nature in peace while some of my friends were stranded in the city.
+
+<div class="fw fg g05lk">
+
+![](cdn:/2020-05-nature-02)
+
+![](cdn:/2020-05-nature-01)
+
+![](cdn:/2020-05-nature-03)
+
+![](cdn:/2020-05-nature-04)
+
+![](cdn:/2020-05-nature-05)
+
+</div>

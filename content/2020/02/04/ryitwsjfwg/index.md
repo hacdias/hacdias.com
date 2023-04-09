@@ -4,8 +4,7 @@ published: 2020-02-04T10:49:36+01:00
 section:
 - micro
 - home
-properties:
-  photo: cdn:/23c6b1331c550aafe96f8c8ecb64abb0ef0399fcb38ddb7a473897ffdb6bd73a
+coverImage: cdn:/23c6b1331c550aafe96f8c8ecb64abb0ef0399fcb38ddb7a473897ffdb6bd73a
 location:
   latitude: 49.607003
   longitude: 6.130907
@@ -15,4 +14,4 @@ location:
   country: Luxembourg
 ---
 
-
+![](cdn:/23c6b1331c550aafe96f8c8ecb64abb0ef0399fcb38ddb7a473897ffdb6bd73a?class=fw)

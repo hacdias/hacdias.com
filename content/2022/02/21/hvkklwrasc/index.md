@@ -3,6 +3,7 @@ description: At Bagels & Beans
 published: 2022-02-21T12:35:56+01:00
 section:
 - food
+coverImage: cdn:/c1eb34770acf14805446c33aa77aced546113dc3e62602dc7b32701504fdbea1
 properties:
   ate:
     properties:
@@ -21,7 +22,6 @@ properties:
       url: https://foursquare.com/user/577163460
     type: h-card
     value: https://foursquare.com/user/577163460
-  photo: cdn:/c1eb34770acf14805446c33aa77aced546113dc3e62602dc7b32701504fdbea1
 location:
   latitude: 52.07991357415258
   longitude: 4.309786858649604
@@ -31,4 +31,4 @@ location:
   country: Netherlands
 ---
 
-
+![](cdn:/c1eb34770acf14805446c33aa77aced546113dc3e62602dc7b32701504fdbea1?class=fw)

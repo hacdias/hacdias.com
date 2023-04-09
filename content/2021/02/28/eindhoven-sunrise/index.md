@@ -4,11 +4,7 @@ published: 2021-02-28T00:00:00Z
 section:
 - photos
 - home
-photoClass: g2021ehvsnrs fg
-properties:
-  photo:
-  - cdn:/2021-02-eindhoven-sunrise-church
-  - cdn:/2021-02-eindhoven-sunrise
+coverImage: cdn:/2021-02-eindhoven-sunrise-church
 ---
 
 <style>
@@ -21,3 +17,11 @@ properties:
 .g2021ehvsnrs > *:nth-child(1) { grid-area: a; }
 .g2021ehvsnrs > *:nth-child(2) { grid-area: b; }
 </style>
+
+<div class="fw g2021ehvsnrs fg">
+
+![](cdn:/2021-02-eindhoven-sunrise-church)
+
+![](cdn:/2021-02-eindhoven-sunrise)
+
+</div>

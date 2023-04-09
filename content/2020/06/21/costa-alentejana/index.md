@@ -4,27 +4,7 @@ published: 2020-06-21T23:30:50.893Z
 section:
 - photos
 - home
-photoClass: fg grid-costa-alentejana
-properties:
-  photo:
-  - alt: null
-    value: cdn:/2020-06-costa-alentejana-2
-  - alt: Lonely Boat
-    value: cdn:/2020-06-costa-alentejana-5
-  - alt: SN924L Astro
-    value: cdn:/2020-06-costa-alentejana-7
-  - alt: Entrada da Barca
-    value: cdn:/2020-06-costa-alentejana-1
-  - alt: Splashing Water
-    value: cdn:/2020-06-costa-alentejana-3
-  - alt: Rocks
-    value: cdn:/2020-06-costa-alentejana-4
-  - alt: SN786L Carina
-    value: cdn:/2020-06-costa-alentejana-6
-  - alt: Clarabóias
-    value: cdn:/2020-06-costa-alentejana-8
-  - alt: More Boats
-    value: cdn:/2020-06-costa-alentejana-9
+coverImage: cdn:/2020-06-costa-alentejana-2
 ---
 
 <style>
@@ -51,3 +31,25 @@ properties:
 </style>
 
 Had the opportunity to travel through a bit of the Portuguese coast, which can be mesmerizing in some places.
+
+<div class="fw fg grid-costa-alentejana">
+
+![](cdn:/2020-06-costa-alentejana-2)
+
+![](cdn:/2020-06-costa-alentejana-5 "Lonely Boat")
+
+![](cdn:/2020-06-costa-alentejana-7 "SN924L Astro")
+
+![](cdn:/2020-06-costa-alentejana-1 "Entrada da Barca")
+
+![](cdn:/2020-06-costa-alentejana-3 "Splashing Water")
+
+![](cdn:/2020-06-costa-alentejana-4 "Rocks")
+
+![](cdn:/2020-06-costa-alentejana-6 "SN786L Carina")
+
+![](cdn:/2020-06-costa-alentejana-8 "Clarabóias")
+
+![](cdn:/2020-06-costa-alentejana-9 "More Boats")
+
+</div>

@@ -4,8 +4,7 @@ published: 2020-08-15T00:00:00Z
 section:
 - home
 - micro
-properties:
-  photo: cdn:/2020-08-plant-pot
+coverImage: cdn:/2020-08-plant-pot
 taxonomies:
   tags:
   - art
@@ -14,4 +13,4 @@ taxonomies:
   - drawing
 ---
 
-
+![](cdn:/2020-08-plant-pot?class=fw)

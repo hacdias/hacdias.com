@@ -4,8 +4,7 @@ published: 2020-02-07T15:48:33+01:00
 section:
 - micro
 - home
-properties:
-  photo: cdn:/7af0b6bdcbe9ff50761f9629491a0f5b283522acc8e5769260f16de3b3c5f8b6
+coverImage: cdn:/7af0b6bdcbe9ff50761f9629491a0f5b283522acc8e5769260f16de3b3c5f8b6
 location:
   latitude: 51.221397
   longitude: 4.396111
@@ -13,4 +12,4 @@ location:
   country: Belgium
 ---
 
-
+![](cdn:/7af0b6bdcbe9ff50761f9629491a0f5b283522acc8e5769260f16de3b3c5f8b6?class=fw)

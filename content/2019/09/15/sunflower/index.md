@@ -4,8 +4,7 @@ published: 2019-09-15T00:00:00Z
 section:
 - home
 - micro
-properties:
-  photo: cdn:/2019-09-sunflower
+coverImage: cdn:/2019-09-sunflower
 taxonomies:
   tags:
   - art
@@ -14,4 +13,4 @@ taxonomies:
   - drawing
 ---
 
-
+![](cdn:/2019-09-sunflower?class=fw)

@@ -4,16 +4,7 @@ published: 2021-04-09T00:00:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-fgwlp fg
-properties:
-  photo:
-  - cdn:/2021-05-foggy-morning-02
-  - cdn:/2021-05-foggy-morning-07
-  - cdn:/2021-05-foggy-morning-04
-  - cdn:/2021-05-foggy-morning-06
-  - cdn:/2021-05-foggy-morning-01
-  - cdn:/2021-05-foggy-morning-05
-  - cdn:/2021-05-foggy-morning-08
+coverImage: cdn:/2021-05-foggy-morning-02
 ---
 
 <style>
@@ -34,3 +25,21 @@ properties:
 .grid-2021-fgwlp > *:nth-child(6) { grid-area: e; }
 .grid-2021-fgwlp > *:nth-child(7) { grid-area: f; }
 </style>
+
+<div class="fw grid-2021-fgwlp fg">
+
+![](cdn:/2021-05-foggy-morning-02)
+
+![](cdn:/2021-05-foggy-morning-07)
+
+![](cdn:/2021-05-foggy-morning-04)
+
+![](cdn:/2021-05-foggy-morning-06)
+
+![](cdn:/2021-05-foggy-morning-01)
+
+![](cdn:/2021-05-foggy-morning-05)
+
+![](cdn:/2021-05-foggy-morning-08)
+
+</div>

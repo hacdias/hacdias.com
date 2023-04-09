@@ -3,12 +3,12 @@ description: 'Just ate: Ice Cream'
 published: 2022-06-19T19:44:54Z
 section:
 - food
+coverImage: cdn:/b8581e23a148a9c6d82bbd0a05bda308d7b57f7ea9df9248cd99bf9344feadc9
 properties:
   ate:
     properties:
       name: Ice Cream
     type: h-food
-  photo: cdn:/b8581e23a148a9c6d82bbd0a05bda308d7b57f7ea9df9248cd99bf9344feadc9
 location:
   latitude: 51.436652
   longitude: 5.475048
@@ -18,4 +18,4 @@ location:
   country: Netherlands
 ---
 
-
+![](cdn:/b8581e23a148a9c6d82bbd0a05bda308d7b57f7ea9df9248cd99bf9344feadc9?class=fw)

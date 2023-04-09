@@ -4,22 +4,8 @@ published: 2022-03-27T11:03:07.069215+02:00
 section:
 - photos
 - home
-photoClass: grid-2022-sakura-trees fg
+coverImage: cdn:/2022-03-cherry-blossoms-06
 properties:
-  photo:
-  - cdn:/2022-03-cherry-blossoms-06
-  - cdn:/2022-03-cherry-blossoms-01
-  - cdn:/2022-03-cherry-blossoms-02
-  - cdn:/2022-03-cherry-blossoms-03
-  - cdn:/2022-03-cherry-blossoms-04
-  - cdn:/2022-03-cherry-blossoms-05
-  - cdn:/2022-03-cherry-blossoms-07
-  - cdn:/2022-03-cherry-blossoms-08
-  - cdn:/2022-03-cherry-blossoms-09
-  - cdn:/2022-03-cherry-blossoms-10
-  - cdn:/2022-03-cherry-blossoms-11
-  - cdn:/2022-03-cherry-blossoms-12
-  - cdn:/2022-03-cherry-blossoms-group
   syndication: https://twitter.com/hacdias/status/1508095378222166021
 ---
 
@@ -65,3 +51,33 @@ A few days ago, my boyfriend invited my go to the [Bloesempark](https://www.amst
 We traveled by train from Eindhoven to Amsterdam ArenA. We immediately saw that was not the best idea so we continued to Amsterdam Zuid and rented some OV-fiets there. It was my first time using an OV-fiets and I must say: they run very smoothly. But their brakes? Horrible.
 
 We biked to and through the Amsterdamse Bos until we reached the Bloesempark and _oh my gosh_. So many people. Considering that there are around 400 trees there, I'm sure there was way more than one person per tree. There were also people dressed with some traditional dresses. It was incredible! Anyways, here's some photos from yesterday.
+
+<div class="fw grid-2022-sakura-trees fg">
+
+![](cdn:/2022-03-cherry-blossoms-06)
+
+![](cdn:/2022-03-cherry-blossoms-01)
+
+![](cdn:/2022-03-cherry-blossoms-02)
+
+![](cdn:/2022-03-cherry-blossoms-03)
+
+![](cdn:/2022-03-cherry-blossoms-04)
+
+![](cdn:/2022-03-cherry-blossoms-05)
+
+![](cdn:/2022-03-cherry-blossoms-07)
+
+![](cdn:/2022-03-cherry-blossoms-08)
+
+![](cdn:/2022-03-cherry-blossoms-09)
+
+![](cdn:/2022-03-cherry-blossoms-10)
+
+![](cdn:/2022-03-cherry-blossoms-11)
+
+![](cdn:/2022-03-cherry-blossoms-12)
+
+![](cdn:/2022-03-cherry-blossoms-group)
+
+</div>

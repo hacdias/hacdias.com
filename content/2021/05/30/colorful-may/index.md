@@ -4,20 +4,7 @@ published: 2021-05-30T00:00:00Z
 section:
 - photos
 - home
-photoClass: grid-2021-cmhv fg
-properties:
-  photo:
-  - cdn:/2021-05-eindhoven-11
-  - cdn:/2021-05-eindhoven-06
-  - cdn:/2021-05-eindhoven-09
-  - cdn:/2021-05-eindhoven-16
-  - cdn:/2021-05-eindhoven-14
-  - cdn:/2021-05-eindhoven-12
-  - cdn:/2021-05-eindhoven-04
-  - cdn:/2021-05-eindhoven-17
-  - cdn:/2021-05-eindhoven-19
-  - cdn:/2021-05-eindhoven-20
-  - cdn:/2021-05-eindhoven-18
+coverImage: cdn:/2021-05-eindhoven-11
 ---
 
 In Eindhoven.
@@ -46,3 +33,29 @@ In Eindhoven.
 .grid-2021-cmhv > *:nth-child(10) { grid-area: j; }
 .grid-2021-cmhv > *:nth-child(11) { grid-area: k; }
 </style>
+
+<div class="fw grid-2021-cmhv fg">
+
+![](cdn:/2021-05-eindhoven-11)
+
+![](cdn:/2021-05-eindhoven-06)
+
+![](cdn:/2021-05-eindhoven-09)
+
+![](cdn:/2021-05-eindhoven-16)
+
+![](cdn:/2021-05-eindhoven-14)
+
+![](cdn:/2021-05-eindhoven-12)
+
+![](cdn:/2021-05-eindhoven-04)
+
+![](cdn:/2021-05-eindhoven-17)
+
+![](cdn:/2021-05-eindhoven-19)
+
+![](cdn:/2021-05-eindhoven-20)
+
+![](cdn:/2021-05-eindhoven-18)
+
+</div>

@@ -4,9 +4,8 @@ published: 2019-02-16T12:32:06Z
 section:
 - photos
 - home
+coverImage: cdn:/2020-03-camden-mirror
 properties:
-  photo:
-  - cdn:/2020-03-camden-mirror
   syndication:
   - https://www.instagram.com/p/Bt8Vl8uFrM7/
 location:
@@ -17,4 +16,4 @@ location:
   country: United Kingdom
 ---
 
-
+![](cdn:/2020-03-camden-mirror?class=fw)

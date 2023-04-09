@@ -3,9 +3,8 @@ published: 2018-03-30T12:45:35Z
 section:
 - photos
 - home
+coverImage: cdn:/2018-03-umbrellas
 properties:
-  photo:
-  - cdn:/2018-03-umbrellas
   syndication:
   - https://www.instagram.com/p/Bg8qYE5gw0b/
 location:
@@ -16,4 +15,4 @@ location:
   country: Portugal
 ---
 
-
+![](cdn:/2018-03-umbrellas?class=fw)

@@ -3,12 +3,12 @@ description: 'Just ate: Shrimp, Greens and Rice'
 published: 2022-07-24T16:47:51Z
 section:
 - food
+coverImage: cdn:/719512bc8500472b35eee56005f7cb3e31d4753346b84d78c9fc5f01b85b48b3
 properties:
   ate:
     properties:
       name: Shrimp, Greens and Rice
     type: h-food
-  photo: cdn:/719512bc8500472b35eee56005f7cb3e31d4753346b84d78c9fc5f01b85b48b3
 location:
   latitude: 51.43247
   longitude: 5.48616
@@ -17,4 +17,4 @@ location:
   country: Netherlands
 ---
 
-
+![](cdn:/719512bc8500472b35eee56005f7cb3e31d4753346b84d78c9fc5f01b85b48b3?class=fw)

@@ -4,13 +4,7 @@ published: 2023-02-24T14:13:39.745831911+01:00
 section:
 - photos
 - home
-photoClass: grid-engelberg-2023 fg
-properties:
-  photo:
-  - cdn:/c0ee36b0770dec6bbd33865d5c8f5e9fbf27a320130120eb2a6ea22d484c25aa
-  - cdn:/5dfed42211aafca2f47fa437aa14841e3dda52341f5699efe0b6856149bb9e8d
-  - cdn:/38fbf319c60bfb12190440c475f781b8c992a9a66021907f26aced84db7085cc
-  - cdn:/17dc6d397bda79d962b6c7e43251d5f68950724e7e2aaf191a8dee14b2f8c80c
+coverImage: cdn:/c0ee36b0770dec6bbd33865d5c8f5e9fbf27a320130120eb2a6ea22d484c25aa
 location:
   latitude: 51.44447
   longitude: 5.45995
@@ -34,3 +28,15 @@ Last month I had the opportunity of visiting Engelberg, in Switzerland. During t
 .grid-engelberg-2023 > *:nth-child(3) { grid-area: c; }
 .grid-engelberg-2023 > *:nth-child(4) { grid-area: d; }
 </style>
+
+<div class="fw grid-engelberg-2023 fg">
+
+![](cdn:/c0ee36b0770dec6bbd33865d5c8f5e9fbf27a320130120eb2a6ea22d484c25aa)
+
+![](cdn:/5dfed42211aafca2f47fa437aa14841e3dda52341f5699efe0b6856149bb9e8d)
+
+![](cdn:/38fbf319c60bfb12190440c475f781b8c992a9a66021907f26aced84db7085cc)
+
+![](cdn:/17dc6d397bda79d962b6c7e43251d5f68950724e7e2aaf191a8dee14b2f8c80c)
+
+</div>

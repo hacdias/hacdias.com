@@ -4,8 +4,7 @@ published: 2021-11-06T20:00:00+01:00
 section:
 - micro
 - home
-properties:
-  photo: cdn:/9b27a4fbd5998bb5a31f35009ace5ae2d0f33bf250f0d58c1f1c75cc577ca170
+coverImage: cdn:/9b27a4fbd5998bb5a31f35009ace5ae2d0f33bf250f0d58c1f1c75cc577ca170
 taxonomies:
   tags:
   - glow-festival
@@ -18,4 +17,4 @@ location:
   country: Netherlands
 ---
 
-
+![](cdn:/9b27a4fbd5998bb5a31f35009ace5ae2d0f33bf250f0d58c1f1c75cc577ca170?class=fw)

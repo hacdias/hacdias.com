@@ -4,25 +4,7 @@ published: 2020-03-31T12:00:00.893Z
 section:
 - photos
 - home
-photoClass: fg g03lockdown
-properties:
-  photo:
-  - alt: Do Not Enter
-    value: cdn:/2020-03-hometown-cross
-  - alt: White Flower
-    value: cdn:/2020-03-hometown-flower
-  - alt: The Dead Rise Again
-    value: cdn:/2020-03-home-03
-  - alt: My Dog, Lara
-    value: cdn:/2020-03-home-01
-  - alt: My Mother
-    value: cdn:/2020-03-hometown-mom
-  - alt: Flower Pots
-    value: cdn:/2020-03-home-02
-  - alt: Chimney
-    value: cdn:/2020-03-chimney
-  - alt: My Dad
-    value: cdn:/2020-03-hometown-dad
+coverImage: cdn:/2020-03-hometown-cross
 ---
 
 <style>
@@ -47,3 +29,23 @@ properties:
 </style>
 
 March. Quarantine begun and I moved back to my hometown. More importantly, I bought my first camera.
+
+<div class="fw fg g03lockdown">
+
+![](cdn:/2020-03-hometown-cross "Do Not Enter")
+
+![](cdn:/2020-03-hometown-flower "White Flower")
+
+![](cdn:/2020-03-home-03 "The Dead Rise Again")
+
+![](cdn:/2020-03-home-01 "My Dog, Lara")
+
+![](cdn:/2020-03-hometown-mom "My Mother")
+
+![](cdn:/2020-03-home-02 "Flower Pots")
+
+![](cdn:/2020-03-chimney "Chimney")
+
+![](cdn:/2020-03-hometown-dad "My Dad")
+
+</div>

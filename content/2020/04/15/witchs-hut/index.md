@@ -4,8 +4,7 @@ published: 2020-04-15T00:00:00Z
 section:
 - home
 - micro
-properties:
-  photo: cdn:/2020-04-withchs-hut
+coverImage: cdn:/2020-04-withchs-hut
 taxonomies:
   tags:
   - art
@@ -14,4 +13,4 @@ taxonomies:
   - drawing
 ---
 
-
+![](cdn:/2020-04-withchs-hut?class=fw)

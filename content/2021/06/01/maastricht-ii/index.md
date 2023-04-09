@@ -4,14 +4,8 @@ published: 2021-06-01T00:00:00Z
 section:
 - photos
 - home
-photoClass: g2021maaii fg
+coverImage: cdn:/2021-05-maastricht-07
 properties:
-  photo:
-  - cdn:/2021-05-maastricht-07
-  - cdn:/2021-05-maastricht-11
-  - cdn:/2021-05-maastricht-08
-  - cdn:/2021-05-maastricht-09
-  - cdn:/2021-05-maastricht-12
   syndication: https://www.instagram.com/p/CO6P31uLDLN/
 ---
 
@@ -32,3 +26,17 @@ properties:
 .g2021maaii > *:nth-child(4) { grid-area: d; }
 .g2021maaii > *:nth-child(5) { grid-area: e; }
 </style>
+
+<div class="fw g2021maaii fg">
+
+![](cdn:/2021-05-maastricht-07)
+
+![](cdn:/2021-05-maastricht-11)
+
+![](cdn:/2021-05-maastricht-08)
+
+![](cdn:/2021-05-maastricht-09)
+
+![](cdn:/2021-05-maastricht-12)
+
+</div>

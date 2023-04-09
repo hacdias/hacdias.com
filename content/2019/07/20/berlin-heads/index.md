@@ -3,9 +3,8 @@ published: 2019-07-20T20:03:43Z
 section:
 - photos
 - home
+coverImage: cdn:/2019-06-prague-heads
 properties:
-  photo:
-  - cdn:/2019-06-prague-heads
   syndication:
   - https://www.instagram.com/p/B0Jrse7l38P/
 location:
@@ -15,4 +14,4 @@ location:
   country: Germany
 ---
 
-
+![](cdn:/2019-06-prague-heads?class=fw)

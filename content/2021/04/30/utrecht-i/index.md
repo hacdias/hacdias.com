@@ -4,15 +4,7 @@ published: 2021-04-30T12:00:00Z
 section:
 - photos
 - home
-photoClass: g21utri fg
-properties:
-  photo:
-  - cdn:/2021-04-utrecht-02
-  - cdn:/2021-04-utrecht-19
-  - cdn:/2021-04-utrecht-07
-  - cdn:/2021-04-utrecht-05
-  - cdn:/2021-04-utrecht-23
-  - cdn:/2021-04-utrecht-14
+coverImage: cdn:/2021-04-utrecht-02
 ---
 
 I went to Utrecht, which turned out to be one of the loveliest cities in the Netherlands I've been to so far. It's picturesque, has canals and felt lively.
@@ -34,3 +26,19 @@ I went to Utrecht, which turned out to be one of the loveliest cities in the Net
 .g21utri > *:nth-child(5) { grid-area: e; }
 .g21utri > *:nth-child(6) { grid-area: f; }
 </style>
+
+<div class="fw g21utri fg">
+
+![](cdn:/2021-04-utrecht-02)
+
+![](cdn:/2021-04-utrecht-19)
+
+![](cdn:/2021-04-utrecht-07)
+
+![](cdn:/2021-04-utrecht-05)
+
+![](cdn:/2021-04-utrecht-23)
+
+![](cdn:/2021-04-utrecht-14)
+
+</div>
