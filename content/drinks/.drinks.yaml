@@ -1,0 +1,262 @@
+- date: 2023-02-10T18:52:57+01:00
+  location:
+    latitude: 51.44586
+    longitude: 5.46178
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+    name: Loetje
+  name: 🍹 Violet
+  image: cdn:/c23d41a448123ed8c3ceb487cf1e4d126b180fa801bc979a458b8e1fb9ccda7b
+- date: 2023-01-08T14:28:12Z
+  location:
+    latitude: 51.44796607494059
+    longitude: 5.4538214206695566
+    name: InfiniTea
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: 🧋 Chai Bubble Tea
+  image: cdn:/f1a4e336253745e4b1c0f444e90a404761d6d8be98986c328f8a7f08bc1d9c0a
+- date: 2023-01-07T14:10:55.635168+01:00
+  location:
+    latitude: 51.4388523028647
+    longitude: 5.476759672164918
+    name: Douwe Egberts Café
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: 🥛 Tiramisu Latte
+  image: cdn:/b48692acd365a87c72bffad740c0769918a77e886d4a46574fe9d002b9ca1afc
+- date: 2022-12-31T15:56:40Z
+  location:
+    latitude: 51.446185
+    longitude: 5.458785
+    name: Tea Stories
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: 🧋 Tiramisu Bubble Tea
+  image: cdn:/37f8d6b7b4679f9b0eb93b641805ad1530d50a8d1fb2ca3bc78640daf0c563c3
+# - date: 2022-12-21T12:37:35+01:00
+#   location:
+#     latitude: 51.44587
+#     longitude: 5.46147
+#     locality: Eindhoven
+#     region: North Brabant
+#     country: Netherlands
+#   name: ☕️ Ermera Coffee
+#   image: cdn:/c06524d678a6e55a042b8c5b9932b0c427baaf7847fdf8c12bad7bdf61cb2760
+- date: 2022-11-22T13:33:22+01:00
+  location:
+    latitude: 52.375486
+    longitude: 4.895881
+    name: Tony’s Chocolonely Chocolate Bar
+    locality: Amsterdam
+    region: North Holland
+    country: Netherlands
+  name: 🍫 Hot Chocolate
+  image: cdn:/ee2d3900e6bcb8e3c68722a3097ae98441e2c5c9573831681978ff597ce0b279
+# - date: 2022-10-16T07:23:38Z
+#   name: Coffeelab Brazil, Guatemala, Etiópia Blend
+#   image: cdn:/8567c29a97a350ec2180ebb98d6be5c4f39784c124d562610bd8285eec70edeb
+- date: 2022-10-14T19:55:10+02:00
+  location:
+    latitude: 51.435428
+    longitude: 5.483207
+    name: The Ginscal
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: 🍸 French 76
+  image: cdn:/ebbe99e9a16afa76f7955de912dc5f32cc0eedf3e2dff5d2d019f837d646b2bf
+# - date: 2022-09-25T06:30:24Z
+#   name: French Press Coffee (Lucifer Ethiopia)
+#   image: cdn:/b74d8488136b76648871bf4fb47bff6a9ba53b774dd4aa391cba1e216a82ce0b
+- date: 2022-09-12T13:22:04+02:00
+  location:
+    latitude: 51.4271416040902
+    longitude: 5.482368025889314
+    name: Stadswandelpark
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: ☕️ Hazulnut Coffee
+  image: cdn:/3390cb907397fee5b90d91a6c62fbc0bba31c2395fa0e552404d27bc55ae9a66
+# - date: 2022-09-04T06:39:18Z
+#   name: Cold Brew Iced Coffee (Lucifer Costa Rica)
+#   image: cdn:/382b9ec0ea849a73de9f00424692682104ea0e79f85472f4187e6950af7416a8
+- date: 2022-07-04T07:23:49Z
+  location:
+    latitude: 51.43247
+    longitude: 5.48618
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: 🧊 Homemade Iced Coffee
+  image: cdn:/812bc6d6dfccaacfc4f93b26ad011b8d8741c61227364fad32de74856021a73e
+- date: 2022-06-22T08:26:48Z
+  location:
+    latitude: 51.43247
+    longitude: 5.48618
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: ☕️ Iced Coffee
+  image: cdn:/3a6fbc67fd4d09e4ab4ac69a99aed9033ffe59738bec86d19de9906be1002a82
+- date: 2022-06-19T18:38:21Z
+  location:
+    latitude: 51.43723581305695
+    longitude: 5.481018012473559
+    name: Down Town Gourmet Market
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: 🥃 Baileys’ Coffee
+  image: cdn:/ff9ca0308a8a98698ea7209f2be190c6a19cddc7d7fac6339866566068b1bc77
+- date: 2022-06-19T17:34:38Z
+  location:
+    latitude: 51.43723581305695
+    longitude: 5.481018012473559
+    name: Down Town Gourmet Market
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: 🍸 Hugo Spritz
+  image: cdn:/fcff5330c952c525e55fad048927a7c6e227b6389213b7312ee1c83ce50568ad
+- date: 2022-06-07T07:35:34Z
+  location:
+    latitude: 51.43246
+    longitude: 5.48621
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: ☕️ Iced Coffee
+  image: cdn:/e7c81372cc48c1fc9d3e6b7b9113d67c8b020113765f16ae1d3b7f42d474486b
+- date: 2022-06-04T15:25:25Z
+  location:
+    latitude: 51.446185
+    longitude: 5.458785
+    name: Tea Stories
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: 🍍 Ananás Bubble Tea
+  image: cdn:/51faaef1e824c5c7291802037eca13d5624fc5b7a3982c87d3899f321f3da538
+- date: 2022-05-04T17:50:01Z
+  location:
+    latitude: 51.446185
+    longitude: 5.458785
+    name: Tea Stories
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: 🧋 Lavender Bubble Tea
+  image: cdn:/c786a87f5c9003d0883ff5ccad5be7591e24b63e92e9bc79bfcd7b1e0948ca42
+- date: 2022-04-24T13:15:22Z
+  location:
+    latitude: 51.49735805798784
+    longitude: -0.17443418552973236
+    name: Science Museum
+    locality: London
+    region: Greater London
+    country: United Kingdom
+  name: 🫐 Rekorderlig Wild Berries
+  image: cdn:/102cf92a1ec6bd709cac4c7874edc375aae280422d1cd93c5a3baa7e83feb0ef
+- date: 2022-04-23T17:44:59Z
+  location:
+    latitude: 51.528408
+    longitude: -0.11952393
+    name: The Lucas Arms
+    locality: London
+    region: Greater London
+    country: United Kingdom
+  name: 🍸 Violet Spritz
+  image: cdn:/f510915bdd6af924609a9f8be721bdba592a96e98cf059a9718fbd397a37b8ae
+- date: 2022-03-28T12:36:07+02:00
+  location:
+    latitude: 51.443903
+    longitude: 5.479896
+    name: Lucifer Coffee Roasters
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: ☕️ Iced Coffee
+  image: cdn:/88e5a6bef8199853a50a3c4275b46e30ca119b44dc06bae70a9ee7372772e958
+- date: 2022-03-26T15:10:19Z
+  location:
+    latitude: 52.33579
+    longitude: 4.87351
+    locality: Amsterdam
+    region: North Holland
+    country: Netherlands
+  name: 🍹 Almdudler
+  image: cdn:/21c98e63d7d9d5bf53b493c772baf7b4568839effa2dc5ef10a641c85bc95ba0
+- date: 2022-03-22T17:40:45Z
+  location:
+    latitude: 51.43247
+    longitude: 5.48616
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: 🫖 Strawberry & Hibiscus Tea
+  image: cdn:/f3df7988676ced64ec7abc1151f1aa3dcc2351594f46dbf93d3a89a8ddf6be14
+- date: 2022-03-16T13:47:04Z
+  location:
+    latitude: 51.43252
+    longitude: 5.48641
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: 🫖 Apple and Cinnamon Tea
+  image: cdn:/1efffd5319857b6fb902797558df103573f37e23ccf1706c73f71a91e611a5dc
+- date: 2022-03-19T20:23:19+01:00
+  location:
+    latitude: 51.438431
+    longitude: 5.475139
+    name: XU Noodle Bar
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: 🫖 Black Tea
+  image: cdn:/90730d2d6194ffe58250b6380767474800c849794406a4d67bd5410fc9e04b6a
+- date: 2022-01-25T08:46:30+01:00
+  location:
+    latitude: 51.43248
+    longitude: 5.48613
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: 🫖 Assam Gold Tea
+  image: cdn:/879910bffda897d887a05ad5f104a0fdb33c0c87bbf51c5cc7c8b35ffd2de717
+- date: 2021-11-06T15:46:14+01:00
+  location:
+    latitude: 51.438632
+    longitude: 5.479414
+    name: Möge Tee
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: 🧋 Cheese Bubble Tea
+  image: cdn:/d66b86815d447a861dcb9c59cdad37d2b6259b1159711bb61a4e301f0281ad46
+- date: 2020-02-06T21:35:14+01:00
+  location:
+    latitude: 50.84854906642246
+    longitude: 4.353818917267439
+    name: Delirium Café
+    locality: Brussels
+    region: Brussels-Capital Region
+    country: Belgium
+  name: 🍺 Delirium Beer
+  image: cdn:/7adb9dd49e41480f78da0043e5d505fefac56fed01be312d89939c5dc06453c4
+- date: 2020-02-04T12:33:44+01:00
+  location:
+    latitude: 49.610646
+    longitude: 6.132615
+    name: Chocolate House Nathalie Bonn
+    locality: Luxembourg
+    region: District de Luxembourg
+    country: Luxembourg
+  name: 🍫 Hot Chocolate
+  image: cdn:/16300bd77ecb60d991656698b9611f02dc05499961556b814c14b1363ed8ca99
+

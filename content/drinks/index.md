@@ -1,5 +1,5 @@
 ---
 title: Drinks
-listing: {}
+template: drinks
 description: Things I drank.
 ---
