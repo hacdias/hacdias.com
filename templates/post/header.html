@@ -15,10 +15,6 @@
     {{ include "post/header/bookmark" . }}
   {{ else if eq $type "read" }}
     {{ include "post/header/read" . }}
-  {{ else if eq $type "drank" }}
-    {{ include "post/header/drank" . }}
-  {{ else if eq $type "ate" }}
-    {{ include "post/header/ate" . }}
   {{ else if .Entry.Title }}
     <header>
       {{ if .Listing }}

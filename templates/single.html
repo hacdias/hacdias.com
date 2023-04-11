@@ -5,7 +5,6 @@
   {{ $card := or
     (eq $type "reply")
     (eq $type "bookmark")
-    (eq $type "ate") (eq $type "drank")
     (eq $type "read") }}
   <article class='{{ if $card }}card {{ end }}h-entry'>
     {{ include "post/header" . }}
