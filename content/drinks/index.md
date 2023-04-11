@@ -1,5 +1,5 @@
 ---
 title: Drinks
-template: drinks
+template: foodgram
 description: Things I drank.
 ---
