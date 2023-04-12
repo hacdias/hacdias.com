@@ -9,39 +9,39 @@ This website contains more things than it looks at first glance. This page is a 
 
 <div class='terms grid bold'>
 
-- [✏️ Articles](/articles)
-- [🔖 Bookmarks](/bookmarks)
-- [🧋 Drinks](/drinks)
-- [🌊 Everything](/all)
-- [🥘 Food](/food)
-- [🏡 Home](/)
-- [🗒️ Notes](/micro)
-- [📸 Photos](/photos)
-- [🏷 Tags](/tags)
-
-</div>
-
-### 🧵 Others {#others}
-
-<div class='terms grid bold'>
-
 - [🧁 About](/about)
+- [✏️ Articles](/articles)
 - [🗞️ Blogroll](/blogroll)
-- [⚙️ Colophon](/colophon)
+- [🔖 Bookmarks](/bookmarks)
 - [✉️ Contact](/contact)
 - [📖 Guestbook](/guestbook)
 - [🚀 Impossible List](/impossible-list)
+- [🗒️ Notes](/micro)
+- [📸 Photos](/photos)
+
+</div>
+
+### 🧵 Logs {#logs}
+
+<div class='terms grid bold'>
+
+- [🧋 Drinks](/drinks)
+- [🥘 Food](/food)
 - [📚 Readings](/readings)
 - [🚆 Trips](/trips)
-- [🛠 Uses](/uses)
 - [🎬 Watches](/watches)
 
 </div>
 
-<!-- 
-- [🎮 Games](/games)  -->
+### 💎 Meta {#meta}
 
+<div class='terms grid bold'>
 
+- [⚙️ Colophon](/colophon)
+- [🛠 Uses](/uses)
+- [🏷 Tags](/tags)
+
+</div>
 
 ### 🧪 Experiments {#experiments}
 
