@@ -13,7 +13,7 @@ April is quickly coming to an end and... what a month it was! From Portugal to L
 
 <!--more-->
 
-In the first week of April, I managed to visit my parents back in Portugal and it was quite nice to spend some nice with them. Even though I was planning on working on my thesis during that week, it wasn't as much possible as I thought it would be. You've probably [seen](/2022/04/02/nbxyniermj) [some](/2022/04/01/nrasxbfvkq) [pictures](/2022/04/02/bjdijjdaee) from those days, but here's a dwarf goat for you:
+In the first week of April, I managed to visit my parents back in Portugal and it was quite nice to spend some nice with them. Even though I was planning on working on my thesis during that week, it wasn't as much possible as I thought it would be. You've probably seen [some](/2022/04/01/nrasxbfvkq) pictures from those days, but here's a dwarf goat for you:
 
 ![Dwarf Goat](cdn:/2022-04-dwarf-goat?class=fw)
 

@@ -24,7 +24,17 @@ Last weekend, Christiaan and I went to the Christmas Market in Aachen. The first
 
 Traveling to Aachen from Eindhoven was quite straightforward, except for the fact that the railways between Heerlen and Aachen were in maintenance for that weekend only. How lucky! Nevertheless, there were replacement buses from Arriva that brought us to Aachen quickly.
 
-In Aachen, I tried quite a few food items that I've never seen before. Namely, [reibekuchen](/2022/12/17/13h51m08s00) 🥔, interestingly shaped, yet amazingly delicious, [pancakes](/2022/12/17/19h19m04s00) 🥞, as well as some [flammkuchen](/2022/12/17/19h40m04s00) 🧅. All of these foods were very nice, especially enjoyed the pancakes and the flammkuchen.
+In Aachen, I tried quite a few food items that I've never seen before. Namely, reibekuchen 🥔, interestingly shaped, yet amazingly delicious, pancakes 🥞, as well as some flammkuchen 🧅. All of these foods were very nice, especially enjoyed the pancakes and the flammkuchen.
+
+<div class="fw fg fg-2212aken">
+
+![](cdn:/8555b881040e44434d5583358b8ebd3aabca74fd4b7838b7b68d4f283959bb0c)
+
+![](cdn:/665a076a688e0ef203e71964b754492f49c78fc0d2937972bb03baa8c6f687fd)
+
+![](cdn:/3da4a86bfbaecf852e5bb254b4e574a3c29c1c3b193915697e1f4493a3a7d7d6)
+
+</div>
 
 Of course, among all these food, we also had some glühwein, both red and white. I have never seen white glühwein before, but it was quite nice. I also tried eierpunsch, which is quite delicious. I would just turn the notch down on the alcohol amount on that one 😅 And, finally, we also had some nice hot chocolates.
 
