@@ -407,9 +407,19 @@
   ],
   "me": [
     {
+      "title": "Articles - Henrique Dias",
+      "site": "https://hacdias.com/articles/",
+      "feed": "https://hacdias.com/articles/feed.xml"
+    },
+    {
       "title": "Home - Henrique Dias",
       "site": "https://hacdias.com/",
-      "feed": "https://hacdias.com/.atom"
+      "feed": "https://hacdias.com/feed.xml"
+    },
+    {
+      "title": "Photos - Henrique Dias",
+      "site": "https://hacdias.com/photos/",
+      "feed": "https://hacdias.com/photos/feed.json"
     }
   ]
 }
