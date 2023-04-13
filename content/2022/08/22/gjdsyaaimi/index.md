@@ -1,12 +1,10 @@
 ---
-published: 2022-08-22T23:29:02.571465586+02:00
-section:
+date: 2022-08-22T23:29:02.571465586+02:00
+tags:
+- meta
+- thesis
+categories:
 - micro
-- home
-taxonomies:
-  tags:
-  - meta
-  - thesis
 ---
 
 Today I've made a lot of progress on my thesis defense slides. It's probably getting too big, but my strategy is to finish the slides, and then present it to myself to see how long it takes. Based on that I can cut or change some parts.

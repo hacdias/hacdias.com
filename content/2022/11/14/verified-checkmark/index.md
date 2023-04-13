@@ -1,11 +1,10 @@
 ---
 title: Verifying My Personal Website
 description: Got myself a verified checkmark
-published: 2022-11-14T11:41:03.405826199+01:00
-section:
-- articles
-- home
+date: 2022-11-14T11:41:03.405826199+01:00
 coverImage: cdn:/1858a747667c2d9b8c64ccac04679aae7c3caacabadcf172c44ceca288aaae7b
+categories:
+- articles
 location:
   latitude: 51.43249
   longitude: 5.48607

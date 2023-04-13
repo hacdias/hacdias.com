@@ -1,12 +1,10 @@
 ---
 title: Linking Reading Progress Together
-published: 2022-01-25T16:13:26.918597757Z
-section:
+date: 2022-01-25T16:13:26.918597757Z
+tags:
+- meta
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - meta
 ---
 
 Lately, I have been [reading](/readings/) a bit more. Therefore, I wanted to be able to post more about it and track the progress. This is something I used to do before with Goodreads, but I have since stopped using it. The logical solution? Implement more features on my website. Why not?

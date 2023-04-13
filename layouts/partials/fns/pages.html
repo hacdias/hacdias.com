@@ -1,0 +1,5 @@
+{{ $pages := .Pages }}
+{{ if .IsHome }}
+  {{ $pages = where .Site.RegularPages "Params.categories" "ne" nil }}
+{{ end }}
+{{ return $pages }}

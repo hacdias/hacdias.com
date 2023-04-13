@@ -1,12 +1,10 @@
 ---
-published: 2022-10-08T11:15:11.331447455+02:00
-section:
+date: 2022-10-08T11:15:11.331447455+02:00
+tags:
+- macos
+- productivity
+categories:
 - micro
-- home
-taxonomies:
-  tags:
-  - macos
-  - productivity
 location:
   latitude: 51.4324
   longitude: 5.48607

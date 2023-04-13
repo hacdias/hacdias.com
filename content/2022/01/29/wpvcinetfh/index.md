@@ -1,14 +1,12 @@
 ---
 title: Remark42 – Privacy-focused lightweight commenting engine
 description: Bookmarked a post on remark42.com
-published: 2022-01-29T11:10:10.81589799Z
-section:
+date: 2022-01-29T11:10:10.81589799Z
+tags:
+- tool
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://remark42.com/
-taxonomies:
-  tags:
-  - tool
+bookmark: https://remark42.com/
 ---
 
 

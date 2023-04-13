@@ -1,12 +1,9 @@
 ---
 description: Replied to a post on janboddez.tech
-unlisted: true
-published: 2020-06-01T13:51:07.72Z
-properties:
-  in-reply-to: https://janboddez.tech/notes/b6b59a1630
-taxonomies:
-  tags:
-  - meta
+date: 2020-06-01T13:51:07.72Z
+noIndex: true
+tags:
+- meta
 context:
   name: Jan Boddez
   url: https://janboddez.tech/notes/b6b59a1630
@@ -18,6 +15,7 @@ context:
     the “context” that makes replies and such so much more understandable. Not a huge
     issue, just thought I’d let you know.)'
   published: 2020-06-01T13:20:27Z
+reply: https://janboddez.tech/notes/b6b59a1630
 ---
 
 > Love the animated GIFs! The background!

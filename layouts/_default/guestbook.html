@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<main role='main'>
+  <article class='h-entry'>
+    {{- partialCached "post/header" (dict "Page" . "Listing" false) .Permalink false }}
+    {{- partialCached "post/content" . .Permalink }}
+
+    <div class='copy comment-form'>
+      <div hidden>
+        ℹ️ Your comment has been submitted for approval and I will be looking at it very soon.
+        Thanks for passing by and leaving your mark. Do you want to submit a <a href='{{ relURL "/guestbook" }}'>new entry</a>?
+      </div>
+
+      <form method='post' class='block-form'>
+        <input type='text' name='name' placeholder='Name (optional)' value='' required />
+        <input type='url' name='website' placeholder='Website (optional)' value='' />
+        <textarea required name='content' placeholder='Comment'></textarea>
+        <button>Comment</button>
+      </form>
+    </div>
+
+    <script>
+    const params = new URL(window.location).searchParams;
+    if (params.get('youre') === 'awesome') {
+      document.querySelector('.comment-form > div').hidden = false;
+      document.querySelector('.comment-form > form').hidden = true;
+    }
+    </script>
+
+    {{ with .Site.Data.guestbook -}}
+    <div class="entries">
+      {{- range . }}
+        {{ if not .unseen }}
+        <div class="entry">
+          {{ with .content }}
+            <div>{{ safeHTML . }}</div>
+          {{ end }}
+
+          <div class="signature">—
+          {{ with .website }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
+          {{ with .name }}{{ . }}{{ else }}Anonymous{{ end }}
+          {{- with .date}}, {{ dateFormat "02 January 2006" . }}{{end }}
+          {{ with .website }}</a>{{ end }}
+          </div>
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end -}}
+  </article>
+</main>
+
+{{ end }}

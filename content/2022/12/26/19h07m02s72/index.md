@@ -1,10 +1,8 @@
 ---
 description: Replied to a post on brainbaking.com
-unlisted: true
-published: 2022-12-26T19:07:02.721848524+01:00
-updated: 2022-12-26T19:07:32.319302669+01:00
-properties:
-  in-reply-to: https://brainbaking.com/notes/2022/12/26h18m18s48/
+date: 2022-12-26T19:07:02.721848524+01:00
+lastmod: 2022-12-26T19:07:32.319302669+01:00
+noIndex: true
 location:
   latitude: 37.50651
   longitude: -8.29791
@@ -21,6 +19,7 @@ context:
     site layout as it’s reminiscent of past sites and my youth, so I won’t. Until
     I will. But probably not. Yet. \U0001F605"
   published: 2022-12-26T18:18:00Z
+reply: https://brainbaking.com/notes/2022/12/26h18m18s48/
 ---
 
 Thanks for the comment. Also, FYI, my new URL slugs for notes and quick posts are inspired on yours: I know use the hour, minutes and seconds instead of a random slug 😅. That's something I don't think I've ever pointed out, but still a fun fact.

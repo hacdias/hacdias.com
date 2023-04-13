@@ -1,9 +1,8 @@
 ---
-published: 2022-12-07T17:11:29.253397264+01:00
-section:
-- home
-- micro
+date: 2022-12-07T17:11:29.253397264+01:00
 coverImage: cdn:/eda77737c2704250e7693eaaa9a1721fcf0e9700aab41dcbea1e1b2625a9db65
+categories:
+- micro
 location:
   latitude: 51.44584
   longitude: 5.46146

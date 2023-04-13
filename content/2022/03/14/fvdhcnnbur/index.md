@@ -1,12 +1,9 @@
 ---
 description: Replied to a post on rusingh.com
-unlisted: true
-published: 2022-03-14T07:41:13.940614796+01:00
-properties:
-  in-reply-to: https://rusingh.com/email-is-nice/
-taxonomies:
-  tags:
-  - email
+date: 2022-03-14T07:41:13.940614796+01:00
+noIndex: true
+tags:
+- email
 context:
   url: https://rusingh.com/email-is-nice/
   content: I’ve been unsubscribing from intentional/side effect spam (as I like to
@@ -30,6 +27,7 @@ context:
     Tiny signatures are best. Both plain text and HTML is great (at least in 1:1s
     and when used responsibly)! Photo by Brett Jordan on Unsplash. 1
   published: 2022-03-14T10:35:26+05:30
+reply: https://rusingh.com/email-is-nice/
 ---
 
 I recently transitioned from [ImprovMX to Migadu](/2022/03/06/ttahqozjog) to lower my costs. However, I'm planning to move everything over from Google (Calendar, Contacts and E-mail). Unfortunately, Migadu doesn't have official support for Calendar and Contacts yet. They say that will be available within two months. However, they've given other similar deadlines over the last year that did not happen.

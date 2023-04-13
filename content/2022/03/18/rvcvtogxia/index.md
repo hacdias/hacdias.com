@@ -1,11 +1,9 @@
 ---
-published: 2022-03-18T22:58:03.224792215+01:00
-section:
-- home
+date: 2022-03-18T22:58:03.224792215+01:00
+tags:
+- meta
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
 location:
   latitude: 51.43249
   longitude: 5.48615

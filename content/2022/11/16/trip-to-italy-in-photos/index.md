@@ -1,11 +1,10 @@
 ---
 title: Italia
 description: Trip to Italy in Photos
-published: 2022-11-16T14:28:29.381987946+01:00
-section:
-- photos
-- home
+date: 2022-11-16T14:28:29.381987946+01:00
 coverImage: cdn:/ece0c9110b225ff12ecf8118466a674a17fc740d13394ef991ece3d97be2c6aa
+categories:
+- photos
 location:
   latitude: 51.43245
   longitude: 5.486

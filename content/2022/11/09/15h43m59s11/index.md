@@ -1,11 +1,9 @@
 ---
-published: 2022-11-09T15:43:59.118854045+01:00
-section:
+date: 2022-11-09T15:43:59.118854045+01:00
+tags:
+- activitypub
+categories:
 - micro
-- home
-taxonomies:
-  tags:
-  - activitypub
 location:
   latitude: 51.43241
   longitude: 5.48615

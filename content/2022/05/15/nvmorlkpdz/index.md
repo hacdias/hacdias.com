@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jan.boddez.net
-unlisted: true
-published: 2022-05-15T15:20:35.361020968+02:00
-properties:
-  in-reply-to: https://jan.boddez.net/notes/9dc490c447
+date: 2022-05-15T15:20:35.361020968+02:00
+noIndex: true
 location:
   latitude: 51.43248
   longitude: 5.48615
@@ -17,6 +15,7 @@ context:
     avatars, that reflect any emoji present in his notes. (Turns out, of course, Aaron
     has an actual emoji archive, too. \U0001F60A)"
   published: 2022-05-15T14:46:25+02:00
+reply: https://jan.boddez.net/notes/9dc490c447
 ---
 
 Thanks! I think Aaron's archive is probably the [first](https://aaronparecki.com/2017/02/20/6/day-62-emoji)!

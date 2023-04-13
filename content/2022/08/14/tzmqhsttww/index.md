@@ -1,14 +1,12 @@
 ---
 title: Dmitri Shuralyov
 description: Bookmarked a post on dmitri.shuralyov.com
-published: 2022-08-14T15:04:12.244504029+02:00
-section:
+date: 2022-08-14T15:04:12.244504029+02:00
+tags:
+- personal-website
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://dmitri.shuralyov.com/
-taxonomies:
-  tags:
-  - personal-website
+bookmark: https://dmitri.shuralyov.com/
 ---
 
 

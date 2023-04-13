@@ -1,12 +1,10 @@
 ---
 title: Year in Music '21
-published: 2022-01-01T12:00:00+01:00
-section:
+date: 2022-01-01T12:00:00+01:00
+tags:
+- year-in-music
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - year-in-music
 ---
 
 <style>

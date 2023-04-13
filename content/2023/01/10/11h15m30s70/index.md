@@ -1,10 +1,8 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2023-01-10T11:15:30.705771913+01:00
-updated: 2023-01-10T11:16:20.852945469+01:00
-properties:
-  in-reply-to: https://jlelse.blog/micro/2023/01/2023-01-10-gvdbv
+date: 2023-01-10T11:15:30.705771913+01:00
+lastmod: 2023-01-10T11:16:20.852945469+01:00
+noIndex: true
 location:
   latitude: 51.27460727927876
   longitude: 6.828358205069141
@@ -22,6 +20,7 @@ context:
     (personal damage?)… Always, ALWAYS expect delays when travelling by train through
     Germany. \U0001F643 And make use of your passenger rights!"
   published: 2023-01-10T10:12:58Z
+reply: https://jlelse.blog/micro/2023/01/2023-01-10-gvdbv
 ---
 
 My compensation rights go through NS because I bought the ticket with them. And NS only refunds money after 1h delay. We’re over 1h delayed now but we’re expected to be able to recover part of it. After I arrive at my final destination I’ll look into it.

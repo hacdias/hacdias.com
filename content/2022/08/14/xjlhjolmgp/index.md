@@ -1,14 +1,12 @@
 ---
 title: ~sfr
 description: Bookmarked a post on cronut.cafe
-published: 2022-08-14T15:04:55.740952442+02:00
-section:
+date: 2022-08-14T15:04:55.740952442+02:00
+tags:
+- personal-website
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://cronut.cafe/~sfr/
-taxonomies:
-  tags:
-  - personal-website
+bookmark: https://cronut.cafe/~sfr/
 ---
 
 

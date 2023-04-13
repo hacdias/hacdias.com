@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jan.boddez.net
-unlisted: true
-published: 2022-11-09T23:40:03.471875927+01:00
-properties:
-  in-reply-to: https://jan.boddez.net/notes/4f8879145f
+date: 2022-11-09T23:40:03.471875927+01:00
+noIndex: true
 location:
   latitude: 51.43245830661891
   longitude: 5.486148864266286
@@ -23,6 +21,7 @@ context:
     our health insurer, we still have to request it by phone or (snail) mail, and
     wait a week or two. Or three.
   published: 2022-11-09T21:27:29+01:00
+reply: https://jan.boddez.net/notes/4f8879145f
 ---
 
 Interesting. Are you a cross-border worker? I would have assumed that anyone with a BSN (which I think you should have as you fill Dutch taxes) would have [access to DigiD](https://www.digid.nl/en/living-abroad/).

@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2022-06-15T09:04:11.965707199+02:00
-properties:
-  in-reply-to: https://jlelse.blog/micro/2022/06/2022-06-15-xlwja
+date: 2022-06-15T09:04:11.965707199+02:00
+noIndex: true
 location:
   latitude: 51.43241
   longitude: 5.4861
@@ -19,6 +17,7 @@ context:
     custom domain. See this post as an example. To secure your media files, you could
     use Token Authentication with Bunny.net. Good luck with your thesis!'
   published: 2022-06-15T08:29:29+02:00
+reply: https://jlelse.blog/micro/2022/06/2022-06-15-xlwja
 ---
 
 > Have you heard of Bunny.net Stream?

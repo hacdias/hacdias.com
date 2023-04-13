@@ -1,10 +1,9 @@
 ---
 title: Fonte Luminosa
-published: 2019-03-26T18:19:00Z
-section:
-- photos
-- home
+date: 2019-03-26T18:19:00Z
 coverImage: cdn:/2020-03-lisbon-03
+categories:
+- photos
 location:
   latitude: 38.7372692
   longitude: -9.1346645

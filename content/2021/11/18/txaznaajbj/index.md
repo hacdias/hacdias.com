@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on seblog.nl
-unlisted: true
-published: 2021-11-18T21:07:18.222010491Z
-properties:
-  in-reply-to: https://seblog.nl/2021/11/18/1/indieauth-without-indieauth-com
+date: 2021-11-18T21:07:18.222010491Z
+noIndex: true
 context:
   name: Sebastiaan Andeweg
   url: https://seblog.nl/2021/11/18/1/indieauth-without-indieauth-com
@@ -44,6 +42,7 @@ context:
     for a person that is not you, that person and I have a problem anyway, regardless
     of you knowing the endpoint.'
   published: 2021-11-18T20:18:05Z
+reply: https://seblog.nl/2021/11/18/1/indieauth-without-indieauth-com
 ---
 
 I am really enjoying your posts about Yak and the progress! I am also working on my own system and will write an article very soon. 

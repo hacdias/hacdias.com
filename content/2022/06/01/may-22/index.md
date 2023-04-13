@@ -1,12 +1,10 @@
 ---
 title: Recently in May '22
-published: 2022-06-01T16:08:21.646581771+02:00
-section:
+date: 2022-06-01T16:08:21.646581771+02:00
+tags:
+- now
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - now
 ---
 
 May was a loooong month in the sense that a lot happened. It is crazy to think that we're now starting the sixth month of 2022, which means that we're nearing the first semester of this year. It feels like it just started.

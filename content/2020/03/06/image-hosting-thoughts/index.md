@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-03-06T11:57:08.634Z
-properties:
-  in-reply-to: https://jlelse.blog/micro/2020/03/photos-workflow/
+date: 2020-03-06T11:57:08.634Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/03/photos-workflow
@@ -24,6 +22,7 @@ context:
     probably setup a cron job to regularly copy new files via FTP from their storage
     to another storage.
   published: 2020-03-06T11:58:25+01:00
+reply: https://jlelse.blog/micro/2020/03/photos-workflow/
 ---
 
 That's a great way to put it. Thanks for sharing how you're doing it. I'm using the HTML [`picture`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) element to serve pictures in different formats and sizes. Right now, besides the original, Hugo's generating two more that are compressed and resized.

@@ -1,18 +1,17 @@
 ---
 title: Thread by @giovannigruni on New Italian Government
 description: Bookmarked a post on twitter.com
-published: 2022-10-30T00:48:58.728486734+02:00
-updated: 2022-10-30T00:49:36.078417102+02:00
-section:
+date: 2022-10-30T00:48:58.728486734+02:00
+lastmod: 2022-10-30T00:49:36.078417102+02:00
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://twitter.com/giovannigruni/status/1582441784445063168
 location:
   latitude: 38.72238
   longitude: -9.15652
   locality: Lisbon
   region: Lisbon
   country: Portugal
+bookmark: https://twitter.com/giovannigruni/status/1582441784445063168
 ---
 
 > New Italian Government not even started yet and shit is hitting the fan already. A surreal thread. 🧵

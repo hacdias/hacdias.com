@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-02-17T21:22:26.584Z
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2020/02/opinions-change/
+date: 2020-02-17T21:22:26.584Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/02/opinions-change
@@ -17,6 +15,7 @@ context:
     want to delete most of what I published back then just like that. My blog is partially
     a kind of diary and through certain posts I can remember back.
   published: 2020-02-17T18:38:56+01:00
+reply: https://jlelse.blog/thoughts/2020/02/opinions-change/
 ---
 
 Completely agree with all you've said. "But still, I don’t want to delete most of what I published back then just like that." this is something I've come to learn. My website passed through many phases where I removed a lot of the posts I had there. But now? Now I restored everything.

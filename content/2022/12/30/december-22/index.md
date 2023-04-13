@@ -1,12 +1,10 @@
 ---
 title: Recently in December '22
-published: 2022-12-30T15:33:18.862779605+01:00
-section:
-- home
+date: 2022-12-30T15:33:18.862779605+01:00
+tags:
+- now
+categories:
 - articles
-taxonomies:
-  tags:
-  - now
 ---
 
 December is concluding and with it, we're closing in the end of 2022. With the end of this month, I am writing one more retrospective about the events that have happened in my life during the past month. I am still on the fence whether or not I am writing a "year in review". I will likely do a post for music and one for movies and TV shows with some stats. But I'm not sure I will write a generic year in review.

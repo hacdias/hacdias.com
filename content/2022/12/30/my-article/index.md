@@ -1,12 +1,10 @@
 ---
 title: NuPhy Air75
 draft: true
-section:
+tags:
+- example
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - example
 location:
   latitude: 51.44585
   longitude: 5.46172

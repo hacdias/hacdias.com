@@ -1,14 +1,12 @@
 ---
-published: 2020-02-01T14:52:09.397Z
-section:
-- home
+date: 2020-02-01T14:52:09.397Z
+tags:
+- meta
+- cdn
+- micropub
+- media
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - cdn
-  - micropub
-  - media
 ---
 
 I just set up a media endpoint based on [BunnyCDN](https://bunnycdn.com), inspired by @jlelse's [post](https://jlelse.blog/micro/2020/01/2020-01-01-frviz/). So far, it's working really well.

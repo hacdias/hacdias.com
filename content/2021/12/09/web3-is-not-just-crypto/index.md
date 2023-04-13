@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2021-12-09T07:17:12.106508098Z
-properties:
-  in-reply-to: https://jlelse.blog/links/2021/12/real-web3
+date: 2021-12-09T07:17:12.106508098Z
+noIndex: true
 location:
   latitude: 51.43247
   longitude: 5.48614
@@ -38,6 +36,7 @@ context:
     something like this. If something is to be the future, it must also be environmentally
     friendly! https://write.as/matt/what-would-a-real-web3-look-like'
   published: 2021-12-08T20:57:31+01:00
+reply: https://jlelse.blog/links/2021/12/real-web3
 ---
 
 I just want to give my two cents on this: [web3](https://en.wikipedia.org/wiki/Web3) or Web 3.0 is not just blockchains. It's an umbrella term for all the new, peer-to-peer, decentralized, technologies. What about IPFS, Scuttlebutt, Hypercore, ActivityPub, Matrix, etc? What about owning your identity, your data? I would even consider IndieWeb - and its form of communication - part of web3.

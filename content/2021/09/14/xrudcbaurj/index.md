@@ -1,11 +1,10 @@
 ---
-published: 2021-09-14T12:00:00+01:00
-section:
-- photos
-- home
+date: 2021-09-14T12:00:00+01:00
 coverImage: cdn:/2bcb49260201013b692cb764820861c0c5a87b2c8be9357b895d5bc9af76a19a
-properties:
-  syndication: https://www.instagram.com/p/CT0QpzQsPiZ/
+categories:
+- photos
+syndications:
+- https://www.instagram.com/p/CT0QpzQsPiZ/
 ---
 
 Basic B**** Pictures 📸

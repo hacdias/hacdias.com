@@ -1,9 +1,8 @@
 ---
 title: Writing a Gratitude Journal for Two Years
-published: 2023-02-24T11:18:11.90446707+01:00
-section:
+date: 2023-02-24T11:18:11.90446707+01:00
+categories:
 - articles
-- home
 ---
 
 Some time ago, I decided to buy a gratitude journal 📓. I have been writing on and off on it for quite some time, definitely over a year and maybe two. Over this time, I think I can say that this has been beneficial for me. And I wanted to share this experience with others.

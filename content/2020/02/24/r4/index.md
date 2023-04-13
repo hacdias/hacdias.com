@@ -1,13 +1,10 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-02-24T09:53:05.038Z
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2020/02/twitter-brands/
-taxonomies:
-  tags:
-  - socialmedia
-  - detox
+date: 2020-02-24T09:53:05.038Z
+noIndex: true
+tags:
+- socialmedia
+- detox
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/02/twitter-brands
@@ -24,6 +21,7 @@ context:
     accounts. To express my opinion I use my blog. No algorithms that think they know
     what interests me. No promoted tweets.'
   published: 2020-02-24T08:49:55+01:00
+reply: https://jlelse.blog/thoughts/2020/02/twitter-brands/
 ---
 
 I've actually thought about doing this multiple times. Not Twitter actually, but Facebook for now. The only thing that stops me is some university groups that we _only_ have on Facebook that are useful sometimes. However, I already uninstalled it from my phone. Sometimes I wanna show someone something and then I think "I don't have FB installed", but it doesn't matter anyway. Usually it's not something that important.

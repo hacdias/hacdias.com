@@ -1,10 +1,9 @@
 ---
 title: Maastricht I
-published: 2021-05-31T00:00:00Z
-section:
-- photos
-- home
+date: 2021-05-31T00:00:00Z
 coverImage: cdn:/2021-05-maastricht-03
+categories:
+- photos
 ---
 
 Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I got a sunburn. Didn't expect that. Next time I'll be more careful.

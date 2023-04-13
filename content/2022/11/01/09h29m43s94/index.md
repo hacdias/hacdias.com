@@ -1,18 +1,17 @@
 ---
 title: 'Website Fidelity: Browser Perspective'
 description: Bookmarked a post on blog.jim-nielsen.com
-published: 2022-11-01T09:29:43.945947114+01:00
-updated: 2022-11-01T09:32:46.331087525+01:00
-section:
+date: 2022-11-01T09:29:43.945947114+01:00
+lastmod: 2022-11-01T09:32:46.331087525+01:00
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://blog.jim-nielsen.com/2022/website-fidelity-browser/
 location:
   latitude: 38.72739626290747
   longitude: -9.148696701959485
   locality: Lisbon
   region: Lisbon
   country: Portugal
+bookmark: https://blog.jim-nielsen.com/2022/website-fidelity-browser/
 ---
 
 Similarly to his [last article](/2022/10/18/jxtcumpfaf), Jim dives into the concept of website fidelity, which is a way of reducing the amount of resources a website consumes by lowering its fidelity to the original visuals and features. I quite like this idea.

@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2022-06-20T23:32:33.827155357+02:00
-properties:
-  in-reply-to: https://jlelse.blog/micro/2022/06/2022-06-20-duavy
+date: 2022-06-20T23:32:33.827155357+02:00
+noIndex: true
 location:
   latitude: 51.43246
   longitude: 5.48617
@@ -15,6 +13,7 @@ context:
   url: https://jlelse.blog/micro/2022/06/2022-06-20-duavy
   content: This is what Crayion thinks about me…
   published: 2022-06-20T21:36:28+02:00
+reply: https://jlelse.blog/micro/2022/06/2022-06-20-duavy
 ---
 
 Do you want to swap?

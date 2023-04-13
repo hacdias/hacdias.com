@@ -1,17 +1,16 @@
 ---
 title: 'How I take smart digital notes—Part 1: A map for the journey'
 description: Bookmarked a post on ramses.blog
-published: 2022-10-29T23:25:04.249148895+02:00
-section:
+date: 2022-10-29T23:25:04.249148895+02:00
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://ramses.blog/how-take-notes-part-1/
 location:
   latitude: 38.72778
   longitude: -9.14882
   locality: Lisbon
   region: Lisbon
   country: Portugal
+bookmark: https://ramses.blog/how-take-notes-part-1/
 ---
 
 > As an autodidact, you will meet many different content formats on the road to understanding. Not all formats are created equal, and some work better than others. Add to that learning preferences, and you’ve got yourself a complicated situation.

@@ -1,12 +1,10 @@
 ---
-published: 2020-02-16T11:06:57.887Z
-section:
-- home
+date: 2020-02-16T11:06:57.887Z
+tags:
+- meta
+- organization
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - organization
 ---
 
 So I just made a few changes to my website and I hope it didn't break anything like feeds and such. Here's a small changelog of the changes:

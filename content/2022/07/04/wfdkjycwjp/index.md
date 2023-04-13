@@ -1,9 +1,8 @@
 ---
-published: 2022-07-04T20:19:29.844308258+02:00
-section:
-- photos
-- home
+date: 2022-07-04T20:19:29.844308258+02:00
 coverImage: cdn:/d52525365c4ec3cf101f540aa8590db81303f61cd55977dd14579f6ba6c0ddee
+categories:
+- photos
 location:
   latitude: 51.43247
   longitude: 5.48619

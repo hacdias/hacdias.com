@@ -1,14 +1,11 @@
 ---
-published: 2022-09-07T14:56:10.428908376+02:00
-section:
+date: 2022-09-07T14:56:10.428908376+02:00
+tags:
+- thesis
+categories:
 - micro
-- home
-properties:
-  syndication:
-  - https://twitter.com/hacdias/status/1567496952689958913
-taxonomies:
-  tags:
-  - thesis
+syndications:
+- https://twitter.com/hacdias/status/1567496952689958913
 ---
 
 I have finally successfully defended my master thesis! Yeeey. And it was on campus 😄🎓

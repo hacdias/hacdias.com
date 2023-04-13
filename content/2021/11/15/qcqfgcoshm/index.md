@@ -1,14 +1,12 @@
 ---
 title: Textile
 description: Bookmarked a post on www.textile.io
-published: 2021-11-15T11:03:40.971249634Z
-section:
+date: 2021-11-15T11:03:40.971249634Z
+tags:
+- tool
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://www.textile.io/
-taxonomies:
-  tags:
-  - tool
+bookmark: https://www.textile.io/
 ---
 
 Set of tools built on IPFS and Filecoin.

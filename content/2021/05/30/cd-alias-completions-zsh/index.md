@@ -1,14 +1,12 @@
 ---
 title: Change to Custom Directory Alias With Completions in Zsh
-published: 2021-05-30T10:23:57.3713559Z
-section:
+date: 2021-05-30T10:23:57.3713559Z
+tags:
+- terminal
+- tip
+- software
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - terminal
-  - tip
-  - software
 ---
 
 For quite some time, I've had a helper function on my Zsh config to quickly be able to `cd` to specific directories. 

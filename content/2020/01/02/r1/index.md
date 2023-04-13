@@ -1,11 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
-unlisted: true
-published: 2020-01-02T23:45:24.733Z
-properties:
-  in-reply-to: https://hacdias.com/2020/01/02/dynamic-static
-  syndication:
-  - https://twitter.com/hacdias/status/1212882353053478912
+date: 2020-01-02T23:45:24.733Z
+noIndex: true
 context:
   name: Henrique Dias
   url: https://hacdias.com/2020/01/02/dynamic-static
@@ -70,6 +66,9 @@ context:
     for me to drop it. I want a custom solution that uses open protocols, but also
     allows me for flexibility. Does that sound sensible?'
   published: 2020-01-02T23:40:00Z
+syndications:
+- https://twitter.com/hacdias/status/1212882353053478912
+reply: https://hacdias.com/2020/01/02/dynamic-static
 ---
 
 @aaronpk @t I would personally love some of your thoughts or pointers on this :) Any advice?

@@ -1,15 +1,12 @@
 ---
 title: Recently in September '20
-published: 2020-10-01T09:00:00+02:00
-section:
+date: 2020-10-01T09:00:00+02:00
+tags:
+- now
+categories:
 - articles
-- home
-properties:
-  syndication:
-  - https://twitter.com/hacdias/status/1311562183856320512
-taxonomies:
-  tags:
-  - now
+syndications:
+- https://twitter.com/hacdias/status/1311562183856320512
 ---
 
 Today's the first day of a new month, so here's a new "recently" post. Since I decided to start this series after [mid-september](/2020/09/21/recently), there's not that many news since. However, I'm more than happy to write a few words about what's been happening lately.

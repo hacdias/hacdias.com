@@ -2,13 +2,11 @@
 title: First Year at Protocol Labs
 description: |
   I joined Protocol Labs in November 2017 and it is being an incredible experience so far.
-published: 2018-10-27T00:00:00Z
-section:
+date: 2018-10-27T00:00:00Z
+tags:
+- reflection
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - reflection
 ---
 
 I've been wanting to write about my journey at [Protocol Labs][4] for a while already. Well,

@@ -1,14 +1,12 @@
 ---
 title: Marta
 description: Bookmarked a post on marta.sh
-published: 2022-08-22T16:02:37.756951719+02:00
-section:
+date: 2022-08-22T16:02:37.756951719+02:00
+tags:
+- tool
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://marta.sh/
-taxonomies:
-  tags:
-  - tool
+bookmark: https://marta.sh/
 ---
 
 Finder alternative for macOS.

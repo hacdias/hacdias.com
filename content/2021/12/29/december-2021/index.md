@@ -1,12 +1,10 @@
 ---
 title: Recently in December '21
-published: 2021-12-29T18:12:30.586985119Z
-section:
+date: 2021-12-29T18:12:30.586985119Z
+tags:
+- now
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - now
 ---
 
 Once again, a year is ending. It feels like it was yesterday that I was first discovering the IndieWeb and adding new features to my website, but that was 2 years ago now. Time has been passing quite fast since _the_ pandemic started.

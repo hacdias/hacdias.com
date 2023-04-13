@@ -1,9 +1,8 @@
 ---
 title: Ephemeral vs. Permanent Content
 draft: true
-taxonomies:
-  tags:
-  - example
+tags:
+- example
 ---
 
 - [ ] Likes and reposts are not ephemeral and not used in my website.

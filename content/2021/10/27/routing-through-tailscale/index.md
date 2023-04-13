@@ -1,13 +1,11 @@
 ---
-published: 2021-10-27T06:31:33.272375945Z
-updated: 2021-10-31T07:19:16.767633451Z
-section:
-- home
+date: 2021-10-27T06:31:33.272375945Z
+lastmod: 2021-10-31T07:19:16.767633451Z
+tags:
+- meta
+- security
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - security
 ---
 
 In my last post, I [mentioned](/2021/10/25/new-eagle-look) that I was "investigating the possibility to use Tailscale to simply block the access from the “outside world” and make it more secure". Well, it is now [implemented](https://github.com/hacdias/eagle/blob/main/server/tailscale.go) and it works. Basically, my blog system can listen on two different ports: the regular one where you're navigating, and the one inside a Tailscale network.

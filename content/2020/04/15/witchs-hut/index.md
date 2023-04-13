@@ -1,16 +1,14 @@
 ---
 title: Witch's Hut
-published: 2020-04-15T00:00:00Z
-section:
-- home
-- micro
+date: 2020-04-15T00:00:00Z
 coverImage: cdn:/2020-04-withchs-hut
-taxonomies:
-  tags:
-  - art
-  - creative
-  - procreate
-  - drawing
+tags:
+- art
+- creative
+- procreate
+- drawing
+categories:
+- micro
 ---
 
 ![](cdn:/2020-04-withchs-hut?class=fw)

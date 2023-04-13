@@ -1,12 +1,10 @@
 ---
-published: 2022-11-17T23:22:45.019852599+01:00
-section:
+date: 2022-11-17T23:22:45.019852599+01:00
+tags:
+- activitypub
+- meta
+categories:
 - micro
-- home
-taxonomies:
-  tags:
-  - activitypub
-  - meta
 location:
   latitude: 51.43238
   longitude: 5.48604

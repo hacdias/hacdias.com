@@ -1,13 +1,11 @@
 ---
-published: 2021-04-21T18:09:56.491342056Z
-updated: 2021-04-21T18:23:59.335822566Z
-section:
-- home
+date: 2021-04-21T18:09:56.491342056Z
+lastmod: 2021-04-21T18:23:59.335822566Z
+tags:
+- meta
+- deprecation
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - deprecation
 ---
 
 It seems Amazon decided to "deprecate" their GoodReads API in a very silent way. I use the GoodReads API to maintain my [readings](/readings/) page and there's a bug on the script. Thus, I went to the API documentation just to read the following:

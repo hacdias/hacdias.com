@@ -2,15 +2,13 @@
 title: O Rei Que Tudo Perdeu
 description: Por vezes, a vontade de escrever é tanta que as letras deslizam pelo
   papel. Aqui está um pequeno poema, O Rei Que Tudo Perdeu, escrito em 2012.
-published: 2015-02-28T16:00:38Z
-section:
+date: 2015-02-28T16:00:38Z
+tags:
+- literature
+- poetry
+- portuguese
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - literature
-  - poetry
-  - portuguese
 ---
 
 Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel sem qualquer esforço. Letra a letra. Partícula a partícula. Tudo se compõe.

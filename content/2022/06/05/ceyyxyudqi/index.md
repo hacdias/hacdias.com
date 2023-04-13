@@ -1,12 +1,10 @@
 ---
-published: 2022-06-05T22:56:19.748105451+02:00
-section:
-- home
+date: 2022-06-05T22:56:19.748105451+02:00
+tags:
+- matrix
+- decentralization
+categories:
 - micro
-taxonomies:
-  tags:
-  - matrix
-  - decentralization
 location:
   latitude: 51.43243
   longitude: 5.48614

@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-01-30T22:21:16.521Z
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2020/01/telegram-features/
+date: 2020-01-30T22:21:16.521Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/01/telegram-features
@@ -19,6 +17,7 @@ context:
     unless you explicitly share it with them (at least when you configured a username)!
     But yeah, it’s still hard to change people’s routines. \U0001F612"
   published: 2020-01-30T21:30:11+01:00
+reply: https://jlelse.blog/thoughts/2020/01/telegram-features/
 ---
 
 Uh! That's pretty awesome. In my case, over 50% of the people I talk every day are not on telegram. I've convinced some (including my parents!) with the arguments you mentioned, but others are just to lazy to change or they don't bother about the eventual benefits even if they complain about things that Telegram would solve when compared to other services: storage usage is my favorite point here. Also, cross-platform syncing and not losing everything just because you changed systems...

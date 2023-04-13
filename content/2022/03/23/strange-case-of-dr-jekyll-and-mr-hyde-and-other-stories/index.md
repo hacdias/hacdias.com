@@ -1,19 +1,16 @@
 ---
 description: 'Strange Case of Dr Jekyll and Mr Hyde and Other Stories by Robert Louis
   Stevenson (ISBN: 9781847493781)'
-published: 2022-03-23T19:06:51.132363451+01:00
-section:
+date: 2022-03-23T19:06:51.132363451+01:00
+categories:
 - readings
-properties:
-  rating: 3
-  read-of:
-    properties:
-      author: Robert Louis Stevenson
-      name: Strange Case of Dr Jekyll and Mr Hyde and Other Stories
-      pages: 221
-      publisher: Alma Books
-      uid: isbn:9781847493781
-    type: h-cite
+read:
+  name: Strange Case of Dr Jekyll and Mr Hyde and Other Stories
+  author: Robert Louis Stevenson
+  publisher: Alma Books
+  pages: 221
+  uid: isbn:9781847493781
+rating: 3
 ---
 
 I am marking this book as "finished" since I have no plans on reading the remaining stories in the near future.

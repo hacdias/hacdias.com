@@ -1,12 +1,10 @@
 ---
-published: 2020-03-05T22:31:58.056Z
-section:
-- home
+date: 2020-03-05T22:31:58.056Z
+tags:
+- meta
+- photos
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - photos
 ---
 
 I'm thinking about adding a photos page to this website and start using Instagram less and less for that purpose. I'd like to serve them with the best resolution possible (not directly, but through a link) but some of them occupy several megabytes of space and I can't afford to add that to Git. In addition, Hugo doesn't seem to play well with Git LFS.

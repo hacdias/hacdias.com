@@ -1,10 +1,9 @@
 ---
 description: At Estação Ferroviária de Grândola
-published: 2020-07-29T10:38:08+01:00
-section:
-- micro
-- home
+date: 2020-07-29T10:38:08+01:00
 coverImage: cdn:/b9fbe75f87b0bacde0807eaac732c7338466763cb871ea99eb2b1daa965fb78f
+categories:
+- micro
 location:
   latitude: 38.181761574526696
   longitude: -8.55462174969083

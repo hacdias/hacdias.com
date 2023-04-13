@@ -1,12 +1,9 @@
 ---
 description: Replied to a post on hacdias.com
-unlisted: true
-published: 2020-07-21T07:34:33.271Z
-properties:
-  in-reply-to: https://hacdias.com/2020/07/20/too-many-notes-apps
-taxonomies:
-  tags:
-  - meta
+date: 2020-07-21T07:34:33.271Z
+noIndex: true
+tags:
+- meta
 context:
   name: Henrique Dias
   url: https://hacdias.com/2020/07/20/too-many-notes-apps
@@ -28,6 +25,7 @@ context:
     small difference in mind: this would be directed to be self-hosted for just one
     person. No services, for myself, as I wanted it to work.'
   published: 2020-07-20T09:25:47Z
+reply: https://hacdias.com/2020/07/20/too-many-notes-apps
 ---
 
 So... replying to myself. Probably what I'm going to do is quite similar to what I had before: statically generate the notes from source markdown (or something else). I first need to decide the best language. Markdown is simples, yes, but sometimes I feel I need to add HTML to make it look exactly how I want it to. For example, I can't just <mark>do this</mark> in markdown without using HTML. Some other markup languages allow for much more customization, such as Asciidoc.

@@ -1,10 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2023-01-02T20:48:37.149009904+01:00
-properties:
-  in-reply-to:
-  - https://jlelse.blog/posts/2022-review
+date: 2023-01-02T20:48:37.149009904+01:00
+noIndex: true
 location:
   latitude: 51.44585
   longitude: 5.46176
@@ -70,6 +67,7 @@ context:
     almost daily negative news, that I finally manage to start exercising again and
     that the 49-Euro-Ticket comes as soon as possible. \U0001F605"
   published: 2023-01-02T16:27:07Z
+reply: https://jlelse.blog/posts/2022-review
 ---
 
 > Maybe Great Britain?

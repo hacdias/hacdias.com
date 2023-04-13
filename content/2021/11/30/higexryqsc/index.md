@@ -1,11 +1,9 @@
 ---
-published: 2021-11-30T14:12:39.305465387Z
-section:
-- home
+date: 2021-11-30T14:12:39.305465387Z
+tags:
+- university
+categories:
 - micro
-taxonomies:
-  tags:
-  - university
 location:
   latitude: 51.43248
   longitude: 5.48608

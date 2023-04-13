@@ -1,11 +1,9 @@
 ---
-published: 2022-03-28T22:31:52.026951826+02:00
-section:
-- home
+date: 2022-03-28T22:31:52.026951826+02:00
+tags:
+- trains
+categories:
 - micro
-taxonomies:
-  tags:
-  - trains
 location:
   latitude: 51.4325
   longitude: 5.48616

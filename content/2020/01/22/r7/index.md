@@ -1,13 +1,10 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-01-22T09:20:22.592Z
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2020/01/security-risk-embedding/
-taxonomies:
-  tags:
-  - security
-  - webmentions
+date: 2020-01-22T09:20:22.592Z
+noIndex: true
+tags:
+- security
+- webmentions
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/01/security-risk-embedding
@@ -24,6 +21,7 @@ context:
     Sebastiaan Andeweg wrote a reply and linked his article, about how he hacked his
     own website! If you use PHP for your IndieWeb site, make sure to read it!'
   published: 2020-01-22T08:43:15+01:00
+reply: https://jlelse.blog/thoughts/2020/01/security-risk-embedding/
 ---
 
 This is actually the next thing I want to "fix". Other problem of twitter is that, if the user changes the profile picture, the previous one gets unavailable. For webmentions, I'm using the images provided by webmention.io, but for replies, likes and reposts context, I'm using the original source and I don't like it.

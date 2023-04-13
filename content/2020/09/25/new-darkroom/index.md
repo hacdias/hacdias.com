@@ -1,7 +1,6 @@
 ---
-published: 2020-09-25T21:56:16.27Z
-section:
-- home
+date: 2020-09-25T21:56:16.27Z
+categories:
 - micro
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: How HTTPS works
 description: Bookmarked a post on howhttps.works
-published: 2021-11-15T11:08:26.515578475Z
-section:
+date: 2021-11-15T11:08:26.515578475Z
+tags:
+- educational
+- https
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://howhttps.works/
-taxonomies:
-  tags:
-  - educational
-  - https
+bookmark: https://howhttps.works/
 ---
 
 Comics from dnsimple explaining how HTTPS works.

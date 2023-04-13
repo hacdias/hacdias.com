@@ -1,0 +1,61 @@
+<footer>
+  {{ with .Params.location }}
+    {{ $town := or .locality .region }}
+    <p class="p-location h-adr">
+      {{- with .name -}}
+        <span class='p-name'>{{ . }}</span>{{ if or $town $.Params.location.country }} in {{ end}}
+      {{- end -}}
+      {{- with $town -}}
+        <span class='p-locality'>{{ . }}</span>
+      {{- end -}}
+      {{- with .country -}}
+        {{ if $town }}, {{ end }}
+        <span class='p-country'>{{ . }}</span>
+      {{- end -}}
+    </p>
+  {{ end }}
+
+  {{ $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) }}
+  {{ $hasNoTitle := not .Title }}
+
+  {{ if or $hasDate $hasNoTitle .Params.syndications .Params.tags }}
+    <p>
+      <a href="{{ relURL .Permalink }}" class="u-url nl">
+        {{- if $hasDate }}
+          {{- if .Lastmod.After .Date -}}
+            <time class='dt-updated' datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
+              Updated on {{ .Lastmod.Format "02 Jan 2006 15:04 MST" }}
+            </time>
+            <time hidden class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "02 Jan 2006 15:04 MST" }}</time>
+          {{- else if not .Date.IsZero -}}
+            <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+            Published on {{ .Date.Format "02 Jan 2006 15:04 MST" }}
+            </time>
+          {{- end -}}
+        {{- else if $hasNoTitle }}
+          Permalink
+        {{ end }}
+      </a>
+
+      {{ range .Params.tags -}}
+        {{ $tag := $.Site.GetPage (printf "/tags/%s" .) }}
+        <a class="tag p-category" href="{{ $tag.RelPermalink }}">{{ . }}</a>
+      {{ end -}}
+
+      {{ range .Params.syndications }}
+      <a class='nl u-syndication' rel="noopener noreferrer" href="{{ . }}">
+        {{ $domain := (urls.Parse .).Host }}
+        {{- if strings.Contains $domain "twitter.com" }}🐦
+        {{- else if strings.Contains $domain "instagram.com" }}📷
+        {{ else }}🔗{{ end -}}
+      </a>
+      {{ end }}
+    </p>
+  {{ end }}
+</footer>
+
+<div class="h-card u-author" hidden>
+  Authored by
+  <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Site.Params.author.name }}</a>
+  <a class='u-photo' href="{{ .Site.Params.author.photo }}">(Photo)</a>
+</div>

@@ -2,14 +2,13 @@
 title: Pi Day 2015
 description: Today, 14th march, is the Pi Day 2015. See this small video which talks
   a little bit about Pi.
-unlisted: true
-published: 2015-03-15T10:36:51Z
-properties:
-  syndication: https://www.youtube.com/watch?v=AtwPGZ9VioE
-taxonomies:
-  tags:
-  - mathematics
-  - portuguese
+date: 2015-03-15T10:36:51Z
+noIndex: true
+tags:
+- mathematics
+- portuguese
+syndications:
+- https://www.youtube.com/watch?v=AtwPGZ9VioE
 ---
 
 Do you know? Today is the Pi Day 2015. Below there is a small video I made about this marvelous day. I hope you enjoy :)

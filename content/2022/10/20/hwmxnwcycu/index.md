@@ -1,12 +1,10 @@
 ---
-published: 2022-10-20T13:18:20.220703916+02:00
-section:
+date: 2022-10-20T13:18:20.220703916+02:00
+tags:
+- notes
+- second-brain
+categories:
 - micro
-- home
-taxonomies:
-  tags:
-  - notes
-  - second-brain
 location:
   latitude: 51.44444
   longitude: 5.45994

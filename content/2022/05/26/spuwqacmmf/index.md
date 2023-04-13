@@ -1,11 +1,9 @@
 ---
-published: 2022-05-26T15:10:00.315434425+02:00
-section:
-- home
+date: 2022-05-26T15:10:00.315434425+02:00
+tags:
+- email
+categories:
 - micro
-taxonomies:
-  tags:
-  - email
 location:
   latitude: 51.43249
   longitude: 5.48608

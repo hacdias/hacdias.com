@@ -1,0 +1,39 @@
+{{- $url := urls.Parse .Destination }}
+{{- $query := $url.Query }}
+{{- $caption := true }}
+{{- $class := $query.Get "class" }}
+{{- $id := "" }}
+{{- $src := "" }}
+
+{{- with $query.Get "caption" }}
+	{{- $caption = eq . "true" }}
+{{- end }}
+
+{{- if eq $url.Scheme "cdn" }}
+	{{- $id = strings.TrimPrefix "/" $url.Path }}
+	{{- $src = printf "https://cdn.hacdias.com/img/2000/%s.jpeg" $id }}
+{{- else }}
+	{{- $src = printf "%s://%s%s" $url.Scheme $url.Host $url.Path }}
+{{- end }}
+
+{{- if .IsBlock }}
+  <figure {{ with $class }}class="{{ . }}"{{ end }}>
+		<picture>
+		{{- if $id }}
+			<source srcset="{{ printf "https://cdn.hacdias.com/img/250/%s.webp" $id }} 250w, {{ printf "https://cdn.hacdias.com/img/500/%s.webp" $id }} 500w, {{ printf "https://cdn.hacdias.com/img/1000/%s.webp" $id }} 1000w, {{ printf "https://cdn.hacdias.com/img/2000/%s.webp" $id }} 2000w" type="image/webp">
+			<source srcset="{{ printf "https://cdn.hacdias.com/img/250/%s.jpeg" $id }} 250w, {{ printf "https://cdn.hacdias.com/img/500/%s.jpeg" $id }} 500w, {{ printf "https://cdn.hacdias.com/img/1000/%s.jpeg" $id }} 1000w, {{ printf "https://cdn.hacdias.com/img/2000/%s.jpeg" $id }} 2000w" type="image/jpeg">
+		{{- end }}
+{{- end }}
+
+<img src="{{ absURL $src | safeURL }}"
+	{{- with .Text }} alt ="{{.}}"{{ end }}
+	{{- if and (not .IsBlock) $class }} class="{{ $class }}"{{ end }}
+	{{- with .Title }} title="{{ . }}"{{ end }} loading="lazy" >
+
+{{- if .IsBlock }}
+		</picture>
+		{{- if and $caption .Text }}
+		<figcaption>{{ .Text }}</figcaption>
+		{{- end }}
+	</figure>
+{{- end }}

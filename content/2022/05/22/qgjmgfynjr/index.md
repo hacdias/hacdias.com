@@ -1,7 +1,6 @@
 ---
-published: 2022-05-22T08:40:10.392976703+02:00
-section:
-- home
+date: 2022-05-22T08:40:10.392976703+02:00
+categories:
 - micro
 location:
   latitude: 51.43248

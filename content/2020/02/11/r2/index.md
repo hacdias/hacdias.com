@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-02-11T13:58:19.007Z
-properties:
-  in-reply-to: https://jlelse.blog/dev/activitystreams-hugo/
+date: 2020-02-11T13:58:19.007Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/dev/activitystreams-hugo
@@ -29,6 +27,7 @@ context:
     has application/ld+json if_op or to {path}index.ajson {path}/index.ajson {path}
     }'
   published: 2020-02-10T18:36:12+01:00
+reply: https://jlelse.blog/dev/activitystreams-hugo/
 ---
 
 I was looking at your [single template](https://codeberg.org/jlelse/hugo-activitystreams/src/branch/master/layouts/_default/single.activity.ajson) and I was wondering if `content_html` shouldn't be `content` only? According to the [spec](https://www.w3.org/TR/activitystreams-vocabulary/#dfn-content), there's no `content_html` property and the `content` can contain HTML by default.

@@ -1,22 +1,19 @@
 ---
 title: Physician explains how COVID-19 mutes sense of smell
 description: Bookmarked a post on scopeblog.stanford.edu
-published: 2022-10-30T10:53:10.336245647+01:00
-updated: 2022-10-30T10:53:20.283126352+01:00
-section:
+date: 2022-10-30T10:53:10.336245647+01:00
+lastmod: 2022-10-30T10:53:20.283126352+01:00
+tags:
+- covid19
+categories:
 - bookmarks
-- home
-properties:
-  bookmark-of: https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/
-taxonomies:
-  tags:
-  - covid19
 location:
   latitude: 38.72751
   longitude: -9.14849
   locality: Lisbon
   region: Lisbon
   country: Portugal
+bookmark: https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/
 ---
 
 In the beginning of the week, I tested positive for Covid-19. Even though the symptoms were smilingly gone, yesterday and the day before I noticed my sense of smell was quite odd. I could still smell some things, but not all. In addition, breathing in general had an odd smell. This article was a nice read and explains well how Covid-19 can change our sense of smell.

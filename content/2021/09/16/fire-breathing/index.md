@@ -1,10 +1,9 @@
 ---
 title: Fire Breathing
-published: 2021-09-16T06:45:00Z
-section:
-- photos
-- home
+date: 2021-09-16T06:45:00Z
 coverImage: cdn:/2021-09-fire-01
+categories:
+- photos
 ---
 
 Last night, at a [Dekate Mousa](https://dekatemousa.nl/) activity!

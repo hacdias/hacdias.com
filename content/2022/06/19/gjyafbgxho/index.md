@@ -1,10 +1,9 @@
 ---
 title: Kleineberg
-published: 2022-06-19T21:46:41.250796138+02:00
-section:
-- photos
-- home
+date: 2022-06-19T21:46:41.250796138+02:00
 coverImage: cdn:/9be37b8423f168ab6f484dad61f0795afd7b05adbe1d0134a437fefdc8926496
+categories:
+- photos
 location:
   latitude: 51.4366
   longitude: 5.48279

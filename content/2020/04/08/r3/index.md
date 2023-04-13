@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-04-08T19:31:24.963Z
-properties:
-  in-reply-to: https://jlelse.blog/micro/2020/04/study-emails/
+date: 2020-04-08T19:31:24.963Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/04/study-emails
@@ -15,6 +13,7 @@ context:
     but the idea of correspondence courses (possibly alongside work) sounds quite
     tempting.
   published: 2020-04-08T15:27:49+02:00
+reply: https://jlelse.blog/micro/2020/04/study-emails/
 ---
 
 Interesting... we're having most classes via Zoom. Some via Discord and some are just pre-recorded videos to check out.

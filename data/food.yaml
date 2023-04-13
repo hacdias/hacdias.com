@@ -1,0 +1,462 @@
+- date: 2022-12-31T15:57:48Z
+  location:
+    latitude: 51.446185
+    longitude: 5.458785
+    name: Tea Stories
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Sesame Taro Bao
+  image: cdn:/0553a72d70af6c31d00cb8f2aa0ae68380381b76050afeb9586aea701835b6a6
+- date: 2022-12-25T14:46:15Z
+  location:
+    latitude: 37.50299
+    longitude: -8.29777
+    locality: Santana da Serra
+    region: Beja
+    country: Portugal
+  name: Bolo Rei
+  image: cdn:/54d2a6d5a6a361118e5a6e0d78c3cff7b109d2b9b20e466d97161f6148d4d17f
+  content: This is the a Portuguese Christmas cake called “King Cake”. It contains
+    a lot of crystallised fruits as well as nuts.
+- date: 2022-12-17T19:40:04Z
+  location:
+    latitude: 50.77576188976464
+    longitude: 6.0839712025301695
+    name: Aachener Weihnachtsmarkt
+    locality: Aachen
+    region: North Rhine-Westphalia
+    country: Germany
+  name: Flammkuchen
+  image: cdn:/3da4a86bfbaecf852e5bb254b4e574a3c29c1c3b193915697e1f4493a3a7d7d6
+- date: 2022-12-17T19:19:04Z
+  location:
+    latitude: 50.77576188976464
+    longitude: 6.0839712025301695
+    name: Aachener Weihnachtsmarkt
+    locality: Aachen
+    region: North Rhine-Westphalia
+    country: Germany
+  name: Pancakes
+  image: cdn:/665a076a688e0ef203e71964b754492f49c78fc0d2937972bb03baa8c6f687fd
+- date: 2022-12-17T13:51:08Z
+  location:
+    latitude: 50.77576188976464
+    longitude: 6.0839712025301695
+    name: Aachener Weihnachtsmarkt
+    locality: Aachen
+    region: North Rhine-Westphalia
+    country: Germany
+  name: Reibekuchen
+  image: cdn:/8555b881040e44434d5583358b8ebd3aabca74fd4b7838b7b68d4f283959bb0c
+- date: 2022-12-11T16:06:59Z
+  location:
+    latitude: 51.44589
+    longitude: 5.4615
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Semi-homemade Cookies
+  image: cdn:/95c9a232949f34c48d856e632ec0fe6f53755505d190845c652622e4bf7f311f
+  content: We just made some cookies. They are not totally homemade since part of
+    the mixture was pre-made. They are very good though. As you can see, some of them
+    are missing too.
+- date: 2022-12-01T19:50:04Z
+  location:
+    latitude: 51.44588
+    longitude: 5.46147
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Homemade Fondue
+  image: cdn:/05ba3225fa891ea6c29c6ac0d5b7810a7308ceb9c82f5d58a731c393e708462e
+  content: "My partner and I just had homemade fondue. Thanks to that, I discovered
+    there’s a fondue \U0001FAD5 emoji. I love it. First time I had fondue was in Switzerland
+    in 2019. Since then, I’ve only had it again in 2020 in Brussels. I’m happy to
+    have it again. Looking forward for more \U0001F9C0 fondue!"
+- date: 2022-11-04T12:20:59+01:00
+  location:
+    latitude: 52.012755
+    longitude: 4.357376
+    name: Angie’s Juicebar
+    locality: Delft
+    region: South Holland
+    country: Netherlands
+  name: Wrap
+  image: cdn:/e43aad88c864b058826b412256250125cd0953e22fc44b5fc792d5f4ed9a25d2
+- date: 2022-10-01T10:05:36+02:00
+  location:
+    latitude: 51.434425
+    longitude: 5.483434
+    name: Pinkie Patiserie
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Fancy Breakfast
+  image: cdn:/be56081b50dbf3b67009621e50a0cd299893a414b322226cba3837fe3aba3f5b
+- date: 2022-09-21T14:46:34+02:00
+  name: Straciatella Afogatto
+  image: cdn:/961513cdaa5d71410007a0d3b64ec86c8393eece76e480e384e9d88ad65b281d
+- date: 2022-09-18T16:18:33+02:00
+  location:
+    latitude: 44.50028319150133
+    longitude: 11.34307686235477
+    name: Galliera 49
+    locality: Bologna
+    region: Emilia-Romagna
+    country: Italy
+  name: Fig and Myrtille Gelato
+  image: cdn:/4fbaa3fb0f2137f12aaf03850b6a9860de6b642fabdad822110c4033426b00e7
+- date: 2022-09-17T19:02:19Z
+  location:
+    latitude: 43.777134
+    longitude: 11.251983
+    name: Livio
+    country: Italy
+  name: Pizza LiViO
+  image: cdn:/f17f61f010db42649b41db915ed7b474a7cc7b7b7e07544ec6e9917b2365700c
+- date: 2022-09-17T13:29:22+02:00
+  location:
+    latitude: 43.77335654785719
+    longitude: 11.256009265199282
+    name: Don Nino
+    locality: Florence
+    region: Tuscany
+    country: Italy
+  name: Pistaccio, Ricotta and White Chocolate Cannoli
+  image: cdn:/020491eba556eaa52d787e65c0b10c40f489b7048be1286c51c5ae7906a3bbdf
+- date: 2022-09-16T14:15:04+02:00
+  location:
+    latitude: 43.721634
+    longitude: 10.402104
+    name: La Focacceria Dei Sani
+    locality: Pisa
+    region: Tuscany
+    country: Italy
+  name: Focaccia
+  image: cdn:/06a35576d29bf19c0c9586d736a7b3935b7e375f3efb81371aea2b44fff442c6
+  content: This focaccias were amazing.
+- date: 2022-09-13T14:10:12+02:00
+  location:
+    latitude: 40.747799
+    longitude: 14.500552
+    name: Mercato Pompeiano
+    locality: Pompei
+    region: Campania
+    country: Italy
+  name: La Domenica Pizza
+  image: cdn:/709a7ea6dafafacae88ebca86629e1e5f2ee105612d352feade4c8149a5ef813
+- date: 2022-09-10T21:22:26.52827225+02:00
+  location:
+    latitude: 51.4325
+    longitude: 5.48616
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Banana Bread
+  image: cdn:/61c8514d987737ebf02488d7cc2e3b589246e2d8767d301139562b41dbf20adc
+- date: 2022-08-26T19:15:27Z
+  location:
+    latitude: 37.13071
+    longitude: -8.44823
+    locality: Lagoa e Carvoeiro
+    region: Faro
+    country: Portugal
+  name: Suspiro
+  image: cdn:/00eef3dcfc9abead191f808b07c247be103d5b9b1d438969e51b0f533a5dd08e
+- date: 2022-08-23T11:40:54Z
+  location:
+    latitude: 51.434425
+    longitude: 5.483434
+    name: Pinkie Patiserie
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Bapamanga
+  image: cdn:/3b22cbac1880d30f5baa33d87edc16e6921dd528e7798105f8c4dafbd4599b69
+- date: 2022-08-06T16:36:20Z
+  location:
+    latitude: 51.43246
+    longitude: 5.48611
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Lavender Goat Cheese
+  image: cdn:/c5343cb9cf84d66a09460552d03b1834b67a9b871b9190dd18e26828aa0d96d5
+- date: 2022-07-24T16:47:51Z
+  location:
+    latitude: 51.43247
+    longitude: 5.48616
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Shrimp, Greens and Rice
+  image: cdn:/719512bc8500472b35eee56005f7cb3e31d4753346b84d78c9fc5f01b85b48b3
+- date: 2022-07-02T17:00:00+02:00
+  location:
+    name: Markthal
+    locality: Rotterdam
+  name: Crunchy Manti
+  image: cdn:/ef044d18fdafb66324d524a632fa5cd207ad5b42a1c3620c3d44647d9d3f7b49
+- date: 2022-06-19T19:44:54Z
+  location:
+    latitude: 51.436652
+    longitude: 5.475048
+    name: Dutch Homemade
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Ice Cream
+  image: cdn:/b8581e23a148a9c6d82bbd0a05bda308d7b57f7ea9df9248cd99bf9344feadc9
+- date: 2022-06-19T18:37:46Z
+  location:
+    latitude: 51.43723581305695
+    longitude: 5.481018012473559
+    name: Down Town Gourmet Market
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Crispy Potato Pancake
+  image: cdn:/c190de48a686ca2a5cabfe90e7f967c1bc15eafb5b5d6b155a7ef6340b03a4fb
+- date: 2022-06-18T06:26:41Z
+  location:
+    latitude: 51.43247
+    longitude: 5.48618
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Loquats
+  image: cdn:/7ea65358140032436c95e1a70dace052ac2e72ae70fb64efd216b1a55180cf0a
+  content: A few days ago I shared I really [wanted to buy](/2022/06/16/dkqokojkmr)
+    loquats. Yesterday I managed to go to the Turkish supermarket with a friend. They
+    are delicious!
+- date: 2022-06-16T18:25:44Z
+  location:
+    latitude: 51.43247
+    longitude: 5.48618
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: "🍒 Cherries"
+  image: cdn:/e895dabb060a1be62596138609d4f9f1633434b8b76fa1ada160e869234ef870
+- date: 2022-06-07T22:16:14.328826931+02:00
+  location:
+    latitude: 51.43246
+    longitude: 5.48621
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Cake
+  image: cdn:/f32e7fa805d0859b53848bbd779c236cc827bf09beddd7ae81a6a4a5267f8e42
+  content: The cake at the [opening](/2022/06/07/dm-lustrum-exhibition) had pictures.
+    Sorry for the blurryness.
+- date: 2022-05-21T14:00:29Z
+  location:
+    name: Markthal
+    locality: Rotterdam
+  name: Crunchy Manti
+  image: cdn:/690cb37bcf97b2364e690e27187c1b202f3434e40a8a168c138e56ff89da6da7
+- date: 2022-05-17T18:32:03+02:00
+  location:
+    latitude: 51.43693
+    longitude: 5.4778886
+    name: Lab-1
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Popcorn
+  image: cdn:/7257d43e311a52b7321fbcf411d4c7bbe6287c132e7ff24fb4fca271f6fd0a31
+- date: 2022-05-01T17:54:01Z
+  location:
+    latitude: 51.446185
+    longitude: 5.458785
+    name: Tea Stories
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Chocolate Bao
+  image: cdn:/7fc57ef5c06820583d5c4ee9087d3ef7359493ba786cdd52e22641c8922753ac
+- date: 2022-04-12T05:37:19Z
+  location:
+    latitude: 51.43242
+    longitude: 5.48607
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Oats with Lemon Curd and Greek Yoghurt
+  image: cdn:/9fcb19db9c6893c63643b83e8085285dc3b7ca7a4596b04b67c4ef5ee79f2f96
+  content: 'Ingredients: oats, oat milk, greek yoghurt, chia seeds, lemon curd, a
+    pinch of salt.'
+- date: 2022-04-09T17:32:45+02:00
+  location:
+    latitude: 52.37570751971382
+    longitude: 4.896236799445381
+    name: Manneken Pis
+    locality: Amsterdam
+    region: North Holland
+    country: Netherlands
+  name: Frites
+  image: cdn:/bfffaa28dd723cac1186925a30d593caa3400cc61ebed29b6968d1532b76b9dd
+- date: 2022-04-02T12:59:12Z
+  location:
+    latitude: 37.85119084824234
+    longitude: -8.792625436393582
+    locality: Sines
+    region: Distrito de Setúbal
+    country: Portugal
+  name: Bolo de Bolacha
+  image: cdn:/0c79ff02d6477b027709f2a5059e1c3c17ca8dd059bf3d2ba40d8c63be752056
+  content: Or in English, _Cookie Cake_.
+- date: 2022-04-02T12:39:31Z
+  location:
+    latitude: 37.85119084824234
+    longitude: -8.792625436393582
+    locality: Sines
+    region: Distrito de Setúbal
+    country: Portugal
+  name: Fried Cuttlefish with French Fries
+  image: cdn:/bcb2771453c7cfdce9f3693b768cfde4edbd2f28b39f0e657269ee002b51c230
+- date: 2022-03-26T16:09:57+01:00
+  location:
+    latitude: 52.335565
+    longitude: 4.873111
+    name: Wurst & Schnitzelhaus
+    locality: Amsterdam
+    region: North Holland
+    country: Netherlands
+  name: Meaty Snacks
+  image: cdn:/55ccc2e20faba82339a793a28a66575398aad04d5f66a20c1ded13fe378cdc5c
+- date: 2022-03-19T20:23:19+01:00
+  location:
+    latitude: 51.438431
+    longitude: 5.475139
+    name: XU Noodle Bar
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Noodle Soup
+  image: cdn:/49269c164c64817c8443fbf1d3a0486ca6950af84ad30c0f926e4d8988c0aff7
+- date: 2022-03-19T12:43:43+01:00
+  location:
+    latitude: 51.437228
+    longitude: 5.475331
+    name: Mathilde Drinks & More
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Soft Tacos
+  image: cdn:/b3154c2d75d95a5dc7f7a8c80b3f6e25f93d9ad14ed51fb316af03cbdd54a3e9
+  content: |-
+    <div class="fw fg">
+
+    ![](cdn:/8bb76c03ec7ccb0b7718be820961beabf2dbf9ba6d3c869f7d2a752fbdb8d03a)
+
+    </div>
+- date: 2022-03-13T08:10:31Z
+  location:
+    latitude: 51.43247
+    longitude: 5.48616
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Nestum Arroz
+  image: cdn:/b947b774cdae3a4d9c1a6440dfe0677898dd9dd5ef7ad0dea29f63cc2b48be73
+- date: 2022-02-21T12:35:56+01:00
+  location:
+    latitude: 52.07991357415258
+    longitude: 4.309786858649604
+    name: Bagels & Beans
+    locality: The Hague
+    region: South Holland
+    country: Netherlands
+  name: Bagel
+  image: cdn:/c1eb34770acf14805446c33aa77aced546113dc3e62602dc7b32701504fdbea1
+- date: 2021-11-19T10:00:05+01:00
+  location:
+    latitude: 51.43247
+    longitude: 5.48615
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Oats with blueberry, banana, powdered sugar, honey and speculaas
+  image: cdn:/68560289a99e3d98d6d82e086583546a8d20fce291f435eceda48ef843748745
+- date: 2021-11-16T21:18:43+01:00
+  location:
+    latitude: 51.43249
+    longitude: 5.48612
+    locality: Eindhoven
+    region: North Brabant
+    country: Netherlands
+  name: Kaki Fruit
+  image: cdn:/6d250674ff1852663b2c6d0feaf1eb01c805bc60389afb3da2e2b6b63ed4150b
+- date: 2021-09-20T12:14:03+02:00
+  location:
+    latitude: 51.44925217615702
+    longitude: 5.487553253067627
+    name: Hubble Community Café
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  name: Broodje and Croquette
+  image: cdn:/c6d50ef56ba41bf5bae09a87486bbfeee904bdb265f43b3bf40201fd4e521526
+- date: 2021-09-04T09:27:23+02:00
+  location:
+    latitude: 52.09243110688253
+    longitude: 5.117999620353761
+    name: Yoghurt Barn
+    locality: Utrecht
+    region: Utrecht
+    country: Netherlands
+  name: Coffee and Yoghurt Bowl Breakfast
+  image: cdn:/feed08b42f6ec98822431a2fac15bcde52aa6b4f8606dcd3c457e3856006e4ed
+- date: 2021-09-03T16:18:32+02:00
+  location:
+    latitude: 52.09217296598161
+    longitude: 5.117667982250383
+    name: Frietwinkel
+    locality: Utrecht
+    region: Utrecht
+    country: Netherlands
+  name: Frite
+  image: cdn:/6a9f1d77fd6d5f305862ea8cf83cbd636a1872bea1ccd6ced2f97bb9e79b8a27
+- date: 2021-05-29T16:43:22+02:00
+  location:
+    latitude: 51.55932958530961
+    longitude: 5.091049575352295
+    name: Intermezzo
+    locality: Tilburg
+    region: North-Brabant
+    country: Netherlands
+  name: Gelato
+  image: cdn:/e53deeb4e369c07bad9f56db78916f1ea210472ea60ad935b8d51bca74a656e4
+- date: 2020-02-09T17:00:44+01:00
+  location:
+    latitude: 52.37570751971382
+    longitude: 4.896236799445381
+    name: Manneken Pis
+    locality: Amsterdam
+    region: North Holland
+    country: Netherlands
+  name: Frite
+  image: cdn:/b861b323be0f0f24dbc89764e501f9a791d102c033c3e869d54be647bdfd4d99
+- date: 2020-02-07T13:43:18+01:00
+  location:
+    latitude: 51.21799831997435
+    longitude: 4.417102413971743
+    name: Five Guys
+    locality: Antwerp
+    region: Antwerp
+    country: Belgium
+  name: Fries and Burger
+  image: cdn:/fdd1e3416eee5fc71a0c742bea72b9386be353f7bc6ed61a521815be893d1727
+- date: 2020-02-03T22:06:27+01:00
+  location:
+    latitude: 49.610563
+    longitude: 6.125029
+    name: domino’s Pizza
+    locality: Luxembourg
+    region: District de Luxembourg
+    country: Luxembourg
+  name: Pizza
+  image: cdn:/44551452a2ef278eea780b79410c76d75a68853b69a535157ead370e4ffa8df5
+

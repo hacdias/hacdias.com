@@ -1,12 +1,10 @@
 ---
 title: Recently in January '23
-published: 2023-01-31T21:35:03.498669637+01:00
-section:
-- home
+date: 2023-01-31T21:35:03.498669637+01:00
+tags:
+- now
+categories:
 - articles
-taxonomies:
-  tags:
-  - now
 ---
 
 January, the infamous first month of the year, is reaching an end. It was a very eventful month, but, by this time, I feel like I say that for every month that passes. I am honestly hoping that February will be a slightly more boring month in that sense.

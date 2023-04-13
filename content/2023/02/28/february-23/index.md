@@ -1,12 +1,10 @@
 ---
 title: Recently in February '23
-published: 2023-02-28T18:58:30.837492769+01:00
-section:
-- home
+date: 2023-02-28T18:58:30.837492769+01:00
+tags:
+- now
+categories:
 - articles
-taxonomies:
-  tags:
-  - now
 ---
 
 February has been a total rollercoaster. Nice things and not so nice things have happened during this month. But overall, let's keep a positive attitude towards the future. Let's dive into the events that constituted this month.

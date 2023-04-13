@@ -1,13 +1,11 @@
 ---
-published: 2020-01-25T15:39:17.084Z
-section:
-- home
+date: 2020-01-25T15:39:17.084Z
+tags:
+- indieweb
+- webmentions
+- meta
+categories:
 - micro
-taxonomies:
-  tags:
-  - indieweb
-  - webmentions
-  - meta
 ---
 
 I just added a little form in the webmentions section on the posts so you can send your webmention manually if it didn't hit my website. Or, you can also use the button 'Write a comment' to create a comment (that can be anonymous) through the [comment parade](https://commentpara.de/) service.

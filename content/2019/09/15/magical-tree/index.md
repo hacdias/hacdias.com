@@ -1,16 +1,14 @@
 ---
 title: Magical Tree
-published: 2019-09-15T00:00:00Z
-section:
-- home
-- micro
+date: 2019-09-15T00:00:00Z
 coverImage: cdn:/2019-09-magical-tree
-taxonomies:
-  tags:
-  - art
-  - creative
-  - procreate
-  - drawing
+tags:
+- art
+- creative
+- procreate
+- drawing
+categories:
+- micro
 ---
 
 ![](cdn:/2019-09-magical-tree?class=fw)

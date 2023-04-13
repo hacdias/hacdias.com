@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on seblog.nl
-unlisted: true
-published: 2022-11-20T23:50:41.842027051+01:00
-properties:
-  in-reply-to: https://seblog.nl/2022/11/20/2/ging-goed
+date: 2022-11-20T23:50:41.842027051+01:00
+noIndex: true
 location:
   latitude: 51.43247
   longitude: 5.48605
@@ -17,6 +15,7 @@ context:
     weet ik: ik heb gewoon mijn record verpulverd met 1:12:24. Ging goed, heel blij
     mee.'
   published: 2022-11-20T14:55:41Z
+reply: https://seblog.nl/2022/11/20/2/ging-goed
 ---
 
 Congratulations!

@@ -1,14 +1,11 @@
 ---
 description: Replied to a post on aaronparecki.com
-unlisted: true
-published: 2020-01-22T11:35:36.168Z
-properties:
-  in-reply-to: https://aaronparecki.com/gps
-taxonomies:
-  tags:
-  - gps
-  - data
-  - visualization
+date: 2020-01-22T11:35:36.168Z
+noIndex: true
+tags:
+- gps
+- data
+- visualization
 context:
   name: Aaron Parecki
   url: https://aaronparecki.com/gps
@@ -45,6 +42,7 @@ context:
     there are. Portland, Oregon Eugene, Oregon Animated Read more about Geonotes,
     Proximal Notification Systems, and Automatic Check-ins with GPS and SMS More photos
     on flickr'
+reply: https://aaronparecki.com/gps
 ---
 
 Hey Aaron! What software/library are you using to generate those maps with your location? Can they be considered heat maps? And what about the animated video?

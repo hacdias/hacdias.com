@@ -1,7 +1,6 @@
 ---
 title: Trips
 description: A list of the trips I took in the past.
-template: trips
 ---
 
 This is where I list the trips 🚅 I have done in the past. I like keeping a record,
@@ -10,3 +9,15 @@ traveling goals in my [impossible list](/impossible-list) page. In addition, I
 might also list a future trip if it involves certain types of events, such as conferences.
 
 <!--more-->
+
+<style>
+:root {
+  --accent: #f39c12;
+}
+
+.logs .e {
+  grid-template-columns: auto 18rem 7rem;
+}
+</style>
+
+{{< trips >}}

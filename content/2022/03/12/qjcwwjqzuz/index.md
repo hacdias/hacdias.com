@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2022-03-12T15:42:37.582112848+01:00
-properties:
-  in-reply-to: https://jlelse.blog/micro/2022/03/2022-03-11-rorfe
+date: 2022-03-12T15:42:37.582112848+01:00
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2022/03/2022-03-11-rorfe
@@ -16,6 +14,7 @@ context:
     old apartment, but I may have a little more time again. \U0001F60A Out of curiosity,
     how many times have you moved already?"
   published: 2022-03-11T19:44:19+01:00
+reply: https://jlelse.blog/micro/2022/03/2022-03-11-rorfe
 ---
 
 Three times 😊 Good luck moving!

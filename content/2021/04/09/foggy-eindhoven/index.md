@@ -1,10 +1,9 @@
 ---
 title: Foggy Stadswandelpark
-published: 2021-04-09T00:00:00Z
-section:
-- photos
-- home
+date: 2021-04-09T00:00:00Z
 coverImage: cdn:/2021-05-foggy-morning-02
+categories:
+- photos
 ---
 
 <style>

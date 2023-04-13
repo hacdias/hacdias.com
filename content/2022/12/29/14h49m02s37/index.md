@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on peoplemaking.games
-unlisted: true
-published: 2022-12-29T14:49:02.374087912+01:00
-properties:
-  in-reply-to: https://peoplemaking.games/@cmddx/109595069068050038
+date: 2022-12-29T14:49:02.374087912+01:00
+noIndex: true
 location:
   latitude: 37.01986120265777
   longitude: -7.967474005621144
@@ -19,6 +17,7 @@ context:
     causes flicker (left), while two pixels (right) keeps the dither grid in the same
     spot. neat!
   published: 2022-12-29T04:27:21Z
+reply: https://peoplemaking.games/@cmddx/109595069068050038
 ---
 
 That’s definitely very pretty! I didn’t notice at first, but now that I saw it, I can unsee it.

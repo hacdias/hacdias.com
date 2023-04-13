@@ -1,12 +1,10 @@
 ---
-published: 2022-06-09T21:58:46.759822667+02:00
-section:
-- home
+date: 2022-06-09T21:58:46.759822667+02:00
+tags:
+- meta
+- indieweb
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - indieweb
 location:
   latitude: 51.4324
   longitude: 5.48603

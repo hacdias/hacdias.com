@@ -1,10 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2022-12-25T20:11:37.32879335+01:00
-properties:
-  in-reply-to:
-  - https://jlelse.blog/micro/2022/12/2022-12-25-ejtxu
+date: 2022-12-25T20:11:37.32879335+01:00
+noIndex: true
 location:
   latitude: 37.50651
   longitude: -8.29791
@@ -25,6 +22,7 @@ context:
     are also sick. \U0001F912 Today is my first day without fever, but it doesn’t
     feel like that."
   published: 2022-12-25T15:28:19Z
+reply: https://jlelse.blog/micro/2022/12/2022-12-25-ejtxu
 ---
 
 Oh, no! I hope you get well quickly. Nevertheless, I hope you can still enjoy the time somehow 😌

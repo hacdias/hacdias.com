@@ -3,10 +3,9 @@ title: The First Day at Your Brand New Job
 description: You got a job! And today’s the first day, what are you going to do? Let’s
   make a party and make everyone dance! What? No… wait! You’re nervous, you don’t
   have to be. Let’s talk.
-published: 2015-09-11T08:00:00Z
-section:
+date: 2015-09-11T08:00:00Z
+categories:
 - articles
-- home
 ---
 
 You got a job! And today’s the first day, what are you going to do? Let’s make a party and make everyone dance! What? No… wait! You’re nervous, you don’t have to be. Let’s talk.

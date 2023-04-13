@@ -1,9 +1,8 @@
 ---
-published: 2022-05-24T21:58:43.727383096+02:00
-section:
-- photos
-- home
+date: 2022-05-24T21:58:43.727383096+02:00
 coverImage: cdn:/2022-05-behind-the-camera
+categories:
+- photos
 location:
   latitude: 51.43243
   longitude: 5.48617

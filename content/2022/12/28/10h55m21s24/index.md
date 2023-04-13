@@ -1,10 +1,7 @@
 ---
 description: Replied to a post on brainbaking.com
-unlisted: true
-published: 2022-12-28T10:55:21.243068686+01:00
-properties:
-  in-reply-to:
-  - https://brainbaking.com/post/2022/12/i-joined-the-dos-game-club/
+date: 2022-12-28T10:55:21.243068686+01:00
+noIndex: true
 location:
   latitude: 37.50651
   longitude: -8.29791
@@ -60,6 +57,7 @@ context:
     your own with a group of friends. Don’t forget to spin up a Mastodon instance
     where your club members can hang out and share their story! tags icon dos mastodon'
   published: 2022-12-28T00:00:00Z
+reply: https://brainbaking.com/post/2022/12/i-joined-the-dos-game-club/
 ---
 
 > Why did I ditch my own instance-of-one server? The primary reason is the lack of a true community feeling. The Fediverse is intended as a distributed and connected set of small communities where you can feel at home, not as a server-per-person system, even though it’s still perfectly possible to follow and engage with anyone on other servers. Only then the local timeline will be quite empty. Another reason is the dreadful server maintenance problem and Pleroma’s opinionated take on some features that, compared to the mainstream software Mastodon, sometimes caused little irritations.

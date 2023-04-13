@@ -1,0 +1,43 @@
+{{ define "main" }}
+<main role='main'>
+  <header>
+    <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
+  </header>
+
+  {{ partialCached "post/content" . .Permalink }}
+
+  <style>
+  .logs .e {
+    grid-template-columns: auto 3rem;
+  }
+  </style>
+
+  {{ $logs := partial "fns/pages-as-logs" .Pages }}
+  {{ $logs = partial "fns/group-date-year" $logs }}
+
+  <div class='h-feed logs'>
+    {{ range $logs.years }}
+      <div>
+        {{ $year := . }}
+        {{ $logs := index $logs.map $year }}
+
+        <div class='h'>
+          <span id='{{ $year }}'>{{ $year }}</span>
+          <span>({{ len $logs }} entries)</span>
+        </div>
+
+        {{ with $logs }}
+          {{ range . }}
+            <div class='e h-entry'>
+              <div><a href='{{ relURL .url }}' class='nl lh p-name u-url'>{{ .name }}</a></div>
+              <div>
+                <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}' class='tab lg small dt-published'>{{ dateFormat "Jan 02" .date }}</time>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

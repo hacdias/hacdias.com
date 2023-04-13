@@ -1,12 +1,10 @@
 ---
-published: 2021-10-25T17:09:47.960105844Z
-updated: 2021-10-25T17:24:40.338706713Z
-section:
-- home
+date: 2021-10-25T17:09:47.960105844Z
+lastmod: 2021-10-25T17:24:40.338706713Z
+tags:
+- meta
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
 ---
 
 Yesterday and today I worked a bit on the backend of my website: [Eagle](https://github.com/hacdias/eagle). I'm quite happy with the amount of bugs I managed to fix and some of the new features:

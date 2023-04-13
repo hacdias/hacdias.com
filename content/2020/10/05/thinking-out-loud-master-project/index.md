@@ -2,19 +2,16 @@
 title: Thinking Out Loud About My Future Master’s Project
 description: |
   I'm in my first year of my master's degree. Next year, I am supposed to do a master's project and thesis. Thus, it's never too early to think about it.
-published: 2020-10-05T09:00:00+02:00
-section:
+date: 2020-10-05T09:00:00+02:00
+tags:
+- reflection
+- university
+- masters
+- thesis
+categories:
 - articles
-- home
-properties:
-  syndication:
-  - https://twitter.com/hacdias/status/1317859153185001474
-taxonomies:
-  tags:
-  - reflection
-  - university
-  - masters
-  - thesis
+syndications:
+- https://twitter.com/hacdias/status/1317859153185001474
 ---
 
 I'm now in my first year of my Master's degree in Computer Science and Engineering which means that next year I am supposed to start (and hopefully finish) my Master's project and thesis. As a consequence of that, I have been thinking a lot about it lately. I don't want to make a rushed choice that will make me work on something I don't enjoy for over half an year.

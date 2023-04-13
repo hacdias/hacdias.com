@@ -1,12 +1,10 @@
 ---
 title: Recently in February '22
-published: 2022-02-28T09:49:52.675741749+01:00
-section:
+date: 2022-02-28T09:49:52.675741749+01:00
+tags:
+- now
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - now
 ---
 
 It is the end of February and it is unbelievable. It feels like 2022 started yesterday, yet here we are: in the end of one more month. I feel like I say this every month though.

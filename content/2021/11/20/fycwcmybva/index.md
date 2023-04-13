@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2021-11-20T17:39:14.804264871Z
-properties:
-  in-reply-to: https://jlelse.blog/posts/bahn2gpx
+date: 2021-11-20T17:39:14.804264871Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/posts/bahn2gpx
@@ -21,6 +19,7 @@ context:
     and at the end the tool gives me a GPX file with the route. Here is an example:
     This is the route I usually take to visit my family in the south of Germany.'
   published: 2021-11-20T18:10:00+01:00
+reply: https://jlelse.blog/posts/bahn2gpx
 ---
 
 Uuuh, that's very cool. I'm also trying to figure out if I can do a similar thing for the Dutch trains. In an idea world, I wouldn't have to take any action. However, their API does not let you check where I checked-in with my OV-chipkaart I think.

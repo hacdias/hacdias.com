@@ -1,8 +1,7 @@
 ---
-published: 2020-10-14T16:04:13Z
-updated: 2020-10-14T17:04:13Z
-section:
-- home
+date: 2020-10-14T16:04:13Z
+lastmod: 2020-10-14T17:04:13Z
+categories:
 - micro
 ---
 

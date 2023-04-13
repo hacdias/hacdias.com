@@ -1,0 +1,39 @@
+{{ define "main" }}
+<main role='main'>
+  <header>
+    <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
+  </header>
+  {{ partialCached "post/content" . .Permalink }}
+
+  {{ $logs := .Site.Data.readings }}
+
+  <h2 id='want-to-read'>📖 Want To Read</h2>
+  {{ template "ulogs" (index $logs "want-to-read") }}
+
+  <h2 id='reading'>📚 Reading</h2>
+  {{ template "ulogs" (index $logs "reading" ) }}
+
+  <h2 id='read'>📕 Read</h2>
+
+  {{ $read := partial "fns/pages-as-logs" .Pages }}
+  {{ $read = $read | append (index $logs "read" ) }}
+  {{ partial "logs" $read }}
+</main>
+{{ end }}
+
+{{ define "ulogs" }}
+<div class='logs'>
+  {{ range . }}
+    <div class='e'>
+      <div>
+        {{ with .url }}<a href='{{ . }}' class='nl lh'>{{ end }}
+          {{ .name }}
+        {{ with .url }}</a>{{ end }}
+      </div>
+      <div>{{ .author }}</div>
+      <div></div>
+      <div><time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}' class='tab lg small'>{{ dateFormat "Jan 02" .date }}</time></div>
+    </div>
+  {{ end }}
+</div>
+{{ end }}

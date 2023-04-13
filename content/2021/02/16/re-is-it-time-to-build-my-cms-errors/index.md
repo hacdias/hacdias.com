@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on ybbond.id
-unlisted: true
-published: 2021-02-16T20:21:25.185559963Z
-properties:
-  in-reply-to: https://ybbond.id/responses/response-20210217025510/
+date: 2021-02-16T20:21:25.185559963Z
+noIndex: true
 context:
   name: In response to «Is it time to build my own CMS?» by «Henrique Dias»
   url: https://ybbond.id/responses/response-20210217025510/
@@ -12,6 +10,7 @@ context:
     of editing anywhere, desktop or mobile devices, like using WordPress… I think
     that would improve my willingness to write posts, or document stuffs.
   published: 2021-02-17T02:55:10+07:00
+reply: https://ybbond.id/responses/response-20210217025510/
 ---
 
 Hey! Thanks for noticing that. It's fixed now.

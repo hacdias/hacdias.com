@@ -1,14 +1,11 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-05-11T14:21:45.769Z
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2020/05/git-is-great/
-taxonomies:
-  tags:
-  - cvs
-  - git
-  - tools
+date: 2020-05-11T14:21:45.769Z
+noIndex: true
+tags:
+- cvs
+- git
+- tools
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/05/git-is-great
@@ -27,6 +24,7 @@ context:
     and easier that way. For my studies and apprenticeship I had or have to use SVN
     and I’m really glad that there is Git and so many tools to work with Git…'
   published: 2020-05-11T15:51:16+02:00
+reply: https://jlelse.blog/thoughts/2020/05/git-is-great/
 ---
 
 That's such a nice story. I actually mostly use GitHub's interface and the CLI to work with Git. I only recall using SVN for publishing WordPress plugins a long time ago. I have had to modules during my bachelor's with the same teacher that required us to use the [Concurrent Versions Systems](https://en.wikipedia.org/wiki/Concurrent_Versions_System) and that one can be a pain. I'm always afraid I'm gonna break something 😂

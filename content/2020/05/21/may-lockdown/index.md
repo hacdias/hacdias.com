@@ -1,10 +1,9 @@
 ---
 title: May Lockdown
-published: 2020-05-21T23:30:50.893Z
-section:
-- photos
-- home
+date: 2020-05-21T23:30:50.893Z
 coverImage: cdn:/2020-05-nature-02
+categories:
+- photos
 ---
 
 <style>

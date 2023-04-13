@@ -2,14 +2,12 @@
 title: Como Utilizar o Gettext em PHP para Traduções [Parte 1]
 description: A linguagem PHP está repleta de extensões. Uma muito utilizada e útil
   é o Gettext que nos permite traduzir um site muito facilmente.
-published: 2014-09-21T11:07:03Z
-section:
+date: 2014-09-21T11:07:03Z
+tags:
+- php
+- portuguese
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - php
-  - portuguese
 ---
 
 Como prometido no [último artigo](/2014/09/13/php-wordpress-comandos-printf-sprintf), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.

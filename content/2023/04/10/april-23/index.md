@@ -1,13 +1,11 @@
 ---
 title: Recently in April '23
 draft: true
-published: 2023-04-10T15:22:50.546629595+02:00
-section:
-- home
+date: 2023-04-10T15:22:50.546629595+02:00
+tags:
+- now
+categories:
 - articles
-taxonomies:
-  tags:
-  - now
 location:
   latitude: 51.50113
   longitude: 5.46356

@@ -1,16 +1,14 @@
 ---
 title: ProtoSchool
 description: Bookmarked a post on proto.school
-published: 2021-11-15T11:08:46.931654234Z
-section:
+date: 2021-11-15T11:08:46.931654234Z
+tags:
+- web3
+- dweb
+- educational
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://proto.school/
-taxonomies:
-  tags:
-  - web3
-  - dweb
-  - educational
+bookmark: https://proto.school/
 ---
 
 A fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There’s courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.

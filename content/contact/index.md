@@ -18,31 +18,17 @@ I can be reached through different means, and you can find me on many different 
 
 ## 🗞 Follow {#follow}
 
-All the [sections](/more#sections), including the home page, have ATOM, RSS, JSON and HTML feeds. To subscribe to the main posts, you can just follow my [home page](/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
+All the [sections](/more#sections), including the home page, have ATOM, JSON and HTML feeds. To subscribe to the main posts, you can just follow my [home page](/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
 
 <div class="box">
 
 In case your reader does not detect the feeds automatically, the links are formatted as follows. This example is for the [home page](/) page:
 
   - **HTML (Microformats)**: [https://hacdias.com/](/)
-  - **Atom Feed**: [https://hacdias.com/.atom](/.atom)
-  - **RSS Feed**: [https://hacdias.com/.rss](/.rss)
-  - **JSON Feed**: [https://hacdias.com/.json](/.json)
+  - **Atom Feed**: [https://hacdias.com/feed.xml](/feed.xml)
+  - **JSON Feed**: [https://hacdias.com/feed.json](/feed.json)
 
 </div>
-
-<!-- 
-
-### 🐘 Fediverse {#fediverse}
-
-You can follow me on Mastodon, Pleroma, or other similar application that supports ActivityPub by searching for `@hacdias@hacdias.com`. Instead, you can also try using the remote follow form below.
-
-<form method='post' action='/activitypub/remote-follow' class='inline-form'>
-  <input required name='acct' placeholder='Enter your user@example.org...'>
-  <button>Follow</button>
-</form>
-
--->
 
 ## 🕸 Elsewhere {#elsewhere}
 

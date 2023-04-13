@@ -1,0 +1,84 @@
+baseURL = 'https://hacdias.com/'
+languageCode = 'en'
+title = 'Henrique Dias'
+paginate = 10
+rsslimit = 10
+pluralizelisttitles = false
+removePathAccents = true
+summaryLength = 300
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[permalinks]
+  tags = '/tags/:title/'
+  categories = '/:title/'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+  [markup.highlight]
+    style = 'xcode'
+
+[menu]
+[[menu.main]]
+  name = '🧁 About'
+  pageRef = '/about'
+  weight = 1
+[[menu.main]]
+  name = '✉️ Contact'
+  pageRef = '/contact'
+  weight = 2
+[[menu.main]]
+  name = '✏️ Articles'
+  pageRef = '/categories/articles'
+  weight = 3
+[[menu.main]]
+  name = '📸 Photos'
+  pageRef = '/categories/photos'
+  weight = 4
+[[menu.main]]
+  name = '📖 Guestbook'
+  pageRef = '/guestbook'
+  weight = 5
+[[menu.main]]
+  name = '🌈 More'
+  pageRef = '/more'
+  weight = 6
+
+[params]
+  [params.site]
+    description = "Henrique is interested in web infrastructure, decentralized systems, and making tools for developers and users. He likes coffee and tea alike. Currently, works as a Software Engineer at Protocol Labs."
+  [params.author]
+    name = 'Henrique Dias'
+    email = 'mail@hacdias.com'
+    photo = 'https://hacdias.com/profile/2022-03-26/me-256.jpg'
+    identities = [
+      'https://twitter.com/hacdias',
+      'https://github.com/hacdias',
+      'https://instagram.com/hacdias',
+      'https://linkedin.com/in/hacdias',
+      'https://news.ycombinator.com/user?id=hacdias',
+      'https://lobste.rs/u/hacdias',
+      'https://fosstodon.org/@hacdias',
+      'mailto:mail@hacdias.com',
+      'mailto:hacdias@gmail.com'
+    ]
+
+[outputFormats]
+  [outputFormats.rss]
+    baseName = 'feed'
+  [outputFormats.json]
+    baseName = 'feed'
+    isPlainText = true
+
+[outputs]
+  taxonomyTerm = ['HTML']
+  taxonomy = ['HTML', 'RSS', 'JSON']
+  home = ['HTML', 'RSS', 'JSON']
+  section = ['HTML']
+  page = ['HTML']

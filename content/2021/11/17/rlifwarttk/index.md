@@ -1,7 +1,6 @@
 ---
-published: 2021-11-17T08:09:37.825393702Z
-section:
-- home
+date: 2021-11-17T08:09:37.825393702Z
+categories:
 - micro
 ---
 

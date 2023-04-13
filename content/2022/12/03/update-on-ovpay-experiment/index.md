@@ -1,12 +1,10 @@
 ---
 title: A Small Update On My OVPay Experiment
-published: 2022-12-03T19:33:52.155473488+01:00
-section:
+date: 2022-12-03T19:33:52.155473488+01:00
+tags:
+- ovpay
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - ovpay
 ---
 
 In the beginning of last month, I [wrote](/2022/11/04/trying-out-ovpay) a post about trying out the new payment system for public transit in The Netherlands, OVPay 💳. On it, I mentioned quite a few things regarding different operators. It's been around a month, and I've had the opportunity to travel again on Hermes 🚍 buses using OVPay. Here's the update.

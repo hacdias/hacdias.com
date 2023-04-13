@@ -1,10 +1,9 @@
 ---
 title: Utrecht I
-published: 2021-04-30T12:00:00Z
-section:
-- photos
-- home
+date: 2021-04-30T12:00:00Z
 coverImage: cdn:/2021-04-utrecht-02
+categories:
+- photos
 ---
 
 I went to Utrecht, which turned out to be one of the loveliest cities in the Netherlands I've been to so far. It's picturesque, has canals and felt lively.

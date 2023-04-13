@@ -1,12 +1,11 @@
 ---
 title: Maastricht II
-published: 2021-06-01T00:00:00Z
-section:
-- photos
-- home
+date: 2021-06-01T00:00:00Z
 coverImage: cdn:/2021-05-maastricht-07
-properties:
-  syndication: https://www.instagram.com/p/CO6P31uLDLN/
+categories:
+- photos
+syndications:
+- https://www.instagram.com/p/CO6P31uLDLN/
 ---
 
 [Maastricht](/2021/05/31/maastricht-i) turned out to be quite a magical little city close to the border with Belgium. There was a lot of greenery and old buildings.

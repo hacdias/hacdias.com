@@ -1,8 +1,8 @@
 ---
 title: Colophon
 description: Why does this website exist? How does it work?
-published: 2021-02-19T09:45:13Z
-updated: 2022-12-14T10:52:48.266744875+01:00
+date: 2021-02-19T09:45:13Z
+lastmod: 2022-12-14T10:52:48.266744875+01:00
 noSendInteractions: true
 ---
 

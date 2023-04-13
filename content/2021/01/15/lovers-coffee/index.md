@@ -1,16 +1,14 @@
 ---
 title: Lovers' Coffee
-published: 2021-01-15T00:00:00Z
-section:
-- home
-- micro
+date: 2021-01-15T00:00:00Z
 coverImage: cdn:/2021-01-lovers-coffee
-taxonomies:
-  tags:
-  - art
-  - creative
-  - procreate
-  - drawing
+tags:
+- art
+- creative
+- procreate
+- drawing
+categories:
+- micro
 ---
 
 ![](cdn:/2021-01-lovers-coffee?class=fw)

@@ -1,9 +1,8 @@
 ---
 title: My Current Backup Strategy
 draft: true
-taxonomies:
-  tags:
-  - example
+tags:
+- example
 ---
 
 Code is poetry...

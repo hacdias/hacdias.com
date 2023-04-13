@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2022-12-16T22:11:14.242547539+01:00
-properties:
-  in-reply-to: https://jlelse.blog/micro/2022/12/2022-12-16-dfqrq
+date: 2022-12-16T22:11:14.242547539+01:00
+noIndex: true
 location:
   latitude: 51.44592037280337
   longitude: 5.4614705856212105
@@ -15,6 +13,7 @@ context:
   url: https://jlelse.blog/micro/2022/12/2022-12-16-dfqrq
   content: That looks nice! What is it actually?
   published: 2022-12-16T21:04:55Z
+reply: https://jlelse.blog/micro/2022/12/2022-12-16-dfqrq
 ---
 
 It’s a ceiling lamp 😅

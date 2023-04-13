@@ -1,10 +1,9 @@
 ---
 title: Costa Alentejana
-published: 2020-06-21T23:30:50.893Z
-section:
-- photos
-- home
+date: 2020-06-21T23:30:50.893Z
 coverImage: cdn:/2020-06-costa-alentejana-2
+categories:
+- photos
 ---
 
 <style>

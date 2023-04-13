@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on seblog.nl
-unlisted: true
-published: 2020-04-09T08:34:32.149Z
-properties:
-  in-reply-to: https://seblog.nl/2020/04/09/2/reply
+date: 2020-04-09T08:34:32.149Z
+noIndex: true
 context:
   name: Sebastiaan Andeweg
   url: https://seblog.nl/2020/04/09/2/reply
@@ -18,6 +16,7 @@ context:
     does not display. So: I myself would not want to loose the complexity of the Mf2-fetching,
     for it has other benefits.'
   published: 2020-04-09T07:07:16Z
+reply: https://seblog.nl/2020/04/09/2/reply
 ---
 
 You've made good points: if I want to show something, I'll always need to fetch it. I'm actually using [XRay](https://xray.p3k.app/) for it right now which is really straightforward to use. However, as simple as it might be, I'm not happy with the code of my backend API. Some places feel more complex than they should be. I'll need to revisit it soon.

@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2021-10-20T18:07:03.215693684Z
-properties:
-  in-reply-to: https://jlelse.blog/micro/2021/10/2021-10-20-uwmdk
+date: 2021-10-20T18:07:03.215693684Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/10/2021-10-20-uwmdk
@@ -14,6 +12,7 @@ context:
     in any Go project. GoBlog (my blogging system) has a Tailscale integration, which
     allows me to access my diary using HTTPS only from trusted devices.
   published: 2021-10-20T20:05:00+02:00
+reply: https://jlelse.blog/micro/2021/10/2021-10-20-uwmdk
 ---
 
 Ouh, that's quite nice. Thanks!

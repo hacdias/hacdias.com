@@ -1,10 +1,8 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2023-01-10T11:23:48.476217634+01:00
-updated: 2023-01-10T11:25:46.444555738+01:00
-properties:
-  in-reply-to: https://jlelse.blog/micro/2023/01/2023-01-10-yrfgs
+date: 2023-01-10T11:23:48.476217634+01:00
+lastmod: 2023-01-10T11:25:46.444555738+01:00
+noIndex: true
 location:
   latitude: 51.223637164894846
   longitude: 6.8338486300875765
@@ -24,6 +22,7 @@ context:
     towers of \U0001F1E8\U0001F1ED.) I wish you good luck though, let’s hope the delay
     doesn’t increase anymore!"
   published: 2023-01-10T10:21:33Z
+reply: https://jlelse.blog/micro/2023/01/2023-01-10-yrfgs
 ---
 
 If I didn’t have to be at my final destination, I would stay a bit in Basel. But it’s Switzerland. I’m sure there’s connections not long after and likely on time.

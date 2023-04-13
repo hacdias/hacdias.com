@@ -1,16 +1,14 @@
 ---
 title: Starry Sky
-published: 2021-04-14T00:00:00Z
-section:
-- home
-- micro
+date: 2021-04-14T00:00:00Z
 coverImage: cdn:/2021-04-starry-sky
-taxonomies:
-  tags:
-  - art
-  - creative
-  - procreate
-  - drawing
+tags:
+- art
+- creative
+- procreate
+- drawing
+categories:
+- micro
 ---
 
 ![](cdn:/2021-04-starry-sky?class=fw)

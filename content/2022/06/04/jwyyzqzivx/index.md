@@ -1,11 +1,9 @@
 ---
-published: 2022-06-04T12:48:12.686181075+02:00
-section:
-- home
+date: 2022-06-04T12:48:12.686181075+02:00
+tags:
+- security
+categories:
 - micro
-taxonomies:
-  tags:
-  - security
 location:
   latitude: 51.43239
   longitude: 5.48615

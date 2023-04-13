@@ -1,13 +1,10 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-12-10T07:13:00Z
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2020/12/crypto-bs
-taxonomies:
-  tags:
-  - blockchain
-  - cryptocurrency
+date: 2020-12-10T07:13:00Z
+noIndex: true
+tags:
+- blockchain
+- cryptocurrency
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/12/crypto-bs
@@ -28,6 +25,7 @@ context:
     trading is more of a gamble with the goal of getting more and more people to invest
     their money in it, and others to cash out and get rich.'
   published: 2020-12-09T20:37:13+01:00
+reply: https://jlelse.blog/thoughts/2020/12/crypto-bs
 ---
 
 Well, I'm going to try to quickly explain the best I can. First of all, blockchain and cryptocurrencies are not interchangeable. Secondly, "crypto" was historically used to refer to cryptography and not cryptocurrencies. I don't agree with whoever started this trend.

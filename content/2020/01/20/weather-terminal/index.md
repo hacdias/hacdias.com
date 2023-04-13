@@ -1,14 +1,12 @@
 ---
-published: 2020-01-20T22:13:42.439Z
-section:
-- home
+date: 2020-01-20T22:13:42.439Z
+tags:
+- software
+- curl
+- terminal
+- tip
+categories:
 - micro
-taxonomies:
-  tags:
-  - software
-  - curl
-  - terminal
-  - tip
 ---
 
 Weather in the terminal:

@@ -1,12 +1,11 @@
 ---
 title: "\U0001F338 A Visit to the Bloesempark"
-published: 2022-03-27T11:03:07.069215+02:00
-section:
-- photos
-- home
+date: 2022-03-27T11:03:07.069215+02:00
 coverImage: cdn:/2022-03-cherry-blossoms-06
-properties:
-  syndication: https://twitter.com/hacdias/status/1508095378222166021
+categories:
+- photos
+syndications:
+- https://twitter.com/hacdias/status/1508095378222166021
 ---
 
 <style>

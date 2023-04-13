@@ -1,21 +1,19 @@
 ---
 title: Thread by @andrestaltz on Content Monetization in Web3
 description: Bookmarked a post on twitter.com
-published: 2022-10-30T00:22:03.494296718+02:00
-updated: 2022-10-30T00:50:13.255143536+02:00
-section:
+date: 2022-10-30T00:22:03.494296718+02:00
+lastmod: 2022-10-30T00:50:13.255143536+02:00
+tags:
+- web3
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://twitter.com/andrestaltz/status/1583556396636741633
-taxonomies:
-  tags:
-  - web3
 location:
   latitude: 38.72238
   longitude: -9.1565
   locality: Lisbon
   region: Lisbon
   country: Portugal
+bookmark: https://twitter.com/andrestaltz/status/1583556396636741633
 ---
 
 > This requires long-from writing, but one common myth in the decentralized industry is that content can be monetized. Web3 social nets in particular love to proclaim that they're helping creators make a living. Content is hardly monetizable.

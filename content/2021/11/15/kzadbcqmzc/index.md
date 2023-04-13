@@ -1,16 +1,14 @@
 ---
 title: ENS | Ethereum Name Service
 description: Bookmarked a post on ens.domains
-published: 2021-11-15T11:07:01.181723124Z
-section:
+date: 2021-11-15T11:07:01.181723124Z
+tags:
+- dweb
+- web3
+- dns
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://ens.domains/
-taxonomies:
-  tags:
-  - dweb
-  - web3
-  - dns
+bookmark: https://ens.domains/
 ---
 
 

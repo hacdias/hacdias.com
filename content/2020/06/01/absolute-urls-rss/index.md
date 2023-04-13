@@ -1,12 +1,9 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-06-01T18:44:39.02Z
-properties:
-  in-reply-to: https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/
-taxonomies:
-  tags:
-  - meta
+date: 2020-06-01T18:44:39.02Z
+noIndex: true
+tags:
+- meta
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/06/relative-links-hugo-rss
@@ -18,6 +15,7 @@ context:
     abolute version. It’s probably easy to modify to replace relative image sources
     too.
   published: 2020-06-01T20:11:18+02:00
+reply: https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/
 ---
 
 Wow! Thanks Jan. I'm still trying to understand why replacing links that start with `/` work because my feed was printing relative URLs with `..`. It seems to work though. I'm happy 🤯

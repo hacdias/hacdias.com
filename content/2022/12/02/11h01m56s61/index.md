@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on fosstodon.org
-unlisted: true
-published: 2022-12-02T11:01:56.619197758+01:00
-properties:
-  in-reply-to: https://geekcompass.com/@jan/109443444731087805
+date: 2022-12-02T11:01:56.619197758+01:00
+noIndex: true
 location:
   latitude: 51.44591
   longitude: 5.46188
@@ -19,6 +17,7 @@ context:
     the more consistent look.https://www.matuzo.at/blog/2022/100daysof-day20/#css
     #WebDesign(https://bddz.be/lJz)'
   published: 2022-12-02T09:47:17Z
+reply: https://geekcompass.com/@jan/109443444731087805
 ---
 
 Had to open MDN page to see what this article was about 😅 It seems that the property makes no difference on macOS, yet.

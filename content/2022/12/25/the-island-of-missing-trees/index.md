@@ -1,18 +1,15 @@
 ---
 description: 'The Island of Missing Trees by Elif Shafak (ISBN: 9780241988725)'
-published: 2022-12-25T11:20:30.172268833+01:00
-section:
+date: 2022-12-25T11:20:30.172268833+01:00
+categories:
 - readings
-properties:
-  rating: 4
-  read-of:
-    properties:
-      author: Elif Shafak
-      name: The Island of Missing Trees
-      pages: 356
-      publisher: Penguin Books
-      uid: isbn:9780241988725
-    type: h-cite
+read:
+  name: The Island of Missing Trees
+  author: Elif Shafak
+  publisher: Penguin Books
+  pages: 356
+  uid: isbn:9780241988725
+rating: 4
 ---
 
 I started reading this book in June and, even though I was enjoying it, life happened and I started reading very infrequently. I feel like this is a cycle that happens every year: in the beginning of the year I read a lot, during winter, and spring. Then summer comes and I stop reading.

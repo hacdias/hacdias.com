@@ -1,0 +1,25 @@
+{{- $pages := partialCached "fns/pages" . .Permalink }}
+{{- if .Params.disablePagination }}
+  {{- template "feed" $pages }}
+{{- else }}
+  {{- $paginator := .Paginate $pages }}
+  {{- template "feed" $paginator.Pages }}
+  {{- if or $paginator.HasPrev $paginator.HasNext }}
+    <nav style="display: flex;">
+    {{- if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" style="margin-right: auto;">← Previous</a>
+    {{- end }}
+    {{- if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" style="margin-left: auto;">Next →</a>
+    {{- end }}
+    </nav>
+  {{- end }}
+{{- end }}
+
+{{- define "feed" }}
+<div class='h-feed'>
+  {{- range . }}
+    {{- partial "list/item" . -}}
+  {{ end }}
+</div>
+{{- end }}

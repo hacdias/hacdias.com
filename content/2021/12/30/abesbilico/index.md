@@ -1,7 +1,6 @@
 ---
-published: 2021-12-30T23:17:39.479536101Z
-section:
-- home
+date: 2021-12-30T23:17:39.479536101Z
+categories:
 - micro
 location:
   latitude: 37.50275

@@ -1,12 +1,10 @@
 ---
-published: 2021-12-04T07:51:49.279301331Z
-section:
-- home
+date: 2021-12-04T07:51:49.279301331Z
+tags:
+- meta
+- microsub
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - microsub
 location:
   latitude: 51.43244
   longitude: 5.48614

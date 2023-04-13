@@ -1,12 +1,10 @@
 ---
-published: 2021-11-23T14:44:59.463419339Z
-section:
-- home
+date: 2021-11-23T14:44:59.463419339Z
+tags:
+- indieauth
+- meta
+categories:
 - micro
-taxonomies:
-  tags:
-  - indieauth
-  - meta
 location:
   latitude: 51.43249
   longitude: 5.48612

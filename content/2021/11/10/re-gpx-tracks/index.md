@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2021-11-10T17:40:31.292946556Z
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2021/11/gpx-tracks
+date: 2021-11-10T17:40:31.292946556Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2021/11/gpx-tracks
@@ -19,6 +17,7 @@ context:
     map as well. It might also make sense to cache the parsed GPX information so that
     the GPX file doesn’t have to be re-read over and over again.
   published: 2021-11-10T17:21:30+01:00
+reply: https://jlelse.blog/thoughts/2021/11/gpx-tracks
 ---
 
 That's really cool! It reminds me that I would like to implement something similar in the future... So I shoved it in the gigantic [list of things](https://github.com/hacdias/eagle/issues/34) I would like to do after I move away from Hugo - almost there!

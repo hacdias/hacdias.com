@@ -2,11 +2,10 @@
 title: |
   "Introduction", the most common systems concept you've never heard of
 description: Bookmarked a post on catern.com
-published: 2021-11-17T22:45:51.645376528Z
-section:
+date: 2021-11-17T22:45:51.645376528Z
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://catern.com/introduction.html
+bookmark: https://catern.com/introduction.html
 ---
 
 

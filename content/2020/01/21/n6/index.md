@@ -1,13 +1,11 @@
 ---
-published: 2020-01-21T22:30:58.354Z
-section:
-- home
+date: 2020-01-21T22:30:58.354Z
+tags:
+- meta
+- design
+- optimization
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - design
-  - optimization
 ---
 
 Just made a few updates to my website:

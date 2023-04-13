@@ -1,9 +1,8 @@
 ---
 title: 'Fundamentals of Programming #3: Paradigms'
-published: 2016-11-12T00:00:00Z
-section:
+date: 2016-11-12T00:00:00Z
+categories:
 - articles
-- home
 ---
 
 Every single programming language has its own characteristics

@@ -2,14 +2,12 @@
 title: MVC na Linguagem PHP - III
 description: No seguimento da criação de uma framework PHP que utilize o modelo MVC,
   hoje explicamos como se criam os controladores.
-published: 2014-12-20T09:00:23Z
-section:
+date: 2014-12-20T09:00:23Z
+tags:
+- php
+- portuguese
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - php
-  - portuguese
 ---
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.

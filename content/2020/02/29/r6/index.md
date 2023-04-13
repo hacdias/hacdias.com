@@ -1,14 +1,11 @@
 ---
 description: Replied to a post on www.jvt.me
-unlisted: true
-published: 2020-02-29T22:19:56.901Z
-properties:
-  in-reply-to: https://www.jvt.me/posts/2020/01/12/webmention-notifications/
-taxonomies:
-  tags:
-  - telegram
-  - notifications
-  - webmentions
+date: 2020-02-29T22:19:56.901Z
+noIndex: true
+tags:
+- telegram
+- notifications
+- webmentions
 context:
   name: Jamie Tanna
   url: https://www.jvt.me/posts/2020/01/12/webmention-notifications/
@@ -31,6 +28,7 @@ context:
     the code changes required to add Pushover Merge Request on GitLab.com: Use Pushover
     for Webmention notifications.'
   published: 2020-01-12T18:21:43Z
+reply: https://www.jvt.me/posts/2020/01/12/webmention-notifications/
 ---
 
 That's a lovely idea. I'm personally using Telegram's [Bot API](https://telegram.org/blog/bot-revolution) which is quite powerful!

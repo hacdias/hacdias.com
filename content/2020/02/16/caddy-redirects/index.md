@@ -1,14 +1,11 @@
 ---
 description: Replied to a post on hacdias.com
-unlisted: true
-published: 2020-02-16T14:32:39.871Z
-properties:
-  in-reply-to: https://hacdias.com/2020/02/16/updates
-taxonomies:
-  tags:
-  - meta
-  - hugo
-  - development
+date: 2020-02-16T14:32:39.871Z
+noIndex: true
+tags:
+- meta
+- hugo
+- development
 context:
   name: Henrique Dias
   url: https://hacdias.com/2020/02/16/updates
@@ -27,6 +24,7 @@ context:
     somehow but I just have tons of files from university and other stuff laying around
     without any organization. I really loved this braindump from Jethro.
   published: 2020-02-16T11:06:57Z
+reply: https://hacdias.com/2020/02/16/updates
 ---
 
 After publishing the post to which I'm replying to, [@jlelse](https://jlelse.blog/) contacted me and I noticed the [`import`](https://caddyserver.com/v1/docs/import) directive in Caddy can be used to import files:

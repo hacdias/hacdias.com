@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <main role="main">
+    <div class="copy">
+      {{ $pages := where .Site.RegularPages "Params.categories" "ne" nil }}
+      {{ $paginate := .Paginate $pages }}
+      {{ if eq $paginate.PageNumber 1 }}
+        {{ partialCached "post/content" . .Permalink }}
+        <h3>🌻 Latest Posts</h3>
+      {{ else }}
+        <header><h1 class="p-name">🌻 Latest Posts</h1></header>
+      {{ end }}
+      {{ partial "list/list" . }}
+    </div>
+  </main>
+{{ end }}

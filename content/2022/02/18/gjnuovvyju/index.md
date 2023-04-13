@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jan.boddez.net
-unlisted: true
-published: 2022-02-18T08:59:36.99403712+01:00
-properties:
-  in-reply-to: https://jan.boddez.net/notes/ddfdefca7c
+date: 2022-02-18T08:59:36.99403712+01:00
+noIndex: true
 location:
   latitude: 51.43248
   longitude: 5.48613
@@ -20,6 +18,7 @@ context:
     content it’s a “curly” quote. Which raises the question: Why add the p-name class
     at all, if this a note?'
   published: 2022-02-17T08:59:17+01:00
+reply: https://jan.boddez.net/notes/ddfdefca7c
 ---
 
 To avoid future issues, I removed the `p-name` property when there's no title. This should also fix a similar issue when I appended ellipsis to the title if it was a truncation of the content. Thanks for pointing it out!

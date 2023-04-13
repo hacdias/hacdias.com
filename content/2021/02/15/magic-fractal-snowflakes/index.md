@@ -1,17 +1,14 @@
 ---
 title: The Magic of Fractal Snowflakes
-published: 2021-02-15T06:30:00Z
-updated: 2021-02-15T06:49:43.435183405Z
-section:
+date: 2021-02-15T06:30:00Z
+lastmod: 2021-02-15T06:49:43.435183405Z
+tags:
+- javascript
+- art
+categories:
 - articles
-- home
-properties:
-  syndication:
-  - https://twitter.com/hacdias/status/1361206419266154499
-taxonomies:
-  tags:
-  - javascript
-  - art
+syndications:
+- https://twitter.com/hacdias/status/1361206419266154499
 ---
 
 <p class=dn>

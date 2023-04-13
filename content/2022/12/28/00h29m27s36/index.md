@@ -1,10 +1,7 @@
 ---
 description: Replied to a post on jlg.micro.blog
-unlisted: true
-published: 2022-12-28T00:29:27.364686311+01:00
-properties:
-  in-reply-to:
-  - https://jlg.micro.blog/2022/12/27/182453.html
+date: 2022-12-28T00:29:27.364686311+01:00
+noIndex: true
 location:
   latitude: 37.50651
   longitude: -8.29791
@@ -20,6 +17,7 @@ context:
     I’m looking at GoBlog. Any tips you have on set up and running are very welcome
     and appreciated \U0001F647\U0001F3FE‍♂️"
   published: 2022-12-27T18:24:53-05:00
+reply: https://jlg.micro.blog/2022/12/27/182453.html
 ---
 
 I'm not using GoBlog, but my own implementation, [Eagle](https://github.com/hacdias/eagle). You should reach out [@jlelse](https://jlelse.blog/), as he's the creator of GoBlog 😅

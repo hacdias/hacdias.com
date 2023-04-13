@@ -2,18 +2,15 @@
 title: Analyzing My Shows and Movie Habits
 description: |
   I now have a watch log again and decided to analyse 2019's habits of TV shows and movie watching.
-published: 2020-02-22T22:05:00Z
-section:
+date: 2020-02-22T22:05:00Z
+tags:
+- meta
+- reflection
+- year-in-popcorn
+categories:
 - articles
-- home
-properties:
-  syndication:
-  - https://twitter.com/hacdias/status/1231484792027348994
-taxonomies:
-  tags:
-  - meta
-  - reflection
-  - year-in-popcorn
+syndications:
+- https://twitter.com/hacdias/status/1231484792027348994
 ---
 
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of

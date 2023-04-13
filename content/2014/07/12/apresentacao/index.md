@@ -2,14 +2,12 @@
 title: Apresentação
 description: Uma pequena apresentação sobre o blog e sobre o que quero fazer com ele.
   Quem sou eu? Que escreverei neste blog? Saberás tudo ao ler!"
-published: 2014-07-12T14:05:48Z
-section:
+date: 2014-07-12T14:05:48Z
+tags:
+- meta
+- portuguese
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - meta
-  - portuguese
 ---
 
 Olá!

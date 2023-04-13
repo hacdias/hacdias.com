@@ -1,10 +1,9 @@
 ---
 description: At Station Delft
-published: 2022-11-04T12:49:32+01:00
-section:
-- micro
-- home
+date: 2022-11-04T12:49:32+01:00
 coverImage: cdn:/5a88178c16d6912358ca8c3522ec0a0219c6520851b726d6286f728f0891cb4f
+categories:
+- micro
 location:
   latitude: 52.00716926388615
   longitude: 4.3568899035188275

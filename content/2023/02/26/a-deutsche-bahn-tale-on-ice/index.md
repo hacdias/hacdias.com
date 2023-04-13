@@ -1,9 +1,8 @@
 ---
 title: A Deutsche Bahn Tale on ICE
-published: 2023-02-26T11:44:12.868255483+01:00
-section:
+date: 2023-02-26T11:44:12.868255483+01:00
+categories:
 - articles
-- home
 ---
 
 Last month, I traveled from The Netherlands 🇳🇱 to Switzerland 🇨🇭 by train. More specifically, I traveled from Eindhoven to Engelberg, which is a small alpine town in the centre of Switzerland. When I wrote this post for the first time, it was mostly a rant, but now that some time has passed, I decided to rewrite it and finally publish it.

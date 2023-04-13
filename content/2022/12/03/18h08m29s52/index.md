@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on shkspr.mobi
-unlisted: true
-published: 2022-12-03T18:08:29.005299319+01:00
-properties:
-  in-reply-to: https://shkspr.mobi/blog/2022/12/the-ethics-of-syndicating-comments-using-webmentions/
+date: 2022-12-03T18:08:29.005299319+01:00
+noIndex: true
 location:
   latitude: 51.43921
   longitude: 5.45587
@@ -62,6 +60,7 @@ context:
     up.) What do you think I should do? Share the love: Mastodon Twitter Facebook
     LinkedIn Reddit HackerNews Lobsters Email Pocket WhatsApp Telegram'
   published: 2022-12-03T00:00:00Z
+reply: https://shkspr.mobi/blog/2022/12/the-ethics-of-syndicating-comments-using-webmentions/
 ---
 
 You bring very good points on how ethical it may be to syndicate comments through Webmentions. I personally have been doing option (2), so I remove comments if someone asks me. I've only had that happen once, but my follower base is much smaller! If it becomes a very frequent thing, it may be much harder to manage.

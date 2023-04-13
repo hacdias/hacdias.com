@@ -1,11 +1,7 @@
 ---
 description: Replied to a post on twitter.com
-unlisted: true
-published: 2021-12-05T22:16:28.86801396Z
-properties:
-  in-reply-to: https://twitter.com/_saligia__/status/1467458728827961345
-  syndication:
-  - https://twitter.com/hacdias/status/1467618909599764489
+date: 2021-12-05T22:16:28.86801396Z
+noIndex: true
 location:
   latitude: 51.43249
   longitude: 5.48608
@@ -19,6 +15,9 @@ context:
   content: I gave it a try, but it was so complex I lost myself in the mix. Give Glória
     a try, it's pretty good too!!
   published: 2021-12-05T11:39:59Z
+syndications:
+- https://twitter.com/hacdias/status/1467618909599764489
+reply: https://twitter.com/_saligia__/status/1467458728827961345
 ---
 
 Probably will once I have a bit more time!

@@ -1,8 +1,7 @@
 ---
-published: 2022-12-22T18:18:59.692596776+01:00
-section:
+date: 2022-12-22T18:18:59.692596776+01:00
+categories:
 - micro
-- home
 location:
   latitude: 51.45789
   longitude: 5.39089

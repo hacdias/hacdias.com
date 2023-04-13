@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2022-08-14T20:19:51.839823447+02:00
-properties:
-  in-reply-to: https://jlelse.blog/micro/2022/08/2022-08-14-nztyu
+date: 2022-08-14T20:19:51.839823447+02:00
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2022/08/2022-08-14-nztyu
@@ -16,6 +14,7 @@ context:
     “post types”, too many restrictions and sometimes hard to choose between them.
     (Also, should this post be a like, reply or bookmark? \U0001F914\U0001F605)"
   published: 2022-08-14T20:18:04+02:00
+reply: https://jlelse.blog/micro/2022/08/2022-08-14-nztyu
 ---
 
 Hey! Completely agreed. I think it should be a "reply". I'm planning on removing the likes in long-term because they don't add anything interesting. I would say that bookmarks are... bookmarks - posts or websites you find interesting and you might want to look at them in the future. I think those are useful. Likes and reposts feel a bit more... useless let's say.

@@ -1,15 +1,13 @@
 ---
 title: IPFS
 description: Bookmarked a post on ipfs.io
-published: 2021-11-15T11:05:08.300306983Z
-section:
+date: 2021-11-15T11:05:08.300306983Z
+tags:
+- dweb
+- web3
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://ipfs.io/
-taxonomies:
-  tags:
-  - dweb
-  - web3
+bookmark: https://ipfs.io/
 ---
 
 P2P hypermedia protocol.

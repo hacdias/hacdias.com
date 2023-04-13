@@ -1,12 +1,10 @@
 ---
-published: 2020-07-16T17:01:05.464Z
-section:
-- home
+date: 2020-07-16T17:01:05.464Z
+tags:
+- writing
+- creative
+categories:
 - micro
-taxonomies:
-  tags:
-  - writing
-  - creative
 ---
 
 Last night before going to sleep... well actually while falling asleep I thought about writing this. It's such a basic poem, but lemme just share it here.

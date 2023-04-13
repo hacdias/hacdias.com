@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
-unlisted: true
-published: 2022-01-27T11:02:56.83669312Z
-properties:
-  in-reply-to: https://hacdias.com/2022/01/27/tzbfpmydhl
+date: 2022-01-27T11:02:56.83669312Z
+noIndex: true
 location:
   latitude: 51.4324731398936
   longitude: 5.48614297134089
@@ -17,6 +15,7 @@ context:
     have shortcuts for replying, linking, bookmarking, reposting and updating a book
     reading progress. Let’s hope this works and that it will make me post more \U0001F914"
   published: 2022-01-27T11:01:54Z
+reply: https://hacdias.com/2022/01/27/tzbfpmydhl
 ---
 
 Well, that clearly worked. Maybe I should also add an option on whether or not to share it on Twitter. Or maybe not. I can defer those complicated things to Quill.

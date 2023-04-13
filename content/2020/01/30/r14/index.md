@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-01-30T20:13:26.617Z
-properties:
-  in-reply-to: https://jlelse.blog/links/2020/01/whatsapp-dangerous/
+date: 2020-01-30T20:13:26.617Z
+noIndex: true
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/links/2020/01/whatsapp-dangerous
@@ -20,6 +18,7 @@ context:
     and smartphones. However, I wish Telegram would open-source their backend code
     too. https://telegra.ph/Why-Using-WhatsApp-Is-Dangerous-01-30-4
   published: 2020-01-30T18:59:26+01:00
+reply: https://jlelse.blog/links/2020/01/whatsapp-dangerous/
 ---
 
 I really love Telegram and love it! I known a few folks that also prefer Telegram over any other messaging platform. I think that most people would enjoy it more than what they use right now if they tried the app. However, it's a bit hard to make people start using new services when they're used to the same steps everyday. Inertia.

@@ -1,12 +1,10 @@
 ---
 title: Recently in October '22
-published: 2022-10-31T15:43:53.084541853+01:00
-section:
-- home
+date: 2022-10-31T15:43:53.084541853+01:00
+tags:
+- now
+categories:
 - articles
-taxonomies:
-  tags:
-  - now
 ---
 
 October is probably one of my favorite months of the year. Not only because of the vibes falling onto us 🍁 - no pun intented -, or my birthday, but it is also usually packed with events happening here and there. But before we continue, I wish you a great All Hallows' Eve 🎃! 

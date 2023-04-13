@@ -28912,7 +28912,7 @@ var editor = (function (exports) {
    ];
 
    function setup () {
-     const textarea = document.querySelector('textarea[name=content]');
+     const textarea = document.querySelector('.eagle-editor textarea[name=content]');
      if (textarea) {
        const editor = new EditorView({
          doc: textarea.value,

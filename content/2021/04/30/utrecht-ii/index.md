@@ -1,10 +1,9 @@
 ---
 title: Utrecht II
-published: 2021-04-30T12:01:00Z
-section:
-- photos
-- home
+date: 2021-04-30T12:01:00Z
 coverImage: cdn:/2021-04-utrecht-17
+categories:
+- photos
 ---
 
 <style>

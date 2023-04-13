@@ -1,12 +1,10 @@
 ---
 title: Year in Popcorn '22
-published: 2023-01-02T14:49:00+01:00
-section:
+date: 2023-01-02T14:49:00+01:00
+tags:
+- year-in-popcorn
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - year-in-popcorn
 ---
 
 <style>

@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on aaronparecki.com
-unlisted: true
-published: 2021-11-08T17:26:54.126016441Z
-properties:
-  in-reply-to: https://aaronparecki.com/2017/02/25/9/day-67-image-alt-text
+date: 2021-11-08T17:26:54.126016441Z
+noIndex: true
 context:
   name: Aaron Parecki
   url: https://aaronparecki.com/2017/02/25/9/day-67-image-alt-text
@@ -17,6 +15,7 @@ context:
     with the photo, and display it in the page. Please let me know if you end up adding
     support for image alt text to your Micropub endpoint!'
   published: 2017-02-25T12:18:40-08:00
+reply: https://aaronparecki.com/2017/02/25/9/day-67-image-alt-text
 ---
 
 Is this not a feature anymore?

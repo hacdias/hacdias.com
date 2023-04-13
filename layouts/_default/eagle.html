@@ -1,0 +1,32 @@
+{{ define "main" }}
+  {{ $css := resources.Get "css/eagle.css" | resources.Fingerprint "sha512" }}
+  <link rel='stylesheet' href='{{ $css.Permalink }}' integrity='{{ $css.Data.Integrity }}'>
+  {{ $isEditor := in (slice "New" "Edit") .Title }}
+
+  <main role='main'>
+    <no-eagle-page>
+      <div class='box'>
+        ⚠️ This page is only functional when using <a href='https://github.com/hacdias/eagle' rel='noopener noreferrer'>Eagle</a>.
+      </div>
+    </no-eagle-page>
+
+    <eagle-page class='dn'>
+      {{ if not $isEditor }}
+      <header>
+        <h1>{{- .Title -}}</h1>
+      </header>
+      {{  end }}
+
+      <div class='copy'>
+        {{- with .Content }}{{ . }}{{ end -}}
+      </div>
+    </eagle-page>
+  </main>
+
+  {{ if $isEditor }}
+    {{ $editor := resources.Get "js/editor.js" }}
+    {{ $eagle := resources.Get "js/eagle.js" }}
+    {{ $js := slice $editor $eagle | resources.Concat "js/eagle.js" }}
+    <script type='text/javascript' src='{{ $js.Permalink }}' integrity='{{ $js.Data.Integrity }}'></script>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,65 @@
+<style>
+.ellipsis {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.foodgram {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(15em,1fr));
+  grid-gap: 1rem;
+}
+
+.foodgram .card {
+  margin: 0;
+  background: var(--white);
+  --ms: var(--hms);
+}
+
+.foodgram .card .box {
+  font-size: var(--f6);
+}
+
+.foodgram .card footer p {
+  font-size: var(--f7);
+}
+
+.foodgram .card figure {
+  margin: 0;
+}
+
+.foodgram .card figure img {
+  object-fit: cover;
+  aspect-ratio: 1;
+  display: block;
+}
+</style>
+
+<div class='foodgram'>
+{{ range index .Site.Data (.Get 0) }}
+  <div class='card'>
+    <div class='box ellipsis'><strong>{{ .name }}</strong></div>
+    {{ partialCached "helpers/figure" (dict "Destination" .image "IsBlock" true) .image }}
+    {{/* {{ .content }} */}}
+    <footer>
+      {{ with .location }}
+        {{ $town := or .locality .region .country }}
+        <p class="ellipsis">
+          {{- with .name -}}
+            <span class='p-name'>{{ . }}</span>{{ if $town }}, {{ end}}
+          {{- end -}}
+          {{- with $town -}}
+            <span class='p-locality'>{{ . }}</span>
+          {{- end -}}
+        </p>
+      {{ end }}
+      <p>
+        <time class='dt-updated' datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}'>
+          {{ dateFormat "02 January 2006" .date }}
+        </time>
+      </p>
+    </footer>
+  </div>
+{{ end }}
+</div>

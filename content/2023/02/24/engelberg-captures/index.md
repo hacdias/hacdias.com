@@ -1,10 +1,9 @@
 ---
 title: Engelberg Captures
-published: 2023-02-24T14:13:39.745831911+01:00
-section:
-- photos
-- home
+date: 2023-02-24T14:13:39.745831911+01:00
 coverImage: cdn:/c0ee36b0770dec6bbd33865d5c8f5e9fbf27a320130120eb2a6ea22d484c25aa
+categories:
+- photos
 location:
   latitude: 51.44447
   longitude: 5.45995

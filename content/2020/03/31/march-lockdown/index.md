@@ -1,10 +1,9 @@
 ---
 title: March Lockdown
-published: 2020-03-31T12:00:00.893Z
-section:
-- photos
-- home
+date: 2020-03-31T12:00:00.893Z
 coverImage: cdn:/2020-03-hometown-cross
+categories:
+- photos
 ---
 
 <style>

@@ -1,14 +1,12 @@
 ---
 title: Hi! I'm Steph.
 description: Bookmarked a post on stp.cx
-published: 2022-08-14T15:03:34.678700233+02:00
-section:
+date: 2022-08-14T15:03:34.678700233+02:00
+tags:
+- personal-website
+categories:
 - bookmarks
-properties:
-  bookmark-of: https://stp.cx/
-taxonomies:
-  tags:
-  - personal-website
+bookmark: https://stp.cx/
 ---
 
 

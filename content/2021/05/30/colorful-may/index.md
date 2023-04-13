@@ -1,10 +1,9 @@
 ---
 title: Colorful May
-published: 2021-05-30T00:00:00Z
-section:
-- photos
-- home
+date: 2021-05-30T00:00:00Z
 coverImage: cdn:/2021-05-eindhoven-11
+categories:
+- photos
 ---
 
 In Eindhoven.

@@ -1,13 +1,11 @@
 ---
-published: 2022-03-22T14:55:02.252094352+01:00
-section:
-- home
+date: 2022-03-22T14:55:02.252094352+01:00
+tags:
+- university
+- masters
+- thesis
+categories:
 - micro
-taxonomies:
-  tags:
-  - university
-  - masters
-  - thesis
 location:
   latitude: 51.43247
   longitude: 5.48616

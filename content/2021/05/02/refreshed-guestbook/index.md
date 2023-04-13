@@ -1,11 +1,9 @@
 ---
-published: 2021-05-02T21:02:48.800984957Z
-section:
-- home
+date: 2021-05-02T21:02:48.800984957Z
+tags:
+- meta
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
 ---
 
 Hi! Just to let you know that I've just slighly refreshed my [guestbook page](/guestbook/)! Hope you enjoy it 🤩

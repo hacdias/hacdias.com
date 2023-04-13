@@ -1,12 +1,10 @@
 ---
 title: Recently in May '21
-published: 2021-06-02T08:10:59.168283855Z
-section:
+date: 2021-06-02T08:10:59.168283855Z
+tags:
+- now
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - now
 ---
 
 As I usually say, one more month has passed and we're already in June! If everything goes on well, this is the last month of classes and exams of my Master's first year.

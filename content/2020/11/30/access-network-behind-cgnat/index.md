@@ -1,14 +1,12 @@
 ---
 title: Wireguard VPN to Network Behind a CGNAT
-published: 2020-11-30T09:00:00+01:00
-updated: 2021-05-30T13:00:19.480977071Z
-section:
+date: 2020-11-30T09:00:00+01:00
+lastmod: 2021-05-30T13:00:19.480977071Z
+tags:
+- networking
+- wireguard
+categories:
 - articles
-- home
-taxonomies:
-  tags:
-  - networking
-  - wireguard
 ---
 
 I recently moved from the place where I was staying at to my own studio. In addition, since I was building a computer, I wanted to be able to access remotely to its capabitities, as well as any other device I have at home. Thus, I thought: let's set up a VPN!

@@ -1,13 +1,11 @@
 ---
-published: 2021-04-16T08:48:41.183502017Z
-section:
-- home
+date: 2021-04-16T08:48:41.183502017Z
+tags:
+- activitypub
+- indieweb
+- meta
+categories:
 - micro
-taxonomies:
-  tags:
-  - activitypub
-  - indieweb
-  - meta
 ---
 
 As you might have read on my [meta](/colophon/) page, I inteded to remove support for ActivityPub:

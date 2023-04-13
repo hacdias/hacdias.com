@@ -1,13 +1,11 @@
 ---
-published: 2020-02-17T15:52:18.93Z
-section:
-- home
+date: 2020-02-17T15:52:18.93Z
+tags:
+- meta
+- indieweb
+- privacy
+categories:
 - micro
-taxonomies:
-  tags:
-  - meta
-  - indieweb
-  - privacy
 ---
 
 Just wondering if it’s worth it to keep my watches log and checkins on my website. I know I had some work setting that up. But, is it worth it? Is it worth for you, readers?

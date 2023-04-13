@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on kandr3s.co
-unlisted: true
-published: 2022-08-16T11:49:37.339039919+02:00
-properties:
-  in-reply-to: https://kandr3s.co/notes/2022-08-16-lpyvk
+date: 2022-08-16T11:49:37.339039919+02:00
+noIndex: true
 context:
   name: '@kandr3s online base'
   url: https://kandr3s.co/notes/2022-08-16-lpyvk
@@ -18,6 +16,7 @@ context:
     I recently switched to Jan-Lukas’ GoBlog and it seems I hadn’t setup the correct
     URL path for notes.
   published: 2022-08-16T07:39:13Z
+reply: https://kandr3s.co/notes/2022-08-16-lpyvk
 ---
 
 > But if you listen to a lot of music this approach would probably deserve its own website I guess.

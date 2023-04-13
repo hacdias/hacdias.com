@@ -1,10 +1,9 @@
 ---
 title: Eindhoven Winter
-published: 2021-02-28T00:00:00Z
-section:
-- photos
-- home
+date: 2021-02-28T00:00:00Z
 coverImage: cdn:/2021-02-eindhoven-snow-01
+categories:
+- photos
 ---
 
 I saw real life snowing for many days for the first time. It was also one of the coldest Februaries in the Netherlands over the past years.

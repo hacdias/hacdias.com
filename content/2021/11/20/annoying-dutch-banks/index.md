@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2021-11-20T18:47:16.864736859Z
-properties:
-  in-reply-to: https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb
+date: 2021-11-20T18:47:16.864736859Z
+noIndex: true
 location:
   latitude: 51.43248
   longitude: 5.48613
@@ -16,6 +14,7 @@ context:
   content: "In Portugal it’s just a switch in the tax office website. Really?!? \U0001F632
     I can’t believe that!"
   published: 2021-11-20T19:04:53+01:00
+reply: https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb
 ---
 
 Yup. I've been a "eenmanszaak" here for a year and: (1) had to fill a gigantic form on the KvK (Chamber of Commerce) website, (2) go there and sign a form and pay 50 euros for them to pay a paper; (3) pay for a specialised software every month for bookkeeping. Legally, there's no requirement for my bank account to be separate because as a sole proprietorship, my assets and the company's are the same.

@@ -1,10 +1,9 @@
 ---
 description: At Belgian Federal Parliament (Federaal Parlement van België)
-published: 2020-02-07T11:01:37+01:00
-section:
-- micro
-- home
+date: 2020-02-07T11:01:37+01:00
 coverImage: cdn:/aceb6df9b002f7890812c171943f4fed167e70d9739e8848fa6146a67609b40e
+categories:
+- micro
 location:
   latitude: 50.84678715919929
   longitude: 4.365423917770386

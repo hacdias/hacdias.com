@@ -1,15 +1,13 @@
 ---
 title: Bedroom Lamp
-published: 2021-04-16T09:12:20.42246205Z
-section:
-- home
-- micro
+date: 2021-04-16T09:12:20.42246205Z
 coverImage: https://cdn.hacdias.com/media/2019-04-bedroom-lamp.gif
-taxonomies:
-  tags:
-  - pixelart
-  - creative
-  - art
+tags:
+- pixelart
+- creative
+- art
+categories:
+- micro
 ---
 
 A bedroom lamp pixelart thingy I did back in April 2019.

@@ -1,9 +1,7 @@
 ---
 description: Replied to a post on janboddez.tech
-unlisted: true
-published: 2020-04-09T08:29:52.754Z
-properties:
-  in-reply-to: https://janboddez.tech/notes/14ce942433
+date: 2020-04-09T08:29:52.754Z
+noIndex: true
 context:
   name: Jan Boddez
   url: https://janboddez.tech/notes/14ce942433
@@ -14,6 +12,7 @@ context:
     quite a few feeds out there (including yours, it seems) don’t show much context
     at all, which honestly can be a bit confusing.
   published: 2020-04-09T06:10:00Z
+reply: https://janboddez.tech/notes/14ce942433
 ---
 
 Didn't expect it to be that useful. I'll be keeping it then. And thanks for reading my blog :D

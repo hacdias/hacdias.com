@@ -1,18 +1,15 @@
 ---
 description: 'Red, White & Royal Blue by Casey McQuiston (ISBN: 9781250316776)'
-published: 2022-01-30T23:06:19.086212536+01:00
-section:
+date: 2022-01-30T23:06:19.086212536+01:00
+categories:
 - readings
-properties:
-  rating: 4
-  read-of:
-    properties:
-      author: Casey McQuiston
-      name: Red, White & Royal Blue
-      pages: 418
-      publisher: St. Martin's
-      uid: isbn:9781250316776
-    type: h-cite
+read:
+  name: Red, White & Royal Blue
+  author: Casey McQuiston
+  publisher: St. Martin's
+  pages: 418
+  uid: isbn:9781250316776
+rating: 4
 ---
 
 Just finished reading the romance "Red, White and Royal Blue" from Casey McQuiston. In this book, Casey creates an hypothetical situation where the First Son of the US and the Prince of the UK would fall in love with each other, as well as the political and diplomatic outcomes from that.

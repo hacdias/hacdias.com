@@ -1,10 +1,9 @@
 ---
 title: Engraving My Name in the Alumni Avenue
-published: 2022-11-23T09:07:14.207620219+01:00
-section:
-- articles
-- home
+date: 2022-11-23T09:07:14.207620219+01:00
 coverImage: cdn:/458b464c438f63713288bc36fb08b9e60d8a7a3497924b4e41362cca7376f9f8
+categories:
+- articles
 location:
   latitude: 51.43255
   longitude: 5.48605

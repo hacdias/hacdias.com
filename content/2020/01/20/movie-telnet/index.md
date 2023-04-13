@@ -1,12 +1,10 @@
 ---
-published: 2020-01-20T22:23:22.202Z
-section:
-- home
+date: 2020-01-20T22:23:22.202Z
+tags:
+- terminal
+- tip
+categories:
 - micro
-taxonomies:
-  tags:
-  - terminal
-  - tip
 ---
 
 Watch a movie through telnet:

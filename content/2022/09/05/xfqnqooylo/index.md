@@ -1,11 +1,10 @@
 ---
-published: 2022-09-05T07:41:47.351450039+02:00
-section:
-- photos
-- home
+date: 2022-09-05T07:41:47.351450039+02:00
 coverImage: cdn:/91db37c4ab64c39020019997770032c2bc3771b55a3e25590f3e4cecec30f139
-properties:
-  syndication: https://twitter.com/hacdias/status/1566846804183900162
+categories:
+- photos
+syndications:
+- https://twitter.com/hacdias/status/1566846804183900162
 ---
 
 Some pictures of the [Strijp-S](https://www.thisiseindhoven.com/en/see-and-do/dynamic-districts/strijp-s) district in Eindhoven.

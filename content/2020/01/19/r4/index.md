@@ -1,13 +1,10 @@
 ---
 description: Replied to a post on jlelse.blog
-unlisted: true
-published: 2020-01-19T19:36:11.549Z
-properties:
-  in-reply-to: https://jlelse.blog/thoughts/2020/01/optimizing-software/
-taxonomies:
-  tags:
-  - software
-  - micropub
+date: 2020-01-19T19:36:11.549Z
+noIndex: true
+tags:
+- software
+- micropub
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/01/optimizing-software
@@ -24,6 +21,7 @@ context:
     only when there is a more important reason to do so, is rewriting the software,
     which allows me to receive HTML forms via email, from NodeJS to Go.
   published: 2020-01-19T12:53:37+01:00
+reply: https://jlelse.blog/thoughts/2020/01/optimizing-software/
 ---
 
 > Wouldn't it be better to start where minutes or even hours are regularly wasted?
