@@ -50,12 +50,12 @@ Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='tr
 
 <div id='experiments-list' class='terms grid bold'>
 
-- [🔵 Blue Screen of Death](../minisites/bsod/index.html)
-- [📡 Glitch](../minisites/glitch/index.html)
-- [🗺 Procedural Map Generator](../minisites/mapgen/index.html)
-- [🏳️‍🌈 PixelColorMania](../minisites/pixelcolormania/index.html)
-- [⛈ Thunderstorm](../minisites/thunderstorm/index.html)
-- [📺 TV Noise](../minisites/tv-noise/index.html)
+- [🔵 Blue Screen of Death](../minisites/bsod/)
+- [📡 Glitch](../minisites/glitch/)
+- [🗺 Procedural Map Generator](../minisites/mapgen/)
+- [🏳️‍🌈 PixelColorMania](../minisites/pixelcolormania/)
+- [⛈ Thunderstorm](../minisites/thunderstorm/)
+- [📺 TV Noise](../minisites/tv-noise/)
 - [💥 XKCD Clone](http://xkcd.hacdia.sh/)
 
 </div>
