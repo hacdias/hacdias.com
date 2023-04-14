@@ -1,3 +1,13 @@
+- date: 2023-04-10
+  name: 🧋 Japanese Chai Bubble Tea
+  location:
+    latitude: 51.446185
+    longitude: 5.458785
+    name: Tea Stories
+    locality: Eindhoven
+    region: North-Brabant
+    country: Netherlands
+  image: cdn:/2032eed3da2123b9d550ae7c94bc136654110574ba30c49611fbbd332414a16b
 - date: 2023-02-10T18:52:57+01:00
   location:
     latitude: 51.44586
