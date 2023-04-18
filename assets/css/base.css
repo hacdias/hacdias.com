@@ -483,6 +483,7 @@ details summary {
 }
 
 .box,
+.toc,
 .terms a,
 .terms a:visited,
 .highlight > pre,
@@ -492,7 +493,7 @@ details summary {
   border-radius: var(--radius);
 }
 
-.box {
+.box, .toc {
   padding: var(--hms) var(--ms);
   margin: 1rem 0;
 }
@@ -547,6 +548,34 @@ details summary {
   padding: var(--ms);
   /* needs !important because Chroma adds background inline */
   background-color: var(--near-white) !important;
+}
+
+.toc {
+  float: right;
+  margin: 0 0 var(--ms) var(--ms);
+}
+
+.toc p {
+  margin: 0;
+  line-height: 1;
+}
+
+.toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc ul:first-of-type > li:last-child {
+  margin-bottom: 0;
+}
+
+.toc ul ul {
+  padding-left: 1rem;
+}
+
+.toc a {
+  text-decoration: none;
 }
 
 #preview,
