@@ -1,0 +1,10 @@
+# These are CIDs I actively keep pinned across different IPFS nodes I run.
+bafybeib7lyimozj46dotjpzapp33wkig5g4zdcusljwaslwuv3djm2lzsy Nathans's Toasty Technology Page
+bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy The World Wide Web History Project
+bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am Old Internet Files
+bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy ITCorp
+bafybeide4ed5fcu7zb6zjxodmqyymqbvoimpa6tt3kt7oudotsh7azgok4 Gala Gala Song
+bafybeif6oxy2ylv4n5uodfpmbothpbzksijtv4nfvnpmzdepqhbn4mznpa A Quick Dive Into the DWeb With IPFS
+bafybeidoyd3uvmx2a5ipvfyuk4h23dmtbyzj6mznwbkiugn3wdsnumtol4 Gus Boxo Images
+bafybeiaa53n2th4d7e5gtvnecl2iantfdiky45klpzjivuvv7zaujmurti IPFS Thing 2023 - Composable DHT
+bafybeicswpifif33xoc3wqixpck3nkksftcmcedfycppfj7vfakh5ecyny IPFS Thing 2023 - Reprovide Sweep
