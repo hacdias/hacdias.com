@@ -15,7 +15,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 <style>
 :root {
-  --accent: #3aaca9;
+  --accent: #df263b;
 }
 
 .copy ol {
