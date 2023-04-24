@@ -17,3 +17,15 @@ clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
 	rm -rf content/vendor
+
+watch:
+	hugo serve --watch --minify
+
+watch-drafts:
+	hugo serve --watch --minify --buildDrafts
+
+watch-future:
+	hugo serve --watch --minify --buildFuture
+
+watch-all:
+	hugo serve --watch --minify --buildDrafts --buildFuture
