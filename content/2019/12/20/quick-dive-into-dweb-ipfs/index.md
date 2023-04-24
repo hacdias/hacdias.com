@@ -1,5 +1,5 @@
 ---
-title: A Quick Dive Into the DWeb With IPFS
+title: 'Talk: A Quick Dive Into the DWeb With IPFS'
 description: |
   I gave my first talk ever on BarcampLX #4 and I gave an introduction to the dWeb world using IPFS as a gateway.
 date: 2019-12-20T15:00:00Z
@@ -7,7 +7,7 @@ tags:
 - ipfs
 - talk
 categories:
-- micro
+- articles
 syndications:
 - https://www.youtube.com/watch?v=EmxUyuCD37Q
 ---
