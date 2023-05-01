@@ -1,7 +1,7 @@
-# - name: Normandy With Friends
-#   place: "🇫🇷 Normandy"
-#   date: 2023-04-30
-#   start: 2023-04-26
+- name: France With Friends
+  place: "🇫🇷 Lille & Paris"
+  date: 2023-04-30
+  start: 2023-04-26
 - name: IPFS þing 2023
   place: "🇧🇪 Bruxelles"
   date: 2023-04-20
