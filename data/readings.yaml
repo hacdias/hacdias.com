@@ -6,9 +6,6 @@ want-to-read:
   - name: Ikigai
     author: Héctor Garcia
     date: 2023-05-01
-  - name: Hidden Systems
-    author: Dan Nott
-    date: 2023-05-01
   - name: The Culture Map
     author: Erin Meyer
     date: 2023-05-01
@@ -41,6 +38,12 @@ want-to-read:
     uid: isbn:9780099549482
     date: 2021-07-31
 read:
+  - name: Hidden Systems
+    author: Dan Nott
+    date: 2023-05-02
+    publisher: Random House Graphic
+    rating: 5
+    uid: isbn:9780593125366
   - name: Sweet Bean Paste
     author: Durian Sukegawa
     publisher: Oneworld Publications
