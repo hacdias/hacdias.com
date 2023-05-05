@@ -1,7 +1,4 @@
-reading:
-  - name: Short Stories in Dutch for Beginners
-    author: Olly Richards
-    date: 2022-04-09
+reading: []
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
@@ -38,6 +35,10 @@ want-to-read:
     uid: isbn:9780099549482
     date: 2021-07-31
 read:
+  - name: Short Stories in Dutch for Beginners
+    author: Olly Richards
+    date: 2023-05-05
+    uid: isbn:9781529302868
   - name: Hidden Systems
     author: Dan Nott
     date: 2023-05-02
