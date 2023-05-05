@@ -41,7 +41,7 @@ html {
 
 body {
   color: var(--dark-gray);
-  background: var(--background);
+  background: var(--black) url(https://cdn.hacdias.com/media/2021-02-space.gif);
   background-attachment: fixed;
   line-height: 1.25;
   min-height: 100vh;
@@ -391,7 +391,6 @@ details summary {
   color: var(--white);
   margin-top: 0;
   margin-bottom: var(--hls);
-  border-radius: var(--radius);
   overflow: hidden;
   text-align: center;
   font-weight: bold;
@@ -696,6 +695,10 @@ details summary {
     --hls: 1rem;
   }
 
+  body {
+    background: var(--background);
+  }
+
   #header {
     padding: 0 var(--ls);
   }
@@ -703,6 +706,7 @@ details summary {
   #navbar {
     width: 100%;
     margin-left: 0;
+    border-radius: var(--radius);
   }
 }
 
