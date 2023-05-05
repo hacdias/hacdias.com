@@ -9,4 +9,10 @@ layout: list-as-logs
   :root {
     --accent: #e8ba00;
   }
+  
+  body {
+    background: var(--accent) url(./pencils.svg) repeat-x;
+    background-position: bottom;
+    background-attachment: fixed;
+  }
 </style>
