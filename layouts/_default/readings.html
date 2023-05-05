@@ -6,12 +6,20 @@
   {{ partialCached "post/content" . .Permalink }}
 
   {{ $logs := .Site.Data.readings }}
-
+  
   <h2 id='want-to-read'>📖 Want To Read</h2>
-  {{ template "ulogs" (index $logs "want-to-read") }}
+  {{ with (index $logs "want-to-read")}}
+    {{ template "ulogs" . }}
+  {{ else }}
+    <p>No books on my list right now. Feel free to <a href="/contact">suggest</a> something?</p>
+  {{ end }}
 
   <h2 id='reading'>📚 Reading</h2>
-  {{ template "ulogs" (index $logs "reading" ) }}
+  {{ with (index $logs "reading")}}
+    {{ template "ulogs" . }}
+  {{ else }}
+    <p>Not reading anything at the moment.</p>
+  {{ end }}
 
   <h2 id='read'>📕 Read</h2>
 
