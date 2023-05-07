@@ -16,8 +16,6 @@ Since an early age, I have been curious about computers and I always wanted to w
 
 ![Henrique's Photograph during IPFS Thing 2023](cdn:/d08ced340c08b8a3b1050f114539e88b61c2e75c7d6b58f120f2bd7fa469ec3f?class=fw&caption=false "Trying to give a talk.")
 
-<!--more-->
-
 <style>
 :root {
   --accent: #986e58;
