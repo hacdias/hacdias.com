@@ -130,6 +130,6 @@ Among these activities is the Stalen Monsters (*Steal Monsters*) ride, De Vuurpr
 
 Before leaving, we passed by the museum's shop and I might've gotten too excited and got a new cap 🧢, some magnets 🧲, some socks 🧦, and a book about all the trains in the museum. The book is, of course, in Dutch, so that'll be a fun reading!
 
-![](cdn:/e4c3ce39ab0cae5ba64652809331ea3510a7e1e8c41410deea84e85cc0a31aec?class=fw)
+![Goodies I bought](cdn:/e4c3ce39ab0cae5ba64652809331ea3510a7e1e8c41410deea84e85cc0a31aec?class=fw&caption=false)
 
 And we're reaching the end of this post. I hope you enjoyed it as much as I did enjoy writing it! When you write about something that you liked, time passes by very quickly. If you enjoy trains, I definitely recommend this museum in case you visit The Netherlands!
