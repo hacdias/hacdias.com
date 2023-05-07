@@ -41,7 +41,7 @@ html {
 
 body {
   color: var(--dark-gray);
-  background: var(--black) url(https://cdn.hacdias.com/media/2021-02-space.gif);
+  background-color: var(--background);
   background-attachment: fixed;
   line-height: 1.25;
   min-height: 100vh;
@@ -389,6 +389,7 @@ details summary {
   display: flex;
   background-color: var(--accent);
   color: var(--white);
+  border-radius: var(--radius);
   margin-top: 0;
   margin-bottom: var(--hls);
   overflow: hidden;
@@ -706,7 +707,6 @@ details summary {
   #navbar {
     width: 100%;
     margin-left: 0;
-    border-radius: var(--radius);
   }
 }
 

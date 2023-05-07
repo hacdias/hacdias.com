@@ -34,12 +34,6 @@ Today, I visited the [Spoorwegmuseum](https://www.spoorwegmuseum.nl/), which lit
   --accent: #986e58;
 }
 
-body {
-  background: var(--accent) url(./rails.svg);
-  background-size: 10rem;
-  background-attachment: fixed;
-}
-
 .grid3 {
     grid-template-columns: repeat(3, 1fr);
 }

@@ -1,0 +1,15 @@
+:root {
+  --accent: #212121;
+}
+
+@media screen and (min-width: 53.001rem) {
+  body {
+    background-color: var(--black);
+    background-image: url(https://cdn.hacdias.com/media/2021-02-space.gif);
+  }
+  
+  #navbar {
+    border-radius: 0;
+  }
+}
+
