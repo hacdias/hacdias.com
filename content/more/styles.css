@@ -1,3 +1,7 @@
+:root {
+  --accent: #212121;
+}
+
 .terms.grid ul {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
@@ -24,4 +28,15 @@
   text-decoration:underline;
   text-decoration-style: dotted;
   cursor: pointer;
+}
+
+@media screen and (min-width: 53.001rem) {
+  body {
+    background-color: var(--black);
+    background-image: url(https://cdn.hacdias.com/media/2021-02-space.gif);
+  }
+  
+  #navbar {
+    border-radius: 0;
+  }
 }
