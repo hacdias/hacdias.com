@@ -4,15 +4,3 @@ description: Sometimes I decide I need to write a bit. Know a bit more about me,
   thoughts, my adventures and my progress in life.
 layout: list-as-logs
 ---
-
-<style>
-  :root {
-    --accent: #e8ba00;
-  }
-  
-  body {
-    background: var(--accent) url(./pencils.svg) repeat-x;
-    background-position: bottom;
-    background-attachment: fixed;
-  }
-</style>

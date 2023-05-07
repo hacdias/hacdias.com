@@ -1,0 +1,15 @@
+@media screen and (min-width: 53.001rem) {
+  :root {
+    --accent: #e8ba00;
+  }
+  
+  body {
+    background: var(--accent) url(./pencils.svg) repeat-x;
+    background-position: bottom;
+    background-attachment: fixed;
+  }
+  
+  #navbar {
+    border-radius: 0;
+  }
+}
