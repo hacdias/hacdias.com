@@ -23,14 +23,11 @@ tags:
 
 ![](https://cdn.hacdias.com/media/d306897e8634fa980a19b1b6edead5752e15938dfbc43742f6b32c194203e867.gif?class=pixelated+left+train-gif)
 
-Today, I visited the [Spoorwegmuseum](https://www.spoorwegmuseum.nl/), which literally translates
-to *Railway Museum*. As you can imagine, many historical wagons 🚃 and locomotives 🚂. This is among
-my all-time favorite museums. Last year, when I visited for the first time, I forgot my camera. In
-addition, I did not manage to visit everything. Now, I was back and with a camera and more time.
+Today, I visited the [Spoorwegmuseum](https://www.spoorwegmuseum.nl/), which literally translates to *Railway Museum*. As you can imagine, many historical wagons 🚃 and locomotives 🚂. This is among my all-time favorite museums. Last year, when I visited for the first time, I forgot my camera. In addition, I did not manage to visit everything. Now, I was back and with a camera and more time.
 
 <!--more-->
 
-<p class='dn'>This article contains a lot of image grids and custom CSS, so it is better viewed on the original website.</p>
+<p class='dn'><em>This article contains a lot of image grids and custom CSS, so it is better viewed on the original website.</em></p>
 
 <style>
 :root {
@@ -48,36 +45,21 @@ body {
 }
 </style>
 
-In this post, I will share with you some of the information of the museum, as well as some of the
-pictures I took there. Bear in mind, I'm not going into a lot of technical information, as I also
-do not know a lot about it. However, I still love trains 🚅.
+In this post, I will share with you some of the information of the museum, as well as some of the pictures I took there. Bear in mind, I'm not going into a lot of technical information, as I also do not know a lot about it. However, I still love trains 🚅.
 
-The Spoorwegmuseum is located in Utrecht, in The Netherlands 🇳🇱. Not only is it easily reachable
-by train, but it also has its own station. I did not know this the first time visiting. The museum
-**is** its own station, Utrecht Maliebaan. Every hour, there is a special service train from NS
-departing from Utrecht Centraal to Utrecht Maliebaan.
+The Spoorwegmuseum is located in Utrecht, in The Netherlands 🇳🇱. Not only is it easily reachable by train, but it also has its own station. I did not know this the first time visiting. The museum **is** its own station, Utrecht Maliebaan. Every hour, there is a special service train from NS departing from Utrecht Centraal to Utrecht Maliebaan.
 
 ![Utrecht Maliebaan, The Spoorwegmuseum](cdn:/7dba183e948351abd6445e2f715b001724390030d230d4d8173b991c77caa6b9?class=fw)
 
-With the perfect planning, leaving from Eindhoven Centraal, we only had a 10 minute overlay in Utrecht
-Centraal. Then, we got into a very interesting 18 minute train journey to Utrecht Maliebaan, the museum.
-You may wonder why is it interesting? It uses a regular NS Sprinter. That's not interesting, but the
-trajectory it takes.
+With the perfect planning, leaving from Eindhoven Centraal, we only had a 10 minute overlay in Utrecht Centraal. Then, we got into a very interesting 18 minute train journey to Utrecht Maliebaan, the museum. You may wonder why is it interesting? It uses a regular NS Sprinter. That's not interesting, but the trajectory it takes.
 
-There is no direct connection between Utrecht Centraal and Utrecht Maliebaan. Therefore, the train
-has to stop in the middle of the tracks, the driver walks from the now back of the train to the front,
-and then drives it into the opposite direction, getting into the right line. Let me show you in a map.
+There is no direct connection between Utrecht Centraal and Utrecht Maliebaan. Therefore, the train has to stop in the middle of the tracks, the driver walks from the now back of the train to the front, and then drives it into the opposite direction, getting into the right line. Let me show you in a map.
 
 ![Train Trajectory From Utrecht Centraal to Utrecht Maliebaan](cdn:/658423881d53531dca9c20edadf4640ab9a3e956fd0bfe5a01ab107331b85c79?class=fw)
 
-To go from A, Utrecht Centraal, to B, Utrecht Maliebaan, the train has to stop for a few minutes in R
-and reverse in order to change into the right line. As far as I understood, the only regular service in
-the line from R to B is the NS Sprinter that brings visitors to the museum and back to the central station.
-This train only operates during the museum's working hours.
+To go from A, Utrecht Centraal, to B, Utrecht Maliebaan, the train has to stop for a few minutes in R and reverse in order to change into the right line. As far as I understood, the only regular service in the line from R to B is the NS Sprinter that brings visitors to the museum and back to the central station. This train only operates during the museum's working hours.
 
-Inside the museum, there is a variety of things you can do. We started by taking a look at the trains. Below
-you can find a collection of some photos of my favorite train heads today. These are all minimally "recent"
-trains from the last century.
+Inside the museum, there is a variety of things you can do. We started by taking a look at the trains. Below you can find a collection of some photos of my favorite train heads today. These are all minimally "recent" trains from the last century.
 
 <div class='fw fg grid3'>
 
@@ -130,16 +112,11 @@ to completely spoil the experience.
 
 </div>
 
-Besides seeing old trains, and entering some of them, such as the royal family train,
-there is a myriad of other activities you can do at the museum, and a bunch of eating places too.
-In addition, there's even a theatre, which is probably the only thing I haven't visited inside the museum.
+Besides seeing old trains, and entering some of them, such as the royal family train, there is a myriad of other activities you can do at the museum, and a bunch of eating places too. In addition, there's even a theatre, which is probably the only thing I haven't visited inside the museum.
 
 ![Overview of Some Trains](cdn:/6ee07c1f7cd9e4acd383e3f0b66cbeb2c0b3d9a645979f506d41c279292281f7?caption=false&class=fw)
 
-Among these activities is the Stalen Monsters (*Steal Monsters*) ride, De Vuurproef (*Trial By Fire*)
-and De Grote Ontdekking (*The Great Discovery*). Each one offers you a different kind of thing with
-its uniqueness and greatness. From a thrilling ride where you go even under a train, to a traveling back
-to the reconstruction of a town in 1839.
+Among these activities is the Stalen Monsters (*Steal Monsters*) ride, De Vuurproef (*Trial By Fire*) and De Grote Ontdekking (*The Great Discovery*). Each one offers you a different kind of thing with its uniqueness and greatness. From a thrilling ride where you go even under a train, to a traveling back to the reconstruction of a town in 1839. Here's some unrelated pictures that I took at the museum:
 
 <div class='fg fw grid3'>
 
@@ -151,5 +128,8 @@ to the reconstruction of a town in 1839.
 
 </div>
 
-After leaving you with some aesthetic pictures, I am reaching the end of this post. I hope you enjoyed it!
-If you enjoy trains, I definitely recommend this museum in case you visit The Netherlands!
+Before leaving, we passed by the museum's shop and I might've gotten too excited and got a new cap 🧢, some magnets 🧲, some socks 🧦, and a book about all the trains in the museum. The book is, of course, in Dutch, so that'll be a fun reading!
+
+![](cdn:/e4c3ce39ab0cae5ba64652809331ea3510a7e1e8c41410deea84e85cc0a31aec?class=fw)
+
+And we're reaching the end of this post. I hope you enjoyed it as much as I did enjoy writing it! When you write about something that you liked, time passes by very quickly. If you enjoy trains, I definitely recommend this museum in case you visit The Netherlands!
