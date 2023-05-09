@@ -1,5 +1,5 @@
 {{- $pages := partialCached "fns/pages" . .Permalink }}
-{{- if .Params.disablePagination }}
+{{- if .Params.noPagination }}
   {{- template "feed" $pages }}
 {{- else }}
   {{- $paginator := .Paginate $pages }}
