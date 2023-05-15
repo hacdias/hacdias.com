@@ -14,10 +14,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 <!--more-->
 
 <style>
-:root {
-  --accent: #df263b;
-}
-
 .copy ol {
   list-style: none;
   padding-left: 0.5rem;
@@ -55,8 +51,10 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 6. [ ] Interrail across 🇪🇺 Europe
    1. [x] ~~10 Day Intrarail in 🇮🇹 Italy~~ <small>[September 2022]</small>
 8. [ ] See the Aurora Borealis
-9. [x] ~~Be in a train between mainland 🇪🇺 Europe and the 🇬🇧 UK~~ <small>[April 2022]</small>
-10. [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
+9.  [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
+10. [x] ~~Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train~~ <small>[[Eurostar](https://www.eurostar.com/)] [April 2022]</small>
+11. [ ] Travel on a 🍽️ restaurant train <small>[[Dinner Train](https://dinnertrain.eu/)]</small>
+12. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
 
 **Countries Bucket List**
 
