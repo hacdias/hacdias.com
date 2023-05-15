@@ -55,6 +55,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 10. [x] ~~Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train~~ <small>[[Eurostar](https://www.eurostar.com/)] [April 2022]</small>
 11. [ ] Travel on a 🍽️ restaurant train <small>[[Dinner Train](https://dinnertrain.eu/)]</small>
 12. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
+13. [ ] Cross-country train trip 🍁 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 
 **Countries Bucket List**
 
