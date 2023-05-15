@@ -1,10 +1,10 @@
-reading: []
+reading:
+  - name: The Culture Map
+    author: Erin Meyer
+    date: 2023-05-15
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
-    date: 2023-05-01
-  - name: The Culture Map
-    author: Erin Meyer
     date: 2023-05-01
   - name: Before Your Memory Fades
     author: Toshikazu Kawaguchi
