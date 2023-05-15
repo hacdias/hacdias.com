@@ -1,0 +1,42 @@
+:root {
+  --accent: #212121;
+}
+
+.terms.grid ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.terms.grid li {
+  margin: 0;
+}
+
+.terms.grid a {
+  width: 100%;
+  height: 100%;
+}
+
+.terms.nyan a:hover {
+  background: #104d8f url(https://cdn.hacdias.com/media/nyan-cat.gif) no-repeat right / contain;
+  image-rendering: pixelated;
+  color: var(--white);
+}
+
+#trigger {
+  text-decoration:underline;
+  text-decoration-style: dotted;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 53.001rem) {
+  body {
+    background-color: var(--black);
+    background-image: url(https://cdn.hacdias.com/media/2021-02-space.gif);
+  }
+  
+  #navbar {
+    border-radius: 0;
+  }
+}
