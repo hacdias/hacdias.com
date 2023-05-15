@@ -38,6 +38,7 @@ read:
   - name: Short Stories in Dutch for Beginners
     author: Olly Richards
     date: 2023-05-05
+    rating: 4
     uid: isbn:9781529302868
   - name: Hidden Systems
     author: Dan Nott
