@@ -2,8 +2,6 @@
   <p><em>Replied to <a href="{{ .Params.reply }}">{{ .Params.reply }}</a></em></p>
 {{- else if .Params.bookmark -}}
   <p><em>Bookmarked <a href="{{ .Params.bookmark }}">{{ .Params.bookmark }}</a></em></p>
-{{- else if .Params.read -}}
-  {{ with .Description }}<p><em>{{ . }}</em></p>{{ end }}
-{{- end -}}
+{{- end }}
 
 {{- partialCached "post/content" . .Permalink -}}

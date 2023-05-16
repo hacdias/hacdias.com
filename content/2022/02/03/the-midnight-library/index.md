@@ -1,5 +1,5 @@
 ---
-description: 'The Midnight Library by Matt Haig (ISBN: 9781786892737)'
+title: Read "The Midnight Library" by Matt Haig
 date: 2022-02-03T22:32:25.035150056+01:00
 categories:
 - readings
