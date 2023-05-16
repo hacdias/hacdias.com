@@ -1,5 +1,4 @@
 .card {
-  position: relative;
   margin: var(--ms) 0;
   overflow: hidden;
   border-radius: var(--radius);
