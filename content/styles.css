@@ -2,14 +2,35 @@
   --accent: #212121;
 }
 
+.logs .e {
+  grid-template-columns: auto 5.5rem;
+}
+
+.fg {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.fg figure img {
+  object-fit: cover;
+  aspect-ratio: 1;
+  display: block;
+}
+
+.fg figure {
+  margin: 0;
+}
+
 @media screen and (min-width: 53.001rem) {
   body {
     background-color: var(--black);
     background-image: url(https://cdn.hacdias.com/media/2021-02-space.gif);
   }
-  
+
   #navbar {
     border-radius: 0;
   }
-}
 
+  .fg .card {
+    margin: 0
+  }
+}

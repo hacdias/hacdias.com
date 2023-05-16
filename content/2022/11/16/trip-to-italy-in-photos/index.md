@@ -2,7 +2,7 @@
 title: Italia
 description: Trip to Italy in Photos
 date: 2022-11-16T14:28:29.381987946+01:00
-coverImage: cdn:/ece0c9110b225ff12ecf8118466a674a17fc740d13394ef991ece3d97be2c6aa
+coverImage: cdn:/9f969a9e9f385cbbcef6c5f7b2c25503a8b4cd022f5fb7f63e6e5c1e3474460c
 categories:
 - photos
 location:
