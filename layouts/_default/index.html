@@ -4,62 +4,38 @@
 
     <div class="copy">
       {{- $pages := partialCached "fns/pages" . .Permalink }}
-      <style>
-      .logs .e {
-        grid-template-columns: auto 5.5rem;
-      }
-
-      .fg {
-        grid-template-columns: repeat(3, 1fr);
-      }
-
-      .fg figure img {
-        object-fit: cover;
-        aspect-ratio: 1;
-        display: block;
-      }
-
-      .fg figure {
-        margin: 0;
-      }
-      </style>
-
+      <h2 id="freshly-ground">🪴 Freshly Planted</h2>
       <div class='h-feed logs'>
-        <div class='h'>
-          <span>🌿 Freshly Ground</span>
-        </div>
         <div>
           {{ range (first 4 $pages ) }}
             {{ template "item" . }}
           {{ end }}
         </div>
+      </div>
 
-        <div class='h'>
-          <span>🌟 Personal Favourites</span>
-        </div>
+      <h2 id="personal-favourites">🌟 Personal Favourites</h2>
+      <div class='h-feed logs'>
         <div>
           {{- range .Params.favoritePosts }}
             {{- template "item" ($.GetPage .) }}
           {{- end }}
         </div>
+      </div>
 
-        <div class='h'>
-          <span>📸 Latest Captures</span>
-        </div>
-        <div class='fg'>
-          {{ $photos := where $pages "Params.categories" "intersect" (slice "photos") }}
-          {{ range (first 3 $photos) }}
-            <div class='card'>
-              <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>
-                {{ partial "helpers/figure" (dict
-                  "Destination" .Params.coverImage
-                  "Title" .Title
-                  "IsBlock" true
-                )}}
-              </a>
-            </div>
-          {{ end }}
-        </div>
+      <h2 id="latest-captures">📸 Latest Captures</h2>
+      <div class='fg'>
+        {{ $photos := where $pages "Params.categories" "intersect" (slice "photos") }}
+        {{ range (first 6 $photos) }}
+          <div class='card'>
+            <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>
+              {{ partial "helpers/figure" (dict
+                "Destination" .Params.coverImage
+                "Title" .Title
+                "IsBlock" true
+              )}}
+            </a>
+          </div>
+        {{ end }}
       </div>
     </div>
   </main>
