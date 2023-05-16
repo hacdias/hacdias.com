@@ -3,6 +3,12 @@ reading:
     author: Erin Meyer
     date: 2023-05-15
 want-to-read:
+  - name: The Creative Programmer
+    author: Wouter Groeneveld
+    date: 2023-05-16
+    uid: isbn:9781633439054
+    pages: 232
+    publisher: Manning
   - name: Ikigai
     author: Héctor Garcia
     date: 2023-05-01
