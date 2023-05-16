@@ -4,6 +4,11 @@ description: |
   Henrique is interested in web infrastructure, decentralized systems, and making
   tools for developers and users. He likes coffee and tea alike. Currently works as a
   Software Engineer at Protocol Labs.
+favoritePosts:
+  - /2023/03/26/the-day-i-hacked-my-schools-library-computers
+  - /2021/02/15/magic-fractal-snowflakes
+  - /2020/05/31/back-90s
+  - /2019/04/18/trying-pixel-art
 ---
 
 **HI 👋, I'M HENRIQUE** (he/him), a Portuguese 🇵🇹 living in The Netherlands 🇳🇱. I'm a recently graduated 🎓 master's student, and a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users. I enjoy learning about new things, taking photographs, playing badminton, programming, as well as a nice cup of coffee ☕️ or tea 🍵. Welcome to my island on the Internet 🏝️, where you can find a bit of [everything](/more)!

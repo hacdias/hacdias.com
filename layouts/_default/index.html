@@ -1,15 +1,73 @@
 {{ define "main" }}
   <main role="main">
+    {{ partialCached "post/content" . .Permalink }}
+
     <div class="copy">
-      {{ $pages := where .Site.RegularPages "Params.categories" "ne" nil }}
-      {{ $paginate := .Paginate $pages }}
-      {{ if eq $paginate.PageNumber 1 }}
-        {{ partialCached "post/content" . .Permalink }}
-        <h3>🌻 Latest Posts</h3>
-      {{ else }}
-        <header><h1 class="p-name">🌻 Latest Posts</h1></header>
-      {{ end }}
-      {{ partial "list/list" . }}
+      {{- $pages := partialCached "fns/pages" . .Permalink }}
+      <style>
+      .logs .e {
+        grid-template-columns: auto 5.5rem;
+      }
+
+      .fg {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      .fg figure img {
+        object-fit: cover;
+        aspect-ratio: 1;
+        display: block;
+      }
+      </style>
+
+      <div class='h-feed logs'>
+        <div class='h'>
+          <span>🌿 Freshly Ground</span>
+        </div>
+        <div>
+          {{ range (first 4 $pages ) }}
+            {{ template "item" . }}
+          {{ end }}
+        </div>
+
+        <div class='h'>
+          <span>🌟 Personal Favourites</span>
+        </div>
+        <div>
+          {{- range .Params.favoritePosts }}
+            {{- template "item" ($.GetPage .) }}
+          {{- end }}
+        </div>
+
+        <div class='h'>
+          <span>📸 Latest Captures</span>
+        </div>
+        <div class='fg'>
+          {{ $photos := where $pages "Params.categories" "intersect" (slice "photos") }}
+          {{ range (first 3 $photos) }}
+            <div class='card'>
+              <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>
+                {{ partial "helpers/figure" (dict
+                  "Destination" .Params.coverImage
+                  "Title" .Title
+                  "IsBlock" true
+                )}}
+              </a>
+            </div>
+          {{ end }}
+        </div>
+      </div>
     </div>
   </main>
 {{ end }}
+
+{{- define "item" }}
+<div class='e h-entry'>
+  <div>
+    <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>{{ .Title }}</a>
+  </div>
+  <div>
+    <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small dt-published'>{{ .Date.Format "02 Jan 2006" }}</time>
+  </div>
+</div>
+{{- end }}
