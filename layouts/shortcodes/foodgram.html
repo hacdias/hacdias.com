@@ -32,7 +32,7 @@
 {{ range index .Site.Data (.Get 0) }}
   <div class='card'>
     <div class='box ellipsis'><strong>{{ .name }}</strong></div>
-    {{ partialCached "helpers/figure" (dict "Destination" .image "IsBlock" true) .image }}
+    {{ partialCached "helpers/figure" (dict "Destination" .image "IsBlock" true "Sizes" (slice 250 500 1000)) .image }}
     {{/* {{ .content }} */}}
     <footer>
       {{ with .location }}

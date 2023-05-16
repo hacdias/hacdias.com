@@ -20,8 +20,9 @@
   <figure {{ with $class }}class="{{ . }}"{{ end }}>
 		<picture>
 		{{- if $id }}
-			<source srcset="{{ printf "https://cdn.hacdias.com/img/250/%s.webp" $id }} 250w, {{ printf "https://cdn.hacdias.com/img/500/%s.webp" $id }} 500w, {{ printf "https://cdn.hacdias.com/img/1000/%s.webp" $id }} 1000w, {{ printf "https://cdn.hacdias.com/img/2000/%s.webp" $id }} 2000w" type="image/webp">
-			<source srcset="{{ printf "https://cdn.hacdias.com/img/250/%s.jpeg" $id }} 250w, {{ printf "https://cdn.hacdias.com/img/500/%s.jpeg" $id }} 500w, {{ printf "https://cdn.hacdias.com/img/1000/%s.jpeg" $id }} 1000w, {{ printf "https://cdn.hacdias.com/img/2000/%s.jpeg" $id }} 2000w" type="image/jpeg">
+			{{ $sizes := or .Sizes (slice 250 500 1000 2000) }}
+			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://cdn.hacdias.com/img/%d/%s.webp" $s $id }} {{ $s }}w{{ end }}" type="image/webp">
+			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://cdn.hacdias.com/img/%d/%s.jpeg" $s $id }} {{ $s }}w{{ end }}" type="image/jpeg">
 		{{- end }}
 {{- end }}
 
