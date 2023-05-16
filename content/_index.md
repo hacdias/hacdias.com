@@ -11,7 +11,7 @@ favoritePosts:
   - /2019/04/18/trying-pixel-art
 ---
 
-**HI 👋, I'M HENRIQUE** (he/him), a Portuguese 🇵🇹 living in The Netherlands 🇳🇱. I'm a recently graduated 🎓 master's student, and a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users. I enjoy learning about new things, taking photographs, programming, as well as a nice cup of coffee ☕️ or tea 🍵. Welcome to my island on the Internet 🏝️, where you can find a bit of [everything](/more)!
+**HI 👋, I'M HENRIQUE** (he/him), a Portuguese 🇵🇹 guy living in The Netherlands 🇳🇱. I'm a recently graduated 🎓 master's student, and a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users. I enjoy learning about new things, taking photographs, programming, as well as a nice cup of coffee ☕️ or tea 🍵. Welcome to my island on the Internet 🏝️, where you can find a bit of [everything](/more)!
 
 <div class='h-card' hidden>
   <a href='https://hacdias.com/' class='u-uid u-url p-name'>Henrique Dias</a>

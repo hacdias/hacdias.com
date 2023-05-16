@@ -23,15 +23,16 @@
       </div>
 
       <h2 id="latest-captures">📸 Latest Captures</h2>
-      <div class='fg'>
+      <div class='grid'>
         {{ $photos := where $pages "Params.categories" "intersect" (slice "photos") }}
         {{ range (first 6 $photos) }}
-          <div class='card'>
+          <div class='br'>
             <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>
               {{ partial "helpers/figure" (dict
                 "Destination" .Params.coverImage
                 "Title" .Title
                 "IsBlock" true
+                "Sizes" (slice 250 500 1000)
               )}}
             </a>
           </div>

@@ -6,17 +6,23 @@
   grid-template-columns: auto 5.5rem;
 }
 
-.fg {
-  grid-template-columns: repeat(3, 1fr);
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(12em,1fr));
+  grid-gap: 1rem;
 }
 
-.fg figure img {
+.grid div {
+  overflow: hidden;
+}
+
+.grid figure img {
   object-fit: cover;
   aspect-ratio: 1;
   display: block;
 }
 
-.fg figure {
+.grid figure {
   margin: 0;
 }
 
@@ -28,11 +34,5 @@
 
   #navbar {
     border-radius: 0;
-  }
-}
-
-@media screen and (min-width: 44.001rem) {
-  .fg .card {
-    margin: 0
   }
 }
