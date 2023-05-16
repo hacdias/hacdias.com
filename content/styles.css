@@ -29,7 +29,9 @@
   #navbar {
     border-radius: 0;
   }
+}
 
+@media screen and (min-width: 44.001rem) {
   .fg .card {
     margin: 0
   }
