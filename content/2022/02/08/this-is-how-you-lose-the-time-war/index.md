@@ -1,6 +1,5 @@
 ---
-description: 'This Is How You Lose the Time War by Amal El-Mohtar, Max Gladstone (ISBN:
-  9781529405231)'
+title: Read "This Is How You Lose the Time War" by Amal El-Mohtar, Max Gladstone
 date: 2022-02-08T19:26:31.634184415+01:00
 categories:
 - readings

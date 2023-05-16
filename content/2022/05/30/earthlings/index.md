@@ -1,5 +1,5 @@
 ---
-description: 'Earthlings by Sayaka Murata (ISBN: 9781783785698)'
+title: Read "Earthlings" by Sayaka Murata
 date: 2022-05-30T18:42:58.414602807+02:00
 categories:
 - readings
