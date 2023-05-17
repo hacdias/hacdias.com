@@ -689,6 +689,44 @@ details summary {
   font-weight: bold;
 }
 
+.pagination {
+  padding: 0;
+  border: 1px solid var(--light-white);
+  outline: 0;
+  min-width: 0;
+  border-radius: var(--radius);
+  background: var(--near-white);
+  list-style: none;
+  display: flex;
+}
+
+.pagination li {
+  flex-grow: 1;
+  margin: 0;
+}
+
+.pagination a {
+  display: block;
+  margin: 0;
+  padding: 0.5rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+.pagination a:hover {
+  background-color: var(--light-white);
+}
+
+.pagination a[aria-disabled="true"] {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.pagination a[aria-current="page"] {
+  background-color: var(--light-white);
+  font-weight: bold;
+}
+
 @media screen and (max-width: 53rem) {
   :root {
     --max-width: 53rem;
