@@ -1,7 +1,7 @@
 ---
 title: Uses
 date: 2020-01-21T15:39:00Z
-lastmod: 2023-01-04T09:33:24.069325609+01:00
+lastmod: 2023-05-17T20:17:30.154018581+02:00
 noSendInteractions: true
 ---
 
@@ -15,10 +15,6 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
   <div class='e'>
     <div>Laptop</div>
     <div>2021 MacBook Pro 14"</div>
-  </div>
-  <div class='e'>
-    <div>Laptop Stand</div>
-    <div>The Roost v3</div>
   </div>
   <div class='e'>
     <div>Smartphone</div>
@@ -38,7 +34,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
   </div>
   <div class='e'>
     <div>Console</div>
-    <div>Nintendo Switch</div>
+    <div>Nintendo Switch, PlayStation 5</div>
   </div>
   <div class='e'>
     <div>Tracking Device</div>
@@ -83,7 +79,7 @@ I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my dail
   </div>
   <div class='e'>
     <div>Keyboard</div>
-    <div>Ducky One 2 Mini</div>
+    <div>NuPhy Air 75</div>
   </div>
   <div class='e'>
     <div>Mouse</div>
@@ -124,19 +120,19 @@ At home I also have a desk with some things. This desk is used by my partner or 
   </div>
   <div class='e'>
     <div>Keyboard</div>
-    <div>NuPhy Air 75, Magic Keyboard</div>
+    <div>NuPhy Air 96, Magic Keyboard</div>
   </div>
   <div class='e'>
     <div>Mouse</div>
     <div>Magic Trackpad, Logitech MX Master 3S</div>
   </div>
   <div class='e'>
-    <div>Dock</div>
-    <div>CalDigit TS4</div>
+    <div>Laptop Stand</div>
+    <div>Rain mStand, The Roost v3</div>
   </div>
   <div class='e'>
-    <div>Laptop Stand</div>
-    <div>Rain mStand</div>
+    <div>Dock</div>
+    <div>CalDigit TS4</div>
   </div>
 </div>
 
@@ -151,7 +147,7 @@ On the photography department, I currently own a Fuji X-T4. The pictures that co
   </div>
   <div class='e'>
     <div>Lenses</div>
-    <div>XF 18-55mm f/2.8-4.0 OIS and XF 27mm F/2.8</div>
+    <div>XF 18-55mm f/2.8-4.0 OIS, XF 27mm F/2.8</div>
   </div>
   <div class='e'>
     <div>Tripod</div>
