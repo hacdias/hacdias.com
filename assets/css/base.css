@@ -402,7 +402,6 @@ details summary {
   flex-grow: 1;
   display: block;
   padding: var(--hms);
-  cursor: pointer;
 }
 
 #mobile-search,
@@ -473,13 +472,13 @@ details summary {
 }
 
 .inline-form button {
-  margin-left: 0.5rem;
+  margin-left: var(--hms);
 }
 
 .block-form > * {
   display: block;
   width: 100%;
-  margin: 0.5rem 0;
+  margin: var(--hms) 0;
 }
 
 .box,
@@ -698,7 +697,7 @@ details summary {
 
 .pagination a {
   flex-grow: 1;
-  padding: 0.5rem;
+  padding: var(--hms);
   text-align: center;
   text-decoration: none;
 }
