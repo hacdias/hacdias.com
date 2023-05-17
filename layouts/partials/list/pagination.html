@@ -1,0 +1,49 @@
+{{- with .Paginator }}
+  {{- if gt .TotalPages 1 }}
+    <nav class="pagination">
+      {{- $currentPageNumber := .PageNumber }}
+      {{- with .First }}
+        {{- if ne $currentPageNumber .PageNumber }}
+          <a href="{{ .URL }}" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+        {{- else }}
+          <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
+        {{- end }}
+      {{- end }}
+
+      {{- with .Prev }}
+        <a href="{{ .URL }}" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      {{- else }}
+        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
+      {{- end }}
+
+      {{- $slots := 5 }}
+      {{- $start := math.Max 1 (sub .PageNumber (math.Floor (div $slots 2))) }}
+      {{- $end := math.Min .TotalPages (sub (add $start $slots) 1) }}
+      {{- if lt (add (sub $end $start) 1) $slots }}
+        {{- $start = math.Max 1 (add (sub $end $slots) 1) }}
+      {{- end }}
+
+      {{- range $k := seq $start $end }}
+        {{- if eq $.Paginator.PageNumber $k }}
+          <a aria-current="page" aria-label="Page {{ $k }}" class="page-link" role="button">{{ $k }}</a>
+        {{- else }}
+          <a href="{{ (index $.Paginator.Pagers (sub $k 1)).URL }}" aria-label="Page {{ $k }}" class="page-link" role="button">{{ $k }}</a>
+        {{- end }}
+      {{- end }}
+
+      {{- with .Next }}
+        <a href="{{ .URL }}" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      {{- else }}
+        <a aria-disabled="true" aria-label="Next" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;</span></a>
+      {{- end }}
+
+      {{- with .Last }}
+        {{- if ne $currentPageNumber .PageNumber }}
+          <a href="{{ .URL }}" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+        {{- else }}
+          <a aria-disabled="true" aria-label="Last" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;&raquo;</span></a>
+        {{- end }}
+      {{- end }}
+    </nav>
+  {{- end }}
+{{- end }}

@@ -4,14 +4,13 @@
 {{- else }}
   {{- $paginator := .Paginate $pages }}
   {{- template "feed" $paginator.Pages }}
-
-  {{ template "_internal/pagination.html" . }}
+  {{- partial "list/pagination" . }}
 {{- end }}
 
 {{- define "feed" }}
 <div class='h-feed'>
   {{- range . }}
     {{- partial "list/item" . -}}
-  {{ end }}
+  {{- end }}
 </div>
 {{- end }}

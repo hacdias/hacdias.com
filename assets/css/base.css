@@ -690,24 +690,14 @@ details summary {
 }
 
 .pagination {
-  padding: 0;
   border: 1px solid var(--light-white);
-  outline: 0;
-  min-width: 0;
   border-radius: var(--radius);
   background: var(--near-white);
-  list-style: none;
   display: flex;
 }
 
-.pagination li {
-  flex-grow: 1;
-  margin: 0;
-}
-
 .pagination a {
-  display: block;
-  margin: 0;
+  flex-grow: 1;
   padding: 0.5rem;
   text-align: center;
   text-decoration: none;
