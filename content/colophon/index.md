@@ -2,7 +2,7 @@
 title: Colophon
 description: Why does this website exist? How does it work?
 date: 2021-02-19T09:45:13Z
-lastmod: 2022-12-14T10:52:48.266744875+01:00
+lastmod: 2023-05-17T20:12:54.432712563+02:00
 noSendInteractions: true
 ---
 
@@ -26,7 +26,7 @@ Having a website lets you share things with others without the pressure and limi
 
 ## ⚙️ How Does This Website Work? {#how}
 
-Over time, this website has suffered significant changes on how it works. For most of the time, this website used to be a completely static website, relying on [Hugo](https://gohugo.io/). I still recommend Hugo for most people that want to have a simple static website as it is extremely fast and customizable. However, for me, Hugo was no longer enough and the website is now powered by **[Eagle](https://github.com/hacdias/eagle)**, my own custom back-end built in Go.
+Over time, this website has suffered significant changes on how it works. For most of the time, this website used to be a completely static website, relying on [Hugo](https://gohugo.io/). In addition to Hugo, I have a custom back-end that enables some features that I enjoy, such as an online dashboard, login, and others. This is powered by [Eagle](https://github.com/hacdias/eagle).
 
 Regarding storage and hosting, this website is hosted in a VPS I rent with [Hetzner](https://www.hetzner.com/) and it goes through [Cloudflare](https://www.cloudflare.com/) for caching. I also use [**Bunny**](https://bunny.net/) for most of my media content, as they provide very fast CDN storage for good prices. Finally, this website supports many features endorsed by the [IndieWeb](https://indieweb.org/) community, such as [Webmentions](https://indieweb.org/Webmention),  [Microformats](https://microformats.org/) and [IndieAuth](https://indieauth.spec.indieweb.org/).
 
