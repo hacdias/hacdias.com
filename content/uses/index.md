@@ -1,7 +1,7 @@
 ---
 title: Uses
 date: 2020-01-21T15:39:00Z
-lastmod: 2023-05-17T20:17:30.154018581+02:00
+lastmod: 2023-05-17T20:26:37.990257347+02:00
 noSendInteractions: true
 ---
 
@@ -97,7 +97,7 @@ I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my dail
 
 ### 🏡 Home
 
-![Desk at Home](cdn:/ef7fa208ef89e3f405e9c55db63dbca5879d6678d1edd94573d2387a843b2c69?class=fw)
+![Desk at Home](cdn:/587fcd0b76f75dd7032d6c3df8b0bbec389ce2b51d4947ec0071e79ed6929061?class=fw)
 
 At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
