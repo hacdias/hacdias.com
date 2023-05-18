@@ -1,7 +1,7 @@
 baseURL = 'https://hacdias.com/'
 languageCode = 'en'
 title = 'Henrique Dias'
-paginate = 10
+paginate = 15
 rsslimit = 10
 pluralizelisttitles = false
 removePathAccents = true
