@@ -14,7 +14,7 @@ For quite some time, I have been getting more and more into the IndieWeb world a
 
 <!--more-->
 
-It now holds my web interactions, such as [replies](/micro/), [likes](/micro/) and ~~reposts~~, as well as my [reading log](/2020/01/29/owning-reading-log). Since the beginning, I also wanted to this website as a place to store my watch logs. With watch I mean watching movies and TV series.
+It now holds my web interactions, such as [replies](/notes/), [likes](/notes/) and ~~reposts~~, as well as my [reading log](/2020/01/29/owning-reading-log). Since the beginning, I also wanted to this website as a place to store my watch logs. With watch I mean watching movies and TV series.
 
 Since about 2017 I’ve been using [Trakt](https://trakt.tv) to add track the movies and TV series I’ve been watching.  Since Trakt proves itself valuable, I decided to follow the [PESOS](https://indieweb.org/PESOS) strategy where I start to publish on a third party service, in this case Trakt, and then publish to my own website.
 

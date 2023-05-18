@@ -5,7 +5,7 @@ tags:
 - javascript
 - optimization
 categories:
-- micro
+- notes
 ---
 
 Just fixed the flickering issue by inlining the required JavaScript, which is a really small snippet. If you're curious about the code I'm using to toggle between the dark and light themes, following the user's choice and falling back to the OS settings, here it is:

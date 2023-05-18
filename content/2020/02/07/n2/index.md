@@ -4,7 +4,7 @@ tags:
 - runescape
 - games
 categories:
-- micro
+- notes
 syndications:
 - https://twitter.com/hacdias/status/1225686550312210432
 ---

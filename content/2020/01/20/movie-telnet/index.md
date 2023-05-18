@@ -4,7 +4,7 @@ tags:
 - terminal
 - tip
 categories:
-- micro
+- notes
 ---
 
 Watch a movie through telnet:

@@ -4,7 +4,7 @@ tags:
 - activitypub
 - meta
 categories:
-- micro
+- notes
 location:
   latitude: 51.43238
   longitude: 5.48609

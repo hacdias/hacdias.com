@@ -4,7 +4,7 @@ tags:
 - meta
 - organization
 categories:
-- micro
+- notes
 ---
 
 So I just made a few changes to my website and I hope it didn't break anything like feeds and such. Here's a small changelog of the changes:

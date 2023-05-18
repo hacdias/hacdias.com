@@ -5,7 +5,7 @@ tags:
 - indieweb
 - meta
 categories:
-- micro
+- notes
 ---
 
 As you might have read on my [meta](/colophon/) page, I inteded to remove support for ActivityPub:

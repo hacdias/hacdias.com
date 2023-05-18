@@ -4,7 +4,7 @@ lastmod: 2021-10-25T17:24:40.338706713Z
 tags:
 - meta
 categories:
-- micro
+- notes
 ---
 
 Yesterday and today I worked a bit on the backend of my website: [Eagle](https://github.com/hacdias/eagle). I'm quite happy with the amount of bugs I managed to fix and some of the new features:

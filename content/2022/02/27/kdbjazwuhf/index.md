@@ -3,7 +3,7 @@ description: At Het Spoorwegmuseum
 date: 2022-02-27T11:04:05+01:00
 coverImage: cdn:/1437480effb2ed70f1d5e20c661d8a3bdc5d8156e1d72fcbaeec41ef37c3740f
 categories:
-- micro
+- notes
 location:
   latitude: 52.087139289381916
   longitude: 5.131664021338956

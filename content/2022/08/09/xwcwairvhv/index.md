@@ -3,7 +3,7 @@ description: At Genneper Parken
 date: 2022-08-09T18:20:17+02:00
 coverImage: cdn:/700b741c315470f4f4dded1c249bb288f9218abd65f0be8752db782066cfc860
 categories:
-- micro
+- notes
 location:
   latitude: 51.420941294895066
   longitude: 5.48636021997761

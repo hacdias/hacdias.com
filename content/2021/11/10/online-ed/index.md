@@ -1,7 +1,7 @@
 ---
 date: 2021-11-10T21:10:12.913483292Z
 categories:
-- micro
+- notes
 syndications:
 - https://twitter.com/hacdias/status/1458543184804519937
 ---

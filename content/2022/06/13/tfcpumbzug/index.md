@@ -1,7 +1,7 @@
 ---
 date: 2022-06-13T08:30:45.680348817+02:00
 categories:
-- micro
+- notes
 location:
   latitude: 51.43239
   longitude: 5.48616

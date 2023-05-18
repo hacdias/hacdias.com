@@ -2,7 +2,7 @@
 date: 2022-09-16T14:40:11.108199129+02:00
 lastmod: 2022-09-16T14:40:17.461430393+02:00
 categories:
-- micro
+- notes
 location:
   latitude: 43.71911
   longitude: 10.40227

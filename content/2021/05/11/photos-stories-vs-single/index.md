@@ -4,7 +4,7 @@ tags:
 - meta
 - photos
 categories:
-- micro
+- notes
 ---
 
 I'm thinking of changing how my "photos" section works, or maybe have two different sections. On one hand, I the possibility of being able to just share a random, single photo I liked, like on Instagram. On the other hand, I really enjoy the aspect of curating stories - like [here](https://paulstamatiou.com/photos/) and [here](https://travel.kiralaktionov.com/ameland-2021).

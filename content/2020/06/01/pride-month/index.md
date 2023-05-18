@@ -3,7 +3,7 @@ date: 2020-06-01T08:21:38.129Z
 tags:
 - pride
 categories:
-- micro
+- notes
 syndications:
 - https://twitter.com/hacdias/status/1267370752111755264
 ---

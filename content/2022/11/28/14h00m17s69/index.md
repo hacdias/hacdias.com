@@ -4,7 +4,7 @@ tags:
 - security
 - cryptography
 categories:
-- micro
+- notes
 location:
   latitude: 51.44585
   longitude: 5.46167

@@ -8,7 +8,7 @@ tags:
 - procreate
 - drawing
 categories:
-- micro
+- notes
 ---
 
 ![](cdn:/2020-04-withchs-hut?class=fw)

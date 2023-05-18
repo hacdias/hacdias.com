@@ -3,7 +3,7 @@ date: 2021-11-05T19:24:31.828769598Z
 tags:
 - meta
 categories:
-- micro
+- notes
 ---
 
 In the series of "the new version of my CMS": trying to decide how to save context (reply, like, repost context) and webmentions. One option, which is the one I'm using right now with Hugo, is to have a sidecar file that contains those informations. In the new non-static system, that will mean every time I need to render a post, I need to read two files at least.

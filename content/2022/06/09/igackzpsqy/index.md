@@ -4,7 +4,7 @@ tags:
 - meta
 - indieweb
 categories:
-- micro
+- notes
 location:
   latitude: 51.4324
   longitude: 5.48603

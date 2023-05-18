@@ -3,7 +3,7 @@ date: 2021-11-02T21:14:51.186521553Z
 tags:
 - meta
 categories:
-- micro
+- notes
 ---
 
 I have an exam next week, but I've also been working a bit on Eagle v2. I think I underestimated the amount of work I will have. I have many shortcodes in Hugo and I'm also relying on some custom Goldmark extensions that are being used by Hugo.

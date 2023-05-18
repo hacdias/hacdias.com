@@ -5,7 +5,7 @@ tags:
 - css
 - data
 categories:
-- micro
+- notes
 ---
 
 In the past few days, I made a few updates on my website to improve both looks and performance. I started by updating my guestbook a few [days ago](/2021/05/02/refreshed-guestbook).

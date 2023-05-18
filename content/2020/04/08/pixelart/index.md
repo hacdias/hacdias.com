@@ -8,7 +8,7 @@ tags:
 - creative
 - art
 categories:
-- micro
+- notes
 syndications:
 - https://twitter.com/hacdias/status/1247801115342540800
 ---

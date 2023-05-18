@@ -5,7 +5,7 @@ coverImage: cdn:/9b27a4fbd5998bb5a31f35009ace5ae2d0f33bf250f0d58c1f1c75cc577ca17
 tags:
 - glow-festival
 categories:
-- micro
+- notes
 location:
   latitude: 51.43923957128665
   longitude: 5.478618429022059

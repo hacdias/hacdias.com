@@ -4,7 +4,7 @@ tags:
 - webmentions
 - meta
 categories:
-- micro
+- notes
 ---
 
 Oopsie doopsie. Just found a bug on my webmention endpoint where I was not writing the webmentions to the correct endpoint. Right now, I'm storing them as plain webmentions from webmention.io. Probably I should think about a simpler way to store them to parse them easily later on the theme.

@@ -5,7 +5,7 @@ tags:
 - indieweb
 - privacy
 categories:
-- micro
+- notes
 ---
 
 Just wondering if it’s worth it to keep my watches log and checkins on my website. I know I had some work setting that up. But, is it worth it? Is it worth for you, readers?

@@ -4,7 +4,7 @@ tags:
 - notes
 - second-brain
 categories:
-- micro
+- notes
 location:
   latitude: 51.44444
   longitude: 5.45994

@@ -4,7 +4,7 @@ tags:
 - meta
 - css
 categories:
-- micro
+- notes
 ---
 
 I just updated my home page to show my last 10 posts (articles, micro and photos). Before, I was displaying two columns: one with articles and one with pictures. But I felt it wasn't dynamic enough as I don't post as many of those.

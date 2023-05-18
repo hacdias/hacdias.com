@@ -4,7 +4,7 @@ tags:
 - meta
 - microsub
 categories:
-- micro
+- notes
 location:
   latitude: 51.43244
   longitude: 5.48614

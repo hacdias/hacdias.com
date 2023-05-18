@@ -3,7 +3,7 @@ date: 2022-09-07T14:56:10.428908376+02:00
 tags:
 - thesis
 categories:
-- micro
+- notes
 syndications:
 - https://twitter.com/hacdias/status/1567496952689958913
 ---

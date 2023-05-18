@@ -4,7 +4,7 @@ tags:
 - design
 - meta
 categories:
-- micro
+- notes
 ---
 
 I wanted to have a cleaner look on this website and make an about page instead of dumping that on the frontpage. However, I don't feel like the current ~~All page~~ looks that good so... I don't know.

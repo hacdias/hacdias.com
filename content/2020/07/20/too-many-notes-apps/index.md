@@ -3,7 +3,7 @@ date: 2020-07-20T09:25:47.181Z
 tags:
 - meta
 categories:
-- micro
+- notes
 ---
 
 Taking notes is a process... that's true. Yesterday I found a post on [HackerNews](https://news.ycombinator.com/item?id=23888799) talking about how tired people are of new notes apps. I agree: there's so many different note-taking apps that it becomes unbearable to find whatever fits you. I have a giang repository of markdown files with images and a lot of notes, all interconnected. And I still couldn't find a good app for me. That's why I'm considering building one simple system for myself, initially private to avoid possible noise, and then open source. My requirements for a system are these:

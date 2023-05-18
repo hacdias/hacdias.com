@@ -8,7 +8,7 @@ tags:
 - procreate
 - drawing
 categories:
-- micro
+- notes
 ---
 
 ![](cdn:/2019-09-azulejo-sea?class=fw)

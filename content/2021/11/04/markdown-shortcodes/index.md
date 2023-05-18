@@ -3,7 +3,7 @@ date: 2021-11-04T19:57:10.481738993Z
 tags:
 - meta
 categories:
-- micro
+- notes
 ---
 
 In the process of building my new blogging system with IndieWeb whistles and bells, I was thinking today about the usage of shortcodes. Hugo provides this functionality called [Shortcodes](https://gohugo.io/content-management/shortcodes/#readout) which lets you define some snippets with Go templating and then re-use them in your posts.
