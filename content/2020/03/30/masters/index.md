@@ -5,7 +5,7 @@ tags:
 - masters
 - university
 categories:
-- micro
+- notes
 ---
 
 In August, I'm supposed to start a new adventure: I've been applying for a few Universities to do my Masters degree in Computer Science somewhere else other than in Portugal. I've received some rejections and some acceptances and I'm tempted to choose studying the next two years at TU Eindhoven. However, Covid-19 has just put me in a position where I'd never thought to be.

@@ -4,7 +4,7 @@ tags:
 - masters
 - thesis
 categories:
-- micro
+- notes
 ---
 
 I'm glad to say I just submitted my thesis document. Now, I just need to prepare for the defense in a few weeks!

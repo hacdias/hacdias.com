@@ -4,7 +4,7 @@ tags:
 - matrix
 - decentralization
 categories:
-- micro
+- notes
 location:
   latitude: 51.43243
   longitude: 5.48614

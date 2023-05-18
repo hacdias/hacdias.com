@@ -3,7 +3,7 @@ date: 2021-11-20T08:26:00.075870395Z
 tags:
 - meta
 categories:
-- micro
+- notes
 location:
   latitude: 51.43247
   longitude: 5.48607

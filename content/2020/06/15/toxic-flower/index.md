@@ -8,7 +8,7 @@ tags:
 - procreate
 - drawing
 categories:
-- micro
+- notes
 ---
 
 ![](cdn:/2020-06-toxic-flower?class=fw)

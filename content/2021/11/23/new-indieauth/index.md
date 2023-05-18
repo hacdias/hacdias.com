@@ -4,7 +4,7 @@ tags:
 - indieauth
 - meta
 categories:
-- micro
+- notes
 location:
   latitude: 51.43249
   longitude: 5.48612

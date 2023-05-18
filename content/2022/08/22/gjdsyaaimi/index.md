@@ -4,7 +4,7 @@ tags:
 - meta
 - thesis
 categories:
-- micro
+- notes
 ---
 
 Today I've made a lot of progress on my thesis defense slides. It's probably getting too big, but my strategy is to finish the slides, and then present it to myself to see how long it takes. Based on that I can cut or change some parts.

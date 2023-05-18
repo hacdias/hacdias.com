@@ -3,7 +3,7 @@ date: 2022-08-15T22:15:40.731616159+02:00
 tags:
 - wiki
 categories:
-- micro
+- notes
 ---
 
 Wikis, information and commands. Today I was upgrading the Docker containers in my server and I had to figure out how to fix something because there was a breaking update. For future reference, I added it to some random markdown file I have on my computer with some notes. However, I always forget to check it and end up searching for the same things over and over again. 

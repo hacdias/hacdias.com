@@ -6,7 +6,7 @@ tags:
 - terminal
 - tip
 categories:
-- micro
+- notes
 ---
 
 Weather in the terminal:

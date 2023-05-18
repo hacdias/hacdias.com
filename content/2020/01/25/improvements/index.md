@@ -3,7 +3,7 @@ date: 2020-01-25T23:45:22.486Z
 tags:
 - meta
 categories:
-- micro
+- notes
 ---
 
 Just made a few updates to my website:

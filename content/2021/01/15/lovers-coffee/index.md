@@ -8,7 +8,7 @@ tags:
 - procreate
 - drawing
 categories:
-- micro
+- notes
 ---
 
 ![](cdn:/2021-01-lovers-coffee?class=fw)

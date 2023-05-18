@@ -1,7 +1,7 @@
 ---
 date: 2020-03-09T22:49:13.918Z
 categories:
-- micro
+- notes
 syndications:
 - https://twitter.com/hacdias/status/1237148487164272640
 ---

@@ -3,7 +3,7 @@ date: 2021-11-08T11:25:40.779888321Z
 tags:
 - meta
 categories:
-- micro
+- notes
 ---
 
 As I [mentioned](/2021/11/02/eagle-v2-update) a few days ago, I have to decide between MeiliSearch and an SQL option. I will most likely go towards an SQL option because I need some sort of way to retrieve all the existing tags and I cannot do that with MeiliSearch unless I retrieve all posts and filter the tags.

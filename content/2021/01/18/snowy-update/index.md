@@ -3,7 +3,7 @@ date: 2021-01-18T21:15:57Z
 tags:
 - meta
 categories:
-- micro
+- notes
 ---
 
 Hey y'all! I know I've been quite silent recently and haven't even send out my newsletter. I've honestly run out of ideas, but I hope I can get back on track with that again soon. Also, next two weeks are exam weeks so I will be busier than usual.

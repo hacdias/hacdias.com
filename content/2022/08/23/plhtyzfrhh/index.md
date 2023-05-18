@@ -4,7 +4,7 @@ tags:
 - git
 - security
 categories:
-- micro
+- notes
 ---
 
 GitHub [now supports](https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/) SSH commit signing, which is quite nice. I have been trying to use less and less GPG. I just tried pushing a commit signed this way and it works quite nicely.

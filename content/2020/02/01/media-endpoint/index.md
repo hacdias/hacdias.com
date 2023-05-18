@@ -6,7 +6,7 @@ tags:
 - micropub
 - media
 categories:
-- micro
+- notes
 ---
 
 I just set up a media endpoint based on [BunnyCDN](https://bunnycdn.com), inspired by @jlelse's [post](https://jlelse.blog/micro/2020/01/2020-01-01-frviz/). So far, it's working really well.

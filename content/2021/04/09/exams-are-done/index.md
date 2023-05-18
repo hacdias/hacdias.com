@@ -4,7 +4,7 @@ lastmod: 2021-04-09T17:04:21.408196039Z
 tags:
 - university
 categories:
-- micro
+- notes
 ---
 
 Quartile 4 is practically finished for me. After a week of 4 exams, I feel tired. I don't recommend to anyone having to do 4 3 hour exams in a week. Nor today, nor ever.

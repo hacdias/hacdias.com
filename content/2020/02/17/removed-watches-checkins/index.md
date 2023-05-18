@@ -1,7 +1,7 @@
 ---
 date: 2020-02-17T21:39:35.885Z
 categories:
-- micro
+- notes
 ---
 
 After [wondering](/2020/02/17/n4) whether or not I should keep the check-ins and watches on my website, I decided not to. I know... I change my mind quite a lot. But here are some reasons why:

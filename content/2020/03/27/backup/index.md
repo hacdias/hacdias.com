@@ -4,7 +4,7 @@ tags:
 - backup
 - ideas
 categories:
-- micro
+- notes
 ---
 
 Do you have any backup system in place? If so, how is it?

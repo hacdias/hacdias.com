@@ -17,7 +17,7 @@ One of those features is [ActivityPub](https://www.w3.org/TR/activitypub/). Acti
 
 > The ActivityPub protocol is a decentralized social networking protocol based upon the ActivityStreams 2.0 data format. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content.
 
-I have [tried][apub1] to build complete [support][apub2] for ActivityPub in the website before, but it didn't succeed and I ended up just removing it instead of fixing it. In the meanwhile, I thought about creating a Pleroma instance, but what's the point? I already have a section for [micro](/micro/) posts. Thus, the website itself should be able to interact with the "outside world". By outside world, I mean all the other ActivityPub servers, such as all Pleroma and Mastodon instances.
+I have [tried][apub1] to build complete [support][apub2] for ActivityPub in the website before, but it didn't succeed and I ended up just removing it instead of fixing it. In the meanwhile, I thought about creating a Pleroma instance, but what's the point? I already have a section for [micro](/notes/) posts. Thus, the website itself should be able to interact with the "outside world". By outside world, I mean all the other ActivityPub servers, such as all Pleroma and Mastodon instances.
 
 Another feature I want to support is search. Why? "Can't you just use Google's site search?", you ask. Yes, I could, but it wouldn't be as great, nor as updated. Also, by implementing my custom search for this website, I could use some engine that allowed for fancy filters.
 

@@ -4,7 +4,7 @@ tags:
 - meta
 - css
 categories:
-- micro
+- notes
 ---
 
 It seems my [column layout](/2021/05/05/css-masonry) didn't last long. As I was writing the post I had an idea: what about a mixed grid with the latest micro, articles and photos? Bingo!

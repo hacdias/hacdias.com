@@ -16,7 +16,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [✉️ Contact](/contact)
 - [📖 Guestbook](/guestbook)
 - [🚀 Impossible List](/impossible-list)
-- [🗒️ Notes](/micro)
+- [🗒️ Notes](/notes)
 - [📸 Photos](/photos)
 
 </div>

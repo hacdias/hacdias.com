@@ -3,7 +3,7 @@ date: 2022-11-09T15:43:59.118854045+01:00
 tags:
 - activitypub
 categories:
-- micro
+- notes
 location:
   latitude: 51.43241
   longitude: 5.48615

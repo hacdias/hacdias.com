@@ -5,7 +5,7 @@ tags:
 - masters
 - thesis
 categories:
-- micro
+- notes
 location:
   latitude: 51.43247
   longitude: 5.48616

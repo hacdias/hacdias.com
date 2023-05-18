@@ -5,7 +5,7 @@ tags:
 - design
 - optimization
 categories:
-- micro
+- notes
 ---
 
 Just made a few updates to my website:

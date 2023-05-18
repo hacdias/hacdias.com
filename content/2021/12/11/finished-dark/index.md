@@ -1,7 +1,7 @@
 ---
 date: 2021-12-11T09:35:29.367528292Z
 categories:
-- micro
+- notes
 location:
   latitude: 51.4325
   longitude: 5.48611
