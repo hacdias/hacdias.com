@@ -8,7 +8,7 @@ tags:
 - procreate
 - drawing
 categories:
-- notes
+- graphics
 ---
 
 ![](cdn:/2019-09-magical-tree?class=fw)

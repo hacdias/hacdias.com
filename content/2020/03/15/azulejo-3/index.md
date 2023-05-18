@@ -8,7 +8,7 @@ tags:
 - procreate
 - drawing
 categories:
-- notes
+- graphics
 ---
 
 ![](cdn:/2020-03-azulejo-heart?class=fw)

@@ -7,7 +7,7 @@ tags:
 - creative
 - art
 categories:
-- notes
+- graphics
 ---
 
 A bedroom lamp pixelart thingy I did back in April 2019.

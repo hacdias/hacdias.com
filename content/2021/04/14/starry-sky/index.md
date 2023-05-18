@@ -8,7 +8,7 @@ tags:
 - procreate
 - drawing
 categories:
-- notes
+- graphics
 ---
 
 ![](cdn:/2021-04-starry-sky?class=fw)

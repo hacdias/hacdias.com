@@ -7,7 +7,7 @@ tags:
 - pixelart
 - creative
 categories:
-- notes
+- graphics
 ---
 
 Blinking lamps circa April 2019.

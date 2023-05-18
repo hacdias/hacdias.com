@@ -8,7 +8,7 @@ tags:
 - pixelart
 - creative
 categories:
-- notes
+- graphics
 ---
 
 Found this beautiful Pirilampos Mágicos (magical fireflies) from April 2019.
