@@ -15,6 +15,7 @@ This website contains more things than it looks at first glance. This page is a 
 - [🔖 Bookmarks](/bookmarks)
 - [✉️ Contact](/contact)
 - [📖 Guestbook](/guestbook)
+- [🖼️ Graphics](/graphics)
 - [🚀 Impossible List](/impossible-list)
 - [🗒️ Notes](/notes)
 - [📸 Photos](/photos)
