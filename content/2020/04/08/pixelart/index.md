@@ -8,7 +8,7 @@ tags:
 - creative
 - art
 categories:
-- notes
+- graphics
 syndications:
 - https://twitter.com/hacdias/status/1247801115342540800
 ---
