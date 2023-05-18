@@ -1066,6 +1066,6 @@
 /readings.atom /readings/feed.xml
 /readings.rss /readings/feed.xml
 /readings.json /readings/feed.json
-/micro /notes
+/micro/ /notes/
 /micro/feed.xml /notes/feed.xml
 /micro/feed.json /notes/feed.json
