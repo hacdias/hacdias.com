@@ -1,3 +1,11 @@
+# - name: 
+#   season: 
+#   date: 
+#   rating: 
+- name: Sweet Tooth
+  season: 1
+  date: 2023-05-18
+  rating: 5
 - name: 'Queen Charlotte: A Bridgerton Story'
   season: 1
   date: 2023-05-07
