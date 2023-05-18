@@ -1,4 +1,6 @@
 ---
+title: wttr.in
+bookmark: https://wttr.in
 date: 2020-01-20T22:13:42.439Z
 tags:
 - software
@@ -6,17 +8,11 @@ tags:
 - terminal
 - tip
 categories:
-- notes
+- bookmarks
 ---
 
-Weather in the terminal:
+Weather in the terminal, optionally in a specific city, or post code:
 
 ```text
-curl wttr.in
-```
-
-Or, if I want to get the info for a specific city, or zip code, just run:
-
-```text
-curl wttr.in/$CITY
+curl wttr.in[/$CITY]
 ```
