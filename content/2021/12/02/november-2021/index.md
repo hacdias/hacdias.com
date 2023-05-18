@@ -11,6 +11,16 @@ November was so busy that I did not even manage to write this in time! The month
 
 <!--more-->
 
+<div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
+
+![](cdn:/44e945fd5ac80ecb0b0fe7aa46b1f0f6b89e3120938b060a8c5cb89281e91f8f)
+
+![](cdn:/2b786a933847a50f9af46d6fe1c35ee0d7c12d00fe2f7765a5539284d17798ba)
+
+![](cdn:/9b27a4fbd5998bb5a31f35009ace5ae2d0f33bf250f0d58c1f1c75cc577ca170)
+
+</div>
+
 I also had an exam on that week whose grade I received a few days ago. Even though I was quite worried, it was much better than I expected!
 
 Later in the month, I had a visit from a friend of Portugal. We visited a few cities: Amsterdam, Rotterdam, Den Haag, Utrecht and well... Eindhoven. Initially we also planned on going to Maastricht the last day, but it seems Limburg has the most concentration of Covid in the entire Europe! Instead, we went for a bike ride.
