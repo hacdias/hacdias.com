@@ -6,24 +6,16 @@
   grid-template-columns: auto 5.5rem;
 }
 
-.grid {
-  display: grid;
+.fg {
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 1rem;
 }
 
-.grid div {
+.fg div {
   overflow: hidden;
 }
 
-.grid figure img {
-  object-fit: cover;
+.fg figure img {
   aspect-ratio: 1;
-  display: block;
-}
-
-.grid figure {
-  margin: 0;
 }
 
 @media screen and (min-width: 53.001rem) {

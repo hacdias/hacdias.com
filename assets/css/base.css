@@ -754,19 +754,12 @@ details summary {
     display: none;
   }
 
-  .fg,
   .logs .e {
     display: block !important;
   }
 
-  .fg figure {
-    height: auto;
-    margin: var(--ms) 0;
-  }
-
-  .fg figure img {
-    object-fit: cover;
-    height: auto;
+  .fg {
+    grid-gap: 0.5rem;
   }
 }
 

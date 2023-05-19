@@ -23,7 +23,7 @@
       </div>
 
       <h2 id="latest-captures">📸 Latest Captures</h2>
-      <div class='grid'>
+      <div class='fg'>
         {{ $photos := where $pages "Params.categories" "intersect" (slice "photos") }}
         {{ range (first 6 $photos) }}
           <div class='br'>
