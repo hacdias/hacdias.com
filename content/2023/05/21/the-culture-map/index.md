@@ -49,7 +49,11 @@ and then comparing it to the Netherlands. Unsurprisingly, they're not polar oppo
 but they're still very far apart. Considering each culture, they could be considered
 opposites to each other.
 
-![](cdn:/347bb842e6c52be2e9c81b39703dfd831a04e06fe8caeecda1d36bccdbb2cf4b)
+<div style='max-width: 30rem; margin: 0 auto;'>
+
+![The Country Mapping Tool for PT and NL](cdn:/347bb842e6c52be2e9c81b39703dfd831a04e06fe8caeecda1d36bccdbb2cf4b)
+
+</div>
 
 I also plotted some other things: my closer team at work, a group of friends, and also
 all the Romance European Countries (Portugal, Spain, France, Italy, and Romania). To no
