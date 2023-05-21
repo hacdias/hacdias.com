@@ -13,7 +13,7 @@ read:
 ---
 
 A few days ago I started reading this book by Erin Meyer, *The Culture Map*. And,
-today, I finished it. Considering I don't read much non-fiction books, I was quite
+today, I finished it. Considering I don't read many non-fiction books, I was quite
 surprised to see how much this book captivated my attention.
 
 <!--more-->
