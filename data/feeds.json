@@ -48,7 +48,7 @@
     {
       "title": "Cam Pegg",
       "site": "https://campegg.com/",
-      "feed": "https://campegg.com/feeds/all"
+      "feed": "https://campegg.com/feed.xml"
     },
     {
       "title": "Chris Wiegman",
