@@ -1,11 +1,11 @@
-reading: []
-want-to-read:
+reading:
   - name: The Creative Programmer
     author: Wouter Groeneveld
     date: 2023-05-16
     uid: isbn:9781633439054
     pages: 232
     publisher: Manning
+want-to-read:
   - name: Ikigai
     author: Héctor Garcia
     date: 2023-05-01
