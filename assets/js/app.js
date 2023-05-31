@@ -21,6 +21,9 @@ function addEmoji (el) {
   } if (month === 6) {
     emoji = '🏳️‍🌈'
     title = 'Happy Pride Month!'
+  } if (month === 7 && day === 12) {
+    emoji = '🎈'
+    title = `Happy ${today.getFullYear() - 2014}th Birthday to This Website!`
   } if (month === 10 && day === 22) {
     emoji = '🎂'
     title = 'Happy Birthday to Me!'
