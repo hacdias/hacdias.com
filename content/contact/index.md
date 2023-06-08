@@ -49,11 +49,3 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 - [<img src="https://www.google.com/s2/favicons?domain=lobste.rs&sz=32" class="icon"> Lobste.rs](https://lobste.rs/u/hacdias)
 
 </div>
-
-## 🗝 PGP {#pgp}
-
-To send me encrypted messages, you can find my public key on this [website](/pubkey.txt) or on [keybase](https://keybase.io/hacdias). The fingerprint is:
-
-```
-AE95 7E3A 2905 B55A 6950 E762 4454 5566 F552 F631
-```
