@@ -44,8 +44,8 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 - [<img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=32" class="icon"> Twitter](https://twitter.com/hacdias)
 - [<img src="https://www.google.com/s2/favicons?domain=bsky.app&sz=32" class="icon"> Bluesky](https://bsky.app/profile/hacdias.com)
 - [<img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" class="icon"> Reddit](https://reddit.com/u/hacdias)
-- [<img src="https://www.google.com/s2/favicons?domain=keybase.io&sz=32" class="icon"> Keybase](https://keybase.io/hacdias)
 - [<img src="https://www.google.com/s2/favicons?domain=hackernews.com&sz=32" class="icon"> HackerNews](https://news.ycombinator.com/user?id=hacdias)
 - [<img src="https://www.google.com/s2/favicons?domain=lobste.rs&sz=32" class="icon"> Lobste.rs](https://lobste.rs/u/hacdias)
+<!-- - [<img src="https://www.google.com/s2/favicons?domain=keybase.io&sz=32" class="icon"> Keybase](https://keybase.io/hacdias) -->
 
 </div>
