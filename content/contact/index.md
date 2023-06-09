@@ -49,3 +49,17 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 <!-- - [<img src="https://www.google.com/s2/favicons?domain=keybase.io&sz=32" class="icon"> Keybase](https://keybase.io/hacdias) -->
 
 </div>
+
+## 🗝 PGP {#pgp}
+
+My PGP key is available on this [website](/pubkey.asc). The fingerprint is:
+
+```
+59F0 9665 3717 2F4B 08BB  9B0D AB1E 4824 D1F8 A974
+```
+
+Quick import:
+
+```
+curl -sL https://hacdias.com/pubkey.asc | gpg --import
+```
