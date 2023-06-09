@@ -3,15 +3,12 @@
   |                                                                     |
   |   Hello, I'm Henrique!                                              |
   |                                                                     |
-  |   I am currently a Master's student on leave in Computer Science    |
-  |   and Engineering at TU/e, in Eindhoven. I'm fascinated by          |
-  |   decentralized and federated systems. Let's make the small web     |
-  |   the norm again!                                                   |
-  |                                                                     |
-  |     * https://github.com/hacdias                                    |
-  |     * https://twitter.com/hacdias                                   |
+  |   I a software engineer interested in web infrastructure,           |
+  |   decentralized systems, identity and making tools for developers   |
+  |   and users. I enjoy learning about new things, taking photographs, |
+  |   programming, as well as a nice cup of coffee or tea. Welcome to   |
+  |   my small peninsula on the Internet!                               |
   |                                                                     |
   |   -- @hacdias (https://hacdias.com)                                 |
   |                                                                     |
   +---------------------------------------------------------------------+
-
