@@ -1,6 +1,6 @@
 ---
 title: Blogroll
-lastmod: 2023-05-24T00:00:00.529356473+02:00
+lastmod: 2023-06-12T00:00:00.478521495+02:00
 noSendInteractions: true
 ---
 
