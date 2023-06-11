@@ -281,11 +281,6 @@
       "feed": "http://tantek.com/updates.atom"
     },
     {
-      "title": "Terence Eden",
-      "site": "https://shkspr.mobi/blog",
-      "feed": "https://shkspr.mobi/blog/feed/"
-    },
-    {
       "title": "The Morning Paper",
       "site": "https://blog.acolyer.org",
       "feed": "https://blog.acolyer.org/feed/"
@@ -329,11 +324,6 @@
       "title": "beepb00p",
       "site": "https://beepb00p.xyz",
       "feed": "https://beepb00p.xyz/rss.xml"
-    },
-    {
-      "title": "fluffy rambles",
-      "site": "https://beesbuzz.biz/blog/",
-      "feed": "https://beesbuzz.biz/blog/feed"
     }
   ],
   "comics": [
