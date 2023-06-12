@@ -1,10 +1,4 @@
-reading:
-  - name: The Creative Programmer
-    author: Wouter Groeneveld
-    date: 2023-05-16
-    uid: isbn:9781633439054
-    pages: 232
-    publisher: Manning
+reading: []
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
@@ -41,13 +35,13 @@ read:
   - name: Short Stories in Dutch for Beginners
     author: Olly Richards
     date: 2023-05-05
-    rating: 4
+    rating: 3
     uid: isbn:9781529302868
   - name: Hidden Systems
     author: Dan Nott
     date: 2023-05-02
     publisher: Random House Graphic
-    rating: 5
+    rating: 4
     uid: isbn:9780593125366
   - name: Sweet Bean Paste
     author: Durian Sukegawa
