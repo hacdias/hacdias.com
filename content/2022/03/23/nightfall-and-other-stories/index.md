@@ -9,7 +9,7 @@ read:
   publisher: Random House Books
   pages: 416
   uid: isbn:9780593357460
-rating: 3
+rating: 2
 ---
 
 I am marking this book as "finished" since I have no plans on reading the remaining stories in the near future.
