@@ -1,16 +1,16 @@
 ---
 title: Read "The Creating Programmer" by Wouter Groeneveld
 date: 2023-06-12T09:26:30.096860512+02:00
-rating: 4
+coverImage: cdn:/3d2a5e6e477b7c278a3e587b7e39077ff0347fed6fca56e7126e1784fb4ef6dd
 categories:
 - readings
 read:
   name: The Creative Programmer
   author: Wouter Groeneveld
-  date: 2023-05-16
-  uid: isbn:9781633439054
-  pages: 232
   publisher: Manning
+  pages: 232
+  uid: isbn:9781633439054
+rating: 4
 ---
 
 Last night I thought: tomorrow morning I will finish reading *The Creative Programmer*,
