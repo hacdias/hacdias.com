@@ -63,22 +63,18 @@ body {
 }
 
 code, kbd, samp, pre {
-  font-family: SFMono-Regular,
-    Consolas,
-    Liberation Mono,
-    Menlo,
-    monospace;
+  font-family: Consolas, monaco, monospace;
 }
 
 code {
   font-size: var(--f6);
-  border-radius: var(--radius);
-  padding: 0.075rem 0.1rem;
-  background: var(--near-white);
 }
 
-pre > code {
-  padding: 0;
+:not(pre) > code {
+  border-radius: var(--radius);
+  padding: 0.1rem 0.25rem;
+  background: var(--near-white);
+  border: var(--border) solid var(--light-white);
 }
 
 svg,
