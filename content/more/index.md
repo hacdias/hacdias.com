@@ -9,42 +9,34 @@ This website contains more things than it looks at first glance. This page is a 
 
 <div class='terms grid bold'>
 
-- [🧁 About](/about)
-- [✏️ Articles](/articles)
-- [🗞️ Blogroll](/blogroll)
-- [🔖 Bookmarks](/bookmarks)
-- [✉️ Contact](/contact)
-- [📖 Guestbook](/guestbook)
-- [🖼️ Graphics](/graphics)
-- [🚀 Impossible List](/impossible-list)
-- [🗒️ Notes](/notes)
-- [📸 Photos](/photos)
+- [🧁 About](/about/)
+- [✏️ Articles](/articles/)
+- [🗞️ Blogroll](/blogroll/)
+- [🔖 Bookmarks](/bookmarks/)
+- [✉️ Contact](/contact/)
+- [📖 Guestbook](/guestbook/)
+- [🖼️ Graphics](/graphics/)
+- [🚀 Impossible List](/impossible-list/)
+- [🗒️ Notes](/notes/)
+- [📸 Photos](/photos/)
+- [🏷 Tags](/tags/)
+- [🛠 Uses](/uses/)
 
 </div>
 
-### 🧵 Logs {#logs}
+### Logs {#logs}
 
 <div class='terms grid bold'>
 
-- [🧋 Drinks](/drinks)
-- [🥘 Food](/food)
-- [📚 Readings](/readings)
-- [🚆 Trips](/trips)
-- [🎬 Watches](/watches)
+- [🧋 Drinks](/drinks/)
+- [🥘 Food](/food/)
+- [📚 Readings](/readings/)
+- [🚆 Trips](/trips/)
+- [🎬 Watches](/watches/)
 
 </div>
 
-### 💎 Meta {#meta}
-
-<div class='terms grid bold'>
-
-- [⚙️ Colophon](/colophon)
-- [🛠 Uses](/uses)
-- [🏷 Tags](/tags)
-
-</div>
-
-### 🧪 Experiments {#experiments}
+### Experiments {#experiments}
 
 A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
 Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='trigger' hidden title='Click here, NOW!'>Or they might bite you!</span>
