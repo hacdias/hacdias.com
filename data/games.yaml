@@ -1,3 +1,9 @@
+- name: Hogwarts Legacy
+  copies: [digital]
+  platforms: [ps5]
+- name: "Ratchet & Clank: Rift Apart"
+  copies: [digital]
+  platforms: [ps5]
 - name: Hollow Night
   copies: [digital]
   platforms: [switch]
