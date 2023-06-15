@@ -1,0 +1,81 @@
+- name: Hollow Night
+  copies: [digital]
+  platforms: [switch]
+- name: FEZ
+  copies: [digital]
+  platforms: [switch]
+- name: Gris
+  copies: [digital]
+  platforms: [switch]
+  status: complete
+- name: Celeste
+  copies: [digital]
+  platforms: [switch, pc/steam]
+  status: complete
+- name: Luigi's Mansion 3
+  copies: [digital]
+  platforms: [switch]
+- name: Mario Kart 8 Deluxe
+  copies: [digital]
+  platforms: [switch]
+- name: New Super Mario Bros. U Deluxe
+  copies: [digital]
+  platforms: [switch]
+- name: Super Mario Odyssey
+  copies: [physical]
+  platforms: [switch]
+  status: complete
+- name: "Pokémon: Let's Go, Eevee!"
+  copies: [physical, digital]
+  platforms: [switch]
+  status: complete
+- name: Pokémon Shield
+  copies: [physical, digital]
+  platforms: [switch]
+  status: complete
+- name: Pokémon Brilliant Diamond
+  copies: [digital]
+  platforms: [switch]
+  status: complete
+- name: "Pokémon Legends: Arceus"
+  copies: [digital]
+  platforms: [switch]
+- name: "The Legend of Zelda: Link's Awakening"
+  copies: [physical]
+  platforms: [switch]
+  status: complete
+- name: "The Legend of Zelda: Breath of the Wild"
+  copies: [physical]
+  platforms: [switch]
+- name: Ring Fit Adventure
+  copies: [physical]
+  platforms: [switch]
+- name: Sims 4
+  platforms: [pc/ea]
+- name: Stardew Valley
+  platforms: [pc/gog]
+- name: Undertale
+  platforms: [pc/gog]
+- name: CS:GO
+  platforms: [pc/steam]
+- name: Age of Empires II
+  platforms: [pc/steam]
+- name: Minecraft
+  platforms: [pc]
+- name: RuneScape
+  platforms: [pc]
+- name: "Ratchet and Clank: Size Matters"
+- name: Special Agent Clank
+  platforms: [psp]
+- name: Burnout Legends
+  platforms: [psp]
+- name: Buzz Master Quizz
+  platforms: [psp]
+- name: Daxter
+  platforms: [psp]
+- name: LittleBigPlanet
+  platforms: [psp]
+- name: Sonic Rivals
+  platforms: [psp]
+- name: Invizimals
+  platforms: [psp]
