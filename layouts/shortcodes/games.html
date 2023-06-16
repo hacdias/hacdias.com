@@ -1,7 +1,75 @@
-<ul>
+<style>
+.games {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.games > div {
+  aspect-ratio: 1/1.4; /* golden ratio: 1 / 1.618 */
+  perspective: 1000px; 
+}
+
+.games > div .inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.games > div:hover .inner {
+  transform: rotateY(180deg);
+}
+
+.games > div .front, .games > div .back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  padding: var(--hms) var(--ms);
+  border-radius: var(--radius);
+  border: 2px solid var(--accent);
+  background: var(--near-white);
+}
+
+.games > div .front {
+}
+
+.games > div .back {
+  background-color: var(--accent);
+  color: white;
+  transform: rotateY(180deg);
+}
+
+.p-switch {
+  --accent: #e60013;
+}
+
+.p-pc {
+  --accent: #000000;
+}
+
+.p-ps5 {
+  --accent: #00439C;
+}
+
+.p-psp {
+  --accent: #F3C202;
+}
+</style>
+
+<div class='games'>
   {{- range .Site.Data.games -}}
-    <li>
-      {{ .name }}
-    </li>
+    <div class="{{ with (index .platforms 0) }}p-{{ index (split . "/")  0 }}{{ end }}">
+      <div class="inner">
+        <div class="front">
+          {{ .name }}
+        </div>
+        <div class="back">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        </div>
+      </div>
+    </div>
   {{- end -}}
-</ul>
+</div>
