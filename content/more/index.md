@@ -10,29 +10,27 @@ This website contains more things than it looks at first glance. This page is a 
 <div class='terms grid bold'>
 
 - [🧁 About](/about/)
-- [✏️ Articles](/articles/)
 - [🗞️ Blogroll](/blogroll/)
-- [🔖 Bookmarks](/bookmarks/)
 - [✉️ Contact](/contact/)
 - [📖 Guestbook](/guestbook/)
-- [🖼️ Graphics](/graphics/)
 - [🚀 Impossible List](/impossible-list/)
-- [🗒️ Notes](/notes/)
-- [📸 Photos](/photos/)
-- [🏷 Tags](/tags/)
+- [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
+- [🎬 Watches](/watches/)
 
 </div>
 
-### Logs {#logs}
+### Categories
 
 <div class='terms grid bold'>
 
-- [🧋 Drinks](/drinks/)
-- [🥘 Food](/food/)
+- [✏️ Articles](/articles/)
+- [🔖 Bookmarks](/bookmarks/)
+- [🖼️ Graphics](/graphics/)
+- [🗒️ Notes](/notes/)
+- [📸 Photos](/photos/)
 - [📚 Readings](/readings/)
-- [🚆 Trips](/trips/)
-- [🎬 Watches](/watches/)
+- [🏷 Tags](/tags/)
 
 </div>
 
