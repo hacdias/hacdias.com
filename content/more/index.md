@@ -30,7 +30,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🗒️ Notes](/notes/)
 - [📸 Photos](/photos/)
 - [📚 Readings](/readings/)
-- [🏷 Tags](/tags/)
 
 </div>
 
