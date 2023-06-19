@@ -19,13 +19,13 @@ clean:
 	rm -rf content/vendor
 
 watch:
-	hugo serve --watch --minify
+	hugo server --watch --minify
 
 watch-drafts:
-	hugo serve --watch --minify --buildDrafts
+	hugo server --watch --minify --buildDrafts
 
 watch-future:
-	hugo serve --watch --minify --buildFuture
+	hugo server --watch --minify --buildFuture
 
 watch-all:
-	hugo serve --watch --minify --buildDrafts --buildFuture
+	hugo server --watch --minify --buildDrafts --buildFuture
