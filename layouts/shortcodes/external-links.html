@@ -1,0 +1,69 @@
+{{ $links := index .Site.Data "external-links" }}
+
+<style>
+details summary {
+  padding: var(--hms);
+  word-wrap: break-word;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  border-top: 1px solid var(--light-white);
+  background: var(--background);
+}
+
+details summary:hover {
+  background: var(--near-white)
+}
+
+details summary .count {
+  float: right;
+}
+
+details .row {
+  display: grid;
+  grid-template-columns: 1.5rem calc(50% - 2rem) .75rem auto;
+  grid-gap: 0.5rem;
+  font-size: var(--f7);
+  padding: var(--hms);
+  border-top: var(--border) solid var(--light-white);
+}
+
+details .row:nth-child(even) {
+  background: var(--near-white)
+}
+
+details .row > div:first-of-type {
+  text-align: center;
+}
+</style>
+
+{{ range $links }}
+<details>
+  <summary>
+    <img class='icon' src='https://www.google.com/s2/favicons?domain={{ .domain }}&sz=32'>
+    <small>{{ .domain }}</small>
+    <small class='lg count'>{{ .count }}</small>
+  </summary>
+
+  <div class='urls'>
+    <div class='row'>
+      <div></div>
+      <div><strong>hacdias.com</strong></div>
+      <div></div>
+      <div><strong>{{ .domain }}</strong></div>
+    </div>
+    {{ range $i, $lnk := .links }}
+    <div class='row'>
+      <div>{{ $i }}</div>
+      <div>
+        <a href="{{ .sourceUrl }}">{{ (urls.Parse .sourceUrl).Path }}</a>
+      </div>
+      <div><small class='lg'>→</small></div>
+      <div>
+        <a href="{{ .targetUrl }}" rel="noreferrer noopener">{{ or ((urls.Parse .targetUrl).Path) "/" }}</a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</details>
+{{ end }}
