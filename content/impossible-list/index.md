@@ -4,7 +4,6 @@ description: This is my impossible list, where I define and check some major lif
   experiences I want to experience.
 date: 2020-07-15T00:00:00Z
 lastmod: 2022-10-21T21:47:17.268595798+02:00
-noSendInteractions: true
 ---
 
 This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It is kind of a bucket list, but with a twist. Here's the best explanation I found:
