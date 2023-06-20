@@ -437,7 +437,7 @@ details summary {
   font-size: var(--f7);
 }
 
-.tag:hover {
+a.tag:hover {
   background-color: var(--light-white);
 }
 
