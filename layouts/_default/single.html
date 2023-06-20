@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main role='main'>
   {{- $props := .Params.properties }}
-  {{- $card := or .Params.bookmark .Params.read .Params.reply }}
+  {{- $card := or .Params.read .Params.reply }}
 
   <article class='{{ if $card }}card {{ end }}h-entry'>
     {{- partialCached "post/header" (dict "Page" . "Listing" false) .Permalink false }}
