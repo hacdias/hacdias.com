@@ -1,16 +1,20 @@
 {{ range .Site.Data.bookmarks }}
 <div class='card'>
   <div class='box'>
-    🔖 <strong><a class="u-bookmark-of h-cite" href="{{ .url }}">{{- .title -}}</a></strong>
+    🔖 <strong><a href="{{ .url }}">{{- .title -}}</a></strong>
   </div>
-  <div class='copy e-content'>
+  <div class='copy'>
     {{- .description | $.Page.RenderString (dict "display" "block" ) -}}
   </div>
   <footer>
     <p>
-      <time class='dt-published' datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}'>
+      <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}'>
         Published on {{ dateFormat  "02 Jan 2006 15:04 MST" .date }}
       </time>
+
+      {{ range .tags -}}
+        <span class="tag">{{ . }}</span>
+      {{ end -}}
     </p>
   </footer>
 </div>
