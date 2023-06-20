@@ -96,7 +96,7 @@ A more subtle change I made was to change the dates on this website to use the [
 [hugo]: https://gohugo.io/
 [meta]: /tags/meta/
 [indieweb]: https://indieweb.org/
-[now]: /now/
+[now]: /tags/now/
 [watches]: /watches/
 [twemoji]: https://github.com/twitter/twemoji
 [guestbook]: /guestbook/

@@ -9,7 +9,7 @@ categories:
 Just made a few updates to my website:
 
 - Added a [more](/more) page, inspired by [@jlelse's](https://jlelse.blog/more/).
-- Updated my [now](/now) page to actually include what I'm doing right now.
+- Updated my [now](/tags/now) page to actually include what I'm doing right now.
 - Updated the highlight theme to `swapoff`. It's a really pretty syntax highlight theme provided by [Chroma](https://swapoff.org/chroma/playground/), the library Hugo is using. The best thing is: using the `invert()` CSS filter it keeps looking good. This way, I have good syntax highlight on both the light and dark themes.
 - Added the category of the post right besides the publish date.
 - Now I'm only showing notes, articles and replies on the homepage.
