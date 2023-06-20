@@ -71,4 +71,3 @@ function addScope() {
   <input type="hidden" name="code_challenge_method" value="<eagle-value>">
   <button id=submit>Accept</button>
 </form>
-

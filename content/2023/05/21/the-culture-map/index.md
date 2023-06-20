@@ -1,7 +1,6 @@
 ---
 title: Read "The Culture Map" by Erin Meyer
 date: 2023-05-21T10:43:05.204685421+02:00
-rating: 5
 categories:
 - readings
 read:
@@ -10,6 +9,7 @@ read:
   publisher: Public Affairs Books
   pages: 288
   uid: isbn:9781610392501
+rating: 5
 ---
 
 A few days ago I started reading this book by Erin Meyer, *The Culture Map*. And,

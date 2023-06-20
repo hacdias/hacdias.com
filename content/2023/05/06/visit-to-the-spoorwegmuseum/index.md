@@ -1,12 +1,12 @@
 ---
-title: "Visiting The Spoorwegmuseum"
+title: Visiting The Spoorwegmuseum
 date: 2023-05-06T22:22:09+02:00
 coverImage: cdn:/7dba183e948351abd6445e2f715b001724390030d230d4d8173b991c77caa6b9
-categories:
-- articles
 tags:
 - trains
 - museums
+categories:
+- articles
 ---
 
 <style>
