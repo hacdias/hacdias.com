@@ -20,6 +20,7 @@
     "url": "https://missing.csail.mit.edu/",
     "title": "The Missing Semester of Your CS Education",
     "description": "Very good resource, especially for new students of Computer Science. The lecturers go over many topics that were never brought up during any of my classes, which could've been pretty useful. Of course, some of us end up learning it by trying and searching, but it'd definitely be very great to have had something like this.",
+    "notes": "Very good resource, especially for new students of Computer Science. The lecturers go over many topics that were never brought up during any of my classes, which could've been pretty useful. Of course, some of us end up learning it by trying and searching, but it'd definitely be very great to have had something like this.",
     "date": "2023-01-17T17:22:01Z"
   },
   {
@@ -33,6 +34,7 @@
     "url": "https://theforest.link/",
     "title": "The Forest",
     "description": "This is kind of a webring without being a webring. In this website, you can click on a link and be redirected to a random, likely interesting, personal website to explore.",
+    "notes": "This is kind of a webring without being a webring. In this website, you can click on a link and be redirected to a random, likely interesting, personal website to explore.",
     "tags": [
       "webring"
     ],
@@ -42,6 +44,7 @@
     "url": "https://austinhenley.com/blog/programmingasplay.html",
     "title": "Programming as play",
     "description": "This article by Austin is quite interesting. He talks about how programming can be seen as a playful thing, instead of making things that have a hard purpose. It reminds me of the time I made a few [experiments](/more#experiments) for fun. I should do that kind of programming again: fun programming. And it doesn't necessarily have to be web programming either. Just fun, with fun things.",
+    "notes": "This article by Austin is quite interesting. He talks about how programming can be seen as a playful thing, instead of making things that have a hard purpose. It reminds me of the time I made a few [experiments](/more#experiments) for fun. I should do that kind of programming again: fun programming. And it doesn't necessarily have to be web programming either. Just fun, with fun things.",
     "tags": [
       "fun"
     ],
@@ -82,6 +85,7 @@
     "url": "http://annas-blog.org/putting-5,998,794-books-on-ipfs.html",
     "title": "Putting 5,998,794 books on IPFS",
     "description": "This is a good post about the experience of putting that massive amount of books, and therefore data, and the challenges that come with it.",
+    "notes": "This is a good post about the experience of putting that massive amount of books, and therefore data, and the challenges that come with it.",
     "date": "2022-11-21T21:08:43Z"
   },
   {
@@ -176,6 +180,7 @@
     "url": "https://blog.jim-nielsen.com/2022/website-fidelity/",
     "title": "Website Fidelity",
     "description": "This is a very nice piece on how to build a website in different layers of fidelity instead of layers of technology. Instead of building a progressive app with progressive enhancement, we should simply use different fidelity levels to the original website. Quite magical and I think that'd work very well.",
+    "notes": "This is a very nice piece on how to build a website in different layers of fidelity instead of layers of technology. Instead of building a progressive app with progressive enhancement, we should simply use different fidelity levels to the original website. Quite magical and I think that'd work very well.",
     "date": "2022-10-18T07:39:52Z"
   },
   {
@@ -187,6 +192,7 @@
     "url": "https://tinyapps.org/",
     "title": "tinyapps.org",
     "description": "\u003e Welcome to tinyapps.org, an aging catalog of tiny, well-made software primarily for Windows.",
+    "notes": "\u003e Welcome to tinyapps.org, an aging catalog of tiny, well-made software primarily for Windows.",
     "date": "2022-08-22T14:36:29Z"
   },
   {
@@ -220,6 +226,7 @@
     "url": "https://tailscale.com/blog/how-nat-traversal-works/",
     "title": "How NAT traversal works",
     "description": "This is a very good article by Tailscale that explains how NAT traversal works and the different algorithms they employ in order to reach the majority of the Internet.",
+    "notes": "This is a very good article by Tailscale that explains how NAT traversal works and the different algorithms they employ in order to reach the majority of the Internet.",
     "tags": [
       "dns",
       "networking",
@@ -250,6 +257,7 @@
     "url": "https://ar.al/2020/08/07/what-is-the-small-web/",
     "title": "What is the Small Web?",
     "description": "An article by Aral Balkan where they compare the state of the current web, the big web, with the web of the people, introducing the concept of \"small web\".",
+    "notes": "An article by Aral Balkan where they compare the state of the current web, the big web, with the web of the people, introducing the concept of \"small web\".",
     "tags": [
       "indieweb",
       "small-web"
@@ -287,6 +295,7 @@
     "url": "https://blog.jim-nielsen.com/2022/well-known-links-resource/",
     "title": "A Well-Known Links Resource",
     "description": "Jim shows how he uses the Well-Known links resource to show the links he has to other websites. For example, going to `/.well-known/links?domain=example.com`  shows all the pages in his website that link to `example.com`.",
+    "notes": "Jim shows how he uses the Well-Known links resource to show the links he has to other websites. For example, going to `/.well-known/links?domain=example.com`  shows all the pages in his website that link to `example.com`.",
     "tags": [
       "indieweb",
       "well-known"
@@ -441,9 +450,9 @@
     "title": "Useful utilities and toys over DNS",
     "tags": [
       "terminal",
+      "tool",
       "dns",
-      "unix",
-      "tools"
+      "unix"
     ],
     "date": "2022-06-11T19:03:58Z"
   },
@@ -520,6 +529,7 @@
     "url": "https://aloneonahill.com/blog/if-php-were-british/",
     "title": "If PHP Were British",
     "description": "A comical article on how PHP functions and syntax operations would be called if PHP used British English.",
+    "notes": "A comical article on how PHP functions and syntax operations would be called if PHP used British English.",
     "tags": [
       "fun"
     ],
@@ -582,6 +592,7 @@
     "url": "https://itcorp.com",
     "title": "ITcorp.com",
     "description": "A preserved version of a website that has been running since 1986. It is one of the oldest, still-running, websites. Also on ipfs://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy.",
+    "notes": "A preserved version of a website that has been running since 1986. It is one of the oldest, still-running, websites. Also on ipfs://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy.",
     "tags": [
       "fun",
       "historical",
@@ -594,6 +605,7 @@
     "url": "https://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am.ipfs.dweb.link/",
     "title": "Old Internet Files",
     "description": "A preserved version of a website with old internet files, such as zone files, hosts information and domains information.",
+    "notes": "A preserved version of a website with old internet files, such as zone files, hosts information and domains information.",
     "tags": [
       "fun",
       "historical",
@@ -606,6 +618,7 @@
     "url": "http://toastytech.com/",
     "title": "Nathan's Toasty Technology Page",
     "description": "A very random website with very random things and screenshots from old software. Also on ipfs://bafybeib7lyimozj46dotjpzapp33wkig5g4zdcusljwaslwuv3djm2lzsy.",
+    "notes": "A very random website with very random things and screenshots from old software. Also on ipfs://bafybeib7lyimozj46dotjpzapp33wkig5g4zdcusljwaslwuv3djm2lzsy.",
     "tags": [
       "fun",
       "historical",
@@ -618,6 +631,7 @@
     "url": "https://bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy.ipfs.dweb.link/home.html",
     "title": "The World Wide Web History Project",
     "description": "A preserved website that was nominated Cool Site of the Year in 1997, which explains what is the World Wide Web.",
+    "notes": "A preserved website that was nominated Cool Site of the Year in 1997, which explains what is the World Wide Web.",
     "tags": [
       "fun",
       "historical",
@@ -630,6 +644,7 @@
     "url": "https://proto.school/",
     "title": "ProtoSchool",
     "description": "A fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There’s courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.",
+    "notes": "A fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There’s courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.",
     "tags": [
       "dweb",
       "web3",
@@ -681,6 +696,7 @@
     "url": "https://www.namebase.io/",
     "title": "Namebase",
     "description": "You can register your own \"TLD\" and make subdomains out of it. There's a DNS server that you can use to resolve these domains.",
+    "notes": "You can register your own \"TLD\" and make subdomains out of it. There's a DNS server that you can use to resolve these domains.",
     "tags": [
       "dweb",
       "web3",
