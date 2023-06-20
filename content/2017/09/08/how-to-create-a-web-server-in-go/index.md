@@ -45,7 +45,7 @@ func main() {
 }
 ```
 
-Then, open the command line and run `go run main.go`. If you now go to [`localhost:8080/George`](http://localhost:8080/George), you'll see the message "Hello George" printed out.
+Then, open the command line and run `go run main.go`. If you now go to `localhost:8080/George`, you'll see the message "Hello George" printed out.
 
 In this little code, we are creating a handler called `sayHello` which retrieves the path of the URL (first line), removes the first slash (second line) and appends the "Hello" to the beginning of the sentence. Then, we write the final message to the `ResponseWriter` converted to bytes.
 

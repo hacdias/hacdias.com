@@ -8,7 +8,7 @@ categories:
 - notes
 ---
 
-As you might have read on my [meta](/colophon/) page, I inteded to remove support for ActivityPub:
+As you might have read on my [meta](/about/#colophon) page, I inteded to remove support for ActivityPub:
 
 > I am considering removing the ActivityPub support from my website. Right now, my website is able to provide posts formatted as ActivityPub entries; post to my followers when I write new content; and receive comments via ActivityPub.
 > 
