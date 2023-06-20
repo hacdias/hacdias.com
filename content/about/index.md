@@ -3,7 +3,6 @@ title: About
 description: I was born in Portugal and I am not pursuing a Master's degree in the
   Netherlands, while working on fascinating projects. This page tells a bit more about
   me.
-noSendInteractions: true
 coverImage: cdn:/d08ced340c08b8a3b1050f114539e88b61c2e75c7d6b58f120f2bd7fa469ec3f
 ---
 

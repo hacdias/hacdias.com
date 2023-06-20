@@ -1,7 +1,6 @@
 ---
 title: Contact
 description: This is how you can contact me.
-noSendInteractions: true
 ---
 
 I can be reached through different means, and you can find me on many different platforms. If you need to reach me directly, please try either E-mail, Telegram or Matrix.

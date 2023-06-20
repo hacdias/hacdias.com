@@ -1,6 +1,5 @@
 ---
 title: More
-noSendInteractions: true
 ---
 
 This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭!
