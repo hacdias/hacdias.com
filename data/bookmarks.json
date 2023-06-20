@@ -1,0 +1,792 @@
+[
+  {
+    "url": "https://mholt.github.io/json-to-go/",
+    "title": "JSON-to-Go: Convert JSON to Go instantly",
+    "description": "Convert JSON to Go structs very easily via the webpage.",
+    "tags": [
+      "tool",
+      "golang"
+    ],
+    "date": "2023-06-19T20:10:30.152661Z"
+  },
+  {
+    "url": "https://eta.st/2023/01/31/rail-tickets.html",
+    "title": "Reversing UK mobile rail tickets",
+    "description": "This is quite an interesting article. The author goes over the process of reverse-engineering the contents encoded in the Aztec code of the UK mobile rail tickets, which, of course, does not follow the European standard. In addition, eta also published [a tool](https://eta.st/tickets/) where you can scan your UK tickets and see their contents. Now it would be very interesting to read something similar with the European standard and, of course, a similar tool. Maybe that's an idea for a post.",
+    "notes": "This is quite an interesting article. The author goes over the process of reverse-engineering the contents encoded in the Aztec code of the UK mobile rail tickets, which, of course, does not follow the European standard. In addition, eta also published [a tool](https://eta.st/tickets/) where you can scan your UK tickets and see their contents. Now it would be very interesting to read something similar with the European standard and, of course, a similar tool. Maybe that's an idea for a post.",
+    "date": "2023-02-07T14:05:28Z"
+  },
+  {
+    "url": "https://missing.csail.mit.edu/",
+    "title": "The Missing Semester of Your CS Education",
+    "description": "Very good resource, especially for new students of Computer Science. The lecturers go over many topics that were never brought up during any of my classes, which could've been pretty useful. Of course, some of us end up learning it by trying and searching, but it'd definitely be very great to have had something like this.",
+    "date": "2023-01-17T17:22:01Z"
+  },
+  {
+    "url": "https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/",
+    "title": "State of the Windows: How many layers of UI inconsistencies are in Windows 11?",
+    "description": "Haven't used Windows in quite some time, but I like to keep following the news as it was the OS that accompanied my childhood, most specifically Windows XP and Windows 7. Somehow I managed to skip Windows Vista, apart from some few interactions in someone else's computer. Then, Windows 8 came and Windows 10 and I ended up moving to macOS for some other reasons and so far, haven't gone back. I always enjoyed Window UI, at least to some extend.\r\n\r\nThis article shows UI elements present in Windows 11 that date to older versions of Windows. I expected to see things that dated back to Windows XP. However, I was surprised to see that you can still find UI elements from Windows 3.1 on Windows 11!",
+    "notes": "Haven't used Windows in quite some time, but I like to keep following the news as it was the OS that accompanied my childhood, most specifically Windows XP and Windows 7. Somehow I managed to skip Windows Vista, apart from some few interactions in someone else's computer. Then, Windows 8 came and Windows 10 and I ended up moving to macOS for some other reasons and so far, haven't gone back. I always enjoyed Window UI, at least to some extend.\r\n\r\nThis article shows UI elements present in Windows 11 that date to older versions of Windows. I expected to see things that dated back to Windows XP. However, I was surprised to see that you can still find UI elements from Windows 3.1 on Windows 11!",
+    "date": "2023-01-02T14:06:13Z"
+  },
+  {
+    "url": "https://theforest.link/",
+    "title": "The Forest",
+    "description": "This is kind of a webring without being a webring. In this website, you can click on a link and be redirected to a random, likely interesting, personal website to explore.",
+    "tags": [
+      "webring"
+    ],
+    "date": "2022-12-26T19:22:04Z"
+  },
+  {
+    "url": "https://austinhenley.com/blog/programmingasplay.html",
+    "title": "Programming as play",
+    "description": "This article by Austin is quite interesting. He talks about how programming can be seen as a playful thing, instead of making things that have a hard purpose. It reminds me of the time I made a few [experiments](/more#experiments) for fun. I should do that kind of programming again: fun programming. And it doesn't necessarily have to be web programming either. Just fun, with fun things.",
+    "tags": [
+      "fun"
+    ],
+    "date": "2022-12-23T09:17:56Z"
+  },
+  {
+    "url": "https://sadgrl.online/cyberspace/webrings.html",
+    "title": "Webring Directory",
+    "description": "A very nice directory of different webrings. It's always good for reference.",
+    "tags": [
+      "webring"
+    ],
+    "date": "2022-12-14T10:28:43Z"
+  },
+  {
+    "url": "https://macwright.com/2022/12/09/activitypub.html",
+    "title": "Playing with ActivityPub",
+    "description": "Tom describes his experiences on implementing part of the ActivityPub specification on top of his Jekyll-based static website. It is indeed quite interesting to me to see how he achieved it, mostly through \"serverless\" lambdas and whatnot. He notices, very well, that ActivityPub can be quite messy and is very active when compared to other technologies, such as RSS.\r\n\r\nSimilarly, most dynamic functionalities of my website could be implemented on top of a static website (as they once were). However, I'm not following that route now. Who knows if in the future I won't switch back. An interesting... continuous... food for thought.",
+    "notes": "Tom describes his experiences on implementing part of the ActivityPub specification on top of his Jekyll-based static website. It is indeed quite interesting to me to see how he achieved it, mostly through \"serverless\" lambdas and whatnot. He notices, very well, that ActivityPub can be quite messy and is very active when compared to other technologies, such as RSS.\r\n\r\nSimilarly, most dynamic functionalities of my website could be implemented on top of a static website (as they once were). However, I'm not following that route now. Who knows if in the future I won't switch back. An interesting... continuous... food for thought.",
+    "tags": [
+      "activitypub",
+      "fediverse"
+    ],
+    "date": "2022-12-09T21:25:18Z"
+  },
+  {
+    "url": "https://dotat.at/@/2022-12-04-leap-seconds.html",
+    "title": "An update on leap seconds",
+    "date": "2022-12-06T09:13:00Z"
+  },
+  {
+    "url": "https://chreke.com/little-languages.html",
+    "title": "Little Languages Are The Future Of Programming",
+    "description": "A nice read on how Domain Specific Languages might be the future of programming.",
+    "date": "2022-11-22T16:30:04Z"
+  },
+  {
+    "url": "http://annas-blog.org/putting-5,998,794-books-on-ipfs.html",
+    "title": "Putting 5,998,794 books on IPFS",
+    "description": "This is a good post about the experience of putting that massive amount of books, and therefore data, and the challenges that come with it.",
+    "date": "2022-11-21T21:08:43Z"
+  },
+  {
+    "url": "https://elisehe.in/2022/10/16/attribute-selectors",
+    "title": "The wasted potential of CSS attribute selectors",
+    "date": "2022-11-19T14:42:12Z"
+  },
+  {
+    "url": "https://blog.jim-nielsen.com/2022/website-fidelity-browser/",
+    "title": "Website Fidelity: Browser Perspective",
+    "description": "Similarly to his [last article](https://blog.jim-nielsen.com/2022/website-fidelity/), Jim dives into the concept of website fidelity, which is a way of reducing the amount of resources a website consumes by lowering its fidelity to the original visuals and features. I quite like this idea.\r\n\r\n\u003e Website owners aren’t necessarily incentivized to start stripping stuff out of their websites in order to support lower fidelities (including a fidelity of zero JavaScript). What you need is like an agent: somebody who works on your behalf as a user and can do for you what site owners won’t — a user agent if you will 🥁.\r\n\r\n\u003e Note that “fidelity” in this case is not solely a control over the appearance and functionality of the website, but the actual content of the site itself. For example, at full fidelity on a news site you might have an image, title, byline, and short description for each article whereas at low fidelity you might only have the title for each.\r\n\r\n\u003e I want to stress this point: I see the promise of website “fidelity” not just as a preference for less JavaScript and CSS but content itself. Providing users this kind of control would require website owners be involved, as I’m not sure you could do that well solely as a browser feature or extension.",
+    "notes": "Similarly to his [last article](https://blog.jim-nielsen.com/2022/website-fidelity/), Jim dives into the concept of website fidelity, which is a way of reducing the amount of resources a website consumes by lowering its fidelity to the original visuals and features. I quite like this idea.\r\n\r\n\u003e Website owners aren’t necessarily incentivized to start stripping stuff out of their websites in order to support lower fidelities (including a fidelity of zero JavaScript). What you need is like an agent: somebody who works on your behalf as a user and can do for you what site owners won’t — a user agent if you will 🥁.\r\n\r\n\u003e Note that “fidelity” in this case is not solely a control over the appearance and functionality of the website, but the actual content of the site itself. For example, at full fidelity on a news site you might have an image, title, byline, and short description for each article whereas at low fidelity you might only have the title for each.\r\n\r\n\u003e I want to stress this point: I see the promise of website “fidelity” not just as a preference for less JavaScript and CSS but content itself. Providing users this kind of control would require website owners be involved, as I’m not sure you could do that well solely as a browser feature or extension.",
+    "date": "2022-11-01T08:29:43Z"
+  },
+  {
+    "url": "https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/",
+    "title": "Physician explains how COVID-19 mutes sense of smell",
+    "description": "In the beginning of the week, I tested positive for Covid-19. Even though the symptoms were smilingly gone, yesterday and the day before I noticed my sense of smell was quite odd. I could still smell some things, but not all. In addition, breathing in general had an odd smell. This article was a nice read and explains well how Covid-19 can change our sense of smell.\r\n\r\n\u003e What's more likely, she said, is that SARS-CoV-2 injures sustentacular supporting cells, which are like helper cells for the main neurons that pick up on chemicals in the air and send signals to the brain. They help maintain a healthy ecosystem in which the neurons can thrive, and they help guide the neurons to grow and make the right connections.\r\n\u003e \r\n\u003e SARS-CoV-2 latches onto specific receptors to infect a cell, but olfactory neurons don't have that receptor. The support cells, however, do. \"Our body's natural immune response is to bring inflammatory molecules to that site to try to kill the invader,\" Patel said.\r\n\u003e \r\n\u003e But that response can overwhelm the structural integrity of the support cells, and they end up as collateral damage. Without the proper support, olfactory neurons can't successfully relay chemical signals to the brain, effectively silencing smell.\r\n\r\nFortunately, it seems I can smell things well again today, so that's great. Besides, my self-tests are getting fainter and fainter by the day. It's a bit annoying I came to Lisbon and had to miss all company activities. I met some friends and family instead, which was also great. I'll be here until Tuesday.",
+    "notes": "In the beginning of the week, I tested positive for Covid-19. Even though the symptoms were smilingly gone, yesterday and the day before I noticed my sense of smell was quite odd. I could still smell some things, but not all. In addition, breathing in general had an odd smell. This article was a nice read and explains well how Covid-19 can change our sense of smell.\r\n\r\n\u003e What's more likely, she said, is that SARS-CoV-2 injures sustentacular supporting cells, which are like helper cells for the main neurons that pick up on chemicals in the air and send signals to the brain. They help maintain a healthy ecosystem in which the neurons can thrive, and they help guide the neurons to grow and make the right connections.\r\n\u003e \r\n\u003e SARS-CoV-2 latches onto specific receptors to infect a cell, but olfactory neurons don't have that receptor. The support cells, however, do. \"Our body's natural immune response is to bring inflammatory molecules to that site to try to kill the invader,\" Patel said.\r\n\u003e \r\n\u003e But that response can overwhelm the structural integrity of the support cells, and they end up as collateral damage. Without the proper support, olfactory neurons can't successfully relay chemical signals to the brain, effectively silencing smell.\r\n\r\nFortunately, it seems I can smell things well again today, so that's great. Besides, my self-tests are getting fainter and fainter by the day. It's a bit annoying I came to Lisbon and had to miss all company activities. I met some friends and family instead, which was also great. I'll be here until Tuesday.",
+    "tags": [
+      "covid19"
+    ],
+    "date": "2022-10-30T09:53:10Z"
+  },
+  {
+    "url": "https://twitter.com/giovannigruni/status/1582441784445063168",
+    "title": "Thread by @giovannigruni on New Italian Government",
+    "description": "\u003e New Italian Government not even started yet and shit is hitting the fan already. A surreal thread. 🧵\r\n\r\n\u003e Today Berlusconi claimed he had an exchange of “sweet” letters with V Putin. They also exchanged gifts in the form of vodka and wine. Putin apparently claimed Berlusconi is one of his 5 best friends. Berlusconi’s party is expressing the new Italian Minister of Foreign Affairs.\r\n\r\n\u003e In the meanwhile a photo of Mussolini appeared on the wall of a room in one of the government  buildings. It was then removed “to avoid instrumental criticism”. The l new President of the Senate however claimed that this was “cancel culture”.\r\n\r\n\u003e About that. The new President of the Senate has a number of fascist, let’s say, souvenirs in his home. These include a small statue of the Duce he proudly showed in a video available online. https://www.youtube.com/watch?v=ERAQxZuXdyc\r\n\r\n\u003e The new President of the lower house has an history of discriminatory claims against minorities and took explicit positions against sanctioning Russia. At the same time Meloni is attacking people (like me I guess)  who discredit Italian abroad criticising the country.\r\n\r\n\u003e A number of intellectuals which you would normally consider on the left wrote a petition in favour of giving parts of Ukraine to Russia to end the war. The Pope is taking the same position. A number of manifestations are being organised by various parties with similar positions.",
+    "notes": "\u003e New Italian Government not even started yet and shit is hitting the fan already. A surreal thread. 🧵\r\n\r\n\u003e Today Berlusconi claimed he had an exchange of “sweet” letters with V Putin. They also exchanged gifts in the form of vodka and wine. Putin apparently claimed Berlusconi is one of his 5 best friends. Berlusconi’s party is expressing the new Italian Minister of Foreign Affairs.\r\n\r\n\u003e In the meanwhile a photo of Mussolini appeared on the wall of a room in one of the government  buildings. It was then removed “to avoid instrumental criticism”. The l new President of the Senate however claimed that this was “cancel culture”.\r\n\r\n\u003e About that. The new President of the Senate has a number of fascist, let’s say, souvenirs in his home. These include a small statue of the Duce he proudly showed in a video available online. https://www.youtube.com/watch?v=ERAQxZuXdyc\r\n\r\n\u003e The new President of the lower house has an history of discriminatory claims against minorities and took explicit positions against sanctioning Russia. At the same time Meloni is attacking people (like me I guess)  who discredit Italian abroad criticising the country.\r\n\r\n\u003e A number of intellectuals which you would normally consider on the left wrote a petition in favour of giving parts of Ukraine to Russia to end the war. The Pope is taking the same position. A number of manifestations are being organised by various parties with similar positions.",
+    "date": "2022-10-29T22:48:58Z"
+  },
+  {
+    "url": "https://twitter.com/andrestaltz/status/1583556396636741633",
+    "title": "Thread by @andrestaltz on Content Monetization in Web3",
+    "description": "\u003e This requires long-from writing, but one common myth in the decentralized industry is that content can be monetized. Web3 social nets in particular love to proclaim that they're helping creators make a living. Content is hardly monetizable.\r\n\r\n\u003e The simple/summarized explanation for why content is hardly monetizable is that content is growing in quantity (because of more people online) and quality (because of better content creation tools). This means the supply of content is growing. With supply up, prices go down.\r\n\r\n\u003e By \"price\" I mean that people are less willing to pay for content. This is because the amount of free content is so vast, and often it's also high quality, that it becomes hard for non-free content to compete with free content. Overall this keeps driving prices down.\r\n\r\n\u003e This trend is happening everywhere: textual content like blogs, articles, books, but also music, images, code, etc. TikTok, with content remixability, accelerated content production. Guess what, AI content generation tools will accelerate it even more in the future.\r\n\r\n\u003e People are less and less willing to pay for content. That's how markets work, crypto folks know this. Content supply isn't going to go down, and content demand is somewhat constant because it's capped by attention, and you only have 24h in a day.\r\n\r\n\u003e The only way this equation can change is if there's a high supply of money to spend on content. When you have loads of money to spend, you're more willing to pay if some content is behind a paywall. THAT is how crypto social networks have \"monetized\" content, by airdrops.\r\n\r\n\u003e They create the supply of money to its users to allow them to spend it. Without this supply, the monetization would hardly ever work. And even now, it doesn't quite work. Users are on the platform because they want the tokens, not because they want content.\r\n\r\n\u003e I could write more, but it's late. Bottom line is that I'm convinced that content cannot be directly and sustainably monetized anymore, apart from exceptions. Perhaps attention is a more promising way to monetize. Content is often in service of attention. Content is overrated.",
+    "notes": "\u003e This requires long-from writing, but one common myth in the decentralized industry is that content can be monetized. Web3 social nets in particular love to proclaim that they're helping creators make a living. Content is hardly monetizable.\r\n\r\n\u003e The simple/summarized explanation for why content is hardly monetizable is that content is growing in quantity (because of more people online) and quality (because of better content creation tools). This means the supply of content is growing. With supply up, prices go down.\r\n\r\n\u003e By \"price\" I mean that people are less willing to pay for content. This is because the amount of free content is so vast, and often it's also high quality, that it becomes hard for non-free content to compete with free content. Overall this keeps driving prices down.\r\n\r\n\u003e This trend is happening everywhere: textual content like blogs, articles, books, but also music, images, code, etc. TikTok, with content remixability, accelerated content production. Guess what, AI content generation tools will accelerate it even more in the future.\r\n\r\n\u003e People are less and less willing to pay for content. That's how markets work, crypto folks know this. Content supply isn't going to go down, and content demand is somewhat constant because it's capped by attention, and you only have 24h in a day.\r\n\r\n\u003e The only way this equation can change is if there's a high supply of money to spend on content. When you have loads of money to spend, you're more willing to pay if some content is behind a paywall. THAT is how crypto social networks have \"monetized\" content, by airdrops.\r\n\r\n\u003e They create the supply of money to its users to allow them to spend it. Without this supply, the monetization would hardly ever work. And even now, it doesn't quite work. Users are on the platform because they want the tokens, not because they want content.\r\n\r\n\u003e I could write more, but it's late. Bottom line is that I'm convinced that content cannot be directly and sustainably monetized anymore, apart from exceptions. Perhaps attention is a more promising way to monetize. Content is often in service of attention. Content is overrated.",
+    "tags": [
+      "web3"
+    ],
+    "date": "2022-10-29T22:22:03Z"
+  },
+  {
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault",
+    "title": "blog/tech/SecurityItsOurOwnFault",
+    "description": "\u003e We (the computing community) did this to ourselves. We created a situation where a HTML attachment received in email could plausibly look, to ordinary people, like something that would appear from trying to look at an ordinary PDF. There are a whole bunch of individual pieces and steps that got us here, each sensible on their own in some view, but the collective result is that we did this to ourselves. We have no one else to blame when ordinary people fill in their password and hit 'Sign in'.",
+    "notes": "\u003e We (the computing community) did this to ourselves. We created a situation where a HTML attachment received in email could plausibly look, to ordinary people, like something that would appear from trying to look at an ordinary PDF. There are a whole bunch of individual pieces and steps that got us here, each sensible on their own in some view, but the collective result is that we did this to ourselves. We have no one else to blame when ordinary people fill in their password and hit 'Sign in'.",
+    "date": "2022-10-29T22:19:35Z"
+  },
+  {
+    "url": "https://beepb00p.xyz/annotating.html",
+    "title": "How to annotate literally everything",
+    "description": "\u003e At some point in my life I realized I didn't remember most of the books/papers/posts/videos I had consumed few years before.\r\n\r\nSadly, this is a very common problem. We spend our days consuming media for immediate-pleasure. And usually we have thoughts about what we just consumed, but we don't note them down, or preserve them.",
+    "notes": "\u003e At some point in my life I realized I didn't remember most of the books/papers/posts/videos I had consumed few years before.\r\n\r\nSadly, this is a very common problem. We spend our days consuming media for immediate-pleasure. And usually we have thoughts about what we just consumed, but we don't note them down, or preserve them.",
+    "date": "2022-10-29T22:18:23Z"
+  },
+  {
+    "url": "https://matt-rickard.com/the-programmable-web",
+    "title": "I Miss The Programmable Web",
+    "description": "\u003e Security policies have essentially killed the user script and bookmarklet ecosystem.",
+    "notes": "\u003e Security policies have essentially killed the user script and bookmarklet ecosystem.",
+    "date": "2022-10-29T22:17:00Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
+    "title": "Digital gardens let you cultivate your own little bit of the internet",
+    "description": "\u003e The movement might be gaining steam now, but its roots date back to 1998, when Mark Bernstein introduced the idea of the “hypertext garden,” arguing for spaces on the internet that let a person wade into the unknown. “Gardens … lie between farmland and wilderness,” he wrote. “The garden is farmland that delights the senses, designed for delight rather than commodity.” (His digital garden includes a recent review of a Bay Area carbonara dish and reflections on his favorite essays.)",
+    "notes": "\u003e The movement might be gaining steam now, but its roots date back to 1998, when Mark Bernstein introduced the idea of the “hypertext garden,” arguing for spaces on the internet that let a person wade into the unknown. “Gardens … lie between farmland and wilderness,” he wrote. “The garden is farmland that delights the senses, designed for delight rather than commodity.” (His digital garden includes a recent review of a Bay Area carbonara dish and reflections on his favorite essays.)",
+    "date": "2022-10-29T22:03:03Z"
+  },
+  {
+    "url": "https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn't-use-git-lfs/",
+    "title": "Why You Shouldn't Use Git LFS",
+    "description": "\u003e If you adopt LFS today, you are committing to a) running an LFS server forever b) incurring a history rewrite in the future in order to remove LFS from your repo, or c) ceasing to provide an LFS server and locking out people from using older Git commits.",
+    "notes": "\u003e If you adopt LFS today, you are committing to a) running an LFS server forever b) incurring a history rewrite in the future in order to remove LFS from your repo, or c) ceasing to provide an LFS server and locking out people from using older Git commits.",
+    "date": "2022-10-29T22:00:24Z"
+  },
+  {
+    "url": "https://ramses.blog/how-take-notes-part-1/",
+    "title": "How I take smart digital notes—Part 1: A map for the journey",
+    "description": "\u003e As an autodidact, you will meet many different content formats on the road to understanding. Not all formats are created equal, and some work better than others. Add to that learning preferences, and you’ve got yourself a complicated situation.\r\n\r\n\u003e I feel obliged to mention podcasts, but I don’t recommend relying on them too much when learning. They are low resolution and impossible to skim.\r\n\r\n\u003e Reading widely and applying knowledge to problems is what empowers us to take ownership of our lives. The world starts to look like a place of possibility when you can adopt new viewpoints and learn new skills.",
+    "notes": "\u003e As an autodidact, you will meet many different content formats on the road to understanding. Not all formats are created equal, and some work better than others. Add to that learning preferences, and you’ve got yourself a complicated situation.\r\n\r\n\u003e I feel obliged to mention podcasts, but I don’t recommend relying on them too much when learning. They are low resolution and impossible to skim.\r\n\r\n\u003e Reading widely and applying knowledge to problems is what empowers us to take ownership of our lives. The world starts to look like a place of possibility when you can adopt new viewpoints and learn new skills.",
+    "date": "2022-10-29T21:25:04Z"
+  },
+  {
+    "url": "https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/",
+    "title": "An End to Doomerism",
+    "description": "\u003e The issue is that people mistake optimism for “blind optimism” — the blinkered faith that things will always get better. Problems will fix themselves. If we just hope things turn out well, they will. Blind optimism really is dumb.\r\n\r\n\u003e Optimism is seeing problems as challenges that are solvable; it’s having the confidence that there are things that we can do to make a difference. “Urgent optimism,” “pragmatic optimism,” “realistic optimism,” “impatient optimism” — I’ve heard many terms for this concept.",
+    "notes": "\u003e The issue is that people mistake optimism for “blind optimism” — the blinkered faith that things will always get better. Problems will fix themselves. If we just hope things turn out well, they will. Blind optimism really is dumb.\r\n\r\n\u003e Optimism is seeing problems as challenges that are solvable; it’s having the confidence that there are things that we can do to make a difference. “Urgent optimism,” “pragmatic optimism,” “realistic optimism,” “impatient optimism” — I’ve heard many terms for this concept.",
+    "date": "2022-10-29T21:04:26Z"
+  },
+  {
+    "url": "https://blog.jim-nielsen.com/2022/website-fidelity/",
+    "title": "Website Fidelity",
+    "description": "This is a very nice piece on how to build a website in different layers of fidelity instead of layers of technology. Instead of building a progressive app with progressive enhancement, we should simply use different fidelity levels to the original website. Quite magical and I think that'd work very well.",
+    "date": "2022-10-18T07:39:52Z"
+  },
+  {
+    "url": "https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/",
+    "title": "Why A4? – The Mathematical Beauty of Paper Size",
+    "date": "2022-09-05T16:01:08Z"
+  },
+  {
+    "url": "https://tinyapps.org/",
+    "title": "tinyapps.org",
+    "description": "\u003e Welcome to tinyapps.org, an aging catalog of tiny, well-made software primarily for Windows.",
+    "date": "2022-08-22T14:36:29Z"
+  },
+  {
+    "url": "https://marta.sh/",
+    "title": "Marta",
+    "description": "Finder alternative for macOS.",
+    "tags": [
+      "tool"
+    ],
+    "date": "2022-08-22T14:02:37Z"
+  },
+  {
+    "url": "https://www.engineersneedart.com/adam74/adam74.html",
+    "title": "Adam74",
+    "tags": [
+      "fun"
+    ],
+    "date": "2022-08-22T10:35:39Z"
+  },
+  {
+    "url": "https://gifcities.org/",
+    "title": "GifCities",
+    "tags": [
+      "small-web",
+      "web2",
+      "gif"
+    ],
+    "date": "2022-08-22T10:27:42Z"
+  },
+  {
+    "url": "https://tailscale.com/blog/how-nat-traversal-works/",
+    "title": "How NAT traversal works",
+    "description": "This is a very good article by Tailscale that explains how NAT traversal works and the different algorithms they employ in order to reach the majority of the Internet.",
+    "tags": [
+      "dns",
+      "networking",
+      "nat",
+      "routers"
+    ],
+    "date": "2022-08-20T06:57:46Z"
+  },
+  {
+    "url": "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994",
+    "title": "Janet Jackson had the power to crash laptop computers",
+    "tags": [
+      "fun"
+    ],
+    "date": "2022-08-19T15:17:05Z"
+  },
+  {
+    "url": "https://blogs.igalia.com/jfernandez/2022/08/10/new-custom-handlers-component-for-chrome/",
+    "title": "New Custom Handlers component for Chrome",
+    "tags": [
+      "browsers",
+      "chrome",
+      "chromium"
+    ],
+    "date": "2022-08-18T17:22:48Z"
+  },
+  {
+    "url": "https://ar.al/2020/08/07/what-is-the-small-web/",
+    "title": "What is the Small Web?",
+    "description": "An article by Aral Balkan where they compare the state of the current web, the big web, with the web of the people, introducing the concept of \"small web\".",
+    "tags": [
+      "indieweb",
+      "small-web"
+    ],
+    "date": "2022-08-16T21:48:24Z"
+  },
+  {
+    "url": "https://mrkaran.dev/posts/exposing-services/",
+    "title": "How I expose services while self hosting",
+    "tags": [
+      "caddy",
+      "docker",
+      "tailscale"
+    ],
+    "date": "2022-08-16T14:44:41Z"
+  },
+  {
+    "url": "https://512kb.club/",
+    "title": "512KB Club",
+    "tags": [
+      "small-web",
+      "optimization"
+    ],
+    "date": "2022-08-16T10:37:20Z"
+  },
+  {
+    "url": "https://blog.sanctum.geek.nz/vim-anti-patterns/",
+    "title": "Vim anti-patterns",
+    "tags": [
+      "vim"
+    ],
+    "date": "2022-08-16T09:37:35Z"
+  },
+  {
+    "url": "https://blog.jim-nielsen.com/2022/well-known-links-resource/",
+    "title": "A Well-Known Links Resource",
+    "description": "Jim shows how he uses the Well-Known links resource to show the links he has to other websites. For example, going to `/.well-known/links?domain=example.com`  shows all the pages in his website that link to `example.com`.",
+    "tags": [
+      "indieweb",
+      "well-known"
+    ],
+    "date": "2022-08-16T09:36:34Z"
+  },
+  {
+    "url": "https://atsukotominaga.com/",
+    "title": "Atsuko Tominaga",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2022-08-14T13:13:00Z"
+  },
+  {
+    "url": "https://cronut.cafe/~sfr/",
+    "title": "~sfr",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2022-08-14T13:04:55Z"
+  },
+  {
+    "url": "https://dmitri.shuralyov.com/",
+    "title": "Dmitri Shuralyov",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2022-08-14T13:04:12Z"
+  },
+  {
+    "url": "https://comfitu.re/",
+    "title": "Comfitu.re",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2022-08-14T13:03:59Z"
+  },
+  {
+    "url": "https://stp.cx/",
+    "title": "Hi! I'm Steph.",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2022-08-14T13:03:34Z"
+  },
+  {
+    "url": "https://secluded.site/",
+    "title": "Secluded.Site",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2022-08-14T13:03:27Z"
+  },
+  {
+    "url": "https://volpeon.ink/",
+    "title": "Volpeon’s Den",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2022-08-14T13:03:17Z"
+  },
+  {
+    "url": "https://webring.xxiivv.com/",
+    "title": "XXIIVV Webring",
+    "tags": [
+      "webring"
+    ],
+    "date": "2022-08-14T06:28:51Z"
+  },
+  {
+    "url": "https://xn--sr8hvo.ws/",
+    "title": "IndieWeb Webring",
+    "tags": [
+      "indieweb",
+      "webring"
+    ],
+    "date": "2022-08-14T06:19:17Z"
+  },
+  {
+    "url": "https://fediring.net/",
+    "title": "Fediring",
+    "tags": [
+      "activitypub",
+      "fediverse",
+      "webring"
+    ],
+    "date": "2022-08-14T06:19:02Z"
+  },
+  {
+    "url": "https://github.com/maaslalani/slides",
+    "title": "maaslalani/slides: Terminal based presentation tool",
+    "tags": [
+      "tool"
+    ],
+    "date": "2022-08-12T14:20:34Z"
+  },
+  {
+    "url": "https://handshake.org/",
+    "title": "Handshake",
+    "tags": [
+      "dweb",
+      "dns",
+      "decentralization"
+    ],
+    "date": "2022-07-25T10:51:02Z"
+  },
+  {
+    "url": "https://iknowwhatyoudownload.com/",
+    "title": "I Know What You Download",
+    "tags": [
+      "fun",
+      "tool",
+      "torrent"
+    ],
+    "date": "2022-07-19T13:11:53Z"
+  },
+  {
+    "url": "https://accordion-druid.tumblr.com/post/685175656750972928/dont-lie-to-me-about-web-20",
+    "title": "Don't Lie To Me About Web 2.0",
+    "tags": [
+      "web3",
+      "indieweb",
+      "small-web",
+      "web2"
+    ],
+    "date": "2022-06-30T05:14:37Z"
+  },
+  {
+    "url": "https://ane.iki.fi/2022/06/21/beenthere-donethat.html",
+    "title": "Been there, done that",
+    "description": "About bookmarking shell commands.",
+    "tags": [
+      "terminal",
+      "tool",
+      "unix"
+    ],
+    "date": "2022-06-21T19:53:25Z"
+  },
+  {
+    "url": "https://thorstenball.com/blog/2014/10/13/why-threads-cant-fork/",
+    "title": "Why threads can't fork",
+    "date": "2022-06-20T13:22:06Z"
+  },
+  {
+    "url": "https://decentralizedthoughts.github.io/2020-03-29-private-set-intersection-a-soft-introduction/",
+    "title": "Private Set Intersection",
+    "date": "2022-06-14T08:41:12Z"
+  },
+  {
+    "url": "https://www.dns.toys/",
+    "title": "Useful utilities and toys over DNS",
+    "tags": [
+      "terminal",
+      "dns",
+      "unix",
+      "tools"
+    ],
+    "date": "2022-06-11T19:03:58Z"
+  },
+  {
+    "url": "https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/",
+    "title": "I built a receipt printer for GitHub issues",
+    "tags": [
+      "fun"
+    ],
+    "date": "2022-03-25T17:11:02Z"
+  },
+  {
+    "url": "https://www.neelc.org/posts/web3-centralized/",
+    "title": "Web3 is centralized (and inefficient!)",
+    "tags": [
+      "web3"
+    ],
+    "date": "2022-03-23T09:40:11Z"
+  },
+  {
+    "url": "https://bookish.tech/",
+    "title": "bookish.tech",
+    "description": "Find book information via its ISBN.",
+    "tags": [
+      "tool"
+    ],
+    "date": "2022-02-25T09:04:01Z"
+  },
+  {
+    "url": "https://remark42.com/",
+    "title": "Remark42 – Privacy-focused lightweight commenting engine",
+    "tags": [
+      "tool"
+    ],
+    "date": "2022-01-29T11:10:10Z"
+  },
+  {
+    "url": "https://messwithdns.net/",
+    "title": "mess with dns",
+    "tags": [
+      "tool",
+      "dns",
+      "networking"
+    ],
+    "date": "2021-12-15T17:44:56Z"
+  },
+  {
+    "url": "https://www.chris-granger.com/2021/12/09/is-web3-anything/",
+    "title": "Is Web3... anything?",
+    "tags": [
+      "web3"
+    ],
+    "date": "2021-12-10T07:30:55Z"
+  },
+  {
+    "url": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
+    "title": "DNS doesn't \"propagate\"",
+    "tags": [
+      "dns"
+    ],
+    "date": "2021-12-06T20:21:17Z"
+  },
+  {
+    "url": "https://tutanota.com/blog/posts/germany-right-to-encryption/",
+    "title": "Germany: New government plans 'right to encryption'.",
+    "tags": [
+      "encryption",
+      "privacy",
+      "security"
+    ],
+    "date": "2021-12-04T09:26:54Z"
+  },
+  {
+    "url": "https://aloneonahill.com/blog/if-php-were-british/",
+    "title": "If PHP Were British",
+    "description": "A comical article on how PHP functions and syntax operations would be called if PHP used British English.",
+    "tags": [
+      "fun"
+    ],
+    "date": "2021-11-23T21:13:52Z"
+  },
+  {
+    "url": "https://meowni.ca/posts/doing-the-work/",
+    "title": "Doing the work",
+    "date": "2021-11-18T21:33:44Z"
+  },
+  {
+    "url": "https://catern.com/introduction.html",
+    "title": "\"Introduction\", the most common systems concept you've never heard of",
+    "date": "2021-11-17T22:45:51Z"
+  },
+  {
+    "url": "https://www.jvt.me/posts/2019/10/20/indieweb-talk/",
+    "title": "The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web",
+    "tags": [
+      "indieweb",
+      "small-web"
+    ],
+    "date": "2021-11-16T20:59:57Z"
+  },
+  {
+    "url": "http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html",
+    "title": "Computational Complexity: When did Computer Science Theory Get so Hard?",
+    "date": "2021-11-16T19:42:10Z"
+  },
+  {
+    "url": "https://overreacted.io/goodbye-clean-code/",
+    "title": "Goodbye, Clean Code — Overreacted",
+    "date": "2021-11-16T18:39:46Z"
+  },
+  {
+    "url": "https://personalsit.es/",
+    "title": "PersonalSit.es",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2021-11-15T11:12:51Z"
+  },
+  {
+    "url": "http://biglist.terraaeon.com/",
+    "title": "The Big List of Personal Websites",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2021-11-15T11:12:44Z"
+  },
+  {
+    "url": "https://darekkay.com/personal-blogs/",
+    "title": "Darek Kay’s Blogroll",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2021-11-15T11:12:29Z"
+  },
+  {
+    "url": "https://itcorp.com",
+    "title": "ITcorp.com",
+    "description": "A preserved version of a website that has been running since 1986. It is one of the oldest, still-running, websites. Also on ipfs://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy.",
+    "tags": [
+      "fun",
+      "historical",
+      "archive",
+      "web"
+    ],
+    "date": "2021-11-15T11:12:20Z"
+  },
+  {
+    "url": "https://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am.ipfs.dweb.link/",
+    "title": "Old Internet Files",
+    "description": "A preserved version of a website with old internet files, such as zone files, hosts information and domains information.",
+    "tags": [
+      "fun",
+      "historical",
+      "archive",
+      "web"
+    ],
+    "date": "2021-11-15T11:12:12Z"
+  },
+  {
+    "url": "http://toastytech.com/",
+    "title": "Nathan's Toasty Technology Page",
+    "description": "A very random website with very random things and screenshots from old software. Also on ipfs://bafybeib7lyimozj46dotjpzapp33wkig5g4zdcusljwaslwuv3djm2lzsy.",
+    "tags": [
+      "fun",
+      "historical",
+      "archive",
+      "web"
+    ],
+    "date": "2021-11-15T11:12:08Z"
+  },
+  {
+    "url": "https://bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy.ipfs.dweb.link/home.html",
+    "title": "The World Wide Web History Project",
+    "description": "A preserved website that was nominated Cool Site of the Year in 1997, which explains what is the World Wide Web.",
+    "tags": [
+      "fun",
+      "historical",
+      "archive",
+      "web"
+    ],
+    "date": "2021-11-15T11:12:00Z"
+  },
+  {
+    "url": "https://proto.school/",
+    "title": "ProtoSchool",
+    "description": "A fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There’s courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.",
+    "tags": [
+      "dweb",
+      "web3",
+      "educational"
+    ],
+    "date": "2021-11-15T11:08:46Z"
+  },
+  {
+    "url": "https://howhttps.works/",
+    "title": "How HTTPS works",
+    "description": "Comics from dnsimple explaining how HTTPS works.",
+    "tags": [
+      "educational",
+      "https"
+    ],
+    "date": "2021-11-15T11:08:26Z"
+  },
+  {
+    "url": "https://howdns.works/",
+    "title": "How DNS works",
+    "description": "Comics from dnsimple explaining how DNS works. As they say “road trips will never be the same”.",
+    "tags": [
+      "dns",
+      "educational"
+    ],
+    "date": "2021-11-15T11:08:03Z"
+  },
+  {
+    "url": "https://unstoppabledomains.com/",
+    "title": "Unstoppable Domains",
+    "tags": [
+      "dweb",
+      "web3",
+      "dns"
+    ],
+    "date": "2021-11-15T11:07:12Z"
+  },
+  {
+    "url": "https://ens.domains/",
+    "title": "ENS | Ethereum Name Service",
+    "tags": [
+      "dweb",
+      "web3",
+      "dns"
+    ],
+    "date": "2021-11-15T11:07:01Z"
+  },
+  {
+    "url": "https://www.namebase.io/",
+    "title": "Namebase",
+    "description": "You can register your own \"TLD\" and make subdomains out of it. There's a DNS server that you can use to resolve these domains.",
+    "tags": [
+      "dweb",
+      "web3",
+      "dns"
+    ],
+    "date": "2021-11-15T11:06:38Z"
+  },
+  {
+    "url": "https://near.org/",
+    "title": "NEAR Protocol",
+    "description": "Really fast cryptocurrency protocol.",
+    "tags": [
+      "dweb",
+      "web3"
+    ],
+    "date": "2021-11-15T11:05:24Z"
+  },
+  {
+    "url": "https://ipfs.io/",
+    "title": "IPFS",
+    "description": "P2P hypermedia protocol.",
+    "tags": [
+      "dweb",
+      "web3"
+    ],
+    "date": "2021-11-15T11:05:08Z"
+  },
+  {
+    "url": "https://scuttlebutt.nz/",
+    "title": "Scuttlebutt",
+    "description": "Distributed social network.",
+    "tags": [
+      "dweb",
+      "web3"
+    ],
+    "date": "2021-11-15T11:04:52Z"
+  },
+  {
+    "url": "https://hypercore-protocol.org/",
+    "title": "Hypercore Protocol",
+    "description": "Distributed append-only log protocol.",
+    "tags": [
+      "dweb",
+      "web3"
+    ],
+    "date": "2021-11-15T11:04:42Z"
+  },
+  {
+    "url": "https://ggerganov.github.io/wave-share",
+    "title": "Wave-share",
+    "description": "Serverless, p2p, local file sharing with communication through sound.",
+    "tags": [
+      "fun",
+      "p2p",
+      "tool"
+    ],
+    "date": "2021-11-15T11:03:52Z"
+  },
+  {
+    "url": "https://www.textile.io/",
+    "title": "Textile",
+    "description": "Set of tools built on IPFS and Filecoin.",
+    "tags": [
+      "tool"
+    ],
+    "date": "2021-11-15T11:03:40Z"
+  },
+  {
+    "url": "https://boom.fyi/",
+    "title": "Boom",
+    "description": "IPFS link shortener",
+    "tags": [
+      "dweb",
+      "tool",
+      "ipfs"
+    ],
+    "date": "2021-11-15T11:03:24Z"
+  },
+  {
+    "url": "https://mjanja.ch/2015/06/replacing-cron-jobs-with-systemd-timers/",
+    "title": "Replacing Cron Jobs With systemd Timers",
+    "tags": [
+      "terminal",
+      "unix"
+    ],
+    "date": "2021-11-15T11:03:00Z"
+  },
+  {
+    "url": "https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/",
+    "title": "My Business Card Runs Linux",
+    "tags": [
+      "fun"
+    ],
+    "date": "2021-11-15T11:02:03Z"
+  },
+  {
+    "url": "https://wttr.in",
+    "title": "wttr.in",
+    "description": "Weather in the terminal, optionally in a specific city, or post code:\r\n\r\n```text\r\ncurl wttr.in[/$CITY]\r\n```",
+    "notes": "Weather in the terminal, optionally in a specific city, or post code:\r\n\r\n```text\r\ncurl wttr.in[/$CITY]\r\n```",
+    "tags": [
+      "curl",
+      "software",
+      "terminal",
+      "tip"
+    ],
+    "date": "2020-01-20T22:13:42Z"
+  }
+]

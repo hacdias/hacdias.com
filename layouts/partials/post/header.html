@@ -1,8 +1,6 @@
 {{- with .Page }}
   {{- if .Params.reply }}
     {{- partial "post/header/embedded" . }}
-  {{- else if .Params.bookmark }}
-    {{- partial "post/header/bookmark" . }}
   {{- else if .Params.read }}
     {{- partial "post/header/read" . }}
   {{- else if .Title }}
