@@ -25,7 +25,7 @@ For the sake of clarity, here are the features/things I want to implement/change
 1. **Dashboard** that allows me to...
 	- create, update and delete posts. With this, I would remove my Micropub endpoint. Right now, it is a bit of an hassle to transform between the Micropub format to the internal format and vice-versa. More than that: I don't even support all the features I would like to.
 	- approve comments dynamically.
-2. **Webmentions** would still be available but there would be a native comments box on the bottom of each page, where everyone could leave their own comment without relying on [commentpara.de](commentpara.de).
+2. **Webmentions** would still be available but there would be a native comments box on the bottom of each page, where everyone could leave their own comment without relying on [commentpara.de](https://commentpara.de).
 3. Improve the current **search** functionality. Currently, I support full text search but it is a bit cumbersome and hidden.
 4. Revive the **bookmarks** section!
 5. Stop relying on GoodReads for my **reading** section and make every reading activity an actual post.
