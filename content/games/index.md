@@ -25,4 +25,3 @@ I must say that the PSP served me well during its life-time. At some point, it s
 <!-- - **Ratchet and Clank: Size Matters** - one of my favorite games ever according to my memory. I don’t think I ever completed the game but I had surely had a lot of fun playing it.  -->
 
 {{< games >}}
-
