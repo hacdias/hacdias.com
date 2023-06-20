@@ -1,21 +1,24 @@
 {{ range .Site.Data.bookmarks }}
-<div class='card'>
-  <div class='box'>
-    🔖 <strong><a href="{{ .url }}">{{- .title -}}</a></strong>
-  </div>
-  <div class='copy'>
-    {{- .description | $.Page.RenderString (dict "display" "block" ) -}}
-  </div>
-  <footer>
-    <p>
-      <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}'>
-        Published on {{ dateFormat  "02 Jan 2006 15:04 MST" .date }}
-      </time>
+  {{ $id := dateFormat "2006-01-02T150405" .date }}
+  <div class='card' id='{{ $id }}'>
+    <div class='box'>
+      🔖 <strong><a href="{{ .url }}">{{- .title -}}</a></strong>
+    </div>
+    <div class='copy'>
+      {{- .description | $.Page.RenderString (dict "display" "block" ) -}}
+    </div>
+    <footer>
+      <p>
+        <a href='#{{ $id }}' class='nl'>
+          <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}'>
+            Bookmarked on {{ dateFormat  "02 Jan 2006 15:04 MST" .date }}
+          </time>
+        </a>
 
-      {{ range .tags -}}
-        <span class="tag">{{ . }}</span>
-      {{ end -}}
-    </p>
-  </footer>
-</div>
+        {{ range .tags -}}
+          <span class="tag">{{ . }}</span>
+        {{ end -}}
+      </p>
+    </footer>
+  </div>
 {{ end }}
