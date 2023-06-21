@@ -2,6 +2,8 @@
 description: Replied to a post on twitter.com
 date: 2022-06-02T10:45:41.525832897+02:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43244
   longitude: 5.48609

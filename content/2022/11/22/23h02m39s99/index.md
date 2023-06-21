@@ -3,6 +3,8 @@ description: Replied to a post on hacdias.com
 date: 2022-11-22T23:02:39.999635666+01:00
 lastmod: 2022-11-22T23:28:21.209457331+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.4325
   longitude: 5.48601

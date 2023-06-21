@@ -2,6 +2,8 @@
 description: Replied to a post on jan.boddez.net
 date: 2020-10-12T13:55:55Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan Boddez
   url: https://jan.boddez.net/notes/b0a62edbe0

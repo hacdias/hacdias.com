@@ -6,6 +6,8 @@ tags:
 - maps
 - software
 - gps
+categories:
+- notes
 context:
   name: Aaron Parecki
   url: https://aaronparecki.com/2020/01/22/1/

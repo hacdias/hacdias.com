@@ -2,6 +2,8 @@
 description: Replied to a post on twitter.com
 date: 2020-01-09T19:06:41.651Z
 noIndex: true
+categories:
+- notes
 context:
   name: "\U0001F9D7‍♂️ Matt Holt"
   url: https://twitter.com/mholt6/status/1215339799839510530

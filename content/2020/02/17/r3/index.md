@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2020-02-17T21:22:26.584Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/02/opinions-change

@@ -5,6 +5,8 @@ noIndex: true
 tags:
 - git
 - self-hosting
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2022/08/2022-08-21-mxdeo

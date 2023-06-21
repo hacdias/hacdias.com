@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2022-04-01T09:30:02.936388977+02:00
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2022/04/2022-04-01-fgdqj

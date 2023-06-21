@@ -2,6 +2,8 @@
 description: Replied to a post on twitter.com
 date: 2020-09-26T09:39:30.142Z
 noIndex: true
+categories:
+- notes
 context:
   name: Evanson Mwangi
   url: https://twitter.com/the_basebandit/status/1309759820300419073

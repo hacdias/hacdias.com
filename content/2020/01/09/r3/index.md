@@ -2,6 +2,8 @@
 description: Replied to a post on twitter.com
 date: 2020-01-09T19:25:01.803Z
 noIndex: true
+categories:
+- notes
 context:
   name: Yusuf Adeyemo
   url: https://twitter.com/Yusadolat/status/1215337173182042113

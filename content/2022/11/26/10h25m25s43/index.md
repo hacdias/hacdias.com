@@ -3,6 +3,8 @@ description: Replied to a post on jan.boddez.net
 date: 2022-11-26T10:25:25.438422668+01:00
 lastmod: 2022-11-26T10:53:57.826760607+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43921
   longitude: 5.45587

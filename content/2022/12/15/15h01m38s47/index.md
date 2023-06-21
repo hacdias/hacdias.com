@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2022-12-15T15:01:38.47022413+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.44448
   longitude: 5.45995

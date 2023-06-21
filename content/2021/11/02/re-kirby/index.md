@@ -2,6 +2,8 @@
 description: Replied to a post on commentpara.de
 date: 2021-11-02T13:00:28.97261845Z
 noIndex: true
+categories:
+- notes
 context:
   name: Robert
   url: https://commentpara.de/comment/919.htm

@@ -2,6 +2,8 @@
 description: Replied to a post on commentpara.de
 date: 2022-01-24T07:14:22.237962617Z
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43246
   longitude: 5.48609

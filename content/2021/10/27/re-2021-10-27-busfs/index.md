@@ -5,6 +5,8 @@ lastmod: 2021-10-27T08:37:23.240873987Z
 noIndex: true
 tags:
 - meta
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/10/2021-10-27-busfs

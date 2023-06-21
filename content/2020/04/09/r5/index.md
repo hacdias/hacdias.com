@@ -2,6 +2,8 @@
 description: Replied to a post on seblog.nl
 date: 2020-04-09T08:34:32.149Z
 noIndex: true
+categories:
+- notes
 context:
   name: Sebastiaan Andeweg
   url: https://seblog.nl/2020/04/09/2/reply

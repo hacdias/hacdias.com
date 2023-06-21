@@ -2,6 +2,8 @@
 description: Replied to a post on commentpara.de
 date: 2022-01-30T08:37:12.990336395+01:00
 noIndex: true
+categories:
+- notes
 context:
   name: Anonymous
   url: https://commentpara.de/comment/955.htm

@@ -4,6 +4,8 @@ date: 2020-05-10T22:38:22.439Z
 noIndex: true
 tags:
 - dht
+categories:
+- notes
 context:
   name: "Mathias Buus \U0001F573\U0001F94A"
   url: https://twitter.com/mafintosh/status/1259596991857930243

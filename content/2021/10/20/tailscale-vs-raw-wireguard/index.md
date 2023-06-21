@@ -6,6 +6,8 @@ noIndex: true
 tags:
 - networking
 - security
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/10/2021-10-20-lhigd

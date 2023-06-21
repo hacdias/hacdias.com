@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-09-24T09:40:38+02:00
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/09/2021-09-24-bjucw

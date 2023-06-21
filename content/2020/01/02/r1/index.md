@@ -2,6 +2,8 @@
 description: Replied to a post on hacdias.com
 date: 2020-01-02T23:45:24.733Z
 noIndex: true
+categories:
+- notes
 context:
   name: Henrique Dias
   url: https://hacdias.com/2020/01/02/dynamic-static

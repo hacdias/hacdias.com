@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-11-02T12:58:29.448938323Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/11/2021-11-01-vxoia

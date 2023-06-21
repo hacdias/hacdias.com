@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-11-19T12:25:22.520488177Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/11/2021-11-19-almsd

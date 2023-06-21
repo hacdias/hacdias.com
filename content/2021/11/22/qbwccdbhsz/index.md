@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-11-22T21:23:43.490499725Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/11/stamen-toner

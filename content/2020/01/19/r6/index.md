@@ -6,6 +6,8 @@ tags:
 - music
 - spotify
 - software
+categories:
+- notes
 context:
   name: Miguel Regouga
   url: https://twitter.com/regouga/status/1219029693455917056

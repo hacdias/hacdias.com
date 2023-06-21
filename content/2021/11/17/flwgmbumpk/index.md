@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-11-17T21:25:07.764318042Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/appydroid/remove-bloatware

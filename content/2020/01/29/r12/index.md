@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2020-01-29T12:34:31.628Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/01/fachinformatiker

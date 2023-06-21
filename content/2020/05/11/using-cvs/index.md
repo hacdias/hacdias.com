@@ -6,6 +6,8 @@ tags:
 - cvs
 - git
 - tools
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/05/git-is-great

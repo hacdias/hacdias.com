@@ -4,6 +4,8 @@ date: 2020-07-01T06:36:39.609Z
 noIndex: true
 tags:
 - meta
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/06/blogging-german

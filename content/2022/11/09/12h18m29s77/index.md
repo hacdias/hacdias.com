@@ -2,6 +2,8 @@
 description: Replied to a post on www.zylstra.org
 date: 2022-11-09T12:18:29.776603436+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43243
   longitude: 5.48613

@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2020-01-28T13:30:57.532Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/01/2020-01-28-ohlec

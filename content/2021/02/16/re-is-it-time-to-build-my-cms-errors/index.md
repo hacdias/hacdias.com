@@ -2,6 +2,8 @@
 description: Replied to a post on ybbond.id
 date: 2021-02-16T20:21:25.185559963Z
 noIndex: true
+categories:
+- notes
 context:
   name: In response to «Is it time to build my own CMS?» by «Henrique Dias»
   url: https://ybbond.id/responses/response-20210217025510/

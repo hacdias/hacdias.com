@@ -2,6 +2,8 @@
 description: Replied to a post on kandr3s.co
 date: 2022-08-16T11:49:37.339039919+02:00
 noIndex: true
+categories:
+- notes
 context:
   name: '@kandr3s online base'
   url: https://kandr3s.co/notes/2022-08-16-lpyvk

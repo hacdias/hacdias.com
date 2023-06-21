@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-11-20T17:39:14.804264871Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/posts/bahn2gpx

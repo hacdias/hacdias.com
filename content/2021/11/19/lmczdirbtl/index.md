@@ -2,6 +2,8 @@
 description: Replied to a post on micro.blog
 date: 2021-11-19T14:39:56.424372422Z
 noIndex: true
+categories:
+- notes
 context:
   name: agilelisa
   url: https://micro.blog/agilelisa/12178945

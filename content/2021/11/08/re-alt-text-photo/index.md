@@ -2,6 +2,8 @@
 description: Replied to a post on aaronparecki.com
 date: 2021-11-08T17:26:54.126016441Z
 noIndex: true
+categories:
+- notes
 context:
   name: Aaron Parecki
   url: https://aaronparecki.com/2017/02/25/9/day-67-image-alt-text

@@ -2,6 +2,8 @@
 description: Replied to a post on kandr3s.co
 date: 2022-08-15T11:05:29.413372618+02:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43245
   longitude: 5.48633

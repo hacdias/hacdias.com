@@ -2,6 +2,8 @@
 description: Replied to a post on aaronparecki.com
 date: 2021-11-08T17:33:01.39556185Z
 noIndex: true
+categories:
+- notes
 context:
   name: Aaron Parecki
   url: https://aaronparecki.com/2021/11/08/32/
