@@ -3,6 +3,10 @@
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <meta name='theme-color' content='#fbfbfb'>
 
+{{ with .File }}
+  <meta name='hugo-path' content='{{ .Path }}'>
+{{ end }}
+
 {{- $textExcerpt := .Summary | plainify }}
 {{- $textTitle := or (partialCached "fns/title" . .Title .Data.Singular) .Description }}
 {{- if not $textTitle }}
