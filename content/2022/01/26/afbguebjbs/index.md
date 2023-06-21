@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on twitter.com
 date: 2022-01-26T08:44:08.280630885Z
+expiryDate: 2023-06-21T07:53:10.207829+02:00
 noIndex: true
 categories:
 - notes
