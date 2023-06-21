@@ -23,3 +23,17 @@
   width: auto !important;
   display: inline !important;
 }
+
+.eagle-guestbook {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.eagle-guestbook > form:first-of-type {
+  margin-right: 1rem;
+}
+
+.eagle-guestbook > form:first-of-type button {
+  background: red;
+  border-color: red;
+}
