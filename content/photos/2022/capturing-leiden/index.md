@@ -2,12 +2,6 @@
 title: Capturing Leiden
 date: 2022-10-19T11:46:09.317883773+02:00
 coverImage: cdn:/8f46b5bce26511483362abe3cf5990d03dc34193fd52c40dd965dcb1a1cd52f8
-location:
-  latitude: 51.43244
-  longitude: 5.4861
-  locality: Eindhoven
-  region: North Brabant
-  country: Netherlands
 syndications:
 - https://www.instagram.com/p/Cj5DHBpIARA/?igshid=MDJmNzVkMjY
 ---

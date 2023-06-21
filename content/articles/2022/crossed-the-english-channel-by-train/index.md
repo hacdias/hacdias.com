@@ -1,12 +1,6 @@
 ---
 title: Crossed the English Channel by Train
 date: 2022-04-27T08:05:49.471903093+02:00
-location:
-  latitude: 51.43242
-  longitude: 5.48612
-  locality: Eindhoven
-  region: North Brabant
-  country: Netherlands
 ---
 
 Now that I've crossed the English Channel (or _Canal da Mancha_, in Portuguese) by train twice, I must say that it was a very nice experience. From Rotterdam to London, it takes approximately 3h30m, including a ~30 minutes stop in Brussels.
