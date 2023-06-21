@@ -1,5 +1,6 @@
 ---
 date: 2020-06-01T08:21:38.129Z
+expiryDate: 2023-06-21T07:54:16.900217+02:00
 tags:
 - pride
 categories:
