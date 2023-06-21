@@ -33,9 +33,9 @@ noIndex: true
       </div>
     </eagle-search-result>
     <eagle-search-pagination>
-      <nav style="display: flex;">
-        <a class="eagle-prev" href="<eagle>" style="margin-right: auto;">← Previous</a>
-        <a class="eagle-next" href="<eagle>" style="margin-left: auto;">Next →</a>
+      <nav class="pagination">
+        <a aria-label="Previous" href="<eagle>" class="page-link eagle-prev" role="button"><span aria-hidden="true">&laquo; Previous</span></a>
+        <a aria-label="Next" href="<eagle>" class="page-link eagle-next" role="button"><span aria-hidden="true">Next &raquo;</span></a>
       </nav>
     </eagle-search-pagination>
   </eagle-search-results>
