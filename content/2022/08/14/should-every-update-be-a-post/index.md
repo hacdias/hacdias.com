@@ -12,7 +12,7 @@ Today I had a bit too much time that I decided to work on my website. In the mor
 
 <!--more-->
 
-After that, I looked back at some posts, specifically the one that [discusses](/2022/06/09/igackzpsqy) about how to categorize the content. Not only how to categorize the content is a question on it itself, but also _should every update or bit of information be its own post?_ In this long-form article, I will discuss how the content is categorized in this website right now, and what might be improved.
+After that, I looked back at some posts, specifically the one that discusses about how to categorize the content. Not only how to categorize the content is a question on it itself, but also _should every update or bit of information be its own post?_ In this long-form article, I will discuss how the content is categorized in this website right now, and what might be improved.
 
 ### 🪁 The Categories {#categories}
 

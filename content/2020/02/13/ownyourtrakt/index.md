@@ -41,4 +41,4 @@ There's no official way to render watches as microformats so I just decided to g
 </p>
 ```
 
-~~You can see my watch log at /watches!~~ Please check [this post](/2020/02/17/removed-watches-checkins) to know why I changed my mind.
+You can see my watch log in my [Watches](/watches) page!
