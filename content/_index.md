@@ -15,7 +15,7 @@ favoritePosts:
 
 <div class='h-card' hidden>
   <a href='https://hacdias.com/' class='u-uid u-url p-name'>Henrique Dias</a>
-  <a class='u-photo' href='https://hacdias.com/profile/2022-03-26/me-256.jpg'>(Photo)</data>
+  <a class='u-photo' href='https://hacdias.com/avatar/256.jpg'>(Photo)</data>
   <a href='mailto:mail@hacdias.com' rel='me" class='u-email'>mail@hacdias.com</a>
   <a class='u-key' href='{{ absURL "/pubkey.asc" }}'>PGP key</a>
 </div>
