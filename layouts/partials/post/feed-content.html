@@ -1,5 +1,0 @@
-{{- if .Params.reply -}}
-  <p><em>Replied to <a href="{{ .Params.reply }}">{{ .Params.reply }}</a></em></p>
-{{- end }}
-
-{{- partialCached "post/content" . .Permalink -}}
