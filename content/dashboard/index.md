@@ -52,3 +52,7 @@ layout: eagle
 <eagle-token>
   <pre class='eagle-pre'><eagle-token-value></eagle-token-value></pre>
 </eagle-token>
+
+<h2>Guestbook</h2>
+
+<div class="box">🚧 The guestbook administration will be moved here.</div>

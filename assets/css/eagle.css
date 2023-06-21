@@ -23,36 +23,3 @@
   width: auto !important;
   display: inline !important;
 }
-
-.eagle-editor textarea {
-  min-height: 30rem;
-  resize: vertical;
-}
-
-.eagle-editor .cm-editor {
-  border: 1px solid var(--light-white);
-  outline: 0;
-  border-radius: var(--radius);
-  background: var(--white);
-  color: var(--dark-gray);
-  padding: 0.5rem;
-}
-
-.eagle-editor .cm-editor.cm-focused {
-  outline: 0 !important;
-}
-
-.eagle-editor .cm-scroller {
-  font-family: -apple-system,
-    BlinkMacSystemFont,
-    avenir next,
-    avenir,
-    helvetica,
-    helvetica neue,
-    ubuntu,
-    roboto,
-    noto,
-    segoe ui,
-    arial,
-    sans-serif !important;
-}
