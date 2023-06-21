@@ -2,6 +2,7 @@
 description: Replied to a post on hacdias.com
 date: 2022-11-22T23:02:39.999635666+01:00
 lastmod: 2022-11-22T23:28:21.209457331+01:00
+expiryDate: 2023-06-21T07:40:11.438823+02:00
 noIndex: true
 categories:
 - notes

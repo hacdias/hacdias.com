@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
 date: 2022-01-31T17:35:14.531474529+01:00
+expiryDate: 2023-06-21T07:40:11.43862+02:00
 noIndex: true
 categories:
 - notes
