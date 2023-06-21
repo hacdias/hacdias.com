@@ -19,14 +19,6 @@ layout: eagle
   <div class='box'>✅ Success!</div>
 </eagle-action-success>
 
-<h2>Drafts</h2>
-
-<ul>
-  <eagle-drafts>
-    <eagle-draft><li><a href=""></a></li></eagle-draft>
-  </eagle-drafts>
-</ul>
-
 <h2>Upload File</h2>
 
 <form id='upload' method='post' class='block-form' enctype='multipart/form-data'>
