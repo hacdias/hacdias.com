@@ -1,5 +1,6 @@
 ---
 date: 2020-03-25T17:25:06.51Z
+expiryDate: 2023-06-21T08:56:18.657335+02:00
 tags:
 - portugal
 - student

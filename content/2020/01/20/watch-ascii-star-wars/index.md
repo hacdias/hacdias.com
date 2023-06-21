@@ -1,4 +1,5 @@
 ---
+title: Watch ASCII Star Wars
 date: 2020-01-20T22:23:22.202Z
 tags:
 - terminal

@@ -1,5 +1,6 @@
 ---
 date: 2020-01-25T15:39:17.084Z
+expiryDate: 2023-06-21T08:49:22.154043+02:00
 tags:
 - indieweb
 - webmentions

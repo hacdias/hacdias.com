@@ -1,6 +1,7 @@
 ---
 description: At Genneper Parken
 date: 2022-08-09T18:20:17+02:00
+expiryDate: 2023-06-21T09:07:07.574445+02:00
 coverImage: cdn:/700b741c315470f4f4dded1c249bb288f9218abd65f0be8752db782066cfc860
 categories:
 - notes

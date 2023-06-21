@@ -1,5 +1,6 @@
 ---
 date: 2020-06-30T19:59:59.922Z
+expiryDate: 2023-06-21T08:57:11.410476+02:00
 tags:
 - life
 categories:

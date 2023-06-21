@@ -1,5 +1,6 @@
 ---
 date: 2022-12-07T11:34:07.632083425+01:00
+expiryDate: 2023-06-21T08:55:08.852014+02:00
 coverImage: cdn:/d3fcc853c6d6b773cb55b96b6aad7972c2686011423ecb4b7f539c39c3ec06d8
 categories:
 - notes

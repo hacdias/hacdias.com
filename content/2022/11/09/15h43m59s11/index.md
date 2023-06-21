@@ -1,5 +1,6 @@
 ---
 date: 2022-11-09T15:43:59.118854045+01:00
+expiryDate: 2023-06-21T09:08:13.96365+02:00
 tags:
 - activitypub
 categories:
