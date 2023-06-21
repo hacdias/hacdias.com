@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
 date: 2020-01-19T19:36:11.549Z
+expiryDate: 2023-06-21T08:02:05.501602+02:00
 noIndex: true
 tags:
 - software

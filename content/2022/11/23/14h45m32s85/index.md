@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on geekcompass.com
 date: 2022-11-23T14:45:32.857502702+01:00
+expiryDate: 2023-06-21T08:03:10.084045+02:00
 noIndex: true
 categories:
 - notes

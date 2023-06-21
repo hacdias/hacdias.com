@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
 date: 2022-08-21T19:24:25.974104254+02:00
+expiryDate: 2023-06-21T08:03:10.08268+02:00
 noIndex: true
 tags:
 - git

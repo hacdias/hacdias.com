@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
 date: 2020-01-22T09:20:22.592Z
+expiryDate: 2023-06-21T08:03:10.07264+02:00
 noIndex: true
 tags:
 - security

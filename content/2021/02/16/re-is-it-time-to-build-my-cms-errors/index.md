@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on ybbond.id
 date: 2021-02-16T20:21:25.185559963Z
+expiryDate: 2023-06-21T08:03:10.077214+02:00
 noIndex: true
 categories:
 - notes

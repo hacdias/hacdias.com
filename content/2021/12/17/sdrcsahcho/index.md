@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on micro.blog
 date: 2021-12-17T15:44:32.836442167Z
+expiryDate: 2023-06-21T08:03:10.080298+02:00
 noIndex: true
 categories:
 - notes

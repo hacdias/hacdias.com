@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
 date: 2020-05-11T14:21:45.769Z
+expiryDate: 2023-06-21T08:03:10.075851+02:00
 noIndex: true
 tags:
 - cvs

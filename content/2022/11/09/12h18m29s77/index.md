@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on www.zylstra.org
 date: 2022-11-09T12:18:29.776603436+01:00
+expiryDate: 2023-06-21T08:03:10.082884+02:00
 noIndex: true
 categories:
 - notes

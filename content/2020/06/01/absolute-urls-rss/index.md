@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
 date: 2020-06-01T18:44:39.02Z
+expiryDate: 2023-06-21T08:03:10.075952+02:00
 noIndex: true
 tags:
 - meta

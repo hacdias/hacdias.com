@@ -2,6 +2,7 @@
 description: Replied to a post on jlelse.blog
 date: 2021-10-27T08:31:19.327263174Z
 lastmod: 2021-10-27T08:37:23.240873987Z
+expiryDate: 2023-06-21T08:03:10.078267+02:00
 noIndex: true
 tags:
 - meta

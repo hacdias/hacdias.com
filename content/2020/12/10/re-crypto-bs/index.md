@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
 date: 2020-12-10T07:13:00Z
+expiryDate: 2023-06-21T08:03:10.077042+02:00
 noIndex: true
 tags:
 - blockchain

@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jan.boddez.net
 date: 2022-02-18T08:59:36.99403712+01:00
+expiryDate: 2023-06-21T08:03:10.080738+02:00
 noIndex: true
 categories:
 - notes

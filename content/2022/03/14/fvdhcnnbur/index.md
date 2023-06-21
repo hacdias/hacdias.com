@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on rusingh.com
 date: 2022-03-14T07:41:13.940614796+01:00
+expiryDate: 2023-06-21T08:03:10.081118+02:00
 noIndex: true
 tags:
 - email

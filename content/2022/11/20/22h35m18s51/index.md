@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on fosstodon.org
 date: 2022-11-20T22:35:18.512312994+01:00
+expiryDate: 2023-06-21T08:03:10.083388+02:00
 noIndex: true
 categories:
 - notes
