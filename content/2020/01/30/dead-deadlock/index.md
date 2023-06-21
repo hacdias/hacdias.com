@@ -1,6 +1,7 @@
 ---
 date: 2020-01-30T23:40:31.938Z
 lastmod: 2020-01-30T23:45:37.147Z
+expiryDate: 2023-06-21T08:49:41.728431+02:00
 tags:
 - meta
 categories:

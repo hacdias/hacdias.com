@@ -1,5 +1,6 @@
 ---
 date: 2020-03-01T13:25:34.893Z
+expiryDate: 2023-06-21T08:50:03.599918+02:00
 tags:
 - activitypub
 - meta

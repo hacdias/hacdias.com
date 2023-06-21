@@ -1,5 +1,6 @@
 ---
 date: 2020-01-19T19:28:27.38Z
+expiryDate: 2023-06-21T08:48:22.117053+02:00
 tags:
 - webmentions
 - meta

@@ -1,5 +1,6 @@
 ---
 date: 2021-11-08T11:25:40.779888321Z
+expiryDate: 2023-06-21T09:01:15.261702+02:00
 tags:
 - meta
 categories:

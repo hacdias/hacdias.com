@@ -1,5 +1,6 @@
 ---
 date: 2021-04-16T08:48:41.183502017Z
+expiryDate: 2023-06-21T08:59:20.720852+02:00
 tags:
 - activitypub
 - indieweb

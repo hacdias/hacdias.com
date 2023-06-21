@@ -1,4 +1,5 @@
 ---
+title: Albert Heijn Now Accepts Mastercard and Visa
 date: 2023-01-08T09:49:46.230635041+01:00
 categories:
 - notes

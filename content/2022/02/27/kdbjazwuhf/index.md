@@ -1,6 +1,7 @@
 ---
 description: At Het Spoorwegmuseum
 date: 2022-02-27T11:04:05+01:00
+expiryDate: 2023-06-21T09:04:41.915486+02:00
 coverImage: cdn:/1437480effb2ed70f1d5e20c661d8a3bdc5d8156e1d72fcbaeec41ef37c3740f
 categories:
 - notes

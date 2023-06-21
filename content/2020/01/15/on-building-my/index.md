@@ -1,5 +1,6 @@
 ---
 date: 2020-01-15T09:16:15.422Z
+expiryDate: 2023-06-21T08:48:09.287803+02:00
 tags:
 - meta
 - indieweb

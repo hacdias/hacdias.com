@@ -1,6 +1,7 @@
 ---
 date: 2020-10-14T16:04:13Z
 lastmod: 2020-10-14T17:04:13Z
+expiryDate: 2023-06-21T08:58:17.69419+02:00
 categories:
 - notes
 ---

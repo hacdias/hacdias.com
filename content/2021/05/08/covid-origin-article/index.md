@@ -1,5 +1,6 @@
 ---
 date: 2021-05-08T11:21:08.202021975Z
+expiryDate: 2023-06-21T08:59:38.992118+02:00
 tags:
 - covid19
 categories:

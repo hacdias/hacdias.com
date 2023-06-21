@@ -1,5 +1,6 @@
 ---
 date: 2020-10-12T10:29:44Z
+expiryDate: 2023-06-21T08:58:09.544243+02:00
 categories:
 - notes
 ---

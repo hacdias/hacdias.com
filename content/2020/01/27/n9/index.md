@@ -1,5 +1,6 @@
 ---
 date: 2020-01-27T23:32:49.353Z
+expiryDate: 2023-06-21T08:49:37.230335+02:00
 tags:
 - personal
 - time
