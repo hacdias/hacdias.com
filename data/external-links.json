@@ -1,425 +1,7 @@
 [
   {
-    "domain": "jlelse.blog",
-    "count": 103,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/19/n1/",
-        "targetUrl": "https://jlelse.blog/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/19/r4/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/01/optimizing-software/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/19/r4/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/01/optimizing-software"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/21/n6/",
-        "targetUrl": "https://jlelse.blog"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/22/r7/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/01/security-risk-embedding/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/22/r7/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/01/security-risk-embedding"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/22/r8/",
-        "targetUrl": "https://jlelse.blog/micro/2020/01/2020-01-22-fryan/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/22/r8/",
-        "targetUrl": "https://jlelse.blog/micro/2020/01/2020-01-22-fryan"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/25/improvements/",
-        "targetUrl": "https://jlelse.blog/more/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/28/r11/",
-        "targetUrl": "https://jlelse.blog/micro/2020/01/2020-01-28-ohlec/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/28/r11/",
-        "targetUrl": "https://jlelse.blog/micro/2020/01/2020-01-28-ohlec"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/29/r12/",
-        "targetUrl": "https://jlelse.blog/micro/2020/01/fachinformatiker/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/29/r12/",
-        "targetUrl": "https://jlelse.blog/micro/2020/01/fachinformatiker"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/30/r14/",
-        "targetUrl": "https://jlelse.blog/links/2020/01/whatsapp-dangerous/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/30/r14/",
-        "targetUrl": "https://jlelse.blog/links/2020/01/whatsapp-dangerous"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/30/r15/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/01/telegram-features/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/30/r15/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/01/telegram-features"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/01/media-endpoint/",
-        "targetUrl": "https://jlelse.blog/micro/2020/01/2020-01-01-frviz/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/10/r1/",
-        "targetUrl": "https://jlelse.blog/micro/2020/02/2020-02-07-jvwap/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/10/r1/",
-        "targetUrl": "https://jlelse.blog/micro/2020/02/2020-02-07-jvwap"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/11/r2/",
-        "targetUrl": "https://jlelse.blog/dev/activitystreams-hugo/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/11/r2/",
-        "targetUrl": "https://jlelse.blog/dev/activitystreams-hugo"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/16/caddy-redirects/",
-        "targetUrl": "https://jlelse.blog/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/17/r3/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/02/opinions-change/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/17/r3/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/02/opinions-change"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/24/r4/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/02/twitter-brands/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/24/r4/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/02/twitter-brands"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/26/r5/",
-        "targetUrl": "https://jlelse.blog/micro/2020/02/2020-02-26-maakb/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/26/r5/",
-        "targetUrl": "https://jlelse.blog/micro/2020/02/2020-02-26-maakb"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/02/n2/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/03/back-to-study/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/06/image-hosting-thoughts/",
-        "targetUrl": "https://jlelse.blog/micro/2020/03/photos-workflow/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/06/image-hosting-thoughts/",
-        "targetUrl": "https://jlelse.blog/micro/2020/03/photos-workflow"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/24/r4/",
-        "targetUrl": "https://jlelse.blog/micro/2020/03/lifethroughlenses/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/24/r4/",
-        "targetUrl": "https://jlelse.blog/micro/2020/03/lifethroughlenses"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/25/remote-desk/",
-        "targetUrl": "https://jlelse.blog/micro/2020/03/my-desk/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/25/remote-desk/",
-        "targetUrl": "https://jlelse.blog/micro/2020/03/my-desk"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/06/r1/",
-        "targetUrl": "https://jlelse.blog/micro/2020/04/regex101/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/06/r1/",
-        "targetUrl": "https://jlelse.blog/micro/2020/04/regex101"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/08/r3/",
-        "targetUrl": "https://jlelse.blog/micro/2020/04/study-emails/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/08/r3/",
-        "targetUrl": "https://jlelse.blog/micro/2020/04/study-emails"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/13/r6/",
-        "targetUrl": "https://jlelse.blog/links/2020/04/eleventy/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/13/r6/",
-        "targetUrl": "https://jlelse.blog/links/2020/04/eleventy"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/11/using-cvs/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/05/git-is-great/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/11/using-cvs/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/05/git-is-great"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/13/ton-is-over/",
-        "targetUrl": "https://jlelse.blog/links/2020/05/ton-cancelled/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/13/ton-is-over/",
-        "targetUrl": "https://jlelse.blog/links/2020/05/ton-cancelled"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/14/using-dnscontrol-and-stow/",
-        "targetUrl": "https://jlelse.blog/links/2020/05/dnscontrol/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/06/01/absolute-urls-rss/",
-        "targetUrl": "https://jlelse.blog/micro/2020/06/relative-links-hugo-rss/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/06/01/absolute-urls-rss/",
-        "targetUrl": "https://jlelse.blog/micro/2020/06/relative-links-hugo-rss"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/06/01/lobsters/",
-        "targetUrl": "https://jlelse.blog/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/06/01/thanks-jlelse-90s/",
-        "targetUrl": "https://jlelse.blog/micro/2020/06/90s-web/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/06/01/thanks-jlelse-90s/",
-        "targetUrl": "https://jlelse.blog/micro/2020/06/90s-web"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/07/01/english-vs-portuguese/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/06/blogging-german/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/07/01/english-vs-portuguese/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/06/blogging-german"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/07/18/removed-activitypub/",
-        "targetUrl": "https://jlelse.blog/micro/2020/07/webmentiond/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/14/activitypub-struggle-httpsign/",
-        "targetUrl": "https://jlelse.blog"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/12/10/re-crypto-bs/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/12/crypto-bs"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/07/own-cms"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/07/happy-birthday-jlelse/",
-        "targetUrl": "https://jlelse.blog/micro/2021/05/2021-05-07-nymlb"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/21/re-marked-text/",
-        "targetUrl": "https://jlelse.blog/micro/2021/05/2021-05-20-btvks"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/09/24/re-jlelse-caddy-redirect/",
-        "targetUrl": "https://jlelse.blog/micro/2021/09/2021-09-24-bjucw"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/20/re-tailscale-vs-raw-wireguard/",
-        "targetUrl": "https://jlelse.blog/micro/2021/10/2021-10-20-uwmdk"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/20/tailscale-vs-raw-wireguard/",
-        "targetUrl": "https://jlelse.blog/micro/2021/10/2021-10-20-lhigd"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/25/new-eagle-look/",
-        "targetUrl": "https://jlelse.blog/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/27/re-2021-10-27-busfs/",
-        "targetUrl": "https://jlelse.blog/micro/2021/10/2021-10-27-busfs"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/02/re-live-edit/",
-        "targetUrl": "https://jlelse.blog/micro/2021/11/2021-11-01-vxoia"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/10/re-gpx-tracks/",
-        "targetUrl": "https://jlelse.blog/thoughts/2021/11/gpx-tracks"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/16/jmeqbzfusb/",
-        "targetUrl": "https://jlelse.blog/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/16/xzwaxxjuvc/",
-        "targetUrl": "https://jlelse.blog/thoughts/2021/11/unlimited-data"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/17/flwgmbumpk/",
-        "targetUrl": "https://jlelse.blog/appydroid/remove-bloatware"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/19/ntjicveqve/",
-        "targetUrl": "https://jlelse.blog/micro/2021/11/2021-11-19-almsd"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/20/annoying-dutch-banks/",
-        "targetUrl": "https://jlelse.blog/micro/2021/11/2021-11-20-gmjlb"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/20/fycwcmybva/",
-        "targetUrl": "https://jlelse.blog/posts/bahn2gpx"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/22/qbwccdbhsz/",
-        "targetUrl": "https://jlelse.blog/micro/2021/11/stamen-toner"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/09/web3-is-not-just-crypto/",
-        "targetUrl": "https://jlelse.blog/links/2021/12/real-web3"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/31/qlifmqksoe/",
-        "targetUrl": "https://jlelse.blog/micro/2021/12/2021-12-31-berql"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/15/udncyjyriq/",
-        "targetUrl": "https://jlelse.blog/micro/2022/01/2022-01-15-gmwvj"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/12/qjcwwjqzuz/",
-        "targetUrl": "https://jlelse.blog/micro/2022/03/2022-03-11-rorfe"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/19/cpxwhpbznk/",
-        "targetUrl": "https://jlelse.blog/micro/2022/03/2022-03-19-xanxb"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/19/juparcjltb/",
-        "targetUrl": "https://jlelse.blog/micro/2022/03/2022-03-18-icwbz"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/04/01/mtqpcdpfkf/",
-        "targetUrl": "https://jlelse.blog/micro/2022/04/2022-04-01-fgdqj"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/15/uofkasxwlt/",
-        "targetUrl": "https://jlelse.blog/micro/2022/06/2022-06-15-xlwja"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/19/luyumjshzj/",
-        "targetUrl": "https://jlelse.blog/micro/2022/06/2022-06-19-qirwc"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/20/ypshcrpqhv/",
-        "targetUrl": "https://jlelse.blog/micro/2022/06/2022-06-20-duavy"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/14/bsxtksxyal/",
-        "targetUrl": "https://jlelse.blog/micro/2022/08/2022-08-14-nztyu"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
-        "targetUrl": "https://jlelse.blog/map"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/21/qtqmcqlnmb/",
-        "targetUrl": "https://jlelse.blog/micro/2022/08/2022-08-21-znace"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/21/zkjsrocgps/",
-        "targetUrl": "https://jlelse.blog/micro/2022/08/2022-08-21-mxdeo"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/24/guabgowfvc/",
-        "targetUrl": "https://jlelse.blog/micro/2022/08/2022-08-24-rjutc"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/28/10h34m54s87/",
-        "targetUrl": "https://jlelse.blog/links/2022/11/dump-twitter-card-tags"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/04/15h17m40s84/",
-        "targetUrl": "https://jlelse.blog/micro/2022/12/2022-12-04-lizpl"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/14/19h01m41s85/",
-        "targetUrl": "https://jlelse.blog/micro/2022/12/2022-12-14-lsksp"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/15/14h43m13s89/",
-        "targetUrl": "https://jlelse.blog/micro/2022/12/2022-12-15-yzpzw"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/15/14h54m29s91/",
-        "targetUrl": "https://jlelse.blog/micro/2022/12/2022-12-15-vyyit"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/15/15h01m38s47/",
-        "targetUrl": "https://jlelse.blog/micro/2022/12/2022-12-15-btqwr"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/16/22h11m14s24/",
-        "targetUrl": "https://jlelse.blog/micro/2022/12/2022-12-16-dfqrq"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/19/08h47m52s63/",
-        "targetUrl": "https://jlelse.blog/links/2022/12/airtags-dhl"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/25/20h11m37s32/",
-        "targetUrl": "https://jlelse.blog/micro/2022/12/2022-12-25-ejtxu"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/28/00h29m27s36/",
-        "targetUrl": "https://jlelse.blog/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/20h48m37s14/",
-        "targetUrl": "https://jlelse.blog/posts/2022-review"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/21h14m17s41/",
-        "targetUrl": "https://jlelse.blog/micro/2023/01/2023-01-02-cdhgg"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/10/11h15m30s70/",
-        "targetUrl": "https://jlelse.blog/micro/2023/01/2023-01-10-gvdbv"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/10/11h23m48s47/",
-        "targetUrl": "https://jlelse.blog/micro/2023/01/2023-01-10-yrfgs"
-      }
-    ]
-  },
-  {
     "domain": "github.com",
-    "count": 77,
+    "count": 58,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -514,10 +96,6 @@
         "targetUrl": "https://github.com/w3c/Micropub/issues"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/01/09/bye-filebrowser/",
-        "targetUrl": "https://github.com/filebrowser/filebrowser/issues/532"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
         "targetUrl": "https://github.com/filebrowser/filebrowser/issues/532"
       },
@@ -532,14 +110,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
         "targetUrl": "https://github.com/hacdias/ownyourtrakt#own-your-trakt"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/16/caddy-redirects/",
-        "targetUrl": "https://github.com/gohugoio/hugoDocs/commit/c1ab9894e8292e0a74c43bbca2263b1fb3840f9e"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/17/removed-watches-checkins/",
-        "targetUrl": "https://github.com/hacdias/trakt-collector"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
@@ -558,16 +128,8 @@
         "targetUrl": "https://developer.github.com/webhooks/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/03/01/i-now-have-activitypub/",
-        "targetUrl": "https://github.com/hacdias/eagle/compare/e44bb5f9f78a0d087e0baed223cb98d8324669d2...1ff6b25fa9838e16321517532995ddc160d39494"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
         "targetUrl": "https://github.com/twitter/twemoji"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/07/20/too-many-notes-apps/",
-        "targetUrl": "https://github.com/athensresearch/athens"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
@@ -622,30 +184,6 @@
         "targetUrl": "https://github.com/drduh/YubiKey-Guide"
       },
       {
-        "sourceUrl": "https://hacdias.com/2021/10/25/new-eagle-look/",
-        "targetUrl": "https://github.com/hacdias/eagle"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/25/new-eagle-look/",
-        "targetUrl": "https://github.com/spf13/afero"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/27/re-2021-10-27-busfs/",
-        "targetUrl": "https://github.com/hacdias/eagle/blob/86fb5489e6ee3488692377d74f7fd64493841b32/server/static.go#L76-L102"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/27/routing-through-tailscale/",
-        "targetUrl": "https://github.com/hacdias/eagle/blob/main/server/tailscale.go"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/27/routing-through-tailscale/",
-        "targetUrl": "https://github.com/hacdias/eagle/blob/86fb5489e6ee3488692377d74f7fd64493841b32/server/static.go#L76-L102"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/10/re-gpx-tracks/",
-        "targetUrl": "https://github.com/hacdias/eagle/issues/34"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
         "targetUrl": "https://github.com/yuin/goldmark"
       },
@@ -658,52 +196,20 @@
         "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
       },
       {
-        "sourceUrl": "https://hacdias.com/2021/11/23/new-indieauth/",
-        "targetUrl": "https://github.com/hacdias/indieauth"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/05/ceyyxyudqi/",
+        "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
         "targetUrl": "https://github.com/matrix-org/synapse"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/06/05/ceyyxyudqi/",
+        "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
         "targetUrl": "https://github.com/matrix-org/dendrite"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/21/qtqmcqlnmb/",
-        "targetUrl": "https://github.com/go-gitea/gitea/issues/11028#issuecomment-1018745997"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
         "targetUrl": "https://github.com/hacdias/blocklearning"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/10/08/xxhqefttbi/",
-        "targetUrl": "https://github.com/rxhanson/Rectangle"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/21/20h14m11s57/",
-        "targetUrl": "https://github.com/go-fed/httpsig"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/21/20h14m11s57/",
-        "targetUrl": "https://github.com/go-ap/fedbox/blob/master/activitypub/activitypub.go#L18-L32"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
         "targetUrl": "https://github.com/hacdias/eagle/issues/150"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/28/00h29m27s36/",
-        "targetUrl": "https://github.com/hacdias/eagle"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/09h47m33s86/",
-        "targetUrl": "https://github.com/hacdias/eagle"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/04/09h23m58s31/",
-        "targetUrl": "https://github.com/hacdias/eagle/commit/a6fcc99502c4ceb1ea95ff061e39ad135ec234bb"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/03/26/the-day-i-hacked-my-schools-library-computers/",
@@ -733,7 +239,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 34,
+    "count": 25,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -788,28 +294,12 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Yahoo!_GeoCities"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/01/21/n6/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Glossary_of_blogging"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2020/02/29/notable-to-hugo/",
         "targetUrl": "https://en.wikipedia.org/wiki/Launchd"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/03/02/n2/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Yacc"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/25/student-day/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Academic_Crisis"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2020/05/10/cleaning-up-website/",
         "targetUrl": "https://en.wikipedia.org/wiki/Microblogging"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/11/using-cvs/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Concurrent_Versions_System"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
@@ -820,20 +310,12 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Private_network"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/12/10/re-crypto-bs/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Smart_contract"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
         "targetUrl": "https://en.wikipedia.org/wiki/Serra_da_Estrela"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
         "targetUrl": "https://en.wikipedia.org/wiki/Koch_snowflake"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/09/web3-is-not-just-crypto/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Web3"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
@@ -844,24 +326,12 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Cherry_blossom"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/05/22/qgjmgfynjr/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Alexander_Calder"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/16/dkqokojkmr/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Loquat"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
         "targetUrl": "https://en.wikipedia.org/wiki/Microblogging"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
         "targetUrl": "https://en.wikipedia.org/wiki/Machine-readable_passport"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/28/14h00m17s69/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Illegal_number"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/02/24/writing-gratitude-journal/",
@@ -874,142 +344,8 @@
     ]
   },
   {
-    "domain": "twitter.com",
-    "count": 32,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
-        "targetUrl": "https://twitter.com/malikpiara"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/04/18/trying-pixel-art/",
-        "targetUrl": "https://twitter.com/hacdias/status/1118443012420452353?"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://twitter.com/hacdias/status/1212517049035038720"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/09/r2/",
-        "targetUrl": "https://twitter.com/mholt6/status/1215339799839510530"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/09/r3/",
-        "targetUrl": "https://twitter.com/Yusadolat/status/1215337173182042113"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/19/r5/",
-        "targetUrl": "https://twitter.com/regouga/status/1219028097770688514"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/19/r6/",
-        "targetUrl": "https://twitter.com/regouga/status/1219029693455917056"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/30/r13/",
-        "targetUrl": "https://twitter.com/anarlguerra/status/1222824668740100097"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/01/r1/",
-        "targetUrl": "https://twitter.com/mholt6/status/1233942025906475008"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/01/r2/",
-        "targetUrl": "https://twitter.com/mholt6/status/1234133931676454914"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/08/r2/",
-        "targetUrl": "https://twitter.com/neptzoo/status/1247856377642565633"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/10/holepunching/",
-        "targetUrl": "https://twitter.com/mafintosh/status/1259596991857930243"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/19/ipfs-questions/",
-        "targetUrl": "https://twitter.com/daviddias/status/1262684702865076224"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/21/reply-shared-pictures/",
-        "targetUrl": "https://twitter.com/mholt6/status/1263594379073056768"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/06/01/thanks-diogo-redin/",
-        "targetUrl": "https://twitter.com/DiogoRedin/status/1267212226471120900"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/06/03/new-member-lobsters/",
-        "targetUrl": "https://twitter.com/bixamon/status/1268239059253473280"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/26/feature-not-bug/",
-        "targetUrl": "https://twitter.com/mholt6/status/1309633018475155456"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/26/joke-feature-not-bug/",
-        "targetUrl": "https://twitter.com/the_basebandit/status/1309759820300419073"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/01/recently/",
-        "targetUrl": "https://twitter.com/adlrocha"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/19/yetldwaxld/",
-        "targetUrl": "https://twitter.com/LondonSlammer/status/1461672567450779654"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/05/rasgfcqzyz/",
-        "targetUrl": "https://twitter.com/_saligia__/status/1467458728827961345"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/26/afbguebjbs/",
-        "targetUrl": "https://twitter.com/DarkSprouty/status/1486250061206065155"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/27/zwvuqnkusr/",
-        "targetUrl": "https://twitter.com/simonoxfphys/status/1486641428281368582"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/30/vdtdbctern/",
-        "targetUrl": "https://twitter.com/malikpiara/status/1487824765473759232"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/31/jeiqujezeq/",
-        "targetUrl": "https://twitter.com/nimobeeren/status/1488217359391379471"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/16/lhiywgftpv/",
-        "targetUrl": "https://twitter.com/hacdias/status/1504101832288780291"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/02/axgqgjnjwl/",
-        "targetUrl": "https://twitter.com/tiagoadionisio/status/1532253461122846721"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/17/bsbmmciefx/",
-        "targetUrl": "https://twitter.com/tiagoadionisio/status/1537772273544880129"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/09/23/xxyflofpbx/",
-        "targetUrl": "https://twitter.com/nimobeeren/status/1573277413639081984"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/08/22h44m42s23/",
-        "targetUrl": "https://twitter.com/diogoredin/status/1590041191890190337?s=12\u0026t=qQtuu5ke316_8SCJ1hXO9g"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
-        "targetUrl": "https://twitter.com/mxbck/status/1590809274808147990"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://twitter.com/hacdias"
-      }
-    ]
-  },
-  {
     "domain": "indieweb.org",
-    "count": 23,
+    "count": 17,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -1068,28 +404,8 @@
         "targetUrl": "https://indieweb.org/database-antipattern"
       },
       {
-        "sourceUrl": "https://hacdias.com/2021/11/02/eagle-v2-update/",
-        "targetUrl": "https://indieweb.org/p3k"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2021/11/05/micropub-update-parsing-uncertainties/",
         "targetUrl": "https://micropub.spec.indieweb.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/17/poqxhoscxv/",
-        "targetUrl": "https://indieauth.spec.indieweb.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/09/igackzpsqy/",
-        "targetUrl": "https://indieweb.org/posts#Types_of_Posts"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/14/kzcvzhqtnw/",
-        "targetUrl": "https://indieweb.org/micropub_media_endpoint"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/15/10h25m06s86/",
-        "targetUrl": "https://indieweb.org/selfdogfood"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
@@ -1098,138 +414,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
         "targetUrl": "https://indieweb.org/POSSE"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/09h47m33s86/",
-        "targetUrl": "https://indieweb.org/"
-      }
-    ]
-  },
-  {
-    "domain": "commentpara.de",
-    "count": 15,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/25/webmention-comment/",
-        "targetUrl": "https://commentpara.de/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/18/r7/",
-        "targetUrl": "https://commentpara.de/comment/558.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/26/thanks-martin/",
-        "targetUrl": "https://commentpara.de/comment/669.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/06/thanks-typos/",
-        "targetUrl": "https://commentpara.de/comment/690.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://commentpara.de"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/03/11/re-vps-port/",
-        "targetUrl": "https://commentpara.de/comment/818.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/04/28/reply-hi/",
-        "targetUrl": "https://commentpara.de/comment/840.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/09/fix-wireguard-post/",
-        "targetUrl": "https://commentpara.de/comment/846.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/30/re-nice-guestbooks/",
-        "targetUrl": "https://commentpara.de/comment/859.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/02/re-kirby/",
-        "targetUrl": "https://commentpara.de/comment/919.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/12/re-vince/",
-        "targetUrl": "https://commentpara.de/comment/922.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/18/jpnfljahlp/",
-        "targetUrl": "https://commentpara.de/comment/924.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/12/epnhsyqjhu/",
-        "targetUrl": "https://commentpara.de/comment/947.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/24/fhohhlbobg/",
-        "targetUrl": "https://commentpara.de/comment/954.htm"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/30/oonqlwbskl/",
-        "targetUrl": "https://commentpara.de/comment/955.htm"
-      }
-    ]
-  },
-  {
-    "domain": "gohugo.io",
-    "count": 14,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "http://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "http://gohugo.io/themes/overview/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/12/28/url-structure/",
-        "targetUrl": "https://gohugo.io"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://gohugo.io"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
-        "targetUrl": "https://discourse.gohugo.io/t/use-hugo-watch-in-production/22599/14"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/25/webmention-comment/",
-        "targetUrl": "https://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/16/updates/",
-        "targetUrl": "https://gohugo.io/categories/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/16/updates/",
-        "targetUrl": "https://gohugo.io/functions/partialcached/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
-        "targetUrl": "https://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/26/hugo-for-years/",
-        "targetUrl": "https://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/04/markdown-shortcodes/",
-        "targetUrl": "https://gohugo.io/content-management/shortcodes/#readout"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "http://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://gohugo.io/"
       }
     ]
   },
@@ -1292,152 +476,44 @@
     ]
   },
   {
-    "domain": "seblog.nl",
-    "count": 12,
+    "domain": "gohugo.io",
+    "count": 9,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/04/09/r5/",
-        "targetUrl": "https://seblog.nl/2020/04/09/2/reply"
+        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
+        "targetUrl": "http://gohugo.io/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2021/11/18/txaznaajbj/",
-        "targetUrl": "https://seblog.nl/2021/11/18/1/indieauth-without-indieauth-com"
+        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
+        "targetUrl": "http://gohugo.io/themes/overview/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2021/12/05/h4c-is-live/",
-        "targetUrl": "https://seblog.nl/"
+        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
+        "targetUrl": "https://gohugo.io/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
-        "targetUrl": "https://seblog.nl/"
+        "sourceUrl": "https://hacdias.com/2019/12/28/url-structure/",
+        "targetUrl": "https://gohugo.io"
       },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
-        "targetUrl": "https://seblog.nl/bieb"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/05/14/bxvmqqphrs/",
-        "targetUrl": "https://seblog.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/05/14/bxvmqqphrs/",
-        "targetUrl": "http://seblog.nl/emoji"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/09/igackzpsqy/",
-        "targetUrl": "https://seblog.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/18/23h28m13s83/",
-        "targetUrl": "https://seblog.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/20/23h50m41s84/",
-        "targetUrl": "https://seblog.nl/2022/11/20/2/ging-goed"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/30/november-22/",
-        "targetUrl": "https://seblog.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://seblog.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "aaronparecki.com",
-    "count": 11,
-    "links": [
       {
         "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://aaronparecki.com/"
+        "targetUrl": "https://gohugo.io"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
-        "targetUrl": "https://aaronparecki.com/"
+        "targetUrl": "https://discourse.gohugo.io/t/use-hugo-watch-in-production/22599/14"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/01/22/r10/",
-        "targetUrl": "https://aaronparecki.com/2020/01/22/1/"
+        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
+        "targetUrl": "https://gohugo.io/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/01/22/r9/",
-        "targetUrl": "https://aaronparecki.com/gps"
+        "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
+        "targetUrl": "http://gohugo.io/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "http://aaronparecki.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/16/r3/",
-        "targetUrl": "https://aaronparecki.com/2020/03/15/15/business-cards"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/04/xray-jf2-mf2/",
-        "targetUrl": "https://aaronparecki.com/2017/04/24/15/jf2"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/08/re-32/",
-        "targetUrl": "https://aaronparecki.com/2021/11/08/32/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/08/re-alt-text-photo/",
-        "targetUrl": "https://aaronparecki.com/2017/02/25/9/day-67-image-alt-text"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/17/rlifwarttk/",
-        "targetUrl": "https://aaronparecki.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/05/15/nvmorlkpdz/",
-        "targetUrl": "https://aaronparecki.com/2017/02/20/6/day-62-emoji"
-      }
-    ]
-  },
-  {
-    "domain": "boddez.net",
-    "count": 10,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/12/is-feed-fixed/",
-        "targetUrl": "https://jan.boddez.net/notes/b0a62edbe0"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/13/serving-mf2/",
-        "targetUrl": "https://jan.boddez.net/notes/514f198e74"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/14/activitypub-struggle-httpsign/",
-        "targetUrl": "https://jan.boddez.net/notes/046185c328"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/14/httpsig-was-the-issue/",
-        "targetUrl": "https://jan.boddez.net/notes/046185c328"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/04/qmlhkfgoig/",
-        "targetUrl": "https://jan.boddez.net/notes/c130264cfa"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/18/gjnuovvyju/",
-        "targetUrl": "https://jan.boddez.net/notes/ddfdefca7c"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/05/15/nvmorlkpdz/",
-        "targetUrl": "https://jan.boddez.net/notes/9dc490c447"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/09/23h40m03s47/",
-        "targetUrl": "https://jan.boddez.net/notes/4f8879145f"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/22/17h46m32s36/",
-        "targetUrl": "https://jan.boddez.net/notes/4c1ac6934d"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/26/10h25m25s43/",
-        "targetUrl": "https://jan.boddez.net/notes/813b64b433"
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://gohugo.io/"
       }
     ]
   },
@@ -1480,112 +556,6 @@
     ]
   },
   {
-    "domain": "brainbaking.com",
-    "count": 8,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
-        "targetUrl": "https://brainbaking.com/post/2022/11/governmental-infrastructure-website-design-mistakes/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/18/23h28m13s83/",
-        "targetUrl": "https://brainbaking.com/post/2022/11/the-great-mastodon-influx/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/21/20h14m11s57/",
-        "targetUrl": "https://chat.brainbaking.com/objects/e54c65fe-1e40-4107-ba2e-aa9ad84b73a5"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/01/12h19m32s83/",
-        "targetUrl": "https://chat.brainbaking.com/objects/58edf59f-d274-4b5b-9bae-8ec145de16e1"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/26/19h07m02s72/",
-        "targetUrl": "https://brainbaking.com/notes/2022/12/26h18m18s48/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/28/10h55m21s24/",
-        "targetUrl": "https://brainbaking.com/post/2022/12/i-joined-the-dos-game-club/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/05/31/may-23/",
-        "targetUrl": "https://brainbaking.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/12/the-creating-programmer/",
-        "targetUrl": "https://brainbaking.com/"
-      }
-    ]
-  },
-  {
-    "domain": "mozilla.org",
-    "count": 7,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/03/06/image-hosting-thoughts/",
-        "targetUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/05/css-masonry/",
-        "targetUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/columns"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/05/css-masonry/",
-        "targetUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/04/markdown-shortcodes/",
-        "targetUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/07/01/quxrepbuoy/",
-        "targetUrl": "https://bugzilla.mozilla.org/show_bug.cgi?id=1475652"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/10/uegrtuyuzj/",
-        "targetUrl": "https://bugzilla.mozilla.org/show_bug.cgi?id=1536482"
-      }
-    ]
-  },
-  {
-    "domain": "p3k.io",
-    "count": 7,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/12/27/hi-micropub/",
-        "targetUrl": "https://quill.p3k.io"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://compass.p3k.io"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://xray.p3k.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "https://ownyourswarm.p3k.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/05/micropub-update-parsing-uncertainties/",
-        "targetUrl": "https://ownyourswarm.p3k.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/17/rlifwarttk/",
-        "targetUrl": "https://quill.p3k.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/17/rlifwarttk/",
-        "targetUrl": "https://teacup.p3k.io/new"
-      }
-    ]
-  },
-  {
     "domain": "jim-nielsen.com",
     "count": 7,
     "links": [
@@ -1620,122 +590,32 @@
     ]
   },
   {
-    "domain": "fosstodon.org",
-    "count": 7,
+    "domain": "twitter.com",
+    "count": 6,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/11/20/22h21m03s70/",
-        "targetUrl": "https://fosstodon.org/@jle/109375213511020485"
+        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
+        "targetUrl": "https://twitter.com/malikpiara"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/11/20/22h35m18s51/",
-        "targetUrl": "https://fosstodon.org/@jle/109378237908508748"
+        "sourceUrl": "https://hacdias.com/2019/04/18/trying-pixel-art/",
+        "targetUrl": "https://twitter.com/hacdias/status/1118443012420452353?"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/11/21/08h19m00s26/",
-        "targetUrl": "https://fosstodon.org/@jle/109380322129820480"
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://twitter.com/hacdias/status/1212517049035038720"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/11/22/18h23m55s67/",
-        "targetUrl": "https://fosstodon.org/@jle/109388610403714844"
+        "sourceUrl": "https://hacdias.com/2020/10/01/september-2020/",
+        "targetUrl": "https://twitter.com/adlrocha"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/11/23/14h29m15s63/",
-        "targetUrl": "https://fosstodon.org/@jle/109393141038633775"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
-        "targetUrl": "https://fosstodon.org/@hacdias"
+        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
+        "targetUrl": "https://twitter.com/mxbck/status/1590809274808147990"
       },
       {
         "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://fosstodon.org/@hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "hacdias.com",
-    "count": 6,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/12/20/quick-dive-into-dweb-ipfs/",
-        "targetUrl": "https://cdn.hacdias.com/media/2019-12-quick-dive-into-dweb-ipfs.pdf"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/21/qtqmcqlnmb/",
-        "targetUrl": "https://git.hacdias.com"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
-        "targetUrl": "https://cdn.hacdias.com/media/1a2c9b43ee0a3d1a4a9aab9b8c4f94172660c39903be6f42e354f47700995602.pdf"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
-        "targetUrl": "https://cdn.hacdias.com/media/f04b0bb5bd8034d205d1568b76e99670201c07e5fdda53bd134f6194c13bef97.pdf"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/04/19/interplanetary-specifications/",
-        "targetUrl": "https://cdn.hacdias.com/media/2023-04-interplanetary-specifications.pdf"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://cdn.hacdias.com/media/aprenda-a-programar.pdf"
-      }
-    ]
-  },
-  {
-    "domain": "youtube.com",
-    "count": 6,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
-        "targetUrl": "https://www.youtube.com/watch?v=JwYX52BP2Sk"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://www.youtube.com/watch?v=HXTC5LSep3M"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://www.youtube.com/watch?v=gB9n2gHsHN4"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/31/qlifmqksoe/",
-        "targetUrl": "https://www.youtube.com/watch?v=rGJseovT8ug"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/01/january-22/",
-        "targetUrl": "https://www.youtube.com/watch?v=ZJAx-dHuVA4"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/03/update-on-ovpay-experiment/",
-        "targetUrl": "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
-      }
-    ]
-  },
-  {
-    "domain": "npmjs.com",
-    "count": 5,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/03/31/how-to-create-a-node-js-command-line-application/",
-        "targetUrl": "https://docs.npmjs.com/files/package.json"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2015/03/31/how-to-create-a-node-js-command-line-application/",
-        "targetUrl": "https://www.npmjs.com/package/commander"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://www.npmjs.com/package/@hacdias/micropub-parser"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://www.npmjs.com/package/@hacdias/indieauth-middleware"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/30/dead-deadlock/",
-        "targetUrl": "https://www.npmjs.com/package/p-limit"
+        "targetUrl": "https://twitter.com/hacdias"
       }
     ]
   },
@@ -1766,54 +646,54 @@
     ]
   },
   {
-    "domain": "micro.blog",
+    "domain": "hacdias.com",
     "count": 5,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/11/19/lmczdirbtl/",
-        "targetUrl": "https://micro.blog/agilelisa/12178945"
+        "sourceUrl": "https://hacdias.com/2019/12/20/quick-dive-into-dweb-ipfs/",
+        "targetUrl": "https://cdn.hacdias.com/media/2019-12-quick-dive-into-dweb-ipfs.pdf"
       },
       {
-        "sourceUrl": "https://hacdias.com/2021/12/17/sdrcsahcho/",
-        "targetUrl": "https://micro.blog/maique/12275514"
+        "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
+        "targetUrl": "https://cdn.hacdias.com/media/1a2c9b43ee0a3d1a4a9aab9b8c4f94172660c39903be6f42e354f47700995602.pdf"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/12/27/23h45m17s15/",
-        "targetUrl": "https://jlg.micro.blog/2022/12/27/174044.html"
+        "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
+        "targetUrl": "https://cdn.hacdias.com/media/f04b0bb5bd8034d205d1568b76e99670201c07e5fdda53bd134f6194c13bef97.pdf"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/12/28/00h29m27s36/",
-        "targetUrl": "https://jlg.micro.blog/2022/12/27/182453.html"
+        "sourceUrl": "https://hacdias.com/2023/04/19/interplanetary-specifications/",
+        "targetUrl": "https://cdn.hacdias.com/media/2023-04-interplanetary-specifications.pdf"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/12/28/08h03m57s34/",
-        "targetUrl": "https://micro.blog/jlg/15494665"
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://cdn.hacdias.com/media/aprenda-a-programar.pdf"
       }
     ]
   },
   {
-    "domain": "w3.org",
+    "domain": "youtube.com",
     "count": 5,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://www.w3.org/TR/micropub/"
+        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
+        "targetUrl": "https://www.youtube.com/watch?v=JwYX52BP2Sk"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/02/11/r2/",
-        "targetUrl": "https://www.w3.org/TR/activitystreams-vocabulary/#dfn-content"
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://www.youtube.com/watch?v=HXTC5LSep3M"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
-        "targetUrl": "https://www.w3.org/TR/activitypub/"
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://www.youtube.com/watch?v=gB9n2gHsHN4"
       },
       {
-        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://www.w3.org/TR/baggage/"
+        "sourceUrl": "https://hacdias.com/2022/02/01/january-22/",
+        "targetUrl": "https://www.youtube.com/watch?v=ZJAx-dHuVA4"
       },
       {
-        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://www.w3.org/TR/trace-context"
+        "sourceUrl": "https://hacdias.com/2022/12/03/update-on-ovpay-experiment/",
+        "targetUrl": "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
       }
     ]
   },
@@ -1862,28 +742,6 @@
     ]
   },
   {
-    "domain": "dekatemousa.nl",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/01/recently/",
-        "targetUrl": "http://dekatemousa.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/09/16/fire-breathing/",
-        "targetUrl": "https://dekatemousa.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/09/16/fire-steelwool/",
-        "targetUrl": "https://dekatemousa.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/09/30/september-2021/",
-        "targetUrl": "https://dekatemousa.nl/"
-      }
-    ]
-  },
-  {
     "domain": "wordpress.org",
     "count": 4,
     "links": [
@@ -1902,6 +760,28 @@
       {
         "sourceUrl": "https://hacdias.com/2014/08/02/wordpress-adicionar-menus-de-administracao/",
         "targetUrl": "http://codex.wordpress.org/Function_Reference/add_menu_page"
+      }
+    ]
+  },
+  {
+    "domain": "p3k.io",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://compass.p3k.io"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://xray.p3k.io/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
+        "targetUrl": "https://ownyourswarm.p3k.io/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/05/micropub-update-parsing-uncertainties/",
+        "targetUrl": "https://ownyourswarm.p3k.io/"
       }
     ]
   },
@@ -1928,6 +808,72 @@
     ]
   },
   {
+    "domain": "dekatemousa.nl",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/01/september-2020/",
+        "targetUrl": "http://dekatemousa.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/09/16/fire-breathing/",
+        "targetUrl": "https://dekatemousa.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/09/16/fire-steelwool/",
+        "targetUrl": "https://dekatemousa.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/09/30/september-2021/",
+        "targetUrl": "https://dekatemousa.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "w3.org",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://www.w3.org/TR/micropub/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
+        "targetUrl": "https://www.w3.org/TR/activitypub/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
+        "targetUrl": "https://www.w3.org/TR/baggage/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
+        "targetUrl": "https://www.w3.org/TR/trace-context"
+      }
+    ]
+  },
+  {
+    "domain": "npmjs.com",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/03/31/how-to-create-a-node-js-command-line-application/",
+        "targetUrl": "https://docs.npmjs.com/files/package.json"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2015/03/31/how-to-create-a-node-js-command-line-application/",
+        "targetUrl": "https://www.npmjs.com/package/commander"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://www.npmjs.com/package/@hacdias/micropub-parser"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://www.npmjs.com/package/@hacdias/indieauth-middleware"
+      }
+    ]
+  },
+  {
     "domain": "sapo.pt",
     "count": 4,
     "links": [
@@ -1950,114 +896,60 @@
     ]
   },
   {
-    "domain": "golang.org",
+    "domain": "seblog.nl",
     "count": 4,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2017/09/08/how-to-create-a-web-server-in-go/",
-        "targetUrl": "https://blog.golang.org/toward-go2"
+        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
+        "targetUrl": "https://seblog.nl/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2017/09/08/how-to-create-a-web-server-in-go/",
-        "targetUrl": "https://golang.org/doc/install"
+        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
+        "targetUrl": "https://seblog.nl/bieb"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/01/25/webmention-comment/",
-        "targetUrl": "https://golang.org/pkg/text/template/"
+        "sourceUrl": "https://hacdias.com/2022/11/30/november-22/",
+        "targetUrl": "https://seblog.nl/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://golang.org/dl/"
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://seblog.nl/"
       }
     ]
   },
   {
-    "domain": "bunny.net",
+    "domain": "brainbaking.com",
     "count": 3,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/11/05/bunny-optimization-engine/",
-        "targetUrl": "https://support.bunny.net/hc/en-us/articles/360027448392-Bunny-Optimizer-Engine-Documentation"
+        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
+        "targetUrl": "https://brainbaking.com/post/2022/11/governmental-infrastructure-website-design-mistakes/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/06/14/kzcvzhqtnw/",
-        "targetUrl": "https://bunny.net/"
+        "sourceUrl": "https://hacdias.com/2023/05/31/may-23/",
+        "targetUrl": "https://brainbaking.com/"
       },
       {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://bunny.net/"
+        "sourceUrl": "https://hacdias.com/2023/06/12/the-creating-programmer/",
+        "targetUrl": "https://brainbaking.com/"
       }
     ]
   },
   {
-    "domain": "medium.com",
+    "domain": "aaronparecki.com",
     "count": 3,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
-        "targetUrl": "https://medium.com/@diogomartf/learning-is-an-endless-journey-6416bd4d1ed3#.2n9azydti"
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://aaronparecki.com/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://medium.com/u/534dde713f55"
+        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
+        "targetUrl": "https://aaronparecki.com/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://medium.com/u/1e66c112f4ce"
-      }
-    ]
-  },
-  {
-    "domain": "dutchnews.nl",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/11/online-classes-tue/",
-        "targetUrl": "https://www.dutchnews.nl/news/2020/05/universities-plan-to-carry-on-teaching-online-until-february-2021/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
-        "targetUrl": "https://www.dutchnews.nl/news/2021/01/dutch-government-collapses-in-fall-out-from-child-benefit-scandal/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
-        "targetUrl": "https://www.dutchnews.nl/news/2021/01/up-to-300-arrested-in-sunday-riots-police-hand-out-thousands-of-curfew-fines/"
-      }
-    ]
-  },
-  {
-    "domain": "landing.jobs",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/09/11/the-first-day-at-your-brand-new-job/",
-        "targetUrl": "https://landing.jobs/talent/join"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://festival.landing.jobs/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://landing.jobs/"
-      }
-    ]
-  },
-  {
-    "domain": "jlel.se",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
-        "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/10/25/new-eagle-look/",
-        "targetUrl": "https://git.jlel.se/jlelse/GoBlog/src/branch/master/tailscale.go"
+        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
+        "targetUrl": "http://aaronparecki.com/"
       }
     ]
   },
@@ -2080,210 +972,56 @@
     ]
   },
   {
-    "domain": "lobste.rs",
+    "domain": "landing.jobs",
     "count": 3,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/05/31/lobsters/",
-        "targetUrl": "https://lobste.rs"
+        "sourceUrl": "https://hacdias.com/2015/09/11/the-first-day-at-your-brand-new-job/",
+        "targetUrl": "https://landing.jobs/talent/join"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/10/26/why-have-your-website/",
-        "targetUrl": "https://lobste.rs/s/h9xgpv/rate_my_homepage"
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://festival.landing.jobs/"
       },
       {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://lobste.rs/u/hacdias"
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://landing.jobs/"
       }
     ]
   },
   {
-    "domain": "tailscale.com",
+    "domain": "medium.com",
     "count": 3,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/10/20/tailscale-vs-raw-wireguard/",
-        "targetUrl": "https://tailscale.com/kb/1086/tailscale-vs-wireguard/"
+        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
+        "targetUrl": "https://medium.com/@diogomartf/learning-is-an-endless-journey-6416bd4d1ed3#.2n9azydti"
       },
       {
-        "sourceUrl": "https://hacdias.com/2021/10/25/new-eagle-look/",
-        "targetUrl": "https://tailscale.com/"
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://medium.com/u/534dde713f55"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/06/22/ukegadwuvv/",
-        "targetUrl": "https://tailscale.com/blog/tailscale-ssh/"
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://medium.com/u/1e66c112f4ce"
       }
     ]
   },
   {
-    "domain": "macwright.org",
+    "domain": "golang.org",
     "count": 3,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/01/21/n5/",
-        "targetUrl": "https://macwright.org/2019/02/28/photos.html"
+        "sourceUrl": "https://hacdias.com/2017/09/08/how-to-create-a-web-server-in-go/",
+        "targetUrl": "https://blog.golang.org/toward-go2"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/01/29/owning-reading-log/",
-        "targetUrl": "https://macwright.org/2017/12/11/indieweb-reading.html"
+        "sourceUrl": "https://hacdias.com/2017/09/08/how-to-create-a-web-server-in-go/",
+        "targetUrl": "https://golang.org/doc/install"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
-        "targetUrl": "https://macwright.org/2020/05/10/spa-fatigue.html"
-      }
-    ]
-  },
-  {
-    "domain": "trakt.tv",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "https://trakt.tv"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
-        "targetUrl": "https://trakt.tv"
-      }
-    ]
-  },
-  {
-    "domain": "reddit.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
-        "targetUrl": "https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://reddit.com/u/hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "modernconsensus.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
-        "targetUrl": "https://modernconsensus.com/cryptocurrencies/libra/facebook-is-joining-apple-and-google-in-coming-after-citibank-and-chase/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
-        "targetUrl": "https://modernconsensus.com/commentary/the-future-is-decentralized/"
-      }
-    ]
-  },
-  {
-    "domain": "archive.org",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
-        "targetUrl": "https://web.archive.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
-        "targetUrl": "https://web.archive.org/"
-      }
-    ]
-  },
-  {
-    "domain": "jethro.dev",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/16/updates/",
-        "targetUrl": "https://braindump.jethro.dev/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/16/updates/",
-        "targetUrl": "https://www.jethro.dev/"
-      }
-    ]
-  },
-  {
-    "domain": "microlab.nl",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/09/04/vysvwreboa/",
-        "targetUrl": "https://microlab.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "http://microlab.nl"
-      }
-    ]
-  },
-  {
-    "domain": "indiebookclub.biz",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/29/owning-reading-log/",
-        "targetUrl": "https://indiebookclub.biz/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
-        "targetUrl": "https://indiebookclub.biz/"
-      }
-    ]
-  },
-  {
-    "domain": "ipfs.io",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
-        "targetUrl": "https://ipfs.io"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
-        "targetUrl": "https://gateway.ipfs.io/ipns/daviddias.me/"
-      }
-    ]
-  },
-  {
-    "domain": "shkspr.mobi",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/28/14h00m17s69/",
-        "targetUrl": "https://shkspr.mobi/blog/2022/11/illegal-hashes/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/03/18h08m29s52/",
-        "targetUrl": "https://shkspr.mobi/blog/2022/12/the-ethics-of-syndicating-comments-using-webmentions/"
-      }
-    ]
-  },
-  {
-    "domain": "protocol.ai",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
-        "targetUrl": "https://protocol.ai"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://protocol.ai/"
-      }
-    ]
-  },
-  {
-    "domain": "indieauth.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/12/30/using-indieauth/",
-        "targetUrl": "https://indieauth.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://indieauth.com/"
+        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
+        "targetUrl": "https://golang.org/dl/"
       }
     ]
   },
@@ -2302,272 +1040,6 @@
     ]
   },
   {
-    "domain": "ycombinator.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/07/20/too-many-notes-apps/",
-        "targetUrl": "https://news.ycombinator.com/item?id=23888799"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://news.ycombinator.com/user?id=hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "apiary.io",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "https://trakt.docs.apiary.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
-        "targetUrl": "https://trakt.docs.apiary.io/"
-      }
-    ]
-  },
-  {
-    "domain": "kandr3s.co",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/15/evjibwnnjd/",
-        "targetUrl": "https://kandr3s.co/notes/2022-08-15-wlaeo"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/16/fjdjdarfhg/",
-        "targetUrl": "https://kandr3s.co/notes/2022-08-16-lpyvk"
-      }
-    ]
-  },
-  {
-    "domain": "brid.gy",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/14/kzcvzhqtnw/",
-        "targetUrl": "https://brid.gy/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/09/15h43m59s11/",
-        "targetUrl": "https://brid.gy/"
-      }
-    ]
-  },
-  {
-    "domain": "w3schools.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/07/17/listagem-web-de-uma-tabela-mysql/",
-        "targetUrl": "http://www.w3schools.com/tags/ref_httpmethods.asp"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2014/07/20/chamadas-ajax-com-jquery-e-php/",
-        "targetUrl": "http://www.w3schools.com/tags/ref_httpmethods.asp"
-      }
-    ]
-  },
-  {
-    "domain": "meilisearch.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
-        "targetUrl": "https://meilisearch.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/02/eagle-v2-update/",
-        "targetUrl": "https://www.meilisearch.com/"
-      }
-    ]
-  },
-  {
-    "domain": "codeberg.org",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/10/r1/",
-        "targetUrl": "https://codeberg.org/jlelse/jsonpub)"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/11/r2/",
-        "targetUrl": "https://codeberg.org/jlelse/hugo-activitystreams/src/branch/master/layouts/_default/single.activity.ajson"
-      }
-    ]
-  },
-  {
-    "domain": "digid.nl",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
-        "targetUrl": "https://www.digid.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/09/23h40m03s47/",
-        "targetUrl": "https://www.digid.nl/en/living-abroad/"
-      }
-    ]
-  },
-  {
-    "domain": "jvt.me",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/29/r6/",
-        "targetUrl": "https://www.jvt.me/posts/2020/01/12/webmention-notifications/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/18/rvcvtogxia/",
-        "targetUrl": "https://www.jvt.me/series/music-in-review/"
-      }
-    ]
-  },
-  {
-    "domain": "neustadt.fr",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
-        "targetUrl": "https://neustadt.fr/essays/the-small-web/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/18/my-website-after-indieweb/",
-        "targetUrl": "https://neustadt.fr/"
-      }
-    ]
-  },
-  {
-    "domain": "substack.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
-        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-what-the-next-generation"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
-        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-my-vision-for-a-new-internet"
-      }
-    ]
-  },
-  {
-    "domain": "caddyserver.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
-        "targetUrl": "https://caddyserver.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/16/caddy-redirects/",
-        "targetUrl": "https://caddyserver.com/v1/docs/import"
-      }
-    ]
-  },
-  {
-    "domain": "gloweindhoven.nl",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/02/november-2021/",
-        "targetUrl": "https://www.gloweindhoven.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/30/november-22/",
-        "targetUrl": "https://gloweindhoven.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "instagram.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/25/new-darkroom/",
-        "targetUrl": "https://www.instagram.com/c.h.r.i.s.t.i.a.a.n/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://instagram.com/hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "geekcompass.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/23/14h45m32s85/",
-        "targetUrl": "https://geekcompass.com/@jan/109391659774801076"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/02/11h01m56s61/",
-        "targetUrl": "https://geekcompass.com/@jan/109443444731087805"
-      }
-    ]
-  },
-  {
-    "domain": "gnu.org",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2016/11/14/fundamentals-programming-language-c/",
-        "targetUrl": "https://gcc.gnu.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/14/using-dnscontrol-and-stow/",
-        "targetUrl": "https://www.gnu.org/software/stow/"
-      }
-    ]
-  },
-  {
-    "domain": "kurzgesagt.org",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
-        "targetUrl": "http://kurzgesagt.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/24/writing-gratitude-journal/",
-        "targetUrl": "https://kurzgesagt.org"
-      }
-    ]
-  },
-  {
-    "domain": "uses.tech",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/21/n4/",
-        "targetUrl": "https://uses.tech/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://uses.tech/"
-      }
-    ]
-  },
-  {
-    "domain": "pyropus.ca",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/02/backing-up-email/",
-        "targetUrl": "http://pyropus.ca/software/getmail/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/02/backing-up-email/",
-        "targetUrl": "http://pyropus.ca/software/getmail/configuration.html#conf-retriever"
-      }
-    ]
-  },
-  {
     "domain": "ddw.nl",
     "count": 2,
     "links": [
@@ -2582,58 +1054,86 @@
     ]
   },
   {
-    "domain": "janboddez.tech",
+    "domain": "fosstodon.org",
     "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/04/09/r4/",
-        "targetUrl": "https://janboddez.tech/notes/14ce942433"
+        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
+        "targetUrl": "https://fosstodon.org/@hacdias"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/06/01/janboddez-rss-relative-links/",
-        "targetUrl": "https://janboddez.tech/notes/b6b59a1630"
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://fosstodon.org/@hacdias"
       }
     ]
   },
   {
-    "domain": "github.blog",
+    "domain": "dutchnews.nl",
     "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/05/30/openssl-fido2/",
-        "targetUrl": "https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/"
+        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
+        "targetUrl": "https://www.dutchnews.nl/news/2021/01/dutch-government-collapses-in-fall-out-from-child-benefit-scandal/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/08/23/plhtyzfrhh/",
-        "targetUrl": "https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/"
+        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
+        "targetUrl": "https://www.dutchnews.nl/news/2021/01/up-to-300-arrested-in-sunday-riots-police-hand-out-thousands-of-curfew-fines/"
       }
     ]
   },
   {
-    "domain": "ovpay.nl",
+    "domain": "indiebookclub.biz",
     "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
-        "targetUrl": "https://ovpay.nl/"
+        "sourceUrl": "https://hacdias.com/2020/01/29/owning-reading-log/",
+        "targetUrl": "https://indiebookclub.biz/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
-        "targetUrl": "https://reisoverzicht.ovpay.nl/"
+        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
+        "targetUrl": "https://indiebookclub.biz/"
       }
     ]
   },
   {
-    "domain": "stackoverflow.com",
+    "domain": "macwright.org",
     "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2014/07/23/diferencas-entre-igual-identico-php/",
-        "targetUrl": "http://stackoverflow.com/"
+        "sourceUrl": "https://hacdias.com/2020/01/29/owning-reading-log/",
+        "targetUrl": "https://macwright.org/2017/12/11/indieweb-reading.html"
       },
       {
-        "sourceUrl": "https://hacdias.com/2014/09/09/php-interpolacao-concatenacao/",
-        "targetUrl": "http://stackoverflow.com/questions/13620/speed-difference-in-using-inline-strings-vs-concatenation-in-php5"
+        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
+        "targetUrl": "https://macwright.org/2020/05/10/spa-fatigue.html"
+      }
+    ]
+  },
+  {
+    "domain": "protocol.ai",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
+        "targetUrl": "https://protocol.ai"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://protocol.ai/"
+      }
+    ]
+  },
+  {
+    "domain": "ipfs.io",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
+        "targetUrl": "https://ipfs.io"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
+        "targetUrl": "https://gateway.ipfs.io/ipns/daviddias.me/"
       }
     ]
   },
@@ -2652,72 +1152,16 @@
     ]
   },
   {
-    "domain": "migadu.com",
+    "domain": "ovpay.nl",
     "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/03/06/ttahqozjog/",
-        "targetUrl": "https://www.migadu.com"
+        "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
+        "targetUrl": "https://ovpay.nl/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/03/06/ttahqozjog/",
-        "targetUrl": "https://www.migadu.com/procon/"
-      }
-    ]
-  },
-  {
-    "domain": "mew.tv",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
-        "targetUrl": "https://mew.tv/"
-      }
-    ]
-  },
-  {
-    "domain": "nytimes.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
-        "targetUrl": "https://www.nytimes.com/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
-        "targetUrl": "https://www.nytimes.com/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html"
-      }
-    ]
-  },
-  {
-    "domain": "ptservidor.pt",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "https://www.ptservidor.pt/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://my.ptservidor.pt"
-      }
-    ]
-  },
-  {
-    "domain": "testground.ai",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://docs.testground.ai/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://docs.testground.ai/writing-test-plans/test-plan-manifest"
+        "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
+        "targetUrl": "https://reisoverzicht.ovpay.nl/"
       }
     ]
   },
@@ -2736,582 +1180,282 @@
     ]
   },
   {
-    "domain": "readng.co",
-    "count": 1,
+    "domain": "jlelse.blog",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/04/21/goodreads-api-deprecation/",
-        "targetUrl": "https://beta.readng.co/"
+        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
+        "targetUrl": "https://jlelse.blog/thoughts/2020/07/own-cms"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
+        "targetUrl": "https://jlelse.blog/map"
       }
     ]
   },
   {
-    "domain": "t.me",
-    "count": 1,
+    "domain": "jlel.se",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://t.me/hacdias"
+        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
+        "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
+        "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
       }
     ]
   },
   {
-    "domain": "dinnertrain.eu",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://dinnertrain.eu/"
-      }
-    ]
-  },
-  {
-    "domain": "jquery.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/07/20/chamadas-ajax-com-jquery-e-php/",
-        "targetUrl": "http://jquery.com/"
-      }
-    ]
-  },
-  {
-    "domain": "vega.github.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
-        "targetUrl": "https://vega.github.io/vega-lite/"
-      }
-    ]
-  },
-  {
-    "domain": "rakhim.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/29/current-blogging-state/",
-        "targetUrl": "https://rakhim.org/honestly-undefined/19/"
-      }
-    ]
-  },
-  {
-    "domain": "nightjet.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://www.nightjet.com/"
-      }
-    ]
-  },
-  {
-    "domain": "jpassing.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/15/19h23m33s63/",
-        "targetUrl": "https://jpassing.com/2021/11/30/using-pem-to-encode-public-keys/"
-      }
-    ]
-  },
-  {
-    "domain": "htm.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
-        "targetUrl": "https://www.htm.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "docker.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://www.docker.com/"
-      }
-    ]
-  },
-  {
-    "domain": "expressjs.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://expressjs.com/"
-      }
-    ]
-  },
-  {
-    "domain": "p3k.app",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/09/r5/",
-        "targetUrl": "https://xray.p3k.app/"
-      }
-    ]
-  },
-  {
-    "domain": "ipfs.camp",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/31/october-22/",
-        "targetUrl": "https://2022.ipfs.camp/"
-      }
-    ]
-  },
-  {
-    "domain": "libp2p.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/01/11h44m44s38/",
-        "targetUrl": "https://discuss.libp2p.io/t/call-for-participation-nat-hole-punching-measurement-campaign/1690"
-      }
-    ]
-  },
-  {
-    "domain": "viarail.ca",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian"
-      }
-    ]
-  },
-  {
-    "domain": "tryhackme.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/03/31/march-23/",
-        "targetUrl": "https://tryhackme.com/"
-      }
-    ]
-  },
-  {
-    "domain": "microsoft.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://www.microsoft.com/pt-pt/"
-      }
-    ]
-  },
-  {
-    "domain": "alpinelinux.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/21/ygqtweuixr/",
-        "targetUrl": "https://wiki.alpinelinux.org/wiki/How-To_Alpine_Wall"
-      }
-    ]
-  },
-  {
-    "domain": "imdb.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
-        "targetUrl": "http://www.imdb.com/title/tt0470752/"
-      }
-    ]
-  },
-  {
-    "domain": "ar.al",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/03/14h21m59s78/",
-        "targetUrl": "https://mastodon.ar.al/@aral/109625105099072604"
-      }
-    ]
-  },
-  {
-    "domain": "portugeseproducten.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/06/when-you-dont-know-the-ingredients/",
-        "targetUrl": "https://www.portugeseproducten.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "nsinternational.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/10/11h23m48s47/",
-        "targetUrl": "https://www.nsinternational.com/en/after-the-journey/compensation-for-delays"
-      }
-    ]
-  },
-  {
-    "domain": "h4c.pt",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/05/h4c-is-live/",
-        "targetUrl": "https://h4c.pt"
-      }
-    ]
-  },
-  {
-    "domain": "cbs.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
-        "targetUrl": "https://www.cbs.nl/en-gb/dossier/migration-and-integration/how-many-people-immigrate-to-the-netherlands-"
-      }
-    ]
-  },
-  {
-    "domain": "matrix.to",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://matrix.to/#/@hacdias:tchncs.de"
-      }
-    ]
-  },
-  {
-    "domain": "quora.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
-        "targetUrl": "https://www.quora.com/Why-should-I-learn-Programming"
-      }
-    ]
-  },
-  {
-    "domain": "asana.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://asana.com/"
-      }
-    ]
-  },
-  {
-    "domain": "meetup.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/12/20/quick-dive-into-dweb-ipfs/",
-        "targetUrl": "https://www.meetup.com/BarcampLx/events/265593046/"
-      }
-    ]
-  },
-  {
-    "domain": "micropub-media-endpoint-proxy.netlify.app",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/17/rlifwarttk/",
-        "targetUrl": "https://micropub-media-endpoint-proxy.netlify.app/"
-      }
-    ]
-  },
-  {
-    "domain": "papers-we-love.github.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
-        "targetUrl": "http://papers-we-love.github.io/"
-      }
-    ]
-  },
-  {
-    "domain": "last.fm",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music-22/",
-        "targetUrl": "https://www.last.fm/user/hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "starbucks.pt",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "http://www.starbucks.pt/"
-      }
-    ]
-  },
-  {
-    "domain": "spotify.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music-22/",
-        "targetUrl": "https://spotify.com/"
-      }
-    ]
-  },
-  {
-    "domain": "europa.eu",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
-        "targetUrl": "https://eur-lex.europa.eu/eli/reg/2019/1157/oj"
-      }
-    ]
-  },
-  {
-    "domain": "telegram.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/29/r6/",
-        "targetUrl": "https://telegram.org/blog/bot-revolution"
-      }
-    ]
-  },
-  {
-    "domain": "test-ipv6.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
-        "targetUrl": "https://test-ipv6.com"
-      }
-    ]
-  },
-  {
-    "domain": "upframe.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://upframe.io/"
-      }
-    ]
-  },
-  {
-    "domain": "bsky.app",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://bsky.app/profile/hacdias.com"
-      }
-    ]
-  },
-  {
-    "domain": "fruitpunch.ai",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/04/01/march-22/",
-        "targetUrl": "https://fruitpunch.ai/"
-      }
-    ]
-  },
-  {
-    "domain": "avantadvocaten.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/19/cpxwhpbznk/",
-        "targetUrl": "https://www.avantadvocaten.nl/the-right-to-dutch-student-finance-of-eu-students-studying-in-the-netherlands/"
-      }
-    ]
-  },
-  {
-    "domain": "discord.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://discord.com/users/hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "facebook.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
-        "targetUrl": "https://www.facebook.com/diogomartferreira"
-      }
-    ]
-  },
-  {
-    "domain": "opensea.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/04/18/trying-pixel-art/",
-        "targetUrl": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653459892891025409"
-      }
-    ]
-  },
-  {
-    "domain": "oauth.net",
-    "count": 1,
+    "domain": "apiary.io",
+    "count": 2,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "https://oauth.net/2/"
+        "targetUrl": "https://trakt.docs.apiary.io/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
+        "targetUrl": "https://trakt.docs.apiary.io/"
       }
     ]
   },
   {
-    "domain": "webmention.io",
-    "count": 1,
+    "domain": "stackoverflow.com",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/02/01/media-endpoint/",
-        "targetUrl": "https://webmention.io/"
+        "sourceUrl": "https://hacdias.com/2014/07/23/diferencas-entre-igual-identico-php/",
+        "targetUrl": "http://stackoverflow.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2014/09/09/php-interpolacao-concatenacao/",
+        "targetUrl": "http://stackoverflow.com/questions/13620/speed-difference-in-using-inline-strings-vs-concatenation-in-php5"
       }
     ]
   },
   {
-    "domain": "public.garden",
-    "count": 1,
+    "domain": "lobste.rs",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2023/01/02/09h47m33s86/",
-        "targetUrl": "https://public.garden/objects/281d102d-3d64-4ad2-a6f9-7135f347a475"
+        "sourceUrl": "https://hacdias.com/2020/10/26/why-have-your-website/",
+        "targetUrl": "https://lobste.rs/s/h9xgpv/rate_my_homepage"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://lobste.rs/u/hacdias"
       }
     ]
   },
   {
-    "domain": "ethereum.org",
-    "count": 1,
+    "domain": "mew.tv",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/12/10/re-crypto-bs/",
-        "targetUrl": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/"
+        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
+        "targetUrl": "https://mew.tv/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
+        "targetUrl": "https://mew.tv/"
       }
     ]
   },
   {
-    "domain": "cke.nl",
-    "count": 1,
+    "domain": "w3schools.com",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/06/07/dm-lustrum-exhibition/",
-        "targetUrl": "https://cke.nl/"
+        "sourceUrl": "https://hacdias.com/2014/07/17/listagem-web-de-uma-tabela-mysql/",
+        "targetUrl": "http://www.w3schools.com/tags/ref_httpmethods.asp"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2014/07/20/chamadas-ajax-com-jquery-e-php/",
+        "targetUrl": "http://www.w3schools.com/tags/ref_httpmethods.asp"
       }
     ]
   },
   {
-    "domain": "godaddy.com",
-    "count": 1,
+    "domain": "modernconsensus.com",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "https://godaddy.com/"
+        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
+        "targetUrl": "https://modernconsensus.com/cryptocurrencies/libra/facebook-is-joining-apple-and-google-in-coming-after-citibank-and-chase/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
+        "targetUrl": "https://modernconsensus.com/commentary/the-future-is-decentralized/"
       }
     ]
   },
   {
-    "domain": "mingw.org",
-    "count": 1,
+    "domain": "nytimes.com",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2016/11/14/fundamentals-programming-language-c/",
-        "targetUrl": "http://www.mingw.org/download/installer"
+        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
+        "targetUrl": "https://www.nytimes.com/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
+        "targetUrl": "https://www.nytimes.com/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html"
       }
     ]
   },
   {
-    "domain": "hermes.nl",
-    "count": 1,
+    "domain": "reddit.com",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
-        "targetUrl": "https://www.hermes.nl/nl/"
+        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
+        "targetUrl": "https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://reddit.com/u/hacdias"
       }
     ]
   },
   {
-    "domain": "thisiseindhoven.com",
-    "count": 1,
+    "domain": "trakt.tv",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/09/05/xfqnqooylo/",
-        "targetUrl": "https://www.thisiseindhoven.com/en/see-and-do/dynamic-districts/strijp-s"
+        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
+        "targetUrl": "https://trakt.tv"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
+        "targetUrl": "https://trakt.tv"
       }
     ]
   },
   {
-    "domain": "reuters.com",
-    "count": 1,
+    "domain": "archive.org",
+    "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
-        "targetUrl": "https://www.reuters.com/article/health-coronavirus-eu-astrazeneca/astrazeneca-offers-8-million-extra-doses-to-eu-through-march-source-idUSL1N2K30UO"
-      }
-    ]
-  },
-  {
-    "domain": "cloudflarestatus.com",
-    "count": 1,
-    "links": [
+        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
+        "targetUrl": "https://web.archive.org/"
+      },
       {
-        "sourceUrl": "https://hacdias.com/2021/11/17/rlifwarttk/",
-        "targetUrl": "https://www.cloudflarestatus.com/"
+        "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
+        "targetUrl": "https://web.archive.org/"
       }
     ]
   },
   {
-    "domain": "improvmx.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/06/ttahqozjog/",
-        "targetUrl": "https://improvmx.com/"
-      }
-    ]
-  },
-  {
-    "domain": "nownownow.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/21/n4/",
-        "targetUrl": "https://nownownow.com/about"
-      }
-    ]
-  },
-  {
-    "domain": "ipfs-thing.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/04/19/interplanetary-specifications/",
-        "targetUrl": "https://2023.ipfs-thing.io/"
-      }
-    ]
-  },
-  {
-    "domain": "yp.to",
-    "count": 1,
+    "domain": "pyropus.ca",
+    "count": 2,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2020/11/02/backing-up-email/",
-        "targetUrl": "https://cr.yp.to/proto/maildir.html"
+        "targetUrl": "http://pyropus.ca/software/getmail/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/11/02/backing-up-email/",
+        "targetUrl": "http://pyropus.ca/software/getmail/configuration.html#conf-retriever"
+      }
+    ]
+  },
+  {
+    "domain": "indieauth.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2019/12/30/using-indieauth/",
+        "targetUrl": "https://indieauth.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
+        "targetUrl": "https://indieauth.com/"
+      }
+    ]
+  },
+  {
+    "domain": "ptservidor.pt",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
+        "targetUrl": "https://www.ptservidor.pt/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://my.ptservidor.pt"
+      }
+    ]
+  },
+  {
+    "domain": "kurzgesagt.org",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
+        "targetUrl": "http://kurzgesagt.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/24/writing-gratitude-journal/",
+        "targetUrl": "https://kurzgesagt.org"
+      }
+    ]
+  },
+  {
+    "domain": "neustadt.fr",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
+        "targetUrl": "https://neustadt.fr/essays/the-small-web/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/06/18/my-website-after-indieweb/",
+        "targetUrl": "https://neustadt.fr/"
+      }
+    ]
+  },
+  {
+    "domain": "testground.ai",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
+        "targetUrl": "https://docs.testground.ai/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
+        "targetUrl": "https://docs.testground.ai/writing-test-plans/test-plan-manifest"
+      }
+    ]
+  },
+  {
+    "domain": "substack.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
+        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-what-the-next-generation"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
+        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-my-vision-for-a-new-internet"
+      }
+    ]
+  },
+  {
+    "domain": "gloweindhoven.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/12/02/november-2021/",
+        "targetUrl": "https://www.gloweindhoven.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/30/november-22/",
+        "targetUrl": "https://gloweindhoven.nl/"
       }
     ]
   },
@@ -3326,542 +1470,12 @@
     ]
   },
   {
-    "domain": "aachen-tourismus.de",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/02/november-2021/",
-        "targetUrl": "https://www.aachen-tourismus.de/en/discover/events/aachen-christmas-market/"
-      }
-    ]
-  },
-  {
-    "domain": "pastelarialusa.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/21/recently/",
-        "targetUrl": "https://pastelarialusa.nl"
-      }
-    ]
-  },
-  {
-    "domain": "notable.md",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/29/notable-to-hugo/",
-        "targetUrl": "https://notable.md/"
-      }
-    ]
-  },
-  {
-    "domain": "peoplemaking.games",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/29/14h49m02s37/",
-        "targetUrl": "https://peoplemaking.games/@cmddx/109595069068050038"
-      }
-    ]
-  },
-  {
-    "domain": "artemix.org",
+    "domain": "yp.to",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2020/11/02/backing-up-email/",
-        "targetUrl": "https://www.artemix.org/blog/backing-up-e-mails-from-an-imap-server"
-      }
-    ]
-  },
-  {
-    "domain": "lunrjs.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://lunrjs.com/"
-      }
-    ]
-  },
-  {
-    "domain": "xosc.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/30/openssl-fido2/",
-        "targetUrl": "https://xosc.org/u2fandssh.html"
-      }
-    ]
-  },
-  {
-    "domain": "kiralaktionov.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/11/photos-stories-vs-single/",
-        "targetUrl": "https://travel.kiralaktionov.com/ameland-2021"
-      }
-    ]
-  },
-  {
-    "domain": "dbrgn.ch",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/04/jwyyzqzivx/",
-        "targetUrl": "https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/"
-      }
-    ]
-  },
-  {
-    "domain": "poedit.net",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/09/28/php-como-utilizar-o-gettext-para-traducoes-parte-2/",
-        "targetUrl": "http://poedit.net/"
-      }
-    ]
-  },
-  {
-    "domain": "tchncs.de",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/05/ceyyxyudqi/",
-        "targetUrl": "https://tchncs.de/"
-      }
-    ]
-  },
-  {
-    "domain": "captureone.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://www.captureone.com/en"
-      }
-    ]
-  },
-  {
-    "domain": "uniplaces.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://www.uniplaces.com/"
-      }
-    ]
-  },
-  {
-    "domain": "ieji.de",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/31/08h14m37s70/",
-        "targetUrl": "https://ieji.de/@martijn/109605090965012384"
-      }
-    ]
-  },
-  {
-    "domain": "vimeo.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/12/10/re-crypto-bs/",
-        "targetUrl": "https://vimeo.com/ondemand/bitcoin"
-      }
-    ]
-  },
-  {
-    "domain": "speedtest.net",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/28/zrzydudgqs/",
-        "targetUrl": "https://www.speedtest.net"
-      }
-    ]
-  },
-  {
-    "domain": "bunnycdn.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/01/media-endpoint/",
-        "targetUrl": "https://bunnycdn.com"
-      }
-    ]
-  },
-  {
-    "domain": "apachefriends.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/07/17/listagem-web-de-uma-tabela-mysql/",
-        "targetUrl": "https://www.apachefriends.org/pt_br/index.html"
-      }
-    ]
-  },
-  {
-    "domain": "dropbox.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://www.dropbox.com/paper"
-      }
-    ]
-  },
-  {
-    "domain": "paulstamatiou.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/11/photos-stories-vs-single/",
-        "targetUrl": "https://paulstamatiou.com/photos/"
-      }
-    ]
-  },
-  {
-    "domain": "ipfs.tech",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/31/october-22/",
-        "targetUrl": "https://ipfs.tech"
-      }
-    ]
-  },
-  {
-    "domain": "namecheap.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://www.namecheap.com"
-      }
-    ]
-  },
-  {
-    "domain": "swapoff.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/25/improvements/",
-        "targetUrl": "https://swapoff.org/chroma/playground/"
-      }
-    ]
-  },
-  {
-    "domain": "regexr.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/04/06/r1/",
-        "targetUrl": "https://regexr.com/"
-      }
-    ]
-  },
-  {
-    "domain": "web3.foundation",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
-        "targetUrl": "https://web3.foundation/"
-      }
-    ]
-  },
-  {
-    "domain": "exodus.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/12/10/re-crypto-bs/",
-        "targetUrl": "https://www.exodus.io/blog/proof-of-work-vs-proof-of-stake/"
-      }
-    ]
-  },
-  {
-    "domain": "opentelemetry.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://opentelemetry.io/"
-      }
-    ]
-  },
-  {
-    "domain": "mai.gov.pt",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/01/january-22/",
-        "targetUrl": "https://www.legislativas2022.mai.gov.pt/"
-      }
-    ]
-  },
-  {
-    "domain": "evehome.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/16/few-weeks-with-kobo/",
-        "targetUrl": "https://www.evehome.com/en/eve-room"
-      }
-    ]
-  },
-  {
-    "domain": "xkcd.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "https://xkcd.com/about/"
-      }
-    ]
-  },
-  {
-    "domain": "tachyons.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/21/n5/",
-        "targetUrl": "https://tachyons.io/"
-      }
-    ]
-  },
-  {
-    "domain": "amsterdamsebos.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/27/visit-to-the-bloesempark/",
-        "targetUrl": "https://www.amsterdamsebos.nl/bloesempark/"
-      }
-    ]
-  },
-  {
-    "domain": "porkbun.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://porkbun.com"
-      }
-    ]
-  },
-  {
-    "domain": "websitecarbon.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/09/21/recently/",
-        "targetUrl": "https://www.websitecarbon.com/"
-      }
-    ]
-  },
-  {
-    "domain": "thebulletin.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/08/covid-origin-article/",
-        "targetUrl": "https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/"
-      }
-    ]
-  },
-  {
-    "domain": "lab-1.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/11/cinema-lab-1/",
-        "targetUrl": "https://www.lab-1.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "websummit.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://websummit.com/"
-      }
-    ]
-  },
-  {
-    "domain": "microformats.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/29/owning-reading-log/",
-        "targetUrl": "http://microformats.org/wiki/jf2"
-      }
-    ]
-  },
-  {
-    "domain": "flickr.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
-        "targetUrl": "https://www.flickr.com/photos/129818819@N03/albums/72177720303968156"
-      }
-    ]
-  },
-  {
-    "domain": "whimsical.club",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/26/why-have-your-website/",
-        "targetUrl": "https://whimsical.club/"
-      }
-    ]
-  },
-  {
-    "domain": "edx.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/"
-      }
-    ]
-  },
-  {
-    "domain": "pinata.cloud",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://pinata.cloud"
-      }
-    ]
-  },
-  {
-    "domain": "tigertech.net",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/08/14/guardar-os-erros-php-num-ficheiro-com-o-htaccess/",
-        "targetUrl": "http://support.tigertech.net/php-value"
-      }
-    ]
-  },
-  {
-    "domain": "zserge.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/12/kleine-office-suite/",
-        "targetUrl": "https://zserge.com/posts/awfice/"
-      }
-    ]
-  },
-  {
-    "domain": "micropub.rocks",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://micropub.rocks"
-      }
-    ]
-  },
-  {
-    "domain": "sigmdel.ca",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
-        "targetUrl": "https://www.sigmdel.ca/michel/ha/wireguard/wireguard_02_en.html#installing_wg_raspbian"
-      }
-    ]
-  },
-  {
-    "domain": "rusingh.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/14/fvdhcnnbur/",
-        "targetUrl": "https://rusingh.com/email-is-nice/"
-      }
-    ]
-  },
-  {
-    "domain": "matrix.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/05/ceyyxyudqi/",
-        "targetUrl": "https://matrix.org"
-      }
-    ]
-  },
-  {
-    "domain": "imgproxy.net",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/14/kzcvzhqtnw/",
-        "targetUrl": "http://imgproxy.net/"
-      }
-    ]
-  },
-  {
-    "domain": "git-scm.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/09/02/git-historia-repositorios-github/",
-        "targetUrl": "http://git-scm.com/"
-      }
-    ]
-  },
-  {
-    "domain": "phpdoc.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/08/11/php-tags-docblocks/",
-        "targetUrl": "http://manual.phpdoc.org/HTMLSmartyConverter/PHP/phpDocumentor/tutorial_tags.pkg.html"
-      }
-    ]
-  },
-  {
-    "domain": "andymatuschak.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/07/20/too-many-notes-apps/",
-        "targetUrl": "https://notes.andymatuschak.org/About_these_notes"
-      }
-    ]
-  },
-  {
-    "domain": "redis.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://redis.io/"
-      }
-    ]
-  },
-  {
-    "domain": "barryfrost.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/09/15h43m59s11/",
-        "targetUrl": "https://barryfrost.com/2022/11/i-ve-added-mastodon-syndication-to"
+        "targetUrl": "https://cr.yp.to/proto/maildir.html"
       }
     ]
   },
@@ -3876,232 +1490,72 @@
     ]
   },
   {
-    "domain": "hacdia.sh",
+    "domain": "museumhelmond.nl",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/more/",
-        "targetUrl": "http://xkcd.hacdia.sh/"
+        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
+        "targetUrl": "https://museumhelmond.nl/kasteel-helmond/"
       }
     ]
   },
   {
-    "domain": "dweb.link",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "http://dweb.link/ipns/xkcd.hacdias.com/"
-      }
-    ]
-  },
-  {
-    "domain": "json.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/07/20/chamadas-ajax-com-jquery-e-php/",
-        "targetUrl": "http://json.org/"
-      }
-    ]
-  },
-  {
-    "domain": "owncloud.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
-        "targetUrl": "https://owncloud.org/"
-      }
-    ]
-  },
-  {
-    "domain": "apple.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/14/fvdhcnnbur/",
-        "targetUrl": "https://support.apple.com/en-us/HT212514"
-      }
-    ]
-  },
-  {
-    "domain": "doi.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/16/paper-blocklearning-framework/",
-        "targetUrl": "https://doi.org/10.1007/978-981-99-0272-9_22"
-      }
-    ]
-  },
-  {
-    "domain": "lipsum.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/07/17/listagem-web-de-uma-tabela-mysql/",
-        "targetUrl": "http://pt.lipsum.com/"
-      }
-    ]
-  },
-  {
-    "domain": "slack.com",
+    "domain": "dropbox.com",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://slack.com/"
+        "targetUrl": "https://www.dropbox.com/paper"
       }
     ]
   },
   {
-    "domain": "craft-wallet.com",
+    "domain": "vega.github.io",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://craft-wallet.com/"
+        "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
+        "targetUrl": "https://vega.github.io/vega-lite/"
       }
     ]
   },
   {
-    "domain": "bitkeeper.com",
+    "domain": "meilisearch.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2014/09/02/git-historia-repositorios-github/",
-        "targetUrl": "http://www.bitkeeper.com/"
+        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
+        "targetUrl": "https://meilisearch.com/"
       }
     ]
   },
   {
-    "domain": "joinmastodon.org",
+    "domain": "whimsical.club",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2023/01/02/09h47m33s86/",
-        "targetUrl": "https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/"
+        "sourceUrl": "https://hacdias.com/2020/10/26/why-have-your-website/",
+        "targetUrl": "https://whimsical.club/"
       }
     ]
   },
   {
-    "domain": "jonworth.eu",
+    "domain": "fruitpunch.ai",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
-        "targetUrl": "https://jonworth.eu/"
+        "sourceUrl": "https://hacdias.com/2022/04/01/march-22/",
+        "targetUrl": "https://fruitpunch.ai/"
       }
     ]
   },
   {
-    "domain": "researchgate.net",
+    "domain": "meetup.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
-        "targetUrl": "https://www.researchgate.net/publication/327483862_Blockchain_as_a_Notarization_Service_for_Data_Sharing_with_Personal_Data_Store"
-      }
-    ]
-  },
-  {
-    "domain": "wireguard.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
-        "targetUrl": "https://www.wireguard.com/install/"
-      }
-    ]
-  },
-  {
-    "domain": "upframe.co",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://upframe.co/"
-      }
-    ]
-  },
-  {
-    "domain": "imasters.com.br",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/08/31/php-56-funcoes-variadicas-nova-sintaxe/",
-        "targetUrl": "http://imasters.com.br"
-      }
-    ]
-  },
-  {
-    "domain": "tantek.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
-        "targetUrl": "http://tantek.com/"
-      }
-    ]
-  },
-  {
-    "domain": "sparkmailapp.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/17/acihzyofws/",
-        "targetUrl": "https://sparkmailapp.com/"
-      }
-    ]
-  },
-  {
-    "domain": "greencitytrip.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/28/qomkstethk/",
-        "targetUrl": "https://greencitytrip.nl"
-      }
-    ]
-  },
-  {
-    "domain": "launchpad.net",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
-        "targetUrl": "https://launchpad.net/php-gettext/"
-      }
-    ]
-  },
-  {
-    "domain": "buttondown.email",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/05/30/openssl-fido2/",
-        "targetUrl": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-openssh-82-just-works/"
-      }
-    ]
-  },
-  {
-    "domain": "zylstra.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/09/12h18m29s77/",
-        "targetUrl": "https://www.zylstra.org/blog/2022/11/22526/"
-      }
-    ]
-  },
-  {
-    "domain": "ulisboa.pt",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://tecnico.ulisboa.pt/pt/"
+        "sourceUrl": "https://hacdias.com/2019/12/20/quick-dive-into-dweb-ipfs/",
+        "targetUrl": "https://www.meetup.com/BarcampLx/events/265593046/"
       }
     ]
   },
@@ -4116,32 +1570,12 @@
     ]
   },
   {
-    "domain": "iternal.us",
+    "domain": "jquery.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://iternal.us/what-is-a-fractal"
-      }
-    ]
-  },
-  {
-    "domain": "miniflux.app",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://miniflux.app/"
-      }
-    ]
-  },
-  {
-    "domain": "startuplisboa.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "http://www.startuplisboa.com/"
+        "sourceUrl": "https://hacdias.com/2014/07/20/chamadas-ajax-com-jquery-e-php/",
+        "targetUrl": "http://jquery.com/"
       }
     ]
   },
@@ -4156,6 +1590,36 @@
     ]
   },
   {
+    "domain": "craft-wallet.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://craft-wallet.com/"
+      }
+    ]
+  },
+  {
+    "domain": "captureone.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://www.captureone.com/en"
+      }
+    ]
+  },
+  {
+    "domain": "facebook.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
+        "targetUrl": "https://www.facebook.com/diogomartferreira"
+      }
+    ]
+  },
+  {
     "domain": "indieauth.net",
     "count": 1,
     "links": [
@@ -4166,72 +1630,142 @@
     ]
   },
   {
-    "domain": "bear.app",
+    "domain": "expressjs.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/02/29/notable-to-hugo/",
-        "targetUrl": "https://bear.app/"
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://expressjs.com/"
       }
     ]
   },
   {
-    "domain": "aseprite.org",
+    "domain": "tchncs.de",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2019/04/18/trying-pixel-art/",
-        "targetUrl": "https://www.aseprite.org/"
+        "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
+        "targetUrl": "https://tchncs.de/"
       }
     ]
   },
   {
-    "domain": "parsedown.org",
+    "domain": "digid.nl",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
-        "targetUrl": "https://parsedown.org"
+        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
+        "targetUrl": "https://www.digid.nl/"
       }
     ]
   },
   {
-    "domain": "jaegertracing.io",
+    "domain": "hacdia.sh",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://www.jaegertracing.io/"
+        "sourceUrl": "https://hacdias.com/more/",
+        "targetUrl": "http://xkcd.hacdia.sh/"
       }
     ]
   },
   {
-    "domain": "ybbond.id",
+    "domain": "json.org",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/02/16/re-is-it-time-to-build-my-cms-errors/",
-        "targetUrl": "https://ybbond.id/responses/response-20210217025510/"
+        "sourceUrl": "https://hacdias.com/2014/07/20/chamadas-ajax-com-jquery-e-php/",
+        "targetUrl": "http://json.org/"
       }
     ]
   },
   {
-    "domain": "maartenballiauw.be",
+    "domain": "last.fm",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/11/09/15h43m59s11/",
-        "targetUrl": "https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html"
+        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music-22/",
+        "targetUrl": "https://www.last.fm/user/hacdias"
       }
     ]
   },
   {
-    "domain": "museumhelmond.nl",
+    "domain": "websitecarbon.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
-        "targetUrl": "https://museumhelmond.nl/kasteel-helmond/"
+        "sourceUrl": "https://hacdias.com/2020/09/21/recently/",
+        "targetUrl": "https://www.websitecarbon.com/"
+      }
+    ]
+  },
+  {
+    "domain": "flickr.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
+        "targetUrl": "https://www.flickr.com/photos/129818819@N03/albums/72177720303968156"
+      }
+    ]
+  },
+  {
+    "domain": "discord.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://discord.com/users/hacdias"
+      }
+    ]
+  },
+  {
+    "domain": "startuplisboa.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "http://www.startuplisboa.com/"
+      }
+    ]
+  },
+  {
+    "domain": "cbs.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
+        "targetUrl": "https://www.cbs.nl/en-gb/dossier/migration-and-integration/how-many-people-immigrate-to-the-netherlands-"
+      }
+    ]
+  },
+  {
+    "domain": "portugeseproducten.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/01/06/when-you-dont-know-the-ingredients/",
+        "targetUrl": "https://www.portugeseproducten.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "ulisboa.pt",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://tecnico.ulisboa.pt/pt/"
+      }
+    ]
+  },
+  {
+    "domain": "evehome.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/06/16/few-weeks-with-kobo/",
+        "targetUrl": "https://www.evehome.com/en/eve-room"
       }
     ]
   },
@@ -4246,42 +1780,132 @@
     ]
   },
   {
-    "domain": "stackexchange.com",
+    "domain": "poedit.net",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2014/12/18/mvc-linguagem-php/",
-        "targetUrl": "http://apple.stackexchange.com/questions/115646/how-can-i-create-a-symbolic-link-in-terminal"
+        "sourceUrl": "https://hacdias.com/2014/09/28/php-como-utilizar-o-gettext-para-traducoes-parte-2/",
+        "targetUrl": "http://poedit.net/"
       }
     ]
   },
   {
-    "domain": "about.me",
+    "domain": "aseprite.org",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
-        "targetUrl": "https://about.me/"
+        "sourceUrl": "https://hacdias.com/2019/04/18/trying-pixel-art/",
+        "targetUrl": "https://www.aseprite.org/"
       }
     ]
   },
   {
-    "domain": "kobobooks.com",
+    "domain": "opensea.io",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/06/16/few-weeks-with-kobo/",
-        "targetUrl": "https://gl.kobobooks.com/products/kobo-clara-hd"
+        "sourceUrl": "https://hacdias.com/2019/04/18/trying-pixel-art/",
+        "targetUrl": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653459892891025409"
       }
     ]
   },
   {
-    "domain": "codemirror.net",
+    "domain": "jonworth.eu",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/08/24/zwdyktkwyb/",
-        "targetUrl": "https://codemirror.net/"
+        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
+        "targetUrl": "https://jonworth.eu/"
+      }
+    ]
+  },
+  {
+    "domain": "matrix.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
+        "targetUrl": "https://matrix.org"
+      }
+    ]
+  },
+  {
+    "domain": "cke.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/06/07/dm-lustrum-exhibition/",
+        "targetUrl": "https://cke.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "miniflux.app",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://miniflux.app/"
+      }
+    ]
+  },
+  {
+    "domain": "dweb.link",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
+        "targetUrl": "http://dweb.link/ipns/xkcd.hacdias.com/"
+      }
+    ]
+  },
+  {
+    "domain": "opentelemetry.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
+        "targetUrl": "https://opentelemetry.io/"
+      }
+    ]
+  },
+  {
+    "domain": "htm.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
+        "targetUrl": "https://www.htm.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "doi.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/16/paper-blocklearning-framework/",
+        "targetUrl": "https://doi.org/10.1007/978-981-99-0272-9_22"
+      }
+    ]
+  },
+  {
+    "domain": "digitalocean.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
+        "targetUrl": "https://www.digitalocean.com/"
+      }
+    ]
+  },
+  {
+    "domain": "notable.md",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/02/29/notable-to-hugo/",
+        "targetUrl": "https://notable.md/"
       }
     ]
   },
@@ -4296,22 +1920,302 @@
     ]
   },
   {
-    "domain": "priberam.org",
+    "domain": "test-ipv6.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/11/09/15h43m59s11/",
-        "targetUrl": "https://dicionario.priberam.org/debandada"
+        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
+        "targetUrl": "https://test-ipv6.com"
       }
     ]
   },
   {
-    "domain": "youtu.be",
+    "domain": "stackexchange.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
-        "targetUrl": "https://youtu.be/PemFIEJtUSw?t=2904"
+        "sourceUrl": "https://hacdias.com/2014/12/18/mvc-linguagem-php/",
+        "targetUrl": "http://apple.stackexchange.com/questions/115646/how-can-i-create-a-symbolic-link-in-terminal"
+      }
+    ]
+  },
+  {
+    "domain": "instagram.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://instagram.com/hacdias"
+      }
+    ]
+  },
+  {
+    "domain": "tryhackme.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/03/31/march-23/",
+        "targetUrl": "https://tryhackme.com/"
+      }
+    ]
+  },
+  {
+    "domain": "matrix.to",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://matrix.to/#/@hacdias:tchncs.de"
+      }
+    ]
+  },
+  {
+    "domain": "microlab.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "http://microlab.nl"
+      }
+    ]
+  },
+  {
+    "domain": "porkbun.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://porkbun.com"
+      }
+    ]
+  },
+  {
+    "domain": "hermes.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
+        "targetUrl": "https://www.hermes.nl/nl/"
+      }
+    ]
+  },
+  {
+    "domain": "kobobooks.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/06/16/few-weeks-with-kobo/",
+        "targetUrl": "https://gl.kobobooks.com/products/kobo-clara-hd"
+      }
+    ]
+  },
+  {
+    "domain": "amsterdamsebos.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/03/27/visit-to-the-bloesempark/",
+        "targetUrl": "https://www.amsterdamsebos.nl/bloesempark/"
+      }
+    ]
+  },
+  {
+    "domain": "upframe.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://upframe.io/"
+      }
+    ]
+  },
+  {
+    "domain": "commentpara.de",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
+        "targetUrl": "https://commentpara.de"
+      }
+    ]
+  },
+  {
+    "domain": "godaddy.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
+        "targetUrl": "https://godaddy.com/"
+      }
+    ]
+  },
+  {
+    "domain": "micropub.rocks",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://micropub.rocks"
+      }
+    ]
+  },
+  {
+    "domain": "pastelarialusa.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/09/21/recently/",
+        "targetUrl": "https://pastelarialusa.nl"
+      }
+    ]
+  },
+  {
+    "domain": "ipfs-thing.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/04/19/interplanetary-specifications/",
+        "targetUrl": "https://2023.ipfs-thing.io/"
+      }
+    ]
+  },
+  {
+    "domain": "bitkeeper.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/09/02/git-historia-repositorios-github/",
+        "targetUrl": "http://www.bitkeeper.com/"
+      }
+    ]
+  },
+  {
+    "domain": "uses.tech",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://uses.tech/"
+      }
+    ]
+  },
+  {
+    "domain": "mai.gov.pt",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/01/january-22/",
+        "targetUrl": "https://www.legislativas2022.mai.gov.pt/"
+      }
+    ]
+  },
+  {
+    "domain": "ipfs.camp",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/31/october-22/",
+        "targetUrl": "https://2022.ipfs.camp/"
+      }
+    ]
+  },
+  {
+    "domain": "viarail.ca",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian"
+      }
+    ]
+  },
+  {
+    "domain": "git-scm.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/09/02/git-historia-repositorios-github/",
+        "targetUrl": "http://git-scm.com/"
+      }
+    ]
+  },
+  {
+    "domain": "artemix.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/11/02/backing-up-email/",
+        "targetUrl": "https://www.artemix.org/blog/backing-up-e-mails-from-an-imap-server"
+      }
+    ]
+  },
+  {
+    "domain": "sigmdel.ca",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
+        "targetUrl": "https://www.sigmdel.ca/michel/ha/wireguard/wireguard_02_en.html#installing_wg_raspbian"
+      }
+    ]
+  },
+  {
+    "domain": "slack.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://slack.com/"
+      }
+    ]
+  },
+  {
+    "domain": "parsedown.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
+        "targetUrl": "https://parsedown.org"
+      }
+    ]
+  },
+  {
+    "domain": "reuters.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
+        "targetUrl": "https://www.reuters.com/article/health-coronavirus-eu-astrazeneca/astrazeneca-offers-8-million-extra-doses-to-eu-through-march-source-idUSL1N2K30UO"
+      }
+    ]
+  },
+  {
+    "domain": "pinata.cloud",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
+        "targetUrl": "https://pinata.cloud"
+      }
+    ]
+  },
+  {
+    "domain": "web3.foundation",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
+        "targetUrl": "https://web3.foundation/"
+      }
+    ]
+  },
+  {
+    "domain": "spotify.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music-22/",
+        "targetUrl": "https://spotify.com/"
       }
     ]
   },
@@ -4326,12 +2230,462 @@
     ]
   },
   {
-    "domain": "digitalocean.com",
+    "domain": "ycombinator.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "https://www.digitalocean.com/"
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://news.ycombinator.com/user?id=hacdias"
+      }
+    ]
+  },
+  {
+    "domain": "quora.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
+        "targetUrl": "https://www.quora.com/Why-should-I-learn-Programming"
+      }
+    ]
+  },
+  {
+    "domain": "websummit.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://websummit.com/"
+      }
+    ]
+  },
+  {
+    "domain": "europa.eu",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
+        "targetUrl": "https://eur-lex.europa.eu/eli/reg/2019/1157/oj"
+      }
+    ]
+  },
+  {
+    "domain": "thisiseindhoven.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/09/05/xfqnqooylo/",
+        "targetUrl": "https://www.thisiseindhoven.com/en/see-and-do/dynamic-districts/strijp-s"
+      }
+    ]
+  },
+  {
+    "domain": "researchgate.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
+        "targetUrl": "https://www.researchgate.net/publication/327483862_Blockchain_as_a_Notarization_Service_for_Data_Sharing_with_Personal_Data_Store"
+      }
+    ]
+  },
+  {
+    "domain": "iternal.us",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://iternal.us/what-is-a-fractal"
+      }
+    ]
+  },
+  {
+    "domain": "tigertech.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/08/14/guardar-os-erros-php-num-ficheiro-com-o-htaccess/",
+        "targetUrl": "http://support.tigertech.net/php-value"
+      }
+    ]
+  },
+  {
+    "domain": "imdb.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
+        "targetUrl": "http://www.imdb.com/title/tt0470752/"
+      }
+    ]
+  },
+  {
+    "domain": "gnu.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2016/11/14/fundamentals-programming-language-c/",
+        "targetUrl": "https://gcc.gnu.org/"
+      }
+    ]
+  },
+  {
+    "domain": "upframe.co",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://upframe.co/"
+      }
+    ]
+  },
+  {
+    "domain": "microformats.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/29/owning-reading-log/",
+        "targetUrl": "http://microformats.org/wiki/jf2"
+      }
+    ]
+  },
+  {
+    "domain": "oauth.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
+        "targetUrl": "https://oauth.net/2/"
+      }
+    ]
+  },
+  {
+    "domain": "dinnertrain.eu",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://dinnertrain.eu/"
+      }
+    ]
+  },
+  {
+    "domain": "nightjet.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://www.nightjet.com/"
+      }
+    ]
+  },
+  {
+    "domain": "edx.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/"
+      }
+    ]
+  },
+  {
+    "domain": "launchpad.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
+        "targetUrl": "https://launchpad.net/php-gettext/"
+      }
+    ]
+  },
+  {
+    "domain": "jaegertracing.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
+        "targetUrl": "https://www.jaegertracing.io/"
+      }
+    ]
+  },
+  {
+    "domain": "papers-we-love.github.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
+        "targetUrl": "http://papers-we-love.github.io/"
+      }
+    ]
+  },
+  {
+    "domain": "asana.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://asana.com/"
+      }
+    ]
+  },
+  {
+    "domain": "xkcd.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
+        "targetUrl": "https://xkcd.com/about/"
+      }
+    ]
+  },
+  {
+    "domain": "caddyserver.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
+        "targetUrl": "https://caddyserver.com/"
+      }
+    ]
+  },
+  {
+    "domain": "docker.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
+        "targetUrl": "https://www.docker.com/"
+      }
+    ]
+  },
+  {
+    "domain": "tantek.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
+        "targetUrl": "http://tantek.com/"
+      }
+    ]
+  },
+  {
+    "domain": "namecheap.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://www.namecheap.com"
+      }
+    ]
+  },
+  {
+    "domain": "imasters.com.br",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/08/31/php-56-funcoes-variadicas-nova-sintaxe/",
+        "targetUrl": "http://imasters.com.br"
+      }
+    ]
+  },
+  {
+    "domain": "microsoft.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://www.microsoft.com/pt-pt/"
+      }
+    ]
+  },
+  {
+    "domain": "uniplaces.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://www.uniplaces.com/"
+      }
+    ]
+  },
+  {
+    "domain": "redis.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
+        "targetUrl": "https://redis.io/"
+      }
+    ]
+  },
+  {
+    "domain": "mozilla.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API"
+      }
+    ]
+  },
+  {
+    "domain": "bunny.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://bunny.net/"
+      }
+    ]
+  },
+  {
+    "domain": "phpdoc.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/08/11/php-tags-docblocks/",
+        "targetUrl": "http://manual.phpdoc.org/HTMLSmartyConverter/PHP/phpDocumentor/tutorial_tags.pkg.html"
+      }
+    ]
+  },
+  {
+    "domain": "apachefriends.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/07/17/listagem-web-de-uma-tabela-mysql/",
+        "targetUrl": "https://www.apachefriends.org/pt_br/index.html"
+      }
+    ]
+  },
+  {
+    "domain": "bsky.app",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://bsky.app/profile/hacdias.com"
+      }
+    ]
+  },
+  {
+    "domain": "about.me",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
+        "targetUrl": "https://about.me/"
+      }
+    ]
+  },
+  {
+    "domain": "youtu.be",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
+        "targetUrl": "https://youtu.be/PemFIEJtUSw?t=2904"
+      }
+    ]
+  },
+  {
+    "domain": "lipsum.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/07/17/listagem-web-de-uma-tabela-mysql/",
+        "targetUrl": "http://pt.lipsum.com/"
+      }
+    ]
+  },
+  {
+    "domain": "starbucks.pt",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "http://www.starbucks.pt/"
+      }
+    ]
+  },
+  {
+    "domain": "lunrjs.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://lunrjs.com/"
+      }
+    ]
+  },
+  {
+    "domain": "bear.app",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/02/29/notable-to-hugo/",
+        "targetUrl": "https://bear.app/"
+      }
+    ]
+  },
+  {
+    "domain": "wireguard.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
+        "targetUrl": "https://www.wireguard.com/install/"
+      }
+    ]
+  },
+  {
+    "domain": "ipfs.tech",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/31/october-22/",
+        "targetUrl": "https://ipfs.tech"
+      }
+    ]
+  },
+  {
+    "domain": "t.me",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://t.me/hacdias"
+      }
+    ]
+  },
+  {
+    "domain": "mingw.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2016/11/14/fundamentals-programming-language-c/",
+        "targetUrl": "http://www.mingw.org/download/installer"
+      }
+    ]
+  },
+  {
+    "domain": "aachen-tourismus.de",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/12/02/november-2021/",
+        "targetUrl": "https://www.aachen-tourismus.de/en/discover/events/aachen-christmas-market/"
+      }
+    ]
+  },
+  {
+    "domain": "owncloud.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
+        "targetUrl": "https://owncloud.org/"
       }
     ]
   }
