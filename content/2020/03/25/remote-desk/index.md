@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
 date: 2020-03-25T19:24:40.529Z
+expiryDate: 2023-06-21T08:03:10.075181+02:00
 noIndex: true
 tags:
 - remote

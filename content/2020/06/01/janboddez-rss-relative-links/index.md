@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on janboddez.tech
 date: 2020-06-01T13:51:07.72Z
+expiryDate: 2023-06-21T08:03:10.076033+02:00
 noIndex: true
 tags:
 - meta

@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on peoplemaking.games
 date: 2022-12-29T14:49:02.374087912+01:00
+expiryDate: 2023-06-21T08:03:10.085744+02:00
 noIndex: true
 categories:
 - notes

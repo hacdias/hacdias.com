@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on seblog.nl
 date: 2021-11-18T21:07:18.222010491Z
+expiryDate: 2023-06-21T08:03:10.079334+02:00
 noIndex: true
 categories:
 - notes

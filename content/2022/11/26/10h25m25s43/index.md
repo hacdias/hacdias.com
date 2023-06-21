@@ -2,6 +2,7 @@
 description: Replied to a post on jan.boddez.net
 date: 2022-11-26T10:25:25.438422668+01:00
 lastmod: 2022-11-26T10:53:57.826760607+01:00
+expiryDate: 2023-06-21T08:03:10.084123+02:00
 noIndex: true
 categories:
 - notes

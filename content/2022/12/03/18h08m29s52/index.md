@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on shkspr.mobi
 date: 2022-12-03T18:08:29.005299319+01:00
+expiryDate: 2023-06-21T08:03:10.084378+02:00
 noIndex: true
 categories:
 - notes

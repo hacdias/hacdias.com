@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on kandr3s.co
 date: 2022-08-15T11:05:29.413372618+02:00
+expiryDate: 2023-06-21T08:03:10.082507+02:00
 noIndex: true
 categories:
 - notes

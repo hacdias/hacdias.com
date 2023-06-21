@@ -2,6 +2,7 @@
 description: Replied to a post on public.garden
 date: 2023-01-02T09:47:33.867096205+01:00
 lastmod: 2023-01-02T09:57:18.628132399+01:00
+expiryDate: 2023-06-21T08:03:10.085929+02:00
 noIndex: true
 categories:
 - notes

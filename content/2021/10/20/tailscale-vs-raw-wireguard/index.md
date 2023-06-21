@@ -2,6 +2,7 @@
 description: Replied to a post on jlelse.blog
 date: 2021-10-20T17:58:02.482971336Z
 lastmod: 2021-10-20T18:02:50.928140335Z
+expiryDate: 2023-06-21T08:03:10.078187+02:00
 noIndex: true
 tags:
 - networking

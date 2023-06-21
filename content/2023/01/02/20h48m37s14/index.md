@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlelse.blog
 date: 2023-01-02T20:48:37.149009904+01:00
+expiryDate: 2023-06-21T08:03:10.086156+02:00
 noIndex: true
 categories:
 - notes

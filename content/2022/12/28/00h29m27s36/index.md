@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jlg.micro.blog
 date: 2022-12-28T00:29:27.364686311+01:00
+expiryDate: 2023-06-21T08:03:10.085552+02:00
 noIndex: true
 categories:
 - notes

@@ -2,6 +2,7 @@
 description: Replied to a post on brainbaking.com
 date: 2022-12-26T19:07:02.721848524+01:00
 lastmod: 2022-12-26T19:07:32.319302669+01:00
+expiryDate: 2023-06-21T08:00:25.12803+02:00
 noIndex: true
 categories:
 - notes

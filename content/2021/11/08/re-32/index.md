@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on aaronparecki.com
 date: 2021-11-08T17:33:01.39556185Z
+expiryDate: 2023-06-21T08:03:10.078614+02:00
 noIndex: true
 categories:
 - notes

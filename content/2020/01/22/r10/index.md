@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on aaronparecki.com
 date: 2020-01-22T14:16:31.926Z
+expiryDate: 2023-06-21T08:02:07.785566+02:00
 noIndex: true
 tags:
 - maps

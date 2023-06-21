@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on jan.boddez.net
 date: 2020-10-14T10:09:25Z
+expiryDate: 2023-06-21T08:03:10.076648+02:00
 noIndex: true
 tags:
 - meta

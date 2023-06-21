@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on www.jvt.me
 date: 2020-02-29T22:19:56.901Z
+expiryDate: 2023-06-21T08:03:10.074567+02:00
 noIndex: true
 tags:
 - telegram

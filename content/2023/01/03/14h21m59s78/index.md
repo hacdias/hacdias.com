@@ -1,6 +1,7 @@
 ---
 description: Replied to a post on mastodon.ar.al
 date: 2023-01-03T14:21:59.788055467+01:00
+expiryDate: 2023-06-21T08:03:10.086474+02:00
 noIndex: true
 categories:
 - notes
