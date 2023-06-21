@@ -1,5 +1,6 @@
 ---
 date: 2022-06-16T19:55:03.452219666+02:00
+expiryDate: 2023-06-21T09:19:37.068663+02:00
 categories:
 - notes
 location:

@@ -8,7 +8,7 @@ tags:
 - mathematics
 - portuguese
 categories:
-- notes
+- articles
 syndications:
 - https://www.youtube.com/watch?v=AtwPGZ9VioE
 ---

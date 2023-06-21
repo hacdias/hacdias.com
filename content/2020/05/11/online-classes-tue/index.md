@@ -1,5 +1,6 @@
 ---
 date: 2020-05-11T20:44:16.729Z
+expiryDate: 2023-06-21T09:27:04.360413+02:00
 tags:
 - university
 - masters

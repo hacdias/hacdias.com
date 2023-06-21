@@ -1,5 +1,6 @@
 ---
 date: 2020-01-22T21:17:18.565Z
+expiryDate: 2023-06-21T09:27:04.359906+02:00
 tags:
 - quotes
 categories:

@@ -1,5 +1,6 @@
 ---
 date: 2020-03-02T18:31:30.487Z
+expiryDate: 2023-06-21T09:27:04.360323+02:00
 tags:
 - university
 - work
