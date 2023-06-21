@@ -1,6 +1,6 @@
 {{ $pageTitle := partialCached "fns/title" . .Title .Data.Singular }}
 {{- $pages := .Pages }}
-{{ if .IsHome }}{{ $pages = where .Site.RegularPages "Params.categories" "ne" nil }}{{ end }}
+{{ if .IsHome }}{{ $pages = partialCached "fns/pages" . .Permalink }}{{ end }}
 {{- $pages = $pages | first .Site.Config.Services.RSS.Limit }}
 {
   "version": "https://jsonfeed.org/version/1",
