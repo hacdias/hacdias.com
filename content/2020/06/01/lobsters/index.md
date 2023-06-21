@@ -1,7 +1,7 @@
 ---
 description: Replied to a post on hacdias.com
 date: 2020-06-01T07:24:38.574Z
-expiryDate: 2023-06-21T07:40:11.438115+02:00
+expiryDate: 2023-06-21T07:54:16.900109+02:00
 noIndex: true
 categories:
 - notes

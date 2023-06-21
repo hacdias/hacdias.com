@@ -1,5 +1,6 @@
 ---
 date: 2020-05-13T10:41:37.201Z
+expiryDate: 2023-06-21T07:54:16.89979+02:00
 categories:
 - notes
 syndications:

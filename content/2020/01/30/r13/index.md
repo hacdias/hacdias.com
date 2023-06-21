@@ -1,7 +1,7 @@
 ---
 description: Replied to a post on twitter.com
 date: 2020-01-30T11:25:56.527Z
-expiryDate: 2023-06-21T07:53:10.206675+02:00
+expiryDate: 2023-06-21T07:54:16.899122+02:00
 noIndex: true
 tags:
 - dictionary

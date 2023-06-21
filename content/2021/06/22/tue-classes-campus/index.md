@@ -1,5 +1,6 @@
 ---
 date: 2021-06-22T11:38:35.3294665Z
+expiryDate: 2023-06-21T07:54:16.90111+02:00
 categories:
 - notes
 syndications:

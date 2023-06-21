@@ -1,5 +1,6 @@
 ---
 date: 2021-12-05T13:28:00.078685951Z
+expiryDate: 2023-06-21T07:54:16.901468+02:00
 categories:
 - notes
 location:
