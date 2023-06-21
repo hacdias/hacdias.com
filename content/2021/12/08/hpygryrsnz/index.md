@@ -2,6 +2,8 @@
 description: Replied to a post on hacdias.com
 date: 2021-12-08T07:18:21.87747629Z
 noIndex: true
+categories:
+- notes
 context:
   name: Henrique Dias
   url: https://hacdias.com/2021/12/05/sinterklaas

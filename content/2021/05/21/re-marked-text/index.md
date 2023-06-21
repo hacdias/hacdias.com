@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-05-21T06:11:15.099852557Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/05/2021-05-20-btvks

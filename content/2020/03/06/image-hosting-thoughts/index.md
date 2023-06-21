@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2020-03-06T11:57:08.634Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/03/photos-workflow

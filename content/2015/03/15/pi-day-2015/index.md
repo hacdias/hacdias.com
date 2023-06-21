@@ -7,6 +7,8 @@ noIndex: true
 tags:
 - mathematics
 - portuguese
+categories:
+- notes
 syndications:
 - https://www.youtube.com/watch?v=AtwPGZ9VioE
 ---

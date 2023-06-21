@@ -5,6 +5,8 @@ noIndex: true
 tags:
 - meta
 - indieweb
+categories:
+- notes
 context:
   name: Jan Boddez
   url: https://jan.boddez.net/notes/046185c328

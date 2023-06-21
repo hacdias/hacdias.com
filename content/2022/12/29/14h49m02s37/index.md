@@ -2,6 +2,8 @@
 description: Replied to a post on peoplemaking.games
 date: 2022-12-29T14:49:02.374087912+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 37.01986120265777
   longitude: -7.967474005621144

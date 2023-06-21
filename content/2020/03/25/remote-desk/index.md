@@ -4,6 +4,8 @@ date: 2020-03-25T19:24:40.529Z
 noIndex: true
 tags:
 - remote
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/03/my-desk

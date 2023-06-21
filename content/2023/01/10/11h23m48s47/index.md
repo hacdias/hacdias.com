@@ -3,6 +3,8 @@ description: Replied to a post on jlelse.blog
 date: 2023-01-10T11:23:48.476217634+01:00
 lastmod: 2023-01-10T11:25:46.444555738+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.223637164894846
   longitude: 6.8338486300875765

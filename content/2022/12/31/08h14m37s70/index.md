@@ -2,6 +2,8 @@
 description: Replied to a post on ieji.de
 date: 2022-12-31T08:14:37.705598522+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.44588805765304
   longitude: 5.461439028943152

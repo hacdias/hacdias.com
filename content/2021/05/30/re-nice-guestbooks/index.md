@@ -2,6 +2,8 @@
 description: Replied to a post on commentpara.de
 date: 2021-05-30T21:15:00.780732992Z
 noIndex: true
+categories:
+- notes
 context:
   name: Lori
   url: https://commentpara.de/comment/859.htm

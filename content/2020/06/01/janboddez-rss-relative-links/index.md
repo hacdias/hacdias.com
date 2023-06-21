@@ -4,6 +4,8 @@ date: 2020-06-01T13:51:07.72Z
 noIndex: true
 tags:
 - meta
+categories:
+- notes
 context:
   name: Jan Boddez
   url: https://janboddez.tech/notes/b6b59a1630

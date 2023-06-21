@@ -2,6 +2,8 @@
 description: Replied to a post on chat.brainbaking.com
 date: 2022-12-01T12:19:32.836321109+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.44591
   longitude: 5.46188

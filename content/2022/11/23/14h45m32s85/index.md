@@ -2,6 +2,8 @@
 description: Replied to a post on geekcompass.com
 date: 2022-11-23T14:45:32.857502702+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43238
   longitude: 5.48612

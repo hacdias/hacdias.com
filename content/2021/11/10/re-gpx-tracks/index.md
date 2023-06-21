@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-11-10T17:40:31.292946556Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2021/11/gpx-tracks

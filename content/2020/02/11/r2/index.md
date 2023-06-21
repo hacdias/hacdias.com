@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2020-02-11T13:58:19.007Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/dev/activitystreams-hugo

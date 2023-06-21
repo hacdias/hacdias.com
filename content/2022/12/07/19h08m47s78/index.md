@@ -2,6 +2,8 @@
 description: Replied to a post on hacdias.com
 date: 2022-12-07T19:08:47.07821401+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.44583
   longitude: 5.46178

@@ -2,6 +2,8 @@
 description: Replied to a post on seblog.nl
 date: 2021-11-18T21:07:18.222010491Z
 noIndex: true
+categories:
+- notes
 context:
   name: Sebastiaan Andeweg
   url: https://seblog.nl/2021/11/18/1/indieauth-without-indieauth-com

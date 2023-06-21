@@ -6,6 +6,8 @@ tags:
 - meta
 - indieweb
 - activitypub
+categories:
+- notes
 context:
   name: Jan Boddez
   url: https://jan.boddez.net/notes/046185c328

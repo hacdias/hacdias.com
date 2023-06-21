@@ -5,6 +5,8 @@ noIndex: true
 tags:
 - ton
 - decentralization
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/links/2020/05/ton-cancelled

@@ -2,6 +2,8 @@
 description: Replied to a post on mastodon.ar.al
 date: 2023-01-03T14:21:59.788055467+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.444342205805356
   longitude: 5.459753740235188

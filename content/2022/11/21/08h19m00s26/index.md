@@ -2,6 +2,8 @@
 description: Replied to a post on fosstodon.org
 date: 2022-11-21T08:19:00.266043831+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43248
   longitude: 5.48619

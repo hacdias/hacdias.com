@@ -5,6 +5,8 @@ noIndex: true
 tags:
 - blockchain
 - cryptocurrency
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/12/crypto-bs

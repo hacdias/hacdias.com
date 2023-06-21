@@ -4,6 +4,8 @@ date: 2020-07-21T07:34:33.271Z
 noIndex: true
 tags:
 - meta
+categories:
+- notes
 context:
   name: Henrique Dias
   url: https://hacdias.com/2020/07/20/too-many-notes-apps

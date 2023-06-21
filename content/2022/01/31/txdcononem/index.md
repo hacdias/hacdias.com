@@ -2,6 +2,8 @@
 description: Replied to a post on hacdias.com
 date: 2022-01-31T17:35:14.531474529+01:00
 noIndex: true
+categories:
+- notes
 context:
   name: Henrique Dias
   url: https://hacdias.com/2021/12/04/aperture-doesnt-fetch

@@ -6,6 +6,8 @@ tags:
 - telegram
 - notifications
 - webmentions
+categories:
+- notes
 context:
   name: Jamie Tanna
   url: https://www.jvt.me/posts/2020/01/12/webmention-notifications/

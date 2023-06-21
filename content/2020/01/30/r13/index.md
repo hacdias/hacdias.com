@@ -5,6 +5,8 @@ noIndex: true
 tags:
 - dictionary
 - meaning
+categories:
+- notes
 context:
   name: Ana Guerra
   url: https://twitter.com/anarlguerra/status/1222824668740100097

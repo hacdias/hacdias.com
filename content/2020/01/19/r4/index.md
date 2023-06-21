@@ -5,6 +5,8 @@ noIndex: true
 tags:
 - software
 - micropub
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/01/optimizing-software

@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2020-04-08T19:31:24.963Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/04/study-emails

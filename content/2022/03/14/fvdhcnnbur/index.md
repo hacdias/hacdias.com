@@ -4,6 +4,8 @@ date: 2022-03-14T07:41:13.940614796+01:00
 noIndex: true
 tags:
 - email
+categories:
+- notes
 context:
   url: https://rusingh.com/email-is-nice/
   content: I’ve been unsubscribing from intentional/side effect spam (as I like to

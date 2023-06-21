@@ -2,6 +2,8 @@
 description: Replied to a post on janboddez.tech
 date: 2020-04-09T08:29:52.754Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan Boddez
   url: https://janboddez.tech/notes/14ce942433

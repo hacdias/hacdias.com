@@ -2,6 +2,8 @@
 description: Replied to a post on hacdias.com
 date: 2020-06-01T07:24:38.574Z
 noIndex: true
+categories:
+- notes
 context:
   name: Henrique Dias
   url: https://hacdias.com/2020/05/31/lobsters

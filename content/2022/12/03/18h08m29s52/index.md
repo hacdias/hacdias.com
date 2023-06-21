@@ -2,6 +2,8 @@
 description: Replied to a post on shkspr.mobi
 date: 2022-12-03T18:08:29.005299319+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43921
   longitude: 5.45587

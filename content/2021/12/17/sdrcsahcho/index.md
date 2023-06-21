@@ -2,6 +2,8 @@
 description: Replied to a post on micro.blog
 date: 2021-12-17T15:44:32.836442167Z
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43251
   longitude: 5.48611

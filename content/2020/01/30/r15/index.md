@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2020-01-30T22:21:16.521Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/01/telegram-features

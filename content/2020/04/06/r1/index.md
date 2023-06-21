@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2020-04-06T17:11:46.525Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/04/regex101

@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-10-20T18:07:03.215693684Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/10/2021-10-20-uwmdk

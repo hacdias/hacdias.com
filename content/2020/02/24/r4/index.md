@@ -5,6 +5,8 @@ noIndex: true
 tags:
 - socialmedia
 - detox
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/thoughts/2020/02/twitter-brands

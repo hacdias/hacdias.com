@@ -2,6 +2,8 @@
 description: Replied to a post on twitter.com
 date: 2020-06-01T07:39:07.886Z
 noIndex: true
+categories:
+- notes
 context:
   name: Diogo Redin
   url: https://twitter.com/DiogoRedin/status/1267212226471120900

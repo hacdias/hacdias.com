@@ -6,6 +6,8 @@ tags:
 - gps
 - data
 - visualization
+categories:
+- notes
 context:
   name: Aaron Parecki
   url: https://aaronparecki.com/gps

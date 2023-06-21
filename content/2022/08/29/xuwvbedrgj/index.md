@@ -2,6 +2,8 @@
 description: Replied to a post on hacdias.com
 date: 2022-08-29T13:16:12.519857344+02:00
 noIndex: true
+categories:
+- notes
 context:
   name: Henrique Dias
   url: https://hacdias.com/2022/08/28/zrzydudgqs

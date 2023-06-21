@@ -3,6 +3,8 @@ description: Replied to a post on brainbaking.com
 date: 2022-12-26T19:07:02.721848524+01:00
 lastmod: 2022-12-26T19:07:32.319302669+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 37.50651
   longitude: -8.29791

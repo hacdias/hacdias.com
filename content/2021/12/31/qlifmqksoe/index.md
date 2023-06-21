@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2021-12-31T17:50:29.890585283Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2021/12/2021-12-31-berql

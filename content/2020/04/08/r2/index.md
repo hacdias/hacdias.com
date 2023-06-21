@@ -2,6 +2,8 @@
 description: Replied to a post on twitter.com
 date: 2020-04-08T17:31:19.635Z
 noIndex: true
+categories:
+- notes
 context:
   name: Spacedodo42
   url: https://twitter.com/neptzoo/status/1247856377642565633

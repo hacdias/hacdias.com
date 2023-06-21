@@ -2,6 +2,8 @@
 description: Replied to a post on jlelse.blog
 date: 2022-01-15T19:07:06.084181535Z
 noIndex: true
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2022/01/2022-01-15-gmwvj

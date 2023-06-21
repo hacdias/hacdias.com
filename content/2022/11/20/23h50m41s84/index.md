@@ -2,6 +2,8 @@
 description: Replied to a post on seblog.nl
 date: 2022-11-20T23:50:41.842027051+01:00
 noIndex: true
+categories:
+- notes
 location:
   latitude: 51.43247
   longitude: 5.48605

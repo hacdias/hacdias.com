@@ -4,6 +4,8 @@ date: 2020-06-01T18:44:39.02Z
 noIndex: true
 tags:
 - meta
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/06/relative-links-hugo-rss

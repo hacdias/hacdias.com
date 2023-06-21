@@ -6,6 +6,8 @@ tags:
 - meta
 - optimization
 - security
+categories:
+- notes
 context:
   name: Jan-Lukas Else
   url: https://jlelse.blog/micro/2020/01/2020-01-22-fryan

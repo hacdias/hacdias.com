@@ -6,6 +6,8 @@ tags:
 - ipfs
 - dweb
 - web3
+categories:
+- notes
 context:
   name: David Dias
   url: https://twitter.com/daviddias/status/1262684702865076224
