@@ -11,7 +11,7 @@ Today I bring something not as conventional: a post about certain elements of my
 
 The first element of my website I am going to go over is the sticky headers. These sticky headers can be found in different pages. Usually, these pages present chronologically ordered content grouped by year, such as [✏️ Articles](/articles/), [🚆 Trips](/trips/) and [🎬 Watches](/watches/).
 
-![](cdn:/084bd93d5e404433a1f6681e03e7bf96912c85da4ab98d85fa64dca3627cbe5f?class=fw)
+![](cdn:/b6065a02e80ab58a126b66d6ea07625b8fcd14b88bee9ad526b1c8003355c7dd?class=fw)
 
 I first saw these headers on [Tim's website](https://timharek.no/blog/), who, just like myself, has a few content listings, such as the blog, but also [log pages](https://timharek.no/logs/). When I saw these sticky headers I thought they were quite fascinating. What happens is that when you scroll, the current year header is "stuck" on the top of the page and therefore always visible.
 
@@ -21,7 +21,7 @@ The header of my website usually shows a verification badge, which I already men
 
 The first time I think I saw something like this was on [Sebastiaan's blog](https://seblog.nl/). For example, during his birthday, a cake emoji will show up next to his picture. I implemented something similar, but next to my name. If a special date is present, the verification badge will be replaced by something else.
 
-![](cdn:/796fc07b08e571129aa7a6ca9e0f2f18e65f26b1bfacb8030568c2b2252dc64b?class=fw)
+![](cdn:/5a69a815a625ae61476b651511dba9479813e981e3cd02c320d9841a327f042a?class=fw)
 
 For example, at the present it's June, therefore Pride Month. So my website shows a little 🏳️‍🌈 next to my name. In other times of the year you might find some other, possibly more intriguing emojis, such as 🍪 and 👻. The best part is that they all have a an alternative text and title describing what exactly is happening! Note that these will only work if you have JavaScript enabled in your browser.
 
@@ -29,13 +29,13 @@ For example, at the present it's June, therefore Pride Month. So my website show
 
 In [May](/2023/05/31/may-23/) I made a relatively noticeable update to my homepage: I removed the regular listing of posts, in favour of a simple list with the latest 4 posts, plus 4 favorite posts. This is inspired by [Jim's blog](https://blog.jim-nielsen.com/), and it was something that has been on my list for quite some time. I want my website's homepage to be slightly more curated than it was before. In addition, I also added some of the latest images I published.
 
-![](cdn:/316b607a5933d363458657bf3d2a026bbd6701e449146afa3a7b535cd2913272?class=fw)
+![](cdn:/081ef31ac2089c38ae7eb7af440ee702af52e6e8b4bec8b5041ba3dc23755d4b?class=fw)
 
 ## Bookmarks Page
 
 Finally, the [bookmarks](/bookmarks/) page. My bookmarks page is likely not yet complete and, just like anything else in this website, it can change in the future. Nevertheless, the current iteration is based on [Seirdy's bookmarks](https://seirdy.one/bookmarks/). I also "stole" a small idea from [Jim's notes](https://notes.jim-nielsen.com/) where the published date is also an anchor reference. Therefore, all bookmarks are linkable.
 
-![](cdn:/4eedfaa9679ec5aa410a678dfc335febb9b45b8d1821c27f79266a7b75e9a5eb?class=fw)
+![](cdn:/74ef1f21f1df317dab5fa8037d3b661c526d4bead4b5ad2a0762407e6373c724?class=fw)
 
 ---
 
