@@ -26,7 +26,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [✏️ Articles](/articles/)
 - [🔖 Bookmarks](/bookmarks/)
 - [🖼️ Graphics](/graphics/)
-- [🗒️ Notes](/notes/)
 - [📸 Photos](/photos/)
 - [📚 Readings](/readings/)
 
