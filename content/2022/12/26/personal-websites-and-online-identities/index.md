@@ -17,7 +17,7 @@ Online services. We all have accounts on those. Be it Instagram, Facebook, ~~Twi
 
 Then come the personal websites. For those who have one, we usually use it as the centrepiece of our online identity. For those that, just like myself, enjoy dabbling in the depths of the [IndieWeb](https://indieweb.org/), we go even further: we make our website the one and only source of truth and then we [POSSE](https://indieweb.org/POSSE).
 
-Since two years ago, I started putting a lot of things on this website: checkins, itineraries, bookmarks, etc. Some times I wondered if I [should remove](/2020/02/17/n4) some posts, some times I actually [removed](/2020/02/17/removed-watches-checkins) them. As we say in Portuguese, "I change my mind as someone changes underwear". And I keep [wondering](/2022/08/14/should-every-update-be-a-post).
+Since two years ago, I started putting a lot of things on this website: checkins, itineraries, bookmarks, etc. Some times I wondered if I should remove some posts, some times I actually removed them. As we say in Portuguese, "I change my mind as someone changes underwear". And I keep [wondering](/2022/08/14/should-every-update-be-a-post).
 
 One of the reasons I [moved](/2021/10/31/eagle-move-away-from-hugo) [away](/2021/11/19/farewell-hugo-hello-eagle) from Hugo was to seek flexibility. Instead of finding what I was looking for, I now feel myself looking for simplicity again. The simplicity of a static website. And it's complicated. There is no definite answer. [Martin](https://mew.tv/) said something interesting: "try to imagine yourself 15 years from now, looking back". That is a very interesting thought: what do I want to see in my website in 15 years?
 
@@ -33,11 +33,11 @@ What do I want? I really don't know. A few months ago I posted about if every [u
 
 During this past year, I've made quite a few changes to this website. Perhaps less than in the year before. But let's make a quick recap of the most important changes, as well as some other thoughts I just want to get out there.
 
-**🎈 ActivityPub**: In November, I [re-added](/2022/11/17/23h22m45s19) ActivityPub support to this website. ActivityPub allows this website to be interoperable (at least in theory) with services that implement the protocol, such as Mastodon, Pleroma, etc. It has been running since then and with little problems. There are quite a few [improvements](https://github.com/hacdias/eagle/issues/150) that I have thought about, but haven't had time, or patience, to implement them yet. 
+**🎈 ActivityPub**: In November, I re-added ActivityPub support to this website. ActivityPub allows this website to be interoperable (at least in theory) with services that implement the protocol, such as Mastodon, Pleroma, etc. It has been running since then and with little problems. There are quite a few [improvements](https://github.com/hacdias/eagle/issues/150) that I have thought about, but haven't had time, or patience, to implement them yet. 
 
 On one side, ActivityPub can be a tremendous effort. The specification can be considered under-specified, and every implementation does a slightly different thing, making it hard to comply with all of them. On the other side, the idea of using your personal website as your main online identity is extraordinary to me.
 
-I have, however, considered another option: simply [POSSE](/2022/11/18/23h28m13s83) to a Mastodon account. Then, I won't have to implement every ActivityPub specification. Right now, I'm divided between a Mastodon account and my own website because my own website doesn't support certain functionalities, such as following others. At the same time, I am unsure whether I would really want to implement it.
+I have, however, considered another option: simply POSSE to a Mastodon account. Then, I won't have to implement every ActivityPub specification. Right now, I'm divided between a Mastodon account and my own website because my own website doesn't support certain functionalities, such as following others. At the same time, I am unsure whether I would really want to implement it.
 
 **❤️ Likes and Reposts**: This is one of those kinds of content that I feel like they'll have little value for me in the future. If I want to remember something, I will make a [bookmark](/bookmarks). A like, or a repost, is just a temporary agreement with something that someone else said. I decided that, from now on, to keep likes as unlisted, and possibly reposts. They will show up on their platforms, but will not be listed on my website.
 
