@@ -9,6 +9,11 @@
         </h3>
       {{- else }}
         <h1 class='p-name'>{{- .Title -}}</h1>
+        {{- if not .Lastmod.IsZero -}}
+          <p>{{ .Lastmod.Format "02 January 2006" }}</p>
+        {{- else if not .Date.IsZero -}}
+          <p>{{ .Date.Format "02 January 2006" }}</p>
+        {{- end -}}
       {{- end }}
     </header>
   {{- end }}
