@@ -9,11 +9,13 @@ summaryLength = 300
 
 [taxonomies]
   tag = 'tags'
-  category = 'categories'
 
 [permalinks]
   tags = '/tags/:title/'
-  categories = '/:title/'
+  articles = '/:year/:month/:day/:filename/'
+  photos = '/:year/:month/:day/:filename/'
+  readings = '/:year/:month/:day/:filename/'
+  graphics = '/:year/:month/:day/:filename/'
 
 [markup]
   [markup.goldmark]
@@ -35,11 +37,11 @@ summaryLength = 300
   weight = 2
 [[menu.main]]
   name = '✏️ Articles'
-  pageRef = '/categories/articles'
+  pageRef = '/articles'
   weight = 3
 [[menu.main]]
   name = '📸 Photos'
-  pageRef = '/categories/photos'
+  pageRef = '/photos'
   weight = 4
 [[menu.main]]
   name = '📖 Guestbook'
@@ -78,7 +80,7 @@ summaryLength = 300
 
 [outputs]
   taxonomyTerm = ['HTML']
-  taxonomy = ['HTML', 'RSS', 'JSON']
+  taxonomy = ['HTML']
   home = ['HTML', 'RSS', 'JSON']
-  section = ['HTML']
+  section = ['HTML', 'RSS', 'JSON']
   page = ['HTML']

@@ -24,7 +24,7 @@
 
       <h2 id="latest-captures">📸 Latest Captures</h2>
       <div class='fg'>
-        {{ $photos := where $pages "Params.categories" "intersect" (slice "photos") }}
+        {{ $photos := where $pages "Section" "photos" }}
         {{ range (first 6 $photos) }}
           <div class='br'>
             <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>

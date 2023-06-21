@@ -1,6 +1,6 @@
 {{- $pageTitle := partialCached "fns/title" . .Title .Data.Singular }}
 {{- $pages := .Pages }}
-{{ if .IsHome }}{{ $pages = where .Site.RegularPages "Params.categories" "ne" nil }}{{ end }}
+{{ if .IsHome }}{{ $pages = partialCached "fns/pages" . .Permalink }}{{ end }}
 {{- $pages = $pages | first .Site.Config.Services.RSS.Limit }}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
