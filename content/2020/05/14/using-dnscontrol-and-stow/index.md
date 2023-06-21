@@ -1,5 +1,6 @@
 ---
 date: 2020-05-14T21:36:29.879Z
+expiryDate: 2023-06-21T09:27:04.360504+02:00
 tags:
 - automation
 - dns

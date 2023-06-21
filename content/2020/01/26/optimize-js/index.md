@@ -1,5 +1,6 @@
 ---
 date: 2020-01-26T10:38:10.206Z
+expiryDate: 2023-06-21T09:27:04.360053+02:00
 tags:
 - design
 - javascript

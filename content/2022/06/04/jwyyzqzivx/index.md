@@ -1,5 +1,6 @@
 ---
 date: 2022-06-04T12:48:12.686181075+02:00
+expiryDate: 2023-06-21T09:27:04.361989+02:00
 tags:
 - security
 categories:

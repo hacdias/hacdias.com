@@ -1,10 +1,11 @@
 ---
+title: I Miss
 date: 2020-07-16T17:01:05.464Z
 tags:
 - writing
 - creative
 categories:
-- notes
+- articles
 ---
 
 Last night before going to sleep... well actually while falling asleep I thought about writing this. It's such a basic poem, but lemme just share it here.

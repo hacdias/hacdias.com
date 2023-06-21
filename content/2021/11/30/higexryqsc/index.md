@@ -1,5 +1,6 @@
 ---
 date: 2021-11-30T14:12:39.305465387Z
+expiryDate: 2023-06-21T09:27:04.361398+02:00
 tags:
 - university
 categories:

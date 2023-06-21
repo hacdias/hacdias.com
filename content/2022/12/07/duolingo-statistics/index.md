@@ -1,6 +1,7 @@
 ---
 title: Duolingo 2022 Statistics
 date: 2022-12-07T17:11:29.253397264+01:00
+expiryDate: 2023-06-21T09:18:20.478263+02:00
 coverImage: cdn:/eda77737c2704250e7693eaaa9a1721fcf0e9700aab41dcbea1e1b2625a9db65
 categories:
 - notes
