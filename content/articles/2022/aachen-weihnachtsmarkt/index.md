@@ -3,12 +3,6 @@ title: Visiting Aachen's Christmas Market
 date: 2022-12-22T12:09:21.546767547+01:00
 lastmod: 2022-12-22T12:50:03.325284514+01:00
 coverImage: cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5
-location:
-  latitude: 51.44583
-  longitude: 5.46177
-  locality: Eindhoven
-  region: North Brabant
-  country: Netherlands
 ---
 
 <style>

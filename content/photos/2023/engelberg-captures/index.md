@@ -2,12 +2,6 @@
 title: Engelberg Captures
 date: 2023-02-24T14:13:39.745831911+01:00
 coverImage: cdn:/5dfed42211aafca2f47fa437aa14841e3dda52341f5699efe0b6856149bb9e8d
-location:
-  latitude: 51.44447
-  longitude: 5.45995
-  locality: Eindhoven
-  region: North Brabant
-  country: Netherlands
 ---
 
 Last month I had the opportunity of visiting Engelberg, in Switzerland. During this small trip, I spent some quality time with my coworkers and took some pictures. Below are my favourites. I had to include two trains, because... why not?

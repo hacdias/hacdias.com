@@ -3,12 +3,6 @@ title: Italia
 description: Trip to Italy in Photos
 date: 2022-11-16T14:28:29.381987946+01:00
 coverImage: cdn:/9f969a9e9f385cbbcef6c5f7b2c25503a8b4cd022f5fb7f63e6e5c1e3474460c
-location:
-  latitude: 51.43245
-  longitude: 5.486
-  locality: Eindhoven
-  region: North Brabant
-  country: Netherlands
 ---
 
 In September, I traveled to Italy with my partner. Here are some of the pictures I took at the time, finally seeing the light of the day. I took many other pictures, and it is very hard to choose what to show. Italy is such a beautiful country. We visited Napoli, Roma, Firenze, Pisa, Venezia, Bologna, Milano and Bergamo.

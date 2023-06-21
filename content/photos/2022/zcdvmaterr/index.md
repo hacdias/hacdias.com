@@ -2,12 +2,6 @@
 title: Kunstmuseum, Den Haag
 date: 2022-07-03T00:00:00.314581588+02:00
 coverImage: cdn:/040a5c6a8b5c22e514e040fc53e4aa4d0a0e58638f13a9d75653d1e7ad04413f
-location:
-  latitude: 51.43239
-  longitude: 5.48617
-  locality: Eindhoven
-  region: North Brabant
-  country: Netherlands
 ---
 
 <style>

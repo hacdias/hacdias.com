@@ -1,20 +1,4 @@
 <footer>
-  {{ with .Params.location }}
-    {{ $town := or .locality .region }}
-    <p class="p-location h-adr">
-      {{- with .name -}}
-        <span class='p-name'>{{ . }}</span>{{ if or $town $.Params.location.country }} in {{ end}}
-      {{- end -}}
-      {{- with $town -}}
-        <span class='p-locality'>{{ . }}</span>
-      {{- end -}}
-      {{- with .country -}}
-        {{ if $town }}, {{ end }}
-        <span class='p-country'>{{ . }}</span>
-      {{- end -}}
-    </p>
-  {{ end }}
-
   {{ $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) }}
   {{ $hasNoTitle := not .Title }}
 

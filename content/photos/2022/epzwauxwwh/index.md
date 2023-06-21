@@ -1,12 +1,6 @@
 ---
 date: 2022-10-18T13:14:45.621253396+02:00
 coverImage: cdn:/bc0d50d29ee7bfb34953264b7ec672b7463c9be883501d43859ede39c7e20e0c
-location:
-  latitude: 51.44449
-  longitude: 5.45995
-  locality: Eindhoven
-  region: North Brabant
-  country: Netherlands
 syndications:
 - https://www.instagram.com/p/Cj2nT0QIjzW/?igshid=YmMyMTA2M2Y=
 ---
