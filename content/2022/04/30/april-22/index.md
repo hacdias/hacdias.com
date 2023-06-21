@@ -15,7 +15,7 @@ In the first week of April, I managed to visit my parents back in Portugal and i
 
 ![Dwarf Goat](cdn:/2022-04-dwarf-goat?class=fw)
 
-A few weeks later, Christiaan and I visited a friend of mine that currently lives in London. We went [by train](/2022/04/27/vkrcxmzfem). It was very nice to see her again and meet all of her housemates! It was my fourth - I think - time in London and it was very nice to go back. For some reason, I don't get tired of visiting London.
+A few weeks later, Christiaan and I visited a friend of mine that currently lives in London. We went [by train](/2022/04/27/crossed-the-english-channel-by-train/). It was very nice to see her again and meet all of her housemates! It was my fourth - I think - time in London and it was very nice to go back. For some reason, I don't get tired of visiting London.
 
 This time, we watched Mary Poppins on the theatre. This was my first theatre in a _long_ while. I think the last time I watched a theatre I was in primary school. I also had no memory of watching Mary Poppins so we decided to go watch the musical since we were in London. It was... amazing! I wish I could watch musicals more often!
 
