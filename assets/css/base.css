@@ -282,7 +282,7 @@ main header p {
   font-size: var(--f6);
   color: var(--light-gray);
   font-weight: 500;
-  margin: 0;
+  margin: .25em 0;
 }
 
 table {
