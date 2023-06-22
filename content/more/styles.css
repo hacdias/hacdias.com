@@ -17,7 +17,7 @@
 .terms.nyan a:hover {
   background: #104d8f url(https://cdn.hacdias.com/media/nyan-cat.gif) no-repeat right / contain;
   image-rendering: pixelated;
-  color: var(--white);
+  color: #f4f4f4;
 }
 
 #trigger {
