@@ -1,6 +1,6 @@
 ---
 title: Analyzing My Shows and Movie Habits
-description: |
+description: >-
   I now have a watch log again and decided to analyse 2019's habits of TV shows and movie watching.
 date: 2020-02-22T22:05:00Z
 tags:

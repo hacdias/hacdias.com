@@ -1,6 +1,6 @@
 ---
 title: First Attempt at Pixel Art
-description: |
+description: >-
   Recently I've been wanting to try out more things in my life. And one of them is more artistic than I'm used to: pixel art! This is where I share how was my first contact with this pixelized world.
 date: 2019-04-18T00:00:00Z
 lastmod: 2021-09-20T05:53:49.227871757Z

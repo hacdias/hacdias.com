@@ -1,6 +1,6 @@
 ---
 title: Cleaning up My Website
-description: |
+description: >-
   Just finished cleaning up my website a bit more and getting rid of a bit of noise that I didn't think was needed.
 date: 2020-05-10T23:20:00+01:00
 tags:

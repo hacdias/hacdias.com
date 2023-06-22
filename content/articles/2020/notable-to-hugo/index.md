@@ -1,6 +1,6 @@
 ---
 title: How I Generate My Knowledge Base From Notable
-description: |
+description: >-
   Here I describe my small journey so far with Notable and how I sync my website's Knowledge Base it with.
 date: 2020-02-29T21:37:00Z
 tags:

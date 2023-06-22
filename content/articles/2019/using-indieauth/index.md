@@ -1,6 +1,6 @@
 ---
 title: Enabling IndieAuth on My Website
-description: |
+description: >-
   After updating the structure of my URLs, I now needed to start enabling some IndieWeb features... here's how to enable IndieAuth!
 date: 2019-12-30T23:50:00Z
 tags:

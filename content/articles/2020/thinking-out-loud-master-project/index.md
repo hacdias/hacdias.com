@@ -1,6 +1,6 @@
 ---
 title: Thinking Out Loud About My Future Master’s Project
-description: |
+description: >-
   I'm in my first year of my master's degree. Next year, I am supposed to do a master's project and thesis. Thus, it's never too early to think about it.
 date: 2020-10-05T09:00:00+02:00
 tags:
