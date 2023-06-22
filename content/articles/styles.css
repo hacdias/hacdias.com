@@ -4,12 +4,9 @@
 
 @media screen and (min-width: 53.001rem) {
   body {
-    background: var(--accent) url(./pencils.svg) repeat-x;
+    background-image: url(./pencils.svg);
+    background-repeat: repeat-x;
     background-position: bottom;
     background-attachment: fixed;
-  }
-  
-  #navbar {
-    border-radius: 0;
   }
 }
