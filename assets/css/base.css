@@ -641,7 +641,7 @@ a.tag:hover {
 }
 
 .logs .e:not(:last-of-type) {
-  border-bottom: var(--border) solid var(--accent);
+  border-bottom: var(--border) solid var(--light-white);
 }
 
 .logs .e:hover {
