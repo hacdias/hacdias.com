@@ -6,16 +6,17 @@
   --f4: 1rem;
   --f5: 0.833rem;
 
+  /* Colors */
+  --accent: #3558a0;
+  --accent-text: #f4f4f4;
+  --background: #fbfbfb;
+
   /* Blacks to whites */
   --dark-gray: #333;
   --light-gray: #888;
   --light-white: #EEEEEE;
   --near-white: #f4f4f4;
   --white: #ffffff;
-
-  --accent: #306fdd;
-  --accent-text: #f4f4f4;
-  --background: #fbfbfb;
 
   /* Spacings */
   --ls: 2.5rem;
