@@ -2,8 +2,7 @@
 title: Games
 description: A list of all the games I have played, I am playing, and some tracking
   information.
-date: 2022-08-23T13:08:52.585553096+02:00
-lastmod: 2022-08-31T21:25:21.954004051+02:00
+noIndex: true
 ---
 
 <div class="box">
