@@ -289,18 +289,17 @@ table {
 }
 
 table th {
-  font-weight: 600;
+  font-weight: bold;
 }
 
 table th,
 table td {
-  padding: 6px 13px;
-  border: 1px solid var(--light-white);
+  padding: var(--hms);
+  border: var(--border) solid var(--light-white);
 }
 
 table tr {
-  background-color: var(--white);
-  border-top: 1px solid var(--light-white);
+  border-top: var(--border) solid var(--light-white);
 }
 
 table tr:nth-child(2n) {
