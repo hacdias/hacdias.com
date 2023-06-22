@@ -1,22 +1,19 @@
 {{ define "main" }}
-  {{ $css := resources.Get "css/eagle.css" | resources.Fingerprint "sha512" }}
-  <link rel='stylesheet' href='{{ $css.Permalink }}' integrity='{{ $css.Data.Integrity }}'>
+<main role='main'>
+  <no-eagle-page>
+    <div class='box'>
+      ⚠️ This page is only functional when using <a href='https://github.com/hacdias/eagle' rel='noopener noreferrer'>Eagle</a>.
+    </div>
+  </no-eagle-page>
 
-  <main role='main'>
+  <eagle-page class='dn'>
     <header>
       <h1>{{- .Title -}}</h1>
     </header>
 
-    <no-eagle-page>
-      <div class='box'>
-        ⚠️ This page is only functional when using <a href='https://github.com/hacdias/eagle' rel='noopener noreferrer'>Eagle</a>.
-      </div>
-    </no-eagle-page>
-
-    <eagle-page class='dn'>
-      <div class='copy'>
-        {{- with .Content }}{{ . }}{{ end -}}
-      </div>
-    </eagle-page>
-  </main>
+    <div class='copy'>
+      {{- with .Content }}{{ . }}{{ end -}}
+    </div>
+  </eagle-page>
+</main>
 {{ end }}
