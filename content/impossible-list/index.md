@@ -12,32 +12,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 <!--more-->
 
-<style>
-.copy ol {
-  list-style: none;
-  padding-left: 0.5rem;
-}
-
-.copy ol input {
-  margin-right: 0.5rem;
-}
-
-.copy li > ol {
-  padding-left: 1.5rem;
-}
-
-.trips ul {
-  margin: 0;
-}
-
-.trips ul {
-  display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(13rem,1fr));
-  grid-column-gap: 1rem;
-}
-
-</style>
-
 ## ✈️ Travel Goals
 
 1. [x] ~~Visit 5 countries~~ <small>[October 2018] [🇵🇹 PT, 🇪🇸 ES, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC]</small>
