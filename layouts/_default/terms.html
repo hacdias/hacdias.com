@@ -6,19 +6,12 @@
 
     {{ partial "post/content" . }}
 
-    {{ $terms := .Data.Terms.Alphabetical }}
-    {{ $previousHeader := "" }}
-    {{ $currentHeader := "" }}
-    {{ range .Data.Terms.Alphabetical }}
-      {{ $currentHeader = substr (lower .Page.Title) 0 1 }}
-      {{ if ne $currentHeader $previousHeader }}
-        {{ if $previousHeader }}</ul></div>{{ end }}
-        <h2 id="{{ $currentHeader }}">{{ upper $currentHeader }}</h2>
-        <div class="terms"><ul>
-        {{ $previousHeader = $currentHeader }}
+    <div class="terms">
+      <ul>
+      {{ range .Data.Terms.Alphabetical }}
+        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
       {{ end }}
-      <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
-    {{ end }}
-    {{ if $currentHeader }}</ul></div>{{ end }}
+      </ul>
+    </div>
   </main>
 {{ end }}
