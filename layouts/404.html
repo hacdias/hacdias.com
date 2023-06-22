@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main role='main'>
   <header>
-    <h1><eagle-error-title>{{ .Title }}</eagle-error-title></h1>
+    <h1><eagle-error-title>404 Not Found</eagle-error-title></h1>
   </header>
 
   <div class='copy'>
@@ -14,18 +14,26 @@
     </eagle-error>
 
     <eagle-error error='404 410'>
+      <p>
+        We searched and we searched, but the content you're looking for could not be found.
+        Sorry. In the meanwhile, please look at the image below. So you know, I sometimes
+        dabble with other kinds of activities, such as pixel art, and this website contains
+        some secrets. Find them!
+      </p>
+
       <style>
         img.egif {
           width: 100%;
-          max-width: 24rem;
           image-rendering: pixelated;
           border-radius: var(--radius);
-          margin: 0 auto;
           display: block;
         }
       </style>
 
-      <img title='Do you want a slap too?' class='egif' src='https://cdn.hacdias.com/media/09f5f4e275091ba797fb0e4d2dd12c0fd667284f869f6592cb3c08018d9d844e.gif' />
+      {{-
+        partial "helpers/figure"
+        (dict "Destination" "https://cdn.hacdias.com/media/2020-04-pixel-house.gif?class=br")
+      -}}
     </eagle-error>
 
     <eagle-error-details class='dn'>
