@@ -188,7 +188,7 @@ textarea {
 input:focus,
 select:focus,
 textarea:focus {
-  border-color: var(--light-gray);
+  border-color: var(--accent);
 }
 
 input:disabled,
