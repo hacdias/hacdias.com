@@ -3,6 +3,10 @@
   <link rel='stylesheet' href='{{ $css.Permalink }}' integrity='{{ $css.Data.Integrity }}'>
 
   <main role='main'>
+    <header>
+      <h1>{{- .Title -}}</h1>
+    </header>
+
     <no-eagle-page>
       <div class='box'>
         ⚠️ This page is only functional when using <a href='https://github.com/hacdias/eagle' rel='noopener noreferrer'>Eagle</a>.
@@ -10,10 +14,6 @@
     </no-eagle-page>
 
     <eagle-page class='dn'>
-      <header>
-        <h1>{{- .Title -}}</h1>
-      </header>
-
       <div class='copy'>
         {{- with .Content }}{{ . }}{{ end -}}
       </div>
