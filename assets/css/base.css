@@ -354,6 +354,10 @@ details summary {
   padding: var(--hms);
 }
 
+#header form button:hover {
+  background: var(--light-white);
+}
+
 #header p {
   margin: 0;
 }
