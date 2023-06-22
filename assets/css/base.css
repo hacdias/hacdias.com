@@ -15,6 +15,7 @@
   --white: #ffffff;
 
   --accent: #306fdd;
+  --accent-text: #f4f4f4;
   --background: #fbfbfb;
 
   /* Spacings */
@@ -206,7 +207,7 @@ button {
   border: var(--border) solid var(--accent);
   font-weight: 700;
   padding: var(--hms);
-  color: var(--white);
+  color: var(--accent-text);
   cursor: pointer;
   border-radius: var(--radius);
   outline: 0;
@@ -379,7 +380,7 @@ details summary {
 #navbar {
   display: flex;
   background-color: var(--accent);
-  color: var(--white);
+  color: var(--accent-text);
   border-radius: var(--radius);
   margin-top: 0;
   margin-bottom: var(--hls);
