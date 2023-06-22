@@ -87,7 +87,3 @@ function setupPreview() {
 addEmoji(document.querySelector('#egg'))
 parseEmojis(document.body)
 setupPreview()
-
-if (typeof editor !== 'undefined') {
-  editor.setup()
-}
