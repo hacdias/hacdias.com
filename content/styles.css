@@ -1,7 +1,3 @@
-:root {
-  --accent: #212121;
-}
-
 .logs .e {
   grid-template-columns: auto 5.5rem;
 }
@@ -16,15 +12,4 @@
 
 .fg figure img {
   aspect-ratio: 1;
-}
-
-@media screen and (min-width: 53.001rem) {
-  body {
-    background-color: #111;
-    background-image: url(https://cdn.hacdias.com/media/2021-02-space.gif);
-  }
-
-  #navbar {
-    border-radius: 0;
-  }
 }
