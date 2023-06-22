@@ -1,16 +1,14 @@
-:root {
-  --accent: #e8ba00;
-}
-
 .terms.grid ul {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   grid-gap: 0.5rem;
   margin-bottom: 0.5rem;
 }
+
 .terms.grid li {
   margin: 0;
 }
+
 .terms.grid a {
   width: 100%;
   height: 100%;
