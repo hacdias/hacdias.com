@@ -119,8 +119,9 @@ h3 {
   font-size: var(--f3);
 }
 
-h4, h5 {
+h4 {
   font-size: var(--f4);
+  text-transform: uppercase;
 }
 
 code,
