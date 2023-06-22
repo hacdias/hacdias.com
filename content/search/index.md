@@ -32,10 +32,14 @@ noIndex: true
         <a href='' class='entry-link more'>Read More →</a>
       </div>
     </eagle-search-result>
-    <eagle-search-pagination>
+    <eagle-search-pagination class='dn'>
       <nav class="pagination">
-        <a aria-label="Previous" href="<eagle>" class="page-link eagle-prev" role="button"><span aria-hidden="true">&laquo; Previous</span></a>
-        <a aria-label="Next" href="<eagle>" class="page-link eagle-next" role="button"><span aria-hidden="true">Next &raquo;</span></a>
+        <a aria-label="Previous" href="<eagle>" class="page-link eagle-prev" role="button">
+          <span aria-hidden="true">&laquo; Previous</span>
+        </a>
+        <a aria-label="Next" href="<eagle>" class="page-link eagle-next" role="button">
+          <span aria-hidden="true">Next &raquo;</span>
+        </a>
       </nav>
     </eagle-search-pagination>
   </eagle-search-results>
