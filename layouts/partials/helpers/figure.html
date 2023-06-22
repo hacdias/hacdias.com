@@ -13,7 +13,7 @@
 	{{- $id = strings.TrimPrefix "/" $url.Path }}
 	{{- $src = printf "https://cdn.hacdias.com/img/2000/%s.jpeg" $id }}
 {{- else }}
-	{{- $src = printf "%s://%s%s" $url.Scheme $url.Host $url.Path }}
+	{{- $src = .Destination }}
 {{- end }}
 
 {{- if .IsBlock }}
