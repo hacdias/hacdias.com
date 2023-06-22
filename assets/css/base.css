@@ -775,8 +775,7 @@ a.tag:hover {
 
   #header,
   #navbar,
-  #footer,
-  #edit-btn {
+  #footer {
     display: none;
   }
 
