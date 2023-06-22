@@ -1,12 +1,10 @@
 :root {
-  /* Font sizes. Nice website: https://type-scale.com/, Minor Third */
-  --f1: 2.074rem; /* TODO: REMOVE THIS */
-  --f2: 1.728rem;
-  --f3: 1.44rem;
-  --f4: 1.2rem;
-  --f5: 1rem;
-  --f6: 0.85rem;
-  --f7: 0.75rem;
+  /* Font sizes: https://type-scale.com/, Minor Third */
+  --f1: 1.728rem;
+  --f2: 1.44rem;
+  --f3: 1.2rem;
+  --f4: 1rem;
+  --f5: 0.833rem;
 
   /* Blacks to whites */
   --black: #111;
@@ -66,10 +64,6 @@ code, kbd, samp, pre {
   font-family: Consolas, monaco, monospace;
 }
 
-code {
-  font-size: var(--f6);
-}
-
 :not(pre) > code {
   border-radius: var(--radius);
   padding: 0.1rem 0.25rem;
@@ -114,24 +108,25 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: var(--f2)
+  font-size: var(--f1)
 }
 
 h2 {
-  font-size: var(--f3);
+  font-size: var(--f2);
 }
 
 h3 {
-  font-size: var(--f4);
+  font-size: var(--f3);
 }
 
 h4, h5 {
-  font-size: var(--f5);
+  font-size: var(--f4);
 }
 
+code,
 .small,
 small {
-  font-size: var(--f6);
+  font-size: var(--f5);
 }
 
 a {
@@ -222,7 +217,7 @@ button:hover {
 
 #footer {
   margin-top: 2rem;
-  font-size: var(--f6);
+  font-size: var(--f5);
 }
 
 #footer > div {
@@ -259,7 +254,7 @@ ol {
 
 figcaption {
   text-align: center;
-  font-size: var(--f6);
+  font-size: var(--f5);
   color: var(--dark-gray);
   margin: 0.25rem 0;
 }
@@ -279,7 +274,7 @@ main footer {
 
 main footer p,
 main header p {
-  font-size: var(--f6);
+  font-size: var(--f5);
   color: var(--light-gray);
   font-weight: 500;
   margin: .25em 0;
@@ -345,7 +340,7 @@ details summary {
 
 #header form {
   margin-left: auto;
-  font-size: var(--f6);
+  font-size: var(--f5);
 }
 
 #header form input {
@@ -373,7 +368,7 @@ details summary {
 
 #header .name {
   font-weight: bold;
-  font-size: var(--f3);
+  font-size: var(--f2);
 }
 
 #header label {
@@ -433,7 +428,7 @@ details summary {
   padding: .25em .5em;
   text-decoration: none;
   border-radius: var(--radius);
-  font-size: var(--f7);
+  font-size: var(--f5);
 }
 
 a.tag:hover {
@@ -501,7 +496,7 @@ a.tag:hover {
 }
 
 .box.attrs {
-  font-size: var(--f6);
+  font-size: var(--f5);
 }
 
 .box.attrs > span:not(:last-child)::after {
@@ -522,7 +517,7 @@ a.tag:hover {
 .terms a,
 .terms a:visited {
   text-decoration: none;
-  font-size: var(--f6);
+  font-size: var(--f5);
   padding: var(--hms);
   display: inline-block;
 }
@@ -598,7 +593,7 @@ a.tag:hover {
   bottom: 0;
   text-align: center;
   line-height: 2.5rem;
-  font-size: var(--f6);
+  font-size: var(--f5);
 }
 
 #preview img {
@@ -678,7 +673,7 @@ a.tag:hover {
 }
 
 .logs .h span:first-of-type {
-  font-size: var(--f3);
+  font-size: var(--f2);
   color: var(--accent);
   font-weight: bold;
 }
