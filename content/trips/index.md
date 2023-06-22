@@ -1,5 +1,5 @@
 ---
-title: Trips
+title: Places I Have Visited
 description: A list of the trips I took in the past.
 ---
 
@@ -11,10 +11,6 @@ might also list a future trip if it involves certain types of events, such as co
 <!--more-->
 
 <style>
-:root {
-  --accent: #f39c12;
-}
-
 .logs .e {
   grid-template-columns: auto 18rem 7rem;
 }

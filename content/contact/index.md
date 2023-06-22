@@ -53,5 +53,5 @@ In case your reader does not detect the feeds automatically, the links are forma
 In the unlikely event you may want to send me something encrypted via a non-secure channel:
 
 - Fingerprint: `59F0 9665 3717 2F4B 08BB  9B0D AB1E 4824 D1F8 A974`
-- Location: [hacdias.com/pubkey.asc](/pubkey.asc)
+- Location: [https://hacdias.com/pubkey.asc](/pubkey.asc)
 - Quick import: `curl -sL https://hacdias.com/pubkey.asc | gpg --import`
