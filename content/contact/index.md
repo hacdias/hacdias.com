@@ -37,13 +37,12 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 
 ## 🗞 Follow {#follow}
 
-All the [sections](/more#sections), including the home page, have ATOM, JSON and HTML feeds. To subscribe to the main posts, you can just follow my [home page](/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
+All the [sections](/more#sections), including the home page, have ATOM and JSON feeds. To subscribe to the main posts, you can just follow my [home page](/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
 
 <div class="box">
 
 In case your reader does not detect the feeds automatically, the links are formatted as follows. This example is for the [home page](/) page:
 
-  - **HTML (Microformats)**: [https://hacdias.com/](/)
   - **Atom Feed**: [https://hacdias.com/feed.xml](/feed.xml)
   - **JSON Feed**: [https://hacdias.com/feed.json](/feed.json)
 
