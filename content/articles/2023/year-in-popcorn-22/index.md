@@ -16,12 +16,6 @@ img.pyip22 {
 
 <!--more-->
 
-<style>
-:root {
-  --accent: #c0749d;
-}
-</style>
-
 In 2022, I am aware I watched many things, especially TV shows. To say the truth, I feel like I probably watched too many TV shows during the year. However, some of them I also watched on the background while doing something else. Besides, most of the year I was still studying, which made this much easier. Now that I'm working full time, I'm sure the amount of TV shows I watch, or at least the cadence, will decrease.
 
 ## 🏁 First and Last
