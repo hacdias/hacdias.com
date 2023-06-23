@@ -11,6 +11,12 @@ Online services. We all have accounts on those. Be it Instagram, Facebook, ~~Twi
 
 <!--more-->
 
+<style>
+:root {
+  --accent: #010101;
+}
+</style>
+
 Then come the personal websites. For those who have one, we usually use it as the centrepiece of our online identity. For those that, just like myself, enjoy dabbling in the depths of the [IndieWeb](https://indieweb.org/), we go even further: we make our website the one and only source of truth and then we [POSSE](https://indieweb.org/POSSE).
 
 Since two years ago, I started putting a lot of things on this website: checkins, itineraries, bookmarks, etc. Some times I wondered if I should remove some posts, some times I actually removed them. As we say in Portuguese, "I change my mind as someone changes underwear". And I keep [wondering](/2022/08/14/should-every-update-be-a-post).

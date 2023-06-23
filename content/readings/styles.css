@@ -1,7 +1,5 @@
 :root {
-  --accent-h: 19;
-  --accent-s: 58%;
-  --accent-l: 36%;
+  --accent: #904726;
 }
 
 @media screen and (min-width: 53.001rem) {

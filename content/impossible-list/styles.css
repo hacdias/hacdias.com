@@ -1,7 +1,5 @@
 :root {
-  --accent-h: 0;
-  --accent-s: 0%;
-  --accent-l: 13%;
+  --accent: #212121;
 }
 
 main ol {

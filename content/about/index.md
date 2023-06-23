@@ -18,9 +18,7 @@ Since an early age, I have been curious about computers and I always wanted to w
 
 <style>
 :root {
-  --accent-h: 21;
-  --accent-s: 27%;
-  --accent-l: 47%;
+  --accent: #986e58;
 }
 </style>
 

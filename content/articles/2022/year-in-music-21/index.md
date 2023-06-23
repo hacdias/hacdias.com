@@ -18,6 +18,10 @@ img.cute-listener {
 <!--more-->
 
 <style>
+:root {
+  --accent: #9d7dce;
+}
+
 .top-grid img {
   aspect-ratio: 1/1;
 }

@@ -17,6 +17,43 @@ Over the past months, I have been reading more and more posts where people are [
 
 <!--more-->
 
+<style>
+@media screen and (min-width: 53.001rem) {
+  body {
+    background: #010d2a url(https://cdn.hacdias.com/media/2020-05-sea-pattern.jpeg);
+    background-size: 300px;
+    background-attachment: fixed;
+  }
+
+  #navbar {
+    border-radius: 0;
+  }
+}
+
+:root {
+  --accent: #7261a1;
+}
+
+.netscape,
+.iexplore {
+  width: 100%;
+  max-width: 10rem;
+}
+
+.netscape {
+  margin-right: 1rem;
+}
+
+.bulb {
+  max-width: 5rem !important;
+}
+
+.guestbook {
+  max-width: 10rem !important;
+  margin: 0 0 0 1rem !important;
+}
+</style>
+
 <div style="display: flex; justify-content: center">
 
 ![](https://cdn.hacdias.com/media/2021-02-netscape.gif?class=pixelated+netscape)

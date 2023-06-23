@@ -11,9 +11,7 @@ I haven't written a single article this month. However, I've thought about doing
 
 <style>
   :root {
-    --accent-h: 212;
-    --accent-s: 52%;
-    --accent-l: 48%;
+    --accent: #3B77BC;
   }
 
   @media screen and (min-width: 53.001rem) {
