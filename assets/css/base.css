@@ -427,19 +427,6 @@ details summary {
   line-height: 1.5;
 }
 
-.tag {
-  background-color: var(--near-white);
-  color: var(--gray);
-  padding: .25em .5em;
-  text-decoration: none;
-  border-radius: var(--radius);
-  font-size: var(--f5);
-}
-
-a.tag:hover {
-  background-color: var(--light-white);
-}
-
 .left,
 .right {
   max-width: 20em;

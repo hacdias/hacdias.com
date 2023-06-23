@@ -23,7 +23,7 @@
 
       {{ range .Params.tags -}}
         {{ $tag := $.Site.GetPage (printf "/tags/%s" .) }}
-        <a class="tag p-category" href="{{ $tag.RelPermalink }}">{{ . }}</a>
+        <a class="p-category" href="{{ $tag.RelPermalink }}">#{{ . }}</a>
       {{ end -}}
 
       {{ range .Params.syndications }}
