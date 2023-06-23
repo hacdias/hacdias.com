@@ -1,10 +1,25 @@
 {{- if or .Content .Params.rating }}
-  <div class='copy e-content'>
+  <div class='e-content'>
     {{- with .Params.rating -}}
       <p>
         <data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ partialCached "helpers/stars" (slice . 5) . 5 }}</data>
       </p>
     {{- end -}}
     {{- with .Content }}{{ . }}{{ end -}}
+    {{- if .Params.read }}
+      <h2 id='details'>Details</h2>
+
+      <ul class='p-read-of h-cite'>
+        <li><span class="p-name">{{ .Params.read.name }}</span> by <span class="p-author">{{ .Params.read.author }}</span></li>
+        {{ with .Params.read.pages }}<li>Pages: <span class="p-pages">{{ . }}</span></li>{{ end }}
+        {{ with .Params.read.publisher }}<li>Publisher: <span class="p-publisher">{{ . }}</span></li>{{ end }}
+        {{ with .Params.read.uid }}
+          {{ $parts := split . ":" }}
+          {{ $type := index $parts 0 }}
+          {{ $id := index $parts 1 }}
+          <li><span style='text-transform: uppercase'>{{ $type }}</span>: {{ $id }}</li>
+        {{ end }}
+      </ul>
+    {{- end }}
   </div>
 {{- end -}}

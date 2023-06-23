@@ -2,42 +2,40 @@
   <main role="main">
     {{ partialCached "post/content" . .Permalink }}
 
-    <div class="copy">
-      {{- $pages := partialCached "fns/pages" . .Permalink }}
-      <h2 id="freshly-ground">🪴 Freshly Planted</h2>
-      <div class='h-feed logs'>
-        <div>
-          {{ range (first 4 $pages ) }}
-            {{ template "item" . }}
-          {{ end }}
-        </div>
-      </div>
-
-      <h2 id="personal-favourites">🌟 Personal Favourites</h2>
-      <div class='h-feed logs'>
-        <div>
-          {{- range .Params.favoritePosts }}
-            {{- template "item" ($.GetPage .) }}
-          {{- end }}
-        </div>
-      </div>
-
-      <h2 id="latest-captures">📸 Latest Captures</h2>
-      <div class='fg'>
-        {{ $photos := where $pages "Section" "photos" }}
-        {{ range (first 6 $photos) }}
-          <div class='br'>
-            <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>
-              {{ partial "helpers/figure" (dict
-                "Destination" .Params.coverImage
-                "Title" .Title
-                "IsBlock" true
-                "Sizes" (slice 250 500 1000)
-              )}}
-            </a>
-          </div>
+    {{- $pages := partialCached "fns/pages" . .Permalink }}
+    <h2 id="freshly-ground">🪴 Freshly Planted</h2>
+    <div class='h-feed logs'>
+      <div>
+        {{ range (first 4 $pages ) }}
+          {{ template "item" . }}
         {{ end }}
       </div>
+    </div>
+
+    <h2 id="personal-favourites">🌟 Personal Favourites</h2>
+    <div class='h-feed logs'>
+      <div>
+        {{- range .Params.favoritePosts }}
+          {{- template "item" ($.GetPage .) }}
+        {{- end }}
+      </div>
+    </div>
+
+    <h2 id="latest-captures">📸 Latest Captures</h2>
+    <div class='fg'>
+      {{ $photos := where $pages "Section" "photos" }}
+      {{ range (first 6 $photos) }}
+        <div class='br'>
+          <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>
+            {{ partial "helpers/figure" (dict
+              "Destination" .Params.coverImage
+              "Title" .Title
+              "IsBlock" true
+              "Sizes" (slice 250 500 1000)
+            )}}
+          </a>
+        </div>
+      {{ end }}
     </div>
   </main>
 {{ end }}
