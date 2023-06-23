@@ -7,15 +7,18 @@
   --f5: 0.833rem;
 
   /* Colors */
-  --accent: #3558a0;
+  --accent-h: 220;
+  --accent-s: 50%;
+  --accent-l: 42%;
+  --accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
   --accent-text: #f4f4f4;
-  --background: #fbfbfb;
+  --background: hsl(var(--accent-h), var(--accent-s), 99%);
 
   /* Blacks to whites */
   --dark-gray: #333333;
   --light-gray: #666666;
-  --light-white: #eeeeee;
-  --near-white: #f4f4f4;
+  --light-white: hsl(var(--accent-h), var(--accent-s), 94%);
+  --near-white: hsl(var(--accent-h), var(--accent-s), 97%);
   --white: #ffffff;
 
   /* Spacings */
@@ -76,6 +79,7 @@ code, kbd, samp, pre {
 .tag {
   text-decoration: none;
   white-space: nowrap;
+  color: var(--accent);
 }
 
 svg,
