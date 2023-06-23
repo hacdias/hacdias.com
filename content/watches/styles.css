@@ -1,5 +1,7 @@
 :root {
-  --accent: #c0749d;
+  --accent-h: 328;
+  --accent-s: 28%;
+  --accent-l: 60%;
 }
 
 #performances + .logs {

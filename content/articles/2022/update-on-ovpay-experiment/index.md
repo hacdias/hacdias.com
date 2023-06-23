@@ -11,9 +11,11 @@ In the beginning of last month, I [wrote](/2022/11/04/trying-out-ovpay) a post a
 <!--more-->
 
 <style>
-  :root {
-    --accent: #ff0064;
-  }
+:root {
+  --accent-h: 336;
+  --accent-s: 100%;
+  --accent-l: 50%;
+}
 </style>
 
 On the last post, I mentioned that one of the payments failed to be debited from my account. It finally got debited from my account successfully. However, the transaction is marked with a different type from the others. Instead of "Pinbetaling" (card payment), it says "Overschrijving" (transfer). I'm not exactly sure how this things are processed on the backend, but there's clearly a difference that is likely related to the first payment failing.

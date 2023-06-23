@@ -12,6 +12,8 @@ title: Photos
 
 <style>
 :root {
-  --accent: #222;
+  --accent-h: 0;
+  --accent-s: 0%;
+  --accent-l: 13%;
 }
 </style>

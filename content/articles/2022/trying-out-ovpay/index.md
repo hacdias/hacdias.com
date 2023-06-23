@@ -12,9 +12,11 @@ The Netherlands 🇳🇱 is testing a new payment system for the public transit 
 <!--more-->
 
 <style>
-  :root {
-    --accent: #ff0064;
-  }
+:root {
+  --accent-h: 336;
+  --accent-s: 100%;
+  --accent-l: 50%;
+}
 </style>
 
 If you know me, it's possible that you know that I have a thing for everything related to public transit, payment methods and just facilitating the usage of payment systems. Therefore, it probably doesn't surprise you that I've been an avid follower of all news regarding this new payment system for the public transit.
