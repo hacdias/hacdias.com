@@ -13,12 +13,12 @@
 
 .foodgram .card {
   margin: 0;
-  background: var(--white);
   --ms: var(--hms);
 }
 
 .foodgram .card figure {
   margin: 0;
+  padding: 0;
 }
 
 .foodgram .card figure img {
@@ -31,27 +31,25 @@
 <div class='foodgram'>
 {{ range index .Site.Data (.Get 0) }}
   <div class='card'>
-    <div class='box ellipsis'><strong>{{ .name }}</strong></div>
+    <header>
+      <div class='ellipsis'><strong>{{ .name }}</strong></div>
+      <p class='ellipsis'>
+        <time class='dt-updated' datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}'>
+          {{ dateFormat "2006-01-02" .date }}
+        </time>
+        {{ with .location }}at
+          {{ $town := or .locality .region .country }}
+            {{- with .name -}}
+              <span class='p-name'>{{ . }}</span>{{ if $town }}, {{ end}}
+            {{- end -}}
+            {{- with $town -}}
+              <span class='p-locality'>{{ . }}</span>
+            {{- end -}}
+        {{ end }}
+      </p>
+    </header>
     {{ partialCached "helpers/figure" (dict "Destination" .image "IsBlock" true "Sizes" (slice 250 500 1000)) .image }}
     {{/* {{ .content }} */}}
-    <footer>
-      {{ with .location }}
-        {{ $town := or .locality .region .country }}
-        <p class="ellipsis">
-          {{- with .name -}}
-            <span class='p-name'>{{ . }}</span>{{ if $town }}, {{ end}}
-          {{- end -}}
-          {{- with $town -}}
-            <span class='p-locality'>{{ . }}</span>
-          {{- end -}}
-        </p>
-      {{ end }}
-      <p>
-        <time class='dt-updated' datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}'>
-          {{ dateFormat "02 January 2006" .date }}
-        </time>
-      </p>
-    </footer>
   </div>
 {{ end }}
 </div>
