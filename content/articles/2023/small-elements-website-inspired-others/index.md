@@ -1,6 +1,11 @@
 ---
 title: Small Elements From My Website Inspired by Others
 date: 2023-06-20T16:53:31.690771654+02:00
+coverImage: cdn:/081ef31ac2089c38ae7eb7af440ee702af52e6e8b4bec8b5041ba3dc23755d4b
+tags:
+- meta
+- indieweb
+- personal-website
 ---
 
 Today I bring something not as conventional: a post about certain elements of my website you could say that are inspired or borrowed from other websites. Things that I found fascinating and included in my website too over the time. Let's go!
