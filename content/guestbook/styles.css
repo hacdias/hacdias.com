@@ -1,7 +1,5 @@
 :root {
-  --accent-h: 240;
-  --accent-s: 100%;
-  --accent-l: 80%;
+  --accent: #9999ff;
 }
 
 .entries {
