@@ -5,6 +5,7 @@ description: >-
 date: 2020-05-10T23:20:00+01:00
 tags:
 - meta
+- personal-website
 ---
 
 I decided to make a few updates on my website - again. However, this are a bit more than visuals and I'm mostly reinventing the way I manage IndieWeb posts, namely likes, reposts, notes and replies.

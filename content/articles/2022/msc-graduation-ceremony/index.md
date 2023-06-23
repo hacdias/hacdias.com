@@ -3,6 +3,9 @@ title: Master's Graduation Ceremony
 date: 2022-11-25T17:02:18+01:00
 lastmod: 2022-12-01T15:30:15.269071746+01:00
 coverImage: cdn:/f3f53794aa8850e2b9a98341a516a83c7a45e1b1f6489f43721b09b4e3908eaa
+tags:
+- university
+- masters
 ---
 
 Two days ago I [shared](/2022/11/23/engraving-name-alumni-avenue) that I was able to engrave my name in the Alumni Avenue. I now share some pictures from the graduation ceremony that took place on Monday. During the ceremony, each supervisor makes a little speech about each student. Even though I knew that was a costume here in The Netherlands, I was still surprised by it. I'm now sharing the pictures and video with you. They are, after all, public. I am really glad this chapter is concluded and I'm looking forward for the future.
