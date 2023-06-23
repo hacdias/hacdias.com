@@ -67,7 +67,7 @@ code, kbd, samp, pre {
 
 :not(pre) > code {
   border-radius: var(--radius);
-  padding: 0.1rem 0.25rem;
+  padding-inline: 0.25rem;
   background: var(--near-white);
   border: var(--border) solid var(--light-white);
 }
