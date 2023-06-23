@@ -3,7 +3,7 @@
   {{- partialCached "post/header" (dict "Page" . "Listing" true) .Permalink true }}
   {{- if $isLong }}
     {{- with .Summary }}
-      <div class='copy p-summary'>{{ . }}</div>
+      <div class='p-summary'>{{ . }}</div>
     {{- end }}
   {{- else }}
     {{- partialCached "post/content" . .Permalink }}

@@ -5,50 +5,33 @@
   border: var(--border) solid var(--light-white);
 }
 
-.card > .box {
-  margin: 0;
-  border-radius: 0;
-  border-left: 0;
-  border-top: 0;
-  border-right: 0;
-  padding: var(--ms);
-}
-
-.box > p {
-  margin: 0 0 .25rem 0;
-}
-
-.card > .copy > .fw:first-child,
-.card > .copy > .fw:first-child figure {
-  margin-top: 0;
-}
-
-.card > .copy > .fw {
-  width: calc(100% + 2 * var(--ms));
-  margin-left: calc(var(--ms) * -1);
+.card > * {
+  padding: 0 var(--ms);
 }
 
 .card header {
   margin: var(--ms) 0;
-  border-radius: 0;
-  text-align: left;
+}
+
+.card > div > .fw:last-child,
+.card > div > .fw:last-child figure {
+  margin-bottom: 0;
+}
+
+.card > div > .fw {
+  width: calc(100% + 2 * var(--ms));
+  margin-left: calc(var(--ms) * -1);
 }
 
 .card h1,
-.card h3 {
-  font-size: var(--f3);
-}
-
-.card header,
-.card > .copy,
-.card footer {
-  padding: 0 var(--ms);
+.card h2 {
+  font-size: var(--f2);
 }
 
 .card .more {
   display: block;
   padding: var(--hms)var(--ms);
-  font-size: var(--f6);
+  font-size: var(--f5);
   text-align: center;
   font-weight: 700;
   clear: both;

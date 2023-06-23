@@ -2,16 +2,16 @@
   --accent: #212121;
 }
 
-.copy ol {
+main ol {
   list-style: none;
   padding-left: 0.5rem;
 }
 
-.copy ol input {
+main ol input {
   margin-right: 0.5rem;
 }
 
-.copy li > ol {
+main li > ol {
   padding-left: 1.5rem;
 }
 

@@ -65,11 +65,17 @@ code, kbd, samp, pre {
   font-family: Consolas, monaco, monospace;
 }
 
+.tag,
 :not(pre) > code {
   border-radius: var(--radius);
   padding-inline: 0.25rem;
   background: var(--near-white);
   border: var(--border) solid var(--light-white);
+}
+
+.tag {
+  text-decoration: none;
+  white-space: nowrap;
 }
 
 svg,
@@ -266,20 +272,22 @@ main header {
 }
 
 main header h1,
-main header h3 {
+main header h2 {
   margin: 0;
 }
 
-main footer {
-  margin: var(--ms) 0;
-}
-
-main footer p,
 main header p {
   font-size: var(--f5);
   color: var(--light-gray);
   font-weight: 500;
   margin: .25em 0;
+}
+
+main ol,
+main p,
+main figcaption,
+main ul {
+  line-height: 1.5;
 }
 
 table {
@@ -420,13 +428,6 @@ details summary {
   margin: 0 auto;
 }
 
-.copy ol,
-.copy p,
-.copy figcaption,
-.copy ul {
-  line-height: 1.5;
-}
-
 .left,
 .right {
   max-width: 20em;
@@ -468,7 +469,7 @@ details summary {
 .terms a,
 .terms a:visited,
 .highlight > pre,
-.copy > pre {
+main pre {
   border: var(--border) solid var(--light-white);
   background-color: var(--near-white);
   border-radius: var(--radius);
@@ -524,7 +525,7 @@ details summary {
 }
 
 .highlight > pre,
-.copy > pre {
+main pre {
   overflow: auto;
   padding: var(--ms);
   /* needs !important because Chroma adds background inline */
