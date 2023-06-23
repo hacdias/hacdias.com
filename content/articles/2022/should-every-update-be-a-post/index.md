@@ -3,6 +3,7 @@ title: Should Every Update Be a Post?
 date: 2022-08-14T19:34:06.473046888+02:00
 tags:
 - meta
+- reflection
 - indieweb
 ---
 

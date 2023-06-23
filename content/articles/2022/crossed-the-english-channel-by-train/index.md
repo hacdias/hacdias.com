@@ -1,6 +1,8 @@
 ---
 title: Crossed the English Channel by Train
 date: 2022-04-27T08:05:49.471903093+02:00
+tags:
+- travel
 ---
 
 Now that I've crossed the English Channel (or _Canal da Mancha_, in Portuguese) by train twice, I must say that it was a very nice experience. From Rotterdam to London, it takes approximately 3h30m, including a ~30 minutes stop in Brussels.

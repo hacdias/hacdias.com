@@ -4,6 +4,7 @@ date: 2020-01-01T23:30:00Z
 tags:
 - indieweb
 - meta
+- personal-website
 syndications:
 - https://twitter.com/hacdias/status/1212517049035038720
 ---

@@ -4,6 +4,8 @@ date: 2021-10-31T19:07:43.008011647Z
 lastmod: 2021-10-31T22:06:43.941004664Z
 tags:
 - meta
+- personal-website
+- blog-engine
 ---
 
 Today I have been thinking about my website. Mainly about ditching Hugo and moving to a completely custom and dynamic website. There are a few reasons about why I would like more flexibility. However, I don't know if it justifies the effort.

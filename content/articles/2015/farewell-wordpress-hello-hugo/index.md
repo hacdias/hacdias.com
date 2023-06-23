@@ -5,6 +5,8 @@ description: I finally learned how to say goodbye to WordPress. Not forever. Not
 date: 2015-08-12T11:30:00Z
 tags:
 - meta
+- blog-engine
+- personal-website
 ---
 
 Firstly, a little bit of history - when I begun this blog, I've already been using WordPress on Pplware for a while. So, I tought: I know it, it's simple, it's easy to use, I'm going to use it on my personal blog.

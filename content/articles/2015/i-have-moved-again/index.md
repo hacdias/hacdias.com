@@ -5,6 +5,7 @@ description: I have moved, again. From now until the end of the times, coxpe.com
 date: 2015-02-11T22:19:40Z
 tags:
 - meta
+- personal-website
 ---
 
 I have moved, again. From now until the end of the times, **coxpe.com** and **henriquedias.com/blog** are gone, and **henriquedias.com** is the unified version of both.

@@ -4,6 +4,7 @@ date: 2021-10-17T15:13:25.51356269Z
 lastmod: 2022-06-04T12:48:59.992786835+02:00
 tags:
 - security
+- git
 ---
 
 YubiKeys are hardware authentication devices that can be used with many applications, such as GPG, SSH and for 2 factor authentication. I have owned quite a few over the past years and recently I decided to upgrade them to the NFC version so I can use them with my mobile devices.

@@ -4,6 +4,7 @@ date: 2021-11-05T13:14:32.567880752Z
 tags:
 - meta
 - micropub
+- indieweb
 ---
 
 I am creating a new Micropub endpoint for my website and I read the [specification](https://micropub.spec.indieweb.org/). However, while testing the update action, something unexpected happened. The specification is not quite clear to whether we should deeply-traverse the update and update field by field, or solely replace the top-level keys.
