@@ -1,5 +1,5 @@
 ---
-title: More
+title: What Else Can I Find Here?
 ---
 
 This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭!
@@ -16,13 +16,6 @@ This website contains more things than it looks at first glance. This page is a 
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
-
-</div>
-
-### Categories
-
-<div class='terms grid bold'>
-
 - [✏️ Articles](/articles/)
 - [🔖 Bookmarks](/bookmarks/)
 - [🖼️ Graphics](/graphics/)
