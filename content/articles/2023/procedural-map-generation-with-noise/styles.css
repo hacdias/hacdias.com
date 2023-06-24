@@ -1,0 +1,36 @@
+#map {
+  background: #3867d6;
+  aspect-ratio: 16/9;
+  position: relative;
+}
+
+#map canvas {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+#controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
+  text-align: center;
+  margin: 1rem auto;
+}
+
+#controls label {
+  font-weight: bold;
+  display:block;
+}
+
+#controls input {
+  width: 80%;
+}
+
+p input,
+p select {
+  padding: 0;
+  padding-inline: 0.5rem;
+  max-width: 6rem;
+  text-align: center;
+}
