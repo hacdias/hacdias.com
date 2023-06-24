@@ -738,6 +738,19 @@ main pre {
     text-align: left;
   }
 
+  #header .avatar {
+    max-width: 4rem;
+    margin-right: var(--hms);
+  }
+
+  #header .name {
+    font-size: var(--f3);
+  }
+
+  #header p {
+    font-size: var(--f4);
+  }
+
   #navbar a,
   #header form input {
     display: none;
