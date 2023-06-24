@@ -21,7 +21,7 @@ noIndex: true
   </div>
   <eagle-search-result class='dn'>
     <div class='card'>
-      <header><a href='' class='nl entry-link'><h3><entry-title></entry-title></h3></a></header>
+      <header><a href='' class='nl entry-link'><h2><entry-title></entry-title></h2></a></header>
       <div class='copy'><p><entry-content></entry-content></p></div>
       <a href='' class='entry-link more'>Read More →</a>
     </div>
