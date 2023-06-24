@@ -7,8 +7,12 @@ details summary {
   position: sticky;
   top: 0;
   z-index: 1;
-  border-top: 1px solid var(--fg);
+  border-bottom: 1px solid var(--fg);
   background: var(--bg);
+}
+
+details:first-of-type summary {
+  border-top: 1px solid var(--fg);
 }
 
 details summary:hover {
@@ -19,20 +23,17 @@ details summary .count {
   float: right;
 }
 
-details .row {
-  display: grid;
+.logs .e {
   grid-template-columns: 1.5rem calc(50% - 2rem) .75rem auto;
   grid-gap: 0.5rem;
-  font-size: var(--f7);
-  padding: var(--hms);
-  border-top: var(--border) solid var(--fg);
+  font-size: var(--f5);
 }
 
-details .row:nth-child(even) {
+.logs .e:nth-child(even) {
   background: var(--mg)
 }
 
-details .row > div:first-of-type {
+.logs .e > div:first-of-type {
   text-align: center;
 }
 </style>
@@ -45,15 +46,15 @@ details .row > div:first-of-type {
     <small class='lg count'>{{ .count }}</small>
   </summary>
 
-  <div class='urls'>
-    <div class='row'>
+  <div class='logs'>
+    <div class='e'>
       <div></div>
       <div><strong>hacdias.com</strong></div>
       <div></div>
       <div><strong>{{ .domain }}</strong></div>
     </div>
     {{ range $i, $lnk := .links }}
-    <div class='row'>
+    <div class='e'>
       <div>{{ $i }}</div>
       <div>
         <a href="{{ .sourceUrl }}">{{ (urls.Parse .sourceUrl).Path }}</a>
