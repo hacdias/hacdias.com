@@ -11,13 +11,13 @@ noIndex: true
 
 <eagle-no-search-results class='dn'>
   <div class='box'>
-    🤔 Searched and searched, but nothing could be found!
+    <p>🤔 Searched and searched, but nothing could be found!</p>
   </div>
 </eagle-no-search-results>
 
 <eagle-search-results>
   <div class='box'>
-    ℹ️ You haven't searched for anything yet!
+    <p>ℹ️ You haven't searched for anything yet!</p>
   </div>
   <eagle-search-result class='dn'>
     <div class='card'>
