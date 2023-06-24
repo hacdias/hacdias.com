@@ -36,7 +36,7 @@ I am not going to go over details about how this noise works, but the gist is th
 
 ## The Generator
 
-Before continuing, however, let's see one of the fun parts of this article: the interactive implementation! The image below is being rendered using the seed <input id='in-seed' type='number' value='29576'> and <select id="in-noise"><option value="simplex" selected>Simplex</option><option value="perlin">Perlin</option></select> noise algorithm. **Modify** these values and see how it changes! You can also save the image by right clicking.
+Before continuing, however, let's see one of the fun parts of this article: the interactive implementation! The image below is being rendered using the seed <input id='in-seed' type='number' value='29576' pattern='[0-9]*' inputmode='numeric'> and <select id="in-noise"><option value="simplex" selected>Simplex</option><option value="perlin">Perlin</option></select> noise algorithm. **Modify** these values and see how it changes! You can also save the image by right clicking.
 
 <div class='fw pixelated' id='map'>
   <canvas width="640" height="360" />
