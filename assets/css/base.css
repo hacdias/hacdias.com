@@ -7,16 +7,20 @@
   --f5: 0.833rem;
 
   /* Colors */
-  --accent: #3558a0;
-  --accent-text: #f4f4f4;
-  --background: #fbfbfb;
+  --c-h: 220;
+  --c-s: 50%;
+  --c-l: 42%;
+  --c: hsl(var(--c-h), var(--c-s), var(--c-l));
+  --c-text: #f4f4f4;
+  --bg: hsl(var(--c-h), var(--c-s), 99%);  
+  --fg-l: 94%;
+  --fg: hsl(var(--c-h), var(--c-s), var(--fg-l));
+  --mg-l: 97%;
+  --mg: hsl(var(--c-h), var(--c-s), var(--mg-l));
 
   /* Blacks to whites */
   --dark-gray: #333333;
   --light-gray: #666666;
-  --light-white: #eeeeee;
-  --near-white: #f4f4f4;
-  --white: #ffffff;
 
   /* Spacings */
   --ls: 2.5rem;
@@ -40,7 +44,7 @@ html {
 
 body {
   color: var(--dark-gray);
-  background-color: var(--background);
+  background-color: var(--bg);
   background-attachment: fixed;
   line-height: 1.25;
   min-height: 100vh;
@@ -69,13 +73,14 @@ code, kbd, samp, pre {
 :not(pre) > code {
   border-radius: var(--radius);
   padding-inline: 0.25rem;
-  background: var(--near-white);
-  border: var(--border) solid var(--light-white);
+  background: var(--mg);
+  border: var(--border) solid var(--fg);
 }
 
 .tag {
   text-decoration: none;
   white-space: nowrap;
+  color: var(--c);
 }
 
 svg,
@@ -149,7 +154,7 @@ li {
 }
 
 ::marker {
-  color: var(--accent)
+  color: var(--c)
 }
 
 .nl,
@@ -183,24 +188,24 @@ input,
 select,
 textarea {
   padding: .5rem;
-  border: 1px solid var(--light-white);
+  border: 1px solid var(--fg);
   outline: 0;
   min-width: 0;
   border-radius: var(--radius);
-  background: var(--white);
+  background: var(--bg);
   color: var(--dark-gray);
 }
 
 input:focus,
 select:focus,
 textarea:focus {
-  border-color: var(--accent);
+  border-color: var(--c);
 }
 
 input:disabled,
 select:disabled,
 textarea:disabled {
-  background-color: var(--near-white);
+  background-color: var(--mg);
   cursor: not-allowed;
 }
 
@@ -209,11 +214,11 @@ textarea {
 }
 
 button {
-  background-color: var(--accent);
-  border: var(--border) solid var(--accent);
+  background-color: var(--c);
+  border: var(--border) solid var(--c);
   font-weight: 700;
   padding: var(--hms);
-  color: var(--accent-text);
+  color: var(--c-text);
   cursor: pointer;
   border-radius: var(--radius);
   outline: 0;
@@ -251,7 +256,7 @@ button:hover {
 
 hr {
   border: 0;
-  border-top: 1px solid var(--light-white);
+  border-top: 1px solid var(--fg);
   margin: 1.2em auto;
 }
 
@@ -304,15 +309,15 @@ table th {
 table th,
 table td {
   padding: var(--hms);
-  border: var(--border) solid var(--light-white);
+  border: var(--border) solid var(--fg);
 }
 
 table tr {
-  border-top: var(--border) solid var(--light-white);
+  border-top: var(--border) solid var(--fg);
 }
 
 table tr:nth-child(2n) {
-  background-color: var(--near-white);
+  background-color: var(--mg);
 }
 
 table img {
@@ -322,7 +327,7 @@ table img {
 blockquote {
   padding-left: 0.75rem;
   margin: 1em 0 1rem 1rem;
-  border-left: 0.2rem solid var(--light-white);
+  border-left: 0.2rem solid var(--fg);
 }
 
 details summary {
@@ -357,13 +362,13 @@ details summary {
 }
 
 #header form button {
-  background: var(--near-white);
-  border-color: var(--light-white);
+  background: var(--mg);
+  border-color: var(--fg);
   padding: var(--hms);
 }
 
 #header form button:hover {
-  background: var(--light-white);
+  background: var(--fg);
 }
 
 #header p {
@@ -390,8 +395,8 @@ details summary {
 
 #navbar {
   display: flex;
-  background-color: var(--accent);
-  color: var(--accent-text);
+  background-color: var(--c);
+  color: var(--c-text);
   border-radius: var(--radius);
   margin-top: 0;
   margin-bottom: var(--hls);
@@ -422,7 +427,7 @@ details summary {
 
 .container {
   width: 100%;
-  background-color: var(--background);
+  background-color: var(--bg);
   max-width: var(--max-width);
   padding: var(--ms) var(--ls);
   margin: 0 auto;
@@ -470,8 +475,8 @@ details summary {
 .terms a:visited,
 .highlight > pre,
 main pre {
-  border: var(--border) solid var(--light-white);
-  background-color: var(--near-white);
+  border: var(--border) solid var(--fg);
+  background-color: var(--mg);
   border-radius: var(--radius);
 }
 
@@ -516,7 +521,7 @@ main pre {
 }
 
 .terms a:hover {
-  background-color: var(--light-white);
+  background-color: var(--fg);
 }
 
 .terms.bold a,
@@ -529,7 +534,7 @@ main pre {
   overflow: auto;
   padding: var(--ms);
   /* needs !important because Chroma adds background inline */
-  background-color: var(--near-white) !important;
+  background-color: var(--mg) !important;
 }
 
 .toc {
@@ -629,15 +634,15 @@ main pre {
 }
 
 .logs .e:not(:last-of-type) {
-  border-bottom: var(--border) solid var(--light-white);
+  border-bottom: var(--border) solid var(--fg);
 }
 
 .logs .e:hover {
-  background-color: var(--near-white);
+  background-color: var(--mg);
 }
 
 .box.logs .e:hover {
-  background-color: var(--light-white);
+  background-color: var(--fg);
 }
 
 .logs .e > div {
@@ -657,24 +662,24 @@ main pre {
   position: sticky;
   top: 0;
   padding: var(--hms) 0;
-  background: var(--background);
-  border-bottom: calc(2 * var(--border)) solid var(--accent);
+  background: var(--bg);
+  border-bottom: calc(2 * var(--border)) solid var(--c);
 }
 
 .box.logs .h {
-  background: var(--near-white);
+  background: var(--mg);
 }
 
 .logs .h span:first-of-type {
   font-size: var(--f2);
-  color: var(--accent);
+  color: var(--c);
   font-weight: bold;
 }
 
 .pagination {
-  border: 1px solid var(--light-white);
+  border: 1px solid var(--fg);
   border-radius: var(--radius);
-  background: var(--near-white);
+  background: var(--mg);
   display: flex;
 }
 
@@ -686,7 +691,7 @@ main pre {
 }
 
 .pagination a:hover {
-  background-color: var(--light-white);
+  background-color: var(--fg);
 }
 
 .pagination a[aria-disabled="true"] {
@@ -695,7 +700,7 @@ main pre {
 }
 
 .pagination a[aria-current="page"] {
-  background-color: var(--light-white);
+  background-color: var(--fg);
   font-weight: bold;
 }
 
@@ -707,7 +712,7 @@ main pre {
   }
 
   body {
-    background: var(--background);
+    background: var(--bg);
   }
 
   #header {

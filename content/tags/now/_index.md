@@ -15,6 +15,8 @@ aliases: ['/now']
 
 <style>
 :root {
-  --accent: #e15264;
+  --c-h: 352;
+  --c-s: 70%;
+  --c-l: 60%;
 }
 </style>

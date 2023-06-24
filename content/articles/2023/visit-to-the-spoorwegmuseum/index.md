@@ -30,7 +30,9 @@ Today, I visited the [Spoorwegmuseum](https://www.spoorwegmuseum.nl/), which lit
 
 <style>
 :root {
-  --accent: #986e58;
+  --c-h: 21;
+  --c-s: 27%;
+  --c-l: 47%;
 }
 
 .grid3 {

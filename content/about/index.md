@@ -6,7 +6,7 @@ description: I was born in Portugal and I am not pursuing a Master's degree in t
 coverImage: cdn:/d08ced340c08b8a3b1050f114539e88b61c2e75c7d6b58f120f2bd7fa469ec3f
 ---
 
-**Hi 👋, I'm <span style="color: var(--accent)">Henrique</span>** (he/him)!
+**Hi 👋, I'm <span style="color: var(--c)">Henrique</span>** (he/him)!
 
 I'm from a little town in the countryside of Portugal 🇵🇹 and now I live in The Netherlands 🇳🇱.  I enjoy learning about new things, taking photographs, and programming. I'm a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users.
 
@@ -18,7 +18,9 @@ Since an early age, I have been curious about computers and I always wanted to w
 
 <style>
 :root {
-  --accent: #986e58;
+  --c-h: 21;
+  --c-s: 27%;
+  --c-l: 47%;
 }
 </style>
 

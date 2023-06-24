@@ -2,7 +2,7 @@
   margin: var(--ms) 0;
   overflow: hidden;
   border-radius: var(--radius);
-  border: var(--border) solid var(--light-white);
+  border: var(--border) solid var(--fg);
 }
 
 .card > * {
@@ -35,5 +35,5 @@
   text-align: center;
   font-weight: 700;
   clear: both;
-  border-top: 1px solid var(--light-white);
+  border-top: 1px solid var(--fg);
 }
