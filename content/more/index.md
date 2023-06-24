@@ -40,7 +40,6 @@ Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='tr
 
 - [🔵 Blue Screen of Death](../minisites/bsod/)
 - [📡 Glitch](../minisites/glitch/)
-- [🗺 Procedural Map Generator](../minisites/mapgen/)
 - [🏳️‍🌈 PixelColorMania](../minisites/pixelcolormania/)
 - [⛈ Thunderstorm](../minisites/thunderstorm/)
 - [📺 TV Noise](../minisites/tv-noise/)
