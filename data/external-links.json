@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 58,
+    "count": 61,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -33,10 +33,6 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-desktop"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
         "targetUrl": "https://github.com/ipfs-shipyard/ipfs-companion"
       },
       {
@@ -44,8 +40,8 @@
         "targetUrl": "https://github.com/ipfs-shipyard/ipfs-webui"
       },
       {
-        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "https://github.com/hacdias/xkcd-clone"
+        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-desktop"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
@@ -56,12 +52,16 @@
         "targetUrl": "https://github.com/hacdias/xkcd.hacdias.com"
       },
       {
-        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-companion"
+        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
+        "targetUrl": "https://github.com/hacdias/xkcd-clone"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy"
+        "targetUrl": "https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
+        "targetUrl": "https://github.com/agentofuser"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -81,15 +81,15 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-companion"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
         "targetUrl": "https://github.com/ipfs-shipyard/ipfs-companion#install"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/agentofuser"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
@@ -105,11 +105,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "https://github.com/hacdias/ownyourtrakt"
+        "targetUrl": "https://github.com/hacdias/ownyourtrakt#own-your-trakt"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "https://github.com/hacdias/ownyourtrakt#own-your-trakt"
+        "targetUrl": "https://github.com/hacdias/ownyourtrakt"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
@@ -149,7 +149,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground/blob/master/plans/network/pingpong.go"
+        "targetUrl": "https://github.com/testground/testground"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
@@ -165,7 +165,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground"
+        "targetUrl": "https://github.com/testground/testground/blob/master/plans/network/pingpong.go"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
+        "targetUrl": "https://github.com/xwmx/nb"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
@@ -176,16 +180,12 @@
         "targetUrl": "https://github.com/hacdias/eagle"
       },
       {
-        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://github.com/xwmx/nb"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2021/10/17/yubikey-setup/",
         "targetUrl": "https://github.com/drduh/YubiKey-Guide"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+        "targetUrl": "https://github.com/yuin/goldmark"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
@@ -193,7 +193,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://github.com/yuin/goldmark"
+        "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
@@ -228,8 +228,20 @@
         "targetUrl": "https://github.com/ipfs/kubo/blob/78895a11848a9ddab05231b7cbde99b406f1a01c/tracing/tracing.go"
       },
       {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://github.com/hacdias/mapgen"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/hacdias/eagle"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/bookmarks/",
+        "targetUrl": "https://github.com/sissbruecker/linkding"
       },
       {
         "sourceUrl": "https://hacdias.com/contact/",
@@ -239,7 +251,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 25,
+    "count": 29,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -259,15 +271,15 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2015/04/06/3-things-i-would-like-to-be/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Software_engineer"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2015/04/06/3-things-i-would-like-to-be/",
         "targetUrl": "https://en.wikipedia.org/wiki/Writer"
       },
       {
         "sourceUrl": "https://hacdias.com/2015/04/06/3-things-i-would-like-to-be/",
         "targetUrl": "https://en.wikipedia.org/wiki/Photographer"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2015/04/06/3-things-i-would-like-to-be/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Software_engineer"
       },
       {
         "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
@@ -336,6 +348,22 @@
       {
         "sourceUrl": "https://hacdias.com/2023/02/24/writing-gratitude-journal/",
         "targetUrl": "https://en.wikipedia.org/wiki/Gratitude_journal"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Procedural_generation"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Linear_interpolation"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Simplex_noise"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Perlin_noise"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
@@ -1026,6 +1054,24 @@
       {
         "sourceUrl": "https://hacdias.com/2015/03/31/how-to-create-a-node-js-command-line-application/",
         "targetUrl": "https://nodejs.org/api/readline.html"
+      }
+    ]
+  },
+  {
+    "domain": "redblobgames.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://www.redblobgames.com/maps/terrain-from-noise/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://www.redblobgames.com/maps/mapgen4/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://www.redblobgames.com/articles/noise/introduction.html"
       }
     ]
   },
