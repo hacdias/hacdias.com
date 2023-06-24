@@ -1,30 +1,30 @@
 ---
-title: What Else Can I Find Here?
+title: What Else Can I Find?
 ---
 
-This website contains more things than it looks at first glance. This page is a list of (almost) everything you can find this on this website. Have fun exploring 🧭!
+This website contains more things than it looks at first glance. This page contains a list of almost everything you can find here. However, it does not show everything. Some things are up for you to discover 🧭!
 
 <!--more-->
 
 <div class='terms grid bold'>
 
 - [🧁 About](/about/)
+- [✏️ Articles](/articles/)
+- [🔖 Bookmarks](/bookmarks/)
 - [🗞️ Blogroll](/blogroll/)
 - [✉️ Contact](/contact/)
 - [📖 Guestbook](/guestbook/)
+- [🖼️ Graphics](/graphics/)
 - [🚀 Impossible List](/impossible-list/)
+- [📸 Photos](/photos/)
+- [📚 Readings](/readings/)
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
-- [✏️ Articles](/articles/)
-- [🔖 Bookmarks](/bookmarks/)
-- [🖼️ Graphics](/graphics/)
-- [📸 Photos](/photos/)
-- [📚 Readings](/readings/)
 
 </div>
 
-### Experiments {#experiments}
+## Experiments {#experiments}
 
 A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
 Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='trigger' hidden title='Click here, NOW!'>Or they might bite you!</span>
