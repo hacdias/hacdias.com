@@ -4,7 +4,9 @@ description: Bookmarks of links I've enjoyed or want to keep for future referenc
 ---
 
 <div class='box'>
-  🔎 You can quickly search by using the search function of your browser.
+
+🔖 These are my bookmarks, directly exported from a personal [Linkding](https://github.com/sissbruecker/linkding) instance.
+
 </div>
 
 {{< bookmarks >}}
