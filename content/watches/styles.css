@@ -1,13 +1,15 @@
 :root {
-  --accent: #c0749d;
+  --c-h: 328;
+  --c-s: 28%;
+  --c-l: 60%;
 }
 
 #performances + .logs {
-  --accent: #8899a6;
+  --c: #8899a6;
 }
 
 #shows + .logs {
-  --accent: #53aced;
+  --c: #53aced;
 }
 
 @media screen and (min-width: 53.001rem) {

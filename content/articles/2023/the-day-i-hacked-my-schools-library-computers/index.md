@@ -11,12 +11,14 @@ I haven't written a single article this month. However, I've thought about doing
 
 <style>
   :root {
-    --accent: #3B77BC;
+    --c-h: 212;
+    --c-s: 52%;
+    --c-l: 48%;
   }
 
   @media screen and (min-width: 53.001rem) {
   body {
-    background: var(--accent) url(https://cdn.hacdias.com/img/2000/9f501833808d267d595424bc989eeb6227c29b467b232aefe06554c054a31ea8.jpeg);
+    background: var(--c) url(https://cdn.hacdias.com/img/2000/9f501833808d267d595424bc989eeb6227c29b467b232aefe06554c054a31ea8.jpeg);
     background-attachment: fixed;
     background-size: cover;
   }

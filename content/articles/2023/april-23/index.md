@@ -12,7 +12,9 @@ the weather is definitely getting so much better than a few months ago.
 <!--more-->
 <style>
 :root {
-  --accent: #78b9e8;
+  --c-h: 205;
+  --c-s: 71%;
+  --c-l: 69%;
 }
 
 figure.round {

@@ -30,7 +30,7 @@ figure figcaption {
 }
 
 figure img {
-  border: 1px solid var(--near-white);
+  border: 1px solid var(--mg);
 }
 </style>
 

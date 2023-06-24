@@ -1,5 +1,7 @@
 :root {
-  --accent:  #8eba4d;
+  --c-h: 84;
+  --c-s: 44%;
+  --c-l: 52%;
 }
 
 .logs .e {
