@@ -146,6 +146,7 @@ a {
   color: inherit;
   text-decoration: underline;
   word-wrap: break-word;
+  overflow-wrap: anywhere;
   cursor: pointer;
 }
 
