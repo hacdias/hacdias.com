@@ -1,7 +1,7 @@
 ---
 title: Back to the Web of the 90s
-description: >-
-  Do you remember the old days of the web? Where everyone had their own website, made by hand, emanating personality. We should bring that back!
+description: Do you remember the old days of the web? Where everyone had their own
+  website, made by hand, emanating personality. We should bring that back!
 date: 2020-05-31T21:24:00Z
 tags:
 - meta

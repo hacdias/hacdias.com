@@ -1,7 +1,7 @@
 ---
 title: Owning My Reading Log
-description: >-
-  It's now time to own my own reading log. I started by creating a reading logs page and supporting all the IndieWeb-related specs for this.
+description: It's now time to own my own reading log. I started by creating a reading
+  logs page and supporting all the IndieWeb-related specs for this.
 date: 2020-01-29T23:50:00Z
 tags:
 - meta

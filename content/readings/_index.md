@@ -1,7 +1,6 @@
 ---
 title: Readings
-description: >-
-  An extensive list of all the books I remember ever reading.
+description: An extensive list of all the books I remember ever reading.
 layout: readings
 ---
 
