@@ -1,15 +1,15 @@
 ---
 title: Procedural Map Generation With Noise
-description: >-
-  Using JavaScript and Perlin and Simplex noise to procedurally generate a map
-  with different biomes.
-coverImage: cdn:/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404
+description: Using JavaScript and Perlin and Simplex noise to procedurally generate
+  a map with different biomes.
 date: 2023-06-24T09:17:30+02:00
+coverImage: cdn:/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404
 tags:
 - creative
 - art
 - javascript
-aliases: ['/minisites/mapgen']
+aliases:
+- /minisites/mapgen
 ---
 
 <p class=dn>

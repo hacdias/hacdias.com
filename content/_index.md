@@ -1,9 +1,8 @@
 ---
 title: Home
-description: >-
-  Henrique is interested in web infrastructure, decentralized systems, and making
-  tools for developers and users. He likes coffee and tea alike. Currently works as a
-  Software Engineer at Protocol Labs.
+description: Henrique is interested in web infrastructure, decentralized systems,
+  and making tools for developers and users. He likes coffee and tea alike. Currently
+  works as a Software Engineer at Protocol Labs.
 favoritePosts:
 - /articles/2023/the-day-i-hacked-my-schools-library-computers
 - /articles/2021/magic-fractal-snowflakes

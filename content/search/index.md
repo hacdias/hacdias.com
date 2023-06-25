@@ -1,7 +1,7 @@
 ---
 title: Search
-layout: eagle
 noIndex: true
+layout: eagle
 ---
 
 <form id='search-form' class='inline-form' style="margin: 1rem 0">

@@ -1,7 +1,8 @@
 ---
 title: now
 layout: list-as-logs
-aliases: ['/now']
+aliases:
+- /now
 ---
 
 <div class="box">
