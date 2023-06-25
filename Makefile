@@ -5,7 +5,6 @@ all: clean make-dirs normalize twemoji
 make-dirs:
 	mkdir -p assets/css/vendor
 	mkdir -p assets/js/vendor
-	mkdir -p content/vendor
 
 normalize:
 	wget https://necolas.github.io/normalize.css/8.0.1/normalize.css -O assets/css/vendor/normalize.css
@@ -16,7 +15,6 @@ twemoji:
 clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
-	rm -rf content/vendor
 
 watch:
 	hugo server --watch --minify
