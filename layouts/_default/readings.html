@@ -1,5 +1,4 @@
 {{ define "main" }}
-<main role='main'>
   <header>
     <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
   </header>
@@ -26,7 +25,6 @@
   {{ $read := partial "fns/pages-as-logs" .Pages }}
   {{ $read = $read | append (index $logs "read" ) }}
   {{ partial "logs" $read }}
-</main>
 {{ end }}
 
 {{ define "ulogs" }}

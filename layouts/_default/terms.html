@@ -1,17 +1,15 @@
 {{ define "main" }}
-  <main role='main'>
-    <header>
-      <h1>{{ .Title }}</h1>
-    </header>
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
 
-    {{ partial "post/content" . }}
+  {{ partial "post/content" . }}
 
-    <div class="terms">
-      <ul>
-      {{ range .Data.Terms.Alphabetical }}
-        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
-      {{ end }}
-      </ul>
-    </div>
-  </main>
+  <div class="terms">
+    <ul>
+    {{ range .Data.Terms.Alphabetical }}
+      <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+    {{ end }}
+    </ul>
+  </div>
 {{ end }}

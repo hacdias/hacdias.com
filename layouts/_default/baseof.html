@@ -4,10 +4,11 @@
   {{ partial "base/head" . }}
 </head>
 <body>
-  {{/* {{ include "base/admin" . }} */}}
   <div class='container'>
     {{ partial "base/header" . }}
-    {{ block "main" . }}{{ end }}
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
     {{ partialCached "base/footer" . }}
   </div>
 
