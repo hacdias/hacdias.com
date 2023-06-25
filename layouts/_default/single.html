@@ -1,9 +1,7 @@
 {{ define "main" }}
-<main role='main'>
   <article class='h-entry'>
     {{- partialCached "post/header" (dict "Page" . "Listing" false) .Permalink false }}
     {{- partialCached "post/content" . .Permalink }}
     {{- partialCached "post/footer" . .Permalink }}
   </article>
-</main>
 {{ end }}
