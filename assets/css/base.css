@@ -12,7 +12,8 @@
   --c-l: 42%;
   --c: hsl(var(--c-h), var(--c-s), var(--c-l));
   --c-text: #f4f4f4;
-  --bg: hsl(var(--c-h), var(--c-s), 99%);  
+  --bg-l: 99%;
+  --bg: hsl(var(--c-h), var(--c-s), var(--bg-l));
   --fg-l: 94%;
   --fg: hsl(var(--c-h), var(--c-s), var(--fg-l));
   --mg-l: 97%;
