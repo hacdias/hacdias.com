@@ -706,6 +706,24 @@ main pre {
   font-weight: bold;
 }
 
+#skip-to-content {
+  position: absolute;
+  top: -20em;
+}
+
+#skip-to-content:hover,
+#skip-to-content:focus {
+  left: 0;
+  right: 0;
+  top: 0;
+  margin-inline: auto;
+  width: max-content;
+  background: var(--fg);
+  color: var(--c);
+  padding: var(--hms);
+  font-weight: bold;
+}
+
 @media screen and (max-width: 53rem) {
   :root {
     --max-width: 53rem;

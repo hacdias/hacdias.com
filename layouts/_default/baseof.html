@@ -4,9 +4,10 @@
   {{ partial "base/head" . }}
 </head>
 <body>
+  <a href="#main" id='skip-to-content'>Skip to content</a>
   <div class='container'>
     {{ partial "base/header" . }}
-    <main>
+    <main id='main'>
       {{ block "main" . }}{{ end }}
     </main>
     {{ partialCached "base/footer" . }}
