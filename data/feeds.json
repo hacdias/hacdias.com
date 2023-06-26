@@ -51,11 +51,6 @@
       "feed": "https://campegg.com/feed.xml"
     },
     {
-      "title": "Chris Wiegman",
-      "site": "https://chriswiegman.com",
-      "feed": "https://chriswiegman.com/feed/"
-    },
-    {
       "title": "Coder's Block",
       "site": "https://codersblock.com",
       "feed": "https://codersblock.com/rss.xml"
