@@ -1,7 +1,7 @@
 ---
-title: Read "The Creating Programmer" by Wouter Groeneveld
+title: Read "The Creative Programmer" by Wouter Groeneveld
 date: 2023-06-12T09:26:30.096860512+02:00
-coverImage: cdn:/3d2a5e6e477b7c278a3e587b7e39077ff0347fed6fca56e7126e1784fb4ef6dd
+coverImage: cdn:/2023-06-the-creative-programmer
 read:
   name: The Creative Programmer
   author: Wouter Groeneveld
@@ -22,7 +22,7 @@ he offered a copy of his most recent book, *The Creative Programmer*. I was one 
 lucky ones that received one of the copies. The title was quite enticing. However,
 the book was different than what I expected... in a positive way!
 
-![The Creative Programmer](cdn:/3d2a5e6e477b7c278a3e587b7e39077ff0347fed6fca56e7126e1784fb4ef6dd?class=fw)
+![The Creative Programmer](cdn:/2023-06-the-creative-programmer?class=fw)
 
 I expected the book to be more technical, which it wasn't. There's no reason why this
 book had to be technical. I think perhaps the word "programmer" led by brain to put

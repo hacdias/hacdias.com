@@ -49,7 +49,7 @@ opposites to each other.
 
 <div style='max-width: 30rem; margin: 0 auto;'>
 
-![The Country Mapping Tool for PT and NL](cdn:/347bb842e6c52be2e9c81b39703dfd831a04e06fe8caeecda1d36bccdbb2cf4b)
+![The Country Mapping Tool for PT and NL](cdn:/2023-05-culture-map-pt-nl)
 
 </div>
 
