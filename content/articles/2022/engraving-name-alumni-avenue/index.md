@@ -1,7 +1,7 @@
 ---
 title: Engraving My Name in the Alumni Avenue
 date: 2022-11-23T09:07:14.207620219+01:00
-coverImage: cdn:/458b464c438f63713288bc36fb08b9e60d8a7a3497924b4e41362cca7376f9f8
+coverImage: cdn:/2022-11-msc-while-engraving
 tags:
 - university
 - masters
@@ -11,8 +11,8 @@ My university has this thing called "Alumni Avenue". It's one of the air bridges
 
 <div class="fw fg">
 
-![](cdn:/458b464c438f63713288bc36fb08b9e60d8a7a3497924b4e41362cca7376f9f8)
+![](cdn:/2022-11-msc-while-engraving)
 
-![](cdn:/c45177091ab660ec4cb9e03f1db751fd8ae3831e66ceedeb7d625fb9d2720229)
+![](cdn:/2022-11-msc-engraving)
 
 </div>

@@ -2,7 +2,7 @@
 title: Master's Graduation Ceremony
 date: 2022-11-25T17:02:18+01:00
 lastmod: 2022-12-01T15:30:15.269071746+01:00
-coverImage: cdn:/f3f53794aa8850e2b9a98341a516a83c7a45e1b1f6489f43721b09b4e3908eaa
+coverImage: cdn:/2022-11-msc-ceremony-group
 tags:
 - university
 - masters
@@ -14,14 +14,14 @@ _Note_: photos and video are copyrighted by TU/e. Photos are originally on [Flic
 
 <div class="fw fg">
 
-![](cdn:/f3f53794aa8850e2b9a98341a516a83c7a45e1b1f6489f43721b09b4e3908eaa)
+![](cdn:/2022-11-msc-ceremony-group)
 
-![](cdn:/99074b41b2e662cde72e93e9da1797eeb97396a6ab74b281b14f72f418590b9e)
+![](cdn:/2022-11-msc-ceremony)
 
 </div>
 
 <div class='fw'>
   <video controls>
-    <source class="u-video" src="https://cdn.hacdias.com/media/00e246361088b8d2b72029b84bce9b15398e9e1a9196d400073b4a82ee389d8c.mp4">
+    <source class="u-video" src="https://cdn.hacdias.com/media/2022-11-msc-ceremony-speech.mp4">
   </video>
 </div>
