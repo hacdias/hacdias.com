@@ -11,16 +11,6 @@ Since I created this website's [colophon](/about/#colophon) (also known as _meta
 <!--more-->
 
 <style>
-.g50-50 {
-  display: grid;
-  grid-template-columns: 50% 50%;
-  grid-gap: 1rem;
-}
-
-.g50-50 figure {
-  margin: 0;
-}
-
 figure figcaption {
   display: none
 }
@@ -42,7 +32,7 @@ In 2015, however, I [ditched WordPress](/2015/08/12/farewell-wordpress-hello-hug
 
 At the time, I was very into the [parallax](https://en.wikipedia.org/wiki/Parallax) effect. Unfortunately, you can't see it on the images below. For the home page, the images would stay in the same position while scrolling. On the articles page, the image would scroll slowly than the article, giving a depth effect. This was the first version of the website.
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v1 (2015) Home](cdn:/2022-03-v1)
 
@@ -54,7 +44,7 @@ Months after, I made some drastic updates and decided to call it version 1.2. I 
 
 ![v1.2 (2015) Home](cdn:/2022-03-v1.2?class=fw)
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v1.2 (2015) Article](cdn:/2022-03-v1.2-article)
 
@@ -66,7 +56,7 @@ Months after, I made some drastic updates and decided to call it version 1.2. I 
 
 In 2016, I changed it enough to call it version 2. I went for a white-ish color scheme and kept the article lists as cards. I think this was something fairly common at the time and it's still seen in many websites nowadays.
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v2 (2016) Home](cdn:/2022-03-v2)
 
@@ -76,7 +66,7 @@ In 2016, I changed it enough to call it version 2. I went for a white-ish color 
 
 In this year, I made way too many major versions. I am skipping version 3 because I could not find a commit where it looked decent. Fast forwarding to version 4, I added an interactive command-line-like thing in the homepage where you could run some commands that would redirect you to the appropriate page. It seems I was into `monospaced` fonts at the time.
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v4 (2016) Home](cdn:/2022-03-v4)
 
@@ -92,7 +82,7 @@ I made yet another revamp in 2016 - probably too much free time in my hands - wh
 
 ![v5.1 (2016) Home](cdn:/2022-03-v5.1-home?class=fw)
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v5 (2016) Blog](cdn:/2022-03-v5-blog)
 
@@ -106,7 +96,7 @@ In 2017, I managed to go through the whole year with the same design (magic!). T
  
 ![v7 (2017) Home](cdn:/2022-03-v7-home?class=fw)
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v7 (2017) About](cdn:/2022-03-v7-about)
 
@@ -122,7 +112,7 @@ In 2017, I managed to go through the whole year with the same design (magic!). T
 
 In 2018 I did another face wash to the website. The homepage had an effect where the sentence bellow my name would change every few seconds. The animation was as if it was being typed and untyped.
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v8 (2018) Home](cdn:/2022-03-v8-home)
 
@@ -132,7 +122,7 @@ In 2018 I did another face wash to the website. The homepage had an effect where
 
 Some months after I released version 9 where I went back to the 2018 design, but with some twists. It is very similar, but there's a different color palette and effects.
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v9 (2018) Home](cdn:/2022-03-v9-home)
 
@@ -148,7 +138,7 @@ Some months after I released version 9 where I went back to the 2018 design, but
 
 2019 is the last year of this post. In this year, version 10 was released. It was very simple. You can now see that my usage of emojis is growing - which remains until today.
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v10 (2019) About](cdn:/2022-03-v10-about)
 
