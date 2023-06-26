@@ -1,6 +1,7 @@
 ---
 title: Things That I Use
 date: 2020-01-21T15:39:00Z
+coverImage: cdn:/2023-05-desk-microlab
 lastmod: 2023-05-25T18:03:21.589680042+02:00
 ---
 
@@ -55,7 +56,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 ### 💼 Coworking Space
 
-![Desk at Microlab Eindhoven](cdn:/292ccc77d1385e37a84e71d9fb639feae2a1261dfe34885642908c827a5cb09c?class=fw)
+![Desk at Microlab Eindhoven](cdn:/2023-05-desk-microlab?class=fw)
 
 I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my daily basis to work. Being in a coworking space allows me to separate work from personal things. Besides, since my work is fully remote, going to a coworking place is also a way of interacting with others in-person.
 
@@ -96,7 +97,7 @@ I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my dail
 
 ### 🏡 Home
 
-![Desk at Home](cdn:/587fcd0b76f75dd7032d6c3df8b0bbec389ce2b51d4947ec0071e79ed6929061?class=fw)
+![Desk at Home](cdn:/2023-05-desk-home?class=fw)
 
 At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
