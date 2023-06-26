@@ -726,7 +726,6 @@ main pre {
 
 @media screen and (max-width: 53rem) {
   :root {
-    --max-width: 53rem;
     --ls: 1rem;
     --hls: 1rem;
   }
