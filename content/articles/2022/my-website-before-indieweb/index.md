@@ -13,7 +13,7 @@ Since I created this website's [colophon](/about/#colophon) (also known as _meta
 <style>
 .g50-50 {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  grid-template-columns: 50% 50%;
   grid-gap: 1rem;
 }
 
