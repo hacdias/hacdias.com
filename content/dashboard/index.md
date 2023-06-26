@@ -21,10 +21,12 @@ layout: eagle
 
 <h2>Upload File</h2>
 
+<div class='box'>⚠️ Do not forget to give the file a good name!</div>
+
 <form id='upload' method='post' class='block-form' enctype='multipart/form-data'>
   <input type='file' name='file' />
   <div class='eagle-options'>
-    <label><input type='checkbox' name='preserve-filename' /> Preserve Filename</label>
+    <label><input type='checkbox' name='preserve-filename' checked /> Preserve Filename</label>
   </div>
   <button>Upload</button>
 </form>
