@@ -13,7 +13,7 @@ December is concluding and with it, we're closing in the end of 2022. With the e
 
 I made quite a few updates over the last month to this website, both in terms of functionality and appearances. One of the most (in)visible changes is that I removed support for private posts, as well as login for other people. That is something I ended up not using for over a year so I thought: why not remove it.
 
-In terms of content, I split the "Food & Drinks" section again. Now I have a section for [🥘 Food](/food) and a section for [🧋 Drinks](/drinks). I think this was the right decision. I want those to be a gallery-like view of things I ate and drunk, but not together. I may change how they are displayed in the future in order to be a grid-like setting.
+In terms of content, I split the "Food & Drinks" section again. Now I have a section for 🥘 Food and a section for 🧋 Drinks. I think this was the right decision. I want those to be a gallery-like view of things I ate and drunk, but not together. I may change how they are displayed in the future in order to be a grid-like setting.
 
 Inspired by [Tim's Logs](https://timharek.no/logs/), I updated my [📚 Readings](/readings), [🎬 Watches](/watches) and [✏️ Articles](/articles) pages. In addition, I created a new section, called [🚀 Trips](/trips). Each trip shows a listing of all the posts published during the trip. How neat is that?
 
