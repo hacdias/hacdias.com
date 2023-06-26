@@ -3,7 +3,7 @@ title: About
 description: I was born in Portugal and I am not pursuing a Master's degree in the
   Netherlands, while working on fascinating projects. This page tells a bit more about
   me.
-coverImage: cdn:/d08ced340c08b8a3b1050f114539e88b61c2e75c7d6b58f120f2bd7fa469ec3f
+coverImage: cdn:/2023-04-ipfs-thing
 ---
 
 **Hi 👋, I'm <span style="color: var(--c)">Henrique</span>** (he/him)!
@@ -14,7 +14,7 @@ I'm from a little town in the countryside of Portugal 🇵🇹 and now I live in
 
 Since an early age, I have been curious about computers and I always wanted to work with them, albeit initially I did not understand what that involved. As the years passed by, I used the Internet to satisfy my curiosity and learn more and more about computers. Initially, I researched hours and hours about which programming language I should learn first and, at the time, I decided that C# was the right choice and bought a book. Turns out, I never read said book and ended up learning PHP instead. I've heard that PHP has come a long way since I first learned it!
 
-![Henrique's Photograph during IPFS Thing 2023](cdn:/d08ced340c08b8a3b1050f114539e88b61c2e75c7d6b58f120f2bd7fa469ec3f?class=fw&caption=false "Trying to give a talk.")
+![Henrique's Photograph during IPFS Thing 2023](cdn:/2023-04-ipfs-thing?class=fw&caption=false "Trying to give a talk.")
 
 <style>
 :root {
