@@ -15,16 +15,6 @@ When I released the other post back in March, I created this one and put it into
 
 
 <style>
-.g50-50 {
-  display: grid;
-  grid-template-columns: 50% 50%;
-  grid-gap: 1rem;
-}
-
-.g50-50 figure {
-  margin: 0;
-}
-
 figure figcaption {
   display: none
 }
@@ -40,7 +30,7 @@ In the beginning of 2020, I released version 11 of my website. It started incorp
 
 ![v11 (2020) Home](cdn:/2022-03-v11-home?class=fw)
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v11 (2020) Blog](cdn:/2022-03-v11-blog)
 
@@ -54,7 +44,7 @@ Not long after, I introduced version 12. I made a few changes inspired by other 
 
 ![v12 (2020) Home](cdn:/2022-03-v12-home?class=fw)
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v12 (2020) About](cdn:/2022-03-v12-about)
 
@@ -62,7 +52,7 @@ Not long after, I introduced version 12. I made a few changes inspired by other 
 
 </div>
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v12 (2020) Dark Home](cdn:/2022-03-v12-dark)
 
@@ -74,7 +64,7 @@ After a few iterations, version 13 was released. It is quite similar to version 
 
 ![v13 (2020) Home](cdn:/2022-03-v13-home?class=fw)
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v13 (2020) Dark Article](cdn:/2022-03-v13-article-dark)
 
@@ -86,7 +76,7 @@ Onto version 15: I really don't know what happened to version 14. Since I took t
 
 ![v15 (2020) Home](cdn:/2022-03-v15-home?class=fw)
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v15 (2020) Article](cdn:/2022-03-v15-article)
 
@@ -98,7 +88,7 @@ Later in the year I decided to go back to the 90s and got immensely inspired on 
 
 ![v16 (2020) Article](cdn:/2022-03-v16-article?class=fw)
 
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v16 (2020) Articles](cdn:/2022-03-v16-articles)
 
@@ -112,7 +102,7 @@ After so many deep changes thorough 2020, I reached a style for 2021 that I kept
 
 ![v17 (2021) Home](cdn:/2022-03-v17-home?class=fw)
  
-<div class="g50-50 fw">
+<div class="fg fw">
 
 ![v17 (2021) About](cdn:/2022-03-v17-about)
 
