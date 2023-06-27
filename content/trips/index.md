@@ -1,5 +1,5 @@
 ---
-title: Places I Have Visited
+title: Places That I Have Visited
 description: A list of the trips I took in the past.
 ---
 
