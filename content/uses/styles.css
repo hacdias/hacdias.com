@@ -1,11 +1,3 @@
-:root {
-  --c-h: 84;
-  --c-s: 44%;
-  --c-l: 52%;
-  --fg-l: 90%;
-  --mg-l: 96%;
-}
-
 .logs .e {
   grid-template-columns: 10rem auto;
 }
