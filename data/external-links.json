@@ -678,32 +678,6 @@
     ]
   },
   {
-    "domain": "hacdias.com",
-    "count": 5,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/12/20/quick-dive-into-dweb-ipfs/",
-        "targetUrl": "https://cdn.hacdias.com/media/2019-12-quick-dive-into-dweb-ipfs.pdf"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
-        "targetUrl": "https://cdn.hacdias.com/media/2022-09-msc-blocklearning-thesis.pdf"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
-        "targetUrl": "https://cdn.hacdias.com/media/2022-09-msc-blocklearning-slides.pdf"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/04/19/interplanetary-specifications/",
-        "targetUrl": "https://cdn.hacdias.com/media/2023-04-interplanetary-specifications.pdf"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://cdn.hacdias.com/media/aprenda-a-programar.pdf"
-      }
-    ]
-  },
-  {
     "domain": "pplware.com",
     "count": 5,
     "links": [
