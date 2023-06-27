@@ -2,9 +2,7 @@
 
 {{ if eq .Kind "term" }}
   {{ with .Data.Singular }}
-    {{ if ne . "category" }}
-      {{ $name = printf "%s: %s" (humanize .) $name }}
-    {{ end }}
+    {{ $name = printf "%s: %s" (humanize .) $name }}
   {{ end }}
 {{ end }}
 
