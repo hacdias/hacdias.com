@@ -1,13 +1,57 @@
 [
   {
+    "url": "https://cohost.org/mcc/post/325362-a-one-person-oral-hi",
+    "title": "A one-person oral history of Geocities HTML Chat",
+    "description": "Someone's memories of Geocities, what it was, how it worked and how their HTML chat worked. I've never gotten to experience this, but it seems it was quite a bunch of fun.",
+    "tags": [
+      "fun",
+      "geocities"
+    ],
+    "date": "2023-06-27T16:53:03.182034Z"
+  },
+  {
+    "url": "https://www.gibney.org/a_syntax_for_self-tracking",
+    "title": "A Syntax for Self-Tracking",
+    "description": "The author goes over the file format they use for tracking their own habits, or anything else in their life that they want. This can potentially be a good thing to do, and with a parser, some analysis can potentially be made out of the logging.",
+    "tags": [
+      "data",
+      "tracking"
+    ],
+    "date": "2023-06-27T13:41:18.958524Z"
+  },
+  {
+    "url": "https://saurabhs.org/advanced-macos-commands",
+    "title": "Advanced macOS Command-Line Tools",
+    "description": "There are quite a few built-in command line tools in macOS that I had no idea about and that can definitely be useful. Quite surprised on the document converter (`textutil`) and image manipulation (`sips`).",
+    "tags": [
+      "macOS"
+    ],
+    "date": "2023-06-27T13:35:27.699453Z"
+  },
+  {
+    "url": "https://www.dialup.net/wingpt/tls.html",
+    "title": "Modern TLS/SSL on 16-bit Windows",
+    "description": "This is from the same author that implemented [WinGPT](https://www.dialup.net/wingpt/) for Windows 3.1. In this article, they go over the notes on how they implemented TLS/SSL on a 16-bit Windows. It's quite interesting, even though I have never programmed this low level on such an older machine. Also haven't used Windows in quite some time, so it's always nice to see.",
+    "tags": [
+      "security",
+      "windows"
+    ],
+    "date": "2023-06-27T12:01:11.482132Z"
+  },
+  {
     "url": "https://intergalactic.systems/posts/post-1965946732.html",
-    "title": "Intergalactic.systems - Air Quality",
+    "title": "Air Quality",
     "description": "It seems that Apple Weather doesn’t use the same scale for air quality in all countries. While I’ve been seeing air qualified as bad day after day, the Germans, for example, see it as good air quality. I don’t think this helps us, as people, and citizens of our countries. Apple should either let us choose which scale we want to see, or be clear about this behaviour.",
+    "tags": [
+      "apple",
+      "iOS",
+      "weather"
+    ],
     "date": "2023-06-25T15:53:29.676425Z"
   },
   {
     "url": "https://susam.net/maze/winpopup.html",
-    "title": "WinPopup - Susam's Maze",
+    "title": "WinPopup",
     "description": "It seems like Windows 98 had this hidden gem where you could send a message to other computers in the network, or even the whole working group.",
     "tags": [
       "fun",
@@ -28,7 +72,7 @@
   },
   {
     "url": "https://mholt.github.io/json-to-go/",
-    "title": "JSON-to-Go: Convert JSON to Go instantly",
+    "title": "JSON-to-Go",
     "description": "Convert JSON to Go structs very easily via the webpage.",
     "tags": [
       "tool",
