@@ -1,7 +1,13 @@
 [
   {
+    "url": "https://jmmv.dev/2023/06/fast-machines-slow-machines.html",
+    "title": "Fast Machines, Slow Machines",
+    "description": "The author of this post had published two videos on Twitter where he showed an old Windows 3.1 and a new Windows 11 machines opening the same apps (command line, explorer, notepad). In this videos, Windows 3.1 was the fastest, which leads us to think: has any progress been made? In this article, the author goes in more detail about what happened and why it happens. I do agree with the conclusion that the lack of focus and prioritisation on _performance__is likely the main reason why our OSes and applications have a lot of latency nowadays.",
+    "date": "2023-06-28T14:05:02.757261Z"
+  },
+  {
     "url": "https://cohost.org/mcc/post/325362-a-one-person-oral-hi",
-    "title": "A one-person oral history of Geocities HTML Chat",
+    "title": "A One-Person Oral History of Geocities HTML Chat",
     "description": "Someone's memories of Geocities, what it was, how it worked and how their HTML chat worked. I've never gotten to experience this, but it seems it was quite a bunch of fun.",
     "tags": [
       "fun",
@@ -61,7 +67,7 @@
   },
   {
     "url": "https://alexmeub.com/old-windows-icons/",
-    "title": "Windows 98 Icons are Great",
+    "title": "Windows 98 Icons Are Great",
     "description": "\u003e Rather than some designer’s flashy vision of the future, Windows 98 icons made the operating system feel like a place to get real work done. They had hard edges, soft colors and easy-to-recognize symbols.\r\n\r\nThe author has also published a website where we can see all of the icons at [win98icons.alexmeub.com](https://win98icons.alexmeub.com/).",
     "tags": [
       "design",
@@ -82,20 +88,30 @@
   },
   {
     "url": "https://eta.st/2023/01/31/rail-tickets.html",
-    "title": "Reversing UK mobile rail tickets",
+    "title": "Reversing UK Mobile Rail Tickets",
     "description": "This is quite an interesting article. The author goes over the process of reverse-engineering the contents encoded in the Aztec code of the UK mobile rail tickets, which, of course, does not follow the European standard. In addition, eta also published [a tool](https://eta.st/tickets/) where you can scan your UK tickets and see their contents. Now it would be very interesting to read something similar with the European standard and, of course, a similar tool. Maybe that's an idea for a post.",
+    "tags": [
+      "transit"
+    ],
     "date": "2023-02-07T14:05:28Z"
   },
   {
     "url": "https://missing.csail.mit.edu/",
     "title": "The Missing Semester of Your CS Education",
     "description": "Very good resource, especially for new students of Computer Science. The lecturers go over many topics that were never brought up during any of my classes, which could've been pretty useful. Of course, some of us end up learning it by trying and searching, but it'd definitely be very great to have had something like this.",
+    "tags": [
+      "educational"
+    ],
     "date": "2023-01-17T17:22:01Z"
   },
   {
     "url": "https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/",
-    "title": "State of the Windows: How many layers of UI inconsistencies are in Windows 11?",
+    "title": "How Many Layers of UI Inconsistencies Are in Windows 11?",
     "description": "Haven't used Windows in quite some time, but I like to keep following the news as it was the OS that accompanied my childhood, most specifically Windows XP and Windows 7. Somehow I managed to skip Windows Vista, apart from some few interactions in someone else's computer. Then, Windows 8 came and Windows 10 and I ended up moving to macOS for some other reasons and so far, haven't gone back. I always enjoyed Window UI, at least to some extend.\r\n\r\nThis article shows UI elements present in Windows 11 that date to older versions of Windows. I expected to see things that dated back to Windows XP. However, I was surprised to see that you can still find UI elements from Windows 3.1 on Windows 11!",
+    "tags": [
+      "windows",
+      "gui"
+    ],
     "date": "2023-01-02T14:06:13Z"
   },
   {
@@ -109,7 +125,7 @@
   },
   {
     "url": "https://austinhenley.com/blog/programmingasplay.html",
-    "title": "Programming as play",
+    "title": "Programming as Play",
     "description": "This article by Austin is quite interesting. He talks about how programming can be seen as a playful thing, instead of making things that have a hard purpose. It reminds me of the time I made a few [experiments](/more#experiments) for fun. I should do that kind of programming again: fun programming. And it doesn't necessarily have to be web programming either. Just fun, with fun things.",
     "tags": [
       "fun"
@@ -127,7 +143,7 @@
   },
   {
     "url": "https://macwright.com/2022/12/09/activitypub.html",
-    "title": "Playing with ActivityPub",
+    "title": "Playing With ActivityPub",
     "description": "Tom describes his experiences on implementing part of the ActivityPub specification on top of his Jekyll-based static website. It is indeed quite interesting to me to see how he achieved it, mostly through \"serverless\" lambdas and whatnot. He notices, very well, that ActivityPub can be quite messy and is very active when compared to other technologies, such as RSS.\r\n\r\nSimilarly, most dynamic functionalities of my website could be implemented on top of a static website (as they once were). However, I'm not following that route now. Who knows if in the future I won't switch back. An interesting... continuous... food for thought.",
     "tags": [
       "activitypub",
@@ -137,35 +153,44 @@
   },
   {
     "url": "https://dotat.at/@/2022-12-04-leap-seconds.html",
-    "title": "An update on leap seconds",
+    "title": "An Update on Leap Seconds",
     "date": "2022-12-06T09:13:00Z"
   },
   {
     "url": "https://chreke.com/little-languages.html",
-    "title": "Little Languages Are The Future Of Programming",
+    "title": "Little Languages Are the Future of Programming",
     "description": "A nice read on how Domain Specific Languages might be the future of programming.",
     "date": "2022-11-22T16:30:04Z"
   },
   {
     "url": "http://annas-blog.org/putting-5,998,794-books-on-ipfs.html",
-    "title": "Putting 5,998,794 books on IPFS",
+    "title": "Putting 5,998,794 Books on IPFS",
     "description": "This is a good post about the experience of putting that massive amount of books, and therefore data, and the challenges that come with it.",
+    "tags": [
+      "ipfs"
+    ],
     "date": "2022-11-21T21:08:43Z"
   },
   {
     "url": "https://elisehe.in/2022/10/16/attribute-selectors",
-    "title": "The wasted potential of CSS attribute selectors",
+    "title": "The Wasted Potential of CSS Attribute Selectors",
+    "tags": [
+      "css"
+    ],
     "date": "2022-11-19T14:42:12Z"
   },
   {
     "url": "https://blog.jim-nielsen.com/2022/website-fidelity-browser/",
     "title": "Website Fidelity: Browser Perspective",
     "description": "Similarly to his [last article](https://blog.jim-nielsen.com/2022/website-fidelity/), Jim dives into the concept of website fidelity, which is a way of reducing the amount of resources a website consumes by lowering its fidelity to the original visuals and features. I quite like this idea.\r\n\r\n\u003e Website owners aren’t necessarily incentivized to start stripping stuff out of their websites in order to support lower fidelities (including a fidelity of zero JavaScript). What you need is like an agent: somebody who works on your behalf as a user and can do for you what site owners won’t — a user agent if you will 🥁.\r\n\r\n\u003e Note that “fidelity” in this case is not solely a control over the appearance and functionality of the website, but the actual content of the site itself. For example, at full fidelity on a news site you might have an image, title, byline, and short description for each article whereas at low fidelity you might only have the title for each.\r\n\r\n\u003e I want to stress this point: I see the promise of website “fidelity” not just as a preference for less JavaScript and CSS but content itself. Providing users this kind of control would require website owners be involved, as I’m not sure you could do that well solely as a browser feature or extension.",
+    "tags": [
+      "web"
+    ],
     "date": "2022-11-01T08:29:43Z"
   },
   {
     "url": "https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/",
-    "title": "Physician explains how COVID-19 mutes sense of smell",
+    "title": "Physician Explains How COVID-19 Mutes Sense of Smell",
     "description": "In the beginning of the week, I tested positive for Covid-19. Even though the symptoms were smilingly gone, yesterday and the day before I noticed my sense of smell was quite odd. I could still smell some things, but not all. In addition, breathing in general had an odd smell. This article was a nice read and explains well how Covid-19 can change our sense of smell.\r\n\r\n\u003e What's more likely, she said, is that SARS-CoV-2 injures sustentacular supporting cells, which are like helper cells for the main neurons that pick up on chemicals in the air and send signals to the brain. They help maintain a healthy ecosystem in which the neurons can thrive, and they help guide the neurons to grow and make the right connections.\r\n\u003e \r\n\u003e SARS-CoV-2 latches onto specific receptors to infect a cell, but olfactory neurons don't have that receptor. The support cells, however, do. \"Our body's natural immune response is to bring inflammatory molecules to that site to try to kill the invader,\" Patel said.\r\n\u003e \r\n\u003e But that response can overwhelm the structural integrity of the support cells, and they end up as collateral damage. Without the proper support, olfactory neurons can't successfully relay chemical signals to the brain, effectively silencing smell.\r\n\r\nFortunately, it seems I can smell things well again today, so that's great. Besides, my self-tests are getting fainter and fainter by the day. It's a bit annoying I came to Lisbon and had to miss all company activities. I met some friends and family instead, which was also great. I'll be here until Tuesday.",
     "tags": [
       "covid19"
