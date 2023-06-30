@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 61,
+    "count": 62,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -185,7 +185,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://github.com/yuin/goldmark"
+        "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
@@ -193,7 +193,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+        "targetUrl": "https://github.com/yuin/goldmark"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
@@ -217,11 +217,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://github.com/open-telemetry/opentelemetry-go"
+        "targetUrl": "https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/sdk-environment-variables.md"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/sdk-environment-variables.md"
+        "targetUrl": "https://github.com/open-telemetry/opentelemetry-go"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
@@ -234,6 +234,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
         "targetUrl": "https://github.com/hacdias/mapgen"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/30/june-23/",
+        "targetUrl": "https://github.com/sissbruecker/linkding"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -251,7 +255,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 29,
+    "count": 30,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -351,7 +355,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Procedural_generation"
+        "targetUrl": "https://en.wikipedia.org/wiki/Simplex_noise"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Perlin_noise"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
@@ -359,11 +367,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Simplex_noise"
+        "targetUrl": "https://en.wikipedia.org/wiki/Procedural_generation"
       },
       {
-        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Perlin_noise"
+        "sourceUrl": "https://hacdias.com/2023/06/30/june-23/",
+        "targetUrl": "https://nl.wikipedia.org/wiki/Intercity_Nieuwe_Generatie"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
