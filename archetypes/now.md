@@ -9,3 +9,15 @@ tags:
 How was last month?
 
 <!--more-->
+
+## ✍️ Website
+
+## 🍄 Life
+
+## 📚 Reading
+
+## 🍿 Entertainment
+
+<hr>
+
+Concluding paragraph...
