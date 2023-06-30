@@ -50,7 +50,7 @@ Regarding entertainment, there are some things. We saw SZA live in Amsterdam. Sa
   allow='autoplay; clipboard-write; encrypted-media; picture-in-picture'
   loading='lazy' referrerpolicy='no-referrer'></iframe>
 
-In terms of watching, I've finished season 1 of *XO, Kitty* and season 4 of *Never Have I Ever*. Not fantastic series, but entertaining enough. Now we've been watching *Kavla*, an Icelandic series. This one I'm really enjoying. I've lately been appreciating more non-English series, such as *Dark*, *1899*, and *Young Royals*. Just the fact that they have a different language gives them a different vibe.
+In terms of watching, I've finished season 1 of *XO, Kitty* and season 4 of *Never Have I Ever*. Not fantastic series, but entertaining enough. Now we've been watching *Katla*, an Icelandic series. This one I'm really enjoying. I've lately been appreciating more non-English series, such as *Dark*, *1899*, and *Young Royals*. Just the fact that they have a different language gives them a different vibe.
 
 <hr>
 
