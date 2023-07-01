@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://annas-archive.org/",
+    "title": "Anna’s Archive",
+    "description": "Anna's Archive claims to be \"the world's largest open-source open-data library\". As far as I understand, this shadow library does not, by itself, host any of the content. Instead, it is a massive search engine with the collection of the metadata of all these books. Nevertheless, it seems that the authors are invested in seeding the content too.",
+    "tags": [
+      "archive",
+      "books"
+    ],
+    "date": "2023-07-01T07:18:05.712178Z"
+  },
+  {
     "url": "https://jmmv.dev/2023/06/fast-machines-slow-machines.html",
     "title": "Fast Machines, Slow Machines",
     "description": "The author of this post had published two videos on Twitter where he showed an old Windows 3.1 and a new Windows 11 machines opening the same apps (command line, explorer, notepad). In this videos, Windows 3.1 was the fastest, which leads us to think: has any progress been made? In this article, the author goes in more detail about what happened and why it happens. I do agree with the conclusion that the lack of focus and prioritisation on _performance_ is likely the main reason why our OSes and applications have a lot of latency nowadays.",
