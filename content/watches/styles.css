@@ -4,14 +4,6 @@
   --c-l: 60%;
 }
 
-#performances + .logs {
-  --c: #8899a6;
-}
-
-#shows + .logs {
-  --c: #53aced;
-}
-
 @media screen and (min-width: 53.001rem) {
   body {
     background: #48084f url(/watches/pattern.jpeg);
