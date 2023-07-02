@@ -1,6 +1,9 @@
 # - name: 
 #   date: 
 #   rating: 
+- name: The Little Mermaid
+  date: 2023-07-02
+  rating: 4
 - name: Eternals
   date: 2023-07-02
   rating: 5
