@@ -1100,6 +1100,20 @@
     ]
   },
   {
+    "domain": "digid.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
+        "targetUrl": "https://www.digid.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/07/03/an-update-to-my-digid-saga-and-drivers-licenses/",
+        "targetUrl": "https://mijn.digid.nl/"
+      }
+    ]
+  },
+  {
     "domain": "dutchnews.nl",
     "count": 2,
     "links": [
@@ -1250,6 +1264,20 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://lobste.rs/u/hacdias"
+      }
+    ]
+  },
+  {
+    "domain": "logius.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/07/03/an-update-to-my-digid-saga-and-drivers-licenses/",
+        "targetUrl": "https://logius.nl/domeinen/toegang/digid/hoe-werkt-het"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/07/03/an-update-to-my-digid-saga-and-drivers-licenses/",
+        "targetUrl": "https://www.logius.nl/actueel/inloggen-met-rijbewijs-vanaf-morgen-ook-mogelijk-digid-app"
       }
     ]
   },
@@ -1678,16 +1706,6 @@
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
         "targetUrl": "http://daviddias.me"
-      }
-    ]
-  },
-  {
-    "domain": "digid.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
-        "targetUrl": "https://www.digid.nl/"
       }
     ]
   },
