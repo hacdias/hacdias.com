@@ -375,6 +375,11 @@
       "feed": "https://jonworth.eu/feed/"
     },
     {
+      "title": "Security.NL",
+      "site": "https://www.security.nl",
+      "feed": "https://www.security.nl/rss/headlines.xml"
+    },
+    {
       "title": "zdimension",
       "site": "https://zdimension.fr/",
       "feed": "https://zdimension.fr/rss/"
