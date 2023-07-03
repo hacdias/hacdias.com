@@ -34,7 +34,7 @@
 {{- if .IsBlock }}
 		</picture>
 		{{- if and $caption .Text }}
-		<figcaption>{{ .Text }}</figcaption>
+		<figcaption>{{ safeHTML .Text }}</figcaption>
 		{{- end }}
 	</figure>
 {{- end -}}
