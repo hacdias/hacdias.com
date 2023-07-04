@@ -60,15 +60,15 @@ summaryLength = 300
     email = 'mail@hacdias.com'
     photo = 'https://hacdias.com/avatar/256.jpg'
     identities = [
-      'https://twitter.com/hacdias',
       'https://github.com/hacdias',
       'https://instagram.com/hacdias',
-      'https://linkedin.com/in/hacdias',
-      'https://news.ycombinator.com/user?id=hacdias',
-      'https://lobste.rs/u/hacdias',
       'https://fosstodon.org/@hacdias',
-      'mailto:mail@hacdias.com',
-      'mailto:hacdias@gmail.com'
+      'https://linkedin.com/in/hacdias',
+      'https://discord.com/users/hacdias',
+      'https://twitter.com/hacdias',
+      'https://bsky.app/profile/hacdias.com',
+      'https://reddit.com/u/hacdias',
+      'mailto:mail@hacdias.com'
     ]
 
 [outputFormats]

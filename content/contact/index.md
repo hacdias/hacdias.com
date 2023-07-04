@@ -29,24 +29,15 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 - [<img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=32" class="icon"> Twitter](https://twitter.com/hacdias)
 - [<img src="https://www.google.com/s2/favicons?domain=bsky.app&sz=32" class="icon"> Bluesky](https://bsky.app/profile/hacdias.com)
 - [<img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" class="icon"> Reddit](https://reddit.com/u/hacdias)
-- [<img src="https://www.google.com/s2/favicons?domain=hackernews.com&sz=32" class="icon"> HackerNews](https://news.ycombinator.com/user?id=hacdias)
-- [<img src="https://www.google.com/s2/favicons?domain=lobste.rs&sz=32" class="icon"> Lobste.rs](https://lobste.rs/u/hacdias)
-<!-- - [<img src="https://www.google.com/s2/favicons?domain=keybase.io&sz=32" class="icon"> Keybase](https://keybase.io/hacdias) -->
 
 </div>
 
 ## 🗞 Follow {#follow}
 
-All the [sections](/more#sections), including the home page, have ATOM and JSON feeds. To subscribe to the main posts, you can just follow my [home page](/). If you give your RSS reader the page URL, it should be able to automatically pick up the feed.
+This website has Atom and JSON feeds. You can subscribe to the [home](/) page, or to [✏️ Articles](/articles/), [📸 Photos](/photos/), and [📚 Readings](/readings/) individually. Your feed reader should be able to pick up the feed URL. If it doesn't, you can append `feed.xml` or `feed.json` to the URL, as follows:
 
-<div class="box">
-
-In case your reader does not detect the feeds automatically, the links are formatted as follows. This example is for the [home page](/) page:
-
-  - **Atom Feed**: [https://hacdias.com/feed.xml](/feed.xml)
-  - **JSON Feed**: [https://hacdias.com/feed.json](/feed.json)
-
-</div>
+- **Home Feed**: [https://hacdias.com/feed.xml](/feed.xml)
+- **Articles Feed**: [https://hacdias.com/articles/feed.xml](/articles/feed.xml)
 
 ## 🗝 PGP {#pgp}
 
