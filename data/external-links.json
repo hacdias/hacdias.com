@@ -1254,20 +1254,6 @@
     ]
   },
   {
-    "domain": "lobste.rs",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/26/why-have-your-website/",
-        "targetUrl": "https://lobste.rs/s/h9xgpv/rate_my_homepage"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://lobste.rs/u/hacdias"
-      }
-    ]
-  },
-  {
     "domain": "logius.nl",
     "count": 2,
     "links": [
@@ -2080,6 +2066,16 @@
     ]
   },
   {
+    "domain": "lobste.rs",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/26/why-have-your-website/",
+        "targetUrl": "https://lobste.rs/s/h9xgpv/rate_my_homepage"
+      }
+    ]
+  },
+  {
     "domain": "lunrjs.com",
     "count": 1,
     "links": [
@@ -2706,16 +2702,6 @@
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
         "targetUrl": "https://xkcd.com/about/"
-      }
-    ]
-  },
-  {
-    "domain": "ycombinator.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://news.ycombinator.com/user?id=hacdias"
       }
     ]
   },
