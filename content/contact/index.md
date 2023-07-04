@@ -22,11 +22,11 @@ In other social media I am active on, I can be usually found as [@hacdias](/abou
 - [{{< favicon "github.com" >}} GitHub](https://github.com/hacdias)
 - [{{< favicon "instagram.com" >}} Instagram](https://instagram.com/hacdias)
 - [{{< favicon "fosstodon.org" >}} Fediverse](https://fosstodon.org/@hacdias)
-- [{{< favicon "linkedin.com" >}} LinkedIn](https://linkedin.com/in/hacdias)
-- [{{< favicon "discord.com" >}} Discord](https://discord.com/users/hacdias)
 - [{{< favicon "twitter.com" >}} Twitter](https://twitter.com/hacdias)
 - [{{< favicon "bsky.app" >}} Bluesky](https://bsky.app/profile/hacdias.com)
 - [{{< favicon "reddit.com" >}} Reddit](https://reddit.com/u/hacdias)
+- [{{< favicon "discord.com" >}} Discord](https://discord.com/users/hacdias)
+- [{{< favicon "linkedin.com" >}} LinkedIn](https://linkedin.com/in/hacdias)
 
 </div>
 
