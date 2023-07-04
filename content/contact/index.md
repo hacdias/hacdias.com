@@ -32,12 +32,14 @@ My username is usually `@hacdias` so that's how you'll able to find me on almost
 
 </div>
 
-## 🗞 Follow {#follow}
+## 🗞 Feeds {#feeds}
 
-This website has Atom and JSON feeds. You can subscribe to the [home](/) page, or to [✏️ Articles](/articles/), [📸 Photos](/photos/), and [📚 Readings](/readings/) individually. Your feed reader should be able to pick up the feed URL. If it doesn't, you can append `feed.xml` or `feed.json` to the URL, as follows:
+This website provides Atom and JSON feeds for the home page, which combines articles, photos, and book reviews, as well as for each one of the sections, individually. Your feed reader should be able to pick up the feed URL. If it doesn't, you can use the following URLs:
 
-- **Home Feed**: [https://hacdias.com/feed.xml](/feed.xml)
-- **Articles Feed**: [https://hacdias.com/articles/feed.xml](/articles/feed.xml)
+- **Home**: [Atom](/feed.xml), [JSON](/feed.json).
+- **Articles**: [Atom](/articles/feed.xml), [JSON](/articles/feed.json).
+- **Photos**: [Atom](/photos/feed.xml), [JSON](/photos/feed.json).
+- **Readings**: [Atom](/readings/feed.xml), [JSON](/readings/feed.json).
 
 ## 🗝 PGP {#pgp}
 
