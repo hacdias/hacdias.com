@@ -3,13 +3,11 @@ title: Contact
 description: This is how you can contact me.
 ---
 
-I can be reached through different means, and you can find me on many different platforms. If you need to reach me directly, please try either E-mail, Telegram or Matrix.
-
-<!--more-->
+I can be reached through different means, and you can find me on different platforms. If you need to reach me directly, please use E-mail, Telegram, or Matrix, as linked below.
 
 <div class='terms grid bold'>
 
-- [✉️ Email: mail@hacdias.com](mailto:mail@hacdias.com)
+- [✉️ E-mail: mail@hacdias.com](mailto:mail@hacdias.com)
 - [{{< favicon "telegram.org" >}} Telegram: @hacdias](https://t.me/hacdias)
 - [{{< favicon "matrix.org" >}} Matrix: @hacdias:tchncs.de](https://matrix.to/#/@hacdias:tchncs.de)
 
@@ -17,13 +15,13 @@ I can be reached through different means, and you can find me on many different 
 
 ## 🕸 Elsewhere {#elsewhere}
 
-My username is usually `@hacdias` so that's how you'll able to find me on almost any social media I'm in. Here are some (possibly) relevant platforms where I'm active:
+In other social media I am active on, I can be usually found as [@hacdias](/about/#handle). Here are some of the potentially most relevant platforms where I am currently active.
 
 <div class='terms grid bold'>
 
 - [{{< favicon "github.com" >}} GitHub](https://github.com/hacdias)
 - [{{< favicon "instagram.com" >}} Instagram](https://instagram.com/hacdias)
-- [{{< favicon "fosstodon.org" >}} Mastodon](https://fosstodon.org/@hacdias)
+- [{{< favicon "fosstodon.org" >}} Fediverse](https://fosstodon.org/@hacdias)
 - [{{< favicon "linkedin.com" >}} LinkedIn](https://linkedin.com/in/hacdias)
 - [{{< favicon "discord.com" >}} Discord](https://discord.com/users/hacdias)
 - [{{< favicon "twitter.com" >}} Twitter](https://twitter.com/hacdias)
