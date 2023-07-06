@@ -3,7 +3,7 @@ title: Contact
 description: This is how you can contact me.
 ---
 
-I can be reached through different means, and you can find me on different platforms. If you need to reach me directly, please use E-mail, Telegram, or Matrix, as linked below.
+I can be reached through different means, and you can find me on different platforms. If you need to reach me directly, please use E-mail, Telegram, or Matrix, as linked below. You can also check other social media if you prefer.
 
 <div class='terms grid bold'>
 
@@ -19,14 +19,14 @@ In other social media I am active on, I can be usually found as [@hacdias](/abou
 
 <div class='terms grid bold'>
 
-- [{{< favicon "github.com" >}} GitHub](https://github.com/hacdias)
-- [{{< favicon "instagram.com" >}} Instagram](https://instagram.com/hacdias)
-- [{{< favicon "fosstodon.org" >}} Fediverse](https://fosstodon.org/@hacdias)
-- [{{< favicon "twitter.com" >}} Twitter](https://twitter.com/hacdias)
-- [{{< favicon "bsky.app" >}} Bluesky](https://bsky.app/profile/hacdias.com)
-- [{{< favicon "reddit.com" >}} Reddit](https://reddit.com/u/hacdias)
-- [{{< favicon "discord.com" >}} Discord](https://discord.com/users/hacdias)
-- [{{< favicon "linkedin.com" >}} LinkedIn](https://linkedin.com/in/hacdias)
+- [{{< favicon "github.com" >}} GitHub: @hacdias](https://github.com/hacdias)
+- [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
+- [{{< favicon "fosstodon.org" >}} Fedi: @hacdias@fosstodon.org](https://fosstodon.org/@hacdias)
+- [{{< favicon "twitter.com" >}} Twitter: @hacdias](https://twitter.com/hacdias)
+- [{{< favicon "bsky.app" >}} Bluesky: @hacdias.com](https://bsky.app/profile/hacdias.com)
+- [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
+- [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
+- [{{< favicon "linkedin.com" >}} LinkedIn: @hacdias](https://linkedin.com/in/hacdias)
 
 </div>
 
