@@ -45,6 +45,4 @@ Something wrong definitely happened during the activation process. I want to bla
 
 </div>
 
----
-
 In conclusion, progress has been made. It is now "possible" for foreigners to access all trust levels of DigiD authentication. However, that still requires getting a driving license. That is not possible for everyone, for different reasons, making the service not fully accessible. I still hope that some kind of alternative is made in future, such as using the residence permit, as I [suggested before](/2022/11/08/issues-with-digid-as-foreigner/).
