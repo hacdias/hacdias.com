@@ -33,6 +33,18 @@ I do personally own a Dutch driving license, even though I don't drive nowadays.
 
 I have now "ordered" my PIN letter, so that I can activate the login functionality of my driving license. According to the e-mail, it should arrive somewhere this week. Let's see if it works. I will post an update here if it turns out not to.
 
+<div class='box' id='update'>
+
+**2023-07-06**: received my activation letter from DigiD. Tried activating it using my phone only. Went to [Mijn DigiD](https://mijn.digid.nl/), logged in, pressed to activate the login via the driving license, it moved to the app. In the app, I scanned the driving license, put the temporary pin, added a new pin, confirmed. All seem well. But it wasn't: the system still said that login via driving license wasn't enabled.
+
+I tried again, but now my app always said "activation necessary" every time I put the PIN of the license. So what happened was that the physical driving license got enabled for log in, but the online system of DigiD (or RDW) did not know.
+
+**2023-07-07**: now, I tried again using the computer. Opened [Mijn DigiD](https://mijn.digid.nl/), followed the same steps. At some point I got moved to the app on my phone to continue. Here, I scanned the driving license, inserted the new PIN I had set the previous day, and it errored with something like "activation not successful". At the same time, the page on my computer changed to "login with driving license enabled".
+
+Something wrong definitely happened during the activation process. I want to blame it on trying to do it all on the phone, and then the webpage not reloading successfully the first time on the browser while I was finishing the activation on the app. However, it's just a browser. It should've redirected, so *maybe* something else went wrong too. Nevertheless, it now works well!
+
+</div>
+
 ---
 
 In conclusion, progress has been made. It is now "possible" for foreigners to access all trust levels of DigiD authentication. However, that still requires getting a driving license. That is not possible for everyone, for different reasons, making the service not fully accessible. I still hope that some kind of alternative is made in future, such as using the residence permit, as I [suggested before](/2022/11/08/issues-with-digid-as-foreigner/).
