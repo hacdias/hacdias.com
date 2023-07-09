@@ -37,7 +37,7 @@
           <div class="signature">—
           {{ with .website }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
           {{ with .name }}{{ . }}{{ else }}Anonymous{{ end }}
-          {{- with .date}}, {{ dateFormat "02 January 2006" . }}{{end }}
+          {{- with .date}}, {{ dateFormat "2006-01-02" . }}{{end }}
           {{ with .website }}</a>{{ end }}
           </div>
         </div>
