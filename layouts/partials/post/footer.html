@@ -1,17 +1,19 @@
-{{ if in (slice "articles" "photos" "readings") .Section }}
-  <footer>
-    <div class='box'>
-      <p>💬 Reply via:
-        <a href="mailto:mail@hacdias.com?subject=Re: {{ .Title }}" rel='noopener noreferrer'>E-mail</a>,
-        <a href='https://fosstodon.org/@hacdias' rel='noopener noreferrer'>Mastodon</a>,
-        <a href='https://twitter.com/hacdias' rel='noopener noreferrer'>Twitter</a>.
-      </p>
-    </div>
-  </footer>
+{{ if not .Listing }}
+  {{ if in (slice "articles" "photos" "readings") .Page.Section }}
+    <footer>
+      <div class='box'>
+        <p>💬 Reply via:
+          <a href="mailto:mail@hacdias.com?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-mail</a>,
+          <a href='https://fosstodon.org/@hacdias' rel='noopener noreferrer'>Mastodon</a>,
+          <a href='https://twitter.com/hacdias' rel='noopener noreferrer'>Twitter</a>.
+        </p>
+      </div>
+    </footer>
+  {{ end }}
 {{ end }}
 
 <div class="h-card u-author" hidden>
   Authored by
-  <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Site.Params.author.name }}</a>
-  <a class='u-photo' href="{{ .Site.Params.author.photo }}">(Photo)</a>
+  <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
+  <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
 </div>

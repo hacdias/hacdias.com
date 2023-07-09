@@ -8,7 +8,7 @@
   {{- else }}
     {{- partialCached "post/content" . .Permalink }}
   {{- end }}
-  {{- partialCached "post/footer" . .Permalink }}
+  {{- partialCached "post/footer" (dict "Page" . "Listing" true) .Permalink true }}
   {{- if $isLong }}
     <a href='{{ .RelPermalink }}' class='more'>Read More →</a>
   {{- end }}
