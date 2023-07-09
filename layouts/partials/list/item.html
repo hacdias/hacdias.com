@@ -1,6 +1,7 @@
 {{ $isLong := strings.Contains .RawContent "<!--more-->" }}
 <article class='h-entry card'>
-  {{- partialCached "post/header" (dict "Page" . "Listing" true) .Permalink true }}
+  {{- $data := dict "Page" . "Listing" true -}}
+  {{- partialCached "post/header" $data .Permalink $data.Listing }}
   {{- if $isLong }}
     {{- with .Summary }}
       <div class='p-summary'>{{ . }}</div>
@@ -8,7 +9,7 @@
   {{- else }}
     {{- partialCached "post/content" . .Permalink }}
   {{- end }}
-  {{- partialCached "post/footer" (dict "Page" . "Listing" true) .Permalink true }}
+  {{- partialCached "post/footer" $data .Permalink $data.Listing }}
   {{- if $isLong }}
     <a href='{{ .RelPermalink }}' class='more'>Read More →</a>
   {{- end }}
