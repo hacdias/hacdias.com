@@ -27,8 +27,10 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 9.  [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 10. [x] ~~Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train~~ <small>[[Eurostar](https://www.eurostar.com/)] [April 2022]</small>
 11. [ ] Travel on a 🍽️ restaurant train <small>[[Dinner Train](https://dinnertrain.eu/)]</small>
-12. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
-13. [ ] Cross-country train trip 🍁 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
+    1.  [ ] Travel on an historical 🍽️ restaurant train <small>[[Miljoenenlijn](https://miljoenenlijn.nl/)]</small>
+12. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
+13. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
+14. [ ] Cross-country train trip 🍁 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 
 **Countries Bucket List**
 
@@ -37,7 +39,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇦🇺 Australia
   - 🇦🇹 Austria
   - 🇧🇷 Brazil
-  - 🇨🇳 China
+  - 🇨🇦 Canada
   - 🇩🇰 Denmark
   - 🇪🇬 Egypt
   - 🇫🇮 Finland
@@ -53,7 +55,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇪🇸 Spain
   - 🇸🇪 Sweden
   - 🇹🇭 Thailand
-  - 🇹🇷 Turkiye
+  - 🇹🇷 Türkiye
   - 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
   - 🇺🇿 Uzbekistan <!-- https://uzbekistan.travel/en/i/bukhara/ -->
   - 🇪🇪 Estonia
