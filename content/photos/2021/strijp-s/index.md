@@ -26,11 +26,11 @@ syndications:
 
 <div class="fw g2021jkahb fg">
 
-![](cdn:/2021-01-strijps "Strijp-s")
+![](cdn:/2021-01-strijps "Strijp-S")
 
-![](cdn:/2021-01-strijps-colors "Strijp-s Colors")
+![](cdn:/2021-01-strijps-colors "Strijp-S Colors")
 
-![](cdn:/2021-01-eindhoven-center-01 "Inudstrial Strijp-s")
+![](cdn:/2021-01-eindhoven-center-01 "Inudstrial Strijp-S")
 
 ![](cdn:/2021-01-strijps-train "Passing By")
 
