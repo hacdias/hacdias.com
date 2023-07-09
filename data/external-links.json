@@ -2186,6 +2186,16 @@
     ]
   },
   {
+    "domain": "miljoenenlijn.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://miljoenenlijn.nl/"
+      }
+    ]
+  },
+  {
     "domain": "mingw.org",
     "count": 1,
     "links": [
@@ -2222,6 +2232,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
         "targetUrl": "https://museumhelmond.nl/kasteel-helmond/"
+      }
+    ]
+  },
+  {
+    "domain": "museumtramlijn.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://www.museumtramlijn.org/"
       }
     ]
   },
