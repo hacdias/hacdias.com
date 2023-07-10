@@ -808,3 +808,33 @@ main pre {
     background: none;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-h: 220;
+    --c-s: 50%;
+    --c-l: 42%;
+
+    --c-l: 50%;
+    --fg-l: 15%;
+    --mg-l: 9%;
+    --bg-l: 5%;
+    --dark-gray: #ddd;
+    --light-gray: #bbb;
+  }
+
+  #navbar {
+    background: var(--fg);
+  }
+
+  /* This can likely be improved. */
+  .highlight > pre code,
+  main pre code {
+    color: #212121;
+    filter: invert(1);
+  }
+  
+  .only-dark {
+    display: block !important;
+  }
+}
