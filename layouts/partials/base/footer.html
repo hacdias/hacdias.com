@@ -1,11 +1,13 @@
 <footer id='footer' class='lg'>
-  <div class='box dn only-dark'>
+  <div class='box only-dark'>
     <small>🌑 This dark theme is in construction. Does something not look good, or is
     not readable enough? <a href='{{ relURL "/" }}'>Reach out!</a></small>
   </div>
   <div>
     <div>
-      &copy; Henrique Dias 2014 - {{ now.Year }}
+      &copy; Henrique Dias 2014 - {{ now.Year }} |
+      <a class='nl only-dark' onclick="javascript:toggleTheme('l');">☀️ Light Mode</a>
+      <a class='nl only-light' onclick="javascript:toggleTheme('d');">🌑 Dark Mode</a>
     </div>
 
     <div>

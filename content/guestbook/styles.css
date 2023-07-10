@@ -51,24 +51,11 @@
   background: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --c-h: 220;
-    --c-s: 50%;
-    --c-l: 42%;
-
-    --c-l: 50%;
-    --fg-l: 15%;
-    --mg-l: 9%;
-    --bg-l: 5%;
-  }
-
-  .entry,
-  .entry:nth-child(5n - 3),
-  .entry:nth-child(5n - 2),
-  .entry:nth-child(5n - 1),
-  .entry:nth-child(5n + 0) {
-    background: var(--fg);
-    box-shadow: none;
-  }
+.dark .entry,
+.dark .entry:nth-child(5n - 3),
+.dark .entry:nth-child(5n - 2),
+.dark .entry:nth-child(5n - 1),
+.dark .entry:nth-child(5n + 0) {
+  background: var(--fg);
+  box-shadow: none;
 }

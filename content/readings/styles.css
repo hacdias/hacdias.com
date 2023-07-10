@@ -1,4 +1,5 @@
-:root {
+:root,
+:root.dark {
   --c-h: 19;
   --c-s: 58%;
   --c-l: 36%;

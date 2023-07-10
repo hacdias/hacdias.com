@@ -10,7 +10,8 @@ I haven't written a single article this month. However, I've thought about doing
 <!--more-->
 
 <style>
-  :root {
+  :root,
+  :root.dark {
     --c-h: 212;
     --c-s: 52%;
     --c-l: 48%;

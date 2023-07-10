@@ -10,7 +10,8 @@
   }
 }
 
-:root {
+:root,
+:root.dark {
   --c-h: 256;
   --c-s: 25%;
   --c-l: 51%;

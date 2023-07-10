@@ -29,7 +29,8 @@ Today, I visited the [Spoorwegmuseum](https://www.spoorwegmuseum.nl/), which lit
 <p class='dn'><em>This article contains a lot of image grids and custom CSS, so it is better viewed on the original website.</em></p>
 
 <style>
-:root {
+:root,
+:root.dark {
   --c-h: 21;
   --c-s: 27%;
   --c-l: 47%;
