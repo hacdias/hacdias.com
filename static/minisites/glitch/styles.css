@@ -230,11 +230,6 @@ div {
   animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
 
-#dark .glitch:after,
-#dark .glitch:before {
-  background: #000000;
-}
-
 @media (prefers-reduced-motion: reduce) {
   .glitch:before,
   .glitch:after {
