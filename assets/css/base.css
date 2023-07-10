@@ -237,14 +237,12 @@ button:hover {
 
 #footer > div {
   display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 #footer > div > div {
   margin-bottom: 0.5rem;
-}
-
-#footer > div > div:first-of-type {
-  margin-right: auto;
 }
 
 .pixelated {
@@ -827,7 +825,7 @@ main pre {
     color: #212121;
     filter: invert(1);
   }
-  
+
   .only-dark {
     display: block !important;
   }

@@ -15,8 +15,7 @@
 
   {{ $twemoji := resources.Get "js/vendor/twemoji.min.js" }}
   {{ $app := resources.Get "js/app.js" }}
-  {{ $js := slice $twemoji $app | resources.Concat "js/app.js" }}
-  {{ $secureJS := $js | resources.Fingerprint "sha512" }}
-  <script type='text/javascript' src='{{ $secureJS.Permalink }}' integrity='{{ $secureJS.Data.Integrity }}'></script>
+  {{ $js := slice $twemoji $app | resources.Concat "js/app.js" | resources.Minify | resources.Fingerprint "sha512" }}
+  <script type='text/javascript' src='{{ $js.Permalink }}' integrity='{{ $js.Data.Integrity }}'></script>
 </body>
 </html>
