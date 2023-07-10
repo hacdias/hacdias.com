@@ -14,6 +14,12 @@ title: Photos
 :root {
   --c-h: 0;
   --c-s: 0%;
-  --c-l: 30%;
+  --c-l: 13%;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-l: 30%;
+  }
 }
 </style>
