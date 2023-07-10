@@ -247,10 +247,6 @@ button:hover {
   margin-right: auto;
 }
 
-#footer img {
-  margin-right: 0.25rem;
-}
-
 .pixelated {
   image-rendering: pixelated;
   image-rendering: crisp-edges;
