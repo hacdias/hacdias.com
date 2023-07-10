@@ -14,6 +14,6 @@ title: Photos
 :root {
   --c-h: 0;
   --c-s: 0%;
-  --c-l: 13%;
+  --c-l: 30%;
 }
 </style>
