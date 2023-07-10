@@ -235,7 +235,7 @@ button:hover {
   font-size: var(--f5);
 }
 
-#footer > div {
+#footer > div:not(.box) {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -718,6 +718,38 @@ main pre {
   font-weight: bold;
 }
 
+:root.dark {
+  --c-h: 220;
+  --c-s: 50%;
+  --c-l: 50%;
+  --fg-l: 15%;
+  --mg-l: 9%;
+  --bg-l: 5%;
+  --dark-gray: #ddd;
+  --light-gray: #bbb;
+}
+
+.dark #navbar {
+  background: var(--fg);
+}
+
+/* This can likely be improved. */
+.dark .highlight > pre code,
+.dark main pre code {
+  color: #212121;
+  filter: invert(1);
+}
+
+.only-light,
+.dark .only-dark {
+  display: revert;
+}
+
+.only-dark,
+.dark .only-light {
+  display: none;
+}
+
 @media screen and (max-width: 53rem) {
   :root {
     --ls: 1rem;
@@ -800,33 +832,5 @@ main pre {
 
   a:hover {
     background: none;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --c-h: 220;
-    --c-s: 50%;
-    --c-l: 50%;
-    --fg-l: 15%;
-    --mg-l: 9%;
-    --bg-l: 5%;
-    --dark-gray: #ddd;
-    --light-gray: #bbb;
-  }
-
-  #navbar {
-    background: var(--fg);
-  }
-
-  /* This can likely be improved. */
-  .highlight > pre code,
-  main pre code {
-    color: #212121;
-    filter: invert(1);
-  }
-
-  .only-dark {
-    display: block !important;
   }
 }

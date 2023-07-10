@@ -11,7 +11,8 @@ In the beginning of last month, I [wrote](/2022/11/04/trying-out-ovpay) a post a
 <!--more-->
 
 <style>
-:root {
+:root,
+:root.dark {
   --c-h: 336;
   --c-s: 100%;
   --c-l: 50%;

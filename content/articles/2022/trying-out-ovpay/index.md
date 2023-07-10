@@ -12,7 +12,8 @@ The Netherlands 🇳🇱 is testing a new payment system for the public transit 
 <!--more-->
 
 <style>
-:root {
+:root,
+:root.dark {
   --c-h: 336;
   --c-s: 100%;
   --c-l: 50%;
