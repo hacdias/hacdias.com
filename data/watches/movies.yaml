@@ -1,6 +1,9 @@
 # - name: 
 #   date: 
 #   rating: 
+- name: Elemental
+  date: 2023-07-17
+  rating: 5
 - name: We Have a Ghost
   date: 2023-07-04
   rating: 4
