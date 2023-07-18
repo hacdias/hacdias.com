@@ -24,8 +24,13 @@ main li > ol {
 
 .trips ul {
   display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(13rem,1fr));
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
   grid-column-gap: 1rem;
+  grid-row-gap: 0.25rem;
+}
+
+.trips ul li {
+  margin: 0;
 }
 
 @media screen and (min-width: 53.001rem) {

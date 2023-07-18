@@ -33,7 +33,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 13. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
 14. [ ] Cross-country train trip 🍁 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 
-**Countries Bucket List**
+### Countries Bucket List
 
 <div class="trips">
 
