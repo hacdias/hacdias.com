@@ -1536,6 +1536,16 @@
     ]
   },
   {
+    "domain": "amtrakvacations.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://www.amtrakvacations.com/"
+      }
+    ]
+  },
+  {
     "domain": "apachefriends.org",
     "count": 1,
     "links": [
