@@ -31,7 +31,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 12. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
     1.  [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
 13. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
-14. [ ] Cross-country train trip 🍁 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
+14. [ ] Cross-country train trip 🇨🇦 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
+15. [ ] Cross-country train trip 🇺🇸 from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 
 ### Countries Bucket List
 
