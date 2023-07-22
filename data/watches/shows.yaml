@@ -2,6 +2,10 @@
 #   season: 
 #   date: 
 #   rating: 
+- name: 'Anne+'
+  season: 1
+  date: 2023-07-22
+  rating: 4
 - name: RuPaul's Drag Race All Stars
   season: 8
   rating: 3
