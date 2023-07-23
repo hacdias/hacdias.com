@@ -2126,16 +2126,6 @@
     ]
   },
   {
-    "domain": "matrix.to",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://matrix.to/#/@hacdias:tchncs.de"
-      }
-    ]
-  },
-  {
     "domain": "meetup.com",
     "count": 1,
     "links": [
