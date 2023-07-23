@@ -9,7 +9,6 @@ I can be reached through different means, and you can find me on different platf
 
 - [✉️ E-mail: mail@hacdias.com](mailto:mail@hacdias.com)
 - [{{< favicon "telegram.org" >}} Telegram: @hacdias](https://t.me/hacdias)
-- [{{< favicon "matrix.org" >}} Matrix: @hacdias:tchncs.de](https://matrix.to/#/@hacdias:tchncs.de)
 
 </div>
 
