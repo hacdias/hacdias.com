@@ -1,6 +1,9 @@
 # - name: 
 #   date: 
 #   rating: 
+- name: Barbie
+  date: 2023-07-20
+  rating: 5
 - name: Growing Up Gay
   date: 2023-07-19
   rating: 4
