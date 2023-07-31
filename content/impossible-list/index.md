@@ -26,13 +26,14 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 8. [ ] See the Aurora Borealis
 9.  [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 10. [x] ~~Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train~~ <small>[[Eurostar](https://www.eurostar.com/)] [April 2022]</small>
-11. [ ] Travel on a 🍽️ restaurant train <small>[[Dinner Train](https://dinnertrain.eu/)]</small>
+11. [x] ~~Travel on a 🚂 steam train~~ <small>[[Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)] [July 2023]</small>
+12. [ ] Travel on a 🍽️ restaurant train <small>[[Dinner Train](https://dinnertrain.eu/)]</small>
     1.  [ ] Travel on an historical 🍽️ restaurant train <small>[[Miljoenenlijn](https://miljoenenlijn.nl/)]</small>
-12. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
+13. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
     1.  [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
-13. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
-14. [ ] Cross-country train trip 🇨🇦 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
-15. [ ] Cross-country train trip 🇺🇸 from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
+14. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
+15. [ ] Cross-country train trip 🇨🇦 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
+16. [ ] Cross-country train trip 🇺🇸 from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 
 ### Countries Bucket List
 
