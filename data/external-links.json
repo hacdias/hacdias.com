@@ -255,7 +255,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 30,
+    "count": 32,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -363,19 +363,27 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Linear_interpolation"
+        "targetUrl": "https://en.wikipedia.org/wiki/Procedural_generation"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Procedural_generation"
+        "targetUrl": "https://en.wikipedia.org/wiki/Linear_interpolation"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/30/june-23/",
         "targetUrl": "https://nl.wikipedia.org/wiki/Intercity_Nieuwe_Generatie"
       },
       {
+        "sourceUrl": "https://hacdias.com/2023/07/31/july-23/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Harz_Railway"
+      },
+      {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://en.wikipedia.org/wiki/World%27s_fair"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Harz_Railway"
       }
     ]
   },
@@ -1022,6 +1030,24 @@
     ]
   },
   {
+    "domain": "mew.tv",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
+        "targetUrl": "https://mew.tv/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
+        "targetUrl": "https://mew.tv/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/07/31/july-23/",
+        "targetUrl": "https://mew.tv/"
+      }
+    ]
+  },
+  {
     "domain": "nodejs.org",
     "count": 3,
     "links": [
@@ -1278,20 +1304,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
         "targetUrl": "https://macwright.org/2020/05/10/spa-fatigue.html"
-      }
-    ]
-  },
-  {
-    "domain": "mew.tv",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
-        "targetUrl": "https://mew.tv/"
       }
     ]
   },
