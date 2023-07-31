@@ -3,7 +3,7 @@
     {{- partialCached "post/header" (dict "Page" . "Listing" false) .Permalink false }}
     {{- partialCached "post/content" . .Permalink }}
 
-    <div class='box'>
+    <div class='box comment-form'>
       <div hidden>
         ℹ️ Your comment has been submitted for approval and I will be looking at it very soon.
         Thanks for passing by and leaving your mark. Do you want to submit a <a href='{{ relURL "/guestbook" }}'>new entry</a>?
