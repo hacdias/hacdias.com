@@ -1,4 +1,10 @@
-reading: []
+reading:
+  - name: Minoes
+    author: Annie M.G. Schmidt
+    pages: 160
+    publisher: Querido
+    uid: isbn:9789045124698
+    date: 2023-07-28
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
@@ -14,12 +20,6 @@ want-to-read:
     publisher: Wildfire
     uid: isbn:9781472273901
     pages: 400
-    date: 2022-04-08
-  - name: Minoes
-    author: Annie M.G. Schmidt
-    pages: 160
-    publisher: Querido
-    uid: isbn:9789045124698
     date: 2022-04-08
   - name: Alex's Adventures in Numberland
     author: Alex Bellos
