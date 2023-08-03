@@ -6,6 +6,12 @@ reading:
     uid: isbn:9789045124698
     date: 2023-07-28
 want-to-read:
+  - name: "If on a Winter's Night a Traveller"
+    author: Italo Calvino
+    date: 2023-08-02
+    publisher: Ballantine Books
+    pages: 272
+    uid: isbn:9780099430896
   - name: Ikigai
     author: Héctor Garcia
     date: 2023-05-01
@@ -15,22 +21,22 @@ want-to-read:
     publisher: Picador
     pages: 224
     uid: isbn:9781529089431
-  - name: Ariadne
-    author: Jennifer Saint
-    publisher: Wildfire
-    uid: isbn:9781472273901
-    pages: 400
-    date: 2022-04-08
-  - name: Alex's Adventures in Numberland
-    author: Alex Bellos
-    uid: isbn:9781408809594
-    date: 2021-11-07
-  - name: To Kill a Mockingbird
-    author: Harper Lee
-    pages: 309
-    publisher: arrow books
-    uid: isbn:9780099549482
-    date: 2021-07-31
+  # - name: Ariadne
+  #   author: Jennifer Saint
+  #   publisher: Wildfire
+  #   uid: isbn:9781472273901
+  #   pages: 400
+  #   date: 2022-04-08
+  # - name: Alex's Adventures in Numberland
+  #   author: Alex Bellos
+  #   uid: isbn:9781408809594
+  #   date: 2021-11-07
+  # - name: To Kill a Mockingbird
+  #   author: Harper Lee
+  #   pages: 309
+  #   publisher: arrow books
+  #   uid: isbn:9780099549482
+  #   date: 2021-07-31
 read:
   - name: Short Stories in Dutch for Beginners
     author: Olly Richards
