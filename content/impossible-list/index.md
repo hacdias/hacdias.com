@@ -27,7 +27,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 9.  [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 10. [x] ~~Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train~~ <small>[[Eurostar](https://www.eurostar.com/)] [April 2022]</small>
 11. [x] ~~Travel on a 🚂 steam train~~ <small>[[Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)] [July 2023]</small>
-12. [ ] Travel on a 🍽️ restaurant train <small>[[Dinner Train](https://dinnertrain.eu/)]</small>
+12. [x] ~~Travel on a 🍽️ restaurant train~~ <small>[[Dinner Train](https://dinnertrain.eu/)] [August 2023]</small>
     1.  [ ] Travel on an historical 🍽️ restaurant train <small>[[Miljoenenlijn](https://miljoenenlijn.nl/)]</small>
 13. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
     1.  [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
