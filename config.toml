@@ -79,7 +79,6 @@ summaryLength = 300
     isPlainText = true
 
 [outputs]
-  taxonomyTerm = ['HTML']
   taxonomy = ['HTML']
   home = ['HTML', 'RSS', 'JSON']
   section = ['HTML', 'RSS', 'JSON']
