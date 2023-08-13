@@ -108,10 +108,11 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 1. [x] ~~Close all rings on Apple Watch for 1 month~~ <small>[March 2021]</small>
    1. [x] ~~Close all rings on Apple Watch for 2 months~~ <small>[April 2021]</small>
    2. [ ] Close all rings on Apple Watch for 3 months
-2. [x] ~~Cycle 15 km in a single trip~~ <small>[March 2021] [15.11 km]</small>
+3. [x] ~~Cycle 15 km in a single trip~~ <small>[March 2021] [15.11 km]</small>
    1. [x] ~~Cycle 25 km in a single trip~~ <small>[August 2021] [28.22 km]</small>
-   2. [ ] Cycle 40 km in a single trip
-3. [x] ~~Workout more than twice a week for 1 month~~ <small>[March 2021]</small>
+   2. [x] ~~Cycle 40 km in a single trip~~ <small>[August 2023] [43.27 km]</small>
+   3. [ ] Cycle 50 km in a single trip
+4. [x] ~~Workout more than twice a week for 1 month~~ <small>[March 2021]</small>
     1. [x] ~~Workout more than twice a week for 2 months~~ <small>[April 2021]</small>
     2. [x] ~~Workout more than twice a week for 4 months~~ <small>[June 2021]</small>
     3. [ ] Workout more than twice a week for 8 months
