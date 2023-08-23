@@ -24,145 +24,145 @@
   longitude: 4.3509642
 - name: ProbeLab and Friends CoLo
   place: "🇨🇭 Engelberg"
-  start: 2023-01-10T00:00:00Z
-  date: 2023-01-16T23:59:59Z
+  start: 2023-01-10
+  date: 2023-01-16
   latitude: 46.8204
   longitude: 8.40192
 - name: Christmas Holiday With Family
   place: "🇵🇹 Santana da Serra"
   start: 2022-12-22T19:00:00+01:00
-  date: 2022-12-29T23:59:59Z
+  date: 2022-12-29
   latitude: 37.500635
   longitude: -8.300669
 - name: Christmas Market Trip
   place: "🇩🇪 Aachen"
-  start: 2022-12-17T00:00:00Z
-  date: 2022-12-18T23:59:59Z
+  start: 2022-12-17
+  date: 2022-12-18
   latitude: 50.77576188976464
   longitude: 6.0839712025301695
 - name: LabWeek 2022
   place: "🇵🇹 Lisboa"
-  start: 2022-10-24T00:00:00Z
-  date: 2022-11-01T23:59:59Z
+  start: 2022-10-24
+  date: 2022-11-01
   latitude: 38.73451641125201
   longitude: -9.144582558390455
 - name: Holiday Trip With Partner
   place: "🇮🇹 🇻🇦 Italia"
-  start: 2022-09-12T00:00:00Z
-  date: 2022-09-22T23:59:59Z
+  start: 2022-09-12
+  date: 2022-09-22
   latitude: 42.642176399245656
   longitude: 12.881535886118813
 - name: Family Visit
   place: "🇵🇹 Santana da Serra"
-  start: 2022-08-24T00:00:00Z
-  date: 2022-08-31T23:59:59Z
+  start: 2022-08-24
+  date: 2022-08-31
   latitude: 37.500635
   longitude: -8.300669
 - name: Visit Friend With Partner
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
-  start: 2022-04-21T00:00:00Z
-  date: 2022-04-25T23:59:59Z
+  start: 2022-04-21
+  date: 2022-04-25
   latitude: 51.50839474
   longitude: -0.12071889338
 - name: Family Visit
   place: "🇵🇹 Santana da Serra"
-  start: 2022-03-31T00:00:00Z
-  date: 2022-04-07T23:59:59Z
+  start: 2022-03-31
+  date: 2022-04-07
   latitude: 37.500635
   longitude: -8.300669
 - name: Christmas Holiday With Family
   place: "🇵🇹 Santana da Serra"
-  start: 2021-12-21T00:00:00Z
-  date: 2022-01-04T23:59:59Z
+  start: 2021-12-21
+  date: 2022-01-04
   latitude: 37.500635
   longitude: -8.300669
 - name: Weekend Trip With Partner
   place: "🇫🇷 Paris"
-  start: 2021-10-01T00:00:00Z
-  date: 2021-10-03T23:59:59Z
+  start: 2021-10-01
+  date: 2021-10-03
   latitude: 48.856348923085925
   longitude: 2.3463467006503977
 - name: Day Trip To Visit Friend
   place: "🇧🇪 Ghent"
-  start: 2021-08-21T00:00:00Z
-  date: 2021-08-21T23:59:59Z
+  start: 2021-08-21
+  date: 2021-08-21
   latitude: 51.05006115686629
   longitude: 3.729049290922049
 - name: Summer Holiday
   place: "🇵🇹 Portugal"
-  start: 2021-07-06T00:00:00Z
-  date: 2021-08-09T23:59:59Z
+  start: 2021-07-06
+  date: 2021-08-09
   latitude: 39.197282716346706
   longitude: -8.134221029813029
 - name: Christmas Holiday with Parents
   place: "🇵🇹 Santana da Serra"
-  start: 2020-12-15T00:00:00Z
-  date: 2020-12-27T23:59:59Z
+  start: 2020-12-15
+  date: 2020-12-27
   latitude: 37.500635
   longitude: -8.300669
 - name: Winter Trip With Friends
   place: "🇱🇺 🇧🇪 🇳🇱 Low Countries"
-  start: 2020-02-03T00:00:00Z
-  date: 2020-02-10T23:59:59Z
+  start: 2020-02-03
+  date: 2020-02-10
   latitude: 50.74910338162263
   longitude: 5.89832101214984
 - name: Testground Hack Week
   place: "🇨🇭 Zürich"
-  start: 2019-12-09T00:00:00Z
-  date: 2019-12-18T23:59:59Z
+  start: 2019-12-09
+  date: 2019-12-18
   latitude: 47.366724905991695
   longitude: 8.541540314401885
 - name: LabWeek 2019
   place: "🇨🇷 Peninsula Papagayo"
-  start: 2019-11-17T00:00:00Z
-  date: 2019-11-24T23:59:59Z
+  start: 2019-11-17
+  date: 2019-11-24
   latitude: 10.641647571154072
   longitude: -85.65888068018712
 - name: Summer Trip With Friends
   place: "🇩🇪 🇨🇿 Berlin and Praha"
-  start: 2019-07-18T00:00:00Z
-  date: 2019-07-31T23:59:59Z
+  start: 2019-07-18
+  date: 2019-07-31
   latitude: 50.769831509008334
   longitude: 13.9182989902296
 - name: Summer Trip With Parents
   place: "🇵🇹 São Miguel"
-  start: 2019-07-10T00:00:00Z
-  date: 2019-07-12T23:59:59Z
+  start: 2019-07-10
+  date: 2019-07-12
   latitude: 37.78405535222057
   longitude: -25.495591717779313
 - name: Winter Trip With Friends
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London and Cambridge"
-  start: 2019-02-05T00:00:00Z
-  date: 2019-02-13T23:59:59Z
+  start: 2019-02-05
+  date: 2019-02-13
   latitude: 52.205682141849415
   longitude: 0.12068018998829001
 - name: FOSDEM 2019
   place: "🇧🇪 Bruxelles"
-  start: 2019-01-31T00:00:00Z
-  date: 2019-02-03T23:59:59Z
+  start: 2019-01-31
+  date: 2019-02-03
   latitude: 50.84814463
   longitude: 4.3509642
 - name: LabWeek 2018
   place: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow"
-  start: 2018-10-09T00:00:00Z
-  date: 2018-10-13T23:59:59Z
+  start: 2018-10-09
+  date: 2018-10-13
   latitude: 55.856437
   longitude: -4.2594757
 - name: SmashingConf 2018
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
-  start: 2018-02-07T00:00:00Z
-  date: 2018-02-15T23:59:59Z
+  start: 2018-02-07
+  date: 2018-02-15
   latitude: 51.50839474
   longitude: -0.12071889338
 - name: FOSDEM 2018
   place: "🇧🇪 Bruxelles"
-  start: 2018-02-02T00:00:00Z
-  date: 2018-02-05T23:59:59Z
+  start: 2018-02-02
+  date: 2018-02-05
   latitude: 50.84814463
   longitude: 4.3509642
 - name: Graduation Trip
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
-  start: 2017-04-06T00:00:00Z
-  date: 2017-04-10T23:59:59Z
+  start: 2017-04-06
+  date: 2017-04-10
   latitude: 51.50839474
   longitude: -0.12071889338
