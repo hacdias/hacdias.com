@@ -1,726 +1,330 @@
-# - name:
-#   place:
-#   start:
-#   date:
-#   latitude:
-#   longitude:
-- name: Visit Friend
-  place: "🇩🇪 Saxony-Anhalt"
-  start: 2023-07-28
-  date: 2023-07-30
-  latitude: 51.83816716344778
-  longitude: 10.776930746259167
-- name: Visit Friends and Family
-  place: "🇵🇹 Portugal"
-  start: 2023-07-05
-  date: 2023-07-19
-  latitude: 39.197282716346706
-  longitude: -8.134221029813029
-- name: France With Friends
-  place: "🇫🇷 Lille & Paris"
-  start: 2023-04-26
-  date: 2023-04-30
-- name: IPFS þing 2023
-  place: "🇧🇪 Bruxelles"
-  start: 2023-04-14
-  date: 2023-04-20
-  latitude: 50.84814463
-  longitude: 4.3509642
-- name: ProbeLab and Friends CoLo
-  place: "🇨🇭 Engelberg"
-  start: 2023-01-10
-  date: 2023-01-16
-  latitude: 46.8204
-  longitude: 8.40192
-- name: Christmas Holiday With Family
-  place: "🇵🇹 Santana da Serra"
-  start: 2022-12-22T19:00:00+01:00
-  date: 2022-12-29
-  latitude: 37.500635
-  longitude: -8.300669
-  itinerary:
-  - type: air
-    operator: Ryanair
-    number: FR5769
-    departure: 2022-12-22T19:35:00+01:00
-    origin:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2022-12-22T21:35:00Z
-    destination:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-  - type: air
-    operator: Ryanair
-    number: FR5768
-    departure: 2022-12-29T15:05:00Z
-    origin:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-    arrival: 2022-12-29T19:10:00+01:00
-    destination:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-- name: Christmas Market Trip
-  place: "🇩🇪 Aachen"
-  start: 2022-12-17
-  date: 2022-12-18
-  latitude: 50.77576188976464
-  longitude: 6.0839712025301695
-- name: LabWeek 2022
-  place: "🇵🇹 Lisboa"
-  start: 2022-10-24
-  date: 2022-11-01
-  latitude: 38.73451641125201
-  longitude: -9.144582558390455
-  itinerary:
-  - type: air
-    operator: Transavia
-    number: HV6203
-    departure: 2022-10-24T07:50:00+02:00
-    origin:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2022-10-24T09:45:00+01:00
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisboa (LIS)
-      locality: Lisbon
-      country: Portugal
-  - type: air
-    operator: Transavia
-    number: HV6204
-    departure: 2022-11-01T17:10:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisboa (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2022-11-01T21:00:00+01:00
-    destination:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-- name: Holiday Trip With Partner
-  place: "🇮🇹 🇻🇦 Italia"
-  start: 2022-09-12
-  date: 2022-09-22
-  latitude: 42.642176399245656
-  longitude: 12.881535886118813
-  itinerary:
-  - type: air
-    operator: Ryanair
-    number: FR6833
-    departure: 2022-09-12T19:55:00+02:00
-    origin:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2022-09-12T22:10:00+02:00
-    destination:
-      latitude: 40.8844444
-      longitude: 14.2908333
-      name: Naples (NAP)
-      locality: Naples
-      country: Italy
-  - type: train
-    operator: Trenitalia
-    number: ""
-    departure: 2022-09-14T14:40:00+02:00
-    origin:
-      latitude: 40.8525947
-      longitude: 14.272366631869446
-      name: Napoli Centrale
-      locality: Naples
-      country: Italy
-    arrival: 2022-09-14T15:55:00+02:00
-    destination:
-      latitude: 41.9005815
-      longitude: 12.5025272
-      name: Roma Termini
-      locality: Rome
-      country: Italy
-  - type: train
-    operator: Trenitalia
-    number: ""
-    departure: 2022-09-16T17:09:00+02:00
-    origin:
-      latitude: 43.708398
-      longitude: 10.3984995
-      name: Pisa Centrale
-      locality: Pisa
-      country: Italy
-    arrival: 2022-09-16T18:01:00+02:00
-    destination:
-      latitude: 43.7775719
-      longitude: 11.2474177
-      name: Firenze Santa Maria Novella
-      locality: Florence
-      country: Italy
-  - type: train
-    operator: Trenitalia
-    number: ""
-    departure: 2022-09-16T09:57:00+02:00
-    origin:
-      latitude: 41.9005815
-      longitude: 12.5025272
-      name: Roma Termini
-      locality: Rome
-      country: Italy
-    arrival: 2022-09-16T12:59:00+02:00
-    destination:
-      latitude: 43.708398
-      longitude: 10.3984995
-      name: Pisa Centrale
-      locality: Pisa
-      country: Italy
-  - type: train
-    operator: Trenitalia
-    number: ""
-    departure: 2022-09-18T17:12:00+02:00
-    origin:
-      latitude: 44.5071559
-      longitude: 11.3429422
-      name: Bologna Centrale
-      locality: Bologna
-      country: Italy
-    arrival: 2022-09-18T19:20:00+02:00
-    destination:
-      latitude: 45.4410753
-      longitude: 12.3210322
-      name: Venezia S. Lucia
-      locality: Venice
-      country: Italy
-  - type: train
-    operator: Trenitalia
-    number: ""
-    departure: 2022-09-18T09:10:00+02:00
-    origin:
-      latitude: 43.7775719
-      longitude: 11.2474177
-      name: Firenze Santa Maria Novella
-      locality: Florence
-      country: Italy
-    arrival: 2022-09-18T09:48:00+02:00
-    destination:
-      latitude: 44.5071559
-      longitude: 11.3429422
-      name: Bologna Centrale
-      locality: Bologna
-      country: Italy
-  - type: train
-    operator: SBB
-    number: ""
-    departure: 2022-09-20T13:18:00+02:00
-    origin:
-      latitude: 45.4410753
-      longitude: 12.3210322
-      name: Venezia S. Lucia
-      locality: Venice
-      country: Italy
-    arrival: 2022-09-20T15:55:00+02:00
-    destination:
-      latitude: 45.4858786
-      longitude: 9.2042617
-      name: Milano Centrale
-      locality: Milan
-      country: Italy
-  - type: train
-    operator: Trenord
-    number: ""
-    departure: 2022-09-21T16:25:00+02:00
-    origin:
-      latitude: 45.4858786
-      longitude: 9.2042617
-      name: Milano Centrale
-      locality: Milan
-      country: Italy
-    arrival: 2022-09-21T17:25:00+02:00
-    destination:
-      latitude: 45.6944947
-      longitude: 9.6698727
-      name: Bergamo
-      country: Italy
-  - type: air
-    operator: Ryanair
-    number: FR4535
-    departure: 2022-09-22T10:15:00+02:00
-    origin:
-      latitude: 45.6688889
-      longitude: 9.7002778
-      name: Milan (BGY)
-      locality: Bergamo
-      country: Italy
-    arrival: 2022-09-22T11:55:00+02:00
-    destination:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-- name: Family Visit
-  place: "🇵🇹 Santana da Serra"
-  start: 2022-08-24
-  date: 2022-08-31
-  latitude: 37.500635
-  longitude: -8.300669
-  itinerary:
-  - type: air
-    operator: Ryanair
-    number: FR7412
-    departure: 2022-08-24T11:00:00+02:00
-    origin:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2022-08-24T13:00:00+01:00
-    destination:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-  - type: air
-    operator: Ryanair
-    number: FR7411
-    departure: 2022-08-31T06:00:00+01:00
-    origin:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-    arrival: 2022-08-31T10:35:00+02:00
-    destination:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-- name: Visit Friend With Partner
+- name: Graduation Trip
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
-  start: 2022-04-21
-  date: 2022-04-25
+  start: 2017-04-06
+  date: 2017-04-10
   latitude: 51.50839474
   longitude: -0.12071889338
   itinerary:
-  - type: train
-    operator: NS
-    number: ""
-    departure: 2022-04-21T13:10:00+02:00
-    origin:
-      latitude: 51.4429623
-      longitude: 5.4795265
-      name: Eindhoven Centraal
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2022-04-21T14:22:00+02:00
-    destination:
-      latitude: 51.9250574
-      longitude: 4.4692289
-      name: Rotterdam Centraal
-      locality: Rotterdam
-      country: Netherlands
-  - type: train
-    operator: Eurostar
-    number: "9157"
-    departure: 2022-04-21T17:28:00+02:00
-    origin:
-      latitude: 51.9249584
-      longitude: 4.4686942
-      name: Rotterdam Centraal
-      locality: Rotterdam
-      country: Netherlands
-    arrival: 2022-04-21T19:57:00+01:00
-    destination:
-      latitude: 51.5318912
-      longitude: -0.1268506
-      name: London St Pancras Int'l
-      country: United Kingdom
-  - type: train
-    operator: Eurostar
-    number: "9152"
-    departure: 2022-04-25T18:04:00+01:00
-    origin:
-      latitude: 51.5318912
-      longitude: -0.1268506
-      name: London St Pancras Int'l
+  - type: air
+    operator: Easyjet
+    number: U28916
+    departure: 2017-04-06T00:00:00Z
+    origin: &airport_fao
+      latitude: 37.0144444
+      longitude: -7.9658333
+      name: Faro (FAO)
+      locality: Faro
+      country: Portugal
+    arrival: 2017-04-06T02:00:00Z
+    destination: &airport_lgw
+      latitude: 51.1480556
+      longitude: -0.1902778
+      name: London (LGW)
       locality: London
       country: United Kingdom
-    arrival: 2022-04-25T22:32:00+02:00
-    destination:
-      latitude: 51.9250574
-      longitude: 4.4692289
-      name: 'Rotterdam Centraal '
-      locality: Rotterdam
-      country: Netherlands
-  - type: train
-    operator: NS
-    number: ""
-    departure: 2022-04-25T22:33:00+02:00
-    origin:
-      latitude: 51.9250574
-      longitude: 4.4692289
-      name: Rotterdam Centraal
-      locality: Rotterdam
-      country: Netherlands
-    arrival: 2022-04-25T23:44:00+02:00
-    destination:
-      latitude: 51.4429623
-      longitude: 5.4795265
-      name: Eindhoven Centraal
-      locality: Eindhoven
-      country: Netherlands
-- name: Family Visit
-  place: "🇵🇹 Santana da Serra"
-  start: 2022-03-31
-  date: 2022-04-07
-  latitude: 37.500635
-  longitude: -8.300669
+  - type: air
+    operator: Easyjet
+    number: U28929
+    departure: 2017-04-10T00:00:00Z
+    origin: *airport_lgw
+    arrival: 2017-04-10T02:00:00Z
+    destination: *airport_fao
+- name: FOSDEM 2018
+  place: "🇧🇪 Bruxelles"
+  start: 2018-02-02
+  date: 2018-02-05
+  latitude: 50.84814463
+  longitude: 4.3509642
+  itinerary:
+  - type: air
+    operator: TAP Air Portugal
+    number: TP616
+    departure: 2018-02-02T00:00:00Z
+    origin: &airport_lis
+      latitude: 38.7741667
+      longitude: -9.1341667
+      name: Lisboa (LIS)
+      locality: Lisboa
+      country: Portugal
+    arrival: 2018-02-02T02:00:00Z
+    destination: &airport_bru
+      latitude: 50.9013889
+      longitude: 4.4844444
+      name: Brussels (BRU)
+      locality: Brussels
+      country: Belgium
+  - type: air
+    operator: TAP Air Portugal
+    number: TP617
+    departure: 2018-02-05T00:00:00Z
+    origin: *airport_bru
+    arrival: 2018-02-05T02:00:00Z
+    destination: *airport_lis
+- name: SmashingConf 2018
+  place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
+  start: 2018-02-07
+  date: 2018-02-15
+  latitude: 51.50839474
+  longitude: -0.12071889338
+  itinerary:
+  - type: air
+    operator: TAP Air Portugal
+    number: TP358
+    departure: 2018-02-07T00:00:00Z
+    origin: *airport_lis
+    arrival: 2018-02-07T02:00:00Z
+    destination: &airport_lhr
+      latitude: 51.4775
+      longitude: -0.4613889
+      name: London (LHR)
+      locality: London
+      country: United Kingdom
+  - type: air
+    operator: TAP Air Portugal
+    number: TP369
+    departure: 2018-02-15T00:00:00Z
+    origin: *airport_lhr
+    arrival: 2018-02-15T02:00:00Z
+    destination: *airport_lis
+- name: LabWeek 2018
+  place: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow"
+  start: 2018-10-09
+  date: 2018-10-13
+  latitude: 55.856437
+  longitude: -4.2594757
+  itinerary:
+  - type: air
+    operator: TAP Air Portugal
+    number: TP366
+    departure: 2018-10-09T00:00:00Z
+    origin: *airport_lis
+    arrival: 2018-10-09T02:00:00Z
+    destination: *airport_lhr
+  - type: air
+    operator: British Airways
+    number: BA1488
+    departure: 2018-10-09T02:00:00Z
+    origin: *airport_lhr
+    arrival: 2018-10-09T04:00:00Z
+    destination: &airport_gla
+      latitude: 55.8719444
+      longitude: -4.4330556
+      name: Glasgow (GLA)
+      locality: Glasgow
+      country: United Kingdom
+  - type: air
+    operator: British Airways
+    number: BA1483
+    departure: 2018-10-13T12:10:00Z
+    origin: *airport_gla
+    arrival: 2018-10-13T13:10:00Z
+    destination: *airport_lhr
+  - type: air
+    operator: TAP Air Portugal
+    number: TP369
+    departure: 2018-10-13T18:45:00Z
+    origin: *airport_lhr
+    arrival: 2018-10-13T20:45:00Z
+    destination: *airport_lis
+- name: FOSDEM 2019
+  place: "🇧🇪 Bruxelles"
+  start: 2019-01-31
+  date: 2019-02-03
+  latitude: 50.84814463
+  longitude: 4.3509642
+  itinerary:
+  - type: air
+    operator: TAP Air Portugal
+    number: TP646
+    departure: 2019-01-31T08:25:00Z
+    origin: *airport_lis
+    arrival: 2019-01-31T10:25:00Z
+    destination: *airport_bru
+  - type: air
+    operator: TAP Air Portugal
+    number: TP649
+    departure: 2019-02-03T19:15:00Z
+    origin: *airport_bru
+    arrival: 2019-02-03T21:15:00Z
+    destination: *airport_lis
+- name: Winter Trip With Friends
+  place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London and Cambridge"
+  start: 2019-02-05
+  date: 2019-02-13
+  latitude: 52.205682141849415
+  longitude: 0.12068018998829001
+  itinerary:
+  - type: air
+    operator: TAP Air Portugal
+    number: TP1336
+    departure: 2019-02-05T13:05:00Z
+    origin: *airport_lis
+    arrival: 2019-02-05T15:05:00Z
+    destination: *airport_lgw
+  - type: air
+    operator: TAP Air Portugal
+    number: TP1337
+    departure: 2019-02-13T16:35:00Z
+    origin: *airport_lgw
+    arrival: 2019-02-13T18:35:00Z
+    destination: *airport_lis
+- name: Summer Trip With Parents
+  place: "🇵🇹 São Miguel"
+  start: 2019-07-10
+  date: 2019-07-12
+  latitude: 37.78405535222057
+  longitude: -25.495591717779313
   itinerary:
   - type: air
     operator: Ryanair
-    number: FR7412
-    departure: 2022-03-31T11:00:00+02:00
-    origin:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2022-03-31T13:00:00+01:00
-    destination:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
+    number: FR2625
+    departure: 2019-07-09T22:20:00Z
+    origin: *airport_lis
+    arrival: 2019-07-10T00:20:00Z
+    destination: &airport_pdl
+      latitude: 37.7419444
+      longitude: -25.6977778
+      name: Ponta Delgada (PDL)
+      locality: Ponta Delgada
       country: Portugal
   - type: air
     operator: Ryanair
-    number: FR7411
-    departure: 2022-04-07T06:40:00+01:00
-    origin:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-    arrival: 2022-04-07T10:35:00+02:00
-    destination:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-- name: Christmas Holiday With Family
-  place: "🇵🇹 Santana da Serra"
-  start: 2021-12-21
-  date: 2022-01-04
-  latitude: 37.500635
-  longitude: -8.300669
+    number: FR2624
+    departure: 2019-07-12T18:40:00Z
+    origin: *airport_pdl
+    arrival: 2019-07-12T20:40:00Z
+    destination: *airport_lis
+- name: Summer Trip With Friends
+  place: "🇩🇪 🇨🇿 Berlin and Praha"
+  start: 2019-07-18
+  date: 2019-07-31
+  latitude: 50.769831509008334
+  longitude: 13.9182989902296
   itinerary:
   - type: air
     operator: Ryanair
-    number: FR7412
-    departure: 2021-12-21T19:30:00+01:00
-    origin:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2021-12-21T21:35:00Z
+    number: FR4649
+    departure: 2019-07-18T11:00:00Z
+    origin: *airport_lis
+    arrival: 2019-07-18T14:00:00Z
     destination:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
+      latitude: 52.3622472
+      longitude: 13.5006722
+      name: Berlin (BER)
+      locality: Berlin
+      country: Germany
+  - type: train
+    operator: Deutsche Bahn
+    number: EC 179
+    departure: 2019-07-25T19:10:00+02:00
+    origin:
+      latitude: 51.5735198
+      longitude: 7.3040977
+      name: Berlin Hbf
+      locality: Castrop-Rauxel
+      country: Germany
+    arrival: 2019-07-25T21:26:00+02:00
+    destination:
+      latitude: 50.0830349
+      longitude: 14.436145
+      name: Praha hl.n.
+      locality: Prague
+      country: Czechia
   - type: air
     operator: Ryanair
-    number: FR7411
-    departure: 2022-01-04T15:00:00Z
+    number: FR2122
+    departure: 2019-07-31T08:55:00Z
     origin:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-    arrival: 2022-01-04T19:05:00+01:00
-    destination:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-- name: Weekend Trip With Partner
-  place: "🇫🇷 Paris"
-  start: 2021-10-01
-  date: 2021-10-03
-  latitude: 48.856348923085925
-  longitude: 2.3463467006503977
-  itinerary:
-  - type: bus
-    operator: FlixBus
-    number: "831"
-    departure: 2021-09-30T23:00:00+02:00
-    origin:
-      latitude: 51.4455801
-      longitude: 5.4809177
-      name: Eindhoven (John F. Kennedylaan)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2021-10-01T00:55:00+02:00
-    destination:
-      latitude: 50.6280272
-      longitude: 5.5678065
-      name: Liège Guillemins
-      locality: Liège
+      latitude: 50.1008333
+      longitude: 14.26
+      name: Prague (PRG)
+      locality: Prague
+      country: Czechia
+    arrival: 2019-07-31T09:55:00Z
+    destination: &airport_crl
+      latitude: 50.46
+      longitude: 4.4527778
+      name: Charleroi (CRL)
+      locality: Charleroi
       country: Belgium
-  - type: bus
-    operator: FlixBus
-    number: "79"
-    departure: 2021-10-01T02:00:00+02:00
-    origin:
-      latitude: 50.6280272
-      longitude: 5.5678065
-      name: Liège Guillemins
-      locality: Liège
-      country: Belgium
-    arrival: 2021-10-01T08:05:00+02:00
-    destination:
-      latitude: 48.83618735
-      longitude: 2.379489121167401
-      name: Paris (Bercy Seine)
-      locality: Paris
-      country: France
-  - type: bus
-    operator: FlixBus
-    number: "823"
-    departure: 2021-10-03T15:45:00+02:00
-    origin:
-      latitude: 48.83618735
-      longitude: 2.379489121167401
-      name: Paris (Bercy Seine)
-      locality: Paris
-      country: France
-    arrival: 2021-10-03T22:45:00+02:00
-    destination:
-      latitude: 51.4455801
-      longitude: 5.4809177
-      name: Eindhoven (John F. Kennedylaan)
-      locality: Eindhoven
-      country: Netherlands
-- name: Day Trip To Visit Friend
-  place: "🇧🇪 Ghent"
-  start: 2021-08-21
-  date: 2021-08-21
-  latitude: 51.05006115686629
-  longitude: 3.729049290922049
-  itinerary:
-  - type: train
-    operator: SNCB
-    number: IC738
-    departure: 2021-08-21T17:27:00+02:00
-    origin:
-      latitude: 51.03609455
-      longitude: 3.71080494219295
-      name: Gent St Pieters
-      locality: Ghent
-      country: Belgium
-    arrival: 2021-08-21T18:23:00+02:00
-    destination:
-      latitude: 51.2159949
-      longitude: 4.4211011
-      name: Antwerpen Centraal
-      locality: Antwerp
-      country: Belgium
-  - type: train
-    operator: NS International
-    number: IC9259
-    departure: 2021-08-21T18:44:00+02:00
-    origin:
-      latitude: 51.2159949
-      longitude: 4.4211011
-      name: Antwerpen Centraal
-      locality: Antwerp
-      country: Belgium
-    arrival: 2021-08-21T19:18:00+02:00
-    destination:
-      latitude: 51.5887845
-      longitude: 4.7760237
-      name: Breda
-      country: Netherlands
-  - type: train
-    operator: NS
-    number: IC1171
-    departure: 2021-08-21T19:38:00+02:00
-    origin:
-      latitude: 51.5887845
-      longitude: 4.7760237
-      name: Breda
-      country: Netherlands
-    arrival: 2021-08-21T20:15:00+02:00
-    destination:
-      latitude: 51.4429623
-      longitude: 5.4795265
-      name: Eindhoven Centraal
-      locality: Eindhoven
-      country: Netherlands
-  - type: train
-    operator: NS
-    number: IC1122
-    departure: 2021-08-21T07:44:00+02:00
-    origin:
-      latitude: 51.4429623
-      longitude: 5.4795265
-      name: Eindhoven Centraal
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2021-08-21T08:21:00+02:00
-    destination:
-      latitude: 51.5887845
-      longitude: 4.7760237
-      name: Breda
-      country: Netherlands
-  - type: train
-    operator: NS International
-    number: IC9216
-    departure: 2021-08-21T08:42:00+02:00
-    origin:
-      latitude: 51.5887845
-      longitude: 4.7760237
-      name: Breda
-      country: Netherlands
-    arrival: 2021-08-21T09:16:00+02:00
-    destination:
-      latitude: 51.2159949
-      longitude: 4.4211011
-      name: Antwerpen Centraal
-      locality: Antwerp
-      country: Belgium
-  - type: train
-    operator: ' SNCB'
-    number: IC709
-    departure: 2021-08-21T09:37:00+02:00
-    origin:
-      latitude: 51.2159949
-      longitude: 4.4211011
-      name: Antwerpen Centraal
-      locality: Antwerp
-      country: Belgium
-    arrival: 2021-08-21T10:32:00+02:00
-    destination:
-      latitude: 51.03609455
-      longitude: 3.71080494219295
-      name: Gent St Pieters
-      locality: Ghent
-      country: Belgium
-- name: Summer Holiday
-  place: "🇵🇹 Portugal"
-  start: 2021-07-06
-  date: 2021-08-09
-  latitude: 39.197282716346706
-  longitude: -8.134221029813029
+  - type: air
+    operator: Ryanair
+    number: FR1300
+    departure: 2019-07-31T15:10:00Z
+    origin: *airport_crl
+    arrival: 2019-07-31T17:10:00Z
+    destination: *airport_lis
+- name: LabWeek 2019
+  place: "🇨🇷 Peninsula Papagayo"
+  start: 2019-11-17
+  date: 2019-11-24
+  latitude: 10.641647571154072
+  longitude: -85.65888068018712
   itinerary:
   - type: air
-    operator: Ryanair
-    number: FR7412
-    departure: 2021-07-06T11:00:00Z
-    origin:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2021-07-06T14:00:00Z
-    destination:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
+    operator: Lufthansa
+    number: LH1173
+    departure: 2019-11-16T05:00:00Z
+    origin: *airport_lis
+    arrival: 2019-11-16T08:00:00Z
+    destination: &airport_fra
+      latitude: 50.0333056
+      longitude: 8.5704556
+      name: Frankfurt (FRA)
+      locality: Frankfurt
+      country: Germany
   - type: air
-    operator: Ryanair
-    number: FR7411
-    departure: 2021-08-09T06:40:00Z
-    origin:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-    arrival: 2021-08-09T08:40:00Z
-    destination:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-- name: Christmas Holiday with Parents
-  place: "🇵🇹 Santana da Serra"
-  start: 2020-12-15
-  date: 2020-12-27
-  latitude: 37.500635
-  longitude: -8.300669
+    operator: Lufthansa
+    number: LH518
+    departure: 2019-11-16T13:30:00Z
+    origin: *airport_fra
+    arrival: 2019-11-17T01:30:00Z
+    destination: &airport_sjo
+      latitude: 9.9939028
+      longitude: -84.2088556
+      name: San Jose (SJO)
+      locality: Alajuela
+      country: Costa Rica
+  - type: air
+    operator: Lufthansa
+    number: LH519
+    departure: 2019-11-23T20:55:00Z
+    origin: *airport_sjo
+    arrival: 2019-11-24T07:55:00Z
+    destination: *airport_fra
+  - type: air
+    operator: Lufthansa
+    number: LH6956
+    departure: 2019-11-24T19:20:00Z
+    origin: *airport_fra
+    arrival: 2019-11-24T22:20:00Z
+    destination: *airport_lis
+- name: Testground Hack Week
+  place: "🇨🇭 Zürich"
+  start: 2019-12-09
+  date: 2019-12-18
+  latitude: 47.366724905991695
+  longitude: 8.541540314401885
   itinerary:
   - type: air
-    operator: Ryanair
-    number: FR7412
-    departure: 2020-12-15T19:30:00Z
-    origin:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
-    arrival: 2020-12-15T22:30:00Z
-    destination:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
+    operator: TAP Air Portugal
+    number: TP6763
+    departure: 2019-12-09T14:25:00Z
+    origin: *airport_lis
+    arrival: 2019-12-09T16:25:00Z
+    destination: &airport_zrh
+      latitude: 47.4580556
+      longitude: 8.5480556
+      name: Zurich (ZRH)
+      locality: Zurich
+      country: Switzerland
   - type: air
-    operator: Ryanair
-    number: FR7411
-    departure: 2020-12-27T14:55:00Z
-    origin:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-    arrival: 2020-12-27T16:55:00Z
-    destination:
-      latitude: 51.45
-      longitude: 5.3744444
-      name: Eindhoven (EIN)
-      locality: Eindhoven
-      country: Netherlands
+    operator: TAP Air Portugal
+    number: TP931
+    departure: 2019-12-18T13:30:00Z
+    origin: *airport_zrh
+    arrival: 2019-12-18T15:30:00Z
+    destination: *airport_lis
 - name: Winter Trip With Friends
   place: "🇱🇺 🇧🇪 🇳🇱 Low Countries"
   start: 2020-02-03
@@ -732,14 +336,9 @@
     operator: Ryanair
     number: FR1791
     departure: 2020-02-03T16:40:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
+    origin: *airport_lis
     arrival: 2020-02-03T18:40:00Z
-    destination:
+    destination: &airport_lux
       latitude: 49.6233333
       longitude: 6.2044444
       name: Luxembourg (LUX)
@@ -817,528 +416,477 @@
     operator: Easyjet
     number: U27664
     departure: 2020-02-10T15:35:00Z
-    origin:
+    origin: &airport_ams
       latitude: 52.3080556
       longitude: 4.7641667
       name: Amsterdam (AMS)
       locality: Amsterdam
       country: Netherlands
     arrival: 2020-02-10T18:35:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: Testground Hack Week
-  place: "🇨🇭 Zürich"
-  start: 2019-12-09
-  date: 2019-12-18
-  latitude: 47.366724905991695
-  longitude: 8.541540314401885
-  itinerary:
-  - type: air
-    operator: TAP Air Portugal
-    number: TP6763
-    departure: 2019-12-09T14:25:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2019-12-09T16:25:00Z
-    destination:
-      latitude: 47.4580556
-      longitude: 8.5480556
-      name: Zurich (ZRH)
-      locality: Zurich
-      country: Switzerland
-  - type: air
-    operator: TAP Air Portugal
-    number: TP931
-    departure: 2019-12-18T13:30:00Z
-    origin:
-      latitude: 47.4580556
-      longitude: 8.5480556
-      name: Zurich (ZRH)
-      locality: Zurich
-      country: Switzerland
-    arrival: 2019-12-18T15:30:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: LabWeek 2019
-  place: "🇨🇷 Peninsula Papagayo"
-  start: 2019-11-17
-  date: 2019-11-24
-  latitude: 10.641647571154072
-  longitude: -85.65888068018712
-  itinerary:
-  - type: air
-    operator: Lufthansa
-    number: LH1173
-    departure: 2019-11-16T05:00:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2019-11-16T08:00:00Z
-    destination:
-      latitude: 50.0333056
-      longitude: 8.5704556
-      name: Frankfurt (FRA)
-      locality: Frankfurt
-      country: Germany
-  - type: air
-    operator: Lufthansa
-    number: LH518
-    departure: 2019-11-16T13:30:00Z
-    origin:
-      latitude: 50.0333056
-      longitude: 8.5704556
-      name: Frankfurt (FRA)
-      locality: Frankfurt
-      country: Germany
-    arrival: 2019-11-17T01:30:00Z
-    destination:
-      latitude: 9.9939028
-      longitude: -84.2088556
-      name: San Jose (SJO)
-      locality: Alajuela
-      country: Costa Rica
-  - type: air
-    operator: Lufthansa
-    number: LH519
-    departure: 2019-11-23T20:55:00Z
-    origin:
-      latitude: 9.9939028
-      longitude: -84.2088556
-      name: San Jose (SJO)
-      locality: Alajuela
-      country: Costa Rica
-    arrival: 2019-11-24T07:55:00Z
-    destination:
-      latitude: 50.0333056
-      longitude: 8.5704556
-      name: Frankfurt (FRA)
-      locality: Frankfurt
-      country: Germany
-  - type: air
-    operator: Lufthansa
-    number: LH6956
-    departure: 2019-11-24T19:20:00Z
-    origin:
-      latitude: 50.0333056
-      longitude: 8.5704556
-      name: Frankfurt (FRA)
-      locality: Frankfurt
-      country: Germany
-    arrival: 2019-11-24T22:20:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: Summer Trip With Friends
-  place: "🇩🇪 🇨🇿 Berlin and Praha"
-  start: 2019-07-18
-  date: 2019-07-31
-  latitude: 50.769831509008334
-  longitude: 13.9182989902296
+    destination: *airport_lis
+- name: Christmas Holiday with Parents
+  place: "🇵🇹 Santana da Serra"
+  start: 2020-12-15
+  date: 2020-12-27
+  latitude: 37.500635
+  longitude: -8.300669
   itinerary:
   - type: air
     operator: Ryanair
-    number: FR4649
-    departure: 2019-07-18T11:00:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2019-07-18T14:00:00Z
-    destination:
-      latitude: 52.3622472
-      longitude: 13.5006722
-      name: Berlin (BER)
-      locality: Berlin
-      country: Germany
+    number: FR7412
+    departure: 2020-12-15T19:30:00Z
+    origin: &airport_ein
+      latitude: 51.45
+      longitude: 5.3744444
+      name: Eindhoven (EIN)
+      locality: Eindhoven
+      country: Netherlands
+    arrival: 2020-12-15T22:30:00Z
+    destination: *airport_fao
+  - type: air
+    operator: Ryanair
+    number: FR7411
+    departure: 2020-12-27T14:55:00Z
+    origin: *airport_fao
+    arrival: 2020-12-27T16:55:00Z
+    destination: *airport_ein
+- name: Summer Holiday
+  place: "🇵🇹 Portugal"
+  start: 2021-07-06
+  date: 2021-08-09
+  latitude: 39.197282716346706
+  longitude: -8.134221029813029
+  itinerary:
+  - type: air
+    operator: Ryanair
+    number: FR7412
+    departure: 2021-07-06T11:00:00Z
+    origin: *airport_ein
+    arrival: 2021-07-06T14:00:00Z
+    destination: *airport_fao
+  - type: air
+    operator: Ryanair
+    number: FR7411
+    departure: 2021-08-09T06:40:00Z
+    origin: *airport_fao
+    arrival: 2021-08-09T08:40:00Z
+    destination: *airport_ein
+- name: Day Trip To Visit Friend
+  place: "🇧🇪 Ghent"
+  start: 2021-08-21
+  date: 2021-08-21
+  latitude: 51.05006115686629
+  longitude: 3.729049290922049
+  itinerary:
   - type: train
-    operator: Deutsche Bahn
-    number: EC 179
-    departure: 2019-07-25T19:10:00+02:00
-    origin:
-      latitude: 51.5735198
-      longitude: 7.3040977
-      name: Berlin Hbf
-      locality: Castrop-Rauxel
-      country: Germany
-    arrival: 2019-07-25T21:26:00+02:00
-    destination:
-      latitude: 50.0830349
-      longitude: 14.436145
-      name: Praha hl.n.
-      locality: Prague
-      country: Czechia
-  - type: air
-    operator: Ryanair
-    number: FR2122
-    departure: 2019-07-31T08:55:00Z
-    origin:
-      latitude: 50.1008333
-      longitude: 14.26
-      name: Prague (PRG)
-      locality: Prague
-      country: Czechia
-    arrival: 2019-07-31T09:55:00Z
-    destination:
-      latitude: 50.46
-      longitude: 4.4527778
-      name: Charleroi (CRL)
-      locality: Charleroi
+    operator: NS
+    number: IC1122
+    departure: 2021-08-21T07:44:00+02:00
+    origin: &station_eindhoven_centraal
+      latitude: 51.4429623
+      longitude: 5.4795265
+      name: Eindhoven Centraal
+      locality: Eindhoven
+      country: Netherlands
+    arrival: 2021-08-21T08:21:00+02:00
+    destination: &station_breda
+      latitude: 51.5887845
+      longitude: 4.7760237
+      name: Breda
+      country: Netherlands
+  - type: train
+    operator: NS International
+    number: IC9216
+    departure: 2021-08-21T08:42:00+02:00
+    origin: *station_breda
+    arrival: 2021-08-21T09:16:00+02:00
+    destination: &station_antwerpen_centraal
+      latitude: 51.2159949
+      longitude: 4.4211011
+      name: Antwerpen Centraal
+      locality: Antwerp
       country: Belgium
-  - type: air
-    operator: Ryanair
-    number: FR1300
-    departure: 2019-07-31T15:10:00Z
-    origin:
-      latitude: 50.46
-      longitude: 4.4527778
-      name: Charleroi (CRL)
-      locality: Charleroi
+  - type: train
+    operator: ' SNCB'
+    number: IC709
+    departure: 2021-08-21T09:37:00+02:00
+    origin: *station_antwerpen_centraal
+    arrival: 2021-08-21T10:32:00+02:00
+    destination: &station_ghent
+      latitude: 51.03609455
+      longitude: 3.71080494219295
+      name: Gent St Pieters
+      locality: Gent
       country: Belgium
-    arrival: 2019-07-31T17:10:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: Summer Trip With Parents
-  place: "🇵🇹 São Miguel"
-  start: 2019-07-10
-  date: 2019-07-12
-  latitude: 37.78405535222057
-  longitude: -25.495591717779313
+  - type: train
+    operator: SNCB
+    number: IC738
+    departure: 2021-08-21T17:27:00+02:00
+    origin: *station_ghent
+    arrival: 2021-08-21T18:23:00+02:00
+    destination: *station_antwerpen_centraal
+  - type: train
+    operator: NS International
+    number: IC9259
+    departure: 2021-08-21T18:44:00+02:00
+    origin: *station_antwerpen_centraal
+    arrival: 2021-08-21T19:18:00+02:00
+    destination: *station_breda
+  - type: train
+    operator: NS
+    number: IC1171
+    departure: 2021-08-21T19:38:00+02:00
+    origin: *station_breda
+    arrival: 2021-08-21T20:15:00+02:00
+    destination: *station_eindhoven_centraal
+- name: Weekend Trip With Partner
+  place: "🇫🇷 Paris"
+  start: 2021-10-01
+  date: 2021-10-03
+  latitude: 48.856348923085925
+  longitude: 2.3463467006503977
+  itinerary:
+  - type: bus
+    operator: FlixBus
+    number: "831"
+    departure: 2021-09-30T23:00:00+02:00
+    origin: &eindhoven_jfkennedylaan
+      latitude: 51.4455801
+      longitude: 5.4809177
+      name: Eindhoven (John F. Kennedylaan)
+      locality: Eindhoven
+      country: Netherlands
+    arrival: 2021-10-01T00:55:00+02:00
+    destination: &station_liege_guillemins
+      latitude: 50.6280272
+      longitude: 5.5678065
+      name: Liège Guillemins
+      locality: Liège
+      country: Belgium
+  - type: bus
+    operator: FlixBus
+    number: "79"
+    departure: 2021-10-01T02:00:00+02:00
+    origin: *station_liege_guillemins
+    arrival: 2021-10-01T08:05:00+02:00
+    destination: &station_paris_bercy_seine
+      latitude: 48.83618735
+      longitude: 2.379489121167401
+      name: Paris (Bercy Seine)
+      locality: Paris
+      country: France
+  - type: bus
+    operator: FlixBus
+    number: "823"
+    departure: 2021-10-03T15:45:00+02:00
+    origin: *station_paris_bercy_seine
+    arrival: 2021-10-03T22:45:00+02:00
+    destination: *eindhoven_jfkennedylaan
+- name: Christmas Holiday With Family
+  place: "🇵🇹 Santana da Serra"
+  start: 2021-12-21
+  date: 2022-01-04
+  latitude: 37.500635
+  longitude: -8.300669
   itinerary:
   - type: air
     operator: Ryanair
-    number: FR2625
-    departure: 2019-07-09T22:20:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2019-07-10T00:20:00Z
-    destination:
-      latitude: 37.7419444
-      longitude: -25.6977778
-      name: Ponta Delgada (PDL)
-      locality: Ponta Delgada
-      country: Portugal
+    number: FR7412
+    departure: 2021-12-21T19:30:00+01:00
+    origin: *airport_ein
+    arrival: 2021-12-21T21:35:00Z
+    destination: *airport_fao
   - type: air
     operator: Ryanair
-    number: FR2624
-    departure: 2019-07-12T18:40:00Z
-    origin:
-      latitude: 37.7419444
-      longitude: -25.6977778
-      name: Ponta Delgada (PDL)
-      locality: Ponta Delgada
-      country: Portugal
-    arrival: 2019-07-12T20:40:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: Winter Trip With Friends
-  place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London and Cambridge"
-  start: 2019-02-05
-  date: 2019-02-13
-  latitude: 52.205682141849415
-  longitude: 0.12068018998829001
+    number: FR7411
+    departure: 2022-01-04T15:00:00Z
+    origin: *airport_fao
+    arrival: 2022-01-04T19:05:00+01:00
+    destination: *airport_ein
+- name: Family Visit
+  place: "🇵🇹 Santana da Serra"
+  start: 2022-03-31
+  date: 2022-04-07
+  latitude: 37.500635
+  longitude: -8.300669
   itinerary:
   - type: air
-    operator: TAP Air Portugal
-    number: TP1336
-    departure: 2019-02-05T13:05:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2019-02-05T15:05:00Z
-    destination:
-      latitude: 51.1480556
-      longitude: -0.1902778
-      name: London (LGW)
-      locality: London
-      country: United Kingdom
+    operator: Ryanair
+    number: FR7412
+    departure: 2022-03-31T11:00:00+02:00
+    origin: *airport_ein
+    arrival: 2022-03-31T13:00:00+01:00
+    destination: *airport_fao
   - type: air
-    operator: TAP Air Portugal
-    number: TP1337
-    departure: 2019-02-13T16:35:00Z
-    origin:
-      latitude: 51.1480556
-      longitude: -0.1902778
-      name: London (LGW)
-      locality: London
-      country: United Kingdom
-    arrival: 2019-02-13T18:35:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: FOSDEM 2019
-  place: "🇧🇪 Bruxelles"
-  start: 2019-01-31
-  date: 2019-02-03
-  latitude: 50.84814463
-  longitude: 4.3509642
-  itinerary:
-  - type: air
-    operator: TAP Air Portugal
-    number: TP646
-    departure: 2019-01-31T08:25:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2019-01-31T10:25:00Z
-    destination:
-      latitude: 50.9013889
-      longitude: 4.4844444
-      name: Brussels (BRU)
-      locality: Brussels
-      country: Belgium
-  - type: air
-    operator: TAP Air Portugal
-    number: TP649
-    departure: 2019-02-03T19:15:00Z
-    origin:
-      latitude: 50.9013889
-      longitude: 4.4844444
-      name: Brussels (BRU)
-      locality: Brussels
-      country: Belgium
-    arrival: 2019-02-03T21:15:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: LabWeek 2018
-  place: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow"
-  start: 2018-10-09
-  date: 2018-10-13
-  latitude: 55.856437
-  longitude: -4.2594757
-  itinerary:
-  - type: air
-    operator: TAP Air Portugal
-    number: TP366
-    departure: 2018-10-09T00:00:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2018-10-09T02:00:00Z
-    destination:
-      latitude: 51.4775
-      longitude: -0.4613889
-      name: London (LHR)
-      locality: London
-      country: United Kingdom
-  - type: air
-    operator: British Airways
-    number: BA1488
-    departure: 2018-10-09T02:00:00Z
-    origin:
-      latitude: 51.4775
-      longitude: -0.4613889
-      name: London (LHR)
-      locality: London
-      country: United Kingdom
-    arrival: 2018-10-09T04:00:00Z
-    destination:
-      latitude: 55.8719444
-      longitude: -4.4330556
-      name: Glasgow (GLA)
-      locality: Glasgow
-      country: United Kingdom
-  - type: air
-    operator: British Airways
-    number: BA1483
-    departure: 2018-10-13T12:10:00Z
-    origin:
-      latitude: 55.8719444
-      longitude: -4.4330556
-      name: Glasgow (GLA)
-      locality: Glasgow
-      country: United Kingdom
-    arrival: 2018-10-13T13:10:00Z
-    destination:
-      latitude: 51.4775
-      longitude: -0.4613889
-      name: London (LHR)
-      locality: London
-      country: United Kingdom
-  - type: air
-    operator: TAP Air Portugal
-    number: TP369
-    departure: 2018-10-13T18:45:00Z
-    origin:
-      latitude: 51.4775
-      longitude: -0.4613889
-      name: London (LHR)
-      locality: London
-      country: United Kingdom
-    arrival: 2018-10-13T20:45:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: SmashingConf 2018
+    operator: Ryanair
+    number: FR7411
+    departure: 2022-04-07T06:40:00+01:00
+    origin: *airport_fao
+    arrival: 2022-04-07T10:35:00+02:00
+    destination: *airport_ein
+- name: Visit Friend With Partner
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
-  start: 2018-02-07
-  date: 2018-02-15
+  start: 2022-04-21
+  date: 2022-04-25
   latitude: 51.50839474
   longitude: -0.12071889338
   itinerary:
-  - type: air
-    operator: TAP Air Portugal
-    number: TP358
-    departure: 2018-02-07T00:00:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2018-02-07T02:00:00Z
-    destination:
-      latitude: 51.4775
-      longitude: -0.4613889
-      name: London (LHR)
-      locality: London
+  - type: train
+    operator: NS
+    number: ""
+    departure: 2022-04-21T13:10:00+02:00
+    origin: *station_eindhoven_centraal
+    arrival: 2022-04-21T14:22:00+02:00
+    destination: &station_rotterdam_centraal
+      latitude: 51.9250574
+      longitude: 4.4692289
+      name: Rotterdam Centraal
+      locality: Rotterdam
+      country: Netherlands
+  - type: train
+    operator: Eurostar
+    number: "9157"
+    departure: 2022-04-21T17:28:00+02:00
+    origin: *station_rotterdam_centraal
+    arrival: 2022-04-21T19:57:00+01:00
+    destination: &station_london_st_pancras
+      latitude: 51.5318912
+      longitude: -0.1268506
+      name: London St Pancras Int'l
       country: United Kingdom
+  - type: train
+    operator: Eurostar
+    number: "9152"
+    departure: 2022-04-25T18:04:00+01:00
+    origin: *station_london_st_pancras
+    arrival: 2022-04-25T22:32:00+02:00
+    destination: *station_rotterdam_centraal
+  - type: train
+    operator: NS
+    number: ""
+    departure: 2022-04-25T22:33:00+02:00
+    origin: *station_rotterdam_centraal
+    arrival: 2022-04-25T23:44:00+02:00
+    destination: *station_eindhoven_centraal
+- name: Family Visit
+  place: "🇵🇹 Santana da Serra"
+  start: 2022-08-24
+  date: 2022-08-31
+  latitude: 37.500635
+  longitude: -8.300669
+  itinerary:
   - type: air
-    operator: TAP Air Portugal
-    number: TP369
-    departure: 2018-02-15T00:00:00Z
-    origin:
-      latitude: 51.4775
-      longitude: -0.4613889
-      name: London (LHR)
-      locality: London
-      country: United Kingdom
-    arrival: 2018-02-15T02:00:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: FOSDEM 2018
+    operator: Ryanair
+    number: FR7412
+    departure: 2022-08-24T11:00:00+02:00
+    origin: *airport_ein
+    arrival: 2022-08-24T13:00:00+01:00
+    destination: *airport_fao
+  - type: air
+    operator: Ryanair
+    number: FR7411
+    departure: 2022-08-31T06:00:00+01:00
+    origin: *airport_fao
+    arrival: 2022-08-31T10:35:00+02:00
+    destination: *airport_ein
+- name: Holiday Trip With Partner
+  place: "🇮🇹 🇻🇦 Italia"
+  start: 2022-09-12
+  date: 2022-09-22
+  latitude: 42.642176399245656
+  longitude: 12.881535886118813
+  itinerary:
+  - type: air
+    operator: Ryanair
+    number: FR6833
+    departure: 2022-09-12T19:55:00+02:00
+    origin: *airport_ein
+    arrival: 2022-09-12T22:10:00+02:00
+    destination: &airport_nap
+      latitude: 40.8844444
+      longitude: 14.2908333
+      name: Naples (NAP)
+      locality: Naples
+      country: Italy
+  - type: train
+    operator: Trenitalia
+    number: ""
+    departure: 2022-09-14T14:40:00+02:00
+    origin: &station_napoli_centrale
+      latitude: 40.8525947
+      longitude: 14.272366631869446
+      name: Napoli Centrale
+      locality: Naples
+      country: Italy
+    arrival: 2022-09-14T15:55:00+02:00
+    destination: &station_roma_termini
+      latitude: 41.9005815
+      longitude: 12.5025272
+      name: Roma Termini
+      locality: Rome
+      country: Italy
+  - type: train
+    operator: Trenitalia
+    number: ""
+    departure: 2022-09-16T09:57:00+02:00
+    origin: *station_roma_termini
+    arrival: 2022-09-16T12:59:00+02:00
+    destination: &station_pisa_centrale
+      latitude: 43.708398
+      longitude: 10.3984995
+      name: Pisa Centrale
+      locality: Pisa
+      country: Italy
+  - type: train
+    operator: Trenitalia
+    number: ""
+    departure: 2022-09-16T17:09:00+02:00
+    origin: *station_pisa_centrale
+    arrival: 2022-09-16T18:01:00+02:00
+    destination: &station_firenze_smn
+      latitude: 43.7775719
+      longitude: 11.2474177
+      name: Firenze Santa Maria Novella
+      locality: Florence
+      country: Italy
+  - type: train
+    operator: Trenitalia
+    number: ""
+    departure: 2022-09-18T09:10:00+02:00
+    origin: *station_firenze_smn
+    arrival: 2022-09-18T09:48:00+02:00
+    destination: &station_bologna_centrale
+      latitude: 44.5071559
+      longitude: 11.3429422
+      name: Bologna Centrale
+      locality: Bologna
+      country: Italy
+  - type: train
+    operator: Trenitalia
+    number: ""
+    departure: 2022-09-18T17:12:00+02:00
+    origin: *station_bologna_centrale
+    arrival: 2022-09-18T19:20:00+02:00
+    destination: &station_venezia_slucia
+      latitude: 45.4410753
+      longitude: 12.3210322
+      name: Venezia S. Lucia
+      locality: Venice
+      country: Italy
+  - type: train
+    operator: SBB
+    number: ""
+    departure: 2022-09-20T13:18:00+02:00
+    origin: *station_venezia_slucia
+    arrival: 2022-09-20T15:55:00+02:00
+    destination: &station_milano_centrale
+      latitude: 45.4858786
+      longitude: 9.2042617
+      name: Milano Centrale
+      locality: Milan
+      country: Italy
+  - type: train
+    operator: Trenord
+    number: ""
+    departure: 2022-09-21T16:25:00+02:00
+    origin: *station_milano_centrale
+    arrival: 2022-09-21T17:25:00+02:00
+    destination: &station_bergamo
+      latitude: 45.6944947
+      longitude: 9.6698727
+      name: Bergamo
+      country: Italy
+  - type: air
+    operator: Ryanair
+    number: FR4535
+    departure: 2022-09-22T10:15:00+02:00
+    origin: &airport_bgy
+      latitude: 45.6688889
+      longitude: 9.7002778
+      name: Milan (BGY)
+      locality: Bergamo
+      country: Italy
+    arrival: 2022-09-22T11:55:00+02:00
+    destination: *airport_ein
+- name: LabWeek 2022
+  place: "🇵🇹 Lisboa"
+  start: 2022-10-24
+  date: 2022-11-01
+  latitude: 38.73451641125201
+  longitude: -9.144582558390455
+  itinerary:
+  - type: air
+    operator: Transavia
+    number: HV6203
+    departure: 2022-10-24T07:50:00+02:00
+    origin: *airport_ein
+    arrival: 2022-10-24T09:45:00+01:00
+    destination: *airport_lis
+  - type: air
+    operator: Transavia
+    number: HV6204
+    departure: 2022-11-01T17:10:00Z
+    origin: *airport_lis
+    arrival: 2022-11-01T21:00:00+01:00
+    destination: *airport_ein
+- name: Christmas Holiday With Family
+  place: "🇵🇹 Santana da Serra"
+  start: 2022-12-22T19:00:00+01:00
+  date: 2022-12-29
+  latitude: 37.500635
+  longitude: -8.300669
+  itinerary:
+  - type: air
+    operator: Ryanair
+    number: FR5769
+    departure: 2022-12-22T19:35:00+01:00
+    origin: *airport_ein
+    arrival: 2022-12-22T21:35:00Z
+    destination: *airport_fao
+  - type: air
+    operator: Ryanair
+    number: FR5768
+    departure: 2022-12-29T15:05:00Z
+    origin: *airport_fao
+    arrival: 2022-12-29T19:10:00+01:00
+    destination: *airport_ein
+- name: Christmas Market Trip
+  place: "🇩🇪 Aachen"
+  start: 2022-12-17
+  date: 2022-12-18
+  latitude: 50.77576188976464
+  longitude: 6.0839712025301695
+- name: ProbeLab and Friends CoLo
+  place: "🇨🇭 Engelberg"
+  start: 2023-01-10
+  date: 2023-01-16
+  latitude: 46.8204
+  longitude: 8.40192
+- name: IPFS þing 2023
   place: "🇧🇪 Bruxelles"
-  start: 2018-02-02
-  date: 2018-02-05
+  start: 2023-04-14
+  date: 2023-04-20
   latitude: 50.84814463
   longitude: 4.3509642
-  itinerary:
-  - type: air
-    operator: TAP Air Portugal
-    number: TP616
-    departure: 2018-02-02T00:00:00Z
-    origin:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-    arrival: 2018-02-02T02:00:00Z
-    destination:
-      latitude: 50.9013889
-      longitude: 4.4844444
-      name: Brussels (BRU)
-      locality: Brussels
-      country: Belgium
-  - type: air
-    operator: TAP Air Portugal
-    number: TP617
-    departure: 2018-02-05T00:00:00Z
-    origin:
-      latitude: 50.9013889
-      longitude: 4.4844444
-      name: Brussels (BRU)
-      locality: Brussels
-      country: Belgium
-    arrival: 2018-02-05T02:00:00Z
-    destination:
-      latitude: 38.7741667
-      longitude: -9.1341667
-      name: Lisbon (LIS)
-      locality: Lisbon
-      country: Portugal
-- name: Graduation Trip
-  place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
-  start: 2017-04-06
-  date: 2017-04-10
-  latitude: 51.50839474
-  longitude: -0.12071889338
-  itinerary:
-  - type: air
-    operator: Easyjet
-    number: U28916
-    departure: 2017-04-06T00:00:00Z
-    origin:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
-    arrival: 2017-04-06T02:00:00Z
-    destination:
-      latitude: 51.1480556
-      longitude: -0.1902778
-      name: London (LGW)
-      locality: London
-      country: United Kingdom
-  - type: air
-    operator: Easyjet
-    number: U28929
-    departure: 2017-04-10T00:00:00Z
-    origin:
-      latitude: 51.1480556
-      longitude: -0.1902778
-      name: London (LGW)
-      locality: London
-      country: United Kingdom
-    arrival: 2017-04-10T02:00:00Z
-    destination:
-      latitude: 37.0144444
-      longitude: -7.9658333
-      name: Faro (FAO)
-      locality: Faro
-      country: Portugal
+- name: France With Friends
+  place: "🇫🇷 Lille & Paris"
+  start: 2023-04-26
+  date: 2023-04-30
+- name: Visit Friends and Family
+  place: "🇵🇹 Portugal"
+  start: 2023-07-05
+  date: 2023-07-19
+  latitude: 39.197282716346706
+  longitude: -8.134221029813029
+- name: Visit Friend
+  place: "🇩🇪 Saxony-Anhalt"
+  start: 2023-07-28
+  date: 2023-07-30
+  latitude: 51.83816716344778
+  longitude: 10.776930746259167
+# - name:
+#   place:
+#   start:
+#   date:
+#   latitude:
+#   longitude:
