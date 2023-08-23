@@ -2,7 +2,6 @@
   background: #ffffff;
   padding: var(--ls);
   margin: var(--ls) auto;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 h2 {
@@ -50,7 +49,6 @@ h3 + ul {
 @media screen and (max-width: 53rem) {
   .container {
     margin: 0;
-    box-shadow: none;
     max-width: 100%;
   }
 
@@ -65,10 +63,15 @@ h3 + ul {
   }
 }
 
+@media not print {
+  .container {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+}
+
 @media print {
   .container {
     margin: 0;
-    box-shadow: 0;
     padding: 0;
   }
 }
