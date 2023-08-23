@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 62,
+    "count": 67,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -25,11 +25,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "https://pages.github.com/"
+        "targetUrl": "https://github.com/hacdias/hacdias.com"
       },
       {
         "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "https://github.com/hacdias/hacdias.com"
+        "targetUrl": "https://pages.github.com/"
       },
       {
         "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
@@ -45,11 +45,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "https://github.com/ipfs/archives"
+        "targetUrl": "https://github.com/hacdias/xkcd.hacdias.com"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "https://github.com/hacdias/xkcd.hacdias.com"
+        "targetUrl": "https://github.com/ipfs/archives"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
@@ -57,7 +57,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml"
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy#cloudflare"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -73,7 +73,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy#cloudflare"
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-companion#install"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
+        "targetUrl": "https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -86,10 +90,6 @@
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
         "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-companion#install"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
@@ -105,11 +105,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "https://github.com/hacdias/ownyourtrakt#own-your-trakt"
+        "targetUrl": "https://github.com/hacdias/ownyourtrakt"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "https://github.com/hacdias/ownyourtrakt"
+        "targetUrl": "https://github.com/hacdias/ownyourtrakt#own-your-trakt"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
@@ -149,7 +149,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground"
+        "targetUrl": "https://github.com/testground/testground/blob/master/plans/network/pingpong.go"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
@@ -165,7 +165,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground/blob/master/plans/network/pingpong.go"
+        "targetUrl": "https://github.com/testground/testground"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
@@ -173,11 +173,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://github.com/Xe/site"
+        "targetUrl": "https://github.com/hacdias/eagle"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://github.com/hacdias/eagle"
+        "targetUrl": "https://github.com/Xe/site"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/10/17/yubikey-setup/",
@@ -185,7 +185,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+        "targetUrl": "https://github.com/yuin/goldmark"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
@@ -193,15 +193,15 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://github.com/yuin/goldmark"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
-        "targetUrl": "https://github.com/matrix-org/synapse"
+        "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
         "targetUrl": "https://github.com/matrix-org/dendrite"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
+        "targetUrl": "https://github.com/matrix-org/synapse"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
@@ -217,11 +217,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/sdk-environment-variables.md"
+        "targetUrl": "https://github.com/open-telemetry/opentelemetry-go"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://github.com/open-telemetry/opentelemetry-go"
+        "targetUrl": "https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/sdk-environment-variables.md"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
@@ -229,11 +229,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d"
+        "targetUrl": "https://github.com/hacdias/mapgen"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://github.com/hacdias/mapgen"
+        "targetUrl": "https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/30/june-23/",
@@ -250,6 +250,26 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://github.com/hacdias"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://github.com/hacdias"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://github.com/ipfs/ipfs-desktop"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://github.com/ipfs/ipfs-webui"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://github.com/hacdias/eagle"
       }
     ]
   },
@@ -389,7 +409,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 17,
+    "count": 18,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -458,6 +478,10 @@
       {
         "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
         "targetUrl": "https://indieweb.org/POSSE"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://indieweb.org/selfdogfood"
       }
     ]
   },
@@ -563,7 +587,7 @@
   },
   {
     "domain": "tue.nl",
-    "count": 8,
+    "count": 9,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
@@ -595,6 +619,10 @@
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://tue.nl"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
         "targetUrl": "https://tue.nl"
       }
     ]
@@ -630,6 +658,40 @@
       {
         "sourceUrl": "https://hacdias.com/about/external-links/",
         "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
+      }
+    ]
+  },
+  {
+    "domain": "sapo.pt",
+    "count": 7,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/09/13/php-wordpress-comandos-printf-sprintf/",
+        "targetUrl": "http://pplware.sapo.pt/tutoriais/programacao/vamos-programar-introducao-a-programacao-2/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2014/09/13/php-wordpress-comandos-printf-sprintf/",
+        "targetUrl": "http://kids.pplware.sapo.pt/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "http://pplware.sapo.pt/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://pplware.sapo.pt/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://pplware.sapo.pt"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://pplware.sapo.pt/author/henrique_dias/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://kids.pplware.sapo.pt/author/henrique_dias/"
       }
     ]
   },
@@ -694,6 +756,58 @@
     ]
   },
   {
+    "domain": "dekatemousa.nl",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/01/september-2020/",
+        "targetUrl": "http://dekatemousa.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/09/16/fire-breathing/",
+        "targetUrl": "https://dekatemousa.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/09/16/fire-steelwool/",
+        "targetUrl": "https://dekatemousa.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/09/30/september-2021/",
+        "targetUrl": "https://dekatemousa.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://dekatemousa.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "linkedin.com",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
+        "targetUrl": "https://www.linkedin.com/in/carrozo"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://www.linkedin.com/in/malikpiara/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://www.linkedin.com/in/fabiocferreira/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://linkedin.com/in/hacdias"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://www.linkedin.com/in/hacdias/"
+      }
+    ]
+  },
+  {
     "domain": "pplware.com",
     "count": 5,
     "links": [
@@ -742,50 +856,6 @@
     ]
   },
   {
-    "domain": "dekatemousa.nl",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/01/september-2020/",
-        "targetUrl": "http://dekatemousa.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/09/16/fire-breathing/",
-        "targetUrl": "https://dekatemousa.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/09/16/fire-steelwool/",
-        "targetUrl": "https://dekatemousa.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/09/30/september-2021/",
-        "targetUrl": "https://dekatemousa.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "linkedin.com",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
-        "targetUrl": "https://www.linkedin.com/in/carrozo"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://www.linkedin.com/in/malikpiara/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://www.linkedin.com/in/fabiocferreira/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://linkedin.com/in/hacdias"
-      }
-    ]
-  },
-  {
     "domain": "npmjs.com",
     "count": 4,
     "links": [
@@ -826,28 +896,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/11/05/micropub-update-parsing-uncertainties/",
         "targetUrl": "https://ownyourswarm.p3k.io/"
-      }
-    ]
-  },
-  {
-    "domain": "sapo.pt",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/09/13/php-wordpress-comandos-printf-sprintf/",
-        "targetUrl": "http://pplware.sapo.pt/tutoriais/programacao/vamos-programar-introducao-a-programacao-2/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2014/09/13/php-wordpress-comandos-printf-sprintf/",
-        "targetUrl": "http://kids.pplware.sapo.pt/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "http://pplware.sapo.pt/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://pplware.sapo.pt/"
       }
     ]
   },
@@ -1066,6 +1114,24 @@
     ]
   },
   {
+    "domain": "protocol.ai",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
+        "targetUrl": "https://protocol.ai"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://protocol.ai/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://protocol.ai"
+      }
+    ]
+  },
+  {
     "domain": "redblobgames.com",
     "count": 3,
     "links": [
@@ -1080,6 +1146,24 @@
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
         "targetUrl": "https://www.redblobgames.com/articles/noise/introduction.html"
+      }
+    ]
+  },
+  {
+    "domain": "testground.ai",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
+        "targetUrl": "https://docs.testground.ai/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
+        "targetUrl": "https://docs.testground.ai/writing-test-plans/test-plan-manifest"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "http://testground.ai/"
       }
     ]
   },
@@ -1378,20 +1462,6 @@
     ]
   },
   {
-    "domain": "protocol.ai",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
-        "targetUrl": "https://protocol.ai"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://protocol.ai/"
-      }
-    ]
-  },
-  {
     "domain": "ptservidor.pt",
     "count": 2,
     "links": [
@@ -1462,20 +1532,6 @@
     ]
   },
   {
-    "domain": "testground.ai",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://docs.testground.ai/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://docs.testground.ai/writing-test-plans/test-plan-manifest"
-      }
-    ]
-  },
-  {
     "domain": "trakt.tv",
     "count": 2,
     "links": [
@@ -1486,6 +1542,34 @@
       {
         "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
         "targetUrl": "https://trakt.tv"
+      }
+    ]
+  },
+  {
+    "domain": "ulisboa.pt",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://tecnico.ulisboa.pt/pt/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://tecnico.ulisboa.pt"
+      }
+    ]
+  },
+  {
+    "domain": "upframe.io",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://upframe.io/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/resume/",
+        "targetUrl": "https://upframe.io"
       }
     ]
   },
@@ -2608,16 +2692,6 @@
     ]
   },
   {
-    "domain": "ulisboa.pt",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://tecnico.ulisboa.pt/pt/"
-      }
-    ]
-  },
-  {
     "domain": "uniplaces.com",
     "count": 1,
     "links": [
@@ -2634,16 +2708,6 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://upframe.co/"
-      }
-    ]
-  },
-  {
-    "domain": "upframe.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://upframe.io/"
       }
     ]
   },
@@ -2744,6 +2808,16 @@
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
         "targetUrl": "https://xkcd.com/about/"
+      }
+    ]
+  },
+  {
+    "domain": "youtube-nocookie.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/23/if-on-a-winters-night-a-traveler/",
+        "targetUrl": "https://www.youtube-nocookie.com/embed/JNJv-Ebi67I"
       }
     ]
   },
