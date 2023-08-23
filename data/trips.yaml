@@ -8,10 +8,14 @@
   place: "🇩🇪 Saxony-Anhalt"
   start: 2023-07-28
   date: 2023-07-30
+  latitude: 51.83816716344778
+  longitude: 10.776930746259167
 - name: Visit Friends and Family
   place: "🇵🇹 Portugal"
   start: 2023-07-05
   date: 2023-07-19
+  latitude: 39.197282716346706
+  longitude: -8.134221029813029
 - name: France With Friends
   place: "🇫🇷 Lille & Paris"
   start: 2023-04-26
