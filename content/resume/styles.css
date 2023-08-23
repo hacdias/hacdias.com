@@ -1,0 +1,82 @@
+.container {
+  background: #ffffff;
+  max-width: 210mm;
+  padding: 1cm;
+  margin: 1cm auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+h2 {
+  border-bottom: 1px solid var(--fg);
+  line-height: 1.5;
+  color: var(--c);
+  font-size: var(--f2);
+}
+
+h3 {
+  margin: 1rem 0 0.5rem;
+  font-size: var(--f4);
+}
+
+h3 small {
+  font-weight: normal;
+  color: var(--light-gray);
+}
+
+h3 + ul {
+  margin-top: 0.5rem;
+}
+
+#resume-header {
+  display: grid;
+  grid-template-columns: 65% 35%;
+  border-bottom: 1px dashed var(--c);
+  padding-bottom: 1rem;
+}
+
+#resume-header h1 {
+  font-size: 2.3rem;
+}
+
+#resume-header ul {
+  list-style: none;
+  text-align: right;
+}
+
+#resume-header * {
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 230mm) {
+  .container {
+    margin: 0;
+    box-shadow: none;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 45rem) {
+  #resume-header {
+    grid-template-columns: 100%;
+    grid-gap: 1rem;
+  }
+
+  #resume-header,
+  #resume-header > ul {
+    text-align: center;
+  }
+}
+
+@media print {
+  .container {
+    margin: 0;
+    box-shadow: 0;
+    padding: 0;
+  }
+}
+
+@page {
+  margin: 1cm;
+}
+
