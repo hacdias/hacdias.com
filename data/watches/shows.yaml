@@ -1,7 +1,7 @@
-# - name: 
-#   season: 
-#   date: 
-#   rating: 
+# - name:
+#   season:
+#   date:
+#   rating:
 - name: Painkiller
   season: 1
   date: 2023-08-21
@@ -33,7 +33,7 @@
 - name: Katla
   season: 1
   date: 2023-06-30
-  rating: 4 
+  rating: 4
 - name: Glamorous
   season: 1
   date: 2023-06-27
@@ -57,7 +57,7 @@
 - name: Q-Force
   season: 1
   date: 2023-05-31
-  rating: 3 
+  rating: 3
 - name: Sweet Tooth
   season: 2
   date: 2023-05-23
