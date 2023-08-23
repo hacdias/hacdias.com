@@ -1,8 +1,7 @@
 .container {
   background: #ffffff;
-  max-width: 210mm;
-  padding: 1cm;
-  margin: 1cm auto;
+  padding: var(--ls);
+  margin: var(--ls) auto;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
@@ -48,15 +47,13 @@ h3 + ul {
   padding: 0;
 }
 
-@media screen and (max-width: 230mm) {
+@media screen and (max-width: 53rem) {
   .container {
     margin: 0;
     box-shadow: none;
     max-width: 100%;
   }
-}
 
-@media screen and (max-width: 45rem) {
   #resume-header {
     grid-template-columns: 100%;
     grid-gap: 1rem;
