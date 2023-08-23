@@ -13,14 +13,12 @@
       latitude: 37.0144444
       longitude: -7.9658333
       name: Faro (FAO)
-      locality: Faro
       country: Portugal
     arrival: 2017-04-06T02:00:00Z
     destination: &airport_lgw
       latitude: 51.1480556
       longitude: -0.1902778
       name: London (LGW)
-      locality: London
       country: United Kingdom
   - type: air
     operator: Easyjet
@@ -44,14 +42,12 @@
       latitude: 38.7741667
       longitude: -9.1341667
       name: Lisboa (LIS)
-      locality: Lisboa
       country: Portugal
     arrival: 2018-02-02T02:00:00Z
     destination: &airport_bru
       latitude: 50.9013889
       longitude: 4.4844444
       name: Brussels (BRU)
-      locality: Brussels
       country: Belgium
   - type: air
     operator: TAP Air Portugal
@@ -77,7 +73,6 @@
       latitude: 51.4775
       longitude: -0.4613889
       name: London (LHR)
-      locality: London
       country: United Kingdom
   - type: air
     operator: TAP Air Portugal
@@ -110,7 +105,6 @@
       latitude: 55.8719444
       longitude: -4.4330556
       name: Glasgow (GLA)
-      locality: Glasgow
       country: United Kingdom
   - type: air
     operator: British Airways
@@ -185,7 +179,6 @@
       latitude: 37.7419444
       longitude: -25.6977778
       name: Ponta Delgada (PDL)
-      locality: Ponta Delgada
       country: Portugal
   - type: air
     operator: Ryanair
@@ -211,7 +204,6 @@
       latitude: 52.3622472
       longitude: 13.5006722
       name: Berlin (BER)
-      locality: Berlin
       country: Germany
   - type: train
     operator: Deutsche Bahn
@@ -221,14 +213,12 @@
       latitude: 51.5735198
       longitude: 7.3040977
       name: Berlin Hbf
-      locality: Castrop-Rauxel
       country: Germany
     arrival: 2019-07-25T21:26:00+02:00
     destination:
       latitude: 50.0830349
       longitude: 14.436145
       name: Praha hl.n.
-      locality: Prague
       country: Czechia
   - type: air
     operator: Ryanair
@@ -238,14 +228,12 @@
       latitude: 50.1008333
       longitude: 14.26
       name: Prague (PRG)
-      locality: Prague
       country: Czechia
     arrival: 2019-07-31T09:55:00Z
     destination: &airport_crl
       latitude: 50.46
       longitude: 4.4527778
       name: Charleroi (CRL)
-      locality: Charleroi
       country: Belgium
   - type: air
     operator: Ryanair
@@ -271,7 +259,6 @@
       latitude: 50.0333056
       longitude: 8.5704556
       name: Frankfurt (FRA)
-      locality: Frankfurt
       country: Germany
   - type: air
     operator: Lufthansa
@@ -283,7 +270,6 @@
       latitude: 9.9939028
       longitude: -84.2088556
       name: San Jose (SJO)
-      locality: Alajuela
       country: Costa Rica
   - type: air
     operator: Lufthansa
@@ -316,7 +302,6 @@
       latitude: 47.4580556
       longitude: 8.5480556
       name: Zurich (ZRH)
-      locality: Zurich
       country: Switzerland
   - type: air
     operator: TAP Air Portugal
@@ -342,7 +327,6 @@
       latitude: 49.6233333
       longitude: 6.2044444
       name: Luxembourg (LUX)
-      locality: Luxembourg
       country: Luxembourg
   - type: bus
     operator: FlixBus
@@ -352,14 +336,12 @@
       latitude: 49.59988
       longitude: 6.106621
       name: Luxembourg P+R Bouillon
-      locality: Luxembourg
       country: Luxembourg
     arrival: 2020-02-05T14:45:00+01:00
     destination:
       latitude: 50.8603818
       longitude: 4.3600896
       name: Brussels-North Train Station
-      locality: Schaerbeek - Schaarbeek
       country: Belgium
   - type: bus
     operator: FlixBus
@@ -369,14 +351,12 @@
       latitude: 50.8603818
       longitude: 4.3600896
       name: Brussels-North Train Station
-      locality: Schaerbeek - Schaarbeek
       country: Belgium
     arrival: 2020-02-07T12:45:00+01:00
     destination:
       latitude: 51.21816135
       longitude: 4.421577847543087
       name: Antwerp (Koningin Astridplein)
-      locality: Antwerp
       country: Belgium
   - type: bus
     operator: FlixBus
@@ -386,14 +366,12 @@
       latitude: 51.21816135
       longitude: 4.421577847543087
       name: Antwerp (Koningin Astridplein)
-      locality: Antwerp
       country: Belgium
     arrival: 2020-02-07T19:20:00+01:00
     destination:
       latitude: 50.8603818
       longitude: 4.3600896
       name: Brussels-North Train Station
-      locality: Schaerbeek - Schaarbeek
       country: Belgium
   - type: train
     operator: Thalys
@@ -403,14 +381,12 @@
       latitude: 50.8356748
       longitude: 4.3362419
       name: Bruxelles Midi
-      locality: Saint-Gilles - Sint-Gillis
       country: Belgium
     arrival: 2020-02-08T11:45:00+01:00
     destination:
       latitude: 52.378901
       longitude: 4.9005805
       name: Amsterdam Centraal
-      locality: Amsterdam
       country: Netherlands
   - type: air
     operator: Easyjet
@@ -420,7 +396,6 @@
       latitude: 52.3080556
       longitude: 4.7641667
       name: Amsterdam (AMS)
-      locality: Amsterdam
       country: Netherlands
     arrival: 2020-02-10T18:35:00Z
     destination: *airport_lis
@@ -439,7 +414,6 @@
       latitude: 51.45
       longitude: 5.3744444
       name: Eindhoven (EIN)
-      locality: Eindhoven
       country: Netherlands
     arrival: 2020-12-15T22:30:00Z
     destination: *airport_fao
@@ -486,7 +460,6 @@
       latitude: 51.4429623
       longitude: 5.4795265
       name: Eindhoven Centraal
-      locality: Eindhoven
       country: Netherlands
     arrival: 2021-08-21T08:21:00+02:00
     destination: &station_breda
@@ -504,7 +477,6 @@
       latitude: 51.2159949
       longitude: 4.4211011
       name: Antwerpen Centraal
-      locality: Antwerp
       country: Belgium
   - type: train
     operator: ' SNCB'
@@ -516,7 +488,6 @@
       latitude: 51.03609455
       longitude: 3.71080494219295
       name: Gent St Pieters
-      locality: Gent
       country: Belgium
   - type: train
     operator: SNCB
@@ -554,14 +525,12 @@
       latitude: 51.4455801
       longitude: 5.4809177
       name: Eindhoven (John F. Kennedylaan)
-      locality: Eindhoven
       country: Netherlands
     arrival: 2021-10-01T00:55:00+02:00
     destination: &station_liege_guillemins
       latitude: 50.6280272
       longitude: 5.5678065
       name: Liège Guillemins
-      locality: Liège
       country: Belgium
   - type: bus
     operator: FlixBus
@@ -573,7 +542,6 @@
       latitude: 48.83618735
       longitude: 2.379489121167401
       name: Paris (Bercy Seine)
-      locality: Paris
       country: France
   - type: bus
     operator: FlixBus
@@ -641,7 +609,6 @@
       latitude: 51.9250574
       longitude: 4.4692289
       name: Rotterdam Centraal
-      locality: Rotterdam
       country: Netherlands
   - type: train
     operator: Eurostar
@@ -706,7 +673,6 @@
       latitude: 40.8844444
       longitude: 14.2908333
       name: Naples (NAP)
-      locality: Naples
       country: Italy
   - type: train
     operator: Trenitalia
@@ -716,14 +682,12 @@
       latitude: 40.8525947
       longitude: 14.272366631869446
       name: Napoli Centrale
-      locality: Naples
       country: Italy
     arrival: 2022-09-14T15:55:00+02:00
     destination: &station_roma_termini
       latitude: 41.9005815
       longitude: 12.5025272
       name: Roma Termini
-      locality: Rome
       country: Italy
   - type: train
     operator: Trenitalia
@@ -735,7 +699,6 @@
       latitude: 43.708398
       longitude: 10.3984995
       name: Pisa Centrale
-      locality: Pisa
       country: Italy
   - type: train
     operator: Trenitalia
@@ -747,7 +710,6 @@
       latitude: 43.7775719
       longitude: 11.2474177
       name: Firenze Santa Maria Novella
-      locality: Florence
       country: Italy
   - type: train
     operator: Trenitalia
@@ -759,7 +721,6 @@
       latitude: 44.5071559
       longitude: 11.3429422
       name: Bologna Centrale
-      locality: Bologna
       country: Italy
   - type: train
     operator: Trenitalia
@@ -771,7 +732,6 @@
       latitude: 45.4410753
       longitude: 12.3210322
       name: Venezia S. Lucia
-      locality: Venice
       country: Italy
   - type: train
     operator: SBB
@@ -783,7 +743,6 @@
       latitude: 45.4858786
       longitude: 9.2042617
       name: Milano Centrale
-      locality: Milan
       country: Italy
   - type: train
     operator: Trenord
@@ -804,7 +763,6 @@
       latitude: 45.6688889
       longitude: 9.7002778
       name: Milan (BGY)
-      locality: Bergamo
       country: Italy
     arrival: 2022-09-22T11:55:00+02:00
     destination: *airport_ein
