@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.Language }}'>
+<head>
+  {{ partial "base/head" . }}
+</head>
+<body>
+  <div class='container'>
+    <main role='main'>
+      {{- partialCached "post/content" . .Permalink }}
+    </main>
+  </div>
+</body>
+</html>
