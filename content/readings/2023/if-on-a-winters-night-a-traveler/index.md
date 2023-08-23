@@ -17,11 +17,9 @@ but it is still lacking something for me.
 
 <!--more-->
 
-Last month, a friend of mine showed me the video below that accompanies the song "bachelorette"
+Last month, a friend of mine showed me [this video](https://www.youtube-nocookie.com/embed/JNJv-Ebi67I) that accompanies the song "bachelorette"
 by björk, and I was immediately interested. The video follows this cyclic nature that was captivating to me.
 Having then shared this video with another friend, I was recommended "If on a Winter's Night a Traveller".
-
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube-nocookie.com/embed/JNJv-Ebi67I" allowfullscreen frameborder="0"></iframe>
 
 I ordered the book, whose edition was releasing the next day I had been suggested to read it,
 thinking it was a sign that I must read it. I read around half and I must say that I understand
