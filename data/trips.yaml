@@ -1,3 +1,9 @@
+# - name:
+#   place:
+#   start:
+#   date:
+#   latitude:
+#   longitude:
 - name: Visit Friend
   place: "🇩🇪 Saxony-Anhalt"
   start: 2023-07-28
