@@ -16,7 +16,8 @@ might also list a future trip if it involves certain types of events, such as co
 }
 
 .logs .e > div:last-of-type {
-  display: grid; grid-template-columns: 3rem 1rem 3rem;
+  display: grid;
+  grid-template-columns: 3rem 1rem 3rem;
 }
 </style>
 
