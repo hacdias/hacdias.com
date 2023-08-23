@@ -1,5 +1,5 @@
 {{ $logs := partial "fns/group-date-year" .Site.Data.trips }}
-<div class='h-feed logs'>
+<div class='h-feed logs trips'>
   {{ range $logs.years }}
     <div>
       {{ $year := . }}
@@ -12,17 +12,40 @@
 
       {{ with $entries }}
         {{ range $entry := . }}
-          <div class='e h-entry'>
-            <div>{{ .name }}</div>
-            <div>{{ .place }}</div>
-            <div>
-              <time class='tab lg small'>{{ dateFormat "Jan 02" .start }}</time>
-              <small class='lg'>→</small>
-              <time class='tab lg small'>{{ dateFormat "Jan 02" .date }}</time>
-            </div>
-          </div>
+          <details>
+            <summary class='e'>
+              <div>{{ .name }}</div>
+              <div>{{ .place }}</div>
+              <div>
+                <time class='tab lg small'>{{ dateFormat "Jan 02" .start }}</time>
+                <small class='lg'>→</small>
+                <time class='tab lg small'>{{ dateFormat "Jan 02" .date }}</time>
+              </div>
+            </summary>
+
+            {{ with $entry.itinerary }}
+              <div class=' legs'>
+              {{ range . }}
+                <div>
+                  <span>{{ template "transit-type" .type }}</span>
+                  <time class='tab lg'>{{ dateFormat "Jan 02" .departure }}</time>
+                  <span>{{ .origin.name }} → {{ .destination.name }}</span>
+                </div>
+              {{ end }}
+              </div>
+            {{ end }}
+          </details>
         {{ end }}
       {{ end }}
     </div>
   {{ end }}
 </div>
+
+{{ define "transit-type" }}
+  {{- if eq . "train" }}🚆
+  {{ else if eq . "bus" }}🚍
+  {{ else if eq . "air" }}✈️
+  {{ else if eq . "boat" }}🛳
+  {{ else }}🚀
+  {{ end -}}
+{{ end }}
