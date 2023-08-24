@@ -30,7 +30,7 @@
 }
 </style>
 
-{{ $logs := partial "fns/group-date-year" .Site.Data.trips }}
+{{ $logs := partial "fns/group-date-year" .Site.Data.trips.trips }}
 <div class='h-feed logs trips'>
   {{ range $logs.years }}
     <div>
