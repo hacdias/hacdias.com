@@ -101,6 +101,11 @@ train_stations:
     longitude: 4.4211011
     name: Antwerpen-Centraal Station
     country: Belgium
+  basel_sbb: &station_basel_sbb
+    name: Basel SBB
+    country: Switzerland
+    latitude: 47.54768865522458
+    longitude: 7.590017533226856
   berlin_hbf: &berlin_hbf
     name: Berlin Hbf
     country: Germany
@@ -151,11 +156,21 @@ train_stations:
     country: Germany
     latitude: 51.42960338575534
     longitude: 6.776270223505512
+  dusseldorf_hbf: &station_dusseldorf_hbf
+    name: Düsseldorf Hbf
+    country: Germany
+    latitude: 51.22024929458281
+    longitude: 6.793200151101101
   eindhoven_centraal: &station_eindhoven_centraal
     name: Eindhoven Centraal
     country: Netherlands
     latitude: 51.4429623
     longitude: 5.4795265
+  engelberg: &station_engelberg
+    name: Engelberg
+    country: Switzerland
+    latitude: 46.81951501851058
+    longitude: 8.402709497542658
   firenze_smn: &station_firenze_smn
     name: Firenze Santa Maria Novella
     country: Italy
@@ -186,6 +201,11 @@ train_stations:
     country: United Kingdom
     latitude: 51.5318912
     longitude: -0.1268506
+  luzern: &station_luzern
+    name: Luzern
+    country: Switzerland
+    latitude: 47.0531688274953
+    longitude: 8.257767354075861
   napoli_centrale: &station_napoli_centrale
     latitude: 40.8525947
     longitude: 14.272366631869446
@@ -196,6 +216,11 @@ train_stations:
     country: Italy
     latitude: 45.4858786
     longitude: 9.2042617
+  monchengladbach_hbf: &station_monchengladbach_hbf
+    name: Mönchengladbach Hbf
+    country: Germany
+    latitude: 51.19692906751327
+    longitude: 6.446281036531824
   paris_gare_du_nord: &station_paris_gare_du_nord
     name: Paris Gare du Nord
     country: France
@@ -230,6 +255,16 @@ train_stations:
     country: Italy
     latitude: 45.4410753
     longitude: 12.3210322
+  venlo: &station_venlo
+    name: Venlo
+    country: Netherlands
+    latitude: 51.36520090266271
+    longitude: 6.171229605758007
+  viersen: &station_viersen
+    name: Viersen
+    country: Germany
+    latitude: 51.255034262874574
+    longitude: 6.404207133425752
   wernigerode_hbf: &station_wernigerode_hbf
     name: Wernigerode Hbf
     latitude: 51.84013619214658
@@ -492,6 +527,18 @@ trips:
   date: 2023-01-16
   latitude: 46.8204
   longitude: 8.40192
+  itinerary:
+  - { departure: 2023-01-10T07:36:00+02:00, arrival: 2023-01-10T08:27:00+02:00, origin: *station_eindhoven_centraal, destination: *station_utrecht_centraal, type: train, operator: NS, number: IC822 }
+  - { departure: 2023-01-10T08:34:00+02:00, arrival: 2023-01-10T14:47:00+02:00, origin: *station_utrecht_centraal, destination: *station_basel_sbb, type: train, operator: DB, number: ICE105 }
+  - { departure: 2023-01-10T15:03:00+02:00, arrival: 2023-01-10T16:05:00+02:00, origin: *station_basel_sbb, destination: *station_luzern, type: train, operator: SBB, number: EC153 }
+  - { departure: 2023-01-10T16:10:00+02:00, arrival: 2023-01-10T16:53:00+02:00, origin: *station_basel_sbb, destination: *station_engelberg, type: train, operator: SBB, number: IR2978 }
+  - { departure: 2023-01-16T09:02:00+02:00, arrival: 2023-01-16T09:49:00+02:00, origin: *station_engelberg, destination: *station_luzern, type: train }
+  - { departure: 2023-01-16T09:54:00+02:00, arrival: 2023-01-16T10:56:00+02:00, origin: *station_luzern, destination: *station_basel_sbb, type: train }
+  - { departure: 2023-01-16T11:13:00+02:00, arrival: 2023-01-16T15:32:00+02:00, origin: *station_basel_sbb, destination: *station_dusseldorf_hbf, type: train }
+  - { departure: 2023-01-16T15:52:00+02:00, arrival: 2023-01-16T16:26:00+02:00, origin: *station_dusseldorf_hbf, destination: *station_monchengladbach_hbf, type: train, number: S8 }
+  - { departure: 2023-01-16T17:22:00+02:00, arrival: 2023-01-16T17:28:00+02:00, origin: *station_monchengladbach_hbf, destination: *station_viersen, type: train }
+  - { departure: 2023-01-16T18:33:00+02:00, arrival: 2023-01-16T18:56:00+02:00, origin: *station_viersen, destination: *station_venlo, type: train, number: RE13 }
+  - { departure: 2023-01-16T19:03:00+02:00, arrival: 2023-01-16T19:41:00+02:00, origin: *station_venlo, destination: *station_eindhoven_centraal, type: train }
 - name: IPFS þing 2023
   place: "🇧🇪 Bruxelles"
   start: 2023-04-14
