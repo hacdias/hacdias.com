@@ -41,6 +41,22 @@
   {{ end }}
 </div>
 
+<script>
+const details = document.querySelectorAll('.trips details')
+
+details.forEach(target => {
+  target.addEventListener('toggle', closeAll)
+})
+
+function closeAll (e) {
+  if (e.target.open) {
+    details.forEach(detail => {
+      if (detail != e.target && detail.open) detail.open=false
+    })
+  }
+}
+</script>
+
 {{ define "transit-type" }}
   {{- if eq . "train" }}🚆
   {{ else if eq . "bus" }}🚍
