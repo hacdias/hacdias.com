@@ -173,8 +173,14 @@ train_stations:
     longitude: 10.421758789287184
   hannover_hbf: &station_hannover_hbf
     name: Hannover Hbf
+    country: Germany
     latitude: 52.376698613166866
     longitude: 9.741047297273422
+  lille_flanders: &station_lille_flanders
+    name: Gare de Lille-Flandres
+    country: France
+    latitude: 50.636389
+    longitude: 3.070833
   london_st_pancras: &station_london_st_pancras
     name: London St Pancras Int'l
     country: United Kingdom
@@ -190,6 +196,11 @@ train_stations:
     country: Italy
     latitude: 45.4858786
     longitude: 9.2042617
+  paris_gare_du_nord: &station_paris_gare_du_nord
+    name: Paris Gare du Nord
+    country: France
+    latitude: 48.88111034893081
+    longitue: 2.3555497314521947
   pisa_centrale: &station_pisa_centrale
     name: Pisa Centrale
     country: Italy
@@ -496,6 +507,11 @@ trips:
   place: "🇫🇷 Lille & Paris"
   start: 2023-04-26
   date: 2023-04-30
+  itinerary:
+  - { departure: 2023-04-26T17:00:00+01:00, arrival: 2023-04-30T21:00:00+01:00, origin: { name: Eindhoven }, destination: { name: Lille }, type: car }
+  - { departure: 2023-04-28T10:12:00+01:00, arrival: 2023-04-28T11:14:00+01:00, origin: *station_lille_flanders, destination: *station_paris_gare_du_nord, type: train, operator: SNCF, number: "7026" }
+  - { departure: 2023-04-30T12:46:00+01:00, arrival: 2023-04-30T13:48:00+01:00, origin: *station_paris_gare_du_nord, destination: *station_lille_flanders, type: train, operator: SNCF, number: "7035" }
+  - { departure: 2023-04-30T16:10:00+01:00, arrival: 2023-04-30T19:55:00+01:00, origin: { name: Lille }, destination: *station_breda, type: bus, operator: FlixBus, number: "800" }
 - name: Visit Friends and Family
   place: "🇵🇹 Portugal"
   start: 2023-07-05
