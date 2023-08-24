@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 67,
+    "count": 68,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -25,11 +25,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "https://github.com/hacdias/hacdias.com"
+        "targetUrl": "https://pages.github.com/"
       },
       {
         "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "https://pages.github.com/"
+        "targetUrl": "https://github.com/hacdias/hacdias.com"
       },
       {
         "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
@@ -45,11 +45,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "https://github.com/hacdias/xkcd.hacdias.com"
+        "targetUrl": "https://github.com/ipfs/archives"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "https://github.com/ipfs/archives"
+        "targetUrl": "https://github.com/hacdias/xkcd.hacdias.com"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
@@ -57,11 +57,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy#cloudflare"
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-desktop#install"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/agentofuser"
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-companion#install"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -73,15 +73,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-companion#install"
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy#cloudflare"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-desktop#install"
+        "targetUrl": "https://github.com/agentofuser"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -90,6 +86,10 @@
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
         "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
+        "targetUrl": "https://github.com/hacdias/hacdias.com/blob/master/.circleci/config.yml"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
@@ -149,11 +149,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground/blob/master/plans/network/pingpong.go"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground/issues/1148"
+        "targetUrl": "https://github.com/testground/testground"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
@@ -165,7 +161,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground"
+        "targetUrl": "https://github.com/testground/testground/issues/1148"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
+        "targetUrl": "https://github.com/testground/testground/blob/master/plans/network/pingpong.go"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
@@ -197,11 +197,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
-        "targetUrl": "https://github.com/matrix-org/dendrite"
+        "targetUrl": "https://github.com/matrix-org/synapse"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
-        "targetUrl": "https://github.com/matrix-org/synapse"
+        "targetUrl": "https://github.com/matrix-org/dendrite"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/09/07/thesis-blocklearning-framework/",
@@ -229,15 +229,19 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://github.com/hacdias/mapgen"
+        "targetUrl": "https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d"
+        "targetUrl": "https://github.com/hacdias/mapgen"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/30/june-23/",
         "targetUrl": "https://github.com/sissbruecker/linkding"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://github.com/hacdias/eagle/blob/47bb9a2201f08c729d26ca3e7cb6d05bcbb8f418/core/links.go"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -275,7 +279,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 32,
+    "count": 33,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -396,6 +400,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/07/31/july-23/",
         "targetUrl": "https://en.wikipedia.org/wiki/Harz_Railway"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Well-known_URI"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
@@ -586,6 +594,48 @@
     ]
   },
   {
+    "domain": "jim-nielsen.com",
+    "count": 9,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/verified-personal-website/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/30/december-22/",
+        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
+        "targetUrl": "https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://blog.jim-nielsen.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://notes.jim-nielsen.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://blog.jim-nielsen.com/2023/well-known-avatar/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/external-links/",
+        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/external-links/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
+      }
+    ]
+  },
+  {
     "domain": "tue.nl",
     "count": 9,
     "links": [
@@ -624,40 +674,6 @@
       {
         "sourceUrl": "https://hacdias.com/resume/",
         "targetUrl": "https://tue.nl"
-      }
-    ]
-  },
-  {
-    "domain": "jim-nielsen.com",
-    "count": 7,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/verified-personal-website/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/30/december-22/",
-        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
-        "targetUrl": "https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://blog.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://notes.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/about/external-links/",
-        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/about/external-links/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
       }
     ]
   },
@@ -834,6 +850,32 @@
     ]
   },
   {
+    "domain": "timharek.no",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/30/december-22/",
+        "targetUrl": "https://timharek.no/logs/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/01/31/january-23/",
+        "targetUrl": "https://timharek.no/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://timharek.no/blog/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://timharek.no/logs/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://timharek.no/blog/i-added-well-known-urls-to-my-website"
+      }
+    ]
+  },
+  {
     "domain": "cloudflare.com",
     "count": 4,
     "links": [
@@ -918,28 +960,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
         "targetUrl": "https://seblog.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "timharek.no",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/30/december-22/",
-        "targetUrl": "https://timharek.no/logs/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/31/january-23/",
-        "targetUrl": "https://timharek.no/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://timharek.no/blog/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://timharek.no/logs/"
       }
     ]
   },
@@ -2748,6 +2768,16 @@
       {
         "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
         "targetUrl": "https://web3.foundation/"
+      }
+    ]
+  },
+  {
+    "domain": "webfinger.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://webfinger.net/"
       }
     ]
   },
