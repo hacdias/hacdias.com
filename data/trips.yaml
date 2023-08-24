@@ -1,91 +1,91 @@
 airports:
   ams: &airport_ams
-    name: Amsterdam (AMS)
+    name: Schiphol Airport
     country: Netherlands
     latitude: 52.3080556
     longitude: 4.7641667
   ber: &airport_ber
-    name: Berlin (BER)
+    name: Berlin Brandenburg Airport
     country: Germany
     latitude: 52.3622472
     longitude: 13.5006722
   bgy: &airport_bgy
-    name: Milan (BGY)
+    name: Milan Bergamo Airport
     country: Italy
     latitude: 45.6688889
     longitude: 9.7002778
   bru: &airport_bru
-    name: Brussels (BRU)
+    name: Brussels Airport
     country: Belgium
     latitude: 50.9013889
     longitude: 4.4844444
   crl: &airport_crl
-    name: Charleroi (CRL)
+    name: Charleroi Airport
     country: Belgium
     latitude: 50.46
     longitude: 4.4527778
   ein: &airport_ein
-    name: Eindhoven (EIN)
+    name: Eindhoven Airport
     country: Netherlands
     latitude: 51.45
     longitude: 5.3744444
   fao: &airport_fao
-    name: Faro (FAO)
+    name: Faro Airport
     country: Portugal
     latitude: 37.0144444
     longitude: -7.9658333
   fra:  &airport_fra
-    name: Frankfurt (FRA)
+    name: Frankfurt Airport
     country: Germany
     latitude: 50.0333056
     longitude: 8.5704556
   gla: &airport_gla
-    name: Glasgow (GLA)
+    name: Glasgow Airport
     country: United Kingdom
     latitude: 55.8719444
     longitude: -4.4330556
   lis: &airport_lis
-    name: Lisboa (LIS)
+    name: Lisbon Airport
     country: Portugal
     latitude: 38.7741667
     longitude: -9.1341667
   lgw: &airport_lgw
-    name: London (LGW)
+    name: Gatwick Airport
     country: United Kingdom
     latitude: 51.1480556
     longitude: -0.1902778
   lhr: &airport_lhr
-    name: London (LHR)
+    name: Heathrow Airport
     country: United Kingdom
     latitude: 51.4775
     longitude: -0.4613889
   lux: &airport_lux
-    name: Luxembourg (LUX)
+    name: Luxembourg Airport
     country: Luxembourg
     latitude: 49.6233333
     longitude: 6.2044444
   nap: &airport_nap
-    name: Naples (NAP)
+    name: Naples Airport
     country: Italy
     latitude: 40.8844444
     longitude: 14.2908333
   pdl: &airport_pdl
-    name: Ponta Delgada (PDL)
+    name: Ponta Delgada Airport
     country: Portugal
     latitude: 37.7419444
     longitude: -25.6977778
   prg: &airport_prg
-    name: Prague (PRG)
+    name: Prague Airport
     country: Czechia
     latitude: 50.1008333
     longitude: 14.26
   sjo: &airport_sjo
-    name: San Jose (SJO)
+    name: Juan Santamaría Airport
     country: Costa Rica
     latitude: 9.9939028
     longitude: -84.2088556
   zrh: &airport_zrh
-    name: Zurich (ZRH)
+    name: Zurich Airport
     country: Switzerland
     latitude: 47.4580556
     longitude: 8.5480556
