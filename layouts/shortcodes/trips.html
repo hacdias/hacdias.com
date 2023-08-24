@@ -59,9 +59,15 @@
               <div class=' legs'>
               {{ range . }}
                 <div>
-                  <span>{{ template "transit-type" .type }}</span>
-                  <time class='tab lg'>{{ dateFormat "Jan 02" .departure }}</time>
-                  <span>{{ .origin.name }} → {{ .destination.name }}</span>
+                  {{ template "transit-type" .type }}
+                  <time class='tab lg'>{{ dateFormat "Jan 02 15:04" .departure }}</time>
+                  {{ .origin.name }}
+                  →
+                  <time class='tab lg'>{{ dateFormat "15:04" .arrival }}</time>
+                  {{ .destination.name }}
+                  {{ if eq .type "air" -}}
+                    <span class='lg'>({{ .operator }} {{.number}})</span>
+                  {{- end }}
                 </div>
               {{ end }}
               </div>
