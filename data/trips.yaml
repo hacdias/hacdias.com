@@ -787,6 +787,12 @@
     origin: *airport_lis
     arrival: 2022-11-01T21:00:00+01:00
     destination: *airport_ein
+- name: Christmas Market Trip
+  place: "🇩🇪 Aachen"
+  start: 2022-12-17
+  date: 2022-12-18
+  latitude: 50.77576188976464
+  longitude: 6.0839712025301695
 - name: Christmas Holiday With Family
   place: "🇵🇹 Santana da Serra"
   start: 2022-12-22T19:00:00+01:00
@@ -808,12 +814,6 @@
     origin: *airport_fao
     arrival: 2022-12-29T19:10:00+01:00
     destination: *airport_ein
-- name: Christmas Market Trip
-  place: "🇩🇪 Aachen"
-  start: 2022-12-17
-  date: 2022-12-18
-  latitude: 50.77576188976464
-  longitude: 6.0839712025301695
 - name: ProbeLab and Friends CoLo
   place: "🇨🇭 Engelberg"
   start: 2023-01-10
@@ -826,6 +826,39 @@
   date: 2023-04-20
   latitude: 50.84814463
   longitude: 4.3509642
+  itinerary:
+  - type: train
+    operator: NS
+    number: IC1134
+    departure: 2023-04-14T10:44:00+01:00
+    origin: *station_eindhoven_centraal
+    arrival: 2023-04-14T11:21:00+01:00
+    destination: *station_breda
+  - type: train
+    operator: NS
+    number: IC1134
+    departure: 2023-04-14T11:42:00+01:00
+    origin: *station_breda
+    arrival: 2023-04-14T13:12:00+01:00
+    destination: &station_brussel_centraal
+      latitude: 50.8455466502565
+      longitude: 4.357120007195408
+      name: Brussel Centraal
+      country: Belgium
+  - type: train
+    operator: NS
+    number: IC9239
+    departure: 2023-04-20T12:50:00+01:00
+    origin: *station_brussel_centraal
+    arrival: 2023-04-20T14:18:00+01:00
+    destination: *station_breda
+  - type: train
+    operator: NS
+    number: IC1151
+    departure: 2023-04-20T14:38:00+01:00
+    origin: *station_breda
+    arrival: 2023-04-20T15:16:00+01:00
+    destination: *station_eindhoven_centraal
 - name: France With Friends
   place: "🇫🇷 Lille & Paris"
   start: 2023-04-26
@@ -836,12 +869,101 @@
   date: 2023-07-19
   latitude: 39.197282716346706
   longitude: -8.134221029813029
+  itinerary:
+  - type: air
+    operator: Ryanair
+    number: FR5769
+    departure: 2023-07-05T19:50:00+01:00
+    origin: *airport_ein
+    arrival: 2023-07-05T21:55:00Z
+    destination: *airport_fao
+  - type: air
+    operator: Ryanair
+    number: FR5768
+    departure: 2023-07-19T15:25:00Z
+    origin: *airport_fao
+    arrival: 2023-07-19T19:25:00+01:00
+    destination: *airport_ein
 - name: Visit Friend
   place: "🇩🇪 Saxony-Anhalt"
   start: 2023-07-28
   date: 2023-07-30
   latitude: 51.83816716344778
   longitude: 10.776930746259167
+  itinerary:
+  - type: train
+    operator: NS
+    number: ICE225
+    departure: 2023-07-28T08:34:00+02:00
+    origin:
+      name: Utrecht Centraal
+      latitude: 52.08948710105604
+      longitude: 5.1098606530824044
+    arrival: 2023-07-28T10:04:00+02:00
+    destination: &station_duisburg_hbf
+      name: Duisburg Hbf
+      latitude: 51.42960338575534
+      longitude: 6.776270223505512
+  - type: train
+    operator: DB
+    number: ICE759
+    departure: 2023-07-28T10:30:00+02:00
+    origin: *station_duisburg_hbf
+    arrival: 2023-07-28T13:01:00+02:00
+    destination: &station_hannover_hbf
+      name: Hannover Hbf
+      latitude: 52.376698613166866
+      longitude: 9.741047297273422
+  - type: train
+    operator: Erixx
+    number: RE10
+    departure: 2023-07-28T14:48:00+02:00
+    origin: *station_hannover_hbf
+    arrival: 2023-07-28T15:53:00+02:00
+    destination: &station_goslar
+      name: Goslar
+      latitude: 51.91118774066118
+      longitude: 10.421758789287184
+  - type: train
+    operator: DB
+    number: RE75715
+    departure: 2023-07-28T16:06:00+02:00
+    origin: *station_goslar
+    arrival: 2023-07-28T16:39:00+02:00
+    destination: &station_wernigerode_hbf
+      name: Wernigerode Hbf
+      latitude: 51.84013619214658
+      longitude: 10.789349062293116
+  - type: train
+    operator: Erixx
+    number: RE10
+    departure: 2023-07-30T10:03:00+02:00
+    origin: *station_goslar
+    arrival: 2023-07-30T11:09:00+02:00
+    destination: *station_hannover_hbf
+  - type: train
+    operator: DB
+    number: IC146
+    departure: 2023-07-30T11:23:00+02:00
+    origin: *station_hannover_hbf
+    arrival: 2023-07-30T15:42:00+02:00
+    destination: &station_deventer
+      name: Deventer
+  - type: train
+    operator: NS
+    number: ""
+    departure: 2023-07-30T15:45:00+02:00
+    origin: *station_deventer
+    arrival: 2023-07-30T17:07:00+02:00
+    destination: &station_den_bosch
+      name: Den Bosch
+  - type: train
+    operator: NS
+    number: ""
+    departure: 2023-07-30T17:25:00+02:00
+    origin: *station_den_bosch
+    arrival: 2023-07-30T17:44:00+02:00
+    destination: *station_eindhoven_centraal
 # - name:
 #   place:
 #   start:
