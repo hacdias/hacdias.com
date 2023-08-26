@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: 'Guardians of the Galaxy Vol. 3'
+  date: 2023-08-25
+  rating: 4
 - name: Oppenheimer
   date: 2023-08-20
   rating: 4
