@@ -17,14 +17,3 @@ Therefore, we thought it'd be safer to start leaving.
 ![Lonely mushroom with a bit of water from the rain](cdn:/2023-08-mushroom?class=fw&caption=false)
 
 ![Slugs](cdn:/2023-08-slugs?class=fw&caption=false)
-
-<!--more-->
-
-<style>
-:root,
-:root.dark {
-  --c-h: 19;
-  --c-s: 58%;
-  --c-l: 36%;
-}
-</style>
