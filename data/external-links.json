@@ -850,6 +850,32 @@
     ]
   },
   {
+    "domain": "seblog.nl",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
+        "targetUrl": "https://seblog.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
+        "targetUrl": "https://seblog.nl/bieb"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/30/november-22/",
+        "targetUrl": "https://seblog.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://seblog.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/31/august-23/",
+        "targetUrl": "https://seblog.nl/"
+      }
+    ]
+  },
+  {
     "domain": "timharek.no",
     "count": 5,
     "links": [
@@ -938,28 +964,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/11/05/micropub-update-parsing-uncertainties/",
         "targetUrl": "https://ownyourswarm.p3k.io/"
-      }
-    ]
-  },
-  {
-    "domain": "seblog.nl",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
-        "targetUrl": "https://seblog.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
-        "targetUrl": "https://seblog.nl/bieb"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/30/november-22/",
-        "targetUrl": "https://seblog.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://seblog.nl/"
       }
     ]
   },
@@ -1240,6 +1244,20 @@
       {
         "sourceUrl": "https://hacdias.com/2023/07/03/an-update-to-my-digid-saga-and-drivers-licenses/",
         "targetUrl": "https://mijn.digid.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "dinnertrain.eu",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/31/august-23/",
+        "targetUrl": "https://dinnertrain.eu/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://dinnertrain.eu/"
       }
     ]
   },
@@ -1832,16 +1850,6 @@
     ]
   },
   {
-    "domain": "dinnertrain.eu",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://dinnertrain.eu/"
-      }
-    ]
-  },
-  {
     "domain": "discord.com",
     "count": 1,
     "links": [
@@ -1968,6 +1976,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/04/01/march-22/",
         "targetUrl": "https://fruitpunch.ai/"
+      }
+    ]
+  },
+  {
+    "domain": "gazelle.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/31/august-23/",
+        "targetUrl": "https://www.gazelle.nl/"
       }
     ]
   },
