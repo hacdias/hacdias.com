@@ -28,8 +28,8 @@ Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhov
 
 ### Software Engineer - [Protocol Labs] <small>[10/2022 - present]</small> {#protocol-labs-software-engineer}
 
-- Maintaining Kubo, an implementation of InterPlanetary File System (IPFS), which is a peer-to-peer decentralized file system.
-- Working on bridging the gap between IPFS and the conventional web.
+- Maintaining [Kubo] and [Boxo], an implementation and a set of reference libraries, of the InterPlanetary File System ([IPFS]), which is a peer-to-peer, decentralized, and content-addressed file system.
+- Working on improving [IPFS specifications][IPFS Specs] and conformance tests for its web gateways, in order to bridge the gap between IPFS and the conventional web.
 
 ### Part-time Software Engineer - [Protocol Labs] <small>[11/2017 - 09/2022]</small> {#protocol-labs-part-time-software-engineer}
 
@@ -56,6 +56,10 @@ Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhov
 - Published a 60 page [e-book][Pplware Ebook] on how to program in C for beginners when I was 15 years old.
 
 [Protocol Labs]: https://protocol.ai
+[IPFS]: https://ipfs.tech
+[Kubo]: https://github.com/ipfs/kubo
+[Boxo]: https://github.com/ipfs/boxo
+[IPFS Specs]: https://specs.ipfs.tech/
 [Testground]: http://testground.ai/
 [IPFS Desktop]: https://github.com/ipfs/ipfs-desktop
 [IPFS Web UI]: https://github.com/ipfs/ipfs-webui
