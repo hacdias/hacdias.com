@@ -30,7 +30,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
   </div>
   <div class='e'>
     <div>Earphones</div>
-    <div>AirPods (3rd Gen)</div>
+    <div>AirPods Pro (2nd Gen)</div>
   </div>
   <div class='e'>
     <div>Console</div>
@@ -124,7 +124,7 @@ At home I also have a desk with some things. This desk is used by my partner or 
   </div>
   <div class='e'>
     <div>Mouse</div>
-    <div>Magic Trackpad, Logitech MX Master 3S</div>
+    <div>Magic Trackpad, Logitech G502 X</div>
   </div>
   <div class='e'>
     <div>Laptop Stand</div>
