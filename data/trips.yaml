@@ -211,6 +211,11 @@ train_stations:
     longitude: 14.272366631869446
     name: Napoli Centrale
     country: Italy
+  maastricht: &station_maastricht
+    name: Maastricht
+    country: Netherlands
+    latitude: 50.85030027278323
+    longitude: 5.706030998577679
   milano_centrale: &station_milano_centrale
     name: Milano Centrale
     country: Italy
@@ -226,6 +231,11 @@ train_stations:
     country: France
     latitude: 48.88111034893081
     longitue: 2.3555497314521947
+  pepinster: &station_pepinster
+    name: Pepinster
+    country: Belgium
+    latitude: 50.56823092530909
+    longitude: 5.806170747370984
   pisa_centrale: &station_pisa_centrale
     name: Pisa Centrale
     country: Italy
@@ -246,6 +256,11 @@ train_stations:
     country: Netherlands
     latitude: 51.9250574
     longitude: 4.4692289
+  spa: &station_spa
+    name: Spa
+    country: Belgium
+    latitude: 50.4903021
+    longitude: 5.8528801
   utrecht_centraal: &station_utrecht_centraal
     name: Utrecht Centraal
     latitude: 52.08948710105604
@@ -429,7 +444,7 @@ trips:
   itinerary:
   - { departure: 2021-08-21T07:44:00+02:00, arrival: 2021-08-21T08:21:00+02:00, origin: *station_eindhoven_centraal, destination: *station_breda, type: train, operator: NS, number: IC1122 }
   - { departure: 2021-08-21T08:42:00+02:00, arrival: 2021-08-21T09:16:00+02:00, origin: *station_breda, destination: *antwerpen_centraal_station, type: train, operator: NS International, number: IC9216 }
-  - { departure: 2021-08-21T09:37:00+02:00, arrival: 2021-08-21T10:32:00+02:00, origin: *antwerpen_centraal_station, destination: *gent_st_pieters_station, type: train, operator: ' SNCB', number: IC709 }
+  - { departure: 2021-08-21T09:37:00+02:00, arrival: 2021-08-21T10:32:00+02:00, origin: *antwerpen_centraal_station, destination: *gent_st_pieters_station, type: train, operator: SNCB, number: IC709 }
   - { departure: 2021-08-21T17:27:00+02:00, arrival: 2021-08-21T18:23:00+02:00, origin: *gent_st_pieters_station, destination: *antwerpen_centraal_station, type: train, operator: SNCB, number: IC738 }
   - { departure: 2021-08-21T18:44:00+02:00, arrival: 2021-08-21T19:18:00+02:00, origin: *antwerpen_centraal_station, destination: *station_breda, type: train, operator: NS International, number: IC9259 }
   - { departure: 2021-08-21T19:38:00+02:00, arrival: 2021-08-21T20:15:00+02:00, origin: *station_breda, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC1171 }
@@ -583,6 +598,21 @@ trips:
   - { departure: 2023-07-30T11:23:00+02:00, arrival: 2023-07-30T15:42:00+02:00, origin: *station_hannover_hbf, destination: *station_deventer, type: train, operator: DB, number: IC146 }
   - { departure: 2023-07-30T15:45:00+02:00, arrival: 2023-07-30T17:07:00+02:00, origin: *station_deventer, destination: *station_den_bosch, type: train, operator: NS, number: "" }
   - { departure: 2023-07-30T17:25:00+02:00, arrival: 2023-07-30T17:44:00+02:00, origin: *station_den_bosch, destination: *station_eindhoven_centraal, type: train, operator: NS, number: "" }
+- name: Weekend in Spa
+  place: "🇧🇪 Spa"
+  start: 2023-09-29
+  date: 2023-10-01
+  latitude: 50.4903021
+  longitude: 5.8528801
+  itinerary:
+  - { departure: 2023-09-29T09:27:00+02:00, arrival: 2023-09-29T10:30:00+02:00, origin: *station_eindhoven_centraal, destination: *station_maastricht, type: train, operator: NS, number: IC827 }
+  - { departure: 2023-09-29T10:48:00+02:00, arrival: 2023-09-29T11:22:00+02:00, origin: *station_maastricht, destination: *liege_guillemins, type: train, operator: SNCB, number: 'S5382' }
+  - { departure: 2023-09-29T11:35:00+02:00, arrival: 2023-09-29T11:52:00+02:00, origin: *liege_guillemins, destination: *station_pepinster, type: train, operator: SNCB, number: 'IC409' }
+  - { departure: 2023-09-29T12:01:00+02:00, arrival: 2023-09-29T12:19:00+02:00, origin: *station_pepinster, destination: *station_spa, type: train, operator: SNCB, number: 'S5032' }
+  - { departure: 2023-10-01T10:41:00+02:00, arrival: 2023-10-01T10:59:00+02:00, origin: *station_spa, destination: *station_pepinster, type: train, operator: SNCB, number: 'S5015' }
+  - { departure: 2023-10-01T11:14:00+02:00, arrival: 2023-10-01T11:39:00+02:00, origin: *station_pepinster, destination: *liege_guillemins, type: train, operator: SNCB, number: 'S5286' }
+  - { departure: 2023-10-01T12:07:00+02:00, arrival: 2023-10-01T12:42:00+02:00, origin: *liege_guillemins, destination: *station_maastricht, type: train, operator: SNCB, number: 'S5367' }
+  - { departure: 2023-10-01T13:01:00+02:00, arrival: 2023-10-01T14:02:00+02:00, origin: *station_maastricht, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC868 }
 # - name:
 #   place:
 #   start:
