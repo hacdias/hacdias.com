@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/#user-content-fn-efficiency",
+    "title": "An Interactive Intro to CRDTs",
+    "description": "This is an article that has been all over the web. For someone that, like me, knew of the existence of CRDTs, but did not really know how they worked, I think this is an extremely good introduction. Looking forward for the next one.",
+    "tags": [
+      "distributed",
+      "conflict-resolution"
+    ],
+    "date": "2023-10-05T09:29:37.907935Z"
+  },
+  {
     "url": "https://annas-archive.org/",
     "title": "Anna’s Archive",
     "description": "Anna's Archive claims to be \"the world's largest open-source open-data library\". As far as I understand, this shadow library does not, by itself, host any of the content. Instead, it is a massive search engine with the collection of the metadata of all these books. Nevertheless, it seems that the authors are invested in seeding the content too.",
