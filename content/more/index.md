@@ -18,6 +18,7 @@ This website contains more things than it looks at first glance. This page conta
 - [🚀 Impossible List](/impossible-list/)
 - [📸 Photos](/photos/)
 - [📚 Readings](/readings/)
+- [🎓 Resume](/resume/)
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)

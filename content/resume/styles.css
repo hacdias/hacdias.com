@@ -1,3 +1,10 @@
+.hint {
+  margin: var(--ls) auto;
+  max-width: 27rem;
+  font-size: var(--f5);
+  text-align: center;
+}
+
 .container {
   background: #ffffff;
   padding: var(--ls);
@@ -73,6 +80,10 @@ h3 + ul {
   .container {
     margin: 0;
     padding: 0;
+  }
+
+  .hint {
+    display: none;
   }
 }
 
