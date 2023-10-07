@@ -53,10 +53,21 @@ h3 + ul {
   padding: 0;
 }
 
-@media screen and (max-width: 53rem) {
+@media not print {
+  .container {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+}
+
+@media screen and (max-width: 56rem) {
+  body {
+    background: #fff;
+  }
+
   .container {
     margin: 0;
     max-width: 100%;
+    box-shadow: none;
   }
 
   #resume-header {
@@ -67,12 +78,6 @@ h3 + ul {
   #resume-header,
   #resume-header > ul {
     text-align: center;
-  }
-}
-
-@media not print {
-  .container {
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
 }
 
