@@ -2,6 +2,18 @@
 #   season:
 #   date:
 #   rating:
+- name: Mako Mermaids
+  season: 3
+  rating: 3
+  date: 2023-10-07
+- name: Mako Mermaids
+  season: 2
+  rating: 3
+  date: 2023-10-04
+- name: Mako Mermaids
+  season: 1
+  rating: 3
+  date: 2023-10-01
 - name: Sex Education
   season: 4
   rating: 4
