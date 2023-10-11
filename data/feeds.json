@@ -171,11 +171,6 @@
       "feed": "https://write.as/matt/feed/"
     },
     {
-      "title": "Matt Colligan",
-      "site": "https://mcol.xyz",
-      "feed": "https://mcol.xyz/rss.xml"
-    },
-    {
       "title": "Max Böck",
       "site": "https://mxb.dev",
       "feed": "https://mxb.dev/feed.xml"
