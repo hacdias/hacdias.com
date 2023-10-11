@@ -287,7 +287,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 33,
+    "count": 34,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -387,7 +387,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Simplex_noise"
+        "targetUrl": "https://en.wikipedia.org/wiki/Procedural_generation"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
@@ -395,7 +395,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Procedural_generation"
+        "targetUrl": "https://en.wikipedia.org/wiki/Simplex_noise"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
@@ -412,6 +412,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
         "targetUrl": "https://en.wikipedia.org/wiki/Well-known_URI"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://en.wikipedia.org/wiki/GPS_Exchange_Format"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
@@ -1056,6 +1060,24 @@
     ]
   },
   {
+    "domain": "garmin.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://developer.garmin.com/fit/protocol/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://developer.garmin.com/fit/fitcsvtool/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://developer.garmin.com/fit/download/"
+      }
+    ]
+  },
+  {
     "domain": "golang.org",
     "count": 3,
     "links": [
@@ -1242,6 +1264,20 @@
       {
         "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
         "targetUrl": "https://web.archive.org/"
+      }
+    ]
+  },
+  {
+    "domain": "bosch-ebike.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://www.bosch-ebike.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://www.bosch-ebike.com/en/products/ebike-flow-app"
       }
     ]
   },
@@ -1712,6 +1748,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/07/17/listagem-web-de-uma-tabela-mysql/",
         "targetUrl": "https://www.apachefriends.org/pt_br/index.html"
+      }
+    ]
+  },
+  {
+    "domain": "apple.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://apps.apple.com/us/app/healthfit/id1202650514"
       }
     ]
   },
