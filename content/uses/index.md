@@ -201,6 +201,10 @@ The list below contains some of my favorite software, or software that I use on 
     <div><a rel='noopener noreferrer' href='https://miniflux.app/'>Miniflux</a></div>
   </div>
   <div class='e'>
+    <div>Bookmark Manager</div>
+    <div><a rel='noopener noreferrer' href='https://github.com/sissbruecker/linkding'>linkding</a></div>
+  </div>
+  <div class='e'>
     <div>URL Shortener</div>
     <div><a rel='noopener noreferrer' href='https://jlel.se/goshort'>goshort</a> - I have not used it that much, but it's a nice to have. I'm looking forward to having more use cases for it though.</div>
   </div>
