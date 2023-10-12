@@ -101,6 +101,13 @@ I programmatically added an activity entry at the end considering the informatio
   <summary>The not-so good script</summary>
 
 ```swift
+import Foundation
+import ObjcFIT
+import SwiftFIT
+
+let calories: UInt16 = 224
+let input = "/path/to/input.fit"
+let output = "/path/to/output.fit"
 
 func convert(input: String, output: String, calories: UInt16) throws {
     let inputMessages = try getMessages(input: input)
