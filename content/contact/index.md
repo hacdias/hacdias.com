@@ -3,7 +3,7 @@ title: Contact
 description: This is how you can contact me.
 ---
 
-I can be reached through different means, and you can find me on different platforms. If you need to reach me directly, please use E-mail, Telegram, or Matrix, as linked below. You can also check other social media if you prefer.
+To reach me directly, please use:
 
 <div class='terms grid bold'>
 
@@ -14,7 +14,7 @@ I can be reached through different means, and you can find me on different platf
 
 ## 🕸 Elsewhere {#elsewhere}
 
-In other social media I am active on, I can be usually found as [@hacdias](/about/#handle). Here are some of the potentially most relevant platforms where I am currently active.
+I can usually be found in most places as [@hacdias](/about/#handle). The most interesting ones:
 
 <div class='terms grid bold'>
 
