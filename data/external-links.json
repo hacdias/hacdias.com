@@ -281,11 +281,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/resume/",
-        "targetUrl": "https://github.com/filebrowser/filebrowser"
+        "targetUrl": "https://github.com/hacdias/eagle"
       },
       {
         "sourceUrl": "https://hacdias.com/resume/",
-        "targetUrl": "https://github.com/hacdias/eagle"
+        "targetUrl": "https://github.com/filebrowser/filebrowser"
       }
     ]
   },
