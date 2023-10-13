@@ -46,9 +46,9 @@ Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhov
 
 ### Software Developer - [Upframe] <small>[09/2016 - 05/2018]</small> {#upframe}
 
-- Built a REST API for managing email transactions, newsletters and enrollments in the program.
-- Built a Slack bot to manage enrollments to the program, in Go.
-- Built a backend which allowed to see who was at the office, to send emails and to manage newsletters.
+- Built a REST API for managing email transactions, newsletters and program enrollments.
+- Built a Slack bot to help manage program enrollments, in Go.
+- Built a backend to see who is in-person at the office, send emails and manage newsletters.
 
 ### Content Writer - [Pplware] <small>[06/2013 -  09/2016]</small> {#pplware}
 
