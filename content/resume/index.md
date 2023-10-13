@@ -15,7 +15,7 @@ noIndex: true
   📍 Eindhoven, NL - [mail@hacdias.com](mailto:mail@hacdias.com)
 
   </div>
-  
+
   - [hacdias.com](https://hacdias.com)
   - [github.com/hacdias][github]
   - [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
@@ -28,13 +28,13 @@ Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhov
 
 ### Software Engineer - [Protocol Labs] <small>[10/2022 - present]</small> {#protocol-labs-software-engineer}
 
-- Maintaining [Kubo] and [Boxo], an implementation and a set of reference libraries, of the InterPlanetary File System ([IPFS]), which is a peer-to-peer, decentralized, and content-addressed file system.
-- Working on improving [IPFS specifications][IPFS Specs] and conformance tests for its web gateways, in order to bridge the gap between IPFS and the conventional web.
+- Maintained large [IPFS] (decentralized and  p2p file system) libraries, such as [Kubo] and [Boxo].
+- Co-authored and implemented new [IPFS-related specifications][IPFS Specs] in Go and JavaScript.
 
 ### Part-time Software Engineer - [Protocol Labs] <small>[11/2017 - 09/2022]</small> {#protocol-labs-part-time-software-engineer}
 
-- Revamped and maintained [IPFS Desktop] and [IPFS Web UI]: user-friendly Electron and React applications, respectively.
-- Developed [Testground]: a testing, benchmarking and simulating platform for decentralized and peer-to-peer systems at scale built in Go. Used all over the organization for testing many projects.
+- Revamped and maintained [IPFS Desktop] and [IPFS Web UI], Electron and React applications.
+- Co-authored [Testground], a testing platform for decentralized and peer-to-peer systems in Go.
 - Maintained multiple Go, JavaScript, Node.js and Electron projects.
 
 ### Student Teaching Assistant - [Eindhoven University of Technology] <small>[09/2021 - 06/2022]</small> {#tue-ta}
