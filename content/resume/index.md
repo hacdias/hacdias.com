@@ -28,8 +28,8 @@ Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhov
 
 ### Software Engineer - [Protocol Labs] <small>[10/2022 - present]</small> {#protocol-labs-software-engineer}
 
-- Maintained large [IPFS] (decentralized and  p2p file system) libraries, such as [Kubo] and [Boxo].
-- Co-authored and implemented new [IPFS-related specifications][IPFS Specs] in Go and JavaScript.
+- Maintaining large [IPFS] (decentralized and  p2p file system) libraries, such as [Kubo] and [Boxo].
+- Co-authoring and implementing new [IPFS-related specifications][IPFS Specs] in Go and JavaScript.
 
 ### Part-time Software Engineer - [Protocol Labs] <small>[11/2017 - 09/2022]</small> {#protocol-labs-part-time-software-engineer}
 
