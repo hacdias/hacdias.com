@@ -71,13 +71,13 @@ Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhov
 
 ## Education
 
-### MSc Computer Science and Engineering - [Eindhoven University of Technology] <small>[2020 - 2022]</small>
+### MSc Computer Science and Engineering - [Eindhoven University of Technology] <small>[2020 - 2022]</small> {#msc-tue}
 
 - Grade: 8 out of 10.
 - Member of Student Film & Photography Association [Dekate Mousa].
 - Member of the Website and PR Committees of [Dekate Mousa].
 
-### BSc Information Systems and Computer Engineering - [Instituto Superior Técnico] <small>[2017 - 2020]</small>
+### BSc Information Systems and Computer Engineering - [Instituto Superior Técnico] <small>[2017 - 2020]</small>  {#bsc-ist}
 
 - Grade: 16 out of 20.
 - Volunteered as Student Mentor for 2 years.
@@ -89,21 +89,21 @@ Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhov
 
 ## Projects
 
-### File Browser <small>[[code](https://github.com/filebrowser/filebrowser)] [2015 - 2019]</small>
-
-- Go and Vue.js based software that allows anyone to self-host their own file hosting service.
-- Over 10 million downloads through Docker and over 15 thousand stars on GitHub.
-- Currently maintained by the community.
-
-### Open Source Projects <small>[[code][github]] [2015 - present]</small>
+### Open Source Projects <small>[[code][github]] [2015 - present]</small> {#open-source}
 
 - Author and maintainer of some open source projects and free open source contributor.
 - All code is freely available on [GitHub][github] and can be used by anyone.
 
-### Personal Website <small>[[code](https://github.com/hacdias/eagle)] [2014 - present]</small>
+### Personal Website <small>[[code](https://github.com/hacdias/eagle)] [2014 - present]</small> {#personal-website}
 
 - Built and maintained my personal website since 2014, allowing for *[selfdogfooding](https://indieweb.org/selfdogfood)*.
 - Built a custom Go backend that supports posts management, IndieWeb interactions, full-text search, connection to third party APIs, among [other features](https://hacdias.com/meta).
 - Receives over 5 thousand unique visitors per month.
+
+### File Browser <small>[[code](https://github.com/filebrowser/filebrowser)] [2015 - 2019]</small> {#file-browser}
+
+- Go and Vue.js based software that allows anyone to self-host their own file hosting service.
+- Over 10 million downloads through Docker and over 15 thousand stars on GitHub.
+- Currently maintained by the community.
 
 [github]: https://github.com/hacdias
