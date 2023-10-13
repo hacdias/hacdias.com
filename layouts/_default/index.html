@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ partialCached "post/content" . .Permalink }}
 
-  {{- $pages := partialCached "fns/pages" . .Permalink }}
+  {{- $pages := where .Site.RegularPages "Section" "in" (slice "articles" "readings") }}
   <h2 id="freshly-ground">🪴 Freshly Planted</h2>
   <div class='h-feed logs'>
     <div>
@@ -22,7 +22,7 @@
 
   <h2 id="latest-captures">📸 Latest Captures</h2>
   <div class='fg'>
-    {{ $photos := where $pages "Section" "photos" }}
+    {{ $photos := where .Site.RegularPages "Section" "photos" }}
     {{ range (first 6 $photos) }}
       <div class='br'>
         <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>

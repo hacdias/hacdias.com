@@ -4,13 +4,13 @@ description: Henrique is interested in web infrastructure, decentralized systems
   and making tools for developers and users. He likes coffee and tea alike. Currently
   works as a Software Engineer at Protocol Labs.
 favoritePosts:
-- /articles/2023/the-day-i-hacked-my-schools-library-computers
+- /articles/2023/procedural-map-generation-with-noise
 - /articles/2021/magic-fractal-snowflakes
 - /articles/2020/back-90s
 - /articles/2019/trying-pixel-art
 ---
 
-**Hi 👋, I’m Henrique** (he/him), a Portuguese 🇵🇹 guy living in The Netherlands 🇳🇱. I'm a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users. I enjoy learning about new things, taking photographs, programming, as well as a nice cup of coffee ☕️ or tea 🍵. Welcome to my small peninsula 🏝️ on the Internet!
+**Hi 👋, I’m Henrique** (he/him), a Portuguese 🇵🇹 guy living in The Netherlands 🇳🇱. I'm a software engineer 🛠 interested in web infrastructure, decentralized systems, identity, and making tools for developers and users. I enjoy learning about new things, taking photographs, programming, as well as a nice cup of coffee or tea. Welcome to my Internet peninsula!
 
 <div class='h-card' hidden>
   <a href='https://hacdias.com/' class='u-uid u-url p-name'>Henrique Dias</a>
