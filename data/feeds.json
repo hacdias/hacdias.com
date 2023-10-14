@@ -86,6 +86,11 @@
       "feed": "https://words.filippo.io/rss/"
     },
     {
+      "title": "Garrit Franke",
+      "site": "https://garrit.xyz",
+      "feed": "https://garrit.xyz/rss.xml"
+    },
+    {
       "title": "Horst Gutmann",
       "site": "https://zerokspot.com/",
       "feed": "https://zerokspot.com/index.xml"
