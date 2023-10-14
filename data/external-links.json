@@ -2096,6 +2096,16 @@
     ]
   },
   {
+    "domain": "gymbookapp.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/14/gymbook-a-simple-and-easy-gym-app/",
+        "targetUrl": "https://www.gymbookapp.com/"
+      }
+    ]
+  },
+  {
     "domain": "hacdia.sh",
     "count": 1,
     "links": [
