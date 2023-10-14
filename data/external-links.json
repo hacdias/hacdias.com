@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 71,
+    "count": 76,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -57,7 +57,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-desktop#install"
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy#pinata"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -69,7 +69,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-deploy#pinata"
+        "targetUrl": "https://github.com/agentofuser"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -77,7 +77,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://github.com/agentofuser"
+        "targetUrl": "https://github.com/ipfs-shipyard/ipfs-desktop#install"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -113,11 +113,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
-        "targetUrl": "https://github.com/hacdias/trakt-collector/blob/master/bin/analyse.js"
+        "targetUrl": "https://github.com/hacdias/silos-collector/tree/a7aef3a1bf6693361eec147380b55dccc2ffe1c5/src/trakt"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
-        "targetUrl": "https://github.com/hacdias/silos-collector/tree/a7aef3a1bf6693361eec147380b55dccc2ffe1c5/src/trakt"
+        "targetUrl": "https://github.com/hacdias/trakt-collector/blob/master/bin/analyse.js"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/02/29/notable-to-hugo/",
@@ -133,19 +133,19 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
-        "targetUrl": "https://github.com/protocol/ResNetLab/blob/master/OPEN_PROBLEMS/HUMAN_READABLE_NAMING.md"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
         "targetUrl": "https://github.com/protocol/ResNetLab/blob/master/OPEN_PROBLEMS/ROUTING_AT_SCALE.md"
       },
       {
-        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
-        "targetUrl": "https://github.com/hacdias/eagle-js"
+        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
+        "targetUrl": "https://github.com/protocol/ResNetLab/blob/master/OPEN_PROBLEMS/HUMAN_READABLE_NAMING.md"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
         "targetUrl": "https://github.com/hacdias/eagle"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
+        "targetUrl": "https://github.com/hacdias/eagle-js"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
@@ -153,7 +153,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground/blob/master/plans/network/pingpong.go"
+        "targetUrl": "https://github.com/testground/sdk-go"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
@@ -161,11 +161,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/sdk-go"
+        "targetUrl": "https://github.com/testground/testground/issues/1148"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
-        "targetUrl": "https://github.com/testground/testground/issues/1148"
+        "targetUrl": "https://github.com/testground/testground/blob/master/plans/network/pingpong.go"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
@@ -173,11 +173,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://github.com/hacdias/eagle"
+        "targetUrl": "https://github.com/Xe/site"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://github.com/Xe/site"
+        "targetUrl": "https://github.com/hacdias/eagle"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/10/17/yubikey-setup/",
@@ -185,7 +185,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://github.com/yuin/goldmark"
+        "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
@@ -193,7 +193,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "https://github.com/hacdias/eagle/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+        "targetUrl": "https://github.com/yuin/goldmark"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
@@ -221,19 +221,19 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/sdk-environment-variables.md"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
         "targetUrl": "https://github.com/ipfs/kubo/blob/78895a11848a9ddab05231b7cbde99b406f1a01c/tracing/tracing.go"
       },
       {
-        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
-        "targetUrl": "https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d"
+        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
+        "targetUrl": "https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/sdk-environment-variables.md"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
         "targetUrl": "https://github.com/hacdias/mapgen"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
+        "targetUrl": "https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/30/june-23/",
@@ -246,6 +246,26 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://github.com/hacdias/flowfit"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/16/after-working-remotely-full-time-one-year/",
+        "targetUrl": "https://github.com/ipfs/kubo"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/16/after-working-remotely-full-time-one-year/",
+        "targetUrl": "https://github.com/testground/testground"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/16/after-working-remotely-full-time-one-year/",
+        "targetUrl": "https://github.com/ipfs/ipfs-webui"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/16/after-working-remotely-full-time-one-year/",
+        "targetUrl": "https://github.com/ipfs/ipfs-desktop"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/16/after-working-remotely-full-time-one-year/",
+        "targetUrl": "https://github.com/ipfs/boxo"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -433,7 +453,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 18,
+    "count": 17,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -502,10 +522,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
         "targetUrl": "https://indieweb.org/POSSE"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/resume/",
-        "targetUrl": "https://indieweb.org/selfdogfood"
       }
     ]
   },
@@ -1064,6 +1080,24 @@
     ]
   },
   {
+    "domain": "dutchnews.nl",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
+        "targetUrl": "https://www.dutchnews.nl/news/2021/01/dutch-government-collapses-in-fall-out-from-child-benefit-scandal/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
+        "targetUrl": "https://www.dutchnews.nl/news/2021/01/up-to-300-arrested-in-sunday-riots-police-hand-out-thousands-of-curfew-fines/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
+        "targetUrl": "https://www.dutchnews.nl/2023/04/theyll-just-throw-in-wvttkje-i-find-it-really-funny/"
+      }
+    ]
+  },
+  {
     "domain": "garmin.com",
     "count": 3,
     "links": [
@@ -1324,20 +1358,6 @@
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://dinnertrain.eu/"
-      }
-    ]
-  },
-  {
-    "domain": "dutchnews.nl",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
-        "targetUrl": "https://www.dutchnews.nl/news/2021/01/dutch-government-collapses-in-fall-out-from-child-benefit-scandal/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/01/lessons-moving-during-pandemic/",
-        "targetUrl": "https://www.dutchnews.nl/news/2021/01/up-to-300-arrested-in-sunday-riots-police-hand-out-thousands-of-curfew-fines/"
       }
     ]
   },
@@ -1956,6 +1976,16 @@
     ]
   },
   {
+    "domain": "donaldduck.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
+        "targetUrl": "https://donaldduck.nl/"
+      }
+    ]
+  },
+  {
     "domain": "dropbox.com",
     "count": 1,
     "links": [
@@ -1982,6 +2012,16 @@
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/"
+      }
+    ]
+  },
+  {
+    "domain": "eenbeetjenederlands.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
+        "targetUrl": "https://www.eenbeetjenederlands.nl/"
       }
     ]
   },
@@ -2492,6 +2532,16 @@
       {
         "sourceUrl": "https://hacdias.com/2020/02/29/notable-to-hugo/",
         "targetUrl": "https://notable.md/"
+      }
+    ]
+  },
+  {
+    "domain": "nrc.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
+        "targetUrl": "https://www.nrc.nl/"
       }
     ]
   },
