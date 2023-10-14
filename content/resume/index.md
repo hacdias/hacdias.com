@@ -96,14 +96,13 @@ Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhov
 
 ### Personal Website <small>[[code](https://github.com/hacdias/eagle)] [2014 - present]</small> {#personal-website}
 
-- Built and maintained my personal website since 2014, allowing for *[selfdogfooding](https://indieweb.org/selfdogfood)*.
-- Built a custom Go backend that supports posts management, IndieWeb interactions, full-text search, connection to third party APIs, among [other features](https://hacdias.com/meta).
-- Receives over 5 thousand unique visitors per month.
+- Building and maintaining my statically-generated personal website since 2014, which currently receives over 10 thousand unique visitors per month.
+- Built custom [Go backend](https://github.com/hacdias/eagle) to experiment with different ideas over time, such as ActivityPub, Webmentions, Tailscale and other integrations with third party services, etc.
 
 ### File Browser <small>[[code](https://github.com/filebrowser/filebrowser)] [2015 - 2019]</small> {#file-browser}
 
 - Go and Vue.js based software that allows anyone to self-host their own file hosting service.
-- Over 10 million downloads through Docker and over 15 thousand stars on GitHub.
+- Over 50 million downloads through Docker and over 20 thousand stars on GitHub.
 - Currently maintained by the community.
 
 [github]: https://github.com/hacdias
