@@ -20,8 +20,4 @@ _Note_: photos and video are copyrighted by TU/e. Photos are originally on [Flic
 
 </div>
 
-<div class='fw'>
-  <video controls>
-    <source class="u-video" src="https://cdn.hacdias.com/media/2022-11-msc-ceremony-speech.mp4">
-  </video>
-</div>
+{{< bunny-video "164483/e58440ad-832e-4825-8df7-916cbe023bbe" >}}
