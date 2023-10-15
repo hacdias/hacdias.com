@@ -14,7 +14,6 @@ A word can be a very powerful thing. A word can change lifes, a [word can destro
 
 If you want, you may listen to this music (The Swings of Central Park by Alexandre Desplat) while reading:
 
-
 <iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube-nocookie.com/embed/NE3pgjnrPAc" allowfullscreen frameborder="0"></iframe>
 
 Time is something interesting, isn't it? What do we know about time? When did it begin? Yes, it's a very strange question because the beginning of something implies time, and the start of time should be in some time. It's a really strange concept and it maybe frustrating for the common mortal beings. We have brilliant physicists working on those theories.

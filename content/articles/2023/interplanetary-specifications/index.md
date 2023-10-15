@@ -13,8 +13,4 @@ on building a website for the InterPlanetary Specifications of the IPFS ecosyste
 
 I realize I spoke a bit too fast. It was supposed to be a lightening talk, but not necessarily a lightening² talk.
 
-<div class="fw">
-  <video controls poster="https://cdn.hacdias.com/img/1000/86275bfe9ba45ac8a32280efb7d89bd328808fc49b8643c3f999076416d9fb4c.jpeg">
-    <source class="u-video" src="https://cdn.hacdias.com/media/2023-04-interplanetary-specifications.mp4">
-  </video>
-</div>
+{{< bunny-video "164483/73f3a44b-b7f0-4eb5-98b8-43872e67812d" >}}
