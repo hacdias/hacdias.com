@@ -28,11 +28,11 @@ These experiences were driven by my belief in transparency and openness, in a un
 
 <div class="box" id="handle">
 
-**Why @hacdias? 🤔** I've been asked before if there's any relation between my handle, @hacdias, and the verb "to hack". The answer is quite boring: there is not. It is simply the initials of some of my names with my last name.
+**Why @hacdias?** I've been asked before if there's any relation between my handle, @hacdias, and the verb "to hack". The answer is quite boring: there is not. It is simply the initials of some of my names with my last name.
 
 </div>
 
-## Colophon {#colophon}
+## 🎩 Colophon {#colophon}
 
 I started this website in 2014, when I was 14. At the time, all the content was in Portuguese, and I was running multiple blogs. After a while, I decided to start writing in English hoping it would improve my English skills, which I can argue that worked. Nowadays, all other blogs I had are merged under the current domain.
 

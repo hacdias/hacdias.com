@@ -12,20 +12,20 @@ E-mail is the easiest way to reach me, and I'll likely respond quite promptly. Y
 
 </div>
 
-## 🕸 Elsewhere {#elsewhere}
+## 🌐 Elsewhere {#elsewhere}
 
-I can usually be found in most places as [@hacdias](/about/#handle). The most interesting ones:
+I can usually be found in most places as [@hacdias](/about/#handle). Some of the most interesting ones:
 
 <div class='terms grid bold'>
 
 - [{{< favicon "github.com" >}} GitHub: @hacdias](https://github.com/hacdias)
-- [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
 - [{{< favicon "fosstodon.org" >}} Fedi: @hacdias@fosstodon.org](https://fosstodon.org/@hacdias)
-- [{{< favicon "twitter.com" >}} Twitter: @hacdias](https://twitter.com/hacdias)
-- [{{< favicon "bsky.app" >}} Bluesky: @hacdias.com](https://bsky.app/profile/hacdias.com)
-- [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
-- [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
 - [{{< favicon "linkedin.com" >}} LinkedIn: @hacdias](https://linkedin.com/in/hacdias)
+- [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
+- [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
+- [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
+- [{{< favicon "bsky.app" >}} Bluesky: @hacdias.com](https://bsky.app/profile/hacdias.com)
+- [{{< favicon "twitter.com" >}} X: @hacdias](https://twitter.com/hacdias)
 
 </div>
 
@@ -37,11 +37,3 @@ In the unlikely event you may want to send me something encrypted via a non-secu
 - Location: [https://hacdias.com/pubkey.asc](/pubkey.asc)
 - Quick import: `curl -sL https://hacdias.com/pubkey.asc | gpg --import`
 
-## 🗞 Feeds {#feeds}
-
-This website provides Atom and JSON feeds for the home page, which combines articles, photos, and book reviews, as well as for each one of the sections, individually. Your feed reader should be able to pick up the feed URL. If it doesn't, you can use the following URLs:
-
-- **Home**: [Atom](/feed.xml), [JSON](/feed.json).
-- **Articles**: [Atom](/articles/feed.xml), [JSON](/articles/feed.json).
-- **Photos**: [Atom](/photos/feed.xml), [JSON](/photos/feed.json).
-- **Readings**: [Atom](/readings/feed.xml), [JSON](/readings/feed.json).
