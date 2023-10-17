@@ -1,41 +1,32 @@
 {{ define "main" }}
-  {{ partialCached "post/content" . .Permalink }}
+  {{- partialCached "post/content" . .Permalink -}}
 
-  {{- $pages := where .Site.RegularPages "Section" "in" (slice "articles" "readings") }}
+  {{- $pages := where .Site.RegularPages "Section" "in" (slice "articles" "readings") -}}
   <h2 id="freshly-ground">🪴 Freshly Planted</h2>
-  <div class='h-feed logs'>
-    <div>
-      {{ range (first 4 $pages ) }}
-        {{ template "item" . }}
-      {{ end }}
-    </div>
-  </div>
+  {{- template "items" $pages -}}
 
-  <h2 id="personal-favourites">🌟 Personal Favourites</h2>
-  <div class='h-feed logs'>
-    <div>
-      {{- range .Params.favoritePosts }}
-        {{- template "item" ($.GetPage .) }}
-      {{- end }}
-    </div>
-  </div>
+  <h2 id="latest-captures">🎞️ Freshly Captured</h2>
+  {{- $photos := where .Site.RegularPages "Section" "photos" -}}
+  {{- template "photos" (first 3 $photos ) -}}
 
-  <h2 id="latest-captures">📸 Latest Captures</h2>
-  <div class='fg'>
-    {{ $photos := where .Site.RegularPages "Section" "photos" }}
-    {{ range (first 6 $photos) }}
-      <div class='br'>
-        <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>
-          {{ partial "helpers/figure" (dict
-            "Destination" .Params.coverImage
-            "Title" .Title
-            "IsBlock" true
-            "Sizes" (slice 250 500 1000)
-          )}}
-        </a>
-      </div>
-    {{ end }}
-  </div>
+  <h2 id="favourite-articles">🌟 Favourite Articles</h2>
+  {{- $favoritePosts := slice -}}
+  {{- range .Params.favoritePosts -}}
+    {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}
+  {{- end -}}
+  {{- template "items" $favoritePosts -}}
+
+  <h2 id="favourite-captures">📸 Favourite Captures</h2>
+  {{- $favoritePhotos := slice -}}
+  {{- range .Params.favoriteCaptures -}}
+    {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
+  {{- end }}
+  {{- template "photos" $favoritePhotos -}}
+  <style>
+  #favourite-captures + .fg > div:nth-child(3) img {
+    object-position: -13px;
+  }
+  </style>
 {{ end }}
 
 {{- define "item" }}
@@ -46,5 +37,32 @@
   <div>
     <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small dt-published'>{{ .Date.Format "02 Jan 2006" }}</time>
   </div>
+</div>
+{{- end }}
+
+{{- define "items" }}
+<div class='h-feed logs'>
+  <div>
+    {{ range (first 4 . ) }}
+      {{ template "item" . }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{- define "photos" }}
+<div class='fg'>
+  {{ range . }}
+    <div class='br'>
+      <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>
+        {{ partial "helpers/figure" (dict
+          "Destination" .Params.coverImage
+          "Title" .Title
+          "IsBlock" true
+          "Sizes" (slice 250 500 1000)
+        )}}
+      </a>
+    </div>
+  {{ end }}
 </div>
 {{- end }}
