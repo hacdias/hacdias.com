@@ -25,7 +25,16 @@ This website contains more things than it looks at first glance. This page conta
 
 </div>
 
-## Experiments {#experiments}
+## 🗞️ Feeds {#feeds}
+
+This website provides Atom and JSON feeds for the home page, which combines articles, photos, and book reviews, as well as for each one of the sections, individually. Your feed reader should be able to pick up the feed URL. If it doesn't, you can use the following URLs:
+
+- **Home**: [Atom](/feed.xml), [JSON](/feed.json).
+- **Articles**: [Atom](/articles/feed.xml), [JSON](/articles/feed.json).
+- **Photos**: [Atom](/photos/feed.xml), [JSON](/photos/feed.json).
+- **Readings**: [Atom](/readings/feed.xml), [JSON](/readings/feed.json).
+
+## 🧪 Experiments {#experiments}
 
 A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
 Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='trigger' hidden title='Click here, NOW!'>Or they might bite you!</span>
