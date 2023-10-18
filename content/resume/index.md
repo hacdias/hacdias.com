@@ -22,7 +22,7 @@ noIndex: true
 
 </div>
 
-Recently completed a M.Sc. degree in Computer Science and Engineering at Eindhoven University of Technology. Currently working as a Software Engineer at Protocol Labs. Interested in web infrastructure, decentralized systems, identity, and making tools for developers and users.
+I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I currently work at Protocol Labs, making IPFS better.
 
 ## Experience
 
