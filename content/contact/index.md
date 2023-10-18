@@ -1,9 +1,10 @@
 ---
 title: Contact
-description: This is how you can contact me.
 ---
 
 Do you have any feedback, or just want to go for a chat? Feel free to reach out to me!
+
+<!--more-->
 
 ## 📧 E-mail
 
