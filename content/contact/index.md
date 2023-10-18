@@ -22,8 +22,8 @@ I can usually be found in most places as [@hacdias](/about/#handle). Some of the
 - [{{< favicon "fosstodon.org" >}} Fedi: @hacdias@fosstodon.org](https://fosstodon.org/@hacdias)
 - [{{< favicon "linkedin.com" >}} LinkedIn: @hacdias](https://linkedin.com/in/hacdias)
 - [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
-- [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
 - [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
+- [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
 - [{{< favicon "bsky.app" >}} Bluesky: @hacdias.com](https://bsky.app/profile/hacdias.com)
 - [{{< favicon "twitter.com" >}} X: @hacdias](https://twitter.com/hacdias)
 
