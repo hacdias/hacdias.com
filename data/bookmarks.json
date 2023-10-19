@@ -1,5 +1,25 @@
 [
   {
+    "url": "https://jake.museum/",
+    "title": "JAKE.MUSEUM",
+    "description": "This is a collection of \"visual and hypertext media\" by [Jake](https://jakelazaroff.com/). I really enjoy this idea of preserving websites and keeping your own small museum on the Internet. Maybe inspiring for some ideas.",
+    "tags": [
+      "small-web"
+    ],
+    "date": "2023-10-19T11:56:17.631765Z"
+  },
+  {
+    "url": "https://kevquirk.com/having-a-microblog-on-a-traditional-blog",
+    "title": "Having a Microblog on a Traditional Blog",
+    "description": "This quite describes my thoughts exactly. I've had a \"notes\", a \"micro\", a whatever-you-want-to-call-microblogging-section, before. But I've come to peace with no longer having it and using Mastodon instead. It works for what I want, which is similar to the feelings described in the post.",
+    "tags": [
+      "personal-website",
+      "small-web",
+      "blogging"
+    ],
+    "date": "2023-10-19T11:45:28.1837Z"
+  },
+  {
     "url": "https://ntietz.com/blog/write-more-useless-software/",
     "title": "Write more \"useless\" software",
     "description": "Found this post today on HN, and came across this post today about writing what the author calls \"useless\" software. I certainly \"vibed\" with the post and its [discussion](https://news.ycombinator.com/item?id=37911900) on HN. I think that since I started working full time, I haven't done anything much fun programming-wise outside of work. Not counting my website, but that is what it is.",
