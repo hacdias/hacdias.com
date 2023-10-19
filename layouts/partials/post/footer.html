@@ -1,8 +1,8 @@
 {{ if not .Listing }}
   {{ if in (slice "articles" "photos" "readings") .Page.Section }}
     <footer>
-      <div class='box'>
-        <p>💬 Reply via:
+      <div class='box' style='background-color: var(--c); color: var(--c-text);'>
+        <p>💬 <strong>Reply via:</strong>
           <a href="mailto:mail@hacdias.com?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-mail</a>,
           <a href='https://fosstodon.org/@hacdias' rel='noopener noreferrer'>Mastodon</a>,
           or
