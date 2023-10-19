@@ -311,7 +311,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 34,
+    "count": 35,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -440,6 +440,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://en.wikipedia.org/wiki/GPS_Exchange_Format"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Fediverse"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
@@ -1632,6 +1636,20 @@
     ]
   },
   {
+    "domain": "spotify.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music-22/",
+        "targetUrl": "https://spotify.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
+        "targetUrl": "https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd"
+      }
+    ]
+  },
+  {
     "domain": "stackoverflow.com",
     "count": 2,
     "links": [
@@ -2746,16 +2764,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/05/06/visit-to-the-spoorwegmuseum/",
         "targetUrl": "https://www.spoorwegmuseum.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "spotify.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music-22/",
-        "targetUrl": "https://spotify.com/"
       }
     ]
   },
