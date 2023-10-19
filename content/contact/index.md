@@ -6,9 +6,9 @@ Do you have any feedback, or just want to go for a chat? Feel free to reach out 
 
 <!--more-->
 
-## 📧 E-mail
+## 📧 E-mail {#email}
 
-E-mail is the easiest way to reach out to me, and I'll likely reply within 48 hours. In the unlikely event you may want to send me something encrypted, you can also use my PGP key linked below.
+E-mail is the easiest way to reach out to me. Feel free to just write me an e-mail, invite for a chat, or anything else. I'll likely reply within 48 hours. In the unlikely event you may want to send me something encrypted, you can also use my PGP key linked below.
 
 <div class='terms grid bold'>
 
