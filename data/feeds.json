@@ -201,6 +201,16 @@
       "feed": "https://meowni.ca/atom.xml"
     },
     {
+      "title": "Nikita Karamov",
+      "site": "https://www.kytta.dev/blog/",
+      "feed": "https://www.kytta.dev/blog/atom.xml"
+    },
+    {
+      "title": "Niq",
+      "site": "https://niqwithq.com",
+      "feed": "https://niqwithq.com/feed.xml"
+    },
+    {
       "title": "Oscar's Blog",
       "site": "https://oscarbenedito.com/blog/",
       "feed": "https://oscarbenedito.com/blog/index.xml"
