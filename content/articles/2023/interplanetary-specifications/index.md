@@ -6,6 +6,7 @@ tags:
 - talk
 syndications:
 - https://www.youtube.com/watch?v=vQVnjEIPuCE
+feedContentWarning: true
 ---
 
 I gave a lightening talk ⚡️ at [IPFS þing 2023](https://2023.ipfs-thing.io/) on the 19th of April, about the progress we have made over the past months
