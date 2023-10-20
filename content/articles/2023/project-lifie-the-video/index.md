@@ -1,6 +1,6 @@
 ---
 title: "Project Lifie: The Video"
-date: 2023-10-20T10:00:00+02:00
+date: 2023-10-20T09:05:20+02:00
 description: After collecting a daily selfie for the past 6 years, here is the final video.
 ---
 
