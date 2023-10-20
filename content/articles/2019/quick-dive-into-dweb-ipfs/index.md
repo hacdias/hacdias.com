@@ -8,6 +8,7 @@ tags:
 - talk
 syndications:
 - https://www.youtube.com/watch?v=EmxUyuCD37Q
+feedContentWarning: true
 ---
 
 A few days ago, on the 30th of November, I gave my first talk at [BarcampLX](https://www.meetup.com/BarcampLx/events/265593046/),
