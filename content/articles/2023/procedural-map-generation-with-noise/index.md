@@ -10,7 +10,6 @@ tags:
 - javascript
 aliases:
 - /minisites/mapgen
-feedContentWarning: true
 ---
 
 I wanted to write an article and, even though I have a list of drafts and ideas about things I want to write, I thought: hmm, I would like to do something more fun. That reminded me of the article I wrote about fractal snowflakes and how to [generate](/2021/02/15/magic-fractal-snowflakes/) them, which gave me an idea 💡!

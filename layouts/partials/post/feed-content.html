@@ -1,4 +1,6 @@
-{{- if .Params.feedContentWarning -}}
-  <strong>Not all of the content might be visible on your feed reader. Consider checking out the original post.</strong>
-{{- end -}}
+<em>
+  ⚠️ The content on the feed reader might be incomplete or not look at intended.
+  Please consider reading it in the <a href="{{ .Permalink }}">original website</a>.
+</em>
+
 {{- partialCached "post/content" . .Permalink }}
