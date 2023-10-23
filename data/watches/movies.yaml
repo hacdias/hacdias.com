@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Sonic the Hedgehog 2
+  date: 2023-10-21
+  rating: 3
 - name: Downsizing
   date: 2023-09-30
   rating: 3
