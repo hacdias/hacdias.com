@@ -311,7 +311,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 35,
+    "count": 36,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -331,6 +331,10 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2015/04/06/3-things-i-would-like-to-be/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Software_engineer"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2015/04/06/3-things-i-would-like-to-be/",
         "targetUrl": "https://en.wikipedia.org/wiki/Writer"
       },
       {
@@ -338,20 +342,16 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Photographer"
       },
       {
-        "sourceUrl": "https://hacdias.com/2015/04/06/3-things-i-would-like-to-be/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Software_engineer"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
         "targetUrl": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion"
       },
       {
         "sourceUrl": "https://hacdias.com/2015/08/26/portugal-amazing-country/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Ducal_Palace_of_Vila_Vi%C3%A7osa"
+        "targetUrl": "https://en.wikipedia.org/wiki/Pena_National_Palace"
       },
       {
         "sourceUrl": "https://hacdias.com/2015/08/26/portugal-amazing-country/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Pena_National_Palace"
+        "targetUrl": "https://en.wikipedia.org/wiki/Ducal_Palace_of_Vila_Vi%C3%A7osa"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/04/18/trying-pixel-art/",
@@ -383,11 +383,11 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Serra_da_Estrela"
+        "targetUrl": "https://en.wikipedia.org/wiki/Koch_snowflake"
       },
       {
         "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Koch_snowflake"
+        "targetUrl": "https://en.wikipedia.org/wiki/Serra_da_Estrela"
       },
       {
         "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
@@ -440,6 +440,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://en.wikipedia.org/wiki/GPS_Exchange_Format"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/31/october-23/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Limburgish"
       },
       {
         "sourceUrl": "https://hacdias.com/contact/",
@@ -1524,6 +1528,20 @@
     ]
   },
   {
+    "domain": "miljoenenlijn.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/31/october-23/",
+        "targetUrl": "https://miljoenenlijn.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://miljoenenlijn.nl/"
+      }
+    ]
+  },
+  {
     "domain": "modernconsensus.com",
     "count": 2,
     "links": [
@@ -2464,16 +2482,6 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://www.microsoft.com/pt-pt/"
-      }
-    ]
-  },
-  {
-    "domain": "miljoenenlijn.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://miljoenenlijn.nl/"
       }
     ]
   },
