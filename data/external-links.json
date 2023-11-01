@@ -145,7 +145,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
-        "targetUrl": "https://github.com/hacdias/eagle-js"
+        "targetUrl": "https://github.com/hacdias/eagle/tree/fe423b34f3c2cc9e1d72a52312e61a46c2294a6f"
       },
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
@@ -213,7 +213,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2023/03/26/the-day-i-hacked-my-schools-library-computers/",
-        "targetUrl": "https://github.com/hacdias/fake-bsod/blob/master/BSOD/main.cpp#L36"
+        "targetUrl": "https://github.com/hacdias/playground/tree/2e5f03badf31f10c7415ab44ae2e58e460c448d2/cpp/fake-bsod"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
