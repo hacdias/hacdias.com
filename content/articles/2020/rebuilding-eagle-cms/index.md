@@ -27,7 +27,7 @@ So my idea is not to create a full-blown CMS, just like [@jlelse][goblog] is doi
 
 I can see two main advantages: 1. I can focus on the functionality I want to build without having to worry about template parsing and all that - just keep it as it is! - and; 2. the static result can still be hosted in IPFS or any other decentralized shared file system.
 
-This is not the first time I [think][dynamic] about building my own CMS though. I had the same thoughts during quarantine, a few months ago, but ended up not implementing anything. Right now, I managed to move my [old API](https://github.com/hacdias/eagle-js) from Node.js to [Go](https://github.com/hacdias/eagle) and I'm quite happy with the result.
+This is not the first time I [think][dynamic] about building my own CMS though. I had the same thoughts during quarantine, a few months ago, but ended up not implementing anything. Right now, I managed to move my [old API](https://github.com/hacdias/eagle/tree/fe423b34f3c2cc9e1d72a52312e61a46c2294a6f) from Node.js to [Go](https://github.com/hacdias/eagle) and I'm quite happy with the result.
 
 I managed to migrate the Micropub, Webmentions and all other services I had to the new Go system. And... I just hope everything is working. I tested it thoroughly on a testing domain and it seemed fine and fixed all te bugs I could find. I'm pretty sure more will show up soon, but that's something for another day!
 
