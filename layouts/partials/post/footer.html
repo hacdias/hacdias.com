@@ -1,14 +1,17 @@
 {{ if not .Listing }}
   {{ if in (slice "articles" "photos" "readings") .Page.Section }}
     <footer>
-      <div class='box' style='background-color: var(--c); color: var(--c-text);'>
-        <p>💬 <strong>Reply via:</strong>
-          <a href="mailto:mail@hacdias.com?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-mail</a>,
-          <a href='https://fosstodon.org/@hacdias' rel='noopener noreferrer'>Mastodon</a>,
-          or
-          <a href='https://twitter.com/hacdias' rel='noopener noreferrer'>X</a>.
-        </p>
-      </div>
+      <a href="mailto:mail@hacdias.com?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>
+        <button>
+          💬 Reply Via E-Mail
+        </button>
+      </a>
+
+      <a href="{{ absURL "/support" }}">
+        <button style="background: #dd2e45; color: #fff; border-color: #dd2e45;">
+          🤍 Support My Work
+        </button>
+      </a>
     </footer>
   {{ end }}
 {{ end }}
