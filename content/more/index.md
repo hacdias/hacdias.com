@@ -19,6 +19,7 @@ This website contains more things than it looks at first glance. This page conta
 - [📸 Photos](/photos/)
 - [📚 Readings](/readings/)
 - [🎓 Resume](/resume/)
+- [❤️ Support](/support/)
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
