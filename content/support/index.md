@@ -9,4 +9,4 @@ If I somehow affected you in a positive way, feel free to support me. It can eit
 
 If you prefer to send anything crypto, also feel free:
 
-- {{< favicon "ethereum.org" >}} **Ethereum**: `hacdias.eth` (`0x510214cd44B3a5f8F7Fa01a650FE87A0ce4305eE`)
+- {{< favicon "ethereum.org" >}} **Ethereum**: `0x510214cd44B3a5f8F7Fa01a650FE87A0ce4305eE`
