@@ -2336,6 +2336,16 @@
     ]
   },
   {
+    "domain": "ko-fi.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/support/",
+        "targetUrl": "https://ko-fi.com/hacdias"
+      }
+    ]
+  },
+  {
     "domain": "kobobooks.com",
     "count": 1,
     "links": [
@@ -2362,6 +2372,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
         "targetUrl": "https://launchpad.net/php-gettext/"
+      }
+    ]
+  },
+  {
+    "domain": "liberapay.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/support/",
+        "targetUrl": "https://liberapay.com/hacdias/"
       }
     ]
   },
