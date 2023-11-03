@@ -16,7 +16,7 @@ Since an early age, I have been curious about computers and I always wanted to w
 
 ![Henrique's Photograph during IPFS þing 2023](cdn:/2023-04-ipfs-thing?class=fw&caption=false "Trying to give a talk.")
 
-During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest, if not the largest, tech blog in Portugal. I wrote over 400 tutorials, tech news and other articles. In addition, I published a 60 page e-book on how to program in C for beginners at the age of 15. Furthermore, I had the opportunity to do some software development work at [Upframe](https://upframe.io/) where I met some amazing people.
+During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest, if not the largest, tech blog in Portugal. I wrote over 400 tutorials, tech news and other articles. In addition, I published a 60 page e-book on how to program in C for beginners at the age of 15. Furthermore, I had the opportunity to do some software development work at [Upframe](https://github.com/upframe) where I met some amazing people.
 
 After secondary school, I moved to Lisbon in order to pursue a BSc in Information Systems and Computer Engineering. I spent three years studying at [IST](https://tecnico.ulisboa.pt/pt/), where I met amazing people during my stay. At the same time, I got recruited for [Protocol Labs](https://protocol.ai/), where I have been working on decentralizing the web since then.
 

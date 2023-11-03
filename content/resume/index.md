@@ -63,7 +63,7 @@ I am a software engineer who cares about the web, decentralization, identity, us
 [Testground]: http://testground.ai/
 [IPFS Desktop]: https://github.com/ipfs/ipfs-desktop
 [IPFS Web UI]: https://github.com/ipfs/ipfs-webui
-[Upframe]: https://upframe.io
+[Upframe]: https://github.com/upframe
 [Pplware]: https://pplware.sapo.pt
 [Pplware Me]: https://pplware.sapo.pt/author/henrique_dias/
 [Pplware Kids]: https://kids.pplware.sapo.pt/author/henrique_dias/
