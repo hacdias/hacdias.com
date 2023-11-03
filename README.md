@@ -1,13 +1,10 @@
-# [hacdias.com](https://hacdias.com)
+# hacdias.com
 
-The source 🧙‍♂️ of my website.
+> 🧙‍♂️ The source code of [hacdias.com](https://hacdias.com)
 
----
+## Configuration
 
-The license applies to the _source code_ used to build the website and **not**
-to the _contents_ of the website itself.
-
-## Serve `humans.txt` when using `curl`
+### Caddy: serve `humans.txt` when using `curl`
 
 ```caddy
 @curl {
@@ -17,3 +14,7 @@ to the _contents_ of the website itself.
 
 rewrite @curl /humans.txt
 ```
+
+## License
+
+[MIT License](LICENSE) © [Henrique Dias](https://hacdias.com) [content not included]

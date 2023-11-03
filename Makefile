@@ -16,6 +16,9 @@ clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
 
+build:
+	hugo --minify
+
 watch:
 	hugo server --watch --minify
 
