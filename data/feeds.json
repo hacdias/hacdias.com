@@ -241,6 +241,11 @@
       "feed": "https://pudesse-eu.tumblr.com/rss"
     },
     {
+      "title": "Robin Berjon",
+      "site": "https://berjon.com/",
+      "feed": "https://berjon.com/feed.atom"
+    },
+    {
       "title": "Rohan Kumar",
       "site": "https://seirdy.one",
       "feed": "https://seirdy.one/atom.xml"
