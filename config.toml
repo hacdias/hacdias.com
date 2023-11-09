@@ -58,7 +58,7 @@ summaryLength = 300
   [params.author]
     name = 'Henrique Dias'
     email = 'mail@hacdias.com'
-    photo = 'https://hacdias.com/avatar/256.jpg'
+    photo = 'https://hacdias.com/avatar/512.jpg'
     identities = [
       'https://github.com/hacdias',
       'https://instagram.com/hacdias',
