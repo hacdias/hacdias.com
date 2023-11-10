@@ -1122,6 +1122,24 @@
     ]
   },
   {
+    "domain": "fosstodon.org",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
+        "targetUrl": "https://fosstodon.org/@hacdias"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/10/updates-on-indieweb-go-libraries/",
+        "targetUrl": "https://fosstodon.org/@jle/111351505430671803"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://fosstodon.org/@hacdias"
+      }
+    ]
+  },
+  {
     "domain": "garmin.com",
     "count": 3,
     "links": [
@@ -1382,20 +1400,6 @@
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://dinnertrain.eu/"
-      }
-    ]
-  },
-  {
-    "domain": "fosstodon.org",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
-        "targetUrl": "https://fosstodon.org/@hacdias"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://fosstodon.org/@hacdias"
       }
     ]
   },
@@ -2900,6 +2904,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/03/31/march-23/",
         "targetUrl": "https://tryhackme.com/"
+      }
+    ]
+  },
+  {
+    "domain": "uber.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/10/updates-on-indieweb-go-libraries/",
+        "targetUrl": "https://go.uber.org/sally"
       }
     ]
   },
