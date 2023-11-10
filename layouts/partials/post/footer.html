@@ -1,13 +1,13 @@
 {{ if not .Listing }}
   {{ if in (slice "articles" "photos" "readings") .Page.Section }}
     <footer>
-      <a href="mailto:mail@hacdias.com?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>
+      <a class="nl" href="mailto:mail@hacdias.com?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>
         <button>
           💬 Reply Via E-Mail
         </button>
       </a>
 
-      <a href="{{ absURL "/support" }}">
+      <a class="nl" href="{{ absURL "/support" }}">
         <button style="background: #dd2e45; color: #fff; border-color: #dd2e45;">
           🤍 Support My Work
         </button>
