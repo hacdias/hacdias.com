@@ -1,17 +1,7 @@
 {{ if not .Listing }}
   {{ if in (slice "articles" "photos" "readings") .Page.Section }}
-    <footer>
-      <div class="box">
-        <p>
-          💬 <strong>Your feedback matters!</strong> Reply via
-          <a href="mailto:mail@hacdias.com?subject=Concerning: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
-          <a href="https://fosstodon.org/@hacdias" rel='noopener noreferrer'>Mastodon</a>,
-          <a href="https://bsky.app/profile/hacdias.com" rel='noopener noreferrer'>Bluesky</a>.
-        </p>
-        <p>
-          ❤️ <strong>Enjoyed this post or my work?</strong> Consider <a href="{{ absURL "/support" }}">supporting me</a>!
-        </p>
-      </div>
+    <footer class="box">
+      {{- partialCached "post/callout" . .Permalink }}
     </footer>
   {{ end }}
 {{ end }}
