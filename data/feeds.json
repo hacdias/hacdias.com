@@ -156,6 +156,11 @@
       "feed": "https://jvns.ca/atom.xml"
     },
     {
+      "title": "Kev Quirk",
+      "site": "https://kevquirk.com",
+      "feed": "https://kevquirk.com/feed"
+    },
+    {
       "title": "Marius Schulz",
       "site": "https://mariusschulz.com/",
       "feed": "https://feeds.feedburner.com/mariusschulz"
