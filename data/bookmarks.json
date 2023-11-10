@@ -1,5 +1,26 @@
 [
   {
+    "url": "https://systemfontstack.com/",
+    "title": "System Font Stack",
+    "description": "Just a list of safe fonts to use in the web. I always believed the least amount of fonts on a website the better. I have personally not been importing any external fonts for years.",
+    "tags": [
+      "web",
+      "fonts"
+    ],
+    "date": "2023-11-10T16:16:23.196971Z"
+  },
+  {
+    "url": "https://jeffhuang.com/designed_to_last/",
+    "title": "This Page is Designed to Last: A Manifesto for Preserving Content on the Web",
+    "description": "Very interesting post on how to make long lasting web pages. The 7 most important points are:\n\n1. Return to vanilla HTML/CSS\n2. Don't minimize HTML\n3. Prefer one long page over several\n4. Do not hotlink\n5. Stick with native fonts\n6. Compress, compress, compress (images)!\n7. Eliminate broken URL risk",
+    "tags": [
+      "archive",
+      "web",
+      "preserveration"
+    ],
+    "date": "2023-11-10T16:14:32.202061Z"
+  },
+  {
     "url": "https://jake.museum/",
     "title": "JAKE.MUSEUM",
     "description": "This is a collection of \"visual and hypertext media\" by [Jake](https://jakelazaroff.com/). I really enjoy this idea of preserving websites and keeping your own small museum on the Internet. Maybe inspiring for some ideas.",
