@@ -91,6 +91,11 @@
       "feed": "https://garrit.xyz/rss.xml"
     },
     {
+      "title": "Herman Martinus",
+      "site": "https://herman.bearblog.dev/",
+      "feed": "https://herman.bearblog.dev/feed/?type=rss"
+    },
+    {
       "title": "Horst Gutmann",
       "site": "https://zerokspot.com/",
       "feed": "https://zerokspot.com/index.xml"
@@ -174,6 +179,11 @@
       "title": "Martin Tournoij",
       "site": "https://www.arp242.net/",
       "feed": "https://www.arp242.net/feed.xml"
+    },
+    {
+      "title": "Mastodon Blog",
+      "site": "https://blog.joinmastodon.org/",
+      "feed": "https://blog.joinmastodon.org/index.xml"
     },
     {
       "title": "Matt Baer",
@@ -355,6 +365,11 @@
   ],
   "general": [
     {
+      "title": "Alpine Linux News",
+      "site": "https://alpinelinux.org/atom.xml",
+      "feed": "https://alpinelinux.org/atom.xml"
+    },
+    {
       "title": "Annoying Technology",
       "site": "https://annoying.technology/",
       "feed": "https://annoying.technology/index.xml"
@@ -380,9 +395,19 @@
       "feed": "https://goblog.app/.rss"
     },
     {
+      "title": "Golang Weekly",
+      "site": "https://golangweekly.com/",
+      "feed": "https://cprss.s3.amazonaws.com/golangweekly.com.xml"
+    },
+    {
       "title": "Jon Worth",
       "site": "https://jonworth.eu/",
       "feed": "https://jonworth.eu/feed/"
+    },
+    {
+      "title": "Miniflux",
+      "site": "https://miniflux.app",
+      "feed": "https://miniflux.app/feed.xml"
     },
     {
       "title": "Security.NL",
@@ -390,26 +415,14 @@
       "feed": "https://www.security.nl/rss/headlines.xml"
     },
     {
+      "title": "The Go Blog",
+      "site": "https://go.dev/blog/feed.atom",
+      "feed": "https://go.dev/blog/feed.atom"
+    },
+    {
       "title": "zdimension",
       "site": "https://zdimension.fr/",
       "feed": "https://zdimension.fr/feed.xml"
-    }
-  ],
-  "me": [
-    {
-      "title": "Articles - Henrique Dias",
-      "site": "https://hacdias.com/articles/",
-      "feed": "https://hacdias.com/articles/feed.xml"
-    },
-    {
-      "title": "Home - Henrique Dias",
-      "site": "https://hacdias.com/",
-      "feed": "https://hacdias.com/feed.xml"
-    },
-    {
-      "title": "Photos - Henrique Dias",
-      "site": "https://hacdias.com/photos/",
-      "feed": "https://hacdias.com/photos/feed.json"
     }
   ]
 }
