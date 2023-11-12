@@ -1,5 +1,25 @@
 [
   {
+    "url": "https://html-first.com/",
+    "title": "HTML First",
+    "description": "This article goes over \"HTML First is a set of principles that aims to make building web software easier, faster, more inclusive, and more maintainable\".",
+    "tags": [
+      "archive",
+      "preserveration",
+      "html"
+    ],
+    "date": "2023-11-12T21:46:44.771878Z"
+  },
+  {
+    "url": "https://arne.me/articles/archive-your-old-projects",
+    "title": "Archive Your Old Projects",
+    "description": "Arne describes what he does to his old projects. Quite enjoyed reading this article as I mostly agree: keep them online. Lots of my old projects don't have their website anymore, but I keep them around in some repository. I hope for the future I will build some sort of digital museum.",
+    "tags": [
+      "archive"
+    ],
+    "date": "2023-11-12T21:45:57.960147Z"
+  },
+  {
     "url": "https://systemfontstack.com/",
     "title": "System Font Stack",
     "description": "Just a list of safe fonts to use in the web. I always believed the least amount of fonts on a website the better. I have personally not been importing any external fonts for years.",
