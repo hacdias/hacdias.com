@@ -71,6 +71,11 @@
       "feed": "https://daverupert.com/atom.xml"
     },
     {
+      "title": "Drew DeVault",
+      "site": "https://drewdevault.com",
+      "feed": "https://drewdevault.com/blog/index.xml"
+    },
+    {
       "title": "ExpLog",
       "site": "https://explog.in/",
       "feed": "https://explog.in/rss.xml"
@@ -179,11 +184,6 @@
       "title": "Martin Tournoij",
       "site": "https://www.arp242.net/",
       "feed": "https://www.arp242.net/feed.xml"
-    },
-    {
-      "title": "Mastodon Blog",
-      "site": "https://blog.joinmastodon.org/",
-      "feed": "https://blog.joinmastodon.org/index.xml"
     },
     {
       "title": "Matt Baer",
@@ -403,6 +403,11 @@
       "title": "Jon Worth",
       "site": "https://jonworth.eu/",
       "feed": "https://jonworth.eu/feed/"
+    },
+    {
+      "title": "Mastodon",
+      "site": "https://blog.joinmastodon.org/",
+      "feed": "https://blog.joinmastodon.org/index.xml"
     },
     {
       "title": "Miniflux",

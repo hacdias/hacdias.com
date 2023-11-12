@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sat, 11 Nov 2023 21:25:53 UTC</dateCreated>
+        <dateCreated>Sun, 12 Nov 2023 23:00:00 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -21,6 +21,7 @@
             <outline title="Daniel Stenberg" text="Daniel Stenberg" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog"></outline>
             <outline title="Danny van Kooten" text="Danny van Kooten" xmlUrl="https://www.dannyvankooten.com/atom.xml" htmlUrl="https://dannyvankooten.com/"></outline>
             <outline title="Dave Rupert" text="Dave Rupert" xmlUrl="https://daverupert.com/atom.xml" htmlUrl="https://daverupert.com"></outline>
+            <outline title="Drew DeVault" text="Drew DeVault" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com"></outline>
             <outline title="ExpLog" text="ExpLog" xmlUrl="https://explog.in/rss.xml" htmlUrl="https://explog.in/"></outline>
             <outline title="Feross Aboukhadijeh" text="Feross Aboukhadijeh" xmlUrl="https://feross.org/atom.xml" htmlUrl="https://feross.org"></outline>
             <outline title="Filippo Valsorda" text="Filippo Valsorda" xmlUrl="https://words.filippo.io/rss/" htmlUrl="https://blog.filippo.io/"></outline>
@@ -43,7 +44,6 @@
             <outline title="Marius Schulz" text="Marius Schulz" xmlUrl="https://feeds.feedburner.com/mariusschulz" htmlUrl="https://mariusschulz.com/"></outline>
             <outline title="Martin Frederic" text="Martin Frederic" xmlUrl="https://mew.tv/feeds/news.atom" htmlUrl="https://mew.tv/"></outline>
             <outline title="Martin Tournoij" text="Martin Tournoij" xmlUrl="https://www.arp242.net/feed.xml" htmlUrl="https://www.arp242.net/"></outline>
-            <outline title="Mastodon Blog" text="Mastodon Blog" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/"></outline>
             <outline title="Matt Baer" text="Matt Baer" xmlUrl="https://write.as/matt/feed/" htmlUrl="https://write.as/matt/"></outline>
             <outline title="Max Böck" text="Max Böck" xmlUrl="https://mxb.dev/feed.xml" htmlUrl="https://mxb.dev"></outline>
             <outline title="Max Inden" text="Max Inden" xmlUrl="https://max-inden.de/index.xml" htmlUrl="https://max-inden.de/"></outline>
@@ -90,6 +90,7 @@
             <outline title="Go, blog with GoBlog!" text="Go, blog with GoBlog!" xmlUrl="https://goblog.app/.rss" htmlUrl="https://goblog.app"></outline>
             <outline title="Golang Weekly" text="Golang Weekly" xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" htmlUrl="https://golangweekly.com/"></outline>
             <outline title="Jon Worth" text="Jon Worth" xmlUrl="https://jonworth.eu/feed/" htmlUrl="https://jonworth.eu/"></outline>
+            <outline title="Mastodon" text="Mastodon" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/"></outline>
             <outline title="Miniflux" text="Miniflux" xmlUrl="https://miniflux.app/feed.xml" htmlUrl="https://miniflux.app"></outline>
             <outline title="Security.NL" text="Security.NL" xmlUrl="https://www.security.nl/rss/headlines.xml" htmlUrl="https://www.security.nl"></outline>
             <outline title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom"></outline>
