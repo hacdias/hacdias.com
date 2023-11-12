@@ -6,7 +6,7 @@ In this page, you can find an alphabetically sorted list of blogs, websites and 
 
 <!--more-->
 
-<a href="feeds.opml" download><button>Download</button></a>
+<a href="./feeds.opml" download='feeds.opml'><button>Download</button></a>
 
 ## 🖊️ Blogs {#blogs}
 
