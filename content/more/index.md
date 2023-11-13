@@ -2,27 +2,31 @@
 title: What Else Can I Find?
 ---
 
-This website contains more things than it looks at first glance. This page contains a list of almost everything you can find here. However, it does not show everything. Some things are up for you to discover 🧭!
+This website contains more things than it looks at first glance. This page contains a list of every page that I deem important that is not on the main navigation. However, it does not show everything. Some things are up for you to discover!
 
 <!--more-->
 
 <div class='terms grid bold'>
 
-- [🧁 About](/about/)
-- [✏️ Articles](/articles/)
 - [🔖 Bookmarks](/bookmarks/)
 - [🗞️ Blogroll](/blogroll/)
-- [✉️ Contact](/contact/)
-- [📖 Guestbook](/guestbook/)
 - [🖼️ Graphics](/graphics/)
 - [🚀 Impossible List](/impossible-list/)
-- [📸 Photos](/photos/)
 - [📚 Readings](/readings/)
 - [🎓 Resume](/resume/)
 - [❤️ Support](/support/)
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
+
+<!-- 
+In navigation:
+- [🧁 About](/about/)
+- [✏️ Articles](/articles/)
+- [✉️ Contact](/contact/)
+- [📸 Photos](/photos/)
+- [📖 Guestbook](/guestbook/)
+-->
 
 </div>
 
