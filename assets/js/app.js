@@ -45,7 +45,7 @@ function addEmoji (el) {
     const span = document.createElement('span')
     span.title = title
     span.innerText = emoji
-    el.innerHTML = span.outerHTML
+    el.appendChild(span)
   }
 }
 
@@ -84,6 +84,6 @@ function setupPreview() {
   })
 }
 
-addEmoji(document.querySelector('#egg'))
+addEmoji(document.querySelector('#header .name'))
 parseEmojis(document.body)
 setupPreview()
