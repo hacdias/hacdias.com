@@ -49,9 +49,8 @@
 {{ end }}
 
 {{ $normalize := resources.Get "css/vendor/normalize.css" }}
-{{ $base := resources.Get "css/base.css" }}
-{{ $cards := resources.Get "css/cards.css" }}
-{{ $css := slice $normalize $base $cards | resources.Concat "css/styles.css" }}
+{{ $base := resources.Get "css/styles.css" }}
+{{ $css := slice $normalize $base | resources.Concat "css/styles.css" }}
 {{ $secureCSS := $css | resources.Fingerprint "sha512" }}
 <link rel='stylesheet' href='{{ $secureCSS.Permalink }}' integrity='{{ $secureCSS.Data.Integrity }}'>
 
