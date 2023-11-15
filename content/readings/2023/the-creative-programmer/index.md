@@ -9,6 +9,8 @@ read:
   pages: 232
   uid: isbn:9781633439054
 rating: 4
+syndications:
+- https://fosstodon.org/@hacdias/110530107064412338
 ---
 
 Last night I thought: tomorrow morning I will finish reading *The Creative Programmer*,

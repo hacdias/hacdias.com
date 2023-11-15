@@ -4,6 +4,8 @@ date: 2023-04-18T18:30:00+02:00
 tags:
 - decentralization
 - telemetry
+syndications:
+- https://fosstodon.org/@hacdias/110224097052796658
 ---
 
 Recently, I have been working with Open Telemetry tracing at work, namely on adding

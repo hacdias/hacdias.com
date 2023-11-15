@@ -6,6 +6,8 @@ tags:
 - trains
 - museums
 - infrastructure
+syndications:
+- https://fosstodon.org/@hacdias/110323610429118818
 ---
 
 <style>
