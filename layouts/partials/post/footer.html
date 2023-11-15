@@ -1,6 +1,6 @@
 {{ if not .Listing }}
   {{ if in (slice "articles" "photos" "readings") .Page.Section }}
-    <footer class="box">
+    <footer class="box small">
       {{- partialCached "post/callout" . .Permalink }}
     </footer>
   {{ end }}
