@@ -2,6 +2,8 @@
 title: "Processing Bosch's eBike Flow FIT Files"
 date: 2023-10-11T15:37:37+02:00
 tags: [cycling]
+syndications:
+- https://fosstodon.org/@hacdias/111218079645039127
 ---
 
 I have recently acquired a new - and my first - electric bike from Gazelle, a "staple" Dutch brand, and it is powered by a [Bosch motor](https://www.bosch-ebike.com/). Bosch has made this app, [eBike Flow](https://www.bosch-ebike.com/en/products/ebike-flow-app), which allows you to connect to the bike and use it to track your complete bike ride. In this article, I am going to go over some of the issues I have had and how I have been trying to solve them.

@@ -3,6 +3,8 @@ title: "Project Lifie: The Video"
 date: 2023-10-20T09:05:20+02:00
 description: After collecting a daily selfie for the past 7 years, here is the final video.
 feedContentWarning: true
+syndications:
+- https://fosstodon.org/@hacdias/111266075579921337
 ---
 
 In May 2016, I decided to start taking a daily selfie for the next following years. A daily selfie of my life, a lifie. At the time, I did not really think about for how long I would want to do this. Sometimes I thought about stopping it, sometimes I thought about making a video. However, that time never came, until now.

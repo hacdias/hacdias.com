@@ -1,6 +1,8 @@
 ---
 title: "App Defaults in Late 2023"
 date: 2023-11-08T12:06:51+01:00
+syndications:
+- https://fosstodon.org/@hacdias/111374608169041824
 ---
 
 This recent trend has been popping up lately in my RSS feed, so I decided to join. If you like it, check [Robb Knight's list](https://defaults.rknight.me/) of App Defaults blog posts. Here's the list:
