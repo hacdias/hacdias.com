@@ -35,6 +35,7 @@
         <a class='nl u-syndication' rel="noopener noreferrer" href="{{ . }}">
           {{ $domain := (urls.Parse .).Host }}
           {{- if strings.Contains $domain "twitter.com" }}🐦
+          {{- else if strings.Contains $domain "fosstodon.org" }}🐘
           {{- else if strings.Contains $domain "instagram.com" }}📷
           {{ else }}🔗{{ end -}}
         </a>
