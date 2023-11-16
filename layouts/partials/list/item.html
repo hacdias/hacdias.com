@@ -9,7 +9,11 @@
   {{- else }}
     {{- partialCached "post/content" . .Permalink }}
   {{- end }}
-  {{- partialCached "post/footer" $data .Permalink $data.Listing }}
+  <div class="h-card u-author" hidden>
+    Authored by
+    <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
+    <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
+  </div>
   {{- if $isLong }}
     <a href='{{ .RelPermalink }}' class='more'>Read More →</a>
   {{- end }}

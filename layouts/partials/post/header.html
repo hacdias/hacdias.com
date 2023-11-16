@@ -1,5 +1,5 @@
 {{- with .Page }}
-  {{ $metadata := or (not .Date.IsZero) (not .Lastmod.IsZero) .Params.syndications .Params.tags }}
+  {{ $metadata := or (not .Date.IsZero) (not .Lastmod.IsZero) }}
   {{ if or .Title $metadata }}
   <header>
     {{ if .Title }}
@@ -26,20 +26,6 @@
           </time>
         {{- end -}}
       </a>
-
-      {{ range .Params.tags -}}
-        <a class="tag" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" .)).RelPermalink }}">#{{ . }}</a>
-      {{ end -}}
-
-      {{ range .Params.syndications }}
-        <a class='nl u-syndication' rel="noopener noreferrer" href="{{ . }}">
-          {{ $domain := (urls.Parse .).Host }}
-          {{- if strings.Contains $domain "twitter.com" }}🐦
-          {{- else if strings.Contains $domain "fosstodon.org" }}🐘
-          {{- else if strings.Contains $domain "instagram.com" }}📷
-          {{ else }}🔗{{ end -}}
-        </a>
-      {{ end }}
     </p>
     {{ end }}
   </header>
