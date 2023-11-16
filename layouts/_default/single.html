@@ -1,7 +1,6 @@
 {{ define "main" }}
   <article class='h-entry'>
-    {{- $data := dict "Page" . "Listing" false -}}
-    {{- partialCached "post/header" $data .Permalink $data.Listing }}
+    {{- partialCached "post/header" . .Permalink }}
     {{- partialCached "post/content" . .Permalink }}
     {{- partialCached "post/footer" . .Permalink }}
   </article>
