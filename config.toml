@@ -59,6 +59,7 @@ summaryLength = 300
     name = 'Henrique Dias'
     email = 'mail@hacdias.com'
     photo = 'https://hacdias.com/avatar/512.jpg'
+    handle = 'hacdias'
     identities = [
       'https://github.com/hacdias',
       'https://instagram.com/hacdias',
