@@ -365,7 +365,7 @@
   ],
   "general": [
     {
-      "title": "Alpine Linux News",
+      "title": "Alpine Linux",
       "site": "https://alpinelinux.org/atom.xml",
       "feed": "https://alpinelinux.org/atom.xml"
     },
