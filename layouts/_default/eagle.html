@@ -1,17 +1,7 @@
 {{ define "main" }}
-  <no-eagle-page>
+  <eagle-page>
     <div class='box'>
-      <p>⚠️ This page is only functional when using <a href='https://github.com/hacdias/eagle' rel='noopener noreferrer'>Eagle</a>.</p>
-    </div>
-  </no-eagle-page>
-
-  <eagle-page class='dn'>
-    <header>
-      <h1>{{- .Title -}}</h1>
-    </header>
-
-    <div>
-      {{- with .Content }}{{ . }}{{ end -}}
+      <p>⚠️ This page is only functional when in use with <a href='https://github.com/hacdias/eagle' rel='noopener noreferrer'>Eagle</a>.</p>
     </div>
   </eagle-page>
 {{ end }}

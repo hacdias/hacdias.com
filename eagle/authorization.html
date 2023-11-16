@@ -1,0 +1,77 @@
+<header>
+  <h1>{{ .Title }}</h1>
+</header>
+
+<style>
+.copy ol {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.copy ol input {
+  margin-right: 0.5rem;
+}
+
+.copy ol label {
+  text-transform: capitalize;
+}
+
+#submit  {
+  display: block;
+  width: 100%;
+  margin: 0.5rem 0;
+}
+</style>
+
+<script>
+function addScope() {
+  const scope = window.prompt('Which scope?')
+  if (!scope) return
+  document.getElementById('scopes-list').innerHTML += (
+    `<li><label><input type="checkbox" name="scopes" value="${scope}" checked>${scope}</label></li>`
+  )
+}
+</script>
+
+<div class="copy">
+  <form method='post' action='/auth/accept'>
+    <p>You received an authorization request from the following client:</p>
+    <ul>
+      <li><strong>Client:</strong> <code>{{ .Data.ClientID }}</code></li>
+      <li><strong>Redirect:</strong> <code>{{ .Data.RedirectURI }}</code></li>
+    </ul>
+
+    {{ if not .Data.CodeChallenge }}
+      <div class="box">
+        <p><strong>⚠️ The client is not using PKCE.</strong></p>
+      </div>
+    {{ end }}
+
+    {{ with .Data.Scopes }}
+      <p>This app requests the following scopes. You can choose which scopes will be granted.</p>
+
+      <ol id="scopes-list">
+        {{ range . }}
+          <li><label><input type="checkbox" name="scopes" value="{{ . }}" checked>{{ . }}</label></li>
+        {{ end }}
+        <li><a onclick="javascript:addScope();">Add Scope</a></li>
+      </ol>
+    {{ end }}
+
+    <p>How long should the authorization last?<p>
+    <ol>
+      <li><label><input type="radio" name="expiry" value="7" checked> 1 Week</label></li>
+      <li><label><input type="radio" name="expiry" value="90"> 3 Months</label></li>
+      <li><label><input type="radio" name="expiry" value="180"> 6 Months</label></li>
+      <li><label><input type="radio" name="expiry" value="0"> Infinity</label></li>
+    </ol>
+    <input type="hidden" name="response_type" value="code">
+    <input type="hidden" name="redirect_uri" value="{{ .Data.RedirectURI }}">
+    <input type="hidden" name="client_id" value="{{ .Data.ClientID }}">
+    <input type="hidden" name="state" value="{{ .Data.State }}">
+    <input type="hidden" name="code_challenge" value="{{ .Data.CodeChallenge }}">
+    <input type="hidden" name="code_challenge_method" value="{{ .Data.CodeChallengeMethod }}">
+
+    <button id=submit>Accept</button>
+  </form>
+</div>
