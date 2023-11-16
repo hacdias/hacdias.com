@@ -3,20 +3,22 @@
     {{- partialCached "post/header" . .Permalink false }}
     {{- partialCached "post/content" . .Permalink }}
 
-    <div class='box comment-form'>
-      <div hidden>
-        ℹ️ Your comment has been submitted for approval and I will be looking at it very soon.
-        Thanks for passing by and leaving your mark. Do you want to submit a <a href='{{ relURL "/guestbook" }}'>new entry</a>?
-      </div>
+    {{ if eq hugo.Environment "eagle" }}
+      <div class='box comment-form'>
+        <div hidden>
+          ℹ️ Your comment has been submitted for approval and I will be looking at it very soon.
+          Thanks for passing by and leaving your mark. Do you want to submit a <a href='{{ relURL "/guestbook" }}'>new entry</a>?
+        </div>
 
-      <form method='post' class='block-form'>
-        <input type='text' maxlength='100' name='name' placeholder='Name (optional)' value='' />
-        <input type='url' maxlength='100' name='website' placeholder='Website (optional)' value='' />
-        <textarea required maxlength='500' name='content' placeholder='Comment'></textarea>
-        <input type='url' maxlength='100' name='url' placeholder='If you are human, do not write here.' class='dn' />
-        <button>Comment</button>
-      </form>
-    </div>
+        <form method='post' class='block-form'>
+          <input type='text' maxlength='100' name='name' placeholder='Name (optional)' value='' />
+          <input type='url' maxlength='100' name='website' placeholder='Website (optional)' value='' />
+          <textarea required maxlength='500' name='content' placeholder='Comment'></textarea>
+          <input type='url' maxlength='100' name='url' placeholder='If you are human, do not write here.' class='dn' />
+          <button>Comment</button>
+        </form>
+      </div>
+    {{ end }}
 
     <script>
     const params = new URL(window.location).searchParams;

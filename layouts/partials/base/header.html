@@ -17,10 +17,12 @@
     </div>
   </div>
 
-  <form action='{{ relURL "/search/" }}' method='get' class='inline-form'>
-    <input type='text' placeholder='Search…' id='query' name='query'>
-    <button alt='Search'>🔎</button>
-  </form>
+  {{ if eq hugo.Environment "eagle" }}
+    <form action='{{ relURL "/search/" }}' method='get' class='inline-form'>
+      <input type='text' placeholder='Search…' id='query' name='query'>
+      <button alt='Search'>🔎</button>
+    </form>
+  {{ end }}
 </div>
 
 <input type='checkbox' id='toggler' hidden>
