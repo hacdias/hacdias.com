@@ -2,10 +2,13 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sun, 12 Nov 2023 23:00:00 UTC</dateCreated>
+        <dateCreated>Thu, 16 Nov 2023 08:33:44 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
+            <outline title="Ru Singh" text="Ru Singh" xmlUrl="https://rusingh.com/feed/" htmlUrl="https://rusingh.com/"></outline>
+            <outline title="Interdependent Thoughts" text="Interdependent Thoughts" xmlUrl="https://www.zylstra.org/blog/feed/" htmlUrl="https://www.zylstra.org/blog"></outline>
+            <outline title="James" text="James" xmlUrl="https://granary.io/url?input=html&amp;output=rss&amp;url=https%3A%2F%2Fjamesg.blog" htmlUrl="https://jamesg.blog/"></outline>
             <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.json" htmlUrl="https://aaronparecki.com/"></outline>
             <outline title="Alistair Shepherd" text="Alistair Shepherd" xmlUrl="https://alistairshepherd.uk/feed.xml" htmlUrl="https://www.alistairshepherd.uk/"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog"></outline>
@@ -28,10 +31,8 @@
             <outline title="Garrit Franke" text="Garrit Franke" xmlUrl="https://garrit.xyz/rss.xml" htmlUrl="https://garrit.xyz"></outline>
             <outline title="Herman Martinus" text="Herman Martinus" xmlUrl="https://herman.bearblog.dev/feed/?type=rss" htmlUrl="https://herman.bearblog.dev/"></outline>
             <outline title="Horst Gutmann" text="Horst Gutmann" xmlUrl="https://zerokspot.com/index.xml" htmlUrl="https://zerokspot.com/"></outline>
-            <outline title="Interdependent Thoughts" text="Interdependent Thoughts" xmlUrl="https://www.zylstra.org/blog/feed/" htmlUrl="https://www.zylstra.org/blog"></outline>
             <outline title="Isaac Schlueter" text="Isaac Schlueter" xmlUrl="https://blog.izs.me/feed/feed.json" htmlUrl="https://blog.izs.me/"></outline>
             <outline title="Jake Bauer" text="Jake Bauer" xmlUrl="https://www.paritybit.ca/feed.xml" htmlUrl="https://www.paritybit.ca"></outline>
-            <outline title="James" text="James" xmlUrl="https://granary.io/url?input=html&amp;output=rss&amp;url=https%3A%2F%2Fjamesg.blog" htmlUrl="https://jamesg.blog/"></outline>
             <outline title="James Fenn" text="James Fenn" xmlUrl="https://jfenn.me/blog/feed.xml" htmlUrl="https://jfenn.me/"></outline>
             <outline title="Jamie Tanna" text="Jamie Tanna" xmlUrl="https://www.jvt.me/kind/articles/feed.xml" htmlUrl="https://www.jvt.me/kind/articles/"></outline>
             <outline title="Jan Boddez" text="Jan Boddez" xmlUrl="https://jan.boddez.net/feed" htmlUrl="https://jan.boddez.net"></outline>
@@ -60,7 +61,6 @@
             <outline title="Ricardo Miguel" text="Ricardo Miguel" xmlUrl="https://pudesse-eu.tumblr.com/rss" htmlUrl="https://pudesse-eu.tumblr.com/"></outline>
             <outline title="Robin Berjon" text="Robin Berjon" xmlUrl="https://berjon.com/feed.atom" htmlUrl="https://berjon.com/"></outline>
             <outline title="Rohan Kumar" text="Rohan Kumar" xmlUrl="https://seirdy.one/atom.xml" htmlUrl="https://seirdy.one"></outline>
-            <outline title="Ru Singh" text="Ru Singh" xmlUrl="https://rusingh.com/feed/" htmlUrl="https://rusingh.com/"></outline>
             <outline title="Ryan Barrett" text="Ryan Barrett" xmlUrl="https://snarfed.org/feed" htmlUrl="https://snarfed.org"></outline>
             <outline title="Sebastiaan Andeweg" text="Sebastiaan Andeweg" xmlUrl="https://seblog.nl/feed.rss" htmlUrl="https://seblog.nl/feed"></outline>
             <outline title="Simon Safar" text="Simon Safar" xmlUrl="https://simonsafar.com/index.xml" htmlUrl="https://simonsafar.com"></outline>
@@ -82,7 +82,7 @@
             <outline title="XKCD" text="XKCD" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"></outline>
         </outline>
         <outline text="General">
-            <outline title="Alpine Linux News" text="Alpine Linux News" xmlUrl="https://alpinelinux.org/atom.xml" htmlUrl="https://alpinelinux.org/atom.xml"></outline>
+            <outline title="Alpine Linux" text="Alpine Linux" xmlUrl="https://alpinelinux.org/atom.xml" htmlUrl="https://alpinelinux.org/atom.xml"></outline>
             <outline title="Annoying Technology" text="Annoying Technology" xmlUrl="https://annoying.technology/index.xml" htmlUrl="https://annoying.technology/"></outline>
             <outline title="Ctrl.blog" text="Ctrl.blog" xmlUrl="https://feed.ctrl.blog/latest.atom" htmlUrl="https://www.ctrl.blog/"></outline>
             <outline title="Decentralized Thoughts" text="Decentralized Thoughts" xmlUrl="https://decentralizedthoughts.github.io/feed.xml" htmlUrl="https://decentralizedthoughts.github.io"></outline>
