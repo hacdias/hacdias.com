@@ -1,4 +1,4 @@
-{{ if in (slice "articles" "photos" "readings" "graphics") .Section }}
+{{ if intersect (slice "articles" "photos" "readings" "graphics") .Params.categories }}
   <footer class="box small">
     {{ if or (not .Date.IsZero) (not .Lastmod.IsZero) }}
     <p>
