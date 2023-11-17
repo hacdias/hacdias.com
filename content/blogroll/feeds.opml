@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Thu, 16 Nov 2023 08:33:44 UTC</dateCreated>
+        <dateCreated>Fri, 17 Nov 2023 22:07:51 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -42,6 +42,7 @@
             <outline title="Jim Nielsen" text="Jim Nielsen" xmlUrl="https://blog.jim-nielsen.com/feed.xml" htmlUrl="https://blog.jim-nielsen.com"></outline>
             <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca"></outline>
             <outline title="Kev Quirk" text="Kev Quirk" xmlUrl="https://kevquirk.com/feed" htmlUrl="https://kevquirk.com"></outline>
+            <outline title="Manuel Moreale" text="Manuel Moreale" xmlUrl="https://manuelmoreale.com/feed/rss" htmlUrl="https://manuelmoreale.com"></outline>
             <outline title="Marius Schulz" text="Marius Schulz" xmlUrl="https://feeds.feedburner.com/mariusschulz" htmlUrl="https://mariusschulz.com/"></outline>
             <outline title="Martin Frederic" text="Martin Frederic" xmlUrl="https://mew.tv/feeds/news.atom" htmlUrl="https://mew.tv/"></outline>
             <outline title="Martin Tournoij" text="Martin Tournoij" xmlUrl="https://www.arp242.net/feed.xml" htmlUrl="https://www.arp242.net/"></outline>
@@ -54,6 +55,7 @@
             <outline title="Nikita Karamov" text="Nikita Karamov" xmlUrl="https://www.kytta.dev/blog/atom.xml" htmlUrl="https://www.kytta.dev/blog/"></outline>
             <outline title="Niq" text="Niq" xmlUrl="https://niqwithq.com/feed.xml" htmlUrl="https://niqwithq.com"></outline>
             <outline title="Oscar&#39;s Blog" text="Oscar&#39;s Blog" xmlUrl="https://oscarbenedito.com/blog/index.xml" htmlUrl="https://oscarbenedito.com/blog/"></outline>
+            <outline title="Own Your Web" text="Own Your Web" xmlUrl="https://buttondown.email/ownyourweb/rss" htmlUrl="https://buttondown.email/ownyourweb"></outline>
             <outline title="Parimal Satyal" text="Parimal Satyal" xmlUrl="https://neustadt.fr/rss.xml" htmlUrl="https://neustadt.fr/"></outline>
             <outline title="Paul Stamatiou" text="Paul Stamatiou" xmlUrl="https://paulstamatiou.com/posts.xml" htmlUrl="https://paulstamatiou.com"></outline>
             <outline title="Phil Eaton" text="Phil Eaton" xmlUrl="https://notes.eatonphil.com/rss.xml" htmlUrl="http://notes.eatonphil.com/"></outline>

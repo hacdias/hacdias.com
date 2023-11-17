@@ -171,6 +171,11 @@
       "feed": "https://kevquirk.com/feed"
     },
     {
+      "title": "Manuel Moreale",
+      "site": "https://manuelmoreale.com",
+      "feed": "https://manuelmoreale.com/feed/rss"
+    },
+    {
       "title": "Marius Schulz",
       "site": "https://mariusschulz.com/",
       "feed": "https://feeds.feedburner.com/mariusschulz"
@@ -229,6 +234,11 @@
       "title": "Oscar's Blog",
       "site": "https://oscarbenedito.com/blog/",
       "feed": "https://oscarbenedito.com/blog/index.xml"
+    },
+    {
+      "title": "Own Your Web",
+      "site": "https://buttondown.email/ownyourweb",
+      "feed": "https://buttondown.email/ownyourweb/rss"
     },
     {
       "title": "Parimal Satyal",
