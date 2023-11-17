@@ -1,6 +1,5 @@
 ---
 title: External Links
-url: /about/external-links/
 noIndex: true
 ---
 

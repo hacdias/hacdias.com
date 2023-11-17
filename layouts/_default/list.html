@@ -1,8 +1,7 @@
 {{ define "main" }}
-  <header>
-    <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
-  </header>
-
-  {{ partialCached "post/content" . .Permalink }}
-  {{ partial "list/list" . }}
+  <article class='h-entry'>
+    {{- partialCached "post/header" . .Permalink }}
+    {{- partialCached "post/content" . .Permalink }}
+    {{- partialCached "post/footer" . .Permalink }}
+  </article>
 {{ end }}

@@ -1,6 +1,6 @@
 {{ $name := .Title }}
 
-{{ if eq .Kind "term" }}
+{{ if and (eq .Kind "term") (ne .Data.Singular "category") }}
   {{ with .Data.Singular }}
     {{ $name = printf "%s: %s" (humanize .) $name }}
   {{ end }}
