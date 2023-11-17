@@ -1,12 +1,11 @@
 ---
 title: Chamadas Ajax Com jQuery e PHP
-description: Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder
-  utilizando a linguagem de servidor PHP.
+description: Efetuar pedidos POST e GET utilizando a função ajax do jQuery e responder utilizando a linguagem de servidor PHP.
 date: 2014-07-20T10:41:11Z
 tags:
-- php
-- javascript
-- portuguese
+  - php
+  - javascript
+  - portuguese
 ---
 
 A biblioteca [jQuery](http://jquery.com/) é das mais conhecidas e utilizadas em JavaScript. Com esta biblioteca podemos proceder a chamadas **ajax** muito facilmente através de poucas linhas de código.

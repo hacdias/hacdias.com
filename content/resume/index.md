@@ -1,8 +1,8 @@
 ---
 title: Resume
-layout: resume
 description: My resume.
 noIndex: true
+layout: resume
 ---
 
 <!--more-->

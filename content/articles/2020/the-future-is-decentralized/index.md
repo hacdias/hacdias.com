@@ -1,11 +1,9 @@
 ---
 title: The Future is Decentralized
-description: Combining blockchain and open protocols can create a Web 3.0 free from
-  the power of centralized mega-corporations like Amazon, Google, and Facebook is
-  within grasp.
+description: Combining blockchain and open protocols can create a Web 3.0 free from the power of centralized mega-corporations like Amazon, Google, and Facebook is within grasp.
 date: 2020-09-20T18:45:00+02:00
 tags:
-- web3
+  - web3
 ---
 
 We are living in an increasingly interconnected world. Today, 4.1 billion people have access to the internet. And with every passing year, millions more are born into the world as "digital natives" with digital technology and the World Wide Web at their fingertips from early childhood.

@@ -2,7 +2,7 @@
 title: Recently in April '21
 date: 2021-05-01T09:00:00+02:00
 tags:
-- now
+  - now
 ---
 
 One more month has passed! It is unbelievable how fast this academic year - and 2021 in general - is passing. I'm already in my last quartile, having my last courses for the year.

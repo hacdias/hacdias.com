@@ -1,11 +1,10 @@
 ---
 title: The Society and the Objects
-description: Presently, the people love the objects. Sometimes, more than they love
-  the people. Is this good? Or not?
+description: Presently, the people love the objects. Sometimes, more than they love the people. Is this good? Or not?
 date: 2014-11-07T20:28:27Z
 tags:
-- society
-- reflection
+  - society
+  - reflection
 ---
 
 Presently, the people love the objects. Sometimes, more than they love the people. Is this good? Or not?

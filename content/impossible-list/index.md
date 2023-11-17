@@ -1,7 +1,6 @@
 ---
 title: Impossible List
-description: This is my impossible list, where I define and check some major life
-  experiences I want to experience.
+description: This is my impossible list, where I define and check some major life experiences I want to experience.
 date: 2020-07-15T00:00:00Z
 lastmod: 2023-05-15T14:14:08Z
 ---

@@ -3,8 +3,8 @@ title: Mirroring XKCD Comics to IPFS
 description: How I built a cloner for xkcd and keep the clone up to date on IPFS.
 date: 2019-07-05T16:20:00Z
 tags:
-- ipfs
-- web3
+  - ipfs
+  - web3
 ---
 
 As many of you probably know, xkcd is a web comic created in 2005 by Randall Munroe. Its tagline is "A webcomic of romance, sarcasm, math, and language". You can read more about the web comic itself on their [website](https://xkcd.com/about/).

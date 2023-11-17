@@ -1,13 +1,12 @@
 ---
 title: Testing Peer-to-Peer Systems With Testground
-description: P2P systems are not always easy to test. Due to their nature, there's
-  a lot of  constraints and network scenarios that might happen. Testground can help!
+description: P2P systems are not always easy to test. Due to their nature, there's a lot of  constraints and network scenarios that might happen. Testground can help!
 date: 2020-10-19T09:00:00+02:00
 tags:
-- testing
-- web3
+  - testing
+  - web3
 syndications:
-- https://twitter.com/hacdias/status/1318089432113815553
+  - https://twitter.com/hacdias/status/1318089432113815553
 ---
 
 "Test, test, test" is a well known sentence right now due to the current circumstances. However, it does not apply only to Covid-19 or other diseases. Testing is one word that all of us have dreamt - or had nightmares - about in the past. It is also one crucial part and step in the Software Engineering and Development process, as it allows to verify and ensure that a certain system behaves as expected. At least, for known cases!

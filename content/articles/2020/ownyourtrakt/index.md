@@ -1,13 +1,12 @@
 ---
 title: OwnYourTrakt
-description: It's now time to own my own watch log. I use Trakt to keep up with the
-  series and movies I'm watching and now I'm going to PESOS to my website!
+description: It's now time to own my own watch log. I use Trakt to keep up with the series and movies I'm watching and now I'm going to PESOS to my website!
 date: 2020-02-13T20:50:00Z
 tags:
-- meta
-- indieweb
-- security
-- personal-website
+  - meta
+  - indieweb
+  - security
+  - personal-website
 ---
 
 For quite some time, I have been getting more and more into the IndieWeb world and trying to own my own data. I have started publishing more to my website and using it as a place to store most of my public data, i.e., data I already published on other social media and platforms.

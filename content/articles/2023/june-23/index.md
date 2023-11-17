@@ -2,7 +2,7 @@
 title: Recently in June '23
 date: 2023-06-30T14:52:57+02:00
 tags:
-- now
+  - now
 ---
 
 June was a reasonably packed month: some times more eventful than others, but that's how it always is. Let's make a small recap of what has happened lately.

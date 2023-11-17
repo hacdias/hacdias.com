@@ -1,14 +1,13 @@
 ---
-title: Read "Strange Case of Dr Jekyll and Mr Hyde and Other Stories" by Robert Louis
-  Stevenson
+title: Read "Strange Case of Dr Jekyll and Mr Hyde and Other Stories" by Robert Louis Stevenson
 date: 2022-03-23T19:06:51.132363451+01:00
-read:
-  name: Strange Case of Dr Jekyll and Mr Hyde and Other Stories
-  author: Robert Louis Stevenson
-  publisher: Alma Books
-  pages: 221
-  uid: isbn:9781847493781
 rating: 3
+read:
+  author: Robert Louis Stevenson
+  name: Strange Case of Dr Jekyll and Mr Hyde and Other Stories
+  pages: 221
+  publisher: Alma Books
+  uid: isbn:9781847493781
 ---
 
 I am marking this book as "finished" since I have no plans on reading the remaining stories in the near future.

@@ -2,9 +2,9 @@
 title: Farewell, Hugo! Hello, Eagle
 date: 2021-11-19T08:02:07.764131763+01:00
 tags:
-- meta
-- blog-engine
-- personal-website
+  - meta
+  - blog-engine
+  - personal-website
 ---
 
 In 2015, I posted an [article](/2015/08/12/farewell-wordpress-hello-hugo) with a very similar name to this one. At the time, I was saying goodbye to WordPress and welcoming Hugo. As with everything in life, there are cycles and things change. It's time to turn a new page on this website's life cycle.

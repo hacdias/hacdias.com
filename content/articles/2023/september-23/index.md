@@ -1,8 +1,8 @@
 ---
-title: "Recently in September '23"
+title: Recently in September '23
 date: 2023-10-02T09:18:20+02:00
 tags:
-- now
+  - now
 ---
 
 September passed by quite quickly and with that two thirds of 2023 are now finished. As we now enter the final 🏁 quarter of this year, let's recap what has happened on my life over the past month. As usual, I feel like a lot has happened, especially when looking at it in retrospective.

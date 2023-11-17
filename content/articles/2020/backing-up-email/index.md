@@ -2,9 +2,9 @@
 title: How to Effectively Backup Your Emails
 date: 2020-11-02T09:00:00+01:00
 tags:
-- security
-- backup
-- e-mail
+  - security
+  - backup
+  - e-mail
 ---
 
 For quite some time, I have been setting up systems to backup my data of my computer, as well as fetching data from services, such as Trakt, Last.fm or GoodReads. There's always one kind of service that has been on the back of my mind for a while to backup, but I've never got the time, nor the will to do so: email!

@@ -1,14 +1,13 @@
 ---
 title: BlockLearning Framework Master Thesis
-description: Impact Analysis of Different Consensus, Participant Selection and Scoring
-  Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework
+description: Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework
 date: 2022-09-07T17:00:06.443507583+02:00
 tags:
-- thesis
-- publications
-- masters
+  - thesis
+  - publications
+  - masters
 syndications:
-- https://research.tue.nl/en/studentTheses/04a5f7e4-7782-4f26-a864-a49d04f82966
+  - https://research.tue.nl/en/studentTheses/04a5f7e4-7782-4f26-a864-a49d04f82966
 ---
 
 My master thesis has been finally published online. It is called _Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework_, and it was supervised by [Nirvana Meratnia](https://research.tue.nl/en/persons/nirvana-meratnia).

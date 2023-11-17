@@ -2,11 +2,11 @@
 title: 'Talk: InterPlanetary Specifications'
 date: 2023-04-19T20:00:00Z
 tags:
-- ipfs
-- talk
-syndications:
-- https://www.youtube.com/watch?v=vQVnjEIPuCE
+  - ipfs
+  - talk
 feedContentWarning: true
+syndications:
+  - https://www.youtube.com/watch?v=vQVnjEIPuCE
 ---
 
 I gave a lightening talk ⚡️ at [IPFS þing 2023](https://2023.ipfs-thing.io/) on the 19th of April, about the progress we have made over the past months

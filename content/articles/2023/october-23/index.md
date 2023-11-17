@@ -1,10 +1,10 @@
 ---
-title: "Recently in October '23"
+title: Recently in October '23
 date: 2023-10-31T15:46:51+01:00
 tags:
-- now
+  - now
 syndications:
-- https://fosstodon.org/@hacdias/111330175944628078
+  - https://fosstodon.org/@hacdias/111330175944628078
 ---
 
 October just passed by. It's now full-on autumn and I just turned one year older. It was, overall, a great month. Friends have visited, both from abroad and local. Met with some people, steam train rides. Let's dive into it!

@@ -1,13 +1,12 @@
 ---
 title: Owning My Reading Log
-description: It's now time to own my own reading log. I started by creating a reading
-  logs page and supporting all the IndieWeb-related specs for this.
+description: It's now time to own my own reading log. I started by creating a reading logs page and supporting all the IndieWeb-related specs for this.
 date: 2020-01-29T23:50:00Z
 tags:
-- meta
-- indieweb
-- security
-- personal-website
+  - meta
+  - indieweb
+  - security
+  - personal-website
 ---
 
 As [Tom](https://macwright.org/2017/12/11/indieweb-reading.html) once said, it is now time to own my own reading log. Why? Despite all the reasons mentioned on Tom's post, I also got bored of Goodreads and I ended up not using it as much as I should have.

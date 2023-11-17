@@ -2,8 +2,8 @@
 title: Trying Matrix Decentralized Messaging Service
 date: 2022-06-05T22:56:19.748105451+02:00
 tags:
-- matrix
-- decentralization
+  - matrix
+  - decentralization
 ---
 
 Today I had quite some adventures with Matrix and decentralised messaging protocols. I thought about self-hosting an instance so I tried [Synapse](https://github.com/matrix-org/synapse), which is the _de facto_ Matrix implementation with all the features available. Quickly I understood that Synapse was too slow for a very tiny VPS so I tried [Dendrite](https://github.com/matrix-org/dendrite) which claims to be much more efficient.

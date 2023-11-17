@@ -2,7 +2,7 @@
 title: Recently in April '22
 date: 2022-04-30T21:32:54.755615862+02:00
 tags:
-- now
+  - now
 ---
 
 April is quickly coming to an end and... what a month it was! From Portugal to London, from thesis progress to assisting in classes, from movies to musicals, April was a packed month!

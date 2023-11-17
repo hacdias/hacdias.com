@@ -44,4 +44,3 @@ I can usually be found in most places as [@hacdias](/about/#handle). Some of the
 - [{{< favicon "twitter.com" >}} X: @hacdias](https://twitter.com/hacdias)
 
 </div>
-

@@ -3,7 +3,7 @@ title: Strijp-S
 date: 2021-01-31T07:33:49Z
 coverImage: cdn:/2021-01-strijps
 syndications:
-- https://www.instagram.com/p/COUnXtrrMQJ/
+  - https://www.instagram.com/p/COUnXtrrMQJ/
 ---
 
 <style>

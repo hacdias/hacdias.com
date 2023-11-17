@@ -1,13 +1,12 @@
 ---
 title: Back to the Web of the 90s
-description: Do you remember the old days of the web? Where everyone had their own
-  website, made by hand, emanating personality. We should bring that back!
+description: Do you remember the old days of the web? Where everyone had their own website, made by hand, emanating personality. We should bring that back!
 date: 2020-05-31T21:24:00Z
 tags:
-- meta
-- web3
+  - meta
+  - web3
 syndications:
-- https://twitter.com/hacdias/status/1267207180698169345
+  - https://twitter.com/hacdias/status/1267207180698169345
 ---
 
 Over the past months, I have been reading more and more posts where people are [saying][faith-web] they miss the vibe of the [90s web][small-web]. Even though I wasn't alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser.

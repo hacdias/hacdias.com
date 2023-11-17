@@ -1,12 +1,11 @@
 ---
 title: Diferenças Entre '==' e '===' Em PHP
-description: Os operadores '==' e '===' por vezes podem confundir-nos um pouco em
-  relação ao seu uso e para que servem. Fica aqui a explicação de cada um."
+description: Os operadores '==' e '===' por vezes podem confundir-nos um pouco em relação ao seu uso e para que servem. Fica aqui a explicação de cada um."
 date: 2014-07-23T18:31:23Z
 tags:
-- php
-- javascript
-- portuguese
+  - php
+  - javascript
+  - portuguese
 ---
 
 É habitual utilizarem-se diversos operadores quando o assunto é programação. Existem vários até: aritméticos, comparativos e outros.

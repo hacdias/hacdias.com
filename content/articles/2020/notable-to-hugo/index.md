@@ -1,12 +1,11 @@
 ---
 title: How I Generate My Knowledge Base From Notable
-description: Here I describe my small journey so far with Notable and how I sync my
-  website's Knowledge Base it with.
+description: Here I describe my small journey so far with Notable and how I sync my website's Knowledge Base it with.
 date: 2020-02-29T21:37:00Z
 tags:
-- meta
-- personal-website
-- second-brain
+  - meta
+  - personal-website
+  - second-brain
 ---
 
 For quite a few time, I used [Bear](https://bear.app/) as my go-to Notes application for two reasons: it was simple to use and the syntax was quite similar to markdown. However, it is not markdown and it does not support some things that'd like to see on such software: diagrams, mathematics, wiki-like links, etc.

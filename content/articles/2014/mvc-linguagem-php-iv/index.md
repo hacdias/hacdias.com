@@ -1,11 +1,10 @@
 ---
 title: MVC na Linguagem PHP - IV
-description: No último tutorial sobre a criação de uma framework que segue o modelo
-  MVC, criamos uma página dinâmica com acesso à base de dados.
+description: No último tutorial sobre a criação de uma framework que segue o modelo MVC, criamos uma página dinâmica com acesso à base de dados.
 date: 2014-12-21T10:00:04Z
 tags:
-- php
-- portuguese
+  - php
+  - portuguese
 ---
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.

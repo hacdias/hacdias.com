@@ -2,9 +2,9 @@
 title: My Website After IndieWeb
 date: 2022-06-18T18:42:22.407026981+02:00
 tags:
-- meta
-- indieweb
-- personal-website
+  - meta
+  - indieweb
+  - personal-website
 ---
 
 A few months ago, I released an article where I showed most [versions of my website](/2022/03/25/my-website-before-indieweb) before I started integrating IndieWeb into it. I think it is nice to have an overview of how your website evolved with time. So today I present to you all the major changes to my website after IndieWeb. 

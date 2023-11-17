@@ -2,7 +2,7 @@
 title: Recently in September '21
 date: 2021-09-30T17:31:36.325426421Z
 tags:
-- now
+  - now
 ---
 
 September has been quite a busy month, a rollercoaster for sure, but a good one. It all started in the first week with the new students coming to campus for their introduction activities. I don't think I've seen the campus so vibrant until that day.

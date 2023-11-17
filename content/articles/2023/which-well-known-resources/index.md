@@ -1,8 +1,8 @@
 ---
-title: "Which Well-Known Resources?"
+title: Which Well-Known Resources?
 date: 2023-08-24T16:25:03+02:00
 tags:
-- meta
+  - meta
 ---
 
 Since June, I have had a "about well-knowns" note in my drafts to write an article about. Unfortunately, I haven't been writing much the last month or two. However, two days ago, Tim wrote about his own experience with [well-known](https://timharek.no/blog/i-added-well-known-urls-to-my-website) links. That prompted me to finish this article!

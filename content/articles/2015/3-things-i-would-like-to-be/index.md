@@ -1,10 +1,9 @@
 ---
 title: 3 Things I Would Like To Be
-description: I don't want to be just one thing. Where's the fun of being just one
-  thing? There are 3 things I would like to be and there is nothing in the way."
+description: I don't want to be just one thing. Where's the fun of being just one thing? There are 3 things I would like to be and there is nothing in the way."
 date: 2015-04-06T20:05:27Z
 tags:
-- reflection
+  - reflection
 ---
 
 If you've been following me through the past time,  you probably know I want to go further in technology field (if you didn't know, read my [about page](/about)). But it is not the unique thing I would like to be because there are 3 things I would like to be.

@@ -2,7 +2,7 @@
 title: Recently in September '22
 date: 2022-10-01T17:21:59.519041956+02:00
 tags:
-- now
+  - now
 ---
 
 September is finally gone and with it, my vacations. Now it's time to start another chapter of life and work full-time for the first time in my life. Here's some of the nice things that happened last month.

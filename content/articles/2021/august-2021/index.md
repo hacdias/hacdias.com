@@ -2,7 +2,7 @@
 title: Recently in August '21
 date: 2021-09-01T05:26:04.534115889Z
 tags:
-- now
+  - now
 ---
 
 August was a busy month. I fly back to the Netherlands quite in the beginning of the month so I could get my second Covid-19 vaccine, which caused a mild fever overnight but was pretty fine overall.
