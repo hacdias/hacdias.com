@@ -1,12 +1,11 @@
 ---
 title: Rebuilding Eagle, My Website’s CMS
-description: I have been working on updating my website's backend, called Eagle. It
-  is full of new features, such as search and ActivityPub.
+description: I have been working on updating my website's backend, called Eagle. It is full of new features, such as search and ActivityPub.
 date: 2020-10-12T09:00:00+02:00
 tags:
-- meta
-- personal-website
-- go
+  - meta
+  - personal-website
+  - go
 ---
 
 My website is growing, not in terms of views, because I'm not aware of that. Maybe I should add some non-intrusive analytics. Anyways, it's growing in terms of functionality. However, since I'm using a static website generator, it makes it complicated to add some interactive functionalities.

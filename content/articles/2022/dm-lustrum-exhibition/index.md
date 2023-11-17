@@ -1,12 +1,12 @@
 ---
 title: Dekate Mousa's Lustrum Exhibition
 date: 2022-06-07T09:51:13.74567452+02:00
-coverImage: cdn:/2022-06-dm-photo-1
 tags:
-- goals
+  - goals
+coverImage: cdn:/2022-06-dm-photo-1
 syndications:
-- https://twitter.com/hacdias/status/1534206131781902336
-- https://twitter.com/hacdias/status/1534206138077655040
+  - https://twitter.com/hacdias/status/1534206131781902336
+  - https://twitter.com/hacdias/status/1534206138077655040
 ---
 
 <style>

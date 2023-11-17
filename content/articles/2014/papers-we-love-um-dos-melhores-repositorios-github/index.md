@@ -1,10 +1,9 @@
 ---
 title: Papers We Love - Um dos Melhores Repositórios do GitHub
-description: O GitHub não contém apenas software e código. Contém também conhecimento.
-  Um grande exemplo é o repositório Papers We Love.
+description: O GitHub não contém apenas software e código. Contém também conhecimento. Um grande exemplo é o repositório Papers We Love.
 date: 2014-08-22T09:38:31Z
 tags:
-- portuguese
+  - portuguese
 ---
 
 Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.

@@ -1,11 +1,10 @@
 ---
 title: Devemos Usar a Tag de Fechamento em PHP ou Não?
-description: A tag de fechamento do PHP ( ?> ) pode causar alguma confusão visto que
-  é omitida pela maioria dos desenvolvedores. Mas porquê?
+description: A tag de fechamento do PHP ( ?> ) pode causar alguma confusão visto que é omitida pela maioria dos desenvolvedores. Mas porquê?
 date: 2014-08-27T09:15:18Z
 tags:
-- php
-- portuguese
+  - php
+  - portuguese
 ---
 
 Recentemente comecei a reparar que muitos programadores omitiam a tag de fechamento dos ficheiros PHP e, obviamente, fiquei curioso.

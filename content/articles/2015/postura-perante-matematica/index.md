@@ -1,11 +1,10 @@
 ---
 title: Que Postura Ter Perante a Matemática
-description: Algumas dicas para o estudo de Matemática, uma das disciplinas em que
-  os estudantes têm mais problemas. Prepara-te para os exames continuamente.
+description: Algumas dicas para o estudo de Matemática, uma das disciplinas em que os estudantes têm mais problemas. Prepara-te para os exames continuamente.
 date: 2015-01-26T00:00:00Z
 tags:
-- mathematics
-- portuguese
+  - mathematics
+  - portuguese
 ---
 
 Todos os anos os professores costumam relembrar os alunos do facto de terem de estudar mais visto o nível de dificuldade ser superior ao do ano anterior. Quando os alunos chegam a anos de Prova Final como, por exemplo, o 9º e 12º anos, os professores tendem a relembrar os alunos que devem estudar mais nesse ano e que o exame se avizinha.

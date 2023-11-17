@@ -1,12 +1,11 @@
 ---
 title: Farewell, WordPress! Hello, Hugo
-description: I finally learned how to say goodbye to WordPress. Not forever. Nothing
-  lasts forever. But for my blog. I'm using Hugo. A very simple static website generator."
+description: I finally learned how to say goodbye to WordPress. Not forever. Nothing lasts forever. But for my blog. I'm using Hugo. A very simple static website generator."
 date: 2015-08-12T11:30:00Z
 tags:
-- meta
-- blog-engine
-- personal-website
+  - meta
+  - blog-engine
+  - personal-website
 ---
 
 Firstly, a little bit of history - when I begun this blog, I've already been using WordPress on Pplware for a while. So, I tought: I know it, it's simple, it's easy to use, I'm going to use it on my personal blog.

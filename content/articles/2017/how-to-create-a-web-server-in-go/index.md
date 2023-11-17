@@ -2,8 +2,8 @@
 title: How To Create a Web Server in Go
 date: 2017-09-08T00:00:00Z
 tags:
-- go
-- web
+  - go
+  - web
 ---
 
 Go is a relatively new player in the world of programming, having been around since 2009. It was created by Google and many open-source contributors.

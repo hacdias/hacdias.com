@@ -3,7 +3,7 @@ title: Recently in October '21
 date: 2021-10-31T17:43:20.560241517Z
 lastmod: 2021-10-31T19:05:34.938609263Z
 tags:
-- now
+  - now
 ---
 
 October started with a very nice trip to Paris, France. I was there from the 1st of October to the 3rd. We went by bus and it was quite a journey. Around 8 hours each way.

@@ -2,7 +2,7 @@
 title: Navigating My Dutch Learning Journey
 date: 2023-10-18T08:12:05+02:00
 syndications:
-- https://fosstodon.org/@hacdias/111254553482769587
+  - https://fosstodon.org/@hacdias/111254553482769587
 ---
 
 Learning a new language is though. It is certainly easier for some than for others and there are countless of variables that will change your experience. For the past three years, I have been learning Dutch, which has been quite of a rollercoaster.

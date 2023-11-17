@@ -1,13 +1,13 @@
 ---
 title: Read "The Midnight Library" by Matt Haig
 date: 2022-02-03T22:32:25.035150056+01:00
-read:
-  name: The Midnight Library
-  author: Matt Haig
-  publisher: Canongate
-  pages: 288
-  uid: isbn:9781786892737
 rating: 3
+read:
+  author: Matt Haig
+  name: The Midnight Library
+  pages: 288
+  publisher: Canongate
+  uid: isbn:9781786892737
 ---
 
 "The Midnight Library" portrays a character, Nora, that after dying at exactly midnight, got transported to a library where time doesn't change. In this library, Nora has the opportunity to try all the different lives she would have had if she had made different decisions. To keep the level of spoilers to a minimum, I will not go over a lot more.

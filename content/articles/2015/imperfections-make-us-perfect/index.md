@@ -1,11 +1,10 @@
 ---
 title: Imperfections Make Us Perfect
-description: I was thinking about why there are people who think we are perfect. This
-  is a little reflexion about it and about those people.
+description: I was thinking about why there are people who think we are perfect. This is a little reflexion about it and about those people.
 date: 2015-07-12T13:45:00Z
 tags:
-- creative
-- reflection
+  - creative
+  - reflection
 ---
 
 Sometimes, I look through a window. My bedroom window. It faces the road. I see cars. There are thousand of them. All different: in shape, in colour, in size. But that's only the outside. Their inside is all made of the same essence.

@@ -2,9 +2,9 @@
 title: Should Every Update Be a Post?
 date: 2022-08-14T19:34:06.473046888+02:00
 tags:
-- meta
-- reflection
-- indieweb
+  - meta
+  - reflection
+  - indieweb
 ---
 
 Today I had a bit too much time that I decided to work on my website. In the morning, I made a few tweaks to the home page in order to make it more useful: added some contact and social media links, as well as links for some pages on my website that are not included in the navigation bar. I think I achieved a neat result.

@@ -2,7 +2,7 @@
 title: Recently in May '21
 date: 2021-06-02T08:10:59.168283855Z
 tags:
-- now
+  - now
 ---
 
 As I usually say, one more month has passed and we're already in June! If everything goes on well, this is the last month of classes and exams of my Master's first year.

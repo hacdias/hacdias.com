@@ -1,13 +1,13 @@
 ---
 title: Read "O ano da morte de Ricardo Reis" by José Saramago
 date: 2022-01-17T17:39:36.758940822Z
-read:
-  name: O ano da morte de Ricardo Reis
-  author: José Saramago
-  publisher: Porto Editora
-  pages: 494
-  uid: isbn:9789720048820
 rating: 4
+read:
+  author: José Saramago
+  name: O ano da morte de Ricardo Reis
+  pages: 494
+  publisher: Porto Editora
+  uid: isbn:9789720048820
 ---
 
 Today, I finished reading "O Ano da Morte de Ricardo Reis" (*The Year of The Death of Ricardo Reis* in English) by José Saramago, while on a train from Den Haag to Eindhoven, after visiting the Portuguese embassy.

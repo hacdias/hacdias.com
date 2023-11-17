@@ -2,8 +2,8 @@
 title: 'Fundamentals of Programming #3: Paradigms'
 date: 2016-11-12T00:00:00Z
 tags:
-- computer-science
-- fundamentals-of-programming
+  - computer-science
+  - fundamentals-of-programming
 ---
 
 Every single programming language has its own characteristics

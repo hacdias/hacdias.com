@@ -1,8 +1,8 @@
 ---
-title: "Recently in July '23"
+title: Recently in July '23
 date: 2023-07-31T16:30:01+02:00
 tags:
-- now
+  - now
 ---
 
 July is now coming to an end, and so is summer in The Netherlands per the looks of it. It has been

@@ -1,11 +1,10 @@
 ---
 title: Cleaning up My Website
-description: Just finished cleaning up my website a bit more and getting rid of a
-  bit of noise that I didn't think was needed.
+description: Just finished cleaning up my website a bit more and getting rid of a bit of noise that I didn't think was needed.
 date: 2020-05-10T23:20:00+01:00
 tags:
-- meta
-- personal-website
+  - meta
+  - personal-website
 ---
 
 I decided to make a few updates on my website - again. However, this are a bit more than visuals and I'm mostly reinventing the way I manage IndieWeb posts, namely likes, reposts, notes and replies.

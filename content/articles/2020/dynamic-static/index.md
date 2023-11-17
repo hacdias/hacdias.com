@@ -2,11 +2,11 @@
 title: Build a Dynamic Website… or Not?
 date: 2020-01-02T23:40:00Z
 tags:
-- meta
-- indieweb
-- personal-website
+  - meta
+  - indieweb
+  - personal-website
 syndications:
-- https://twitter.com/hacdias/status/1212881805096996864
+  - https://twitter.com/hacdias/status/1212881805096996864
 ---
 
 After digressing a bit about [building a Micropub](/2020/01/01/building-micropub) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.

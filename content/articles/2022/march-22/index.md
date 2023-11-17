@@ -2,7 +2,7 @@
 title: Recently in March '22
 date: 2022-04-01T11:07:43.482464122+02:00
 tags:
-- now
+  - now
 ---
 
 This is going to be a relatively short post, even though many things happened last month. The first three months of 2022 are completed and there's now only 9 to go. That's quite scary. Time flies!

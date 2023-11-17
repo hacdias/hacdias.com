@@ -1,10 +1,9 @@
 ---
 title: Portugal Is a Beautiful Country
-description: 'Portugal is one of the small big countries, in other words, Portugal
-  have too many things to offer: history, monuments, culture, beauty!'
+description: 'Portugal is one of the small big countries, in other words, Portugal have too many things to offer: history, monuments, culture, beauty!'
 date: 2014-11-14T20:34:01Z
 tags:
-- portugal
+  - portugal
 ---
 
 Searching, exploring, walking, running, seeing, knowing, watching, meeting, taking photos, etc. All are verbs related with travelling which is one of the most amazing and *important* things in life.

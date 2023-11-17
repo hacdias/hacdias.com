@@ -2,7 +2,7 @@
 title: Recently in March '23
 date: 2023-03-31T21:33:45.007010976+02:00
 tags:
-- now
+  - now
 ---
 
 March is almost gone and here we are again, at one more recap of what has happened over the last month. Compared to February, March has been a pretty eventless month, at least on the surface. 

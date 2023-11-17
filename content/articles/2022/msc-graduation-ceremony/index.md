@@ -2,10 +2,10 @@
 title: Master's Graduation Ceremony
 date: 2022-11-25T17:02:18+01:00
 lastmod: 2022-12-01T15:30:15.269071746+01:00
-coverImage: cdn:/2022-11-msc-ceremony-group
 tags:
-- university
-- masters
+  - university
+  - masters
+coverImage: cdn:/2022-11-msc-ceremony-group
 feedContentWarning: true
 ---
 

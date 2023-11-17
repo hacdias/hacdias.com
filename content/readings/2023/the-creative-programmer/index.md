@@ -2,15 +2,15 @@
 title: Read "The Creative Programmer" by Wouter Groeneveld
 date: 2023-06-12T09:26:30.096860512+02:00
 coverImage: cdn:/2023-06-the-creative-programmer
-read:
-  name: The Creative Programmer
-  author: Wouter Groeneveld
-  publisher: Manning
-  pages: 232
-  uid: isbn:9781633439054
 rating: 4
+read:
+  author: Wouter Groeneveld
+  name: The Creative Programmer
+  pages: 232
+  publisher: Manning
+  uid: isbn:9781633439054
 syndications:
-- https://fosstodon.org/@hacdias/110530107064412338
+  - https://fosstodon.org/@hacdias/110530107064412338
 ---
 
 Last night I thought: tomorrow morning I will finish reading *The Creative Programmer*,

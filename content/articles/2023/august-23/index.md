@@ -1,8 +1,8 @@
 ---
-title: "Recently in August '23"
+title: Recently in August '23
 date: 2023-08-31T09:50:11+02:00
 tags:
-- now
+  - now
 ---
 
 August is almost gone, and with it the smells of summer. Day after day, the vibes I get from the weather are more [autumny 🍁](/2023/08/27/forest-delicacies/). Temperatures are finally going slightly down and it's starting to feel more cozy. It's been a long, yet satisfying month!

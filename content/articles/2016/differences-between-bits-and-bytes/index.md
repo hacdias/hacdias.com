@@ -1,10 +1,9 @@
 ---
 title: Differences Between Bits and Bytes
-description: For some, the difference between bits and bytes may be subtle and it
-  can lead to a lot of mistakes and false advertisement.
+description: For some, the difference between bits and bytes may be subtle and it can lead to a lot of mistakes and false advertisement.
 date: 2016-11-25T00:00:00Z
 tags:
-- computers
+  - computers
 ---
 
 Nowadays, we are used to hear about bits and bytes and sometimes, in the advertising, we see that the Internet speed is about 100 Mbps. Is that 100 megabytes per second? No, it isn't. There are some differences between bits and bytes. Let's see.

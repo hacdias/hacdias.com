@@ -1,13 +1,12 @@
 ---
 title: Decentralizing My Website With IPFS
-description: How does my website work with IPFS? Where does the content go? What happens
-  when my website is accessed through HTTP? Here's a tale that explains of what happens.
+description: How does my website work with IPFS? Where does the content go? What happens when my website is accessed through HTTP? Here's a tale that explains of what happens.
 date: 2019-08-07T18:45:00Z
 tags:
-- ipfs
-- dns
-- meta
-- web3
+  - ipfs
+  - dns
+  - meta
+  - web3
 ---
 
 It was about two years ago, in 2017, that I got to know IPFS through [David Dias][0]. This is not the first time I talk about IPFS here, in my website, but here's a brief description of what it is: IPFS stands for InterPlanetary File System and it is a peer-to-peer, content-addressed and decentralized protocol.

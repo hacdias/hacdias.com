@@ -2,7 +2,7 @@
 title: Recently in August '22
 date: 2022-08-31T21:26:26.008409953+02:00
 tags:
-- now
+  - now
 ---
 
 August is ending and with it, most people's summer vacations. It's time for school, university and work again. However, I did not have that much of a vacation yet.

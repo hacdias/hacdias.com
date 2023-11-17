@@ -2,8 +2,8 @@
 title: My Website Before IndieWeb
 date: 2022-03-25T11:37:59.907778246+01:00
 tags:
-- meta
-- personal-website
+  - meta
+  - personal-website
 ---
 
 Since I created this website's [colophon](/about/#colophon) (also known as _meta page_), I've wanted to also created a page that show cased how this website evolved over the years. I created this website when I was 14, in 2014. At first, it was just a bunch of HTML pages written by hand. Within the first year, the website moved from pure HTML to WordPress and then to Hugo.

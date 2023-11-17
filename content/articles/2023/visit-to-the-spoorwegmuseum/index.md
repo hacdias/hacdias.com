@@ -1,13 +1,13 @@
 ---
 title: Visiting The Spoorwegmuseum
 date: 2023-05-06T22:22:09+02:00
-coverImage: cdn:/2023-05-spoorwegmuseum
 tags:
-- trains
-- museums
-- infrastructure
+  - trains
+  - museums
+  - infrastructure
+coverImage: cdn:/2023-05-spoorwegmuseum
 syndications:
-- https://fosstodon.org/@hacdias/110323610429118818
+  - https://fosstodon.org/@hacdias/110323610429118818
 ---
 
 <style>

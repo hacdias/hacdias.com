@@ -2,10 +2,10 @@
 title: Differences Between C, C++ and C#
 date: 2016-11-01T00:00:00Z
 tags:
-- computers
-- c
-- cpp
-- csharp
+  - computers
+  - c
+  - cpp
+  - csharp
 ---
 
 There is one thing in common with the languages C, C++ and

@@ -2,9 +2,9 @@
 title: Recently in January '21
 date: 2021-02-01T09:00:00+01:00
 tags:
-- university
-- masters
-- now
+  - university
+  - masters
+  - now
 ---
 
 It's been quite a while since I sent my last newsletter. And now the ferocious winter winds are storming outside. I'm looking at my screen wondering what to write and why write. Since August, I have been living in the Netherlands and I thought it would be a great ideas to talk a bit about the experience of moving during a pandemic.
