@@ -2,6 +2,8 @@
 title: Goodbye File Browser!
 description: After 5 years of maintaining this project and failing due to my limited time, it was time to say goodbye to File Browser.
 date: 2020-01-23T09:10:00Z
+categories:
+  - articles
 tags:
   - go
   - reflection

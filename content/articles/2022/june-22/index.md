@@ -1,6 +1,8 @@
 ---
 title: Recently in June '22
 date: 2022-06-30T20:10:18.733887276+02:00
+categories:
+  - articles
 tags:
   - now
 ---

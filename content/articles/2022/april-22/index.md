@@ -1,6 +1,8 @@
 ---
 title: Recently in April '22
 date: 2022-04-30T21:32:54.755615862+02:00
+categories:
+  - articles
 tags:
   - now
 ---

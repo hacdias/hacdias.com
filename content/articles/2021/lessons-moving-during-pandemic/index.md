@@ -1,6 +1,8 @@
 ---
 title: Recently in January '21
 date: 2021-02-01T09:00:00+01:00
+categories:
+  - articles
 tags:
   - university
   - masters

@@ -1,6 +1,8 @@
 ---
 title: Recently in August '23
 date: 2023-08-31T09:50:11+02:00
+categories:
+  - articles
 tags:
   - now
 ---

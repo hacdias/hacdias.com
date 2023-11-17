@@ -1,6 +1,8 @@
 ---
 title: April Lockdown
 date: 2020-04-28T12:30:50.893Z
+categories:
+  - photos
 coverImage: cdn:/2020-04-hometown-02
 ---
 

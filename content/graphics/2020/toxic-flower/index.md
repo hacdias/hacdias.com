@@ -1,6 +1,8 @@
 ---
 title: Toxic Flower
 date: 2020-06-15T00:00:00Z
+categories:
+  - graphics
 tags:
   - art
   - creative

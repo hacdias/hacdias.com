@@ -1,6 +1,8 @@
 ---
 title: Read "Strange Case of Dr Jekyll and Mr Hyde and Other Stories" by Robert Louis Stevenson
 date: 2022-03-23T19:06:51.132363451+01:00
+categories:
+  - readings
 rating: 3
 read:
   author: Robert Louis Stevenson

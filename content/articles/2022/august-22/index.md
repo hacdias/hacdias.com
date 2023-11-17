@@ -1,6 +1,8 @@
 ---
 title: Recently in August '22
 date: 2022-08-31T21:26:26.008409953+02:00
+categories:
+  - articles
 tags:
   - now
 ---

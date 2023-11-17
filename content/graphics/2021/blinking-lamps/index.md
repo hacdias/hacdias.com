@@ -1,6 +1,8 @@
 ---
 title: Blinking Lamps
 date: 2021-04-16T09:14:25.896762407Z
+categories:
+  - graphics
 tags:
   - art
   - pixelart

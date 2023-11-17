@@ -1,6 +1,8 @@
 ---
 title: Eindhoven Winter
 date: 2021-02-28T00:00:00Z
+categories:
+  - photos
 coverImage: cdn:/2021-02-eindhoven-snow-01
 ---
 

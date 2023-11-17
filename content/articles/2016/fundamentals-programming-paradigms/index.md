@@ -1,6 +1,8 @@
 ---
 title: 'Fundamentals of Programming #3: Paradigms'
 date: 2016-11-12T00:00:00Z
+categories:
+  - articles
 tags:
   - computer-science
   - fundamentals-of-programming

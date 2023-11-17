@@ -1,6 +1,8 @@
 ---
 title: Build a Dynamic Website… or Not?
 date: 2020-01-02T23:40:00Z
+categories:
+  - articles
 tags:
   - meta
   - indieweb

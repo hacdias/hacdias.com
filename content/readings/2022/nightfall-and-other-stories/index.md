@@ -1,6 +1,8 @@
 ---
 title: Read "Nightfall and Other Stories" by Isaac Asimov
 date: 2022-03-23T19:05:54.4308607+01:00
+categories:
+  - readings
 rating: 2
 read:
   author: Isaac Asimov

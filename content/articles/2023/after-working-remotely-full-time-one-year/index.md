@@ -1,6 +1,8 @@
 ---
 title: After Working Remotely Full Time for One Year
 date: 2023-10-16T07:50:45+02:00
+categories:
+  - articles
 tags:
   - work
 syndications:

@@ -1,6 +1,8 @@
 ---
 title: Colorful May
 date: 2021-05-30T00:00:00Z
+categories:
+  - photos
 coverImage: cdn:/2021-05-eindhoven-11
 ---
 

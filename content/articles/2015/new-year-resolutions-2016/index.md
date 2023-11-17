@@ -2,6 +2,8 @@
 title: New Year's Resolutions for 2016
 description: 2015 has been a very meaningful year. 2016 needs to be better than 2015 and so on. Here are my New Year's resolutions.
 date: 2015-12-31T12:00:00Z
+categories:
+  - articles
 tags:
   - reflection
   - goals

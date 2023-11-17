@@ -1,6 +1,8 @@
 ---
 title: 'Fundamentals of Programming #5: Data Types I'
 date: 2016-11-15T00:00:00Z
+categories:
+  - articles
 tags:
   - data-types
   - c

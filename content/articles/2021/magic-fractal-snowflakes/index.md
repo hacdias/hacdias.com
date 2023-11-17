@@ -2,6 +2,8 @@
 title: The Magic of Fractal Snowflakes
 date: 2021-02-15T06:30:00Z
 lastmod: 2021-02-15T06:49:43.435183405Z
+categories:
+  - articles
 tags:
   - javascript
   - art

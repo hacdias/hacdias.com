@@ -1,6 +1,8 @@
 ---
 title: Recently in July '21
 date: 2021-08-01T07:37:52.811583889Z
+categories:
+  - articles
 tags:
   - now
 ---

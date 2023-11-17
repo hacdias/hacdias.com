@@ -2,6 +2,8 @@
 title: Intermittent Threads
 description: 'I was there. I turn my head to the left and I see a bullet coming in my direction. The clock stops. I stop. I see myself doing nothing. '
 date: 2015-11-14T13:45:00Z
+categories:
+  - articles
 tags:
   - reflection
   - creative

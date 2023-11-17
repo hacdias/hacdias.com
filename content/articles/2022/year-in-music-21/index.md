@@ -1,6 +1,8 @@
 ---
 title: Year in Music '21
 date: 2022-01-01T12:00:00+01:00
+categories:
+  - articles
 tags:
   - year-in-music
 ---

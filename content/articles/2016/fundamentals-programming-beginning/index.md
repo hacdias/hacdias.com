@@ -1,6 +1,8 @@
 ---
 title: 'Fundamentals of Programming #1: Beginning'
 date: 2016-11-10T00:00:00Z
+categories:
+  - articles
 tags:
   - computers
   - algorithms

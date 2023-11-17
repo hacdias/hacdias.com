@@ -1,6 +1,8 @@
 ---
 title: Recently in December '21
 date: 2021-12-29T18:12:30.586985119Z
+categories:
+  - articles
 tags:
   - now
 ---

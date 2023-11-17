@@ -1,6 +1,8 @@
 ---
 title: How To Remove the Query String From Static Assets on WordPress
 date: 2016-11-24T00:00:00Z
+categories:
+  - articles
 tags:
   - php
 ---

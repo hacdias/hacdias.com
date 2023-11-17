@@ -1,6 +1,8 @@
 ---
 title: Recently
 date: 2020-09-21T09:30:00+02:00
+categories:
+  - articles
 tags:
   - now
 syndications:

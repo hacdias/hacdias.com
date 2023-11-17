@@ -1,6 +1,8 @@
 ---
 title: Recently in December '22
 date: 2022-12-30T15:33:18.862779605+01:00
+categories:
+  - articles
 tags:
   - now
 ---

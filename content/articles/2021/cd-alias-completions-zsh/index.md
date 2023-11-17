@@ -1,6 +1,8 @@
 ---
 title: Change to Custom Directory Alias With Completions in Zsh
 date: 2021-05-30T10:23:57.3713559Z
+categories:
+  - articles
 tags:
   - terminal
   - tip

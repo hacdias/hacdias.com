@@ -1,6 +1,8 @@
 ---
 title: My Website After IndieWeb
 date: 2022-06-18T18:42:22.407026981+02:00
+categories:
+  - articles
 tags:
   - meta
   - indieweb

@@ -1,6 +1,8 @@
 ---
 title: Recently in March '22
 date: 2022-04-01T11:07:43.482464122+02:00
+categories:
+  - articles
 tags:
   - now
 ---

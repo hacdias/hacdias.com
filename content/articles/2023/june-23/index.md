@@ -1,6 +1,8 @@
 ---
 title: Recently in June '23
 date: 2023-06-30T14:52:57+02:00
+categories:
+  - articles
 tags:
   - now
 ---

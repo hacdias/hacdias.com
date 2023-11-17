@@ -1,6 +1,8 @@
 ---
 title: Recently in July '23
 date: 2023-07-31T16:30:01+02:00
+categories:
+  - articles
 tags:
   - now
 ---

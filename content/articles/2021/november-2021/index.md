@@ -1,6 +1,8 @@
 ---
 title: Recently in November '21
 date: 2021-12-02T07:10:51.478949723Z
+categories:
+  - articles
 tags:
   - now
 ---

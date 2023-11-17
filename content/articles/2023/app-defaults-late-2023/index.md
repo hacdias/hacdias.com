@@ -1,6 +1,8 @@
 ---
 title: App Defaults in Late 2023
 date: 2023-11-08T12:06:51+01:00
+categories:
+  - articles
 syndications:
   - https://fosstodon.org/@hacdias/111374608169041824
 ---

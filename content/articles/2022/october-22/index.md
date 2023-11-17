@@ -1,6 +1,8 @@
 ---
 title: Recently in October '22
 date: 2022-10-31T15:43:53.084541853+01:00
+categories:
+  - articles
 tags:
   - now
 ---
