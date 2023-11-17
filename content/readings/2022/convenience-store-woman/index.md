@@ -1,6 +1,8 @@
 ---
 title: Read "Convenience Store Woman" by Sayaka Murata
 date: 2022-05-04T08:43:33.684533152+02:00
+categories:
+  - readings
 rating: 4
 read:
   author: Sayaka Murata

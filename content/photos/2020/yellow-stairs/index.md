@@ -1,6 +1,8 @@
 ---
 title: Yellow Stairs
 date: 2020-09-20T06:59:49Z
+categories:
+  - photos
 coverImage: cdn:/2020-09-rotterdam
 syndications:
   - https://www.instagram.com/p/CFWWNhHFFOy/

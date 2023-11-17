@@ -2,6 +2,8 @@
 title: BlockLearning Framework Paper
 description: 'BlockLearning: A Modular Framework for Blockchain-Based Vertical Federated'
 date: 2023-02-16T12:00:00+01:00
+categories:
+  - articles
 tags:
   - papers
   - publications

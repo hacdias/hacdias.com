@@ -1,6 +1,8 @@
 ---
 title: Recently in May '23
 date: 2023-05-31T20:22:16.622538726+02:00
+categories:
+  - articles
 tags:
   - now
 ---

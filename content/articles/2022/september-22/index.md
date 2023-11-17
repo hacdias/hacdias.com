@@ -1,6 +1,8 @@
 ---
 title: Recently in September '22
 date: 2022-10-01T17:21:59.519041956+02:00
+categories:
+  - articles
 tags:
   - now
 ---

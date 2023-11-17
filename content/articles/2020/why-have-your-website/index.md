@@ -2,6 +2,8 @@
 title: Why Should You Have Your Own Website?
 description: We live in a world with increasingly larger social media platforms. Everyone's profile looks the same, barely distinguishable. Why not have a website?
 date: 2020-10-26T09:00:00+01:00
+categories:
+  - articles
 tags:
   - personal-website
 ---

@@ -1,6 +1,8 @@
 ---
 title: Processing Bosch's eBike Flow FIT Files
 date: 2023-10-11T15:37:37+02:00
+categories:
+  - articles
 tags:
   - cycling
 syndications:

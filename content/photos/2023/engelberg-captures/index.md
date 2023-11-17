@@ -1,6 +1,8 @@
 ---
 title: Engelberg Captures
 date: 2023-02-24T14:13:39.745831911+01:00
+categories:
+  - photos
 coverImage: cdn:/5dfed42211aafca2f47fa437aa14841e3dda52341f5699efe0b6856149bb9e8d
 ---
 

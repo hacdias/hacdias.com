@@ -2,6 +2,8 @@
 title: An Update to My DigiD Saga and Driving Licenses
 date: 2023-07-03T16:38:06+02:00
 lastmod: 2023-07-07T10:35:49+01:00
+categories:
+  - articles
 tags:
   - government
   - infrastructure

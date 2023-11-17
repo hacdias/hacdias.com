@@ -2,6 +2,8 @@
 title: Recently in October '21
 date: 2021-10-31T17:43:20.560241517Z
 lastmod: 2021-10-31T19:05:34.938609263Z
+categories:
+  - articles
 tags:
   - now
 ---

@@ -1,6 +1,8 @@
 ---
 title: Recently in May '22
 date: 2022-06-01T16:08:21.646581771+02:00
+categories:
+  - articles
 tags:
   - now
 ---

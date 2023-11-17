@@ -1,6 +1,8 @@
 ---
 title: Recently in November '22
 date: 2022-11-30T17:17:47.424154742+01:00
+categories:
+  - articles
 tags:
   - now
 ---

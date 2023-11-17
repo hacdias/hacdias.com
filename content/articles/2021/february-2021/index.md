@@ -1,6 +1,8 @@
 ---
 title: Recently in February '21
 date: 2021-03-01T07:30:00+01:00
+categories:
+  - articles
 tags:
   - now
 ---

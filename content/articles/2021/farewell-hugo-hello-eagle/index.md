@@ -1,6 +1,8 @@
 ---
 title: Farewell, Hugo! Hello, Eagle
 date: 2021-11-19T08:02:07.764131763+01:00
+categories:
+  - articles
 tags:
   - meta
   - blog-engine

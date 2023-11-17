@@ -2,6 +2,8 @@
 title: Verifying My Personal Website
 description: Got myself a verified checkmark
 date: 2022-11-14T11:41:03.405826199+01:00
+categories:
+  - articles
 tags:
   - personal-website
 coverImage: cdn:/1858a747667c2d9b8c64ccac04679aae7c3caacabadcf172c44ceca288aaae7b

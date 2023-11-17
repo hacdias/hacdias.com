@@ -1,6 +1,8 @@
 ---
 title: Recently in February '22
 date: 2022-02-28T09:49:52.675741749+01:00
+categories:
+  - articles
 tags:
   - now
 ---

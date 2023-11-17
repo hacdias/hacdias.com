@@ -1,6 +1,8 @@
 ---
 title: Differences Between C, C++ and C#
 date: 2016-11-01T00:00:00Z
+categories:
+  - articles
 tags:
   - computers
   - c

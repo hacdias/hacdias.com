@@ -2,6 +2,8 @@
 title: Is It Time To Build My Own CMS?
 date: 2021-02-04T22:22:00+01:00
 lastmod: 2021-02-16T20:20:27.750516656Z
+categories:
+  - articles
 tags:
   - meta
   - blog-engine

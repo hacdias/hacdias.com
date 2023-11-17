@@ -1,6 +1,8 @@
 ---
 title: Sunset & Sky
 date: 2020-03-31T12:00:00.893Z
+categories:
+  - photos
 coverImage: cdn:/2020-03-sunset-tree
 ---
 

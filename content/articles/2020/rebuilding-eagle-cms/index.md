@@ -2,6 +2,8 @@
 title: Rebuilding Eagle, My Website’s CMS
 description: I have been working on updating my website's backend, called Eagle. It is full of new features, such as search and ActivityPub.
 date: 2020-10-12T09:00:00+02:00
+categories:
+  - articles
 tags:
   - meta
   - personal-website

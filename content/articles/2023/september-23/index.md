@@ -1,6 +1,8 @@
 ---
 title: Recently in September '23
 date: 2023-10-02T09:18:20+02:00
+categories:
+  - articles
 tags:
   - now
 ---

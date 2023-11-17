@@ -2,6 +2,8 @@
 title: BlockLearning Framework Master Thesis
 description: Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework
 date: 2022-09-07T17:00:06.443507583+02:00
+categories:
+  - articles
 tags:
   - thesis
   - publications

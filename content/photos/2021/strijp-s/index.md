@@ -1,6 +1,8 @@
 ---
 title: Strijp-S
 date: 2021-01-31T07:33:49Z
+categories:
+  - photos
 coverImage: cdn:/2021-01-strijps
 syndications:
   - https://www.instagram.com/p/COUnXtrrMQJ/

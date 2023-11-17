@@ -1,6 +1,8 @@
 ---
 title: I Miss
 date: 2020-07-16T17:01:05.464Z
+categories:
+  - articles
 tags:
   - writing
   - creative

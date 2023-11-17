@@ -1,6 +1,8 @@
 ---
 title: Forest Delicacies
 date: 2023-08-27T17:28:53+02:00
+categories:
+  - photos
 coverImage: cdn:/2023-08-mushrooms-nest
 ---
 

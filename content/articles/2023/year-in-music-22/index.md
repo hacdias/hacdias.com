@@ -1,6 +1,8 @@
 ---
 title: Year in Music '22
 date: 2023-01-02T08:18:47.603761302+01:00
+categories:
+  - articles
 tags:
   - year-in-music
 ---

@@ -1,6 +1,8 @@
 ---
 title: Recently in October '20
 date: 2020-11-01T09:00:00+01:00
+categories:
+  - articles
 tags:
   - now
 ---

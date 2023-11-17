@@ -1,6 +1,8 @@
 ---
 title: A Small Update On My OVPay Experiment
 date: 2022-12-03T19:33:52.155473488+01:00
+categories:
+  - articles
 tags:
   - transit
   - infrastructure

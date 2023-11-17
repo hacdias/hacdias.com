@@ -1,6 +1,8 @@
 ---
 title: Recently in January '23
 date: 2023-01-31T21:35:03.498669637+01:00
+categories:
+  - articles
 tags:
   - now
 ---

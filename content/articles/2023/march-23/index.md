@@ -1,6 +1,8 @@
 ---
 title: Recently in March '23
 date: 2023-03-31T21:33:45.007010976+02:00
+categories:
+  - articles
 tags:
   - now
 ---

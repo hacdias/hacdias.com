@@ -1,6 +1,8 @@
 ---
 title: Read "Tales from the Cafe" by Toshikazu Kawaguchi
 date: 2022-03-02T22:44:27.016541578+01:00
+categories:
+  - readings
 rating: 5
 read:
   author: Toshikazu Kawaguchi

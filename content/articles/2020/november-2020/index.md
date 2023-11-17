@@ -1,6 +1,8 @@
 ---
 title: Recently in November '20
 date: 2020-12-01T08:20:00+01:00
+categories:
+  - articles
 tags:
   - now
 ---

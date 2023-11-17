@@ -1,6 +1,8 @@
 ---
 title: Capturing Leiden
 date: 2022-10-19T11:46:09.317883773+02:00
+categories:
+  - photos
 coverImage: cdn:/8f46b5bce26511483362abe3cf5990d03dc34193fd52c40dd965dcb1a1cd52f8
 syndications:
   - https://www.instagram.com/p/Cj5DHBpIARA/?igshid=MDJmNzVkMjY

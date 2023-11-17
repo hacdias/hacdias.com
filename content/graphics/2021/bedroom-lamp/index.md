@@ -1,6 +1,8 @@
 ---
 title: Bedroom Lamp
 date: 2021-04-16T09:12:20.42246205Z
+categories:
+  - graphics
 tags:
   - pixelart
   - creative

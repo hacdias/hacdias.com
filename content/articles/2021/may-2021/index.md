@@ -1,6 +1,8 @@
 ---
 title: Recently in May '21
 date: 2021-06-02T08:10:59.168283855Z
+categories:
+  - articles
 tags:
   - now
 ---

@@ -1,6 +1,8 @@
 ---
 title: Recently in March '21
 date: 2021-04-01T07:30:00+02:00
+categories:
+  - articles
 tags:
   - now
 ---

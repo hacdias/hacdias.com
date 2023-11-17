@@ -1,6 +1,8 @@
 ---
 title: Recently in February '23
 date: 2023-02-28T18:58:30.837492769+01:00
+categories:
+  - articles
 tags:
   - now
 ---

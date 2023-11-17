@@ -1,6 +1,8 @@
 ---
 title: A Deutsche Bahn Tale on ICE
 date: 2023-02-26T11:44:12.868255483+01:00
+categories:
+  - articles
 tags:
   - transit
   - infrastructure

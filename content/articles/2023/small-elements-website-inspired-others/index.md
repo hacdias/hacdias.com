@@ -1,6 +1,8 @@
 ---
 title: Small Elements From My Website Inspired by Others
 date: 2023-06-20T16:53:31.690771654+02:00
+categories:
+  - articles
 tags:
   - meta
   - indieweb

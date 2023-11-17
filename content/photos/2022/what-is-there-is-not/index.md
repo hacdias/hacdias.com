@@ -1,6 +1,8 @@
 ---
 title: What Is There Is Not
 date: 2022-10-18T13:14:45.621253396+02:00
+categories:
+  - photos
 coverImage: cdn:/bc0d50d29ee7bfb34953264b7ec672b7463c9be883501d43859ede39c7e20e0c
 syndications:
   - https://www.instagram.com/p/Cj2nT0QIjzW/?igshid=YmMyMTA2M2Y=

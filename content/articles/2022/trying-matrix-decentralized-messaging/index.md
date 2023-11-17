@@ -1,6 +1,8 @@
 ---
 title: Trying Matrix Decentralized Messaging Service
 date: 2022-06-05T22:56:19.748105451+02:00
+categories:
+  - articles
 tags:
   - matrix
   - decentralization

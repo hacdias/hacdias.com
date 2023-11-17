@@ -1,6 +1,8 @@
 ---
 title: 'Talk: InterPlanetary Specifications'
 date: 2023-04-19T20:00:00Z
+categories:
+  - articles
 tags:
   - ipfs
   - talk

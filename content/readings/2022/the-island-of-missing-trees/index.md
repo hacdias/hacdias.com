@@ -1,6 +1,8 @@
 ---
 title: Read "The Island of Missing Trees" by Elif Shafak
 date: 2022-12-25T11:20:30.172268833+01:00
+categories:
+  - readings
 rating: 4
 read:
   author: Elif Shafak

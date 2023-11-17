@@ -1,6 +1,8 @@
 ---
 title: Recently in September '21
 date: 2021-09-30T17:31:36.325426421Z
+categories:
+  - articles
 tags:
   - now
 ---

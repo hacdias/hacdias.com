@@ -1,6 +1,8 @@
 ---
 title: Read "Red, White & Royal Blue" by Casey McQuiston
 date: 2022-01-30T23:06:19.086212536+01:00
+categories:
+  - readings
 rating: 4
 read:
   author: Casey McQuiston

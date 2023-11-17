@@ -1,6 +1,8 @@
 ---
 title: Maastricht I
 date: 2021-05-31T00:00:00Z
+categories:
+  - photos
 coverImage: cdn:/2021-05-maastricht-03
 ---
 

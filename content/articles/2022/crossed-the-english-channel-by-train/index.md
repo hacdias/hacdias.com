@@ -1,6 +1,8 @@
 ---
 title: Crossed the English Channel by Train
 date: 2022-04-27T08:05:49.471903093+02:00
+categories:
+  - articles
 tags:
   - travel
 ---

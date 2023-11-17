@@ -1,6 +1,8 @@
 ---
 title: Utrecht III
 date: 2021-04-30T12:02:00Z
+categories:
+  - photos
 coverImage: cdn:/2021-04-utrecht-11
 ---
 

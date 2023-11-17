@@ -1,6 +1,8 @@
 ---
 title: Distributed Tracing with Open Telemetry
 date: 2023-04-18T18:30:00+02:00
+categories:
+  - articles
 tags:
   - decentralization
   - telemetry

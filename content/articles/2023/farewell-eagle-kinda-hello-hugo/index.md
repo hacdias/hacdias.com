@@ -1,6 +1,8 @@
 ---
 title: Farewell, Eagle (kinda)! Hello, Hugo
 date: 2023-06-13T21:54:05.361338989+02:00
+categories:
+  - articles
 tags:
   - meta
   - blog-engine

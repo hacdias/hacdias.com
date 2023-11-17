@@ -2,6 +2,8 @@
 title: 'Project Lifie: The Video'
 description: After collecting a daily selfie for the past 7 years, here is the final video.
 date: 2023-10-20T09:05:20+02:00
+categories:
+  - articles
 feedContentWarning: true
 syndications:
   - https://fosstodon.org/@hacdias/111266075579921337

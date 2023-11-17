@@ -1,6 +1,8 @@
 ---
 title: Recently in October '23
 date: 2023-10-31T15:46:51+01:00
+categories:
+  - articles
 tags:
   - now
 syndications:

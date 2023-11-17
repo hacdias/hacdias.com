@@ -1,6 +1,8 @@
 ---
 title: Recently in July '22
 date: 2022-07-31T15:19:49.820625415+02:00
+categories:
+  - articles
 tags:
   - now
 ---

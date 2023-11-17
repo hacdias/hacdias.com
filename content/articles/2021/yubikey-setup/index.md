@@ -2,6 +2,8 @@
 title: YubiKey Setup for GPG, SSH and 2FA
 date: 2021-10-17T15:13:25.51356269Z
 lastmod: 2022-06-04T12:48:59.992786835+02:00
+categories:
+  - articles
 tags:
   - security
   - git

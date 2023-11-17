@@ -1,6 +1,8 @@
 ---
 title: Read "O ano da morte de Ricardo Reis" by José Saramago
 date: 2022-01-17T17:39:36.758940822Z
+categories:
+  - readings
 rating: 4
 read:
   author: José Saramago
