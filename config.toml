@@ -13,10 +13,8 @@ summaryLength = 300
 
 [permalinks]
   tags = '/tags/:title/'
-  articles = '/:year/:month/:day/:filename/'
-  photos = '/:year/:month/:day/:filename/'
-  readings = '/:year/:month/:day/:filename/'
-  graphics = '/:year/:month/:day/:filename/'
+  categories = '/:title/'
+  posts = '/:year/:month/:day/:filename/'
 
 [markup]
   [markup.goldmark]
@@ -82,6 +80,7 @@ summaryLength = 300
 
 [outputs]
   taxonomy = ['HTML']
+  term = ['HTML', 'RSS', 'JSON']
   home = ['HTML', 'RSS', 'JSON']
   section = ['HTML', 'RSS', 'JSON']
   page = ['HTML']
