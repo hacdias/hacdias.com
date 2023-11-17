@@ -1,33 +1,19 @@
 {{ define "main" }}
 <header>
-  <h1><eagle-error-title>404 Not Found</eagle-error-title></h1>
+  <h1>404 Not Found</h1>
 </header>
 
 <div>
-  <eagle-error error='400' class='dn'>
-    <p>The request you sent is invalid.</p>
-  </eagle-error>
+  <p>
+    We searched and we searched, but the content you're looking for could not be found.
+    Sorry. In the meanwhile, look at the animation below I made! Sometimes, I dabble
+    with other kinds of activities, such as pixel art. In this website, you can find some
+    of them, some more hidden than others!
+  </p>  §
 
-  <eagle-error error='403' class='dn'>
-    <p>It seems you don't have permission to see this content.</p>
-  </eagle-error>
-
-  <eagle-error error='404 410'>
-    <p>
-      We searched and we searched, but the content you're looking for could not be found.
-      Sorry. In the meanwhile, look at the animation below I made! Sometimes, I dabble
-      with other kinds of activities, such as pixel art. In this website, you can find some
-      of them, some more hidden than others!
-    </p>
-
-    {{-
-      partial "helpers/figure"
-      (dict "Destination" "https://cdn.hacdias.com/media/2020-04-pixel-house.gif?class=br")
-    -}}
-  </eagle-error>
-
-  <eagle-error-details class='dn'>
-    <div class='box'>Error: <eagle-error-details-value></eagle-error-details-value></div>
-  </eagle-error-details>
+  {{-
+    partial "helpers/figure"
+    (dict "Destination" "https://cdn.hacdias.com/media/2020-04-pixel-house.gif?class=br")
+  -}}
 </div>
 {{ end }}
