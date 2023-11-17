@@ -1,27 +1,21 @@
-<header>
-  <h1>{{ .Title }}</h1>
-</header>
+{{ template "panel-navigation.html" . }}
 
-<div>
-  {{ template "panel-navigation.html" . }}
+<h2>Generate Token</h2>
 
-  <h2>Generate Token</h2>
+<form id='token' method='post' class='block-form'>
+  <input type='hidden' name='token' value='true' />
+  <input required type='url' name='client_id' placeholder='Client ID'>
+  <input required type='text' name='scope' placeholder='Scope'>
+  <select name='expiry'>
+    <option value='' disabled selected hidden>Expiry</option>
+    <option value='7'>1 Week</option>
+    <option value='90'>3 Months</option>
+    <option value='180'>6 Months</option>
+    <option value='0'>Infinity</option>
+  </select>
+  <button>Submit</button>
+</form>
 
-  <form id='token' method='post' class='block-form'>
-    <input type='hidden' name='token' value='true' />
-    <input required type='url' name='client_id' placeholder='Client ID'>
-    <input required type='text' name='scope' placeholder='Scope'>
-    <select name='expiry'>
-      <option value='' disabled selected hidden>Expiry</option>
-      <option value='7'>1 Week</option>
-      <option value='90'>3 Months</option>
-      <option value='180'>6 Months</option>
-      <option value='0'>Infinity</option>
-    </select>
-    <button>Submit</button>
-  </form>
-
-  {{ with .Data.Token }}
-    <pre style='word-break: break-all; white-space: break-spaces;'>{{ . }}</pre>
-  {{ end }}
-</div>
+{{ with .Token }}
+  <pre style='word-break: break-all; white-space: break-spaces;'>{{ . }}</pre>
+{{ end }}

@@ -1,24 +1,18 @@
-<header>
-  <h1>{{ .Title }}</h1>
-</header>
+{{ if eq .Status 400 }}
+  <p>The request you sent is invalid.</p>
+{{ else if eq .Status 403 }}
+  <p>It seems you don't have permission to see this content.</p>
+{{ else if or (eq .Status 404) (eq .Status 410)}}
+  <p>
+    We searched and we searched, but the content you're looking for could not be found.
+    Sorry. In the meanwhile, look at the animation below I made! Sometimes, I dabble
+    with other kinds of activities, such as pixel art. In this website, you can find some
+    of them, some more hidden than others!
+  </p>
 
-<div>
-  {{ if eq .Data.Status 400 }}
-    <p>The request you sent is invalid.</p>
-  {{ else if eq .Data.Status 403 }}
-    <p>It seems you don't have permission to see this content.</p>
-  {{ else if or (eq .Data.Status 404) (eq .Data.Status 410)}}
-    <p>
-      We searched and we searched, but the content you're looking for could not be found.
-      Sorry. In the meanwhile, look at the animation below I made! Sometimes, I dabble
-      with other kinds of activities, such as pixel art. In this website, you can find some
-      of them, some more hidden than others!
-    </p>
+  <img src="https://cdn.hacdias.com/media/2020-04-pixel-house.gif?class=br" class="br" loading="lazy">
+{{ end }}
 
-    <img src="https://cdn.hacdias.com/media/2020-04-pixel-house.gif?class=br" class="br" loading="lazy">
-  {{ end }}
-
-  {{ with .Data.Message }}
-    <div class='box'>Error: {{ . }}</div>
-  {{ end }}
-</div>
+{{ with .Message }}
+  <div class='box'>Error: {{ . }}</div>
+{{ end }}

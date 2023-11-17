@@ -1,57 +1,51 @@
-<header>
-  <h1>{{ .Title }}</h1>
-</header>
+<form id='search-form' class='inline-form' style="margin: 1rem 0">
+  <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" value="{{ .Query }}" />
+  <button/>Go</button>
+</form>
 
-<div>
-  <form id='search-form' class='inline-form' style="margin: 1rem 0">
-    <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" value="{{ .Data.Query }}" />
-    <button/>Go</button>
-  </form>
-
-  {{ if eq (len .Data.Query) 0 }}
+{{ if eq (len .Query) 0 }}
+  <div class='box'>
+    <p>ℹ️ You haven't searched for anything yet!</p>
+  </div>
+{{ else }}
+  {{ if eq (len .Entries) 0 }}
     <div class='box'>
-      <p>ℹ️ You haven't searched for anything yet!</p>
+      <p>🤔 Searched and searched, but nothing could be found!</p>
     </div>
   {{ else }}
-    {{ if eq (len .Data.Entries) 0 }}
-      <div class='box'>
-        <p>🤔 Searched and searched, but nothing could be found!</p>
+    {{ range .Entries }}
+      <div class='card'>
+        <header>
+          <a href='{{ .Permalink }}' class='nl'><h2>{{ .Title }}</h2></a>
+          {{ if or .Tags (not .Lastmod.IsZero) (not .Date.IsZero) }}
+            <p>
+              {{- if .Lastmod.After .Date -}}
+                <time datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
+                  Updated on {{ .Lastmod.Format "2 January 2006" }}
+                </time>
+              {{ else  if not .Date.IsZero -}}
+                <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+                  Published on {{ .Date.Format "2 January 2006" }}
+                </time>
+              {{- end -}}
+              {{ range .Tags -}}
+                <a class="tag" href="/tags/{{ . }}/">#{{ . }}</a>
+              {{ end -}}
+            </p>
+          {{ end }}
+        </header>
+        <div class='copy'><p>{{ .Summary }}</p></div>
+        <a href='{{ .Permalink }}' class='more'>Read More →</a>
       </div>
-    {{ else }}
-      {{ range .Data.Entries }}
-        <div class='card'>
-          <header>
-            <a href='{{ .Permalink }}' class='nl'><h2>{{ .Title }}</h2></a>
-            {{ if or .Tags (not .Lastmod.IsZero) (not .Date.IsZero) }}
-              <p>
-                {{- if .Lastmod.After .Date -}}
-                  <time datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
-                    Updated on {{ .Lastmod.Format "2 January 2006" }}
-                  </time>
-                {{ else  if not .Date.IsZero -}}
-                  <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-                    Published on {{ .Date.Format "2 January 2006" }}
-                  </time>
-                {{- end -}}
-                {{ range .Tags -}}
-                  <a class="tag" href="/tags/{{ . }}/">#{{ . }}</a>
-                {{ end -}}
-              </p>
-            {{ end }}
-          </header>
-          <div class='copy'><p>{{ .Summary }}</p></div>
-          <a href='{{ .Permalink }}' class='more'>Read More →</a>
-        </div>
-      {{ end }}
     {{ end }}
-
-    <nav class="pagination">
-      <a aria-label="Previous" class="page-link" role="button" {{ with .Data.Previous }}href="{{ . }}"{{ else }}aria-disabled="true"{{ end }}>
-        <span aria-hidden="true">&laquo; Previous</span>
-      </a>
-      <a aria-label="Next" class="page-link" role="button"  {{ with .Data.Next }}href="{{ . }}"{{ else }}aria-disabled="true"{{ end }} >
-        <span aria-hidden="true">Next &raquo;</span>
-      </a>
-    </nav>
   {{ end }}
-</div>
+
+  <nav class="pagination">
+    <a aria-label="Previous" class="page-link" role="button" {{ with .Previous }}href="{{ . }}"{{ else }}aria-disabled="true"{{ end }}>
+      <span aria-hidden="true">&laquo; Previous</span>
+    </a>
+    <a aria-label="Next" class="page-link" role="button"  {{ with .Next }}href="{{ . }}"{{ else }}aria-disabled="true"{{ end }} >
+      <span aria-hidden="true">Next &raquo;</span>
+    </a>
+  </nav>
+{{ end }}

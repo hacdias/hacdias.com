@@ -1,7 +1,3 @@
-<header>
-  <h1>{{ .Title }}</h1>
-</header>
-
 <style>
 .eagle-actions {
   display: grid;
@@ -25,37 +21,35 @@
 }
 </style>
 
-<div>
-  {{ template "panel-navigation.html" . }}
+{{ template "panel-navigation.html" . }}
 
-  <h2>Quick Actions</h2>
+<h2>Quick Actions</h2>
 
-  <div class='eagle-actions'>
-  {{ range .Data.Actions }}
-    <form method=POST>
-      <input type='hidden' name='action' value='{{ . }}' />
-      <button style='width: 100%'>{{ . }}</button>
-    </form>
-  {{ end }}
-  </div>
-
-  {{ if .Data.ActionSuccess }}
-    <div class='box'>✅ Success!</div>
-  {{ end }}
-
-  <h2>Upload File</h2>
-
-  <div class='box'>⚠️ Do not forget to give the file a good name!</div>
-
-  <form id='upload' method='post' class='block-form' enctype='multipart/form-data'>
-    <input type='file' name='file' />
-    <div class='eagle-options'>
-      <label><input type='checkbox' name='preserve-filename' checked /> Preserve Filename</label>
-    </div>
-    <button>Upload</button>
+<div class='eagle-actions'>
+{{ range .Actions }}
+  <form method=POST>
+    <input type='hidden' name='action' value='{{ . }}' />
+    <button style='width: 100%'>{{ . }}</button>
   </form>
-
-  {{ with .Data.MediaLocation }}
-    <pre class='eagle-pre'>{{ . }}</pre>
-  {{ end }}
+{{ end }}
 </div>
+
+{{ if .ActionSuccess }}
+  <div class='box'>✅ Success!</div>
+{{ end }}
+
+<h2>Upload File</h2>
+
+<div class='box'>⚠️ Do not forget to give the file a good name!</div>
+
+<form id='upload' method='post' class='block-form' enctype='multipart/form-data'>
+  <input type='file' name='file' />
+  <div class='eagle-options'>
+    <label><input type='checkbox' name='preserve-filename' checked /> Preserve Filename</label>
+  </div>
+  <button>Upload</button>
+</form>
+
+{{ with .MediaLocation }}
+  <pre class='eagle-pre'>{{ . }}</pre>
+{{ end }}
