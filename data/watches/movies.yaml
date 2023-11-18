@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: 'The Hunger Games: The Ballad of Songbirds & Snakes'
+  date: 2023-11-18
+  rating: 4
 - name: Paradise
   date: 2023-11-10
   rating: 3
