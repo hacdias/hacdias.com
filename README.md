@@ -24,17 +24,7 @@ Other important notes:
 - All posts go into the `/posts/` section, which does not get rendered.
 - All posts are built to `/yyyy/mm/dd/title/` URL.
 
-### Bonus: serve `humans.txt` when using `curl` with Caddy
-
-```caddy
-@curl {
-  path /
-  header user-agent *curl*
-}
-
-rewrite @curl /humans.txt
-```
-
 ## License
 
-[MIT License](LICENSE) © [Henrique Dias](https://hacdias.com) [content not included]
+Codebase licensed with [MIT License](LICENSE) © [Henrique Dias](https://hacdias.com).
+Anything other than source code (e.g., content, photos) is copyrighted.
