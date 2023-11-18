@@ -2,13 +2,15 @@
 title: "Open Sourcering My Website"
 date: 2023-11-18T11:17:52+01:00
 coverImage: cdn:/2023-11-noisy-glow
+syndications:
+  - https://fosstodon.org/@hacdias/111431044010749799
 tags:
-- git
-- meta
-- open-source
-- personal-website
+  - git
+  - meta
+  - open-source
+  - personal-website
 categories:
-- articles
+  - articles
 ---
 
 For some, it may come as a surprise that my website's source code is not open-source. That hasn't, however, always been the case. Before I [fully switching](/2021/11/19/farewell-hugo-hello-eagle/) to my custom CMS - named Eagle -, it did use to be open-source.
