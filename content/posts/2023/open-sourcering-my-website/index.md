@@ -1,6 +1,7 @@
 ---
 title: "Open Sourcering My Website"
 date: 2023-11-18T11:17:52+01:00
+coverImage: cdn:/2023-11-noisy-glow
 tags:
 - git
 - meta
