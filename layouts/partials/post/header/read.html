@@ -1,0 +1,21 @@
+<div class="box p-read-of h-cite">
+  <p>
+    📕 Read
+    <strong><span class="p-name">{{ .Params.read.name }}</span></strong>
+    by <span class="p-author">{{ .Params.read.author }}</span>
+  </p>
+
+  <p style="margin-bottom: 0">
+    <small>
+      {{ with .Params.read.uid }}
+        {{ $parts := split . ":" }}
+        {{ $type := index $parts 0 }}
+        {{ $id := index $parts 1 }}
+        <span style="text-transform: uppercase">{{ $type }}</span>: {{ $id }}</a>
+      {{ end }}
+      {{ with .Params.read.pages }}| Pages: <span class="p-pages">{{ . }}</span>{{ end }}
+      {{ with .Params.read.publisher }}| Publisher: <span class="p-publisher">{{ . }}</span>{{ end }}
+    </small>
+  </p>
+</div>
+

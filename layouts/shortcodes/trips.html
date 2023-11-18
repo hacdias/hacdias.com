@@ -1,0 +1,28 @@
+{{ $logs := partial "fns/group-date-year" .Site.Data.trips }}
+<div class='h-feed logs'>
+  {{ range $logs.years }}
+    <div>
+      {{ $year := . }}
+      {{ $entries := index $logs.map $year }}
+
+      <div class='h'>
+        <span id='{{ $year }}'>{{ $year }}</span>
+        <span>({{ len $entries }} entries)</span>
+      </div>
+
+      {{ with $entries }}
+        {{ range $entry := . }}
+          <div class='e h-entry'>
+            <div>{{ .name }}</div>
+            <div>{{ .place }}</div>
+            <div>
+              <time class='tab lg small'>{{ dateFormat "Jan 02" .start }}</time>
+              <small class='lg'>→</small>
+              <time class='tab lg small'>{{ dateFormat "Jan 02" .date }}</time>
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+</div>

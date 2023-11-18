@@ -1,0 +1,21 @@
+{
+  "name": "editor",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "",
+  "dependencies": {
+    "@codemirror/commands": "^6.1.2",
+    "@codemirror/lang-markdown": "^6.0.5",
+    "@codemirror/state": "^6.1.4",
+    "@codemirror/view": "^6.6.0",
+    "@retronav/ixora": "^0.3.2",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "codemirror": "^6.0.1",
+    "rollup": "^3.5.1"
+  }
+}

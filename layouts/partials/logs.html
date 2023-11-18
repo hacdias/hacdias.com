@@ -1,0 +1,33 @@
+{{ $logs := partial "fns/group-date-year" . }}
+<div class='logs'>
+  {{ range $logs.years }}
+    <div>
+      {{ $year := . }}
+      {{ $logs := index $logs.map $year }}
+
+      <div class='h'>
+        <span>{{ if eq $year "others" }}Others{{ else }}{{ $year }}{{ end }}</span>
+        <span>({{ len $logs }} entries)</span>
+      </div>
+
+      {{ with $logs }}
+        {{ range . }}
+          <div class='e'>
+            <div>
+              {{ with .url }}<a href='{{ . }}' class='nl lh'>{{ end }}
+                {{ .name }}{{ with .season }} (Season {{. }}){{ end }}
+              {{ with .url }}</a>{{ end }}
+            </div>
+            <div>{{ .author }}</div>
+            <div>{{ with .rating }}{{ partialCached "helpers/stars" (slice . 5) . 5 }}{{ end }}</div>
+            <div>
+              {{ with .date }}
+                <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" . }}' class='tab lg small'>{{ dateFormat "Jan 02" . }}</time>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+</div>

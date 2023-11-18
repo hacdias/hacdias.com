@@ -1,0 +1,51 @@
+:root {
+  --accent: #6aa3f2;
+}
+
+@media screen and (min-width: 53.001rem) {
+  body {
+    background: #4b7bec url(https://cdn.hacdias.com/media/2021-02-snowflake.svg);
+    background-size: 50px;
+    background-attachment: fixed;
+  }
+
+  #navbar {
+    border-radius: 0;
+  }
+}
+
+.snowflakes {
+  background: radial-gradient(#4b7bec, #3867d6);
+  height: 25rem;
+  position: relative;
+}
+
+.snowflakes canvas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 100%;
+}
+
+#controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
+  text-align: center;
+  margin: 1rem auto;
+}
+
+#controls label {
+  font-weight: bold;
+  display:block;
+}
+
+#controls input {
+  width: 80%;
+}
+
+@media screen and (max-width: 30rem) {
+  .snowflakes {
+    height: 20rem;
+  }
+}

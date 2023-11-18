@@ -1,0 +1,20 @@
+{{- $pageTitle := partialCached "fns/title" . .Title .Data.Singular }}
+{{- $pages := .Pages }}
+{{ if .IsHome }}{{ $pages = where .Site.RegularPages "Params.categories" "ne" nil }}{{ end }}
+{{- $pages = $pages | first .Site.Config.Services.RSS.Limit }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ printf "%s - %s" $pageTitle .Site.Title | safeHTML }}</title>
+    <link>{{ .Permalink }}</link>
+    {{ range $pages }}
+    <item>
+      {{ with partialCached "fns/title" . .Title .Data.Singular }}<title>{{ . }}</title>{{ end }}
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ partialCached "post/feed-content" . .Permalink | html }}</description>
+    </item>
+    {{ end }}
+  </channel>
+</rss>

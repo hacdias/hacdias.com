@@ -1,0 +1,21 @@
+{{ $years := slice }}
+{{ $map := dict }}
+
+{{ range . }}
+  {{ $year := "others" }}
+  {{ if .date }}
+    {{ $year = dateFormat "2006" .date }}
+  {{ end }}
+  {{ $years = $years | append $year }}
+  {{ $curr := (or (index $map $year) (slice)) }}
+  {{ $map = merge $map (dict $year (append . $curr)) }}
+{{ end }}
+
+{{ $years = sort ($years | uniq) "value" "desc" }}
+{{ $sortedMap := dict }}
+
+{{ range $key, $value := $map }}
+  {{ $sortedMap = merge $sortedMap (dict $key (sort $value "date" "desc" ))}}
+{{ end }}
+
+{{ return dict "years" $years "map" $sortedMap }}

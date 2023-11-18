@@ -1,0 +1,36 @@
+{{ define "main" }}
+<main role='main'>
+  <header>
+    <h1><eagle-error-title>{{ .Title }}</eagle-error-title></h1>
+  </header>
+
+  <div class='copy'>
+    <eagle-error error='400' class='dn'>
+      <p>The request you sent is invalid.</p>
+    </eagle-error>
+
+    <eagle-error error='403' class='dn'>
+      <p>It seems you don't have permission to see this content.</p>
+    </eagle-error>
+
+    <eagle-error error='404 410'>
+      <style>
+        img.egif {
+          width: 100%;
+          max-width: 24rem;
+          image-rendering: pixelated;
+          border-radius: var(--radius);
+          margin: 0 auto;
+          display: block;
+        }
+      </style>
+
+      <img title='Do you want a slap too?' class='egif' src='https://cdn.hacdias.com/media/09f5f4e275091ba797fb0e4d2dd12c0fd667284f869f6592cb3c08018d9d844e.gif' />
+    </eagle-error>
+
+    <eagle-error-details class='dn'>
+      <div class='box'>Error: <eagle-error-details-value></eagle-error-details-value></div>
+    </eagle-error-details>
+  </div>
+</main>
+{{ end }}

@@ -1,0 +1,1050 @@
+- name: The Last of Us
+  season: 1
+  rating: 4
+  date: 2023-03-19
+- name: 'The Witcher: Blood Origin'
+  season: 1
+  rating: 3
+  date: 2023-03-10
+- name: His Dark Materials
+  season: 3
+  rating: 4
+  date: 2023-02-23
+- name: His Dark Materials
+  season: 2
+  rating: 4
+  date: 2023-02-18
+- name: His Dark Materials
+  season: 1
+  rating: 4
+  date: 2023-02-10
+- name: Emily In Paris
+  season: 3
+  rating: 3
+  date: 2022-12-30
+- name: White Lotus
+  season: 1
+  rating: 4
+  date: 2022-12-24
+- name: White Lotus
+  season: 2
+  rating: 5
+  date: 2022-12-19
+- name: Warrior Nun
+  season: 2
+  rating: 4
+  date: 2022-12-15
+- name: One of Us Is Lying
+  season: 2
+  rating: 3
+  date: 2022-12-10T21:49:59Z
+- name: Wednesday
+  season: 1
+  rating: 4
+  date: 2022-12-08T21:21:31Z
+- name: "1899"
+  season: 1
+  rating: 4
+  date: 2022-12-01T20:08:00Z
+- name: RuPaul's Drag Race UK
+  season: 4
+  date: 2022-11-26T18:43:45Z
+- name: Elite
+  season: 6
+  date: 2022-11-25T13:09:17Z
+- name: The Watcher
+  season: 1
+  rating: 4
+  date: 2022-11-18T17:39:00Z
+- name: The Handmaid's Tale
+  season: 5
+  date: 2022-11-15T17:26:26Z
+- name: Young Royals
+  season: 2
+  date: 2022-11-03T19:39:44Z
+- name: Big Mouth
+  season: 6
+  date: 2022-10-29T19:17:17Z
+- name: House of the Dragon
+  season: 1
+  date: 2022-10-26T21:03:20Z
+- name: The Midnight Club
+  season: 1
+  date: 2022-10-21T05:53:12Z
+- name: 'She-Hulk: Attorney at Law'
+  season: 1
+  date: 2022-10-15T15:57:59Z
+- name: Heartbreak High
+  season: 1
+  date: 2022-09-26T17:57:45Z
+- name: 'Fate: The Winx Saga'
+  season: 2
+  date: 2022-09-20T16:28:22Z
+- name: Ms. Marvel
+  season: 1
+  date: 2022-09-18T15:41:47Z
+- name: The Imperfects
+  season: 1
+  date: 2022-09-14T20:48:06Z
+- name: Sunset
+  season: 2
+  date: 2022-09-03T06:22:29Z
+- name: The Sandman
+  season: 1
+  date: 2022-08-29T20:59:17Z
+- name: 'Heathrow: Britain''s Busiest Airport'
+  season: 8
+  date: 2022-08-28T13:13:14Z
+- name: Never Have I Ever
+  season: 3
+  date: 2022-08-22T15:56:16Z
+- name: RuPaul's Drag Race Down Under
+  season: 2
+  date: 2022-08-16T06:47:23Z
+- name: Locke & Key
+  season: 3
+  date: 2022-08-11T19:07:11Z
+- name: The House of Flowers
+  season: 3
+  date: 2022-08-07T08:04:22Z
+- name: The House of Flowers
+  season: 2
+  date: 2022-08-07T08:03:45Z
+- name: The House of Flowers
+  season: 1
+  date: 2022-08-04T10:30:42Z
+- name: I Am Not Okay with This
+  season: 1
+  date: 2022-08-03T08:52:26Z
+- name: Uncoupled
+  season: 1
+  date: 2022-08-01T19:59:40Z
+- name: RuPaul's Drag Race All Stars
+  season: 7
+  date: 2022-07-30T09:46:35Z
+- name: Rebelde
+  season: 2
+  date: 2022-07-28T15:52:51Z
+- name: New Heights
+  season: 1
+  date: 2022-07-24T21:34:21Z
+- name: 'RuPaul''s Drag Race All Stars: Untucked!'
+  season: 4
+  date: 2022-07-16T20:42:57Z
+- name: Control Z
+  season: 3
+  date: 2022-07-13T20:33:09Z
+- name: Stranger Things
+  season: 4
+  date: 2022-07-02T20:25:23Z
+- name: The Umbrella Academy
+  season: 3
+  date: 2022-06-24T16:33:13Z
+- name: Welcome to Eden
+  season: 1
+  date: 2022-06-19T11:05:27Z
+- name: The 100
+  season: 4
+  date: 2022-06-17T19:58:49Z
+- name: Love, Victor
+  season: 3
+  date: 2022-06-17T05:30:41Z
+- name: First Kill
+  season: 1
+  date: 2022-06-14T11:09:22Z
+- name: The 100
+  season: 3
+  date: 2022-06-09T17:27:50Z
+- name: Workin' Moms
+  season: 6
+  date: 2022-05-21T18:51:30Z
+- name: Workin' Moms
+  season: 5
+  date: 2022-05-21T18:50:56Z
+- name: Workin' Moms
+  season: 4
+  date: 2022-05-21T18:50:49Z
+- name: Workin' Moms
+  season: 3
+  date: 2022-05-21T18:50:47Z
+- name: Workin' Moms
+  season: 2
+  date: 2022-05-21T18:50:46Z
+- name: Workin' Moms
+  season: 1
+  date: 2022-05-21T18:50:42Z
+- name: The Good Doctor
+  season: 5
+  date: 2022-05-21T18:39:40Z
+- name: Young Sheldon
+  season: 5
+  date: 2022-05-21T17:31:17Z
+- name: The 100
+  season: 2
+  date: 2022-05-08T06:07:43Z
+- name: WandaVision
+  season: 1
+  date: 2022-05-01T18:34:59Z
+- name: Loki
+  season: 1
+  date: 2022-05-01T07:14:42Z
+- name: The 100
+  season: 1
+  date: 2022-04-29T17:37:53Z
+- name: Heartstopper
+  season: 1
+  date: 2022-04-25T20:20:46Z
+- name: Bridgerton
+  season: 2
+  date: 2022-04-25T17:05:21Z
+- name: RuPaul's Drag Race
+  season: 14
+  date: 2022-04-24T17:48:45Z
+- name: Elite
+  season: 5
+  date: 2022-04-10T06:58:32Z
+- name: 'RuPaul''s Drag Race: Untucked!'
+  season: 14
+  date: 2022-04-08T21:36:02Z
+- name: Snowpiercer
+  season: 3
+  date: 2022-03-30T19:33:09Z
+- name: Human Resources
+  season: 1
+  date: 2022-03-27T14:31:24Z
+- name: Manifest
+  season: 3
+  date: 2022-03-23T18:57:48Z
+- name: Manifest
+  season: 2
+  date: 2022-03-17T18:06:02Z
+- name: Manifest
+  season: 1
+  date: 2022-03-15T20:18:17Z
+- name: RuPaul's Drag Race UK vs the World
+  season: 1
+  date: 2022-03-11T18:28:11Z
+- name: One of Us Is Lying
+  season: 1
+  date: 2022-03-08T06:45:49Z
+- name: Inventing Anna
+  season: 1
+  date: 2022-03-03T11:05:46Z
+- name: The Legend of Korra
+  season: 4
+  date: 2022-02-23T17:50:56Z
+- name: The Legend of Korra
+  season: 3
+  date: 2022-02-21T21:13:22Z
+- name: The Legend of Korra
+  season: 2
+  date: 2022-02-17T16:42:38Z
+- name: The Legend of Korra
+  season: 1
+  date: 2022-02-16T15:40:24Z
+- name: 'Avatar: The Last Airbender'
+  season: 3
+  date: 2022-02-15T18:55:05Z
+- name: 'Avatar: The Last Airbender'
+  season: 2
+  date: 2022-02-14T21:12:18Z
+- name: 'Avatar: The Last Airbender'
+  season: 1
+  date: 2022-02-14T09:00:47Z
+- name: Archive 81
+  season: 1
+  date: 2022-02-12T22:17:14Z
+- name: Love, Death & Robots
+  season: 2
+  date: 2022-02-05T21:40:40Z
+- name: Emily in Paris
+  season: 2
+  date: 2022-01-10T11:42:25Z
+- name: Emily in Paris
+  season: 1
+  date: 2022-01-09T19:10:21Z
+- name: Rebelde
+  season: 1
+  date: 2022-01-09T11:44:26Z
+- name: Travelers
+  season: 3
+  date: 2022-01-03T11:33:05Z
+- name: Travelers
+  season: 2
+  date: 2022-01-02T13:15:52Z
+- name: Travelers
+  season: 1
+  date: 2021-12-31T18:32:07Z
+- name: 'Degrassi: Next Class'
+  season: 4
+  date: 2021-12-28T22:55:38Z
+- name: 'Degrassi: Next Class'
+  season: 3
+  date: 2021-12-28T12:42:22Z
+- name: 'Degrassi: Next Class'
+  season: 2
+  date: 2021-12-27T18:26:45Z
+- name: 'Elite Short Stories: Samuel Omar'
+  season: 1
+  date: 2021-12-26T20:26:43Z
+- name: 'Elite Short Stories: Patrick'
+  season: 1
+  date: 2021-12-26T16:40:47Z
+- name: The Worst Witch
+  season: 4
+  date: 2021-12-26T14:24:29Z
+- name: The Worst Witch
+  season: 3
+  date: 2021-12-25T22:44:09Z
+- name: The Worst Witch
+  season: 2
+  date: 2021-12-24T20:27:21Z
+- name: The Worst Witch
+  season: 1
+  date: 2021-12-24T12:09:52Z
+- name: The Witcher
+  season: 2
+  date: 2021-12-21T13:26:24Z
+- name: Dash & Lily
+  season: 1
+  date: 2021-12-14T07:35:00Z
+- name: Anne with an E
+  season: 3
+  date: 2021-12-12T15:05:14Z
+- name: Dark
+  season: 3
+  rating: 5
+  date: 2021-12-11T09:29:00Z
+- name: Anne with an E
+  season: 2
+  date: 2021-12-10T17:37:16Z
+- name: Anne with an E
+  season: 1
+  date: 2021-12-08T21:08:09Z
+- name: Elves
+  season: 1
+  date: 2021-12-05T21:20:44Z
+- name: Dark
+  season: 2
+  rating: 5
+  date: 2021-12-05T10:56:19Z
+- name: RuPaul's Drag Race UK
+  season: 3
+  date: 2021-12-04T14:39:01Z
+- name: Big Mouth
+  season: 5
+  date: 2021-12-02T12:56:26Z
+- name: Dark
+  season: 1
+  rating: 5
+  date: 2021-11-13T20:28:52Z
+- name: Locke & Key
+  season: 2
+  date: 2021-10-30T09:17:21Z
+- name: 'Heathrow: Britain''s Busiest Airport'
+  season: 7
+  date: 2021-10-28T19:51:46Z
+- name: Downton Abbey
+  season: 6
+  date: 2021-10-12T16:13:24Z
+- name: Downton Abbey
+  season: 5
+  date: 2021-10-10T14:40:54Z
+- name: Downton Abbey
+  season: 4
+  date: 2021-10-09T07:40:46Z
+- name: Downton Abbey
+  season: 3
+  date: 2021-10-05T17:07:54Z
+- name: Downton Abbey
+  season: 2
+  date: 2021-10-04T18:18:01Z
+- name: Squid Game
+  season: 1
+  date: 2021-10-03T21:30:26Z
+- name: Downton Abbey
+  season: 1
+  date: 2021-09-30T12:53:55Z
+- name: Sex Education
+  season: 3
+  date: 2021-09-18T21:52:59Z
+- name: Sunset
+  season: 1
+  date: 2021-09-03T20:21:00Z
+- name: RuPaul's Drag Race All Stars
+  season: 6
+  date: 2021-09-03T18:22:01Z
+- name: Riverdale
+  season: 2
+  date: 2021-08-22T18:17:54Z
+- name: Riverdale
+  season: 1
+  date: 2021-08-20T16:39:10Z
+- name: Ragnarok
+  season: 2
+  date: 2021-08-15T12:31:01Z
+- name: Ragnarok
+  season: 1
+  date: 2021-08-15T08:17:23Z
+- name: Good Girls
+  season: 4
+  date: 2021-08-11T09:16:27Z
+- name: Control Z
+  season: 2
+  date: 2021-08-06T21:03:12Z
+- name: Marvel's Iron Fist
+  season: 2
+  date: 2021-07-31T20:42:00Z
+- name: Marvel's Iron Fist
+  season: 1
+  date: 2021-07-31T07:52:20Z
+- name: Shadow and Bone
+  season: 1
+  date: 2021-07-23T18:00:46Z
+- name: Never Have I Ever
+  season: 2
+  date: 2021-07-21T14:44:53Z
+- name: Never Have I Ever
+  season: 1
+  date: 2021-07-20T15:12:51Z
+- name: The Handmaid's Tale
+  season: 4
+  date: 2021-07-15T16:04:13Z
+- name: Love, Victor
+  season: 2
+  date: 2021-07-04T20:17:58Z
+- name: The A List
+  season: 1
+  date: 2021-07-04T11:51:59Z
+- name: Young Royals
+  season: 1
+  date: 2021-07-01T07:50:00Z
+- name: Special
+  season: 2
+  date: 2021-06-26T14:12:17Z
+- name: RuPaul's Drag Race Down Under
+  season: 1
+  date: 2021-06-22T18:02:58Z
+- name: Elite
+  season: 4
+  date: 2021-06-20T21:16:40Z
+- name: The Good Doctor
+  season: 4
+  date: 2021-06-08T18:57:14Z
+- name: Young Sheldon
+  season: 4
+  date: 2021-05-14T10:29:47Z
+- name: The Shannara Chronicles
+  season: 2
+  date: 2021-05-02T19:06:03Z
+- name: The Shannara Chronicles
+  season: 1
+  date: 2021-04-26T12:25:45Z
+- name: RuPaul's Drag Race
+  season: 13
+  date: 2021-04-24T20:18:08Z
+- name: The Irregulars
+  season: 1
+  date: 2021-04-17T11:46:37Z
+- name: 'RuPaul''s Drag Race: Untucked!'
+  season: 13
+  date: 2021-04-03T20:11:22Z
+- name: Snowpiercer
+  season: 2
+  date: 2021-04-02T11:46:25Z
+- name: RuPaul's Drag Race UK
+  season: 2
+  date: 2021-03-18T21:18:52Z
+- name: Shadowhunters
+  season: 3
+  date: 2021-03-12T12:16:22Z
+- name: 'RuPaul''s Drag Race All Stars: Untucked!'
+  season: 2
+  date: 2021-03-07T08:26:40Z
+- name: Shadowhunters
+  season: 2
+  date: 2021-02-28T08:54:35Z
+- name: Shadowhunters
+  season: 1
+  date: 2021-02-19T21:22:05Z
+- name: Tiny Pretty Things
+  season: 1
+  date: 2021-02-09T19:39:55Z
+- name: The Rain
+  season: 1
+  date: 2021-02-07T12:33:54Z
+- name: The Good Place
+  season: 4
+  date: 2021-02-02T09:05:31Z
+- name: The Good Place
+  season: 3
+  date: 2021-02-02T09:05:28Z
+- name: The Good Place
+  season: 2
+  date: 2021-01-31T11:00:42Z
+- name: The Good Place
+  season: 1
+  date: 2021-01-30T16:04:48Z
+- name: BONDiNG
+  season: 2
+  date: 2021-01-27T19:39:17Z
+- name: 'Fate: The Winx Saga'
+  season: 1
+  date: 2021-01-24T07:58:49Z
+- name: Good Witch
+  season: 5
+  date: 2021-01-20T06:08:45Z
+- name: Good Witch
+  season: 4
+  date: 2021-01-18T21:00:11Z
+- name: Good Witch
+  season: 3
+  date: 2021-01-18T11:03:23Z
+- name: Good Witch
+  season: 1
+  date: 2021-01-18T11:03:18Z
+- name: Good Witch
+  season: 2
+  date: 2021-01-18T11:03:17Z
+- name: Greenhouse Academy
+  season: 4
+  date: 2021-01-11T09:26:17Z
+- name: Greenhouse Academy
+  season: 3
+  date: 2021-01-10T17:21:39Z
+- name: Greenhouse Academy
+  season: 2
+  date: 2021-01-10T13:53:14Z
+- name: Greenhouse Academy
+  season: 1
+  date: 2021-01-10T13:53:11Z
+- name: Locke & Key
+  season: 1
+  date: 2021-01-02T11:53:17Z
+- name: The Unlisted
+  season: 1
+  date: 2021-01-02T08:39:47Z
+- name: Bridgerton
+  season: 1
+  date: 2020-12-29T21:58:12Z
+- name: Big Mouth
+  season: 3
+  date: 2020-12-27T10:15:33Z
+- name: Big Mouth
+  season: 2
+  date: 2020-12-24T20:28:08Z
+- name: Big Mouth
+  season: 1
+  date: 2020-12-21T13:19:06Z
+- name: Big Mouth
+  season: 4
+  date: 2020-12-21T12:43:31Z
+- name: 'Selena: The Series'
+  season: 1
+  date: 2020-12-17T11:09:22Z
+- name: The Queen's Gambit
+  season: 1
+  date: 2020-12-05T22:50:29Z
+- name: The Haunting of Hill House
+  season: 1
+  date: 2020-11-30T19:18:48Z
+- name: The Haunting of Bly Manor
+  season: 1
+  date: 2020-11-25T18:48:18Z
+- name: The Bureau of Magical Things
+  season: 1
+  date: 2020-11-25T18:47:33Z
+- name: Drag Race Holland
+  season: 1
+  date: 2020-11-07T09:33:35Z
+- name: 'Heathrow: Britain''s Busiest Airport'
+  season: 6
+  date: 2020-11-06T18:25:28Z
+- name: The Umbrella Academy
+  season: 1
+  date: 2020-08-20T08:22:30Z
+- name: The Umbrella Academy
+  season: 2
+  date: 2020-08-20T08:19:43Z
+- name: Secret Celebrity RuPaul's Drag Race
+  season: 1
+  date: 2020-08-17T14:04:31Z
+- name: Good Girls
+  season: 3
+  date: 2020-08-16T09:26:06Z
+- name: Good Girls
+  season: 2
+  date: 2020-08-13T20:25:13Z
+- name: Good Girls
+  season: 1
+  date: 2020-08-11T10:14:18Z
+- name: RuPaul's Drag Race All Stars
+  season: 5
+  date: 2020-07-25T18:24:54Z
+- name: Snowpiercer
+  season: 1
+  date: 2020-07-13T10:15:23Z
+- name: The Politician
+  season: 2
+  date: 2020-07-12T15:36:53Z
+- name: The Order
+  season: 2
+  date: 2020-07-10T10:48:41Z
+- name: The Order
+  season: 1
+  date: 2020-07-08T17:56:24Z
+- name: The Politician
+  season: 1
+  date: 2020-07-06T09:47:36Z
+- name: Warrior Nun
+  season: 1
+  date: 2020-07-05T09:06:46Z
+- name: 'Bangkok Love Stories 2: Innocence'
+  season: 1
+  date: 2020-07-03T08:52:03Z
+- name: Please Like Me
+  season: 4
+  date: 2020-06-30T16:54:40Z
+- name: Please Like Me
+  season: 3
+  date: 2020-06-30T14:36:42Z
+- name: Please Like Me
+  season: 2
+  date: 2020-06-29T17:15:19Z
+- name: Please Like Me
+  season: 1
+  date: 2020-06-29T13:04:49Z
+- name: Modern Family
+  season: 11
+  date: 2020-06-28T09:14:32Z
+- name: Modern Family
+  season: 10
+  date: 2020-06-27T11:42:00Z
+- name: Modern Family
+  season: 9
+  date: 2020-06-25T22:28:32Z
+- name: Modern Family
+  season: 8
+  date: 2020-06-21T09:38:06Z
+- name: Modern Family
+  season: 7
+  date: 2020-06-19T15:05:40Z
+- name: Love, Victor
+  season: 1
+  rating: 5
+  date: 2020-06-17T13:12:03Z
+- name: Modern Family
+  season: 6
+  date: 2020-06-15T17:00:39Z
+- name: 13 Reasons Why
+  season: 4
+  date: 2020-06-14T11:03:25Z
+- name: Modern Family
+  season: 5
+  date: 2020-06-12T20:03:02Z
+- name: Modern Family
+  season: 4
+  date: 2020-06-11T12:05:42Z
+- name: Modern Family
+  season: 3
+  date: 2020-06-07T11:27:04Z
+- name: Modern Family
+  season: 2
+  date: 2020-06-05T09:26:10Z
+- name: Modern Family
+  season: 1
+  date: 2020-06-03T18:07:05Z
+- name: Champions
+  season: 1
+  date: 2020-05-30T09:23:11Z
+- name: RuPaul's Drag Race
+  season: 12
+  date: 2020-05-30T08:45:38Z
+- name: Control Z
+  season: 1
+  date: 2020-05-28T16:29:15Z
+- name: 'RuPaul''s Drag Race: Untucked!'
+  season: 12
+  date: 2020-05-16T10:15:57Z
+- name: How to Get Away with Murder
+  season: 6
+  date: 2020-05-15T13:46:46Z
+- name: Westworld
+  season: 3
+  date: 2020-05-04T14:48:33Z
+- name: Young Sheldon
+  season: 3
+  date: 2020-05-01T21:47:15Z
+- name: Glee
+  season: 6
+  date: 2020-04-27T13:29:16Z
+- name: Glee
+  season: 5
+  date: 2020-04-26T20:23:33Z
+- name: Glee
+  season: 4
+  date: 2020-04-26T08:00:23Z
+- name: Glee
+  season: 3
+  date: 2020-04-24T20:04:48Z
+- name: Glee
+  season: 2
+  date: 2020-04-22T11:34:03Z
+- name: Glee
+  season: 1
+  date: 2020-04-19T13:46:18Z
+- name: Money Heist
+  season: 2
+  date: 2020-04-08T16:21:31Z
+- name: The Magicians
+  season: 5
+  rating: 5
+  date: 2020-04-02T17:11:17Z
+- name: The Good Doctor
+  season: 3
+  date: 2020-03-31T07:38:11Z
+- name: '#CasaDoCais'
+  season: 2
+  date: 2020-03-23T20:22:38Z
+- name: Elite
+  season: 3
+  date: 2020-03-15T13:33:25Z
+- name: Tales of the City
+  season: 1
+  date: 2020-03-13T11:14:08Z
+- name: The New Pope
+  season: 1
+  date: 2020-02-15T18:05:17Z
+- name: '#CasaDoCais'
+  season: 1
+  date: 2020-02-13T15:06:06Z
+- name: RuPaul's Drag Race All Stars
+  season: 4
+  date: 2020-01-25T14:51:26Z
+- name: RuPaul's Drag Race All Stars
+  season: 3
+  date: 2020-01-24T00:33:49Z
+- name: RuPaul's Drag Race All Stars
+  season: 2
+  date: 2020-01-22T19:12:52Z
+- name: RuPaul's Drag Race
+  season: 11
+  date: 2020-01-21T23:01:51Z
+- name: Sex Education
+  season: 2
+  date: 2020-01-20T22:44:39Z
+- name: RuPaul's Drag Race
+  season: 10
+  date: 2020-01-16T19:15:29Z
+- name: RuPaul's Drag Race
+  season: 9
+  date: 2020-01-13T17:46:17Z
+- name: AJ and the Queen
+  season: 1
+  date: 2020-01-12T14:22:17Z
+- name: The Witcher
+  season: 1
+  date: 2019-12-25T23:14:09Z
+- name: RuPaul's Drag Race
+  season: 8
+  date: 2019-12-21T09:36:04Z
+- name: RuPaul's Drag Race All Stars
+  season: 1
+  date: 2019-12-19T17:59:21Z
+- name: RuPaul's Drag Race
+  season: 7
+  date: 2019-12-06T22:35:08Z
+- name: RuPaul's Drag Race
+  season: 6
+  date: 2019-12-03T07:53:10Z
+- name: RuPaul's Drag Race
+  season: 4
+  date: 2019-11-29T10:11:32Z
+- name: RuPaul's Drag Race UK
+  season: 1
+  date: 2019-11-25T20:46:48Z
+- name: RuPaul's Drag Race
+  season: 3
+  date: 2019-11-15T13:41:54Z
+- name: RuPaul's Drag Race
+  season: 5
+  date: 2019-11-12T21:55:51Z
+- name: RuPaul's Drag Race
+  season: 2
+  date: 2019-11-05T22:24:16Z
+- name: RuPaul's Drag Race
+  season: 1
+  date: 2019-11-04T23:24:15Z
+- name: 'Heathrow: Britain''s Busiest Airport'
+  season: 5
+  date: 2019-10-18T00:07:50Z
+- name: 'Degrassi: Next Class'
+  season: 1
+  date: 2019-09-22T22:02:48Z
+- name: Elite
+  season: 2
+  date: 2019-09-18T14:25:20Z
+- name: Elite
+  season: 1
+  date: 2019-09-16T23:00:27Z
+- name: 13 Reasons Why
+  season: 3
+  date: 2019-08-31T12:49:44Z
+- name: The Handmaid's Tale
+  season: 3
+  date: 2019-08-14T13:46:56Z
+- name: Stranger Things
+  season: 3
+  date: 2019-07-06T09:20:55Z
+- name: Black Mirror
+  season: 5
+  date: 2019-06-08T14:26:57Z
+- name: 'Heathrow: Britain''s Busiest Airport'
+  season: 4
+  date: 2019-06-05T11:37:41Z
+- name: Stranger Things
+  season: 2
+  date: 2019-06-03T16:30:35Z
+- name: Stranger Things
+  season: 1
+  date: 2019-06-01T16:14:55Z
+- name: BONDiNG
+  season: 1
+  date: 2019-05-31T18:34:44Z
+- name: EastSiders
+  season: 3
+  date: 2019-05-31T08:04:26Z
+- name: EastSiders
+  season: 2
+  date: 2019-05-30T15:40:21Z
+- name: EastSiders
+  season: 1
+  date: 2019-05-29T10:03:37Z
+- name: Special
+  season: 1
+  date: 2019-05-26T20:19:38Z
+- name: Sex Education
+  season: 1
+  date: 2019-05-26T12:46:51Z
+- name: Game of Thrones
+  season: 8
+  date: 2019-05-20T08:03:04Z
+- name: Young Sheldon
+  season: 2
+  date: 2019-05-17T20:50:40Z
+- name: The Magicians
+  season: 4
+  rating: 5
+  date: 2019-04-18T08:40:04Z
+- name: The Good Doctor
+  season: 2
+  date: 2019-03-12T23:34:07Z
+- name: How to Get Away with Murder
+  season: 5
+  date: 2019-03-02T09:06:00Z
+- name: 'Heathrow: Britain''s Busiest Airport'
+  season: 2
+  date: 2019-01-14T16:07:23Z
+- name: 'Heathrow: Britain''s Busiest Airport'
+  season: 3
+  date: 2019-01-14T16:07:05Z
+- name: 'Heathrow: Britain''s Busiest Airport'
+  season: 1
+  date: 2019-01-14T16:06:29Z
+- name: Harrow
+  season: 1
+  date: 2018-12-24T22:24:22Z
+- name: Sense8
+  season: 2
+  date: 2018-12-23T16:36:22Z
+- name: Sense8
+  season: 1
+  date: 2018-12-21T22:30:41Z
+- name: SKAM
+  season: 4
+  date: 2018-08-31T09:56:03Z
+- name: SKAM
+  season: 3
+  date: 2018-08-29T22:18:42Z
+- name: SKAM
+  season: 2
+  date: 2018-08-28T08:45:39Z
+- name: SKAM
+  season: 1
+  date: 2018-08-21T14:24:15Z
+- name: Scorpion
+  season: 4
+  date: 2018-08-12T09:12:53Z
+- name: Westworld
+  season: 2
+  date: 2018-08-02T19:20:40Z
+- name: Westworld
+  season: 1
+  date: 2018-07-28T10:35:20Z
+- name: The Handmaid's Tale
+  season: 2
+  date: 2018-07-11T14:18:20Z
+- name: How to Get Away with Murder
+  season: 4
+  date: 2018-07-08T17:47:34Z
+- name: How to Get Away with Murder
+  season: 3
+  date: 2018-07-06T09:23:47Z
+- name: How to Get Away with Murder
+  season: 2
+  date: 2018-07-02T14:31:57Z
+- name: The Young Pope
+  season: 1
+  date: 2018-06-28T09:37:56Z
+- name: How to Get Away with Murder
+  season: 1
+  date: 2018-06-26T15:14:28Z
+- name: The Handmaid's Tale
+  season: 1
+  date: 2018-06-20T14:14:02Z
+- name: Deception
+  season: 1
+  date: 2018-05-28T14:08:23Z
+- name: 13 Reasons Why
+  season: 2
+  date: 2018-05-20T22:08:10Z
+- name: Young Sheldon
+  season: 1
+  date: 2018-05-11T16:49:49Z
+- name: Money Heist
+  season: 1
+  date: 2018-04-28T15:08:00Z
+- name: The Magicians
+  season: 3
+  rating: 5
+  date: 2018-04-06T07:59:19Z
+- name: 'The Blacklist: Redemption'
+  season: 1
+  date: 2018-03-31T22:06:45Z
+- name: Black Mirror
+  season: 4
+  date: 2018-03-29T13:28:37Z
+- name: The Good Doctor
+  season: 1
+  date: 2018-03-29T09:58:56Z
+- name: Black Mirror
+  season: 3
+  date: 2018-03-11T14:32:11Z
+- name: Black Mirror
+  season: 2
+  date: 2018-02-27T22:21:37Z
+- name: Black Mirror
+  season: 1
+  date: 2018-02-20T21:57:40Z
+- name: The Librarians
+  season: 4
+  date: 2018-02-16T16:30:23Z
+- name: Game of Thrones
+  season: 7
+  date: 2017-08-28T01:00:00Z
+- name: Frequency
+  date: 2017-08-04T14:45:19Z
+- name: Frequency
+  season: 1
+  date: 2017-08-04T14:44:44Z
+- name: Genius
+  season: 1
+  date: 2017-06-26T07:50:46Z
+- name: The Simpsons
+  season: 1
+  date: 2017-06-25T06:49:18Z
+- name: 13 Reasons Why
+  season: 1
+  date: 2017-05-27T22:35:13Z
+- name: Scorpion
+  season: 3
+  date: 2017-05-17T16:12:53Z
+- name: The Magicians
+  season: 2
+  rating: 5
+  date: 2017-04-22T16:58:13Z
+- name: Mr. Robot
+  season: 2
+  date: 2017-04-02T12:40:05Z
+- name: Scorpion
+  season: 2
+  date: 2017-03-18T22:40:09Z
+- name: Scorpion
+  season: 1
+  date: 2017-03-12T21:19:35Z
+- name: The Librarians
+  season: 3
+  date: 2017-03-02T19:09:18Z
+- name: The Librarians
+  season: 2
+  date: 2017-03-01T15:14:43Z
+- name: The Librarians
+  season: 1
+  date: 2017-02-27T17:10:33Z
+- name: Heroes Reborn
+  season: 1
+  date: 2016-10-05T07:48:50Z
+- name: The Magicians
+  season: 1
+  rating: 5
+  date: 2016-10-05T07:48:36Z
+- name: Forever
+  season: 1
+  date: 2016-10-05T07:48:10Z
+- name: Mr. Robot
+  season: 1
+  date: 2016-10-05T07:46:28Z
+- name: Game of Thrones
+  season: 6
+  date: 2016-07-13T20:38:54Z
+- name: Castle
+  season: 8
+  date: 2016-05-07T10:12:59Z
+- name: The Fosters
+  season: 2
+  date: 2015-09-10T07:52:30Z
+- name: The Fosters
+  season: 1
+  date: 2015-09-10T07:52:19Z
+- name: Once Upon a Time
+  season: 4
+  date: 2015-07-17T14:08:10Z
+- name: Once Upon a Time
+  season: 1
+  date: 2015-07-13T11:04:19Z
+- name: Merlin
+  season: 5
+  date: 2015-07-08T09:47:50Z
+- name: Merlin
+  season: 4
+  date: 2015-07-08T09:47:50Z
+- name: Merlin
+  season: 3
+  date: 2015-07-08T09:47:50Z
+- name: Merlin
+  season: 2
+  date: 2015-07-08T09:47:50Z
+- name: Merlin
+  season: 1
+  date: 2015-07-08T09:47:34Z
+- name: Game of Thrones
+  season: 4
+  date: 2015-07-08T09:43:15Z
+- name: Game of Thrones
+  season: 2
+  date: 2015-07-08T09:43:14Z
+- name: Game of Thrones
+  season: 5
+  date: 2015-07-08T09:43:05Z
+- name: Game of Thrones
+  season: 1
+  date: 2015-07-08T09:43:05Z
+- name: Game of Thrones
+  season: 3
+  date: 2015-07-08T09:42:58Z
+- name: House of Anubis
+  season: 3
+- name: House of Anubis
+  season: 2
+- name: House of Anubis
+  season: 1

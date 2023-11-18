@@ -1,0 +1,15 @@
+:root {
+  --accent: #904726;
+}
+
+@media screen and (min-width: 53.001rem) {
+  body {
+    background: #8e4a1f url(/readings/shelf.jpeg);
+    background-size: 400px;
+    background-attachment: fixed;
+  }
+
+  #navbar {
+    border-radius: 0;
+  }  
+}

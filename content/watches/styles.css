@@ -1,0 +1,23 @@
+:root {
+  --accent: #c0749d;
+}
+
+#performances + .logs {
+  --accent: #8899a6;
+}
+
+#shows + .logs {
+  --accent: #53aced;
+}
+
+@media screen and (min-width: 53.001rem) {
+  body {
+    background: #48084f url(/watches/pattern.jpeg);
+    background-size: 300px;
+    background-attachment: fixed;
+  }
+
+  #navbar {
+    border-radius: 0;
+  }
+}

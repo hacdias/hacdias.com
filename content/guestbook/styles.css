@@ -1,0 +1,55 @@
+:root {
+  --accent: #9999ff;
+}
+
+.entries {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 2rem;
+  margin: 2rem 0;
+}
+
+.entry {
+  padding: var(--ms);
+  background: #ffb3ba;
+  transform: rotate(0.5deg);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.entry:nth-child(5n - 3) {
+  background: 	#ffdfba;
+}
+
+.entry:nth-child(5n - 2) {
+  background: #ffffba;
+}
+
+.entry:nth-child(5n - 1) {
+  background: #baffc9;
+}
+
+.entry:nth-child(5n + 0) {
+  background: 	#bae1ff;
+}
+
+.entry:nth-child(2n) {
+  transform: rotate(-0.5deg);
+}
+
+.entry .signature {
+  text-align: right;
+  margin-top: 1rem;
+  font-style: italic;
+  font-size: var(--f6);
+}
+
+.entry a:hover {
+  background: none;
+}
+
+.comment-form {
+  padding: var(--ms);
+  background: white;
+  transform: rotate(.5deg);
+  box-shadow: rgba(99,99,99,.2)0 2px 8px;
+}

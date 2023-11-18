@@ -1,0 +1,7 @@
+:root {
+  --accent:  #8eba4d;
+}
+
+.logs .e {
+  grid-template-columns: 10rem auto;
+}

@@ -1,0 +1,10 @@
+{{- if or .Content .Params.rating }}
+  <div class='copy e-content'>
+    {{- with .Params.rating -}}
+      <p>
+        <data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ partialCached "helpers/stars" (slice . 5) . 5 }}</data>
+      </p>
+    {{- end -}}
+    {{- with .Content }}{{ . }}{{ end -}}
+  </div>
+{{- end -}}

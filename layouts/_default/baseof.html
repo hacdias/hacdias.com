@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.Language }}'>
+<head>
+  {{ partial "base/head" . }}
+</head>
+<body>
+  {{/* {{ include "base/admin" . }} */}}
+  <div class='container'>
+    {{ partial "base/header" . }}
+    {{ block "main" . }}{{ end }}
+    {{ partialCached "base/footer" . }}
+  </div>
+
+  {{ $twemoji := resources.Get "js/vendor/twemoji.min.js" }}
+  {{ $app := resources.Get "js/app.js" }}
+  {{ $js := slice $twemoji $app | resources.Concat "js/app.js" }}
+  {{ $secureJS := $js | resources.Fingerprint "sha512" }}
+  <script type='text/javascript' src='{{ $secureJS.Permalink }}' integrity='{{ $secureJS.Data.Integrity }}'></script>
+</body>
+</html>

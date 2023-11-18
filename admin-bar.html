@@ -1,0 +1,80 @@
+{{ define "admin-bar" }}
+<style>
+body {
+  padding-top: 37px;
+}
+
+#eagle-admin {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99999;
+  background: linear-gradient(to right, #073a53, #3b8c90);
+  color: white;
+}
+
+#eagle-admin nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  overflow: hidden;
+  text-align: center;
+  font-weight: 700;
+}
+
+#eagle-admin label,
+#eagle-admin a {
+  flex-grow: 1;
+  display: block;
+  padding: var(--hms);
+  cursor: pointer;
+}
+
+#eagle-admin label:first-of-type {
+  display: none;
+}
+
+#eagle-admin a:hover {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+@media screen and (max-width: 44rem) {
+  body {
+    padding-bottom: 37px;
+    padding-top: 0;
+  }
+
+  #eagle-admin {
+    bottom: 0;
+    top: auto;
+  }
+
+  #eagle-admin nav,
+  #eagle-admin label:first-of-type,
+  #eagle-admin input:checked + nav a {
+    display: block;
+    text-align: left;
+  }
+
+  #eagle-admin a {
+    display: none;
+  }
+}
+</style>
+
+<div id='eagle-admin'>
+  <input type='checkbox' id='eagle-admin-toggler' hidden>
+  <nav class='fw'>
+    <label for="eagle-admin-toggler">🍞 Menu</label>
+    <a class='nl' href='/dashboard/'>🦅 Eagle</a>
+    <a class='nl' href='/new/'>📄 New</a>
+    {{ with .Entry }}
+      <a class='nl' href="/edit{{ .ID }}">✏️ Edit</a>
+    {{ else }}
+      <label style='opacity: .5; cursor: default;'>✏️ Edit</label>
+    {{ end }}
+    <a class='nl' href='/logout/'>🚪 Logout</a>
+  </nav>
+</div>
+{{ end }}

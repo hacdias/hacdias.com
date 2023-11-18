@@ -1,0 +1,20 @@
+{{ $logs := slice }}
+
+{{ range . }}
+  {{ $log := dict
+    "url" .RelPermalink
+    "date" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "rating" .Params.rating
+  }}
+  {{ if .Params.read }}
+    {{ $log = $log | merge (dict
+      "name" .Params.read.name
+      "author" .Params.read.author
+    ) }}
+  {{ else }}
+    {{ $log = $log | merge (dict "name" .Title) }}
+  {{ end }}
+  {{ $logs = $logs | append $log }}
+{{ end }}
+
+{{ return $logs }}

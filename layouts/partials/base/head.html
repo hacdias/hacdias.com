@@ -1,0 +1,74 @@
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='theme-color' content='#fbfbfb'>
+
+{{- $textExcerpt := .Summary | plainify }}
+{{- $textTitle := or (partialCached "fns/title" . .Title .Data.Singular) .Description }}
+{{- if not $textTitle }}
+  {{- $textTitle = $textExcerpt }}
+  {{- if lt (len $textTitle) 100 }}
+    {{- $textTitle = $textTitle | strings.TrimSuffix "…" | truncate 100 }}
+  {{- end }}
+{{- end }}
+{{- $pageTitle := or $textTitle "A post" }}
+{{- $description := or .Description $textExcerpt .Site.Params.site.description}}
+
+<title>{{ printf "%s - %s" $pageTitle .Site.Title }}</title>
+{{- if .Params.noIndex }}
+  <meta name='robots' content='noindex'>
+{{- end }}
+<meta name='description' content='{{ $description }}'>
+<link rel='canonical' href='{{ .Permalink }}'>
+<link rel='icon' href='{{ absURL "/favicon.ico" }}' type='image/x-icon'>
+
+{{- range .AlternativeOutputFormats -}}
+  {{- printf `<link rel="%s" type="%s" href="%s" />` .Rel .MediaType.Type .Permalink | safeHTML }}
+{{- end -}}
+
+<meta property='og:type' content='{{ if or .IsNode .IsHome }}website{{ else }}article{{ end }}' />
+<meta property='og:site_name' content='{{ .Site.Title }}' />
+
+{{ with .Params.coverImage }}
+  {{ $url := urls.Parse . }}
+  {{ $src := "" }}
+  {{- if eq $url.Scheme "cdn" }}
+    {{- $id := strings.TrimPrefix "/" $url.Path }}
+    {{- $src = printf "https://cdn.hacdias.com/img/2000/%s.jpeg" $id }}
+  {{- else }}
+    {{- $src = printf "%s://%s%s" $url.Scheme $url.Host $url.Path }}
+  {{- end }}
+  <meta property='og:image' content='{{ $src | safeURL }}' />
+{{ end }}
+
+{{ if not .Date.IsZero }}
+  <meta property='article:published_time' content='{{ .Date.Format "2006-01-02T15:04:05-07:00" }}' />
+{{ end }}
+
+{{ if not .Lastmod.IsZero }}
+  <meta property='article:modified_time' content='{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}' />
+{{ end }}
+
+{{ $normalize := resources.Get "css/vendor/normalize.css" }}
+{{ $base := resources.Get "css/base.css" }}
+{{ $cards := resources.Get "css/cards.css" }}
+{{ $css := slice $normalize $base $cards | resources.Concat "css/styles.css" }}
+{{ $secureCSS := $css | resources.Fingerprint "sha512" }}
+<link rel='stylesheet' href='{{ $secureCSS.Permalink }}' integrity='{{ $secureCSS.Data.Integrity }}'>
+
+{{ with .Resources.GetMatch "styles.css" }}
+<style>{{ .Content | safeCSS }}</style>
+{{ end }}
+
+{{ if .IsHome }}
+  <link rel='indieauth-metadata' href='{{ absURL "/.well-known/oauth-authorization-server" }}'>
+  <link rel='authorization_endpoint' href='{{ absURL "/auth" }}'>
+  <link rel='token_endpoint' href='{{ absURL "/token" }}'>
+  <link rel='me' href='{{ absURL "/pubkey.txt" }}' rel='pgpkey' />
+  {{ range .Site.Params.author.identities -}}
+    <link rel='me' href='{{ . }}' />
+  {{ end -}}
+{{ end }}
+
+<link rel='webmention' href='https://webmention.io/hacdias.com/webmention' />
+<link rel='pingback' href='https://webmention.io/hacdias.com/xmlrpc' />

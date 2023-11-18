@@ -1,0 +1,19 @@
+{{- with .Page }}
+  {{- if .Params.reply }}
+    {{- partial "post/header/embedded" . }}
+  {{- else if .Params.bookmark }}
+    {{- partial "post/header/bookmark" . }}
+  {{- else if .Params.read }}
+    {{- partial "post/header/read" . }}
+  {{- else if .Title }}
+    <header>
+      {{- if $.Listing }}
+        <h3 class='p-name'>
+          <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">{{- .Title -}}</a>
+        </h3>
+      {{- else }}
+        <h1 class='p-name'>{{- .Title -}}</h1>
+      {{- end }}
+    </header>
+  {{- end }}
+{{- end }}
