@@ -1,0 +1,46 @@
+{
+  "replies": [
+    {
+      "content": "Or you could also have a fully deployed pre prod environment and run end to end tests there. This would amount to less code (which is good) and reliance on on less libraries(also good) Besides.. you should already have a pre prod environment with full deployments - it's good practice. You just have to write the end-to-end tests. (I realise that it may sound like I'm trashing this idea.. but I'm not, the actual implementation is elegant.. it just looks like a case where you've answered 'can we do it?' before asking 'should we do it') Nevertheless good project from an academic perspective.",
+      "url": "https://commentpara.de/comment/678.htm",
+      "type": "reply",
+      "date": "2020-10-19T07:56:35Z",
+      "author": "Anonymous",
+      "authorPhoto": "https://cdn.hacdias.com/wm/5aa6fd75912434a7063020ae39c373ee5a21b44b726383b4295a18bd665a25d9.svg"
+    }
+  ],
+  "interactions": [
+    {
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-200749589",
+      "type": "like",
+      "date": "2021-02-04T12:11:31Z",
+      "author": "David Dias",
+      "authorPhoto": "https://cdn.hacdias.com/wm/807841da08aa01707220ffafccbdf6d62122125d13e714dcbf5578c41278e084.jpg",
+      "authorUrl": "https://twitter.com/daviddias"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-43537648",
+      "type": "like",
+      "date": "2020-10-19T16:20:23Z",
+      "author": "Anton Evangelatov",
+      "authorPhoto": "https://cdn.hacdias.com/wm/47d79e8b12bc08542d4a873fb0ff0c67ce481bc3b7b8e592b321b0ed7aab6771.jpg",
+      "authorUrl": "https://twitter.com/nonsens3"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-1083823523154542594",
+      "type": "like",
+      "date": "2020-10-19T16:20:23Z",
+      "author": "Johnny Matthews",
+      "authorPhoto": "https://cdn.hacdias.com/wm/fa22f5fe4b138724230874b3ab09e162c7cc78087f02b12faccac45fff8d5967.jpg",
+      "authorUrl": "https://twitter.com/_johnnymatthews"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-1027529251682181120",
+      "type": "like",
+      "date": "2020-10-19T12:21:10Z",
+      "author": "Alfonso de la Rocha",
+      "authorPhoto": "https://cdn.hacdias.com/wm/c35b502b18b1823d2512e99155a6a38e6a9ea8f075ea58d8b8074b78ea338057.png",
+      "authorUrl": "https://twitter.com/adlrocha"
+    }
+  ]
+}

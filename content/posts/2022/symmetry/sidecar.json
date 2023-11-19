@@ -1,0 +1,24 @@
+{
+  "replies": [
+    {
+      "content": "That looks nice! What is it actually?",
+      "url": "https://jlelse.blog/micro/2022/12/2022-12-16-dfqrq",
+      "type": "reply",
+      "date": "2022-12-16T21:04:55Z",
+      "author": "Jan-Lukas Else",
+      "authorPhoto": "https://cdn.hacdias.com/wm/9420ec36446e8f6ff4271062d672e2e9a91b8228fffa8f241639e99769ceba19.jpg",
+      "authorUrl": "https://jlelse.blog"
+    }
+  ],
+  "interactions": [
+    {
+      "content": "Seb vindt een foto van Henrique Dias leuk.",
+      "url": "https://seblog.nl/2022/12/17/1/like",
+      "type": "like",
+      "date": "2022-12-17T08:39:12Z",
+      "author": "Sebastiaan Andeweg",
+      "authorPhoto": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+      "authorUrl": "https://seblog.nl/"
+    }
+  ]
+}

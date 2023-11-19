@@ -1,0 +1,105 @@
+{
+  "replies": [
+    {
+      "content": "Nice!",
+      "url": "https://seblog.nl/2022/11/06/2/reply",
+      "type": "reply",
+      "date": "2022-11-06T08:37:37Z",
+      "author": "Sebastiaan Andeweg",
+      "authorPhoto": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+      "authorUrl": "https://seblog.nl/"
+    },
+    {
+      "content": "Henrique from Portugal is currently experiencing real snow for the first time in the Netherlands. Inspired by this he programmed a little tool to generate snowflake fractals using HTML, CSS and JavaScript. Very cool idea!https://hacdias.com/articles/2021/02/magic-fractal-snowflakes/",
+      "url": "https://jlelse.blog/links/2021/02/fractal-snowflakes",
+      "type": "mention",
+      "date": "2021-02-15T08:41:18+01:00",
+      "author": "Jan-Lukas Else",
+      "authorPhoto": "https://cdn.hacdias.com/wm/6ba3ad40db26e74cb47cc332c5887d9f15bc5fb7880d87e7e6addda91859e4d3.png",
+      "authorUrl": "https://jlelse.blog/"
+    }
+  ],
+  "interactions": [
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1002782770978906112",
+      "type": "like",
+      "date": "2021-02-19T10:37:37Z",
+      "author": "Yohanes Bandung Bondowoso",
+      "authorPhoto": "https://cdn.hacdias.com/wm/bfa7e3e2cd05feb8583c0cdf34add567d2dbbb790da1f4001b735fb4f3a8e544.jpg",
+      "authorUrl": "https://twitter.com/ybbond_"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-9834062",
+      "type": "like",
+      "date": "2021-02-16T02:22:03Z",
+      "author": "Eric Ronne",
+      "authorPhoto": "https://cdn.hacdias.com/wm/a160c2c034486f70b0fc885fd33cec19024fd71640b9aad7cba197240ed327d2.jpg",
+      "authorUrl": "https://twitter.com/ericronne"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1027529251682181120",
+      "type": "like",
+      "date": "2021-02-15T12:20:32Z",
+      "author": "adlrocha",
+      "authorPhoto": "https://cdn.hacdias.com/wm/96c6ea0fd7fb31572c5af7aac3de3771ea678707f7344134243eff8ed7a4624e.jpg",
+      "authorUrl": "https://twitter.com/adlrocha"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1300027635846787072",
+      "type": "like",
+      "date": "2021-02-15T12:20:31Z",
+      "author": "Luismachadodias@sapo.pt",
+      "authorPhoto": "https://cdn.hacdias.com/wm/1d96955c89bb9053b20c139826f04b8a15b7e4850efe7a9697931ae4a9329b26.jpg",
+      "authorUrl": "https://twitter.com/Luismachadodia1"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-35444603",
+      "type": "like",
+      "date": "2021-02-15T12:20:30Z",
+      "author": "Alan Shaw",
+      "authorPhoto": "https://cdn.hacdias.com/wm/833e666ad8b594f4b80f703f6e4b879726f21aa36462b22dcc8ed04a0ea166b3.jpg",
+      "authorUrl": "https://twitter.com/_alanshaw"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1200082629602824194",
+      "type": "like",
+      "date": "2021-02-15T12:20:28Z",
+      "author": "Isabel Soares",
+      "authorPhoto": "https://cdn.hacdias.com/wm/439f01aa078a85ecb44a4a1e275eb0af457f455fcf2b6d8a36ce2a7ac15d53be.jpg",
+      "authorUrl": "https://twitter.com/isabelsrsoares"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1028353082206367744",
+      "type": "like",
+      "date": "2021-02-15T12:20:27Z",
+      "author": "Malik Piara",
+      "authorPhoto": "https://cdn.hacdias.com/wm/685971335de051b2139ef2af5f7f1b1de11f8c6664d6883ed8de8c31f7341a12.jpg",
+      "authorUrl": "https://twitter.com/likpiara"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-1065361423637889025",
+      "type": "like",
+      "date": "2021-02-15T12:20:27Z",
+      "author": "Nimo",
+      "authorPhoto": "https://cdn.hacdias.com/wm/c70ca385448da56c1ce2acce398268b748fdaf4bfa0f0f29456deb0f7000c6fa.jpg",
+      "authorUrl": "https://twitter.com/nimobeeren"
+    },
+    {
+      "url": "https://twitter.com/hacdias/status/1361206419266154499#favorited-by-61255762",
+      "type": "like",
+      "date": "2021-02-15T07:00:28Z",
+      "author": "🧗‍♂️ Matt Holt",
+      "authorPhoto": "https://cdn.hacdias.com/wm/c6f3d9e61a093979ba76db723867857f03cc94a8b70a1730c5216e6e8fabac6b.jpg",
+      "authorUrl": "https://twitter.com/mholt6"
+    },
+    {
+      "content": "I decided to try generating fractal snowflakes. And the result is quite interesting hacdias.com/articles/2021/…",
+      "url": "https://twitter.com/mholt6/status/1361206528141844482",
+      "type": "repost",
+      "date": "2021-02-15T06:51:40Z",
+      "author": "🧗‍♂️ Matt Holt",
+      "authorPhoto": "https://cdn.hacdias.com/wm/c6f3d9e61a093979ba76db723867857f03cc94a8b70a1730c5216e6e8fabac6b.jpg",
+      "authorUrl": "https://twitter.com/mholt6"
+    }
+  ]
+}

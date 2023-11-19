@@ -1,0 +1,13 @@
+{
+  "interactions": [
+    {
+      "content": "Seb vindt een foto van Henrique Dias leuk.",
+      "url": "https://seblog.nl/2022/11/14/1/like",
+      "type": "like",
+      "date": "2022-11-14T10:53:44Z",
+      "author": "Sebastiaan Andeweg",
+      "authorPhoto": "https://cdn.hacdias.com/wm/ca93193405eccf77606894aca6f634961e036086c5857dd8cf154107345190c0.jpg",
+      "authorUrl": "https://seblog.nl/"
+    }
+  ]
+}

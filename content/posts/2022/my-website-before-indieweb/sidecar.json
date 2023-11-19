@@ -1,0 +1,23 @@
+{
+  "replies": [
+    {
+      "content": "As long as there are more posts than redesigns, everything is fine 😂",
+      "url": "https://jlelse.blog/micro/2022/03/2022-03-25-mtwex",
+      "type": "reply",
+      "date": "2022-03-25T15:04:32+01:00",
+      "author": "Jan-Lukas Else",
+      "authorPhoto": "https://cdn.hacdias.com/wm/fa4b5eb2bf1c1aebf299223741a18f4a7c53ade6f1b4e2a0276bd5281cc0c22d.png",
+      "authorUrl": "https://jlelse.blog"
+    }
+  ],
+  "interactions": [
+    {
+      "content": "My Website Before IndieWeb Since I created this website's colophon (also known as meta page), I've wanted to also created a page that show cased how this website evolved over the years. I created this website when I was 14, in 2014. At first, it was just a bunch of HTML pages written by hand. Within the first year, the website moved from pure HTML to WordPress and then to Hugo.",
+      "url": "https://kandr3s.co/like/my-website-before-indieweb",
+      "type": "like",
+      "date": "2022-03-25T07:55:00-05:00",
+      "author": "Andrés Cárdenas (@kandr3s)",
+      "authorPhoto": "https://cdn.hacdias.com/wm/3a62f1ce3dfde938afce5220b941f4ec06f06c1a79729ce6da6d5922b25f1d0f.jpg"
+    }
+  ]
+}
