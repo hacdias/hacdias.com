@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "content": "In 2015, I posted an article with a very similar name to this one. At the time, I was saying goodbye to WordPress and welcoming Hugo. As with everything in life, there are cycles and things change. It’s time to turn a new page on this website’s life cycle.Around a year ago, I explained why I was rebuilding my website’s CMS, Eagle. At the time, I decided against completely replacing Hugo, the static website generator I’ve been using for years, because it worked. However, a year has passed and I’ve thought many times about replacing Hugo and I finally did it.Since November 15th, I have been running the new version of Eagle. Hopefully, you didn’t notice as nothing broke for you. If it did, please let me know! In this new system, completely powered by Eagle, there’s no Hugo or static page building anymore.Building v2Building Eagle v2 was a mixed experience: it was both faster and more challenging than I thought. I’ve been relying on some features of Hugo, such as shortcodes, for years. These allow me to define custom “functions” for markdown. Fortunately, I managed to replace them either by just copy pasting their HTML code - if they were used 1 or 2 times - or add a custom node to Goldmark, the markdown parser library I use.With v2, I have feature parity with what I had with Hugo. I also added yearly, monthly and daily archives, as well as 410 Gone for deleted posts. There’s also XML feeds, besides the already existing JSON and ATOM feeds.More importantly, I brought back Micropub support, which I removed around a year ago for no reason. I also implemented IndieAuth and now I don’t need to use IndieAuth.com to login anymore.If you look at my more page, you’ll notice that there’s a lot of different content categories (or “sections”) now. I brought back the checkins and watches, which I had removed before because they were slowing down the Hugo build process.Everything is stored as markdown files. However, there’s a PostgreSQL instance running to index my posts and help me generate indexes and the nice summaries for some of the sections.And a lot more!What’s next?I am far from done! Since Monday until today, I have implemented a few other features that I wanted, but the list is always growing. I’m sure you’ll see a new post lurking here and there about a new feature coming out.",
+      "author": "Henrique Dias",
+      "authorUrl": "https://hacdias.com",
+      "date": "2021-11-19T08:02:07+01:00",
+      "url": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
+      "type": "mention"
+    },
+    {
+      "content": "Quick note, there is error in link destinations at the end of the post. All directing to https://github.com/xwmx/nb  . I too want to build a CMS! The convenience of editing anywhere, desktop or mobile devices, like using WordPress… I think that would improve my willingness to write posts, or document stuffs.",
+      "author": "Yohanes Bandung Bond.",
+      "authorUrl": "https://ybbond.id",
+      "date": "2021-02-17T02:55:10+07:00",
+      "url": "https://ybbond.id/responses/#date-2021-02-17-0255",
+      "type": "reply"
+    },
+    {
+      "content": "Quick note, there is error in link destinations at the end of the post. All directing to https://github.com/xwmx/nb  . I too want to build a CMS! The convenience of editing anywhere, desktop or mobile devices, like using WordPress… I think that would improve my willingness to write posts, or document stuffs.",
+      "author": "Yohanes Bandung Bond.",
+      "authorUrl": "https://ybbond.id",
+      "date": "2021-02-17T02:55:10+07:00",
+      "url": "https://ybbond.id/responses/#date-2021-02-17-0255",
+      "type": "reply"
+    }
+  ]
+}

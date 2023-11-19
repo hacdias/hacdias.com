@@ -1,0 +1,13 @@
+{
+  "interactions": [
+    {
+      "author": "Jon",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/73a8a0e27280d3a7d4358b314d2fccfcc2261f2e202ae7bff45b0a4c3eb01621.jpg",
+      "authorUrl": "https://fosstodon.org/@jnv",
+      "date": "2023-11-19T16:05:56Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/111374608169041824/110064616946447401",
+      "type": "like",
+      "source": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/111374608169041824/110064616946447401"
+    }
+  ]
+}

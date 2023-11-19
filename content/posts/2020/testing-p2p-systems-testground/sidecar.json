@@ -1,0 +1,41 @@
+{
+  "replies": [
+    {
+      "content": "Or you could also have a fully deployed pre prod environment and run end to end tests there. This would amount to less code (which is good) and reliance on on less libraries(also good) Besides.. you should already have a pre prod environment with full deployments - it's good practice. You just have to write the end-to-end tests. (I realise that it may sound like I'm trashing this idea.. but I'm not, the actual implementation is elegant.. it just looks like a case where you've answered 'can we do it?' before asking 'should we do it') Nevertheless good project from an academic perspective.",
+      "author": "Anonymous",
+      "date": "2020-10-19T07:56:35Z",
+      "url": "https://commentpara.de/comment/678.htm",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": "David Dias",
+      "authorUrl": "https://twitter.com/daviddias",
+      "date": "2021-02-04T12:11:31Z",
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-200749589",
+      "type": "like"
+    },
+    {
+      "author": "Anton Evangelatov",
+      "authorUrl": "https://twitter.com/nonsens3",
+      "date": "2020-10-19T16:20:23Z",
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-43537648",
+      "type": "like"
+    },
+    {
+      "author": "Johnny Matthews",
+      "authorUrl": "https://twitter.com/_johnnymatthews",
+      "date": "2020-10-19T16:20:23Z",
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-1083823523154542594",
+      "type": "like"
+    },
+    {
+      "author": "Alfonso de la Rocha",
+      "authorUrl": "https://twitter.com/adlrocha",
+      "date": "2020-10-19T12:21:10Z",
+      "url": "https://twitter.com/hacdias/status/1318089432113815553#favorited-by-1027529251682181120",
+      "type": "like"
+    }
+  ]
+}
