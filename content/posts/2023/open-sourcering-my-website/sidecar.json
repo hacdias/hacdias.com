@@ -1,0 +1,44 @@
+{
+  "replies": [
+    {
+      "content": "@boris well, at the moment I don\u0026#39;t have a reply functionality. I used to. I might re-add it in the future. Either way, if I do it, it will be here: https://github.com/hacdias/eagle GitHub - hacdias/eagle: 🔌 My website\u0026#39;s blogging platform.",
+      "author": "Henrique Dias",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/ac03d7c1c959a71ce3c6f38266d5d5f707793de162322b59c8ad38689d61ac75.jpg",
+      "authorUrl": "https://fosstodon.org/@hacdias",
+      "date": "2023-11-18T11:06:15Z",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/111431044010749799/111431226220223150",
+      "type": "reply",
+      "source": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/111431044010749799/111431226220223150"
+    },
+    {
+      "content": "@hacdias what’s running your “reply” functionality?",
+      "author": "Boris Mann",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/2c1bfda270c087b1e4f55f1db99c194482fa28187885c450f46530c9da956440.jpg",
+      "authorUrl": "https://cosocial.ca/@boris",
+      "date": "2023-11-18T10:23:11Z",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/111431044010749799/111431056907985624",
+      "type": "reply",
+      "source": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/111431044010749799/111431056907985624"
+    }
+  ],
+  "interactions": [
+    {
+      "author": "Boris Mann",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/27c19520bcee66e4b25623f23298526085efba46c7264acc1812930162ccab8a.png",
+      "authorUrl": "https://plnetwork.xyz/@boris",
+      "date": "2023-11-19T16:05:36Z",
+      "url": "https://brid.gy/repost/mastodon/@hacdias@fosstodon.org/111431044010749799/109305629543848878",
+      "type": "repost",
+      "source": "https://brid.gy/repost/mastodon/@hacdias@fosstodon.org/111431044010749799/109305629543848878"
+    },
+    {
+      "author": "Boris Mann",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/2c1bfda270c087b1e4f55f1db99c194482fa28187885c450f46530c9da956440.jpg",
+      "authorUrl": "https://cosocial.ca/@boris",
+      "date": "2023-11-19T16:05:35Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/111431044010749799/110074270691563910",
+      "type": "like",
+      "source": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/111431044010749799/110074270691563910"
+    }
+  ]
+}

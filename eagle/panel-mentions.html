@@ -31,10 +31,13 @@
   <div class='box'>
     <p>
       <strong>Entry:</strong> <a href="{{ .EntryID }}">{{ .EntryID }}</a><br>
-      <strong>Name:</strong> {{ .Author }}<br>
-      <strong>Website:</strong> {{ .AuthorURL }}<br>
-      <strong>Date:</strong> {{ .Date }}<br>
-      <strong>Content:</strong> {{ .Content }}
+      {{ with .Author }}<strong>Author Name:</strong> {{ . }}<br>{{ end }}
+      {{ with .AuthorURL }}<strong>Author URL:</strong> {{ . }}<br>{{ end }}
+      {{ with .Title }}<strong>Title:</strong> {{ . }}<br>{{ end }}
+      {{ with .URL }}<strong>URL:</strong> {{ . }}<br>{{ end }}
+      {{ with .Date }}<strong>Date:</strong> {{ . }}<br>{{ end }}
+      {{ with .Content }}<strong>Content:</strong> {{ . }}<br>{{ end }}
+      {{ with .Type }}<strong>Type:</strong> {{ . }}<br>{{ end }}
     </p>
     <div class='eagle-guestbook'>
       {{ if .Private }}

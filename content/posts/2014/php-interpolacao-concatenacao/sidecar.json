@@ -1,0 +1,13 @@
+{
+  "replies": [
+    {
+      "content": "Pra quem tem aquelas dúvidas meio 'idiotas' sobre PHP, que não farão diferença em sistemas pequenos, mas que talvez impactem em sistemas grandes (como o Facebook), segue abaixo tanto um tutorial quanto uma 'pesquisa' sobre interpolação e strings. hacdias.com/articles/2014/… #php #dev",
+      "author": "$firstname = 'Cristian';",
+      "authorPhoto": "https://webmention.io/avatar/pbs.twimg.com/abe854b5f1d456ee2ae3da649193e100cbe17d9371c88e16ce8b6a7453a72c20.jpg",
+      "authorUrl": "https://twitter.com/sucosuave",
+      "date": "2021-10-23T22:18:05Z",
+      "url": "https://twitter.com/sucosuave/status/1452036634623496195",
+      "type": "mention"
+    }
+  ]
+}

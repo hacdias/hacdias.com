@@ -1,0 +1,29 @@
+{
+  "replies": [
+    {
+      "content": "In reply to hacdias.com/2022/12/2… … my own website doesn’t support certain functionalities, such as following others. I think it’s possible to just use an RSS reader and do it from there… or tie it together with BridgyFed I think. I’m after the same holy grail of “one website to do all the things” so that’s why I’m looking at GoBlog. Any tips you have on set up and running are very welcome and appreciated 🙇🏾‍♂️",
+      "date": "2022-12-27T18:24:53-05:00",
+      "url": "https://jlg.micro.blog/2022/12/27/182453.html",
+      "type": "reply"
+    },
+    {
+      "name": "Half-Baked Thought",
+      "content": "It’s always great to see your evolution of site mechanics and philosophy Henrique! I too love fiddling with the site and have added and removed functionalities over the years, I think that’s a normal evolution. I’ve been pondering on merging my game site with Brain Baking for a long time but personally just love the retro site layout as it’s reminiscent of past sites and my youth, so I won’t. Until I will. But probably not. Yet. 😅",
+      "author": "Wouter Groeneveld",
+      "authorUrl": "https://brainbaking.com/",
+      "date": "2022-12-26T18:18:00Z",
+      "url": "https://brainbaking.com/notes/2022/12/26h18m18s48/",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": "Simone or /^syx.*$/",
+      "authorUrl": "https://indieweb.social/users/syx",
+      "date": "0001-01-01T00:00:00Z",
+      "url": "https://indieweb.social/users/syx#likes/378042",
+      "type": "like",
+      "source": "https://indieweb.social/users/syx#likes/378042"
+    }
+  ]
+}
