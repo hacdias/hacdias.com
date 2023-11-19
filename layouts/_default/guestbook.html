@@ -10,11 +10,12 @@
           Thanks for passing by and leaving your mark. Do you want to submit a <a href='{{ relURL "/guestbook" }}'>new entry</a>?
         </div>
 
-        <form method='post' class='block-form'>
+        <form method='post' action='/comments/' class='block-form'>
           <input type='text' maxlength='100' name='name' placeholder='Name (optional)' value='' />
           <input type='url' maxlength='100' name='website' placeholder='Website (optional)' value='' />
           <textarea required maxlength='500' name='content' placeholder='Comment'></textarea>
           <input type='url' maxlength='100' name='url' placeholder='If you are human, do not write here.' class='dn' />
+          <input type='text' maxlength='300' name='target' value='/guestbook/' class='dn' hidden />
           <button>Comment</button>
         </form>
       </div>
@@ -28,25 +29,20 @@
     }
     </script>
 
-    {{ with .Site.Data.guestbook -}}
-    <div class="entries">
-      {{- range . }}
-        {{ if not .unseen }}
-        <div class="entry">
-          {{ with .content }}
-            <div>{{ safeHTML . }}</div>
-          {{ end }}
-
-          <div class="signature">—
-          {{ with .website }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
-          {{ with .name }}{{ . }}{{ else }}Anonymous{{ end }}
-          {{- with .date}}, {{ dateFormat "2006-01-02" . }}{{end }}
-          {{ with .website }}</a>{{ end }}
+    {{ with .Resources.Get "sidecar.json" | unmarshal -}}
+      <div class="entries">
+        {{- range .replies }}
+          <div class="entry">
+            {{ with .content }}<div>{{ safeHTML . }}</div>{{ end }}
+            <div class="signature">—
+            {{ with .authorUrl }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
+            {{ with .author }}{{ . }}{{ else }}Anonymous{{ end }}
+            {{- with .date}}, {{ dateFormat "2006-01-02" . }}{{end }}
+            {{ with .authorUrl }}</a>{{ end }}
+            </div>
           </div>
-        </div>
-        {{ end }}
-      {{ end }}
-    </div>
+        {{ end -}}
+      </div>
     {{ end -}}
   </article>
 {{ end }}

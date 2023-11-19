@@ -1,0 +1,60 @@
+<style>
+.eagle-guestbook {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.eagle-guestbook > form:first-of-type {
+  margin-right: var(--hms);
+}
+
+.eagle-guestbook > form:first-of-type button {
+  background: #e32517;
+  border-color: #e32517;
+}
+.eagle-guestbook > form:last-of-type button {
+  background: #2fa22f;
+  border-color: #2fa22f;
+}
+</style>
+
+{{ template "panel-navigation.html" . }}
+
+<h2>Comments</h2>
+
+{{ if eq (len .) 0 }}
+  <div class='box'>
+    🕊️ There are no comments, the birds are still whisteling.
+  </div>
+{{ end }}
+{{ range . }}
+  <div class='box'>
+    <p>
+      <strong>Entry:</strong> <a href="{{ .EntryID }}">{{ .EntryID }}</a><br>
+      <strong>Name:</strong> {{ .Author }}<br>
+      <strong>Website:</strong> {{ .AuthorURL }}<br>
+      <strong>Date:</strong> {{ .Date }}<br>
+      <strong>Content:</strong> {{ .Content }}
+    </p>
+    <div class='eagle-guestbook'>
+      {{ if .Private }}
+        <form method=POST>
+          <input type='hidden' name='id' value='{{ .ID }}' />
+          <input type='hidden' name='action' value='delete' />
+          <button style='width: 100%'>Read</button>
+        </form>
+      {{ else }}
+        <form method=POST>
+          <input type='hidden' name='id' value='{{ .ID }}' />
+          <input type='hidden' name='action' value='delete' />
+          <button style='width: 100%'>Delete</button>
+        </form>
+        <form method=POST>
+          <input type='hidden' name='id' value='{{ .ID }}' />
+          <input type='hidden' name='action' value='approve' />
+          <button style='width: 100%'>Approve</button>
+        </form>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

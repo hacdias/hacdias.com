@@ -49,4 +49,10 @@
       ❤️ Enjoyed this post or my work? Consider <a href="{{ absURL "/support" }}">supporting me</a>!
     </p>
   </footer>
+{{ else }}
+  <div class="h-card u-author" hidden>
+    Authored by
+    <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
+    <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
+  </div>
 {{ end }}
