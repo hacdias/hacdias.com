@@ -32,17 +32,24 @@
     <p>
       💬 Reply with
       <a href="mailto:mail@hacdias.com?subject=Concerning: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
-      <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
-      {{- if .Page.Params.syndications -}}
-        , or where it was syndicated:
-        {{ range .Page.Params.syndications -}}
-          <a class='nl u-syndication' rel="noopener noreferrer" href="{{ . }}">
-            {{- $domain := (urls.Parse .).Host -}}
-            <img referrerpolicy="no-referrer" src="https://www.google.com/s2/favicons?domain={{ $domain }}&sz=32" class="icon">
-          </a>
-        {{- end -}}
+      <a href="https://fosstodon.org/@hacdias" rel='noopener noreferrer'>Mastodon</a>,
+      <a href="https://bsky.app/profile/hacdias.com" rel='noopener noreferrer'>Bluesky</a>,
+      <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>.
+    </p>
+
+    {{ with .Page.Params.syndications }}
+    <p>
+      🌐  This post can also be found on
+      {{ range $i, $s := . -}}
+        {{- if ne $i 0 }}, {{ end -}}
+        <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
+          {{- $domain := (urls.Parse $s).Host -}}
+          <img referrerpolicy="no-referrer" src="https://www.google.com/s2/favicons?domain={{ $domain }}&sz=32" class="icon">
+          {{ $domain -}}
+        </a>
       {{- end -}}.
     </p>
+    {{ end }}
 
     <p>
       ❤️ Enjoyed this post or my work? Consider <a href="{{ absURL "/support" }}">supporting me</a>!
