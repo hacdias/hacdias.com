@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 80,
+    "count": 82,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -266,6 +266,14 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/16/after-working-remotely-full-time-one-year/",
         "targetUrl": "https://github.com/ipfs/boxo"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/18/open-sourcering-my-website/",
+        "targetUrl": "https://github.com/newren/git-filter-repo"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/18/open-sourcering-my-website/",
+        "targetUrl": "https://github.com/hacdias/hacdias.com"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -984,6 +992,28 @@
     ]
   },
   {
+    "domain": "fosstodon.org",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
+        "targetUrl": "https://fosstodon.org/@hacdias"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/10/updates-on-indieweb-go-libraries/",
+        "targetUrl": "https://fosstodon.org/@jle/111351505430671803"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/18/open-sourcering-my-website/",
+        "targetUrl": "https://fosstodon.org/@hacdias/111348601666828039"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://fosstodon.org/@hacdias"
+      }
+    ]
+  },
+  {
     "domain": "npmjs.com",
     "count": 4,
     "links": [
@@ -1122,24 +1152,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
         "targetUrl": "https://www.dutchnews.nl/2023/04/theyll-just-throw-in-wvttkje-i-find-it-really-funny/"
-      }
-    ]
-  },
-  {
-    "domain": "fosstodon.org",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
-        "targetUrl": "https://fosstodon.org/@hacdias"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/10/updates-on-indieweb-go-libraries/",
-        "targetUrl": "https://fosstodon.org/@jle/111351505430671803"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://fosstodon.org/@hacdias"
       }
     ]
   },
@@ -1302,6 +1314,24 @@
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
         "targetUrl": "https://www.redblobgames.com/articles/noise/introduction.html"
+      }
+    ]
+  },
+  {
+    "domain": "stackoverflow.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2014/07/23/diferencas-entre-igual-identico-php/",
+        "targetUrl": "http://stackoverflow.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2014/09/09/php-interpolacao-concatenacao/",
+        "targetUrl": "http://stackoverflow.com/questions/13620/speed-difference-in-using-inline-strings-vs-concatenation-in-php5"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/18/open-sourcering-my-website/",
+        "targetUrl": "https://stackoverflow.com/questions/3063097/remove-commits-before-specific-commit"
       }
     ]
   },
@@ -1684,20 +1714,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
         "targetUrl": "https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd"
-      }
-    ]
-  },
-  {
-    "domain": "stackoverflow.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2014/07/23/diferencas-entre-igual-identico-php/",
-        "targetUrl": "http://stackoverflow.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2014/09/09/php-interpolacao-concatenacao/",
-        "targetUrl": "http://stackoverflow.com/questions/13620/speed-difference-in-using-inline-strings-vs-concatenation-in-php5"
       }
     ]
   },
