@@ -225,7 +225,7 @@ This is a list of the domains I currently own, with an explanation for each. The
   </div>
   <div class='e'>
     <div><a class='nl lh' rel='noopener noreferrer' href='https://h4c.pt'>h4c.pt</a></div>
-    <div>This one I bought after <a rel='noopener noreferrer' href='/2021/12/05/h4c-is-live'>speaking to Sebastiaan</a> about it. It's a short domain for a URL shortener. It's short and Portuguese 🇵🇹.</div>
+    <div>This one I bought after speaking to Sebastiaan about it. It's a short domain for a URL shortener. It's short and Portuguese 🇵🇹.</div>
   </div>
   <div class='e'>
     <div><a class='nl lh' rel='noopener noreferrer' href='https://hacdia.sh'>hacdia.sh</a></div>
