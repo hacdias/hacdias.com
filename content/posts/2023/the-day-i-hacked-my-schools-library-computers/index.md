@@ -31,6 +31,8 @@ I haven't written a single article this month. However, I've thought about doing
 
   #navbar {
     border-radius: 0;
+    border-left: none;
+    border-right: none;
   }
 }
 </style>

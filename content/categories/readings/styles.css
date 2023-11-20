@@ -1,18 +1,11 @@
-:root,
-:root.dark {
+:root {
   --c-h: 19;
   --c-s: 58%;
   --c-l: 36%;
 }
 
-@media screen and (min-width: 53.001rem) {
-  body {
-    background: #8e4a1f url(/readings/shelf.jpeg);
-    background-size: 400px;
-    background-attachment: fixed;
-  }
-
-  #navbar {
-    border-radius: 0;
-  }  
+:root.dark {
+  --c-h: 19;
+  --c-s: 30%;
+  --c-l: 50%;
 }

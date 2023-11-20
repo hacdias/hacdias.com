@@ -2,18 +2,21 @@
 :root.dark {
   --c-h: 215;
   --c-s: 84%;
-  --c-l: 68%;
+  --c-l: 65%;
 }
 
 @media screen and (min-width: 53.001rem) {
   body {
-    background: #4b7bec url(https://cdn.hacdias.com/media/2021-02-snowflake.svg);
-    background-size: 50px;
+    background: var(--fg) url(https://cdn.hacdias.com/media/2021-02-snowflake.svg);
+    background-size: 49px;
     background-attachment: fixed;
+    background-position: center;
   }
 
   #navbar {
     border-radius: 0;
+    border-left: none;
+    border-right: none;
   }
 }
 

@@ -2,17 +2,9 @@
 :root.dark {
   --c-h: 328;
   --c-s: 28%;
-  --c-l: 60%;
+  --c-l: 50%;
 }
 
-@media screen and (min-width: 53.001rem) {
-  body {
-    background: #48084f url(/watches/pattern.jpeg);
-    background-size: 300px;
-    background-attachment: fixed;
-  }
-
-  #navbar {
-    border-radius: 0;
-  }
+:root.dark {
+  --c-l: 60%;
 }

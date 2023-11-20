@@ -14,7 +14,7 @@
   --c-text: #f4f4f4;
   --bg-l: 99%;
   --bg: hsl(var(--c-h), var(--c-s), var(--bg-l));
-  --fg-l: 94%;
+  --fg-l: 92%;
   --fg: hsl(var(--c-h), var(--c-s), var(--fg-l));
   --mg-l: 97%;
   --mg: hsl(var(--c-h), var(--c-s), var(--mg-l));
@@ -381,9 +381,7 @@ details summary {
 
 #navbar {
   display: flex;
-  background-color: var(--c);
-  color: var(--c-text);
-  border-radius: var(--radius);
+  color: var(--c);
   margin-top: 0;
   margin-bottom: var(--hls);
   overflow: hidden;
@@ -400,14 +398,6 @@ details summary {
 
 #navbar label {
   display: none;
-}
-
-#navbar a:hover {
-  background-color: rgba(0, 0, 0, 0.2);
-}
-
-#navbar a[aria-current="page"] {
-  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .container {
@@ -454,6 +444,7 @@ details summary {
   margin: var(--hms) 0;
 }
 
+#navbar,
 .box,
 .toc,
 .terms a,
@@ -549,6 +540,8 @@ main pre {
   display: inline-block;
 }
 
+#navbar a:hover,
+#navbar a[aria-current="page"],
 .terms a:hover {
   background-color: var(--fg);
 }
@@ -763,7 +756,7 @@ main pre {
 }
 
 .dark #navbar {
-  background: var(--fg);
+  color: var(--c-text);
 }
 
 /* This can likely be improved. */
