@@ -5,6 +5,7 @@ categories:
   - articles
 tags:
   - now
+  - trains
 syndications:
   - https://fosstodon.org/@hacdias/111330175944628078
 ---
@@ -53,7 +54,7 @@ The lunch was served on a Pullman eating wagon from 1927, completely renovated. 
 
 <div class="box">
 
-**MENU** (in Dutch)
+**HET MENU**
 
 * Mousse van gerookte Geulforel met tomatentoast, tomatenchutney en een kruidige salade
 * Romige soep van Valkenburgse grotchampignons

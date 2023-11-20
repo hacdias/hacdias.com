@@ -2,6 +2,10 @@
 title: Updates on IndieWeb Go Libraries
 date: 2023-11-10T15:18:39+01:00
 lastmod: 2023-11-11T14:22:25+01:00
+tags:
+  - indieweb
+  - open-source
+  - go
 categories:
   - articles
 ---

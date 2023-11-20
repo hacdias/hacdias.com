@@ -2,6 +2,8 @@
 title: 'Project Lifie: The Video'
 description: After collecting a daily selfie for the past 7 years, here is the final video.
 date: 2023-10-20T09:05:20+02:00
+tags:
+  - life
 categories:
   - articles
 feedContentWarning: true

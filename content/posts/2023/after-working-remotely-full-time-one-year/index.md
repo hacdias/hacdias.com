@@ -5,6 +5,7 @@ categories:
   - articles
 tags:
   - work
+  - life
 syndications:
   - https://fosstodon.org/@hacdias/111243133168425921
 ---
