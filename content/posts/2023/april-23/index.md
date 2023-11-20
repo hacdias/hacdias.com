@@ -13,13 +13,6 @@ the weather is definitely getting so much better than a few months ago.
 
 <!--more-->
 <style>
-:root,
-:root.dark {
-  --c-h: 205;
-  --c-s: 71%;
-  --c-l: 69%;
-}
-
 figure.round {
   max-width: 13rem;
   overflow: hidden;
