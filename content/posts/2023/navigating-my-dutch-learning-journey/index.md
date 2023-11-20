@@ -1,6 +1,10 @@
 ---
 title: Navigating My Dutch Learning Journey
 date: 2023-10-18T08:12:05+02:00
+tags:
+  - dutch
+  - languages
+  - learning
 categories:
   - articles
 syndications:
