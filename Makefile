@@ -16,17 +16,19 @@ clean:
 	rm -rf assets/css/vendor
 	rm -rf assets/js/vendor
 
+ENVIRONMENT ?= production
+
 build:
-	hugo --minify
+	hugo --minify --environment $(ENVIRONMENT)
 
 watch:
-	hugo server --watch --minify
+	hugo server --watch --minify --environment $(ENVIRONMENT)
 
 watch-drafts:
-	hugo server --watch --minify --buildDrafts
+	hugo server --watch --minify --buildDrafts --environment $(ENVIRONMENT)
 
 watch-future:
-	hugo server --watch --minify --buildFuture
+	hugo server --watch --minify --buildFuture --environment $(ENVIRONMENT)
 
 watch-all:
-	hugo server --watch --minify --buildDrafts --buildFuture
+	hugo server --watch --minify --buildDrafts --buildFuture --environment $(ENVIRONMENT)
