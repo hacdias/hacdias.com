@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Elite
+  season: 7
+  rating: 3
+  date: 2023-11-20
 - name: Loki
   season: 2
   rating: 4
