@@ -398,7 +398,6 @@ details summary {
   padding: var(--hms);
 }
 
-#mobile-search,
 #navbar label {
   display: none;
 }
