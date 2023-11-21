@@ -5,6 +5,7 @@ categories:
   - articles
 tags:
   - now
+  - travel
 ---
 
 It is, yet again, that time of the month to write a bit about what's been happening lately. April went by
