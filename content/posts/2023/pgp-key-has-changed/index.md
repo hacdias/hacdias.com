@@ -5,6 +5,7 @@ categories:
   - articles
 tags:
   - security
+  - meta
 ---
 
 This is just a quick post to alert that I have changed my PGP key. It doesn't

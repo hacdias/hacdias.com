@@ -7,6 +7,7 @@ tags:
   - transit
   - infrastructure
   - travel
+  - trains
 syndications:
   - https://fosstodon.org/@hacdias/109932662144169291
 ---

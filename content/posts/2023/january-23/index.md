@@ -5,6 +5,7 @@ categories:
   - articles
 tags:
   - now
+  - travel
 ---
 
 January, the infamous first month of the year, is reaching an end. It was a very eventful month, but, by this time, I feel like I say that for every month that passes. I am honestly hoping that February will be a slightly more boring month in that sense.
