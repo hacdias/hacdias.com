@@ -2,13 +2,12 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Fri, 17 Nov 2023 22:07:51 UTC</dateCreated>
+        <dateCreated>Tue, 21 Nov 2023 04:00:00 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
             <outline title="Ru Singh" text="Ru Singh" xmlUrl="https://rusingh.com/feed/" htmlUrl="https://rusingh.com/"></outline>
             <outline title="Interdependent Thoughts" text="Interdependent Thoughts" xmlUrl="https://www.zylstra.org/blog/feed/" htmlUrl="https://www.zylstra.org/blog"></outline>
-            <outline title="James" text="James" xmlUrl="https://granary.io/url?input=html&amp;output=rss&amp;url=https%3A%2F%2Fjamesg.blog" htmlUrl="https://jamesg.blog/"></outline>
             <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.json" htmlUrl="https://aaronparecki.com/"></outline>
             <outline title="Alistair Shepherd" text="Alistair Shepherd" xmlUrl="https://alistairshepherd.uk/feed.xml" htmlUrl="https://www.alistairshepherd.uk/"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog"></outline>
@@ -33,6 +32,7 @@
             <outline title="Horst Gutmann" text="Horst Gutmann" xmlUrl="https://zerokspot.com/index.xml" htmlUrl="https://zerokspot.com/"></outline>
             <outline title="Isaac Schlueter" text="Isaac Schlueter" xmlUrl="https://blog.izs.me/feed/feed.json" htmlUrl="https://blog.izs.me/"></outline>
             <outline title="Jake Bauer" text="Jake Bauer" xmlUrl="https://www.paritybit.ca/feed.xml" htmlUrl="https://www.paritybit.ca"></outline>
+            <outline title="James" text="James" xmlUrl="https://granary.io/url?input=html&amp;output=rss&amp;url=https%3A%2F%2Fjamesg.blog" htmlUrl="https://jamesg.blog/"></outline>
             <outline title="James Fenn" text="James Fenn" xmlUrl="https://jfenn.me/blog/feed.xml" htmlUrl="https://jfenn.me/"></outline>
             <outline title="Jamie Tanna" text="Jamie Tanna" xmlUrl="https://www.jvt.me/kind/articles/feed.xml" htmlUrl="https://www.jvt.me/kind/articles/"></outline>
             <outline title="Jan Boddez" text="Jan Boddez" xmlUrl="https://jan.boddez.net/feed" htmlUrl="https://jan.boddez.net"></outline>
@@ -81,6 +81,7 @@
         <outline text="Comics">
             <outline title="ComitStrip" text="ComitStrip" xmlUrl="https://www.commitstrip.com/en/feed/?" htmlUrl="https://www.commitstrip.com"></outline>
             <outline title="Hey Ok Yay?" text="Hey Ok Yay?" xmlUrl="https://heyokyay.com/feed/" htmlUrl="https://heyokyay.com"></outline>
+            <outline title="Wizard Zines" text="Wizard Zines" xmlUrl="https://wizardzines.com/index.xml" htmlUrl="https://wizardzines.com"></outline>
             <outline title="XKCD" text="XKCD" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"></outline>
         </outline>
         <outline text="General">
