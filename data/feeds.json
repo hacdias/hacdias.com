@@ -368,6 +368,11 @@
       "feed": "https://heyokyay.com/feed/"
     },
     {
+      "title": "Wizard Zines",
+      "site": "https://wizardzines.com",
+      "feed": "https://wizardzines.com/index.xml"
+    },
+    {
       "title": "XKCD",
       "site": "https://xkcd.com/",
       "feed": "https://xkcd.com/rss.xml"
