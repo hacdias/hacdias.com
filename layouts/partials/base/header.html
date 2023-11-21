@@ -22,6 +22,11 @@
       <input type='text' placeholder='Search…' id='query' name='query'>
       <button alt='Search'>🔎</button>
     </form>
+  {{ else }}
+    <form action="https://duckduckgo.com/html/" method="get" class='inline-form'>
+      <input type='search' placeholder="Search…" name='q' value="site:hacdias.com " />
+      <button alt='Search'>🔎</button>
+    </form>
   {{ end }}
 </div>
 
