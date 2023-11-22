@@ -2314,16 +2314,6 @@
     ]
   },
   {
-    "domain": "atsukotominaga.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/bookmarks/",
-        "targetUrl": "https://atsukotominaga.com/"
-      }
-    ]
-  },
-  {
     "domain": "bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy.ipfs.dweb.link",
     "count": 1,
     "links": [
@@ -2584,16 +2574,6 @@
     ]
   },
   {
-    "domain": "comfitu.re",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/bookmarks/",
-        "targetUrl": "https://comfitu.re/"
-      }
-    ]
-  },
-  {
     "domain": "commentpara.de",
     "count": 1,
     "links": [
@@ -2630,16 +2610,6 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://craft-wallet.com/"
-      }
-    ]
-  },
-  {
-    "domain": "cronut.cafe",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/bookmarks/",
-        "targetUrl": "https://cronut.cafe/~sfr/"
       }
     ]
   },
@@ -4264,32 +4234,12 @@
     ]
   },
   {
-    "domain": "secluded.site",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/bookmarks/",
-        "targetUrl": "https://secluded.site/"
-      }
-    ]
-  },
-  {
     "domain": "security.nl",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://www.security.nl"
-      }
-    ]
-  },
-  {
-    "domain": "shuralyov.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/bookmarks/",
-        "targetUrl": "https://dmitri.shuralyov.com/"
       }
     ]
   },
@@ -4410,16 +4360,6 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "http://www.startuplisboa.com/"
-      }
-    ]
-  },
-  {
-    "domain": "stp.cx",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/bookmarks/",
-        "targetUrl": "https://stp.cx/"
       }
     ]
   },
@@ -4724,16 +4664,6 @@
     ]
   },
   {
-    "domain": "volpeon.ink",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/bookmarks/",
-        "targetUrl": "https://volpeon.ink/"
-      }
-    ]
-  },
-  {
     "domain": "web3.foundation",
     "count": 1,
     "links": [
@@ -4780,6 +4710,16 @@
       {
         "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
         "targetUrl": "https://www.wireguard.com/install/"
+      }
+    ]
+  },
+  {
+    "domain": "wizardzines.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://wizardzines.com"
       }
     ]
   },
