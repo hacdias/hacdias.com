@@ -24,7 +24,7 @@
       🏷️ Tagged with
       {{ range $i, $tag := .Page.Params.tags -}}
         {{- if ne $i 0 }}, {{ end }}
-        <a href="{{ ($.Page.Site.GetPage (printf "/tags/%s" $tag)).RelPermalink }}">#{{ . }}</a>
+        <a href="{{ ($.Page.Site.GetPage (printf "/tags/%s" $tag)).RelPermalink }}">#<span class='p-category'>{{ . }}</span></a>
       {{- end -}}.
     </p>
     {{ end }}

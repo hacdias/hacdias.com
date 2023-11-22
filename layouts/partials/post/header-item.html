@@ -14,7 +14,7 @@
       {{ partial "post/header-date" . }}
     {{ end }}
     {{ range .Params.tags -}}
-      <a class="tag" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" .)).RelPermalink }}">#{{ . }}</a>
+      <a class="tag" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" .)).RelPermalink }}">#<span class='p-category'>{{ . }}</span></a>
     {{ end -}}
   </p>
   {{ end }}
