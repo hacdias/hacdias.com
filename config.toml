@@ -6,7 +6,6 @@ rsslimit = 10
 pluralizelisttitles = false
 removePathAccents = true
 summaryLength = 300
-disable404 = true
 
 [taxonomies]
   tag = 'tags'
