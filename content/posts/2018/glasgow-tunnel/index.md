@@ -4,7 +4,7 @@ date: 2018-10-09T21:26:11Z
 categories:
   - photos
 coverImage: cdn:/2020-03-glasgow-tunnel
-syndications:
+syndication:
   - https://www.instagram.com/p/BoujX-FgPr7/
 ---
 

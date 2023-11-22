@@ -4,7 +4,7 @@ date: 2022-03-27T11:03:07.069215+02:00
 categories:
   - photos
 coverImage: cdn:/2022-03-cherry-blossoms-06
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1508095378222166021
 ---
 

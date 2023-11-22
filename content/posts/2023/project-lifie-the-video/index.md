@@ -7,7 +7,7 @@ tags:
 categories:
   - articles
 feedContentWarning: true
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/111266075579921337
 ---
 

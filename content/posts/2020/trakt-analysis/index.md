@@ -8,7 +8,7 @@ tags:
   - meta
   - reflection
   - year-in-popcorn
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1231484792027348994
 ---
 

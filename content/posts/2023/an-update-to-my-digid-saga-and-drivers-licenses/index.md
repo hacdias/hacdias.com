@@ -7,7 +7,7 @@ categories:
 tags:
   - government
   - infrastructure
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/110651139023843183
 ---
 

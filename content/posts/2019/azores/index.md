@@ -4,7 +4,7 @@ date: 2019-09-30T07:58:31Z
 categories:
   - photos
 coverImage: cdn:/2019-07-azores-01
-syndications:
+syndication:
   - https://www.instagram.com/p/B3Bx76glifj/
 ---
 

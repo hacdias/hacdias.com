@@ -7,7 +7,7 @@ categories:
 tags:
   - testing
   - web3
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1318089432113815553
 ---
 

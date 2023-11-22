@@ -8,7 +8,7 @@ tags:
   - papers
   - publications
   - masters
-syndications:
+syndication:
   - https://doi.org/10.1007/978-981-99-0272-9_22
 ---
 

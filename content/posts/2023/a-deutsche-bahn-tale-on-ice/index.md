@@ -8,7 +8,7 @@ tags:
   - infrastructure
   - travel
   - trains
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/109932662144169291
 ---
 

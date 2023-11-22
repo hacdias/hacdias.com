@@ -6,7 +6,7 @@ categories:
 tags:
   - cycling
   - sports
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/111218079645039127
 ---
 

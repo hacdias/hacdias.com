@@ -9,7 +9,7 @@ tags:
   - art
   - mathematics
 feedContentWarning: true
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1361206419266154499
 ---
 

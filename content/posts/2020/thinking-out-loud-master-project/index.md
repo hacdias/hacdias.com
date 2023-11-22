@@ -9,7 +9,7 @@ tags:
   - university
   - masters
   - thesis
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1317859153185001474
 ---
 

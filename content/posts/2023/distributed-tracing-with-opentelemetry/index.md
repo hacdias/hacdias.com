@@ -6,7 +6,7 @@ categories:
 tags:
   - decentralization
   - telemetry
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/110224097052796658
 ---
 

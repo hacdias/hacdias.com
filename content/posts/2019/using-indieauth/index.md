@@ -8,7 +8,7 @@ tags:
   - meta
   - indieweb
   - personal-website
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1211797283525812224
 ---
 

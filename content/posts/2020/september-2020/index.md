@@ -5,7 +5,7 @@ categories:
   - articles
 tags:
   - now
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1311562183856320512
 ---
 

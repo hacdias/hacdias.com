@@ -4,7 +4,7 @@ date: 2017-04-10T00:15:10Z
 categories:
   - photos
 coverImage: cdn:/2017-04-purple
-syndications:
+syndication:
   - https://www.instagram.com/p/BSrzGLTgBEG/
 ---
 
