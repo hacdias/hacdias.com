@@ -4,7 +4,7 @@ date: 2022-09-05T07:41:47.351450039+02:00
 categories:
   - photos
 coverImage: cdn:/91db37c4ab64c39020019997770032c2bc3771b55a3e25590f3e4cecec30f139
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1566846804183900162
 ---
 

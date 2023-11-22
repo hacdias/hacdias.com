@@ -4,7 +4,7 @@ date: 2022-04-27T12:00:00+02:00
 categories:
   - photos
 coverImage: cdn:/bd0bec2f7dbd8fcf264fbf466005871bcea9dc728742f0ffabe88258346ad197
-syndications:
+syndication:
   - https://www.instagram.com/p/Cc2i0M2sAAf/
 ---
 

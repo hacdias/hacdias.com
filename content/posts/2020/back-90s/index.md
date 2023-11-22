@@ -7,7 +7,7 @@ categories:
 tags:
   - meta
   - web3
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1267207180698169345
 ---
 

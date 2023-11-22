@@ -9,7 +9,7 @@ tags:
   - creative
   - art
 coverImage: https://cdn.hacdias.com/media/2020-04-pixel-house.gif
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1247801115342540800
 ---
 

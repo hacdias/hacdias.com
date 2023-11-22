@@ -6,7 +6,7 @@ categories:
 tags:
   - now
   - trains
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/111330175944628078
 ---
 

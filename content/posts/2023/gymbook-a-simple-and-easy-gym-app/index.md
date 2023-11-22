@@ -6,7 +6,7 @@ categories:
 tags:
   - gym
   - sports
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/111240325222416783
 ---
 

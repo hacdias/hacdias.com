@@ -6,7 +6,7 @@ categories:
 tags:
   - goals
 coverImage: cdn:/2022-06-dm-photo-1
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1534206131781902336
   - https://twitter.com/hacdias/status/1534206138077655040
 ---

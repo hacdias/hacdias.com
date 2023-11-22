@@ -5,7 +5,7 @@ lastmod: 2022-10-23T11:30:26.579799606+02:00
 categories:
   - photos
 coverImage: cdn:/6ba1c5339dbd944da81db30413179b89a67bde7de09407767a8e227743fefa59
-syndications:
+syndication:
   - https://www.instagram.com/p/CkDRZ2bIIfy/
 ---
 

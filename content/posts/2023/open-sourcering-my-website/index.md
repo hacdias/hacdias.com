@@ -2,7 +2,7 @@
 title: "Open Sourcering My Website"
 date: 2023-11-18T11:17:52+01:00
 coverImage: cdn:/2023-11-noisy-glow
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/111431044010749799
 tags:
   - git

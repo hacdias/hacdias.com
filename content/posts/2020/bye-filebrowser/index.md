@@ -7,7 +7,7 @@ categories:
 tags:
   - go
   - reflection
-syndications:
+syndication:
   - https://twitter.com/hacdias/status/1220274794068959232
 ---
 

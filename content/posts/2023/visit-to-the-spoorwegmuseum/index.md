@@ -9,7 +9,7 @@ tags:
   - infrastructure
 coverImage: cdn:/2023-05-spoorwegmuseum
 feedContentWarning: true
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/110323610429118818
 ---
 

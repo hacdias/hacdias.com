@@ -6,7 +6,7 @@ categories:
 tags:
   - story-time
   - school
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/110089813295606267
 ---
 

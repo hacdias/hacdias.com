@@ -6,7 +6,7 @@ categories:
 tags:
   - work
   - life
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/111243133168425921
 ---
 

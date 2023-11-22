@@ -4,7 +4,7 @@ date: 2021-06-01T00:00:00Z
 categories:
   - photos
 coverImage: cdn:/2021-05-maastricht-07
-syndications:
+syndication:
   - https://www.instagram.com/p/CO6P31uLDLN/
 ---
 

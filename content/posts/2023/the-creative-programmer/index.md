@@ -11,7 +11,7 @@ read:
   pages: 232
   publisher: Manning
   uid: isbn:9781633439054
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/110530107064412338
 ---
 

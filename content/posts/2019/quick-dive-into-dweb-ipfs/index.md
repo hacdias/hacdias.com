@@ -8,7 +8,7 @@ tags:
   - ipfs
   - talk
 feedContentWarning: true
-syndications:
+syndication:
   - https://www.youtube.com/watch?v=EmxUyuCD37Q
 ---
 

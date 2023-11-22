@@ -8,7 +8,7 @@ tags:
   - indieweb
   - personal-website
 coverImage: cdn:/081ef31ac2089c38ae7eb7af440ee702af52e6e8b4bec8b5041ba3dc23755d4b
-syndications:
+syndication:
   - https://fosstodon.org/@hacdias/110597732852786375
 ---
 

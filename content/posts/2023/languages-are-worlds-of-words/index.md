@@ -7,7 +7,7 @@ tags:
   - learning
 categories:
   - articles
-syndications:
+syndication:
   - https://bsky.app/profile/hacdias.com/post/3kepw7xuld52q
   - https://fosstodon.org/@hacdias/111450310800798049
 ---
