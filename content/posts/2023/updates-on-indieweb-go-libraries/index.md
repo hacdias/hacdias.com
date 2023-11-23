@@ -6,6 +6,8 @@ tags:
   - indieweb
   - open-source
   - go
+syndication:
+  - https://news.indieweb.org/en
 categories:
   - articles
 ---
