@@ -41,8 +41,8 @@
   },
   {
     "url": "https://jeffhuang.com/designed_to_last/",
-    "title": "This Page is Designed to Last: A Manifesto for Preserving Content on the Web",
-    "description": "Very interesting post on how to make long lasting web pages. The 7 most important points are:\n\n1. Return to vanilla HTML/CSS\n2. Don't minimize HTML\n3. Prefer one long page over several\n4. Do not hotlink\n5. Stick with native fonts\n6. Compress, compress, compress (images)!\n7. Eliminate broken URL risk",
+    "title": "This Page is Designed to Last",
+    "description": "Very interesting post on how to make long lasting web pages. The 7 most important points are:\r\n\r\n1. Return to vanilla HTML/CSS\r\n2. Don't minimize HTML\r\n3. Prefer one long page over several\r\n4. Do not hotlink\r\n5. Stick with native fonts\r\n6. Compress, compress, compress (images)!\r\n7. Eliminate broken URL risk",
     "tags": [
       "archive",
       "web",
@@ -311,8 +311,12 @@
   },
   {
     "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault",
-    "title": "blog/tech/SecurityItsOurOwnFault",
+    "title": "Our Computer Security Problems Are Our Own Fault",
     "description": "\u003e We (the computing community) did this to ourselves. We created a situation where a HTML attachment received in email could plausibly look, to ordinary people, like something that would appear from trying to look at an ordinary PDF. There are a whole bunch of individual pieces and steps that got us here, each sensible on their own in some view, but the collective result is that we did this to ourselves. We have no one else to blame when ordinary people fill in their password and hit 'Sign in'.",
+    "tags": [
+      "security",
+      "web"
+    ],
     "date": "2022-10-29T22:19:35Z"
   },
   {
@@ -341,7 +345,7 @@
   },
   {
     "url": "https://ramses.blog/how-take-notes-part-1/",
-    "title": "How I take smart digital notes—Part 1: A map for the journey",
+    "title": "How I take smart digital notes",
     "description": "\u003e As an autodidact, you will meet many different content formats on the road to understanding. Not all formats are created equal, and some work better than others. Add to that learning preferences, and you’ve got yourself a complicated situation.\r\n\r\n\u003e I feel obliged to mention podcasts, but I don’t recommend relying on them too much when learning. They are low resolution and impossible to skim.\r\n\r\n\u003e Reading widely and applying knowledge to problems is what empowers us to take ownership of our lives. The world starts to look like a place of possibility when you can adopt new viewpoints and learn new skills.",
     "date": "2022-10-29T21:25:04Z"
   },
