@@ -1,6 +1,6 @@
 {{ $isLong := strings.Contains .RawContent "<!--more-->" }}
 <article class='h-entry card'>
-  {{- partialCached "post/header-item" . .Permalink }}
+  {{- partialCached "post/header" (dict "Listing" true "Page" .) .Permalink true -}}
   {{- if $isLong }}
     {{- with .Summary }}
       <div class='p-summary'>{{ . }}</div>

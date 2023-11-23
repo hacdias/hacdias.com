@@ -1,14 +1,39 @@
-{{ $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) }}
-{{ if or .Title $hasDate }}
-<header>
-  {{ if .Title }}
-    <h1 class='p-name'>{{- .Title -}}</h1>
-  {{ end }}
+{{- $isListing := .Listing -}}
+{{- with .Page -}}
+  {{- $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) -}}
+  {{- $bookmark := index .Params "bookmark-of" -}}
+  {{- $metadata := or $hasDate .Params.tags -}}
+  {{- $header := "1" -}}
+  {{- if $isListing }}{{ $header = "2"  }}{{ end -}}
+  {{- if or .Title $metadata -}}
+  <header>
+    {{- if .Title -}}
+      <h{{ $header }} class='p-name'>
+        <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">{{- .Title -}}</a>
+      </h{{ $header }}>
+    {{- end -}}
 
-  {{ if $hasDate }}
-  <p>
-    {{ partial "post/header-date" . }}
-  </p>
-  {{ end }}
-</header>
-{{ end }}
+    {{- if $metadata -}}
+    <p>
+      {{- if $hasDate -}}
+        <a href="{{ relURL .Permalink }}" class="u-url nl">
+          {{- if .Lastmod.After .Date -}}
+            <time class='dt-updated' datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
+              Updated on {{ .Lastmod.Format "2 January 2006" }}
+            </time>
+          {{ end }}
+          {{- if not .Date.IsZero -}}
+            <time {{ if .Lastmod.After .Date}}hidden {{ end }}class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+              Published on {{ .Date.Format "2 January 2006" }}
+            </time>
+          {{- end -}}
+        </a>
+      {{- end -}}
+      {{- range .Params.tags }}
+        <a class="tag" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" .)).RelPermalink }}">#<span class='p-category'>{{ . }}</span></a>
+      {{- end -}}
+    </p>
+    {{- end -}}
+  </header>
+  {{- end -}}
+{{- end -}}
