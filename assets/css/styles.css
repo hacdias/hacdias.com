@@ -272,6 +272,10 @@ main header h2 {
   margin: 0;
 }
 
+main header h1.bookmark {
+  font-size: var(--f2);
+}
+
 main header p {
   font-size: var(--f5);
   color: var(--light-gray);
@@ -486,9 +490,12 @@ main pre {
   margin-left: calc(var(--ms) * -1);
 }
 
-.card h1,
 .card h2 {
   font-size: var(--f2);
+}
+
+.card h2.bookmark {
+  font-size: var(--f3);
 }
 
 .card .more {

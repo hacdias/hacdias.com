@@ -1,7 +1,12 @@
 {{- $pages := partialCached "fns/pages" . .Permalink }}
-{{- $paginator := .Paginate $pages }}
-{{- template "feed" $paginator.Pages }}
-{{- partial "list/pagination" . }}
+
+{{- if .Params.noPagination }}
+  {{- template "feed" $pages }}
+{{ else }}
+  {{- $paginator := .Paginate $pages }}
+  {{- template "feed" $paginator.Pages }}
+  {{- partial "list/pagination" . }}
+{{ end }}
 
 {{- define "feed" }}
 <div class='h-feed'>
