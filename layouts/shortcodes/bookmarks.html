@@ -2,7 +2,10 @@
   {{ $id := dateFormat "2006-01-02T150405" .date }}
   <div class='card' id='{{ $id }}'>
     <header>
-      <h2><a href="{{ .url }}" class=nl>{{- .title -}}</a></h2>
+      <h2>
+        <a href="{{ .url }}" class=nl>{{- .title -}}</a>
+        <small class='lg wn'>({{ (urls.Parse .url).Host }})</small>
+      </h2>
       <p>
         <a href='#{{ $id }}' class='nl'>
           <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}'>

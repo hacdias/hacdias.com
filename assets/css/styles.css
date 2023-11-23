@@ -176,6 +176,10 @@ li {
   color: var(--light-gray);
 }
 
+.wn {
+  font-weight: 400;
+}
+
 input,
 select,
 textarea {
