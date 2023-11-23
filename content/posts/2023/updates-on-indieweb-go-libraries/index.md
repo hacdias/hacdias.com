@@ -8,6 +8,7 @@ tags:
   - go
 syndication:
   - https://news.indieweb.org/en
+  - https://fosstodon.org/@hacdias/111461634857760294
 categories:
   - articles
 ---
