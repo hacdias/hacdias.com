@@ -2,9 +2,9 @@
   {{ $id := dateFormat "2006-01-02T150405" .date }}
   <div class='card' id='{{ $id }}'>
     <header>
-      <h2>
+      <h2 style='font-size: var(--f3)'>
         <a href="{{ .url }}" class=nl>{{- .title -}}</a>
-        <small class='lg wn'>({{ (urls.Parse .url).Host }})</small>
+        <span class='lg wn'>({{ (urls.Parse .url).Host }})</span>
       </h2>
       <p>
         <a href='#{{ $id }}' class='nl'>
