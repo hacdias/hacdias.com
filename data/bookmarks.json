@@ -1,27 +1,19 @@
 [
   {
-    "url": "https://ooh.directory/",
-    "title": "ooh.directory",
-    "description": "A massive collection of blogs about every topic imaginable. Quite nice to find new people or topics.",
-    "tags": [
-      "small-web",
-      "directory"
-    ],
-    "date": "2023-11-17T16:51:46.795905Z"
-  },
-  {
     "url": "https://html-first.com/",
+    "wa": "https://web.archive.org/web/20231112214752/https://html-first.com/",
     "title": "HTML First",
     "description": "This article goes over \"HTML First is a set of principles that aims to make building web software easier, faster, more inclusive, and more maintainable\".",
     "tags": [
       "archive",
-      "preserveration",
+      "preservation",
       "html"
     ],
     "date": "2023-11-12T21:46:44.771878Z"
   },
   {
     "url": "https://arne.me/articles/archive-your-old-projects",
+    "wa": "https://web.archive.org/web/20231112182024/https://arne.me/articles/archive-your-old-projects",
     "title": "Archive Your Old Projects",
     "description": "Arne describes what he does to his old projects. Quite enjoyed reading this article as I mostly agree: keep them online. Lots of my old projects don't have their website anymore, but I keep them around in some repository. I hope for the future I will build some sort of digital museum.",
     "tags": [
@@ -31,6 +23,7 @@
   },
   {
     "url": "https://systemfontstack.com/",
+    "wa": "https://web.archive.org/web/20231110161631/https://systemfontstack.com/",
     "title": "System Font Stack",
     "description": "Just a list of safe fonts to use in the web. I always believed the least amount of fonts on a website the better. I have personally not been importing any external fonts for years.",
     "tags": [
@@ -41,17 +34,19 @@
   },
   {
     "url": "https://jeffhuang.com/designed_to_last/",
+    "wa": "https://web.archive.org/web/20231110161439/https://jeffhuang.com/designed_to_last/",
     "title": "This Page is Designed to Last",
     "description": "Very interesting post on how to make long lasting web pages. The 7 most important points are:\r\n\r\n1. Return to vanilla HTML/CSS\r\n2. Don't minimize HTML\r\n3. Prefer one long page over several\r\n4. Do not hotlink\r\n5. Stick with native fonts\r\n6. Compress, compress, compress (images)!\r\n7. Eliminate broken URL risk",
     "tags": [
       "archive",
       "web",
-      "preserveration"
+      "preservation"
     ],
     "date": "2023-11-10T16:14:32.202061Z"
   },
   {
     "url": "https://jake.museum/",
+    "wa": "https://web.archive.org/web/20231019115623/https://jake.museum/",
     "title": "JAKE.MUSEUM",
     "description": "This is a collection of \"visual and hypertext media\" by [Jake](https://jakelazaroff.com/). I really enjoy this idea of preserving websites and keeping your own small museum on the Internet. Maybe inspiring for some ideas.",
     "tags": [
@@ -61,6 +56,7 @@
   },
   {
     "url": "https://kevquirk.com/having-a-microblog-on-a-traditional-blog",
+    "wa": "https://web.archive.org/web/20231019114536/https://kevquirk.com/having-a-microblog-on-a-traditional-blog",
     "title": "Having a Microblog on a Traditional Blog",
     "description": "This quite describes my thoughts exactly. I've had a \"notes\", a \"micro\", a whatever-you-want-to-call-microblogging-section, before. But I've come to peace with no longer having it and using Mastodon instead. It works for what I want, which is similar to the feelings described in the post.",
     "tags": [
@@ -72,12 +68,14 @@
   },
   {
     "url": "https://ntietz.com/blog/write-more-useless-software/",
+    "wa": "https://web.archive.org/web/20231019113654/https://ntietz.com/blog/write-more-useless-software/",
     "title": "Write More \"Useless\" Software",
     "description": "Found this post today on HN, and came across this post today about writing what the author calls \"useless\" software. I certainly \"vibed\" with the post and its [discussion](https://news.ycombinator.com/item?id=37911900) on HN. I think that since I started working full time, I haven't done anything much fun programming-wise outside of work. Not counting my website, but that is what it is.",
     "date": "2023-10-19T11:36:47.832798Z"
   },
   {
     "url": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
+    "wa": "https://web.archive.org/web/20231012143610/https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
     "title": "An Interactive Intro to CRDTs",
     "description": "This is an article that has been all over the web. For someone that, like me, knew of the existence of CRDTs, but did not really know how they worked, I think this is an extremely good introduction. Looking forward for the next one.",
     "tags": [
@@ -87,23 +85,15 @@
     "date": "2023-10-05T09:29:37.907935Z"
   },
   {
-    "url": "https://annas-archive.org/",
-    "title": "Anna’s Archive",
-    "description": "Anna's Archive claims to be \"the world's largest open-source open-data library\". As far as I understand, this shadow library does not, by itself, host any of the content. Instead, it is a massive search engine with the collection of the metadata of all these books. Nevertheless, it seems that the authors are invested in seeding the content too.",
-    "tags": [
-      "archive",
-      "books"
-    ],
-    "date": "2023-07-01T07:18:05.712178Z"
-  },
-  {
     "url": "https://jmmv.dev/2023/06/fast-machines-slow-machines.html",
+    "wa": "https://web.archive.org/web/20230628130123/https://jmmv.dev/2023/06/fast-machines-slow-machines.html",
     "title": "Fast Machines, Slow Machines",
     "description": "The author of this post had published two videos on Twitter where he showed an old Windows 3.1 and a new Windows 11 machines opening the same apps (command line, explorer, notepad). In this videos, Windows 3.1 was the fastest, which leads us to think: has any progress been made? In this article, the author goes in more detail about what happened and why it happens. I do agree with the conclusion that the lack of focus and prioritisation on _performance_ is likely the main reason why our OSes and applications have a lot of latency nowadays.",
     "date": "2023-06-28T14:05:02.757261Z"
   },
   {
     "url": "https://cohost.org/mcc/post/325362-a-one-person-oral-hi",
+    "wa": "https://web.archive.org/web/20230627165311/https://cohost.org/mcc/post/325362-a-one-person-oral-hi",
     "title": "A One-Person Oral History of Geocities HTML Chat",
     "description": "Someone's memories of Geocities, what it was, how it worked and how their HTML chat worked. I've never gotten to experience this, but it seems it was quite a bunch of fun.",
     "tags": [
@@ -114,6 +104,7 @@
   },
   {
     "url": "https://www.gibney.org/a_syntax_for_self-tracking",
+    "wa": "https://web.archive.org/web/20230627125125/https://www.gibney.org/a_syntax_for_self-tracking",
     "title": "A Syntax for Self-Tracking",
     "description": "The author goes over the file format they use for tracking their own habits, or anything else in their life that they want. This can potentially be a good thing to do, and with a parser, some analysis can potentially be made out of the logging.",
     "tags": [
@@ -124,15 +115,17 @@
   },
   {
     "url": "https://saurabhs.org/advanced-macos-commands",
-    "title": "Advanced macOS Command-Line Tools",
-    "description": "There are quite a few built-in command line tools in macOS that I had no idea about and that can definitely be useful. Quite surprised on the document converter (`textutil`) and image manipulation (`sips`).",
+    "wa": "https://web.archive.org/web/20230627130234/https://saurabhs.org/advanced-macos-commands",
+    "title": "Advanced macos Command-Line Tools",
+    "description": "There are quite a few built-in command line tools in macos that I had no idea about and that can definitely be useful. Quite surprised on the document converter (`textutil`) and image manipulation (`sips`).",
     "tags": [
-      "macOS"
+      "macos"
     ],
     "date": "2023-06-27T13:35:27.699453Z"
   },
   {
     "url": "https://www.dialup.net/wingpt/tls.html",
+    "wa": "https://web.archive.org/web/20230627120117/https://www.dialup.net/wingpt/tls.html",
     "title": "Modern TLS/SSL on 16-bit Windows",
     "description": "This is from the same author that implemented [WinGPT](https://www.dialup.net/wingpt/) for Windows 3.1. In this article, they go over the notes on how they implemented TLS/SSL on a 16-bit Windows. It's quite interesting, even though I have never programmed this low level on such an older machine. Also haven't used Windows in quite some time, so it's always nice to see.",
     "tags": [
@@ -143,17 +136,19 @@
   },
   {
     "url": "https://intergalactic.systems/posts/post-1965946732.html",
+    "wa": "https://web.archive.org/web/20230625140542/https://intergalactic.systems/posts/post-1965946732.html",
     "title": "Air Quality",
     "description": "It seems that Apple Weather doesn’t use the same scale for air quality in all countries. While I’ve been seeing air qualified as bad day after day, the Germans, for example, see it as good air quality. I don’t think this helps us, as people, and citizens of our countries. Apple should either let us choose which scale we want to see, or be clear about this behaviour.",
     "tags": [
       "apple",
-      "iOS",
+      "ios",
       "weather"
     ],
     "date": "2023-06-25T15:53:29.676425Z"
   },
   {
     "url": "https://susam.net/maze/winpopup.html",
+    "wa": "https://web.archive.org/web/20230623100334/https://susam.net/maze/winpopup.html",
     "title": "WinPopup",
     "description": "It seems like Windows 98 had this hidden gem where you could send a message to other computers in the network, or even the whole working group.",
     "tags": [
@@ -164,6 +159,7 @@
   },
   {
     "url": "https://alexmeub.com/old-windows-icons/",
+    "wa": "https://web.archive.org/web/20230623073639/https://alexmeub.com/old-windows-icons/",
     "title": "Windows 98 Icons Are Great",
     "description": "\u003e Rather than some designer’s flashy vision of the future, Windows 98 icons made the operating system feel like a place to get real work done. They had hard edges, soft colors and easy-to-recognize symbols.\r\n\r\nThe author has also published a website where we can see all of the icons at [win98icons.alexmeub.com](https://win98icons.alexmeub.com/).",
     "tags": [
@@ -174,17 +170,8 @@
     "date": "2023-06-23T09:04:28.322007Z"
   },
   {
-    "url": "https://mholt.github.io/json-to-go/",
-    "title": "JSON-to-Go",
-    "description": "Convert JSON to Go structs very easily via the webpage.",
-    "tags": [
-      "tool",
-      "golang"
-    ],
-    "date": "2023-06-19T20:10:30.152661Z"
-  },
-  {
     "url": "https://eta.st/2023/01/31/rail-tickets.html",
+    "wa": "https://web.archive.org/web/20230522175452/https://eta.st/2023/01/31/rail-tickets.html",
     "title": "Reversing UK Mobile Rail Tickets",
     "description": "This is quite an interesting article. The author goes over the process of reverse-engineering the contents encoded in the Aztec code of the UK mobile rail tickets, which, of course, does not follow the European standard. In addition, eta also published [a tool](https://eta.st/tickets/) where you can scan your UK tickets and see their contents. Now it would be very interesting to read something similar with the European standard and, of course, a similar tool. Maybe that's an idea for a post.",
     "tags": [
@@ -194,6 +181,7 @@
   },
   {
     "url": "https://missing.csail.mit.edu/",
+    "wa": "https://web.archive.org/web/20230516064237/https://missing.csail.mit.edu/",
     "title": "The Missing Semester of Your CS Education",
     "description": "Very good resource, especially for new students of Computer Science. The lecturers go over many topics that were never brought up during any of my classes, which could've been pretty useful. Of course, some of us end up learning it by trying and searching, but it'd definitely be very great to have had something like this.",
     "tags": [
@@ -203,8 +191,9 @@
   },
   {
     "url": "https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/",
-    "title": "How Many Layers of UI Inconsistencies Are in Windows 11?",
-    "description": "Haven't used Windows in quite some time, but I like to keep following the news as it was the OS that accompanied my childhood, most specifically Windows XP and Windows 7. Somehow I managed to skip Windows Vista, apart from some few interactions in someone else's computer. Then, Windows 8 came and Windows 10 and I ended up moving to macOS for some other reasons and so far, haven't gone back. I always enjoyed Window UI, at least to some extend.\r\n\r\nThis article shows UI elements present in Windows 11 that date to older versions of Windows. I expected to see things that dated back to Windows XP. However, I was surprised to see that you can still find UI elements from Windows 3.1 on Windows 11!",
+    "wa": "https://web.archive.org/web/20230611001138/https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/",
+    "title": "How Many Layers of UI Inconsistencies Are in Windows 11?",
+    "description": "Haven't used Windows in quite some time, but I like to keep following the news as it was the OS that accompanied my childhood, most specifically Windows XP and Windows 7. Somehow I managed to skip Windows Vista, apart from some few interactions in someone else's computer. Then, Windows 8 came and Windows 10 and I ended up moving to macos for some other reasons and so far, haven't gone back. I always enjoyed Window UI, at least to some extend.\r\n\r\nThis article shows UI elements present in Windows 11 that date to older versions of Windows. I expected to see things that dated back to Windows XP. However, I was surprised to see that you can still find UI elements from Windows 3.1 on Windows 11!",
     "tags": [
       "windows",
       "gui"
@@ -212,16 +201,8 @@
     "date": "2023-01-02T14:06:13Z"
   },
   {
-    "url": "https://theforest.link/",
-    "title": "The Forest",
-    "description": "This is kind of a webring without being a webring. In this website, you can click on a link and be redirected to a random, likely interesting, personal website to explore.",
-    "tags": [
-      "webring"
-    ],
-    "date": "2022-12-26T19:22:04Z"
-  },
-  {
     "url": "https://austinhenley.com/blog/programmingasplay.html",
+    "wa": "https://web.archive.org/web/20230402013313/https://austinhenley.com/blog/programmingasplay.html",
     "title": "Programming as Play",
     "description": "This article by Austin is quite interesting. He talks about how programming can be seen as a playful thing, instead of making things that have a hard purpose. It reminds me of the time I made a few [experiments](/more#experiments) for fun. I should do that kind of programming again: fun programming. And it doesn't necessarily have to be web programming either. Just fun, with fun things.",
     "tags": [
@@ -230,16 +211,8 @@
     "date": "2022-12-23T09:17:56Z"
   },
   {
-    "url": "https://sadgrl.online/cyberspace/webrings.html",
-    "title": "Webring Directory",
-    "description": "A very nice directory of different webrings. It's always good for reference.",
-    "tags": [
-      "webring"
-    ],
-    "date": "2022-12-14T10:28:43Z"
-  },
-  {
     "url": "https://macwright.com/2022/12/09/activitypub.html",
+    "wa": "https://web.archive.org/web/20230505222246/https://macwright.com/2022/12/09/activitypub.html",
     "title": "Playing With ActivityPub",
     "description": "Tom describes his experiences on implementing part of the ActivityPub specification on top of his Jekyll-based static website. It is indeed quite interesting to me to see how he achieved it, mostly through \"serverless\" lambdas and whatnot. He notices, very well, that ActivityPub can be quite messy and is very active when compared to other technologies, such as RSS.\r\n\r\nSimilarly, most dynamic functionalities of my website could be implemented on top of a static website (as they once were). However, I'm not following that route now. Who knows if in the future I won't switch back. An interesting... continuous... food for thought.",
     "tags": [
@@ -250,26 +223,32 @@
   },
   {
     "url": "https://dotat.at/@/2022-12-04-leap-seconds.html",
+    "wa": "https://web.archive.org/web/20230614215437/https://dotat.at/@/2022-12-04-leap-seconds.html",
     "title": "An Update on Leap Seconds",
     "date": "2022-12-06T09:13:00Z"
   },
   {
     "url": "https://chreke.com/little-languages.html",
+    "wa": "https://web.archive.org/web/20230611003033/https://chreke.com/little-languages.html",
     "title": "Little Languages Are the Future of Programming",
     "description": "A nice read on how Domain Specific Languages might be the future of programming.",
     "date": "2022-11-22T16:30:04Z"
   },
   {
     "url": "http://annas-blog.org/putting-5,998,794-books-on-ipfs.html",
+    "wa": "https://web.archive.org/web/20230610234800/https://annas-blog.org/putting-5,998,794-books-on-ipfs.html",
     "title": "Putting 5,998,794 Books on IPFS",
     "description": "This is a good post about the experience of putting that massive amount of books, and therefore data, and the challenges that come with it.",
     "tags": [
-      "ipfs"
+      "ipfs",
+      "archive",
+      "preservation"
     ],
     "date": "2022-11-21T21:08:43Z"
   },
   {
     "url": "https://elisehe.in/2022/10/16/attribute-selectors",
+    "wa": "https://web.archive.org/web/20230507092554/https://elisehe.in/2022/10/16/attribute-selectors",
     "title": "The Wasted Potential of CSS Attribute Selectors",
     "tags": [
       "css"
@@ -278,6 +257,7 @@
   },
   {
     "url": "https://blog.jim-nielsen.com/2022/website-fidelity-browser/",
+    "wa": "https://web.archive.org/web/20230327112136/https://blog.jim-nielsen.com/2022/website-fidelity-browser/",
     "title": "Website Fidelity: Browser Perspective",
     "description": "Similarly to his [last article](https://blog.jim-nielsen.com/2022/website-fidelity/), Jim dives into the concept of website fidelity, which is a way of reducing the amount of resources a website consumes by lowering its fidelity to the original visuals and features. I quite like this idea.\r\n\r\n\u003e Website owners aren’t necessarily incentivized to start stripping stuff out of their websites in order to support lower fidelities (including a fidelity of zero JavaScript). What you need is like an agent: somebody who works on your behalf as a user and can do for you what site owners won’t — a user agent if you will 🥁.\r\n\r\n\u003e Note that “fidelity” in this case is not solely a control over the appearance and functionality of the website, but the actual content of the site itself. For example, at full fidelity on a news site you might have an image, title, byline, and short description for each article whereas at low fidelity you might only have the title for each.\r\n\r\n\u003e I want to stress this point: I see the promise of website “fidelity” not just as a preference for less JavaScript and CSS but content itself. Providing users this kind of control would require website owners be involved, as I’m not sure you could do that well solely as a browser feature or extension.",
     "tags": [
@@ -287,6 +267,7 @@
   },
   {
     "url": "https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/",
+    "wa": "https://web.archive.org/web/20230325143608/https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/",
     "title": "Physician Explains How COVID-19 Mutes Sense of Smell",
     "description": "In the beginning of the week, I tested positive for Covid-19. Even though the symptoms were smilingly gone, yesterday and the day before I noticed my sense of smell was quite odd. I could still smell some things, but not all. In addition, breathing in general had an odd smell. This article was a nice read and explains well how Covid-19 can change our sense of smell.\r\n\r\n\u003e What's more likely, she said, is that SARS-CoV-2 injures sustentacular supporting cells, which are like helper cells for the main neurons that pick up on chemicals in the air and send signals to the brain. They help maintain a healthy ecosystem in which the neurons can thrive, and they help guide the neurons to grow and make the right connections.\r\n\u003e \r\n\u003e SARS-CoV-2 latches onto specific receptors to infect a cell, but olfactory neurons don't have that receptor. The support cells, however, do. \"Our body's natural immune response is to bring inflammatory molecules to that site to try to kill the invader,\" Patel said.\r\n\u003e \r\n\u003e But that response can overwhelm the structural integrity of the support cells, and they end up as collateral damage. Without the proper support, olfactory neurons can't successfully relay chemical signals to the brain, effectively silencing smell.\r\n\r\nFortunately, it seems I can smell things well again today, so that's great. Besides, my self-tests are getting fainter and fainter by the day. It's a bit annoying I came to Lisbon and had to miss all company activities. I met some friends and family instead, which was also great. I'll be here until Tuesday.",
     "tags": [
@@ -296,13 +277,14 @@
   },
   {
     "url": "https://twitter.com/giovannigruni/status/1582441784445063168",
-    "title": "Thread by @giovannigruni on New Italian Government",
+    "wa": "https://web.archive.org/web/20221022000912/https://twitter.com/giovannigruni/status/1582441784445063168",
+    "title": "Thread By @giovannigruni On New Italian Government",
     "description": "\u003e New Italian Government not even started yet and shit is hitting the fan already. A surreal thread. 🧵\r\n\r\n\u003e Today Berlusconi claimed he had an exchange of “sweet” letters with V Putin. They also exchanged gifts in the form of vodka and wine. Putin apparently claimed Berlusconi is one of his 5 best friends. Berlusconi’s party is expressing the new Italian Minister of Foreign Affairs.\r\n\r\n\u003e In the meanwhile a photo of Mussolini appeared on the wall of a room in one of the government  buildings. It was then removed “to avoid instrumental criticism”. The l new President of the Senate however claimed that this was “cancel culture”.\r\n\r\n\u003e About that. The new President of the Senate has a number of fascist, let’s say, souvenirs in his home. These include a small statue of the Duce he proudly showed in a video available online. https://www.youtube.com/watch?v=ERAQxZuXdyc\r\n\r\n\u003e The new President of the lower house has an history of discriminatory claims against minorities and took explicit positions against sanctioning Russia. At the same time Meloni is attacking people (like me I guess)  who discredit Italian abroad criticising the country.\r\n\r\n\u003e A number of intellectuals which you would normally consider on the left wrote a petition in favour of giving parts of Ukraine to Russia to end the war. The Pope is taking the same position. A number of manifestations are being organised by various parties with similar positions.",
     "date": "2022-10-29T22:48:58Z"
   },
   {
     "url": "https://twitter.com/andrestaltz/status/1583556396636741633",
-    "title": "Thread by @andrestaltz on Content Monetization in Web3",
+    "title": "Thread By @andrestaltz On Content Monetization in Web3",
     "description": "\u003e This requires long-from writing, but one common myth in the decentralized industry is that content can be monetized. Web3 social nets in particular love to proclaim that they're helping creators make a living. Content is hardly monetizable.\r\n\r\n\u003e The simple/summarized explanation for why content is hardly monetizable is that content is growing in quantity (because of more people online) and quality (because of better content creation tools). This means the supply of content is growing. With supply up, prices go down.\r\n\r\n\u003e By \"price\" I mean that people are less willing to pay for content. This is because the amount of free content is so vast, and often it's also high quality, that it becomes hard for non-free content to compete with free content. Overall this keeps driving prices down.\r\n\r\n\u003e This trend is happening everywhere: textual content like blogs, articles, books, but also music, images, code, etc. TikTok, with content remixability, accelerated content production. Guess what, AI content generation tools will accelerate it even more in the future.\r\n\r\n\u003e People are less and less willing to pay for content. That's how markets work, crypto folks know this. Content supply isn't going to go down, and content demand is somewhat constant because it's capped by attention, and you only have 24h in a day.\r\n\r\n\u003e The only way this equation can change is if there's a high supply of money to spend on content. When you have loads of money to spend, you're more willing to pay if some content is behind a paywall. THAT is how crypto social networks have \"monetized\" content, by airdrops.\r\n\r\n\u003e They create the supply of money to its users to allow them to spend it. Without this supply, the monetization would hardly ever work. And even now, it doesn't quite work. Users are on the platform because they want the tokens, not because they want content.\r\n\r\n\u003e I could write more, but it's late. Bottom line is that I'm convinced that content cannot be directly and sustainably monetized anymore, apart from exceptions. Perhaps attention is a more promising way to monetize. Content is often in service of attention. Content is overrated.",
     "tags": [
       "web3"
@@ -311,6 +293,7 @@
   },
   {
     "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault",
+    "wa": "https://web.archive.org/web/20230522024806/https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault",
     "title": "Our Computer Security Problems Are Our Own Fault",
     "description": "\u003e We (the computing community) did this to ourselves. We created a situation where a HTML attachment received in email could plausibly look, to ordinary people, like something that would appear from trying to look at an ordinary PDF. There are a whole bunch of individual pieces and steps that got us here, each sensible on their own in some view, but the collective result is that we did this to ourselves. We have no one else to blame when ordinary people fill in their password and hit 'Sign in'.",
     "tags": [
@@ -321,68 +304,62 @@
   },
   {
     "url": "https://beepb00p.xyz/annotating.html",
-    "title": "How to annotate literally everything",
+    "wa": "https://web.archive.org/web/20230607075939/https://beepb00p.xyz/annotating.html",
+    "title": "How To Annotate Literally Everything",
     "description": "\u003e At some point in my life I realized I didn't remember most of the books/papers/posts/videos I had consumed few years before.\r\n\r\nSadly, this is a very common problem. We spend our days consuming media for immediate-pleasure. And usually we have thoughts about what we just consumed, but we don't note them down, or preserve them.",
     "date": "2022-10-29T22:18:23Z"
   },
   {
     "url": "https://matt-rickard.com/the-programmable-web",
+    "wa": "https://web.archive.org/web/20230415151539/https://matt-rickard.com/the-programmable-web",
     "title": "I Miss The Programmable Web",
     "description": "\u003e Security policies have essentially killed the user script and bookmarklet ecosystem.",
     "date": "2022-10-29T22:17:00Z"
   },
   {
     "url": "https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
-    "title": "Digital gardens let you cultivate your own little bit of the internet",
+    "wa": "https://web.archive.org/web/20230610224437/https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
+    "title": "Digital Gardens Let You Cultivate Your Own Little Bit Of The Internet",
     "description": "\u003e The movement might be gaining steam now, but its roots date back to 1998, when Mark Bernstein introduced the idea of the “hypertext garden,” arguing for spaces on the internet that let a person wade into the unknown. “Gardens … lie between farmland and wilderness,” he wrote. “The garden is farmland that delights the senses, designed for delight rather than commodity.” (His digital garden includes a recent review of a Bay Area carbonara dish and reflections on his favorite essays.)",
     "date": "2022-10-29T22:03:03Z"
   },
   {
     "url": "https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn't-use-git-lfs/",
+    "wa": "https://web.archive.org/web/20230529032935/https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn't-use-git-lfs/",
     "title": "Why You Shouldn't Use Git LFS",
     "description": "\u003e If you adopt LFS today, you are committing to a) running an LFS server forever b) incurring a history rewrite in the future in order to remove LFS from your repo, or c) ceasing to provide an LFS server and locking out people from using older Git commits.",
     "date": "2022-10-29T22:00:24Z"
   },
   {
     "url": "https://ramses.blog/how-take-notes-part-1/",
-    "title": "How I take smart digital notes",
+    "wa": "https://web.archive.org/web/20220824143133/https://ramses.blog/how-take-notes-part-1/",
+    "title": "How I Take Smart Digital Notes",
     "description": "\u003e As an autodidact, you will meet many different content formats on the road to understanding. Not all formats are created equal, and some work better than others. Add to that learning preferences, and you’ve got yourself a complicated situation.\r\n\r\n\u003e I feel obliged to mention podcasts, but I don’t recommend relying on them too much when learning. They are low resolution and impossible to skim.\r\n\r\n\u003e Reading widely and applying knowledge to problems is what empowers us to take ownership of our lives. The world starts to look like a place of possibility when you can adopt new viewpoints and learn new skills.",
     "date": "2022-10-29T21:25:04Z"
   },
   {
     "url": "https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/",
+    "wa": "https://web.archive.org/web/20230408002739/https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/",
     "title": "An End to Doomerism",
     "description": "\u003e The issue is that people mistake optimism for “blind optimism” — the blinkered faith that things will always get better. Problems will fix themselves. If we just hope things turn out well, they will. Blind optimism really is dumb.\r\n\r\n\u003e Optimism is seeing problems as challenges that are solvable; it’s having the confidence that there are things that we can do to make a difference. “Urgent optimism,” “pragmatic optimism,” “realistic optimism,” “impatient optimism” — I’ve heard many terms for this concept.",
     "date": "2022-10-29T21:04:26Z"
   },
   {
     "url": "https://blog.jim-nielsen.com/2022/website-fidelity/",
+    "wa": "https://web.archive.org/web/20230327102224/https://blog.jim-nielsen.com/2022/website-fidelity/",
     "title": "Website Fidelity",
     "description": "This is a very nice piece on how to build a website in different layers of fidelity instead of layers of technology. Instead of building a progressive app with progressive enhancement, we should simply use different fidelity levels to the original website. Quite magical and I think that'd work very well.",
     "date": "2022-10-18T07:39:52Z"
   },
   {
     "url": "https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/",
-    "title": "Why A4? – The Mathematical Beauty of Paper Size",
+    "aw": "https://web.archive.org/web/20230227181040/https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/",
+    "title": "Why A4? The Mathematical Beauty of Paper Size",
     "date": "2022-09-05T16:01:08Z"
   },
   {
-    "url": "https://tinyapps.org/",
-    "title": "tinyapps.org",
-    "description": "\u003e Welcome to tinyapps.org, an aging catalog of tiny, well-made software primarily for Windows.",
-    "date": "2022-08-22T14:36:29Z"
-  },
-  {
-    "url": "https://marta.sh/",
-    "title": "Marta",
-    "description": "Finder alternative for macOS.",
-    "tags": [
-      "tool"
-    ],
-    "date": "2022-08-22T14:02:37Z"
-  },
-  {
     "url": "https://www.engineersneedart.com/adam74/adam74.html",
+    "wa": "https://web.archive.org/web/20230522031727/https://www.engineersneedart.com/adam74/adam74.html",
     "title": "Adam74",
     "tags": [
       "fun"
@@ -391,6 +368,7 @@
   },
   {
     "url": "https://gifcities.org/",
+    "wa": "https://web.archive.org/web/20230617003637/https://gifcities.org/",
     "title": "GifCities",
     "tags": [
       "small-web",
@@ -401,7 +379,8 @@
   },
   {
     "url": "https://tailscale.com/blog/how-nat-traversal-works/",
-    "title": "How NAT traversal works",
+    "wa": "https://web.archive.org/web/20230610023641/https://tailscale.com/blog/how-nat-traversal-works/",
+    "title": "How NAT Traversal Works",
     "description": "This is a very good article by Tailscale that explains how NAT traversal works and the different algorithms they employ in order to reach the majority of the Internet.",
     "tags": [
       "dns",
@@ -413,7 +392,8 @@
   },
   {
     "url": "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994",
-    "title": "Janet Jackson had the power to crash laptop computers",
+    "wa": "https://web.archive.org/web/20230613061130/https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994",
+    "title": "Janet Jackson Had The Power To Crash Laptop Computers",
     "tags": [
       "fun"
     ],
@@ -421,7 +401,8 @@
   },
   {
     "url": "https://blogs.igalia.com/jfernandez/2022/08/10/new-custom-handlers-component-for-chrome/",
-    "title": "New Custom Handlers component for Chrome",
+    "wa": "https://web.archive.org/web/20230329032755/https://blogs.igalia.com/jfernandez/2022/08/10/new-custom-handlers-component-for-chrome/",
+    "title": "New Custom Handlers Component For Chrome",
     "tags": [
       "browsers",
       "chrome",
@@ -431,7 +412,8 @@
   },
   {
     "url": "https://ar.al/2020/08/07/what-is-the-small-web/",
-    "title": "What is the Small Web?",
+    "wa": "https://web.archive.org/web/20230416192549/https://ar.al/2020/08/07/what-is-the-small-web/",
+    "title": "What Is The Small Web?",
     "description": "An article by Aral Balkan where they compare the state of the current web, the big web, with the web of the people, introducing the concept of \"small web\".",
     "tags": [
       "indieweb",
@@ -441,7 +423,8 @@
   },
   {
     "url": "https://mrkaran.dev/posts/exposing-services/",
-    "title": "How I expose services while self hosting",
+    "wa": "https://web.archive.org/web/20230204021815/https://mrkaran.dev/posts/exposing-services/",
+    "title": "How I Expose Services While Self Hosting",
     "tags": [
       "caddy",
       "docker",
@@ -450,17 +433,9 @@
     "date": "2022-08-16T14:44:41Z"
   },
   {
-    "url": "https://512kb.club/",
-    "title": "512KB Club",
-    "tags": [
-      "small-web",
-      "optimization"
-    ],
-    "date": "2022-08-16T10:37:20Z"
-  },
-  {
     "url": "https://blog.sanctum.geek.nz/vim-anti-patterns/",
-    "title": "Vim anti-patterns",
+    "wa": "https://web.archive.org/web/20230525034100/https://blog.sanctum.geek.nz/vim-anti-patterns/",
+    "title": "Vim Anti-Patterns",
     "tags": [
       "vim"
     ],
@@ -468,6 +443,7 @@
   },
   {
     "url": "https://blog.jim-nielsen.com/2022/well-known-links-resource/",
+    "wa": "https://web.archive.org/web/20230525212544/https://blog.jim-nielsen.com/2022/well-known-links-resource/",
     "title": "A Well-Known Links Resource",
     "description": "Jim shows how he uses the Well-Known links resource to show the links he has to other websites. For example, going to `/.well-known/links?domain=example.com`  shows all the pages in his website that link to `example.com`.",
     "tags": [
@@ -477,52 +453,8 @@
     "date": "2022-08-16T09:36:34Z"
   },
   {
-    "url": "https://webring.xxiivv.com/",
-    "title": "XXIIVV Webring",
-    "tags": [
-      "webring"
-    ],
-    "date": "2022-08-14T06:28:51Z"
-  },
-  {
-    "url": "https://xn--sr8hvo.ws/",
-    "title": "IndieWeb Webring",
-    "tags": [
-      "indieweb",
-      "webring"
-    ],
-    "date": "2022-08-14T06:19:17Z"
-  },
-  {
-    "url": "https://fediring.net/",
-    "title": "Fediring",
-    "tags": [
-      "activitypub",
-      "fediverse",
-      "webring"
-    ],
-    "date": "2022-08-14T06:19:02Z"
-  },
-  {
-    "url": "https://github.com/maaslalani/slides",
-    "title": "maaslalani/slides: Terminal based presentation tool",
-    "tags": [
-      "tool"
-    ],
-    "date": "2022-08-12T14:20:34Z"
-  },
-  {
-    "url": "https://handshake.org/",
-    "title": "Handshake",
-    "tags": [
-      "dweb",
-      "dns",
-      "decentralization"
-    ],
-    "date": "2022-07-25T10:51:02Z"
-  },
-  {
     "url": "https://iknowwhatyoudownload.com/",
+    "wa": "https://web.archive.org/web/20230615193551/https://iknowwhatyoudownload.com/en/peer/",
     "title": "I Know What You Download",
     "tags": [
       "fun",
@@ -533,6 +465,7 @@
   },
   {
     "url": "https://accordion-druid.tumblr.com/post/685175656750972928/dont-lie-to-me-about-web-20",
+    "wa": "https://web.archive.org/web/20230211093047/https://accordion-druid.tumblr.com/post/685175656750972928/dont-lie-to-me-about-web-20",
     "title": "Don't Lie To Me About Web 2.0",
     "tags": [
       "web3",
@@ -544,7 +477,8 @@
   },
   {
     "url": "https://ane.iki.fi/2022/06/21/beenthere-donethat.html",
-    "title": "Been there, done that",
+    "wa": "https://web.archive.org/web/20230101222141/https://ane.iki.fi/2022/06/21/beenthere-donethat.html",
+    "title": "Been There, Done That",
     "description": "About bookmarking shell commands.",
     "tags": [
       "terminal",
@@ -555,17 +489,20 @@
   },
   {
     "url": "https://thorstenball.com/blog/2014/10/13/why-threads-cant-fork/",
-    "title": "Why threads can't fork",
+    "wa": "https://web.archive.org/web/20230405024951/https://thorstenball.com/blog/2014/10/13/why-threads-cant-fork/",
+    "title": "Why Threads Can't Fork",
     "date": "2022-06-20T13:22:06Z"
   },
   {
     "url": "https://decentralizedthoughts.github.io/2020-03-29-private-set-intersection-a-soft-introduction/",
+    "wa": "https://web.archive.org/web/20230328161149/https://decentralizedthoughts.github.io/2020-03-29-private-set-intersection-a-soft-introduction/",
     "title": "Private Set Intersection",
     "date": "2022-06-14T08:41:12Z"
   },
   {
     "url": "https://www.dns.toys/",
-    "title": "Useful utilities and toys over DNS",
+    "wa": "https://web.archive.org/web/20230602021052/https://www.dns.toys/",
+    "title": "Useful Utilities And Toys Over DNS",
     "tags": [
       "terminal",
       "tool",
@@ -576,40 +513,25 @@
   },
   {
     "url": "https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/",
-    "title": "I built a receipt printer for GitHub issues",
+    "wa": "https://web.archive.org/web/20230608115917/https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/",
+    "title": "I Built a Receipt Printer for GitHub Issues",
     "tags": [
       "fun"
     ],
     "date": "2022-03-25T17:11:02Z"
   },
   {
-    "url": "https://www.neelc.org/posts/web3-centralized/",
-    "title": "Web3 is centralized (and inefficient!)",
+    "url": "https://web.archive.org/web/20220331183058/https://www.neelc.org/posts/web3-centralized/",
+    "title": "Web3 Is Centralized (And Inefficient!)",
     "tags": [
       "web3"
     ],
     "date": "2022-03-23T09:40:11Z"
   },
   {
-    "url": "https://bookish.tech/",
-    "title": "bookish.tech",
-    "description": "Find book information via its ISBN.",
-    "tags": [
-      "tool"
-    ],
-    "date": "2022-02-25T09:04:01Z"
-  },
-  {
-    "url": "https://remark42.com/",
-    "title": "Remark42 – Privacy-focused lightweight commenting engine",
-    "tags": [
-      "tool"
-    ],
-    "date": "2022-01-29T11:10:10Z"
-  },
-  {
     "url": "https://messwithdns.net/",
-    "title": "mess with dns",
+    "wa": "https://web.archive.org/web/20230615200256/https://messwithdns.net/",
+    "title": "Mess With DNS",
     "tags": [
       "tool",
       "dns",
@@ -619,6 +541,7 @@
   },
   {
     "url": "https://www.chris-granger.com/2021/12/09/is-web3-anything/",
+    "wa": "https://web.archive.org/web/20230330082535/https://chris-granger.com/2021/12/09/is-web3-anything/",
     "title": "Is Web3... anything?",
     "tags": [
       "web3"
@@ -627,7 +550,8 @@
   },
   {
     "url": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
-    "title": "DNS doesn't \"propagate\"",
+    "wa": "https://web.archive.org/web/20230319180537/https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
+    "title": "DNS Doesn't \"Propagate\"",
     "tags": [
       "dns"
     ],
@@ -635,7 +559,8 @@
   },
   {
     "url": "https://tutanota.com/blog/posts/germany-right-to-encryption/",
-    "title": "Germany: New government plans 'right to encryption'.",
+    "wa": "https://web.archive.org/web/20230330133858/https://tutanota.com/blog/posts/germany-right-to-encryption",
+    "title": "Germany: New Government Plans 'Right To Encryption'",
     "tags": [
       "encryption",
       "privacy",
@@ -645,6 +570,7 @@
   },
   {
     "url": "https://aloneonahill.com/blog/if-php-were-british/",
+    "wa": "https://web.archive.org/web/20230525034345/https://aloneonahill.com/blog/if-php-were-british/",
     "title": "If PHP Were British",
     "description": "A comical article on how PHP functions and syntax operations would be called if PHP used British English.",
     "tags": [
@@ -654,16 +580,19 @@
   },
   {
     "url": "https://meowni.ca/posts/doing-the-work/",
-    "title": "Doing the work",
+    "wa": "https://web.archive.org/web/20221128134043/https://meowni.ca/posts/doing-the-work/",
+    "title": "Doing The Work",
     "date": "2021-11-18T21:33:44Z"
   },
   {
     "url": "https://catern.com/introduction.html",
-    "title": "\"Introduction\", the most common systems concept you've never heard of",
+    "wa": "https://web.archive.org/web/20230428063559/http://catern.com/introduction.html",
+    "title": "\"Introduction\", The Most Common Systems Concept You've Never Heard Of",
     "date": "2021-11-17T22:45:51Z"
   },
   {
     "url": "https://www.jvt.me/posts/2019/10/20/indieweb-talk/",
+    "wa": "https://web.archive.org/web/20230511192623/https://www.jvt.me/posts/2019/10/20/indieweb-talk/",
     "title": "The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web",
     "tags": [
       "indieweb",
@@ -673,40 +602,19 @@
   },
   {
     "url": "http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html",
-    "title": "Computational Complexity: When did Computer Science Theory Get so Hard?",
+    "wa": "https://web.archive.org/web/20230131071531/https://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html",
+    "title": "Computational Complexity: When Did Computer Science Theory Get so Hard?",
     "date": "2021-11-16T19:42:10Z"
   },
   {
     "url": "https://overreacted.io/goodbye-clean-code/",
-    "title": "Goodbye, Clean Code — Overreacted",
+    "wa": "https://web.archive.org/web/20230616113539/https://overreacted.io/goodbye-clean-code/",
+    "title": "Goodbye, Clean Code",
     "date": "2021-11-16T18:39:46Z"
   },
   {
-    "url": "https://personalsit.es/",
-    "title": "PersonalSit.es",
-    "tags": [
-      "personal-website"
-    ],
-    "date": "2021-11-15T11:12:51Z"
-  },
-  {
-    "url": "http://biglist.terraaeon.com/",
-    "title": "The Big List of Personal Websites",
-    "tags": [
-      "personal-website"
-    ],
-    "date": "2021-11-15T11:12:44Z"
-  },
-  {
-    "url": "https://darekkay.com/personal-blogs/",
-    "title": "Darek Kay’s Blogroll",
-    "tags": [
-      "personal-website"
-    ],
-    "date": "2021-11-15T11:12:29Z"
-  },
-  {
     "url": "https://itcorp.com",
+    "wa": "https://web.archive.org/web/20230619204728/https://itcorp.com/",
     "title": "ITcorp.com",
     "description": "A preserved version of a website that has been running since 1986. It is one of the oldest, still-running, websites. Also on ipfs://bafybeie47oohr22jwkkxnmjmde2kvczf3a6skrtl2okodj7y6vsd7strmy.",
     "tags": [
@@ -719,6 +627,7 @@
   },
   {
     "url": "https://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am.ipfs.dweb.link/",
+    "wa": "https://web.archive.org/web/20220817091936/https://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am.ipfs.dweb.link/",
     "title": "Old Internet Files",
     "description": "A preserved version of a website with old internet files, such as zone files, hosts information and domains information.",
     "tags": [
@@ -731,6 +640,7 @@
   },
   {
     "url": "http://toastytech.com/",
+    "wa": "https://web.archive.org/web/20230619204740/http://toastytech.com/",
     "title": "Nathan's Toasty Technology Page",
     "description": "A very random website with very random things and screenshots from old software. Also on ipfs://bafybeib7lyimozj46dotjpzapp33wkig5g4zdcusljwaslwuv3djm2lzsy.",
     "tags": [
@@ -743,6 +653,7 @@
   },
   {
     "url": "https://bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy.ipfs.dweb.link/home.html",
+    "wa": "https://web.archive.org/web/20220817091503/https://bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy.ipfs.dweb.link/home.html",
     "title": "The World Wide Web History Project",
     "description": "A preserved website that was nominated Cool Site of the Year in 1997, which explains what is the World Wide Web.",
     "tags": [
@@ -754,19 +665,9 @@
     "date": "2021-11-15T11:12:00Z"
   },
   {
-    "url": "https://proto.school/",
-    "title": "ProtoSchool",
-    "description": "A fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There’s courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.",
-    "tags": [
-      "dweb",
-      "web3",
-      "educational"
-    ],
-    "date": "2021-11-15T11:08:46Z"
-  },
-  {
     "url": "https://howhttps.works/",
-    "title": "How HTTPS works",
+    "wa": "https://web.archive.org/web/20230611120257/https://howhttps.works/",
+    "title": "How HTTPS Works",
     "description": "Comics from dnsimple explaining how HTTPS works.",
     "tags": [
       "educational",
@@ -776,7 +677,8 @@
   },
   {
     "url": "https://howdns.works/",
-    "title": "How DNS works",
+    "wa": "https://web.archive.org/web/20230611140338/https://howdns.works/",
+    "title": "How DNS Works",
     "description": "Comics from dnsimple explaining how DNS works. As they say “road trips will never be the same”.",
     "tags": [
       "dns",
@@ -785,109 +687,8 @@
     "date": "2021-11-15T11:08:03Z"
   },
   {
-    "url": "https://unstoppabledomains.com/",
-    "title": "Unstoppable Domains",
-    "tags": [
-      "dweb",
-      "web3",
-      "dns"
-    ],
-    "date": "2021-11-15T11:07:12Z"
-  },
-  {
-    "url": "https://ens.domains/",
-    "title": "ENS | Ethereum Name Service",
-    "tags": [
-      "dweb",
-      "web3",
-      "dns"
-    ],
-    "date": "2021-11-15T11:07:01Z"
-  },
-  {
-    "url": "https://www.namebase.io/",
-    "title": "Namebase",
-    "description": "You can register your own \"TLD\" and make subdomains out of it. There's a DNS server that you can use to resolve these domains.",
-    "tags": [
-      "dweb",
-      "web3",
-      "dns"
-    ],
-    "date": "2021-11-15T11:06:38Z"
-  },
-  {
-    "url": "https://near.org/",
-    "title": "NEAR Protocol",
-    "description": "Really fast cryptocurrency protocol.",
-    "tags": [
-      "dweb",
-      "web3"
-    ],
-    "date": "2021-11-15T11:05:24Z"
-  },
-  {
-    "url": "https://ipfs.io/",
-    "title": "IPFS",
-    "description": "P2P hypermedia protocol.",
-    "tags": [
-      "dweb",
-      "web3"
-    ],
-    "date": "2021-11-15T11:05:08Z"
-  },
-  {
-    "url": "https://scuttlebutt.nz/",
-    "title": "Scuttlebutt",
-    "description": "Distributed social network.",
-    "tags": [
-      "dweb",
-      "web3"
-    ],
-    "date": "2021-11-15T11:04:52Z"
-  },
-  {
-    "url": "https://hypercore-protocol.org/",
-    "title": "Hypercore Protocol",
-    "description": "Distributed append-only log protocol.",
-    "tags": [
-      "dweb",
-      "web3"
-    ],
-    "date": "2021-11-15T11:04:42Z"
-  },
-  {
-    "url": "https://ggerganov.github.io/wave-share",
-    "title": "Wave-share",
-    "description": "Serverless, p2p, local file sharing with communication through sound.",
-    "tags": [
-      "fun",
-      "p2p",
-      "tool"
-    ],
-    "date": "2021-11-15T11:03:52Z"
-  },
-  {
-    "url": "https://www.textile.io/",
-    "title": "Textile",
-    "description": "Set of tools built on IPFS and Filecoin.",
-    "tags": [
-      "tool"
-    ],
-    "date": "2021-11-15T11:03:40Z"
-  },
-  {
-    "url": "https://boom.fyi/",
-    "title": "Boom",
-    "description": "IPFS link shortener",
-    "tags": [
-      "dweb",
-      "tool",
-      "ipfs"
-    ],
-    "date": "2021-11-15T11:03:24Z"
-  },
-  {
     "url": "https://mjanja.ch/2015/06/replacing-cron-jobs-with-systemd-timers/",
+    "wa": "https://web.archive.org/web/20230422072009/https://mjanja.ch/2015/06/replacing-cron-jobs-with-systemd-timers/",
     "title": "Replacing Cron Jobs With systemd Timers",
     "tags": [
       "terminal",
@@ -897,22 +698,11 @@
   },
   {
     "url": "https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/",
+    "wa": "https://web.archive.org/web/20230613023253/https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/",
     "title": "My Business Card Runs Linux",
     "tags": [
       "fun"
     ],
     "date": "2021-11-15T11:02:03Z"
-  },
-  {
-    "url": "https://wttr.in",
-    "title": "wttr.in",
-    "description": "Weather in the terminal, optionally in a specific city, or post code:\r\n\r\n```text\r\ncurl wttr.in[/$CITY]\r\n```",
-    "tags": [
-      "curl",
-      "software",
-      "terminal",
-      "tip"
-    ],
-    "date": "2020-01-20T22:13:42Z"
   }
 ]

@@ -1,0 +1,287 @@
+[
+  {
+    "url": "https://mholt.github.io/json-to-go/",
+    "title": "JSON-to-Go",
+    "description": "Convert JSON to Go structs very easily via the webpage.",
+    "tags": [
+      "tool",
+      "go"
+    ],
+    "date": "2023-06-19T20:10:30.152661Z"
+  },
+  {
+    "url": "https://www.textile.io/",
+    "title": "Textile",
+    "description": "Set of tools built on IPFS and Filecoin.",
+    "tags": [
+      "tool"
+    ],
+    "date": "2021-11-15T11:03:40Z"
+  },
+  {
+    "url": "https://boom.fyi/",
+    "title": "Boom",
+    "description": "IPFS link shortener",
+    "tags": [
+      "dweb",
+      "tool",
+      "ipfs"
+    ],
+    "date": "2021-11-15T11:03:24Z"
+  },
+  {
+    "url": "https://near.org/",
+    "title": "NEAR Protocol",
+    "description": "Really fast cryptocurrency protocol.",
+    "tags": [
+      "dweb",
+      "web3"
+    ],
+    "date": "2021-11-15T11:05:24Z"
+  },
+  {
+    "url": "https://handshake.org/",
+    "title": "Handshake",
+    "tags": [
+      "dweb",
+      "dns",
+      "decentralization"
+    ],
+    "date": "2022-07-25T10:51:02Z"
+  },
+  {
+    "url": "https://ipfs.io/",
+    "title": "IPFS",
+    "description": "P2P hypermedia protocol.",
+    "tags": [
+      "dweb",
+      "web3"
+    ],
+    "date": "2021-11-15T11:05:08Z"
+  },
+  {
+    "url": "https://scuttlebutt.nz/",
+    "title": "Scuttlebutt",
+    "description": "Distributed social network.",
+    "tags": [
+      "dweb",
+      "web3"
+    ],
+    "date": "2021-11-15T11:04:52Z"
+  },
+  {
+    "url": "https://hypercore-protocol.org/",
+    "title": "Hypercore Protocol",
+    "description": "Distributed append-only log protocol.",
+    "tags": [
+      "dweb",
+      "web3"
+    ],
+    "date": "2021-11-15T11:04:42Z"
+  },
+  {
+    "url": "https://unstoppabledomains.com/",
+    "title": "Unstoppable Domains",
+    "tags": [
+      "dweb",
+      "web3",
+      "dns"
+    ],
+    "date": "2021-11-15T11:07:12Z"
+  },
+  {
+    "url": "https://ens.domains/",
+    "title": "ENS | Ethereum Name Service",
+    "tags": [
+      "dweb",
+      "web3",
+      "dns"
+    ],
+    "date": "2021-11-15T11:07:01Z"
+  },
+  {
+    "url": "https://www.namebase.io/",
+    "title": "Namebase",
+    "description": "You can register your own \"TLD\" and make subdomains out of it. There's a DNS server that you can use to resolve these domains.",
+    "tags": [
+      "dweb",
+      "web3",
+      "dns"
+    ],
+    "date": "2021-11-15T11:06:38Z"
+  },
+  {
+    "url": "https://proto.school/",
+    "title": "ProtoSchool",
+    "description": "A fantastic website with interactive tutorials designed to introduce people to the decentralized web concepts, protocols and tools. There’s courses about IPFS, Multiformats, IPLD, Filecoin and Libp2p.",
+    "tags": [
+      "dweb",
+      "web3",
+      "educational"
+    ],
+    "date": "2021-11-15T11:08:46Z"
+  },
+
+  {
+    "url": "https://personalsit.es/",
+    "title": "PersonalSit.es",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2021-11-15T11:12:51Z"
+  },
+  {
+    "url": "http://biglist.terraaeon.com/",
+    "title": "The Big List of Personal Websites",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2021-11-15T11:12:44Z"
+  },
+  {
+    "url": "https://darekkay.com/personal-blogs/",
+    "title": "Darek Kay’s Blogroll",
+    "tags": [
+      "personal-website"
+    ],
+    "date": "2021-11-15T11:12:29Z"
+  },
+  {
+    "url": "https://webring.xxiivv.com/",
+    "title": "XXIIVV Webring",
+    "tags": [
+      "webring"
+    ],
+    "date": "2022-08-14T06:28:51Z"
+  },
+  {
+    "url": "https://xn--sr8hvo.ws/",
+    "title": "IndieWeb Webring",
+    "tags": [
+      "indieweb",
+      "webring"
+    ],
+    "date": "2022-08-14T06:19:17Z"
+  },
+  {
+    "url": "https://fediring.net/",
+    "title": "Fediring",
+    "tags": [
+      "activitypub",
+      "fediverse",
+      "webring"
+    ],
+    "date": "2022-08-14T06:19:02Z"
+  },
+  {
+    "url": "https://tinyapps.org/",
+    "title": "tinyapps.org",
+    "description": "\u003e Welcome to tinyapps.org, an aging catalog of tiny, well-made software primarily for Windows.",
+    "date": "2022-08-22T14:36:29Z"
+  },
+  {
+    "url": "https://marta.sh/",
+    "title": "Marta",
+    "description": "Finder alternative for macos.",
+    "tags": [
+      "tool"
+    ],
+    "date": "2022-08-22T14:02:37Z"
+  },
+  {
+    "url": "https://sadgrl.online/cyberspace/webrings.html",
+    "title": "Webring Directory",
+    "description": "A very nice directory of different webrings. It's always good for reference.",
+    "tags": [
+      "webring"
+    ],
+    "date": "2022-12-14T10:28:43Z"
+  },
+  {
+    "url": "https://ooh.directory/",
+    "title": "ooh.directory",
+    "description": "A massive collection of blogs about every topic imaginable. Quite nice to find new people or topics.",
+    "tags": [
+      "small-web",
+      "directory"
+    ],
+    "date": "2023-11-17T16:51:46.795905Z"
+  },
+  {
+    "url": "https://theforest.link/",
+    "title": "The Forest",
+    "description": "This is kind of a webring without being a webring. In this website, you can click on a link and be redirected to a random, likely interesting, personal website to explore.",
+    "tags": [
+      "webring"
+    ],
+    "date": "2022-12-26T19:22:04Z"
+  },
+  {
+    "url": "https://wttr.in",
+    "title": "wttr.in",
+    "description": "Weather in the terminal, optionally in a specific city, or post code:\r\n\r\n```text\r\ncurl wttr.in[/$CITY]\r\n```",
+    "tags": [
+      "curl",
+      "software",
+      "terminal",
+      "tip"
+    ],
+    "date": "2020-01-20T22:13:42Z"
+  },
+  {
+    "url": "https://ggerganov.github.io/wave-share",
+    "title": "Wave-share: serverless, peer-to-peer, local file sharing through sound",
+    "description": "Serverless, p2p, local file sharing with communication through sound.",
+    "tags": [
+      "fun",
+      "p2p",
+      "tool"
+    ],
+    "date": "2021-11-15T11:03:52Z"
+  },
+  {
+    "url": "https://remark42.com/",
+    "title": "Remark42 – Privacy-focused lightweight commenting engine",
+    "tags": [
+      "tool"
+    ],
+    "date": "2022-01-29T11:10:10Z"
+  },
+  {
+    "url": "https://bookish.tech/",
+    "title": "bookish.tech",
+    "description": "Find book information via its ISBN.",
+    "tags": [
+      "tool"
+    ],
+    "date": "2022-02-25T09:04:01Z"
+  },
+  {
+    "url": "https://github.com/maaslalani/slides",
+    "title": "maaslalani/slides: Terminal based presentation tool",
+    "tags": [
+      "tool"
+    ],
+    "date": "2022-08-12T14:20:34Z"
+  },
+  {
+    "url": "https://512kb.club/",
+    "title": "512KB Club",
+    "tags": [
+      "small-web",
+      "optimization"
+    ],
+    "date": "2022-08-16T10:37:20Z"
+  },
+  {
+    "url": "https://annas-archive.org/",
+    "wa": "https://web.archive.org/web/20230701071813/https://annas-archive.org/",
+    "title": "Anna’s Archive",
+    "description": "Anna's Archive claims to be \"the world's largest open-source open-data library\". As far as I understand, this shadow library does not, by itself, host any of the content. Instead, it is a massive search engine with the collection of the metadata of all these books. Nevertheless, it seems that the authors are invested in seeding the content too.",
+    "tags": [
+      "archive",
+      "books"
+    ],
+    "date": "2023-07-01T07:18:05.712178Z"
+  }
+]
