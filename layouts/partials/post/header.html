@@ -1,7 +1,6 @@
 {{- $isListing := .Listing -}}
 {{- with .Page -}}
   {{- $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) -}}
-  {{- $bookmark := index .Params "bookmark-of" -}}
   {{- $metadata := or $hasDate .Params.tags -}}
   {{- $header := "1" -}}
   {{- if $isListing }}{{ $header = "2"  }}{{ end -}}
@@ -30,7 +29,7 @@
         </a>
       {{- end -}}
       {{- range .Params.tags }}
-        <a class="tag" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" .)).RelPermalink }}">#<span class='p-category'>{{ . }}</span></a>
+        <a class="p-category" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" .)).RelPermalink }}">{{ . }}</a>
       {{- end -}}
     </p>
     {{- end -}}

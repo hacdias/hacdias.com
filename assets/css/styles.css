@@ -60,7 +60,7 @@ code, kbd, samp, pre {
   font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 }
 
-.tag,
+.p-category,
 :not(pre) > code {
   border-radius: var(--radius);
   padding-inline: 0.25rem;
@@ -68,10 +68,11 @@ code, kbd, samp, pre {
   border: var(--border) solid var(--fg);
 }
 
-.tag {
+.p-category {
   text-decoration: none;
   white-space: nowrap;
   color: var(--c);
+  font-size: 90%;
 }
 
 svg,
