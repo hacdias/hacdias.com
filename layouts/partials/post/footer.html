@@ -1,21 +1,11 @@
 {{ if .Params.categories }}
   <footer class="box small">
-    {{ if or (not .Date.IsZero) (not .Lastmod.IsZero) }}
+    {{ if .Lastmod.After .Date }}
     <p>
-      🖊️ {{ if .Lastmod.After .Date -}}Updated{{ else }}Published{{ end }} by
-      <span class="h-card u-author">
-        <img class='icon u-photo' src='{{ .Page.Site.Params.author.photo }}'>
-        <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
-      </span> on
-      {{ if .Lastmod.After .Date -}}
-        <time datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
-          {{- .Lastmod.Format "2 January 2006" }} at {{ .Lastmod.Format "15:04" -}}
-        </time>
-      {{- else -}}
-        <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-          {{- .Date.Format "2 January 2006" }} at {{ .Date.Format "15:04" -}}
-        </time>
-      {{- end -}}.
+      🖊️ Updated on
+      <time datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
+        {{- .Lastmod.Format "2 January 2006" }} at {{ .Lastmod.Format "15:04" -}}
+      </time>.
     </p>
     {{ end }}
 
@@ -45,10 +35,4 @@
       ❤️ Enjoyed this post or my work? Consider <a href="{{ absURL "/support" }}">supporting me</a>!
     </p>
   </footer>
-{{ else }}
-  <div class="h-card u-author" hidden>
-    Authored by
-    <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
-    <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
-  </div>
 {{ end }}
