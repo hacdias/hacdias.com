@@ -1,0 +1,52 @@
+{
+  "interactions": [
+    {
+      "author": "Malik Piara",
+      "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/ccc172ee92e071213ae251cdf051bff59fa7214ffc4fb2e2f9c798fc7efad048.jpg",
+      "authorUrl": "https://bsky.app/profile/piara.bsky.social",
+      "date": "2023-11-22T18:38:40Z",
+      "url": "https://brid.gy/repost/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3kepw7xuld52q/did%253Aplc%253Aesa565s3bgtk4spnso76eiay",
+      "type": "repost"
+    },
+    {
+      "author": "Malik Piara",
+      "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/ccc172ee92e071213ae251cdf051bff59fa7214ffc4fb2e2f9c798fc7efad048.jpg",
+      "authorUrl": "https://bsky.app/profile/piara.bsky.social",
+      "date": "2023-11-22T18:38:40Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3kepw7xuld52q/did%253Aplc%253Aesa565s3bgtk4spnso76eiay",
+      "type": "like"
+    },
+    {
+      "author": "IFPS - Good OSS vibes",
+      "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/da8895db8fcb780082d0cb8ff21b74918edbff43eb09cd09fb31113c758742d1.jpg",
+      "authorUrl": "https://ifps.tech/",
+      "date": "2023-11-21T22:50:35Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3kepw7xuld52q/did%253Aplc%253Ayhe5b2lzwkw23xjsliltrknb",
+      "type": "like"
+    },
+    {
+      "author": "amateur crastinator 🦌",
+      "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/2e26e819e599d24edda5a069ddd54ec698ed1f3c73705c1a97efd42a3c842ba7.jpg",
+      "authorUrl": "https://amateurcrastinator.com/",
+      "date": "2023-11-21T20:43:38Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3kepw7xuld52q/did%253Aplc%253Asbswaj5gkbeumzfvjgyytuqo",
+      "type": "like"
+    },
+    {
+      "author": "‎",
+      "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/00e0e7e5fb92568e4cdc1f9da2327d0282eff437e7b31683fe7a114222b7d7c7.jpg",
+      "authorUrl": "https://renoviana.dev/",
+      "date": "2023-11-21T20:13:24Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3kepw7xuld52q/did%253Aplc%253A32ejvo3lggl47tlvhzn35td7",
+      "type": "like"
+    },
+    {
+      "author": "↪️@riesel↩️",
+      "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/a44d496ec2ddfa22630f690d44e4f1abe7c7cab37a8319c4cefa68b46d9d9df4.jpg",
+      "authorUrl": "https://bsky.app/profile/riesel.bsky.social",
+      "date": "2023-11-21T20:12:57Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3kepw7xuld52q/did%253Aplc%253Aq3kyxtvsoezp3kogdhhwv4nm",
+      "type": "like"
+    }
+  ]
+}
