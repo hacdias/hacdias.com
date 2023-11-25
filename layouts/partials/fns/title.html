@@ -6,4 +6,8 @@
   {{ end }}
 {{ end }}
 
+{{ if index .Params "bookmark-of" }}
+  {{ $name = printf "Bookmarked \"%s\"" $name }}
+{{ end }}
+
 {{ return $name }}

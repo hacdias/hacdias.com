@@ -4,7 +4,7 @@
 {{ with .File }}
   <meta name='entry-id' content='{{ .Dir }}'>
 {{ end }}
-<title>{{ .Title }} - {{ .Site.Title }}</title>
+<title>{{ partialCached "fns/title" . .Title .Data.Singular }} - {{ .Site.Title }}</title>
 {{- if .Params.noIndex }}
   <meta name='robots' content='noindex'>
 {{- end }}
