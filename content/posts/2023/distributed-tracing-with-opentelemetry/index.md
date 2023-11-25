@@ -17,8 +17,6 @@ to write about it, with a tiny demo.
 
 <!--more-->
 
-{{< toc >}}
-
 Essentially, [Open Telemetry](https://opentelemetry.io/) (OTel) is a framework for observability,
 that is, specifications and tools that help you to generate and capture telemetry data.
 There are implementations in different languages, but today I will be exemplifying how to add
