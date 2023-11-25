@@ -32,3 +32,7 @@ watch-future:
 
 watch-all:
 	hugo server --watch --minify --buildDrafts --buildFuture --environment $(ENVIRONMENT)
+
+kind ?= article
+new:
+	hugo new --kind $(kind) content/posts/$(shell date +%Y)/$(name)/index.md
