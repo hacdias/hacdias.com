@@ -1,8 +1,8 @@
 :root {
   /* Font sizes: https://type-scale.com/, Minor Third */
-  --f1: 1.728rem;
-  --f2: 1.44rem;
-  --f3: 1.2rem;
+  --f1: 2.074rem;
+  --f2: 1.728rem;
+  --f3: 1.44rem;
   --f4: 1rem;
   --f5: 0.833rem;
 
@@ -20,8 +20,8 @@
   --mg: hsl(var(--c-h), var(--c-s), var(--mg-l));
 
   /* Blacks to whites */
-  --dark-gray: #333333;
-  --light-gray: #666666;
+  --dark-gray: #222222;
+  --light-gray: #555555;
 
   /* Spacings */
   --ls: 2.5rem;
@@ -108,7 +108,7 @@ figure img {
 h1, h2, h3, h4, h5 {
   font-weight: bold;
   line-height: 1.3;
-  margin: 1.2em 0 0.6em 0;
+  margin: 2rem 0 1rem 0;
 }
 
 h1 {
@@ -381,7 +381,7 @@ details summary {
 
 #header .name {
   font-weight: bold;
-  font-size: var(--f2);
+  font-size: var(--f3);
 }
 
 #header label {
@@ -809,6 +809,14 @@ main pre {
 }
 
 @media screen and (max-width: 44rem) {
+  :root {
+    --f1: 1.728rem;
+    --f2: 1.44rem;
+    --f3: 1.2rem;
+    --f4: 1rem;
+    --f5: 0.833rem;
+  }
+
   .lh {
     text-decoration: underline;
   }
@@ -823,14 +831,6 @@ main pre {
   #header .avatar {
     max-width: 4rem;
     margin-right: var(--hms);
-  }
-
-  #header .name {
-    font-size: var(--f3);
-  }
-
-  #header p {
-    font-size: var(--f4);
   }
 
   #navbar a,
