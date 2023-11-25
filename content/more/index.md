@@ -15,7 +15,6 @@ This website contains more things than it looks at first glance. This page conta
 - [🚀 Impossible List](/impossible-list/)
 - [📚 Readings](/readings/)
 - [🎓 Resume](/resume/)
-- [❤️ Support](/support/)
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
@@ -27,6 +26,9 @@ In navigation:
 - [✉️ Contact](/contact/)
 - [📸 Photos](/photos/)
 - [📖 Guestbook](/guestbook/)
+
+In footer:
+- [❤️ Support](/support/)
 -->
 
 </div>
