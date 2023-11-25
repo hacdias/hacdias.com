@@ -22,7 +22,7 @@
     {{- if $metadata -}}
     <p>
       {{- if $hasDate -}}
-        <a href="{{ relURL .Permalink }}" class="u-url nl">
+        <a href="{{ relURL .Permalink }}" class="nl">
           {{- if not .Date.IsZero -}}
             <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
               {{ if $bookmark }}Bookmarked{{ else }}Published{{ end }}
@@ -30,10 +30,6 @@
             </time>
           {{- end -}}
         </a>
-        by <span class="h-card u-author">
-          <img class='icon u-photo' src='{{ .Page.Site.Params.author.photo }}'>
-          <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
-        </span>
       {{- end -}}
       {{- range .Params.tags }}
         <a class="p-category" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" .)).RelPermalink }}">{{ . }}</a>
@@ -41,13 +37,11 @@
     </p>
     {{- end -}}
 
-    {{- if not $hasDate -}}
-      <a href="{{ .Permalink }}" class="u-url" hidden>Permalink</a>
-      <div class="h-card u-author" hidden>
-        Authored by
-        <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
-        <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
-      </div>
-    {{- end -}}
+    <a href="{{ .Permalink }}" class="u-url" hidden>Permalink</a>
+    <div class="h-card u-author" hidden>
+      Authored by
+      <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
+      <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
+    </div>
   </header>
 {{- end -}}
