@@ -489,10 +489,6 @@ main pre {
   margin-left: calc(var(--ms) * -1);
 }
 
-.card h2 {
-  font-size: var(--f2);
-}
-
 .card h2.bookmark {
   font-size: var(--f3);
 }

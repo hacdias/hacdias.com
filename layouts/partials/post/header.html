@@ -13,7 +13,9 @@
       </h{{ $header }}>
     {{- else if .Title -}}
       <h{{ $header }} class='p-name'>
-        <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">{{- .Title -}}</a>
+        {{- if $isListing -}}<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">{{ end }}
+          {{- .Title -}}
+        {{- if $isListing -}}</a>{{end }}
       </h{{ $header }}>
     {{- end -}}
 
@@ -40,11 +42,12 @@
     {{- end -}}
 
     {{- if not $hasDate -}}
-    <div class="h-card u-author" hidden>
-      Authored by
-      <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
-      <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
-    </div>
+      <a href="{{ .Permalink }}" class="u-url" hidden>Permalink</a>
+      <div class="h-card u-author" hidden>
+        Authored by
+        <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
+        <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
+      </div>
     {{- end -}}
   </header>
 {{- end -}}
