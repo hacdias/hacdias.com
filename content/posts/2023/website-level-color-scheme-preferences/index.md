@@ -2,11 +2,14 @@
 title: We Need Website-Level Color Scheme Preferences
 date: 2023-11-25T16:16:31+01:00
 categories:
-- articles
+  - articles
 tags:
-- web
-- browsers
-- user-agency
+  - web
+  - browsers
+  - user-agency
+syndication:
+  - https://fosstodon.org/@hacdias/111471854269467060
+  - https://bsky.app/profile/hacdias.com/post/3kezies55uv2u
 ---
 
 Since a [few months ago](/2023/07/31/july-23/), my website has a dark theme. So today I decided to casually open a PR to the [darktheme.club](https://darktheme.club/) website. On this PR, it is asked what mechanism is used to enable the dark mode. I selected JavaScript. It is unfortunate, but it is a reality.
