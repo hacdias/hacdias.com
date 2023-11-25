@@ -14,16 +14,27 @@
     </div>
   {{ else }}
     {{ range .Entries }}
+      {{ $bookmark := index .Other "bookmark-of" }}
       <div class='card'>
         <header>
-          <a href='{{ .Permalink }}' class='nl'><h2>{{ .Title }}</h2></a>
+          {{ if $bookmark }}
+            <a href='{{ $bookmark }}' class='nl' rel='noopener noreferrer'>
+              <h2 class='bookmark'>{{ .Title }}{{ with urlParse $bookmark }} <span class='lg wn'>({{ .Host }})</span>{{ end }}</h2>
+            </a>
+          {{ else }}
+            <a href='{{ .Permalink }}' class='nl'><h2>{{ .Title }}</h2></a>
+          {{ end }}
+
           {{ $tags := .Taxonomy "tags" }}
-          {{ if or $tags (not .Lastmod.IsZero) (not .Date.IsZero) }}
+          {{ if or $tags (not .Date.IsZero) }}
             <p>
               {{ if not .Date.IsZero -}}
-                <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-                  Published on {{ .Date.Format "2 January 2006" }}
-                </time>
+                <a href='{{ .Permalink }}' class='nl'>
+                  <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+                    {{ if $bookmark }}Bookmarked{{ else }}Published{{ end }}
+                    on {{ .Date.Format "2 January 2006" }}
+                  </time>
+                </a>
               {{- end -}}
               {{ range $tags -}}
                 <a class="p-category" href="/tags/{{ . }}/">{{ . }}</a>
