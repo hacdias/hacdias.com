@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 75,
+    "count": 76,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -276,6 +276,10 @@
         "targetUrl": "https://github.com/hacdias/hacdias.com"
       },
       {
+        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
+        "targetUrl": "https://github.com/WebKit/WebKit/commit/75734bd35fa1a210f24ac0ab3502177ece7002ab"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/upframe"
       },
@@ -534,6 +538,64 @@
     ]
   },
   {
+    "domain": "jim-nielsen.com",
+    "count": 13,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/08/16/a-well-known-links-resource/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/18/website-fidelity/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity-browser/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/verified-personal-website/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/30/december-22/",
+        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
+        "targetUrl": "https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://blog.jim-nielsen.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://notes.jim-nielsen.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://blog.jim-nielsen.com/2023/well-known-avatar/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/browser-level-color-scheme-preference/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://blog.jim-nielsen.com"
+      }
+    ]
+  },
+  {
     "domain": "php.net",
     "count": 13,
     "links": [
@@ -588,60 +650,6 @@
       {
         "sourceUrl": "https://hacdias.com/2014/09/13/php-wordpress-comandos-printf-sprintf/",
         "targetUrl": "http://php.net/manual/en/function.sprintf.php"
-      }
-    ]
-  },
-  {
-    "domain": "jim-nielsen.com",
-    "count": 12,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/16/a-well-known-links-resource/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/18/website-fidelity/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity-browser/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/verified-personal-website/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/30/december-22/",
-        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/28/february-23/",
-        "targetUrl": "https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://blog.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://notes.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
-        "targetUrl": "https://blog.jim-nielsen.com/2023/well-known-avatar/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://blog.jim-nielsen.com"
       }
     ]
   },
@@ -1852,6 +1860,20 @@
     ]
   },
   {
+    "domain": "mozilla.org",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
+        "targetUrl": "https://bugzilla.mozilla.org/show_bug.cgi?id=1866637"
+      }
+    ]
+  },
+  {
     "domain": "neocities.org",
     "count": 2,
     "links": [
@@ -2504,6 +2526,16 @@
     ]
   },
   {
+    "domain": "chromium.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
+        "targetUrl": "https://bugs.chromium.org/p/chromium/issues/detail?id=1046660"
+      }
+    ]
+  },
+  {
     "domain": "cke.nl",
     "count": 1,
     "links": [
@@ -2600,6 +2632,26 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://dannyvankooten.com/"
+      }
+    ]
+  },
+  {
+    "domain": "darekkay.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/15/darek-kays-blogroll/",
+        "targetUrl": "https://darekkay.com/personal-blogs/"
+      }
+    ]
+  },
+  {
+    "domain": "darktheme.club",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
+        "targetUrl": "https://darktheme.club/"
       }
     ]
   },
@@ -2824,6 +2876,16 @@
     ]
   },
   {
+    "domain": "fediring.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "targetUrl": "https://fediring.net/"
+      }
+    ]
+  },
+  {
     "domain": "feross.org",
     "count": 1,
     "links": [
@@ -2880,6 +2942,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/08/31/august-23/",
         "targetUrl": "https://www.gazelle.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "ggerganov.github.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/15/wave-share/",
+        "targetUrl": "https://ggerganov.github.io/wave-share"
       }
     ]
   },
@@ -3594,16 +3666,6 @@
     ]
   },
   {
-    "domain": "mozilla.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API"
-      }
-    ]
-  },
-  {
     "domain": "mrkaran.dev",
     "count": 1,
     "links": [
@@ -3754,6 +3816,16 @@
     ]
   },
   {
+    "domain": "ooh.directory",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/17/ooh-directory/",
+        "targetUrl": "https://ooh.directory/"
+      }
+    ]
+  },
+  {
     "domain": "opensea.io",
     "count": 1,
     "links": [
@@ -3850,6 +3922,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://paulstamatiou.com"
+      }
+    ]
+  },
+  {
+    "domain": "personalsit.es",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/15/personalsit-es/",
+        "targetUrl": "https://personalsit.es/"
       }
     ]
   },
@@ -3990,6 +4072,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://rustybever.be/"
+      }
+    ]
+  },
+  {
+    "domain": "sadgrl.online",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "targetUrl": "https://sadgrl.online/cyberspace/webrings.html"
       }
     ]
   },
@@ -4214,12 +4306,32 @@
     ]
   },
   {
+    "domain": "terraaeon.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/15/the-big-list-of-personal-websites/",
+        "targetUrl": "http://biglist.terraaeon.com/"
+      }
+    ]
+  },
+  {
     "domain": "test-ipv6.com",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
         "targetUrl": "https://test-ipv6.com"
+      }
+    ]
+  },
+  {
+    "domain": "theforest.link",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "targetUrl": "https://theforest.link/"
       }
     ]
   },
@@ -4500,6 +4612,26 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://xeiaso.net/"
+      }
+    ]
+  },
+  {
+    "domain": "xn--sr8hvo.ws",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "targetUrl": "https://xn--sr8hvo.ws/"
+      }
+    ]
+  },
+  {
+    "domain": "xxiivv.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "targetUrl": "https://webring.xxiivv.com/"
       }
     ]
   },
