@@ -5,6 +5,7 @@ categories:
   - articles
 tags:
   - year-in-music
+  - spotify-wrapped
 ---
 
 <style>
