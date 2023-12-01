@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 76,
+    "count": 77,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -280,6 +280,10 @@
         "targetUrl": "https://github.com/WebKit/WebKit/commit/75734bd35fa1a210f24ac0ab3502177ece7002ab"
       },
       {
+        "sourceUrl": "https://hacdias.com/2023/11/30/november-23/",
+        "targetUrl": "https://github.com/hacdias/indielib"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/upframe"
       },
@@ -311,7 +315,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 37,
+    "count": 38,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -446,6 +450,10 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Limburgish"
       },
       {
+        "sourceUrl": "https://hacdias.com/2023/11/30/november-23/",
+        "targetUrl": "https://en.wikipedia.org/wiki/OPML"
+      },
+      {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://en.wikipedia.org/wiki/Fediverse"
       },
@@ -465,7 +473,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 17,
+    "count": 18,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -534,6 +542,10 @@
       {
         "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
         "targetUrl": "https://indieweb.org/POSSE"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/30/november-23/",
+        "targetUrl": "https://indieweb.org/Category:syndication"
       }
     ]
   },
@@ -1688,6 +1700,20 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/19/jake-museum/",
         "targetUrl": "https://jakelazaroff.com/"
+      }
+    ]
+  },
+  {
+    "domain": "jamesg.blog",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/30/spotify-wrapped/",
+        "targetUrl": "https://jamesg.blog/2023/11/29/spotify-wrapped/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://jamesg.blog/"
       }
     ]
   },
@@ -3312,16 +3338,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/19/jake-museum/",
         "targetUrl": "https://jake.museum/"
-      }
-    ]
-  },
-  {
-    "domain": "jamesg.blog",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://jamesg.blog/"
       }
     ]
   },
