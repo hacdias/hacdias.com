@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name:  Everything Now
+  season: 1
+  rating: 3
+  date: 2023-11-26
 - name: Elite
   season: 7
   rating: 3
