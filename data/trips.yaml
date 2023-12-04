@@ -191,6 +191,11 @@ train_stations:
     country: Germany
     latitude: 52.376698613166866
     longitude: 9.741047297273422
+  koln_hbf: &koln_hbf
+    name: Köln Hbf
+    country: Germany
+    latitude: 50.9432141
+    longitude: 6.9560268
   lille_flanders: &station_lille_flanders
     name: Gare de Lille-Flandres
     country: France
@@ -211,6 +216,11 @@ train_stations:
     longitude: 14.272366631869446
     name: Napoli Centrale
     country: Italy
+  neuss_hbf: &neuss_hbf
+    name: Neuss Hbf
+    country: Germany
+    latitude: 51.2043643
+    longitude: 6.6820122
   maastricht: &station_maastricht
     name: Maastricht
     country: Netherlands
@@ -613,6 +623,19 @@ trips:
   - { departure: 2023-10-01T11:14:00+02:00, arrival: 2023-10-01T11:39:00+02:00, origin: *station_pepinster, destination: *liege_guillemins, type: train, operator: SNCB, number: 'S5286' }
   - { departure: 2023-10-01T12:07:00+02:00, arrival: 2023-10-01T12:42:00+02:00, origin: *liege_guillemins, destination: *station_maastricht, type: train, operator: SNCB, number: 'S5367' }
   - { departure: 2023-10-01T13:01:00+02:00, arrival: 2023-10-01T14:02:00+02:00, origin: *station_maastricht, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC868 }
+- name: Christmas Markets Trip
+  place: "🇩🇪 Köln"
+  start: 2023-12-01
+  date: 2023-12-03
+  latitude: 50.9575869
+  longitude: 6.8025172
+  itinerary:
+  - { departure: 2023-12-01T10:19:00+01:00, arrival: 2023-12-01T10:55:00+01:00, origin: *station_eindhoven_centraal, destination: *station_venlo, type: train, operator: NS, number: IC3529 }
+  - { departure: 2023-12-01T11:05:00+01:00, arrival: 2023-12-01T11:56:00+01:00, origin: *station_venlo, destination: *neuss_hbf, type: train, operator: Eurobahn, number: RE13 }
+  - { departure: 2023-12-01T12:24:00+01:00, arrival: 2023-12-01T12:52:00+01:00, origin: *neuss_hbf, destination: *koln_hbf, type: train, operator: RRX, number: RE6 }
+  - { departure: 2023-12-03T12:07:00+01:00, arrival: 2023-12-03T12:33:00+01:00, origin: *koln_hbf, destination: *neuss_hbf, type: train, operator: RRX, number: RE6 }
+  - { departure: 2023-12-03T13:01:00+01:00, arrival: 2023-12-03T13:56:00+01:00, origin: *neuss_hbf, destination: *station_venlo, type: train, operator: Eurobahn, number: RE13 }
+  - { departure: 2023-12-03T14:04:00+01:00, arrival: 2023-12-03T14:42:00+01:00, origin: *station_venlo, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC3763 }
 # - name:
 #   place:
 #   start:
