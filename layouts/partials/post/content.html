@@ -1,4 +1,10 @@
 {{- if or .Content .Params.rating }}
+  {{ if intersect .Params.tags (slice "vergeet-niet-om-in-te-checken") }}
+  <div class='box small'>
+    <p>ℹ️ This is a post series where I talk about my experience learning Dutch, in Dutch. If you're not interested, feel free to ignore it. Do you speak Dutch and noticed my mistakes? Ik waardeer het als je me <a href="/contact/">erop wijst</a>!</p>
+  </div>
+  {{ end }}
+
   <div class='e-content'{{ with .Params.language }} language='{{ . }}'{{ end }}>
     {{- with .Params.rating -}}
       <p>

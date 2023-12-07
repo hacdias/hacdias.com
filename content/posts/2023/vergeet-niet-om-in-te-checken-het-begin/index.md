@@ -9,12 +9,6 @@ tags:
 - nederlands
 ---
 
-<div class='box small'>
-
-ℹ️ This is a post series where I talk about my experience learning Dutch, in Dutch. If you're not interested, feel free to ignore it. Do you speak Dutch and noticed my mistakes? Ik waardeer het als je me [erop wijst](/contact/)!
-
-</div>
-
 Vandaag ga ik met iets nieuws op deze website beginnen: een post series in het Nederlands waarin ik over mijn ervaring met leren van het Nederlands schrijf. Vergelijkbaar met mijn “Recently” series, ga ik een post per maand schrijven. Dat is niet te veel, maar ik hoop dat genoeg is om met mijn Nederlands te helpen verbeteren.
 
 <!--more-->
