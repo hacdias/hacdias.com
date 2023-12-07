@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name:  Knokke Off
+  season: 1
+  rating: 4
+  date: 2023-12-04
 - name:  Everything Now
   season: 1
   rating: 3
