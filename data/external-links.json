@@ -1984,6 +1984,20 @@
     ]
   },
   {
+    "domain": "randsinrepose.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/07/bored-people-quit/",
+        "targetUrl": "https://randsinrepose.com/archives/bored-people-quit/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/07/shields-down/",
+        "targetUrl": "https://randsinrepose.com/archives/shields-down/"
+      }
+    ]
+  },
+  {
     "domain": "reddit.com",
     "count": 2,
     "links": [
@@ -4568,6 +4582,16 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://websummit.com/"
+      }
+    ]
+  },
+  {
+    "domain": "werd.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://werd.io/content/posts"
       }
     ]
   },

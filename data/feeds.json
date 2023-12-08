@@ -41,6 +41,11 @@
       "feed": "https://blog.benjojo.co.uk/rss.xml"
     },
     {
+      "title": "Ben Werdmuller",
+      "site": "https://werd.io/content/posts",
+      "feed": "https://werd.io/content/posts?_t=rss"
+    },
+    {
       "title": "Brain Baking",
       "site": "https://brainbaking.com/",
       "feed": "https://brainbaking.com/index.xml"
