@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 77,
+    "count": 76,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -306,10 +306,6 @@
       {
         "sourceUrl": "https://hacdias.com/uses/",
         "targetUrl": "https://github.com/hacdias/dotfiles"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://github.com/sissbruecker/linkding"
       }
     ]
   },
@@ -1248,24 +1244,6 @@
     ]
   },
   {
-    "domain": "jlel.se",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
-        "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://jlel.se/goshort"
-      }
-    ]
-  },
-  {
     "domain": "jlelse.blog",
     "count": 3,
     "links": [
@@ -1714,6 +1692,20 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://jamesg.blog/"
+      }
+    ]
+  },
+  {
+    "domain": "jlel.se",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
+        "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
+        "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
       }
     ]
   },
@@ -2916,6 +2908,16 @@
     ]
   },
   {
+    "domain": "fastmail.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://www.fastmail.com"
+      }
+    ]
+  },
+  {
     "domain": "fediring.net",
     "count": 1,
     "links": [
@@ -3642,16 +3644,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/11/05/micropub-update-parsing-uncertainties/",
         "targetUrl": "https://micropublish.net/"
-      }
-    ]
-  },
-  {
-    "domain": "migadu.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://www.migadu.com/"
       }
     ]
   },

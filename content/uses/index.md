@@ -44,7 +44,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
   </div>
   <div class='e'>
     <div>Wallet</div>
-    <div>Secrit, for my cards and spare bills</div>
+    <div>Secrid, for my cards and spare bills</div>
   </div>
   <div class='e'>
     <div>KeyChain</div>
@@ -180,7 +180,7 @@ The list below contains some of my favorite software, or software that I use on 
   </div>
    <div class='e'>
     <div>Email Provider</div>
-    <div>Gmail and <a href='https://www.migadu.com/' rel='noopener noreferrer'>Migadu</a>. I am looking for an alternative to Migadu that has more clear development and official support for calendar and contacts management.</div>
+    <div>Gmail and <a href='https://www.fastmail.com' rel='noopener noreferrer'>Fastmail</a>. Previously Migadu, but I wanted something with Calendar and Contacts support. Slowly trying to move my accounts away from Google.</div>
   </div>
   <div class='e'>
     <div>Calendar</div>
@@ -197,14 +197,6 @@ The list below contains some of my favorite software, or software that I use on 
   <div class='e'>
     <div>Feed Reader</div>
     <div><a rel='noopener noreferrer' href='https://miniflux.app/'>Miniflux</a></div>
-  </div>
-  <div class='e'>
-    <div>Bookmark Manager</div>
-    <div><a rel='noopener noreferrer' href='https://github.com/sissbruecker/linkding'>linkding</a></div>
-  </div>
-  <div class='e'>
-    <div>URL Shortener</div>
-    <div><a rel='noopener noreferrer' href='https://jlel.se/goshort'>goshort</a> - I have not used it that much, but it's a nice to have. I'm looking forward to having more use cases for it though.</div>
   </div>
 </div>
 

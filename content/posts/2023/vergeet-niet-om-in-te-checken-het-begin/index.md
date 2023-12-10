@@ -7,6 +7,8 @@ categories:
 tags:
 - vergeet-niet-om-in-te-checken
 - nederlands
+syndication:
+- https://fosstodon.org/@hacdias/111550570083991986
 ---
 
 Vandaag ga ik met iets nieuws op deze website beginnen: een post series in het Nederlands waarin ik over mijn ervaring met leren van het Nederlands schrijf. Vergelijkbaar met mijn “Recently” series, ga ik een post per maand schrijven. Dat is niet te veel, maar ik hoop dat genoeg is om met mijn Nederlands te helpen verbeteren.
