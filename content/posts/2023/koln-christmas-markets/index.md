@@ -42,4 +42,4 @@ Not only food, but we also had some Glühwein, of course. I have been collecting
 
 </div>
 
-We also had time to visit the Chocolate museum, which was quite interesting. They also gave us quite some chocolate during the visit to keep things interesting. It was a great experience and I would definitely recommend going. Not sure which city I will go to next year, maybe Düsseldorf? Happy December! 🎄
+We also had time to visit the Chocolate museum, which was quite interesting. They also gave us quite some chocolate during the visit to keep things interesting. It was a great experience and I would definitely recommend going. Not sure which city I will go to next year, maybe Düsseldorf, or Berlin? Happy December! 🎄
