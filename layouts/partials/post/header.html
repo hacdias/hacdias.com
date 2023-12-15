@@ -22,7 +22,7 @@
     {{- if $metadata -}}
     <p>
       {{- if $hasDate -}}
-        <a href="{{ relURL .Permalink }}" class="nl">
+        <a href="{{ .RelPermalink }}" class="nl">
           {{- if not .Date.IsZero -}}
             <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
               {{ if $bookmark }}Bookmarked{{ else }}Published{{ end }}

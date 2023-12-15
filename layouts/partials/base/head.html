@@ -10,10 +10,10 @@
 {{- end }}
 <meta name='description' content='{{ or .Description (.Summary | plainify) .Site.Params.site.description }}'>
 <link rel='canonical' href='{{ .Permalink }}'>
-<link rel='icon' href='{{ absURL "/favicon.ico" }}' type='image/x-icon'>
+<link rel='icon' href='{{ relURL "/favicon.ico" }}' type='image/x-icon'>
 
 {{- range .AlternativeOutputFormats -}}
-  {{- printf `<link rel="%s" type="%s" href="%s" />` .Rel .MediaType.Type .Permalink | safeHTML }}
+  {{- printf `<link rel="%s" type="%s" href="%s" />` .Rel .MediaType.Type .RelPermalink | safeHTML }}
 {{- end -}}
 
 <meta property='og:type' content='{{ if or .IsNode .IsHome }}website{{ else }}article{{ end }}' />
@@ -43,7 +43,7 @@
 {{ $base := resources.Get "css/styles.css" }}
 {{ $css := slice $normalize $base | resources.Concat "css/styles.css" }}
 {{ $secureCSS := $css | resources.Fingerprint "sha512" }}
-<link rel='stylesheet' href='{{ $secureCSS.Permalink }}' integrity='{{ $secureCSS.Data.Integrity }}'>
+<link rel='stylesheet' href='{{ $secureCSS.RelPermalink }}' integrity='{{ $secureCSS.Data.Integrity }}'>
 
 {{ with .Resources.GetMatch "styles.css" }}
 <style>{{ .Content | safeCSS }}</style>
