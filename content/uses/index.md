@@ -198,31 +198,12 @@ The list below contains some of my favorite software, or software that I use on 
     <div>Feed Reader</div>
     <div><a rel='noopener noreferrer' href='https://miniflux.app/'>Miniflux</a></div>
   </div>
-</div>
-
-## 🌐 Domains {#domains}
-
-This is a list of the domains I currently own, with an explanation for each. These domains are registered in different registrars, namely [Namecheap](https://www.namecheap.com), [PTServidor](https://my.ptservidor.pt), and [Porkbun](https://porkbun.com). I used to have a page dedicated just for this, but I don't think that's worth it. But it's still fun to share!
-
-<div class='box logs'>
   <div class='e'>
-    <div><a class='nl lh' rel='noopener noreferrer' href='https://hacdias.com'>hacdias.com</a></div>
-    <div>This is the domain you are visiting right now and I use it as my main domain. <code>hacdias</code> is also my default handle in the Internet, so you can likely find me with that name.</div>
-  </div>
-  <div class='e'>
-    <div><a class='nl lh' rel='noopener noreferrer' href='https://henriquedias.com'>henriquedias.com</a></div>
-    <div>This was my first domain, bought by my father as a gift when I was 14 years old. Nowadays, I redirect it to my main domain. I like to keep it, not just because of emotional attachment, but also because it's my first and last name combined.</div>
-  </div>
-  <div class='e'>
-    <div><a class='nl lh' rel='noopener noreferrer' href='https://h4c.pt'>h4c.pt</a></div>
-    <div>This one I bought after speaking to Sebastiaan about it. It's a short domain for a URL shortener. It's short and Portuguese 🇵🇹.</div>
-  </div>
-  <div class='e'>
-    <div><a class='nl lh' rel='noopener noreferrer' href='https://hacdia.sh'>hacdia.sh</a></div>
-    <div>This was the domain I used to use for my URL shortener. Right now, it serves the same application as <code>h4c.pt</code>. I like to keep it as it combines my handle with <code>.sh</code>. Maybe I could use it for code, or some other programming-related thing.</div>
-  </div>
-  <div class='e'>
-    <div><a class='nl lh' rel='noopener noreferrer' href='https://nata.cafe'>nata.cafe</a></div>
-    <div>This is the domain of the UNIX server that hosts my website, as well as some other small services for friends and myself. It is an homage to the Portuguese custard tart, Pastel de Nata, and cafés.</div>
+    <div>Domain Registrars</div>
+    <div>
+      <a rel='noopener noreferrer' href='https://www.namecheap.com'>Namecheap</a>,
+      <a rel='noopener noreferrer' href='https://porkbun.com'>Porkbun</a> and
+      <a rel='noopener noreferrer' href='https://ptservidor.pt'>PTServidor</a>
+    </div>
   </div>
 </div>
