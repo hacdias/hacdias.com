@@ -27,4 +27,4 @@ Other important notes:
 ## License
 
 Codebase licensed with [MIT License](LICENSE) © [Henrique Dias](https://hacdias.com).
-Anything other than source code (e.g., content, photos) is copyrighted.
+Anything other than source code (e.g., content, images) is copyrighted.
