@@ -1598,20 +1598,6 @@
     ]
   },
   {
-    "domain": "hacdia.sh",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/more/",
-        "targetUrl": "http://xkcd.hacdia.sh/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://hacdia.sh"
-      }
-    ]
-  },
-  {
     "domain": "hetzner.com",
     "count": 2,
     "links": [
@@ -1957,7 +1943,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://my.ptservidor.pt"
+        "targetUrl": "https://ptservidor.pt"
       }
     ]
   },
@@ -3098,12 +3084,12 @@
     ]
   },
   {
-    "domain": "h4c.pt",
+    "domain": "hacdia.sh",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://h4c.pt"
+        "sourceUrl": "https://hacdias.com/more/",
+        "targetUrl": "http://xkcd.hacdia.sh/"
       }
     ]
   },
@@ -3114,16 +3100,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://daniel.haxx.se/blog"
-      }
-    ]
-  },
-  {
-    "domain": "henriquedias.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://henriquedias.com"
       }
     ]
   },
@@ -3744,16 +3720,6 @@
       {
         "sourceUrl": "https://hacdias.com/uses/",
         "targetUrl": "https://www.namecheap.com"
-      }
-    ]
-  },
-  {
-    "domain": "nata.cafe",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://nata.cafe"
       }
     ]
   },
