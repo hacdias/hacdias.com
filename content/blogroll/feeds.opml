@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Thu, 07 Dec 2023 19:45:36 UTC</dateCreated>
+        <dateCreated>Wed, 20 Dec 2023 04:00:01 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -27,6 +27,7 @@
             <outline title="Feross Aboukhadijeh" text="Feross Aboukhadijeh" xmlUrl="https://feross.org/atom.xml" htmlUrl="https://feross.org"></outline>
             <outline title="Filippo Valsorda" text="Filippo Valsorda" xmlUrl="https://words.filippo.io/rss/" htmlUrl="https://blog.filippo.io/"></outline>
             <outline title="Garrit Franke" text="Garrit Franke" xmlUrl="https://garrit.xyz/rss.xml" htmlUrl="https://garrit.xyz"></outline>
+            <outline title="gRegor Morrill" text="gRegor Morrill" xmlUrl="https://gregorlove.com/articles.atom" htmlUrl="https://gregorlove.com"></outline>
             <outline title="Herman Martinus" text="Herman Martinus" xmlUrl="https://herman.bearblog.dev/feed/?type=rss" htmlUrl="https://herman.bearblog.dev/"></outline>
             <outline title="Horst Gutmann" text="Horst Gutmann" xmlUrl="https://zerokspot.com/index.xml" htmlUrl="https://zerokspot.com/"></outline>
             <outline title="Interdependent Thoughts" text="Interdependent Thoughts" xmlUrl="https://www.zylstra.org/blog/feed/" htmlUrl="https://www.zylstra.org/blog"></outline>
@@ -97,6 +98,7 @@
             <outline title="Mastodon" text="Mastodon" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/"></outline>
             <outline title="Miniflux" text="Miniflux" xmlUrl="https://miniflux.app/feed.xml" htmlUrl="https://miniflux.app"></outline>
             <outline title="Security.NL" text="Security.NL" xmlUrl="https://www.security.nl/rss/headlines.xml" htmlUrl="https://www.security.nl"></outline>
+            <outline title="Soju Releases" text="Soju Releases" xmlUrl="https://git.sr.ht/~emersion/soju/refs/rss.xml" htmlUrl="https://git.sr.ht/~emersion/soju/refs"></outline>
             <outline title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom"></outline>
             <outline title="zdimension" text="zdimension" xmlUrl="https://zdimension.fr/feed.xml" htmlUrl="https://zdimension.fr/"></outline>
         </outline>
