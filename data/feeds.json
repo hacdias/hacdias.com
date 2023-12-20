@@ -359,6 +359,11 @@
       "title": "beepb00p",
       "site": "https://beepb00p.xyz",
       "feed": "https://beepb00p.xyz/rss.xml"
+    },
+    {
+      "title": "gRegor Morrill",
+      "site": "https://gregorlove.com",
+      "feed": "https://gregorlove.com/articles.atom"
     }
   ],
   "comics": [
@@ -438,6 +443,11 @@
       "title": "Security.NL",
       "site": "https://www.security.nl",
       "feed": "https://www.security.nl/rss/headlines.xml"
+    },
+    {
+      "title": "Soju Releases",
+      "site": "https://git.sr.ht/~emersion/soju/refs",
+      "feed": "https://git.sr.ht/~emersion/soju/refs/rss.xml"
     },
     {
       "title": "The Go Blog",
