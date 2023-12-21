@@ -1,6 +1,11 @@
 {
   "blogs": [
     {
+      "title": " Matt Brunt",
+      "site": "https://brunty.me/",
+      "feed": "https://brunty.me/index.xml"
+    },
+    {
       "title": "Aaron Parecki",
       "site": "https://aaronparecki.com/",
       "feed": "https://aaronparecki.com/feed.json"
