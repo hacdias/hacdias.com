@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Thu, 21 Dec 2023 04:00:00 UTC</dateCreated>
+        <dateCreated>Fri, 22 Dec 2023 04:00:01 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -48,7 +48,7 @@
             <outline title="Martin Frederic" text="Martin Frederic" xmlUrl="https://mew.tv/feeds/news.atom" htmlUrl="https://mew.tv/"></outline>
             <outline title="Martin Tournoij" text="Martin Tournoij" xmlUrl="https://www.arp242.net/feed.xml" htmlUrl="https://www.arp242.net/"></outline>
             <outline title="Matt Baer" text="Matt Baer" xmlUrl="https://write.as/matt/feed/" htmlUrl="https://write.as/matt/"></outline>
-            <outline title=" Matt Brunt" text=" Matt Brunt" xmlUrl="https://brunty.me/index.xml" htmlUrl="https://brunty.me/"></outline>
+            <outline title="Matt Brunt" text="Matt Brunt" xmlUrl="https://brunty.me/index.xml" htmlUrl="https://brunty.me/"></outline>
             <outline title="Max Böck" text="Max Böck" xmlUrl="https://mxb.dev/feed.xml" htmlUrl="https://mxb.dev"></outline>
             <outline title="Max Inden" text="Max Inden" xmlUrl="https://max-inden.de/index.xml" htmlUrl="https://max-inden.de/"></outline>
             <outline title="Michael Lynch" text="Michael Lynch" xmlUrl="https://mtlynch.io/index.xml" htmlUrl="https://mtlynch.io/"></outline>
@@ -88,7 +88,6 @@
             <outline title="XKCD" text="XKCD" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"></outline>
         </outline>
         <outline text="General">
-            <outline title="Alpine Linux" text="Alpine Linux" xmlUrl="https://alpinelinux.org/atom.xml" htmlUrl="https://alpinelinux.org/atom.xml"></outline>
             <outline title="Annoying Technology" text="Annoying Technology" xmlUrl="https://annoying.technology/index.xml" htmlUrl="https://annoying.technology/"></outline>
             <outline title="Ctrl.blog" text="Ctrl.blog" xmlUrl="https://feed.ctrl.blog/latest.atom" htmlUrl="https://www.ctrl.blog/"></outline>
             <outline title="Decentralized Thoughts" text="Decentralized Thoughts" xmlUrl="https://decentralizedthoughts.github.io/feed.xml" htmlUrl="https://decentralizedthoughts.github.io"></outline>
@@ -97,11 +96,15 @@
             <outline title="Golang Weekly" text="Golang Weekly" xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" htmlUrl="https://golangweekly.com/"></outline>
             <outline title="Jon Worth" text="Jon Worth" xmlUrl="https://jonworth.eu/feed/" htmlUrl="https://jonworth.eu/"></outline>
             <outline title="Mastodon" text="Mastodon" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/"></outline>
-            <outline title="Miniflux" text="Miniflux" xmlUrl="https://miniflux.app/feed.xml" htmlUrl="https://miniflux.app"></outline>
             <outline title="Security.NL" text="Security.NL" xmlUrl="https://www.security.nl/rss/headlines.xml" htmlUrl="https://www.security.nl"></outline>
-            <outline title="Soju Releases" text="Soju Releases" xmlUrl="https://git.sr.ht/~emersion/soju/refs/rss.xml" htmlUrl="https://git.sr.ht/~emersion/soju/refs"></outline>
             <outline title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom"></outline>
             <outline title="zdimension" text="zdimension" xmlUrl="https://zdimension.fr/feed.xml" htmlUrl="https://zdimension.fr/"></outline>
+        </outline>
+        <outline text="Software">
+            <outline title="Alpine Linux" text="Alpine Linux" xmlUrl="https://alpinelinux.org/atom.xml" htmlUrl="https://alpinelinux.org/atom.xml"></outline>
+            <outline title="Gamja Releases" text="Gamja Releases" xmlUrl="https://git.sr.ht/~emersion/gamja/refs/rss.xml" htmlUrl="https://git.sr.ht/~emersion/gamja/refs"></outline>
+            <outline title="Miniflux" text="Miniflux" xmlUrl="https://miniflux.app/feed.xml" htmlUrl="https://miniflux.app"></outline>
+            <outline title="Soju Releases" text="Soju Releases" xmlUrl="https://git.sr.ht/~emersion/soju/refs/rss.xml" htmlUrl="https://git.sr.ht/~emersion/soju/refs"></outline>
         </outline>
     </body>
 </opml>

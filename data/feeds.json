@@ -1,11 +1,6 @@
 {
   "blogs": [
     {
-      "title": " Matt Brunt",
-      "site": "https://brunty.me/",
-      "feed": "https://brunty.me/index.xml"
-    },
-    {
       "title": "Aaron Parecki",
       "site": "https://aaronparecki.com/",
       "feed": "https://aaronparecki.com/feed.json"
@@ -206,6 +201,11 @@
       "feed": "https://write.as/matt/feed/"
     },
     {
+      "title": "Matt Brunt",
+      "site": "https://brunty.me/",
+      "feed": "https://brunty.me/index.xml"
+    },
+    {
       "title": "Max Böck",
       "site": "https://mxb.dev",
       "feed": "https://mxb.dev/feed.xml"
@@ -395,11 +395,6 @@
   ],
   "general": [
     {
-      "title": "Alpine Linux",
-      "site": "https://alpinelinux.org/atom.xml",
-      "feed": "https://alpinelinux.org/atom.xml"
-    },
-    {
       "title": "Annoying Technology",
       "site": "https://annoying.technology/",
       "feed": "https://annoying.technology/index.xml"
@@ -440,19 +435,9 @@
       "feed": "https://blog.joinmastodon.org/index.xml"
     },
     {
-      "title": "Miniflux",
-      "site": "https://miniflux.app",
-      "feed": "https://miniflux.app/feed.xml"
-    },
-    {
       "title": "Security.NL",
       "site": "https://www.security.nl",
       "feed": "https://www.security.nl/rss/headlines.xml"
-    },
-    {
-      "title": "Soju Releases",
-      "site": "https://git.sr.ht/~emersion/soju/refs",
-      "feed": "https://git.sr.ht/~emersion/soju/refs/rss.xml"
     },
     {
       "title": "The Go Blog",
@@ -463,6 +448,28 @@
       "title": "zdimension",
       "site": "https://zdimension.fr/",
       "feed": "https://zdimension.fr/feed.xml"
+    }
+  ],
+  "software": [
+    {
+      "title": "Alpine Linux",
+      "site": "https://alpinelinux.org/atom.xml",
+      "feed": "https://alpinelinux.org/atom.xml"
+    },
+    {
+      "title": "Gamja Releases",
+      "site": "https://git.sr.ht/~emersion/gamja/refs",
+      "feed": "https://git.sr.ht/~emersion/gamja/refs/rss.xml"
+    },
+    {
+      "title": "Miniflux",
+      "site": "https://miniflux.app",
+      "feed": "https://miniflux.app/feed.xml"
+    },
+    {
+      "title": "Soju Releases",
+      "site": "https://git.sr.ht/~emersion/soju/refs",
+      "feed": "https://git.sr.ht/~emersion/soju/refs/rss.xml"
     }
   ]
 }
