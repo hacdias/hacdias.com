@@ -1494,6 +1494,20 @@
     ]
   },
   {
+    "domain": "brunty.me",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://brunty.me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/salary/",
+        "targetUrl": "https://brunty.me/"
+      }
+    ]
+  },
+  {
     "domain": "caddyserver.com",
     "count": 2,
     "links": [
@@ -2476,16 +2490,6 @@
     ]
   },
   {
-    "domain": "brunty.me",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/salary/",
-        "targetUrl": "https://brunty.me/"
-      }
-    ]
-  },
-  {
     "domain": "bsky.app",
     "count": 1,
     "links": [
@@ -3042,6 +3046,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/09/02/git-historia-repositorios-github/",
         "targetUrl": "http://git-scm.com/"
+      }
+    ]
+  },
+  {
+    "domain": "git-send-email.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/21/git-send-email/",
+        "targetUrl": "https://git-send-email.io/"
       }
     ]
   },
