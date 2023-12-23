@@ -1320,24 +1320,6 @@
     ]
   },
   {
-    "domain": "miniflux.app",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://miniflux.app/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://miniflux.app"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://miniflux.app/"
-      }
-    ]
-  },
-  {
     "domain": "neustadt.fr",
     "count": 3,
     "links": [
@@ -1872,6 +1854,20 @@
     ]
   },
   {
+    "domain": "miniflux.app",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://miniflux.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://miniflux.app/"
+      }
+    ]
+  },
+  {
     "domain": "modernconsensus.com",
     "count": 2,
     "links": [
@@ -2226,16 +2222,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/11/23/if-php-were-british/",
         "targetUrl": "https://aloneonahill.com/blog/if-php-were-british/"
-      }
-    ]
-  },
-  {
-    "domain": "alpinelinux.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://alpinelinux.org/atom.xml"
       }
     ]
   },
@@ -4236,16 +4222,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/05/06/visit-to-the-spoorwegmuseum/",
         "targetUrl": "https://www.spoorwegmuseum.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "sr.ht",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://git.sr.ht/~emersion/soju/refs"
       }
     ]
   },
