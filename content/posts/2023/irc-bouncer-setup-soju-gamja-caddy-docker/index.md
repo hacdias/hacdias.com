@@ -94,7 +94,7 @@ WORKDIR /srv
 CMD ["/srv/entrypoint.sh"]
 ```
 
-And now the entrypoint script:
+And now the `entrypoint.sh` script, which should be in the same directory as the Dockerfile:
 
 ```shell
 #!/usr/bin/env sh
