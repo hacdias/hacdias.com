@@ -1036,28 +1036,6 @@
     ]
   },
   {
-    "domain": "jvt.me",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/16/the-indieweb-movement/",
-        "targetUrl": "https://www.jvt.me/posts/2019/10/20/indieweb-talk/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://www.jvt.me/kind/articles/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/salary/",
-        "targetUrl": "https://www.jvt.me/posts/2021/09/09/public-salary-history/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/salary/",
-        "targetUrl": "https://www.jvt.me/salary/"
-      }
-    ]
-  },
-  {
     "domain": "linkedin.com",
     "count": 4,
     "links": [
@@ -1476,20 +1454,6 @@
     ]
   },
   {
-    "domain": "brunty.me",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://brunty.me/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/salary/",
-        "targetUrl": "https://brunty.me/"
-      }
-    ]
-  },
-  {
     "domain": "caddyserver.com",
     "count": 2,
     "links": [
@@ -1738,6 +1702,20 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "http://jvns.ca"
+      }
+    ]
+  },
+  {
+    "domain": "jvt.me",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/16/the-indieweb-movement/",
+        "targetUrl": "https://www.jvt.me/posts/2019/10/20/indieweb-talk/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://www.jvt.me/kind/articles/"
       }
     ]
   },
@@ -2134,20 +2112,6 @@
     ]
   },
   {
-    "domain": "xeiaso.net",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://xeiaso.net/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/salary/",
-        "targetUrl": "https://xeiaso.net/salary-transparency/"
-      }
-    ]
-  },
-  {
     "domain": "xkcd.com",
     "count": 2,
     "links": [
@@ -2472,6 +2436,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://jan.boddez.net"
+      }
+    ]
+  },
+  {
+    "domain": "brunty.me",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://brunty.me/"
       }
     ]
   },
@@ -4642,6 +4616,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://write.as/matt/"
+      }
+    ]
+  },
+  {
+    "domain": "xeiaso.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://xeiaso.net/"
       }
     ]
   },
