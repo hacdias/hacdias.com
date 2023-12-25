@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 76,
+    "count": 78,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -282,6 +282,14 @@
       {
         "sourceUrl": "https://hacdias.com/2023/11/30/november-23/",
         "targetUrl": "https://github.com/hacdias/indielib"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://github.com/mholt/caddy-l4"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://github.com/mholt/caddy-events-exec"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -1190,6 +1198,24 @@
     ]
   },
   {
+    "domain": "caddyserver.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
+        "targetUrl": "https://caddyserver.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://caddyserver.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://caddyserver.com/"
+      }
+    ]
+  },
+  {
     "domain": "dutchnews.nl",
     "count": 3,
     "links": [
@@ -1450,20 +1476,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://www.bosch-ebike.com/en/products/ebike-flow-app"
-      }
-    ]
-  },
-  {
-    "domain": "caddyserver.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
-        "targetUrl": "https://caddyserver.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://caddyserver.com/"
       }
     ]
   },
@@ -2000,6 +2012,20 @@
     ]
   },
   {
+    "domain": "soju.im",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://soju.im/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://soju.im/doc/soju.1.html"
+      }
+    ]
+  },
+  {
     "domain": "spotify.com",
     "count": 2,
     "links": [
@@ -2010,6 +2036,20 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
         "targetUrl": "https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd"
+      }
+    ]
+  },
+  {
+    "domain": "sr.ht",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://git.sr.ht/~emersion/gamja"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://git.sr.ht/~emersion/soju/commit/c5d07658aba786d449f4db9a2ef28f3e24465e00"
       }
     ]
   },
@@ -2756,6 +2796,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/12/06/an-update-on-leap-seconds/",
         "targetUrl": "https://dotat.at/@/2022-12-04-leap-seconds.html"
+      }
+    ]
+  },
+  {
+    "domain": "drew.onl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://drew.onl/posts/caddyfile-with-json/"
       }
     ]
   },
@@ -4706,6 +4756,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://zerokspot.com/"
+      }
+    ]
+  },
+  {
+    "domain": "znc.in",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://wiki.znc.in/Reverse_Proxy#Caddy"
       }
     ]
   },
