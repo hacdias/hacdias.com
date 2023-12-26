@@ -130,6 +130,18 @@ Notice that it checks for the `layer4.json` file. My goal was to make this image
 
 [^caddyproxy]: Another option would be to leverage the fact that the Caddy provisioned TLS certificates are present on disk. Then, share a Docker volume between Caddy's and soju's container. Then [configure](https://soju.im/doc/soju.1.html) soju's TLS option to use the Caddy certificates. With this strategy, you'd need to make sure soju would refresh the configuration when Caddy updates the certificates. This could potentially be done with [`caddy-events-exec`](https://github.com/mholt/caddy-events-exec) plugin.
 
+## Building gamja
+
+gamja does not provide already built files. However, building them is quite easy, but you need Node.js for this. Just clone the repository, install the dependencies, and build the minified version of the frontend. The built files are just static HTML, CSS and JS files. Copy them into a directory that you will attach to the Caddy container to serve.
+
+```bash
+git clone https://git.sr.ht/~emersion/gamja
+cd gamja
+npm install --include=dev
+npm run build
+cp -R build /www/path/gamja
+```
+
 ## The soju Configuration
 
 Create a `config.ini` file for Soju [configuration](https://soju.im/doc/soju.1.html) and add the following. Don't forget to replace the example names and hostnames by your server name, and your address. This configuration stores the database and messages on the default directories. These will be mounted as Docker volumes.
@@ -152,18 +164,6 @@ This configuration listens on quite a few ports. Let's quickly break it down:
 - `unix+admin://` is the socket used by `sojuctl`. This will only be used for some administrative commands and must not be exposed outside the container.
 - `irc+insecure://0.0.0.0:6667` is the IRC protocol itself. This will be reverse proxied with Caddy in order to add TLS on top.
 - `ws+insecure://0.0.0.0:3030` is the WebSocket that will be reverse proxied by Caddy and used by gamja. Caddy will also take care of the TLS of this one.
-
-## Build gamja
-
-gamja does not provide already built files. However, building them is quite easy, but you need Node.js for this. Just clone the repository, install the dependencies, and build the minified version of the frontend. The built files are just static HTML, CSS and JS files. Copy them into a directory that you will attach to the Caddy container to serve.
-
-```bash
-git clone https://git.sr.ht/~emersion/gamja
-cd gamja
-npm install --include=dev
-npm run build
-cp -R build /www/path/gamja
-```
 
 ## The Caddy Configuration
 
@@ -220,7 +220,7 @@ And now create a `layer4.json` file with the configuration to proxy the IRC traf
 }
 ```
 
-## Docker Compose
+## The Docker Compose
 
 Now, the last piece of the puzzle is the Docker compose file combining all this things. My `compose.yaml` directly references the directories in which the Dockerfiles for both soju and Caddy are located, such that I can just build them directly. Don't forget to change the paths to the correct paths in your system.
 
