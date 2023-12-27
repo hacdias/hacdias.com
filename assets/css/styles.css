@@ -7,8 +7,8 @@
   --f5: 0.833rem;
 
   /* Colors */
-  --c-h: 96;
-  --c-s: 42%;
+  --c-h: 220;
+  --c-s: 50%;
   --c-l: 42%;
   --c: hsl(var(--c-h), var(--c-s), var(--c-l));
   --c-text: #f4f4f4;
@@ -777,7 +777,7 @@ main pre {
     padding: 0 var(--ls);
   }
 
-  #navbar, .lightrope {
+  #navbar {
     width: 100%;
     margin-left: 0;
   }
@@ -845,145 +845,5 @@ main pre {
 
   a:hover {
     background: none;
-  }
-}
-
-/*! Adapted from https://codepen.io/tobyj/pen/QjvEex */
-.lightrope {
-  text-align: center;
-  white-space: nowrap;
-  overflow: hidden;
-  padding: 0;
-  pointer-events: none;
-  margin-top: calc(-1 * var(--hls));
-}
-
-.lightrope li {
-  position: relative;
-  animation-fill-mode: both;
-  animation-iteration-count: infinite;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: block;
-  width: 12px;
-  height: 28px;
-  border-radius: 50%;
-  margin: 4px 20px 20px 20px;
-  display: inline-block;
-  background: #00f7a5;
-  box-shadow: 0px 4px 20px 3px #00f7a5;
-  animation-name: flash-blue;
-  animation-duration: 2s;
-}
-
-.lightrope + * {
-  margin-top: -1rem;
-}
-
-.lightrope li:nth-child(2n+1) {
-  background: #0A53DE;
-  box-shadow: 0px 4px 20px 3px #0A53DE;
-  animation-name: flash-red;
-  animation-duration: 0.4s;
-}
-
-.lightrope li:nth-child(4n+2) {
-  background: #FBF21A;
-  box-shadow: 0px 4px 20px 3px #FBF21A;
-  animation-name: flash-yellow;
-  animation-duration: 1.1s;
-}
-
-.lightrope li:nth-child(6n+2) {
-  background: #24D024;
-  box-shadow: 0px 4px 20px 3px #24D024;
-  animation-name: flash-green;
-  animation-duration: 0.8s;
-}
-
-.lightrope li:nth-child(odd) {
-  animation-duration: 1.8s;
-}
-
-.lightrope li:nth-child(3n+1) {
-  animation-duration: 1.4s;
-}
-
-.lightrope li:before {
-  content: "";
-  position: absolute;
-  background: #222;
-  width: 10px;
-  height: 9.3333333333px;
-  border-radius: 3px;
-  top: -4px;
-  left: 1px;
-}
-
-.lightrope li:after {
-  content: "";
-  top: -14px;
-  left: 9px;
-  position: absolute;
-  width: 52px;
-  height: 18.6666666667px;
-  border-bottom: solid #222 2px;
-  border-radius: 50%;
-}
-
-.lightrope li:last-child:after {
-  content: none;
-}
-
-@keyframes flash-yellow {
-  0%,
-  100% {
-    background: #FBF21A;
-    box-shadow: 0px 4px 20px 3px #FBF21A;
-  }
-
-  50% {
-    background: rgba(251, 242, 26, 0.4);
-    box-shadow: 0px 4px 20px 3px rgba(251, 242, 26, 0.2);
-  }
-}
-
-@keyframes flash-blue {
-  0%,
-  100% {
-    background: #0A53DE;
-    box-shadow: 0px 4px 20px 3px #0A53DE;
-  }
-
-  50% {
-    background: rgba(10, 83, 222, 0.4);
-    box-shadow: 0px 4px 20px 3px rgba(10, 83, 222, 0.2);
-  }
-}
-
-@keyframes flash-green {
-  0%,
-  100% {
-    background: rgb(36, 208, 36);
-    box-shadow: 0px 4px 20px 3px #24D024;
-  }
-
-  50% {
-    background: rgba(36, 208, 36, 0.4);
-    box-shadow: 0px 4px 20px 3px rgba(36, 208, 36, 0.2);
-  }
-}
-
-@keyframes flash-red {
-  0%,
-  100% {
-    background: rgb(227, 37, 23);
-    box-shadow: 0px 4px 20px 3px #e32517;
-  }
-
-  50% {
-    background: rgba(227, 37, 23, 0.4);
-    box-shadow: 0px 4px 20px 3px rgba(227, 37, 23, 0.2);
   }
 }
