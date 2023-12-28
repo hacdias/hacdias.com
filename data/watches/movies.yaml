@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: 'Top Gun: Maverick'
+  date: 2023-12-27
+  rating: 4
 - name: Leave The World Behind
   date: 2023-12-15
   rating: 3
