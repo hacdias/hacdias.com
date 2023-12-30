@@ -1,5 +1,5 @@
 ---
-title: Spotify Wrapped 2023
+title: "Spotify Wrapped '23"
 date: 2023-11-30T08:14:33+01:00
 categories:
 - articles
