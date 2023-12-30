@@ -636,6 +636,15 @@ trips:
   - { departure: 2023-12-03T12:07:00+01:00, arrival: 2023-12-03T12:33:00+01:00, origin: *koln_hbf, destination: *neuss_hbf, type: train, operator: RRX, number: RE6 }
   - { departure: 2023-12-03T13:01:00+01:00, arrival: 2023-12-03T13:56:00+01:00, origin: *neuss_hbf, destination: *station_venlo, type: train, operator: Eurobahn, number: RE13 }
   - { departure: 2023-12-03T14:04:00+01:00, arrival: 2023-12-03T14:42:00+01:00, origin: *station_venlo, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC3763 }
+- name: Christmas Holiday With Family
+  place: "🇵🇹 Santana da Serra"
+  start: 2023-12-21
+  date: 2023-12-28
+  latitude: 37.500635
+  longitude: -8.300669
+  itinerary:
+  - { departure: 2023-12-21T17:45:00+01:00, arrival: 2023-12-21T19:45:00Z, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR5769 }
+  - { departure: 2023-12-28T13:15:00Z, arrival: 2023-12-28T17:20:00+01:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR5768 }
 # - name:
 #   place:
 #   start:
