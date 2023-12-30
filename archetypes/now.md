@@ -16,9 +16,13 @@ How was last month?
 
 ## 🍄 Life
 
+## 💪 Health
+
 ## 📚 Reading
 
 ## 🍿 Entertainment
+
+## 🎮 Gaming
 
 <hr>
 
