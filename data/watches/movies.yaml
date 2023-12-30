@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Happy Ending
+  date: 2023-12-29
+  rating: 3
 - name: 'Top Gun: Maverick'
   date: 2023-12-27
   rating: 4
