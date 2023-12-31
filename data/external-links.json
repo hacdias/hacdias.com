@@ -477,7 +477,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 18,
+    "count": 19,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -550,6 +550,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/11/30/november-23/",
         "targetUrl": "https://indieweb.org/Category:syndication"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/30/year-in-review/",
+        "targetUrl": "https://events.indieweb.org"
       }
     ]
   },
@@ -788,6 +792,44 @@
     ]
   },
   {
+    "domain": "youtube.com",
+    "count": 8,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
+        "targetUrl": "https://www.youtube.com/watch?v=JwYX52BP2Sk"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://www.youtube.com/watch?v=HXTC5LSep3M"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://www.youtube.com/watch?v=gB9n2gHsHN4"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/01/january-22/",
+        "targetUrl": "https://www.youtube.com/watch?v=ZJAx-dHuVA4"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/29/thread-by-giovannigruni-on-new-italian-government/",
+        "targetUrl": "https://www.youtube.com/watch?v=ERAQxZuXdyc"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
+        "targetUrl": "https://www.youtube.com/watch?v=PemFIEJtUSw\u0026t=2904s"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/03/update-on-ovpay-experiment/",
+        "targetUrl": "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/30/year-in-review/",
+        "targetUrl": "https://www.youtube.com/watch?v=c_DOG_mXz5w"
+      }
+    ]
+  },
+  {
     "domain": "seblog.nl",
     "count": 7,
     "links": [
@@ -818,40 +860,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://seblog.nl/feed"
-      }
-    ]
-  },
-  {
-    "domain": "youtube.com",
-    "count": 7,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
-        "targetUrl": "https://www.youtube.com/watch?v=JwYX52BP2Sk"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://www.youtube.com/watch?v=HXTC5LSep3M"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://www.youtube.com/watch?v=gB9n2gHsHN4"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/01/january-22/",
-        "targetUrl": "https://www.youtube.com/watch?v=ZJAx-dHuVA4"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/29/thread-by-giovannigruni-on-new-italian-government/",
-        "targetUrl": "https://www.youtube.com/watch?v=ERAQxZuXdyc"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
-        "targetUrl": "https://www.youtube.com/watch?v=PemFIEJtUSw\u0026t=2904s"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/03/update-on-ovpay-experiment/",
-        "targetUrl": "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
       }
     ]
   },
@@ -1356,6 +1364,24 @@
       {
         "sourceUrl": "https://hacdias.com/2015/03/31/how-to-create-a-node-js-command-line-application/",
         "targetUrl": "https://nodejs.org/api/readline.html"
+      }
+    ]
+  },
+  {
+    "domain": "protocol.ai",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
+        "targetUrl": "https://protocol.ai"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/30/year-in-review/",
+        "targetUrl": "https://protocol.ai/blog/advancing-ipfs-and-libp2p-governance/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://protocol.ai/"
       }
     ]
   },
@@ -1924,20 +1950,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
         "targetUrl": "https://reisoverzicht.ovpay.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "protocol.ai",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2018/10/27/working-at-protocol-labs/",
-        "targetUrl": "https://protocol.ai"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://protocol.ai/"
       }
     ]
   },
