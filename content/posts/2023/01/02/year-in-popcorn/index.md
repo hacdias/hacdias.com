@@ -5,6 +5,8 @@ categories:
   - articles
 tags:
   - year-in-popcorn
+aliases:
+  - /2023/01/02/year-in-popcorn-22/
 ---
 
 <style>
@@ -61,9 +63,9 @@ Then, I decided it would be a great idea to see my movie watching habits in two 
 
 <div class='fg'>
 
-![](/2023/01/02/year-in-popcorn-22/movies_weekday.svg)
+![](/2023/01/02/year-in-popcorn/movies_weekday.svg)
 
-![](/2023/01/02/year-in-popcorn-22/movies_month.svg)
+![](/2023/01/02/year-in-popcorn/movies_month.svg)
 
 </div>
 
@@ -103,9 +105,9 @@ Similarly to what I did for the movies, I also plotted how many episodes I've wa
 
 <div class='fg'>
 
-![](/2023/01/02/year-in-popcorn-22/episodes_weekday.svg)
+![](/2023/01/02/year-in-popcorn/episodes_weekday.svg)
 
-![](/2023/01/02/year-in-popcorn-22/episodes_month.svg)
+![](/2023/01/02/year-in-popcorn/episodes_month.svg)
 
 </div>
 

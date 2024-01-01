@@ -5,6 +5,8 @@ categories:
   - articles
 tags:
   - year-in-music
+aliases:
+  - /2022/01/01/year-in-music-21/
 ---
 
 <style>

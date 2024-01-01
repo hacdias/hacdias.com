@@ -35,7 +35,7 @@ This here came with some interesting surprises. Not only is my phone in Dutch, a
 
 </div>
 
-RAYE is the absolute number 1 this year, which is slightly expected. I'm so sad I could not get a ticket for any of her concerts in Amsterdam... I highly recommending checking out her music. Then we have Miley, Froukje (Dutch), Tove Lo and MARINA. It's quite different from [last year](/2023/01/02/year-in-music-22/): only MARINA survived my Spotify Wrapped.
+RAYE is the absolute number 1 this year, which is slightly expected. I'm so sad I could not get a ticket for any of her concerts in Amsterdam... I highly recommending checking out her music. Then we have Miley, Froukje (Dutch), Tove Lo and MARINA. It's quite different from [last year](/2023/01/02/year-in-music/): only MARINA survived my Spotify Wrapped.
 
 I seem to have listened to slightly less music on Spotify: around 10 000 minutes less than last year. Maybe that can be explained by the fact we now have a vinyl player and we listen to quite a lot of records that do not go into digital statistics.
 

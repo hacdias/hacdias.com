@@ -6,6 +6,8 @@ categories:
 tags:
   - year-in-music
   - spotify-wrapped
+aliases:
+  - /2023/01/02/year-in-music-22/
 ---
 
 <style>
