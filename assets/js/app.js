@@ -45,6 +45,7 @@ function addEmoji (el) {
     const span = document.createElement('span')
     span.title = title
     span.innerText = emoji
+    el.innerHTML += ' '
     el.appendChild(span)
   }
 }
