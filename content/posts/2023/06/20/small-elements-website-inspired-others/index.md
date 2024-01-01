@@ -36,7 +36,7 @@ For example, at the present it's June, therefore Pride Month. So my website show
 
 ## Homepage Posts Listing
 
-In [May](/2023/05/31/may-23/) I made a relatively noticeable update to my homepage: I removed the regular listing of posts, in favour of a simple list with the latest 4 posts, plus 4 favorite posts. This is inspired by [Jim's blog](https://blog.jim-nielsen.com/), and it was something that has been on my list for quite some time. I want my website's homepage to be slightly more curated than it was before. In addition, I also added some of the latest images I published.
+In [May](/2023/05/31/recently/) I made a relatively noticeable update to my homepage: I removed the regular listing of posts, in favour of a simple list with the latest 4 posts, plus 4 favorite posts. This is inspired by [Jim's blog](https://blog.jim-nielsen.com/), and it was something that has been on my list for quite some time. I want my website's homepage to be slightly more curated than it was before. In addition, I also added some of the latest images I published.
 
 ![](cdn:/081ef31ac2089c38ae7eb7af440ee702af52e6e8b4bec8b5041ba3dc23755d4b?class=fw)
 
