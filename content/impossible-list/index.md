@@ -23,8 +23,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 8. [ ] See the Aurora Borealis
 9.  [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 10. [x] ~~Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train~~ <small>[[Eurostar](https://www.eurostar.com/)] [April 2022]</small>
-11. [x] ~~Travel on a 🚂 steam train~~ <small>[[Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)] [[July 2023](/2023/07/31/july-23/)]</small>
-12. [x] ~~Travel on a 🍽️ restaurant train~~ <small>[[Dinner Train](https://dinnertrain.eu/)] [[August 2023](/2023/08/31/august-23/)]</small>
+11. [x] ~~Travel on a 🚂 steam train~~ <small>[[Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)] [[July 2023](/2023/07/31/recently/)]</small>
+12. [x] ~~Travel on a 🍽️ restaurant train~~ <small>[[Dinner Train](https://dinnertrain.eu/)] [[August 2023](/2023/08/31/recently/)]</small>
     1.  [x] ~~Travel on an historical 🍽️ restaurant **steam** train~~ <small>[[Miljoenenlijn](https://miljoenenlijn.nl/)] [October 2023]</small>
 13. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
     1.  [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>

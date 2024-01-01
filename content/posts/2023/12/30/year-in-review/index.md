@@ -37,7 +37,7 @@ During this year post-university, I've opted for working in a co-working space c
 
 ![](cdn:/2023-12-church-santana?class=right "Santana da Serra Church Tower")
 
-Something else I would like to note is how many train rides I took this year. Specifically, special 🚂 train rides, not ordinary ones. I've ridden the new [ICNG](/2023/06/30/june-23/), a [steam train in Germany](/2023/07/31/july-23/), a [Dinner Train](/2023/08/31/august-23/), and a [steam lunch train](/2023/10/31/october-23/). I think that was all for this year. It might not sound like much, but it was a lot of fun.
+Something else I would like to note is how many train rides I took this year. Specifically, special 🚂 train rides, not ordinary ones. I've ridden the new [ICNG](/2023/06/30/recently/), a [steam train in Germany](/2023/07/31/recently/), a [Dinner Train](/2023/08/31/recently/), and a [steam lunch train](/2023/10/31/recently/). I think that was all for this year. It might not sound like much, but it was a lot of fun.
 
 Regarding my *Nederlands* skills, I would say that there have been quite a lot of improvements. I do feel more comfortable talking, even if I make mistakes. It is still not enough for what I want to achieve, but it is progress. I think it was the year that I had the most progress with my Dutch so far. I'm not going to elongate myself here, as I want to talk a bit more about it in my Dutch post next month.
 
