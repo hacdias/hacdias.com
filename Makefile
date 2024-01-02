@@ -35,4 +35,4 @@ watch-all:
 
 kind ?= article
 new:
-	hugo new --kind $(kind) content/posts/$(shell date +%Y)/$(name)/index.md
+	hugo new --kind $(kind) content/posts/$(shell date +%Y)/$(shell date +%m)/$(shell date +%d)/$(name)/index.md
