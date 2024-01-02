@@ -25,16 +25,3 @@ main li > ol {
 .trips ul li {
   margin: 0;
 }
-
-@media screen and (min-width: 53.001rem) {
-  body {
-    background-color: #111;
-    background-image: url(https://cdn.hacdias.com/media/2021-02-space.gif);
-  }
-
-  #navbar {
-    border-radius: 0;
-    border-left: none;
-    border-right: none;
-  }
-}
