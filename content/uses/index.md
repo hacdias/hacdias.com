@@ -9,47 +9,19 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 ## 📟 Hardware {#hardware}
 
-<div class='box logs'>
-  <div class='e'>
-    <div>Laptop</div>
-    <div>2021 MacBook Pro 14"</div>
-  </div>
-  <div class='e'>
-    <div>Smartphone</div>
-    <div>iPhone 14 Pro</div>
-  </div>
-  <div class='e'>
-    <div>Tablet</div>
-    <div>2018 iPad Pro 11"</div>
-  </div>
-  <div class='e'>
-    <div>Headphones</div>
-    <div>Sony WH-1000XM5</div>
-  </div>
-  <div class='e'>
-    <div>Earphones</div>
-    <div>AirPods Pro (2nd Gen)</div>
-  </div>
-  <div class='e'>
-    <div>Console</div>
-    <div>Nintendo Switch, PlayStation 5</div>
-  </div>
-  <div class='e'>
-    <div>Tracking Device</div>
-    <div>AirTags</div>
-  </div>
-  <div class='e'>
-    <div>Auth Device</div>
-    <div>YubiKeys, for 2FA, GPG and SSH</div>
-  </div>
-  <div class='e'>
-    <div>Wallet</div>
-    <div>Secrid, for my cards and spare bills</div>
-  </div>
-  <div class='e'>
-    <div>KeyChain</div>
-    <div>Orbitkey Key Organizer</div>
-  </div>
+<div class='box tb'>
+
+- **Laptop** <span>2021 MacBook Pro 14"</span>
+- **Smartphone** <span>iPhone 14 Pro</span>
+- **Tablet** <span>2018 iPad Pro 11"</span>
+- **Headphones** <span>Sony WH-1000XM5</span>
+- **Earphones** <span>AirPods Pro (2nd Gen)</span>
+- **Console** <span>Nintendo Switch, PlayStation 5</span>
+- **Tracking Device** <span>AirTags</span>
+- **Auth Device** <span>YubiKeys, for 2FA, GPG and SSH</span>
+- **Wallet** <span>Secrid, for my cards and spare bills</span>
+- **KeyChain** <span>Orbitkey Key Organizer</span>
+
 </div>
 
 ### 💼 Coworking Space
@@ -58,39 +30,17 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my daily basis to work. Being in a coworking space allows me to separate work from personal things. Besides, since my work is fully remote, going to a coworking place is also a way of interacting with others in-person.
 
-<div class='box logs'>
-  <div class='e'>
-    <div>Desk</div>
-    <div>Unknown Manual Adjustable Desk (Rented)</div>
-  </div>
-  <div class='e'>
-    <div>Chair</div>
-    <div>Herman Miller Mirra (Rented)</div>
-  </div>
-  <div class='e'>
-    <div>Monitor Stand</div>
-    <div>IKEA ELLOVEN</div>
-  </div>
-  <div class='e'>
-    <div>Monitor</div>
-    <div>Asus VG27A</div>
-  </div>
-  <div class='e'>
-    <div>Keyboard</div>
-    <div>NuPhy Air 75</div>
-  </div>
-  <div class='e'>
-    <div>Mouse</div>
-    <div>Asus Strix Impact</div>
-  </div>
-  <div class='e'>
-    <div>Dock</div>
-    <div>CalDigit TS3 Plus</div>
-  </div>
-  <div class='e'>
-    <div>Laptop Stand</div>
-    <div>Rain mStand</div>
-  </div>
+<div class='box tb'>
+
+- **Desk** <span>Unknown Manual Adjustable Desk (Rented)</span>
+- **Chair** <span>Herman Miller Mirra (Rented)</span>
+- **Monitor Stand** <span>IKEA ELLOVEN</span>
+- **Monitor** <span>Asus VG27A</span>
+- **Keyboard** <span>NuPhy Air 75</span>
+- **Mouse** <span>Asus Strix Impact</span>
+- **Dock** <span>CalDigit TS3 Plus</span>
+- **Laptop Stand** <span>Rain mStand</span>
+
 </div>
 
 ### 🏡 Home
@@ -99,157 +49,58 @@ I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my dail
 
 At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
-<div class='box logs'>
-  <div class='e'>
-    <div>Desk</div>
-    <div>Ahrend Balance Solo (Electric, 120 x 80)</div>
-  </div>
-  <div class='e'>
-    <div>Chair</div>
-    <div>Zinn Smart</div>
-  </div>
-  <div class='e'>
-    <div>Monitor Stand</div>
-    <div>IKEA SIGFINN</div>
-  </div>
-  <div class='e'>
-    <div>Monitor</div>
-    <div>Dell U2720Q</div>
-  </div>
-  <div class='e'>
-    <div>Keyboard</div>
-    <div>NuPhy Air 96, Magic Keyboard</div>
-  </div>
-  <div class='e'>
-    <div>Mouse</div>
-    <div>Magic Trackpad, Logitech G502 X</div>
-  </div>
-  <div class='e'>
-    <div>Laptop Stand</div>
-    <div>Rain mStand, The Roost v3</div>
-  </div>
-  <div class='e'>
-    <div>Dock</div>
-    <div>CalDigit TS4</div>
-  </div>
+<div class='box tb'>
+
+- **Desk** <span>Ahrend Balance Solo (Electric, 120 x 80)</span>
+- **Chair** <span>Zinn Smart</span>
+- **Monitor Stand** <span>IKEA SIGFINN</span>
+- **Monitor** <span>Dell U2720Q</span>
+- **Keyboard** <span>NuPhy Air 96, Magic Keyboard</span>
+- **Mouse** <span>Magic Trackpad, Logitech G502 X</span>
+- **Laptop Stand** <span>Rain mStand, The Roost v3</span>
+- **Dock** <span>CalDigit TS4</span>
+
 </div>
 
 ### 📷 Photography {#photography}
 
 On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
-<div class='box logs'>
-  <div class='e'>
-    <div>Camera</div>
-    <div>Fujifilm X-T4</div>
-  </div>
-  <div class='e'>
-    <div>Lenses</div>
-    <div>XF 18-55mm f/2.8-4.0 OIS, XF 27mm F/2.8</div>
-  </div>
-  <div class='e'>
-    <div>Tripod</div>
-    <div>Manfrotto Befree</div>
-  </div>
+<div class='box tb'>
+
+- **Camera** <span>Fujifilm X-T4</span>
+- **Lenses** <span>XF 18-55mm f/2.8-4.0 OIS, XF 27mm F/2.8</span>
+- **Tripod** <span>Manfrotto Befree</span>
+
 </div>
 
 ## 📀 Software {#software}
 
 The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some may call this [App Defaults](https://defaults.rknight.me/).
 
-<div class='box logs'>
-  <div class='e'>
-    <div>E-mail Client</div>
-    <div>Native macOS and iOS apps</div>
-  </div>
-  <div class='e'>
-    <div>E-mail Server</div>
-    <div><a href='https://www.fastmail.com' rel='noopener noreferrer'>Fastmail</a> and Gmail - slowly moving away from Google</div>
-  </div>
-  <div class='e'>
-    <div>Notes</div>
-    <div>Native macOS and iOS apps, pen and paper</div>
-  </div>
-  <div class='e'>
-    <div>Reminders</div>
-    <div>Native macOS and iOS apps</div>
-  </div>
-  <div class='e'>
-    <div>Photo Management</div>
-    <div>Native macOS and iOS apps, file system for RAW</div>
-  </div>
-  <div class='e'>
-    <div>Calendar</div>
-    <div>Native macOS and iOS apps, Fastmail</div>
-  </div>
-  <div class='e'>
-    <div>Contacts</div>
-    <div>Native macOS and iOS apps, Fastmail</div>
-  </div>
-  <div class='e'>
-    <div>Cloud File Storage</div>
-    <div>iCloud, Google Drive</div>
-  </div>
-  <div class='e'>
-    <div>RSS Reader</div>
-    <div><a rel='noopener noreferrer' href='https://miniflux.app/'>Miniflux</a></div>
-  </div>
-  <div class='e'>
-    <div>Browser</div>
-    <div>Chrome on macOS, Safari on iOS</div>
-  </div>
-  <div class='e'>
-    <div>Chat</div>
-    <div>WhatsApp, Telegram</div>
-  </div>
-  <div class='e'>
-    <div>Bookmarks</div>
-    <div>Browser, <a href='/bookmarks/'>Bookmarks Page</a></div>
-  </div>
-  <div class='e'>
-    <div>Documents</div>
-    <div>Google Docs</div>
-  </div>
-  <div class='e'>
-    <div>News</div>
-    <div>NRC 🇳🇱, Público 🇵🇹, some tech blogs</div>
-  </div>
-  <div class='e'>
-    <div>Music and Podcasts</div>
-    <div>Spotify</div>
-  </div>
-  <div class='e'>
-    <div>Password Manager</div>
-    <div>1Password</div>
-  </div>
-  <div class='e'>
-    <div>Operating System</div>
-    <div>macOS, iOS, Linux (Alpine usually)</div>
-  </div>
-   <div class='e'>
-    <div>Code Editor</div>
-    <div><a href='https://code.visualstudio.com/' rel='noopener noreferrer'>Visual Studio Code</a> and <a href='https://www.vim.org/' rel='noopener noreferrer'>vim</a></div>
-  </div>
-   <div class='e'>
-    <div>Terminal</div>
-    <div><a href='https://iterm2.com/' rel='noopener noreferrer'>iTerm</a> with <a href='https://en.wikipedia.org/wiki/Z_shell' rel='noopener noreferrer'>zsh</a> and <a href='https://ohmyz.sh/' rel='noopener noreferrer'>oh my zsh</a> - see my <a href='https://github.com/hacdias/dotfiles' rel='noopener noreferrer'>dotfiles</a></div>
-  </div>
-  <div class='e'>
-    <div>Web Server</div>
-    <div><a rel='noopener noreferrer' href='https://caddyserver.com/'>Caddy</a></div>
-  </div>
-  <div class='e'>
-    <div>Hosting Provider</div>
-    <div>
-      <a rel='noopener noreferrer' href='https://www.hetzner.com/'>Hetzner</a>
-    </div>
-  </div>
-  <div class='e'>
-    <div>Domain Registrars</div>
-    <div>
-      <a rel='noopener noreferrer' href='https://www.namecheap.com'>Namecheap</a>,
-      <a rel='noopener noreferrer' href='https://porkbun.com'>Porkbun</a> and
-      <a rel='noopener noreferrer' href='https://ptservidor.pt'>PTServidor</a>
-    </div>
-  </div>
+<div class='box tb'>
+
+- **E-mail Client** <span>Native macOS and iOS apps</span>
+- **E-mail Server** <span>[Fastmail](https://www.fastmail.com) and Gmail - slowly moving away from Google</span>
+- **Notes** <span>Native macOS and iOS apps, pen and paper</span>
+- **Reminders** <span>Native macOS and iOS apps</span>
+- **Photo Management** <span>Native macOS and iOS apps, file system for RAW</span>
+- **Calendar** <span>Native macOS and iOS apps, Fastmail</span>
+- **Contacts** <span>Native macOS and iOS apps, Fastmail</span>
+- **Cloud File Storage** <span>iCloud, Google Drive</span>
+- **RSS Reader** <span>[Miniflux](https://miniflux.app/)</span>
+- **Browser** <span>Chrome on macOS, Safari on iOS</span>
+- **Chat** <span>WhatsApp, Telegram</span>
+- **Bookmarks** <span>Browser, [Bookmarks Page](/bookmarks/)</span>
+- **Documents** <span>Google Docs</span>
+- **News** <span>NRC 🇳🇱, Público 🇵🇹, some tech blogs</span>
+- **Music and Podcasts** <span>Spotify</span>
+- **Password Manager** <span>1Password</span>
+- **Operating System** <span>macOS, iOS, Linux (Alpine usually)</span>
+- **Code Editor** <span>[Visual Studio Code](https://code.visualstudio.com/) and [vim](https://www.vim.org/)</span>
+- **Terminal** <span>[iTerm](https://iterm2.com/) with [zsh](https://en.wikipedia.org/wiki/Z_shell) and [oh my zsh](https://ohmyz.sh/) - see my [dotfiles](https://github.com/hacdias/dotfiles)</span>
+- **Web Server** <span>[Caddy](https://caddyserver.com/)</span>
+- **Hosting Provider** <span>[Hetzner](https://www.hetzner.com/)</span>
+- **Domain Registrars** <span>[Namecheap](https://www.namecheap.com), [Porkbun](https://porkbun.com) and [PTServidor](https://ptservidor.pt)</span>
+
 </div>

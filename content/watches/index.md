@@ -16,12 +16,12 @@ img.popcorn {
 
 ## 🎤 Performances {#performances}
 
-{{< logs "watches" "live" >}}
+{{< logs data="watches.live" class="performances" withAuthor=true >}}
 
 ## 🎬 Movies {#movies}
 
-{{< logs "watches" "movies" >}}
+{{< logs data="watches.movies" >}}
 
 ## 📺 Shows {#shows}
 
-{{< logs "watches" "shows" >}}
+{{< logs data="watches.shows" >}}

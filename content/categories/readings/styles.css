@@ -9,3 +9,11 @@
   --c-s: 30%;
   --c-l: 50%;
 }
+
+.tb li {
+  grid-template-columns: auto 16rem 78px;
+}
+
+.tb.read li {
+  grid-template-columns: auto 10rem 5rem 78px;
+}

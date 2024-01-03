@@ -46,25 +46,29 @@ details summary .count {
     <small class='lg count'>{{ .count }}</small>
   </summary>
 
-  <div class='logs'>
-    <div class='e'>
-      <div></div>
-      <div><strong>hacdias.com</strong></div>
-      <div></div>
-      <div><strong>{{ .domain }}</strong></div>
-    </div>
-    {{ range $i, $lnk := .links }}
-    <div class='e'>
-      <div>{{ $i }}</div>
-      <div>
-        <a href="{{ .sourceUrl }}">{{ (urls.Parse .sourceUrl).Path }}</a>
-      </div>
-      <div><small class='lg'>→</small></div>
-      <div>
-        <a href="{{ .targetUrl }}" rel="noreferrer noopener">{{ or ((urls.Parse .targetUrl).Path) "/" }}</a>
-      </div>
-    </div>
-    {{ end }}
-  </div>
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th colspan=2>hacdias.com</th>
+        <th>{{ .domain }}</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {{ range $i, $lnk := .links }}
+      <tr>
+        <td>{{ $i }}</td>
+        <td>
+          <a href="{{ .sourceUrl }}">{{ (urls.Parse .sourceUrl).Path }}</a>
+        </td>
+        <td><small class='lg'>→</small></td>
+        <td>
+          <a href="{{ .targetUrl }}" rel="noreferrer noopener">{{ or ((urls.Parse .targetUrl).Path) "/" }}</a>
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
 </details>
 {{ end }}

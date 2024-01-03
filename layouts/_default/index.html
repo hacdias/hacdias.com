@@ -40,24 +40,18 @@
 {{ end }}
 
 {{- define "item" }}
-<div class='e h-entry'>
-  <div>
-    <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>{{ .Title }}</a>
-  </div>
-  <div>
-    <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small dt-published'>{{ .Date.Format "02 Jan 2006" }}</time>
-  </div>
-</div>
+<li class='h-entry'>
+  <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>{{ .Title }}</a>
+  <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small dt-published'>{{ .Date.Format "2006-01-02" }}</time>
+</li>
 {{- end }}
 
 {{- define "items" }}
-<div class='h-feed logs'>
-  <div>
-    {{ range (first 4 . ) }}
-      {{ template "item" . }}
-    {{ end }}
-  </div>
-</div>
+<ul class='h-feed tb'>
+  {{ range (first 4 . ) }}
+    {{ template "item" . }}
+  {{ end }}
+</ul>
 {{ end }}
 
 {{- define "photos" }}

@@ -2,20 +2,21 @@
   <header>
     <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
   </header>
+
   {{ partialCached "post/content" . .Permalink }}
 
   {{ $logs := .Site.Data.readings }}
 
   <h2 id='want-to-read'>📖 Want To Read</h2>
   {{ with (index $logs "want-to-read")}}
-    {{ template "ulogs" . }}
+    {{ template "logs" . }}
   {{ else }}
     <p>No books on my list right now. Feel free to <a href="/contact">suggest</a> something?</p>
   {{ end }}
 
   <h2 id='reading'>📚 Reading</h2>
   {{ with (index $logs "reading")}}
-    {{ template "ulogs" . }}
+    {{ template "logs" . }}
   {{ else }}
     <p>Not reading anything at the moment.</p>
   {{ end }}
@@ -24,22 +25,21 @@
 
   {{ $read := partial "fns/pages-as-logs" .Pages }}
   {{ $read = $read | append (index $logs "read" ) }}
-  {{ partial "logs" $read }}
+  {{ partial "logs" (dict "Data" $read "WithAuthor" true "WithRating" true "Class" "read") }}
 {{ end }}
 
-{{ define "ulogs" }}
-<div class='logs'>
+{{ define "logs" }}
+<ul class='tb'>
   {{ range . }}
-    <div class='e'>
-      <div>
+    <li>
+      <span>
         {{ with .url }}<a href='{{ . }}' class='nl lh'>{{ end }}
           {{ .name }}
         {{ with .url }}</a>{{ end }}
-      </div>
-      <div>{{ .author }}</div>
-      <div></div>
-      <div><time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}' class='tab lg small'>{{ dateFormat "Jan 02" .date }}</time></div>
-    </div>
+      </span>
+      <span>{{ .author }}</span>
+      <span><time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}' class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time></span>
+    </li>
   {{ end }}
-</div>
+</ul>
 {{ end }}
