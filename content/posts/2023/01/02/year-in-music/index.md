@@ -272,11 +272,9 @@ Not as interesting as the albums and artists, but, for the record, I am also kee
 
 </details>
 
-
 ## 🎫 Concerts 
 
 Not only did I go to my first real concert in 2022, but also went to perhaps way too many. I saw Marina, Lorde, MØ, Tove Lo and Lady Gaga. They were all incredible in their own way and I am grateful I was able to attend all of them. Living in The Netherlands, it is very easy to go to a concert because almost all artists end up coming here. It's a massive difference when compared to Portugal, where only the top of the top may go to Portugal if they're doing a very very large tour.
-
 
 ## 🎁 Spotify Wrapped
 
