@@ -1,6 +1,6 @@
 ---
 title: now
-layout: list-as-logs
+layout: tabular
 aliases:
 - /now
 ---

@@ -635,54 +635,51 @@ main pre {
   white-space: pre;
 }
 
-.logs .e {
-  display: grid;
-  grid-template-columns: auto 10rem 5rem 3rem;
-  grid-gap: 1rem;
-  align-items: center;
-}
-
-.logs .e:not(:last-of-type) {
-  border-bottom: var(--border) solid var(--fg);
-}
-
-.logs .e:hover {
-  background-color: var(--mg);
-}
-
-.box.logs .e:hover {
-  background-color: var(--fg);
-}
-
-.logs .e>div {
-  margin: var(--hms) 0;
-}
-
-.logs .e>div:first-child {
-  font-weight: 600;
-}
-
-.logs .e>div:first-child a {
-  display: inline-block;
-  width: 100%;
-}
-
-.logs .h {
+.yh {
   position: sticky;
   top: 0;
   padding: var(--hms) 0;
   background: var(--bg);
   border-bottom: calc(2 * var(--border)) solid var(--c);
+  margin: 0;
 }
 
-.box.logs .h {
-  background: var(--mg);
-}
-
-.logs .h span:first-of-type {
+.yh > span:first-of-type {
   font-size: var(--f2);
   color: var(--c);
   font-weight: bold;
+}
+
+ul.tb,
+.tb ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  line-height: 1.25;
+}
+
+.tb li {
+  display: grid;
+  margin: 0;
+  grid-gap: 1rem;
+  align-items: center;
+}
+
+.tb li:not(:last-of-type) {
+  border-bottom: var(--border) solid var(--fg);
+}
+
+.tb li:hover {
+  background-color: var(--mg);
+}
+
+.tb li > * {
+  display: block;
+  margin: var(--hms) 0;
+}
+
+.tb li > *:first-child {
+  font-weight: 600;
 }
 
 .pagination {
@@ -813,8 +810,8 @@ main pre {
     display: none;
   }
 
-  .logs .e {
-    display: block !important;
+  .tb li {
+    display: block;
   }
 
   .fg {

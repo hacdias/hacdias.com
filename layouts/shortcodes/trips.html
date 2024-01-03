@@ -1,83 +1,104 @@
 <style>
-.trips details > summary::marker, /* Latest Chrome, Edge, Firefox */
-.trips details > summary::-webkit-details-marker /* Safari */ {
+.trips ul,
+.trips li {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  line-height: 1.25;
+}
+
+.trips details[open] {
+  background: var(--mg);
+}
+
+.trips summary {
+  display: grid;
+  margin: 0;
+  grid-gap: 1rem;
+  grid-template-columns: auto 15rem max-content;
+  align-items: center;
+}
+
+.trips summary::marker, /* Latest Chrome, Edge, Firefox */
+.trips summary::-webkit-details-marker /* Safari */ {
   display: none;
 }
 
-.trips summary.e {
-  grid-template-columns: auto 18rem 7rem;
-}
-
-.trips details[open] summary.e,
-.trips details:not(:last-of-type) summary.e {
+.trips details[open] summary,
+.trips li:not(:last-of-type),
+.trips li:last-of-type .legs li {
   border-bottom: var(--border) solid var(--fg);
 }
 
-.trips details[open] .e {
-  background: var(--mg);
+.trips li:hover {
+  background-color: var(--mg);
 }
 
-.trips summary.e > div:last-of-type {
-  display: grid;
-  grid-template-columns: 3rem 1rem 3rem;
+.trips summary > * {
+  display: block;
+  margin: var(--hms) 0;
 }
 
-.legs > div {
+.trips summary > *:first-child {
+  font-weight: 600;
+}
+
+.trips li:last-of-type .legs li {
+border-bottom: var(--border) solid var(--fg);
+}
+
+.legs li {
   font-size: var(--f5);
-  border-bottom: var(--border) solid var(--fg);
   padding: var(--hms) 0;
-  background: var(--mg);
+}
+
+@media screen and (max-width: 44rem) {
+  .trips summary {
+    display: block;
+  }
 }
 </style>
 
 {{ $logs := partial "fns/group-date-year" .Site.Data.trips.trips }}
-<div class='h-feed logs trips'>
-  {{ range $logs.years }}
-    <div>
-      {{ $year := . }}
-      {{ $entries := index $logs.map $year }}
+{{ range $logs.years }}
+  <section class='trips'>
+    {{ $year := . }}
+    {{ $entries := index $logs.map $year }}
 
-      <div class='h'>
-        <span id='{{ $year }}'>{{ $year }}</span>
-        <span>({{ len $entries }} entries)</span>
-      </div>
+    <header class='yh'>
+      <span id='{{ $year }}'>{{ $year }}</span>
+      <span>({{ len $entries }} entries)</span>
+    </header>
 
-      {{ with $entries }}
-        {{ range $entry := . }}
+    <ul>
+    {{ with $entries }}
+      {{ range $entry := . }}
+        <li>
           <details>
-            <summary class='e'>
-              <div>{{ .name }}</div>
-              <div>{{ .place }}</div>
-              <div>
-                <time class='tab lg small'>{{ dateFormat "Jan 02" .start }}</time>
+            <summary>
+              <span>{{ .name }}</span>
+              <span>{{ .place }}</span>
+              <span>
+                <time class='tab lg small'>{{ dateFormat "2006-01-02" .start }}</time>
                 <small class='lg'>→</small>
-                <time class='tab lg small'>{{ dateFormat "Jan 02" .date }}</time>
-              </div>
+                <time class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time>
+              </span>
             </summary>
 
             {{ with $entry.itinerary }}
-              <div class=' legs'>
-              {{ range . }}
-                <div>
-                  {{ template "transit-type" .type }}
-                  <time class='tab lg'>{{ dateFormat "Jan 02 15:04" .departure }}</time>
-                  {{ .origin.name }}
-                  →
-                  <time class='tab lg'>{{ dateFormat "15:04" .arrival }}</time>
-                  {{ .destination.name }}
-                  {{ if eq .type "air" -}}
-                    <span class='lg'>({{ .operator }} {{.number}})</span>
-                  {{- end }}
-                </div>
-              {{ end }}
-              </div>
+              <ul class='legs'>
+                {{ range . }}
+                  <li>{{ template "leg" . }}</li>
+                {{ end }}
+              </ul>
             {{ end }}
           </details>
-        {{ end }}
+        </li>
       {{ end }}
-    </div>
-  {{ end }}
-</div>
+    {{ end }}
+    </ul>
+  </section>
+{{ end }}
 
 <script>
 const details = document.querySelectorAll('.trips details')
@@ -94,6 +115,18 @@ function closeAll (e) {
   }
 }
 </script>
+
+{{ define "leg" }}
+  {{ template "transit-type" .type }}
+  <time class='tab lg'>{{ dateFormat "2006-01-02 15:04" .departure }}</time>
+  {{ .origin.name }}
+  →
+  <time class='tab lg'>{{ dateFormat "15:04" .arrival }}</time>
+  {{ .destination.name }}
+  {{ if eq .type "air" -}}
+    <span class='lg'>({{ .operator }} {{.number}})</span>
+  {{- end }}
+{{ end }}
 
 {{ define "transit-type" }}
   {{- if eq . "train" }}🚆

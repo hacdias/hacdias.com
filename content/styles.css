@@ -1,5 +1,5 @@
-.logs .e {
-  grid-template-columns: auto 5.5rem;
+.tb li {
+  grid-template-columns: auto min-content;
 }
 
 .fg {
