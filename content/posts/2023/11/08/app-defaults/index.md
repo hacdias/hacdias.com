@@ -33,4 +33,4 @@ This recent trend has been popping up lately in my RSS feed, so I decided to joi
 - 🎤 Podcasts: Spotify
 - 🔐 Password Management: 1Password
 
-I think that is all?
+I think that is all? Keep an eye on my [uses](/uses/#software) for an always up to date version of this list!
