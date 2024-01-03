@@ -35,27 +35,27 @@ During 2022, I watched **45** different movies, having repeated none, except for
 <details>
   <summary><strong>Top Movie Genres</strong></summary>
   
-  | Genre           |   Count |   Percentage |
-  |:----------------|--------:|-------------:|
-  | Comedy          |      23 |         18.4 |
-  | Romance         |      14 |         11.2 |
-  | Drama           |      13 |         10.4 |
-  | Adventure       |      12 |          9.6 |
-  | Action          |      11 |          8.8 |
-  | Fantasy         |       9 |          7.2 |
-  | Science-Fiction |       9 |          7.2 |
-  | Family          |       9 |          7.2 |
-  | Thriller        |       5 |          4.0   |
-  | Animation       |       4 |          3.2 |
-  | Superhero       |       3 |          2.4 |
-  | Holiday         |       3 |          2.4 |
-  | Musical         |       2 |          1.6 |
-  | Mystery         |       2 |          1.6 |
-  | Horror          |       2 |          1.6 |
-  | Music           |       1 |          0.8 |
-  | War             |       1 |          0.8 |
-  | Crime           |       1 |          0.8 |
-  | Documentary     |       1 |          0.8 |
+  | Genre           | Count | Percentage |
+  | :-------------- | ----: | ---------: |
+  | Comedy          |    23 |       18.4 |
+  | Romance         |    14 |       11.2 |
+  | Drama           |    13 |       10.4 |
+  | Adventure       |    12 |        9.6 |
+  | Action          |    11 |        8.8 |
+  | Fantasy         |     9 |        7.2 |
+  | Science-Fiction |     9 |        7.2 |
+  | Family          |     9 |        7.2 |
+  | Thriller        |     5 |        4.0 |
+  | Animation       |     4 |        3.2 |
+  | Superhero       |     3 |        2.4 |
+  | Holiday         |     3 |        2.4 |
+  | Musical         |     2 |        1.6 |
+  | Mystery         |     2 |        1.6 |
+  | Horror          |     2 |        1.6 |
+  | Music           |     1 |        0.8 |
+  | War             |     1 |        0.8 |
+  | Crime           |     1 |        0.8 |
+  | Documentary     |     1 |        0.8 |
 
 </details>
 
@@ -78,26 +78,26 @@ During 2022, I watched episodes from **59** different shows. The show I watched 
 <details>
   <summary><strong>Top Shows Genres</strong></summary>
 
-  | Genre           |   Count |   Percentage |
-  |:----------------|--------:|-------------:|
-  | Drama           |      37 |         22.2 |
-  | Fantasy         |      24 |         14.4 |
-  | Science-Fiction |      24 |         14.4 |
-  | Comedy          |      16 |          9.6 |
-  | Mystery         |      13 |          7.8 |
-  | Action          |       9 |          5.4 |
-  | Adventure       |       9 |          5.4 |
-  | Reality         |       7 |          4.2 |
-  | Superhero       |       6 |          3.6 |
-  | Romance         |       5 |          3.0   |
-  | Animation       |       5 |          3.0   |
-  | Horror          |       4 |          2.4 |
-  | Documentary     |       2 |          1.2 |
-  | Thriller        |       2 |          1.2 |
-  | Family          |       1 |          0.6 |
-  | Music           |       1 |          0.6 |
-  | Soap            |       1 |          0.6 |
-  | Crime           |       1 |          0.6 |
+  | Genre           | Count | Percentage |
+  | :-------------- | ----: | ---------: |
+  | Drama           |    37 |       22.2 |
+  | Fantasy         |    24 |       14.4 |
+  | Science-Fiction |    24 |       14.4 |
+  | Comedy          |    16 |        9.6 |
+  | Mystery         |    13 |        7.8 |
+  | Action          |     9 |        5.4 |
+  | Adventure       |     9 |        5.4 |
+  | Reality         |     7 |        4.2 |
+  | Superhero       |     6 |        3.6 |
+  | Romance         |     5 |        3.0 |
+  | Animation       |     5 |        3.0 |
+  | Horror          |     4 |        2.4 |
+  | Documentary     |     2 |        1.2 |
+  | Thriller        |     2 |        1.2 |
+  | Family          |     1 |        0.6 |
+  | Music           |     1 |        0.6 |
+  | Soap            |     1 |        0.6 |
+  | Crime           |     1 |        0.6 |
 
 </details>
 

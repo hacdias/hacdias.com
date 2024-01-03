@@ -25,10 +25,6 @@ img.cute-listener {
 .top-grid img {
   aspect-ratio: 1/1;
 }
-
-.logs .e {
-  grid-template-columns: auto 12rem 7rem;
-}
 </style>
 
 
@@ -64,204 +60,59 @@ In 2021, I listened to a lot of songs by Marina, Agnes and Lady Gaga, which are 
   <summary>
     <strong>Top 50 Artists</strong>
   </summary>
-  <div class='logs box'>
-    <div class='e'>
-      <div>Marina</div>
-      <div>858 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Agnes</div>
-      <div>469 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Lady Gaga</div>
-      <div>460 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Omar Rudberg</div>
-      <div>438 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Miley Cyrus</div>
-      <div>342 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Sia</div>
-      <div>336 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Troye Sivan</div>
-      <div>297 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Adele</div>
-      <div>233 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Pabllo Vittar</div>
-      <div>214 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>London Grammar</div>
-      <div>185 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Bárbara Tinoco</div>
-      <div>175 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Slayyyter</div>
-      <div>164 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Allie X</div>
-      <div>159 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Charli XCX</div>
-      <div>159 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Grimes</div>
-      <div>157 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Kim Petras</div>
-      <div>152 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Dua Lipa</div>
-      <div>142 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Alma</div>
-      <div>129 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>GALXARA</div>
-      <div>128 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Blaya</div>
-      <div>124 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>MØ</div>
-      <div>116 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Lana Del Rey</div>
-      <div>114 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Alexandre Desplat</div>
-      <div>112 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Bruno Mars</div>
-      <div>109 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Amor Electro</div>
-      <div>107 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Selena Gomez</div>
-      <div>103 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Imagine Dragons</div>
-      <div>95 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Coldplay</div>
-      <div>92 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Pink Floyd</div>
-      <div>91 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The xx</div>
-      <div>88 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>FO&O</div>
-      <div>82 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Christine and the Queens</div>
-      <div>80 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Olivia Rodrigo</div>
-      <div>80 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>RuPaul</div>
-      <div>79 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Lil Nas X</div>
-      <div>77 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Conan Gray</div>
-      <div>75 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Måneskin</div>
-      <div>75 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Luísa Sonza</div>
-      <div>74 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Robyn</div>
-      <div>74 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Weeknd</div>
-      <div>72 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Ellie Goulding</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Elton John</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Daði Freyr</div>
-      <div>70 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Steps</div>
-      <div>70 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Camila Cabello</div>
-      <div>69 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Fernando Daniel</div>
-      <div>69 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>a.Rose</div>
-      <div>67 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Tove Lo</div>
-      <div>67 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Cutts</div>
-      <div>65 scrobbles</div>
-    </div>
-  </div>
+
+  | Artist                   | Scrobbles     |
+  | :----------------------- | :------------ |
+  | Marina                   | 858 scrobbles |
+  | Agnes                    | 469 scrobbles |
+  | Lady Gaga                | 460 scrobbles |
+  | Omar Rudberg             | 438 scrobbles |
+  | Miley Cyrus              | 342 scrobbles |
+  | Sia                      | 336 scrobbles |
+  | Troye Sivan              | 297 scrobbles |
+  | Adele                    | 233 scrobbles |
+  | Pabllo Vittar            | 214 scrobbles |
+  | London Grammar           | 185 scrobbles |
+  | Bárbara Tinoco           | 175 scrobbles |
+  | Slayyyter                | 164 scrobbles |
+  | Allie X                  | 159 scrobbles |
+  | Charli XCX               | 159 scrobbles |
+  | Grimes                   | 157 scrobbles |
+  | Kim Petras               | 152 scrobbles |
+  | Dua Lipa                 | 142 scrobbles |
+  | Alma                     | 129 scrobbles |
+  | GALXARA                  | 128 scrobbles |
+  | Blaya                    | 124 scrobbles |
+  | MØ                       | 116 scrobbles |
+  | Lana Del Rey             | 114 scrobbles |
+  | Alexandre Desplat        | 112 scrobbles |
+  | Bruno Mars               | 109 scrobbles |
+  | Amor Electro             | 107 scrobbles |
+  | Selena Gomez             | 103 scrobbles |
+  | Imagine Dragons          | 95 scrobbles  |
+  | Coldplay                 | 92 scrobbles  |
+  | Pink Floyd               | 91 scrobbles  |
+  | The xx                   | 88 scrobbles  |
+  | FO&O                     | 82 scrobbles  |
+  | Christine and the Queens | 80 scrobbles  |
+  | Olivia Rodrigo           | 80 scrobbles  |
+  | RuPaul                   | 79 scrobbles  |
+  | Lil Nas X                | 77 scrobbles  |
+  | Conan Gray               | 75 scrobbles  |
+  | Måneskin                 | 75 scrobbles  |
+  | Luísa Sonza              | 74 scrobbles  |
+  | Robyn                    | 74 scrobbles  |
+  | The Weeknd               | 72 scrobbles  |
+  | Ellie Goulding           | 71 scrobbles  |
+  | Elton John               | 71 scrobbles  |
+  | Daði Freyr               | 70 scrobbles  |
+  | Steps                    | 70 scrobbles  |
+  | Camila Cabello           | 69 scrobbles  |
+  | Fernando Daniel          | 69 scrobbles  |
+  | a.Rose                   | 67 scrobbles  |
+  | Tove Lo                  | 67 scrobbles  |
+  | Cutts                    | 65 scrobbles  |
+
 </details>
 
 ## 💿 Albums
@@ -296,253 +147,59 @@ As expected, most of the top albums are from the arists I listened to the most. 
   <summary>
     <strong>Top 50 Albums</strong>
   </summary>
-  <div class='logs box'>
-    <div class='e'>
-      <div>Ancient Dreams in a Modern Land</div>
-      <div>Marina</div>
-      <div>521 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Plastic Hearts</div>
-      <div>Miley Cyrus</div>
-      <div>206 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>FROOT</div>
-      <div>Marina</div>
-      <div>202 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Everyday is Christmas (Deluxe Edition)</div>
-      <div>Sia</div>
-      <div>162 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Future Nostalgia</div>
-      <div>Dua Lipa</div>
-      <div>133 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Californian Soil</div>
-      <div>London Grammar</div>
-      <div>125 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Circle° Sessions</div>
-      <div>Agnes</div>
-      <div>112 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Miss Anthropocene (Deluxe Edition)</div>
-      <div>Grimes</div>
-      <div>99 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Cape God</div>
-      <div>Allie X</div>
-      <div>97 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Chromatica</div>
-      <div>Lady Gaga</div>
-      <div>94 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Born to Die - The Paradise Edition</div>
-      <div>Lana Del Rey</div>
-      <div>92 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Fame</div>
-      <div>Lady Gaga</div>
-      <div>88 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Bloom</div>
-      <div>Troye Sivan</div>
-      <div>86 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Alla Ba Ouff</div>
-      <div>Omar Rudberg</div>
-      <div>85 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>FO&O</div>
-      <div>FO&O</div>
-      <div>82 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>For the Throne (Music Inspired by the HBO Series Game of Thrones)</div>
-      <div>game of thrones</div>
-      <div>81 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Omar Covers</div>
-      <div>Omar Rudberg</div>
-      <div>81 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Ok</div>
-      <div>Blaya</div>
-      <div>80 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Endless River</div>
-      <div>Pink Floyd</div>
-      <div>77 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Dum</div>
-      <div>Omar Rudberg</div>
-      <div>76 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Night Visions (Deluxe)</div>
-      <div>Imagine Dragons</div>
-      <div>75 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>30</div>
-      <div>Adele</div>
-      <div>74 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Harry Potter and the Deathly Hallows, Pt. 1 (Original Motion Picture Soundtrack)</div>
-      <div>Alexandre Desplat</div>
-      <div>73 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>MONTERO (Call Me by Your Name)</div>
-      <div>Lil Nas X</div>
-      <div>73 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>It Takes A Fool To Remain Sane</div>
-      <div>Omar Rudberg</div>
-      <div>72 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>People Watching</div>
-      <div>Conan Gray</div>
-      <div>70 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>La Mesa</div>
-      <div>Omar Rudberg</div>
-      <div>70 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Camila</div>
-      <div>Camila Cabello</div>
-      <div>69 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>DOCE 22</div>
-      <div>Luísa Sonza</div>
-      <div>69 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Can't Be Tamed</div>
-      <div>Miley Cyrus</div>
-      <div>68 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Heart Wants What It Wants</div>
-      <div>Selena Gomez</div>
-      <div>68 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Batidão Tropical</div>
-      <div>Pabllo Vittar</div>
-      <div>67 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Clouds</div>
-      <div>Slayyyter</div>
-      <div>67 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>I Miss The Days (feat. Party Pupils)</div>
-      <div>GALXARA</div>
-      <div>66 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>good 4 u</div>
-      <div>Olivia Rodrigo</div>
-      <div>66 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Dance Love Pop (The Love Love Love Edition)</div>
-      <div>Agnes</div>
-      <div>65 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Honey</div>
-      <div>Cutts</div>
-      <div>65 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Warcry</div>
-      <div>Elias</div>
-      <div>64 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The London Sessions</div>
-      <div>Tiësto</div>
-      <div>64 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>24 Hours</div>
-      <div>Agnes</div>
-      <div>62 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>10 Years</div>
-      <div>Daði Freyr</div>
-      <div>61 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Loving Nobody</div>
-      <div>GALXARA</div>
-      <div>61 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Goodlife</div>
-      <div>Agnes</div>
-      <div>60 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Fingers Crossed</div>
-      <div>Agnes</div>
-      <div>59 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Il ballo della vita</div>
-      <div>Måneskin</div>
-      <div>58 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>TRXYE</div>
-      <div>Troye Sivan</div>
-      <div>58 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Have U Seen Her?</div>
-      <div>Alma</div>
-      <div>57 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Desalinhados</div>
-      <div>Bárbara Tinoco</div>
-      <div>57 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Outras Línguas</div>
-      <div>Bárbara Tinoco</div>
-      <div>57 scrobbles</div>
-    </div>
-  </div>
+
+  | Album                                       | Artist            | Scrobbles     |
+  | :------------------------------------------ | :---------------- | :------------ |
+  | Ancient Dreams in a Modern Land             | Marina            | 521 scrobbles |
+  | Plastic Hearts                              | Miley Cyrus       | 206 scrobbles |
+  | FROOT                                       | Marina            | 202 scrobbles |
+  | Everyday is Christmas (Deluxe Edition)      | Sia               | 162 scrobbles |
+  | Future Nostalgia                            | Dua Lipa          | 133 scrobbles |
+  | Californian Soil                            | London Grammar    | 125 scrobbles |
+  | The Circle° Sessions                        | Agnes             | 112 scrobbles |
+  | Miss Anthropocene (Deluxe Edition)          | Grimes            | 99 scrobbles  |
+  | Cape God                                    | Allie X           | 97 scrobbles  |
+  | Chromatica                                  | Lady Gaga         | 94 scrobbles  |
+  | Born to Die - The Paradise Edition          | Lana Del Rey      | 92 scrobbles  |
+  | The Fame                                    | Lady Gaga         | 88 scrobbles  |
+  | Bloom                                       | Troye Sivan       | 86 scrobbles  |
+  | Alla Ba Ouff                                | Omar Rudberg      | 85 scrobbles  |
+  | FO&O                                        | FO&O              | 82 scrobbles  |
+  | For the Throne                              | game of thrones   | 81 scrobbles  |
+  | Omar Covers                                 | Omar Rudberg      | 81 scrobbles  |
+  | Ok                                          | Blaya             | 80 scrobbles  |
+  | The Endless River                           | Pink Floyd        | 77 scrobbles  |
+  | Dum                                         | Omar Rudberg      | 76 scrobbles  |
+  | Night Visions (Deluxe)                      | Imagine Dragons   | 75 scrobbles  |
+  | 30                                          | Adele             | 74 scrobbles  |
+  | Harry Potter and the Deathly Hallows, Pt. 1 | Alexandre Desplat | 73 scrobbles  |
+  | MONTERO (Call Me by Your Name)              | Lil Nas X         | 73 scrobbles  |
+  | It Takes A Fool To Remain Sane              | Omar Rudberg      | 72 scrobbles  |
+  | People Watching                             | Conan Gray        | 70 scrobbles  |
+  | La Mesa                                     | Omar Rudberg      | 70 scrobbles  |
+  | Camila                                      | Camila Cabello    | 69 scrobbles  |
+  | DOCE 22                                     | Luísa Sonza       | 69 scrobbles  |
+  | Can't Be Tamed                              | Miley Cyrus       | 68 scrobbles  |
+  | The Heart Wants What It Wants               | Selena Gomez      | 68 scrobbles  |
+  | Batidão Tropical                            | Pabllo Vittar     | 67 scrobbles  |
+  | Clouds                                      | Slayyyter         | 67 scrobbles  |
+  | I Miss The Days (feat. Party Pupils)        | GALXARA           | 66 scrobbles  |
+  | good 4 u                                    | Olivia Rodrigo    | 66 scrobbles  |
+  | Dance Love Pop (The Love Love Love Edition) | Agnes             | 65 scrobbles  |
+  | Honey                                       | Cutts             | 65 scrobbles  |
+  | Warcry                                      | Elias             | 64 scrobbles  |
+  | The London Sessions                         | Tiësto            | 64 scrobbles  |
+  | 24 Hours                                    | Agnes             | 62 scrobbles  |
+  | 10 Years                                    | Daði Freyr        | 61 scrobbles  |
+  | Loving Nobody                               | GALXARA           | 61 scrobbles  |
+  | Goodlife                                    | Agnes             | 60 scrobbles  |
+  | Fingers Crossed                             | Agnes             | 59 scrobbles  |
+  | Il ballo della vita                         | Måneskin          | 58 scrobbles  |
+  | TRXYE                                       | Troye Sivan       | 58 scrobbles  |
+  | Have U Seen Her?                            | Alma              | 57 scrobbles  |
+  | Desalinhados                                | Bárbara Tinoco    | 57 scrobbles  |
+  | Outras Línguas                              | Bárbara Tinoco    | 57 scrobbles  |
+
 </details>
 
 ## 🎵 Songs
@@ -553,253 +210,59 @@ Finally, here's the songs I listened to the most in 2021. It is quite interestin
   <summary>
     <strong>Top 50 Songs</strong>
   </summary>
-  <div class='logs box'>
-    <div class='e'>
-      <div>Ok</div>
-      <div>Blaya</div>
-      <div>96 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Alla Ba Ouff</div>
-      <div>Omar Rudberg</div>
-      <div>85 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Man's World</div>
-      <div>Marina</div>
-      <div>82 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Hurt Like We Did</div>
-      <div>FO&O</div>
-      <div>81 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>I'm a Ruin</div>
-      <div>Marina</div>
-      <div>79 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Ancient Dreams in a Modern Land</div>
-      <div>Marina</div>
-      <div>77 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>good 4 u</div>
-      <div>Olivia Rodrigo</div>
-      <div>77 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Dum</div>
-      <div>Omar Rudberg</div>
-      <div>76 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Remember</div>
-      <div>Omar Rudberg</div>
-      <div>75 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Fingers Crossed</div>
-      <div>Agnes</div>
-      <div>74 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>MONTERO (Call Me by Your Name)</div>
-      <div>Lil Nas X</div>
-      <div>74 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>MODO TURBO</div>
-      <div>Luísa Sonza</div>
-      <div>74 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Purge the Poison</div>
-      <div>Marina</div>
-      <div>73 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>It Takes A Fool To Remain Sane</div>
-      <div>Omar Rudberg</div>
-      <div>73 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>24 Hours</div>
-      <div>Agnes</div>
-      <div>72 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>People Watching</div>
-      <div>Conan Gray</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Pandora's Box</div>
-      <div>Marina</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>La Mesa</div>
-      <div>Omar Rudberg</div>
-      <div>70 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Heart Wants What It Wants</div>
-      <div>Selena Gomez</div>
-      <div>70 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Never Be the Same</div>
-      <div>Camila Cabello</div>
-      <div>69 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>IDORU</div>
-      <div>Grimes</div>
-      <div>68 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Clouds</div>
-      <div>Slayyyter</div>
-      <div>67 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>I Miss The Days (feat. Party Pupils)</div>
-      <div>GALXARA</div>
-      <div>66 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Venus Fly Trap</div>
-      <div>Marina</div>
-      <div>66 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Honey</div>
-      <div>Cutts</div>
-      <div>65 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>I Love You But I Love Me More</div>
-      <div>Marina</div>
-      <div>65 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Revolution</div>
-      <div>Elias</div>
-      <div>64 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Highly Emotional People</div>
-      <div>Marina</div>
-      <div>64 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Round & Round</div>
-      <div>Tiësto</div>
-      <div>64 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Savages</div>
-      <div>Marina</div>
-      <div>63 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Goodlife</div>
-      <div>Agnes</div>
-      <div>62 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Lose Your Head</div>
-      <div>London Grammar</div>
-      <div>62 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>10 Years</div>
-      <div>Daði Freyr</div>
-      <div>61 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Loving Nobody</div>
-      <div>GALXARA</div>
-      <div>61 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Torna a casa</div>
-      <div>Måneskin</div>
-      <div>59 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Can't Be Tamed</div>
-      <div>Miley Cyrus</div>
-      <div>59 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Bang Bang</div>
-      <div>Pabllo Vittar</div>
-      <div>59 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Release Me</div>
-      <div>Agnes</div>
-      <div>58 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Good Ones</div>
-      <div>Charli XCX</div>
-      <div>58 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Fingers Crossed - The Circle° Sessions</div>
-      <div>Agnes</div>
-      <div>57 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Madame X</div>
-      <div>Allie X</div>
-      <div>57 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Devia ir (versão da Bárbara)</div>
-      <div>Bárbara Tinoco</div>
-      <div>57 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Outras Línguas</div>
-      <div>Bárbara Tinoco</div>
-      <div>57 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Future Starts Now</div>
-      <div>Kim Petras</div>
-      <div>57 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Immortal</div>
-      <div>Marina</div>
-      <div>56 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>24 Hours - The Circle° Sessions</div>
-      <div>Agnes</div>
-      <div>55 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Je Me Casse</div>
-      <div>Destiny</div>
-      <div>55 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>About Love - From The Netflix Film “To All The Boys: P.S. I Still Love You”</div>
-      <div>Marina</div>
-      <div>55 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Triste com T</div>
-      <div>Pabllo Vittar</div>
-      <div>55 scrobbles</div>
-    </div>
-  </div>
+
+  | Song                                   | Artist         | Scrobbles    |
+  | :------------------------------------- | :------------- | :----------- |
+  | Ok                                     | Blaya          | 96 scrobbles |
+  | Alla Ba Ouff                           | Omar Rudberg   | 85 scrobbles |
+  | Man's World                            | Marina         | 82 scrobbles |
+  | Hurt Like We Did                       | FO&O           | 81 scrobbles |
+  | I'm a Ruin                             | Marina         | 79 scrobbles |
+  | Ancient Dreams in a Modern Land        | Marina         | 77 scrobbles |
+  | good 4 u                               | Olivia Rodrigo | 77 scrobbles |
+  | Dum                                    | Omar Rudberg   | 76 scrobbles |
+  | Remember                               | Omar Rudberg   | 75 scrobbles |
+  | Fingers Crossed                        | Agnes          | 74 scrobbles |
+  | MONTERO (Call Me by Your Name)         | Lil Nas X      | 74 scrobbles |
+  | MODO TURBO                             | Luísa Sonza    | 74 scrobbles |
+  | Purge the Poison                       | Marina         | 73 scrobbles |
+  | It Takes A Fool To Remain Sane         | Omar Rudberg   | 73 scrobbles |
+  | 24 Hours                               | Agnes          | 72 scrobbles |
+  | People Watching                        | Conan Gray     | 71 scrobbles |
+  | Pandora's Box                          | Marina         | 71 scrobbles |
+  | La Mesa                                | Omar Rudberg   | 70 scrobbles |
+  | The Heart Wants What It Wants          | Selena Gomez   | 70 scrobbles |
+  | Never Be the Same                      | Camila Cabello | 69 scrobbles |
+  | IDORU                                  | Grimes         | 68 scrobbles |
+  | Clouds                                 | Slayyyter      | 67 scrobbles |
+  | I Miss The Days (feat. Party Pupils)   | GALXARA        | 66 scrobbles |
+  | Venus Fly Trap                         | Marina         | 66 scrobbles |
+  | Honey                                  | Cutts          | 65 scrobbles |
+  | I Love You But I Love Me More          | Marina         | 65 scrobbles |
+  | Revolution                             | Elias          | 64 scrobbles |
+  | Highly Emotional People                | Marina         | 64 scrobbles |
+  | Round & Round                          | Tiësto         | 64 scrobbles |
+  | Savages                                | Marina         | 63 scrobbles |
+  | Goodlife                               | Agnes          | 62 scrobbles |
+  | Lose Your Head                         | London Grammar | 62 scrobbles |
+  | 10 Years                               | Daði Freyr     | 61 scrobbles |
+  | Loving Nobody                          | GALXARA        | 61 scrobbles |
+  | Torna a casa                           | Måneskin       | 59 scrobbles |
+  | Can't Be Tamed                         | Miley Cyrus    | 59 scrobbles |
+  | Bang Bang                              | Pabllo Vittar  | 59 scrobbles |
+  | Release Me                             | Agnes          | 58 scrobbles |
+  | Good Ones                              | Charli XCX     | 58 scrobbles |
+  | Fingers Crossed - The Circle° Sessions | Agnes          | 57 scrobbles |
+  | Madame X                               | Allie X        | 57 scrobbles |
+  | Devia ir (versão da Bárbara)           | Bárbara Tinoco | 57 scrobbles |
+  | Outras Línguas                         | Bárbara Tinoco | 57 scrobbles |
+  | Future Starts Now                      | Kim Petras     | 57 scrobbles |
+  | Immortal                               | Marina         | 56 scrobbles |
+  | 24 Hours - The Circle° Sessions        | Agnes          | 55 scrobbles |
+  | Je Me Casse                            | Destiny        | 55 scrobbles |
+  | About Love                             | Marina         | 55 scrobbles |
+  | Triste com T                           | Pabllo Vittar  | 55 scrobbles |
+
 </details>
 
 This was my Year in Music 2021!
