@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 78,
+    "count": 79,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -290,6 +290,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
         "targetUrl": "https://github.com/mholt/caddy-events-exec"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/02/moving-to-fastmail/",
+        "targetUrl": "https://github.com/StackExchange/dnscontrol"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -1314,6 +1318,24 @@
     ]
   },
   {
+    "domain": "macwright.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/09/playing-with-activitypub/",
+        "targetUrl": "https://macwright.com/2022/12/09/activitypub.html"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/02/moving-to-fastmail/",
+        "targetUrl": "https://macwright.com/2023/09/24/masked-email"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://macwright.com"
+      }
+    ]
+  },
+  {
     "domain": "medium.com",
     "count": 3,
     "links": [
@@ -1604,6 +1626,20 @@
     ]
   },
   {
+    "domain": "fastmail.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/02/moving-to-fastmail/",
+        "targetUrl": "https://www.fastmail.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://www.fastmail.com"
+      }
+    ]
+  },
+  {
     "domain": "gloweindhoven.nl",
     "count": 2,
     "links": [
@@ -1800,20 +1836,6 @@
     ]
   },
   {
-    "domain": "macwright.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/09/playing-with-activitypub/",
-        "targetUrl": "https://macwright.com/2022/12/09/activitypub.html"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://macwright.com"
-      }
-    ]
-  },
-  {
     "domain": "macwright.org",
     "count": 2,
     "links": [
@@ -2006,6 +2028,20 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://reddit.com/u/hacdias"
+      }
+    ]
+  },
+  {
+    "domain": "rknight.me",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/08/app-defaults/",
+        "targetUrl": "https://defaults.rknight.me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://defaults.rknight.me/"
       }
     ]
   },
@@ -2952,16 +2988,6 @@
     ]
   },
   {
-    "domain": "fastmail.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://www.fastmail.com"
-      }
-    ]
-  },
-  {
     "domain": "fediring.net",
     "count": 1,
     "links": [
@@ -3702,6 +3728,16 @@
     ]
   },
   {
+    "domain": "migadu.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/02/moving-to-fastmail/",
+        "targetUrl": "https://migadu.com/"
+      }
+    ]
+  },
+  {
     "domain": "mikestone.me",
     "count": 1,
     "links": [
@@ -4108,16 +4144,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/02/01/recently/",
         "targetUrl": "https://www.reuters.com/article/health-coronavirus-eu-astrazeneca/astrazeneca-offers-8-million-extra-doses-to-eu-through-march-source-idUSL1N2K30UO"
-      }
-    ]
-  },
-  {
-    "domain": "rknight.me",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/08/app-defaults/",
-        "targetUrl": "https://defaults.rknight.me/"
       }
     ]
   },

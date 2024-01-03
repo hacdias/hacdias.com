@@ -155,16 +155,76 @@ On the photography department, I currently own a Fuji X-T4. The pictures that co
 
 ## 📀 Software {#software}
 
-The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some of the things mentioned are self-hosted in an [Hetzner](https://www.hetzner.com/) VPS.
+The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some may call this [App Defaults](https://defaults.rknight.me/).
 
 <div class='box logs'>
   <div class='e'>
-    <div>Operating System</div>
-    <div>macOS, iOS, Linux (Alpine usually)</div>
+    <div>E-mail Client</div>
+    <div>Native macOS and iOS apps</div>
   </div>
-   <div class='e'>
+  <div class='e'>
+    <div>E-mail Server</div>
+    <div><a href='https://www.fastmail.com' rel='noopener noreferrer'>Fastmail</a> and Gmail - slowly moving away from Google</div>
+  </div>
+  <div class='e'>
+    <div>Notes</div>
+    <div>Native macOS and iOS apps, pen and paper</div>
+  </div>
+  <div class='e'>
+    <div>Reminders</div>
+    <div>Native macOS and iOS apps</div>
+  </div>
+  <div class='e'>
+    <div>Photo Management</div>
+    <div>Native macOS and iOS apps, file system for RAW</div>
+  </div>
+  <div class='e'>
+    <div>Calendar</div>
+    <div>Native macOS and iOS apps, Fastmail</div>
+  </div>
+  <div class='e'>
+    <div>Contacts</div>
+    <div>Native macOS and iOS apps, Fastmail</div>
+  </div>
+  <div class='e'>
+    <div>Cloud File Storage</div>
+    <div>iCloud, Google Drive</div>
+  </div>
+  <div class='e'>
+    <div>RSS Reader</div>
+    <div><a rel='noopener noreferrer' href='https://miniflux.app/'>Miniflux</a></div>
+  </div>
+  <div class='e'>
     <div>Browser</div>
     <div>Chrome on macOS, Safari on iOS</div>
+  </div>
+  <div class='e'>
+    <div>Chat</div>
+    <div>WhatsApp, Telegram</div>
+  </div>
+  <div class='e'>
+    <div>Bookmarks</div>
+    <div>Browser, <a href='/bookmarks/'>Bookmarks Page</a></div>
+  </div>
+  <div class='e'>
+    <div>Documents</div>
+    <div>Google Docs</div>
+  </div>
+  <div class='e'>
+    <div>News</div>
+    <div>NRC 🇳🇱, Público 🇵🇹, some tech blogs</div>
+  </div>
+  <div class='e'>
+    <div>Music and Podcasts</div>
+    <div>Spotify</div>
+  </div>
+  <div class='e'>
+    <div>Password Manager</div>
+    <div>1Password</div>
+  </div>
+  <div class='e'>
+    <div>Operating System</div>
+    <div>macOS, iOS, Linux (Alpine usually)</div>
   </div>
    <div class='e'>
     <div>Code Editor</div>
@@ -174,29 +234,15 @@ The list below contains some of my favorite software, or software that I use on 
     <div>Terminal</div>
     <div><a href='https://iterm2.com/' rel='noopener noreferrer'>iTerm</a> with <a href='https://en.wikipedia.org/wiki/Z_shell' rel='noopener noreferrer'>zsh</a> and <a href='https://ohmyz.sh/' rel='noopener noreferrer'>oh my zsh</a> - see my <a href='https://github.com/hacdias/dotfiles' rel='noopener noreferrer'>dotfiles</a></div>
   </div>
-   <div class='e'>
-    <div>Email</div>
-    <div>Native macOS and iOS apps</div>
-  </div>
-   <div class='e'>
-    <div>Email Provider</div>
-    <div>Gmail and <a href='https://www.fastmail.com' rel='noopener noreferrer'>Fastmail</a>. Previously Migadu, but I wanted something with Calendar and Contacts support. Slowly trying to move my accounts away from Google.</div>
-  </div>
-  <div class='e'>
-    <div>Calendar</div>
-    <div>Native macOS and iOS apps</div>
-  </div>
-  <div class='e'>
-    <div>Password Manager</div>
-    <div>1Password</div>
-  </div>
   <div class='e'>
     <div>Web Server</div>
     <div><a rel='noopener noreferrer' href='https://caddyserver.com/'>Caddy</a></div>
   </div>
   <div class='e'>
-    <div>Feed Reader</div>
-    <div><a rel='noopener noreferrer' href='https://miniflux.app/'>Miniflux</a></div>
+    <div>Hosting Provider</div>
+    <div>
+      <a rel='noopener noreferrer' href='https://www.hetzner.com/'>Hetzner</a>
+    </div>
   </div>
   <div class='e'>
     <div>Domain Registrars</div>
