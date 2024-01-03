@@ -1,7 +1,7 @@
 {{ $links := index .Site.Data "external-links" }}
 
 <style>
-details summary {
+.external summary {
   padding: var(--hms);
   word-wrap: break-word;
   position: sticky;
@@ -11,35 +11,26 @@ details summary {
   background: var(--bg);
 }
 
-details:first-of-type summary {
+.external:first-of-type summary {
   border-top: 1px solid var(--fg);
 }
 
-details summary:hover {
+.external summary:hover {
   background: var(--mg)
 }
 
-details summary .count {
+.external summary .count {
   float: right;
 }
 
-.logs .e {
-  grid-template-columns: 1.5rem calc(50% - 2rem) .75rem auto;
-  grid-gap: 0.5rem;
+.external table {
+  margin: 0;
   font-size: var(--f5);
-}
-
-.logs .e:nth-child(even) {
-  background: var(--mg)
-}
-
-.logs .e > div:first-of-type {
-  text-align: center;
 }
 </style>
 
 {{ range $links }}
-<details>
+<details class='external'>
   <summary>
     <img class='icon' src='https://www.google.com/s2/favicons?domain={{ .domain }}&sz=32'>
     <small>{{ .domain }}</small>
@@ -49,8 +40,7 @@ details summary .count {
   <table>
     <thead>
       <tr>
-        <th></th>
-        <th colspan=2>hacdias.com</th>
+        <th>hacdias.com</th>
         <th>{{ .domain }}</th>
       </tr>
     </thead>
@@ -58,14 +48,8 @@ details summary .count {
     <tbody>
       {{ range $i, $lnk := .links }}
       <tr>
-        <td>{{ $i }}</td>
-        <td>
-          <a href="{{ .sourceUrl }}">{{ (urls.Parse .sourceUrl).Path }}</a>
-        </td>
-        <td><small class='lg'>→</small></td>
-        <td>
-          <a href="{{ .targetUrl }}" rel="noreferrer noopener">{{ or ((urls.Parse .targetUrl).Path) "/" }}</a>
-        </td>
+        <td><a href="{{ .sourceUrl }}">{{ (urls.Parse .sourceUrl).Path }}</a></td>
+        <td><a href="{{ .targetUrl }}" rel="noreferrer noopener">{{ or ((urls.Parse .targetUrl).Path) "/" }}</a></td>
       </tr>
       {{ end }}
     </tbody>
