@@ -26,10 +26,6 @@ img.cute-listener {
 .top-grid img {
   aspect-ratio: 1/1;
 }
-
-.logs .e {
-  grid-template-columns: auto 12rem 7rem;
-}
 </style>
 
 I want to preface this article by mentioning that I mostly use [Spotify](https://spotify.com/) to listen to music and [Last.fm](https://www.last.fm/user/hacdias) to track (almost) all of my scrobbles. Last.fm is connected to both Spotify and my browser, such that it also detects any other music I may play through my web browser. I am also the owner of some vinyls, but I don't go through the trouble of adding those scrobbles.
@@ -69,208 +65,59 @@ Regarding artists, we see Years & Years, Marina and Lorde at the top, which does
     <strong>Top 50 Artists</strong>
   </summary>
 
-  <div class='logs box'>
-    <div class='e'>
-      <div>Years & Years</div>
-      <div>1269 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Marina</div>
-      <div>1126 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Lorde</div>
-      <div>945 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Tove Lo</div>
-      <div>587 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Lady Gaga</div>
-      <div>584 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Allie X</div>
-      <div>482 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>MØ</div>
-      <div>364 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Rina Sawayama</div>
-      <div>339 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Troye Sivan</div>
-      <div>285 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Charli XCX</div>
-      <div>253 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Froukje</div>
-      <div>231 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Florence + the Machine</div>
-      <div>227 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Colours In The Dark</div>
-      <div>225 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Aurora</div>
-      <div>199 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Gerardo Millán</div>
-      <div>199 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Alma</div>
-      <div>187 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Todrick Hall</div>
-      <div>159 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Kim Petras</div>
-      <div>158 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Dimension 32</div>
-      <div>157 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>RuPaul</div>
-      <div>155 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Laurel</div>
-      <div>150 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Jisatsu</div>
-      <div>146 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Laffey</div>
-      <div>135 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Kylie Minogue</div>
-      <div>134 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>BANKS</div>
-      <div>129 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Beyoncé</div>
-      <div>128 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Ethel Cain</div>
-      <div>126 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Foxes</div>
-      <div>121 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Elio</div>
-      <div>116 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Doce</div>
-      <div>114 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>kainbeats</div>
-      <div>114 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Alaska Thunderfuck</div>
-      <div>112 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Bárbara Tinoco</div>
-      <div>111 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>No Spirit</div>
-      <div>111 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Alexandre Desplat</div>
-      <div>109 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>fnonose</div>
-      <div>109 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Lenny Loops</div>
-      <div>109 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Adele</div>
-      <div>107 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Maroon 5</div>
-      <div>107 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Pieter De Graaf</div>
-      <div>107 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>L'Impératrice</div>
-      <div>103 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Regard</div>
-      <div>97 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Corey J. Beats</div>
-      <div>95 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Socrab</div>
-      <div>93 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Zara Larsson</div>
-      <div>93 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Madonna</div>
-      <div>91 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Sky Ferreira</div>
-      <div>91 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>GRACEY</div>
-      <div>90 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Robin Schulz</div>
-      <div>90 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Miley Cyrus</div>
-      <div>87 scrobbles</div>
-    </div>
-  </div>
+  | Artist                 | Scrobbles      |
+  | :--------------------- | :------------- |
+  | Years & Years          | 1269 scrobbles |
+  | Marina                 | 1126 scrobbles |
+  | Lorde                  | 945 scrobbles  |
+  | Tove Lo                | 587 scrobbles  |
+  | Lady Gaga              | 584 scrobbles  |
+  | Allie X                | 482 scrobbles  |
+  | MØ                     | 364 scrobbles  |
+  | Rina Sawayama          | 339 scrobbles  |
+  | Troye Sivan            | 285 scrobbles  |
+  | Charli XCX             | 253 scrobbles  |
+  | Froukje                | 231 scrobbles  |
+  | Florence + the Machine | 227 scrobbles  |
+  | Colours In The Dark    | 225 scrobbles  |
+  | Aurora                 | 199 scrobbles  |
+  | Gerardo Millán         | 199 scrobbles  |
+  | Alma                   | 187 scrobbles  |
+  | Todrick Hall           | 159 scrobbles  |
+  | Kim Petras             | 158 scrobbles  |
+  | Dimension 32           | 157 scrobbles  |
+  | RuPaul                 | 155 scrobbles  |
+  | Laurel                 | 150 scrobbles  |
+  | Jisatsu                | 146 scrobbles  |
+  | Laffey                 | 135 scrobbles  |
+  | Kylie Minogue          | 134 scrobbles  |
+  | BANKS                  | 129 scrobbles  |
+  | Beyoncé                | 128 scrobbles  |
+  | Ethel Cain             | 126 scrobbles  |
+  | Foxes                  | 121 scrobbles  |
+  | Elio                   | 116 scrobbles  |
+  | Doce                   | 114 scrobbles  |
+  | kainbeats              | 114 scrobbles  |
+  | Alaska Thunderfuck     | 112 scrobbles  |
+  | Bárbara Tinoco         | 111 scrobbles  |
+  | No Spirit              | 111 scrobbles  |
+  | Alexandre Desplat      | 109 scrobbles  |
+  | fnonose                | 109 scrobbles  |
+  | Lenny Loops            | 109 scrobbles  |
+  | Adele                  | 107 scrobbles  |
+  | Maroon 5               | 107 scrobbles  |
+  | Pieter De Graaf        | 107 scrobbles  |
+  | L'Impératrice          | 103 scrobbles  |
+  | Regard                 | 97 scrobbles   |
+  | Corey J. Beats         | 95 scrobbles   |
+  | Socrab                 | 93 scrobbles   |
+  | Zara Larsson           | 93 scrobbles   |
+  | Madonna                | 91 scrobbles   |
+  | Sky Ferreira           | 91 scrobbles   |
+  | GRACEY                 | 90 scrobbles   |
+  | Robin Schulz           | 90 scrobbles   |
+  | Miley Cyrus            | 87 scrobbles   |
+
 </details>
 
 ## 💿 Albums
@@ -306,258 +153,59 @@ Unsurprisingly, my top albums of the year are from the top artists I've listed t
     <strong>Top 50 Albums</strong>
   </summary>
 
-  <div class='logs box'>
-    <div class='e'>
-      <div>Night Call (Deluxe)</div>
-      <div>Years & Years</div>
-      <div>767 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Solar Power</div>
-      <div>Lorde</div>
-      <div>369 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Melodrama</div>
-      <div>Lorde</div>
-      <div>303 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Ancient Dreams in a Modern Land</div>
-      <div>Marina</div>
-      <div>293 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Ancient Dreams in a Modern Land (Deluxe Edition)</div>
-      <div>Marina</div>
-      <div>265 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Born This Way (International Special Edition Version)</div>
-      <div>Lady Gaga</div>
-      <div>261 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Dirt Femme</div>
-      <div>Tove Lo</div>
-      <div>253 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>CRASH</div>
-      <div>Charli XCX</div>
-      <div>193 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Cozy Dreams</div>
-      <div>Sleep Tales</div>
-      <div>178 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Electra Heart (Platinum Blonde Edition)</div>
-      <div>Marina</div>
-      <div>164 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Hold the Girl</div>
-      <div>Rina Sawayama</div>
-      <div>161 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Pure Heroine</div>
-      <div>Lorde</div>
-      <div>146 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Electra Heart (Deluxe)</div>
-      <div>Marina</div>
-      <div>144 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>FEMULINE</div>
-      <div>Todrick Hall</div>
-      <div>141 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Chromatica</div>
-      <div>Lady Gaga</div>
-      <div>129 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Dance Fever (Deluxe)</div>
-      <div>Florence + the Machine</div>
-      <div>128 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Cape God</div>
-      <div>Allie X</div>
-      <div>126 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Silent Emotions Pt.2</div>
-      <div>Dimension 32</div>
-      <div>122 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Solar Power (Deluxe Edition)</div>
-      <div>Lorde</div>
-      <div>114 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Rainy City</div>
-      <div>Jisatsu</div>
-      <div>112 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Palo Santo (Deluxe)</div>
-      <div>Years & Years</div>
-      <div>112 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Motordrome</div>
-      <div>MØ</div>
-      <div>108 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>CollXtion II</div>
-      <div>Allie X</div>
-      <div>103 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Night Call (New Year's Edition)</div>
-      <div>Years & Years</div>
-      <div>103 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Tako Tsubo</div>
-      <div>L'Impératrice</div>
-      <div>100 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>FROOT</div>
-      <div>Marina</div>
-      <div>98 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Equinox</div>
-      <div>Pieter De Graaf</div>
-      <div>97 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Still dreaming</div>
-      <div>Gerardo Millán</div>
-      <div>96 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Coconuts</div>
-      <div>Kim Petras</div>
-      <div>96 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Cape God (Deluxe)</div>
-      <div>Allie X</div>
-      <div>94 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Harry Potter and the Deathly Hallows, Pt. 1 (Original Motion Picture Soundtrack)</div>
-      <div>Alexandre Desplat</div>
-      <div>93 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Moon and the Mind</div>
-      <div>Laffey</div>
-      <div>93 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Inbred</div>
-      <div>Ethel Cain</div>
-      <div>91 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Large</div>
-      <div>Socrab</div>
-      <div>91 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>É Demais</div>
-      <div>Doce</div>
-      <div>89 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>IIII</div>
-      <div>Robin Schulz</div>
-      <div>88 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>TRXYE</div>
-      <div>Troye Sivan</div>
-      <div>86 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>30</div>
-      <div>Adele</div>
-      <div>85 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Poster Girl</div>
-      <div>Zara Larsson</div>
-      <div>85 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>On a Roll</div>
-      <div>Ashley O</div>
-      <div>83 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Broken Heartbeats</div>
-      <div>Various Artists</div>
-      <div>83 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Ócio</div>
-      <div>Colours In The Dark</div>
-      <div>82 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Childhood Memories</div>
-      <div>Corey J. Beats</div>
-      <div>81 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Death Of Us</div>
-      <div>Elsie Bay</div>
-      <div>81 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Hallucination</div>
-      <div>Regard</div>
-      <div>80 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Catch Me In The AIr</div>
-      <div>Rina Sawayama</div>
-      <div>79 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Dangerous Woman</div>
-      <div>Ariana Grande</div>
-      <div>78 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Devil Is Human</div>
-      <div>Aurora</div>
-      <div>78 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Soul Searching</div>
-      <div>fnonose</div>
-      <div>78 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>American Boy</div>
-      <div>Years & Years</div>
-      <div>78 scrobbles</div>
-    </div>
-  </div>
+  | Album                                                 | Artist                 | Scrobbles     |
+  | :---------------------------------------------------- | :--------------------- | :------------ |
+  | Night Call (Deluxe)                                   | Years & Years          | 767 scrobbles |
+  | Solar Power                                           | Lorde                  | 369 scrobbles |
+  | Melodrama                                             | Lorde                  | 303 scrobbles |
+  | Ancient Dreams in a Modern Land                       | Marina                 | 293 scrobbles |
+  | Ancient Dreams in a Modern Land (Deluxe Edition)      | Marina                 | 265 scrobbles |
+  | Born This Way (International Special Edition Version) | Lady Gaga              | 261 scrobbles |
+  | Dirt Femme                                            | Tove Lo                | 253 scrobbles |
+  | CRASH                                                 | Charli XCX             | 193 scrobbles |
+  | Cozy Dreams                                           | Sleep Tales            | 178 scrobbles |
+  | Electra Heart (Platinum Blonde Edition)               | Marina                 | 164 scrobbles |
+  | Hold the Girl                                         | Rina Sawayama          | 161 scrobbles |
+  | Pure Heroine                                          | Lorde                  | 146 scrobbles |
+  | Electra Heart (Deluxe)                                | Marina                 | 144 scrobbles |
+  | FEMULINE                                              | Todrick Hall           | 141 scrobbles |
+  | Chromatica                                            | Lady Gaga              | 129 scrobbles |
+  | Dance Fever (Deluxe)                                  | Florence + the Machine | 128 scrobbles |
+  | Cape God                                              | Allie X                | 126 scrobbles |
+  | Silent Emotions Pt.2                                  | Dimension 32           | 122 scrobbles |
+  | Solar Power (Deluxe Edition)                          | Lorde                  | 114 scrobbles |
+  | Rainy City                                            | Jisatsu                | 112 scrobbles |
+  | Palo Santo (Deluxe)                                   | Years & Years          | 112 scrobbles |
+  | Motordrome                                            | MØ                     | 108 scrobbles |
+  | CollXtion II                                          | Allie X                | 103 scrobbles |
+  | Night Call (New Year's Edition)                       | Years & Years          | 103 scrobbles |
+  | Tako Tsubo                                            | L'Impératrice          | 100 scrobbles |
+  | FROOT                                                 | Marina                 | 98 scrobbles  |
+  | Equinox                                               | Pieter De Graaf        | 97 scrobbles  |
+  | Still dreaming                                        | Gerardo Millán         | 96 scrobbles  |
+  | Coconuts                                              | Kim Petras             | 96 scrobbles  |
+  | Cape God (Deluxe)                                     | Allie X                | 94 scrobbles  |
+  | Harry Potter and the Deathly Hallows, Pt. 1           | Alexandre Desplat      | 93 scrobbles  |
+  | The Moon and the Mind                                 | Laffey                 | 93 scrobbles  |
+  | Inbred                                                | Ethel Cain             | 91 scrobbles  |
+  | Large                                                 | Socrab                 | 91 scrobbles  |
+  | É Demais                                              | Doce                   | 89 scrobbles  |
+  | IIII                                                  | Robin Schulz           | 88 scrobbles  |
+  | TRXYE                                                 | Troye Sivan            | 86 scrobbles  |
+  | 30                                                    | Adele                  | 85 scrobbles  |
+  | Poster Girl                                           | Zara Larsson           | 85 scrobbles  |
+  | On a Roll                                             | Ashley O               | 83 scrobbles  |
+  | Broken Heartbeats                                     | Various Artists        | 83 scrobbles  |
+  | Ócio                                                  | Colours In The Dark    | 82 scrobbles  |
+  | Childhood Memories                                    | Corey J. Beats         | 81 scrobbles  |
+  | Death Of Us                                           | Elsie Bay              | 81 scrobbles  |
+  | Hallucination                                         | Regard                 | 80 scrobbles  |
+  | Catch Me In The AIr                                   | Rina Sawayama          | 79 scrobbles  |
+  | Dangerous Woman                                       | Ariana Grande          | 78 scrobbles  |
+  | The Devil Is Human                                    | Aurora                 | 78 scrobbles  |
+  | Soul Searching                                        | fnonose                | 78 scrobbles  |
+  | American Boy                                          | Years & Years          | 78 scrobbles  |
+
 </details>
 
 ## 🎵 Songs
@@ -569,258 +217,59 @@ Not as interesting as the albums and artists, but, for the record, I am also kee
     <strong>Top 50 Songs</strong>
   </summary>
 
-  <div class='logs box'>
-    <div class='e'>
-      <div>Supercut</div>
-      <div>Lorde</div>
-      <div>108 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Crave</div>
-      <div>Years & Years</div>
-      <div>107 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Muscle</div>
-      <div>Years & Years</div>
-      <div>101 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Coconuts</div>
-      <div>Kim Petras</div>
-      <div>96 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>This Hell</div>
-      <div>Rina Sawayama</div>
-      <div>93 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Crush</div>
-      <div>Ethel Cain</div>
-      <div>91 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Electra Heart</div>
-      <div>Marina</div>
-      <div>90 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Happy Loner</div>
-      <div>Marina</div>
-      <div>88 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Consequences</div>
-      <div>Years & Years</div>
-      <div>88 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>All This Love (feat. Harlœ)</div>
-      <div>Robin Schulz</div>
-      <div>87 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Mood Ring</div>
-      <div>Lorde</div>
-      <div>85 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Hallucination</div>
-      <div>Regard</div>
-      <div>85 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Hypnotised</div>
-      <div>Years & Years</div>
-      <div>85 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Helen of Troy - Bonus Track</div>
-      <div>Lorde</div>
-      <div>83 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Pandora's Box</div>
-      <div>Marina</div>
-      <div>83 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Pink Convertible</div>
-      <div>Marina</div>
-      <div>82 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Used to Know Me</div>
-      <div>Charli XCX</div>
-      <div>81 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Death Of Us</div>
-      <div>Elsie Bay</div>
-      <div>81 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Immaculate</div>
-      <div>Years & Years</div>
-      <div>81 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Liability</div>
-      <div>Lorde</div>
-      <div>80 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>See You Again</div>
-      <div>Years & Years</div>
-      <div>80 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Sooner or Later</div>
-      <div>Years & Years</div>
-      <div>80 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Poster Girl</div>
-      <div>Zara Larsson</div>
-      <div>80 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Solar Power</div>
-      <div>Lorde</div>
-      <div>79 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Goodbye</div>
-      <div>Marina</div>
-      <div>79 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Lies</div>
-      <div>Marina</div>
-      <div>79 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Devil Is Human</div>
-      <div>Aurora</div>
-      <div>78 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Constant Repeat</div>
-      <div>Charli XCX</div>
-      <div>78 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>2 Die 4</div>
-      <div>Tove Lo</div>
-      <div>78 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>American Boy</div>
-      <div>Years & Years</div>
-      <div>78 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Into You</div>
-      <div>Ariana Grande</div>
-      <div>77 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>De Diepte</div>
-      <div>S10</div>
-      <div>76 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>20 Minutes</div>
-      <div>Years & Years</div>
-      <div>76 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Sweet Talker</div>
-      <div>Years & Years</div>
-      <div>76 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Don’t Forget</div>
-      <div>Sky Ferreira</div>
-      <div>75 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>RAININ’ FELLAS</div>
-      <div>Todrick Hall</div>
-      <div>75 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Milk</div>
-      <div>Allie X</div>
-      <div>74 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Devil Side</div>
-      <div>Foxes</div>
-      <div>73 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>2080-luvulla</div>
-      <div>Sanni</div>
-      <div>72 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>I’m to Blame</div>
-      <div>Tove Lo</div>
-      <div>72 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Summer Really Hurt Us</div>
-      <div>Alma</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>É Demais</div>
-      <div>Doce</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Secrets from a Girl (Who's Seen It All)</div>
-      <div>Lorde</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Sorry</div>
-      <div>Madonna</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Flowers</div>
-      <div>Marina</div>
-      <div>71 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>A Second to Midnight</div>
-      <div>Kylie Minogue</div>
-      <div>70 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>The Path</div>
-      <div>Lorde</div>
-      <div>70 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Right Where I Belong</div>
-      <div>Ashley O</div>
-      <div>69 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>chamada não atendida</div>
-      <div>Bárbara Tinoco</div>
-      <div>69 scrobbles</div>
-    </div>
-    <div class='e'>
-      <div>Puppet</div>
-      <div>Faouzia</div>
-      <div>69 scrobbles</div>
-    </div>
-  </div>
+  | Song                                    | Artist         | Scrobbles     |
+  | :-------------------------------------- | :------------- | :------------ |
+  | Supercut                                | Lorde          | 108 scrobbles |
+  | Crave                                   | Years & Years  | 107 scrobbles |
+  | Muscle                                  | Years & Years  | 101 scrobbles |
+  | Coconuts                                | Kim Petras     | 96 scrobbles  |
+  | This Hell                               | Rina Sawayama  | 93 scrobbles  |
+  | Crush                                   | Ethel Cain     | 91 scrobbles  |
+  | Electra Heart                           | Marina         | 90 scrobbles  |
+  | Happy Loner                             | Marina         | 88 scrobbles  |
+  | Consequences                            | Years & Years  | 88 scrobbles  |
+  | All This Love (feat. Harlœ)             | Robin Schulz   | 87 scrobbles  |
+  | Mood Ring                               | Lorde          | 85 scrobbles  |
+  | Hallucination                           | Regard         | 85 scrobbles  |
+  | Hypnotised                              | Years & Years  | 85 scrobbles  |
+  | Helen of Troy - Bonus Track             | Lorde          | 83 scrobbles  |
+  | Pandora's Box                           | Marina         | 83 scrobbles  |
+  | Pink Convertible                        | Marina         | 82 scrobbles  |
+  | Used to Know Me                         | Charli XCX     | 81 scrobbles  |
+  | Death Of Us                             | Elsie Bay      | 81 scrobbles  |
+  | Immaculate                              | Years & Years  | 81 scrobbles  |
+  | Liability                               | Lorde          | 80 scrobbles  |
+  | See You Again                           | Years & Years  | 80 scrobbles  |
+  | Sooner or Later                         | Years & Years  | 80 scrobbles  |
+  | Poster Girl                             | Zara Larsson   | 80 scrobbles  |
+  | Solar Power                             | Lorde          | 79 scrobbles  |
+  | Goodbye                                 | Marina         | 79 scrobbles  |
+  | Lies                                    | Marina         | 79 scrobbles  |
+  | The Devil Is Human                      | Aurora         | 78 scrobbles  |
+  | Constant Repeat                         | Charli XCX     | 78 scrobbles  |
+  | 2 Die 4                                 | Tove Lo        | 78 scrobbles  |
+  | American Boy                            | Years & Years  | 78 scrobbles  |
+  | Into You                                | Ariana Grande  | 77 scrobbles  |
+  | De Diepte                               | S10            | 76 scrobbles  |
+  | 20 Minutes                              | Years & Years  | 76 scrobbles  |
+  | Sweet Talker                            | Years & Years  | 76 scrobbles  |
+  | Don’t Forget                            | Sky Ferreira   | 75 scrobbles  |
+  | RAININ’ FELLAS                          | Todrick Hall   | 75 scrobbles  |
+  | Milk                                    | Allie X        | 74 scrobbles  |
+  | Devil Side                              | Foxes          | 73 scrobbles  |
+  | 2080-luvulla                            | Sanni          | 72 scrobbles  |
+  | I’m to Blame                            | Tove Lo        | 72 scrobbles  |
+  | Summer Really Hurt Us                   | Alma           | 71 scrobbles  |
+  | É Demais                                | Doce           | 71 scrobbles  |
+  | Secrets from a Girl (Who's Seen It All) | Lorde          | 71 scrobbles  |
+  | Sorry                                   | Madonna        | 71 scrobbles  |
+  | Flowers                                 | Marina         | 71 scrobbles  |
+  | A Second to Midnight                    | Kylie Minogue  | 70 scrobbles  |
+  | The Path                                | Lorde          | 70 scrobbles  |
+  | Right Where I Belong                    | Ashley O       | 69 scrobbles  |
+  | chamada não atendida                    | Bárbara Tinoco | 69 scrobbles  |
+  | Puppet                                  | Faouzia        | 69 scrobbles  |
+
 </details>
 
 
