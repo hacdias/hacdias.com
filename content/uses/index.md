@@ -80,7 +80,7 @@ Coffee is nowadays a part of my daily life. However, I try to not drink more tha
 
 <div class='box tb'>
 
-- **Filter Equipment** <span>🏆 Clever Dripper, 🧊 French Press, 👥 Chemex, ✈️ AeroPress</span>
+- **Filter Equipment** <span>Clever Dripper, French Press, Chemex, AeroPress ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
 - **Grinder** <span>Baratza Encore</span>
 - **Scale** <span>TIMEMORE Basic 2.0</span>
 
@@ -89,7 +89,7 @@ Coffee is nowadays a part of my daily life. However, I try to not drink more tha
 
 ## 📀 Software {#software}
 
-The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some may call this [App Defaults](https://defaults.rknight.me/).
+The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some may call this my [app defaults](https://defaults.rknight.me/).
 
 <div class='box tb'>
 
