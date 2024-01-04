@@ -635,19 +635,18 @@ main pre {
   white-space: pre;
 }
 
-.yh {
+.tbh {
   position: sticky;
   top: 0;
+  margin: 0;
   padding: var(--hms) 0;
   background: var(--bg);
   border-bottom: calc(2 * var(--border)) solid var(--c);
-  margin: 0;
+  color: var(--c);
 }
 
-.yh > span:first-of-type {
-  font-size: var(--f2);
-  color: var(--c);
-  font-weight: bold;
+.tbh small {
+  font-weight: normal;
 }
 
 ul.tb,

@@ -65,10 +65,7 @@ border-bottom: var(--border) solid var(--fg);
     {{ $year := . }}
     {{ $entries := index $logs.map $year }}
 
-    <header class='yh'>
-      <span id='{{ $year }}'>{{ $year }}</span>
-      <span>({{ len $entries }} entries)</span>
-    </header>
+    <h3 class='tbh' id='{{ $year }}'>{{ $year }} <small class='lg'>({{ len $entries }} entries)</small></h3>
 
     <ul>
     {{ with $entries }}
