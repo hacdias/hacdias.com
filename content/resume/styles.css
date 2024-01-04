@@ -1,6 +1,6 @@
 .hint {
   margin: var(--ls) auto;
-  max-width: 27rem;
+  max-width: fit-content;
   font-size: var(--f5);
   text-align: center;
 }
