@@ -32,7 +32,7 @@
 {{ range $links }}
 <details class='external'>
   <summary>
-    <img class='icon' src='https://www.google.com/s2/favicons?domain={{ .domain }}&sz=32'>
+    {{ partialCached "favicon" .domain .domain }}
     <small>{{ .domain }}</small>
     <small class='lg count'>{{ .count }}</small>
   </summary>

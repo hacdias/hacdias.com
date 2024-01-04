@@ -3,7 +3,8 @@
     {{- range (index .Site.Data.feeds (.Get 0)) -}}
       <li>
         <a href='{{ .site }}' rel='noopener noreferrer'>
-          <img class='icon' src='https://www.google.com/s2/favicons?domain=https://{{ (urls.Parse .site).Host }}&sz=32' referrerpolicy='no-referrer'> {{ .title }}
+          {{- $domain := (urls.Parse .site).Host -}}
+          {{- partialCached "favicon" $domain $domain }} {{ .title }}
         </a>
       </li>
     {{- end -}}
