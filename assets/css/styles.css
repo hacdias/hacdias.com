@@ -65,8 +65,8 @@ pre {
 
 .p-category,
 :not(pre)>code {
-  border-radius: var(--radius);
-  padding-inline: 0.25rem;
+  border-radius: calc(var(--radius) / 2);
+  padding-inline: 0.15rem;
   background: var(--mg);
   border: var(--border) solid var(--fg);
 }
