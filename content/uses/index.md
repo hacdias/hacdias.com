@@ -64,7 +64,7 @@ At home I also have a desk with some things. This desk is used by my partner or 
 
 ### 📷 Photography {#photography}
 
-On the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
+In the photography department, I currently own a Fuji X-T4. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
 <div class='box tb'>
 
@@ -73,6 +73,19 @@ On the photography department, I currently own a Fuji X-T4. The pictures that co
 - **Tripod** <span>Manfrotto Befree</span>
 
 </div>
+
+### ☕️ Coffee {#coffee}
+
+Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment. I will update it at a later date to include my espresso setup too.
+
+<div class='box tb'>
+
+- **Filter Equipment** <span>🏆 Clever Dripper, 🧊 French Press, 👥 Chemex, ✈️ AeroPress</span>
+- **Grinder** <span>Baratza Encore</span>
+- **Scale** <span>TIMEMORE Basic 2.0</span>
+
+</div>
+
 
 ## 📀 Software {#software}
 
