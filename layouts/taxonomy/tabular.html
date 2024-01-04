@@ -20,10 +20,7 @@
         {{ $year := . }}
         {{ $pages := index $pages.map $year }}
 
-        <header class='yh'>
-          <span id='{{ $year }}'>{{ $year }}</span>
-          <span>({{ len $pages }} entries)</span>
-        </header>
+        <h3 class='tbh' id='{{ $year }}'>{{ $year }} <small class='lg'>({{ len $pages }} entries)</small></h3>
 
         <ul class='tb'>
         {{ with $pages }}
