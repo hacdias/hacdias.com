@@ -5,6 +5,16 @@
 
   {{ partialCached "post/content" . .Permalink }}
 
+  <style>
+  .tb li {
+    grid-template-columns: auto 16rem 78px;
+  }
+
+  .tb.read li {
+    grid-template-columns: auto 10rem 5rem 78px;
+  }
+  </style>
+
   {{ $logs := .Site.Data.readings }}
 
   <h2 id='want-to-read'>📖 Want To Read</h2>

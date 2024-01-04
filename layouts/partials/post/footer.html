@@ -24,7 +24,7 @@
         {{- if ne $i 0 }}, {{ end -}}
         <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
           {{- $domain := (urls.Parse $s).Host -}}
-          <img referrerpolicy="no-referrer" src="https://www.google.com/s2/favicons?domain={{ $domain }}&sz=32" class="icon">
+          {{- partialCached "favicon" $domain $domain }}
           {{ $domain -}}
         </a>
       {{- end -}}.
