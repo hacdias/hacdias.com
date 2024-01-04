@@ -811,7 +811,7 @@ ul.tb,
   }
 
   .tb li {
-    display: block;
+    display: flow-root;
   }
 
   .fg {

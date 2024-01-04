@@ -427,7 +427,7 @@ trips:
   - { departure: 2020-02-07T18:30:00+01:00, arrival: 2020-02-07T19:20:00+01:00, origin: *antwerpen_centraal_station, destination: *brussels_north_station, type: bus, operator: FlixBus, number: "822" }
   - { departure: 2020-02-08T09:52:00+01:00, arrival: 2020-02-08T11:45:00+01:00, origin: *brussels_south_station, destination: *amsterdam_centraal, type: train, operator: Thalys, number: "9415" }
   - { departure: 2020-02-10T15:35:00Z, arrival: 2020-02-10T18:35:00Z, origin: *airport_ams, destination: *airport_lis, type: air, operator: Easyjet, number: U27664 }
-- name: Christmas Holiday with Parents
+- name: Christmas Holiday With Parents
   place: "🇵🇹 Santana da Serra"
   start: 2020-12-15
   date: 2020-12-27
@@ -531,7 +531,7 @@ trips:
   itinerary:
   - { departure: 2022-10-24T07:50:00+02:00, arrival: 2022-10-24T09:45:00+01:00, origin: *airport_ein, destination: *airport_lis, type: air, operator: Transavia, number: HV6203 }
   - { departure: 2022-11-01T17:10:00Z, arrival: 2022-11-01T21:00:00+01:00, origin: *airport_lis, destination: *airport_ein, type: air, operator: Transavia, number: HV6204 }
-- name: Christmas Market Trip
+- name: Christmas Market Trip With Partner
   place: "🇩🇪 Aachen"
   start: 2022-12-17
   date: 2022-12-18
@@ -608,7 +608,7 @@ trips:
   - { departure: 2023-07-30T11:23:00+02:00, arrival: 2023-07-30T15:42:00+02:00, origin: *station_hannover_hbf, destination: *station_deventer, type: train, operator: DB, number: IC146 }
   - { departure: 2023-07-30T15:45:00+02:00, arrival: 2023-07-30T17:07:00+02:00, origin: *station_deventer, destination: *station_den_bosch, type: train, operator: NS, number: "" }
   - { departure: 2023-07-30T17:25:00+02:00, arrival: 2023-07-30T17:44:00+02:00, origin: *station_den_bosch, destination: *station_eindhoven_centraal, type: train, operator: NS, number: "" }
-- name: Weekend in Spa
+- name: Weekend in Spa With Partner
   place: "🇧🇪 Spa"
   start: 2023-09-29
   date: 2023-10-01
@@ -623,7 +623,7 @@ trips:
   - { departure: 2023-10-01T11:14:00+02:00, arrival: 2023-10-01T11:39:00+02:00, origin: *station_pepinster, destination: *liege_guillemins, type: train, operator: SNCB, number: 'S5286' }
   - { departure: 2023-10-01T12:07:00+02:00, arrival: 2023-10-01T12:42:00+02:00, origin: *liege_guillemins, destination: *station_maastricht, type: train, operator: SNCB, number: 'S5367' }
   - { departure: 2023-10-01T13:01:00+02:00, arrival: 2023-10-01T14:02:00+02:00, origin: *station_maastricht, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC868 }
-- name: Christmas Markets Trip
+- name: Christmas Markets Trip With Partner
   place: "🇩🇪 Köln"
   start: 2023-12-01
   date: 2023-12-03
