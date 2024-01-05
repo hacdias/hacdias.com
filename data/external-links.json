@@ -678,6 +678,52 @@
     ]
   },
   {
+    "domain": "youtube.com",
+    "count": 10,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
+        "targetUrl": "https://www.youtube.com/watch?v=JwYX52BP2Sk"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://www.youtube.com/watch?v=HXTC5LSep3M"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://www.youtube.com/watch?v=gB9n2gHsHN4"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/01/recently/",
+        "targetUrl": "https://www.youtube.com/watch?v=ZJAx-dHuVA4"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/29/thread-by-giovannigruni-on-new-italian-government/",
+        "targetUrl": "https://www.youtube.com/watch?v=ERAQxZuXdyc"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
+        "targetUrl": "https://www.youtube.com/watch?v=PemFIEJtUSw\u0026t=2904s"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/03/update-on-ovpay-experiment/",
+        "targetUrl": "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/30/year-in-review/",
+        "targetUrl": "https://www.youtube.com/watch?v=c_DOG_mXz5w"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
+        "targetUrl": "https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
+        "targetUrl": "https://www.youtube.com/@morgandrinkscoffee"
+      }
+    ]
+  },
+  {
     "domain": "gohugo.io",
     "count": 9,
     "links": [
@@ -792,44 +838,6 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://twitter.com/hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "youtube.com",
-    "count": 8,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
-        "targetUrl": "https://www.youtube.com/watch?v=JwYX52BP2Sk"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://www.youtube.com/watch?v=HXTC5LSep3M"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://www.youtube.com/watch?v=gB9n2gHsHN4"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/01/recently/",
-        "targetUrl": "https://www.youtube.com/watch?v=ZJAx-dHuVA4"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/29/thread-by-giovannigruni-on-new-italian-government/",
-        "targetUrl": "https://www.youtube.com/watch?v=ERAQxZuXdyc"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
-        "targetUrl": "https://www.youtube.com/watch?v=PemFIEJtUSw\u0026t=2904s"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/03/update-on-ovpay-experiment/",
-        "targetUrl": "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/12/30/year-in-review/",
-        "targetUrl": "https://www.youtube.com/watch?v=c_DOG_mXz5w"
       }
     ]
   },
@@ -4398,6 +4406,16 @@
     ]
   },
   {
+    "domain": "tenshundredsthousands.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
+        "targetUrl": "https://tenshundredsthousands.com/collections/books/products/how-to-make-the-best-coffee-at-home"
+      }
+    ]
+  },
+  {
     "domain": "terraaeon.com",
     "count": 1,
     "links": [
@@ -4604,6 +4622,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "http://vmx.cx/cgi-bin/blog/index.cgi"
+      }
+    ]
+  },
+  {
+    "domain": "wakuli.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
+        "targetUrl": "https://www.wakuli.com/"
       }
     ]
   },
