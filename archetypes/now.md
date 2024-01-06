@@ -1,7 +1,6 @@
 ---
 title: "Recently in {{ now.Format "January" }} '{{ now.Format "06" }}"
 date: {{ .Date }}
-draft: true
 categories:
 - articles
 tags:

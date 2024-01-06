@@ -76,11 +76,14 @@ In the photography department, I currently own a Fuji X-T4. The pictures that co
 
 ### ☕️ Coffee {#coffee}
 
-Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment. I will update it at a later date to include my espresso setup too.
+![Coffee Station](cdn:/2024-01-coffee-station?class=fw)
+
+Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
 
 <div class='box tb'>
 
 - **Filter Equipment** <span>Clever Dripper, French Press, Chemex, AeroPress ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
+- **Espresso Machine** <span>Sage (Breville) Barista Express</span>
 - **Grinder** <span>Baratza Encore</span>
 - **Scale** <span>TIMEMORE Basic 2.0</span>
 
