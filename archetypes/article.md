@@ -1,7 +1,6 @@
 ---
 title: Article Title
 date: {{ .Date }}
-draft: true
 categories:
 - articles
 tags:
