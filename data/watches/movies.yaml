@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Mean Girls
+  date: 2024-01-05
+  rating: 3
 - name: Happy Ending
   date: 2023-12-29
   rating: 3
