@@ -9,10 +9,12 @@ summaryLength = 300
 
 [taxonomies]
   tag = 'tags'
+  series = 'series'
   category = 'categories'
 
 [permalinks]
   tags = '/tags/:title/'
+  series = '/series/:title/'
   categories = '/:title/'
   posts = '/:year/:month/:day/:filename/'
 
