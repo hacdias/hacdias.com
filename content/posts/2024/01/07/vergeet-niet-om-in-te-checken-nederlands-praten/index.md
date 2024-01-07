@@ -4,8 +4,9 @@ date: 2024-01-07T11:06:56+01:00
 language: nl
 categories:
 - articles
-tags:
+series:
 - vergeet-niet-om-in-te-checken
+tags:
 - nederlands
 ---
 

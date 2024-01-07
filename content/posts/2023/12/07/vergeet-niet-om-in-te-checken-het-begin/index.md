@@ -4,8 +4,9 @@ date: 2023-12-07T16:29:44+01:00
 language: nl
 categories:
 - articles
-tags:
+series:
 - vergeet-niet-om-in-te-checken
+tags:
 - nederlands
 syndication:
 - https://fosstodon.org/@hacdias/111550570083991986
