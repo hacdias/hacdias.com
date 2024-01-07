@@ -3,12 +3,13 @@ title: 'Fundamentals of Programming #1: Beginning'
 date: 2016-11-10T00:00:00Z
 categories:
   - articles
+series:
+  - fundamentals-of-programming
 tags:
   - computers
   - algorithms
   - c
   - computer-science
-  - fundamentals-of-programming
 ---
 
 This is the first article of The Fundamentals of Programming Using
