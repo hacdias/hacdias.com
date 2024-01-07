@@ -679,7 +679,7 @@
   },
   {
     "domain": "youtube.com",
-    "count": 10,
+    "count": 11,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
@@ -719,6 +719,10 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
+        "targetUrl": "https://www.youtube.com/@morgandrinkscoffee"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/06/current-espresso-setup/",
         "targetUrl": "https://www.youtube.com/@morgandrinkscoffee"
       }
     ]
