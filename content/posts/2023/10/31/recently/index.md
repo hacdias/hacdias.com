@@ -5,10 +5,11 @@ aliases:
   - /2023/10/31/october-23/
 categories:
   - articles
+series:
+  - recently
 syndication:
   - https://fosstodon.org/@hacdias/111330175944628078
 tags:
-  - now
   - trains
 ---
 

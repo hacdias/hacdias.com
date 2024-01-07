@@ -5,8 +5,9 @@ aliases:
   - /2023/10/02/september-23/
 categories:
   - articles
+series:
+  - recently
 tags:
-  - now
   - travel
 ---
 

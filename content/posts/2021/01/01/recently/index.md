@@ -5,8 +5,8 @@ aliases:
   - /2021/01/01/december-2020/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 2020 has come to an end. It was a very troublesome year regarding worldwide events. However, I must say that it was quite a fantastic year personally.

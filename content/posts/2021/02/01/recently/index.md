@@ -5,10 +5,11 @@ aliases:
   - /2021/02/01/lessons-moving-during-pandemic/
 categories:
   - articles
+series:
+  - recently
 tags:
   - university
   - masters
-  - now
 ---
 
 It's been quite a while since I sent my last newsletter. And now the ferocious winter winds are storming outside. I'm looking at my screen wondering what to write and why write. Since August, I have been living in the Netherlands and I thought it would be a great ideas to talk a bit about the experience of moving during a pandemic.

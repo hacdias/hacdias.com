@@ -5,8 +5,8 @@ aliases:
   - /2020/12/01/november-2020/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 Hello y'all! Yet another month has passed. November was quite full of good things in my opinion. It's been quite a long month so I'll probably skip some parts because I simply don't remember.

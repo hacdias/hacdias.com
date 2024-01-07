@@ -5,8 +5,8 @@ aliases:
   - /2022/06/30/june-22/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 I have recently noticed I have been writing 'recently' posts since September 2020. Honestly, I wasn't expecting it to have been that long. Today, I am trying a different format. Sometimes I'm not sure on how to organize this monthly posts and I see some people posting bullet-list weekly or monthly posts so I decided to try.

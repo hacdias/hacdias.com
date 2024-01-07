@@ -5,8 +5,8 @@ aliases:
   - /2022/08/31/august-22/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 August is ending and with it, most people's summer vacations. It's time for school, university and work again. However, I did not have that much of a vacation yet.

@@ -5,8 +5,8 @@ aliases:
   - /2021/04/01/march-2021/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 March has been an extremely busy month for me where a lot happened and, at the same time, nothing happened. I can't even believe that April is just starting!

@@ -5,8 +5,8 @@ aliases:
   - /2023/03/31/march-23/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 March is almost gone and here we are again, at one more recap of what has happened over the last month. Compared to February, March has been a pretty eventless month, at least on the surface. 

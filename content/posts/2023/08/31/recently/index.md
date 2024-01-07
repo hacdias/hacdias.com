@@ -5,8 +5,9 @@ aliases:
   - /2023/08/31/august-23/
 categories:
   - articles
+series:
+  - recently
 tags:
-  - now
   - trains
 ---
 

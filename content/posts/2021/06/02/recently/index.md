@@ -5,8 +5,8 @@ aliases:
   - /2021/06/02/may-2021/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 As I usually say, one more month has passed and we're already in June! If everything goes on well, this is the last month of classes and exams of my Master's first year.

@@ -5,8 +5,8 @@ aliases:
   - /2023/05/31/may-23/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 May is now approaching its end and the birds 🕊️ are chirping, filling the air

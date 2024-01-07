@@ -5,8 +5,8 @@ aliases:
   - /2022/02/28/february-22/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 It is the end of February and it is unbelievable. It feels like 2022 started yesterday, yet here we are: in the end of one more month. I feel like I say this every month though.

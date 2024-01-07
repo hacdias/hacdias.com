@@ -5,8 +5,9 @@ aliases:
   - /2023/07/31/july-23/
 categories:
   - articles
+series:
+  - recently
 tags:
-  - now
   - travel
 ---
 

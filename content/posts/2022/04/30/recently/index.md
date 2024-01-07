@@ -5,8 +5,8 @@ aliases:
   - /2022/04/30/april-22/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 April is quickly coming to an end and... what a month it was! From Portugal to London, from thesis progress to assisting in classes, from movies to musicals, April was a packed month!

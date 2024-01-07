@@ -5,8 +5,8 @@ aliases:
   - /2021/03/01/february-2021/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 One more month has passed. A year ago, I was starting my second semester of my final year of my Bachelors degree. Right before that, I had just been traveling across Luxembourg, Belgium and the Netherlands. At the time, we were a bit worried with Covid-19, but there were barely any identified cases in Europe. We didn't even wear masks on the flights.

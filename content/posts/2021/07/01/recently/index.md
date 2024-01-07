@@ -5,8 +5,8 @@ aliases:
   - /2021/07/01/june-2021/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 June is done, exams are done, first year of my master's degree is finished. Yay! I really don't have many updates, besides the fact that I will be working on an exiting project next year at university.

@@ -5,8 +5,8 @@ aliases:
   - /2022/02/01/january-22/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 It is unbelievable that 1/12 of the year has already gone by. I came back to the Netherlands in the beginning of the month and I've been able to achieve quite a few things last month.

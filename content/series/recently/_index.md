@@ -1,8 +1,8 @@
 ---
-title: now
-layout: tabular
+title: Recently
 aliases:
 - /now
+- /tags/now
 ---
 
 <div class="box">

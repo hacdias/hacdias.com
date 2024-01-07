@@ -5,8 +5,8 @@ aliases:
   - /2023/06/30/june-23/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 June was a reasonably packed month: some times more eventful than others, but that's how it always is. Let's make a small recap of what has happened lately.

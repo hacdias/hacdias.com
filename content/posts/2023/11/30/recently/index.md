@@ -5,8 +5,8 @@ aliases:
   - /2023/11/30/november-23/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 November is almost gone. It was quite of a slow month, so I had more time to spend working on this website, or in watching series - maybe too many. Let's dive into it.

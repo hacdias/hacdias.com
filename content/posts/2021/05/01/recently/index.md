@@ -5,8 +5,8 @@ aliases:
   - /2021/05/01/april-2021/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 One more month has passed! It is unbelievable how fast this academic year - and 2021 in general - is passing. I'm already in my last quartile, having my last courses for the year.

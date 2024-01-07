@@ -5,8 +5,8 @@ aliases:
   - /2021/12/29/december-2021/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 Once again, a year is ending. It feels like it was yesterday that I was first discovering the IndieWeb and adding new features to my website, but that was 2 years ago now. Time has been passing quite fast since _the_ pandemic started.

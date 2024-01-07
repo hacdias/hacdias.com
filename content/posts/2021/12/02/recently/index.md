@@ -5,8 +5,8 @@ aliases:
   - /2021/12/02/november-2021/
 categories:
   - articles
-tags:
-  - now
+series:
+  - recently
 ---
 
 November was so busy that I did not even manage to write this in time! The month started with GLOW, the [Eindhoven Light Festival](https://www.gloweindhoven.nl/). Unfortunately, due to the announced measures during the last day of the festival, the lights were shut down a day before. Due to that, I was not able to see more than half of it.
