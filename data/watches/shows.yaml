@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: New Heights
+  season: 2
+  rating: 4
+  date: 2024-01-07
 - name: All the Light We Cannot See
   season: 1
   rating: 4
