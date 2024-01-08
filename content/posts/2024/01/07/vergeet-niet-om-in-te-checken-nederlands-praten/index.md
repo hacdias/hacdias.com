@@ -4,12 +4,15 @@ date: 2024-01-07T11:06:56+01:00
 language: nl
 categories:
 - articles
+coverImage: cdn:/2014-01-sneeuwpop-cupcakes
 tags:
 - vergeet-niet-om-in-te-checken
 - nederlands
+syndication:
+- https://fosstodon.org/@hacdias/111714188031262494
 ---
 
-Vorige maand besloot ik om een [nieuwe series](/2023/12/07/vergeet-niet-om-in-te-checken-het-begin/) op deze website te beginnen: vergeet niet om in te checken! Vandaag ga ik nog een beetje meer schrijven over mijn Nederlands leervoortgang en ook over wat is tijdens de vorige maand gebeurt.
+Vorige maand besloot ik om een [nieuwe serie](/2023/12/07/vergeet-niet-om-in-te-checken-het-begin/) op deze website te beginnen: vergeet niet om in te checken! Vandaag ga ik nog een beetje meer schrijven over mijn Nederlands leervoortgang en ook over wat is tijdens de vorige maand gebeurt.
 
 <!--more-->
 
@@ -33,7 +36,7 @@ Eindelijk, en ook de laatste Nederlandse TV series die ik heb gekeken, is *Als d
 
 ## 📚 Boeken
 
-Dit gaat een heel kort deel zijn. Ik heb niet zo veel boeken in het Nederlands gelezen, maar de laatste tijd ben ik de Harry Potter boek series aan het lezen. Ik lees de boeken in mijn Kobo terwijl in naar de audiobook luistert via Styortel. Ik denk dat dat een goede strategie kan zijn om de uitsprak van alle woorden te luisteren. En de stem van Jan Meng is ook heel leuk voor dit soort verhaal denk ik.
+Dit gaat een heel kort deel zijn. Ik heb niet zo veel boeken in het Nederlands gelezen, maar de laatste tijd ben ik de Harry Potter boek series aan het lezen. Ik lees de boeken in mijn Kobo terwijl in naar de audiobook luistert via Storytel. Ik denk dat dat een goede strategie kan zijn om de uitsprak van alle woorden te luisteren. En de stem van Jan Meng is ook heel leuk voor dit soort verhaal denk ik.
 
 Bovendien heb ik *Harry Potter en de Steen der Wijzen* al gelezen en nu ben ik bezig met het tweede boek, *Harry Potter en de Geheime Kamer*. Die boeken zijn niet makkelijk volgens mij. Er zijn heel veel worden die ik niet ken, maar ik denk dat ik het verhaal goed kan begrijpen. Bijvoorbeeld merkte ik al veel verschillen tussen de boeken en de films op. Ik denk dat dat een goed teken is.
 
