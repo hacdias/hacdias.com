@@ -95,7 +95,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 4. [x] ~~Live abroad for more than 6 months~~ <small>[February 2021] [🇳🇱 NL]</small>
    1. [x] ~~Live abroad for more than 1 year~~ <small>[August 2021] [🇳🇱 NL]</small>
    2. [x] ~~Live abroad for more than 2 years~~ <small>[August 2022] [🇳🇱 NL]</small>
-      - At which point does "abroad" stop being "abroad"?
+   4. [ ] Live abroad for more than 4 years <small>[August 2025] [🇳🇱 NL]</small>
+      - [When does abroad stop being abroad?](/2024/01/10/when-does-abroad-stop-being-abroad/)
 5. [ ] Volunteer for a good cause for 6 months
 6. [ ] Donate for a good cause for 6 months
 7. [ ] Go on a hot air 🎈 balloon ride 
@@ -109,10 +110,11 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    1. [x] ~~Cycle 25 km in a single trip~~ <small>[August 2021] [28.22 km]</small>
    2. [x] ~~Cycle 40 km in a single trip~~ <small>[August 2023] [43.27 km]</small>
    3. [ ] Cycle 50 km in a single trip
-4. [x] ~~Workout more than twice a week for 1 month~~ <small>[March 2021]</small>
-    1. [x] ~~Workout more than twice a week for 2 months~~ <small>[April 2021]</small>
-    2. [x] ~~Workout more than twice a week for 4 months~~ <small>[June 2021]</small>
-    3. [ ] Workout more than twice a week for 8 months
+4. [x] ~~Workout at least twice a week for 1 month~~ <small>[March 2021] [April 2023]</small>
+    1. [x] ~~Workout at least twice a week for 2 months~~ <small>[April 2021] [May 2023]</small>
+    2. [x] ~~Workout at least twice a week for 4 months~~ <small>[June 2021] [August 2023]</small>
+    3. [x] ~~Workout at least twice a week for 8 months~~ <small>[December 2023]</small>
+    4. [ ] Workout at least twice a week for 1 year <small>[March 2024]</small>
 
 ## 🧶 Miscellaneous Goals
 
