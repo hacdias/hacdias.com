@@ -4,23 +4,18 @@ date: 2021-02-28T00:00:00Z
 categories:
   - photos
 coverImage: cdn:/2021-02-eindhoven-sunrise-church
+photos:
+  - url: cdn:/2021-02-eindhoven-sunrise-church
+  - url: cdn:/2021-02-eindhoven-sunrise
 ---
 
 <style>
-.g2021ehvsnrs {
+.fg-2021-02-28-eindhoven-sunrise {
   grid-template-columns: repeat(10, 1fr);
   grid-template-areas:
     "a a a b b b b b b b";
 }
 
-.g2021ehvsnrs > *:nth-child(1) { grid-area: a; }
-.g2021ehvsnrs > *:nth-child(2) { grid-area: b; }
+.fg-2021-02-28-eindhoven-sunrise > *:nth-child(1) { grid-area: a; }
+.fg-2021-02-28-eindhoven-sunrise > *:nth-child(2) { grid-area: b; }
 </style>
-
-<div class="fw g2021ehvsnrs fg">
-
-![](cdn:/2021-02-eindhoven-sunrise-church)
-
-![](cdn:/2021-02-eindhoven-sunrise)
-
-</div>

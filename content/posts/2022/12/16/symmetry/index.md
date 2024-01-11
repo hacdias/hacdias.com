@@ -8,5 +8,3 @@ coverImage: cdn:/7b6cbda7095232a61af0780fd23f1f5e43484a6178a8642366453190c6d2b28
 syndication:
   - https://www.instagram.com/p/CmPZ_VBoXh7
 ---
-
-![](cdn:/7b6cbda7095232a61af0780fd23f1f5e43484a6178a8642366453190c6d2b280?class=fw)
