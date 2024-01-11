@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 1rem;
+  margin: 0;
+  font-family: Iowan Old Style,
+    Apple Garamond, Baskerville,
+    Times New Roman,
+    Droid Serif, Times,
+    Source Serif Pro,
+    serif,
+    Apple Color Emoji,
+    Segoe UI Emoji,
+    Segoe UI Symbol;
+  background: #fdfdfd;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(6.5rem, 1fr));
+  grid-gap: 1rem;
+  align-items: center;
+  max-width: 50rem;
+  width: 100%;
+  text-align: center;
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+  max-height: 9rem;
+}
+
+figure {
+  margin: 0
+}
+
+figcaption {
+  min-height: 2rem;
+  font-size: 0.9rem;
+}
