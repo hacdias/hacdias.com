@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2019-09-sunflower
 ---
-
-![](cdn:/2019-09-sunflower?class=fw)

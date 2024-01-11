@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2020-10-study-desk
 ---
-
-![](cdn:/2020-10-study-desk?class=fw)

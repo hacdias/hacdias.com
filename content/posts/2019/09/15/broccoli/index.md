@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2019-09-broccoli
 ---
-
-![](cdn:/2019-09-broccoli?class=fw)

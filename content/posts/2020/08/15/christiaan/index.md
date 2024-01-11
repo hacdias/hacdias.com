@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2020-08-christian
 ---
-
-![](cdn:/2020-08-christian?class=fw)

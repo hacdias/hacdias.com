@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2019-09-magical-tree
 ---
-
-![](cdn:/2019-09-magical-tree?class=fw)

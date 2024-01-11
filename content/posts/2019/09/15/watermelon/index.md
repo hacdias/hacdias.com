@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2019-09-watermelon
 ---
-
-![](cdn:/2019-09-watermelon?class=fw)

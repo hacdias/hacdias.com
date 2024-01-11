@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2021-04-starry-sky
 ---
-
-![](cdn:/2021-04-starry-sky?class=fw)

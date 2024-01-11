@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2020-04-withchs-hut
 ---
-
-![](cdn:/2020-04-withchs-hut?class=fw)

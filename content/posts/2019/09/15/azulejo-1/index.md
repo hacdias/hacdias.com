@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2019-09-azulejo-sea
 ---
-
-![](cdn:/2019-09-azulejo-sea?class=fw)

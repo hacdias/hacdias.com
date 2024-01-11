@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2021-01-lovers-coffee
 ---
-
-![](cdn:/2021-01-lovers-coffee?class=fw)
