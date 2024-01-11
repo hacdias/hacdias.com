@@ -1,4 +1,5 @@
-{{- if or .Content .Params.rating }}
+{{- $hasPhotos := intersect .Params.categories (slice "photos" "graphics") -}}
+{{- if or .Content .Params.rating $hasPhotos }}
   {{ if intersect .Params.tags (slice "vergeet-niet-om-in-te-checken") }}
   <div class='box small'>
     <p>ℹ️ This is a post series where I talk about my experience learning Dutch, in Dutch. If you're not interested, feel free to ignore it. Do you speak Dutch and noticed my mistakes? Ik waardeer het als je me <a href="/contact/">erop wijst</a>!</p>
@@ -27,5 +28,30 @@
         {{ end }}
       </ul>
     {{- end }}
+
+    {{- if $hasPhotos }}
+      {{ if .Params.photos }}
+        {{ $slug := strings.TrimSuffix "/" .RelPermalink }}
+        {{ $slug = strings.TrimPrefix "/" $slug }}
+        {{ $slug = strings.Replace $slug "/" "-" }}
+
+        <div class='fw fg fg-{{ $slug }}'>
+          {{ range .Params.photos }}
+            {{ partial "helpers/figure" (dict
+              "Destination" .url
+              "Title" .title
+              "IsBlock" true
+            )}}
+          {{ end }}
+        </div>
+      {{ else }}
+        {{ partial "helpers/figure" (dict
+          "Destination" .Params.coverImage
+          "Title" .Title
+          "IsBlock" true
+          "Class" "fw"
+        )}}
+      {{ end }}
+    {{ end }}
   </div>
 {{- end -}}
