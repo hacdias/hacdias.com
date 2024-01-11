@@ -7,5 +7,3 @@ coverImage: cdn:/2020-09-silhouette
 syndication:
   - https://www.instagram.com/p/CFomCmWlT4d/
 ---
-
-![](cdn:/2020-09-silhouette?class=fw)

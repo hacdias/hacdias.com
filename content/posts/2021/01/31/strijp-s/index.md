@@ -4,12 +4,25 @@ date: 2021-01-31T07:33:49Z
 categories:
   - photos
 coverImage: cdn:/2021-01-strijps
+photos:
+  - url: cdn:/2021-01-strijps
+    title: Strijp-S
+  - url: cdn:/2021-01-strijps-colors
+    title: Strijp-S Colors
+  - url: cdn:/2021-01-eindhoven-center-01
+    title: Industrial Strijp-S
+  - url: cdn:/2021-01-strijps-train
+    title: Passing By
+  - url: cdn:/2021-01-strijps-stadium
+    title: PSV Stadium
+  - url: cdn:/2021-01-philips
+    title: Old Philips
 syndication:
   - https://www.instagram.com/p/COUnXtrrMQJ/
 ---
 
 <style>
-.g2021jkahb {
+.fg-2021-01-31-strijp-s {
   grid-template-columns: repeat(6, 1fr);
   grid-template-areas:
     "z z z z z z"
@@ -18,26 +31,10 @@ syndication:
     "e e e e e e";
 }
 
-.g2021jkahb > *:nth-child(1) { grid-area: z; }
-.g2021jkahb > *:nth-child(2) { grid-area: a; }
-.g2021jkahb > *:nth-child(3) { grid-area: b; }
-.g2021jkahb > *:nth-child(4) { grid-area: c; }
-.g2021jkahb > *:nth-child(5) { grid-area: d; }
-.g2021jkahb > *:nth-child(6) { grid-area: e; }
+.fg-2021-01-31-strijp-s > *:nth-child(1) { grid-area: z; }
+.fg-2021-01-31-strijp-s > *:nth-child(2) { grid-area: a; }
+.fg-2021-01-31-strijp-s > *:nth-child(3) { grid-area: b; }
+.fg-2021-01-31-strijp-s > *:nth-child(4) { grid-area: c; }
+.fg-2021-01-31-strijp-s > *:nth-child(5) { grid-area: d; }
+.fg-2021-01-31-strijp-s > *:nth-child(6) { grid-area: e; }
 </style>
-
-<div class="fw g2021jkahb fg">
-
-![](cdn:/2021-01-strijps "Strijp-S")
-
-![](cdn:/2021-01-strijps-colors "Strijp-S Colors")
-
-![](cdn:/2021-01-eindhoven-center-01 "Inudstrial Strijp-S")
-
-![](cdn:/2021-01-strijps-train "Passing By")
-
-![](cdn:/2021-01-strijps-stadium "PSV Stadium")
-
-![](cdn:/2021-01-philips "Old Philips")
-
-</div>

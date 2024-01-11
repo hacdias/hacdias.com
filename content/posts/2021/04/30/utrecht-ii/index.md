@@ -4,10 +4,17 @@ date: 2021-04-30T12:01:00Z
 categories:
   - photos
 coverImage: cdn:/2021-04-utrecht-17
+photos:
+  - url: cdn:/2021-04-utrecht-17
+  - url: cdn:/2021-04-utrecht-03
+  - url: cdn:/2021-04-utrecht-18
+  - url: cdn:/2021-04-utrecht-20
+  - url: cdn:/2021-04-utrecht-13
+  - url: cdn:/2021-04-utrecht-25
 ---
 
 <style>
-.g21utrii {
+.fg-2021-04-30-utrecht-ii {
   grid-template-columns: repeat(6, 1fr);
   grid-template-areas:
     "a a a a a a"
@@ -15,26 +22,10 @@ coverImage: cdn:/2021-04-utrecht-17
     "e e f f f f";
 }
 
-.g21utrii > *:nth-child(1) { grid-area: a; }
-.g21utrii > *:nth-child(2) { grid-area: b; }
-.g21utrii > *:nth-child(3) { grid-area: c; }
-.g21utrii > *:nth-child(4) { grid-area: d; }
-.g21utrii > *:nth-child(5) { grid-area: e; }
-.g21utrii > *:nth-child(6) { grid-area: f; }
+.fg-2021-04-30-utrecht-ii > *:nth-child(1) { grid-area: a; }
+.fg-2021-04-30-utrecht-ii > *:nth-child(2) { grid-area: b; }
+.fg-2021-04-30-utrecht-ii > *:nth-child(3) { grid-area: c; }
+.fg-2021-04-30-utrecht-ii > *:nth-child(4) { grid-area: d; }
+.fg-2021-04-30-utrecht-ii > *:nth-child(5) { grid-area: e; }
+.fg-2021-04-30-utrecht-ii > *:nth-child(6) { grid-area: f; }
 </style>
-
-<div class="fw g21utrii fg">
-
-![](cdn:/2021-04-utrecht-17)
-
-![](cdn:/2021-04-utrecht-03)
-
-![](cdn:/2021-04-utrecht-18)
-
-![](cdn:/2021-04-utrecht-20)
-
-![](cdn:/2021-04-utrecht-13)
-
-![](cdn:/2021-04-utrecht-25)
-
-</div>
