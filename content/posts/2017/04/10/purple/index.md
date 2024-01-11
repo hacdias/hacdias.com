@@ -7,5 +7,3 @@ coverImage: cdn:/2017-04-purple
 syndication:
   - https://www.instagram.com/p/BSrzGLTgBEG/
 ---
-
-![](cdn:/2017-04-purple?class=fw)

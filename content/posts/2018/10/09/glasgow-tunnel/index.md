@@ -7,5 +7,3 @@ coverImage: cdn:/2020-03-glasgow-tunnel
 syndication:
   - https://www.instagram.com/p/BoujX-FgPr7/
 ---
-
-![](cdn:/2020-03-glasgow-tunnel?class=fw)

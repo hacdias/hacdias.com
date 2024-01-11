@@ -5,5 +5,3 @@ categories:
   - photos
 coverImage: cdn:/2020-03-lisbon-03
 ---
-
-![](cdn:/2020-03-lisbon-03?class=fw "Fonte Luminosa")
