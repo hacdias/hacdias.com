@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang='{{ or .Params.language .Site.Language }}' class='dark'>
+<head>
+  {{ partial "base/head" . }}
+</head>
+<body>
+  <style>
+  :root {
+    --c-h: 0;
+    --c-s: 0%;
+    --c-l: 10%;
+  }
+
+  main {
+    padding: var(--ls);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    grid-gap: var(--ls);
+  }
+
+  .grid figure {
+    margin: 0;
+  }
+
+  .grid img {
+    aspect-ratio: 1;
+    object-fit: scale-down;
+  }
+  </style>
+
+  <main>
+    {{- $page := .Site.GetPage (printf "/%s" .Params.galleryCategory) }}
+    <p style='margin: 0 0 2rem 0;'><a href='{{ $page.RelPermalink }}'>← {{ $page.Title }}</a></p>
+
+    {{ $pages := where .Site.Pages "Params.categories" "intersect" (slice .Params.galleryCategory ) }}
+
+    <div class='grid'>
+      {{ range $page := $pages }}
+        {{ if $page.Params.photos}}
+          {{ range $photo := .Params.photos }}
+            <a href='{{ $page.RelPermalink }}'>
+              {{ partial "helpers/figure" (dict "Destination" $photo.url "Title" $photo.title "IsBlock" true "Sizes" (slice 250 500))}}
+            </a>
+          {{ end }}
+        {{ else }}
+          <a href='{{ $page.RelPermalink }}'>
+            {{ partial "helpers/figure" (dict "Destination" $page.Params.coverImage "Title" $page.Title "IsBlock" true "Sizes" (slice 250 500))}}
+          </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </main>
+</body>
+</html>
