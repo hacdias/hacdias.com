@@ -1,7 +1,7 @@
 {{- $url := urls.Parse .Destination }}
 {{- $query := $url.Query }}
 {{- $caption := true }}
-{{- $class := $query.Get "class" }}
+{{- $class := or ($query.Get "class") .Class }}
 {{- $id := "" }}
 {{- $src := "" }}
 

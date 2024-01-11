@@ -4,7 +4,7 @@ title: Photos
 
 <div class="box">
 
-📸 This is a curated list of photos, consider it my upgraded Instagram.
+📸 These are some of my photos. Check the [archive](/photos/archive/) for a gallery view.
 
 </div>
 
@@ -15,10 +15,10 @@ title: Photos
 :root.dark {
   --c-h: 0;
   --c-s: 0%;
-  --c-l: 13%;
+  --c-l: 10%;
 }
 
 :root.dark {
-  --c-l: 30%;
+  --c-l: 20%;
 }
 </style>
