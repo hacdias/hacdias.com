@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2020-03-azulejo-heart
 ---
-
-![](cdn:/2020-03-azulejo-heart?class=fw)

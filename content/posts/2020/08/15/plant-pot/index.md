@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2020-08-plant-pot
 ---
-
-![](cdn:/2020-08-plant-pot?class=fw)
