@@ -5,5 +5,3 @@ categories:
   - photos
 coverImage: cdn:/2020-03-lisbon-04
 ---
-
-![](cdn:/2020-03-lisbon-04?class=fw "Entrecampos Poente")

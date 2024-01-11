@@ -4,10 +4,28 @@ date: 2020-06-21T23:30:50.893Z
 categories:
   - photos
 coverImage: cdn:/2020-06-costa-alentejana-2
+photos:
+  - url: cdn:/2020-06-costa-alentejana-2
+  - url: cdn:/2020-06-costa-alentejana-5
+    title: Lonely Boat
+  - url: cdn:/2020-06-costa-alentejana-7
+    title: SN924L Astro
+  - url: cdn:/2020-06-costa-alentejana-1
+    title: Entrada da Barca
+  - url: cdn:/2020-06-costa-alentejana-3
+    title: Splashing Water
+  - url: cdn:/2020-06-costa-alentejana-4
+    title: Rocks
+  - url: cdn:/2020-06-costa-alentejana-6
+    title: SN786L Carina
+  - url: cdn:/2020-06-costa-alentejana-8
+    title: Clarabóias
+  - url: cdn:/2020-06-costa-alentejana-9
+    title: More Boats
 ---
 
 <style>
-.grid-costa-alentejana {
+.fg-2020-06-21-costa-alentejana {
   grid-template-columns: repeat(10, 1fr);
   grid-template-areas:
     "z z z z z z z z z z"
@@ -17,38 +35,16 @@ coverImage: cdn:/2020-06-costa-alentejana-2
     "g g g h h h h h h h";
 }
 
-.grid-costa-alentejana > *:nth-child(1) { grid-area: z; }
-.grid-costa-alentejana > *:nth-child(2) { grid-area: a; }
-.grid-costa-alentejana > *:nth-child(3) { grid-area: b; }
-.grid-costa-alentejana > *:nth-child(4) { grid-area: c; }
-.grid-costa-alentejana > *:nth-child(5) { grid-area: d; }
-.grid-costa-alentejana > *:nth-child(6) { grid-area: e; }
-.grid-costa-alentejana > *:nth-child(7) { grid-area: f; }
-.grid-costa-alentejana > *:nth-child(8) { grid-area: g; }
-.grid-costa-alentejana > *:nth-child(9) { grid-area: h; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(1) { grid-area: z; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(2) { grid-area: a; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(3) { grid-area: b; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(4) { grid-area: c; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(5) { grid-area: d; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(6) { grid-area: e; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(7) { grid-area: f; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(8) { grid-area: g; }
+.fg-2020-06-21-costa-alentejana > *:nth-child(9) { grid-area: h; }
 
 </style>
 
 Had the opportunity to travel through a bit of the Portuguese coast, which can be mesmerizing in some places.
-
-<div class="fw fg grid-costa-alentejana">
-
-![](cdn:/2020-06-costa-alentejana-2)
-
-![](cdn:/2020-06-costa-alentejana-5 "Lonely Boat")
-
-![](cdn:/2020-06-costa-alentejana-7 "SN924L Astro")
-
-![](cdn:/2020-06-costa-alentejana-1 "Entrada da Barca")
-
-![](cdn:/2020-06-costa-alentejana-3 "Splashing Water")
-
-![](cdn:/2020-06-costa-alentejana-4 "Rocks")
-
-![](cdn:/2020-06-costa-alentejana-6 "SN786L Carina")
-
-![](cdn:/2020-06-costa-alentejana-8 "Clarabóias")
-
-![](cdn:/2020-06-costa-alentejana-9 "More Boats")
-
-</div>

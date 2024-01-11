@@ -7,5 +7,3 @@ coverImage: cdn:/2020-09-rotterdam
 syndication:
   - https://www.instagram.com/p/CFWWNhHFFOy/
 ---
-
-![](cdn:/2020-09-rotterdam?class=fw "Yellow Stairs in Rotterdam")

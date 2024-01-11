@@ -5,5 +5,3 @@ categories:
   - photos
 coverImage: cdn:/2020-03-brussels
 ---
-
-![](cdn:/2020-03-brussels?class=fw)

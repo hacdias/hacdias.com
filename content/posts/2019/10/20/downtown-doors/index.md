@@ -5,5 +5,3 @@ categories:
   - photos
 coverImage: cdn:/2020-03-lisbon-01
 ---
-
-![](cdn:/2020-03-lisbon-01?class=fw "Downtown Doors")

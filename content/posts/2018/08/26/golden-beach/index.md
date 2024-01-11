@@ -7,5 +7,3 @@ coverImage: cdn:/2018-08-golden-beach
 syndication:
   - https://www.instagram.com/p/Bm8-Yung2vl/
 ---
-
-![](cdn:/2018-08-golden-beach?class=fw)

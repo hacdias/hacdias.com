@@ -7,5 +7,3 @@ coverImage: cdn:/2020-09-leafs
 syndication:
   - https://www.instagram.com/p/CFnOVZqlbKf/
 ---
-
-![](cdn:/2020-09-leafs?class=fw "Lonely Leafs")

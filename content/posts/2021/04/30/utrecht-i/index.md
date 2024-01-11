@@ -4,12 +4,19 @@ date: 2021-04-30T12:00:00Z
 categories:
   - photos
 coverImage: cdn:/2021-04-utrecht-02
+photos:
+  - url: cdn:/2021-04-utrecht-02
+  - url: cdn:/2021-04-utrecht-19
+  - url: cdn:/2021-04-utrecht-07
+  - url: cdn:/2021-04-utrecht-05
+  - url: cdn:/2021-04-utrecht-23
+  - url: cdn:/2021-04-utrecht-14
 ---
 
 I went to Utrecht, which turned out to be one of the loveliest cities in the Netherlands I've been to so far. It's picturesque, has canals and felt lively.
 
 <style>
-.g21utri {
+.fg-2021-04-30-utrecht-i {
   grid-template-columns: repeat(10, 1fr);
   grid-template-areas:
     "a a a a a a a a a a"
@@ -18,26 +25,10 @@ I went to Utrecht, which turned out to be one of the loveliest cities in the Net
     "f f f f f f f f f f";
 }
 
-.g21utri > *:nth-child(1) { grid-area: a; }
-.g21utri > *:nth-child(2) { grid-area: b; }
-.g21utri > *:nth-child(3) { grid-area: c; }
-.g21utri > *:nth-child(4) { grid-area: d; }
-.g21utri > *:nth-child(5) { grid-area: e; }
-.g21utri > *:nth-child(6) { grid-area: f; }
+.fg-2021-04-30-utrecht-i > *:nth-child(1) { grid-area: a; }
+.fg-2021-04-30-utrecht-i > *:nth-child(2) { grid-area: b; }
+.fg-2021-04-30-utrecht-i > *:nth-child(3) { grid-area: c; }
+.fg-2021-04-30-utrecht-i > *:nth-child(4) { grid-area: d; }
+.fg-2021-04-30-utrecht-i > *:nth-child(5) { grid-area: e; }
+.fg-2021-04-30-utrecht-i > *:nth-child(6) { grid-area: f; }
 </style>
-
-<div class="fw g21utri fg">
-
-![](cdn:/2021-04-utrecht-02)
-
-![](cdn:/2021-04-utrecht-19)
-
-![](cdn:/2021-04-utrecht-07)
-
-![](cdn:/2021-04-utrecht-05)
-
-![](cdn:/2021-04-utrecht-23)
-
-![](cdn:/2021-04-utrecht-14)
-
-</div>
