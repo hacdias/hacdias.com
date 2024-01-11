@@ -14,5 +14,3 @@ syndication:
 ---
 
 I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it.
-
-![](https://cdn.hacdias.com/media/2020-04-pixel-house.gif?class=fw)

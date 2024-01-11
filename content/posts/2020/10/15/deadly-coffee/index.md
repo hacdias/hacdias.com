@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2020-10-deadly-coffee
 ---
-
-![](cdn:/2020-10-deadly-coffee?class=fw)

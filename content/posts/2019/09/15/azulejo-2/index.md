@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2019-09-azuleto
 ---
-
-![](cdn:/2019-09-azuleto?class=fw)
