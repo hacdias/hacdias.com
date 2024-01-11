@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2020-09-cloudy-eye
 ---
-
-![](cdn:/2020-09-cloudy-eye?class=fw)

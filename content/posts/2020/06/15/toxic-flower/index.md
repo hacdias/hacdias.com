@@ -10,5 +10,3 @@ tags:
   - drawing
 coverImage: cdn:/2020-06-toxic-flower
 ---
-
-![](cdn:/2020-06-toxic-flower?class=fw)
