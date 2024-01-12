@@ -14,7 +14,7 @@ Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel se
 
 <!--more-->
 
-Trago-vos um pequeno poema (se se pode chamar isso!) que compus em 2012 e que se chama, como podem deduzir, **O Rei Que Tudo Perdeu.**
+Trago-vos um pequeno poema (se se pode chamar isso!) que compus a 14 de agosto de 2012 e que se chama, como podem deduzir, **O Rei Que Tudo Perdeu.**
 
 > Eu antes tinha terras,<br>
 poder e um reino,<br>
