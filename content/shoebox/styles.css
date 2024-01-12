@@ -38,8 +38,7 @@
   }
 
   .dark #navbar {
-    background: var(--dark-gray);
-    color: var(--c);
+    background: var(--mg);
   }
 
   #navbar a:hover,
@@ -49,6 +48,6 @@
 
   .dark #navbar a:hover,
   .dark #navbar a[aria-current="page"] {
-    background-color: var(--light-gray);
+    background-color: var(--fg);
   }
 }
