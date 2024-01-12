@@ -1,6 +1,5 @@
 ---
 title: Bedroom Quotes
-emoji: 🗣️
 date: 2024-01-12T19:33:38+01:00
 description: Quotes I used to have in my bedroom's wall as a teenager.
 ---
