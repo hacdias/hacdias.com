@@ -3,11 +3,11 @@ title: What Else Can I Find?
 noWebmentions: true
 ---
 
-This website contains more things than it looks at first glance. This page contains a list of every page that I deem important that is not on the main navigation. However, it does not show everything. Some things are up for you to discover!
+This website contains more things than it looks at first glance. This page contains a list of every page that I deem important that is not on the main navigation. However, it does not show everything. Some things are up for you to <span id='trigger'>discover</span>!
 
 <!--more-->
 
-<div class='terms grid bold'>
+<div id='more-list' class='terms grid bold'>
 
 - [🔖 Bookmarks](/bookmarks/)
 - [🗞️ Blogroll](/blogroll/)
@@ -15,6 +15,7 @@ This website contains more things than it looks at first glance. This page conta
 - [🚀 Impossible List](/impossible-list/)
 - [📚 Readings](/readings/)
 - [🎓 Resume](/resume/)
+- [📦 Shoebox](/shoebox/)
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
@@ -42,48 +43,34 @@ This website provides Atom and JSON feeds for the home page, which combines arti
 - **Photos**: [Atom](/photos/feed.xml), [JSON](/photos/feed.json).
 - **Readings**: [Atom](/readings/feed.xml), [JSON](/readings/feed.json).
 
-## 🧪 Experiments {#experiments}
-
-A galaxy, a black hole, whatever you wanna call it. This is a place for some weird experiments.
-Weird things can happen, you can feel dizzy, be aware of cats 🐈. <span id='trigger' hidden title='Click here, NOW!'>Or they might bite you!</span>
-
-<div id='experiments-list' class='terms grid bold'>
-
-- [🔵 Blue Screen of Death](../minisites/bsod/)
-- [📡 Glitch](../minisites/glitch/)
-- [🏳️‍🌈 PixelColorMania](../minisites/pixelcolormania/)
-- [⛈ Thunderstorm](../minisites/thunderstorm/)
-- [📺 TV Noise](../minisites/tv-noise/)
-- [💥 XKCD Clone](http://xkcd.hacdia.sh/)
-
-</div>
-
 <audio id="music" loop>
   <source src="https://cdn.hacdias.com/media/nyan-cat.mp3" type="audio/mpeg">
 </audio>
 
 <script>
 const trigger = document.getElementById('trigger')
-const experiments = document.getElementById('experiments-list')
-const experimentsLinks = experiments.querySelectorAll('a')
+const more = document.getElementById('more-list')
+const moreLinks = more.querySelectorAll('a')
 const musicEl = document.getElementById('music')
 
-trigger.hidden = false
+trigger.dataset.status = 'clickable'
+trigger.title = 'Should you click?'
 musicEl.currentTime = 0
 musicEl.load()
 
-Array.from(experimentsLinks).forEach(el => {
+Array.from(moreLinks).forEach(el => {
   el.addEventListener('mouseenter', () => {
-    if (experiments.classList.contains('nyan')) musicEl.play()
+    if (more.classList.contains('nyan')) musicEl.play()
   })
 
   el.addEventListener('mouseleave', () => {
-    if (experiments.classList.contains('nyan')) musicEl.pause()
+    if (more.classList.contains('nyan')) musicEl.pause()
   })
 })
 
 trigger.addEventListener('click', async () => {
-  experiments.classList.toggle('nyan')
-  trigger.classList.toggle('dn')
+  more.classList.toggle('nyan')
+  trigger.dataset.status = 'clicked'
+  trigger.title = 'You clicked... brave... what changed?'
 })
 </script>
