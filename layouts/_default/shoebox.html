@@ -1,0 +1,33 @@
+{{ define "main" }}
+  <header>
+    <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
+  </header>
+
+  {{ partialCached "post/content" . .Permalink }}
+
+  <style>
+  #shoebox {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    grid-gap: 1rem;
+  }
+
+  #shoebox a {
+    margin: 0;
+  }
+
+  #shoebox h2 {
+    font-size: inherit;
+    margin: 0 0 0.5rem 0;
+  }
+  </style>
+  
+  <div id='shoebox' class='terms'>
+    {{- range .Params.shoebox }}
+      <a href='{{ relURL .url }}' class='box'>
+        <h2>{{ .title }} {{ .Title }}</h2>
+        <p>{{ .description }}</p>
+      </a>
+    {{- end }}
+  </div>
+{{ end }}
