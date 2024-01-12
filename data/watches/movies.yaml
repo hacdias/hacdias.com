@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Aquaman
+  date: 2024-01-11
+  rating: 3
 - name: Mean Girls
   date: 2024-01-05
   rating: 3
