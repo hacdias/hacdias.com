@@ -3,6 +3,9 @@ title: Digital Shoebox
 noWebmentions: true
 noIndex: true
 shoebox:
+- title: 📈 Trending File Browser
+  description: The unexpected moment when an open-source side-project was trending in GitHub in 2017.
+  url: /2024/01/12/trending-filebrowser/
 - title: 🗣️ Bedroom Quotes
   description: Quotes I used to have in my bedroom's wall as a teenager.
   url: /2024/01/12/bedroom-quotes/
