@@ -9,6 +9,21 @@
   --c-l: 30%;
 }
 
+.shoebox {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: 1rem;
+}
+
+.shoebox a {
+  margin: 0;
+}
+
+.shoebox h2 {
+  font-size: inherit;
+  margin: 0 0 0.5rem 0;
+}
+
 @media screen and (min-width: 53.001rem) {
   body {
     background-color: #111;

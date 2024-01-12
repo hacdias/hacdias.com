@@ -1,0 +1,8 @@
+<div class='terms shoebox'>
+  {{- range index .Site.Data.shoeboxes (.Get 0) }}
+    <a href='{{ relURL .url }}' class='box'>
+      <h2>{{ .title }} {{ .Title }}</h2>
+      <p>{{ .description }}</p>
+    </a>
+  {{- end }}
+</div>
