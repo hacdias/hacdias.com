@@ -14,10 +14,11 @@ body {
 header {
   background: #314537;
   padding: 0 1rem;
+  display: flex;
+  align-items: center;
 }
 
 header img {
-  vertical-align: middle;
   height: 4rem;
   image-rendering: pixelated;
   image-rendering: crisp-edges;
@@ -26,7 +27,8 @@ header img {
 header h1 {
   margin: 0;
   color: #e7ede4;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
+  font-size: clamp(1rem, 4vw, 1.5rem);
 }
 
 main {
