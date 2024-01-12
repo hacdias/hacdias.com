@@ -5,7 +5,7 @@ date: 2015-02-28T16:00:38Z
 categories:
   - articles
 tags:
-  - literature
+  - writing
   - poetry
   - portuguese
 ---

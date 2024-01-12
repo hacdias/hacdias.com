@@ -3,7 +3,7 @@ title: Enquanto a Cidade Dorme
 language: pt
 date: 2024-01-12T20:47:52+01:00
 tags:
-  - literature
+  - writing
   - poetry
   - portuguese
 ---

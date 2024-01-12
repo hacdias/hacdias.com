@@ -5,6 +5,7 @@ categories:
   - articles
 tags:
   - writing
+  - poetry
   - creative
 ---
 
