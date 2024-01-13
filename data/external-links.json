@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 80,
+    "count": 81,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -298,6 +298,10 @@
       {
         "sourceUrl": "https://hacdias.com/2024/01/09/reflecting-on-what-i-want-to-learn-next/",
         "targetUrl": "https://github.com/cilium/pwru"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/12/trending-filebrowser/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -3228,16 +3232,6 @@
     ]
   },
   {
-    "domain": "hacdia.sh",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/more/",
-        "targetUrl": "http://xkcd.hacdia.sh/"
-      }
-    ]
-  },
-  {
     "domain": "haxx.se",
     "count": 1,
     "links": [
@@ -3604,6 +3598,16 @@
       {
         "sourceUrl": "https://hacdias.com/support/",
         "targetUrl": "https://liberapay.com/hacdias/"
+      }
+    ]
+  },
+  {
+    "domain": "linktr.ee",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/12/portrait-by-goncalo-dias/",
+        "targetUrl": "https://linktr.ee/kitsuneyume"
       }
     ]
   },
@@ -4034,6 +4038,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://www.paritybit.ca"
+      }
+    ]
+  },
+  {
+    "domain": "parlamento.pt",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/12/parlamento-dos-jovens/",
+        "targetUrl": "https://jovens.parlamento.pt/"
       }
     ]
   },
