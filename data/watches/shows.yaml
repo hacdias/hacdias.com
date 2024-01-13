@@ -2,6 +2,9 @@
 #   season:
 #   date:
 #   rating:
+- name: Smiley
+  season: 1
+  date: 2024-01-12
 - name: New Heights
   season: 2
   rating: 4
