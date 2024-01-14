@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Wonka
+  date: 2024-01-13
+  rating: 4
 - name: Aquaman
   date: 2024-01-11
   rating: 3
