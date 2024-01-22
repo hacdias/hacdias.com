@@ -3242,6 +3242,16 @@
     ]
   },
   {
+    "domain": "hackalot.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/21/attempt-visualizing-eve-room-weather-grafana/",
+        "targetUrl": "https://grafana.hackalot.nl/d/de4inWnZk/hackalot?orgId=1\u0026refresh=5m"
+      }
+    ]
+  },
+  {
     "domain": "haxx.se",
     "count": 1,
     "links": [
