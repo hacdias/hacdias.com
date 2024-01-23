@@ -26,7 +26,9 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 ## Experience
 
-### Software Engineer - [Protocol Labs] <small>[10/2022 - present]</small> {#protocol-labs-software-engineer}
+### Software Engineer - [Interplanetary Shipyard] <small>[01/2024 - present]</small> {#ipshipyard-software-engineer}
+
+### Software Engineer - [Protocol Labs] <small>[10/2022 - 01/2024]</small> {#protocol-labs-software-engineer}
 
 - Maintaining large [IPFS] (decentralized and  p2p file system) libraries, such as [Kubo] and [Boxo].
 - Co-authoring and implementing new [IPFS-related specifications][IPFS Specs] in Go and JavaScript.
@@ -56,6 +58,7 @@ I am a software engineer who cares about the web, decentralization, identity, us
 - Published a 60 page [e-book][Pplware Ebook] on how to program in C for beginners when I was 15 years old.
 
 [Protocol Labs]: https://protocol.ai
+[Interplanetary Shipyard]: https://ipshipyard.com
 [IPFS]: https://ipfs.tech
 [Kubo]: https://github.com/ipfs/kubo
 [Boxo]: https://github.com/ipfs/boxo
