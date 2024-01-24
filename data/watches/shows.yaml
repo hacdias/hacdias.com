@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: The OA
+  season: 2
+  rating: 4
+  date: 2024-01-23
+- name: The OA
   season: 1
   rating: 4
   date: 2024-01-19
