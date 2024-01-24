@@ -25,12 +25,12 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 10. [x] ~~Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train~~ <small>[[Eurostar](https://www.eurostar.com/)] [April 2022]</small>
 11. [x] ~~Travel on a 🚂 steam train~~ <small>[[Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)] [[July 2023](/2023/07/31/recently/)]</small>
 12. [x] ~~Travel on a 🍽️ restaurant train~~ <small>[[Dinner Train](https://dinnertrain.eu/)] [[August 2023](/2023/08/31/recently/)]</small>
-    1.  [x] ~~Travel on an historical 🍽️ restaurant **steam** train~~ <small>[[Miljoenenlijn](https://miljoenenlijn.nl/)] [October 2023]</small>
-13. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
-    1.  [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
-14. [ ] Travel between two countries 🌙 overnight by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
-15. [ ] Cross-country train trip 🇨🇦 from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
-16. [ ] Cross-country train trip 🇺🇸 from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
+13. [x] ~~Travel on an historical 🍽️🚂 restaurant steam train~~ <small>[[Miljoenenlijn](https://miljoenenlijn.nl/)] [[October 2023](/2023/10/31/recently/)]</small>
+14. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
+15. [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
+16. [ ] Overnight 🌙 travel between two countries by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
+17. [ ] Cross-country 🇨🇦 train trip  from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
+18. [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 
 ### Countries Bucket List
 
@@ -70,7 +70,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 2.  [x] ~~Create a website~~ <small>[July 2014]</small>
     1. [x] ~~Maintain a website for 1 years~~ <small>[July 2015]</small>
     2. [x] ~~Maintain a website for 5 years~~ <small>[July 2019]</small>
-    3. [ ] Maintain a website for 10 years
+    3. [ ] Maintain a website for 10 years <small>[July 2024]</small>
 3. [x] ~~Write a self-published ebook~~ <small>[February 2015] [[link](https://cdn.hacdias.com/media/aprenda-a-programar.pdf)]</small>
 4. [x] ~~Participate in the National Olympiads of Informatics~~ <small>[April 2016] [10th place]</small>
    1. [x] ~~Participate again~~ <small>[May 2017] [6th place]</small>
@@ -90,16 +90,15 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 ## 🦄 Life Goals
 
 1. [x] ~~Start studying Computer Science~~ <small>[September 2017]</small>
-2. [x] ~~Make my parents fly~~ <small>[July 2019]</small>
-3. [x] ~~Study abroad on Master's~~ <small>[September 2020]</small>
+2. [x] ~~Make my parents fly~~ <small>[July 2019] [🇵🇹 Azores]</small>
+3. [x] ~~Study abroad on Master's~~ <small>[September 2020] [🇳🇱 Eindhoven]</small>
 4. [x] ~~Live abroad for more than 6 months~~ <small>[February 2021] [🇳🇱 NL]</small>
    1. [x] ~~Live abroad for more than 1 year~~ <small>[August 2021] [🇳🇱 NL]</small>
    2. [x] ~~Live abroad for more than 2 years~~ <small>[August 2022] [🇳🇱 NL]</small>
-   4. [ ] Live abroad for more than 4 years <small>[August 2025] [🇳🇱 NL]</small>
-      - [When does abroad stop being abroad?](/2024/01/10/when-does-abroad-stop-being-abroad/)
-5. [ ] Volunteer for a good cause for 6 months
-6. [ ] Donate for a good cause for 6 months
-7. [ ] Go on a hot air 🎈 balloon ride 
+   4. [ ] [Live abroad for more than 5 years](/2024/01/10/when-does-abroad-stop-being-abroad/ "When does abroad stop being abroad?") <small>[August 2025] [🇳🇱 NL]</small>
+1. [ ] Volunteer for a good cause for 6 months
+2. [ ] Donate for a good cause for 6 months
+3. [ ] Go on a hot air 🎈 balloon ride 
 
 ## 🫀 Health and Fitness Goals
 
