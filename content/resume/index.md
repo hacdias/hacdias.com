@@ -22,7 +22,7 @@ layout: resume
 
 </div>
 
-I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I currently work at Protocol Labs, making IPFS better.
+I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I currently work at Interplanetary Shipyard, where I maintain decentralized and p2p file system libraries, as well as beginning to dip my toes into infrastructure.
 
 ## Experience
 
@@ -30,8 +30,8 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 ### Software Engineer - [Protocol Labs] <small>[10/2022 - 01/2024]</small> {#protocol-labs-software-engineer}
 
-- Maintaining large [IPFS] (decentralized and  p2p file system) libraries, such as [Kubo] and [Boxo].
-- Co-authoring and implementing new [IPFS-related specifications][IPFS Specs] in Go and JavaScript.
+- Maintained large [IPFS] (decentralized and  p2p file system) libraries, such as [Kubo] and [Boxo].
+- Co-authored and implemented new [IPFS-related specifications][IPFS Specs] in Go and JavaScript.
 
 ### Part-time Software Engineer - [Protocol Labs] <small>[11/2017 - 09/2022]</small> {#protocol-labs-part-time-software-engineer}
 
