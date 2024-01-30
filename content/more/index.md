@@ -72,5 +72,5 @@ trigger.addEventListener('click', async () => {
   more.classList.toggle('nyan')
   trigger.dataset.status = 'clicked'
   trigger.title = 'You clicked... brave... what changed?'
-})
+}, { once: true })
 </script>
