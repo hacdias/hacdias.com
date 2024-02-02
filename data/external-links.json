@@ -1650,6 +1650,20 @@
     ]
   },
   {
+    "domain": "europa.eu",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
+        "targetUrl": "https://eur-lex.europa.eu/eli/reg/2019/1157/oj"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/01/recently/",
+        "targetUrl": "https://eur-lex.europa.eu/eli/reg/2019/1157/oj"
+      }
+    ]
+  },
+  {
     "domain": "fastmail.com",
     "count": 2,
     "links": [
@@ -2968,16 +2982,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/11/19/the-wasted-potential-of-css-attribute-selectors/",
         "targetUrl": "https://elisehe.in/2022/10/16/attribute-selectors"
-      }
-    ]
-  },
-  {
-    "domain": "europa.eu",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
-        "targetUrl": "https://eur-lex.europa.eu/eli/reg/2019/1157/oj"
       }
     ]
   },
