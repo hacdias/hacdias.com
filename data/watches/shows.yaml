@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Percy Jackson
+  season: 1
+  rating: 4
+  date: 2024-02-01
 - name: The Sex Lives of College Girls
   season: 2
   rating: 3
