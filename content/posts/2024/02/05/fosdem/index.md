@@ -1,5 +1,5 @@
 ---
-title: Surviving FOSDEM 2024
+title: Surviving FOSDEM '24
 date: 2024-02-05T18:16:01+01:00
 coverImage: cdn:/2024-02-git
 categories:
