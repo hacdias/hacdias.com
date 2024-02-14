@@ -9,7 +9,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 <!--more-->
 
-## ✈️ Travel Goals
+## ✈️ Travel Goals {#travel}
 
 1. [x] ~~Visit 5 countries~~ <small>[October 2018] [🇵🇹 PT, 🇪🇸 ES, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC]</small>
    1. [x] ~~Visit 10 countries~~ <small>[February 2020] [🇩🇪 DE, 🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU]</small>
@@ -32,7 +32,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 17. [ ] Cross-country 🇨🇦 train trip  from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 18. [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 
-### Countries Bucket List
+### Countries Bucket List {#countries}
 
 <div class="trips">
 
@@ -62,7 +62,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 </div>
 
-## 💼 Professional Goals
+## 💼 Professional Goals {#professional}
 
 1. [x] ~~Participate in the Youth Parliament~~ <small>[March 2012]</small>
    1. [x] ~~Go to Districts~~ <small>[March 2012, President] [February 2013, Deputy] [March 2016, Deputy]</small>
@@ -87,7 +87,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 13. [ ] Host a meetup
 14. [x] ~~Learn more about neuroscience~~ <small>[June 2020] [[MCB80x](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
 
-## 🦄 Life Goals
+## 🦄 Life Goals {#life}
 
 1. [x] ~~Start studying Computer Science~~ <small>[September 2017]</small>
 2. [x] ~~Make my parents fly~~ <small>[July 2019] [🇵🇹 Azores]</small>
@@ -100,7 +100,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 2. [ ] Donate for a good cause for 6 months
 3. [ ] Go on a hot air 🎈 balloon ride 
 
-## 🫀 Health and Fitness Goals
+## 🫀 Health and Fitness Goals {#health}
 
 1. [x] ~~Close all rings on Apple Watch for 1 month~~ <small>[March 2021]</small>
    1. [x] ~~Close all rings on Apple Watch for 2 months~~ <small>[April 2021]</small>
@@ -115,7 +115,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
     3. [x] ~~Workout at least twice a week for 8 months~~ <small>[December 2023]</small>
     4. [ ] Workout at least twice a week for 1 year <small>[March 2024]</small>
 
-## 🧶 Miscellaneous Goals
+## 🧶 Miscellaneous Goals {#misc}
 
 1. [ ] Travel a subway train in the front cabin
 2. [ ] Visit an airplane's cockpit
