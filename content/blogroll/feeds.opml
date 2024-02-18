@@ -2,11 +2,10 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Wed, 10 Jan 2024 06:34:15 UTC</dateCreated>
+        <dateCreated>Sun, 18 Feb 2024 04:00:00 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
-            <outline title="Mike Stone" text="Mike Stone" xmlUrl="https://mikestone.me/feed.xml" htmlUrl="https://mikestone.me/"></outline>
             <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.json" htmlUrl="https://aaronparecki.com/"></outline>
             <outline title="Alistair Shepherd" text="Alistair Shepherd" xmlUrl="https://alistairshepherd.uk/feed.xml" htmlUrl="https://www.alistairshepherd.uk/"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog"></outline>
@@ -22,7 +21,7 @@
             <outline title="Coder&#39;s Block" text="Coder&#39;s Block" xmlUrl="https://codersblock.com/rss.xml" htmlUrl="https://codersblock.com"></outline>
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/"></outline>
             <outline title="Daniel Stenberg" text="Daniel Stenberg" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog"></outline>
-            <outline title="Danny van Kooten" text="Danny van Kooten" xmlUrl="https://www.dannyvankooten.com/atom.xml" htmlUrl="https://dannyvankooten.com/"></outline>
+            <outline title="Danny van Kooten" text="Danny van Kooten" xmlUrl="https://www.dannyvankooten.com/feed.xml" htmlUrl="https://dannyvankooten.com/"></outline>
             <outline title="Dave Rupert" text="Dave Rupert" xmlUrl="https://daverupert.com/atom.xml" htmlUrl="https://daverupert.com"></outline>
             <outline title="Drew DeVault" text="Drew DeVault" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com"></outline>
             <outline title="ExpLog" text="ExpLog" xmlUrl="https://explog.in/rss.xml" htmlUrl="https://explog.in/"></outline>
@@ -54,6 +53,7 @@
             <outline title="Max Böck" text="Max Böck" xmlUrl="https://mxb.dev/feed.xml" htmlUrl="https://mxb.dev"></outline>
             <outline title="Max Inden" text="Max Inden" xmlUrl="https://max-inden.de/index.xml" htmlUrl="https://max-inden.de/"></outline>
             <outline title="Michael Lynch" text="Michael Lynch" xmlUrl="https://mtlynch.io/index.xml" htmlUrl="https://mtlynch.io/"></outline>
+            <outline title="Mike Stone" text="Mike Stone" xmlUrl="https://mikestone.me/feed.xml" htmlUrl="https://mikestone.me/"></outline>
             <outline title="Monica Dinculescu" text="Monica Dinculescu" xmlUrl="https://meowni.ca/atom.xml" htmlUrl="https://meowni.ca/"></outline>
             <outline title="Nikita Karamov" text="Nikita Karamov" xmlUrl="https://www.kytta.dev/blog/atom.xml" htmlUrl="https://www.kytta.dev/blog/"></outline>
             <outline title="Niq" text="Niq" xmlUrl="https://niqwithq.com/feed.xml" htmlUrl="https://niqwithq.com"></outline>
