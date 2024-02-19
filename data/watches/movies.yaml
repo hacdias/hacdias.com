@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: "Dune: Part One"
+  date: 2024-02-17
+  rating: 4
 - name: The Boy and the Heron
   date: 2024-02-16
   rating: 4
