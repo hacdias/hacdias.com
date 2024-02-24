@@ -13,7 +13,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 1. [x] ~~Visit 5 countries~~ <small>[October 2018] [🇵🇹 PT, 🇪🇸 ES, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC]</small>
    1. [x] ~~Visit 10 countries~~ <small>[February 2020] [🇩🇪 DE, 🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU]</small>
-   2. [ ] Visit 15 countries <small>[🇳🇱 NL, 🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA]</small>
+   2. [x] ~~Visit 15 countries~~ <small>[February 2024] [🇳🇱 NL, 🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA, 🇦🇹 AT]</small>
+   3. [ ] Visit 20 countries
 2. [x] ~~Visit 🇵🇹 Azores~~ <small>[July 2019]</small>
 3. [ ] Visit 🇵🇹 Madeira
 4. [ ] Visit 🇳🇴 Svalbard
@@ -28,7 +29,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 13. [x] ~~Travel on an historical 🍽️🚂 restaurant steam train~~ <small>[[Miljoenenlijn](https://miljoenenlijn.nl/)] [[October 2023](/2023/10/31/recently/)]</small>
 14. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
 15. [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
-16. [ ] Overnight 🌙 travel between two countries by train <small>[[Nightjet](https://www.nightjet.com/)]</small>
+16. [x] ~~Overnight 🌙 travel between two countries by train~~ <small>[[Nightjet](https://www.nightjet.com/)] [February 2024]</small>
 17. [ ] Cross-country 🇨🇦 train trip  from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 18. [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 
@@ -37,7 +38,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 <div class="trips">
 
   - 🇦🇺 Australia
-  - 🇦🇹 Austria
   - 🇧🇷 Brazil
   - 🇨🇦 Canada
   - 🇩🇰 Denmark
