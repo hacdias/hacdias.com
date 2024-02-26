@@ -294,6 +294,10 @@ train_stations:
     name: Wernigerode Hbf
     latitude: 51.84013619214658
     longitude: 10.789349062293116
+  wien_hbf: &station_wien_hbf
+    name: Wien Hbf
+    latitude: 48.186667
+    longitude: 16.38
 
 bus_stops:
   eindhoven_jfkennedylaan: &eindhoven_jfkennedylaan
@@ -316,6 +320,10 @@ bus_stops:
     country: France
     latitude: 48.83618735
     longitude: 2.379489121167401
+  wien_erdberg: &wien_erdberg
+    name: Wien Erdberg
+  bratislava_most_snp: &bratislava_most_snp
+    name: Bratislava (Most SNP)
 
 trips:
 - name: Graduation Trip
@@ -656,6 +664,17 @@ trips:
   - { departure: 2024-02-02T12:42:00+00:00, arrival: 2024-02-02T14:12:00+00:00, origin: *station_breda, destination: *brussels_central_station, type: train, operator: NS, number: IC1134 }
   - { departure: 2024-02-05T07:49:00+00:00, arrival: 2024-02-05T09:18:00+00:00, origin: *brussels_central_station, destination: *station_breda, type: train, operator: NS, number: IC9239 }
   - { departure: 2024-02-05T09:38:00+01:00, arrival: 2024-02-05T10:16:00+01:00, origin: *station_breda, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC1151 }
+- name: Small Trip With Partner
+  place: "🇦🇹 🇸🇰 Vienna and Bratislava"
+  start: 2024-02-21
+  date: 2024-02-26
+  latitude: 48.220167
+  longitude: 16.2148664
+  itinerary:
+    - { departure: 2024-02-21T19:33:00+00:00, arrival: 2024-02-22T09:17:00+00:00, origin: *station_utrecht_centraal, destination: *station_wien_hbf, type: train, operator: OBB, number: NJ40421 }
+    - { departure: 2024-02-24T10:20:00+00:00, arrival: 2024-02-24T11:30:00+00:00, origin: *wien_erdberg, destination: *bratislava_most_snp, type: bus, operator: FlixBus, number: '901' }
+    - { departure: 2024-02-24T18:30:00+00:00, arrival: 2024-02-24T19:35:00+00:00, origin: *bratislava_most_snp, destination: *wien_erdberg, type: bus, operator: FlixBus, number: '901' }
+    - { departure: 2024-02-25T20:10:00+01:00, arrival: 2024-02-26T09:29:00+01:00, origin: *station_wien_hbf, destination: *station_utrecht_centraal, type: train, operator: OBB, number: NJ40490 }
 # - name:
 #   place:
 #   start:
