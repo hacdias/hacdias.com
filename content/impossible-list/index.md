@@ -27,7 +27,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 11. [x] ~~Travel on a 🚂 steam train~~ <small>[[Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)] [[July 2023](/2023/07/31/recently/)]</small>
 12. [x] ~~Travel on a 🍽️ restaurant train~~ <small>[[Dinner Train](https://dinnertrain.eu/)] [[August 2023](/2023/08/31/recently/)]</small>
 13. [x] ~~Travel on an historical 🍽️🚂 restaurant steam train~~ <small>[[Miljoenenlijn](https://miljoenenlijn.nl/)] [[October 2023](/2023/10/31/recently/)]</small>
-14. [x] ~~Overnight 🌙 travel between two countries by train~~ <small>[[Nightjet](https://www.nightjet.com/)] [February 2024]</small>
+14. [x] ~~Overnight 🌙 travel between two countries by train~~ <small>[[Nightjet](https://www.nightjet.com/)] [[February 2024](/2024/02/27/traveling-to-vienna-with-the-nightjet/)]</small>
 15. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
 16. [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
 17. [ ] Cross-country 🇨🇦 train trip  from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
