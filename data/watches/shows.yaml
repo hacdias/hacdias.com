@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: 'Avatar: The Last Airbender (Live Action)'
+  season: 1
+  rating: 4
+  date: 2024-02-26
 - name: De geheimen van Barslet
   season: 1
   rating: 3
