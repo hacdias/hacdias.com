@@ -32,6 +32,16 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Harry Potter en de Geheime Kamer
+    author: J.K. Rowling
+    date: 2024-02-17
+    rating: 4
+    uid: isbn:9781781103470
+  - name: Harry Potter en de Steen Der Wijzen
+    author: J.K. Rowling
+    date: 2023-12-23
+    rating: 4
+    uid: isbn:9781781103326
   - name: Minoes
     author: Annie M.G. Schmidt
     pages: 160
