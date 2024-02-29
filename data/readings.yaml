@@ -1,4 +1,10 @@
-reading: []
+reading:
+  - name: Het diner (Leeslicht)
+    author: Herman Koch
+    publisher: Eenvoudig Communiceren
+    uid: isbn:9789086966998
+    pages: 152
+    date: 2024-02-27
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
