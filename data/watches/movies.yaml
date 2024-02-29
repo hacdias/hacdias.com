@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: The Zone of Interest
+  rating: 3
+  date: 2024-02-28
 - name: "Dune: Part One"
   date: 2024-02-17
   rating: 4
