@@ -2,6 +2,9 @@
 #   season:
 #   date:
 #   rating:
+- name: One Day
+  rating: 4
+  date: 2024-03-01
 - name: 'Avatar: The Last Airbender (Live Action)'
   season: 1
   rating: 4
