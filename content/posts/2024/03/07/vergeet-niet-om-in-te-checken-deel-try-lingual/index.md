@@ -7,6 +7,8 @@ categories:
 tags:
 - vergeet-niet-om-in-te-checken
 - nederlands
+syndication:
+- https://fosstodon.org/@hacdias/112053960697460057
 ---
 
 Welkom bij de vierde deel van deze serie: vergeet niet om in te checken. Vandaag ga ik een beetje hebben over mijn afgelopen cursus Nederlands, de toekomstige cursussen en mijn plannen, en ook over het proces om hoopelijk drietalig te worden.
@@ -17,7 +19,7 @@ Welkom bij de vierde deel van deze serie: vergeet niet om in te checken. Vandaag
 
 In de afgelopen maand heb ik een beetje geschreven over mijn nieuwe cursus Nederlands, waar ik toen mee begonnen was. Fast forward[^1] naar deze maand en het is al afgelopen. Ik neem intensief cursussen waarin ik twee keer per week lessen heb, en ze duren maar 8 weken.
 
-Op de laatste dag van de cursus, dus twee weken geleden, mijn medecursisten, ik en één van de docenten gingen bowlen. Het was een hele gezellige ervaring. Tot nu vind ik deze groep medecursisten de beste. Ik hoop dat ik sommige van hun in de volgende cursussen zal zien.
+Op de laatste dag van de cursus, dus twee weken geleden, gingen mijn medecursisten, ik en één van de docente bowlen. Het was een hele gezellige ervaring. Tot nu vind ik deze groep medecursisten de beste. Ik hoop dat ik sommige van hun in de volgende cursussen zal zien.
 
 Mijn plan is om een nieuwe intensief cursus Nederlands te beginnen volgende week. Een B1 cursus. Helaas kan ik niet naar de eerste les gaan, maar ik heb de docente al gemaild. Dus ik hoop dat het prima is. Deze cursus loopt aan het einde van april af, het is ook 8 weken.
 
