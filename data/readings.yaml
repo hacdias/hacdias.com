@@ -26,6 +26,11 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Harry Potter en de Gevangene van Azkaban
+    author: J.K. Rowling
+    date: 2024-03-08
+    rating: 4
+    uid: isbn:9781781103487
   - name: Het diner (Leeslicht)
     author: Herman Koch
     publisher: Eenvoudig Communiceren
