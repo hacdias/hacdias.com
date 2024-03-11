@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Robot Dreams
+  date: 2024-03-10
+  rating: 4
 - name: "Dune: Part Two"
   date: 2024-03-03
   rating: 5
