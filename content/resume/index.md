@@ -12,7 +12,7 @@ layout: resume
 
   # Henrique Dias
 
-  📍 Eindhoven, NL - [mail@hacdias.com](mailto:mail@hacdias.com)
+  Eindhoven, The Netherlands - [mail@hacdias.com](mailto:mail@hacdias.com)
 
   </div>
 
@@ -22,29 +22,32 @@ layout: resume
 
 </div>
 
-I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I currently work at Interplanetary Shipyard, where I maintain decentralized and p2p file system libraries, as well as beginning to dip my toes into infrastructure.
+I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I currently work at Interplanetary Shipyard, where I build and maintain specialized services to bridge HTTP and content-addressed, decentralized and P2P systems.
 
 ## Experience
 
 ### Software Engineer - [Interplanetary Shipyard] <small>[01/2024 - present]</small> {#ipshipyard-software-engineer}
 
+- Co-author and maintainer of specialized services to bridge HTTP and P2P systems in Go.
+- Maintainer of libraries for content-addressed, decentralized and P2P systems in Go.
+
 ### Software Engineer - [Protocol Labs] <small>[10/2022 - 01/2024]</small> {#protocol-labs-software-engineer}
 
-- Maintained large [IPFS] (decentralized and  p2p file system) libraries, such as [Kubo] and [Boxo].
-- Co-authored and implemented new [IPFS-related specifications][IPFS Specs] in Go and JavaScript.
+- Co-authored and implemented [IPFS specifications][IPFS Specs] in Go and JavaScript.
+- Implemented and maintained HTTP APIs and their respective clients in Go and JavaScript.
+- Maintained large [IPFS] (decentralized, P2P network) libraries in Go, such as [Kubo] and [Boxo].
 
 ### Part-time Software Engineer - [Protocol Labs] <small>[11/2017 - 09/2022]</small> {#protocol-labs-part-time-software-engineer}
 
-- Revamped and maintained [IPFS Desktop] and [IPFS Web UI], Electron and React applications.
 - Co-authored [Testground], a testing platform for decentralized and peer-to-peer systems in Go.
+- Revamped and maintained [IPFS Desktop] and [IPFS Web UI], Electron and React applications.
 - Maintained multiple Go, JavaScript, Node.js and Electron projects.
 
 ### Student Teaching Assistant - [Eindhoven University of Technology] <small>[09/2021 - 06/2022]</small> {#tue-ta}
 
-- Assisted teaching for 1 quartile in a Deep Learning course.
-- Prepared materials, gave practical classes and helped students.
-- Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
+- Prepared materials, gave practical classes and helped students in a Deep Learning course.
 - Mentored 12 new master students from different nationalities during their first semester.
+- Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
 
 ### Software Developer - [Upframe] <small>[09/2016 - 05/2018]</small> {#upframe}
 

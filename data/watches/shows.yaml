@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Young Royals
+  season: 5
+  rating: 5
+  date: 2024-03-21
 - name: One Day
   rating: 4
   date: 2024-03-01
