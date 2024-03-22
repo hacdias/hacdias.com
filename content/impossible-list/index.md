@@ -30,7 +30,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 14. [x] ~~Overnight 🌙 travel between two countries by train~~ <small>[[Nightjet](https://www.nightjet.com/)] [[February 2024](/2024/02/27/traveling-to-vienna-with-the-nightjet/)]</small>
 15. [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
 16. [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
-17. [ ] Cross-country 🇨🇦 train trip  from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
+17. [ ] Cross-country 🇨🇦 train trip from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 18. [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 
 ### Countries Bucket List {#countries}
@@ -113,7 +113,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
     1. [x] ~~Workout at least twice a week for 2 months~~ <small>[April 2021] [May 2023]</small>
     2. [x] ~~Workout at least twice a week for 4 months~~ <small>[June 2021] [August 2023]</small>
     3. [x] ~~Workout at least twice a week for 8 months~~ <small>[December 2023]</small>
-    4. [ ] Workout at least twice a week for 1 year <small>[March 2024]</small>
+    4. [x] ~~Workout at least twice a week for 1 year~~ <small>[March 2024]</small>
+    5. [ ] Workout at least twice a week for 2 years <small>[March 2025]</small>
 
 ## 🧶 Miscellaneous Goals {#misc}
 
