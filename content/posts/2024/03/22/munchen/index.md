@@ -3,6 +3,7 @@ title: München
 date: 2024-03-22T15:16:41+01:00
 categories:
   - photos
+coverImage: cdn:/2024-03-munchen-way
 photos:
   - url: cdn:/2024-03-munchen-flowers
     title: Flowers Shop
