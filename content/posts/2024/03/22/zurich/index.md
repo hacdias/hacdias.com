@@ -6,13 +6,13 @@ categories:
 coverImage: cdn:/2024-03-zurich
 photos:
   - url: cdn:/2024-03-zurich-boat
-    title: Flowers Shop
+    title: Misty Boat
   - url: cdn:/2024-03-zurich-frozen-car
-    title: Hallway
+    title: Unfocused
   - url: cdn:/2024-03-zurich-train
-    title: Hallway
+    title: Train Up In The Mountains
   - url: cdn:/2024-03-zurich
-    title: Soft Waterfall
+    title: Skyfall
 ---
 
 <style>
