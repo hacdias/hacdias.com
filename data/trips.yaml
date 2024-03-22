@@ -181,6 +181,9 @@ train_stations:
     country: Belgium
     latitude: 51.03609455
     longitude: 3.71080494219295
+  geneve_cornavin: &station_geneve_cornavin
+    name: Genève Cornavin
+    country: Switzerland
   goslar: &station_goslar
     name: Goslar
     country: Germany
@@ -236,11 +239,17 @@ train_stations:
     country: Germany
     latitude: 51.19692906751327
     longitude: 6.446281036531824
+  munchen_hbf: &station_munchen_hbf
+    name: München Hbf
+    country: Germany
   paris_gare_du_nord: &station_paris_gare_du_nord
     name: Paris Gare du Nord
     country: France
     latitude: 48.88111034893081
     longitue: 2.3555497314521947
+  paris_gare_de_lyon: &station_paris_gare_de_lyon
+    name: Paris Gare de Lyon
+    country: France
   pepinster: &station_pepinster
     name: Pepinster
     country: Belgium
@@ -298,6 +307,9 @@ train_stations:
     name: Wien Hbf
     latitude: 48.186667
     longitude: 16.38
+  zurich_hb: &station_zurich_hb
+    name: Zürich HB
+    country: Switzerland
 
 bus_stops:
   eindhoven_jfkennedylaan: &eindhoven_jfkennedylaan
@@ -374,7 +386,7 @@ trips:
   - { departure: 2019-01-31T08:25:00Z, arrival: 2019-01-31T10:25:00Z, origin: *airport_lis, destination: *airport_bru, type: air, operator: TAP Air Portugal, number: TP646 }
   - { departure: 2019-02-03T19:15:00Z, arrival: 2019-02-03T21:15:00Z, origin: *airport_bru, destination: *airport_lis, type: air, operator: TAP Air Portugal, number: TP649 }
 - name: Winter Trip With Friends
-  place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London and Cambridge"
+  place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London & Cambridge"
   start: 2019-02-05
   date: 2019-02-13
   latitude: 52.205682141849415
@@ -660,21 +672,36 @@ trips:
   latitude: 50.84814463
   longitude: 4.3509642
   itinerary:
-  - { departure: 2024-02-02T11:14:00+00:00, arrival: 2024-02-02T12:04:00+00:00, origin: *station_eindhoven_centraal, destination: *station_breda, type: train, operator: NS, number: IC1134 }
-  - { departure: 2024-02-02T12:42:00+00:00, arrival: 2024-02-02T14:12:00+00:00, origin: *station_breda, destination: *brussels_central_station, type: train, operator: NS, number: IC1134 }
-  - { departure: 2024-02-05T07:49:00+00:00, arrival: 2024-02-05T09:18:00+00:00, origin: *brussels_central_station, destination: *station_breda, type: train, operator: NS, number: IC9239 }
+  - { departure: 2024-02-02T11:14:00+01:00, arrival: 2024-02-02T12:04:00+01:00, origin: *station_eindhoven_centraal, destination: *station_breda, type: train, operator: NS, number: IC1134 }
+  - { departure: 2024-02-02T12:42:00+01:00, arrival: 2024-02-02T14:12:00+01:00, origin: *station_breda, destination: *brussels_central_station, type: train, operator: NS, number: IC1134 }
+  - { departure: 2024-02-05T07:49:00+01:00, arrival: 2024-02-05T09:18:00+01:00, origin: *brussels_central_station, destination: *station_breda, type: train, operator: NS, number: IC9239 }
   - { departure: 2024-02-05T09:38:00+01:00, arrival: 2024-02-05T10:16:00+01:00, origin: *station_breda, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC1151 }
 - name: Small Trip With Partner
-  place: "🇦🇹 🇸🇰 Vienna and Bratislava"
+  place: "🇦🇹 🇸🇰 Vienna & Bratislava"
   start: 2024-02-21
   date: 2024-02-26
   latitude: 48.220167
   longitude: 16.2148664
   itinerary:
-    - { departure: 2024-02-21T19:33:00+00:00, arrival: 2024-02-22T09:17:00+00:00, origin: *station_utrecht_centraal, destination: *station_wien_hbf, type: train, operator: OBB, number: NJ40421 }
-    - { departure: 2024-02-24T10:20:00+00:00, arrival: 2024-02-24T11:30:00+00:00, origin: *wien_erdberg, destination: *bratislava_most_snp, type: bus, operator: FlixBus, number: '901' }
-    - { departure: 2024-02-24T18:30:00+00:00, arrival: 2024-02-24T19:35:00+00:00, origin: *bratislava_most_snp, destination: *wien_erdberg, type: bus, operator: FlixBus, number: '901' }
+    - { departure: 2024-02-21T19:33:00+01:00, arrival: 2024-02-22T09:17:00+01:00, origin: *station_utrecht_centraal, destination: *station_wien_hbf, type: train, operator: OBB, number: NJ40421 }
+    - { departure: 2024-02-24T10:20:00+01:00, arrival: 2024-02-24T11:30:00+01:00, origin: *wien_erdberg, destination: *bratislava_most_snp, type: bus, operator: FlixBus, number: '901' }
+    - { departure: 2024-02-24T18:30:00+01:00, arrival: 2024-02-24T19:35:00+01:00, origin: *bratislava_most_snp, destination: *wien_erdberg, type: bus, operator: FlixBus, number: '901' }
     - { departure: 2024-02-25T20:10:00+01:00, arrival: 2024-02-26T09:29:00+01:00, origin: *station_wien_hbf, destination: *station_utrecht_centraal, type: train, operator: OBB, number: NJ40490 }
+- name: Trip With Friends
+  place: "🇩🇪 🇨🇭 München, Zürich & Genève"
+  start: 2024-03-11
+  date: 2024-03-17
+  latitude: 48.220167
+  longitude: 16.2148664
+  itinerary:
+    - { departure: 2024-03-11T09:19:00+01:00, arrival: 2024-03-11T09:58:00+01:00, origin: *station_eindhoven_centraal, destination: *station_venlo, type: train, operator: NS, number: IC3525 }
+    - { departure: 2024-03-11T10:05:00+01:00, arrival: 2024-03-11T11:09:00+01:00, origin: *station_venlo, destination: *station_dusseldorf_hbf, type: train, operator: Eurobahn, number: RE13 }
+    - { departure: 2024-03-11T11:23:00+01:00, arrival: 2024-03-11T16:06:00+01:00, origin: *station_dusseldorf_hbf, destination: *station_munchen_hbf, type: train, operator: DB, number: ICE625 }
+    - { departure: 2024-03-13T10:54:00+01:00, arrival: 2024-03-13T14:27:00+01:00, origin: *station_munchen_hbf, destination: *station_zurich_hb, type: train, operator: SBB, number: ECE194 }
+    - { departure: 2024-03-15T09:32:00+01:00, arrival: 2024-03-15T12:18:00+01:00, origin: *station_zurich_hb, destination: *station_geneve_cornavin, type: train, operator: SBB }
+    - { departure: 2024-03-17T10:29:00+01:00, arrival: 2024-03-17T13:42:00+01:00, origin: *station_geneve_cornavin, destination: *station_paris_gare_de_lyon, type: train, operator: 'TGV Lyria', number: '9768' }
+    - { departure: 2024-03-17T15:19:00+01:00, arrival: 2024-03-17T18:02:00+01:00, origin: *station_paris_gare_du_nord, destination: *station_rotterdam_centraal, type: train, operator: Eurostar, number: '9357' }
+    - { departure: 2024-03-17T18:14:00+01:00, arrival: 2024-03-17T19:16:00+01:00, origin: *station_rotterdam_centraal, destination: *station_eindhoven_centraal, type: train, operator: NS }
 # - name:
 #   place:
 #   start:
