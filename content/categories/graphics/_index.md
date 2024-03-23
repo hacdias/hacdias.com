@@ -19,6 +19,6 @@ title: Graphics
 }
 
 :root.dark {
-  --c-l: 20%;
+  --c-l: 70%;
 }
 </style>
