@@ -1,6 +1,8 @@
 ---
 title: Genève Architecture
 date: 2024-03-22T15:45:10+01:00
+tags:
+  - travel
 categories:
   - photos
 coverImage: cdn:/2024-04-geneve-architecture-3
