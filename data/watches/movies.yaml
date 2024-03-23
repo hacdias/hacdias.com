@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Dream Scenario
+  rating: 3
+  date: 2024-03-22
 - name: Robot Dreams
   date: 2024-03-10
   rating: 4
