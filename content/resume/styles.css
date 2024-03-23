@@ -21,10 +21,17 @@ h2 {
 h3 {
   margin: 1rem 0 0.3rem;
   font-size: var(--f4);
-  font-weight: 800;
   display: grid;
   grid-template-columns: auto max-content;
   grid-gap: 1rem;
+}
+
+h3 strong {
+  font-weight: bold;
+}
+
+h3 > span > strong::after {
+  content: ' » ';
 }
 
 h3 > span > a {
@@ -88,6 +95,14 @@ h3 + ul {
   #resume-header,
   #resume-header > ul {
     text-align: center;
+  }
+
+  h3 > span > a {
+    display: block;
+  }
+
+  h3 > span > strong::after {
+    content: '';
   }
 }
 
