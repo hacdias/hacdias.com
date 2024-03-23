@@ -103,7 +103,7 @@ I am a software engineer who cares about the web, decentralization, identity, us
 ### <span>Personal Website</span> <small>[2014 - present]</small> {#personal-website}
 
 - Building and maintaining my statically-generated personal website since 2014, which currently receives over 10 thousand unique visitors per month.
-- Built custom [Go backend](https://github.com/hacdias/eagle) to experiment with different ideas over time, such as ActivityPub, Webmentions, Tailscale and other integrations with third party services, etc.
+- Built [Eagle](https://github.com/hacdias/eagle), a custom backend in Go, to experiment with different ideas over time, such as ActivityPub, Webmentions, Tailscale and other integrations with third party services, etc.
 
 [GitHub]: https://github.com/hacdias
 [File Browser]: https://github.com/filebrowser/filebrowser
