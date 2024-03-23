@@ -1,6 +1,8 @@
 ---
 title: Zürich
 date: 2024-03-22T15:36:14+01:00
+tags:
+  - travel
 categories:
   - photos
 coverImage: cdn:/2024-03-zurich
