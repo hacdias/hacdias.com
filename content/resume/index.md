@@ -17,7 +17,7 @@ layout: resume
   </div>
 
   - [hacdias.com](https://hacdias.com)
-  - [github.com/hacdias][github]
+  - [github.com/hacdias][GitHub]
   - [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
 
 </div>
@@ -95,20 +95,15 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 ## Projects
 
-### <span>Open Source Projects</span> <small>[[code][github]] [2015 - present]</small> {#open-source}
+### <span>Open Source Projects</span> <small>[2015 - present]</small> {#open-source}
 
-- Author and maintainer of some open source projects and free open source contributor.
-- All code is freely available on [GitHub][github] and can be used by anyone.
+- Author, maintainer and contributor of several open source projects. You can find most of my open source contributions on my [GitHub] profile.
+- Creator of [File Browser], a Go and Vue.js self-hosted file hosting service. It counts with over 20K stars on GitHub and over 50M downloads across different platforms. Currently maintained by the community.
 
-### <span>Personal Website</span> <small>[[code](https://github.com/hacdias/eagle)] [2014 - present]</small> {#personal-website}
+### <span>Personal Website</span> <small>[2014 - present]</small> {#personal-website}
 
 - Building and maintaining my statically-generated personal website since 2014, which currently receives over 10 thousand unique visitors per month.
 - Built custom [Go backend](https://github.com/hacdias/eagle) to experiment with different ideas over time, such as ActivityPub, Webmentions, Tailscale and other integrations with third party services, etc.
 
-### <span>File Browser</span> <small>[[code](https://github.com/filebrowser/filebrowser)] [2015 - 2019]</small> {#file-browser}
-
-- Go and Vue.js based software that allows anyone to self-host their own file hosting service.
-- Over 50 million downloads through Docker and over 20 thousand stars on GitHub.
-- Currently maintained by the community.
-
-[github]: https://github.com/hacdias
+[GitHub]: https://github.com/hacdias
+[File Browser]: https://github.com/filebrowser/filebrowser
