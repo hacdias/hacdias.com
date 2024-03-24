@@ -47,13 +47,11 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 - Prepared materials, gave practical classes and helped students in a Deep Learning course.
 - Mentored 12 new master students from different nationalities during their first semester.
-- Attended workshops about Intercultural Communication, Diversity, Culture and Inclusion.
 
 ### <span>**Software Developer** [Upframe]</span> <small>[09/2016 - 05/2018]</small> {#upframe}
 
-- Built a REST API for managing email transactions, newsletters and program enrollments.
-- Built a Slack bot to help manage program enrollments, in Go.
-- Built a backend to see who is in-person at the office, send emails and manage newsletters.
+- Built a backend with a REST API for managing email transactions, newsletters and program enrollments.
+- Built a Slack bot to help manage program enrollments in Go.
 
 ### <span>**Content Writer** [Pplware]</span> <small>[06/2013 -  09/2016]</small> {#pplware}
 
@@ -80,8 +78,8 @@ I am a software engineer who cares about the web, decentralization, identity, us
 ### <span>**MSc Computer Science and Engineering** [Eindhoven University of Technology]</span> <small>[2020 - 2022]</small> {#msc-tue}
 
 - Grade: 8 out of 10.
-- Member of Student Film & Photography Association [Dekate Mousa].
-- Member of the Website and PR Committees of [Dekate Mousa].
+- Graduation thesis on [Blockchain-based Federated Learning Systems](https://hacdias.com/2022/09/07/thesis-blocklearning-framework/).
+- Member of the Website and PR Committees of Student Film & Photography Association [Dekate Mousa].
 
 ### <span>**BSc Information Systems and Computer Engineering** [Instituto Superior Técnico]</span> <small>[2017 - 2020]</small>  {#bsc-ist}
 
