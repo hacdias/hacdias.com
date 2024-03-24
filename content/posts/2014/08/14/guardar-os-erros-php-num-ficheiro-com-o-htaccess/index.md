@@ -7,6 +7,7 @@ categories:
 tags:
   - php
   - portuguese
+language: pt
 ---
 
 Quando os programadores de soluções web estão a programar alguma aplicação é normal que possam surgir erros durante o desenvolvimento e a linguagem de programação, por norma, mostra-os no browser.

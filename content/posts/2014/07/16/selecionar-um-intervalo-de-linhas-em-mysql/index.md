@@ -8,6 +8,7 @@ tags:
   - mysql
   - portuguese
   - sql
+language: pt
 ---
 
 O sistema de base de dados **MySQL** é dos mais conhecidos mundialmente devido à sua facilidade, tanto de utilização como de implantação e ao facto de ser extremamente versátil.

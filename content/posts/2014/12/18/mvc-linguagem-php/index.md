@@ -7,6 +7,7 @@ categories:
 tags:
   - php
   - portuguese
+language: pt
 ---
 
 No último artigo publicado, foi falado acerca do [**Modelo MVC**](/2014/11/22/mvc-uma-breve-explicacao) e sobre aquilo em que este consiste. O Modelo _Model-View-Controller_ é amplamente utilizado nos dias de hoje.

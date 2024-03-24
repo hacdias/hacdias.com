@@ -7,6 +7,7 @@ categories:
 tags:
   - php
   - portuguese
+language: pt
 ---
 
 O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](/2014/07/14/remover-hash-dos-links-continuar-a-ler).
