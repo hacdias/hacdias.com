@@ -8,6 +8,7 @@ categories:
 tags:
   - mathematics
   - portuguese
+language: pt
 syndication:
   - https://www.youtube.com/watch?v=AtwPGZ9VioE
 aliases:

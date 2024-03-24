@@ -7,6 +7,7 @@ categories:
 tags:
   - git
   - portuguese
+language: pt
 ---
 
 **Git** é um sistema de controlo de versão e gestão de código fonte extremamente utilizado em todos os cantos do mundo.

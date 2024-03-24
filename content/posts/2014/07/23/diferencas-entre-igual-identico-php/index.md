@@ -8,6 +8,7 @@ tags:
   - php
   - javascript
   - portuguese
+language: pt
 ---
 
 É habitual utilizarem-se diversos operadores quando o assunto é programação. Existem vários até: aritméticos, comparativos e outros.
