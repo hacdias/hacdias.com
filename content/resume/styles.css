@@ -12,22 +12,19 @@
 }
 
 h2 {
-  border-bottom: 1px solid var(--fg);
+  font-size: var(--f2);
   line-height: 1.5;
   color: var(--c);
-  font-size: var(--f2);
+  border-bottom: 1px solid var(--fg);
 }
 
 h3 {
   margin: 1rem 0 0.3rem;
   font-size: var(--f4);
+  font-weight: normal;
   display: grid;
   grid-template-columns: auto max-content;
   grid-gap: 1rem;
-}
-
-h3 strong {
-  font-weight: bold;
 }
 
 h3 > span > strong::after {
@@ -39,14 +36,12 @@ h3 > span > a {
 }
 
 h3 small {
-  font-weight: normal;
   color: var(--light-gray);
 }
 
 h3 + ul {
   margin-top: 0.3rem;
   font-size: 0.9rem;
-  line-height: 1.6;
 }
 
 #resume-header {
