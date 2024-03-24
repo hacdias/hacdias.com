@@ -6,7 +6,7 @@
   </div>
   {{ end }}
 
-  <div class='e-content'{{ with .Params.language }} language='{{ . }}'{{ end }}>
+  <div class='e-content'>
     {{- with .Params.rating -}}
       <p>
         <data class="p-rating" value="{{ . }}"><strong>Rating</strong>: {{ partialCached "helpers/stars" (slice . 5) . 5 }}</data>
