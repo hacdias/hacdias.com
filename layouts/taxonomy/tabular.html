@@ -26,7 +26,10 @@
         {{ with $pages }}
           {{ range . }}
             <li class='h-entry'>
-              <a href='{{ relURL .url }}' class='nl lh p-name u-url'>{{ .name }}</a>
+              <a href='{{ relURL .url }}' class='nl lh p-name u-url'>
+                {{ if eq .language "pt" }}🇵🇹{{ else if eq .language "nl" }}🇳🇱{{ end }}
+                {{ .name }}
+              </a>
               <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}' class='tab lg small dt-published'>{{ dateFormat "2006-01-02" .date }}</time>
             </li>
           {{ end }}

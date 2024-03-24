@@ -5,6 +5,7 @@
     "url" .RelPermalink
     "date" (.Date.Format "2006-01-02T15:04:05Z07:00")
     "rating" .Params.rating
+    "language" .Params.language
   }}
   {{ if .Params.read }}
     {{ $log = $log | merge (dict
