@@ -7,6 +7,7 @@ categories:
 tags:
   - php
   - portuguese
+language: pt
 ---
 
 A programação é algo fantástico que nos permite fazer qualquer coisa das mais diversas formas. Podemos criar, inovar, melhorar e até nos divertirmos. Existem várias formas de programar, várias maneiras.

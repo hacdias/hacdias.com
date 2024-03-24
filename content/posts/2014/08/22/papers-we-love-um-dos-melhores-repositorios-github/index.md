@@ -6,6 +6,7 @@ categories:
   - articles
 tags:
   - portuguese
+language: pt
 ---
 
 Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.

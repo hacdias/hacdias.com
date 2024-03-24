@@ -8,6 +8,7 @@ tags:
   - php
   - security
   - portuguese
+language: pt
 ---
 
 Como muitas das novidades introduzidas na [versão 5.5](http://php.net/manual/en/migration55.changes.php) do PHP, a API de passwords não passou despercebida aos desenvolvedores. Hoje vamos falar da criação de hash de passwords utilizando esta API.

@@ -7,6 +7,7 @@ categories:
 tags:
   - php
   - portuguese
+language: pt
 ---
 
 Como deve saber, PHP é umas das linguagens de servidor mais utilizadas no mundo. Hoje vou mostrar-vos uma fantástica forma de gerar **IDs (identificadores) únicos**.
