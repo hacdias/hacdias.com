@@ -41,7 +41,7 @@
 
 {{- define "item" }}
 <li class='h-entry'>
-  <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>{{ .Title }}</a>
+  <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>{{ partial "flag" .Params.language }} {{ .Title }}</a>
   <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small dt-published'>{{ .Date.Format "2006-01-02" }}</time>
 </li>
 {{- end }}
