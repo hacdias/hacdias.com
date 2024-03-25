@@ -117,6 +117,6 @@ The list below contains some of my favorite software, or software that I use on 
 - **Terminal** <span>[iTerm](https://iterm2.com/) with [zsh](https://en.wikipedia.org/wiki/Z_shell) and [oh my zsh](https://ohmyz.sh/) - see my [dotfiles](https://github.com/hacdias/dotfiles)</span>
 - **Web Server** <span>[Caddy](https://caddyserver.com/)</span>
 - **Hosting Provider** <span>[Hetzner](https://www.hetzner.com/)</span>
-- **Domain Registrars** <span>[Namecheap](https://www.namecheap.com), [Porkbun](https://porkbun.com) and [PTServidor](https://ptservidor.pt)</span>
+- **Domain Registrars** <span>[Porkbun](https://porkbun.com) and [PTServidor](https://ptservidor.pt)</span>
 
 </div>

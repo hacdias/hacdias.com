@@ -3964,16 +3964,6 @@
     ]
   },
   {
-    "domain": "namecheap.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://www.namecheap.com"
-      }
-    ]
-  },
-  {
     "domain": "nightjet.com",
     "count": 1,
     "links": [
