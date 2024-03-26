@@ -1,0 +1,14 @@
+<div class='resume-position'>
+  <div>
+    <h3>
+      <strong>{{ .Get "title" }}</strong>
+      {{ with .Get "location" }}
+        <span class='sep'>»</span>
+        <a rel='noopener noreferrer' href='{{ $.Get "href" | safeURL }}'>{{ . }}</a>
+      {{ end }}
+    </h3>
+    <small class='lg'>[{{ .Get "from" }} - {{ .Get "to" }}]</small>
+  </div>
+
+  {{ .Inner | .Page.RenderString }}
+</div>
