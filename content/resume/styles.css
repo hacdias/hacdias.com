@@ -18,28 +18,28 @@ h2 {
   border-bottom: 1px solid var(--fg);
 }
 
-h3 {
-  margin: 1rem 0 0.3rem;
-  font-size: var(--f4);
-  font-weight: normal;
+.position > div {
   display: grid;
   grid-template-columns: auto max-content;
   grid-gap: 1rem;
+  margin: 1rem 0 0.3rem;
 }
 
-h3 > span > strong::after {
-  content: ' » ';
+.position h3 {
+  font-size: var(--f4);
+  font-weight: normal;
+  margin: 0;
 }
 
-h3 > span > a {
+.position h3 a {
   font-weight: 500;
 }
 
-h3 small {
+.position > div small {
   color: var(--light-gray);
 }
 
-h3 + ul {
+.position > ul {
   margin-top: 0.3rem;
   font-size: 0.9rem;
 }
