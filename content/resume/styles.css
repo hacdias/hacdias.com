@@ -57,6 +57,17 @@ h2 {
 }
 
 @media print {
+  :root.dark {
+    --c-h: 220;
+    --c-s: 50%;
+    --c-l: 42%;
+    --bg-l: 99%;
+    --fg-l: 92%;
+    --mg-l: 97%;
+    --dark-gray: #222222;
+    --light-gray: #555555;
+  }
+
   h2 {
     color: var(--c);
   }
