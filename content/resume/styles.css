@@ -1,51 +1,5 @@
-.hint {
-  margin: var(--ls) auto;
-  max-width: fit-content;
-  font-size: 0.9rem;
-  text-align: center;
-}
-
-.container {
-  background: #ffffff;
-  padding: var(--ls);
-  margin: var(--ls) auto;
-}
-
-h2 {
-  font-size: var(--f2);
-  line-height: 1.5;
-  color: var(--c);
-  border-bottom: 1px solid var(--fg);
-}
-
-.position > div {
-  display: grid;
-  grid-template-columns: auto max-content;
-  grid-gap: 1rem;
-  margin: 1rem 0 0.3rem;
-}
-
-.position h3 {
-  font-size: var(--f4);
-  font-weight: normal;
-  margin: 0;
-}
-
-.position h3 a {
-  font-weight: 500;
-}
-
-.position > div small {
-  color: var(--light-gray);
-}
-
-.position > ul {
-  margin-top: 0.3rem;
-  font-size: 0.9rem;
-}
-
 #resume-header {
-  display: grid;
+  display: none;
   grid-template-columns: 65% 35%;
   border-bottom: 1px dashed var(--c);
   padding-bottom: 1rem;
@@ -65,49 +19,55 @@ h2 {
   padding: 0;
 }
 
-@media not print {
-  .container {
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+.resume-position > div {
+  display: grid;
+  grid-template-columns: auto max-content;
+  grid-gap: 1rem;
+  margin: 1rem 0 0.3rem;
+}
+
+.resume-position h3 {
+  margin: 0;
+  font-size: var(--f4);
+  font-weight: normal;
+}
+
+.resume-position h3 a {
+  font-weight: 500;
+}
+
+.resume-position > ul {
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
+}
+
+@media screen and (max-width: 53rem) {
+  h3 span {
+    display: none;
+  }
+
+  h3 a {
+    display: block;
   }
 }
 
-@media screen and (max-width: 56rem) {
-  body {
-    background: #fff;
-  }
-
-  .container {
-    margin: 0;
-    max-width: 100%;
-    box-shadow: none;
-  }
-
-  #resume-header {
-    grid-template-columns: 100%;
-    grid-gap: 1rem;
-  }
-
-  #resume-header,
-  #resume-header > ul {
-    text-align: center;
-  }
-
-  h3 > span > a {
-    display: block;
-  }
-
-  h3 > span > strong::after {
-    content: '';
-  }
+h2 {
+  line-height: 1.5;
+  border-bottom: 1px solid var(--fg);
 }
 
 @media print {
-  .container {
-    margin: 0;
-    padding: 0;
+  h2 {
+    color: var(--c);
   }
 
-  .hint {
+  #resume-header {
+    display: grid;
+  }
+
+  h2 .emoji,
+  main header,
+  #printing-hint {
     display: none;
   }
 }

@@ -2,7 +2,6 @@
 title: Resume
 description: My resume.
 noIndex: true
-layout: resume
 ---
 
 <!--more-->
@@ -24,7 +23,7 @@ layout: resume
 
 I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I currently work at Interplanetary Shipyard, where I build and maintain specialized services to bridge HTTP and content-addressed, decentralized and P2P systems.
 
-## Experience
+## 💼 Experience {#experience}
 
 {{< resume-position title="Software Engineer" location="Interplanetary Shipyard" href="https://ipshipyard.com/" from="01/2024" to="present" >}}
 
@@ -70,7 +69,7 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 {{</ resume-position >}}
 
-## Education
+## 🎓 Education {#education}
 
 {{< resume-position title="MSc Computer Science and Engineering" location="Eindhoven University of Technology" href="https://tue.nl/" from="2020" to="2022" >}}
 
@@ -88,7 +87,7 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 {{</ resume-position >}}
 
-## Projects
+## 📦 Projects {#projects}
 
 {{< resume-position title="Open Source Projects" from="2015" to="present" >}}
 
@@ -103,3 +102,7 @@ I am a software engineer who cares about the web, decentralization, identity, us
 - Built [Eagle](https://github.com/hacdias/eagle), a custom backend in Go, to experiment with different ideas over time, such as ActivityPub, Webmentions, Tailscale and other integrations with third party services, etc.
 
 {{</ resume-position >}}
+
+<div class='box small' id='printing-hint'>
+  💡 You can save or print resume by going into the <a href="javascript:print()">printing menu</a>.
+</div>
