@@ -1,0 +1,14 @@
+<div class='position'>
+  <div>
+    <h3>
+      <strong>{{ .Get "title" }}</strong>
+      {{ with .Get "location" }}
+        »
+        <a rel='noopener noreferrer' href='{{ $.Get "href" | safeURL }}'>{{ . }}</a>
+      {{ end }}
+    </h3>
+    <small>[{{ .Get "from" }} - {{ .Get "to" }}]</small>
+  </div>
+
+  {{ .Inner | .Page.RenderString }}
+</div>
