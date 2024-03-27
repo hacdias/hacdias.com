@@ -23,6 +23,7 @@
   display: grid;
   grid-template-columns: auto max-content;
   grid-gap: 1rem;
+  align-items: baseline;
   margin: 1rem 0 0.3rem;
 }
 
@@ -70,6 +71,7 @@ h2 {
 
   h2 {
     color: var(--c);
+    break-after: avoid;
   }
 
   #resume-header {
