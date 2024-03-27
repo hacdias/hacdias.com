@@ -7,11 +7,14 @@ noIndex: true
 <!--more-->
 
 <div id="resume-header">
+  
+  ![](/avatar/512.jpg)
+
   <div>
 
-  # Henrique Dias
+  Henrique Dias
 
-  Eindhoven, The Netherlands - [mail@hacdias.com](mailto:mail@hacdias.com)
+  Eindhoven, NL - [mail@hacdias.com](mailto:mail@hacdias.com)
 
   </div>
 
