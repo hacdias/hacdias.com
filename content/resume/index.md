@@ -79,20 +79,18 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 ## 🎓 Education {#education}
 
-{{< resume-position title="MSc Computer Science and Engineering" location="Eindhoven University of Technology" href="https://tue.nl/" from="2020" to="2022" >}}
+{{< resume-position title="MSc Computer Science and Engineering" location="Eindhoven University of Technology" href="https://tue.nl/" from="2020" to="2022" grade="8 out of 10" >}}
 
-- Grade: 8 out of 10.
 - Graduation thesis on [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](https://hacdias.com/2022/09/07/thesis-blocklearning-framework/).
 - Published paper on [BlockLearning: A Modular Framework for Blockchain-based Federated Learning](/2023/02/16/paper-blocklearning-framework/).
 - Member of the Website and PR Committees of Student Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
 
 {{</ resume-position >}}
 
-{{< resume-position title="BSc Information Systems and Computer Engineering" location="Instituto Superior Técnico" href="https://tecnico.ulisboa.pt/" from="2017" to="2020" >}}
+{{< resume-position title="BSc Information Systems and Computer Engineering" location="Instituto Superior Técnico" href="https://tecnico.ulisboa.pt/" from="2017" to="2020" grade="16 out of 20" >}}
 
-- Grade: 16 out of 20.
-- Volunteered as Student Mentor for 2 years.
 - Awarded an Academic Merit Award in 2 years.
+- Volunteered as Student Mentor for 2 years.
 
 {{</ resume-position >}}
 
