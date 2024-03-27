@@ -26,9 +26,9 @@
 .resume-position > div {
   display: grid;
   grid-template-columns: auto max-content;
-  grid-gap: 1rem;
+  grid-gap: .25rem;
   align-items: baseline;
-  margin: 1rem 0 0.3rem;
+  margin: 1rem 0 0.25rem;
 }
 
 .resume-position h3 {
@@ -42,7 +42,7 @@
 }
 
 .resume-position ul {
-  margin-top: 0.3rem;
+  margin-top: 0.25rem;
   font-size: var(--f5);
 }
 
