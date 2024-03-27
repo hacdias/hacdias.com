@@ -78,7 +78,8 @@ I am a software engineer who cares about the web, decentralization, identity, us
 ### <span>**MSc Computer Science and Engineering** [Eindhoven University of Technology]</span> <small>[2020 - 2022]</small> {#msc-tue}
 
 - Grade: 8 out of 10.
-- Graduation thesis on [Blockchain-based Federated Learning Systems](https://hacdias.com/2022/09/07/thesis-blocklearning-framework/).
+- Graduation thesis on [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](https://hacdias.com/2022/09/07/thesis-blocklearning-framework/).
+- Published paper on [BlockLearning: A Modular Framework for Blockchain-based Federated Learning](/2023/02/16/paper-blocklearning-framework/).
 - Member of the Website and PR Committees of Student Film & Photography Association [Dekate Mousa].
 
 ### <span>**BSc Information Systems and Computer Engineering** [Instituto Superior Técnico]</span> <small>[2017 - 2020]</small>  {#bsc-ist}
