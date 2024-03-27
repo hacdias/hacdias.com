@@ -57,6 +57,7 @@
 }
 
 @media print {
+  :root,
   :root.dark {
     --c-h: 220;
     --c-s: 50%;
@@ -64,7 +65,7 @@
     --bg-l: 99%;
     --fg-l: 92%;
     --mg-l: 97%;
-    --dark-gray: #222222;
+    --dark-gray: #000;
     --light-gray: #555555;
   }
 
