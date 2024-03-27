@@ -37,9 +37,9 @@
   font-weight: 500;
 }
 
-.resume-position > ul {
+.resume-position ul {
   margin-top: 0.3rem;
-  font-size: 0.9rem;
+  font-size: var(--f5);
 }
 
 @media screen and (max-width: 53rem) {
@@ -50,11 +50,6 @@
   h3 a {
     display: block;
   }
-}
-
-h2 {
-  line-height: 1.5;
-  border-bottom: 1px solid var(--fg);
 }
 
 @media print {
@@ -72,6 +67,13 @@ h2 {
   h2 {
     color: var(--c);
     break-after: avoid;
+    line-height: 1.5;
+    border-bottom: 1px solid var(--fg);
+    margin: 1rem 0 0.5rem;
+  }
+
+  .resume-position ul {
+    break-before: avoid;
   }
 
   #resume-header {
@@ -88,4 +90,3 @@ h2 {
 @page {
   margin: 1cm;
 }
-
