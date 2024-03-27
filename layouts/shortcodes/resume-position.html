@@ -8,6 +8,9 @@
       {{ end }}
     </h3>
     <small class='lg'>[{{ .Get "from" }} - {{ .Get "to" }}]</small>
+    {{ with .Get "grade" }}
+      <small class='lg'>Grade: {{ . }}</small>
+    {{ end }}
   </div>
 
   {{ .Inner | .Page.RenderString }}
