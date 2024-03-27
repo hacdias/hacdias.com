@@ -1,12 +1,16 @@
 #resume-header {
   display: none;
-  grid-template-columns: 65% 35%;
+  grid-template-columns: 4.5rem auto max-content;
+  grid-gap: .5rem;
   border-bottom: 1px dashed var(--c);
   padding-bottom: 1rem;
+  align-items: center;
 }
 
-#resume-header h1 {
+#resume-header div p:first-of-type {
   font-size: 2.3rem;
+  font-weight: bold;
+  line-height: 1.3;
 }
 
 #resume-header ul {
