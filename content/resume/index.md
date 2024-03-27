@@ -34,17 +34,19 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 {{< resume-position title="Software Engineer" location="Protocol Labs" href="https://protocol.ai/" from="10/2022" to="01/2024" >}}
 
-- Co-authored and implemented [IPFS specifications](https://specs.ipfs.tech/) in Go and JavaScript.
-- Implemented and maintained HTTP APIs and their respective clients in Go and JavaScript.
-- Maintained large [IPFS](https://ipfs.tech/) (decentralized, P2P network) libraries in Go, such as [Kubo](https://github.com/ipfs/kubo) and [Boxo](https://github.com/ipfs/boxo).
+- Co-authored and implemented [specifications](https://specs.ipfs.tech/) for different HTTP services in Go and TypeScript. Authored hundreds of conformance tests to test whether different implementations comply with the specifications.
+- Led the development of new features for the largest and most widely used [implementation](https://github.com/ipfs/kubo) and set of [libraries](https://github.com/ipfs/boxo) of the [InterPlanetary File System](https://ipfs.tech/) (IPFS), a decentralized, P2P, and content-addressed network, in Go.
+- Implemented and maintained several HTTP services, as well as their respective clients in Go and TypeScript.
+- Maintained multiple Go and JavaScript (Node.js, TypeScript) packages.
 
 {{</ resume-position >}}
 
 {{< resume-position title="Part-time Software Engineer" location="Protocol Labs" href="https://protocol.ai/" from="11/2017" to="09/2022" >}}
 
-- Co-authored [Testground](http://testground.ai/), a testing platform for decentralized and peer-to-peer systems in Go.
-- Revamped and maintained [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) and [IPFS Web UI](https://github.com/ipfs/ipfs-webui), Electron and React applications.
-- Maintained multiple Go, JavaScript, Node.js and Electron projects.
+- Co-authored [Testground](http://testground.ai/), a testing, benchmarking and simulation platform for decentralized and P2P systems at scale built in Go. Led the development of the JavaScript SDK and the Go synchronization service.
+- Led the development of [IPFS Desktop](https://github.com/ipfs/ipfs-desktop), a desktop application for Windows, macOS and Linux, built in Electron. Owned the refactoring, redesign and feature development of the application.
+- Revamped and shipped [IPFS Web UI](https://github.com/ipfs/ipfs-webui), a React-based web application used as a front-end for a Kubo node in an IPFS network, where users can manage their files, explore linked data, and see their peers.
+- Maintained multiple Go and JavaScript (Node.js, TypeScript) packages.
 
 {{</ resume-position >}}
 
@@ -55,10 +57,13 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 {{</ resume-position >}}
 
-{{< resume-position title="Software Developer" location="Upframe" href="https://github.com/upframe" from="09/2016" to="05/2018" >}}
+{{< resume-position title="Full-Stack Software Developer" location="Upframe" href="https://github.com/upframe" from="09/2016" to="05/2018" >}}
 
-- Built a backend with a REST API for managing email transactions, newsletters and program enrollments.
-- Built a Slack bot to help manage program enrollments in Go.
+- Helped organize a mentorship-driven program to connect mentors with first-time entrepreneurs.
+- Built a backend with a REST API for managing email transactions, newsletters and program enrollments in Go.
+- Integrated the backend with Slack for managing program enrollments directly from a Slack channel in Go.
+- Built a web application for managing newsletter and program enrollments in React.
+<!-- - **In the news**: [Eco](https://eco.sapo.pt/2017/03/21/upframe-ou-o-programa-de-pre-aceleracao-que-a-startup-lisboa-fez-seu/), [Startup Lisboa](https://www.startuplisboa.com/startuplisboanews/upframe-o-novo-programa-de-pr-acelerao-powered-by-startup-lisboa), [Observador](https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/) & [Dinheiro Vivo](https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/). -->
 
 {{</ resume-position >}}
 
@@ -105,5 +110,5 @@ I am a software engineer who cares about the web, decentralization, identity, us
 {{</ resume-position >}}
 
 <div class='box small' id='printing-hint'>
-  🖨️ You can save or print resume by going into the <a href="javascript:print()">printing menu</a>.
+  🖨️ You can save or print the resume by going into the <a href="javascript:print()">printing menu</a>.
 </div>

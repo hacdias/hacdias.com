@@ -5,6 +5,7 @@ paginate = 15
 rsslimit = 10
 pluralizelisttitles = false
 removePathAccents = true
+capitalizeListTitles = false
 summaryLength = 300
 
 [taxonomies]
