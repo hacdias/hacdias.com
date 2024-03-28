@@ -331,7 +331,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 39,
+    "count": 40,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -472,6 +472,10 @@
       {
         "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
         "targetUrl": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/03/27/bought-numeronym-domain-name/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Numeronym"
       },
       {
         "sourceUrl": "https://hacdias.com/contact/",
@@ -1114,6 +1118,28 @@
     ]
   },
   {
+    "domain": "jlelse.blog",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
+        "targetUrl": "https://jlelse.blog/thoughts/2020/07/own-cms"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
+        "targetUrl": "https://jlelse.blog/map"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/03/27/bought-numeronym-domain-name/",
+        "targetUrl": "https://jlelse.blog/thoughts/2024/03/what-to-do-with-new-domain"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://jlelse.blog/"
+      }
+    ]
+  },
+  {
     "domain": "linkedin.com",
     "count": 4,
     "links": [
@@ -1358,24 +1384,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
         "targetUrl": "https://golang.org/dl/"
-      }
-    ]
-  },
-  {
-    "domain": "jlelse.blog",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/07/own-cms"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
-        "targetUrl": "https://jlelse.blog/map"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://jlelse.blog/"
       }
     ]
   },
