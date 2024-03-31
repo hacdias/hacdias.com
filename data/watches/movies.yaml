@@ -1,6 +1,12 @@
 # - name:
 #   date:
 #   rating:
+- name: Kung Fu Panda
+  rating: 4
+  date: 2024-03-29
+- name: Humanist Vampire Seeking Consenting Suicidal Person
+  rating: 4
+  date: 2024-03-29
 - name: Dream Scenario
   rating: 3
   date: 2024-03-22
