@@ -1,9 +1,4 @@
-reading:
-  - name: Harry Potter en de Vuurbeker
-    author: J.K. Rowling
-    date: 2024-03-08
-    rating: 4
-    uid: isbn:9781781103494
+reading: []
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
@@ -31,6 +26,11 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Harry Potter en de Vuurbeker
+    author: J.K. Rowling
+    date: 2024-04-05
+    rating: 4
+    uid: isbn:9781781103494
   - name: Harry Potter en de Gevangene van Azkaban
     author: J.K. Rowling
     date: 2024-03-08
