@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Kung Fu Panda 3
+  rating: 4
+  date: 2024-04-06
 - name: Kung Fu Panda 2
   rating: 4
   date: 2024-04-01

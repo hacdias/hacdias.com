@@ -1,4 +1,9 @@
-reading: []
+reading:
+  - name: Harry Potter en de Orde van de Feniks
+    author: J.K. Rowling
+    date: 2024-04-06
+    rating: 4
+    uid: isbn:9781781103500
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
