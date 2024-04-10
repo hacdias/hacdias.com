@@ -70,13 +70,6 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 {{</ resume-position >}}
 
-{{< resume-position title="Content Writer" location="Pplware" href="https://pplware.sapo.pt" from="06/2013" to="09/2016" >}}
-
-- Wrote over 400 tutorials, tech news and other articles on both [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
-- Published a 60 page [e-book](https://cdn.hacdias.com/media/aprenda-a-programar.pdf) on how to program in C for beginners when I was 15 years old.
-
-{{</ resume-position >}}
-
 ## 🎓 Education {#education}
 
 {{< resume-position title="MSc Computer Science and Engineering" location="Eindhoven University of Technology" href="https://tue.nl/" from="2020" to="2022" grade="8 out of 10" >}}
@@ -107,6 +100,15 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 - Building and maintaining my statically-generated personal website since 2014, which receives over 10K unique visitors per month.
 - Built [Eagle](https://github.com/hacdias/eagle), a custom backend in Go, to experiment with different ideas over time, such as ActivityPub, Webmentions, Tailscale and other integrations with third party services, etc.
+
+{{</ resume-position >}}
+
+## 🤲 Volunteering {#volunteering}
+
+{{< resume-position title="Content Writer" location="Pplware" href="https://pplware.sapo.pt" from="2013" to="2016" >}}
+
+- Wrote over 400 tutorials, tech news and other articles on both [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
+- Published a 60 page [e-book](https://cdn.hacdias.com/media/aprenda-a-programar.pdf) on how to program in C for beginners when I was 15 years old.
 
 {{</ resume-position >}}
 
