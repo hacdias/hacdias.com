@@ -89,23 +89,23 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 ## 📦 Projects {#projects}
 
-{{< resume-position title="Open Source Projects" from="2015" to="present" >}}
+{{< resume-position title="Open Source Projects" from="01/2015" to="present" >}}
 
 - Author, maintainer and contributor of several open source projects. You can find most of my open source contributions on my [GitHub](https://github.com/hacdias) profile. I highly value open-source projects.
 - Creator of [File Browser](https://github.com/filebrowser/filebrowser), a Go and Vue.js self-hosted file hosting service. It counts with over 20K stars on GitHub and over 50M downloads across different platforms. Currently maintained by the community.
 
 {{</ resume-position >}}
 
-{{< resume-position title="Personal Website" from="2014" to="present" >}}
+{{< resume-position title="Personal Website" from="07/2014" to="present" >}}
 
 - Building and maintaining my statically-generated personal website since 2014, which receives over 10K unique visitors per month.
 - Built [Eagle](https://github.com/hacdias/eagle), a custom backend in Go, to experiment with different ideas over time, such as ActivityPub, Webmentions, Tailscale and other integrations with third party services, etc.
 
 {{</ resume-position >}}
 
-## 🤲 Volunteering {#volunteering}
+## 💙 Volunteering {#volunteering}
 
-{{< resume-position title="Content Writer" location="Pplware" href="https://pplware.sapo.pt" from="2013" to="2016" >}}
+{{< resume-position title="Content Writer" location="Pplware" href="https://pplware.sapo.pt" from="06/2013" to="09/2016" >}}
 
 - Wrote over 400 tutorials, tech news and other articles on both [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
 - Published a 60 page [e-book](https://cdn.hacdias.com/media/aprenda-a-programar.pdf) on how to program in C for beginners when I was 15 years old.
