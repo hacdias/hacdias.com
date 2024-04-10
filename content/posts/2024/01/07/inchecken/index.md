@@ -1,5 +1,5 @@
 ---
-title: 'Vergeet niet om in te checken: Nederlands praten'
+title: 'Vergeet niet om in te checken (II)'
 date: 2024-01-07T11:06:56+01:00
 language: nl
 categories:
@@ -10,6 +10,8 @@ tags:
 - nederlands
 syndication:
 - https://fosstodon.org/@hacdias/111714188031262494
+aliases:
+- /2024/01/07/vergeet-niet-om-in-te-checken-nederlands-praten/
 ---
 
 Vorige maand besloot ik om een [nieuwe serie](/2023/12/07/vergeet-niet-om-in-te-checken-het-begin/) op deze website te beginnen: vergeet niet om in te checken! Vandaag ga ik nog een beetje meer schrijven over mijn Nederlands leervoortgang en ook over wat is tijdens de vorige maand gebeurt.
