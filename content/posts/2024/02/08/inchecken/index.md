@@ -1,5 +1,5 @@
 ---
-title: 'Vergeet niet om in te checken: nieuwe lessen'
+title: 'Vergeet niet om in te checken (III)'
 date: 2024-02-08T09:24:48+01:00
 language: nl
 categories:
@@ -7,6 +7,8 @@ categories:
 tags:
 - vergeet-niet-om-in-te-checken
 - nederlands
+aliases:
+- /2024/02/08/vergeet-niet-om-in-te-checken-nieuwe-lessen/
 ---
 
 Welkom bij de derde deel van deze serie: vergeet niet om in te checken. Vandaag ga ik een beetje hebben over mijn nieuwe Nederlandse lessen, mijn kleine reis naar Brussel, en ook alle media in het Nederlands die ik de afgelopen maand heb geconsumeerd. 
