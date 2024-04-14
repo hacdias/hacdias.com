@@ -1,9 +1,4 @@
-reading:
-  - name: Harry Potter en de Orde van de Feniks
-    author: J.K. Rowling
-    date: 2024-04-06
-    rating: 4
-    uid: isbn:9781781103500
+reading: []
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
@@ -31,6 +26,11 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Harry Potter en de Orde van de Feniks
+    author: J.K. Rowling
+    date: 2024-04-13
+    rating: 4
+    uid: isbn:9781781103500
   - name: Harry Potter en de Vuurbeker
     author: J.K. Rowling
     date: 2024-04-05
