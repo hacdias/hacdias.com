@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Kung Fu Panda 4
+  rating: 4
+  date: 2024-04-14
 - name: La Chimera
   rating: 4
   date: 2024-04-08
