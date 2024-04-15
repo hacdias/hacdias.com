@@ -1,4 +1,9 @@
-reading: []
+reading:
+  - name: Harry Potter en de Halfbloed Prins
+    author: J.K. Rowling
+    date: 2024-04-13
+    rating: 4
+    uid: isbn:9781781103517
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
