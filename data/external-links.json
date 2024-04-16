@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 81,
+    "count": 80,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -50,10 +50,6 @@
       {
         "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
         "targetUrl": "https://github.com/hacdias/xkcd-clone"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "https://github.com/hacdias/xkcd.hacdias.com"
       },
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
@@ -2978,16 +2974,6 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://www.dropbox.com/paper"
-      }
-    ]
-  },
-  {
-    "domain": "dweb.link",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "http://dweb.link/ipns/xkcd.hacdias.com/"
       }
     ]
   },
