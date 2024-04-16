@@ -15,7 +15,7 @@ Welkom bij de vijfde deel van deze serie: vergeet niet om in te checken. Vandaag
 
 ## 📚 Lessen
 
-Mijn lessen plannen zijn verandert. Volgende keer heb ik gezegd dat ik van plan was om een minder intens cursus tijdens de zomer te volgen. Deze cursus (B1+) had maar één les per week. Helaas gaat dat niet lukken want blijkbaar begint het vóór het einde van mijn huidige cursus (B1). En dat kan niet.
+Mijn lessen plannen zijn verandert. Vorige keer heb ik gezegd dat ik van plan was om een minder intens cursus tijdens de zomer te volgen. Deze cursus (B1+) had maar één les per week. Helaas gaat dat niet lukken want blijkbaar begint het vóór het einde van mijn huidige cursus (B1). En dat kan niet.
 
 Daarom heb ik besloten om een intensieve cursus, zoals die die ik nu volg, te volgen. Dat betekend dat ik nu lessen tot het begin van juli heb gepland. Altijd twéé keer per week.
 

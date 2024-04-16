@@ -43,14 +43,14 @@ xkcd
 
 Where `barrel_cropped_(1).jpg` is exactly the same image as `image.jpg` but preserving the original filename. Since we'll store it in IPFS right away, it won't take more space for it because they point to the same place.
 
-Then, I set up a "placebo" repository on GitHub that runs on CircleCI everyday. It's [hacdias/xkcd.hacdias.com](https://github.com/hacdias/xkcd.hacdias.com) and basically this is the procedure that updated the clone everyday:
+Then, I set up a "placebo" repository on GitHub that runs on Circle CI everyday. It's `hacdias/xkcd.hacdias.com` and basically this is the procedure that updated the clone everyday:
 
 1. Gets the cached output from the last run (to save resources).
 2. Fetch the latest xkcd comics using [xkcd-clone](https://github.com/hacdias/xkcd-clone).
 3. Pins it to IPFS Cluster.
-4. Updates the DNSLink of xkcd.hacdias.com to the latest hash.
+4. Updates the DNSLink of `xkcd.hacdias.com` to the latest hash.
 
-Now, the clone is published at [`/ipns/xkcd.hacdias.com`](http://dweb.link/ipns/xkcd.hacdias.com/). You can check out the latest hash by running the following command on your terminal:
+Now, the clone is published at `/ipns/xkcd.hacdias.com`. You can check out the latest hash by running the following command on your terminal:
 
 ```bash
 $ ipfs name resolve /ipns/hacdias.com
