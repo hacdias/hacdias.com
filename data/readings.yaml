@@ -1,9 +1,8 @@
 reading:
-  - name: Harry Potter en de Halfbloed Prins
+  - name: Harry Potter en de Relieken van de Dood
     author: J.K. Rowling
-    date: 2024-04-13
-    rating: 4
-    uid: isbn:9781781103517
+    date: 2024-04-21
+    uid: isbn:9781781103524
 want-to-read:
   - name: Ikigai
     author: Héctor Garcia
@@ -31,6 +30,11 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Harry Potter en de Halfbloed Prins
+    author: J.K. Rowling
+    date: 2024-04-21
+    rating: 4
+    uid: isbn:9781781103517
   - name: Harry Potter en de Orde van de Feniks
     author: J.K. Rowling
     date: 2024-04-13
