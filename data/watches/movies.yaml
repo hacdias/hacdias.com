@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Free Guy
+  rating: 3
+  date: 2024-04-27
 - name: Wish
   rating: 3
   date: 2024-04-20
