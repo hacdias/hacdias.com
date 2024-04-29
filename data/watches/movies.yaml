@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Irish Wish
+  rating: 3
+  date: 2024-04-27
 - name: Free Guy
   rating: 3
   date: 2024-04-27
