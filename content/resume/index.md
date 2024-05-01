@@ -35,21 +35,13 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 {{</ resume-position >}}
 
-{{< resume-position title="Software Engineer" location="Protocol Labs" href="https://protocol.ai/" from="10/2022" to="01/2024" >}}
+{{< resume-position title="Software Engineer" location="Protocol Labs" href="https://protocol.ai/" from="11/2017" to="01/2024" >}}
 
+- Led the development of new features for the largest and most widely used [implementation (Kubo)](https://github.com/ipfs/kubo) and set of [libraries](https://github.com/ipfs/boxo) of the [InterPlanetary File System (IPFS)](https://ipfs.tech/), a decentralized, P2P, and content-addressed network, in Go.
 - Co-authored and implemented [specifications](https://specs.ipfs.tech/) for different HTTP services in Go and TypeScript. Authored hundreds of conformance tests to test whether different implementations comply with the specifications.
-- Led the development of new features for the largest and most widely used [implementation](https://github.com/ipfs/kubo) and set of [libraries](https://github.com/ipfs/boxo) of the [InterPlanetary File System](https://ipfs.tech/) (IPFS), a decentralized, P2P, and content-addressed network, in Go.
-- Implemented and maintained several HTTP services, as well as their respective clients in Go and TypeScript.
-- Maintained multiple Go and JavaScript (Node.js, TypeScript) packages.
-
-{{</ resume-position >}}
-
-{{< resume-position title="Part-time Software Engineer" location="Protocol Labs" href="https://protocol.ai/" from="11/2017" to="09/2022" >}}
-
 - Co-authored [Testground](http://testground.ai/), a testing, benchmarking and simulation platform for decentralized and P2P systems at scale built in Go. Led the development of the JavaScript SDK and the Go synchronization service.
 - Led the development of [IPFS Desktop](https://github.com/ipfs/ipfs-desktop), a desktop application for Windows, macOS and Linux, built in Electron. Owned the refactoring, redesign and feature development of the application.
 - Revamped and shipped [IPFS Web UI](https://github.com/ipfs/ipfs-webui), a React-based web application used as a front-end for a Kubo node in an IPFS network, where users can manage their files, explore linked data, and see their peers.
-- Maintained multiple Go and JavaScript (Node.js, TypeScript) packages.
 
 {{</ resume-position >}}
 
