@@ -37,7 +37,7 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 {{< resume-position title="Software Engineer" location="Protocol Labs" href="https://protocol.ai/" from="11/2017" to="01/2024" >}}
 
-- Led the development of new features for the largest and most widely used [implementation (Kubo)](https://github.com/ipfs/kubo) and set of [libraries](https://github.com/ipfs/boxo) of the [InterPlanetary File System (IPFS)](https://ipfs.tech/), a decentralized, P2P, and content-addressed network, in Go.
+- Led the development of new features for the largest and most widely used [implementation (Kubo)](https://github.com/ipfs/kubo) and set of [libraries (Boxo)](https://github.com/ipfs/boxo) of the [InterPlanetary File System (IPFS)](https://ipfs.tech/), a decentralized, P2P, and content-addressed network, in Go.
 - Co-authored and implemented [specifications](https://specs.ipfs.tech/) for different HTTP services in Go and TypeScript. Authored hundreds of conformance tests to test whether different implementations comply with the specifications.
 - Co-authored [Testground](http://testground.ai/), a testing, benchmarking and simulation platform for decentralized and P2P systems at scale built in Go. Led the development of the JavaScript SDK and the Go synchronization service.
 - Led the development of [IPFS Desktop](https://github.com/ipfs/ipfs-desktop), a desktop application for Windows, macOS and Linux, built in Electron. Owned the refactoring, redesign and feature development of the application.
