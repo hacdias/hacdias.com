@@ -1,6 +1,6 @@
 ---
 title: Things That I Use
-coverImage: cdn:/2023-05-desk-microlab
+coverImage: cdn:/2023-05-desk-home
 ---
 
 This page is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you what things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be accurate at all times, but I try to update it every now and then to make sure it is up to date.
@@ -24,26 +24,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 </div>
 
-### 💼 Coworking Space
-
-![Desk at Microlab Eindhoven](cdn:/2023-05-desk-microlab?class=fw)
-
-I rent a desk at [Microlab Eindhoven](http://microlab.nl), where I go on my daily basis to work. Being in a coworking space allows me to separate work from personal things. Besides, since my work is fully remote, going to a coworking place is also a way of interacting with others in-person.
-
-<div class='box tb'>
-
-- **Desk** <span>Unknown Manual Adjustable Desk (Rented)</span>
-- **Chair** <span>Herman Miller Mirra (Rented)</span>
-- **Monitor Stand** <span>IKEA ELLOVEN</span>
-- **Monitor** <span>Asus VG27A</span>
-- **Keyboard** <span>NuPhy Air 75</span>
-- **Mouse** <span>Asus Strix Impact</span>
-- **Dock** <span>CalDigit TS3 Plus</span>
-- **Laptop Stand** <span>Rain mStand</span>
-
-</div>
-
-### 🏡 Home
+### 🏡 Home {#home}
 
 ![Desk at Home](cdn:/2023-05-desk-home?class=fw)
 
@@ -56,7 +37,7 @@ At home I also have a desk with some things. This desk is used by my partner or 
 - **Monitor Stand** <span>IKEA SIGFINN</span>
 - **Monitor** <span>Dell U2720Q</span>
 - **Keyboard** <span>NuPhy Air 96, Magic Keyboard</span>
-- **Mouse** <span>Magic Trackpad, Logitech G502 X</span>
+- **Mouse** <span>Logitech G502 X, Magic Trackpad</span>
 - **Laptop Stand** <span>Rain mStand, The Roost v3</span>
 - **Dock** <span>CalDigit TS4</span>
 
