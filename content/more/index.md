@@ -20,18 +20,6 @@ This website contains more things than it looks at first glance. This page conta
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
 
-<!-- 
-In navigation:
-- [🧁 About](/about/)
-- [✏️ Articles](/articles/)
-- [✉️ Contact](/contact/)
-- [📸 Photos](/photos/)
-- [📖 Guestbook](/guestbook/)
-
-In footer:
-- [❤️ Support](/support/)
--->
-
 </div>
 
 ## 🗞️ Feeds {#feeds}
