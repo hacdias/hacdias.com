@@ -16,11 +16,13 @@ Since an early age, I have been curious about computers and I always wanted to w
 
 During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest, if not the largest, tech blog in Portugal. I wrote over 400 tutorials, tech news and other articles. In addition, I published a 60 page e-book on how to program in C for beginners at the age of 15. Furthermore, I had the opportunity to do some software development work at [Upframe](https://github.com/upframe) where I met some amazing people.
 
-After secondary school, I moved to Lisbon in order to pursue a BSc in Information Systems and Computer Engineering. I spent three years studying at [IST](https://tecnico.ulisboa.pt/pt/), where I met amazing people during my stay. At the same time, I got recruited for [Protocol Labs](https://protocol.ai/), where I have been working on decentralizing the web since then.
+After secondary school, I moved to Lisbon in order to pursue a BSc in Information Systems and Computer Engineering. I spent three years studying at [IST](https://tecnico.ulisboa.pt/pt/), where I met amazing people during my stay. At the same time, I got recruited for [Protocol Labs](https://protocol.ai/), where I had the opportunity to work on further decentralizing the web.
 
 Against all odds - call it _the pandemic_ 🦠 - I moved to the Netherlands to pursue a MSc in Computer Science and Engineering at [TU/e](https://tue.nl), which is nearly complete. Sadly, in two years of university, I only had the opportunity to have one course on campus. After defending my thesis on-campus, I successfully completed my Master's degree.
 
 During my time at TU/e, I was a student mentor, where I mentored 12 new master students from different nationalities during their first semester in The Netherlands. In addition, I was a Teaching Assistant for the Deep Learning course, where I prepared materials, gave practical classes and helped students.
+
+In the meanwhile, multiple teams at Protocol Labs nucleated into their own companies with the goal of self-sustainability in the long term. As consequence, I joined the [Interplanetary Shipyard](https://blog.ipfs.tech/shipyard-hello-world/), the entity formed by my team and some other related teams, with the goal of further decentralizing the web.
 
 These experiences were driven by my belief in transparency and openness, in a united Europe 🇪🇺 and that we all deserve equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
 
