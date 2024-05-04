@@ -5,7 +5,7 @@ language: nl
 categories:
 - articles
 tags:
-- vergeet-niet-om-in-te-checken
+- inchecken
 - nederlands
 aliases:
 - /2024/02/08/vergeet-niet-om-in-te-checken-nieuwe-lessen/
