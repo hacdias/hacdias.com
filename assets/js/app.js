@@ -1,6 +1,6 @@
 console.log(
   "%cHi! 👋 It's Henrique and welcome to my corner of the Interweb. Feel free to explore. If you have any questions, ping me @hacdias.",
-  "background-color: #00449e ; color: white ; font-weight: bold ; " +
+  "background-color: #00449e ; color: white ; font-weight: 700 ; " +
   "font-size: 30px ; " +
   "font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif; text-shadow: 1px 1px 3px black ;"
 )
