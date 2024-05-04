@@ -539,12 +539,15 @@ main pre {
 .terms ul {
   list-style-type: none;
   padding: 0;
-  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: 0.5rem;
+  margin: 0 0 0.5rem 0;
 }
 
 .terms li {
-  display: inline-block;
-  margin: 0 var(--hms) var(--hms) 0;
+  display: block;
+  margin: 0;
 }
 
 .terms a,
@@ -552,18 +555,15 @@ main pre {
   text-decoration: none;
   font-size: var(--f5);
   padding: var(--hms);
-  display: inline-block;
+  display: block;
+  font-weight: 600;
+  height: 100%;
 }
 
 #navbar a:hover,
 #navbar a[aria-current="page"],
 .terms a:hover {
   background-color: var(--fg);
-}
-
-.terms.bold a,
-.terms.bold a:visited {
-  font-weight: 700;
 }
 
 .highlight>pre,
