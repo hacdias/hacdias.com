@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 80,
+    "count": 78,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -310,14 +310,6 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://github.com/hacdias"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/support/",
-        "targetUrl": "https://github.com/hacdias"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/support/",
-        "targetUrl": "https://github.com/sponsors/hacdias"
       },
       {
         "sourceUrl": "https://hacdias.com/uses/",
@@ -1786,6 +1778,20 @@
       {
         "sourceUrl": "https://hacdias.com/2021/02/01/recently/",
         "targetUrl": "https://gateway.ipfs.io/ipns/daviddias.me/"
+      }
+    ]
+  },
+  {
+    "domain": "ipfs.tech",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/31/recently/",
+        "targetUrl": "https://ipfs.tech"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://blog.ipfs.tech/shipyard-hello-world/"
       }
     ]
   },
@@ -3468,16 +3474,6 @@
     ]
   },
   {
-    "domain": "ipfs.tech",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/31/recently/",
-        "targetUrl": "https://ipfs.tech"
-      }
-    ]
-  },
-  {
     "domain": "itcorp.com",
     "count": 1,
     "links": [
@@ -3608,16 +3604,6 @@
     ]
   },
   {
-    "domain": "ko-fi.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/support/",
-        "targetUrl": "https://ko-fi.com/hacdias"
-      }
-    ]
-  },
-  {
     "domain": "kobobooks.com",
     "count": 1,
     "links": [
@@ -3654,16 +3640,6 @@
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
         "targetUrl": "https://launchpad.net/php-gettext/"
-      }
-    ]
-  },
-  {
-    "domain": "liberapay.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/support/",
-        "targetUrl": "https://liberapay.com/hacdias/"
       }
     ]
   },
@@ -3814,16 +3790,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/01/29/owning-reading-log/",
         "targetUrl": "http://microformats.org/wiki/jf2"
-      }
-    ]
-  },
-  {
-    "domain": "microlab.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "http://microlab.nl"
       }
     ]
   },
