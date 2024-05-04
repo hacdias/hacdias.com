@@ -5,7 +5,7 @@ language: nl
 categories:
 - articles
 tags:
-- vergeet-niet-om-in-te-checken
+- inchecken
 - nederlands
 syndication:
 - https://fosstodon.org/@hacdias/111550570083991986

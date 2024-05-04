@@ -6,7 +6,7 @@ categories:
 - articles
 coverImage: cdn:/2014-01-sneeuwpop-cupcakes
 tags:
-- vergeet-niet-om-in-te-checken
+- inchecken
 - nederlands
 syndication:
 - https://fosstodon.org/@hacdias/111714188031262494
