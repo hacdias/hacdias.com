@@ -153,6 +153,10 @@ li {
   margin: 0.25em 0;
 }
 
+:target {
+  background: cornsilk;
+}
+
 ::marker {
   color: var(--c)
 }
