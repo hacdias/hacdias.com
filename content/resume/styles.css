@@ -9,7 +9,7 @@
 
 #resume-header div p:first-of-type {
   font-size: 2.3rem;
-  font-weight: bold;
+  font-weight: 700;
   line-height: 1.3;
 }
 
@@ -34,7 +34,7 @@
 .resume-position h3 {
   margin: 0;
   font-size: var(--f4);
-  font-weight: normal;
+  font-weight: 400;
 }
 
 .resume-position h3 a {
