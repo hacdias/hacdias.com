@@ -5,10 +5,10 @@
 
   {{ partial "post/content" . }}
 
-  <div class="terms">
+  <div class='terms'>
     <ul>
     {{ range .Data.Terms.Alphabetical }}
-      <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+      <li><a href="{{ .Page.RelPermalink }}">🏷️ {{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
   </div>
