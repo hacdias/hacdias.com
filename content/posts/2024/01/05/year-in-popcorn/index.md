@@ -35,7 +35,7 @@ It seems that during 2023, I watched episodes from **41** different shows (18 le
 <details>
   <summary><strong>Top Shows Genres</strong></summary>
 
-  | genre           |   count |   percentage |
+  | Genre           |   Count |   Percentage |
   |:----------------|--------:|-------------:|
   | Drama           |      31 |         28.2 |
   | Fantasy         |      13 |         11.8 |
