@@ -33,13 +33,16 @@
       <div class="entries">
         {{- range .replies }}
           <div class="entry">
-            {{ with .content }}<div>{{ safeHTML . }}</div>{{ end }}
-            <div class="signature">—
-            {{ with .authorUrl }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
-            {{ with .author }}{{ . }}{{ else }}Anonymous{{ end }}
-            {{- with .date}}, {{ dateFormat "2006-01-02" . }}{{end }}
-            {{ with .authorUrl }}</a>{{ end }}
-            </div>
+            <p>
+              <strong>From</strong>:
+                {{ with .authorUrl }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
+                {{- with .author }}{{ . }}{{ else }}Anonymous{{ end -}}
+                {{- with .authorUrl }}</a>{{ end -}}
+              <br>
+              <strong>Date</strong>: {{ dateFormat "2006-01-02" .date }}
+            </p>
+            
+            {{  .content | $.RenderString (dict "display" "block") }}
           </div>
         {{ end -}}
       </div>
