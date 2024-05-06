@@ -6,7 +6,7 @@
 }
 
 .entry {
-  padding: var(--ms);
+  padding: 0 var(--ms);
   background: #ffb3ba;
   transform: rotate(0.5deg);
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -30,17 +30,6 @@
 
 .entry:nth-child(2n) {
   transform: rotate(-0.5deg);
-}
-
-.entry .signature {
-  text-align: right;
-  margin-top: 1rem;
-  font-style: italic;
-  font-size: var(--f5);
-}
-
-.entry a:hover {
-  background: none;
 }
 
 .dark .entry,
