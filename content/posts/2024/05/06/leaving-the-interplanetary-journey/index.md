@@ -1,6 +1,8 @@
 ---
 title: Leaving The InterPlanetary Journey
 date: 2024-05-06T17:10:50+02:00
+syndication:
+- https://fosstodon.org/@hacdias/112395008906650178
 categories:
 - articles
 tags:
