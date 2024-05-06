@@ -40,3 +40,17 @@
   background: var(--fg);
   box-shadow: none;
 }
+
+#guestbook-form {
+  padding: var(--ms);
+}
+
+#guestbook-form > * {
+  display: block;
+  width: 100%;
+}
+
+#guestbook-form input,
+#guestbook-form textarea {
+  margin: var(--hms) 0 var(--ms);
+}
