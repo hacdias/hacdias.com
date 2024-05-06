@@ -459,12 +459,6 @@ details summary {
   margin-left: var(--hms);
 }
 
-.block-form>* {
-  display: block;
-  width: 100%;
-  margin: var(--hms) 0;
-}
-
 #navbar,
 .box,
 .terms a,

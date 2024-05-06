@@ -4,30 +4,10 @@
     {{- partialCached "post/content" . .Permalink }}
 
     {{ if eq hugo.Environment "eagle" }}
-      <div class='box comment-form'>
-        <div hidden>
-          ℹ️ Your comment has been submitted for approval and I will be looking at it very soon.
-          Thanks for passing by and leaving your mark. Do you want to submit a <a href='{{ relURL "/guestbook" }}'>new entry</a>?
-        </div>
-
-        <form method='post' action='/comments' class='block-form'>
-          <input type='text' maxlength='100' name='name' placeholder='Name (optional)' value='' />
-          <input type='url' maxlength='100' name='website' placeholder='Website (optional)' value='' />
-          <textarea required maxlength='500' name='content' placeholder='Comment'></textarea>
-          <input type='text' maxlength='100' name='url' placeholder='If you are human, do not write here.' class='dn' />
-          <input type='text' maxlength='300' name='target' value='/guestbook/' class='dn' hidden />
-          <button>Comment</button>
-        </form>
-      </div>
+    <div style='clear: both; text-align: center;'>
+      <a href='#guestbook-form'><button>📝 Sign Guestbook </button></a>
+    </div>
     {{ end }}
-
-    <script>
-    const params = new URL(window.location).searchParams;
-    if (params.get('youre') === 'awesome') {
-      document.querySelector('.comment-form > div').hidden = false;
-      document.querySelector('.comment-form > form').hidden = true;
-    }
-    </script>
 
     {{ with .Resources.Get "sidecar.json" | unmarshal -}}
       <div class="entries">
@@ -41,11 +21,33 @@
               <br>
               <strong>Date</strong>: {{ dateFormat "2006-01-02" .date }}
             </p>
-            
+
             {{  .content | $.RenderString (dict "display" "block") }}
           </div>
         {{ end -}}
       </div>
     {{ end -}}
   </article>
+
+  {{ if eq hugo.Environment "eagle" }}
+  <form method='post' id="guestbook-form" action='/comments' class='box'>
+    <label for='gb-name'>Your Name<abbr title="required">*</abbr></label>
+    <input required type='text' maxlength='200' id='gb-name' name='name' placeholder='Mary Jane' value='' />
+
+    <label for='gb-website'>Your Website</label>
+    <input type='url' maxlength='200' id='gb-website' name='website' placeholder='https://example.com' value='' />
+
+    <label for='gb-content'>Your Message<abbr title="required">*</abbr></label>
+    <textarea required maxlength='1000' rows='7' id='gb-content' name='content' placeholder='Type your message, *markdown* is allowed...'></textarea>
+
+    <label for='gb-captcha'>
+      Anti-spam validation 🙃<br>
+      <small>Enter my @handle...</small>
+    </label>
+    <input type='text' maxlength='100' id='gb-captcha' name='captcha' placeholder='hac...' />
+
+    <input type='text' maxlength='300' name='target' value='/guestbook/' class='dn' hidden />
+    <button>Sign Guestbook</button>
+  </form>
+  {{ end }}
 {{ end }}
