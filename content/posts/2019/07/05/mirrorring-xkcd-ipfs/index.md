@@ -53,7 +53,7 @@ Then, I set up a "placebo" repository on GitHub that runs on Circle CI everyday.
 Now, the clone is published at `/ipns/xkcd.hacdias.com`. You can check out the latest hash by running the following command on your terminal:
 
 ```bash
-$ ipfs name resolve /ipns/hacdias.com
+$ ipfs name resolve /ipns/xkcd.hacdias.com
 /ipfs/Qma24VwKNSJXFcueh5wnRpnncvnK6HRWG1P5BT7fnWbPWM
 ```
 
