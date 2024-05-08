@@ -2546,26 +2546,6 @@
     ]
   },
   {
-    "domain": "bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy.ipfs.dweb.link",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/15/the-world-wide-web-history-project/",
-        "targetUrl": "https://bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy.ipfs.dweb.link/home.html"
-      }
-    ]
-  },
-  {
-    "domain": "bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am.ipfs.dweb.link",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/15/old-internet-files/",
-        "targetUrl": "https://bafybeigsep2mscdilh7nbrljkhjb36my27rfkihazxxsaw6hahxfzth5am.ipfs.dweb.link/"
-      }
-    ]
-  },
-  {
     "domain": "barryfrost.com",
     "count": 1,
     "links": [
@@ -4286,6 +4266,16 @@
     ]
   },
   {
+    "domain": "rscott.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/15/old-internet-files/",
+        "targetUrl": "https://rscott.org/OldInternetFiles/"
+      }
+    ]
+  },
+  {
     "domain": "rusingh.com",
     "count": 1,
     "links": [
@@ -4802,6 +4792,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
         "targetUrl": "https://webfinger.net/"
+      }
+    ]
+  },
+  {
+    "domain": "webhistory.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/15/the-world-wide-web-history-project/",
+        "targetUrl": "http://1997.webhistory.org/"
       }
     ]
   },
