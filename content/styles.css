@@ -6,10 +6,6 @@
   grid-template-columns: repeat(3, 1fr);
 }
 
-.fg div {
-  overflow: hidden;
-}
-
 .fg figure img {
   aspect-ratio: 1;
 }

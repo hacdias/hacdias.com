@@ -182,6 +182,7 @@ li {
 
 .br {
   border-radius: var(--radius);
+  overflow: hidden;
 }
 
 .lg {
