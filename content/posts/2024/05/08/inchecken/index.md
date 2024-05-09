@@ -9,13 +9,13 @@ tags:
 - nederlands
 ---
 
-Welkom bij de zesde deel van deze serie: vergeet niet om in te checken. Ik deze serie probeer ik om een beetje over mijn leven in het Nederlands te schrijven. Vandaag wil ik over examens, boeken en Eurovisie hebben.
+Welkom bij de zesde deel van deze serie: vergeet niet om in te checken. In deze serie probeer ik om een beetje over mijn leven in het Nederlands te schrijven. Vandaag wil ik over examens, boeken en Eurovisie hebben.
 
 <!--more-->
 
 ## 🎓 Lessen
 
-Er zijn geen interessante nieuws over lessen, maar ik wil sowieso een update geven: ik heb nu maar één les en daarna is mijn B1 cursus afgelopen. Dit gebeurt volgende dinsdag. Volgende donderdag begin ik al met de B1+ cursus. En dit is de laatste cursus die op mijn huidige plan staat.
+Er is geen interessante nieuws over lessen, maar ik wil sowieso een update geven: ik heb nu nog maar één les en daarna is mijn B1 cursus afgelopen. Dit gebeurt volgende dinsdag. Volgende donderdag begin ik al met de B1+ cursus. En dit is de laatste cursus die op mijn huidige plan staat.
 
 ##  📝 Examens
 

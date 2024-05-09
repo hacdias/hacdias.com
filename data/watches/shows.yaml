@@ -2,9 +2,13 @@
 #   season:
 #   date:
 #   rating:
+- name: Heartbreak High
+  season: 2
+  rating: 3
+  date: 2024-05-08
 - name: Anthracite
   season: 1
-  rating: 3
+  rating: 4
   date: 2024-05-03
 - name: 3 Body Problem
   season: 1
