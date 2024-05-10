@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Stay Close
+  season: 1
+  rating: 4
+  date: 2024-05-10
 - name: Heartbreak High
   season: 2
   rating: 3
