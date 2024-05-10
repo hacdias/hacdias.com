@@ -1,4 +1,4 @@
-{{ if .Params.categories }}
+{{ if eq .Section "posts" }}
   <footer class="box small">
     {{ if .Lastmod.After .Date }}
     <p>
