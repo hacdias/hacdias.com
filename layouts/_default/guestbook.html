@@ -3,11 +3,15 @@
     {{- partialCached "post/header" (dict "Listing" false "Page" .) .Permalink false -}}
     {{- partialCached "post/content" . .Permalink }}
 
-    {{ if eq hugo.Environment "eagle" }}
     <div style='clear: both; text-align: center;'>
-      <a href='#guestbook-form'><button>📝 Sign Guestbook </button></a>
+      {{ if eq hugo.Environment "eagle" }}
+        <a href='#guestbook-form'>
+      {{ else }}
+        <a href="mailto:mail@hacdias.com?subject=Re: Guestbook Entry&body=Name%3A%0AWebsite%3A%0AMessage%3A" rel='noopener noreferrer'>
+      {{ end }}
+        <button>📝 Sign Guestbook </button>
+      </a>
     </div>
-    {{ end }}
 
     {{ with .Resources.Get "sidecar.json" | unmarshal -}}
       <div class="entries">
