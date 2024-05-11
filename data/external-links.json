@@ -327,7 +327,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 40,
+    "count": 41,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -472,6 +472,10 @@
       {
         "sourceUrl": "https://hacdias.com/2024/03/27/bought-numeronym-domain-name/",
         "targetUrl": "https://en.wikipedia.org/wiki/Numeronym"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Honeypot_%28computing%29"
       },
       {
         "sourceUrl": "https://hacdias.com/contact/",
@@ -783,7 +787,7 @@
   },
   {
     "domain": "seblog.nl",
-    "count": 8,
+    "count": 9,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
@@ -812,6 +816,10 @@
       {
         "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
         "targetUrl": "https://seblog.nl/2024/02/05/2/obligatory-post-fosdem-post"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://seblog.nl/"
       },
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
@@ -1184,6 +1192,28 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://jlelse.blog/"
+      }
+    ]
+  },
+  {
+    "domain": "kevquirk.com",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/19/having-a-microblog-on-a-traditional-blog/",
+        "targetUrl": "https://kevquirk.com/having-a-microblog-on-a-traditional-blog"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://kevquirk.com"
       }
     ]
   },
@@ -1936,20 +1966,6 @@
     ]
   },
   {
-    "domain": "kevquirk.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/10/19/having-a-microblog-on-a-traditional-blog/",
-        "targetUrl": "https://kevquirk.com/having-a-microblog-on-a-traditional-blog"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://kevquirk.com"
-      }
-    ]
-  },
-  {
     "domain": "kurzgesagt.org",
     "count": 2,
     "links": [
@@ -1988,6 +2004,20 @@
       {
         "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
         "targetUrl": "https://macwright.org/2020/05/10/spa-fatigue.html"
+      }
+    ]
+  },
+  {
+    "domain": "manuelmoreale.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://manuelmoreale.com/guestbook"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://manuelmoreale.com"
       }
     ]
   },
@@ -3712,16 +3742,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/02/01/recently/",
         "targetUrl": "https://www.legislativas2022.mai.gov.pt/"
-      }
-    ]
-  },
-  {
-    "domain": "manuelmoreale.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://manuelmoreale.com"
       }
     ]
   },
