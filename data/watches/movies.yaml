@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: The Others
+  rating: 4
+  date: 2024-05-10
 - name: Irish Wish
   rating: 3
   date: 2024-04-27
