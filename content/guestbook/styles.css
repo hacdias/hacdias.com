@@ -12,19 +12,19 @@
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
-.entry:nth-child(5n - 3) {
+.entry:nth-last-child(5n - 3) {
   background: #ffdfba;
 }
 
-.entry:nth-child(5n - 2) {
+.entry:nth-last-child(5n - 2) {
   background: #ffffba;
 }
 
-.entry:nth-child(5n - 1) {
+.entry:nth-last-child(5n - 1) {
   background: #baffc9;
 }
 
-.entry:nth-child(5n + 0) {
+.entry:nth-last-child(5n + 0) {
   background: #bae1ff;
 }
 
@@ -33,10 +33,10 @@
 }
 
 .dark .entry,
-.dark .entry:nth-child(5n - 3),
-.dark .entry:nth-child(5n - 2),
-.dark .entry:nth-child(5n - 1),
-.dark .entry:nth-child(5n + 0) {
+.dark .entry:nth-last-child(5n - 3),
+.dark .entry:nth-last-child(5n - 2),
+.dark .entry:nth-last-child(5n - 1),
+.dark .entry:nth-last-child(5n + 0) {
   background: var(--fg);
   box-shadow: none;
 }
