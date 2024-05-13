@@ -2,8 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Woman in the House Across the Street from the Girl in the Window
+  rating: 3
+  date: 2024-05-12
 - name: Stay Close
-  season: 1
   rating: 4
   date: 2024-05-10
 - name: Heartbreak High
@@ -11,7 +13,6 @@
   rating: 3
   date: 2024-05-08
 - name: Anthracite
-  season: 1
   rating: 4
   date: 2024-05-03
 - name: 3 Body Problem
@@ -19,7 +20,6 @@
   rating: 4
   date: 2024-04-26
 - name: Shōgun
-  season: 1
   rating: 4
   date: 2024-04-23
 - name: Young Royals
@@ -34,7 +34,6 @@
   rating: 4
   date: 2024-02-26
 - name: De geheimen van Barslet
-  season: 1
   rating: 3
   date: 2024-02-24
 - name: Percy Jackson
