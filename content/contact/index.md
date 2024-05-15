@@ -47,7 +47,6 @@ I can usually be found in most places as [@hacdias](/about/#handle). Some of the
 
 - [{{< favicon "github.com" >}} GitHub: @hacdias](https://github.com/hacdias)
 - [{{< favicon "linkedin.com" >}} LinkedIn: @hacdias](https://linkedin.com/in/hacdias)
-- [{{< favicon "telegram.org" >}} Telegram: @hacdias](https://t.me/hacdias)
 - [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
 - [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
 - [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
