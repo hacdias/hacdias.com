@@ -72,16 +72,28 @@ summaryLength = 300
       'mailto:mail@hacdias.com'
     ]
 
+[mediaTypes.'application/atom+xml']
+  suffixes = ['xml']
+
 [outputFormats]
-  [outputFormats.rss]
+  [outputFormats.atom]
     baseName = 'feed'
+    mediaType = 'application/atom+xml'
+    isPlainText = false
+    rel = 'alternate'
+    noUgly = true
+    permalinkable = false
   [outputFormats.json]
     baseName = 'feed'
+    mediaType = 'application/json'
     isPlainText = true
+    rel = 'alternate'
+    noUgly = true
+    permalinkable = false
 
 [outputs]
   taxonomy = ['HTML']
-  term = ['HTML', 'RSS', 'JSON']
-  home = ['HTML', 'RSS', 'JSON']
+  term = ['HTML', 'ATOM', 'JSON']
+  home = ['HTML', 'ATOM', 'JSON']
   section = ['HTML']
   page = ['HTML']
