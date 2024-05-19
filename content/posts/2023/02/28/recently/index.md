@@ -25,13 +25,13 @@ In the beginning of the month, I went to Helmond to get some Portuguese treats. 
 
 <div class='fg fw' style='grid-template-columns: repeat(4,1fr);'>
 
-![](cdn:/04be4d0dcede35b6f756983f7caab80331e9948cb3009bfa594d55dd716e93a7)
+![](cdn:/2023-02-helmond-01 "Inside of a Chorizo Bread")
 
-![](cdn:/5283adac42034c06bda8b0266bb548cd026bc4316b3978120870659a417f3fa6)
+![](cdn:/2023-02-helmond-02 "Turtle Bread")
 
-![](cdn:/b08b500c06d23aeaacb9adc0b2b1f4395f2b406b8e14102ed341a1579bb2b0a9)
+![](cdn:/2023-02-helmond-03 "Chorizo Bread")
 
-![](cdn:/59de3fccca5b1c29d5983b09c905fa53f51ecd43178f296479229fa71f8fb672)
+![](cdn:/2023-02-helmond-04 "Rice Cake")
 
 </div>
 

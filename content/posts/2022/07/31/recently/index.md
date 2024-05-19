@@ -23,6 +23,6 @@ July is ending for most of us in a few hours and August will start. This is when
 - Now there's a food festival in Eindhoven and I went yesterday and probably today.
 - Still working on my thesis. Almost done. I think the final document is 99% finished. My supervisor reviewed it again this week and there's no more feedback of things to change, or add. I think that now I just have to prepare the defense for September.
 
-![Chromatica Ball Banner](cdn:/94bf9bbe15e94d7864a37a65ac4f4f1632bf9d041ecb10e7f905e32315d8123e?caption=false)
+![](cdn:/94bf9bbe15e94d7864a37a65ac4f4f1632bf9d041ecb10e7f905e32315d8123e "Chromatica Ball Banner")
 
 Have a nice August!

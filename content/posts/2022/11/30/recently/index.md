@@ -25,9 +25,9 @@ Around the same time we got the keys, the [GLOW Festival](https://gloweindhoven.
 
 <div class="fw fg">
   
-![GLOW Festival](cdn:/595d894a8a558a273e5a9bfe656c2052f309ee52763f478756b43d4b0e15e827?caption=false)
+![](cdn:/595d894a8a558a273e5a9bfe656c2052f309ee52763f478756b43d4b0e15e827 "GLOW Festival Butterflies")
 
-![Oliebollen](cdn:/ea556aca280987f427e4c82edd049aaadd13dbda701bbb01959ae53e7fa9eec2?caption=false)
+![](cdn:/ea556aca280987f427e4c82edd049aaadd13dbda701bbb01959ae53e7fa9eec2 "Oliebollen")
 
 </div>
 
@@ -37,17 +37,17 @@ While my parents were here, I had my graduation 🎓 ceremony, where I dressed s
 
 <div class="fw fg" style="grid-template-columns: repeat(3, 1fr);">
   
-![GLOW Festival](cdn:/0e7f71af8859274ffe33f9d0db714a975a72c88e82b2233b5822d14bf1765cfe?caption=false)
+![](cdn:/0e7f71af8859274ffe33f9d0db714a975a72c88e82b2233b5822d14bf1765cfe "Parents at GLOW Festival")
 
-![Path Behind The Church](cdn:/ac4bf00df18025a7c140a8de6ed0a6790b9812dd6926ef3d0441b10f28c0d208?caption=false)
+![](cdn:/ac4bf00df18025a7c140a8de6ed0a6790b9812dd6926ef3d0441b10f28c0d208 "Parents at Path Behind The Church")
 
-![Stadswandelpark](cdn:/8be96d708d26fa48405c9f2d8a7f50495389c3c314296dc5700cf364897b6aad?caption=false)
+![](cdn:/8be96d708d26fa48405c9f2d8a7f50495389c3c314296dc5700cf364897b6aad "Parents at Stadswandelpark")
 
-![Amsterdam 1](cdn:/bda136593e069b18aaaf3ef271732f84dfc483ac4caac68466ffa7fefce072d2?caption=false)
+![](cdn:/bda136593e069b18aaaf3ef271732f84dfc483ac4caac68466ffa7fefce072d2 "Parents at Amsterdam Centraal")
 
-![Amsterdam 2](cdn:/a862b945dc5cb5296fa8a9203b12babd11b044f72f384238be250b8c23ea1d01?caption=false)
+![](cdn:/a862b945dc5cb5296fa8a9203b12babd11b044f72f384238be250b8c23ea1d01 "Parents at Amsterdam Canals")
 
-![Piazza Bridge](cdn:/cfd984dc5c1539cc077bc82d5190b791b2be66e6bd47a9f4bdfcbad33f14f89f?caption=false)
+![](cdn:/cfd984dc5c1539cc077bc82d5190b791b2be66e6bd47a9f4bdfcbad33f14f89f "Parents at Piazza Bridge")
 
 </div>
 

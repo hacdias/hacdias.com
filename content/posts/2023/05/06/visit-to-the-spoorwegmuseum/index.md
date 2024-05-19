@@ -62,17 +62,17 @@ Inside the museum, there is a variety of things you can do. We started by taking
 
 <div class='fw fg grid3'>
 
-![NS 20](cdn:/2023-05-spoorwegmuseum-ns-20?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ns-20 "NS 20")
 
-![NS 273](cdn:/2023-05-spoorwegmuseum-ns-273?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ns-273 "NS 273")
 
-![NS 51](cdn:/2023-05-spoorwegmuseum-ns-51?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ns-51 "NS 51")
 
-![NS 2498](cdn:/2023-05-spoorwegmuseum-ns-2498?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ns-2498 "NS 2498")
 
-![NS 386](cdn:/2023-05-spoorwegmuseum-ns-386?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ns-386 "NS 386")
 
-![NS 1125](cdn:/2023-05-spoorwegmuseum-ns-1125?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ns-1125 "NS 1125")
 
 </div>
 
@@ -83,52 +83,52 @@ to completely spoil the experience.
 
 <div class='fw fg'>
 
-![NS mP 3031](cdn:/2023-05-spoorwegmuseum-ns-3031?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ns-3031 "NS mP 3031")
 
-![NS 20](cdn:/2023-05-spoorwegmuseum-ns-20-side?caption=false)
-
-</div>
-
-![NS 673](cdn:/2023-05-spoorwegmuseum-ns-673?caption=false&class=fw)
-
-<div class='fw fg'>
-
-![SS C 723 Woman's Only Wagon Entrance](cdn:/2023-05-spoorwegmuseum-ss-723-wo?caption=false)
-
-![SS 326](cdn:/2023-05-spoorwegmuseum-ss-326?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ns-20-side "NS 20")
 
 </div>
 
+![](cdn:/2023-05-spoorwegmuseum-ns-673?class=fw "NS 673")
+
 <div class='fw fg'>
 
-![NS 1501](cdn:/2023-05-spoorwegmuseum-ns-1501?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ss-723-wo "SS C 723 Woman's Only Wagon Entrance")
 
-![3rd Class Wagon](cdn:/2023-05-spoorwegmuseum-3d-class?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-ss-326 "SS 326")
 
-![SS C 723](cdn:/2023-05-spoorwegmuseum-ss-723?caption=false)
+</div>
 
-![NS 137](cdn:/2023-05-spoorwegmuseum-ns-137?caption=false)
+<div class='fw fg'>
+
+![](cdn:/2023-05-spoorwegmuseum-ns-1501 "NS 1501")
+
+![](cdn:/2023-05-spoorwegmuseum-3d-class "3rd Class Wagon")
+
+![](cdn:/2023-05-spoorwegmuseum-ss-723 "SS C 723")
+
+![](cdn:/2023-05-spoorwegmuseum-ns-137 "NS 137")
 
 </div>
 
 Besides seeing old trains, and entering some of them, such as the royal family train, there is a myriad of other activities you can do at the museum, and a bunch of eating places too. In addition, there's even a theatre, which is probably the only thing I haven't visited inside the museum.
 
-![Overview of Some Trains](cdn:/2023-05-spoorwegmuseum-overview?caption=false&class=fw)
+![](cdn:/2023-05-spoorwegmuseum-overview?class=fw "Overview of Some Trains")
 
 Among these activities is the Stalen Monsters (*Steal Monsters*) ride, De Vuurproef (*Trial By Fire*) and De Grote Ontdekking (*The Great Discovery*). Each one offers you a different kind of thing with its uniqueness and greatness. From a thrilling ride where you go even under a train, to a traveling back to the reconstruction of a town in 1839. Here's some unrelated pictures that I took at the museum:
 
 <div class='fg fw grid3'>
 
-![Automatiek](cdn:/2023-05-spoorwegmuseum-automatiek?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-automatiek "Automatiek")
 
-![Destination Signs](cdn:/2023-05-spoorwegmuseum-naartoe?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-naartoe "Destination Signs")
 
-![Aesthetic Desk](cdn:/2023-05-spoorwegmuseum-desk?caption=false)
+![](cdn:/2023-05-spoorwegmuseum-desk "Aesthetic Desk")
 
 </div>
 
 Before leaving, we passed by the museum's shop and I might've gotten too excited and got a new cap 🧢, some magnets 🧲, some socks 🧦, and a book about all the trains in the museum. The book is, of course, in Dutch, so that'll be a fun reading!
 
-![Goodies I bought](cdn:/2023-05-spoorwegmuseum-goodies?class=fw&caption=false)
+![](cdn:/2023-05-spoorwegmuseum-goodies?class=fw "Goodies I bought")
 
 And we're reaching the end of this post. I hope you enjoyed it as much as I did enjoy writing it! When you write about something that you liked, time passes by very quickly. If you enjoy trains, I definitely recommend this museum in case you visit The Netherlands!

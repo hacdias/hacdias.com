@@ -22,6 +22,6 @@ I have recently noticed I have been writing 'recently' posts since September 202
 - Got a bit sick early this week, but I'm already much better after 2 days. I thought it was probably just a summer cold, but to come and go this fast, maybe the flu? In the summer? Who knows.
 - My student travel product ended officially and even though I'm still a student until September or October, renewing it is an hassle and it wouldn't give any benefits for the summer anyways. Back to the NS Flex subscription!
 
-![Lorde](cdn:/af1f30b5460cc7bff5dab449245d892fe7881745f345bbe2a12831f577668b70?caption=false)
+![](cdn:/af1f30b5460cc7bff5dab449245d892fe7881745f345bbe2a12831f577668b70 "The Solar Power Tour Poster")
 
 The second half of the month was very quiet, but I'm hoping that next month I'll have more and new exciting things.
