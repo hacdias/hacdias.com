@@ -266,6 +266,11 @@
       "feed": "https://paulstamatiou.com/posts.xml"
     },
     {
+      "title": "Pesky's Blog",
+      "site": "https://blog.pesky.moe/",
+      "feed": "https://blog.pesky.moe/index.xml"
+    },
+    {
       "title": "Phil Eaton",
       "site": "http://notes.eatonphil.com/",
       "feed": "https://notes.eatonphil.com/rss.xml"
