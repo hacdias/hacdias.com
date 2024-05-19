@@ -1,13 +1,8 @@
 {{- $url := urls.Parse .Destination }}
 {{- $query := $url.Query }}
-{{- $caption := true }}
 {{- $class := or ($query.Get "class") .Class }}
 {{- $id := "" }}
 {{- $src := "" }}
-
-{{- with $query.Get "caption" }}
-	{{- $caption = eq . "true" }}
-{{- end }}
 
 {{- if eq $url.Scheme "cdn" }}
 	{{- $id = strings.TrimPrefix "/" $url.Path }}
@@ -27,14 +22,14 @@
 {{- end }}
 
 <img src="{{ absURL $src | safeURL }}"
-	{{- with .Text }} alt ="{{.}}"{{ end }}
+	{{- with or .Text .Title }} alt ="{{.}}"{{ end }}
 	{{- if and (not .IsBlock) $class }} class="{{ $class }}"{{ end }}
 	{{- with .Title }} title="{{ . }}"{{ end }} loading="lazy" >
 
 {{- if .IsBlock }}
 		</picture>
-		{{- if and $caption .Text }}
-		<figcaption>{{ safeHTML .Text }}</figcaption>
+		{{- with .Text }}
+		<figcaption>{{ safeHTML . }}</figcaption>
 		{{- end }}
 	</figure>
 {{- end -}}

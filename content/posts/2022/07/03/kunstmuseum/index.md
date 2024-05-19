@@ -3,15 +3,15 @@ title: Kunstmuseum, Den Haag
 date: 2022-07-03T00:00:00.314581588+02:00
 categories:
   - photos
-coverImage: cdn:/040a5c6a8b5c22e514e040fc53e4aa4d0a0e58638f13a9d75653d1e7ad04413f
+coverImage: cdn:/2022-07-kunstmuseum-01
 photos:
-  - url: cdn:/040a5c6a8b5c22e514e040fc53e4aa4d0a0e58638f13a9d75653d1e7ad04413f
-  - url: cdn:/a8b92845c03156e528617a7d8190942c107a1d16850c4b14444cc29e985d6db5
-  - url: cdn:/228a1f9c571d91f44a9979c985c8d9e3cbc04032d2dd465d3bdae3c2226cd30b
-  - url: cdn:/bea47dd162a4a41bd56601082d2bf3c6cbedf715a53a57eba921e12ba323cfec
-  - url: cdn:/a0ab5328e22bc3f7790b19ef3bcda6b0b6978ce28b119685950937efc51bb23d
-  - url: cdn:/545da3aa0e3924fab30aec3d3f3e4084ca918e6d205b684120638988aa3c6838
-  - url: cdn:/d128d31af006ea5b53b8504f26d25ad426c704cede4a81c955aca7b6fe5f01be
+  - url: cdn:/2022-07-kunstmuseum-01
+  - url: cdn:/2022-07-kunstmuseum-02
+  - url: cdn:/2022-07-kunstmuseum-03
+  - url: cdn:/2022-07-kunstmuseum-04
+  - url: cdn:/2022-07-kunstmuseum-05
+  - url: cdn:/2022-07-kunstmuseum-06
+  - url: cdn:/2022-07-kunstmuseum-07
 ---
 
 <style>

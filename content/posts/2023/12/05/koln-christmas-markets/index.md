@@ -22,11 +22,11 @@ A common topic to last year is, certainly, the food! I had reibekuchen 🥔 agai
 
 <div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
 
-![Sausage with Curry Sauce](cdn:/2023-12-koln-christmas-food-01?caption=false)
+![](cdn:/2023-12-koln-christmas-food-01 "Sausage with Curry Sauce")
 
-![Raclette](cdn:/2023-12-koln-christmas-food-02?caption=false)
+![](cdn:/2023-12-koln-christmas-food-02 "Raclette")
 
-![Waffle with Cherry Sauce](cdn:/2023-12-koln-christmas-food-03?caption=false)
+![](cdn:/2023-12-koln-christmas-food-03 "Waffle with Cherry Sauce")
 
 </div>
 

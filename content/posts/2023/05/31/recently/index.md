@@ -36,7 +36,7 @@ Just like last year, Zeeland was a bit cold, especially in the sea, but it was n
 Giethoorn was a very nice place. We did a day trip there and got a boat tour
 by a local that volunteers. The weather ☀️ was nice and I definitely recommend.
 
-![Pieter de Graaf](cdn:/fb960b7933ae2a0f85703d0c3efbed89587e1cc4096f74ef57d856f00fb7ebc3?class=right&caption=false)
+![](cdn:/fb960b7933ae2a0f85703d0c3efbed89587e1cc4096f74ef57d856f00fb7ebc3?class=right "Pieter de Graaf")
 
 ## 📚 Reading
 

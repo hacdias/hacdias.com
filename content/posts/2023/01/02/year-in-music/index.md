@@ -36,25 +36,25 @@ Last.fm has a very nice API that allows me to download all of my history very ea
 
 <div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
 
-![Years & Years](cdn:/90a908fb2de1d1f0781b13ee53fa003f9851a626fd7abc15ff2975fc4fca26e2?caption=false)
+![](cdn:/90a908fb2de1d1f0781b13ee53fa003f9851a626fd7abc15ff2975fc4fca26e2 "Years & Years")
 
-![Marina](https://cdn.hacdias.com/media/b34e1316d8714c132d57f3b5b2eaa46207e1268b2bcb71fb0edbe9fd0b34233e.jpg?caption=false)
+![](https://cdn.hacdias.com/media/b34e1316d8714c132d57f3b5b2eaa46207e1268b2bcb71fb0edbe9fd0b34233e.jpg "Marina")
 
-![Lorde](cdn:/bf4ca03c7e72ce5dc054e0f03da3690cfa8278bf4f445b8af4eb1601e5d40b3d?caption=false)
+![](cdn:/bf4ca03c7e72ce5dc054e0f03da3690cfa8278bf4f445b8af4eb1601e5d40b3d "Lorde")
 
-![Tove Lo](cdn:/298ac4012f829e6e0e3ef8c6bea5d1c5c08781ffee7e953ca7faa6ee31d2af70?caption=false)
+![](cdn:/298ac4012f829e6e0e3ef8c6bea5d1c5c08781ffee7e953ca7faa6ee31d2af70 "Tove Lo")
 
-![Lady Gaga](cdn:/10bd2f5a6b52367b6080809d8f5263f1d017198c194b96bdc5f51ae2155b59a4?caption=false)
+![](cdn:/10bd2f5a6b52367b6080809d8f5263f1d017198c194b96bdc5f51ae2155b59a4 "Lady Gaga")
 
-![Allie X](cdn:/f24ccae6f36ab35bb6e3d48136a7a63f77299645f2373ef669232731225566b7?caption=false)
+![](cdn:/f24ccae6f36ab35bb6e3d48136a7a63f77299645f2373ef669232731225566b7 "Allie X")
 
-![MØ](cdn:/d9dc82bc38722dec5eb0da157b7d8f2c9b550176fd926248aeec3da3a0a44831?caption=false)
+![](cdn:/d9dc82bc38722dec5eb0da157b7d8f2c9b550176fd926248aeec3da3a0a44831 "MØ")
 
-![Rina Sawayama](cdn:/4ed4838ccefd9de823665d57ac264caade61b7fe7f426f0c770b86848c3daecd?caption=false)
+![](cdn:/4ed4838ccefd9de823665d57ac264caade61b7fe7f426f0c770b86848c3daecd "Rina Sawayama")
 
-![Troye Sivan](cdn:/a60fc741619d7f5b3b8f4e135ced8f77ae6e0273aa672cbd3e301aeb35e06ebc?caption=false)
+![](cdn:/a60fc741619d7f5b3b8f4e135ced8f77ae6e0273aa672cbd3e301aeb35e06ebc "Troye Sivan")
 
-![Charli XCX](cdn:/5b81c3ba363ea79e4f7c16bf5d2417dbed61785bb6737c7339dabad60286d310?caption=false)
+![](cdn:/5b81c3ba363ea79e4f7c16bf5d2417dbed61785bb6737c7339dabad60286d310 "Charli XCX")
 
 </div>
 
@@ -124,25 +124,25 @@ Regarding artists, we see Years & Years, Marina and Lorde at the top, which does
 
 <div class='fg fw' style='grid-template-columns: repeat(5, 1fr)'>
 
-![Night Call (Deluxe)](cdn:/8167b2d21fec8a468fbb2024c54e3c175021cf13f6a83024a186bd6f6eba8ca1?caption=false)
+![](cdn:/8167b2d21fec8a468fbb2024c54e3c175021cf13f6a83024a186bd6f6eba8ca1 "Night Call (Deluxe)")
 
-![Solar Power](cdn:/04e0efbb20bf3ebf6c9d0e90b1f6c72ef7be9c88459d373313d19c7a615ef31c?caption=false)
+![](cdn:/04e0efbb20bf3ebf6c9d0e90b1f6c72ef7be9c88459d373313d19c7a615ef31c "Solar Power")
 
-![Melodrama](cdn:/b81ae0c2a769a9787f458dde782230cbd2b26fc9427cb0fce923ccdc93392370?caption=false)
+![](cdn:/b81ae0c2a769a9787f458dde782230cbd2b26fc9427cb0fce923ccdc93392370 "Melodrama")
 
-![Ancient Dreams in a Modern Land](cdn:/f7f5fba32e26f31e910eefa5fc5d49b4c7b6a8bd961c2e1e99e6157ce8b5908c?caption=false)
+![](cdn:/f7f5fba32e26f31e910eefa5fc5d49b4c7b6a8bd961c2e1e99e6157ce8b5908c "Ancient Dreams in a Modern Land")
 
-![Ancient Dreams in a Modern Land (Deluxe Edition)](cdn:/2c17dfca567da34d5f2433d0d99a3e4d1ff21f51189f6787eb85f9c0f3fa3365?caption=false)
+![](cdn:/2c17dfca567da34d5f2433d0d99a3e4d1ff21f51189f6787eb85f9c0f3fa3365 "Ancient Dreams in a Modern Land (Deluxe Edition)")
 
-![Born This Way (International Special Edition Version)](cdn:/5517dbf4a07d2c5f18e00d8fb6369a4e551748eb2a4bec312d54bda0dd199b17?caption=false)
+![](cdn:/5517dbf4a07d2c5f18e00d8fb6369a4e551748eb2a4bec312d54bda0dd199b17 "Born This Way (International Special Edition Version)")
 
-![Dirt Femme](cdn:/7bfcd3e0306ee968455ef0cc675a665c23b7fb565bbeba2271f07427b68255a3?caption=false)
+![](cdn:/7bfcd3e0306ee968455ef0cc675a665c23b7fb565bbeba2271f07427b68255a3 "Dirt Femme")
 
-![CRASH](cdn:/fa255b08b6f0f85b4e2f206ee0b1e39feb18e79c1b4fe04919987bc26aa34e1c?caption=false)
+![](cdn:/fa255b08b6f0f85b4e2f206ee0b1e39feb18e79c1b4fe04919987bc26aa34e1c "CRASH")
 
-![Cozy Dreams](https://cdn.hacdias.com/media/8429e7124d7cd23822e936ce566ef7081add48bf9e1f2588e42004fa3648dbd6.jpg?caption=false)
+![](https://cdn.hacdias.com/media/8429e7124d7cd23822e936ce566ef7081add48bf9e1f2588e42004fa3648dbd6.jpg "Cozy Dreams")
 
-![Electra Heart (Platinum Blonde Edition)](cdn:/a6c833ba329a2ed869c49da02081a9227b058e0e1b82892b65166180e1564ffe?caption=false)
+![](cdn:/a6c833ba329a2ed869c49da02081a9227b058e0e1b82892b65166180e1564ffe "Electra Heart (Platinum Blonde Edition)")
 
 </div>
 
