@@ -52,7 +52,7 @@ function addEmoji (el) {
 
 function parseEmojis (el) {
   twemoji.parse(el, {
-    base: 'https://cdn.hacdias.com/emojis/14.0.1/',
+    base: 'https://cdn.hacdias.com/emojis/15.1.0/',
     folder: 'svg',
     ext: '.svg'
   })
