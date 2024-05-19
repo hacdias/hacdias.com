@@ -36,25 +36,25 @@ Last.fm has a very nice API that allows me to download all of my history very ea
 
 <div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
 
-![](cdn:/90a908fb2de1d1f0781b13ee53fa003f9851a626fd7abc15ff2975fc4fca26e2 "Years & Years")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-years-years.jpeg "Years & Years")
 
-![](https://cdn.hacdias.com/media/b34e1316d8714c132d57f3b5b2eaa46207e1268b2bcb71fb0edbe9fd0b34233e.jpg "Marina")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-marina.jpeg "Marina")
 
-![](cdn:/bf4ca03c7e72ce5dc054e0f03da3690cfa8278bf4f445b8af4eb1601e5d40b3d "Lorde")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-lorde.jpeg "Lorde")
 
-![](cdn:/298ac4012f829e6e0e3ef8c6bea5d1c5c08781ffee7e953ca7faa6ee31d2af70 "Tove Lo")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-tove-lo.jpeg "Tove Lo")
 
-![](cdn:/10bd2f5a6b52367b6080809d8f5263f1d017198c194b96bdc5f51ae2155b59a4 "Lady Gaga")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-lady-gaga.jpeg "Lady Gaga")
 
-![](cdn:/f24ccae6f36ab35bb6e3d48136a7a63f77299645f2373ef669232731225566b7 "Allie X")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-allie-x.jpeg "Allie X")
 
-![](cdn:/d9dc82bc38722dec5eb0da157b7d8f2c9b550176fd926248aeec3da3a0a44831 "MØ")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-mo.jpeg "MØ")
 
-![](cdn:/4ed4838ccefd9de823665d57ac264caade61b7fe7f426f0c770b86848c3daecd "Rina Sawayama")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-rina-sawayama.jpeg "Rina Sawayama")
 
-![](cdn:/a60fc741619d7f5b3b8f4e135ced8f77ae6e0273aa672cbd3e301aeb35e06ebc "Troye Sivan")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-troye-sivan.jpeg "Troye Sivan")
 
-![](cdn:/5b81c3ba363ea79e4f7c16bf5d2417dbed61785bb6737c7339dabad60286d310 "Charli XCX")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-charli-xcx.jpeg "Charli XCX")
 
 </div>
 
@@ -124,25 +124,25 @@ Regarding artists, we see Years & Years, Marina and Lorde at the top, which does
 
 <div class='fg fw' style='grid-template-columns: repeat(5, 1fr)'>
 
-![](cdn:/8167b2d21fec8a468fbb2024c54e3c175021cf13f6a83024a186bd6f6eba8ca1 "Night Call (Deluxe)")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-night-call-deluxe.jpeg "Night Call (Deluxe)")
 
-![](cdn:/04e0efbb20bf3ebf6c9d0e90b1f6c72ef7be9c88459d373313d19c7a615ef31c "Solar Power")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-solar-power.jpeg "Solar Power")
 
-![](cdn:/b81ae0c2a769a9787f458dde782230cbd2b26fc9427cb0fce923ccdc93392370 "Melodrama")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-melodrama.jpeg "Melodrama")
 
-![](cdn:/f7f5fba32e26f31e910eefa5fc5d49b4c7b6a8bd961c2e1e99e6157ce8b5908c "Ancient Dreams in a Modern Land")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-ancient-dreams-in-a-modern-land.jpeg "Ancient Dreams in a Modern Land")
 
-![](cdn:/2c17dfca567da34d5f2433d0d99a3e4d1ff21f51189f6787eb85f9c0f3fa3365 "Ancient Dreams in a Modern Land (Deluxe Edition)")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-ancient-dreams-in-a-modern-land-deluxe.jpeg "Ancient Dreams in a Modern Land (Deluxe Edition)")
 
-![](cdn:/5517dbf4a07d2c5f18e00d8fb6369a4e551748eb2a4bec312d54bda0dd199b17 "Born This Way (International Special Edition Version)")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-born-this-way.jpeg "Born This Way (International Special Edition Version)")
 
-![](cdn:/7bfcd3e0306ee968455ef0cc675a665c23b7fb565bbeba2271f07427b68255a3 "Dirt Femme")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-dirt-femme.jpeg "Dirt Femme")
 
-![](cdn:/fa255b08b6f0f85b4e2f206ee0b1e39feb18e79c1b4fe04919987bc26aa34e1c "CRASH")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-crash.jpeg "CRASH")
 
-![](https://cdn.hacdias.com/media/8429e7124d7cd23822e936ce566ef7081add48bf9e1f2588e42004fa3648dbd6.jpg "Cozy Dreams")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-cozy-dreams.jpeg "Cozy Dreams")
 
-![](cdn:/a6c833ba329a2ed869c49da02081a9227b058e0e1b82892b65166180e1564ffe "Electra Heart (Platinum Blonde Edition)")
+![](https://cdn.hacdias.com/media/2023-01-year-in-music-electra-heart.jpeg "Electra Heart (Platinum Blonde Edition)")
 
 </div>
 
@@ -282,21 +282,21 @@ I always distrust Spotify Wrapped a bit. For one, it is published at the beginni
 
 <div class='fg fw' style='grid-template-columns: repeat(4, 1fr)'>
 
-![](cdn:/80d051f85c4cdbc3f5b3dd04c21a826d1c4acd98c18381b19c65157fa8a8c3ba)
+![](cdn:/2023-01-spotify-wrapped-01)
 
-![](cdn:/58dc99469a53a4ca7a33e32b1793e1d3d20d95a43741fa7cdeaed3eb0fbcf397)
+![](cdn:/2023-01-spotify-wrapped-02)
 
-![](cdn:/b147bb134ab9232b7c9691bc7248e202a29c1ddb61217f391a4f4bcc42ba7d2b)
+![](cdn:/2023-01-spotify-wrapped-03)
 
-![](cdn:/b8e90b58f5e16160aceac94a00025a40acc307559b4288ce0a843072d5e72c97)
+![](cdn:/2023-01-spotify-wrapped-04)
 
-![](cdn:/39477c1a9f8d1601c5feae777f9781552c668cf4326c35b85d0669a00f4aeedb)
+![](cdn:/2023-01-spotify-wrapped-05)
 
-![](cdn:/4f75e9ec7ba702d8b1621a63447d68e5cbd527b7677025531eaec25564f6a50e)
+![](cdn:/2023-01-spotify-wrapped-06)
 
-![](cdn:/ff4821735b26479bf3146401c3d93ba3eef7aa80c6c53358b6fe5ba6d8a88e76)
+![](cdn:/2023-01-spotify-wrapped-07)
 
-![](cdn:/928f5c92e5c1841807c960ad8886ab71d1ca3116778b173feddb3b09c8fb495a)
+![](cdn:/2023-01-spotify-wrapped-08)
 
 </div>
 

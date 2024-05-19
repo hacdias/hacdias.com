@@ -32,25 +32,25 @@ img.cute-listener {
 
 <div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
 
-![](https://cdn.hacdias.com/media/b34e1316d8714c132d57f3b5b2eaa46207e1268b2bcb71fb0edbe9fd0b34233e.jpg "Marina")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-marina.jpeg "Marina")
 
-![](cdn:/d05c775ecf6d377a5717518abe2ff422b8081bc29da033d35d06750c40d5e06c "Agnes")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-agnes.jpeg "Agnes")
 
-![](cdn:/564353aa3658cb5d5917beb2df945fb35464d53a58cc3389d542e53039023c57 "Lady Gaga")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-lady-gaga.jpeg "Lady Gaga")
 
-![](https://cdn.hacdias.com/media/4fa22c1d096db6f2866de6bb68ec284874a19d0552957fe382358fbab080be23.jpg "Omar Rudberg")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-omar-rudberg.jpeg "Omar Rudberg")
 
-![](cdn:/2f1352eb634d0808eaed67ad3554361ba6c2e9e45c08383217cc8120b096468f "Miley Cyrus")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-miley-cyrus.jpeg "Miley Cyrus")
 
-![](https://cdn.hacdias.com/media/0fb36432aae072573df07ef4716da066dc423e7e8698a3061279f8c39377682a.jpg "Sia")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-sia.jpeg "Sia")
 
-![](cdn:/a60fc741619d7f5b3b8f4e135ced8f77ae6e0273aa672cbd3e301aeb35e06ebc "Troye Sivan")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-troye-sivan.jpeg "Troye Sivan")
 
-![](cdn:/bf725db556ab34574d3e1a752ceb2ffa1ecd68c585602c744c584c9da8aeee13 "Adele")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-adele.jpeg "Adele")
 
-![](cdn:/9fb7e64e92a94b1d9e61c1d20a5debd0cd83182b3372ee744ec64c33dbf56457 "Pabllo Vittar")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-pabllo-vittar.jpeg "Pabllo Vittar")
 
-![](cdn:/cf9cbe518b0630e628ea8ea2e48752dc165a9e9b12546b39488699e05728c4e1 "London Grammar")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-london-grammar.jpeg "London Grammar")
 
 </div>
 
@@ -119,25 +119,25 @@ In 2021, I listened to a lot of songs by Marina, Agnes and Lady Gaga, which are 
 
 <div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
 
-![](cdn:/f7f5fba32e26f31e910eefa5fc5d49b4c7b6a8bd961c2e1e99e6157ce8b5908c "Ancient Dreams in a Modern Land")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-ancient-dreams-in-a-modern-land.jpeg "Ancient Dreams in a Modern Land")
 
-![](cdn:/3c571f324636667afd1549edb9f90e440e9feb1d9a34980dd470fc2fb44b0cc0 "Plastic Hearts")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-plastic-hearts.jpeg "Plastic Hearts")
 
-![](cdn:/f4ae984c7fbbd0029a2feb44607301910e34478ba6c410edf8434410f0587494 "FROOT")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-froot.jpeg "FROOT")
 
-![](cdn:/0ec7a2f355c06dc22a80e3f513a55c2cf1756e5c8ae4fc0d07ff84a49315ce65 "Everyday is Christmas")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-everyday-is-christmas.jpeg "Everyday is Christmas")
 
-![](cdn:/0baebd7071c50b9969c643379e9d2adce7e9b08e6053afc2c3c7ec3317503189 "Future Nostalgia")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-future-nostalgia.jpeg "Future Nostalgia")
 
-![](https://cdn.hacdias.com/media/986873255bb1f3827b41e6c6031ebd302b50f91ff97a9ee641161b28b7fe5a62.jpg "Californian Soil")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-california-soil.jpeg "Californian Soil")
 
-![](cdn:/588cdc20ffd0fef164263ad74affab28f455dc349f07e6fabdfb04f086dc3045 "The Circle° Sessions")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-the-circle-sessions.jpeg "The Circle° Sessions")
 
-![](cdn:/7013d3c8ecad0307005b082b0a3dde810e11d43df2d7844be058c30e52d2e6dd "Miss Anthropocene")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-miss-anthropocene.jpeg "Miss Anthropocene")
 
-![](cdn:/6e645366be167154d1ed32ac4df9d7c6282eacc253cbccf8d1bfee655a622aa8 "Cape God")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-cape-god.jpeg "Cape God")
 
-![](cdn:/40dbc8987bece7eee4d48aa852f0a9062319b0f3102cae37a34a3501e071dd59 "Chromatica")
+![](https://cdn.hacdias.com/media/2022-01-year-in-music-chromatica.jpeg "Chromatica")
 
 </div>
 
