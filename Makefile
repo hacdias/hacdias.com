@@ -10,7 +10,7 @@ normalize:
 	wget https://necolas.github.io/normalize.css/8.0.1/normalize.css -O assets/css/vendor/normalize.css
 
 twemoji:
-	wget https://twemoji.maxcdn.com/v/latest/twemoji.min.js -O assets/js/vendor/twemoji.min.js
+	wget https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js -O assets/js/vendor/twemoji.min.js
 
 clean:
 	rm -rf assets/css/vendor
