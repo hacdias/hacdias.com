@@ -4176,6 +4176,16 @@
     ]
   },
   {
+    "domain": "pesky.moe",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://blog.pesky.moe/"
+      }
+    ]
+  },
+  {
     "domain": "phpdoc.org",
     "count": 1,
     "links": [
