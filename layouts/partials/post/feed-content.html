@@ -2,7 +2,6 @@
   <em>Not all of the content might be visible on your feed reader. Consider checking out the <a href='{{ .Permalink }}' rel='noopener noreferrer'>original post</a>.</em>
 {{- end -}}
 {{- partialCached "post/content" . .Permalink }}
-<hr/>
 <p>
   <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>💬 Reply via e-mail</a> |
   <a href="{{ absURL "/guestbook/" }}" rel='noopener noreferrer'>📖 Sign my guestbook</a>
