@@ -14,7 +14,7 @@
       <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
       <a href="https://fosstodon.org/@hacdias" rel='noopener noreferrer'>Mastodon</a>,
       <a href="https://bsky.app/profile/hacdias.com" rel='noopener noreferrer'>Bluesky</a>,
-      <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>.
+      <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
     </p>
 
     {{ with .Page.Params.syndication }}
@@ -27,8 +27,12 @@
           {{- partialCached "favicon" $domain $domain }}
           {{ $domain -}}
         </a>
-      {{- end -}}.
+      {{- end -}}
     </p>
     {{ end }}
+
+    <p>
+      📖 Feel free to sign my <a href="{{ absURL "/guestbook/" }}" rel='noopener noreferrer'>guestbook</a>
+    </p>
   </footer>
 {{ end }}
