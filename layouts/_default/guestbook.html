@@ -7,7 +7,7 @@
       {{ if eq hugo.Environment "eagle" }}
         <a href='#guestbook-form'>
       {{ else }}
-        <a href="mailto:mail@hacdias.com?subject=Re: Guestbook Entry&body=Name%3A%0AWebsite%3A%0AMessage%3A" rel='noopener noreferrer'>
+        <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: Guestbook Entry&body=Name%3A%0AWebsite%3A%0AMessage%3A" rel='noopener noreferrer'>
       {{ end }}
         <button>Sign Guestbook </button>
       </a>
