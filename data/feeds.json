@@ -460,6 +460,13 @@
       "feed": "https://zdimension.fr/feed.xml"
     }
   ],
+  "self": [
+    {
+      "title": "Home - Henrique Dias",
+      "site": "https://hacdias.com/",
+      "feed": "https://hacdias.com/feed.xml"
+    }
+  ],
   "software": [
     {
       "title": "Alpine Linux",
