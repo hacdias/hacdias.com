@@ -24,11 +24,12 @@ noIndex: true
 
 </div>
 
-I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I currently work at Interplanetary Shipyard, where I build and maintain specialized services to bridge HTTP and content-addressed, decentralized and P2P systems.
+I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I am an eager learning and always up for new challenges.
+
 
 ## 💼 Experience {#experience}
 
-{{< resume-position title="Software Engineer" location="Interplanetary Shipyard" href="https://ipshipyard.com/" from="01/2024" to="present" >}}
+{{< resume-position title="Software Engineer" location="Interplanetary Shipyard" href="https://ipshipyard.com/" from="01/2024" to="05/2024" >}}
 
 - Co-author and maintainer of specialized services to bridge HTTP and P2P systems in Go.
 - Maintainer of libraries for content-addressed, decentralized and P2P systems in Go.
