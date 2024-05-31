@@ -11,7 +11,7 @@ January was a very busy month, which I did not really expect. More importantly, 
 
 <!--more-->
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 January was somewhat of a prolific month when it came to writing articles, especially the first half. I wrote a whopping record of 13 articles in such a short amount of time. I don't think I've ever published so many articles in such short amount of time. Nevertheless, that seems to have stopped. My favorite post to write this past month was ["When Does Abroad Stop Feeling Like Abroad?"](/2024/01/10/when-does-abroad-stop-being-abroad/).
 
@@ -19,7 +19,7 @@ January was somewhat of a prolific month when it came to writing articles, espec
 
 During January I've also created a [digital shoebox](/2024/01/13/making-a-digital-shoebox/), where I also added new content that I didn't use to have online. I am happy I did it. It's a nice place to throw some things that I want to publish, but have no clear place of where they should go. In other news, I also added an "archive" view to my [photos](/photos/) and [graphics](/graphics/) pages.
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 I started my new Dutch course, for level B1-. I have classes twice a week, on Mondays and Wednesdays, from 12:00 and 14:00. The timing is far from ideal, as it kind of cuts through the middle of the day. I'm lucky I can take this classes, but for the next course I will try the 9:30 on Tuesdays and Thursdays. I will likely write more about classes and my "Dutch-learning" plan in another post.
 
@@ -29,15 +29,15 @@ I also had to visit Den Haag in order to visit the Portuguese consulate to renew
 
 In the middle of December I then decided to make an appointment, which is usually fine: issuing a new ID-card usually takes 5 working days abroad if I pay the urgent fee. Unfortunately, the earliest appointment was a week after my ID card expired. It seems to already be available to pick up from today, but they're only open for pick-ups between 14:00 and 16:00 and I really can't go today as I have important meetings.
 
-## 💪 Health
+## 💪 Health {#health}
 
 I started going to the gym three times a week in January: Mondays, Wednesdays and Fridays. It's been great so far. There's not a lot I want to say here, but I'm now doing more cardio-related exercises and functional strength training too. Before it was mostly traditional strength training with weights and stuff.
 
-## 📚 Reading
+## 📚 Reading {#reading}
 
 I finally finished reading *Harry Potter en de Steen der Wijzen*. It took longer than I wanted, but that's my fault as I'm not giving it enough time to read the book. I also started *Harry Potter en de Geheime Kamer*, which I already have over 50% read.
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 When it comes to movies, I went to the cinema two times this month. I watched both *Wonka* and the new *Mean Girls* movie in the cinema. Both were good, in their own ways. I had to also watch the older *Mean Girls* movie at home, since I had never watched it before.
 

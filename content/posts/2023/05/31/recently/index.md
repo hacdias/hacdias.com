@@ -15,7 +15,7 @@ to look back in this month. Let's go.
 
 <!--more-->
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 During this last month, I made a few updates to my website. Arguably the most
 noticeable is the homepage update. Before, I was simply listing the latest
@@ -23,7 +23,7 @@ dozen posts. Now, I just show the last posts (articles, readings, photos),
 as well as some favorite posts and the latest six photo articles. Some other
 minor changes have happened, but I leave that to you.
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 In the beginning of the month, I visited the 🚆 Spoorwegmuseum in Utrecht. It was
 an incredible experience and I wrote an [article](/2023/05/06/visit-to-the-spoorwegmuseum/)
@@ -38,7 +38,7 @@ by a local that volunteers. The weather ☀️ was nice and I definitely recomme
 
 ![](cdn:/fb960b7933ae2a0f85703d0c3efbed89587e1cc4096f74ef57d856f00fb7ebc3?class=right "Pieter de Graaf")
 
-## 📚 Reading
+## 📚 Reading {#reading}
 
 In the reading department, I started and finished ["The Culture Map"](/2023/05/21/the-culture-map/).
 I wrote a review about it, so I'm not going to talk more about it here. In addition,
@@ -47,7 +47,7 @@ He kindly gave away a few copies, and I was one of the lucky ones to receive one
 I'm almost half-way the book and it's been positively interesting. Once I finish,
 I will write a review.
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 Regarding movies, I watched the "Bullet Train". It was quite a nice movie. In the series
 department, I finished quite a few. But I want to shout out to "Queen Charlotte" and

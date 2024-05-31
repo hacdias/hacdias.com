@@ -11,7 +11,7 @@ March had quite a lot of highlights for me, despite the [bike shituation](/2024/
 
 <!--more-->
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 At the beginning of March, I did a small trip with a few friends of mine to a city in 🇩🇪 Germany, and then two other cities in 🇨🇭 Switzerland. We started off in Eindhoven, and then took (multiple) trains to München. We stayed there for a few days, and then went to Zürich and Genève, also by train. On the way back, I took the TGV from Genève to Paris, and the Eurostar back to Rotterdam.
 
@@ -25,15 +25,15 @@ I also want to note that it is always crazy to see the staggering amount of Port
 
 On a different note, I started a new Dutch course for level B1. It's been quite nice and I have my presentation (*spreekbeurt*) next week. My plan is to talk about 🚊 international train travel, nighttrains, and some of the greatest problems at the moment. Very on brand for me.
 
-## 💪 Health
+## 💪 Health {#health}
 
 Not a lot of updates here besides the fact that I didn't feel any consequences for my long walks in Vienna that I mentioned last month. I've been keeping going to gym three times a week when possible, and I would say it's going great.
 
-## 📚 Reading
+## 📚 Reading {#reading}
 
 I finally finished reading *Harry Potter en de Gevangene van Azkaban* and have started the next one, *Harry Potter en de Vuurbeker*. I'm already way over half of the book, so I hope to finish it during the first week or two of April.
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 In the series department, I have watched *One Day*, which I really enjoyed. The turns and twists of the story were completely unexpected for me, which made it a nice series. I've also watched the third and last season of *Young Royals*, and I'm glad with the ending. I think European series in general deserve more visibility.
 

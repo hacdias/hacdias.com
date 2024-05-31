@@ -28,7 +28,7 @@ figure.round {
   </video>
 </figure>
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 Maybe to surprise of many, Hugo is back again. Hugo is the static website generator I used to use before.
 I have once [welcomed](/2015/08/12/farewell-wordpress-hello-hugo/) Hugo, and later said [goodbye](/2021/11/19/farewell-hugo-hello-eagle/).
@@ -41,7 +41,7 @@ the development of custom features and standards we'd like to be more mainstream
 I am still using Eagle, just like I was before, it's just the rendering that is mostly handled
 by Hugo.
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 Life-wise, I want to mention something that actually happened in March but I forgot:
 I went to the Bloesempark again. Last year, I also [visited this park](/2022/03/27/visit-to-the-bloesempark/) and took some very nice pictures.
@@ -71,7 +71,7 @@ car break down that did not allow it to be driven anymore. However, we made the 
 in Lille, it was relatively easy to go to Paris. Two people in the group had never gone to Paris, and it was a very nice experience.
 Basically, we spent 2 nights in Lille and 2 nights in Paris. Very nice moments and fun memories for the future.
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 In the entertainment department, I finished watching RuPaul's Drag Race Season 15 and the All Stars season is almost
 coming up. I feel like over the past years, there's always Drag Race seasons popping up every month. Especially since

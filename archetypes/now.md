@@ -11,17 +11,17 @@ How was last month?
 
 <!--more-->
 
-## ✍️ Website
+## ✍️ Website {#website}
 
-## 🍄 Life
+## 🍄 Life {#life}
 
-## 💪 Health
+## 💪 Health {#health}
 
-## 📚 Reading
+## 📚 Reading {#reading}
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
-## 🎮 Gaming
+## 🎮 Gaming {#gaming}
 
 <hr>
 

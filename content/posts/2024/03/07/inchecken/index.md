@@ -17,7 +17,7 @@ Welkom bij de vierde deel van deze serie: vergeet niet om in te checken. Vandaag
 
 <!--more-->
 
-## 📚 Lessen
+## 📚 Lessen {#lessen}
 
 In de afgelopen maand heb ik een beetje geschreven over mijn nieuwe cursus Nederlands, waar ik toen mee begonnen was. Fast forward[^1] naar deze maand en het is al afgelopen. Ik neem intensief cursussen waarin ik twee keer per week lessen heb, en ze duren maar 8 weken.
 
@@ -29,7 +29,7 @@ Voor de nieuwe cursus gebruiken we ook de boeken *Nederlands op niveau* en *77 p
 
 Desondanks mijn voel dat twee keer per week lessen hebben niet genoeg ik, ga ik misschien aanmelden voor een één keer per week B1 cursus tijdens de zomer. Het lijkt me het best. Dit maakt het ook mogelijk om een paar dagen naar Portugal - of andere plekken - tijdens de zomer te gaan... zonder lessen missen. Ik denk dat dat een goed plan is.
 
-## 🗣️ Drietalig worden
+## 🗣️ Drietalig worden {#drietalig-worden}
 
 Er bestaat een woordspeling in het Engels waarin "trilingual" "try-lingual" wordt want je begin woorden in alle talen te vergeten. En ik voel dat al! Elke dat moet ik in het Portugees, in het Engels, en ook in het Nederlands praten:
 

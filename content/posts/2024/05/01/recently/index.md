@@ -11,7 +11,7 @@ April is now in the past, albeit with some consequences for the future. In compa
 
 <!--more-->
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 In the life department, there's not a lot of things. A few weeks ago my partner and I went for a very nice bike trip, which prompted this small [post](/2024/04/13/biking/) I wrote about biking. In the meanwhile, he unfortunately broke his ankle, so I don't think we'll be doing nice long bike trips in the next few weeks, and maybe months.
 
@@ -19,11 +19,11 @@ Since last Friday, my parents have been visiting. They came on time for 👑 *Ko
 
 My parents and I have visited a few places, including Den Bosch, de Keukenhof and also Maastricht. I'm happy I've communicated with everyone else I needed to in Dutch, whether it was in restaurants, shops, or somewhere else. Sometimes when my partner is with me, there's this assurance that there's someone else that understands it, but now it's always been me, and it's been fine!
 
-## 📚 Reading
+## 📚 Reading {#reading}
 
 As I said in the beginning, I've probably read too much in April. I read all the books from Harry Potter, from the Goblet of Fire to the Deathly Hallows. That was 4 (four!) entire books in Dutch. In. A. Single. Month. I think I entered a bit of a addicted phase because I just wanted to read more and more.
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 On the entertainment category there are also quite a few things. When it comes to movies, I watched *Kung Fu Panda 4* in the cinema and it was very nice. Before this, I had to watch 2 and 3 because I hadn't watched those yet. I also want to highlight *Wish*, the new - for me - Disney movie.
 

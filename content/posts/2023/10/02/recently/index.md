@@ -14,7 +14,7 @@ September passed by quite quickly and with that two thirds of 2023 are now finis
 
 <!--more-->
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 In the beginning of September, my parents came visit alongside with my cousin. Let's say that it was an experience. My parents have been here, albeit not on my new place to which I moved last November. In contrast, this was my cousin's first flight and likely first trains too.
 
@@ -28,7 +28,7 @@ Saturday and Sunday were slower days, which does not necessarily mean we walked 
 
 On that same Sunday, Chris and I bought a birthday calendar! For those who don't know, a birthday calendar is a calendar just for... birthdays. From what I've talked to other people, this does not seem to be very common in other countries, but all Dutch households have one. And it's placed on the... toilet door! Very classy.
 
-## 💪 Health
+## 💪 Health {#health}
 
 I've been going to the gym twice a week consistently. I don't recall to which point I shared this here, but I started going to the gym right before the summer started. At the time I was going once a week, but now I'm going twice a week. I definitely feel stronger and better.
 
@@ -36,7 +36,7 @@ I've been going to the gym twice a week consistently. I don't recall to which po
 
 Finally, Chris and I went to Spa, in Belgium. Spa is known for its water brand... Spa water. The town is also located in the Ardennes region, so it's surrounded by beautiful nature. On Saturday, we did a 10 km hike with some elevation, and I am pleased to say that I had no Achilles complaints from it.
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 In the movie department, I watched Downsizing. It was nice, but I feel like they could've gone so much further, or in depth, with the story line. So many questions unanswered, so many seemingly unnecessary things. I would be up for a second movie though.
 

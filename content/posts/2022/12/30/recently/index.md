@@ -13,7 +13,7 @@ December is concluding and with it, we're closing in the end of 2022. With the e
 
 <!--more-->
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 I made quite a few updates over the last month to this website, both in terms of functionality and appearances. One of the most (in)visible changes is that I removed support for private posts, as well as login for other people. That is something I ended up not using for over a year so I thought: why not remove it.
 
@@ -23,7 +23,7 @@ Inspired by [Tim's Logs](https://timharek.no/logs/), I updated my [📚 Readings
 
 Finally, I updated the way the [🗞️ Blogroll](/blogroll) is displayed to include the favicon of each website that I follow. This was inspired by Jim's [External Links](https://blog.jim-nielsen.com/about/external-links) page. Sadly, it uses an API from Google. However, I may end up proxying it and caching the results in the future.
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 ![Faro Airport](cdn:/b3b9a0e9db826e76d7511534e774facae4db121e2514cac336e7daf33850f1c0?class=right)
 
@@ -31,11 +31,11 @@ Life-wise, quite a few things happened, but I'm going to be quicker on this sect
 
 Sadly, I'm still "suffering" from my Achilles tendinitis, or tendinopathy, as I think it actually is. I will ask the physiotherapist next time. It bothers me quite a lot and I feel extremely limited. If I walk a bit more, it will hurt, the day after. That's the thing about tendons: you never know if you're over-exerting them. And on top of all of it: I've lived my all life in hilly areas and never have I had a problem like this. I move to a flat country and this happens... Let's hope this will get fixed during the first months of 2023!
 
-## 📚 Reading
+## 📚 Reading {#reading}
 
 I finally finished reading "The Island of Missing Trees". I had started this book back in June, so this took a long time. Mostly because I procrastinated a while since then and basically took a months long break of reading, which is sad. Nevertheless, it was a very good book, which you can read more about in my [little review](/2022/12/25/the-island-of-missing-trees).
 
-## 🍿 Watching
+## 🍿 Watching {#watching}
 
 I [watched](/watches) quite a few things during December. However, I want to highlight a few. In the movies department, I went to the cinema twice. The first time, I watched *The Menu*. I had absolutely no clue what the movie was about, but apparently, according to Wikipedia, it's a "black comedy horror movie". I'm not exactly sure if I would call it that, but psychological horror, definitely. It was quite nice, in the sense that it was quite unexpected and the idea behind it is quite well executed in my opinion.
 

@@ -14,13 +14,13 @@ August is almost gone, and with it the smells of summer. Day after day, the vibe
 
 <!--more-->
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 There haven't been major updates on this website over the past month. However, I have made a small update to the [🚆 Trips](/trips/) page. When you first look at it, it looks the same. Once you click on a certain trip however, you get a list of all of the legs within that trip and the transport method. This was reasonably easy to do as I had this data from my old itineraries section. And I think it's nice to see if a certain trip was train-only, a mix between trains and flights, or others. It also gives more insights about where I was during the trip.
 
 ![](cdn:/2023-08-trips-expandable?class=fw "Trips page with expanded section")
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 In the beginning of the month, I had an interesting train experience: I traveled onboard of the [🍽️ Dinner Train](https://dinnertrain.eu/), whose sole purpose is to... have dinner on the train. Every weekend, it departs from a different city. The origin station is the same as the destination station. We just went on a gentle train trip for around 2 hours and had dinner on board. I would definitely recommend.
 
@@ -40,11 +40,11 @@ I don't remember if I've mentioned it here, but at some point I ordered an elect
 
 We also visited Zwolle, which was a surprisingly nice city. I do highly recommend it to everyone if they stay a little longer in the Netherlands. Perhaps it's a hidden gem. Finally, and perhaps less exciting, I got my last two wisdom teeth 🦷 removed two days ago. It's been an experience!
 
-## 📚 Reading
+## 📚 Reading {#reading}
 
 In the beginning of the month, I finished reading *Minoes*, a Dutch book. That was the longest Dutch book I've ever read and I can say I understood the story quite well. Of course, there's words here and there that I do not understand, but that's how it goes. I also started, but did not finish [*If on a Winter's Night a Traveler*](/2023/08/23/if-on-a-winters-night-a-traveler/).
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 In the entertainment category, there are quite some nice things. On the 3rd of August, we went to see Bianca del Rio, just like we did last year. The comedy show did not disappoint, and I could not stop laughing the whole time.
 
