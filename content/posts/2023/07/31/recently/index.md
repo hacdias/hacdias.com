@@ -17,7 +17,7 @@ Let's recap this month.
 
 <!--more-->
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 This was a reasonably calm month when it comes to updates to my website. Maybe that means I was busy
 with other things. Nevertheless, I made a few updates to my [🚀 Impossible List](/impossible-list/), and,
@@ -27,7 +27,7 @@ set whether you want a light or dark experience in the footer of the website.
 
 ![Dark Theme](cdn:/2023-07-website-dark-theme?class=fw)
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 First of all, I went to 🇵🇹 Portugal for around two weeks. While I stayed at my parents for most of the time
 and met with different family members, I also had the opportunity of going to Lisbon and meeting some of my friends.
@@ -59,14 +59,14 @@ Dutch. I am going to start classes again in around a month, and I've now been ex
 formats of media in Dutch in a daily basis. For example, podcasts, TV shows with audio and subtitles in Dutch,
 and books or newspaper articles.
 
-## 📚 Reading
+## 📚 Reading {#reading}
 
 Continuing the topic of the previous paragraph, I became member of the local library, the *Bibliotheek Eindhoven*,
 which allows me to borrow not only physical books, but also e-books and e-magazines. With this, I started reading
 *Minoes* again, a Dutch book. I think it is quite nice to read on an e-reader since it is much easier to figure out
 the meaning of some word that I don't know.
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 On the entertainment chapter, I've watched the first season of Anne+, a totally Dutch series and also
 started season two. In addition, I have watched Barbie in the cinema, both in English and a dubbed-version

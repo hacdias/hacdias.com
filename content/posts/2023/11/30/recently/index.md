@@ -13,7 +13,7 @@ November is almost gone. It was quite of a slow month, so I had more time to spe
 
 <!--more-->
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 During November, I made quite some updates to this website, even though they may not be easy to see at first sight. One of the most clear changes, for me, was updating the headers and footers. The headers now use slightly different font sizes, and the footers include more information, such as [syndications](https://indieweb.org/Category:syndication) and reply methods.
 
@@ -23,13 +23,13 @@ In the backend, I re-enabled Webmentions, which I had disabled at some point in 
 
 Finally, I also added Micropub support again, using my [indielib](https://github.com/hacdias/indielib) Go library. I don't use it much, but I think it can be useful. This post, for example, has been published through it. I'm also considering using it for my [bookmarks](/bookmarks/), instead of maintaining a Linkding instance. It also already has Web Archive support, so why not?
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 This month hasn't been as eventful as others have been. Not much has happened that deserves a mention here. In the beginning of the month, a friend came visit, and that was very nice. I've also kept attending my Dutch classes, which are going well. The teacher recommended me to follow the next level course from January, so that's a good sign.
 
 Among some other events, seeing some friends, and house warmings, I also witnessed this years' GLOW festival. It was a bit different than [last years'](/2022/11/30/recently/), but not necessarily much better. I think that now that there's a walking route again, it is easy to follow. Unfortunately I did not think that most of the exhibitions where that good.
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 Compared to last month, there's more updates here. Maybe the cozyness of Autumn has allowed me to watch more series and movies. But first, quick update: I am still reading the first book of Harry Potter in Dutch. Maybe I've watched too many movies and series.
 

@@ -13,11 +13,11 @@ Welkom bij de zesde deel van deze serie: vergeet niet om in te checken. In deze 
 
 <!--more-->
 
-## 🎓 Lessen
+## 🎓 Lessen {#lessen}
 
 Er is geen interessante nieuws over lessen, maar ik wil sowieso een update geven: ik heb nu nog maar één les en daarna is mijn B1 cursus afgelopen. Dit gebeurt volgende dinsdag. Volgende donderdag begin ik al met de B1+ cursus. En dit is de laatste cursus die op mijn huidige plan staat.
 
-##  📝 Examens
+## 📝 Examens {#examens}
 
 Inmiddels heb ik hier over iets anders niet gepraat: examens. Welke examens? Het hangt ervan af. Aan het einde van het jaar, of misschien in het begin van volgende jaar, wil ik het Staatsexamen doen. Het is nog steeds niet duidelijk of ik het B1 of B2 examens wil doen, maar waarschijnlijk ga ik de B2 proberen.
 
@@ -33,7 +33,7 @@ Bijna een maand later kon ik het spreekexamen doen. Het resultaat voor dit exame
 
 Nou, sinds gisteren kan ik zeggen dat ik geslaagd voor het inburgeringsexamen ben. Ik denk dat ik het diploma binnen vier weken ga krijgen. Ik heb er geen plannen voor: het is alléén maar een diploma die nuttig kan zijn als ik ooit wil naturaliseren, en misschien zijn er dan andere eisen.
 
-## 📚 Lezen
+## 📚 Lezen {#lezen}
 
 Als het om boeken gaat, was april wat exotisch. En ik bedoel dat niet letterlijk, maar figuurlijk. In de vorige post zei ik dat ik met het vijfde boek van Harry Potter was begonnen. Dit was in het begin van april. Inmiddels is dit boek al uitgelezen. Niet alleen dit boek, maar ook alle andere.
 
@@ -43,7 +43,7 @@ Nou, ik denk dat het een goede en belangrijke ervaring was. IK heb nog nooit zo 
 
 Maar nu... wat ga ik verder lezen? Weet het niet zeker. Ik heb een grote achterstand met de Donald Duck stripboeken, dus misschien is het een goed idee om die te lezen. Heb jij weleens wat aanraders?
 
-## 🪩 Eurovisie
+## 🪩 Eurovisie {#eurovisie}
 
 Zoals ik in het begin zei, wil ik over Eurovisie praten: het is nu Eurovisie tijd. In afgelopen jaren heb ik Eurovisie altijd in het Engels of in het Portugees gekeken. Het problem met het Engels is dat de versie op YouTube geen commentaar heeft en ik kan de BBC versie alléén maar met een VPN kijken. En het probleem met de Portuguese versie is dat mijn partner het niet begrijpt.
 

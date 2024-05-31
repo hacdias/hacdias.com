@@ -15,7 +15,7 @@ December is coming to an end, and with it so is 2023. In general, it's been quit
 
 As usual, I am going to talk a bit about a few categories and for each I will give some highlights of what has happened during 2023 and what I am grateful for, as well as some ideas or plans of what I would like to see in 2024. I want to do [this exercise](https://www.youtube.com/watch?v=c_DOG_mXz5w) where I reflect in some areas of my life, and set some goals of what I would like to be seeing in 12 months. I think writing this post might be part of it.
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 During 2023, this website has suffered quite some changes, but not necessarily visible to you, the reader. I've talked about most of them in my ["Recently"](/now/) posts. I want to highlight that this past month, during Christmas, I gave my website a little bit of a 💄 makeover, making it slightly more festive.
 
@@ -29,7 +29,7 @@ Looking back at the posts, I've released a record of 43 articles. That is more a
 
 Something else I am planning on doing in 2024 is trying to be more involved in the [IndieWeb](https://events.indieweb.org) community. I will try attending a IndieWeb Camp in person, as well as some Homebrew online meetings. As before, not a hard goal, or the most important one, but I think it could be quite nice.
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 Life, that is a very general category. So it's quite hard for me to pin point exactly what has happened. So I'm just going to write some highlights and see what comes out of it. Firstly, it was my first year living in my new apartment in Eindhoven, as well as my first full year living with my partner. It's been an awesome time, that I'm certainly grateful for.
 
@@ -47,13 +47,13 @@ I am also hoping that by the end of 2024, I am able to have regular conversation
 
 For example, if there's a word for something and I don't know the word, I want to be able to explain the thing whose word I'm looking for. However, I feel like I still have this problem with English, and even Portuguese. So maybe it's more of a skill I have to develop in general, not necessarily just for Dutch
 
-## 💪 Health
+## 💪 Health {#health}
 
 The two greatest things I want to highlight is how consistent I have been with going to the gym, and how much my achilles has improved. I haven't had any major (or any?) complaints over the past month or two. I'm hoping it will stay like this, and I think this is mostly about knowing immediately how to manage it, and not pushing it too much when I start feeling something.
 
 **In 2024**, I plan on continuing visiting the gym twice a week for both cardio and weightlifting exercises. Maybe I will be increasing this to three times a week, but that is not yet certain. It also depends a lot of my availability and other things in life.
 
-## 💼 Work
+## 💼 Work {#work}
 
 On the work front, I am glad I managed to see my coworkers in person a few times last year. I was able to work on quite some exciting things during the year. However, it wasn't nearly as challenging or growth-inducing enough as I would've hoped.
 

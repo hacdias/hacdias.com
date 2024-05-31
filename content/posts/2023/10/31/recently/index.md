@@ -16,7 +16,7 @@ October just passed by. It's now full-on autumn and I just turned one year older
 
 <!--more-->
 
-## ✍️ Website
+## ✍️ Website {#website}
 
 This month I published a few more posts than I was expected. I had a weird afternoon a few weekends ago where I just streamed down a few posts that I had then to schedule during the whole week. I would like to stick to a schedule, but that can be hard, especially when trying to juggle with everything else in life.
 
@@ -24,7 +24,7 @@ I also made a few updates to my homepage, where I now added a favorite photos se
 
 ![Updated Homepage in October 2023](cdn:/2023-10-website-homepage?class=fw)
 
-## 🍄 Life
+## 🍄 Life {#life}
 
 This month, I met with a few friends in different instances thorough the month. I've also kept going to the gym, sticking to my schedule properly. I think the coming two months I might've to make some adjustments here and there. Other than that, it's going well.
 
@@ -67,7 +67,7 @@ En wijn! Heel lekker!
 
 </div>
 
-## 🍿 Entertainment
+## 🍿 Entertainment {#entertainment}
 
 There is not much in the entertainment category for this week. However, I recently started reading the first Harry Potter book in Dutch. I am reading it using an e-reader, while listening to its audiobook simultaneously. So far, it seems to be a great way to make sure I listen to the pronunciation while still reading the book and seeing new words. Using an e-reader makes it easier to check what some word means. 
 

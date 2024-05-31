@@ -13,7 +13,7 @@ Welkom bij de vijfde deel van deze serie: vergeet niet om in te checken. Vandaag
 
 <!--more-->
 
-## 📚 Lessen
+## 📚 Lessen {#lessen}
 
 Mijn lessen plannen zijn verandert. Vorige keer heb ik gezegd dat ik van plan was om een minder intens cursus tijdens de zomer te volgen. Deze cursus (B1+) had maar één les per week. Helaas gaat dat niet lukken want blijkbaar begint het vóór het einde van mijn huidige cursus (B1). En dat kan niet.
 
@@ -21,11 +21,11 @@ Daarom heb ik besloten om een intensieve cursus, zoals die die ik nu volg, te vo
 
 Daarna denk ik dat het een goed idee is om met cursussen te stoppen, of tenminste pauzeren. Sinds oktober afgelopen jaar heb ik Nederlands lessen bijna elke week gehad: vanaf A2+ tot B1 (nu) en straks B1+. Vier verschillende cursussen. Het is dan tijd om alles te laten bezinken, en te zien hoe ik verder met mijn Nederlands avontuur wil.
 
-## ✏️ Schrijven
+## ✏️ Schrijven {#schrijven}
 
 Dit is gerelateerd met wat ik boven heb gezegd. Hoe kan ik verder met mijn Nederlands avontuur? Er zijn natuurlijk verschillende manieren, maar wat ik nu denk dat het belangrijkste is is om mijn woordenschat uit te breiden. Misschien moet ik meer schrijven, hier op deze website, of misschien in privé. Ik weet niet precies wat ik hiermee zou doen.
 
-## 📖 Lezen
+## 📖 Lezen {#lezen}
 
 Inmiddels ben ik klaar met *Harry Potter en de Vuurbeker* en ik ben ook met *‌Harry Potter en de Orde van de Feniks* begonnen. Er zijn nog steeds heel veel woorden in deze boeken die ik niet begrijp, maar ik denk dat het prima is. Soms vertaal ze naar het engels en weet ik ze ook niet. Die zijn meestal woorden die gebruikt worden om iets te beschrijven, bijvoeglijke naamwoorden.
 
