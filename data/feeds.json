@@ -3,7 +3,7 @@
     {
       "title": "Aaron Parecki",
       "site": "https://aaronparecki.com/",
-      "feed": "https://aaronparecki.com/feed.json"
+      "feed": "https://aaronparecki.com/feed.xml"
     },
     {
       "title": "Alistair Shepherd",
@@ -318,7 +318,7 @@
     {
       "title": "Simon Willison",
       "site": "http://simonwillison.net/",
-      "feed": "https://simonwillison.net/atom/everything/"
+      "feed": "https://simonwillison.net/atom/entries/"
     },
     {
       "title": "Stanislas",
