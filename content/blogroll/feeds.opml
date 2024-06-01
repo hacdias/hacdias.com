@@ -2,11 +2,11 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Thu, 23 May 2024 03:00:03 UTC</dateCreated>
+        <dateCreated>Sat, 01 Jun 2024 03:00:03 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
-            <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.json" htmlUrl="https://aaronparecki.com/" type="rss"></outline>
+            <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.xml" htmlUrl="https://aaronparecki.com/" type="rss"></outline>
             <outline title="Alistair Shepherd" text="Alistair Shepherd" xmlUrl="https://alistairshepherd.uk/feed.xml" htmlUrl="https://www.alistairshepherd.uk/" type="rss"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog" type="rss"></outline>
             <outline title="Aral Balkan" text="Aral Balkan" xmlUrl="https://ar.al/index.xml" htmlUrl="https://ar.al/" type="rss"></outline>
@@ -71,7 +71,7 @@
             <outline title="Ryan Barrett" text="Ryan Barrett" xmlUrl="https://snarfed.org/feed" htmlUrl="https://snarfed.org" type="rss"></outline>
             <outline title="Sebastiaan Andeweg" text="Sebastiaan Andeweg" xmlUrl="https://seblog.nl/feed.rss" htmlUrl="https://seblog.nl/feed" type="rss"></outline>
             <outline title="Simon Safar" text="Simon Safar" xmlUrl="https://simonsafar.com/index.xml" htmlUrl="https://simonsafar.com" type="rss"></outline>
-            <outline title="Simon Willison" text="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="http://simonwillison.net/" type="rss"></outline>
+            <outline title="Simon Willison" text="Simon Willison" xmlUrl="https://simonwillison.net/atom/entries/" htmlUrl="http://simonwillison.net/" type="rss"></outline>
             <outline title="Stanislas" text="Stanislas" xmlUrl="https://stanislas.blog/atom.xml" htmlUrl="https://stanislas.blog/" type="rss"></outline>
             <outline title="Tantek Çelik" text="Tantek Çelik" xmlUrl="http://tantek.com/updates.atom" htmlUrl="https://tantek.com/" type="rss"></outline>
             <outline title="The Morning Paper" text="The Morning Paper" xmlUrl="https://blog.acolyer.org/feed/" htmlUrl="https://blog.acolyer.org" type="rss"></outline>

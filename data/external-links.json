@@ -327,7 +327,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 41,
+    "count": 43,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -476,6 +476,14 @@
       {
         "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
         "targetUrl": "https://en.wikipedia.org/wiki/Honeypot_%28computing%29"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/31/recently/",
+        "targetUrl": "https://en.wikipedia.org/wiki/URI_fragment"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/31/recently/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry"
       },
       {
         "sourceUrl": "https://hacdias.com/contact/",
