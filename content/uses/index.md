@@ -1,6 +1,6 @@
 ---
 title: Things That I Use
-coverImage: cdn:/2023-05-desk-home
+coverImage: cdn:/2024-06-desk-home
 ---
 
 This page is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you what things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be accurate at all times, but I try to update it every now and then to make sure it is up to date.
@@ -18,15 +18,15 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **Earphones** <span>AirPods Pro (2nd Gen)</span>
 - **Console** <span>Nintendo Switch, PlayStation 5</span>
 - **Tracking Device** <span>AirTags</span>
-- **Auth Device** <span>YubiKeys, for 2FA, GPG and SSH</span>
-- **Wallet** <span>Secrid, for my cards and spare bills</span>
-- **KeyChain** <span>Orbitkey Key Organizer</span>
+- **Auth Device** <span>YubiKeys for 2FA, GPG and SSH</span>
+- **Wallet** <span>Secrid for my cards and spare bills</span>
+- **Keychain** <span>Orbitkey Key Organizer</span>
 
 </div>
 
 ### 🏡 Home {#home}
 
-![Desk at Home](cdn:/2023-05-desk-home?class=fw)
+![Desk at Home](cdn:/2024-06-desk-home?class=fw)
 
 At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
@@ -34,12 +34,13 @@ At home I also have a desk with some things. This desk is used by my partner or 
 
 - **Desk** <span>Ahrend Balance Solo (Electric, 120 x 80)</span>
 - **Chair** <span>Zinn Smart</span>
-- **Monitor Stand** <span>IKEA SIGFINN</span>
+- **Monitor Stand** <span>IKEA ELLOVEN</span>
 - **Monitor** <span>Dell U2720Q</span>
-- **Keyboard** <span>NuPhy Air 96, Magic Keyboard</span>
-- **Mouse** <span>Logitech G502 X, Magic Trackpad</span>
-- **Laptop Stand** <span>Rain mStand, The Roost v3</span>
+- **Keyboard** <span>NuPhy Air 96</span>
+- **Mouse** <span>Logitech G502 X</span>
+- **Laptop Stand** <span>Rain mStand</span>
 - **Dock** <span>CalDigit TS4</span>
+- **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
 
 </div>
 
