@@ -29,6 +29,10 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 ## 💼 Experience {#experience}
 
+{{< resume-position title="Software Engineer" location="Ver.iD" href="https://ver.id/" from="06/2024" to="present" >}}
+
+{{</ resume-position >}}
+
 {{< resume-position title="Software Engineer" location="Interplanetary Shipyard" href="https://ipshipyard.com/" from="01/2024" to="05/2024" >}}
 
 - Co-author and maintainer of specialized services to bridge HTTP and P2P systems in Go.
