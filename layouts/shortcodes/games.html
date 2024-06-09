@@ -1,0 +1,36 @@
+
+<style>
+
+.tb li {
+  grid-template-columns: auto 5rem min-content;
+}
+
+.p-switch {
+  --c: #e60013;
+}
+
+.p-pc {
+  --c: #000000;
+}
+
+.p-ps5 {
+  --c: #00439C;
+}
+
+.p-psp {
+  --c: #F3C202;
+}
+</style>
+
+<div class='tb'>
+<ul>
+  {{- range .Site.Data.games -}}
+    <li>
+      <span>{{ .name }}</span>
+      <span>
+        {{ with (index .platforms 0) }}{{ index (split . "/")  0 }}{{ end }}
+      </span>
+    </li>
+  {{- end -}}
+  </ul>
+</div>
