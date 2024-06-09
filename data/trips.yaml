@@ -702,6 +702,15 @@ trips:
     - { departure: 2024-03-17T10:29:00+01:00, arrival: 2024-03-17T13:42:00+01:00, origin: *station_geneve_cornavin, destination: *station_paris_gare_de_lyon, type: train, operator: 'TGV Lyria', number: '9768' }
     - { departure: 2024-03-17T15:19:00+01:00, arrival: 2024-03-17T18:02:00+01:00, origin: *station_paris_gare_du_nord, destination: *station_rotterdam_centraal, type: train, operator: Eurostar, number: '9357' }
     - { departure: 2024-03-17T18:14:00+01:00, arrival: 2024-03-17T19:16:00+01:00, origin: *station_rotterdam_centraal, destination: *station_eindhoven_centraal, type: train, operator: NS }
+- name: EIC 2024
+  place: "🇩🇪 Berlin"
+  start: 2024-06-04
+  date: 2024-06-07
+  latitude:
+  longitude:
+  itinerary:
+    - { departure: 2024-06-04T09:00:00+01:00, arrival: 2024-06-04T17:00:00+01:00, origin: { name: 'Eindhoven' }, destination: { name: 'Berlin' }, type: car }
+    - { departure: 2024-06-07T09:00:00+01:00, arrival: 2024-06-07T17:00:00+01:00, origin: { name: 'Berlin' }, destination: { name: 'Eindhoven' }, type: car }
 # - name:
 #   place:
 #   start:

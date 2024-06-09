@@ -2,11 +2,17 @@
 #   season:
 #   date:
 #   rating:
+- name: Sweet Tooth
+  season: 3
+  rating: 4
+  date: 2024-06-08
 - name: Bodkin
   season: 1
+  rating: 4
   date: 2024-06-01
 - name: Pretty Little Liars (2022)
   season: 1
+  rating: 4
   date: 2024-05-16
 - name: The Woman in the House Across the Street from the Girl in the Window
   rating: 3
