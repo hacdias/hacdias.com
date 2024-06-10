@@ -21,11 +21,11 @@ Ik denk dat mijn Nederlands nu op een redelijk niveau is. Bovendien vind ik dat 
 
 ## 💼 Eerste werkweek {#eerste-werkweek}
 
-Vorige week was mijn eerste week bij mijn nieuw werk. Bijna iedereen in het nieuwe bedrijf spreekt Nederlands behalve een persoon. Mijn algemeen strategie is om met iedereen die ik kan in het Nederlands te praten zolang iedereen in de kamer Nederlands kan praten of dat is niet over heel technische aspecten gaat.
+Vorige week was mijn eerste week bij mijn nieuw werk. Bijna iedereen in het nieuwe bedrijf spreekt Nederlands behalve een persoon. Mijn algemeen strategie is om met iedereen die ik kan in het Nederlands te praten zolang iedereen in de kamer Nederlands kan verstaan of dat het onderwerp niet over heel technische aspecten gaat.
 
 We zijn ook naar een conferentie in Berlijn geweest waar ik de rest van het team kon leren kennen. Dit omdat een deel van het team in Amsterdam werkt terwijl de andere half in Eindhoven. Ik heb vier dagen in het Nederlands overleefd.
 
-Als ik met een of twee mensen praat is het prima, maar met meerdere mensen wordt het nog steeds een beetje moeilijk. Vooral als het over snelle interacties gaat. Maar dit komt met tijd denk ik. Ik kan niet verwachten dat ik al zo’n soort conversaties soepel kan volgen als ik nooit in zo’n situaties ben geweest.
+Als ik met een of twee mensen praat was het prima, maar met meerdere mensen was het nog steeds een beetje moeilijk. Vooral als het over snelle interacties gaat. Maar dit wordt beter met tijd denk ik. Ik kan niet verwachten dat ik al zo’n soort conversaties soepel kan volgen als ik nooit in zo’n situaties ben geweest.
 
 ---
 
