@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Silo
+  season: 1
+  rating: 5
+  date: 2024-06-17
 - name: Bridgerton
   season: 3
   rating: 4
