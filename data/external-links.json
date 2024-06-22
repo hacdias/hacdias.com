@@ -4314,6 +4314,16 @@
     ]
   },
   {
+    "domain": "rungap.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/06/21/rungap-an-end-to-boschs-malformed-fit-files/",
+        "targetUrl": "https://www.rungap.com/"
+      }
+    ]
+  },
+  {
     "domain": "rusingh.com",
     "count": 1,
     "links": [
