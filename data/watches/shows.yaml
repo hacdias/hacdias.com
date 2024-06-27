@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Dark Matter
+  season: 1
+  rating: 4
+  date: 2024-06-26
 - name: 'Pretty Little Liars: Original Sin'
   season: 2
   rating: 3
