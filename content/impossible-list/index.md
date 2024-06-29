@@ -35,6 +35,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Cross-country 🇨🇦 train trip from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 - [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 - [ ] Go on a hot air 🎈 balloon ride
+- [ ] Travel a subway train in the front cabin
+- [ ] Visit an airplane's cockpit
 
 </div>
 
@@ -91,7 +93,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    - [ ] [Live abroad for more than 5 years](/2024/01/10/when-does-abroad-stop-being-abroad/ "When does abroad stop being abroad?") <small>[August 2025, 🇳🇱 NL]</small>
 - [ ] Volunteer for a good cause for 6 months
 - [ ] Donate for a good cause for 6 months
-- [ ] Learn how to play an 🎶 instrument
+- [ ] Learn how to play a 🎶 musical instrument
 
 </div>
 
@@ -102,48 +104,41 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Write a self-published eBook <small>[February 2015, [Aprenda a Programar](https://cdn.hacdias.com/media/aprenda-a-programar.pdf)]</small>
 - [x] Give a talk <small>[[November 2019](/2019/12/20/quick-dive-into-dweb-ipfs)]</small>
    - [ ] Give a talk to over 100 people
-- [x] Learn more about neuroscience <small>[June 2020, [MCB80x](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
-- [x] Finish my bachelor's degree <small>[July 2020]</small>
--  [x] Finish my master's degree <small>[September 2022]</small>
-- [x] Publish a scientific research article <small>[[February 2023](/2023/02/16/paper-blocklearning-framework/)]</small>
-- [x] Pass the Dutch A2 *Iburgeringsexamen* <small>[[May 2024](/2024/05/08/inchecken/#examens)]</small>
-   -  [ ] Pass the Dutch B2 *Staatsexamen NT2*
+- [x] Learn more about 🧠 neuroscience <small>[June 2020, [MCB80x](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
+- [x] Finish my 🎓 bachelor's degree <small>[July 2020]</small>
+- [x] Finish my 🎓 master's degree <small>[September 2022]</small>
+- [x] Publish a 🔬 scientific research article <small>[[February 2023](/2023/02/16/paper-blocklearning-framework/)]</small>
+- [x] Pass the 🇳🇱 Dutch Iburgeringsexamen A2 <small>[[May 2024](/2024/05/08/inchecken/#examens)]</small>
+   -  [ ] Pass the 🇳🇱 Dutch Staatsexamen NT2 B2
 - [ ] Write a fiction book
 - [ ] Write a non-fiction book
 - [ ] Host a meetup
 
 </div>
 
-## 🫀 Health and Fitness Goals {#health}
+## 💪 Fitness and Health Goals {#health}
 
 <div class=checklist>
 
-- [x] Close all rings on Apple Watch for 1 month <small>[March 2021]</small>
-   - [x] Close all rings on Apple Watch for 2 months <small>[April 2021]</small>
-   - [ ] Close all rings on Apple Watch for 3 months
-- [x] Cycle 15 km in a single trip <small>[March 2021, 15.11 km]</small>
-   - [x] Cycle 25 km in a single trip <small>[August 2021, 28.22 km]</small>
-   - [x] Cycle 40 km in a single trip <small>[August 2023, 43.27 km]</small>
-   - [ ] Cycle 50 km in a single trip
 - [x] Workout at least twice a week for 1 month <small>[March 2021] [April 2023]</small>
    - [x] Workout at least twice a week for 2 months <small>[April 2021] [May 2023]</small>
    - [x] Workout at least twice a week for 4 months <small>[June 2021] [August 2023]</small>
    - [x] Workout at least twice a week for 8 months <small>[December 2023]</small>
    - [x] Workout at least twice a week for 1 year <small>[March 2024]</small>
    - [ ] Workout at least twice a week for 2 years <small>[March 2025]</small>
+- [x] Bike 15 km in a single trip <small>[March 2021, 15.11 km]</small>
+   - [x] Bike 25 km in a single trip <small>[August 2021, 28.22 km]</small>
+   - [x] Bike 40 km in a single trip <small>[August 2023, 43.27 km]</small>
+   - [ ] Bike 50 km in a single trip
+- [x] Close all rings on Apple Watch for 1 month <small>[March 2021]</small>
+   - [x] Close all rings on Apple Watch for 2 months <small>[April 2021]</small>
+   - [ ] Close all rings on Apple Watch for 3 months
 - [x] Try out personal trainer sessions <small>[March 2023]</small>
 - [x] Practice a new sport for 1 month <small>[May 2024, Kickboxing]</small>
   - [x] Practice a new sport for 2 months <small>[June 2024, Kickboxing]</small>
   - [ ] Practice a new sport for 4 months
-
-</div>
-
-## 🧶 Miscellaneous Goals {#misc}
-
-<div class=checklist>
-
-- [ ] Travel a subway train in the front cabin
-- [ ] Visit an airplane's cockpit
+- [ ] Learn how to ⛷️ ski or 🏂 snowboard
+  - [ ] Ski or snowboard down a mountain
 
 </div>
 
