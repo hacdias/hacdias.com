@@ -327,7 +327,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 43,
+    "count": 44,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -483,6 +483,10 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2024/05/31/recently/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/06/29/reflections-after-a-year-at-the-gym/",
         "targetUrl": "https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry"
       },
       {
