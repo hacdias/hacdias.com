@@ -53,7 +53,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇬🇷 Greece
   - 🇭🇺 Hungary
   - 🇮🇸 Iceland
-  - 🇮🇹 Italy
   - 🇯🇵 Japan
   - 🇳🇴 Norway
   - 🇵🇪 Peru
