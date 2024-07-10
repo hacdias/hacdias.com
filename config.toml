@@ -37,11 +37,11 @@ summaryLength = 300
   weight = 2
 [[menu.main]]
   name = '✏️ Articles'
-  pageRef = '/articles'
+  pageRef = '/categories/articles'
   weight = 3
 [[menu.main]]
   name = '📸 Photos'
-  pageRef = '/photos'
+  pageRef = '/categories/photos'
   weight = 4
 [[menu.main]]
   name = '📖 Guestbook'
