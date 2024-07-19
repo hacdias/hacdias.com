@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: Loot
+  season: 2
+  rating: 3
+  date: 2024-07-14
+- name: Loot
   season: 1
   rating: 3
   date: 2024-07-08
