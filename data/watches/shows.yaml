@@ -2,6 +2,9 @@
 #   season:
 #   date:
 #   rating:
+- name: "It's a Sin"
+  rating: 4
+  date: 2024-07-19
 - name: Loot
   season: 2
   rating: 3
