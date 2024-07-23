@@ -108,7 +108,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Finish my 🎓 master's degree <small>[September 2022]</small>
 - [x] Publish a 🔬 scientific research article <small>[[February 2023](/2023/02/16/paper-blocklearning-framework/)]</small>
 - [x] Pass the 🇳🇱 Dutch Iburgeringsexamen A2 <small>[[May 2024](/2024/05/08/inchecken/#examens)]</small>
-   -  [ ] Pass the 🇳🇱 Dutch Staatsexamen NT2 B2
+   -  [x] Pass the 🇳🇱 Dutch Staatsexamen NT2 B2 <small>[July 2024]</small>
 - [ ] Write a fiction book
 - [ ] Write a non-fiction book
 - [ ] Host a meetup
