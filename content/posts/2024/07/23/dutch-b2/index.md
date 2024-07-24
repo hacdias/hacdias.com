@@ -8,6 +8,8 @@ tags:
 - dutch
 - languages
 - learning
+syndication:
+- https://fosstodon.org/@hacdias/112837460150479515
 ---
 
 Vandaag heb ik de uitslag van mijn Staatsexamen Nederlands als tweede taal ontvangen en ik ben geslaagd! Ik heb officieel Nederlands niveau B2. Volgens de [ERK](https://nl.wikipedia.org/wiki/Gemeenschappelijk_Europees_referentiekader) (Europees Referentiekader) ben ik een "onafhankelijke taalgebruiker".
