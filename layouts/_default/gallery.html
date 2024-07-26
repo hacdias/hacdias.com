@@ -37,7 +37,7 @@
   </style>
 
   <main>
-    {{- $page := .Site.GetPage (printf "/%s" .Params.galleryCategory) }}
+    {{- $page := .Site.GetPage (printf "/categories/%s" .Params.galleryCategory) }}
     <p style='margin: 0 0 2rem 0;'><a href='{{ $page.RelPermalink }}'>← {{ $page.Title }}</a></p>
 
     {{ $pages := where .Site.Pages "Params.categories" "intersect" (slice .Params.galleryCategory ) }}
