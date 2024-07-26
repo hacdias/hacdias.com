@@ -4,7 +4,21 @@ description: I was born in Portugal and I am not pursuing a Master's degree in t
 coverImage: cdn:/2023-04-ipfs-thing
 ---
 
-**Hi 👋, I'm <span style="color: var(--c)">Henrique</span>** (he/him)!
+**<span id='hello'>Hi 👋, I'm</span> <span style="color: var(--c)">Henrique</span>** (he/him)!
+
+<script>
+const element = document.getElementById('hello')
+const helloText = [
+  'Hi 👋, I’m',
+  'Hoi 👋, Ik ben',
+  'Olá 👋, sou o',
+]
+let helloTextIndex = 0
+setInterval(() => {
+  helloTextIndex = (helloTextIndex + 1) % 3
+  element.innerText = helloText[helloTextIndex]
+}, 2000)
+</script>
 
 I'm from a little town in the countryside of Portugal 🇵🇹 and now I live in The Netherlands 🇳🇱. I'm a software engineer 🛠 who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. In my spare time, I enjoy cycling, taking photographs, programming, or a nice cup of coffee or tea.
 
