@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sat, 01 Jun 2024 03:00:03 UTC</dateCreated>
+        <dateCreated>Fri, 26 Jul 2024 03:00:00 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -80,7 +80,6 @@
             <outline title="Tom MacWright" text="Tom MacWright" xmlUrl="https://macwright.com/rss.xml" htmlUrl="https://macwright.com" type="rss"></outline>
             <outline title="Volker Mische" text="Volker Mische" xmlUrl="https://vmx.cx/cgi-bin/blog/index.cgi/feed/" htmlUrl="http://vmx.cx/cgi-bin/blog/index.cgi" type="rss"></outline>
             <outline title="Xe" text="Xe" xmlUrl="https://xeiaso.net/blog.json" htmlUrl="https://xeiaso.net/" type="rss"></outline>
-            <outline title="Zach Alberico" text="Zach Alberico" xmlUrl="https://zalberico.com/feed.xml" htmlUrl="https://zalberico.com/" type="rss"></outline>
             <outline title="Zack Scholl" text="Zack Scholl" xmlUrl="https://schollz.com/index.xml" htmlUrl="https://schollz.com/" type="rss"></outline>
         </outline>
         <outline text="Comics">

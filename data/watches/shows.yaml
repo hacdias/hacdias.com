@@ -2,6 +2,9 @@
 #   season:
 #   date:
 #   rating:
+- name: Dear Child
+  rating: 4
+  date: 2024-07-25
 - name: Exploding Kittens
   rating: 4
   date: 2024-07-23
