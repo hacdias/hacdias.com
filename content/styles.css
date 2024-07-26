@@ -9,3 +9,16 @@
 .fg figure img {
   aspect-ratio: 1;
 }
+
+@media screen and (min-width: 53.001rem) {
+  .fg > a {
+    padding: var(--hms);
+    background: var(--fg);
+    transition: 0.2s ease all;
+  }
+
+  .fg > a:hover {
+    padding: var(--ms);
+    transform: rotate(1deg) scale(1.02);
+  }
+}
