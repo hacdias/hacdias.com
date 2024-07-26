@@ -19,7 +19,7 @@ E-mail is the easiest way to reach out to me. Feel free to just write me an e-ma
 
 ## 💬 Instant Messaging {#instant-messaging}
 
-The second easiest way is to reach me out via an instant messaging platform. I've been trying to use Signal more often as it seems to be more secure and private than the alternatives. Therefore, use that if available for you.
+The second easiest way is to reach me out via an instant messaging platform. I've been trying to use Signal more often as it seems to be more secure and private than the alternatives. Therefore, use that if available for you. <span class='dn' id='timezone-note'>Note that it is now <time></time> in my timezone, unless I'm traveling.</span>
 
 <div class='terms'>
 
@@ -54,3 +54,26 @@ I can usually be found in most places as [@hacdias](/about/#handle). Some of the
 - [{{< favicon "twitter.com" >}} X: @hacdias](https://twitter.com/hacdias)
 
 </div>
+
+<script>
+const span = document.getElementById('timezone-note')
+const time = span.querySelector('time')
+
+const formatter = new Intl.DateTimeFormat('en-GB', {
+  hour: '2-digit',
+  minute: '2-digit',
+  timeZone: 'Europe/Amsterdam',
+})
+
+const updateDate = () => {
+  const formattedDate = formatter.format(new Date())
+  time.innerText = formattedDate
+}
+
+updateDate()
+span.classList.remove('dn')
+setTimeout(() => {
+  updateDate()
+  setInterval(updateDate, 60 * 1000)
+}, (60 - new Date().getSeconds()) * 1000)
+</script>
