@@ -1,7 +1,7 @@
 ---
 title: WinPopup
 date: 2023-06-23T10:03:20.329839Z
-bookmark-of: https://susam.net/maze/winpopup.html
+bookmark-of: https://susam.net/winpopup.html
 categories:
   - bookmarks
 tags:
