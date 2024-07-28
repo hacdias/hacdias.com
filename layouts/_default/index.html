@@ -10,14 +10,12 @@
   {{- partialCached "post/content" . .Permalink -}}
 
   {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "articles" "readings") -}}
-  <h2 id="freshly-ground">🪴 Freshly Planted</h2>
+  <h2 id="freshly-ground"><a href='{{ relURL "/articles" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span><a></h2>
   {{- template "items" $pages -}}
-  <p class='lg small'><a href='{{ relURL "/articles" }}'>More articles...</a></p>
 
-  <h2 id="latest-captures">🎞️ Freshly Captured</h2>
+  <h2 id="latest-captures"><a href='{{ relURL "/photos" }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
   {{- $photos := where .Site.RegularPages "Params.categories" "intersect" (slice "photos") -}}
   {{- template "photos" (first 3 $photos ) -}}
-  <p class='lg small'><a href='{{ relURL "/photos" }}'>More photos...</a></p>
 
   <h2 id="favourite-articles">🌟 Favourite Articles</h2>
   {{- $favoritePosts := slice -}}
