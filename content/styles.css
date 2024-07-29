@@ -1,3 +1,7 @@
+h2 .lh {
+  text-decoration: none;
+}
+
 .tb li {
   grid-template-columns: auto min-content;
 }
