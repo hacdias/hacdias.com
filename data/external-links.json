@@ -1018,6 +1018,32 @@
     ]
   },
   {
+    "domain": "mew.tv",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
+        "targetUrl": "https://mew.tv/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
+        "targetUrl": "https://mew.tv/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/07/31/recently/",
+        "targetUrl": "https://mew.tv/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/07/31/recently/",
+        "targetUrl": "https://mew.tv/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://mew.tv/"
+      }
+    ]
+  },
+  {
     "domain": "pplware.com",
     "count": 5,
     "links": [
@@ -1260,28 +1286,6 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://linkedin.com/in/hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "mew.tv",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/07/31/recently/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://mew.tv/"
       }
     ]
   },
@@ -3370,6 +3374,16 @@
     ]
   },
   {
+    "domain": "hackyourfuture.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/07/31/recently/",
+        "targetUrl": "https://www.hackyourfuture.net/"
+      }
+    ]
+  },
+  {
     "domain": "haxx.se",
     "count": 1,
     "links": [
@@ -3990,6 +4004,16 @@
     ]
   },
   {
+    "domain": "nextnature.museum",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/07/31/recently/",
+        "targetUrl": "https://nextnature.museum/en"
+      }
+    ]
+  },
+  {
     "domain": "nightjet.com",
     "count": 1,
     "links": [
@@ -4316,6 +4340,16 @@
       {
         "sourceUrl": "https://hacdias.com/2021/02/01/recently/",
         "targetUrl": "https://www.reuters.com/article/health-coronavirus-eu-astrazeneca/astrazeneca-offers-8-million-extra-doses-to-eu-through-march-source-idUSL1N2K30UO"
+      }
+    ]
+  },
+  {
+    "domain": "robocup.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/07/31/recently/",
+        "targetUrl": "https://2024.robocup.org/"
       }
     ]
   },
