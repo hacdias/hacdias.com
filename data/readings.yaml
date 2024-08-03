@@ -1,4 +1,10 @@
-reading: []
+reading:
+  - name: Before Your Memory Fades
+    author: Toshikazu Kawaguchi
+    date: 2024-08-03T11:33:08+02:00
+    publisher: Picador
+    pages: 224
+    uid: isbn:9781529089431
 want-to-read:
   - name: Before We Say Goodbye
     author: Toshikazu Kawaguchi
@@ -9,12 +15,6 @@ want-to-read:
   - name: Ikigai
     author: Héctor Garcia
     date: 2023-05-01
-  - name: Before Your Memory Fades
-    author: Toshikazu Kawaguchi
-    date: 2022-09-27
-    publisher: Picador
-    pages: 224
-    uid: isbn:9781529089431
   # - name: Ariadne
   #   author: Jennifer Saint
   #   publisher: Wildfire

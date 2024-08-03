@@ -35,8 +35,9 @@ I am a software engineer who cares about the web, decentralization, identity, us
 
 {{< resume-position title="Software Engineer" location="Interplanetary Shipyard" href="https://ipshipyard.com/" from="01/2024" to="05/2024" >}}
 
-- Co-author and maintainer of specialized services to bridge HTTP and P2P systems in Go.
-- Maintainer of libraries for content-addressed, decentralized and P2P systems in Go.
+- Continuation of previous role at Protocol Labs under new entity.
+- Co-authored and maintained of specialized services to bridge HTTP and P2P systems in Go.
+- Maintained libraries for content-addressed, decentralized and P2P systems in Go.
 
 {{</ resume-position >}}
 
@@ -101,6 +102,12 @@ I am a software engineer who cares about the web, decentralization, identity, us
 {{</ resume-position >}}
 
 ## 💙 Volunteering {#volunteering}
+
+{{< resume-position title="Technical Mentor" location="HackYourFuture" href="https://www.hackyourfuture.net" from="07/2024" to="present" >}}
+
+- Reviewing technical assignments to help people with a refugee background to become web developers.
+
+{{</ resume-position >}}
 
 {{< resume-position title="Content Writer" location="Pplware" href="https://pplware.sapo.pt" from="06/2013" to="09/2016" >}}
 
