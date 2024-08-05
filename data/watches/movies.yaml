@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: “Deadpool & Wolverine”
+  rating: 5
+  date: 2024-08-04
 - name: Inside Out 2
   rating: 5
   date: 2024-07-12
