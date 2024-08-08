@@ -711,6 +711,15 @@ trips:
   itinerary:
     - { departure: 2024-06-04T09:00:00+01:00, arrival: 2024-06-04T17:00:00+01:00, origin: { name: 'Eindhoven' }, destination: { name: 'Berlin' }, type: car }
     - { departure: 2024-06-07T09:00:00+01:00, arrival: 2024-06-07T17:00:00+01:00, origin: { name: 'Berlin' }, destination: { name: 'Eindhoven' }, type: car }
+- name: Visit Family and Friends
+  place: "🇵🇹 Santana da Serra"
+  start: 2024-07-26
+  date: 2024-08-02
+  latitude: 37.500635
+  longitude: -8.300669
+  itinerary:
+  - { departure: 2024-07-26T20:45:00+02:00, arrival:  2024-07-26T22:45:00+01:00, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR5769 }
+  - { departure: 2024-08-02T16:20:00+01:00, arrival: 2024-08-02T20:20:00+02:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR5768 }
 # - name:
 #   place:
 #   start:
