@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Love Lies Bleeding
+  rating: 3
+  date: 2024-08-08
 - name: “Deadpool & Wolverine”
   rating: 5
   date: 2024-08-04
