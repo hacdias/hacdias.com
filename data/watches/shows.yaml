@@ -2,8 +2,12 @@
 #   season:
 #   date:
 #   rating:
+- name: Dertigers
+  season: 1
+  date: 2024-08-09
 - name: House of the Dragon
   rating: 4
+  season: 2
   date: 2024-08-05
 - name: Dear Child
   rating: 4

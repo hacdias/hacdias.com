@@ -30,7 +30,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Travel on a 🍽️ restaurant train <small>[[August 2023](/2023/08/31/recently/), [Dinner Train](https://dinnertrain.eu/)]</small>
 - [x] Travel on an historical 🍽️🚂 restaurant steam train <small>[[October 2023](/2023/10/31/recently/), [Miljoenenlijn](https://miljoenenlijn.nl/)]</small>
 - [x] Overnight 🌙 travel between two countries by train <small>[[February 2024](/2024/02/27/traveling-to-vienna-with-the-nightjet/), [Nightjet](https://www.nightjet.com/)]</small>
-- [ ] Travel on the historical 🚋 trams in Amsterdam <small>[[Museumtramlijn](https://www.museumtramlijn.org/)]</small>
+- [x] Travel on the historical 🚋 trams in Amsterdam <small>[August 2024, [Museumtramlijn](https://www.museumtramlijn.org/)]</small>
+  - [ ] Lijn 30
 - [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
 - [ ] Cross-country 🇨🇦 train trip from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 - [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
