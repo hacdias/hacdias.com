@@ -126,10 +126,13 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    - [x] Workout at least twice a week for 8 months <small>[December 2023]</small>
    - [x] Workout at least twice a week for 1 year <small>[March 2024]</small>
    - [ ] Workout at least twice a week for 2 years <small>[March 2025]</small>
-- [x] Bike 15 km in a single trip <small>[March 2021, 15.11 km]</small>
-   - [x] Bike 25 km in a single trip <small>[August 2021, 28.22 km]</small>
-   - [x] Bike 40 km in a single trip <small>[August 2023, 43.27 km]</small>
-   - [ ] Bike 50 km in a single trip
+- [x] Bike 10 km in a single trip <small>[March 2021, 10.30 km]</small>
+  - [x] Bike 20 km in a single trip  <small>[April 2021, 24.03 km]</small>
+  - [ ] Bike 30 km in a single trip
+- [x] E-bike 20 km in a single trip <small>[August 2023, 43.27 km]</small>
+  - [x] E-bike 40 km in a single trip <small>[August 2023, 43.27 km]</small>
+  - [x] E-bike 60 km in a single trip <small>[August 2024, 71.42 km]</small>
+  - [ ] E-bike 80 km in a single trip
 - [x] Close all rings on Apple Watch for 1 month <small>[March 2021]</small>
    - [x] Close all rings on Apple Watch for 2 months <small>[April 2021]</small>
    - [ ] Close all rings on Apple Watch for 3 months
