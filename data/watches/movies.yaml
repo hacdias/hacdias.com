@@ -1,10 +1,13 @@
 # - name:
 #   date:
 #   rating:
+- name: Kinds of Kindness
+  rating: 4
+  date: 2024-08-17
 - name: Love Lies Bleeding
   rating: 3
   date: 2024-08-08
-- name: “Deadpool & Wolverine”
+- name: 'Deadpool & Wolverine'
   rating: 5
   date: 2024-08-04
 - name: Inside Out 2
