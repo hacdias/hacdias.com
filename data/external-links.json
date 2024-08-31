@@ -327,7 +327,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 47,
+    "count": 49,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -500,6 +500,14 @@
       {
         "sourceUrl": "https://hacdias.com/2024/07/23/dutch-b2/",
         "targetUrl": "https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/08/30/three-country-point/",
+        "targetUrl": "https://nl.wikipedia.org/wiki/Vijlenerbos"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/08/30/three-country-point/",
+        "targetUrl": "https://nl.wikipedia.org/wiki/Limburgse_vlaai"
       },
       {
         "sourceUrl": "https://hacdias.com/contact/",
