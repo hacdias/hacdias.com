@@ -720,6 +720,15 @@ trips:
   itinerary:
   - { departure: 2024-07-26T20:45:00+02:00, arrival:  2024-07-26T22:45:00+01:00, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR5769 }
   - { departure: 2024-08-02T16:20:00+01:00, arrival: 2024-08-02T20:20:00+02:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR5768 }
+- name: Weekend Trip With Partner
+  place: "🇳🇱 Zuidoost Limburg"
+  start: 2024-08-23
+  date: 2024-08-25
+  latitude: 50.755201104976
+  longitude: 6.025623332936
+  itinerary:
+  - { departure: 2024-08-23T12:21:00+02:00, arrival: 2024-08-23T13:35:00+02:00, origin: *station_eindhoven_centraal, destination: *station_maastricht, type: train, operator: NS }
+  - { departure: 2024-08-25T10:52:00+02:00, arrival: 2024-08-25T12:03:00+02:00, origin: *station_maastricht, destination: *station_eindhoven_centraal, type: train, operator: NS }
 # - name:
 #   place:
 #   start:
