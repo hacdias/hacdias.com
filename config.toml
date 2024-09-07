@@ -1,12 +1,14 @@
 baseURL = 'https://hacdias.com/'
 languageCode = 'en'
 title = 'Henrique Dias'
-paginate = 15
 rsslimit = 10
 pluralizelisttitles = false
 removePathAccents = true
 capitalizeListTitles = false
 summaryLength = 300
+
+[pagination]
+  pagerSize = 15
 
 [taxonomies]
   tag = 'tags'
