@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: KAOS
+  season: 1
+  rating: 4
+  date: 2024-09-07
 - name: The Umbrella Academy
   season: 4
   rating: 3
