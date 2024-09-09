@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: The Darkest Minds
+  rating: 3
+  date: 2024-09-08
 - name: Blink Twice
   rating: 4
   date: 2024-09-03
