@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Fri, 26 Jul 2024 03:00:00 UTC</dateCreated>
+        <dateCreated>Tue, 10 Sep 2024 03:00:03 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -97,7 +97,6 @@
             <outline title="Golang Weekly" text="Golang Weekly" xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" htmlUrl="https://golangweekly.com/" type="rss"></outline>
             <outline title="Jon Worth" text="Jon Worth" xmlUrl="https://jonworth.eu/feed/" htmlUrl="https://jonworth.eu/" type="rss"></outline>
             <outline title="Mastodon" text="Mastodon" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/" type="rss"></outline>
-            <outline title="Security.NL" text="Security.NL" xmlUrl="https://www.security.nl/rss/headlines.xml" htmlUrl="https://www.security.nl" type="rss"></outline>
             <outline title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom" type="rss"></outline>
             <outline title="zdimension" text="zdimension" xmlUrl="https://zdimension.fr/feed.xml" htmlUrl="https://zdimension.fr/" type="rss"></outline>
         </outline>

@@ -440,11 +440,6 @@
       "feed": "https://blog.joinmastodon.org/index.xml"
     },
     {
-      "title": "Security.NL",
-      "site": "https://www.security.nl",
-      "feed": "https://www.security.nl/rss/headlines.xml"
-    },
-    {
       "title": "The Go Blog",
       "site": "https://go.dev/blog/feed.atom",
       "feed": "https://go.dev/blog/feed.atom"
