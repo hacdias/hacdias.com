@@ -4456,16 +4456,6 @@
     ]
   },
   {
-    "domain": "security.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://www.security.nl"
-      }
-    ]
-  },
-  {
     "domain": "sequoia-pgp.org",
     "count": 1,
     "links": [
