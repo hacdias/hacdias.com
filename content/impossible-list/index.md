@@ -20,6 +20,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Visit 🇵🇹 Azores <small>[July 2019]</small>
 - [ ] Visit 🇵🇹 Madeira
 - [ ] Visit 🇳🇴 Svalbard
+- [ ] Visit 🇦🇶 Antarctica
 - [ ] Visit 🇲🇴 Macau
 - [ ] Interrail across 🇪🇺 Europe
   - [x] 10 Day Intrarail in 🇮🇹 Italy <small>[September 2022]</small>
