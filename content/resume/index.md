@@ -30,7 +30,7 @@ I am a Software Engineer who cares about the web, user agency, identity, decentr
 
 {{< resume-position title="Software Engineer" location="Ver.iD" href="https://ver.id/" from="06/2024" to="present" >}}
 
-- Building a platform that enables developers to integrate decentralized identity wallets into their online platforms, using well-known standards, such as OAuth and OpenID Connect.
+- Building a platform that enables developers to integrate decentralized identity wallets into their online platforms, using open standards, such as OAuth and OpenID Connect, in TypeScript.
 
 {{</ resume-position >}}
 
