@@ -24,12 +24,13 @@ noIndex: true
 
 </div>
 
-I am a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. I am an eager learning and always up for new challenges.
-
+I am a Software Engineer who cares about the web, user agency, identity, decentralization, and building impactful products and tools for both users and developers. I am an an eager learning and always up for new challenges.
 
 ## 💼 Experience {#experience}
 
 {{< resume-position title="Software Engineer" location="Ver.iD" href="https://ver.id/" from="06/2024" to="present" >}}
+
+- Building a platform that enables developers to integrate decentralized identity wallets into their online platforms, using well-known standards, such as OAuth and OpenID Connect.
 
 {{</ resume-position >}}
 
