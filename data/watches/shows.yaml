@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Snowpiercer
+  season: 4
+  rating: 4
+  date: 2024-09-23
 - name: Emily In Paris
   season: 4
   rating: 3
