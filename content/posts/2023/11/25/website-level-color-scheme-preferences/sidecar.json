@@ -1,6 +1,14 @@
 {
   "interactions": [
     {
+      "author": "Andreas Markus Hahn",
+      "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/b04a1d0f18dd0d7b55cba6263ffe3bbab455ca2d699b4ceff4427b2358f4cd01.jpg",
+      "authorUrl": "https://bsky.app/profile/andreas-hahn.com",
+      "date": "2024-07-14T19:07:39Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3kezies55uv2u/did%253Aplc%253A65t3gxmknkopj5vld6u3hant",
+      "type": "like"
+    },
+    {
       "author": "Malik Piara",
       "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/ccc172ee92e071213ae251cdf051bff59fa7214ffc4fb2e2f9c798fc7efad048.jpg",
       "authorUrl": "https://bsky.app/profile/piara.bsky.social",
