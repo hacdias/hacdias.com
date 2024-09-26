@@ -45,4 +45,4 @@ export type MandatoryStatus =
 
 I can see why it did it. And after all, it sort of makes sense if we consider it is an <abbr title="Large Language Model">LLM</abbr>. It makes sense that the "mandatory status" is either "optional" or "mandatory". But that's not what was described on the schema.
 
-My conclusion here is: it can be helpful, but I'm not yet very convinced it will save me a lot of time for this type of tasks. Especially when going double check everything takes likely as much time as just typing it out. Next time I want to try it out for something else, maybe brainstorming potential solutions and treating it like an [overconfident weird know-it-all intern](https://simonwillison.net/2024/Sep/20/using-llms-for-code/).
+My conclusion here is: it can be helpful, but I'm not yet very convinced it will save me a lot of time for this type of tasks. Especially when going double check everything takes likely as much time as just typing it out. Next time I want to try it out for something else, maybe brainstorming potential solutions and treating it like an [weirdly overconfident know-it-all intern](https://simonwillison.net/2024/Sep/20/using-llms-for-code/).
