@@ -2272,6 +2272,20 @@
     ]
   },
   {
+    "domain": "simonwillison.net",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/09/25/trying-chatgpt-for-code/",
+        "targetUrl": "https://simonwillison.net/2024/Sep/20/using-llms-for-code/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "http://simonwillison.net/"
+      }
+    ]
+  },
+  {
     "domain": "soju.im",
     "count": 2,
     "links": [
@@ -4496,16 +4510,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://simonsafar.com"
-      }
-    ]
-  },
-  {
-    "domain": "simonwillison.net",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "http://simonwillison.net/"
       }
     ]
   },
