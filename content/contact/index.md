@@ -25,7 +25,8 @@ The second easiest way is to reach me out via an instant messaging platform. I'v
 <div class='terms'>
 
 - [{{< favicon "signal.org" >}} Signal: hacdias.22](https://signal.me/#eu/3hipC8LRH2b1TEsjWGQzg0QoXDV2cuf6yJjSWWlPHOVIoXvwoPJPR6hFbOYLy1II)
-- [{{< favicon "telegram.org" >}} Telegram: @hacdias](https://t.me/hacdias)
+
+<!-- - [{{< favicon "telegram.org" >}} Telegram: @hacdias](https://t.me/hacdias) -->
 
 </div>
 
@@ -49,10 +50,12 @@ I can usually be found in most places as [@hacdias](/about/#handle). Some of the
 - [{{< favicon "github.com" >}} GitHub: @hacdias](https://github.com/hacdias)
 - [{{< favicon "linkedin.com" >}} LinkedIn: @hacdias](https://linkedin.com/in/hacdias)
 - [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
-- [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
-- [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
 - [{{< favicon "bsky.app" >}} Bluesky: @hacdias.com](https://bsky.app/profile/hacdias.com)
-- [{{< favicon "twitter.com" >}} X: @hacdias](https://twitter.com/hacdias)
+- [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
+
+<!---  
+- [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
+- [{{< favicon "twitter.com" >}} X: @hacdias](https://twitter.com/hacdias) -->
 
 </div>
 
