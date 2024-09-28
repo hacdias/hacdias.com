@@ -903,7 +903,7 @@
   },
   {
     "domain": "twitter.com",
-    "count": 8,
+    "count": 7,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
@@ -932,10 +932,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
         "targetUrl": "https://twitter.com/mxbck/status/1590809274808147990"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://twitter.com/hacdias"
       }
     ]
   },
@@ -3004,16 +3000,6 @@
     ]
   },
   {
-    "domain": "discord.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://discord.com/users/hacdias"
-      }
-    ]
-  },
-  {
     "domain": "dns.toys",
     "count": 1,
     "links": [
@@ -4620,16 +4606,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/11/10/system-font-stack/",
         "targetUrl": "https://systemfontstack.com/"
-      }
-    ]
-  },
-  {
-    "domain": "t.me",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://t.me/hacdias"
       }
     ]
   },
