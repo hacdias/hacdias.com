@@ -2780,6 +2780,16 @@
     ]
   },
   {
+    "domain": "cablemod.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/09/29/long-term-review-nuphy-air-keyboards/",
+        "targetUrl": "https://cablemod.com/"
+      }
+    ]
+  },
+  {
     "domain": "captureone.com",
     "count": 1,
     "links": [
@@ -4086,6 +4096,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/19/write-more-useless-software/",
         "targetUrl": "https://ntietz.com/blog/write-more-useless-software/"
+      }
+    ]
+  },
+  {
+    "domain": "nuphy.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/09/29/long-term-review-nuphy-air-keyboards/",
+        "targetUrl": "https://nuphy.com/"
       }
     ]
   },
