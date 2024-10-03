@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Perfect Couple
+  season: 1
+  rating: 3
+  days: 2024-10-01
 - name: A Good Girl's Guide to Murder
   season: 1
   rating: 4
