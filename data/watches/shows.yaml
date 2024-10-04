@@ -2,10 +2,14 @@
 #   season:
 #   date:
 #   rating:
+- name: Clickbait
+  season: 1
+  rating: 4
+  date: 2024-10-03
 - name: The Perfect Couple
   season: 1
   rating: 3
-  days: 2024-10-01
+  date: 2024-10-01
 - name: A Good Girl's Guide to Murder
   season: 1
   rating: 4
