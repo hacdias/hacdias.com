@@ -327,7 +327,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 50,
+    "count": 52,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -514,6 +514,14 @@
         "targetUrl": "https://nl.wikipedia.org/wiki/Stratumse_Heide"
       },
       {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Interlingua"
+      },
+      {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://en.wikipedia.org/wiki/Fediverse"
       },
@@ -533,7 +541,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 19,
+    "count": 20,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -610,6 +618,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/12/30/year-in-review/",
         "targetUrl": "https://events.indieweb.org"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://indieweb.org/IndieWeb_Carnival"
       }
     ]
   },
@@ -1026,6 +1038,32 @@
     ]
   },
   {
+    "domain": "jlelse.blog",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
+        "targetUrl": "https://jlelse.blog/thoughts/2020/07/own-cms"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
+        "targetUrl": "https://jlelse.blog/map"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/03/27/bought-numeronym-domain-name/",
+        "targetUrl": "https://jlelse.blog/thoughts/2024/03/what-to-do-with-new-domain"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://jlelse.blog/thoughts/2024/10/multilingualism"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://jlelse.blog/"
+      }
+    ]
+  },
+  {
     "domain": "mew.tv",
     "count": 5,
     "links": [
@@ -1228,28 +1266,6 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://blog.ipfs.tech/shipyard-hello-world/"
-      }
-    ]
-  },
-  {
-    "domain": "jlelse.blog",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/07/own-cms"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
-        "targetUrl": "https://jlelse.blog/map"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/03/27/bought-numeronym-domain-name/",
-        "targetUrl": "https://jlelse.blog/thoughts/2024/03/what-to-do-with-new-domain"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://jlelse.blog/"
       }
     ]
   },
@@ -1512,6 +1528,24 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://macwright.com"
+      }
+    ]
+  },
+  {
+    "domain": "manuelmoreale.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://manuelmoreale.com/guestbook"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://manuelmoreale.com/indieweb-carnival-multilingualism-in-a-global-web"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://manuelmoreale.com"
       }
     ]
   },
@@ -1904,6 +1938,20 @@
     ]
   },
   {
+    "domain": "instagram.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://www.instagram.com/orlophe_interlingua/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://instagram.com/hacdias"
+      }
+    ]
+  },
+  {
     "domain": "ipfs.io",
     "count": 2,
     "links": [
@@ -2040,20 +2088,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
         "targetUrl": "https://macwright.org/2020/05/10/spa-fatigue.html"
-      }
-    ]
-  },
-  {
-    "domain": "manuelmoreale.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://manuelmoreale.com/guestbook"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://manuelmoreale.com"
       }
     ]
   },
@@ -3550,16 +3584,6 @@
     ]
   },
   {
-    "domain": "instagram.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://instagram.com/hacdias"
-      }
-    ]
-  },
-  {
     "domain": "intergalactic.systems",
     "count": 1,
     "links": [
@@ -4746,6 +4770,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/08/14/guardar-os-erros-php-num-ficheiro-com-o-htaccess/",
         "targetUrl": "http://support.tigertech.net/php-value"
+      }
+    ]
+  },
+  {
+    "domain": "tilde.team",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://tilde.team/~zinricky/multilingualism/"
       }
     ]
   },
