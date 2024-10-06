@@ -4,11 +4,19 @@ description: I was born in Portugal and I am not pursuing a Master's degree in t
 coverImage: cdn:/2024-09-stratumse-heide
 ---
 
-# **<span id='hello'>Hi 👋, I'm</span> <span style="color: var(--c)">Henrique</span>!** {#hi}
+<span id='greetings'>**<span id='hello'>Hi 👋, I'm</span> <span style="color: var(--c)">Henrique</span>!**</span>
 
 <style>
 main header {
   display: none
+}
+
+#greetings {
+  display: block;
+  margin: var(--hls) 0;
+  font-size: var(--f1);
+  font-weight: 900;
+  line-height: 1.3;
 }
 </style>
 
