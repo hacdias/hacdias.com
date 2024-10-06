@@ -281,10 +281,13 @@ main header h1.bookmark {
 }
 
 main header p {
-  font-size: var(--f5);
-  color: var(--light-gray);
-  font-weight: 500;
   margin: .25em 0;
+  font-weight: 500;
+  font-style: italic;
+}
+
+main footer li {
+  grid-template-columns: 6rem auto;
 }
 
 main ol,

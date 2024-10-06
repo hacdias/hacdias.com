@@ -1,47 +1,51 @@
 {{ if eq .Section "posts" }}
-  <footer class="box small">
+  <footer class="box small tb">
+  <ul>
     {{ if .Lastmod.After .Date }}
-    <p>
-      🖊️ Updated on
+    <li>
+      <strong>🖊️ Updated</strong>
       <time datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
         {{- .Lastmod.Format "2 January 2006" }} at {{ .Lastmod.Format "15:04" -}}
       </time>.
-    </p>
+    </li>
     {{ end }}
 
     {{ with .Params.tags }}
-    <p>🏷️ Tagged in
+    <li>
+      <strong>🏷️ Tags</strong>
+      <span>
       {{ range $i, $t := . -}}
         {{- if ne $i 0 }}, {{ end -}}
         <a class="p-category" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" $t)).RelPermalink }}">{{ . }}</a>
       {{- end -}}
-    </p>
+      </span>
+    </li>
     {{ end }}
 
-    <p>
-      💬 Reply with
+    <li>
+      <strong>💬 Reply</strong>
+      <span>
       <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
       <a href="https://fosstodon.org/@hacdias" rel='noopener noreferrer'>Mastodon</a>,
       <a href="https://bsky.app/profile/hacdias.com" rel='noopener noreferrer'>Bluesky</a>,
       <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
-    </p>
+      </span>
+    </li>
 
     {{ with .Page.Params.syndication }}
-    <p>
-      🌐  This post can also be found on
+    <li>
+      <strong>🌐 Also on</strong>
+      <span>
       {{ range $i, $s := . -}}
         {{- if ne $i 0 }}, {{ end -}}
         <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
           {{- $domain := (urls.Parse $s).Host -}}
-          {{- partialCached "favicon" $domain $domain }}
           {{ $domain -}}
         </a>
       {{- end -}}
-    </p>
+      </span>
+    </li>
     {{ end }}
-
-    <p>
-      📖 Feel free to sign my <a href="{{ absURL "/guestbook/" }}" rel='noopener noreferrer'>guestbook</a>
-    </p>
+    </ul>
   </footer>
 {{ end }}
