@@ -464,6 +464,7 @@ details summary {
 .box,
 .terms a,
 .terms a:visited,
+.card .more,
 .highlight>pre,
 main pre {
   border: var(--border) solid var(--fg);
@@ -501,13 +502,10 @@ main pre {
 }
 
 .card .more {
-  display: block;
-  padding: var(--hms)var(--ms);
-  font-size: var(--f5);
   text-align: center;
-  font-weight: 700;
   clear: both;
-  border-top: 1px solid var(--fg);
+  border-width: var(--border) 0 0 0;
+  border-radius: 0 0 var(--radius) var(--radius);
 }
 
 .box {
@@ -550,7 +548,8 @@ main pre {
 }
 
 .terms a,
-.terms a:visited {
+.terms a:visited,
+.card .more {
   text-decoration: none;
   font-size: var(--f5);
   padding: var(--hms);
@@ -561,7 +560,8 @@ main pre {
 
 #navbar a:hover,
 #navbar a[aria-current="page"],
-.terms a:hover {
+.terms a:hover,
+.card .more:hover {
   background-color: var(--fg);
 }
 
