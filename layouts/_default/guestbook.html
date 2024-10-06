@@ -16,14 +16,15 @@
     {{ with .Resources.Get "sidecar.json" | unmarshal -}}
       <div class="entries">
         {{- range .replies }}
-          <div class="entry">
+          <div class="entry box">
             <p>
-              <strong>From</strong>:
-                {{ with .authorUrl }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
+              <strong>
+                {{- with .authorUrl }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
                 {{- with .author }}{{ . }}{{ else }}Anonymous{{ end -}}
                 {{- with .authorUrl }}</a>{{ end -}}
+              </strong>
               <br>
-              <strong>Date</strong>: {{ dateFormat "2006-01-02" .date }}
+              <small class='lg'>{{ dateFormat "2 January 2006" .date }}</small>
             </p>
 
             {{  .content | $.RenderString (dict "display" "block") }}

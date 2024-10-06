@@ -6,30 +6,31 @@
 }
 
 .entry {
-  padding: 0 var(--ms);
+  margin: 0;
+  padding: var(--ms);
   background: #ffb3ba;
-  transform: rotate(0.5deg);
-  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  transform: rotate(-0.5deg);
+  border-color: rgba(0, 0, 0, 0.05);
 }
 
 .entry:nth-last-child(5n - 3) {
   background: #ffdfba;
+  transform: rotate(0.3deg);
 }
 
 .entry:nth-last-child(5n - 2) {
   background: #ffffba;
+  transform: rotate(-0.2deg);
 }
 
 .entry:nth-last-child(5n - 1) {
   background: #baffc9;
+  transform: rotate(0.4deg);
 }
 
 .entry:nth-last-child(5n + 0) {
   background: #bae1ff;
-}
-
-.entry:nth-child(2n) {
-  transform: rotate(-0.5deg);
+  transform: rotate(-0.1deg);
 }
 
 .dark .entry,
@@ -38,7 +39,7 @@
 .dark .entry:nth-last-child(5n - 1),
 .dark .entry:nth-last-child(5n + 0) {
   background: var(--fg);
-  box-shadow: none;
+  border-color: rgba(255, 255, 255, 0.05);
 }
 
 #guestbook-form {
