@@ -9,7 +9,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 ## 📟 Hardware {#hardware}
 
-<div class='tb'>
+<div class='box tb'>
 
 - **Laptop** <span>2021 MacBook Pro 14"</span>
 - **Smartphone** <span>iPhone 14 Pro</span>
@@ -30,7 +30,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
-<div class='tb'>
+<div class='box tb'>
 
 - **Desk** <span>Ahrend Balance Solo (Electric, 120 x 80)</span>
 - **Chair** <span>Zinn Smart</span>
@@ -48,7 +48,7 @@ At home I also have a desk with some things. This desk is used by my partner or 
 
 In the photography department, I currently own a Fuji X-T5. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
-<div class='tb'>
+<div class='box tb'>
 
 - **Camera** <span>Fujifilm X-T5</span>
 - **Lenses** <span>XF 18-55mm f/2.8-4.0 OIS, XF 27mm F/2.8</span>
@@ -62,10 +62,10 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 
 Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
 
-<div class='tb'>
+<div class='box tb'>
 
 - **Filter Equipment** <span>Clever Dripper, French Press, Chemex, AeroPress ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
-- **Espresso Machine** <span>Sage (Breville) Barista Express</span>
+- **Espresso Machine** <span>Sage Barista Express ([read more](/2024/01/06/current-espresso-setup/))</span>
 - **Grinder** <span>Baratza Encore</span>
 - **Scale** <span>TIMEMORE Basic 2.0</span>
 
@@ -76,7 +76,7 @@ Coffee is nowadays a part of my daily life. However, I try to not drink more tha
 
 The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some may call this my [app defaults](https://defaults.rknight.me/).
 
-<div class='tb'>
+<div class='box tb'>
 
 - **E-mail Client** <span>Native macOS and iOS apps</span>
 - **E-mail Server** <span>[Fastmail](https://www.fastmail.com) and Gmail - slowly moving away from Google</span>
