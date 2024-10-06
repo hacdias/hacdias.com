@@ -742,8 +742,8 @@ ul.tb,
 }
 
 /* This can likely be improved. */
-.dark .highlight>pre code,
-.dark main pre code {
+.dark .highlight>pre code > span,
+.dark main pre code > span {
   color: #212121;
   filter: invert(1);
 }
