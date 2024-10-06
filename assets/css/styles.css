@@ -516,18 +516,6 @@ main pre {
   margin-bottom: 0;
 }
 
-.box.attrs {
-  font-size: var(--f5);
-}
-
-.box.attrs>span:not(:last-child)::after {
-  content: ' •';
-}
-
-.box p {
-  margin: 0.5em 0;
-}
-
 .terms ul {
   list-style-type: none;
   padding: 0;
