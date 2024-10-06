@@ -231,17 +231,13 @@ button:hover {
 
 #footer {
   margin-top: 2rem;
-  font-size: var(--f5);
-}
-
-#footer>div:not(.box) {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-#footer>div>div {
-  margin-bottom: 0.5rem;
+#footer > div {
+  margin-bottom: var(--hms);
 }
 
 .pixelated {
@@ -809,6 +805,11 @@ ul.tb,
 
   .fg {
     grid-gap: 0.5rem;
+  }
+
+  #footer {
+    display: block;
+    text-align: center;
   }
 }
 
