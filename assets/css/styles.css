@@ -63,19 +63,11 @@ pre {
   font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 }
 
-.p-category,
 :not(pre)>code {
   border-radius: calc(var(--radius) / 2);
   padding: 1px 2px;
   background: var(--mg);
   border: var(--border) solid var(--fg);
-}
-
-.p-category {
-  text-decoration: none;
-  white-space: nowrap;
-  color: var(--c);
-  font-size: 90%;
 }
 
 svg,
