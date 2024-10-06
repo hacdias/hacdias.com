@@ -8,7 +8,7 @@ tags:
   - indieweb
 ---
 
-This is my first time participating in a [IndieWeb Carnaval](https://indieweb.org/IndieWeb_Carnival). I had seen this name floating around before, but I have never participated. After reading both [Manuel Moreale's](https://manuelmoreale.com/indieweb-carnival-multilingualism-in-a-global-web) and [Jan-Luka's](https://jlelse.blog/thoughts/2024/10/multilingualism) posts, I got interested, especially due to the topic: multilingualism in a global web. This month's edition is hosted by [ZinRicky](https://tilde.team/~zinricky/multilingualism/).
+This is my first time participating in a [IndieWeb Carnival](https://indieweb.org/IndieWeb_Carnival). I had seen this name floating around before, but I have never participated. After reading both [Manuel Moreale's](https://manuelmoreale.com/indieweb-carnival-multilingualism-in-a-global-web) and [Jan-Luka's](https://jlelse.blog/thoughts/2024/10/multilingualism) posts, I got interested, especially due to the topic: multilingualism in a global web. This month's edition is hosted by [ZinRicky](https://tilde.team/~zinricky/multilingualism/).
 
 <!--more-->
 
