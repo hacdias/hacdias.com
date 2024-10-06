@@ -718,14 +718,14 @@ ul.tb,
 }
 
 :root.dark {
-  --c-h: 220;
-  --c-s: 50%;
-  --c-l: 50%;
+  --c-h: 200;
+  --c-s: 100%;
+  --c-l: 40%;
   --fg-l: 15%;
   --mg-l: 9%;
-  --bg-l: 5%;
-  --dark-gray: #ddd;
-  --light-gray: #bbb;
+  --bg-l: 2%;
+  --dark-gray: #eee;
+  --light-gray: #ccc;
 }
 
 .dark #navbar {
