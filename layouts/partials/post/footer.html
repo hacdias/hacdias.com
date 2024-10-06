@@ -9,6 +9,15 @@
     </p>
     {{ end }}
 
+    {{ with .Params.tags }}
+    <p>🏷️ Tagged in
+      {{ range $i, $t := . -}}
+        {{- if ne $i 0 }}, {{ end -}}
+        <a class="p-category" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" $t)).RelPermalink }}">{{ . }}</a>
+      {{- end -}}
+    </p>
+    {{ end }}
+
     <p>
       💬 Reply with
       <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
