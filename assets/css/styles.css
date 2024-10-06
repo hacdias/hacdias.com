@@ -663,6 +663,18 @@ ul.tb,
   font-weight: 600;
 }
 
+.box.tb {
+  padding: 0;
+}
+
+.box.tb li {
+  padding: 0 var(--ms);
+}
+
+.box.tb li:hover {
+  background-color: var(--fg);
+}
+
 .pagination {
   border: 1px solid var(--fg);
   border-radius: var(--radius);
