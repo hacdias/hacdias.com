@@ -1,7 +1,3 @@
-.box.tb li:hover {
-  background-color: var(--fg);
-}
-
 .tb li {
   grid-template-columns: 10rem auto;
 }
