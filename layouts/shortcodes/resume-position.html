@@ -1,17 +1,13 @@
-<div class='resume-position'>
+<section class='resume-position'>
   <div>
-    <h3>
-      <strong>{{ .Get "title" }}</strong>
+    <div>
+      <h4>{{ .Get "title" }}</h4>
       {{ with .Get "location" }}
-        <span class='sep'>»</span>
         <a rel='noopener noreferrer' href='{{ $.Get "href" | safeURL }}'>{{ . }}</a>
       {{ end }}
-    </h3>
-    <small class='lg'>[{{ .Get "from" }} - {{ .Get "to" }}]</small>
-    {{ with .Get "grade" }}
-      <small class='lg'>Grade: {{ . }}</small>
-    {{ end }}
+    </div>
+    <small class='lg'>{{ .Get "from" }} - {{ .Get "to" }}</small>
   </div>
 
   {{ .Inner | .Page.RenderString }}
-</div>
+</section>
