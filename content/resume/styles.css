@@ -47,7 +47,7 @@
 }
 
 @media screen and (max-width: 53rem) {
-  .resume-header a {
+  .resume-position > div a {
     display: block;
   }
 }
