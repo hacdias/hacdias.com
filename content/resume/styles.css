@@ -24,16 +24,15 @@
 }
 
 .resume-position > div {
-  display: flex;
+  display: grid;
+  grid-template-columns: max-content auto max-content;
+  grid-gap: 0 var(--ms);
   align-items: baseline;
-  justify-content: space-between;
   margin: var(--hls) 0 var(--hms);
 }
 
 .resume-position h4 {
   margin: 0;
-  display: inline-block;
-  margin-right: var(--hms);
   text-transform: none;
 }
 
@@ -47,8 +46,12 @@
 }
 
 @media screen and (max-width: 53rem) {
+  .resume-position > div {
+    grid-template-columns: auto max-content;
+  }
+
   .resume-position > div a {
-    display: block;
+    grid-row-start: 2;
   }
 }
 
