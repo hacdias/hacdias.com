@@ -6,7 +6,11 @@
         <a rel='noopener noreferrer' href='{{ $.Get "href" | safeURL }}'>{{ . }}</a>
       {{ end }}
     </div>
-    <small class='lg'>{{ .Get "from" }} - {{ .Get "to" }}</small>
+    <small class='lg'>
+      <span>{{ .Get "from" }}</span>
+      -
+      <span>{{ .Get "to" }}</span>
+    </small>
   </div>
 
   {{ .Inner | .Page.RenderString }}
