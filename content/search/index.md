@@ -6,7 +6,7 @@ noIndex: true
 <eagle-page>
   <form id='search-form' class='inline-form' action="https://duckduckgo.com/html/" method="get">
     <input required type='search' name='q' placeholder="Search…" value="site:hacdias.com " />
-    <button/>Go</button>
+    <button/>Search</button>
   </form>
 
   <div class='box'>
