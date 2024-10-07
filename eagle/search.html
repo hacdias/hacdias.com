@@ -25,8 +25,8 @@
             <a href='{{ .RelPermalink }}' class='nl'><h2>{{ .Title }}</h2></a>
           {{ end }}
 
-          {{ if (not .Date.IsZero) }}
-            <p>
+          {{ if not .Date.IsZero }}
+            <p class='lg small'>
               <a href='{{ .RelPermalink }}' class='nl'>
                 <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
                   {{ if $bookmark }}Bookmarked{{ else }}Published{{ end }}
