@@ -124,7 +124,7 @@ I am a Software Engineer who cares about the web, user agency, identity, decentr
 
 {{</ resume-position >}}
 
-## 🎗️ Volunteering {#volunteering}
+## 🌟 Volunteering {#volunteering}
 
 {{< resume-position
   title="Technical Mentor"
