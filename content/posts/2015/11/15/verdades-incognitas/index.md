@@ -5,6 +5,7 @@ date: 2015-11-15T13:45:00Z
 categories:
   - articles
 tags:
+  - writing
   - creative
   - portuguese
 language: pt

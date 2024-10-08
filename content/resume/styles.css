@@ -26,7 +26,7 @@
 .resume-position > div {
   display: grid;
   grid-template-columns: max-content auto max-content;
-  grid-gap: 0 var(--ms);
+  grid-gap: 0 var(--hms);
   align-items: baseline;
   margin: var(--hls) 0 var(--hms);
 }
