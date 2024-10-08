@@ -15,25 +15,27 @@ Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel se
 
 <!--more-->
 
-Trago-vos um pequeno poema (se se pode chamar isso!) que compus a 14 de agosto de 2012 e que se chama, como podem deduzir, **O Rei Que Tudo Perdeu.**
+Trago-vos um pequeno poema (se se pode chamar isso!) que compus a 14 de agosto de 2012 e que se chama, como podem deduzir, "O Rei Que Tudo Perdeu".
 
+> **O Rei Que Tudo Perdeu**
+>
 > Eu antes tinha terras,<br>
 poder e um reino,<br>
 para lá governar.<br>
 Mas agora sou só<br>
 com o meu Bobo a sonhar.
-
+>
 > Não tenho vestes,<br>
 nem comida,<br>
 o meu poder desapareceu<br>
 agora mais pareço<br>
 um grande camafeu.
-
+>
 > Sou cego,<br>
 ninguém me conhece,<br>
 foi expulso por minhas filhas<br>
 por isso esquece!
-
+>
 > Agora não sou ninguém,<br>
 não tenho lugar para onde ir,<br>
 por isso termino aqui,<br>
