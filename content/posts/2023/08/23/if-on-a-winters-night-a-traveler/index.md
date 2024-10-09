@@ -1,5 +1,5 @@
 ---
-title: Half-read "If on a Winter's Night a Traveller" by Author
+title: Half-read "If on a Winter's Night a Traveller" by Italo Calvino
 date: 2023-08-23T20:13:25+02:00
 categories:
   - readings
