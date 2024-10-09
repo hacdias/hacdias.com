@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Joker
+  rating: 3
+  date: 2024-10-08
 - name: Strange Darling
   rating: 4
   date: 2024-10-05
@@ -11,7 +14,7 @@
   rating: 4
   date: 2024-09-22
 - name: Uglies
-  rating: 3
+  rating: 2
   date: 2024-09-17
 - name: Beetlejuice Beetlejuice
   rating: 4
