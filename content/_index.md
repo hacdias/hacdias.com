@@ -11,6 +11,7 @@ favoriteCaptures:
 - /posts/2022/10/19/capturing-leiden
 - /posts/2023/02/24/engelberg-captures
 - /posts/2021/06/01/maastricht-ii
+- /posts/2022/07/04/summer-memories
 noWebmentions: true
 ---
 
