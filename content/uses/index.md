@@ -13,6 +13,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 - **Laptop** <span>2021 MacBook Pro 14"</span>
 - **Smartphone** <span>iPhone 14 Pro</span>
+- **Watch** <span>Apple Watch Series 9</span>
 - **Tablet** <span>2018 iPad Pro 11"</span>
 - **Headphones** <span>Sony WH-1000XM5</span>
 - **Earphones** <span>AirPods Pro (2nd Gen)</span>
@@ -68,6 +69,7 @@ Coffee is nowadays a part of my daily life. However, I try to not drink more tha
 - **Espresso Machine** <span>Sage Barista Express ([read more](/2024/01/06/current-espresso-setup/))</span>
 - **Grinder** <span>Baratza Encore</span>
 - **Scale** <span>TIMEMORE Basic 2.0</span>
+- **Kettle** <span>Fellow Stagg ‎EKG Pro</span>
 
 </div>
 
