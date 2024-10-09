@@ -10,7 +10,8 @@
 {{- end }}
 <meta name='description' content='{{ or .Description (.Summary | plainify) .Site.Params.site.description }}'>
 <link rel='canonical' href='{{ .Permalink }}'>
-<link rel='icon' href='{{ relURL "/favicon.ico" }}' type='image/x-icon'>
+<link rel='icon' href='{{ relURL "/favicon.png" }}' type='image/png'>
+<link rel='apple-touch-icon' href='{{ relURL "/favicon.png" }}'>
 
 {{- range .AlternativeOutputFormats -}}
   {{- printf `<link rel="%s" type="%s" href="%s" />` .Rel .MediaType.Type .RelPermalink | safeHTML }}
