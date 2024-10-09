@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Nobody Wants This
+  season: 1
+  rating: 3
+  date: 2024-10-08
 - name: Heartstopper
   season: 4
   rating: 4

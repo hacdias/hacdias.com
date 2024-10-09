@@ -3834,6 +3834,16 @@
     ]
   },
   {
+    "domain": "lucifercoffee.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/08/barista-training/",
+        "targetUrl": "https://lucifercoffee.com/"
+      }
+    ]
+  },
+  {
     "domain": "lunrjs.com",
     "count": 1,
     "links": [
