@@ -54,7 +54,7 @@
 
 {{- define "photos" }}
 <div class='fg'>
-  {{ range (first 3 .) }}
+  {{ range (first 4 .) }}
     <a href='{{ .RelPermalink }}' class='nl lh p-name u-url br'>
       {{ partial "helpers/figure" (dict
         "Destination" .Params.coverImage
