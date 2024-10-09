@@ -146,7 +146,8 @@ li {
 }
 
 :target {
-  background: cornsilk;
+  border: 1px dashed var(--c);
+  background: var(--fg);
 }
 
 ::marker {
@@ -453,6 +454,7 @@ details summary {
 
 #navbar,
 .box,
+.pagination,
 .terms a,
 .terms a:visited,
 .card .more,
@@ -672,9 +674,6 @@ ul.tb,
 }
 
 .pagination {
-  border: 1px solid var(--fg);
-  border-radius: var(--radius);
-  background: var(--mg);
   display: flex;
 }
 
