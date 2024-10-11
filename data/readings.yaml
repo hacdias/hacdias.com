@@ -5,6 +5,9 @@ reading:
     publisher: Picador
     pages: 224
     uid: isbn:9781529089431
+  - name: Ikigai
+    author: Héctor Garcia
+    date: 2024-10-10
 want-to-read:
   - name: Before We Say Goodbye
     author: Toshikazu Kawaguchi
@@ -12,9 +15,6 @@ want-to-read:
     publisher: Picador
     pages: 173
     uid: isbn:9781035023431
-  - name: Ikigai
-    author: Héctor Garcia
-    date: 2023-05-01
   # - name: Ariadne
   #   author: Jennifer Saint
   #   publisher: Wildfire
