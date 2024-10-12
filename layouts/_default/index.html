@@ -11,7 +11,7 @@
 
   {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "articles" "readings") -}}
   <h2 id="freshly-planted"><a href='{{ relURL "/articles" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span><a></h2>
-  {{- template "items" $pages -}}
+  {{- template "items" (first 8 $pages) -}}
 
   <h2 id="freshly-captured"><a href='{{ relURL "/photos" }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
   {{- $photos := where .Site.RegularPages "Params.categories" "intersect" (slice "photos") -}}
@@ -20,18 +20,18 @@
   <h2 id="favourite-articles">🌟 Favourite Articles</h2>
   {{- $favoritePosts := slice -}}
   {{- range .Params.favoritePosts -}}
-    {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}
+  {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}
   {{- end -}}
-  {{- template "items" $favoritePosts -}}
+  {{- template "items" (first 4 $favoritePosts) -}}
 
   <h2 id="favourite-captures">📸 Favourite Captures</h2>
   {{- $favoritePhotos := slice -}}
   {{- range .Params.favoriteCaptures -}}
-    {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
+  {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
   {{- end }}
   {{- template "photos" $favoritePhotos -}}
   <style>
-  #favourite-captures + .fg > a:nth-child(3) img {
+  #favourite-captures+.fg>a:nth-child(3) img {
     object-position: -20px;
   }
   </style>
@@ -46,8 +46,8 @@
 
 {{- define "items" }}
 <ul class='h-feed tb'>
-  {{ range (first 4 . ) }}
-    {{ template "item" . }}
+  {{ range . }}
+  {{ template "item" . }}
   {{ end }}
 </ul>
 {{ end }}
@@ -55,15 +55,15 @@
 {{- define "photos" }}
 <div class='fg'>
   {{ range (first 4 .) }}
-    <a href='{{ .RelPermalink }}' class='nl lh p-name u-url br'>
-      {{ partial "helpers/figure" (dict
-        "Destination" .Params.coverImage
-        "Title" .Title
-        "IsBlock" true
-        "Sizes" (slice 250 500 1000)
-        "Class" "br"
-      )}}
-    </a>
+  <a href='{{ .RelPermalink }}' class='nl lh p-name u-url br'>
+    {{ partial "helpers/figure" (dict
+    "Destination" .Params.coverImage
+    "Title" .Title
+    "IsBlock" true
+    "Sizes" (slice 250 500 1000)
+    "Class" "br"
+    )}}
+  </a>
   {{ end }}
 </div>
 {{- end }}
