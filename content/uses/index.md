@@ -37,9 +37,9 @@ At home I also have a desk with some things. This desk is used by my partner or 
 - **Chair** <span>Zinn Smart</span>
 - **Monitor Stand** <span>IKEA ELLOVEN</span>
 - **Monitor** <span>Dell U2720Q</span>
-- **Keyboard** <span>NuPhy Air 96</span>
-- **Mouse** <span>Logitech G502 X</span>
-- **Laptop Stand** <span>Rain mStand</span>
+- **Keyboard** <span>NuPhy Air96, NuPhy Air75</span>
+- **Mouse** <span>Logitech MX Vertical</span>
+- **Laptop Stand** <span>Rain mStand, Roost V3</span>
 - **Dock** <span>CalDigit TS4</span>
 - **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
 
@@ -52,7 +52,7 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 <div class='box tb'>
 
 - **Camera** <span>Fujifilm X-T5</span>
-- **Lenses** <span>XF 18-55mm f/2.8-4.0 OIS, XF 27mm F/2.8</span>
+- **Lenses** <span>XF 16-50mm f/2.8-4.0, XF 27mm F/2.8, XF 23mm F2.0 R WR</span>
 - **Tripod** <span>Manfrotto Befree</span>
 
 </div>
@@ -65,14 +65,13 @@ Coffee is nowadays a part of my daily life. However, I try to not drink more tha
 
 <div class='box tb'>
 
-- **Filter Equipment** <span>Clever Dripper, French Press, Chemex, AeroPress ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
+- **Filter Equipment** <span>Clever Dripper, French Press, AeroPress, Chemex, V60 ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
 - **Espresso Machine** <span>Sage Barista Express ([read more](/2024/01/06/current-espresso-setup/))</span>
 - **Grinder** <span>Baratza Encore</span>
 - **Scale** <span>TIMEMORE Basic 2.0</span>
 - **Kettle** <span>Fellow Stagg ‎EKG Pro</span>
 
 </div>
-
 
 ## 📀 Software {#software}
 
