@@ -24,7 +24,7 @@ noIndex: true
 
 </div>
 
-I am a Software Engineer who cares about the web, user agency, identity, decentralization, and building impactful products and tools for both users and developers. I am an an eager learning and always up for new challenges.
+I am a Software Engineer who cares about the web, user agency, identity, decentralization, and building impactful products and tools for both users and developers. In the past years, I worked on decentralized, peer-to-peer, content-addressed networks. More recently, I have been working on enabling developers integrate decentralized identity wallets into their platforms. I am an eager learner and always up for new challenges.
 
 ## 💼 Experience {#experience}
 
