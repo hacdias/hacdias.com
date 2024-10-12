@@ -88,7 +88,7 @@ I am a Software Engineer who cares about the web, user agency, identity, decentr
   location="Eindhoven University of Technology" href="https://tue.nl/"
   from="2020" to="2022" grade="8 out of 10" >}}
 
-- Thesis on [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](https://hacdias.com/2022/09/07/thesis-blocklearning-framework/).
+- Thesis on [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](/2022/09/07/thesis-blocklearning-framework/).
 - Paper on [BlockLearning: A Modular Framework for Blockchain-based Federated Learning](/2023/02/16/paper-blocklearning-framework/).
 - Member of the Website and PR Committees of Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
 
