@@ -1,0 +1,9 @@
+{{ $description := "" }}
+
+{{ if and (eq .Description "") (eq .Kind "term") (eq .Data.Singular "tag") }}
+  {{ $description = printf "List of posts tagged with \"%s\"." .Title }}
+{{ else }}
+  {{ $description = or .Description (.Summary | plainify) .Site.Params.site.description }}
+{{ end }}
+
+{{ return $description }}
