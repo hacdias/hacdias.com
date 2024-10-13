@@ -8,7 +8,7 @@ coverImage: https://cdn.hacdias.com/media/2020-04-pixel-house.gif
 syndication:
   - https://twitter.com/hacdias/status/1247801115342540800
 tags:
-  - pixelart
+  - pixel art
   - creative
   - art
 ---

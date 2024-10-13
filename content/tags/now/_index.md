@@ -1,5 +1,5 @@
 ---
-title: now
+title: Now
 layout: tabular
 aliases:
 - /now

@@ -7,7 +7,7 @@ categories:
 coverImage: https://cdn.hacdias.com/media/2019-04-pirilampos.gif
 tags:
   - art
-  - pixelart
+  - pixel art
   - creative
 ---
 

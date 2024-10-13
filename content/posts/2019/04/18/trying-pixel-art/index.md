@@ -6,7 +6,7 @@ lastmod: 2021-09-20T05:53:49.227871757Z
 categories:
   - articles
 tags:
-  - pixelart
+  - pixel art
   - art
   - creative
 ---

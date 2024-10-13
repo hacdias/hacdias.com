@@ -6,9 +6,12 @@ categories:
 tags:
   - reflection
   - identity
+  - personal growth
 ---
 
 In a few weeks I will be turning 25 years old. That's an interesting number: it's a quarter of a century, and it also feels like a pivotal moment in one's life: the middle of one's third decade, now closer to the beginning of the fourth decade than the end of the second decade. Instead of having a mid-life crisis, I decided to reflect a bit on the idea of getting older, but more importantly belonging.
+
+<!--more-->
 
 People change as they get older. There's no other way around it, it is what it is. And while changes can occur at all times in life, the most dramatic changes arguably occur during the adolescence and the first years of adulthood (I didn't search for scientific evidence to back this up, but it sounds logic to me). I feel like we, as people, are very easily shaped in our early twenties.
 

@@ -5,7 +5,7 @@ categories:
   - graphics
 coverImage: https://cdn.hacdias.com/media/2019-04-tecnico-tower.gif
 tags:
-  - pixelart
+  - pixel art
   - art
   - creative
 ---
