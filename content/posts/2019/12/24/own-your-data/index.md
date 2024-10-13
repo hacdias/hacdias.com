@@ -5,8 +5,8 @@ date: 2019-12-24T20:00:00Z
 categories:
   - articles
 tags:
-  - reflection
   - privacy
+  - reflection
 ---
 
 Data, data, data.

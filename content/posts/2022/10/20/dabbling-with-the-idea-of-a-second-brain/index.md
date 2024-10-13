@@ -4,7 +4,7 @@ date: 2022-10-20T13:18:20.220703916+02:00
 categories:
   - articles
 tags:
-  - second-brain
+  - second brain
 ---
 
 I have been recently dabbling with the idea of a second brain, or just note taking in general. I feel like I've been through this many times in the past years. I don't take that many notes, or at least, I don't take that many notes that I would want to make public. Most things I note down are private things that I do not want to make public. I considered using the private posts on my website, but I don't think I would trust them enough.

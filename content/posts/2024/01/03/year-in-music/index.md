@@ -4,7 +4,7 @@ date: 2024-01-03T16:07:51+01:00
 categories:
   - articles
 tags:
-  - year-in-music
+  - year in music
 ---
 
 <style>

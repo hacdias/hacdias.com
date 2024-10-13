@@ -3,11 +3,12 @@ title: Attempt at Visualizing Eve Room (and Weather) Metrics in Grafana
 date: 2024-01-21T09:14:45.594135506+01:00
 categories:
   - articles
-tags:
-  - data
-  - automation
 syndication:
   - https://fosstodon.org/@hacdias/111805226174007741
+tags:
+  - automation
+  - data
+  - monitoring
 ---
 
 Some weeks ago, I sort of discovered this [Grafana dashboard](https://grafana.hackalot.nl/d/de4inWnZk/hackalot?orgId=1&refresh=5m) from a Hackerspace here in Eindhoven. Since then, I've been wanting to create such an "observability" dashboard for the microclimate inside my home, and also balcony. I already own quite a few temperature and air quality sensors, so it can't be that hard - I thought.

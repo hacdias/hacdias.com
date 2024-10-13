@@ -4,9 +4,9 @@ date: 2022-12-26T12:33:09.201511323+01:00
 categories:
   - articles
 tags:
-  - reflection
-  - personal-website
   - indieweb
+  - personal website
+  - reflection
 ---
 
 Online services. We all have accounts on those. Be it Instagram, Facebook, ~~Twitter~~ Mastodon, or some other thing that is sucking the life out of us. Even though we are the same physical being behind all of those accounts, we don't always come out the same way to all of them. We look different, we sound different. Maybe that's the nature of what we post there. They are all online identities.

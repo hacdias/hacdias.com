@@ -1,16 +1,16 @@
 ---
-title: 'Vergeet niet om in te checken (I)'
+title: Vergeet niet om in te checken (I)
 date: 2023-12-07T16:29:44+01:00
-language: nl
-categories:
-- articles
-tags:
-- inchecken
-- nederlands
-syndication:
-- https://fosstodon.org/@hacdias/111550570083991986
 aliases:
-- /2023/12/07/vergeet-niet-om-in-te-checken-het-begin/
+  - /2023/12/07/vergeet-niet-om-in-te-checken-het-begin/
+categories:
+  - articles
+language: nl
+syndication:
+  - https://fosstodon.org/@hacdias/111550570083991986
+tags:
+  - inchecken
+  - nederlands
 ---
 
 Vandaag ga ik met iets nieuws op deze website beginnen: een post series in het Nederlands waarin ik over mijn ervaring met leren van het Nederlands schrijf. Vergelijkbaar met mijn “Recently” series, ga ik een post per maand schrijven. Dat is niet te veel, maar ik hoop dat genoeg is om met mijn Nederlands te helpen verbeteren.

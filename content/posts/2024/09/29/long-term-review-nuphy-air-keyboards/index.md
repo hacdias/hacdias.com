@@ -1,12 +1,13 @@
 ---
 title: Long Term Review of NuPhy Air Keyboards
 date: 2024-09-29T12:24:08+02:00
-coverPhoto: cdn:/2024-09-nuphy-air96
 categories:
-- articles
+  - articles
+coverPhoto: cdn:/2024-09-nuphy-air96
 tags:
-- hardware
-- keyboards
+  - hardware
+  - keyboards
+  - review
 ---
 
 I have been using the same two [NuPhy](https://nuphy.com/) keyboards for almost two years, and I've also been wanting to write something about them for quite some time. Why not just do it?

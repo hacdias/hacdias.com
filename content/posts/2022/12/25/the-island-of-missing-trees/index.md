@@ -10,6 +10,10 @@ read:
   pages: 356
   publisher: Penguin Books
   uid: isbn:9780241988725
+tags:
+  - fantasy
+  - literature
+  - review
 ---
 
 I started reading this book in June and, even though I was enjoying it, life happened and I started reading very infrequently. I feel like this is a cycle that happens every year: in the beginning of the year I read a lot, during winter, and spring. Then summer comes and I stop reading.

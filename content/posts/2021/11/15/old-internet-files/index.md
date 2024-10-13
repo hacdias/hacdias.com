@@ -5,9 +5,9 @@ bookmark-of: https://rscott.org/OldInternetFiles/
 categories:
   - bookmarks
 tags:
+  - archive
   - fun
   - historical
-  - archive
   - web
 wa-bookmark-of: https://web.archive.org/web/20230206191858/https://rscott.org/OldInternetFiles/
 ---

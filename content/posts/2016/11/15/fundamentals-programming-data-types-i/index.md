@@ -4,10 +4,10 @@ date: 2016-11-15T00:00:00Z
 categories:
   - articles
 tags:
-  - data-types
   - c
-  - computer-science
-  - fundamentals-of-programming
+  - computer science
+  - data types
+  - fundamentals of programming
 ---
 
 In our beginning articles, we mentioned that there are some

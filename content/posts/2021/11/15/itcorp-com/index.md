@@ -5,9 +5,9 @@ bookmark-of: https://itcorp.com
 categories:
   - bookmarks
 tags:
+  - archive
   - fun
   - historical
-  - archive
   - web
 wa-bookmark-of: https://web.archive.org/web/20230619204728/https://itcorp.com/
 ---

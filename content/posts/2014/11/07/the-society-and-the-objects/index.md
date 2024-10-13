@@ -5,8 +5,8 @@ date: 2014-11-07T20:28:27Z
 categories:
   - articles
 tags:
-  - society
   - reflection
+  - society
 ---
 
 Presently, the people love the objects. Sometimes, more than they love the people. Is this good? Or not?

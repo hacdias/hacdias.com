@@ -4,10 +4,10 @@ description: Já pensou em qual a melhor forma para inserir variáveis dentro de
 date: 2014-09-09T15:19:43Z
 categories:
   - articles
+language: pt
 tags:
   - php
   - portuguese
-language: pt
 ---
 
 Hoje vamos falar um pouco sobre PHP, mais precisamente no campo das strings, variáveis e concatenações. Como sabem, existem várias formas de inserir o valor de variáveis dentro de strings, mas qual será a "melhor" e mais rápida?

@@ -2,9 +2,10 @@
 title: My Current Espresso Setup
 date: 2024-01-06T10:44:47+01:00
 categories:
-- articles
+  - articles
 tags:
-- coffee
+  - coffee
+  - espresso coffee
 ---
 
 A few days ago, I wrote a bit about our [filter coffee setup](/2024/01/04/current-filter-coffee-setup). I also promised I would come back and write a bit about the espresso setup. Here we are! Today I'll share a bit about our espresso coffee ☕️ setup. There aren't that many things to note, but it can be interesting.

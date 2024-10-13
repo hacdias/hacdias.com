@@ -4,12 +4,12 @@ description: After updating the structure of my URLs, I now needed to start enab
 date: 2019-12-30T23:50:00Z
 categories:
   - articles
-tags:
-  - meta
-  - indieweb
-  - personal-website
 syndication:
   - https://twitter.com/hacdias/status/1211797283525812224
+tags:
+  - indieweb
+  - meta
+  - personal website
 ---
 
 This is going to be a quick post — I hope. 

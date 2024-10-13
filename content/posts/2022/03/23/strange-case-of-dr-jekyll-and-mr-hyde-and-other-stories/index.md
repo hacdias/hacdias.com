@@ -10,6 +10,10 @@ read:
   pages: 221
   publisher: Alma Books
   uid: isbn:9781847493781
+tags:
+  - fantasy
+  - literature
+  - review
 ---
 
 I am marking this book as "finished" since I have no plans on reading the remaining stories in the near future.

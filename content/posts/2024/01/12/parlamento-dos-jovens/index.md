@@ -3,6 +3,9 @@ title: Parlamento dos Jovens
 date: 2024-01-12T22:02:51+01:00
 categories:
   - articles
+tags:
+  - debating
+  - portugal
 ---
 
 At school, I participated a few times in the [Youth Parliament](https://jovens.parlamento.pt/). The Youth Parliament is an initiative of the Portuguese Parliament that gives a chance to young students to somehow get a feel of what politics involve. In the end, the measures that come out of this are actually debated by the real politicians in parliament.
@@ -24,4 +27,3 @@ Nonetheless, I created this post to share some pictures from this day. I'm not s
 </div>
 
 ![](cdn:/2012-05-parlamento-jovens-grupo?class=fw)
-

@@ -1,12 +1,14 @@
 ---
 title: Leaving The InterPlanetary Journey
 date: 2024-05-06T17:10:50+02:00
-syndication:
-- https://fosstodon.org/@hacdias/112395008906650178
 categories:
-- articles
+  - articles
+syndication:
+  - https://fosstodon.org/@hacdias/112395008906650178
 tags:
-- work
+  - personal growth
+  - reflection
+  - work
 ---
 
 After almost 7 years working on projects surrounding [IPFS](https://ipfs.tech/), the InterPlanetary File System, I am now saying goodbye. It's been an incredible journey at [Protocol Labs](https://protocol.ai/), and more recently at the [Interplanetary Shipyard](https://ipshipyard.com/). However, I feel like it's finally time for a change for me.

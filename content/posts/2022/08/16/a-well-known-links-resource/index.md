@@ -6,7 +6,7 @@ categories:
   - bookmarks
 tags:
   - indieweb
-  - well-known
+  - well known
 wa-bookmark-of: https://web.archive.org/web/20230525212544/https://blog.jim-nielsen.com/2022/well-known-links-resource/
 ---
 

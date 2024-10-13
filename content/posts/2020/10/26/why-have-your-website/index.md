@@ -5,7 +5,7 @@ date: 2020-10-26T09:00:00+01:00
 categories:
   - articles
 tags:
-  - personal-website
+  - personal website
 ---
 
 Hello 👋 Today's newsletter is a bit different (and smaller) than most. I have been quite busy during the past week and this week as well. Starting tomorrow, I'm having three three hour exams this week that count 100% towards my final grade. I don't even know if this should be allowed.

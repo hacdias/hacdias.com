@@ -14,9 +14,10 @@
     <li>
       <strong>🏷️ Tags</strong>
       <span>
-      {{ range $i, $t := . -}}
+      {{ range $i, $t := sort . -}}
         {{- if ne $i 0 }}, {{ end -}}
-        <a class="p-category" href="{{ ($.Page.Site.GetPage (printf "/tags/%s" $t)).RelPermalink }}">{{ . }}</a>
+        {{ $page := $.Page.Site.GetPage (printf "/tags/%s" $t) }}
+        <a class="p-category" href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
       {{- end -}}
       </span>
     </li>

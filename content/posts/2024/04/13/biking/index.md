@@ -3,6 +3,8 @@ title: Biking
 date: 2024-04-13T17:29:01.23507935+02:00
 categories:
   - articles
+tags:
+  - cycling
 ---
 
 The maximum temperature today - which means now - is around 24C and clear skies ☀️. I just got the not so unexpected urge to write something about biking. I say unexpected because I am back from a 40km ride from Eindhoven, to Oirschot, through Middelbeers and back.

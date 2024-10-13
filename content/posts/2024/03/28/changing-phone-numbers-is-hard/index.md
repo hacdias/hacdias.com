@@ -4,7 +4,9 @@ date: 2024-03-28T15:19:38.627026399+01:00
 categories:
   - articles
 tags:
+  - bureaucracy
   - government
+  - infrastructure
 ---
 
 Changing phone number within the same country is hard. But it is definitely not as hard as when changing to a foreign number. If you've ever moved abroad or live abroad, and wanted to mostly ditch your previous phone number, you know what I am talking about.

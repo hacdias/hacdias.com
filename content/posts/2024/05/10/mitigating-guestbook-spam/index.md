@@ -2,10 +2,10 @@
 title: Mitigating Guestbook Spam
 date: 2024-05-10T12:21:52+02:00
 categories:
-- articles
+  - articles
 tags:
-- meta
-- personal-website
+  - meta
+  - personal website
 ---
 
 Four years ago, I wrote a [post](/2020/05/31/back-90s/) about bringing back the web of the 90s, which is somewhat ironic since I don't remember the web of the 90s. Therefore, I'm probably not the best to write that. Anyways, I introduced my [guestbook](/guestbook/) on that same day. Today I want to talk a bit about avoiding all the inevitable spam that I get there.

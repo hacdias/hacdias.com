@@ -5,9 +5,9 @@ bookmark-of: https://kevquirk.com/having-a-microblog-on-a-traditional-blog
 categories:
   - bookmarks
 tags:
-  - personal-website
-  - small-web
   - blogging
+  - personal website
+  - small web
 wa-bookmark-of: https://web.archive.org/web/20231019114536/https://kevquirk.com/having-a-microblog-on-a-traditional-blog
 ---
 

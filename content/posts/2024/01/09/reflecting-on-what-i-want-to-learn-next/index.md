@@ -1,12 +1,13 @@
 ---
 title: Reflecting on What I Want To Learn Next
 date: 2024-01-09T22:17:03+01:00
-coverImage: cdn:/2024-01-summery-leaves
 categories:
-- articles
+  - articles
+coverImage: cdn:/2024-01-summery-leaves
 tags:
-- reflection
-- work
+  - personal growth
+  - reflection
+  - work
 ---
 
 Due to all the restructuring that has been [happening](https://protocol.ai/blog/advancing-ipfs-and-libp2p-governance/) at work, I am supposedly going to be working at a different company from next Monday on. The team will still be working on the same projects, albeit with more to choose our own direction. This has also given me time to reflect and think about what I want to learn and do next.

@@ -5,10 +5,10 @@ date: 2020-02-13T20:50:00Z
 categories:
   - articles
 tags:
-  - meta
   - indieweb
+  - meta
+  - personal website
   - security
-  - personal-website
 ---
 
 For quite some time, I have been getting more and more into the IndieWeb world and trying to own my own data. I have started publishing more to my website and using it as a place to store most of my public data, i.e., data I already published on other social media and platforms.

@@ -4,9 +4,9 @@ description: Got myself a verified checkmark
 date: 2022-11-14T11:41:03.405826199+01:00
 categories:
   - articles
-tags:
-  - personal-website
 coverImage: cdn:/1858a747667c2d9b8c64ccac04679aae7c3caacabadcf172c44ceca288aaae7b
+tags:
+  - personal website
 ---
 
 In the spirit of what has been happening to Twitter, Max [added](https://twitter.com/mxbck/status/1590809274808147990) a verified checkmark to his personal website. Then, Jim [followed](https://blog.jim-nielsen.com/2022/verified-personal-website/) with the idea. Since I also found the idea quite funny, now I also got myself a verified checkmark 😂. And it costs less than having one on Twitter!

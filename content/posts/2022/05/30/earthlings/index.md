@@ -10,6 +10,9 @@ read:
   pages: 247
   publisher: Granta
   uid: isbn:9781783785698
+tags:
+  - fantasy
+  - review
 ---
 
 Terrifying, disgusting, unexpected.

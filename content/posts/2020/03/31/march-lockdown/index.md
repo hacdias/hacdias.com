@@ -5,22 +5,22 @@ categories:
   - photos
 coverImage: cdn:/2020-03-hometown-cross
 photos:
-  - url: cdn:/2020-03-hometown-cross
-    title: Do Not Enter
-  - url: cdn:/2020-03-hometown-flower
-    title: White Flower
-  - url: cdn:/2020-03-home-03
-    title: The Dead Rise Again
-  - url: cdn:/2020-03-home-01
-    title: My Dog, Lara
-  - url: cdn:/2020-03-hometown-mom
-    title: My Mother
-  - url: cdn:/2020-03-home-02
-    title: Flower Pots
-  - url: cdn:/2020-03-chimney
-    title: Chimney
-  - url: cdn:/2020-03-hometown-dad
-    title: My Dad
+  - title: Do Not Enter
+    url: cdn:/2020-03-hometown-cross
+  - title: White Flower
+    url: cdn:/2020-03-hometown-flower
+  - title: The Dead Rise Again
+    url: cdn:/2020-03-home-03
+  - title: My Dog, Lara
+    url: cdn:/2020-03-home-01
+  - title: My Mother
+    url: cdn:/2020-03-hometown-mom
+  - title: Flower Pots
+    url: cdn:/2020-03-home-02
+  - title: Chimney
+    url: cdn:/2020-03-chimney
+  - title: My Dad
+    url: cdn:/2020-03-hometown-dad
 ---
 
 <style>

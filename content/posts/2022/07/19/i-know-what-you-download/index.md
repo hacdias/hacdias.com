@@ -6,7 +6,7 @@ categories:
   - bookmarks
 tags:
   - fun
-  - tool
+  - tools
   - torrent
 wa-bookmark-of: https://web.archive.org/web/20230615193551/https://iknowwhatyoudownload.com/en/peer/
 ---

@@ -6,8 +6,8 @@ categories:
   - bookmarks
 tags:
   - dns
-  - networking
   - nat
+  - networking
   - routers
 wa-bookmark-of: https://web.archive.org/web/20230610023641/https://tailscale.com/blog/how-nat-traversal-works/
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Recently in August '24"
+title: Recently in August '24
 date: 2024-09-02T17:54:00+02:00
-coverImage: cdn:/2024-08-ejv-beatrix
 categories:
-- articles
+  - articles
+coverImage: cdn:/2024-08-ejv-beatrix
 tags:
-- now
+  - now
 ---
 
 Uff, I wanted to write this before the end of August, but I'm still on time. August is over and it's starting to feel a bit like autumn to me. Quite excited, as it will become a bit colder, hopefully, and it's also one of my favorite seasons. Very colorful! But now, let's recap August!

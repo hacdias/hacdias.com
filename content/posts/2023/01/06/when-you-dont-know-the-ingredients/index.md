@@ -1,11 +1,11 @@
 ---
 title: When You Don't Know the Ingredients
 date: 2023-01-06T22:15:23.150895986+01:00
-tags:
-  - story-time
-  - cooking
 categories:
   - articles
+tags:
+  - cooking
+  - story time
 ---
 
 This is the story on how whipped cream and cocoa powder have stressed me over the last two weeks. I hope that that is a seemingly weird enough sentence to keep you on reading. Or not. If you don't want to keep going, it's also fine. But let me tell you more.

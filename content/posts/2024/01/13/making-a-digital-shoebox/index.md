@@ -3,11 +3,12 @@ title: Making a Digital Shoebox
 date: 2024-01-13T10:37:33.757868696+01:00
 categories:
   - articles
+syndication:
+  - https://news.indieweb.org/en
 tags:
   - indieweb
   - meta
-syndication:
-  - https://news.indieweb.org/en
+  - personal website
 ---
 
 A few days ago, I was navigating the web as normal. After some clicks here and there, I found myself on [this page](https://gilest.org/shoebox.html). I looked around and realised: it is a digital shoebox. I resonated with the author: I too keep around (shoe)boxes with the most random things. So I decided to also create my [own digital shoebox](/shoebox/).
