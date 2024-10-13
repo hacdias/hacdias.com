@@ -5,8 +5,9 @@ categories:
   - articles
 coverImage: cdn:/2024-02-git
 tags:
-  - open source
   - fosdem
+  - open source
+  - conference
 ---
 
 This past weekend I went to Brussels for [FOSDEM](https://fosdem.org/) with Sebastiaan, who has already [written](https://seblog.nl/2024/02/05/2/obligatory-post-fosdem-post) a bit about it. FOSDEM, if you don't know, is the largest open source software conference in Europe - or in the world, not sure. This was not my first time attending, but it was positively chaotic as usual.

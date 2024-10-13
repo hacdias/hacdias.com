@@ -10,6 +10,7 @@ tags:
   - government
   - identity
   - reflection
+  - personal growth
 ---
 
 The title of this post is just a question I added to my [impossible list](/impossible-list/) back in September 2022. It has been sitting there since. After making a little cleanup to the page today, I thought: I really want to develop this feeling a bit more, and explain it better, as well as how I feel in this moment regarding my plans for "living abroad".

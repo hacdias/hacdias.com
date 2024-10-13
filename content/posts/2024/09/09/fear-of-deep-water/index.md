@@ -7,6 +7,7 @@ coverImage: cdn:/2024-09-swimming-pool
 tags:
   - reflection
   - sports
+  - fears
 ---
 
 Swimming. An activity that can be very relaxing, and, at the same time, straining and very good for your body. Since I was a kid, I’ve always had a complicated relationship with swimming. I enjoy the process of swimming, and I can swim, but as soon as the body of water is deeper than my height, it’s a hard no-go.

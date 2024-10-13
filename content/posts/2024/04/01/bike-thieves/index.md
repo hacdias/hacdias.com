@@ -3,6 +3,9 @@ title: Bike Thieves
 date: 2024-04-01T10:12:26.315459203+02:00
 categories:
   - articles
+tags:
+  - cycling
+  - theft
 ---
 
 At the beginning of last month, someone tried to steal my bike. They almost managed to cut through the chain lock completely. This leads me to believe that they were probably caught by someone and stopped. I went to the bike shop and bought a much better chain lock made of different materials that are resistent to this type of cutting.

@@ -8,6 +8,8 @@ syndication:
 tags:
   - data
   - automation
+  - integration
+  - monitoring
 ---
 
 Some weeks ago, I sort of discovered this [Grafana dashboard](https://grafana.hackalot.nl/d/de4inWnZk/hackalot?orgId=1&refresh=5m) from a Hackerspace here in Eindhoven. Since then, I've been wanting to create such an "observability" dashboard for the microclimate inside my home, and also balcony. I already own quite a few temperature and air quality sensors, so it can't be that hard - I thought.
