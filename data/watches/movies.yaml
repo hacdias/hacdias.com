@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: 'Joker: Folie à Deux'
+  rating: 3
+  date: 2024-10-13
 - name: Joker
   rating: 3
   date: 2024-10-08
