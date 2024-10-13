@@ -1,11 +1,11 @@
 ---
-title: "RunGap: An End to Bosch's Malformed FIT Files"
+title: 'RunGap: An End to Bosch''s Malformed FIT Files'
 date: 2024-06-21T08:10:28+02:00
 categories:
-- articles
+  - articles
 tags:
-- cycling
-- sports
+  - cycling
+  - sports
 ---
 
 A few months ago I [wrote](/2023/10/11/processing-bosch-ebike-flow-fit-files/) about the struggles I was having with Bosch's eBike Flow app and their FIT files. Since then, I have been using my script to clean up the files and later import with HealthFit. I have now just found a better solution though.

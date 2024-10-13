@@ -4,11 +4,11 @@ description: Os operadores '==' e '===' por vezes podem confundir-nos um pouco e
 date: 2014-07-23T18:31:23Z
 categories:
   - articles
+language: pt
 tags:
   - php
   - javascript
   - portuguese
-language: pt
 ---
 
 É habitual utilizarem-se diversos operadores quando o assunto é programação. Existem vários até: aritméticos, comparativos e outros.

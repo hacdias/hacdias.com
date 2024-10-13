@@ -24,4 +24,3 @@ Nonetheless, I created this post to share some pictures from this day. I'm not s
 </div>
 
 ![](cdn:/2012-05-parlamento-jovens-grupo?class=fw)
-

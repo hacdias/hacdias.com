@@ -1,12 +1,12 @@
 ---
-title: 'Vergeet niet om in te checken (VI)'
+title: Vergeet niet om in te checken (VI)
 date: 2024-05-08T10:15:00+02:00
-language: nl
 categories:
-- articles
+  - articles
+language: nl
 tags:
-- inchecken
-- nederlands
+  - inchecken
+  - nederlands
 ---
 
 Welkom bij de zesde deel van deze serie: vergeet niet om in te checken. In deze serie probeer ik om een beetje over mijn leven in het Nederlands te schrijven. Vandaag wil ik over examens, boeken en Eurovisie hebben.

@@ -1,15 +1,15 @@
 ---
 title: Traveling to Vienna With the Nightjet
 date: 2024-02-27T18:37:11+01:00
+categories:
+  - articles
 coverImage: cdn:/2024-02-nightjet
 syndication:
-- https://fosstodon.org/@hacdias/112004673006559756
-categories:
-- articles
+  - https://fosstodon.org/@hacdias/112004673006559756
 tags:
-- trains
-- travel
-- transit
+  - trains
+  - travel
+  - transit
 ---
 
 Over the past days, my partner and I did a small trip to Vienna - and also Bratislava. This post is not going to be about the trip and the cities themselves, but about the transport to and from Vienna: the Nightjet. This was our first time trying out night trains, so it was quite a journey.

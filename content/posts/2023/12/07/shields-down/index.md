@@ -2,11 +2,11 @@
 title: Shields Down
 date: 2023-12-07T20:07:28.278893442+01:00
 bookmark-of: https://randsinrepose.com/archives/shields-down/
+categories:
+  - bookmarks
 tags:
   - work
   - people
-categories:
-  - bookmarks
 wa-bookmark-of: https://web.archive.org/web/20231207190947/https://randsinrepose.com/archives/shields-down/
 ---
 

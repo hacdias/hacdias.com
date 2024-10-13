@@ -5,12 +5,12 @@ categories:
   - photos
 coverImage: cdn:/2022-07-zeeland
 photos:
-  - url: cdn:/2022-07-zeeland
-    title: Zeeland
-  - url: cdn:/2022-07-gezelligheid
-    title: Gezelligheid
-  - url: cdn:/2022-07-keukenhof
-    title: Keukenhof
+  - title: Zeeland
+    url: cdn:/2022-07-zeeland
+  - title: Gezelligheid
+    url: cdn:/2022-07-gezelligheid
+  - title: Keukenhof
+    url: cdn:/2022-07-keukenhof
 ---
 
 <style>

@@ -1,15 +1,15 @@
 ---
 title: When Does Abroad Stop Feeling Like Abroad?
 date: 2024-01-10T18:33:27.841874546+01:00
-coverImage: cdn:/2024-01-sun-bench
 categories:
   - articles
+coverImage: cdn:/2024-01-sun-bench
+syndication:
+  - https://fosstodon.org/@hacdias/111732926348776375
 tags:
   - government
   - identity
   - reflection
-syndication:
-  - https://fosstodon.org/@hacdias/111732926348776375
 ---
 
 The title of this post is just a question I added to my [impossible list](/impossible-list/) back in September 2022. It has been sitting there since. After making a little cleanup to the page today, I thought: I really want to develop this feeling a bit more, and explain it better, as well as how I feel in this moment regarding my plans for "living abroad".

@@ -1,15 +1,15 @@
 ---
 title: Achieved Dutch Language Level B2
 date: 2024-07-23T19:11:38+02:00
-coverImage: cdn:/2024-07-staatsexamen-nt2-b2
 categories:
-- articles
-tags:
-- dutch
-- languages
-- learning
+  - articles
+coverImage: cdn:/2024-07-staatsexamen-nt2-b2
 syndication:
-- https://fosstodon.org/@hacdias/112837460150479515
+  - https://fosstodon.org/@hacdias/112837460150479515
+tags:
+  - dutch
+  - languages
+  - learning
 ---
 
 Vandaag heb ik de uitslag van mijn Staatsexamen Nederlands als tweede taal ontvangen en ik ben geslaagd! Ik heb officieel Nederlands niveau B2. Volgens de [ERK](https://nl.wikipedia.org/wiki/Gemeenschappelijk_Europees_referentiekader) (Europees Referentiekader) ben ik nu een "onafhankelijke taalgebruiker".

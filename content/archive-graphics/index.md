@@ -1,7 +1,7 @@
 ---
 title: Graphics Archive
-url: /graphics/archive/
-layout: gallery
-galleryCategory: graphics
 noIndex: true
+galleryCategory: graphics
+layout: gallery
+url: /graphics/archive/
 ---

@@ -4,13 +4,13 @@ description: I'm in my first year of my master's degree. Next year, I am suppose
 date: 2020-10-05T09:00:00+02:00
 categories:
   - articles
+syndication:
+  - https://twitter.com/hacdias/status/1317859153185001474
 tags:
   - reflection
   - university
   - masters
   - thesis
-syndication:
-  - https://twitter.com/hacdias/status/1317859153185001474
 ---
 
 I'm now in my first year of my Master's degree in Computer Science and Engineering which means that next year I am supposed to start (and hopefully finish) my Master's project and thesis. As a consequence of that, I have been thinking a lot about it lately. I don't want to make a rushed choice that will make me work on something I don't enjoy for over half an year.

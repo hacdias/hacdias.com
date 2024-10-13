@@ -2,11 +2,11 @@
 title: Taking an Indefinite Break From Dutch Classes
 date: 2024-07-04T20:00:00+02:00
 categories:
-- articles
+  - articles
 tags:
-- dutch
-- languages
-- learning
+  - dutch
+  - languages
+  - learning
 ---
 
 It's time to take an indefinite break from my Dutch language classes. I have been following Dutch courses since the end of October last year. That is almost eight months. Non stop. Well, I did stop for one to two week breaks between courses, but that was only because of the dates at which the courses started.

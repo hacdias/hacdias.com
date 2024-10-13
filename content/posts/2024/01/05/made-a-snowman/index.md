@@ -3,11 +3,11 @@ title: I Made a Snowman
 date: 2024-01-05T19:36:20.048406809+01:00
 categories:
   - articles
-tags:
-  - fun
 coverImage: cdn:/2024-01-snowman-model
 syndication:
   - https://fosstodon.org/@hacdias/111704795704782212
+tags:
+  - fun
 ---
 
 Until last week, there was an activity at the municipal library where you could make a 3D model of a Christmas tree decoration, and get it 3D printed. I didn't know about it until my partner, who volunteers there, told me. I went!

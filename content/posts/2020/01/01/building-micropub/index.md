@@ -3,12 +3,12 @@ title: Adding Support for Micropub Endpoint
 date: 2020-01-01T23:30:00Z
 categories:
   - articles
+syndication:
+  - https://twitter.com/hacdias/status/1212517049035038720
 tags:
   - indieweb
   - meta
   - personal-website
-syndication:
-  - https://twitter.com/hacdias/status/1212517049035038720
 ---
 
 Recently, I have talked about [restructuring the URLs](/2019/12/28/url-structure) of my website and [adding IndieAuth](/2019/12/30/using-indieauth) so I could use my domain as my main  online identity to login into services. Along those lines, I came across [Micropub](https://www.w3.org/TR/micropub/). In their own words:

@@ -1,7 +1,7 @@
 ---
 title: Bedroom Quotes
-date: 2024-01-12T19:33:38+01:00
 description: Quotes I used to have in my bedroom's wall as a teenager.
+date: 2024-01-12T19:33:38+01:00
 ---
 
 These are some quotes I used to have in the walls of my bedroom in 2016. Each quote occupied a full A4 page. At some point, I ended up removing them. Despite still enjoying them, the choice of having them in my bedroom's walls is dubious.

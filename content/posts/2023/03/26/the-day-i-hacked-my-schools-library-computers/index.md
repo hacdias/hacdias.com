@@ -3,11 +3,11 @@ title: The Day I ”Hacked” My School’s Library Computers
 date: 2023-03-26T14:53:29.237893399+02:00
 categories:
   - articles
+syndication:
+  - https://fosstodon.org/@hacdias/110089813295606267
 tags:
   - story-time
   - school
-syndication:
-  - https://fosstodon.org/@hacdias/110089813295606267
 ---
 
 I haven't written a single article this month. However, I've thought about doing so quite a few times. Despite that, none of the articles I have in my drafts section felt exciting enough to complete. But today I was talking to a friend and I remembered this story I've told a few friends of mine. It's the story of the time I "hacked" my school's library computers. Hacked... with quotes.

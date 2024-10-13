@@ -1,12 +1,12 @@
 ---
-title: 'Vergeet niet om in te checken (V)'
+title: Vergeet niet om in te checken (V)
 date: 2024-04-10T20:30:00+02:00
-language: nl
 categories:
-- articles
+  - articles
+language: nl
 tags:
-- inchecken
-- nederlands
+  - inchecken
+  - nederlands
 ---
 
 Welkom bij de vijfde deel van deze serie: vergeet niet om in te checken. Vandaag ga ik een beetje praten over mijn nieuwe en toekomstige Nederlandse lessen, Nederlands schrijven, en ietsjes anders.

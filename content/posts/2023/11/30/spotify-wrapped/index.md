@@ -1,12 +1,12 @@
 ---
-title: "Spotify Wrapped '23"
+title: Spotify Wrapped '23
 date: 2023-11-30T08:14:33+01:00
 categories:
-- articles
-tags:
-- spotify-wrapped
+  - articles
 syndication:
-- https://fosstodon.org/@hacdias/111498275850620866
+  - https://fosstodon.org/@hacdias/111498275850620866
+tags:
+  - spotify-wrapped
 ---
 
 James [shared](https://jamesg.blog/2023/11/29/spotify-wrapped/) his Spotify Wrapped and prompted others to do the same. Usually, I would wait for the beginning of January to also collect my Last.fm data, but I can do that later and still include Spotify's information there.

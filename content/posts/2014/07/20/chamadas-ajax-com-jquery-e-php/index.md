@@ -4,11 +4,11 @@ description: Efetuar pedidos POST e GET utilizando a função ajax do jQuery e r
 date: 2014-07-20T10:41:11Z
 categories:
   - articles
+language: pt
 tags:
   - php
   - javascript
   - portuguese
-language: pt
 ---
 
 A biblioteca [jQuery](http://jquery.com/) é das mais conhecidas e utilizadas em JavaScript. Com esta biblioteca podemos proceder a chamadas **ajax** muito facilmente através de poucas linhas de código.

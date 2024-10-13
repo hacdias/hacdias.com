@@ -1,10 +1,10 @@
 ---
-title: "Recently in May '24"
+title: Recently in May '24
 date: 2024-05-31T15:02:01+02:00
 categories:
-- articles
+  - articles
 tags:
-- now
+  - now
 ---
 
 May is coming to an end. Not that much happened this month, but it was still minimally eventful. I made a few updates to this website, there's some life-related changes and updates regarding my gym journey. Let's dive into it!

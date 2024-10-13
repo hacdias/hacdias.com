@@ -27,4 +27,3 @@ photos:
 .fg-2021-04-30-utrecht-iii > *:nth-child(4) { grid-area: d; }
 .fg-2021-04-30-utrecht-iii > *:nth-child(5) { grid-area: e; }
 </style>
-

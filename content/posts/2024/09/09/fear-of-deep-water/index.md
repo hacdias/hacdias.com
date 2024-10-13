@@ -1,12 +1,12 @@
 ---
 title: Fear of Deep Water
 date: 2024-09-09T17:24:30+02:00
-coverImage: cdn:/2024-09-swimming-pool
 categories:
-- articles
+  - articles
+coverImage: cdn:/2024-09-swimming-pool
 tags:
-- reflection
-- sports
+  - reflection
+  - sports
 ---
 
 Swimming. An activity that can be very relaxing, and, at the same time, straining and very good for your body. Since I was a kid, I’ve always had a complicated relationship with swimming. I enjoy the process of swimming, and I can swim, but as soon as the body of water is deeper than my height, it’s a hard no-go.
@@ -34,4 +34,3 @@ So I'm thinking about taking swimming lessons, especially to get comfortable in 
 It feels weird to do swimming lessons as an adult, a bit embarrassing even, especially when everyone around me can swim. But if you look at the stats, you'll see that 40-55% of adults don't know how to swim (ranging from study to study). So it's actually not out of the ordinary. I just happened to come from a sea-side country to another sea-side country and therefore the majority of people in both countries know how to swim.
 
 I have just payed the registration fee for the classes. Just the process of filling the form and making the payment made me feel nervous. I really hope that this will help, since I have fond memories from the swimming club and I think it'd be a nice addition to going to the gym.
-
