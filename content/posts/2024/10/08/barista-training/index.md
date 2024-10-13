@@ -10,7 +10,7 @@ syndication:
 tags:
   - coffee
   - espresso coffee
-  - workshop
+  - workshops
 ---
 
 Saturday we participated in a home barista training session at the headquarters of [Lucifer Coffee Roasters](https://lucifercoffee.com/), here in Eindhoven. That's also where they roast their beans. I was quite looking forward to it and I'm very glad I joined. It gave us the opportunity to learn more about the world of espresso, and do our first ☕️ cupping.

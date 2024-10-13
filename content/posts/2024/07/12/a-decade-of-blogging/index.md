@@ -5,7 +5,7 @@ categories:
   - articles
 tags:
   - meta
-  - milestone
+  - milestones
   - personal website
   - personal growth
 ---

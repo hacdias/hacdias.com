@@ -9,6 +9,7 @@ feedContentWarning: true
 tags:
   - university
   - masters
+  - milestones
 ---
 
 Two days ago I [shared](/2022/11/23/engraving-name-alumni-avenue) that I was able to engrave my name in the Alumni Avenue. I now share some pictures from the graduation ceremony that took place on Monday. During the ceremony, each supervisor makes a little speech about each student. Even though I knew that was a costume here in The Netherlands, I was still surprised by it. I'm now sharing the pictures and video with you. They are, after all, public. I am really glad this chapter is concluded and I'm looking forward for the future.

@@ -8,6 +8,8 @@ syndication:
 tags:
   - work
   - life
+  - reflection
+  - personal growth
 ---
 
 My first full year mark working full time just passed by, and so did my first year working full time remotely. Since this is my first actual job, I can't really compare it with working in-person. Nevertheless, I want to share my experience, as well as some of the things I think might be the pros and the cons.

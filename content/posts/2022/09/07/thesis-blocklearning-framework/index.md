@@ -10,6 +10,7 @@ tags:
   - thesis
   - publications
   - masters
+  - milestones
 ---
 
 My master thesis has been finally published online. It is called _Impact Analysis of Different Consensus, Participant Selection and Scoring Algorithms in Blockchain-based Federated Learning Systems Using a Modular Framework_, and it was supervised by [Nirvana Meratnia](https://research.tue.nl/en/persons/nirvana-meratnia).

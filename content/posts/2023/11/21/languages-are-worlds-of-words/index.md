@@ -8,8 +8,8 @@ syndication:
   - https://fosstodon.org/@hacdias/111450310800798049
 tags:
   - dutch
-  - languages
-  - learning
+  - language learning
+  - reflection
 ---
 
 Learning a new language is interesting. There are new words. New structures. New verbs. New adjectives. New ways of explaining things. New ways of categorising things. New ways of describing things. New ways of thinking.

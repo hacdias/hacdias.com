@@ -7,6 +7,7 @@ categories:
 coverImage: cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5
 tags:
   - travel
+  - christmas
 ---
 
 <style>

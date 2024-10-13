@@ -8,7 +8,6 @@ syndication:
 tags:
   - data
   - automation
-  - integration
   - monitoring
 ---
 

@@ -8,6 +8,9 @@ syndication:
 tags:
   - gym
   - sports
+  - review
+  - data
+  - tracking
 ---
 
 Back in March, I [joined a gym](/2023/03/31/recently/) for the first time. My goal was to be able to overcome some issues I was having, as well as start consistently going to the gym. So I choose to work with a personal trainer to "force" me to go every week, and think of what exercises I have to do. That has worked out well, and I'm quite happy.

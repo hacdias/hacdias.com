@@ -10,6 +10,7 @@ tags:
   - web
   - browsers
   - user agency
+  - standards
 ---
 
 Since a [few months ago](/2023/07/31/recently/), my website has a dark theme. So today I decided to casually open a PR to the [darktheme.club](https://darktheme.club/) website. On this PR, it is asked what mechanism is used to enable the dark mode. I selected JavaScript. It is unfortunate, but it is a reality.

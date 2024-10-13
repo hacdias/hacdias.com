@@ -10,6 +10,10 @@ read:
   pages: 288
   publisher: Public Affairs Books
   uid: isbn:9781610392501
+tags:
+  - review
+  - cultures
+  - personal growth
 ---
 
 A few days ago I started reading this book by Erin Meyer, *The Culture Map*. And,

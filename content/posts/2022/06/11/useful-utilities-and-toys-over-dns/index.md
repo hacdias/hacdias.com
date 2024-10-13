@@ -6,7 +6,7 @@ categories:
   - bookmarks
 tags:
   - terminal
-  - tool
+  - tools
   - dns
   - unix
 wa-bookmark-of: https://web.archive.org/web/20230602021052/https://www.dns.toys/

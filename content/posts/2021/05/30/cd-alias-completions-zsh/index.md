@@ -5,7 +5,7 @@ categories:
   - articles
 tags:
   - terminal
-  - tip
+  - tips
   - software
 ---
 

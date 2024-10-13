@@ -7,7 +7,7 @@ categories:
 tags:
   - fun
   - p2p
-  - tool
+  - tools
 wa-bookmark-of: https://web.archive.org/web/20230607074232/https://ggerganov.github.io/wave-share
 ---
 

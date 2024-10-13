@@ -7,8 +7,8 @@ syndication:
   - https://fosstodon.org/@hacdias/111254553482769587
 tags:
   - dutch
-  - languages
-  - learning
+  - language learning
+  - personal growth
 ---
 
 Learning a new language is though. It is certainly easier for some than for others and there are countless of variables that will change your experience. For the past three years, I have been learning Dutch, which has been quite of a rollercoaster.

@@ -9,6 +9,7 @@ syndication:
 tags:
   - government
   - infrastructure
+  - bureaucracy
 ---
 
 Some time ago, I [wrote an article](/2022/11/08/issues-with-digid-as-foreigner/) where I essentially complained and layed out the issues I have had with the Dutch digital identification (DigiD) system as a foreigner. In the meanwhile, there have been a few minor updates, and some other things that changed in my understanding. Hence, this new article.

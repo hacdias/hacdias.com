@@ -10,6 +10,9 @@ read:
   pages: 176
   publisher: Granta
   uid: isbn:9781846276842
+tags:
+  - review
+  - fantasy
 ---
 
 Very intriguing. It was an enjoyable book to read nevertheless.

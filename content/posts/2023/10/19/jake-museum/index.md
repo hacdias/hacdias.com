@@ -6,6 +6,7 @@ categories:
   - bookmarks
 tags:
   - small web
+  - fun
 wa-bookmark-of: https://web.archive.org/web/20231019115623/https://jake.museum/
 ---
 
