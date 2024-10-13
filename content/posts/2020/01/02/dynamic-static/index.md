@@ -8,7 +8,7 @@ syndication:
 tags:
   - meta
   - indieweb
-  - personal-website
+  - personal website
 ---
 
 After digressing a bit about [building a Micropub](/2020/01/01/building-micropub) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.

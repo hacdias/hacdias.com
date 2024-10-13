@@ -6,7 +6,7 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/111498275850620866
 tags:
-  - spotify-wrapped
+  - spotify wrapped
 ---
 
 James [shared](https://jamesg.blog/2023/11/29/spotify-wrapped/) his Spotify Wrapped and prompted others to do the same. Usually, I would wait for the beginning of January to also collect my Last.fm data, but I can do that later and still include Spotify's information there.

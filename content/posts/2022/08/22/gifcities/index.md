@@ -5,7 +5,7 @@ bookmark-of: https://gifcities.org/
 categories:
   - bookmarks
 tags:
-  - small-web
+  - small web
   - web2
   - gif
 wa-bookmark-of: https://web.archive.org/web/20230617003637/https://gifcities.org/

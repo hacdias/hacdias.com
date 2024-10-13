@@ -5,8 +5,8 @@ categories:
   - articles
 tags:
   - computers
-  - computer-science
-  - fundamentals-of-programming
+  - computer science
+  - fundamentals of programming
 ---
 
 Today we are going to discuss about constants and variables,

@@ -6,7 +6,7 @@ categories:
   - articles
 tags:
   - meta
-  - personal-website
+  - personal website
   - go
 ---
 

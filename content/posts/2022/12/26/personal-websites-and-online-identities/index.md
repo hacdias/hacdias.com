@@ -5,7 +5,7 @@ categories:
   - articles
 tags:
   - reflection
-  - personal-website
+  - personal website
   - indieweb
 ---
 

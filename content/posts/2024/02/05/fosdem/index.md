@@ -5,7 +5,7 @@ categories:
   - articles
 coverImage: cdn:/2024-02-git
 tags:
-  - open-source
+  - open source
   - fosdem
 ---
 

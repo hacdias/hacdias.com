@@ -9,7 +9,7 @@ syndication:
   - https://fosstodon.org/@hacdias/111461634857760294
 tags:
   - indieweb
-  - open-source
+  - open source
   - go
 ---
 

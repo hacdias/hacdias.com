@@ -7,7 +7,7 @@ categories:
 tags:
   - web3
   - indieweb
-  - small-web
+  - small web
   - web2
 wa-bookmark-of: https://web.archive.org/web/20230211093047/https://accordion-druid.tumblr.com/post/685175656750972928/dont-lie-to-me-about-web-20
 ---

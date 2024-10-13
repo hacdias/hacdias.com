@@ -6,7 +6,7 @@ categories:
 tags:
   - meta
   - indieweb
-  - personal-website
+  - personal website
 ---
 
 A few months ago, I released an article where I showed most [versions of my website](/2022/03/25/my-website-before-indieweb) before I started integrating IndieWeb into it. I think it is nice to have an overview of how your website evolved with time. So today I present to you all the major changes to my website after IndieWeb. 

@@ -7,8 +7,8 @@ tags:
   - computers
   - algorithms
   - c
-  - computer-science
-  - fundamentals-of-programming
+  - computer science
+  - fundamentals of programming
 ---
 
 This is the first article of The Fundamentals of Programming Using

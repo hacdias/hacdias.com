@@ -5,8 +5,8 @@ categories:
   - articles
 tags:
   - meta
-  - blog-engine
-  - personal-website
+  - blog engine
+  - personal website
 ---
 
 In April, I squeezed into my monthly [article](/2023/05/01/recently/) that I had come back to Hugo. However, I did not give much context about it. And to continue the "farewell" post saga, here it is. Why did I move back to Hugo? What caused that decision, and how hard was it?

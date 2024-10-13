@@ -9,8 +9,8 @@ syndication:
 tags:
   - git
   - meta
-  - open-source
-  - personal-website
+  - open source
+  - personal website
 ---
 
 For some, it may come as a surprise that my website's source code is not open-source. That hasn't, however, always been the case. Before I [fully switching](/2021/11/19/farewell-hugo-hello-eagle/) to my custom CMS - named Eagle -, it did use to be open-source.

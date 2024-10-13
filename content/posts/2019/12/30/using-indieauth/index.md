@@ -9,7 +9,7 @@ syndication:
 tags:
   - meta
   - indieweb
-  - personal-website
+  - personal website
 ---
 
 This is going to be a quick post — I hope. 

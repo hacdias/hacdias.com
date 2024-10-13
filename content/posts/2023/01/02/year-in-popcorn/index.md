@@ -6,7 +6,7 @@ aliases:
 categories:
   - articles
 tags:
-  - year-in-popcorn
+  - year in popcorn
 ---
 
 <style>

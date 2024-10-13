@@ -9,7 +9,7 @@ syndication:
 tags:
   - meta
   - reflection
-  - year-in-popcorn
+  - year in popcorn
 ---
 
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of

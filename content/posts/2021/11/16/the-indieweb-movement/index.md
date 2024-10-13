@@ -6,6 +6,6 @@ categories:
   - bookmarks
 tags:
   - indieweb
-  - small-web
+  - small web
 wa-bookmark-of: https://web.archive.org/web/20230511192623/https://www.jvt.me/posts/2019/10/20/indieweb-talk/
 ---

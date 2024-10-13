@@ -6,7 +6,7 @@ aliases:
 categories:
   - articles
 tags:
-  - year-in-music
+  - year in music
 ---
 
 <style>

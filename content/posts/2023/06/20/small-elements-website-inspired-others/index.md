@@ -9,7 +9,7 @@ syndication:
 tags:
   - meta
   - indieweb
-  - personal-website
+  - personal website
 ---
 
 Today I bring something not as conventional: a post about certain elements of my website you could say that are inspired or borrowed from other websites. Things that I found fascinating and included in my website too over the time. Let's go!
