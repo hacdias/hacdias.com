@@ -6,7 +6,7 @@
       "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/753c453c33972e7baccb4c0597eb674d177ccd0109789d50f3b27a0b9e5d15ac.jpg",
       "authorUrl": "https://fosstodon.org/@hacdias",
       "date": "2024-08-20T16:10:17Z",
-      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112395008906650178/112995219406317611",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112758171014792096/112995219406317611",
       "type": "reply"
     },
     {
@@ -15,7 +15,7 @@
       "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/753c453c33972e7baccb4c0597eb674d177ccd0109789d50f3b27a0b9e5d15ac.jpg",
       "authorUrl": "https://fosstodon.org/@hacdias",
       "date": "2024-07-11T08:19:43Z",
-      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112395008906650178/112766876640623650",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112758171014792096/112766876640623650",
       "type": "reply"
     },
     {
@@ -24,7 +24,7 @@
       "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/486b6b8e74fd6e751725c947b995d6f3e1a8904bff4fe690baa1563e5485d184.jpg",
       "authorUrl": "https://mastodon.social/@Kovah",
       "date": "2024-07-11T07:28:34Z",
-      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112395008906650178/112766675554140579",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112758171014792096/112766675554140579",
       "type": "reply"
     },
     {
@@ -33,7 +33,7 @@
       "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/753c453c33972e7baccb4c0597eb674d177ccd0109789d50f3b27a0b9e5d15ac.jpg",
       "authorUrl": "https://fosstodon.org/@hacdias",
       "date": "2024-07-10T07:09:30Z",
-      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112395008906650178/112760938220218016",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112758171014792096/112760938220218016",
       "type": "reply"
     },
     {
@@ -42,35 +42,25 @@
       "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/b1d8044a42e2c0c39f13e3efbb279bae688b4c1c3c953dc762494f9bd13f0c1e.jpg",
       "authorUrl": "https://j7s.me/@j7s",
       "date": "2024-07-10T05:47:16Z",
-      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112395008906650178/112760614855055455",
-      "type": "reply"
-    },
-    {
-      "content": "It’s now time to share a bit of my thoughts after a month and a few days at the new place 😃 https://hacdias.com/2024/07/09/thoughts-after-one-month-working-on-site/ Thoughts After One Month Working On-site - Henrique Dias",
-      "author": "Henrique Dias",
-      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/753c453c33972e7baccb4c0597eb674d177ccd0109789d50f3b27a0b9e5d15ac.jpg",
-      "authorUrl": "https://fosstodon.org/@hacdias",
-      "date": "2024-07-09T19:25:46Z",
-      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112395008906650178/112758171014792096",
-      "type": "reply"
-    },
-    {
-      "content": "What a journey… I’m excited to hear what’s next and wish you all the best for your new job!",
-      "author": "Jan-Lukas Else",
-      "authorPhoto": "https://webmention.io/avatar/jlelse.blog/19f2fafbdb19f3e5addb86026dc15d7c05df8ae2c5c900fe622e73998b08a0e1.jpg",
-      "authorUrl": "https://jlelse.blog/",
-      "date": "2024-05-06T18:14:00+02:00",
-      "url": "https://jlelse.blog/micro/2024/05/2024-05-06-siebw",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112758171014792096/112760614855055455",
       "type": "reply"
     }
   ],
   "interactions": [
     {
+      "author": "James Van Dyne",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/e561e9c23c95f372ba77c724ed5a6092501ca6b2b2cae8b84a7256b9393fca0e.jpg",
+      "authorUrl": "https://indieweb.social/@jamesvandyne",
+      "date": "2024-10-08T15:48:41Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/112758171014792096/109302438956144071",
+      "type": "like"
+    },
+    {
       "author": "Jan-Lukas Else",
-      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/70e8fb1225ff3cd8880026c391ed227281103b2e13e02cf2d9aab47fb2e35e33.jpg",
-      "authorUrl": "https://fosstodon.org/@jle",
-      "date": "2024-10-08T15:48:35Z",
-      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/112395008906650178/327512",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/b1d8044a42e2c0c39f13e3efbb279bae688b4c1c3c953dc762494f9bd13f0c1e.jpg",
+      "authorUrl": "https://j7s.me/@j7s",
+      "date": "2024-10-08T15:48:40Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/112758171014792096/112398173954220628",
       "type": "like"
     }
   ]

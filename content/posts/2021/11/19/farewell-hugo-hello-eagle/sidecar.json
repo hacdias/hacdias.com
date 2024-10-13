@@ -10,8 +10,9 @@
     },
     {
       "content": "Congratulations on the successful launch of Eagle v2, Henrique! 🎉 Welcome to the club of “I have developed my completely own CMS”. 😂",
-      "author": "jlelse’s Blog",
-      "authorUrl": "https://jlelse.blog",
+      "author": "Jan-Lukas Else",
+      "authorPhoto": "https://webmention.io/avatar/jlelse.blog/19f2fafbdb19f3e5addb86026dc15d7c05df8ae2c5c900fe622e73998b08a0e1.jpg",
+      "authorUrl": "https://jlelse.blog/",
       "date": "2021-11-19T13:14:35+01:00",
       "url": "https://jlelse.blog/micro/2021/11/hacdias-eagle-v2",
       "type": "reply"

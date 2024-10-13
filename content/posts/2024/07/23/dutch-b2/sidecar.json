@@ -1,0 +1,58 @@
+{
+  "replies": [
+    {
+      "content": "@thorgal bedankt :D",
+      "author": "Henrique Dias",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/753c453c33972e7baccb4c0597eb674d177ccd0109789d50f3b27a0b9e5d15ac.jpg",
+      "authorUrl": "https://fosstodon.org/@hacdias",
+      "date": "2024-08-19T06:23:28Z",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112837460150479515/112987249599601609",
+      "type": "reply"
+    },
+    {
+      "content": "@hacdias een dikke proficiat! Welverdiend!",
+      "author": "Thor Galle",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/9b243b28d0aa7bc3f6bce07a56d524a7676931d2e7045e345143c695315206fe.jpg",
+      "authorUrl": "https://indieweb.social/@thorgal",
+      "date": "2024-08-18T21:28:26Z",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112837460150479515/112985145776649740",
+      "type": "reply"
+    },
+    {
+      "content": "@j7s thanks :)",
+      "author": "Henrique Dias",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/753c453c33972e7baccb4c0597eb674d177ccd0109789d50f3b27a0b9e5d15ac.jpg",
+      "authorUrl": "https://fosstodon.org/@hacdias",
+      "date": "2024-07-23T20:21:15Z",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112837460150479515/112837661494898352",
+      "type": "reply"
+    },
+    {
+      "content": "@hacdias Congrats! 🥳",
+      "author": "Jan-Lukas Else",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/b1d8044a42e2c0c39f13e3efbb279bae688b4c1c3c953dc762494f9bd13f0c1e.jpg",
+      "authorUrl": "https://j7s.me/@j7s",
+      "date": "2024-07-23T20:05:09Z",
+      "url": "https://brid.gy/comment/mastodon/@hacdias@fosstodon.org/112837460150479515/112837598254679721",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": "Jan-Lukas Else",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/b1d8044a42e2c0c39f13e3efbb279bae688b4c1c3c953dc762494f9bd13f0c1e.jpg",
+      "authorUrl": "https://j7s.me/@j7s",
+      "date": "2024-10-08T15:48:30Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/112837460150479515/112398173954220628",
+      "type": "like"
+    },
+    {
+      "author": "juni",
+      "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/c3ed05c2ad4f5cf190b70826a95fb899594915b6280e13952d0ae05cf0505b93.jpg",
+      "authorUrl": "https://mastodon.sdf.org/@juni",
+      "date": "2024-10-08T15:48:30Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/112837460150479515/110929135745363500",
+      "type": "like"
+    }
+  ]
+}
