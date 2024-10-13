@@ -6,8 +6,8 @@ categories:
 syndication:
   - https://twitter.com/hacdias/status/1212881805096996864
 tags:
-  - meta
   - indieweb
+  - meta
   - personal website
 ---
 

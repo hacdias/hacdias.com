@@ -11,9 +11,9 @@ read:
   publisher: Porto Editora
   uid: isbn:9789720048820
 tags:
-  - review
   - fantasy
   - literature
+  - review
 ---
 
 Today, I finished reading "O Ano da Morte de Ricardo Reis" (*The Year of The Death of Ricardo Reis* in English) by José Saramago, while on a train from Den Haag to Eindhoven, after visiting the Portuguese embassy.

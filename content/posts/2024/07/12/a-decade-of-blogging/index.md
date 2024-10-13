@@ -6,8 +6,8 @@ categories:
 tags:
   - meta
   - milestones
-  - personal website
   - personal growth
+  - personal website
 ---
 
 Today is the 12th of July. For most people, this date doesn't say much, but it marks the anniversary of this website, counting from the first ever blog post I wrote here. And... that was ten years ago, in 2014. Yes, gentle reader, this website is now officially a decade old!

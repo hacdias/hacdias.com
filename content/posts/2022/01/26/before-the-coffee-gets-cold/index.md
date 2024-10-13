@@ -11,8 +11,8 @@ read:
   publisher: Picador
   uid: isbn:9781529029581
 tags:
-  - review
   - fantasy
+  - review
 ---
 
 Just finished reading "Before the coffee gets cold" by Toshikazu Kawaguchi. It is, yet again, a book that falls into the magical realism domain. In this book, the story takes place in a little café in Tokyo. In this café, there is a special seat where people can seat and travel in time.

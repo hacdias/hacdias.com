@@ -7,6 +7,6 @@ coverImage: cdn:/2020-09-cloudy-eye
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

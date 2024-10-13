@@ -7,6 +7,6 @@ coverImage: cdn:/2021-04-starry-sky
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

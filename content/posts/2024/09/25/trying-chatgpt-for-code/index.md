@@ -4,8 +4,8 @@ date: 2024-09-25T17:14:04+02:00
 categories:
   - articles
 tags:
-  - machine learning
   - artificial intelligence
+  - machine learning
   - tool
 ---
 

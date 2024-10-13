@@ -5,9 +5,9 @@ categories:
   - graphics
 coverImage: https://cdn.hacdias.com/media/2019-04-bedroom-lamp.gif
 tags:
-  - pixel art
-  - creative
   - art
+  - creative
+  - pixel art
 ---
 
 A bedroom lamp pixel art thingy I did back in April 2019.

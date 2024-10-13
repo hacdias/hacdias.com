@@ -5,8 +5,8 @@ bookmark-of: https://randsinrepose.com/archives/bored-people-quit/
 categories:
   - bookmarks
 tags:
-  - work
   - people
+  - work
 wa-bookmark-of: https://web.archive.org/web/20231207194705/https://randsinrepose.com/archives/bored-people-quit/
 ---
 

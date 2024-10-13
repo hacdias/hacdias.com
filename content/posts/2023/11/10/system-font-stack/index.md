@@ -5,8 +5,8 @@ bookmark-of: https://systemfontstack.com/
 categories:
   - bookmarks
 tags:
-  - web
   - fonts
+  - web
 wa-bookmark-of: https://web.archive.org/web/20231110161631/https://systemfontstack.com/
 ---
 

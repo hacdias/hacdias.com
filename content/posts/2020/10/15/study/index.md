@@ -7,6 +7,6 @@ coverImage: cdn:/2020-10-study-desk
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

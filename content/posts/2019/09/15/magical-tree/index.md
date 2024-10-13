@@ -7,6 +7,6 @@ coverImage: cdn:/2019-09-magical-tree
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

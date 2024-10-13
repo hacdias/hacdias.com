@@ -5,8 +5,8 @@ bookmark-of: http://annas-blog.org/putting-5,998,794-books-on-ipfs.html
 categories:
   - bookmarks
 tags:
-  - ipfs
   - archive
+  - ipfs
   - preservation
 wa-bookmark-of: https://web.archive.org/web/20230610234800/https://annas-blog.org/putting-5,998,794-books-on-ipfs.html
 ---

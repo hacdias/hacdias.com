@@ -12,8 +12,8 @@ read:
   publisher: Ballantine Books
   uid: isbn:9780099430896
 tags:
-  - review
   - fantasy
+  - review
 ---
 
 This is an unusual post: today I did not finish a book, but I decided to consciously stop reading it.

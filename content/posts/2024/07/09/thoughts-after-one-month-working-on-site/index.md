@@ -6,9 +6,9 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/112758171014792096
 tags:
-  - work
-  - reflection
   - personal growth
+  - reflection
+  - work
 ---
 
 Two months ago I [announced](/2024/05/06/leaving-the-interplanetary-journey/) I was leaving my previous job, a completely remote position, for a on-site position. This is my first on-site position, since my previous job was also my first and only job until now. It's been now a bit more than a month, and I have some thoughts I would like to share.

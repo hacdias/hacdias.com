@@ -5,8 +5,8 @@ date: 2019-08-07T18:45:00Z
 categories:
   - articles
 tags:
-  - ipfs
   - dns
+  - ipfs
   - meta
   - web3
 ---

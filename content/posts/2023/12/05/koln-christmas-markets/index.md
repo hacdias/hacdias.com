@@ -7,8 +7,8 @@ coverImage: cdn:/2023-12-koln-rudolfplatz
 syndication:
   - https://fosstodon.org/@hacdias/111527722896952176
 tags:
-  - travel
   - christmas
+  - travel
 ---
 
 Last year, Chris and I visited Aachen's Christmas market and I [wrote](/2022/12/22/aachen-weihnachtsmarkt/) a bit about it. In the article, I mentioned I was looking forward to similar adventures. Well, it has happened! Last weekend, we went to Köln to visit some of its Christmas markets, and it was amazing!

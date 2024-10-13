@@ -11,8 +11,8 @@ read:
   publisher: Granta
   uid: isbn:9781783785698
 tags:
-  - review
   - fantasy
+  - review
 ---
 
 Terrifying, disgusting, unexpected.

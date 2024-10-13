@@ -6,8 +6,8 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/111805226174007741
 tags:
-  - data
   - automation
+  - data
   - monitoring
 ---
 

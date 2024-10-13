@@ -4,9 +4,9 @@ date: 2022-11-08T23:50:15.28719991+01:00
 categories:
   - articles
 tags:
+  - bureaucracy
   - government
   - infrastructure
-  - bureaucracy
 ---
 
 When Wouter [published](https://brainbaking.com/post/2022/11/governmental-infrastructure-website-design-mistakes/) an article on government website design mistakes, I immediately thought: I have a very similar topic in the back of my mind that has bothered me since I moved to The Netherlands. It is not related to a website per se, but to a service that is used to login into many public services: the [DigiD](https://www.digid.nl/).

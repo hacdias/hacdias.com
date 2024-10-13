@@ -6,8 +6,8 @@ categories:
 coverImage: https://cdn.hacdias.com/media/2019-04-common-room-lamps.gif
 tags:
   - art
-  - pixel art
   - creative
+  - pixel art
 ---
 
 Blinking lamps circa April 2019.

@@ -11,8 +11,8 @@ read:
   publisher: Random House Books
   uid: isbn:9780593357460
 tags:
-  - review
   - fantasy
+  - review
 ---
 
 I am marking this book as "finished" since I have no plans on reading the remaining stories in the near future.

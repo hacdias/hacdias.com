@@ -8,9 +8,9 @@ feedContentWarning: true
 syndication:
   - https://fosstodon.org/@hacdias/110323610429118818
 tags:
-  - trains
-  - museums
   - infrastructure
+  - museums
+  - trains
 ---
 
 <style>

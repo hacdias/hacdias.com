@@ -8,9 +8,9 @@ coverImage: https://cdn.hacdias.com/media/2020-04-pixel-house.gif
 syndication:
   - https://twitter.com/hacdias/status/1247801115342540800
 tags:
-  - pixel art
-  - creative
   - art
+  - creative
+  - pixel art
 ---
 
 I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it.

@@ -6,8 +6,8 @@ categories:
   - articles
 language: pt
 tags:
-  - php
   - javascript
+  - php
   - portuguese
 ---
 

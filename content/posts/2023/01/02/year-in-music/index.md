@@ -6,8 +6,8 @@ aliases:
 categories:
   - articles
 tags:
-  - year in music
   - spotify wrapped
+  - year in music
 ---
 
 <style>

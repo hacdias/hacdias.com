@@ -7,6 +7,6 @@ coverImage: cdn:/2020-08-christian
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

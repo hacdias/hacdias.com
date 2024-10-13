@@ -6,8 +6,8 @@ bookmark-of: https://sadgrl.online/cyberspace/webrings.html
 categories:
   - bookmarks
 tags:
-  - webring
   - small web
+  - webring
 wa-bookmark-of: https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings.html
 ---
 

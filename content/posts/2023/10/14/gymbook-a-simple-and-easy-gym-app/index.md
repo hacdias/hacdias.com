@@ -6,10 +6,10 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/111240325222416783
 tags:
-  - gym
-  - sports
-  - review
   - data
+  - gym
+  - review
+  - sports
   - tracking
 ---
 

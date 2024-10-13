@@ -4,9 +4,9 @@ date: 2024-10-13T00:04:56.619584432+02:00
 categories:
   - articles
 tags:
-  - reflection
   - identity
   - personal growth
+  - reflection
 ---
 
 In a few weeks I will be turning 25 years old. That's an interesting number: it's a quarter of a century, and it also feels like a pivotal moment in one's life: the middle of one's third decade, now closer to the beginning of the fourth decade than the end of the second decade. Instead of having a mid-life crisis, I decided to reflect a bit on the idea of getting older, but more importantly belonging.

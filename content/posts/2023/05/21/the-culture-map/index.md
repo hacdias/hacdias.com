@@ -11,9 +11,9 @@ read:
   publisher: Public Affairs Books
   uid: isbn:9781610392501
 tags:
-  - review
   - cultures
   - personal growth
+  - review
 ---
 
 A few days ago I started reading this book by Erin Meyer, *The Culture Map*. And,

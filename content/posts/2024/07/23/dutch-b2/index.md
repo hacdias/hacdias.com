@@ -9,8 +9,8 @@ syndication:
 tags:
   - dutch
   - language learning
-  - personal growth
   - milestones
+  - personal growth
 ---
 
 Vandaag heb ik de uitslag van mijn Staatsexamen Nederlands als tweede taal ontvangen en ik ben geslaagd! Ik heb officieel Nederlands niveau B2. Volgens de [ERK](https://nl.wikipedia.org/wiki/Gemeenschappelijk_Europees_referentiekader) (Europees Referentiekader) ben ik nu een "onafhankelijke taalgebruiker".

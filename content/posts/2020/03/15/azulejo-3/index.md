@@ -7,6 +7,6 @@ coverImage: cdn:/2020-03-azulejo-heart
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

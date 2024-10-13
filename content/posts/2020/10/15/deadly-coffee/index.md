@@ -7,6 +7,6 @@ coverImage: cdn:/2020-10-deadly-coffee
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

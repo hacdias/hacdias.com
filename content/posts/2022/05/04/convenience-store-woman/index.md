@@ -11,8 +11,8 @@ read:
   publisher: Granta
   uid: isbn:9781846276842
 tags:
-  - review
   - fantasy
+  - review
 ---
 
 Very intriguing. It was an enjoyable book to read nevertheless.

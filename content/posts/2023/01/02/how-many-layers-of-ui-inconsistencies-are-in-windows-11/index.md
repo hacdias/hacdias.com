@@ -5,8 +5,8 @@ bookmark-of: https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-
 categories:
   - bookmarks
 tags:
-  - windows
   - gui
+  - windows
 wa-bookmark-of: https://web.archive.org/web/20230611001138/https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/
 ---
 

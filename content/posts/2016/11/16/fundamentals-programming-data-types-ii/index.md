@@ -4,9 +4,9 @@ date: 2016-11-16T00:00:00Z
 categories:
   - articles
 tags:
-  - data types
   - c
   - computer science
+  - data types
   - fundamentals of programming
 ---
 

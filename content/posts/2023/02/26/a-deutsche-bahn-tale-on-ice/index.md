@@ -6,10 +6,10 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/109932662144169291
 tags:
-  - transit
   - infrastructure
-  - travel
   - trains
+  - transit
+  - travel
 ---
 
 Last month, I traveled from The Netherlands 🇳🇱 to Switzerland 🇨🇭 by train. More specifically, I traveled from Eindhoven to Engelberg, which is a small alpine town in the centre of Switzerland. When I wrote this post for the first time, it was mostly a rant, but now that some time has passed, I decided to rewrite it and finally publish it.

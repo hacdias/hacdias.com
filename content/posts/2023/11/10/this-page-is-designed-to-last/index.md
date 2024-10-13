@@ -6,8 +6,8 @@ categories:
   - bookmarks
 tags:
   - archive
-  - web
   - preservation
+  - web
 wa-bookmark-of: https://web.archive.org/web/20231110161439/https://jeffhuang.com/designed_to_last/
 ---
 

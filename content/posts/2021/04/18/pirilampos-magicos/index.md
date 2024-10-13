@@ -7,8 +7,8 @@ categories:
 coverImage: https://cdn.hacdias.com/media/2019-04-pirilampos.gif
 tags:
   - art
-  - pixel art
   - creative
+  - pixel art
 ---
 
 Found this beautiful Pirilampos Mágicos (magical fireflies) from April 2019.

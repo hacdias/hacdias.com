@@ -6,9 +6,9 @@ categories:
   - articles
 language: pt
 tags:
-  - php
   - html
   - mysql
+  - php
   - portuguese
 ---
 

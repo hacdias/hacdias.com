@@ -4,8 +4,8 @@ date: 2016-11-11T00:00:00Z
 categories:
   - articles
 tags:
-  - computers
   - computer science
+  - computers
   - fundamentals of programming
 ---
 

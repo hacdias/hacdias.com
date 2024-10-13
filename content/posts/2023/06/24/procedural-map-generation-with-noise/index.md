@@ -11,8 +11,8 @@ feedContentWarning: true
 syndication:
   - https://fosstodon.org/@hacdias/110598001232151147
 tags:
-  - creative
   - art
+  - creative
   - javascript
 ---
 

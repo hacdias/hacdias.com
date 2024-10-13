@@ -5,8 +5,8 @@ bookmark-of: https://messwithdns.net/
 categories:
   - bookmarks
 tags:
-  - tools
   - dns
   - networking
+  - tools
 wa-bookmark-of: https://web.archive.org/web/20230615200256/https://messwithdns.net/
 ---

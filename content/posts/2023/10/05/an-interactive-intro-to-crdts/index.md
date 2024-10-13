@@ -5,8 +5,8 @@ bookmark-of: https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
 categories:
   - bookmarks
 tags:
-  - distributed
   - conflict resolution
+  - distributed
 wa-bookmark-of: https://web.archive.org/web/20231012143610/https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
 ---
 

@@ -8,8 +8,8 @@ feedContentWarning: true
 syndication:
   - https://twitter.com/hacdias/status/1361206419266154499
 tags:
-  - javascript
   - art
+  - javascript
   - mathematics
 ---
 

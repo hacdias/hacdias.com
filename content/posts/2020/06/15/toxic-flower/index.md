@@ -7,6 +7,6 @@ coverImage: cdn:/2020-06-toxic-flower
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

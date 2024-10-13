@@ -7,6 +7,6 @@ coverImage: cdn:/2020-04-withchs-hut
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

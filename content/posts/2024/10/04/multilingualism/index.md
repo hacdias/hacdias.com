@@ -6,8 +6,8 @@ categories:
 syndication:
   - https://news.indieweb.org/en
 tags:
-  - indieweb
   - identity
+  - indieweb
   - multilingualism
 ---
 

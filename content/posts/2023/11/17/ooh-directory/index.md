@@ -5,8 +5,8 @@ bookmark-of: https://ooh.directory/
 categories:
   - bookmarks
 tags:
-  - small web
   - personal website
+  - small web
 ---
 
 A collection of, at the moment, over 2000 blogs, spread across different topics.

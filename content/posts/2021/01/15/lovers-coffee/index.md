@@ -7,6 +7,6 @@ coverImage: cdn:/2021-01-lovers-coffee
 tags:
   - art
   - creative
-  - procreate
   - drawing
+  - procreate
 ---

@@ -7,10 +7,10 @@ categories:
 syndication:
   - https://twitter.com/hacdias/status/1317859153185001474
 tags:
-  - reflection
-  - university
   - masters
+  - reflection
   - thesis
+  - university
 ---
 
 I'm now in my first year of my Master's degree in Computer Science and Engineering which means that next year I am supposed to start (and hopefully finish) my Master's project and thesis. As a consequence of that, I have been thinking a lot about it lately. I don't want to make a rushed choice that will make me work on something I don't enjoy for over half an year.

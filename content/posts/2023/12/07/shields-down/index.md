@@ -5,8 +5,8 @@ bookmark-of: https://randsinrepose.com/archives/shields-down/
 categories:
   - bookmarks
 tags:
-  - work
   - people
+  - work
 wa-bookmark-of: https://web.archive.org/web/20231207190947/https://randsinrepose.com/archives/shields-down/
 ---
 
