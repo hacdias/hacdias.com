@@ -5,10 +5,10 @@ categories:
   - photos
 coverImage: cdn:/2021-09-the-student-hotel-ehv
 photos:
-  - url: cdn:/2021-09-the-student-hotel-ehv
-    title: The Student Hotel
-  - url: cdn:/2021-09-staircase-holes
-    title: Staircase Phobia
+  - title: The Student Hotel
+    url: cdn:/2021-09-the-student-hotel-ehv
+  - title: Staircase Phobia
+    url: cdn:/2021-09-staircase-holes
 syndication:
   - https://www.instagram.com/p/CT0QpzQsPiZ/
 ---

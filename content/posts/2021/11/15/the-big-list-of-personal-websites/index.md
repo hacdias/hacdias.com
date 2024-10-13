@@ -5,6 +5,6 @@ bookmark-of: http://biglist.terraaeon.com/
 categories:
   - bookmarks
 tags:
-  - personal-website
-  - small-web
+  - personal website
+  - small web
 ---

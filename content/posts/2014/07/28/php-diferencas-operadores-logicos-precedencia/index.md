@@ -5,10 +5,10 @@ date: 2014-07-28T11:00:32Z
 lastmod: 2015-06-10T15:01:00Z
 categories:
   - articles
+language: pt
 tags:
   - php
   - portuguese
-language: pt
 ---
 
 Há alguns dias publiquei um artigo onde expliquei as [diferenças entre os operadores `==` e `===`](/2014/07/23/diferencas-entre-igual-identico-php). Depois de partilhar esse artigo no Google Plus, a comunidade PHP Brasil sugeriu-me que falasse sobre as diferenças entre os operadores `&&`/`||` e `AND`/`OR`.

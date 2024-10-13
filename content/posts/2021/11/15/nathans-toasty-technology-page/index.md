@@ -5,9 +5,9 @@ bookmark-of: http://toastytech.com/
 categories:
   - bookmarks
 tags:
+  - archive
   - fun
   - historical
-  - archive
   - web
 wa-bookmark-of: https://web.archive.org/web/20230619204740/http://toastytech.com/
 ---

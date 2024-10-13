@@ -3,12 +3,12 @@ title: Webring Directory
 date: 2022-12-14T10:28:43Z
 lastmod: 2023-11-25T10:23:55+01:00
 bookmark-of: https://sadgrl.online/cyberspace/webrings.html
-wa-bookmark-of: https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings.html
 categories:
   - bookmarks
 tags:
+  - small web
   - webring
-  - small-web
+wa-bookmark-of: https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings.html
 ---
 
 A very nice and interesting directory of different webrings. According to Wikipedia:

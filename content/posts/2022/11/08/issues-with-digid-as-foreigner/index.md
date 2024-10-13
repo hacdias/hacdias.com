@@ -4,6 +4,7 @@ date: 2022-11-08T23:50:15.28719991+01:00
 categories:
   - articles
 tags:
+  - bureaucracy
   - government
   - infrastructure
 ---

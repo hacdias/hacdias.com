@@ -5,12 +5,12 @@ categories:
   - photos
 coverImage: cdn:/2023-08-mushrooms-nest
 photos:
-  - url: cdn:/2023-08-mushrooms-nest
-    title: Mushrooms nest laying next to a tree trunk
-  - url: cdn:/2023-08-mushroom
-    title: Lonely mushroom with a bit of water from the rain
-  - url: cdn:/2023-08-slugs
-    title: Slugs
+  - title: Mushrooms nest laying next to a tree trunk
+    url: cdn:/2023-08-mushrooms-nest
+  - title: Lonely mushroom with a bit of water from the rain
+    url: cdn:/2023-08-mushroom
+  - title: Slugs
+    url: cdn:/2023-08-slugs
 ---
 
 <style>

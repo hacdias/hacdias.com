@@ -3,9 +3,9 @@ title: Three-Country Point
 date: 2024-08-30T21:55:09.480810523+02:00
 categories:
   - articles
+coverImage: cdn:/2024-08-drielandenpunt
 tags:
   - travel
-coverImage: cdn:/2024-08-drielandenpunt
 ---
 
 Last weekend - starting on Friday - we went on a small trip to Limburg, the southernmost region of the Netherlands. The initial plan was to bring our bikes and bike to some interesting points in this region. Due to my wrist, we decided it would be better to just walk. I'm so glad we made that decision!

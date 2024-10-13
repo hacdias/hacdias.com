@@ -5,6 +5,6 @@ bookmark-of: https://personalsit.es/
 categories:
   - bookmarks
 tags:
-  - personal-website
-  - small-web
+  - personal website
+  - small web
 ---

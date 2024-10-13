@@ -1,12 +1,12 @@
 ---
-title: 'Vergeet niet om in te checken (VII)'
+title: Vergeet niet om in te checken (VII)
 date: 2024-06-09T13:30:18+02:00
-language: nl
 categories:
-- articles
+  - articles
+language: nl
 tags:
-- inchecken
-- nederlands
+  - inchecken
+  - nederlands
 ---
 
 Welkom bij de zevende deel van deze serie: vergeet niet om in te checken. In deze serie schrijf ik een beetje over mijn leven in het Nederlands. Vandaag gaan we het over mei en een beetje van het begin van juni hebben.

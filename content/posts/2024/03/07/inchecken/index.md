@@ -1,16 +1,16 @@
 ---
-title: 'Vergeet niet om in te checken (IV)'
+title: Vergeet niet om in te checken (IV)
 date: 2024-03-07T11:30:52+01:00
-language: nl
-categories:
-- articles
-tags:
-- inchecken
-- nederlands
-syndication:
-- https://fosstodon.org/@hacdias/112053960697460057
 aliases:
-- /2024/03/07/vergeet-niet-om-in-te-checken-deel-try-lingual/
+  - /2024/03/07/vergeet-niet-om-in-te-checken-deel-try-lingual/
+categories:
+  - articles
+language: nl
+syndication:
+  - https://fosstodon.org/@hacdias/112053960697460057
+tags:
+  - inchecken
+  - nederlands
 ---
 
 Welkom bij de vierde deel van deze serie: vergeet niet om in te checken. Vandaag ga ik een beetje hebben over mijn afgelopen cursus Nederlands, de toekomstige cursussen en mijn plannen, en ook over het proces om hoopelijk drietalig te worden.

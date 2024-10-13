@@ -2,13 +2,13 @@
 title: New Year's Resolutions '16
 description: 2015 has been a very meaningful year. 2016 needs to be better than 2015 and so on. Here are my New Year's resolutions.
 date: 2015-12-31T12:00:00Z
+aliases:
+  - /2015/12/31/new-year-resolutions-2016/
 categories:
   - articles
 tags:
-  - reflection
   - goals
-aliases:
-  - /2015/12/31/new-year-resolutions-2016/
+  - reflection
 ---
 
 One year more has passed. It seems like yesterday I was turning thirteen. Nostalgia. 2015 has been very turbulent and troubled year, but still amazing and meaningful. It has been very antithetical in so many ways I can't tell you. But being that way helped me to grow more than in the years before - growing is a continuous process we should never fear.

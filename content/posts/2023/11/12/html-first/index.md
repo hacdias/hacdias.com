@@ -6,8 +6,8 @@ categories:
   - bookmarks
 tags:
   - archive
-  - preservation
   - html
+  - preservation
 wa-bookmark-of: https://web.archive.org/web/20231112214752/https://html-first.com/
 ---
 

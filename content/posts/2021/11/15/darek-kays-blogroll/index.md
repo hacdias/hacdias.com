@@ -5,6 +5,6 @@ bookmark-of: https://darekkay.com/personal-blogs/
 categories:
   - bookmarks
 tags:
-  - personal-website
-  - small-web
+  - personal website
+  - small web
 ---

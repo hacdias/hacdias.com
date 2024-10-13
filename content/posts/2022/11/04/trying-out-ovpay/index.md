@@ -5,8 +5,8 @@ lastmod: 2022-11-05T08:36:49.865887742+01:00
 categories:
   - articles
 tags:
-  - transit
   - infrastructure
+  - transit
 ---
 
 The Netherlands 🇳🇱 is testing a new payment system for the public transit called [OVPay](https://ovpay.nl/) 💳. The gist is that you'll be able to simply check-in and check-out from buses, trams, trains, and every other kind of transit with your debit or credit card, without needing to either buy a ticket, or have an OV-chipkaart (the public transit card).

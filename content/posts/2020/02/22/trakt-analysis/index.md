@@ -4,12 +4,12 @@ description: I now have a watch log again and decided to analyse 2019's habits o
 date: 2020-02-22T22:05:00Z
 categories:
   - articles
+syndication:
+  - https://twitter.com/hacdias/status/1231484792027348994
 tags:
   - meta
   - reflection
-  - year-in-popcorn
-syndication:
-  - https://twitter.com/hacdias/status/1231484792027348994
+  - year in popcorn
 ---
 
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of

@@ -1,11 +1,11 @@
 ---
 title: When The Rice Isn't Right
 date: 2023-01-28T09:52:50.876860537+01:00
-tags:
-  - story-time
-  - cooking
 categories:
   - articles
+tags:
+  - cooking
+  - story time
 ---
 
 In the beginning of the month, I [wrote](/2023/01/06/when-you-dont-know-the-ingredients) about being a foreigner in the country you're living in, and the struggles we have to find ingredients to make dishes from our home country. It can be so frustrating! And well... it happened again!

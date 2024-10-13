@@ -1,10 +1,10 @@
 ---
-title: "Recently in September '24"
+title: Recently in September '24
 date: 2024-09-30T20:42:02+02:00
 categories:
-- articles
+  - articles
 tags:
-- now
+  - now
 ---
 
 September is now almost gone and we're diving deeper and deeper into the autumn. Despite a few problems here and there, I think it was quite a nice month, and it's important to always try seeing things for their positive side, despite that now always being very easy.

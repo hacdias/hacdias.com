@@ -5,9 +5,9 @@ bookmark-of: http://1997.webhistory.org/
 categories:
   - bookmarks
 tags:
+  - archive
   - fun
   - historical
-  - archive
   - web
 wa-bookmark-of: https://web.archive.org/web/20240323203347/http://1997.webhistory.org/
 ---

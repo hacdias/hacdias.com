@@ -2,10 +2,11 @@
 title: Trying ChatGPT for Code
 date: 2024-09-25T17:14:04+02:00
 categories:
-- articles
+  - articles
 tags:
-- algorithms
-- machine-learning
+  - artificial intelligence
+  - machine learning
+  - tool
 ---
 
 Yesterday I used ChatGPT for the first time. Well, that's not true. Let's rephrase: yesterday I used ChatGPT for the first time *to actually help me complete a task*. A boring tedious task. It did help me complete the task, but I'm still not very convinced on whether it was faster than doing it manually.

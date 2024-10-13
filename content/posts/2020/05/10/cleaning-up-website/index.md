@@ -6,7 +6,7 @@ categories:
   - articles
 tags:
   - meta
-  - personal-website
+  - personal website
 ---
 
 I decided to make a few updates on my website - again. However, this are a bit more than visuals and I'm mostly reinventing the way I manage IndieWeb posts, namely likes, reposts, notes and replies.

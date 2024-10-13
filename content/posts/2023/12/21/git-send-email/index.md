@@ -6,6 +6,7 @@ categories:
   - bookmarks
 tags:
   - git
+  - tools
 wa-bookmark-of: https://web.archive.org/web/20231221121317/https://git-send-email.io/
 ---
 

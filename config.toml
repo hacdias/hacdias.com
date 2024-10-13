@@ -4,7 +4,7 @@ title = 'Henrique Dias'
 rsslimit = 10
 pluralizelisttitles = false
 removePathAccents = true
-capitalizeListTitles = false
+capitalizeListTitles = true
 summaryLength = 300
 
 [pagination]

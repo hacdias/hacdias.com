@@ -6,7 +6,7 @@ categories:
   - bookmarks
 tags:
   - indieweb
-  - small-web
+  - small web
 wa-bookmark-of: https://web.archive.org/web/20230416192549/https://ar.al/2020/08/07/what-is-the-small-web/
 ---
 

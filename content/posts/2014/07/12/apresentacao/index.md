@@ -4,10 +4,10 @@ description: Uma pequena apresentação sobre o blog e sobre o que quero fazer c
 date: 2014-07-12T14:05:48Z
 categories:
   - articles
+language: pt
 tags:
   - meta
   - portuguese
-language: pt
 ---
 
 Olá!

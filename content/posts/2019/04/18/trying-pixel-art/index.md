@@ -6,9 +6,9 @@ lastmod: 2021-09-20T05:53:49.227871757Z
 categories:
   - articles
 tags:
-  - pixelart
   - art
   - creative
+  - pixel art
 ---
 
 Recently I've been wanting to try out more things in my life. Perhaps not recently,

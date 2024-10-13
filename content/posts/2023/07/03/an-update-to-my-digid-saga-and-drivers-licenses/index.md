@@ -4,11 +4,12 @@ date: 2023-07-03T16:38:06+02:00
 lastmod: 2023-07-07T10:35:49+01:00
 categories:
   - articles
-tags:
-  - government
-  - infrastructure
 syndication:
   - https://fosstodon.org/@hacdias/110651139023843183
+tags:
+  - bureaucracy
+  - government
+  - infrastructure
 ---
 
 Some time ago, I [wrote an article](/2022/11/08/issues-with-digid-as-foreigner/) where I essentially complained and layed out the issues I have had with the Dutch digital identification (DigiD) system as a foreigner. In the meanwhile, there have been a few minor updates, and some other things that changed in my understanding. Hence, this new article.

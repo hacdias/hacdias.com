@@ -4,10 +4,10 @@ description: O modelo MVC é algo muito utilizado atualmente. Nesta primeira par
 date: 2014-12-18T22:55:34Z
 categories:
   - articles
+language: pt
 tags:
   - php
   - portuguese
-language: pt
 ---
 
 No último artigo publicado, foi falado acerca do [**Modelo MVC**](/2014/11/22/mvc-uma-breve-explicacao) e sobre aquilo em que este consiste. O Modelo _Model-View-Controller_ é amplamente utilizado nos dias de hoje.

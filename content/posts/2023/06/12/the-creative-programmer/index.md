@@ -13,6 +13,9 @@ read:
   uid: isbn:9781633439054
 syndication:
   - https://fosstodon.org/@hacdias/110530107064412338
+tags:
+  - educational
+  - review
 ---
 
 Last night I thought: tomorrow morning I will finish reading *The Creative Programmer*,

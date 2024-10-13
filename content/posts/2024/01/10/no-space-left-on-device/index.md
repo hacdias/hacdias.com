@@ -5,6 +5,8 @@ categories:
   - articles
 tags:
   - docker
+  - maintenance
+  - tips
 ---
 
 I think that most of us that deal with Docker have, at some point, being confronted with the message "no space left on device". Well, that is what happened to me this morning: I woke up, looked at my phone, and had three alerts since 2am that there was no space left on device. Miniflux was down because PostgreSQL goes automatically into recovery mode, but other that than, everything was still up and running.

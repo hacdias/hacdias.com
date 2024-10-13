@@ -3,11 +3,12 @@ title: 'IndieWeb Carnival: Multilingualism in a Global Web'
 date: 2024-10-04T08:42:35.351682529+02:00
 categories:
   - articles
-tags:
-  - languages
-  - indieweb
 syndication:
   - https://news.indieweb.org/en
+tags:
+  - identity
+  - indieweb
+  - multilingualism
 ---
 
 This is my first time participating in a [IndieWeb Carnival](https://indieweb.org/IndieWeb_Carnival). I had seen this name floating around before, but I have never participated. After reading both [Manuel Moreale's](https://manuelmoreale.com/indieweb-carnival-multilingualism-in-a-global-web) and [Jan-Luka's](https://jlelse.blog/thoughts/2024/10/multilingualism) posts, I got interested, especially due to the topic: multilingualism in a global web. This month's edition is hosted by [ZinRicky](https://tilde.team/~zinricky/multilingualism/).

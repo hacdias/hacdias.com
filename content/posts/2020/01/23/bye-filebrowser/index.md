@@ -4,11 +4,11 @@ description: After 5 years of maintaining this project and failing due to my lim
 date: 2020-01-23T09:10:00Z
 categories:
   - articles
+syndication:
+  - https://twitter.com/hacdias/status/1220274794068959232
 tags:
   - go
   - reflection
-syndication:
-  - https://twitter.com/hacdias/status/1220274794068959232
 ---
 
 In 2015, I started a project called `http.hugo`, which was a just a simple plugin for [Caddy](https://caddyserver.com/), a really fast web server built with Go with automatic HTTPS.  At the time, the plugin was exclusive for Caddy and it provided a simple UI to edit your files in the server, rebuild the website and so on. They were just simple features.

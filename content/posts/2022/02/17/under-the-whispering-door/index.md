@@ -10,6 +10,9 @@ read:
   pages: 373
   publisher: Tor
   uid: isbn:9781529087987
+tags:
+  - fantasy
+  - review
 ---
 
 This book was quite interesting. Similarly to the books I've been reading recently, there's a magical element that makes this book be completely different from what I expected. In a nutshell, there's a man called Wallace that is definitely not a good person. One day, he dies. However, the story tells us what happens after he dies. Of course, I don't want to write spoilers.

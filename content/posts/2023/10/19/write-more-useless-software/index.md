@@ -4,6 +4,8 @@ date: 2023-10-19T11:36:47.832798Z
 bookmark-of: https://ntietz.com/blog/write-more-useless-software/
 categories:
   - bookmarks
+tags:
+  - fun
 wa-bookmark-of: https://web.archive.org/web/20231019113654/https://ntietz.com/blog/write-more-useless-software/
 ---
 

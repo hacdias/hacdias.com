@@ -6,7 +6,7 @@ categories:
   - articles
 tags:
   - meta
-  - personal-website
+  - personal website
 ---
 
 I’m now working on making my website more IndieWeb friendly, which was triggered by my searches after writing my last post about [owning our own data](/2019/12/24/own-your-data). It has been… harder than I though. But in a positive way!

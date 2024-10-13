@@ -1,13 +1,13 @@
 ---
 title: Year in Music '22
 date: 2023-01-02T08:18:47.603761302+01:00
+aliases:
+  - /2023/01/02/year-in-music-22/
 categories:
   - articles
 tags:
-  - year-in-music
-  - spotify-wrapped
-aliases:
-  - /2023/01/02/year-in-music-22/
+  - spotify wrapped
+  - year in music
 ---
 
 <style>

@@ -6,7 +6,7 @@ categories:
   - articles
 tags:
   - meta
-  - personal-website
+  - personal website
 ---
 
 I have moved, again. From now until the end of the times, **coxpe.com** and **henriquedias.com/blog** are gone, and **henriquedias.com** is the unified version of both.

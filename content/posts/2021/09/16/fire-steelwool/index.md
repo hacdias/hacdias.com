@@ -39,4 +39,3 @@ photos:
 </style>
 
 Last night there was an activity by [Dekate Mousa](https://dekatemousa.nl/), where we were able to take some nice pictures of fire breathing and steel wool spinning. I am very sorry that the fire is blown out, but I still like it!
-

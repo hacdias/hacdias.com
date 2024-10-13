@@ -4,11 +4,11 @@ date: 2016-11-10T00:00:00Z
 categories:
   - articles
 tags:
-  - computers
   - algorithms
   - c
-  - computer-science
-  - fundamentals-of-programming
+  - computer science
+  - computers
+  - fundamentals of programming
 ---
 
 This is the first article of The Fundamentals of Programming Using

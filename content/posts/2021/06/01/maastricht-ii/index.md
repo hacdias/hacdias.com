@@ -4,14 +4,14 @@ date: 2021-06-01T00:00:00Z
 categories:
   - photos
 coverImage: cdn:/2021-05-maastricht-07
-syndication:
-  - https://www.instagram.com/p/CO6P31uLDLN/
 photos:
   - url: cdn:/2021-05-maastricht-07
   - url: cdn:/2021-05-maastricht-11
   - url: cdn:/2021-05-maastricht-08
   - url: cdn:/2021-05-maastricht-09
   - url: cdn:/2021-05-maastricht-12
+syndication:
+  - https://www.instagram.com/p/CO6P31uLDLN/
 ---
 
 [Maastricht](/2021/05/31/maastricht-i) turned out to be quite a magical little city close to the border with Belgium. There was a lot of greenery and old buildings.

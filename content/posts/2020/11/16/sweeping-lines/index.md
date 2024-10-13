@@ -5,7 +5,7 @@ categories:
   - articles
 tags:
   - algorithms
-  - computer-science
+  - computer science
 ---
 
 After two months of classes and two weeks of exams, the first quarter of my Master's is finally complete. I can say that 1/8th of my degree is complete. With a new quarter comes new courses. It's been just a week but there is one specific topic that I found quite intriguing: geometric algorithms, specifically sweep line algorithms.

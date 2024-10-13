@@ -1,10 +1,10 @@
 ---
-title: "Recently in January '24"
+title: Recently in January '24
 date: 2024-02-01T09:53:09+01:00
 categories:
-- articles
+  - articles
 tags:
-- now
+  - now
 ---
 
 January was a very busy month, which I did not really expect. More importantly, it's already *gone*. One twelfth of the year has already passed. How crazy is that? Let's quickly dive into the latest events.

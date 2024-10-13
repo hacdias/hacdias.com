@@ -4,8 +4,8 @@ date: 2023-06-14T16:22:58.390314618+02:00
 categories:
   - articles
 tags:
-  - security
   - meta
+  - security
 ---
 
 This is just a quick post to alert that I have changed my PGP key. It doesn't

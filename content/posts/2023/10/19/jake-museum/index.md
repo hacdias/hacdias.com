@@ -5,7 +5,8 @@ bookmark-of: https://jake.museum/
 categories:
   - bookmarks
 tags:
-  - small-web
+  - fun
+  - small web
 wa-bookmark-of: https://web.archive.org/web/20231019115623/https://jake.museum/
 ---
 

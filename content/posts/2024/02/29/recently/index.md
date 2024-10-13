@@ -1,11 +1,11 @@
 ---
-title: "Recently in February '24"
+title: Recently in February '24
 date: 2024-02-29T13:14:18+01:00
-coverImage: cdn:/2024-02-vienna-inception
 categories:
-- articles
+  - articles
+coverImage: cdn:/2024-02-vienna-inception
 tags:
-- now
+  - now
 ---
 
 February is complete. That means that around 16% of the year is also gone. Many things happened this month - I feel like I say this every month though. Let's take a look at everything that happened, from some trips, to my Dutch language course ending.

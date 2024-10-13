@@ -4,10 +4,10 @@ description: No seguimento da criação de uma framework PHP que utilize o model
 date: 2014-12-20T09:00:23Z
 categories:
   - articles
+language: pt
 tags:
   - php
   - portuguese
-language: pt
 ---
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.

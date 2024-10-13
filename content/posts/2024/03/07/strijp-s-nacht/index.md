@@ -1,5 +1,5 @@
 ---
-title: "Strijp-S Nacht"
+title: Strijp-S Nacht
 date: 2024-03-07T19:11:35+01:00
 categories:
   - photos
