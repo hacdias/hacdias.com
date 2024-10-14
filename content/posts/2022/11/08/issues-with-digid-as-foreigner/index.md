@@ -31,9 +31,7 @@ The ICAO Document 9303 specification regulates travel documents, most specifical
 
 In addition, in 2019, the EU approved a new regulation, [2019/1157](https://eur-lex.europa.eu/eli/reg/2019/1157/oj), in order to standardize the look and feel of all identity cards of all EU member states. In this regulation, it states that all new ID cards in the EU must conform to the ICAO Document 9303 standard - Portugal hasn't yet 😭. From 2031 on, all EU ID cards that do not conform with the regulation are invalid.
 
-<style>.sfig { max-width: 25rem }</style>
-
-![Dutch ID Card With New EU Regulation](cdn:/121f64299ad03a7c342bffa231a583caa41d45a8c6bdf8d19cb0c137ee80ad76?class=sfig)
+![Dutch ID Card With New EU Regulation](cdn:/121f64299ad03a7c342bffa231a583caa41d45a8c6bdf8d19cb0c137ee80ad76?class=id-card)
 
 DigiD could let people use ID cards or passports that conform to the ICAO Document 9303 standard for the ID check. However, I understand the problem: the Dutch government would need to keep the number of the ID card or passport registred somewhere in order to know that that ID card is owned by the right person. That is trivial for Dutch citizens as they are in the system. The alternative could be to only check the name and birthday.
 
@@ -43,7 +41,7 @@ Either way, this could still reject people from countries whose ID cards or pass
 
 The alternative to the above solution would be to do something similar to what Belgium does: issue every non-national a residence permit card. Even if they are from the EU. And then let this card be used for ID check and online authentication, just like a regular Dutch citizen ID card.
 
-![Belgian Residence Permit for EU Nationals](cdn:/3899f86140817e7bcbdd4bee580c9ee0e83074ad5fd1a7c42efc78c99a177a31?class=sfig)
+![Belgian Residence Permit for EU Nationals](cdn:/3899f86140817e7bcbdd4bee580c9ee0e83074ad5fd1a7c42efc78c99a177a31?class=id-card)
 
 In addition, this card would also need to be allowed for ID check. Currently, residence permit cards are not valid for performing the ID check in the DigiD app.
 

@@ -8,12 +8,4 @@ This is a portrait of mine done by Gonçalo Dias sometime in 2019 as a gift. Can
 
 <!--more-->
 
-<style>
-.gd-frame {
-  border: 1rem solid var(--dark-gray);
-  max-width: 25rem;
-  box-shadow: var(--fg) 0 7px 27px;
-}
-</style>
-
 ![](/2024/01/12/portrait-by-goncalo-dias/portrait.jpg?class=gd-frame)

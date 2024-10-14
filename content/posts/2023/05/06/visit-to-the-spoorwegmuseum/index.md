@@ -31,19 +31,6 @@ Today, I visited the [Spoorwegmuseum](https://www.spoorwegmuseum.nl/), which lit
 
 <!--more-->
 
-<style>
-:root,
-:root.dark {
-  --c-h: 21;
-  --c-s: 27%;
-  --c-l: 47%;
-}
-
-.grid3 {
-    grid-template-columns: repeat(3, 1fr);
-}
-</style>
-
 In this post, I will share with you some of the information of the museum, as well as some of the pictures I took there. Bear in mind, I'm not going into a lot of technical information, as I also do not know a lot about it. However, I still love trains 🚅.
 
 The Spoorwegmuseum is located in Utrecht, in The Netherlands 🇳🇱. Not only is it easily reachable by train, but it also has its own station. I did not know this the first time visiting. The museum **is** its own station, Utrecht Maliebaan. Every hour, there is a special service train from NS departing from Utrecht Centraal to Utrecht Maliebaan.
@@ -60,7 +47,7 @@ To go from A, Utrecht Centraal, to B, Utrecht Maliebaan, the train has to stop f
 
 Inside the museum, there is a variety of things you can do. We started by taking a look at the trains. Below you can find a collection of some photos of my favorite train heads today. These are all minimally "recent" trains from the last century.
 
-<div class='fw fg grid3'>
+<div class='fw fg fg-3'>
 
 ![](cdn:/2023-05-spoorwegmuseum-ns-20 "NS 20")
 
@@ -117,7 +104,7 @@ Besides seeing old trains, and entering some of them, such as the royal family t
 
 Among these activities is the Stalen Monsters (*Steal Monsters*) ride, De Vuurproef (*Trial By Fire*) and De Grote Ontdekking (*The Great Discovery*). Each one offers you a different kind of thing with its uniqueness and greatness. From a thrilling ride where you go even under a train, to a traveling back to the reconstruction of a town in 1839. Here's some unrelated pictures that I took at the museum:
 
-<div class='fg fw grid3'>
+<div class='fg fw fg-3'>
 
 ![](cdn:/2023-05-spoorwegmuseum-automatiek "Automatiek")
 

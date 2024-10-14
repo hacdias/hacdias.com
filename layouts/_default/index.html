@@ -30,11 +30,6 @@
   {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
   {{- end }}
   {{- template "photos" $favoritePhotos -}}
-  <style>
-  #favourite-captures+.fg>a:nth-child(3) img {
-    object-position: -20px;
-  }
-  </style>
 {{ end }}
 
 {{- define "item" }}

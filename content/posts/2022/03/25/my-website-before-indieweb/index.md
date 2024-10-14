@@ -12,16 +12,6 @@ Since I created this website's [colophon](/about/#colophon) (also known as _meta
 
 <!--more-->
 
-<style>
-figure figcaption {
-  display: none
-}
-
-figure img {
-  border: 1px solid var(--mg);
-}
-</style>
-
 To make this post more bearable - there are a lot of versions! - I decided to split it into two: before IndieWeb and after IndieWeb. I started getting into the IndieWeb back in 2020 and I think it is a good breaking point. Besides, there would be way too many images to put into a single post.
 
 ![2014 Website](cdn:/2022-03-first-website?class=fw "2014 Snapshot From Web Archive")

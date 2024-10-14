@@ -1,0 +1,7 @@
+.top-grid {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.top-grid img {
+  aspect-ratio: 1/1;
+}

@@ -1,0 +1,22 @@
+.small-svg,
+.smaller-svg {
+  text-align: center;
+}
+
+.small-svg img {
+  max-height: 25rem;
+}
+
+.smaller-svg img {
+  max-height: 15rem;
+}
+
+.color {
+  background-color: var(--color);
+  height: 0.8rem;
+  width: 0.8rem;
+  display: inline-block;
+  border: 1px solid var(--dark-gray);
+  margin-right: 0.2rem;
+  margin-bottom: -0.1rem;
+}

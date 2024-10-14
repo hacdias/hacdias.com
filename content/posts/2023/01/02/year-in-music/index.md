@@ -22,19 +22,13 @@ img.cute-listener {
 
 <!--more-->
 
-<style>
-.top-grid img {
-  aspect-ratio: 1/1;
-}
-</style>
-
 I want to preface this article by mentioning that I mostly use [Spotify](https://spotify.com/) to listen to music and [Last.fm](https://www.last.fm/user/hacdias) to track (almost) all of my scrobbles. Last.fm is connected to both Spotify and my browser, such that it also detects any other music I may play through my web browser. I am also the owner of some vinyls, but I don't go through the trouble of adding those scrobbles.
 
 Last.fm has a very nice API that allows me to download all of my history very easily. Even though I use their API to fetch the most data I can about my listening habits, Last.fm also provides a set of statistics on their website. Those statistics are what I am mostly sharing now, since they already provide a very good aggregation of data that I would have to fetch from multiple APIs and then aggregate myself.
 
 ## 🎤 Artists
 
-<div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
+<div class='fg fw top-grid'>
 
 ![](https://cdn.hacdias.com/media/2023-01-year-in-music-years-years.jpeg "Years & Years")
 
@@ -122,7 +116,7 @@ Regarding artists, we see Years & Years, Marina and Lorde at the top, which does
 
 ## 💿 Albums
 
-<div class='fg fw' style='grid-template-columns: repeat(5, 1fr)'>
+<div class='fg fw top-grid'>
 
 ![](https://cdn.hacdias.com/media/2023-01-year-in-music-night-call-deluxe.jpeg "Night Call (Deluxe)")
 

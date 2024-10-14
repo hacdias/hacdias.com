@@ -1,0 +1,21 @@
+:root,
+:root.dark {
+  --c-h: 212;
+  --c-s: 52%;
+  --c-l: 48%;
+}
+
+@media screen and (min-width: 53.001rem) {
+  body {
+    background: var(--c)
+      url(https://cdn.hacdias.com/img/2000/9f501833808d267d595424bc989eeb6227c29b467b232aefe06554c054a31ea8.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  #navbar {
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+}

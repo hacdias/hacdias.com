@@ -15,17 +15,6 @@ A few months ago, I released an article where I showed most [versions of my webs
 
 When I released the other post back in March, I created this one and put it into my drafts. However, it clearly went to oblivion and months went by. Today I checked my drafts page and what I could finish. So, here it is: how my website evolved since I started integrating IndieWeb into it, in 2020!
 
-
-<style>
-figure figcaption {
-  display: none
-}
-
-figure img {
-  border: 1px solid var(--mg);
-}
-</style>
-
 ## 2020
 
 In the beginning of 2020, I released version 11 of my website. It started incorporating the first feature of IndieWeb, namely the notes. It was a very clean, space-filled website. I still enjoy looking at this design.
