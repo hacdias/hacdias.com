@@ -1,0 +1,7 @@
+figure figcaption {
+  display: none;
+}
+
+figure img {
+  border: 1px solid var(--mg);
+}

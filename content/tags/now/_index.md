@@ -13,11 +13,3 @@ aliases:
 
 
 <!--more-->
-
-<style>
-:root {
-  --c-h: 352;
-  --c-s: 70%;
-  --c-l: 60%;
-}
-</style>

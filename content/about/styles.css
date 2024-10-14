@@ -1,0 +1,11 @@
+main header {
+  display: none;
+}
+
+#greetings {
+  display: block;
+  margin: var(--hls) 0;
+  font-size: var(--f1);
+  font-weight: 900;
+  line-height: 1.3;
+}

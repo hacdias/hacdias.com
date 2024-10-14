@@ -21,16 +21,9 @@ img.cute-listener {
 
 <!--more-->
 
-<style>
-.top-grid img {
-  aspect-ratio: 1/1;
-}
-</style>
-
-
 ## 🎤 Artists
 
-<div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
+<div class='fg fw top-grid'>
 
 ![](https://cdn.hacdias.com/media/2022-01-year-in-music-marina.jpeg "Marina")
 
@@ -117,7 +110,7 @@ In 2021, I listened to a lot of songs by Marina, Agnes and Lady Gaga, which are 
 
 ## 💿 Albums
 
-<div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
+<div class='fg fw top-grid'>
 
 ![](https://cdn.hacdias.com/media/2022-01-year-in-music-ancient-dreams-in-a-modern-land.jpeg "Ancient Dreams in a Modern Land")
 

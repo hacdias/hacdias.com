@@ -19,30 +19,6 @@ to collect your history and save it in JSON format.
 
 <!--more-->
 
-<style>
-.small-svg,
-.smaller-svg {
-  text-align: center;
-}
-  
-.small-svg img {
-  max-height: 25rem;
-}
-
-.smaller-svg img {
-  max-height: 15rem;
-}
-
-.color {
-  background-color: var(--color);
-  height: 0.8rem; width: 0.8rem;
-  display: inline-block;
-  border: 1px solid var(--dark-gray);
-  margin-right: 0.2rem;
-  margin-bottom: -0.1rem
-}
-</style>
-
 The Trakt API gives you so much information about every episode and every movie: from the title,
 to the rating, description, channel where it aired, when it aired first, the countries where it aired,
 etc, etc. I don't actually need all that information, but it's never too much to store.

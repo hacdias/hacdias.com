@@ -15,14 +15,8 @@ relatively fast and it was quite packed with some events, both regarding persona
 the weather is definitely getting so much better than a few months ago.
 
 <!--more-->
-<style>
-figure.round {
-  max-width: 13rem;
-  overflow: hidden;
-}
-</style>
 
-<figure class='right br round'>
+<figure class='right br video-ambiance'>
   <video autoplay muted loop controls>
     <source src="https://cdn.hacdias.com/media/2023-04-ambiance-bus-stop.mp4" type="video/mp4">
   </video>

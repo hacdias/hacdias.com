@@ -14,29 +14,6 @@ I haven't written a single article this month. However, I've thought about doing
 
 <!--more-->
 
-<style>
-  :root,
-  :root.dark {
-    --c-h: 212;
-    --c-s: 52%;
-    --c-l: 48%;
-  }
-
-  @media screen and (min-width: 53.001rem) {
-  body {
-    background: var(--c) url(https://cdn.hacdias.com/img/2000/9f501833808d267d595424bc989eeb6227c29b467b232aefe06554c054a31ea8.jpeg);
-    background-attachment: fixed;
-    background-size: cover;
-  }
-
-  #navbar {
-    border-radius: 0;
-    border-left: none;
-    border-right: none;
-  }
-}
-</style>
-
 This story brings us back when I still lived in an extremely small town and had to travel 40 km roundtrip every day, for eight years, just to go to school. I was probably around 13 or 14 and, for some reason, I was interested in simulating the infamous Blue Screen of Death (BSOD) from Windows. Specifically, the Windows 9x styled one.
 
 ![Modern Simulation of Windows 95 BSOD](cdn:/a16e74e3834cfd712ccf540f6009c0850d7f116723169875f2a9aaa9231f1208?class=fw+pixelated)

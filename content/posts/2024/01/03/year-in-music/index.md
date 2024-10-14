@@ -21,16 +21,9 @@ img.cute-listener {
 
 Firstly, some quick statistics: in 2023, I scrobbled **19 256** times, with an average of **52** scrobbles per day. In total, I listened to **42 days, 7 hours** of music. My most popular genres, from the most popular to the least popular, are pop, electronic, indie, dutch, rock and dance. I noticed I listened to less music according to Last.fm. However, I've also listened to way more physical media, which is not tracked.
 
-<style>
-.top-grid img {
-  aspect-ratio: 1/1;
-}
-</style>
-
-
 ## 🎤 Artists
 
-<div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
+<div class='fg fw top-grid'>
 
 ![](https://cdn.hacdias.com/media/2024-01-froukje.jpeg "Froukje")
 
@@ -118,7 +111,7 @@ This year, there's quite a change on my top artists. My top 10 is now dominated 
 
 ## 💿 Albums
 
-<div class='fg fw top-grid' style='grid-template-columns: repeat(5, 1fr)'>
+<div class='fg fw top-grid'>
 
 ![](https://cdn.hacdias.com/media/2024-01-endless-summer-vacations.jpeg "Endless Summer Vacation")
 

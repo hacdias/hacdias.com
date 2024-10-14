@@ -13,15 +13,6 @@ The Netherlands 🇳🇱 is testing a new payment system for the public transit 
 
 <!--more-->
 
-<style>
-:root,
-:root.dark {
-  --c-h: 336;
-  --c-s: 100%;
-  --c-l: 50%;
-}
-</style>
-
 If you know me, it's possible that you know that I have a thing for everything related to public transit, payment methods and just facilitating the usage of payment systems. Therefore, it probably doesn't surprise you that I've been an avid follower of all news regarding this new payment system for the public transit.
 
 An interesting thing about the Dutch transit system is that it is all integrated under the same payment system, now known as OV-chipkaart. The OV-chipkaart works in all public transit across the entire country and using it, even without a subscription, lets you travel by public transit with cheaper fares than if you were to buy a ticket in the bus, or tram.
