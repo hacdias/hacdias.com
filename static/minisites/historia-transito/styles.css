@@ -5,15 +5,9 @@
 body {
   padding: 1rem;
   margin: 0;
-  font-family: Iowan Old Style,
-    Apple Garamond, Baskerville,
-    Times New Roman,
-    Droid Serif, Times,
-    Source Serif Pro,
-    serif,
-    Apple Color Emoji,
-    Segoe UI Emoji,
-    Segoe UI Symbol;
+  font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman,
+    Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
   background: #fdfdfd;
 }
 
@@ -34,10 +28,21 @@ img {
 }
 
 figure {
-  margin: 0
+  margin: 0;
 }
 
 figcaption {
   min-height: 2rem;
   font-size: 0.9rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #111;
+    color: #eee;
+  }
+
+  a {
+    color: lightskyblue;
+  }
 }
