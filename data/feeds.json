@@ -161,11 +161,6 @@
       "feed": "https://rustybever.be/index.xml"
     },
     {
-      "title": "Jethro Kuan",
-      "site": "https://blog.jethro.dev/",
-      "feed": "https://blog.jethro.dev/index.xml"
-    },
-    {
       "title": "Jim Nielsen",
       "site": "https://blog.jim-nielsen.com",
       "feed": "https://blog.jim-nielsen.com/feed.xml"
@@ -364,11 +359,6 @@
       "title": "Zack Scholl",
       "site": "https://schollz.com/",
       "feed": "https://schollz.com/index.xml"
-    },
-    {
-      "title": "beepb00p",
-      "site": "https://beepb00p.xyz",
-      "feed": "https://beepb00p.xyz/rss.xml"
     },
     {
       "title": "gRegor Morrill",
