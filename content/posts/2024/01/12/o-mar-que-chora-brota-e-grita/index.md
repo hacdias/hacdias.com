@@ -2,6 +2,8 @@
 title: O Mar Que Chora, Brota e Grita
 date: 2024-01-12T21:01:04+01:00
 language: pt
+categories:
+  - articles
 tags:
   - poetry
   - portuguese
