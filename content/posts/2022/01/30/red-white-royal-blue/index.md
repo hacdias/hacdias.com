@@ -19,8 +19,4 @@ Just finished reading the romance "Red, White and Royal Blue" from Casey McQuist
 
 It is quite an interesting read and I was very curious because I've never read that many books with any LGBTQ representation. It was also oddly interesting how most of the story revolved around the First Son's mom campaign to re-election and how the whole situation developed around that.
 
-It was fast paced and one of those books I felt like I wanted to read until the end as fast as I could because I was curious. Well... I enjoyed it.
-
-_**Notes from 27 January 2022**_
-
-So far, slightly different than what I was expecting. However, I’m enjoying it pretty much.
+When I started reading it, I thought: slightly different from what I was expecting, but nevertheless I'm enjoying it very much. It was a fast paced and one of those books I felt like I wanted to read until the end as fast as I could because I was curious. So, it didn't disappoint and I enjoyed it.

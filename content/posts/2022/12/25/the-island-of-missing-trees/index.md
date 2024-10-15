@@ -22,11 +22,11 @@ After taking around 6 months to read this book, I do recommend it. It is a very 
 
 Here are some citations:
 
-> I am a Ficus carica, known as the edible common fig, though I can assure you there’s nothing common about me.
+> I am a *Ficus carica*, known as the edible common fig, though I can assure you there’s nothing common about me.
 
 > They know, deep within, that when you save a fig tree from a storm, it is someone’s memory you are saving.
 
-> I know what you are thinking. How could I, an ordinary Ficus carica, possibly be in love with a Homo sapiens? I get it, I’m no beauty.
+> I know what you are thinking. How could I, an ordinary *Ficus carica*, possibly be in love with a Homo sapiens? I get it, I’m no beauty.
 
 > Adam and Eve yielded to the allure of a fig, the fruit of temptation, desire and passion, not some crunchy apple.
 

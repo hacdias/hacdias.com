@@ -19,7 +19,7 @@ Today, I finished reading "The House in the Cerulean Sea" by TJ Klune and I was 
 
 > "Don't you wish you were here?"
 
-In the world portraited by this book, there are people with magical abilities. To some extent, some are not even human. To give this children "proper" education, and since most do not have known parents, they are given to special orphanages.
+In the world portrayed by this book, there are people with magical abilities. To some extent, some are not even human. To give this children "proper" education, and since most do not have known parents, they are given to special orphanages.
 
 This book follows the life of Linus baker, an employee of the Department of Magical Youth, who is assigned on a mission to investigate a specific orphanage. This orphanage has very unique children living on it, and... more I will not say. I want my reviews to be spoilerless. 
 
