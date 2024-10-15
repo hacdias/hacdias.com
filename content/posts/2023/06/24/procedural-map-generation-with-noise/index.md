@@ -196,6 +196,3 @@ function biome (e) {
 You could certainly play with this to make the rendered maps look more or less realistic. For example, you could generate a gradient between two colors that are between two values in order to create a smooth ocean surface.
 
 Well, I do hope you have enjoyed this article as much as I did enjoy revitalizing this hidden piece of code. I've also [written](https://github.com/hacdias/mapgen) a similar version of this in Go back in 2018. Also, I am aware this might not be the most performant code! [Let me know](/contact) if it takes too long to render 🗺️ on your machine. For me it's less than 150ms, which is fine for the article I would say.
-
-<script src="./perlin.js"></script>
-<script src="./script.js"></script>

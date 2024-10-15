@@ -50,3 +50,11 @@
     </ul>
   </footer>
 {{ end }}
+
+{{ with sort (.Resources.Match "*.js") }}
+  <script>
+  {{ range . }}
+    {{ .Content | safeJS }}
+  {{ end }}
+  </script>
+{{ end }}
