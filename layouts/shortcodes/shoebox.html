@@ -3,7 +3,7 @@
   {{- range index .Site.Data.shoeboxes (.Get 0) }}
     <li>
       <a href='{{ relURL .url }}' class='box'>
-        <h2>{{ .title }} {{ .Title }}</h2>
+        <h2>{{ .title }}</h2>
         <p>{{ .description }}</p>
       </a>
     </li>
