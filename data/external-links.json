@@ -1718,20 +1718,6 @@
     ]
   },
   {
-    "domain": "beepb00p.xyz",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/29/how-to-annotate-literally-everything/",
-        "targetUrl": "https://beepb00p.xyz/annotating.html"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://beepb00p.xyz"
-      }
-    ]
-  },
-  {
     "domain": "bosch-ebike.com",
     "count": 2,
     "links": [
@@ -2704,6 +2690,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://herman.bearblog.dev/"
+      }
+    ]
+  },
+  {
+    "domain": "beepb00p.xyz",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/29/how-to-annotate-literally-everything/",
+        "targetUrl": "https://beepb00p.xyz/annotating.html"
       }
     ]
   },
@@ -3694,16 +3690,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/11/10/this-page-is-designed-to-last/",
         "targetUrl": "https://jeffhuang.com/designed_to_last/"
-      }
-    ]
-  },
-  {
-    "domain": "jethro.dev",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://blog.jethro.dev/"
       }
     ]
   },

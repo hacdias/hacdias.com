@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: 'Dertigers: de Kerstfilm'
+  rating: 3
+  date: 2024-10-14
 - name: 'Joker: Folie à Deux'
   rating: 3
   date: 2024-10-13
