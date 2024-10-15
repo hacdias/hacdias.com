@@ -21,6 +21,6 @@ It is quite an interesting read and I was very curious because I've never read t
 
 It was fast paced and one of those books I felt like I wanted to read until the end as fast as I could because I was curious. Well... I enjoyed it.
 
-**Update: 27 January 2022**
+_**Notes from 27 January 2022**_
 
 So far, slightly different than what I was expecting. However, I’m enjoying it pretty much.

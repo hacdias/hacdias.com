@@ -25,12 +25,12 @@ Overall it was a nice book with a very interesting concept. Yet, not my favorite
 
 Tot ziens!
 
-**Update: 02 February 2022, Late Night**
+_**Notes from 02 February 2022, Late Night**_
 
 Today I “read” part of the book by listening to its audiobook version while cooking and doing the dishes and I must say that I enjoyed the experience. It’s a bit annoying afterwards to find where I am in the actual book but I leverage the fact that this book has short “chapters“. 
 
 Anyways, I’m enjoying the book slightly more now. I still think it’s probably not the type of book I’d have picked up if it wouldn’t have been so recommended. When I get to the end, I’ll share my feelings more in depth. Maybe they’ll change!
 
-**Update: 02 February 2022, Morning**
+_**Notes from 02 February 2022, Morning**_
 
 This book has been slightly different than I expected. Maybe I didn’t have time to dive deep into it. Tonight I’ll reserve an hour or two to read a bit more.
