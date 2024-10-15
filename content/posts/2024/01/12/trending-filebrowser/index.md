@@ -2,6 +2,8 @@
 title: Trending File Browser
 description: The unexpected moment when an open-source side-project was trending in GitHub in 2017.
 date: 2024-01-12T20:05:59+01:00
+categories:
+  - articles
 tags:
   - milestones
   - open source
