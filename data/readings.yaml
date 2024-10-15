@@ -97,6 +97,20 @@ read:
     uid: isbn:9781786071958
     date: 2023-01-20
     rating: 5
+  - author: Sayaka Murata
+    name: Earthlings
+    pages: 247
+    publisher: Granta
+    uid: isbn:9781783785698
+    date: 2022-05-30
+    rating: 4
+  - author: Sayaka Murata
+    name: Convenience Store Woman
+    pages: 176
+    publisher: Granta
+    date: 2022-05-04
+    uid: isbn:9781846276842
+    rating: 4
   - name: The Alchemist
     author: Paulo Coelho
     uid: isbn:9780007155668
