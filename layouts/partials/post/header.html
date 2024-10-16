@@ -2,13 +2,28 @@
 {{- with .Page -}}
   {{- $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) -}}
   {{- $bookmark := index .Params "bookmark-of" -}}
+  {{- $read := index .Params "read" -}}
   {{- $header := "1" -}}
   {{- if $isListing }}{{ $header = "2"  }}{{ end -}}
   <header>
     {{- if $bookmark -}}
       <h{{ $header }} class='bookmark'>
         <a href="{{ $bookmark }}" rel='noopener noreferrer' title="{{ .Title }}" class="h-cite u-bookmark-of nl">{{- .Title -}}</a>
-        <span class='lg wn'>({{ (urls.Parse $bookmark).Host }})</span>
+        <span class='lg wn'>via {{ (urls.Parse $bookmark).Host }}</span>
+      </h{{ $header }}>
+    {{- else if $read -}}
+      <h{{ $header }}>
+        {{- if $isListing -}}
+          <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">
+            <span class="h-cite p-read-of">
+              <span class='p-name'>{{- .Title -}}</span>
+              <span class='lg wn'>by <span class='p-author'>{{ .Params.read.author }}</span></span>
+            </span>
+          </a>
+        {{ else }}
+          <span class='p-name'>{{- .Title -}}</span>
+          <span class='lg wn'>by {{ .Params.read.author }}</span>
+        {{ end }}
       </h{{ $header }}>
     {{- else if .Title -}}
       <h{{ $header }} class='p-name'>
@@ -23,7 +38,10 @@
       <a href="{{ .RelPermalink }}" class="nl">
         {{- if not .Date.IsZero -}}
           <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-            {{ if $bookmark }}Bookmarked{{ else }}Published{{ end }}
+            {{ if $bookmark }}Bookmarked
+            {{ else if $read }}Read
+            {{ else }}Published
+            {{ end }}
             on {{ .Date.Format "2 January 2006" }}
           </time>
         {{- end -}}
