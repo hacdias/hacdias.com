@@ -6,10 +6,4 @@
   {{ end }}
 {{ end }}
 
-{{ with (index .Params "bookmark-of") }}
-  {{ $name = printf "Bookmarked \"%s\" via %s" $.Title ((urls.Parse .).Host) }}
-{{ else with .Params.read }}
-  {{ $name = printf "Read \"%s\" by %s" $.Title .author }}
-{{ end }}
-
 {{ return $name }}
