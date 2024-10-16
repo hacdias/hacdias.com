@@ -39,11 +39,8 @@ Last, but not least, I **publish** my GPG public keys to:
 
 ## 💻 SSH {#ssh}
 
-<div class="box">
-
 Since 4th of July of 2022, I stopped using SSH via GPG. Now, I use non-resident, FIDO2 keys.
-
-</div>
+{.box}
 
 Currently, I use SSH via GPG. To achieve this, I follow the guide mentioned [above](#gpg). In the future, however, I am planning to change my setup to non-resident, FIDO2 keys. As of the date of this post, not enough places support them yet to make me change.
 

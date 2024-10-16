@@ -7,8 +7,6 @@ This website contains more things than it looks at first glance. This page conta
 
 <!--more-->
 
-<div id='more-list' class='terms'>
-
 - [🔖 Bookmarks](/bookmarks/)
 - [🗞️ Blogroll](/blogroll/)
 - [🖼️ Graphics](/graphics/)
@@ -19,8 +17,7 @@ This website contains more things than it looks at first glance. This page conta
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
-
-</div>
+{.terms #more-list}
 
 ## 🗞️ Feeds {#feeds}
 

@@ -514,7 +514,7 @@ main pre {
   margin-bottom: 0;
 }
 
-.terms ul {
+.terms {
   list-style-type: none;
   padding: 0;
   display: grid;
@@ -629,8 +629,7 @@ main pre {
   font-weight: 400;
 }
 
-ul.tb,
-.tb ul {
+.tb {
   padding: 0;
   margin: 0;
   list-style-type: none;

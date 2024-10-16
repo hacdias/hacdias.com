@@ -1,13 +1,13 @@
 {{ $pages := partial "fns/group-date-year" .Data }}
 {{ range $pages.years }}
-  <section class='tb{{ with $.Class }} {{ . }}{{ end }}'>
+  <section>
     {{ $year := . }}
     {{ $pages := index $pages.map $year }}
 
     <h3 class='tbh' id='{{ $year }}'>{{ if eq $year "others" }}Others{{ else }}{{ $year }}{{ end }} <small class='lg'>({{ len $pages }} entries)</small></h3>
 
     {{ with $pages }}
-      <ul>
+      <ul class='tb{{ with $.Class }} {{ . }}{{ end }}'>
         {{ range . }}
           <li>
             <span>
