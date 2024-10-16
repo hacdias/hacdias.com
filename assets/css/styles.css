@@ -283,7 +283,8 @@ main header p {
   font-style: italic;
 }
 
-main footer li {
+main footer li,
+main .tb.p-read-of li {
   grid-template-columns: 6rem auto;
 }
 
@@ -631,9 +632,12 @@ main pre {
 
 .tb {
   padding: 0;
-  margin: 0;
   list-style-type: none;
   line-height: 1.25;
+}
+
+.tbh + .tb {
+  margin: 0;
 }
 
 .tb li {
@@ -658,10 +662,6 @@ main pre {
 
 .tb li > *:first-child {
   font-weight: 600;
-}
-
-.box.tb {
-  padding: 0;
 }
 
 .box.tb li {
