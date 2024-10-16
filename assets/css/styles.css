@@ -53,17 +53,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui,
-    helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+    helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial,
+    sans-serif;
 }
 
 code,
 kbd,
 samp,
 pre {
-  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console,
+    monospace;
 }
 
-:not(pre)>code {
+:not(pre) > code {
   border-radius: calc(var(--radius) / 2);
   padding: 1px 2px;
   background: var(--mg);
@@ -80,7 +82,7 @@ img {
 img.emoji {
   height: 1em;
   width: 1em;
-  margin: 0 .05em 0 .1em;
+  margin: 0 0.05em 0 0.1em;
   vertical-align: -0.1em;
 }
 
@@ -111,7 +113,7 @@ h5 {
 }
 
 h1 {
-  font-size: var(--f1)
+  font-size: var(--f1);
 }
 
 h2 {
@@ -151,7 +153,7 @@ li {
 }
 
 ::marker {
-  color: var(--c)
+  color: var(--c);
 }
 
 .nl,
@@ -189,7 +191,7 @@ li {
 input,
 select,
 textarea {
-  padding: .5rem;
+  padding: 0.5rem;
   border: 1px solid var(--fg);
   outline: 0;
   min-width: 0;
@@ -278,7 +280,7 @@ main header h1.bookmark {
 }
 
 main header p {
-  margin: .25em 0;
+  margin: 0.25em 0;
   font-weight: 500;
   font-style: italic;
 }
@@ -459,7 +461,7 @@ details summary {
 .terms a,
 .terms a:visited,
 .card .more,
-.highlight>pre,
+.highlight > pre,
 main pre {
   border: var(--border) solid var(--fg);
   background-color: var(--mg);
@@ -473,7 +475,7 @@ main pre {
   border: var(--border) solid var(--fg);
 }
 
-.card>* {
+.card > * {
   padding: 0 var(--ms);
 }
 
@@ -481,12 +483,12 @@ main pre {
   margin: var(--ms) 0;
 }
 
-.card>div>.fw:last-child,
-.card>div>.fw:last-child figure {
+.card > div > .fw:last-child,
+.card > div > .fw:last-child figure {
   margin-bottom: 0;
 }
 
-.card>div>.fw {
+.card > div > .fw {
   width: calc(100% + 2 * var(--ms));
   margin-left: calc(var(--ms) * -1);
 }
@@ -507,11 +509,11 @@ main pre {
   margin: 1rem 0;
 }
 
-.box>*:first-child {
+.box > *:first-child {
   margin-top: 0;
 }
 
-.box>*:last-child {
+.box > *:last-child {
   margin-bottom: 0;
 }
 
@@ -541,13 +543,13 @@ main pre {
 }
 
 #navbar a:hover,
-#navbar a[aria-current="page"],
+#navbar a[aria-current='page'],
 .terms a:hover,
 .card .more:hover {
   background-color: var(--fg);
 }
 
-.highlight>pre,
+.highlight > pre,
 main pre {
   overflow: auto;
   padding: var(--ms);
@@ -612,7 +614,7 @@ main pre {
 
 .tab {
   font-variant-numeric: tabular-nums;
-  letter-spacing: -.012em;
+  letter-spacing: -0.012em;
   white-space: pre;
 }
 
@@ -687,12 +689,12 @@ main pre {
   background-color: var(--fg);
 }
 
-.pagination a[aria-disabled="true"] {
+.pagination a[aria-disabled='true'] {
   cursor: not-allowed;
   opacity: 0.5;
 }
 
-.pagination a[aria-current="page"] {
+.pagination a[aria-current='page'] {
   background-color: var(--fg);
   font-weight: 700;
 }
@@ -731,7 +733,7 @@ main pre {
 }
 
 /* This can likely be improved. */
-.dark .highlight>pre code > span,
+.dark .highlight > pre code > span,
 .dark main pre code > span {
   color: #212121;
   filter: invert(1);
@@ -782,7 +784,7 @@ main pre {
 
   #navbar,
   #navbar label,
-  #toggler:checked+#navbar a {
+  #toggler:checked + #navbar a {
     display: block;
     text-align: left;
   }
