@@ -17,6 +17,8 @@ tags:
 
 Today, I finished reading "O Ano da Morte de Ricardo Reis" (*The Year of The Death of Ricardo Reis* in English) by José Saramago, while on a train from Den Haag to Eindhoven, after visiting the Portuguese embassy.
 
+<!--more-->
+
 Having read "Memorial do Convento" (*Baltasar and Blimunda* in English) by José Saramago in the past, his writing style was not unexpected. However, it has been a long time since I read so that made it harder than I expected. Saramago disregards normal punctuation rules and only uses commas and dots. There are a lot of other quirks here and there.
 
 "O Ano da Morte de Ricardo Reis" is supposed to be one of his best works. For those who know him, Ricardo Reis is one of the many heteronyms of Fernando Pessoa, a Portuguese poet. Therefore, I recommend you to have some background on him before reading this book.

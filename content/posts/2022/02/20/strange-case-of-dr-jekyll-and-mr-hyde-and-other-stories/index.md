@@ -17,6 +17,8 @@ tags:
 
 When I bought this book, I didn't notice it had "other stories" in the title. Not only does the book contain 7 other stories from Robert Louis Stevenson, but it also includes biographical and bibliographical information about the author.
 
+<!--more-->
+
 Nevertheless, the goal with this book was to read the story "Strange Case of Dr Jekyll and Mr Hyde". I will keep the book and maybe in the future I will decide to read the other stories. Or... who knows... maybe I'll enjoy it so much that I will want to read the other stories. At least, that's what I thought when I bought it.
 
 Just finished the first story, "The Strange Case of Dr Jekyll and Mr Hyde". I've had this story in my queue to read for a long time and that's the main reason why I bought this book - I missed the "other stories" part. 
