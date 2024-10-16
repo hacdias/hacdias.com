@@ -90,10 +90,6 @@ img.emoji {
   display: inline-block;
 }
 
-figure {
-  margin: var(--ms) 0;
-}
-
 audio,
 video,
 figure img {
@@ -469,7 +465,6 @@ main pre {
 }
 
 .card {
-  margin: var(--ms) 0;
   overflow: hidden;
   border-radius: var(--radius);
   border: var(--border) solid var(--fg);
@@ -477,10 +472,6 @@ main pre {
 
 .card > * {
   padding: 0 var(--ms);
-}
-
-.card header {
-  margin: var(--ms) 0;
 }
 
 .card > div > .fw:last-child,
@@ -506,7 +497,6 @@ main pre {
 
 .box {
   padding: var(--hms) var(--ms);
-  margin: 1rem 0;
 }
 
 .box > *:first-child {
@@ -672,6 +662,17 @@ main pre {
 
 .box.tb li:hover {
   background-color: var(--fg);
+}
+
+.tb,
+.box,
+.fg,
+.terms,
+.card,
+.card header,
+figure,
+.pagination {
+  margin: var(--ms) 0;
 }
 
 .pagination {
