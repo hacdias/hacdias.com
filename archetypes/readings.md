@@ -1,10 +1,9 @@
 ---
-title: Read "Name" by Author
+title: Name
 date: {{ .Date }}
 categories:
 - readings
 read:
-  name: Name
   author: Author
   publisher: Publisher
   pages: 999999

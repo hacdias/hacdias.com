@@ -1,12 +1,11 @@
 ---
-title: Read "Before the coffee gets cold" by Toshikazu Kawaguchi
+title: Before the coffee gets cold
 date: 2022-01-26T21:13:15.710026895+01:00
 categories:
   - readings
 rating: 5
 read:
   author: Toshikazu Kawaguchi
-  name: Before the coffee gets cold
   pages: 213
   publisher: Picador
   uid: isbn:9781529029581

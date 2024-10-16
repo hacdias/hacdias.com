@@ -1,12 +1,11 @@
 ---
-title: Read "The House in the Cerulean Sea" by TJ Klune
+title: The House in the Cerulean Sea
 date: 2022-01-22T22:02:22.969462984Z
 categories:
   - readings
 rating: 5
 read:
   author: TJ Klune
-  name: The House in the Cerulean Sea
   pages: 400
   publisher: Tor UK
   uid: isbn:9781529087949

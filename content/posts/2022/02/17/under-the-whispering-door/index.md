@@ -1,12 +1,11 @@
 ---
-title: Read "Under the Whispering Door" by TJ Klune
+title: Under the Whispering Door
 date: 2022-02-17T19:15:27.009814848+01:00
 categories:
   - readings
 rating: 4
 read:
   author: TJ Klune
-  name: Under the Whispering Door
   pages: 373
   publisher: Tor
   uid: isbn:9781529087987

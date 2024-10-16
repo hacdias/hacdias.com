@@ -1,12 +1,11 @@
 ---
-title: Half-read "Strange Case of Dr Jekyll and Mr Hyde and Other Stories" by Robert Louis Stevenson
+title: Strange Case of Dr Jekyll and Mr Hyde and Other Stories
 date: 2022-02-20T19:06:51.132363451+01:00
 categories:
   - readings
 rating: 3
 read:
   author: Robert Louis Stevenson
-  name: Strange Case of Dr Jekyll and Mr Hyde and Other Stories
   pages: 221
   publisher: Alma Books
   uid: isbn:9781847493781

@@ -1,5 +1,5 @@
 ---
-title: Half-read "If on a Winter's Night a Traveller" by Italo Calvino
+title: If on a Winter's Night a Traveller
 date: 2023-08-23T20:13:25+02:00
 categories:
   - readings
@@ -7,7 +7,6 @@ rating: 3
 read:
   author: Italo Calvino
   date: 2023-08-09T00:00:00Z
-  name: If on a Winter's Night a Traveller
   pages: 272
   publisher: Ballantine Books
   uid: isbn:9780099430896

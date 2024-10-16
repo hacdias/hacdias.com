@@ -8,7 +8,7 @@
   }}
   {{ if .Params.read }}
     {{ $log = $log | merge (dict
-      "name" .Params.read.name
+      "name" .Title
       "author" .Params.read.author
     ) }}
   {{ else }}
