@@ -10,4 +10,8 @@
   {{ $name = printf "Bookmarked \"%s\"" $name }}
 {{ end }}
 
+{{ if index .Params "read" }}
+  {{ $name = printf "Read \"%s\"" $name }}
+{{ end }}
+
 {{ return $name }}
