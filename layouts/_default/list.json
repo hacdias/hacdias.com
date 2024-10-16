@@ -21,7 +21,14 @@
       "summary": {{ .Summary | jsonify }},
       "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
       "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }},
-      "content_html": {{ partialCached "post/feed-content" . .Permalink | jsonify }}
+      "content_html": {{ partialCached "post/feed-content" . .Permalink | jsonify }}{{ with .Params.tags }},
+      "tags": [
+        {{ range $i, $t := sort . -}}
+          {{- if ne $i 0 }}, {{ end -}}
+          {{ $page := $.Page.Site.GetPage (printf "/tags/%s" $t) }}
+          "{{ $page.Title }}"
+        {{- end -}}
+      ]{{ end }}
     }
     {{ end }}
   ]

@@ -30,6 +30,7 @@
     {{- with partialCached "post/feed-content" . .Permalink }}
       {{ printf `<content type="html"><![CDATA[%s]]></content>` . | safeHTML }}
     {{- end }}
+    {{ range .Params.tags }}<category term="{{ ($.Page.Site.GetPage (printf "/tags/%s" .)).Title }}"/>{{ end }}
   </entry>
   {{ end }}
 </feed>
