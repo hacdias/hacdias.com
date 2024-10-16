@@ -9,8 +9,6 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 ## 📟 Hardware {#hardware}
 
-<div class='box tb'>
-
 - **Laptop** <span>2021 MacBook Pro 14"</span>
 - **Smartphone** <span>iPhone 14 Pro</span>
 - **Watch** <span>Apple Watch Series 9</span>
@@ -22,16 +20,13 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **Auth Device** <span>YubiKeys for 2FA, GPG and SSH</span>
 - **Wallet** <span>Secrid for my cards and spare bills</span>
 - **Keychain** <span>Orbitkey Key Organizer</span>
-
-</div>
+{.box .tb}
 
 ### 🏡 Home {#home}
 
 ![Desk at Home](cdn:/2024-06-desk-home?class=fw)
 
 At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
-
-<div class='box tb'>
 
 - **Desk** <span>Ahrend Balance Solo (Electric, 120 x 80)</span>
 - **Chair** <span>Zinn Smart</span>
@@ -42,20 +37,16 @@ At home I also have a desk with some things. This desk is used by my partner or 
 - **Laptop Stand** <span>Rain mStand, Roost V3</span>
 - **Dock** <span>CalDigit TS4</span>
 - **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
-
-</div>
+{.box .tb}
 
 ### 📷 Photography {#photography}
 
 In the photography department, I currently own a Fuji X-T5. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
-<div class='box tb'>
-
 - **Camera** <span>Fujifilm X-T5</span>
 - **Lenses** <span>XF 16-50mm f/2.8-4.0, XF 27mm F/2.8, XF 23mm F2.0 R WR</span>
 - **Tripod** <span>Manfrotto Befree</span>
-
-</div>
+{.box .tb}
 
 ### ☕️ Coffee {#coffee}
 
@@ -63,21 +54,16 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 
 Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
 
-<div class='box tb'>
-
 - **Filter Equipment** <span>Clever Dripper, French Press, AeroPress, Chemex, V60 ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
 - **Espresso Machine** <span>Sage Barista Express ([read more](/2024/01/06/current-espresso-setup/))</span>
 - **Grinder** <span>Baratza Encore</span>
 - **Scale** <span>TIMEMORE Basic 2.0</span>
 - **Kettle** <span>Fellow Stagg ‎EKG Pro</span>
-
-</div>
+{.box .tb}
 
 ## 📀 Software {#software}
 
 The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some may call this my [app defaults](https://defaults.rknight.me/).
-
-<div class='box tb'>
 
 - **E-mail Client** <span>Native macOS and iOS apps</span>
 - **E-mail Server** <span>[Fastmail](https://www.fastmail.com) and Gmail - slowly moving away from Google</span>
@@ -101,5 +87,4 @@ The list below contains some of my favorite software, or software that I use on 
 - **Web Server** <span>[Caddy](https://caddyserver.com/)</span>
 - **Hosting Provider** <span>[Hetzner](https://www.hetzner.com/)</span>
 - **Domain Registrars** <span>[Porkbun](https://porkbun.com) and [PTServidor](https://ptservidor.pt)</span>
-
-</div>
+{.box .tb}

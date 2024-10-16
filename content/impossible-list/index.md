@@ -11,8 +11,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ## ✈️ Travel Goals {#travel}
 
-<div class=checklist>
-
 - [x] Visit 5 countries <small>[🇵🇹 PT, 🇪🇸 ES, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC] [October 2018]</small>
   - [x] Visit 10 countries <small>[🇩🇪 DE, 🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU] [February 2020]</small>
   - [x] Visit 15 countries <small>[🇳🇱 NL, 🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA, 🇦🇹 AT] [February 2024]</small>
@@ -39,12 +37,9 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Go on a hot air 🎈 balloon ride
 - [ ] Travel a subway train in the front cabin
 - [ ] Visit an airplane's cockpit
-
-</div>
+{.checklist}
 
 ### Countries Bucket List {#countries}
-
-<div class="trips">
 
   - 🇦🇺 Australia
   - 🇧🇷 Brazil
@@ -67,12 +62,9 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
   - 🇺🇿 Uzbekistan <!-- https://uzbekistan.travel/en/i/bukhara/ -->
   - 🇪🇪 Estonia
-
-</div>
+{.trips}
 
 ## 🦄 Life Goals {#life}
-
-<div class=checklist>
 
 - [x] Participate in the Youth Parliament <small>[March 2012]</small>
    - [x] Go to Districts <small>[March 2012, President] [February 2013, Deputy] [March 2016, Deputy]</small>
@@ -95,12 +87,9 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Volunteer for a good cause for 6 months
 - [ ] Donate for a good cause for 6 months
 - [ ] Learn how to play a 🎶 musical instrument
-
-</div>
+{.checklist}
 
 ## 💼 Professional Goals {#professional}
-
-<div class=checklist>
 
 - [x] Write a self-published eBook <small>[February 2015, [Aprenda a Programar](https://cdn.hacdias.com/media/aprenda-a-programar.pdf)]</small>
 - [x] Give a talk <small>[[November 2019](/2019/12/20/quick-dive-into-dweb-ipfs)]</small>
@@ -114,12 +103,9 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Write a fiction book
 - [ ] Write a non-fiction book
 - [ ] Host a meetup
-
-</div>
+{.checklist}
 
 ## 💪 Fitness and Health Goals {#health}
-
-<div class=checklist>
 
 - [x] Workout at least twice a week for 1 month <small>[March 2021] [April 2023]</small>
    - [x] Workout at least twice a week for 2 months <small>[April 2021] [May 2023]</small>
@@ -143,8 +129,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [ ] Practice a new sport for 4 months
 - [ ] Learn how to ⛷️ ski or 🏂 snowboard
   - [ ] Ski or snowboard down a mountain
-
-</div>
+{.checklist}
 
 <!--
 

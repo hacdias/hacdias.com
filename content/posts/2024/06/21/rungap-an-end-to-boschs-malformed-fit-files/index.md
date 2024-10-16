@@ -20,11 +20,8 @@ A few days ago, however, I was just casually navigating the web and came across 
 
 So I tried. I went to Bosch's app, exported a FIT file and directly imported it into the RunGap app without running it through my script. Somehow, the app did the right job: it imported all the information that was contained into the FIT file. And then I can still edit the workout and add the number of calories, which Bosch doesn't include in their export.
 
-<div class="box" id="update">
-
 **2024-06-25**: well, it seems I reached a conclusion too fast. The app is very good, and I will definitely use it to import .FIT files instead of HealthFit due to it fixing the problem with the calories. However, it does not fix the issue of the original files from the Bosch Flow app not having the pauses correctly marked. Therefore, I still need to run it through my script before importing it.
-
-</div>
+{.box #update}
 
 I was still hesitating, but I decided to try exporting it to Apple Health. I did it. And... it just worked? All the information from my bike ride was now correctly available in the Apple Health and Fitness apps. No need for my script, no need to go to a computer to "fix" the file.
 

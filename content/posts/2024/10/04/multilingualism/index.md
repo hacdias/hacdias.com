@@ -23,11 +23,8 @@ Since then, I stopped writing in Portuguese. And the reasons resonate immensely 
 
 *Sempre que quero escrever algo em Português, tenho que pensar imenso tempo sobre como construir a frase. Qual é a melhor forma de escrever uma determinada ideia? Apesar de estar satisfeito com quase todas as frases que escrevi em Inglês, estou completamente insatisfeito com quase todas as frases que escrevo em Português. Tenho a ideia de que tudo o que escrevo em Português não é bom o suficiente.*
 
-<div class='box'>
-
 As a parenthesis, I want to say that I found it quite interesting that I could understand almost all of the Italian parts of Manuel's post. Latin languages are amazing. Carlos Valcárcel has a very interesting [Instagram](https://www.instagram.com/orlophe_interlingua/) page where he talks in [Interlingua](https://en.wikipedia.org/wiki/Interlingua), which is comprehensible by everyone that speaks any Romance language. Recommend to check.
-
-</div>
+{.box}
 
 More recently, I have also written in Dutch, *maar dat is iets wat ik sinds juli niet meer heb gedaan. Mijn doel toen was om mijn Nederlands te verbeteren, maar nu is het goed genoeg voor mijn dagelijks leven, dus ik voel geen behoefte om in het Nederlands meer te schrijven.*
 

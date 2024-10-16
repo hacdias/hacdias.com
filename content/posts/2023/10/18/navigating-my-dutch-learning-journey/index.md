@@ -31,10 +31,7 @@ Practice! Practicing by talking is very important and, even though I live in The
 
 Something that I want to try is to write more in Dutch, but where? I could write in my little notebook, or something just for myself, but I feel like if it's something to publish online, I would force myself to ensure that things actually make sense. My fear of making mistakes in public is the worst part in all of this. That's something I have to work on.
 
-<div class='box'>
-  
 **2023-10-19**: I had forgotten, but also listen to music, whether or not it is passive or active listening. It will help you nevertheless. I have this [Spotify playlist](https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd) in Dutch that I frequently listen to, and sometimes I find myself singing those songs.
-
-</div>
+{.box}
 
 Finally, I am joining new classes. In. Person. I did an intake exam and I was placed on an A2+ course. I chose the one with two classes per week, so I expect it to be quite intensive. Starting in less than two weeks from now! Wish me luck! I also want to add a special thanks to [Sebastiaan](https://seblog.nl/) for answering to too many of my language-related questions.

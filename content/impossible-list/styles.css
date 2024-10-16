@@ -1,27 +1,25 @@
-.checklist ul {
+ul.checklist,
+ul.checklist ul {
   list-style: none;
   padding-left: 0.5rem;
 }
 
-.checklist ul input {
+ul.checklist input {
   margin-right: 0.5rem;
 }
 
-.checklist li > ul {
+ul.checklist li > ul {
   padding-left: 1.5rem;
 }
 
-.trips ul {
+.trips {
   margin: 0;
-}
-
-.trips ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
   grid-column-gap: 1rem;
   grid-row-gap: 0.25rem;
 }
 
-.trips ul li {
+.trips li {
   margin: 0;
 }

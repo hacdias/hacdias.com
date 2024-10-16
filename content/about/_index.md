@@ -26,11 +26,8 @@ Later, multiple teams at Protocol Labs nucleated into their own companies with t
 
 These experiences were driven by my belief in transparency and openness, in a united Europe 🇪🇺 and that we all deserve equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
 
-<div class="box" id="handle">
-
 **Why @hacdias?** I've been asked before if there's any relation between my handle, @hacdias, and the verb "to hack". The answer is quite boring: there is not. It is simply the initials of some of my names with my last name.
-
-</div>
+{.box #handle}
 
 ## 🎩 Colophon {#colophon}
 
