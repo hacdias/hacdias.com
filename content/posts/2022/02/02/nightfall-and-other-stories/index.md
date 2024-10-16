@@ -16,4 +16,6 @@ tags:
 
 Read the first story of this book, "Nightfall", which portrays a dystopian and apocalyptic future. It narrates a story where the sun is going to disappear forever and everyone will be in eternal darkness. And what can that cause in people?
 
+<!--more-->
+
 However, this book is not for me, and I have no plans on reading the remaining stories in the near future. I shall revisit this review on a potential future attempt to read.

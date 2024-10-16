@@ -16,6 +16,8 @@ tags:
 
 Today, I finished reading "The House in the Cerulean Sea" by TJ Klune and I was just want to say that it was beautifully constructed. 
 
+<!--more-->
+
 > "Don't you wish you were here?"
 
 In the world portrayed by this book, there are people with magical abilities. To some extent, some are not even human. To give this children "proper" education, and since most do not have known parents, they are given to special orphanages.

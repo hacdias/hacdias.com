@@ -17,6 +17,8 @@ tags:
 
 I started reading this book in June and, even though I was enjoying it, life happened and I started reading very infrequently. I feel like this is a cycle that happens every year: in the beginning of the year I read a lot, during winter, and spring. Then summer comes and I stop reading.
 
+<!--more-->
+
 After taking around 6 months to read this book, I do recommend it. It is a very intricate, romantic, true, earthy, book that depicts the story of two loved ones in Cyprus. The story is quite complex and tells a lot about the Cyprus dispute, which I did not know much about.
 
 Here are some citations:
