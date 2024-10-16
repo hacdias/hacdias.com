@@ -1,5 +1,5 @@
 ---
-title: email + git = <3
+title: Learn to use email with git!
 date: 2023-12-21T13:12:53.908205095+01:00
 bookmark-of: https://git-send-email.io/
 categories:
