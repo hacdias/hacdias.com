@@ -1,4 +1,6 @@
 {{ $rating := index . 0 }}
-{{- range seq (index . 1) }}
-  {{- if le . $rating }}★{{ else }}☆{{ end -}}
-{{- end -}}
+<span alt="{{ $rating }} stars">
+  {{- range seq (index . 1) }}
+    {{- if le . $rating }}★{{ else }}☆{{ end -}}
+  {{- end -}}
+</span>
