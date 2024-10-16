@@ -11,7 +11,7 @@
       <h2 id='details'>Details</h2>
 
       <ul class='p-read-of h-cite'>
-        <li><span class="p-name">{{ .Params.read.name }}</span> by <span class="p-author">{{ .Params.read.author }}</span></li>
+        <li><span class="p-name">{{ .Title }}</span> by <span class="p-author">{{ .Params.read.author }}</span></li>
         {{ with .Params.read.pages }}<li>Pages: <span class="p-pages">{{ . }}</span></li>{{ end }}
         {{ with .Params.read.publisher }}<li>Publisher: <span class="p-publisher">{{ . }}</span></li>{{ end }}
         {{ with .Params.read.uid }}

@@ -1,12 +1,11 @@
 ---
-title: Half-read "Nightfall and Other Stories" by Isaac Asimov
+title: Nightfall and Other Stories
 date: 2022-02-02T19:05:54.4308607+01:00
 categories:
   - readings
 rating: 2
 read:
   author: Isaac Asimov
-  name: Nightfall and Other Stories
   pages: 416
   publisher: Random House Books
   uid: isbn:9780593357460
