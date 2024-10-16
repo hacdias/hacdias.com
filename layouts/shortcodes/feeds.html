@@ -1,12 +1,10 @@
-<div class='terms'>
-  <ul>
-    {{- range (index .Site.Data.feeds (.Get 0)) -}}
-      <li>
-        <a href='{{ .site }}' rel='noopener noreferrer'>
-          {{- $domain := (urls.Parse .site).Host -}}
-          {{- partialCached "favicon" $domain $domain }} {{ .title }}
-        </a>
-      </li>
-    {{- end -}}
-  </ul>
-</div>
+<ul class='terms'>
+  {{- range (index .Site.Data.feeds (.Get 0)) -}}
+    <li>
+      <a href='{{ .site }}' rel='noopener noreferrer'>
+        {{- $domain := (urls.Parse .site).Host -}}
+        {{- partialCached "favicon" $domain $domain }} {{ .title }}
+      </a>
+    </li>
+  {{- end -}}
+</ul>
