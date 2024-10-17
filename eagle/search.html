@@ -15,11 +15,16 @@
   {{ else }}
     {{ range .Entries }}
       {{ $bookmark := index .Other "bookmark-of" }}
+      {{ $read := .Other.read }}
       <div class='card'>
         <header>
           {{ if $bookmark }}
             <a href='{{ $bookmark }}' class='nl' rel='noopener noreferrer'>
-              <h2 class='bookmark'>{{ .Title }}{{ with urlParse $bookmark }} <span class='lg wn'>({{ .Host }})</span>{{ end }}</h2>
+              <h2 class='bookmark'>{{ .Title }}{{ with urlParse $bookmark }} <span class='lg wn'>via {{ .Host }}</span>{{ end }}</h2>
+            </a>
+          {{ else if $read }}
+            <a href='{{ .RelPermalink }}' class='nl' rel='noopener noreferrer'>
+              <h2>{{ .Title }} <span class='lg wn'>by {{ $read.author }}</span>{{ end }}</h2>
             </a>
           {{ else }}
             <a href='{{ .RelPermalink }}' class='nl'><h2>{{ .Title }}</h2></a>
