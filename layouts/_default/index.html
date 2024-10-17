@@ -15,7 +15,7 @@
 
   <h2 id="freshly-captured"><a href='{{ relURL "/photos" }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
   {{- $photos := where .Site.RegularPages "Params.categories" "intersect" (slice "photos") -}}
-  {{- template "photos" $photos -}}
+  {{- template "photos" (first 8 $photos) -}}
 
   <h2 id="favourite-articles">🌟 Favourite Articles</h2>
   {{- $favoritePosts := slice -}}
@@ -29,7 +29,7 @@
   {{- range .Params.favoriteCaptures -}}
   {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
   {{- end }}
-  {{- template "photos" $favoritePhotos -}}
+  {{- template "photos" (first 4 $favoritePhotos) -}}
 {{ end }}
 
 {{- define "item" }}
@@ -49,13 +49,13 @@
 
 {{- define "photos" }}
 <div class='fg'>
-  {{ range (first 4 .) }}
+  {{ range . }}
   <a href='{{ .RelPermalink }}' class='nl lh p-name u-url br'>
     {{ partial "helpers/figure" (dict
     "Destination" .Params.coverImage
     "Title" .Title
     "IsBlock" true
-    "Sizes" (slice 250 500 1000)
+    "Sizes" (slice 250 500)
     "Class" "br"
     )}}
   </a>
