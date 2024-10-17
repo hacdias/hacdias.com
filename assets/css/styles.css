@@ -23,6 +23,13 @@
   --dark-gray: #222222;
   --light-gray: #555555;
 
+  /* Highlight colors */
+  --h-a: #1c01ce;
+  --h-b: #c41a16;
+  --h-c: #a90d91;
+  --h-d: #177500;
+  --h-e: #633820;
+
   /* Spacings */
   --ls: 2.5rem;
   --hls: 1.25rem;
@@ -539,8 +546,59 @@ main pre {
 main pre {
   overflow: auto;
   padding: var(--ms);
-  /* needs !important because Chroma adds background inline */
-  background-color: var(--mg) !important;
+  background-color: var(--mg);
+}
+
+.highlight .line {
+  display: flex;
+}
+
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .il,
+.highlight .mo {
+  color: var(--h-a);
+}
+
+.highlight .s,
+.highlight .sa,
+.highlight .sb,
+.highlight .sc,
+.highlight .dl,
+.highlight .sd,
+.highlight .s2,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sx,
+.highlight .sr,
+.highlight .s1,
+.highlight .ss {
+  color: var(--h-b);
+}
+
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kt,
+.highlight .nb {
+  color: var(--h-c);
+}
+
+.highlight .c,
+.highlight .ch,
+.highlight .cm,
+.highlight .c1,
+.highlight .cs,
+.highlight .cp,
+.highlight .cpf {
+  color: var(--h-d);
 }
 
 #preview,
@@ -724,17 +782,16 @@ figure,
   --bg-l: 2%;
   --dark-gray: #eee;
   --light-gray: #ccc;
+
+  --h-a: #d0bf69;
+  --h-b: #fc6a5d;
+  --h-c: #d0a8ff;
+  --h-d: #6c7986;
+  --h-e: #fd8f3f;
 }
 
 .dark #navbar {
   color: var(--c-text);
-}
-
-/* This can likely be improved. */
-.dark .highlight > pre code > span,
-.dark main pre code > span {
-  color: #212121;
-  filter: invert(1);
 }
 
 .only-light,
