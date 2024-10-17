@@ -32,7 +32,7 @@ function setupTheme() {
 
 setupTheme()
 
-function addEmoji(el) {
+function addEmoji() {
   const today = new Date()
   const month = today.getMonth() + 1
   const day = today.getDate()
@@ -68,6 +68,7 @@ function addEmoji(el) {
     title = 'Happy Christmas!'
   }
 
+  const el = document.querySelector('#header .name')
   if (emoji) {
     const span = document.createElement('span')
     span.title = title
@@ -77,16 +78,11 @@ function addEmoji(el) {
   }
 }
 
-function parseEmojis(el) {
-  twemoji.parse(el, {
+function parseEmojis() {
+  twemoji.parse(document.body, {
     base: 'https://cdn.hacdias.com/emojis/15.1.0/',
     folder: 'svg',
     ext: '.svg',
-  })
-
-  Array.from(document.querySelectorAll('img.emoji')).forEach((img) => {
-    img.style.width = '1em'
-    img.style.height = '1em'
   })
 }
 
@@ -113,8 +109,8 @@ function setupPreview() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  addEmoji(document.querySelector('#header .name'))
-  parseEmojis(document.body)
+  addEmoji()
+  parseEmojis()
   setupPreview()
 })
 
