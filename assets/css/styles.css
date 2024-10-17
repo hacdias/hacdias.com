@@ -279,9 +279,8 @@ main header h1.bookmark {
 }
 
 main header p {
-  margin: 0.25em 0;
+  margin: 0;
   font-weight: 500;
-  font-style: italic;
 }
 
 main footer li,
