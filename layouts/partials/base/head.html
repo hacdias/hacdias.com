@@ -42,9 +42,8 @@
 
 {{ $normalize := resources.Get "css/vendor/normalize.css" }}
 {{ $base := resources.Get "css/styles.css" }}
-{{ $css := slice $normalize $base | resources.Concat "css/styles.css" }}
-{{ $secureCSS := $css | resources.Fingerprint "sha512" }}
-<link rel='stylesheet' href='{{ $secureCSS.RelPermalink }}' integrity='{{ $secureCSS.Data.Integrity }}'>
+{{ $css := slice $normalize $base | resources.Concat "css/styles.css" | resources.Minify | resources.Fingerprint "sha512" }}
+<link rel='stylesheet' href='{{ $css.RelPermalink }}' integrity='{{ $css.Data.Integrity }}'>
 
 {{ with .Resources.GetMatch "styles.css" }}
 <style>{{ .Content | safeCSS }}</style>
