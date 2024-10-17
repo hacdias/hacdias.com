@@ -7,7 +7,7 @@ make-dirs:
 	mkdir -p assets/js/vendor
 
 normalize:
-	wget https://necolas.github.io/normalize.css/8.0.1/normalize.css -O assets/css/vendor/normalize.css
+	wget https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/3.0.1/modern-normalize.css -O assets/css/vendor/normalize.css
 
 twemoji:
 	wget https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js -O assets/js/vendor/twemoji.min.js
