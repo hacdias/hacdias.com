@@ -672,7 +672,8 @@ main pre {
 .card header,
 figure,
 .pagination {
-  margin: var(--ms) 0;
+  margin-top: var(--ms);
+  margin-bottom: var(--ms);
 }
 
 .pagination {
