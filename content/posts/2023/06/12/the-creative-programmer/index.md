@@ -14,7 +14,7 @@ syndication:
   - https://fosstodon.org/@hacdias/110530107064412338
 tags:
   - educational
-  - review
+  - reviews
 ---
 
 Last night I thought: tomorrow morning I will finish reading *The Creative Programmer*,

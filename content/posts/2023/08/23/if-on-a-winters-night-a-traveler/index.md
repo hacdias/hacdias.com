@@ -12,7 +12,7 @@ read:
   uid: isbn:9780099430896
 tags:
   - fantasy
-  - review
+  - reviews
 ---
 
 This is an unusual post: today I did not finish a book, but I decided to consciously stop reading it.

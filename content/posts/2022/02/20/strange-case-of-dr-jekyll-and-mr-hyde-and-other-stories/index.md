@@ -12,7 +12,7 @@ read:
 tags:
   - fantasy
   - literature
-  - review
+  - reviews
 ---
 
 When I bought this book, I didn't notice it had "other stories" in the title. Not only does the book contain 7 other stories from Robert Louis Stevenson, but it also includes biographical and bibliographical information about the author.

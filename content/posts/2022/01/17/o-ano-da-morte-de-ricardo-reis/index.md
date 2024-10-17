@@ -12,7 +12,7 @@ read:
 tags:
   - fantasy
   - literature
-  - review
+  - reviews
 ---
 
 Today, I finished reading "O Ano da Morte de Ricardo Reis" (*The Year of The Death of Ricardo Reis* in English) by José Saramago, while on a train from Den Haag to Eindhoven, after visiting the Portuguese embassy.
