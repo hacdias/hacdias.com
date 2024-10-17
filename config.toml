@@ -29,7 +29,7 @@ summaryLength = 300
         block = true
         title = true
   [markup.highlight]
-    style = 'xcode'
+    noClasses = false
 
 [menu]
 [[menu.main]]
