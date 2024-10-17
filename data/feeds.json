@@ -442,9 +442,19 @@
   ],
   "self": [
     {
+      "title": "Bookmarks - Henrique Dias",
+      "site": "https://hacdias.com/bookmarks/",
+      "feed": "https://hacdias.com/bookmarks/feed.xml"
+    },
+    {
       "title": "Home - Henrique Dias",
       "site": "https://hacdias.com/",
       "feed": "https://hacdias.com/feed.xml"
+    },
+    {
+      "title": "Readings - Henrique Dias",
+      "site": "https://hacdias.com/readings/",
+      "feed": "https://hacdias.com/readings/feed.xml"
     }
   ],
   "software": [

@@ -327,7 +327,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 53,
+    "count": 67,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -406,6 +406,46 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Koch_snowflake"
       },
       {
+        "sourceUrl": "https://hacdias.com/2022/01/17/o-ano-da-morte-de-ricardo-reis/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789720048820"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/01/22/the-house-in-the-cerulean-sea/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529087949"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/01/26/before-the-coffee-gets-cold/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529029581"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/01/30/red-white-royal-blue/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781250316776"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/02/nightfall-and-other-stories/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780593357460"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/03/the-midnight-library/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781786892737"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/08/this-is-how-you-lose-the-time-war/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529405231"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/17/under-the-whispering-door/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529087987"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/20/strange-case-of-dr-jekyll-and-mr-hyde-and-other-stories/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781847493781"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/03/02/tales-from-the-cafe/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529050868"
+      },
+      {
         "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
         "targetUrl": "https://en.wikipedia.org/wiki/Parallax"
       },
@@ -422,8 +462,20 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Machine-readable_passport"
       },
       {
+        "sourceUrl": "https://hacdias.com/2022/12/25/the-island-of-missing-trees/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780241988725"
+      },
+      {
         "sourceUrl": "https://hacdias.com/2023/02/24/writing-gratitude-journal/",
         "targetUrl": "https://en.wikipedia.org/wiki/Gratitude_journal"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/05/21/the-culture-map/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781610392501"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/12/the-creative-programmer/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781633439054"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
@@ -448,6 +500,10 @@
       {
         "sourceUrl": "https://hacdias.com/2023/07/31/recently/",
         "targetUrl": "https://en.wikipedia.org/wiki/Harz_Railway"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/23/if-on-a-winters-night-a-traveler/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780099430896"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",

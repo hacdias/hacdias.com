@@ -2,11 +2,10 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Mon, 14 Oct 2024 03:00:05 UTC</dateCreated>
+        <dateCreated>Thu, 17 Oct 2024 03:00:05 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
-            <outline title="Interdependent Thoughts" text="Interdependent Thoughts" xmlUrl="https://www.zylstra.org/blog/feed/" htmlUrl="https://www.zylstra.org/blog" type="rss"></outline>
             <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.xml" htmlUrl="https://aaronparecki.com/" type="rss"></outline>
             <outline title="Alistair Shepherd" text="Alistair Shepherd" xmlUrl="https://alistairshepherd.uk/feed.xml" htmlUrl="https://www.alistairshepherd.uk/" type="rss"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog" type="rss"></outline>
@@ -31,6 +30,7 @@
             <outline title="gRegor Morrill" text="gRegor Morrill" xmlUrl="https://gregorlove.com/articles.atom" htmlUrl="https://gregorlove.com" type="rss"></outline>
             <outline title="Herman Martinus" text="Herman Martinus" xmlUrl="https://herman.bearblog.dev/feed/?type=rss" htmlUrl="https://herman.bearblog.dev/" type="rss"></outline>
             <outline title="Horst Gutmann" text="Horst Gutmann" xmlUrl="https://zerokspot.com/index.xml" htmlUrl="https://zerokspot.com/" type="rss"></outline>
+            <outline title="Interdependent Thoughts" text="Interdependent Thoughts" xmlUrl="https://www.zylstra.org/blog/feed/" htmlUrl="https://www.zylstra.org/blog" type="rss"></outline>
             <outline title="Isaac Schlueter" text="Isaac Schlueter" xmlUrl="https://blog.izs.me/feed/feed.json" htmlUrl="https://blog.izs.me/" type="rss"></outline>
             <outline title="Jake Bauer" text="Jake Bauer" xmlUrl="https://www.paritybit.ca/feed.xml" htmlUrl="https://www.paritybit.ca" type="rss"></outline>
             <outline title="James" text="James" xmlUrl="https://granary.io/url?input=html&amp;output=rss&amp;url=https%3A%2F%2Fjamesg.blog" htmlUrl="https://jamesg.blog/" type="rss"></outline>
@@ -99,7 +99,9 @@
             <outline title="zdimension" text="zdimension" xmlUrl="https://zdimension.fr/feed.xml" htmlUrl="https://zdimension.fr/" type="rss"></outline>
         </outline>
         <outline text="Self">
+            <outline title="Bookmarks - Henrique Dias" text="Bookmarks - Henrique Dias" xmlUrl="https://hacdias.com/bookmarks/feed.xml" htmlUrl="https://hacdias.com/bookmarks/" type="rss"></outline>
             <outline title="Home - Henrique Dias" text="Home - Henrique Dias" xmlUrl="https://hacdias.com/feed.xml" htmlUrl="https://hacdias.com/" type="rss"></outline>
+            <outline title="Readings - Henrique Dias" text="Readings - Henrique Dias" xmlUrl="https://hacdias.com/readings/feed.xml" htmlUrl="https://hacdias.com/readings/" type="rss"></outline>
         </outline>
         <outline text="Software">
             <outline title="Alpine Linux" text="Alpine Linux" xmlUrl="https://alpinelinux.org/atom.xml" htmlUrl="https://alpinelinux.org/atom.xml" type="rss"></outline>
