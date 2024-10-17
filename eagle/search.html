@@ -24,7 +24,7 @@
             </a>
           {{ else if $read }}
             <a href='{{ .RelPermalink }}' class='nl' rel='noopener noreferrer'>
-              <h2>{{ .Title }} <span class='lg wn'>by {{ $read.author }}</span>{{ end }}</h2>
+              <h2>{{ .Title }} <span class='lg wn'>by {{ $read.author }}</span></h2>
             </a>
           {{ else }}
             <a href='{{ .RelPermalink }}' class='nl'><h2>{{ .Title }}</h2></a>
