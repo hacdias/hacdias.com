@@ -4,8 +4,10 @@
   {{ partial "base/head" . }}
 </head>
 <body>
-  {{ $themeJS := resources.Get "js/theme.js" | resources.Minify | resources.Fingerprint "sha512" }}
-  <script type='text/javascript' src='{{ $themeJS.RelPermalink }}' integrity='{{ $themeJS.Data.Integrity }}'></script>
+  {{ $twemoji := resources.Get "js/vendor/twemoji.min.js" }}
+  {{ $app := resources.Get "js/app.js" }}
+  {{ $js := slice $twemoji $app | resources.Concat "js/app.js" | resources.Minify | resources.Fingerprint "sha512" }}
+  <script type='text/javascript' src='{{ $js.RelPermalink }}' integrity='{{ $js.Data.Integrity }}'></script>
 
   <a href="#main" id='skip-to-content'>Skip to content</a>
   <div class='container'>
@@ -15,10 +17,5 @@
     </main>
     {{ partialCached "base/footer" . }}
   </div>
-
-  {{ $twemoji := resources.Get "js/vendor/twemoji.min.js" }}
-  {{ $app := resources.Get "js/app.js" }}
-  {{ $js := slice $twemoji $app | resources.Concat "js/app.js" | resources.Minify | resources.Fingerprint "sha512" }}
-  <script type='text/javascript' src='{{ $js.RelPermalink }}' integrity='{{ $js.Data.Integrity }}'></script>
 </body>
 </html>

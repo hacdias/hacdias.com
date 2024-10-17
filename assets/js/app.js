@@ -1,9 +1,36 @@
-console.log(
-  "%cHi! 👋 It's Henrique and welcome to my corner of the Interweb. Feel free to explore. If you have any questions, ping me @hacdias.",
-  'background-color: #00449e ; color: white ; font-weight: 700 ; ' +
-    'font-size: 30px ; ' +
-    'font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif; text-shadow: 1px 1px 3px black ;'
-)
+const mql = window.matchMedia('(prefers-color-scheme: dark)')
+
+function toggleTheme(to) {
+  if (to) {
+    localStorage.setItem('t', to)
+  } else {
+    localStorage.removeItem('t')
+  }
+
+  handleTheme()
+}
+
+function handleTheme(query) {
+  if (!query) {
+    query = mql
+  }
+
+  const userOption = localStorage.getItem('t')
+  const addDark = userOption === null ? query.matches : userOption === 'd'
+
+  if (addDark) {
+    document.documentElement.classList.add('dark')
+  } else {
+    document.documentElement.classList.remove('dark')
+  }
+}
+
+function setupTheme() {
+  mql.addEventListener('change', handleTheme)
+  handleTheme(mql)
+}
+
+setupTheme()
 
 function addEmoji(el) {
   const today = new Date()
@@ -85,6 +112,13 @@ function setupPreview() {
   })
 }
 
-addEmoji(document.querySelector('#header .name'))
-parseEmojis(document.body)
-setupPreview()
+document.addEventListener('DOMContentLoaded', () => {
+  addEmoji(document.querySelector('#header .name'))
+  parseEmojis(document.body)
+  setupPreview()
+})
+
+console.log(
+  "%cHi! 👋 It's @hacdias. Welcome to other side!",
+  'background-color: #FF10F0; color: white; font-weight: 700; font-size: 30px; font-family: sans-serif;'
+)
