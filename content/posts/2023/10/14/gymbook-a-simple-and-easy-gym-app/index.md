@@ -8,7 +8,7 @@ syndication:
 tags:
   - data
   - gym
-  - review
+  - reviews
   - sports
   - tracking
 ---

@@ -12,7 +12,7 @@ read:
 tags:
   - cultures
   - personal growth
-  - review
+  - reviews
 ---
 
 A few days ago I started reading this book by Erin Meyer, *The Culture Map*. And,

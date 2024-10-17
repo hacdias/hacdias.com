@@ -11,7 +11,7 @@ read:
   uid: isbn:9780593357460
 tags:
   - fantasy
-  - review
+  - reviews
 ---
 
 Read the first story of this book, "Nightfall", which portrays a dystopian and apocalyptic future. It narrates a story where the sun is going to disappear forever and everyone will be in eternal darkness. And what can that cause in people?

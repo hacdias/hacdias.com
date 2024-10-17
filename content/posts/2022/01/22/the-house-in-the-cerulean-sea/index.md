@@ -11,7 +11,7 @@ read:
   uid: isbn:9781529087949
 tags:
   - fantasy
-  - review
+  - reviews
 ---
 
 Today, I finished reading "The House in the Cerulean Sea" by TJ Klune and I was just want to say that it was beautifully constructed. 

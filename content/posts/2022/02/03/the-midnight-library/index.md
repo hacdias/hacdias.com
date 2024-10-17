@@ -11,7 +11,7 @@ read:
   uid: isbn:9781786892737
 tags:
   - fantasy
-  - review
+  - reviews
 ---
 
 "The Midnight Library" portrays a character, Nora, that after dying at exactly midnight, got transported to a library where time doesn't change. In this library, Nora has the opportunity to try all the different lives she would have had if she had made different decisions. To keep the level of spoilers to a minimum, I will not go over a lot more.
