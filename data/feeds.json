@@ -76,6 +76,11 @@
       "feed": "https://www.dannyvankooten.com/feed.xml"
     },
     {
+      "title": "Darek Kay",
+      "site": "https://darekkay.com/",
+      "feed": "https://darekkay.com/atom.xml"
+    },
+    {
       "title": "Dave Rupert",
       "site": "https://daverupert.com",
       "feed": "https://daverupert.com/atom.xml"
@@ -276,9 +281,9 @@
       "feed": "https://rakhim.org/index.xml"
     },
     {
-      "title": "Ricardo Miguel",
-      "site": "https://pudesse-eu.tumblr.com/",
-      "feed": "https://pudesse-eu.tumblr.com/rss"
+      "title": "Robb Knight",
+      "site": "https://rknight.me/subscribe/posts/atom.xml",
+      "feed": "https://rknight.me/subscribe/posts/atom.xml"
     },
     {
       "title": "Robin Berjon",

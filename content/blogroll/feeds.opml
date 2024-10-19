@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Thu, 17 Oct 2024 03:00:05 UTC</dateCreated>
+        <dateCreated>Sat, 19 Oct 2024 03:00:05 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -21,6 +21,7 @@
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
             <outline title="Daniel Stenberg" text="Daniel Stenberg" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" type="rss"></outline>
             <outline title="Danny van Kooten" text="Danny van Kooten" xmlUrl="https://www.dannyvankooten.com/feed.xml" htmlUrl="https://dannyvankooten.com/" type="rss"></outline>
+            <outline title="Darek Kay" text="Darek Kay" xmlUrl="https://darekkay.com/atom.xml" htmlUrl="https://darekkay.com/" type="rss"></outline>
             <outline title="Dave Rupert" text="Dave Rupert" xmlUrl="https://daverupert.com/atom.xml" htmlUrl="https://daverupert.com" type="rss"></outline>
             <outline title="Drew DeVault" text="Drew DeVault" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com" type="rss"></outline>
             <outline title="ExpLog" text="ExpLog" xmlUrl="https://explog.in/rss.xml" htmlUrl="https://explog.in/" type="rss"></outline>
@@ -62,7 +63,7 @@
             <outline title="Pesky&#39;s Blog" text="Pesky&#39;s Blog" xmlUrl="https://blog.pesky.moe/index.xml" htmlUrl="https://blog.pesky.moe/" type="rss"></outline>
             <outline title="Phil Eaton" text="Phil Eaton" xmlUrl="https://notes.eatonphil.com/rss.xml" htmlUrl="http://notes.eatonphil.com/" type="rss"></outline>
             <outline title="Rakhim Davletkaliyev" text="Rakhim Davletkaliyev" xmlUrl="https://rakhim.org/index.xml" htmlUrl="https://rakhim.org/" type="rss"></outline>
-            <outline title="Ricardo Miguel" text="Ricardo Miguel" xmlUrl="https://pudesse-eu.tumblr.com/rss" htmlUrl="https://pudesse-eu.tumblr.com/" type="rss"></outline>
+            <outline title="Robb Knight" text="Robb Knight" xmlUrl="https://rknight.me/subscribe/posts/atom.xml" htmlUrl="https://rknight.me/subscribe/posts/atom.xml" type="rss"></outline>
             <outline title="Robin Berjon" text="Robin Berjon" xmlUrl="https://berjon.com/feed.atom" htmlUrl="https://berjon.com/" type="rss"></outline>
             <outline title="Rohan Kumar" text="Rohan Kumar" xmlUrl="https://seirdy.one/atom.xml" htmlUrl="https://seirdy.one" type="rss"></outline>
             <outline title="Ru Singh" text="Ru Singh" xmlUrl="https://rusingh.com/feed/" htmlUrl="https://rusingh.com/" type="rss"></outline>
