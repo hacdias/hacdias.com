@@ -2,8 +2,8 @@
   <div id='home'>
     <a class='avatar nl' href='{{ relURL "/" }}' title='This is me, kinda.'>
       <picture>
-        <source type='image/webp' srcset='{{ relURL "/statue.webp" }}'>
-        <img alt='Avatar' src='{{ relURL "/statue.png" }}' width="100px">
+        <source type='image/webp' srcset='{{ relURL "/statue.webp" }}' />
+        <img alt='Avatar' src='{{ relURL "/statue.png" }}' width="100px" />
       </picture>
     </a>
 
@@ -19,7 +19,7 @@
 
   {{ if eq hugo.Environment "eagle" }}
     <form action='{{ relURL "/search/" }}' method='get' class='inline-form'>
-      <input type='text' placeholder='Search…' id='query' name='query'>
+      <input type='text' placeholder='Search…' id='query' name='query' />
       <button alt='Search'>🔎</button>
     </form>
   {{ else }}
@@ -30,7 +30,7 @@
   {{ end }}
 </div>
 
-<input type='checkbox' id='toggler' hidden>
+<input type='checkbox' id='toggler' hidden="hidden" />
 <nav id='navbar' class='fw'>
   <label for='toggler'>🍔 Menu</label>
   {{ range .Site.Menus.main -}}
