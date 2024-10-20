@@ -40,10 +40,7 @@
   <meta property='article:modified_time' content='{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}' />
 {{ end }}
 
-{{ $normalize := resources.Get "css/vendor/normalize.css" }}
-{{ $base := resources.Get "css/styles.css" }}
-{{ $css := slice $normalize $base | resources.Concat "css/styles.css" | resources.Minify | resources.Fingerprint "sha512" }}
-<link rel='stylesheet' href='{{ $css.RelPermalink }}' integrity='{{ $css.Data.Integrity }}'>
+{{ partialCached "assets/css.html" . }}
 
 {{ with .Resources.GetMatch "styles.css" }}
 <style>{{ .Content | safeCSS }}</style>

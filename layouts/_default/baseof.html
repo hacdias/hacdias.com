@@ -4,10 +4,7 @@
   {{ partial "base/head" . }}
 </head>
 <body>
-  {{ $twemoji := resources.Get "js/vendor/twemoji.min.js" }}
-  {{ $app := resources.Get "js/app.js" }}
-  {{ $js := slice $twemoji $app | resources.Concat "js/app.js" | resources.Minify | resources.Fingerprint "sha512" }}
-  <script type='text/javascript' src='{{ $js.RelPermalink }}' integrity='{{ $js.Data.Integrity }}'></script>
+  {{ partialCached "assets/js.html" . }}
 
   <a href="#main" id='skip-to-content'>Skip to content</a>
   <div class='container'>
