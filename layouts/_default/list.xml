@@ -3,6 +3,7 @@
 {{ if .IsHome }}{{ $pages = partialCached "fns/pages" . .Permalink }}{{ end }}
 {{- $pages = $pages | first .Site.Config.Services.RSS.Limit }}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
+{{- printf "<?xml-stylesheet href=\"%s\" type=\"text/xsl\"?>" (relURL "/feed.xsl") | safeHTML }}
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ printf "%s - %s" $pageTitle .Site.Title | safeHTML }}</title>
   <id>{{ .Permalink }}</id>
