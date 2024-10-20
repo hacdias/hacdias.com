@@ -355,6 +355,7 @@ details summary {
 #header form {
   margin-left: auto;
   font-size: var(--f5);
+  margin-bottom: 0;
 }
 
 #header form input {
