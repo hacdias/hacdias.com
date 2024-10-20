@@ -79,6 +79,8 @@ summaryLength = 300
 
 [mediaTypes.'application/atom+xml']
   suffixes = ['xml']
+[mediaTypes.'text/xsl']
+  suffixes = ['xsl']
 
 [outputFormats]
   [outputFormats.atom]
@@ -95,10 +97,16 @@ summaryLength = 300
     rel = 'alternate'
     noUgly = true
     permalinkable = false
+  [outputFormats.feedXsl]
+    baseName = 'feed'
+    mediaType = 'text/xsl'
+    isPlainText = true
+    notAlternative = true
+    noUgly = true
 
 [outputs]
   taxonomy = ['HTML']
   term = ['HTML', 'ATOM', 'JSON']
-  home = ['HTML', 'ATOM', 'JSON']
+  home = ['HTML', 'ATOM', 'JSON', 'FEEDXSL']
   section = ['HTML']
   page = ['HTML']
