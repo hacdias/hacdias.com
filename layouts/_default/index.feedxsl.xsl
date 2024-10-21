@@ -2,13 +2,12 @@
 <xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:atom="http://www.w3.org/2005/Atom">
   <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes" />
   <xsl:template match="/">
-    <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ .Site.Language }}">
       <head>
-        <title>
-          <xsl:value-of select="/atom:feed/atom:title" />
-        </title>
+        <title><xsl:value-of select="/atom:feed/atom:title" /></title>
         <meta charset="utf-8" />
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         {{ partialCached "assets/css.html" . }}
         <style>
@@ -28,16 +27,13 @@
         {{ partialCached "assets/js.html" . }}
         <div class='container'>
           {{ partial "base/header" . }}
-
           <main>
             <header>
               <h1>RSS Feed Preview</h1>
             </header>
-
             <p>
               This is a <span id="styled">styled preview</span> of my RSS feed. You can subscribe to it by copying the URL in the address bar into your newsreader. Personally, I use Miniflux and NetNewsWire, but there's hundreds of alternatives. Just visit <a href="https://aboutfeeds.com/">About Feeds</a> to learn more and get started.
             </p>
-
             <h2>
               <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="icon" viewBox="0 0 256 256">
                 <rect width="256" height="256" rx="55" ry="55" x="0" y="0" fill="#FF7C33"></rect>
@@ -63,7 +59,6 @@
               </xsl:for-each>
             </ul>
           </main>
-
           {{ partial "base/footer" . }}
         </div>
       </body>

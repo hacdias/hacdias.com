@@ -103,10 +103,16 @@ summaryLength = 300
     isPlainText = true
     notAlternative = true
     noUgly = true
+  [outputFormats.sitemapXsl]
+    baseName = 'sitemap'
+    mediaType = 'text/xsl'
+    isPlainText = true
+    notAlternative = true
+    noUgly = true
 
 [outputs]
   taxonomy = ['HTML']
   term = ['HTML', 'ATOM', 'JSON']
-  home = ['HTML', 'ATOM', 'JSON', 'FEEDXSL']
+  home = ['HTML', 'ATOM', 'JSON', 'FEEDXSL', 'SITEMAPXSL']
   section = ['HTML']
   page = ['HTML']
