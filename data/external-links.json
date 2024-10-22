@@ -327,7 +327,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 67,
+    "count": 69,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -580,6 +580,14 @@
       {
         "sourceUrl": "https://hacdias.com/2024/10/13/belonging/",
         "targetUrl": "https://en.wikipedia.org/wiki/Ikigai"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/21/ikigai/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Blue_zone"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/21/ikigai/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781786330895"
       },
       {
         "sourceUrl": "https://hacdias.com/contact/",
