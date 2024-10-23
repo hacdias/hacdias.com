@@ -1,10 +1,4 @@
-reading:
-  - name: Before Your Memory Fades
-    author: Toshikazu Kawaguchi
-    date: 2024-08-03T11:33:08+02:00
-    publisher: Picador
-    pages: 224
-    uid: isbn:9781529089431
+reading: []
 want-to-read:
   - name: Before We Say Goodbye
     author: Toshikazu Kawaguchi
@@ -29,6 +23,13 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Before Your Memory Fades
+    author: Toshikazu Kawaguchi
+    date: 2024-10-23
+    publisher: Picador
+    pages: 224
+    rating: 3
+    uid: isbn:9781529089431
   - name: Harry Potter en de Relieken van de Dood
     author: J.K. Rowling
     date: 2024-04-25
