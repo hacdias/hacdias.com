@@ -725,8 +725,7 @@ main pre {
 .card header,
 figure,
 .pagination {
-  margin-top: var(--ms);
-  margin-bottom: var(--ms);
+  margin: var(--ms) 0;
 }
 
 .pagination {
