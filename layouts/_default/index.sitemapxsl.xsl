@@ -4,7 +4,7 @@
   <xsl:template match="/">
     <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ .Site.Language }}">
       <head>
-        <title>Sitemap</title>
+        <title>Sitemap - {{ .Site.Title }}</title>
         <meta charset="utf-8" />
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
