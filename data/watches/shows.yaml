@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Signal
+  season: 1
+  rating: 4
+  date: 2024-10-23
 - name: Nobody Wants This
   season: 1
   rating: 3

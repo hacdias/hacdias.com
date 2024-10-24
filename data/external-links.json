@@ -1184,6 +1184,32 @@
     ]
   },
   {
+    "domain": "w3.org",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://www.w3.org/TR/micropub/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
+        "targetUrl": "https://www.w3.org/TR/activitypub/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
+        "targetUrl": "https://www.w3.org/TR/baggage/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
+        "targetUrl": "https://www.w3.org/TR/trace-context"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/23/styled-rss-feeds/",
+        "targetUrl": "https://www.w3.org/Style/XSL/WhatIsXSL.html"
+      }
+    ]
+  },
+  {
     "domain": "aaronparecki.com",
     "count": 4,
     "links": [
@@ -1448,28 +1474,6 @@
     ]
   },
   {
-    "domain": "w3.org",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://www.w3.org/TR/micropub/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
-        "targetUrl": "https://www.w3.org/TR/activitypub/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://www.w3.org/TR/baggage/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/04/18/distributed-tracing-with-opentelemetry/",
-        "targetUrl": "https://www.w3.org/TR/trace-context"
-      }
-    ]
-  },
-  {
     "domain": "wordpress.org",
     "count": 4,
     "links": [
@@ -1506,6 +1510,24 @@
       {
         "sourceUrl": "https://hacdias.com/uses/",
         "targetUrl": "https://caddyserver.com/"
+      }
+    ]
+  },
+  {
+    "domain": "darekkay.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/15/darek-kays-blogroll/",
+        "targetUrl": "https://darekkay.com/personal-blogs/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/23/styled-rss-feeds/",
+        "targetUrl": "https://darekkay.com/blog/rss-styling/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://darekkay.com/"
       }
     ]
   },
@@ -1810,20 +1832,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://www.bosch-ebike.com/en/products/ebike-flow-app"
-      }
-    ]
-  },
-  {
-    "domain": "darekkay.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/15/darek-kays-blogroll/",
-        "targetUrl": "https://darekkay.com/personal-blogs/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://darekkay.com/"
       }
     ]
   },
@@ -4788,6 +4796,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
         "targetUrl": "https://theforest.link/"
+      }
+    ]
+  },
+  {
+    "domain": "thepcspy.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/23/styled-rss-feeds/",
+        "targetUrl": "https://thepcspy.com/read/what-happened-to-rss/"
       }
     ]
   },
