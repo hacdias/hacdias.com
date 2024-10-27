@@ -729,6 +729,17 @@ trips:
   itinerary:
   - { departure: 2024-08-23T12:21:00+02:00, arrival: 2024-08-23T13:35:00+02:00, origin: *station_eindhoven_centraal, destination: *station_maastricht, type: train, operator: NS }
   - { departure: 2024-08-25T10:52:00+02:00, arrival: 2024-08-25T12:03:00+02:00, origin: *station_maastricht, destination: *station_eindhoven_centraal, type: train, operator: NS }
+- name: Trip With Partner's Family
+  place: "🇪🇸 Costa del Sol & Seville"
+  start: 2024-10-19
+  date: 2024-10-26
+  latitude: 36.514592
+  longitude: -4.6378735
+  itinerary:
+  - { departure: 2024-10-19T14:45:00+02:00, arrival: 2024-10-19T18:00:00+02:00, origin: *airport_ams, destination: { name: 'Málaga–Costa del Sol Airport' }, type: air, operator: Vueling, number: VY8366 }
+  - { departure: 2024-10-22T09:17:00+02:00, arrival: 2024-10-22T11:19:00+02:00, origin: { name: 'Málaga María Zambrano' }, destination: { name: 'Sevilla-Santa Justa' }, type: train, operator: Renfe, number: 'AVANT 08694' }
+  - { departure: 2024-10-22T19:13:00+02:00, arrival: 2024-10-22T21:12:00+02:00, origin: { name: 'Sevilla-Santa Justa' }, destination: { name: 'Málaga María Zambrano' }, type: train, operator: Renfe, number: 'AVANT 08195' }
+  - { departure: 2024-10-26T11:25:00+02:00, arrival: 2024-10-26T14:30:00+02:00, origin: { name: 'Málaga–Costa del Sol Airport' }, destination: *airport_ams, type: air, operator: EasyJet, number: U27890 }
 # - name:
 #   place:
 #   start:
