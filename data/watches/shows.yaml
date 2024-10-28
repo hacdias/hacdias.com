@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Dertigers
+  season: 5
+  rating: 4
+  date: 2024-10-26
 - name: The Signal
   season: 1
   rating: 4
