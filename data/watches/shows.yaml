@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Agatha All Along
+  season: 1
+  rating: 5
+  date: 2024-10-31
 - name: Dertigers
   season: 5
   rating: 4
