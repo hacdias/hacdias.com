@@ -6,6 +6,10 @@ categories:
 tags:
 - now
 - travel
+coverImage: cdn:/2024-10-fuengirola
+syndication:
+- https://bsky.app/profile/hacdias.com/post/3l7xgqj5nal2l
+- https://fosstodon.org/@hacdias/113412791482682134
 ---
 
 October is now two days away. Halloween is gone - which I always enjoying mentioning despite never doing anything for it -, and my birthday too. I'm now 25, a quarter of a century, a very interesting-feeling number. Some would say it's now closer to the 30s than to the 20s. Let's recap what's happened this last month!

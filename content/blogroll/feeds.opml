@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sat, 19 Oct 2024 03:00:05 UTC</dateCreated>
+        <dateCreated>Sun, 03 Nov 2024 04:00:05 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -63,6 +63,7 @@
             <outline title="Pesky&#39;s Blog" text="Pesky&#39;s Blog" xmlUrl="https://blog.pesky.moe/index.xml" htmlUrl="https://blog.pesky.moe/" type="rss"></outline>
             <outline title="Phil Eaton" text="Phil Eaton" xmlUrl="https://notes.eatonphil.com/rss.xml" htmlUrl="http://notes.eatonphil.com/" type="rss"></outline>
             <outline title="Rakhim Davletkaliyev" text="Rakhim Davletkaliyev" xmlUrl="https://rakhim.org/index.xml" htmlUrl="https://rakhim.org/" type="rss"></outline>
+            <outline title="Riccardo" text="Riccardo" xmlUrl="https://tilde.team/~zinricky/atom.xml" htmlUrl="https://tilde.team/~zinricky" type="rss"></outline>
             <outline title="Robb Knight" text="Robb Knight" xmlUrl="https://rknight.me/subscribe/posts/atom.xml" htmlUrl="https://rknight.me/subscribe/posts/atom.xml" type="rss"></outline>
             <outline title="Robin Berjon" text="Robin Berjon" xmlUrl="https://berjon.com/feed.atom" htmlUrl="https://berjon.com/" type="rss"></outline>
             <outline title="Rohan Kumar" text="Rohan Kumar" xmlUrl="https://seirdy.one/atom.xml" htmlUrl="https://seirdy.one" type="rss"></outline>
