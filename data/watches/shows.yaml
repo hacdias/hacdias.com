@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Bear
+  season: 1
+  rating: 4
+  date: 2024-11-05
 - name: Agatha All Along
   season: 1
   rating: 5
