@@ -487,6 +487,11 @@
       "title": "Soju Releases",
       "site": "https://git.sr.ht/~emersion/soju/refs",
       "feed": "https://git.sr.ht/~emersion/soju/refs/rss.xml"
+    },
+    {
+      "title": "This Week in Self-Hosted",
+      "site": "https://selfh.st/",
+      "feed": "https://selfh.st/rss/"
     }
   ]
 }
