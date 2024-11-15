@@ -327,7 +327,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 69,
+    "count": 68,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -588,10 +588,6 @@
       {
         "sourceUrl": "https://hacdias.com/2024/10/21/ikigai/",
         "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781786330895"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Fediverse"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
