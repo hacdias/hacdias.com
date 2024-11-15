@@ -22,26 +22,14 @@ The second easiest way is to reach me out via an instant messaging platform. I'v
 - [{{< favicon "signal.org" >}} Signal: hacdias.22](https://signal.me/#eu/3hipC8LRH2b1TEsjWGQzg0QoXDV2cuf6yJjSWWlPHOVIoXvwoPJPR6hFbOYLy1II)
 {.terms}
 
-<!-- - [{{< favicon "telegram.org" >}} Telegram: @hacdias](https://t.me/hacdias) -->
-
-## 🐘 Fediverse {#fediverse}
-
-Nowadays, the social media I'm the most active on is Mastodon. You can follow me in any other platform that is part of the [Fediverse](https://en.wikipedia.org/wiki/Fediverse), such as Mastodon, PixelFeed, Pleroma, etc.
-
-- [{{< favicon "fosstodon.org" >}} @hacdias@fosstodon.org](https://fosstodon.org/@hacdias)
-{.terms}
-
 ## 🌐 Elsewhere {#elsewhere}
 
 I can usually be found in most places as [@hacdias](/about/#handle). Some of the most interesting ones:
 
+- [{{< favicon "bsky.app" >}} Bluesky: @hacdias.com](https://bsky.app/profile/hacdias.com)
+- [{{< favicon "fosstodon.org" >}} Fedi: @hacdias@fosstodon.org](https://fosstodon.org/@hacdias)
+- [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
 - [{{< favicon "github.com" >}} GitHub: @hacdias](https://github.com/hacdias)
 - [{{< favicon "linkedin.com" >}} LinkedIn: @hacdias](https://linkedin.com/in/hacdias)
-- [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
-- [{{< favicon "bsky.app" >}} Bluesky: @hacdias.com](https://bsky.app/profile/hacdias.com)
 - [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
 {.terms}
-<!---  
-
-- [{{< favicon "discord.com" >}} Discord: @hacdias](https://discord.com/users/hacdias)
-- [{{< favicon "twitter.com" >}} X: @hacdias](https://twitter.com/hacdias) -->
