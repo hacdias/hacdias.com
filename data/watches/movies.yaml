@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: 'Juror #2'
+  rating: 5
+  date: 2024-11-20
 - name: The Wild Robot
   rating: 5
   date: 2024-10-28
