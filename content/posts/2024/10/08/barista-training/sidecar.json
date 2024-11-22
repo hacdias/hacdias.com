@@ -48,6 +48,14 @@
   ],
   "interactions": [
     {
+      "author": "Jasiel",
+      "authorPhoto": "https://webmention.io/avatar/cdn.bsky.app/9d339f629c269594fcbde57e76ee7f625f49e0f2348e865901c12f12cd563ca9.jpg",
+      "authorUrl": "https://bsky.app/profile/jasiel125.bsky.social",
+      "date": "2024-10-23T11:42:10Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3l5y6tws3eg24/did%253Aplc%253A4fovn54fga7tytqbngs2a3uw",
+      "type": "like"
+    },
+    {
       "author": "Simone or /^syx.*$/",
       "authorPhoto": "https://webmention.io/avatar/cdn.fosstodon.org/65173f0f9f5436d3ea15203ac5a1b02b2c0c19418acc79777dd0a82d9be10fdb.gif",
       "authorUrl": "https://hachyderm.io/@syx",
