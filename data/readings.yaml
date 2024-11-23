@@ -23,6 +23,12 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Shift
+    author: Hugh Howey
+    date: 2024-11-22
+    rating: 5
+    publisher: Random House
+    uid: isbn:9781448150199
   - name: Wool
     author: Hugh Howey
     date: 2024-10-29
