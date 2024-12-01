@@ -2,10 +2,11 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Tue, 12 Nov 2024 04:00:05 UTC</dateCreated>
+        <dateCreated>Sun, 01 Dec 2024 04:00:05 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
+            <outline title="Ben Werdmuller" text="Ben Werdmuller" xmlUrl="https://werd.io/content/posts?_t=rss" htmlUrl="https://werd.io/content/posts" type="rss"></outline>
             <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.xml" htmlUrl="https://aaronparecki.com/" type="rss"></outline>
             <outline title="Alistair Shepherd" text="Alistair Shepherd" xmlUrl="https://alistairshepherd.uk/feed.xml" htmlUrl="https://www.alistairshepherd.uk/" type="rss"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog" type="rss"></outline>
@@ -15,7 +16,6 @@
             <outline title="Ben Borgers" text="Ben Borgers" xmlUrl="https://ben.page/rss" htmlUrl="https://ben.page/" type="rss"></outline>
             <outline title="Ben Congdon" text="Ben Congdon" xmlUrl="https://benjamincongdon.me/feed.xml" htmlUrl="https://benjamincongdon.me/" type="rss"></outline>
             <outline title="Ben Cox" text="Ben Cox" xmlUrl="https://blog.benjojo.co.uk/rss.xml" htmlUrl="https://blog.benjojo.co.uk" type="rss"></outline>
-            <outline title="Ben Werdmuller" text="Ben Werdmuller" xmlUrl="https://werd.io/content/posts?_t=rss" htmlUrl="https://werd.io/content/posts" type="rss"></outline>
             <outline title="Brain Baking" text="Brain Baking" xmlUrl="https://brainbaking.com/index.xml" htmlUrl="https://brainbaking.com/" type="rss"></outline>
             <outline title="Coder&#39;s Block" text="Coder&#39;s Block" xmlUrl="https://codersblock.com/rss.xml" htmlUrl="https://codersblock.com" type="rss"></outline>
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
@@ -111,6 +111,7 @@
             <outline title="Miniflux" text="Miniflux" xmlUrl="https://miniflux.app/feed.xml" htmlUrl="https://miniflux.app" type="rss"></outline>
             <outline title="Soju Releases" text="Soju Releases" xmlUrl="https://git.sr.ht/~emersion/soju/refs/rss.xml" htmlUrl="https://git.sr.ht/~emersion/soju/refs" type="rss"></outline>
             <outline title="This Week in Self-Hosted" text="This Week in Self-Hosted" xmlUrl="https://selfh.st/rss/" htmlUrl="https://selfh.st/" type="rss"></outline>
+            <outline title="Yivi Blog" text="Yivi Blog" xmlUrl="https://docs.staging.yivi.app/blog/rss.xml" htmlUrl="https://docs.yivi.app/blog" type="rss"></outline>
         </outline>
     </body>
 </opml>
