@@ -492,6 +492,11 @@
       "title": "This Week in Self-Hosted",
       "site": "https://selfh.st/",
       "feed": "https://selfh.st/rss/"
+    },
+    {
+      "title": "Yivi Blog",
+      "site": "https://docs.yivi.app/blog",
+      "feed": "https://docs.staging.yivi.app/blog/rss.xml"
     }
   ]
 }
