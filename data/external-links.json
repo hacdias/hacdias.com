@@ -3660,6 +3660,16 @@
     ]
   },
   {
+    "domain": "inproc.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/01/recently/",
+        "targetUrl": "https://inproc.nl/"
+      }
+    ]
+  },
+  {
     "domain": "intergalactic.systems",
     "count": 1,
     "links": [
@@ -3826,6 +3836,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/06/16/few-weeks-with-kobo/",
         "targetUrl": "https://gl.kobobooks.com/products/kobo-clara-hd"
+      }
+    ]
+  },
+  {
+    "domain": "kunsthal.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/01/recently/",
+        "targetUrl": "https://www.kunsthal.nl/"
       }
     ]
   },
