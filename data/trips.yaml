@@ -189,6 +189,11 @@ train_stations:
     country: Germany
     latitude: 51.91118774066118
     longitude: 10.421758789287184
+  groningen: &station_groningen
+    name: Groningen
+    country: Netherlands
+    latitude: 53.211022
+    longitude: 6.5614893
   hannover_hbf: &station_hannover_hbf
     name: Hannover Hbf
     country: Germany
@@ -729,6 +734,15 @@ trips:
   itinerary:
   - { departure: 2024-08-23T12:21:00+02:00, arrival: 2024-08-23T13:35:00+02:00, origin: *station_eindhoven_centraal, destination: *station_maastricht, type: train, operator: NS }
   - { departure: 2024-08-25T10:52:00+02:00, arrival: 2024-08-25T12:03:00+02:00, origin: *station_maastricht, destination: *station_eindhoven_centraal, type: train, operator: NS }
+- name: Weekend Trip With Partner
+  place: "🇳🇱 Groningen"
+  start: 2024-08-31
+  date: 2024-09-01
+  latitude: 53.2218529
+  longitude: 6.4832932
+  itinerary:
+  - { departure: 2024-08-31T09:54:00+02:00, arrival: 2024-08-31T12:47:00+02:00, origin: *station_eindhoven_centraal, destination: *station_groningen, type: train, operator: NS }
+  - { departure: 2024-09-01T15:41:00+02:00, arrival: 2024-09-01T19:02:00+02:00, origin: *station_groningen, destination: *station_eindhoven_centraal, type: train, operator: NS }
 - name: Trip With Partner's Family
   place: "🇪🇸 Costa del Sol & Seville"
   start: 2024-10-19
