@@ -21,7 +21,7 @@ img.cute-listener {
 
 Firstly, some quick statistics: in 2023, I scrobbled **19 256** times, with an average of **52** scrobbles per day. In total, I listened to **42 days, 7 hours** of music. My most popular genres, from the most popular to the least popular, are pop, electronic, indie, dutch, rock and dance. I noticed I listened to less music according to Last.fm. However, I've also listened to way more physical media, which is not tracked.
 
-## 🎤 Artists
+## 🎤 Artists {#artists}
 
 <div class='fg fw top-grid'>
 
@@ -109,7 +109,7 @@ This year, there's quite a change on my top artists. My top 10 is now dominated 
 
 </details>
 
-## 💿 Albums
+## 💿 Albums {#albums}
 
 <div class='fg fw top-grid'>
 
@@ -197,7 +197,7 @@ Unsurprisingly, most of my top albums are also from my top artists. In oppositio
 
 </details>
 
-## 🎵 Songs
+## 🎵 Songs {#songs}
 
 Song-wise, I still believe in what I said last year: it's not extremely interesting to see. However, the data is here, and, Unsurprisingly, my top 50 songs come out of my top artists.
 
@@ -261,11 +261,11 @@ Song-wise, I still believe in what I said last year: it's not extremely interest
 
 </details>
 
-## 🎫 Concerts
+## 🎫 Concerts {#concerts}
 
 Last year marked the time I went to my first real concert. This year followed very nicely. I saw quite a few artists live, namely Rina Sawayama, Caroline Polacheck, Pieter de Graaf, RAYE (as a pre-show), SZA and Chappell Roan. I really wished I had managed to get a ticket to RAYE's actual concert, but not even TicketSwap helped me with that one.
 
-## 🎁 Spotify Wrapped
+## 🎁 Spotify Wrapped {#spotify-wrapped}
 
 As I [expected](/2023/11/30/spotify-wrapped/) from the earliness of Spotify Wrapped, it did not fully paint the picture of 2023. There were some mistakes. Firstly, my top song was not *Slapeloosheid*, but *Onbezonnen*. Also, my top artist wasn't RAYE, but Froukje. Nevertheless, minimally accurate, except for the last month and a half.
 

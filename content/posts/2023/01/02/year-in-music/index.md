@@ -26,7 +26,7 @@ I want to preface this article by mentioning that I mostly use [Spotify](https:/
 
 Last.fm has a very nice API that allows me to download all of my history very easily. Even though I use their API to fetch the most data I can about my listening habits, Last.fm also provides a set of statistics on their website. Those statistics are what I am mostly sharing now, since they already provide a very good aggregation of data that I would have to fetch from multiple APIs and then aggregate myself.
 
-## 🎤 Artists
+## 🎤 Artists {#artists}
 
 <div class='fg fw top-grid'>
 
@@ -114,7 +114,7 @@ Regarding artists, we see Years & Years, Marina and Lorde at the top, which does
 
 </details>
 
-## 💿 Albums
+## 💿 Albums {#albums}
 
 <div class='fg fw top-grid'>
 
@@ -202,7 +202,7 @@ Unsurprisingly, my top albums of the year are from the top artists I've listed t
 
 </details>
 
-## 🎵 Songs
+## 🎵 Songs {#songs}
 
 Not as interesting as the albums and artists, but, for the record, I am also keeping here the top 50 songs of the year. Nevertheless, it is curious to see that the songs I've listened to the most are not necessarily by the same order as the albums I have listened to the most. I guess it means that some songs really got stuck in my head thorough the year.
 
@@ -266,11 +266,11 @@ Not as interesting as the albums and artists, but, for the record, I am also kee
 
 </details>
 
-## 🎫 Concerts 
+## 🎫 Concerts {#concerts}
 
 Not only did I go to my first real concert in 2022, but also went to perhaps way too many. I saw Marina, Lorde, MØ, Tove Lo and Lady Gaga. They were all incredible in their own way and I am grateful I was able to attend all of them. Living in The Netherlands, it is very easy to go to a concert because almost all artists end up coming here. It's a massive difference when compared to Portugal, where only the top of the top may go to Portugal if they're doing a very very large tour.
 
-## 🎁 Spotify Wrapped
+## 🎁 Spotify Wrapped {#spotify-wrapped}
 
 I always distrust Spotify Wrapped a bit. For one, it is published at the beginning of December. Yes, it definitely is a good way to have an overview about what I listened to during the year. However, it doesn't include the last month of the year, which can change the statistics. Nevertheless, I am including it here so that I can have a comparison between my own data and Spotify's Wrapped.
 
