@@ -339,13 +339,6 @@ details summary {
   aspect-ratio: 16 / 9;
 }
 
-.fw {
-  width: calc(100% + 2 * var(--ls));
-  margin-left: calc(var(--ls) * -1);
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
 #header,
 #header #home {
   display: flex;
@@ -800,6 +793,13 @@ figure,
 .only-dark,
 .dark .only-light {
   display: none;
+}
+
+.fw {
+  width: calc(100% + 2 * var(--ls));
+  margin-left: calc(var(--ls) * -1);
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 @media screen and (max-width: 53rem) {
