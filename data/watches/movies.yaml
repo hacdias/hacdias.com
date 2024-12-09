@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Conclave
+  date: 2024-12-08
+  rating: 4
 - name: Here
   date: 2024-11-29
   rating: 4
