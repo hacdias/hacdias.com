@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Dwars door de Lage Landen
+  season: 1
+  rating: 4
+  date: 2024-12-03
 - name: Abbott Elementary
   season: 3
   rating: 4
