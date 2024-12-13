@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Heretic
+  date: 2024-12-12
+  rating: 4
 - name: Conclave
   date: 2024-12-08
   rating: 4
