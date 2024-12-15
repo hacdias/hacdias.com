@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Wicked
+  date: 2024-12-14
+  rating: 4
 - name: Heretic
   date: 2024-12-12
   rating: 4
