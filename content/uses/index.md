@@ -10,7 +10,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 ## 📟 Hardware {#hardware}
 
 - **Laptop** <span>2021 MacBook Pro 14"</span>
-- **Smartphone** <span>iPhone 14 Pro</span>
+- **Smartphone** <span>iPhone 16 Pro</span>
 - **Watch** <span>Apple Watch Series 9</span>
 - **Tablet** <span>2018 iPad Pro 11"</span>
 - **Headphones** <span>Sony WH-1000XM5</span>
@@ -29,13 +29,12 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
 - **Desk** <span>Ahrend Balance Solo (Electric, 120 x 80)</span>
-- **Chair** <span>Zinn Smart</span>
-- **Monitor Stand** <span>IKEA ELLOVEN</span>
-- **Monitor** <span>Dell U2720Q</span>
-- **Keyboard** <span>NuPhy Air96, NuPhy Air75</span>
+- **Chair** <span>Zinn Smart, Ahrend Verta</span>
+- **Monitor Stand** <span>IKEA ELLOVEN, IKEA SIGFINN</span>
+- **Monitor** <span>Dell U2720Q, Dell U2723QE</span>
+- **Keyboard** <span>NuPhy Air96, NuPhy Air75, NuPhy Air75 V2</span>
 - **Mouse** <span>Logitech MX Vertical</span>
 - **Laptop Stand** <span>Rain mStand, Roost V3</span>
-- **Dock** <span>CalDigit TS4</span>
 - **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
 {.box .tb}
 
