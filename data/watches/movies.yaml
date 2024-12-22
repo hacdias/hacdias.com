@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Flow
+  date: 2024-12-21
+  rating: 4
 - name: Wicked
   date: 2024-12-14
   rating: 4
