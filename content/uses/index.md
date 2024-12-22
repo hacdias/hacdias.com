@@ -1,6 +1,6 @@
 ---
 title: Things That I Use
-coverImage: cdn:/2024-06-desk-home
+coverImage: cdn:/2024-12-desk-home
 ---
 
 This page is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you what things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be accurate at all times, but I try to update it every now and then to make sure it is up to date.
@@ -22,20 +22,19 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **Keychain** <span>Orbitkey Key Organizer</span>
 {.box .tb}
 
-### 🏡 Home {#home}
+### ⌨️ Desk {#desk}
 
-![Desk at Home](cdn:/2024-06-desk-home?class=fw)
+![Desk at Home](cdn:/2024-12-desk-home?class=fw)
 
-At home I also have a desk with some things. This desk is used by my partner or I when we have to work from home, or if we want to do computer else on our laptops but we prefer to use a desk for it. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
+At home, we have two desks: one in the living room, and one in the bedroom. Maybe in the future, if we have a separate room, we can make it our office, and place the desks there. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
-- **Desk** <span>Ahrend Balance Solo (Electric, 120 x 80)</span>
-- **Chair** <span>Zinn Smart, Ahrend Verta</span>
-- **Monitor Stand** <span>IKEA ELLOVEN, IKEA SIGFINN</span>
-- **Monitor** <span>Dell U2720Q, Dell U2723QE</span>
-- **Keyboard** <span>NuPhy Air96, NuPhy Air75, NuPhy Air75 V2</span>
+- **Desk** <span>DPJ Workspace Standard Standing Desk (Electric, 100 x 70)</span>
+- **Chair** <span>Ahrend Verta</span>
+- **Monitor Stand** <span>IKEA SIGFINN</span>
+- **Monitor** <span>Dell U2723QE</span>
+- **Keyboard** <span>NuPhy Air75 V2, NuPhy Air96, NuPhy Air75</span>
 - **Mouse** <span>Logitech MX Vertical</span>
 - **Laptop Stand** <span>Rain mStand, Roost V3</span>
-- **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
 {.box .tb}
 
 ### 📷 Photography {#photography}
