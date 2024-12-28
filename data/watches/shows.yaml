@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: 'Dune: Prophecy'
+  season: 1
+  rating: 5
+  date: 2024-12-27
 - name: Dwars door de Lage Landen
   season: 1
   rating: 4
