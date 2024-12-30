@@ -1,0 +1,26 @@
+{
+  "bratislava_most_snp": {
+    "name": "Bratislava (Most SNP)"
+  },
+  "eindhoven_jfkennedylaan": {
+    "country": "Netherlands",
+    "latitude": 51.4455801,
+    "longitude": 5.4809177,
+    "name": "Eindhoven (John F. Kennedylaan)"
+  },
+  "lux_pr_bouillon": {
+    "country": "Luxembourg",
+    "latitude": 49.59988,
+    "longitude": 6.106621,
+    "name": "Luxembourg P+R Bouillon"
+  },
+  "paris_bercy_seine": {
+    "country": "France",
+    "latitude": 48.83618735,
+    "longitude": 2.379489121167401,
+    "name": "Paris (Bercy Seine)"
+  },
+  "wien_erdberg": {
+    "name": "Wien Erdberg"
+  }
+}

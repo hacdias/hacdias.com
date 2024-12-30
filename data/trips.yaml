@@ -1,373 +1,3 @@
-airports:
-  ams: &airport_ams
-    name: Schiphol Airport
-    country: Netherlands
-    latitude: 52.3080556
-    longitude: 4.7641667
-  ber: &airport_ber
-    name: Berlin Brandenburg Airport
-    country: Germany
-    latitude: 52.3622472
-    longitude: 13.5006722
-  bgy: &airport_bgy
-    name: Milan Bergamo Airport
-    country: Italy
-    latitude: 45.6688889
-    longitude: 9.7002778
-  bru: &airport_bru
-    name: Brussels Airport
-    country: Belgium
-    latitude: 50.9013889
-    longitude: 4.4844444
-  crl: &airport_crl
-    name: Charleroi Airport
-    country: Belgium
-    latitude: 50.46
-    longitude: 4.4527778
-  ein: &airport_ein
-    name: Eindhoven Airport
-    country: Netherlands
-    latitude: 51.45
-    longitude: 5.3744444
-  fao: &airport_fao
-    name: Faro Airport
-    country: Portugal
-    latitude: 37.0144444
-    longitude: -7.9658333
-  fra:  &airport_fra
-    name: Frankfurt Airport
-    country: Germany
-    latitude: 50.0333056
-    longitude: 8.5704556
-  gla: &airport_gla
-    name: Glasgow Airport
-    country: United Kingdom
-    latitude: 55.8719444
-    longitude: -4.4330556
-  lis: &airport_lis
-    name: Lisbon Airport
-    country: Portugal
-    latitude: 38.7741667
-    longitude: -9.1341667
-  lgw: &airport_lgw
-    name: Gatwick Airport
-    country: United Kingdom
-    latitude: 51.1480556
-    longitude: -0.1902778
-  lhr: &airport_lhr
-    name: Heathrow Airport
-    country: United Kingdom
-    latitude: 51.4775
-    longitude: -0.4613889
-  lux: &airport_lux
-    name: Luxembourg Airport
-    country: Luxembourg
-    latitude: 49.6233333
-    longitude: 6.2044444
-  nap: &airport_nap
-    name: Naples Airport
-    country: Italy
-    latitude: 40.8844444
-    longitude: 14.2908333
-  pdl: &airport_pdl
-    name: Ponta Delgada Airport
-    country: Portugal
-    latitude: 37.7419444
-    longitude: -25.6977778
-  prg: &airport_prg
-    name: Prague Airport
-    country: Czechia
-    latitude: 50.1008333
-    longitude: 14.26
-  sjo: &airport_sjo
-    name: Juan Santamaría Airport
-    country: Costa Rica
-    latitude: 9.9939028
-    longitude: -84.2088556
-  zrh: &airport_zrh
-    name: Zurich Airport
-    country: Switzerland
-    latitude: 47.4580556
-    longitude: 8.5480556
-
-train_stations:
-  amsterdam_centraal: &amsterdam_centraal
-    name: Amsterdam Centraal
-    country: Netherlands
-    latitude: 52.378901
-    longitude: 4.9005805
-  antwerpen_centraal: &antwerpen_centraal_station
-    latitude: 51.2159949
-    longitude: 4.4211011
-    name: Antwerpen-Centraal Station
-    country: Belgium
-  antwerpen_berchem: &antwerpen_berchem_station
-    latitude: 51.19987052107281
-    longitude: 4.432329201041624
-    name: Antwerpen-Berchem Station
-    country: Belgium
-  basel_sbb: &station_basel_sbb
-    name: Basel SBB
-    country: Switzerland
-    latitude: 47.54768865522458
-    longitude: 7.590017533226856
-  berlin_hbf: &berlin_hbf
-    name: Berlin Hbf
-    country: Germany
-    latitude: 51.5735198
-    longitude: 7.3040977
-  bergamo: &station_bergamo
-    name: Bergamo
-    country: Italy
-    latitude: 45.6944947
-    longitude: 9.6698727
-  bologna_centrale: &station_bologna_centrale
-    name: Bologna Centrale
-    country: Italy
-    latitude: 44.5071559
-    longitude: 11.3429422
-  breda: &station_breda
-    name: Breda
-    country: Netherlands
-    latitude: 51.5887845
-    longitude: 4.7760237
-  brugge: &brugge_station
-    latitude: 51.19779494069309
-    longitude: 3.218387396807249
-    name: Brugge Station
-    country: Belgium
-  brussels_central: &brussels_central_station
-    name: Brussels-Central Station
-    country: Belgium
-    latitude: 50.8455466502565
-    longitude: 4.357120007195408
-  brussels_north: &brussels_north_station
-    name: Brussels-North Station
-    country: Belgium
-    latitude: 50.8603818
-    longitude: 4.3600896
-  brussels_south: &brussels_south_station
-    name: Brussels-South Station
-    country: Belgium
-    latitude: 50.8356748
-    longitude: 4.3362419
-  den_bosch: &station_den_bosch
-    name: "'s-Hertogenbosch"
-    country: Netherlands
-    latitude: 51.69067909138907
-    longitude: 5.293829204614895
-  deventer: &station_deventer
-    name: Deventer
-    country: Netherlands
-    latitude: 52.257201687770454
-    longitude: 6.160697510761772
-  duisburg_hbf: &station_duisburg_hbf
-    name: Duisburg Hbf
-    country: Germany
-    latitude: 51.42960338575534
-    longitude: 6.776270223505512
-  dusseldorf_hbf: &station_dusseldorf_hbf
-    name: Düsseldorf Hbf
-    country: Germany
-    latitude: 51.22024929458281
-    longitude: 6.793200151101101
-  eindhoven_centraal: &station_eindhoven_centraal
-    name: Eindhoven Centraal
-    country: Netherlands
-    latitude: 51.4429623
-    longitude: 5.4795265
-  eindhoven_strijps: &station_eindhoven_strijps
-    name: Eindhoven Strijp-S
-    country: Netherlands
-    latitude: 51.45056231310715
-    longitude: 5.457695262479608
-  engelberg: &station_engelberg
-    name: Engelberg
-    country: Switzerland
-    latitude: 46.81951501851058
-    longitude: 8.402709497542658
-  firenze_smn: &station_firenze_smn
-    name: Firenze Santa Maria Novella
-    country: Italy
-    latitude: 43.7775719
-    longitude: 11.2474177
-  gent_st_pieters: &gent_st_pieters_station
-    name: Gent St Pieters
-    country: Belgium
-    latitude: 51.03609455
-    longitude: 3.71080494219295
-  gent_dampoort: &gent_dampoort_station
-    name: Gent Dampoort
-    country: Belgium
-    latitude: 51.05543848507556
-    longitude: 3.7413201526203723
-  geneve_cornavin: &station_geneve_cornavin
-    name: Genève Cornavin
-    country: Switzerland
-  goslar: &station_goslar
-    name: Goslar
-    country: Germany
-    latitude: 51.91118774066118
-    longitude: 10.421758789287184
-  groningen: &station_groningen
-    name: Groningen
-    country: Netherlands
-    latitude: 53.211022
-    longitude: 6.5614893
-  hannover_hbf: &station_hannover_hbf
-    name: Hannover Hbf
-    country: Germany
-    latitude: 52.376698613166866
-    longitude: 9.741047297273422
-  koln_hbf: &koln_hbf
-    name: Köln Hbf
-    country: Germany
-    latitude: 50.9432141
-    longitude: 6.9560268
-  lille_flanders: &station_lille_flanders
-    name: Gare de Lille-Flandres
-    country: France
-    latitude: 50.636389
-    longitude: 3.070833
-  london_st_pancras: &station_london_st_pancras
-    name: London St Pancras Int'l
-    country: United Kingdom
-    latitude: 51.5318912
-    longitude: -0.1268506
-  luzern: &station_luzern
-    name: Luzern
-    country: Switzerland
-    latitude: 47.0531688274953
-    longitude: 8.257767354075861
-  napoli_centrale: &station_napoli_centrale
-    latitude: 40.8525947
-    longitude: 14.272366631869446
-    name: Napoli Centrale
-    country: Italy
-  neuss_hbf: &neuss_hbf
-    name: Neuss Hbf
-    country: Germany
-    latitude: 51.2043643
-    longitude: 6.6820122
-  maastricht: &station_maastricht
-    name: Maastricht
-    country: Netherlands
-    latitude: 50.85030027278323
-    longitude: 5.706030998577679
-  milano_centrale: &station_milano_centrale
-    name: Milano Centrale
-    country: Italy
-    latitude: 45.4858786
-    longitude: 9.2042617
-  monchengladbach_hbf: &station_monchengladbach_hbf
-    name: Mönchengladbach Hbf
-    country: Germany
-    latitude: 51.19692906751327
-    longitude: 6.446281036531824
-  munchen_hbf: &station_munchen_hbf
-    name: München Hbf
-    country: Germany
-  paris_gare_du_nord: &station_paris_gare_du_nord
-    name: Paris Gare du Nord
-    country: France
-    latitude: 48.88111034893081
-    longitue: 2.3555497314521947
-  paris_gare_de_lyon: &station_paris_gare_de_lyon
-    name: Paris Gare de Lyon
-    country: France
-  pepinster: &station_pepinster
-    name: Pepinster
-    country: Belgium
-    latitude: 50.56823092530909
-    longitude: 5.806170747370984
-  pisa_centrale: &station_pisa_centrale
-    name: Pisa Centrale
-    country: Italy
-    latitude: 43.708398
-    longitude: 10.3984995
-  praha_hln: &praha_hln
-    name: Praha hl.n.
-    country: Czechia
-    latitude: 50.0830349
-    longitude: 14.436145
-  roma_termini: &station_roma_termini
-    name: Roma Termini
-    country: Italy
-    latitude: 41.9005815
-    longitude: 12.5025272
-  rotterdam_centraal: &station_rotterdam_centraal
-    name: Rotterdam Centraal
-    country: Netherlands
-    latitude: 51.9250574
-    longitude: 4.4692289
-  spa: &station_spa
-    name: Spa
-    country: Belgium
-    latitude: 50.4903021
-    longitude: 5.8528801
-  tilburg: &station_tilburg
-    name: Tilburg
-    country: Netherlands
-    latitude: 51.560421401860346
-    longitude: 5.084073433598997
-  utrecht_centraal: &station_utrecht_centraal
-    name: Utrecht Centraal
-    latitude: 52.08948710105604
-    longitude: 5.1098606530824044
-  venezia_slucia: &station_venezia_slucia
-    name: Venezia S. Lucia
-    country: Italy
-    latitude: 45.4410753
-    longitude: 12.3210322
-  venlo: &station_venlo
-    name: Venlo
-    country: Netherlands
-    latitude: 51.36520090266271
-    longitude: 6.171229605758007
-  viersen: &station_viersen
-    name: Viersen
-    country: Germany
-    latitude: 51.255034262874574
-    longitude: 6.404207133425752
-  wernigerode_hbf: &station_wernigerode_hbf
-    name: Wernigerode Hbf
-    latitude: 51.84013619214658
-    longitude: 10.789349062293116
-  wien_hbf: &station_wien_hbf
-    name: Wien Hbf
-    latitude: 48.186667
-    longitude: 16.38
-  zurich_hb: &station_zurich_hb
-    name: Zürich HB
-    country: Switzerland
-
-bus_stops:
-  eindhoven_jfkennedylaan: &eindhoven_jfkennedylaan
-    name: Eindhoven (John F. Kennedylaan)
-    country: Netherlands
-    latitude: 51.4455801
-    longitude: 5.4809177
-  liege_guillemins: &liege_guillemins
-    name: Liège Guillemins
-    country: Belgium
-    latitude: 50.6280272
-    longitude: 5.5678065
-  lux_pr_bouillon: &lux_pr_bouillon
-    name: Luxembourg P+R Bouillon
-    country: Luxembourg
-    latitude: 49.59988
-    longitude: 6.106621
-  paris_bercy_seine: &paris_bercy_seine
-    name: Paris (Bercy Seine)
-    country: France
-    latitude: 48.83618735
-    longitude: 2.379489121167401
-  wien_erdberg: &wien_erdberg
-    name: Wien Erdberg
-  bratislava_most_snp: &bratislava_most_snp
-    name: Bratislava (Most SNP)
-
-trips:
 - name: Graduation Trip
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
   start: 2017-04-06
@@ -375,8 +5,8 @@ trips:
   latitude: 51.50839474
   longitude: -0.12071889338
   itinerary:
-  - { departure: 2017-04-06T00:00:00Z, arrival: 2017-04-06T02:00:00Z, origin: *airport_fao, destination: *airport_lgw, type: air, operator: Easyjet, number: U28916 }
-  - { departure: 2017-04-10T00:00:00Z, arrival: 2017-04-10T02:00:00Z, origin: *airport_lgw, destination: *airport_fao, type: air, operator: Easyjet, number: U28929 }
+  - { departure: 2017-04-06T00:00:00Z, arrival: 2017-04-06T02:00:00Z, origin: airports.fao, destination: airports.lgw, type: air, operator: Easyjet, number: U28916 }
+  - { departure: 2017-04-10T00:00:00Z, arrival: 2017-04-10T02:00:00Z, origin: airports.lgw, destination: airports.fao, type: air, operator: Easyjet, number: U28929 }
 - name: FOSDEM 2018
   place: "🇧🇪 Bruxelles"
   start: 2018-02-02
@@ -384,8 +14,8 @@ trips:
   latitude: 50.84814463
   longitude: 4.3509642
   itinerary:
-  - { departure: 2018-02-02T00:00:00Z, arrival: 2018-02-02T02:00:00Z, origin: *airport_lis, destination: *airport_bru, type: air, operator: TAP Air Portugal, number: TP616 }
-  - { departure: 2018-02-05T00:00:00Z, arrival: 2018-02-05T02:00:00Z, origin: *airport_bru, destination: *airport_lis, type: air, operator: TAP Air Portugal, number: TP617 }
+  - { departure: 2018-02-02T00:00:00Z, arrival: 2018-02-02T02:00:00Z, origin: airports.lis, destination: airports.bru, type: air, operator: TAP Air Portugal, number: TP616 }
+  - { departure: 2018-02-05T00:00:00Z, arrival: 2018-02-05T02:00:00Z, origin: airports.bru, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP617 }
 - name: SmashingConf 2018
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
   start: 2018-02-07
@@ -393,8 +23,8 @@ trips:
   latitude: 51.50839474
   longitude: -0.12071889338
   itinerary:
-  - { departure: 2018-02-07T00:00:00Z, arrival: 2018-02-07T02:00:00Z, origin: *airport_lis, destination: *airport_lhr, type: air, operator: TAP Air Portugal, number: TP358 }
-  - { departure: 2018-02-15T00:00:00Z, arrival: 2018-02-15T02:00:00Z, origin: *airport_lhr, destination: *airport_lis, type: air, operator: TAP Air Portugal, number: TP369 }
+  - { departure: 2018-02-07T00:00:00Z, arrival: 2018-02-07T02:00:00Z, origin: airports.lis, destination: airports.lhr, type: air, operator: TAP Air Portugal, number: TP358 }
+  - { departure: 2018-02-15T00:00:00Z, arrival: 2018-02-15T02:00:00Z, origin: airports.lhr, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP369 }
 - name: LabWeek 2018
   place: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow"
   start: 2018-10-09
@@ -402,10 +32,10 @@ trips:
   latitude: 55.856437
   longitude: -4.2594757
   itinerary:
-  - { departure: 2018-10-09T00:00:00Z, arrival: 2018-10-09T02:00:00Z, origin: *airport_lis, destination: *airport_lhr, type: air, operator: TAP Air Portugal, number: TP366 }
-  - { departure: 2018-10-09T02:00:00Z, arrival: 2018-10-09T04:00:00Z, origin: *airport_lhr, destination: *airport_gla, type: air, operator: British Airways, number: BA1488 }
-  - { departure: 2018-10-13T12:10:00Z, arrival: 2018-10-13T13:10:00Z, origin: *airport_gla, destination: *airport_lhr, type: air, operator: British Airways, number: BA1483 }
-  - { departure: 2018-10-13T18:45:00Z, arrival: 2018-10-13T20:45:00Z, origin: *airport_lhr, destination: *airport_lis, type: air, operator: TAP Air Portugal, number: TP369 }
+  - { departure: 2018-10-09T00:00:00Z, arrival: 2018-10-09T02:00:00Z, origin: airports.lis, destination: airports.lhr, type: air, operator: TAP Air Portugal, number: TP366 }
+  - { departure: 2018-10-09T02:00:00Z, arrival: 2018-10-09T04:00:00Z, origin: airports.lhr, destination: airports.gla, type: air, operator: British Airways, number: BA1488 }
+  - { departure: 2018-10-13T12:10:00Z, arrival: 2018-10-13T13:10:00Z, origin: airports.gla, destination: airports.lhr, type: air, operator: British Airways, number: BA1483 }
+  - { departure: 2018-10-13T18:45:00Z, arrival: 2018-10-13T20:45:00Z, origin: airports.lhr, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP369 }
 - name: FOSDEM 2019
   place: "🇧🇪 Bruxelles"
   start: 2019-01-31
@@ -413,8 +43,8 @@ trips:
   latitude: 50.84814463
   longitude: 4.3509642
   itinerary:
-  - { departure: 2019-01-31T08:25:00Z, arrival: 2019-01-31T10:25:00Z, origin: *airport_lis, destination: *airport_bru, type: air, operator: TAP Air Portugal, number: TP646 }
-  - { departure: 2019-02-03T19:15:00Z, arrival: 2019-02-03T21:15:00Z, origin: *airport_bru, destination: *airport_lis, type: air, operator: TAP Air Portugal, number: TP649 }
+  - { departure: 2019-01-31T08:25:00Z, arrival: 2019-01-31T10:25:00Z, origin: airports.lis, destination: airports.bru, type: air, operator: TAP Air Portugal, number: TP646 }
+  - { departure: 2019-02-03T19:15:00Z, arrival: 2019-02-03T21:15:00Z, origin: airports.bru, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP649 }
 - name: Winter Trip With Friends
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London & Cambridge"
   start: 2019-02-05
@@ -422,8 +52,8 @@ trips:
   latitude: 52.205682141849415
   longitude: 0.12068018998829001
   itinerary:
-  - { departure: 2019-02-05T13:05:00Z, arrival: 2019-02-05T15:05:00Z, origin: *airport_lis, destination: *airport_lgw, type: air, operator: TAP Air Portugal, number: TP1336 }
-  - { departure: 2019-02-13T16:35:00Z, arrival: 2019-02-13T18:35:00Z, origin: *airport_lgw, destination: *airport_lis, type: air, operator: TAP Air Portugal, number: TP1337 }
+  - { departure: 2019-02-05T13:05:00Z, arrival: 2019-02-05T15:05:00Z, origin: airports.lis, destination: airports.lgw, type: air, operator: TAP Air Portugal, number: TP1336 }
+  - { departure: 2019-02-13T16:35:00Z, arrival: 2019-02-13T18:35:00Z, origin: airports.lgw, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP1337 }
 - name: Summer Trip With Parents
   place: "🇵🇹 São Miguel"
   start: 2019-07-10
@@ -431,8 +61,8 @@ trips:
   latitude: 37.78405535222057
   longitude: -25.495591717779313
   itinerary:
-  - { departure: 2019-07-09T22:20:00Z, arrival: 2019-07-10T00:20:00Z, origin: *airport_lis, destination: *airport_pdl, type: air, operator: Ryanair, number: FR2625 }
-  - { departure: 2019-07-12T18:40:00Z, arrival: 2019-07-12T20:40:00Z, origin: *airport_pdl, destination: *airport_lis, type: air, operator: Ryanair, number: FR2624 }
+  - { departure: 2019-07-09T22:20:00Z, arrival: 2019-07-10T00:20:00Z, origin: airports.lis, destination: airports.pdl, type: air, operator: Ryanair, number: FR2625 }
+  - { departure: 2019-07-12T18:40:00Z, arrival: 2019-07-12T20:40:00Z, origin: airports.pdl, destination: airports.lis, type: air, operator: Ryanair, number: FR2624 }
 - name: Summer Trip With Friends
   place: "🇩🇪 🇨🇿 Berlin and Praha"
   start: 2019-07-18
@@ -440,10 +70,10 @@ trips:
   latitude: 50.769831509008334
   longitude: 13.9182989902296
   itinerary:
-  - { departure: 2019-07-18T11:00:00Z, arrival: 2019-07-18T14:00:00Z, origin: *airport_lis, destination: *airport_ber, type: air, operator: Ryanair, number: FR4649 }
-  - { departure: 2019-07-25T19:10:00+02:00, arrival: 2019-07-25T21:26:00+02:00, origin: *berlin_hbf, destination: *praha_hln, type: train, operator: Deutsche Bahn, number: EC 179 }
-  - { departure: 2019-07-31T08:55:00Z, arrival: 2019-07-31T09:55:00Z, origin: *airport_prg, destination: *airport_crl, type: air, operator: Ryanair, number: FR2122 }
-  - { departure: 2019-07-31T15:10:00Z, arrival: 2019-07-31T17:10:00Z, origin: *airport_crl, destination: *airport_lis, type: air, operator: Ryanair, number: FR1300 }
+  - { departure: 2019-07-18T11:00:00Z, arrival: 2019-07-18T14:00:00Z, origin: airports.lis, destination: airports.ber, type: air, operator: Ryanair, number: FR4649 }
+  - { departure: 2019-07-25T19:10:00+02:00, arrival: 2019-07-25T21:26:00+02:00, origin: stations.berlin_hbf, destination: stations.praha_hln, type: train, operator: Deutsche Bahn, number: EC 179 }
+  - { departure: 2019-07-31T08:55:00Z, arrival: 2019-07-31T09:55:00Z, origin: airports.prg, destination: airports.crl, type: air, operator: Ryanair, number: FR2122 }
+  - { departure: 2019-07-31T15:10:00Z, arrival: 2019-07-31T17:10:00Z, origin: airports.crl, destination: airports.lis, type: air, operator: Ryanair, number: FR1300 }
 - name: LabWeek 2019
   place: "🇨🇷 Peninsula Papagayo"
   start: 2019-11-17
@@ -451,10 +81,10 @@ trips:
   latitude: 10.641647571154072
   longitude: -85.65888068018712
   itinerary:
-  - { departure: 2019-11-16T05:00:00Z, arrival: 2019-11-16T08:00:00Z, origin: *airport_lis, destination: *airport_fra, type: air, operator: Lufthansa, number: LH1173 }
-  - { departure: 2019-11-16T13:30:00Z, arrival: 2019-11-17T01:30:00Z, origin: *airport_fra, destination: *airport_sjo, type: air, operator: Lufthansa, number: LH518 }
-  - { departure: 2019-11-23T20:55:00Z, arrival: 2019-11-24T07:55:00Z, origin: *airport_sjo, destination: *airport_fra, type: air, operator: Lufthansa, number: LH519 }
-  - { departure: 2019-11-24T19:20:00Z, arrival: 2019-11-24T22:20:00Z, origin: *airport_fra, destination: *airport_lis, type: air, operator: Lufthansa, number: LH6956 }
+  - { departure: 2019-11-16T05:00:00Z, arrival: 2019-11-16T08:00:00Z, origin: airports.lis, destination: airports.fra, type: air, operator: Lufthansa, number: LH1173 }
+  - { departure: 2019-11-16T13:30:00Z, arrival: 2019-11-17T01:30:00Z, origin: airports.fra, destination: airports.sjo, type: air, operator: Lufthansa, number: LH518 }
+  - { departure: 2019-11-23T20:55:00Z, arrival: 2019-11-24T07:55:00Z, origin: airports.sjo, destination: airports.fra, type: air, operator: Lufthansa, number: LH519 }
+  - { departure: 2019-11-24T19:20:00Z, arrival: 2019-11-24T22:20:00Z, origin: airports.fra, destination: airports.lis, type: air, operator: Lufthansa, number: LH6956 }
 - name: Testground Hack Week
   place: "🇨🇭 Zürich"
   start: 2019-12-09
@@ -462,8 +92,8 @@ trips:
   latitude: 47.366724905991695
   longitude: 8.541540314401885
   itinerary:
-  - { departure: 2019-12-09T14:25:00Z, arrival: 2019-12-09T16:25:00Z, origin: *airport_lis, destination: *airport_zrh, type: air, operator: TAP Air Portugal, number: TP6763 }
-  - { departure: 2019-12-18T13:30:00Z, arrival: 2019-12-18T15:30:00Z, origin: *airport_zrh, destination: *airport_lis, type: air, operator: TAP Air Portugal, number: TP931 }
+  - { departure: 2019-12-09T14:25:00Z, arrival: 2019-12-09T16:25:00Z, origin: airports.lis, destination: airports.zrh, type: air, operator: TAP Air Portugal, number: TP6763 }
+  - { departure: 2019-12-18T13:30:00Z, arrival: 2019-12-18T15:30:00Z, origin: airports.zrh, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP931 }
 - name: Winter Trip With Friends
   place: "🇱🇺 🇧🇪 🇳🇱 Low Countries"
   start: 2020-02-03
@@ -471,12 +101,12 @@ trips:
   latitude: 50.74910338162263
   longitude: 5.89832101214984
   itinerary:
-  - { departure: 2020-02-03T16:40:00Z, arrival: 2020-02-03T18:40:00Z, origin: *airport_lis, destination: *airport_lux, type: air, operator: Ryanair, number: FR1791 }
-  - { departure: 2020-02-05T12:00:00+01:00, arrival: 2020-02-05T14:45:00+01:00, origin: *lux_pr_bouillon, destination: *brussels_north_station, type: bus, operator: FlixBus, number: "299" }
-  - { departure: 2020-02-07T11:45:00+01:00, arrival: 2020-02-07T12:45:00+01:00, origin: *brussels_north_station, destination: *antwerpen_centraal_station, type: bus, operator: FlixBus, number: "822" }
-  - { departure: 2020-02-07T18:30:00+01:00, arrival: 2020-02-07T19:20:00+01:00, origin: *antwerpen_centraal_station, destination: *brussels_north_station, type: bus, operator: FlixBus, number: "822" }
-  - { departure: 2020-02-08T09:52:00+01:00, arrival: 2020-02-08T11:45:00+01:00, origin: *brussels_south_station, destination: *amsterdam_centraal, type: train, operator: Thalys, number: "9415" }
-  - { departure: 2020-02-10T15:35:00Z, arrival: 2020-02-10T18:35:00Z, origin: *airport_ams, destination: *airport_lis, type: air, operator: Easyjet, number: U27664 }
+  - { departure: 2020-02-03T16:40:00Z, arrival: 2020-02-03T18:40:00Z, origin: airports.lis, destination: airports.lux, type: air, operator: Ryanair, number: FR1791 }
+  - { departure: 2020-02-05T12:00:00+01:00, arrival: 2020-02-05T14:45:00+01:00, origin: bus-stops.lux_pr_bouillon, destination: stations.brussels_north, type: bus, operator: FlixBus, number: "299" }
+  - { departure: 2020-02-07T11:45:00+01:00, arrival: 2020-02-07T12:45:00+01:00, origin: stations.brussels_north, destination: stations.antwerpen_centraal, type: bus, operator: FlixBus, number: "822" }
+  - { departure: 2020-02-07T18:30:00+01:00, arrival: 2020-02-07T19:20:00+01:00, origin: stations.antwerpen_centraal, destination: stations.brussels_north, type: bus, operator: FlixBus, number: "822" }
+  - { departure: 2020-02-08T09:52:00+01:00, arrival: 2020-02-08T11:45:00+01:00, origin: stations.brussels_south, destination: stations.amsterdam_centraal, type: train, operator: Thalys, number: "9415" }
+  - { departure: 2020-02-10T15:35:00Z, arrival: 2020-02-10T18:35:00Z, origin: airports.ams, destination: airports.lis, type: air, operator: Easyjet, number: U27664 }
 - name: Christmas Holiday With Parents
   place: "🇵🇹 Santana da Serra"
   start: 2020-12-15
@@ -484,8 +114,8 @@ trips:
   latitude: 37.500635
   longitude: -8.300669
   itinerary:
-  - { departure: 2020-12-15T19:30:00Z, arrival: 2020-12-15T22:30:00Z, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR7412 }
-  - { departure: 2020-12-27T14:55:00Z, arrival: 2020-12-27T16:55:00Z, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR7411 }
+  - { departure: 2020-12-15T19:30:00Z, arrival: 2020-12-15T22:30:00Z, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR7412 }
+  - { departure: 2020-12-27T14:55:00Z, arrival: 2020-12-27T16:55:00Z, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR7411 }
 - name: Summer Holiday
   place: "🇵🇹 Portugal"
   start: 2021-07-06
@@ -493,8 +123,8 @@ trips:
   latitude: 39.197282716346706
   longitude: -8.134221029813029
   itinerary:
-  - { departure: 2021-07-06T11:00:00Z, arrival: 2021-07-06T14:00:00Z, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR7412 }
-  - { departure: 2021-08-09T06:40:00Z, arrival: 2021-08-09T08:40:00Z, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR7411 }
+  - { departure: 2021-07-06T11:00:00Z, arrival: 2021-07-06T14:00:00Z, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR7412 }
+  - { departure: 2021-08-09T06:40:00Z, arrival: 2021-08-09T08:40:00Z, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR7411 }
 - name: Day Trip To Visit Friend
   place: "🇧🇪 Ghent"
   start: 2021-08-21
@@ -502,12 +132,12 @@ trips:
   latitude: 51.05006115686629
   longitude: 3.729049290922049
   itinerary:
-  - { departure: 2021-08-21T07:44:00+02:00, arrival: 2021-08-21T08:21:00+02:00, origin: *station_eindhoven_centraal, destination: *station_breda, type: train, operator: NS, number: IC1122 }
-  - { departure: 2021-08-21T08:42:00+02:00, arrival: 2021-08-21T09:16:00+02:00, origin: *station_breda, destination: *antwerpen_centraal_station, type: train, operator: NS International, number: IC9216 }
-  - { departure: 2021-08-21T09:37:00+02:00, arrival: 2021-08-21T10:32:00+02:00, origin: *antwerpen_centraal_station, destination: *gent_st_pieters_station, type: train, operator: SNCB, number: IC709 }
-  - { departure: 2021-08-21T17:27:00+02:00, arrival: 2021-08-21T18:23:00+02:00, origin: *gent_st_pieters_station, destination: *antwerpen_centraal_station, type: train, operator: SNCB, number: IC738 }
-  - { departure: 2021-08-21T18:44:00+02:00, arrival: 2021-08-21T19:18:00+02:00, origin: *antwerpen_centraal_station, destination: *station_breda, type: train, operator: NS International, number: IC9259 }
-  - { departure: 2021-08-21T19:38:00+02:00, arrival: 2021-08-21T20:15:00+02:00, origin: *station_breda, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC1171 }
+  - { departure: 2021-08-21T07:44:00+02:00, arrival: 2021-08-21T08:21:00+02:00, origin: stations.eindhoven_centraal, destination: stations.breda, type: train, operator: NS, number: IC1122 }
+  - { departure: 2021-08-21T08:42:00+02:00, arrival: 2021-08-21T09:16:00+02:00, origin: stations.breda, destination: stations.antwerpen_centraal, type: train, operator: NS International, number: IC9216 }
+  - { departure: 2021-08-21T09:37:00+02:00, arrival: 2021-08-21T10:32:00+02:00, origin: stations.antwerpen_centraal, destination: stations.gent_st_pieters, type: train, operator: SNCB, number: IC709 }
+  - { departure: 2021-08-21T17:27:00+02:00, arrival: 2021-08-21T18:23:00+02:00, origin: stations.gent_st_pieters, destination: stations.antwerpen_centraal, type: train, operator: SNCB, number: IC738 }
+  - { departure: 2021-08-21T18:44:00+02:00, arrival: 2021-08-21T19:18:00+02:00, origin: stations.antwerpen_centraal, destination: stations.breda, type: train, operator: NS International, number: IC9259 }
+  - { departure: 2021-08-21T19:38:00+02:00, arrival: 2021-08-21T20:15:00+02:00, origin: stations.breda, destination: stations.eindhoven_centraal, type: train, operator: NS, number: IC1171 }
 - name: Weekend Trip With Partner
   place: "🇫🇷 Paris"
   start: 2021-10-01
@@ -515,9 +145,9 @@ trips:
   latitude: 48.856348923085925
   longitude: 2.3463467006503977
   itinerary:
-  - { departure: 2021-09-30T23:00:00+02:00, arrival: 2021-10-01T00:55:00+02:00, origin: *eindhoven_jfkennedylaan, destination: *liege_guillemins, type: bus, operator: FlixBus, number: "831"}
-  - { departure: 2021-10-01T02:00:00+02:00, arrival: 2021-10-01T08:05:00+02:00, origin: *liege_guillemins, destination: *paris_bercy_seine, type: bus, operator: FlixBus, number: "79"}
-  - { departure: 2021-10-03T15:45:00+02:00, arrival: 2021-10-03T22:45:00+02:00, origin: *paris_bercy_seine, destination: *eindhoven_jfkennedylaan, type: bus, operator: FlixBus, number: "823"}
+  - { departure: 2021-09-30T23:00:00+02:00, arrival: 2021-10-01T00:55:00+02:00, origin: bus-stops.eindhoven_jfkennedylaan, destination: stations.liege_guillemins, type: bus, operator: FlixBus, number: "831"}
+  - { departure: 2021-10-01T02:00:00+02:00, arrival: 2021-10-01T08:05:00+02:00, origin: stations.liege_guillemins, destination: bus-stops.paris_bercy_seine, type: bus, operator: FlixBus, number: "79"}
+  - { departure: 2021-10-03T15:45:00+02:00, arrival: 2021-10-03T22:45:00+02:00, origin: bus-stops.paris_bercy_seine, destination: bus-stops.eindhoven_jfkennedylaan, type: bus, operator: FlixBus, number: "823"}
 - name: Christmas Holiday With Family
   place: "🇵🇹 Santana da Serra"
   start: 2021-12-21
@@ -525,8 +155,8 @@ trips:
   latitude: 37.500635
   longitude: -8.300669
   itinerary:
-  - { departure: 2021-12-21T19:30:00+01:00, arrival: 2021-12-21T21:35:00Z, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR7412 }
-  - { departure: 2022-01-04T15:00:00Z, arrival: 2022-01-04T19:05:00+01:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR7411 }
+  - { departure: 2021-12-21T19:30:00+01:00, arrival: 2021-12-21T21:35:00Z, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR7412 }
+  - { departure: 2022-01-04T15:00:00Z, arrival: 2022-01-04T19:05:00+01:00, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR7411 }
 - name: Family Visit
   place: "🇵🇹 Santana da Serra"
   start: 2022-03-31
@@ -534,8 +164,8 @@ trips:
   latitude: 37.500635
   longitude: -8.300669
   itinerary:
-  - { departure: 2022-03-31T11:00:00+02:00, arrival: 2022-03-31T13:00:00+01:00, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR7412 }
-  - { departure: 2022-04-07T06:40:00+01:00, arrival: 2022-04-07T10:35:00+02:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR7411 }
+  - { departure: 2022-03-31T11:00:00+02:00, arrival: 2022-03-31T13:00:00+01:00, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR7412 }
+  - { departure: 2022-04-07T06:40:00+01:00, arrival: 2022-04-07T10:35:00+02:00, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR7411 }
 - name: Visit Friend With Partner
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
   start: 2022-04-21
@@ -543,10 +173,10 @@ trips:
   latitude: 51.50839474
   longitude: -0.12071889338
   itinerary:
-  - { departure: 2022-04-21T13:10:00+02:00, arrival: 2022-04-21T14:22:00+02:00, origin: *station_eindhoven_centraal, destination: *station_rotterdam_centraal, type: train, operator: NS, number: "" }
-  - { departure: 2022-04-21T17:28:00+02:00, arrival: 2022-04-21T19:57:00+01:00, origin: *station_rotterdam_centraal, destination: *station_london_st_pancras, type: train, operator: Eurostar, number: "9157" }
-  - { departure: 2022-04-25T18:04:00+01:00, arrival: 2022-04-25T22:32:00+02:00, origin: *station_london_st_pancras, destination: *station_rotterdam_centraal, type: train, operator: Eurostar, number: "9152" }
-  - { departure: 2022-04-25T22:33:00+02:00, arrival: 2022-04-25T23:44:00+02:00, origin: *station_rotterdam_centraal, destination: *station_eindhoven_centraal, type: train, operator: NS, number: "" }
+  - { departure: 2022-04-21T13:10:00+02:00, arrival: 2022-04-21T14:22:00+02:00, origin: stations.eindhoven_centraal, destination: stations.rotterdam_centraal, type: train, operator: NS, number: "" }
+  - { departure: 2022-04-21T17:28:00+02:00, arrival: 2022-04-21T19:57:00+01:00, origin: stations.rotterdam_centraal, destination: stations.london_st_pancras, type: train, operator: Eurostar, number: "9157" }
+  - { departure: 2022-04-25T18:04:00+01:00, arrival: 2022-04-25T22:32:00+02:00, origin: stations.london_st_pancras, destination: stations.rotterdam_centraal, type: train, operator: Eurostar, number: "9152" }
+  - { departure: 2022-04-25T22:33:00+02:00, arrival: 2022-04-25T23:44:00+02:00, origin: stations.rotterdam_centraal, destination: stations.eindhoven_centraal, type: train, operator: NS, number: "" }
 - name: Family Visit
   place: "🇵🇹 Santana da Serra"
   start: 2022-08-24
@@ -554,8 +184,8 @@ trips:
   latitude: 37.500635
   longitude: -8.300669
   itinerary:
-  - { departure: 2022-08-24T11:00:00+02:00, arrival: 2022-08-24T13:00:00+01:00, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR7412 }
-  - { departure: 2022-08-31T06:00:00+01:00, arrival: 2022-08-31T10:35:00+02:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR7411 }
+  - { departure: 2022-08-24T11:00:00+02:00, arrival: 2022-08-24T13:00:00+01:00, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR7412 }
+  - { departure: 2022-08-31T06:00:00+01:00, arrival: 2022-08-31T10:35:00+02:00, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR7411 }
 - name: Holiday Trip With Partner
   place: "🇮🇹 🇻🇦 Italia"
   start: 2022-09-12
@@ -563,15 +193,15 @@ trips:
   latitude: 42.642176399245656
   longitude: 12.881535886118813
   itinerary:
-  - { departure: 2022-09-12T19:55:00+02:00, arrival: 2022-09-12T22:10:00+02:00, origin: *airport_ein, destination: *airport_nap, type: air, operator: Ryanair, number: FR6833 }
-  - { departure: 2022-09-14T14:40:00+02:00, arrival: 2022-09-14T15:55:00+02:00, origin: *station_napoli_centrale, destination: *station_roma_termini, type: train, operator: Trenitalia, number: "" }
-  - { departure: 2022-09-16T09:57:00+02:00, arrival: 2022-09-16T12:59:00+02:00, origin: *station_roma_termini, destination: *station_pisa_centrale, type: train, operator: Trenitalia, number: "" }
-  - { departure: 2022-09-16T17:09:00+02:00, arrival: 2022-09-16T18:01:00+02:00, origin: *station_pisa_centrale, destination: *station_firenze_smn, type: train, operator: Trenitalia, number: "" }
-  - { departure: 2022-09-18T09:10:00+02:00, arrival: 2022-09-18T09:48:00+02:00, origin: *station_firenze_smn, destination: *station_bologna_centrale, type: train, operator: Trenitalia, number: "" }
-  - { departure: 2022-09-18T17:12:00+02:00, arrival: 2022-09-18T19:20:00+02:00, origin: *station_bologna_centrale, destination: *station_venezia_slucia, type: train, operator: Trenitalia, number: "" }
-  - { departure: 2022-09-20T13:18:00+02:00, arrival: 2022-09-20T15:55:00+02:00, origin: *station_venezia_slucia, destination: *station_milano_centrale, type: train, operator: SBB, number: "" }
-  - { departure: 2022-09-21T16:25:00+02:00, arrival: 2022-09-21T17:25:00+02:00, origin: *station_milano_centrale, destination: *station_bergamo, type: train, operator: Trenord, number: "" }
-  - { departure: 2022-09-22T10:15:00+02:00, arrival: 2022-09-22T11:55:00+02:00, origin: *airport_bgy, destination: *airport_ein, type: air, operator: Ryanair, number: FR4535 }
+  - { departure: 2022-09-12T19:55:00+02:00, arrival: 2022-09-12T22:10:00+02:00, origin: airports.ein, destination: airports.nap, type: air, operator: Ryanair, number: FR6833 }
+  - { departure: 2022-09-14T14:40:00+02:00, arrival: 2022-09-14T15:55:00+02:00, origin: stations.napoli_centrale, destination: stations.roma_termini, type: train, operator: Trenitalia, number: "" }
+  - { departure: 2022-09-16T09:57:00+02:00, arrival: 2022-09-16T12:59:00+02:00, origin: stations.roma_termini, destination: stations.pisa_centrale, type: train, operator: Trenitalia, number: "" }
+  - { departure: 2022-09-16T17:09:00+02:00, arrival: 2022-09-16T18:01:00+02:00, origin: stations.pisa_centrale, destination: stations.firenze_smn, type: train, operator: Trenitalia, number: "" }
+  - { departure: 2022-09-18T09:10:00+02:00, arrival: 2022-09-18T09:48:00+02:00, origin: stations.firenze_smn, destination: stations.bologna_centrale, type: train, operator: Trenitalia, number: "" }
+  - { departure: 2022-09-18T17:12:00+02:00, arrival: 2022-09-18T19:20:00+02:00, origin: stations.bologna_centrale, destination: stations.venezia_slucia, type: train, operator: Trenitalia, number: "" }
+  - { departure: 2022-09-20T13:18:00+02:00, arrival: 2022-09-20T15:55:00+02:00, origin: stations.venezia_slucia, destination: stations.milano_centrale, type: train, operator: SBB, number: "" }
+  - { departure: 2022-09-21T16:25:00+02:00, arrival: 2022-09-21T17:25:00+02:00, origin: stations.milano_centrale, destination: stations.bergamo, type: train, operator: Trenord, number: "" }
+  - { departure: 2022-09-22T10:15:00+02:00, arrival: 2022-09-22T11:55:00+02:00, origin: airports.bgy, destination: airports.ein, type: air, operator: Ryanair, number: FR4535 }
 - name: LabWeek 2022
   place: "🇵🇹 Lisboa"
   start: 2022-10-24
@@ -579,8 +209,8 @@ trips:
   latitude: 38.73451641125201
   longitude: -9.144582558390455
   itinerary:
-  - { departure: 2022-10-24T07:50:00+02:00, arrival: 2022-10-24T09:45:00+01:00, origin: *airport_ein, destination: *airport_lis, type: air, operator: Transavia, number: HV6203 }
-  - { departure: 2022-11-01T17:10:00Z, arrival: 2022-11-01T21:00:00+01:00, origin: *airport_lis, destination: *airport_ein, type: air, operator: Transavia, number: HV6204 }
+  - { departure: 2022-10-24T07:50:00+02:00, arrival: 2022-10-24T09:45:00+01:00, origin: airports.ein, destination: airports.lis, type: air, operator: Transavia, number: HV6203 }
+  - { departure: 2022-11-01T17:10:00Z, arrival: 2022-11-01T21:00:00+01:00, origin: airports.lis, destination: airports.ein, type: air, operator: Transavia, number: HV6204 }
 - name: Christmas Market Trip With Partner
   place: "🇩🇪 Aachen"
   start: 2022-12-17
@@ -594,8 +224,8 @@ trips:
   latitude: 37.500635
   longitude: -8.300669
   itinerary:
-  - { departure: 2022-12-22T19:35:00+01:00, arrival: 2022-12-22T21:35:00Z, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR5769 }
-  - { departure: 2022-12-29T15:05:00Z, arrival: 2022-12-29T19:10:00+01:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR5768 }
+  - { departure: 2022-12-22T19:35:00+01:00, arrival: 2022-12-22T21:35:00Z, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR5769 }
+  - { departure: 2022-12-29T15:05:00Z, arrival: 2022-12-29T19:10:00+01:00, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR5768 }
 - name: ProbeLab and Friends CoLo
   place: "🇨🇭 Engelberg"
   start: 2023-01-10
@@ -603,17 +233,17 @@ trips:
   latitude: 46.8204
   longitude: 8.40192
   itinerary:
-  - { departure: 2023-01-10T07:36:00+02:00, arrival: 2023-01-10T08:27:00+02:00, origin: *station_eindhoven_centraal, destination: *station_utrecht_centraal, type: train, operator: NS, number: IC822 }
-  - { departure: 2023-01-10T08:34:00+02:00, arrival: 2023-01-10T14:47:00+02:00, origin: *station_utrecht_centraal, destination: *station_basel_sbb, type: train, operator: DB, number: ICE105 }
-  - { departure: 2023-01-10T15:03:00+02:00, arrival: 2023-01-10T16:05:00+02:00, origin: *station_basel_sbb, destination: *station_luzern, type: train, operator: SBB, number: EC153 }
-  - { departure: 2023-01-10T16:10:00+02:00, arrival: 2023-01-10T16:53:00+02:00, origin: *station_basel_sbb, destination: *station_engelberg, type: train, operator: SBB, number: IR2978 }
-  - { departure: 2023-01-16T09:02:00+02:00, arrival: 2023-01-16T09:49:00+02:00, origin: *station_engelberg, destination: *station_luzern, type: train }
-  - { departure: 2023-01-16T09:54:00+02:00, arrival: 2023-01-16T10:56:00+02:00, origin: *station_luzern, destination: *station_basel_sbb, type: train }
-  - { departure: 2023-01-16T11:13:00+02:00, arrival: 2023-01-16T15:32:00+02:00, origin: *station_basel_sbb, destination: *station_dusseldorf_hbf, type: train }
-  - { departure: 2023-01-16T15:52:00+02:00, arrival: 2023-01-16T16:26:00+02:00, origin: *station_dusseldorf_hbf, destination: *station_monchengladbach_hbf, type: train, number: S8 }
-  - { departure: 2023-01-16T17:22:00+02:00, arrival: 2023-01-16T17:28:00+02:00, origin: *station_monchengladbach_hbf, destination: *station_viersen, type: train }
-  - { departure: 2023-01-16T18:33:00+02:00, arrival: 2023-01-16T18:56:00+02:00, origin: *station_viersen, destination: *station_venlo, type: train, number: RE13 }
-  - { departure: 2023-01-16T19:03:00+02:00, arrival: 2023-01-16T19:41:00+02:00, origin: *station_venlo, destination: *station_eindhoven_centraal, type: train }
+  - { departure: 2023-01-10T07:36:00+02:00, arrival: 2023-01-10T08:27:00+02:00, origin: stations.eindhoven_centraal, destination: stations.utrecht_centraal, type: train, operator: NS, number: IC822 }
+  - { departure: 2023-01-10T08:34:00+02:00, arrival: 2023-01-10T14:47:00+02:00, origin: stations.utrecht_centraal, destination: stations.basel_sbb, type: train, operator: DB, number: ICE105 }
+  - { departure: 2023-01-10T15:03:00+02:00, arrival: 2023-01-10T16:05:00+02:00, origin: stations.basel_sbb, destination: stations.luzern, type: train, operator: SBB, number: EC153 }
+  - { departure: 2023-01-10T16:10:00+02:00, arrival: 2023-01-10T16:53:00+02:00, origin: stations.basel_sbb, destination: stations.engelberg, type: train, operator: SBB, number: IR2978 }
+  - { departure: 2023-01-16T09:02:00+02:00, arrival: 2023-01-16T09:49:00+02:00, origin: stations.engelberg, destination: stations.luzern, type: train }
+  - { departure: 2023-01-16T09:54:00+02:00, arrival: 2023-01-16T10:56:00+02:00, origin: stations.luzern, destination: stations.basel_sbb, type: train }
+  - { departure: 2023-01-16T11:13:00+02:00, arrival: 2023-01-16T15:32:00+02:00, origin: stations.basel_sbb, destination: stations.dusseldorf_hbf, type: train }
+  - { departure: 2023-01-16T15:52:00+02:00, arrival: 2023-01-16T16:26:00+02:00, origin: stations.dusseldorf_hbf, destination: stations.monchengladbach_hbf, type: train, number: S8 }
+  - { departure: 2023-01-16T17:22:00+02:00, arrival: 2023-01-16T17:28:00+02:00, origin: stations.monchengladbach_hbf, destination: stations.viersen, type: train }
+  - { departure: 2023-01-16T18:33:00+02:00, arrival: 2023-01-16T18:56:00+02:00, origin: stations.viersen, destination: stations.venlo, type: train, number: RE13 }
+  - { departure: 2023-01-16T19:03:00+02:00, arrival: 2023-01-16T19:41:00+02:00, origin: stations.venlo, destination: stations.eindhoven_centraal, type: train }
 - name: IPFS þing 2023
   place: "🇧🇪 Bruxelles"
   start: 2023-04-14
@@ -621,19 +251,19 @@ trips:
   latitude: 50.84814463
   longitude: 4.3509642
   itinerary:
-  - { departure: 2023-04-14T10:44:00+01:00, arrival: 2023-04-14T11:21:00+01:00, origin: *station_eindhoven_centraal, destination: *station_breda, type: train, operator: NS, number: IC1134 }
-  - { departure: 2023-04-14T11:42:00+01:00, arrival: 2023-04-14T13:12:00+01:00, origin: *station_breda, destination: *brussels_central_station, type: train, operator: NS, number: IC1134 }
-  - { departure: 2023-04-20T12:50:00+01:00, arrival: 2023-04-20T14:18:00+01:00, origin: *brussels_central_station, destination: *station_breda, type: train, operator: NS, number: IC9239 }
-  - { departure: 2023-04-20T14:38:00+01:00, arrival: 2023-04-20T15:16:00+01:00, origin: *station_breda, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC1151 }
+  - { departure: 2023-04-14T10:44:00+01:00, arrival: 2023-04-14T11:21:00+01:00, origin: stations.eindhoven_centraal, destination: stations.breda, type: train, operator: NS, number: IC1134 }
+  - { departure: 2023-04-14T11:42:00+01:00, arrival: 2023-04-14T13:12:00+01:00, origin: stations.breda, destination: stations.brussels_central, type: train, operator: NS, number: IC1134 }
+  - { departure: 2023-04-20T12:50:00+01:00, arrival: 2023-04-20T14:18:00+01:00, origin: stations.brussels_central, destination: stations.breda, type: train, operator: NS, number: IC9239 }
+  - { departure: 2023-04-20T14:38:00+01:00, arrival: 2023-04-20T15:16:00+01:00, origin: stations.breda, destination: stations.eindhoven_centraal, type: train, operator: NS, number: IC1151 }
 - name: France With Friends
   place: "🇫🇷 Lille & Paris"
   start: 2023-04-26
   date: 2023-04-30
   itinerary:
-  - { departure: 2023-04-26T17:00:00+01:00, arrival: 2023-04-30T21:00:00+01:00, origin: { name: Eindhoven }, destination: { name: Lille }, type: car }
-  - { departure: 2023-04-28T10:12:00+01:00, arrival: 2023-04-28T11:14:00+01:00, origin: *station_lille_flanders, destination: *station_paris_gare_du_nord, type: train, operator: SNCF, number: "7026" }
-  - { departure: 2023-04-30T12:46:00+01:00, arrival: 2023-04-30T13:48:00+01:00, origin: *station_paris_gare_du_nord, destination: *station_lille_flanders, type: train, operator: SNCF, number: "7035" }
-  - { departure: 2023-04-30T16:10:00+01:00, arrival: 2023-04-30T19:55:00+01:00, origin: { name: Lille }, destination: *station_breda, type: bus, operator: FlixBus, number: "800" }
+  - { departure: 2023-04-26T17:00:00+01:00, arrival: 2023-04-30T21:00:00+01:00, origin: Eindhoven, destination: Lille, type: car }
+  - { departure: 2023-04-28T10:12:00+01:00, arrival: 2023-04-28T11:14:00+01:00, origin: stations.lille_flanders, destination: stations.paris_gare_du_nord, type: train, operator: SNCF, number: "7026" }
+  - { departure: 2023-04-30T12:46:00+01:00, arrival: 2023-04-30T13:48:00+01:00, origin: stations.paris_gare_du_nord, destination: stations.lille_flanders, type: train, operator: SNCF, number: "7035" }
+  - { departure: 2023-04-30T16:10:00+01:00, arrival: 2023-04-30T19:55:00+01:00, origin: Lille, destination: breda, type: bus, operator: FlixBus, number: "800" }
 - name: Visit Friends and Family
   place: "🇵🇹 Portugal"
   start: 2023-07-05
@@ -641,8 +271,8 @@ trips:
   latitude: 39.197282716346706
   longitude: -8.134221029813029
   itinerary:
-  - { departure: 2023-07-05T19:50:00+01:00, arrival: 2023-07-05T21:55:00Z, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR5769 }
-  - { departure: 2023-07-19T15:25:00Z, arrival: 2023-07-19T19:25:00+01:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR5768 }
+  - { departure: 2023-07-05T19:50:00+01:00, arrival: 2023-07-05T21:55:00Z, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR5769 }
+  - { departure: 2023-07-19T15:25:00Z, arrival: 2023-07-19T19:25:00+01:00, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR5768 }
 - name: Visit Friend
   place: "🇩🇪 Saxony-Anhalt"
   start: 2023-07-28
@@ -650,14 +280,14 @@ trips:
   latitude: 51.83816716344778
   longitude: 10.776930746259167
   itinerary:
-  - { departure: 2023-07-28T08:34:00+02:00, arrival: 2023-07-28T10:04:00+02:00, origin: *station_utrecht_centraal, destination: *station_duisburg_hbf, type: train, operator: NS, number: ICE225 }
-  - { departure: 2023-07-28T10:30:00+02:00, arrival: 2023-07-28T13:01:00+02:00, origin: *station_duisburg_hbf, destination: *station_hannover_hbf, type: train, operator: DB, number: ICE759 }
-  - { departure: 2023-07-28T14:48:00+02:00, arrival: 2023-07-28T15:53:00+02:00, origin: *station_hannover_hbf, destination: *station_goslar, type: train, operator: Erixx, number: RE10 }
-  - { departure: 2023-07-28T16:06:00+02:00, arrival: 2023-07-28T16:39:00+02:00, origin: *station_goslar, destination: *station_wernigerode_hbf, type: train, operator: DB, number: RE75715 }
-  - { departure: 2023-07-30T10:03:00+02:00, arrival: 2023-07-30T11:09:00+02:00, origin: *station_goslar, destination: *station_hannover_hbf, type: train, operator: Erixx, number: RE10 }
-  - { departure: 2023-07-30T11:23:00+02:00, arrival: 2023-07-30T15:42:00+02:00, origin: *station_hannover_hbf, destination: *station_deventer, type: train, operator: DB, number: IC146 }
-  - { departure: 2023-07-30T15:45:00+02:00, arrival: 2023-07-30T17:07:00+02:00, origin: *station_deventer, destination: *station_den_bosch, type: train, operator: NS, number: "" }
-  - { departure: 2023-07-30T17:25:00+02:00, arrival: 2023-07-30T17:44:00+02:00, origin: *station_den_bosch, destination: *station_eindhoven_centraal, type: train, operator: NS, number: "" }
+  - { departure: 2023-07-28T08:34:00+02:00, arrival: 2023-07-28T10:04:00+02:00, origin: stations.utrecht_centraal, destination: stations.duisburg_hbf, type: train, operator: NS, number: ICE225 }
+  - { departure: 2023-07-28T10:30:00+02:00, arrival: 2023-07-28T13:01:00+02:00, origin: stations.duisburg_hbf, destination: stations.hannover_hbf, type: train, operator: DB, number: ICE759 }
+  - { departure: 2023-07-28T14:48:00+02:00, arrival: 2023-07-28T15:53:00+02:00, origin: stations.hannover_hbf, destination: stations.goslar, type: train, operator: Erixx, number: RE10 }
+  - { departure: 2023-07-28T16:06:00+02:00, arrival: 2023-07-28T16:39:00+02:00, origin: stations.goslar, destination: stations.wernigerode_hbf, type: train, operator: DB, number: RE75715 }
+  - { departure: 2023-07-30T10:03:00+02:00, arrival: 2023-07-30T11:09:00+02:00, origin: stations.goslar, destination: stations.hannover_hbf, type: train, operator: Erixx, number: RE10 }
+  - { departure: 2023-07-30T11:23:00+02:00, arrival: 2023-07-30T15:42:00+02:00, origin: stations.hannover_hbf, destination: stations.deventer, type: train, operator: DB, number: IC146 }
+  - { departure: 2023-07-30T15:45:00+02:00, arrival: 2023-07-30T17:07:00+02:00, origin: stations.deventer, destination: stations.den_bosch, type: train, operator: NS, number: "" }
+  - { departure: 2023-07-30T17:25:00+02:00, arrival: 2023-07-30T17:44:00+02:00, origin: stations.den_bosch, destination: stations.eindhoven_centraal, type: train, operator: NS, number: "" }
 - name: Weekend in Spa With Partner
   place: "🇧🇪 Spa"
   start: 2023-09-29
@@ -665,14 +295,14 @@ trips:
   latitude: 50.4903021
   longitude: 5.8528801
   itinerary:
-  - { departure: 2023-09-29T09:27:00+02:00, arrival: 2023-09-29T10:30:00+02:00, origin: *station_eindhoven_centraal, destination: *station_maastricht, type: train, operator: NS, number: IC827 }
-  - { departure: 2023-09-29T10:48:00+02:00, arrival: 2023-09-29T11:22:00+02:00, origin: *station_maastricht, destination: *liege_guillemins, type: train, operator: SNCB, number: 'S5382' }
-  - { departure: 2023-09-29T11:35:00+02:00, arrival: 2023-09-29T11:52:00+02:00, origin: *liege_guillemins, destination: *station_pepinster, type: train, operator: SNCB, number: 'IC409' }
-  - { departure: 2023-09-29T12:01:00+02:00, arrival: 2023-09-29T12:19:00+02:00, origin: *station_pepinster, destination: *station_spa, type: train, operator: SNCB, number: 'S5032' }
-  - { departure: 2023-10-01T10:41:00+02:00, arrival: 2023-10-01T10:59:00+02:00, origin: *station_spa, destination: *station_pepinster, type: train, operator: SNCB, number: 'S5015' }
-  - { departure: 2023-10-01T11:14:00+02:00, arrival: 2023-10-01T11:39:00+02:00, origin: *station_pepinster, destination: *liege_guillemins, type: train, operator: SNCB, number: 'S5286' }
-  - { departure: 2023-10-01T12:07:00+02:00, arrival: 2023-10-01T12:42:00+02:00, origin: *liege_guillemins, destination: *station_maastricht, type: train, operator: SNCB, number: 'S5367' }
-  - { departure: 2023-10-01T13:01:00+02:00, arrival: 2023-10-01T14:02:00+02:00, origin: *station_maastricht, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC868 }
+  - { departure: 2023-09-29T09:27:00+02:00, arrival: 2023-09-29T10:30:00+02:00, origin: stations.eindhoven_centraal, destination: stations.maastricht, type: train, operator: NS, number: IC827 }
+  - { departure: 2023-09-29T10:48:00+02:00, arrival: 2023-09-29T11:22:00+02:00, origin: stations.maastricht, destination: stations.liege_guillemins, type: train, operator: SNCB, number: 'S5382' }
+  - { departure: 2023-09-29T11:35:00+02:00, arrival: 2023-09-29T11:52:00+02:00, origin: stations.liege_guillemins, destination: stations.pepinster, type: train, operator: SNCB, number: 'IC409' }
+  - { departure: 2023-09-29T12:01:00+02:00, arrival: 2023-09-29T12:19:00+02:00, origin: stations.pepinster, destination: stations.spa, type: train, operator: SNCB, number: 'S5032' }
+  - { departure: 2023-10-01T10:41:00+02:00, arrival: 2023-10-01T10:59:00+02:00, origin: stations.spa, destination: stations.pepinster, type: train, operator: SNCB, number: 'S5015' }
+  - { departure: 2023-10-01T11:14:00+02:00, arrival: 2023-10-01T11:39:00+02:00, origin: stations.pepinster, destination: stations.liege_guillemins, type: train, operator: SNCB, number: 'S5286' }
+  - { departure: 2023-10-01T12:07:00+02:00, arrival: 2023-10-01T12:42:00+02:00, origin: stations.liege_guillemins, destination: stations.maastricht, type: train, operator: SNCB, number: 'S5367' }
+  - { departure: 2023-10-01T13:01:00+02:00, arrival: 2023-10-01T14:02:00+02:00, origin: stations.maastricht, destination: stations.eindhoven_centraal, type: train, operator: NS, number: IC868 }
 - name: Christmas Markets Trip With Partner
   place: "🇩🇪 Köln"
   start: 2023-12-01
@@ -680,12 +310,12 @@ trips:
   latitude: 50.9575869
   longitude: 6.8025172
   itinerary:
-  - { departure: 2023-12-01T10:19:00+01:00, arrival: 2023-12-01T10:55:00+01:00, origin: *station_eindhoven_centraal, destination: *station_venlo, type: train, operator: NS, number: IC3529 }
-  - { departure: 2023-12-01T11:05:00+01:00, arrival: 2023-12-01T11:56:00+01:00, origin: *station_venlo, destination: *neuss_hbf, type: train, operator: Eurobahn, number: RE13 }
-  - { departure: 2023-12-01T12:24:00+01:00, arrival: 2023-12-01T12:52:00+01:00, origin: *neuss_hbf, destination: *koln_hbf, type: train, operator: RRX, number: RE6 }
-  - { departure: 2023-12-03T12:07:00+01:00, arrival: 2023-12-03T12:33:00+01:00, origin: *koln_hbf, destination: *neuss_hbf, type: train, operator: RRX, number: RE6 }
-  - { departure: 2023-12-03T13:01:00+01:00, arrival: 2023-12-03T13:56:00+01:00, origin: *neuss_hbf, destination: *station_venlo, type: train, operator: Eurobahn, number: RE13 }
-  - { departure: 2023-12-03T14:04:00+01:00, arrival: 2023-12-03T14:42:00+01:00, origin: *station_venlo, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC3763 }
+  - { departure: 2023-12-01T10:19:00+01:00, arrival: 2023-12-01T10:55:00+01:00, origin: stations.eindhoven_centraal, destination: stations.venlo, type: train, operator: NS, number: IC3529 }
+  - { departure: 2023-12-01T11:05:00+01:00, arrival: 2023-12-01T11:56:00+01:00, origin: stations.venlo, destination: stations.neuss_hbf, type: train, operator: Eurobahn, number: RE13 }
+  - { departure: 2023-12-01T12:24:00+01:00, arrival: 2023-12-01T12:52:00+01:00, origin: stations.neuss_hbf, destination: stations.koln_hbf, type: train, operator: RRX, number: RE6 }
+  - { departure: 2023-12-03T12:07:00+01:00, arrival: 2023-12-03T12:33:00+01:00, origin: stations.koln_hbf, destination: stations.neuss_hbf, type: train, operator: RRX, number: RE6 }
+  - { departure: 2023-12-03T13:01:00+01:00, arrival: 2023-12-03T13:56:00+01:00, origin: stations.neuss_hbf, destination: stations.venlo, type: train, operator: Eurobahn, number: RE13 }
+  - { departure: 2023-12-03T14:04:00+01:00, arrival: 2023-12-03T14:42:00+01:00, origin: stations.venlo, destination: stations.eindhoven_centraal, type: train, operator: NS, number: IC3763 }
 - name: Christmas Holiday With Family
   place: "🇵🇹 Santana da Serra"
   start: 2023-12-21
@@ -693,8 +323,8 @@ trips:
   latitude: 37.500635
   longitude: -8.300669
   itinerary:
-  - { departure: 2023-12-21T17:45:00+01:00, arrival: 2023-12-21T19:45:00Z, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR5769 }
-  - { departure: 2023-12-28T13:15:00Z, arrival: 2023-12-28T17:20:00+01:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR5768 }
+  - { departure: 2023-12-21T17:45:00+01:00, arrival: 2023-12-21T19:45:00Z, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR5769 }
+  - { departure: 2023-12-28T13:15:00Z, arrival: 2023-12-28T17:20:00+01:00, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR5768 }
 - name: FOSDEM 2024
   place: "🇧🇪 Bruxelles"
   start: 2024-02-02
@@ -702,10 +332,10 @@ trips:
   latitude: 50.84814463
   longitude: 4.3509642
   itinerary:
-  - { departure: 2024-02-02T11:14:00+01:00, arrival: 2024-02-02T12:04:00+01:00, origin: *station_eindhoven_centraal, destination: *station_breda, type: train, operator: NS, number: IC1134 }
-  - { departure: 2024-02-02T12:42:00+01:00, arrival: 2024-02-02T14:12:00+01:00, origin: *station_breda, destination: *brussels_central_station, type: train, operator: NS, number: IC1134 }
-  - { departure: 2024-02-05T07:49:00+01:00, arrival: 2024-02-05T09:18:00+01:00, origin: *brussels_central_station, destination: *station_breda, type: train, operator: NS, number: IC9239 }
-  - { departure: 2024-02-05T09:38:00+01:00, arrival: 2024-02-05T10:16:00+01:00, origin: *station_breda, destination: *station_eindhoven_centraal, type: train, operator: NS, number: IC1151 }
+  - { departure: 2024-02-02T11:14:00+01:00, arrival: 2024-02-02T12:04:00+01:00, origin: stations.eindhoven_centraal, destination: stations.breda, type: train, operator: NS, number: IC1134 }
+  - { departure: 2024-02-02T12:42:00+01:00, arrival: 2024-02-02T14:12:00+01:00, origin: stations.breda, destination: stations.brussels_central, type: train, operator: NS, number: IC1134 }
+  - { departure: 2024-02-05T07:49:00+01:00, arrival: 2024-02-05T09:18:00+01:00, origin: stations.brussels_central, destination: stations.breda, type: train, operator: NS, number: IC9239 }
+  - { departure: 2024-02-05T09:38:00+01:00, arrival: 2024-02-05T10:16:00+01:00, origin: stations.breda, destination: stations.eindhoven_centraal, type: train, operator: NS, number: IC1151 }
 - name: Small Trip With Partner
   place: "🇦🇹 🇸🇰 Vienna & Bratislava"
   start: 2024-02-21
@@ -713,10 +343,10 @@ trips:
   latitude: 48.220167
   longitude: 16.2148664
   itinerary:
-    - { departure: 2024-02-21T19:33:00+01:00, arrival: 2024-02-22T09:17:00+01:00, origin: *station_utrecht_centraal, destination: *station_wien_hbf, type: train, operator: OBB, number: NJ40421 }
-    - { departure: 2024-02-24T10:20:00+01:00, arrival: 2024-02-24T11:30:00+01:00, origin: *wien_erdberg, destination: *bratislava_most_snp, type: bus, operator: FlixBus, number: '901' }
-    - { departure: 2024-02-24T18:30:00+01:00, arrival: 2024-02-24T19:35:00+01:00, origin: *bratislava_most_snp, destination: *wien_erdberg, type: bus, operator: FlixBus, number: '901' }
-    - { departure: 2024-02-25T20:10:00+01:00, arrival: 2024-02-26T09:29:00+01:00, origin: *station_wien_hbf, destination: *station_utrecht_centraal, type: train, operator: OBB, number: NJ40490 }
+    - { departure: 2024-02-21T19:33:00+01:00, arrival: 2024-02-22T09:17:00+01:00, origin: stations.utrecht_centraal, destination: stations.wien_hbf, type: train, operator: OBB, number: NJ40421 }
+    - { departure: 2024-02-24T10:20:00+01:00, arrival: 2024-02-24T11:30:00+01:00, origin: bus-stops.wien_erdberg, destination: bus-stops.bratislava_most_snp, type: bus, operator: FlixBus, number: '901' }
+    - { departure: 2024-02-24T18:30:00+01:00, arrival: 2024-02-24T19:35:00+01:00, origin: bus-stops.bratislava_most_snp, destination: bus-stops.wien_erdberg, type: bus, operator: FlixBus, number: '901' }
+    - { departure: 2024-02-25T20:10:00+01:00, arrival: 2024-02-26T09:29:00+01:00, origin: stations.wien_hbf, destination: stations.utrecht_centraal, type: train, operator: OBB, number: NJ40490 }
 - name: Trip With Friends
   place: "🇩🇪 🇨🇭 München, Zürich & Genève"
   start: 2024-03-11
@@ -724,14 +354,14 @@ trips:
   latitude: 48.220167
   longitude: 16.2148664
   itinerary:
-    - { departure: 2024-03-11T09:19:00+01:00, arrival: 2024-03-11T09:58:00+01:00, origin: *station_eindhoven_centraal, destination: *station_venlo, type: train, operator: NS, number: IC3525 }
-    - { departure: 2024-03-11T10:05:00+01:00, arrival: 2024-03-11T11:09:00+01:00, origin: *station_venlo, destination: *station_dusseldorf_hbf, type: train, operator: Eurobahn, number: RE13 }
-    - { departure: 2024-03-11T11:23:00+01:00, arrival: 2024-03-11T16:06:00+01:00, origin: *station_dusseldorf_hbf, destination: *station_munchen_hbf, type: train, operator: DB, number: ICE625 }
-    - { departure: 2024-03-13T10:54:00+01:00, arrival: 2024-03-13T14:27:00+01:00, origin: *station_munchen_hbf, destination: *station_zurich_hb, type: train, operator: SBB, number: ECE194 }
-    - { departure: 2024-03-15T09:32:00+01:00, arrival: 2024-03-15T12:18:00+01:00, origin: *station_zurich_hb, destination: *station_geneve_cornavin, type: train, operator: SBB }
-    - { departure: 2024-03-17T10:29:00+01:00, arrival: 2024-03-17T13:42:00+01:00, origin: *station_geneve_cornavin, destination: *station_paris_gare_de_lyon, type: train, operator: 'TGV Lyria', number: '9768' }
-    - { departure: 2024-03-17T15:19:00+01:00, arrival: 2024-03-17T18:02:00+01:00, origin: *station_paris_gare_du_nord, destination: *station_rotterdam_centraal, type: train, operator: Eurostar, number: '9357' }
-    - { departure: 2024-03-17T18:14:00+01:00, arrival: 2024-03-17T19:16:00+01:00, origin: *station_rotterdam_centraal, destination: *station_eindhoven_centraal, type: train, operator: NS }
+    - { departure: 2024-03-11T09:19:00+01:00, arrival: 2024-03-11T09:58:00+01:00, origin: stations.eindhoven_centraal, destination: stations.stations.venlo, type: stations.train, operator: NS, number: IC3525 }
+    - { departure: 2024-03-11T10:05:00+01:00, arrival: 2024-03-11T11:09:00+01:00, origin: stations.venlo, destination: stations.stations.dusseldorf_hbf, type: stations.train, operator: Eurobahn, number: RE13 }
+    - { departure: 2024-03-11T11:23:00+01:00, arrival: 2024-03-11T16:06:00+01:00, origin: stations.dusseldorf_hbf, destination: stations.stations.munchen_hbf, type: stations.train, operator: DB, number: ICE625 }
+    - { departure: 2024-03-13T10:54:00+01:00, arrival: 2024-03-13T14:27:00+01:00, origin: stations.munchen_hbf, destination: stations.stations.zurich_hb, type: stations.train, operator: SBB, number: ECE194 }
+    - { departure: 2024-03-15T09:32:00+01:00, arrival: 2024-03-15T12:18:00+01:00, origin: stations.zurich_hb, destination: stations.stations.geneve_cornavin, type: stations.train, operator: SBB }
+    - { departure: 2024-03-17T10:29:00+01:00, arrival: 2024-03-17T13:42:00+01:00, origin: stations.geneve_cornavin, destination: stations.stations.paris_gare_de_lyon, type: stations.train, operator: 'TGV Lyria', number: '9768' }
+    - { departure: 2024-03-17T15:19:00+01:00, arrival: 2024-03-17T18:02:00+01:00, origin: stations.paris_gare_du_nord, destination: stations.stations.rotterdam_centraal, type: stations.train, operator: Eurostar, number: '9357' }
+    - { departure: 2024-03-17T18:14:00+01:00, arrival: 2024-03-17T19:16:00+01:00, origin: stations.rotterdam_centraal, destination: stations.stations.eindhoven_centraal, type: stations.train, operator: NS }
 - name: EIC 2024
   place: "🇩🇪 Berlin"
   start: 2024-06-04
@@ -739,8 +369,8 @@ trips:
   latitude:
   longitude:
   itinerary:
-    - { departure: 2024-06-04T09:00:00+01:00, arrival: 2024-06-04T17:00:00+01:00, origin: { name: 'Eindhoven' }, destination: { name: 'Berlin' }, type: car }
-    - { departure: 2024-06-07T09:00:00+01:00, arrival: 2024-06-07T17:00:00+01:00, origin: { name: 'Berlin' }, destination: { name: 'Eindhoven' }, type: car }
+    - { departure: 2024-06-04T09:00:00+01:00, arrival: 2024-06-04T17:00:00+01:00, origin: Eindhoven, destination: Berlin, type: car }
+    - { departure: 2024-06-07T09:00:00+01:00, arrival: 2024-06-07T17:00:00+01:00, origin: Berlin, destination: Eindhoven, type: car }
 - name: Visit Family and Friends
   place: "🇵🇹 Santana da Serra"
   start: 2024-07-26
@@ -748,8 +378,8 @@ trips:
   latitude: 37.500635
   longitude: -8.300669
   itinerary:
-  - { departure: 2024-07-26T20:45:00+02:00, arrival:  2024-07-26T22:45:00+01:00, origin: *airport_ein, destination: *airport_fao, type: air, operator: Ryanair, number: FR5769 }
-  - { departure: 2024-08-02T16:20:00+01:00, arrival: 2024-08-02T20:20:00+02:00, origin: *airport_fao, destination: *airport_ein, type: air, operator: Ryanair, number: FR5768 }
+  - { departure: 2024-07-26T20:45:00+02:00, arrival:  2024-07-26T22:45:00+01:00, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR5769 }
+  - { departure: 2024-08-02T16:20:00+01:00, arrival: 2024-08-02T20:20:00+02:00, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR5768 }
 - name: Weekend Trip With Partner
   place: "🇳🇱 Zuidoost Limburg"
   start: 2024-08-23
@@ -757,8 +387,8 @@ trips:
   latitude: 50.755201104976
   longitude: 6.025623332936
   itinerary:
-  - { departure: 2024-08-23T12:21:00+02:00, arrival: 2024-08-23T13:35:00+02:00, origin: *station_eindhoven_centraal, destination: *station_maastricht, type: train, operator: NS }
-  - { departure: 2024-08-25T10:52:00+02:00, arrival: 2024-08-25T12:03:00+02:00, origin: *station_maastricht, destination: *station_eindhoven_centraal, type: train, operator: NS }
+  - { departure: 2024-08-23T12:21:00+02:00, arrival: 2024-08-23T13:35:00+02:00, origin: stations.eindhoven_centraal, destination: stations.maastricht, type: train, operator: NS }
+  - { departure: 2024-08-25T10:52:00+02:00, arrival: 2024-08-25T12:03:00+02:00, origin: stations.maastricht, destination: stations.eindhoven_centraal, type: train, operator: NS }
 - name: Weekend Trip With Partner
   place: "🇳🇱 Groningen"
   start: 2024-08-31
@@ -766,8 +396,8 @@ trips:
   latitude: 53.2218529
   longitude: 6.4832932
   itinerary:
-  - { departure: 2024-08-31T09:54:00+02:00, arrival: 2024-08-31T12:47:00+02:00, origin: *station_eindhoven_centraal, destination: *station_groningen, type: train, operator: NS }
-  - { departure: 2024-09-01T15:41:00+02:00, arrival: 2024-09-01T19:02:00+02:00, origin: *station_groningen, destination: *station_eindhoven_centraal, type: train, operator: NS }
+  - { departure: 2024-08-31T09:54:00+02:00, arrival: 2024-08-31T12:47:00+02:00, origin: stations.eindhoven_centraal, destination: stations.groningen, type: train, operator: NS }
+  - { departure: 2024-09-01T15:41:00+02:00, arrival: 2024-09-01T19:02:00+02:00, origin: stations.groningen, destination: stations.eindhoven_centraal, type: train, operator: NS }
 - name: Trip With Partner's Family
   place: "🇪🇸 Costa del Sol & Seville"
   start: 2024-10-19
@@ -775,10 +405,10 @@ trips:
   latitude: 36.514592
   longitude: -4.6378735
   itinerary:
-  - { departure: 2024-10-19T14:45:00+02:00, arrival: 2024-10-19T18:00:00+02:00, origin: *airport_ams, destination: { name: 'Málaga–Costa del Sol Airport' }, type: air, operator: Vueling, number: VY8366 }
-  - { departure: 2024-10-22T09:17:00+02:00, arrival: 2024-10-22T11:19:00+02:00, origin: { name: 'Málaga María Zambrano' }, destination: { name: 'Sevilla-Santa Justa' }, type: train, operator: Renfe, number: 'AVANT 08694' }
-  - { departure: 2024-10-22T19:13:00+02:00, arrival: 2024-10-22T21:12:00+02:00, origin: { name: 'Sevilla-Santa Justa' }, destination: { name: 'Málaga María Zambrano' }, type: train, operator: Renfe, number: 'AVANT 08195' }
-  - { departure: 2024-10-26T11:25:00+02:00, arrival: 2024-10-26T14:30:00+02:00, origin: { name: 'Málaga–Costa del Sol Airport' }, destination: *airport_ams, type: air, operator: EasyJet, number: U27890 }
+  - { departure: 2024-10-19T14:45:00+02:00, arrival: 2024-10-19T18:00:00+02:00, origin: airports.ams, destination: airports.agp, type: air, operator: Vueling, number: VY8366 }
+  - { departure: 2024-10-22T09:17:00+02:00, arrival: 2024-10-22T11:19:00+02:00, origin: Málaga María Zambrano, destination: Sevilla-Santa Justa, type: train, operator: Renfe, number: 'AVANT 08694' }
+  - { departure: 2024-10-22T19:13:00+02:00, arrival: 2024-10-22T21:12:00+02:00, origin: Sevilla-Santa Justa, destination: Málaga María Zambrano, type: train, operator: Renfe, number: 'AVANT 08195' }
+  - { departure: 2024-10-26T11:25:00+02:00, arrival: 2024-10-26T14:30:00+02:00, origin: airports.agp, destination: airports.ams, type: air, operator: EasyJet, number: U27890 }
 - name: Weekend Trip With Partner
   place: "🇧🇪 Brugge"
   start: 2024-12-28
@@ -786,16 +416,16 @@ trips:
   latitude: 51.208441779844925
   longitude: 3.224858089101971
   itinerary:
-  - { departure: 2024-12-28T10:43:00+01:00, arrival: 2024-12-28T11:21:00+01:00, origin: *station_eindhoven_centraal, destination: *station_breda, type: train, operator: NS, number: IC1134 }
-  - { departure: 2024-12-28T11:42:00+01:00, arrival: 2024-12-28T12:23:00+01:00, origin: *station_breda, destination: *antwerpen_berchem_station, type: train, operator: NS International, number: IC9228 }
-  - { departure: 2024-12-28T12:42:00+01:00, arrival: 2024-12-28T13:33:00+01:00, origin: *antwerpen_berchem_station, destination: *gent_st_pieters_station, type: train, operator: SNCB, number: IC712 }
-  - { departure: 2024-12-28T13:37:00+01:00, arrival: 2024-12-28T13:59:00+01:00, origin: *gent_st_pieters_station, destination: *brugge_station, type: train, operator: SNCB, number: IC534 }
-  - { departure: 2024-12-29T13:34:00+01:00, arrival: 2024-12-29T14:00:00+01:00, origin: *brugge_station, destination: *gent_st_pieters_station, type: train, operator: SNCB, number: IC534 }
-  - { departure: 2024-12-29T16:02:00+01:00, arrival: 2024-12-29T16:54:00+01:00, origin: *gent_dampoort_station, destination: *antwerpen_centraal_station, type: train, operator: SNCB, number: IC712 }
-  - { departure: 2024-12-29T17:36:00+01:00, arrival: 2024-12-29T18:19:00+01:00, origin: *antwerpen_centraal_station, destination: *station_rotterdam_centraal, type: train, operator: NS International }
-  - { departure: 2024-12-29T18:23:00+01:00, arrival: 2024-12-29T18:45:00+01:00, origin: *station_rotterdam_centraal, destination: *station_breda, type: train, operator: NS }
-  - { departure: 2024-12-29T18:50:00+01:00, arrival: 2024-12-29T19:02:00+01:00, origin: *station_breda, destination: *station_tilburg, type: train, operator: NS }
-  - { departure: 2024-12-29T19:08:00+01:00, arrival: 2024-12-29T19:38:00+01:00, origin: *station_tilburg, destination: *station_eindhoven_strijps, type: train, operator: NS }
+  - { departure: 2024-12-28T10:43:00+01:00, arrival: 2024-12-28T11:21:00+01:00, origin: stations.eindhoven_centraal, destination: stations.breda, type: train, operator: NS, number: IC1134 }
+  - { departure: 2024-12-28T11:42:00+01:00, arrival: 2024-12-28T12:23:00+01:00, origin: stations.breda, destination: stations.antwerpen_berchem, type: train, operator: NS International, number: IC9228 }
+  - { departure: 2024-12-28T12:42:00+01:00, arrival: 2024-12-28T13:33:00+01:00, origin: stations.antwerpen_berchem, destination: stations.gent_st_pieters, type: train, operator: SNCB, number: IC712 }
+  - { departure: 2024-12-28T13:37:00+01:00, arrival: 2024-12-28T13:59:00+01:00, origin: stations.gent_st_pieters, destination: stations.brugge, type: train, operator: SNCB, number: IC534 }
+  - { departure: 2024-12-29T13:34:00+01:00, arrival: 2024-12-29T14:00:00+01:00, origin: stations.brugge, destination: stations.gent_st_pieters, type: train, operator: SNCB, number: IC534 }
+  - { departure: 2024-12-29T16:02:00+01:00, arrival: 2024-12-29T16:54:00+01:00, origin: stations.gent_dampoort, destination: stations.antwerpen_centraal, type: train, operator: SNCB, number: IC712 }
+  - { departure: 2024-12-29T17:36:00+01:00, arrival: 2024-12-29T18:19:00+01:00, origin: stations.antwerpen_centraal, destination: stations.rotterdam_centraal, type: train, operator: NS International }
+  - { departure: 2024-12-29T18:23:00+01:00, arrival: 2024-12-29T18:45:00+01:00, origin: stations.rotterdam_centraal, destination: stations.breda, type: train, operator: NS }
+  - { departure: 2024-12-29T18:50:00+01:00, arrival: 2024-12-29T19:02:00+01:00, origin: stations.breda, destination: stations.tilburg, type: train, operator: NS }
+  - { departure: 2024-12-29T19:08:00+01:00, arrival: 2024-12-29T19:38:00+01:00, origin: stations.tilburg, destination: stations.eindhoven_strijps, type: train, operator: NS }
 # - name:
 #   place:
 #   start:
@@ -803,4 +433,4 @@ trips:
 #   latitude:
 #   longitude:
 #   itinerary:
-#   - { departure: DATE, arrival: DATE, origin: *from, destination: *to, type: train, operator: XX, number: XX1234 }
+#   - { departure: DATE, arrival: DATE, origin: from, destination: to, type: train, operator: XX, number: XX1234 }
