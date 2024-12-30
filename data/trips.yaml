@@ -5,8 +5,8 @@
   latitude: 51.50839474
   longitude: -0.12071889338
   itinerary:
-  - { departure: 2017-04-06T00:00:00Z, arrival: 2017-04-06T02:00:00Z, origin: airports.fao, destination: airports.lgw, type: air, operator: Easyjet, number: U28916 }
-  - { departure: 2017-04-10T00:00:00Z, arrival: 2017-04-10T02:00:00Z, origin: airports.lgw, destination: airports.fao, type: air, operator: Easyjet, number: U28929 }
+  - { departure: 2017-04-06T10:15:00Z, arrival: 2017-04-06T13:00:00Z, origin: airports.fao, destination: airports.lgw, type: air, operator: Easyjet, number: U28916 }
+  - { departure: 2017-04-10T19:05:00Z, arrival: 2017-04-10T21:46:00Z, origin: airports.lgw, destination: airports.fao, type: air, operator: Easyjet, number: U28929 }
 - name: FOSDEM 2018
   place: "🇧🇪 Bruxelles"
   start: 2018-02-02
@@ -14,8 +14,8 @@
   latitude: 50.84814463
   longitude: 4.3509642
   itinerary:
-  - { departure: 2018-02-02T00:00:00Z, arrival: 2018-02-02T02:00:00Z, origin: airports.lis, destination: airports.bru, type: air, operator: TAP Air Portugal, number: TP616 }
-  - { departure: 2018-02-05T00:00:00Z, arrival: 2018-02-05T02:00:00Z, origin: airports.bru, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP617 }
+  - { departure: 2018-02-02T08:55:00Z, arrival: 2018-02-02T12:56:00Z, origin: airports.lis, destination: airports.bru, type: air, operator: TAP Air Portugal, number: TP616 }
+  - { departure: 2018-02-05T13:26:00Z, arrival: 2018-02-05T15:07:00Z, origin: airports.bru, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP617 }
 - name: SmashingConf 2018
   place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
   start: 2018-02-07
@@ -23,8 +23,8 @@
   latitude: 51.50839474
   longitude: -0.12071889338
   itinerary:
-  - { departure: 2018-02-07T00:00:00Z, arrival: 2018-02-07T02:00:00Z, origin: airports.lis, destination: airports.lhr, type: air, operator: TAP Air Portugal, number: TP358 }
-  - { departure: 2018-02-15T00:00:00Z, arrival: 2018-02-15T02:00:00Z, origin: airports.lhr, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP369 }
+  - { departure: 2018-02-07T18:53:00Z, arrival: 2018-02-07T21:44:00Z, origin: airports.lis, destination: airports.lhr, type: air, operator: TAP Air Portugal, number: TP358 }
+  - { departure: 2018-02-15T19:46:00Z, arrival: 2018-02-15T22:22:00Z, origin: airports.lhr, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP369 }
 - name: LabWeek 2018
   place: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow"
   start: 2018-10-09
@@ -32,10 +32,10 @@
   latitude: 55.856437
   longitude: -4.2594757
   itinerary:
-  - { departure: 2018-10-09T00:00:00Z, arrival: 2018-10-09T02:00:00Z, origin: airports.lis, destination: airports.lhr, type: air, operator: TAP Air Portugal, number: TP366 }
-  - { departure: 2018-10-09T02:00:00Z, arrival: 2018-10-09T04:00:00Z, origin: airports.lhr, destination: airports.gla, type: air, operator: British Airways, number: BA1488 }
-  - { departure: 2018-10-13T12:10:00Z, arrival: 2018-10-13T13:10:00Z, origin: airports.gla, destination: airports.lhr, type: air, operator: British Airways, number: BA1483 }
-  - { departure: 2018-10-13T18:45:00Z, arrival: 2018-10-13T20:45:00Z, origin: airports.lhr, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP369 }
+  - { departure: 2018-10-09T10:05:00Z, arrival: 2018-10-09T12:51:00Z, origin: airports.lis, destination: airports.lhr, type: air, operator: TAP Air Portugal, number: TP366 }
+  - { departure: 2018-10-09T16:24:00Z, arrival: 2018-10-09T17:52:00Z, origin: airports.lhr, destination: airports.gla, type: air, operator: British Airways, number: BA1488 }
+  - { departure: 2018-10-13T12:10:00Z, arrival: 2018-10-13T13:40:00Z, origin: airports.gla, destination: airports.lhr, type: air, operator: British Airways, number: BA1483 }
+  - { departure: 2018-10-13T18:45:00Z, arrival: 2018-10-13T21:25:00Z, origin: airports.lhr, destination: airports.lis, type: air, operator: TAP Air Portugal, number: TP369 }
 - name: FOSDEM 2019
   place: "🇧🇪 Bruxelles"
   start: 2019-01-31
