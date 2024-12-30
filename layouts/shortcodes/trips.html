@@ -59,7 +59,7 @@ border-bottom: var(--border) solid var(--fg);
 }
 </style>
 
-{{ $logs := partial "fns/group-date-year" .Site.Data.trips.trips }}
+{{ $logs := partial "fns/group-date-year" .Site.Data.trips }}
 {{ range $logs.years }}
   <section class='trips'>
     {{ $year := . }}
@@ -85,7 +85,7 @@ border-bottom: var(--border) solid var(--fg);
             {{ with $entry.itinerary }}
               <ul class='legs'>
                 {{ range . }}
-                  <li>{{ template "leg" . }}</li>
+                  <li>{{ template "leg" (dict "Itinerary" . "Site" $.Site) }}</li>
                 {{ end }}
               </ul>
             {{ end }}
@@ -114,14 +114,16 @@ function closeAll (e) {
 </script>
 
 {{ define "leg" }}
-  {{ template "transit-type" .type }}
-  <time class='tab lg'>{{ dateFormat "2006-01-02 15:04" .departure }}</time>
-  {{ .origin.name }}
+  {{ template "transit-type" .Itinerary.type }}
+  <time class='tab lg'>{{ dateFormat "2006-01-02 15:04" .Itinerary.departure }}</time>
+  {{ $origin := index .Site.Data.locations (strings.Split .Itinerary.origin ".") }}
+  {{ or $origin.name .Itinerary.origin }}
   →
-  <time class='tab lg'>{{ dateFormat "15:04" .arrival }}</time>
-  {{ .destination.name }}
+  <time class='tab lg'>{{ dateFormat "15:04" .Itinerary.arrival }}</time>
+  {{ $destination := index .Site.Data.locations (strings.Split .Itinerary.destination ".") }}
+  {{ or $destination.name .Itinerary.destination }}
   {{ if eq .type "air" -}}
-    <span class='lg'>({{ .operator }} {{.number}})</span>
+    <span class='lg'>({{ .Itinerary.operator }} {{.Itinerary.number}})</span>
   {{- end }}
 {{ end }}
 

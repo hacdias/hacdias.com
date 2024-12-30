@@ -1,0 +1,309 @@
+{
+  "amsterdam_centraal": {
+    "country": "Netherlands",
+    "latitude": 52.378901,
+    "longitude": 4.9005805,
+    "name": "Amsterdam Centraal"
+  },
+  "antwerpen_berchem": {
+    "country": "Belgium",
+    "latitude": 51.19987052107281,
+    "longitude": 4.432329201041624,
+    "name": "Antwerpen-Berchem Station"
+  },
+  "antwerpen_centraal": {
+    "country": "Belgium",
+    "latitude": 51.2159949,
+    "longitude": 4.4211011,
+    "name": "Antwerpen-Centraal Station"
+  },
+  "basel_sbb": {
+    "country": "Switzerland",
+    "latitude": 47.54768865522458,
+    "longitude": 7.590017533226856,
+    "name": "Basel SBB"
+  },
+  "bergamo": {
+    "country": "Italy",
+    "latitude": 45.6944947,
+    "longitude": 9.6698727,
+    "name": "Bergamo"
+  },
+  "berlin_hbf": {
+    "country": "Germany",
+    "latitude": 51.5735198,
+    "longitude": 7.3040977,
+    "name": "Berlin Hbf"
+  },
+  "bologna_centrale": {
+    "country": "Italy",
+    "latitude": 44.5071559,
+    "longitude": 11.3429422,
+    "name": "Bologna Centrale"
+  },
+  "breda": {
+    "country": "Netherlands",
+    "latitude": 51.5887845,
+    "longitude": 4.7760237,
+    "name": "Breda"
+  },
+  "brugge": {
+    "country": "Belgium",
+    "latitude": 51.19779494069309,
+    "longitude": 3.218387396807249,
+    "name": "Brugge Station"
+  },
+  "brussels_central": {
+    "country": "Belgium",
+    "latitude": 50.8455466502565,
+    "longitude": 4.357120007195408,
+    "name": "Brussels-Central Station"
+  },
+  "brussels_north": {
+    "country": "Belgium",
+    "latitude": 50.8603818,
+    "longitude": 4.3600896,
+    "name": "Brussels-North Station"
+  },
+  "brussels_south": {
+    "country": "Belgium",
+    "latitude": 50.8356748,
+    "longitude": 4.3362419,
+    "name": "Brussels-South Station"
+  },
+  "den_bosch": {
+    "country": "Netherlands",
+    "latitude": 51.69067909138907,
+    "longitude": 5.293829204614895,
+    "name": "'s-Hertogenbosch"
+  },
+  "deventer": {
+    "country": "Netherlands",
+    "latitude": 52.257201687770454,
+    "longitude": 6.160697510761772,
+    "name": "Deventer"
+  },
+  "duisburg_hbf": {
+    "country": "Germany",
+    "latitude": 51.42960338575534,
+    "longitude": 6.776270223505512,
+    "name": "Duisburg Hbf"
+  },
+  "dusseldorf_hbf": {
+    "country": "Germany",
+    "latitude": 51.22024929458281,
+    "longitude": 6.793200151101101,
+    "name": "Düsseldorf Hbf"
+  },
+  "eindhoven_centraal": {
+    "country": "Netherlands",
+    "latitude": 51.4429623,
+    "longitude": 5.4795265,
+    "name": "Eindhoven Centraal"
+  },
+  "eindhoven_strijps": {
+    "country": "Netherlands",
+    "latitude": 51.45056231310715,
+    "longitude": 5.457695262479608,
+    "name": "Eindhoven Strijp-S"
+  },
+  "engelberg": {
+    "country": "Switzerland",
+    "latitude": 46.81951501851058,
+    "longitude": 8.402709497542658,
+    "name": "Engelberg"
+  },
+  "firenze_smn": {
+    "country": "Italy",
+    "latitude": 43.7775719,
+    "longitude": 11.2474177,
+    "name": "Firenze Santa Maria Novella"
+  },
+  "geneve_cornavin": {
+    "country": "Switzerland",
+    "name": "Genève Cornavin"
+  },
+  "gent_dampoort": {
+    "country": "Belgium",
+    "latitude": 51.05543848507556,
+    "longitude": 3.7413201526203723,
+    "name": "Gent Dampoort"
+  },
+  "gent_st_pieters": {
+    "country": "Belgium",
+    "latitude": 51.03609455,
+    "longitude": 3.71080494219295,
+    "name": "Gent St Pieters"
+  },
+  "goslar": {
+    "country": "Germany",
+    "latitude": 51.91118774066118,
+    "longitude": 10.421758789287184,
+    "name": "Goslar"
+  },
+  "groningen": {
+    "country": "Netherlands",
+    "latitude": 53.211022,
+    "longitude": 6.5614893,
+    "name": "Groningen"
+  },
+  "hannover_hbf": {
+    "country": "Germany",
+    "latitude": 52.376698613166866,
+    "longitude": 9.741047297273422,
+    "name": "Hannover Hbf"
+  },
+  "koln_hbf": {
+    "country": "Germany",
+    "latitude": 50.9432141,
+    "longitude": 6.9560268,
+    "name": "Köln Hbf"
+  },
+  "liege_guillemins": {
+    "country": "Belgium",
+    "latitude": 50.6280272,
+    "longitude": 5.5678065,
+    "name": "Liège Guillemins"
+  },
+  "lille_flanders": {
+    "country": "France",
+    "latitude": 50.636389,
+    "longitude": 3.070833,
+    "name": "Gare de Lille-Flandres"
+  },
+  "london_st_pancras": {
+    "country": "United Kingdom",
+    "latitude": 51.5318912,
+    "longitude": -0.1268506,
+    "name": "London St Pancras Int'l"
+  },
+  "luzern": {
+    "country": "Switzerland",
+    "latitude": 47.0531688274953,
+    "longitude": 8.257767354075861,
+    "name": "Luzern"
+  },
+  "maastricht": {
+    "country": "Netherlands",
+    "latitude": 50.85030027278323,
+    "longitude": 5.706030998577679,
+    "name": "Maastricht"
+  },
+  "milano_centrale": {
+    "country": "Italy",
+    "latitude": 45.4858786,
+    "longitude": 9.2042617,
+    "name": "Milano Centrale"
+  },
+  "monchengladbach_hbf": {
+    "country": "Germany",
+    "latitude": 51.19692906751327,
+    "longitude": 6.446281036531824,
+    "name": "Mönchengladbach Hbf"
+  },
+  "munchen_hbf": {
+    "country": "Germany",
+    "name": "München Hbf"
+  },
+  "napoli_centrale": {
+    "country": "Italy",
+    "latitude": 40.8525947,
+    "longitude": 14.272366631869446,
+    "name": "Napoli Centrale"
+  },
+  "neuss_hbf": {
+    "country": "Germany",
+    "latitude": 51.2043643,
+    "longitude": 6.6820122,
+    "name": "Neuss Hbf"
+  },
+  "paris_gare_de_lyon": {
+    "country": "France",
+    "name": "Paris Gare de Lyon"
+  },
+  "paris_gare_du_nord": {
+    "country": "France",
+    "latitude": 48.88111034893081,
+    "longitue": 2.3555497314521947,
+    "name": "Paris Gare du Nord"
+  },
+  "pepinster": {
+    "country": "Belgium",
+    "latitude": 50.56823092530909,
+    "longitude": 5.806170747370984,
+    "name": "Pepinster"
+  },
+  "pisa_centrale": {
+    "country": "Italy",
+    "latitude": 43.708398,
+    "longitude": 10.3984995,
+    "name": "Pisa Centrale"
+  },
+  "praha_hln": {
+    "country": "Czechia",
+    "latitude": 50.0830349,
+    "longitude": 14.436145,
+    "name": "Praha hl.n."
+  },
+  "roma_termini": {
+    "country": "Italy",
+    "latitude": 41.9005815,
+    "longitude": 12.5025272,
+    "name": "Roma Termini"
+  },
+  "rotterdam_centraal": {
+    "country": "Netherlands",
+    "latitude": 51.9250574,
+    "longitude": 4.4692289,
+    "name": "Rotterdam Centraal"
+  },
+  "spa": {
+    "country": "Belgium",
+    "latitude": 50.4903021,
+    "longitude": 5.8528801,
+    "name": "Spa"
+  },
+  "tilburg": {
+    "country": "Netherlands",
+    "latitude": 51.560421401860346,
+    "longitude": 5.084073433598997,
+    "name": "Tilburg"
+  },
+  "utrecht_centraal": {
+    "latitude": 52.08948710105604,
+    "longitude": 5.1098606530824044,
+    "name": "Utrecht Centraal"
+  },
+  "venezia_slucia": {
+    "country": "Italy",
+    "latitude": 45.4410753,
+    "longitude": 12.3210322,
+    "name": "Venezia S. Lucia"
+  },
+  "venlo": {
+    "country": "Netherlands",
+    "latitude": 51.36520090266271,
+    "longitude": 6.171229605758007,
+    "name": "Venlo"
+  },
+  "viersen": {
+    "country": "Germany",
+    "latitude": 51.255034262874574,
+    "longitude": 6.404207133425752,
+    "name": "Viersen"
+  },
+  "wernigerode_hbf": {
+    "latitude": 51.84013619214658,
+    "longitude": 10.789349062293116,
+    "name": "Wernigerode Hbf"
+  },
+  "wien_hbf": {
+    "latitude": 48.186667,
+    "longitude": 16.38,
+    "name": "Wien Hbf"
+  },
+  "zurich_hb": {
+    "country": "Switzerland",
+    "name": "Zürich HB"
+  }
+}
