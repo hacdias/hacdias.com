@@ -101,6 +101,11 @@ train_stations:
     longitude: 4.4211011
     name: Antwerpen-Centraal Station
     country: Belgium
+  antwerpen_berchem: &antwerpen_berchem_station
+    latitude: 51.19987052107281
+    longitude: 4.432329201041624
+    name: Antwerpen-Berchem Station
+    country: Belgium
   basel_sbb: &station_basel_sbb
     name: Basel SBB
     country: Switzerland
@@ -126,6 +131,11 @@ train_stations:
     country: Netherlands
     latitude: 51.5887845
     longitude: 4.7760237
+  brugge: &brugge_station
+    latitude: 51.19779494069309
+    longitude: 3.218387396807249
+    name: Brugge Station
+    country: Belgium
   brussels_central: &brussels_central_station
     name: Brussels-Central Station
     country: Belgium
@@ -166,6 +176,11 @@ train_stations:
     country: Netherlands
     latitude: 51.4429623
     longitude: 5.4795265
+  eindhoven_strijps: &station_eindhoven_strijps
+    name: Eindhoven Strijp-S
+    country: Netherlands
+    latitude: 51.45056231310715
+    longitude: 5.457695262479608
   engelberg: &station_engelberg
     name: Engelberg
     country: Switzerland
@@ -181,6 +196,11 @@ train_stations:
     country: Belgium
     latitude: 51.03609455
     longitude: 3.71080494219295
+  gent_dampoort: &gent_dampoort_station
+    name: Gent Dampoort
+    country: Belgium
+    latitude: 51.05543848507556
+    longitude: 3.7413201526203723
   geneve_cornavin: &station_geneve_cornavin
     name: Genève Cornavin
     country: Switzerland
@@ -285,6 +305,11 @@ train_stations:
     country: Belgium
     latitude: 50.4903021
     longitude: 5.8528801
+  tilburg: &station_tilburg
+    name: Tilburg
+    country: Netherlands
+    latitude: 51.560421401860346
+    longitude: 5.084073433598997
   utrecht_centraal: &station_utrecht_centraal
     name: Utrecht Centraal
     latitude: 52.08948710105604
@@ -754,6 +779,23 @@ trips:
   - { departure: 2024-10-22T09:17:00+02:00, arrival: 2024-10-22T11:19:00+02:00, origin: { name: 'Málaga María Zambrano' }, destination: { name: 'Sevilla-Santa Justa' }, type: train, operator: Renfe, number: 'AVANT 08694' }
   - { departure: 2024-10-22T19:13:00+02:00, arrival: 2024-10-22T21:12:00+02:00, origin: { name: 'Sevilla-Santa Justa' }, destination: { name: 'Málaga María Zambrano' }, type: train, operator: Renfe, number: 'AVANT 08195' }
   - { departure: 2024-10-26T11:25:00+02:00, arrival: 2024-10-26T14:30:00+02:00, origin: { name: 'Málaga–Costa del Sol Airport' }, destination: *airport_ams, type: air, operator: EasyJet, number: U27890 }
+- name: Weekend Trip With Partner
+  place: "🇧🇪 Brugge"
+  start: 2024-12-28
+  date: 2024-12-29
+  latitude: 51.208441779844925
+  longitude: 3.224858089101971
+  itinerary:
+  - { departure: 2024-12-28T10:43:00+01:00, arrival: 2024-12-28T11:21:00+01:00, origin: *station_eindhoven_centraal, destination: *station_breda, type: train, operator: NS, number: IC1134 }
+  - { departure: 2024-12-28T11:42:00+01:00, arrival: 2024-12-28T12:23:00+01:00, origin: *station_breda, destination: *antwerpen_berchem_station, type: train, operator: NS International, number: IC9228 }
+  - { departure: 2024-12-28T12:42:00+01:00, arrival: 2024-12-28T13:33:00+01:00, origin: *antwerpen_berchem_station, destination: *gent_st_pieters_station, type: train, operator: SNCB, number: IC712 }
+  - { departure: 2024-12-28T13:37:00+01:00, arrival: 2024-12-28T13:59:00+01:00, origin: *gent_st_pieters_station, destination: *brugge_station, type: train, operator: SNCB, number: IC534 }
+  - { departure: 2024-12-29T13:34:00+01:00, arrival: 2024-12-29T14:00:00+01:00, origin: *brugge_station, destination: *gent_st_pieters_station, type: train, operator: SNCB, number: IC534 }
+  - { departure: 2024-12-29T16:02:00+01:00, arrival: 2024-12-29T16:54:00+01:00, origin: *gent_dampoort_station, destination: *antwerpen_centraal_station, type: train, operator: SNCB, number: IC712 }
+  - { departure: 2024-12-29T17:36:00+01:00, arrival: 2024-12-29T18:19:00+01:00, origin: *antwerpen_centraal_station, destination: *station_rotterdam_centraal, type: train, operator: NS International }
+  - { departure: 2024-12-29T18:23:00+01:00, arrival: 2024-12-29T18:45:00+01:00, origin: *station_rotterdam_centraal, destination: *station_breda, type: train, operator: NS }
+  - { departure: 2024-12-29T18:50:00+01:00, arrival: 2024-12-29T19:02:00+01:00, origin: *station_breda, destination: *station_tilburg, type: train, operator: NS }
+  - { departure: 2024-12-29T19:08:00+01:00, arrival: 2024-12-29T19:38:00+01:00, origin: *station_tilburg, destination: *station_eindhoven_strijps, type: train, operator: NS }
 # - name:
 #   place:
 #   start:
