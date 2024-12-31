@@ -7,6 +7,7 @@ syndication:
   - https://fosstodon.org/@hacdias/111669062516638383
 tags:
   - now
+  - year in review
 ---
 
 December is coming to an end, and with it so is 2023. In general, it's been quite an incredible year, marking my first year post-university, which always brings a lot of changes to one's life. Allied with living in another country, trying to learn the language, traveling, a lot has happened, and there is a lot to be grateful for.
