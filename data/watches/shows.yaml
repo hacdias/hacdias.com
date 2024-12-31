@@ -2,10 +2,18 @@
 #   season:
 #   date:
 #   rating:
+- name: Shrinking
+  season: 2
+  rating: 4
+  date: 2024-12-30
 - name: 'Dune: Prophecy'
   season: 1
   rating: 5
   date: 2024-12-27
+- name: Shrinking
+  season: 1
+  rating: 4
+  date: 2024-12-17
 - name: Dwars door de Lage Landen
   season: 1
   rating: 4
