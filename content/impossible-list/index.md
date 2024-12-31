@@ -72,7 +72,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 -  [x] Create a website <small>[July 2014]</small>
    - [x] Maintain a website for 1 years <small>[July 2015]</small>
    - [x] Maintain a website for 5 years <small>[July 2019]</small>
-   - [ ] Maintain a website for 10 years <small>[July 2024]</small>
+   - [x] Maintain a website for 10 years <small>[[July 2024](/2024/07/12/a-decade-of-blogging/)]</small>
+   - [ ] Maintain a website for 15 years <small>[July 2020]</small>
 - [x] Participate in the National Olympiads of Informatics <small>[April 2016, 10th place]</small>
    - [x] Participate again and achieve a better place <small>[May 2017, 6th place]</small>
 - [x] Start studying Computer Science <small>[September 2017]</small>
