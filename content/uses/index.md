@@ -63,26 +63,31 @@ Coffee is nowadays a part of my daily life. However, I try to not drink more tha
 
 The list below contains some of my favorite software, or software that I use on a daily basis that is crucial for my work. Some may call this my [app defaults](https://defaults.rknight.me/).
 
-- **E-mail Client** <span>Native macOS and iOS apps</span>
-- **E-mail Server** <span>[Fastmail](https://www.fastmail.com) and Gmail - slowly moving away from Google</span>
-- **Notes** <span>Native macOS and iOS apps, pen and paper</span>
-- **Reminders** <span>Native macOS and iOS apps</span>
-- **Photo Management** <span>Native macOS and iOS apps, file system for RAW</span>
-- **Calendar** <span>Native macOS and iOS apps, Fastmail</span>
-- **Contacts** <span>Native macOS and iOS apps, Fastmail</span>
+- **Mail Service** <span>[Fastmail](https://www.fastmail.com) and Gmail - slowly moving away from Google</span>
+- **Mail Client** <span>Apple Mail</span>
+- **Notes** <span>Apple Notes</span>
+- **Reminders** <span>Apple Reminders</span>
+- **Calendar** <span>Apple Calendar (Fastmail)</span>
+- **Contacts** <span>Apple Contacts (Fastmail)</span>
+- **RSS Service** <span>[Miniflux](https://miniflux.app/)</span>
+- **RSS Client** <span>[NetNewsWire](https://netnewswire.com/) (iOS)</span>
 - **Cloud File Storage** <span>iCloud, Google Drive</span>
-- **RSS Reader** <span>[Miniflux](https://miniflux.app/)</span>
+- **Photo Management** <span>Apple Photos, file system for RAW</span>
 - **Browser** <span>Chrome on macOS, Safari on iOS</span>
-- **Chat** <span>WhatsApp, Telegram</span>
+- **Chat** <span>WhatsApp, Telegram, Signal</span>
 - **Bookmarks** <span>Browser, [Bookmarks Page](/bookmarks/)</span>
-- **Documents** <span>Google Docs</span>
+- **Read It Later** <span>Apple Reminders</span>
+- **Shopping Lists** <span>Apple Reminders</span>
+- **Documents** <span>Google Docs, Markdown</span>
+- **Personal Finance** <span>Google Sheets</span>
 - **News** <span>NRC 🇳🇱, Público 🇵🇹, some tech blogs</span>
-- **Music and Podcasts** <span>Spotify</span>
-- **Password Manager** <span>1Password</span>
-- **Operating System** <span>macOS, iOS, Linux (Alpine usually)</span>
+- **Music and Podcasts** <span>[Spotify](https://spotify.com/)</span>
+- **Password Manager** <span>[1Password](https://1password.com/)</span>
+- **Weather** <span>Apple Weather, [Buienradar](https://www.buienradar.nl/)</span>
 - **Code Editor** <span>[Visual Studio Code](https://code.visualstudio.com/) and [vim](https://www.vim.org/)</span>
 - **Terminal** <span>[iTerm](https://iterm2.com/) with [zsh](https://en.wikipedia.org/wiki/Z_shell) and [oh my zsh](https://ohmyz.sh/) - see my [dotfiles](https://github.com/hacdias/dotfiles)</span>
+- **Operating System** <span>macOS, iOS, Linux (Alpine usually)</span>
 - **Web Server** <span>[Caddy](https://caddyserver.com/)</span>
 - **Hosting Provider** <span>[Hetzner](https://www.hetzner.com/)</span>
-- **Domain Registrars** <span>[Porkbun](https://porkbun.com) and [PTServidor](https://ptservidor.pt)</span>
+- **Domain Registrars** <span>[Porkbun](https://porkbun.com), [PTServidor](https://ptservidor.pt)</span>
 {.box .tb}
