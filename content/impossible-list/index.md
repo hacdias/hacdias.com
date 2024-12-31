@@ -26,7 +26,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 -  [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
 - [x] Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train <small>[April 2022, [Eurostar](https://www.eurostar.com/)]</small>
 - [x] Travel on a 🚂 steam train <small>[[July 2023](/2023/07/31/recently/#life), [Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)]</small>
-- [x] Travel on a 🍽️ restaurant train <small>[[August 2023](/2023/08/31/recently/), [Dinner Train](https://dinnertrain.eu/)]</small>
+- [x] Travel on a 🍽️ restaurant train <small>[[August 2023](/2023/08/31/recently/), [Dinner Train](https://en.wikipedia.org/wiki/Dinner_Train_(Netherlands))]</small>
 - [x] Travel on an historical 🍽️🚂 restaurant steam train <small>[[October 2023](/2023/10/31/recently/), [Miljoenenlijn](https://miljoenenlijn.nl/)]</small>
 - [x] Overnight 🌙 travel between two countries by train <small>[[February 2024](/2024/02/27/traveling-to-vienna-with-the-nightjet/), [Nightjet](https://www.nightjet.com/)]</small>
 - [x] Travel on the historical 🚋 trams in Amsterdam <small>[August 2024, [Museumtramlijn](https://www.museumtramlijn.org/)]</small>

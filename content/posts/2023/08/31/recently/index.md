@@ -22,7 +22,7 @@ There haven't been major updates on this website over the past month. However, I
 
 ## 🍄 Life {#life}
 
-In the beginning of the month, I had an interesting train experience: I traveled onboard of the [🍽️ Dinner Train](https://dinnertrain.eu/), whose sole purpose is to... have dinner on the train. Every weekend, it departs from a different city. The origin station is the same as the destination station. We just went on a gentle train trip for around 2 hours and had dinner on board. I would definitely recommend.
+In the beginning of the month, I had an interesting train experience: I traveled onboard of the [🍽️ Dinner Train](https://en.wikipedia.org/wiki/Dinner_Train_(Netherlands)), whose sole purpose is to... have dinner on the train. Every weekend, it departs from a different city. The origin station is the same as the destination station. We just went on a gentle train trip for around 2 hours and had dinner on board. I would definitely recommend.
 
 <div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
 
