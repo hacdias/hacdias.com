@@ -63,9 +63,9 @@ Then, I decided it would be a great idea to see my movie watching habits in two 
 
 <div class='fg'>
 
-![](/2023/01/02/year-in-popcorn/movies_weekday.svg)
+![](movies-weekday.svg?class=plot)
 
-![](/2023/01/02/year-in-popcorn/movies_month.svg)
+![](movies-month.svg?class=plot)
 
 </div>
 
@@ -105,9 +105,9 @@ Similarly to what I did for the movies, I also plotted how many episodes I've wa
 
 <div class='fg'>
 
-![](/2023/01/02/year-in-popcorn/episodes_weekday.svg)
+![](episodes-weekday.svg?class=plot)
 
-![](/2023/01/02/year-in-popcorn/episodes_month.svg)
+![](episodes-month.svg?class=plot)
 
 </div>
 

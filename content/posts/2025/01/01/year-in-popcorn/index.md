@@ -28,9 +28,9 @@ According to my [watches](/watches/) page, I watched **54** different movies dur
 
 <div class='fg'>
 
-![](movies-weekday.svg?class=invert)
+![](movies-weekday.svg?class=plot)
 
-![](movies-month.svg?class=invert)
+![](movies-month.svg?class=plot)
 
 </div>
 
@@ -69,9 +69,9 @@ The second most watched series was **Abbot Elementary** and then **The Bear**, w
 
 <div class='fg'>
 
-![](episodes-weekday.svg?class=invert)
+![](episodes-weekday.svg?class=plot)
 
-![](episodes-month.svg?class=invert)
+![](episodes-month.svg?class=plot)
 
 </div>
 

@@ -11,6 +11,12 @@
   max-height: 15rem;
 }
 
+.dark .plot {
+  background-color: white;
+  padding: var(--hms) var(--ms);
+  border-radius: var(--radius);
+}
+
 .color {
   background-color: var(--color);
   height: 0.8rem;
