@@ -73,7 +73,7 @@ figures you'll see below can be found on the [repository](https://github.com/hac
 First of all, I wanted to know which genres I've been watching more. I separated shows (collections of episodes) from movies
 to get an overview and this is what I got:
 
-![](/2020/02/22/trakt-analysis/genres-general.svg?class=small-svg)
+![](genres-general.svg?class=small-svg+plot)
 
 The unique shows are marked as <span class="color" style="--color: #fed330"></span> and the movies marked as <span class="color" style="--color: #3867d6"></span>. It's clear
 that most of the content I watch is drama-related or comedy. Also, please note that a movie or show can be categorized
@@ -82,20 +82,20 @@ as more than one genre.
 After that, I decided it would be interesting to see how's my monthly activity. In this case, I did not reduce the show's episode.
 Here, I'm counting every episode as one and every movie as one.
 
-![](/2020/02/22/trakt-analysis/monthly.svg)
+![](monthly.svg?class=plot)
 
 It's clear that most of what I watch are TV shows, but that's normal due to their intrinsic nature. It's also interesting
 to see that November and December were the months where I watched most TV shows. However, I think this might've been an exception
 that happened last year. In addition, it may also be related to the schedule of the shows I watch. Most of them may be released on that time of the year.
 
-![](/2020/02/22/trakt-analysis/weekday.svg?class=smaller-svg)
+![](weekday.svg?class=smaller-svg+plot)
 
 Regarding to which day of the week I usually watch more TV shows - colored with <span class="color" style="--color: #eb3b5a"></span> -, it seems it doesn't matter
 much. Please note that this chart takes the sum of all episodes and movies I watched on each weekday through 2019. In opposition to TV shows, it seems that I clearly watch more movies on Saturdays and Sundays.
 
 And... I decided to leave the most exciting graph to the end. Here's a year map where you can visualize in which days of the year I watched more media.
 
-![](/2020/02/22/trakt-analysis/year-dist.svg)
+![](year-dist.svg?class=plot)
 
 The closer a square is to <span class="color" style="--color: #3867d6"></span>, the more episodes or movies I watched on that day. By looking
 to the graph, I'd say that I watched something on about 50% of the days of the year, if not more.

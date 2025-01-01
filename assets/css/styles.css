@@ -786,10 +786,6 @@ figure,
   color: var(--c-text);
 }
 
-.dark .invert {
-  filter: invert(1);
-}
-
 .only-light,
 .dark .only-dark {
   display: revert;
