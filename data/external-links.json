@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 80,
+    "count": 81,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -308,6 +308,10 @@
         "targetUrl": "https://github.com/ipfs/boxo"
       },
       {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://github.com/hacdias/dotfiles"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/upframe"
       },
@@ -327,7 +331,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 68,
+    "count": 72,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -510,6 +514,10 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Well-known_URI"
       },
       {
+        "sourceUrl": "https://hacdias.com/2023/08/31/recently/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Dinner_Train_%28Netherlands%29"
+      },
+      {
         "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://en.wikipedia.org/wiki/GPS_Exchange_Format"
       },
@@ -590,12 +598,24 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781786330895"
       },
       {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Z_shell"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/recently/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Caves_of_Maastricht"
+      },
+      {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://en.wikipedia.org/wiki/World%27s_fair"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://en.wikipedia.org/wiki/Harz_Railway"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/impossible-list/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Dinner_Train_%28Netherlands%29"
       },
       {
         "sourceUrl": "https://hacdias.com/uses/",
@@ -1448,6 +1468,28 @@
     ]
   },
   {
+    "domain": "rknight.me",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/08/app-defaults/",
+        "targetUrl": "https://defaults.rknight.me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://defaults.rknight.me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://rknight.me/subscribe/posts/atom.xml"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://defaults.rknight.me/"
+      }
+    ]
+  },
+  {
     "domain": "sapo.pt",
     "count": 4,
     "links": [
@@ -1466,6 +1508,28 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://pplware.sapo.pt/"
+      }
+    ]
+  },
+  {
+    "domain": "spotify.com",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music/",
+        "targetUrl": "https://spotify.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
+        "targetUrl": "https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://spotify.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://spotify.com/"
       }
     ]
   },
@@ -1654,6 +1718,24 @@
     ]
   },
   {
+    "domain": "miniflux.app",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://miniflux.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://miniflux.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://miniflux.app/"
+      }
+    ]
+  },
+  {
     "domain": "neustadt.fr",
     "count": 3,
     "links": [
@@ -1726,24 +1808,6 @@
     ]
   },
   {
-    "domain": "rknight.me",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/08/app-defaults/",
-        "targetUrl": "https://defaults.rknight.me/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://rknight.me/subscribe/posts/atom.xml"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://defaults.rknight.me/"
-      }
-    ]
-  },
-  {
     "domain": "stackoverflow.com",
     "count": 3,
     "links": [
@@ -1758,6 +1822,20 @@
       {
         "sourceUrl": "https://hacdias.com/2023/11/18/open-sourcering-my-website/",
         "targetUrl": "https://stackoverflow.com/questions/3063097/remove-commits-before-specific-commit"
+      }
+    ]
+  },
+  {
+    "domain": "1password.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://1password.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://1password.com/"
       }
     ]
   },
@@ -1832,6 +1910,20 @@
     ]
   },
   {
+    "domain": "buienradar.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://www.buienradar.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://www.buienradar.nl/"
+      }
+    ]
+  },
+  {
     "domain": "daviddias.me",
     "count": 2,
     "links": [
@@ -1898,20 +1990,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/07/03/an-update-to-my-digid-saga-and-drivers-licenses/",
         "targetUrl": "https://mijn.digid.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "dinnertrain.eu",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/08/31/recently/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Dinner_Train_(Netherlands)"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Dinner_Train_(Netherlands)"
       }
     ]
   },
@@ -2052,6 +2130,20 @@
       {
         "sourceUrl": "https://hacdias.com/2021/02/01/recently/",
         "targetUrl": "https://gateway.ipfs.io/ipns/daviddias.me/"
+      }
+    ]
+  },
+  {
+    "domain": "iterm2.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://iterm2.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://iterm2.com/"
       }
     ]
   },
@@ -2224,20 +2316,6 @@
     ]
   },
   {
-    "domain": "miniflux.app",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://miniflux.app/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://miniflux.app/"
-      }
-    ]
-  },
-  {
     "domain": "modernconsensus.com",
     "count": 2,
     "links": [
@@ -2294,6 +2372,20 @@
     ]
   },
   {
+    "domain": "netnewswire.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://netnewswire.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://netnewswire.com/"
+      }
+    ]
+  },
+  {
     "domain": "nytimes.com",
     "count": 2,
     "links": [
@@ -2304,6 +2396,20 @@
       {
         "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
         "targetUrl": "https://www.nytimes.com/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html"
+      }
+    ]
+  },
+  {
+    "domain": "ohmyz.sh",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://ohmyz.sh/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://ohmyz.sh/"
       }
     ]
   },
@@ -2406,20 +2512,6 @@
     ]
   },
   {
-    "domain": "spotify.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music/",
-        "targetUrl": "https://spotify.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
-        "targetUrl": "https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd"
-      }
-    ]
-  },
-  {
     "domain": "sr.ht",
     "count": 2,
     "links": [
@@ -2500,6 +2592,34 @@
       {
         "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
         "targetUrl": "https://trakt.tv"
+      }
+    ]
+  },
+  {
+    "domain": "vim.org",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://www.vim.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://www.vim.org/"
+      }
+    ]
+  },
+  {
+    "domain": "visualstudio.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://code.visualstudio.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://code.visualstudio.com/"
       }
     ]
   },
@@ -3540,6 +3660,16 @@
     ]
   },
   {
+    "domain": "halvemaan.be",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/recently/",
+        "targetUrl": "https://www.halvemaan.be/nl"
+      }
+    ]
+  },
+  {
     "domain": "haxx.se",
     "count": 1,
     "links": [
@@ -3726,16 +3856,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/11/15/itcorp-com/",
         "targetUrl": "https://itcorp.com"
-      }
-    ]
-  },
-  {
-    "domain": "iterm2.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://iterm2.com/"
       }
     ]
   },
@@ -4256,16 +4376,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://ohhelloana.blog"
-      }
-    ]
-  },
-  {
-    "domain": "ohmyz.sh",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://ohmyz.sh/"
       }
     ]
   },
@@ -5016,26 +5126,6 @@
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian"
-      }
-    ]
-  },
-  {
-    "domain": "vim.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://www.vim.org/"
-      }
-    ]
-  },
-  {
-    "domain": "visualstudio.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://code.visualstudio.com/"
       }
     ]
   },
