@@ -624,6 +624,7 @@ main pre {
 
 #preview img {
   max-height: 100%;
+  background-color: white;
 }
 
 .fg {
