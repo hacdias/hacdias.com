@@ -8,7 +8,11 @@
 	{{- $id = strings.TrimPrefix "/" $url.Path }}
 	{{- $src = printf "https://cdn.hacdias.com/img/2000/%s.jpeg" $id }}
 {{- else }}
-	{{- $src = .Destination }}
+	{{ with .Page.Resources.GetMatch $url.Path }}
+		{{- $src = .RelPermalink -}}
+	{{ else }}
+		{{- $src = .Destination }}
+	{{ end}}
 {{- end }}
 
 {{- if .IsBlock }}
