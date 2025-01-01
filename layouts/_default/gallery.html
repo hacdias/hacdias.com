@@ -47,12 +47,12 @@
         {{ if $page.Params.photos}}
           {{ range $photo := .Params.photos }}
             <a href='{{ $page.RelPermalink }}'>
-              {{ partial "helpers/figure" (dict "Destination" $photo.url "Title" $photo.title "IsBlock" true "Sizes" (slice 250 500))}}
+              {{ partial "helpers/figure" (dict "Destination" $photo.url "Title" $photo.title "IsBlock" true "Sizes" (slice 250 500) "Page" $page)}}
             </a>
           {{ end }}
         {{ else }}
           <a href='{{ $page.RelPermalink }}'>
-            {{ partial "helpers/figure" (dict "Destination" $page.Params.coverImage "Title" $page.Title "IsBlock" true "Sizes" (slice 250 500))}}
+            {{ partial "helpers/figure" (dict "Destination" $page.Params.coverImage "Title" $page.Title "IsBlock" true "Sizes" (slice 250 500) "Page" $page)}}
           </a>
         {{ end }}
       {{ end }}
