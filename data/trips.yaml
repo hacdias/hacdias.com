@@ -409,6 +409,15 @@
   - { departure: 2024-10-22T09:17:00+02:00, arrival: 2024-10-22T11:19:00+02:00, origin: Málaga María Zambrano, destination: Sevilla-Santa Justa, type: train, operator: Renfe, number: 'AVANT 08694' }
   - { departure: 2024-10-22T19:13:00+02:00, arrival: 2024-10-22T21:12:00+02:00, origin: Sevilla-Santa Justa, destination: Málaga María Zambrano, type: train, operator: Renfe, number: 'AVANT 08195' }
   - { departure: 2024-10-26T11:25:00+02:00, arrival: 2024-10-26T14:30:00+02:00, origin: airports.agp, destination: airports.ams, type: air, operator: EasyJet, number: U27890 }
+- name: Christmas Holiday With Family
+  place: "🇵🇹 Santana da Serra"
+  start: 2024-12-23
+  date: 2024-12-27
+  latitude: 37.500635
+  longitude: -8.300669
+  itinerary:
+  - { departure: 2024-12-23T11:33:00+01:00, arrival: 2024-12-23T13:13:00+00:00, origin: airports.ein, destination: airports.fao, type: air, operator: Ryanair, number: FR5769 }
+  - { departure: 2024-12-27T13:51:00+00:00, arrival: 2024-12-27T17:51:00+01:00, origin: airports.fao, destination: airports.ein, type: air, operator: Ryanair, number: FR5768 }
 - name: Weekend Trip With Partner
   place: "🇧🇪 Brugge"
   start: 2024-12-28
