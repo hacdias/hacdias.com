@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Nosferatu
+  date: 2025-01-02
+  rating: 3
 - name: Family Switch
   date: 2024-12-26
   rating: 3
