@@ -604,13 +604,18 @@ main pre {
   top: 0;
   z-index: 9999;
   padding: 2.5rem var(--ls);
-  background: rgba(0, 0, 0, 0.9);
-  color: white;
+  background: rgba(255, 255, 255, 0.9);
+  color: black;
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: zoom-out;
+}
+
+:root.dark #preview {
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
 }
 
 #preview::after {
@@ -624,7 +629,6 @@ main pre {
 
 #preview img {
   max-height: 100%;
-  background-color: white;
 }
 
 .fg {
@@ -786,13 +790,8 @@ figure,
   color: var(--c-text);
 }
 
-.only-light,
-.dark .only-dark {
-  display: revert;
-}
-
-.only-dark,
-.dark .only-light {
+:root.dark .only-light, 
+:root:not(.dark) .only-dark {
   display: none;
 }
 
