@@ -63,9 +63,13 @@ Then, I decided it would be a great idea to see my movie watching habits in two 
 
 <div class='fg'>
 
-![](movies-weekday.svg?class=plot)
+![](movies-weekday.svg?class=only-light)
 
-![](movies-month.svg?class=plot)
+![](movies-weekday-dark.svg?class=only-dark)
+
+![](movies-month.svg?class=only-light)
+
+![](movies-month-dark.svg?class=only-dark)
 
 </div>
 
@@ -105,9 +109,13 @@ Similarly to what I did for the movies, I also plotted how many episodes I've wa
 
 <div class='fg'>
 
-![](episodes-weekday.svg?class=plot)
+![](episodes-weekday.svg?class=only-light)
 
-![](episodes-month.svg?class=plot)
+![](episodes-weekday-dark.svg?class=only-dark)
+
+![](episodes-month.svg?class=only-light)
+
+![](episodes-month-dark.svg?class=only-dark)
 
 </div>
 
