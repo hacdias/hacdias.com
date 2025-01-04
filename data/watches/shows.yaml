@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Dwars door de Lage Landen
+  season: 2
+  rating: 4
+  date: 2025-01-03
 - name: Shrinking
   season: 2
   rating: 4
