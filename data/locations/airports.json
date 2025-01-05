@@ -1,114 +1,114 @@
 {
   "agp": {
-    "country": "Spain",
+    "country": "ES",
     "latitude": 36.677191742870576,
     "longitude": -4.494690755147278,
     "name": "Málaga–Costa del Sol Airport"
   },
   "ams": {
-    "country": "Netherlands",
+    "country": "NL",
     "latitude": 52.3080556,
     "longitude": 4.7641667,
     "name": "Schiphol Airport"
   },
   "ber": {
-    "country": "Germany",
+    "country": "DE",
     "latitude": 52.3622472,
     "longitude": 13.5006722,
     "name": "Berlin Brandenburg Airport"
   },
   "bgy": {
-    "country": "Italy",
+    "country": "IT",
     "latitude": 45.6688889,
     "longitude": 9.7002778,
     "name": "Milan Bergamo Airport"
   },
   "bru": {
-    "country": "Belgium",
+    "country": "BE",
     "latitude": 50.9013889,
     "longitude": 4.4844444,
     "name": "Brussels Airport"
   },
   "crl": {
-    "country": "Belgium",
+    "country": "BE",
     "latitude": 50.46,
     "longitude": 4.4527778,
     "name": "Charleroi Airport"
   },
   "ein": {
-    "country": "Netherlands",
+    "country": "NL",
     "latitude": 51.45,
     "longitude": 5.3744444,
     "name": "Eindhoven Airport"
   },
   "fao": {
-    "country": "Portugal",
+    "country": "PT",
     "latitude": 37.0144444,
     "longitude": -7.9658333,
     "name": "Faro Airport"
   },
   "fra": {
-    "country": "Germany",
+    "country": "DE",
     "latitude": 50.0333056,
     "longitude": 8.5704556,
     "name": "Frankfurt Airport"
   },
   "gla": {
-    "country": "United Kingdom",
+    "country": "GB",
     "latitude": 55.8719444,
     "longitude": -4.4330556,
     "name": "Glasgow Airport"
   },
   "lgw": {
-    "country": "United Kingdom",
+    "country": "GB",
     "latitude": 51.1480556,
     "longitude": -0.1902778,
     "name": "Gatwick Airport"
   },
   "lhr": {
-    "country": "United Kingdom",
+    "country": "GB",
     "latitude": 51.4775,
     "longitude": -0.4613889,
     "name": "Heathrow Airport"
   },
   "lis": {
-    "country": "Portugal",
+    "country": "PT",
     "latitude": 38.7741667,
     "longitude": -9.1341667,
     "name": "Lisbon Airport"
   },
   "lux": {
-    "country": "Luxembourg",
+    "country": "LU",
     "latitude": 49.6233333,
     "longitude": 6.2044444,
     "name": "Luxembourg Airport"
   },
   "nap": {
-    "country": "Italy",
+    "country": "IT",
     "latitude": 40.8844444,
     "longitude": 14.2908333,
     "name": "Naples Airport"
   },
   "pdl": {
-    "country": "Portugal",
+    "country": "PT",
     "latitude": 37.7419444,
     "longitude": -25.6977778,
     "name": "Ponta Delgada Airport"
   },
   "prg": {
-    "country": "Czechia",
+    "country": "CZ",
     "latitude": 50.1008333,
     "longitude": 14.26,
     "name": "Prague Airport"
   },
   "sjo": {
-    "country": "Costa Rica",
+    "country": "CR",
     "latitude": 9.9939028,
     "longitude": -84.2088556,
     "name": "Juan Santamaría Airport"
   },
   "zrh": {
-    "country": "Switzerland",
+    "country": "CH",
     "latitude": 47.4580556,
     "longitude": 8.5480556,
     "name": "Zurich Airport"
