@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Triangle of Sadness
+  date: 2025-01-04
+  rating: 3
 - name: Nosferatu
   date: 2025-01-02
   rating: 3
