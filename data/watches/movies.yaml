@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Young Hearts
+  date: 2025-01-05
+  rating: 4
 - name: Triangle of Sadness
   date: 2025-01-04
   rating: 3
