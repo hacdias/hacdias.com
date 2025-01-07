@@ -1,12 +1,15 @@
 # - name:
 #   date:
 #   rating:
+- name: Fairlane
+  date: 2025-01-06
+  rating: 4
 - name: Young Hearts
   date: 2025-01-05
   rating: 4
 - name: Triangle of Sadness
   date: 2025-01-04
-  rating: 3
+  rating: 2
 - name: Nosferatu
   date: 2025-01-02
   rating: 3
