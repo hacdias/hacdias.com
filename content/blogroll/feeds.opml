@@ -2,11 +2,10 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Thu, 12 Dec 2024 04:00:05 UTC</dateCreated>
+        <dateCreated>Fri, 10 Jan 2025 04:00:04 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
-            <outline title="Robb Knight" text="Robb Knight" xmlUrl="https://rknight.me/subscribe/posts/atom.xml" htmlUrl="https://rknight.me/subscribe/posts/atom.xml" type="rss"></outline>
             <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.xml" htmlUrl="https://aaronparecki.com/" type="rss"></outline>
             <outline title="Alistair Shepherd" text="Alistair Shepherd" xmlUrl="https://alistairshepherd.uk/feed.xml" htmlUrl="https://www.alistairshepherd.uk/" type="rss"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog" type="rss"></outline>
@@ -64,7 +63,7 @@
             <outline title="Pesky&#39;s Blog" text="Pesky&#39;s Blog" xmlUrl="https://blog.pesky.moe/index.xml" htmlUrl="https://blog.pesky.moe/" type="rss"></outline>
             <outline title="Phil Eaton" text="Phil Eaton" xmlUrl="https://notes.eatonphil.com/rss.xml" htmlUrl="http://notes.eatonphil.com/" type="rss"></outline>
             <outline title="Rakhim Davletkaliyev" text="Rakhim Davletkaliyev" xmlUrl="https://rakhim.org/index.xml" htmlUrl="https://rakhim.org/" type="rss"></outline>
-            <outline title="Riccardo" text="Riccardo" xmlUrl="https://tilde.team/~zinricky/atom.xml" htmlUrl="https://tilde.team/~zinricky" type="rss"></outline>
+            <outline title="Robb Knight" text="Robb Knight" xmlUrl="https://rknight.me/subscribe/posts/atom.xml" htmlUrl="https://rknight.me/subscribe/posts/atom.xml" type="rss"></outline>
             <outline title="Robin Berjon" text="Robin Berjon" xmlUrl="https://berjon.com/feed.atom" htmlUrl="https://berjon.com/" type="rss"></outline>
             <outline title="Rohan Kumar" text="Rohan Kumar" xmlUrl="https://seirdy.one/atom.xml" htmlUrl="https://seirdy.one" type="rss"></outline>
             <outline title="Ru Singh" text="Ru Singh" xmlUrl="https://rusingh.com/feed/" htmlUrl="https://rusingh.com/" type="rss"></outline>
