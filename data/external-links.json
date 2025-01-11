@@ -2568,20 +2568,6 @@
     ]
   },
   {
-    "domain": "tilde.team",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
-        "targetUrl": "https://tilde.team/~zinricky/multilingualism/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://tilde.team/~zinricky"
-      }
-    ]
-  },
-  {
     "domain": "trakt.tv",
     "count": 2,
     "links": [
@@ -5006,6 +4992,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/08/14/guardar-os-erros-php-num-ficheiro-com-o-htaccess/",
         "targetUrl": "http://support.tigertech.net/php-value"
+      }
+    ]
+  },
+  {
+    "domain": "tilde.team",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://tilde.team/~zinricky/multilingualism/"
       }
     ]
   },
