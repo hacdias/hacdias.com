@@ -1,6 +1,9 @@
 # - name:
 #   date:
 #   rating:
+- name: Anora
+  date: 2025-01-11
+  rating: 4
 - name: We Live in Time
   date: 2025-01-10
   rating: 5
