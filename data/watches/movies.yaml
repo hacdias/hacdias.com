@@ -1,24 +1,44 @@
 # - name:
 #   date:
 #   rating:
+#   location:
+#   room:
+#   row:
+#   seat:
 - name: Anora
-  date: 2025-01-11
+  date: 2025-01-11T15:40:00+01:00
   rating: 4
+  location: Lab-1
+  room: 5
+  row: 5
+  seat: 7
 - name: We Live in Time
-  date: 2025-01-10
+  date: 2025-01-10T20:30:00+01:00
   rating: 5
+  location: Natlab
+  room: Auditorium
+  row: G
+  seat: 5
 - name: Fairlane
   date: 2025-01-06
   rating: 4
 - name: Young Hearts
-  date: 2025-01-05
+  date: 2025-01-05T15:30:00+01:00
   rating: 4
+  location: Natlab
+  room: 3
+  row: B
+  seat: 3
 - name: Triangle of Sadness
   date: 2025-01-04
   rating: 2
 - name: Nosferatu
-  date: 2025-01-02
+  date: 2025-01-02T20:30:00+01:00   
   rating: 3
+  location: Natlab
+  room: 4
+  row: D
+  seat: 6
 - name: Family Switch
   date: 2024-12-26
   rating: 3
@@ -26,29 +46,54 @@
   date: 2024-12-25
   rating: 3
 - name: Moana 2
-  date: 2024-12-22
+  date: 2024-12-22T12:15:00+01:00
   rating: 4
+  location: Lab-1
+  room: 2
+  row: 3
+  seat: 6
 - name: Flow
-  date: 2024-12-21
+  date: 2024-12-21T14:30:00+01:00
   rating: 4
+  location: Lab-1
+  room: 2
+  row: 3
+  seat: 4
 - name: Wicked
   date: 2024-12-14
   rating: 4
 - name: Heretic
-  date: 2024-12-12
+  date: 2024-12-12T19:00:00+01:00
   rating: 4
+  location: Lab-1
+  room: 5
+  row: 8
+  seat: 5
 - name: Conclave
-  date: 2024-12-08
+  date: 2024-12-08T11:30:00+01:00
   rating: 4
+  location: Natlab
+  room: 4
+  row: E
+  seat: 3
 - name: Here
-  date: 2024-11-29
+  date: 2024-11-29T20:40:00+01:00
   rating: 4
+  location: Natlab
+  room: 2
+  row: G
+  seat: 4
 - name: 'Juror #2'
   rating: 5
-  date: 2024-11-20
+  date: 2024-11-20T18:30:00+01:00
+  location: Natlab
+  room: 3
+  row: D
+  seat: 8
 - name: The Wild Robot
   rating: 5
-  date: 2024-10-28
+  date: 2024-10-28T19:00:00+01:00
+  location: Lab-1
 - name: 'Glass Onion: A Knives Out Mystery'
   rating: 4
   date: 2024-10-20
@@ -57,16 +102,25 @@
   date: 2024-10-14
 - name: 'Joker: Folie à Deux'
   rating: 3
-  date: 2024-10-13
+  date: 2024-10-13T16:00:00+02:00
+  location: Natlab
+  room: 1
+  row: F
+  seat: 4
 - name: Joker
   rating: 3
   date: 2024-10-08
 - name: Strange Darling
   rating: 4
-  date: 2024-10-05
+  date: 2024-10-05T21:00:00+02:00
+  location: Natlab
 - name: The Substance
   rating: 4
-  date: 2024-09-28
+  date: 2024-09-28T20:20:00+02:00
+  location: Natlab
+  room: Podiumzaal
+  row: J
+  seat: 7
 - name: Beetlejuice
   rating: 4
   date: 2024-09-22
@@ -75,34 +129,63 @@
   date: 2024-09-17
 - name: Beetlejuice Beetlejuice
   rating: 4
-  date: 2024-09-14
+  date: 2024-09-14T20:40:00+02:00
+  location: Natlab
+  room: 3
+  row: D
+  seat: 3
 - name: The Darkest Minds
   rating: 3
   date: 2024-09-08
 - name: Blink Twice
   rating: 4
-  date: 2024-09-03
+  date: 2024-09-03T18:45:00+02:00
+  location: Lab-1
+  room: 1
+  row: 2
+  seat: 16
 - name: MaXXXine
   rating: 4
-  date: 2024-08-25
+  date: 2024-08-25T18:20:00+02:00
+  location: Lab-1
+  room: 2
+  row: 4
+  seat: 4
 - name: Kinds of Kindness
   rating: 4
-  date: 2024-08-17
+  date: 2024-08-17T20:15:00+02:00
+  location: Natlab
+  room: 3
+  row: D
+  seat: 1
 - name: Love Lies Bleeding
   rating: 3
-  date: 2024-08-08
+  date: 2024-08-08T21:30:00+02:00
+  location: Outside
 - name: 'Deadpool & Wolverine'
   rating: 5
-  date: 2024-08-04
+  date: 2024-08-04T14:10:00+02:00
+  location: Lab-1
+  room: 3
+  row: 8
+  seat: 5
 - name: Inside Out 2
   rating: 5
-  date: 2024-07-12
+  date: 2024-07-12T19:20:00+02:00
+  location: Lab-1
+  room: 2
+  row: 1
+  seat: 6
 - name: Inside Out
   rating: 4
   date: 2024-06-29
 - name: Civil War
   rating: 4
-  date: 2024-05-24
+  date: 2024-05-24T16:50:00+02:00
+  location: Natlab
+  room: 1
+  row: D
+  seat: 7
 - name: Mother of the Bride
   rating: 3
   date: 2024-05-20
@@ -123,10 +206,18 @@
   date: 2024-04-20
 - name: Kung Fu Panda 4
   rating: 4
-  date: 2024-04-14
+  date: 2024-04-14T10:00:00+02:00
+  location: Lab-1
+  room: 4
+  row: 6
+  seat: 4
 - name: La Chimera
   rating: 4
-  date: 2024-04-08
+  date: 2024-04-08T20:20:00+02:00
+  location: Natlab
+  room: 4
+  row: D
+  seat: 9
 - name: Kung Fu Panda 3
   rating: 4
   date: 2024-04-06
@@ -138,31 +229,47 @@
   date: 2024-03-29
 - name: Humanist Vampire Seeking Consenting Suicidal Person
   rating: 4
-  date: 2024-03-29
+  date: 2024-03-29T11:30:00+02:00
+  location: Lab-1
 - name: Dream Scenario
   rating: 3
-  date: 2024-03-22
+  date: 2024-03-22T20:00:00+01:00
+  location: Natlab
 - name: Robot Dreams
-  date: 2024-03-10
+  date: 2024-03-10T10:00:00+01:00
   rating: 4
+  location: Lab-1
+  room: 4
+  row: 9
+  seat: 5
 - name: "Dune: Part Two"
-  date: 2024-03-03
+  date: 2024-03-03T19:30:00+01:00
   rating: 5
+  location: LUX
 - name: Spirited Away
   rating: 4
   date: 2024-03-01
 - name: The Zone of Interest
   rating: 3
-  date: 2024-02-28
+  date: 2024-02-28T19:00:00+01:00
+  location: Natlab
 - name: "Dune: Part One"
   date: 2024-02-17
   rating: 4
 - name: The Boy and the Heron
-  date: 2024-02-16
+  date: 2024-02-16T16:40:00+01:00
   rating: 4
+  location: Lab-1
+  room: 3
+  row: 6
+  seat: 3
 - name: Poor Things
-  date: 2024-02-14
+  date: 2024-02-14T20:00:00+01:00
   rating: 4
+  location: Natlab
+  room: Auditorium
+  row: H
+  seat: 3
 - name: All of Us Strangers
   date: 2024-02-05
   rating: 4
