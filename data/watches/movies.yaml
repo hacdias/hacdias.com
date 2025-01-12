@@ -282,12 +282,20 @@
 - name: Wonka
   date: 2024-01-13
   rating: 4
+  location: Pathé Eindhoven
+  room: 6
+  row: 4
+  seat: 8
 - name: Aquaman
   date: 2024-01-11
   rating: 3
 - name: Mean Girls
   date: 2024-01-05
   rating: 3
+  location: Pathé Eindhoven
+  room: 5
+  row: 5
+  seat: 5
 - name: Happy Ending
   date: 2023-12-29
   rating: 3
@@ -300,6 +308,10 @@
 - name: 'The Hunger Games: The Ballad of Songbirds & Snakes'
   date: 2023-11-18
   rating: 4
+  location: Pathé Eindhoven
+  room: 8
+  row: 6
+  seat: 12
 - name: Paradise
   date: 2023-11-10
   rating: 3
@@ -321,6 +333,10 @@
 - name: Oppenheimer
   date: 2023-08-20
   rating: 4
+  location: Vue Eindhoven
+  room: 6
+  row: 9
+  seat: 9
 - name: 'Red, White & Royal Blue'
   date: 2023-08-13
   rating: 4
@@ -330,6 +346,10 @@
 - name: Barbie
   date: 2023-07-20
   rating: 5
+  location: Vue Eindhoven
+  room: 7
+  row: 8
+  seat: 4
 - name: Growing Up Gay
   date: 2023-07-19
   rating: 4
@@ -345,6 +365,10 @@
 - name: The Little Mermaid
   date: 2023-07-02
   rating: 4
+  location: Pathé Eindhoven
+  room: 6
+  row: 4
+  seat: 7
 - name: Eternals
   date: 2023-07-02
   rating: 5
@@ -381,6 +405,10 @@
 - name: 'Avatar: The Way of Water'
   date: 2022-12-20
   rating: 5
+  location: Pathé Eindhoven
+  room: 1
+  row: 3
+  seat: 14
 - name: Slumberland
   date: 2022-12-16
   rating: 4
@@ -410,6 +438,10 @@
   date: 2022-08-13T19:25:17Z
 - name: 'Thor: Love and Thunder'
   date: 2022-08-10T12:06:14Z
+  location: Vue Eindhoven
+  room: 6
+  row: 9
+  seat: 11
 - name: Purple Hearts
   date: 2022-07-30T14:55:25Z
 - name: Tall Girl 2
@@ -426,18 +458,34 @@
 - name: 'Downton Abbey: A New Era'
   date: 2022-05-07T13:54:26Z
   rating: 4
+  location: Vue Eindhoven
+  room: 1
+  row: 3
+  seat: 8
 - name: Doctor Strange in the Multiverse of Madness
   date: 2022-05-05T11:09:31Z
+  location: Vue Eindhoven
+  room: 6
+  row: 4
+  seat: 12
 - name: 'Escape Room: Tournament of Champions'
   date: 2022-05-03T17:32:35Z
 - name: 'Fantastic Beasts: The Secrets of Dumbledore'
   date: 2022-04-08T19:59:44Z
+  location: Vue Eindhoven
+  room: 3
+  row: 6
+  seat: 9
 - name: The Adam Project
   date: 2022-04-02T21:32:20Z
 - name: Turning Red
   date: 2022-03-11T20:35:09Z
 - name: 'Spider-Man: No Way Home'
   date: 2022-03-05T17:44:05Z
+  location: Pathé Eindhoven
+  room: 6
+  row: 6
+  seat: 10
 - name: Bem Bom
   date: 2022-03-05T12:46:24Z
 - name: Compartment No. 6
@@ -446,6 +494,10 @@
   date: 2022-02-18T20:26:01Z
 - name: The Matrix Resurrections
   date: 2022-02-12T11:29:20Z
+  location: Pathé Eindhoven
+  room: 1
+  row: 11
+  seat: 7
 - name: Brazen
   date: 2022-01-23T16:06:02Z
 - name: 'Ice Age: Continental Drift'
@@ -744,6 +796,7 @@
   date: 2019-02-13T00:00:00Z
 - name: Green Book
   date: 2019-02-11T17:52:24Z
+  location: Vue Cambridge
 - name: Boy Erased
   rating: 5
   date: 2019-01-26T22:10:17Z
