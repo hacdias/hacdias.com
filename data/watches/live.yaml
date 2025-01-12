@@ -2,102 +2,129 @@
 #   author:
 #   rating:
 #   date:
+#   location:
 - name: S10
   rating: 4
   date: 2024-12-22
+  location: Muziekgebouw Eindhoven
 - name: Eefje de Visser
   rating: 4
   date: 2024-11-15
+  location: TivoliVredenburg
 - name: MEROL
   rating: 4
   date: 2024-11-01
+  location: TivoliVredenburg
 - name: "Double Dutch: Live on Tour"
   rating: 4
   author: Derek Mitchell
   date: 2024-10-12
+  location: Muziekgebouw Eindhoven
 - name: Dead Inside
   author: Bianca Del Rio
   rating: 5
   date: 2024-10-04
+  location: Royal Theatre Carré
 - name: Moulin Rouge! De Musical
   rating: 5
   author: Beatrix Theater
   date: 2024-09-22
+  location: Beatrix Theater
 - name: Mozart, Beethoven, Haydn and Schubert
   rating: 4
   author: Æon Quartet
   date: 2024-02-22
+  location: St. Annes's Church
 - name: Work in Progress
   rating: 4
   author: Derek Mitchell
   date: 2024-02-09
+  location: Pand P
 - name: COCK
   rating: 4
   author: Theater Oostpool
   date: 2024-01-31
+  location: Chassé Theater
 - name: Chappell Roan
   rating: 4
   date: 2023-12-05
+  location: Melkweg
 - name: "Candlelight: The Best of Einaudi"
   author: Michelle Lynne
   rating: 4
   date: 2023-08-27
+  location: Muziekgebouw Eindhoven
 - name: Bianca Del Rio is Back!
   author: Bianca Del Rio
   rating: 5
   date: 2023-08-03
+  location: Theater Amsterdam
 - name: Foundscape Orchestra
   rating: 3
   date: 2023-07-23
+  location: Koelhuis
 - name: SZA
   rating: 3
   date: 2023-06-04
+  location: Ziggo Dome
 - name: RAYE (Pre-show)
   rating: 5
   date: 2023-06-04
+  location: Ziggo Dome
 - name: Pieter de Graaf
   rating: 4
   date: 2023-05-28
+  location: TivoliVredenburg
 - name: Standup Comedy
-  author: Holy Moly Club
   rating: 5
   date: 2023-03-14
+  location: Holy Moly Club
 - name: Caroline Polachek
   rating: 4
   date: 2023-02-24T22:30:00+01:00
+  location: Paradiso
 - name: Hold the Girl Tour
   author: Rina Sawayama
   rating: 5
   date: 2023-02-21T22:45:00+01:00
+  location: TivoliVredenburg
 - name: Trixie & Katya Live
   author:
   rating: 4
   date: 2022-11-16T22:40:00+01:00
+  location: AFAS Live
 - name: Dirt Femme Tour
   author: Tove Lo
   rating: 5
   date: 2022-11-13T22:30:59+01:00
+  location: Melkweg
 - name: Unsanitized
   author: Bianca Del Rio
   rating: 5
   date: 2022-08-04T23:00:07.04259847+02:00
+  location: Theater Amsterdam
 - name: The Chromatica Ball
   author: Lady Gaga
   rating: 5
   date: 2022-07-26T23:33:07.04259847+02:00
+  location: Gelredome
 - name: The Solar Power Tour
   author: Lorde
   rating: 5
   date: 2022-06-08T22:51:07.04259847+02:00
+  location: AFAS Live
 - name: MØ
   author:
   rating: 4
   date: 2022-05-22T20:00:07.04259847+02:00
+  location: Melkweg
 - name: Ancient Dreams in a Modern Land Tour
   author: MARINA
   rating: 5
   date: 2022-05-14T23:01:53.453564083+02:00
+  location: La Madeleine
 - name: Mary Poppins
   author:
   rating: 5
   date: 2022-04-22T23:21:24+01:00
+  location: Prince Edward Theatre
