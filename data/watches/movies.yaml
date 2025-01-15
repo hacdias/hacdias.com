@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Babygirl
+  date: 2025-01-14T20:30:00+01:00
+  rating: 4
+  location: Natlab
+  room: Auditorium
+  row: G
+  seat: 6
 - name: Anora
   date: 2025-01-11T15:40:00+01:00
   rating: 4
