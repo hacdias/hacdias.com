@@ -440,6 +440,11 @@
       "feed": "https://go.dev/blog/feed.atom"
     },
     {
+      "title": "This Week in the IndieWeb",
+      "site": "https://indieweb.org/this-week",
+      "feed": "https://indieweb.org/this-week/feed.xml"
+    },
+    {
       "title": "zdimension",
       "site": "https://zdimension.fr/",
       "feed": "https://zdimension.fr/feed.xml"
