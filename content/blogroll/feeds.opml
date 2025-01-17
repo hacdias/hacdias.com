@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Fri, 10 Jan 2025 04:00:04 UTC</dateCreated>
+        <dateCreated>Fri, 17 Jan 2025 04:00:00 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -97,6 +97,7 @@
             <outline title="Jon Worth" text="Jon Worth" xmlUrl="https://jonworth.eu/feed/" htmlUrl="https://jonworth.eu/" type="rss"></outline>
             <outline title="Mastodon" text="Mastodon" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/" type="rss"></outline>
             <outline title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom" type="rss"></outline>
+            <outline title="This Week in the IndieWeb" text="This Week in the IndieWeb" xmlUrl="https://indieweb.org/this-week/feed.xml" htmlUrl="https://indieweb.org/this-week" type="rss"></outline>
             <outline title="zdimension" text="zdimension" xmlUrl="https://zdimension.fr/feed.xml" htmlUrl="https://zdimension.fr/" type="rss"></outline>
         </outline>
         <outline text="Self">
