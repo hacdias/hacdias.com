@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Silo
+  season: 2
+  rating: 5
+  date: 2025-01-17
 - name: Bad Sisters
   season: 1
   rating: 4
