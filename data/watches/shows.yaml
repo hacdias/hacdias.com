@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: "XO, Kitty"
+  season: 2
+  date: 2025-01-21
+  rating: 3
 - name: Bad Sisters
   season: 2
   rating: 4
