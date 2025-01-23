@@ -5,6 +5,16 @@
 #   room:
 #   row:
 #   seat:
+- name: Cunk on Life
+  date: 2025-01-22T22:25:00+01:00
+  rating: 4
+- name: Mr. K
+  date: 2025-01-22T20:16:00+01:00
+  rating: 3
+  location: Natlab
+  room: Podiumzaal
+  row: I
+  seat: 7
 - name: Babygirl
   date: 2025-01-14T20:30:00+01:00
   rating: 4
