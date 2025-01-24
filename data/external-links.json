@@ -3020,6 +3020,16 @@
     ]
   },
   {
+    "domain": "c25k.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/01/23/running/",
+        "targetUrl": "https://c25k.com/c25k_plan/"
+      }
+    ]
+  },
+  {
     "domain": "cablemod.com",
     "count": 1,
     "links": [
