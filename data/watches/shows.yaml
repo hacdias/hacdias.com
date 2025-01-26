@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Ted Lasso
+  season: 1
+  rating: 4
+  date: 2025-01-25
 - name: The Sex Lives of College Girls
   season: 3
   rating: 3
