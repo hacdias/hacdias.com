@@ -24,7 +24,7 @@ noIndex: true
 
 </div>
 
-I am a Software Engineer who cares about the web, user agency, identity, decentralization, and building impactful products and tools for both users and developers. In the past years, I worked on decentralized, peer-to-peer, content-addressed networks. More recently, I have been working on enabling developers integrate decentralized identity wallets into their platforms. I am an eager learner and always up for new challenges.
+Software Engineer passionate about the web, user agency, identity, decentralization, and building impactful products and tools for both users and developers. I have experience in peer-to-peer and content-addressed networks, and now focus on enabling developers integrate decentralized identity wallets into their platforms. Always eager to learn and tackle new challenges.
 
 ## 💼 Experience {#experience}
 
@@ -77,7 +77,6 @@ I am a Software Engineer who cares about the web, user agency, identity, decentr
 - Built a REST API for managing e-mail transactions, newsletters and program enrollments, in Go.
 - Created a Slack integration for managing program enrollments directly from a Slack channel, in Go.
 - Built a web application for managing newsletter and program enrollments in React.
-<!-- - **In the news**: [Eco](https://eco.sapo.pt/2017/03/21/upframe-ou-o-programa-de-pre-aceleracao-que-a-startup-lisboa-fez-seu/), [Startup Lisboa](https://www.startuplisboa.com/startuplisboanews/upframe-o-novo-programa-de-pr-acelerao-powered-by-startup-lisboa), [Observador](https://observador.pt/2017/03/20/upframe-startup-lisboa-lanca-programa-para-estudantes-e-recem-licenciados/) & [Dinheiro Vivo](https://www.dinheirovivo.pt/fazedores/upframe-startup-lisboa-ajuda-os-fazedores-a-dar-os-primeiros-passos/). -->
 
 {{</ resume-position >}}
 
@@ -90,7 +89,6 @@ I am a Software Engineer who cares about the web, user agency, identity, decentr
 
 - Thesis on [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](/2022/09/07/thesis-blocklearning-framework/).
 - Paper on [BlockLearning: A Modular Framework for Blockchain-based Federated Learning](/2023/02/16/paper-blocklearning-framework/).
-- Member of the Website and PR Committees of Film & Photography Association [Dekate Mousa](https://dekatemousa.nl/).
 
 {{</ resume-position >}}
 
@@ -100,7 +98,6 @@ I am a Software Engineer who cares about the web, user agency, identity, decentr
   from="2017" to="2020" grade="16 out of 20" >}}
 
 - Awarded an Academic Merit Award in 2 years.
-- Volunteered as Student Mentor for 2 years.
 
 {{</ resume-position >}}
 
@@ -131,7 +128,26 @@ I am a Software Engineer who cares about the web, user agency, identity, decentr
   location="HackYourFuture" href="https://www.hackyourfuture.net"
   from="07/2024" to="present" >}}
 
-- Helping train people with a refugee background to become web developers.
+- Helping train people with limited access to education to become web developers, by reviewing assignments and answering questions in the topics of JavaScript, Browsers, Node.js, APIs and Databases.
+
+{{</ resume-position >}}
+
+{{< resume-position
+  title="Committee Member"
+  location="Film & Photography Association Dekate Mousa" href="https://dekatemousa.nl/"
+  from="09/2021" to="09/2022" >}}
+
+- Designed and produced sticker and Instagram publicity campaigns, as part of the PR committee.
+- Maintained the WordPress-based website, as part of the Website Committee.
+
+{{</ resume-position >}}
+
+{{< resume-position
+  title="Student Mentor"
+  location="Instituto Superior Técnico" href="https://tecnico.ulisboa.pt/"
+  from="09/2018" to="06/2020" >}}
+
+- Mentored groups of new students two years in a row, during their first weeks at the university.
 
 {{</ resume-position >}}
 
