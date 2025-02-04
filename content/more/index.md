@@ -13,7 +13,6 @@ This website contains more things than it looks at first glance. This page conta
 - [🚀 Impossible List](/impossible-list/)
 - [📚 Readings](/readings/)
 - [🎓 Resume](/resume/)
-- [📦 Shoebox](/shoebox/)
 - [🚆 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
@@ -27,6 +26,20 @@ This website provides Atom and JSON feeds for the home page, which combines arti
 - **Articles**: [Atom](/articles/feed.xml), [JSON](/articles/feed.json).
 - **Photos**: [Atom](/photos/feed.xml), [JSON](/photos/feed.json).
 - **Readings**: [Atom](/readings/feed.xml), [JSON](/readings/feed.json).
+
+## 📦 Shoebox {#shoebox}
+
+This section is a sort of digital shoebox, similar to [this one](https://gilest.org/shoebox.html). This is a place for some things that exist on this website, and yet, they don't have a correct place to be, a home. They're mostly old experiments from small things I did, or small things I wanted to share and keep available.
+
+- [🔵 Blue Screen of Death](/minisites/bsod/)
+- [✉️ Carta de Uma Mãe Alentejana](/minisites/carta-mae-alentejana/)
+- [🦙 DeviantArt Archive](/minisites/deviantart/)
+- [📡 Glitch](/minisites/glitch/)
+- [🌈 Pixel-color-mania](/minisites/pixelcolormania/)
+- [🌩️ Thunderstorm](/minisites/thunderstorm/)
+- [📺 TV Noise](/minisites/tv-noise/)
+- [🚦 Uma História de Trânsito](/minisites/historia-transito/)
+{.terms #more-list}
 
 <audio id="music" loop>
   <source src="https://cdn.hacdias.com/media/nyan-cat.mp3" type="audio/mpeg">
