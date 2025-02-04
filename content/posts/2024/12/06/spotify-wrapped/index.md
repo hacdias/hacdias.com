@@ -2,9 +2,9 @@
 title: Spotify Wrapped '24
 date: 2024-12-06T15:56:15+01:00
 categories:
-- articles
+  - articles
 tags:
-- spotify wrapped
+  - spotify wrapped
 ---
 
 It's that time of the year again, and Spotify Wrapped is back. Just like I did [last year](/2023/11/30/spotify-wrapped/), and the [year before](/2023/01/02/year-in-music/#spotify-wrapped), I decided to share the "results" from one year of listening to music here. As usual, I will do a better analysis at the beginning of next year with all the data from Last.fm.

@@ -1,11 +1,11 @@
 ---
-title: "Year in Review '24"
+title: Year in Review '24
 date: 2024-12-31T14:27:51+01:00
 categories:
-- articles
+  - articles
 tags:
-- now
-- year in review
+  - now
+  - year in review
 ---
 
 December is coming to an end, and with it so is 2024. It was a year full of change, challenges and adventures. I managed to tick off quite a few items from my impossible list, achieve fluency in Dutch, and start a new job. All of this things, combined, made it a positively challenging year.

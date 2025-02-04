@@ -1,10 +1,10 @@
 ---
-title: "Recently in December '24"
+title: Recently in December '24
 date: 2024-12-31T12:30:00+01:00
 categories:
-- articles
+  - articles
 tags:
-- now
+  - now
 ---
 
 December is now coming to an end. It's time to recap about what has happened during this last month, before writing my final Year in Review. This month was quite of a rollercoaster, I visited a few places, met with people a few times and watched a lot of stuff.
