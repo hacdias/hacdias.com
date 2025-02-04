@@ -1,5 +1,4 @@
-{{- $hasPhotos := intersect .Params.categories (slice "photos" "graphics") -}}
-{{- if or .Content .Params.rating $hasPhotos }}
+{{- if or .Content .Params.rating .Params.photos }}
   <div class='e-content'{{ with .Params.language }} lang='{{ . }}'{{ end }}>
     {{- with .Params.rating -}}
       <p>
@@ -26,28 +25,29 @@
         {{ end }}
       </ul>
     {{- end }}
-    {{- if $hasPhotos }}
-      {{ if .Params.photos }}
-        {{ $slug := strings.TrimSuffix "/" .RelPermalink }}
-        {{ $slug = strings.TrimPrefix "/" $slug }}
-        {{ $slug = strings.Replace $slug "/" "-" }}
+    {{- if .Params.photos }}
+      {{ $slug := strings.TrimSuffix "/" .RelPermalink }}
+      {{ $slug = strings.TrimPrefix "/" $slug }}
+      {{ $slug = strings.Replace $slug "/" "-" }}
 
+      {{ if gt (len .Params.photos) 1 }}
         <div class='fw fg fg-{{ $slug }}'>
-          {{ range .Params.photos }}
-            {{ partial "helpers/figure" (dict
-              "Destination" .url
-              "Title" .title
-              "IsBlock" true
-              "Page" $.Page
-            )}}
-          {{ end }}
+        {{ range .Params.photos }}
+          {{ partial "helpers/figure" (dict
+            "Destination" .url
+            "Title" .title
+            "IsBlock" true
+            "Page" $.Page
+          )}}
+        {{ end }}
         </div>
       {{ else }}
+        {{ $photo := index .Params.photos 0 }}
         {{ partial "helpers/figure" (dict
-          "Destination" .Params.coverImage
-          "Title" .Title
-          "IsBlock" true
+          "Destination" $photo.url
+          "Title" $photo.title
           "Class" "fw"
+          "IsBlock" true
           "Page" $.Page
         )}}
       {{ end }}
