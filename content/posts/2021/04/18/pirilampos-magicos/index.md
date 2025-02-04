@@ -5,6 +5,8 @@ lastmod: 2021-09-20T05:52:12.214578732Z
 categories:
   - graphics
 coverImage: https://cdn.hacdias.com/media/2019-04-pirilampos.gif
+photos:
+  - url: https://cdn.hacdias.com/media/2019-04-pirilampos.gif
 tags:
   - art
   - creative
