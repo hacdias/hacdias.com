@@ -5,6 +5,8 @@ lastmod: 2021-09-20T05:52:02.569325459Z
 categories:
   - graphics
 coverImage: https://cdn.hacdias.com/media/2020-04-pixel-house.gif
+photos:
+  - url: https://cdn.hacdias.com/media/2020-04-pixel-house.gif
 syndication:
   - https://twitter.com/hacdias/status/1247801115342540800
 tags:
