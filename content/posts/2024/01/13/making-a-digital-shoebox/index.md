@@ -1,6 +1,7 @@
 ---
 title: Making a Digital Shoebox
 date: 2024-01-13T10:37:33.757868696+01:00
+lastmod: 2025-02-04T19:48:32+01:00
 categories:
   - articles
 syndication:
@@ -11,7 +12,7 @@ tags:
   - personal website
 ---
 
-A few days ago, I was navigating the web as normal. After some clicks here and there, I found myself on [this page](https://gilest.org/shoebox.html). I looked around and realised: it is a digital shoebox. I resonated with the author: I too keep around (shoe)boxes with the most random things. So I decided to also create my [own digital shoebox](/shoebox/).
+A few days ago, I was navigating the web as normal. After some clicks here and there, I found myself on [this page](https://gilest.org/shoebox.html). I looked around and realized: it is a digital shoebox. I resonated with the author: I too keep around (shoe)boxes with the most random things. So I decided to also create my own digital shoebox.
 
 <!--more-->
 
@@ -27,4 +28,4 @@ When you open it - if you open it - you might recognise some links. Some of the 
 
 Maybe some of the posts I made yesterday could've actually gone into the [articles](/articles/) page. However, I did not really want to spam my few readers with way too many posts at once. Adding them to the articles page, if I ever want, is trivial. The other things, however, have really no clear place to go.
 
-Please check [it out](/shoebox/) and let me know what you think!
+~~Please check it out and let me know what you think!~~
