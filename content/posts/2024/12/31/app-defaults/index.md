@@ -2,9 +2,9 @@
 title: App Defaults in Late '24
 date: 2024-12-31T10:00:00+01:00
 categories:
-- articles
+  - articles
 tags:
-- app defaults
+  - app defaults
 ---
 
 Just like last year, a lot of "[App Defaults](https://defaults.rknight.me/)" posts have started popping up in my RSS feed. So, I decided to join with an updated list, featuring more categories than [last year](/2023/11/08/app-defaults/):

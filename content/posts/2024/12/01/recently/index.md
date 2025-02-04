@@ -1,10 +1,10 @@
 ---
-title: "Recently in November '24"
+title: Recently in November '24
 date: 2024-12-01T16:10:42+01:00
 categories:
-- articles
+  - articles
 tags:
-- now
+  - now
 ---
 
 The eleventh month of the year is now gone, and it's almost time for Sinterklaas and then Christmas. November had more events than I was actually planning for, but it all ended up going well. Let's recap!

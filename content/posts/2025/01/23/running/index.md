@@ -2,10 +2,10 @@
 title: Running
 date: 2025-01-23T16:34:51+01:00
 categories:
-- articles
+  - articles
 tags:
-- running
-- sports
+  - running
+  - sports
 ---
 
 A few months ago, I [hinted](/2024/09/02/recently/) at the fact that I wanted to try out going for a run. And even though I didn't share more about it, I did it. Back in September, I decided to try going for an interval running session. However, I had absolutely no running equipment at the time, so I just put on some gym clothes and my sneakers, and went.

@@ -2,10 +2,10 @@
 title: Accent Guesser
 date: 2024-12-20T14:17:36+01:00
 categories:
-- articles
+  - articles
 tags:
-- artificial intelligence
-- machine learning
+  - artificial intelligence
+  - machine learning
 ---
 
 A friend of mine just sent the link to this AI-powered [accent guesser](https://start.boldvoice.com/accent-guesser) from Bold Voice. After trying it out for a few times, it guessed me as either Romanian or Bulgarian, but always with a low confidence. However, a few friends of mine from certain countries got more than 95% confidence on their country, even when trying to fake an accent from somewhere else.

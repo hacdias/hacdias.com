@@ -3,11 +3,11 @@ title: Ikigai
 date: 2024-10-21T15:33:28+02:00
 categories:
   - readings
+rating: 4
 read:
   author: Héctor Garcia
   publisher: Publisher
   uid: isbn:9781786330895
-rating: 4
 tags:
   - cultures
   - personal growth

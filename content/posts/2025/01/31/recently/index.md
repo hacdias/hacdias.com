@@ -1,10 +1,10 @@
 ---
-title: "Recently in January '25"
+title: Recently in January '25
 date: 2025-01-31T17:23:01+01:00
 categories:
-- articles
+  - articles
 tags:
-- now
+  - now
 ---
 
 January is coming to an end, meaning that around 8% of 2025 has already passed. It felt like a slower month, definitely slower than the previous months in the sense that there was nothing *big* happening. However, the things that happened, I'm very glad with.

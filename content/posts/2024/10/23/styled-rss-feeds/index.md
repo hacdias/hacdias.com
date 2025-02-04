@@ -2,11 +2,11 @@
 title: Styling My RSS Feeds
 date: 2024-10-23T16:53:51+02:00
 categories:
-- articles
+  - articles
 tags:
-- rss
-- personal website
-- meta
+  - rss
+  - personal website
+  - meta
 ---
 
 Styling my RSS feeds is something that has been on my infinitely long list of things to do on this website. Sometimes I removed it, sometimes I added it back. However, I recently came across Darek Kay's [blog post](https://darekkay.com/blog/rss-styling/) and decided that it was time to finally style both my RSS feeds, and my sitemap.
