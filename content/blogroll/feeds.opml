@@ -2,10 +2,11 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Fri, 17 Jan 2025 04:00:00 UTC</dateCreated>
+        <dateCreated>Wed, 05 Feb 2025 04:00:04 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
+            <outline title="Jef Roosens" text="Jef Roosens" xmlUrl="https://rustybever.be/index.xml" htmlUrl="https://rustybever.be/" type="rss"></outline>
             <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.xml" htmlUrl="https://aaronparecki.com/" type="rss"></outline>
             <outline title="Alistair Shepherd" text="Alistair Shepherd" xmlUrl="https://alistairshepherd.uk/feed.xml" htmlUrl="https://www.alistairshepherd.uk/" type="rss"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog" type="rss"></outline>
@@ -39,7 +40,6 @@
             <outline title="Jamie Tanna" text="Jamie Tanna" xmlUrl="https://www.jvt.me/kind/articles/feed.xml" htmlUrl="https://www.jvt.me/kind/articles/" type="rss"></outline>
             <outline title="Jan Boddez" text="Jan Boddez" xmlUrl="https://jan.boddez.net/articles/feed" htmlUrl="https://jan.boddez.net" type="rss"></outline>
             <outline title="Jan-Lukas Else" text="Jan-Lukas Else" xmlUrl="https://jlelse.blog/.min.rss" htmlUrl="https://jlelse.blog/" type="rss"></outline>
-            <outline title="Jef Roosens" text="Jef Roosens" xmlUrl="https://rustybever.be/index.xml" htmlUrl="https://rustybever.be/" type="rss"></outline>
             <outline title="Jim Nielsen" text="Jim Nielsen" xmlUrl="https://blog.jim-nielsen.com/feed.xml" htmlUrl="https://blog.jim-nielsen.com" type="rss"></outline>
             <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" type="rss"></outline>
             <outline title="Kev Quirk" text="Kev Quirk" xmlUrl="https://kevquirk.com/feed" htmlUrl="https://kevquirk.com" type="rss"></outline>
@@ -73,7 +73,6 @@
             <outline title="Simon Willison" text="Simon Willison" xmlUrl="https://simonwillison.net/atom/entries/" htmlUrl="http://simonwillison.net/" type="rss"></outline>
             <outline title="Stanislas" text="Stanislas" xmlUrl="https://stanislas.blog/atom.xml" htmlUrl="https://stanislas.blog/" type="rss"></outline>
             <outline title="Tantek Çelik" text="Tantek Çelik" xmlUrl="http://tantek.com/updates.atom" htmlUrl="https://tantek.com/" type="rss"></outline>
-            <outline title="The Morning Paper" text="The Morning Paper" xmlUrl="https://blog.acolyer.org/feed/" htmlUrl="https://blog.acolyer.org" type="rss"></outline>
             <outline title="The Whimsical Web" text="The Whimsical Web" xmlUrl="https://whimsical.club/feed.xml" htmlUrl="https://whimsical.club" type="rss"></outline>
             <outline title="Tim Hårek" text="Tim Hårek" xmlUrl="https://timharek.no/feed.xml" htmlUrl="https://timharek.no" type="rss"></outline>
             <outline title="Tom MacWright" text="Tom MacWright" xmlUrl="https://macwright.com/rss.xml" htmlUrl="https://macwright.com" type="rss"></outline>

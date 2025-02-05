@@ -2054,6 +2054,20 @@
     ]
   },
   {
+    "domain": "gilest.org",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/13/making-a-digital-shoebox/",
+        "targetUrl": "https://gilest.org/shoebox.html"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/more/",
+        "targetUrl": "https://gilest.org/shoebox.html"
+      }
+    ]
+  },
+  {
     "domain": "gloweindhoven.nl",
     "count": 2,
     "links": [
@@ -3536,16 +3550,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/08/22/gifcities/",
         "targetUrl": "https://gifcities.org/"
-      }
-    ]
-  },
-  {
-    "domain": "gilest.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/01/13/making-a-digital-shoebox/",
-        "targetUrl": "https://gilest.org/shoebox.html"
       }
     ]
   },
