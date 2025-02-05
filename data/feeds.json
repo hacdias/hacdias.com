@@ -331,11 +331,6 @@
       "feed": "http://tantek.com/updates.atom"
     },
     {
-      "title": "The Morning Paper",
-      "site": "https://blog.acolyer.org",
-      "feed": "https://blog.acolyer.org/feed/"
-    },
-    {
       "title": "The Whimsical Web",
       "site": "https://whimsical.club",
       "feed": "https://whimsical.club/feed.xml"
