@@ -3,6 +3,12 @@ title: Trying Matrix Decentralized Messaging Service
 date: 2022-06-05T22:56:19.748105451+02:00
 categories:
   - articles
+location:
+  country: Netherlands
+  latitude: 51.43243
+  locality: Eindhoven
+  longitude: 5.48614
+  region: North Brabant
 tags:
   - decentralization
   - matrix

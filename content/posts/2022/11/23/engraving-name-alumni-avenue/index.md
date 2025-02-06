@@ -4,6 +4,12 @@ date: 2022-11-23T09:07:14.207620219+01:00
 categories:
   - articles
 coverImage: cdn:/2022-11-msc-while-engraving
+location:
+  country: Netherlands
+  latitude: 51.43255
+  locality: Eindhoven
+  longitude: 5.48605
+  region: North Brabant
 tags:
   - masters
   - university

@@ -4,6 +4,12 @@ date: 2022-10-18T13:14:45.621253396+02:00
 categories:
   - photos
 coverImage: cdn:/bc0d50d29ee7bfb34953264b7ec672b7463c9be883501d43859ede39c7e20e0c
+location:
+  country: Netherlands
+  latitude: 51.44449
+  locality: Eindhoven
+  longitude: 5.45995
+  region: North Brabant
 photos:
   - url: cdn:/bc0d50d29ee7bfb34953264b7ec672b7463c9be883501d43859ede39c7e20e0c
   - url: cdn:/25dd8fc3f43a97cb807e51225d6c89cf80b332599cf5411418871d9c042c15ba

@@ -4,6 +4,12 @@ date: 2022-05-24T21:58:43.727383096+02:00
 categories:
   - photos
 coverImage: cdn:/2022-05-behind-the-camera
+location:
+  country: Netherlands
+  latitude: 51.43243
+  locality: Eindhoven
+  longitude: 5.48617
+  region: North Brabant
 photos:
   - url: cdn:/2022-05-behind-the-camera
 ---

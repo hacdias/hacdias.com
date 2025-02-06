@@ -4,6 +4,12 @@ date: 2022-06-07T09:51:13.74567452+02:00
 categories:
   - articles
 coverImage: cdn:/2022-06-dm-photo-1
+location:
+  country: Netherlands
+  latitude: 51.4324
+  locality: Eindhoven
+  longitude: 5.48616
+  region: North Brabant
 syndication:
   - https://twitter.com/hacdias/status/1534206131781902336
   - https://twitter.com/hacdias/status/1534206138077655040
