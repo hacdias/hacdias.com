@@ -51,13 +51,14 @@
 <div class='fg'>
   {{ range . }}
   <a href='{{ .RelPermalink }}' class='nl lh p-name u-url br'>
+    {{ $imageUrl := or .Params.coverImage (index (index .Params.photos 0) "url") }}
     {{ partial "helpers/figure" (dict
-    "Destination" .Params.coverImage
-    "Title" .Title
-    "IsBlock" true
-    "Sizes" (slice 250 500)
-    "Class" "br"
-    "Page" .
+      "Destination" $imageUrl
+      "Title" .Title
+      "IsBlock" true
+      "Sizes" (slice 250 500)
+      "Class" "br"
+      "Page" .
     )}}
   </a>
   {{ end }}
