@@ -11,6 +11,8 @@ photos:
   - url: cdn:/17dc6d397bda79d962b6c7e43251d5f68950724e7e2aaf191a8dee14b2f8c80c
 tags:
   - travel
+syndication:
+  - https://www.instagram.com/p/CsOqUS9oI8f/
 ---
 
 Last month I had the opportunity of visiting Engelberg, in Switzerland. During this small trip, I spent some quality time with my coworkers and took some pictures. Below are my favourites. I had to include two trains, because... why not?
