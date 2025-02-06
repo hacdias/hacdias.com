@@ -15,7 +15,7 @@ photos:
   - url: cdn:/7d92543022a0db16f1c3919f052a0f5b0c7155b241f43a03ece9f5dc78c3cbc1
   - url: cdn:/46232a72689483d30457306d1fa00d7de2a713ec26cb2e9a0c4448b8559baf63
 syndication:
-  - https://www.instagram.com/p/Cj5DHBpIARA/?igshid=MDJmNzVkMjY
+  - https://www.instagram.com/p/Cj5DHBpIARA/
 ---
 
 <style>
