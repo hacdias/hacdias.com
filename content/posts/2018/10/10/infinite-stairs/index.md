@@ -3,7 +3,6 @@ title: Infinite Stairs
 date: 2018-10-10T21:31:02Z
 categories:
   - photos
-coverImage: cdn:/2018-10-infinite-stairs
 location:
   country: Portugal
   latitude: 38.73608998057843

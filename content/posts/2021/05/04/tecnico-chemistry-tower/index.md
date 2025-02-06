@@ -3,7 +3,6 @@ title: Chemistry Tower
 date: 2021-05-04T08:36:43.327798065Z
 categories:
   - graphics
-coverImage: https://cdn.hacdias.com/media/2019-04-tecnico-tower.gif
 photos:
   - url: https://cdn.hacdias.com/media/2019-04-tecnico-tower.gif
 tags:
