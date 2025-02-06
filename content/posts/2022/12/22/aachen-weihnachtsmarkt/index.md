@@ -5,6 +5,12 @@ lastmod: 2022-12-22T12:50:03.325284514+01:00
 categories:
   - articles
 coverImage: cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5
+location:
+  country: Netherlands
+  latitude: 51.44583
+  locality: Eindhoven
+  longitude: 5.46177
+  region: North Brabant
 tags:
   - christmas
   - travel

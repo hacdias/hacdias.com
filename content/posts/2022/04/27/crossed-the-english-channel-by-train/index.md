@@ -3,6 +3,12 @@ title: Crossed the English Channel by Train
 date: 2022-04-27T08:05:49.471903093+02:00
 categories:
   - articles
+location:
+  country: Netherlands
+  latitude: 51.43242
+  locality: Eindhoven
+  longitude: 5.48612
+  region: North Brabant
 tags:
   - travel
 ---
