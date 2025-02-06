@@ -3,7 +3,6 @@ title: Lurkin' Monkey
 date: 2019-11-20T04:35:09Z
 categories:
   - photos
-coverImage: cdn:/2019-10-monkey
 location:
   country: Costa Rica
   latitude: 10.6418273

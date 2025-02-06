@@ -3,7 +3,6 @@ title: Zuidplein
 date: 2022-03-26T15:41:45+01:00
 categories:
   - photos
-coverImage: cdn:/2022-03-zuidplein
 location:
   country: Netherlands
   latitude: 52.33980458705268
