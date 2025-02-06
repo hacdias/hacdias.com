@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: Ted Lasso
+  season: 3
+  rating: 4
+  date: 2025-02-06
+- name: Ted Lasso
   season: 2
   rating: 4
   date: 2025-01-30
