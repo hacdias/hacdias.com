@@ -20,7 +20,8 @@
 <meta property='og:type' content='{{ if or .IsNode .IsHome }}website{{ else }}article{{ end }}' />
 <meta property='og:site_name' content='{{ .Site.Title }}' />
 
-{{ with .Params.coverImage }}
+{{ $imageUrl := or .Params.coverImage (index (index .Params.photos 0) "url") }}
+{{ with $imageUrl }}
   {{ $url := urls.Parse . }}
   {{ $src := "" }}
   {{- if eq $url.Scheme "cdn" }}
