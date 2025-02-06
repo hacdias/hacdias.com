@@ -2704,16 +2704,6 @@
     ]
   },
   {
-    "domain": "acolyer.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://blog.acolyer.org"
-      }
-    ]
-  },
-  {
     "domain": "alistairshepherd.uk",
     "count": 1,
     "links": [
@@ -4570,6 +4560,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/09/28/php-como-utilizar-o-gettext-para-traducoes-parte-2/",
         "targetUrl": "http://poedit.net/"
+      }
+    ]
+  },
+  {
+    "domain": "pointerpointer.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/02/05/pointer-pointer/",
+        "targetUrl": "https://pointerpointer.com/"
       }
     ]
   },
