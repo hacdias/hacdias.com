@@ -19,6 +19,7 @@
 
 <meta property='og:type' content='{{ if or .IsNode .IsHome }}website{{ else }}article{{ end }}' />
 <meta property='og:site_name' content='{{ .Site.Title }}' />
+<meta name="fediverse:creator" content="{{ .Site.Params.author.fediverse }}" />
 
 {{ $imageUrl := or .Params.coverImage (index (index .Params.photos 0) "url") }}
 {{ with $imageUrl }}
