@@ -64,6 +64,7 @@ summaryLength = 300
     name = 'Henrique Dias'
     email = 'mail@hacdias.com'
     photo = 'https://hacdias.com/avatar/512.jpg'
+    fediverse = '@hacdias@fosstodon.org'
     handle = 'hacdias'
     identities = [
       'https://github.com/hacdias',
