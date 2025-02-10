@@ -10,6 +10,8 @@ tags:
 
 A friend of mine just sent the link to this AI-powered [accent guesser](https://start.boldvoice.com/accent-guesser) from Bold Voice. After trying it out for a few times, it guessed me as either Romanian or Bulgarian, but always with a low confidence. However, a few friends of mine from certain countries got more than 95% confidence on their country, even when trying to fake an accent from somewhere else.
 
+<!--more-->
+
 #### First Attempt
 
 - Bulgarian: 28%
