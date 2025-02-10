@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class='h-card' hidden>
     <a href='{{ absURL "/" }}' class='u-uid u-url p-name'>{{ .Site.Params.author.name }}</a>
-    <a class='u-photo' href='{{ .Site.Params.author.photo }}'>(Photo)</data>
+    <a class='u-photo' href='{{ .Site.Params.author.photo }}'>(Photo)</a>
     <a href='mailto:{{ .Site.Params.author.email }}' rel='me' class='u-email'>{{ .Site.Params.author.email }}</a>
     <a class='u-key' href='{{ absURL "/pubkey.asc" }}'>PGP key</a>
     <div class='p-note'>{{ .Site.Params.site.description }}</div>
