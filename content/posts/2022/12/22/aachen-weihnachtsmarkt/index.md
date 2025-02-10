@@ -16,19 +16,17 @@ tags:
   - travel
 ---
 
-<style>
-  .fg-2212aken {
-    grid-template-columns: repeat(3,1fr);
-  }
-</style>
+
 
 Last weekend, Christiaan and I went to the Christmas Market in Aachen. The first time I went to a Christmas Market was in 2019, in Zurich, during a work trip. Until then, I did not even know that Christmas Markets were a thing. Since moving to The Netherlands, I've been wanting to visit one of these magical markets, but, unfortunately, Covid-19 made that impossible. Fortunately, last weekend we made that wish come true.
+
+<!--more-->
 
 Traveling to Aachen from Eindhoven was quite straightforward, except for the fact that the railways between Heerlen and Aachen were in maintenance for that weekend only. How lucky! Nevertheless, there were replacement buses from Arriva that brought us to Aachen quickly.
 
 In Aachen, I tried quite a few food items that I've never seen before. Namely, reibekuchen 🥔, interestingly shaped, yet amazingly delicious, pancakes 🥞, as well as some flammkuchen 🧅. All of these foods were very nice, especially enjoyed the pancakes and the flammkuchen.
 
-<div class="fw fg fg-2212aken">
+<div class="fw fg fg-2212aken" style="grid-template-columns: repeat(3,1fr);">
 
 ![](cdn:/8555b881040e44434d5583358b8ebd3aabca74fd4b7838b7b68d4f283959bb0c)
 

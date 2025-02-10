@@ -11,6 +11,8 @@ tags:
 
 I think that most of us that deal with Docker have, at some point, being confronted with the message "no space left on device". Well, that is what happened to me this morning: I woke up, looked at my phone, and had three alerts since 2am that there was no space left on device. Miniflux was down because PostgreSQL goes automatically into recovery mode, but other that than, everything was still up and running.
 
+<!--more-->
+
 Now, how did that happen? Docker! Sometimes I feel like Docker is conspiring behind my back in order to use the most space as possible. I rent a VPS at Hetzner with a 40GB disk. Considering swap and other things, then we only have around 32GB that can be used. It is fine. I don't have that much on disk... do I?
 
 I recently migrated to a new server, closer geographically. On the way, I also documented all the steps and necessary programs in order to make it easier for the next time. What I do think I forgot was to "clean" my Docker installation in the end. I've also likely created a lot of containers that are not used when setting up Soju a few weeks ago.
