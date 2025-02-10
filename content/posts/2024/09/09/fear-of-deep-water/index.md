@@ -14,7 +14,7 @@ Swimming. An activity that can be very relaxing, and, at the same time, strainin
 
 <!--more-->
 
-![Bit of Water](cdn:/2024-09-swimming-pool?class=fw)
+![Bit of Water](cdn:/2024-09-swimming-pool)
 
 From what I know from friends, it’s not that common to have swimming lessons at school in Portugal. However, I was weirdly one of these lucky bastards who actually always had swimming lessons since the age of 4 or 5. I can’t really recall the specifics.
 

@@ -21,7 +21,7 @@ It is quite a shame that Eindhoven has no direct connections to Germany, even th
 
 A common topic to last year is, certainly, the food! I had reibekuchen 🥔 again, but also some other interesting things: some sausages in different formats and shapes 🌭, raclette 🧀, and a waffle with cherry 🍒 sauce shaped as the cathedral. I left some pictures below of some of these things, but there were definitely more.
 
-<div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](cdn:/2023-12-koln-christmas-food-01 "Sausage with Curry Sauce")
 
@@ -33,7 +33,7 @@ A common topic to last year is, certainly, the food! I had reibekuchen 🥔 agai
 
 Not only food, but we also had some Glühwein, of course. I have been collecting some mugs from Christmas markets, and Köln was perfect to increase this collection. We went to the Christmas markets at the following locations: Neumarkt, Cathedral, Altstadt, Chocolate Museum, Stadtgarten and Rudolfplatz. It sounds like a lot, but they were quite close by. My favorites were probably the Neumarkt and the Altstadt ones. The one at the park felt cosier though!
 
-<div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](cdn:/2023-12-koln-christmas-markets-02)
 

@@ -19,7 +19,7 @@ The most expensive train in this trip was between Zürich and Genève, seriously
 
 It was very nice. It was great to see some friends from Portugal again, and convince them to take the train from Eindhoven to München instead of flying. They had to fly to Eindhoven, and then back to Portugal, so that was already accounted for.
 
-![Attempt at [Inception](/2024/02/29/recently/) in Zürich](cdn:/2024-03-inception-foto?class=fw)
+![Attempt at [Inception](/2024/02/29/recently/) in Zürich](cdn:/2024-03-inception-foto)
 
 I also want to note that it is always crazy to see the staggering amount of Portuguese people that live in Switzerland: it's the train conductor, it's the guy at the supermarket, it's the receptionist at the hotel, it's the cleaning lady at the hotel, it's the owner of another restaurant, it's the cashier at the supermarket, etc. You can't avoid them.
 

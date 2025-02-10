@@ -16,7 +16,7 @@ the weather is definitely getting so much better than a few months ago.
 
 <!--more-->
 
-<figure class='right br video-ambiance'>
+<figure class='right video-ambiance'>
   <video autoplay muted loop controls>
     <source src="https://cdn.hacdias.com/media/2023-04-ambiance-bus-stop.mp4" type="video/mp4">
   </video>
@@ -49,7 +49,7 @@ lightening ⚡️ [talk](/2023/04/19/interplanetary-specifications/). Overall, v
 and very well organized. Since I work completely remotely, I really cherish this events where I can finally see and (re)connect
 with my coworkers in person.
 
-<figure class='left br round'>
+<figure class='left round'>
   <video autoplay muted loop controls>
     <source src="https://cdn.hacdias.com/media/2023-04-ambiance-turbines.mp4" type="video/mp4">
   </video>

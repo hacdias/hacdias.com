@@ -28,7 +28,7 @@ Last.fm has a very nice API that allows me to download all of my history very ea
 
 ## 🎤 Artists {#artists}
 
-<div class='fg fw top-grid'>
+<div class='fg top-grid'>
 
 ![](https://cdn.hacdias.com/media/2023-01-year-in-music-years-years.jpeg "Years & Years")
 
@@ -116,7 +116,7 @@ Regarding artists, we see Years & Years, Marina and Lorde at the top, which does
 
 ## 💿 Albums {#albums}
 
-<div class='fg fw top-grid'>
+<div class='fg top-grid'>
 
 ![](https://cdn.hacdias.com/media/2023-01-year-in-music-night-call-deluxe.jpeg "Night Call (Deluxe)")
 
@@ -274,7 +274,7 @@ Not only did I go to my first real concert in 2022, but also went to perhaps way
 
 I always distrust Spotify Wrapped a bit. For one, it is published at the beginning of December. Yes, it definitely is a good way to have an overview about what I listened to during the year. However, it doesn't include the last month of the year, which can change the statistics. Nevertheless, I am including it here so that I can have a comparison between my own data and Spotify's Wrapped.
 
-<div class='fg fw' style='grid-template-columns: repeat(4, 1fr)'>
+<div class='fg' style='grid-template-columns: repeat(4, 1fr)'>
 
 ![](cdn:/2023-01-spotify-wrapped-01)
 

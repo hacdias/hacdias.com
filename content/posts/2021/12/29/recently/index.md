@@ -19,7 +19,7 @@ Even though I have quite some university work to do, I've managed to mostly proc
 
 I also had a nice Sinterklaas celebration with my boyfriend's family and got two specially funny things: an **edible** game - which will quickly run out - and a Sinterklaas book for kids 🤣 It's so cute.
 
-![](cdn:/09c85f99607c3e8cfb5de5dc8944182fb1a0823a5efd7be36c3b0b0f315006ba?class=fw)
+![](cdn:/09c85f99607c3e8cfb5de5dc8944182fb1a0823a5efd7be36c3b0b0f315006ba)
 
 I have a few books I want to read, but I either don't find time or just find some excuse. Have to change that habit. I also have a "new" game loaded on my Switch to play so I'll probably pick up on that soon. I hope that soon I will be able to find a balance and start reading more again. I used to read a lot as a kid, but that habit has been fading since I enrolled university.
 

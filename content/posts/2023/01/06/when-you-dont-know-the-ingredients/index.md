@@ -30,7 +30,7 @@ I called a few fish shops in Eindhoven - because the supermarkets barely sell an
 
 Then the powder. In Portugal we have a thing called Chocolate Powder, which is used in many dessert recipes. Here there's only Cocoa Powder. And no, they are different. My partner didn't believe we had chocolate powder, but we do (see image below).
 
-<div class='fw fg'>
+<div class='fg'>
 
 ![Chocolate Powder](cdn:/eb198cf39374fc634b5335da61c7e2ddb294bbeef7bdcb614d4d5889d90f06df)
 
@@ -54,7 +54,7 @@ I whipped it. Looked nice, for a while. It wasn't growing as much as I wanted, b
 
 If you arrived here, congratulations. I will give you another quick story: the condensed milk. We have this dessert in Portugal called "Baba de Camelo", which literally translates to "Camel's Drool". I know, disgusting, yet very good. This dessert calls for cooked condensed milk. That is something you find in the supermarkets in Portugal, but not here. Here you have to buy the normal condensed milk, cook it for 3 hours and hope the can doesn't explode - because it can. Because you have to cook it inside the can, and there is always the possibility the can will explode!
 
-<div class='fg fw'>
+<div class='fg'>
   
 ![Cooked Condensed Milk](cdn:/6d4f93a1a1e518d30e544f0dbe568d04030bad5f6f969e3396bfb7f0f649e7cc)
 

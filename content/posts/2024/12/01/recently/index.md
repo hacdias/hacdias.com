@@ -17,7 +17,7 @@ At the beginning of November, similarly to what happens other years, there was t
 
 I also attended a meetup in Amsterdam, AdvancedJS. A friend of mine gave a talk there about the experimental AI API on Chrome, and there was another talk about advanced generics in TypeScript. I wish I would attend more meetups, but I feel like Eindhoven doesn't have nearly as many, and the ones that are in other cities are usually planned to be right after work hours. And that is very hard for me, since I can't teleport to Amsterdam (or any other city for that matter).
 
-![Weesperzijde, Amsterdam](cdn:/2024-11-weesperzijde?class=fw)
+![Weesperzijde, Amsterdam](cdn:/2024-11-weesperzijde)
 
 Talking about work, and time, we managed to negotiate work from home days, [finally](/2024/07/09/thoughts-after-one-month-working-on-site/). This is something I actually missed after moving from a completely remote company to a more "regular" company, let's say. With this, we also managed to negotiate the working hours to be slightly more flexible.
 

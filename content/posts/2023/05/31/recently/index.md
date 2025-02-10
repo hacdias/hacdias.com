@@ -29,7 +29,7 @@ In the beginning of the month, I visited the 🚆 Spoorwegmuseum in Utrecht. It 
 an incredible experience and I wrote an [article](/2023/05/06/visit-to-the-spoorwegmuseum/)
 about it where I shared some of the pictures I took, as well as the overall experience.
 
-![Giethoorn](cdn:/63f36b40ba9386905bee4cafc170abc3ac0f333dd8fa5ed494cd59fb45d47353?class=fw)
+![Giethoorn](cdn:/63f36b40ba9386905bee4cafc170abc3ac0f333dd8fa5ed494cd59fb45d47353)
 
 Two other high points of this month were my trips to both Zeeland and Giethoorn.
 Just like last year, Zeeland was a bit cold, especially in the sea, but it was nice.

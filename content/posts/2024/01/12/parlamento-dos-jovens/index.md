@@ -18,7 +18,7 @@ One year, somehow, I managed to end up at the nationals. Not as a deputy to defe
 
 Nonetheless, I created this post to share some pictures from this day. I'm not sure if it's accurate, but I think I was one of the youngest people there, in 2012. They also managed to only take two pictures during lunch, one of them with me, of course. I do think this is quite a nice initiative. I'm not sure if other countries have something similar.
 
-<div class="fw fg">
+<div class="fg">
 
 ![](cdn:/2012-05-parlamento-jovens-comer)
 
@@ -26,4 +26,4 @@ Nonetheless, I created this post to share some pictures from this day. I'm not s
 
 </div>
 
-![](cdn:/2012-05-parlamento-jovens-grupo?class=fw)
+![](cdn:/2012-05-parlamento-jovens-grupo)

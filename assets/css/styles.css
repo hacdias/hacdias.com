@@ -93,11 +93,14 @@ img.emoji {
   display: inline-block;
 }
 
+.media,
 audio,
 video,
 figure img {
   width: 100%;
   display: block;
+  border-radius: var(--radius);
+  overflow: hidden;
 }
 
 .footnotes::before,
@@ -390,7 +393,10 @@ details summary {
 #navbar {
   display: flex;
   color: var(--c);
+  width: calc(100% + 2 * var(--ls));
   margin-top: 0;
+  margin-bottom: var(--hls);
+  margin-left: calc(var(--ls) * -1);
   margin-bottom: var(--hls);
   overflow: hidden;
   text-align: center;
@@ -467,16 +473,6 @@ main pre {
 
 .card > * {
   padding: 0 var(--ms);
-}
-
-.card > div > .fw:last-child,
-.card > div > .fw:last-child figure {
-  margin-bottom: 0;
-}
-
-.card > div > .fw {
-  width: calc(100% + 2 * var(--ms));
-  margin-left: calc(var(--ms) * -1);
 }
 
 .card h2.bookmark {
@@ -635,6 +631,7 @@ main pre {
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: repeat(2, 1fr);
+  margin: 1rem 0;
 }
 
 .fg figure {
@@ -793,13 +790,6 @@ figure,
 :root.dark .only-light, 
 :root:not(.dark) .only-dark {
   display: none;
-}
-
-.fw {
-  width: calc(100% + 2 * var(--ls));
-  margin-left: calc(var(--ls) * -1);
-  margin-top: 1rem;
-  margin-bottom: 1rem;
 }
 
 @media screen and (max-width: 53rem) {

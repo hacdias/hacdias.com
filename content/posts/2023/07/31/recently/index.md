@@ -25,7 +25,7 @@ in a turn of events, added a dark theme to my website. It will be enabled by def
 or operating system is set to work with dark mode. In the end, the choice is always yours and you can
 set whether you want a light or dark experience in the footer of the website.
 
-![Dark Theme](cdn:/2023-07-website-dark-theme?class=fw)
+![Dark Theme](cdn:/2023-07-website-dark-theme)
 
 ## 🍄 Life {#life}
 
@@ -43,7 +43,7 @@ a diesel train and a steam train. The diesel train is... well... just a normal t
 But the 🚂 steam train... that was definitely something. It was on the [Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway),
 which provided some great views. Thanks for suggesting that!
 
-<div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](cdn:/2023-07-steam-train-01 "Steam Train Front")
 

@@ -28,7 +28,7 @@ Once I joined full time, I really wanted to focus on more technical aspects of I
 
 But that's enough of what I've been doing. How has it been? As with working in-person, I think there are both advantages and disadvantages, right? Let's start with the positive side. Working remotely with a fully distributed team is fantastic to be able to meet people from all around the world, even though that can sometimes mean that I have some meetings at some odd hours.
 
-![Group Photo at IPFS þing 2023](cdn:/2023-04-ipfs-thing-group?class=fw)
+![Group Photo at IPFS þing 2023](cdn:/2023-04-ipfs-thing-group)
 
 In addition, the freedom of being able to work on my own schedule and not having to be at the office at, say, 9 am, is incredible. Also the fact that I can do it from virtually anywhere where there is Internet is also good. I would also argue that working asynchronously allowed me to develop some skills on async communication, avoiding time-wasting. Flexible, no commuting time, meet people from all over, that's the great part.
 

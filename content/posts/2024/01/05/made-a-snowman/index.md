@@ -16,11 +16,11 @@ Until last week, there was an activity at the municipal library where you could 
 
 This is going to be a short post, but I just got the final result and I wanted to share it. I decided to make a snowman ☃️ because... why not? So I got there and created an account in Tinkercad, the online software that we were supposed to use to make the model.
 
-![Snowman Model in Tinkercad](cdn:/2024-01-snowman-model?class=fw)
+![Snowman Model in Tinkercad](cdn:/2024-01-snowman-model)
 
 After finishing the model, I just exported it and then my partner did some preparation in the model for it to be printed. Despite making the model with some more colors, I knew that the printed version would be a single color. I chose white, for... obvious snow reasons.
 
-<div class="fg fw">
+<div class="fg">
 
 ![](cdn:/2024-01-snowman)
 

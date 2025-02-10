@@ -12,7 +12,7 @@ I'm from a little town in the countryside of Portugal 🇵🇹 and now I live in
 
 Since an early age, I have been curious about computers and I always wanted to work with them, albeit initially I did not understand what that involved. As the years passed by, I used the Internet to satisfy my curiosity and learn more and more about computers. Initially, I researched hours and hours about which programming language I should learn first and, at the time, I decided that C# was the right choice and bought a book. Turns out, I never read said book and ended up learning PHP instead. I've heard that PHP has come a long way since I first learned it!
 
-![](cdn:/2024-09-stratumse-heide?class=fw "In The Stratumse Heide")
+![](cdn:/2024-09-stratumse-heide "In The Stratumse Heide")
 
 During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest, if not the largest, tech blog in Portugal. I wrote over 400 tutorials, tech news and other articles. In addition, I published a 60 page e-book on how to program in C for beginners at the age of 15. Furthermore, I had the opportunity to do some software development work at [Upframe](https://github.com/upframe) where I met some amazing people.
 

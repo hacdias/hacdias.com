@@ -11,7 +11,7 @@ The maximum temperature today - which means now - is around 24C and clear skies 
 
 <!--more-->
 
-![Map of our bike route today](cdn:/2024-04-biking-oirschot?class=fw)
+![Map of our bike route today](cdn:/2024-04-biking-oirschot)
 
 Yesterday I picked up my e-bike, which is [finally repaired](/2024/04/01/bike-thieves/). From now on, I am keeping the battery at home. Anyways, that is not what I want to talk about, even though I don't have that much to talk about. I just want to say that biking with nice weather for long distances is amazing.
 

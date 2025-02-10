@@ -28,7 +28,7 @@ Maar nou, welke series heb ik gekeken? De eerste was *Anne+*, die een queer webs
 
 De tweede Nederlandse series die ik heb gekeken was *Dirty Lines*. Desondanks zijn Engelse titel, is het ook een Nederlands series. Het is gebaseerd op het boek 06-Cowboys en het gaat over het verhaal van de eerste sekslijnen in Nederland uit 1987.
 
-![Een afleiding voor jou: sneeuwpop cupcakes](cdn:/2014-01-sneeuwpop-cupcakes?class=fw)
+![Een afleiding voor jou: sneeuwpop cupcakes](cdn:/2014-01-sneeuwpop-cupcakes)
 
 In een andere categorie, heb ik *De Luizenmoeder* gekeken. Als je dit ben aan het lezen, dan spreek je Nederlands. Dus ken je het zeker. Ik heb de film not niet gekeken, maar de hele series wel. Misschien binnenkort.
 

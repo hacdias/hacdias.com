@@ -31,7 +31,7 @@
 </div>
 
 <input type='checkbox' id='toggler' hidden="hidden" />
-<nav id='navbar' class='fw'>
+<nav id='navbar'>
   <label for='toggler'>🍔 Menu</label>
   {{ range .Site.Menus.main -}}
     <a href='{{ .Page.RelPermalink }}' class='nl'{{ if $.IsMenuCurrent .Menu . }} aria-current='page'{{ end }}>{{ .Name }}</a>

@@ -39,7 +39,7 @@ According to Last.fm, I've listened to less music than in the previous year. Thi
 
 ## 🎤 Artists {#artists}
 
-<div class='fg fw top-grid'>
+<div class='fg top-grid'>
 
 ![](https://cdn.hacdias.com/media/2025-01-marina.jpeg "Marina")
 
@@ -129,7 +129,7 @@ The other positions are occupied by artists that have consistently been in my to
 
 ## 💿 Albums {#albums}
 
-<div class='fg fw top-grid'>
+<div class='fg top-grid'>
 
 ![](https://cdn.hacdias.com/media/2025-01-love-and-fear.jpeg "Love + Fear")
 

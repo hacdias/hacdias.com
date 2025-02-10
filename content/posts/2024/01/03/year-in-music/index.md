@@ -23,7 +23,7 @@ Firstly, some quick statistics: in 2023, I scrobbled **19 256** times, with an a
 
 ## 🎤 Artists {#artists}
 
-<div class='fg fw top-grid'>
+<div class='fg top-grid'>
 
 ![](https://cdn.hacdias.com/media/2024-01-froukje.jpeg "Froukje")
 
@@ -111,7 +111,7 @@ This year, there's quite a change on my top artists. My top 10 is now dominated 
 
 ## 💿 Albums {#albums}
 
-<div class='fg fw top-grid'>
+<div class='fg top-grid'>
 
 ![](https://cdn.hacdias.com/media/2024-01-endless-summer-vacations.jpeg "Endless Summer Vacation")
 

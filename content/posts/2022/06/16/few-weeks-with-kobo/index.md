@@ -9,7 +9,7 @@ A few weeks ago, I thought crossed my mind: buy an e-reader. It wasn't the first
 
 <!--more-->
 
-![E-reader In The Park](cdn:/efbe4d3913c621c33cfb455be55ba19e822aaab260e6bfb41355c0be14a56543?class=fw)
+![E-reader In The Park](cdn:/efbe4d3913c621c33cfb455be55ba19e822aaab260e6bfb41355c0be14a56543)
 
 Over the years, I have accumulated quite a few books. When I was in my parents place, I never thought about the space that they consume or even if it was environmentally friendly. Once I moved to Lisbon, I also wanted to move some books just for decoration. During my bachelor years I didn't read that much so I didn't end up growing a large bookcase in there.
 
@@ -31,6 +31,6 @@ One advantage, besides the size, is that it has a back light that you can turn o
 
 There are, of course some drawbacks: the e-reader doesn't have USB-C. That is personally my biggest drawback but it's also not a gigantic issue since I don't really need to charge it or connect to the computer frequently.
 
-![One Of My Shelves](cdn:/73e784ecb1f9f66874069b09fbf5ebed471f993799f6e73046534fe69a5eae0a?class=fw)
+![One Of My Shelves](cdn:/73e784ecb1f9f66874069b09fbf5ebed471f993799f6e73046534fe69a5eae0a)
 
 Does it replace the feeling of a real book? Of course it doesn't. Does it matter? Well, that certainly depends on you. I will miss seeing new books pop up on my shelf, but I'm very happy seeing them in my e-reader and being able to carry them and reading them everywhere I go.

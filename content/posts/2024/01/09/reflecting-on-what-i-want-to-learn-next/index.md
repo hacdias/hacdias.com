@@ -18,7 +18,7 @@ Over the past few months, I have been feeling unchallenged. It mostly comes from
 
 Reflecting about what I want to do and what I want to learn can be quite an eye-opener, especially in these moments of uncertainty. So, what have I been thinking about lately?
 
-![Somewhere in Summer 2022, I Think](cdn:/2024-01-summery-leaves?class=fw)
+![Somewhere in Summer 2022, I Think](cdn:/2024-01-summery-leaves)
 
 ## Learning Rust
 

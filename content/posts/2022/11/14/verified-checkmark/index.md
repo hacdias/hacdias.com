@@ -21,4 +21,4 @@ For years, the blue checkmark in many social media have been used to show status
 
 My website is owned by me, I pay for it. It is authentic and I can guarantee that the person behind it is myself. That could be an argument to put this badge up there. However, I'm just going with it because it is funny.
 
-![](cdn:/1858a747667c2d9b8c64ccac04679aae7c3caacabadcf172c44ceca288aaae7b?class=fw)
+![](cdn:/1858a747667c2d9b8c64ccac04679aae7c3caacabadcf172c44ceca288aaae7b)

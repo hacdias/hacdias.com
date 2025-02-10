@@ -19,7 +19,7 @@ The title of this post is just a question I added to my [impossible list](/impos
 
 I have been living in The Netherlands for over 3 years now. In 2 years, I will need to ask for permanent residence. That is quite trivial, as a citizen of another member of the EU. However, there is something else that becomes possible upon that date: I can request for citizenship if I want.
 
-![Choosing a path is not always easy](cdn:/2024-01-paths-to-choose?class=fw)
+![Choosing a path is not always easy](cdn:/2024-01-paths-to-choose)
 
 Getting Dutch citizenship for me would involve doing the *inburgering* exams, in which language exams are included, as well as societal knowledge exam. Up until this year, the language level required to obtain Dutch citizenship was only A2. Form this year on, if I'm not mistaken, the requirement has been changed to B1. I think that makes sense.
 
@@ -37,7 +37,7 @@ In the event that I would decide to return to Portugal, it is more than possible
 
 Now... feelings? I think I feel reasonably good about this thought process. I don't really know how my family or friends in Portugal feel about it. I think there's quite a lot of patriotism in Portugal regarding citizenship and *being Portuguese*. I would certainly prefer to be able to keep both citizenships. However, if that is not possible when the time comes, I think I will make the decision that makes sense for me. Of course that what makes sense for me - explained above - might change in the future.
 
-![Always look at the bright side](cdn:/2024-01-sun-bench?class=fw)
+![Always look at the bright side](cdn:/2024-01-sun-bench)
 
 In a similar topic, I have a goal this year: do the *inburgeringsexamen*, which includes also doing the Staatsexamen either for level B1 or B2. There is no specific reason to do it. People from outside of the EU would have to do it mandatorily in order to apply for a permanent residency, but that's not the case for me. However, if I ever want to apply for citizenship, at least the *inburgering* process is already done. In addition, I think it can give me a nice sense of accomplishment.
 

@@ -25,7 +25,7 @@ So I tried. I went to Bosch's app, exported a FIT file and directly imported it 
 
 I was still hesitating, but I decided to try exporting it to Apple Health. I did it. And... it just worked? All the information from my bike ride was now correctly available in the Apple Health and Fitness apps. No need for my script, no need to go to a computer to "fix" the file.
 
-<figure class='fw'>
+<figure>
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 

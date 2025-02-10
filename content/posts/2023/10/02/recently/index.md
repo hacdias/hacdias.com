@@ -22,7 +22,7 @@ We visited a few places, some more touristy than others. They arrived on a Tuesd
 
 Thursday we decided to rest a bit. We stayed in Eindhoven, and it was in general a nice day. Then Friday, we started by going to the Zaanse Schans in order to see some old windmills, and finished in Amsterdam as it is in the route back to Eindhoven.
 
-![De Zaanse Schans](cdn:/2023-09-zaanse-schans?class=fw)
+![De Zaanse Schans](cdn:/2023-09-zaanse-schans)
 
 Saturday and Sunday were slower days, which does not necessarily mean we walked less. In both days, we stayed in Eindhoven. The highlight of Saturday was the Woenselse Markt, where my parents tried some local food. On Saturday, we had a fully vegan 🍃 High Tea at Tea Stories. It was very nice.
 
@@ -32,7 +32,7 @@ On that same Sunday, Chris and I bought a birthday calendar! For those who don't
 
 I've been going to the gym twice a week consistently. I don't recall to which point I shared this here, but I started going to the gym right before the summer started. At the time I was going once a week, but now I'm going twice a week. I definitely feel stronger and better.
 
-![Walking Through The Forest](cdn:/2023-09-ardennes?class=fw)
+![Walking Through The Forest](cdn:/2023-09-ardennes)
 
 Finally, Chris and I went to Spa, in Belgium. Spa is known for its water brand... Spa water. The town is also located in the Ardennes region, so it's surrounded by beautiful nature. On Saturday, we did a 10 km hike with some elevation, and I am pleased to say that I had no Achilles complaints from it.
 

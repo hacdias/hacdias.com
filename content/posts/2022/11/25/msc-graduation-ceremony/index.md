@@ -16,7 +16,7 @@ Two days ago I [shared](/2022/11/23/engraving-name-alumni-avenue) that I was abl
 
 _Note_: photos and video are copyrighted by TU/e. Photos are originally on [Flickr](https://www.flickr.com/photos/129818819@N03/albums/72177720303968156), and video is originally on [YouTube](https://www.youtube.com/watch?v=PemFIEJtUSw&t=2904s).
 
-<div class="fw fg">
+<div class="fg">
 
 ![](cdn:/2022-11-msc-ceremony-group)
 

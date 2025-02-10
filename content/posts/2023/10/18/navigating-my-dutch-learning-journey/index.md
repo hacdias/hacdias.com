@@ -21,7 +21,7 @@ The university offered free Dutch courses, so why not taking them? I think they 
 
 I've also recently finished Duolingo's Dutch course. I know Duolingo is not usually regarded as the best and there's way too many memes of *Ik ben een appel*. However, after the first introductory sessions, I think Duolingo is quite good at introducing a lot of new vocabulary for different topics.
 
-![Comic Books and Dutch Book](cdn:/2023-10-dutch-books?class=fw)
+![Comic Books and Dutch Book](cdn:/2023-10-dutch-books)
 
 Most recently, what I have been doing more often is to consume more content in Dutch. I have already watched a few series, such as Anne+ and Dirty Lines. Now I'm trying to watch Luizen Moeders. I have also read Minoes and some other basic books.
 

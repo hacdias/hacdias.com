@@ -18,7 +18,7 @@ Since 2022, I have been buying - perhaps too much - coffee equipment. It started
 
 With all these purchases, you may ask yourself: do you even use all these gadgets? Oddly enough, I think I do. Certainly, I don't use my Chemex as often as my Clever Dripper. However, I do definitely use both of them, in different ways, for different purposes. At the moment, this is my preferred choice:
 
-<figure class='right br' style='max-width: 13rem; overflow: hidden' alt='Clever Dripper Preparation Timelapse'>
+<figure class='right' style='max-width: 13rem; overflow: hidden' alt='Clever Dripper Preparation Timelapse'>
   <video autoplay muted loop controls>
     <source src="https://cdn.hacdias.com/media/2024-01-clever-dripper.mp4" type="video/mp4">
   </video>

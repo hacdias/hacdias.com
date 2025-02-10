@@ -16,7 +16,7 @@ Uff, I wanted to write this before the end of August, but I'm still on time. Aug
 
 In the beginning of the month, I checked one more item of my "impossible list". It wasn't one of those items that are very hard to tick, I just needed to go to Amsterdam on the weekend. I traveled on the line 20 of the [Museumtramlijn](https://www.museumtramlijn.org/dienstregeling/lijn20) in one of the old trams. One of these days I should do line 30 too.
 
-![Visited a Boot in the EJV Beatrix](cdn:/2024-08-ejv-beatrix?class=fw)
+![Visited a Boot in the EJV Beatrix](cdn:/2024-08-ejv-beatrix)
 
 Two weekends ago I also went to Limburg, but I already [talked](/2024/08/30/three-country-point/) about that a few days ago. Too long, didn't read: it was very nice, there were hills, visited a three-country point and the highest point in the Netherlands. During the same weekend, something else happened: it marked my 4th anniversary living in the Netherlands! *Four entire years!*
 

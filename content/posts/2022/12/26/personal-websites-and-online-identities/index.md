@@ -19,7 +19,7 @@ Since two years ago, I started putting a lot of things on this website: checkins
 
 One of the reasons I [moved](/2021/10/31/eagle-move-away-from-hugo) [away](/2021/11/19/farewell-hugo-hello-eagle) from Hugo was to seek flexibility. Instead of finding what I was looking for, I now feel myself looking for simplicity again. The simplicity of a static website. And it's complicated. There is no definite answer. [Martin](https://mew.tv/) said something interesting: "try to imagine yourself 15 years from now, looking back". That is a very interesting thought: what do I want to see in my website in 15 years?
 
-![Art Installation in Glow](cdn:/cafa1d39e56268b7793f01544541085c9d367e67f309cd00505fcf1419dc5f8f?class=fw "A random photo of GLOW to distract you for a bit")
+![Art Installation in Glow](cdn:/cafa1d39e56268b7793f01544541085c9d367e67f309cd00505fcf1419dc5f8f "A random photo of GLOW to distract you for a bit")
 
 To be fair, I think that seeing all those checkins, watches, things that I ate or drunk, per day, would be quite cool. Especially if I manage to keep making those posts over time. However, as Martin also said, my website feels too "feedy". And I think that quite describes my feeling sometimes: I look at it and I see a bunch of checkins, or a bunch of watch posts, without any content. It just indicates I was somewhere or I watched something. It feels empty, useless.
 

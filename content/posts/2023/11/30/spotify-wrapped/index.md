@@ -15,7 +15,7 @@ James [shared](https://jamesg.blog/2023/11/29/spotify-wrapped/) his Spotify Wrap
 
 This here came with some interesting surprises. Not only is my phone in Dutch, and therefore the Spotify Wrapped too, but apparently a lot of Dutch songs are in my top songs. Here you have the shared images from my Spotify Wrapped:
 
-<div class='fg fw' style='grid-template-columns: repeat(4, 1fr)'>
+<div class='fg' style='grid-template-columns: repeat(4, 1fr)'>
 
 ![](cdn:/2023-11-spotify-wrapped-genres)
 

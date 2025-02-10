@@ -24,7 +24,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 ### ⌨️ Desk {#desk}
 
-![Desk at Home](cdn:/2024-12-desk-home?class=fw)
+![Desk at Home](cdn:/2024-12-desk-home)
 
 At home, we have two desks: one in the living room, and one in the bedroom. Maybe in the future, if we have a separate room, we can make it our office, and place the desks there. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
 
@@ -48,7 +48,7 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 
 ### ☕️ Coffee {#coffee}
 
-![Coffee Station](cdn:/2024-01-coffee-station?class=fw)
+![Coffee Station](cdn:/2024-01-coffee-station)
 
 Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
 

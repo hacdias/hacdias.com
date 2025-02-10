@@ -13,7 +13,7 @@ It's that time of the year again, and Spotify Wrapped is back. Just like I did [
 
 Just like last year, and probably all the other years, my Spotify Wrapped 🎁 came with some surprises that I was expecting. This time, my phone is no longer in Dutch, but the prevalence of Dutch artists continues to be a highlight:
 
-<div class='fg fw' style='grid-template-columns: repeat(4, 1fr)'>
+<div class='fg' style='grid-template-columns: repeat(4, 1fr)'>
 
 ![](cdn:/2024-12-spotify-wrapped-top-artist)
 
