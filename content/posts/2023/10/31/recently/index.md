@@ -22,7 +22,7 @@ This month I published a few more posts than I was expected. I had a weird after
 
 I also made a few updates to my homepage, where I now added a favorite photos section. I also intercalated the photos with the posts sections, which I think looks slightly better than before. Finally, I have added a "more articles" and a "more photos" links to the list of latest articles and photos, respectively.
 
-![Updated Homepage in October 2023](cdn:/2023-10-website-homepage?class=fw)
+![Updated Homepage in October 2023](cdn:/2023-10-website-homepage)
 
 ## 🍄 Life {#life}
 
@@ -32,7 +32,7 @@ I also celebrated my birthday on the weekend of the 22nd of October. On the Satu
 
 On Sunday, and therefore my actual birthday date, my partner and I went to Limburg. Limburg is the southernmost region of The Netherlands, where they actual have their own language, [Limburgs](https://en.wikipedia.org/wiki/Limburgish), and also hills. We went to this old train station in Simpelveld where we took off for a lunch steam train ride, in the [Miljoenenlijn](https://miljoenenlijn.nl/).
 
-<div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](cdn:/2023-10-simpelveld "Simpelveld Station")
 
@@ -44,7 +44,7 @@ On Sunday, and therefore my actual birthday date, my partner and I went to Limbu
 
 The lunch was served on a Pullman eating wagon from 1927, completely renovated. This used to be a 2nd class car in the *Étoile du Nord*, an express train that used to link Paris and Amsterdam. The train was very beautiful, from the inside, to the outside. It was all well kept. This is an event that happens once a month and entirely run by volunteers. It just happened to happen on my birthday, so I *had* to go, right?
 
-<div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](cdn:/2023-10-lunchtrein-voorgerecht "Lunch Entree")
 

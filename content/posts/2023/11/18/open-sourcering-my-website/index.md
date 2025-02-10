@@ -17,7 +17,7 @@ For some, it may come as a surprise that my website's source code is not open-so
 
 <!--more-->
 
-![Setting The Vibes™](cdn:/2023-11-noisy-glow?class=fw)
+![Setting The Vibes™](cdn:/2023-11-noisy-glow)
 
 With Eagle, I started introducing new features that could involve sensitive data, such as private posts, or even storing unmoderated comments in the Git repository. Both were a bad idea.
 

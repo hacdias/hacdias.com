@@ -20,7 +20,7 @@ Following the trend of the last year of two, my website has not changed a lot in
 
 In addition, 2024 marked the [10th anniversary 🥂](/2024/07/12/a-decade-of-blogging/) of this website. That was, on itself, a milestone reached. During the year, I introduced [gallery views 🖼️](/2024/02/01/recently/#website) for my photos pages, a digital shoebox which I'm now considering to remove, and a [spam-prevention 🤖](/2024/05/10/mitigating-guestbook-spam/) mechanism for the guestbook.
 
-![Website Snapshot](cdn:/2024-12-website-snapshot?class=fw)
+![Website Snapshot](cdn:/2024-12-website-snapshot)
 
 When it comes to actually writing, I reached 60 posts, including this one. That's 17 more than last year. By reaching 60, I surpassed the goal I had set last year of 50, but I had forgotten about it anyways. Nice to see it has been reached. What I did not accomplish was to be more involved in the IndieWeb community.
 

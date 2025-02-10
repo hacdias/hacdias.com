@@ -19,10 +19,12 @@ The winter ❄️ has finally come. I have been wishing for snow for a long time
 
 Since then, I've only seen snow a few other times when traveling, but never that experience of being outside while it is actually snowing. That has changed! The Netherlands has been suffering from low temperatures, reaching even -15°C where I'm living. It's been over a week without positive temperatures!
 
-<video autoplay muted loop>
-  <source src="https://cdn.hacdias.com/media/2021-02-snow-eindhoven.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<figure>
+  <video autoplay muted loop>
+    <source src="https://cdn.hacdias.com/media/2021-02-snow-eindhoven.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>
 
 However, it is not the weather of the Netherlands that brought you here. Due to the snowy situation, I had the idea of searching how to recursively generate snowflakes. The first method that I found, and probably the most known one, is the [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake). Even so, I am not going to talk about it today. Maybe some other day!
 
@@ -36,7 +38,7 @@ Usually, when we think about fractals, we think about infinitely repeating shape
 
 Let's get started then! But first, here's the demo of the final "product" so you can see what we are trying to build. This demo is interactive, so you can change the parameters. I chose some default parameters that make the snowflake look really nice in my opinion!
 
-<div class="fw snowflakes">
+<div class="snowflakes media">
   <canvas data-mode=interactive />
 </div>
 
@@ -138,7 +140,7 @@ After checking if the current level is the last one, we start working on our sno
 
 You can try changing the values to see what you get. For now, you should see something like this:
 
-<figure class="fw">
+<figure class="media">
   <div class="snowflakes">
     <canvas data-mode=static data-levels=0 data-branches=0 data-spread=0 data-sides=6 />
   </div>
@@ -249,7 +251,7 @@ The first translation and scale define where we start drawing the next branch. T
 
 In order to actually draw the branches, we now rotate the context by the angle and call `draw` recursively for the next level. Then, we do exactly the same for the symmetric angle so we draw leafs coming out of each side of the branch.
 
-<figure class="fw">
+<figure class="media">
   <div class="snowflakes">
     <canvas data-mode=static data-levels="5" data-branches="2" data-spread="0.83" data-sides="6" />
   </div>

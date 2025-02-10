@@ -29,7 +29,7 @@ Quite some events happened this month. I feel like I say this every month now. S
 
 Other life events happened: friends visited from abroad, had BBQs, visited master thesis defenses and other things here and there. In one of the weekends, I also proceeded to do a "train chase" to see the new ICNG ([*InterCity Nieuwe Generatie*](https://nl.wikipedia.org/wiki/Intercity_Nieuwe_Generatie)) trains from NS. You can see some pictures below. I can't wait to see these trains in other routes.
 
-<div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](cdn:/2023-06-icng-front "ICNG Front")
 

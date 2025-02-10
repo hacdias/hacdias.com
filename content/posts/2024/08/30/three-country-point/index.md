@@ -14,7 +14,7 @@ Last weekend - starting on Friday - we went on a small trip to Limburg, the sout
 
 Limburg not only has some hills, but it also "houses" the title of this post: a three-country point. In this case, it is a border between the Netherlands 🇳🇱, Belgium 🇧🇪 and Germany 🇩🇪. And a few meters from this three-country point there's also the highest point in the Netherlands, sitting at an astonishing 322<sup>.5</sup> meters above sea level. I've wanted to come here for quite some time and I'm glad we did.
 
-<div class="fw fg">
+<div class="fg">
   
 ![Three-Country Point](cdn:/2024-08-drielandenpunt "Three-country point")
 
@@ -26,6 +26,6 @@ We spent the nights in Mechelen, a small town in Limburg. On Saturday, we got a 
 
 After this, we adventured in a non-planned hiking trip in the [Vijlenerbos](https://nl.wikipedia.org/wiki/Vijlenerbos) from the *Drielandenpunt* towards Epen. The hiking part of the day was around 14-15 kilometers, but we ended up walking around 18 kilometers the whole day. It was quite refreshing to walk on inclines and declines in the Netherlands.
 
-![View From Buitenlust, a Restaurant We Found Midway](cdn:/2024-08-uitzicht-buitenlust?class=fw "Restaurant Buitenlust View")
+![View From Buitenlust, a Restaurant We Found Midway](cdn:/2024-08-uitzicht-buitenlust "Restaurant Buitenlust View")
 
 It was very nice and the hike was sort of unplanned, and I would definitely recommend it. The nature there is very beautiful, I wish the photos would do it justice. Other than that, we've also had some nice time in Maastricht on the way there and also on the way back, never forgetting to eat a slice of [vlaai](https://nl.wikipedia.org/wiki/Limburgse_vlaai) 🥧.

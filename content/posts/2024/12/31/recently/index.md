@@ -21,7 +21,7 @@ The same day, we also went to the [caves in Maastricht](https://en.wikipedia.org
 
 Also at the beginning of the month, it was the turn of my company to organize the community lunch at the place where we work. I made the desserts. I decided on making both *Arroz Doce*, which is a Portuguese sweet rice pudding. This [time](/2023/01/28/when-the-rice-isnt-right/) it ended up being much better! I also made so much I had to split it into multiple pans while cooking.
 
-<div class='fw fg' style='grid-template-columns: repeat(4, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(4, 1fr);'>
 
 ![Cooking the Rice](cdn:/2024-12-arroz-doce-1)
 
@@ -35,7 +35,7 @@ Also at the beginning of the month, it was the turn of my company to organize th
 
 In addition, also made a **few** *Chocolate Salami*. "A few". A coworker of mine made a very delicious Indian dish, whose name I've forgotten in the meanwhile. But it was based on vegetables and paired with very nice bread buns that had just been fried on a bit of butter. I must say that the lunch was an incredible success.
 
-<div class='fw fg' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![Indian Dish](cdn:/2024-12-work-lunch-indian)
 
@@ -49,7 +49,7 @@ During the course of the month, I've also met with friends for different occasio
 
 I also spent a week in Portugal, where I got the chance to have a lot of lunches and dinners. It was the Christmas week, so we did what we do in Portugal: eat. Eat for Christmas Eve with some family. Eat for lunch for Christmas Day with some family, and this time we also had lunch with family the day after. Lots of delicious foods.
 
-<div class='fw fg' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![Shrimps and Clams](cdn:/2024-12-portugal-food-1)
 

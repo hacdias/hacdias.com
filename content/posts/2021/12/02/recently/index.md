@@ -13,7 +13,7 @@ November was so busy that I did not even manage to write this in time! The month
 
 <!--more-->
 
-<div class='fg fw' style='grid-template-columns: repeat(3, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](cdn:/44e945fd5ac80ecb0b0fe7aa46b1f0f6b89e3120938b060a8c5cb89281e91f8f)
 

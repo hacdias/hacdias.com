@@ -21,7 +21,7 @@ First, let's look at the problem. If you're an Apple Watch user, you know that y
 
 The eBike Flow app is neatly integrated with the Apple Watch and Apple Health. After tracking a ride, it synchronizes the workout to Apple Health and includes almost all information. The keyword is *almost*. It is missing the speed graph during the ride, as well as power and cadence. It includes the average speed though!
 
-<div class='fw fg' style='grid-template-columns: repeat(2, 1fr);'>
+<div class='fg' style='grid-template-columns: repeat(2, 1fr);'>
 
 <figure>
 <div class='fg' style='grid-template-columns: repeat(2, 1fr);'>
@@ -55,7 +55,7 @@ The eBike Flow app allows me to export my ride data as both a [GPX](https://en.w
 
 I exported the FIT file, then imported it via [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514). HealthFit is an iOS ap which allows me to import FIT files to add to Apple Health. That's where I noticed something else: it did not include calories, or elevation information.
 
-<figure class='fw'>
+<figure>
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
@@ -106,7 +106,7 @@ I programmatically added an activity entry at the end considering the informatio
 
 Then, I carefully analyzed the original FIT file in order to try to understand if and where and how I should put pauses. I compared to the original map in Flow's app, as well as the one it added to Apple Health. I could not figure out how the pauses worked. I tried to add some based on the lack of entries between timestamps, but that did not seem to be entirely correct. Also, the calories were somehow changing based on the pauses. I think it counted the calories for the entire time, and then it would reduce the ones from the pauses. Not sure. I think it's my script creates a good approximation of the real thing, but there are still some odd things. I also think some of the odd things come from HealthFit.
 
-<figure class='fw'>
+<figure>
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 

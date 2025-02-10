@@ -41,11 +41,11 @@ I [watched](/watches) quite a few things during December. However, I want to hig
 
 The second time I went to the cinema was to watch *Avatar: The Way of Water* and I absolutely loved it. I watched the first movie years ago when I was a kid, so I first had to watch a recap of the first movie. The second movie is a great continuation of the first. Of course, some will enjoy it more than others, but overall it was worth it.
 
-![Meeting a Water Tribe *(Avatar: The Way of Water)*](cdn:/f5af97ea6f9a23e2322da032dc7994f6b0faab24b82081dab8088d0189e591ac?class=fw)
+![Meeting a Water Tribe *(Avatar: The Way of Water)*](cdn:/f5af97ea6f9a23e2322da032dc7994f6b0faab24b82081dab8088d0189e591ac)
 
 On the series department, I want to highlight three series. First of all, *1899*. 1899 is a series from the same German studios as *Dark*, and you can clearly see why. Even though the story is extremely different and unrelated, the philosophy behind it, as well as the mysterious tone are highly present and connected. In addition, the multi-cultural nature of the cast was impressive, with actors from all corners of the world. I really enjoyed watching the first season of 1899 and I am thrilled for what's coming next. I recommend it, as well as *Dark*, and *Making 1899* for the technology behind it.
 
-![Passengers on Board of Kerberos *(1899)*](cdn:/9a5004a6c2a0202b8cf9dc6b64ef1f14aded6918e0db8dbd342e650ab28af491?class=fw)
+![Passengers on Board of Kerberos *(1899)*](cdn:/9a5004a6c2a0202b8cf9dc6b64ef1f14aded6918e0db8dbd342e650ab28af491)
 
 I also watched the first season of *Wednesday*, which follows the story of Wednesday Addams. I did not have a lot of background on the Addams Family story, but I enjoyed the execution and storyline. Also looking for the next seasons.
 

@@ -20,7 +20,7 @@ As usual, I am going to talk a bit about a few categories and for each I will gi
 
 During 2023, this website has suffered quite some changes, but not necessarily visible to you, the reader. I've talked about most of them in my ["Recently"](/now/) posts. I want to highlight that this past month, during Christmas, I gave my website a little bit of a 💄 makeover, making it slightly more festive.
 
-![Website With Christmas Decorations](cdn:/2023-12-christmas-website?class=fw)
+![Website With Christmas Decorations](cdn:/2023-12-christmas-website)
 
 I think the largest and most impactful decision was to go back to using [Hugo](/2023/06/13/farewell-eagle-kinda-hello-hugo/). This is a decision that I believe will remain stable for the foreseeable future. However, that is something that I've likely said before, so, who knows? I've also [open-sourced](/2023/11/18/open-sourcering-my-website/) my website's source code, as well as improved my [IndieWeb Go libraries](/2023/11/10/updates-on-indieweb-go-libraries/).
 

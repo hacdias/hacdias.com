@@ -10,7 +10,6 @@ This is a portrait of mine done by Gonçalo Dias sometime in 2019 as a gift. Can
 
 <style>
 .gd-frame {
-  border: 0.5rem solid var(--fg);
   max-width: 20rem;
 }
 </style>

@@ -23,7 +23,7 @@ All in all, the largest change was that I ended up removing ActivityPub support 
 
 In the beginning of the month, I went to Helmond to get some Portuguese treats. On the same day, I visited the [Kasteel Helmond](https://museumhelmond.nl/kasteel-helmond/) 🏰, which is also known as the "Sinterklaas Kasteel". It was a cute and nice visit, albeit a bit strange because a wedding was almost starting an we did not know about it. Oops.
 
-<div class='fg fw' style='grid-template-columns: repeat(4,1fr);'>
+<div class='fg' style='grid-template-columns: repeat(4,1fr);'>
 
 ![](cdn:/2023-02-helmond-01 "Inside of a Chorizo Bread")
 

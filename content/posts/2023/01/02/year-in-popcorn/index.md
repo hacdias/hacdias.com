@@ -26,7 +26,7 @@ In 2022, I am aware I watched many things, especially TV shows. To say the truth
 
 The first thing I watched in 2022 was Episode 2 of Season 2 of **Travelers**, on the 1st of January at 11:22 in the morning; while the last thing I watched was Episode 10 of Season 3 of **Emily in Paris**, on the 30th of December at 22:00 in the evening.
 
-![Agence Grateau in Emily in Paris (Season 3)](https://cdn.hacdias.com/media/f65b3761aafd75b872da241fe91fe5c61ec0a53d22d979f3f6a009f1b8ad7589.webp?class=fw)
+![Agence Grateau in Emily in Paris (Season 3)](https://cdn.hacdias.com/media/f65b3761aafd75b872da241fe91fe5c61ec0a53d22d979f3f6a009f1b8ad7589.webp)
 
 ## 🎬 Movies
 

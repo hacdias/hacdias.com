@@ -13,4 +13,4 @@ In July 2017, something unexpected happened: I opened the trending page on the G
 
 At the time, that allowed the project to go from around 200 stars to over 700 during that week. Nowadays, this project I started long ago has over 22k GitHub stars ⭐️. Despite no longer maintaining it, I'm grateful to the current maintainers for continuing the project.
 
-![](/2024/01/12/trending-filebrowser/screenshot.jpeg?class=fw "Screenshot of GitHub Trending Page")
+![](/2024/01/12/trending-filebrowser/screenshot.jpeg "Screenshot of GitHub Trending Page")
