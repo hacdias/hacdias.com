@@ -13,7 +13,7 @@ This website contains more things than it looks at first glance. This page conta
 - [🚀 Impossible List](/impossible-list/)
 - [📚 Readings](/readings/)
 - [🎓 Resume](/resume/)
-- [🚆 Trips](/trips/)
+- [🌍 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
 {.terms #more-list}
