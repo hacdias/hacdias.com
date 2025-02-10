@@ -12,9 +12,3 @@ photos:
 ---
 
 Some sheep found roaming the fields of the [Stratumse Heide](https://nl.wikipedia.org/wiki/Stratumse_Heide).
-
-<style>
-.fg-2024-09-21-stratumse-sheeps {
-  grid-template-columns: repeat(1, 1fr);
-}
-</style>
