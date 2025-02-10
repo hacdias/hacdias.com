@@ -2,7 +2,7 @@
 title: Open Sourcering My Website
 date: 2023-11-18T11:17:52+01:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2023-11-noisy-glow
 syndication:
   - https://fosstodon.org/@hacdias/111431044010749799

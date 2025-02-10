@@ -2,7 +2,7 @@
 title: Accent Guesser
 date: 2024-12-20T14:17:36+01:00
 categories:
-  - articles
+  - writings
 tags:
   - artificial intelligence
   - machine learning

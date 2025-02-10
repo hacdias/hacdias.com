@@ -2,7 +2,7 @@
 title: Thoughts After One Month Working On-site
 date: 2024-07-09T21:04:07+02:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/112758171014792096
 tags:

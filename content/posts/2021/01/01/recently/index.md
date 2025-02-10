@@ -4,7 +4,7 @@ date: 2021-01-01T08:00:00+01:00
 aliases:
   - /2021/01/01/december-2020/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

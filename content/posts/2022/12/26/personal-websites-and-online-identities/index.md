@@ -2,7 +2,7 @@
 title: Thoughts on Personal Websites and Online Identities
 date: 2022-12-26T12:33:09.201511323+01:00
 categories:
-  - articles
+  - writings
 tags:
   - indieweb
   - personal website

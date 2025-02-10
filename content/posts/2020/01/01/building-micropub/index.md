@@ -2,7 +2,7 @@
 title: Adding Support for Micropub Endpoint
 date: 2020-01-01T23:30:00Z
 categories:
-  - articles
+  - writings
 syndication:
   - https://twitter.com/hacdias/status/1212517049035038720
 tags:

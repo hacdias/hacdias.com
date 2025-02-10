@@ -2,7 +2,7 @@
 title: A Decade of Blogging
 date: 2024-07-12T12:58:10.081545086+02:00
 categories:
-  - articles
+  - writings
 tags:
   - meta
   - milestones

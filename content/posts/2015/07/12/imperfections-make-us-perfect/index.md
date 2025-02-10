@@ -3,7 +3,7 @@ title: Imperfections Make Us Perfect
 description: I was thinking about why there are people who think we are perfect. This is a little reflexion about it and about those people.
 date: 2015-07-12T13:45:00Z
 categories:
-  - articles
+  - writings
 tags:
   - creative
   - reflection

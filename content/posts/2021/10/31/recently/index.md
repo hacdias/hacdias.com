@@ -5,7 +5,7 @@ lastmod: 2021-10-31T19:05:34.938609263Z
 aliases:
   - /2021/10/31/october-2021/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

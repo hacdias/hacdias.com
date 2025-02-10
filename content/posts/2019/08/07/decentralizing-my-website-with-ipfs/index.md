@@ -3,7 +3,7 @@ title: Decentralizing My Website With IPFS
 description: How does my website work with IPFS? Where does the content go? What happens when my website is accessed through HTTP? Here's a tale that explains of what happens.
 date: 2019-08-07T18:45:00Z
 categories:
-  - articles
+  - writings
 tags:
   - dns
   - ipfs

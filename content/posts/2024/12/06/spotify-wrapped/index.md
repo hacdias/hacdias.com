@@ -2,7 +2,7 @@
 title: Spotify Wrapped '24
 date: 2024-12-06T15:56:15+01:00
 categories:
-  - articles
+  - writings
 tags:
   - spotify wrapped
 ---

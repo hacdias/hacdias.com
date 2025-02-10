@@ -2,7 +2,7 @@
 title: 'RunGap: An End to Bosch''s Malformed FIT Files'
 date: 2024-06-21T08:10:28+02:00
 categories:
-  - articles
+  - writings
 tags:
   - cycling
   - data

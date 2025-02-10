@@ -2,7 +2,7 @@
 title: Parlamento dos Jovens
 date: 2024-01-12T22:02:51+01:00
 categories:
-  - articles
+  - writings
 tags:
   - debating
   - portugal

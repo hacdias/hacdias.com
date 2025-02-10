@@ -2,7 +2,7 @@
 title: Recently in February '24
 date: 2024-02-29T13:14:18+01:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2024-02-vienna-inception
 tags:
   - now

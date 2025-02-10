@@ -2,7 +2,7 @@
 title: Biking
 date: 2024-04-13T17:29:01.23507935+02:00
 categories:
-  - articles
+  - writings
 tags:
   - cycling
 ---

@@ -2,7 +2,7 @@
 title: Spotify Wrapped '23
 date: 2023-11-30T08:14:33+01:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111498275850620866
 tags:

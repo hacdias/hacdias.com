@@ -2,7 +2,7 @@
 title: Article Title
 date: {{ .Date }}
 categories:
-- articles
+- writings
 tags:
 - example
 ---

@@ -2,7 +2,7 @@
 title: On Getting Older and Belonging
 date: 2024-10-13T00:04:56.619584432+02:00
 categories:
-  - articles
+  - writings
 tags:
   - identity
   - personal growth

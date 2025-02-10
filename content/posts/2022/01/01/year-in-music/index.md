@@ -4,7 +4,7 @@ date: 2022-01-01T12:00:00+01:00
 aliases:
   - /2022/01/01/year-in-music-21/
 categories:
-  - articles
+  - writings
 tags:
   - year in music
 ---

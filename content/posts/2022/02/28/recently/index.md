@@ -4,7 +4,7 @@ date: 2022-02-28T09:49:52.675741749+01:00
 aliases:
   - /2022/02/28/february-22/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

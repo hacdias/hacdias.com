@@ -4,7 +4,7 @@ date: 2023-01-02T08:18:47.603761302+01:00
 aliases:
   - /2023/01/02/year-in-music-22/
 categories:
-  - articles
+  - writings
 tags:
   - spotify wrapped
   - year in music

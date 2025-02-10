@@ -3,7 +3,7 @@ title: Trying Out OVPay With Hermes and HTM
 date: 2022-11-04T21:10:23.500844088+01:00
 lastmod: 2022-11-05T08:36:49.865887742+01:00
 categories:
-  - articles
+  - writings
 tags:
   - infrastructure
   - transit

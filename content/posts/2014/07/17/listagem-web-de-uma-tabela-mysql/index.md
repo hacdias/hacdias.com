@@ -3,7 +3,7 @@ title: Listagem Web de Uma Tabela MySQL
 description: Como fazer a listagem de uma tabela MySQL com interface web, botões de navegação e limitação do número de linhas por página.
 date: 2014-07-17T14:51:56Z
 categories:
-  - articles
+  - writings
 language: pt
 tags:
   - html

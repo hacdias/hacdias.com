@@ -2,7 +2,7 @@
 title: Recently in January '25
 date: 2025-01-31T17:23:01+01:00
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

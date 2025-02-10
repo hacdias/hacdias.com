@@ -9,15 +9,15 @@
 
   {{- partialCached "post/content" . .Permalink -}}
 
-  {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "articles" "readings") -}}
-  <h2 id="freshly-planted"><a href='{{ relURL "/articles" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span><a></h2>
+  {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "writings" "readings") -}}
+  <h2 id="freshly-planted"><a href='{{ relURL "/writings" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span><a></h2>
   {{- template "index.items" (first 8 $pages) -}}
 
   <h2 id="freshly-captured"><a href='{{ relURL "/photos" }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
   {{- $photos := where .Site.RegularPages "Params.categories" "intersect" (slice "photos") -}}
   {{- template "index.photos" (first 8 $photos) -}}
 
-  <h2 id="favourite-articles">🌟 Favourite Articles</h2>
+  <h2 id="favourite-articles">🌟 Favourite Writings</h2>
   {{- $favoritePosts := slice -}}
   {{- range .Params.favoritePosts -}}
   {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}

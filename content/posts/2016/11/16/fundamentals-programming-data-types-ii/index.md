@@ -2,7 +2,7 @@
 title: 'Fundamentals of Programming #6: Data Types II'
 date: 2016-11-16T00:00:00Z
 categories:
-  - articles
+  - writings
 tags:
   - c
   - computer science

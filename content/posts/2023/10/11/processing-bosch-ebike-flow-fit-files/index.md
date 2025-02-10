@@ -2,7 +2,7 @@
 title: Processing Bosch's eBike Flow FIT Files
 date: 2023-10-11T15:37:37+02:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111218079645039127
 tags:

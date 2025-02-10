@@ -4,7 +4,7 @@ date: 2022-10-31T15:43:53.084541853+01:00
 aliases:
   - /2022/10/31/october-22/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

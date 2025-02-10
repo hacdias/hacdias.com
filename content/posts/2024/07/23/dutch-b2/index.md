@@ -2,7 +2,7 @@
 title: Achieved Dutch Language Level B2
 date: 2024-07-23T19:11:38+02:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2024-07-staatsexamen-nt2-b2
 syndication:
   - https://fosstodon.org/@hacdias/112837460150479515

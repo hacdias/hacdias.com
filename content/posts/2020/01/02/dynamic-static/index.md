@@ -2,7 +2,7 @@
 title: Build a Dynamic Website… or Not?
 date: 2020-01-02T23:40:00Z
 categories:
-  - articles
+  - writings
 syndication:
   - https://twitter.com/hacdias/status/1212881805096996864
 tags:

@@ -2,7 +2,7 @@
 title: 'Fundamentals of Programming #2: Constants and Variables'
 date: 2016-11-11T00:00:00Z
 categories:
-  - articles
+  - writings
 tags:
   - computer science
   - computers

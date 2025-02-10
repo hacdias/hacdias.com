@@ -2,7 +2,7 @@
 title: Year in Review '23
 date: 2023-12-30T12:05:34+01:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111669062516638383
 tags:

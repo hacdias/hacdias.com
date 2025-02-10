@@ -4,7 +4,7 @@ date: 2023-11-08T12:06:51+01:00
 aliases:
   - /2023/11/08/app-defaults-late-2023/
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111374608169041824
 tags:

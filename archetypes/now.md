@@ -2,7 +2,7 @@
 title: "Recently in {{ now.Format "January" }} '{{ now.Format "06" }}"
 date: {{ .Date }}
 categories:
-- articles
+- writings
 tags:
 - now
 ---

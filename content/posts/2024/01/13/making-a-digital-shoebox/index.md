@@ -3,7 +3,7 @@ title: Making a Digital Shoebox
 date: 2024-01-13T10:37:33.757868696+01:00
 lastmod: 2025-02-04T19:48:32+01:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://news.indieweb.org/en
 tags:
@@ -26,6 +26,6 @@ From today - yesterday actually - on, I also have a digital shoebox here on my w
 
 When you open it - if you open it - you might recognise some links. Some of the things that now sit in my shoebox were linked before as "experiments". Others are brand new. I have added quite a few posts in the past two days after taking a few looks at my random directory, as well as other random places on my laptop.
 
-Maybe some of the posts I made yesterday could've actually gone into the [articles](/articles/) page. However, I did not really want to spam my few readers with way too many posts at once. Adding them to the articles page, if I ever want, is trivial. The other things, however, have really no clear place to go.
+Maybe some of the posts I made yesterday could've actually gone into the [articles](/writings/) page. However, I did not really want to spam my few readers with way too many posts at once. Adding them to the articles page, if I ever want, is trivial. The other things, however, have really no clear place to go.
 
 ~~Please check it out and let me know what you think!~~

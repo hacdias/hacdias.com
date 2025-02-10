@@ -2,7 +2,7 @@
 title: How to Effectively Backup Your Emails
 date: 2020-11-02T09:00:00+01:00
 categories:
-  - articles
+  - writings
 tags:
   - backup
   - e mail

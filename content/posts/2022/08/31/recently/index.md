@@ -4,7 +4,7 @@ date: 2022-08-31T21:26:26.008409953+02:00
 aliases:
   - /2022/08/31/august-22/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

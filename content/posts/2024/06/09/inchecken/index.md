@@ -2,7 +2,7 @@
 title: Vergeet niet om in te checken (VII)
 date: 2024-06-09T13:30:18+02:00
 categories:
-  - articles
+  - writings
 language: nl
 tags:
   - inchecken

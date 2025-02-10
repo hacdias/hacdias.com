@@ -2,7 +2,7 @@
 title: Mitigating Guestbook Spam
 date: 2024-05-10T12:21:52+02:00
 categories:
-  - articles
+  - writings
 tags:
   - meta
   - personal website

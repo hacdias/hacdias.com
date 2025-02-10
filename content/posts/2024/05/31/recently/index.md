@@ -2,7 +2,7 @@
 title: Recently in May '24
 date: 2024-05-31T15:02:01+02:00
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

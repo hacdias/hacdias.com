@@ -2,7 +2,7 @@
 title: Recently
 date: 2020-09-21T09:30:00+02:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://twitter.com/hacdias/status/1307946612258492418
 tags:

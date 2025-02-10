@@ -3,7 +3,7 @@ title: Wireguard VPN to Network Behind a CGNAT
 date: 2020-11-30T09:00:00+01:00
 lastmod: 2021-05-30T13:00:19.480977071Z
 categories:
-  - articles
+  - writings
 tags:
   - networking
   - wireguard

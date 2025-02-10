@@ -3,7 +3,7 @@ title: MVC na Linguagem PHP
 description: O modelo MVC é algo muito utilizado atualmente. Nesta primeira parte iremos explicar a estrutura base de uma aplicação MVC e criar o ficheiro principal
 date: 2014-12-18T22:55:34Z
 categories:
-  - articles
+  - writings
 language: pt
 tags:
   - php

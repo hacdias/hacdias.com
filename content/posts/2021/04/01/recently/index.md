@@ -4,7 +4,7 @@ date: 2021-04-01T07:30:00+02:00
 aliases:
   - /2021/04/01/march-2021/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

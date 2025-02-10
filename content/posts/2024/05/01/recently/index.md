@@ -2,7 +2,7 @@
 title: Recently in April '24
 date: 2024-05-01T19:05:02.52927284+02:00
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

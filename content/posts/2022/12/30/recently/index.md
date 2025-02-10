@@ -4,7 +4,7 @@ date: 2022-12-30T15:33:18.862779605+01:00
 aliases:
   - /2022/12/30/december-22/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---
@@ -19,7 +19,7 @@ I made quite a few updates over the last month to this website, both in terms of
 
 In terms of content, I split the "Food & Drinks" section again. Now I have a section for 🥘 Food and a section for 🧋 Drinks. I think this was the right decision. I want those to be a gallery-like view of things I ate and drunk, but not together. I may change how they are displayed in the future in order to be a grid-like setting.
 
-Inspired by [Tim's Logs](https://timharek.no/logs/), I updated my [📚 Readings](/readings), [🎬 Watches](/watches) and [✏️ Articles](/articles) pages. In addition, I created a new section, called [🚀 Trips](/trips). Each trip shows a listing of all the posts published during the trip. How neat is that?
+Inspired by [Tim's Logs](https://timharek.no/logs/), I updated my [📚 Readings](/readings), [🎬 Watches](/watches) and [✏️ Articles](/writings/) pages. In addition, I created a new section, called [🚀 Trips](/trips). Each trip shows a listing of all the posts published during the trip. How neat is that?
 
 Finally, I updated the way the [🗞️ Blogroll](/blogroll) is displayed to include the favicon of each website that I follow. This was inspired by Jim's [External Links](https://blog.jim-nielsen.com/about/external-links) page. Sadly, it uses an API from Google. However, I may end up proxying it and caching the results in the future.
 

@@ -2,7 +2,7 @@
 title: Which Well-Known Resources?
 date: 2023-08-24T16:25:03+02:00
 categories:
-  - articles
+  - writings
 tags:
   - meta
   - well known

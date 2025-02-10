@@ -4,7 +4,7 @@ date: 2023-05-01T13:35:00+02:00
 aliases:
   - /2023/05/01/april-23/
 categories:
-  - articles
+  - writings
 tags:
   - now
   - travel

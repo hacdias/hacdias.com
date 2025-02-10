@@ -4,7 +4,7 @@ description: Esta é a continuação do tutorial sobre como adicionar menus de a
 date: 2014-08-04T12:01:37Z
 lastmod: 2015-06-10T11:27:37Z
 categories:
-  - articles
+  - writings
 language: pt
 tags:
   - php

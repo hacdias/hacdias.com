@@ -2,7 +2,7 @@
 title: Engraving My Name in the Alumni Avenue
 date: 2022-11-23T09:07:14.207620219+01:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2022-11-msc-while-engraving
 location:
   country: Netherlands

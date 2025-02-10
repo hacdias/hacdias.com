@@ -2,7 +2,7 @@
 title: Trying ChatGPT for Code
 date: 2024-09-25T17:14:04+02:00
 categories:
-  - articles
+  - writings
 tags:
   - artificial intelligence
   - machine learning

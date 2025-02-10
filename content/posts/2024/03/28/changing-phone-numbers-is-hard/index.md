@@ -2,7 +2,7 @@
 title: Changing Phone Numbers Is Hard
 date: 2024-03-28T15:19:38.627026399+01:00
 categories:
-  - articles
+  - writings
 tags:
   - bureaucracy
   - government

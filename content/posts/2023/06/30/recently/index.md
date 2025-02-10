@@ -4,7 +4,7 @@ date: 2023-06-30T14:52:57+02:00
 aliases:
   - /2023/06/30/june-23/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---
@@ -17,7 +17,7 @@ June was a reasonably packed month: some times more eventful than others, but th
 
 During June, I made quite a lot of updates to my website. Some more visible than others. However, I think it's time to give you a small gist of what has happened. One of the things I updated was the [`humans.txt`](/humans.txt) to reflect more up to date information, which you also get by default when you `curl` my website.
 
-I removed and cleaned up a bunch. Started by removing some old micro posts that were tied only to some social media, such as Twitter, but eventually ended up removing quite a lot. What I thought was worth preserving, I gave a title and moved them under [✏️ Articles](/articles/). I did my best to ensure they return `410 Gone` for correctness.
+I removed and cleaned up a bunch. Started by removing some old micro posts that were tied only to some social media, such as Twitter, but eventually ended up removing quite a lot. What I thought was worth preserving, I gave a title and moved them under [✏️ Articles](/writings/). I did my best to ensure they return `410 Gone` for correctness.
 
 Still within the same topic, I removed the drinks and foods pages as they were painfully out of date and no longer relevant in my opinion. Nothing I would see myself maintaining in the future. With that being said, I cleaned up the Meta/Colophon page of this website and merged it under the [🧁 About](/about/) page.
 
