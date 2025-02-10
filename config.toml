@@ -16,7 +16,7 @@ summaryLength = 300
 
 [permalinks]
   tags = '/tags/:title/'
-  categories = '/:title/'
+  categories = '/:slug/'
   posts = '/:year/:month/:day/:filename/'
 
 [markup]
@@ -41,7 +41,7 @@ summaryLength = 300
   pageRef = '/contact'
   weight = 2
 [[menu.main]]
-  name = '✏️ Articles'
+  name = '✏️ Writings'
   pageRef = '/categories/articles'
   weight = 3
 [[menu.main]]
