@@ -22,7 +22,7 @@ In addition, 2024 marked the [10th anniversary 🥂](/2024/07/12/a-decade-of-blo
 
 ![Website Snapshot](cdn:/2024-12-website-snapshot?class=fw)
 
-When it comes to actually writing, I reached 61 posts, including this one. That's 18 more than last year. By reaching 61, I surpassed the goal I had set last year of 50, but I had forgotten about it anyways. Nice to see it has been reached. What I did not accomplish was to be more involved in the IndieWeb community.
+When it comes to actually writing, I reached 60 posts, including this one. That's 17 more than last year. By reaching 60, I surpassed the goal I had set last year of 50, but I had forgotten about it anyways. Nice to see it has been reached. What I did not accomplish was to be more involved in the IndieWeb community.
 
 **In 2025**, I plan on keeping writing on a schedule for the "Recently" posts. Maybe move them to be on a weekly fashion, just like some people I follow do. I think the issue with monthly is that I easily forgot what has happened, and do not give enough focus to the small things.
 

@@ -2,7 +2,7 @@
 title: When The Rice Isn't Right
 date: 2023-01-28T09:52:50.876860537+01:00
 categories:
-  - writings
+  - fragments
 location:
   country: Netherlands
   latitude: 51.44586

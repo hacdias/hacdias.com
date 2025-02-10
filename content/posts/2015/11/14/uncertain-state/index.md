@@ -3,7 +3,7 @@ title: Uncertain State
 description: 'Death. It''s the most heard word in the last days. Crime. And they say it was orders from their God. Who''s the God? '
 date: 2015-11-14T13:45:00Z
 categories:
-  - writings
+  - fragments
 tags:
   - creative
   - writing
