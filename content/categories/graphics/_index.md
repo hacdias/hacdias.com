@@ -1,3 +1,4 @@
 ---
 title: Graphics
+slug: graphics
 ---

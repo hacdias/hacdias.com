@@ -23,7 +23,7 @@ This website contains more things than it looks at first glance. This page conta
 This website provides Atom and JSON feeds for the home page, which combines articles, photos, and book reviews, as well as for each one of the sections, individually. Your feed reader should be able to pick up the feed URL. If it doesn't, you can use the following URLs:
 
 - **Home**: [Atom](/feed.xml), [JSON](/feed.json).
-- **Articles**: [Atom](/articles/feed.xml), [JSON](/articles/feed.json).
+- **Writings**: [Atom](/articles/feed.xml), [JSON](/articles/feed.json).
 - **Photos**: [Atom](/photos/feed.xml), [JSON](/photos/feed.json).
 - **Readings**: [Atom](/readings/feed.xml), [JSON](/readings/feed.json).
 
