@@ -17,7 +17,7 @@ January was somewhat of a prolific month when it came to writing articles, espec
 
 ![Photos Archive Gallery](cdn:/2024-01-photos-archive?class=fw)
 
-During January I've also created a [digital shoebox](/2024/01/13/making-a-digital-shoebox/), where I also added new content that I didn't use to have online. I am happy I did it. It's a nice place to throw some things that I want to publish, but have no clear place of where they should go. In other news, I also added an "archive" view to my [photos](/photos/) and [graphics](/graphics/) pages.
+During January I've also created a [digital shoebox](/2024/01/13/making-a-digital-shoebox/), where I also added new content that I didn't use to have online. I am happy I did it. It's a nice place to throw some things that I want to publish, but have no clear place of where they should go. In other news, I also added an "archive" view to my [photos](/photos/) and graphics pages.
 
 ## 🍄 Life {#life}
 

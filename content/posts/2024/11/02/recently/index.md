@@ -33,7 +33,7 @@ If you're interested, here's a short changelog:
 - The homepage now shows more articles and photos.
 - The XML sitemaps and feeds are [now styled](/2024/10/23/styled-rss-feeds/).
 
-I'm also considering deleting my shoebox and redistribute the things there across other categories. Similarly, I feel like the [graphics](/graphics/) category is also a bit odd, and doesn't really have a place. Maybe the "graphics" should just be moved into the shoebox. Or maybe I should just have a general "other posts that I don't think fit anywhere else"-category. But isn't that what the shoebox is for?
+I'm also considering deleting my shoebox and redistribute the things there across other categories. Similarly, I feel like the graphics category is also a bit odd, and doesn't really have a place. Maybe the "graphics" should just be moved into the shoebox. Or maybe I should just have a general "other posts that I don't think fit anywhere else"-category. But isn't that what the shoebox is for?
 
 ## 🍄 Life {#life}
 

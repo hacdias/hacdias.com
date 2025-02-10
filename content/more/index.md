@@ -9,7 +9,7 @@ This website contains more things than it looks at first glance. This page conta
 
 - [🔖 Bookmarks](/bookmarks/)
 - [🗞️ Blogroll](/blogroll/)
-- [🖼️ Graphics](/graphics/)
+- [💠 Fragments](/fragments/)
 - [🚀 Impossible List](/impossible-list/)
 - [📚 Readings](/readings/)
 - [🎓 Resume](/resume/)
