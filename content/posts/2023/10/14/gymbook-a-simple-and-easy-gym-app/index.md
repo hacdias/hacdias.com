@@ -26,7 +26,7 @@ Since I use an Apple Watch to track my workouts, I thought: there must be apps t
 After some experimentation, I found [GymBook](https://www.gymbookapp.com/), an app that seems to be developed by some folks in Germany. There's a free version, but you can also pay around 9 EUR as a one-time fee to unlock the remaining features, which I did. I'm usually not opposed to paying for something like this, as it is useful and it's great to somehow support the developers.
 
 
-<figure class='fw'>
+<figure>
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 

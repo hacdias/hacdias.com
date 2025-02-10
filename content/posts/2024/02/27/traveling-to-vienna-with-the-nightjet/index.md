@@ -18,7 +18,7 @@ Over the past days, my partner and I did a small trip to Vienna - and also Brati
 
 We booked the Nightjet with some months of advance for our trip from Utrecht to Vienna. It was quite a nice trip, but it had its own rough edges. We arrived in Utrecht, as planned, with too much time to spare. Once the train arrived, already 10 minutes too late, from Amsterdam, we jumped in and got into the compartment we had booked.
 
-<div class='fg fw' style='grid-template-columns: repeat(3,1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3,1fr);'>
 
 ![In-suite Sink](cdn:/2024-02-nightjet-to-vienna-01)
 
@@ -38,7 +38,7 @@ Other than that, the train was nice, clean enough. The toilet had its own smells
 
 On the way back, it was better. We arrived also with a delay, but not of three hours: "only" 45 minutes. I'm still not sure where we got the delay, but it happened. We also got provided with breakfast a bit too late. Not sure why. The attendant said he'd bring the breakfast within 5 minutes. 30 minutes later we asked him again, and some 20 minutes after he brought it in.
 
-<div class='fg fw' style='grid-template-columns: repeat(3,1fr);'>
+<div class='fg' style='grid-template-columns: repeat(3,1fr);'>
 
 ![Corridor](cdn:/2024-02-nightjet-from-vienna-01)
 

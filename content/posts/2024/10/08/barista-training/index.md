@@ -27,7 +27,7 @@ A few weeks ago I was looking at Lucifer's website to check their beans and saw 
 
 The training was located at their headquarters where they roast their beans. Apparently they're also open during the weekdays as an almost regular café. From what I understand, the difference from the HQ and the actual cafés is that they only serve coffee there. The training was in the morning and we were only 4 people, so it was quite 1-on-1.
 
-![Cupping Session](cdn:/2024-10-cupping?class=fw)
+![Cupping Session](cdn:/2024-10-cupping)
 
 We started with a *cupping* session, where we tried different coffee beans that had been processed in different ways: washed, natural, honey, decaf and a darker blend of different coffees. When it comes to hands on experience, we had the opportunity to use an industry grade espresso machine and grinder to make a few drinks. 
 

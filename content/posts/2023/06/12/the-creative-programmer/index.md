@@ -28,7 +28,7 @@ he offered a copy of his most recent book, *The Creative Programmer*. I was one 
 lucky ones that received one of the copies. The title was quite enticing. However,
 the book was different than what I expected... in a positive way!
 
-![The Creative Programmer](cdn:/2023-06-the-creative-programmer?class=fw)
+![The Creative Programmer](cdn:/2023-06-the-creative-programmer)
 
 I expected the book to be more technical, which it wasn't. There's no reason why this
 book had to be technical. I think perhaps the word "programmer" led by brain to put

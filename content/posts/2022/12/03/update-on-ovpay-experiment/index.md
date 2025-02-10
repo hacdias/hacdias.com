@@ -14,7 +14,7 @@ In the beginning of last month, I [wrote](/2022/11/04/trying-out-ovpay) a post a
 
 On the last post, I mentioned that one of the payments failed to be debited from my account. It finally got debited from my account successfully. However, the transaction is marked with a different type from the others. Instead of "Pinbetaling" (card payment), it says "Overschrijving" (transfer). I'm not exactly sure how this things are processed on the backend, but there's clearly a difference that is likely related to the first payment failing.
 
-<figure class='right' style='max-width: 10rem'>
+<figure class='right' style='max-width: 15rem'>
   <video controls>
     <source src="https://cdn.hacdias.com/media/066fd94fa45496b612de4dcdaac986bf4429f6984892b977c1080f02494981ed.mp4" type="video/mp4">
   </video>

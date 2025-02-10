@@ -77,7 +77,7 @@ Everything looked fine. I connected Home Assistant to InfluxDB and it started sp
 
 The Eve Rooms provide temperature, relative humidity and air quality, while the Eve Weather provides the first two and also air pressure. I let everything run since 13h yesterday until now in order to gather more data and be certain if there are some problems or not. Let's take a look.
 
-![Dashboard Since Beginning](cdn:/2024-01-grafana-home?class=fw)
+![Dashboard Since Beginning](cdn:/2024-01-grafana-home)
 
 On the dashboard, you can see all the data since the beginning of the experiment. You may have already noticed: some graphs look relatively normal, such as "Volatile Organic Compound Density" of the Living Room. It has a lot of data points. Others however, look extremely boxy.
 
@@ -85,7 +85,7 @@ I checked the data directly in Home Assistant, and the result is similar. From w
 
 And another question for example: why does the Living Room report the air quality so often but rarely updates the temperature and humidity? Why do none of them report data in a consistent, regular, interval?
 
-![Dashboard With Last 6 Hours](cdn:/2024-01-grafana-home-6h?class=fw)
+![Dashboard With Last 6 Hours](cdn:/2024-01-grafana-home-6h)
 
 Looking at the screenshot above, the problem is more clear. In the last 6 hours there's simply no temperature data from the bedroom, but the other metrics got updated. I really doubt the temperature in the balcony hasn't changed even .01 during the whole night. I checked in Home Assistant: indeed the last metric for the temperature came on yesterday. I'm sorry, but that's simply not correct. The display from the sensor even shows a different temperature!
 

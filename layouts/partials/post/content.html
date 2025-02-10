@@ -31,7 +31,7 @@
       {{ $slug = strings.Replace $slug "/" "-" }}
 
       {{ if gt (len .Params.photos) 1 }}
-        <div class='fw fg fg-{{ $slug }}'>
+        <div class='fg fg-{{ $slug }}'>
         {{ range .Params.photos }}
           {{ partial "helpers/figure" (dict
             "Destination" .url
@@ -46,7 +46,6 @@
         {{ partial "helpers/figure" (dict
           "Destination" $photo.url
           "Title" $photo.title
-          "Class" "fw"
           "IsBlock" true
           "Page" $.Page
         )}}

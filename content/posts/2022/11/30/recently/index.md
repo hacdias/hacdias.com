@@ -17,13 +17,13 @@ We got the keys 🗝️ for the new apartment on the 8th of November. So far, so
 
 A few days later, I went to Amsterdam to see Tove Lo live, which was quite amazing. Just like what happened when I went to see MØ, I didn't know that many songs from Tove Lo. However, I am now addicted to them. She has some very nice songs that I would recommend if you like the genre.
 
-![Dirt Femme Tour](cdn:/e945853a35d738b002ce45464f90c13c4bd0a51bdcc7687eb762333da6922ce2?class=fw)
+![Dirt Femme Tour](cdn:/e945853a35d738b002ce45464f90c13c4bd0a51bdcc7687eb762333da6922ce2)
 
 Not long after, I went back to Amsterdam, but this time to see the live performance of Trixie & Katya. It was eye-conic. Lots of fun, quite unexpected and incomprehensible. A bit more scripted than I wish. Nevertheless, it was very very good. Both the concert and the show were very nice and I'm very grateful for going to both.
 
 Around the same time we got the keys, the [GLOW Festival](https://gloweindhoven.nl/) happened in Eindhoven. The GLOW Festival is a light festival that usually happens every year in November in Eindhoven. They brought back the walking route, since there are no more Covid-19 restrictions this year. It was quite nice. [Sebastiaan](https://seblog.nl/) joined for a walk with Chris and I and we got some nice oliebollen, as well as glühwein 🍷.
 
-<div class="fw fg">
+<div class="fg">
   
 ![](cdn:/595d894a8a558a273e5a9bfe656c2052f309ee52763f478756b43d4b0e15e827 "GLOW Festival Butterflies")
 
@@ -35,7 +35,7 @@ Then, my parents visited me in The Netherlands for the first time. It was actual
 
 While my parents were here, I had my graduation 🎓 ceremony, where I dressed some slightly more fancy clothes to [receive](/2022/11/25/msc-graduation-ceremony) my diploma. During the graduation, my supervisor also made a little speech that left me... speechless - pun intended. I also had the opportunity to [engrave](/2022/11/23/engraving-name-alumni-avenue) my name in glass, which I never expected to do in my life. It was quite an experience 🥽.
 
-<div class="fw fg" style="grid-template-columns: repeat(3, 1fr);">
+<div class="fg" style="grid-template-columns: repeat(3, 1fr);">
   
 ![](cdn:/0e7f71af8859274ffe33f9d0db714a975a72c88e82b2233b5822d14bf1765cfe "Parents at GLOW Festival")
 
