@@ -2,7 +2,7 @@
 title: Dekate Mousa's Lustrum Exhibition
 date: 2022-06-07T09:51:13.74567452+02:00
 categories:
-  - writings
+  - fragments
 coverImage: cdn:/2022-06-dm-photo-1
 location:
   country: Netherlands
@@ -10,6 +10,12 @@ location:
   locality: Eindhoven
   longitude: 5.48616
   region: North Brabant
+photos:
+  - url: cdn:/2022-06-dm-photo-1
+  - url: cdn:/2022-06-dm-photo-2
+  - url: cdn:/2022-06-dm-photo-3
+  - url: cdn:/2022-06-dm-eating
+  - url: cdn:/2022-06-dm-instant
 syndication:
   - https://twitter.com/hacdias/status/1534206131781902336
   - https://twitter.com/hacdias/status/1534206138077655040
@@ -18,32 +24,18 @@ tags:
 ---
 
 <style>
-.grid-2022-hlrrfoveli {
+.fg-2022-06-07-dm-lustrum-exhibition {
   grid-template-columns: repeat(6, 1fr);
   grid-template-areas:
     "a a b b c c"
     "d d d e e e";
 }
 
-.grid-2022-hlrrfoveli > *:nth-child(1) { grid-area: a; }
-.grid-2022-hlrrfoveli > *:nth-child(2) { grid-area: b; }
-.grid-2022-hlrrfoveli > *:nth-child(3) { grid-area: c; }
-.grid-2022-hlrrfoveli > *:nth-child(4) { grid-area: d; }
-.grid-2022-hlrrfoveli > *:nth-child(5) { grid-area: e; }
+.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(1) { grid-area: a; }
+.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(2) { grid-area: b; }
+.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(3) { grid-area: c; }
+.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(4) { grid-area: d; }
+.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(5) { grid-area: e; }
 </style>
 
 A few days ago, we had the Lustrum Gala of Dekate Mousa, the photography association and it was a very nice experience! During the gala, we all had the opportunity to see the Lustrum Exhibition! Today at 8pm, the exhibition officially opens for the public at the [CKE](https://cke.nl/) in Eindhoven. I'm so proud to have 3 of my pictures hanging there, even though it's such a small thing. If you are in Eindhoven during this and next week, don't hesitate! It's free and there's very very very nice works.
-
-<div class="fw grid-2022-hlrrfoveli fg">
-
-![](cdn:/2022-06-dm-photo-1)
-
-![](cdn:/2022-06-dm-photo-2)
-
-![](cdn:/2022-06-dm-photo-3)
-
-![](cdn:/2022-06-dm-eating)
-
-![](cdn:/2022-06-dm-instant)
-
-</div>
