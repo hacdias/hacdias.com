@@ -2,7 +2,7 @@
 title: Attempt at Visualizing Eve Room (and Weather) Metrics in Grafana
 date: 2024-01-21T09:14:45.594135506+01:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111805226174007741
 tags:

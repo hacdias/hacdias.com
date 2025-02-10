@@ -2,7 +2,7 @@
 title: Bike Thieves
 date: 2024-04-01T10:12:26.315459203+02:00
 categories:
-  - articles
+  - writings
 tags:
   - cycling
   - theft

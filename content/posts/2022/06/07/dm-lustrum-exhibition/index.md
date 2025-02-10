@@ -2,7 +2,7 @@
 title: Dekate Mousa's Lustrum Exhibition
 date: 2022-06-07T09:51:13.74567452+02:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2022-06-dm-photo-1
 location:
   country: Netherlands

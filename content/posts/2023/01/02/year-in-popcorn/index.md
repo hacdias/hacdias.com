@@ -4,7 +4,7 @@ date: 2023-01-02T14:49:00+01:00
 aliases:
   - /2023/01/02/year-in-popcorn-22/
 categories:
-  - articles
+  - writings
 tags:
   - year in popcorn
 ---

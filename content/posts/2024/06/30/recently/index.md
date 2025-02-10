@@ -2,7 +2,7 @@
 title: Recently in June '24
 date: 2024-06-30T11:06:35.962137626+02:00
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

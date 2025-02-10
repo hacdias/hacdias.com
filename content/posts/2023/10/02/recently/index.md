@@ -4,7 +4,7 @@ date: 2023-10-02T09:18:20+02:00
 aliases:
   - /2023/10/02/september-23/
 categories:
-  - articles
+  - writings
 tags:
   - now
   - travel

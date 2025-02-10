@@ -2,7 +2,7 @@
 title: Find Visible Segments by Sweeping Lines
 date: 2020-11-16T09:00:00+01:00
 categories:
-  - articles
+  - writings
 tags:
   - algorithms
   - computer science

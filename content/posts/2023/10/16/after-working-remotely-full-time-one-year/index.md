@@ -2,7 +2,7 @@
 title: After Working Remotely Full Time for One Year
 date: 2023-10-16T07:50:45+02:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111243133168425921
 tags:

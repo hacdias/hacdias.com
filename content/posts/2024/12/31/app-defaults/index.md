@@ -2,7 +2,7 @@
 title: App Defaults in Late '24
 date: 2024-12-31T10:00:00+01:00
 categories:
-  - articles
+  - writings
 tags:
   - app defaults
 ---

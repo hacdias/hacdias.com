@@ -4,7 +4,7 @@ date: 2021-02-01T09:00:00+01:00
 aliases:
   - /2021/02/01/lessons-moving-during-pandemic/
 categories:
-  - articles
+  - writings
 tags:
   - masters
   - now

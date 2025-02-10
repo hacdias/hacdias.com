@@ -3,7 +3,7 @@ title: Visiting Aachen's Christmas Market
 date: 2022-12-22T12:09:21.546767547+01:00
 lastmod: 2022-12-22T12:50:03.325284514+01:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5
 location:
   country: Netherlands
@@ -15,8 +15,6 @@ tags:
   - christmas
   - travel
 ---
-
-
 
 Last weekend, Christiaan and I went to the Christmas Market in Aachen. The first time I went to a Christmas Market was in 2019, in Zurich, during a work trip. Until then, I did not even know that Christmas Markets were a thing. Since moving to The Netherlands, I've been wanting to visit one of these magical markets, but, unfortunately, Covid-19 made that impossible. Fortunately, last weekend we made that wish come true.
 

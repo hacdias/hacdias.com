@@ -2,7 +2,7 @@
 title: Visiting Köln's Christmas Markets
 date: 2023-12-05T13:05:34.717151568+01:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2023-12-koln-rudolfplatz
 syndication:
   - https://fosstodon.org/@hacdias/111527722896952176

@@ -2,7 +2,7 @@
 title: Recently in October '24
 date: 2024-11-02T11:02:03+01:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2024-10-fuengirola
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3l7xgqj5nal2l

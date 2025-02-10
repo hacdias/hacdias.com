@@ -2,7 +2,7 @@
 title: Taking an Indefinite Break From Dutch Classes
 date: 2024-07-04T20:00:00+02:00
 categories:
-  - articles
+  - writings
 tags:
   - dutch
   - language learning

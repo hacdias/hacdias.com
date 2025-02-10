@@ -2,7 +2,7 @@
 title: Moving to Fastmail
 date: 2024-01-02T17:54:54.613633361+01:00
 categories:
-  - articles
+  - writings
 tags:
   - e mail
   - infrastructure

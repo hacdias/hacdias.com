@@ -2,7 +2,7 @@
 title: IRC Bouncer Setup With Soju, Gamja, Caddy and Docker
 date: 2023-12-24T12:33:29Z
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111635436784320724
 tags:

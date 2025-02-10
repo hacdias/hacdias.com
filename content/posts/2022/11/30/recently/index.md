@@ -4,7 +4,7 @@ date: 2022-11-30T17:17:47.424154742+01:00
 aliases:
   - /2022/11/30/november-22/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

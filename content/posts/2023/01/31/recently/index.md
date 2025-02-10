@@ -4,7 +4,7 @@ date: 2023-01-31T21:35:03.498669637+01:00
 aliases:
   - /2023/01/31/january-23/
 categories:
-  - articles
+  - writings
 tags:
   - now
   - travel

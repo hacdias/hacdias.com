@@ -2,7 +2,7 @@
 title: 'Fundamentals of Programming #4: Language C'
 date: 2016-11-14T00:00:00Z
 categories:
-  - articles
+  - writings
 tags:
   - c
   - computer science

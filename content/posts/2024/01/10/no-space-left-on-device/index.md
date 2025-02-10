@@ -2,7 +2,7 @@
 title: No Space Left on Device
 date: 2024-01-10T08:32:22.839532429+01:00
 categories:
-  - articles
+  - writings
 tags:
   - docker
   - maintenance

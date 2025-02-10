@@ -4,7 +4,7 @@ date: 2024-02-08T09:24:48+01:00
 aliases:
   - /2024/02/08/vergeet-niet-om-in-te-checken-nieuwe-lessen/
 categories:
-  - articles
+  - writings
 language: nl
 tags:
   - inchecken

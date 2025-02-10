@@ -2,7 +2,7 @@
 title: Styling My RSS Feeds
 date: 2024-10-23T16:53:51+02:00
 categories:
-  - articles
+  - writings
 tags:
   - rss
   - personal website

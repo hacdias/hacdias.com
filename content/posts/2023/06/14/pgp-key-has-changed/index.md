@@ -2,7 +2,7 @@
 title: My PGP Key Has Changed
 date: 2023-06-14T16:22:58.390314618+02:00
 categories:
-  - articles
+  - writings
 tags:
   - meta
   - security

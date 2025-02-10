@@ -2,7 +2,7 @@
 title: Navigating My Dutch Learning Journey
 date: 2023-10-18T08:12:05+02:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111254553482769587
 tags:

@@ -4,7 +4,7 @@ date: 2023-10-31T15:46:51+01:00
 aliases:
   - /2023/10/31/october-23/
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111330175944628078
 tags:

@@ -4,7 +4,7 @@ date: 2023-12-07T16:29:44+01:00
 aliases:
   - /2023/12/07/vergeet-niet-om-in-te-checken-het-begin/
 categories:
-  - articles
+  - writings
 language: nl
 syndication:
   - https://fosstodon.org/@hacdias/111550570083991986

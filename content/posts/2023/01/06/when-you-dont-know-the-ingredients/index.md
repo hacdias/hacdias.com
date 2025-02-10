@@ -2,7 +2,7 @@
 title: When You Don't Know the Ingredients
 date: 2023-01-06T22:15:23.150895986+01:00
 categories:
-  - articles
+  - writings
 location:
   country: Netherlands
   latitude: 51.44581

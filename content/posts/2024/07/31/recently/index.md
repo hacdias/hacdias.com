@@ -2,7 +2,7 @@
 title: Recently in July '24
 date: 2024-07-31T22:00:13.963618485+02:00
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

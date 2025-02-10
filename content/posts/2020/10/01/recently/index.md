@@ -4,7 +4,7 @@ date: 2020-10-01T09:00:00+02:00
 aliases:
   - /2020/10/01/september-2020/
 categories:
-  - articles
+  - writings
 syndication:
   - https://twitter.com/hacdias/status/1311562183856320512
 tags:

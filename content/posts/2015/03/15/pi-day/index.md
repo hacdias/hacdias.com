@@ -6,7 +6,7 @@ noIndex: true
 aliases:
   - /2015/03/15/pi-day-2015/
 categories:
-  - articles
+  - writings
 language: pt
 syndication:
   - https://www.youtube.com/watch?v=AtwPGZ9VioE

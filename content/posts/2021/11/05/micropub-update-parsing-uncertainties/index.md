@@ -2,7 +2,7 @@
 title: Micropub Update Parsing Uncertainties
 date: 2021-11-05T13:14:32.567880752Z
 categories:
-  - articles
+  - writings
 tags:
   - indieweb
   - meta

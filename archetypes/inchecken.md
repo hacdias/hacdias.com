@@ -3,7 +3,7 @@ title: 'Vergeet niet om in te checken (NUM)'
 date: {{ .Date }}
 language: nl
 categories:
-- articles
+- writings
 tags:
 - inchecken
 - nederlands

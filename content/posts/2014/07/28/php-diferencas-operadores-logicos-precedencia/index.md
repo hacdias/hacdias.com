@@ -4,7 +4,7 @@ description: Depois de publicar um artigo sobre as diferenças entre os operador
 date: 2014-07-28T11:00:32Z
 lastmod: 2015-06-10T15:01:00Z
 categories:
-  - articles
+  - writings
 language: pt
 tags:
   - php

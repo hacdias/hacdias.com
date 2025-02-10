@@ -3,7 +3,7 @@ title: Apresentação
 description: Uma pequena apresentação sobre o blog e sobre o que quero fazer com ele. Quem sou eu? Que escreverei neste blog? Saberás tudo ao ler!"
 date: 2014-07-12T14:05:48Z
 categories:
-  - articles
+  - writings
 language: pt
 tags:
   - meta

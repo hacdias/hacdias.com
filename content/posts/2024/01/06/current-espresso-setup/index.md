@@ -2,7 +2,7 @@
 title: My Current Espresso Setup
 date: 2024-01-06T10:44:47+01:00
 categories:
-  - articles
+  - writings
 tags:
   - coffee
   - espresso coffee

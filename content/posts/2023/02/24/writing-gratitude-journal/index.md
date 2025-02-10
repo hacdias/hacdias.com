@@ -2,7 +2,7 @@
 title: Writing a Gratitude Journal for Two Years
 date: 2023-02-24T11:18:11.90446707+01:00
 categories:
-  - articles
+  - writings
 tags:
   - reflection
   - second brain

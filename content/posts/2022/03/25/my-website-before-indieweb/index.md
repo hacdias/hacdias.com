@@ -2,7 +2,7 @@
 title: My Website Before IndieWeb
 date: 2022-03-25T11:37:59.907778246+01:00
 categories:
-  - articles
+  - writings
 tags:
   - meta
   - personal website

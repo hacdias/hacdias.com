@@ -4,7 +4,7 @@ description: 'Recently I''ve been wanting to try out more things in my life. And
 date: 2019-04-18T00:00:00Z
 lastmod: 2021-09-20T05:53:49.227871757Z
 categories:
-  - articles
+  - writings
 tags:
   - art
   - creative

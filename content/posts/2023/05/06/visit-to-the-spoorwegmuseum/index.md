@@ -2,7 +2,7 @@
 title: Visiting The Spoorwegmuseum
 date: 2023-05-06T22:22:09+02:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2023-05-spoorwegmuseum
 feedContentWarning: true
 syndication:

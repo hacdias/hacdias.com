@@ -4,7 +4,7 @@ date: 2023-07-31T16:30:01+02:00
 aliases:
   - /2023/07/31/july-23/
 categories:
-  - articles
+  - writings
 tags:
   - now
   - travel

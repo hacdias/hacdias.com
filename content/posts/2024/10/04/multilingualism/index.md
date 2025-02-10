@@ -2,7 +2,7 @@
 title: 'IndieWeb Carnival: Multilingualism in a Global Web'
 date: 2024-10-04T08:42:35.351682529+02:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://news.indieweb.org/en
 tags:

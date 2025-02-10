@@ -2,7 +2,7 @@
 title: Linking Reading Progress Together
 date: 2022-01-25T16:13:26.918597757Z
 categories:
-  - articles
+  - writings
 tags:
   - meta
 ---

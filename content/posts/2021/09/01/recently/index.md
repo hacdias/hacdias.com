@@ -4,7 +4,7 @@ date: 2021-09-01T05:26:04.534115889Z
 aliases:
   - /2021/09/01/august-2021/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

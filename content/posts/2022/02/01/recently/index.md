@@ -4,7 +4,7 @@ date: 2022-02-01T08:39:42.122462461+01:00
 aliases:
   - /2022/02/01/january-22/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

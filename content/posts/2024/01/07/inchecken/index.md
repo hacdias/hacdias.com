@@ -4,7 +4,7 @@ date: 2024-01-07T11:06:56+01:00
 aliases:
   - /2024/01/07/vergeet-niet-om-in-te-checken-nederlands-praten/
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2014-01-sneeuwpop-cupcakes
 language: nl
 syndication:

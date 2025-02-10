@@ -2,7 +2,7 @@
 title: Year in Review '24
 date: 2024-12-31T14:27:51+01:00
 categories:
-  - articles
+  - writings
 tags:
   - now
   - year in review

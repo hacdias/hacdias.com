@@ -2,7 +2,7 @@
 title: 'Talk: InterPlanetary Specifications'
 date: 2023-04-19T20:00:00Z
 categories:
-  - articles
+  - writings
 feedContentWarning: true
 syndication:
   - https://www.youtube.com/watch?v=vQVnjEIPuCE

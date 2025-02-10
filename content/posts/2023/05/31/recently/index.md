@@ -4,7 +4,7 @@ date: 2023-05-31T20:22:16.622538726+02:00
 aliases:
   - /2023/05/31/may-23/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

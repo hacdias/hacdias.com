@@ -2,7 +2,7 @@
 title: Long Term Review of NuPhy Air Keyboards
 date: 2024-09-29T12:24:08+02:00
 categories:
-  - articles
+  - writings
 coverPhoto: cdn:/2024-09-nuphy-air96
 tags:
   - hardware

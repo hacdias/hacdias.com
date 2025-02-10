@@ -2,7 +2,7 @@
 title: Year in Music '23
 date: 2024-01-03T16:07:51+01:00
 categories:
-  - articles
+  - writings
 tags:
   - year in music
 ---

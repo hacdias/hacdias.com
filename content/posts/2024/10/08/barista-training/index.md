@@ -2,7 +2,7 @@
 title: Home Barista Training
 date: 2024-10-08T07:51:14+02:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/2024-10-cupping
 syndication:
   - https://fosstodon.org/@hacdias/113270246172223056

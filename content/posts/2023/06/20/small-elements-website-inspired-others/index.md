@@ -2,7 +2,7 @@
 title: Small Elements From My Website Inspired by Others
 date: 2023-06-20T16:53:31.690771654+02:00
 categories:
-  - articles
+  - writings
 coverImage: cdn:/081ef31ac2089c38ae7eb7af440ee702af52e6e8b4bec8b5041ba3dc23755d4b
 syndication:
   - https://fosstodon.org/@hacdias/110597732852786375
@@ -18,7 +18,7 @@ Today I bring something not as conventional: a post about certain elements of my
 
 ## Sticky Year Header
 
-The first element of my website I am going to go over is the sticky headers. These sticky headers can be found in different pages. Usually, these pages present chronologically ordered content grouped by year, such as [✏️ Articles](/articles/), [🚆 Trips](/trips/) and [🎬 Watches](/watches/).
+The first element of my website I am going to go over is the sticky headers. These sticky headers can be found in different pages. Usually, these pages present chronologically ordered content grouped by year, such as [✏️ Articles](/writings/), [🚆 Trips](/trips/) and [🎬 Watches](/watches/).
 
 ![](cdn:/b6065a02e80ab58a126b66d6ea07625b8fcd14b88bee9ad526b1c8003355c7dd?class=fw)
 

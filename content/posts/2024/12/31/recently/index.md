@@ -2,7 +2,7 @@
 title: Recently in December '24
 date: 2024-12-31T12:30:00+01:00
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

@@ -2,7 +2,7 @@
 title: Reflections After a Year at the Gym
 date: 2024-06-29T18:01:46.899837505+02:00
 categories:
-  - articles
+  - writings
 tags:
   - gym
   - reflection

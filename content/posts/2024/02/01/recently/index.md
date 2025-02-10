@@ -2,7 +2,7 @@
 title: Recently in January '24
 date: 2024-02-01T09:53:09+01:00
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

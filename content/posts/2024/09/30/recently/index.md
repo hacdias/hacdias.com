@@ -2,7 +2,7 @@
 title: Recently in September '24
 date: 2024-09-30T20:42:02+02:00
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

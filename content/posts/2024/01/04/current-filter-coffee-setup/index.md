@@ -2,7 +2,7 @@
 title: My Current Filter Coffee Setup
 date: 2024-01-04T16:25:00+01:00
 categories:
-  - articles
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/111699023046664660
 tags:

@@ -3,7 +3,7 @@ title: Remover Hash Dos Links “Continuar a Ler”
 description: Por padrão, nos artigos do WordPress, quando se clica em "Ler mais", o utilizador é redirecionado para onde estava a ler. Aprenda a remover essa opção.
 date: 2014-07-14T13:36:38Z
 categories:
-  - articles
+  - writings
 language: pt
 tags:
   - php

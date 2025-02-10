@@ -4,7 +4,7 @@ date: 2022-06-01T16:08:21.646581771+02:00
 aliases:
   - /2022/06/01/may-22/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

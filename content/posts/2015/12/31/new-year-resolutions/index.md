@@ -5,7 +5,7 @@ date: 2015-12-31T12:00:00Z
 aliases:
   - /2015/12/31/new-year-resolutions-2016/
 categories:
-  - articles
+  - writings
 tags:
   - goals
   - reflection

@@ -4,7 +4,7 @@ date: 2023-08-31T09:50:11+02:00
 aliases:
   - /2023/08/31/august-23/
 categories:
-  - articles
+  - writings
 tags:
   - now
   - trains

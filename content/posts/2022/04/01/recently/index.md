@@ -4,7 +4,7 @@ date: 2022-04-01T11:07:43.482464122+02:00
 aliases:
   - /2022/04/01/march-22/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

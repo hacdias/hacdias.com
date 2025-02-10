@@ -4,7 +4,7 @@ date: 2021-12-02T07:10:51.478949723Z
 aliases:
   - /2021/12/02/november-2021/
 categories:
-  - articles
+  - writings
 tags:
   - now
 ---

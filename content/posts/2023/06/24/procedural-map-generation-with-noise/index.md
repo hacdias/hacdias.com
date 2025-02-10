@@ -5,7 +5,7 @@ date: 2023-06-24T09:17:30+02:00
 aliases:
   - /minisites/mapgen
 categories:
-  - articles
+  - writings
 coverImage: cdn:/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404
 feedContentWarning: true
 syndication:
