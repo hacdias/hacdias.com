@@ -361,6 +361,11 @@
       "feed": "https://schollz.com/index.xml"
     },
     {
+      "title": "amble.blog",
+      "site": "https://amble.blog",
+      "feed": "https://amble.blog/feed.xml"
+    },
+    {
       "title": "gRegor Morrill",
       "site": "https://gregorlove.com",
       "feed": "https://gregorlove.com/articles.atom"
