@@ -11,6 +11,7 @@ location:
   locality: Eindhoven
   longitude: 5.46174
   region: North Brabant
+wa-bookmark-of: https://web.archive.org/web/20250211173848/https://pointerpointer.com/
 ---
 
 This is a very random website where you can get stuck in for a while. It'll just get an image pointing to wherever you have your cursor. Quite crazy.
