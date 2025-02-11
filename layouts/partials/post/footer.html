@@ -44,16 +44,6 @@
       </li>
       {{ end }}
 
-      <li>
-        <strong>💬 Reply</strong>
-        <span>
-        <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
-        <a href="https://fosstodon.org/@hacdias" rel='noopener noreferrer'>Mastodon</a>,
-        <a href="https://bsky.app/profile/hacdias.com" rel='noopener noreferrer'>Bluesky</a>,
-        <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
-        </span>
-      </li>
-
       {{ with .Page.Params.syndication }}
       <li>
         <strong>🌐 Also on</strong>
@@ -68,6 +58,16 @@
         </span>
       </li>
       {{ end }}
+
+      <li>
+        <strong>💬 Reply</strong>
+        <span>
+        <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
+        <a href="https://fosstodon.org/@hacdias" rel='noopener noreferrer'>Mastodon</a>,
+        <a href="https://bsky.app/profile/hacdias.com" rel='noopener noreferrer'>Bluesky</a>,
+        <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
+        </span>
+      </li>
     </ul>
   </footer>
 {{ end }}
