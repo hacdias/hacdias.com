@@ -10,7 +10,7 @@
 {{ else }}
   {{ if eq (len .Entries) 0 }}
     <div class='box'>
-      <p>🤔 Searched and searched, but nothing could be found!</p>
+      <p>👀 Searched and searched, but nothing could be found!</p>
     </div>
   {{ else }}
     {{ range .Entries }}
@@ -20,11 +20,11 @@
         <header>
           {{ if $bookmark }}
             <a href='{{ $bookmark }}' class='nl' rel='noopener noreferrer'>
-              <h2 class='bookmark'>{{ .Title }}{{ with urlParse $bookmark }} <span class='lg wn'>via {{ .Host }}</span>{{ end }}</h2>
+              <h2 class='reference'>{{ .Title }}{{ with urlParse $bookmark }} <span class='lg wn'>via {{ .Host }}</span>{{ end }}</h2>
             </a>
           {{ else if $read }}
             <a href='{{ .RelPermalink }}' class='nl' rel='noopener noreferrer'>
-              <h2>{{ .Title }} <span class='lg wn'>by {{ $read.author }}</span></h2>
+              <h2 class='reference'>{{ .Title }} <span class='lg wn'>by {{ $read.author }}</span></h2>
             </a>
           {{ else }}
             <a href='{{ .RelPermalink }}' class='nl'><h2>{{ .Title }}</h2></a>
