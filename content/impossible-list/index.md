@@ -125,7 +125,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    - [x] Close all rings on Apple Watch for 2 months <small>[April 2021]</small>
    - [ ] Close all rings on Apple Watch for 3 months
 - [x] Try out personal trainer sessions <small>[March 2023]</small>
-- [x] Practice a new sport for 1 month <small>[May 2024, Kickboxing]</small>
+- [x] Practice a new sport for 1 month <small>[May 2024, Kickboxing] [February 2025, Running]</small>
   - [x] Practice a new sport for 2 months <small>[June 2024, Kickboxing]</small>
   - [ ] Practice a new sport for 4 months
 - [ ] Learn how to ⛷️ ski or 🏂 snowboard
