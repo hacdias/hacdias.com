@@ -9,7 +9,7 @@
 
   {{- partialCached "post/content" . .Permalink -}}
 
-  {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "writings" "readings") -}}
+  {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "writings" "readings" "fragments") -}}
   <h2 id="freshly-planted"><a href='{{ relURL "/writings" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span><a></h2>
   {{- template "index.items" (first 8 $pages) -}}
 
