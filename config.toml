@@ -45,7 +45,7 @@ summaryLength = 300
   pageRef = '/categories/writings'
   weight = 3
 [[menu.main]]
-  name = '📸 Photos'
+  name = '📷 Photos'
   pageRef = '/categories/photos'
   weight = 4
 [[menu.main]]
