@@ -7,12 +7,12 @@
   {{- if $isListing }}{{ $header = "2"  }}{{ end -}}
   <header>
     {{- if $bookmark -}}
-      <h{{ $header }} class='reference'>
+      <h{{ $header }} class='smaller'>
         <a href="{{ $bookmark }}" rel='noopener noreferrer' title="{{ .Title }}" class="h-cite u-bookmark-of nl">{{- .Title -}}</a>
         <span class='lg wn'>via {{ (urls.Parse $bookmark).Host }}</span>
       </h{{ $header }}>
     {{- else if $read -}}
-      <h{{ $header }} class='reference'>
+      <h{{ $header }} class='smaller'>
         {{- if $isListing -}}
           <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">
             <span class="h-cite p-read-of">
@@ -26,7 +26,8 @@
         {{ end }}
       </h{{ $header }}>
     {{- else if .Title -}}
-      <h{{ $header }} class='p-name'>
+      {{ $isLong := or (not .Params.categories) (collections.In .Params.categories "writings") }}
+      <h{{ $header }} class='p-name{{ if not $isLong }} smaller{{ end }}'>
         {{- if $isListing -}}<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">{{ end }}
           {{- .Title -}}
         {{- if $isListing -}}</a>{{end }}
