@@ -1,10 +1,10 @@
 ---
 title: Bookmarks
-description: Bookmarks of links I've enjoyed or want to keep for future reference.
+description: My bookmarks, a collection of links for future reference.
 noWebmentions: true
 noPagination: true
 slug: bookmarks
 ---
 
-🔖 These are my bookmarks, collected using my [Micropub](https://micropub.spec.indieweb.org/) instance.
+🔖 These are my bookmarks, a collection of links for future reference.
 {.box}

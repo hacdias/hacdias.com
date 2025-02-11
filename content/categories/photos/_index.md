@@ -1,7 +1,8 @@
 ---
 title: Photos
+description: My photos.
 slug: photos
 ---
 
-📸 These are some of my photos. Check the [archive](/photos/archive/) for a gallery view.
+📸 These are my photos. Visit the [archive](/photos/archive/) for a gallery view.
 {.box}

@@ -1,8 +1,8 @@
 ---
 title: Fragments
-description: My shorter notes, thoughts, and some memory fragments.
+description: My notes, thoughts, and other memory fragments.
 slug: fragments
 ---
 
-💠 These are notes, thoughts, and other memory fragments.
+💠 These are my notes, thoughts, and other memory fragments.
 {.box}
