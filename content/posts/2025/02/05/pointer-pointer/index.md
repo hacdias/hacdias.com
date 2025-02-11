@@ -6,11 +6,11 @@ bookmark-of: https://pointerpointer.com/
 categories:
   - bookmarks
 location:
-  latitude: 51.44592
-  longitude: 5.46174
-  locality: Eindhoven
-  region: North Brabant
   country: Netherlands
+  latitude: 51.44592
+  locality: Eindhoven
+  longitude: 5.46174
+  region: North Brabant
 ---
 
 This is a very random website where you can get stuck in for a while. It'll just get an image pointing to wherever you have your cursor. Quite crazy.
