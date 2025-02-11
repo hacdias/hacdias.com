@@ -287,8 +287,12 @@ main header h2 {
   margin: 0;
 }
 
-main header h1.bookmark {
+main header h1.reference {
   font-size: var(--f2);
+}
+
+main header h2.reference {
+  font-size: var(--f3);
 }
 
 main header p {
@@ -478,10 +482,6 @@ main pre {
 
 .card > * {
   padding: 0 var(--ms);
-}
-
-.card h2.bookmark {
-  font-size: var(--f3);
 }
 
 .card .more {
