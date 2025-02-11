@@ -3614,6 +3614,16 @@
     ]
   },
   {
+    "domain": "gonzzi.art",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/12/portrait-by-goncalo-dias/",
+        "targetUrl": "https://gonzzi.art/"
+      }
+    ]
+  },
+  {
     "domain": "gregorlove.com",
     "count": 1,
     "links": [
@@ -4020,16 +4030,6 @@
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
         "targetUrl": "https://launchpad.net/php-gettext/"
-      }
-    ]
-  },
-  {
-    "domain": "linktr.ee",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/01/12/portrait-by-goncalo-dias/",
-        "targetUrl": "https://linktr.ee/kitsuneyume"
       }
     ]
   },
