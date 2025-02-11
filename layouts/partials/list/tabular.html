@@ -1,0 +1,33 @@
+{{- $pages := partialCached "fns/pages" . .Permalink -}}
+{{- $pages = partial "fns/pages-as-logs" $pages -}}
+{{- $pages = partial "fns/group-date-year" $pages -}}
+
+<style>
+.h-feed li {
+  grid-template-columns: auto min-content;
+}
+</style>
+
+<div class='h-feed'>
+  {{ range $pages.years }}
+    <section>
+      {{ $year := . }}
+      {{ $pages := index $pages.map $year }}
+
+      <h3 class='tbh' id='{{ $year }}'>{{ $year }} <small class='lg'>({{ len $pages }} entries)</small></h3>
+
+      <ul class='tb'>
+      {{ with $pages }}
+        {{ range . }}
+          <li class='h-entry'>
+            <a href='{{ relURL .url }}' class='nl lh p-name u-url'>
+              {{ .name }}
+            </a>
+            <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}' class='tab lg small dt-published'>{{ dateFormat "2006-01-02" .date }}</time>
+          </li>
+        {{ end }}
+      {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+</div>
