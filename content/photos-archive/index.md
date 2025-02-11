@@ -1,7 +1,7 @@
 ---
 title: Photos Archive
 noIndex: true
-galleryCategory: photos
 layout: gallery
+layoutPage: /categories/photos/
 url: /photos/archive/
 ---
