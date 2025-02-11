@@ -20,11 +20,11 @@
         <header>
           {{ if $bookmark }}
             <a href='{{ $bookmark }}' class='nl' rel='noopener noreferrer'>
-              <h2 class='reference'>{{ .Title }}{{ with urlParse $bookmark }} <span class='lg wn'>via {{ .Host }}</span>{{ end }}</h2>
+              <h2 class='smaller'>{{ .Title }}{{ with urlParse $bookmark }} <span class='lg wn'>via {{ .Host }}</span>{{ end }}</h2>
             </a>
           {{ else if $read }}
             <a href='{{ .RelPermalink }}' class='nl' rel='noopener noreferrer'>
-              <h2 class='reference'>{{ .Title }} <span class='lg wn'>by {{ $read.author }}</span></h2>
+              <h2 class='smaller'>{{ .Title }} <span class='lg wn'>by {{ $read.author }}</span></h2>
             </a>
           {{ else }}
             <a href='{{ .RelPermalink }}' class='nl'><h2>{{ .Title }}</h2></a>

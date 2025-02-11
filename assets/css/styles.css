@@ -287,11 +287,11 @@ main header h2 {
   margin: 0;
 }
 
-main header h1.reference {
+main header h1.smaller {
   font-size: var(--f2);
 }
 
-main header h2.reference {
+main header h2.smaller {
   font-size: var(--f3);
 }
 
