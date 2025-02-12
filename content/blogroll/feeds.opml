@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Tue, 11 Feb 2025 04:00:04 UTC</dateCreated>
+        <dateCreated>Wed, 12 Feb 2025 04:00:04 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -94,6 +94,7 @@
             <outline title="Engineers Need Art" text="Engineers Need Art" xmlUrl="https://www.engineersneedart.com/rss.xml" htmlUrl="https://www.engineersneedart.com" type="rss"></outline>
             <outline title="Go, blog with GoBlog!" text="Go, blog with GoBlog!" xmlUrl="https://goblog.app/.rss" htmlUrl="https://goblog.app" type="rss"></outline>
             <outline title="Golang Weekly" text="Golang Weekly" xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" htmlUrl="https://golangweekly.com/" type="rss"></outline>
+            <outline title="Herprogrammeer de Overheid" text="Herprogrammeer de Overheid" xmlUrl="https://herprogrammeerdeoverheid.substack.com/feed" htmlUrl="https://herprogrammeerdeoverheid.substack.com" type="rss"></outline>
             <outline title="Jon Worth" text="Jon Worth" xmlUrl="https://jonworth.eu/feed/" htmlUrl="https://jonworth.eu/" type="rss"></outline>
             <outline title="Mastodon" text="Mastodon" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/" type="rss"></outline>
             <outline title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom" type="rss"></outline>
