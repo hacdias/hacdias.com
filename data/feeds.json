@@ -425,6 +425,11 @@
       "feed": "https://cprss.s3.amazonaws.com/golangweekly.com.xml"
     },
     {
+      "title": "Herprogrammeer de Overheid",
+      "site": "https://herprogrammeerdeoverheid.substack.com",
+      "feed": "https://herprogrammeerdeoverheid.substack.com/feed"
+    },
+    {
       "title": "Jon Worth",
       "site": "https://jonworth.eu/",
       "feed": "https://jonworth.eu/feed/"
