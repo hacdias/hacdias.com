@@ -24,7 +24,7 @@ Traveling to Aachen from Eindhoven was quite straightforward, except for the fac
 
 In Aachen, I tried quite a few food items that I've never seen before. Namely, reibekuchen 🥔, interestingly shaped, yet amazingly delicious, pancakes 🥞, as well as some flammkuchen 🧅. All of these foods were very nice, especially enjoyed the pancakes and the flammkuchen.
 
-<div class="fg fg-2212aken" style="grid-template-columns: repeat(3,1fr);">
+<div class="fg" style="grid-template-columns: repeat(3,1fr);">
 
 ![](cdn:/8555b881040e44434d5583358b8ebd3aabca74fd4b7838b7b68d4f283959bb0c)
 
@@ -42,7 +42,7 @@ Looking forward for future Christmas Markets 🎄!
 
 Update: yes, the mugs say 2023 and not 2022. Why? I don't know. If you do know, please let me know!
 
-<div class="fg fg-2212aken">
+<div class="fg" style="grid-template-columns: repeat(3,1fr);">
 
 ![](cdn:/c392500f1b96df865b185d4cbd71c38cf0e54c39ec4e5dd3fb755aff968c91b5)
 
