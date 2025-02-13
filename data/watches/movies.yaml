@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: Super Mario Bros
+  date: 2025-02-12T21:00:00+01:00
+  rating: 2
 - name: Cunk on Life
   date: 2025-01-22T22:25:00+01:00
   rating: 4
