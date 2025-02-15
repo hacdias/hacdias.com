@@ -3,6 +3,10 @@
 #   rating:
 #   date:
 #   location:
+- name: "Stranger Things: The First Shadow"
+  rating: 5
+  date: 2025-02-14
+  location: Phoenix Theater
 - name: S10
   rating: 4
   date: 2024-12-22
