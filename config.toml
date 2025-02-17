@@ -5,6 +5,7 @@ pluralizeListTitles = false
 removePathAccents = true
 capitalizeListTitles = true
 summaryLength = 300
+printPathWarnings = true
 
 [pagination]
   pagerSize = 15
