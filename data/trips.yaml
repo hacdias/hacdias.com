@@ -435,6 +435,17 @@
   - { departure: 2024-12-29T18:23:00+01:00, arrival: 2024-12-29T18:45:00+01:00, origin: stations.rotterdam_centraal, destination: stations.breda, type: train, operator: NS }
   - { departure: 2024-12-29T18:50:00+01:00, arrival: 2024-12-29T19:02:00+01:00, origin: stations.breda, destination: stations.tilburg, type: train, operator: NS }
   - { departure: 2024-12-29T19:08:00+01:00, arrival: 2024-12-29T19:38:00+01:00, origin: stations.tilburg, destination: stations.eindhoven_strijps, type: train, operator: NS }
+- name: Visit Friend With Partner
+  place: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 London"
+  start: 2025-02-12
+  date: 2025-02-16
+  latitude: 51.50839474
+  longitude: -0.12071889338
+  itinerary:
+  - { departure: 2025-02-12T16:14:00+01:00, arrival: 2025-02-12T17:15:00+01:00, origin: stations.eindhoven_centraal, destination: stations.rotterdam_centraal, type: train, operator: NS, number: "1156" }
+  - { departure: 2025-02-12T19:28:00+01:00, arrival: 2025-02-12T21:57:00+00:00, origin: stations.rotterdam_centraal, destination: stations.london_st_pancras, type: train, operator: Eurostar, number: "9167" }
+  - { departure: 2025-02-16T11:04:00+00:00, arrival: 2025-02-16T15:32:00+01:00, origin: stations.london_st_pancras, destination: stations.rotterdam_centraal, type: train, operator: Eurostar, number: "9126" }
+  - { departure: 2025-02-16T15:44:00+01:00, arrival: 2025-02-16T16:46:00+01:00, origin: stations.rotterdam_centraal, destination: stations.eindhoven_centraal, type: train, operator: NS, number: "1157" }
 # - name:
 #   place:
 #   start:
