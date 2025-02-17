@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Knokke Off
+  season: 2
+  rating: 4
+  date: 2025-02-17
 - name: Ted Lasso
   season: 3
   rating: 4
