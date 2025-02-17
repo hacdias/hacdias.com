@@ -1,8 +1,7 @@
 baseURL = 'https://hacdias.com/'
 languageCode = 'en'
 title = 'Henrique Dias'
-rsslimit = 10
-pluralizelisttitles = false
+pluralizeListTitles = false
 removePathAccents = true
 capitalizeListTitles = true
 summaryLength = 300
@@ -117,3 +116,7 @@ summaryLength = 300
   home = ['HTML', 'ATOM', 'JSON', 'FEEDXSL', 'SITEMAPXSL']
   section = ['HTML']
   page = ['HTML']
+
+[services]
+  [services.rss]
+    limit = 10
