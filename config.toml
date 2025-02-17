@@ -15,9 +15,9 @@ printPathWarnings = true
   category = 'categories'
 
 [permalinks]
-  tags = '/tags/:title/'
-  categories = '/:slug/'
-  posts = '/:year/:month/:day/:filename/'
+  tags = '/tags/:contentbasename/'
+  categories = '/:contentbasename/'
+  posts = '/:year/:month/:day/:contentbasename/'
 
 [markup]
   [markup.goldmark]
