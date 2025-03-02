@@ -3,6 +3,10 @@
 #   rating:
 #   date:
 #   location:
+- name: "The Phantom of the Opera"
+  rating: 4
+  date: 2025-03-01
+  location: Stadsschouwburg Antwerpen
 - name: "Stranger Things: The First Shadow"
   rating: 5
   date: 2025-02-14
