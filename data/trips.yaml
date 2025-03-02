@@ -446,6 +446,18 @@
   - { departure: 2025-02-12T19:28:00+01:00, arrival: 2025-02-12T21:57:00+00:00, origin: stations.rotterdam_centraal, destination: stations.london_st_pancras, type: train, operator: Eurostar, number: "9167" }
   - { departure: 2025-02-16T11:04:00+00:00, arrival: 2025-02-16T15:32:00+01:00, origin: stations.london_st_pancras, destination: stations.rotterdam_centraal, type: train, operator: Eurostar, number: "9126" }
   - { departure: 2025-02-16T15:44:00+01:00, arrival: 2025-02-16T16:46:00+01:00, origin: stations.rotterdam_centraal, destination: stations.eindhoven_centraal, type: train, operator: NS, number: "1157" }
+- name: Weekend Trip With Partner
+  place: "🇧🇪 Antwerp"
+  start: 2025-03-01
+  date: 2025-03-02
+  latitude: 51.2605815
+  longitude: 4.1929714
+  itinerary:
+  - { departure: 2025-03-01T09:43:00+01:00, arrival: 2025-03-01T10:21:00+01:00, origin: stations.eindhoven_centraal, destination: stations.breda, type: train, operator: NS, number: "2433" }
+  - { departure: 2025-03-01T10:42:00+01:00, arrival: 2025-03-01T11:16:00+01:00, origin: stations.breda, destination: stations.antwerpen_centraal, type: train, operator: NS International, number: "9224" }
+  - { departure: 2025-03-02T11:45:00+01:00, arrival: 2025-03-02T12:18:00+01:00, origin: stations.antwerpen_centraal, destination: stations.breda, type: train, operator: NS International, number: "9231" }
+  - { departure: 2025-03-02T12:20:00+01:00, arrival: 2025-03-02T12:33:00+01:00, origin: stations.breda, destination: stations.tilburg, type: train, operator: NS, number: "3642" }
+  - { departure: 2025-03-02T12:39:00+01:00, arrival: 2025-03-02T13:04:00+01:00, origin: stations.tilburg, destination: stations.eindhoven_strijps, type: train, operator: NS, number: "6441" }
 # - name:
 #   place:
 #   start:
