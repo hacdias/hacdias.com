@@ -54,6 +54,7 @@
   <link rel='token_endpoint' href='{{ absURL "/token" }}'>
   <link rel='micropub' href='{{ absURL "/micropub" }}'>
   <link rel='me' href='{{ absURL "/pubkey.asc" }}' rel='pgpkey'>
+  <link rel='feed' href='{{ absURL "/feed.xml" }}'>
   {{ range .Site.Params.author.identities -}}
     <link rel='me' href='{{ . }}' />
   {{ end -}}
