@@ -33,7 +33,8 @@ Software Engineer passionate about the web, user agency, identity, decentralizat
   location="Ver.iD" href="https://ver.id/"
   from="06/2024" to="present" >}}
 
-- Building a platform that enables developers to integrate decentralized identity wallets into their online platforms, using open standards, such as OAuth and OpenID Connect, in TypeScript.
+- Building a platform to enable developers to retrieve verifiable credentials from multiple identity wallets into their online platforms using a single integration, using open standards, in TypeScript. 
+- Integrating verification of digital identity wallets built on both proprietary APIs, and on open standards, such as OpenID for Verifiable Presentations and SD-JWTs. 
 
 {{</ resume-position >}}
 
