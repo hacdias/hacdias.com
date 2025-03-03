@@ -9,57 +9,57 @@
 
   {{- partialCached "post/content" . .Permalink -}}
 
-  {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "writings" "readings" "fragments") -}}
-  <h2 id="freshly-planted"><a href='{{ relURL "/writings" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span></a></h2>
-  {{- template "index.items" (first 8 $pages) -}}
+  <div class='h-feed'>
+    {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "writings" "readings" "fragments") -}}
+    <h2 id="freshly-planted"><a href='{{ relURL "/writings" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span></a></h2>
+    {{- template "index.items" (dict "pages" (first 8 $pages) "feed" true) -}}
 
-  <h2 id="freshly-captured"><a href='{{ relURL "/photos" }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
-  {{- $photos := where .Site.RegularPages "Params.categories" "intersect" (slice "photos") -}}
-  {{- template "index.photos" (first 8 $photos) -}}
+    <h2 id="freshly-captured"><a href='{{ relURL "/photos" }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
+    {{- $photos := where .Site.RegularPages "Params.categories" "intersect" (slice "photos") -}}
+    {{- template "index.photos" (dict "pages" (first 8 $photos) "feed" true) -}}
+  </div>
 
   <h2 id="favourite-articles">🌟 Favourite Writings</h2>
   {{- $favoritePosts := slice -}}
   {{- range .Params.favoritePosts -}}
   {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}
   {{- end -}}
-  {{- template "index.items" (first 4 $favoritePosts) -}}
+  {{- template "index.items" (dict "pages" (first 4 $favoritePosts) "feed" false) -}}
 
   <h2 id="favourite-captures">📸 Favourite Captures</h2>
   {{- $favoritePhotos := slice -}}
   {{- range .Params.favoriteCaptures -}}
   {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
   {{- end }}
-  {{- template "index.photos" (first 4 $favoritePhotos) -}}
+  {{- template "index.photos" (dict "pages" (first 4 $favoritePhotos) "feed" false) -}}
 {{ end }}
 
-{{- define "index.item" }}
-<li class='h-entry'>
-  <a href='{{ .RelPermalink }}' class='nl lh p-name u-url'>{{ .Title }}</a>
-  <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small dt-published'>{{ .Date.Format "2006-01-02" }}</time>
-</li>
-{{- end }}
-
 {{- define "index.items" }}
-<ul class='h-feed tb'>
-  {{ range . }}
-  {{ template "index.item" . }}
+<ul class='tb'>
+  {{ range .pages }}
+  <li {{ if $.feed }}class='h-entry'{{ end }}>
+    <a href='{{ .RelPermalink }}' class='nl lh{{ if $.feed }} p-name u-url{{ end }}'>{{ .Title }}</a>
+    <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small{{ if $.feed }} dt-published{{ end }}'>{{ .Date.Format "2006-01-02" }}</time>
+  </li>
   {{ end }}
 </ul>
 {{ end }}
 
 {{- define "index.photos" }}
 <div class='fg'>
-  {{ range . }}
-  <a href='{{ .RelPermalink }}' class='nl lh p-name u-url br'>
-    {{ $imageUrl := or .Params.coverImage (index (index .Params.photos 0) "url") }}
-    {{ partial "helpers/figure" (dict
-      "Destination" $imageUrl
-      "Title" .Title
-      "IsBlock" true
-      "Sizes" (slice 250 500)
-      "Page" .
-    )}}
-  </a>
+  {{ range .pages }}
+  <div class='br{{ if $.feed }} h-entry{{ end }}'>
+    <a href='{{ .RelPermalink }}' class='nl lh {{ if $.feed }} u-url{{ end }}'>
+      {{ $imageUrl := or .Params.coverImage (index (index .Params.photos 0) "url") }}
+      {{ partial "helpers/figure" (dict
+        "Destination" $imageUrl
+        "Title" .Title
+        "IsBlock" true
+        "Sizes" (slice 250 500)
+        "Page" .
+      )}}
+    </a>
+  </div>
   {{ end }}
 </div>
 {{- end }}
