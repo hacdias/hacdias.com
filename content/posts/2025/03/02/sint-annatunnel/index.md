@@ -8,11 +8,11 @@ photos:
 categories:
   - photos
 location:
-  latitude: 51.44594
-  longitude: 5.46172
-  locality: Eindhoven
-  region: North Brabant
   country: Netherlands
+  latitude: 51.44594
+  locality: Eindhoven
+  longitude: 5.46172
+  region: North Brabant
 syndication:
   - https://fosstodon.org/@hacdias/114093086936278800
 ---
