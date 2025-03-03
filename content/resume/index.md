@@ -68,18 +68,6 @@ Software Engineer passionate about the web, user agency, identity, decentralizat
 
 {{</ resume-position >}}
 
-{{< resume-position 
-  title="Full-Stack Software Developer" 
-  location="Upframe" href="https://github.com/upframe" 
-  from="09/2016" to="05/2018" >}}
-
-- Helped organize a mentorship-driven program to connect mentors with first-time entrepreneurs.
-- Built a REST API for managing e-mail transactions, newsletters and program enrollments, in Go.
-- Created a Slack integration for managing program enrollments directly from a Slack channel, in Go.
-- Built a web application for managing newsletter and program enrollments in React.
-
-{{</ resume-position >}}
-
 ## 🎓 Education {#education}
 
 {{< resume-position
@@ -148,6 +136,18 @@ Software Engineer passionate about the web, user agency, identity, decentralizat
   from="09/2018" to="06/2020" >}}
 
 - Mentored groups of new students two years in a row, during their first weeks at the university.
+
+{{</ resume-position >}}
+
+{{< resume-position 
+  title="Full-Stack Software Developer" 
+  location="Upframe" href="https://github.com/upframe" 
+  from="09/2016" to="05/2018" >}}
+
+- Helped organize a mentorship-driven program to connect mentors with first-time entrepreneurs.
+- Built a REST API for managing e-mail transactions, newsletters and program enrollments, in Go.
+- Created a Slack integration for managing program enrollments directly from a Slack channel, in Go.
+- Built a web application for managing newsletter and program enrollments in React.
 
 {{</ resume-position >}}
 
