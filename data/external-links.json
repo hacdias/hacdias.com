@@ -625,7 +625,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 21,
+    "count": 22,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -706,6 +706,10 @@
       {
         "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
         "targetUrl": "https://indieweb.org/IndieWeb_Carnival"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/03/03/recently/",
+        "targetUrl": "https://indieweb.org/POSSE"
       },
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
