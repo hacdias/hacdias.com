@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Roosters
+  season: 1
+  rating: 3
+  date: 2025-03-05
 - name: Ghosts
   season: 1
   rating: 3
