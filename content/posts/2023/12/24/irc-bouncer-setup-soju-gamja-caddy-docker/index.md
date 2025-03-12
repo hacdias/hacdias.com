@@ -1,6 +1,7 @@
 ---
 title: IRC Bouncer Setup With Soju, Gamja, Caddy and Docker
 date: 2023-12-24T12:33:29Z
+lastmod: 2025-03-12T20:33:32.926213276+01:00
 categories:
   - writings
 syndication:
@@ -11,7 +12,7 @@ tags:
   - irc
 ---
 
-Around a week ago, I decided to take a look at <abbr title="Internet Relay Chat">IRC</abbr> again, and setup an IRC bouncer. After some search, I settled on going with [soju](https://soju.im/) as my IRC bouncer, and [gamja](https://git.sr.ht/~emersion/gamja) as a nice web frontend. Since I use [Caddy](https://caddyserver.com/) and Docker in my server, but neither provides a Dockerfile, I thought sharing my setup with the world could be useful.
+Around a week ago, I decided to take a look at <abbr title="Internet Relay Chat">IRC</abbr> again, and setup an IRC bouncer. After some search, I settled on going with [soju](https://soju.im/) as my IRC bouncer, and [gamja](https://codeberg.org/emersion/gamja) as a nice web frontend. Since I use [Caddy](https://caddyserver.com/) and Docker in my server, but neither provides a Dockerfile, I thought sharing my setup with the world could be useful.
 
 <!--more-->
 
@@ -30,7 +31,7 @@ RUN apk update && apk add --no-cache git make build-base
   
 WORKDIR /
 
-RUN git clone https://git.sr.ht/~emersion/soju && \
+RUN git clone https://codeberg.org/emersion/soju && \
   cd soju && \
   git checkout $SOJU_VERSION && \
   make soju
@@ -135,7 +136,7 @@ Notice that it checks for the `layer4.json` file. My goal was to make this image
 gamja does not provide already built files. However, building them is quite easy, but you need Node.js for this. Just clone the repository, install the dependencies, and build the minified version of the frontend. The built files are just static HTML, CSS and JS files. Copy them into a directory that you will attach to the Caddy container to serve.
 
 ```bash
-git clone https://git.sr.ht/~emersion/gamja
+git clone https://codeberg.org/emersion/gamja
 cd gamja
 npm install --include=dev
 npm run build
@@ -196,7 +197,8 @@ And now create a `layer4.json` file with the configuration to proxy the IRC traf
                 {
                   "alpn": [
                     "http/1.1",
-                    "http/1.0"
+                    "http/1.0",
+                    "irc"
                   ],
                   "default_sni": "irc.example.com"
                 }
@@ -276,3 +278,5 @@ This will create an admin user which can talk to [`BouncerServ`](https://soju.im
 Note that for clients that do not support some IRCv3 functionality, or for clients that do not support soju's extension, you'll need to login with a username suffix to get proper chat playback. Read soju's [manual page](https://soju.im/doc/soju.1.html) for more information.
 
 I hope this tutorial was helpful for you. This was quite an adventure for me, and it seems to be working!
+
+**Edit**: thanks to [delthas](https://delthas.fr/) for noticing that the `irc` ALPN was missing in the configuration, which made some clients not be able to connect.
