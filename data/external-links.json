@@ -2552,20 +2552,6 @@
     ]
   },
   {
-    "domain": "sr.ht",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
-        "targetUrl": "https://git.sr.ht/~emersion/gamja"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
-        "targetUrl": "https://git.sr.ht/~emersion/soju/commit/c5d07658aba786d449f4db9a2ef28f3e24465e00"
-      }
-    ]
-  },
-  {
     "domain": "tantek.com",
     "count": 2,
     "links": [
@@ -3142,6 +3128,16 @@
     ]
   },
   {
+    "domain": "codeberg.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://codeberg.org/emersion/gamja"
+      }
+    ]
+  },
+  {
     "domain": "codersblock.com",
     "count": 1,
     "links": [
@@ -3258,6 +3254,16 @@
       {
         "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
         "targetUrl": "https://www.deliriumvillage.com/nl/bar/delirium-cafe/"
+      }
+    ]
+  },
+  {
+    "domain": "delthas.fr",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://delthas.fr/"
       }
     ]
   },
@@ -4838,6 +4844,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/05/06/visit-to-the-spoorwegmuseum/",
         "targetUrl": "https://www.spoorwegmuseum.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "sr.ht",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://git.sr.ht/~emersion/soju/commit/c5d07658aba786d449f4db9a2ef28f3e24465e00"
       }
     ]
   },
