@@ -5,6 +5,11 @@
 #   room:
 #   row:
 #   seat:
+- name: Mickey 17
+  date: 2025-03-18T19:30:00+01:00
+  rating: 4
+  location: Natlab
+  room: Auditorium
 - name: Super Mario Bros
   date: 2025-02-12T21:00:00+01:00
   rating: 2
