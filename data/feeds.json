@@ -6,11 +6,6 @@
       "feed": "https://aaronparecki.com/feed.xml"
     },
     {
-      "title": "Alistair Shepherd",
-      "site": "https://www.alistairshepherd.uk/",
-      "feed": "https://alistairshepherd.uk/feed.xml"
-    },
-    {
       "title": "Ana Rodrigues",
       "site": "https://ohhelloana.blog",
       "feed": "https://ohhelloana.blog/feed.xml"
@@ -36,11 +31,6 @@
       "feed": "https://ben.page/rss"
     },
     {
-      "title": "Ben Congdon",
-      "site": "https://benjamincongdon.me/",
-      "feed": "https://benjamincongdon.me/feed.xml"
-    },
-    {
       "title": "Ben Cox",
       "site": "https://blog.benjojo.co.uk",
       "feed": "https://blog.benjojo.co.uk/rss.xml"
@@ -54,51 +44,6 @@
       "title": "Brain Baking",
       "site": "https://brainbaking.com/",
       "feed": "https://brainbaking.com/index.xml"
-    },
-    {
-      "title": "Coder's Block",
-      "site": "https://codersblock.com",
-      "feed": "https://codersblock.com/rss.xml"
-    },
-    {
-      "title": "Coding Horror",
-      "site": "https://blog.codinghorror.com/",
-      "feed": "https://blog.codinghorror.com/rss/"
-    },
-    {
-      "title": "Daniel Stenberg",
-      "site": "https://daniel.haxx.se/blog",
-      "feed": "https://daniel.haxx.se/blog/feed/"
-    },
-    {
-      "title": "Danny van Kooten",
-      "site": "https://dannyvankooten.com/",
-      "feed": "https://www.dannyvankooten.com/feed.xml"
-    },
-    {
-      "title": "Darek Kay",
-      "site": "https://darekkay.com/",
-      "feed": "https://darekkay.com/atom.xml"
-    },
-    {
-      "title": "Dave Rupert",
-      "site": "https://daverupert.com",
-      "feed": "https://daverupert.com/atom.xml"
-    },
-    {
-      "title": "Drew DeVault",
-      "site": "https://drewdevault.com",
-      "feed": "https://drewdevault.com/blog/index.xml"
-    },
-    {
-      "title": "ExpLog",
-      "site": "https://explog.in/",
-      "feed": "https://explog.in/rss.xml"
-    },
-    {
-      "title": "Feross Aboukhadijeh",
-      "site": "https://feross.org",
-      "feed": "https://feross.org/atom.xml"
     },
     {
       "title": "Filippo Valsorda",
@@ -126,11 +71,6 @@
       "feed": "https://www.zylstra.org/blog/feed/"
     },
     {
-      "title": "Isaac Schlueter",
-      "site": "https://blog.izs.me/",
-      "feed": "https://blog.izs.me/feed/feed.json"
-    },
-    {
       "title": "Jake Bauer",
       "site": "https://www.paritybit.ca",
       "feed": "https://www.paritybit.ca/feed.xml"
@@ -139,11 +79,6 @@
       "title": "James",
       "site": "https://jamesg.blog/",
       "feed": "https://granary.io/url?input=html\u0026output=rss\u0026url=https%3A%2F%2Fjamesg.blog"
-    },
-    {
-      "title": "James Fenn",
-      "site": "https://jfenn.me/",
-      "feed": "https://jfenn.me/blog/feed.xml"
     },
     {
       "title": "Jamie Tanna",
@@ -159,11 +94,6 @@
       "title": "Jan-Lukas Else",
       "site": "https://jlelse.blog/",
       "feed": "https://jlelse.blog/.min.rss"
-    },
-    {
-      "title": "Jef Roosens",
-      "site": "https://rustybever.be/",
-      "feed": "https://rustybever.be/index.xml"
     },
     {
       "title": "Jim Nielsen",
@@ -186,24 +116,9 @@
       "feed": "https://manuelmoreale.com/feed/rss"
     },
     {
-      "title": "Marius Schulz",
-      "site": "https://mariusschulz.com/",
-      "feed": "https://feeds.feedburner.com/mariusschulz"
-    },
-    {
       "title": "Martin Frederic",
       "site": "https://mew.tv/",
       "feed": "https://mew.tv/feeds/news.atom"
-    },
-    {
-      "title": "Martin Tournoij",
-      "site": "https://www.arp242.net/",
-      "feed": "https://www.arp242.net/feed.xml"
-    },
-    {
-      "title": "Matt Baer",
-      "site": "https://write.as/matt/",
-      "feed": "https://write.as/matt/feed/"
     },
     {
       "title": "Matt Brunt",
@@ -231,34 +146,9 @@
       "feed": "https://mikestone.me/feed.xml"
     },
     {
-      "title": "Monica Dinculescu",
-      "site": "https://meowni.ca/",
-      "feed": "https://meowni.ca/atom.xml"
-    },
-    {
-      "title": "Nikita Karamov",
-      "site": "https://www.kytta.dev/blog/",
-      "feed": "https://www.kytta.dev/blog/atom.xml"
-    },
-    {
       "title": "Niq",
       "site": "https://niqwithq.com",
       "feed": "https://niqwithq.com/feed.xml"
-    },
-    {
-      "title": "Oscar's Blog",
-      "site": "https://oscarbenedito.com/blog/",
-      "feed": "https://oscarbenedito.com/blog/index.xml"
-    },
-    {
-      "title": "Own Your Web",
-      "site": "https://buttondown.email/ownyourweb",
-      "feed": "https://buttondown.email/ownyourweb/rss"
-    },
-    {
-      "title": "Parimal Satyal",
-      "site": "https://neustadt.fr/",
-      "feed": "https://neustadt.fr/rss.xml"
     },
     {
       "title": "Paul Stamatiou",
@@ -296,16 +186,6 @@
       "feed": "https://seirdy.one/atom.xml"
     },
     {
-      "title": "Ru Singh",
-      "site": "https://rusingh.com/",
-      "feed": "https://rusingh.com/feed/"
-    },
-    {
-      "title": "Ryan Barrett",
-      "site": "https://snarfed.org",
-      "feed": "https://snarfed.org/feed"
-    },
-    {
       "title": "Sebastiaan Andeweg",
       "site": "https://seblog.nl/feed",
       "feed": "https://seblog.nl/feed.rss"
@@ -316,24 +196,9 @@
       "feed": "https://simonsafar.com/index.xml"
     },
     {
-      "title": "Simon Willison",
-      "site": "http://simonwillison.net/",
-      "feed": "https://simonwillison.net/atom/entries/"
-    },
-    {
       "title": "Stanislas",
       "site": "https://stanislas.blog/",
       "feed": "https://stanislas.blog/atom.xml"
-    },
-    {
-      "title": "Tantek Çelik",
-      "site": "https://tantek.com/",
-      "feed": "http://tantek.com/updates.atom"
-    },
-    {
-      "title": "The Whimsical Web",
-      "site": "https://whimsical.club",
-      "feed": "https://whimsical.club/feed.xml"
     },
     {
       "title": "Tim Hårek",
@@ -354,29 +219,9 @@
       "title": "Xe",
       "site": "https://xeiaso.net/",
       "feed": "https://xeiaso.net/blog.json"
-    },
-    {
-      "title": "Zack Scholl",
-      "site": "https://schollz.com/",
-      "feed": "https://schollz.com/index.xml"
-    },
-    {
-      "title": "amble.blog",
-      "site": "https://amble.blog",
-      "feed": "https://amble.blog/feed.xml"
-    },
-    {
-      "title": "gRegor Morrill",
-      "site": "https://gregorlove.com",
-      "feed": "https://gregorlove.com/articles.atom"
     }
   ],
   "comics": [
-    {
-      "title": "ComitStrip",
-      "site": "https://www.commitstrip.com",
-      "feed": "https://www.commitstrip.com/en/feed/?"
-    },
     {
       "title": "Hey Ok Yay?",
       "site": "https://heyokyay.com",
@@ -395,19 +240,14 @@
   ],
   "general": [
     {
+      "title": "Alpine Linux",
+      "site": "https://alpinelinux.org/atom.xml",
+      "feed": "https://alpinelinux.org/atom.xml"
+    },
+    {
       "title": "Annoying Technology",
       "site": "https://annoying.technology/",
       "feed": "https://annoying.technology/index.xml"
-    },
-    {
-      "title": "Ctrl.blog",
-      "site": "https://www.ctrl.blog/",
-      "feed": "https://feed.ctrl.blog/latest.atom"
-    },
-    {
-      "title": "Decentralized Thoughts",
-      "site": "https://decentralizedthoughts.github.io",
-      "feed": "https://decentralizedthoughts.github.io/feed.xml"
     },
     {
       "title": "Engineers Need Art",
@@ -415,19 +255,9 @@
       "feed": "https://www.engineersneedart.com/rss.xml"
     },
     {
-      "title": "Go, blog with GoBlog!",
-      "site": "https://goblog.app",
-      "feed": "https://goblog.app/.rss"
-    },
-    {
       "title": "Golang Weekly",
       "site": "https://golangweekly.com/",
       "feed": "https://cprss.s3.amazonaws.com/golangweekly.com.xml"
-    },
-    {
-      "title": "Herprogrammeer de Overheid",
-      "site": "https://herprogrammeerdeoverheid.substack.com",
-      "feed": "https://herprogrammeerdeoverheid.substack.com/feed"
     },
     {
       "title": "Jon Worth",
@@ -435,9 +265,9 @@
       "feed": "https://jonworth.eu/feed/"
     },
     {
-      "title": "Mastodon",
-      "site": "https://blog.joinmastodon.org/",
-      "feed": "https://blog.joinmastodon.org/index.xml"
+      "title": "Miniflux",
+      "site": "https://miniflux.app",
+      "feed": "https://miniflux.app/feed.xml"
     },
     {
       "title": "The Go Blog",
@@ -470,38 +300,6 @@
       "title": "Readings - Henrique Dias",
       "site": "https://hacdias.com/readings/",
       "feed": "https://hacdias.com/readings/feed.xml"
-    }
-  ],
-  "software": [
-    {
-      "title": "Alpine Linux",
-      "site": "https://alpinelinux.org/atom.xml",
-      "feed": "https://alpinelinux.org/atom.xml"
-    },
-    {
-      "title": "Gamja Releases",
-      "site": "https://git.sr.ht/~emersion/gamja/refs",
-      "feed": "https://git.sr.ht/~emersion/gamja/refs/rss.xml"
-    },
-    {
-      "title": "Miniflux",
-      "site": "https://miniflux.app",
-      "feed": "https://miniflux.app/feed.xml"
-    },
-    {
-      "title": "Soju Releases",
-      "site": "https://git.sr.ht/~emersion/soju/refs",
-      "feed": "https://git.sr.ht/~emersion/soju/refs/rss.xml"
-    },
-    {
-      "title": "This Week in Self-Hosted",
-      "site": "https://selfh.st/",
-      "feed": "https://selfh.st/rss/"
-    },
-    {
-      "title": "Yivi Blog",
-      "site": "https://docs.yivi.app/blog",
-      "feed": "https://docs.staging.yivi.app/blog/rss.xml"
     }
   ]
 }
