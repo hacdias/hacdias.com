@@ -2,6 +2,14 @@
 #   season:
 #   date:
 #   rating:
+- name: Severance
+  season: 2
+  rating: 5
+  date: 2025-03-21
+- name: Elixer
+  season: 1
+  rating: 3
+  date: 2025-03-20
 - name: Roosters
   season: 1
   rating: 3
