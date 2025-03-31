@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Residence
+  season: 1
+  rating: 5
+  date: 2025-03-30
 - name: Adolescence
   season: 1
   rating: 3
