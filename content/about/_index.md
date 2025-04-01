@@ -22,7 +22,7 @@ Against all odds - call it _the pandemic_ 🦠 - I moved to the Netherlands to p
 
 During my time at TU/e, I was a student mentor, where I mentored 12 new master students from different nationalities during their first semester in The Netherlands. In addition, I was a Teaching Assistant for the Deep Learning course, where I prepared materials, gave practical classes and helped students.
 
-Later, multiple teams at Protocol Labs nucleated into their own companies with the goal of long term self-sustainability. As consequence, I joined the [Interplanetary Shipyard](https://blog.ipfs.tech/shipyard-hello-world/) with the goal of further decentralizing the web. However, I [realized](/2024/05/06/leaving-the-interplanetary-journey/) shortly after that my journey in the interplanetary technologies was coming to an end.
+Later, multiple teams at Protocol Labs nucleated into their own companies with the goal of long term self-sustainability. As consequence, I joined the [Interplanetary Shipyard](https://blog.ipfs.tech/shipyard-hello-world/) with the goal of further decentralizing the web. However, I realized shortly after that my journey in the interplanetary technologies was coming to an end.
 
 These experiences were driven by my belief in transparency and openness, in a united Europe 🇪🇺 and that we all deserve equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
 
