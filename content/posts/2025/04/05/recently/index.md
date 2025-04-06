@@ -1,10 +1,18 @@
 ---
-title: "Recently in March '25"
+title: Recently in March '25
 date: 2025-04-05T13:49:13+02:00
 categories:
-- writings
+  - writings
+location:
+  latitude: 51.44591
+  longitude: 5.46156
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
+syndication:
+  - https://fosstodon.org/@hacdias/114285212069038533
 tags:
-- now
+  - now
 ---
 
 March has ended a few days ago, meaning that this recap is coming a bit later than usual. Maybe it is a product of the weather being nicer, and the fact that I've been a bit more busy than usual. It's been quite some hectic days!
