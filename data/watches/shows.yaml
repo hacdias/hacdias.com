@@ -2,6 +2,14 @@
 #   season:
 #   date:
 #   rating:
+- name: White Lotus
+  season: 3
+  rating: 4
+  date: 2025-04-07
+- name: Survival of the Thickest
+  season: 1
+  rating: 3
+  date: 2025-04-06
 - name: The Residence
   season: 1
   rating: 5
