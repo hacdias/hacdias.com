@@ -1,8 +1,0 @@
-{{ define "main" }}
-  <header>
-    <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
-  </header>
-
-  {{ partialCached "post/content" . .Permalink }}
-  {{ partial "list/tabular" (.Site.GetPage .Params.layoutPage) }}
-{{ end }}
