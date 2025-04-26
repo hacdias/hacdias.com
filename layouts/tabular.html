@@ -4,5 +4,9 @@
   </header>
 
   {{ partialCached "post/content" . .Permalink }}
-  {{ partial "list/tabular" . }}
+  {{ if .Params.layoutPage }}
+    {{ partial "list/tabular" (.Site.GetPage .Params.layoutPage) }}
+  {{ else }}
+    {{ partial "list/tabular" . }}
+  {{ end }}
 {{ end }}
