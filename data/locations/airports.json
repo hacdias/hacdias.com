@@ -59,6 +59,12 @@
     "longitude": -4.4330556,
     "name": "Glasgow Airport"
   },
+  "kix": {
+    "country": "JP",
+    "latitude": 34.430556,
+    "longitude": 135.230278,
+    "name": "Kansai International Airport"
+  },
   "lgw": {
     "country": "GB",
     "latitude": 51.1480556,
@@ -88,6 +94,12 @@
     "latitude": 40.8844444,
     "longitude": 14.2908333,
     "name": "Naples Airport"
+  },
+  "nrt": {
+    "country": "JP",
+    "latitude": 35.765278,
+    "longitude": 140.385556,
+    "name": "Narita International Airport"
   },
   "pdl": {
     "country": "PT",

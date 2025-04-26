@@ -458,6 +458,15 @@
   - { departure: 2025-03-02T11:45:00+01:00, arrival: 2025-03-02T12:18:00+01:00, origin: stations.antwerpen_centraal, destination: stations.breda, type: train, operator: NS International, number: "9231" }
   - { departure: 2025-03-02T12:20:00+01:00, arrival: 2025-03-02T12:33:00+01:00, origin: stations.breda, destination: stations.tilburg, type: train, operator: NS, number: "3642" }
   - { departure: 2025-03-02T12:39:00+01:00, arrival: 2025-03-02T13:04:00+01:00, origin: stations.tilburg, destination: stations.eindhoven_strijps, type: train, operator: NS, number: "6441" }
+- name: Japan Trip With Partner
+  place: "🇯🇵 Osaka, Kyoto & Tokyo"
+  start: 2025-04-09
+  date: 2025-04-24
+  latitude: 33.0489059
+  longitude: 126.5663159
+  itinerary:
+  - { departure: 2025-04-09T14:37:00+02:00, arrival: 2025-04-10T10:11:00+09:00, origin: airports.ams, destination: airports.kix, type: air, operator: KLM, number: "KL867" }
+  - { departure: 2025-04-24T12:33:00+09:00, arrival: 2025-04-24T19:20:00+02:00, origin: airports.nrt, destination: airports.ams, type: air, operator: KLM, number: "KL862" }
 # - name:
 #   place:
 #   start:
