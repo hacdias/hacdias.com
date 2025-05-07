@@ -467,6 +467,15 @@
   itinerary:
   - { departure: 2025-04-09T14:37:00+02:00, arrival: 2025-04-10T10:11:00+09:00, origin: airports.ams, destination: airports.kix, type: air, operator: KLM, number: "KL867" }
   - { departure: 2025-04-24T12:33:00+09:00, arrival: 2025-04-24T19:20:00+02:00, origin: airports.nrt, destination: airports.ams, type: air, operator: KLM, number: "KL862" }
+- name: Visit Friend With Friends
+  place: "🇧🇬 Sofia"
+  start: 2025-05-02
+  date: 2025-05-05
+  latitude: 42.6953135
+  longitude: 23.158801
+  itinerary:
+  - { departure: 2025-05-02T13:15:00+02:00, arrival: 2025-05-02T16:53:00+03:00, origin: airports.ein, destination: airports.sof, type: air, operator: Ryanair, number: "FR6014" }
+  - { departure: 2025-05-05T18:35:00+03:00, arrival: 2025-05-05T20:23:00+02:00, origin: airports.sof, destination: airports.ein, type: air, operator: Ryanair, number: "FR6013" }
 # - name:
 #   place:
 #   start:
