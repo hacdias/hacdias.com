@@ -119,6 +119,12 @@
     "longitude": -84.2088556,
     "name": "Juan Santamaría Airport"
   },
+  "sof": {
+    "country": "BG",
+    "latitude": 42.695,
+    "longitude": 23.408333,
+    "name": "Sofia Vasil Levski Airport"
+  },
   "zrh": {
     "country": "CH",
     "latitude": 47.4580556,
