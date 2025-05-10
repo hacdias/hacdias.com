@@ -18,23 +18,24 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **Console** <span>Nintendo Switch, PlayStation 5</span>
 - **Tracking Device** <span>AirTags</span>
 - **Auth Device** <span>YubiKeys for 2FA, GPG and SSH</span>
-- **Wallet** <span>Secrid for my cards and spare bills</span>
+- **Wallet** <span>Secrid</span>
 - **Keychain** <span>Orbitkey Key Organizer</span>
 {.box .tb}
 
 ### ⌨️ Desk {#desk}
 
-![Desk at Home](cdn:/2024-12-desk-home)
+![Desk at Home](cdn:/2025-05-desk-home)
 
-At home, we have two desks: one in the living room, and one in the bedroom. Maybe in the future, if we have a separate room, we can make it our office, and place the desks there. I'm personally a desk person, and I much rather prefer having a desk than just using the laptop as-is.
+At home, we have two desks: one in our bedroom, and one in the guest bedroom. I mainly use the one in the guest bedroom. I'm also a desk person, which apparently some people are not, and I much rather prefer having a desk than just using the laptop as-is.
 
-- **Desk** <span>DPJ Workspace Standard Standing Desk (Electric, 100 x 70)</span>
+- **Desk** <span>Ahrend Balance Solo (Electric, 120 x 80)</span>
 - **Chair** <span>Ahrend Verta</span>
 - **Monitor Stand** <span>IKEA SIGFINN</span>
 - **Monitor** <span>Dell U2723QE</span>
-- **Keyboard** <span>NuPhy Air75 V2, NuPhy Air96, NuPhy Air75</span>
-- **Mouse** <span>Logitech MX Vertical</span>
+- **Keyboard** <span>NuPhy Air75 V2</span>
+- **Mouse** <span>Asus Strix Impact, Logitech MX Vertical</span>
 - **Laptop Stand** <span>Rain mStand, Roost V3</span>
+- **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
 {.box .tb}
 
 ### 📷 Photography {#photography}
