@@ -78,7 +78,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Start studying Computer Science <small>[September 2017]</small>
 - [x] Make my parents fly <small>[July 2019, 🇵🇹 Azores]</small>
 - [x] Become proficient in a second language <small>[September 2019, English]</small>
-   - [x] Become proficient in a third language <small>[June 2024, Dutch[^dutch_proficiency]]</small>
+   - [x] Become proficient in a third language <small>[June 2024, Dutch]</small>
 - [x] Study abroad on Master's <small>[September 2020, 🇳🇱 Eindhoven]</small>
 - [x] Live abroad for more than 6 months <small>[February 2021, 🇳🇱 NL]</small>
    - [x] Live abroad for more than 1 year <small>[August 2021, 🇳🇱 NL]</small>
@@ -141,5 +141,3 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small>
 
 -->
-
-[^dutch_proficiency]: The definition of "proficiency" varies according to whom you ask. At this point, I have been speaking Dutch daily with native speakers for more than 6 months. I think this counts.
