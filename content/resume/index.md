@@ -34,7 +34,7 @@ Software Engineer passionate about the web, user agency, identity, decentralizat
   from="06/2024" to="present" >}}
 
 - Building a platform to enable developers to retrieve verifiable credentials from multiple identity wallets into their online platforms using a single integration, using open standards, in TypeScript. 
-- Integrating verification of digital identity wallets built on both proprietary APIs, and on open standards, such as OpenID for Verifiable Presentations and SD-JWTs. 
+- Integrating verification of digital identity wallets built on both proprietary APIs, and on open standards, such as OpenID for Verifiable Presentations, SD-JWT and mDoc.
 
 {{</ resume-position >}}
 
