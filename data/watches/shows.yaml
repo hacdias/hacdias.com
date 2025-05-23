@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Black Mirror
+  season: 7
+  rating: 4
+  date: 2025-05-21
 - name: A Discovery of Witches
   season: 3
   rating: 4
