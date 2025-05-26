@@ -9,7 +9,7 @@ Do you have any feedback, or just want to go for a chat? Feel free to reach out 
 
 ## 📧 E-mail {#email}
 
-E-mail is the easiest way to reach out to me. Feel free to just write me an e-mail, invite for a chat, or anything else. I'll likely reply within 48 hours. In the unlikely event you may want to send me something encrypted, you can also use my PGP key linked below.
+E-mail is the easiest way to reach out to me. In the unlikely event you may want to send me something encrypted, you can also use my PGP key linked below.
 
 - [✉️ mail@hacdias.com](mailto:mail@hacdias.com)
 - [🗝 PGP Key](/pubkey.asc)
@@ -17,7 +17,7 @@ E-mail is the easiest way to reach out to me. Feel free to just write me an e-ma
 
 ## 💬 Instant Messaging {#instant-messaging}
 
-The second easiest way is to reach me out via an instant messaging platform. I've been trying to use Signal more often as it seems to be more secure and private than the alternatives. Therefore, use that if available for you. <span class='dn' id='timezone-note'>Note that it is now <time></time> in my timezone, unless I'm traveling.</span>
+The second easiest way is to reach me out on an instant messaging platform. <span class='dn' id='timezone-note'>Note that it is now <time></time> in my timezone, unless I'm traveling.</span>
 
 - [{{< favicon "signal.org" >}} Signal: hacdias.22](https://signal.me/#eu/3hipC8LRH2b1TEsjWGQzg0QoXDV2cuf6yJjSWWlPHOVIoXvwoPJPR6hFbOYLy1II)
 {.terms}

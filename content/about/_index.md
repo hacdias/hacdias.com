@@ -6,25 +6,23 @@ coverImage: cdn:/2024-09-stratumse-heide
 
 <span id='greetings'>**<span id='hello'>Hi 👋, I'm</span> <span style="color: var(--c)">Henrique</span>!**</span>
 
-I'm from a little town in the countryside of Portugal 🇵🇹 and now I live in The Netherlands 🇳🇱. I'm a software engineer 🛠 who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users. In my spare time, I enjoy cycling, taking photographs, programming, or a nice cup of coffee or tea.
+I come from a little town in the countryside of Portugal 🇵🇹, and I've been living The Netherlands 🇳🇱 for a few years. I'm a software engineer who cares open source, user agency, decentralization, identity, and building impactful tools and products. In my spare time, I enjoy staying physically active, photography, programming, or a nice cup of coffee or tea.
 
 <!--more-->
 
-Since an early age, I have been curious about computers and I always wanted to work with them, albeit initially I did not understand what that involved. As the years passed by, I used the Internet to satisfy my curiosity and learn more and more about computers. Initially, I researched hours and hours about which programming language I should learn first and, at the time, I decided that C# was the right choice and bought a book. Turns out, I never read said book and ended up learning PHP instead. I've heard that PHP has come a long way since I first learned it!
+Since an early age, I have been curious about computers and I always wanted to work with them, although at the time I did not understand what that involved. As the years passed by, I used the Internet to satisfy my curiosity and learn more and more about computers. I remember spending hours researching which programming language to learn first and, at the time, decided on C#. I even bought a book! Turns out, I never read that book and ended up learning PHP instead.
 
 ![](cdn:/2024-09-stratumse-heide "In The Stratumse Heide")
 
-During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest, if not the largest, tech blog in Portugal. I wrote over 400 tutorials, tech news and other articles. In addition, I published a 60 page e-book on how to program in C for beginners at the age of 15. Furthermore, I had the opportunity to do some software development work at [Upframe](https://github.com/upframe) where I met some amazing people.
+During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest tech blogs in Portugal. I wrote over 400 tutorials, tech news and other articles. In addition, I published a 60 page e-book on how to program in C for beginners at the age of 15. At the same time, I had the opportunity to do some software development work at [Upframe](https://github.com/upframe) where I met some amazing people.
 
 After secondary school, I moved to Lisbon in order to pursue a BSc in Information Systems and Computer Engineering. I spent three years studying at [IST](https://tecnico.ulisboa.pt/pt/), where I met amazing people during my stay. At the same time, I got recruited for [Protocol Labs](https://protocol.ai/), where I had the opportunity to work on further decentralizing the web.
 
-Against all odds - call it _the pandemic_ 🦠 - I moved to the Netherlands to pursue a MSc in Computer Science and Engineering at [TU/e](https://tue.nl), which is nearly complete. Sadly, in two years of university, I only had the opportunity to have one course on campus. After defending my thesis on-campus, I successfully completed my Master's degree.
+Against all odds - call it _the pandemic_ 🦠 - I moved to the Netherlands to pursue a MSc in Computer Science and Engineering at [TU/e](https://tue.nl). During this time, I was a student mentor, where I mentored new master students from different nationalities during their first semester in The Netherlands. In addition, I was a Teaching Assistant for the Deep Learning course, where I prepared materials, gave practical classes and helped students.
 
-During my time at TU/e, I was a student mentor, where I mentored 12 new master students from different nationalities during their first semester in The Netherlands. In addition, I was a Teaching Assistant for the Deep Learning course, where I prepared materials, gave practical classes and helped students.
+Later, I joined Protocol Labs full-time. About a year in, multiple teams at Protocol Labs nucleated into their own companies with the goal of long term self-sustainability. As consequence, I joined the [Interplanetary Shipyard](https://blog.ipfs.tech/shipyard-hello-world/) with the focus on further decentralizing the web. However, I realized shortly after that my journey in the interplanetary technologies was coming to an end.
 
-Later, multiple teams at Protocol Labs nucleated into their own companies with the goal of long term self-sustainability. As consequence, I joined the [Interplanetary Shipyard](https://blog.ipfs.tech/shipyard-hello-world/) with the goal of further decentralizing the web. However, I realized shortly after that my journey in the interplanetary technologies was coming to an end.
-
-These experiences were driven by my belief in transparency and openness, in a united Europe 🇪🇺 and that we all deserve equal rights 🏳️‍🌈. There are a lot of issues in the world and we are all part of them, and we all should work towards correcting them, making Earth a better place for all of us to live.
+<!-- Afterwards, I joined [Ver.iD](https://ver.id/), where I got to learn a lot about decentralized identity and verifiable credentials. -->
 
 **Why @hacdias?** I've been asked before if there's any relation between my handle, @hacdias, and the verb "to hack". The answer is quite boring: there is not. It is simply the initials of some of my names with my last name.
 {.box #handle}

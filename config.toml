@@ -59,7 +59,7 @@ printPathWarnings = true
 
 [params]
   [params.site]
-    description = "Henrique is a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users."
+    description = "Henrique is a software engineer who cares open source, user agency, decentralization, identity, and building impactful tools and products"
   [params.author]
     name = 'Henrique Dias'
     email = 'mail@hacdias.com'
