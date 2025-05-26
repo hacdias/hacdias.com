@@ -24,7 +24,7 @@ noIndex: true
 
 </div>
 
-Software Engineer passionate about the web, user agency, identity, decentralization, and building impactful products and tools for both users and developers. I have experience in peer-to-peer and content-addressed networks, and now focus on enabling developers integrate decentralized identity wallets into their platforms. Always eager to learn and tackle new challenges.
+Software Engineer passionate about open source, user agency, decentralization, identity, and building impactful tools and products. I have experience in peer-to-peer and content-addressed networks, and now focus on enabling developers integrate decentralized identity wallets into their platforms. Always eager to learn and tackle new challenges.
 
 ## 💼 Experience {#experience}
 

@@ -3,7 +3,7 @@ title: What Else Can I Find?
 noWebmentions: true
 ---
 
-This website contains more things than it looks at first glance. This page contains a list of every page that I deem important that is not on the main navigation. However, it does not show everything. Some things are up for you to <span id='trigger'>discover</span>!
+This website contains more than it looks at first glance. Here you can find a list of every page I deem reasonably important, or interesting, that is not accounted for in the main navigation. Not everything is listed here and they are up for you to <span id='trigger'>discover</span>!
 
 <!--more-->
 
@@ -20,7 +20,7 @@ This website contains more things than it looks at first glance. This page conta
 
 ## 🗞️ Feeds {#feeds}
 
-This website provides Atom and JSON feeds for the home page, which combines writings, photos, and book reviews, as well as for each one of the sections, individually. Your feed reader should be able to pick up the feed URL. If it doesn't, you can use the following URLs:
+This website provides Atom and JSON for all individual sections, as well as for the home page, which combines writings, photos, and book reviews. Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
 
 - **Home**: [Atom](/feed.xml), [JSON](/feed.json).
 - **Writings**: [Atom](/writings/feed.xml), [JSON](/writings/feed.json).
@@ -29,7 +29,7 @@ This website provides Atom and JSON feeds for the home page, which combines writ
 
 ## 📦 Shoebox {#shoebox}
 
-This section is a sort of digital shoebox, similar to [this one](https://gilest.org/shoebox.html). This is a place for some things that exist on this website, and yet, they don't have a correct place to be, a home. They're mostly old experiments from small things I did, or small things I wanted to share and keep available.
+This section is a sort of [digital shoebox](/2024/01/13/making-a-digital-shoebox/). This is a place for some things that exist on this website, and yet, they don't have a correct place to be, a home. They're mostly old experiments from small things I did, or small things I wanted to share and keep available.
 
 - [🔵 Blue Screen of Death](/minisites/bsod/)
 - [✉️ Carta de Uma Mãe Alentejana](/minisites/carta-mae-alentejana/)
