@@ -15,5 +15,5 @@ favoritePosts:
   - /posts/2019/04/18/trying-pixel-art
 ---
 
-**Hi 👋, I’m Henrique**, a software engineer who cares about open source, user agency, decentralization, identity, and building impactful tools and products. In my spare time, I enjoy staying physically active, photography, programming, or a nice cup of coffee or tea. Welcome to my Internet peninsula!
+**Hi 👋, I’m Henrique**, a Portuguese 🇵🇹 guy living in The Netherlands 🇳🇱. I'm a software engineer who cares about open source, user agency, decentralization, identity, and building impactful tools and products. In my spare time, I enjoy staying physically active, photography, programming, or a nice cup of coffee or tea. Welcome to my Internet peninsula!
 
