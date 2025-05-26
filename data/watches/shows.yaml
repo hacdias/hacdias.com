@@ -2,6 +2,14 @@
 #   season:
 #   date:
 #   rating:
+- name: Voetbalouders
+  season: 1
+  rating: 4
+  date: 2025-05-25
+- name: "Amsterdam Centraal 24/7"
+  season: 1
+  rating: 5
+  date: 2025-05-22
 - name: Black Mirror
   season: 7
   rating: 4
