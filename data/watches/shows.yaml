@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Last of Us
+  season: 2
+  rating: 4
+  date: 2025-05-26
 - name: Voetbalouders
   season: 1
   rating: 4
