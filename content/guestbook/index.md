@@ -11,6 +11,6 @@ img.guestbook {
 }
 </style>
 
-![Guestbook](https://cdn.hacdias.com/media/2022-03-book-purple.gif?class=left+pixelated+guestbook) Hi! In the 90s and early 2000s, having a guestbook on one's website was a common practice and a way for everyone to share their opinions about each other's corner of the Internet. I find it an amazing idea so feel free to drop off a few lines or just say hi. Hope you enjoyed navigating my corner in the Internet!
+![Guestbook](https://cdn.hacdias.com/media/2022-03-book-purple.gif?class=left+pixelated+guestbook) In the 90s and early 2000s, having a guestbook on one's website was a common practice and a way for everyone to share their opinions about each other's corner of the web. I find it an amazing idea so feel free to drop off a few lines or just say hi. Hope you enjoyed navigating my corner in the Internet!
 
 <!--more-->
