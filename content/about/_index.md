@@ -24,9 +24,6 @@ Later, I joined Protocol Labs full-time. About a year in, multiple teams at Prot
 
 <!-- Afterwards, I joined [Ver.iD](https://ver.id/), where I got to learn a lot about decentralized identity and verifiable credentials. -->
 
-**Why @hacdias?** I've been asked before if there's any relation between my handle, @hacdias, and the verb "to hack". The answer is quite boring: there is not. It is simply the initials of some of my names with my last name.
-{.box #handle}
-
 ## 🎩 Colophon {#colophon}
 
 I started this website in 2014, when I was 14. At the time, all the content was in Portuguese, and I was running multiple blogs. After a while, I decided to start writing in English hoping it would improve my English skills, which I can argue that worked. Nowadays, all other blogs I had are merged under the current domain.
