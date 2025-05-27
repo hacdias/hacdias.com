@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Big Mouth
+  season: 8
+  rating: 3
+  date: 2025-05-26
 - name: The Last of Us
   season: 2
   rating: 4
