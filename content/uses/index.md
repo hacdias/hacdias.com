@@ -87,6 +87,7 @@ The list below contains some of my favorite software, or software that I use on 
 - **Weather** <span>Apple Weather, [Buienradar](https://www.buienradar.nl/)</span>
 - **Code Editor** <span>[Visual Studio Code](https://code.visualstudio.com/) and [vim](https://www.vim.org/)</span>
 - **Terminal** <span>[iTerm](https://iterm2.com/) with [zsh](https://en.wikipedia.org/wiki/Z_shell) and [oh my zsh](https://ohmyz.sh/) - see my [dotfiles](https://github.com/hacdias/dotfiles)</span>
+- **Launcher** <span>[Raycast](https://www.raycast.com/)</span>
 - **Operating System** <span>macOS, iOS, Linux (Alpine usually)</span>
 - **Web Server** <span>[Caddy](https://caddyserver.com/)</span>
 - **Hosting Provider** <span>[Hetzner](https://www.hetzner.com/)</span>
