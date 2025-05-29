@@ -3,7 +3,7 @@ title: Steel Wool
 date: 2021-09-16T06:45:00Z
 categories:
   - photos
-coverImage: cdn:/2021-09-steelwool-07
+thumbnail: cdn:/2021-09-steelwool-07
 photos:
   - url: cdn:/2021-09-steelwool-07
   - url: cdn:/2021-09-steelwool-06

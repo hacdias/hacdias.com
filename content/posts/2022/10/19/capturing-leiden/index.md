@@ -3,7 +3,7 @@ title: Capturing Leiden
 date: 2022-10-19T11:46:09.317883773+02:00
 categories:
   - photos
-coverImage: cdn:/8f46b5bce26511483362abe3cf5990d03dc34193fd52c40dd965dcb1a1cd52f8
+thumbnail: cdn:/8f46b5bce26511483362abe3cf5990d03dc34193fd52c40dd965dcb1a1cd52f8
 photos:
   - url: cdn:/31b810304b2f162cf5513cd706ceadd510717c6a24ab9fe97ccc88e2dbc3f2d5
   - url: cdn:/9f07caae70c5f71dbc6841cb34780dff1cd9996fa8bd9b87949c0ae53e6b195c

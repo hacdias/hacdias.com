@@ -3,7 +3,7 @@ title: Surviving FOSDEM '24
 date: 2024-02-05T18:16:01+01:00
 categories:
   - writings
-coverImage: cdn:/2024-02-git
+thumbnail: cdn:/2024-02-git
 tags:
   - conference
   - fosdem

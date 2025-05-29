@@ -3,7 +3,7 @@ title: London
 date: 2022-04-27T12:00:00+02:00
 categories:
   - photos
-coverImage: cdn:/2022-04-london-dara
+thumbnail: cdn:/2022-04-london-dara
 photos:
   - title: Dara, Chris and I
     url: cdn:/2022-04-london-dara

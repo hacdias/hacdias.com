@@ -5,7 +5,7 @@ aliases:
   - /2024/01/07/vergeet-niet-om-in-te-checken-nederlands-praten/
 categories:
   - writings
-coverImage: cdn:/2014-01-sneeuwpop-cupcakes
+thumbnail: cdn:/2014-01-sneeuwpop-cupcakes
 language: nl
 syndication:
   - https://fosstodon.org/@hacdias/111714188031262494

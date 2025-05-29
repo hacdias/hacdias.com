@@ -3,7 +3,7 @@ title: "\U0001F338 A Visit to the Bloesempark"
 date: 2022-03-27T11:03:07.069215+02:00
 categories:
   - photos
-coverImage: cdn:/2022-03-cherry-blossoms-06
+thumbnail: cdn:/2022-03-cherry-blossoms-06
 photos:
   - url: cdn:/2022-03-cherry-blossoms-06
   - url: cdn:/2022-03-cherry-blossoms-01

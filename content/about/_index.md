@@ -1,6 +1,6 @@
 ---
 title: About
-coverImage: cdn:/2024-09-stratumse-heide
+thumbnail: cdn:/2024-09-stratumse-heide
 ---
 
 <span id='greetings'>**<span id='hello'>Hi, I'm</span> <span style="color: var(--c)">Henrique</span>! 👋**</span>

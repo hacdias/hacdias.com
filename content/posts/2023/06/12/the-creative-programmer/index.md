@@ -3,7 +3,7 @@ title: The Creative Programmer
 date: 2023-06-12T09:26:30.096860512+02:00
 categories:
   - readings
-coverImage: cdn:/2023-06-the-creative-programmer
+thumbnail: cdn:/2023-06-the-creative-programmer
 rating: 4
 read:
   author: Wouter Groeneveld

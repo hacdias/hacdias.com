@@ -3,7 +3,7 @@ title: Small Elements From My Website Inspired by Others
 date: 2023-06-20T16:53:31.690771654+02:00
 categories:
   - writings
-coverImage: cdn:/081ef31ac2089c38ae7eb7af440ee702af52e6e8b4bec8b5041ba3dc23755d4b
+thumbnail: cdn:/081ef31ac2089c38ae7eb7af440ee702af52e6e8b4bec8b5041ba3dc23755d4b
 syndication:
   - https://fosstodon.org/@hacdias/110597732852786375
 tags:

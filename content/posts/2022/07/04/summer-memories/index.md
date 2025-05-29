@@ -3,7 +3,7 @@ title: Summer Memories
 date: 2022-07-04T20:19:29.844308258+02:00
 categories:
   - photos
-coverImage: cdn:/2022-07-zeeland
+thumbnail: cdn:/2022-07-zeeland
 photos:
   - title: Zeeland
     url: cdn:/2022-07-zeeland

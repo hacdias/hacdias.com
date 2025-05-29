@@ -3,7 +3,7 @@ title: Traveling to Vienna With the Nightjet
 date: 2024-02-27T18:37:11+01:00
 categories:
   - writings
-coverImage: cdn:/2024-02-nightjet
+thumbnail: cdn:/2024-02-nightjet
 syndication:
   - https://fosstodon.org/@hacdias/112004673006559756
 tags:

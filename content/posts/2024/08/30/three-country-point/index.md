@@ -3,7 +3,7 @@ title: Three-Country Point
 date: 2024-08-30T21:55:09.480810523+02:00
 categories:
   - writings
-coverImage: cdn:/2024-08-drielandenpunt
+thumbnail: cdn:/2024-08-drielandenpunt
 tags:
   - travel
 ---

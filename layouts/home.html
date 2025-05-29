@@ -50,7 +50,7 @@
   {{ range .pages }}
   <div class='br{{ if $.feed }} h-entry{{ end }}'>
     <a href='{{ .RelPermalink }}' class='nl lh {{ if $.feed }} u-url{{ end }}'>
-      {{ $imageUrl := or .Params.coverImage (index (index .Params.photos 0) "url") }}
+      {{ $imageUrl := or .Params.thumbnail (index (index .Params.photos 0) "url") }}
       {{ partial "helpers/figure" (dict
         "Destination" $imageUrl
         "Title" .Title

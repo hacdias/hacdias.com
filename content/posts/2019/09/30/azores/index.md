@@ -3,7 +3,7 @@ title: Azores
 date: 2019-09-30T07:58:31Z
 categories:
   - photos
-coverImage: cdn:/2019-07-azores-01
+thumbnail: cdn:/2019-07-azores-01
 photos:
   - url: cdn:/2019-07-azores-01
   - url: cdn:/2019-07-azores-02

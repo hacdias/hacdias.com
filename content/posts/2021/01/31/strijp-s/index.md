@@ -3,7 +3,7 @@ title: Strijp-S
 date: 2021-01-31T07:33:49Z
 categories:
   - photos
-coverImage: cdn:/2021-01-strijps
+thumbnail: cdn:/2021-01-strijps
 photos:
   - title: Strijp-S
     url: cdn:/2021-01-strijps

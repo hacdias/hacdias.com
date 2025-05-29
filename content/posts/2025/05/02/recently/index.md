@@ -3,7 +3,7 @@ title: Recently in April '25
 date: 2025-05-02T09:17:48.076081448+02:00
 categories:
   - writings
-coverImage: cdn:/2025-05-02-recently-tokyo
+thumbnail: cdn:/2025-05-02-recently-tokyo
 location:
   latitude: 51.44586
   longitude: 5.46149

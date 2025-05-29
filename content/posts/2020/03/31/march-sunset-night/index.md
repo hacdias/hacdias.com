@@ -3,7 +3,7 @@ title: Sunset & Sky
 date: 2020-03-31T12:00:00.893Z
 categories:
   - photos
-coverImage: cdn:/2020-03-sunset-tree
+thumbnail: cdn:/2020-03-sunset-tree
 photos:
   - title: A Tree in the Sunset
     url: cdn:/2020-03-sunset-tree

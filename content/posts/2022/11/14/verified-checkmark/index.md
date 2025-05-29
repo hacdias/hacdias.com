@@ -4,7 +4,7 @@ description: Got myself a verified checkmark
 date: 2022-11-14T11:41:03.405826199+01:00
 categories:
   - writings
-coverImage: cdn:/1858a747667c2d9b8c64ccac04679aae7c3caacabadcf172c44ceca288aaae7b
+thumbnail: cdn:/1858a747667c2d9b8c64ccac04679aae7c3caacabadcf172c44ceca288aaae7b
 location:
   country: Netherlands
   latitude: 51.43249

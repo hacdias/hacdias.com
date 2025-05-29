@@ -3,7 +3,7 @@ title: Fear of Deep Water
 date: 2024-09-09T17:24:30+02:00
 categories:
   - writings
-coverImage: cdn:/2024-09-swimming-pool
+thumbnail: cdn:/2024-09-swimming-pool
 tags:
   - fears
   - reflection

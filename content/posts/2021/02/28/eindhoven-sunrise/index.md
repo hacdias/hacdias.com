@@ -3,7 +3,7 @@ title: Eindhoven Sunrise
 date: 2021-02-28T00:00:00Z
 categories:
   - photos
-coverImage: cdn:/2021-02-eindhoven-sunrise-church
+thumbnail: cdn:/2021-02-eindhoven-sunrise-church
 photos:
   - url: cdn:/2021-02-eindhoven-sunrise-church
   - url: cdn:/2021-02-eindhoven-sunrise
