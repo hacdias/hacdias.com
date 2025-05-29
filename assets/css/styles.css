@@ -60,6 +60,10 @@ body {
   min-height: 100vh;
 }
 
+@view-transition {
+  navigation: auto;
+}
+
 code,
 kbd,
 samp,
