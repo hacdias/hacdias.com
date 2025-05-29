@@ -6,7 +6,7 @@ aliases:
   - /minisites/mapgen
 categories:
   - writings
-coverImage: cdn:/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404
+thumbnail: cdn:/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404
 feedContentWarning: true
 syndication:
   - https://fosstodon.org/@hacdias/110598001232151147

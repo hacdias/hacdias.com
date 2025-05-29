@@ -3,7 +3,7 @@ title: Zürich
 date: 2024-03-22T15:36:14+01:00
 categories:
   - photos
-coverImage: cdn:/2024-03-zurich
+thumbnail: cdn:/2024-03-zurich
 photos:
   - title: Misty Boat
     url: cdn:/2024-03-zurich-boat

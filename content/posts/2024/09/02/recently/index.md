@@ -3,7 +3,7 @@ title: Recently in August '24
 date: 2024-09-02T17:54:00+02:00
 categories:
   - writings
-coverImage: cdn:/2024-08-ejv-beatrix
+thumbnail: cdn:/2024-08-ejv-beatrix
 tags:
   - now
 ---

@@ -3,7 +3,7 @@ title: Reflecting on What I Want To Learn Next
 date: 2024-01-09T22:17:03+01:00
 categories:
   - writings
-coverImage: cdn:/2024-01-summery-leaves
+thumbnail: cdn:/2024-01-summery-leaves
 tags:
   - personal growth
   - reflection

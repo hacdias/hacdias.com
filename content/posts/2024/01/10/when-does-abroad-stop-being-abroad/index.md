@@ -3,7 +3,7 @@ title: When Does Abroad Stop Feeling Like Abroad?
 date: 2024-01-10T18:33:27.841874546+01:00
 categories:
   - writings
-coverImage: cdn:/2024-01-sun-bench
+thumbnail: cdn:/2024-01-sun-bench
 syndication:
   - https://fosstodon.org/@hacdias/111732926348776375
 tags:

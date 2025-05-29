@@ -3,7 +3,7 @@ title: Visiting The Spoorwegmuseum
 date: 2023-05-06T22:22:09+02:00
 categories:
   - writings
-coverImage: cdn:/2023-05-spoorwegmuseum
+thumbnail: cdn:/2023-05-spoorwegmuseum
 feedContentWarning: true
 syndication:
   - https://fosstodon.org/@hacdias/110323610429118818

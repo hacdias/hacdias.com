@@ -3,7 +3,7 @@ title: March Lockdown
 date: 2020-03-31T12:00:00.893Z
 categories:
   - photos
-coverImage: cdn:/2020-03-hometown-cross
+thumbnail: cdn:/2020-03-hometown-cross
 photos:
   - title: Do Not Enter
     url: cdn:/2020-03-hometown-cross

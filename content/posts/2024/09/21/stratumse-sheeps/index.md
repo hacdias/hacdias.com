@@ -8,7 +8,7 @@ photos:
     title: Do Not Enter
 categories:
   - photos
-coverImage: cdn:/2024-09-stratumse-heide-02
+thumbnail: cdn:/2024-09-stratumse-heide-02
 ---
 
 Some sheep found roaming the fields of the [Stratumse Heide](https://nl.wikipedia.org/wiki/Stratumse_Heide).

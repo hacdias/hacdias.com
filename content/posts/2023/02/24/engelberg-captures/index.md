@@ -3,7 +3,7 @@ title: Engelberg Captures
 date: 2023-02-24T14:13:39.745831911+01:00
 categories:
   - photos
-coverImage: cdn:/5dfed42211aafca2f47fa437aa14841e3dda52341f5699efe0b6856149bb9e8d
+thumbnail: cdn:/5dfed42211aafca2f47fa437aa14841e3dda52341f5699efe0b6856149bb9e8d
 photos:
   - url: cdn:/c0ee36b0770dec6bbd33865d5c8f5e9fbf27a320130120eb2a6ea22d484c25aa
   - url: cdn:/5dfed42211aafca2f47fa437aa14841e3dda52341f5699efe0b6856149bb9e8d

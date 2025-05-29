@@ -3,7 +3,7 @@ title: Strijp-S Nacht
 date: 2024-03-07T19:11:35+01:00
 categories:
   - photos
-coverImage: cdn:/2024-03-strijps-nacht-vershal
+thumbnail: cdn:/2024-03-strijps-nacht-vershal
 photos:
   - url: cdn:/2024-03-strijps-nacht-vershal
   - url: cdn:/2024-03-strijps-nacht-chris

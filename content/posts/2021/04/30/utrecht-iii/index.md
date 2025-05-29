@@ -3,7 +3,7 @@ title: Utrecht III
 date: 2021-04-30T12:02:00Z
 categories:
   - photos
-coverImage: cdn:/2021-04-utrecht-11
+thumbnail: cdn:/2021-04-utrecht-11
 photos:
   - url: cdn:/2021-04-utrecht-11
   - url: cdn:/2021-04-utrecht-01
