@@ -1,6 +1,7 @@
 ---
 title: Recently in November '24
 date: 2024-12-01T16:10:42+01:00
+coverImage: cdn:/2024-11-weesperzijde
 categories:
   - writings
 tags:
