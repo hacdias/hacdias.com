@@ -1,6 +1,5 @@
 ---
 title: About
-description: I was born in Portugal and I am not pursuing a Master's degree in the Netherlands, while working on fascinating projects. This page tells a bit more about me.
 coverImage: cdn:/2024-09-stratumse-heide
 ---
 
@@ -10,33 +9,24 @@ I come from a little town in the countryside of Portugal 🇵🇹, and I've been
 
 <!--more-->
 
-Since an early age, I have been curious about computers and I always wanted to work with them, although at the time I did not understand what that involved. As the years passed by, I used the Internet to satisfy my curiosity and learn more and more about computers. I remember spending hours researching which programming language to learn first and, at the time, decided on C#. I even bought a book! Turns out, I never read that book and ended up learning PHP instead.
-
 ![](cdn:/2024-09-stratumse-heide "In The Stratumse Heide")
 
-During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest tech blogs in Portugal. I wrote over 400 tutorials, tech news and other articles. In addition, I published a 60 page e-book on how to program in C for beginners at the age of 15. At the same time, I had the opportunity to do some software development work at [Upframe](https://github.com/upframe) where I met some amazing people.
+I started playing with computers at an early age. When my father bought his first computer, I carved a monitor, keyboard and mouse from the cardboard boxes and made my own "computer". As the years passed, I decided to learn programming. I spent hours researching which programming language to learn first and decided on C#. I bought a book, which I never read, and ended up learning PHP instead.
 
-After secondary school, I moved to Lisbon in order to pursue a BSc in Information Systems and Computer Engineering. I spent three years studying at [IST](https://tecnico.ulisboa.pt/pt/), where I met amazing people during my stay. At the same time, I got recruited for [Protocol Labs](https://protocol.ai/), where I had the opportunity to work on further decentralizing the web.
+During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest tech blogs in Portugal. At the same time, I had the opportunity to do some software development work for [Upframe](/2017/07/12/how-did-i-start-working-remotely-at-a-startup/), which was the time I started getting introduced to a bit more of the startup world.
 
-Against all odds - call it _the pandemic_ 🦠 - I moved to the Netherlands to pursue a MSc in Computer Science and Engineering at [TU/e](https://tue.nl). During this time, I was a student mentor, where I mentored new master students from different nationalities during their first semester in The Netherlands. In addition, I was a Teaching Assistant for the Deep Learning course, where I prepared materials, gave practical classes and helped students.
+After secondary school, in 2017, I moved to Lisbon to pursue a BSc in Computer Science and Engineering at [IST](https://tecnico.ulisboa.pt/pt/). A few months after, I got recruited by [Protocol Labs](https://protocol.ai/), where I had the opportunity to work on the decentralization of the web in a full open source manner. I am forever grateful for this [opportunity](/2018/10/27/working-at-protocol-labs/).
 
-Later, I joined Protocol Labs full-time. About a year in, multiple teams at Protocol Labs nucleated into their own companies with the goal of long term self-sustainability. As consequence, I joined the [Interplanetary Shipyard](https://blog.ipfs.tech/shipyard-hello-world/) with the focus on further decentralizing the web. However, I realized shortly after that my journey in the interplanetary technologies was coming to an end.
+A few years later, in 2020, in the midst of the pandemic, I [moved](/2020/03/30/a-new-adventure/) to The Netherlands, where I [obtained](/2022/11/25/msc-graduation-ceremony/) my MSc in Computer Science and Engineering degree at the [TU/e](https://tue.nl). Moving to a new country - especially during such turbulent times - has given me the opportunity to grow in ways I was not expecting and a new place to [call home](/2024/01/10/when-does-abroad-stop-being-abroad/).
 
-<!-- Afterwards, I joined [Ver.iD](https://ver.id/), where I got to learn a lot about decentralized identity and verifiable credentials. -->
+After finishing university, in 2022, I joined Protocol Labs full-time. About a year in, multiple teams spun off, with the goal of long term sustainability. As consequence, I joined the [Interplanetary Shipyard](https://blog.ipfs.tech/shipyard-hello-world/) with the focus on further decentralizing the web. However, I [realized](/2024/05/06/leaving-the-interplanetary-journey/) that my interplanetary journey was coming to an end.
 
-## 🎩 Colophon {#colophon}
+[Now](/tags/now), I work at [Ver.iD](https://ver.id/), where we're building a platform to verify and issue verifiable credentials into decentralized identity wallets. On the side, I work on [open source](https://github.com/hacdias) projects, usually related to the IndieWeb, or just contributions here and there. 
 
-I started this website in 2014, when I was 14. At the time, all the content was in Portuguese, and I was running multiple blogs. After a while, I decided to start writing in English hoping it would improve my English skills, which I can argue that worked. Nowadays, all other blogs I had are merged under the current domain.
+## 🛠️ Colophon {#colophon}
 
-This website has seen quite a few redesigns. I [wrote](/2022/03/25/my-website-before-indieweb) about all the main designs I had before this website was part of the IndieWeb community, and [after](/2022/06/18/my-website-after-indieweb). I am still not 100% settled on the current design. However, major changes are slowing down, which means I might be coming to a good point where I am mostly satisfied.
+I [started](/2014/07/12/apresentacao/) this website back in 2014, when I was just 14. At the time, I was running multiple blogs, in multiple languages. After a while, motivated by the idea of improving my English skills and reduce the amount of websites I was running, I [unified](/2015/02/11/i-have-moved-again/) all of them under a single roof. The website has also seen quite a [few](/2022/03/25/my-website-before-indieweb) [redesigns](/2022/06/18/my-website-after-indieweb) over the years, but that has not changed as often in the recent times.
 
-With the exception from a few pages, this website is statically-generated by [Hugo][hugo], my favorite website generator. This website has been generated by Hugo [since 2015][hello-hugo], except during a [short][bye-hugo] [period][hello-again] between November 2021 and April 2023. During this period, I was running my own custom backend, called Eagle. [Eagle] still backs dynamic portions of this website, such as the search results.
+For the longest time, this website has been statically-generated by [Hugo](/2015/08/12/farewell-wordpress-hello-hugo/), but things [have](/2021/11/19/farewell-hugo-hello-eagle/) [changed](/2023/06/13/farewell-eagle-kinda-hello-hugo/) a few times. In addition to Hugo, there's [Eagle](https://github.com/hacdias/eagle), which is a custom made engine to support additional, more dynamic features, like [IndieWeb](https://indieweb.org/) integrations and the search page.
 
-This website currently relies on a bunch of services, such as [Hetzner](https://www.hetzner.com/), [Cloudflare](https://www.cloudflare.com/) and [Bunny](https://bunny.net/). I would like to move out of Cloudflare in the future due to their latest historic with down time. However, I haven't spent some time doing that yet. Other software I use can be found in my [uses] page.
-
-[hugo]: https://gohugo.io/
-[hello-hugo]: /2015/08/12/farewell-wordpress-hello-hugo/
-[bye-hugo]: /2021/11/19/farewell-hugo-hello-eagle/
-[hello-again]: /2023/06/13/farewell-eagle-kinda-hello-hugo/
-[eagle]: https://github.com/hacdias/eagle
-[uses]: /uses/
+All the content on this website is produced by me, including photos. It is, by default, copyrighted unless otherwise noted. I do not use LLMs or other AIs to write or generate any of the content of this website. Other tools I use, whether to run this website, or not, can be found in my [uses](/uses/) page. I also write often about how this website [works](/tags/meta/).
