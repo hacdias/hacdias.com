@@ -4314,6 +4314,16 @@
     ]
   },
   {
+    "domain": "raycast.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://www.raycast.com/"
+      }
+    ]
+  },
+  {
     "domain": "rdw.nl",
     "count": 1,
     "links": [
