@@ -1,6 +1,5 @@
 const element = document.getElementById('hello')
-
-const helloText = ['Hi 👋, I’m', 'Hoi 👋, Ik ben', 'Olá 👋, sou o']
+const helloText = ['Hi, I’m', 'Hoi, Ik ben', 'Olá, sou o']
 
 let helloTextIndex = 0
 

@@ -3,7 +3,7 @@ title: About
 coverImage: cdn:/2024-09-stratumse-heide
 ---
 
-<span id='greetings'>**<span id='hello'>Hi 👋, I'm</span> <span style="color: var(--c)">Henrique</span>!**</span>
+<span id='greetings'>**<span id='hello'>Hi, I'm</span> <span style="color: var(--c)">Henrique</span>! 👋**</span>
 
 I come from a little town in the countryside of Portugal 🇵🇹, and I've been living The Netherlands 🇳🇱 for a few years. I'm a software engineer who cares open source, user agency, decentralization, identity, and building impactful tools and products. In my spare time, I enjoy staying physically active, photography, programming, or a nice cup of coffee or tea.
 
