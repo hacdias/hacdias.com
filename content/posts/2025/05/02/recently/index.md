@@ -4,11 +4,11 @@ date: 2025-05-02T09:17:48+02:00
 categories:
   - writings
 location:
-  latitude: 51.4459
-  longitude: 5.46155
-  locality: Eindhoven
-  region: North Brabant
   country: Netherlands
+  latitude: 51.4459
+  locality: Eindhoven
+  longitude: 5.46155
+  region: North Brabant
 syndication:
   - https://fosstodon.org/@hacdias/114437014918774075
   - https://bsky.app/profile/hacdias.com/post/3lqd7gi3fxs2k
