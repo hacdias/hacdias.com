@@ -7,5 +7,5 @@ categories:
   - photos
 syndication:
   - https://fosstodon.org/@hacdias/114482601173705390
-  - https://bsky.app/profile/did:plc:xsx3bphrwkgeo3qnfjhzmdra/post/3lqd7hyiyih2z
+  - https://bsky.app/profile/hacdias.com/post/3lqd7hyiyih2z
 ---

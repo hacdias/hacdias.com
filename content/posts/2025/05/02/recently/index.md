@@ -11,7 +11,7 @@ location:
   country: Netherlands
 syndication:
   - https://fosstodon.org/@hacdias/114437014918774075
-  - https://bsky.app/profile/did:plc:xsx3bphrwkgeo3qnfjhzmdra/post/3lqd7gi3fxs2k
+  - https://bsky.app/profile/hacdias.com/post/3lqd7gi3fxs2k
 tags:
   - now
 thumbnail: cdn:/2025-05-02-recently-tokyo

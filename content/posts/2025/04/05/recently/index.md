@@ -11,7 +11,7 @@ location:
   country: Netherlands
 syndication:
   - https://fosstodon.org/@hacdias/114285212069038533
-  - https://bsky.app/profile/did:plc:xsx3bphrwkgeo3qnfjhzmdra/post/3lqd7ktsbec27
+  - https://bsky.app/profile/hacdias.com/post/3lqd7ktsbec27
 tags:
   - now
 ---
