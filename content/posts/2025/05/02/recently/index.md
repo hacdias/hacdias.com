@@ -1,19 +1,20 @@
 ---
 title: Recently in April '25
-date: 2025-05-02T09:17:48.076081448+02:00
+date: 2025-05-02T09:17:48+02:00
 categories:
   - writings
-thumbnail: cdn:/2025-05-02-recently-tokyo
 location:
-  latitude: 51.44586
-  longitude: 5.46149
+  latitude: 51.4459
+  longitude: 5.46155
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
 syndication:
   - https://fosstodon.org/@hacdias/114437014918774075
+  - https://bsky.app/profile/did:plc:xsx3bphrwkgeo3qnfjhzmdra/post/3lqd7gi3fxs2k
 tags:
   - now
+thumbnail: cdn:/2025-05-02-recently-tokyo
 ---
 
 April was a fantastic month. Spring is now on full swing, the trees and flowers are in full blossom, and the weather is warming up - perhaps a bit too much. It was also a month of travel, my second intercontinental trip ever. Let's take a look!

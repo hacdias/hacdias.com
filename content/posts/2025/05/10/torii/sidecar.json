@@ -1,0 +1,20 @@
+{
+  "interactions": [
+    {
+      "author": "Marijke Luttekes",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/95c4d6e6c5676bcced0373996cc53abbf1f7bb37ab890bd2de41e270d83587bd.png",
+      "authorUrl": "https://hachyderm.io/@mahryekuh",
+      "date": "2025-05-10T11:12:44Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/114482601173705390/114403642896446528",
+      "type": "like"
+    },
+    {
+      "author": "Nüjtag :unverified:",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/91acb6ca12204beaeec7307c66640966392ac074ec7af918951c7bbb1aeeb77c.png",
+      "authorUrl": "https://fosstodon.org/@Nujtag",
+      "date": "2025-05-10T11:12:44Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/114482601173705390/331063",
+      "type": "like"
+    }
+  ]
+}
