@@ -6,5 +6,5 @@ photos:
 categories:
   - photos
 syndication:
-  - https://bsky.app/profile/did:plc:xsx3bphrwkgeo3qnfjhzmdra/post/3lqd7jaxcof23
+  - https://bsky.app/profile/hacdias.com/post/3lqd7jaxcof23
 ---
