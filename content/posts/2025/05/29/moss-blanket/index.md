@@ -7,7 +7,7 @@ categories:
   - photos
 syndication:
   - https://fosstodon.org/@hacdias/114592392890260693
-  - https://bsky.app/profile/did:plc:xsx3bphrwkgeo3qnfjhzmdra/post/3lqdbv6xca625
+  - https://bsky.app/profile/hacdias.com/post/3lqdbv6xca625
 ---
 
 All temples in Japan were unique on their own. This one was covered by a moss blanket, making it one of my favorite ones to see. The gardening work was also mesmerizing.

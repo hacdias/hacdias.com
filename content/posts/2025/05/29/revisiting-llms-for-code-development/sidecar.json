@@ -1,5 +1,24 @@
 {
+  "replies": [
+    {
+      "content": "I feel the same about autocomplete, it’s nice when it works but most of the time it’s just distracting. I have a keybinding to toggle it on/off, but I keep it off most of the time.",
+      "author": "Nimo 🏳️‍🌈",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/e952da28a7a2f7ac2ebb1f1a2b393d411ea2c0bb24ae83539076590a1db203fc.jpg",
+      "authorUrl": "https://bsky.app/profile/nimobeeren.com",
+      "date": "2025-05-29T21:27:27Z",
+      "url": "https://brid.gy/comment/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lqcyr7bytn23/at%253A%252F%252Fdid%253Aplc%253Albjgxkpi67g5yya7trkeemla%252Fapp.bsky.feed.post%252F3lqdnvhq35s2n",
+      "type": "reply"
+    }
+  ],
   "interactions": [
+    {
+      "author": "Nimo 🏳️‍🌈",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/e952da28a7a2f7ac2ebb1f1a2b393d411ea2c0bb24ae83539076590a1db203fc.jpg",
+      "authorUrl": "https://bsky.app/profile/nimobeeren.com",
+      "date": "2025-05-29T21:46:06Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lqcyr7bytn23/did%253Aplc%253Albjgxkpi67g5yya7trkeemla",
+      "type": "like"
+    },
     {
       "author": "Russell Dempsey",
       "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/2b75bd56ffbd8576b2b40bec3a2c587e4990223692c39dda8b2086936c7aad61.jpg",
