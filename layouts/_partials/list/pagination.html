@@ -1,6 +1,6 @@
 {{- with .Paginator }}
   {{- if gt .TotalPages 1 }}
-    <nav class="pagination">
+    <nav>
       {{- $currentPageNumber := .PageNumber }}
       {{- with .First }}
         {{- if ne $currentPageNumber .PageNumber }}

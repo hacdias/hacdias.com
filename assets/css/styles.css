@@ -402,23 +402,11 @@ details summary {
 }
 
 #navbar {
-  display: flex;
-  color: var(--text);
   width: calc(100% + 2 * var(--ls));
   margin-top: 0;
   margin-bottom: var(--hls);
   margin-left: calc(var(--ls) * -1);
   margin-bottom: var(--hls);
-  overflow: hidden;
-  text-align: center;
-  font-weight: 700;
-}
-
-#navbar label,
-#navbar a {
-  flex-grow: 1;
-  display: block;
-  padding: var(--hms);
 }
 
 #navbar label {
@@ -465,7 +453,7 @@ details summary {
 
 #navbar,
 .box,
-.pagination,
+nav,
 .terms a,
 .terms a:visited,
 .card .more,
@@ -728,31 +716,35 @@ main pre {
 figure,
 .embedded-video,
 .media,
-.pagination {
+nav {
   margin: var(--ms) 0;
 }
 
-.pagination {
+nav {
   display: flex;
+  font-weight: 700;
+  overflow: hidden;
 }
 
-.pagination a {
+nav a,
+nav label {
   flex-grow: 1;
   padding: var(--hms);
   text-align: center;
   text-decoration: none;
 }
 
-.pagination a:hover {
+nav a:hover,
+nav label:hover {
   background-color: var(--fg);
 }
 
-.pagination a[aria-disabled='true'] {
+nav a[aria-disabled='true'] {
   cursor: not-allowed;
   opacity: 0.5;
 }
 
-.pagination a[aria-current='page'] {
+nav a[aria-current='page'] {
   background-color: var(--fg);
   font-weight: 700;
 }
