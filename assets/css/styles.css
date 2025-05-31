@@ -451,7 +451,6 @@ details summary {
   margin-left: var(--hms);
 }
 
-#navbar,
 .box,
 nav,
 .terms a,
@@ -518,8 +517,6 @@ main pre {
   height: 100%;
 }
 
-#navbar a:hover,
-#navbar a[aria-current='page'],
 .terms a:hover,
 .card .more:hover {
   background-color: var(--fg);
