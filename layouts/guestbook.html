@@ -5,11 +5,11 @@
 
     <div style='clear: both; text-align: center;'>
       {{ if eq hugo.Environment "eagle" }}
-        <a href='#guestbook-form'>
+        <a class='button' href='#guestbook-form'>
       {{ else }}
-        <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: Guestbook Entry&body=Name%3A%0AWebsite%3A%0AMessage%3A" rel='noopener noreferrer'>
+        <a class='button' href="mailto:{{ .Site.Params.author.email }}?subject=Re: Guestbook Entry&body=Name%3A%0AWebsite%3A%0AMessage%3A" rel='noopener noreferrer'>
       {{ end }}
-        <button>Sign Guestbook </button>
+        📖 Sign Guestbook
       </a>
     </div>
 

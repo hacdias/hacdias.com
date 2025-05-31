@@ -39,7 +39,7 @@ This section is a sort of [digital shoebox](/2024/01/13/making-a-digital-shoebox
 - [🌩️ Thunderstorm](/minisites/thunderstorm/)
 - [📺 TV Noise](/minisites/tv-noise/)
 - [🚦 Uma História de Trânsito](/minisites/historia-transito/)
-{.terms #more-list}
+{.terms}
 
 <audio id="music" loop>
   <source src="https://cdn.hacdias.com/media/nyan-cat.mp3" type="audio/mpeg">

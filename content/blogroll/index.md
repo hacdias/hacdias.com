@@ -7,7 +7,7 @@ In this page, you can find an alphabetically sorted list of blogs, websites and 
 
 <!--more-->
 
-<a href="./feeds.opml" download='feeds.opml'><button>Download OPML</button></a>
+<a href="./feeds.opml" download='feeds.opml' class='button'>📥 Download OPML</a>
 
 ## 🖊️ Blogs {#blogs}
 
