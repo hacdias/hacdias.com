@@ -22,7 +22,7 @@
   height: 0.8rem;
   width: 0.8rem;
   display: inline-block;
-  border: 1px solid var(--dark-gray);
+  border: 1px solid var(--text);
   margin-right: 0.2rem;
   margin-bottom: -0.1rem;
 }
