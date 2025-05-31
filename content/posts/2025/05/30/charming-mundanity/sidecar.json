@@ -1,0 +1,20 @@
+{
+  "interactions": [
+    {
+      "author": "Wouter",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/c11eaeae4f50c393e7b2e552e98e795cef67a3ea142da746a9be8e6940e47837.jpg",
+      "authorUrl": "https://dosgame.club/@jefklak",
+      "date": "2025-05-30T20:40:36Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/114597074912585982/109563727763050382",
+      "type": "like"
+    },
+    {
+      "author": "cjeng",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/982f417c58290904dc956f028966e812926f31ad1b7c02f867b2c5eacaba865c.jpg",
+      "authorUrl": "https://fosstodon.org/@cjeng",
+      "date": "2025-05-30T17:54:12Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/114597074912585982/109364689364689964",
+      "type": "like"
+    }
+  ]
+}
