@@ -64,8 +64,8 @@
     --bg-l: 99%;
     --fg-l: 92%;
     --mg-l: 97%;
-    --dark-gray: #000;
-    --light-gray: #555555;
+    --text: #000;
+    --light-text: #555555;
   }
 
   h2 {

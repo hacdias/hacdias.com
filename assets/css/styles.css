@@ -7,21 +7,19 @@
   --f5: 0.833rem;
 
   /* Colors */
+  --text: #212121;
+  --light-text: #555555;
   --c-h: 223;
-  --c-s: 80%;
+  --c-s: 50%;
   --c-l: 43%;
   --c: hsl(var(--c-h), var(--c-s), var(--c-l));
   --c-text: #f4f4f4;
   --bg-l: 99%;
   --bg: hsl(var(--c-h), var(--c-s), var(--bg-l));
-  --fg-l: 92%;
-  --fg: hsl(var(--c-h), var(--c-s), var(--fg-l));
   --mg-l: 97%;
   --mg: hsl(var(--c-h), var(--c-s), var(--mg-l));
-
-  /* Blacks to whites */
-  --dark-gray: #222222;
-  --light-gray: #555555;
+  --fg-l: 92%;
+  --fg: hsl(var(--c-h), var(--c-s), var(--fg-l));
 
   /* Highlight colors */
   --h-a: #1c01ce;
@@ -54,7 +52,7 @@ html {
 }
 
 body {
-  color: var(--dark-gray);
+  color: var(--text);
   background-color: var(--bg);
   background-attachment: fixed;
   min-height: 100vh;
@@ -197,7 +195,7 @@ li {
 }
 
 .lg {
-  color: var(--light-gray);
+  color: var(--light-text);
 }
 
 .wn {
@@ -213,7 +211,7 @@ textarea {
   min-width: 0;
   border-radius: var(--radius);
   background: var(--bg);
-  color: var(--dark-gray);
+  color: var(--text);
 }
 
 input:focus,
@@ -278,7 +276,7 @@ ol {
 figcaption {
   text-align: center;
   font-size: var(--f5);
-  color: var(--dark-gray);
+  color: var(--text);
   margin: 0.25rem 0;
 }
 
@@ -405,7 +403,7 @@ details summary {
 
 #navbar {
   display: flex;
-  color: var(--c);
+  color: var(--text);
   width: calc(100% + 2 * var(--ls));
   margin-top: 0;
   margin-bottom: var(--hls);
@@ -784,18 +782,14 @@ figure,
   --fg-l: 15%;
   --mg-l: 9%;
   --bg-l: 2%;
-  --dark-gray: #eee;
-  --light-gray: #ccc;
+  --text: #eee;
+  --light-text: #ccc;
 
   --h-a: #d0bf69;
   --h-b: #fc6a5d;
   --h-c: #d0a8ff;
   --h-d: #6c7986;
   --h-e: #fd8f3f;
-}
-
-.dark #navbar {
-  color: var(--c-text);
 }
 
 :root.dark .only-light, 
