@@ -1,11 +1,20 @@
 ---
-title: "Recently in May '25"
+title: Recently in May '25
 date: 2025-06-01T09:39:47+02:00
-thumbnail: cdn:/2025-06-01-recently-01
 categories:
-- writings
+  - writings
+location:
+  latitude: 51.44582
+  longitude: 5.4616
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3lqjr3exer623
+  - https://fosstodon.org/@hacdias/114606972999345404
 tags:
-- now
+  - now
+thumbnail: cdn:/2025-06-01-recently-01
 ---
 
 May has now come to an end. We started seeing the first signs of summer, warmth and, at the same time, some rain, to keep us refreshed. It was an unusually calm month in my life, I would say. However, I have the feeling that it is the calm before the storm.
@@ -26,11 +35,11 @@ While we were there, we not only ate very well, but we also did a hike to the Bo
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![Sofia](cdn:/2025-06-01-recently-03)
+![Sofia, seen from the mountain](cdn:/2025-06-01-recently-03)
 
 ![St. Alexander Nevsky Cathedral](cdn:/2025-06-01-recently-04)
 
-![Siphon](cdn:/2025-06-01-recently-02)
+![Yama Cold Brew Tower](cdn:/2025-06-01-recently-02)
 
 </div>
 
