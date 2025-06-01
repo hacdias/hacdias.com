@@ -5,7 +5,7 @@
 
   {{ partial "post/content" . }}
 
-  <ul class='terms'>
+  <ul class='buttons'>
   {{ range .Data.Terms.Alphabetical }}
     <li><a href="{{ .Page.RelPermalink }}">📁 {{ .Page.Title }}</a></li>
   {{ end }}
