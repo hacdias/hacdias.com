@@ -12,7 +12,7 @@ img.book {
 }
 
 :root.dark img.book {
-  filter: drop-shadow(0px 0px 2px white);
+  filter: invert(1);
 }
 </style>
 
