@@ -19,6 +19,7 @@
   --mg: hsl(var(--c-h), var(--c-s), var(--mg-l));
   --fg-l: 92%;
   --fg: hsl(var(--c-h), var(--c-s), var(--fg-l));
+  --ag: hsl(var(--c-h), var(--c-s), 99.9%);
 
   /* Highlight colors */
   --h-a: #1c01ce;
@@ -435,18 +436,24 @@ button,
 .button,
 .buttons a,
 .buttons a:visited,
+.card,
 .highlight > pre,
 main pre {
   border: var(--border) solid var(--fg);
   background-color: var(--mg);
   border-radius: var(--radius);
+  box-shadow: var(--fg) 1px 2px 2px;
+}
+
+.card,
+.highlight > pre,
+main pre {
+  background-color: var(--ag);
 }
 
 .card {
   overflow: hidden;
-  border-radius: var(--radius);
-  border: var(--border) solid var(--fg);
-  display: block
+  display: block;
 }
 
 .card > * {
@@ -517,7 +524,6 @@ button:hover,
 main pre {
   overflow: auto;
   padding: var(--ms);
-  background-color: var(--mg);
 }
 
 .highlight .line {
@@ -756,14 +762,15 @@ nav a[aria-current='page'] {
 }
 
 :root.dark {
+  --text: #eee;
+  --light-text: #ccc;
   --c-h: 200;
   --c-s: 100%;
   --c-l: 40%;
   --fg-l: 15%;
   --mg-l: 9%;
   --bg-l: 2%;
-  --text: #eee;
-  --light-text: #ccc;
+  --ag: var(--bg);
 
   --h-a: #d0bf69;
   --h-b: #fc6a5d;
