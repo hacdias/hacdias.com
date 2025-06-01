@@ -439,8 +439,8 @@ details summary {
 nav,
 button,
 .button,
-.terms a,
-.terms a:visited,
+.buttons a,
+.buttons a:visited,
 .highlight > pre,
 main pre {
   border: var(--border) solid var(--fg);
@@ -482,8 +482,8 @@ main pre {
 button,
 .button,
 .button:visited,
-.terms a,
-.terms a:visited {
+.buttons a,
+.buttons a:visited {
   text-decoration: none;
   padding: var(--hms);
   display: inline-block;
@@ -496,11 +496,11 @@ button,
 
 button:hover,
 .button:hover,
-.terms a:hover {
+.buttons a:hover {
   background-color: var(--fg);
 }
 
-.terms {
+.buttons {
   list-style-type: none;
   padding: 0;
   display: grid;
@@ -510,12 +510,12 @@ button:hover,
   font-size: var(--f5);;
 }
 
-.terms li {
+.buttons li {
   display: block;
   margin: 0;
 }
 
-.terms a {
+.buttons a {
   display: block;
 }
 
@@ -704,7 +704,7 @@ main pre {
 .tb,
 .box,
 .fg,
-.terms,
+.buttons,
 .card,
 .card header,
 figure,
