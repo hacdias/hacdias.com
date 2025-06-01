@@ -446,7 +446,7 @@ main pre {
   overflow: hidden;
   border-radius: var(--radius);
   border: var(--border) solid var(--fg);
-  display: block
+  display: block;
 }
 
 .card > * {
@@ -781,6 +781,11 @@ nav a[aria-current='page'] {
   :root {
     --ls: 1rem;
     --hls: 1rem;
+    --f1: 1.728rem;
+    --f2: 1.44rem;
+    --f3: 1.2rem;
+    --f4: 1rem;
+    --f5: 0.833rem;
   }
 
   body {
@@ -791,23 +796,14 @@ nav a[aria-current='page'] {
     padding: 0 var(--ls);
   }
 
+  #header .avatar {
+    max-width: 4rem;
+    margin-right: var(--hms);
+  }
+
   #navbar {
     width: 100%;
     margin-left: 0;
-  }
-}
-
-@media screen and (max-width: 44rem) {
-  :root {
-    --f1: 1.728rem;
-    --f2: 1.44rem;
-    --f3: 1.2rem;
-    --f4: 1rem;
-    --f5: 0.833rem;
-  }
-
-  .lh {
-    text-decoration: underline;
   }
 
   #navbar,
@@ -817,14 +813,18 @@ nav a[aria-current='page'] {
     text-align: left;
   }
 
-  #header .avatar {
-    max-width: 4rem;
-    margin-right: var(--hms);
-  }
-
   #navbar a,
   #header form input {
     display: none;
+  }
+
+  #footer {
+    display: block;
+    text-align: center;
+  }
+
+  .lh {
+    text-decoration: underline;
   }
 
   .tb li {
@@ -833,11 +833,6 @@ nav a[aria-current='page'] {
 
   .fg {
     grid-gap: 0.5rem;
-  }
-
-  #footer {
-    display: block;
-    text-align: center;
   }
 }
 

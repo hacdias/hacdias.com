@@ -45,7 +45,7 @@ printPathWarnings = true
   pageRef = '/categories/writings'
   weight = 3
 [[menu.main]]
-  name = '💠 Notes'
+  name = '💠 Fragments'
   pageRef = '/categories/fragments'
   weight = 4
 [[menu.main]]
