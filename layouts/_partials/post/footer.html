@@ -12,7 +12,7 @@
 
       {{ if reflect.IsMap .Params.location }}
       <li>
-        <strong>📍 Location</strong>
+        <strong>📍 Where</strong>
         <span class="p-location h-adr">
           {{ with .Params.location }}
             {{ $town := or .locality .region }}
@@ -33,7 +33,7 @@
 
       {{ with .Params.tags }}
       <li>
-        <strong>🏷️ Tags</strong>
+        <strong>📁 Tags</strong>
         <span>
         {{ range $i, $t := sort . -}}
           {{- if ne $i 0 }}, {{ end -}}
