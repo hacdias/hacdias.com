@@ -491,6 +491,7 @@ button,
   height: 100%;
   outline: 0;
   cursor: pointer;
+  color: var(--text);
 }
 
 button:hover,
