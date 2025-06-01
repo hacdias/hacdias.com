@@ -46,6 +46,11 @@
       "feed": "https://brainbaking.com/index.xml"
     },
     {
+      "title": "Dame's Blog",
+      "site": "https://dame.is",
+      "feed": "https://dame.is/feed.xml"
+    },
+    {
       "title": "Filippo Valsorda",
       "site": "https://blog.filippo.io/",
       "feed": "https://words.filippo.io/rss/"
