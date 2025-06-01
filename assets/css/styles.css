@@ -353,12 +353,6 @@ details summary {
   width: 12rem;
 }
 
-#header form button {
-  background: var(--mg);
-  border-color: var(--fg);
-  padding: var(--hms);
-}
-
 #header form button:hover {
   background: var(--fg);
 }
@@ -505,9 +499,9 @@ button:hover,
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  grid-gap: 0.5rem;
-  margin: 0 0 0.5rem 0;
-  font-size: var(--f5);;
+  grid-gap: var(--hms);
+  margin: 0 0 var(--hms) 0;
+  font-size: var(--f5);
 }
 
 .buttons li {
