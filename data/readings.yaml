@@ -1,9 +1,4 @@
-reading:
-  - name: Waiting for the Flood
-    author: Alexis Hall
-    date: 2025-05-19
-    publisher: Sourcebooks Casablanca
-    uid: isbn:9781728251370
+reading: []
 want-to-read:
   - name: Before We Say Goodbye
     author: Toshikazu Kawaguchi
@@ -28,6 +23,12 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Waiting for the Flood
+    author: Alexis Hall
+    date: 2025-06-03
+    rating: 4
+    publisher: Sourcebooks Casablanca
+    uid: isbn:9781728251370
   - name: Glitterland
     author: Alexis Hall
     date: 2025-05-18
