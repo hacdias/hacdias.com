@@ -384,7 +384,6 @@ details summary {
   margin-top: 0;
   margin-bottom: var(--hls);
   margin-left: calc(var(--ls) * -1);
-  margin-bottom: var(--hls);
 }
 
 #navbar label {
