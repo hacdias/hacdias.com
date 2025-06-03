@@ -29,9 +29,16 @@ Software Engineer passionate about open source, user agency, decentralization, i
 ## 💼 Experience {#experience}
 
 {{< resume-position 
+  title="Senior Software Engineer"
+  location="Animo Solutions" href="https://animo.id/"
+  from="06/2025" to="present" >}}
+
+{{</ resume-position >}}
+
+{{< resume-position 
   title="Software Engineer"
   location="Ver.iD" href="https://ver.id/"
-  from="06/2024" to="present" >}}
+  from="06/2024" to="05/2025" >}}
 
 - Building a platform to enable developers to retrieve verifiable credentials from multiple identity wallets into their online platforms using a single integration, using open standards, in TypeScript. 
 - Integrating verification of digital identity wallets built on both proprietary APIs, and on open standards, such as OpenID for Verifiable Presentations, SD-JWT and mDoc.
