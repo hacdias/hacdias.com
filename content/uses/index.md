@@ -24,7 +24,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 ### ⌨️ Desk {#desk}
 
-![Desk at Home](cdn:/2025-05-desk-home)
+![Desk at Home](cdn:/2025-06-desk-home)
 
 At home, we have two desks: one in our bedroom, and one in the guest bedroom. I mainly use the one in the guest bedroom. I'm also a desk person, which apparently some people are not, and I much rather prefer having a desk than just using the laptop as-is.
 
@@ -34,7 +34,7 @@ At home, we have two desks: one in our bedroom, and one in the guest bedroom. I 
 - **Monitor** <span>Dell U2723QE</span>
 - **Keyboard** <span>NuPhy Air75 V2</span>
 - **Mouse** <span>Asus Strix Impact, Logitech MX Vertical</span>
-- **Laptop Stand** <span>Rain mStand, Roost V3</span>
+- **Laptop Stand** <span>Roost V3</span>
 - **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
 {.box .tb}
 
@@ -49,7 +49,7 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 
 ### ☕️ Coffee {#coffee}
 
-![Coffee Station](cdn:/2024-01-coffee-station)
+![Coffee Station](cdn:/2025-06-coffee-station)
 
 Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
 
