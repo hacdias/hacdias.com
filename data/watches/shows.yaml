@@ -2,7 +2,11 @@
 #   season:
 #   date:
 #   rating:
-- name: “ Your Friends & Neighbors”
+- name: Adults
+  season: 1
+  rating: 4
+  date: 2025-06-07
+- name: “Your Friends & Neighbors”
   season: 1
   rating: 4
   date: 2025-06-05
