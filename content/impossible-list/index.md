@@ -16,7 +16,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [x] Visit 15 countries <small>[🇳🇱 NL, 🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA, 🇦🇹 AT] [February 2024]</small>
   - [ ] Visit 20 countries <small>[🇸🇰 SK, 🇯🇵 JP, 🇧🇬 BG]</small>
 - [x] Visit 🇵🇹 Azores <small>[July 2019]</small>
-- [ ] Visit 🇵🇹 Madeira
+- [x] Visit 🇵🇹 Madeira  <small>[June 2025]</small>
 - [ ] Visit 🇳🇴 Svalbard
 - [ ] Visit 🇦🇶 Antarctica
 - [ ] Visit 🇲🇴 Macau
