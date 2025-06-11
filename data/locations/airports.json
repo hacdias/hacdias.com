@@ -47,6 +47,12 @@
     "longitude": -7.9658333,
     "name": "Faro Airport"
   },
+  "fnc": {
+    "country": "PT",
+    "latitude": 32.694167,
+    "longitude": -16.778056,
+    "name": "Madeira Airport"
+  },
   "fra": {
     "country": "DE",
     "latitude": 50.0333056,
