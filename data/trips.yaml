@@ -476,6 +476,17 @@
   itinerary:
   - { departure: 2025-05-02T13:15:00+02:00, arrival: 2025-05-02T16:53:00+03:00, origin: airports.ein, destination: airports.sof, type: air, operator: Ryanair, number: "FR6014" }
   - { departure: 2025-05-05T18:35:00+03:00, arrival: 2025-05-05T20:23:00+02:00, origin: airports.sof, destination: airports.ein, type: air, operator: Ryanair, number: "FR6013" }
+- name: Madeira Trip With Parents
+  place: "🇵🇹 Madeira"
+  start: 2025-06-05
+  date: 2025-06-10
+  latitude: 31.5716966
+  longitude: -17.8787381
+  itinerary:
+  - { departure: 2025-06-05T14:01:00+02:00, arrival: 2025-06-05T16:04:00+01:00, origin: airports.ams, destination: airports.lis, type: air, operator: TAP Air Portugal, number: "TP669" }
+  - { departure: 2025-06-05T20:42:00+01:00, arrival: 2025-06-05T22:14:00+01:00, origin: airports.lis, destination: airports.fnc, type: air, operator: TAP Air Portugal, number: "TP1693" }
+  - { departure: 2025-06-10T09:50:00+01:00, arrival: 2025-06-10T11:31:00+01:00, origin: airports.fnc, destination: airports.lis, type: air, operator: TAP Air Portugal, number: "TP1686" }
+  - { departure: 2025-06-10T15:05:00+02:00, arrival: 2025-06-10T18:50:00+01:00, origin: airports.lis, destination: airports.ams, type: air, operator: TAP Air Portugal, number: "TP672" }
 # - name:
 #   place:
 #   start:
