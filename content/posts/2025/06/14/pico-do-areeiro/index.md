@@ -8,14 +8,15 @@ photos:
 categories:
   - photos
 location:
-  latitude: 32.7355731
-  longitude: -16.9391887
-  locality: Santana
-  region: Madeira
   country: Portugal
+  latitude: 32.7355731
+  locality: Santana
+  longitude: -16.9391887
+  region: Madeira
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lrkbrkyr6q2i
   - https://fosstodon.org/@hacdias/114680205332731874
+  - https://www.instagram.com/p/DK3_dkEt-YT/
 ---
 
 <style>
