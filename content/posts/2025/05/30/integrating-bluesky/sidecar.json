@@ -1,0 +1,39 @@
+{
+  "replies": [
+    {
+      "content": "Cool, are we going to be seeing more posts here then? 👀",
+      "author": "Nimo 🏳️‍🌈",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/e952da28a7a2f7ac2ebb1f1a2b393d411ea2c0bb24ae83539076590a1db203fc.jpg",
+      "authorUrl": "https://bsky.app/profile/nimobeeren.com",
+      "date": "2025-05-31T12:52:41Z",
+      "url": "https://brid.gy/comment/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lqftbiddfi2x/at%253A%252F%252Fdid%253Aplc%253Albjgxkpi67g5yya7trkeemla%252Fapp.bsky.feed.post%252F3lqhs2tr6hs2b",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": "Jack Harrhy",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/bd5138befdf01fea1df02266cd6c5bcf5ce59bd50230aacf13789e267124f604.jpg",
+      "authorUrl": "https://bsky.app/profile/jackharrhy.dev",
+      "date": "2025-06-02T09:46:39Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lqftbiddfi2x/did%253Aplc%253Afag4zgsjdw6cf4eepa4dx4eo",
+      "type": "like"
+    },
+    {
+      "author": "olizilla",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/a4985067c80e64334236ab90363efc999106bfe46604503fefd8039c98ee8f02.jpg",
+      "authorUrl": "https://bsky.app/profile/oli.zilla.org.uk",
+      "date": "2025-05-31T13:53:43Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lqftbiddfi2x/did%253Aplc%253A2ngsl5btroik454wzz7vpbzq",
+      "type": "like"
+    },
+    {
+      "author": "Nimo 🏳️‍🌈",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/e952da28a7a2f7ac2ebb1f1a2b393d411ea2c0bb24ae83539076590a1db203fc.jpg",
+      "authorUrl": "https://bsky.app/profile/nimobeeren.com",
+      "date": "2025-05-31T13:01:43Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lqftbiddfi2x/did%253Aplc%253Albjgxkpi67g5yya7trkeemla",
+      "type": "like"
+    }
+  ]
+}
