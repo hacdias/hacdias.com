@@ -15,6 +15,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **Tablet** <span>2018 iPad Pro 11"</span>
 - **Headphones** <span>Sony WH-1000XM5</span>
 - **Earphones** <span>AirPods Pro (2nd Gen)</span>
+- **e-Reader** <span>Kobo Clara HD ([read more](/2022/06/16/few-weeks-with-kobo/))</span>
 - **Console** <span>Nintendo Switch, PlayStation 5</span>
 - **Tracking Device** <span>AirTags</span>
 - **Auth Device** <span>YubiKeys for 2FA, GPG and SSH</span>
@@ -32,7 +33,7 @@ At home, we have two desks: one in our bedroom, and one in the guest bedroom. I 
 - **Chair** <span>Ahrend Verta</span>
 - **Monitor Stand** <span>IKEA SIGFINN</span>
 - **Monitor** <span>Dell U2723QE</span>
-- **Keyboard** <span>NuPhy Air75 V2</span>
+- **Keyboard** <span>NuPhy Air75 V2 ([read more](/2024/09/29/long-term-review-nuphy-air-keyboards/))</span>
 - **Mouse** <span>Asus Strix Impact, Logitech MX Vertical</span>
 - **Laptop Stand** <span>Roost V3</span>
 - **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
