@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sun, 01 Jun 2025 03:00:03 UTC</dateCreated>
+        <dateCreated>Mon, 16 Jun 2025 03:00:03 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -13,7 +13,7 @@
             <outline title="Barry Frost" text="Barry Frost" xmlUrl="https://barryfrost.com/feed.json" htmlUrl="https://barryfrost.com/" type="rss"></outline>
             <outline title="Ben Borgers" text="Ben Borgers" xmlUrl="https://ben.page/rss" htmlUrl="https://ben.page/" type="rss"></outline>
             <outline title="Ben Cox" text="Ben Cox" xmlUrl="https://blog.benjojo.co.uk/rss.xml" htmlUrl="https://blog.benjojo.co.uk" type="rss"></outline>
-            <outline title="Ben Werdmuller" text="Ben Werdmuller" xmlUrl="https://werd.io/content/posts?_t=rss" htmlUrl="https://werd.io/content/posts" type="rss"></outline>
+            <outline title="Ben Werdmuller" text="Ben Werdmuller" xmlUrl="https://werd.io/rss/" htmlUrl="https://werd.io/" type="rss"></outline>
             <outline title="Brain Baking" text="Brain Baking" xmlUrl="https://brainbaking.com/index.xml" htmlUrl="https://brainbaking.com/" type="rss"></outline>
             <outline title="Dame&#39;s Blog" text="Dame&#39;s Blog" xmlUrl="https://dame.is/feed.xml" htmlUrl="https://dame.is" type="rss"></outline>
             <outline title="Filippo Valsorda" text="Filippo Valsorda" xmlUrl="https://words.filippo.io/rss/" htmlUrl="https://blog.filippo.io/" type="rss"></outline>

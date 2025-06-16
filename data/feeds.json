@@ -37,8 +37,8 @@
     },
     {
       "title": "Ben Werdmuller",
-      "site": "https://werd.io/content/posts",
-      "feed": "https://werd.io/content/posts?_t=rss"
+      "site": "https://werd.io/",
+      "feed": "https://werd.io/rss/"
     },
     {
       "title": "Brain Baking",
