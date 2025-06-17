@@ -32,7 +32,8 @@ Time has passed, and on the 16th I had to come back. Well, I thought I had exper
 
 I got the train from Engelberg to Basel and it was all fine. In Basel I took the ICE, on time. This time, the train was not going to the Netherlands, so my plan was to change in Düsseldorf for a regional train to Venlo and from there to Eindhoven. The ICE arrived on time in Düsseldorf, which was fine, and then the problems began. The connection to Venlo was, for some reason, not working.
 
-![Proof of Happiness](cdn:/2b08b17c8200dc2e6112d3a4595d1b0ce332a75799fb5558d434d21b65ce64b8?class=right)
+![Proof of Happiness](cdn:/2b08b17c8200dc2e6112d3a4595d1b0ce332a75799fb5558d434d21b65ce64b8)
+{.right}
 
 So I used the DB Navigator which told me to go to Mönchengladbach and then get some bus. I arrived at Mönchengladbach, I went outside. No signs, nothing saying where to get the bus. There was a bus station indeed, but nothing about replacement buses. I asked around 5 people: most ignored me, one said "I don't have money" and the other one said "I don't work for Deutsche Bahn". Very useful people. The DB Navigator app was also very confused: the app said to get a train through this track but then it also said no trains were running there. Go figure.
 

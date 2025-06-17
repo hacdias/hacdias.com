@@ -17,7 +17,8 @@ July marked the [tenth anniversary](/2024/07/12/a-decade-of-blogging/) of this w
 
 ## 🍄 Life {#life}
 
-![Random Pigeon](cdn:/2024-07-pigeon?class=right)
+![Random Pigeon](cdn:/2024-07-pigeon)
+{.right}
 
 As I've already shared, I had my last Dutch classes at the beginning of the month, and I have [no plans](/2024/07/04/taking-an-indefinite-break-from-dutch-classes/) of taking more courses anytime soon. In addition, I finally got the results to the Dutch State exams for Dutch as a second language, and I passed. My Dutch is [officially](/2024/07/23/dutch-b2/) at a B2 level, which means I am allowed to do a university degree in Dutch. It's crazy to think about it considering I moved to the Netherlands less than 4 years ago!
 

@@ -25,7 +25,8 @@ Finally, I updated the way the [🗞️ Blogroll](/blogroll) is displayed to inc
 
 ## 🍄 Life {#life}
 
-![Faro Airport](cdn:/b3b9a0e9db826e76d7511534e774facae4db121e2514cac336e7daf33850f1c0?class=right)
+![Faro Airport](cdn:/b3b9a0e9db826e76d7511534e774facae4db121e2514cac336e7daf33850f1c0)
+{.right}
 
 Life-wise, quite a few things happened, but I'm going to be quicker on this section. For once, we finished most of the construction in the apartment. We have almost all furniture and everything is mostly settled in. In addition, we went to [Aachen's Christmas Market](/2022/12/22/aachen-weihnachtsmarkt), where we had a lot of fun. I love Christmas Markets 🎄! In the end of the month, I spent a week at my parent's in Portugal and it was a very nice time to meet with a lot of family that I haven't seen in a while.
 

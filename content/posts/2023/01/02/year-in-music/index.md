@@ -10,15 +10,10 @@ tags:
   - year in music
 ---
 
-<style>
-img.cute-listener {
-  max-width: 100px;
-  margin-top: 0;
-  margin-right: 1rem
-}
-</style>
+![](https://cdn.hacdias.com/media/2021-05-cute-music.gif "Cute entity listening to music")
+{.right .pixelated style="max-width: 100px; margin-top: 0; margin-right: 1rem"}
 
-![Listening to Music](https://cdn.hacdias.com/media/2021-05-cute-music.gif?class=right+pixelated+cute-listener) 2022 marked the year that I went to my first actual concert. By actual concert I mean a concert that I paid for for an artist I wanted to see, in an actual concert hall. And, of course, I listened to a lot o songs thorough the year. This is the recap of 2022 in Music. Let's see what I've been listening to this year.
+2022 marked the year that I went to my first actual concert. By actual concert I mean a concert that I paid for for an artist I wanted to see, in an actual concert hall. And, of course, I listened to a lot o songs thorough the year. This is the recap of 2022 in Music. Let's see what I've been listening to this year.
 
 <!--more-->
 

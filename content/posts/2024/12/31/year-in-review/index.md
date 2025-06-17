@@ -28,7 +28,8 @@ When it comes to actually writing, I reached 60 posts, including this one. That'
 
 ## 🍄 Life {#life}
 
-![](cdn:/2024-09-balcony?class=right)
+![](cdn:/2024-09-balcony)
+{.right}
 
 This year, I ticked a few more things off my [impossible list](/impossible-list/). In February, I reached the milestone of having visited 15 countries by visiting Austria. At the time, we also visited Slovakia. So that's already counting towards the 20 milestone. This trip also allowed me to tick the night train item. Nevertheless, I ended up not traveling as much as I hoped. Or, not as far as I hoped. In a similar subject, I also rode the historical trams in Amsterdam.
 

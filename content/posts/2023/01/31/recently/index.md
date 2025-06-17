@@ -22,7 +22,8 @@ Finally, I made my [Trips 🚆](/trips) page better. I think it displays the tri
 
 ## 🍄 Life {#life}
 
-![In Engelberg](cdn:/e923d981b7e72baf6642b90d831e9b797becf6b6a7904a83f40559c08bace616?class=right)
+![In Engelberg](cdn:/e923d981b7e72baf6642b90d831e9b797becf6b6a7904a83f40559c08bace616)
+{.right}
 
 In terms of life events, not a lot happened, but I went to Switzerland for a small company trip. It was quite nice to see some of my coworkers again and enjoy some time with them. Besides, I went there by train which was quite an [interesting experience](/2023/02/26/a-deutsche-bahn-tale-on-ice).
 

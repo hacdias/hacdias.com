@@ -36,7 +36,8 @@ Life, that is a very general category. So it's quite hard for me to pin point ex
 
 During this year post-university, I've opted for working in a co-working space close to my apartment, where I've met some wonderful people I'm grateful for. Next year, some of us are moving to a different coworking space, which is a bit further away from my house, but I think that can be a nice change.
 
-![](cdn:/2023-12-church-santana?class=right "Santana da Serra Church Tower")
+![](cdn:/2023-12-church-santana "Santana da Serra Church Tower")
+{.right}
 
 Something else I would like to note is how many train rides I took this year. Specifically, special 🚂 train rides, not ordinary ones. I've ridden the new [ICNG](/2023/06/30/recently/), a [steam train in Germany](/2023/07/31/recently/), a [Dinner Train](/2023/08/31/recently/), and a [steam lunch train](/2023/10/31/recently/). I think that was all for this year. It might not sound like much, but it was a lot of fun.
 

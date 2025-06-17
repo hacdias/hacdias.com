@@ -22,7 +22,8 @@ I wanted to write an article and, even though I have a list of drafts and ideas 
 
 I have been hosting this procedural map generator that I wrote a few years ago, but it's completely random. What if I reuse it and make it interactive? Well, here we are! Today I present you this exact same procedural map generator, built in JavaScript, but now totally interactive.
 
-![Procedurally Generated Map In Higher Resolution](cdn:/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404?class=pixelated)
+![Procedurally Generated Map In Higher Resolution](cdn:/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404)
+{.pixelated}
 
 We can say I've been slightly fascinated by procedural generation before. I have read about it a few times and done a few fun things, but I am by no means an expert. Everything that I bring here is based on information I read somewhere. Anyways, let's start.
 

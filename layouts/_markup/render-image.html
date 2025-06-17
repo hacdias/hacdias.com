@@ -1,5 +1,14 @@
 {{-
 	partial "helpers/figure"
-	(dict "Destination" .Destination "IsBlock" .IsBlock "Title" .Title "Text" .Text "Page" .Page)
+	(dict 
+		"Destination" .Destination 
+		"IsBlock" .IsBlock 
+		"Title" .Title 
+		"Text" .Text 
+		"Page" .Page
+		"Class" .Attributes.class
+		"Style" .Attributes.style
+	)
 	.Destination .IsBlock .Title .Text
 -}}
+

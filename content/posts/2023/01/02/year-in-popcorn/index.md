@@ -9,14 +9,10 @@ tags:
   - year in popcorn
 ---
 
-<style>
-img.pyip22 {
-  max-width: 100px;
-  margin: 0;
-}
-</style>
+![](https://cdn.hacdias.com/media/2021-02-popcorn.gif "Popcorn")
+{.right .pixelated style="max-width: 100px; margin: 0;"}
 
-![Popcorn](https://cdn.hacdias.com/media/2021-02-popcorn.gif?class=right+pixelated+pyip22) A few years ago, I published an article where I did a small [analysis](/2020/02/22/trakt-analysis) of my Trakt data, which contains the shows and movies I have watched. I decided to bring that back again under the name "Year in Popcorn". I considered "Year in Movies & Shows" but I thought that was too long and unappealing 😅.
+A few years ago, I published an article where I did a small [analysis](/2020/02/22/trakt-analysis) of my Trakt data, which contains the shows and movies I have watched. I decided to bring that back again under the name "Year in Popcorn". I considered "Year in Movies & Shows" but I thought that was too long and unappealing 😅.
 
 <!--more-->
 
@@ -63,13 +59,17 @@ Then, I decided it would be a great idea to see my movie watching habits in two 
 
 <div class='fg'>
 
-![](movies-weekday.svg?class=only-light)
+![](movies-weekday.svg)
+{.only-light}
 
-![](movies-weekday-dark.svg?class=only-dark)
+![](movies-weekday-dark.svg)
+{.only-dark}
 
-![](movies-month.svg?class=only-light)
+![](movies-month.svg)
+{.only-light}
 
-![](movies-month-dark.svg?class=only-dark)
+![](movies-month-dark.svg)
+{.only-dark}
 
 </div>
 
@@ -109,13 +109,17 @@ Similarly to what I did for the movies, I also plotted how many episodes I've wa
 
 <div class='fg'>
 
-![](episodes-weekday.svg?class=only-light)
+![](episodes-weekday.svg)
+{.only-light}
 
-![](episodes-weekday-dark.svg?class=only-dark)
+![](episodes-weekday-dark.svg)
+{.only-dark}
 
-![](episodes-month.svg?class=only-light)
+![](episodes-month.svg)
+{.only-light}
 
-![](episodes-month-dark.svg?class=only-dark)
+![](episodes-month-dark.svg)
+{.only-dark}
 
 </div>
 
