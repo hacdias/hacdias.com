@@ -1,6 +1,7 @@
 ---
 title: Untitled
 date: 2025-06-17T07:54:40.652819672+02:00
+thumbnail: cdn:/2025-06-17-untitled-03
 photos:
   - url: cdn:/2025-06-17-untitled-01
   - url: cdn:/2025-06-17-untitled-02
