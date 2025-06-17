@@ -14,7 +14,10 @@
 {{- end }}
 
 {{- if .IsBlock }}
-  <figure {{ with .Class }}class="{{ . }}"{{ end }} {{with .Style }}style="{{ . | safeCSS }}"{{ end }}>
+  <figure
+		{{ with .Class }}class="{{ . }}"{{ end }}
+		{{ with .ID }}id="{{ . }}"{{ end }}
+		{{ with .Style }}style="{{ . | safeCSS }}"{{ end }} >
 		<picture>
 		{{- if $id }}
 			{{ $sizes := or .Sizes (slice 250 500 1000 2000) }}
