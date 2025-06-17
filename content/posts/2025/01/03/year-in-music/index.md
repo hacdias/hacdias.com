@@ -7,15 +7,10 @@ tags:
   - year in music
 ---
 
-<style>
-img.cute-listener {
-  max-width: 100px;
-  margin-top: 0;
-  margin-right: 1rem
-}
-</style>
+![](https://cdn.hacdias.com/media/2021-05-cute-music.gif "Cute entity listening to music")
+{.right .pixelated style="max-width: 100px; margin-top: 0; margin-right: 1rem"}
 
-![Listening to Music](https://cdn.hacdias.com/media/2021-05-cute-music.gif?class=right+pixelated+cute-listener) Similarly to [previous years](/2024/01/03/year-in-music/), it's time to share my musical habits throughout 2024. Around a month ago, I published my [Spotify Wrapped 🎁](/2024/12/06/spotify-wrapped/), but, as usual, I don't trust it completely. If they're sharing it before the end of the year, how can it successfully show the statistics for the whole year? Here I am again, with my (almost) complete data from Last.fm.
+Similarly to [previous years](/2024/01/03/year-in-music/), it's time to share my musical habits throughout 2024. Around a month ago, I published my [Spotify Wrapped 🎁](/2024/12/06/spotify-wrapped/), but, as usual, I don't trust it completely. If they're sharing it before the end of the year, how can it successfully show the statistics for the whole year? Here I am again, with my (almost) complete data from Last.fm.
 
 <!--more-->
 
@@ -25,13 +20,17 @@ Just like in previous years, let's start with some quick statistics: in 2024, I 
 
 <div class='fg'>
 
-![](scrobbles-weekday.svg?class=only-light)
+![](scrobbles-weekday.svg)
+{.only-light}
 
-![](scrobbles-weekday-dark.svg?class=only-dark)
+![](scrobbles-weekday-dark.svg)
+{.only-dark}
 
-![](scrobbles-month.svg?class=only-light)
+![](scrobbles-month.svg)
+{.only-light}
 
-![](scrobbles-month-dark.svg?class=only-dark)
+![](scrobbles-month-dark.svg)
+{.only-dark}
 
 </div>
 

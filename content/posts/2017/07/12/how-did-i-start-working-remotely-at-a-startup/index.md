@@ -110,7 +110,7 @@ about 800 inhabitants — 190 square kilometers with 800 people. A lot, hum? Tho
 inhabitants aren't even centralized. It doesn't seem really comfortable, doesn't
 it? But that's where I live.
 
-![Santana da Serra](cdn:/2017-07-santana-da-serra?class=full)
+![Santana da Serra](cdn:/2017-07-santana-da-serra)
 
 I live in Santana da Serra. The population is really old. Imagine a place where
 there are only three people with 17 years old. On the other hand, Lisbon is the

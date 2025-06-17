@@ -18,7 +18,8 @@ The week after, I had some Intro+ parties and activities. Intro+ was organized b
 
 One more week of classes, of pub quizzes and dinners passed and the [Dutch Design Week (DDW)](https://ddw.nl/) started in Eindhoven! Not only the DDW started, but the Heroes Like You festival and exhibitions at my university were also on display.
 
-![](https://cdn.hacdias.com/media/2021-10-holding-dounut.jpeg?class=left "Me, holding a donut")
+![](https://cdn.hacdias.com/media/2021-10-holding-dounut.jpeg "Me, holding a donut")
+{.left}
 
 From high wire walks between the tallest buildings at my university, an airman drone performance and a lot of other things around the city, it was quite a filled week.
 

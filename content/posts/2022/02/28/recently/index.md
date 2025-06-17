@@ -13,7 +13,8 @@ It is the end of February and it is unbelievable. It feels like 2022 started yes
 
 <!--more-->
 
-![Nijntje Pleintje, Utrecht](cdn:/70d1d310b0ff54650aaf064dd786f751d2e4338e11f1116cd50790f5a37f364b?class=left)
+![Nijntje Pleintje, Utrecht](cdn:/70d1d310b0ff54650aaf064dd786f751d2e4338e11f1116cd50790f5a37f364b)
+{.left}
 
 In the beginning of the month, I did my last _ever_ exam. It was an Internet of Things exam. In the meanwhile, I have received the grade and I'm glad to be able to say that I finished all the courses of my master's program. From now on, I only have my master's thesis to focus on.
 

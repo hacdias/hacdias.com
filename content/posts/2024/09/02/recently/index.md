@@ -36,7 +36,8 @@ Last month, I started reading *Before Your Memory Fades*. The book has three cha
 
 On the entertainment department, this was quite a full month. Let's start with series. We binged the first four seasons of *Dertigers*, a Dutch series based on a Belgian series, which follows the life of a friend group whose members are around 30 years old. It was nice. Apparently there's a fifth season, but this has a new cast and a new friend group. Obviously the dertigers from the first seasons are now veertigers.
 
-![Watched MaXXXine in [LAB-1](https://www.lab-1.nl/), Boutique Hall](cdn:/2024-08-lab-1?class=right)
+![Watched MaXXXine in [LAB-1](https://www.lab-1.nl/), Boutique Hall](cdn:/2024-08-lab-1)
+{.right}
 
 I also watched the last season of *Young Sheldon*. I didn't realize it was the last season until the last two episodes, but it makes sense: Sheldon is getting older. In addition, we watched the second season of the *House of the Dragon*. I don't have strong opinions, besides the fact that I didn't enjoy the gigantic cliff hanger at the end. But I guess that's what they always do.
 

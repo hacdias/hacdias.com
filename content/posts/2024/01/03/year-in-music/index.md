@@ -7,15 +7,10 @@ tags:
   - year in music
 ---
 
-<style>
-img.cute-listener {
-  max-width: 100px;
-  margin-top: 0;
-  margin-right: 1rem
-}
-</style>
+![](https://cdn.hacdias.com/media/2021-05-cute-music.gif "Cute entity listening to music")
+{.right .pixelated style="max-width: 100px; margin-top: 0; margin-right: 1rem"}
 
-![Listening to Music](https://cdn.hacdias.com/media/2021-05-cute-music.gif?class=right+pixelated+cute-listener) Similarly to [last year](/2023/01/02/year-in-music/), here am I again to share with you some statistics about my music listening habits. A few weeks ago, I also published my [Spotify Wrapped](/2023/11/30/spotify-wrapped/), but since I do not trust it completely, here am I again, with the full data from Last.fm.
+Similarly to [last year](/2023/01/02/year-in-music/), here am I again to share with you some statistics about my music listening habits. A few weeks ago, I also published my [Spotify Wrapped](/2023/11/30/spotify-wrapped/), but since I do not trust it completely, here am I again, with the full data from Last.fm.
 
 <!--more-->
 

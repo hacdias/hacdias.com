@@ -7,14 +7,10 @@ tags:
   - year in popcorn
 ---
 
-<style>
-img.pyip24 {
-  max-width: 100px;
-  margin: 0;
-}
-</style>
+![](https://cdn.hacdias.com/media/2021-02-popcorn.gif "Popcorn")
+{.right .pixelated style="max-width: 100px; margin: 0;"}
 
-![Popcorn](https://cdn.hacdias.com/media/2021-02-popcorn.gif?class=right+pixelated+pyip24) Now that the last year has ended, I can finally collect all the data from the different services, and start my yearly analysis. This year, we're starting with the "Year in Popcorn". In contrary to [last year](/2024/01/05/year-in-popcorn/), I brought back the plots by reusing both the data from my website for the movies, and the data from Trakt for the series. 
+Now that the last year has ended, I can finally collect all the data from the different services, and start my yearly analysis. This year, we're starting with the "Year in Popcorn". In contrary to [last year](/2024/01/05/year-in-popcorn/), I brought back the plots by reusing both the data from my website for the movies, and the data from Trakt for the series. 
 
 <!--more-->
 
@@ -28,13 +24,17 @@ According to my [watches](/watches/) page, I watched **54** different movies dur
 
 <div class='fg'>
 
-![](movies-weekday.svg?class=only-light)
+![](movies-weekday.svg)
+{.only-light}
 
-![](movies-weekday-dark.svg?class=only-dark)
+![](movies-weekday-dark.svg)
+{.only-dark}
 
-![](movies-month.svg?class=only-light)
+![](movies-month.svg)
+{.only-light}
 
-![](movies-month-dark.svg?class=only-dark)
+![](movies-month-dark.svg)
+{.only-dark}
 
 </div>
 
@@ -73,13 +73,17 @@ The second most watched series was **Abbot Elementary** and then **The Bear**, w
 
 <div class='fg'>
 
-![](episodes-weekday.svg?class=only-light)
+![](episodes-weekday.svg)
+{.only-light}
 
-![](episodes-weekday-dark.svg?class=only-dark)
+![](episodes-weekday-dark.svg)
+{.only-dark}
 
-![](episodes-month.svg?class=only-light)
+![](episodes-month.svg)
+{.only-light}
 
-![](episodes-month-dark.svg?class=only-dark)
+![](episodes-month-dark.svg)
+{.only-dark}
 
 </div>
 

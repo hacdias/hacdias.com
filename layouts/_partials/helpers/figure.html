@@ -1,6 +1,4 @@
 {{- $url := urls.Parse .Destination }}
-{{- $query := $url.Query }}
-{{- $class := or ($query.Get "class") .Class }}
 {{- $id := "" }}
 {{- $src := "" }}
 
@@ -16,7 +14,7 @@
 {{- end }}
 
 {{- if .IsBlock }}
-  <figure {{ with $class }}class="{{ . }}"{{ end }}>
+  <figure {{ with .Class }}class="{{ . }}"{{ end }} {{with .Style }}style="{{ . | safeCSS }}"{{ end }}>
 		<picture>
 		{{- if $id }}
 			{{ $sizes := or .Sizes (slice 250 500 1000 2000) }}
@@ -27,7 +25,10 @@
 
 <img src="{{ absURL $src | safeURL }}"
 	{{- with or .Text .Title }} alt ="{{.}}"{{ end }}
-	{{- if and (not .IsBlock) $class }} class="{{ $class }}"{{ end }}
+	{{- if not .IsBlock }}
+		{{ with .Class }}class="{{ . }}"{{ end }}
+		{{ with .Style }}style="{{ . | safeCSS }}"{{ end }}
+	{{ end }}
 	{{- with .Title }} title="{{ . }}"{{ end }} loading="lazy" >
 
 {{- if .IsBlock }}

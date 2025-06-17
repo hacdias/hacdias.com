@@ -7,14 +7,10 @@ tags:
   - year in popcorn
 ---
 
-<style>
-img.pyip22 {
-  max-width: 100px;
-  margin: 0;
-}
-</style>
+![](https://cdn.hacdias.com/media/2021-02-popcorn.gif "Popcorn")
+{.right .pixelated style="max-width: 100px; margin: 0;"}
 
-![Popcorn](https://cdn.hacdias.com/media/2021-02-popcorn.gif?class=right+pixelated+pyip22) One year later, here am I [again](/2023/01/02/year-in-popcorn/) with my "Year in Popcorn" post. This year, it will look a bit different: there will be less graphics and data. I no longer use Trakt to track movies, only my [watches](/watches/) page. And even in Trakt, I have not religiously marked episodes as watched the same day as I watched them.
+One year later, here am I [again](/2023/01/02/year-in-popcorn/) with my "Year in Popcorn" post. This year, it will look a bit different: there will be less graphics and data. I no longer use Trakt to track movies, only my [watches](/watches/) page. And even in Trakt, I have not religiously marked episodes as watched the same day as I watched them.
 
 <!--more-->
 

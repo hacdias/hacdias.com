@@ -16,7 +16,8 @@ I haven't written a single article this month. However, I've thought about doing
 
 This story brings us back when I still lived in an extremely small town and had to travel 40 km roundtrip every day, for eight years, just to go to school. I was probably around 13 or 14 and, for some reason, I was interested in simulating the infamous Blue Screen of Death (BSOD) from Windows. Specifically, the Windows 9x styled one.
 
-![Modern Simulation of Windows 95 BSOD](cdn:/a16e74e3834cfd712ccf540f6009c0850d7f116723169875f2a9aaa9231f1208?class=pixelated)
+![Modern Simulation of Windows 95 BSOD](cdn:/a16e74e3834cfd712ccf540f6009c0850d7f116723169875f2a9aaa9231f1208)
+{.pixelated}
 
 So I decided to open Visual Studio - not Visual Studio Code - and create a Win32 project. I started this project, I think, by just simulating the BSOD. It took me some time to figure out how to make the screen look full screen, as well as centre the letters in the middle. After some time, I definitely figured out how to do it.
 

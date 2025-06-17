@@ -15,7 +15,8 @@ The maximum temperature today - which means now - is around 24C and clear skies 
 
 Yesterday I picked up my e-bike, which is [finally repaired](/2024/04/01/bike-thieves/). From now on, I am keeping the battery at home. Anyways, that is not what I want to talk about, even though I don't have that much to talk about. I just want to say that biking with nice weather for long distances is amazing.
 
-![Dutch things: just throw your trash while biking](cdn:/2024-04-trash-fietspad?class=left)
+![Dutch things: just throw your trash while biking](cdn:/2024-04-trash-fietspad)
+{.left}
 
 Every single time that I do a somewhat longer bike ride I feel energized and... just... happy. For me it's a sort of unique feeling that I get from this type of bike rides. Sometimes I feel like I want to just record the whole thing to be able to see it back. I never take that many photos.
 

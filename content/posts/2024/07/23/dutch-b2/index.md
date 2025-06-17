@@ -21,7 +21,7 @@ Ik heb hier al meerdere keren over mijn avontuur geschreven dus ik ga daar niet 
 
 Vanaf nu mag ik van de Nederlandse overheid een universitaire opleiding in het Nederlands volgen. Verder weet ik genoeg Nederlands om de taal te gebruiken voor mijn werk. Dat doe ik al bijna twee maanden, en ik denk dat ik kan zeggen dat het prima gaat!
 
-![](cdn:/2024-07-staatsexamen-nt2-b2?class=br+diploma)
+![](cdn:/2024-07-staatsexamen-nt2-b2)
 
 **English:** Today I got the results for my exams State Exam Dutch as a Second Language, and I passed! I have officially level B2 in Dutch. According to the [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) (Common European Framework of Reference for Languages), I am now an independent language user.
 

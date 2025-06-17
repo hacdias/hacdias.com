@@ -17,7 +17,8 @@ and that they seem to be... I don't know... interesting to me.
 
 <!--more-->
 
-![](https://cdn.hacdias.com/media/2019-04-blinking-eye.gif?class=left+pixelated "Blinking Eye")
+![](https://cdn.hacdias.com/media/2019-04-blinking-eye.gif "Blinking Eye")
+{.left .pixelated}
 
 I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
 around and I thought: this is really pretty and interesting, what if I try doing some
@@ -49,13 +50,15 @@ After that, I moved to something bigger - but it will be the last one of this po
 showing you first the last one I've done but that I don't actually enjoy that much. It's
 the central building of my university.
 
-![](cdn:/2019-04-tecnico-central?class=pixelated "Técnico - Central Building")
+![](cdn:/2019-04-tecnico-central "Técnico - Central Building")
+{.pixelated}
 
 Then - or should I say, before? - I've done something much more interesting: my university
 has two twelve floor towers, which are really beautiful. So I believe you already know what's
 coming.
 
-![](https://cdn.hacdias.com/media/2019-04-tecnico-tower.gif?class=right+pixelated "Técnico - Chemistry Tower")
+![](https://cdn.hacdias.com/media/2019-04-tecnico-tower.gif "Técnico - Chemistry Tower")
+{.right .pixelated}
 
 I started by drawing the tower itself and the windows. Then, I moved to the building in front
 of it and both side buildings. I've played with some shadows and also made sure that I created

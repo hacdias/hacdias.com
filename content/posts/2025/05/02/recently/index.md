@@ -23,7 +23,8 @@ April was a fantastic month. Spring is now on full swing, the trees and flowers 
 
 ## 🍄 Life {#life}
 
-![Somewhere in Kansai](cdn:/2025-05-02-recently-osaka?class=right "Somewhere in Kansai")
+![Somewhere in Kansai](cdn:/2025-05-02-recently-osaka "Somewhere in Kansai")
+{.right}
 
 Perhaps the biggest update: the trip to Japan 🇯🇵. Chris and I went to Japan for two weeks. We took a direct flight with KLM from Amsterdam to Osaka, where we spent the first few days. There, we not only explored the city, but we also went to the Universal Studios and the opening day of the World Expo. Osaka was a city where we found the best food in Japan, and the city that gave us the best first impressions. Everything was so clean, so organized, so clear.
 

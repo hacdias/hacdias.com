@@ -13,7 +13,8 @@ December is now coming to an end. It's time to recap about what has happened dur
 
 ## 🍄 Life {#life}
 
-![Obligatory Christmas Market Food Photos](cdn:/2024-12-maastricht-market-food?class=right)
+![Obligatory Christmas Market Food Photos](cdn:/2024-12-maastricht-market-food)
+{.right}
 
 At the beginning of December, we visited Maastricht for their Christmas market. Since moving to the Netherlands, I've enjoyed going to Christmas markets every year. The first few years I didn't do it because of the *pandemic*, but since then we've been to [Aachen's](/2022/12/22/aachen-weihnachtsmarkt/) and [Köln's](/2023/12/05/koln-christmas-markets/). This year, we decided to do it more locally and went to Maastricht, which has one of the few Christmas markets in the Netherlands, maybe because it's so close to Germany and Belgium. It was enjoyable, but it did not have the same *vibe* as the ones we've been to in Germany.
 

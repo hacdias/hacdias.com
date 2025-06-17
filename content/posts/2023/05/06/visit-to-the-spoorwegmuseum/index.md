@@ -25,7 +25,8 @@ tags:
 }
 </style>
 
-![](https://cdn.hacdias.com/media/2023-05-train.gif?class=pixelated+left+train-gif)
+![](https://cdn.hacdias.com/media/2023-05-train.gif)
+{.pixelated .left .train-gif}
 
 Today, I visited the [Spoorwegmuseum](https://www.spoorwegmuseum.nl/), which literally translates to *Railway Museum*. As you can imagine, many historical wagons 🚃 and locomotives 🚂. This is among my all-time favorite museums. Last year, when I visited for the first time, I forgot my camera. In addition, I did not manage to visit everything. Now, I was back and with a camera and more time.
 

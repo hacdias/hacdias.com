@@ -12,7 +12,8 @@ Some time ago, I decided to buy a gratitude journal 📓. I have been writing on
 
 <!--more-->
 
-![](cdn:/de0448cd49e87b023d5451001f89fa25f86096c5fa68c5bd738f0caf42fcc576?class=right+journal)
+![](cdn:/de0448cd49e87b023d5451001f89fa25f86096c5fa68c5bd738f0caf42fcc576)
+{.right style="max-width: 15rem"}
 
 A few years ago, I ordered a [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal) from [Kurzgesagt](https://kurzgesagt.org). It is said that writing a gratitude journal, similarly to other types of journaling, can have psychological health benefits, and I would agree. Each page of the gratitude journal poses two main questions:
 
