@@ -8,5 +8,5 @@ categories:
 
 This is a portrait of mine done by Gonçalo Dias sometime in 2019 as a gift. Can't necessarily remember if it was Christmas, or birthday. I think birthday. Definitely check out [his work](https://gonzzi.art/)!
 
-![](/2024/01/12/portrait-by-goncalo-dias/portrait.jpg)
+![](portrait.jpg)
 {style="max-width: 20rem"}
