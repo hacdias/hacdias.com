@@ -41,7 +41,7 @@ After ranting a bit too much to [Martin](https://mew.tv/), he helped me figure o
 
 The funniest part of all this is the guy that I met had gotten the same train as me from Basel and was as confused as me. On top of that, he had also gone to Basel the week before in the same train as me. How big of a coincidence is that.
 
-![Internet Speed on ICE](https://cdn.hacdias.com/media/4e79a63d32f0523ed881b3d7490cbd3b5f88958901c3b95e2fc8f21c7c5cc147.jpg)
+![Internet Speed on ICE](https://media.hacdias.com/2023-02-26-ice-internet-speed.jpeg)
 
 Would I do it again? Definitely! The ICE trains are extremely comfortable and the Internet was the most reliable I have ever had in a train with speeds way faster than I've ever experienced in my hometown in Portugal.
 

@@ -40,25 +40,25 @@ According to Last.fm, I've listened to less music than in the previous year. Thi
 
 <div class='fg top-grid'>
 
-![](https://cdn.hacdias.com/media/2025-01-marina.jpeg "Marina")
+![](https://media.hacdias.com/2025-01-03-marina.jpeg "Marina")
 
-![](https://cdn.hacdias.com/media/2025-01-merol.jpeg "Merol")
+![](https://media.hacdias.com/2025-01-03-merol.jpeg "Merol")
 
-![](https://cdn.hacdias.com/media/2025-01-lady-gaga.jpeg "Lady Gaga")
+![](https://media.hacdias.com/2025-01-03-lady-gaga.jpeg "Lady Gaga")
 
-![](https://cdn.hacdias.com/media/2025-01-bente.jpeg "Bente")
+![](https://media.hacdias.com/2025-01-03-bente.jpeg "Bente")
 
-![](https://cdn.hacdias.com/media/2025-01-lola-cedes.jpeg "Lola Cedès")
+![](https://media.hacdias.com/2025-01-03-lola-cedes.jpeg "Lola Cedès")
 
-![](https://cdn.hacdias.com/media/2025-01-froukje.jpeg "Froukje")
+![](https://media.hacdias.com/2025-01-03-froukje.jpeg "Froukje")
 
-![](https://cdn.hacdias.com/media/2025-01-christiaan-bloo.jpeg "Christiaan Bloo")
+![](https://media.hacdias.com/2025-01-03-christiaan-bloo.jpeg "Christiaan Bloo")
 
-![](https://cdn.hacdias.com/media/2025-01-billie-eilish.jpeg "Billie Eilish")
+![](https://media.hacdias.com/2025-01-03-billie-eilish.jpeg "Billie Eilish")
 
-![](https://cdn.hacdias.com/media/2025-01-dua-lipa.jpeg "Dua Lipa")
+![](https://media.hacdias.com/2025-01-03-dua-lipa.jpeg "Dua Lipa")
 
-![](https://cdn.hacdias.com/media/2025-01-allie-x.jpeg "Allie X")
+![](https://media.hacdias.com/2025-01-03-allie-x.jpeg "Allie X")
 
 </div>
 
@@ -130,25 +130,25 @@ The other positions are occupied by artists that have consistently been in my to
 
 <div class='fg top-grid'>
 
-![](https://cdn.hacdias.com/media/2025-01-love-and-fear.jpeg "Love + Fear")
+![](https://media.hacdias.com/2025-01-03-love-and-fear.jpeg "Love + Fear")
 
-![](https://cdn.hacdias.com/media/2025-01-als-ik-met-de-wind-kon-dansen.jpeg "Als Ik Met De Wind Kon Dansen")
+![](https://media.hacdias.com/2025-01-03-als-ik-met-de-wind-kon-dansen.jpeg "Als Ik Met De Wind Kon Dansen")
 
-![](https://cdn.hacdias.com/media/2025-01-naar-de-haaien-weer-terug.jpeg "Naar De Haaien & Weer Terug")
+![](https://media.hacdias.com/2025-01-03-naar-de-haaien-weer-terug.jpeg "Naar De Haaien & Weer Terug")
 
-![](https://cdn.hacdias.com/media/2025-01-radical-optimism.jpeg "Radical Optimism")
+![](https://media.hacdias.com/2025-01-03-radical-optimism.jpeg "Radical Optimism")
 
-![](https://cdn.hacdias.com/media/2025-01-girl-with-no-face.jpeg "Girl with No Face")
+![](https://media.hacdias.com/2025-01-03-girl-with-no-face.jpeg "Girl with No Face")
 
-![](https://cdn.hacdias.com/media/2025-01-noodzakelijk-verdriet.jpeg "Noodzakelijk Verdriet")
+![](https://media.hacdias.com/2025-01-03-noodzakelijk-verdriet.jpeg "Noodzakelijk Verdriet")
 
-![](https://cdn.hacdias.com/media/2025-01-hit-me-hard-and-soft.jpeg "HIT ME HARD AND SOFT")
+![](https://media.hacdias.com/2025-01-03-hit-me-hard-and-soft.jpeg "HIT ME HARD AND SOFT")
 
-![](https://cdn.hacdias.com/media/2025-01-22.jpeg "22")
+![](https://media.hacdias.com/2025-01-03-22.jpeg "22")
 
-![](https://cdn.hacdias.com/media/2025-01-prelude-to-ecstasy.jpeg "Prelude to Ecstasy")
+![](https://media.hacdias.com/2025-01-03-prelude-to-ecstasy.jpeg "Prelude to Ecstasy")
 
-![](https://cdn.hacdias.com/media/2025-01-electra-heart.jpeg "Electra Heart")
+![](https://media.hacdias.com/2025-01-03-electra-heart.jpeg "Electra Heart")
 
 </div>
 

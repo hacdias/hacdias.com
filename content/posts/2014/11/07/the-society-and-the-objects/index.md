@@ -41,7 +41,7 @@ So, you don’t like the book. What will you do with it? There’s now various w
 
 The majority of the population will stay with the first option: put the book in your shelf and will never remember it.
 
-![A Lost Book](https://cdn.hacdias.com/media/2014-11-lost-book-thumb.jpg "A lost book")
+![A Lost Book](https://media.hacdias.com/2014-11-07-lost-book-thumb.jpeg "A lost book")
 
 The other small part of the population will follow one of the two last options: offer or donate the book.
 

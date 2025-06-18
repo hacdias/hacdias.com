@@ -25,7 +25,7 @@ Before going into what's new, let's first review a point I did not touch the las
 
 On my previous article, I criticized the fact that foreigners could only reach the the *Substantial* level if they would have gotten a driving license, or decided to become Dutch, which in most cases involves resigning your current citizenship. And that is still true. However, at the time it was even impossible to reach the *High* level.
 
-![Dutch Driving License ([RDW](https://rdw.nl/))](https://cdn.hacdias.com/media/2023-07-dutch-driving-license.jpg)
+![Dutch Driving License ([RDW](https://rdw.nl/))](https://media.hacdias.com/2023-07-03-dutch-driving-license.jpeg)
 {style="max-width: 25rem"}
 
 Since July 1st, a Dutch driving license can also [be used](https://www.logius.nl/actueel/inloggen-met-rijbewijs-vanaf-morgen-ook-mogelijk-digid-app) to login with *High* level. Driving licenses issued since 2018 have been equipped with a login module, but only know they are enabled. It's quite interesting that such thing has been in the document for 5 years but only now it is being used. The ID card only included the functionality since 2021, but it was readily available with DigiD.

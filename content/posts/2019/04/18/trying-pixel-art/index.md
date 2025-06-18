@@ -36,9 +36,9 @@ and I actually happen to like them. So I've started by doing so.
 
 <div class="fg">
   
-  ![](https://cdn.hacdias.com/media/2019-04-magician.jpeg "A magician, wizard?")
+  ![](https://media.hacdias.com/2019-04-18-magician.jpeg "A magician, wizard?")
 
-  ![](https://cdn.hacdias.com/media/2019-04-cat.jpeg "A Cat")
+  ![](https://media.hacdias.com/2019-04-18-cat.jpeg "A Cat")
 
 </div>
 

@@ -28,7 +28,7 @@ Caso ocorra algum erro relacionado com caracteres não ASCII, clique em **Catá
 
 Agora deverá ver um ecrã semelhante ao seguinte:
 
-![](https://cdn.hacdias.com/media/2014-09-poedit.jpg "Poedit")
+![](https://media.hacdias.com/2014-09-28-poedit.jpeg "Poedit")
 
 Guarde este ficheiro e depois vá a **Novo → Novo de ficheiro POT/PO**. Selecione o ficheiro base que gravou antes e escolha a nova língua.
 

@@ -34,7 +34,7 @@ I moved everything to this new system and created a new template (the black one 
 
 I also configured [CloudFlare][8] and my website is very fast now. It's delivered by their CDN and I'm using SSL. **I defend that every website should be using HTTPS**.
 
-![My blog score's on Speed Insights](https://cdn.hacdias.com/media/2015-08-speed-insights.jpeg "My blog score's on Speed Insights")
+![My blog score's on Speed Insights](https://media.hacdias.com/2015-08-12-speed-insights.jpeg "My blog score's on Speed Insights")
 
 Concluding, I'm saving money because I'm only paying the domain. I'm using a easy to use system (of course Hugo is not for everyone, but it's simple). My blog is faster than ever. Google Page Speed Insights gives me a very high score. I'm very satisfied with Hugo.
 

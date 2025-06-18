@@ -20,25 +20,25 @@ In 2021, I scrobbled **19 256** times, with an average of **53** scrobbles per d
 
 <div class='fg top-grid'>
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-marina.jpeg "Marina")
+![](https://media.hacdias.com/2022-01-01-year-in-music-marina.jpeg "Marina")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-agnes.jpeg "Agnes")
+![](https://media.hacdias.com/2022-01-01-year-in-music-agnes.jpeg "Agnes")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-lady-gaga.jpeg "Lady Gaga")
+![](https://media.hacdias.com/2022-01-01-year-in-music-lady-gaga.jpeg "Lady Gaga")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-omar-rudberg.jpeg "Omar Rudberg")
+![](https://media.hacdias.com/2022-01-01-year-in-music-omar-rudberg.jpeg "Omar Rudberg")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-miley-cyrus.jpeg "Miley Cyrus")
+![](https://media.hacdias.com/2022-01-01-year-in-music-miley-cyrus.jpeg "Miley Cyrus")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-sia.jpeg "Sia")
+![](https://media.hacdias.com/2022-01-01-year-in-music-sia.jpeg "Sia")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-troye-sivan.jpeg "Troye Sivan")
+![](https://media.hacdias.com/2022-01-01-year-in-music-troye-sivan.jpeg "Troye Sivan")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-adele.jpeg "Adele")
+![](https://media.hacdias.com/2022-01-01-year-in-music-adele.jpeg "Adele")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-pabllo-vittar.jpeg "Pabllo Vittar")
+![](https://media.hacdias.com/2022-01-01-year-in-music-pabllo-vittar.jpeg "Pabllo Vittar")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-london-grammar.jpeg "London Grammar")
+![](https://media.hacdias.com/2022-01-01-year-in-music-london-grammar.jpeg "London Grammar")
 
 </div>
 
@@ -107,25 +107,25 @@ In 2021, I listened to a lot of songs by Marina, Agnes and Lady Gaga, which are 
 
 <div class='fg top-grid'>
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-ancient-dreams-in-a-modern-land.jpeg "Ancient Dreams in a Modern Land")
+![](https://media.hacdias.com/2022-01-01-year-in-music-ancient-dreams-in-a-modern-land.jpeg "Ancient Dreams in a Modern Land")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-plastic-hearts.jpeg "Plastic Hearts")
+![](https://media.hacdias.com/2022-01-01-year-in-music-plastic-hearts.jpeg "Plastic Hearts")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-froot.jpeg "FROOT")
+![](https://media.hacdias.com/2022-01-01-year-in-music-froot.jpeg "FROOT")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-everyday-is-christmas.jpeg "Everyday is Christmas")
+![](https://media.hacdias.com/2022-01-01-year-in-music-everyday-is-christmas.jpeg "Everyday is Christmas")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-future-nostalgia.jpeg "Future Nostalgia")
+![](https://media.hacdias.com/2022-01-01-year-in-music-future-nostalgia.jpeg "Future Nostalgia")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-california-soil.jpeg "Californian Soil")
+![](https://media.hacdias.com/2022-01-01-year-in-music-california-soil.jpeg "Californian Soil")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-the-circle-sessions.jpeg "The Circle° Sessions")
+![](https://media.hacdias.com/2022-01-01-year-in-music-the-circle-sessions.jpeg "The Circle° Sessions")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-miss-anthropocene.jpeg "Miss Anthropocene")
+![](https://media.hacdias.com/2022-01-01-year-in-music-miss-anthropocene.jpeg "Miss Anthropocene")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-cape-god.jpeg "Cape God")
+![](https://media.hacdias.com/2022-01-01-year-in-music-cape-god.jpeg "Cape God")
 
-![](https://cdn.hacdias.com/media/2022-01-year-in-music-chromatica.jpeg "Chromatica")
+![](https://media.hacdias.com/2022-01-01-year-in-music-chromatica.jpeg "Chromatica")
 
 </div>
 
