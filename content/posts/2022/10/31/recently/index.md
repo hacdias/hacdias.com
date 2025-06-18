@@ -17,7 +17,7 @@ The month started with two of my friends defending their thesis. It is satisfyin
 
 In the middle of the month, I was also able to visit the [Dutch Design Week](https://ddw.nl), which is slightly longer than a week and takes place in Eindhoven. The DDW is quite an interesting event that I would virtually recommend to anyone. It's not design as in fashion, but something different. There's conceptual, contextual, technological, among other types of design.
 
-![Ginscal, a Gin Bar](cdn:/b0d6c5b5da1fe5eecc49ccd950b4f4137ca2bca68f82909e1d78c58e7838dbd9)
+![Ginscal, a Gin Bar](image:2022-10-31-ginscal)
 {.left}
 
 In addition, it was also my first month ever working full-time. Even though I've worked for the company for quite some years, I've always worked part-time so it's quite a change. Besides, I'm now working on more interesting projects than I have before. I'm diving into the technical side of [IPFS](https://ipfs.tech), and making the bridge between HTTP and IPFS better.

@@ -1,16 +1,16 @@
 ---
 title: Utrecht II
 date: 2021-04-30T12:01:00Z
+photos:
+  - url: image:2021-04-30-utrecht-17
+  - url: image:2021-04-30-utrecht-03
+  - url: image:2021-04-30-utrecht-18
+  - url: image:2021-04-30-utrecht-20
+  - url: image:2021-04-30-utrecht-13
+  - url: image:2021-04-30-utrecht-25
 categories:
   - photos
-thumbnail: cdn:/2021-04-utrecht-17
-photos:
-  - url: cdn:/2021-04-utrecht-17
-  - url: cdn:/2021-04-utrecht-03
-  - url: cdn:/2021-04-utrecht-18
-  - url: cdn:/2021-04-utrecht-20
-  - url: cdn:/2021-04-utrecht-13
-  - url: cdn:/2021-04-utrecht-25
+thumbnail: image:2021-04-30-utrecht-17
 ---
 
 <style>

@@ -1,15 +1,15 @@
 ---
 title: May Lockdown
 date: 2020-05-21T23:30:50.893Z
+photos:
+  - url: image:2020-05-21-nature-02
+  - url: image:2020-05-21-nature-01
+  - url: image:2020-05-21-nature-03
+  - url: image:2020-05-21-nature-04
+  - url: image:2020-05-21-nature-05
 categories:
   - photos
-thumbnail: cdn:/2020-05-nature-02
-photos:
-  - url: cdn:/2020-05-nature-02
-  - url: cdn:/2020-05-nature-01
-  - url: cdn:/2020-05-nature-03
-  - url: cdn:/2020-05-nature-04
-  - url: cdn:/2020-05-nature-05
+thumbnail: image:2020-05-21-nature-02
 ---
 
 <style>

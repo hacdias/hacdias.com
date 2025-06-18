@@ -1,26 +1,26 @@
 ---
 title: March Lockdown
 date: 2020-03-31T12:00:00.893Z
+photos:
+  - url: image:2020-03-31-hometown-cross
+    title: Do Not Enter
+  - url: image:2020-03-31-hometown-flower
+    title: White Flower
+  - url: image:2020-03-31-home-03
+    title: The Dead Rise Again
+  - url: image:2020-03-31-home-01
+    title: My Dog, Lara
+  - url: image:2020-03-31-hometown-mom
+    title: My Mother
+  - url: image:2020-03-31-home-02
+    title: Flower Pots
+  - url: image:2020-03-31-chimney
+    title: Chimney
+  - url: image:2020-03-31-hometown-dad
+    title: My Dad
 categories:
   - photos
-thumbnail: cdn:/2020-03-hometown-cross
-photos:
-  - title: Do Not Enter
-    url: cdn:/2020-03-hometown-cross
-  - title: White Flower
-    url: cdn:/2020-03-hometown-flower
-  - title: The Dead Rise Again
-    url: cdn:/2020-03-home-03
-  - title: My Dog, Lara
-    url: cdn:/2020-03-home-01
-  - title: My Mother
-    url: cdn:/2020-03-hometown-mom
-  - title: Flower Pots
-    url: cdn:/2020-03-home-02
-  - title: Chimney
-    url: cdn:/2020-03-chimney
-  - title: My Dad
-    url: cdn:/2020-03-hometown-dad
+thumbnail: image:2020-03-31-hometown-cross
 ---
 
 <style>

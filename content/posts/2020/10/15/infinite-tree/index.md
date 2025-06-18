@@ -2,7 +2,7 @@
 title: Infinite Tree
 date: 2020-10-15T00:00:00Z
 photos:
-  - url: cdn:/2020-10-infinite-tree
+  - url: image:2020-10-15-infinite-tree
 categories:
   - fragments
 tags:

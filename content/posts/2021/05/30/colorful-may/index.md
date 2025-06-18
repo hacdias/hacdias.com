@@ -1,21 +1,21 @@
 ---
 title: Colorful May
 date: 2021-05-30T00:00:00Z
+photos:
+  - url: image:2021-05-30-eindhoven-11
+  - url: image:2021-05-30-eindhoven-06
+  - url: image:2021-05-30-eindhoven-09
+  - url: image:2021-05-30-eindhoven-16
+  - url: image:2021-05-30-eindhoven-14
+  - url: image:2021-05-30-eindhoven-12
+  - url: image:2021-05-30-eindhoven-04
+  - url: image:2021-05-30-eindhoven-17
+  - url: image:2021-05-30-eindhoven-19
+  - url: image:2021-05-30-eindhoven-20
+  - url: image:2021-05-30-eindhoven-18
 categories:
   - photos
-thumbnail: cdn:/2021-05-eindhoven-11
-photos:
-  - url: cdn:/2021-05-eindhoven-11
-  - url: cdn:/2021-05-eindhoven-06
-  - url: cdn:/2021-05-eindhoven-09
-  - url: cdn:/2021-05-eindhoven-16
-  - url: cdn:/2021-05-eindhoven-14
-  - url: cdn:/2021-05-eindhoven-12
-  - url: cdn:/2021-05-eindhoven-04
-  - url: cdn:/2021-05-eindhoven-17
-  - url: cdn:/2021-05-eindhoven-19
-  - url: cdn:/2021-05-eindhoven-20
-  - url: cdn:/2021-05-eindhoven-18
+thumbnail: image:2021-05-30-eindhoven-11
 ---
 
 In Eindhoven.

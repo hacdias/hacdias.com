@@ -1,17 +1,17 @@
 ---
 title: Engraving My Name in the Alumni Avenue
 date: 2022-11-23T09:07:14.207620219+01:00
+photos:
+  - url: image:2022-11-23-msc-while-engraving
+  - url: image:2022-11-23-msc-engraving
+location:
+  latitude: 51.43255
+  longitude: 5.48605
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - fragments
-photos:
-  - url: cdn:/2022-11-msc-while-engraving
-  - url: cdn:/2022-11-msc-engraving
-location:
-  country: Netherlands
-  latitude: 51.43255
-  locality: Eindhoven
-  longitude: 5.48605
-  region: North Brabant
 tags:
   - masters
   - university

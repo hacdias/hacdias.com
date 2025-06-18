@@ -1,25 +1,25 @@
 ---
 title: "\U0001F338 A Visit to the Bloesempark"
 date: 2022-03-27T11:03:07.069215+02:00
+photos:
+  - url: image:2022-03-27-cherry-blossoms-06
+  - url: image:2022-03-27-cherry-blossoms-01
+  - url: image:2022-03-27-cherry-blossoms-02
+  - url: image:2022-03-27-cherry-blossoms-03
+  - url: image:2022-03-27-cherry-blossoms-04
+  - url: image:2022-03-27-cherry-blossoms-05
+  - url: image:2022-03-27-cherry-blossoms-07
+  - url: image:2022-03-27-cherry-blossoms-08
+  - url: image:2022-03-27-cherry-blossoms-09
+  - url: image:2022-03-27-cherry-blossoms-10
+  - url: image:2022-03-27-cherry-blossoms-11
+  - url: image:2022-03-27-cherry-blossoms-12
+  - url: image:2022-03-27-cherry-blossoms-group
 categories:
   - photos
-thumbnail: cdn:/2022-03-cherry-blossoms-06
-photos:
-  - url: cdn:/2022-03-cherry-blossoms-06
-  - url: cdn:/2022-03-cherry-blossoms-01
-  - url: cdn:/2022-03-cherry-blossoms-02
-  - url: cdn:/2022-03-cherry-blossoms-03
-  - url: cdn:/2022-03-cherry-blossoms-04
-  - url: cdn:/2022-03-cherry-blossoms-05
-  - url: cdn:/2022-03-cherry-blossoms-07
-  - url: cdn:/2022-03-cherry-blossoms-08
-  - url: cdn:/2022-03-cherry-blossoms-09
-  - url: cdn:/2022-03-cherry-blossoms-10
-  - url: cdn:/2022-03-cherry-blossoms-11
-  - url: cdn:/2022-03-cherry-blossoms-12
-  - url: cdn:/2022-03-cherry-blossoms-group
 syndication:
   - https://twitter.com/hacdias/status/1508095378222166021
+thumbnail: image:2022-03-27-cherry-blossoms-06
 ---
 
 <style>

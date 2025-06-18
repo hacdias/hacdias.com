@@ -271,21 +271,21 @@ I always distrust Spotify Wrapped a bit. For one, it is published at the beginni
 
 <div class='fg' style='grid-template-columns: repeat(4, 1fr)'>
 
-![](cdn:/2023-01-spotify-wrapped-01)
+![](image:2023-01-02-spotify-wrapped-01)
 
-![](cdn:/2023-01-spotify-wrapped-02)
+![](image:2023-01-02-spotify-wrapped-02)
 
-![](cdn:/2023-01-spotify-wrapped-03)
+![](image:2023-01-02-spotify-wrapped-03)
 
-![](cdn:/2023-01-spotify-wrapped-04)
+![](image:2023-01-02-spotify-wrapped-04)
 
-![](cdn:/2023-01-spotify-wrapped-05)
+![](image:2023-01-02-spotify-wrapped-05)
 
-![](cdn:/2023-01-spotify-wrapped-06)
+![](image:2023-01-02-spotify-wrapped-06)
 
-![](cdn:/2023-01-spotify-wrapped-07)
+![](image:2023-01-02-spotify-wrapped-07)
 
-![](cdn:/2023-01-spotify-wrapped-08)
+![](image:2023-01-02-spotify-wrapped-08)
 
 </div>
 

@@ -1,16 +1,16 @@
 ---
 title: Forest Delicacies
 date: 2023-08-27T17:28:53+02:00
+photos:
+  - url: image:2023-08-27-mushrooms-nest
+    title: Mushrooms nest laying next to a tree trunk
+  - url: image:2023-08-27-mushroom
+    title: Lonely mushroom with a bit of water from the rain
+  - url: image:2023-08-27-slugs
+    title: Slugs
 categories:
   - photos
-thumbnail: cdn:/2023-08-mushrooms-nest
-photos:
-  - title: Mushrooms nest laying next to a tree trunk
-    url: cdn:/2023-08-mushrooms-nest
-  - title: Lonely mushroom with a bit of water from the rain
-    url: cdn:/2023-08-mushroom
-  - title: Slugs
-    url: cdn:/2023-08-slugs
+thumbnail: image:2023-08-27-mushrooms-nest
 ---
 
 <style>

@@ -1,22 +1,22 @@
 ---
 title: London
 date: 2022-04-27T12:00:00+02:00
+photos:
+  - url: image:2022-04-27-london-dara
+    title: Dara, Chris and I
+  - url: image:2022-04-27-london-chris
+    title: Chris and I
+  - url: image:2022-04-27-london-dinosaur
+    title: Dinosaur
+  - url: image:2022-04-27-london-mirror
+    title: Spiral Mirror
+  - url: image:2022-04-27-london-chris-food
+    title: Chris and I, Eating
+  - url: image:2022-04-27-london-tube
+    title: London Tube
 categories:
   - photos
-thumbnail: cdn:/2022-04-london-dara
-photos:
-  - title: Dara, Chris and I
-    url: cdn:/2022-04-london-dara
-  - title: Chris and I
-    url: cdn:/2022-04-london-chris
-  - title: Dinosaur
-    url: cdn:/2022-04-london-dinosaur
-  - title: Spiral Mirror
-    url: cdn:/2022-04-london-mirror
-  - title: Chris and I, Eating
-    url: cdn:/2022-04-london-chris-food
-  - title: London Tube
-    url: cdn:/2022-04-london-tube
 syndication:
   - https://www.instagram.com/p/Cc2i0M2sAAf/
+thumbnail: image:2022-04-27-london-dara
 ---

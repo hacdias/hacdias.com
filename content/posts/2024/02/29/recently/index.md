@@ -3,9 +3,9 @@ title: Recently in February '24
 date: 2024-02-29T13:14:18+01:00
 categories:
   - writings
-thumbnail: cdn:/2024-02-vienna-inception
 tags:
   - now
+thumbnail: image:2024-02-29-vienna-inception
 ---
 
 February is complete. That means that around 16% of the year is also gone. Many things happened this month - I feel like I say this every month though. Let's take a look at everything that happened, from some trips, to my Dutch language course ending.
@@ -18,7 +18,7 @@ In the beginning of the month, I went to FOSDEM with Sebastiaan, where I also en
 
 Towards the end of the month, my partner and I went together to Vienna, with the [night train](/2024/02/27/traveling-to-vienna-with-the-nightjet/). It was quite an interesting experience, which I've already talked about in the linked post. Both Vienna and Bratislava positively surprised me. I don't really know what I was expected, but everything looked orderly, clean, and beautiful. The weather was also great ☀️.
 
-![Inception in Vienna](cdn:/2024-02-vienna-inception)
+![Inception in Vienna](image:2024-02-29-vienna-inception)
 
 I have also finished the Dutch course that I had started in January. This was an intensive B1- course with lessons two times per week. Everything went great I would say, and I'm excited to start the next one, next month. This time, however, I'm choosing a slightly better time slot: instead of having classes in the middle of the day, I'll have them in the morning.
 

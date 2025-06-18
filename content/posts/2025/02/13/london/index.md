@@ -2,15 +2,15 @@
 title: Eurostar to London
 date: 2025-02-13T10:21:42+01:00
 photos:
-  - url: cdn:/2025-02-london
-categories:
-  - fragments
+  - url: image:2025-02-13-london
 location:
   latitude: 51.52866
   longitude: -0.13407
   locality: London
   region: England
   country: United Kingdom
+categories:
+  - fragments
 syndication:
   - https://fosstodon.org/@hacdias/113995841954613221
 tags:

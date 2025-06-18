@@ -1,20 +1,20 @@
 ---
 title: April Lockdown
 date: 2020-04-28T12:30:50.893Z
+photos:
+  - url: image:2020-04-28-hometown-02
+  - url: image:2020-04-28-hometown-01
+  - url: image:2020-04-28-hometown-03
+  - url: image:2020-04-28-hometown-04
+  - url: image:2020-04-28-hometown-05
+  - url: image:2020-04-28-hometown-06
+  - url: image:2020-04-28-hometown-07
+  - url: image:2020-04-28-hometown-08
+  - url: image:2020-04-28-hometown-goats
+  - url: image:2020-04-28-hometown-09
 categories:
   - photos
-thumbnail: cdn:/2020-04-hometown-02
-photos:
-  - url: cdn:/2020-04-hometown-02
-  - url: cdn:/2020-04-hometown-01
-  - url: cdn:/2020-04-hometown-03
-  - url: cdn:/2020-04-hometown-04
-  - url: cdn:/2020-04-hometown-05
-  - url: cdn:/2020-04-hometown-06
-  - url: cdn:/2020-04-hometown-07
-  - url: cdn:/2020-04-hometown-08
-  - url: cdn:/2020-03-hometown-goats
-  - url: cdn:/2020-04-hometown-09
+thumbnail: image:2020-04-28-hometown-02
 ---
 
 <style>

@@ -1,16 +1,16 @@
 ---
 title: Infinite Stairs
 date: 2018-10-10T21:31:02Z
+photos:
+  - url: image:2018-10-10-infinite-stairs
+location:
+  latitude: 38.73608998057843
+  longitude: -9.138427699313747
+  locality: Lisbon
+  region: Lisbon
+  country: Portugal
 categories:
   - photos
-location:
-  country: Portugal
-  latitude: 38.73608998057843
-  locality: Lisbon
-  longitude: -9.138427699313747
-  region: Lisbon
-photos:
-  - url: cdn:/2018-10-infinite-stairs
 syndication:
   - https://www.instagram.com/p/BoxIuVXAQVW/
 ---

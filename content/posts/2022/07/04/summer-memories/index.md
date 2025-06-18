@@ -1,16 +1,16 @@
 ---
 title: Summer Memories
 date: 2022-07-04T20:19:29.844308258+02:00
+photos:
+  - url: image:2022-07-04-zeeland
+    title: Zeeland
+  - url: image:2022-07-04-gezelligheid
+    title: Gezelligheid
+  - url: image:2022-07-04-keukenhof
+    title: Keukenhof
 categories:
   - photos
-thumbnail: cdn:/2022-07-zeeland
-photos:
-  - title: Zeeland
-    url: cdn:/2022-07-zeeland
-  - title: Gezelligheid
-    url: cdn:/2022-07-gezelligheid
-  - title: Keukenhof
-    url: cdn:/2022-07-keukenhof
+thumbnail: image:2022-07-04-zeeland
 ---
 
 <style>

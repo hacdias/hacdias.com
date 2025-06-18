@@ -19,6 +19,6 @@ I also got a scare: somehow I dodged Covid-19, which was very weird and stressfu
 
 Besides that, I managed to visit Utrecht. It was a very very beautiful city. It contrasts a lot to the city I'm living in because it's older, it has canals, and a very different vibe. I really enjoyed my few hours walking there and I hope to come back soon now that more things are open once again!
 
-![Utrecht Canals](cdn:/2021-05-utrecht "Utrecht Canals")
+![Utrecht Canals](image:2021-05-01-utrecht "Utrecht Canals")
 
 We're now in May! Sun is coming and hopefully something good for all of us! Have fun, but stay safe.

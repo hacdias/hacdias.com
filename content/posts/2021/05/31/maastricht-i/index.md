@@ -1,20 +1,20 @@
 ---
 title: Maastricht I
 date: 2021-05-31T00:00:00Z
+photos:
+  - url: image:2021-05-31-maastricht-03
+  - url: image:2021-05-31-maastricht-01
+  - url: image:2021-05-31-maastricht-13
+  - url: image:2021-05-31-maastricht-14
+  - url: image:2021-05-31-maastricht-04
+  - url: image:2021-05-31-maastricht-15
+  - url: image:2021-05-31-maastricht-05
+  - url: image:2021-05-31-maastricht-06
+  - url: image:2021-05-31-maastricht-10
+  - url: image:2021-05-31-maastricht-02
 categories:
   - photos
-thumbnail: cdn:/2021-05-maastricht-03
-photos:
-  - url: cdn:/2021-05-maastricht-03
-  - url: cdn:/2021-05-maastricht-01
-  - url: cdn:/2021-05-maastricht-13
-  - url: cdn:/2021-05-maastricht-14
-  - url: cdn:/2021-05-maastricht-04
-  - url: cdn:/2021-05-maastricht-15
-  - url: cdn:/2021-05-maastricht-05
-  - url: cdn:/2021-05-maastricht-06
-  - url: cdn:/2021-05-maastricht-10
-  - url: cdn:/2021-05-maastricht-02
+thumbnail: image:2021-05-31-maastricht-03
 ---
 
 Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I got a sunburn. Didn't expect that. Next time I'll be more careful.

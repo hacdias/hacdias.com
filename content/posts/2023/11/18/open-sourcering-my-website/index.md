@@ -3,7 +3,6 @@ title: Open Sourcering My Website
 date: 2023-11-18T11:17:52+01:00
 categories:
   - writings
-thumbnail: cdn:/2023-11-noisy-glow
 syndication:
   - https://fosstodon.org/@hacdias/111431044010749799
 tags:
@@ -11,13 +10,14 @@ tags:
   - meta
   - open source
   - personal website
+thumbnail: image:2023-11-18-noisy-glow
 ---
 
 For some, it may come as a surprise that my website's source code is not open-source. That hasn't, however, always been the case. Before I [fully switching](/2021/11/19/farewell-hugo-hello-eagle/) to my custom CMS - named Eagle -, it did use to be open-source.
 
 <!--more-->
 
-![Setting The Vibes™](cdn:/2023-11-noisy-glow)
+![Setting The Vibes™](image:2023-11-18-noisy-glow)
 
 With Eagle, I started introducing new features that could involve sensitive data, such as private posts, or even storing unmoderated comments in the Git repository. Both were a bad idea.
 

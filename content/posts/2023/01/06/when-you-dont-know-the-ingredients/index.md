@@ -1,14 +1,14 @@
 ---
 title: When You Don't Know the Ingredients
 date: 2023-01-06T22:15:23.150895986+01:00
+location:
+  latitude: 51.44581
+  longitude: 5.46175
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
-location:
-  country: Netherlands
-  latitude: 51.44581
-  locality: Eindhoven
-  longitude: 5.46175
-  region: North Brabant
 tags:
   - cooking
   - story time
@@ -32,9 +32,9 @@ Then the powder. In Portugal we have a thing called Chocolate Powder, which is u
 
 <div class='fg'>
 
-![Chocolate Powder](cdn:/eb198cf39374fc634b5335da61c7e2ddb294bbeef7bdcb614d4d5889d90f06df)
+![Chocolate Powder](image:2023-01-06-chocolate-powder)
 
-![Chocolate-covered Carrot Cake](cdn:/d331bd82c447d6732fc4deb004386dd97ee5f08680f3e8d19572414f91c8e276)
+![Chocolate-covered Carrot Cake](image:2023-01-06-carrot-cake)
 
 </div>
 
@@ -56,9 +56,9 @@ If you arrived here, congratulations. I will give you another quick story: the c
 
 <div class='fg'>
   
-![Cooked Condensed Milk](cdn:/6d4f93a1a1e518d30e544f0dbe568d04030bad5f6f969e3396bfb7f0f649e7cc)
+![Cooked Condensed Milk](image:2023-01-06-cooked-condensed-milk)
 
-![Baba de Camelo](cdn:/95490ae521b294daa3df97a0f2a6398f589902e018de04a51fb5353bb58d1434)
+![Baba de Camelo](image:2023-01-06-baba-de-camelo)
 
 </div>
 

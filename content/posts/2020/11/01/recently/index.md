@@ -15,7 +15,7 @@ Here we are again, one more month has passed. Today - or tomorrow because I'm wr
 
 The autumn has set and the streets are finally getting filled with reds, oranges, yellows and browns. Different trees, different colors. It's actually very different than what I am used to in Portugal. There we don't have many reds or oranges: it's mainly yellows and browns.
 
-![[Lonely Leafs](/2020/09/26/lonely-leafs)](cdn:/2020-09-leafs "Lonely leaf")
+![[Lonely Leafs](/2020/09/26/lonely-leafs)](image:2020-09-26-leafs "Lonely leaf")
 
 I had the opportunity to go for a bike ride for a few kilometers in the south of Eindhoven and the sights were absolutely incredible: sun, then a little bit of rain, clear sky, pine trees, forest paths... For someone that lived all his life on a place were vegetation is rather scarse, this is really pretty for me.
 

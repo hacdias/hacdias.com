@@ -335,7 +335,7 @@ is `8ef0da10cfb0183cdf8fcbe89b778bf6`, we will be able to find the exact request
 we've done with all the steps along the way. Since we created a span inside a recursive
 function, we can even see each iteration.
 
-![](cdn:/1777336858c8b4531a4581ce0395f2afa309b52b5f6d3910c287b05d0b0241e4)
+![](image:2023-04-18-jaeger)
 
 You can imagine how this can be useful while developing some service that makes
 requests across different packages and other services. In addition, this can be

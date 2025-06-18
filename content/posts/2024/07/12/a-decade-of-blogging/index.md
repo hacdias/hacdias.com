@@ -16,7 +16,7 @@ Today is the 12th of July. For most people, this date doesn't say much, but it m
 
 Ten years ago, the then fourteen year old Henrique decided to create a blog and wrote his [first blog post](/2014/07/12/apresentacao/). Reading it back, it is cringe, but I will let it keep living on this website. It is always nice to see how I have changed and how I have evolved. Funnily enough, I said I wanted to be Software Engineer on that post 10 years ago. And look at where I am now!
 
-![The Current Website](cdn:/2024-07-website-screenshot)
+![The Current Website](image:2024-07-12-website-screenshot)
 
 This website has also suffered many visual changes over the years. Some time ago I wrote two blog posts where I documented all the designs of this website from [before](/2022/03/25/my-website-before-indieweb/) and [after](/2022/06/18/my-website-after-indieweb/) IndieWeb. Even the domain was not always the same. In the beginning it was plainly `henriquedias.com`, which in the meanwhile just redirects to the current domain at `hacdias.com`.
 

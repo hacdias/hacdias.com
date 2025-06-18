@@ -26,9 +26,9 @@ The eBike Flow app is neatly integrated with the Apple Watch and Apple Health. A
 <figure>
 <div class='fg' style='grid-template-columns: repeat(2, 1fr);'>
 
-![](cdn:/2023-10-watch-tracked-ride-01 "")
+![](image:2023-10-11-watch-tracked-ride-01 "")
 
-![](cdn:/2023-10-watch-tracked-ride-02 "")
+![](image:2023-10-11-watch-tracked-ride-02 "")
 
 </div>
 <figcaption>Apple Watch ride</figcaption>
@@ -37,9 +37,9 @@ The eBike Flow app is neatly integrated with the Apple Watch and Apple Health. A
 <figure>
 <div class='fg' style='grid-template-columns: repeat(2, 1fr);'>
 
-![](cdn:/2023-10-flow-tracked-ride-01 "")
+![](image:2023-10-11-flow-tracked-ride-01 "")
 
-![](cdn:/2023-10-flow-tracked-ride-02 "")
+![](image:2023-10-11-flow-tracked-ride-02 "")
 
 </div>
 <figcaption>Flow ride, missing speed, power or cadence plots</figcaption>
@@ -59,11 +59,11 @@ I exported the FIT file, then imported it via [HealthFit](https://apps.apple.com
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-10-flow-via-healthfit-ride-01 "")
+![](image:2023-10-11-flow-via-healthfit-ride-01 "")
 
-![](cdn:/2023-10-flow-via-healthfit-ride-02 "")
+![](image:2023-10-11-flow-via-healthfit-ride-02 "")
 
-![](cdn:/2023-10-flow-via-healthfit-ride-03 "")
+![](image:2023-10-11-flow-via-healthfit-ride-03 "")
 
 </div>
 
@@ -110,11 +110,11 @@ Then, I carefully analyzed the original FIT file in order to try to understand i
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-10-flow-cleaned-01 "")
+![](image:2023-10-11-flow-cleaned-01 "")
 
-![](cdn:/2023-10-flow-cleaned-02 "")
+![](image:2023-10-11-flow-cleaned-02 "")
 
-![](cdn:/2023-10-flow-cleaned-03 "")
+![](image:2023-10-11-flow-cleaned-03 "")
 
 </div>
 

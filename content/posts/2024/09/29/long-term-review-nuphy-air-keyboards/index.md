@@ -3,7 +3,7 @@ title: Long Term Review of NuPhy Air Keyboards
 date: 2024-09-29T12:24:08+02:00
 categories:
   - writings
-coverPhoto: cdn:/2024-09-nuphy-air96
+coverPhoto: image:2024-09-29-nuphy-air96
 tags:
   - hardware
   - keyboards
@@ -26,7 +26,7 @@ So after a bit of research, I ended up purchasing the Air96 also with red switch
 
 Some months later I ended up buying a fancy cable from [CableMod](https://cablemod.com/) for the keyboard at home, to match the aesthetics. Not very important, but it looks good with the keyboard and the rest of the desk.
 
-![Home Keyboard Setup](cdn:/2024-09-nuphy-air96)
+![Home Keyboard Setup](image:2024-09-29-nuphy-air96)
 
 A fun thing about both of these keyboards is that they work with bluetooth, but I almost never use them wireless. Sometimes I realize they are wireless and think: "oh, wow, I've never noticed this", even though I know back there in my mind that I knew it very well.
 

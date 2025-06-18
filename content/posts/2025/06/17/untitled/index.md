@@ -1,11 +1,10 @@
 ---
 title: Untitled
 date: 2025-06-17T07:54:40.652819672+02:00
-thumbnail: cdn:/2025-06-17-untitled-03
 photos:
-  - url: cdn:/2025-06-17-untitled-01
-  - url: cdn:/2025-06-17-untitled-02
-  - url: cdn:/2025-06-17-untitled-03
+  - url: image:2025-06-17-untitled-01
+  - url: image:2025-06-17-untitled-02
+  - url: image:2025-06-17-untitled-03
 location:
   latitude: 32.6384505
   longitude: -16.8554634
@@ -17,6 +16,7 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/114697155979190094
   - https://bsky.app/profile/hacdias.com/post/3lrrsnz57qu2w
+thumbnail: image:2025-06-17-untitled-03
 ---
 
 <style>

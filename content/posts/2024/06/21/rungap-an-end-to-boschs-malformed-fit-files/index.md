@@ -29,11 +29,11 @@ I was still hesitating, but I decided to try exporting it to Apple Health. I did
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2024-06-flow-via-rungap-01 "")
+![](image:2024-06-21-flow-via-rungap-01 "")
 
-![](cdn:/2024-06-flow-via-rungap-02 "")
+![](image:2024-06-21-flow-via-rungap-02 "")
 
-![](cdn:/2024-06-flow-via-rungap-03 "")
+![](image:2024-06-21-flow-via-rungap-03 "")
 
 </div>
 

@@ -3,18 +3,18 @@ title: Fear of Deep Water
 date: 2024-09-09T17:24:30+02:00
 categories:
   - writings
-thumbnail: cdn:/2024-09-swimming-pool
 tags:
   - fears
   - reflection
   - sports
+thumbnail: image:2024-09-09-swimming-pool
 ---
 
 Swimming. An activity that can be very relaxing, and, at the same time, straining and very good for your body. Since I was a kid, I’ve always had a complicated relationship with swimming. I enjoy the process of swimming, and I can swim, but as soon as the body of water is deeper than my height, it’s a hard no-go.
 
 <!--more-->
 
-![Bit of Water](cdn:/2024-09-swimming-pool)
+![Bit of Water](image:2024-09-09-swimming-pool)
 
 From what I know from friends, it’s not that common to have swimming lessons at school in Portugal. However, I was weirdly one of these lucky bastards who actually always had swimming lessons since the age of 4 or 5. I can’t really recall the specifics.
 

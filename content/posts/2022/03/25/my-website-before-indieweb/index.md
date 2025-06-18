@@ -14,7 +14,7 @@ Since I created this website's [colophon](/about/#colophon) (also known as _meta
 
 To make this post more bearable - there are a lot of versions! - I decided to split it into two: before IndieWeb and after IndieWeb. I started getting into the IndieWeb back in 2020 and I think it is a good breaking point. Besides, there would be way too many images to put into a single post.
 
-![2014 Website](cdn:/2022-03-first-website "2014 Snapshot From Web Archive")
+![2014 Website](image:2022-03-25-first-website "2014 Snapshot From Web Archive")
 
 Back in 2014, I wasn't using Git or any other version control systems. Also, while using WordPress, that would be infeasible and not make any sense. Thus, I don't have backups from that time, except from the image above which I found on the [Web Archive](https://web.archive.org/).
 
@@ -26,21 +26,21 @@ At the time, I was very into the [parallax](https://en.wikipedia.org/wiki/Parall
 
 <div class="fg">
 
-![v1 (2015) Home](cdn:/2022-03-v1)
+![v1 (2015) Home](image:2022-03-25-v1)
 
-![v1 (2015) Article](cdn:/2022-03-v1-article)
+![v1 (2015) Article](image:2022-03-25-v1-article)
 
 </div>
 
 Months after, I made some drastic updates and decided to call it version 1.2. I really don't know what I was doing by not calling this a major version. As you can see below, I changed the homepage dramatically to what looks like a bad photo collage. Each article and page would have its own accent color and I kept the parallax effect on the articles pages.
 
-![v1.2 (2015) Home](cdn:/2022-03-v1.2)
+![v1.2 (2015) Home](image:2022-03-25-v1.2)
 
 <div class="fg">
 
-![v1.2 (2015) Article](cdn:/2022-03-v1.2-article)
+![v1.2 (2015) Article](image:2022-03-25-v1.2-article)
 
-![v1.2 (2015) Words](cdn:/2022-03-v1.2-words)
+![v1.2 (2015) Words](image:2022-03-25-v1.2-words)
 
 </div>
 
@@ -50,9 +50,9 @@ In 2016, I changed it enough to call it version 2. I went for a white-ish color 
 
 <div class="fg">
 
-![v2 (2016) Home](cdn:/2022-03-v2)
+![v2 (2016) Home](image:2022-03-25-v2)
 
-![v2 (2016) Article](cdn:/2022-03-v2-article)
+![v2 (2016) Article](image:2022-03-25-v2-article)
 
 </div>
 
@@ -60,25 +60,25 @@ In this year, I made way too many major versions. I am skipping version 3 becaus
 
 <div class="fg">
 
-![v4 (2016) Home](cdn:/2022-03-v4)
+![v4 (2016) Home](image:2022-03-25-v4)
 
-![v4 (2016) Blog](cdn:/2022-03-v4-blog)
+![v4 (2016) Blog](image:2022-03-25-v4-blog)
 
-![v4 (2016) Work](cdn:/2022-03-v4-work)
+![v4 (2016) Work](image:2022-03-25-v4-work)
 
-![v4 (2016) Work Example](cdn:/2022-03-v4-work-example)
+![v4 (2016) Work Example](image:2022-03-25-v4-work-example)
 
 </div>
 
 I made yet another revamp in 2016 - probably too much free time in my hands - where my homepage looked like a page out of those generic business card online website services, such as [about.me](https://about.me/). The styles of the remaining pages also changed, but not as dramatically as before.
 
-![v5.1 (2016) Home](cdn:/2022-03-v5.1-home)
+![v5.1 (2016) Home](image:2022-03-25-v5.1-home)
 
 <div class="fg">
 
-![v5 (2016) Blog](cdn:/2022-03-v5-blog)
+![v5 (2016) Blog](image:2022-03-25-v5-blog)
 
-![v5.1 (2016) About](cdn:/2022-03-v5.1-about)
+![v5.1 (2016) About](image:2022-03-25-v5.1-about)
 
 </div>
 
@@ -86,17 +86,17 @@ I made yet another revamp in 2016 - probably too much free time in my hands - wh
 
 In 2017, I managed to go through the whole year with the same design (magic!). This was version 7 of my website. By this time, I decided to go with a vertical menu on the left. The homepage would also showcase some photos I took that I was proud of. Some design decisions on this version remained until very recently, such as the projects page.
  
-![v7 (2017) Home](cdn:/2022-03-v7-home)
+![v7 (2017) Home](image:2022-03-25-v7-home)
 
 <div class="fg">
 
-![v7 (2017) About](cdn:/2022-03-v7-about)
+![v7 (2017) About](image:2022-03-25-v7-about)
 
-![v7 (2017) Article](cdn:/2022-03-v7-article)
+![v7 (2017) Article](image:2022-03-25-v7-article)
 
-![v7 (2017) Blog](cdn:/2022-03-v7-blog)
+![v7 (2017) Blog](image:2022-03-25-v7-blog)
 
-![v7 (2017) Projects](cdn:/2022-03-v7-projects)
+![v7 (2017) Projects](image:2022-03-25-v7-projects)
 
 </div>
 
@@ -106,9 +106,9 @@ In 2018 I did another face wash to the website. The homepage had an effect where
 
 <div class="fg">
 
-![v8 (2018) Home](cdn:/2022-03-v8-home)
+![v8 (2018) Home](image:2022-03-25-v8-home)
 
-![v8 (2018) Article](cdn:/2022-03-v8-post)
+![v8 (2018) Article](image:2022-03-25-v8-post)
 
 </div>
 
@@ -116,13 +116,13 @@ Some months after I released version 9 where I went back to the 2018 design, but
 
 <div class="fg">
 
-![v9 (2018) Home](cdn:/2022-03-v9-home)
+![v9 (2018) Home](image:2022-03-25-v9-home)
 
-![v9 (2018) Article](cdn:/2022-03-v9-article)
+![v9 (2018) Article](image:2022-03-25-v9-article)
 
-![v9 (2018) About](cdn:/2022-03-v9-about)
+![v9 (2018) About](image:2022-03-25-v9-about)
 
-![v9 (2018) Blog](cdn:/2022-03-v9-blog)
+![v9 (2018) Blog](image:2022-03-25-v9-blog)
 
 </div>
 
@@ -132,13 +132,13 @@ Some months after I released version 9 where I went back to the 2018 design, but
 
 <div class="fg">
 
-![v10 (2019) About](cdn:/2022-03-v10-about)
+![v10 (2019) About](image:2022-03-25-v10-about)
 
-![v10 (2019) Article](cdn:/2022-03-v10-article)
+![v10 (2019) Article](image:2022-03-25-v10-article)
 
-![v10 (2019) Blog](cdn:/2022-03-v10-blog)
+![v10 (2019) Blog](image:2022-03-25-v10-blog)
 
-![v10 (2019) Projects](cdn:/2022-03-v10-projects)
+![v10 (2019) Projects](image:2022-03-25-v10-projects)
 
 </div>
 

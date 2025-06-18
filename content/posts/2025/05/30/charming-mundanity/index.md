@@ -2,8 +2,8 @@
 title: Charming Mundanity
 date: 2025-05-30T15:42:43.710635256+02:00
 photos:
-  - url: cdn:/2025-05-30-charming-mundanity-01
-  - url: cdn:/2025-05-30-charming-mundanity-02
+  - url: image:2025-05-30-charming-mundanity-01
+  - url: image:2025-05-30-charming-mundanity-02
 categories:
   - photos
 syndication:

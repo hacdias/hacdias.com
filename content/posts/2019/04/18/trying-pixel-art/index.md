@@ -50,7 +50,7 @@ After that, I moved to something bigger - but it will be the last one of this po
 showing you first the last one I've done but that I don't actually enjoy that much. It's
 the central building of my university.
 
-![](cdn:/2019-04-tecnico-central "Técnico - Central Building")
+![](image:2019-04-18-tecnico-central "Técnico - Central Building")
 {.pixelated}
 
 Then - or should I say, before? - I've done something much more interesting: my university

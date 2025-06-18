@@ -3,11 +3,11 @@ title: Surviving FOSDEM '24
 date: 2024-02-05T18:16:01+01:00
 categories:
   - writings
-thumbnail: cdn:/2024-02-git
 tags:
   - conference
   - fosdem
   - open source
+thumbnail: image:2024-02-05-git
 ---
 
 This past weekend I went to Brussels for [FOSDEM](https://fosdem.org/) with Sebastiaan, who has already [written](https://seblog.nl/2024/02/05/2/obligatory-post-fosdem-post) a bit about it. FOSDEM, if you don't know, is the largest open source software conference in Europe - or in the world, not sure. This was not my first time attending, but it was positively chaotic as usual.
@@ -34,7 +34,7 @@ Sunday went fast. There were last people I think. It was likely partially caused
 
 Two other talk highlights of this day were the [Sequoia PGP](https://sequoia-pgp.org/) project, which I did not really know about. It seems cool. I wish the GPG tools were easier to use and it seems that this project is precisely that.
 
-![So you think you know Git?](cdn:/2024-02-git)
+![So you think you know Git?](image:2024-02-05-git)
 
 [*So you think you know Git*](https://fosdem.org/2024/schedule/event/fosdem-2024-3611-so-you-think-you-know-git/) is a talk I recommend rewatching. I've made a few updates to my dotfiles after this talk. And what a great talk it was! We were there in advance, but not on purpose. And such a good decision that was! The room got 100% full and many people were not allowed to stay since no one is allowed to sit on the stairs due to fire safety rules.
 
@@ -42,11 +42,11 @@ Two other talk highlights of this day were the [Sequoia PGP](https://sequoia-pgp
 
 <div class="fg" style="grid-template-columns: repeat(3, 1fr);">
 
-![Vlaamse Suikerwaffle](cdn:/2024-02-suikerwaffle)
+![Vlaamse Suikerwaffle](image:2024-02-05-suikerwaffle)
 
-![Fascinating Lime Beer](cdn:/2024-02-lime-beer)
+![Fascinating Lime Beer](image:2024-02-05-lime-beer)
 
-![Deadly Airbnb Stairs](cdn:/2024-02-airbnb-stairs)
+![Deadly Airbnb Stairs](image:2024-02-05-airbnb-stairs)
 
 </div>
 

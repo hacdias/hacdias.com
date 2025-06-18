@@ -14,7 +14,7 @@ It's time to take an indefinite break from my Dutch language classes. I have bee
 
 Back in October I [decided](/2023/10/18/navigating-my-dutch-learning-journey/) to actually focus on my Dutch learning journey. I had already tried a school at the beginning of 2023, but it wasn't for me. I needed something more formal, with more rules an explanations, as well as something more intensive. So I enrolled for an intensive course with two two hour lessons per week.
 
-![Remembering the handmade [tompouce](https://en.wikipedia.org/wiki/Tompouce) I ate in April](cdn:/2024-04-tompouce)
+![Remembering the handmade [tompouce](https://en.wikipedia.org/wiki/Tompouce) I ate in April](image:2024-07-04-tompouce)
 
 At the beginning I had to do an intake exam, at which it was decided that the best course for me was A2+. I joined and I did it. Then I followed to B1- and later B1. Since the book we used for B1 was not yet finished, I enrolled for B1+ to finish it. And here we are. This is the last week of this chapter. I will certainly keep working on my Dutch journey, but not taking classes anymore.
 

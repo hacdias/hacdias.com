@@ -1,17 +1,17 @@
 ---
 title: Kunstmuseum, Den Haag
 date: 2022-07-03T00:00:00.314581588+02:00
+photos:
+  - url: image:2022-07-03-kunstmuseum-01
+  - url: image:2022-07-03-kunstmuseum-02
+  - url: image:2022-07-03-kunstmuseum-03
+  - url: image:2022-07-03-kunstmuseum-04
+  - url: image:2022-07-03-kunstmuseum-05
+  - url: image:2022-07-03-kunstmuseum-06
+  - url: image:2022-07-03-kunstmuseum-07
 categories:
   - photos
-thumbnail: cdn:/2022-07-kunstmuseum-01
-photos:
-  - url: cdn:/2022-07-kunstmuseum-01
-  - url: cdn:/2022-07-kunstmuseum-02
-  - url: cdn:/2022-07-kunstmuseum-03
-  - url: cdn:/2022-07-kunstmuseum-04
-  - url: cdn:/2022-07-kunstmuseum-05
-  - url: cdn:/2022-07-kunstmuseum-06
-  - url: cdn:/2022-07-kunstmuseum-07
+thumbnail: image:2022-07-03-kunstmuseum-01
 ---
 
 <style>

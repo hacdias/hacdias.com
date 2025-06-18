@@ -15,11 +15,11 @@ November was so busy that I did not even manage to write this in time! The month
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/44e945fd5ac80ecb0b0fe7aa46b1f0f6b89e3120938b060a8c5cb89281e91f8f)
+![](image:2021-12-02-glow-festival-01)
 
-![](cdn:/2b786a933847a50f9af46d6fe1c35ee0d7c12d00fe2f7765a5539284d17798ba)
+![](image:2021-12-02-glow-festival-02)
 
-![](cdn:/9b27a4fbd5998bb5a31f35009ace5ae2d0f33bf250f0d58c1f1c75cc577ca170)
+![](image:2021-12-02-glow-festival-03)
 
 </div>
 

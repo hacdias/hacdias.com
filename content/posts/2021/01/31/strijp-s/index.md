@@ -1,24 +1,24 @@
 ---
 title: Strijp-S
 date: 2021-01-31T07:33:49Z
+photos:
+  - url: image:2021-01-31-strijps
+    title: Strijp-S
+  - url: image:2021-01-31-strijps-colors
+    title: Strijp-S Colors
+  - url: image:2021-01-31-eindhoven-center-01
+    title: Industrial Strijp-S
+  - url: image:2021-01-31-strijps-train
+    title: Passing By
+  - url: image:2021-01-31-strijps-stadium
+    title: PSV Stadium
+  - url: image:2021-01-31-philips
+    title: Old Philips
 categories:
   - photos
-thumbnail: cdn:/2021-01-strijps
-photos:
-  - title: Strijp-S
-    url: cdn:/2021-01-strijps
-  - title: Strijp-S Colors
-    url: cdn:/2021-01-strijps-colors
-  - title: Industrial Strijp-S
-    url: cdn:/2021-01-eindhoven-center-01
-  - title: Passing By
-    url: cdn:/2021-01-strijps-train
-  - title: PSV Stadium
-    url: cdn:/2021-01-strijps-stadium
-  - title: Old Philips
-    url: cdn:/2021-01-philips
 syndication:
   - https://www.instagram.com/p/COUnXtrrMQJ/
+thumbnail: image:2021-01-31-strijps
 ---
 
 <style>
