@@ -2,7 +2,7 @@
 title: Blinking Lamps
 date: 2021-04-16T09:14:25.896762407Z
 photos:
-  - url: https://cdn.hacdias.com/media/2019-04-common-room-lamps.gif
+  - url: https://media.hacdias.com/2021-04-16-common-room-lamps.gif
 categories:
   - fragments
 tags:

@@ -36,7 +36,7 @@ My master thesis has been finally published online. It is called _Impact Analysi
 }
 ```
 
-- [📄 Thesis](https://cdn.hacdias.com/media/2022-09-msc-blocklearning-thesis.pdf)
-- [📣 Slides](https://cdn.hacdias.com/media/2022-09-msc-blocklearning-slides.pdf)
+- [📄 Thesis](https://media.hacdias.com/2022-09-07-thesis-blocklearning-framework.pdf)
+- [📣 Slides](https://media.hacdias.com/2022-09-07-thesis-blocklearning-framework-slides.pdf)
 - [🧱 BlockLearning Framework](https://github.com/hacdias/blocklearning)
 {.buttons}

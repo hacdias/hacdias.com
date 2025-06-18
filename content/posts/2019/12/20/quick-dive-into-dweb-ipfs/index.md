@@ -13,6 +13,6 @@ tags:
 ---
 
 A few days ago, on the 30th of November, I gave my first talk at [BarcampLX](https://www.meetup.com/BarcampLx/events/265593046/),
-which is a really nice and open event you can go to and present! If you're interested, you can read more about the [concept](https://en.wikipedia.org/wiki/BarCamp). Here's the [slides deck](https://cdn.hacdias.com/media/2019-12-quick-dive-into-dweb-ipfs.pdf) and the video.
+which is a really nice and open event you can go to and present! If you're interested, you can read more about the [concept](https://en.wikipedia.org/wiki/BarCamp). Here's the [slides deck](https://media.hacdias.com/2019-12-20-quick-dive-into-dweb-ipfs.pdf) and the video.
 
 {{< bunny-video "164483/8da282e2-0044-4d11-a17d-faa6ecb46b8d" >}}

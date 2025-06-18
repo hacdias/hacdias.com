@@ -9,7 +9,7 @@ tags:
   - year in music
 ---
 
-![](https://cdn.hacdias.com/media/2021-05-cute-music.gif "Cute entity listening to music")
+![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")
 {.right .pixelated style="max-width: 100px; margin-top: 0; margin-right: 1rem"}
 
 In 2021, I scrobbled **19 256** times, with an average of **53** scrobbles per day. In total, I listened to **46 days and 9 hours** of music. My most popular genres, from the most popular to the least popular, are pop, electronic, dance, indie and lo-fi.

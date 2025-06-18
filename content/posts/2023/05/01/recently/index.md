@@ -18,7 +18,7 @@ the weather is definitely getting so much better than a few months ago.
 
 <figure class='right video-ambiance'>
   <video autoplay muted loop controls>
-    <source src="https://cdn.hacdias.com/media/2023-04-ambiance-bus-stop.mp4" type="video/mp4">
+    <source src="https://media.hacdias.com/2023-05-01-bus-stop.mp4" type="video/mp4">
   </video>
 </figure>
 
@@ -51,7 +51,7 @@ with my coworkers in person.
 
 <figure class='left round'>
   <video autoplay muted loop controls>
-    <source src="https://cdn.hacdias.com/media/2023-04-ambiance-turbines.mp4" type="video/mp4">
+    <source src="https://media.hacdias.com/2023-05-01-wind-turbines.mp4" type="video/mp4">
   </video>
 </figure>
 
