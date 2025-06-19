@@ -4,12 +4,20 @@ date: 2024-03-22T15:16:41+01:00
 photos:
   - url: image:2024-03-22-munchen-flowers
     title: Flowers Shop
+    width: 3000
+    height: 4500
   - url: image:2024-03-22-munchen-way
     title: Hallway
+    width: 3000
+    height: 4500
   - url: image:2024-03-22-munchen-waterfall
     title: Soft Waterfall
+    width: 3000
+    height: 4500
   - url: image:2024-03-22-munchen-surf
     title: Surfing In The River
+    width: 3000
+    height: 4500
 categories:
   - photos
 tags:

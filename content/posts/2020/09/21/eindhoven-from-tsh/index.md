@@ -3,6 +3,8 @@ title: Welcome to Eindhoven
 date: 2020-09-21T23:30:50.893Z
 photos:
   - url: image:2020-09-21-eindhoven-tsh
+    width: 3000
+    height: 2000
 categories:
   - photos
 ---

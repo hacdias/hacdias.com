@@ -3,18 +3,44 @@ title: "\U0001F338 A Visit to the Bloesempark"
 date: 2022-03-27T11:03:07.069215+02:00
 photos:
   - url: image:2022-03-27-cherry-blossoms-06
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-01
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-02
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-03
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-04
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-05
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-07
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-08
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-09
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-10
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-11
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-12
+    width: 3000
+    height: 2000
   - url: image:2022-03-27-cherry-blossoms-group
+    width: 3000
+    height: 2000
 categories:
   - photos
 syndication:

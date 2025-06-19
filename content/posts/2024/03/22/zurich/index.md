@@ -4,12 +4,20 @@ date: 2024-03-22T15:36:14+01:00
 photos:
   - url: image:2024-03-22-zurich-boat
     title: Misty Boat
+    width: 3000
+    height: 2000
   - url: image:2024-03-22-zurich-frozen-car
     title: Unfocused
+    width: 3000
+    height: 4500
   - url: image:2024-03-22-zurich-train
     title: Train Up In The Mountains
+    width: 3000
+    height: 4500
   - url: image:2024-03-22-zurich
     title: Skyfall
+    width: 3000
+    height: 1688
 categories:
   - photos
 tags:

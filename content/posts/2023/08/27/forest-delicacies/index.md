@@ -4,10 +4,16 @@ date: 2023-08-27T17:28:53+02:00
 photos:
   - url: image:2023-08-27-mushrooms-nest
     title: Mushrooms nest laying next to a tree trunk
+    width: 3000
+    height: 2000
   - url: image:2023-08-27-mushroom
     title: Lonely mushroom with a bit of water from the rain
+    width: 3000
+    height: 2000
   - url: image:2023-08-27-slugs
     title: Slugs
+    width: 3000
+    height: 2000
 categories:
   - photos
 thumbnail: image:2023-08-27-mushrooms-nest

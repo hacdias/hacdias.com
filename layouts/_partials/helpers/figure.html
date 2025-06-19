@@ -27,7 +27,9 @@
 {{- end }}
 
 <img src="{{ absURL $src | safeURL }}"
-	{{- with or .Text .Title }} alt ="{{.}}"{{ end }}
+	{{- with or .Text .Title }}alt ="{{.}}"{{ end }}
+	{{- with .Width }}width ="{{.}}"{{ end }}
+	{{- with .Height }}height ="{{.}}"{{ end }}
 	{{- if not .IsBlock }}
 		{{ with .Class }}class="{{ . }}"{{ end }}
 		{{ with .Style }}style="{{ . | safeCSS }}"{{ end }}

@@ -3,8 +3,14 @@ title: Untitled
 date: 2025-06-17T07:54:40.652819672+02:00
 photos:
   - url: image:2025-06-17-untitled-01
+    width: 3000
+    height: 4499
   - url: image:2025-06-17-untitled-02
+    width: 3000
+    height: 4501
   - url: image:2025-06-17-untitled-03
+    width: 3000
+    height: 4501
 location:
   latitude: 32.6384505
   longitude: -16.8554634

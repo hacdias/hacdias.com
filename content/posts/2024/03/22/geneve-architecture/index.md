@@ -3,8 +3,14 @@ title: Genève Architecture
 date: 2024-03-22T15:45:10+01:00
 photos:
   - url: image:2024-03-22-geneve-architecture-2
+    width: 3000
+    height: 4500
   - url: image:2024-03-22-geneve-architecture-1
+    width: 3000
+    height: 4500
   - url: image:2024-03-22-geneve-architecture-3
+    width: 3000
+    height: 2000
 categories:
   - photos
 tags:

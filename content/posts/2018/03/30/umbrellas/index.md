@@ -3,6 +3,8 @@ title: Strange Umbrellas
 date: 2018-03-30T12:45:35Z
 photos:
   - url: image:2018-03-30-umbrellas
+    width: 3000
+    height: 2250
 location:
   latitude: 37.099027
   longitude: -8.0012808

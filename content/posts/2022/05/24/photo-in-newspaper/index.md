@@ -3,6 +3,8 @@ title: Photo in Newspaper
 date: 2022-05-24T21:58:43.727383096+02:00
 photos:
   - url: image:2022-05-24-behind-the-camera
+    width: 3000
+    height: 2000
 location:
   latitude: 51.43243
   longitude: 5.48617

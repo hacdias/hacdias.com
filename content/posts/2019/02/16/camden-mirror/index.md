@@ -3,6 +3,8 @@ title: Camden Mirror
 date: 2019-02-16T12:32:06Z
 photos:
   - url: image:2019-02-16-camden-mirror
+    width: 3000
+    height: 2000
 location:
   latitude: 51.5409083
   longitude: -0.1481579

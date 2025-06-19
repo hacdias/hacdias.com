@@ -3,14 +3,32 @@ title: Steel Wool
 date: 2021-09-16T06:45:00Z
 photos:
   - url: image:2021-09-16-steelwool-07
+    width: 3000
+    height: 2000
   - url: image:2021-09-16-steelwool-06
+    width: 3000
+    height: 2000
   - url: image:2021-09-16-steelwool-04
+    width: 3000
+    height: 2000
   - url: image:2021-09-16-steelwool-05
+    width: 3000
+    height: 2000
   - url: image:2021-09-16-steelwool-08
+    width: 3000
+    height: 2000
   - url: image:2021-09-16-steelwool-01
+    width: 3000
+    height: 2000
   - url: image:2021-09-16-steelwool-03
+    width: 3000
+    height: 2000
   - url: image:2021-09-16-steelwool-09
+    width: 3000
+    height: 2000
   - url: image:2021-09-16-steelwool-02
+    width: 3000
+    height: 2000
 categories:
   - photos
 thumbnail: image:2021-09-16-steelwool-07

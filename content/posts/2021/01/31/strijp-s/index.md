@@ -4,16 +4,28 @@ date: 2021-01-31T07:33:49Z
 photos:
   - url: image:2021-01-31-strijps
     title: Strijp-S
+    width: 3000
+    height: 2000
   - url: image:2021-01-31-strijps-colors
     title: Strijp-S Colors
+    width: 3000
+    height: 2000
   - url: image:2021-01-31-eindhoven-center-01
     title: Industrial Strijp-S
+    width: 3000
+    height: 2000
   - url: image:2021-01-31-strijps-train
     title: Passing By
+    width: 3000
+    height: 2000
   - url: image:2021-01-31-strijps-stadium
     title: PSV Stadium
+    width: 3000
+    height: 2000
   - url: image:2021-01-31-philips
     title: Old Philips
+    width: 3000
+    height: 2000
 categories:
   - photos
 syndication:

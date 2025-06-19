@@ -3,8 +3,14 @@ title: Strijp-S
 date: 2022-09-05T07:41:47.351450039+02:00
 photos:
   - url: image:2022-09-05-strijp-s-01
+    width: 1536
+    height: 2048
   - url: image:2022-09-05-strijp-s-02
+    width: 1536
+    height: 2048
   - url: image:2022-09-05-strijp-s-03
+    width: 1536
+    height: 2048
 categories:
   - photos
 syndication:

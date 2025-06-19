@@ -3,7 +3,11 @@ title: What Is There Is Not
 date: 2022-10-18T13:14:45.621253396+02:00
 photos:
   - url: image:2022-10-18-what-is-there-is-not-01
+    width: 2507
+    height: 3342
   - url: image:2022-10-18-what-is-there-is-not-02
+    width: 2716
+    height: 3622
 location:
   latitude: 51.44449
   longitude: 5.45995

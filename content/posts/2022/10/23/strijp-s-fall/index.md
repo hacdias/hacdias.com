@@ -4,8 +4,14 @@ date: 2022-10-23T11:28:42.442005751+02:00
 lastmod: 2022-10-23T11:30:26.579799606+02:00
 photos:
   - url: image:2022-10-23-strijp-s-fall-01
+    width: 3000
+    height: 4000
   - url: image:2022-10-23-strijp-s-fall-02
+    width: 3000
+    height: 4000
   - url: image:2022-10-23-strijp-s-fall-03
+    width: 3000
+    height: 4000
 categories:
   - photos
 syndication:

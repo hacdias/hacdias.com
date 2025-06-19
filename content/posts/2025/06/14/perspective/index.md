@@ -3,6 +3,8 @@ title: Perspective
 date: 2025-06-14T15:56:04.029558573+02:00
 photos:
   - url: image:2025-06-14-perspective
+    width: 3000
+    height: 2000
 location:
   latitude: 32.6555151
   longitude: -17.0145458

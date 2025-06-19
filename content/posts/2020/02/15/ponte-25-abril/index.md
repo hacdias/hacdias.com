@@ -3,6 +3,8 @@ title: Ponte 25 de Abril
 date: 2020-02-15T16:47:00Z
 photos:
   - url: image:2020-02-15-lisbon-02
+    width: 3000
+    height: 2000
 categories:
   - photos
 ---

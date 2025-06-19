@@ -3,8 +3,14 @@ title: Pico do Areeiro
 date: 2025-06-14T08:04:11.826029887+02:00
 photos:
   - url: image:2025-06-14-pico-do-areeiro
+    width: 3000
+    height: 2000
   - url: image:2025-06-14-pico-do-areeiro-02
+    width: 3000
+    height: 1687
   - url: image:2025-06-14-pico-do-areeiro-03
+    width: 3000
+    height: 2000
 location:
   latitude: 32.7355731
   longitude: -16.9391887

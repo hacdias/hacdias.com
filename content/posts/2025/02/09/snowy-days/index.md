@@ -3,6 +3,8 @@ title: Snowy Days
 date: 2025-02-09T17:16:25+01:00
 photos:
   - url: image:2025-02-09-snowy-days
+    width: 3000
+    height: 4000
 location:
   latitude: 51.44589
   longitude: 5.46168

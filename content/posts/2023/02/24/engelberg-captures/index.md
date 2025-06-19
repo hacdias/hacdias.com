@@ -3,9 +3,17 @@ title: Engelberg Captures
 date: 2023-02-24T14:13:39.745831911+01:00
 photos:
   - url: image:2023-02-24-engelberg-train-01
+    width: 3000
+    height: 4500
   - url: image:2023-01-31-engelberg-01
+    width: 3000
+    height: 4500
   - url: image:2023-02-24-engelberg-train-02
+    width: 3000
+    height: 4500
   - url: image:2023-02-24-engelberg-02
+    width: 3000
+    height: 2000
 categories:
   - photos
 syndication:

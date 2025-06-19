@@ -10,6 +10,7 @@ I come from a little town in the countryside of Portugal 🇵🇹, and I've been
 <!--more-->
 
 ![](image:2024-09-01-stratumse-heide "In The Stratumse Heide")
+{width="3000" height="1688"}
 
 I started playing with computers at an early age. When my father bought his first computer, I carved a monitor, keyboard and mouse from the cardboard boxes and made my own "computer". As the years passed, I decided to learn programming. I spent hours researching which programming language to learn first and decided on C#. I bought a book, which I never read, and ended up learning PHP instead.
 

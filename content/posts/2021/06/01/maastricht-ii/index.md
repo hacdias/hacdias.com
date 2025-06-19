@@ -3,10 +3,20 @@ title: Maastricht II
 date: 2021-06-01T00:00:00Z
 photos:
   - url: image:2021-06-01-maastricht-07
+    width: 3000
+    height: 2000
   - url: image:2021-06-01-maastricht-11
+    width: 2648
+    height: 3972
   - url: image:2021-06-01-maastricht-08
+    width: 3000
+    height: 2000
   - url: image:2021-06-01-maastricht-09
+    width: 3000
+    height: 2000
   - url: image:2021-06-01-maastricht-12
+    width: 3000
+    height: 2000
 categories:
   - photos
 syndication:

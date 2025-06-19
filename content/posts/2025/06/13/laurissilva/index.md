@@ -3,9 +3,17 @@ title: Laurissilva
 date: 2025-06-13T21:41:49.503835201+02:00
 photos:
   - url: image:2025-06-13-laurissilva-01
+    width: 3000
+    height: 2000
   - url: image:2025-06-13-laurissilva-02
+    width: 3000
+    height: 4500
   - url: image:2025-06-13-laurissilva-03
+    width: 3000
+    height: 4500
   - url: image:2025-06-13-laurissilva-04
+    width: 3000
+    height: 2000
 location:
   latitude: 32.77959
   longitude: -16.8990296

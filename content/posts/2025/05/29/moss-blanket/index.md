@@ -3,6 +3,8 @@ title: Moss Blanket
 date: 2025-05-29T19:52:17.207006356+02:00
 photos:
   - url: image:2025-05-29-moss-blanket
+    width: 3000
+    height: 2250
 categories:
   - photos
 syndication:

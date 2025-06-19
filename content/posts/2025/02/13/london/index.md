@@ -3,6 +3,8 @@ title: Eurostar to London
 date: 2025-02-13T10:21:42+01:00
 photos:
   - url: image:2025-02-13-london
+    width: 3000
+    height: 3000
 location:
   latitude: 51.52866
   longitude: -0.13407

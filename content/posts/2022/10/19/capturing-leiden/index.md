@@ -3,14 +3,32 @@ title: Capturing Leiden
 date: 2022-10-19T11:46:09.317883773+02:00
 photos:
   - url: image:2022-10-19-capturing-leiden-01
+    width: 3000
+    height: 2000
   - url: image:2022-10-19-capturing-leiden-02
+    width: 3000
+    height: 2000
   - url: image:2022-10-19-capturing-leiden-03
+    width: 3000
+    height: 2000
   - url: image:2022-10-19-capturing-leiden-04
+    width: 3000
+    height: 2000
   - url: image:2022-10-19-capturing-leiden-05
+    width: 3000
+    height: 2000
   - url: image:2022-10-19-capturing-leiden-06
+    width: 3000
+    height: 2000
   - url: image:2022-10-19-capturing-leiden-07
+    width: 3000
+    height: 2000
   - url: image:2022-10-19-capturing-leiden-08
+    width: 3000
+    height: 2000
   - url: image:2022-10-19-capturing-leiden-09
+    width: 3000
+    height: 2000
 categories:
   - photos
 syndication:

@@ -4,14 +4,32 @@ description: Trip to Italy in Photos
 date: 2022-11-16T14:28:29.381987946+01:00
 photos:
   - url: image:2022-11-16-trip-to-italy-in-photos-01
+    width: 3000
+    height: 2000
   - url: image:2022-11-16-trip-to-italy-in-photos-02
+    width: 3000
+    height: 2000
   - url: image:2022-11-16-trip-to-italy-in-photos-03
+    width: 2485
+    height: 3727
   - url: image:2022-11-16-trip-to-italy-in-photos-04
+    width: 3000
+    height: 4500
   - url: image:2022-11-16-trip-to-italy-in-photos-05
+    width: 3000
+    height: 4500
   - url: image:2022-11-16-trip-to-italy-in-photos-06
+    width: 3000
+    height: 2000
   - url: image:2022-11-16-trip-to-italy-in-photos-07
+    width: 2790
+    height: 4185
   - url: image:2022-11-16-trip-to-italy-in-photos-08
+    width: 3000
+    height: 4500
   - url: image:2022-11-16-trip-to-italy-in-photos-09
+    width: 3000
+    height: 2000
 categories:
   - photos
 tags:

@@ -3,7 +3,11 @@ title: Elizabeth Pillow
 date: 2025-02-14T09:00:18.468764464+01:00
 photos:
   - url: image:2025-02-14-elizabeth-pillow-01
+    width: 3000
+    height: 3000
   - url: image:2025-02-14-elizabeth-pillow-02
+    width: 3000
+    height: 3000
 location:
   latitude: 51.52638
   longitude: -0.31308

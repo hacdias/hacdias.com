@@ -3,7 +3,11 @@ title: Engraving My Name in the Alumni Avenue
 date: 2022-11-23T09:07:14.207620219+01:00
 photos:
   - url: image:2022-11-23-msc-while-engraving
+    width: 2235
+    height: 2980
   - url: image:2022-11-23-msc-engraving
+    width: 2731
+    height: 3643
 location:
   latitude: 51.43255
   longitude: 5.48605

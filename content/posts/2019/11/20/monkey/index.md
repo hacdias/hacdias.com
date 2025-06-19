@@ -3,6 +3,8 @@ title: Lurkin' Monkey
 date: 2019-11-20T04:35:09Z
 photos:
   - url: image:2019-11-20-monkey
+    width: 3000
+    height: 2250
 location:
   latitude: 10.6418273
   longitude: -85.6592742

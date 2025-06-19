@@ -3,6 +3,8 @@ title: Solitude
 date: 2025-06-15T07:38:25+02:00
 photos:
   - url: image:2025-06-15-solitude
+    width: 3000
+    height: 2000
 location:
   latitude: 32.6601534
   longitude: -17.0093357

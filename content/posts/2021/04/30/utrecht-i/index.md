@@ -3,11 +3,23 @@ title: Utrecht I
 date: 2021-04-30T12:00:00Z
 photos:
   - url: image:2021-04-30-utrecht-02
+    width: 3000
+    height: 2000
   - url: image:2021-04-30-utrecht-19
+    width: 2622
+    height: 3933
   - url: image:2021-04-30-utrecht-07
+    width: 3000
+    height: 2000
   - url: image:2021-04-30-utrecht-05
+    width: 3000
+    height: 2000
   - url: image:2021-04-30-utrecht-23
+    width: 3000
+    height: 2000
   - url: image:2021-04-30-utrecht-14
+    width: 3000
+    height: 2000
 categories:
   - photos
 thumbnail: image:2021-04-30-utrecht-02

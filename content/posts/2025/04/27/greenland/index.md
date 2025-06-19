@@ -3,6 +3,8 @@ title: Greenland
 date: 2025-04-27T16:18:39+02:00
 photos:
   - url: image:2025-04-27-greenland
+    width: 3000
+    height: 2250
 categories:
   - photos
 syndication:

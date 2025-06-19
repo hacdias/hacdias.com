@@ -3,15 +3,35 @@ title: Maastricht I
 date: 2021-05-31T00:00:00Z
 photos:
   - url: image:2021-05-31-maastricht-03
+    width: 3000
+    height: 2000
   - url: image:2021-05-31-maastricht-01
+    width: 3000
+    height: 2000
   - url: image:2021-05-31-maastricht-13
+    width: 3000
+    height: 2000
   - url: image:2021-05-31-maastricht-14
+    width: 3000
+    height: 2000
   - url: image:2021-05-31-maastricht-04
+    width: 3000
+    height: 2000
   - url: image:2021-05-31-maastricht-15
+    width: 3000
+    height: 2000
   - url: image:2021-05-31-maastricht-05
+    width: 3000
+    height: 4499
   - url: image:2021-05-31-maastricht-06
+    width: 3000
+    height: 4500
   - url: image:2021-05-31-maastricht-10
+    width: 3000
+    height: 4500
   - url: image:2021-05-31-maastricht-02
+    width: 3000
+    height: 2000
 categories:
   - photos
 thumbnail: image:2021-05-31-maastricht-03
