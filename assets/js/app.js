@@ -80,7 +80,7 @@ function addEmoji() {
 
 function parseEmojis() {
   twemoji.parse(document.body, {
-    base: 'https://cdn.hacdias.com/emojis/16.0.1/',
+    base: 'https://media.hacdias.com/emoji/16.0.1/',
     folder: 'svg',
     ext: '.svg',
   })
