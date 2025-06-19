@@ -1,6 +1,7 @@
 ---
 title: The Day I ”Hacked” My School’s Library Computers
 date: 2023-03-26T14:53:29.237893399+02:00
+thumbnail: image:2023-03-26-bsod
 categories:
   - writings
 syndication:
