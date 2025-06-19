@@ -1,17 +1,27 @@
 ---
 title: Maastricht II
 date: 2021-06-01T00:00:00Z
+photos:
+  - url: image:2021-06-01-maastricht-07
+    width: 3000
+    height: 2000
+  - url: image:2021-06-01-maastricht-11
+    width: 2648
+    height: 3972
+  - url: image:2021-06-01-maastricht-08
+    width: 3000
+    height: 2000
+  - url: image:2021-06-01-maastricht-09
+    width: 3000
+    height: 2000
+  - url: image:2021-06-01-maastricht-12
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/2021-05-maastricht-07
-photos:
-  - url: cdn:/2021-05-maastricht-07
-  - url: cdn:/2021-05-maastricht-11
-  - url: cdn:/2021-05-maastricht-08
-  - url: cdn:/2021-05-maastricht-09
-  - url: cdn:/2021-05-maastricht-12
 syndication:
   - https://www.instagram.com/p/CO6P31uLDLN/
+thumbnail: image:2021-06-01-maastricht-07
 ---
 
 [Maastricht](/2021/05/31/maastricht-i) turned out to be quite a magical little city close to the border with Belgium. There was a lot of greenery and old buildings.

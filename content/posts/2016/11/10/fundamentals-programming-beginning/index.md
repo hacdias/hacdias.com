@@ -109,6 +109,6 @@ The previous code is simple to understand: the pseudocode uses our natural langu
 
 An algorithm is any order or instruction given to a computer or any other automatized machine. The previous algorithm could be graphically represented as:
 
-![Flowchart](https://cdn.hacdias.com/media/2016-11-flowchart-cook.jpg)
+![Flowchart](https://media.hacdias.com/2016-11-10-flowchart-cook.jpeg)
 
 As you can see, it's easy to understand. Both pseudocode and flowcharts.

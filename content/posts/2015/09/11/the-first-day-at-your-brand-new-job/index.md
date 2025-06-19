@@ -14,7 +14,7 @@ You born, then you do the elementary, middle and high school. After finishing it
 
 Now, with your refined CV and job proposals, you go to interviews to see what happens. You will go to some interviews until you get the job - or just one if you’re good, we know you are. You got the job and the day - **that** day - finally comes: the first day at your brand new, and even the first, job. What are you going to do at a new place? It’s all about time, and time is *precious*.
 
-![Preciooous time](https://cdn.hacdias.com/media/2015-09-time-precious.jpg)
+![Preciooous time](https://media.hacdias.com/2015-09-11-time-precious.jpeg)
 
 How should your first day be? It must be something amazing, memorable, but, at the same time, frightful. You don’t have to fear, neither be the superman (or superwoman). We have 5 points to make sure you’ve a great day.
 
@@ -22,7 +22,7 @@ How should your first day be? It must be something amazing, memorable, but, at t
 
 **Smile, be happy** - no one likes to work with a dumpish person! Smile to everyone, be fun, but not too much and choose the right circumstances to make a joke. Being friendly and energetic is essential. You don’t have to try to hard, but you mustn’t be too lazy.
 
-![Just smile](https://cdn.hacdias.com/media/2015-09-mr-bean.jpg)
+![Just smile](https://media.hacdias.com/2015-09-11-mr-bean.jpeg)
 
 **Know the space and how it works** - knowing the place where you’re going to work in the next months, years maybe, is fundamental. Know with who you’re going to work. And most of all, *observe and hear*. Observe the “how to” in the company. How does the things work? How are the decisions made?
 

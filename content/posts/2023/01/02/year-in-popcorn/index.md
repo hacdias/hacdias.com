@@ -9,7 +9,7 @@ tags:
   - year in popcorn
 ---
 
-![](https://cdn.hacdias.com/media/2021-02-popcorn.gif "Popcorn")
+![](https://media.hacdias.com/2021-02-01-popcorn.gif "Popcorn")
 {.right .pixelated style="max-width: 100px; margin: 0;"}
 
 A few years ago, I published an article where I did a small [analysis](/2020/02/22/trakt-analysis) of my Trakt data, which contains the shows and movies I have watched. I decided to bring that back again under the name "Year in Popcorn". I considered "Year in Movies & Shows" but I thought that was too long and unappealing 😅.
@@ -21,8 +21,6 @@ In 2022, I am aware I watched many things, especially TV shows. To say the truth
 ## 🏁 First and Last
 
 The first thing I watched in 2022 was Episode 2 of Season 2 of **Travelers**, on the 1st of January at 11:22 in the morning; while the last thing I watched was Episode 10 of Season 3 of **Emily in Paris**, on the 30th of December at 22:00 in the evening.
-
-![Agence Grateau in Emily in Paris (Season 3)](https://cdn.hacdias.com/media/f65b3761aafd75b872da241fe91fe5c61ec0a53d22d979f3f6a009f1b8ad7589.webp)
 
 ## 🎬 Movies
 

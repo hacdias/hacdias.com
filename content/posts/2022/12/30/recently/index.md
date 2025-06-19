@@ -25,7 +25,7 @@ Finally, I updated the way the [🗞️ Blogroll](/blogroll) is displayed to inc
 
 ## 🍄 Life {#life}
 
-![Faro Airport](cdn:/b3b9a0e9db826e76d7511534e774facae4db121e2514cac336e7daf33850f1c0)
+![Faro Airport](image:2022-12-30-faro-airport)
 {.right}
 
 Life-wise, quite a few things happened, but I'm going to be quicker on this section. For once, we finished most of the construction in the apartment. We have almost all furniture and everything is mostly settled in. In addition, we went to [Aachen's Christmas Market](/2022/12/22/aachen-weihnachtsmarkt), where we had a lot of fun. I love Christmas Markets 🎄! In the end of the month, I spent a week at my parent's in Portugal and it was a very nice time to meet with a lot of family that I haven't seen in a while.
@@ -42,11 +42,11 @@ I [watched](/watches) quite a few things during December. However, I want to hig
 
 The second time I went to the cinema was to watch *Avatar: The Way of Water* and I absolutely loved it. I watched the first movie years ago when I was a kid, so I first had to watch a recap of the first movie. The second movie is a great continuation of the first. Of course, some will enjoy it more than others, but overall it was worth it.
 
-![Meeting a Water Tribe *(Avatar: The Way of Water)*](cdn:/f5af97ea6f9a23e2322da032dc7994f6b0faab24b82081dab8088d0189e591ac)
+![Meeting a Water Tribe *(Avatar: The Way of Water)*](image:2022-12-30-avatar-the-way-of-water)
 
 On the series department, I want to highlight three series. First of all, *1899*. 1899 is a series from the same German studios as *Dark*, and you can clearly see why. Even though the story is extremely different and unrelated, the philosophy behind it, as well as the mysterious tone are highly present and connected. In addition, the multi-cultural nature of the cast was impressive, with actors from all corners of the world. I really enjoyed watching the first season of 1899 and I am thrilled for what's coming next. I recommend it, as well as *Dark*, and *Making 1899* for the technology behind it.
 
-![Passengers on Board of Kerberos *(1899)*](cdn:/9a5004a6c2a0202b8cf9dc6b64ef1f14aded6918e0db8dbd342e650ab28af491)
+![Passengers on Board of Kerberos *(1899)*](image:2022-12-30-kerberos-1899)
 
 I also watched the first season of *Wednesday*, which follows the story of Wednesday Addams. I did not have a lot of background on the Addams Family story, but I enjoyed the execution and storyline. Also looking for the next seasons.
 

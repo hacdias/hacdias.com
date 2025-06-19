@@ -1,25 +1,51 @@
 ---
 title: "\U0001F338 A Visit to the Bloesempark"
 date: 2022-03-27T11:03:07.069215+02:00
+photos:
+  - url: image:2022-03-27-cherry-blossoms-06
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-01
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-02
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-03
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-04
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-05
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-07
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-08
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-09
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-10
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-11
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-12
+    width: 3000
+    height: 2000
+  - url: image:2022-03-27-cherry-blossoms-group
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/2022-03-cherry-blossoms-06
-photos:
-  - url: cdn:/2022-03-cherry-blossoms-06
-  - url: cdn:/2022-03-cherry-blossoms-01
-  - url: cdn:/2022-03-cherry-blossoms-02
-  - url: cdn:/2022-03-cherry-blossoms-03
-  - url: cdn:/2022-03-cherry-blossoms-04
-  - url: cdn:/2022-03-cherry-blossoms-05
-  - url: cdn:/2022-03-cherry-blossoms-07
-  - url: cdn:/2022-03-cherry-blossoms-08
-  - url: cdn:/2022-03-cherry-blossoms-09
-  - url: cdn:/2022-03-cherry-blossoms-10
-  - url: cdn:/2022-03-cherry-blossoms-11
-  - url: cdn:/2022-03-cherry-blossoms-12
-  - url: cdn:/2022-03-cherry-blossoms-group
 syndication:
   - https://twitter.com/hacdias/status/1508095378222166021
+thumbnail: image:2022-03-27-cherry-blossoms-06
 ---
 
 <style>
@@ -52,7 +78,7 @@ syndication:
 .fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(13) { grid-area: m; }
 </style>
 
-![](https://cdn.hacdias.com/media/2022-03-cherry-blossom-tree.gif)
+![](https://media.hacdias.com/2022-03-27-cherry-blossom-tree.gif)
 {.pixelated .right style="margin-top: 0; max-width: 11rem;"}
 
 A few days ago, my boyfriend invited my go to the [Bloesempark](https://www.amsterdamsebos.nl/bloesempark/) in Amsterdamse Bos. Unfortunately, I won't be in the Netherlands next weekend so I cannot go. However, since the idea of going to a park with around 400 japanese [cherry blossom trees](https://en.wikipedia.org/wiki/Cherry_blossom) (_Sakura trees_) 🌸 was too enticing, I gathered some friends and visited yesterday.

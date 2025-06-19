@@ -29,7 +29,7 @@ Marina's "Ancient Dreams in a Modern Land Tour" was the first actual concert I w
 
 Regarding MØ, I didn't know MØ that much before this concert, only for a few songs. But I must say that after attending the concert, I got addicted to some of her songs.
 
-![](cdn:/f9cbba9f86d0ab80118d3e703b849e829169049f8954cbaae5b3836dea977b77 "Ancient Dreams in a Modern Land Tour 2022 Poster")
+![](image:2022-06-01-ancient-dreams-modern-land-tour "Ancient Dreams in a Modern Land Tour 2022 Poster")
 
 ## Thesis
 

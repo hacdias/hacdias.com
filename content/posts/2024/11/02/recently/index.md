@@ -3,13 +3,13 @@ title: Recently in October '24
 date: 2024-11-02T11:02:03+01:00
 categories:
   - writings
-thumbnail: cdn:/2024-10-fuengirola
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3l7xgqj5nal2l
   - https://fosstodon.org/@hacdias/113412791482682134
 tags:
   - now
   - travel
+thumbnail: image:2024-11-02-fuengirola
 ---
 
 October is now two days away. Halloween is gone - which I always enjoying mentioning despite never doing anything for it -, and my birthday too. I'm now 25, a quarter of a century, a very interesting-feeling number. Some would say it's now closer to the 30s than to the 20s. Let's recap what's happened this last month!
@@ -41,7 +41,7 @@ At the beginning of the month, had followed a short [barista training](/2024/10/
 
 I've also had a week of vacation, which happened to coincide with my birthday - that was actually not planned. I went with my partner and his family to Fuengirola, in the south of Spain. My Portuguese body considered the temperature - around the 23°C - definitely not hot enough for beach or swimming pool. But I definitely enjoyed the warm jacuzzi.
 
-![Dramatic Sky, Fuengirola](cdn:/2024-10-fuengirola)
+![Dramatic Sky, Fuengirola](image:2024-11-02-fuengirola)
 
 We also went to Sevilla on my birthday, and my parents met me there. We tried to find a halfway point between Fuengirola and my hometown, where we both could meet. I'm quite happy we made this decision, it was very nice to see my parents again in person, especially during my birthday.
 

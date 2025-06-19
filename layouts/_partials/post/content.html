@@ -37,6 +37,8 @@
             "Destination" .url
             "Title" .title
             "IsBlock" true
+            "Width" .width
+            "Height" .height
             "Page" $.Page
           )}}
         {{ end }}
@@ -46,6 +48,8 @@
         {{ partial "helpers/figure" (dict
           "Destination" $photo.url
           "Title" $photo.title
+          "Width" $photo.width
+          "Height" $photo.height
           "IsBlock" true
           "Page" $.Page
         )}}

@@ -2,16 +2,20 @@
 title: Elizabeth Pillow
 date: 2025-02-14T09:00:18.468764464+01:00
 photos:
-  - url: cdn:/2025-02-elizabeth-pillow-01
-  - url: cdn:/2025-02-elizabeth-pillow-02
-categories:
-  - fragments
+  - url: image:2025-02-14-elizabeth-pillow-01
+    width: 3000
+    height: 3000
+  - url: image:2025-02-14-elizabeth-pillow-02
+    width: 3000
+    height: 3000
 location:
   latitude: 51.52638
   longitude: -0.31308
   locality: London
   region: England
   country: United Kingdom
+categories:
+  - fragments
 syndication:
   - https://fosstodon.org/@hacdias/114001185305726133
   - https://fosstodon.org/@hacdias/114001280115980665

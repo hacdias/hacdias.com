@@ -31,11 +31,11 @@ Other life events happened: friends visited from abroad, had BBQs, visited maste
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-06-icng-front "ICNG Front")
+![](image:2023-06-30-icng-front "ICNG Front")
 
-![](cdn:/2023-06-icng-inside-first "ICNG Inside First Class")
+![](image:2023-06-30-icng-inside-first "ICNG Inside First Class")
 
-![](cdn:/2023-06-icng-inside "ICNG Inside Second Class")
+![](image:2023-06-30-icng-inside "ICNG Inside Second Class")
 
 </div>
 

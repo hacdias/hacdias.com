@@ -10,7 +10,7 @@ tags:
   - year in music
 ---
 
-![](https://cdn.hacdias.com/media/2021-05-cute-music.gif "Cute entity listening to music")
+![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")
 {.right .pixelated style="max-width: 100px; margin-top: 0; margin-right: 1rem"}
 
 2022 marked the year that I went to my first actual concert. By actual concert I mean a concert that I paid for for an artist I wanted to see, in an actual concert hall. And, of course, I listened to a lot o songs thorough the year. This is the recap of 2022 in Music. Let's see what I've been listening to this year.
@@ -25,25 +25,25 @@ Last.fm has a very nice API that allows me to download all of my history very ea
 
 <div class='fg top-grid'>
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-years-years.jpeg "Years & Years")
+![](https://media.hacdias.com/2023-01-02-year-in-music-years-years.jpeg "Years & Years")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-marina.jpeg "Marina")
+![](https://media.hacdias.com/2023-01-02-year-in-music-marina.jpeg "Marina")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-lorde.jpeg "Lorde")
+![](https://media.hacdias.com/2023-01-02-year-in-music-lorde.jpeg "Lorde")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-tove-lo.jpeg "Tove Lo")
+![](https://media.hacdias.com/2023-01-02-year-in-music-tove-lo.jpeg "Tove Lo")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-lady-gaga.jpeg "Lady Gaga")
+![](https://media.hacdias.com/2023-01-02-year-in-music-lady-gaga.jpeg "Lady Gaga")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-allie-x.jpeg "Allie X")
+![](https://media.hacdias.com/2023-01-02-year-in-music-allie-x.jpeg "Allie X")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-mo.jpeg "MØ")
+![](https://media.hacdias.com/2023-01-02-year-in-music-mo.jpeg "MØ")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-rina-sawayama.jpeg "Rina Sawayama")
+![](https://media.hacdias.com/2023-01-02-year-in-music-rina-sawayama.jpeg "Rina Sawayama")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-troye-sivan.jpeg "Troye Sivan")
+![](https://media.hacdias.com/2023-01-02-year-in-music-troye-sivan.jpeg "Troye Sivan")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-charli-xcx.jpeg "Charli XCX")
+![](https://media.hacdias.com/2023-01-02-year-in-music-charli-xcx.jpeg "Charli XCX")
 
 </div>
 
@@ -113,25 +113,25 @@ Regarding artists, we see Years & Years, Marina and Lorde at the top, which does
 
 <div class='fg top-grid'>
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-night-call-deluxe.jpeg "Night Call (Deluxe)")
+![](https://media.hacdias.com/2023-01-02-year-in-music-night-call-deluxe.jpeg "Night Call (Deluxe)")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-solar-power.jpeg "Solar Power")
+![](https://media.hacdias.com/2023-01-02-year-in-music-solar-power.jpeg "Solar Power")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-melodrama.jpeg "Melodrama")
+![](https://media.hacdias.com/2023-01-02-year-in-music-melodrama.jpeg "Melodrama")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-ancient-dreams-in-a-modern-land.jpeg "Ancient Dreams in a Modern Land")
+![](https://media.hacdias.com/2023-01-02-year-in-music-ancient-dreams-in-a-modern-land.jpeg "Ancient Dreams in a Modern Land")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-ancient-dreams-in-a-modern-land-deluxe.jpeg "Ancient Dreams in a Modern Land (Deluxe Edition)")
+![](https://media.hacdias.com/2023-01-02-year-in-music-ancient-dreams-in-a-modern-land-deluxe.jpeg "Ancient Dreams in a Modern Land (Deluxe Edition)")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-born-this-way.jpeg "Born This Way (International Special Edition Version)")
+![](https://media.hacdias.com/2023-01-02-year-in-music-born-this-way.jpeg "Born This Way (International Special Edition Version)")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-dirt-femme.jpeg "Dirt Femme")
+![](https://media.hacdias.com/2023-01-02-year-in-music-dirt-femme.jpeg "Dirt Femme")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-crash.jpeg "CRASH")
+![](https://media.hacdias.com/2023-01-02-year-in-music-crash.jpeg "CRASH")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-cozy-dreams.jpeg "Cozy Dreams")
+![](https://media.hacdias.com/2023-01-02-year-in-music-cozy-dreams.jpeg "Cozy Dreams")
 
-![](https://cdn.hacdias.com/media/2023-01-year-in-music-electra-heart.jpeg "Electra Heart (Platinum Blonde Edition)")
+![](https://media.hacdias.com/2023-01-02-year-in-music-electra-heart.jpeg "Electra Heart (Platinum Blonde Edition)")
 
 </div>
 
@@ -271,21 +271,21 @@ I always distrust Spotify Wrapped a bit. For one, it is published at the beginni
 
 <div class='fg' style='grid-template-columns: repeat(4, 1fr)'>
 
-![](cdn:/2023-01-spotify-wrapped-01)
+![](image:2023-01-02-spotify-wrapped-01)
 
-![](cdn:/2023-01-spotify-wrapped-02)
+![](image:2023-01-02-spotify-wrapped-02)
 
-![](cdn:/2023-01-spotify-wrapped-03)
+![](image:2023-01-02-spotify-wrapped-03)
 
-![](cdn:/2023-01-spotify-wrapped-04)
+![](image:2023-01-02-spotify-wrapped-04)
 
-![](cdn:/2023-01-spotify-wrapped-05)
+![](image:2023-01-02-spotify-wrapped-05)
 
-![](cdn:/2023-01-spotify-wrapped-06)
+![](image:2023-01-02-spotify-wrapped-06)
 
-![](cdn:/2023-01-spotify-wrapped-07)
+![](image:2023-01-02-spotify-wrapped-07)
 
-![](cdn:/2023-01-spotify-wrapped-08)
+![](image:2023-01-02-spotify-wrapped-08)
 
 </div>
 

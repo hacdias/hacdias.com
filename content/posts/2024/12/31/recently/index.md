@@ -13,7 +13,7 @@ December is now coming to an end. It's time to recap about what has happened dur
 
 ## 🍄 Life {#life}
 
-![Obligatory Christmas Market Food Photos](cdn:/2024-12-maastricht-market-food)
+![Obligatory Christmas Market Food Photos](image:2024-12-31-maastricht-market-food)
 {.right}
 
 At the beginning of December, we visited Maastricht for their Christmas market. Since moving to the Netherlands, I've enjoyed going to Christmas markets every year. The first few years I didn't do it because of the *pandemic*, but since then we've been to [Aachen's](/2022/12/22/aachen-weihnachtsmarkt/) and [Köln's](/2023/12/05/koln-christmas-markets/). This year, we decided to do it more locally and went to Maastricht, which has one of the few Christmas markets in the Netherlands, maybe because it's so close to Germany and Belgium. It was enjoyable, but it did not have the same *vibe* as the ones we've been to in Germany.
@@ -24,13 +24,13 @@ Also at the beginning of the month, it was the turn of my company to organize th
 
 <div class='fg' style='grid-template-columns: repeat(4, 1fr);'>
 
-![Cooking the Rice](cdn:/2024-12-arroz-doce-1)
+![Cooking the Rice](image:2024-12-31-arroz-doce-1)
 
-![Rice is Cooked](cdn:/2024-12-arroz-doce-2)
+![Rice is Cooked](image:2024-12-31-arroz-doce-2)
 
-![Make Creamier with Milk](cdn:/2024-12-arroz-doce-3)
+![Make Creamier with Milk](image:2024-12-31-arroz-doce-3)
 
-![Final Result](cdn:/2024-12-arroz-doce-4)
+![Final Result](image:2024-12-31-arroz-doce-4)
 
 </div>
 
@@ -38,11 +38,11 @@ In addition, also made a **few** *Chocolate Salami*. "A few". A coworker of mine
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![Indian Dish](cdn:/2024-12-work-lunch-indian)
+![Indian Dish](image:2024-12-31-work-lunch-indian)
 
-![Dutch Lunch](cdn:/2024-12-work-lunch-dutch)
+![Dutch Lunch](image:2024-12-31-work-lunch-dutch)
 
-![Portuguese Desserts](cdn:/2024-12-work-lunch-portuguese)
+![Portuguese Desserts](image:2024-12-31-work-lunch-portuguese)
 
 </div>
 
@@ -52,11 +52,11 @@ I also spent a week in Portugal, where I got the chance to have a lot of lunches
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![Shrimps and Clams](cdn:/2024-12-portugal-food-1)
+![Shrimps and Clams](image:2024-12-31-portugal-food-1)
 
-![Squids](cdn:/2024-12-portugal-food-2)
+![Squids](image:2024-12-31-portugal-food-2)
 
-![Pork with Many Things](cdn:/2024-12-portugal-food-3 "Pork meat with pineapple, chestnuts, sweet potato and many sides")
+![Pork with Many Things](image:2024-12-31-portugal-food-3 "Pork meat with pineapple, chestnuts, sweet potato and many sides")
 
 </div>
 

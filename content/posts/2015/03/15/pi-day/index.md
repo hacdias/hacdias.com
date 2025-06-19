@@ -19,6 +19,6 @@ Do you know? Today is the Pi Day 2015. Below there is a small video I made about
 
 <figure>
   <video controls poster="https://cdn.hacdias.com/img/1000/36e477d5520cf72cefdc3e80bf9cb2d62fe71eb3f41ebb509c2b9647da46f38e.jpeg">
-    <source class="u-video" src="https://cdn.hacdias.com/media/2015-03-dia-do-pi.mp4">
+    <source class="u-video" src="https://media.hacdias.com/2015-03-15-pi-day.mp4">
   </video>
 </figure>

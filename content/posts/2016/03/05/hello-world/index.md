@@ -21,7 +21,7 @@ First things first: why are you creating a newsletter? There are some basic reas
 
 And why calling it **Stuff I'm Thinking**? Hmm... well... the truth is it was one of the first things that come to my mind that didn't sound too bad. And, anyway, it's acronym is amazing: SIT - not that wonderful-amazing-beautiful-thing, I know. But... just SIT around and relax reading this.
 
-![](cdn:/2016-03-stop-complaining "Stop complaining, do!")
+![](image:2016-03-05-stop-complaining "Stop complaining, do!")
 
 Right now, I'm not really sure about the frequency, but it will start being monthly, in the first weekend of each month, or twice a month. It's going to contain whatever I remember to put on it: images, quotes, posts, stupid stuff?
 

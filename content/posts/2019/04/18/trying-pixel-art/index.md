@@ -17,7 +17,7 @@ and that they seem to be... I don't know... interesting to me.
 
 <!--more-->
 
-![](https://cdn.hacdias.com/media/2019-04-blinking-eye.gif "Blinking Eye")
+![](https://media.hacdias.com/2019-04-18-blinking-eye.gif "Blinking Eye")
 {.left .pixelated}
 
 I was surfing the web (does anyone say that nowadays?) and saw some amazing [pixel art][0]
@@ -36,9 +36,9 @@ and I actually happen to like them. So I've started by doing so.
 
 <div class="fg">
   
-  ![](https://cdn.hacdias.com/media/2019-04-magician.jpeg "A magician, wizard?")
+  ![](https://media.hacdias.com/2019-04-18-magician.jpeg "A magician, wizard?")
 
-  ![](https://cdn.hacdias.com/media/2019-04-cat.jpeg "A Cat")
+  ![](https://media.hacdias.com/2019-04-18-cat.jpeg "A Cat")
 
 </div>
 
@@ -50,14 +50,14 @@ After that, I moved to something bigger - but it will be the last one of this po
 showing you first the last one I've done but that I don't actually enjoy that much. It's
 the central building of my university.
 
-![](cdn:/2019-04-tecnico-central "Técnico - Central Building")
+![](image:2019-04-18-tecnico-central "Técnico - Central Building")
 {.pixelated}
 
 Then - or should I say, before? - I've done something much more interesting: my university
 has two twelve floor towers, which are really beautiful. So I believe you already know what's
 coming.
 
-![](https://cdn.hacdias.com/media/2019-04-tecnico-tower.gif "Técnico - Chemistry Tower")
+![](https://media.hacdias.com/2019-04-18-tecnico-tower.gif "Técnico - Chemistry Tower")
 {.right .pixelated}
 
 I started by drawing the tower itself and the windows. Then, I moved to the building in front

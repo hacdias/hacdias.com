@@ -25,7 +25,7 @@ in a turn of events, added a dark theme to my website. It will be enabled by def
 or operating system is set to work with dark mode. In the end, the choice is always yours and you can
 set whether you want a light or dark experience in the footer of the website.
 
-![Dark Theme](cdn:/2023-07-website-dark-theme)
+![Dark Theme](image:2023-07-31-website-dark-theme)
 
 ## 🍄 Life {#life}
 
@@ -45,11 +45,11 @@ which provided some great views. Thanks for suggesting that!
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-07-steam-train-01 "Steam Train Front")
+![](image:2023-07-31-steam-train-01 "Steam Train Front")
 
-![](cdn:/2023-07-steam-train-02 "Steam Train Cars Bending in Curve")
+![](image:2023-07-31-steam-train-02 "Steam Train Cars Bending in Curve")
 
-![](cdn:/2023-07-steam-train-03 "Steam Train Stopped")
+![](image:2023-07-31-steam-train-03 "Steam Train Stopped")
 
 </div>
 

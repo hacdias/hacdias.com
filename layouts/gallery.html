@@ -45,7 +45,7 @@
       {{ range $page := $page.Pages }}
         {{ range $photo := .Params.photos }}
           <a href='{{ $page.RelPermalink }}'>
-            {{ partial "helpers/figure" (dict "Destination" $photo.url "Title" $photo.title "IsBlock" true "Sizes" (slice 250 500) "Page" $page)}}
+            {{ partial "helpers/figure" (dict "Destination" $photo.url "Title" $photo.title "IsBlock" true "Sizes" (slice 600 900) "Page" $page)}}
           </a>
         {{ end }}
       {{ end }}

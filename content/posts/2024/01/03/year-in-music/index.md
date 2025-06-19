@@ -7,7 +7,7 @@ tags:
   - year in music
 ---
 
-![](https://cdn.hacdias.com/media/2021-05-cute-music.gif "Cute entity listening to music")
+![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")
 {.right .pixelated style="max-width: 100px; margin-top: 0; margin-right: 1rem"}
 
 Similarly to [last year](/2023/01/02/year-in-music/), here am I again to share with you some statistics about my music listening habits. A few weeks ago, I also published my [Spotify Wrapped](/2023/11/30/spotify-wrapped/), but since I do not trust it completely, here am I again, with the full data from Last.fm.
@@ -20,25 +20,25 @@ Firstly, some quick statistics: in 2023, I scrobbled **19 256** times, with an a
 
 <div class='fg top-grid'>
 
-![](https://cdn.hacdias.com/media/2024-01-froukje.jpeg "Froukje")
+![](https://media.hacdias.com/2024-01-03-froukje.jpeg "Froukje")
 
-![](https://cdn.hacdias.com/media/2024-01-miley.jpeg "Miley Cyrus")
+![](https://media.hacdias.com/2024-01-03-miley.jpeg "Miley Cyrus")
 
-![](https://cdn.hacdias.com/media/2024-01-raye.jpeg "RAYE")
+![](https://media.hacdias.com/2024-01-03-raye.jpeg "RAYE")
 
-![](https://cdn.hacdias.com/media/2024-01-lady-gaga.jpeg "Lady Gaga")
+![](https://media.hacdias.com/2024-01-03-lady-gaga.jpeg "Lady Gaga")
 
-![](https://cdn.hacdias.com/media/2024-01-tove-lo.jpeg "Tove Lo")
+![](https://media.hacdias.com/2024-01-03-tove-lo.jpeg "Tove Lo")
 
-![](https://cdn.hacdias.com/media/2024-01-merol.jpeg "Merol")
+![](https://media.hacdias.com/2024-01-03-merol.jpeg "Merol")
 
-![](https://cdn.hacdias.com/media/2024-01-s10.jpeg "S10")
+![](https://media.hacdias.com/2024-01-03-s10.jpeg "S10")
 
-![](https://cdn.hacdias.com/media/2024-01-marina.jpeg "Marina")
+![](https://media.hacdias.com/2024-01-03-marina.jpeg "Marina")
 
-![](https://cdn.hacdias.com/media/2024-01-alma.jpeg "Alma")
+![](https://media.hacdias.com/2024-01-03-alma.jpeg "Alma")
 
-![](https://cdn.hacdias.com/media/2024-01-eefje-de-visser.jpeg "Eefje de Visser")
+![](https://media.hacdias.com/2024-01-03-eefje-de-visser.jpeg "Eefje de Visser")
 
 </div>
 
@@ -108,25 +108,25 @@ This year, there's quite a change on my top artists. My top 10 is now dominated 
 
 <div class='fg top-grid'>
 
-![](https://cdn.hacdias.com/media/2024-01-endless-summer-vacations.jpeg "Endless Summer Vacation")
+![](https://media.hacdias.com/2024-01-03-endless-summer-vacations.jpeg "Endless Summer Vacation")
 
-![](https://cdn.hacdias.com/media/2024-01-my-21st-century-blues.jpeg "My 21st Century Blues")
+![](https://media.hacdias.com/2024-01-03-my-21st-century-blues.jpeg "My 21st Century Blues")
 
-![](https://cdn.hacdias.com/media/2024-01-licht-en-donker.jpeg "Licht En Donker")
+![](https://media.hacdias.com/2024-01-03-licht-en-donker.jpeg "Licht En Donker")
 
-![](https://cdn.hacdias.com/media/2024-01-time-machine.jpeg "Time Machine")
+![](https://media.hacdias.com/2024-01-03-time-machine.jpeg "Time Machine")
 
-![](https://cdn.hacdias.com/media/2024-01-ik-besta-voor-altijd.jpeg "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt")
+![](https://media.hacdias.com/2024-01-03-ik-besta-voor-altijd.jpeg "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt")
 
-![](https://cdn.hacdias.com/media/2024-01-troostprijs.jpeg "Troostprijs")
+![](https://media.hacdias.com/2024-01-03-troostprijs.jpeg "Troostprijs")
 
-![](https://cdn.hacdias.com/media/2024-01-les-melodies-de-la-pluie.jpeg "Les Mélodies de la Pluie")
+![](https://media.hacdias.com/2024-01-03-les-melodies-de-la-pluie.jpeg "Les Mélodies de la Pluie")
 
-![](https://cdn.hacdias.com/media/2024-01-diamonds-dancefloors.jpeg "Diamonds & Dancefloors")
+![](https://media.hacdias.com/2024-01-03-diamonds-dancefloors.jpeg "Diamonds & Dancefloors")
 
-![](https://cdn.hacdias.com/media/2024-01-dirt-femme.jpeg "Dirt Femme")
+![](https://media.hacdias.com/2024-01-03-dirt-femme.jpeg "Dirt Femme")
 
-![](https://cdn.hacdias.com/media/2024-01-ancient-dreams-modern-land.jpeg "Ancient Dreams in a Modern Land")
+![](https://media.hacdias.com/2024-01-03-ancient-dreams-modern-land.jpeg "Ancient Dreams in a Modern Land")
 
 </div>
 

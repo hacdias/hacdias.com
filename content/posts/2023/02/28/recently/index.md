@@ -25,13 +25,13 @@ In the beginning of the month, I went to Helmond to get some Portuguese treats. 
 
 <div class='fg' style='grid-template-columns: repeat(4,1fr);'>
 
-![](cdn:/2023-02-helmond-01 "Inside of a Chorizo Bread")
+![](image:2023-02-28-helmond-01 "Inside of a Chorizo Bread")
 
-![](cdn:/2023-02-helmond-02 "Turtle Bread")
+![](image:2023-02-28-helmond-02 "Turtle Bread")
 
-![](cdn:/2023-02-helmond-03 "Chorizo Bread")
+![](image:2023-02-28-helmond-03 "Chorizo Bread")
 
-![](cdn:/2023-02-helmond-04 "Rice Cake")
+![](image:2023-02-28-helmond-04 "Rice Cake")
 
 </div>
 

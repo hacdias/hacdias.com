@@ -1,16 +1,28 @@
 ---
 title: Eindhoven Winter
 date: 2021-02-28T00:00:00Z
+photos:
+  - url: image:2021-02-28-eindhoven-snow-01
+    width: 2588
+    height: 3882
+  - url: image:2021-02-28-eindhoven-snow-02
+    width: 3000
+    height: 2000
+  - url: image:2021-02-28-eindhoven-snow-03
+    width: 3000
+    height: 2000
+  - url: image:2021-02-28-eindhoven-snow-04
+    width: 3000
+    height: 2000
+  - url: image:2021-02-28-eindhoven-snow-05
+    width: 3000
+    height: 2000
+  - url: image:2021-02-28-eindhoven-snow-06
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/2021-02-eindhoven-snow-01
-photos:
-  - url: cdn:/2021-02-eindhoven-snow-01
-  - url: cdn:/2021-02-eindhoven-snow-02
-  - url: cdn:/2021-02-eindhoven-snow-03
-  - url: cdn:/2021-02-eindhoven-snow-04
-  - url: cdn:/2021-02-eindhoven-snow-05
-  - url: cdn:/2021-02-eindhoven-snow-06
+thumbnail: image:2021-02-28-eindhoven-snow-01
 ---
 
 I saw real life snowing for many days for the first time. It was also one of the coldest Februaries in the Netherlands over the past years.

@@ -25,7 +25,7 @@ another language called B. C can be considered the most popular programming
 language ever made. On of the biggest reasons for that is that programs written
 in C can run on a lot of operating systems (from Macs to Windows, for example).
 
-![Bell Laboratories in Murray Hill, New Jersey](cdn:/2016-11-bell-labs "Bell Laboratories in Murray Hill, New Jersey")
+![Bell Laboratories in Murray Hill, New Jersey](image:2016-11-01-bell-labs "Bell Laboratories in Murray Hill, New Jersey")
 
 Nowadays, C is a language mainly used to programs that need to run quickly and
 smoothly without using much memory. C is a low level language, which means that
@@ -44,7 +44,7 @@ called "C with Classes"; it was only renamed in 1983. C++ added a lot of new
 features to C, designed to make programming more efficient and give the
 developer more options on how they would like to code.
 
-![Bjarne Stroustrup, the creator of C++](cdn:/2016-11-bjarne-social "Bjarne Stroustrup, the creator of C++")
+![Bjarne Stroustrup, the creator of C++](image:2016-11-01-bjarne-social "Bjarne Stroustrup, the creator of C++")
 
 The main difference between C and C++ is the fact that C++ supports classes (and
 objects) and has a huge library of useful functions called STD (Standard

@@ -2,7 +2,9 @@
 title: Tranquility
 date: 2025-06-15T16:31:37+02:00
 photos:
-  - url: cdn:/2025-06-15-tranquility
+  - url: image:2025-06-15-tranquility
+    width: 3000
+    height: 2207
 location:
   latitude: 32.6474273
   longitude: -16.9775258

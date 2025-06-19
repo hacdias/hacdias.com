@@ -86,6 +86,6 @@ I would recommend checking both Derek's [blog post](https://darekkay.com/blog/rs
 
 Now, if you open one of the XML files from my RSS feeds in your browser, it will automatically fetch the XSL file and transform the XML into HTML accordingly. At the moment, you'd get a page that looks almost like any other page of this website.
 
-![Styled Articles RSS Feed](cdn:/2024-10-feed)
+![Styled Articles RSS Feed](image:2024-10-23-feed)
 
 The good thing about this is that you won't get an ugly rendering of the XML in the browser. Nowadays, many people [don't even know](https://thepcspy.com/read/what-happened-to-rss/) what RSS is. This is a way of making it look relatively consistent to the rest of the website, and at the same time explain what it can be used for. I have also updated my [sitemap](/sitemap.xml) to be styled. One more item ticked!

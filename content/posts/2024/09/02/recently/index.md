@@ -3,9 +3,9 @@ title: Recently in August '24
 date: 2024-09-02T17:54:00+02:00
 categories:
   - writings
-thumbnail: cdn:/2024-08-ejv-beatrix
 tags:
   - now
+thumbnail: image:2024-09-02-ejv-beatrix
 ---
 
 Uff, I wanted to write this before the end of August, but I'm still on time. August is over and it's starting to feel a bit like autumn to me. Quite excited, as it will become a bit colder, hopefully, and it's also one of my favorite seasons. Very colorful! But now, let's recap August!
@@ -16,7 +16,7 @@ Uff, I wanted to write this before the end of August, but I'm still on time. Aug
 
 In the beginning of the month, I checked one more item of my "impossible list". It wasn't one of those items that are very hard to tick, I just needed to go to Amsterdam on the weekend. I traveled on the line 20 of the [Museumtramlijn](https://www.museumtramlijn.org/dienstregeling/lijn20) in one of the old trams. One of these days I should do line 30 too.
 
-![Visited a Boot in the EJV Beatrix](cdn:/2024-08-ejv-beatrix)
+![Visited a Boot in the EJV Beatrix](image:2024-09-02-ejv-beatrix)
 
 Two weekends ago I also went to Limburg, but I already [talked](/2024/08/30/three-country-point/) about that a few days ago. Too long, didn't read: it was very nice, there were hills, visited a three-country point and the highest point in the Netherlands. During the same weekend, something else happened: it marked my 4th anniversary living in the Netherlands! *Four entire years!*
 
@@ -36,7 +36,7 @@ Last month, I started reading *Before Your Memory Fades*. The book has three cha
 
 On the entertainment department, this was quite a full month. Let's start with series. We binged the first four seasons of *Dertigers*, a Dutch series based on a Belgian series, which follows the life of a friend group whose members are around 30 years old. It was nice. Apparently there's a fifth season, but this has a new cast and a new friend group. Obviously the dertigers from the first seasons are now veertigers.
 
-![Watched MaXXXine in [LAB-1](https://www.lab-1.nl/), Boutique Hall](cdn:/2024-08-lab-1)
+![Watched MaXXXine in [LAB-1](https://www.lab-1.nl/), Boutique Hall](image:2024-09-02-lab-1)
 {.right}
 
 I also watched the last season of *Young Sheldon*. I didn't realize it was the last season until the last two episodes, but it makes sense: Sheldon is getting older. In addition, we watched the second season of the *House of the Dragon*. I don't have strong opinions, besides the fact that I didn't enjoy the gigantic cliff hanger at the end. But I guess that's what they always do.

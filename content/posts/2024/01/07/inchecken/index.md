@@ -5,13 +5,13 @@ aliases:
   - /2024/01/07/vergeet-niet-om-in-te-checken-nederlands-praten/
 categories:
   - writings
-thumbnail: cdn:/2014-01-sneeuwpop-cupcakes
 language: nl
 syndication:
   - https://fosstodon.org/@hacdias/111714188031262494
 tags:
   - inchecken
   - nederlands
+thumbnail: image:2024-01-07-sneeuwpop-cupcakes
 ---
 
 Vorige maand besloot ik om een [nieuwe serie](/2023/12/07/vergeet-niet-om-in-te-checken-het-begin/) op deze website te beginnen: vergeet niet om in te checken! Vandaag ga ik nog een beetje meer schrijven over mijn Nederlands leervoortgang en ook over wat is tijdens de vorige maand gebeurt.
@@ -28,7 +28,7 @@ Maar nou, welke series heb ik gekeken? De eerste was *Anne+*, die een queer webs
 
 De tweede Nederlandse series die ik heb gekeken was *Dirty Lines*. Desondanks zijn Engelse titel, is het ook een Nederlands series. Het is gebaseerd op het boek 06-Cowboys en het gaat over het verhaal van de eerste sekslijnen in Nederland uit 1987.
 
-![Een afleiding voor jou: sneeuwpop cupcakes](cdn:/2014-01-sneeuwpop-cupcakes)
+![Een afleiding voor jou: sneeuwpop cupcakes](image:2024-01-07-sneeuwpop-cupcakes)
 
 In een andere categorie, heb ik *De Luizenmoeder* gekeken. Als je dit ben aan het lezen, dan spreek je Nederlands. Dus ken je het zeker. Ik heb de film not niet gekeken, maar de hele series wel. Misschien binnenkort.
 

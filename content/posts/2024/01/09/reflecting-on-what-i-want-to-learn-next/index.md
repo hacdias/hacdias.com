@@ -3,11 +3,11 @@ title: Reflecting on What I Want To Learn Next
 date: 2024-01-09T22:17:03+01:00
 categories:
   - writings
-thumbnail: cdn:/2024-01-summery-leaves
 tags:
   - personal growth
   - reflection
   - work
+thumbnail: image:2024-01-09-summery-leaves
 ---
 
 Due to all the restructuring that has been [happening](https://protocol.ai/blog/advancing-ipfs-and-libp2p-governance/) at work, I am supposedly going to be working at a different company from next Monday on. The team will still be working on the same projects, albeit with more to choose our own direction. This has also given me time to reflect and think about what I want to learn and do next.
@@ -18,7 +18,7 @@ Over the past few months, I have been feeling unchallenged. It mostly comes from
 
 Reflecting about what I want to do and what I want to learn can be quite an eye-opener, especially in these moments of uncertainty. So, what have I been thinking about lately?
 
-![Somewhere in Summer 2022, I Think](cdn:/2024-01-summery-leaves)
+![Somewhere in Summer 2022, I Think](image:2024-01-09-summery-leaves)
 
 ## Learning Rust
 

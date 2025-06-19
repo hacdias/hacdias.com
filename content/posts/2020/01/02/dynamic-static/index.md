@@ -21,7 +21,7 @@ In addition to that, the biggest issue I might be having is actually with my tem
 
 My first attempt will be to improve the template layouts and make them faster than they are right now to see the results. However, I don’t think that will be the solution I will end up picking!
 
-![](https://cdn.hacdias.com/media/2020-01-comic-social.jpg)
+![](https://media.hacdias.com/2020-01-02-comic-social.jpeg)
 
 I’m the person who always takes the hardest path and the most difficult to accomplish for whatever I want to do and I’m feeling that probably I shouldn’t in this case as I’m right this. Let me jot down some thoughts.
 

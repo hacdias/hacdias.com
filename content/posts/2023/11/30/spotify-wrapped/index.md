@@ -17,21 +17,21 @@ This here came with some interesting surprises. Not only is my phone in Dutch, a
 
 <div class='fg' style='grid-template-columns: repeat(4, 1fr)'>
 
-![](cdn:/2023-11-spotify-wrapped-genres)
+![](image:2023-11-30-spotify-wrapped-genres)
 
-![](cdn:/2023-11-spotify-wrapped-nijmegen)
+![](image:2023-11-30-spotify-wrapped-nijmegen)
 
-![](cdn:/2023-11-spotify-wrapped-minutes)
+![](image:2023-11-30-spotify-wrapped-minutes)
 
-![](cdn:/2023-11-spotify-wrapped-vampier)
+![](image:2023-11-30-spotify-wrapped-vampier)
 
-![](cdn:/2023-11-spotify-wrapped-top-nummer)
+![](image:2023-11-30-spotify-wrapped-top-nummer)
 
-![](cdn:/2023-11-spotify-wrapped-favorite-songs)
+![](image:2023-11-30-spotify-wrapped-favorite-songs)
 
-![](cdn:/2023-11-spotify-wrapped-top-artist)
+![](image:2023-11-30-spotify-wrapped-top-artist)
 
-![](cdn:/2023-11-spotify-wrapped-favorite-artists)
+![](image:2023-11-30-spotify-wrapped-favorite-artists)
 
 </div>
 

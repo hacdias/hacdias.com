@@ -23,7 +23,7 @@ When I moved out of Hugo, I had to convert a bunch of templates and, at the time
 
 During this past year and a half, I've made many changes in my website, from visuals, to posts, to the backend, to integrations with other services. And during this time, I would take notes of things I wanted to do, but that I would decide not to, or they were just harder because I was using my own rendering functions.
 
-![A Snapshot of How This Website Currently Looks](cdn:/524b58c66e756ff1c4afa2f72485429f3328464cb8f4751b9c13abd089d33640)
+![A Snapshot of How This Website Currently Looks](image:2023-06-13-website-screenshot)
 
 After quite some frustration, I started noting down every time I had the thought: "maybe I should go back to Hugo". In addition, I removed quite a lot of the interactive things of my website that were made easier by Eagle, namely showing Webmentions, ActivityPub, Micropub, etc. With the list of thoughts increasing, and the removal of features increasing, I decided to go back to Hugo.
 

@@ -1,12 +1,16 @@
 ---
 title: Swiss Snow
 date: 2019-12-15T22:05:00Z
+photos:
+  - url: image:2019-12-15-swiss-snow-01
+    width: 3000
+    height: 2000
+  - url: image:2019-12-15-swiss-snow-02
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/2020-03-swiss-snow-01
-photos:
-  - url: cdn:/2020-03-swiss-snow-01
-  - url: cdn:/2020-03-swiss-snow-02
+thumbnail: image:2019-12-15-swiss-snow-01
 ---
 
 <style>

@@ -2,7 +2,9 @@
 title: Christiaan
 date: 2020-08-15T00:00:00Z
 photos:
-  - url: cdn:/2020-08-christian
+  - url: image:2020-08-15-christian
+    width: 3000
+    height: 3000
 categories:
   - fragments
 tags:

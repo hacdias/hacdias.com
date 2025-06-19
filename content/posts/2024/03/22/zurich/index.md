@@ -1,20 +1,28 @@
 ---
 title: Zürich
 date: 2024-03-22T15:36:14+01:00
+photos:
+  - url: image:2024-03-22-zurich-boat
+    title: Misty Boat
+    width: 3000
+    height: 2000
+  - url: image:2024-03-22-zurich-frozen-car
+    title: Unfocused
+    width: 3000
+    height: 4500
+  - url: image:2024-03-22-zurich-train
+    title: Train Up In The Mountains
+    width: 3000
+    height: 4500
+  - url: image:2024-03-22-zurich
+    title: Skyfall
+    width: 3000
+    height: 1688
 categories:
   - photos
-thumbnail: cdn:/2024-03-zurich
-photos:
-  - title: Misty Boat
-    url: cdn:/2024-03-zurich-boat
-  - title: Unfocused
-    url: cdn:/2024-03-zurich-frozen-car
-  - title: Train Up In The Mountains
-    url: cdn:/2024-03-zurich-train
-  - title: Skyfall
-    url: cdn:/2024-03-zurich
 tags:
   - travel
+thumbnail: image:2024-03-22-zurich
 ---
 
 <style>
