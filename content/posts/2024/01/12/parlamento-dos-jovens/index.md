@@ -20,10 +20,10 @@ Nonetheless, I created this post to share some pictures from this day. I'm not s
 
 <div class="fg">
 
-![](cdn:/2012-05-parlamento-jovens-comer)
+![](image:2024-01-12-parlamento-jovens-comer)
 
-![](cdn:/2012-05-parlamento-jovens-falar)
+![](image:2024-01-12-parlamento-jovens-falar)
 
 </div>
 
-![](cdn:/2012-05-parlamento-jovens-grupo)
+![](image:2024-01-12-parlamento-jovens-grupo)

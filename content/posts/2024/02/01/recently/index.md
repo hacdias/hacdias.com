@@ -15,7 +15,7 @@ January was a very busy month, which I did not really expect. More importantly, 
 
 January was somewhat of a prolific month when it came to writing articles, especially the first half. I wrote a whopping record of 13 articles in such a short amount of time. I don't think I've ever published so many articles in such short amount of time. Nevertheless, that seems to have stopped. My favorite post to write this past month was ["When Does Abroad Stop Feeling Like Abroad?"](/2024/01/10/when-does-abroad-stop-being-abroad/).
 
-![Photos Archive Gallery](cdn:/2024-01-photos-archive)
+![Photos Archive Gallery](image:2024-02-01-photos-archive)
 
 During January I've also created a [digital shoebox](/2024/01/13/making-a-digital-shoebox/), where I also added new content that I didn't use to have online. I am happy I did it. It's a nice place to throw some things that I want to publish, but have no clear place of where they should go. In other news, I also added an "archive" view to my [photos](/photos/) and graphics pages.
 

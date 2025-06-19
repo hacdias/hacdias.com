@@ -21,7 +21,7 @@ Since then, I've only seen snow a few other times when traveling, but never that
 
 <figure>
   <video autoplay muted loop>
-    <source src="https://cdn.hacdias.com/media/2021-02-snow-eindhoven.mp4" type="video/mp4">
+    <source src="https://media.hacdias.com/2021-02-15-snow-eindhoven.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </figure>

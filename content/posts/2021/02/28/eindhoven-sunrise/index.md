@@ -1,12 +1,16 @@
 ---
 title: Eindhoven Sunrise
 date: 2021-02-28T00:00:00Z
+photos:
+  - url: image:2021-02-28-eindhoven-sunrise-church
+    width: 3000
+    height: 4500
+  - url: image:2021-02-28-eindhoven-sunrise
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/2021-02-eindhoven-sunrise-church
-photos:
-  - url: cdn:/2021-02-eindhoven-sunrise-church
-  - url: cdn:/2021-02-eindhoven-sunrise
+thumbnail: image:2021-02-28-eindhoven-sunrise-church
 ---
 
 <style>

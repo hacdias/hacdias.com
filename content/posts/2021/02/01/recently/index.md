@@ -29,7 +29,7 @@ The paperwork was slow - I don't even have my diploma yet -, mainly from the sid
 
 With all of that being said, I finished my bachelor's around July 2020 and I moved in the Netherlands during August. The classes started the 31st of August and I needed to be here at least a week before for some "introduction" activities - more on that later.
 
-![Eindhoven train station.](cdn:/2021-02-eindhoven-train "Eindhoven train station.")
+![Eindhoven train station.](image:2021-02-01-eindhoven-train "Eindhoven train station.")
 
 As soon as I landed and got to the city center, I noticed something different. It felt way... too... normal. The Netherlands didn't have a lot of restrictions in place regarding Covid. Masks? Except for a few people, they were nowhere to be seen. Everything was open and there was people _everywhere_, literally. Personally, I did not mind and the situation here has been pretty controlled since then even though the measures have been more restricted since December.
 
@@ -53,7 +53,7 @@ Another issue for me, and for some other friends, is the **quartile** system, fo
 
 For the most part, professors simply asked us to watch previous years' lectures. Instead of putting the effort to either give live lectures of record new videos, we were left with some 2 years old live lectures with barely audible audio.
 
-![Atlas at night.](cdn:/2021-02-atlas "Atlas at night.")
+![Atlas at night.](image:2021-02-01-atlas "Atlas at night.")
 
 In some courses, we **never** saw the professors in a live call and I **never** saw a professor in person. I have 0 offline classes and the feat of ending my master's without even going to campus for classes is increasing.
 
@@ -73,7 +73,7 @@ Nonetheless, there are many many many parks you can go to, as well as a forest a
 
 I know very few Dutch people. However, despite the recent [scandals](https://www.dutchnews.nl/news/2021/01/dutch-government-collapses-in-fall-out-from-child-benefit-scandal/) and [riots](https://www.dutchnews.nl/news/2021/01/up-to-300-arrested-in-sunday-riots-police-hand-out-thousands-of-curfew-fines/), I think they are friendly and welcoming for the most part. I don't have big opinions in the country in general mostly because I haven't been able to experience it.
 
-![Bike ride.](cdn:/2021-02-green "Bike ride.")
+![Bike ride.](image:2021-02-01-green "Bike ride.")
 
 I'm positive that soon we will be able to start going outside more and see more people on our daily lives.
 

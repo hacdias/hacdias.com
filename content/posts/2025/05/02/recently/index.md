@@ -1,20 +1,20 @@
 ---
 title: Recently in April '25
 date: 2025-05-02T09:17:48+02:00
+location:
+  latitude: 51.4459
+  longitude: 5.46155
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
-location:
-  country: Netherlands
-  latitude: 51.4459
-  locality: Eindhoven
-  longitude: 5.46155
-  region: North Brabant
 syndication:
   - https://fosstodon.org/@hacdias/114437014918774075
   - https://bsky.app/profile/hacdias.com/post/3lqd7gi3fxs2k
 tags:
   - now
-thumbnail: cdn:/2025-05-02-recently-tokyo
+thumbnail: image:2025-05-02-recently-tokyo
 ---
 
 April was a fantastic month. Spring is now on full swing, the trees and flowers are in full blossom, and the weather is warming up - perhaps a bit too much. It was also a month of travel, my second intercontinental trip ever. Let's take a look!
@@ -23,7 +23,7 @@ April was a fantastic month. Spring is now on full swing, the trees and flowers 
 
 ## 🍄 Life {#life}
 
-![Somewhere in Kansai](cdn:/2025-05-02-recently-osaka "Somewhere in Kansai")
+![Somewhere in Kansai](image:2025-05-02-recently-osaka "Somewhere in Kansai")
 {.right}
 
 Perhaps the biggest update: the trip to Japan 🇯🇵. Chris and I went to Japan for two weeks. We took a direct flight with KLM from Amsterdam to Osaka, where we spent the first few days. There, we not only explored the city, but we also went to the Universal Studios and the opening day of the World Expo. Osaka was a city where we found the best food in Japan, and the city that gave us the best first impressions. Everything was so clean, so organized, so clear.
@@ -34,7 +34,7 @@ Then, we took the shinkansen 🚄 to Tokyo, where we spent the last days. There,
 
 Going to Japan was an unforgettable experience. The culture is so different, things work in such similar, yet different ways, it's the subtleties. Food is amazing, nature is amazing, public transport is amazing. I'd like to come back one day, and explore other areas of Japan, perhaps in less touristy cities, and more of the nature and even the other islands.
 
-![Tokyo from the Sky Tree](cdn:/2025-05-02-recently-tokyo)
+![Tokyo from the Sky Tree](image:2025-05-02-recently-tokyo)
 
 Then, we flew back from Tokyo to Amsterdam, also in a direct flight from KLM. The shortest route is, of course, through Russia, but that's not allowed at the moment. On the way to Osaka, we flew through the Middle East. On the way back though, we went through the North Pole, [Greenland](/2025/04/27/greenland/), etc, totaling a 13 hour 47 minute flight. It was... so long, but worth it 🌸!
 

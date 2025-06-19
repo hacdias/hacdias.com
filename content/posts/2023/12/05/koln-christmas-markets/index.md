@@ -3,12 +3,12 @@ title: Visiting Köln's Christmas Markets
 date: 2023-12-05T13:05:34.717151568+01:00
 categories:
   - writings
-thumbnail: cdn:/2023-12-koln-rudolfplatz
 syndication:
   - https://fosstodon.org/@hacdias/111527722896952176
 tags:
   - christmas
   - travel
+thumbnail: image:2023-12-05-koln-rudolfplatz
 ---
 
 Last year, Chris and I visited Aachen's Christmas market and I [wrote](/2022/12/22/aachen-weihnachtsmarkt/) a bit about it. In the article, I mentioned I was looking forward to similar adventures. Well, it has happened! Last weekend, we went to Köln to visit some of its Christmas markets, and it was amazing!
@@ -23,11 +23,11 @@ A common topic to last year is, certainly, the food! I had reibekuchen 🥔 agai
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-12-koln-christmas-food-01 "Sausage with Curry Sauce")
+![](image:2023-12-05-koln-christmas-food-01 "Sausage with Curry Sauce")
 
-![](cdn:/2023-12-koln-christmas-food-02 "Raclette")
+![](image:2023-12-05-koln-christmas-food-02 "Raclette")
 
-![](cdn:/2023-12-koln-christmas-food-03 "Waffle with Cherry Sauce")
+![](image:2023-12-05-koln-christmas-food-03 "Waffle with Cherry Sauce")
 
 </div>
 
@@ -35,11 +35,11 @@ Not only food, but we also had some Glühwein, of course. I have been collecting
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-12-koln-christmas-markets-02)
+![](image:2023-12-05-koln-christmas-markets-02)
 
-![](cdn:/2023-12-koln-christmas-markets-03)
+![](image:2023-12-05-koln-christmas-markets-03)
 
-![](cdn:/2023-12-koln-christmas-markets-01)
+![](image:2023-12-05-koln-christmas-markets-01)
 
 </div>
 

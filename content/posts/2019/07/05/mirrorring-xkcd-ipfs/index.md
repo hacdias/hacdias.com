@@ -17,7 +17,7 @@ As part of wanting to contribute to [IPFS Archives](https://github.com/ipfs/arch
 
 So I started by building a small tool that would fetch all the comics and their info. I called it... as you might image... [`xkcd-clone`](https://github.com/hacdias/xkcd-clone). It doesn't actually clone the whole website, but only the comics and their metadata.
 
-![](cdn:/2019-07-2165-thumb-social "Comic 2165")
+![](image:2019-07-05-2165-thumb-social "Comic 2165")
 
 The tool can either download everything from scratch or just update an old version of a clone. You can use it like this:
 

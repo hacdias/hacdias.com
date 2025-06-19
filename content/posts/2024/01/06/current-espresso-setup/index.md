@@ -16,7 +16,7 @@ Our espresso journey started towards the begin of 2023. I don't remember precise
 
 So, we decided to buy it. It came with some additional things, such as a puck disposal basket. I wasn't home for the delivery, but my partner was. It was directly delivered by the store and they helped setting it up and everything. Despite not being present, I think that's quite a nice service they give.
 
-![Our Coffee Station](cdn:/2024-01-coffee-station)
+![Our Coffee Station](image:2024-01-06-coffee-station)
 
 Until now, we've been quite pleased with it. Despite being a single boiler machine - and therefore we needing to wait a bit to change between espresso and milk frothing -, it is very nice. The frustrating part is to achieve consistency when pulling espressos. But you know what I mean if you also have an espresso machine.
 

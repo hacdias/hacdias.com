@@ -1,19 +1,37 @@
 ---
 title: Steel Wool
 date: 2021-09-16T06:45:00Z
+photos:
+  - url: image:2021-09-16-steelwool-07
+    width: 3000
+    height: 2000
+  - url: image:2021-09-16-steelwool-06
+    width: 3000
+    height: 2000
+  - url: image:2021-09-16-steelwool-04
+    width: 3000
+    height: 2000
+  - url: image:2021-09-16-steelwool-05
+    width: 3000
+    height: 2000
+  - url: image:2021-09-16-steelwool-08
+    width: 3000
+    height: 2000
+  - url: image:2021-09-16-steelwool-01
+    width: 3000
+    height: 2000
+  - url: image:2021-09-16-steelwool-03
+    width: 3000
+    height: 2000
+  - url: image:2021-09-16-steelwool-09
+    width: 3000
+    height: 2000
+  - url: image:2021-09-16-steelwool-02
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/2021-09-steelwool-07
-photos:
-  - url: cdn:/2021-09-steelwool-07
-  - url: cdn:/2021-09-steelwool-06
-  - url: cdn:/2021-09-steelwool-04
-  - url: cdn:/2021-09-steelwool-05
-  - url: cdn:/2021-09-steelwool-08
-  - url: cdn:/2021-09-steelwool-01
-  - url: cdn:/2021-09-steelwool-03
-  - url: cdn:/2021-09-steelwool-09
-  - url: cdn:/2021-09-steelwool-02
+thumbnail: image:2021-09-16-steelwool-07
 ---
 
 <style>

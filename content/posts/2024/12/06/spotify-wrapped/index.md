@@ -15,21 +15,21 @@ Just like last year, and probably all the other years, my Spotify Wrapped 🎁 c
 
 <div class='fg' style='grid-template-columns: repeat(4, 1fr)'>
 
-![](cdn:/2024-12-spotify-wrapped-top-artist)
+![](image:2024-12-06-spotify-wrapped-top-artist)
 
-![](cdn:/2024-12-spotify-wrapped-top-artists)
+![](image:2024-12-06-spotify-wrapped-top-artists)
 
-![](cdn:/2024-12-spotify-wrapped-top-song)
+![](image:2024-12-06-spotify-wrapped-top-song)
 
-![](cdn:/2024-12-spotify-wrapped-top-songs)
+![](image:2024-12-06-spotify-wrapped-top-songs)
 
-![](cdn:/2024-12-spotify-wrapped-minutes)
+![](image:2024-12-06-spotify-wrapped-minutes)
 
-![](cdn:/2024-12-spotify-wrapped-january)
+![](image:2024-12-06-spotify-wrapped-january)
 
-![](cdn:/2024-12-spotify-wrapped-july)
+![](image:2024-12-06-spotify-wrapped-july)
 
-![](cdn:/2024-12-spotify-wrapped-september)
+![](image:2024-12-06-spotify-wrapped-september)
 
 </div>
 

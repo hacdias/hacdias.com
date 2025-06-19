@@ -1,6 +1,6 @@
 ---
 title: Things That I Use
-thumbnail: cdn:/2024-12-desk-home
+thumbnail: image:2025-06-01-desk-home
 ---
 
 This page is inspired in the [uses.tech](https://uses.tech/) movement and its main goal is to share with you what things I use on my daily life, from [hardware](#hardware) to [software](#software). It might not be accurate at all times, but I try to update it every now and then to make sure it is up to date.
@@ -25,7 +25,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 ### ⌨️ Desk {#desk}
 
-![Desk at Home](cdn:/2025-06-desk-home)
+![Desk at Home](image:2025-06-01-desk-home)
 
 At home, we have two desks: one in our bedroom, and one in the guest bedroom. I mainly use the one in the guest bedroom. I'm also a desk person, which apparently some people are not, and I much rather prefer having a desk than just using the laptop as-is.
 
@@ -50,7 +50,7 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 
 ### ☕️ Coffee {#coffee}
 
-![Coffee Station](cdn:/2025-06-coffee-station)
+![Coffee Station](image:2025-06-01-coffee-station)
 
 Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
 

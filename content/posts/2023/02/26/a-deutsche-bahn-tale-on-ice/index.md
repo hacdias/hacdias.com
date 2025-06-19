@@ -20,19 +20,19 @@ On the 10th of January, I left Eindhoven earlier than what my ticket suggested. 
 
 In Utrecht I hopped into an ICE train from DB which runs from Amsterdam to Basel SBB, in Switzerland. Apparently, there are two Basel stations: one in Germany and one in Switzerland. Who knew? It was all fine, until some "fire" allegedly occurred in some station and our train had to be diverted to some other line.
 
-![An ICE Train](cdn:/f85294571442b66cd25a8b27c5f7c4a14578f7221de9614246dc5722ba627c52)
+![An ICE Train](image:2023-02-26-ice-train)
 
 Just like our train, many others had to be diverted through a very congested line where some sections had one track only. A few hours later, DB decides to cancel the ICE after Freiburg and tells us to take the next ICE in Freiburg with direction to Basel SBB. That train never arrived and it looked like it was also canceled so we just hopped on a regional train to Basel SBB.
 
 Now in Basel, two hours after planed, I got a Swiss train and arrived at my destination. The Swiss rails never cease to amaze me with their amazing punctuality and the fact that you can very easily make 5 minute connections without any issues.
 
-![Engelberg Train Station](cdn:/70bceed275bb63e060dd5b775d97a057a352401d000064f22feeea000370dd6c)
+![Engelberg Train Station](image:2023-02-26-engelberg-train-station)
 
 Time has passed, and on the 16th I had to come back. Well, I thought I had experienced the worst, but let me tell you: during the trip back I genuinely thought I would have to sleep in this random town in Germany where no one seemed to be able to answer my questions.
 
 I got the train from Engelberg to Basel and it was all fine. In Basel I took the ICE, on time. This time, the train was not going to the Netherlands, so my plan was to change in Düsseldorf for a regional train to Venlo and from there to Eindhoven. The ICE arrived on time in Düsseldorf, which was fine, and then the problems began. The connection to Venlo was, for some reason, not working.
 
-![Proof of Happiness](cdn:/2b08b17c8200dc2e6112d3a4595d1b0ce332a75799fb5558d434d21b65ce64b8)
+![Proof of Happiness](image:2023-02-26-proof-of-happiness)
 {.right}
 
 So I used the DB Navigator which told me to go to Mönchengladbach and then get some bus. I arrived at Mönchengladbach, I went outside. No signs, nothing saying where to get the bus. There was a bus station indeed, but nothing about replacement buses. I asked around 5 people: most ignored me, one said "I don't have money" and the other one said "I don't work for Deutsche Bahn". Very useful people. The DB Navigator app was also very confused: the app said to get a train through this track but then it also said no trains were running there. Go figure.
@@ -41,7 +41,7 @@ After ranting a bit too much to [Martin](https://mew.tv/), he helped me figure o
 
 The funniest part of all this is the guy that I met had gotten the same train as me from Basel and was as confused as me. On top of that, he had also gone to Basel the week before in the same train as me. How big of a coincidence is that.
 
-![Internet Speed on ICE](https://cdn.hacdias.com/media/4e79a63d32f0523ed881b3d7490cbd3b5f88958901c3b95e2fc8f21c7c5cc147.jpg)
+![Internet Speed on ICE](https://media.hacdias.com/2023-02-26-ice-internet-speed.jpeg)
 
 Would I do it again? Definitely! The ICE trains are extremely comfortable and the Internet was the most reliable I have ever had in a train with speeds way faster than I've ever experienced in my hometown in Portugal.
 

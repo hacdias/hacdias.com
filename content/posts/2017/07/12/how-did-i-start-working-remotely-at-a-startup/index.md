@@ -17,7 +17,7 @@ that matters, I have to thank a lot to them because they were my ground floor.
 
 <!--more-->
 
-![A bit of Landing.jobs Festival 2015](cdn:/2017-07-landing-fest-thumb)
+![A bit of Landing.jobs Festival 2015](image:2017-07-12-landing-fest-thumb)
 
 In that same day, there was someone who saw me and asked me if I was Henrique
 Dias and wrote for Pplware. I got really confused. Seriously! Where the heck
@@ -76,7 +76,7 @@ somehow managed to get us tickets and he invited us to go there. We went! It was
 astonishing to be in Lisbon once more but this time accompanied by two excellent
 people.
 
-![A sneak peek inside Startup Lisboa](cdn:/2017-07-startup-lx)
+![A sneak peek inside Startup Lisboa](image:2017-07-12-startup-lx)
 
 I stayed three days in Lisbon. I have to thank a lot to Malik and to my parents,
 because they were crucial when they let me go and bring me there. I visited the
@@ -101,7 +101,7 @@ With all of this and with all of the people I met, I learned that we should
 from your mistakes and don't repeat them. Also, be careful when choosing your
 friends. Your friendships matter as much as your own sanity.
 
-!['Fresh ideas here' at Startup Lisboa](cdn:/2017-07-fresh-ideas)
+!['Fresh ideas here' at Startup Lisboa](image:2017-07-12-fresh-ideas)
 
 Now, I think it's a really good time to tell you a bit of background information
 about me: I was born and have been living my 17 years in a really small hamlet.
@@ -110,7 +110,7 @@ about 800 inhabitants — 190 square kilometers with 800 people. A lot, hum? Tho
 inhabitants aren't even centralized. It doesn't seem really comfortable, doesn't
 it? But that's where I live.
 
-![Santana da Serra](cdn:/2017-07-santana-da-serra)
+![Santana da Serra](image:2017-07-12-santana-da-serra)
 
 I live in Santana da Serra. The population is really old. Imagine a place where
 there are only three people with 17 years old. On the other hand, Lisbon is the
@@ -158,7 +158,7 @@ great, and dangerous at the same time. I can't talk for the rest of the team,
 but for me it has been incredible to work with more people, even if only
 remotely.
 
-![Left to the right: Malik, Fábio and I at Web Summit 2016](cdn:/2017-07-web-summit-2016)
+![Left to the right: Malik, Fábio and I at Web Summit 2016](image:2017-07-12-web-summit-2016)
 
 It's great because you can learn how other people work, how other people think,
 how to work with more people, how to get organised, how to deal with diverse

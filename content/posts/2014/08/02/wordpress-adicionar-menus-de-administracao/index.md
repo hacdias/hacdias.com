@@ -62,7 +62,7 @@ Depois adicionamos essa função utilizando a função add_action . Este coman
 
 Existem várias formas de adicionar um menu. Podemos adicionar um sub-menu ou um menu. Vou dar-vos um exemplo com algo já existente no WP:
 
-![WordPress Menu e Sub-menu](https://cdn.hacdias.com/media/2014-08-wpsubmenu.jpeg)
+![WordPress Menu e Sub-menu](https://media.hacdias.com/2014-08-02-wpsubmenu.jpeg)
 
   * **Settings** é um menu.
   * **Media** é um sub-menu do menu **Settings**.

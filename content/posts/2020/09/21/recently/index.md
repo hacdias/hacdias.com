@@ -33,7 +33,7 @@ Only the first course provides tangible exercises so we can practice and that wo
 
 Besides university and people, I have been dedicating a bit more time to photography once again. I own a fantastic Fujifilm _vintage-looking_ X-T30 which is amazingly pretty with an XF 18-55mm f/2.8-4.0 lens. It's a beast in a compact size.
 
-![Fujifilm X-T30](cdn:/2020-09-fujixt30)
+![Fujifilm X-T30](image:2020-09-21-fujixt30)
 
 For the next couple of months, I want to try taking some night sky pictures, but I will need to find a relatively nice place close by. In addition, light trails are also on my agenda, but that won't be that hard. Despite that, I also want to take more landscape pictures. All of this requires a tripod and I _finally_ convinced myself to order one! It's on the way. Maybe next month I will talk a bit more about this.
 

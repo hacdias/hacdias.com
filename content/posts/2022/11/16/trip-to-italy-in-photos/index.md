@@ -2,21 +2,39 @@
 title: Italia
 description: Trip to Italy in Photos
 date: 2022-11-16T14:28:29.381987946+01:00
+photos:
+  - url: image:2022-11-16-trip-to-italy-in-photos-01
+    width: 3000
+    height: 2000
+  - url: image:2022-11-16-trip-to-italy-in-photos-02
+    width: 3000
+    height: 2000
+  - url: image:2022-11-16-trip-to-italy-in-photos-03
+    width: 2485
+    height: 3727
+  - url: image:2022-11-16-trip-to-italy-in-photos-04
+    width: 3000
+    height: 4500
+  - url: image:2022-11-16-trip-to-italy-in-photos-05
+    width: 3000
+    height: 4500
+  - url: image:2022-11-16-trip-to-italy-in-photos-06
+    width: 3000
+    height: 2000
+  - url: image:2022-11-16-trip-to-italy-in-photos-07
+    width: 2790
+    height: 4185
+  - url: image:2022-11-16-trip-to-italy-in-photos-08
+    width: 3000
+    height: 4500
+  - url: image:2022-11-16-trip-to-italy-in-photos-09
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/9f969a9e9f385cbbcef6c5f7b2c25503a8b4cd022f5fb7f63e6e5c1e3474460c
-photos:
-  - url: cdn:/ece0c9110b225ff12ecf8118466a674a17fc740d13394ef991ece3d97be2c6aa
-  - url: cdn:/9f969a9e9f385cbbcef6c5f7b2c25503a8b4cd022f5fb7f63e6e5c1e3474460c
-  - url: cdn:/638a05816f171d5bb0cfd6a3d99d73c2f67e314ad009d5aca83e35c2ad17eb2d
-  - url: cdn:/7eea4e777e53a52b98f99b13a9318034ebf7d7e012be959884e5b262a2ad8d58
-  - url: cdn:/31c47486b3c31c948cd6db3ef7f4f484d922a2202f39a1415b6175aaea7ed602
-  - url: cdn:/f01370c2567a0285aea86f89b0c7300136e4fb01df1b9badf2d025e6f98d0733
-  - url: cdn:/4f60cb20ed4e9f754e035f0f677713d4a284acf181d8a748988294ab9bfe882f
-  - url: cdn:/d525fdf790ad117cf5b47664b742e9266117823ae60c20fbaf6b6ab39f86b8e4
-  - url: cdn:/ee3a9b458f3d0d3f1e66d6d90cce223aa976d3e2ae08cb2d2b097d425f1f46b5
 tags:
   - travel
+thumbnail: image:2022-11-16-trip-to-italy-in-photos-02
 ---
 
 In September, I traveled to Italy with my partner. Here are some of the pictures I took at the time, finally seeing the light of the day. I took many other pictures, and it is very hard to choose what to show. Italy is such a beautiful country. We visited Napoli, Roma, Firenze, Pisa, Venezia, Bologna, Milano and Bergamo.

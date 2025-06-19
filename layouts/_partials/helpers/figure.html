@@ -2,9 +2,9 @@
 {{- $id := "" }}
 {{- $src := "" }}
 
-{{- if eq $url.Scheme "cdn" }}
-	{{- $id = strings.TrimPrefix "/" $url.Path }}
-	{{- $src = printf "https://cdn.hacdias.com/img/2000/%s.jpeg" $id }}
+{{- if eq $url.Scheme "image" }}
+	{{- $id = $url.Opaque }}
+	{{- $src = printf "https://media.hacdias.com/image/1800/%s.jpeg" $id }}
 {{- else }}
 	{{ with .Page.Resources.GetMatch $url.Path }}
 		{{- $src = .RelPermalink -}}
@@ -20,14 +20,16 @@
 		{{ with .Style }}style="{{ . | safeCSS }}"{{ end }} >
 		<picture>
 		{{- if $id }}
-			{{ $sizes := or .Sizes (slice 250 500 1000 2000) }}
-			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://cdn.hacdias.com/img/%d/%s.webp" $s $id }} {{ $s }}w{{ end }}" type="image/webp">
-			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://cdn.hacdias.com/img/%d/%s.jpeg" $s $id }} {{ $s }}w{{ end }}" type="image/jpeg">
+			{{ $sizes := or .Sizes (slice 600 900 1800) }}
+			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://media.hacdias.com/image/%d/%s.webp" $s $id }} {{ $s }}w{{ end }}" type="image/webp">
+			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://media.hacdias.com/image/%d/%s.jpeg" $s $id }} {{ $s }}w{{ end }}" type="image/jpeg">
 		{{- end }}
 {{- end }}
 
 <img src="{{ absURL $src | safeURL }}"
-	{{- with or .Text .Title }} alt ="{{.}}"{{ end }}
+	{{- with or .Text .Title }}alt ="{{.}}"{{ end }}
+	{{- with .Width }}width ="{{.}}"{{ end }}
+	{{- with .Height }}height ="{{.}}"{{ end }}
 	{{- if not .IsBlock }}
 		{{ with .Class }}class="{{ . }}"{{ end }}
 		{{ with .Style }}style="{{ . | safeCSS }}"{{ end }}

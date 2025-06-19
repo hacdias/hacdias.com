@@ -2,7 +2,9 @@
 title: Bamboo
 date: 2025-05-10T10:28:32+02:00
 photos:
-  - url: cdn:/2025-05-10-bamboo
+  - url: image:2025-05-10-bamboo
+    width: 3000
+    height: 2250
 categories:
   - photos
 syndication:

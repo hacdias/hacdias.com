@@ -54,7 +54,7 @@ opposites to each other.
 
 <div style='max-width: 30rem; margin: 0 auto;'>
 
-![The Country Mapping Tool for PT and NL](cdn:/2023-05-culture-map-pt-nl)
+![The Country Mapping Tool for PT and NL](image:2023-05-21-culture-map-pt-nl)
 
 </div>
 

@@ -3,13 +3,13 @@ title: Traveling to Vienna With the Nightjet
 date: 2024-02-27T18:37:11+01:00
 categories:
   - writings
-thumbnail: cdn:/2024-02-nightjet
 syndication:
   - https://fosstodon.org/@hacdias/112004673006559756
 tags:
   - trains
   - transit
   - travel
+thumbnail: image:2024-02-27-nightjet
 ---
 
 Over the past days, my partner and I did a small trip to Vienna - and also Bratislava. This post is not going to be about the trip and the cities themselves, but about the transport to and from Vienna: the Nightjet. This was our first time trying out night trains, so it was quite a journey.
@@ -20,11 +20,11 @@ We booked the Nightjet with some months of advance for our trip from Utrecht to 
 
 <div class='fg' style='grid-template-columns: repeat(3,1fr);'>
 
-![In-suite Sink](cdn:/2024-02-nightjet-to-vienna-01)
+![In-suite Sink](image:2024-02-27-nightjet-to-vienna-01)
 
-![Bed Configuration](cdn:/2024-02-nightjet-to-vienna-02)
+![Bed Configuration](image:2024-02-27-nightjet-to-vienna-02)
 
-![Goodies Bag](cdn:/2024-02-nightjet-to-vienna-03)
+![Goodies Bag](image:2024-02-27-nightjet-to-vienna-03)
 
 </div>
 
@@ -40,11 +40,11 @@ On the way back, it was better. We arrived also with a delay, but not of three h
 
 <div class='fg' style='grid-template-columns: repeat(3,1fr);'>
 
-![Corridor](cdn:/2024-02-nightjet-from-vienna-01)
+![Corridor](image:2024-02-27-nightjet-from-vienna-01)
 
-![Seat Configuration](cdn:/2024-02-nightjet-from-vienna-02)
+![Seat Configuration](image:2024-02-27-nightjet-from-vienna-02)
 
-![Sparkling Wine](cdn:/2024-02-nightjet-from-vienna-03)
+![Sparkling Wine](image:2024-02-27-nightjet-from-vienna-03)
 
 </div>
 

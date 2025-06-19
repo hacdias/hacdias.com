@@ -42,5 +42,5 @@ This section is a sort of [digital shoebox](/2024/01/13/making-a-digital-shoebox
 {.buttons}
 
 <audio id="music" loop>
-  <source src="https://cdn.hacdias.com/media/nyan-cat.mp3" type="audio/mpeg">
+  <source src="https://media.hacdias.com/2021-09-21-nyan-cat.mp3" type="audio/mpeg">
 </audio>

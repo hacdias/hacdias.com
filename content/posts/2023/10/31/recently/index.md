@@ -22,7 +22,7 @@ This month I published a few more posts than I was expected. I had a weird after
 
 I also made a few updates to my homepage, where I now added a favorite photos section. I also intercalated the photos with the posts sections, which I think looks slightly better than before. Finally, I have added a "more articles" and a "more photos" links to the list of latest articles and photos, respectively.
 
-![Updated Homepage in October 2023](cdn:/2023-10-website-homepage)
+![Updated Homepage in October 2023](image:2023-10-31-website-homepage)
 
 ## 🍄 Life {#life}
 
@@ -34,11 +34,11 @@ On Sunday, and therefore my actual birthday date, my partner and I went to Limbu
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-10-simpelveld "Simpelveld Station")
+![](image:2023-10-31-simpelveld "Simpelveld Station")
 
-![](cdn:/2023-10-simpelveld-pullman "Pullman 1927 Wagon")
+![](image:2023-10-31-simpelveld-pullman "Pullman 1927 Wagon")
 
-![](cdn:/2023-10-simpelveld-pullman-binnen "Inside of Pullman 1927 Wagon")
+![](image:2023-10-31-simpelveld-pullman-binnen "Inside of Pullman 1927 Wagon")
 
 </div>
 
@@ -46,11 +46,11 @@ The lunch was served on a Pullman eating wagon from 1927, completely renovated. 
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-10-lunchtrein-voorgerecht "Lunch Entree")
+![](image:2023-10-31-lunchtrein-voorgerecht "Lunch Entree")
 
-![](cdn:/2023-10-lunchtrein-hoofdgerecht "Lunch Main Dish")
+![](image:2023-10-31-lunchtrein-hoofdgerecht "Lunch Main Dish")
 
-![](cdn:/2023-10-lunchtrein-toetje "Lunch Dessert")
+![](image:2023-10-31-lunchtrein-toetje "Lunch Dessert")
 
 </div>
 

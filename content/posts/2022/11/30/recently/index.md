@@ -17,7 +17,7 @@ We got the keys 🗝️ for the new apartment on the 8th of November. So far, so
 
 A few days later, I went to Amsterdam to see Tove Lo live, which was quite amazing. Just like what happened when I went to see MØ, I didn't know that many songs from Tove Lo. However, I am now addicted to them. She has some very nice songs that I would recommend if you like the genre.
 
-![Dirt Femme Tour](cdn:/e945853a35d738b002ce45464f90c13c4bd0a51bdcc7687eb762333da6922ce2)
+![Dirt Femme Tour](image:2022-11-30-dirt-femme-tour)
 
 Not long after, I went back to Amsterdam, but this time to see the live performance of Trixie & Katya. It was eye-conic. Lots of fun, quite unexpected and incomprehensible. A bit more scripted than I wish. Nevertheless, it was very very good. Both the concert and the show were very nice and I'm very grateful for going to both.
 
@@ -25,9 +25,9 @@ Around the same time we got the keys, the [GLOW Festival](https://gloweindhoven.
 
 <div class="fg">
   
-![](cdn:/595d894a8a558a273e5a9bfe656c2052f309ee52763f478756b43d4b0e15e827 "GLOW Festival Butterflies")
+![](image:2022-11-30-glow-festival-butterflies "GLOW Festival Butterflies")
 
-![](cdn:/ea556aca280987f427e4c82edd049aaadd13dbda701bbb01959ae53e7fa9eec2 "Oliebollen")
+![](image:2022-11-30-oliebollen "Oliebollen")
 
 </div>
 
@@ -37,17 +37,17 @@ While my parents were here, I had my graduation 🎓 ceremony, where I dressed s
 
 <div class="fg" style="grid-template-columns: repeat(3, 1fr);">
   
-![](cdn:/0e7f71af8859274ffe33f9d0db714a975a72c88e82b2233b5822d14bf1765cfe "Parents at GLOW Festival")
+![](image:2022-11-30-glow-parents-01 "Parents at GLOW Festival")
 
-![](cdn:/ac4bf00df18025a7c140a8de6ed0a6790b9812dd6926ef3d0441b10f28c0d208 "Parents at Path Behind The Church")
+![](image:2022-11-30-glow-parents-02 "Parents at Path Behind The Church")
 
-![](cdn:/8be96d708d26fa48405c9f2d8a7f50495389c3c314296dc5700cf364897b6aad "Parents at Stadswandelpark")
+![](image:2022-11-30-glow-parents-03 "Parents at Stadswandelpark")
 
-![](cdn:/bda136593e069b18aaaf3ef271732f84dfc483ac4caac68466ffa7fefce072d2 "Parents at Amsterdam Centraal")
+![](image:2022-11-30-glow-parents-04 "Parents at Amsterdam Centraal")
 
-![](cdn:/a862b945dc5cb5296fa8a9203b12babd11b044f72f384238be250b8c23ea1d01 "Parents at Amsterdam Canals")
+![](image:2022-11-30-glow-parents-05 "Parents at Amsterdam Canals")
 
-![](cdn:/cfd984dc5c1539cc077bc82d5190b791b2be66e6bd47a9f4bdfcbad33f14f89f "Parents at Piazza Bridge")
+![](image:2022-11-30-glow-parents-06 "Parents at Piazza Bridge")
 
 </div>
 

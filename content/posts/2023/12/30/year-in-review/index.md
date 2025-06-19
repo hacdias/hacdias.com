@@ -20,7 +20,7 @@ As usual, I am going to talk a bit about a few categories and for each I will gi
 
 During 2023, this website has suffered quite some changes, but not necessarily visible to you, the reader. I've talked about most of them in my ["Recently"](/now/) posts. I want to highlight that this past month, during Christmas, I gave my website a little bit of a 💄 makeover, making it slightly more festive.
 
-![Website With Christmas Decorations](cdn:/2023-12-christmas-website)
+![Website With Christmas Decorations](image:2023-12-30-christmas-website)
 
 I think the largest and most impactful decision was to go back to using [Hugo](/2023/06/13/farewell-eagle-kinda-hello-hugo/). This is a decision that I believe will remain stable for the foreseeable future. However, that is something that I've likely said before, so, who knows? I've also [open-sourced](/2023/11/18/open-sourcering-my-website/) my website's source code, as well as improved my [IndieWeb Go libraries](/2023/11/10/updates-on-indieweb-go-libraries/).
 
@@ -36,7 +36,7 @@ Life, that is a very general category. So it's quite hard for me to pin point ex
 
 During this year post-university, I've opted for working in a co-working space close to my apartment, where I've met some wonderful people I'm grateful for. Next year, some of us are moving to a different coworking space, which is a bit further away from my house, but I think that can be a nice change.
 
-![](cdn:/2023-12-church-santana "Santana da Serra Church Tower")
+![](image:2023-12-30-church-santana "Santana da Serra Church Tower")
 {.right}
 
 Something else I would like to note is how many train rides I took this year. Specifically, special 🚂 train rides, not ordinary ones. I've ridden the new [ICNG](/2023/06/30/recently/), a [steam train in Germany](/2023/07/31/recently/), a [Dinner Train](/2023/08/31/recently/), and a [steam lunch train](/2023/10/31/recently/). I think that was all for this year. It might not sound like much, but it was a lot of fun.

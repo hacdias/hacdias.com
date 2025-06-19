@@ -165,7 +165,7 @@ Software Engineer passionate about open source, user agency, decentralization, i
   from="06/2013" to="09/2016" >}}
 
 - Wrote over 400 tutorials, tech news and other articles on both [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
-- Published a 60 page [e-book](https://cdn.hacdias.com/media/aprenda-a-programar.pdf) on how to program in C for beginners when I was 15 years old.
+- Published a 60 page [e-book](https://media.hacdias.com/2015-02-27-aprenda-a-programar.pdf) on how to program in C for beginners when I was 15 years old.
 
 {{</ resume-position >}}
 

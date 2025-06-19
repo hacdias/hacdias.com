@@ -16,7 +16,7 @@ On the last post, I mentioned that one of the payments failed to be debited from
 
 <figure class='right' style='max-width: 15rem'>
   <video controls>
-    <source src="https://cdn.hacdias.com/media/066fd94fa45496b612de4dcdaac986bf4429f6984892b977c1080f02494981ed.mp4" type="video/mp4">
+    <source src="https://media.hacdias.com/2022-12-03-update-on-ovpay-experiment.mp4" type="video/mp4">
   </video>
 </figure>
 

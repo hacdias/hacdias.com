@@ -1,14 +1,22 @@
 ---
 title: Strijp-S Nacht
 date: 2024-03-07T19:11:35+01:00
+photos:
+  - url: image:2024-03-07-strijps-nacht-vershal
+    width: 3000
+    height: 4500
+  - url: image:2024-03-07-strijps-nacht-chris
+    width: 3000
+    height: 4501
+  - url: image:2024-03-07-strijps-nacht-toren
+    width: 3000
+    height: 4500
+  - url: image:2024-03-07-strijps-nacht-varkens
+    width: 3000
+    height: 4500
 categories:
   - photos
-thumbnail: cdn:/2024-03-strijps-nacht-vershal
-photos:
-  - url: cdn:/2024-03-strijps-nacht-vershal
-  - url: cdn:/2024-03-strijps-nacht-chris
-  - url: cdn:/2024-03-strijps-nacht-toren
-  - url: cdn:/2024-03-strijps-nacht-varkens
+thumbnail: image:2024-03-07-strijps-nacht-vershal
 ---
 
 It seems like it has been [quite](/2022/10/23/strijp-s-fall/) [some](/2022/09/05/strijp-s/) time since I published some photos from the neighborhood where I live, in Strijp-S. So I thought it'd be time to publish some more photos, but this time during the night. Took them yesterday and I'm quite happy with the result.

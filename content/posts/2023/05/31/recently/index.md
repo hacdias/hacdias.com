@@ -29,14 +29,14 @@ In the beginning of the month, I visited the 🚆 Spoorwegmuseum in Utrecht. It 
 an incredible experience and I wrote an [article](/2023/05/06/visit-to-the-spoorwegmuseum/)
 about it where I shared some of the pictures I took, as well as the overall experience.
 
-![Giethoorn](cdn:/63f36b40ba9386905bee4cafc170abc3ac0f333dd8fa5ed494cd59fb45d47353)
+![Giethoorn](image:2023-05-31-giethoorn)
 
 Two other high points of this month were my trips to both Zeeland and Giethoorn.
 Just like last year, Zeeland was a bit cold, especially in the sea, but it was nice.
 Giethoorn was a very nice place. We did a day trip there and got a boat tour
 by a local that volunteers. The weather ☀️ was nice and I definitely recommend.
 
-![](cdn:/fb960b7933ae2a0f85703d0c3efbed89587e1cc4096f74ef57d856f00fb7ebc3 "Pieter de Graaf")
+![](image:2023-05-31-pieter-de-graaf "Pieter de Graaf")
 {.right}
 
 ## 📚 Reading {#reading}

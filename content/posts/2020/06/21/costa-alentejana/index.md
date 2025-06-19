@@ -1,27 +1,45 @@
 ---
 title: Costa Alentejana
 date: 2020-06-21T23:30:50.893Z
+photos:
+  - url: image:2020-06-21-costa-alentejana-2
+    width: 3000
+    height: 2000
+  - url: image:2020-06-21-costa-alentejana-5
+    title: Lonely Boat
+    width: 3000
+    height: 2000
+  - url: image:2020-06-21-costa-alentejana-7
+    title: SN924L Astro
+    width: 3000
+    height: 4500
+  - url: image:2020-06-21-costa-alentejana-1
+    title: Entrada da Barca
+    width: 3000
+    height: 2000
+  - url: image:2020-06-21-costa-alentejana-3
+    title: Splashing Water
+    width: 3000
+    height: 2000
+  - url: image:2020-06-21-costa-alentejana-4
+    title: Rocks
+    width: 3000
+    height: 2000
+  - url: image:2020-06-21-costa-alentejana-6
+    title: SN786L Carina
+    width: 3000
+    height: 2000
+  - url: image:2020-06-21-costa-alentejana-8
+    title: Clarabóias
+    width: 3000
+    height: 4500
+  - url: image:2020-06-21-costa-alentejana-9
+    title: More Boats
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/2020-06-costa-alentejana-2
-photos:
-  - url: cdn:/2020-06-costa-alentejana-2
-  - title: Lonely Boat
-    url: cdn:/2020-06-costa-alentejana-5
-  - title: SN924L Astro
-    url: cdn:/2020-06-costa-alentejana-7
-  - title: Entrada da Barca
-    url: cdn:/2020-06-costa-alentejana-1
-  - title: Splashing Water
-    url: cdn:/2020-06-costa-alentejana-3
-  - title: Rocks
-    url: cdn:/2020-06-costa-alentejana-4
-  - title: SN786L Carina
-    url: cdn:/2020-06-costa-alentejana-6
-  - title: Clarabóias
-    url: cdn:/2020-06-costa-alentejana-8
-  - title: More Boats
-    url: cdn:/2020-06-costa-alentejana-9
+thumbnail: image:2020-06-21-costa-alentejana-2
 ---
 
 <style>

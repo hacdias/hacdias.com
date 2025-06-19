@@ -2,7 +2,9 @@
 title: Torii
 date: 2025-05-10T10:30:47+02:00
 photos:
-  - url: cdn:/2025-05-10-torii
+  - url: image:2025-05-10-torii
+    width: 3000
+    height: 4000
 categories:
   - photos
 syndication:

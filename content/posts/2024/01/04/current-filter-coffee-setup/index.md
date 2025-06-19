@@ -20,7 +20,7 @@ With all these purchases, you may ask yourself: do you even use all these gadget
 
 <figure class='right' style='max-width: 13rem; overflow: hidden' alt='Clever Dripper Preparation Timelapse'>
   <video autoplay muted loop controls>
-    <source src="https://cdn.hacdias.com/media/2024-01-clever-dripper.mp4" type="video/mp4">
+    <source src="https://media.hacdias.com/2024-01-04-clever-dripper.mp4" type="video/mp4">
   </video>
 </figure>
 

@@ -1,26 +1,36 @@
 ---
 title: Dekate Mousa's Lustrum Exhibition
 date: 2022-06-07T09:51:13.74567452+02:00
+photos:
+  - url: image:2022-06-07-dm-photo-1
+    width: 2569
+    height: 2569
+  - url: image:2022-06-07-dm-photo-2
+    width: 2419
+    height: 2419
+  - url: image:2022-06-07-dm-photo-3
+    width: 2600
+    height: 2600
+  - url: image:2022-06-07-dm-eating
+    width: 2677
+    height: 3652
+  - url: image:2022-06-07-dm-instant
+    width: 3000
+    height: 4000
+location:
+  latitude: 51.4324
+  longitude: 5.48616
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - fragments
-thumbnail: cdn:/2022-06-dm-photo-1
-location:
-  country: Netherlands
-  latitude: 51.4324
-  locality: Eindhoven
-  longitude: 5.48616
-  region: North Brabant
-photos:
-  - url: cdn:/2022-06-dm-photo-1
-  - url: cdn:/2022-06-dm-photo-2
-  - url: cdn:/2022-06-dm-photo-3
-  - url: cdn:/2022-06-dm-eating
-  - url: cdn:/2022-06-dm-instant
 syndication:
   - https://twitter.com/hacdias/status/1534206131781902336
   - https://twitter.com/hacdias/status/1534206138077655040
 tags:
   - goals
+thumbnail: image:2022-06-07-dm-photo-1
 ---
 
 <style>

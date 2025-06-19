@@ -20,7 +20,7 @@ Less than an year afterwards, I moved my blog to [DigitalOcean][3] (which I reco
 
 I was using a cache plugin to speed up the blog and also using the Yoast SEO plugin. I think both are really useful and I recommend them if you're using WordPress.
 
-![What's SEO?](cdn:/2015-08-seo-what "What's SEO?")
+![What's SEO?](image:2015-08-12-seo-what "What's SEO?")
 
 Two months later - I think it was two months, I'm not sure - I decided to use Jekyll on [GitHub Pages][4]. Jekyll is a static website generator, i.e., it converts some source files to static and plain HTML. After fighting a lot with Ruby on Windows, I moved my blog from WordPress to Jekyll.
 
@@ -28,13 +28,13 @@ Everything was running fine until I formatted my computer. And then I tought: no
 
 Hugo is a really nice and easy to use static website generator, built using Go (one of the languages I admire), that have standalone executables. It **doesn't have dependencies**. It's simple, easy. Why not?
 
-![Writing a post](cdn:/2015-08-writing-post "Writing a post")
+![Writing a post](image:2015-08-12-writing-post "Writing a post")
 
 I moved everything to this new system and created a new template (the black one before the current one). It's very simple to [create themes](http://gohugo.io/themes/overview/) for Hugo. All of my blog's code is on [```henriquedias-source```][6] at GitHub. Then, I just have to deploy it to [```hacdias.github.io```][7] repository so I can use GitHub Pages hosting which is free.
 
 I also configured [CloudFlare][8] and my website is very fast now. It's delivered by their CDN and I'm using SSL. **I defend that every website should be using HTTPS**.
 
-![My blog score's on Speed Insights](https://cdn.hacdias.com/media/2015-08-speed-insights.jpeg "My blog score's on Speed Insights")
+![My blog score's on Speed Insights](https://media.hacdias.com/2015-08-12-speed-insights.jpeg "My blog score's on Speed Insights")
 
 Concluding, I'm saving money because I'm only paying the domain. I'm using a easy to use system (of course Hugo is not for everyone, but it's simple). My blog is faster than ever. Google Page Speed Insights gives me a very high score. I'm very satisfied with Hugo.
 

@@ -1,16 +1,28 @@
 ---
 title: Utrecht I
 date: 2021-04-30T12:00:00Z
+photos:
+  - url: image:2021-04-30-utrecht-02
+    width: 3000
+    height: 2000
+  - url: image:2021-04-30-utrecht-19
+    width: 2622
+    height: 3933
+  - url: image:2021-04-30-utrecht-07
+    width: 3000
+    height: 2000
+  - url: image:2021-04-30-utrecht-05
+    width: 3000
+    height: 2000
+  - url: image:2021-04-30-utrecht-23
+    width: 3000
+    height: 2000
+  - url: image:2021-04-30-utrecht-14
+    width: 3000
+    height: 2000
 categories:
   - photos
-thumbnail: cdn:/2021-04-utrecht-02
-photos:
-  - url: cdn:/2021-04-utrecht-02
-  - url: cdn:/2021-04-utrecht-19
-  - url: cdn:/2021-04-utrecht-07
-  - url: cdn:/2021-04-utrecht-05
-  - url: cdn:/2021-04-utrecht-23
-  - url: cdn:/2021-04-utrecht-14
+thumbnail: image:2021-04-30-utrecht-02
 ---
 
 I went to Utrecht, which turned out to be one of the loveliest cities in the Netherlands I've been to so far. It's picturesque, has canals and felt lively.

@@ -30,11 +30,11 @@ After some experimentation, I found [GymBook](https://www.gymbookapp.com/), an a
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
-![](cdn:/2023-10-gymbook-workout "GymBook Workout View")
+![](image:2023-10-14-gymbook-workout "GymBook Workout View")
 
-![](cdn:/2023-10-gymbook-workouts "GymBook Workouts View")
+![](image:2023-10-14-gymbook-workouts "GymBook Workouts View")
 
-![](cdn:/2023-10-gymbook-logs "GymBook Logs")
+![](image:2023-10-14-gymbook-logs "GymBook Logs")
 
 </div>
 

@@ -20,7 +20,7 @@ Much like the author of the linked shoebox, I do also keep around boxes with stu
 
 Digitally, I've also had something similar: a directory named "random" where I put all sorts of things that do not have a really good place to go. It has happened before that I've wanted to share one or two of these things, but I've always had to wait until I has back at my laptop in order to do so.
 
-![My Digital Shoebox in Dark Mode](cdn:/2024-01-shoebox)
+![My Digital Shoebox in Dark Mode](image:2024-01-13-shoebox)
 
 From today - yesterday actually - on, I also have a digital shoebox here on my website. It fills that niche space of things I have on this website, but don't really fit any other category. Some are just normal posts, dated, but I wouldn't want to be spamming my readers with them. Others are just minisites that I've made in the past. Others are recreations of things I've found physically but thought would be fun to share digitally!
 
