@@ -18,19 +18,11 @@ Similarly to [previous years](/2024/01/03/year-in-music/), it's time to share m
 
 Just like in previous years, let's start with some quick statistics: in 2024, I scrobbled **17 491** times, with an average of **48** scrobbles per day. In total, I listened to **40 days, 15 hours** of music. I listed to the most music on Mondays, and peaked on early afternoon. That's quite similar to last year.
 
-<div class='fg'>
+<div class='fg plots'>
 
-![](scrobbles-weekday.svg)
-{.only-light}
+{{< embed "scrobbles-weekday.svg" >}}
 
-![](scrobbles-weekday-dark.svg)
-{.only-dark}
-
-![](scrobbles-month.svg)
-{.only-light}
-
-![](scrobbles-month-dark.svg)
-{.only-dark}
+{{< embed "scrobbles-month.svg" >}}
 
 </div>
 
