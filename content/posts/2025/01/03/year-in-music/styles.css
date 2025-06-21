@@ -6,6 +6,26 @@
   aspect-ratio: 1/1;
 }
 
-.dark .plot {
-  filter: invert(1);
+.plots svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.plots svg path[style*='fill:#000'] {
+  fill: var(--text) !important;
+}
+
+.plots svg path[style*='stroke:#000'] {
+  stroke: var(--text) !important;
+}
+
+.plots svg path[style*='fill:#111'] {
+  fill: var(--c) !important;
+  fill-opacity: 0.8 !important;
+}
+
+.plots svg path[style*='fill:#222'] {
+ fill: var(--c) !important;
+  fill-opacity: 0.5 !important;
 }
