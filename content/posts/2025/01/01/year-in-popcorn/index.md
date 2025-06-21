@@ -22,19 +22,11 @@ The data is a bit fuzzy, because I only track episodes on Trakt, and sometimes I
 
 According to my [watches](/watches/) page, I watched **54** different movies during 2024. That's more than double of what I've watched in 2023. A reason that could explain this is the fact that I have a Cineville subscription, allowing me to go to the cinema every time I want. I think this was the main drive to watch (indie) films that I would otherwise not have watched.
 
-<div class='fg'>
+<div class='fg plots'>
 
-![](movies-weekday.svg)
-{.only-light}
+{{< embed "movies-weekday.svg" >}}
 
-![](movies-weekday-dark.svg)
-{.only-dark}
-
-![](movies-month.svg)
-{.only-light}
-
-![](movies-month-dark.svg)
-{.only-dark}
+{{< embed "movies-month.svg" >}}
 
 </div>
 
@@ -71,19 +63,11 @@ It seems that during 2024, I watched episodes from **40** different shows (1 les
 
 The second most watched series was **Abbot Elementary** and then **The Bear**, with 48 and 28 episodes, respectively. These were also series with relatively short episodes, but less seasons, which explains the big discrepancy in comparison with the most watched series.
 
-<div class='fg'>
+<div class='fg plots'>
 
-![](episodes-weekday.svg)
-{.only-light}
+{{< embed "episodes-weekday.svg" >}}
 
-![](episodes-weekday-dark.svg)
-{.only-dark}
-
-![](episodes-month.svg)
-{.only-light}
-
-![](episodes-month-dark.svg)
-{.only-dark}
+{{< embed "episodes-month.svg" >}}
 
 </div>
 

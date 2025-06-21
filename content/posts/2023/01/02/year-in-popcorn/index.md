@@ -55,19 +55,11 @@ During 2022, I watched **45** different movies, having repeated none, except for
 
 Then, I decided it would be a great idea to see my movie watching habits in two different perspectives: by weekday, and by month. We can see that, when it comes to weekday, I'm more likely to watch a movie on the weekend when compared to a weekday, especially on Saturday.
 
-<div class='fg'>
+<div class='fg plots'>
 
-![](movies-weekday.svg)
-{.only-light}
+{{< embed "movies-weekday.svg" >}}
 
-![](movies-weekday-dark.svg)
-{.only-dark}
-
-![](movies-month.svg)
-{.only-light}
-
-![](movies-month-dark.svg)
-{.only-dark}
+{{< embed "movies-month.svg" >}}
 
 </div>
 
@@ -105,19 +97,11 @@ During 2022, I watched episodes from **59** different shows. The show I watched 
 
 Similarly to what I did for the movies, I also plotted how many episodes I've watched per weekday and per month. Similarly to the movies, there are more episodes being watched on the weekend. However, there is not a large difference between Saturday and Sunday.
 
-<div class='fg'>
+<div class='fg plots'>
 
-![](episodes-weekday.svg)
-{.only-light}
+{{< embed "episodes-weekday.svg" >}}
 
-![](episodes-weekday-dark.svg)
-{.only-dark}
-
-![](episodes-month.svg)
-{.only-light}
-
-![](episodes-month-dark.svg)
-{.only-dark}
+{{< embed "episodes-month.svg" >}}
 
 </div>
 
