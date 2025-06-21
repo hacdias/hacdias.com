@@ -2,3 +2,5 @@
 {{ $app := resources.Get "js/app.js" }}
 {{ $js := slice $twemoji $app | resources.Concat "js/app.js" | resources.Minify | resources.Fingerprint "sha512" }}
 <script type='text/javascript' src='{{ $js.RelPermalink }}' integrity='{{ $js.Data.Integrity }}'></script>
+
+<script data-goatcounter="https://hacdias.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
