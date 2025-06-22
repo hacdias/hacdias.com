@@ -1,6 +1,7 @@
 ---
 title: We Don’t Own Our Data, Do We?
 description: Data is a topic I've been wanting to write about for quite some time. Do we own our data? What should we do about it?
+thumbnail: https://media.hacdias.com/2019-12-24-data-computer.jpeg
 date: 2019-12-24T20:00:00Z
 categories:
   - writings
@@ -15,7 +16,7 @@ Big data, buzz words. I have been wanting to write about data for quite a long t
 
 <!--more-->
 
-![Guy asking 'What is data?'](https://media.hacdias.com/2019-12-24-data-guy.jpeg)
+![Computer with data on the screen](https://media.hacdias.com/2019-12-24-data-computer.jpeg)
 
 Everything we generate is data. Some is more important than others, but every single tiny bit we generate on our computers, on the web, is data. Is it ours? Does it belong to us? Can we easily collect it in a way that we can analyse it and transform it the way we want?
 
@@ -36,7 +37,6 @@ This is not just a principle, but something I think we should convey as a societ
 
 For years, we’ve been trapped into using so many platforms that make everything easy.  Despite not living in the 90s, looking at what [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) was just gives me chills. People actually created and built websites in that time! They would learn what HTML, CSS and JavaScript is and make the most creative websites… we might argue that they’re not the most conforming to today’s “design principles”, but they’re creative, they show a personality.
 
-![Computer with data on the screen](https://media.hacdias.com/2019-12-24-data-computer.jpeg)
 
 Nowadays, we “all” use Facebook, Instagram, Twitter… does anyone still create websites and make them look like their personality? No! Yes, there is a much bigger learning curve on creating your own website and I’m not talking about using some template someone created that makes every website look exactly the same. I’m talking about writing your own website and making it look as you want it.
 
