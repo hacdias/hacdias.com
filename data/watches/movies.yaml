@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Materialists
+  date: 2025-06-22T14:25:00+01:00
+  rating: 4
+  location: Lab-1
+  room: 5
+  row: 7
+  seat: 4
 - name: Mickey 17
   date: 2025-03-18T19:30:00+01:00
   rating: 4
