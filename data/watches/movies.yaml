@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: The Phoenician Scheme
+  date: 2025-06-27T18:30:00+01:00
+  rating: 4
+  location: Natlab
+  room: 2
+  row: H
+  seat: 5
 - name: Materialists
   date: 2025-06-22T14:25:00+01:00
   rating: 4
