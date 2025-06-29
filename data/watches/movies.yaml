@@ -5,15 +5,22 @@
 #   room:
 #   row:
 #   seat:
+- name: The Balconettes
+  date: 2025-06-28T14:30:00+02:00
+  rating: 4
+  location: Lab-1
+  room: 5
+  row: 9
+  seat: 7
 - name: The Phoenician Scheme
-  date: 2025-06-27T18:30:00+01:00
+  date: 2025-06-27T18:30:00+02:00
   rating: 4
   location: Natlab
   room: 2
   row: H
   seat: 5
 - name: Materialists
-  date: 2025-06-22T14:25:00+01:00
+  date: 2025-06-22T14:25:00+02:00
   rating: 4
   location: Lab-1
   room: 5
