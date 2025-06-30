@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: Fountain of Youth
+  date: 2025-06-29T21:35:00+02:00
+  rating: 3
 - name: The Balconettes
   date: 2025-06-28T14:30:00+02:00
   rating: 4
