@@ -1,14 +1,14 @@
 ---
 title: Dabbling With the Idea of a Second Brain
 date: 2022-10-20T13:18:20.220703916+02:00
+location:
+  latitude: 51.44444
+  longitude: 5.45994
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
-location:
-  country: Netherlands
-  latitude: 51.44444
-  locality: Eindhoven
-  longitude: 5.45994
-  region: North Brabant
 tags:
   - second brain
 ---

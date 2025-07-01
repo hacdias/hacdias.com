@@ -1,22 +1,22 @@
 ---
 title: Revisiting LLMs for Code Development
 date: 2025-05-29T17:09:10.288881214+02:00
+location:
+  latitude: 51.4459
+  longitude: 5.46156
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
-location:
-  country: Netherlands
-  latitude: 51.4459
-  locality: Eindhoven
-  longitude: 5.46156
-  region: North Brabant
 syndication:
   - https://fosstodon.org/@hacdias/114591750868199511
   - https://bsky.app/profile/hacdias.com/post/3lqcyr7bytn23
   - https://news.indieweb.org/en
 tags:
-  - Artificial Intelligence
-  - Machine Learning
-  - Tool
+  - artificial intelligence
+  - machine learning
+  - tool
 ---
 
 Last September, I decided to finally give my shot at LLMs for code development. At that point, I had barely used any of the most known LLMs for a serious reason. It's not nine months later, and a lot has changed. With all of the news about Claude 4 and considering I have a work ChatGPT subscription, I decided to give LLMs another try.

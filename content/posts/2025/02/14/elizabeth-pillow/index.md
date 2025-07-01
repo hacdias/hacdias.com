@@ -20,8 +20,8 @@ syndication:
   - https://fosstodon.org/@hacdias/114001185305726133
   - https://fosstodon.org/@hacdias/114001280115980665
 tags:
-  - Trains
-  - Travel
+  - trains
+  - travel
 ---
 
 Yesterday, we visited the Harry Potter Studios. Since it was quite far away from the center, it took some time to get there, and consequently most of the day. It was worth it. It’s one of those one in a lifetime experiences to see the actual set of one of your favorite franchises. And the butter beer was delicious 🍺!

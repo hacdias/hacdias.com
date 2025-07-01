@@ -13,8 +13,8 @@ syndication:
   - https://bsky.app/profile/hacdias.com/post/3lst55vrv7l25
   - https://fosstodon.org/@hacdias/114772204318599358
 tags:
-  - Coffee
-  - Filter Coffee
+  - coffee
+  - filter coffee
 ---
 
 At the beginning of last year, I [shared](/2024/01/04/current-filter-coffee-setup/) about my filter coffee setup at home. The then current setup was composed by a family of four: the Clever Dripper, the French Press, the Chemex, and the AeroPress. Every device with its own use. It's been more than a year and a half, and the family has now welcomed a new member: the V60.

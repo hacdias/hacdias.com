@@ -1,14 +1,14 @@
 ---
 title: Couch to 5K Completed
 date: 2025-03-30T10:00:36.60372098+02:00
-categories:
-  - writings
 location:
   latitude: 51.44594
   longitude: 5.46162
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+categories:
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/114250327123733693
 tags:
