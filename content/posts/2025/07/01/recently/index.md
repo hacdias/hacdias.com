@@ -1,10 +1,19 @@
 ---
 title: Recently in June '25
-date: 2025-07-01T09:27:23+02:00
+date: 2025-07-01T16:36:46.316680437+02:00
+location:
+  latitude: 51.44591
+  longitude: 5.46156
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
+syndication:
+  - https://fosstodon.org/@hacdias/114778479714957652
+  - https://bsky.app/profile/hacdias.com/post/3lsvwdnmnsz2c
 tags:
-  - now
+  - Now
 ---
 
 One more month has passed, and June is now away from us. We've officially entered the last half of the year, at least when it comes to counting months. It was quite a busy month, with travel, new job, events, and the heat! Let's take a look.
