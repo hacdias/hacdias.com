@@ -55,7 +55,7 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 
 Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
 
-- **Filter Equipment** <span>Clever Dripper, French Press, AeroPress, Chemex, V60 ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
+- **Filter Equipment** <span>[V60](/2025/06/30/welcoming-the-v60/), Clever Dripper, AeroPress, Chemex, French Press ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
 - **Espresso Machine** <span>La Marzocco Linea Micra ([read more](/2024/01/06/current-espresso-setup/))</span>
 - **Grinder** <span>Eureka Mignon Oro Single Dose, Baratza Encore</span>
 - **Scale** <span>TIMEMORE Basic 2.0, Acaia Lunar 2021</span>
