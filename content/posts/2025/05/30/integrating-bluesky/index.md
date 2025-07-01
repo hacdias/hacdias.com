@@ -1,20 +1,20 @@
 ---
 title: Integrating Bluesky Into My Website
 date: 2025-05-30T20:08:53.032080527+02:00
-categories:
-  - fragments
 location:
   latitude: 51.44589
   longitude: 5.46134
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+categories:
+  - fragments
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lqftbiddfi2x
   - https://news.indieweb.org/en
   - https://fosstodon.org/@hacdias/114598119919028065
 tags:
-  - Meta
+  - meta
 ---
 
 A [few months ago](/2025/03/03/recently/), I added the possibility to [POSSE](https://indieweb.org/POSSE "Publish (on your) Own Site, Syndicate Elsewhere") posts to Mastodon. Now, I just added Bluesky. At the time, I mentioned the API not being as simple, and that's why I put it off for so long. Looking in retrospect, it wasn't that bad, I think I was a bit intimidated.

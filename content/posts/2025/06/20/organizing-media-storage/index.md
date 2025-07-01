@@ -14,7 +14,7 @@ syndication:
   - https://news.indieweb.org/en
   - https://fosstodon.org/@hacdias/114716138419079860
 tags:
-  - Meta
+  - meta
 ---
 
 It's been a while since I made a "large" infrastructural update on this website. So, I made one. It has been on my plans for some time already, but I hadn't yet had the time to do it: streamline the storage of media objects, such as photos, videos, PDFs, or anything else.

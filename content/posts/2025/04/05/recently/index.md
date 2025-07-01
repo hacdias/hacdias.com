@@ -1,14 +1,14 @@
 ---
 title: Recently in March '25
 date: 2025-04-05T13:49:13+02:00
+location:
+  latitude: 51.4459
+  longitude: 5.46155
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
-location:
-  country: Netherlands
-  latitude: 51.4459
-  locality: Eindhoven
-  longitude: 5.46155
-  region: North Brabant
 syndication:
   - https://fosstodon.org/@hacdias/114285212069038533
   - https://bsky.app/profile/hacdias.com/post/3lqd7ktsbec27

@@ -1,21 +1,21 @@
 ---
 title: Maintaining Open Source Projects
 date: 2025-06-14T15:51:24.197177572+02:00
-categories:
-  - writings
 location:
   latitude: 51.4459
   longitude: 5.46155
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+categories:
+  - writings
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lrl3uuk5nj2v
   - https://news.indieweb.org/en
   - https://fosstodon.org/@hacdias/114682042082736759
 tags:
-  - Open Source
-  - Reflection
+  - open source
+  - reflection
 ---
 
 Last month was Maintainer Month, a month were open source software maintainers are celebrated. A lot of the software in the world - and thus society itself - runs on open source software, which is something not known to a lot of people. During this past month, I read a few posts here and there about people sharing their journey and experience as an open source maintainer, and today I wanted to give my take on it.

@@ -1,14 +1,14 @@
 ---
 title: When The Rice Isn't Right
 date: 2023-01-28T09:52:50.876860537+01:00
+location:
+  latitude: 51.44586
+  longitude: 5.46175
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - fragments
-location:
-  country: Netherlands
-  latitude: 51.44586
-  locality: Eindhoven
-  longitude: 5.46175
-  region: North Brabant
 tags:
   - cooking
   - story time

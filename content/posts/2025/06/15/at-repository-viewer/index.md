@@ -5,8 +5,8 @@ bookmark-of: https://repoview.edavis.dev/
 categories:
   - bookmarks
 tags:
-  - AT Protocol
-  - Tools
+  - at protocol
+  - tools
 wa-bookmark-of: https://web.archive.org/web/20250615095024/https://repoview.edavis.dev/
 ---
 
