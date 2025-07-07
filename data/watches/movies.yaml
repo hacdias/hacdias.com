@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: 'Jurassic World: Rebirth'
+  date: 2025-07-06T17:00:00+02:00
+  rating: 4
+  location: Lab-1
+  room: 3
+  row: 7
+  seat: 4
 - name: Fountain of Youth
   date: 2025-06-29T21:35:00+02:00
   rating: 3
