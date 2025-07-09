@@ -50,10 +50,17 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 
 ### ☕️ Coffee {#coffee}
 
-![Coffee Station](image:2025-06-27-coffee-station)
-{width="2143" height="2143"}
+<div class="fg">
 
-Coffee is nowadays a part of my daily life. However, I try to not drink more than one per day. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
+![Coffee Station](image:2025-07-09-coffee-station)
+{width="2711" height="2711"}
+
+![Coffee & Tea Cupboard](image:2025-07-09-drinks-cupboard)
+{width="2523" height="2523"}
+
+</div>
+
+Coffee - and also tea - are nowadays a part of my daily life. However, I am conscious about how much caffeine I ingest per day, so I limit the amount of drinks I consume. This is an hopefully updated list of my current coffee equipment for both filter and espresso coffee.
 
 - **Filter Equipment** <span>[V60](/2025/06/30/welcoming-the-v60/), Clever Dripper, AeroPress, Chemex, French Press ([read more](/2024/01/04/current-filter-coffee-setup/))</span>
 - **Espresso Machine** <span>La Marzocco Linea Micra ([read more](/2024/01/06/current-espresso-setup/))</span>
