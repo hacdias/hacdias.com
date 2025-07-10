@@ -1,12 +1,21 @@
 ---
 title: My Current Espresso Setup
 date: 2025-07-09T14:13:45+02:00
-thumbnail: image:2025-07-09-coffee-station
+location:
+  latitude: 51.44593
+  longitude: 5.46149
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
+syndication:
+  - https://fosstodon.org/@hacdias/114823227303735096
+  - https://bsky.app/profile/hacdias.com/post/3ltjsajoj7u2w
 tags:
   - coffee
   - espresso coffee
+thumbnail: image:2025-07-09-coffee-station
 ---
 
 Around a year and a half ago, I wrote about my [espresso setup](/2024/01/06/current-espresso-setup/) at the time. This setup has remained almost the same during the last year, except for a few things here and here. More recently, we upgraded our coffee machine, which prompted me to write an updated post and spill the te- coffee ☕️.
