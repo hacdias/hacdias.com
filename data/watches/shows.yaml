@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: Foundation
+  season: 2
+  rating: 4
+  date: 2025-07-10
+- name: Foundation
   season: 1
   rating: 4
   date: 2025-07-05
