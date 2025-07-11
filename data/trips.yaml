@@ -354,14 +354,14 @@
   latitude: 48.220167
   longitude: 16.2148664
   itinerary:
-    - { departure: 2024-03-11T09:19:00+01:00, arrival: 2024-03-11T09:58:00+01:00, origin: stations.eindhoven_centraal, destination: stations.stations.venlo, type: stations.train, operator: NS, number: IC3525 }
-    - { departure: 2024-03-11T10:05:00+01:00, arrival: 2024-03-11T11:09:00+01:00, origin: stations.venlo, destination: stations.stations.dusseldorf_hbf, type: stations.train, operator: Eurobahn, number: RE13 }
-    - { departure: 2024-03-11T11:23:00+01:00, arrival: 2024-03-11T16:06:00+01:00, origin: stations.dusseldorf_hbf, destination: stations.stations.munchen_hbf, type: stations.train, operator: DB, number: ICE625 }
-    - { departure: 2024-03-13T10:54:00+01:00, arrival: 2024-03-13T14:27:00+01:00, origin: stations.munchen_hbf, destination: stations.stations.zurich_hb, type: stations.train, operator: SBB, number: ECE194 }
-    - { departure: 2024-03-15T09:32:00+01:00, arrival: 2024-03-15T12:18:00+01:00, origin: stations.zurich_hb, destination: stations.stations.geneve_cornavin, type: stations.train, operator: SBB }
-    - { departure: 2024-03-17T10:29:00+01:00, arrival: 2024-03-17T13:42:00+01:00, origin: stations.geneve_cornavin, destination: stations.stations.paris_gare_de_lyon, type: stations.train, operator: 'TGV Lyria', number: '9768' }
-    - { departure: 2024-03-17T15:19:00+01:00, arrival: 2024-03-17T18:02:00+01:00, origin: stations.paris_gare_du_nord, destination: stations.stations.rotterdam_centraal, type: stations.train, operator: Eurostar, number: '9357' }
-    - { departure: 2024-03-17T18:14:00+01:00, arrival: 2024-03-17T19:16:00+01:00, origin: stations.rotterdam_centraal, destination: stations.stations.eindhoven_centraal, type: stations.train, operator: NS }
+    - { departure: 2024-03-11T09:19:00+01:00, arrival: 2024-03-11T09:58:00+01:00, origin: stations.eindhoven_centraal, destination: stations.venlo, type: stations.train, operator: NS, number: IC3525 }
+    - { departure: 2024-03-11T10:05:00+01:00, arrival: 2024-03-11T11:09:00+01:00, origin: stations.venlo, destination: stations.dusseldorf_hbf, type: stations.train, operator: Eurobahn, number: RE13 }
+    - { departure: 2024-03-11T11:23:00+01:00, arrival: 2024-03-11T16:06:00+01:00, origin: stations.dusseldorf_hbf, destination: stations.munchen_hbf, type: stations.train, operator: DB, number: ICE625 }
+    - { departure: 2024-03-13T10:54:00+01:00, arrival: 2024-03-13T14:27:00+01:00, origin: stations.munchen_hbf, destination: stations.zurich_hb, type: stations.train, operator: SBB, number: ECE194 }
+    - { departure: 2024-03-15T09:32:00+01:00, arrival: 2024-03-15T12:18:00+01:00, origin: stations.zurich_hb, destination: stations.geneve_cornavin, type: stations.train, operator: SBB }
+    - { departure: 2024-03-17T10:29:00+01:00, arrival: 2024-03-17T13:42:00+01:00, origin: stations.geneve_cornavin, destination: stations.paris_gare_de_lyon, type: stations.train, operator: 'TGV Lyria', number: '9768' }
+    - { departure: 2024-03-17T15:19:00+01:00, arrival: 2024-03-17T18:02:00+01:00, origin: stations.paris_gare_du_nord, destination: stations.rotterdam_centraal, type: stations.train, operator: Eurostar, number: '9357' }
+    - { departure: 2024-03-17T18:14:00+01:00, arrival: 2024-03-17T19:16:00+01:00, origin: stations.rotterdam_centraal, destination: stations.eindhoven_centraal, type: stations.train, operator: NS }
 - name: EIC 2024
   place: "🇩🇪 Berlin"
   start: 2024-06-04
