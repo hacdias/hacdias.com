@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Murderbot
+  season: 1
+  rating: 4
+  date: 2025-07-11
 - name: Foundation
   season: 2
   rating: 4
