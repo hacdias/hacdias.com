@@ -115,14 +115,19 @@ function closeAll (e) {
 
 {{ define "leg" }}
   {{ template "transit-type" .Itinerary.type }}
-  <time class='tab lg'>{{ dateFormat "2006-01-02 15:04" .Itinerary.departure }}</time>
-  {{ $origin := index .Site.Data.locations (strings.Split .Itinerary.origin ".") }}
-  {{ or $origin.name .Itinerary.origin }}
+  {{ $departure := time.AsTime .Itinerary.departure }}
+  {{ $arrival := time.AsTime .Itinerary.arrival }}
+
+  <time class='tab lg'>{{ $departure.Format "2006-01-02 15:04" }}</time>
+  {{ .Itinerary.origin }}
   →
-  <time class='tab lg'>{{ dateFormat "15:04" .Itinerary.arrival }}</time>
-  {{ $destination := index .Site.Data.locations (strings.Split .Itinerary.destination ".") }}
-  {{ or $destination.name .Itinerary.destination }}
-  {{ if eq .type "air" -}}
+  <time class='tab lg'>
+    {{- $arrival.Format "15:04" -}}
+    {{- if ne $departure.Day $arrival.Day}}<sup>+1</sup>{{ end -}}
+  </time>
+
+  {{ .Itinerary.destination }}
+  {{ if eq .Itinerary.type "air" -}}
     <span class='lg'>({{ .Itinerary.operator }} {{.Itinerary.number}})</span>
   {{- end }}
 {{ end }}
