@@ -1349,6 +1349,16 @@
       arrival: 2025-04-18T16:21:00Z
       origin: Kyoto
       destination: Tokyo
+    - type: train
+      departure: 2025-04-21T09:30:00Z
+      arrival: 2025-04-21T11:36:00Z
+      origin: Shinjuku
+      destination: Otsuki
+    - type: train
+      departure: 2025-04-21T11:51:00Z
+      arrival: 2025-04-21T12:50:00Z
+      origin: Otsuki
+      destination: Kawaguchiko
     - type: air
       departure: 2025-04-24T12:33:00.000+09:00
       arrival: 2025-04-24T19:20:00.000+02:00
@@ -1356,6 +1366,11 @@
       destination: Amsterdam Schiphol
       operator: KLM
       number: "862"
+    - type: train
+      departure: 2025-04-24T07:59:00Z
+      arrival: 2025-04-24T09:16:00Z
+      origin: Asakusa
+      destination: Narita Airport Terminal 2·3
     - type: train
       departure: 2025-04-24T20:16:00Z
       arrival: 2025-04-24T21:43:00Z
