@@ -12,6 +12,11 @@
       destination: London Gatwick
       operator: EZY
       number: "8916"
+    - type: train
+      departure: 2017-04-10T14:29:00Z
+      arrival: 2017-04-10T15:00:00Z
+      origin: London Victoria
+      destination: Gatwick Airport
     - type: air
       departure: 2017-04-10T19:05:00.000+01:00
       arrival: 2017-04-10T21:46:00.000+01:00
@@ -132,10 +137,25 @@
       operator: TAP
       number: "1336"
     - type: train
+      departure: 2019-02-05T16:12:00Z
+      arrival: 2019-02-05T16:42:00Z
+      origin: Gatwick Airport
+      destination: London Victoria
+    - type: train
       departure: 2019-02-10T11:10:00Z
       arrival: 2019-02-10T11:58:00Z
       origin: London King's Cross
       destination: Cambridge
+    - type: train
+      departure: 2019-02-13T10:14:00Z
+      arrival: 2019-02-13T11:02:00Z
+      origin: Cambridge
+      destination: London King's Cross
+    - type: train
+      departure: 2019-02-13T13:29:00Z
+      arrival: 2019-02-13T14:00:00Z
+      origin: London Victoria
+      destination: Gatwick Airport
     - type: air
       departure: 2019-02-13T16:44:00.000+00:00
       arrival: 2019-02-13T19:15:00.000+00:00
@@ -145,11 +165,18 @@
       number: "1337"
 - name: Summer Trip With Parents
   place: 🇵🇹 São Miguel
-  start: 2019-07-10
+  start: 2019-07-09
   date: 2019-07-12
   latitude: 37.78405535222057
   longitude: -25.495591717779313
   itinerary:
+    - type: air
+      departure: 2019-07-09T22:20:00.000+01:00
+      arrival: 2019-07-09T23:45:00.000+00:00
+      origin: Lisbon Humberto Delgado
+      destination: Ponta Delgada  João Paolo II
+      operator: RYR
+      number: "2625"
     - type: air
       departure: 2019-07-12T18:54:00.000+00:00
       arrival: 2019-07-12T22:08:00.000+01:00
@@ -187,11 +214,25 @@
       number: "1300"
 - name: LabWeek 2019
   place: 🇨🇷 Peninsula Papagayo
-  start: 2019-11-17
+  start: 2019-11-16
   date: 2019-11-24
   latitude: 10.641647571154072
   longitude: -85.65888068018712
   itinerary:
+    - type: air
+      departure: 2019-11-16T05:04:00.000+00:00
+      arrival: 2019-11-16T09:16:00.000+01:00
+      origin: Lisbon Humberto Delgado
+      destination: Frankfurt Main
+      operator: DLH
+      number: "1173"
+    - type: air
+      departure: 2019-11-16T13:35:00.000+01:00
+      arrival: 2019-11-16T18:26:00.000-06:00
+      origin: Frankfurt Main
+      destination: Juan Santamaría International
+      operator: DLH
+      number: "518"
     - type: air
       departure: 2019-11-23T22:51:00.000-06:00
       arrival: 2019-11-24T16:28:00.000+01:00
