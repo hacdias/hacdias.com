@@ -116,6 +116,11 @@
       "feed": "https://kevquirk.com/feed"
     },
     {
+      "title": "Luke Wild",
+      "site": "https://www.lkhrs.com/",
+      "feed": "https://www.lkhrs.com/index.xml"
+    },
+    {
       "title": "Manuel Moreale",
       "site": "https://manuelmoreale.com",
       "feed": "https://manuelmoreale.com/feed/rss"
