@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Mon, 16 Jun 2025 03:00:03 UTC</dateCreated>
+        <dateCreated>Thu, 17 Jul 2025 03:00:03 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
@@ -29,6 +29,7 @@
             <outline title="Jim Nielsen" text="Jim Nielsen" xmlUrl="https://blog.jim-nielsen.com/feed.xml" htmlUrl="https://blog.jim-nielsen.com" type="rss"></outline>
             <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" type="rss"></outline>
             <outline title="Kev Quirk" text="Kev Quirk" xmlUrl="https://kevquirk.com/feed" htmlUrl="https://kevquirk.com" type="rss"></outline>
+            <outline title="Luke Wild" text="Luke Wild" xmlUrl="https://www.lkhrs.com/index.xml" htmlUrl="https://www.lkhrs.com/" type="rss"></outline>
             <outline title="Manuel Moreale" text="Manuel Moreale" xmlUrl="https://manuelmoreale.com/feed/rss" htmlUrl="https://manuelmoreale.com" type="rss"></outline>
             <outline title="Martin Frederic" text="Martin Frederic" xmlUrl="https://mew.tv/feeds/news.atom" htmlUrl="https://mew.tv/" type="rss"></outline>
             <outline title="Matt Brunt" text="Matt Brunt" xmlUrl="https://brunty.me/index.xml" htmlUrl="https://brunty.me/" type="rss"></outline>
