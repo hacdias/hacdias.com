@@ -9,6 +9,7 @@ read:
   author: Susanna Clarke
   publisher: Bloomsbury Publishing
   uid: isbn:9781526622440
+  pages: 272
 rating: 4
 ---
 
