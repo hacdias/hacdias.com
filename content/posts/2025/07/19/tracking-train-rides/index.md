@@ -2,11 +2,11 @@
 title: Tracking Train Rides With Viaduct
 date: 2025-07-19T15:18:29+02:00
 categories:
-- writings
+  - writings
 tags:
-- Trains
-- Tracking
-- Transit
+  - Trains
+  - Tracking
+  - Transit
 ---
 
 It is no secret that I enjoy tracking things, whether it is books I [read](/readings/), things I [watched](/watches/), or places I have [been](/trips/). When I travel, I track my flights, and that is, as far as I know, something a lot of people do. It also means that there are many tools out there for it. But when it comes to trains, I have never found a very reliable solution... until now!
