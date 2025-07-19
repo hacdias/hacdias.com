@@ -23,6 +23,12 @@ want-to-read:
   #   uid: isbn:9780099549482
   #   date: 2021-07-31
 read:
+  - name: Piranesi
+    author: Susanna Clarke
+    date: 2025-07-18
+    rating: 4
+    publisher: Bloomsbury Publishing
+    uid: isbn:9781526622440
   - name: Waiting for the Flood
     author: Alexis Hall
     date: 2025-06-03
