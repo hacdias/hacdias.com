@@ -6,7 +6,7 @@ categories:
 tags:
   - artificial intelligence
   - machine learning
-  - tool
+  - tools
 ---
 
 Yesterday I used ChatGPT for the first time. Well, that's not true. Let's rephrase: yesterday I used ChatGPT for the first time *to actually help me complete a task*. A boring tedious task. It did help me complete the task, but I'm still not very convinced on whether it was faster than doing it manually.

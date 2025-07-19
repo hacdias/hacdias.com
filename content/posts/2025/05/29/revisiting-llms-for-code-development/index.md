@@ -16,7 +16,7 @@ syndication:
 tags:
   - artificial intelligence
   - machine learning
-  - tool
+  - tools
 ---
 
 Last September, I decided to finally give my shot at LLMs for code development. At that point, I had barely used any of the most known LLMs for a serious reason. It's not nine months later, and a lot has changed. With all of the news about Claude 4 and considering I have a work ChatGPT subscription, I decided to give LLMs another try.
