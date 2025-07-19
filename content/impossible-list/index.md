@@ -34,6 +34,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
 - [ ] Cross-country 🇨🇦 train trip from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 - [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
+- [ ] Cover 100% of the Dutch rail network
 - [ ] Go on a hot air 🎈 balloon ride
 - [ ] Travel a subway train in the front cabin
 - [ ] Visit an airplane's cockpit
