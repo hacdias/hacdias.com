@@ -1,8 +1,17 @@
 ---
 title: Tracking Train Rides With Viaduct
 date: 2025-07-19T15:18:29+02:00
+location:
+  latitude: 51.44598
+  longitude: 5.46145
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
+syndication:
+  - https://fosstodon.org/@hacdias/114880100894708306
+  - https://bsky.app/profile/hacdias.com/post/3lud2hmfjnp2k
 tags:
   - trains
   - tracking
