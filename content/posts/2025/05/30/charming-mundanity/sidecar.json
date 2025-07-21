@@ -1,6 +1,14 @@
 {
   "interactions": [
     {
+      "author": "נקודה ופסיק; Semicolon",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/f75c6163f1cd46c036ff46caeafe5e3d6b9550adc6923009ac13506ff645d434.jpg",
+      "authorUrl": "https://tooot.im/@semicolon",
+      "date": "2025-07-19T15:44:10Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/114597074912585982/112458131620690812",
+      "type": "like"
+    },
+    {
       "author": "Wouter",
       "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/c11eaeae4f50c393e7b2e552e98e795cef67a3ea142da746a9be8e6940e47837.jpg",
       "authorUrl": "https://dosgame.club/@jefklak",
