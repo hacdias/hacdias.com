@@ -15,41 +15,7 @@
   }
   </style>
 
-  {{ $logs := .Site.Data.readings }}
-
-  <h2 id='want-to-read'>📖 Want To Read</h2>
-  {{ with (index $logs "want-to-read")}}
-    {{ template "logs" . }}
-  {{ else }}
-    <p>No books on my list right now. Feel free to <a href="/contact">suggest</a> something?</p>
-  {{ end }}
-
-  <h2 id='reading'>📚 Reading</h2>
-  {{ with (index $logs "reading")}}
-    {{ template "logs" . }}
-  {{ else }}
-    <p>Not reading anything at the moment.</p>
-  {{ end }}
-
-  <h2 id='read'>📕 Read</h2>
-
   {{ $read := partial "fns/pages-as-logs" .Pages }}
-  {{ $read = $read | append (index $logs "read" ) }}
+  {{ $read = $read | append .Site.Data.readings }}
   {{ partial "logs" (dict "Data" $read "WithAuthor" true "WithRating" true "Class" "read") }}
-{{ end }}
-
-{{ define "logs" }}
-<ul class='tb'>
-  {{ range . }}
-    <li>
-      <span>
-        {{ with .url }}<a href='{{ . }}' class='nl lh'>{{ end }}
-          {{ .name }}
-        {{ with .url }}</a>{{ end }}
-      </span>
-      <span>{{ .author }}</span>
-      <span><time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" .date }}' class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time></span>
-    </li>
-  {{ end }}
-</ul>
 {{ end }}

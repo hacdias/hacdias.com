@@ -1,566 +1,542 @@
-reading: []
-want-to-read:
-  - name: Before We Say Goodbye
-    author: Toshikazu Kawaguchi
-    date: 2024-07-13
-    publisher: Picador
-    pages: 173
-    uid: isbn:9781035023431
-  # - name: Ariadne
-  #   author: Jennifer Saint
-  #   publisher: Wildfire
-  #   uid: isbn:9781472273901
-  #   pages: 400
-  #   date: 2022-04-08
-  # - name: Alex's Adventures in Numberland
-  #   author: Alex Bellos
-  #   uid: isbn:9781408809594
-  #   date: 2021-11-07
-  # - name: To Kill a Mockingbird
-  #   author: Harper Lee
-  #   pages: 309
-  #   publisher: arrow books
-  #   uid: isbn:9780099549482
-  #   date: 2021-07-31
-read:
-  - name: Waiting for the Flood
-    author: Alexis Hall
-    date: 2025-06-03
-    rating: 4
-    publisher: Sourcebooks Casablanca
-    uid: isbn:9781728251370
-  - name: Glitterland
-    author: Alexis Hall
-    date: 2025-05-18
-    rating: 4
-    publisher: Sourcebooks Casablanca
-    uid: isbn:9781728265285
-  - name: Dust
-    author: Hugh Howey
-    date: 2024-12-10
-    rating: 5
-    publisher: Random House
-    uid: isbn:9781448184071
-  - name: Shift
-    author: Hugh Howey
-    date: 2024-11-22
-    rating: 5
-    publisher: Random House
-    uid: isbn:9781448150199
-  - name: Wool
-    author: Hugh Howey
-    date: 2024-10-29
-    rating: 5
-    publisher: Random House
-    uid: isbn:9781448150205
-  - name: Before Your Memory Fades
-    author: Toshikazu Kawaguchi
-    date: 2024-10-23
-    publisher: Picador
-    pages: 224
-    rating: 3
-    uid: isbn:9781529089431
-  - name: Harry Potter en de Relieken van de Dood
-    author: J.K. Rowling
-    date: 2024-04-25
-    uid: isbn:9781781103524
-    rating: 4
-  - name: Harry Potter en de Halfbloed Prins
-    author: J.K. Rowling
-    date: 2024-04-21
-    rating: 4
-    uid: isbn:9781781103517
-  - name: Harry Potter en de Orde van de Feniks
-    author: J.K. Rowling
-    date: 2024-04-13
-    rating: 4
-    uid: isbn:9781781103500
-  - name: Harry Potter en de Vuurbeker
-    author: J.K. Rowling
-    date: 2024-04-05
-    rating: 4
-    uid: isbn:9781781103494
-  - name: Harry Potter en de Gevangene van Azkaban
-    author: J.K. Rowling
-    date: 2024-03-08
-    rating: 4
-    uid: isbn:9781781103487
-  - name: Het diner (Leeslicht)
-    author: Herman Koch
-    publisher: Eenvoudig Communiceren
-    uid: isbn:9789086966998
-    pages: 152
-    date: 2024-02-29
-  - name: Harry Potter en de Geheime Kamer
-    author: J.K. Rowling
-    date: 2024-02-17
-    rating: 4
-    uid: isbn:9781781103470
-  - name: Harry Potter en de Steen Der Wijzen
-    author: J.K. Rowling
-    date: 2023-12-23
-    rating: 4
-    uid: isbn:9781781103326
-  - name: Minoes
-    author: Annie M.G. Schmidt
-    pages: 160
-    rating: 4
-    publisher: Querido
-    uid: isbn:9789045124698
-    date: 2023-08-08
-  - name: Short Stories in Dutch for Beginners
-    author: Olly Richards
-    date: 2023-05-05
-    rating: 3
-    uid: isbn:9781529302868
-  - name: Hidden Systems
-    author: Dan Nott
-    date: 2023-05-02
-    publisher: Random House Graphic
-    rating: 4
-    uid: isbn:9780593125366
-  - name: Sweet Bean Paste
-    author: Durian Sukegawa
-    publisher: Oneworld Publications
-    uid: isbn:9781786071958
-    date: 2023-01-20
-    rating: 5
-  - author: Sayaka Murata
-    name: Earthlings
-    pages: 247
-    publisher: Granta
-    uid: isbn:9781783785698
-    date: 2022-05-30
-    rating: 4
-  - author: Sayaka Murata
-    name: Convenience Store Woman
-    pages: 176
-    publisher: Granta
-    date: 2022-05-04
-    uid: isbn:9781846276842
-    rating: 4
-  - name: The Alchemist
-    author: Paulo Coelho
-    uid: isbn:9780007155668
-    rating: 4
-    date: 2022-04-10T11:12:19.18895568+02:00
-  - name: Verschrikkelijke beestjes
-    author: Elise Gravel
-    uid: isbn:9789045127330
-    date: 2022-03-30T20:32:49.387267805+02:00
-  - name: The Promise - Part 3
-    author: Bryan Konietzko, Michael Dante DiMartino
-    uid: isbn:9781595829412
-    rating: 4
-    date: 2022-02-26T12:35:03.823679473+01:00
-  - name: The Promise - Part 2
-    author: Bryan Konietzko, Michael Dante DiMartino
-    uid: isbn:9781595828750
-    rating: 4
-    date: 2022-02-26T11:41:40.869966981+01:00
-  - name: The Promise - Part 1
-    author: Bryan Konietzko, Michael Dante DiMartino
-    uid: isbn:9781595828118
-    rating: 4
-    date: 2022-02-18T08:02:43.649069007+01:00
-  - name: Heartstopper Volume Four
-    author: Alice Oseman
-    uid: isbn:9781444952797
-    rating: 4
-    date: 2022-02-13T20:07:31.402412448+01:00
-  - name: Heartstopper Volume Three
-    author: Alice Oseman
-    uid: isbn:9781444952773
-    rating: 4
-    date: 2022-02-13T17:06:38.209991419+01:00
-  - name: Heartstopper Volume Two
-    author: Alice Oseman
-    uid: isbn:9781444951400
-    rating: 4
-    date: 2022-02-13T15:42:03.925747705+01:00
-  - name: Heartstopper Volume One
-    author: Alice Oseman
-    uid: isbn:9781444951387
-    rating: 4
-    date: 2022-02-13T12:32:14.58797801+01:00
-  - name: Mensagem
-    author: Fernando Pessoa
-    uid: isbn:9789898939531
-    date: 2021-07-25T18:15:07.057199278Z
-  - name: O Principezinho
-    author: Antoine de Saint-Exupéry
-    uid: isbn:9789895401970
-    date: 2021-07-15T18:15:07.057199278Z
-  - name: Conventionally Yours
-    author: Annabeth Albert
-    uid: isbn:9781728200293
-    date: 2021-07-04T14:38:36.830961241Z
-  - name: Peer-to-Peer Systems and Applications
-    author: Ralf Steinmetz
-    uid: isbn:9783540291923
-    date: 2020-10-07T13:21:26Z
-  - name: 'Kubernetes: Up and Running'
-    author: Brendan Burns
-    uid: isbn:9781492046530
-    date: 2020-08-08T10:11:35Z
-  - name: Call Me By Your Name
-    author: André Aciman
-    uid: isbn:9781786495259
-    date: 2020-06-19T14:11:39Z
-  - name: Alice's Adventures in Wonderland and Through the Looking-Glass
-    author: Lewis Carroll
-    uid: isbn:9780141439761
-    date: 2020-01-31T08:00:00Z
-  - name: Electron in Action
-    author: Steve Kinney
-    uid: isbn:9781617294143
-    date: 2020-01-15T08:00:00Z
-  - name: Permanent Record
-    author: Edward Snowden
-    uid: isbn:9781250237231
-    date: 2020-01-15T08:00:00Z
-  - name: 'Presenting to Win: The Art of Telling Your Story'
-    author: Jerry Weissman
-    uid: isbn:9780130464132
-    date: 2020-01-15T08:00:00Z
-  - name: 'Terraform: Up and Running'
-    author: Yevgeniy Brikman
-    uid: isbn:9789352135462
-    date: 2020-01-15T08:00:00Z
-  - name: The Practice of Programming
-    author: Brian W. Kernighan
-    uid: isbn:9780201615869
-    date: 2018-06-25T07:00:00Z
-  - name: The Perks of Being a Wallflower
-    author: Stephen Chbosky
-    uid: isbn:9781847394071
-    date: 2018-01-01T08:00:00Z
-  - name: Brave New World
-    author: Aldous Huxley
-    uid: isbn:9781784870140
-    date: 2017-12-30T08:00:00Z
-  - name: Animal Farm
-    author: George Orwell
-    uid: isbn:9780141036137
-    date: 2017-12-23T08:00:00Z
-  - name: Fahrenheit 451
-    author: Ray Bradbury
-    uid: isbn:9780007181704
-    date: 2017-12-08T08:00:00Z
-  - name: Memorial do Convento
-    author: José Saramago
-    uid: isbn:9789720046710
-    date: 2017-05-09T07:00:00Z
-  - name: 'Zero to One: Notes on Start Ups, or How to Build the Future'
-    author: Peter Thiel
-    uid: isbn:9780753555200
-    date: 2017-05-09T07:00:00Z
-  - name: 'Fantastic Beasts and Where to Find Them: The Original Screenplay'
-    author: J.K. Rowling
-    uid: isbn:9781408708989
-    date: 2017-01-30T08:00:00Z
-  - name: Harry Potter and the Deathly Hallows
-    author: J.K. Rowling
-    uid: isbn:9781408855713
-    date: 2017-01-29T08:00:00Z
-  - name: Harry Potter and the Half-Blood Prince
-    author: J.K. Rowling
-    uid: isbn:9781408855706
-    date: 2017-01-26T08:00:00Z
-  - name: Harry Potter and the Order of the Phoenix
-    author: J.K. Rowling
-    uid: isbn:9781408855690
-    date: 2017-01-24T08:00:00Z
-  - name: Harry Potter and the Goblet of Fire
-    author: J.K. Rowling
-    uid: isbn:9781408855683
-    date: 2017-01-20T08:00:00Z
-  - name: Harry Potter and the Prisoner of Azkaban
-    author: J.K. Rowling
-    uid: isbn:9781408855676
-    date: 2017-01-14T08:00:00Z
-  - name: Harry Potter and the Chamber of Secrets
-    author: J.K. Rowling
-    uid: isbn:9781408855669
-    date: 2017-01-09T08:00:00Z
-  - name: Harry Potter and the Philosopher's Stone
-    author: J.K. Rowling
-    uid: isbn:9781408855652
-    date: 2017-01-01T08:00:00Z
-  - name: Nineteen Eighty-Four
-    author: George Orwell
-    uid: isbn:9780141393049
-    date: 2016-10-14T07:00:00Z
-  - name: Look Back in Anger
-    author: John Osborne
-    uid: isbn:9780571322763
-    date: 2016-09-23T07:00:00Z
-  - name: O Leão, a Feiticeira e o Guarda-Roupa
-    author: C.S. Lewis
-    uid: isbn:9789722330206
-    date: 2015-02-28T08:00:00Z
-  - name: O Rodrick é Terrível
-    author: Jeff Kinney
-    uid: isbn:9789896680060
-    date: 2015-02-28T08:00:00Z
-  - name: A Fada Oriana
-    author: Sophia de Mello Breyner Andresen
-    uid: isbn:9789726611950
-  - name: A Feiticeira de Paris
-    author: Álvaro Magalhães
-    uid: isbn:9789892321011
-  - name: A Nova Inteligência
-    author: Daniel H. Pink
-    uid: isbn:9789724746203
-  - name: A Porta das Três Fechaduras
-    author: Sonia Fernández-Vidal
-    uid: isbn:9789722349567
-  - name: A Senhora da Magia
-    author: Marion Zimmer Bradley
-    uid: isbn:9789896373986
-  - name: A Verdade Nua e Crua
-    author: Jeff Kinney
-    uid: isbn:9789897070433
-  - name: A Viagem do Caminheiro da Alvorada
-    author: C.S. Lewis
-    uid: isbn:9789722331326
-  - name: A Vida no Céu
-    author: José Eduardo Agualusa
-    uid: isbn:9789897221101
-  - name: A maldição da estrela morta
-    author: Álvaro Magalhães
-    uid: isbn:9789892310817
-  - name: A sombra do caçador
-    author: Álvaro Magalhães
-    uid: isbn:9789892310800
-  - name: A Última Batalha
-    author: C.S. Lewis
-    uid: isbn:9789722332200
-  - name: A Última Gota
-    author: Jeff Kinney
-    uid: isbn:9789896680589
-  - name: A última noite do mundo
-    author: Álvaro Magalhães
-    uid: isbn:9789892317465
-  - name: Apreciada
-    author: Caragh M. O'Brien
-    uid: isbn:9789895018987
-  - name: Bananus Maximus
-    author: Tim Collins
-    uid: isbn:9789897071140
-  - name: Breve História do Tempo
-    author: Stephen Hawking
-    uid: isbn:9789726620105
-  - name: Capitães da Areia
-    author: Jorge Amado
-    uid: isbn:9789896530075
-  - name: Cidades de Papel
-    author: John Green
-    uid: isbn:9789722352925
-  - name: Contos
-    author: Eça de Queirós
-    uid: isbn:9789897110047
-  - name: Convergente
-    author: Veronica Roth
-    uid: isbn:9789720043832
-  - name: Divergente
-    author: Veronica Roth
-    uid: isbn:9789720043818
-  - name: Diário de Um Vampiro Banana
-    author: Tim Collins
-    uid: isbn:9789898260840
-  - name: Felizmente Há Luar!
-    author: Luís de Sttau Monteiro
-    uid: isbn:9789726277446
-  - name: How to Win Friends and Influence People
-    author: Dale Carnegie
-    uid: isbn:9780091906818
-  - name: Insurgente
-    author: Veronica Roth
-    uid: isbn:9789720043825
-  - name: Marcados à Nascença
-    author: Caragh M. O'Brien
-    uid: isbn:9789895015870
-  - name: Naufrágio na Ilha dos Piratas
-    author: Geronimo Stilton
-    uid: isbn:9789722339360
-  - name: O Caderno das Piadas Secas
-    author: Gonçalo Castro
-    uid: isbn:9789898871077
-  - name: O Cavalo e o seu Rapaz
-    author: C.S. Lewis
-    uid: isbn:9789722330558
-  - name: O Diário de Um Lobisomem Banana
-    author: Tim Collins
-    uid: isbn:9789897070730
-  - name: O Emplastro
-    author: Jeff Kinney
-    uid: isbn:9789897071188
-  - name: O Essencial e Definitivo Harry Potter e a Filosofia
-    author: Gregory Bassham
-    uid: isbn:9789897180071
-  - name: O Herói Desaparecido
-    author: Rick Riordan
-    uid: isbn:9789896574918
-  - name: O Manuscrito Misterioso
-    author: Geronimo Stilton
-    uid: isbn:9789722334723
-  - name: O Mistério da Casa Invisível
-    author: Enid Blyton
-    uid: isbn:9789895555673
-  - name: O Mistério da Casa Queimada
-    author: Enid Blyton
-    uid: isbn:9789895554591
-  - name: O Mistério da Gata Desaparecida
-    author: Enid Blyton
-    uid: isbn:9789895554607
-  - name: O Mistério das Cartas Anónimas
-    author: Enid Blyton
-    uid: isbn:9789895554836
-  - name: O Mistério do Colar Desaparecido
-    author: Enid Blyton
-    uid: isbn:9789895555222
-  - name: O Mistério do Gato Cómico
-    author: Enid Blyton
-    uid: isbn:9789895557738
-  - name: O Mistério do Ladrão Invisível
-    author: Enid Blyton
-    uid: isbn:9789895559541
-  - name: O Mistério do Olho de Esmeralda
-    author: Geronimo Stilton
-    uid: isbn:9789722335157
-  - name: O Mistério do Príncipe Desaparecido
-    author: Enid Blyton
-    uid: isbn:9789895560202
-  - name: O Mistério do Quarto Secreto
-    author: Enid Blyton
-    uid: isbn:9789895554829
-  - name: O Mistério do Saco da Roupa
-    author: Enid Blyton
-    uid: isbn:9789897410543
-  - name: O Prenúncio das Águas
-    author: Rosa Lobato de Faria
-    uid: isbn:9789724129709
-  - name: O Príncipe Caspian
-    author: C.S. Lewis
-    uid: isbn:9789722330978
-  - name: O Rapaz de Bronze
-    author: Sophia de Mello Breyner Andresen
-    uid: isbn:9789726612032
-  - name: O Sobrinho do Mágico
-    author: C.S. Lewis
-    uid: isbn:9789722329989
-  - name: O Teorema Katherine
-    author: John Green
-    uid: isbn:9789892326337
-  - name: O Trono de Prata
-    author: C.S. Lewis
-    uid: isbn:9789722331685
-  - name: Operação "espelho meu"
-    author: Álvaro Magalhães
-    uid: isbn:9789892314969
-  - name: Os Cinco e os Contrabandistas
-    author: Enid Blyton
-    uid: isbn:9789895558360
-  - name: Os Cinco na Ilha do Tesouro
-    author: Enid Blyton
-    uid: isbn:9789895557745
-  - name: Os Jogos da Fome
-    author: Suzanne Collins
-    uid: isbn:9789722342391
-  - name: Os Livros Que Devoraram o Meu Pai
-    author: Afonso Cruz
-    uid: isbn:9789722120951
-  - name: Os Lusíadas Contados às Crianças e Lembrados ao Povo
-    author: João de Barros
-    uid: isbn:9789898470249
-  - name: Os Maias
-    author: Eça de Queirós
-    uid: isbn:978972004575
-  - name: Para Onde Vão Os Guarda-Chuvas
-    author: Afonso Cruz
-    uid: isbn:9789896721978
-  - name: Percy Jackson e a Batalha do Labirinto
-    author: Rick Riordan
-    uid: isbn:9789724620855
-  - name: Percy Jackson e a Maldição do Titã
-    author: Rick Riordan
-    uid: isbn:9789724620251
-  - name: Percy Jackson e o mar dos Monstros
-    author: Rick Riordan
-    uid: isbn:9789724622514
-  - name: Percy Jackson e o Último Olimpiano
-    author: Rick Riordan
-    uid: isbn:9789724622415
-  - name: Prometidos
-    author: Caragh M. O'Brien
-    uid: isbn:9789895018994
-  - name: Príncipe da Tansilvânia
-    author: Tim Collins
-    uid: isbn:9789897070211
-  - name: Pânico nos Himalaias
-    author: Geronimo Stilton
-    uid: isbn:9789722336390
-  - name: Quatro Ratos no Faroeste!
-    author: Geronimo Stilton
-    uid: isbn:9789722344968
-  - name: Quatro – Histórias da Série Divergente
-    author: Veronica Roth
-    uid: isbn:9789720047250
-  - name: Sermão de Santo António aos Peixes
-    author: António Vieira
-    uid: isbn:9789898508386
-  - name: The Giver
-    author: Lois Lowry
-    uid: isbn:9780385732550
-  - name: Tirem-me Daqui!
-    author: Jeff Kinney
-    uid: isbn:9789897071102
-  - name: Um Dia de Cão
-    author: Jeff Kinney
-    uid: isbn:9789896680596
-  - name: Uma Aventura Secreta
-    author: Ana Maria Magalhães
-    uid: isbn:9789722114677
-  - name: Uma Aventura em Lisboa
-    author: Ana Maria Magalhães
-    uid: isbn:9789722100212
-  - name: Uma Aventura entre Douro e Minho
-    author: Ana Maria Magalhães
-    uid: isbn:9789722100052
-  - name: Uma Aventura na Amazónia
-    author: Ana Maria Magalhães
-    uid: isbn:9789722120388
-  - name: Uma Aventura na Casa Assombrada
-    author: Ana Maria Magalhães
-    uid: isbn:9789722111225
-  - name: Uma Aventura na Praia
-    author: Ana Maria Magalhães
-    uid: isbn:9789722108997
-  - name: Uma Aventura na Serra da Estrela
-    author: Ana Maria Magalhães
-    uid: isbn:9789722108379
-  - name: Uma Aventura nas Férias do Natal
-    author: Ana Maria Magalhães
-    uid: isbn:9789722100014
-  - name: Uma Aventura no Bosque
-    author: Ana Maria Magalhães
-    uid: isbn:9789722100045
-  - name: Uma Aventura no Comboio
-    author: Ana Maria Magalhães
-    uid: isbn:9789722117906
-  - name: Uma Aventura no Deserto
-    author: Ana Maria Magalhães
-    uid: isbn:9789722100205
-  - name: Uma Aventura no Labirinto Misterioso
-    author: Ana Maria Magalhães
-    uid: isbn:9789722118606
-  - name: Uma Aventura no Pulo do Lobo
-    author: Ana Maria Magalhães
-    uid: isbn:9789722121026
-  - name: Uma Aventura no Verão
-    author: Ana Maria Magalhães
-    uid: isbn:9789722107747
-  - name: Vem aí o cometa negro!
-    author: Álvaro Magalhães
-    uid: isbn:9789892313214
+
+- name: Waiting for the Flood
+  author: Alexis Hall
+  date: 2025-06-03
+  rating: 4
+  publisher: Sourcebooks Casablanca
+  uid: isbn:9781728251370
+- name: Glitterland
+  author: Alexis Hall
+  date: 2025-05-18
+  rating: 4
+  publisher: Sourcebooks Casablanca
+  uid: isbn:9781728265285
+- name: Dust
+  author: Hugh Howey
+  date: 2024-12-10
+  rating: 5
+  publisher: Random House
+  uid: isbn:9781448184071
+- name: Shift
+  author: Hugh Howey
+  date: 2024-11-22
+  rating: 5
+  publisher: Random House
+  uid: isbn:9781448150199
+- name: Wool
+  author: Hugh Howey
+  date: 2024-10-29
+  rating: 5
+  publisher: Random House
+  uid: isbn:9781448150205
+- name: Before Your Memory Fades
+  author: Toshikazu Kawaguchi
+  date: 2024-10-23
+  publisher: Picador
+  pages: 224
+  rating: 3
+  uid: isbn:9781529089431
+- name: Harry Potter en de Relieken van de Dood
+  author: J.K. Rowling
+  date: 2024-04-25
+  uid: isbn:9781781103524
+  rating: 4
+- name: Harry Potter en de Halfbloed Prins
+  author: J.K. Rowling
+  date: 2024-04-21
+  rating: 4
+  uid: isbn:9781781103517
+- name: Harry Potter en de Orde van de Feniks
+  author: J.K. Rowling
+  date: 2024-04-13
+  rating: 4
+  uid: isbn:9781781103500
+- name: Harry Potter en de Vuurbeker
+  author: J.K. Rowling
+  date: 2024-04-05
+  rating: 4
+  uid: isbn:9781781103494
+- name: Harry Potter en de Gevangene van Azkaban
+  author: J.K. Rowling
+  date: 2024-03-08
+  rating: 4
+  uid: isbn:9781781103487
+- name: Het diner (Leeslicht)
+  author: Herman Koch
+  publisher: Eenvoudig Communiceren
+  uid: isbn:9789086966998
+  pages: 152
+  date: 2024-02-29
+- name: Harry Potter en de Geheime Kamer
+  author: J.K. Rowling
+  date: 2024-02-17
+  rating: 4
+  uid: isbn:9781781103470
+- name: Harry Potter en de Steen Der Wijzen
+  author: J.K. Rowling
+  date: 2023-12-23
+  rating: 4
+  uid: isbn:9781781103326
+- name: Minoes
+  author: Annie M.G. Schmidt
+  pages: 160
+  rating: 4
+  publisher: Querido
+  uid: isbn:9789045124698
+  date: 2023-08-08
+- name: Short Stories in Dutch for Beginners
+  author: Olly Richards
+  date: 2023-05-05
+  rating: 3
+  uid: isbn:9781529302868
+- name: Hidden Systems
+  author: Dan Nott
+  date: 2023-05-02
+  publisher: Random House Graphic
+  rating: 4
+  uid: isbn:9780593125366
+- name: Sweet Bean Paste
+  author: Durian Sukegawa
+  publisher: Oneworld Publications
+  uid: isbn:9781786071958
+  date: 2023-01-20
+  rating: 5
+- author: Sayaka Murata
+  name: Earthlings
+  pages: 247
+  publisher: Granta
+  uid: isbn:9781783785698
+  date: 2022-05-30
+  rating: 4
+- author: Sayaka Murata
+  name: Convenience Store Woman
+  pages: 176
+  publisher: Granta
+  date: 2022-05-04
+  uid: isbn:9781846276842
+  rating: 4
+- name: The Alchemist
+  author: Paulo Coelho
+  uid: isbn:9780007155668
+  rating: 4
+  date: 2022-04-10T11:12:19.18895568+02:00
+- name: Verschrikkelijke beestjes
+  author: Elise Gravel
+  uid: isbn:9789045127330
+  date: 2022-03-30T20:32:49.387267805+02:00
+- name: The Promise - Part 3
+  author: Bryan Konietzko, Michael Dante DiMartino
+  uid: isbn:9781595829412
+  rating: 4
+  date: 2022-02-26T12:35:03.823679473+01:00
+- name: The Promise - Part 2
+  author: Bryan Konietzko, Michael Dante DiMartino
+  uid: isbn:9781595828750
+  rating: 4
+  date: 2022-02-26T11:41:40.869966981+01:00
+- name: The Promise - Part 1
+  author: Bryan Konietzko, Michael Dante DiMartino
+  uid: isbn:9781595828118
+  rating: 4
+  date: 2022-02-18T08:02:43.649069007+01:00
+- name: Heartstopper Volume Four
+  author: Alice Oseman
+  uid: isbn:9781444952797
+  rating: 4
+  date: 2022-02-13T20:07:31.402412448+01:00
+- name: Heartstopper Volume Three
+  author: Alice Oseman
+  uid: isbn:9781444952773
+  rating: 4
+  date: 2022-02-13T17:06:38.209991419+01:00
+- name: Heartstopper Volume Two
+  author: Alice Oseman
+  uid: isbn:9781444951400
+  rating: 4
+  date: 2022-02-13T15:42:03.925747705+01:00
+- name: Heartstopper Volume One
+  author: Alice Oseman
+  uid: isbn:9781444951387
+  rating: 4
+  date: 2022-02-13T12:32:14.58797801+01:00
+- name: Mensagem
+  author: Fernando Pessoa
+  uid: isbn:9789898939531
+  date: 2021-07-25T18:15:07.057199278Z
+- name: O Principezinho
+  author: Antoine de Saint-Exupéry
+  uid: isbn:9789895401970
+  date: 2021-07-15T18:15:07.057199278Z
+- name: Conventionally Yours
+  author: Annabeth Albert
+  uid: isbn:9781728200293
+  date: 2021-07-04T14:38:36.830961241Z
+- name: Peer-to-Peer Systems and Applications
+  author: Ralf Steinmetz
+  uid: isbn:9783540291923
+  date: 2020-10-07T13:21:26Z
+- name: 'Kubernetes: Up and Running'
+  author: Brendan Burns
+  uid: isbn:9781492046530
+  date: 2020-08-08T10:11:35Z
+- name: Call Me By Your Name
+  author: André Aciman
+  uid: isbn:9781786495259
+  date: 2020-06-19T14:11:39Z
+- name: Alice's Adventures in Wonderland and Through the Looking-Glass
+  author: Lewis Carroll
+  uid: isbn:9780141439761
+  date: 2020-01-31T08:00:00Z
+- name: Electron in Action
+  author: Steve Kinney
+  uid: isbn:9781617294143
+  date: 2020-01-15T08:00:00Z
+- name: Permanent Record
+  author: Edward Snowden
+  uid: isbn:9781250237231
+  date: 2020-01-15T08:00:00Z
+- name: 'Presenting to Win: The Art of Telling Your Story'
+  author: Jerry Weissman
+  uid: isbn:9780130464132
+  date: 2020-01-15T08:00:00Z
+- name: 'Terraform: Up and Running'
+  author: Yevgeniy Brikman
+  uid: isbn:9789352135462
+  date: 2020-01-15T08:00:00Z
+- name: The Practice of Programming
+  author: Brian W. Kernighan
+  uid: isbn:9780201615869
+  date: 2018-06-25T07:00:00Z
+- name: The Perks of Being a Wallflower
+  author: Stephen Chbosky
+  uid: isbn:9781847394071
+  date: 2018-01-01T08:00:00Z
+- name: Brave New World
+  author: Aldous Huxley
+  uid: isbn:9781784870140
+  date: 2017-12-30T08:00:00Z
+- name: Animal Farm
+  author: George Orwell
+  uid: isbn:9780141036137
+  date: 2017-12-23T08:00:00Z
+- name: Fahrenheit 451
+  author: Ray Bradbury
+  uid: isbn:9780007181704
+  date: 2017-12-08T08:00:00Z
+- name: Memorial do Convento
+  author: José Saramago
+  uid: isbn:9789720046710
+  date: 2017-05-09T07:00:00Z
+- name: 'Zero to One: Notes on Start Ups, or How to Build the Future'
+  author: Peter Thiel
+  uid: isbn:9780753555200
+  date: 2017-05-09T07:00:00Z
+- name: 'Fantastic Beasts and Where to Find Them: The Original Screenplay'
+  author: J.K. Rowling
+  uid: isbn:9781408708989
+  date: 2017-01-30T08:00:00Z
+- name: Harry Potter and the Deathly Hallows
+  author: J.K. Rowling
+  uid: isbn:9781408855713
+  date: 2017-01-29T08:00:00Z
+- name: Harry Potter and the Half-Blood Prince
+  author: J.K. Rowling
+  uid: isbn:9781408855706
+  date: 2017-01-26T08:00:00Z
+- name: Harry Potter and the Order of the Phoenix
+  author: J.K. Rowling
+  uid: isbn:9781408855690
+  date: 2017-01-24T08:00:00Z
+- name: Harry Potter and the Goblet of Fire
+  author: J.K. Rowling
+  uid: isbn:9781408855683
+  date: 2017-01-20T08:00:00Z
+- name: Harry Potter and the Prisoner of Azkaban
+  author: J.K. Rowling
+  uid: isbn:9781408855676
+  date: 2017-01-14T08:00:00Z
+- name: Harry Potter and the Chamber of Secrets
+  author: J.K. Rowling
+  uid: isbn:9781408855669
+  date: 2017-01-09T08:00:00Z
+- name: Harry Potter and the Philosopher's Stone
+  author: J.K. Rowling
+  uid: isbn:9781408855652
+  date: 2017-01-01T08:00:00Z
+- name: Nineteen Eighty-Four
+  author: George Orwell
+  uid: isbn:9780141393049
+  date: 2016-10-14T07:00:00Z
+- name: Look Back in Anger
+  author: John Osborne
+  uid: isbn:9780571322763
+  date: 2016-09-23T07:00:00Z
+- name: O Leão, a Feiticeira e o Guarda-Roupa
+  author: C.S. Lewis
+  uid: isbn:9789722330206
+  date: 2015-02-28T08:00:00Z
+- name: O Rodrick é Terrível
+  author: Jeff Kinney
+  uid: isbn:9789896680060
+  date: 2015-02-28T08:00:00Z
+- name: A Fada Oriana
+  author: Sophia de Mello Breyner Andresen
+  uid: isbn:9789726611950
+- name: A Feiticeira de Paris
+  author: Álvaro Magalhães
+  uid: isbn:9789892321011
+- name: A Nova Inteligência
+  author: Daniel H. Pink
+  uid: isbn:9789724746203
+- name: A Porta das Três Fechaduras
+  author: Sonia Fernández-Vidal
+  uid: isbn:9789722349567
+- name: A Senhora da Magia
+  author: Marion Zimmer Bradley
+  uid: isbn:9789896373986
+- name: A Verdade Nua e Crua
+  author: Jeff Kinney
+  uid: isbn:9789897070433
+- name: A Viagem do Caminheiro da Alvorada
+  author: C.S. Lewis
+  uid: isbn:9789722331326
+- name: A Vida no Céu
+  author: José Eduardo Agualusa
+  uid: isbn:9789897221101
+- name: A maldição da estrela morta
+  author: Álvaro Magalhães
+  uid: isbn:9789892310817
+- name: A sombra do caçador
+  author: Álvaro Magalhães
+  uid: isbn:9789892310800
+- name: A Última Batalha
+  author: C.S. Lewis
+  uid: isbn:9789722332200
+- name: A Última Gota
+  author: Jeff Kinney
+  uid: isbn:9789896680589
+- name: A última noite do mundo
+  author: Álvaro Magalhães
+  uid: isbn:9789892317465
+- name: Apreciada
+  author: Caragh M. O'Brien
+  uid: isbn:9789895018987
+- name: Bananus Maximus
+  author: Tim Collins
+  uid: isbn:9789897071140
+- name: Breve História do Tempo
+  author: Stephen Hawking
+  uid: isbn:9789726620105
+- name: Capitães da Areia
+  author: Jorge Amado
+  uid: isbn:9789896530075
+- name: Cidades de Papel
+  author: John Green
+  uid: isbn:9789722352925
+- name: Contos
+  author: Eça de Queirós
+  uid: isbn:9789897110047
+- name: Convergente
+  author: Veronica Roth
+  uid: isbn:9789720043832
+- name: Divergente
+  author: Veronica Roth
+  uid: isbn:9789720043818
+- name: Diário de Um Vampiro Banana
+  author: Tim Collins
+  uid: isbn:9789898260840
+- name: Felizmente Há Luar!
+  author: Luís de Sttau Monteiro
+  uid: isbn:9789726277446
+- name: How to Win Friends and Influence People
+  author: Dale Carnegie
+  uid: isbn:9780091906818
+- name: Insurgente
+  author: Veronica Roth
+  uid: isbn:9789720043825
+- name: Marcados à Nascença
+  author: Caragh M. O'Brien
+  uid: isbn:9789895015870
+- name: Naufrágio na Ilha dos Piratas
+  author: Geronimo Stilton
+  uid: isbn:9789722339360
+- name: O Caderno das Piadas Secas
+  author: Gonçalo Castro
+  uid: isbn:9789898871077
+- name: O Cavalo e o seu Rapaz
+  author: C.S. Lewis
+  uid: isbn:9789722330558
+- name: O Diário de Um Lobisomem Banana
+  author: Tim Collins
+  uid: isbn:9789897070730
+- name: O Emplastro
+  author: Jeff Kinney
+  uid: isbn:9789897071188
+- name: O Essencial e Definitivo Harry Potter e a Filosofia
+  author: Gregory Bassham
+  uid: isbn:9789897180071
+- name: O Herói Desaparecido
+  author: Rick Riordan
+  uid: isbn:9789896574918
+- name: O Manuscrito Misterioso
+  author: Geronimo Stilton
+  uid: isbn:9789722334723
+- name: O Mistério da Casa Invisível
+  author: Enid Blyton
+  uid: isbn:9789895555673
+- name: O Mistério da Casa Queimada
+  author: Enid Blyton
+  uid: isbn:9789895554591
+- name: O Mistério da Gata Desaparecida
+  author: Enid Blyton
+  uid: isbn:9789895554607
+- name: O Mistério das Cartas Anónimas
+  author: Enid Blyton
+  uid: isbn:9789895554836
+- name: O Mistério do Colar Desaparecido
+  author: Enid Blyton
+  uid: isbn:9789895555222
+- name: O Mistério do Gato Cómico
+  author: Enid Blyton
+  uid: isbn:9789895557738
+- name: O Mistério do Ladrão Invisível
+  author: Enid Blyton
+  uid: isbn:9789895559541
+- name: O Mistério do Olho de Esmeralda
+  author: Geronimo Stilton
+  uid: isbn:9789722335157
+- name: O Mistério do Príncipe Desaparecido
+  author: Enid Blyton
+  uid: isbn:9789895560202
+- name: O Mistério do Quarto Secreto
+  author: Enid Blyton
+  uid: isbn:9789895554829
+- name: O Mistério do Saco da Roupa
+  author: Enid Blyton
+  uid: isbn:9789897410543
+- name: O Prenúncio das Águas
+  author: Rosa Lobato de Faria
+  uid: isbn:9789724129709
+- name: O Príncipe Caspian
+  author: C.S. Lewis
+  uid: isbn:9789722330978
+- name: O Rapaz de Bronze
+  author: Sophia de Mello Breyner Andresen
+  uid: isbn:9789726612032
+- name: O Sobrinho do Mágico
+  author: C.S. Lewis
+  uid: isbn:9789722329989
+- name: O Teorema Katherine
+  author: John Green
+  uid: isbn:9789892326337
+- name: O Trono de Prata
+  author: C.S. Lewis
+  uid: isbn:9789722331685
+- name: Operação "espelho meu"
+  author: Álvaro Magalhães
+  uid: isbn:9789892314969
+- name: Os Cinco e os Contrabandistas
+  author: Enid Blyton
+  uid: isbn:9789895558360
+- name: Os Cinco na Ilha do Tesouro
+  author: Enid Blyton
+  uid: isbn:9789895557745
+- name: Os Jogos da Fome
+  author: Suzanne Collins
+  uid: isbn:9789722342391
+- name: Os Livros Que Devoraram o Meu Pai
+  author: Afonso Cruz
+  uid: isbn:9789722120951
+- name: Os Lusíadas Contados às Crianças e Lembrados ao Povo
+  author: João de Barros
+  uid: isbn:9789898470249
+- name: Os Maias
+  author: Eça de Queirós
+  uid: isbn:978972004575
+- name: Para Onde Vão Os Guarda-Chuvas
+  author: Afonso Cruz
+  uid: isbn:9789896721978
+- name: Percy Jackson e a Batalha do Labirinto
+  author: Rick Riordan
+  uid: isbn:9789724620855
+- name: Percy Jackson e a Maldição do Titã
+  author: Rick Riordan
+  uid: isbn:9789724620251
+- name: Percy Jackson e o mar dos Monstros
+  author: Rick Riordan
+  uid: isbn:9789724622514
+- name: Percy Jackson e o Último Olimpiano
+  author: Rick Riordan
+  uid: isbn:9789724622415
+- name: Prometidos
+  author: Caragh M. O'Brien
+  uid: isbn:9789895018994
+- name: Príncipe da Tansilvânia
+  author: Tim Collins
+  uid: isbn:9789897070211
+- name: Pânico nos Himalaias
+  author: Geronimo Stilton
+  uid: isbn:9789722336390
+- name: Quatro Ratos no Faroeste!
+  author: Geronimo Stilton
+  uid: isbn:9789722344968
+- name: Quatro – Histórias da Série Divergente
+  author: Veronica Roth
+  uid: isbn:9789720047250
+- name: Sermão de Santo António aos Peixes
+  author: António Vieira
+  uid: isbn:9789898508386
+- name: The Giver
+  author: Lois Lowry
+  uid: isbn:9780385732550
+- name: Tirem-me Daqui!
+  author: Jeff Kinney
+  uid: isbn:9789897071102
+- name: Um Dia de Cão
+  author: Jeff Kinney
+  uid: isbn:9789896680596
+- name: Uma Aventura Secreta
+  author: Ana Maria Magalhães
+  uid: isbn:9789722114677
+- name: Uma Aventura em Lisboa
+  author: Ana Maria Magalhães
+  uid: isbn:9789722100212
+- name: Uma Aventura entre Douro e Minho
+  author: Ana Maria Magalhães
+  uid: isbn:9789722100052
+- name: Uma Aventura na Amazónia
+  author: Ana Maria Magalhães
+  uid: isbn:9789722120388
+- name: Uma Aventura na Casa Assombrada
+  author: Ana Maria Magalhães
+  uid: isbn:9789722111225
+- name: Uma Aventura na Praia
+  author: Ana Maria Magalhães
+  uid: isbn:9789722108997
+- name: Uma Aventura na Serra da Estrela
+  author: Ana Maria Magalhães
+  uid: isbn:9789722108379
+- name: Uma Aventura nas Férias do Natal
+  author: Ana Maria Magalhães
+  uid: isbn:9789722100014
+- name: Uma Aventura no Bosque
+  author: Ana Maria Magalhães
+  uid: isbn:9789722100045
+- name: Uma Aventura no Comboio
+  author: Ana Maria Magalhães
+  uid: isbn:9789722117906
+- name: Uma Aventura no Deserto
+  author: Ana Maria Magalhães
+  uid: isbn:9789722100205
+- name: Uma Aventura no Labirinto Misterioso
+  author: Ana Maria Magalhães
+  uid: isbn:9789722118606
+- name: Uma Aventura no Pulo do Lobo
+  author: Ana Maria Magalhães
+  uid: isbn:9789722121026
+- name: Uma Aventura no Verão
+  author: Ana Maria Magalhães
+  uid: isbn:9789722107747
+- name: Vem aí o cometa negro!
+  author: Álvaro Magalhães
+  uid: isbn:9789892313214
