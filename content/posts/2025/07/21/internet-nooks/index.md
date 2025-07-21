@@ -1,6 +1,7 @@
 ---
 title: Interesting Internet Nooks
 date: 2025-07-21T17:10:20+02:00
+lastmod: 2025-07-21T20:58:04+02:00
 location:
   latitude: 51.4459
   longitude: 5.46155
@@ -23,7 +24,7 @@ You know when you are sometimes just browsing the web, and you stumble upon a fa
 
 <!--more-->
 
-## 🏠 Websites
+## 🏠 Websites {#websites}
 
 - [**The World Wide Web History Project**](http://1997.webhistory.org/) is a website dating back fro 1997, whose goal was to document and preserve the history of the World Wide Web. It was nominated the *Cool Site of the Year* in 1997, and it contains a lot of information, and interesting artifacts, such as [this e-mail](http://1997.webhistory.org/www.lists/www-talk.1993q1/0186.html) from Tim Berners-Lee concerning the proposal of the `IMG` HTML element.
 - [**Nathan's Toasty Technology Page**](http://toastytech.com/) is one of those extremely random websites which feels like a museum in and of itself. It contains a lot of information and screenshots from old software, from error messages, to menus, to anything else you could imagine.
@@ -31,9 +32,9 @@ You know when you are sometimes just browsing the web, and you stumble upon a fa
 - [**GifCities**](https://gifcities.org/) is a more museum-like website, brought by the Internet Archive. It was part of a special project where the Internet Archive compiled many of the GIFs that could be found in [GeoCities](https://en.wikipedia.org/wiki/GeoCities) websites. I get some GIFs for this website there sometimes!
 - [**JAKE.MUSEUM**](https://jake.museum/) is a more modern version of a digital museum. It is a collection of "visual and hypertext media" by [Jake](https://jakelazaroff.com/). I really enjoy this idea of preserving websites and keeping your own small museum on the Internet. 
 - [**ITcorp.com**](https://itcorp.com) has been running since 1986. It is a very simple, plain HTML, website, that is one of the oldest, still-running, websites.
+- [**Windows 98 Icons**](https://win98icons.alexmeub.com/) is a collection of icons from Windows 98. The author of this website has also written a [piece](https://alexmeub.com/old-windows-icons/) on the design of said icons. He mentions that the icons "made the operating system feel like. place to get real work done" due to their "hard edges, soft colors and easy-to-recognize symbols".
 
-
-## ✉️ Blog Posts
+## 📝 Webpages {#webpages}
 
 - [**A One-Person Oral History of Geocities HTML Chat**](https://web.archive.org/web/20230627165311/https://cohost.org/mcc/post/325362-a-one-person-oral-hi) is a blog post describing someone's memories of the now defunct GeoCities, what it was, how it worked and how their HTML chat worked at the time. It's not something I ever experienced, but it sounded fun!
 - [**Putting 5,998,794 Books on IPFS**](https://web.archive.org/web/20230610234800/https://annas-blog.org/putting-5,998,794-books-on-ipfs.html) describes the experience of archiving a massive amount of books, and therefore data, using IPFS, and the challenges that come with it. [Anna's Archive](https://annas-archive.org/) claims to be "the world's largest open-source open-data library". As far as I understand, this shadow library does not, by itself, host any of the content. Instead, it is a massive search engine with the collection of the metadata of all these books.
