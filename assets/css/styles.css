@@ -681,6 +681,9 @@ main pre {
 .tb li > * {
   display: block;
   margin: var(--hms) 0;
+  text-overflow: ellipsis;
+  text-wrap: nowrap;
+  overflow: hidden;
 }
 
 .tb li > *:first-child {
