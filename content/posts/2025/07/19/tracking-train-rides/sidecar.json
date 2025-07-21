@@ -1,0 +1,20 @@
+{
+  "interactions": [
+    {
+      "author": "Nimo 🏳️‍🌈",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/e952da28a7a2f7ac2ebb1f1a2b393d411ea2c0bb24ae83539076590a1db203fc.jpg",
+      "authorUrl": "https://bsky.app/profile/nimobeeren.com",
+      "date": "2025-07-19T18:38:25Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lud2hmfjnp2k/did%253Aplc%253Albjgxkpi67g5yya7trkeemla",
+      "type": "like"
+    },
+    {
+      "author": "נקודה ופסיק; Semicolon",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/f75c6163f1cd46c036ff46caeafe5e3d6b9550adc6923009ac13506ff645d434.jpg",
+      "authorUrl": "https://tooot.im/@semicolon",
+      "date": "2025-07-19T15:44:07Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/114880100894708306/112458131620690812",
+      "type": "like"
+    }
+  ]
+}

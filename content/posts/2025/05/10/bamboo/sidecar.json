@@ -1,6 +1,14 @@
 {
   "interactions": [
     {
+      "author": "נקודה ופסיק; Semicolon",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/f75c6163f1cd46c036ff46caeafe5e3d6b9550adc6923009ac13506ff645d434.jpg",
+      "authorUrl": "https://tooot.im/@semicolon",
+      "date": "2025-07-19T15:44:11Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/114482592217927270/112458131620690812",
+      "type": "like"
+    },
+    {
       "author": "Sean Bates",
       "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/aac262117ed8515da66a8b0a9671175b726eb73ef37a1b974b057c7d70970ba5.jpg",
       "authorUrl": "https://bsky.app/profile/seanjbates.bsky.social",
