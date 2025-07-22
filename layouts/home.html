@@ -10,13 +10,13 @@
   {{- partialCached "post/content" . .Permalink -}}
 
   <div class='h-feed'>
-    {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "writings") -}}
-    <h2 id="freshly-planted"><a href='{{ relURL "/writings" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span></a></h2>
-    {{- template "index.items" (dict "pages" (first 8 $pages) "feed" true) -}}
+    {{- $writings := .Site.GetPage "/categories/writings" -}}
+    <h2 id="freshly-planted"><a href='{{ $writings.RelPermalink }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span></a></h2>
+    {{- template "index.items" (dict "pages" (first 8 $writings.Pages) "feed" true) -}}
 
-    <h2 id="freshly-captured"><a href='{{ relURL "/photos" }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
-    {{- $photos := where .Site.RegularPages "Params.categories" "intersect" (slice "photos") -}}
-    {{- template "index.photos" (dict "pages" (first 8 $photos) "feed" true) -}}
+    {{- $photos := .Site.GetPage "/categories/photos" -}}
+    <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
+    {{- template "index.photos" (dict "pages" (first 8 $photos.Pages) "feed" true) -}}
   </div>
 
   <h2 id="favourite-articles">🌟 Favourite Writings</h2>
