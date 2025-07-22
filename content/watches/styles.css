@@ -12,7 +12,3 @@
 .tb li {
   grid-template-columns: auto 5rem min-content;
 }
-
-.tb.performances li {
-  grid-template-columns: auto 10rem 5rem min-content;
-}
