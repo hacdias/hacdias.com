@@ -23,7 +23,7 @@ February is now past us, so it's time for me to quickly recap what has happened 
 
 On the backend side of the things, I re-added the possibility to [POSSE](https://indieweb.org/POSSE "Publish (on your) Own Site, Syndicate Elsewhere")! Specifically, to Mastodon. This just makes it easier for me to share posts, and thoughts, since it becomes automated. I wanted to do something similar for Bluesky, but their API ended up not being as simple as the one from Mastodon, so I haven't done it yet.
 
-On the frontend side of things, I added a new category and removed another one. I had already mentioned I wanted to remove the graphics category, since I didn't fit it very fitting, nor important. Instead, I now have [fragments](/fragments/). This should encompass all other types of posts, like shorter thoughts, notes, etc. I also cleaned up a few other things, here and there 🫧.
+On the frontend side of things, I added a new category and removed another one. I had already mentioned I wanted to remove the graphics category, since I didn't fit it very fitting, nor important. Instead, I now have ~~fragments~~. This should encompass all other types of posts, like shorter thoughts, notes, etc. I also cleaned up a few other things, here and there 🫧.
 
 ## 🍄 Life {#life}
 

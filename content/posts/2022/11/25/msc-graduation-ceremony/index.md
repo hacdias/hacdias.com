@@ -3,7 +3,7 @@ title: Master's Graduation Ceremony
 date: 2022-11-25T17:02:18+01:00
 lastmod: 2022-12-01T15:30:15.269071746+01:00
 categories:
-  - fragments
+  - writings
 feedContentWarning: true
 tags:
   - masters

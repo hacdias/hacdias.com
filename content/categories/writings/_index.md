@@ -1,9 +1,9 @@
 ---
 title: Writings
-description: My longer-form posts.
+description: My blog posts.
 aliases:
   - /articles/
 ---
 
-✏️ These are my longer-form posts. Visit the [archive](/writings/archive/) for an yearly view.
+✏️ These are my blog posts. Visit the [archive](/writings/archive/) for an yearly overview.
 {.box}

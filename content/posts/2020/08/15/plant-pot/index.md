@@ -6,7 +6,7 @@ photos:
     width: 2500
     height: 2500
 categories:
-  - fragments
+  - writings
 tags:
   - art
   - creative

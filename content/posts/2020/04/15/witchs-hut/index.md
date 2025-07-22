@@ -6,7 +6,7 @@ photos:
     width: 2388
     height: 1668
 categories:
-  - fragments
+  - writings
 tags:
   - art
   - creative

@@ -15,7 +15,7 @@ location:
   region: England
   country: United Kingdom
 categories:
-  - fragments
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/114001185305726133
   - https://fosstodon.org/@hacdias/114001280115980665

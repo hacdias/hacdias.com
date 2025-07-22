@@ -7,7 +7,7 @@ photos:
     width: 1280
     height: 1040
 categories:
-  - fragments
+  - writings
 syndication:
   - https://twitter.com/hacdias/status/1247801115342540800
 tags:
