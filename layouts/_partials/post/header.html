@@ -26,7 +26,7 @@
         {{ end }}
       </h{{ $header }}>
     {{- else if .Title -}}
-      {{ $isLong := or (not .Params.categories) (collections.In .Params.categories "writings") }}
+      {{ $isLong := strings.Contains .RawContent "<!--more-->" }}
       <h{{ $header }} class='p-name{{ if not $isLong }} smaller{{ end }}'>
         {{- if $isListing -}}<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">{{ end }}
           {{- .Title -}}

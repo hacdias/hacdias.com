@@ -10,7 +10,7 @@
   {{- partialCached "post/content" . .Permalink -}}
 
   <div class='h-feed'>
-    {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "writings" "fragments") -}}
+    {{- $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "writings") -}}
     <h2 id="freshly-planted"><a href='{{ relURL "/writings" }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span></a></h2>
     {{- template "index.items" (dict "pages" (first 8 $pages) "feed" true) -}}
 

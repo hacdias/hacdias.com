@@ -9,7 +9,7 @@ location:
   region: South Holland
   country: Netherlands
 categories:
-  - fragments
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/113992116470450705
 tags:

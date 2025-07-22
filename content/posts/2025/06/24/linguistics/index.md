@@ -8,7 +8,7 @@ location:
   region: North Brabant
   country: Netherlands
 categories:
-  - fragments
+  - writings
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lsdxrmnh3723
   - https://fosstodon.org/@hacdias/114738048472917182

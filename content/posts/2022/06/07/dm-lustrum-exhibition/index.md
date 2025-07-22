@@ -24,7 +24,7 @@ location:
   region: North Brabant
   country: Netherlands
 categories:
-  - fragments
+  - writings
 syndication:
   - https://twitter.com/hacdias/status/1534206131781902336
   - https://twitter.com/hacdias/status/1534206138077655040

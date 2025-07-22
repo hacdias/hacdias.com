@@ -4,7 +4,7 @@ date: 2021-05-04T08:36:43.327798065Z
 photos:
   - url: https://media.hacdias.com/2019-04-18-tecnico-tower.gif
 categories:
-  - fragments
+  - writings
 tags:
   - art
   - creative

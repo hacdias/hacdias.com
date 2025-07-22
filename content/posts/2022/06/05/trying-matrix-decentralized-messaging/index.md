@@ -8,7 +8,7 @@ location:
   region: North Brabant
   country: Netherlands
 categories:
-  - fragments
+  - writings
 tags:
   - decentralization
   - matrix

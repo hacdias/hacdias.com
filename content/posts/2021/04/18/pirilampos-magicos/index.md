@@ -5,7 +5,7 @@ lastmod: 2021-09-20T05:52:12.214578732Z
 photos:
   - url: https://media.hacdias.com/2021-04-18-pirilampos.gif
 categories:
-  - fragments
+  - writings
 tags:
   - art
   - creative

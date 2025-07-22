@@ -12,7 +12,7 @@ location:
   region: England
   country: United Kingdom
 categories:
-  - fragments
+  - writings
 syndication:
   - https://fosstodon.org/@hacdias/113995841954613221
 tags:
