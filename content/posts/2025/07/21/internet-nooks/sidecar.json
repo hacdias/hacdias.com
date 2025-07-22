@@ -1,6 +1,14 @@
 {
   "interactions": [
     {
+      "author": "juni im juli",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/6613088a26a08c0d260fd4dad5fc4ca8f7293b68ace327a00186414beea2d2a8.jpg",
+      "authorUrl": "https://mastodon.sdf.org/@juni",
+      "date": "2025-07-21T18:49:17Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/114891862996814585/110929135745363500",
+      "type": "like"
+    },
+    {
       "author": "Joe Crawford",
       "authorPhoto": "https://avatars.webmention.io/artlung.com/a0b5bad7e1082e08dc5e72e7f4760d40596782e04895da8b740023e7c1904d15.jpg",
       "date": "2025-07-21T16:18:48Z",
