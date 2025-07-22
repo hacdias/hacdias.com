@@ -19,6 +19,12 @@ How was last month?
 
 ## 📚 Reading {#reading}
 
+Books, articles, posts.
+
+## 🔗 Random {#random}
+
+Random links, things.
+
 ## 🍿 Entertainment {#entertainment}
 
 ## 🎮 Gaming {#gaming}
