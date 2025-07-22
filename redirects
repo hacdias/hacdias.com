@@ -59,3 +59,5 @@
 /articles/feed.xml /writings/feed.xml
 /readings/feed.json /writings/feed.json
 /readings/feed.xml /writings/feed.xml
+/fragments/feed.json /writings/feed.json
+/fragments/feed.xml /writings/feed.xml
