@@ -2,15 +2,18 @@
 title: Piranesi
 date: 2025-07-19T14:05:00+02:00
 categories:
-- readings
-tags:
-- reviews
+  - writings
+rating: 4
 read:
   author: Susanna Clarke
+  pages: 272
   publisher: Bloomsbury Publishing
   uid: isbn:9781526622440
-  pages: 272
-rating: 4
+tags:
+  - reviews
+  - book reviews
+  - fantasy
+  - literature
 ---
 
 This was the first book I read by Susanna Clarke. I heard about it at a friend's birthday party, after someone gifted this book to the birthday person. After seeing how gorgeous the cover was, and hearing a little bit about the story, I decided to buy it!

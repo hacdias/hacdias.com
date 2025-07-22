@@ -2,7 +2,7 @@
 title: The Island of Missing Trees
 date: 2022-12-25T11:20:30.172268833+01:00
 categories:
-  - readings
+  - writings
 rating: 4
 read:
   author: Elif Shafak
@@ -13,6 +13,7 @@ tags:
   - fantasy
   - literature
   - reviews
+  - book reviews
 ---
 
 I started reading this book in June and, even though I was enjoying it, life happened and I started reading very infrequently. I feel like this is a cycle that happens every year: in the beginning of the year I read a lot, during winter, and spring. Then summer comes and I stop reading.

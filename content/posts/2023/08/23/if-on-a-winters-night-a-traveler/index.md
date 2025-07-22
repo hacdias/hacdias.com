@@ -2,7 +2,7 @@
 title: If on a Winter's Night a Traveller
 date: 2023-08-23T20:13:25+02:00
 categories:
-  - readings
+  - writings
 rating: 3
 read:
   author: Italo Calvino
@@ -13,6 +13,7 @@ read:
 tags:
   - fantasy
   - reviews
+  - book reviews
 ---
 
 This is an unusual post: today I did not finish a book, but I decided to consciously stop reading it.

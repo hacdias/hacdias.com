@@ -25,7 +25,6 @@ This website provides Atom and JSON for all individual sections, as well as for 
 - **Home**: [Atom](/feed.xml), [JSON](/feed.json).
 - **Writings**: [Atom](/writings/feed.xml), [JSON](/writings/feed.json).
 - **Photos**: [Atom](/photos/feed.xml), [JSON](/photos/feed.json).
-- **Readings**: [Atom](/readings/feed.xml), [JSON](/readings/feed.json).
 
 ## 📦 Shoebox {#shoebox}
 

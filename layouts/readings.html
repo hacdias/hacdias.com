@@ -10,8 +10,9 @@
     grid-template-columns: auto 5rem min-content;
   }
   </style>
-
-  {{ $read := partial "fns/pages-as-logs" .Pages }}
+  
+  {{ $pages := where .Site.RegularPages ".Params.read" "ne" nil }}
+  {{ $read := partial "fns/pages-as-logs" $pages }}
   {{ $read = $read | append .Site.Data.readings }}
   {{ partial "logs" (dict "Data" $read) }}
 {{ end }}
