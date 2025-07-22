@@ -7,15 +7,11 @@
 
   <style>
   .tb li {
-    grid-template-columns: auto 16rem 78px;
-  }
-
-  .tb.read li {
-    grid-template-columns: auto 10rem 5rem 78px;
+    grid-template-columns: auto 5rem min-content;
   }
   </style>
 
   {{ $read := partial "fns/pages-as-logs" .Pages }}
   {{ $read = $read | append .Site.Data.readings }}
-  {{ partial "logs" (dict "Data" $read "WithAuthor" true "WithRating" true "Class" "read") }}
+  {{ partial "logs" (dict "Data" $read) }}
 {{ end }}

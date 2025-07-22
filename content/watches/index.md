@@ -12,7 +12,7 @@ This is an extensive list of [live performances](#performances), [movies](#movie
 
 ## 🎤 Performances {#performances}
 
-{{< logs data="watches.live" class="performances" withAuthor=true >}}
+{{< logs data="watches.live" >}}
 
 ## 🎬 Movies {#movies}
 

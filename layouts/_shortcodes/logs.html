@@ -1,2 +1,2 @@
 {{- $data := index .Site.Data (strings.Split (.Get "data") ".") -}}
-{{- partial "logs" (dict "Data" $data "WithAuthor" (.Get "withAuthor") "Class" (.Get "class")) -}}
+{{- partial "logs" (dict "Data" $data) -}}
