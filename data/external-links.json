@@ -1852,12 +1852,12 @@
     "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2023/06/23/windows-98-icons-are-great/",
-        "targetUrl": "https://alexmeub.com/old-windows-icons/"
+        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
+        "targetUrl": "https://win98icons.alexmeub.com/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2023/06/23/windows-98-icons-are-great/",
-        "targetUrl": "https://win98icons.alexmeub.com/"
+        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
+        "targetUrl": "https://alexmeub.com/old-windows-icons/"
       }
     ]
   },
@@ -1970,20 +1970,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/07/03/an-update-to-my-digid-saga-and-drivers-licenses/",
         "targetUrl": "https://mijn.digid.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "engineersneedart.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/22/adam74/",
-        "targetUrl": "https://www.engineersneedart.com/adam74/adam74.html"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://www.engineersneedart.com"
       }
     ]
   },
@@ -2650,16 +2636,6 @@
     ]
   },
   {
-    "domain": "ane.iki.fi",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/21/been-there-done-that/",
-        "targetUrl": "https://ane.iki.fi/2022/06/21/beenthere-donethat.html"
-      }
-    ]
-  },
-  {
     "domain": "animo.id",
     "count": 1,
     "links": [
@@ -2940,16 +2916,6 @@
     ]
   },
   {
-    "domain": "catern.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/17/introduction-the-most-common-systems-concept-youve-never-heard-of/",
-        "targetUrl": "https://catern.com/introduction.html"
-      }
-    ]
-  },
-  {
     "domain": "cbs.nl",
     "count": 1,
     "links": [
@@ -2966,16 +2932,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/11/22/little-languages-are-the-future-of-programming/",
         "targetUrl": "https://chreke.com/little-languages.html"
-      }
-    ]
-  },
-  {
-    "domain": "chris-granger.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/12/10/is-web3-anything/",
-        "targetUrl": "https://www.chris-granger.com/2021/12/09/is-web3-anything/"
       }
     ]
   },
@@ -3016,16 +2972,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
         "targetUrl": "https://commentpara.de"
-      }
-    ]
-  },
-  {
-    "domain": "computationalcomplexity.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/16/when-did-computer-science-theory-get-so-hard/",
-        "targetUrl": "http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html"
       }
     ]
   },
@@ -3076,16 +3022,6 @@
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
         "targetUrl": "http://daviddias.me"
-      }
-    ]
-  },
-  {
-    "domain": "decentralizedthoughts.github.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/14/private-set-intersection/",
-        "targetUrl": "https://decentralizedthoughts.github.io/2020-03-29-private-set-intersection-a-soft-introduction/"
       }
     ]
   },
@@ -3156,16 +3092,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
         "targetUrl": "https://donaldduck.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "dotat.at",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/06/an-update-on-leap-seconds/",
-        "targetUrl": "https://dotat.at/@/2022-12-04-leap-seconds.html"
       }
     ]
   },
@@ -3250,12 +3176,12 @@
     ]
   },
   {
-    "domain": "elisehe.in",
+    "domain": "engineersneedart.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/11/19/the-wasted-potential-of-css-attribute-selectors/",
-        "targetUrl": "https://elisehe.in/2022/10/16/attribute-selectors"
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://www.engineersneedart.com"
       }
     ]
   },
@@ -3596,26 +3522,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/11/04/trying-out-ovpay/",
         "targetUrl": "https://www.htm.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "html-first.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/12/html-first/",
-        "targetUrl": "https://html-first.com/"
-      }
-    ]
-  },
-  {
-    "domain": "igalia.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/18/new-custom-handlers-component-for-chrome/",
-        "targetUrl": "https://blogs.igalia.com/jfernandez/2022/08/10/new-custom-handlers-component-for-chrome/"
       }
     ]
   },
@@ -4230,16 +4136,6 @@
     ]
   },
   {
-    "domain": "overreacted.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/16/goodbye-clean-code/",
-        "targetUrl": "https://overreacted.io/goodbye-clean-code/"
-      }
-    ]
-  },
-  {
     "domain": "owncloud.org",
     "count": 1,
     "links": [
@@ -4486,16 +4382,6 @@
       {
         "sourceUrl": "https://hacdias.com/2024/06/21/rungap-an-end-to-boschs-malformed-fit-files/",
         "targetUrl": "https://www.rungap.com/"
-      }
-    ]
-  },
-  {
-    "domain": "sanctum.geek.nz",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/16/vim-anti-patterns/",
-        "targetUrl": "https://blog.sanctum.geek.nz/vim-anti-patterns/"
       }
     ]
   },
@@ -4820,16 +4706,6 @@
     ]
   },
   {
-    "domain": "thorstenball.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/20/why-threads-cant-fork/",
-        "targetUrl": "https://thorstenball.com/blog/2014/10/13/why-threads-cant-fork/"
-      }
-    ]
-  },
-  {
     "domain": "tigertech.net",
     "count": 1,
     "links": [
@@ -4866,16 +4742,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/03/31/recently/",
         "targetUrl": "https://tryhackme.com/"
-      }
-    ]
-  },
-  {
-    "domain": "tumblr.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/06/30/dont-lie-to-me-about-web-2-0/",
-        "targetUrl": "https://accordion-druid.tumblr.com/post/685175656750972928/dont-lie-to-me-about-web-20"
       }
     ]
   },
