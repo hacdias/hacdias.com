@@ -1,5 +1,5 @@
 ---
-title: Readings
+title: Books That I Have Read
 description: An extensive list of all the books I remember ever reading.
 layout: readings
 ---

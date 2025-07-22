@@ -2,7 +2,7 @@
 title: The House in the Cerulean Sea
 date: 2022-01-22T22:02:22.969462984Z
 categories:
-  - readings
+  - writings
 rating: 5
 read:
   author: TJ Klune
@@ -12,6 +12,7 @@ read:
 tags:
   - fantasy
   - reviews
+  - book reviews
 ---
 
 Today, I finished reading "The House in the Cerulean Sea" by TJ Klune and I was just want to say that it was beautifully constructed. 

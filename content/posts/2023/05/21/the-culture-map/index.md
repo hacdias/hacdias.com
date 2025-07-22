@@ -2,7 +2,7 @@
 title: The Culture Map
 date: 2023-05-21T10:43:05.204685421+02:00
 categories:
-  - readings
+  - writings
 rating: 5
 read:
   author: Erin Meyer
@@ -13,6 +13,7 @@ tags:
   - cultures
   - personal growth
   - reviews
+  - book reviews
 ---
 
 A few days ago I started reading this book by Erin Meyer, *The Culture Map*. And,
