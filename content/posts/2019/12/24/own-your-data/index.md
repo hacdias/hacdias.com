@@ -6,7 +6,7 @@ categories:
   - writings
 tags:
   - privacy
-  - reflection
+  - reflections
 thumbnail: https://media.hacdias.com/2019-12-24-data-computer.jpeg
 ---
 

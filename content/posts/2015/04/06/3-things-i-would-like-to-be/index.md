@@ -5,7 +5,7 @@ date: 2015-04-06T20:05:27Z
 categories:
   - writings
 tags:
-  - reflection
+  - reflections
 ---
 
 If you've been following me through the past time,  you probably know I want to go further in technology field (if you didn't know, read my [about page](/about)). But it is not the unique thing I would like to be because there are 3 things I would like to be.

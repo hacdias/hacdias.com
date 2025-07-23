@@ -15,7 +15,7 @@ syndication:
   - https://fosstodon.org/@hacdias/114682042082736759
 tags:
   - open source
-  - reflection
+  - reflections
 ---
 
 Last month was Maintainer Month, a month were open source software maintainers are celebrated. A lot of the software in the world - and thus society itself - runs on open source software, which is something not known to a lot of people. During this past month, I read a few posts here and there about people sharing their journey and experience as an open source maintainer, and today I wanted to give my take on it.

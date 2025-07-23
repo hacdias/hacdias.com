@@ -6,7 +6,7 @@ categories:
 tags:
   - indieweb
   - meta
-  - reflection
+  - reflections
 ---
 
 Today I had a bit too much time that I decided to work on my website. In the morning, I made a few tweaks to the home page in order to make it more useful: added some contact and social media links, as well as links for some pages on my website that are not included in the navigation bar. I think I achieved a neat result.

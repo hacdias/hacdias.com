@@ -6,7 +6,7 @@ categories:
   - writings
 tags:
   - creative
-  - reflection
+  - reflections
 ---
 
 Everyday I hear people complaining here and there. They complain about almost everything: from the pencil which isn't on its place to the government's rules. I think is doesn't occurs only here, of course. Maybe it's a problem of adults (some of them, no offense). I see them complaining every single second. If you're not this type of person, I believe you should have seen some of them.

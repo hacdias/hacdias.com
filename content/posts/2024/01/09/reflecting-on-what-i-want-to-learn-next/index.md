@@ -5,7 +5,7 @@ categories:
   - writings
 tags:
   - personal growth
-  - reflection
+  - reflections
   - work
 thumbnail: image:2024-01-09-summery-leaves
 ---
