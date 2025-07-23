@@ -48,4 +48,6 @@ thumbnail: image:2022-06-07-dm-photo-1
 .fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(5) { grid-area: e; }
 </style>
 
-A few days ago, we had the Lustrum Gala of Dekate Mousa, the photography association and it was a very nice experience! During the gala, we all had the opportunity to see the Lustrum Exhibition! Today at 8pm, the exhibition officially opens for the public at the [CKE](https://cke.nl/) in Eindhoven. I'm so proud to have 3 of my pictures hanging there, even though it's such a small thing. If you are in Eindhoven during this and next week, don't hesitate! It's free and there's very very very nice works.
+A few days ago, we had the Lustrum Gala of Dekate Mousa, the photography association and it was a very nice experience! During the gala, we all had the opportunity to see the Lustrum Exhibition! Today at 8pm, the exhibition officially opens for the public at the [CKE](https://cke.nl/) in Eindhoven.
+
+I'm so proud to have 3 of my pictures hanging there, even though it's such a small thing. If you are in Eindhoven during this and next week, don't hesitate! It's free and there's very very very nice works.
