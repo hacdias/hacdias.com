@@ -6,7 +6,7 @@ categories:
 tags:
   - creative
   - poetry
-  - writing
+  - reflections
 ---
 
 Last night before going to sleep... well actually while falling asleep I thought about writing this. It's such a basic poem, but lemme just share it here.

@@ -4,7 +4,7 @@ date: 2023-12-07T20:07:28.278893442+01:00
 categories:
   - writings
 tags:
-  - reflection
+  - reflections
   - bookmarks
   - people
   - work

@@ -5,7 +5,7 @@ date: 2014-11-07T20:28:27Z
 categories:
   - writings
 tags:
-  - reflection
+  - reflections
   - society
 ---
 

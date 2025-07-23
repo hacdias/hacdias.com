@@ -8,7 +8,7 @@ syndication:
   - https://twitter.com/hacdias/status/1231484792027348994
 tags:
   - meta
-  - reflection
+  - reflections
   - year in popcorn
 ---
 

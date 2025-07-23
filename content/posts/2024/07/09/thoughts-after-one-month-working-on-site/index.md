@@ -7,7 +7,7 @@ syndication:
   - https://fosstodon.org/@hacdias/112758171014792096
 tags:
   - personal growth
-  - reflection
+  - reflections
   - work
 ---
 

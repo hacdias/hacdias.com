@@ -15,9 +15,10 @@ syndication:
   - https://bsky.app/profile/hacdias.com/post/3luibmfjgzp2x
   - https://news.indieweb.org/en
 tags:
-  - archive
+  - archival
   - fun
   - web
+  - bookmarks
 ---
 
 You know when you are sometimes just browsing the web, and you stumble upon a fascinating place that could be an art piece in a museum? Yes, those weird, odd, interesting websites, either because their old and charming, or because they're trying with a different concept. Today, I am sharing a few of those places I have found over the last years.

@@ -4,7 +4,7 @@ date: 2023-02-24T11:18:11.90446707+01:00
 categories:
   - writings
 tags:
-  - reflection
+  - reflections
   - second brain
 ---
 

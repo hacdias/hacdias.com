@@ -6,7 +6,7 @@ categories:
   - writings
 tags:
   - personal growth
-  - reflection
+  - reflections
   - work
 ---
 

@@ -5,7 +5,7 @@ categories:
   - writings
 tags:
   - gym
-  - reflection
+  - reflections
   - sports
 ---
 

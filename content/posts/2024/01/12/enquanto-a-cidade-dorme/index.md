@@ -7,7 +7,7 @@ language: pt
 tags:
   - poetry
   - portuguese
-  - writing
+  - creative
 ---
 
 Lembro-me de que, em 2013, li um livro do qual gostei imenso: *Enquanto a Cidade Dorme* de Álvaro Magalhães. Não me lembro precisamente porquê, mas a história fascinou-me. Como resumo, escrevi a 15 de setembro de 2013 este poema.

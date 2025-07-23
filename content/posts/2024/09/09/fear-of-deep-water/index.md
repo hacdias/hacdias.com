@@ -5,7 +5,7 @@ categories:
   - writings
 tags:
   - fears
-  - reflection
+  - reflections
   - sports
 thumbnail: image:2024-09-09-swimming-pool
 ---

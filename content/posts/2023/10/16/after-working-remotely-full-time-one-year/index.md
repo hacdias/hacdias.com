@@ -8,7 +8,7 @@ syndication:
 tags:
   - life
   - personal growth
-  - reflection
+  - reflections
   - work
 ---
 

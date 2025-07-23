@@ -9,7 +9,7 @@ tags:
   - government
   - identity
   - personal growth
-  - reflection
+  - reflections
 thumbnail: image:2024-01-10-sun-bench
 ---
 
