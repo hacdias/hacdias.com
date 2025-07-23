@@ -21,7 +21,7 @@ Just like last year, a lot of "[App Defaults](https://defaults.rknight.me/)" pos
 - 🟦 Photo Management: Apple Photos, file system for RAW
 - 🌐 Browser: Chrome on macOS, Safari on iOS
 - 💬 Chat: WhatsApp, Telegram, Signal
-- 🔖 Bookmarks: Browser, ~~Linkding~~ → Browser, [Bookmarks Page](/bookmarks/)
+- 🔖 Bookmarks: Browser, ~~Linkding~~ → Browser, This Website
 - 📑 Read It Later: Apple Reminders
 - 🛒 Shopping Lists: Apple Reminders
 - 📄 Documents: Google Docs, Markdown
