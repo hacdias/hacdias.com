@@ -104,7 +104,7 @@ Software Engineer passionate about open source, user agency, decentralization, i
   from="01/2015" to="present" >}}
 
 - Author, maintainer and contributor of several open source projects.
-- Creator of [File Browser](https://github.com/filebrowser/filebrowser), a Go and Vue.js self-hosted file hosting service. It has more than 25K stars on GitHub and over 50M downloads across different platforms. Now community maintained.
+- Creator of [File Browser](https://github.com/filebrowser/filebrowser), a Go and Vue.js self-hosted file hosting service. It has more than 30K stars on GitHub and over 100M downloads across different platforms. Now community maintained.
 
 {{</ resume-position >}}
 
