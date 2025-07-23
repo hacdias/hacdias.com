@@ -834,6 +834,10 @@ nav a[aria-current='page'] {
     display: flow-root;
   }
 
+  .tb li > * {
+    text-wrap: wrap;
+  }
+
   .fg {
     grid-gap: 0.5rem;
   }
