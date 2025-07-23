@@ -85,7 +85,7 @@ The list below contains some of my favorite software, or software that I use on 
 - **Photo Management** <span>Apple Photos, file system for RAW</span>
 - **Browser** <span>Chrome on macOS, Safari on iOS</span>
 - **Chat** <span>WhatsApp, Telegram, Signal</span>
-- **Bookmarks** <span>Browser, [Bookmarks Page](/bookmarks/)</span>
+- **Bookmarks** <span>Browser, This Website</span>
 - **Read It Later** <span>Apple Reminders</span>
 - **Shopping Lists** <span>Apple Reminders</span>
 - **Documents** <span>Google Docs, Markdown</span>

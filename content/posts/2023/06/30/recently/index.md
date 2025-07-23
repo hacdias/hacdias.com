@@ -21,7 +21,7 @@ I removed and cleaned up a bunch. Started by removing some old micro posts that 
 
 Still within the same topic, I removed the drinks and foods pages as they were painfully out of date and no longer relevant in my opinion. Nothing I would see myself maintaining in the future. With that being said, I cleaned up the Meta/Colophon page of this website and merged it under the [🧁 About](/about/) page.
 
-I also started using [Linkding](https://github.com/sissbruecker/linkding), a bookmarking tool to manage my bookmarks, which now backs my [🔖 Bookmarks](/bookmarks/) page. Finally, I touched up the theme of this website, cleaned up a bunch of unused CSS and streamlined some looks. In addition, I got some new entries in my [📖 Guestbook](/guestbook/) suggesting me to make a dark theme. Should I? It's not as easy as it seems!
+I also started using [Linkding](https://github.com/sissbruecker/linkding), a bookmarking tool to manage my bookmarks, which now backs my 🔖 Bookmarks page. Finally, I touched up the theme of this website, cleaned up a bunch of unused CSS and streamlined some looks. In addition, I got some new entries in my [📖 Guestbook](/guestbook/) suggesting me to make a dark theme. Should I? It's not as easy as it seems!
 
 ## 🍄 Life {#life}
 

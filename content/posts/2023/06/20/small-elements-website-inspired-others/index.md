@@ -42,7 +42,7 @@ In [May](/2023/05/31/recently/) I made a relatively noticeable update to my home
 
 ## Bookmarks Page
 
-Finally, the [bookmarks](/bookmarks/) page. My bookmarks page is likely not yet complete and, just like anything else in this website, it can change in the future. Nevertheless, the current iteration is based on [Seirdy's bookmarks](https://seirdy.one/bookmarks/). I also "stole" a small idea from [Jim's notes](https://notes.jim-nielsen.com/) where the published date is also an anchor reference. Therefore, all bookmarks are linkable.
+Finally, the bookmarks page. My bookmarks page is likely not yet complete and, just like anything else in this website, it can change in the future. Nevertheless, the current iteration is based on [Seirdy's bookmarks](https://seirdy.one/bookmarks/). I also "stole" a small idea from [Jim's notes](https://notes.jim-nielsen.com/) where the published date is also an anchor reference. Therefore, all bookmarks are linkable.
 
 ![](image:2023-06-20-small-elements-website-inspired-others-04)
 

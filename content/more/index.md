@@ -7,7 +7,6 @@ This website contains more than it looks at first glance. Here you can find a li
 
 <!--more-->
 
-- [🔖 Bookmarks](/bookmarks/)
 - [🗞️ Blogroll](/blogroll/)
 - [🚀 Impossible List](/impossible-list/)
 - [📚 Readings](/readings/)
