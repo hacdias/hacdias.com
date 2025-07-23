@@ -71,6 +71,11 @@
       "feed": "https://zerokspot.com/index.xml"
     },
     {
+      "title": "Hundred Rabbits",
+      "site": "https://100r.co",
+      "feed": "https://100r.co/links/rss.xml"
+    },
+    {
       "title": "Interdependent Thoughts",
       "site": "https://www.zylstra.org/blog",
       "feed": "https://www.zylstra.org/blog/feed/"
@@ -176,6 +181,11 @@
       "feed": "https://notes.eatonphil.com/rss.xml"
     },
     {
+      "title": "Pketh",
+      "site": "https://pketh.org",
+      "feed": "https://pketh.org/feed.xml"
+    },
+    {
       "title": "Rakhim Davletkaliyev",
       "site": "https://rakhim.org/",
       "feed": "https://rakhim.org/index.xml"
@@ -238,6 +248,11 @@
       "feed": "https://heyokyay.com/feed/"
     },
     {
+      "title": "The Perry Bible Fellowship",
+      "site": "https://pbfcomics.com/",
+      "feed": "https://pbfcomics.com/feed/"
+    },
+    {
       "title": "Wizard Zines",
       "site": "https://wizardzines.com",
       "feed": "https://wizardzines.com/index.xml"
@@ -297,19 +312,9 @@
   ],
   "self": [
     {
-      "title": "Bookmarks - Henrique Dias",
-      "site": "https://hacdias.com/bookmarks/",
-      "feed": "https://hacdias.com/bookmarks/feed.xml"
-    },
-    {
       "title": "Home - Henrique Dias",
       "site": "https://hacdias.com/",
       "feed": "https://hacdias.com/feed.xml"
-    },
-    {
-      "title": "Readings - Henrique Dias",
-      "site": "https://hacdias.com/readings/",
-      "feed": "https://hacdias.com/readings/feed.xml"
     }
   ]
 }
