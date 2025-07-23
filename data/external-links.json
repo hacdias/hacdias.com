@@ -986,10 +986,6 @@
         "targetUrl": "https://web.archive.org/web/20220824143133/https://ramses.blog/how-take-notes-part-1/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
-        "targetUrl": "https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
         "targetUrl": "https://web.archive.org/web/20230627165311/https://cohost.org/mcc/post/325362-a-one-person-oral-hi"
       },
@@ -1000,6 +996,10 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
         "targetUrl": "https://web.archive.org/web/20231112182024/https://arne.me/articles/archive-your-old-projects"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
+        "targetUrl": "https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings"
       }
     ]
   },
@@ -1880,7 +1880,7 @@
     "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/08/16/what-is-the-small-web/",
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://ar.al/2020/08/07/what-is-the-small-web/"
       },
       {
@@ -2816,6 +2816,16 @@
     ]
   },
   {
+    "domain": "blogroll.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
+        "targetUrl": "https://blogroll.org/"
+      }
+    ]
+  },
+  {
     "domain": "bloodontheclocktower.com",
     "count": 1,
     "links": [
@@ -3230,7 +3240,7 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://fediring.net/"
       }
     ]
@@ -3582,6 +3592,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/06/25/air-quality/",
         "targetUrl": "https://intergalactic.systems/posts/post-1965946732.html"
+      }
+    ]
+  },
+  {
+    "domain": "internetphonebook.net",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
+        "targetUrl": "https://internetphonebook.net/"
       }
     ]
   },
@@ -4100,8 +4120,8 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2023/11/17/ooh-directory/",
-        "targetUrl": "https://ooh.directory/"
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
+        "targetUrl": "https://ooh.directory"
       }
     ]
   },
@@ -4210,7 +4230,7 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/11/15/personalsit-es/",
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://personalsit.es/"
       }
     ]
@@ -4640,7 +4660,7 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2021/11/15/the-big-list-of-personal-websites/",
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "http://biglist.terraaeon.com/"
       }
     ]
@@ -4660,7 +4680,7 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://theforest.link/"
       }
     ]
@@ -5000,7 +5020,7 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://xn--sr8hvo.ws/"
       }
     ]
@@ -5010,7 +5030,7 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/12/14/webring-directory/",
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://webring.xxiivv.com/"
       }
     ]
