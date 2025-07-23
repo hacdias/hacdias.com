@@ -23,7 +23,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Interrail across 🇪🇺 Europe
   - [x] 10 Day Intrarail in 🇮🇹 Italy <small>[September 2022]</small>
 - [ ] See the Aurora Borealis
--  [ ] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair)
+-  [x] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair) <small>[April 2025, Osaka]</small>
 - [x] Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train <small>[April 2022, [Eurostar](https://www.eurostar.com/)]</small>
 - [x] Travel on a 🚂 steam train <small>[[July 2023](/2023/07/31/recently/#life), [Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)]</small>
 - [x] Travel on a 🍽️ restaurant train <small>[[August 2023](/2023/08/31/recently/), [Dinner Train](https://en.wikipedia.org/wiki/Dinner_Train_(Netherlands))]</small>
