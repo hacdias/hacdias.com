@@ -17,7 +17,6 @@ tags:
   - travel
   - portugal
   - work
-  - weather
 ---
 
 One more month has passed, and June is now away from us. We've officially entered the last half of the year, at least when it comes to counting months. It was quite a busy month, with travel, new job, events, and the heat! Let's take a look.

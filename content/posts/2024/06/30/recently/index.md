@@ -7,7 +7,6 @@ tags:
   - now
   - work
   - travel
-  - weather
   - life
 ---
 

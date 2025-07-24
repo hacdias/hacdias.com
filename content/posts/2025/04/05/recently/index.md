@@ -16,7 +16,6 @@ tags:
   - now
   - entertainment
   - travel
-  - weather
   - life
 ---
 
