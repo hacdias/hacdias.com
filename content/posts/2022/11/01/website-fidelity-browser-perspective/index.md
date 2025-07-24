@@ -3,9 +3,10 @@ title: 'Website Fidelity: Browser Perspective'
 date: 2022-11-01T08:29:43Z
 bookmark-of: https://blog.jim-nielsen.com/2022/website-fidelity-browser/
 categories:
-  - bookmarks
+  - writings
 tags:
   - web
+  - bookmarks
 wa-bookmark-of: https://web.archive.org/web/20230327112136/https://blog.jim-nielsen.com/2022/website-fidelity-browser/
 ---
 

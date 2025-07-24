@@ -3,10 +3,11 @@ title: How Many Layers of UI Inconsistencies Are in Windows 11?
 date: 2023-01-02T14:06:13Z
 bookmark-of: https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/
 categories:
-  - bookmarks
+  - writings
 tags:
   - gui
   - windows
+  - bookmarks
 wa-bookmark-of: https://web.archive.org/web/20230611001138/https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/
 ---
 

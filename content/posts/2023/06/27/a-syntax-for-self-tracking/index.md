@@ -3,10 +3,11 @@ title: A Syntax for Self-Tracking
 date: 2023-06-27T13:41:18.958524Z
 bookmark-of: https://www.gibney.org/a_syntax_for_self-tracking
 categories:
-  - bookmarks
+  - writings
 tags:
   - data
   - tracking
+  - bookmarks
 wa-bookmark-of: https://web.archive.org/web/20230627125125/https://www.gibney.org/a_syntax_for_self-tracking
 ---
 

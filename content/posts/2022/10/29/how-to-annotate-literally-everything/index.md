@@ -3,6 +3,8 @@ title: How To Annotate Literally Everything
 date: 2022-10-29T22:18:23Z
 bookmark-of: https://beepb00p.xyz/annotating.html
 categories:
+  - writings
+tags:
   - bookmarks
 wa-bookmark-of: https://web.archive.org/web/20230607075939/https://beepb00p.xyz/annotating.html
 ---
