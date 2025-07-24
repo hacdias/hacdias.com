@@ -1,58 +1,17 @@
 {{ $links := index .Site.Data "external-links" }}
 
 <style>
-.external summary {
-  padding: var(--hms);
-  word-wrap: break-word;
-  position: sticky;
-  top: 0;
-  z-index: 1;
-  border-bottom: 1px solid var(--fg);
-  background: var(--bg);
-}
-
-.external:first-of-type summary {
-  border-top: 1px solid var(--fg);
-}
-
-.external summary:hover {
-  background: var(--mg)
-}
-
-.external summary .count {
-  float: right;
-}
-
-.external table {
-  margin: 0;
-  font-size: var(--f5);
+.tb li {
+  grid-template-columns: auto min-content;
 }
 </style>
 
-{{ range $links }}
-<details class='external'>
-  <summary>
-    {{ partialCached "favicon" .domain .domain }}
-    <small>{{ .domain }}</small>
-    <small class='lg count'>{{ .count }}</small>
-  </summary>
-
-  <table>
-    <thead>
-      <tr>
-        <th>hacdias.com</th>
-        <th>{{ .domain }}</th>
-      </tr>
-    </thead>
-
-    <tbody>
-      {{ range $i, $lnk := .links }}
-      <tr>
-        <td><a href="{{ .sourceUrl }}">{{ (urls.Parse .sourceUrl).Path }}</a></td>
-        <td><a href="{{ .targetUrl }}" rel="noreferrer noopener">{{ or ((urls.Parse .targetUrl).Path) "/" }}</a></td>
-      </tr>
-      {{ end }}
-    </tbody>
-  </table>
-</details>
-{{ end }}
+<ul class='tb'>
+  {{ range $links }}
+    <li>
+      
+      <small>{{ partialCached "favicon" .domain .domain }} {{ .domain }}</small>
+      <small class='lg count'>{{ .count }}</small>
+    </li>
+  {{ end }}
+</ul>
