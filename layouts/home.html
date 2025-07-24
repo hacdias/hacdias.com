@@ -41,6 +41,7 @@
     <a href='{{ .RelPermalink }}' class='nl lh{{ if $.feed }} u-url{{ end }}'>
       <span class='p-name'>{{ .Title }}</span>
       {{- with .Params.read }} <span class='lg wn'>by {{ .author }}</span>{{ end -}}
+      {{- with index .Params "bookmark-of" }} <span class='lg wn'>via {{ (urls.Parse .).Host }}</span>{{ end -}}
     </a>
     <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small{{ if $.feed }} dt-published{{ end }}'>{{ .Date.Format "2006-01-02" }}</time>
   </li>
