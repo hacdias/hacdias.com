@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Stick
+  season: 1
+  rating: 4
+  date: 2025-07-23
 - name: Murderbot
   season: 1
   rating: 4

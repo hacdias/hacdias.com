@@ -1,12 +1,22 @@
 ---
 title: Building Software For Fun
 date: 2025-07-23T18:46:59+02:00
+location:
+  latitude: 51.44588
+  longitude: 5.46071
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
-- writings
+  - writings
+syndication:
+  - https://fosstodon.org/@hacdias/114903564184021793
+  - https://bsky.app/profile/hacdias.com/post/3lunhvib5ro2w
+  - https://news.indieweb.org/en
 tags:
-- software
-- fun
-- bookmarks
+  - software
+  - fun
+  - bookmarks
 ---
 
 Time and time again, I have come across articles about [writing "useless" software](https://ntietz.com/blog/write-more-useless-software/), or [programming as play](https://austinhenley.com/blog/programmingasplay.html). These sort of articles always wake up something in me. They focus on programming as a fun, playful thing, instead of making things with a hard purpose.
