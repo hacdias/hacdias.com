@@ -9,6 +9,11 @@ syndication:
   - https://twitter.com/hacdias/status/1311562183856320512
 tags:
   - now
+  - personal website
+  - art
+  - thesis
+  - life
+  - university
 ---
 
 Today's the first day of a new month, so here's a new "recently" post. Since I decided to start this series after [mid-september](/2020/09/21/recently), there's not that many news since. However, I'm more than happy to write a few words about what's been happening lately.

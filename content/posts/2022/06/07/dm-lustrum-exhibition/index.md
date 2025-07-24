@@ -29,7 +29,7 @@ syndication:
   - https://twitter.com/hacdias/status/1534206131781902336
   - https://twitter.com/hacdias/status/1534206138077655040
 tags:
-  - goals
+  - milestones
 thumbnail: image:2022-06-07-dm-photo-1
 ---
 

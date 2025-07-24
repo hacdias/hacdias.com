@@ -14,6 +14,10 @@ syndication:
   - https://bsky.app/profile/hacdias.com/post/3lqd7ktsbec27
 tags:
   - now
+  - entertainment
+  - travel
+  - weather
+  - life
 ---
 
 March has ended a few days ago, meaning that this recap is coming a bit later than usual. Maybe it is a product of the weather being nicer, and the fact that I've been a bit more busy than usual. It's been quite some hectic days!

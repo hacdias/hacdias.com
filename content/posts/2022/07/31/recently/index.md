@@ -7,6 +7,9 @@ categories:
   - writings
 tags:
   - now
+  - travel
+  - life
+  - people
 ---
 
 July is ending for most of us in a few hours and August will start. This is when most people go for vacation and have their summer holidays. Let's look at what I've been doing during July, which has been a very very busy month - I feel like I've been saying this every month.

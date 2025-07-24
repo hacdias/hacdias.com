@@ -5,6 +5,10 @@ categories:
   - writings
 tags:
   - now
+  - fosdem
+  - dutch
+  - travel
+  - life
 thumbnail: image:2024-02-29-vienna-inception
 ---
 

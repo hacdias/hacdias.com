@@ -5,6 +5,9 @@ categories:
   - writings
 tags:
   - now
+  - personal website
+  - gym
+  - life
 ---
 
 May is coming to an end. Not that much happened this month, but it was still minimally eventful. I made a few updates to this website, there's some life-related changes and updates regarding my gym journey. Let's dive into it!

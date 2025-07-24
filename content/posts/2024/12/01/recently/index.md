@@ -5,6 +5,9 @@ categories:
   - writings
 tags:
   - now
+  - life
+  - art
+  - christmas
 thumbnail: image:2024-12-01-weesperzijde
 ---
 

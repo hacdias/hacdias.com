@@ -5,6 +5,9 @@ categories:
   - writings
 tags:
   - now
+  - travel
+  - transit
+  - life
 thumbnail: image:2024-09-02-ejv-beatrix
 ---
 

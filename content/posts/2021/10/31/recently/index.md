@@ -8,6 +8,10 @@ categories:
   - writings
 tags:
   - now
+  - travel
+  - university
+  - life
+  - art
 ---
 
 October started with a very nice trip to Paris, France. I was there from the 1st of October to the 3rd. We went by bus and it was quite a journey. Around 8 hours each way.

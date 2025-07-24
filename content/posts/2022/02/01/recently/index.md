@@ -7,6 +7,9 @@ categories:
   - writings
 tags:
   - now
+  - life
+  - entertainment
+  - covid19
 ---
 
 It is unbelievable that 1/12 of the year has already gone by. I came back to the Netherlands in the beginning of the month and I've been able to achieve quite a few things last month.

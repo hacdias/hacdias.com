@@ -8,6 +8,9 @@ categories:
 tags:
   - now
   - trains
+  - personal website
+  - weather
+  - life
 ---
 
 August is almost gone, and with it the smells of summer. Day after day, the vibes I get from the weather are more [autumny 🍁](/2023/08/27/forest-delicacies/). Temperatures are finally going slightly down and it's starting to feel more cozy. It's been a long, yet satisfying month!

@@ -7,6 +7,11 @@ categories:
   - writings
 tags:
   - now
+  - university
+  - thesis
+  - work
+  - milestones
+  - life
 ---
 
 September is finally gone and with it, my vacations. Now it's time to start another chapter of life and work full-time for the first time in my life. Here's some of the nice things that happened last month.

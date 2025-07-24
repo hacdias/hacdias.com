@@ -13,6 +13,8 @@ syndication:
   - https://fosstodon.org/@hacdias/114099703066951894
 tags:
   - now
+  - personal website
+  - life
 ---
 
 February is now past us, so it's time for me to quickly recap what has happened last month, this time a few days later than usual. I was hoping to have posted more during last month. However, I made a few updates to the website with the intention of making that easier!

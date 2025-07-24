@@ -9,6 +9,9 @@ syndication:
 tags:
   - now
   - travel
+  - personal website
+  - milestones
+  - life
 thumbnail: image:2024-11-02-fuengirola
 ---
 

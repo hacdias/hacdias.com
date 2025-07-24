@@ -14,6 +14,9 @@ syndication:
   - https://fosstodon.org/@hacdias/114606972999345404
 tags:
   - now
+  - personal website
+  - fediverse
+  - life
 thumbnail: image:2025-06-01-recently-01
 ---
 

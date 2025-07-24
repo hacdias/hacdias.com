@@ -5,6 +5,9 @@ categories:
   - writings
 tags:
   - now
+  - travel
+  - life
+  - people
 ---
 
 September is now almost gone and we're diving deeper and deeper into the autumn. Despite a few problems here and there, I think it was quite a nice month, and it's important to always try seeing things for their positive side, despite that now always being very easy.

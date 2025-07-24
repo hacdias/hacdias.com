@@ -7,6 +7,10 @@ categories:
   - writings
 tags:
   - now
+  - life
+  - travel
+  - people
+  - christmas
 ---
 
 November has been a pretty intensive month in many different regards: from my parents visiting The Netherlands for the first time, to my partner and I moving in together to a new apartment. Besides, we're getting closer and closer to the end of the year, which means there are some cosy events I am looking forward to 🎄🍷.

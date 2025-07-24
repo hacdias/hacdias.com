@@ -7,6 +7,9 @@ categories:
   - writings
 tags:
   - now
+  - university
+  - life
+  - school
 ---
 
 March has been an extremely busy month for me where a lot happened and, at the same time, nothing happened. I can't even believe that April is just starting!

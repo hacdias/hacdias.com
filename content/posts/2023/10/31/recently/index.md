@@ -10,6 +10,8 @@ syndication:
 tags:
   - now
   - trains
+  - life
+  - people
 ---
 
 October just passed by. It's now full-on autumn and I just turned one year older. It was, overall, a great month. Friends have visited, both from abroad and local. Met with some people, steam train rides. Let's dive into it!

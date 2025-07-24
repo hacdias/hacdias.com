@@ -7,6 +7,8 @@ categories:
   - writings
 tags:
   - now
+  - personal website
+  - life
 ---
 
 June was a reasonably packed month: some times more eventful than others, but that's how it always is. Let's make a small recap of what has happened lately.

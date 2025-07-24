@@ -8,6 +8,8 @@ categories:
 tags:
   - now
   - travel
+  - personal website
+  - work
 ---
 
 It is, yet again, that time of the month to write a bit about what's been happening lately. April went by

@@ -5,6 +5,9 @@ categories:
   - writings
 tags:
   - now
+  - personal website
+  - milestones
+  - life
 ---
 
 July is coming to an end and the sun is shining. This was a month with quite some events for me, both on the good side of the spectrum, as well as on the bad side of the spectrum. But mostly good. Let's dive into it!

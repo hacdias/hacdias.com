@@ -6,6 +6,9 @@ categories:
 tags:
   - now
   - year in review
+  - dutch
+  - work
+  - goals
 ---
 
 December is coming to an end, and with it so is 2024. It was a year full of change, challenges and adventures. I managed to tick off quite a few items from my impossible list, achieve fluency in Dutch, and start a new job. All of this things, combined, made it a positively challenging year.

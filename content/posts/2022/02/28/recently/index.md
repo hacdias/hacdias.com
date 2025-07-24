@@ -7,6 +7,10 @@ categories:
   - writings
 tags:
   - now
+  - university
+  - travel
+  - thesis
+  - life
 ---
 
 It is the end of February and it is unbelievable. It feels like 2022 started yesterday, yet here we are: in the end of one more month. I feel like I say this every month though.

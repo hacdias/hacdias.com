@@ -7,6 +7,9 @@ categories:
   - writings
 tags:
   - now
+  - travel
+  - covid19
+  - life
 ---
 
 August was a busy month. I fly back to the Netherlands quite in the beginning of the month so I could get my second Covid-19 vaccine, which caused a mild fever overnight but was pretty fine overall.
