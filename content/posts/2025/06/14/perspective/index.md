@@ -16,6 +16,12 @@ categories:
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lrl45flycf2x
   - https://fosstodon.org/@hacdias/114682060955543511
+tags:
+  - portugal
+  - madeira
+  - travel
+  - ocean
+  - landscape
 ---
 
 Sometimes, what seems far is actually close. And what seems close is actually far. It's all a matter of perspective.

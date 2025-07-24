@@ -15,6 +15,11 @@ categories:
   - photos
 syndication:
   - https://fosstodon.org/@hacdias/113974828855914705
+tags:
+  - winter
+  - snow
+  - eindhoven
+  - netherlands
 ---
 
 Soon, when the weather starts warming up again, I’m surely going to miss this sort of days. To be honest, I already do as they’re not very common around here.

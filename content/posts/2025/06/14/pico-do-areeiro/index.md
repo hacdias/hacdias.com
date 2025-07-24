@@ -23,6 +23,11 @@ syndication:
   - https://bsky.app/profile/hacdias.com/post/3lrkbrkyr6q2i
   - https://fosstodon.org/@hacdias/114680205332731874
   - https://www.instagram.com/p/DK3_dkEt-YT/
+tags:
+  - portugal
+  - madeira
+  - mountains
+  - travel
 ---
 
 <style>

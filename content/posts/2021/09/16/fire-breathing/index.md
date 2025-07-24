@@ -11,6 +11,8 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-09-16-fire-01
+tags:
+  - fire
 ---
 
 <style>

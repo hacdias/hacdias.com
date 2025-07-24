@@ -9,4 +9,9 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CFWWNhHFFOy/
+tags:
+  - architecture
+  - urban
+  - netherlands
+  - rotterdam
 ---

@@ -14,4 +14,10 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/B0Jrse7l38P/
+tags:
+  - sculpture
+  - art
+  - berlin
+  - travel
+  - germany
 ---

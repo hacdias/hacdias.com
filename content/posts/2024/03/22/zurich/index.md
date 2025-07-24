@@ -22,6 +22,10 @@ categories:
   - photos
 tags:
   - travel
+  - zurich
+  - switzerland
+  - architecture
+  - urban
 thumbnail: image:2024-03-22-zurich
 ---
 

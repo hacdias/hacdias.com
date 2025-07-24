@@ -15,4 +15,9 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/Bt8Vl8uFrM7/
+tags:
+  - london
+  - england
+  - travel
+  - street art
 ---

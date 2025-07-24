@@ -26,6 +26,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-04-09-foggy-morning-02
+tags:
+  - eindhoven
+  - fog
+  - nature
+  - netherlands
 ---
 
 <style>

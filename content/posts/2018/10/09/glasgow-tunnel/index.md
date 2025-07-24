@@ -9,4 +9,9 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/BoujX-FgPr7/
+tags:
+  - scotland
+  - architecture
+  - urban
+  - transit
 ---

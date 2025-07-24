@@ -23,6 +23,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-02-28-eindhoven-snow-01
+tags:
+  - winter
+  - snow
+  - eindhoven
+  - netherlands
 ---
 
 I saw real life snowing for many days for the first time. It was also one of the coldest Februaries in the Netherlands over the past years.

@@ -20,6 +20,12 @@ photos:
 categories:
   - photos
 thumbnail: image:2020-05-21-nature-02
+tags:
+  - nature
+  - spring
+  - covid19
+  - portugal
+  - hometown
 ---
 
 <style>

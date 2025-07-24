@@ -15,6 +15,10 @@ categories:
 syndication:
   - https://www.instagram.com/p/CT0QpzQsPiZ/
 thumbnail: image:2021-09-14-the-student-hotel-ehv
+tags:
+  - architecture
+  - eindhoven
+  - netherlands
 ---
 
 Basic B**** Pictures 📸

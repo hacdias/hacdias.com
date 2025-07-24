@@ -9,4 +9,8 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CFomCmWlT4d/
+tags:
+  - silhouette
+  - abstract
+  - artistic
 ---

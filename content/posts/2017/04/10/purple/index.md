@@ -15,4 +15,10 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/BSrzGLTgBEG/
+tags:
+  - art
+  - sculpture
+  - england
+  - london
+  - travel
 ---

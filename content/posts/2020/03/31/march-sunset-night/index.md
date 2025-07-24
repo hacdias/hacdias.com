@@ -21,6 +21,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2020-03-31-sunset-tree
+tags:
+  - sunset
+  - nature
+  - portugal
+  - hometown
 ---
 
 I experimented a bit with sunset and night pictures. Made a few mistakes, but I'm proud of the results.

@@ -34,6 +34,9 @@ categories:
   - photos
 tags:
   - travel
+  - italy
+  - architecture
+  - urban
 thumbnail: image:2022-11-16-trip-to-italy-in-photos-02
 ---
 

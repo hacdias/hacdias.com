@@ -22,6 +22,9 @@ categories:
   - photos
 tags:
   - travel
+  - germany
+  - water
+  - long exposure
 thumbnail: image:2024-03-22-munchen-way
 ---
 

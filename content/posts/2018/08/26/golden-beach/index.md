@@ -15,4 +15,10 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/Bm8-Yung2vl/
+tags:
+  - portugal
+  - beach
+  - ocean
+  - sunset
+  - nature
 ---

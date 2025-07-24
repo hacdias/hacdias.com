@@ -10,4 +10,8 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/114711338376027371
   - https://bsky.app/profile/hacdias.com/post/3lry47dip6f2g
+tags:
+  - portugal
+  - madeira
+  - travel
 ---

@@ -38,6 +38,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-05-30-eindhoven-11
+tags:
+  - eindhoven
+  - spring
+  - urban
+  - netherlands
 ---
 
 In Eindhoven.

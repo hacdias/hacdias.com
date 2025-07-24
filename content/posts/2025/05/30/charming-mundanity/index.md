@@ -13,6 +13,11 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/114597074912585982
   - https://bsky.app/profile/hacdias.com/post/3lqfege2coo2g
+tags:
+  - travel
+  - japan
+  - urban
+  - street
 ---
 
 Streets in Japan are so different from what we're used to in Western Europe. There's so many different elements that make it different, from the overhead cables, to the asphalt-made sidewalks. There, it is a mundane thing. I find it rather charming.

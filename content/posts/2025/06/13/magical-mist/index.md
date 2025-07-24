@@ -16,6 +16,11 @@ categories:
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lrj6rfzlhf2v
   - https://fosstodon.org/@hacdias/114677742154775516
+tags:
+  - portugal
+  - madeira
+  - nature
+  - travel
 ---
 
 In the trails of the levadas of Madeira island, you sometimes come across amazingly magical mist.

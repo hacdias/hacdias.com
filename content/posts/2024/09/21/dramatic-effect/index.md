@@ -7,4 +7,9 @@ photos:
     height: 3518
 categories:
   - photos
+tags:
+  - architecture
+  - dramatic
+  - eindhoven
+  - netherlands
 ---

@@ -32,6 +32,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-09-16-steelwool-07
+tags:
+  - fire
+  - long exposure
+  - sparks
+  - night
 ---
 
 <style>

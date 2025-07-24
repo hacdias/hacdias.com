@@ -7,6 +7,11 @@ photos:
     height: 2000
 categories:
   - photos
+tags:
+  - eindhoven
+  - university
+  - masters
+  - netherlands
 ---
 
 In August 2020, I moved to the Netherlands 🇳🇱, more specifically to Eindhoven, to pursue my Master's in Computer Science and Engineering. Here's the Eindhoven view from the place where I am staying.

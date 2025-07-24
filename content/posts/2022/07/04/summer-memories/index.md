@@ -17,6 +17,9 @@ photos:
 categories:
   - photos
 thumbnail: image:2022-07-04-zeeland
+tags:
+  - summer
+  - netherlands
 ---
 
 <style>

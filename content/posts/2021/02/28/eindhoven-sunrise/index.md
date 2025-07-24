@@ -11,6 +11,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-02-28-eindhoven-sunrise-church
+tags:
+  - sunrise
+  - eindhoven
+  - netherlands
+  - architecture
 ---
 
 <style>
