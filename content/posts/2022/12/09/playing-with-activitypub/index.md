@@ -3,10 +3,11 @@ title: Playing With ActivityPub
 date: 2022-12-09T21:25:18Z
 bookmark-of: https://macwright.com/2022/12/09/activitypub.html
 categories:
-  - bookmarks
+  - writings
 tags:
   - activitypub
   - fediverse
+  - bookmarks
 wa-bookmark-of: https://web.archive.org/web/20230505222246/https://macwright.com/2022/12/09/activitypub.html
 ---
 

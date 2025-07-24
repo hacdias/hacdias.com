@@ -1,6 +1,7 @@
 ---
 title: Shields Down
 date: 2023-12-07T20:07:28.278893442+01:00
+bookmark-of: https://randsinrepose.com/archives/shields-down/
 categories:
   - writings
 tags:
@@ -8,6 +9,8 @@ tags:
   - bookmarks
   - people
   - work
+  - bookmarks
+wa-bookmark-of: https://web.archive.org/web/20231207190947/https://randsinrepose.com/archives/shields-down/
 ---
 
 I was mindlessly navigating the socials and I saw someone posted an article that caught my attention: [Shields Down](https://randsinrepose.com/archives/shields-down/). This article dives deep into the fact that "happy people don't leave jobs they love", or, more specifically, what led them to be in a "shields down" mode:
