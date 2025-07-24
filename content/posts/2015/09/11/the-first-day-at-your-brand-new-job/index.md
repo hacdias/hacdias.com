@@ -4,6 +4,11 @@ description: You got a job! And today’s the first day, what are you going to d
 date: 2015-09-11T08:00:00Z
 categories:
   - writings
+tags:
+  - work
+  - life
+  - reflections
+  - tips
 ---
 
 You got a job! And today’s the first day, what are you going to do? Let’s make a party and make everyone dance! What? No… wait! You’re nervous, you don’t have to be. Let’s talk.
