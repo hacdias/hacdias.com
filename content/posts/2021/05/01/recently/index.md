@@ -8,7 +8,6 @@ categories:
 tags:
   - now
   - university
-  - weather
   - covid19
   - life
 ---

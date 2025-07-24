@@ -8,7 +8,6 @@ categories:
 tags:
   - now
   - life
-  - weather
   - portugal
 ---
 

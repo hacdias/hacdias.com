@@ -9,7 +9,6 @@ tags:
   - now
   - trains
   - personal website
-  - weather
   - life
 ---
 

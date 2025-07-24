@@ -7,7 +7,6 @@ categories:
 tags:
   - apple
   - ios
-  - weather
   - bookmarks
 wa-bookmark-of: https://web.archive.org/web/20230625140542/https://intergalactic.systems/posts/post-1965946732.html
 ---
