@@ -3,6 +3,11 @@ title: I Bought a Numeronym Domain Name
 date: 2024-03-27T12:56:24.992260999+01:00
 categories:
   - writings
+tags:
+  - web
+  - dns
+  - personal website
+  - meta
 ---
 
 Some weeks ago, I read [a post](https://jlelse.blog/thoughts/2024/03/what-to-do-with-new-domain) from Jan-Luka's where he talked about what to do with his new domain. The most interesting part for me was not what to do with the domain, or the domain itself, but what the domain is: a numeronym.

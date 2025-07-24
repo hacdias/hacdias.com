@@ -4,6 +4,11 @@ description: This is the first newsletter issue I'm writing. Today, I leave you 
 date: 2016-03-05T10:25:00Z
 categories:
   - writings
+tags:
+  - personal website
+  - milestones
+  - reflections
+  - meta
 ---
 
 Hello, world!
