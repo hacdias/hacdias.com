@@ -7,6 +7,10 @@ categories:
   - writings
 tags:
   - now
+  - university
+  - weather
+  - covid19
+  - life
 ---
 
 One more month has passed! It is unbelievable how fast this academic year - and 2021 in general - is passing. I'm already in my last quartile, having my last courses for the year.

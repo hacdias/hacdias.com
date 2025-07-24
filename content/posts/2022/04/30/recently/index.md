@@ -7,6 +7,10 @@ categories:
   - writings
 tags:
   - now
+  - travel
+  - thesis
+  - entertainment
+  - portugal
 ---
 
 April is quickly coming to an end and... what a month it was! From Portugal to London, from thesis progress to assisting in classes, from movies to musicals, April was a packed month!

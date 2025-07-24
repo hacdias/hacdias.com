@@ -7,6 +7,8 @@ categories:
   - writings
 tags:
   - now
+  - personal website
+  - life
 ---
 
 March is almost gone and here we are again, at one more recap of what has happened over the last month. Compared to February, March has been a pretty eventless month, at least on the surface. 

@@ -7,6 +7,9 @@ categories:
   - writings
 tags:
   - now
+  - personal website
+  - entertainment
+  - life
 ---
 
 November is almost gone. It was quite of a slow month, so I had more time to spend working on this website, or in watching series - maybe too many. Let's dive into it.

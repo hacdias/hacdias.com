@@ -7,6 +7,9 @@ categories:
   - writings
 tags:
   - now
+  - personal website
+  - trains
+  - museums
 ---
 
 May is now approaching its end and the birds 🕊️ are chirping, filling the air

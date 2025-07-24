@@ -7,6 +7,8 @@ categories:
   - writings
 tags:
   - now
+  - personal website
+  - life
 ---
 
 February has been a total rollercoaster. Nice things and not so nice things have happened during this month. But overall, let's keep a positive attitude towards the future. Let's dive into the events that constituted this month.

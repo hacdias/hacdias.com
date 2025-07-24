@@ -14,6 +14,9 @@ syndication:
   - https://bsky.app/profile/hacdias.com/post/3lqd7gi3fxs2k
 tags:
   - now
+  - travel
+  - cultures
+  - life
 thumbnail: image:2025-05-02-recently-tokyo
 ---
 

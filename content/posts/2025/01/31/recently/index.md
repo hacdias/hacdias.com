@@ -5,6 +5,9 @@ categories:
   - writings
 tags:
   - now
+  - life
+  - people
+  - cultures
 ---
 
 January is coming to an end, meaning that around 8% of 2025 has already passed. It felt like a slower month, definitely slower than the previous months in the sense that there was nothing *big* happening. However, the things that happened, I'm very glad with.

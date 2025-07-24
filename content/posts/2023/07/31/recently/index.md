@@ -8,6 +8,8 @@ categories:
 tags:
   - now
   - travel
+  - personal website
+  - weather
 ---
 
 July is now coming to an end, and so is summer in The Netherlands per the looks of it. It has been
