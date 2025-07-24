@@ -14,4 +14,10 @@ location:
   country: Netherlands
 categories:
   - photos
+tags:
+  - amsterdam
+  - netherlands
+  - urban
+  - perspective
+  - architecture
 ---

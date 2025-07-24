@@ -15,4 +15,9 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/BoxIuVXAQVW/
+tags:
+  - portugal
+  - lisbon
+  - stairs
+  - architecture
 ---

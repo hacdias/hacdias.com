@@ -35,6 +35,12 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-05-31-maastricht-03
+tags:
+  - maastricht
+  - travel
+  - netherlands
+  - architecture
+  - canals
 ---
 
 Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I got a sunburn. Didn't expect that. Next time I'll be more careful.

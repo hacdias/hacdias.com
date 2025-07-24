@@ -26,6 +26,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2022-07-03-kunstmuseum-01
+tags:
+  - museums
+  - art
+  - architecture
+  - netherlands
 ---
 
 <style>

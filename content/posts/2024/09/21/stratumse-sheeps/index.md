@@ -13,6 +13,12 @@ photos:
 categories:
   - photos
 thumbnail: image:2024-09-21-stratumse-heide-02
+tags:
+  - animals
+  - nature
+  - wildlife
+  - eindhoven
+  - netherlands
 ---
 
 Some sheep found roaming the fields of the [Stratumse Heide](https://nl.wikipedia.org/wiki/Stratumse_Heide).

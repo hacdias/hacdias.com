@@ -13,4 +13,7 @@ location:
   country: Portugal
 categories:
   - photos
+tags:
+  - lisbon
+  - portugal
 ---

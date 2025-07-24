@@ -23,6 +23,12 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-04-30-utrecht-17
+tags:
+  - utrecht
+  - travel
+  - netherlands
+  - architecture
+  - canals
 ---
 
 <style>

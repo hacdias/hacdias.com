@@ -19,6 +19,11 @@ categories:
 syndication:
   - https://www.instagram.com/p/Cj2nT0QIjzW/
 thumbnail: image:2022-10-18-what-is-there-is-not-01
+tags:
+  - portugal
+  - fog
+  - ocean
+  - travel
 ---
 
 Back when I went to Portugal in August, my parents and I were at a restaurant with a very nice view of the ocean. However, no one expected that just under thirty minutes after the ocean would bring extreme fog, completely obstructing the view. It was quite incredible to see the onset of such a foggy view from such perspective.

@@ -40,6 +40,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2020-06-21-costa-alentejana-2
+tags:
+  - portugal
+  - alentejo
+  - boats
+  - ocean
 ---
 
 <style>

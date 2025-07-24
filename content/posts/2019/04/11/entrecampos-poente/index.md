@@ -13,4 +13,10 @@ location:
   country: Portugal
 categories:
   - photos
+tags:
+  - sunset
+  - urban
+  - buildings
+  - lisbon
+  - portugal
 ---

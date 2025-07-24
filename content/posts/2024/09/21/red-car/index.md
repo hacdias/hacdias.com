@@ -7,4 +7,9 @@ photos:
     height: 4500
 categories:
   - photos
+tags:
+  - bratislava
+  - travel
+  - vintage
+  - slovakia
 ---

@@ -31,6 +31,11 @@ categories:
 syndication:
   - https://www.instagram.com/p/COUnXtrrMQJ/
 thumbnail: image:2021-01-31-strijps
+tags:
+  - netherlands
+  - eindhoven
+  - architecture
+  - urban
 ---
 
 <style>

@@ -15,4 +15,8 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/Bg8qYE5gw0b/
+tags:
+  - portugal
+  - art
+  - street art
 ---

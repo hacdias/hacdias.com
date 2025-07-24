@@ -34,6 +34,12 @@ categories:
 syndication:
   - https://www.instagram.com/p/Cj5DHBpIARA/
 thumbnail: image:2022-10-19-capturing-leiden-04
+tags:
+  - leiden
+  - travel
+  - netherlands
+  - architecture
+  - canals
 ---
 
 <style>

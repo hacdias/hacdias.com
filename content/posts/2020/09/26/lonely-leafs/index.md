@@ -9,4 +9,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CFnOVZqlbKf/
+tags:
+  - nature
+  - autumn
 ---

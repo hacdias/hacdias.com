@@ -11,4 +11,9 @@ photos:
 categories:
   - photos
 thumbnail: image:2022-06-19-kleineberg-art
+tags:
+  - street art
+  - urban
+  - art
+  - graffiti
 ---

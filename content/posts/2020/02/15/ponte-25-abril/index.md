@@ -7,6 +7,11 @@ photos:
     height: 2000
 categories:
   - photos
+tags:
+  - portugal
+  - lisbon
+  - travel
+  - covid19
 ---
 
 In February, there were a few cases of Covid-19 in Europe. Thus, my friends and I decided to do our routine small trip - we always do a trip between semesters - to Luxembourg 🇱🇺, Brussels 🇧🇪 and Amsterdam 🇳🇱.

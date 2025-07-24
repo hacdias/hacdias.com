@@ -31,4 +31,10 @@ categories:
 syndication:
   - https://www.instagram.com/p/Cc2i0M2sAAf/
 thumbnail: image:2022-04-27-london-dara
+tags:
+  - london
+  - travel
+  - friends
+  - museums
+  - transit
 ---

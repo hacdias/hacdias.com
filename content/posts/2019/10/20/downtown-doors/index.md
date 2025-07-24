@@ -7,4 +7,9 @@ photos:
     height: 2000
 categories:
   - photos
+tags:
+  - architecture
+  - portugal
+  - lisbon
+  - urban
 ---

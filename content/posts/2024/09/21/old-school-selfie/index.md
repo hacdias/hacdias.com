@@ -7,4 +7,7 @@ photos:
     height: 3778
 categories:
   - photos
+tags:
+  - street art
+  - netherlands
 ---

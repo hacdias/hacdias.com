@@ -11,6 +11,12 @@ photos:
 categories:
   - photos
 thumbnail: image:2019-12-15-swiss-snow-01
+tags:
+  - snow
+  - winter
+  - travel
+  - mountains
+  - switzerland
 ---
 
 <style>

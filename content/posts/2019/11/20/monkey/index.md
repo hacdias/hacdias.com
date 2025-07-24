@@ -15,4 +15,9 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/B5EvNCulDKX/
+tags:
+  - animals
+  - wildlife
+  - travel
+  - costa rica
 ---

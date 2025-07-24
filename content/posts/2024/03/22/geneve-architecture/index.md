@@ -15,6 +15,8 @@ categories:
   - photos
 tags:
   - travel
+  - switzerland
+  - architecture
 thumbnail: image:2024-03-22-geneve-architecture-3
 ---
 

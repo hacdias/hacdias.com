@@ -23,6 +23,12 @@ photos:
 categories:
   - photos
 thumbnail: image:2021-04-30-utrecht-02
+tags:
+  - utrecht
+  - travel
+  - netherlands
+  - architecture
+  - canals
 ---
 
 I went to Utrecht, which turned out to be one of the loveliest cities in the Netherlands I've been to so far. It's picturesque, has canals and felt lively.

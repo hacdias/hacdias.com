@@ -17,6 +17,10 @@ photos:
 categories:
   - photos
 thumbnail: image:2023-08-27-mushrooms-nest
+tags:
+  - nature
+  - forest
+  - netherlands
 ---
 
 <style>

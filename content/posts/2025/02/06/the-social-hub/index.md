@@ -13,4 +13,8 @@ location:
   country: Netherlands
 categories:
   - photos
+tags:
+  - eindhoven
+  - architecture
+  - urban
 ---

@@ -9,4 +9,9 @@ categories:
   - photos
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lqd7jaxcof23
+tags:
+  - travel
+  - japan
+  - architecture
+  - cultures
 ---

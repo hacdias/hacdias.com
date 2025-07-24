@@ -7,4 +7,9 @@ photos:
     height: 4000
 categories:
   - photos
+tags:
+  - art
+  - architecture
+  - urban
+  - eindhoven
 ---

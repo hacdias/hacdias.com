@@ -22,6 +22,11 @@ categories:
 syndication:
   - https://www.instagram.com/p/CO6P31uLDLN/
 thumbnail: image:2021-06-01-maastricht-07
+tags:
+  - maastricht
+  - travel
+  - netherlands
+  - architecture
 ---
 
 [Maastricht](/2021/05/31/maastricht-i) turned out to be quite a magical little city close to the border with Belgium. There was a lot of greenery and old buildings.

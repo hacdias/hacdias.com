@@ -9,4 +9,9 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CZ1mRGOopmx/
+tags:
+  - eindhoven
+  - urban
+  - architecture
+  - netherlands
 ---

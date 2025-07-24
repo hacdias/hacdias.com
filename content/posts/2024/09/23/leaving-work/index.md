@@ -7,4 +7,8 @@ photos:
     height: 4500
 categories:
   - photos
+tags:
+  - architecture
+  - eindhoven
+  - netherlands
 ---

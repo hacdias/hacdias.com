@@ -16,6 +16,12 @@ categories:
 syndication:
   - https://www.instagram.com/p/B3Bx76glifj/
 thumbnail: image:2019-09-30-azores-01
+tags:
+  - portugal
+  - travel
+  - islands
+  - panorama
+  - landscape
 ---
 
 <style>

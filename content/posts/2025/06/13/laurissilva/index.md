@@ -25,6 +25,12 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/114677760529691783
   - https://bsky.app/profile/hacdias.com/post/3lrj74wetis2n
+tags:
+  - portugal
+  - madeira
+  - forest
+  - nature
+  - travel
 ---
 
 <style>

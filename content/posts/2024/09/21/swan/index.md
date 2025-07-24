@@ -7,4 +7,8 @@ photos:
     height: 2000
 categories:
   - photos
+tags:
+  - animals
+  - wildlife
+  - nature
 ---

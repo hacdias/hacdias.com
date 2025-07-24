@@ -20,6 +20,9 @@ syndication:
   - https://www.instagram.com/p/CsOqUS9oI8f/
 tags:
   - travel
+  - switzerland
+  - trains
+  - mountains
 thumbnail: image:2023-01-31-engelberg-01
 ---
 

@@ -37,6 +37,11 @@ photos:
 categories:
   - photos
 thumbnail: image:2020-03-31-hometown-cross
+tags:
+  - lockdown
+  - covid19
+  - hometown
+  - portugal
 ---
 
 <style>
