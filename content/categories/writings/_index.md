@@ -1,5 +1,5 @@
 ---
-title: Writings
+title: Blog
 description: My blog posts.
 aliases:
   - /articles/

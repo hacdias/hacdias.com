@@ -41,7 +41,7 @@ printPathWarnings = true
   pageRef = '/contact'
   weight = 2
 [[menu.main]]
-  name = '✏️ Writings'
+  name = '✏️ Blog'
   pageRef = '/categories/writings'
   weight = 3
 [[menu.main]]
@@ -53,9 +53,13 @@ printPathWarnings = true
   pageRef = '/guestbook'
   weight = 6
 [[menu.main]]
+  name = '🗞️ Blogroll'
+  pageRef = '/blogroll'
+  weight = 7
+[[menu.main]]
   name = '🌈 More'
   pageRef = '/more'
-  weight = 7
+  weight = 8
 
 [params]
   [params.site]
