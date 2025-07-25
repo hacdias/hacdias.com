@@ -16,7 +16,7 @@ This website contains more than it looks at first glance. Here you can find a li
 - [🎬 Watches](/watches/)
 {.buttons #more-list}
 
-## 🗞️ Feeds {#feeds}
+## 📡 Feeds {#feeds}
 
 This website provides Atom and JSON for all individual sections, as well as for the home page, which combines writings, photos, and book reviews. Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
 
