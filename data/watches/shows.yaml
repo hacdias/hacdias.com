@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Sandman
+  season: 2
+  rating: 4
+  date: 2025-07-24
 - name: Stick
   season: 1
   rating: 4
