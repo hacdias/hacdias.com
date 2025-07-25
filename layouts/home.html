@@ -19,14 +19,14 @@
     {{- template "index.photos" (dict "pages" (first 8 $photos.Pages) "feed" true) -}}
   </div>
 
-  <h2 id="favourite-articles">🌟 Favourite Writings</h2>
+  <h2 id="favorite-blogs">🌟 Favorite Blogs</h2>
   {{- $favoritePosts := slice -}}
   {{- range .Params.favoritePosts -}}
   {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}
   {{- end -}}
   {{- template "index.items" (dict "pages" (first 4 $favoritePosts) "feed" false) -}}
 
-  <h2 id="favourite-captures">📸 Favourite Captures</h2>
+  <h2 id="favorite-captures">📸 Favorite Captures</h2>
   {{- $favoritePhotos := slice -}}
   {{- range .Params.favoriteCaptures -}}
   {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
