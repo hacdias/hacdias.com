@@ -755,12 +755,8 @@
   },
   {
     "domain": "jim-nielsen.com",
-    "count": 14,
+    "count": 13,
     "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/16/a-well-known-links-resource/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
-      },
       {
         "sourceUrl": "https://hacdias.com/2022/10/18/website-fidelity/",
         "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
@@ -1350,28 +1346,6 @@
     ]
   },
   {
-    "domain": "kevquirk.com",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/10/19/having-a-microblog-on-a-traditional-blog/",
-        "targetUrl": "https://kevquirk.com/having-a-microblog-on-a-traditional-blog"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://kevquirk.com/guestbook"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://kevquirk.com"
-      }
-    ]
-  },
-  {
     "domain": "linkedin.com",
     "count": 4,
     "links": [
@@ -1674,6 +1648,24 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://blog.ipfs.tech/shipyard-hello-world/"
+      }
+    ]
+  },
+  {
+    "domain": "kevquirk.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://kevquirk.com"
       }
     ]
   },
@@ -2848,16 +2840,6 @@
     ]
   },
   {
-    "domain": "chreke.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/22/little-languages-are-the-future-of-programming/",
-        "targetUrl": "https://chreke.com/little-languages.html"
-      }
-    ]
-  },
-  {
     "domain": "chromium.org",
     "count": 1,
     "links": [
@@ -3828,16 +3810,6 @@
     ]
   },
   {
-    "domain": "mit.edu",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/17/the-missing-semester-of-your-cs-education/",
-        "targetUrl": "https://missing.csail.mit.edu/"
-      }
-    ]
-  },
-  {
     "domain": "modos.tech",
     "count": 1,
     "links": [
@@ -4274,16 +4246,6 @@
       {
         "sourceUrl": "https://hacdias.com/2024/06/21/rungap-an-end-to-boschs-malformed-fit-files/",
         "targetUrl": "https://www.rungap.com/"
-      }
-    ]
-  },
-  {
-    "domain": "saurabhs.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/27/advanced-macos-command-line-tools/",
-        "targetUrl": "https://saurabhs.org/advanced-macos-commands"
       }
     ]
   },
