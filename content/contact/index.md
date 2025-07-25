@@ -30,6 +30,6 @@ I can usually be found as @hacdias in most services. Some relevant ones:
 - [{{< favicon "linkedin.com" >}} LinkedIn: /in/hacdias](https://linkedin.com/in/hacdias)
 - [{{< favicon "instagram.com" >}} Instagram: @hacdias](https://instagram.com/hacdias)
 - [{{< favicon "bsky.app" >}} Bluesky: @hacdias.com](https://bsky.app/profile/hacdias.com)
-- [{{< favicon "fosstodon.org" >}} Fedi: @hacdias@fosstodon.org](https://fosstodon.org/@hacdias)
+- [{{< favicon "mastodon.social" >}} Fedi: @hacdias@fosstodon.org](https://fosstodon.org/@hacdias)
 - [{{< favicon "reddit.com" >}} Reddit: /u/hacdias](https://reddit.com/u/hacdias)
 {.buttons}
