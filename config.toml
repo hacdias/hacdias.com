@@ -41,7 +41,7 @@ printPathWarnings = true
   pageRef = '/contact'
   weight = 2
 [[menu.main]]
-  name = '✏️ Blog'
+  name = '✏️ Writings'
   pageRef = '/categories/writings'
   weight = 3
 [[menu.main]]
