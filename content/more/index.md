@@ -17,7 +17,7 @@ This website contains more than it looks at first glance. Here you can find a li
 
 ## 📡 Feeds {#feeds}
 
-This website provides Atom and JSON for all individual sections, as well as for the home page, which combines writings, photos, and book reviews. Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
+This website provides Atom and JSON for all individual categories, as well as for the home page, which includes all the latest posts, whether they are writings or photos. Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
 
 - **Home**: [Atom](/feed.xml), [JSON](/feed.json).
 - **Writings**: [Atom](/writings/feed.xml), [JSON](/writings/feed.json).

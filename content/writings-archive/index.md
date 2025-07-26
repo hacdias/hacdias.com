@@ -1,5 +1,5 @@
 ---
-title: Blog Archive
+title: Writings Archive
 noIndex: true
 layout: tabular
 layoutPage: /categories/writings/
