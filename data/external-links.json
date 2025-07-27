@@ -1346,6 +1346,28 @@
     ]
   },
   {
+    "domain": "kevquirk.com",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/26/search-engines/",
+        "targetUrl": "https://kevquirk.com/blog/out-with-old-tech-in-with-the-new"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://kevquirk.com"
+      }
+    ]
+  },
+  {
     "domain": "linkedin.com",
     "count": 4,
     "links": [
@@ -1648,24 +1670,6 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://blog.ipfs.tech/shipyard-hello-world/"
-      }
-    ]
-  },
-  {
-    "domain": "kevquirk.com",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://kevquirk.com/guestbook"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://kevquirk.com"
       }
     ]
   },
@@ -3016,6 +3020,16 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://www.dropbox.com/paper"
+      }
+    ]
+  },
+  {
+    "domain": "duckduckgo.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/26/search-engines/",
+        "targetUrl": "https://duckduckgo.com/bangs"
       }
     ]
   },
@@ -4386,6 +4400,16 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "http://www.starbucks.pt/"
+      }
+    ]
+  },
+  {
+    "domain": "startpage.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/26/search-engines/",
+        "targetUrl": "https://www.startpage.com/"
       }
     ]
   },
