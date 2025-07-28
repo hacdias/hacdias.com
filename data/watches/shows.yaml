@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Arcane
+  season: 1
+  rating: 4
+  date: 2025-07-27
 - name: The Sandman
   season: 2
   rating: 4
@@ -16,11 +20,11 @@
   date: 2025-07-11
 - name: Foundation
   season: 2
-  rating: 4
+  rating: 5
   date: 2025-07-10
 - name: Foundation
   season: 1
-  rating: 4
+  rating: 5
   date: 2025-07-05
 - name: The Buccaneers
   season: 1
