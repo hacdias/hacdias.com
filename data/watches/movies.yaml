@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Peacock
+  date: 2025-07-27T16:30:00+02:00
+  rating: 4
+  location: Lab-1
+  room: 5
+  row: 8
+  seat: 3
 - name: 'Jurassic World: Rebirth'
   date: 2025-07-06T17:00:00+02:00
   rating: 4

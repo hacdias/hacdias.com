@@ -21,6 +21,8 @@ tags:
 
 From February up until now, I have been using a paid search engine, Kagi. Two weeks ago, I canceled my subscription to try giving DuckDuckGo - or maybe another search engine - a go. However, I still find the search results quite lacking!
 
+<!--more-->
+
 For the past years, I have been trying to avoid using Google services. There are many reasons for that, and I'm definitely not the best example, since I'm still a Chrome user. However, Google Search is something I try to use very rarely. And it's not as if it's as good as it was before.
 
 When I begun this journey, I started by just using DuckDuckGo, since that was what everyone suggested. Nevertheless, I don't think DuckDuckGo gives me the best results, or the results I want, most of the times. I got into the habit of appending `!g` to the search query and [banging](https://duckduckgo.com/bangs) my way into Google.
