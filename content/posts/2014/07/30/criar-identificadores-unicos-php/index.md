@@ -4,10 +4,9 @@ description: Como você sabe, PHP é das linguagens de servidor mais utilizadas 
 date: 2014-07-30T08:34:52Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 Como deve saber, PHP é umas das linguagens de servidor mais utilizadas no mundo. Hoje vou mostrar-vos uma fantástica forma de gerar **IDs (identificadores) únicos**.

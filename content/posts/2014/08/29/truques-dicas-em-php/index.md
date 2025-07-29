@@ -4,10 +4,9 @@ description: A linguagem de programação PHP é das mais utilizadas atualmente 
 date: 2014-08-29T16:47:20Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 A linguagem de programação PHP é das mais utilizadas atualmente do lado do servidor quando o assunto são páginas web.

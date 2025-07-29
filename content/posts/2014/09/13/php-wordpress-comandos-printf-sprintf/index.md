@@ -4,10 +4,9 @@ description: Existem vários comandos que nos permitem imprimir frases. Porque �
 date: 2014-09-13T09:16:48Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 No [último artigo](/2014/09/09/php-interpolacao-concatenacao) sugeriram-me falar sobre as funções printf  e  sprintf  que são utilizadas em massa no Wordpress e é isso que vou fazer! Vamos analisar cada uma das funções.

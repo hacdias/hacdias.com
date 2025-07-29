@@ -3,11 +3,10 @@ title: Enquanto a Cidade Dorme
 date: 2024-01-12T20:47:52+01:00
 categories:
   - writings
-language: pt
 tags:
   - poetry
-  - portuguese
   - creative
+  - portugues
 ---
 
 Lembro-me de que, em 2013, li um livro do qual gostei imenso: *Enquanto a Cidade Dorme* de Álvaro Magalhães. Não me lembro precisamente porquê, mas a história fascinou-me. Como resumo, escrevi a 15 de setembro de 2013 este poema.

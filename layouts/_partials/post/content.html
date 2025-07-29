@@ -1,5 +1,5 @@
 {{- if or .Content .Params.rating .Params.photos }}
-  <div class='e-content'{{ with .Params.language }} lang='{{ . }}'{{ end }}>
+  <div class='e-content'{{ if in .Params.tags "portugues" }} lang='pt'{{ else if in .Params.tags "nederlands" }} lang='nl'{{ end }}>
     {{- with .Params.rating -}}
       <p>
         <data class='p-rating' value="{{ . }}"><strong>Rating:</strong> {{ partialCached "helpers/stars" (slice . 5) . 5 }}</data>

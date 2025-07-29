@@ -4,9 +4,8 @@ description: O GitHub não contém apenas software e código. Contém também co
 date: 2014-08-22T09:38:31Z
 categories:
   - writings
-language: pt
 tags:
-  - portuguese
+  - portugues
 ---
 
 Todos nós, vocês, eu, começaram por aprender em algum sítio, não interessa qual, mas aprenderam. O caminho do conhecimento é infinito e a informação nunca se esgota.

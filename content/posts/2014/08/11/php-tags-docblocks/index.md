@@ -4,10 +4,9 @@ description: Os DOCBlocks do PHP são extremamente úteis para os desenvolvedore
 date: 2014-08-11T20:26:21Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 Para quem desenvolve aplicações em PHP com outras pessoas ou mesmo sozinho, por vezes precisa de colocar **comentários** em vários locais para identificar os diversos processos que vão ocorrendo.

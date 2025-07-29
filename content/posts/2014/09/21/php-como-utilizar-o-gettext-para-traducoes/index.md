@@ -4,10 +4,9 @@ description: A linguagem PHP está repleta de extensões. Uma muito utilizada e 
 date: 2014-09-21T11:07:03Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 Como prometido no [último artigo](/2014/09/13/php-wordpress-comandos-printf-sprintf), hoje irá começar uma pequena saga de dois ou três artigos sobre como utilizar o Gettext no PHP.

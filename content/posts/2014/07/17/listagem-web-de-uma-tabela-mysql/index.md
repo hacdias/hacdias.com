@@ -4,12 +4,11 @@ description: Como fazer a listagem de uma tabela MySQL com interface web, botõe
 date: 2014-07-17T14:51:56Z
 categories:
   - writings
-language: pt
 tags:
   - html
   - mysql
   - php
-  - portuguese
+  - portugues
 ---
 
 No [último artigo](/2014/07/16/selecionar-um-intervalo-de-linhas-em-mysql), falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um  pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.

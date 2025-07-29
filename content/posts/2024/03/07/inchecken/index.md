@@ -5,7 +5,6 @@ aliases:
   - /2024/03/07/vergeet-niet-om-in-te-checken-deel-try-lingual/
 categories:
   - writings
-language: nl
 syndication:
   - https://fosstodon.org/@hacdias/112053960697460057
 tags:

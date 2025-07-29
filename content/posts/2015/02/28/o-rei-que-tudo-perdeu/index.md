@@ -4,11 +4,10 @@ description: Por vezes, a vontade de escrever é tanta que as letras deslizam pe
 date: 2015-02-28T16:00:38Z
 categories:
   - writings
-language: pt
 tags:
   - poetry
-  - portuguese
   - creative
+  - portugues
 ---
 
 Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel sem qualquer esforço. Letra a letra. Partícula a partícula. Tudo se compõe.
