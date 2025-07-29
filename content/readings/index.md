@@ -1,7 +1,6 @@
 ---
 title: Books That I Have Read
 description: An extensive list of all the books I remember ever reading.
-layout: readings
 ---
 
 <style>
@@ -20,3 +19,7 @@ figure.book {
 {.right .pixelated .book}
 
 This is my bookshelf with all books I remember reading in the past, as well as some reviews. The further back you go, the more Portuguese books you will find, since I read them thorough my childhood and teenage years. Chances are that some books added before 2021 do not have correct dates.
+
+<!--more-->
+
+{{< logs data="readings" page="/tags/book-reviews/" >}}

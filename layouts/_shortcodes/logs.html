@@ -1,2 +1,13 @@
-{{- $data := index .Site.Data (strings.Split (.Get "data") ".") -}}
-{{- partial "logs" (dict "Data" $data) -}}
+{{- $args := dict }}
+
+{{- with .Get "data" }}
+  {{- $data := index $.Site.Data (strings.Split . ".") }}
+  {{- $args = $args | merge (dict "Data" $data) }}
+{{- end }}
+
+{{- with .Get "page"}}
+  {{- $page := $.Site.GetPage . }}
+  {{- $args = $args | merge (dict "Page" $page) }}
+{{- end }}
+
+{{- partial "logs" $args -}}
