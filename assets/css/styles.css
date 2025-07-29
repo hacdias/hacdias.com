@@ -417,6 +417,11 @@ details summary {
   margin-left: 1.5rem;
 }
 
+.right:first-child,
+.left:first-child {
+  margin-top: 0;
+}
+
 .inline-form {
   display: flex;
 }

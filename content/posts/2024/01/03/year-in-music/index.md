@@ -8,7 +8,7 @@ tags:
 ---
 
 ![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")
-{.right .pixelated style="max-width: 100px; margin-top: 0; margin-right: 1rem"}
+{.right .pixelated style="max-width: 100px; margin-right: 1rem"}
 
 Similarly to [last year](/2023/01/02/year-in-music/), here am I again to share with you some statistics about my music listening habits. A few weeks ago, I also published my [Spotify Wrapped](/2023/11/30/spotify-wrapped/), but since I do not trust it completely, here am I again, with the full data from Last.fm.
 
