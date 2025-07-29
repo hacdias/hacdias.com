@@ -13,8 +13,8 @@
       operator: EZY
       number: "8916"
     - type: train
-      departure: 2017-04-10T14:29:00Z
-      arrival: 2017-04-10T15:00:00Z
+      departure: 2017-04-10T14:29:00.000+01:00
+      arrival: 2017-04-10T15:00:00.000+01:00
       origin: London Victoria
       destination: Gatwick Airport
     - type: air
@@ -137,23 +137,23 @@
       operator: TAP
       number: "1336"
     - type: train
-      departure: 2019-02-05T16:12:00Z
-      arrival: 2019-02-05T16:42:00Z
+      departure: 2019-02-05T16:12:00.000+00:00
+      arrival: 2019-02-05T16:42:00.000+00:00
       origin: Gatwick Airport
       destination: London Victoria
     - type: train
-      departure: 2019-02-10T11:10:00Z
-      arrival: 2019-02-10T11:58:00Z
+      departure: 2019-02-10T11:10:00.000+00:00
+      arrival: 2019-02-10T11:58:00.000+00:00
       origin: London King's Cross
       destination: Cambridge
     - type: train
-      departure: 2019-02-13T10:14:00Z
-      arrival: 2019-02-13T11:02:00Z
+      departure: 2019-02-13T10:14:00.000+00:00
+      arrival: 2019-02-13T11:02:00.000+00:00
       origin: Cambridge
       destination: London King's Cross
     - type: train
-      departure: 2019-02-13T13:29:00Z
-      arrival: 2019-02-13T14:00:00Z
+      departure: 2019-02-13T13:29:00.000+00:00
+      arrival: 2019-02-13T14:00:00.000+00:00
       origin: London Victoria
       destination: Gatwick Airport
     - type: air
@@ -304,13 +304,13 @@
       operator: FlixBus
       number: "822"
     - type: train
-      departure: 2020-02-08T09:53:00Z
-      arrival: 2020-02-08T11:50:00Z
+      departure: 2020-02-08T09:53:00.000+01:00
+      arrival: 2020-02-08T11:50:00.000+01:00
       origin: Bruxelles-Midi - Brussel-Zuid
       destination: Amsterdam Centraal
     - type: train
-      departure: 2020-02-08T16:57:00Z
-      arrival: 2020-02-08T21:23:00Z
+      departure: 2020-02-08T16:57:00.000+01:00
+      arrival: 2020-02-08T21:23:00.000+01:00
       origin: Berlin Hbf
       destination: Praha hl.n.
     - type: air
@@ -356,18 +356,18 @@
       operator: RYR
       number: "7412"
     - type: train
-      departure: 2021-07-12T18:09:00Z
-      arrival: 2021-07-12T20:48:00Z
+      departure: 2021-07-12T18:09:00.000+01:00
+      arrival: 2021-07-12T20:48:00.000+01:00
       origin: Lisboa - Oriente
       destination: Porto - Campanhã
     - type: train
-      departure: 2021-07-15T10:45:00Z
-      arrival: 2021-07-15T13:52:00Z
+      departure: 2021-07-15T10:45:00.000+01:00
+      arrival: 2021-07-15T13:52:00.000+01:00
       origin: Porto - Campanhã
       destination: Lisboa - Oriente
     - type: train
-      departure: 2021-07-15T14:10:00Z
-      arrival: 2021-07-15T15:53:00Z
+      departure: 2021-07-15T14:10:00.000+01:00
+      arrival: 2021-07-15T15:53:00.000+01:00
       origin: Lisbon Entrecampos
       destination: Funcheira
     - type: air
@@ -385,33 +385,33 @@
   longitude: 3.729049290922049
   itinerary:
     - type: train
-      departure: 2021-08-21T07:43:00Z
-      arrival: 2021-08-21T08:21:00Z
+      departure: 2021-08-21T07:43:00.000+02:00
+      arrival: 2021-08-21T08:21:00.000+02:00
       origin: Eindhoven Centraal
       destination: Breda
     - type: train
-      departure: 2021-08-21T08:42:00Z
-      arrival: 2021-08-21T09:16:00Z
+      departure: 2021-08-21T08:42:00.000+02:00
+      arrival: 2021-08-21T09:16:00.000+02:00
       origin: Breda
       destination: Antwerpen-Centraal
     - type: train
-      departure: 2021-08-21T09:36:00Z
-      arrival: 2021-08-21T10:32:00Z
+      departure: 2021-08-21T09:36:00.000+02:00
+      arrival: 2021-08-21T10:32:00.000+02:00
       origin: Antwerpen-Centraal
       destination: Gent-Sint-Pieters
     - type: train
-      departure: 2021-08-21T17:27:00Z
-      arrival: 2021-08-21T18:23:00Z
+      departure: 2021-08-21T17:27:00.000+02:00
+      arrival: 2021-08-21T18:23:00.000+02:00
       origin: Gent-Sint-Pieters
       destination: Antwerpen-Centraal
     - type: train
-      departure: 2021-08-21T18:45:00Z
-      arrival: 2021-08-21T19:18:00Z
+      departure: 2021-08-21T18:45:00.000+02:00
+      arrival: 2021-08-21T19:18:00.000+02:00
       origin: Antwerpen-Centraal
       destination: Breda
     - type: train
-      departure: 2021-08-21T19:38:00Z
-      arrival: 2021-08-21T20:16:00Z
+      departure: 2021-08-21T19:38:00.000+02:00
+      arrival: 2021-08-21T20:16:00.000+02:00
       origin: Breda
       destination: Eindhoven Centraal
 - name: Weekend Trip With Partner
@@ -492,23 +492,23 @@
   longitude: -0.12071889338
   itinerary:
     - type: train
-      departure: 2022-04-21T13:14:00Z
-      arrival: 2022-04-21T14:15:00Z
+      departure: 2022-04-21T13:14:00.000+02:00
+      arrival: 2022-04-21T14:15:00.000+02:00
       origin: Eindhoven Centraal
       destination: Rotterdam Centraal
     - type: train
-      departure: 2022-04-21T17:28:00Z
-      arrival: 2022-04-21T20:27:00Z
+      departure: 2022-04-21T17:28:00.000+02:00
+      arrival: 2022-04-21T20:27:00.000+01:00
       origin: Rotterdam Centraal
       destination: London St. Pancras
     - type: train
-      departure: 2022-04-25T18:04:00Z
-      arrival: 2022-04-25T22:32:00Z
+      departure: 2022-04-25T18:04:00.000+01:00
+      arrival: 2022-04-25T22:32:00.000+02:00
       origin: London St. Pancras
       destination: Rotterdam Centraal
     - type: train
-      departure: 2022-04-25T22:44:00Z
-      arrival: 2022-04-25T23:46:00Z
+      departure: 2022-04-25T22:44:00.000+02:00
+      arrival: 2022-04-25T23:46:00.000+02:00
       origin: Rotterdam Centraal
       destination: Eindhoven Centraal
 - name: Family Visit
@@ -547,38 +547,38 @@
       operator: RYR
       number: "6833"
     - type: train
-      departure: 2022-09-14T14:25:00Z
-      arrival: 2022-09-14T15:40:00Z
+      departure: 2022-09-14T14:25:00.000+02:00
+      arrival: 2022-09-14T15:40:00.000+02:00
       origin: Napoli Centrale
       destination: Roma Termini
     - type: train
-      departure: 2022-09-16T09:57:00Z
-      arrival: 2022-09-16T12:59:00Z
+      departure: 2022-09-16T09:57:00.000+02:00
+      arrival: 2022-09-16T12:59:00.000+02:00
       origin: Roma Termini
       destination: Pisa Centrale
     - type: train
-      departure: 2022-09-16T17:09:00Z
-      arrival: 2022-09-16T18:01:00Z
+      departure: 2022-09-16T17:09:00.000+02:00
+      arrival: 2022-09-16T18:01:00.000+02:00
       origin: Pisa Centrale
       destination: Firenze Santa Maria Novella
     - type: train
-      departure: 2022-09-18T09:10:00Z
-      arrival: 2022-09-18T09:48:00Z
+      departure: 2022-09-18T09:10:00.000+02:00
+      arrival: 2022-09-18T09:48:00.000+02:00
       origin: Firenze Santa Maria Novella
       destination: Bologna Centrale
     - type: train
-      departure: 2022-09-18T17:10:00Z
-      arrival: 2022-09-18T19:20:00Z
+      departure: 2022-09-18T17:10:00.000+02:00
+      arrival: 2022-09-18T19:20:00.000+02:00
       origin: Bologna Centrale
       destination: Venezia Santa Lucia
     - type: train
-      departure: 2022-09-20T15:18:00Z
-      arrival: 2022-09-20T17:55:00Z
+      departure: 2022-09-20T15:18:00.000+02:00
+      arrival: 2022-09-20T17:55:00.000+02:00
       origin: Venezia Santa Lucia
       destination: Milano Centrale
     - type: train
-      departure: 2022-09-21T16:05:00Z
-      arrival: 2022-09-21T16:53:00Z
+      departure: 2022-09-21T16:05:00.000+02:00
+      arrival: 2022-09-21T16:53:00.000+02:00
       origin: Milano Centrale
       destination: Bergamo
     - type: air
@@ -617,13 +617,13 @@
   longitude: 6.0839712025301695
   itinerary:
     - type: train
-      departure: 2022-12-17T10:08:00Z
-      arrival: 2022-12-17T11:11:00Z
+      departure: 2022-12-17T10:08:00.000+01:00
+      arrival: 2022-12-17T11:11:00.000+01:00
       origin: Eindhoven Centraal
       destination: Heerlen
     - type: train
-      departure: 2022-12-18T14:19:00Z
-      arrival: 2022-12-18T15:20:00Z
+      departure: 2022-12-18T14:19:00.000+01:00
+      arrival: 2022-12-18T15:20:00.000+01:00
       origin: Heerlen
       destination: Eindhoven Centraal
 - name: Christmas Holiday With Family
@@ -655,58 +655,58 @@
   longitude: 8.40192
   itinerary:
     - type: train
-      departure: 2023-01-10T07:36:00Z
-      arrival: 2023-01-10T08:27:00Z
+      departure: 2023-01-10T07:36:00.000+01:00
+      arrival: 2023-01-10T08:27:00.000+01:00
       origin: Eindhoven Centraal
       destination: Utrecht Centraal
     - type: train
-      departure: 2023-01-10T08:34:00Z
-      arrival: 2023-01-10T14:47:00Z
+      departure: 2023-01-10T08:34:00.000+01:00
+      arrival: 2023-01-10T14:47:00.000+01:00
       origin: Utrecht Centraal
       destination: Basel SBB
     - type: train
-      departure: 2023-01-10T15:03:00Z
-      arrival: 2023-01-10T16:05:00Z
+      departure: 2023-01-10T15:03:00.000+01:00
+      arrival: 2023-01-10T16:05:00.000+01:00
       origin: Basel SBB
       destination: Luzern
     - type: train
-      departure: 2023-01-10T16:10:00Z
-      arrival: 2023-01-10T16:53:00Z
+      departure: 2023-01-10T16:10:00.000+01:00
+      arrival: 2023-01-10T16:53:00.000+01:00
       origin: Luzern
       destination: Engelberg
     - type: train
-      departure: 2023-01-16T09:02:00Z
-      arrival: 2023-01-16T09:49:00Z
+      departure: 2023-01-16T09:02:00.000+01:00
+      arrival: 2023-01-16T09:49:00.000+01:00
       origin: Engelberg
       destination: Luzern
     - type: train
-      departure: 2023-01-16T09:54:00Z
-      arrival: 2023-01-16T10:56:00Z
+      departure: 2023-01-16T09:54:00.000+01:00
+      arrival: 2023-01-16T10:56:00.000+01:00
       origin: Luzern
       destination: Basel SBB
     - type: train
-      departure: 2023-01-16T11:13:00Z
-      arrival: 2023-01-16T15:32:00Z
+      departure: 2023-01-16T11:13:00.000+01:00
+      arrival: 2023-01-16T15:32:00.000+01:00
       origin: Basel SBB
       destination: Düsseldorf Hbf
     - type: train
-      departure: 2023-01-16T15:52:00Z
-      arrival: 2023-01-16T16:26:00Z
+      departure: 2023-01-16T15:52:00.000+01:00
+      arrival: 2023-01-16T16:26:00.000+01:00
       origin: Düsseldorf Hbf
       destination: Mönchengladbach Hbf
     - type: train
-      departure: 2023-01-16T17:22:00Z
-      arrival: 2023-01-16T17:28:00Z
+      departure: 2023-01-16T17:22:00.000+01:00
+      arrival: 2023-01-16T17:28:00.000+01:00
       origin: Mönchengladbach Hbf
       destination: Viersen
     - type: train
-      departure: 2023-01-16T18:33:00Z
-      arrival: 2023-01-16T18:56:00Z
+      departure: 2023-01-16T18:33:00.000+01:00
+      arrival: 2023-01-16T18:56:00.000+01:00
       origin: Viersen
       destination: Venlo
     - type: train
-      departure: 2023-01-16T19:03:00Z
-      arrival: 2023-01-16T19:41:00Z
+      departure: 2023-01-16T19:03:00.000+01:00
+      arrival: 2023-01-16T19:41:00.000+01:00
       origin: Venlo
       destination: Eindhoven Centraal
 - name: IPFS þing 2023
@@ -717,23 +717,23 @@
   longitude: 4.3509642
   itinerary:
     - type: train
-      departure: 2023-04-14T10:44:00Z
-      arrival: 2023-04-14T11:21:00Z
+      departure: 2023-04-14T10:44:00.000+02:00
+      arrival: 2023-04-14T11:21:00.000+02:00
       origin: Eindhoven Centraal
       destination: Breda
     - type: train
-      departure: 2023-04-14T11:42:00Z
-      arrival: 2023-04-14T13:12:00Z
+      departure: 2023-04-14T11:42:00.000+02:00
+      arrival: 2023-04-14T13:12:00.000+02:00
       origin: Breda
       destination: Bruxelles-Central
     - type: train
-      departure: 2023-04-20T12:49:00Z
-      arrival: 2023-04-20T14:18:00Z
+      departure: 2023-04-20T12:49:00.000+02:00
+      arrival: 2023-04-20T14:18:00.000+02:00
       origin: Bruxelles-Central
       destination: Breda
     - type: train
-      departure: 2023-04-20T14:38:00Z
-      arrival: 2023-04-20T15:16:00Z
+      departure: 2023-04-20T14:38:00.000+02:00
+      arrival: 2023-04-20T15:16:00.000+02:00
       origin: Breda
       destination: Eindhoven Centraal
 - name: France With Friends
@@ -747,13 +747,13 @@
       destination: Lille
       type: car
     - type: train
-      departure: 2023-04-28T10:12:00Z
-      arrival: 2023-04-28T11:14:00Z
+      departure: 2023-04-28T10:12:00.000+02:00
+      arrival: 2023-04-28T11:14:00.000+02:00
       origin: Lille Flandres
       destination: Paris Nord
     - type: train
-      departure: 2023-04-30T12:44:00Z
-      arrival: 2023-04-30T13:46:00Z
+      departure: 2023-04-30T12:44:00.000+02:00
+      arrival: 2023-04-30T13:46:00.000+02:00
       origin: Paris Nord
       destination: Lille Flandres
     - departure: 2023-04-30T16:10:00+01:00
@@ -792,48 +792,48 @@
   longitude: 10.776930746259167
   itinerary:
     - type: train
-      departure: 2023-07-28T08:34:00Z
-      arrival: 2023-07-28T10:04:00Z
+      departure: 2023-07-28T08:34:00.000+02:00
+      arrival: 2023-07-28T10:04:00.000+02:00
       origin: Utrecht Centraal
       destination: Duisburg Hbf
     - type: train
-      departure: 2023-07-28T10:35:00Z
-      arrival: 2023-07-28T13:01:00Z
+      departure: 2023-07-28T10:35:00.000+02:00
+      arrival: 2023-07-28T13:01:00.000+02:00
       origin: Duisburg Hbf
       destination: Hannover Hbf
     - type: train
-      departure: 2023-07-28T14:48:00Z
-      arrival: 2023-07-28T15:53:00Z
+      departure: 2023-07-28T14:48:00.000+02:00
+      arrival: 2023-07-28T15:53:00.000+02:00
       origin: Hannover Hbf
       destination: Goslar
     - type: train
-      departure: 2023-07-28T16:06:00Z
-      arrival: 2023-07-28T16:39:00Z
+      departure: 2023-07-28T16:06:00.000+02:00
+      arrival: 2023-07-28T16:39:00.000+02:00
       origin: Goslar
       destination: Wernigerode Hbf
     - type: train
-      departure: 2023-07-29T12:10:00Z
-      arrival: 2023-07-29T12:34:00Z
+      departure: 2023-07-29T12:10:00.000+02:00
+      arrival: 2023-07-29T12:34:00.000+02:00
       origin: Wernigerode-Hasserode
       destination: Drei Annen Hohne
     - type: train
-      departure: 2023-07-30T10:03:00Z
-      arrival: 2023-07-30T11:10:00Z
+      departure: 2023-07-30T10:03:00.000+02:00
+      arrival: 2023-07-30T11:10:00.000+02:00
       origin: Goslar
       destination: Hannover Hbf
     - type: train
-      departure: 2023-07-30T11:56:00Z
-      arrival: 2023-07-30T14:41:00Z
+      departure: 2023-07-30T11:56:00.000+02:00
+      arrival: 2023-07-30T14:41:00.000+02:00
       origin: Hannover Hbf
       destination: Deventer
     - type: train
-      departure: 2023-07-30T15:45:00Z
-      arrival: 2023-07-30T17:06:00Z
+      departure: 2023-07-30T15:45:00.000+02:00
+      arrival: 2023-07-30T17:06:00.000+02:00
       origin: Deventer
       destination: "'s-Hertogenbosch"
     - type: train
-      departure: 2023-07-30T17:24:00Z
-      arrival: 2023-07-30T17:43:00Z
+      departure: 2023-07-30T17:24:00.000+02:00
+      arrival: 2023-07-30T17:43:00.000+02:00
       origin: "'s-Hertogenbosch"
       destination: Eindhoven Centraal
 - name: Weekend in Spa With Partner
@@ -844,43 +844,43 @@
   longitude: 5.8528801
   itinerary:
     - type: train
-      departure: 2023-09-29T09:27:00Z
-      arrival: 2023-09-29T10:30:00Z
+      departure: 2023-09-29T09:27:00.000+02:00
+      arrival: 2023-09-29T10:30:00.000+02:00
       origin: Eindhoven Centraal
       destination: Maastricht
     - type: train
-      departure: 2023-09-29T10:48:00Z
-      arrival: 2023-09-29T11:22:00Z
+      departure: 2023-09-29T10:48:00.000+02:00
+      arrival: 2023-09-29T11:22:00.000+02:00
       origin: Maastricht
       destination: Liège-Guillemins
     - type: train
-      departure: 2023-09-29T11:34:00Z
-      arrival: 2023-09-29T11:53:00Z
+      departure: 2023-09-29T11:34:00.000+02:00
+      arrival: 2023-09-29T11:53:00.000+02:00
       origin: Liège-Guillemins
       destination: Pepinster
     - type: train
-      departure: 2023-09-29T12:01:00Z
-      arrival: 2023-09-29T12:19:00Z
+      departure: 2023-09-29T12:01:00.000+02:00
+      arrival: 2023-09-29T12:19:00.000+02:00
       origin: Pepinster
       destination: Spa
     - type: train
-      departure: 2023-10-01T10:41:00Z
-      arrival: 2023-10-01T10:59:00Z
+      departure: 2023-10-01T10:41:00.000+02:00
+      arrival: 2023-10-01T10:59:00.000+02:00
       origin: Spa
       destination: Pepinster
     - type: train
-      departure: 2023-10-01T11:14:00Z
-      arrival: 2023-10-01T11:39:00Z
+      departure: 2023-10-01T11:14:00.000+02:00
+      arrival: 2023-10-01T11:39:00.000+02:00
       origin: Pepinster
       destination: Liège-Guillemins
     - type: train
-      departure: 2023-10-01T12:07:00Z
-      arrival: 2023-10-01T12:42:00Z
+      departure: 2023-10-01T12:07:00.000+02:00
+      arrival: 2023-10-01T12:42:00.000+02:00
       origin: Liège-Guillemins
       destination: Maastricht
     - type: train
-      departure: 2023-10-01T12:59:00Z
-      arrival: 2023-10-01T14:01:00Z
+      departure: 2023-10-01T12:59:00.000+02:00
+      arrival: 2023-10-01T14:01:00.000+02:00
       origin: Maastricht
       destination: Eindhoven Centraal
 - name: Christmas Markets Trip With Partner
@@ -891,33 +891,33 @@
   longitude: 6.8025172
   itinerary:
     - type: train
-      departure: 2023-12-01T10:19:00Z
-      arrival: 2023-12-01T10:58:00Z
+      departure: 2023-12-01T10:19:00.000+01:00
+      arrival: 2023-12-01T10:58:00.000+01:00
       origin: Eindhoven Centraal
       destination: Venlo
     - type: train
-      departure: 2023-12-01T11:05:00Z
-      arrival: 2023-12-01T11:56:00Z
+      departure: 2023-12-01T11:05:00.000+01:00
+      arrival: 2023-12-01T11:56:00.000+01:00
       origin: Venlo
       destination: Neuss Hbf
     - type: train
-      departure: 2023-12-01T12:24:00Z
-      arrival: 2023-12-01T12:52:00Z
+      departure: 2023-12-01T12:24:00.000+01:00
+      arrival: 2023-12-01T12:52:00.000+01:00
       origin: Neuss Hbf
       destination: Köln Hbf
     - type: train
-      departure: 2023-12-03T12:07:00Z
-      arrival: 2023-12-03T12:33:00Z
+      departure: 2023-12-03T12:07:00.000+01:00
+      arrival: 2023-12-03T12:33:00.000+01:00
       origin: Köln Hbf
       destination: Neuss Hbf
     - type: train
-      departure: 2023-12-03T13:01:00Z
-      arrival: 2023-12-03T13:56:00Z
+      departure: 2023-12-03T13:01:00.000+01:00
+      arrival: 2023-12-03T13:56:00.000+01:00
       origin: Neuss Hbf
       destination: Venlo
     - type: train
-      departure: 2023-12-03T14:04:00Z
-      arrival: 2023-12-03T14:42:00Z
+      departure: 2023-12-03T14:04:00.000+01:00
+      arrival: 2023-12-03T14:42:00.000+01:00
       origin: Venlo
       destination: Eindhoven Centraal
 - name: Christmas Holiday With Family
@@ -949,23 +949,23 @@
   longitude: 4.3509642
   itinerary:
     - type: train
-      departure: 2024-02-02T11:14:00Z
-      arrival: 2024-02-02T11:51:00Z
+      departure: 2024-02-02T11:14:00.000+01:00
+      arrival: 2024-02-02T11:51:00.000+01:00
       origin: Eindhoven Centraal
       destination: Breda
     - type: train
-      departure: 2024-02-02T12:42:00Z
-      arrival: 2024-02-02T14:12:00Z
+      departure: 2024-02-02T12:42:00.000+01:00
+      arrival: 2024-02-02T14:12:00.000+01:00
       origin: Breda
       destination: Bruxelles-Central
     - type: train
-      departure: 2024-02-05T07:49:00Z
-      arrival: 2024-02-05T09:18:00Z
+      departure: 2024-02-05T07:49:00.000+01:00
+      arrival: 2024-02-05T09:18:00.000+01:00
       origin: Bruxelles-Central
       destination: Breda
     - type: train
-      departure: 2024-02-05T09:38:00Z
-      arrival: 2024-02-05T10:16:00Z
+      departure: 2024-02-05T09:38:00.000+01:00
+      arrival: 2024-02-05T10:16:00.000+01:00
       origin: Breda
       destination: Eindhoven Centraal
 - name: Small Trip With Partner
@@ -976,8 +976,8 @@
   longitude: 16.2148664
   itinerary:
     - type: train
-      departure: 2024-02-21T19:33:00Z
-      arrival: 2024-02-22T09:17:00Z
+      departure: 2024-02-21T19:33:00.000+01:00
+      arrival: 2024-02-22T09:17:00.000+01:00
       origin: Utrecht Centraal
       destination: Wien Hbf
     - departure: 2024-02-24T10:20:00+01:00
@@ -995,13 +995,13 @@
       operator: FlixBus
       number: "901"
     - type: train
-      departure: 2024-02-25T20:10:00Z
-      arrival: 2024-02-26T09:30:00Z
+      departure: 2024-02-25T20:10:00.000+01:00
+      arrival: 2024-02-26T09:30:00.000+01:00
       origin: Wien Hbf
       destination: Utrecht Centraal
     - type: train
-      departure: 2024-02-26T10:23:00Z
-      arrival: 2024-02-26T11:13:00Z
+      departure: 2024-02-26T10:23:00.000+01:00
+      arrival: 2024-02-26T11:13:00.000+01:00
       origin: Utrecht Centraal
       destination: Eindhoven Centraal
 - name: Trip With Friends
@@ -1012,43 +1012,43 @@
   longitude: 16.2148664
   itinerary:
     - type: train
-      departure: 2024-03-11T09:19:00Z
-      arrival: 2024-03-11T09:58:00Z
+      departure: 2024-03-11T09:19:00.000+01:00
+      arrival: 2024-03-11T09:58:00.000+01:00
       origin: Eindhoven Centraal
       destination: Venlo
     - type: train
-      departure: 2024-03-11T10:05:00Z
-      arrival: 2024-03-11T11:10:00Z
+      departure: 2024-03-11T10:05:00.000+01:00
+      arrival: 2024-03-11T11:10:00.000+01:00
       origin: Venlo
       destination: Düsseldorf Hbf
     - type: train
-      departure: 2024-03-11T11:21:00Z
-      arrival: 2024-03-11T16:07:00Z
+      departure: 2024-03-11T11:21:00.000+01:00
+      arrival: 2024-03-11T16:07:00.000+01:00
       origin: Düsseldorf Hbf
       destination: München Hbf
     - type: train
-      departure: 2024-03-13T10:54:00Z
-      arrival: 2024-03-13T14:27:00Z
+      departure: 2024-03-13T10:54:00.000+01:00
+      arrival: 2024-03-13T14:27:00.000+01:00
       origin: München Hbf
       destination: Zürich HB
     - type: train
-      departure: 2024-03-15T09:32:00Z
-      arrival: 2024-03-15T12:28:00Z
+      departure: 2024-03-15T09:32:00.000+01:00
+      arrival: 2024-03-15T12:28:00.000+01:00
       origin: Zürich HB
       destination: Genève
     - type: train
-      departure: 2024-03-17T10:30:00Z
-      arrival: 2024-03-17T13:42:00Z
+      departure: 2024-03-17T10:30:00.000+01:00
+      arrival: 2024-03-17T13:42:00.000+01:00
       origin: Genève
       destination: Paris Gare de Lyon
     - type: train
-      departure: 2024-03-17T15:22:00Z
-      arrival: 2024-03-17T18:02:00Z
+      departure: 2024-03-17T15:22:00.000+01:00
+      arrival: 2024-03-17T18:02:00.000+01:00
       origin: Paris Nord
       destination: Rotterdam Centraal
     - type: train
-      departure: 2024-03-17T18:14:00Z
-      arrival: 2024-03-17T19:16:00Z
+      departure: 2024-03-17T18:14:00.000+01:00
+      arrival: 2024-03-17T19:16:00.000+01:00
       origin: Rotterdam Centraal
       destination: Eindhoven Centraal
 - name: EIC 2024
@@ -1097,13 +1097,13 @@
   longitude: 6.025623332936
   itinerary:
     - type: train
-      departure: 2024-08-23T12:29:00Z
-      arrival: 2024-08-23T13:33:00Z
+      departure: 2024-08-23T12:29:00.000+02:00
+      arrival: 2024-08-23T13:33:00.000+02:00
       origin: Eindhoven Centraal
       destination: Maastricht
     - type: train
-      departure: 2024-08-25T10:59:00Z
-      arrival: 2024-08-25T12:03:00Z
+      departure: 2024-08-25T10:59:00.000+02:00
+      arrival: 2024-08-25T12:03:00.000+02:00
       origin: Maastricht
       destination: Eindhoven Centraal
 - name: Weekend Trip With Partner
@@ -1114,23 +1114,23 @@
   longitude: 6.4832932
   itinerary:
     - type: train
-      departure: 2024-08-31T10:03:00Z
-      arrival: 2024-08-31T10:50:00Z
+      departure: 2024-08-31T10:03:00.000+02:00
+      arrival: 2024-08-31T10:50:00.000+02:00
       origin: Eindhoven Centraal
       destination: Utrecht Centraal
     - type: train
-      departure: 2024-08-31T10:51:00Z
-      arrival: 2024-08-31T12:42:00Z
+      departure: 2024-08-31T10:51:00.000+02:00
+      arrival: 2024-08-31T12:42:00.000+02:00
       origin: Utrecht Centraal
       destination: Groningen
     - type: train
-      departure: 2024-09-01T16:18:00Z
-      arrival: 2024-09-01T18:09:00Z
+      departure: 2024-09-01T16:18:00.000+02:00
+      arrival: 2024-09-01T18:09:00.000+02:00
       origin: Groningen
       destination: Utrecht Centraal
     - type: train
-      departure: 2024-09-01T18:14:00Z
-      arrival: 2024-09-01T19:03:00Z
+      departure: 2024-09-01T18:14:00.000+02:00
+      arrival: 2024-09-01T19:03:00.000+02:00
       origin: Utrecht Centraal
       destination: Eindhoven Centraal
 - name: Trip With Partner's Family
@@ -1141,8 +1141,8 @@
   longitude: -4.6378735
   itinerary:
     - type: train
-      departure: 2024-10-19T10:47:00Z
-      arrival: 2024-10-19T12:13:00Z
+      departure: 2024-10-19T10:47:00.000+02:00
+      arrival: 2024-10-19T12:13:00.000+02:00
       origin: Eindhoven Centraal
       destination: Schiphol Airport
     - type: air
@@ -1153,13 +1153,13 @@
       operator: VLG
       number: "8366"
     - type: train
-      departure: 2024-10-22T09:17:00Z
-      arrival: 2024-10-22T11:19:00Z
+      departure: 2024-10-22T09:17:00.000+02:00
+      arrival: 2024-10-22T11:19:00.000+02:00
       origin: Málaga María Zambrano
       destination: Sevilla - Santa Justa
     - type: train
-      departure: 2024-10-22T20:16:00Z
-      arrival: 2024-10-22T22:15:00Z
+      departure: 2024-10-22T20:16:00.000+02:00
+      arrival: 2024-10-22T22:15:00.000+02:00
       origin: Sevilla - Santa Justa
       destination: Málaga María Zambrano
     - type: air
@@ -1170,8 +1170,8 @@
       operator: EZY
       number: "7890"
     - type: train
-      departure: 2024-10-26T15:45:00Z
-      arrival: 2024-10-26T17:14:00Z
+      departure: 2024-10-26T15:45:00.000+02:00
+      arrival: 2024-10-26T17:14:00.000+02:00
       origin: Schiphol Airport
       destination: Eindhoven Centraal
 - name: Christmas Holiday With Family
@@ -1203,53 +1203,53 @@
   longitude: 3.224858089101971
   itinerary:
     - type: train
-      departure: 2024-12-28T10:44:00Z
-      arrival: 2024-12-28T11:21:00Z
+      departure: 2024-12-28T10:44:00.000+01:00
+      arrival: 2024-12-28T11:21:00.000+01:00
       origin: Eindhoven Centraal
       destination: Breda
     - type: train
-      departure: 2024-12-28T11:42:00Z
-      arrival: 2024-12-28T12:23:00Z
+      departure: 2024-12-28T11:42:00.000+01:00
+      arrival: 2024-12-28T12:23:00.000+01:00
       origin: Breda
       destination: Antwerpen-Berchem
     - type: train
-      departure: 2024-12-28T12:42:00Z
-      arrival: 2024-12-28T13:32:00Z
+      departure: 2024-12-28T12:42:00.000+01:00
+      arrival: 2024-12-28T13:32:00.000+01:00
       origin: Antwerpen-Berchem
       destination: Gent-Sint-Pieters
     - type: train
-      departure: 2024-12-28T13:38:00Z
-      arrival: 2024-12-28T14:00:00Z
+      departure: 2024-12-28T13:38:00.000+01:00
+      arrival: 2024-12-28T14:00:00.000+01:00
       origin: Gent-Sint-Pieters
       destination: Brugge
     - type: train
-      departure: 2024-12-29T13:34:00Z
-      arrival: 2024-12-29T14:00:00Z
+      departure: 2024-12-29T13:34:00.000+01:00
+      arrival: 2024-12-29T14:00:00.000+01:00
       origin: Brugge
       destination: Gent-Sint-Pieters
     - type: train
-      departure: 2024-12-29T16:02:00Z
-      arrival: 2024-12-29T16:54:00Z
+      departure: 2024-12-29T16:02:00.000+01:00
+      arrival: 2024-12-29T16:54:00.000+01:00
       origin: Gent-Dampoort
       destination: Antwerpen-Centraal
     - type: train
-      departure: 2024-12-29T17:25:00Z
-      arrival: 2024-12-29T18:24:00Z
+      departure: 2024-12-29T17:25:00.000+01:00
+      arrival: 2024-12-29T18:24:00.000+01:00
       origin: Antwerpen-Centraal
       destination: Rotterdam Centraal
     - type: train
-      departure: 2024-12-29T18:23:00Z
-      arrival: 2024-12-29T18:45:00Z
+      departure: 2024-12-29T18:23:00.000+01:00
+      arrival: 2024-12-29T18:45:00.000+01:00
       origin: Rotterdam Centraal
       destination: Breda
     - type: train
-      departure: 2024-12-29T18:49:00Z
-      arrival: 2024-12-29T19:02:00Z
+      departure: 2024-12-29T18:49:00.000+01:00
+      arrival: 2024-12-29T19:02:00.000+01:00
       origin: Breda
       destination: Tilburg
     - type: train
-      departure: 2024-12-29T19:08:00Z
-      arrival: 2024-12-29T19:34:00Z
+      departure: 2024-12-29T19:08:00.000+01:00
+      arrival: 2024-12-29T19:34:00.000+01:00
       origin: Tilburg
       destination: Eindhoven Strijp-S
 - name: Visit Friend With Partner
@@ -1260,23 +1260,23 @@
   longitude: -0.12071889338
   itinerary:
     - type: train
-      departure: 2025-02-12T16:14:00Z
-      arrival: 2025-02-12T17:15:00Z
+      departure: 2025-02-12T16:14:00.000+01:00
+      arrival: 2025-02-12T17:15:00.000+01:00
       origin: Eindhoven Centraal
       destination: Rotterdam Centraal
     - type: train
-      departure: 2025-02-12T19:28:00Z
-      arrival: 2025-02-12T21:57:00Z
+      departure: 2025-02-12T19:28:00.000+01:00
+      arrival: 2025-02-12T21:57:00.000+00:00
       origin: Rotterdam Centraal
       destination: London St. Pancras
     - type: train
-      departure: 2025-02-16T11:04:00Z
-      arrival: 2025-02-16T15:32:00Z
+      departure: 2025-02-16T11:04:00.000+00:00
+      arrival: 2025-02-16T15:32:00.000+01:00
       origin: London St. Pancras
       destination: Rotterdam Centraal
     - type: train
-      departure: 2025-02-16T15:44:00Z
-      arrival: 2025-02-16T16:46:00Z
+      departure: 2025-02-16T15:44:00.000+01:00
+      arrival: 2025-02-16T16:46:00.000+01:00
       origin: Rotterdam Centraal
       destination: Eindhoven Centraal
 - name: Weekend Trip With Partner
@@ -1287,28 +1287,28 @@
   longitude: 4.1929714
   itinerary:
     - type: train
-      departure: 2025-03-01T09:43:00Z
-      arrival: 2025-03-01T10:21:00Z
+      departure: 2025-03-01T09:43:00.000+01:00
+      arrival: 2025-03-01T10:21:00.000+01:00
       origin: Eindhoven Centraal
       destination: Breda
     - type: train
-      departure: 2025-03-01T10:42:00Z
-      arrival: 2025-03-01T11:16:00Z
+      departure: 2025-03-01T10:42:00.000+01:00
+      arrival: 2025-03-01T11:16:00.000+01:00
       origin: Breda
       destination: Antwerpen-Centraal
     - type: train
-      departure: 2025-03-02T11:45:00Z
-      arrival: 2025-03-02T12:18:00Z
+      departure: 2025-03-02T11:45:00.000+01:00
+      arrival: 2025-03-02T12:18:00.000+01:00
       origin: Antwerpen-Centraal
       destination: Breda
     - type: train
-      departure: 2025-03-02T12:19:00Z
-      arrival: 2025-03-02T12:32:00Z
+      departure: 2025-03-02T12:19:00.000+01:00
+      arrival: 2025-03-02T12:32:00.000+01:00
       origin: Breda
       destination: Tilburg
     - type: train
-      departure: 2025-03-02T12:38:00Z
-      arrival: 2025-03-02T13:04:00Z
+      departure: 2025-03-02T12:38:00.000+01:00
+      arrival: 2025-03-02T13:04:00.000+01:00
       origin: Tilburg
       destination: Eindhoven Strijp-S
 - name: Japan Trip With Partner
@@ -1319,8 +1319,8 @@
   longitude: 126.5663159
   itinerary:
     - type: train
-      departure: 2025-04-09T09:47:00Z
-      arrival: 2025-04-09T11:13:00Z
+      departure: 2025-04-09T09:47:00.000+02:00
+      arrival: 2025-04-09T11:13:00.000+02:00
       origin: Eindhoven Centraal
       destination: Schiphol Airport
     - type: air
@@ -1331,75 +1331,80 @@
       operator: KLM
       number: "867"
     - type: train
-      departure: 2025-04-10T11:20:00Z
-      arrival: 2025-04-10T12:10:00Z
+      departure: 2025-04-10T11:20:00.000+09:00
+      arrival: 2025-04-10T12:10:00.000+09:00
       origin: Kansai Airport
       destination: Shin-Imaimiya
     - type: train
-      departure: 2025-04-10T12:20:00Z
-      arrival: 2025-04-10T12:43:00Z
+      departure: 2025-04-10T12:20:00.000+09:00
+      arrival: 2025-04-10T12:43:00.000+09:00
       origin: Shin-Imaimiya
       destination: Osaka
     - type: train
-      departure: 2025-04-11T08:20:00Z
-      arrival: 2025-04-11T08:32:00Z
+      departure: 2025-04-11T08:20:00.000+09:00
+      arrival: 2025-04-11T08:32:00.000+09:00
       origin: Osaka
       destination: Universal City
     - type: train
-      departure: 2025-04-11T18:15:00Z
-      arrival: 2025-04-11T18:30:00Z
+      departure: 2025-04-11T18:15:00.000+09:00
+      arrival: 2025-04-11T18:30:00.000+09:00
       origin: Universal City
       destination: Osaka
     - type: train
-      departure: 2025-04-14T10:00:00Z
-      arrival: 2025-04-14T10:29:00Z
+      departure: 2025-04-14T10:00:00.000+09:00
+      arrival: 2025-04-14T10:29:00.000+09:00
       origin: Osaka
       destination: Kyoto
     - type: train
-      departure: 2025-04-15T10:00:00Z
-      arrival: 2025-04-15T11:10:00Z
+      departure: 2025-04-15T10:00:00.000+09:00
+      arrival: 2025-04-15T11:10:00.000+09:00
       origin: Kyoto
       destination: Nara
     - type: train
-      departure: 2025-04-15T13:39:00Z
-      arrival: 2025-04-15T14:15:00Z
+      departure: 2025-04-15T13:39:00.000+09:00
+      arrival: 2025-04-15T14:15:00.000+09:00
       origin: Shinomiya
       destination: Kintetsu-Tambabashi
     - type: train
-      departure: 2025-04-15T14:25:00Z
-      arrival: 2025-04-15T14:30:00Z
+      departure: 2025-04-15T14:25:00.000+09:00
+      arrival: 2025-04-15T14:30:00.000+09:00
       origin: Tambabashi
       destination: Fushimi-Inari
     - type: train
-      departure: 2025-04-15T17:08:00Z
-      arrival: 2025-04-15T17:13:00Z
+      departure: 2025-04-15T17:08:00.000+09:00
+      arrival: 2025-04-15T17:13:00.000+09:00
       origin: Fushimi-Inari
       destination: Kyoto
     - type: train
-      departure: 2025-04-17T14:15:00Z
-      arrival: 2025-04-17T14:37:00Z
+      departure: 2025-04-17T14:15:00.000+09:00
+      arrival: 2025-04-17T14:37:00.000+09:00
       origin: Kyoto
       destination: Uji
     - type: train
-      departure: 2025-04-17T16:52:00Z
-      arrival: 2025-04-17T17:13:00Z
+      departure: 2025-04-17T16:52:00.000+09:00
+      arrival: 2025-04-17T17:13:00.000+09:00
       origin: Uji
       destination: Kyoto
     - type: train
-      departure: 2025-04-18T14:06:00Z
-      arrival: 2025-04-18T16:21:00Z
+      departure: 2025-04-18T14:06:00.000+09:00
+      arrival: 2025-04-18T16:21:00.000+09:00
       origin: Kyoto
       destination: Tokyo
     - type: train
-      departure: 2025-04-21T09:30:00Z
-      arrival: 2025-04-21T11:36:00Z
+      departure: 2025-04-21T09:30:00.000+09:00
+      arrival: 2025-04-21T11:36:00.000+09:00
       origin: Shinjuku
       destination: Otsuki
     - type: train
-      departure: 2025-04-21T11:51:00Z
-      arrival: 2025-04-21T12:50:00Z
+      departure: 2025-04-21T11:51:00.000+09:00
+      arrival: 2025-04-21T12:50:00.000+09:00
       origin: Otsuki
       destination: Kawaguchiko
+    - type: train
+      departure: 2025-04-24T07:59:00.000+09:00
+      arrival: 2025-04-24T09:16:00.000+09:00
+      origin: Asakusa
+      destination: Narita Airport Terminal 2·3
     - type: air
       departure: 2025-04-24T12:33:00.000+09:00
       arrival: 2025-04-24T19:20:00.000+02:00
@@ -1408,13 +1413,8 @@
       operator: KLM
       number: "862"
     - type: train
-      departure: 2025-04-24T07:59:00Z
-      arrival: 2025-04-24T09:16:00Z
-      origin: Asakusa
-      destination: Narita Airport Terminal 2·3
-    - type: train
-      departure: 2025-04-24T20:16:00Z
-      arrival: 2025-04-24T21:43:00Z
+      departure: 2025-04-24T20:16:00.000+02:00
+      arrival: 2025-04-24T21:43:00.000+02:00
       origin: Schiphol Airport
       destination: Eindhoven Centraal
 - name: Visit Friend With Friends
@@ -1446,8 +1446,8 @@
   longitude: -17.8787381
   itinerary:
     - type: train
-      departure: 2025-06-05T09:47:00Z
-      arrival: 2025-06-05T11:13:00Z
+      departure: 2025-06-05T09:47:00.000+02:00
+      arrival: 2025-06-05T11:13:00.000+02:00
       origin: Eindhoven Centraal
       destination: Schiphol Airport
     - type: air
