@@ -1,6 +1,7 @@
 ---
 title: Piranesi
 date: 2025-07-19T14:05:00+02:00
+thumbnail: image:2025-07-19-piranesi
 categories:
   - writings
 rating: 4
