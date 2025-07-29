@@ -1,0 +1,3 @@
+.tb li {
+  grid-template-columns: auto 5rem min-content;
+}
