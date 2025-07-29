@@ -1,6 +1,7 @@
 ---
 title: The Ministry of Time
 date: 2025-07-29T09:54:11+02:00
+thumbnail: image:2025-07-29-the-ministry-of-time
 categories:
   - writings
 rating: 4

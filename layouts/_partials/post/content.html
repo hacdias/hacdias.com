@@ -1,5 +1,16 @@
-{{- if or .Content .Params.rating .Params.photos }}
+{{- if or .Content .Params.rating .Params.photos .Params.read }}
   <div class='e-content'{{ if in .Params.tags "portugues" }} lang='pt'{{ else if in .Params.tags "nederlands" }} lang='nl'{{ end }}>
+    {{ if (and .Params.read .Params.thumbnail) }}
+      {{ partial "helpers/figure" (dict
+        "Destination" .Params.thumbnail
+        "Title" (printf "Book cover of \"%s\"" .Title)
+        "IsBlock" true
+        "Sizes" (slice 600)
+        "Page" .
+        "Class" "right"
+        "Style" "max-width: 10rem;"
+      )}}
+    {{ end }}
     {{- with .Params.rating -}}
       <p>
         <data class='p-rating' value="{{ . }}"><strong>Rating:</strong> {{ partialCached "helpers/stars" (slice . 5) . 5 }}</data>
