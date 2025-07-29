@@ -3,11 +3,10 @@ title: O Mar Que Chora, Brota e Grita
 date: 2024-01-12T21:01:04+01:00
 categories:
   - writings
-language: pt
 tags:
   - poetry
-  - portuguese
   - creative
+  - portugues
 ---
 
 Às vezes encontro com cada coisa entre os meus documentos. Aqui está um poema que escrevi a 23 de janeiro de 2013 sobre o mar.

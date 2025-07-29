@@ -4,10 +4,9 @@ description: No último tutorial sobre a criação de uma framework que segue o 
 date: 2014-12-21T10:00:04Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.

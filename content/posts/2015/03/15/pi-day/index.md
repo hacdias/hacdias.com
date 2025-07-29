@@ -7,12 +7,11 @@ aliases:
   - /2015/03/15/pi-day-2015/
 categories:
   - writings
-language: pt
 syndication:
   - https://www.youtube.com/watch?v=AtwPGZ9VioE
 tags:
   - mathematics
-  - portuguese
+  - portugues
 ---
 
 Do you know? Today is the Pi Day 2015. Below there is a small video I made about this marvelous day. I hope you enjoy :)

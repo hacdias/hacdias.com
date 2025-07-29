@@ -5,7 +5,6 @@ aliases:
   - /2024/01/07/vergeet-niet-om-in-te-checken-nederlands-praten/
 categories:
   - writings
-language: nl
 syndication:
   - https://fosstodon.org/@hacdias/111714188031262494
 tags:

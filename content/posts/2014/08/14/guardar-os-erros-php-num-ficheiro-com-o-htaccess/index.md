@@ -4,10 +4,9 @@ description: Explicamos como fazer a listagem em log de todos os erros produzido
 date: 2014-08-14T10:41:38Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 Quando os programadores de soluções web estão a programar alguma aplicação é normal que possam surgir erros durante o desenvolvimento e a linguagem de programação, por norma, mostra-os no browser.

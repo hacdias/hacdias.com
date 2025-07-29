@@ -4,10 +4,9 @@ description: O Git é dos sistemas de controlo de versão mais utilizados por to
 date: 2014-09-02T14:09:59Z
 categories:
   - writings
-language: pt
 tags:
   - git
-  - portuguese
+  - portugues
 ---
 
 **Git** é um sistema de controlo de versão e gestão de código fonte extremamente utilizado em todos os cantos do mundo.

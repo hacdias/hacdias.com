@@ -4,10 +4,9 @@ description: A tag de fechamento do PHP ( ?> ) pode causar alguma confusão vist
 date: 2014-08-27T09:15:18Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 Recentemente comecei a reparar que muitos programadores omitiam a tag de fechamento dos ficheiros PHP e, obviamente, fiquei curioso.

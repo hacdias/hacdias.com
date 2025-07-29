@@ -5,7 +5,6 @@ aliases:
   - /2024/02/08/vergeet-niet-om-in-te-checken-nieuwe-lessen/
 categories:
   - writings
-language: nl
 tags:
   - inchecken
   - nederlands

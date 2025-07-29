@@ -5,7 +5,6 @@ aliases:
   - /2023/12/07/vergeet-niet-om-in-te-checken-het-begin/
 categories:
   - writings
-language: nl
 syndication:
   - https://fosstodon.org/@hacdias/111550570083991986
 tags:

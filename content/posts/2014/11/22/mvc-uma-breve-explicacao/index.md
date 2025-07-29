@@ -4,10 +4,9 @@ description: O modelo MVC (Model-View-Controller) é um modelo extremamente util
 date: 2014-11-22T16:02:56Z
 categories:
   - writings
-language: pt
 tags:
   - php
-  - portuguese
+  - portugues
 ---
 
 A programação é algo fantástico que nos permite fazer qualquer coisa das mais diversas formas. Podemos criar, inovar, melhorar e até nos divertirmos. Existem várias formas de programar, várias maneiras.
