@@ -1,7 +1,6 @@
 ---
 title: The Ministry of Time
 date: 2025-07-29T09:54:11+02:00
-thumbnail: image:2025-07-29-the-ministry-of-time
 categories:
   - writings
 rating: 4
@@ -13,6 +12,7 @@ read:
 tags:
   - reviews
   - book reviews
+thumbnail: image:2025-07-29-the-ministry-of-time
 ---
 
 *The Ministry of Time* is the debut novel from Kaliane Bradley. It is set in a world where the British ministry has started a new initiative to gather "expats" from different points in history in order to understand if time travel is feasible.
