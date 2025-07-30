@@ -2,6 +2,7 @@
 {{- with .Page -}}
   {{- $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) -}}
   {{- $bookmark := index .Params "bookmark-of" -}}
+  {{- $rating := index .Params "rating" -}}
   {{- $read := index .Params "read" -}}
   {{- $header := "1" -}}
   {{- if $isListing }}{{ $header = "2"  }}{{ end -}}
@@ -41,6 +42,7 @@
           <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
             {{ if $bookmark }}Bookmarked
             {{ else if $read }}Read
+            {{ else if $rating }}Reviewed
             {{ else }}Published
             {{ end }}
             on {{ .Date.Format "2 January 2006" }}
