@@ -26,8 +26,7 @@
   {{ $url := urls.Parse . }}
   {{ $src := "" }}
   {{- if eq $url.Scheme "image" }}
-    {{- $id := strings.TrimPrefix "/" $url.Path }}
-    {{- $src = printf "https://media.hacdias.com/image/1800/%s.jpeg" $id }}
+    {{- $src = printf "https://media.hacdias.com/image/1800/%s.jpeg" $url.Opaque }}
   {{- else }}
     {{- $src = printf "%s://%s%s" $url.Scheme $url.Host $url.Path }}
   {{- end }}
