@@ -1,9 +1,18 @@
 ---
 title: The Standart Magazine
 date: 2025-07-31T08:00:00+02:00
+location:
+  latitude: 51.4459
+  longitude: 5.46156
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
 rating: 5
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3lvahv4f4zc2d
+  - https://fosstodon.org/@hacdias/114946347646920360
 tags:
   - coffee
   - reviews
