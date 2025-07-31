@@ -1,13 +1,16 @@
-{{- $args := dict }}
+{{- $args := dict
+  "WithRating" true
+  "WithGroups" true
+}}
 
 {{- with .Get "data" }}
   {{- $data := index $.Site.Data (strings.Split . ".") }}
   {{- $args = $args | merge (dict "Data" $data) }}
 {{- end }}
 
-{{- with .Get "page"}}
+{{- with .Get "page" }}
   {{- $page := $.Site.GetPage . }}
-  {{- $args = $args | merge (dict "Page" $page) }}
+  {{- $args = $args | merge (dict "Pages" $page.Pages) }}
 {{- end }}
 
-{{- partial "logs" $args -}}
+{{- partial "logs/logs" $args -}}

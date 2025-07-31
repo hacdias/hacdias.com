@@ -1,0 +1,22 @@
+{{- $logs := or .Data (slice) }}
+
+{{- with .Pages }}
+  {{- $pages := partial "fns/pages-as-logs" . }}
+  {{- $logs = $pages | append $logs }}
+{{- end }}
+
+{{ if .WithGroups }}
+  {{- $groups := partial "fns/group-date-year" $logs }}
+  {{- range $groups.years }}
+    <section>
+      {{ $year := . }}
+      {{ $logs := index $groups.map $year }}
+
+      <h3 class='tbh' id='{{ $year }}'>{{ if eq $year "others" }}Others{{ else }}{{ $year }}{{ end }} <small class='lg'>({{ len $logs }} entries)</small></h3>
+
+      {{ partial "logs/ul" (dict "Logs" $logs "WithMicroformats" $.WithMicroformats "WithRating" $.WithRating) }}
+    </section>
+  {{ end }}
+{{ else }}
+  {{ partial "logs/ul" (dict "Logs" $logs "WithMicroformats" $.WithMicroformats "WithRating" $.WithRating) }}
+{{ end }}

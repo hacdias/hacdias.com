@@ -3,10 +3,23 @@
     <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
   </header>
 
-  {{ partialCached "post/content" . .Permalink }}
-  {{ if .Params.layoutPage }}
-    {{ partial "list/tabular" (.Site.GetPage .Params.layoutPage) }}
-  {{ else }}
-    {{ partial "list/tabular" . }}
-  {{ end }}
+  <style>
+  .h-feed li {
+    grid-template-columns: auto  min-content;
+  }
+  </style>
+
+  {{- partialCached "post/content" . .Permalink }}
+  {{- $page := . }}
+  {{- if .Params.layoutPage }}
+    {{- $page = .Site.GetPage .Params.layoutPage }}
+  {{- end }}
+
+  <div class='h-feed'>
+    {{- partial "logs/logs" (dict
+      "Pages" $page.Pages
+      "WithMicroformats" true
+      "WithGroups" true
+    ) }}
+  </div>
 {{ end }}
