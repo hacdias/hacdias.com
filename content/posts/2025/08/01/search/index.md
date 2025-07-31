@@ -2,10 +2,10 @@
 title: How Searching This Website Works
 date: 2025-08-01T08:00:00+02:00
 categories:
-- writings
+  - writings
 tags:
-- meta
-- personal website
+  - meta
+  - personal website
 thumbnail: image:2025-08-01-website-search
 ---
 
