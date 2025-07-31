@@ -12,7 +12,7 @@
   <div class='h-feed'>
     {{- $writings := .Site.GetPage "/categories/writings" -}}
     <h2 id="freshly-planted"><a href='{{ $writings.RelPermalink }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span></a></h2>
-    {{- template "index.items" (dict "pages" (first 8 $writings.Pages) "feed" true) -}}
+    {{- partial "logs/logs" (dict "Pages" (first 8 $writings.Pages) "WithMicroformats" true) -}}
 
     {{- $photos := .Site.GetPage "/categories/photos" -}}
     <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
@@ -24,7 +24,7 @@
   {{- range .Params.favoritePosts -}}
   {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}
   {{- end -}}
-  {{- template "index.items" (dict "pages" (first 4 $favoritePosts) "feed" false) -}}
+  {{- partial "logs/logs" (dict "Pages" (first 4 $favoritePosts)) -}}
 
   <h2 id="favourite-captures">📸 Favourite Captures</h2>
   {{- $favoritePhotos := slice -}}
@@ -32,21 +32,6 @@
   {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
   {{- end }}
   {{- template "index.photos" (dict "pages" (first 4 $favoritePhotos) "feed" false) -}}
-{{ end }}
-
-{{- define "index.items" }}
-<ul class='tb'>
-  {{ range .pages }}
-  <li {{ if $.feed }}class='h-entry'{{ end }}>
-    <a href='{{ .RelPermalink }}' class='nl lh{{ if $.feed }} u-url{{ end }}'>
-      <span class='p-name'>{{ .Title }}</span>
-      {{- with .Params.read }} <span class='lg wn'>by {{ .author }}</span>{{ end -}}
-      {{- with index .Params "bookmark-of" }} <span class='lg wn'>via {{ (urls.Parse .).Host }}</span>{{ end -}}
-    </a>
-    <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' class='tab lg small{{ if $.feed }} dt-published{{ end }}'>{{ .Date.Format "2006-01-02" }}</time>
-  </li>
-  {{ end }}
-</ul>
 {{ end }}
 
 {{- define "index.photos" }}
