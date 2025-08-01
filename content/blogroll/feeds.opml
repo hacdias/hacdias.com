@@ -2,13 +2,13 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Wed, 23 Jul 2025 03:00:03 UTC</dateCreated>
+        <dateCreated>Fri, 01 Aug 2025 03:00:03 UTC</dateCreated>
     </head>
     <body>
         <outline text="Blogs">
+            <outline title="Aral Balkan" text="Aral Balkan" xmlUrl="https://ar.al/index.xml" htmlUrl="https://ar.al/" type="rss"></outline>
             <outline title="Aaron Parecki" text="Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.xml" htmlUrl="https://aaronparecki.com/" type="rss"></outline>
             <outline title="Ana Rodrigues" text="Ana Rodrigues" xmlUrl="https://ohhelloana.blog/feed.xml" htmlUrl="https://ohhelloana.blog" type="rss"></outline>
-            <outline title="Aral Balkan" text="Aral Balkan" xmlUrl="https://ar.al/index.xml" htmlUrl="https://ar.al/" type="rss"></outline>
             <outline title="Austin Z. Henley" text="Austin Z. Henley" xmlUrl="https://austinhenley.com/blog/feed.rss" htmlUrl="https://austinhenley.com/blog.html" type="rss"></outline>
             <outline title="Barry Frost" text="Barry Frost" xmlUrl="https://barryfrost.com/feed.json" htmlUrl="https://barryfrost.com/" type="rss"></outline>
             <outline title="Ben Borgers" text="Ben Borgers" xmlUrl="https://ben.page/rss" htmlUrl="https://ben.page/" type="rss"></outline>
@@ -73,7 +73,7 @@
             <outline title="zdimension" text="zdimension" xmlUrl="https://zdimension.fr/feed.xml" htmlUrl="https://zdimension.fr/" type="rss"></outline>
         </outline>
         <outline text="Self">
-            <outline title="Home - Henrique Dias" text="Home - Henrique Dias" xmlUrl="https://hacdias.com/feed.xml" htmlUrl="https://hacdias.com/" type="rss"></outline>
+            <outline title="Henrique Dias" text="Henrique Dias" xmlUrl="https://hacdias.com/feed.xml" htmlUrl="https://hacdias.com/" type="rss"></outline>
         </outline>
     </body>
 </opml>
