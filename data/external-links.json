@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 84,
+    "count": 85,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -324,6 +324,10 @@
         "targetUrl": "https://github.com/filebrowser/filebrowser"
       },
       {
+        "sourceUrl": "https://hacdias.com/2025/08/01/search/",
+        "targetUrl": "https://github.com/hacdias/hacdias.com/blob/f2abd04cbcede3f58c098dd16aa56d4ddaf1ee34/eagle/search.html"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/hacdias"
       },
@@ -343,7 +347,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 77,
+    "count": 78,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -636,6 +640,10 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/29/the-ministry-of-time/",
         "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781399726375"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/31/standart/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Morgan_Eckroth"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
@@ -1158,6 +1166,32 @@
     ]
   },
   {
+    "domain": "kevquirk.com",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/26/search-engines/",
+        "targetUrl": "https://kevquirk.com/blog/out-with-old-tech-in-with-the-new"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/30/duckduckgo/",
+        "targetUrl": "https://kevquirk.com"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://kevquirk.com"
+      }
+    ]
+  },
+  {
     "domain": "mew.tv",
     "count": 5,
     "links": [
@@ -1346,28 +1380,6 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://fosstodon.org/@hacdias"
-      }
-    ]
-  },
-  {
-    "domain": "kevquirk.com",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://kevquirk.com/guestbook"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/26/search-engines/",
-        "targetUrl": "https://kevquirk.com/blog/out-with-old-tech-in-with-the-new"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://kevquirk.com"
       }
     ]
   },
@@ -2172,6 +2184,20 @@
     ]
   },
   {
+    "domain": "meilisearch.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
+        "targetUrl": "https://meilisearch.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/01/search/",
+        "targetUrl": "https://www.meilisearch.com/"
+      }
+    ]
+  },
+  {
     "domain": "miljoenenlijn.nl",
     "count": 2,
     "links": [
@@ -2844,6 +2870,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
         "targetUrl": "https://www.cbs.nl/en-gb/dossier/migration-and-integration/how-many-people-immigrate-to-the-netherlands-"
+      }
+    ]
+  },
+  {
+    "domain": "chdorner.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/30/duckduckgo/",
+        "targetUrl": "https://chdorner.com/"
       }
     ]
   },
@@ -3738,16 +3774,6 @@
     ]
   },
   {
-    "domain": "meilisearch.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/12/rebuilding-eagle-cms/",
-        "targetUrl": "https://meilisearch.com/"
-      }
-    ]
-  },
-  {
     "domain": "metafluff.com",
     "count": 1,
     "links": [
@@ -4374,6 +4400,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/12/18/mvc-linguagem-php/",
         "targetUrl": "http://apple.stackexchange.com/questions/115646/how-can-i-create-a-symbolic-link-in-terminal"
+      }
+    ]
+  },
+  {
+    "domain": "standartmag.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/31/standart/",
+        "targetUrl": "https://standartmag.com/"
       }
     ]
   },
