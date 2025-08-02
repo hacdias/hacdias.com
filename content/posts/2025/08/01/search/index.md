@@ -1,8 +1,17 @@
 ---
 title: How Searching This Website Works
 date: 2025-08-01T08:00:00+02:00
+location:
+  latitude: 51.44571
+  longitude: 5.46152
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
+syndication:
+  - https://fosstodon.org/@hacdias/114951980630802096
+  - https://bsky.app/profile/hacdias.com/post/3lvcxwqzr4j2k
 tags:
   - meta
   - personal website
