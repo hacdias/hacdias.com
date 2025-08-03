@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: My Oxford Year
+  date: 2025-08-02T21:00:00+02:00
+  rating: 3
 - name: Peacock
   date: 2025-07-27T16:30:00+02:00
   rating: 4
