@@ -1,21 +1,30 @@
 ---
 title: Taal Is Zeg Maar Echt Mijn Ding
 date: 2025-08-03T12:34:57+02:00
-thumbnail: image:2025-08-03-taal-is-zeg-maar-echt-mijn-ding
+location:
+  latitude: 51.44579
+  longitude: 5.46157
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
-- writings
-tags:
-- reviews
-- book reviews
-- nederlands
-- educational
-- language
+  - writings
+rating: 5
 read:
   author: Paulien Cornelisse
-  publisher: Atlas Contact
   pages: 219
+  publisher: Atlas Contact
   uid: isbn:9789045051925
-rating: 5
+syndication:
+  - https://fosstodon.org/@hacdias/114964390752590069
+  - https://bsky.app/profile/hacdias.com/post/3lviica6wz62l
+tags:
+  - reviews
+  - book reviews
+  - nederlands
+  - educational
+  - language
+thumbnail: image:2025-08-03-taal-is-zeg-maar-echt-mijn-ding
 ---
 
 *Taal Is Zeg Maar Echt Mijn Ding* is mijn eerste boek van Paulien Cornelisse. Het is eigenlijk het eerste "volwassene" Nederlands boek dat ik lees, laten we het zo zeggen. Het gaat over taal en dingen die mensen zeggen, niet per se expres, maar dingen die gewoon voorkomen.
