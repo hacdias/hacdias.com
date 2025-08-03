@@ -15,6 +15,7 @@
   {{ else }}
     {{ range .Entries }}
       {{ $bookmark := index .Other "bookmark-of" }}
+      {{ $rating := index .Other "rating" }}
       {{ $read := .Other.read }}
       <div class='card'>
         <header>
@@ -31,11 +32,12 @@
           {{ end }}
 
           {{ if not .Date.IsZero }}
-            <p class='lg'>
+            <p class='lg small'>
               <a href='{{ .RelPermalink }}' class='nl'>
                 <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
                   {{ if $bookmark }}Bookmarked
                   {{ else if $read }}Read
+                  {{ else if $rating }}Reviewed
                   {{ else }}Published
                   {{ end }}
                   on {{ .Date.Format "2 January 2006" }}
