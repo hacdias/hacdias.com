@@ -2,7 +2,7 @@
 {{ $map := dict }}
 
 {{ range . }}
-  {{ $year := "others" }}
+  {{ $year := "past" }}
   {{ if .date }}
     {{ $year = dateFormat "2006" .date }}
   {{ end }}
