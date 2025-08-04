@@ -12,7 +12,7 @@
   <div class='h-feed'>
     {{- $writings := .Site.GetPage "/categories/writings" -}}
     <h2 id="freshly-planted"><a href='{{ $writings.RelPermalink }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span></a></h2>
-    {{- partial "logs/logs" (dict "Pages" (first 8 $writings.Pages) "WithMicroformats" true) -}}
+    {{- partial "logs" (dict "Pages" (first 8 $writings.Pages) "WithMicroformats" true) -}}
 
     {{- $photos := .Site.GetPage "/categories/photos" -}}
     <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
@@ -24,7 +24,7 @@
   {{- range .Params.favoritePosts -}}
   {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}
   {{- end -}}
-  {{- partial "logs/logs" (dict "Pages" (first 4 $favoritePosts)) -}}
+  {{- partial "logs" (dict "Pages" (first 4 $favoritePosts)) -}}
 
   <h2 id="favourite-captures">📸 Favourite Captures</h2>
   {{- $favoritePhotos := slice -}}
