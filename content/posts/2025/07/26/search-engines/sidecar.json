@@ -1,0 +1,31 @@
+{
+  "replies": [
+    {
+      "content": "I\u0026#39;m still on Google for search but I recently switched from Chrome to Zen browser, I really like it. It\u0026#39;s Firefox-based but feels faster and I like the UI.",
+      "author": "Nimo 🏳️‍🌈",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/e952da28a7a2f7ac2ebb1f1a2b393d411ea2c0bb24ae83539076590a1db203fc.jpg",
+      "authorUrl": "https://bsky.app/profile/nimobeeren.com",
+      "date": "2025-07-27T21:47:10Z",
+      "url": "https://brid.gy/comment/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lutwto7ywc2x/at%253A%252F%252Fdid%253Aplc%253Albjgxkpi67g5yya7trkeemla%252Fapp.bsky.feed.post%252F3luy2j2ch4k2o",
+      "type": "reply"
+    }
+  ],
+  "interactions": [
+    {
+      "author": "Nimo 🏳️‍🌈",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/e952da28a7a2f7ac2ebb1f1a2b393d411ea2c0bb24ae83539076590a1db203fc.jpg",
+      "authorUrl": "https://bsky.app/profile/nimobeeren.com",
+      "date": "2025-07-27T21:45:50Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lutwto7ywc2x/did%253Aplc%253Albjgxkpi67g5yya7trkeemla",
+      "type": "like"
+    },
+    {
+      "author": "Boris",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/35a908d1392e8237a83c411c98353b9bf44d4605891a069ec3c05e0021a0838b.jpg",
+      "authorUrl": "https://bsky.app/profile/bmann.ca",
+      "date": "2025-07-26T14:13:39Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3lutwto7ywc2x/did%253Aplc%253A2cxgdrgtsmrbqnjkwyplmp43",
+      "type": "like"
+    }
+  ]
+}

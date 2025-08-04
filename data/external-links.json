@@ -347,7 +347,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 78,
+    "count": 79,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -644,6 +644,10 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/31/standart/",
         "targetUrl": "https://en.wikipedia.org/wiki/Morgan_Eckroth"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/03/taal-is-zeg-maar-echt-mijn-ding/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789045051925"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
@@ -2180,6 +2184,20 @@
       {
         "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
         "targetUrl": "https://macwright.org/2020/05/10/spa-fatigue.html"
+      }
+    ]
+  },
+  {
+    "domain": "marisabel.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/03/colors/",
+        "targetUrl": "https://marisabel.nl/public/blog/IndieWeb_Carnival_August_2025_:_Colors"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/03/taal-is-zeg-maar-echt-mijn-ding/",
+        "targetUrl": "https://dut.marisabel.nl/2025/03/27/he-he/"
       }
     ]
   },
