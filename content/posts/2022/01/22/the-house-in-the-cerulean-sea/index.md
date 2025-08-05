@@ -9,6 +9,10 @@ read:
   pages: 400
   publisher: Tor UK
   uid: isbn:9781529087949
+  cover:
+    url: "image:2022-01-22-the-house-in-the-cerulean-sea"
+    width: 1535
+    height: 2327
 tags:
   - fantasy
   - reviews

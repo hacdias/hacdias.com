@@ -1,12 +1,14 @@
 {{- if or .Content .Params.rating .Params.photos .Params.read }}
   <div class='e-content'{{ if in .Params.tags "portugues" }} lang='pt'{{ else if in .Params.tags "nederlands" }} lang='nl'{{ end }}>
-    {{ if (and .Params.read .Params.thumbnail) }}
+    {{ with .Params.read.cover }}
       {{ partial "helpers/figure" (dict
-        "Destination" .Params.thumbnail
+        "Destination" .url
         "Title" (printf "Book cover of \"%s\"" .Title)
         "IsBlock" true
         "Sizes" (slice 600)
-        "Page" .
+        "Width" .width
+        "Height" .height
+        "Page" $
         "Class" "right"
         "Style" "max-width: 10rem;"
       )}}

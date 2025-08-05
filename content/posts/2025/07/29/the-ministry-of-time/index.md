@@ -9,10 +9,13 @@ read:
   pages: 488
   publisher: Hodder
   uid: isbn:9781399726375
+  cover:
+    url: image:2025-07-29-the-ministry-of-time
+    width: 650
+    height: 1000
 tags:
   - reviews
   - book reviews
-thumbnail: image:2025-07-29-the-ministry-of-time
 ---
 
 *The Ministry of Time* is the debut novel from Kaliane Bradley. It is set in a world where the British ministry has started a new initiative to gather "expats" from different points in history in order to understand if time travel is feasible.

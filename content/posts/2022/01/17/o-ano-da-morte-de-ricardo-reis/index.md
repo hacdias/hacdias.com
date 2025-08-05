@@ -9,6 +9,10 @@ read:
   pages: 494
   publisher: Porto Editora
   uid: isbn:9789720048820
+  cover:
+    url: "image:2022-01-17-o-ano-da-morte-de-ricardo-reis"
+    width: 1000
+    height: 1478
 tags:
   - fantasy
   - literature

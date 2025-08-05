@@ -9,12 +9,15 @@ read:
   pages: 272
   publisher: Bloomsbury Publishing
   uid: isbn:9781526622440
+  cover:
+    url: image:2025-07-19-piranesi
+    width: 667
+    height: 1000
 tags:
   - reviews
   - book reviews
   - fantasy
   - literature
-thumbnail: image:2025-07-19-piranesi
 ---
 
 This was the first book I read by Susanna Clarke. I heard about it at a friend's birthday party, after someone gifted this book to the birthday person. After seeing how gorgeous the cover was, and hearing a little bit about the story, I decided to buy it!

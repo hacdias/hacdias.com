@@ -9,6 +9,10 @@ read:
   pages: 418
   publisher: St. Martin's
   uid: isbn:9781250316776
+  cover:
+    url: "image:2022-01-30-red-white-royal-blue"
+    width: 652
+    height: 1000
 tags:
   - fantasy
   - reviews
