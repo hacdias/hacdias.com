@@ -10,6 +10,10 @@ read:
   pages: 272
   publisher: Ballantine Books
   uid: isbn:9780099430896
+  cover:
+    url: "image:2023-08-23-if-on-a-winters-night-a-traveller"
+    width: 1524
+    height: 2339
 tags:
   - fantasy
   - reviews

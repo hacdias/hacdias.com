@@ -9,6 +9,10 @@ read:
   pages: 213
   publisher: Picador
   uid: isbn:9781529029581
+  cover:
+    url: "image:2022-01-26-before-the-coffee-gets-cold"
+    width: 1688
+    height: 2560
 tags:
   - fantasy
   - reviews
