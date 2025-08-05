@@ -3,7 +3,7 @@
     {{ with .Params.read.cover }}
       {{ partial "helpers/figure" (dict
         "Destination" .url
-        "Title" (printf "Book cover of \"%s\"" .Title)
+        "Title" (printf "Book cover of \"%s\"" $.Title)
         "IsBlock" true
         "Sizes" (slice 600)
         "Width" .width
