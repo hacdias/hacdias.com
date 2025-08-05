@@ -45,12 +45,12 @@ categories:
   - photos
 syndication:
   - https://twitter.com/hacdias/status/1508095378222166021
-thumbnail: image:2022-03-27-cherry-blossoms-06
 tags:
   - spring
   - flowers
   - nature
   - netherlands
+thumbnail: image:2022-03-27-cherry-blossoms-06
 ---
 
 <style>
