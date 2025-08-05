@@ -9,6 +9,10 @@ read:
   pages: 232
   publisher: Manning
   uid: isbn:9781633439054
+  cover:
+    url: "image:2023-06-12-the-creative-programmer-cover"
+    width: 1400
+    height: 1755
 syndication:
   - https://fosstodon.org/@hacdias/110530107064412338
 tags:
@@ -29,12 +33,12 @@ he offered a copy of his most recent book, *The Creative Programmer*. I was one 
 lucky ones that received one of the copies. The title was quite enticing. However,
 the book was different than what I expected... in a positive way!
 
-![The Creative Programmer](image:2023-06-12-the-creative-programmer)
-
 I expected the book to be more technical, which it wasn't. There's no reason why this
 book had to be technical. I think perhaps the word "programmer" led by brain to put
 it into a "extremely technical" book box. It is more about the process, about the psychology,
 about *what makes a creative programmer*.
+
+![The Creative Programmer](image:2023-06-12-the-creative-programmer)
 
 During the different chapters, Wouter introduces different aspects that, together, and 
 relating to each other, make a *Creative Programmer*: from critical thinking, to curiosity,

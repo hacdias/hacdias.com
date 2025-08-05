@@ -11,6 +11,8 @@ read:
   publisher: Publisher
   pages: 999999
   uid: isbn:XXX
+  cover:
+    url: image:xxx
 rating: N
 ---
 

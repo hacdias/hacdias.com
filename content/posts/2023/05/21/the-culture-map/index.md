@@ -9,6 +9,10 @@ read:
   pages: 288
   publisher: Public Affairs Books
   uid: isbn:9781610392501
+  cover:
+    url: "image:2023-05-21-the-culture-map"
+    width: 1400
+    height: 2128
 tags:
   - cultures
   - personal growth
