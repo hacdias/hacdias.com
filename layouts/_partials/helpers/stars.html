@@ -1,5 +1,5 @@
 {{ $rating := index . 0 }}
-<span alt="{{ $rating }} stars">
+<span alt="{{ $rating }} stars" style="color: #e3c000">
   {{- range seq (index . 1) }}
     {{- if le . $rating }}★{{ else }}☆{{ end -}}
   {{- end -}}
