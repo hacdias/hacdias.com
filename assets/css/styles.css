@@ -405,25 +405,20 @@ details summary {
 
 .left,
 .right {
-  max-width: 20em;
+  max-width: clamp(10rem, 40%, 20rem);
   text-align: center;
-  margin: 1rem auto;
+  margin: 0;
   width: 100%;
 }
 
 .left {
   float: left;
-  margin-right: 1.5rem;
+  margin-right: 1rem;
 }
 
 .right {
   float: right;
-  margin-left: 1.5rem;
-}
-
-.right:first-child,
-.left:first-child {
-  margin-top: 0;
+  margin-left: 1rem;
 }
 
 .inline-form {

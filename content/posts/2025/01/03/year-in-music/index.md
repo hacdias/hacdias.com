@@ -8,7 +8,7 @@ tags:
 ---
 
 ![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")
-{.right .pixelated style="max-width: 100px; margin-right: 1rem"}
+{.right .pixelated style="max-width: 100px"}
 
 Similarly to [previous years](/2024/01/03/year-in-music/), it's time to share my musical habits throughout 2024. Around a month ago, I published my [Spotify Wrapped 🎁](/2024/12/06/spotify-wrapped/), but, as usual, I don't trust it completely. If they're sharing it before the end of the year, how can it successfully show the statistics for the whole year? Here I am again, with my (almost) complete data from Last.fm.
 

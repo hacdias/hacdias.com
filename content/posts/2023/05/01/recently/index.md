@@ -51,7 +51,7 @@ lightening ⚡️ [talk](/2023/04/19/interplanetary-specifications/). Overall, v
 and very well organized. Since I work completely remotely, I really cherish this events where I can finally see and (re)connect
 with my coworkers in person.
 
-<figure class='left round'>
+<figure class='left video-ambiance'>
   <video autoplay muted loop controls>
     <source src="https://media.hacdias.com/2023-05-01-wind-turbines.mp4" type="video/mp4">
   </video>
