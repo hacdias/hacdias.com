@@ -695,6 +695,14 @@ main pre {
   font-weight: 600;
 }
 
+.tb + .tb {
+  margin-top: -1rem;
+}
+
+.tb + .tb li:first-child {
+  border-top: var(--border) solid var(--fg);
+}
+
 .box.tb li {
   padding: 0 var(--ms);
 }

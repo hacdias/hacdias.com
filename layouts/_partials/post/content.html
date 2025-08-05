@@ -10,17 +10,18 @@
         "Height" .height
         "Page" $
         "Class" "right"
-        "Style" "max-width: 10rem;"
+        "Style" "max-width: clamp(10rem, 40%, 15rem);"
       )}}
     {{ end }}
     {{- with .Params.rating -}}
-      <p>
-        <data class='p-rating' value="{{ . }}"><strong>Rating:</strong> {{ partialCached "helpers/stars" (slice . 5) . 5 }}</data>
-      </p>
+      <ul class='p-read-of h-cite tb'>
+        <li>
+          <span>📝 Rating</span> <data class='p-rating' value="{{ . }}"> {{ partialCached "helpers/stars" (slice . 5) . 5 }}</data>
+        </li>
+      </ul>
     {{- end -}}
-    {{- with .Content }}{{ . }}{{ end -}}
     {{- if .Params.read }}
-      <ul class='p-read-of h-cite tb box'>
+      <ul class='p-read-of h-cite tb'>
         <li><strong>📕 Title</strong> <span class='p-name'>{{ .Title }}</span></li>
         <li><strong>✍️ Author</strong> <span class='p-author'>{{ .Params.read.author }}</span></li>
         {{ with .Params.read.pages }}<li><strong>📄 Pages</strong> <span class='p-pages'>{{ . }}</span></li>{{ end }}
@@ -38,6 +39,7 @@
         {{ end }}
       </ul>
     {{- end }}
+    {{- with .Content }}{{ . }}{{ end -}}
     {{- if .Params.photos }}
       {{ $slug := strings.TrimSuffix "/" .RelPermalink }}
       {{ $slug = strings.TrimPrefix "/" $slug }}
