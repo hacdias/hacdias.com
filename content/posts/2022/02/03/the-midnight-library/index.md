@@ -6,13 +6,13 @@ categories:
 rating: 3
 read:
   author: Matt Haig
+  cover:
+    height: 1000
+    url: https://media.hacdias.com/2022-02-03-the-midnights-library.jpeg
+    width: 652
   pages: 288
   publisher: Canongate
   uid: isbn:9781786892737
-  cover:
-    url: "https://media.hacdias.com/2022-02-03-the-midnights-library.jpeg"
-    width: 652
-    height: 1000
 tags:
   - fantasy
   - reviews

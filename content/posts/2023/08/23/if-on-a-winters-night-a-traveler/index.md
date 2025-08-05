@@ -6,14 +6,14 @@ categories:
 rating: 3
 read:
   author: Italo Calvino
+  cover:
+    height: 2339
+    url: image:2023-08-23-if-on-a-winters-night-a-traveller
+    width: 1524
   date: 2023-08-09T00:00:00Z
   pages: 272
   publisher: Ballantine Books
   uid: isbn:9780099430896
-  cover:
-    url: "image:2023-08-23-if-on-a-winters-night-a-traveller"
-    width: 1524
-    height: 2339
 tags:
   - fantasy
   - reviews
