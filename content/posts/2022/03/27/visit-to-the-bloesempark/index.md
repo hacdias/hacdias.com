@@ -84,7 +84,7 @@ tags:
 </style>
 
 ![](https://media.hacdias.com/2022-03-27-cherry-blossom-tree.gif)
-{.pixelated .right style="margin-top: 0; max-width: 11rem;"}
+{.pixelated .right style="max-width: 11rem"}
 
 A few days ago, my boyfriend invited my go to the [Bloesempark](https://www.amsterdamsebos.nl/bloesempark/) in Amsterdamse Bos. Unfortunately, I won't be in the Netherlands next weekend so I cannot go. However, since the idea of going to a park with around 400 japanese [cherry blossom trees](https://en.wikipedia.org/wiki/Cherry_blossom) (_Sakura trees_) 🌸 was too enticing, I gathered some friends and visited yesterday.
 
