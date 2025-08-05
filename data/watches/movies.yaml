@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: Challengers
+  date: 2025-08-03T20:50:00+02:00
+  rating: 5
 - name: My Oxford Year
   date: 2025-08-02T21:00:00+02:00
   rating: 3
