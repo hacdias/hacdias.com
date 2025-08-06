@@ -1,5 +1,5 @@
 {
-  "blogs": [
+  "Blogs": [
     {
       "title": "Aaron Parecki",
       "site": "https://aaronparecki.com/",
@@ -241,7 +241,7 @@
       "feed": "https://xeiaso.net/blog.json"
     }
   ],
-  "comics": [
+  "Comics": [
     {
       "title": "Hey Ok Yay?",
       "site": "https://heyokyay.com",
@@ -263,7 +263,7 @@
       "feed": "https://xkcd.com/rss.xml"
     }
   ],
-  "general": [
+  "General": [
     {
       "title": "Alpine Linux",
       "site": "https://alpinelinux.org/atom.xml",
@@ -308,13 +308,6 @@
       "title": "zdimension",
       "site": "https://zdimension.fr/",
       "feed": "https://zdimension.fr/feed.xml"
-    }
-  ],
-  "self": [
-    {
-      "title": "Henrique Dias",
-      "site": "https://hacdias.com/",
-      "feed": "https://hacdias.com/feed.xml"
     }
   ]
 }
