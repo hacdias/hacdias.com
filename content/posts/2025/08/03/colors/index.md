@@ -16,7 +16,7 @@ syndication:
 tags:
   - indieweb
   - indieweb carnival
-  - reflection
+  - reflections
 ---
 
 Colors. That is the topic of [this month's edition](https://marisabel.nl/public/blog/IndieWeb_Carnival_August_2025_:_Colors) of The IndieWeb Carnaval, brought to us by Marisabel. I do not think a lot about colors, and I must admit I felt a bit reticent on whether or not I should participate this month. However, my will to explore more topics brought me here, to the text editor.
