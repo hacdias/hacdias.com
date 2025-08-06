@@ -15,7 +15,7 @@
     {{ end }}
     {{- with .Params.rating -}}
       <p>
-        <data class='p-rating' value="{{ . }}"><strong>Rating:</strong> {{ partialCached "helpers/stars" (slice . 5) . 5 }}</data>
+        <data class='p-rating' value="{{ . }}"><strong>Rating:</strong> <span style="color: #e3c000">{{ partialCached "helpers/stars" (slice . 5) . 5 }}</span></data>
       </p>
     {{- end -}}
     {{- with .Content }}{{ . }}{{ end -}}
