@@ -2,7 +2,7 @@
 title: Home
 description: Henrique is a software engineer who cares about the web, decentralization, identity, user agency, and making impactful tools for developers and users.
 noWebmentions: true
-thumbnail: https://hacdias.com/avatar/1024.jpg
+thumbnail: image:2024-09-01-stratumse-heide
 favoriteCaptures:
   - /posts/2022/10/19/capturing-leiden
   - /posts/2023/02/24/engelberg-captures
