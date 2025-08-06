@@ -13,16 +13,16 @@ In this page, you can find an alphabetically sorted list of blogs, websites and 
 
 Personal websites from others.
 
-{{< feeds "blogs" >}}
+{{< feeds "Blogs" >}}
 
 ## 📡 General {#general}
 
 Websites slightly more generic than personal websites.
 
-{{< feeds "general" >}}
+{{< feeds "General" >}}
 
 ## 💥 Comics {#comics}
 
 Some very nice and possibly heart-warming comics.
 
-{{< feeds "comics" >}}
+{{< feeds "Comics" >}}
