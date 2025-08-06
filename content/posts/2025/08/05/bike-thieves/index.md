@@ -1,12 +1,21 @@
 ---
 title: 'Bike Thieves: The Sequel'
 date: 2025-08-05T17:27:26+02:00
-thumbnail: image:2025-08-05-gazelle-esprit-t3
+location:
+  latitude: 51.44572
+  longitude: 5.46145
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
-- writings
+  - writings
+syndication:
+  - https://fosstodon.org/@hacdias/114976862152780574
+  - https://bsky.app/profile/hacdias.com/post/3lvnzjlfewd2k
 tags:
-- cycling
-- theft
+  - cycling
+  - theft
+thumbnail: image:2025-08-05-gazelle-esprit-t3
 ---
 
 Last year, I [shared](/2024/04/01/bike-thieves/) that someone tried stealing my e-bike and that they later managed to damage the battery. Yet, they did not steal anything. Well, I've now got a much juicier story: my normal bike has been stolen while parked at the central station's new bike parking.
@@ -33,4 +42,3 @@ Yes, I do have bike insurance, for both the normal and the e-bike. Considering t
 I went to the bike shop, through which I did my insurance, showed the police report, they did the formalities and ordered a new bike. I decided to just get the same bike, but the gray version, which I think is a bit uglier.
 
 But the color won't be a good enough deterrent for bike thieves. And the stickers I had on the old one neither. I am thinking about spray painting it with spots of pink. A very ugly gray cow with pink spots. Is that unique enough to make sure no one wants to steal the bike?
-
