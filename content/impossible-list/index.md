@@ -34,7 +34,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
 - [ ] Cross-country 🇨🇦 train trip from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 - [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
-- [ ] Cover 100% of the Dutch rail network
+- [ ] Cover 100% of the Dutch rail network <small>[June 2025, 50%]</small>
 - [ ] Go on a hot air 🎈 balloon ride
 - [ ] Travel a subway train in the front cabin
 - [ ] Visit an airplane's cockpit
@@ -73,13 +73,13 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    - [x] Maintain a website for 1 years <small>[July 2015]</small>
    - [x] Maintain a website for 5 years <small>[July 2019]</small>
    - [x] Maintain a website for 10 years <small>[[July 2024](/2024/07/12/a-decade-of-blogging/)]</small>
-   - [ ] Maintain a website for 15 years <small>[July 2020]</small>
+   - [ ] Maintain a website for 15 years <small>[July 2029]</small>
 - [x] Participate in the National Olympiads of Informatics <small>[April 2016, 10th place]</small>
    - [x] Participate again and achieve a better place <small>[May 2017, 6th place]</small>
 - [x] Start studying Computer Science <small>[September 2017]</small>
 - [x] Make my parents fly <small>[July 2019, 🇵🇹 Azores]</small>
 - [x] Become proficient in a second language <small>[September 2019, English]</small>
-   - [x] Become proficient in a third language <small>[June 2024, Dutch]</small>
+   - [x] Become proficient in a third language <small>[July 2024, Dutch]</small>
 - [x] Study abroad on Master's <small>[September 2020, 🇳🇱 Eindhoven]</small>
 - [x] Live abroad for more than 6 months <small>[February 2021, 🇳🇱 NL]</small>
    - [x] Live abroad for more than 1 year <small>[August 2021, 🇳🇱 NL]</small>
@@ -113,7 +113,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    - [x] Workout at least twice a week for 4 months <small>[June 2021] [August 2023]</small>
    - [x] Workout at least twice a week for 8 months <small>[December 2023]</small>
    - [x] Workout at least twice a week for 1 year <small>[March 2024]</small>
-   - [ ] Workout at least twice a week for 2 years <small>[March 2025]</small>
+   - [x] Workout at least twice a week for 2 years <small>[March 2025]</small>
 - [x] Bike 10 km in a single trip <small>[March 2021, 10.30 km]</small>
   - [x] Bike 20 km in a single trip  <small>[April 2021, 24.03 km]</small>
   - [ ] Bike 30 km in a single trip
