@@ -170,6 +170,11 @@ li {
   color: var(--c);
 }
 
+mark {
+  background-color: var(--c);
+  color: var(--bg);
+}
+
 .nl,
 .nl:active,
 .nl:visited {
