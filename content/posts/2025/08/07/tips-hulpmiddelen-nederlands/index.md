@@ -2,11 +2,11 @@
 title: Tips en Hulpmiddelen om Nederlands te Leren
 date: 2025-08-07T09:00:00+02:00
 categories:
-- writings
+  - writings
 tags:
-- nederlands
-- language learning
-- tips
+  - nederlands
+  - language learning
+  - tips
 ---
 
 Vandaag wil ik een paar tips en hulpmiddelen met jullie delen die mij hebben geholpen bij het leren van Nederlands. Ik heb de afgelopen jaren hard gewerkt aan mijn Nederlands, en ik heb al [een tijdje geleden](/2024/07/23/dutch-b2/) mijn B2-diploma gehaald. Dus ik snap dat het niet altijd makkelijk is, en ik hoop dat dit artikel nuttig kan zijn.
