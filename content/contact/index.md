@@ -9,7 +9,7 @@ Do you have any feedback, or just want to go for a chat? Feel free to reach out 
 
 ## 📧 E-mail {#email}
 
-The easiest way to reach me is to send me an e-mail.
+The easiest way to reach out to me is to send me an e-mail. Please note that I <mark>**do not accept guest posts**</mark> since this is a personal website. All guest post e-mails will be marked as spam.
 
 - [✉️ mail@hacdias.com](mailto:mail@hacdias.com)
 - [🗝 PGP Key](/pubkey.asc)
