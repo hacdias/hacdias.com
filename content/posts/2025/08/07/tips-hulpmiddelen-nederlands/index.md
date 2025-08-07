@@ -9,7 +9,7 @@ tags:
 - tips
 ---
 
-Vandaag wil ik een paar tips en hulpmiddelen met jullie delen die mij hebben geholpen bij het leren van Nederlands. Ik heb de afgelopen jaren hard gewerkt aan mijn Nederlands, en ik heb al een tijdje geleden mijn B2-diploma gehaald. Dus ik snap dat het niet altijd makkelijk is, en ik hoop dat dit artikel nuttig kan zijn.
+Vandaag wil ik een paar tips en hulpmiddelen met jullie delen die mij hebben geholpen bij het leren van Nederlands. Ik heb de afgelopen jaren hard gewerkt aan mijn Nederlands, en ik heb al [een tijdje geleden](/2024/07/23/dutch-b2/) mijn B2-diploma gehaald. Dus ik snap dat het niet altijd makkelijk is, en ik hoop dat dit artikel nuttig kan zijn.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ Luisteren, kijken en lezen zijn goede manieren om nieuwe woordenschat te leren, 
 - [Weet Je Dat Ook Weer](https://www.youtube.com/@weetjedatookweer) is een YouTube-kanaal met allerlei video's over onverwachte, leuke onderwerpen. Deze zijn in het Nederlands en hebben vaak ondertitelingen in zowel Engels als Nederlands. Ik zou aanraden om deze in het Nederlands aan te zetten.
 - [Easy Dutch](https://www.youtube.com/playlist?list=PLA5UIoabheFM3fi9i9xw6ODUoSqyKJYU7) is nog een YouTube-kanaal met straatinterviews in makkelijke taal. Soms zijn er ook video's over specifieke grammaticale onderwerpen. Het gaat echter vooral over onderwerpen uit het dagelijkse leven.
 - [Canon van Nederland](https://www.canonvannederland.nl/) is een fantastische website met vele artikelen over de geschiedenis van Nederland. De artikelen zijn beschikbaar in verschillende taalniveaus, dus je kunt deze instellen zodat ze een beetje moeilijk zijn, maar niet te moeilijk.
-- Muziek luisteren is ook een prima manier om je Nederlands te verbeteren. Dit heb ik heel lang gedaan, en ik blijf het doen. Muziek is persoonlijk, dus het is moeilijk om specifieke artiesten aan te raden, maar hier zijn een paar die ik leuk vind: Froukje, Merol, Eefje de Visser, Bente en Lola Cedès.
+- Naar muziek luisteren is ook een prima manier om je Nederlands te verbeteren. Dit heb ik heel lang gedaan, en ik blijf het doen. Muziek is persoonlijk, dus het is moeilijk om specifieke artiesten aan te raden, maar hier zijn een paar die ik leuk vind: Froukje, Merol, Eefje de Visser, Bente en Lola Cedès.
 
 ## 🤨 Grammatica en Taalvragen {#grammatica-en-taalvragen}
 
