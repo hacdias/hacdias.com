@@ -1,6 +1,7 @@
 ---
 title: 'GymBook: A Simple and Easy Gym App'
 date: 2023-10-14T17:55:25+02:00
+rating: 4
 categories:
   - writings
 syndication:
