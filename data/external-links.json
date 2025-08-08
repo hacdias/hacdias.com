@@ -886,6 +886,64 @@
     ]
   },
   {
+    "domain": "youtube.com",
+    "count": 13,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
+        "targetUrl": "https://www.youtube.com/watch?v=JwYX52BP2Sk"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://www.youtube.com/watch?v=HXTC5LSep3M"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
+        "targetUrl": "https://www.youtube.com/watch?v=gB9n2gHsHN4"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/02/01/recently/",
+        "targetUrl": "https://www.youtube.com/watch?v=ZJAx-dHuVA4"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
+        "targetUrl": "https://www.youtube.com/watch?v=PemFIEJtUSw\u0026t=2904s"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/03/update-on-ovpay-experiment/",
+        "targetUrl": "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/30/year-in-review/",
+        "targetUrl": "https://www.youtube.com/watch?v=c_DOG_mXz5w"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
+        "targetUrl": "https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
+        "targetUrl": "https://www.youtube.com/@morgandrinkscoffee"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/06/current-espresso-setup/",
+        "targetUrl": "https://www.youtube.com/@morgandrinkscoffee"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://www.youtube.com/@weetjedatookweer"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://www.youtube.com/playlist?list=PLA5UIoabheFM3fi9i9xw6ODUoSqyKJYU7"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://www.youtube.com/@learndutchwithkim"
+      }
+    ]
+  },
+  {
     "domain": "seblog.nl",
     "count": 10,
     "links": [
@@ -928,52 +986,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://seblog.nl/feed"
-      }
-    ]
-  },
-  {
-    "domain": "youtube.com",
-    "count": 10,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
-        "targetUrl": "https://www.youtube.com/watch?v=JwYX52BP2Sk"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://www.youtube.com/watch?v=HXTC5LSep3M"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/15/magic-fractal-snowflakes/",
-        "targetUrl": "https://www.youtube.com/watch?v=gB9n2gHsHN4"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/01/recently/",
-        "targetUrl": "https://www.youtube.com/watch?v=ZJAx-dHuVA4"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
-        "targetUrl": "https://www.youtube.com/watch?v=PemFIEJtUSw\u0026t=2904s"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/03/update-on-ovpay-experiment/",
-        "targetUrl": "https://www.youtube.com/watch?v=436t5ET4i9k\u0026t=24s"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/12/30/year-in-review/",
-        "targetUrl": "https://www.youtube.com/watch?v=c_DOG_mXz5w"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
-        "targetUrl": "https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/01/04/current-filter-coffee-setup/",
-        "targetUrl": "https://www.youtube.com/@morgandrinkscoffee"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/01/06/current-espresso-setup/",
-        "targetUrl": "https://www.youtube.com/@morgandrinkscoffee"
       }
     ]
   },
@@ -1676,24 +1688,6 @@
     ]
   },
   {
-    "domain": "ipfs.tech",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/31/recently/",
-        "targetUrl": "https://ipfs.tech"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/05/30/integrating-bluesky/",
-        "targetUrl": "https://docs.ipfs.tech/concepts/content-addressing/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/about/",
-        "targetUrl": "https://blog.ipfs.tech/shipyard-hello-world/"
-      }
-    ]
-  },
-  {
     "domain": "landing.jobs",
     "count": 3,
     "links": [
@@ -1866,6 +1860,20 @@
     ]
   },
   {
+    "domain": "animo.id",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/01/recently/",
+        "targetUrl": "https://animo.id/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://animo.id"
+      }
+    ]
+  },
+  {
     "domain": "apiary.io",
     "count": 2,
     "links": [
@@ -1978,6 +1986,20 @@
     ]
   },
   {
+    "domain": "eenbeetjenederlands.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
+        "targetUrl": "https://www.eenbeetjenederlands.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://www.eenbeetjenederlands.nl/"
+      }
+    ]
+  },
+  {
     "domain": "eta.st",
     "count": 2,
     "links": [
@@ -2086,6 +2108,20 @@
       {
         "sourceUrl": "https://hacdias.com/2021/02/01/recently/",
         "targetUrl": "https://gateway.ipfs.io/ipns/daviddias.me/"
+      }
+    ]
+  },
+  {
+    "domain": "ipfs.tech",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/31/recently/",
+        "targetUrl": "https://ipfs.tech"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/05/30/integrating-bluesky/",
+        "targetUrl": "https://docs.ipfs.tech/concepts/content-addressing/"
       }
     ]
   },
@@ -2612,16 +2648,6 @@
     ]
   },
   {
-    "domain": "animo.id",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/01/recently/",
-        "targetUrl": "https://animo.id/"
-      }
-    ]
-  },
-  {
     "domain": "annas-archive.org",
     "count": 1,
     "links": [
@@ -2862,6 +2888,16 @@
     ]
   },
   {
+    "domain": "canonvannederland.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://www.canonvannederland.nl/"
+      }
+    ]
+  },
+  {
     "domain": "captureone.com",
     "count": 1,
     "links": [
@@ -3092,6 +3128,16 @@
     ]
   },
   {
+    "domain": "dutchgrammar.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://www.dutchgrammar.com/"
+      }
+    ]
+  },
+  {
     "domain": "eatonphil.com",
     "count": 1,
     "links": [
@@ -3128,16 +3174,6 @@
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/"
-      }
-    ]
-  },
-  {
-    "domain": "eenbeetjenederlands.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
-        "targetUrl": "https://www.eenbeetjenederlands.nl/"
       }
     ]
   },
@@ -3368,6 +3404,16 @@
       {
         "sourceUrl": "https://hacdias.com/2024/01/12/portrait-by-goncalo-dias/",
         "targetUrl": "https://gonzzi.art/"
+      }
+    ]
+  },
+  {
+    "domain": "grammaticavoornt2docenten.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://grammaticavoornt2docenten.nl/"
       }
     ]
   },
@@ -3998,6 +4044,16 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://ohhelloana.blog"
+      }
+    ]
+  },
+  {
+    "domain": "onzetaal.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://onzetaal.nl/"
       }
     ]
   },
@@ -4708,6 +4764,16 @@
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian"
+      }
+    ]
+  },
+  {
+    "domain": "vlaanderen.be",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/07/tips-hulpmiddelen-nederlands/",
+        "targetUrl": "https://www.vlaanderen.be/team-taaladvies"
       }
     ]
   },
