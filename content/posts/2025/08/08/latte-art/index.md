@@ -1,13 +1,22 @@
 ---
-title: "The Craft of Latte Art"
+title: The Craft of Latte Art
 date: 2025-08-08T15:00:00+02:00
+location:
+  latitude: 51.44576
+  longitude: 5.46162
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
-- writings
+  - writings
+syndication:
+  - https://fosstodon.org/@hacdias/114993348876419742
+  - https://bsky.app/profile/hacdias.com/post/3lvvdsuf2bg2o
 tags:
-- coffee
-- espresso coffee
-- art
-- creative
+  - coffee
+  - espresso coffee
+  - art
+  - creative
 thumbnail: image:2025-08-08-latte-art
 ---
 
@@ -50,4 +59,3 @@ I think the main reason it was so hard was related to my milk steaming skills. T
 Recently, I've been focusing a bit more on tulips, and I'm reasonably pleased on how they've been turning out. However, I definitely need to work on the reproducibility. There's something wrong with my technique. I think I'm pouring too close to the edge of the cup, while I should actually be "pushing" the milk.
 
 Latte art is not only a part of the ritual of preparing a coffee drink, but also a way of imbuing a bit of personality into it. And I want to become better at it. There's a coffee roaster here in Eindhoven where they give latte art workshops. I might do it for my birthday ☕️.
-
