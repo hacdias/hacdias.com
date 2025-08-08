@@ -1,6 +1,7 @@
 ---
 title: Long Term Review of NuPhy Air Keyboards
 date: 2024-09-29T12:24:08+02:00
+rating: 5
 categories:
   - writings
 coverPhoto: image:2024-09-29-nuphy-air96
