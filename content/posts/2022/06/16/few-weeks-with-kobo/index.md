@@ -1,9 +1,9 @@
 ---
 title: A Few Weeks With a Kobo
 date: 2022-06-16T18:19:52.925651238+02:00
-rating: 4
 categories:
   - writings
+rating: 4
 tags:
   - reviews
   - hardware
