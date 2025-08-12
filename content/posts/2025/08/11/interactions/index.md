@@ -11,9 +11,13 @@ categories:
   - writings
 tags:
   - reflections
+  - life
+  - friends
 ---
 
 "Interacting with others is energizing". That was a thought I had around a week ago, and it has been stuck with me ever since. It probably doesn't come as a surprise to most - also not for me-, but I thought it'd be nice to expand a bit more on this thought.
+
+<!--more-->
 
 First, let's see what brought me here. On a not very eventful week of my life, I go to the office once or twice. This involves cycling to the station, taking the train, seeing people on the way, seeing people at the office, talking to people, etc.
 
@@ -23,7 +27,7 @@ However, the past two weeks have been a bit more calm: a large proportion of cow
 
 In addition to those things, I also did not have anything planned with friends, and ended up not *interacting* with that many people, besides my partner. After a week and a half like that, I noticed how much impact interacting with others actually has on me.
 
-I became slightly more negative, and also nostalgic in regards to my years in Lisbon. Maybe the approaching of the 5th anniversary living in The Netherlands did not make it better. Of course, it also depends on the interactions, and the people with whom I interact.
+I became slightly more negative, and also nostalgic in regards to my years in Lisbon. Maybe the approaching of the [5th anniversary](/2025/08/06/road-to-eindhoven/) living in The Netherlands did not make it better. Of course, it also depends on the interactions, and the people with whom I interact.
 
 Positive interactions makes you more positive, and negative more negative. And the lack thereof, likely also more negative. Important to say that this applies to me, I think it can be generalized to a lot of people, but it definitely won't be the case for everyone.
 
