@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Acapulco
+  season: 2
+  rating: 4
+  date: 2025-08-12
 - name: Dertigers
   season: 6
   rating: 4
