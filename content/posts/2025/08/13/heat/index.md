@@ -18,7 +18,7 @@ tags:
   - life
 ---
 
-It is warm 🔥. Or should I say, very hot? It is very hot. For the past few days, the maximum temperature outside has been hovering 30C in the south of the Netherlands. Here in Eindhoven we have, officially, a 80 to 100% chance of a heatwave. I think that's a *yes*.
+It is warm. Or, should I say, very hot? It is very hot 🔥! For the past few days, the maximum temperature outside has been hovering 30C in the south of the Netherlands. Here in Eindhoven we have, officially, a 80 to 100% chance of a heatwave. I think that's a *yes*.
 
 <!--more-->
 
