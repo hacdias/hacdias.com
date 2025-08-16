@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Behind Her Eyes
+  season: 1
+  rating: 4
+  date: 2025-08-15
 - name: Ghosts
   season: 3
   rating: 3
@@ -136,6 +140,10 @@
   date: 2025-03-20
 - name: Roosters
   season: 1
+  rating: 3
+  date: 2025-03-05
+- name: Ghosts
+  season: 2
   rating: 3
   date: 2025-03-05
 - name: Ghosts
