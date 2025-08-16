@@ -4,6 +4,23 @@
     <title>Blogroll</title>
   </head>
   <body>
+    <outline text="General">
+      <outline xmlUrl="https://alpinelinux.org/atom.xml" text="Alpine Linux" htmlUrl="https://alpinelinux.org/atom.xml" type="rss"></outline>
+      <outline xmlUrl="https://annoying.technology/index.xml" text="Annoying Technology" htmlUrl="https://annoying.technology/" type="rss"></outline>
+      <outline xmlUrl="https://www.engineersneedart.com/rss.xml" text="Engineers Need Art" htmlUrl="https://www.engineersneedart.com" type="rss"></outline>
+      <outline xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" text="Golang Weekly" htmlUrl="https://golangweekly.com/" type="rss"></outline>
+      <outline xmlUrl="https://jonworth.eu/feed/" text="Jon Worth" htmlUrl="https://jonworth.eu/" type="rss"></outline>
+      <outline xmlUrl="https://miniflux.app/feed.xml" text="Miniflux" htmlUrl="https://miniflux.app" type="rss"></outline>
+      <outline xmlUrl="https://go.dev/blog/feed.atom" text="The Go Blog" htmlUrl="https://go.dev/blog/feed.atom" type="rss"></outline>
+      <outline xmlUrl="https://indieweb.org/this-week/feed.xml" text="This Week in the IndieWeb" htmlUrl="https://indieweb.org/this-week" type="rss"></outline>
+      <outline xmlUrl="https://zdimension.fr/feed.xml" text="zdimension" htmlUrl="https://zdimension.fr/" type="rss"></outline>
+    </outline>
+    <outline text="Comics">
+      <outline xmlUrl="https://heyokyay.com/feed/" text="Hey Ok Yay?" htmlUrl="https://heyokyay.com" type="rss"></outline>
+      <outline xmlUrl="https://pbfcomics.com/feed/" text="The Perry Bible Fellowship" htmlUrl="https://pbfcomics.com/" type="rss"></outline>
+      <outline xmlUrl="https://wizardzines.com/index.xml" text="Wizard Zines" htmlUrl="https://wizardzines.com" type="rss"></outline>
+      <outline xmlUrl="https://xkcd.com/rss.xml" text="XKCD" htmlUrl="https://xkcd.com/" type="rss"></outline>
+    </outline>
     <outline text="Blogs">
       <outline xmlUrl="https://aaronparecki.com/feed.xml" text="Aaron Parecki" htmlUrl="https://aaronparecki.com/" type="rss"></outline>
       <outline xmlUrl="https://ohhelloana.blog/feed.xml" text="Ana Rodrigues" htmlUrl="https://ohhelloana.blog" type="rss"></outline>
@@ -38,6 +55,7 @@
       <outline xmlUrl="https://mtlynch.io/index.xml" text="Michael Lynch" htmlUrl="https://mtlynch.io/" type="rss"></outline>
       <outline xmlUrl="https://mikestone.me/feed.xml" text="Mike Stone" htmlUrl="https://mikestone.me/" type="rss"></outline>
       <outline xmlUrl="https://niqwithq.com/feed.xml" text="Niq" htmlUrl="https://niqwithq.com" type="rss"></outline>
+      <outline xmlUrl="https://pbanos.substack.com/feed" text="Panagiotis Banos" htmlUrl="https://pbanos.substack.com" type="rss"></outline>
       <outline xmlUrl="https://paulstamatiou.com/posts.xml" text="Paul Stamatiou" htmlUrl="https://paulstamatiou.com" type="rss"></outline>
       <outline xmlUrl="https://blog.pesky.moe/index.xml" text="Pesky&#39;s Blog" htmlUrl="https://blog.pesky.moe/" type="rss"></outline>
       <outline xmlUrl="https://notes.eatonphil.com/rss.xml" text="Phil Eaton" htmlUrl="http://notes.eatonphil.com/" type="rss"></outline>
@@ -53,23 +71,6 @@
       <outline xmlUrl="https://macwright.com/rss.xml" text="Tom MacWright" htmlUrl="https://macwright.com" type="rss"></outline>
       <outline xmlUrl="https://vmx.cx/cgi-bin/blog/index.cgi/feed/" text="Volker Mische" htmlUrl="http://vmx.cx/cgi-bin/blog/index.cgi" type="rss"></outline>
       <outline xmlUrl="https://xeiaso.net/blog.json" text="Xe" htmlUrl="https://xeiaso.net/" type="rss"></outline>
-    </outline>
-    <outline text="General">
-      <outline xmlUrl="https://alpinelinux.org/atom.xml" text="Alpine Linux" htmlUrl="https://alpinelinux.org/atom.xml" type="rss"></outline>
-      <outline xmlUrl="https://annoying.technology/index.xml" text="Annoying Technology" htmlUrl="https://annoying.technology/" type="rss"></outline>
-      <outline xmlUrl="https://www.engineersneedart.com/rss.xml" text="Engineers Need Art" htmlUrl="https://www.engineersneedart.com" type="rss"></outline>
-      <outline xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" text="Golang Weekly" htmlUrl="https://golangweekly.com/" type="rss"></outline>
-      <outline xmlUrl="https://jonworth.eu/feed/" text="Jon Worth" htmlUrl="https://jonworth.eu/" type="rss"></outline>
-      <outline xmlUrl="https://miniflux.app/feed.xml" text="Miniflux" htmlUrl="https://miniflux.app" type="rss"></outline>
-      <outline xmlUrl="https://go.dev/blog/feed.atom" text="The Go Blog" htmlUrl="https://go.dev/blog/feed.atom" type="rss"></outline>
-      <outline xmlUrl="https://indieweb.org/this-week/feed.xml" text="This Week in the IndieWeb" htmlUrl="https://indieweb.org/this-week" type="rss"></outline>
-      <outline xmlUrl="https://zdimension.fr/feed.xml" text="zdimension" htmlUrl="https://zdimension.fr/" type="rss"></outline>
-    </outline>
-    <outline text="Comics">
-      <outline xmlUrl="https://heyokyay.com/feed/" text="Hey Ok Yay?" htmlUrl="https://heyokyay.com" type="rss"></outline>
-      <outline xmlUrl="https://pbfcomics.com/feed/" text="The Perry Bible Fellowship" htmlUrl="https://pbfcomics.com/" type="rss"></outline>
-      <outline xmlUrl="https://wizardzines.com/index.xml" text="Wizard Zines" htmlUrl="https://wizardzines.com" type="rss"></outline>
-      <outline xmlUrl="https://xkcd.com/rss.xml" text="XKCD" htmlUrl="https://xkcd.com/" type="rss"></outline>
     </outline>
   </body>
 </opml>
