@@ -130,6 +130,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [ ] Practice a new sport for 4 months
 - [ ] Learn how to ⛷️ ski or 🏂 snowboard
   - [ ] Ski or snowboard down a mountain
+- [ ] Overcome my 💦 [fear of deep water](2024/09/09/fear-of-deep-water/)
 {.checklist}
 
 <!--
