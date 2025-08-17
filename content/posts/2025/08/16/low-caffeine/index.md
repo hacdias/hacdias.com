@@ -8,10 +8,13 @@ location:
   region: North Brabant
   country: Netherlands
 categories:
-- writings
+  - writings
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3lwjxtpqaww23
+  - https://fosstodon.org/@hacdias/115039794249238012
 tags:
-- coffee
-- espresso coffee
+  - coffee
+  - espresso coffee
 thumbnail: image:2025-08-08-latte-art
 ---
 

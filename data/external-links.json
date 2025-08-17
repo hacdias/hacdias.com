@@ -1832,6 +1832,24 @@
     ]
   },
   {
+    "domain": "substack.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
+        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-what-the-next-generation"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
+        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-my-vision-for-a-new-internet"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://pbanos.substack.com"
+      }
+    ]
+  },
+  {
     "domain": "1password.com",
     "count": 2,
     "links": [
@@ -2462,20 +2480,6 @@
     ]
   },
   {
-    "domain": "substack.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
-        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-what-the-next-generation"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
-        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-my-vision-for-a-new-internet"
-      }
-    ]
-  },
-  {
     "domain": "testground.ai",
     "count": 2,
     "links": [
@@ -3018,6 +3022,16 @@
     ]
   },
   {
+    "domain": "daterracoffee.com.br",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/16/low-caffeine/",
+        "targetUrl": "https://daterracoffee.com.br/"
+      }
+    ]
+  },
+  {
     "domain": "daviddias.me",
     "count": 1,
     "links": [
@@ -3274,6 +3288,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
         "targetUrl": "https://www.flickr.com/photos/129818819@N03/albums/72177720303968156"
+      }
+    ]
+  },
+  {
+    "domain": "friedhats.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/16/low-caffeine/",
+        "targetUrl": "https://friedhats.com/products/2025-brazil-daterra-low-caf"
       }
     ]
   },
@@ -4594,6 +4618,16 @@
       {
         "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
         "targetUrl": "https://test-ipv6.com"
+      }
+    ]
+  },
+  {
+    "domain": "thedecafproject.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/16/low-caffeine/",
+        "targetUrl": "https://www.thedecafproject.com/"
       }
     ]
   },
