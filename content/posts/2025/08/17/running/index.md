@@ -1,12 +1,21 @@
 ---
 title: Back To Running
 date: 2025-08-17T11:24:21+02:00
-thumbnail: image:2025-08-17-running
+location:
+  latitude: 51.44581
+  longitude: 5.46145
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
-- writings
+  - writings
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3lwlkszxrdx2t
+  - https://fosstodon.org/@hacdias/115043381593128324
 tags:
-- running
-- sports
+  - running
+  - sports
+thumbnail: image:2025-08-17-running
 ---
 
 In my last [monthly recap](/2025/07/31/recently/), I mentioned I started running again, after taking a few months break. I'm now three and a half weeks in the new program, and I felt a bit of an urge to write a bit about how it has been, what am I feeling, and whether or not I want to continue.
@@ -19,7 +28,7 @@ In addition, we were going to go to Japan a few weeks after, and Japan is known 
 
 Since then, I have been putting off running, because, put simply, I'm afraid of what might happen. Afraid of re-injuring my Achilles and that the knee pain would come back. Either way, I decided to start again by following the same plan.
 
-![The Philips de Jonge Park in a Foggy Morning](image:2025-08-17-running)
+![The Philips de Jongh Park in a Foggy Morning](image:2025-08-17-running)
 {width="5712" height="4284"}
 
 However, after looking at the plan again, I still felt that the last few weeks progressed too fast, so I took a look at what was available on the Internet, and I found a [modified](https://spaceninja.com/blog/2024/couck-to-5k/) version of the plan. This modified plan stretches the original plan for two more weeks, making the progression a bit slower.
