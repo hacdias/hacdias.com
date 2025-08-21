@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Echoes
+  season: 1
+  rating: 4
+  date: 2025-08-20
 - name: The Society
   season: 1
   rating: 4
