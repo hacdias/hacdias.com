@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Acapulco
+  season: 3
+  rating: 4
+  date: 2025-08-23
 - name: Echoes
   season: 1
   rating: 4
