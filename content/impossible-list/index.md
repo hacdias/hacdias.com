@@ -84,7 +84,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Live abroad for more than 6 months <small>[February 2021, 🇳🇱 NL]</small>
    - [x] Live abroad for more than 1 year <small>[August 2021, 🇳🇱 NL]</small>
    - [x] Live abroad for more than 2 years <small>[August 2022, 🇳🇱 NL]</small>
-   - [ ] [Live abroad for more than 5 years](/2024/01/10/when-does-abroad-stop-being-abroad/ "When does abroad stop being abroad?") <small>[August 2025, 🇳🇱 NL]</small>
+   - [x] [Live abroad for more than 5 years](/2024/01/10/when-does-abroad-stop-being-abroad/ "When does abroad stop being abroad?") <small>[August 2025, 🇳🇱 NL]</small>
 - [ ] Volunteer for a good cause for 6 months
 - [ ] Donate for a good cause for 6 months
 - [ ] Learn how to play a 🎶 musical instrument
