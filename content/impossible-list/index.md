@@ -16,28 +16,34 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [x] Visit 15 countries <small>[🇳🇱 NL, 🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA, 🇦🇹 AT] [February 2024]</small>
   - [ ] Visit 20 countries <small>[🇸🇰 SK, 🇯🇵 JP, 🇧🇬 BG]</small>
 - [x] Visit 🇵🇹 Azores <small>[July 2019]</small>
+- [x] Visit a 🎪 [World Expo](https://en.wikipedia.org/wiki/World%27s_fair) <small>[April 2025, Osaka]</small>
 - [x] Visit 🇵🇹 Madeira  <small>[June 2025]</small>
 - [ ] Visit 🇳🇴 Svalbard
 - [ ] Visit 🇦🇶 Antarctica
 - [ ] Visit 🇲🇴 Macau
-- [ ] Interrail across 🇪🇺 Europe
-  - [x] 10 Day Intrarail in 🇮🇹 Italy <small>[September 2022]</small>
-- [ ] See the Aurora Borealis
--  [x] Visit a [World Expo](https://en.wikipedia.org/wiki/World%27s_fair) <small>[April 2025, Osaka]</small>
+- [ ] See the 🌌 Aurora Borealis
+- [ ] Travel on an 🔥 hot air balloon
+- [ ] Travel on the 🚇 front cabin of a subway train
+- [ ] Visit the 💺 cockpit of an airplane
+{.checklist}
+
+### Train Goals
+
 - [x] Travel between mainland 🇪🇺 Europe and the 🇬🇧 UK by train <small>[April 2022, [Eurostar](https://www.eurostar.com/)]</small>
+- [x] 10-day Intrarail in 🇮🇹 Italy <small>[[September 2022](/2022/11/16/trip-to-italy-in-photos/)]</small>
 - [x] Travel on a 🚂 steam train <small>[[July 2023](/2023/07/31/recently/#life), [Harz Railway](https://en.wikipedia.org/wiki/Harz_Railway)]</small>
 - [x] Travel on a 🍽️ restaurant train <small>[[August 2023](/2023/08/31/recently/), [Dinner Train](https://en.wikipedia.org/wiki/Dinner_Train_(Netherlands))]</small>
 - [x] Travel on an historical 🍽️🚂 restaurant steam train <small>[[October 2023](/2023/10/31/recently/), [Miljoenenlijn](https://miljoenenlijn.nl/)]</small>
 - [x] Overnight 🌙 travel between two countries by train <small>[[February 2024](/2024/02/27/traveling-to-vienna-with-the-nightjet/), [Nightjet](https://www.nightjet.com/)]</small>
 - [x] Travel on the historical 🚋 trams in Amsterdam <small>[August 2024, [Museumtramlijn](https://www.museumtramlijn.org/)]</small>
   - [ ] Lijn 30
+- [x] Cover 50% of the Dutch 🛤️ rail network <small>[June 2025, 50%]</small>
+  - [ ] Cover 75% of the Dutch 🛤️ rail network
+  - [ ] Cover 100% of the Dutch 🛤️ rail network
 - [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
 - [ ] Cross-country 🇨🇦 train trip from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 - [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
-- [ ] Cover 100% of the Dutch rail network <small>[June 2025, 50%]</small>
-- [ ] Go on a hot air 🎈 balloon ride
-- [ ] Travel a subway train in the front cabin
-- [ ] Visit an airplane's cockpit
+- [ ] Interrail across 🇪🇺 Europe
 {.checklist}
 
 ### Countries Bucket List {#countries}
@@ -68,7 +74,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 - [x] Participate in the Youth Parliament <small>[March 2012]</small>
    - [x] Go to Districts <small>[March 2012, President] [February 2013, Deputy] [March 2016, Deputy]</small>
-   - [x] Go to Nationals <small>[May 2012, Secretary]</small>
+   - [x] Go to Nationals <small>[[May 2012](/2024/01/12/parlamento-dos-jovens/), Secretary]</small>
 -  [x] Create a website <small>[July 2014]</small>
    - [x] Maintain a website for 1 years <small>[July 2015]</small>
    - [x] Maintain a website for 5 years <small>[July 2019]</small>
@@ -128,9 +134,10 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Practice a new sport for 1 month <small>[May 2024, Kickboxing] [February 2025, Running]</small>
   - [x] Practice a new sport for 2 months <small>[June 2024, Kickboxing] [March 2025, Running]</small>
   - [ ] Practice a new sport for 4 months
+- [ ] Learn how to 🎿 cross-country ski
 - [ ] Learn how to ⛷️ ski or 🏂 snowboard
   - [ ] Ski or snowboard down a mountain
-- [ ] Overcome my 💦 [fear of deep water](2024/09/09/fear-of-deep-water/)
+- [ ] Overcome my 💦 [deep water fear](2024/09/09/fear-of-deep-water/)
 {.checklist}
 
 <!--
