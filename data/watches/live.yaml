@@ -3,6 +3,10 @@
 #   rating:
 #   date:
 #   location:
+- name: IDER
+  rating: 4
+  date: 2025-08-29
+  location: Altstad
 - name: Allie X
   rating: 5
   date: 2025-07-09
