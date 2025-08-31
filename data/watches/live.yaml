@@ -3,6 +3,10 @@
 #   rating:
 #   date:
 #   location:
+- name: Blanks
+  rating: 4
+  date: 2025-08-30
+  location: Ketelhuisplein
 - name: IDER
   rating: 4
   date: 2025-08-29
