@@ -3,6 +3,14 @@
 #   rating:
 #   date:
 #   location:
+- name: Pommelien Thijs
+  rating: 5
+  date: 2025-08-31
+  location: Ketelhuisplein
+- name: Bente
+  rating: 5
+  date: 2025-08-31
+  location: Ketelhuisplein
 - name: Blanks
   rating: 4
   date: 2025-08-30

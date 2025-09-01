@@ -1,14 +1,23 @@
 ---
-title: "Recently in August '25"
+title: Recently in August '25
 date: 2025-08-31T09:56:27+02:00
+location:
+  latitude: 51.44596
+  longitude: 5.46147
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
-- writings
-thumbnail: image:2025-08-31-recently
+  - writings
+syndication:
+  - https://fosstodon.org/@hacdias/115122309337271620
+  - https://bsky.app/profile/hacdias.com/post/3lxomhdlyaq2n
 tags:
-- now
-- entertainment
-- health
-- life
+  - now
+  - entertainment
+  - health
+  - life
+thumbnail: image:2025-08-31-recently
 ---
 
 August is now coming to an end, and there is something in the air feeling more and more like the autumn. Days are becoming colder, darker, and the rain is showing up again. That's good, considering The Netherlands has had one of the driest years so far. Let's look back and see what I've been up to.
@@ -46,4 +55,4 @@ When it comes to [📺 series](/watches/#series), however, we watched maybe too 
 
 <hr>
 
-Concluding paragraph...
+Until next time!
