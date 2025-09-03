@@ -347,7 +347,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 79,
+    "count": 81,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -648,6 +648,14 @@
       {
         "sourceUrl": "https://hacdias.com/2025/08/03/taal-is-zeg-maar-echt-mijn-ding/",
         "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789045051925"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/09/02/surrounded-by-idiots/",
+        "targetUrl": "https://en.wikipedia.org/wiki/DISC_assessment"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/09/02/surrounded-by-idiots/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781785042188"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",

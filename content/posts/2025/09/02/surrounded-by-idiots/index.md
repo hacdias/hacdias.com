@@ -2,19 +2,19 @@
 title: Surrounded by Idiots
 date: 2025-09-02T17:50:11+02:00
 categories:
-- writings
-tags:
-- reviews
-- book reviews
-- personal growth
+  - writings
+rating: 3
 read:
   author: Thomas Erikson
-  publisher: Vermilion
-  pages: 282
-  uid: isbn:9781785042188
   cover:
     url: image:2025-09-02-surrounded-by-idiots
-rating: 3
+  pages: 282
+  publisher: Vermilion
+  uid: isbn:9781785042188
+tags:
+  - reviews
+  - book reviews
+  - personal growth
 thumbnail: image:2025-09-02-surrounded-by-idiots-thumbail
 ---
 
