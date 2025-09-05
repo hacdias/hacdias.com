@@ -14,7 +14,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Visit 5 countries <small>[🇵🇹 PT, 🇪🇸 ES, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC] [October 2018]</small>
   - [x] Visit 10 countries <small>[🇩🇪 DE, 🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU] [February 2020]</small>
   - [x] Visit 15 countries <small>[🇳🇱 NL, 🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA, 🇦🇹 AT] [February 2024]</small>
-  - [ ] Visit 20 countries <small>[🇸🇰 SK, 🇯🇵 JP, 🇧🇬 BG]</small>
+  - [ ] Visit 20 countries <small>[🇸🇰 SK, 🇯🇵 JP, 🇧🇬 BG, 🇩🇰 DK]</small>
 - [x] Visit 🇵🇹 Azores <small>[July 2019]</small>
 - [x] Visit a 🎪 [World Expo](https://en.wikipedia.org/wiki/World%27s_fair) <small>[April 2025, Osaka]</small>
 - [x] Visit 🇵🇹 Madeira  <small>[June 2025]</small>
@@ -40,7 +40,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [ ] Cover 75% of the Dutch 🛤️ rail network
   - [ ] Cover 100% of the Dutch 🛤️ rail network
 - [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
-- [ ] Travel on the 🚇 front cabin of a subway train
+- [x] Travel on the 🚇 front of a subway train <small>[September 2025, Copenhagen]</small>
 - [ ] Cross-country 🇨🇦 train trip from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 - [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 - [ ] Interrail across 🇪🇺 Europe
