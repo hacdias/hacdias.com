@@ -1478,3 +1478,39 @@
       destination: Amsterdam Schiphol
       operator: TAP
       number: "672"
+- name: Long Weekend Trip With Partner
+  place: 🇩🇰 🇸🇪 København & Malmö
+  start: 2025-09-04
+  date: 2025-09-08
+  latitude: 55.671157
+  longitude: 12.4290235
+  itinerary:
+    - type: air
+      departure: 2025-09-04T06:54:00.000+02:00
+      arrival: 2025-09-04T08:09:00.000+02:00
+      origin: Eindhoven
+      destination: Copenhagen Kastrup
+      operator: TRA
+      number: "5961"
+    - type: train
+      departure: 2025-09-07T09:05:00.000+02:00
+      arrival: 2025-09-07T09:51:00.000+02:00
+      origin: Østerport
+      destination: Triangeln
+    - type: train
+      departure: 2025-09-07T16:35:00.000+02:00
+      arrival: 2025-09-07T17:22:00.000+02:00
+      origin: Malmö C
+      destination: Østerport
+    - type: train
+      departure: 2025-09-08T06:35:00.000+02:00
+      arrival: 2025-09-08T06:57:00.000+02:00
+      origin: Østerport
+      destination: Københavns Lufthavn Kastrup
+    - type: air
+      departure: 2025-09-08T09:08:00.000+02:00
+      arrival: 2025-09-08T10:35:00.000+02:00
+      origin: Copenhagen Kastrup
+      destination: Eindhoven
+      operator: TRA
+      number: "5962"
