@@ -40,8 +40,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Cover 50% of the Dutch 🛤️ rail network <small>[June 2025, 50%]</small>
   - [ ] Cover 75% of the Dutch 🛤️ rail network
   - [ ] Cover 100% of the Dutch 🛤️ rail network
-- [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
 - [x] Travel on the 🚇 front of a subway train <small>[September 2025, Copenhagen]</small>
+- [ ] Travel on the historical 🚋 trams in The Hague <small>[[HOVM](https://hovm.nl/)]</small>
 - [ ] Cross-country 🇨🇦 train trip from Toronto to Vancouver <small>[[ViaRail](https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian)]</small>
 - [ ] Cross-country 🇺🇸 train trip from Coast to Coast <small>[[Amtrack](https://www.amtrakvacations.com/)]</small>
 - [ ] Interrail across 🇪🇺 Europe
