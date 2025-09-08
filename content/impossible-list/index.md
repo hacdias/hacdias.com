@@ -14,7 +14,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Visit 5 countries <small>[🇵🇹 PT, 🇪🇸 ES, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN, 🇧🇪 BE, 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SC] [October 2018]</small>
   - [x] Visit 10 countries <small>[🇩🇪 DE, 🇨🇿 CZ, 🇨🇷 CR, 🇨🇭 CH, 🇱🇺 LU] [February 2020]</small>
   - [x] Visit 15 countries <small>[🇳🇱 NL, 🇫🇷 FR, 🇮🇹 IT, 🇻🇦 VA, 🇦🇹 AT] [February 2024]</small>
-  - [ ] Visit 20 countries <small>[🇸🇰 SK, 🇯🇵 JP, 🇧🇬 BG, 🇩🇰 DK]</small>
+  - [x] Visit 20 countries <small>[🇸🇰 SK, 🇯🇵 JP, 🇧🇬 BG, 🇩🇰 DK, 🇸🇪 SE] [September 2025]</small>
+  - [ ] Visit 25 countries
 - [x] Visit 🇵🇹 Azores <small>[July 2019]</small>
 - [x] Visit a 🎪 [World Expo](https://en.wikipedia.org/wiki/World%27s_fair) <small>[April 2025, Osaka]</small>
 - [x] Visit 🇵🇹 Madeira  <small>[June 2025]</small>
@@ -51,7 +52,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇦🇺 Australia
   - 🇧🇷 Brazil
   - 🇨🇦 Canada
-  - 🇩🇰 Denmark
   - 🇪🇬 Egypt
   - 🇫🇮 Finland
   - 🇬🇷 Greece
@@ -62,7 +62,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - 🇸🇬 Singapore
   - 🇰🇷 South Korea
   - 🇪🇸 Spain
-  - 🇸🇪 Sweden
   - 🇹🇭 Thailand
   - 🇹🇷 Türkiye
   - 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
