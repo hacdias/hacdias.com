@@ -49,24 +49,24 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 
 ### Countries Bucket List {#countries}
 
-  - 🇦🇺 Australia
-  - 🇧🇷 Brazil
-  - 🇨🇦 Canada
-  - 🇪🇬 Egypt
-  - 🇫🇮 Finland
-  - 🇬🇷 Greece
-  - 🇭🇺 Hungary
-  - 🇮🇸 Iceland
-  - 🇳🇴 Norway
-  - 🇵🇪 Peru
-  - 🇸🇬 Singapore
-  - 🇰🇷 South Korea
-  - 🇪🇸 Spain
-  - 🇹🇭 Thailand
-  - 🇹🇷 Türkiye
-  - 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
-  - 🇺🇿 Uzbekistan <!-- https://uzbekistan.travel/en/i/bukhara/ -->
-  - 🇪🇪 Estonia
+- 🇦🇺 Australia
+- 🇧🇷 Brazil
+- 🇨🇦 Canada
+- 🇪🇬 Egypt
+- 🇫🇮 Finland
+- 🇬🇷 Greece
+- 🇭🇺 Hungary
+- 🇮🇸 Iceland
+- 🇳🇴 Norway
+- 🇵🇪 Peru
+- 🇸🇬 Singapore
+- 🇰🇷 South Korea
+- 🇪🇸 Spain
+- 🇹🇭 Thailand
+- 🇹🇷 Türkiye
+- 🇺🇸 United States of America <!-- Want to visit California, New York and Yellowstone. -->
+- 🇺🇿 Uzbekistan <!-- https://uzbekistan.travel/en/i/bukhara/ -->
+- 🇪🇪 Estonia
 {.trips}
 
 ## 🦄 Life Goals {#life}
@@ -128,16 +128,19 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [ ] E-bike 80 km in a single trip
 - [x] Close all rings on Apple Watch for 1 month <small>[March 2021]</small>
    - [x] Close all rings on Apple Watch for 2 months <small>[April 2021]</small>
-   - [ ] Close all rings on Apple Watch for 3 months
-- [x] Try out personal trainer sessions <small>[March 2023]</small>
-- [x] Practice a new sport for 1 month <small>[May 2024, Kickboxing] [February 2025, Running]</small>
-  - [x] Practice a new sport for 2 months <small>[June 2024, Kickboxing] [March 2025, Running]</small>
-  - [ ] Practice a new sport for 4 months
+   - [ ] Close all rings on Apple Watch for 4 months
+- [x] Try out personal trainer sessions <small>[[March 2023](/2024/06/29/reflections-after-a-year-at-the-gym/)]</small>
+- [x] Practice 🥊 kickboxing for 1 month <small>[May 2024]</small>
+  - [x] Practice 🥊 kickboxing for 2 months <small>[June 2024]</small>
+  - [ ] Practice 🥊 kickboxing for 4 months
+- [x] Go 🏃‍♂️ running for 1 month <small>[February 2025] [[August 2025](/2025/08/17/running/)]</small>
+  - [x] Go 🏃‍♂️ running for 2 months <small>[[March 2025](/2025/03/30/c25k-completed/)]</small>
+  - [ ] Go 🏃‍♂️ running for 4 months
 - [ ] Learn how to 🎿 cross-country ski
 - [ ] Learn how to ⛷️ ski or 🏂 snowboard
   - [ ] Ski or snowboard down a mountain
-- [ ] Overcome my 💦 [deep water fear](2024/09/09/fear-of-deep-water/)
-  - [ ] Swim on a regular basis
+- [ ] Overcome my 💦 [deep water fear](/2024/09/09/fear-of-deep-water/)
+  - [ ] Go 🏊‍♂️ swimming on a regular basis for 1 month 
 {.checklist}
 
 <!--
