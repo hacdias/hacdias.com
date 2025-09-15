@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Wednesday
+  season: 2
+  rating: 4
+  date: 2025-09-14
 - name: Invasion
   season: 2
   rating: 5
