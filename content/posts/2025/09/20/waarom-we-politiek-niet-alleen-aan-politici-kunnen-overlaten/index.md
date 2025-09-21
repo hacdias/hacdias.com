@@ -1,5 +1,5 @@
 ---
-title: Waarom we politiek niet alleen aan politici kunnen overlaten
+title: Waarom We Politiek Niet Alleen Aan Politici Kunnen Overlaten
 date: 2025-09-20T14:02:58+02:00
 location:
   latitude: 51.44593
@@ -30,7 +30,7 @@ tags:
   - society
 ---
 
-Het wantrouwen in de politiek neemt toe, terwijl politiek een onderwerp blijft waarover veel mensen niet willen praten. Toen ik *Waarom we politiek niet alleen aan politici kunnen overlaten* bij de boekenwinkel heb gezien, dacht ik: "oh, dat klinkt interessant".
+Het wantrouwen in de politiek neemt toe, terwijl politiek een onderwerp blijft waarover veel mensen niet willen praten. Toen ik *Waarom We Politiek Niet Alleen Aan Politici Kunnen Overlaten* bij de boekenwinkel heb gezien, dacht ik: "oh, dat klinkt interessant".
 
 <!--more-->
 
