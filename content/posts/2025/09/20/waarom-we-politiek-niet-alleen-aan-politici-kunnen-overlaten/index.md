@@ -1,23 +1,33 @@
 ---
 title: Waarom we politiek niet alleen aan politici kunnen overlaten
 date: 2025-09-20T14:02:58+02:00
+location:
+  latitude: 51.44593
+  longitude: 5.46159
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
   - writings
+rating: 5
+read:
+  author: Eva Rovers
+  cover:
+    height: 1200
+    url: image:2025-09-20-waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten
+    width: 742
+  pages: 214
+  publisher: De Correspondent
+  uid: isbn:9789493254671
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3lzbdmtys7724
+  - https://fosstodon.org/@hacdias/115236530157656715
 tags:
   - reviews
   - nederlands
-  - politics  
+  - politics
   - book reviews
-read:
-  author: Eva Rovers
-  publisher: De Correspondent
-  pages: 214
-  uid: isbn:9789493254671
-  cover:
-    url: "image:2025-09-20-waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten"
-    width: 742
-    height: 1200
-rating: 5
+  - society
 ---
 
 Het wantrouwen in de politiek neemt toe, terwijl politiek een onderwerp blijft waarover veel mensen niet willen praten. Toen ik *Waarom we politiek niet alleen aan politici kunnen overlaten* bij de boekenwinkel heb gezien, dacht ik: "oh, dat klinkt interessant".
