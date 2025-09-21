@@ -347,7 +347,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 82,
+    "count": 83,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -660,6 +660,10 @@
       {
         "sourceUrl": "https://hacdias.com/2025/09/14/queria-ja-nao-quer/",
         "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789895761333"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/09/20/waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789493254671"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
