@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Honey Don't
+  date: 2025-09-22T21:45:00+02:00
+  rating: 4
+  location: Natlab
+  room: 2
+  row: F
+  seat: 5
 - name: Weapons
   date: 2025-09-14T18:30:00+02:00
   rating: 4
