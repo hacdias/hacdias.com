@@ -34,6 +34,9 @@ Software Engineer passionate about open source, user agency, decentralization, i
   location="Animo Solutions" href="https://animo.id/"
   from="06/2025" to="present" >}}
 
+- Integrating the latest verifiable credential standards in [Credo](https://credo.js.org/)'s TypeScript ecosystem of open source libraries, such as OpenID for Verifiable Credentials and W3C Verifiable Credentials.
+- Building digital identity and verifiable credential solutions, such as [Paradym](https://paradym.id/)'s SaaS platform for issuance and verification of digital credentials; and [Paradym Wallet](https://paradym.id/products/paradym-mobile-wallet), enabling users to store their own credentials.
+
 {{</ resume-position >}}
 
 {{< resume-position 
@@ -41,8 +44,8 @@ Software Engineer passionate about open source, user agency, decentralization, i
   location="Ver.iD" href="https://ver.id/"
   from="06/2024" to="05/2025" >}}
 
-- Building a platform to enable developers to retrieve verifiable credentials from multiple identity wallets into their online platforms using a single integration, using open standards, in TypeScript. 
-- Integrating verification of digital identity wallets built on both proprietary APIs, and on open standards, such as OpenID for Verifiable Presentations, SD-JWT and mDoc.
+- Developed a platform to enable developers to retrieve verifiable credentials from multiple identity wallets into their online platforms using a single integration, using open standards, in TypeScript. 
+- Integrated verification of digital identity wallets built on both proprietary APIs, and on open standards, such as OpenID for Verifiable Presentations, SD-JWT and mDoc.
 
 {{</ resume-position >}}
 
