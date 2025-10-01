@@ -2136,6 +2136,20 @@
     ]
   },
   {
+    "domain": "internetconsultatie.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/09/30/naturalization/",
+        "targetUrl": "https://www.internetconsultatie.nl/naturalisatietermijn/b1"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/09/30/naturalization/",
+        "targetUrl": "https://www.internetconsultatie.nl/naturalisatietermijn/reactie/459d0389-ff30-4377-abfc-b29db4ca02ec"
+      }
+    ]
+  },
+  {
     "domain": "ipfs.io",
     "count": 2,
     "links": [
@@ -3128,6 +3142,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
         "targetUrl": "https://donaldduck.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "donarestaurant.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/09/30/recently/",
+        "targetUrl": "https://www.donarestaurant.com/"
       }
     ]
   },
@@ -4382,6 +4406,16 @@
     ]
   },
   {
+    "domain": "rijksoverheid.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/09/30/naturalization/",
+        "targetUrl": "https://www.rijksoverheid.nl/actueel/nieuws/2025/09/26/kabinet-wil-naturalisatietermijn-verlengen-van-5-naar-10-jaar"
+      }
+    ]
+  },
+  {
     "domain": "robocup.org",
     "count": 1,
     "links": [
@@ -4738,6 +4772,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/03/31/recently/",
         "targetUrl": "https://tryhackme.com/"
+      }
+    ]
+  },
+  {
+    "domain": "tweedekamer.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/09/30/naturalization/",
+        "targetUrl": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2016Z24171\u0026dossier=34632-%28R2080%29#wetgevingsproces"
       }
     ]
   },
