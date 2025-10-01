@@ -1,10 +1,10 @@
 ---
-title: "Recently in September '25"
+title: Recently in September '25
 date: 2025-09-30T17:54:29+02:00
 categories:
-- writings
+  - writings
 tags:
-- now
+  - now
 thumbnail: image:2025-09-30-wielewaal
 ---
 
