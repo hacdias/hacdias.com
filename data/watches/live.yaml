@@ -3,6 +3,10 @@
 #   rating:
 #   date:
 #   location:
+- name: Wicked
+  rating: 5
+  date: 2025-10-07
+  location: Gershwin Theatre
 - name: Pommelien Thijs
   rating: 5
   date: 2025-08-31
