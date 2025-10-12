@@ -1514,3 +1514,24 @@
       destination: Eindhoven
       operator: TRA
       number: "5962"
+- name: Autumn Trip With Friends
+  place: 🇺🇸 New York
+  start: 2025-10-04
+  date: 2025-10-12
+  latitude: 55.671157
+  longitude: 12.4290235
+  itinerary:
+    - type: air
+      departure: 2025-10-04T17:31:00.000+02:00
+      arrival: 2025-10-04T19:20:00.000-04:00
+      origin: Amsterdam Schiphol
+      destination: John F Kennedy International
+      operator: KLM
+      number: "643"
+    - type: air
+      departure: 2025-10-11T21:08:00.000-04:00
+      arrival: 2025-10-12T10:27:00.000+02:00
+      origin: John F Kennedy International
+      destination: Amsterdam Schiphol
+      operator: KLM
+      number: "644"
