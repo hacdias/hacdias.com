@@ -1521,6 +1521,16 @@
   latitude: 55.671157
   longitude: 12.4290235
   itinerary:
+    - type: train
+      departure: 2025-10-04T12:03:00.000+02:00
+      arrival: 2025-10-04T12:40:00.000+02:00
+      origin: Eindhoven Centraal
+      destination: Breda
+    - type: train
+      departure: 2025-10-04T12:44:00.000+02:00
+      arrival: 2025-10-04T13:37:00.000+02:00
+      origin: Breda
+      destination: Schiphol Airport
     - type: air
       departure: 2025-10-04T17:31:00.000+02:00
       arrival: 2025-10-04T19:20:00.000-04:00
@@ -1535,3 +1545,18 @@
       destination: Amsterdam Schiphol
       operator: KLM
       number: "644"
+    - type: train
+      departure: 2025-10-12T10:52:00.000+02:00
+      arrival: 2025-10-12T11:45:00.000+02:00
+      origin: Schiphol Airport
+      destination: Breda
+    - type: train
+      departure: 2025-10-12T11:49:00.000+02:00
+      arrival: 2025-10-12T12:02:00.000+02:00
+      origin: Breda
+      destination: Tilburg
+    - type: train
+      departure: 2025-10-12T12:08:00.000+02:00
+      arrival: 2025-10-12T12:34:00.000+02:00
+      origin: Tilburg
+      destination: Eindhoven Strijp-S
