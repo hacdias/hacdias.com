@@ -1055,8 +1055,8 @@
   place: 🇩🇪 Berlin
   start: 2024-06-04
   date: 2024-06-07
-  latitude: null
-  longitude: null
+  latitude: 52.5207722
+  longitude: 13.4139188
   itinerary:
     - departure: 2024-06-04T09:00:00+01:00
       arrival: 2024-06-04T17:00:00+01:00
@@ -1518,8 +1518,8 @@
   place: 🇺🇸 New York
   start: 2025-10-04
   date: 2025-10-12
-  latitude: 55.671157
-  longitude: 12.4290235
+  latitude: 40.7591622
+  longitude: -74.0516316
   itinerary:
     - type: train
       departure: 2025-10-04T12:03:00.000+02:00
@@ -1560,3 +1560,9 @@
       arrival: 2025-10-12T12:34:00.000+02:00
       origin: Tilburg
       destination: Eindhoven Strijp-S
+- name: Funke Conference
+  place: 🇩🇪 Berlin
+  start: 2025-10-13
+  date: 2025-10-15
+  latitude: 52.5104338
+  longitude: 13.4291336
