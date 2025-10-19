@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: My Neighbor Totoro
+  date: 2025-10-19T19:20:00+02:00
+  rating: 4
 - name: Honey Don't
   date: 2025-09-22T21:45:00+02:00
   rating: 4
