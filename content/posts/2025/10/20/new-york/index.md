@@ -1,6 +1,7 @@
 ---
 title: New York in Film
 date: 2025-10-20T17:43:15+02:00
+thumbnail: "image:2025-10-20-new-york-09"
 categories:
   - photos
 photos:
