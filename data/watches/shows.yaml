@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: The Morning Show
+  season: 2
+  rating: 4
+  date: 2025-10-19
+- name: The Morning Show
   season: 1
   rating: 4
   date: 2025-09-26
