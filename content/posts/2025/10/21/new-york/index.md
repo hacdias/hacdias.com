@@ -1,13 +1,13 @@
 ---
 title: Being In New York
 date: 2025-10-21T08:00:00+02:00
-thumbnail: image:2025-10-21-new-york-02
 categories:
-- writings
+  - writings
 tags:
-- new york
-- travel
-- united states
+  - new york
+  - travel
+  - united states
+thumbnail: image:2025-10-21-new-york-02
 ---
 
 A few weeks ago, a few friends and I visited New York. It was our first trip to the United States. This had been planned for quite some time, so, between the hesitation, the current geopolitical situation, and all the scary news, we still went. And what a trip it was!
