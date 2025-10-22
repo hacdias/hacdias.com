@@ -3,6 +3,9 @@ title: Being In New York
 date: 2025-10-21T08:00:00+02:00
 categories:
   - writings
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3m3op7jydqi2x
+  - https://fosstodon.org/@hacdias/115410733907000984
 tags:
   - new york
   - travel
