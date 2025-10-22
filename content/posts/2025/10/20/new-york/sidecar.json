@@ -1,0 +1,20 @@
+{
+  "interactions": [
+    {
+      "author": "Ruben",
+      "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/acaa64b85dde58643fb1fde4768a2a3310f6d9b3f12899a4531340841d03e1ad.png",
+      "authorUrl": "https://kedara.social/@ruben",
+      "date": "2025-10-20T22:57:58Z",
+      "url": "https://brid.gy/like/mastodon/@hacdias@fosstodon.org/115407272842935553/115142010739848397",
+      "type": "like"
+    },
+    {
+      "author": "SgtPooki",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/abfa827f13ac5ebc70ec915cb3bcb7cb4c58bde55beff412ab6e94e9b0300686.jpg",
+      "authorUrl": "https://bsky.app/profile/sgtpooki.com",
+      "date": "2025-10-20T16:39:11Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3m3n5zryqbb22/did%253Aplc%253A2kjiesh7yniik6e3fhfdslkn",
+      "type": "like"
+    }
+  ]
+}
