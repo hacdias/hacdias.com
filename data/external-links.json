@@ -1146,6 +1146,36 @@
     ]
   },
   {
+    "domain": "kevquirk.com",
+    "count": 6,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/26/search-engines/",
+        "targetUrl": "https://kevquirk.com/blog/out-with-old-tech-in-with-the-new"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/30/duckduckgo/",
+        "targetUrl": "https://kevquirk.com"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/10/22/ten-pointless-facts-about-me/",
+        "targetUrl": "https://kevquirk.com/blog/ten-pointless-facts-about-me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://kevquirk.com"
+      }
+    ]
+  },
+  {
     "domain": "timharek.no",
     "count": 6,
     "links": [
@@ -1198,32 +1228,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://jlelse.blog/"
-      }
-    ]
-  },
-  {
-    "domain": "kevquirk.com",
-    "count": 5,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://kevquirk.com/guestbook"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://kevquirk.com/guestbook-spam-is-fun"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/26/search-engines/",
-        "targetUrl": "https://kevquirk.com/blog/out-with-old-tech-in-with-the-new"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/30/duckduckgo/",
-        "targetUrl": "https://kevquirk.com"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://kevquirk.com"
       }
     ]
   },
@@ -1438,6 +1442,28 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://linkedin.com/in/hacdias"
+      }
+    ]
+  },
+  {
+    "domain": "manuelmoreale.com",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://manuelmoreale.com/guestbook"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://manuelmoreale.com/indieweb-carnival-multilingualism-in-a-global-web"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/10/22/ten-pointless-facts-about-me/",
+        "targetUrl": "https://manuelmoreale.com/thoughts/10-pointless-facts-about-me"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://manuelmoreale.com"
       }
     ]
   },
@@ -1740,24 +1766,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://macwright.com"
-      }
-    ]
-  },
-  {
-    "domain": "manuelmoreale.com",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://manuelmoreale.com/guestbook"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
-        "targetUrl": "https://manuelmoreale.com/indieweb-carnival-multilingualism-in-a-global-web"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://manuelmoreale.com"
       }
     ]
   },
