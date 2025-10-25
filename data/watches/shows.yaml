@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Invasion
+  season: 3
+  rating: 5
+  date: 2025-10-24
 - name: The Morning Show
   season: 2
   rating: 4
