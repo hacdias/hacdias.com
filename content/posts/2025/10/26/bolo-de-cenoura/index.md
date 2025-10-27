@@ -1,13 +1,13 @@
 ---
 title: Bolo de Cenoura
 date: 2025-10-26T09:20:38+01:00
-thumbnail: image:2025-10-26-bolo-de-cenoura
 categories:
-- writings
+  - writings
 tags:
-- recipe
-- cake
-- cooking
+  - recipe
+  - cake
+  - cooking
+thumbnail: image:2025-10-26-bolo-de-cenoura
 ---
 
 *Bolo de Cenoura* is a delicious carrot cake covered in chocolate ganache, and it is one of my favorite cakes ever. It is very different from what people in most countries consider a carrot cake. The Portuguese version seems to be inspired by the Brazilian version, which, in turn, seems inspired in the American version of this cake.
