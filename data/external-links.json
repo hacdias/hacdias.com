@@ -1976,6 +1976,20 @@
     ]
   },
   {
+    "domain": "bsky.app",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/10/27/internet-phone-book/",
+        "targetUrl": "https://bsky.app/profile/kevin.woblick.com/post/3lqjdsheq7227"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://bsky.app/profile/hacdias.com"
+      }
+    ]
+  },
+  {
     "domain": "buienradar.nl",
     "count": 2,
     "links": [
@@ -2154,6 +2168,20 @@
       {
         "sourceUrl": "https://hacdias.com/2025/09/30/naturalization/",
         "targetUrl": "https://www.internetconsultatie.nl/naturalisatietermijn/reactie/459d0389-ff30-4377-abfc-b29db4ca02ec"
+      }
+    ]
+  },
+  {
+    "domain": "internetphonebook.net",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
+        "targetUrl": "https://internetphonebook.net/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/10/27/internet-phone-book/",
+        "targetUrl": "https://internetphonebook.net/"
       }
     ]
   },
@@ -2894,16 +2922,6 @@
     ]
   },
   {
-    "domain": "bsky.app",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://bsky.app/profile/hacdias.com"
-      }
-    ]
-  },
-  {
     "domain": "bunny.net",
     "count": 1,
     "links": [
@@ -3630,16 +3648,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/06/25/air-quality/",
         "targetUrl": "https://intergalactic.systems/posts/post-1965946732.html"
-      }
-    ]
-  },
-  {
-    "domain": "internetphonebook.net",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
-        "targetUrl": "https://internetphonebook.net/"
       }
     ]
   },
