@@ -1,6 +1,15 @@
 {
   "replies": [
     {
+      "name": "Excerpts from my feed reader #5",
+      "content": "It is time for another roundup of interesting links from my feed reader. This is an exercise in ensuring that my website is not a dead-end on the web and that it leads readers forward to other similarly interesting places. If you have been following these compilations you might find some of the usual suspects are back this round. Here goes— Nico Solerieu writes about digital pruning in what is an exercise in extremely minimalist development. ‘Web won the fight,’ concludes Nico. ‘A browser is a browser. It’s the original cross platform tech.’ All this is something I enjoy toying with on occasion myself in various forms but I am yet to go as far as Nico and shun javascript on this website. However, in my defence, I ensure progressive enhancement. Speaking of progressive enhancement, the recent AWS outrage saw many people shocked (including me before I found out what was going on because apparently my bank uses AWS for seemingly everything). The cherry on the cake was someone’s ‘smart bed’ not allowing them to sleep on it, which showed both the importance of designing smart devices and having a wide enough couch. My good internet pal Juhis touches on the former issue in his interesting post. And speaking of the AWS outage, it was not just smart beds that took people by surprise. The famously private messaging app also relies on Amazon for its functioning—talk about matches made in hell—as I learnt from Rodrigo Ghedin who assured us there was no cause for concern. In completely unrelated matters, Henrique Dias received his copy of the Internet Phone Book, now a fascinating object of desire for me but more importantly a directory I want to find my name on some day. I have been saying for some time now that the IndieWeb is hard for complete newcomers, and especially for those without tech savvy. Leon Paternoster echoes these thoughts but adds something quite important to them: collective blogging might solve these problems more effectively than simply making the technology more user-friendly (although that is important too, perhaps as ‘simple, cheap tech stacks’ as Leon puts it), and of course by giving people a pathway from centralised platforms to decentralised ones. This past week has been extremely active on the IndieWeb. This is a note: a brief thought or excerpt from my commonplace book. For longer writings, please turn to the ‘Essays’ section.",
+      "author": "V.H. Belvadi",
+      "authorUrl": "https://vhbelvadi.com/",
+      "date": "2025-10-29T00:00:00Z",
+      "url": "https://vhbelvadi.com/excerpts-from-my-feed-reader-5",
+      "type": "unknown"
+    },
+    {
       "content": "Your post made me order one as well. Just placed an order in the only European shop that still has some, in Greece, and paid 17€ for FedEx shipping. But I must have one! 😅",
       "author": "Jan-Lukas Else",
       "authorPhoto": "https://avatars.webmention.io/jlelse.blog/19f2fafbdb19f3e5addb86026dc15d7c05df8ae2c5c900fe622e73998b08a0e1.jpg",
