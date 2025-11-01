@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Bugonia
+  date: 2025-10-31T22:40:00+01:00
+  rating: 4
+  location: Natlab
+  room: Auditorium
+  row: G
+  seat: 5
 - name: My Neighbor Totoro
   date: 2025-10-19T19:20:00+02:00
   rating: 4
