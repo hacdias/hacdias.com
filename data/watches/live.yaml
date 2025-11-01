@@ -3,6 +3,10 @@
 #   rating:
 #   date:
 #   location:
+- name: Ethel Cain
+  rating: 3
+  date: 2025-10-15
+  location: TivoliVredenburg
 - name: Wicked
   rating: 5
   date: 2025-10-07
