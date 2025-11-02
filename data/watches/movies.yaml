@@ -5,6 +5,12 @@
 #   room:
 #   row:
 #   seat:
+- name: Cas
+  date: 2025-11-01T20:30:00+01:00
+  rating: 3
+- name: Witte Wieven
+  date: 2025-11-01T19:30:00+01:00
+  rating: 2
 - name: Bugonia
   date: 2025-10-31T22:40:00+01:00
   rating: 4
