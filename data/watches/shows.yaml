@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Boots
+  season: 1
+  rating: 5
+  date: 2025-11-02
 - name: The Morning Show
   season: 3
   rating: 4
