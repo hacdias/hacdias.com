@@ -1,15 +1,24 @@
 ---
 title: Cycles And Fluctuations
 date: 2025-11-04T16:40:16+01:00
-thumbnail: image:2025-11-04-cycles-and-fluctuations
+location:
+  latitude: 51.44592
+  longitude: 5.4616
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
 categories:
-- writings
+  - writings
+syndication:
+  - https://news.indieweb.org/en
+  - https://fosstodon.org/@hacdias/115492193831359929
 tags:
-- indieweb
-- reflections
-- politics
-- netherlands
-- indieweb carnival
+  - indieweb
+  - reflections
+  - politics
+  - netherlands
+  - indieweb carnival
+thumbnail: image:2025-11-04-cycles-and-fluctuations
 ---
 
 This month's topic of the IndieWeb Carnival is "cycles and fluctuations". This is my third time participating in this initiative, and I think this topic couldn't have come at a better time. I'm not one hundred percent sure where this is going, but I want to start with politics.
