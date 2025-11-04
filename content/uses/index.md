@@ -15,7 +15,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **Tablet** <span>2018 iPad Pro 11"</span>
 - **Headphones** <span>Sony WH-1000XM5</span>
 - **Earphones** <span>AirPods Pro (2nd Gen)</span>
-- **e-Reader** <span>[Kobo Clara HD](/2022/06/16/few-weeks-with-kobo/)</span>
+- **e-Reader** <span>[Kobo Clara BW](/2022/06/16/few-weeks-with-kobo/)</span>
 - **Console** <span>Nintendo Switch, PlayStation 5</span>
 - **Tracking Device** <span>AirTags</span>
 - **Auth Device** <span>YubiKeys for 2FA, GPG and SSH</span>
@@ -90,7 +90,7 @@ The list below contains some of my favorite software, or software that I use on 
 - **Shopping Lists** <span>Apple Reminders</span>
 - **Documents** <span>Google Docs, Markdown</span>
 - **Personal Finance** <span>Google Sheets</span>
-- **News** <span>NRC 🇳🇱, Público 🇵🇹, some tech blogs</span>
+- **News** <span>NRC, De Correspondent, some tech blogs</span>
 - **Music and Podcasts** <span>[Spotify](https://spotify.com/)</span>
 - **Password Manager** <span>[1Password](https://1password.com/)</span>
 - **Weather** <span>Apple Weather, [Buienradar](https://www.buienradar.nl/)</span>
