@@ -1,5 +1,5 @@
 ---
-title: 'Multilingualism in a Global Web'
+title: Multilingualism in a Global Web
 date: 2024-10-04T08:42:35.351682529+02:00
 categories:
   - writings
