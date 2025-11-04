@@ -1,5 +1,5 @@
 ---
-title: 'IndieWeb Carnival: Colors'
+title: 'Colors'
 date: 2025-08-03T14:50:47.516524397+02:00
 location:
   latitude: 51.44585
