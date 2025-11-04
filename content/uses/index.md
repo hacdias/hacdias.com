@@ -100,5 +100,5 @@ The list below contains some of my favorite software, or software that I use on 
 - **Operating System** <span>macOS, iOS, Linux (Alpine usually)</span>
 - **Web Server** <span>[Caddy](https://caddyserver.com/)</span>
 - **Hosting Provider** <span>[Hetzner](https://www.hetzner.com/)</span>
-- **Domain Registrars** <span>[Porkbun](https://porkbun.com), [PTServidor](https://ptservidor.pt)</span>
+- **Domain Registrars** <span>[Porkbun](https://porkbun.com)</span>
 {.box .tb}
