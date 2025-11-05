@@ -2466,20 +2466,6 @@
     ]
   },
   {
-    "domain": "ptservidor.pt",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "https://www.ptservidor.pt/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://ptservidor.pt"
-      }
-    ]
-  },
-  {
     "domain": "pyropus.ca",
     "count": 2,
     "links": [
@@ -4348,6 +4334,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/01/06/when-you-dont-know-the-ingredients/",
         "targetUrl": "https://www.portugeseproducten.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "ptservidor.pt",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
+        "targetUrl": "https://www.ptservidor.pt/"
       }
     ]
   },
