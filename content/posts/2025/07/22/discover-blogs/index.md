@@ -12,7 +12,6 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/114895673272781352
   - https://bsky.app/profile/hacdias.com/post/3lujxr4ctd22k
-  - https://news.indieweb.org/en
 tags:
   - small web
   - personal website
