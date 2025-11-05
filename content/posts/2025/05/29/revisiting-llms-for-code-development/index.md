@@ -12,7 +12,6 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/114591750868199511
   - https://bsky.app/profile/hacdias.com/post/3lqcyr7bytn23
-  - https://news.indieweb.org/en
 tags:
   - artificial intelligence
   - machine learning
