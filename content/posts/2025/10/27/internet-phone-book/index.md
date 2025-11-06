@@ -10,7 +10,6 @@ location:
 categories:
   - writings
 syndication:
-  - https://news.indieweb.org/en
   - https://fosstodon.org/@hacdias/115446468155052831
   - https://bsky.app/profile/hacdias.com/post/3m46kzpijiz2x
 tags:
