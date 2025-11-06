@@ -12,7 +12,6 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/114903564184021793
   - https://bsky.app/profile/hacdias.com/post/3lunhvib5ro2w
-  - https://news.indieweb.org/en
 tags:
   - software
   - fun
