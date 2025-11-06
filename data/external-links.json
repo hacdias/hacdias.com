@@ -2678,6 +2678,16 @@
     ]
   },
   {
+    "domain": "alexsirac.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/11/04/cycles-and-fluctuations/",
+        "targetUrl": "https://alexsirac.com/indieweb-carnival-%E2%88%92-cycles-and-fluctuations/"
+      }
+    ]
+  },
+  {
     "domain": "alpinelinux.org",
     "count": 1,
     "links": [
