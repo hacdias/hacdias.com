@@ -961,7 +961,7 @@
   },
   {
     "domain": "seblog.nl",
-    "count": 11,
+    "count": 12,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
@@ -1001,6 +1001,10 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2025/08/31/recently/",
+        "targetUrl": "https://seblog.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/11/06/nederlands-leerreis/",
         "targetUrl": "https://seblog.nl/"
       },
       {
