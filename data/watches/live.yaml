@@ -3,6 +3,11 @@
 #   rating:
 #   date:
 #   location:
+- name: The Mayhem Ball
+  rating: 5
+  date: 2025-11-09
+  author: Lady Gaga
+  location: Ziggo Dome
 - name: Ethel Cain
   rating: 3
   date: 2025-10-15
