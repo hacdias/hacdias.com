@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: For All Mankind
+  season: 1
+  rating: 4
+  date: 2025-11-14
 - name: Boots
   season: 1
   rating: 5
