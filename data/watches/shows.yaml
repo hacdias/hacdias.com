@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Morning Show
+  season: 4
+  rating: 4
+  date: 2025-11-20
 - name: For All Mankind
   season: 2
   rating: 4
