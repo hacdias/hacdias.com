@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: ‘Wicked: For Good’
+  date: 2025-11-21
+  rating: 4
 - name: Cas
   date: 2025-11-01T20:30:00+01:00
   rating: 3
