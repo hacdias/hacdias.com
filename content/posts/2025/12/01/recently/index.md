@@ -1,13 +1,13 @@
 ---
-title: "Recently in November '25"
+title: Recently in November '25
 date: 2025-12-01T16:01:47+01:00
-thumbnail: "image:2025-12-01-recently"
 categories:
-- writings
+  - writings
 tags:
-- now
-- health
-- life
+  - now
+  - health
+  - life
+thumbnail: image:2025-12-01-recently
 ---
 
 November is now behind us, and there's only one month left in 2025. This year has been going by much faster than I first anticipated, and it has been full of things happening - should I call them events? Maybe that's what adult life is all about, but, for now, let's focus on the past month.
