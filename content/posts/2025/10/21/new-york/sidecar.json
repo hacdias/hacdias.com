@@ -12,6 +12,14 @@
   ],
   "interactions": [
     {
+      "author": "anti-haus negro",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/f2665f9759c7b64371bd66fff95e9bd7196de222c044c030ffea2148cd29d97c.jpg",
+      "authorUrl": "https://bsky.app/profile/jacky.wtf",
+      "date": "2025-12-01T00:41:12Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3m3op7jydqi2x/did%253Aplc%253Ae2ctbutx6kya6si4if5ngjmm",
+      "type": "like"
+    },
+    {
       "author": "James Van Dyne",
       "authorPhoto": "https://avatars.webmention.io/cdn.fosstodon.org/e561e9c23c95f372ba77c724ed5a6092501ca6b2b2cae8b84a7256b9393fca0e.jpg",
       "authorUrl": "https://indieweb.social/@jamesvandyne",
