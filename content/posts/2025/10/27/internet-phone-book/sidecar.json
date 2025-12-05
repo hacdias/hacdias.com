@@ -36,5 +36,15 @@
       "url": "https://brid.gy/comment/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3m46kzpijiz2x/at%253A%252F%252Fdid%253Aplc%253Albjgxkpi67g5yya7trkeemla%252Fapp.bsky.feed.post%252F3m46togkrg222",
       "type": "reply"
     }
+  ],
+  "interactions": [
+    {
+      "author": "Go4Know",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/91f9c32145f050f22e78dd8067775fa5d041b1bd2de4dae6d27288011950341e.jpg",
+      "authorUrl": "https://bsky.app/profile/go4know.com",
+      "date": "2025-11-29T17:08:51Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3m46kzpijiz2x/did%253Aplc%253Aydqzin7kctnatbefaxcp6f7s",
+      "type": "like"
+    }
   ]
 }
