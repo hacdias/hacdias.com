@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: Twinless
+  date: 2025-12-05
+  rating: 3
 - name: "Wicked: For Good"
   date: 2025-11-21
   rating: 4
