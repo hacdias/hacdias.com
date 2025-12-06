@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: For All Mankind
+  season: 4
+  rating: 5
+  date: 2025-12-04
+- name: For All Mankind
   season: 3
   rating: 5
   date: 2025-11-27
