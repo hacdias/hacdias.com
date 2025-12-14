@@ -1,8 +1,8 @@
 ---
-title: "An Update on Processing Bosch's eBike Flow FIT Files"
+title: An Update on Processing Bosch's eBike Flow FIT Files
 date: 2025-12-13T10:04:18+01:00
 categories:
-- writings
+  - writings
 tags:
   - cycling
   - sports

@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 85,
+    "count": 87,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -326,6 +326,14 @@
       {
         "sourceUrl": "https://hacdias.com/2025/08/01/search/",
         "targetUrl": "https://github.com/hacdias/hacdias.com/blob/f2abd04cbcede3f58c098dd16aa56d4ddaf1ee34/eagle/search.html"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/12/13/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://github.com/garmin/fit-javascript-sdk"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/12/13/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://github.com/hacdias/flowfit"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -1648,6 +1656,24 @@
     ]
   },
   {
+    "domain": "bosch-ebike.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://www.bosch-ebike.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://www.bosch-ebike.com/en/products/ebike-flow-app"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/12/13/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://help.bosch-ebike.com/ca/help-center/ebw-flowapp-activitytracking/asset-asf-01050"
+      }
+    ]
+  },
+  {
     "domain": "caddyserver.com",
     "count": 3,
     "links": [
@@ -1962,20 +1988,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://austinhenley.com/blog.html"
-      }
-    ]
-  },
-  {
-    "domain": "bosch-ebike.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
-        "targetUrl": "https://www.bosch-ebike.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
-        "targetUrl": "https://www.bosch-ebike.com/en/products/ebike-flow-app"
       }
     ]
   },
@@ -3518,6 +3530,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/14/gymbook-a-simple-and-easy-gym-app/",
         "targetUrl": "https://www.gymbookapp.com/"
+      }
+    ]
+  },
+  {
+    "domain": "hacdias.github.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/12/13/processing-bosch-ebike-flow-fit-files/",
+        "targetUrl": "https://hacdias.github.io/flowfit/"
       }
     ]
   },
