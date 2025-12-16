@@ -2,11 +2,11 @@
 title: Viaduct Wrapped '25
 date: 2025-12-16T10:09:57+01:00
 categories:
-- writings
+  - writings
 tags:
-- tracking
-- trains
-- transit
+  - tracking
+  - trains
+  - transit
 ---
 
 This year, I discovered [viaduct](https://viaduct.world) , a service to track train rides. Since then, I've [been tracking](/2025/07/19/tracking-train-rides/) my train rides and I've imported most of the train rides I could remember or had some registry of. They now came up with a "wrapped" of this year and it's quite nice to look at!
