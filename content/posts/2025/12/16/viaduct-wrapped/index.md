@@ -44,3 +44,5 @@ One thing to note is that each connecting train counts as a "trip". So if I were
 </div>
 
 In two weeks, they will be updating the wrapped to include the remaining trips of the year, so the statistics will actually show the whole of 2025! I will update this post then with the updated statistics. I don't expect much to change since I'll probably only be going one time to the office.
+
+One goal for 2026 is to maybe get to around 75% coverage in The Netherlands. It should be possible, I just need to visit Friesland and ride a few regional lines there. There's also quite a lot of tracks in North Holland which I've never ridden.
