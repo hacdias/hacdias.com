@@ -2580,6 +2580,20 @@
     ]
   },
   {
+    "domain": "viaduct.world",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/19/tracking-train-rides/",
+        "targetUrl": "https://viaduct.world"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/12/16/viaduct-wrapped/",
+        "targetUrl": "https://viaduct.world"
+      }
+    ]
+  },
+  {
     "domain": "vim.org",
     "count": 2,
     "links": [
@@ -4900,16 +4914,6 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://ver.id/"
-      }
-    ]
-  },
-  {
-    "domain": "viaduct.world",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/19/tracking-train-rides/",
-        "targetUrl": "https://viaduct.world"
       }
     ]
   },
