@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Badgast
+  season: 1
+  rating: 4
+  date: 2025-12-18
 - name: A Man on the Inside
   season: 2
   rating: 4
