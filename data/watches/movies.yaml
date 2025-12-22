@@ -5,6 +5,12 @@
 #   room:
 #   row:
 #   seat:
+- name: The Family Plan 2
+  date: 2025-12-21
+  rating: 4
+- name: The Family Plan
+  date: 2025-12-20
+  rating: 4
 - name: Twinless
   date: 2025-12-05
   rating: 3
