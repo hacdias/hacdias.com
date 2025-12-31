@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Emily in Paris
+  season: 5
+  rating: 4
+  date: 2025-12-30
 - name: Pluribus
   season: 1
   rating: 4
