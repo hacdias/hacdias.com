@@ -1,14 +1,14 @@
 ---
-title: "Year in Review '25"
+title: Year in Review '25
 date: 2025-12-31T14:48:02+01:00
 categories:
-- writings
+  - writings
 tags:
-- now
-- year in review
-- dutch
-- work
-- goals
+  - now
+  - year in review
+  - dutch
+  - work
+  - goals
 ---
 
 December has been a somewhat calmer month, which maybe is a good way to end such an eventful year. At the risk of [repeating myself](/2024/12/31/year-in-review/), I would say that 2025 has been a year full of change, new challenges and adventures. I am, generally, quite happy with how this year has developed: from moving to a new apartment, to getting a new job, to traveling.
