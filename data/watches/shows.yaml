@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Stranger Things
+  season: 5
+  rating: 5
+  date: 2026-01-01
 - name: Emily in Paris
   season: 5
   rating: 4
