@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: Wake Up Dead Man
+  date: 2026-01-01
+  rating: 4
 - name: The Instigators
   date: 2025-12-23
   rating: 4
