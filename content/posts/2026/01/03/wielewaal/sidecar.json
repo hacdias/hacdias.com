@@ -1,0 +1,20 @@
+{
+  "interactions": [
+    {
+      "author": "Nimo 🏳️‍🌈",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/e952da28a7a2f7ac2ebb1f1a2b393d411ea2c0bb24ae83539076590a1db203fc.jpg",
+      "authorUrl": "https://bsky.app/profile/nimobeeren.com",
+      "date": "2026-01-04T00:22:24Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3mbjgosqroc2h/did%253Aplc%253Albjgxkpi67g5yya7trkeemla",
+      "type": "like"
+    },
+    {
+      "author": "Boris",
+      "authorPhoto": "https://avatars.webmention.io/cdn.bsky.app/ae5550a853e2525d4fcff3ffb31943f596a9a267727feb2b2227b11c87a93eeb.jpg",
+      "authorUrl": "https://bsky.app/profile/bmann.ca",
+      "date": "2026-01-03T18:25:55Z",
+      "url": "https://brid.gy/like/bluesky/did:plc:xsx3bphrwkgeo3qnfjhzmdra/at%253A%252F%252Fdid%253Aplc%253Axsx3bphrwkgeo3qnfjhzmdra%252Fapp.bsky.feed.post%252F3mbjgosqroc2h/did%253Aplc%253A2cxgdrgtsmrbqnjkwyplmp43",
+      "type": "like"
+    }
+  ]
+}

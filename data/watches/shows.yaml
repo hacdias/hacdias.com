@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: POSE
+  season: 1
+  rating: 5
+  date: 2026-01-04
 - name: Stranger Things
   season: 5
   rating: 5
