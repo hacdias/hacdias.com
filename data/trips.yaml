@@ -1540,7 +1540,7 @@
       number: "643"
     - type: air
       departure: 2025-10-11T21:08:00.000-04:00
-      arrival: 2025-10-12T10:27:00.000+02:00
+      arrival: 2025-10-12T10:28:00.000+02:00
       origin: John F Kennedy International
       destination: Amsterdam Schiphol
       operator: KLM
@@ -1597,3 +1597,24 @@
       arrival: 2025-10-15T16:23:00.000+02:00
       origin: Hengelo
       destination: Utrecht Centraal
+- name: Christmas Holiday With Family
+  place: 🇵🇹 Santana da Serra
+  start: 2025-12-19
+  date: 2025-12-27
+  latitude: 37.500635
+  longitude: -8.300669
+  itinerary:
+    - type: air
+      departure: 2025-12-19T19:30:00.000+01:00
+      arrival: 2025-12-19T21:47:00.000+00:00
+      origin: Eindhoven
+      destination: Faro Gago Coutinho
+      operator: RYR
+      number: "5769"
+    - type: air
+      departure: 2025-12-27T15:30:00.000+00:00
+      arrival: 2025-12-27T19:29:00.000+01:00
+      origin: Faro Gago Coutinho
+      destination: Eindhoven
+      operator: RYR
+      number: "5768"
