@@ -84,14 +84,14 @@ The list below contains some of my favorite software, or software that I use on 
 - **Cloud File Storage** <span>iCloud, Google Drive</span>
 - **Photo Management** <span>Apple Photos, file system for RAW</span>
 - **Browser** <span>Chrome on macOS, Safari on iOS</span>
-- **Chat** <span>WhatsApp, Telegram, Signal</span>
-- **Bookmarks** <span>Browser, This Website</span>
+- **Chat** <span>Signal, WhatsApp, Telegram</span>
+- **Bookmarks** <span>Browser, Linkding</span>
 - **Read It Later** <span>Apple Reminders</span>
 - **Shopping Lists** <span>Apple Reminders</span>
-- **Documents** <span>Google Docs, Markdown</span>
+- **Documents** <span>Markdown</span>
 - **Personal Finance** <span>Google Sheets</span>
 - **News** <span>NRC, De Correspondent, some tech blogs</span>
-- **Music and Podcasts** <span>[Spotify](https://spotify.com/)</span>
+- **Music and Podcasts** <span>[Spotify](https://spotify.com/) and Apple Podcasts</span>
 - **Password Manager** <span>[1Password](https://1password.com/)</span>
 - **Weather** <span>Apple Weather, [Buienradar](https://www.buienradar.nl/)</span>
 - **Code Editor** <span>[Visual Studio Code](https://code.visualstudio.com/) and [vim](https://www.vim.org/)</span>
