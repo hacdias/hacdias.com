@@ -2,7 +2,11 @@
 #   season:
 #   date:
 #   rating:
-- name: POSE
+- name: Pose
+  season: 2
+  rating: 5
+  date: 2026-01-06
+- name: Pose
   season: 1
   rating: 5
   date: 2026-01-04
