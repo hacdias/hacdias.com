@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 87,
+    "count": 88,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -336,6 +336,10 @@
         "targetUrl": "https://github.com/hacdias/flowfit"
       },
       {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://github.com/hacdias/dotfiles"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/hacdias"
       },
@@ -355,7 +359,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 83,
+    "count": 84,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -672,6 +676,10 @@
       {
         "sourceUrl": "https://hacdias.com/2025/09/20/waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten/",
         "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789493254671"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Z_shell"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
@@ -1270,6 +1278,32 @@
     ]
   },
   {
+    "domain": "miniflux.app",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://miniflux.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://miniflux.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://miniflux.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://miniflux.app"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://miniflux.app/"
+      }
+    ]
+  },
+  {
     "domain": "pplware.com",
     "count": 5,
     "links": [
@@ -1292,6 +1326,58 @@
       {
         "sourceUrl": "https://hacdias.com/2015/02/11/i-have-moved-again/",
         "targetUrl": "http://kids.pplware.com"
+      }
+    ]
+  },
+  {
+    "domain": "rknight.me",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/08/app-defaults/",
+        "targetUrl": "https://defaults.rknight.me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://defaults.rknight.me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://rknight.me/blog/app-defaults-2026/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://rknight.me/subscribe/posts/atom.xml"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://defaults.rknight.me/"
+      }
+    ]
+  },
+  {
+    "domain": "spotify.com",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music/",
+        "targetUrl": "https://spotify.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
+        "targetUrl": "https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://spotify.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://spotify.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://spotify.com/"
       }
     ]
   },
@@ -1480,28 +1566,6 @@
     ]
   },
   {
-    "domain": "miniflux.app",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://miniflux.app/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://miniflux.app/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://miniflux.app"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://miniflux.app/"
-      }
-    ]
-  },
-  {
     "domain": "npmjs.com",
     "count": 4,
     "links": [
@@ -1568,28 +1632,6 @@
     ]
   },
   {
-    "domain": "rknight.me",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/08/app-defaults/",
-        "targetUrl": "https://defaults.rknight.me/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://defaults.rknight.me/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://rknight.me/subscribe/posts/atom.xml"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://defaults.rknight.me/"
-      }
-    ]
-  },
-  {
     "domain": "sapo.pt",
     "count": 4,
     "links": [
@@ -1608,28 +1650,6 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://pplware.sapo.pt/"
-      }
-    ]
-  },
-  {
-    "domain": "spotify.com",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/year-in-music/",
-        "targetUrl": "https://spotify.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
-        "targetUrl": "https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://spotify.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://spotify.com/"
       }
     ]
   },
@@ -1656,6 +1676,24 @@
     ]
   },
   {
+    "domain": "1password.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://1password.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://1password.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://1password.com/"
+      }
+    ]
+  },
+  {
     "domain": "bosch-ebike.com",
     "count": 3,
     "links": [
@@ -1670,6 +1708,24 @@
       {
         "sourceUrl": "https://hacdias.com/2025/12/13/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://help.bosch-ebike.com/ca/help-center/ebw-flowapp-activitytracking/asset-asf-01050"
+      }
+    ]
+  },
+  {
+    "domain": "buienradar.nl",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://www.buienradar.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://www.buienradar.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://www.buienradar.nl/"
       }
     ]
   },
@@ -1764,6 +1820,24 @@
     ]
   },
   {
+    "domain": "iterm2.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://iterm2.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://iterm2.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://iterm2.com/"
+      }
+    ]
+  },
+  {
     "domain": "landing.jobs",
     "count": 3,
     "links": [
@@ -1836,6 +1910,24 @@
     ]
   },
   {
+    "domain": "netnewswire.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://netnewswire.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://netnewswire.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://netnewswire.com/"
+      }
+    ]
+  },
+  {
     "domain": "nodejs.org",
     "count": 3,
     "links": [
@@ -1850,6 +1942,24 @@
       {
         "sourceUrl": "https://hacdias.com/2015/03/31/how-to-create-a-node-js-command-line-application/",
         "targetUrl": "https://nodejs.org/api/readline.html"
+      }
+    ]
+  },
+  {
+    "domain": "ohmyz.sh",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://ohmyz.sh/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://ohmyz.sh/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://ohmyz.sh/"
       }
     ]
   },
@@ -1908,16 +2018,38 @@
     ]
   },
   {
-    "domain": "1password.com",
-    "count": 2,
+    "domain": "vim.org",
+    "count": 3,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://1password.com/"
+        "targetUrl": "https://www.vim.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://www.vim.org/"
       },
       {
         "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://1password.com/"
+        "targetUrl": "https://www.vim.org/"
+      }
+    ]
+  },
+  {
+    "domain": "visualstudio.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://code.visualstudio.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://code.visualstudio.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://code.visualstudio.com/"
       }
     ]
   },
@@ -2002,20 +2134,6 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://bsky.app/profile/hacdias.com"
-      }
-    ]
-  },
-  {
-    "domain": "buienradar.nl",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://www.buienradar.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://www.buienradar.nl/"
       }
     ]
   },
@@ -2230,20 +2348,6 @@
     ]
   },
   {
-    "domain": "iterm2.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://iterm2.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://iterm2.com/"
-      }
-    ]
-  },
-  {
     "domain": "jamesg.blog",
     "count": 2,
     "links": [
@@ -2412,20 +2516,6 @@
     ]
   },
   {
-    "domain": "netnewswire.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://netnewswire.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://netnewswire.com/"
-      }
-    ]
-  },
-  {
     "domain": "neustadt.fr",
     "count": 2,
     "links": [
@@ -2450,20 +2540,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/09/20/the-future-is-decentralized/",
         "targetUrl": "https://www.nytimes.com/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html"
-      }
-    ]
-  },
-  {
-    "domain": "ohmyz.sh",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://ohmyz.sh/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://ohmyz.sh/"
       }
     ]
   },
@@ -2590,34 +2666,6 @@
       {
         "sourceUrl": "https://hacdias.com/2025/12/16/viaduct-wrapped/",
         "targetUrl": "https://viaduct.world"
-      }
-    ]
-  },
-  {
-    "domain": "vim.org",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://www.vim.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://www.vim.org/"
-      }
-    ]
-  },
-  {
-    "domain": "visualstudio.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://code.visualstudio.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://code.visualstudio.com/"
       }
     ]
   },
