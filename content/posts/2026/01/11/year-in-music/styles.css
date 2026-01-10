@@ -1,0 +1,40 @@
+.top-grid {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.top-grid img {
+  aspect-ratio: 1/1;
+}
+
+.plots {
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+}
+
+.plots svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.plots svg path[fill='#111112'] {
+  fill: var(--text) !important;
+}
+
+.plots svg path[stroke='#111112'] {
+  stroke: var(--text) !important;
+}
+
+.plots svg path[stroke='#111113'] {
+  stroke: var(--text) !important;
+  stroke-opacity: 0.1;
+}
+
+.plots svg path[fill='#000001'] {
+  fill: var(--c) !important;
+  fill-opacity: 0.8 !important;
+}
+
+.plots svg path[fill='#000002'] {
+  fill: var(--c) !important;
+  fill-opacity: 0.5 !important;
+}
