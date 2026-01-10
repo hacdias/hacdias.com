@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: Pose
+  season: 3
+  rating: 5
+  date: 2026-01-09
+- name: Pose
   season: 2
   rating: 5
   date: 2026-01-06
