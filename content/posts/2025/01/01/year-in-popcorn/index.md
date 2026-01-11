@@ -39,7 +39,7 @@ It seems that during 2024, I watched episodes from **40** different shows (1 les
 <details>
   <summary><strong>Top Shows Genres</strong></summary>
 
-  | genre           |   count |   percentage |
+  | Genre           |   Count |   Percentage |
   |:----------------|--------:|-------------:|
   | Drama           |      33 |         31.4 |
   | Fantasy         |      12 |         11.4 |
