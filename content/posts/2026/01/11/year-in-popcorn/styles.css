@@ -1,0 +1,38 @@
+:root,
+:root.dark {
+  --c-h: 354;
+  --c-s: 90%;
+  --c-l: 43%;
+}
+
+:root.dark {
+  --c-l: 60%;
+}
+
+.plots {
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+}
+
+.plots svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.plots svg path[fill='#111112'] {
+  fill: var(--text) !important;
+}
+
+.plots svg path[stroke='#111112'] {
+  stroke: var(--text) !important;
+}
+
+.plots svg path[stroke='#111113'] {
+  stroke: var(--text) !important;
+  stroke-opacity: 0.1;
+}
+
+.plots svg path[fill='#000001'] {
+  fill: var(--c) !important;
+  fill-opacity: 0.8 !important;
+}
