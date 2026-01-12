@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Slow Horses
+  season: 1
+  rating: 4
+  date: 2026-01-11
 - name: Pose
   season: 3
   rating: 5
