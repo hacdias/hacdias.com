@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: Slow Horses
+  season: 3
+  rating: 4
+  date: 2026-01-14
+- name: Slow Horses
   season: 2
   rating: 4
   date: 2026-01-13
