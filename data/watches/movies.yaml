@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Rental Family
+  date: 2026-01-18T16:30:00+01:00
+  rating: 5
+  location: Lab-1
+  room: 2
+  row: 3
+  seat: 5
 - name: Wake Up Dead Man
   date: 2026-01-01
   rating: 4
