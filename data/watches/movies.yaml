@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Eternity
+  date: 2026-01-25T14:00:00+01:00
+  rating: 5
+  location: Lab-1
+  room: 4
+  row: 11
+  seat: 5
 - name: Rental Family
   date: 2026-01-18T16:30:00+01:00
   rating: 5
