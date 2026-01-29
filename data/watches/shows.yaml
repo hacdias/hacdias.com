@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Overcompensating
+  season: 1
+  rating: 4
+  date: 2026-01-26
 - name: Percy Jackson
   season: 2
   rating: 3
