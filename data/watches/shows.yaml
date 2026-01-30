@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Heated Rivalry
+  season: 1
+  rating: 4
+  date: 2026-01-29
 - name: Overcompensating
   season: 1
   rating: 4
