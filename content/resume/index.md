@@ -52,20 +52,12 @@ Software Engineer passionate about open source, user agency, decentralization, i
 {{< resume-position
   title="Software Engineer"
   location="Protocol Labs"href="https://protocol.ai/"
-  from="10/2022" to="05/2024" >}}
+  from="11/2017" to="05/2024" >}}
 
 - Led the development of new features for the largest and most widely used [implementation](https://github.com/ipfs/kubo) and set of [libraries](https://github.com/ipfs/boxo) of the [InterPlanetary File System (IPFS)](https://ipfs.tech/), a decentralized, P2P, and content-addressed network, in Go. Co-authored and maintained specialized services to bridge HTTP and P2P systems.
-- Co-authored and implemented [specifications](https://specs.ipfs.tech/) for different HTTP services in Go and TypeScript. Authored hundreds of conformance tests to test whether different implementations comply with the specifications.
-
-{{</ resume-position >}}
-
-{{< resume-position 
-  title="Part-Time Software Engineer" 
-  location="Protocol Labs" href="https://protocol.ai/" 
-  from="11/2017" to="09/2022" >}}
-
-- Co-authored [Testground](http://testground.ai/), a testing, benchmarking and simulation platform for decentralized and P2P systems at scale, in Go. Led the development of the JavaScript SDK and the Go synchronization service.
-- Revamped and shipped [IPFS Web UI](https://github.com/ipfs/ipfs-webui), a React-based web application used as a front-end for a node in an IPFS network, where users can manage their files, explore linked data, and see their peers.
+- Co-authored and implemented [specifications](https://specs.ipfs.tech/) for different HTTP services in Go and TypeScript. Authored hundreds of implementation-agnostic conformance tests for several specifications.
+- Co-authored [Testground](http://testground.ai/), a testing, benchmarking and simulation platform for decentralized and P2P systems at scale, in Go. Led the JavaScript SDK and Go synchronization service development.
+- Revamped and shipped [IPFS Web UI](https://github.com/ipfs/ipfs-webui), a React-based web application used as a front-end for an IPFS node, where users can manage their files, explore linked data, and see their peers.
 - Led the development of [IPFS Desktop](https://github.com/ipfs/ipfs-desktop), an Electron-based desktop application for Windows, macOS and Linux. Owned the refactoring, redesign and feature development of the application.
 
 {{</ resume-position >}}
