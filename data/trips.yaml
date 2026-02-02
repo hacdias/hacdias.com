@@ -1618,3 +1618,30 @@
       destination: Eindhoven
       operator: RYR
       number: "5768"
+- name: FOSDEM 2026
+  place: 🇧🇪 Bruxelles
+  start: 2026-01-30
+  date: 2026-02-01
+  latitude: 50.84814463
+  longitude: 4.3509642
+  itinerary:
+    - type: train
+      departure: 2026-01-30T16:43:00.000+01:00
+      arrival: 2026-01-30T17:21:00.000+01:00
+      origin: Eindhoven Centraal
+      destination: Breda
+    - type: train
+      departure: 2026-01-30T17:42:00.000+01:00
+      arrival: 2026-01-30T19:12:00.000+01:00
+      origin: Breda
+      destination: Bruxelles-Central
+    - type: train
+      departure: 2026-02-01T16:49:00.000+01:00
+      arrival: 2026-02-01T18:19:00.000+01:00
+      origin: Bruxelles-Central
+      destination: Breda
+    - type: train
+      departure: 2026-02-01T18:38:00.000+01:00
+      arrival: 2026-02-01T19:17:00.000+01:00
+      origin: Breda
+      destination: Eindhoven Centraal
