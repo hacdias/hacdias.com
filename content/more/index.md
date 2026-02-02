@@ -8,6 +8,7 @@ This website contains more than it looks at first glance. Here you can find a li
 <!--more-->
 
 - [🚀 Impossible List](/impossible-list/)
+- [🗞️ Blogroll](/blogroll/)
 - [📚 Readings](/readings/)
 - [🎓 Resume](/resume/)
 - [🌍 Trips](/trips/)
