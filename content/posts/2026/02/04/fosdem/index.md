@@ -7,6 +7,9 @@ tags:
   - conference
   - fosdem
   - open source
+syndication:
+ - https://bsky.app/profile/hacdias.com/post/3me2lw26g7k2z
+ - https://fosstodon.org/@hacdias/116013985338780310
 ---
 
 Last weekend was the first weekend of February, which means only one thing in the open source world: the largest open source conference on Earth took place. All of that to say that I spent my past weekend in Brussels to attend [FOSDEM](https://fosdem.org/2026/). Definitely chaotic  as usual!
@@ -35,7 +38,7 @@ Later that day I still wanted to go to [*DASL Your Protocols!*](https://fosdem.o
 
 ## 🔥 Decloudflaring {#decloudflaring}
 
-At some point on Sunday, I got reminded - indirectly - that I should move away from Clouflare. Not only does it seem that their outages are becoming more frequent, but they can also MITM you. That's not good, and it's been on my plans for some time already.
+At some point on Sunday, I got reminded - indirectly - that I should move away from Cloudflare. Not only does it seem that their outages are becoming more frequent, but they can also MITM you. That's not good, and it's been on my plans for some time already.
 
 As such, I started moving some things a few days ago. I started by initiating the transfer of the only domain I have on Cloudflare to another registrar, which is going to take a few days.
 
