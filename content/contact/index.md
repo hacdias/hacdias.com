@@ -12,7 +12,7 @@ Do you have any feedback, or just want to chat? Feel free to reach out! The easi
 - [🗝 PGP Key](/pubkey.asc)
 {.buttons}
 
-<small>All *things* related to guest posts will be marked as spam and ignored.</small>
+<small>All *things* related to <mark>guest posts</mark> will enter the void we all know as spam.</small>
 
 ## 🕸️ Elsewhere {#elsewhere}
 
