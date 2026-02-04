@@ -25,6 +25,8 @@ Books, articles, posts.
 
 Random links, things.
 
+Check Linkding and see if added anything interesting last month.
+
 ## 🍿 Entertainment {#entertainment}
 
 ## 🎮 Gaming {#gaming}
