@@ -1,6 +1,8 @@
 ---
 title: About
 thumbnail: image:2024-09-01-stratumse-heide
+aliases:
+  - /contact/
 ---
 
 <span id='greetings'>**<span id='hello'>Hi, I'm</span> <span style="color: var(--c)">Henrique</span>! 👋**</span>
@@ -22,7 +24,21 @@ A few years later, in 2020, in the midst of the pandemic, I [moved](/2020/03/30/
 
 After finishing university, in 2022, I joined Protocol Labs full-time. About a year and a half in, I decided to say goodbye to the interplanetary journey, and join [Ver.iD](https://ver.id/), where I worked on building a platform to verify and issue verifiable credentials.
 
-Now, I work at [Animo Solutions](https://animo.id), where I get to work on open-source projects in the decentralized identity space. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb, or just contributions here and there. 
+Now, I work at [Animo Solutions](https://animo.id), where I get to work on open-source projects in the decentralized identity space. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb, or just contributions here and there.
+
+## ✉️ Contact {#contact}
+
+Do you have any feedback, or just want to chat? Feel free to reach out! The easiest way to reach out to me is by sending me an e-mail - [mail@hacdias.com](mailto:mail@hacdias.com) ([PGP key](/pubkey.asc)) -, or by sending a message on [{{< favicon "signal.org" >}} Signal](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66). All *things* related to <mark>guest posts</mark> will enter the void we all know as spam.
+
+I can also be found [elsewhere](https://indieweb.org/elsewhere), usually as @hacdias. Here's some relevant places:
+
+- [{{< favicon "github.com" >}} GitHub](https://github.com/hacdias "@hacdias")
+- [{{< favicon "linkedin.com" >}} LinkedIn](https://linkedin.com/in/hacdias "/in/hacdias")
+- [{{< favicon "instagram.com" >}} Instagram](https://instagram.com/hacdias "@hacdias")
+- [{{< favicon "bsky.social" >}} Bluesky](https://bsky.app/profile/hacdias.com "@hacdias.com")
+- [{{< favicon "mastodon.social" >}} Fediverse](https://fosstodon.org/@hacdias "@hacdias@fosstodon.org")
+- [{{< favicon "reddit.com" >}} Reddit](https://reddit.com/u/hacdias "/u/hacdias")
+{.buttons}
 
 ## 🛠️ Colophon {#colophon}
 
