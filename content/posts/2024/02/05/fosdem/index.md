@@ -28,7 +28,7 @@ Instead, I decided to go to the [Railways and Open Transport](https://fosdem.org
 
 At the end of the day, we visited the [Open Source Design](https://fosdem.org/2024/schedule/track/open-source-design/) devroom, where I learned about the [Modos](https://www.modos.tech/) paper laptop, which sounds like an incredible project. Also got to get an insight of designer's works in the open source community, how it goes, difficulties, what could be improved, and so on.
 
-## ☕️ Sunday
+## ☕️ Sunday {#sunday}
 
 Sunday went fast. There were last people I think. It was likely partially caused by many people spending what-perhaps-is-considered-too-much-time at the [Delirium Café](https://www.deliriumvillage.com/nl/bar/delirium-cafe/). With a quieter day and a better strategy in place, we entered the room for [*You too could've made curl*](https://fosdem.org/2024/schedule/event/fosdem-2024-1931-you-too-could-have-made-curl-/) ahead of time. It worked out fine, but it seemed the affluence for this talk wasn't definitely as large as the one on Saturday.
 
