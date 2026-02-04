@@ -3,7 +3,7 @@ title: What Else Can I Find?
 noWebmentions: true
 ---
 
-This website contains more than it looks at first glance. Here you can find a list of every page I deem reasonably important, or interesting, that is not accounted for in the main navigation. Not everything is listed here and they are up for you to <span id='trigger'>discover</span>!
+Here you can find a list of every page that did not fit in the main navigation bar. There is a chance that not everything is listed here, and those are up for you to <span id='trigger'>discover</span>!
 
 <!--more-->
 
@@ -18,7 +18,7 @@ This website contains more than it looks at first glance. Here you can find a li
 
 ## 📡 Feeds {#feeds}
 
-This website provides Atom and JSON for all individual categories, as well as for the home page, which includes all the latest posts, whether they are writings or photos. Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
+If you're interested in following my content, there's Atom and JSON feeds available. You can choose to either get writings, photos, or both! Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
 
 - **Home**: [Atom](/feed.xml), [JSON](/feed.json).
 - **Writings**: [Atom](/writings/feed.xml), [JSON](/writings/feed.json).
@@ -26,7 +26,7 @@ This website provides Atom and JSON for all individual categories, as well as fo
 
 ## 📦 Shoebox {#shoebox}
 
-This section is a sort of [digital shoebox](/2024/01/13/making-a-digital-shoebox/). This is a place for some things that exist on this website, and yet, they don't have a correct place to be, a home. They're mostly old experiments from small things I did, or small things I wanted to share and keep available.
+A [digital shoebox](/2024/01/13/making-a-digital-shoebox/) is a place where unhoused things go to find a home. These are mostly old experiments from small things I did, or small things I wanted to keep available to share.
 
 - [🔵 Blue Screen of Death](/minisites/bsod/)
 - [✉️ Carta de Uma Mãe Alentejana](/minisites/carta-mae-alentejana/)
