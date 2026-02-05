@@ -701,7 +701,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 24,
+    "count": 25,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -798,6 +798,68 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://indieweb.org/this-week"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://indieweb.org/elsewhere"
+      }
+    ]
+  },
+  {
+    "domain": "fosdem.org",
+    "count": 13,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
+        "targetUrl": "https://fosdem.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
+        "targetUrl": "https://fosdem.org/2024/schedule/event/fosdem-2024-1909-broom-not-included-curling-the-modern-way/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
+        "targetUrl": "https://fosdem.org/2024/schedule/track/railways-and-open-transport/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
+        "targetUrl": "https://fosdem.org/2024/schedule/track/open-source-design/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
+        "targetUrl": "https://fosdem.org/2024/schedule/event/fosdem-2024-1931-you-too-could-have-made-curl-/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
+        "targetUrl": "https://fosdem.org/2024/schedule/event/fosdem-2024-3611-so-you-think-you-know-git/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://fosdem.org/2026/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://fosdem.org/2026/schedule/event/SFKNTZ-welcome_to_fosdem_2026/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://fosdem.org/2026/schedule/event/9DEU7E-intro_to_webtransport_-_the_next_websocket/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://fosdem.org/2026/schedule/event/DCAVDC-how_to_make_package_managers_scream/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://fosdem.org/2026/schedule/event/TRQ9LV-decentralized-to-doorsteps/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://fosdem.org/2026/schedule/event/RNBQ8U-reverse-engineering-spotify/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://fosdem.org/2026/schedule/event/W8CJXD-dasl/"
       }
     ]
   },
@@ -1132,36 +1194,6 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings"
-      }
-    ]
-  },
-  {
-    "domain": "fosdem.org",
-    "count": 6,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
-        "targetUrl": "https://fosdem.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
-        "targetUrl": "https://fosdem.org/2024/schedule/event/fosdem-2024-1909-broom-not-included-curling-the-modern-way/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
-        "targetUrl": "https://fosdem.org/2024/schedule/track/railways-and-open-transport/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
-        "targetUrl": "https://fosdem.org/2024/schedule/track/open-source-design/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
-        "targetUrl": "https://fosdem.org/2024/schedule/event/fosdem-2024-1931-you-too-could-have-made-curl-/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
-        "targetUrl": "https://fosdem.org/2024/schedule/event/fosdem-2024-3611-so-you-think-you-know-git/"
       }
     ]
   },
@@ -2138,6 +2170,20 @@
     ]
   },
   {
+    "domain": "dame.is",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://dame.is"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/blogroll/",
+        "targetUrl": "https://dame.is"
+      }
+    ]
+  },
+  {
     "domain": "ddw.nl",
     "count": 2,
     "links": [
@@ -2456,6 +2502,20 @@
       {
         "sourceUrl": "https://hacdias.com/2025/08/01/search/",
         "targetUrl": "https://www.meilisearch.com/"
+      }
+    ]
+  },
+  {
+    "domain": "metafluff.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
+        "targetUrl": "https://metafluff.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://metafluff.com/"
       }
     ]
   },
@@ -3126,16 +3186,6 @@
     ]
   },
   {
-    "domain": "dame.is",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://dame.is"
-      }
-    ]
-  },
-  {
     "domain": "darekkay.com",
     "count": 1,
     "links": [
@@ -3212,6 +3262,16 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/23/software-for-fun/",
         "targetUrl": "https://www.dns.toys/"
+      }
+    ]
+  },
+  {
+    "domain": "dnscontrol.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://dnscontrol.org/"
       }
     ]
   },
@@ -3472,6 +3532,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/08/31/recently/",
         "targetUrl": "https://www.gazelle.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "germnetwork.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://www.germnetwork.com/"
       }
     ]
   },
@@ -4002,16 +4072,6 @@
       {
         "sourceUrl": "https://hacdias.com/2019/12/20/quick-dive-into-dweb-ipfs/",
         "targetUrl": "https://www.meetup.com/BarcampLx/events/265593046/"
-      }
-    ]
-  },
-  {
-    "domain": "metafluff.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
-        "targetUrl": "https://metafluff.com/"
       }
     ]
   },
@@ -4676,6 +4736,16 @@
     ]
   },
   {
+    "domain": "standard.site",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://standard.site/"
+      }
+    ]
+  },
+  {
     "domain": "standartmag.com",
     "count": 1,
     "links": [
@@ -4742,6 +4812,16 @@
       {
         "sourceUrl": "https://hacdias.com/trips/",
         "targetUrl": "https://www.swarmapp.com/"
+      }
+    ]
+  },
+  {
+    "domain": "tangled.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://tangled.org/"
       }
     ]
   },
@@ -4932,6 +5012,16 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://upframe.co/"
+      }
+    ]
+  },
+  {
+    "domain": "userandagents.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://userandagents.com/"
       }
     ]
   },
