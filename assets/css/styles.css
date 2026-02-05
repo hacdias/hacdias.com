@@ -804,6 +804,7 @@ nav a[aria-current='page'] {
 
   body {
     background: var(--bg);
+    padding: 0;
   }
 
   #header {
