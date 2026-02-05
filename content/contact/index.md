@@ -3,20 +3,11 @@ title: Contact
 noWebmentions: true
 ---
 
-Do you have any feedback, or just want to chat? Feel free to reach out! The easiest ways to reach out to me are either by sending me an e-mail, or by sending a message on Signal.
+Do you have any feedback, or just want to chat? Feel free to reach out! You can easily reach out to me by mail - [**mail@hacdias.com**](mailto:mail@hacdias.com) ([PGP key](/pubkey.asc)) -, or by messaging me on [**{{< favicon "signal.org" >}} Signal**](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66). <small>Every piece of communication regarding *✨ guest posts ✨* on my *personal* website will be sent into the void.</small>
 
 <!--more-->
 
-- [✉️ E-mail](mailto:mail@hacdias.com)
-- [{{< favicon "signal.org" >}} Signal](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66)
-- [🗝 PGP Key](/pubkey.asc)
-{.buttons}
-
-<small>All *things* related to <mark>guest posts</mark> will enter the void we all know as spam.</small>
-
-## 🕸️ Elsewhere {#elsewhere}
-
-I can usually be found [elsewhere](https://indieweb.org/elsewhere) as @hacdias. Here's some more relevant ones:
+I can also be found [elsewhere](https://indieweb.org/elsewhere), usually as @hacdias. Here's some relevant places:
 
 - [{{< favicon "github.com" >}} GitHub](https://github.com/hacdias "@hacdias")
 - [{{< favicon "linkedin.com" >}} LinkedIn](https://linkedin.com/in/hacdias "/in/hacdias")
