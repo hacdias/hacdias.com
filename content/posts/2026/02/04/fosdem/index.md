@@ -3,13 +3,13 @@ title: Surviving FOSDEM '26
 date: 2026-02-04T20:18:47+01:00
 categories:
   - writings
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me2lw26g7k2z
+  - https://fosstodon.org/@hacdias/116013985338780310
 tags:
   - conference
   - fosdem
   - open source
-syndication:
- - https://bsky.app/profile/hacdias.com/post/3me2lw26g7k2z
- - https://fosstodon.org/@hacdias/116013985338780310
 ---
 
 Last weekend was the first weekend of February, which means only one thing in the open source world: the largest open source conference on Earth took place. All of that to say that I spent my past weekend in Brussels to attend [FOSDEM](https://fosdem.org/2026/). Definitely chaotic  as usual!
