@@ -26,7 +26,7 @@ FOSDEM is big and full of people. Just like during other editions, it's very har
 
 Two talks I'd highlight from Saturday were [*Intro to WebTransport - the next WebSocket?!*](https://fosdem.org/2026/schedule/event/9DEU7E-intro_to_webtransport_-_the_next_websocket/) and [*How To Make Package Managers Scream*](https://fosdem.org/2026/schedule/event/DCAVDC-how_to_make_package_managers_scream/). The former was a good introduction on WebTransport, and explaining why it exists, how it works and which advantages it has over WebSockets. The latter was a more ridiculous comedic approach to... well... how to make package managers scream.
 
-We also saw a talk about accessibility in web browsers, which I found quite interesting. I think it could've been a bit more interactive, by for example showing how a screen reader reads a website and showing what good and bad practices are. But it was still eye opening. I always try to use HTML semantically and try to not make anything that is possible despite the browser allowing it. I think I will take
+We also saw a talk about accessibility in web browsers, which I found quite interesting. I think it could've been a bit more interactive, by for example showing how a screen reader reads a website and showing what good and bad practices are. But it was still eye opening. I always try to use HTML semantically and try to not make anything that is possible despite the browser allowing it. I think I will be more aware from now on.
 
 ## 🌐 Sunday {#sunday}
 
