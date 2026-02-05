@@ -5,7 +5,7 @@
   --c-l: 48%;
 }
 
-@media screen and (min-width: 53.001rem) {
+@media screen and not (max-width: 50rem) {
   body {
     background: var(--c)
       url(https://media.hacdias.com/image/1800/2023-03-26-windows-xp-background.jpeg);

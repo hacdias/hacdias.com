@@ -5,7 +5,7 @@
   --c-l: 65%;
 }
 
-@media screen and (min-width: 53.001rem) {
+@media screen and not (max-width: 50rem) {
   body {
     background: var(--fg) url(snowflake.svg);
     background-size: 49px;

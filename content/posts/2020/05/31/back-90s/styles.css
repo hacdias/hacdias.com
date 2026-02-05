@@ -1,4 +1,4 @@
-@media screen and (min-width: 53.001rem) {
+@media screen and not (max-width: 50rem) {
   body {
     background: #010d2a url(https://media.hacdias.com/image/600/2020-05-31-sea-pattern.jpeg);
     background-size: 300px;

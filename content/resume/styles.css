@@ -45,7 +45,7 @@
   margin-top: var(--hms);
 }
 
-@media screen and (max-width: 53rem) {
+@media screen and (max-width: 50rem) {
   .resume-position > div {
     grid-template-columns: auto max-content;
   }

@@ -1,4 +1,4 @@
-@media screen and (min-width: 53.001rem) {
+@media screen and not (max-width: 50rem) {
   body {
     background-image: url(/writings/pencils.svg);
     background-repeat: repeat-x;
