@@ -34,15 +34,6 @@
   transform: rotate(-0.1deg);
 }
 
-.dark .entry,
-.dark .entry:nth-last-child(5n - 3),
-.dark .entry:nth-last-child(5n - 2),
-.dark .entry:nth-last-child(5n - 1),
-.dark .entry:nth-last-child(5n + 0) {
-  background: var(--fg);
-  border-color: rgba(255, 255, 255, 0.05);
-}
-
 #guestbook-form {
   padding: var(--ms);
 }
@@ -55,4 +46,15 @@
 #guestbook-form input,
 #guestbook-form textarea {
   margin: var(--hms) 0 var(--ms);
+}
+
+@media (prefers-color-scheme: dark) {
+  .entry,
+  .entry:nth-last-child(5n - 3),
+  .entry:nth-last-child(5n - 2),
+  .entry:nth-last-child(5n - 1),
+  .entry:nth-last-child(5n + 0) {
+    background: var(--fg);
+    border-color: rgba(255, 255, 255, 0.05);
+  }
 }

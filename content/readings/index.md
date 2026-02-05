@@ -10,8 +10,10 @@ figure.book {
   margin-right: 1rem;
 }
 
-:root.dark figure.book {
-  filter: invert(1);
+@media (prefers-color-scheme: dark) {
+  figure.book {
+    filter: invert(1);
+  }
 }
 </style>
 

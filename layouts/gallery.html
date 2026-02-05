@@ -5,15 +5,16 @@
 </head>
 <body>
   <style>
-  :root,
-  :root.dark {
+  :root {
     --c-h: 0;
     --c-s: 0%;
     --c-l: 10%;
   }
 
-  :root.dark {
-    --c-l: 70%;
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --c-l: 70%;
+    }
   }
 
   main {

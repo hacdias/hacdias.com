@@ -602,11 +602,6 @@ main pre {
   cursor: zoom-out;
 }
 
-:root.dark #preview {
-  background: rgba(0, 0, 0, 0.9);
-  color: white;
-}
-
 #preview::after {
   content: 'tap anywhere to close';
   position: absolute;
@@ -769,26 +764,28 @@ nav a[aria-current='page'] {
   font-weight: 700;
 }
 
-:root.dark {
-  --c-h: 200;
-  --c-s: 100%;
-  --c-l: 40%;
-  --fg-l: 15%;
-  --mg-l: 9%;
-  --bg-l: 2%;
-  --text: #eee;
-  --light-text: #ccc;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-h: 200;
+    --c-s: 100%;
+    --c-l: 40%;
+    --fg-l: 15%;
+    --mg-l: 9%;
+    --bg-l: 2%;
+    --text: #eee;
+    --light-text: #ccc;
 
-  --h-a: #d0bf69;
-  --h-b: #fc6a5d;
-  --h-c: #d0a8ff;
-  --h-d: #6c7986;
-  --h-e: #fd8f3f;
-}
+    --h-a: #d0bf69;
+    --h-b: #fc6a5d;
+    --h-c: #d0a8ff;
+    --h-d: #6c7986;
+    --h-e: #fd8f3f;
+  }
 
-:root.dark .only-light,
-:root:not(.dark) .only-dark {
-  display: none;
+  :root #preview {
+    background: rgba(0, 0, 0, 0.9);
+    color: white;
+  }
 }
 
 @media screen and (max-width: 50rem) {
