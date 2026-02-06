@@ -15,13 +15,14 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/B3Bx76glifj/
-thumbnail: image:2019-09-30-azores-01
+  - https://bsky.app/profile/hacdias.com/post/3me7rpq7hbt2e
 tags:
   - portugal
   - travel
   - islands
   - panorama
   - landscape
+thumbnail: image:2019-09-30-azores-01
 ---
 
 <style>

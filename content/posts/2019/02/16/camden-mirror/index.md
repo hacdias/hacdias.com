@@ -15,6 +15,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/Bt8Vl8uFrM7/
+  - https://bsky.app/profile/hacdias.com/post/3me7rpf77lb2g
 tags:
   - london
   - england

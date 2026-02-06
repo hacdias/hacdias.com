@@ -16,6 +16,8 @@ location:
   country: Denmark
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7s3q7xhg26
 ---
 
 <style>

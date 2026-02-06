@@ -13,6 +13,8 @@ location:
   country: Portugal
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rphfhaw26
 tags:
   - lisbon
   - portugal

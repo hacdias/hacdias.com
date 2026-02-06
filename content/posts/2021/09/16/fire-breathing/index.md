@@ -10,9 +10,11 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2021-09-16-fire-01
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rvopuwa2e
 tags:
   - fire
+thumbnail: image:2021-09-16-fire-01
 ---
 
 <style>

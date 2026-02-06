@@ -16,11 +16,12 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CkDRZ2bIIfy/
-thumbnail: image:2022-10-23-strijp-s-fall-01
+  - https://bsky.app/profile/hacdias.com/post/3me7snhblnl2g
 tags:
   - autumn
   - eindhoven
   - netherlands
+thumbnail: image:2022-10-23-strijp-s-fall-01
 ---
 
 <style>

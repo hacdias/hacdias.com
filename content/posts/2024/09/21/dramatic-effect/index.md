@@ -7,6 +7,8 @@ photos:
     height: 3518
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7s22qdek2y
 tags:
   - architecture
   - dramatic

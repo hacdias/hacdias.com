@@ -34,13 +34,17 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2021-05-31-maastricht-03
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rv63rgi2h
+  - https://bsky.app/profile/hacdias.com/post/3me7rv73rct2e
+  - https://bsky.app/profile/hacdias.com/post/3me7rv7yxc726
 tags:
   - maastricht
   - travel
   - netherlands
   - architecture
   - canals
+thumbnail: image:2021-05-31-maastricht-03
 ---
 
 Christiaan and I went to Maastricht in a single Sunday. It was quite hot and I got a sunburn. Didn't expect that. Next time I'll be more careful.

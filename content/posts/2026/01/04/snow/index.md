@@ -24,6 +24,7 @@ categories:
   - photos
 syndication:
   - https://fosstodon.org/@hacdias/115837391154229084
+  - https://bsky.app/profile/hacdias.com/post/3me7so7uorl26
 tags:
   - eindhoven
   - netherlands

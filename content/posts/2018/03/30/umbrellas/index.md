@@ -15,6 +15,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/Bg8qYE5gw0b/
+  - https://bsky.app/profile/hacdias.com/post/3me7rozabln2e
 tags:
   - portugal
   - art

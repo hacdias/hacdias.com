@@ -9,6 +9,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CZ1mRGOopmx/
+  - https://bsky.app/profile/hacdias.com/post/3me7rw7izu52s
 tags:
   - eindhoven
   - urban

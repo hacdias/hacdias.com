@@ -10,13 +10,15 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2019-12-15-swiss-snow-01
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rq3aa3y23
 tags:
   - snow
   - winter
   - travel
   - mountains
   - switzerland
+thumbnail: image:2019-12-15-swiss-snow-01
 ---
 
 <style>

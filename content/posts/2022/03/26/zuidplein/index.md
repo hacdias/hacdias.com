@@ -14,6 +14,8 @@ location:
   country: Netherlands
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rwc3rvd23
 tags:
   - amsterdam
   - netherlands

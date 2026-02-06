@@ -16,10 +16,12 @@ photos:
     height: 1989
 categories:
   - photos
-thumbnail: image:2022-07-04-zeeland
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rxfshxq24
 tags:
   - summer
   - netherlands
+thumbnail: image:2022-07-04-zeeland
 ---
 
 <style>

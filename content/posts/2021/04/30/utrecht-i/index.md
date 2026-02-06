@@ -22,13 +22,16 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2021-04-30-utrecht-02
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7smn37vr2y
+  - https://bsky.app/profile/hacdias.com/post/3me7smo2w5l23
 tags:
   - utrecht
   - travel
   - netherlands
   - architecture
   - canals
+thumbnail: image:2021-04-30-utrecht-02
 ---
 
 I went to Utrecht, which turned out to be one of the loveliest cities in the Netherlands I've been to so far. It's picturesque, has canals and felt lively.

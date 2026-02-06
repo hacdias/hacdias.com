@@ -10,12 +10,14 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2021-02-28-eindhoven-sunrise-church
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rss6ye52s
 tags:
   - sunrise
   - eindhoven
   - netherlands
   - architecture
+thumbnail: image:2021-02-28-eindhoven-sunrise-church
 ---
 
 <style>

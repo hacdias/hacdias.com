@@ -33,13 +33,16 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/Cj5DHBpIARA/
-thumbnail: image:2022-10-19-capturing-leiden-04
+  - https://bsky.app/profile/hacdias.com/post/3me7ry67hnf2k
+  - https://bsky.app/profile/hacdias.com/post/3me7ry745hw26
+  - https://bsky.app/profile/hacdias.com/post/3me7ry7syhc2q
 tags:
   - leiden
   - travel
   - netherlands
   - architecture
   - canals
+thumbnail: image:2022-10-19-capturing-leiden-04
 ---
 
 <style>

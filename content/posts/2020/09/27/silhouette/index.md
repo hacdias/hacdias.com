@@ -9,6 +9,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CFomCmWlT4d/
+  - https://bsky.app/profile/hacdias.com/post/3me7rseztvk2q
 tags:
   - silhouette
   - abstract

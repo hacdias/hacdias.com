@@ -16,6 +16,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CmPZ_VBoXh7/
+  - https://bsky.app/profile/hacdias.com/post/3me7snkhon52s
 tags:
   - abstract
 ---

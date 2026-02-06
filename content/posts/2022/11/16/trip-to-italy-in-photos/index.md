@@ -32,6 +32,10 @@ photos:
     height: 2000
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7ryr3bt426
+  - https://bsky.app/profile/hacdias.com/post/3me7ryryzr32u
+  - https://bsky.app/profile/hacdias.com/post/3me7rysyvc32u
 tags:
   - travel
   - italy

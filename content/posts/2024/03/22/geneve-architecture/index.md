@@ -13,6 +13,8 @@ photos:
     height: 2000
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rzl3u7b2b
 tags:
   - travel
   - switzerland

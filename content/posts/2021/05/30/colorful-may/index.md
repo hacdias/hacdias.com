@@ -37,12 +37,16 @@ photos:
     height: 4500
 categories:
   - photos
-thumbnail: image:2021-05-30-eindhoven-11
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7sn4lk642b
+  - https://bsky.app/profile/hacdias.com/post/3me7sn4xpvv2e
+  - https://bsky.app/profile/hacdias.com/post/3me7sn5bwk52y
 tags:
   - eindhoven
   - spring
   - urban
   - netherlands
+thumbnail: image:2021-05-30-eindhoven-11
 ---
 
 In Eindhoven.

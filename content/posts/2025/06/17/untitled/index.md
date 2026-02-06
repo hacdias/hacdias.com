@@ -22,13 +22,13 @@ categories:
 syndication:
   - https://fosstodon.org/@hacdias/114697155979190094
   - https://bsky.app/profile/hacdias.com/post/3lrrsnz57qu2w
-thumbnail: image:2025-06-17-untitled-03
 tags:
   - portugal
   - madeira
   - travel
   - nature
   - landscape
+thumbnail: image:2025-06-17-untitled-03
 ---
 
 <style>

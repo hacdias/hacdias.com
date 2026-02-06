@@ -16,11 +16,13 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2023-08-27-mushrooms-nest
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rzaiist2u
 tags:
   - nature
   - forest
   - netherlands
+thumbnail: image:2023-08-27-mushrooms-nest
 ---
 
 <style>
