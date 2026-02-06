@@ -23,8 +23,8 @@ categories:
   - photos
 syndication:
   - https://fosstodon.org/@hacdias/115407272842935553
-  - https://bsky.app/profile/hacdias.com/post/3m3n5zryqbb22
   - https://www.instagram.com/p/DQCWMlejOLK/
+  - https://bsky.app/profile/hacdias.com/post/3m3n5zryqbb22
 tags:
   - travel
   - new york

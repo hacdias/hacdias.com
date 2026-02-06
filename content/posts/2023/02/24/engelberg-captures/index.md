@@ -18,6 +18,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CsOqUS9oI8f/
+  - https://bsky.app/profile/hacdias.com/post/3me7rz3ltcg26
 tags:
   - travel
   - switzerland

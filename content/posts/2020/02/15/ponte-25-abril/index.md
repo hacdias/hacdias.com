@@ -7,6 +7,8 @@ photos:
     height: 2000
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rq5prge2s
 tags:
   - portugal
   - lisbon

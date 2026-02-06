@@ -20,12 +20,14 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2020-03-31-sunset-tree
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rqoltiq2d
 tags:
   - sunset
   - nature
   - portugal
   - hometown
+thumbnail: image:2020-03-31-sunset-tree
 ---
 
 I experimented a bit with sunset and night pictures. Made a few mistakes, but I'm proud of the results.

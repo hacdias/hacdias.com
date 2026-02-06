@@ -30,11 +30,13 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/Cc2i0M2sAAf/
-thumbnail: image:2022-04-27-london-dara
+  - https://bsky.app/profile/hacdias.com/post/3me7rworikn2e
+  - https://bsky.app/profile/hacdias.com/post/3me7rwplyqi2h
 tags:
   - london
   - travel
   - friends
   - museums
   - transit
+thumbnail: image:2022-04-27-london-dara
 ---

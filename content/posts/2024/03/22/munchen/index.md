@@ -20,6 +20,8 @@ photos:
     height: 4500
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7snqopml2d
 tags:
   - travel
   - germany

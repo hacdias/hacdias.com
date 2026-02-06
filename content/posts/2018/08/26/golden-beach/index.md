@@ -15,6 +15,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/Bm8-Yung2vl/
+  - https://bsky.app/profile/hacdias.com/post/3me7rp3ma5w2b
 tags:
   - portugal
   - beach

@@ -30,12 +30,14 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/COUnXtrrMQJ/
-thumbnail: image:2021-01-31-strijps
+  - https://bsky.app/profile/hacdias.com/post/3me7rsnpg7626
+  - https://bsky.app/profile/hacdias.com/post/3me7rsomdn726
 tags:
   - netherlands
   - eindhoven
   - architecture
   - urban
+thumbnail: image:2021-01-31-strijps
 ---
 
 <style>

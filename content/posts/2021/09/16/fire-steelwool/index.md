@@ -31,12 +31,16 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2021-09-16-steelwool-07
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rw37wjq2h
+  - https://bsky.app/profile/hacdias.com/post/3me7rw47kh626
+  - https://bsky.app/profile/hacdias.com/post/3me7rw544jd23
 tags:
   - fire
   - long exposure
   - sparks
   - night
+thumbnail: image:2021-09-16-steelwool-07
 ---
 
 <style>

@@ -15,6 +15,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/B5EvNCulDKX/
+  - https://bsky.app/profile/hacdias.com/post/3me7rpxghui2d
 tags:
   - animals
   - wildlife

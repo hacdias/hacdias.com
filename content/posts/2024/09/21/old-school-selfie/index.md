@@ -7,6 +7,8 @@ photos:
     height: 3778
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7sntqdwh2q
 tags:
   - street art
   - netherlands

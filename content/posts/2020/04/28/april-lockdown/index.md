@@ -34,6 +34,10 @@ photos:
     height: 2000
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rr3prkr2u
+  - https://bsky.app/profile/hacdias.com/post/3me7rr4pnvo24
+  - https://bsky.app/profile/hacdias.com/post/3me7rr5m3e62e
 thumbnail: image:2020-04-28-hometown-02
 ---
 

@@ -15,13 +15,14 @@ categories:
   - photos
 syndication:
   - https://twitter.com/hacdias/status/1566846804183900162
-thumbnail: image:2022-09-05-strijp-s-01
+  - https://bsky.app/profile/hacdias.com/post/3me7rxmrr3b2d
 tags:
   - netherlands
   - eindhoven
   - architecture
   - urban
   - design
+thumbnail: image:2022-09-05-strijp-s-01
 ---
 
 Some pictures of the [Strijp-S](https://www.thisiseindhoven.com/en/see-and-do/dynamic-districts/strijp-s) district in Eindhoven.

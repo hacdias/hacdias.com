@@ -10,10 +10,12 @@ photos:
     height: 4000
 categories:
   - photos
-thumbnail: image:2022-06-19-kleineberg-art
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7snbo6fs26
 tags:
   - street art
   - urban
   - art
   - graffiti
+thumbnail: image:2022-06-19-kleineberg-art
 ---

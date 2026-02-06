@@ -19,13 +19,16 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2021-04-30-utrecht-11
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rua4akg26
+  - https://bsky.app/profile/hacdias.com/post/3me7ruazegz2d
 tags:
   - utrecht
   - travel
   - netherlands
   - architecture
   - canals
+thumbnail: image:2021-04-30-utrecht-11
 ---
 
 <style>

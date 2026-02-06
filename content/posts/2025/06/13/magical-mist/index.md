@@ -14,8 +14,8 @@ location:
 categories:
   - photos
 syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lrj6rfzlhf2v
   - https://fosstodon.org/@hacdias/114677742154775516
+  - https://bsky.app/profile/hacdias.com/post/3lrj6rfzlhf2v
 tags:
   - portugal
   - madeira

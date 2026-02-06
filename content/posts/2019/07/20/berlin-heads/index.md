@@ -14,6 +14,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/B0Jrse7l38P/
+  - https://bsky.app/profile/hacdias.com/post/3me7rpm6huw2h
 tags:
   - sculpture
   - art

@@ -22,12 +22,15 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2021-02-28-eindhoven-snow-01
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rt3af2r2y
+  - https://bsky.app/profile/hacdias.com/post/3me7rt4a3ds23
 tags:
   - winter
   - snow
   - eindhoven
   - netherlands
+thumbnail: image:2021-02-28-eindhoven-snow-01
 ---
 
 I saw real life snowing for many days for the first time. It was also one of the coldest Februaries in the Netherlands over the past years.

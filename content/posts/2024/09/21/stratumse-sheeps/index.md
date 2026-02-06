@@ -12,13 +12,15 @@ photos:
     height: 2000
 categories:
   - photos
-thumbnail: image:2024-09-21-stratumse-heide-02
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7s2d6yra26
 tags:
   - animals
   - nature
   - wildlife
   - eindhoven
   - netherlands
+thumbnail: image:2024-09-21-stratumse-heide-02
 ---
 
 Some sheep found roaming the fields of the [Stratumse Heide](https://nl.wikipedia.org/wiki/Stratumse_Heide).

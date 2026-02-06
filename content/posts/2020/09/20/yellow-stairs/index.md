@@ -9,6 +9,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CFWWNhHFFOy/
+  - https://bsky.app/profile/hacdias.com/post/3me7rs63k4z2g
 tags:
   - architecture
   - urban

@@ -15,6 +15,7 @@ categories:
   - photos
 syndication:
   - https://fosstodon.org/@hacdias/113974828855914705
+  - https://bsky.app/profile/hacdias.com/post/3me7snwl6mc26
 tags:
   - winter
   - snow

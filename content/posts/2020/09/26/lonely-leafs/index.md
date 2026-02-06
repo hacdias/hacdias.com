@@ -9,6 +9,7 @@ categories:
   - photos
 syndication:
   - https://www.instagram.com/p/CFnOVZqlbKf/
+  - https://bsky.app/profile/hacdias.com/post/3me7rscveso2b
 tags:
   - nature
   - autumn

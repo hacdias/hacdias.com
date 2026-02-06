@@ -13,6 +13,8 @@ location:
   country: Netherlands
 categories:
   - photos
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3me7rws3nrl23
 tags:
   - exhibition
   - university
