@@ -52,11 +52,13 @@
         <strong>🌐 Also on</strong>
         <span>
         {{ range $i, $s := . -}}
-          {{- if ne $i 0 }}, {{ end -}}
-          <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
-            {{- $domain := (urls.Parse $s).Host -}}
-            {{ $domain -}}
-          </a>
+          {{ if strings.HasPrefix $s "https://" -}}
+            {{- if ne $i 0 }}, {{ end -}}
+            <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
+              {{- $domain := (urls.Parse $s).Host -}}
+              {{ $domain -}}
+            </a>
+          {{- end -}}
         {{- end -}}
         </span>
       </li>
@@ -64,7 +66,7 @@
 
       <li>
         <strong>💬 Reply</strong>
-        <span>
+        <span> 
         <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
         <a href="https://fosstodon.org/@hacdias" rel='noopener noreferrer'>Mastodon</a>,
         <a href="https://bsky.app/profile/hacdias.com" rel='noopener noreferrer'>Bluesky</a>,
