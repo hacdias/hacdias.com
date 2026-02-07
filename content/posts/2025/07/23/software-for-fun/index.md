@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7hojbg24
 syndication:
-  - https://fosstodon.org/@hacdias/114903564184021793
   - https://bsky.app/profile/hacdias.com/post/3lunhvib5ro2w
+  - https://fosstodon.org/@hacdias/114903564184021793
 tags:
   - software
   - fun

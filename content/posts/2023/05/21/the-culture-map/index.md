@@ -6,13 +6,13 @@ categories:
 rating: 5
 read:
   author: Erin Meyer
+  cover:
+    height: 2128
+    url: image:2023-05-21-the-culture-map
+    width: 1400
   pages: 288
   publisher: Public Affairs Books
   uid: isbn:9781610392501
-  cover:
-    url: "image:2023-05-21-the-culture-map"
-    width: 1400
-    height: 2128
 tags:
   - cultures
   - personal growth

@@ -3,9 +3,10 @@ title: We Need Website-Level Color Scheme Preferences
 date: 2023-11-25T16:16:31+01:00
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6uuhaj2k
 syndication:
-  - https://fosstodon.org/@hacdias/111471854269467060
   - https://bsky.app/profile/hacdias.com/post/3kezies55uv2u
+  - https://fosstodon.org/@hacdias/111471854269467060
 tags:
   - browsers
   - standards

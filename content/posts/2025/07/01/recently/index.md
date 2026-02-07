@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7cc3232e
 syndication:
-  - https://fosstodon.org/@hacdias/114778479714957652
   - https://bsky.app/profile/hacdias.com/post/3lsvwdnmnsz2c
+  - https://fosstodon.org/@hacdias/114778479714957652
 tags:
   - now
   - travel

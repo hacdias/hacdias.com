@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7gkxrw2h
 syndication:
-  - https://fosstodon.org/@hacdias/114895673272781352
   - https://bsky.app/profile/hacdias.com/post/3lujxr4ctd22k
+  - https://fosstodon.org/@hacdias/114895673272781352
 tags:
   - small web
   - personal website

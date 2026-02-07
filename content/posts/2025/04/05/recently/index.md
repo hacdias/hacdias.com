@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6ynfff2d
 syndication:
-  - https://fosstodon.org/@hacdias/114285212069038533
   - https://bsky.app/profile/hacdias.com/post/3lqd7ktsbec27
+  - https://fosstodon.org/@hacdias/114285212069038533
 tags:
   - now
   - entertainment

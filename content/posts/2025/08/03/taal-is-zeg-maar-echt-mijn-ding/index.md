@@ -12,16 +12,17 @@ categories:
 rating: 5
 read:
   author: Paulien Cornelisse
+  cover:
+    height: 1502
+    url: image:2025-08-03-taal-is-zeg-maar-echt-mijn-ding
+    width: 960
   pages: 219
   publisher: Atlas Contact
   uid: isbn:9789045051925
-  cover:
-    url: image:2025-08-03-taal-is-zeg-maar-echt-mijn-ding
-    width: 960
-    height: 1502
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7pkpgo2q
 syndication:
-  - https://fosstodon.org/@hacdias/114964390752590069
   - https://bsky.app/profile/hacdias.com/post/3lviica6wz62l
+  - https://fosstodon.org/@hacdias/114964390752590069
 tags:
   - reviews
   - book reviews

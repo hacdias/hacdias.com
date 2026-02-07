@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya7plx32e
 syndication:
-  - https://fosstodon.org/@hacdias/115446468155052831
   - https://bsky.app/profile/hacdias.com/post/3m46kzpijiz2x
+  - https://fosstodon.org/@hacdias/115446468155052831
 tags:
   - fun
   - indieweb

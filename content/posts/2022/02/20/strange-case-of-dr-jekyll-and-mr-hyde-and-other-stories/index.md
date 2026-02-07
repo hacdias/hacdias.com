@@ -6,13 +6,13 @@ categories:
 rating: 3
 read:
   author: Robert Louis Stevenson
+  cover:
+    height: 2302
+    url: image:2022-02-20-dr-jekyll-mr-hyde
+    width: 1500
   pages: 221
   publisher: Alma Books
   uid: isbn:9781847493781
-  cover:
-    url: "image:2022-02-20-dr-jekyll-mr-hyde"
-    width: 1500
-    height: 2302
 tags:
   - fantasy
   - literature

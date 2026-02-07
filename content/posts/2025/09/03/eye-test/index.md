@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya2drgg2q
 syndication:
-  - https://fosstodon.org/@hacdias/115139033263963574
   - https://bsky.app/profile/hacdias.com/post/3lxw24gkpmp2v
+  - https://fosstodon.org/@hacdias/115139033263963574
 tags:
   - health
 ---

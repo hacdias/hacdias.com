@@ -6,13 +6,13 @@ categories:
 rating: 4
 read:
   author: Wouter Groeneveld
+  cover:
+    height: 1755
+    url: image:2023-06-12-the-creative-programmer-cover
+    width: 1400
   pages: 232
   publisher: Manning
   uid: isbn:9781633439054
-  cover:
-    url: "image:2023-06-12-the-creative-programmer-cover"
-    width: 1400
-    height: 1755
 syndication:
   - https://fosstodon.org/@hacdias/110530107064412338
 tags:

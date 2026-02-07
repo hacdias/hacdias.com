@@ -10,6 +10,7 @@ location:
 categories:
   - writings
 rating: 5
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7m7soo24
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lvahv4f4zc2d
   - https://fosstodon.org/@hacdias/114946347646920360

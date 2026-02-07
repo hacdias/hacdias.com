@@ -6,13 +6,13 @@ categories:
 rating: 4
 read:
   author: Elif Shafak
+  cover:
+    height: 1000
+    url: image:2022-12-25-the-island-of-missing-trees
+    width: 647
   pages: 356
   publisher: Penguin Books
   uid: isbn:9780241988725
-  cover:
-    url: "image:2022-12-25-the-island-of-missing-trees"
-    width: 647
-    height: 1000
 tags:
   - fantasy
   - literature

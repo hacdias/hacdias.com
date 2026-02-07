@@ -9,10 +9,11 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7632pk23
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lrl3uuk5nj2v
-  - https://news.indieweb.org/en
   - https://fosstodon.org/@hacdias/114682042082736759
+  - https://news.indieweb.org/en
 tags:
   - open source
   - reflections

@@ -6,13 +6,13 @@ categories:
 rating: 4
 read:
   author: Susanna Clarke
+  cover:
+    height: 1000
+    url: image:2025-07-19-piranesi
+    width: 667
   pages: 272
   publisher: Bloomsbury Publishing
   uid: isbn:9781526622440
-  cover:
-    url: image:2025-07-19-piranesi
-    width: 667
-    height: 1000
 tags:
   - reviews
   - book reviews

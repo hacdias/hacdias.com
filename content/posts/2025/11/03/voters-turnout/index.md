@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebyac2djs23
 syndication:
-  - https://fosstodon.org/@hacdias/115485804703774414
   - https://bsky.app/profile/hacdias.com/post/3m4pzzsuvva2d
+  - https://fosstodon.org/@hacdias/115485804703774414
 tags:
   - reflection
   - politics

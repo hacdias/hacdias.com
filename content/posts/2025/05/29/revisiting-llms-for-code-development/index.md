@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby72typm2u
 syndication:
-  - https://fosstodon.org/@hacdias/114591750868199511
   - https://bsky.app/profile/hacdias.com/post/3lqcyr7bytn23
+  - https://fosstodon.org/@hacdias/114591750868199511
 tags:
   - artificial intelligence
   - machine learning
