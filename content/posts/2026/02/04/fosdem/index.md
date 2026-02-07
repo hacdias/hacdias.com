@@ -3,9 +3,10 @@ title: Surviving FOSDEM '26
 date: 2026-02-04T20:18:47+01:00
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meawsqr3ub2b
 syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me2lw26g7k2z
   - https://fosstodon.org/@hacdias/116013985338780310
+  - https://bsky.app/profile/hacdias.com/post/3me2lw26g7k2z
 tags:
   - conference
   - fosdem
