@@ -3,6 +3,9 @@ title: App Defaults in Early '26
 date: 2026-01-07T16:10:26+01:00
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqksyna2s
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3mecdqkg5jf2q
 tags:
   - app defaults
 ---
