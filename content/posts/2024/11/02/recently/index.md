@@ -3,6 +3,7 @@ title: Recently in October '24
 date: 2024-11-02T11:02:03+01:00
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6xl5tp2s
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3l7xgqj5nal2l
   - https://fosstodon.org/@hacdias/113412791482682134

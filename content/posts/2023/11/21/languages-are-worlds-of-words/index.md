@@ -3,6 +3,7 @@ title: Languages Are Worlds of Words
 date: 2023-11-21T20:58:49+01:00
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6tulxo2q
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3kepw7xuld52q
   - https://fosstodon.org/@hacdias/111450310800798049

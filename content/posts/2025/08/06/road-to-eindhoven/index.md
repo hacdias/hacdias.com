@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7shmlv26
 syndication:
-  - https://fosstodon.org/@hacdias/114981287847870042
   - https://bsky.app/profile/hacdias.com/post/3lvpyi73vjc2q
+  - https://fosstodon.org/@hacdias/114981287847870042
 tags:
   - reflections
   - personal growth

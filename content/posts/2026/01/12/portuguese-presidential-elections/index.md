@@ -1,5 +1,5 @@
 ---
-title: "On Portugal's Coming Presidential Elections"
+title: On Portugal's Coming Presidential Elections
 date: 2026-01-12T15:40:06.943830193+01:00
 location:
   latitude: 51.44587

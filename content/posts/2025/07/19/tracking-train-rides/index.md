@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7eigy72b
 syndication:
-  - https://fosstodon.org/@hacdias/114880100894708306
   - https://bsky.app/profile/hacdias.com/post/3lud2hmfjnp2k
+  - https://fosstodon.org/@hacdias/114880100894708306
 tags:
   - trains
   - tracking

@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7qsd5w24
 syndication:
-  - https://fosstodon.org/@hacdias/114976862152780574
   - https://bsky.app/profile/hacdias.com/post/3lvnzjlfewd2k
+  - https://fosstodon.org/@hacdias/114976862152780574
 tags:
   - cycling
   - theft

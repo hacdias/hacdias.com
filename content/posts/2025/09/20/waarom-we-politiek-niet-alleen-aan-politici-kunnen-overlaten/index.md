@@ -19,6 +19,7 @@ read:
   pages: 214
   publisher: De Correspondent
   uid: isbn:9789493254671
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya3e6br2k
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lzbdmtys7724
   - https://fosstodon.org/@hacdias/115236530157656715

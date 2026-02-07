@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7nedwx2b
 syndication:
-  - https://fosstodon.org/@hacdias/114951980630802096
   - https://bsky.app/profile/hacdias.com/post/3lvcxwqzr4j2k
+  - https://fosstodon.org/@hacdias/114951980630802096
 tags:
   - meta
   - personal website

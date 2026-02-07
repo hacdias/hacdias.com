@@ -9,10 +9,11 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby772z6t2e
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3ls2ag3k5cf2c
-  - https://news.indieweb.org/en
   - https://fosstodon.org/@hacdias/114716138419079860
+  - https://news.indieweb.org/en
 tags:
   - meta
 ---

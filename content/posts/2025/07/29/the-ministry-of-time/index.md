@@ -6,13 +6,13 @@ categories:
 rating: 4
 read:
   author: Kaliane Bradley
+  cover:
+    height: 1000
+    url: image:2025-07-29-the-ministry-of-time
+    width: 650
   pages: 488
   publisher: Hodder
   uid: isbn:9781399726375
-  cover:
-    url: image:2025-07-29-the-ministry-of-time
-    width: 650
-    height: 1000
 tags:
   - reviews
   - book reviews

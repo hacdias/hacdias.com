@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ohosc23
 syndication:
-  - https://fosstodon.org/@hacdias/114964919259561217
   - https://bsky.app/profile/hacdias.com/post/3lvipskdies27
+  - https://fosstodon.org/@hacdias/114964919259561217
 tags:
   - indieweb
   - indieweb carnival

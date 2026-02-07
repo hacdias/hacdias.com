@@ -9,6 +9,7 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ab7w526
 syndication:
   - https://bsky.app/profile/hacdias.com/post/3lsdxrmnh3723
   - https://fosstodon.org/@hacdias/114738048472917182

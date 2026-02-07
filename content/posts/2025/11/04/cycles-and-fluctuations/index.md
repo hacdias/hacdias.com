@@ -11,9 +11,9 @@ categories:
   - writings
 standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meaxzjeviq23
 syndication:
+  - https://bsky.app/profile/hacdias.com/post/3m4ulttodjk2s
   - https://fosstodon.org/@hacdias/115492193831359929
   - https://news.indieweb.org/en
-  - https://bsky.app/profile/hacdias.com/post/3m4ulttodjk2s
 tags:
   - indieweb
   - reflections

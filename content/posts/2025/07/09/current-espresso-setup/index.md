@@ -9,9 +9,10 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7di6qv2g
 syndication:
-  - https://fosstodon.org/@hacdias/114823227303735096
   - https://bsky.app/profile/hacdias.com/post/3ltjsajoj7u2w
+  - https://fosstodon.org/@hacdias/114823227303735096
 tags:
   - coffee
   - espresso coffee

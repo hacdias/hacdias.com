@@ -6,12 +6,12 @@ categories:
 rating: 4
 read:
   author: Héctor Garcia
+  cover:
+    height: 2175
+    url: image:2024-10-21-ikigai
+    width: 1556
   publisher: Publisher
   uid: isbn:9781786330895
-  cover:
-    url: "image:2024-10-21-ikigai"
-    width: 1556
-    height: 2175
 tags:
   - cultures
   - personal growth
