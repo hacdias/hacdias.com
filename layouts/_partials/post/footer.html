@@ -52,13 +52,11 @@
         <strong>🌐 Also on</strong>
         <span>
         {{ range $i, $s := . -}}
-          {{ if strings.HasPrefix $s "https://" -}}
-            {{- if ne $i 0 }}, {{ end -}}
-            <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
-              {{- $domain := (urls.Parse $s).Host -}}
-              {{ $domain -}}
-            </a>
-          {{- end -}}
+          {{- if ne $i 0 }}, {{ end -}}
+          <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
+            {{- $domain := (urls.Parse $s).Host -}}
+            {{ $domain -}}
+          </a>
         {{- end -}}
         </span>
       </li>
