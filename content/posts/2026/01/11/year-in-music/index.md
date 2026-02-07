@@ -3,6 +3,9 @@ title: Year in Music '25
 date: 2026-01-11T08:00:00+01:00
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqlvybr26
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3mecdqljhgc26
 tags:
   - year in music
 ---

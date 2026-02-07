@@ -9,6 +9,9 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqszjhz23
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3mecdqspydq2s
 tags:
   - swimming
   - sports

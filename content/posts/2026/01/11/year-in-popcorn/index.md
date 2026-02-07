@@ -3,6 +3,9 @@ title: Year in Popcorn '25
 date: 2026-01-11T13:41:52+01:00
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqn5ls52g
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3mecdqmsxbt2e
 tags:
   - year in popcorn
 ---

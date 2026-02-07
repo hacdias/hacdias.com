@@ -9,6 +9,9 @@ location:
   country: Netherlands
 categories:
   - writings
+standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqrw3jr2u
+syndication:
+  - https://bsky.app/profile/hacdias.com/post/3mecdqnw5wr23
 tags:
   - politics
   - portugal
