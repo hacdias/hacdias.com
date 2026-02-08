@@ -5,6 +5,8 @@ categories:
   - writings
 tags:
   - php
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsec2cbh2u
 ---
 
 When we were creating our theme and setting up our WordPress installation, we noticed that every single static asset had a query string in the end of the URL like `?ver=3.5` and we didn't want that because we were using Cloudflare and we were having problems updating the cache. So, we decided to remove that from our URLs. But how?

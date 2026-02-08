@@ -10,6 +10,8 @@ tags:
   - art
   - creative
   - pixel art
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfx7rsd2g
 ---
 
 Found this beautiful Pirilampos Mágicos (magical fireflies) from April 2019.

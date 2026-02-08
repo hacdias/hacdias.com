@@ -7,6 +7,8 @@ tags:
   - backup
   - e mail
   - security
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfjcnqy26
 ---
 
 For quite some time, I have been setting up systems to backup my data of my computer, as well as fetching data from services, such as Trakt, Last.fm or GoodReads. There's always one kind of service that has been on the back of my mind for a while to backup, but I've never got the time, nor the will to do so: email!

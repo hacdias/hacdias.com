@@ -3,14 +3,14 @@ title: Languages Are Worlds of Words
 date: 2023-11-21T20:58:49+01:00
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6tulxo2q
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3kepw7xuld52q
-  - https://fosstodon.org/@hacdias/111450310800798049
 tags:
   - dutch
   - language learning
   - reflections
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3kepw7xuld52q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6tulxo2q
+  - https://fosstodon.org/@hacdias/111450310800798049
 ---
 
 Learning a new language is interesting. There are new words. New structures. New verbs. New adjectives. New ways of explaining things. New ways of categorising things. New ways of describing things. New ways of thinking.

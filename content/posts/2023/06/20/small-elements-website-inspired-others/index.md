@@ -3,12 +3,13 @@ title: Small Elements From My Website Inspired by Others
 date: 2023-06-20T16:53:31.690771654+02:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/110597732852786375
 tags:
   - indieweb
   - meta
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspgvzhz2d
+  - https://fosstodon.org/@hacdias/110597732852786375
 thumbnail: image:2023-06-20-small-elements-website-inspired-others-01
 ---
 

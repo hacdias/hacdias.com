@@ -1,15 +1,16 @@
 ---
 title: Vergeet niet om in te checken (II)
 date: 2024-01-07T11:06:56+01:00
-aliases:
-  - /2024/01/07/vergeet-niet-om-in-te-checken-nederlands-praten/
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111714188031262494
 tags:
   - inchecken
   - nederlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqc7qhj2d
+  - https://fosstodon.org/@hacdias/111714188031262494
+aliases:
+  - /2024/01/07/vergeet-niet-om-in-te-checken-nederlands-praten/
 thumbnail: image:2024-01-07-sneeuwpop-cupcakes
 ---
 

@@ -13,11 +13,12 @@ location:
   country: United Kingdom
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/113995841954613221
 tags:
   - travel
   - trains
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2dvjkn2g
+  - https://fosstodon.org/@hacdias/113995841954613221
 ---
 
 We arrived last night at St Pancras with the Eurostar. It’s the second time doing this trip using the train, and despite taking much longer than the flight, I’m glad I made that decision. It probably helps that I never took the flight from Eindhoven to London, which takes around 40 minutes.

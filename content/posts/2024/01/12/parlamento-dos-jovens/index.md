@@ -6,6 +6,8 @@ categories:
 tags:
   - debating
   - portugal
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqht7dy2g
 ---
 
 At school, I participated a few times in the [Youth Parliament](https://jovens.parlamento.pt/). The Youth Parliament is an initiative of the Portuguese Parliament that gives a chance to young students to somehow get a feel of what politics involve. In the end, the measures that come out of this are actually debated by the real politicians in parliament.

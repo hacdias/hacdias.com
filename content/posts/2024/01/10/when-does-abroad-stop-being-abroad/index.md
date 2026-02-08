@@ -3,13 +3,14 @@ title: When Does Abroad Stop Feeling Like Abroad?
 date: 2024-01-10T18:33:27.841874546+01:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111732926348776375
 tags:
   - government
   - identity
   - personal growth
   - reflections
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqeotzr2q
+  - https://fosstodon.org/@hacdias/111732926348776375
 thumbnail: image:2024-01-10-sun-bench
 ---
 

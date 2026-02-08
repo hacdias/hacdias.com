@@ -13,12 +13,12 @@ location:
   country: Portugal
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rpjph5r2y
 tags:
   - sunset
   - urban
   - buildings
   - lisbon
   - portugal
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpjph5r2y
 ---

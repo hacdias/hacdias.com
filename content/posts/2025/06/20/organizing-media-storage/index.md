@@ -9,13 +9,13 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby772z6t2e
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3ls2ag3k5cf2c
-  - https://fosstodon.org/@hacdias/114716138419079860
-  - https://news.indieweb.org/en
 tags:
   - meta
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ls2ag3k5cf2c
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby772z6t2e
+  - https://fosstodon.org/@hacdias/114716138419079860
+  - https://news.indieweb.org/en
 ---
 
 It's been a while since I made a "large" infrastructural update on this website. So, I made one. It has been on my plans for some time already, but I hadn't yet had the time to do it: streamline the storage of media objects, such as photos, videos, PDFs, or anything else.

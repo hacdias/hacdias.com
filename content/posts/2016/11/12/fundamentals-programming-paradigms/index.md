@@ -6,6 +6,8 @@ categories:
 tags:
   - computer science
   - fundamentals of programming
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medse6zuzn26
 ---
 
 Every single programming language has its own characteristics

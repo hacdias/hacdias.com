@@ -3,12 +3,14 @@ title: A Few Weeks With a Kobo
 date: 2022-06-16T18:19:52.925651238+02:00
 categories:
   - writings
-rating: 4
 tags:
   - reviews
   - hardware
   - life
   - books
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medso56wxo2s
+rating: 4
 ---
 
 A few weeks ago, I thought crossed my mind: buy an e-reader. It wasn't the first time. In the beginning of this year, I read [many books](/readings#read) and I remembered considering it back then. However, that wasn't the first time either. So I just decided to go with it and ordered a [Kobo Clara HD](https://gl.kobobooks.com/products/kobo-clara-hd).

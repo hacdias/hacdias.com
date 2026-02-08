@@ -3,15 +3,16 @@ title: 'GymBook: A Simple and Easy Gym App'
 date: 2023-10-14T17:55:25+02:00
 categories:
   - writings
-rating: 4
-syndication:
-  - https://fosstodon.org/@hacdias/111240325222416783
 tags:
   - data
   - gym
   - reviews
   - sports
   - tracking
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsprcrna2g
+  - https://fosstodon.org/@hacdias/111240325222416783
+rating: 4
 ---
 
 Back in March, I [joined a gym](/2023/03/31/recently/) for the first time. My goal was to be able to overcome some issues I was having, as well as start consistently going to the gym. So I choose to work with a personal trainer to "force" me to go every week, and think of what exercises I have to do. That has worked out well, and I'm quite happy.

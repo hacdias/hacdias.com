@@ -13,14 +13,14 @@ location:
   country: Portugal
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/114685766290362575
-  - https://www.instagram.com/p/DK6PudmtTF3/
-  - https://bsky.app/profile/hacdias.com/post/3lrmsmchqpv23
 tags:
   - portugal
   - madeira
   - travel
   - ocean
   - landscape
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrmsmchqpv23
+  - https://fosstodon.org/@hacdias/114685766290362575
+  - https://www.instagram.com/p/DK6PudmtTF3/
 ---

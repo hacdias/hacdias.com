@@ -1,13 +1,15 @@
 ---
 title: Year in Music '22
 date: 2023-01-02T08:18:47.603761302+01:00
-aliases:
-  - /2023/01/02/year-in-music-22/
 categories:
   - writings
 tags:
   - spotify wrapped
   - year in music
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsovsxbq26
+aliases:
+  - /2023/01/02/year-in-music-22/
 ---
 
 ![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")

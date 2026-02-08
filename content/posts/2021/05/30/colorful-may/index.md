@@ -37,15 +37,15 @@ photos:
     height: 4500
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7sn4lk642b
-  - https://bsky.app/profile/hacdias.com/post/3me7sn4xpvv2e
-  - https://bsky.app/profile/hacdias.com/post/3me7sn5bwk52y
 tags:
   - eindhoven
   - spring
   - urban
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7sn4lk642b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7sn4xpvv2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7sn5bwk52y
 thumbnail: image:2021-05-30-eindhoven-11
 ---
 

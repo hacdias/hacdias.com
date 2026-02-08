@@ -9,6 +9,16 @@ location:
   country: Netherlands
 categories:
   - writings
+tags:
+  - reviews
+  - book reviews
+  - nederlands
+  - educational
+  - language
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lviica6wz62l
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7pkpgo2q
+  - https://fosstodon.org/@hacdias/114964390752590069
 rating: 5
 read:
   author: Paulien Cornelisse
@@ -19,16 +29,6 @@ read:
   pages: 219
   publisher: Atlas Contact
   uid: isbn:9789045051925
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7pkpgo2q
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lviica6wz62l
-  - https://fosstodon.org/@hacdias/114964390752590069
-tags:
-  - reviews
-  - book reviews
-  - nederlands
-  - educational
-  - language
 ---
 
 *Taal Is Zeg Maar Echt Mijn Ding* is mijn eerste boek van Paulien Cornelisse. Het is eigenlijk het eerste "volwassene" Nederlands boek dat ik lees, laten we het zo zeggen. Het gaat over taal en dingen die mensen zeggen, niet per se expres, maar dingen die gewoon voorkomen.

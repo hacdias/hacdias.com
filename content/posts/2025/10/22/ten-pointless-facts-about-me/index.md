@@ -9,12 +9,12 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya6hptb2k
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3m3rjiqxgao2g
-  - https://fosstodon.org/@hacdias/115417079173815803
 tags:
   - fun
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m3rjiqxgao2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya6hptb2k
+  - https://fosstodon.org/@hacdias/115417079173815803
 ---
 
 A few days ago I read [Kev's post](https://kevquirk.com/blog/ten-pointless-facts-about-me/) on ten pointless facts about him, and just now I saw [Manuel's](https://manuelmoreale.com/thoughts/10-pointless-facts-about-me) come by. Considering today's my birthday, I thought it would be fun to join the challenge and also share 10 pointless facts about myself.

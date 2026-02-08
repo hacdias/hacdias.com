@@ -4,13 +4,14 @@ description: 'BlockLearning: A Modular Framework for Blockchain-Based Vertical F
 date: 2023-02-16T12:00:00+01:00
 categories:
   - writings
-syndication:
-  - https://doi.org/10.1007/978-981-99-0272-9_22
 tags:
   - masters
   - milestones
   - papers
   - publications
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp2izxn23
+  - https://doi.org/10.1007/978-981-99-0272-9_22
 ---
 
 My [thesis](/2022/09/07/thesis-blocklearning-framework), specifically the part regarding Vertical Federated Learning, has been turned into a paper which has been presented during the UbiSec 2022 conference. Now, it has been [published](https://doi.org/10.1007/978-981-99-0272-9_22). It is called _BlockLearning: A Modular Framework for Blockchain-Based Vertical Federated Learning_.

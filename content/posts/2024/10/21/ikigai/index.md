@@ -3,6 +3,13 @@ title: Ikigai
 date: 2024-10-21T15:33:28+02:00
 categories:
   - writings
+tags:
+  - cultures
+  - personal growth
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszzsqtc2y
 rating: 4
 read:
   author: Héctor Garcia
@@ -12,11 +19,6 @@ read:
     width: 1556
   publisher: Publisher
   uid: isbn:9781786330895
-tags:
-  - cultures
-  - personal growth
-  - reviews
-  - book reviews
 ---
 
 Yesterday, I finished reading Ikigai, a book by Héctor Garcia and Francesc Miralles, which dives into the Japanese concept of the same name, Ikigai (生き甲斐). The reasons for buying this book months ago were not exactly because I wanted to read it, but just because it looked and felt nice. But now that I have read it, I think it was a good purchase.

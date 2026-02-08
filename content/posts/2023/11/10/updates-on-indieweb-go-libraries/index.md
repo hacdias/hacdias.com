@@ -4,13 +4,14 @@ date: 2023-11-10T15:18:39+01:00
 lastmod: 2023-11-11T14:22:25+01:00
 categories:
   - writings
-syndication:
-  - https://news.indieweb.org/en
-  - https://fosstodon.org/@hacdias/111461634857760294
 tags:
   - go
   - indieweb
   - open source
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspvstym2e
+  - https://fosstodon.org/@hacdias/111461634857760294
+  - https://news.indieweb.org/en
 ---
 
 During the past week and a half, I have been slowly, but surely, doing some cleanup of my GitHub repositories. In the process, I finally decided to tick off some of the items from my list, such as using vanity Go import URLs, improving my IndieAuth library, as well as releasing a Micropub package.

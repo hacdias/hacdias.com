@@ -7,12 +7,12 @@ photos:
     height: 1999
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/CFWWNhHFFOy/
-  - https://bsky.app/profile/hacdias.com/post/3me7rs63k4z2g
 tags:
   - architecture
   - urban
   - netherlands
   - rotterdam
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rs63k4z2g
+  - https://www.instagram.com/p/CFWWNhHFFOy/
 ---

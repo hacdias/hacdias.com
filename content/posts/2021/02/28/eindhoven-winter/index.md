@@ -22,14 +22,14 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rt3af2r2y
-  - https://bsky.app/profile/hacdias.com/post/3me7rt4a3ds23
 tags:
   - winter
   - snow
   - eindhoven
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rt3af2r2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rt4a3ds23
 thumbnail: image:2021-02-28-eindhoven-snow-01
 ---
 

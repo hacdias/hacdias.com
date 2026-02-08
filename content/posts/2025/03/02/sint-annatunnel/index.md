@@ -17,14 +17,14 @@ location:
   country: Netherlands
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/114093086936278800
-  - https://bsky.app/profile/hacdias.com/post/3lqfdsmjxuu2w
 tags:
   - belgium
   - architecture
   - urban
   - transit
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqfdsmjxuu2w
+  - https://fosstodon.org/@hacdias/114093086936278800
 ---
 
 The 572 meter long Sint-Annatunnel in Antwerp opened in 1933 and it is 31 meters deep. The wooden escalators are a marvel to see.

@@ -3,6 +3,12 @@ title: Before the coffee gets cold
 date: 2022-01-26T21:13:15.710026895+01:00
 categories:
   - writings
+tags:
+  - fantasy
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnokv3y26
 rating: 5
 read:
   author: Toshikazu Kawaguchi
@@ -13,10 +19,6 @@ read:
   pages: 213
   publisher: Picador
   uid: isbn:9781529029581
-tags:
-  - fantasy
-  - reviews
-  - book reviews
 ---
 
 Just finished reading "Before the coffee gets cold" by Toshikazu Kawaguchi. It is, yet again, a book that falls into the magical realism domain. In this book, the story takes place in a little café in Tokyo. In this café, there is a special seat where people can seat and travel in time.

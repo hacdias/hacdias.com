@@ -9,16 +9,16 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7kuaq22e
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lvbcj5dkyw27
-  - https://fosstodon.org/@hacdias/114948221179085545
 tags:
   - now
   - life
   - health
   - personal website
   - entertainment
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvbcj5dkyw27
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7kuaq22e
+  - https://fosstodon.org/@hacdias/114948221179085545
 ---
 
 I always want to say that the past month was relatively uneventful, but then I write the post and I realized that more things happened than I first thought. So, let's recap July, which is now coming to an end.

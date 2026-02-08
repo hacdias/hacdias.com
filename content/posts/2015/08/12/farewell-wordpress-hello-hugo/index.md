@@ -8,6 +8,8 @@ tags:
   - blog engine
   - meta
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdstz4a26
 ---
 
 Firstly, a little bit of history - when I begun this blog, I've already been using WordPress on Pplware for a while. So, I tought: I know it, it's simple, it's easy to use, I'm going to use it on my personal blog.

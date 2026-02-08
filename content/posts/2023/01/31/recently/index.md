@@ -1,8 +1,6 @@
 ---
 title: Recently in January '23
 date: 2023-01-31T21:35:03.498669637+01:00
-aliases:
-  - /2023/01/31/january-23/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - travel
   - personal website
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsoyvzzz2h
+aliases:
+  - /2023/01/31/january-23/
 ---
 
 January, the infamous first month of the year, is reaching an end. It was a very eventful month, but, by this time, I feel like I say that for every month that passes. I am honestly hoping that February will be a slightly more boring month in that sense.

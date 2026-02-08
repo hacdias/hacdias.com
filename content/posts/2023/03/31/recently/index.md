@@ -1,14 +1,16 @@
 ---
 title: Recently in March '23
 date: 2023-03-31T21:33:45.007010976+02:00
-aliases:
-  - /2023/03/31/march-23/
 categories:
   - writings
 tags:
   - now
   - personal website
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp6fkfq2b
+aliases:
+  - /2023/03/31/march-23/
 ---
 
 March is almost gone and here we are again, at one more recap of what has happened over the last month. Compared to February, March has been a pretty eventless month, at least on the surface. 

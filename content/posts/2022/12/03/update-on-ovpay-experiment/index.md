@@ -6,6 +6,8 @@ categories:
 tags:
   - infrastructure
   - transit
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsonivxr2e
 ---
 
 In the beginning of last month, I [wrote](/2022/11/04/trying-out-ovpay) a post about trying out the new payment system for public transit in The Netherlands, OVPay 💳. On it, I mentioned quite a few things regarding different operators. It's been around a month, and I've had the opportunity to travel again on Hermes 🚍 buses using OVPay. Here's the update.

@@ -3,13 +3,14 @@ title: Achieved Dutch Language Level B2
 date: 2024-07-23T19:11:38+02:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/112837460150479515
 tags:
   - dutch
   - language learning
   - milestones
   - personal growth
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszqsask2h
+  - https://fosstodon.org/@hacdias/112837460150479515
 thumbnail: image:2024-07-23-staatsexamen-nt2-b2
 ---
 

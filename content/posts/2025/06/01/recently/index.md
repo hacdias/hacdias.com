@@ -9,15 +9,15 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby752qjv2g
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lqjr3exer623
-  - https://fosstodon.org/@hacdias/114606972999345404
 tags:
   - now
   - personal website
   - fediverse
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqjr3exer623
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby752qjv2g
+  - https://fosstodon.org/@hacdias/114606972999345404
 thumbnail: image:2025-06-01-recently-01
 ---
 

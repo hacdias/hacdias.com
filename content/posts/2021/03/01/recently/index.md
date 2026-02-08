@@ -1,8 +1,6 @@
 ---
 title: Recently in February '21
 date: 2021-03-01T07:30:00+01:00
-aliases:
-  - /2021/03/01/february-2021/
 categories:
   - writings
 tags:
@@ -11,6 +9,10 @@ tags:
   - travel
   - university
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfqko772u
+aliases:
+  - /2021/03/01/february-2021/
 ---
 
 One more month has passed. A year ago, I was starting my second semester of my final year of my Bachelors degree. Right before that, I had just been traveling across Luxembourg, Belgium and the Netherlands. At the time, we were a bit worried with Covid-19, but there were barely any identified cases in Europe. We didn't even wear masks on the flights.

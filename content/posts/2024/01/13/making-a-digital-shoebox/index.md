@@ -4,12 +4,13 @@ date: 2024-01-13T10:37:33.757868696+01:00
 lastmod: 2025-02-04T19:48:32+01:00
 categories:
   - writings
-syndication:
-  - https://news.indieweb.org/en
 tags:
   - indieweb
   - meta
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqmvygj26
+  - https://news.indieweb.org/en
 ---
 
 A few days ago, I was navigating the web as normal. After some clicks here and there, I found myself on [this page](https://gilest.org/shoebox.html). I looked around and realized: it is a digital shoebox. I resonated with the author: I too keep around (shoe)boxes with the most random things. So I decided to also create my own digital shoebox.

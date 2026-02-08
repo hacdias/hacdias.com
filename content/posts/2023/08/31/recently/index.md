@@ -1,8 +1,6 @@
 ---
 title: Recently in August '23
 date: 2023-08-31T09:50:11+02:00
-aliases:
-  - /2023/08/31/august-23/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - trains
   - personal website
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspozdya2b
+aliases:
+  - /2023/08/31/august-23/
 ---
 
 August is almost gone, and with it the smells of summer. Day after day, the vibes I get from the weather are more [autumny 🍁](/2023/08/27/forest-delicacies/). Temperatures are finally going slightly down and it's starting to feel more cozy. It's been a long, yet satisfying month!

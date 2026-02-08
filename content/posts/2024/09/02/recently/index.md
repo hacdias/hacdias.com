@@ -8,6 +8,8 @@ tags:
   - travel
   - transit
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsztp2qh2e
 thumbnail: image:2024-09-02-ejv-beatrix
 ---
 

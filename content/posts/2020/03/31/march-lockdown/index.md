@@ -36,14 +36,14 @@ photos:
     height: 4500
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rqicrvq2d
-  - https://bsky.app/profile/hacdias.com/post/3me7rqj3uag2b
 tags:
   - lockdown
   - covid19
   - hometown
   - portugal
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rqicrvq2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rqj3uag2b
 thumbnail: image:2020-03-31-hometown-cross
 ---
 

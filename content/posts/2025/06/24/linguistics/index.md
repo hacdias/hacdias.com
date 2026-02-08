@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ab7w526
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lsdxrmnh3723
-  - https://fosstodon.org/@hacdias/114738048472917182
 tags:
   - language learning
   - multilingualism
   - educational
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lsdxrmnh3723
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ab7w526
+  - https://fosstodon.org/@hacdias/114738048472917182
 ---
 
 I always find it very interesting to learn more about languages, and features that some languages have and some don't. For example: my partner and I just realized why I sometimes get confused and cannot locate an object when he says "it is there".

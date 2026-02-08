@@ -4,12 +4,13 @@ date: 2023-12-24T12:33:29Z
 lastmod: 2025-03-12T20:33:32.926213276+01:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111635436784320724
 tags:
   - caddy
   - docker
   - irc
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq3odgo2s
+  - https://fosstodon.org/@hacdias/111635436784320724
 ---
 
 Around a week ago, I decided to take a look at <abbr title="Internet Relay Chat">IRC</abbr> again, and setup an IRC bouncer. After some search, I settled on going with [soju](https://soju.im/) as my IRC bouncer, and [gamja](https://codeberg.org/emersion/gamja) as a nice web frontend. Since I use [Caddy](https://caddyserver.com/) and Docker in my server, but neither provides a Dockerfile, I thought sharing my setup with the world could be useful.

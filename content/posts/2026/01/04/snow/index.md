@@ -22,12 +22,12 @@ location:
   country: Netherlands
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/115837391154229084
-  - https://bsky.app/profile/hacdias.com/post/3me7so7uorl26
 tags:
   - eindhoven
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7so7uorl26
+  - https://fosstodon.org/@hacdias/115837391154229084
 ---
 
 <style>

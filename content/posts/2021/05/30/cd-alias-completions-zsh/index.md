@@ -7,6 +7,8 @@ tags:
   - software
   - terminal
   - tips
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnbw27x2e
 ---
 
 For quite some time, I've had a helper function on my Zsh config to quickly be able to `cd` to specific directories. 

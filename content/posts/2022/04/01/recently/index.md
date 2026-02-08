@@ -1,8 +1,6 @@
 ---
 title: Recently in March '22
 date: 2022-04-01T11:07:43.482464122+02:00
-aliases:
-  - /2022/04/01/march-22/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - life
   - entertainment
   - artificial intelligence
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnxkkiw2s
+aliases:
+  - /2022/04/01/march-22/
 ---
 
 This is going to be a relatively short post, even though many things happened last month. The first three months of 2022 are completed and there's now only 9 to go. That's quite scary. Time flies!

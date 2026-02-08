@@ -1,8 +1,6 @@
 ---
 title: Recently in July '22
 date: 2022-07-31T15:19:49.820625415+02:00
-aliases:
-  - /2022/07/31/july-22/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - travel
   - life
   - people
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medso7j7in2e
+aliases:
+  - /2022/07/31/july-22/
 ---
 
 July is ending for most of us in a few hours and August will start. This is when most people go for vacation and have their summer holidays. Let's look at what I've been doing during July, which has been a very very busy month - I feel like I've been saying this every month.

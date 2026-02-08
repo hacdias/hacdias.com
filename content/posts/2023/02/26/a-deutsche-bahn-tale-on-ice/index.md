@@ -3,13 +3,14 @@ title: A Deutsche Bahn Tale on ICE
 date: 2023-02-26T11:44:12.868255483+01:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/109932662144169291
 tags:
   - infrastructure
   - trains
   - transit
   - travel
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp42ysj26
+  - https://fosstodon.org/@hacdias/109932662144169291
 ---
 
 Last month, I traveled from The Netherlands 🇳🇱 to Switzerland 🇨🇭 by train. More specifically, I traveled from Eindhoven to Engelberg, which is a small alpine town in the centre of Switzerland. When I wrote this post for the first time, it was mostly a rant, but now that some time has passed, I decided to rewrite it and finally publish it.

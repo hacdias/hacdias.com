@@ -43,16 +43,16 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rdoajry2d
-  - https://bsky.app/profile/hacdias.com/post/3me7rdozsxh2b
-  - https://bsky.app/profile/hacdias.com/post/3me7rdqixts2e
-  - https://bsky.app/profile/hacdias.com/post/3me7rdvzpjr2y
 tags:
   - spring
   - flowers
   - nature
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rdoajry2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rdozsxh2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rdqixts2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rdvzpjr2y
 thumbnail: image:2022-03-27-cherry-blossoms-06
 ---
 

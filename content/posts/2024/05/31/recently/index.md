@@ -8,6 +8,8 @@ tags:
   - personal website
   - gym
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszh425324
 ---
 
 May is coming to an end. Not that much happened this month, but it was still minimally eventful. I made a few updates to this website, there's some life-related changes and updates regarding my gym journey. Let's dive into it!

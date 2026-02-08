@@ -6,6 +6,8 @@ categories:
 tags:
   - meta
   - security
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspfzlho2s
 ---
 
 This is just a quick post to alert that I have changed my PGP key. It doesn't

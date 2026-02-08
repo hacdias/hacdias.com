@@ -7,11 +7,11 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/CFomCmWlT4d/
-  - https://bsky.app/profile/hacdias.com/post/3me7rseztvk2q
 tags:
   - silhouette
   - abstract
   - artistic
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rseztvk2q
+  - https://www.instagram.com/p/CFomCmWlT4d/
 ---

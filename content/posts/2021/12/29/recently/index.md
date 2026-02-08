@@ -1,12 +1,14 @@
 ---
 title: Recently in December '21
 date: 2021-12-29T18:12:30.586985119Z
-aliases:
-  - /2021/12/29/december-2021/
 categories:
   - writings
 tags:
   - now
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnksxk626
+aliases:
+  - /2021/12/29/december-2021/
 ---
 
 Once again, a year is ending. It feels like it was yesterday that I was first discovering the IndieWeb and adding new features to my website, but that was 2 years ago now. Time has been passing quite fast since _the_ pandemic started.

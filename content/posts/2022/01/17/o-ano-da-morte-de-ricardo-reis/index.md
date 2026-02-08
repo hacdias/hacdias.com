@@ -3,6 +3,13 @@ title: O ano da morte de Ricardo Reis
 date: 2022-01-17T17:39:36.758940822Z
 categories:
   - writings
+tags:
+  - fantasy
+  - literature
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnmcv3r2h
 rating: 4
 read:
   author: José Saramago
@@ -13,11 +20,6 @@ read:
   pages: 494
   publisher: Porto Editora
   uid: isbn:9789720048820
-tags:
-  - fantasy
-  - literature
-  - reviews
-  - book reviews
 ---
 
 Today, I finished reading "O Ano da Morte de Ricardo Reis" (*The Year of The Death of Ricardo Reis* in English) by José Saramago, while on a train from Den Haag to Eindhoven, after visiting the Portuguese embassy.

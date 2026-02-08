@@ -34,16 +34,16 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rv63rgi2h
-  - https://bsky.app/profile/hacdias.com/post/3me7rv73rct2e
-  - https://bsky.app/profile/hacdias.com/post/3me7rv7yxc726
 tags:
   - maastricht
   - travel
   - netherlands
   - architecture
   - canals
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rv63rgi2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rv73rct2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rv7yxc726
 thumbnail: image:2021-05-31-maastricht-03
 ---
 

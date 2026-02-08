@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7hojbg24
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lunhvib5ro2w
-  - https://fosstodon.org/@hacdias/114903564184021793
 tags:
   - software
   - fun
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lunhvib5ro2w
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7hojbg24
+  - https://fosstodon.org/@hacdias/114903564184021793
 ---
 
 Time and time again, I have come across articles about [writing "useless" software](https://ntietz.com/blog/write-more-useless-software/), or [programming as play](https://austinhenley.com/blog/programmingasplay.html). These sort of articles always wake up something in me. They focus on programming as a fun, playful thing, instead of making things with a hard purpose.

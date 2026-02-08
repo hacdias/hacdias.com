@@ -1,14 +1,16 @@
 ---
 title: Recently in February '23
 date: 2023-02-28T18:58:30.837492769+01:00
-aliases:
-  - /2023/02/28/february-23/
 categories:
   - writings
 tags:
   - now
   - personal website
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp4sihj2h
+aliases:
+  - /2023/02/28/february-23/
 ---
 
 February has been a total rollercoaster. Nice things and not so nice things have happened during this month. But overall, let's keep a positive attitude towards the future. Let's dive into the events that constituted this month.

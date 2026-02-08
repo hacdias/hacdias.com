@@ -27,6 +27,8 @@ categories:
   - writings
 tags:
   - milestones
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medso4cvx324
 thumbnail: image:2022-06-07-dm-photo-1
 ---
 

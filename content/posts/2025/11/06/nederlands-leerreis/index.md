@@ -15,6 +15,8 @@ tags:
   - language learning
   - dutch
   - milestones
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2pyaya26
 ---
 
 Soms kom ik mensen tegen die mij vragen: hoe heb jij Nederlands geleerd? De afgelopen jaren heb ik hier vaak over mijn Nederlands leeravontuur geschreven, maar ik heb nooit een samenvatting van het hele proces opgeschreven. Het ging altijd meer over updates of mijlpalen die ik had bereikt. Dus vandaag kom ik met het hele verhaal op een rijtje.

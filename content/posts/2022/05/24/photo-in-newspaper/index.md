@@ -13,14 +13,14 @@ location:
   country: Netherlands
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rws3nrl23
 tags:
   - exhibition
   - university
   - newspaper
   - achievement
   - art
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rws3nrl23
 ---
 
 Dekate Mousa, the photography association at my university, is organising a photographic exhibition at the CKE next month where pictures from the members will be on display. I'm so happy to see that one of my pictures was chosen to be on the announcement article [at Cursor](https://www.cursor.tue.nl/en/news/2022/mei/week-4/dekate-mousa-organizes-exhibition-at-cke/)!

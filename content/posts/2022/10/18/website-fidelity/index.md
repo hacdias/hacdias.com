@@ -1,11 +1,13 @@
 ---
 title: Website Fidelity
 date: 2022-10-18T07:39:52Z
-bookmark-of: https://blog.jim-nielsen.com/2022/website-fidelity/
 categories:
   - writings
 tags:
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsodss5b2e
+bookmark-of: https://blog.jim-nielsen.com/2022/website-fidelity/
 wa-bookmark-of: https://web.archive.org/web/20230327102224/https://blog.jim-nielsen.com/2022/website-fidelity/
 ---
 

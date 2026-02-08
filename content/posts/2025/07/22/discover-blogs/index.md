@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7gkxrw2h
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lujxr4ctd22k
-  - https://fosstodon.org/@hacdias/114895673272781352
 tags:
   - small web
   - personal website
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lujxr4ctd22k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7gkxrw2h
+  - https://fosstodon.org/@hacdias/114895673272781352
 ---
 
 I enjoy discovering other people's blogs online, whether it's personal blogs, or gardens, or whatever you want to name thems. I've probably spent too much time just navigating other people's websites, especially in what is called the [Small Web](https://ar.al/2020/08/07/what-is-the-small-web/). However, this Small Web is also not so small, and discovering new blogs is not always the easiest.

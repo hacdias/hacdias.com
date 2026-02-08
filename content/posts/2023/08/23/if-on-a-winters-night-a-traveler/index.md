@@ -3,6 +3,12 @@ title: If on a Winter's Night a Traveller
 date: 2023-08-23T20:13:25+02:00
 categories:
   - writings
+tags:
+  - fantasy
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspnigly2g
 rating: 3
 read:
   author: Italo Calvino
@@ -14,10 +20,6 @@ read:
   pages: 272
   publisher: Ballantine Books
   uid: isbn:9780099430896
-tags:
-  - fantasy
-  - reviews
-  - book reviews
 ---
 
 This is an unusual post: today I did not finish a book, but I decided to consciously stop reading it.

@@ -19,15 +19,15 @@ location:
   country: Portugal
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/114697155979190094
-  - https://bsky.app/profile/hacdias.com/post/3lrrsnz57qu2w
 tags:
   - portugal
   - madeira
   - travel
   - nature
   - landscape
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrrsnz57qu2w
+  - https://fosstodon.org/@hacdias/114697155979190094
 thumbnail: image:2025-06-17-untitled-03
 ---
 

@@ -1,12 +1,14 @@
 ---
 title: Year in Popcorn '22
 date: 2023-01-02T14:49:00+01:00
-aliases:
-  - /2023/01/02/year-in-popcorn-22/
 categories:
   - writings
 tags:
   - year in popcorn
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsowjw562s
+aliases:
+  - /2023/01/02/year-in-popcorn-22/
 ---
 
 ![](https://media.hacdias.com/2021-02-01-popcorn.gif "Popcorn")

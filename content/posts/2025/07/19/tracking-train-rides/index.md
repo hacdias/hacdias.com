@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7eigy72b
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lud2hmfjnp2k
-  - https://fosstodon.org/@hacdias/114880100894708306
 tags:
   - trains
   - tracking
   - transit
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lud2hmfjnp2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7eigy72b
+  - https://fosstodon.org/@hacdias/114880100894708306
 ---
 
 It is no secret that I enjoy tracking things, whether it is books I [read](/readings/), things I [watched](/watches/), or places I have [been](/trips/). When I travel, I track my flights, and that is, as far as I know, something a lot of people do. It also means that there are many tools out there for it. But when it comes to trains, I have never found a very reliable solution... until now!

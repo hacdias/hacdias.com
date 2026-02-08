@@ -32,15 +32,15 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7ryr3bt426
-  - https://bsky.app/profile/hacdias.com/post/3me7ryryzr32u
-  - https://bsky.app/profile/hacdias.com/post/3me7rysyvc32u
 tags:
   - travel
   - italy
   - architecture
   - urban
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7ryr3bt426
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7ryryzr32u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rysyvc32u
 thumbnail: image:2022-11-16-trip-to-italy-in-photos-02
 ---
 

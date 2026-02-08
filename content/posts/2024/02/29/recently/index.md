@@ -9,6 +9,8 @@ tags:
   - dutch
   - travel
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsz66u7z2b
 thumbnail: image:2024-02-29-vienna-inception
 ---
 

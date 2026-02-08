@@ -12,14 +12,14 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7s2d6yra26
 tags:
   - animals
   - nature
   - wildlife
   - eindhoven
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s2d6yra26
 thumbnail: image:2024-09-21-stratumse-heide-02
 ---
 

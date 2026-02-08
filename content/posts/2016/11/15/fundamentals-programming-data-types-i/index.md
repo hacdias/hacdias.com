@@ -8,6 +8,8 @@ tags:
   - computer science
   - data types
   - fundamentals of programming
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsealomp2d
 ---
 
 In our beginning articles, we mentioned that there are some

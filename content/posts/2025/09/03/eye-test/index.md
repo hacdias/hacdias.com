@@ -9,12 +9,12 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya2drgg2q
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lxw24gkpmp2v
-  - https://fosstodon.org/@hacdias/115139033263963574
 tags:
   - health
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lxw24gkpmp2v
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya2drgg2q
+  - https://fosstodon.org/@hacdias/115139033263963574
 ---
 
 A few weeks ago, Chris decided to get his eyes checked and I noticed it had already been three years since I last got mine checked. Since that is quite some time, and I had strived for getting my eyes checked every other year, I decided to make an appointment for us both at *Mr. Brown Beans & Specs* here in Eindhoven, an optician-café combo.

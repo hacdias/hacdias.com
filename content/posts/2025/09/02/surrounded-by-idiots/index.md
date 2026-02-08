@@ -3,6 +3,12 @@ title: Surrounded by Idiots
 date: 2025-09-02T17:50:11+02:00
 categories:
   - writings
+tags:
+  - reviews
+  - book reviews
+  - personal growth
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2kshmf2u
 rating: 3
 read:
   author: Thomas Erikson
@@ -11,10 +17,6 @@ read:
   pages: 282
   publisher: Vermilion
   uid: isbn:9781785042188
-tags:
-  - reviews
-  - book reviews
-  - personal growth
 thumbnail: image:2025-09-02-surrounded-by-idiots-thumbail
 ---
 

@@ -19,15 +19,15 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rrhcw442s
-  - https://bsky.app/profile/hacdias.com/post/3me7rrlj2oc23
 tags:
   - nature
   - spring
   - covid19
   - portugal
   - hometown
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rrhcw442s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rrlj2oc23
 thumbnail: image:2020-05-21-nature-02
 ---
 

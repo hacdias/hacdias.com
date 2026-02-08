@@ -1,9 +1,6 @@
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-{{ with .File }}
-  <meta name='entry-id' content='{{ .Dir }}'>
-{{ end }}
 <title>{{ partialCached "fns/title" . .Title .Data.Singular }} - {{ .Site.Title }}</title>
 {{- if .Params.noIndex }}
   <meta name='robots' content='noindex'>
@@ -62,6 +59,10 @@
 <link rel='pingback' href='https://webmention.io/hacdias.com/xmlrpc'>
 <link rel='blogroll' type='text/xml' href='/blogroll/feeds.opml'>
 
-{{ with index .Page.Params "standard-document" -}}
-  <link rel="site.standard.document" href="{{ safeURL . }}">
-{{ end -}}
+{{ with .Page.Params.syndication }}
+  {{ range $i, $s := . -}}
+    {{ if and (strings.HasPrefix $s "at://") (strings.Contains $s "site.standard.document") -}}
+       <link rel="site.standard.document" href="{{ safeURL $s }}">
+    {{ end }}
+  {{- end -}}
+{{ end }}

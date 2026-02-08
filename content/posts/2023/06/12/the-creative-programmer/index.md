@@ -3,6 +3,13 @@ title: The Creative Programmer
 date: 2023-06-12T09:26:30.096860512+02:00
 categories:
   - writings
+tags:
+  - educational
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspeg3jy2b
+  - https://fosstodon.org/@hacdias/110530107064412338
 rating: 4
 read:
   author: Wouter Groeneveld
@@ -13,12 +20,6 @@ read:
   pages: 232
   publisher: Manning
   uid: isbn:9781633439054
-syndication:
-  - https://fosstodon.org/@hacdias/110530107064412338
-tags:
-  - educational
-  - reviews
-  - book reviews
 thumbnail: image:2023-06-12-the-creative-programmer
 ---
 

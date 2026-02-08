@@ -3,6 +3,13 @@ title: Strange Case of Dr Jekyll and Mr Hyde and Other Stories
 date: 2022-02-20T19:06:51.132363451+01:00
 categories:
   - writings
+tags:
+  - fantasy
+  - literature
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsntyomq26
 rating: 3
 read:
   author: Robert Louis Stevenson
@@ -13,11 +20,6 @@ read:
   pages: 221
   publisher: Alma Books
   uid: isbn:9781847493781
-tags:
-  - fantasy
-  - literature
-  - reviews
-  - book reviews
 ---
 
 When I bought this book, I didn't notice it had "other stories" in the title. Not only does the book contain 7 other stories from Robert Louis Stevenson, but it also includes biographical and bibliographical information about the author.

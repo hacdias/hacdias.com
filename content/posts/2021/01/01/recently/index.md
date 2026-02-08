@@ -1,12 +1,14 @@
 ---
 title: Recently in December '20
 date: 2021-01-01T08:00:00+01:00
-aliases:
-  - /2021/01/01/december-2020/
 categories:
   - writings
 tags:
   - now
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfme3t32g
+aliases:
+  - /2021/01/01/december-2020/
 ---
 
 2020 has come to an end. It was a very troublesome year regarding worldwide events. However, I must say that it was quite a fantastic year personally.

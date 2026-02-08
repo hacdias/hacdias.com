@@ -4,11 +4,13 @@ date: 2021-02-15T06:30:00Z
 lastmod: 2021-02-15T06:49:43.435183405Z
 categories:
   - writings
-feedContentWarning: true
 tags:
   - art
   - javascript
   - mathematics
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfpsu7526
+feedContentWarning: true
 ---
 
 The winter ❄️ has finally come. I have been wishing for snow for a long time. Coming from a warm country such as Portugal, snow is not the most common thing to see. In fact, I only saw snow in Portugal once when I was a kid when I went to [Serra da Estrela](https://en.wikipedia.org/wiki/Serra_da_Estrela), the highest mountain in continental Portugal.

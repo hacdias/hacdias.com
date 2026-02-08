@@ -1,8 +1,6 @@
 ---
 title: Recently in August '22
 date: 2022-08-31T21:26:26.008409953+02:00
-aliases:
-  - /2022/08/31/august-22/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - travel
   - entertainment
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsoaz7vr2d
+aliases:
+  - /2022/08/31/august-22/
 ---
 
 August is ending and with it, most people's summer vacations. It's time for school, university and work again. However, I did not have that much of a vacation yet.

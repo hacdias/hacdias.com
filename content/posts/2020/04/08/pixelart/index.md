@@ -12,6 +12,8 @@ tags:
   - art
   - creative
   - pixel art
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseyk6o32g
 ---
 
 I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it.

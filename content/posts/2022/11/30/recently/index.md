@@ -1,8 +1,6 @@
 ---
 title: Recently in November '22
 date: 2022-11-30T17:17:47.424154742+01:00
-aliases:
-  - /2022/11/30/november-22/
 categories:
   - writings
 tags:
@@ -11,6 +9,10 @@ tags:
   - travel
   - people
   - christmas
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsomsma626
+aliases:
+  - /2022/11/30/november-22/
 ---
 
 November has been a pretty intensive month in many different regards: from my parents visiting The Netherlands for the first time, to my partner and I moving in together to a new apartment. Besides, we're getting closer and closer to the end of the year, which means there are some cosy events I am looking forward to 🎄🍷.

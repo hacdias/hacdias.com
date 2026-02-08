@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya7plx32e
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3m46kzpijiz2x
-  - https://fosstodon.org/@hacdias/115446468155052831
 tags:
   - fun
   - indieweb
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m46kzpijiz2x
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya7plx32e
+  - https://fosstodon.org/@hacdias/115446468155052831
 thumbnail: image:2025-10-27-internet-phone-book
 ---
 

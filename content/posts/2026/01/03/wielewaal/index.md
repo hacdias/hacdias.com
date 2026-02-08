@@ -14,14 +14,14 @@ location:
   country: Netherlands
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/115831198098356049
-  - https://bsky.app/profile/hacdias.com/post/3mbjgosqroc2h
 tags:
   - eindhoven
   - forest
   - nature
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mbjgosqroc2h
+  - https://fosstodon.org/@hacdias/115831198098356049
 ---
 
 <style>

@@ -1,13 +1,15 @@
 ---
 title: Using Cloudflare on Your Website Could Be Blocking RSS Users
 date: 2024-10-18T20:30:15.535913208+02:00
-bookmark-of: https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users
 categories:
   - writings
 tags:
   - web
   - rss
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszyyizy26
+bookmark-of: https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users
 wa-bookmark-of: https://web.archive.org/web/20241026173629/https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users
 ---
 

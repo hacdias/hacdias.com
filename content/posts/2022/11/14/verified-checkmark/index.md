@@ -12,6 +12,8 @@ categories:
   - writings
 tags:
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsojwr7n23
 thumbnail: image:2022-11-14-verified-checkmark
 ---
 

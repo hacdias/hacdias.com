@@ -9,15 +9,15 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7cc3232e
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lsvwdnmnsz2c
-  - https://fosstodon.org/@hacdias/114778479714957652
 tags:
   - now
   - travel
   - portugal
   - work
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lsvwdnmnsz2c
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7cc3232e
+  - https://fosstodon.org/@hacdias/114778479714957652
 ---
 
 One more month has passed, and June is now away from us. We've officially entered the last half of the year, at least when it comes to counting months. It was quite a busy month, with travel, new job, events, and the heat! Let's take a look.

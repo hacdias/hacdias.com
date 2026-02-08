@@ -7,6 +7,8 @@ tags:
   - gym
   - reflections
   - sports
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszmchak2h
 ---
 
 Over a bit more than a year ago, I started going to the gym. Since then, I went from going there one time a week, to two times a week, and more recently to three times a week. During this time, many things have changed, from my goals, progress, and how I feel about sports and being active in general.

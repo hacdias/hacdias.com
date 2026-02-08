@@ -7,6 +7,8 @@ tags:
   - poetry
   - creative
   - portugues
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqgzgqr2q
 ---
 
 Às vezes encontro com cada coisa entre os meus documentos. Aqui está um poema que escrevi a 23 de janeiro de 2013 sobre o mar.

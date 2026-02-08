@@ -16,14 +16,14 @@ photos:
     height: 4500
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rzgad2s2d
 tags:
   - night
   - eindhoven
   - netherlands
   - urban
   - architecture
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzgad2s2d
 thumbnail: image:2024-03-07-strijps-nacht-vershal
 ---
 

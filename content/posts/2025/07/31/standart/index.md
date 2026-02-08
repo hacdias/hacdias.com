@@ -9,16 +9,16 @@ location:
   country: Netherlands
 categories:
   - writings
-rating: 5
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7m7soo24
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lvahv4f4zc2d
-  - https://fosstodon.org/@hacdias/114946347646920360
 tags:
   - coffee
   - reviews
   - magazine reviews
   - entertainment
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvahv4f4zc2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7m7soo24
+  - https://fosstodon.org/@hacdias/114946347646920360
+rating: 5
 thumbnail: image:2025-07-31-standart
 ---
 

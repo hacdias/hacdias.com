@@ -39,15 +39,15 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rrzqa272e
-  - https://bsky.app/profile/hacdias.com/post/3me7rs2orrl2k
-  - https://bsky.app/profile/hacdias.com/post/3me7rs3phod2k
 tags:
   - portugal
   - alentejo
   - boats
   - ocean
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rrzqa272e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rs2orrl2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rs3phod2k
 thumbnail: image:2020-06-21-costa-alentejana-2
 ---
 

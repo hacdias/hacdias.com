@@ -3,6 +3,12 @@ title: Red, White & Royal Blue
 date: 2022-01-30T23:06:19.086212536+01:00
 categories:
   - writings
+tags:
+  - fantasy
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnpebgy26
 rating: 4
 read:
   author: Casey McQuiston
@@ -13,10 +19,6 @@ read:
   pages: 418
   publisher: St. Martin's
   uid: isbn:9781250316776
-tags:
-  - fantasy
-  - reviews
-  - book reviews
 ---
 
 Just finished reading the romance "Red, White and Royal Blue" from Casey McQuiston. In this book, Casey creates an hypothetical situation where the First Son of the US and the Prince of the UK would fall in love with each other, as well as the political and diplomatic outcomes from that.

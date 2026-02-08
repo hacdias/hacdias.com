@@ -7,6 +7,8 @@ tags:
   - indieweb
   - meta
   - micropub
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnijuj52k
 ---
 
 I am creating a new Micropub endpoint for my website and I read the [specification](https://micropub.spec.indieweb.org/). However, while testing the update action, something unexpected happened. The specification is not quite clear to whether we should deeply-traverse the update and update field by field, or solely replace the top-level keys.

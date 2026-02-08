@@ -47,12 +47,32 @@
       </li>
       {{ end }}
 
-      {{ with .Page.Params.syndication }}
+      {{- $bsky := "" }}
+      {{- $fosstodon := "" }}
+      {{- $syndication := slice }}
+      {{- range $i, $s := .Page.Params.syndication -}}
+        {{ if strings.HasPrefix $s "at://" }}
+          {{ $parts := strings.Split $s "/" }}
+          {{ $collection := index $parts 3 }}
+          {{ $recordKey := index $parts 4 }}
+
+          {{ if eq $collection "app.bsky.feed.post" }}
+            {{ $bsky = printf "https://bsky.app/profile/hacdias.com/post/%s" $recordKey }}
+          {{ end }}
+        {{ else if strings.HasPrefix $s "https://fosstodon.org" }}
+          {{ $fosstodon = $s }}
+        {{ else }}
+          {{ $syndication = $syndication | append $s }}
+        {{ end }}
+      {{- end -}}
+
+      {{ with $syndication }}
       <li>
         <strong>🌐 Also on</strong>
         <span>
         {{ range $i, $s := . -}}
           {{- if ne $i 0 }}, {{ end -}}
+          {{ $url := urls.Parse $s }}
           <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
             {{- $domain := (urls.Parse $s).Host -}}
             {{ $domain -}}
@@ -64,10 +84,10 @@
 
       <li>
         <strong>💬 Reply</strong>
-        <span> 
+        <span>
         <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
-        <a href="https://fosstodon.org/@hacdias" rel='noopener noreferrer'>Mastodon</a>,
-        <a href="https://bsky.app/profile/hacdias.com" rel='noopener noreferrer'>Bluesky</a>,
+        <a {{ with $bsky }}class='u-syndication' href="{{ . }}"{{ else }}href="https://bsky.app/profile/hacdias.com"{{ end }} rel='noopener noreferrer'>Bluesky</a>,
+        <a {{ with $fosstodon }}class='u-syndication' href="{{ . }}"{{ else }}href="https://fosstodon.org/@hacdias"{{ end }} rel='noopener noreferrer'>Mastodon</a>
         <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
         </span>
       </li>

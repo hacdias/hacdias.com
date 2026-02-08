@@ -1,12 +1,14 @@
 ---
 title: Physician Explains How COVID-19 Mutes Sense of Smell
 date: 2022-10-30T09:53:10Z
-bookmark-of: https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/
 categories:
   - writings
 tags:
   - covid19
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsog264i26
+bookmark-of: https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/
 wa-bookmark-of: https://web.archive.org/web/20230325143608/https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: Recently in November '23
 date: 2023-11-30T16:38:26.343454291+01:00
-aliases:
-  - /2023/11/30/november-23/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - personal website
   - entertainment
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspxftbo26
+aliases:
+  - /2023/11/30/november-23/
 ---
 
 November is almost gone. It was quite of a slow month, so I had more time to spend working on this website, or in watching series - maybe too many. Let's dive into it.

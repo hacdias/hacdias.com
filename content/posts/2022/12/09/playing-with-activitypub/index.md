@@ -1,13 +1,15 @@
 ---
 title: Playing With ActivityPub
 date: 2022-12-09T21:25:18Z
-bookmark-of: https://macwright.com/2022/12/09/activitypub.html
 categories:
   - writings
 tags:
   - activitypub
   - fediverse
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsoocixi2b
+bookmark-of: https://macwright.com/2022/12/09/activitypub.html
 wa-bookmark-of: https://web.archive.org/web/20230505222246/https://macwright.com/2022/12/09/activitypub.html
 ---
 

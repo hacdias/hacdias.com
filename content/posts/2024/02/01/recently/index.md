@@ -8,6 +8,8 @@ tags:
   - personal website
   - archival
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqoitpg2s
 ---
 
 January was a very busy month, which I did not really expect. More importantly, it's already *gone*. One twelfth of the year has already passed. How crazy is that? Let's quickly dive into the latest events.

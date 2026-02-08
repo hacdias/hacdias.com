@@ -9,15 +9,15 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6ynfff2d
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lqd7ktsbec27
-  - https://fosstodon.org/@hacdias/114285212069038533
 tags:
   - now
   - entertainment
   - travel
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7ktsbec27
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6ynfff2d
+  - https://fosstodon.org/@hacdias/114285212069038533
 ---
 
 March has ended a few days ago, meaning that this recap is coming a bit later than usual. Maybe it is a product of the weather being nicer, and the fact that I've been a bit more busy than usual. It's been quite some hectic days!

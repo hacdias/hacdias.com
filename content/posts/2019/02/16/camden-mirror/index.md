@@ -13,12 +13,12 @@ location:
   country: United Kingdom
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/Bt8Vl8uFrM7/
-  - https://bsky.app/profile/hacdias.com/post/3me7rpf77lb2g
 tags:
   - london
   - england
   - travel
   - street art
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpf77lb2g
+  - https://www.instagram.com/p/Bt8Vl8uFrM7/
 ---

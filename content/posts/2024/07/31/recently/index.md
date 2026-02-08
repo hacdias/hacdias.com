@@ -8,6 +8,8 @@ tags:
   - personal website
   - milestones
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszrievn23
 ---
 
 July is coming to an end and the sun is shining. This was a month with quite some events for me, both on the good side of the spectrum, as well as on the bad side of the spectrum. But mostly good. Let's dive into it!
