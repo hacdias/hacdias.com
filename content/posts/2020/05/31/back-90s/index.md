@@ -4,8 +4,6 @@ description: Do you remember the old days of the web? Where everyone had their o
 date: 2020-05-31T21:24:00Z
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1267207180698169345
 tags:
   - meta
   - web3

@@ -15,7 +15,7 @@ tags:
 thumbnail: image:2022-11-14-verified-checkmark
 ---
 
-In the spirit of what has been happening to Twitter, Max [added](https://twitter.com/mxbck/status/1590809274808147990) a verified checkmark to his personal website. Then, Jim [followed](https://blog.jim-nielsen.com/2022/verified-personal-website/) with the idea. Since I also found the idea quite funny, now I also got myself a verified checkmark 😂. And it costs less than having one on Twitter!
+In the spirit of what has been happening to Twitter, Max added a verified checkmark to his personal website. Then, Jim [followed](https://blog.jim-nielsen.com/2022/verified-personal-website/) with the idea. Since I also found the idea quite funny, now I also got myself a verified checkmark 😂. And it costs less than having one on Twitter!
 
 For years, the blue checkmark in many social media have been used to show status, even though the original goal, as far as I understand, was for authenticity. Unfortunately, common users, or as some media platforms put it, "non-notable people", were never able to be verified.
 

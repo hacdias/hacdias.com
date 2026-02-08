@@ -5,8 +5,6 @@ lastmod: 2021-02-15T06:49:43.435183405Z
 categories:
   - writings
 feedContentWarning: true
-syndication:
-  - https://twitter.com/hacdias/status/1361206419266154499
 tags:
   - art
   - javascript

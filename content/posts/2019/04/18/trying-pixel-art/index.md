@@ -76,11 +76,10 @@ every frame, I had to recreate the whole animation. And this happened like 5 tim
 
 Well... after creating lots of frames and moving the car forward in different speeds, I thought:
 "I'm not changing this any more times, let's make it final". I exported it to a [GIF](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36641017998325275674036244184943245870303092763356030368057653459892891025409)
-and shared it on [Twitter][2], where I received some positive feedback ❤️.
+and shared it on Twitter, where I received some positive feedback ❤️.
 
 **tl;dr** I've really enjoyed this experience and I'm looking forward to learn a bit
 more about this world and sharing the results here. What do you think?
 
 [0]: https://en.wikipedia.org/wiki/Pixel_art
 [1]: https://www.aseprite.org/
-[2]: https://twitter.com/hacdias/status/1118443012420452353?

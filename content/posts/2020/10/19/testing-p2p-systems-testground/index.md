@@ -4,8 +4,6 @@ description: P2P systems are not always easy to test. Due to their nature, there
 date: 2020-10-19T09:00:00+02:00
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1318089432113815553
 tags:
   - testing
   - web3

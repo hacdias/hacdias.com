@@ -4,8 +4,6 @@ description: I'm in my first year of my master's degree. Next year, I am suppose
 date: 2020-10-05T09:00:00+02:00
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1317859153185001474
 tags:
   - masters
   - reflections

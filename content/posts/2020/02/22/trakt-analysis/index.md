@@ -4,8 +4,6 @@ description: I now have a watch log again and decided to analyse 2019's habits o
 date: 2020-02-22T22:05:00Z
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1231484792027348994
 tags:
   - meta
   - reflections

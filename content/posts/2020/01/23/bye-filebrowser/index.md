@@ -4,8 +4,6 @@ description: After 5 years of maintaining this project and failing due to my lim
 date: 2020-01-23T09:10:00Z
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1220274794068959232
 tags:
   - go
   - reflections

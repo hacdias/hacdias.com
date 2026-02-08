@@ -5,8 +5,6 @@ aliases:
   - /2020/10/01/september-2020/
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1311562183856320512
 tags:
   - now
   - personal website
@@ -20,7 +18,7 @@ Today's the first day of a new month, so here's a new "recently" post. Since I d
 
 <!--more-->
 
-First of all, I decided to create a ~newsletter~ even though all posts I will send through it will be available on my website since day 1. Then, why did I choose to create a newsletter? I always wanted to publish articles regularly, but sometimes it's difficult to keep going when we don't feel obligation for it. After talking to [Alfonso](https://twitter.com/adlrocha), I decided to give it a try.
+First of all, I decided to create a ~newsletter~ even though all posts I will send through it will be available on my website since day 1. Then, why did I choose to create a newsletter? I always wanted to publish articles regularly, but sometimes it's difficult to keep going when we don't feel obligation for it. After talking to Alfonso, I decided to give it a try.
 
 ## Darkroom
 
