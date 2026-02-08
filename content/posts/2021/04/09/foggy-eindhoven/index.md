@@ -25,14 +25,14 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7skc36qk2g
-  - https://bsky.app/profile/hacdias.com/post/3me7skd3lxh2k
 tags:
   - eindhoven
   - fog
   - nature
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7skc36qk2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7skd3lxh2k
 thumbnail: image:2021-04-09-foggy-morning-02
 ---
 

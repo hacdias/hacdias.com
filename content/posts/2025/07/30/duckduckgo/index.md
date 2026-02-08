@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ju4262h
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lv6qs6aavz25
-  - https://fosstodon.org/@hacdias/114942470874425014
 tags:
   - browsers
   - search engines
   - software
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lv6qs6aavz25
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ju4262h
+  - https://fosstodon.org/@hacdias/114942470874425014
 ---
 
 A few days ago, I [wrote](/2025/07/26/search-engines/) about my quest for a better search engine. For the past few months, I had been using Kagi, but I have since canceled the subscription. As a consequence, I returned back to DuckDuckGo. However, I felt it wasn't able to satisfy my needs... but was I right?

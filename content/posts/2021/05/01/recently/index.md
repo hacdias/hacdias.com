@@ -1,8 +1,6 @@
 ---
 title: Recently in April '21
 date: 2021-05-01T09:00:00+02:00
-aliases:
-  - /2021/05/01/april-2021/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - university
   - covid19
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnafygq2q
+aliases:
+  - /2021/05/01/april-2021/
 ---
 
 One more month has passed! It is unbelievable how fast this academic year - and 2021 in general - is passing. I'm already in my last quartile, having my last courses for the year.

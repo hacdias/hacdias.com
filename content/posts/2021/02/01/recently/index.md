@@ -1,8 +1,6 @@
 ---
 title: Recently in January '21
 date: 2021-02-01T09:00:00+01:00
-aliases:
-  - /2021/02/01/lessons-moving-during-pandemic/
 categories:
   - writings
 tags:
@@ -11,6 +9,10 @@ tags:
   - university
   - covid19
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfnznxe2k
+aliases:
+  - /2021/02/01/lessons-moving-during-pandemic/
 ---
 
 It's been quite a while since I sent my last newsletter. And now the ferocious winter winds are storming outside. I'm looking at my screen wondering what to write and why write. Since August, I have been living in the Netherlands and I thought it would be a great ideas to talk a bit about the experience of moving during a pandemic.

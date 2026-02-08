@@ -5,6 +5,8 @@ categories:
   - writings
 tags:
   - now
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2ocjot24
 thumbnail: image:2025-09-30-wielewaal
 ---
 

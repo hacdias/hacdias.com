@@ -13,6 +13,8 @@ categories:
 tags:
   - christmas
   - travel
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsop6vn626
 thumbnail: image:2022-12-22-aachen-weihnachtsmarkt-01
 ---
 

@@ -3,15 +3,15 @@ title: Naturalization Periods and Dutch Politics
 date: 2025-09-30T16:52:33+02:00
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya4e46624
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3m22rovzvt22a
-  - https://fosstodon.org/@hacdias/115293814184767508
 tags:
   - identity
   - government
   - reflections
   - politics
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m22rovzvt22a
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya4e46624
+  - https://fosstodon.org/@hacdias/115293814184767508
 ---
 
 The, already twice fallen, Dutch government is still trying to get their coalition plans moving forward. Part of the agreement was [increasing](https://www.rijksoverheid.nl/actueel/nieuws/2025/09/26/kabinet-wil-naturalisatietermijn-verlengen-van-5-naar-10-jaar) the minimum period one needs to wait before being allowed to apply for naturalization, from 5 to 10 years.

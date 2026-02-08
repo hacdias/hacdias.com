@@ -1,8 +1,6 @@
 ---
 title: Recently in May '23
 date: 2023-05-31T20:22:16.622538726+02:00
-aliases:
-  - /2023/05/31/may-23/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - personal website
   - trains
   - museums
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspdj25x2k
+aliases:
+  - /2023/05/31/may-23/
 ---
 
 May is now approaching its end and the birds 🕊️ are chirping, filling the air

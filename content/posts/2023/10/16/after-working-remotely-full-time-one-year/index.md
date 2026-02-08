@@ -3,13 +3,14 @@ title: After Working Remotely Full Time for One Year
 date: 2023-10-16T07:50:45+02:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111243133168425921
 tags:
   - life
   - personal growth
   - reflections
   - work
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsprznx324
+  - https://fosstodon.org/@hacdias/111243133168425921
 ---
 
 My first full year mark working full time just passed by, and so did my first year working full time remotely. Since this is my first actual job, I can't really compare it with working in-person. Nevertheless, I want to share my experience, as well as some of the things I think might be the pros and the cons.

@@ -13,14 +13,14 @@ location:
   country: Netherlands
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/113974828855914705
-  - https://bsky.app/profile/hacdias.com/post/3me7snwl6mc26
 tags:
   - winter
   - snow
   - eindhoven
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7snwl6mc26
+  - https://fosstodon.org/@hacdias/113974828855914705
 ---
 
 Soon, when the weather starts warming up again, I’m surely going to miss this sort of days. To be honest, I already do as they’re not very common around here.

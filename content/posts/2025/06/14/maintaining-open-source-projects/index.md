@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7632pk23
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lrl3uuk5nj2v
-  - https://fosstodon.org/@hacdias/114682042082736759
-  - https://news.indieweb.org/en
 tags:
   - open source
   - reflections
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrl3uuk5nj2v
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7632pk23
+  - https://fosstodon.org/@hacdias/114682042082736759
+  - https://news.indieweb.org/en
 ---
 
 Last month was Maintainer Month, a month were open source software maintainers are celebrated. A lot of the software in the world - and thus society itself - runs on open source software, which is something not known to a lot of people. During this past month, I read a few posts here and there about people sharing their journey and experience as an open source maintainer, and today I wanted to give my take on it.

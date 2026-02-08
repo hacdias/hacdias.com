@@ -1,8 +1,6 @@
 ---
 title: Recently in February '22
 date: 2022-02-28T09:49:52.675741749+01:00
-aliases:
-  - /2022/02/28/february-22/
 categories:
   - writings
 tags:
@@ -11,6 +9,10 @@ tags:
   - travel
   - thesis
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnuyyny2b
+aliases:
+  - /2022/02/28/february-22/
 ---
 
 It is the end of February and it is unbelievable. It feels like 2022 started yesterday, yet here we are: in the end of one more month. I feel like I say this every month though.

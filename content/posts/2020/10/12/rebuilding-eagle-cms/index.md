@@ -8,6 +8,8 @@ tags:
   - go
   - meta
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfd6ri72y
 ---
 
 My website is growing, not in terms of views, because I'm not aware of that. Maybe I should add some non-intrusive analytics. Anyways, it's growing in terms of functionality. However, since I'm using a static website generator, it makes it complicated to add some interactive functionalities.

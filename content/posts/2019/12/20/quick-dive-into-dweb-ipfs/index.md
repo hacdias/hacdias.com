@@ -4,12 +4,13 @@ description: 'I gave my first talk ever on BarcampLX #4 and I gave an introducti
 date: 2019-12-20T15:00:00Z
 categories:
   - writings
-feedContentWarning: true
-syndication:
-  - https://www.youtube.com/watch?v=EmxUyuCD37Q
 tags:
   - ipfs
   - talk
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsenzd6a2h
+  - https://www.youtube.com/watch?v=EmxUyuCD37Q
+feedContentWarning: true
 ---
 
 A few days ago, on the 30th of November, I gave my first talk at [BarcampLX](https://www.meetup.com/BarcampLx/events/265593046/),

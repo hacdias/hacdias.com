@@ -9,6 +9,8 @@ tags:
   - theft
   - trains
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszbv6pc2e
 ---
 
 March had quite a lot of highlights for me, despite the [bike shituation](/2024/04/01/bike-thieves/). Let's take a look and recap what has happened the past month. I always have to go through my calendar and check stuff for these posts!

@@ -1,13 +1,15 @@
 ---
 title: A Syntax for Self-Tracking
 date: 2023-06-27T13:41:18.958524Z
-bookmark-of: https://www.gibney.org/a_syntax_for_self-tracking
 categories:
   - writings
 tags:
   - data
   - tracking
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspjccuz2d
+bookmark-of: https://www.gibney.org/a_syntax_for_self-tracking
 wa-bookmark-of: https://web.archive.org/web/20230627125125/https://www.gibney.org/a_syntax_for_self-tracking
 ---
 

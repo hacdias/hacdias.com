@@ -7,10 +7,10 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7s2fougz24
 tags:
   - animals
   - wildlife
   - nature
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s2fougz24
 ---

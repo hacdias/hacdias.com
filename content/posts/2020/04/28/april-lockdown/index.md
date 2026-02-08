@@ -35,9 +35,9 @@ photos:
 categories:
   - photos
 syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rr3prkr2u
-  - https://bsky.app/profile/hacdias.com/post/3me7rr4pnvo24
-  - https://bsky.app/profile/hacdias.com/post/3me7rr5m3e62e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rr3prkr2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rr4pnvo24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rr5m3e62e
 thumbnail: image:2020-04-28-hometown-02
 ---
 

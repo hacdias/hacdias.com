@@ -3,6 +3,12 @@ title: The Midnight Library
 date: 2022-02-03T22:32:25.035150056+01:00
 categories:
   - writings
+tags:
+  - fantasy
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnrpoln2e
 rating: 3
 read:
   author: Matt Haig
@@ -13,10 +19,6 @@ read:
   pages: 288
   publisher: Canongate
   uid: isbn:9781786892737
-tags:
-  - fantasy
-  - reviews
-  - book reviews
 ---
 
 "The Midnight Library" portrays a character, Nora, that after dying at exactly midnight, got transported to a library where time doesn't change. In this library, Nora has the opportunity to try all the different lives she would have had if she had made different decisions. To keep the level of spoilers to a minimum, I will not go over a lot more.

@@ -12,4 +12,6 @@ tags:
   - creative
   - drawing
   - procreate
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsewiy6f2s
 ---

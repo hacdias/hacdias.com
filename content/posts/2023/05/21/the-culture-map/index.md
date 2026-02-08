@@ -3,6 +3,13 @@ title: The Culture Map
 date: 2023-05-21T10:43:05.204685421+02:00
 categories:
   - writings
+tags:
+  - cultures
+  - personal growth
+  - reviews
+  - book reviews
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspcpfhv23
 rating: 5
 read:
   author: Erin Meyer
@@ -13,11 +20,6 @@ read:
   pages: 288
   publisher: Public Affairs Books
   uid: isbn:9781610392501
-tags:
-  - cultures
-  - personal growth
-  - reviews
-  - book reviews
 ---
 
 A few days ago I started reading this book by Erin Meyer, *The Culture Map*. And,

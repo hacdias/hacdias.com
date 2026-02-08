@@ -1,13 +1,15 @@
 ---
 title: Air Quality
 date: 2023-06-25T15:53:29.676425Z
-bookmark-of: https://intergalactic.systems/posts/post-1965946732.html
 categories:
   - writings
 tags:
   - apple
   - ios
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspifgru2e
+bookmark-of: https://intergalactic.systems/posts/post-1965946732.html
 wa-bookmark-of: https://web.archive.org/web/20230625140542/https://intergalactic.systems/posts/post-1965946732.html
 ---
 

@@ -3,13 +3,14 @@ title: Open Sourcering My Website
 date: 2023-11-18T11:17:52+01:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111431044010749799
 tags:
   - git
   - meta
   - open source
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspwp5zz2h
+  - https://fosstodon.org/@hacdias/111431044010749799
 thumbnail: image:2023-11-18-noisy-glow
 ---
 

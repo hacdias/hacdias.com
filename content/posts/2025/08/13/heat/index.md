@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ushjp2s
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lwbvnpyvqo2r
-  - https://fosstodon.org/@hacdias/115021625939189607
 tags:
   - summer
   - netherlands
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lwbvnpyvqo2r
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ushjp2s
+  - https://fosstodon.org/@hacdias/115021625939189607
 ---
 
 It is warm. Or, should I say, very hot? It is very hot 🔥! For the past few days, the maximum temperature outside has been hovering 30C in the south of the Netherlands. Here in Eindhoven we have, officially, a 80 to 100% chance of a heatwave. I think that's a *yes*.

@@ -7,6 +7,8 @@ categories:
 tags:
   - git
   - portugues
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdcpjww2d
 ---
 
 **Git** é um sistema de controlo de versão e gestão de código fonte extremamente utilizado em todos os cantos do mundo.

@@ -1,8 +1,6 @@
 ---
 title: Recently in May '22
 date: 2022-06-01T16:08:21.646581771+02:00
-aliases:
-  - /2022/06/01/may-22/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - travel
   - life
   - entertainment
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnzxt5w2s
+aliases:
+  - /2022/06/01/may-22/
 ---
 
 May was a loooong month in the sense that a lot happened. It is crazy to think that we're now starting the sixth month of 2022, which means that we're nearing the first semester of this year. It feels like it just started.

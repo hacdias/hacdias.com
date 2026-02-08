@@ -8,6 +8,8 @@ tags:
   - work
   - travel
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszmz22j2b
 ---
 
 Time flies and now it's June that is coming to an end. This was the first month, or at least first weeks, of summer. Despite all the rain and the mild weather that we've been having here in the Netherlands, it reached 30°C last week. A bit too warm if you ask me, especially when it comes to how houses are not prepared to deal with heat.

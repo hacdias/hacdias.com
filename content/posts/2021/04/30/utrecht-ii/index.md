@@ -22,15 +22,15 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rtxu52i24
-  - https://bsky.app/profile/hacdias.com/post/3me7rtyptvi2h
 tags:
   - utrecht
   - travel
   - netherlands
   - architecture
   - canals
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rtxu52i24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rtyptvi2h
 thumbnail: image:2021-04-30-utrecht-17
 ---
 

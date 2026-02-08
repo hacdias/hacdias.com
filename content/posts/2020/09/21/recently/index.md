@@ -9,6 +9,8 @@ tags:
   - portugal
   - work
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfavy3y26
 ---
 
 It's been a little bit over a month since I first arrived in Eindhoven. Since then, I have had time to explore the city, a bit of Rotterdam, and even find a [Portuguese store](https://pastelarialusa.nl) with "Pastéis de Nata" in Helmond! I have also had time to study, but had to decrease my time at Protocol Labs due to my studies. With all of this, I haven't had time to give much love to my blog.

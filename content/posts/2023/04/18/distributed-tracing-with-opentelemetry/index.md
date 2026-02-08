@@ -3,11 +3,12 @@ title: Distributed Tracing with Open Telemetry
 date: 2023-04-18T18:30:00+02:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/110224097052796658
 tags:
   - decentralization
   - telemetry
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp7557v23
+  - https://fosstodon.org/@hacdias/110224097052796658
 ---
 
 Recently, I have been working with Open Telemetry tracing at work, namely on adding

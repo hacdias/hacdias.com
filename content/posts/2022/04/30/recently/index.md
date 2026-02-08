@@ -1,8 +1,6 @@
 ---
 title: Recently in April '22
 date: 2022-04-30T21:32:54.755615862+02:00
-aliases:
-  - /2022/04/30/april-22/
 categories:
   - writings
 tags:
@@ -11,6 +9,10 @@ tags:
   - thesis
   - entertainment
   - portugal
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnz2ty52e
+aliases:
+  - /2022/04/30/april-22/
 ---
 
 April is quickly coming to an end and... what a month it was! From Portugal to London, from thesis progress to assisting in classes, from movies to musicals, April was a packed month!

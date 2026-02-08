@@ -3,13 +3,14 @@ title: Visiting The Spoorwegmuseum
 date: 2023-05-06T22:22:09+02:00
 categories:
   - writings
-feedContentWarning: true
-syndication:
-  - https://fosstodon.org/@hacdias/110323610429118818
 tags:
   - infrastructure
   - museums
   - trains
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspbtyjd24
+  - https://fosstodon.org/@hacdias/110323610429118818
+feedContentWarning: true
 thumbnail: image:2023-05-06-spoorwegmuseum
 ---
 

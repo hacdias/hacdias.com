@@ -13,12 +13,12 @@ location:
   country: Portugal
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/BoxIuVXAQVW/
-  - https://bsky.app/profile/hacdias.com/post/3me7rpabwer2g
 tags:
   - portugal
   - lisbon
   - stairs
   - architecture
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpabwer2g
+  - https://www.instagram.com/p/BoxIuVXAQVW/
 ---

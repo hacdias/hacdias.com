@@ -7,6 +7,8 @@ tags:
   - conference
   - fosdem
   - open source
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsz3yt2x2e
 thumbnail: image:2024-02-05-git
 ---
 

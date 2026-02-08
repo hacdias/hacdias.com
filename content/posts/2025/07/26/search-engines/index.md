@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ir4zd2e
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lutwto7ywc2x
-  - https://fosstodon.org/@hacdias/114918126429921635
 tags:
   - browsers
   - search engines
   - software
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lutwto7ywc2x
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ir4zd2e
+  - https://fosstodon.org/@hacdias/114918126429921635
 ---
 
 From February up until now, I have been using a paid search engine, Kagi. Two weeks ago, I canceled my subscription to try giving DuckDuckGo - or maybe another search engine - a go. However, I still find the search results quite lacking!

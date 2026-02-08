@@ -1,14 +1,16 @@
 ---
 title: Recently in July '23
 date: 2023-07-31T16:30:01+02:00
-aliases:
-  - /2023/07/31/july-23/
 categories:
   - writings
 tags:
   - now
   - travel
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspmsnlx2k
+aliases:
+  - /2023/07/31/july-23/
 ---
 
 July is now coming to an end, and so is summer in The Netherlands per the looks of it. It has been

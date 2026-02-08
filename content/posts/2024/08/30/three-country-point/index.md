@@ -5,6 +5,8 @@ categories:
   - writings
 tags:
   - travel
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszssgst26
 thumbnail: image:2024-08-30-drielandenpunt
 ---
 

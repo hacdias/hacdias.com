@@ -7,6 +7,8 @@ tags:
   - recipe
   - cake
   - cooking
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2p67xy26
 thumbnail: image:2025-10-26-bolo-de-cenoura
 ---
 

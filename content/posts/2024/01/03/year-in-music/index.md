@@ -5,6 +5,8 @@ categories:
   - writings
 tags:
   - year in music
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq626pa2b
 ---
 
 ![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")

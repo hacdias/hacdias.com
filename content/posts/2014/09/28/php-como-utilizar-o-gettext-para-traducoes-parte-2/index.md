@@ -7,6 +7,8 @@ categories:
 tags:
   - php
   - portugues
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdfwmuo2y
 ---
 
 Na [primeira parte](/2014/09/21/php-como-utilizar-o-gettext-para-traducoes) deste artigo, ensinámos a configurar o Gettext em conjunto com o PHP de forma a que hoje possamos criar as nossas primeiras traduções.

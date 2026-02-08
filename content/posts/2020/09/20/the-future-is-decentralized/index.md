@@ -6,6 +6,8 @@ categories:
   - writings
 tags:
   - web3
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfa7ce526
 ---
 
 We are living in an increasingly interconnected world. Today, 4.1 billion people have access to the internet. And with every passing year, millions more are born into the world as "digital natives" with digital technology and the World Wide Web at their fingertips from early childhood.

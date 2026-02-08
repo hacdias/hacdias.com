@@ -16,14 +16,14 @@ location:
   country: Netherlands
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/Cj2nT0QIjzW/
-  - https://bsky.app/profile/hacdias.com/post/3me7rxqshfg2s
 tags:
   - portugal
   - fog
   - ocean
   - travel
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxqshfg2s
+  - https://www.instagram.com/p/Cj2nT0QIjzW/
 thumbnail: image:2022-10-18-what-is-there-is-not-01
 ---
 

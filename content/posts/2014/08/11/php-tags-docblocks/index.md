@@ -7,6 +7,8 @@ categories:
 tags:
   - php
   - portugues
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsd52ctl2g
 ---
 
 Para quem desenvolve aplicações em PHP com outras pessoas ou mesmo sozinho, por vezes precisa de colocar **comentários** em vários locais para identificar os diversos processos que vão ocorrendo.

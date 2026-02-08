@@ -8,6 +8,8 @@ tags:
   - meta
   - reflections
   - year in popcorn
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseuyzoa26
 ---
 
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of

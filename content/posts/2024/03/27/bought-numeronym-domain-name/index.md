@@ -8,6 +8,8 @@ tags:
   - dns
   - personal website
   - meta
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsz7o5bc2e
 ---
 
 Some weeks ago, I read [a post](https://jlelse.blog/thoughts/2024/03/what-to-do-with-new-domain) from Jan-Luka's where he talked about what to do with his new domain. The most interesting part for me was not what to do with the domain, or the domain itself, but what the domain is: a numeronym.

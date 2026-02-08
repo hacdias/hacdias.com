@@ -14,12 +14,12 @@ location:
   country: Netherlands
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rwc3rvd23
 tags:
   - amsterdam
   - netherlands
   - urban
   - perspective
   - architecture
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rwc3rvd23
 ---

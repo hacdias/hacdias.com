@@ -1,14 +1,16 @@
 ---
 title: Recently in October '20
 date: 2020-11-01T09:00:00+01:00
-aliases:
-  - /2020/11/01/october-2020/
 categories:
   - writings
 tags:
   - now
   - life
   - portugal
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfid6kp2u
+aliases:
+  - /2020/11/01/october-2020/
 ---
 
 Here we are again, one more month has passed. Today - or tomorrow because I'm writing this yesetday - is the first day of November! So here comes another "Recently" post. Even though October was packed with joyfullness, happiness, adventures and some stress, this post will be rather short.

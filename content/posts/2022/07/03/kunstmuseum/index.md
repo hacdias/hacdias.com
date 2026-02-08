@@ -25,14 +25,14 @@ photos:
     height: 4000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rxaipwf2e
-  - https://bsky.app/profile/hacdias.com/post/3me7rxbdf7w2g
 tags:
   - museums
   - art
   - architecture
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxaipwf2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxbdf7w2g
 thumbnail: image:2022-07-03-kunstmuseum-01
 ---
 

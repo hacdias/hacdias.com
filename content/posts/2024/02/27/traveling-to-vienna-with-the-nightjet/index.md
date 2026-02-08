@@ -3,12 +3,13 @@ title: Traveling to Vienna With the Nightjet
 date: 2024-02-27T18:37:11+01:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/112004673006559756
 tags:
   - trains
   - transit
   - travel
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsz5fhpi26
+  - https://fosstodon.org/@hacdias/112004673006559756
 thumbnail: image:2024-02-27-nightjet
 ---
 

@@ -3,14 +3,14 @@ title: Home Barista Training
 date: 2024-10-08T07:51:14+02:00
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6w5lf72b
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3l5y6tws3eg24
-  - https://fosstodon.org/@hacdias/113270246172223056
 tags:
   - coffee
   - espresso coffee
   - workshops
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3l5y6tws3eg24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6w5lf72b
+  - https://fosstodon.org/@hacdias/113270246172223056
 thumbnail: image:2024-10-08-cupping
 ---
 

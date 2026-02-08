@@ -7,12 +7,12 @@ photos:
     height: 4000
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/114482601173705390
-  - https://bsky.app/profile/hacdias.com/post/3lqd7hyiyih2z
 tags:
   - travel
   - japan
   - architecture
   - cultures
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7hyiyih2z
+  - https://fosstodon.org/@hacdias/114482601173705390
 ---

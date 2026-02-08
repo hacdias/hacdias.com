@@ -9,13 +9,13 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby73ugbf2d
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lqftbiddfi2x
-  - https://fosstodon.org/@hacdias/114598119919028065
-  - https://news.indieweb.org/en
 tags:
   - meta
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqftbiddfi2x
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby73ugbf2d
+  - https://fosstodon.org/@hacdias/114598119919028065
+  - https://news.indieweb.org/en
 ---
 
 A [few months ago](/2025/03/03/recently/), I added the possibility to [POSSE](https://indieweb.org/POSSE "Publish (on your) Own Site, Syndicate Elsewhere") posts to Mastodon. Now, I just added Bluesky. At the time, I mentioned the API not being as simple, and that's why I put it off for so long. Looking in retrospect, it wasn't that bad, I think I was a bit intimidated.

@@ -1,8 +1,6 @@
 ---
 title: Recently in September '22
 date: 2022-10-01T17:21:59.519041956+02:00
-aliases:
-  - /2022/10/01/september-22/
 categories:
   - writings
 tags:
@@ -12,6 +10,10 @@ tags:
   - work
   - milestones
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsocyvm324
+aliases:
+  - /2022/10/01/september-22/
 ---
 
 September is finally gone and with it, my vacations. Now it's time to start another chapter of life and work full-time for the first time in my life. Here's some of the nice things that happened last month.

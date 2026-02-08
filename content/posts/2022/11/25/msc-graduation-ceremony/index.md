@@ -4,11 +4,13 @@ date: 2022-11-25T17:02:18+01:00
 lastmod: 2022-12-01T15:30:15.269071746+01:00
 categories:
   - writings
-feedContentWarning: true
 tags:
   - masters
   - milestones
   - university
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsolyyfq26
+feedContentWarning: true
 thumbnail: image:2022-11-25-msc-ceremony-group
 ---
 

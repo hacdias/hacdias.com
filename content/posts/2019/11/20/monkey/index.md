@@ -13,12 +13,12 @@ location:
   country: Costa Rica
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/B5EvNCulDKX/
-  - https://bsky.app/profile/hacdias.com/post/3me7rpxghui2d
 tags:
   - animals
   - wildlife
   - travel
   - costa rica
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpxghui2d
+  - https://www.instagram.com/p/B5EvNCulDKX/
 ---

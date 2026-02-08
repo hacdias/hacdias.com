@@ -16,14 +16,14 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/CsOqUS9oI8f/
-  - https://bsky.app/profile/hacdias.com/post/3me7rz3ltcg26
 tags:
   - travel
   - switzerland
   - trains
   - mountains
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rz3ltcg26
+  - https://www.instagram.com/p/CsOqUS9oI8f/
 thumbnail: image:2023-01-31-engelberg-01
 ---
 

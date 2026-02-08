@@ -3,10 +3,11 @@ title: I Made a Snowman
 date: 2024-01-05T19:36:20.048406809+01:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111704795704782212
 tags:
   - fun
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq7sulz2y
+  - https://fosstodon.org/@hacdias/111704795704782212
 thumbnail: image:2024-01-05-snowman-model
 ---
 

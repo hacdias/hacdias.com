@@ -1,8 +1,6 @@
 ---
 title: Recently in July '21
 date: 2021-08-01T07:37:52.811583889Z
-aliases:
-  - /2021/08/01/july-2021/
 categories:
   - writings
 tags:
@@ -11,6 +9,10 @@ tags:
   - portugal
   - university
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsne2y3a26
+aliases:
+  - /2021/08/01/july-2021/
 ---
 
 This year has been passing way too fast. In the beginning, I felt the urge to finish the academic year. Now, I'm only one month away to the beginning of my (hopefully) last year of university. Exciting projects may happen this year and I'm here for it.

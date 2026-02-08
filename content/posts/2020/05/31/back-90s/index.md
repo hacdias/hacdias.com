@@ -7,6 +7,8 @@ categories:
 tags:
   - meta
   - web3
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsf2zxt52s
 ---
 
 Over the past months, I have been reading more and more posts where people are [saying][faith-web] they miss the vibe of the [90s web][small-web]. Even though I wasn't alive to see how that web was, I still remember the website of my high school filled with overly saturated colors, GIFs and iframes. Not only that characterizes some of the pages of the early web, but also the pixelation and the footers saying to use X or Y browser.

@@ -7,6 +7,8 @@ categories:
 tags:
   - inspiration
   - quotes
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqfgfdq2g
 ---
 
 These are some quotes I used to have in the walls of my bedroom in 2016. Each quote occupied a full A4 page. At some point, I ended up removing them. Despite still enjoying them, the choice of having them in my bedroom's walls is dubious.

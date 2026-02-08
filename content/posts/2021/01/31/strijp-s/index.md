@@ -28,15 +28,15 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/COUnXtrrMQJ/
-  - https://bsky.app/profile/hacdias.com/post/3me7rsnpg7626
-  - https://bsky.app/profile/hacdias.com/post/3me7rsomdn726
 tags:
   - netherlands
   - eindhoven
   - architecture
   - urban
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rsnpg7626
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rsomdn726
+  - https://www.instagram.com/p/COUnXtrrMQJ/
 thumbnail: image:2021-01-31-strijps
 ---
 

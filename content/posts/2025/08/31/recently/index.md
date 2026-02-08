@@ -9,15 +9,15 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7zbgef26
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lxomhdlyaq2n
-  - https://fosstodon.org/@hacdias/115122309337271620
 tags:
   - now
   - entertainment
   - health
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lxomhdlyaq2n
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7zbgef26
+  - https://fosstodon.org/@hacdias/115122309337271620
 thumbnail: image:2025-08-31-recently
 ---
 

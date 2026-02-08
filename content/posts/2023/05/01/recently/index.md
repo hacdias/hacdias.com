@@ -1,8 +1,6 @@
 ---
 title: Recently in April '23
 date: 2023-05-01T13:35:00+02:00
-aliases:
-  - /2023/05/01/april-23/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - travel
   - personal website
   - work
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspassyn23
+aliases:
+  - /2023/05/01/april-23/
 ---
 
 It is, yet again, that time of the month to write a bit about what's been happening lately. April went by

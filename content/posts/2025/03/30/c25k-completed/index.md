@@ -9,11 +9,12 @@ location:
   country: Netherlands
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/114250327123733693
 tags:
   - running
   - sports
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2gxwc22e
+  - https://fosstodon.org/@hacdias/114250327123733693
 ---
 
 A few days ago, I competed the *Couch to 5K* program, which is a running program designed to slowly build one's up to run 30 minutes, or 5 kilometers. Depends a bit on whether you follow the timed or the metric program. I [decided](/2025/01/23/running/) to start it back in January, and now, two months later, I'm glad to say I completed it!

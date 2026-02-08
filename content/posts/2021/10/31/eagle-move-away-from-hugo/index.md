@@ -8,6 +8,8 @@ tags:
   - blog engine
   - meta
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsngzlln2k
 ---
 
 Today I have been thinking about my website. Mainly about ditching Hugo and moving to a completely custom and dynamic website. There are a few reasons about why I would like more flexibility. However, I don't know if it justifies the effort.

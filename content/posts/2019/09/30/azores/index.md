@@ -13,15 +13,15 @@ photos:
     height: 1068
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/B3Bx76glifj/
-  - https://bsky.app/profile/hacdias.com/post/3me7rpq7hbt2e
 tags:
   - portugal
   - travel
   - islands
   - panorama
   - landscape
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpq7hbt2e
+  - https://www.instagram.com/p/B3Bx76glifj/
 thumbnail: image:2019-09-30-azores-01
 ---
 

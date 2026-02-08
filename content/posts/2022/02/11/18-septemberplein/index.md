@@ -7,12 +7,12 @@ photos:
     height: 3000
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/CZ1mRGOopmx/
-  - https://bsky.app/profile/hacdias.com/post/3me7rw7izu52s
 tags:
   - eindhoven
   - urban
   - architecture
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rw7izu52s
+  - https://www.instagram.com/p/CZ1mRGOopmx/
 ---

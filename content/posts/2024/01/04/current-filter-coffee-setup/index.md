@@ -3,11 +3,12 @@ title: My Current Filter Coffee Setup
 date: 2024-01-04T16:25:00+01:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111699023046664660
 tags:
   - coffee
   - filter coffee
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq6sqxz26
+  - https://fosstodon.org/@hacdias/111699023046664660
 ---
 
 Doing a quick search on my website yields almost no results for "coffee". And I find it quite strange that I’ve never talked about coffee here, especially during the past two years. During the past two or three years, I went from basically not drinking any coffee to buying filter coffee equipment, to now owning an espresso machine. Today I want to focus on filter coffee.

@@ -7,13 +7,13 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rq5prge2s
 tags:
   - portugal
   - lisbon
   - travel
   - covid19
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rq5prge2s
 ---
 
 In February, there were a few cases of Covid-19 in Europe. Thus, my friends and I decided to do our routine small trip - we always do a trip between semesters - to Luxembourg 🇱🇺, Brussels 🇧🇪 and Amsterdam 🇳🇱.

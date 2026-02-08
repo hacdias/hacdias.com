@@ -12,6 +12,8 @@ categories:
 tags:
   - cooking
   - story time
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsoxctuj2e
 ---
 
 This is the story on how whipped cream and cocoa powder have stressed me over the last two weeks. I hope that that is a seemingly weird enough sentence to keep you on reading. Or not. If you don't want to keep going, it's also fine. But let me tell you more.

@@ -7,10 +7,10 @@ photos:
     height: 4500
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7s2lm2gi2e
 tags:
   - architecture
   - eindhoven
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s2lm2gi2e
 ---

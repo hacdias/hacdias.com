@@ -5,6 +5,8 @@ categories:
   - writings
 tags:
   - spotify wrapped
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2tg3is2e
 ---
 
 Yesterday, after publishing my year recap of [train rides](/2025/12/16/viaduct-wrapped/), I suddenly realized I had forgotten to post something here that I have been posting the [past years](/tags/spotify-wrapped/): my Spotify Wrapped 🎁. So, here it is. This year, it didn't come much as surprise, maybe because because my top artists usually shift a bit, but the big picture remains the same.

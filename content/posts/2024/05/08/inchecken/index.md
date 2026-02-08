@@ -6,6 +6,8 @@ categories:
 tags:
   - inchecken
   - nederlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszfonpu2q
 ---
 
 Welkom bij de zesde deel van deze serie: vergeet niet om in te checken. In deze serie probeer ik om een beetje over mijn leven in het Nederlands te schrijven. Vandaag wil ik over examens, boeken en Eurovisie hebben.

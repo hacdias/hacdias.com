@@ -9,6 +9,8 @@ tags:
   - christmas
   - entertainment
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt26jiof2g
 ---
 
 December is now coming to an end. It's time to recap about what has happened during this last month, before writing my final Year in Review. This month was quite of a rollercoaster, I visited a few places, met with people a few times and watched a lot of stuff.

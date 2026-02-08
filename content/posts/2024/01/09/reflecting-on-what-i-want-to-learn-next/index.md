@@ -7,6 +7,8 @@ tags:
   - personal growth
   - reflections
   - work
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqcz43j2y
 thumbnail: image:2024-01-09-summery-leaves
 ---
 

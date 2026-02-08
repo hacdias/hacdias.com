@@ -1,12 +1,14 @@
 ---
 title: Year in Music '21
 date: 2022-01-01T12:00:00+01:00
-aliases:
-  - /2022/01/01/year-in-music-21/
 categories:
   - writings
 tags:
   - year in music
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnljvih2g
+aliases:
+  - /2022/01/01/year-in-music-21/
 ---
 
 ![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")

@@ -20,13 +20,13 @@ photos:
     height: 4500
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7snqopml2d
 tags:
   - travel
   - germany
   - water
   - long exposure
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7snqopml2d
 thumbnail: image:2024-03-22-munchen-way
 ---
 

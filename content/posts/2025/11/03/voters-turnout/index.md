@@ -9,15 +9,15 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebyac2djs23
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3m4pzzsuvva2d
-  - https://fosstodon.org/@hacdias/115485804703774414
 tags:
   - reflection
   - politics
   - portugal
   - netherlands
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m4pzzsuvva2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebyac2djs23
+  - https://fosstodon.org/@hacdias/115485804703774414
 ---
 
 The Netherlands is amidst a turbulent election, where a progressive party and a far-right party are headed to have the same amount of seats in the parliament. And this is with around 17% of the votes each, it's not even a big majority. Nevertheless, I want to focus on voter turnout.

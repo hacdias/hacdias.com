@@ -28,15 +28,15 @@ photos:
     height: 1989
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/Cc2i0M2sAAf/
-  - https://bsky.app/profile/hacdias.com/post/3me7rworikn2e
-  - https://bsky.app/profile/hacdias.com/post/3me7rwplyqi2h
 tags:
   - london
   - travel
   - friends
   - museums
   - transit
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rworikn2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rwplyqi2h
+  - https://www.instagram.com/p/Cc2i0M2sAAf/
 thumbnail: image:2022-04-27-london-dara
 ---

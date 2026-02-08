@@ -9,15 +9,15 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6zronj2y
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lqd7gi3fxs2k
-  - https://fosstodon.org/@hacdias/114437014918774075
 tags:
   - now
   - travel
   - cultures
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7gi3fxs2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6zronj2y
+  - https://fosstodon.org/@hacdias/114437014918774075
 thumbnail: image:2025-05-02-recently-tokyo
 ---
 

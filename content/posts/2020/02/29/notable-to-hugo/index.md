@@ -8,6 +8,8 @@ tags:
   - meta
   - personal website
   - second brain
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsevoxhh2u
 ---
 
 For quite a few time, I used [Bear](https://bear.app/) as my go-to Notes application for two reasons: it was simple to use and the syntax was quite similar to markdown. However, it is not markdown and it does not support some things that'd like to see on such software: diagrams, mathematics, wiki-like links, etc.

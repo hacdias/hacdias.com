@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby72typm2u
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lqcyr7bytn23
-  - https://fosstodon.org/@hacdias/114591750868199511
 tags:
   - artificial intelligence
   - machine learning
   - tools
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqcyr7bytn23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby72typm2u
+  - https://fosstodon.org/@hacdias/114591750868199511
 ---
 
 Last September, I decided to finally give my shot at LLMs for code development. At that point, I had barely used any of the most known LLMs for a serious reason. It's not nine months later, and a lot has changed. With all of the news about Claude 4 and considering I have a work ChatGPT subscription, I decided to give LLMs another try.

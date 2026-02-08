@@ -1,17 +1,18 @@
 ---
 title: Recently in October '23
 date: 2023-10-31T15:46:51+01:00
-aliases:
-  - /2023/10/31/october-23/
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111330175944628078
 tags:
   - now
   - trains
   - life
   - people
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspudis626
+  - https://fosstodon.org/@hacdias/111330175944628078
+aliases:
+  - /2023/10/31/october-23/
 ---
 
 October just passed by. It's now full-on autumn and I just turned one year older. It was, overall, a great month. Friends have visited, both from abroad and local. Met with some people, steam train rides. Let's dive into it!

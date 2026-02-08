@@ -20,14 +20,14 @@ photos:
     height: 1688
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rzy3pyp2g
 tags:
   - travel
   - zurich
   - switzerland
   - architecture
   - urban
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzy3pyp2g
 thumbnail: image:2024-03-22-zurich
 ---
 

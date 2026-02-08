@@ -13,11 +13,11 @@ location:
   country: Portugal
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/Bg8qYE5gw0b/
-  - https://bsky.app/profile/hacdias.com/post/3me7rozabln2e
 tags:
   - portugal
   - art
   - street art
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rozabln2e
+  - https://www.instagram.com/p/Bg8qYE5gw0b/
 ---

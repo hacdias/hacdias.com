@@ -6,6 +6,8 @@ categories:
 tags:
   - go
   - web
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseewqto2e
 ---
 
 Go is a relatively new player in the world of programming, having been around since 2009. It was created by Google and many open-source contributors.

@@ -19,15 +19,15 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/CO6P31uLDLN/
-  - https://bsky.app/profile/hacdias.com/post/3me7rvhlyy626
-  - https://bsky.app/profile/hacdias.com/post/3me7rviil362g
 tags:
   - maastricht
   - travel
   - netherlands
   - architecture
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rvhlyy626
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rviil362g
+  - https://www.instagram.com/p/CO6P31uLDLN/
 thumbnail: image:2021-06-01-maastricht-07
 ---
 

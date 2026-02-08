@@ -1,12 +1,14 @@
 ---
 title: Reversing UK Mobile Rail Tickets
 date: 2023-02-07T14:05:28Z
-bookmark-of: https://eta.st/2023/01/31/rail-tickets.html
 categories:
   - writings
 tags:
   - transit
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsozmezi26
+bookmark-of: https://eta.st/2023/01/31/rail-tickets.html
 wa-bookmark-of: https://web.archive.org/web/20230522175452/https://eta.st/2023/01/31/rail-tickets.html
 ---
 

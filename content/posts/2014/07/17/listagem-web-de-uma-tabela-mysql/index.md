@@ -9,6 +9,8 @@ tags:
   - mysql
   - php
   - portugues
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medscwz27f26
 ---
 
 No [último artigo](/2014/07/16/selecionar-um-intervalo-de-linhas-em-mysql), falei sobre como selecionar um intervalo de linhas em MySQL e, no final, prometi escrever um tutorial que explicasse como criar um  pequeno sistema de navegação em PHP e HTML para listar as linhas contidas numa tabela de uma base de dados.

@@ -1,12 +1,14 @@
 ---
 title: Recently in May '21
 date: 2021-06-02T08:10:59.168283855Z
-aliases:
-  - /2021/06/02/may-2021/
 categories:
   - writings
 tags:
   - now
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsncp4hj2h
+aliases:
+  - /2021/06/02/may-2021/
 ---
 
 As I usually say, one more month has passed and we're already in June! If everything goes on well, this is the last month of classes and exams of my Master's first year.

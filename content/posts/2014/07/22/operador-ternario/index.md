@@ -7,6 +7,8 @@ categories:
 tags:
   - php
   - portugues
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medscykerg2y
 ---
 
 Recentemente, escrevi um artigo onde explicava como fazer uma [listagem web de uma tabela MySQL](/2014/07/17/listagem-web-de-uma-tabela-mysql) onde utilizei um operador que não tinha a certeza absoluta do que fazia e deixei a explicação um pouco vaga.

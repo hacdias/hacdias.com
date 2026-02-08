@@ -7,6 +7,8 @@ categories:
 tags:
   - go
   - reflections
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsesrlgu2e
 ---
 
 In 2015, I started a project called `http.hugo`, which was a just a simple plugin for [Caddy](https://caddyserver.com/), a really fast web server built with Go with automatic HTTPS.  At the time, the plugin was exclusive for Caddy and it provided a simple UI to edit your files in the server, rebuild the website and so on. They were just simple features.

@@ -7,10 +7,10 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/CFnOVZqlbKf/
-  - https://bsky.app/profile/hacdias.com/post/3me7rscveso2b
 tags:
   - nature
   - autumn
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rscveso2b
+  - https://www.instagram.com/p/CFnOVZqlbKf/
 ---

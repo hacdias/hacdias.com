@@ -7,6 +7,8 @@ categories:
 tags:
   - milestones
   - open source
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqm4l4z2d
 ---
 
 In July 2017, something unexpected happened: I opened the trending page on the GitHub interface, under the Go language and saw my own project there. [File Browser](https://github.com/filebrowser/filebrowser) - then still called File Manager -, was trending in first place under the Go language!

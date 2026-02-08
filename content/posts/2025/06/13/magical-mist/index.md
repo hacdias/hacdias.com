@@ -13,14 +13,14 @@ location:
   country: Portugal
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/114677742154775516
-  - https://bsky.app/profile/hacdias.com/post/3lrj6rfzlhf2v
 tags:
   - portugal
   - madeira
   - nature
   - travel
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrj6rfzlhf2v
+  - https://fosstodon.org/@hacdias/114677742154775516
 ---
 
 In the trails of the levadas of Madeira island, you sometimes come across amazingly magical mist.

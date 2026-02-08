@@ -8,6 +8,8 @@ tags:
   - indieweb
   - meta
   - personal website
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseqdjo72d
 ---
 
 This is going to be a quick post — I hope. 

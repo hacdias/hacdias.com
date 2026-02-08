@@ -1,11 +1,13 @@
 ---
 title: Fast Machines, Slow Machines
 date: 2023-06-28T14:05:02.757261Z
-bookmark-of: https://jmmv.dev/2023/06/fast-machines-slow-machines.html
 categories:
   - writings
 tags:
   - bookmarks
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspjyyhh2k
+bookmark-of: https://jmmv.dev/2023/06/fast-machines-slow-machines.html
 wa-bookmark-of: https://web.archive.org/web/20230628130123/https://jmmv.dev/2023/06/fast-machines-slow-machines.html
 ---
 

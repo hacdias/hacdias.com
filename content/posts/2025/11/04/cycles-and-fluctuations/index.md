@@ -9,17 +9,17 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meaxzjeviq23
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3m4ulttodjk2s
-  - https://fosstodon.org/@hacdias/115492193831359929
-  - https://news.indieweb.org/en
 tags:
   - indieweb
   - reflections
   - politics
   - netherlands
   - indieweb carnival
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m4ulttodjk2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meaxzjeviq23
+  - https://fosstodon.org/@hacdias/115492193831359929
+  - https://news.indieweb.org/en
 thumbnail: image:2025-11-04-cycles-and-fluctuations
 ---
 

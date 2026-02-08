@@ -7,11 +7,11 @@ photos:
     height: 3000
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lqd7jaxcof23
 tags:
   - travel
   - japan
   - architecture
   - cultures
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7jaxcof23
 ---

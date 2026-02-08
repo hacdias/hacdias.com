@@ -13,6 +13,8 @@ tags:
   - reflections
   - life
   - friends
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2jvoxv2g
 ---
 
 "Interacting with others is energizing". That was a thought I had around a week ago, and it has been stuck with me ever since. It probably doesn't come as a surprise to most - also not for me-, but I thought it'd be nice to expand a bit more on this thought.

@@ -9,15 +9,15 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7tnsjo2d
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lvvdsuf2bg2o
-  - https://fosstodon.org/@hacdias/114993348876419742
 tags:
   - coffee
   - espresso coffee
   - art
   - creative
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvvdsuf2bg2o
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7tnsjo2d
+  - https://fosstodon.org/@hacdias/114993348876419742
 thumbnail: image:2025-08-08-latte-art
 ---
 

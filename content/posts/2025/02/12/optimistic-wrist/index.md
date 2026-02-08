@@ -10,10 +10,11 @@ location:
   country: Netherlands
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/113992116470450705
 tags:
   - health
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2czpub2b
+  - https://fosstodon.org/@hacdias/113992116470450705
 ---
 
 Today I had the nth appointment for my wrist. Yesterday, we had done an echo just to make sure that there’s no damage or cysts. Fortunately, when it comes to those types of abnormalities, everything seems fine. The conclusion seems to be that my wrists are slightly more mobile than they should and therefore it’s just much easier to get an injury.  And that the tendons need to do a lot more work than they would usually need to…

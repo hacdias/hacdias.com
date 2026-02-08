@@ -9,6 +9,8 @@ tags:
   - art
   - creative
   - pixel art
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfwdbmv26
 ---
 
 Blinking lamps circa April 2019.

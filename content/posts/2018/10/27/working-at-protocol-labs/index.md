@@ -6,6 +6,8 @@ categories:
   - writings
 tags:
   - reflections
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsefpdzo2y
 ---
 
 I've been wanting to write about my journey at [Protocol Labs][4] for a while already. Well,

@@ -9,6 +9,8 @@ tags:
   - art
   - creative
   - pixel art
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnb7spy2u
 ---
 
 I've shared this piece in the past in a post where I talked about [trying pixel art](/2019/04/18/trying-pixel-art). However, I feel it deserves its own micro post. Hereby I present you the chemistry tower of my previous university in Portugal 🇵🇹!

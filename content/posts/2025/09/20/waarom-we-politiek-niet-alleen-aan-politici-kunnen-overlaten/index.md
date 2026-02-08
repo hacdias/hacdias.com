@@ -9,6 +9,16 @@ location:
   country: Netherlands
 categories:
   - writings
+tags:
+  - reviews
+  - nederlands
+  - politics
+  - book reviews
+  - society
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lzbdmtys7724
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya3e6br2k
+  - https://fosstodon.org/@hacdias/115236530157656715
 rating: 5
 read:
   author: Eva Rovers
@@ -19,16 +29,6 @@ read:
   pages: 214
   publisher: De Correspondent
   uid: isbn:9789493254671
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya3e6br2k
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lzbdmtys7724
-  - https://fosstodon.org/@hacdias/115236530157656715
-tags:
-  - reviews
-  - nederlands
-  - politics
-  - book reviews
-  - society
 ---
 
 Het wantrouwen in de politiek neemt toe, terwijl politiek een onderwerp blijft waarover veel mensen niet willen praten. Toen ik *Waarom We Politiek Niet Alleen Aan Politici Kunnen Overlaten* bij de boekenwinkel heb gezien, dacht ik: "oh, dat klinkt interessant".

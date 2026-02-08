@@ -1,8 +1,6 @@
 ---
 title: Recently in March '21
 date: 2021-04-01T07:30:00+02:00
-aliases:
-  - /2021/04/01/march-2021/
 categories:
   - writings
 tags:
@@ -10,6 +8,10 @@ tags:
   - university
   - life
   - school
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfrd5kk24
+aliases:
+  - /2021/04/01/march-2021/
 ---
 
 March has been an extremely busy month for me where a lot happened and, at the same time, nothing happened. I can't even believe that April is just starting!

@@ -21,15 +21,15 @@ location:
   country: United States
 categories:
   - photos
-syndication:
-  - https://fosstodon.org/@hacdias/115407272842935553
-  - https://www.instagram.com/p/DQCWMlejOLK/
-  - https://bsky.app/profile/hacdias.com/post/3m3n5zryqbb22
 tags:
   - travel
   - new york
   - urban
   - united states
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m3n5zryqbb22
+  - https://fosstodon.org/@hacdias/115407272842935553
+  - https://www.instagram.com/p/DQCWMlejOLK/
 thumbnail: image:2025-10-20-new-york-09
 ---
 

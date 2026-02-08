@@ -9,14 +9,14 @@ location:
   country: Netherlands
 categories:
   - writings
-standard-document: at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ohosc23
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3lvipskdies27
-  - https://fosstodon.org/@hacdias/114964919259561217
 tags:
   - indieweb
   - indieweb carnival
   - reflections
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvipskdies27
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ohosc23
+  - https://fosstodon.org/@hacdias/114964919259561217
 ---
 
 Colors. That is the topic of [this month's edition](https://marisabel.nl/public/blog/IndieWeb_Carnival_August_2025_:_Colors) of The IndieWeb Carnaval, brought to us by Marisabel. I do not think a lot about colors, and I must admit I felt a bit reticent on whether or not I should participate this month. However, my will to explore more topics brought me here, to the text editor.

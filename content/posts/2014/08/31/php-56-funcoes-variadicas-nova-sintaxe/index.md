@@ -7,6 +7,8 @@ categories:
 tags:
   - php
   - portugues
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdbwqlk24
 ---
 
 Há pouco mais de dois dias, foi lançada uma nova versão do PHP, [a versão 5.6.0](http://php.net/archive/2014.php#id2014-08-28-1) que trouxe inúmeras novidades e incompatibilidades com as versões anteriores [(ver aqui)](https://www.php.net/manual/pt_BR/migration56.php).

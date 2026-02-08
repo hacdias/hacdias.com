@@ -6,6 +6,8 @@ categories:
 tags:
   - trains
   - infrastructure
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2lio3q2k
 ---
 
 A few days ago, I was able to tick one more item from my [impossible list](/impossible-list/): traveling on the front cabin of a subway train. When I wrote that, I meant that I wanted to see the view from the conductor's point of view on a tunnel. Since I was in Copenhagen and they have a fully autonomous metro, I did not need to go far to complete that wish.

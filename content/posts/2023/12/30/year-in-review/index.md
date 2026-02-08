@@ -3,14 +3,15 @@ title: Year in Review '23
 date: 2023-12-30T12:05:34+01:00
 categories:
   - writings
-syndication:
-  - https://fosstodon.org/@hacdias/111669062516638383
 tags:
   - now
   - year in review
   - language learning
   - travel
   - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq4j3hi2g
+  - https://fosstodon.org/@hacdias/111669062516638383
 ---
 
 December is coming to an end, and with it so is 2023. In general, it's been quite an incredible year, marking my first year post-university, which always brings a lot of changes to one's life. Allied with living in another country, trying to learn the language, traveling, a lot has happened, and there is a lot to be grateful for.

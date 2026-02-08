@@ -7,6 +7,8 @@ tags:
   - nederlands
   - language learning
   - tips
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2j5m3f2q
 ---
 
 Vandaag wil ik een paar tips en hulpmiddelen met jullie delen die mij hebben geholpen bij het leren van Nederlands. Ik heb de afgelopen jaren hard gewerkt aan mijn Nederlands, en ik heb al [een tijdje geleden](/2024/07/23/dutch-b2/) mijn B2-diploma gehaald. Dus ik snap dat het niet altijd makkelijk is, en ik hoop dat dit artikel nuttig kan zijn.

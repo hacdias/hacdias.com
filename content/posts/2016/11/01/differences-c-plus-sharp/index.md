@@ -8,6 +8,8 @@ tags:
   - computers
   - cpp
   - csharp
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medse4tind2g
 ---
 
 There is one thing in common with the languages C, C++ and

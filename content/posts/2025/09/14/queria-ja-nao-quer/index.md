@@ -3,6 +3,14 @@ title: Queria? Já Não Quer?
 date: 2025-09-14T09:00:06+02:00
 categories:
   - writings
+tags:
+  - reviews
+  - book reviews
+  - portugues
+  - educational
+  - language
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2mcjat2d
 rating: 5
 read:
   author: Marco Neves
@@ -13,12 +21,6 @@ read:
   pages: 160
   publisher: Editora Guerra & Paz
   uid: isbn:9789895761333
-tags:
-  - reviews
-  - book reviews
-  - portugues
-  - educational
-  - language
 ---
 
 Nos últimos meses, tenho tido um maior interesse na língua, quer seja ela a Língua Holandesa, a Língua Inglesa, ou a Língua Portuguesa. Já há tempos que sigo Marco Neves no Instagram, e os seus vídeos trazem sempre múltiplos *fun facts* sobre origens, mitos e outras pequenas coisas. Quando vi que tinha escrito este livro, pensei: tenho que o ler.

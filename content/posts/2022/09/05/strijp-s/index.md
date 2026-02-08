@@ -13,14 +13,14 @@ photos:
     height: 2048
 categories:
   - photos
-syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7rxmrr3b2d
 tags:
   - netherlands
   - eindhoven
   - architecture
   - urban
   - design
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxmrr3b2d
 thumbnail: image:2022-09-05-strijp-s-01
 ---
 

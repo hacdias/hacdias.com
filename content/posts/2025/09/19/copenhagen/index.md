@@ -17,7 +17,7 @@ location:
 categories:
   - photos
 syndication:
-  - https://bsky.app/profile/hacdias.com/post/3me7s3q7xhg26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s3q7xhg26
 ---
 
 <style>

@@ -31,17 +31,17 @@ photos:
     height: 2000
 categories:
   - photos
-syndication:
-  - https://www.instagram.com/p/Cj5DHBpIARA/
-  - https://bsky.app/profile/hacdias.com/post/3me7ry67hnf2k
-  - https://bsky.app/profile/hacdias.com/post/3me7ry745hw26
-  - https://bsky.app/profile/hacdias.com/post/3me7ry7syhc2q
 tags:
   - leiden
   - travel
   - netherlands
   - architecture
   - canals
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7ry67hnf2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7ry745hw26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7ry7syhc2q
+  - https://www.instagram.com/p/Cj5DHBpIARA/
 thumbnail: image:2022-10-19-capturing-leiden-04
 ---
 
