@@ -4,8 +4,6 @@ description: After updating the structure of my URLs, I now needed to start enab
 date: 2019-12-30T23:50:00Z
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1211797283525812224
 tags:
   - indieweb
   - meta

@@ -14,7 +14,6 @@ photos:
 categories:
   - photos
 syndication:
-  - https://twitter.com/hacdias/status/1566846804183900162
   - https://bsky.app/profile/hacdias.com/post/3me7rxmrr3b2d
 tags:
   - netherlands

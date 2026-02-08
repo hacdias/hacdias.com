@@ -8,8 +8,6 @@ photos:
     height: 1040
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1247801115342540800
 tags:
   - art
   - creative

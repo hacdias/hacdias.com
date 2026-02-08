@@ -44,7 +44,6 @@ photos:
 categories:
   - photos
 syndication:
-  - https://twitter.com/hacdias/status/1508095378222166021
   - https://bsky.app/profile/hacdias.com/post/3me7rdoajry2d
   - https://bsky.app/profile/hacdias.com/post/3me7rdozsxh2b
   - https://bsky.app/profile/hacdias.com/post/3me7rdqixts2e

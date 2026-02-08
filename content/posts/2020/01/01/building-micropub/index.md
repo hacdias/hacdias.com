@@ -3,8 +3,6 @@ title: Adding Support for Micropub Endpoint
 date: 2020-01-01T23:30:00Z
 categories:
   - writings
-syndication:
-  - https://twitter.com/hacdias/status/1212517049035038720
 tags:
   - indieweb
   - meta
@@ -62,4 +60,4 @@ Or, another interesting way of putting things, build JSON indexes that could be 
 
 - - - -
 
-Well, these are just some problems I need to solve before continuing and I would personally love your take on them. What should I do in your opinion? Please [lemme know](https://twitter.com/hacdias/status/1212517049035038720)!
+Well, these are just some problems I need to solve before continuing and I would personally love your take on them. What should I do in your opinion? Please lemme know!
