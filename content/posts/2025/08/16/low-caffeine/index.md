@@ -19,7 +19,7 @@ syndication:
 thumbnail: image:2025-08-08-latte-art
 ---
 
-Recently, while reading issue 37 of the [Standart magazine](TODO), I discovered the existence of naturally occurring low caffeine coffee. That immediately sparkled some interest in me, since I enjoy drinking coffee, but I don't want to drink too much caffeine.
+Recently, while reading issue 37 of the [Standart magazine](https://standartmag.com/), I discovered the existence of naturally occurring low caffeine coffee. That immediately sparkled some interest in me, since I enjoy drinking coffee, but I don't want to drink too much caffeine.
 
 <!--more-->
 
