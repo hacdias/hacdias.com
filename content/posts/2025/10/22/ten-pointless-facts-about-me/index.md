@@ -27,7 +27,7 @@ A few days ago I read [Kev's post](https://kevquirk.com/blog/ten-pointless-facts
 
 **Footwear preference?** I'm not sure if I have strong preferences in terms of shoes. Inside, I walk with just socks on, so... no shoes. Outside, I mostly wear sneakers, but I've recently got some zero-drop shoes which I've been trying to get used to.
 
-**Favorite dessert?** I really enjoy [*Arroz Doce 🍚*](2023/01/28/when-the-rice-isnt-right/), which is a Portuguese rice pudding. It's probably one of my favorites, but there's many others: Bolo de Bolacha, Pastel de Nata, etc.
+**Favorite dessert?** I really enjoy [*Arroz Doce 🍚*](/2023/01/28/when-the-rice-isnt-right/), which is a Portuguese rice pudding. It's probably one of my favorites, but there's many others: Bolo de Bolacha, Pastel de Nata, etc.
 
 **The first thing you do when you wake up?** Get up and go to the toilet and wash my face.
 
