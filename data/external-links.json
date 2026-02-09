@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 88,
+    "count": 90,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -338,6 +338,14 @@
       {
         "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
         "targetUrl": "https://github.com/hacdias/dotfiles"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://github.com/hacdias/eagle/tree/main/plugins/atproto"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://github.com/lexicon-community"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -1414,32 +1422,6 @@
     ]
   },
   {
-    "domain": "twitter.com",
-    "count": 5,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
-        "targetUrl": "https://twitter.com/malikpiara"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/04/18/trying-pixel-art/",
-        "targetUrl": "https://twitter.com/hacdias/status/1118443012420452353?"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://twitter.com/hacdias/status/1212517049035038720"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/01/recently/",
-        "targetUrl": "https://twitter.com/adlrocha"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
-        "targetUrl": "https://twitter.com/mxbck/status/1590809274808147990"
-      }
-    ]
-  },
-  {
     "domain": "w3.org",
     "count": 5,
     "links": [
@@ -1740,6 +1722,24 @@
       {
         "sourceUrl": "https://hacdias.com/2025/12/13/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://help.bosch-ebike.com/ca/help-center/ebw-flowapp-activitytracking/asset-asf-01050"
+      }
+    ]
+  },
+  {
+    "domain": "bsky.app",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/10/27/internet-phone-book/",
+        "targetUrl": "https://bsky.app/profile/kevin.woblick.com/post/3lqjdsheq7227"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://bsky.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/contact/",
+        "targetUrl": "https://bsky.app/profile/hacdias.com"
       }
     ]
   },
@@ -2152,20 +2152,6 @@
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
         "targetUrl": "https://austinhenley.com/blog.html"
-      }
-    ]
-  },
-  {
-    "domain": "bsky.app",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/10/27/internet-phone-book/",
-        "targetUrl": "https://bsky.app/profile/kevin.woblick.com/post/3lqjdsheq7227"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://bsky.app/profile/hacdias.com"
       }
     ]
   },
@@ -2688,6 +2674,20 @@
     ]
   },
   {
+    "domain": "tangled.org",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://tangled.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://tangled.org/"
+      }
+    ]
+  },
+  {
     "domain": "testground.ai",
     "count": 2,
     "links": [
@@ -2926,6 +2926,16 @@
     ]
   },
   {
+    "domain": "atproto.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://atproto.com/articles/atproto-for-distsys-engineers"
+      }
+    ]
+  },
+  {
     "domain": "barryfrost.com",
     "count": 1,
     "links": [
@@ -3042,6 +3052,16 @@
       {
         "sourceUrl": "https://hacdias.com/2024/12/20/accent-guesser/",
         "targetUrl": "https://start.boldvoice.com/accent-guesser"
+      }
+    ]
+  },
+  {
+    "domain": "bookhive.buzz",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://bookhive.buzz/"
       }
     ]
   },
@@ -3492,6 +3512,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/11/25/msc-graduation-ceremony/",
         "targetUrl": "https://www.flickr.com/photos/129818819@N03/albums/72177720303968156"
+      }
+    ]
+  },
+  {
+    "domain": "flushes.app",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://flushes.app/"
       }
     ]
   },
@@ -3986,6 +4016,16 @@
     ]
   },
   {
+    "domain": "leaflet.pub",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://leaflet.pub/p/hacdias.com"
+      }
+    ]
+  },
+  {
     "domain": "lipsum.com",
     "count": 1,
     "links": [
@@ -4042,6 +4082,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/02/01/recently/",
         "targetUrl": "https://www.legislativas2022.mai.gov.pt/"
+      }
+    ]
+  },
+  {
+    "domain": "margin.at",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://margin.at/"
       }
     ]
   },
@@ -4326,6 +4376,16 @@
     ]
   },
   {
+    "domain": "overreacted.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://overreacted.io/open-social/"
+      }
+    ]
+  },
+  {
     "domain": "owncloud.org",
     "count": 1,
     "links": [
@@ -4476,6 +4536,16 @@
     ]
   },
   {
+    "domain": "popfeed.social",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://popfeed.social/"
+      }
+    ]
+  },
+  {
     "domain": "porkbun.com",
     "count": 1,
     "links": [
@@ -4596,6 +4666,16 @@
     ]
   },
   {
+    "domain": "rocksky.app",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://rocksky.app/"
+      }
+    ]
+  },
+  {
     "domain": "rscott.org",
     "count": 1,
     "links": [
@@ -4622,6 +4702,16 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/01/recently/",
         "targetUrl": "https://www.sba-research.org/"
+      }
+    ]
+  },
+  {
+    "domain": "semble.so",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://semble.so/"
       }
     ]
   },
@@ -4816,16 +4906,6 @@
     ]
   },
   {
-    "domain": "tangled.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
-        "targetUrl": "https://tangled.org/"
-      }
-    ]
-  },
-  {
     "domain": "tantek.com",
     "count": 1,
     "links": [
@@ -4842,6 +4922,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
         "targetUrl": "https://tchncs.de/"
+      }
+    ]
+  },
+  {
+    "domain": "teal.fm",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://teal.fm/"
       }
     ]
   },
