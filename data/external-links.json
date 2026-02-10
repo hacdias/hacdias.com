@@ -367,7 +367,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 84,
+    "count": 63,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -446,46 +446,6 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Koch_snowflake"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/01/17/o-ano-da-morte-de-ricardo-reis/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789720048820"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/22/the-house-in-the-cerulean-sea/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529087949"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/26/before-the-coffee-gets-cold/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529029581"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/01/30/red-white-royal-blue/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781250316776"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/02/nightfall-and-other-stories/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780593357460"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/03/the-midnight-library/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781786892737"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/08/this-is-how-you-lose-the-time-war/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529405231"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/17/under-the-whispering-door/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529087987"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/02/20/strange-case-of-dr-jekyll-and-mr-hyde-and-other-stories/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781847493781"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/02/tales-from-the-cafe/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529050868"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
         "targetUrl": "https://en.wikipedia.org/wiki/Parallax"
       },
@@ -502,20 +462,8 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Machine-readable_passport"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/12/25/the-island-of-missing-trees/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780241988725"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2023/02/24/writing-gratitude-journal/",
         "targetUrl": "https://en.wikipedia.org/wiki/Gratitude_journal"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/05/21/the-culture-map/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781610392501"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/12/the-creative-programmer/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781633439054"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/06/24/procedural-map-generation-with-noise/",
@@ -542,16 +490,12 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Harz_Railway"
       },
       {
-        "sourceUrl": "https://hacdias.com/2023/08/23/if-on-a-winters-night-a-traveler/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780099430896"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
         "targetUrl": "https://en.wikipedia.org/wiki/Well-known_URI"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/08/31/recently/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Dinner_Train_%28Netherlands%29"
+        "targetUrl": "https://en.wikipedia.org/wiki/Dinner_Train_(Netherlands)"
       },
       {
         "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
@@ -575,7 +519,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Honeypot_%28computing%29"
+        "targetUrl": "https://en.wikipedia.org/wiki/Honeypot_(computing)"
       },
       {
         "sourceUrl": "https://hacdias.com/2024/05/31/recently/",
@@ -630,10 +574,6 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Blue_zone"
       },
       {
-        "sourceUrl": "https://hacdias.com/2024/10/21/ikigai/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781786330895"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
         "targetUrl": "https://en.wikipedia.org/wiki/Z_shell"
       },
@@ -650,40 +590,16 @@
         "targetUrl": "https://en.wikipedia.org/wiki/Speculative_fiction"
       },
       {
-        "sourceUrl": "https://hacdias.com/2025/07/19/piranesi/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781526622440"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
         "targetUrl": "https://en.wikipedia.org/wiki/GeoCities"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/29/the-ministry-of-time/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781399726375"
       },
       {
         "sourceUrl": "https://hacdias.com/2025/07/31/standart/",
         "targetUrl": "https://en.wikipedia.org/wiki/Morgan_Eckroth"
       },
       {
-        "sourceUrl": "https://hacdias.com/2025/08/03/taal-is-zeg-maar-echt-mijn-ding/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789045051925"
-      },
-      {
         "sourceUrl": "https://hacdias.com/2025/09/02/surrounded-by-idiots/",
         "targetUrl": "https://en.wikipedia.org/wiki/DISC_assessment"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/09/02/surrounded-by-idiots/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781785042188"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/09/14/queria-ja-nao-quer/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789895761333"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/09/20/waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Special:BookSources?isbn=9789493254671"
       },
       {
         "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
@@ -699,7 +615,7 @@
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
-        "targetUrl": "https://en.wikipedia.org/wiki/Dinner_Train_%28Netherlands%29"
+        "targetUrl": "https://en.wikipedia.org/wiki/Dinner_Train_(Netherlands)"
       },
       {
         "sourceUrl": "https://hacdias.com/uses/",
@@ -709,7 +625,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 25,
+    "count": 24,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -804,10 +720,6 @@
         "targetUrl": "https://indieweb.org/"
       },
       {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://indieweb.org/this-week"
-      },
-      {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://indieweb.org/elsewhere"
       }
@@ -868,64 +780,6 @@
       {
         "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
         "targetUrl": "https://fosdem.org/2026/schedule/event/W8CJXD-dasl/"
-      }
-    ]
-  },
-  {
-    "domain": "jim-nielsen.com",
-    "count": 13,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/18/website-fidelity/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity-browser/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/verified-personal-website/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/30/recently/",
-        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/28/recently/",
-        "targetUrl": "https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://blog.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://notes.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
-        "targetUrl": "https://blog.jim-nielsen.com/2023/well-known-avatar/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/browser-level-color-scheme-preference/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/06/01/recently/",
-        "targetUrl": "https://blog.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://blog.jim-nielsen.com"
       }
     ]
   },
@@ -1046,8 +900,62 @@
     ]
   },
   {
-    "domain": "seblog.nl",
+    "domain": "jim-nielsen.com",
     "count": 12,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/18/website-fidelity/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity-browser/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/verified-personal-website/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/30/recently/",
+        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/28/recently/",
+        "targetUrl": "https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://blog.jim-nielsen.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://notes.jim-nielsen.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://blog.jim-nielsen.com/2023/well-known-avatar/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/browser-level-color-scheme-preference/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/06/01/recently/",
+        "targetUrl": "https://blog.jim-nielsen.com/"
+      }
+    ]
+  },
+  {
+    "domain": "seblog.nl",
+    "count": 11,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
@@ -1092,10 +1000,6 @@
       {
         "sourceUrl": "https://hacdias.com/2025/11/06/nederlands-leerreis/",
         "targetUrl": "https://seblog.nl/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://seblog.nl/feed"
       }
     ]
   },
@@ -1207,7 +1111,7 @@
   },
   {
     "domain": "kevquirk.com",
-    "count": 6,
+    "count": 5,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
@@ -1228,118 +1132,6 @@
       {
         "sourceUrl": "https://hacdias.com/2025/10/22/ten-pointless-facts-about-me/",
         "targetUrl": "https://kevquirk.com/blog/ten-pointless-facts-about-me/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://kevquirk.com"
-      }
-    ]
-  },
-  {
-    "domain": "timharek.no",
-    "count": 6,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/30/recently/",
-        "targetUrl": "https://timharek.no/logs/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/31/recently/",
-        "targetUrl": "https://timharek.no/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://timharek.no/blog/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://timharek.no/logs/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
-        "targetUrl": "https://timharek.no/blog/i-added-well-known-urls-to-my-website"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://timharek.no"
-      }
-    ]
-  },
-  {
-    "domain": "jlelse.blog",
-    "count": 5,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
-        "targetUrl": "https://jlelse.blog/thoughts/2020/07/own-cms"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
-        "targetUrl": "https://jlelse.blog/map"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/03/27/bought-numeronym-domain-name/",
-        "targetUrl": "https://jlelse.blog/thoughts/2024/03/what-to-do-with-new-domain"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
-        "targetUrl": "https://jlelse.blog/thoughts/2024/10/multilingualism"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://jlelse.blog/"
-      }
-    ]
-  },
-  {
-    "domain": "mew.tv",
-    "count": 5,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/07/31/recently/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/07/31/recently/",
-        "targetUrl": "https://mew.tv/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://mew.tv/"
-      }
-    ]
-  },
-  {
-    "domain": "miniflux.app",
-    "count": 5,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://miniflux.app/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
-        "targetUrl": "https://miniflux.app/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://miniflux.app/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://miniflux.app"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://miniflux.app/"
       }
     ]
   },
@@ -1370,32 +1162,6 @@
     ]
   },
   {
-    "domain": "rknight.me",
-    "count": 5,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/08/app-defaults/",
-        "targetUrl": "https://defaults.rknight.me/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
-        "targetUrl": "https://defaults.rknight.me/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
-        "targetUrl": "https://rknight.me/blog/app-defaults-2026/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://rknight.me/subscribe/posts/atom.xml"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://defaults.rknight.me/"
-      }
-    ]
-  },
-  {
     "domain": "spotify.com",
     "count": 5,
     "links": [
@@ -1422,6 +1188,32 @@
     ]
   },
   {
+    "domain": "timharek.no",
+    "count": 5,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/30/recently/",
+        "targetUrl": "https://timharek.no/logs/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/01/31/recently/",
+        "targetUrl": "https://timharek.no/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://timharek.no/blog/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://timharek.no/logs/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://timharek.no/blog/i-added-well-known-urls-to-my-website"
+      }
+    ]
+  },
+  {
     "domain": "w3.org",
     "count": 5,
     "links": [
@@ -1444,50 +1236,6 @@
       {
         "sourceUrl": "https://hacdias.com/2024/10/23/styled-rss-feeds/",
         "targetUrl": "https://www.w3.org/Style/XSL/WhatIsXSL.html"
-      }
-    ]
-  },
-  {
-    "domain": "aaronparecki.com",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://aaronparecki.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
-        "targetUrl": "https://aaronparecki.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
-        "targetUrl": "http://aaronparecki.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://aaronparecki.com/"
-      }
-    ]
-  },
-  {
-    "domain": "brainbaking.com",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
-        "targetUrl": "https://brainbaking.com/post/2022/11/governmental-infrastructure-website-design-mistakes/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/05/31/recently/",
-        "targetUrl": "https://brainbaking.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/12/the-creative-programmer/",
-        "targetUrl": "https://brainbaking.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://brainbaking.com/"
       }
     ]
   },
@@ -1536,6 +1284,28 @@
     ]
   },
   {
+    "domain": "jlelse.blog",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
+        "targetUrl": "https://jlelse.blog/thoughts/2020/07/own-cms"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/08/14/should-every-update-be-a-post/",
+        "targetUrl": "https://jlelse.blog/map"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/03/27/bought-numeronym-domain-name/",
+        "targetUrl": "https://jlelse.blog/thoughts/2024/03/what-to-do-with-new-domain"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://jlelse.blog/thoughts/2024/10/multilingualism"
+      }
+    ]
+  },
+  {
     "domain": "linkedin.com",
     "count": 4,
     "links": [
@@ -1558,24 +1328,46 @@
     ]
   },
   {
-    "domain": "manuelmoreale.com",
+    "domain": "mew.tv",
     "count": 4,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
-        "targetUrl": "https://manuelmoreale.com/guestbook"
+        "sourceUrl": "https://hacdias.com/2022/12/26/personal-websites-and-online-identities/",
+        "targetUrl": "https://mew.tv/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
-        "targetUrl": "https://manuelmoreale.com/indieweb-carnival-multilingualism-in-a-global-web"
+        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
+        "targetUrl": "https://mew.tv/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2025/10/22/ten-pointless-facts-about-me/",
-        "targetUrl": "https://manuelmoreale.com/thoughts/10-pointless-facts-about-me"
+        "sourceUrl": "https://hacdias.com/2023/07/31/recently/",
+        "targetUrl": "https://mew.tv/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/07/31/recently/",
+        "targetUrl": "https://mew.tv/"
+      }
+    ]
+  },
+  {
+    "domain": "miniflux.app",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://miniflux.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://miniflux.app/"
       },
       {
         "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://manuelmoreale.com"
+        "targetUrl": "https://miniflux.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://miniflux.app/"
       }
     ]
   },
@@ -1646,6 +1438,28 @@
     ]
   },
   {
+    "domain": "rknight.me",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/08/app-defaults/",
+        "targetUrl": "https://defaults.rknight.me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/12/31/app-defaults/",
+        "targetUrl": "https://defaults.rknight.me/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
+        "targetUrl": "https://rknight.me/blog/app-defaults-2026/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://defaults.rknight.me/"
+      }
+    ]
+  },
+  {
     "domain": "sapo.pt",
     "count": 4,
     "links": [
@@ -1708,6 +1522,24 @@
     ]
   },
   {
+    "domain": "aaronparecki.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://aaronparecki.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
+        "targetUrl": "https://aaronparecki.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
+        "targetUrl": "http://aaronparecki.com/"
+      }
+    ]
+  },
+  {
     "domain": "bosch-ebike.com",
     "count": 3,
     "links": [
@@ -1722,6 +1554,24 @@
       {
         "sourceUrl": "https://hacdias.com/2025/12/13/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://help.bosch-ebike.com/ca/help-center/ebw-flowapp-activitytracking/asset-asf-01050"
+      }
+    ]
+  },
+  {
+    "domain": "brainbaking.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/08/issues-with-digid-as-foreigner/",
+        "targetUrl": "https://brainbaking.com/post/2022/11/governmental-infrastructure-website-design-mistakes/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/05/31/recently/",
+        "targetUrl": "https://brainbaking.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/12/the-creative-programmer/",
+        "targetUrl": "https://brainbaking.com/"
       }
     ]
   },
@@ -1888,20 +1738,20 @@
     ]
   },
   {
-    "domain": "macwright.com",
+    "domain": "manuelmoreale.com",
     "count": 3,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2022/12/09/playing-with-activitypub/",
-        "targetUrl": "https://macwright.com/2022/12/09/activitypub.html"
+        "sourceUrl": "https://hacdias.com/2024/05/10/mitigating-guestbook-spam/",
+        "targetUrl": "https://manuelmoreale.com/guestbook"
       },
       {
-        "sourceUrl": "https://hacdias.com/2024/01/02/moving-to-fastmail/",
-        "targetUrl": "https://macwright.com/2023/09/24/masked-email"
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://manuelmoreale.com/indieweb-carnival-multilingualism-in-a-global-web"
       },
       {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://macwright.com"
+        "sourceUrl": "https://hacdias.com/2025/10/22/ten-pointless-facts-about-me/",
+        "targetUrl": "https://manuelmoreale.com/thoughts/10-pointless-facts-about-me"
       }
     ]
   },
@@ -2032,24 +1882,6 @@
     ]
   },
   {
-    "domain": "substack.com",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
-        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-what-the-next-generation"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
-        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-my-vision-for-a-new-internet"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://pbanos.substack.com"
-      }
-    ]
-  },
-  {
     "domain": "vim.org",
     "count": 3,
     "links": [
@@ -2124,48 +1956,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
         "targetUrl": "https://trakt.docs.apiary.io/"
-      }
-    ]
-  },
-  {
-    "domain": "ar.al",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
-        "targetUrl": "https://ar.al/2020/08/07/what-is-the-small-web/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://ar.al/"
-      }
-    ]
-  },
-  {
-    "domain": "austinhenley.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/23/software-for-fun/",
-        "targetUrl": "https://austinhenley.com/blog/programmingasplay.html"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://austinhenley.com/blog.html"
-      }
-    ]
-  },
-  {
-    "domain": "dame.is",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
-        "targetUrl": "https://dame.is"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://dame.is"
       }
     ]
   },
@@ -2380,20 +2170,6 @@
     ]
   },
   {
-    "domain": "jamesg.blog",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/30/spotify-wrapped/",
-        "targetUrl": "https://jamesg.blog/2023/11/29/spotify-wrapped/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://jamesg.blog/"
-      }
-    ]
-  },
-  {
     "domain": "jlel.se",
     "count": 2,
     "links": [
@@ -2404,20 +2180,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/02/04/is-it-time-build-cms/",
         "targetUrl": "https://git.jlel.se/jlelse/GoBlog"
-      }
-    ]
-  },
-  {
-    "domain": "jonworth.eu",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
-        "targetUrl": "https://jonworth.eu/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://jonworth.eu/"
       }
     ]
   },
@@ -2450,6 +2212,20 @@
     ]
   },
   {
+    "domain": "macwright.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/09/playing-with-activitypub/",
+        "targetUrl": "https://macwright.com/2022/12/09/activitypub.html"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/02/moving-to-fastmail/",
+        "targetUrl": "https://macwright.com/2023/09/24/masked-email"
+      }
+    ]
+  },
+  {
     "domain": "macwright.org",
     "count": 2,
     "links": [
@@ -2460,6 +2236,20 @@
       {
         "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
         "targetUrl": "https://macwright.org/2020/05/10/spa-fatigue.html"
+      }
+    ]
+  },
+  {
+    "domain": "margin.at",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://margin.at/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/09/bookmarking-the-web/",
+        "targetUrl": "https://margin.at"
       }
     ]
   },
@@ -2646,16 +2436,16 @@
     ]
   },
   {
-    "domain": "seirdy.one",
+    "domain": "semble.so",
     "count": 2,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://seirdy.one/bookmarks/"
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://semble.so/"
       },
       {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://seirdy.one"
+        "sourceUrl": "https://hacdias.com/2026/02/09/bookmarking-the-web/",
+        "targetUrl": "https://semble.so/"
       }
     ]
   },
@@ -2670,6 +2460,34 @@
       {
         "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
         "targetUrl": "https://soju.im/doc/soju.1.html"
+      }
+    ]
+  },
+  {
+    "domain": "standartmag.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/31/standart/",
+        "targetUrl": "https://standartmag.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/08/16/low-caffeine/",
+        "targetUrl": "https://standartmag.com/"
+      }
+    ]
+  },
+  {
+    "domain": "substack.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
+        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-what-the-next-generation"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/10/05/thinking-out-loud-master-project/",
+        "targetUrl": "https://adlrocha.substack.com/p/adlrocha-my-vision-for-a-new-internet"
       }
     ]
   },
@@ -2758,20 +2576,6 @@
     ]
   },
   {
-    "domain": "xkcd.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
-        "targetUrl": "https://xkcd.com/about/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://xkcd.com/"
-      }
-    ]
-  },
-  {
     "domain": "yubico.com",
     "count": 2,
     "links": [
@@ -2782,16 +2586,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/10/17/yubikey-setup/",
         "targetUrl": "https://www.yubico.com/genuine/"
-      }
-    ]
-  },
-  {
-    "domain": "100r.co",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://100r.co"
       }
     ]
   },
@@ -2826,16 +2620,6 @@
     ]
   },
   {
-    "domain": "alpinelinux.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://alpinelinux.org/atom.xml"
-      }
-    ]
-  },
-  {
     "domain": "amsterdamsebos.nl",
     "count": 1,
     "links": [
@@ -2866,16 +2650,6 @@
     ]
   },
   {
-    "domain": "annoying.technology",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://annoying.technology/"
-      }
-    ]
-  },
-  {
     "domain": "apachefriends.org",
     "count": 1,
     "links": [
@@ -2892,6 +2666,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/11/processing-bosch-ebike-flow-fit-files/",
         "targetUrl": "https://apps.apple.com/us/app/healthfit/id1202650514"
+      }
+    ]
+  },
+  {
+    "domain": "ar.al",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
+        "targetUrl": "https://ar.al/2020/08/07/what-is-the-small-web/"
       }
     ]
   },
@@ -2936,12 +2720,12 @@
     ]
   },
   {
-    "domain": "barryfrost.com",
+    "domain": "austinhenley.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://barryfrost.com/"
+        "sourceUrl": "https://hacdias.com/2025/07/23/software-for-fun/",
+        "targetUrl": "https://austinhenley.com/blog/programmingasplay.html"
       }
     ]
   },
@@ -2956,52 +2740,12 @@
     ]
   },
   {
-    "domain": "bearblog.dev",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://herman.bearblog.dev/"
-      }
-    ]
-  },
-  {
     "domain": "beepb00p.xyz",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2022/10/29/how-to-annotate-literally-everything/",
         "targetUrl": "https://beepb00p.xyz/annotating.html"
-      }
-    ]
-  },
-  {
-    "domain": "ben.page",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://ben.page/"
-      }
-    ]
-  },
-  {
-    "domain": "benjojo.co.uk",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://blog.benjojo.co.uk"
-      }
-    ]
-  },
-  {
-    "domain": "berjon.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://berjon.com/"
       }
     ]
   },
@@ -3036,16 +2780,6 @@
     ]
   },
   {
-    "domain": "boddez.net",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://jan.boddez.net"
-      }
-    ]
-  },
-  {
     "domain": "boldvoice.com",
     "count": 1,
     "links": [
@@ -3062,16 +2796,6 @@
       {
         "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
         "targetUrl": "https://bookhive.buzz/"
-      }
-    ]
-  },
-  {
-    "domain": "brunty.me",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://brunty.me/"
       }
     ]
   },
@@ -3196,12 +2920,32 @@
     ]
   },
   {
+    "domain": "cosmik.network",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/09/bookmarking-the-web/",
+        "targetUrl": "https://notes.cosmik.network/3me2iifnwic2x"
+      }
+    ]
+  },
+  {
     "domain": "craft-wallet.com",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://craft-wallet.com/"
+      }
+    ]
+  },
+  {
+    "domain": "dame.is",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://dame.is"
       }
     ]
   },
@@ -3376,16 +3120,6 @@
     ]
   },
   {
-    "domain": "eatonphil.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "http://notes.eatonphil.com/"
-      }
-    ]
-  },
-  {
     "domain": "ebpf.io",
     "count": 1,
     "links": [
@@ -3422,16 +3156,6 @@
       {
         "sourceUrl": "https://hacdias.com/2025/01/31/recently/",
         "targetUrl": "https://www.efteling.com/nl"
-      }
-    ]
-  },
-  {
-    "domain": "engineersneedart.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://www.engineersneedart.com"
       }
     ]
   },
@@ -3496,16 +3220,6 @@
     ]
   },
   {
-    "domain": "filippo.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://blog.filippo.io/"
-      }
-    ]
-  },
-  {
     "domain": "flickr.com",
     "count": 1,
     "links": [
@@ -3542,16 +3256,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/04/01/recently/",
         "targetUrl": "https://fruitpunch.ai/"
-      }
-    ]
-  },
-  {
-    "domain": "garrit.xyz",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://garrit.xyz"
       }
     ]
   },
@@ -3636,32 +3340,12 @@
     ]
   },
   {
-    "domain": "go.dev",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://go.dev/blog/feed.atom"
-      }
-    ]
-  },
-  {
     "domain": "godaddy.com",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
         "targetUrl": "https://godaddy.com/"
-      }
-    ]
-  },
-  {
-    "domain": "golangweekly.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://golangweekly.com/"
       }
     ]
   },
@@ -3752,16 +3436,6 @@
       {
         "sourceUrl": "https://hacdias.com/uses/",
         "targetUrl": "https://www.hetzner.com/"
-      }
-    ]
-  },
-  {
-    "domain": "heyokyay.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://heyokyay.com"
       }
     ]
   },
@@ -3906,6 +3580,16 @@
     ]
   },
   {
+    "domain": "jamesg.blog",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/30/spotify-wrapped/",
+        "targetUrl": "https://jamesg.blog/2023/11/29/spotify-wrapped/"
+      }
+    ]
+  },
+  {
     "domain": "jeffhuang.com",
     "count": 1,
     "links": [
@@ -3926,6 +3610,16 @@
     ]
   },
   {
+    "domain": "jonworth.eu",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/26/a-deutsche-bahn-tale-on-ice/",
+        "targetUrl": "https://jonworth.eu/"
+      }
+    ]
+  },
+  {
     "domain": "jquery.com",
     "count": 1,
     "links": [
@@ -3942,26 +3636,6 @@
       {
         "sourceUrl": "https://hacdias.com/2014/07/20/chamadas-ajax-com-jquery-e-php/",
         "targetUrl": "http://json.org/"
-      }
-    ]
-  },
-  {
-    "domain": "jvns.ca",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "http://jvns.ca"
-      }
-    ]
-  },
-  {
-    "domain": "jvt.me",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://www.jvt.me/kind/articles/"
       }
     ]
   },
@@ -4036,16 +3710,6 @@
     ]
   },
   {
-    "domain": "lkhrs.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://www.lkhrs.com/"
-      }
-    ]
-  },
-  {
     "domain": "lobste.rs",
     "count": 1,
     "links": [
@@ -4086,32 +3750,12 @@
     ]
   },
   {
-    "domain": "margin.at",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
-        "targetUrl": "https://margin.at/"
-      }
-    ]
-  },
-  {
     "domain": "matrix.org",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2022/06/05/trying-matrix-decentralized-messaging/",
         "targetUrl": "https://matrix.org"
-      }
-    ]
-  },
-  {
-    "domain": "max-inden.de",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://max-inden.de/"
       }
     ]
   },
@@ -4176,16 +3820,6 @@
     ]
   },
   {
-    "domain": "mikestone.me",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://mikestone.me/"
-      }
-    ]
-  },
-  {
     "domain": "mingw.org",
     "count": 1,
     "links": [
@@ -4206,32 +3840,12 @@
     ]
   },
   {
-    "domain": "mtlynch.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://mtlynch.io/"
-      }
-    ]
-  },
-  {
     "domain": "museumhelmond.nl",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2023/02/28/recently/",
         "targetUrl": "https://museumhelmond.nl/kasteel-helmond/"
-      }
-    ]
-  },
-  {
-    "domain": "mxb.dev",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://mxb.dev"
       }
     ]
   },
@@ -4252,16 +3866,6 @@
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
         "targetUrl": "https://www.nightjet.com/"
-      }
-    ]
-  },
-  {
-    "domain": "niqwithq.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://niqwithq.com"
       }
     ]
   },
@@ -4312,16 +3916,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/02/13/ownyourtrakt/",
         "targetUrl": "https://oauth.net/2/"
-      }
-    ]
-  },
-  {
-    "domain": "ohhelloana.blog",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://ohhelloana.blog"
       }
     ]
   },
@@ -4406,16 +4000,6 @@
     ]
   },
   {
-    "domain": "paritybit.ca",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://www.paritybit.ca"
-      }
-    ]
-  },
-  {
     "domain": "parlamento.pt",
     "count": 1,
     "links": [
@@ -4446,42 +4030,12 @@
     ]
   },
   {
-    "domain": "paulstamatiou.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://paulstamatiou.com"
-      }
-    ]
-  },
-  {
-    "domain": "pbfcomics.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://pbfcomics.com/"
-      }
-    ]
-  },
-  {
     "domain": "personalsit.es",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://personalsit.es/"
-      }
-    ]
-  },
-  {
-    "domain": "pesky.moe",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://blog.pesky.moe/"
       }
     ]
   },
@@ -4502,16 +4056,6 @@
       {
         "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
         "targetUrl": "https://pinata.cloud"
-      }
-    ]
-  },
-  {
-    "domain": "pketh.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://pketh.org"
       }
     ]
   },
@@ -4582,16 +4126,6 @@
       {
         "sourceUrl": "https://hacdias.com/2016/03/05/hello-world/",
         "targetUrl": "https://www.quora.com/Why-should-I-learn-Programming"
-      }
-    ]
-  },
-  {
-    "domain": "rakhim.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://rakhim.org/"
       }
     ]
   },
@@ -4706,12 +4240,12 @@
     ]
   },
   {
-    "domain": "semble.so",
+    "domain": "seirdy.one",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
-        "targetUrl": "https://semble.so/"
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://seirdy.one/bookmarks/"
       }
     ]
   },
@@ -4742,16 +4276,6 @@
       {
         "sourceUrl": "https://hacdias.com/contact/",
         "targetUrl": "https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66"
-      }
-    ]
-  },
-  {
-    "domain": "simonsafar.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://simonsafar.com"
       }
     ]
   },
@@ -4836,32 +4360,12 @@
     ]
   },
   {
-    "domain": "standartmag.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/31/standart/",
-        "targetUrl": "https://standartmag.com/"
-      }
-    ]
-  },
-  {
     "domain": "stanford.edu",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2022/10/30/physician-explains-how-covid-19-mutes-sense-of-smell/",
         "targetUrl": "https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/"
-      }
-    ]
-  },
-  {
-    "domain": "stanislas.blog",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://stanislas.blog/"
       }
     ]
   },
@@ -5166,16 +4670,6 @@
     ]
   },
   {
-    "domain": "vmx.cx",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "http://vmx.cx/cgi-bin/blog/index.cgi"
-      }
-    ]
-  },
-  {
     "domain": "wakuli.com",
     "count": 1,
     "links": [
@@ -5236,16 +4730,6 @@
     ]
   },
   {
-    "domain": "werd.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://werd.io/"
-      }
-    ]
-  },
-  {
     "domain": "whimsical.club",
     "count": 1,
     "links": [
@@ -5262,16 +4746,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
         "targetUrl": "https://www.wireguard.com/install/"
-      }
-    ]
-  },
-  {
-    "domain": "wizardzines.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://wizardzines.com"
       }
     ]
   },
@@ -5296,12 +4770,12 @@
     ]
   },
   {
-    "domain": "xeiaso.net",
+    "domain": "xkcd.com",
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://xeiaso.net/"
+        "sourceUrl": "https://hacdias.com/2019/07/05/mirrorring-xkcd-ipfs/",
+        "targetUrl": "https://xkcd.com/about/"
       }
     ]
   },
@@ -5346,42 +4820,12 @@
     ]
   },
   {
-    "domain": "zdimension.fr",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://zdimension.fr/"
-      }
-    ]
-  },
-  {
-    "domain": "zerokspot.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://zerokspot.com/"
-      }
-    ]
-  },
-  {
     "domain": "znc.in",
     "count": 1,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
         "targetUrl": "https://wiki.znc.in/Reverse_Proxy#Caddy"
-      }
-    ]
-  },
-  {
-    "domain": "zylstra.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/blogroll/",
-        "targetUrl": "https://www.zylstra.org/blog"
       }
     ]
   }
