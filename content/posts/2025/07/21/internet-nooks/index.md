@@ -14,7 +14,7 @@ tags:
   - archival
   - fun
   - web
-  - bookmarks
+  - links
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3luibmfjgzp2x
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7fkeyv26

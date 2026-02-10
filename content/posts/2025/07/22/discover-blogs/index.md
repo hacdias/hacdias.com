@@ -12,7 +12,7 @@ categories:
 tags:
   - small web
   - personal website
-  - bookmarks
+  - links
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lujxr4ctd22k
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7gkxrw2h
