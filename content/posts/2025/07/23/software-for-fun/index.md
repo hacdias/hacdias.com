@@ -12,7 +12,7 @@ categories:
 tags:
   - software
   - fun
-  - bookmarks
+  - links
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lunhvib5ro2w
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7hojbg24

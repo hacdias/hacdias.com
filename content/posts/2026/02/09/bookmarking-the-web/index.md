@@ -12,7 +12,7 @@ categories:
 tags:
   - at-protocol
   - tools
-  - bookmarks
+  - links
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meggiy2dss2v
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3megguihf742d
