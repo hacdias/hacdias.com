@@ -1,18 +1,12 @@
 {{- $isListing := .Listing -}}
 {{- with .Page -}}
   {{- $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) -}}
-  {{- $bookmark := index .Params "bookmark-of" -}}
   {{- $rating := index .Params "rating" -}}
   {{- $read := index .Params "read" -}}
   {{- $header := "1" -}}
   {{- if $isListing }}{{ $header = "2"  }}{{ end -}}
   <header>
-    {{- if $bookmark -}}
-      <h{{ $header }} class='smaller'>
-        <a href="{{ $bookmark }}" rel='noopener noreferrer' title="{{ .Title }}" class="h-cite u-bookmark-of nl">{{- .Title -}}</a>
-        <span class='lg wn'>via {{ (urls.Parse $bookmark).Host }}</span>
-      </h{{ $header }}>
-    {{- else if $read -}}
+    {{- if $read -}}
       <h{{ $header }} class='smaller'>
         {{- if $isListing -}}
           <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">
@@ -40,7 +34,6 @@
       <a href="{{ .RelPermalink }}" class="nl">
         {{- if not .Date.IsZero -}}
           <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-            {{ if $bookmark }}Bookmarked
             {{ else if $rating }}Reviewed
             {{ else if $read }}Read
             {{ else }}Published
