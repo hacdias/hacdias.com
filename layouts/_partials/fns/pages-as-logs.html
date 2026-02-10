@@ -11,11 +11,6 @@
       "name" .Title
       "author" .Params.read.author
     ) }}
-  {{ else if index .Params "bookmark-of" }}
-    {{ $log = $log | merge (dict
-      "name" .Title
-      "via" ((urls.Parse (index .Params "bookmark-of")).Host)
-    ) }}
   {{ else }}
     {{ $log = $log | merge (dict "name" .Title) }}
   {{ end }}
