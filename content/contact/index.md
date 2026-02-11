@@ -1,6 +1,5 @@
 ---
 title: Contact
-noWebmentions: true
 ---
 
 Do you have any feedback, or just want to chat? Feel free to reach out! You can easily reach out to me by mail - [**mail@hacdias.com**](mailto:mail@hacdias.com) ([PGP key](/pubkey.asc)) -, or by messaging me on [**{{< favicon "signal.org" >}} Signal**](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66). <small>Every piece of communication regarding *✨ guest posts ✨* on my *personal* website will be piped into /dev/null.</small>

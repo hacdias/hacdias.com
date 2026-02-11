@@ -2,7 +2,6 @@
 title: Resume
 description: My resume.
 noIndex: true
-noWebmentions: true
 ---
 
 <!--more-->

@@ -1,7 +1,6 @@
 ---
 title: Support
 noIndex: true
-noWebmentions: true
 ---
 
 Have I ever somehow affected you in a positive way? Then feel free to support me. It can either be a one-time donation, or you can continuously support me. This will ensure that I will be able to keep working on my [open source](https://github.com/hacdias) projects, as well as blogging. 

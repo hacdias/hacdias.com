@@ -1,7 +1,6 @@
 ---
 title: Home
 description: Henrique is a software engineer who is passionate about open source, digital identity, web technology, and user agency. In his free time, he enjoys staying active, programming, photography, and a tasty cup of coffee or tea.
-noWebmentions: true
 favoriteCaptures:
   - /posts/2022/10/19/capturing-leiden
   - /posts/2023/02/24/engelberg-captures
