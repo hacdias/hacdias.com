@@ -48,7 +48,6 @@
   <link rel='indieauth-metadata' href='{{ absURL "/.well-known/oauth-authorization-server" }}'>
   <link rel='authorization_endpoint' href='{{ absURL "/auth" }}'>
   <link rel='token_endpoint' href='{{ absURL "/token" }}'>
-  <link rel='micropub' href='{{ absURL "/micropub" }}'>
   <link rel='me' href='{{ absURL "/pubkey.asc" }}' rel='pgpkey'>
   {{ range .Site.Params.author.identities -}}
     <link rel='me' href='{{ . }}' />
