@@ -900,60 +900,6 @@
     ]
   },
   {
-    "domain": "jim-nielsen.com",
-    "count": 12,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/18/website-fidelity/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity-browser/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/01/website-fidelity-browser-perspective/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/website-fidelity/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/verified-personal-website/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/30/recently/",
-        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/28/recently/",
-        "targetUrl": "https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://blog.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
-        "targetUrl": "https://notes.jim-nielsen.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
-        "targetUrl": "https://blog.jim-nielsen.com/2023/well-known-avatar/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
-        "targetUrl": "https://blog.jim-nielsen.com/2022/browser-level-color-scheme-preference/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/06/01/recently/",
-        "targetUrl": "https://blog.jim-nielsen.com/"
-      }
-    ]
-  },
-  {
     "domain": "seblog.nl",
     "count": 11,
     "links": [
@@ -1000,6 +946,48 @@
       {
         "sourceUrl": "https://hacdias.com/2025/11/06/nederlands-leerreis/",
         "targetUrl": "https://seblog.nl/"
+      }
+    ]
+  },
+  {
+    "domain": "jim-nielsen.com",
+    "count": 9,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/11/14/verified-checkmark/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/verified-personal-website/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/12/30/recently/",
+        "targetUrl": "https://blog.jim-nielsen.com/about/external-links"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/28/recently/",
+        "targetUrl": "https://blog.jim-nielsen.com/2023/notes-dot-jim-nielsen-dot-com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://blog.jim-nielsen.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/06/20/small-elements-website-inspired-others/",
+        "targetUrl": "https://notes.jim-nielsen.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://blog.jim-nielsen.com/2023/well-known-avatar/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/08/24/which-well-known-resources/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/25/website-level-color-scheme-preferences/",
+        "targetUrl": "https://blog.jim-nielsen.com/2022/browser-level-color-scheme-preference/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/06/01/recently/",
+        "targetUrl": "https://blog.jim-nielsen.com/"
       }
     ]
   },
@@ -2016,20 +2004,6 @@
     ]
   },
   {
-    "domain": "eta.st",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/07/reversing-uk-mobile-rail-tickets/",
-        "targetUrl": "https://eta.st/2023/01/31/rail-tickets.html"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/07/reversing-uk-mobile-rail-tickets/",
-        "targetUrl": "https://eta.st/tickets/"
-      }
-    ]
-  },
-  {
     "domain": "europa.eu",
     "count": 2,
     "links": [
@@ -2212,20 +2186,6 @@
     ]
   },
   {
-    "domain": "macwright.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/12/09/playing-with-activitypub/",
-        "targetUrl": "https://macwright.com/2022/12/09/activitypub.html"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2024/01/02/moving-to-fastmail/",
-        "targetUrl": "https://macwright.com/2023/09/24/masked-email"
-      }
-    ]
-  },
-  {
     "domain": "macwright.org",
     "count": 2,
     "links": [
@@ -2404,20 +2364,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/11/02/backing-up-email/",
         "targetUrl": "http://pyropus.ca/software/getmail/configuration.html#conf-retriever"
-      }
-    ]
-  },
-  {
-    "domain": "randsinrepose.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/12/07/shields-down/",
-        "targetUrl": "https://randsinrepose.com/archives/shields-down/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/12/07/shields-down/",
-        "targetUrl": "https://randsinrepose.com/archives/bored-people-quit/"
       }
     ]
   },
@@ -2736,16 +2682,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/02/29/notable-to-hugo/",
         "targetUrl": "https://bear.app/"
-      }
-    ]
-  },
-  {
-    "domain": "beepb00p.xyz",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/29/how-to-annotate-literally-everything/",
-        "targetUrl": "https://beepb00p.xyz/annotating.html"
       }
     ]
   },
@@ -3290,16 +3226,6 @@
     ]
   },
   {
-    "domain": "gibney.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/27/a-syntax-for-self-tracking/",
-        "targetUrl": "https://www.gibney.org/a_syntax_for_self-tracking"
-      }
-    ]
-  },
-  {
     "domain": "gifcities.org",
     "count": 1,
     "links": [
@@ -3500,16 +3426,6 @@
     ]
   },
   {
-    "domain": "intergalactic.systems",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/25/air-quality/",
-        "targetUrl": "https://intergalactic.systems/posts/post-1965946732.html"
-      }
-    ]
-  },
-  {
     "domain": "ipfs-thing.io",
     "count": 1,
     "links": [
@@ -3596,16 +3512,6 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
         "targetUrl": "https://jeffhuang.com/designed_to_last/"
-      }
-    ]
-  },
-  {
-    "domain": "jmmv.dev",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/06/28/fast-machines-slow-machines/",
-        "targetUrl": "https://jmmv.dev/2023/06/fast-machines-slow-machines.html"
       }
     ]
   },
@@ -3736,6 +3642,16 @@
       {
         "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
         "targetUrl": "https://lunrjs.com/"
+      }
+    ]
+  },
+  {
+    "domain": "macwright.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/02/moving-to-fastmail/",
+        "targetUrl": "https://macwright.com/2023/09/24/masked-email"
       }
     ]
   },
@@ -3936,16 +3852,6 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
         "targetUrl": "https://ooh.directory"
-      }
-    ]
-  },
-  {
-    "domain": "openrss.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/10/18/cloudflare-blocking-rss/",
-        "targetUrl": "https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users"
       }
     ]
   },
@@ -4360,16 +4266,6 @@
     ]
   },
   {
-    "domain": "stanford.edu",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/30/physician-explains-how-covid-19-mutes-sense-of-smell/",
-        "targetUrl": "https://scopeblog.stanford.edu/2022/04/15/physician-explains-how-covid-19-mutes-sense-of-smell/"
-      }
-    ]
-  },
-  {
     "domain": "starbucks.pt",
     "count": 1,
     "links": [
@@ -4756,16 +4652,6 @@
       {
         "sourceUrl": "https://hacdias.com/2016/11/10/fundamentals-programming-beginning/",
         "targetUrl": "http://www.wolfram.com/language/"
-      }
-    ]
-  },
-  {
-    "domain": "wordpress.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/01/02/how-many-layers-of-ui-inconsistencies-are-in-windows-11/",
-        "targetUrl": "https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/"
       }
     ]
   },
