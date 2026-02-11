@@ -14,7 +14,7 @@ aliases:
 thumbnail: image:2024-01-07-sneeuwpop-cupcakes
 ---
 
-Vorige maand besloot ik om een [nieuwe serie](/2023/12/07/vergeet-niet-om-in-te-checken-het-begin/) op deze website te beginnen: vergeet niet om in te checken! Vandaag ga ik nog een beetje meer schrijven over mijn Nederlands leervoortgang en ook over wat is tijdens de vorige maand gebeurt.
+Vorige maand besloot ik om een [nieuwe serie](/2023/12/07/inchecken/) op deze website te beginnen: vergeet niet om in te checken! Vandaag ga ik nog een beetje meer schrijven over mijn Nederlands leervoortgang en ook over wat is tijdens de vorige maand gebeurt.
 
 <!--more-->
 
