@@ -31,8 +31,8 @@ tags:
   - nature
   - netherlands
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7skc36qk2g
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7skd3lxh2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx4lszwu2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx4msbwi26
 thumbnail: image:2021-04-09-foggy-morning-02
 ---
 

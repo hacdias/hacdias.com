@@ -1,6 +1,6 @@
 ---
 title: Eindhoven Sunrise
-date: 2021-02-28T00:00:00Z
+date: 2021-02-28T09:00:00Z
 photos:
   - url: image:2021-02-28-eindhoven-sunrise-church
     width: 3000
@@ -16,7 +16,7 @@ tags:
   - netherlands
   - architecture
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rss6ye52s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqvyad4qm24
 thumbnail: image:2021-02-28-eindhoven-sunrise-church
 ---
 

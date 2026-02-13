@@ -35,8 +35,8 @@ tags:
   - museums
   - transit
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rworikn2e
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rwplyqi2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxapsp7f2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxaqprmg2k
   - https://www.instagram.com/p/Cc2i0M2sAAf/
 thumbnail: image:2022-04-27-london-dara
 ---

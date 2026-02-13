@@ -1,6 +1,6 @@
 ---
 title: Steel Wool
-date: 2021-09-16T06:45:00Z
+date: 2021-09-16T06:50:00Z
 photos:
   - url: image:2021-09-16-steelwool-07
     width: 3000
@@ -37,9 +37,9 @@ tags:
   - sparks
   - night
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rw37wjq2h
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rw47kh626
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rw544jd23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7jmvch2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7kf3uq26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7l7hhp2b
 thumbnail: image:2021-09-16-steelwool-07
 ---
 

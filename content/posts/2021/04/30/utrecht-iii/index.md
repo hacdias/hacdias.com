@@ -26,8 +26,8 @@ tags:
   - architecture
   - canals
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rua4akg26
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7ruazegz2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx5kyy6a2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx5lshnq24
 thumbnail: image:2021-04-30-utrecht-11
 ---
 
