@@ -1,5 +1,5 @@
 ---
-title: Pixelated Witch's Hut
+title: Witch's Hut
 date: 2020-04-08T08:15:00Z
 lastmod: 2021-09-20T05:52:02.569325459Z
 photos:
@@ -17,4 +17,4 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseyk6o32g
 ---
 
-I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it.
+Some years ago, I dabbled a bit with [pixel art](/2019/04/18/trying-pixel-art/). Yesterday, I decided to try something out again, so now I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it. I'll be using it for my 404 page.
