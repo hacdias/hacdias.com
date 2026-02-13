@@ -56,7 +56,7 @@
           {{ $collection := index $parts 3 }}
           {{ $recordKey := index $parts 4 }}
 
-          {{ if eq $collection "app.bsky.feed.post" }}
+          {{ if and (eq $collection "app.bsky.feed.post") (eq $bsky "") }}
             {{ $bsky = printf "https://bsky.app/profile/hacdias.com/post/%s" $recordKey }}
           {{ end }}
         {{ else if strings.HasPrefix $s "https://fosstodon.org" }}
