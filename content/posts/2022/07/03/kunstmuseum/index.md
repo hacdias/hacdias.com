@@ -31,8 +31,8 @@ tags:
   - architecture
   - netherlands
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxaipwf2e
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxbdf7w2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxbbcxuv2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxbcdcta2b
 thumbnail: image:2022-07-03-kunstmuseum-01
 ---
 

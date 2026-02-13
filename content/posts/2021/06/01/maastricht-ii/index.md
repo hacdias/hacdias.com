@@ -25,8 +25,8 @@ tags:
   - netherlands
   - architecture
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rvhlyy626
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rviil362g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx6vfhoz2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx6wceel2g
   - https://www.instagram.com/p/CO6P31uLDLN/
 thumbnail: image:2021-06-01-maastricht-07
 ---

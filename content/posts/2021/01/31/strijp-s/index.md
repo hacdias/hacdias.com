@@ -34,8 +34,8 @@ tags:
   - architecture
   - urban
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rsnpg7626
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rsomdn726
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx43sr3a24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx44mcz32e
   - https://www.instagram.com/p/COUnXtrrMQJ/
 thumbnail: image:2021-01-31-strijps
 ---

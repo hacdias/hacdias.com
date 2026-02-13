@@ -13,7 +13,7 @@ categories:
 tags:
   - fire
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rvopuwa2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx74424r26
 thumbnail: image:2021-09-16-fire-01
 ---
 

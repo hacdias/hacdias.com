@@ -1,6 +1,6 @@
 ---
 title: Eindhoven Winter
-date: 2021-02-28T00:00:00Z
+date: 2021-02-28T10:00:00Z
 photos:
   - url: image:2021-02-28-eindhoven-snow-01
     width: 2588
@@ -28,8 +28,8 @@ tags:
   - eindhoven
   - netherlands
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rt3af2r2y
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rt4a3ds23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqvqw5spy2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqvqx5nai23
 thumbnail: image:2021-02-28-eindhoven-snow-01
 ---
 

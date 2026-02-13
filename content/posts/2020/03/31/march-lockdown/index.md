@@ -1,6 +1,6 @@
 ---
 title: March Lockdown
-date: 2020-03-31T12:00:00.893Z
+date: 2020-03-31T12:00:00Z
 photos:
   - url: image:2020-03-31-hometown-cross
     title: Do Not Enter
@@ -42,8 +42,8 @@ tags:
   - hometown
   - portugal
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rqicrvq2d
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rqj3uag2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqw3ydxkb2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqw3zd7a326
 thumbnail: image:2020-03-31-hometown-cross
 ---
 
