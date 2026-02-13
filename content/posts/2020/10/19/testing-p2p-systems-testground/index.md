@@ -8,6 +8,7 @@ tags:
   - testing
   - web3
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqn2m6f4i26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfgsz4w2e
 ---
 
